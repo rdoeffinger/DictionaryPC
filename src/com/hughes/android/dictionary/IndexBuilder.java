@@ -36,7 +36,7 @@ public class IndexBuilder {
     rootBuilder.forEachNode(new Function<Node>() {
       @Override
       public void invoke(final Node node) {
-        for (final List<EntryDescriptor> entryDescriptors : node.entries.values()) {
+        for (final List<EntryDescriptor> entryDescriptors : node.entryDescriptorsMap.values()) {
           Collections.sort(entryDescriptors);
         }
       }});
@@ -78,7 +78,7 @@ public class IndexBuilder {
     final String normalizedWord;
     
     final TreeMap<String, Node> children = new TreeMap<String, Node>();
-    final TreeMap<String,List<EntryDescriptor>> entries = new TreeMap<String, List<EntryDescriptor>>();
+    final TreeMap<String,List<EntryDescriptor>> entryDescriptorsMap = new TreeMap<String, List<EntryDescriptor>>();
     
 //    final List<EntryDescriptor> offsets = new ArrayList<EntryDescriptor>();
     
@@ -198,7 +198,7 @@ public class IndexBuilder {
 
     @Override
     public String toString() {
-      return normalizedWord + ":" + offsets.size();
+      return normalizedWord;
     }
     
     void dump(final RandomAccessFile file) throws IOException {
@@ -215,9 +215,12 @@ public class IndexBuilder {
         file.writeInt(child.getValue().indexFileLocation);
       }
       
-      // Offsets.
-      file.writeInt(offsets.size());
-      for (int i = 0; i < offsets.size(); i++) {
+      // Entries.
+      file.writeInt(entryDescriptorsMap.size());
+      for (final Map.Entry<String, List<EntryDescriptor>> entry : entryDescriptorsMap.entrySet()) {
+        file.writeUTF(entry.getKey());
+        file.writeInt(entry.getValue().size());
+        
         file.writeInt(offsets.get(i).offset);
       }
       
