@@ -1,14 +1,14 @@
 package com.hughes.android.dictionary;
 
+import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.RandomAccessFile;
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.LinkedHashSet;
+import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.Set;
 import java.util.TreeMap;
 import java.util.regex.Pattern;
 
@@ -25,13 +25,18 @@ public class IndexBuilder {
       System.err.println("No input file.");
       return;
     }
+    final String dictionaryFileName = args[0];
+    createIndex(dictionaryFileName, Entry.LANG1);
+    createIndex(dictionaryFileName, Entry.LANG2);
+  }
 
-    final String file = args[0];
-    final byte lang = Entry.LANG1;
+  private static void createIndex(final String dictionaryFileName,
+      final byte lang) throws IOException, FileNotFoundException,
+      ClassNotFoundException {
     Node rootBuilder;
-    rootBuilder = createIndex(file, lang);
-    FileUtil.write(rootBuilder, String.format("%s_builder_%d.serialized", file, lang));
-    rootBuilder = (Node) FileUtil.read(String.format("%s_builder_%d.serialized", file, lang));
+    rootBuilder = processDictionaryLines(dictionaryFileName, lang);
+    FileUtil.write(rootBuilder, String.format("%s_builder_%d.serialized", dictionaryFileName, lang));
+    rootBuilder = (Node) FileUtil.read(String.format("%s_builder_%d.serialized", dictionaryFileName, lang));
 
     rootBuilder.forEachNode(new Function<Node>() {
       @Override
@@ -43,11 +48,10 @@ public class IndexBuilder {
     
     // Dump twice to get accurate file locations.
     for (int i = 0; i < 2; ++i) {
-      final RandomAccessFile raf = new RandomAccessFile(String.format(Dictionary.INDEX_FORMAT, file, lang), "rw"); 
+      final RandomAccessFile raf = new RandomAccessFile(String.format(Dictionary.INDEX_FORMAT, dictionaryFileName, lang), "rw"); 
       rootBuilder.dump(raf);
       raf.close();
     }
-    
   }
 
   // ----------------------------------------------------------------
@@ -75,34 +79,35 @@ public class IndexBuilder {
   }
 
   static final class Node implements Serializable {
-    final String normalizedWord;
+    final String normalizedToken;
     
     final TreeMap<String, Node> children = new TreeMap<String, Node>();
     final TreeMap<String,List<EntryDescriptor>> entryDescriptorsMap = new TreeMap<String, List<EntryDescriptor>>();
     
 //    final List<EntryDescriptor> offsets = new ArrayList<EntryDescriptor>();
     
-    int descendantOffsetCount = 0;
-    
     int indexFileLocation = -1;
 
-    public Node(final String normalizedWord) {
-      if (normalizedWord.length() == 0) {
+    private int descendantTokenCount;
+    private int descendantEntryCount = 0;
+
+    public Node(final String normalizedToken) {
+      if (normalizedToken.length() == 0) {
         System.out.println("Created root.");
       }
-      this.normalizedWord = normalizedWord.intern();
+      this.normalizedToken = normalizedToken.intern();
     }
 
-    public Node getNode(final String nWord, final int pos,
+    public Node getNode(final String nToken, final int pos,
         final boolean create) {
-      assert this.normalizedWord.equals(nWord.substring(0, pos));
+      assert this.normalizedToken.equals(nToken.substring(0, pos));
 
-      if (pos == nWord.length()) {
-        assert normalizedWord.equals(nWord);
+      if (pos == nToken.length()) {
+        assert normalizedToken.equals(nToken);
         return this;
       }
 
-      final String rest = nWord.substring(pos);
+      final String rest = nToken.substring(pos);
       assert rest.length() > 0;
 
       final Map.Entry<String, Node> lcsEntry;
@@ -129,7 +134,7 @@ public class IndexBuilder {
         if (!create) {
           return null;
         }
-        final Node result = new Node(nWord);
+        final Node result = new Node(nToken);
         final Object old = children.put(rest.intern(), result);
         assert old == null;
         // System.out.println("  Adding final chunk: " + rest);
@@ -141,9 +146,9 @@ public class IndexBuilder {
       // The map already contained the LCS.
       if (lcs.length() == lcsEntry.getKey().length()) {
         assert lcs.equals(lcsEntry.getKey());
-        final Node result = lcsEntry.getValue().getNode(nWord,
+        final Node result = lcsEntry.getValue().getNode(nToken,
             pos + lcs.length(), create);
-        assert result.normalizedWord.equals(nWord);
+        assert result.normalizedToken.equals(nToken);
         return result;
       }
 
@@ -154,7 +159,7 @@ public class IndexBuilder {
       // Have to split, inserting the LCS.
       // System.out.println("  Splitting " + lcsEntry + "/" + word + " @ " +
       // lcs);
-      final Node newChild = new Node(nWord.substring(0, pos + lcs.length()));
+      final Node newChild = new Node(nToken.substring(0, pos + lcs.length()));
       final Object old = children.put(lcs.intern(), newChild);
       assert old == null;
       children.remove(lcsEntry.getKey());
@@ -164,7 +169,7 @@ public class IndexBuilder {
       if (lcs.equals(rest)) {
         return newChild;
       }
-      final Node result = new Node(nWord);
+      final Node result = new Node(nToken);
       final Object old2 = newChild.children.put(rest.substring(lcs.length())
           .intern(), result);
       assert old2 == null;
@@ -189,16 +194,22 @@ public class IndexBuilder {
     }
 
     void recursiveSetDescendantOffsetCount() {
-      descendantOffsetCount = offsets.size();
+      descendantEntryCount = 0;
+      descendantTokenCount = 0;
+      for (final List<EntryDescriptor> entryDescriptors : entryDescriptorsMap.values()) {
+        descendantTokenCount += 1;
+        descendantEntryCount += entryDescriptors.size();
+      }
       for (final Node child : children.values()) {
         child.recursiveSetDescendantOffsetCount();
-        descendantOffsetCount += child.descendantOffsetCount;
+        descendantTokenCount += child.descendantTokenCount;
+        descendantEntryCount += child.descendantEntryCount;
       }
     }
 
     @Override
     public String toString() {
-      return normalizedWord;
+      return normalizedToken;
     }
     
     void dump(final RandomAccessFile file) throws IOException {
@@ -220,8 +231,9 @@ public class IndexBuilder {
       for (final Map.Entry<String, List<EntryDescriptor>> entry : entryDescriptorsMap.entrySet()) {
         file.writeUTF(entry.getKey());
         file.writeInt(entry.getValue().size());
-        
-        file.writeInt(offsets.get(i).offset);
+        for (int i = 0; i < entry.getValue().size(); ++i) {
+          file.writeInt(entry.getValue().get(i).offset);
+        }
       }
       
       // Dump children.
@@ -229,18 +241,27 @@ public class IndexBuilder {
         child.getValue().dump(file);
       }
     }
+
+    public void addToken(final String token, final EntryDescriptor entryDescriptor) {
+      List<EntryDescriptor> entryDescriptors = this.entryDescriptorsMap.get(token);
+      if (entryDescriptors == null) {
+        entryDescriptors = new ArrayList<EntryDescriptor>();
+        this.entryDescriptorsMap.put(token, entryDescriptors);
+      }
+      entryDescriptors.add(entryDescriptor);
+    }
   }
 
   // ----------------------------------------------------------------
 
-  static Node createIndex(final String file, final byte lang) throws IOException {
+  static Node processDictionaryLines(final String dictionaryFileName, final byte lang) throws IOException {
     final Node root = new Node("");
-    final RandomAccessFile raf = new RandomAccessFile(file, "r");
+    final RandomAccessFile dictionaryFile = new RandomAccessFile(dictionaryFileName, "r");
     String line;
     final Entry entry = new Entry();
     int lineCount = 0;
     long fileLocation = 0;
-    while ((line = raf.readLine()) != null) {
+    while ((line = dictionaryFile.readLine()) != null) {
       assert ((int) fileLocation) == fileLocation;
 
       line = line.trim();
@@ -249,23 +270,20 @@ public class IndexBuilder {
       }
       final String text = entry.getIndexableText(Entry.LANG1);
       final String[] tokens = WHITESPACE.split(text);
-      final Set<String> tokenSet = new LinkedHashSet<String>();
+      final Map<String,String> tokenToNormalizedMap = new LinkedHashMap<String,String>();
       for (String token : tokens) {
         if (token.length() <= 1 || !Character.isLetter(token.charAt(0))) {
           continue;
         }
-        tokenSet.add(EntryFactory.entryFactory.normalizeToken(token, lang));
+        tokenToNormalizedMap.put(token, EntryFactory.entryFactory.normalizeToken(token, lang));
       }
-      for (final String normalized : tokenSet) {
-        // System.out.println("Inserting: " + normalized);
-        if ("die".equals(normalized) || "eine".equals(normalized)) {
-          // System.out.println("hello");
-        }
-        final Node node = root.getNode(normalized, 0, true);
-        node.offsets.add(new EntryDescriptor((int) fileLocation, tokens.length));
-        assert node == root.getNode(normalized, 0, false);
-        assert normalized
-            .equals(root.getNode(normalized, 0, false).normalizedWord);
+      for (final Map.Entry<String, String> tokenToNormalized : tokenToNormalizedMap.entrySet()) {
+        final String normalizedToken = tokenToNormalized.getValue();
+        final Node node = root.getNode(normalizedToken, 0, true);
+        node.addToken(tokenToNormalized.getKey(), new EntryDescriptor((int) fileLocation, tokens.length));
+        assert node == root.getNode(normalizedToken, 0, false);
+        assert normalizedToken
+            .equals(root.getNode(normalizedToken, 0, false).normalizedToken);
       }
 
       if (lineCount % 10000 == 0) {
@@ -273,9 +291,9 @@ public class IndexBuilder {
       }
       
       lineCount++;
-      fileLocation = raf.getFilePointer();
+      fileLocation = dictionaryFile.getFilePointer();
     }
-    raf.close();
+    dictionaryFile.close();
     return root;
   }
 
