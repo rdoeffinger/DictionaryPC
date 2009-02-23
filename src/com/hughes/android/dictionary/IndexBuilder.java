@@ -193,17 +193,18 @@ public class IndexBuilder {
       return count;
     }
 
-    void recursiveSetDescendantOffsetCount() {
+    void recursiveSetDescendantCounts() {
+      descendantTokenCount = entryDescriptorsMap.size();
       descendantEntryCount = 0;
-      descendantTokenCount = 0;
-      for (final List<EntryDescriptor> entryDescriptors : entryDescriptorsMap.values()) {
-        descendantTokenCount += 1;
-        descendantEntryCount += entryDescriptors.size();
-      }
+
       for (final Node child : children.values()) {
-        child.recursiveSetDescendantOffsetCount();
+        child.recursiveSetDescendantCounts();
         descendantTokenCount += child.descendantTokenCount;
         descendantEntryCount += child.descendantEntryCount;
+      }
+
+      for (final List<EntryDescriptor> entryDescriptors : entryDescriptorsMap.values()) {
+        descendantEntryCount += entryDescriptors.size();
       }
     }
 
@@ -219,7 +220,7 @@ public class IndexBuilder {
         assert indexFileLocation == file.getFilePointer();
       }
       
-      // Children.
+      // Children to location.
       file.writeInt(children.size());
       for (final Map.Entry<String, Node> child : children.entrySet()) {
         file.writeUTF(child.getKey());
@@ -235,6 +236,10 @@ public class IndexBuilder {
           file.writeInt(entry.getValue().get(i).offset);
         }
       }
+
+      // Dump counts.
+      file.writeInt(descendantTokenCount);
+      file.writeInt(descendantEntryCount);
       
       // Dump children.
       for (final Map.Entry<String, Node> child : children.entrySet()) {
@@ -275,7 +280,7 @@ public class IndexBuilder {
         if (token.length() <= 1 || !Character.isLetter(token.charAt(0))) {
           continue;
         }
-        tokenToNormalizedMap.put(token, EntryFactory.entryFactory.normalizeToken(token, lang));
+        tokenToNormalizedMap.put(token, EntryFactory.entryFactory.normalizeToken(token));
       }
       for (final Map.Entry<String, String> tokenToNormalized : tokenToNormalizedMap.entrySet()) {
         final String normalizedToken = tokenToNormalized.getValue();
@@ -294,6 +299,9 @@ public class IndexBuilder {
       fileLocation = dictionaryFile.getFilePointer();
     }
     dictionaryFile.close();
+    
+    root.recursiveSetDescendantCounts();
+    
     return root;
   }
 

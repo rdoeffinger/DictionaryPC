@@ -15,35 +15,66 @@ public class IndexTest extends TestCase {
   static final String file = "c:\\dict-de-en.txt";
   static final String file_index = file + "_index_0";
   
+  public void testRoot() throws IOException {
+    System.out.println("  testRoot");
+    final Index index = new Index(file_index);
+    final Node node = index.lookup("");
+    assertNotNull(node);
+    
+    assertEquals(312220, node.descendantTokenCount);
+    assertEquals(1087063, node.descendantEntryCount);
+    
+    for (final String token : node.tokenToOffsets.keySet()) {
+      System.out.println(token);
+      assertTrue(token.toLowerCase().contains("handhubwagen"));
+    }
+  }
+  
   public void testLookup() throws IOException {
-    System.out.println("testLookup");
+    System.out.println("  testLookup");
     final Index index = new Index(file_index);
     final Node node = index.lookup("handhubwagen");
     assertNotNull(node);
     
-    final RandomAccessFile raf = new RandomAccessFile(file, "r");
-    for (int i = 0; i < node.offsets.length; ++i) {
-      final String entry = FileUtil.readLine(raf, node.offsets[i]);
-      System.out.println(entry);
-      assertTrue(entry.toLowerCase().contains("handhubwagen"));
+    assertEquals(1, node.descendantTokenCount);
+    assertEquals(2, node.descendantEntryCount);
+    
+    for (final String token : node.tokenToOffsets.keySet()) {
+      System.out.println(token);
+      assertTrue(token.toLowerCase().contains("handhubwagen"));
     }
   }
 
   public void testGetDescendantOffsets() throws IOException {
-    System.out.println("testGetDescendantOffsets");
+    System.out.println("  testGetDescendantOffsets");
     final Index index = new Index(file_index);
     
     final Node node = index.lookup("handhebe");
     assertNotNull(node);
-    assertEquals("handhebel", node.text);
+    assertEquals("handhebel", node.nodeHandle.normalizedToken);
     final Set<Integer> offsets = new LinkedHashSet<Integer>();
     node.getDescendantEntryOffsets(offsets, 10);
     final RandomAccessFile raf = new RandomAccessFile(file, "r");
     for (final Integer offset : offsets) {
       final String entry = FileUtil.readLine(raf, offset);
       System.out.println(entry);
-      assertTrue(entry.toLowerCase().contains(node.text));
+      assertTrue(entry.toLowerCase().contains(node.nodeHandle.normalizedToken));
     }
+  }
+
+  public void testGetDescendants() throws IOException {
+    System.out.println("  testGetDescendant");
+    final Index index = new Index(file_index);
+    final RandomAccessFile raf = new RandomAccessFile(file, "r");
+    for (int i = 1000000; i < 1000050; ++i) {
+      final Object o = index.root.getDescendant(i);
+      if (o instanceof Integer) {
+        System.out.println("  " + FileUtil.readLine(raf, (Integer)o));
+      } else {
+        System.out.println(o);
+      }
+    }
+    raf.close();
   }
 
 }
