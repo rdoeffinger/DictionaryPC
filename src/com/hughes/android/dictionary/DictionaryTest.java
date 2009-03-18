@@ -5,10 +5,12 @@ import java.io.IOException;
 import java.io.RandomAccessFile;
 import java.util.Arrays;
 import java.util.List;
+import java.util.concurrent.atomic.AtomicBoolean;
 
 import junit.framework.TestCase;
 
 import com.hughes.android.dictionary.Dictionary.IndexEntry;
+import com.hughes.android.dictionary.Dictionary.Language;
 import com.hughes.android.dictionary.Dictionary.Row;
 
 public class DictionaryTest extends TestCase {
@@ -17,7 +19,7 @@ public class DictionaryTest extends TestCase {
     final File file = File.createTempFile("asdf", "asdf");
     file.deleteOnExit();
 
-    final Dictionary goldenDict;
+//    final Dictionary goldenDict;
     final List<Entry> entries = Arrays.asList(
         new Entry("der Hund", "the dog"),
         new Entry("Die grosse Katze", "The big cat"), 
@@ -37,7 +39,7 @@ public class DictionaryTest extends TestCase {
       dict.write(raf);
       raf.close();
       
-      goldenDict = dict;
+//      goldenDict = dict;
     }
 
     final RandomAccessFile raf = new RandomAccessFile(file, "r");
@@ -62,6 +64,35 @@ public class DictionaryTest extends TestCase {
       ++rowCount;
     }
 
+    for (int l = 0; l <= 1; l++) {
+      final Language lang = dict.languages[l];
+      for (int i = 0; i < lang.sortedIndex.size(); i++) {
+        final IndexEntry indexEntry = lang.sortedIndex.get(i);
+        if (indexEntry.word.toLowerCase().equals("dieb"))
+          System.out.println();
+        final IndexEntry lookedUpEntry = lang.sortedIndex.get(lang.lookup(indexEntry.word, new AtomicBoolean(false)));
+        if (!indexEntry.word.toLowerCase().equals(lookedUpEntry.word.toLowerCase()))
+          System.out.println();
+        assertEquals(indexEntry.word.toLowerCase(), lookedUpEntry.word.toLowerCase());
+      }
+    }
+    
+    assertEquals("Die", dict.languages[0].sortedIndex.get(dict.languages[0].lookup("die", new AtomicBoolean())).word);
+
+  }
+  
+  public void testTextNorm() throws IOException {
+//    final File file = File.createTempFile("asdf", "asdf");
+//    file.deleteOnExit();
+
+//      final Dictionary goldenDict;
+    final List<Entry> entries = Arrays.asList(
+        new Entry("der Hund", "the dog"),
+        new Entry("Die grosse Katze", "The big cat"), 
+        new Entry("die Katze", "the cat"),
+        new Entry("gross", "big"),
+        new Entry("Dieb", "thief"),
+        new Entry("rennen", "run"));
 
   }
 
