@@ -28,9 +28,14 @@ public class DictionaryBuilder {
     }
     final String dictOutFilename = args[0];
 
-    final Dictionary dict = new Dictionary(Language.DE, Language.EN);
+    final Dictionary dict = new Dictionary("de-en.txt - a German-English dictionary\n" +
+    		"Version: 1.6, 2009-04-16\n" +
+    		"Source: http://dict.tu-chemnitz.de/\n" +
+    		"Thanks to Frank Richter.", Language.DE, Language.EN);
     System.out.println(Charset.forName("Cp1252"));
     processInputFile("c:\\de-en-chemnitz.txt", dict, true, Charset.forName("UTF8"));
+    
+    // Thad's extra sauce: 
     processInputFile("c:\\de-en-dictcc.txt", dict, false, Charset.forName("Cp1252"));
 
     createIndex(dict, Entry.LANG1);

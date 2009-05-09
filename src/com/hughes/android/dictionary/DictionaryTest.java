@@ -3,8 +3,11 @@ package com.hughes.android.dictionary;
 import java.io.File;
 import java.io.IOException;
 import java.io.RandomAccessFile;
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.List;
+import java.util.Random;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 import junit.framework.TestCase;
@@ -29,7 +32,7 @@ public class DictionaryTest extends TestCase {
         Entry.parseFromLine("rennen :: run", false));
 
     {
-      final Dictionary dict = new Dictionary(Language.DE, Language.EN);
+      final Dictionary dict = new Dictionary("test", Language.DE, Language.EN);
       dict.entries.addAll(entries);
       DictionaryBuilder.createIndex(dict, Entry.LANG1);
       DictionaryBuilder.createIndex(dict, Entry.LANG2);
@@ -46,7 +49,7 @@ public class DictionaryTest extends TestCase {
     assertEquals(entries, dict.entries);
     
     assertEquals("der", dict.languageDatas[0].sortedIndex.get(0).word);
-    assertEquals("Die", dict.languageDatas[0].sortedIndex.get(1).word);
+    assertEquals("die", dict.languageDatas[0].sortedIndex.get(1).word);
     
     for (final IndexEntry indexEntry : dict.languageDatas[0].sortedIndex) {
       System.out.println(indexEntry);
@@ -75,7 +78,8 @@ public class DictionaryTest extends TestCase {
       }
     }
     
-    assertEquals("Die", dict.languageDatas[0].sortedIndex.get(dict.languageDatas[0].lookup("die", new AtomicBoolean())).word);
+    assertEquals("die", dict.languageDatas[0].sortedIndex.get(dict.languageDatas[0].lookup("Die", new AtomicBoolean())).word);
+    assertEquals("die", dict.languageDatas[0].sortedIndex.get(dict.languageDatas[0].lookup("die", new AtomicBoolean())).word);
 
   }
   
@@ -100,7 +104,7 @@ public class DictionaryTest extends TestCase {
 
     // Hyphenated words get put both multiple listings.
 
-    final Dictionary dict = new Dictionary(Language.DE, Language.EN);
+    final Dictionary dict = new Dictionary("test", Language.DE, Language.EN);
     dict.entries.addAll(entries);
     DictionaryBuilder.createIndex(dict, Entry.LANG1);
     DictionaryBuilder.createIndex(dict, Entry.LANG2);
@@ -114,6 +118,44 @@ public class DictionaryTest extends TestCase {
       }
     }
 
+  }
+  
+  public void testGermanSort() {
+    assertEquals("grosformat", Language.DE.normalizeTokenForSort("Grosformat"));
+    final List<String> words = Arrays.asList(
+        "er-ben",
+        "erben",
+        "Erben",
+        "Erbse",
+        "Erbsen",
+        "essen",
+        "Essen",
+        "Grosformat",
+        "Grosformats",
+        "Grossformat",
+        "Großformat",
+        "Grossformats",
+        "Großformats",
+        "Großpoo",
+        "Großpoos",
+        "hulle",
+        "Hulle",
+        "Hum",
+        "huelle",
+        "Huelle",
+        "hülle",
+        "Hülle"
+        );
+    for (final String s : words) {
+      System.out.println(s + "\t" + Language.DE.normalizeTokenForSort(s));
+    }
+    final List<String> shuffled = new ArrayList<String>(words);
+    Collections.shuffle(shuffled, new Random(0));
+    Collections.sort(shuffled, Language.DE.tokenComparator);
+    System.out.println(shuffled.toString());
+    for (int i = 0; i < words.size(); ++i) {
+      assertEquals(words.get(i), shuffled.get(i));
+    }
   }
 
 
