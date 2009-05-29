@@ -29,7 +29,7 @@ public class DictionaryBuilder {
     final String dictOutFilename = args[0];
 
     final Dictionary dict = new Dictionary("de-en.txt - a German-English dictionary\n" +
-    		"Version: 1.6, 2009-04-16\n" +
+    		"Version: devel, 2009-04-17\n" +
     		"Source: http://dict.tu-chemnitz.de/\n" +
     		"Thanks to Frank Richter.", Language.DE, Language.EN);
     System.out.println(Charset.forName("Cp1252"));
@@ -108,7 +108,7 @@ public class DictionaryBuilder {
     Collections.sort(sortedIndex, new Comparator<TokenData>() {
       @Override
       public int compare(TokenData tokenData0, TokenData tokenData1) {
-        return dict.languageDatas[lang].language.tokenComparator.compare(tokenData0.token, tokenData1.token);
+        return dict.languageDatas[lang].language.sortComparator.compare(tokenData0.token, tokenData1.token);
       }});
 
     System.out.println("Sorting entries within each TokenData...");

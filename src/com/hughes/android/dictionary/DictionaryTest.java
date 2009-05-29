@@ -6,8 +6,9 @@ import java.io.RandomAccessFile;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
+import java.util.LinkedHashSet;
 import java.util.List;
-import java.util.Random;
+import java.util.Set;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 import junit.framework.TestCase;
@@ -84,16 +85,18 @@ public class DictionaryTest extends TestCase {
   }
   
   public void testTextNorm() throws IOException {
+    System.out.println("\n\ntestTextNorm");
     final List<Entry> entries = Arrays.asList(
         Entry.parseFromLine("Hund {m} :: dog", true),
+        Entry.parseFromLine("'CHRISTOS' :: doh", true),
         Entry.parseFromLine("\"Pick-up\"-Presse {f} :: baler", true),
         Entry.parseFromLine("(Ach was), echt? [auch ironisch] :: No shit! [also ironic]", true),
         Entry.parseFromLine("(akuter) Myokardinfarkt {m} <AMI / MI> :: (acute) myocardial infarction <AMI / MI>", true),
         Entry.parseFromLine("(reine) Vermutung {f} :: guesswork", true),
         Entry.parseFromLine("(mit) 6:1 vorne liegen :: to be 6-1 up [football]", true),
         Entry.parseFromLine("(auf) den Knopf drücken [auch fig.: auslösen] :: to push the button [also fig.: initiate]", false),
-        Entry.parseFromLine("Adjektiv {n} /Adj./; Eigenschaftswort {n} [gramm.] | Adjektive {pl}; EigenschaftswÃ¶rter {pl} :: adjective /adj./ | adjectives", true),
-        Entry.parseFromLine("Ã„lteste {m,f}; Ã„ltester :: oldest; eldest", true),
+        Entry.parseFromLine("Adjektiv {n} /Adj./; Eigenschaftswort {n} [gramm.] | Adjektive {pl}; Eigenschaftswoerter {pl} :: adjective /adj./ | adjectives", true),
+        Entry.parseFromLine("Älteste {m,f}; Ältester :: oldest; eldest", true),
         Entry.parseFromLine("\"...\", schloss er an. :: '...,' he added.", true),
         Entry.parseFromLine("besonderer | besondere | besonderes :: extra", false),
         Entry.parseFromLine("| zu Pferde; zu Pferd | reiten :: horseback | on horseback | go on horseback", true),
@@ -101,7 +104,7 @@ public class DictionaryTest extends TestCase {
         );
 
     assertFalse(entries.contains(null));
-
+    
     // Hyphenated words get put both multiple listings.
 
     final Dictionary dict = new Dictionary("test", Language.DE, Language.EN);
@@ -109,23 +112,31 @@ public class DictionaryTest extends TestCase {
     DictionaryBuilder.createIndex(dict, Entry.LANG1);
     DictionaryBuilder.createIndex(dict, Entry.LANG2);
     
-    for (int l = 0; l <= 1; l++) {
-      final LanguageData languageData = dict.languageDatas[l];
+    for (int lang = 0; lang <= 1; lang++) {
+      final LanguageData languageData = dict.languageDatas[lang];
       System.out.println("\n" + languageData.language);
+      final Set<String> words = new LinkedHashSet<String>();
       for (int i = 0; i < languageData.sortedIndex.size(); i++) {
         final IndexEntry indexEntry = languageData.sortedIndex.get(i);
         System.out.println(indexEntry);
+        words.add(indexEntry.word);
+      }
+      if (lang == 0) {
+        assertTrue(words.contains("CHRISTOS"));
+        assertTrue(words.contains("akuter"));
+      } else {
+        assertTrue(words.contains("6-1"));
       }
     }
 
   }
   
   public void testGermanSort() {
-    assertEquals("grosformat", Language.DE.normalizeTokenForSort("Grosformat"));
+    assertEquals("aüÄ", Language.DE.textNorm("aueAe"));
     final List<String> words = Arrays.asList(
-        "er-ben",
         "erben",
         "Erben",
+        "er-ben",
         "Erbse",
         "Erbsen",
         "essen",
@@ -140,23 +151,31 @@ public class DictionaryTest extends TestCase {
         "Großpoos",
         "hulle",
         "Hulle",
-        "Hum",
-        "huelle",
-        "Huelle",
         "hülle",
-        "Hülle"
+        "huelle",
+        "Hülle",
+        "Huelle",
+        "Hum"
         );
+    assertEquals(0, Language.DE.sortComparator.compare("hülle", "huelle"));
+    assertEquals(0, Language.DE.sortComparator.compare("huelle", "hülle"));
+    
+    assertEquals(-1, Language.DE.sortComparator.compare("hülle", "Hülle"));
+    assertEquals(0, Language.DE.findComparator.compare("hülle", "Hülle"));
+    assertEquals(-1, Language.DE.findComparator.compare("hulle", "Hülle"));
+
+    
     for (final String s : words) {
-      System.out.println(s + "\t" + Language.DE.normalizeTokenForSort(s));
+      System.out.println(s + "\t" + Language.DE.textNorm(s));
     }
-    final List<String> shuffled = new ArrayList<String>(words);
-    Collections.shuffle(shuffled, new Random(0));
-    Collections.sort(shuffled, Language.DE.tokenComparator);
-    System.out.println(shuffled.toString());
+    final List<String> sorted = new ArrayList<String>(words);
+//    Collections.shuffle(shuffled, new Random(0));
+    Collections.sort(sorted, Language.DE.sortComparator);
+    System.out.println(sorted.toString());
     for (int i = 0; i < words.size(); ++i) {
-      assertEquals(words.get(i), shuffled.get(i));
+      System.out.println(words.get(i) + "\t" + sorted.get(i));
+      assertEquals(words.get(i), sorted.get(i));
     }
   }
-
 
 }
