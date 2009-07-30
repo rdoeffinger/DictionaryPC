@@ -178,4 +178,26 @@ public class DictionaryTest extends TestCase {
     }
   }
 
+  public void testEnglishSort() {
+
+    final List<String> words = Arrays.asList(
+        "preppie", 
+        "preppy",
+        "pre-print", 
+        "preprocess");
+    
+    final List<String> sorted = new ArrayList<String>(words);
+    Collections.sort(sorted, Language.EN.sortComparator);
+    for (int i = 0; i < words.size(); ++i) {
+      if (i > 0) {
+        assertTrue(Language.EN.sortComparator.compare(words.get(i-1), words.get(i)) < 0);
+      }
+      System.out.println(words.get(i) + "\t" + sorted.get(i));
+      assertEquals(words.get(i), sorted.get(i));
+    }
+    
+    assertTrue(Language.EN.sortCollator.compare("preppy", "pre-print") < 0);
+
+  }
+
 }

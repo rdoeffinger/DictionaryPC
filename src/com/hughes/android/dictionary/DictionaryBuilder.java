@@ -36,7 +36,7 @@ public class DictionaryBuilder {
     processInputFile("c:\\de-en-chemnitz.txt", dict, true, Charset.forName("UTF8"));
     
     // Thad's extra sauce: 
-    processInputFile("c:\\de-en-dictcc.txt", dict, false, Charset.forName("Cp1252"));
+//    processInputFile("c:\\de-en-dictcc.txt", dict, false, Charset.forName("Cp1252"));
 
     createIndex(dict, Entry.LANG1);
     createIndex(dict, Entry.LANG2);
