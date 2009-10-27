@@ -52,6 +52,18 @@ public class DictionaryTest extends TestCase {
     assertEquals("der", dict.languageDatas[0].sortedIndex.get(0).word);
     assertEquals("die", dict.languageDatas[0].sortedIndex.get(1).word);
     
+    assertEquals(0, dict.languageDatas[0].getPrevTokenRow(0));
+    assertEquals(0, dict.languageDatas[0].getPrevTokenRow(2));
+    assertEquals(0, dict.languageDatas[0].getPrevTokenRow(1));
+    assertEquals(4, dict.languageDatas[0].getPrevTokenRow(6));
+
+    assertEquals(2, dict.languageDatas[0].getNextTokenRow(0));
+    assertEquals(2, dict.languageDatas[0].getNextTokenRow(1));
+    assertEquals(4, dict.languageDatas[0].getNextTokenRow(2));
+    assertEquals(8, dict.languageDatas[0].getNextTokenRow(6));
+    assertEquals(dict.languageDatas[0].rows.size() - 1, dict.languageDatas[0].getNextTokenRow(dict.languageDatas[0].rows.size() - 2));
+    assertEquals(dict.languageDatas[0].rows.size() - 1, dict.languageDatas[0].getNextTokenRow(dict.languageDatas[0].rows.size() - 1));
+
     for (final IndexEntry indexEntry : dict.languageDatas[0].sortedIndex) {
       System.out.println(indexEntry);
     }
@@ -94,13 +106,14 @@ public class DictionaryTest extends TestCase {
         Entry.parseFromLine("(akuter) Myokardinfarkt {m} <AMI / MI> :: (acute) myocardial infarction <AMI / MI>", true),
         Entry.parseFromLine("(reine) Vermutung {f} :: guesswork", true),
         Entry.parseFromLine("(mit) 6:1 vorne liegen :: to be 6-1 up [football]", true),
-        Entry.parseFromLine("(auf) den Knopf drücken [auch fig.: auslösen] :: to push the button [also fig.: initiate]", false),
+        Entry.parseFromLine("(auf) den Knopf drÃ¼cken [auch fig.: auslÃ¶sen] :: to push the button [also fig.: initiate]", false),
         Entry.parseFromLine("Adjektiv {n} /Adj./; Eigenschaftswort {n} [gramm.] | Adjektive {pl}; Eigenschaftswoerter {pl} :: adjective /adj./ | adjectives", true),
-        Entry.parseFromLine("Älteste {m,f}; Ältester :: oldest; eldest", true),
+        Entry.parseFromLine("Ã„lteste {m,f}; Ã„ltester :: oldest; eldest", true),
         Entry.parseFromLine("\"...\", schloss er an. :: '...,' he added.", true),
         Entry.parseFromLine("besonderer | besondere | besonderes :: extra", false),
         Entry.parseFromLine("| zu Pferde; zu Pferd | reiten :: horseback | on horseback | go on horseback", true),
-        Entry.parseFromLine("Hauptaugenmerk {m} | sein Hauptaugenmerk richten auf ::  | to focus (one's) attention on", true)
+        Entry.parseFromLine("Hauptaugenmerk {m} | sein Hauptaugenmerk richten auf ::  | to focus (one's) attention on", true),
+        Entry.parseFromLine("&#963;-Algebra {f} :: &#963;-field", true)
         );
 
     assertFalse(entries.contains(null));
@@ -124,7 +137,11 @@ public class DictionaryTest extends TestCase {
       if (lang == 0) {
         assertTrue(words.contains("CHRISTOS"));
         assertTrue(words.contains("akuter"));
+        assertTrue(words.contains("Ïƒ-Algebra"));
+
+        assertFalse(words.contains("-Algebra"));
       } else {
+        assertTrue(words.contains("Ïƒ-field"));
         assertTrue(words.contains("6-1"));
       }
     }
@@ -132,11 +149,11 @@ public class DictionaryTest extends TestCase {
   }
   
   public void testGermanSort() {
-    assertEquals("aüÄ", Language.DE.textNorm("aueAe"));
+    assertEquals("aÃ¼Ã„", Language.DE.textNorm("aueAe"));
     final List<String> words = Arrays.asList(
+        "er-ben",
         "erben",
         "Erben",
-        "er-ben",
         "Erbse",
         "Erbsen",
         "essen",
@@ -144,25 +161,25 @@ public class DictionaryTest extends TestCase {
         "Grosformat",
         "Grosformats",
         "Grossformat",
-        "Großformat",
+        "GroÃŸformat",
         "Grossformats",
-        "Großformats",
-        "Großpoo",
-        "Großpoos",
+        "GroÃŸformats",
+        "GroÃŸpoo",
+        "GroÃŸpoos",
         "hulle",
         "Hulle",
-        "hülle",
+        "hÃ¼lle",
         "huelle",
-        "Hülle",
+        "HÃ¼lle",
         "Huelle",
         "Hum"
         );
-    assertEquals(0, Language.DE.sortComparator.compare("hülle", "huelle"));
-    assertEquals(0, Language.DE.sortComparator.compare("huelle", "hülle"));
+    assertEquals(0, Language.DE.sortComparator.compare("hÃ¼lle", "huelle"));
+    assertEquals(0, Language.DE.sortComparator.compare("huelle", "hÃ¼lle"));
     
-    assertEquals(-1, Language.DE.sortComparator.compare("hülle", "Hülle"));
-    assertEquals(0, Language.DE.findComparator.compare("hülle", "Hülle"));
-    assertEquals(-1, Language.DE.findComparator.compare("hulle", "Hülle"));
+    assertEquals(-1, Language.DE.sortComparator.compare("hÃ¼lle", "HÃ¼lle"));
+    assertEquals(0, Language.DE.findComparator.compare("hÃ¼lle", "HÃ¼lle"));
+    assertEquals(-1, Language.DE.findComparator.compare("hulle", "HÃ¼lle"));
 
     
     for (final String s : words) {
@@ -181,9 +198,9 @@ public class DictionaryTest extends TestCase {
   public void testEnglishSort() {
 
     final List<String> words = Arrays.asList(
+        "pre-print", 
         "preppie", 
         "preppy",
-        "pre-print", 
         "preprocess");
     
     final List<String> sorted = new ArrayList<String>(words);
@@ -196,7 +213,7 @@ public class DictionaryTest extends TestCase {
       assertEquals(words.get(i), sorted.get(i));
     }
     
-    assertTrue(Language.EN.sortCollator.compare("preppy", "pre-print") < 0);
+    assertTrue(Language.EN.sortCollator.compare("pre-print", "preppy") < 0);
 
   }
 

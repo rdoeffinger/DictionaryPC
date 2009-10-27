@@ -8,6 +8,7 @@ import java.io.InputStreamReader;
 import java.io.RandomAccessFile;
 import java.nio.charset.Charset;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.HashMap;
@@ -19,25 +20,37 @@ import com.hughes.android.dictionary.Dictionary.IndexEntry;
 import com.hughes.android.dictionary.Dictionary.Row;
 
 public class DictionaryBuilder {
+  
+  static final List<InputFile> inputFiles = Arrays.asList(
+      new InputFile("c:\\thad\\de-en-chemnitz.txt", Charset.forName("UTF8"), true),
+      // Thad's extra sauce: 
+      new InputFile("c:\\thad\\de-en-dictcc.txt", Charset.forName("Cp1252"), false)
+      );
+  static final String dictOutFilename = "c:\\thad\\de-en.dict";
+  
+  static class InputFile {
+    final String file;
+    final Charset charset;
+    final boolean hasMultipleSubentries;
+    public InputFile(String file, Charset charset, boolean hasMultipleSubentries) {
+      this.file = file;
+      this.charset = charset;
+      this.hasMultipleSubentries = hasMultipleSubentries;
+    }
+  }
 
   public static void main(String[] args) throws IOException,
       ClassNotFoundException {
-    if (args.length != 1) {
-      System.err.println("outputfile");
-      return;
-    }
-    final String dictOutFilename = args[0];
 
     final Dictionary dict = new Dictionary("de-en.txt - a German-English dictionary\n" +
     		"Version: devel, 2009-04-17\n" +
     		"Source: http://dict.tu-chemnitz.de/\n" +
     		"Thanks to Frank Richter.", Language.DE, Language.EN);
     System.out.println(Charset.forName("Cp1252"));
-    processInputFile("c:\\de-en-chemnitz.txt", dict, true, Charset.forName("UTF8"));
+    for (final InputFile inputFile : inputFiles) {
+      processInputFile(dict, inputFile);
+    }
     
-    // Thad's extra sauce: 
-//    processInputFile("c:\\de-en-dictcc.txt", dict, false, Charset.forName("Cp1252"));
-
     createIndex(dict, Entry.LANG1);
     createIndex(dict, Entry.LANG2);
 
@@ -48,9 +61,8 @@ public class DictionaryBuilder {
     dictOut.close();
   }
 
-  private static void processInputFile(final String filename,
-      final Dictionary dict, final boolean hasMultipleSubentries, final Charset charset) throws FileNotFoundException, IOException {
-    final BufferedReader dictionaryIn = new BufferedReader(new InputStreamReader(new FileInputStream(filename), charset));
+  private static void processInputFile(final Dictionary dict, final InputFile inputFile) throws FileNotFoundException, IOException {
+    final BufferedReader dictionaryIn = new BufferedReader(new InputStreamReader(new FileInputStream(inputFile.file), inputFile.charset));
     String line;
     int lineCount = 0;
     while ((line = dictionaryIn.readLine()) != null) {
@@ -60,7 +72,7 @@ public class DictionaryBuilder {
         continue;
       }
 
-      final Entry entry = Entry.parseFromLine(line, hasMultipleSubentries);
+      final Entry entry = Entry.parseFromLine(line, inputFile.hasMultipleSubentries);
       if (entry == null) {
         System.err.println("Invalid entry: " + line);
         continue;
