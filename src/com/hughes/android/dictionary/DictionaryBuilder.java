@@ -22,9 +22,9 @@ import com.hughes.android.dictionary.Dictionary.Row;
 public class DictionaryBuilder {
   
   static final List<InputFile> inputFiles = Arrays.asList(
-      new InputFile("c:\\thad\\de-en-chemnitz.txt", Charset.forName("UTF8"), true),
+      new InputFile("c:\\thad\\de-en-chemnitz.txt", Charset.forName("UTF8"), true)
       // Thad's extra sauce: 
-      new InputFile("c:\\thad\\de-en-dictcc.txt", Charset.forName("Cp1252"), false)
+//      ,new InputFile("c:\\thad\\de-en-dictcc.txt", Charset.forName("Cp1252"), false)
       );
   static final String dictOutFilename = "c:\\thad\\de-en.dict";
   
@@ -43,7 +43,7 @@ public class DictionaryBuilder {
       ClassNotFoundException {
 
     final Dictionary dict = new Dictionary("de-en.txt - a German-English dictionary\n" +
-    		"Version: devel, 2009-04-17\n" +
+    		"Version: devel, 2009-08-12\n" +
     		"Source: http://dict.tu-chemnitz.de/\n" +
     		"Thanks to Frank Richter.", Language.DE, Language.EN);
     System.out.println(Charset.forName("Cp1252"));
