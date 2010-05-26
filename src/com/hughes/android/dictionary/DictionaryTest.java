@@ -33,7 +33,7 @@ public class DictionaryTest extends TestCase {
         Entry.parseFromLine("rennen :: run", false));
 
     {
-      final Dictionary dict = new Dictionary("test", Language.DE, Language.EN);
+      final Dictionary dict = new Dictionary("test", Language.de, Language.en);
       dict.entries.addAll(entries);
       DictionaryBuilder.createIndex(dict, Entry.LANG1);
       DictionaryBuilder.createIndex(dict, Entry.LANG2);
@@ -120,7 +120,7 @@ public class DictionaryTest extends TestCase {
     
     // Hyphenated words get put both multiple listings.
 
-    final Dictionary dict = new Dictionary("test", Language.DE, Language.EN);
+    final Dictionary dict = new Dictionary("test", Language.de, Language.en);
     dict.entries.addAll(entries);
     DictionaryBuilder.createIndex(dict, Entry.LANG1);
     DictionaryBuilder.createIndex(dict, Entry.LANG2);
@@ -149,7 +149,7 @@ public class DictionaryTest extends TestCase {
   }
   
   public void testGermanSort() {
-    assertEquals("aüÄ", Language.DE.textNorm("aueAe"));
+    assertEquals("aüÄ", Language.de.textNorm("aueAe"));
     final List<String> words = Arrays.asList(
         "er-ben",
         "erben",
@@ -174,20 +174,20 @@ public class DictionaryTest extends TestCase {
         "Huelle",
         "Hum"
         );
-    assertEquals(0, Language.DE.sortComparator.compare("hülle", "huelle"));
-    assertEquals(0, Language.DE.sortComparator.compare("huelle", "hülle"));
+    assertEquals(0, Language.de.sortComparator.compare("hülle", "huelle"));
+    assertEquals(0, Language.de.sortComparator.compare("huelle", "hülle"));
     
-    assertEquals(-1, Language.DE.sortComparator.compare("hülle", "Hülle"));
-    assertEquals(0, Language.DE.findComparator.compare("hülle", "Hülle"));
-    assertEquals(-1, Language.DE.findComparator.compare("hulle", "Hülle"));
+    assertEquals(-1, Language.de.sortComparator.compare("hülle", "Hülle"));
+    assertEquals(0, Language.de.findComparator.compare("hülle", "Hülle"));
+    assertEquals(-1, Language.de.findComparator.compare("hulle", "Hülle"));
 
     
     for (final String s : words) {
-      System.out.println(s + "\t" + Language.DE.textNorm(s));
+      System.out.println(s + "\t" + Language.de.textNorm(s));
     }
     final List<String> sorted = new ArrayList<String>(words);
 //    Collections.shuffle(shuffled, new Random(0));
-    Collections.sort(sorted, Language.DE.sortComparator);
+    Collections.sort(sorted, Language.de.sortComparator);
     System.out.println(sorted.toString());
     for (int i = 0; i < words.size(); ++i) {
       System.out.println(words.get(i) + "\t" + sorted.get(i));
@@ -204,17 +204,24 @@ public class DictionaryTest extends TestCase {
         "preprocess");
     
     final List<String> sorted = new ArrayList<String>(words);
-    Collections.sort(sorted, Language.EN.sortComparator);
+    Collections.sort(sorted, Language.en.sortComparator);
     for (int i = 0; i < words.size(); ++i) {
       if (i > 0) {
-        assertTrue(Language.EN.sortComparator.compare(words.get(i-1), words.get(i)) < 0);
+        assertTrue(Language.en.sortComparator.compare(words.get(i-1), words.get(i)) < 0);
       }
       System.out.println(words.get(i) + "\t" + sorted.get(i));
       assertEquals(words.get(i), sorted.get(i));
     }
     
-    assertTrue(Language.EN.sortCollator.compare("pre-print", "preppy") < 0);
+    assertTrue(Language.en.sortCollator.compare("pre-print", "preppy") < 0);
 
+  }
+  
+  public void testLanguage() {
+    System.out.println("languages=" + Language.symbolToLangauge.values());
+    assertEquals(Language.de, Language.lookup("de"));
+    assertEquals(Language.en, Language.lookup("en"));
+    assertEquals("es", Language.lookup("es").symbol);
   }
 
 }
