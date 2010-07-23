@@ -24,19 +24,19 @@ public class DictionaryTest extends TestCase {
     file.deleteOnExit();
 
 //    final Dictionary goldenDict;
-    final List<Entry> entries = Arrays.asList(
-        Entry.parseFromLine("der Hund :: the dog", false),
-        Entry.parseFromLine("Die grosse Katze :: The big cat", false), 
-        Entry.parseFromLine("die Katze :: the cat", false),
-        Entry.parseFromLine("gross :: big", false),
-        Entry.parseFromLine("Dieb :: thief", false),
-        Entry.parseFromLine("rennen :: run", false));
+    final List<SimpleEntry> entries = Arrays.asList(
+        SimpleEntry.parseFromLine("der Hund :: the dog", false),
+        SimpleEntry.parseFromLine("Die grosse Katze :: The big cat", false), 
+        SimpleEntry.parseFromLine("die Katze :: the cat", false),
+        SimpleEntry.parseFromLine("gross :: big", false),
+        SimpleEntry.parseFromLine("Dieb :: thief", false),
+        SimpleEntry.parseFromLine("rennen :: run", false));
 
     {
       final Dictionary dict = new Dictionary("test", Language.de, Language.en);
       dict.entries.addAll(entries);
-      DictionaryBuilder.createIndex(dict, Entry.LANG1);
-      DictionaryBuilder.createIndex(dict, Entry.LANG2);
+      DictionaryBuilder.createIndex(dict, SimpleEntry.LANG1);
+      DictionaryBuilder.createIndex(dict, SimpleEntry.LANG2);
       final RandomAccessFile raf = new RandomAccessFile(file, "rw");
       dict.write(raf);
       raf.close();
@@ -98,22 +98,22 @@ public class DictionaryTest extends TestCase {
   
   public void testTextNorm() throws IOException {
     System.out.println("\n\ntestTextNorm");
-    final List<Entry> entries = Arrays.asList(
-        Entry.parseFromLine("Hund {m} :: dog", true),
-        Entry.parseFromLine("'CHRISTOS' :: doh", true),
-        Entry.parseFromLine("\"Pick-up\"-Presse {f} :: baler", true),
-        Entry.parseFromLine("(Ach was), echt? [auch ironisch] :: No shit! [also ironic]", true),
-        Entry.parseFromLine("(akuter) Myokardinfarkt {m} <AMI / MI> :: (acute) myocardial infarction <AMI / MI>", true),
-        Entry.parseFromLine("(reine) Vermutung {f} :: guesswork", true),
-        Entry.parseFromLine("(mit) 6:1 vorne liegen :: to be 6-1 up [football]", true),
-        Entry.parseFromLine("(auf) den Knopf drücken [auch fig.: auslösen] :: to push the button [also fig.: initiate]", false),
-        Entry.parseFromLine("Adjektiv {n} /Adj./; Eigenschaftswort {n} [gramm.] | Adjektive {pl}; Eigenschaftswoerter {pl} :: adjective /adj./ | adjectives", true),
-        Entry.parseFromLine("Älteste {m,f}; Ältester :: oldest; eldest", true),
-        Entry.parseFromLine("\"...\", schloss er an. :: '...,' he added.", true),
-        Entry.parseFromLine("besonderer | besondere | besonderes :: extra", false),
-        Entry.parseFromLine("| zu Pferde; zu Pferd | reiten :: horseback | on horseback | go on horseback", true),
-        Entry.parseFromLine("Hauptaugenmerk {m} | sein Hauptaugenmerk richten auf ::  | to focus (one's) attention on", true),
-        Entry.parseFromLine("&#963;-Algebra {f} :: &#963;-field", true)
+    final List<SimpleEntry> entries = Arrays.asList(
+        SimpleEntry.parseFromLine("Hund {m} :: dog", true),
+        SimpleEntry.parseFromLine("'CHRISTOS' :: doh", true),
+        SimpleEntry.parseFromLine("\"Pick-up\"-Presse {f} :: baler", true),
+        SimpleEntry.parseFromLine("(Ach was), echt? [auch ironisch] :: No shit! [also ironic]", true),
+        SimpleEntry.parseFromLine("(akuter) Myokardinfarkt {m} <AMI / MI> :: (acute) myocardial infarction <AMI / MI>", true),
+        SimpleEntry.parseFromLine("(reine) Vermutung {f} :: guesswork", true),
+        SimpleEntry.parseFromLine("(mit) 6:1 vorne liegen :: to be 6-1 up [football]", true),
+        SimpleEntry.parseFromLine("(auf) den Knopf drücken [auch fig.: auslösen] :: to push the button [also fig.: initiate]", false),
+        SimpleEntry.parseFromLine("Adjektiv {n} /Adj./; Eigenschaftswort {n} [gramm.] | Adjektive {pl}; Eigenschaftswoerter {pl} :: adjective /adj./ | adjectives", true),
+        SimpleEntry.parseFromLine("Älteste {m,f}; Ältester :: oldest; eldest", true),
+        SimpleEntry.parseFromLine("\"...\", schloss er an. :: '...,' he added.", true),
+        SimpleEntry.parseFromLine("besonderer | besondere | besonderes :: extra", false),
+        SimpleEntry.parseFromLine("| zu Pferde; zu Pferd | reiten :: horseback | on horseback | go on horseback", true),
+        SimpleEntry.parseFromLine("Hauptaugenmerk {m} | sein Hauptaugenmerk richten auf ::  | to focus (one's) attention on", true),
+        SimpleEntry.parseFromLine("&#963;-Algebra {f} :: &#963;-field", true)
         );
 
     assertFalse(entries.contains(null));
@@ -122,8 +122,8 @@ public class DictionaryTest extends TestCase {
 
     final Dictionary dict = new Dictionary("test", Language.de, Language.en);
     dict.entries.addAll(entries);
-    DictionaryBuilder.createIndex(dict, Entry.LANG1);
-    DictionaryBuilder.createIndex(dict, Entry.LANG2);
+    DictionaryBuilder.createIndex(dict, SimpleEntry.LANG1);
+    DictionaryBuilder.createIndex(dict, SimpleEntry.LANG2);
     
     for (int lang = 0; lang <= 1; lang++) {
       final LanguageData languageData = dict.languageDatas[lang];

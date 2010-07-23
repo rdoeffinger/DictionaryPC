@@ -97,8 +97,8 @@ public class DictionaryBuilder {
       System.err.println("WARNING: couldn't parse arguments: " + keyValueArgs);
     }
     
-    createIndex(dict, Entry.LANG1);
-    createIndex(dict, Entry.LANG2);
+    createIndex(dict, SimpleEntry.LANG1);
+    createIndex(dict, SimpleEntry.LANG2);
 
     System.out.println("Writing dictionary.");
     final RandomAccessFile dictOut = new RandomAccessFile(dictOutFilename, "rw");
@@ -110,7 +110,7 @@ public class DictionaryBuilder {
     for (byte lang = 0; lang < 2; ++lang) {
       final LanguageData languageData = dict.languageDatas[lang];
       System.out.println("\nRandom words for: " + languageData.language.getSymbol());
-      for (int i = 0; i < 10; ++i) {
+      for (int i = 0; i < 20; ++i) {
         final int w = random.nextInt(languageData.sortedIndex.size());
         final IndexEntry entry = languageData.sortedIndex.get(w);
         final List<Row> rows = languageData.rows;
@@ -145,7 +145,7 @@ public class DictionaryBuilder {
         continue;
       }
 
-      final Entry entry = Entry.parseFromLine(line, hasMultipleSubentries);
+      final SimpleEntry entry = SimpleEntry.parseFromLine(line, hasMultipleSubentries);
       if (entry == null) {
         System.err.println("Invalid entry: " + line);
         continue;
@@ -167,7 +167,7 @@ public class DictionaryBuilder {
     final Map<String, TokenData> tokenToData = new TreeMap<String, TokenData>(dict.languageDatas[lang].language.sortComparator);
 
     for (int e = 0; e < dict.entries.size(); ++e) {
-      final Entry entry = dict.entries.get(e);
+      final SimpleEntry entry = dict.entries.get(e);
       final Set<String> tokens = entry.getIndexableTokens(lang);
       for (final String token : tokens) {
         TokenData tokenData = tokenToData.get(token);
@@ -217,7 +217,7 @@ public class DictionaryBuilder {
 
   static final class TokenEntryData implements Comparable<TokenEntryData> {
     final String token;
-    final Entry entry;
+    final SimpleEntry entry;
     final int entryIndex;
     
     private static final int bigNoOverflow = 100000;
@@ -226,7 +226,7 @@ public class DictionaryBuilder {
     int minSubEntryLength = bigNoOverflow;
     int minSubEntry = bigNoOverflow;
 
-    public TokenEntryData(final byte lang, final String token, final Entry entry, final int entryIndex) {
+    public TokenEntryData(final byte lang, final String token, final SimpleEntry entry, final int entryIndex) {
       this.token = token;
       this.entry = entry;
       this.entryIndex = entryIndex;

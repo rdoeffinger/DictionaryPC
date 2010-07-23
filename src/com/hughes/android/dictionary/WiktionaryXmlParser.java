@@ -9,7 +9,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
 import java.util.concurrent.atomic.AtomicInteger;
-import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import javax.xml.parsers.ParserConfigurationException;
@@ -80,22 +79,40 @@ public class WiktionaryXmlParser extends org.xml.sax.helpers.DefaultHandler {
       .compile("\\{\\{([^}]+)\\}\\}");
   private static final Pattern WIKI_DOUBLE_BRACKET = Pattern
       .compile("\\[\\[([^\\]]+)\\]\\]");
-  private static final Pattern WIKI_NEW_SECTION = Pattern.compile("^\\{\\{([^}]+)\\}\\}|^=");
+  private static final Pattern WIKI_NEW_SECTION = Pattern.compile("^\\{\\{([^}]+)\\}\\}|^=", Pattern.MULTILINE);
 
   enum Field {
-    Wortart("Wortart", null), Aussprache("Aussprache", null), Bedeutungen(
-        "Bedeutungen", Pattern.compile("\\{\\{Bedeutungen\\}\\}")), Synonome(
-        "Synonyme", Pattern.compile("\\{\\{Synonyme\\}\\}")), Gegenworte(
-        "Gegenworte", Pattern.compile("\\{\\{Gegenworte\\}\\}")), Oberbegriffe(
-        "Oberbegriffe", Pattern.compile("\\{\\{Oberbegriffe\\}\\}")), Unterbegriffe(
-        "Unterbegriffe", Pattern.compile("\\{\\{Unterbegriffe\\}\\}")), Beispiele(
-        "Beispiele", Pattern.compile("\\{\\{Beispiele\\}\\}")), Redewendungen(
-        "Redewendungen", Pattern.compile("\\{\\{Redewendungen\\}\\}")), CharakteristischeWortkombinationen(
-        "Charakteristische Wortkombinationen", Pattern
-            .compile("\\{\\{Charakteristische Wortkombinationen\\}\\}")), AbgeleiteteBegriffe(
-        "Abgeleitete Begriffe", Pattern
-            .compile("\\{\\{Abgeleitete Begriffe\\}\\}")), Herkunft("Herkunft",
-        Pattern.compile("\\{\\{Herkunft\\}\\}"));
+    Wortart("Wortart", null),
+
+    Aussprache("Aussprache", null),
+
+    Bedeutungen("Bedeutungen", Pattern.compile("\\{\\{Bedeutungen\\}\\}")),
+
+    Verkleinerungsformen("Verkleinerungsformen", Pattern.compile("\\{\\{Verkleinerungsformen\\}\\}")),
+
+    Synonome("Synonyme", Pattern.compile("\\{\\{Synonyme\\}\\}")),
+
+    Gegenworte("Gegenworte", Pattern.compile("\\{\\{Gegenworte\\}\\}")),
+
+    Oberbegriffe("Oberbegriffe", Pattern.compile("\\{\\{Oberbegriffe\\}\\}")),
+
+    Unterbegriffe("Unterbegriffe", Pattern.compile("\\{\\{Unterbegriffe\\}\\}")),
+
+    Beispiele("Beispiele", Pattern.compile("\\{\\{Beispiele\\}\\}")),
+
+    Redewendungen("Redewendungen", Pattern.compile("\\{\\{Redewendungen\\}\\}")),
+
+    CharakteristischeWortkombinationen("Charakteristische Wortkombinationen",
+        Pattern.compile("\\{\\{Charakteristische Wortkombinationen\\}\\}")),
+
+    AbgeleiteteBegriffe("Abgeleitete Begriffe", Pattern
+        .compile("\\{\\{Abgeleitete Begriffe\\}\\}")),
+
+    Herkunft("Herkunft", Pattern.compile("\\{\\{Herkunft\\}\\}")),
+    
+    Silbentrennung(null, Pattern.compile("\\{\\{Silbentrennung\\}\\}")),
+    
+    ;
 
     final String name;
     final Pattern listPattern;
@@ -151,7 +168,7 @@ public class WiktionaryXmlParser extends org.xml.sax.helpers.DefaultHandler {
       if (aussprache != null) {
         aussprache = AUSSPRACHE.matcher(aussprache).replaceFirst("");
         aussprache = WIKI_DOUBLE_BRACE.matcher(aussprache).replaceAll("$1");
-        aussprache = aussprache.replaceAll("Lautschrift\\|", "");
+        aussprache = aussprache.replaceAll("Lautschrift\\|ˈ?", "");
         aussprache = aussprache.trim();
         fieldToValue.put(Field.Aussprache, Collections
             .singletonList(aussprache));
@@ -165,38 +182,22 @@ public class WiktionaryXmlParser extends org.xml.sax.helpers.DefaultHandler {
 
       System.out.println(titleBuilder);
       for (final Field field : Field.values()) {
-        if (fieldToValue.get(field).isEmpty()) {
+        if (!fieldToValue.containsKey(field) || fieldToValue.get(field).isEmpty()) {
           fieldToValue.remove(field);
         } else {
-          System.out.println(field.name);
-          for (final String line : fieldToValue.get(field)) {
-            System.out.println("  " + line);
+          if (field.name != null) {
+//            System.out.println(field.name);
+//            for (final String line : fieldToValue.get(field)) {
+//              System.out.println("  " + line);
+//            }
           }
         }
       }
-      System.out.println("WHAT'S LEFT:");
-      System.out.println(section);
-      System.out.println("------------------------------------------------");
+//      System.out.println("WHAT'S LEFT:");
+//      System.out.println(section);
+//      System.out.println("------------------------------------------------");
 
     }
-
-    // System.out.println(titleBuilder);
-    /*
-     * final List<String> pronunciations = new ArrayList<String>(); final
-     * CharSequence pronunciationSeq = getSection(text, PRONUNCIATION,
-     * SECTION_START); if (pronunciationSeq != null) { final Matcher
-     * pronunciationMatcher = PRONUNCIATION_EXAMPLE.matcher(pronunciationSeq);
-     * while (pronunciationMatcher.find()) {
-     * pronunciations.add(pronunciationMatcher.group(1)); }
-     * System.out.println("PRONUNCIATIONS:" + pronunciations); }
-     * 
-     * String[] meanings = null; final CharSequence meaningsSeq =
-     * getSection(text, MEANINGS, SECTION_START); if (meaningsSeq != null) {
-     * meanings = LIST.split(meaningsSeq); meanings[0] = "";
-     * System.out.println("MEANINGS:" + Arrays.toString(meanings)); }
-     * 
-     * System.out.println(text);
-     */
 
   }
 
@@ -204,12 +205,12 @@ public class WiktionaryXmlParser extends org.xml.sax.helpers.DefaultHandler {
       final Pattern start) {
     final List<String> result = new ArrayList<String>();
     final String linesString = StringUtil.remove(section, start,
-        WIKI_DOUBLE_BRACE, false);
+        WIKI_NEW_SECTION, false);
     if (linesString != null) {
       String[] lines = linesString.split("\n");
       for (int i = 1; i < lines.length; ++i) {
         String bedeutung = lines[i];
-        bedeutung = bedeutung.replaceFirst("^:", "");
+        bedeutung = bedeutung.replaceFirst("^:+", "");
         bedeutung = bedeutung.trim();
         if (bedeutung.length() > 0) {
           result.add(bedeutung);
@@ -217,19 +218,6 @@ public class WiktionaryXmlParser extends org.xml.sax.helpers.DefaultHandler {
       }
     }
     return result;
-  }
-
-  private static CharSequence getSection(CharSequence input, Pattern start,
-      Pattern end) {
-    Matcher startMatcher = start.matcher(input);
-    if (!startMatcher.find()) {
-      return null;
-    }
-    Matcher endMatcher = end.matcher(input);
-    if (!endMatcher.find(startMatcher.end())) {
-      return input.subSequence(startMatcher.start(), input.length());
-    }
-    return input.subSequence(startMatcher.start(), endMatcher.start());
   }
 
   void parse(final File file) throws ParserConfigurationException,
