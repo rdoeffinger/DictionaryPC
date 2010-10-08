@@ -58,7 +58,7 @@ public class DictionaryBuilder {
     System.out.println("lang1=" + lang1);
     System.out.println("lang2=" + lang2);
     System.out.println("summaryText=" + summaryText);
-    System.out.println("dictOut=" + dictOutFilename);    
+    System.out.println("dictOut=" + dictOutFilename);
 
     final Dictionary dict = new Dictionary(summaryText, lang1, lang2);
 
@@ -167,7 +167,7 @@ public class DictionaryBuilder {
     final Map<String, TokenData> tokenToData = new TreeMap<String, TokenData>(dict.languageDatas[lang].language.sortComparator);
 
     for (int e = 0; e < dict.entries.size(); ++e) {
-      final SimpleEntry entry = dict.entries.get(e);
+      final SimpleEntry entry = null; //dict.entries.get(e);
       final Set<String> tokens = entry.getIndexableTokens(lang);
       for (final String token : tokens) {
         TokenData tokenData = tokenToData.get(token);
