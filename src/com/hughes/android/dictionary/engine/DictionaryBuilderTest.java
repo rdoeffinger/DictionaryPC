@@ -12,7 +12,7 @@ import junit.framework.TestCase;
 public class DictionaryBuilderTest extends TestCase {
   
   public void testGermanCombined() throws IOException {
-    final File result = File.createTempFile("de_en", ".dict");
+    final File result = new File("testdata/de_en.dict");
     System.out.println("Writing to: " + result);
     DictionaryBuilder.main(new String[] {
         "--dictOut=" + result.getAbsolutePath(),

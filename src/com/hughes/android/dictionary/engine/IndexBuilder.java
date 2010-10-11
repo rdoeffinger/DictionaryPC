@@ -33,6 +33,7 @@ public class IndexBuilder {
       final int indexRow = index.sortedIndexEntries.size();
       index.sortedIndexEntries.add(new Index.IndexEntry(tokenData.token, rows.size()));
       rows.add(new TokenRow(indexRow, rows.size(), index));
+      System.out.println("Added TokenRow: " + rows.get(rows.size() - 1));
       int count = 0;
       System.out.println("TOKEN: " + tokenData.token);
       for (final Map.Entry<EntryTypeName, List<EntryData>> typeToEntry : tokenData.typeToEntries.entrySet()) {
