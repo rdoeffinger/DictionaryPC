@@ -6,9 +6,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.nio.charset.Charset;
-import java.util.HashSet;
 import java.util.List;
-import java.util.Set;
 import java.util.logging.Logger;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -32,7 +30,8 @@ public class DictFileParser {
   static final Pattern EN_VERB = Pattern.compile("^to ([^ ]+)");
   
   static final Pattern BRACKETED = Pattern.compile("\\[([^]]+)\\]");
-  static final Pattern PARENTHESIZED = Pattern.compile("\\(([^)]+)\\]");
+  static final Pattern PARENTHESIZED = Pattern.compile("\\(([^)]+)\\)");
+  static final Pattern CURLY_BRACED = Pattern.compile("\\{([^}]+)\\}");
   
   static final Pattern NON_CHAR_DASH = Pattern.compile("[^-'\\p{L}0-9]+");
   static final Pattern NON_CHAR = Pattern.compile("[^\\p{L}0-9]+");
@@ -49,7 +48,7 @@ public class DictFileParser {
   final IndexBuilder[] langIndexBuilders;
   final IndexBuilder bothIndexBuilder;
   
-  final Set<String> alreadyDone = new HashSet<String>();
+  // final Set<String> alreadyDone = new HashSet<String>();
     
   public DictFileParser(final Charset charset, boolean flipCols,
       final Pattern fieldSplit, final Pattern subfieldSplit,
@@ -114,7 +113,7 @@ public class DictFileParser {
     dictBuilder.entryDatas.add(entryData);  // TODO: delete me.
     
     for (int l = 0; l < 2; ++l) {
-      alreadyDone.clear();
+      // alreadyDone.clear();
       
       for (int j = 0; j < subfields[l].length; ++j) {
         String subfield = subfields[l][j];
@@ -124,7 +123,7 @@ public class DictFileParser {
         } else if (indexBuilder.index.sortLanguage == Language.en) {
           subfield = parseField_EN(indexBuilder, subfield, entryData, j);
         }
-        parseFieldGeneric(indexBuilder, subfield, entryData, j, subfields.length);
+        parseFieldGeneric(indexBuilder, subfield, entryData, j, subfields[l].length);
       }
     }
   }
@@ -136,12 +135,12 @@ public class DictFileParser {
     final StringBuilder parenthesized = new StringBuilder();
     
     Matcher matcher;
-    while ((matcher = BRACKETED.matcher(field)).matches()) {
+    while ((matcher = BRACKETED.matcher(field)).find()) {
       bracketed.append(matcher.group(1)).append(" ");
       field = matcher.replaceFirst(" ");
     }
 
-    while ((matcher = PARENTHESIZED.matcher(field)).matches()) {
+    while ((matcher = PARENTHESIZED.matcher(field)).find()) {
       parenthesized.append(matcher.group(1)).append(" ");
       field = matcher.replaceFirst(" ");
     }
@@ -185,16 +184,16 @@ public class DictFileParser {
 
     for (String token : tokens) {
       token = TRIM_PUNC.matcher(token).replaceAll("");
-      if (!alreadyDone.contains(token) && token.length() > 0) {
+      if (/*!alreadyDone.contains(token) && */token.length() > 0) {
         final List<EntryData> entries = indexBuilder.getOrCreateEntries(token, entryTypeName);
         entries.add(entryData);
-        alreadyDone.add(token);
+        // alreadyDone.add(token);
         
         // also split words on dashes, do them, too.
         if (token.contains("-")) {
           final String[] dashed = token.split("-");
           for (final String dashedToken : dashed) {
-            if (!alreadyDone.contains(dashedToken) && dashedToken.length() > 0) {
+            if (/*!alreadyDone.contains(dashedToken) && */dashedToken.length() > 0) {
               final List<EntryData> dashEntries = indexBuilder.getOrCreateEntries(dashedToken, EntryTypeName.PART_OF_HYPHENATED);
               dashEntries.add(entryData);
             }
@@ -208,17 +207,17 @@ public class DictFileParser {
     final String[] bracketedTokens = NON_CHAR.split(bracketed.toString());
     for (final String token : bracketedTokens) {
       assert !token.contains("-");
-      if (!alreadyDone.contains(token) && token.length() > 0) {
+      if (/*!alreadyDone.contains(token) && */token.length() > 0) {
         final List<EntryData> entries = indexBuilder.getOrCreateEntries(token, EntryTypeName.BRACKETED);
         entries.add(entryData);
       }
     }
     
     // process paren stuff
-    final String[] parenTokens = NON_CHAR.split(bracketed.toString());
+    final String[] parenTokens = NON_CHAR.split(parenthesized.toString());
     for (final String token : parenTokens) {
       assert !token.contains("-");
-      if (!alreadyDone.contains(token) && token.length() > 0) {
+      if (/*!alreadyDone.contains(token) && */token.length() > 0) {
         final List<EntryData> entries = indexBuilder.getOrCreateEntries(token, EntryTypeName.PARENTHESIZED);
         entries.add(entryData);
       }
@@ -228,16 +227,21 @@ public class DictFileParser {
 
   private String parseField_DE(final IndexBuilder indexBuilder, String field,
       final EntryData entryData, final int subfieldIdx) {
-    final Matcher matcher = DE_NOUN.matcher(field);
-    while (matcher.find()) {
-      final String noun = matcher.group(1);
+    
+//    final Matcher matcher = DE_NOUN.matcher(field);
+//    while (matcher.find()) {
+//      final String noun = matcher.group(1);
       //final String gender = matcher.group(2);
-      if (alreadyDone.add(noun)) {
+//      if (alreadyDone.add(noun)) {
         // System.out.println("Found DE noun " + noun + ", " + gender);
-        final List<EntryData> entries = indexBuilder.getOrCreateEntries(noun, EntryTypeName.NOUN);
-        entries.add(entryData);
-      }
-    }
+//        final List<EntryData> entries = indexBuilder.getOrCreateEntries(noun, EntryTypeName.NOUN);
+//        entries.add(entryData);
+//      }
+//    }
+
+    // In English, curly braces are used for different tenses.
+    field = CURLY_BRACED.matcher(field).replaceAll(" ");
+
     return field;
   }
   

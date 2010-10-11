@@ -34,15 +34,19 @@ public class IndexBuilder {
       index.sortedIndexEntries.add(new Index.IndexEntry(tokenData.token, rows.size()));
       rows.add(new TokenRow(indexRow, rows.size(), index));
       int count = 0;
-      for (final List<EntryData> entryDatas : tokenData.typeToEntries.values()) {
-        for (final EntryData entryData : entryDatas) {
+      System.out.println("TOKEN: " + tokenData.token);
+      for (final Map.Entry<EntryTypeName, List<EntryData>> typeToEntry : tokenData.typeToEntries.entrySet()) {
+        for (final EntryData entryData : typeToEntry.getValue()) {
           if (tokenEntryDatas.add(entryData)) {
             rows.add(new PairEntry.Row(entryData.index(), rows.size(), index));
             ++count;
+            
+            System.out.print("  " + typeToEntry.getKey() + ": ");
+            rows.get(rows.size() - 1).print(System.out);
+            System.out.println();
           }
         }
       }
-      System.out.println(count + " ENTRIES FOR TOKEN " + tokenData.token);
     }
   }
   
