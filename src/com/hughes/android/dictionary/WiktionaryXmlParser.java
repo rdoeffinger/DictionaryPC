@@ -18,6 +18,7 @@ import javax.xml.parsers.SAXParserFactory;
 import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 
+import com.hughes.android.dictionary.engine.Dictionary;
 import com.hughes.util.MapUtil;
 import com.hughes.util.StringUtil;
 

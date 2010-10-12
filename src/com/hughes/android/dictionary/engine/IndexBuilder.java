@@ -9,7 +9,6 @@ import java.util.Set;
 import java.util.SortedMap;
 import java.util.TreeMap;
 
-import com.hughes.android.dictionary.Language;
 
 public class IndexBuilder {
   

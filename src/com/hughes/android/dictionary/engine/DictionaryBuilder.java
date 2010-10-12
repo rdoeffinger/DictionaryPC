@@ -9,7 +9,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
-import com.hughes.android.dictionary.Language;
 import com.hughes.util.Args;
 import com.hughes.util.FileUtil;
 

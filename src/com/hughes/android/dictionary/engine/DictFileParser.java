@@ -11,7 +11,6 @@ import java.util.logging.Logger;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import com.hughes.android.dictionary.Language;
 import com.hughes.android.dictionary.engine.PairEntry.Pair;
 
 public class DictFileParser {
