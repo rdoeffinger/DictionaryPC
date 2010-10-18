@@ -18,9 +18,9 @@ public class IndexBuilder {
   final SortedMap<String, TokenData> tokenToData;
 
   @SuppressWarnings("unchecked")
-  IndexBuilder(final DictionaryBuilder dictionaryBuilder, final String shortName, final String longName, final Language language) {
+  IndexBuilder(final DictionaryBuilder dictionaryBuilder, final String shortName, final String longName, final Language language, final boolean swapPairEntries) {
     this.dictionaryBuilder = dictionaryBuilder;
-    index = new Index(dictionaryBuilder.dictionary, shortName, longName, language);
+    index = new Index(dictionaryBuilder.dictionary, shortName, longName, language, swapPairEntries);
     tokenToData = new TreeMap<String, TokenData>(language.getSortCollator());
   }
   

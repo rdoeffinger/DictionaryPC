@@ -45,8 +45,8 @@ public class DictionaryBuilder {
   
   public DictionaryBuilder(final String dictInfo, final Language lang0, final Language lang1) {
     dictionary = new Dictionary(dictInfo);
-    indexBuilders.add(new IndexBuilder(this, lang0.getSymbol(), lang0.getSymbol() + "->" + lang1.getSymbol(), lang0));
-    indexBuilders.add(new IndexBuilder(this, lang1.getSymbol(), lang1.getSymbol() + "->" + lang0.getSymbol(), lang1));
+    indexBuilders.add(new IndexBuilder(this, lang0.getSymbol(), lang0.getSymbol() + "->" + lang1.getSymbol(), lang0, false));
+    indexBuilders.add(new IndexBuilder(this, lang1.getSymbol(), lang1.getSymbol() + "->" + lang0.getSymbol(), lang1, true));
   }
   
   void build() {

@@ -10,6 +10,8 @@ import java.util.concurrent.atomic.AtomicBoolean;
 
 import junit.framework.TestCase;
 
+import com.hughes.android.dictionary.engine.Index.SearchResult;
+
 
 public class DictionaryTest extends TestCase {
   
@@ -47,30 +49,44 @@ public class DictionaryTest extends TestCase {
   public void testGermanIndex() throws IOException {
     for (final Index.IndexEntry indexEntry : deIndex.sortedIndexEntries) {
       System.out.println("testing: " + indexEntry.token);
-      final TokenRow row = deIndex.find(indexEntry.token, new AtomicBoolean(
+      final Index.SearchResult searchResult = deIndex.findLongestSubstring(indexEntry.token, new AtomicBoolean(
           false));
-      assertEquals(indexEntry.token.toLowerCase(), row.getToken().toLowerCase());
+      assertEquals(indexEntry.token.toLowerCase(), searchResult.insertionPoint.token.toLowerCase());
+      assertEquals(indexEntry.token.toLowerCase(), searchResult.longestPrefix.token.toLowerCase());
     }
 
     // TODO: maybe if user types capitalization, use it.
-    assertEquals("aaac", deIndex.find("AAAC", new AtomicBoolean(false)).getToken());
-    assertEquals("aaac", deIndex.find("aaac", new AtomicBoolean(false)).getToken());
-    assertEquals("aaac", deIndex.find("AAAc", new AtomicBoolean(false)).getToken());
-    assertEquals("aaac", deIndex.find("aaac", new AtomicBoolean(false)).getToken());
-    
+    assertSearchResult("aaac", "aaac", deIndex.findLongestSubstring("aaac", new AtomicBoolean(false)));
+    assertSearchResult("aaac", "aaac", deIndex.findLongestSubstring("AAAC", new AtomicBoolean(false)));
+    assertSearchResult("aaac", "aaac", deIndex.findLongestSubstring("AAAc", new AtomicBoolean(false)));
+    assertSearchResult("aaac", "aaac", deIndex.findLongestSubstring("aAac", new AtomicBoolean(false)));
+
     // Before the beginning.
-    assertEquals("40", deIndex.find("__", new AtomicBoolean(false)).getToken());
+    assertSearchResult("40", "40" /* special case */, deIndex.findLongestSubstring("__", new AtomicBoolean(false)));
     
     // After the end.
-    assertEquals("Zweckorientiertheit", deIndex.find("ZZZZZ", new AtomicBoolean(false)).getToken());
+    assertSearchResult("Zweckorientiertheit", "zählen", deIndex.findLongestSubstring("ZZZZZ", new AtomicBoolean(false)));
 
-    assertEquals("aaac", deIndex.find("aaaca", new AtomicBoolean(false)).getToken());
-    
-    assertEquals("überprüfe", deIndex.find("ueberprüfe", new AtomicBoolean(false)).getToken());
-    assertEquals("überprüfe", deIndex.find("ueberpruefe", new AtomicBoolean(false)).getToken());
+    assertSearchResult("ab", "aaac", deIndex.findLongestSubstring("aaaca", new AtomicBoolean(false)));
+    assertSearchResult("machen", "machen", deIndex.findLongestSubstring("m", new AtomicBoolean(false)));
+
+
+    assertSearchResult("überprüfe", "überprüfe", deIndex.findLongestSubstring("ueberprüfe", new AtomicBoolean(false)));
+    assertSearchResult("überprüfe", "überprüfe", deIndex.findLongestSubstring("ueberpruefe", new AtomicBoolean(false)));
+
+    assertSearchResult("überprüfe", "überprüfe", deIndex.findLongestSubstring("ueberpBLEH", new AtomicBoolean(false)));
+    assertSearchResult("überprüfe", "überprüfe", deIndex.findLongestSubstring("überprBLEH", new AtomicBoolean(false)));
+
+    assertSearchResult("überprüfen", "überprüfe", deIndex.findLongestSubstring("überprüfeBLEH", new AtomicBoolean(false)));
 
   }
   
+  private void assertSearchResult(final String insertionPoint, final String longestPrefix,
+      final SearchResult actual) {
+    assertEquals(insertionPoint, actual.insertionPoint.token);
+    assertEquals(longestPrefix, actual.longestPrefix.token);
+  }
+
   public void testGermanTokenRows() {
     // Pre-cache a few of these, just to make sure that's working.
     for (int i = 0; i < deIndex.rows.size(); i += 7) {
@@ -96,7 +112,6 @@ public class DictionaryTest extends TestCase {
     }
   }
   
-  @SuppressWarnings("unchecked")
   public void testGermanSort() {
     assertEquals("aüÄÄ", Language.de.textNorm("aueAeAE", false));
     final List<String> words = Arrays.asList(
