@@ -5,8 +5,8 @@ package com.hughes.android.dictionary.engine;
 
 import com.hughes.util.IndexedObject;
 
-class EntryData extends IndexedObject {
-  EntryData(final int index, final Entry entry) {
+public class EntryData extends IndexedObject {
+  public EntryData(final int index, final Entry entry) {
     super(index);
     this.entry = entry;
   }

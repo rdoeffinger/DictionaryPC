@@ -10,13 +10,14 @@ import java.util.concurrent.atomic.AtomicBoolean;
 
 import junit.framework.TestCase;
 
-import com.hughes.android.dictionary.engine.Index.SearchResult;
+import com.hughes.android.dictionary.engine.Index.IndexEntry;
+import com.ibm.icu.text.Transliterator;
 
 
 public class DictionaryTest extends TestCase {
     
   public void testGermanMetadata() throws IOException {
-    final RandomAccessFile raf = new RandomAccessFile("testdata/de-en.dict", "r");
+    final RandomAccessFile raf = new RandomAccessFile("testdata/de-en.quickdic", "r");
     final Dictionary dict = new Dictionary(raf);
     final Index deIndex = dict.indices.get(0);
     
@@ -33,55 +34,51 @@ public class DictionaryTest extends TestCase {
     
     for (final Index.IndexEntry indexEntry : deIndex.sortedIndexEntries) {
       System.out.println("testing: " + indexEntry.token);
-      final Index.SearchResult searchResult = deIndex.findLongestSubstring(indexEntry.token, new AtomicBoolean(
+      final IndexEntry searchResult = deIndex.findInsertionPoint(indexEntry.token, new AtomicBoolean(
           false));
-      assertEquals(indexEntry.token.toLowerCase(), searchResult.insertionPoint.token.toLowerCase());
-      assertEquals(indexEntry.token.toLowerCase(), searchResult.longestPrefix.token.toLowerCase());
+      assertEquals(indexEntry.token.toLowerCase(), searchResult.token.toLowerCase());
     }
 
     // TODO: maybe if user types capitalization, use it.
-    assertSearchResult("aaac", "aaac", deIndex.findLongestSubstring("aaac", new AtomicBoolean(false)));
-    assertSearchResult("aaac", "aaac", deIndex.findLongestSubstring("AAAC", new AtomicBoolean(false)));
-    assertSearchResult("aaac", "aaac", deIndex.findLongestSubstring("AAAc", new AtomicBoolean(false)));
-    assertSearchResult("aaac", "aaac", deIndex.findLongestSubstring("aAac", new AtomicBoolean(false)));
+    assertSearchResult("aaac", "aaac", deIndex.findInsertionPoint("aaac", new AtomicBoolean(false)));
+    assertSearchResult("aaac", "aaac", deIndex.findInsertionPoint("AAAC", new AtomicBoolean(false)));
+    assertSearchResult("aaac", "aaac", deIndex.findInsertionPoint("AAAc", new AtomicBoolean(false)));
+    assertSearchResult("aaac", "aaac", deIndex.findInsertionPoint("aAac", new AtomicBoolean(false)));
 
     // Before the beginning.
-    assertSearchResult("40", "40" /* special case */, deIndex.findLongestSubstring("", new AtomicBoolean(false)));
-    assertSearchResult("40", "40" /* special case */, deIndex.findLongestSubstring("__", new AtomicBoolean(false)));
+    assertSearchResult("40", "40" /* special case */, deIndex.findInsertionPoint("", new AtomicBoolean(false)));
+    assertSearchResult("40", "40" /* special case */, deIndex.findInsertionPoint("__", new AtomicBoolean(false)));
     
     // After the end.
-    assertSearchResult("Zweckorientiertheit", "zählen", deIndex.findLongestSubstring("ZZZZZ", new AtomicBoolean(false)));
+    assertSearchResult("Zweckorientiertheit", "zählen", deIndex.findInsertionPoint("ZZZZZ", new AtomicBoolean(false)));
 
-    assertSearchResult("ab", "aaac", deIndex.findLongestSubstring("aaaca", new AtomicBoolean(false)));
-    assertSearchResult("machen", "machen", deIndex.findLongestSubstring("m", new AtomicBoolean(false)));
+    assertSearchResult("ab", "aaac", deIndex.findInsertionPoint("aaaca", new AtomicBoolean(false)));
+    assertSearchResult("machen", "machen", deIndex.findInsertionPoint("m", new AtomicBoolean(false)));
+    assertSearchResult("machen", "machen", deIndex.findInsertionPoint("macdddd", new AtomicBoolean(false)));
 
-    assertFalse(deIndex.findLongestSubstring("macdddd", new AtomicBoolean(false)).success);
 
+    assertSearchResult("überprüfe", "überprüfe", deIndex.findInsertionPoint("ueberprüfe", new AtomicBoolean(false)));
+    assertSearchResult("überprüfe", "überprüfe", deIndex.findInsertionPoint("ueberpruefe", new AtomicBoolean(false)));
 
-    assertSearchResult("überprüfe", "überprüfe", deIndex.findLongestSubstring("ueberprüfe", new AtomicBoolean(false)));
-    assertSearchResult("überprüfe", "überprüfe", deIndex.findLongestSubstring("ueberpruefe", new AtomicBoolean(false)));
+    assertSearchResult("überprüfe", "überprüfe", deIndex.findInsertionPoint("ueberpBLEH", new AtomicBoolean(false)));
+    assertSearchResult("überprüfe", "überprüfe", deIndex.findInsertionPoint("überprBLEH", new AtomicBoolean(false)));
 
-    assertSearchResult("überprüfe", "überprüfe", deIndex.findLongestSubstring("ueberpBLEH", new AtomicBoolean(false)));
-    assertSearchResult("überprüfe", "überprüfe", deIndex.findLongestSubstring("überprBLEH", new AtomicBoolean(false)));
-
-    assertSearchResult("überprüfen", "überprüfe", deIndex.findLongestSubstring("überprüfeBLEH", new AtomicBoolean(false)));
+    assertSearchResult("überprüfen", "überprüfe", deIndex.findInsertionPoint("überprüfeBLEH", new AtomicBoolean(false)));
 
     // Check that search in lowercase works.
-    assertSearchResult("Alibi", "Alibi", deIndex.findLongestSubstring("alib", new AtomicBoolean(false)));
-    assertTrue(deIndex.findLongestSubstring("alib", new AtomicBoolean(false)).success);
-    System.out.println(deIndex.findLongestSubstring("alib", new AtomicBoolean(false)).toString());
+    assertSearchResult("Alibi", "Alibi", deIndex.findInsertionPoint("alib", new AtomicBoolean(false)));
+    System.out.println(deIndex.findInsertionPoint("alib", new AtomicBoolean(false)).toString());
     
     raf.close();
   }
   
   private void assertSearchResult(final String insertionPoint, final String longestPrefix,
-      final SearchResult actual) {
-    assertEquals(insertionPoint, actual.insertionPoint.token);
-    assertEquals(longestPrefix, actual.longestPrefix.token);
+      final IndexEntry actual) {
+    assertEquals(insertionPoint, actual.token);
   }
 
   public void testGermanTokenRows() throws IOException {
-    final RandomAccessFile raf = new RandomAccessFile("testdata/de-en.dict", "r");
+    final RandomAccessFile raf = new RandomAccessFile("testdata/de-en.quickdic", "r");
     final Dictionary dict = new Dictionary(raf);
     final Index deIndex = dict.indices.get(0);
     
@@ -112,7 +109,8 @@ public class DictionaryTest extends TestCase {
   }
   
   public void testGermanSort() {
-    assertEquals("aüÄÄ", Language.de.textNorm("aueAeAE", false));
+    final Transliterator normalizer = Transliterator.createFromRules("", Language.de.getDefaultNormalizerRules(), Transliterator.FORWARD);
+    assertEquals("aüääss", normalizer.transform("aueAeAEß"));
     final List<String> words = Arrays.asList(
         "er-ben",
         "erben",
@@ -129,32 +127,34 @@ public class DictionaryTest extends TestCase {
         "Großformats",
         "Großpoo",
         "Großpoos",
+        "Hörvermögen",
         "Hörweite",
         "hos",
         "Höschen",
         "Hostel",
         "hulle",
         "Hulle",
-        "hülle",
         "huelle",
-        "Hülle",
         "Huelle",
+        "hülle",
+        "Hülle",
+        "Huellen",
+        "Hüllen",
         "Hum"
         );
-    assertEquals(0, Language.de.sortComparator.compare("hülle", "huelle"));
-    assertEquals(0, Language.de.sortComparator.compare("huelle", "hülle"));
+    final NormalizeComparator comparator = new NormalizeComparator(normalizer, Language.de.getCollator());
+    assertEquals(1, comparator.compare("hülle", "huelle"));
+    assertEquals(-1, comparator.compare("huelle", "hülle"));
     
-    assertEquals(-1, Language.de.sortComparator.compare("hülle", "Hülle"));
-    assertEquals(0, Language.de.findComparator.compare("hülle", "Hülle"));
-    assertEquals(-1, Language.de.findComparator.compare("hulle", "Hülle"));
+    assertEquals(-1, comparator.compare("hülle", "Hülle"));
+    
+    assertEquals("hülle", normalizer.transform("Hülle"));
+    assertEquals("hulle", normalizer.transform("Hulle"));
 
     
-    for (final String s : words) {
-      System.out.println(s + "\t" + Language.de.textNorm(s, false));
-    }
     final List<String> sorted = new ArrayList<String>(words);
 //    Collections.shuffle(shuffled, new Random(0));
-    Collections.sort(sorted, Language.de.sortComparator);
+    Collections.sort(sorted, comparator);
     System.out.println(sorted.toString());
     for (int i = 0; i < words.size(); ++i) {
       System.out.println(words.get(i) + "\t" + sorted.get(i));
@@ -162,8 +162,8 @@ public class DictionaryTest extends TestCase {
     }
   }
 
-  @SuppressWarnings("unchecked")
   public void testEnglishSort() {
+    final Transliterator normalizer = Transliterator.createFromRules("", Language.en.getDefaultNormalizerRules(), Transliterator.FORWARD);
 
     final List<String> words = Arrays.asList(
         "pre-print", 
@@ -172,16 +172,17 @@ public class DictionaryTest extends TestCase {
         "preprocess");
     
     final List<String> sorted = new ArrayList<String>(words);
-    Collections.sort(sorted, Language.en.getSortCollator());
+    final NormalizeComparator comparator = new NormalizeComparator(normalizer, Language.en.getCollator());
+    Collections.sort(sorted, comparator);
     for (int i = 0; i < words.size(); ++i) {
       if (i > 0) {
-        assertTrue(Language.en.getSortCollator().compare(words.get(i-1), words.get(i)) < 0);
+        assertTrue(comparator.compare(words.get(i-1), words.get(i)) < 0);
       }
       System.out.println(words.get(i) + "\t" + sorted.get(i));
       assertEquals(words.get(i), sorted.get(i));
     }
     
-    assertTrue(Language.en.getSortCollator().compare("pre-print", "preppy") < 0);
+    assertTrue(comparator.compare("pre-print", "preppy") < 0);
 
   }
   
@@ -192,17 +193,24 @@ public class DictionaryTest extends TestCase {
   }
 
   public void testTextNorm() {
-    assertEquals("hoschen", "Höschen".toLowerCase(Language.de.locale));
+    //final Transliterator transliterator = Transliterator.getInstance("Any-Latin; Upper; Lower; 'oe' > 'o'; NFD; [:Nonspacing Mark:] Remove; NFC", Transliterator.FORWARD);
+    final Transliterator transliterator = Transliterator.createFromRules("", ":: Any-Latin; :: Upper; :: Lower; 'oe' > 'o'; :: NFD; :: [:Nonspacing Mark:] Remove; :: NFC ;", Transliterator.FORWARD);
+    assertEquals("hoschen", transliterator.transliterate("Höschen"));
+    assertEquals("hoschen", transliterator.transliterate("Hoeschen"));
+    assertEquals("grosspoo", transliterator.transliterate("Großpoo"));
+
+    assertEquals("kyanpasu", transliterator.transliterate("キャンパス"));
+    assertEquals("alphabetikos katalogos", transliterator.transliterate("Αλφαβητικός Κατάλογος"));
+    assertEquals("biologiceskom", transliterator.transliterate("биологическом"));
   }
 
   public void testChemnitz() throws IOException {
-    final RandomAccessFile raf = new RandomAccessFile("testdata/de-en_chemnitz.dict", "r");
+    final RandomAccessFile raf = new RandomAccessFile("dictOutputs/de-en_chemnitz.quickdic", "r");
     final Dictionary dict = new Dictionary(raf);
     final Index deIndex = dict.indices.get(0);
     
-    //assertSearchResult("Höschen", "Hos", deIndex.findLongestSubstring("Hos", new AtomicBoolean(false)));
-    //assertSearchResult("Höschen", "hos", deIndex.findLongestSubstring("hos", new AtomicBoolean(false)));
- 
+    assertSearchResult("Höschen", "Hos", deIndex.findInsertionPoint("Hos", new AtomicBoolean(false)));
+    assertSearchResult("Höschen", "hos", deIndex.findInsertionPoint("hos", new AtomicBoolean(false)));
 
     raf.close();
   }

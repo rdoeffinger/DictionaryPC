@@ -8,7 +8,14 @@ import java.nio.charset.Charset;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
+import java.util.regex.Pattern;
 
+import javax.xml.parsers.ParserConfigurationException;
+
+import org.xml.sax.SAXException;
+
+import com.hughes.android.dictionary.parser.DictFileParser;
+import com.hughes.android.dictionary.parser.EnWiktionaryXmlParser;
 import com.hughes.util.Args;
 import com.hughes.util.FileUtil;
 
@@ -37,14 +44,13 @@ import com.hughes.util.FileUtil;
 
 public class DictionaryBuilder {
   
-  final Dictionary dictionary;
+  public final Dictionary dictionary;
+  public final List<IndexBuilder> indexBuilders = new ArrayList<IndexBuilder>();
   
-  final List<IndexBuilder> indexBuilders = new ArrayList<IndexBuilder>();
-  
-  public DictionaryBuilder(final String dictInfo, final Language lang0, final Language lang1) {
+  public DictionaryBuilder(final String dictInfo, final Language lang0, final Language lang1, final String normalizerRules1, final String normalizerRules2) {
     dictionary = new Dictionary(dictInfo);
-    indexBuilders.add(new IndexBuilder(this, lang0.getSymbol(), lang0.getSymbol() + "->" + lang1.getSymbol(), lang0, false));
-    indexBuilders.add(new IndexBuilder(this, lang1.getSymbol(), lang1.getSymbol() + "->" + lang0.getSymbol(), lang1, true));
+    indexBuilders.add(new IndexBuilder(this, lang0.getSymbol(), lang0.getSymbol() + "->" + lang1.getSymbol(), lang0, normalizerRules1, false));
+    indexBuilders.add(new IndexBuilder(this, lang1.getSymbol(), lang1.getSymbol() + "->" + lang0.getSymbol(), lang1, normalizerRules2, true));
   }
   
   void build() {
@@ -54,13 +60,22 @@ public class DictionaryBuilder {
     }
   }
   
-  public static void main(final String[] args) throws IOException {
+  public static void main(final String[] args) throws IOException, ParserConfigurationException, SAXException {
     final Map<String,String> keyValueArgs = Args.keyValueArgs(args);
     
     final Language lang1 = Language.lookup(keyValueArgs.remove("lang1"));
     final Language lang2 = Language.lookup(keyValueArgs.remove("lang2"));
     if (lang1 == null || lang2 == null) {
       fatalError("--lang1= and --lang2= must both be specified.");
+    }
+    
+    String normalizerRules1 = keyValueArgs.remove("normalizerRules1");
+    String normalizerRules2 = keyValueArgs.remove("normalizerRules2");
+    if (normalizerRules1 == null) {
+      normalizerRules1 = lang1.getDefaultNormalizerRules();
+    }
+    if (normalizerRules2 == null) {
+      normalizerRules2 = lang2.getDefaultNormalizerRules();
     }
     
     final String dictOutFilename = keyValueArgs.remove("dictOut");
@@ -80,10 +95,12 @@ public class DictionaryBuilder {
     
     System.out.println("lang1=" + lang1);
     System.out.println("lang2=" + lang2);
+    System.out.println("normalizerRules1=" + normalizerRules1);
+    System.out.println("normalizerRules2=" + normalizerRules2);
     System.out.println("dictInfo=" + dictInfo);
     System.out.println("dictOut=" + dictOutFilename);    
     
-    final DictionaryBuilder dictionaryBuilder = new DictionaryBuilder(dictInfo, lang1, lang2);
+    final DictionaryBuilder dictionaryBuilder = new DictionaryBuilder(dictInfo, lang1, lang2, normalizerRules1, normalizerRules2);
     
     for (int i = 0; i < 100; ++i) {
       final String prefix = "input" + i;
@@ -105,9 +122,15 @@ public class DictionaryBuilder {
           new DictFileParser(charset, false, DictFileParser.TAB, null, dictionaryBuilder, dictionaryBuilder.indexBuilders.toArray(new IndexBuilder[0]), null).parseFile(file);
         } else if ("chemnitz".equals(inputFormat)) {
           new DictFileParser(charset, false, DictFileParser.DOUBLE_COLON, DictFileParser.PIPE, dictionaryBuilder, dictionaryBuilder.indexBuilders.toArray(new IndexBuilder[0]), null).parseFile(file);
-        } else if ("wiktionary".equals(inputFormat)) {
-          throw new RuntimeException();
-//          new WiktionaryXmlParser(dict).parse(file);
+        } else if ("enwiktionary".equals(inputFormat)) {
+          final Pattern[] translationPatterns = new Pattern[2];
+          translationPatterns[0] = Pattern.compile(keyValueArgs.remove(prefix + "TranslationPattern1"));
+          translationPatterns[1] = Pattern.compile(keyValueArgs.remove(prefix + "TranslationPattern2"));
+          final int enIndex = Integer.parseInt(keyValueArgs.remove(prefix + "EnIndex")) - 1;
+          if (enIndex < 0 || enIndex >= 2) {
+            fatalError("Must be 1 or 2: " + prefix + "EnIndex");
+          }
+          new EnWiktionaryXmlParser(dictionaryBuilder, translationPatterns, enIndex).parse(file);
         } else {
           fatalError("Invalid or missing input format: " + inputFormat);
         }

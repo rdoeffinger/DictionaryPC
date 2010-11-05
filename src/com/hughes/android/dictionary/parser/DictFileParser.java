@@ -1,4 +1,4 @@
-package com.hughes.android.dictionary.engine;
+package com.hughes.android.dictionary.parser;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -11,6 +11,12 @@ import java.util.logging.Logger;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import com.hughes.android.dictionary.engine.DictionaryBuilder;
+import com.hughes.android.dictionary.engine.EntryData;
+import com.hughes.android.dictionary.engine.EntryTypeName;
+import com.hughes.android.dictionary.engine.IndexBuilder;
+import com.hughes.android.dictionary.engine.Language;
+import com.hughes.android.dictionary.engine.PairEntry;
 import com.hughes.android.dictionary.engine.PairEntry.Pair;
 
 public class DictFileParser {
@@ -18,11 +24,11 @@ public class DictFileParser {
   static final Logger logger = Logger.getLogger(DictFileParser.class.getName());
 
   // Dictcc
-  static final Pattern TAB = Pattern.compile("\\t");
+  public static final Pattern TAB = Pattern.compile("\\t");
 
   // Chemnitz
-  static final Pattern DOUBLE_COLON = Pattern.compile(" :: ");
-  static final Pattern PIPE = Pattern.compile("\\|");
+  public static final Pattern DOUBLE_COLON = Pattern.compile(" :: ");
+  public static final Pattern PIPE = Pattern.compile("\\|");
   
   static final Pattern SPACES = Pattern.compile("\\s+");
   static final Pattern DE_NOUN = Pattern.compile("([^ ]+) *\\{(m|f|n|pl)\\}");

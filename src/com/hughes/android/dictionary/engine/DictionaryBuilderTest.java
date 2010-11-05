@@ -11,8 +11,8 @@ import junit.framework.TestCase;
 
 public class DictionaryBuilderTest extends TestCase {
   
-  public void testGermanCombined() throws IOException {
-    final File result = new File("testdata/de_en.dict");
+  public void testGermanCombined() throws Exception {
+    final File result = new File("testdata/de-en.quickdic");
     System.out.println("Writing to: " + result);
     DictionaryBuilder.main(new String[] {
         "--dictOut=" + result.getAbsolutePath(),
@@ -20,30 +20,37 @@ public class DictionaryBuilderTest extends TestCase {
         "--lang2=EN",
         "--dictInfo=@testdata/de-en_dictInfo.txt",
 
-        "--input1=testdata/de-en_chemnitz_100",
-        "--input1Name=dictcc",
-        "--input1Charset=UTF8",
-        "--input1Format=chemnitz",
+//        "--input1=testdata/de-en_chemnitz_100",
+//        "--input1Name=dictcc",
+//        "--input1Charset=UTF8",
+//        "--input1Format=chemnitz",
+//
+//        "--input2=testdata/de-en_dictcc_100",
+//        "--input2Name=dictcc",
+//        "--input2Charset=UTF8",
+//        "--input2Format=dictcc",
 
-        "--input2=testdata/de-en_dictcc_100",
-        "--input2Name=dictcc",
-        "--input2Charset=UTF8",
-        "--input2Format=dictcc",
-        
+        "--input3=testdata/enwiktionary_small.xml",
+        "--input3Name=enwiktionary",
+        "--input3Format=enwiktionary",
+        "--input3TranslationPattern1=[Gg]erman",
+        "--input3TranslationPattern2=[Ee]glish",
+        "--input3EnIndex=2",
+
         "--print=testdata/de-en.test",
     });
     
     // Check it once:
-    assertFilesEqual("testdata/de_en.golden", "testdata/de_en.test"); 
+    assertFilesEqual("testdata/de-en.golden", "testdata/de-en.test"); 
     
     
     // Check it again.
     final Dictionary dict = new Dictionary(new RandomAccessFile(result.getAbsolutePath(), "r"));
-    final PrintStream out = new PrintStream(new File("testdata/de_en.test"));
+    final PrintStream out = new PrintStream(new File("testdata/de-en.test"));
     dict.print(out);
     out.close();
     
-    assertFilesEqual("testdata/de_en.golden", "testdata/de_en.test");
+    assertFilesEqual("testdata/de-en.golden", "testdata/de-en.test");
   }
   
 

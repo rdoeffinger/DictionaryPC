@@ -17,15 +17,14 @@ import com.hughes.android.dictionary.engine.Index.IndexEntry;
 public class IndexBuilder {
   
   final DictionaryBuilder dictionaryBuilder;
-  final Index index;
+  public final Index index;
 
   final SortedMap<String, TokenData> tokenToData;
 
-  @SuppressWarnings("unchecked")
-  IndexBuilder(final DictionaryBuilder dictionaryBuilder, final String shortName, final String longName, final Language language, final boolean swapPairEntries) {
+  IndexBuilder(final DictionaryBuilder dictionaryBuilder, final String shortName, final String longName, final Language language, final String normalizerRules, final boolean swapPairEntries) {
     this.dictionaryBuilder = dictionaryBuilder;
-    index = new Index(dictionaryBuilder.dictionary, shortName, longName, language, swapPairEntries);
-    tokenToData = new TreeMap<String, TokenData>(language.getSortCollator());
+    index = new Index(dictionaryBuilder.dictionary, shortName, longName, language, normalizerRules, swapPairEntries);
+    tokenToData = new TreeMap<String, TokenData>(new NormalizeComparator(index.normalizer, language.collator));
   }
   
   public void build() {
