@@ -39,8 +39,6 @@ public class DictionaryBuilder {
   
   final Dictionary dictionary;
   
-  final List<EntryData> entryDatas = new ArrayList<EntryData>();
-  
   final List<IndexBuilder> indexBuilders = new ArrayList<IndexBuilder>();
   
   public DictionaryBuilder(final String dictInfo, final Language lang0, final Language lang1) {

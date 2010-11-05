@@ -14,39 +14,23 @@ import com.hughes.android.dictionary.engine.Index.SearchResult;
 
 
 public class DictionaryTest extends TestCase {
-  
-  RandomAccessFile raf;
-  Dictionary dict;
-  Index deIndex; 
-  
-  @Override
-  public void setUp() {
-    try {
-      raf = new RandomAccessFile("testdata/de_en.dict", "r");
-      dict = new Dictionary(raf);
-    } catch (IOException e) {
-      throw new RuntimeException(e);
-    }
-
-    deIndex = dict.indices.get(0);
-}
-  
-  @Override
-  public void tearDown() {
-    try {
-      raf.close();
-    } catch (IOException e) {
-      throw new RuntimeException(e);
-    }
-  }
-  
-
+    
   public void testGermanMetadata() throws IOException {
+    final RandomAccessFile raf = new RandomAccessFile("testdata/de-en.dict", "r");
+    final Dictionary dict = new Dictionary(raf);
+    final Index deIndex = dict.indices.get(0);
+    
     assertEquals("de", deIndex.shortName);
     assertEquals("de->en", deIndex.longName);
+    
+    raf.close();
   }
   
   public void testGermanIndex() throws IOException {
+    final RandomAccessFile raf = new RandomAccessFile("testdata/de-en.dict", "r");
+    final Dictionary dict = new Dictionary(raf);
+    final Index deIndex = dict.indices.get(0);
+    
     for (final Index.IndexEntry indexEntry : deIndex.sortedIndexEntries) {
       System.out.println("testing: " + indexEntry.token);
       final Index.SearchResult searchResult = deIndex.findLongestSubstring(indexEntry.token, new AtomicBoolean(
@@ -62,6 +46,7 @@ public class DictionaryTest extends TestCase {
     assertSearchResult("aaac", "aaac", deIndex.findLongestSubstring("aAac", new AtomicBoolean(false)));
 
     // Before the beginning.
+    assertSearchResult("40", "40" /* special case */, deIndex.findLongestSubstring("", new AtomicBoolean(false)));
     assertSearchResult("40", "40" /* special case */, deIndex.findLongestSubstring("__", new AtomicBoolean(false)));
     
     // After the end.
@@ -69,6 +54,8 @@ public class DictionaryTest extends TestCase {
 
     assertSearchResult("ab", "aaac", deIndex.findLongestSubstring("aaaca", new AtomicBoolean(false)));
     assertSearchResult("machen", "machen", deIndex.findLongestSubstring("m", new AtomicBoolean(false)));
+
+    assertFalse(deIndex.findLongestSubstring("macdddd", new AtomicBoolean(false)).success);
 
 
     assertSearchResult("überprüfe", "überprüfe", deIndex.findLongestSubstring("ueberprüfe", new AtomicBoolean(false)));
@@ -79,6 +66,12 @@ public class DictionaryTest extends TestCase {
 
     assertSearchResult("überprüfen", "überprüfe", deIndex.findLongestSubstring("überprüfeBLEH", new AtomicBoolean(false)));
 
+    // Check that search in lowercase works.
+    assertSearchResult("Alibi", "Alibi", deIndex.findLongestSubstring("alib", new AtomicBoolean(false)));
+    assertTrue(deIndex.findLongestSubstring("alib", new AtomicBoolean(false)).success);
+    System.out.println(deIndex.findLongestSubstring("alib", new AtomicBoolean(false)).toString());
+    
+    raf.close();
   }
   
   private void assertSearchResult(final String insertionPoint, final String longestPrefix,
@@ -87,7 +80,11 @@ public class DictionaryTest extends TestCase {
     assertEquals(longestPrefix, actual.longestPrefix.token);
   }
 
-  public void testGermanTokenRows() {
+  public void testGermanTokenRows() throws IOException {
+    final RandomAccessFile raf = new RandomAccessFile("testdata/de-en.dict", "r");
+    final Dictionary dict = new Dictionary(raf);
+    final Index deIndex = dict.indices.get(0);
+    
     // Pre-cache a few of these, just to make sure that's working.
     for (int i = 0; i < deIndex.rows.size(); i += 7) {
       deIndex.rows.get(i).getTokenRow(true);
@@ -110,6 +107,8 @@ public class DictionaryTest extends TestCase {
       // This will break if the Row cache isn't big enough.
       assertEquals(lastTokenRow, row.getTokenRow(false));
     }
+    
+    raf.close();
   }
   
   public void testGermanSort() {
@@ -130,6 +129,10 @@ public class DictionaryTest extends TestCase {
         "Großformats",
         "Großpoo",
         "Großpoos",
+        "Hörweite",
+        "hos",
+        "Höschen",
+        "Hostel",
         "hulle",
         "Hulle",
         "hülle",
@@ -188,5 +191,20 @@ public class DictionaryTest extends TestCase {
     assertEquals("es", Language.lookup("es").getSymbol());
   }
 
+  public void testTextNorm() {
+    assertEquals("hoschen", "Höschen".toLowerCase(Language.de.locale));
+  }
+
+  public void testChemnitz() throws IOException {
+    final RandomAccessFile raf = new RandomAccessFile("testdata/de-en_chemnitz.dict", "r");
+    final Dictionary dict = new Dictionary(raf);
+    final Index deIndex = dict.indices.get(0);
+    
+    //assertSearchResult("Höschen", "Hos", deIndex.findLongestSubstring("Hos", new AtomicBoolean(false)));
+    //assertSearchResult("Höschen", "hos", deIndex.findLongestSubstring("hos", new AtomicBoolean(false)));
+ 
+
+    raf.close();
+  }
 
 }

@@ -18,19 +18,19 @@ public class DictionaryBuilderTest extends TestCase {
         "--dictOut=" + result.getAbsolutePath(),
         "--lang1=DE",
         "--lang2=EN",
-        "--dictInfo=@testdata/de_en_dictInfo.txt",
+        "--dictInfo=@testdata/de-en_dictInfo.txt",
 
-        "--input1=testdata/de-en-chemnitz_100",
+        "--input1=testdata/de-en_chemnitz_100",
         "--input1Name=dictcc",
         "--input1Charset=UTF8",
         "--input1Format=chemnitz",
 
-        "--input2=testdata/de-en-dictcc_100",
+        "--input2=testdata/de-en_dictcc_100",
         "--input2Name=dictcc",
         "--input2Charset=UTF8",
         "--input2Format=dictcc",
         
-        "--print=testdata/de_en.test",
+        "--print=testdata/de-en.test",
     });
     
     // Check it once:

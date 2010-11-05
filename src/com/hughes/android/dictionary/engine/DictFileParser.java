@@ -22,7 +22,7 @@ public class DictFileParser {
 
   // Chemnitz
   static final Pattern DOUBLE_COLON = Pattern.compile(" :: ");
-  static final Pattern PIPE = Pattern.compile(" \\| ");
+  static final Pattern PIPE = Pattern.compile("\\|");
   
   static final Pattern SPACES = Pattern.compile("\\s+");
   static final Pattern DE_NOUN = Pattern.compile("([^ ]+) *\\{(m|f|n|pl)\\}");
@@ -65,8 +65,13 @@ public class DictFileParser {
   public void parseFile(final File file) throws IOException {
     final BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(file), charset));
     String line;
+    int count = 0;
     while ((line = reader.readLine()) != null) {
+      if (count % 10000 == 0) {
+        logger.info("count=" + count + ", line=" + line);
+      }
       parseLine(line);
+      ++count;
     }
   }
   
@@ -104,12 +109,13 @@ public class DictFileParser {
     
     final Pair[] pairs = new Pair[subfields[0].length];
     for (int i = 0; i < pairs.length; ++i) {
+      subfields[0][i] = subfields[0][i].trim();
+      subfields[1][i] = subfields[1][i].trim();
       pairs[i] = new Pair(subfields[0][i], subfields[1][i]);
     }
     final PairEntry pairEntry = new PairEntry(pairs);
     final EntryData entryData = new EntryData(dictBuilder.dictionary.pairEntries.size(), pairEntry);
     dictBuilder.dictionary.pairEntries.add(pairEntry);
-    dictBuilder.entryDatas.add(entryData);  // TODO: delete me.
     
     for (int l = 0; l < 2; ++l) {
       // alreadyDone.clear();
