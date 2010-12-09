@@ -1,5 +1,8 @@
 package com.hughes.android.dictionary.parser;
 
+import java.util.List;
+import java.util.Map;
+
 import junit.framework.TestCase;
 
 public class WikiParserTest extends TestCase {
@@ -12,14 +15,18 @@ public class WikiParserTest extends TestCase {
       "multi-line" + "\n" +
       "# comment -->" + "\n" +
       "" + "\n" +
+      "asdf\n" + 
       "# li" + "\n" +
       "# li2" + "\n" +
       "## li2.2" + "\n" +
       "Hi again." + "\n" +
+      "[[wikitext]]:[[wikitext]]" + "\n" +  // don't want this to trigger a list
       "here's [[some blah|some]] wikitext." + "\n" +
       "here's a {{template|blah=2|blah2=3|" + "\n" +
       "blah3=3}} and some more text." + "\n" +
       "== Header 2 ==" + "\n" +
+//      "==== Header 4 ====" + "\n" +
+//      "===== Header 5 =====" + "\n" +
       "=== {{header-template}} ===" + "\n";
     
     final String expected = "Hi Hello <i>thad</i> you're \n" +
@@ -30,16 +37,18 @@ public class WikiParserTest extends TestCase {
         "# comment \n" +
         "\n" +
         "\n" +
+        " asdf\n" +
         "# li\n" +
-        " # li2\n" +
-        " ## li2.2\n" +
-        " Hi again. here's [[some]] wikitext. here's a \n" +
-        "template:template\n" +
-        " and some more text. \n" +
+        "# li2\n" +
+        "## li2.2\n" +
+        "\n" +
+        " Hi again. [[wikitext]]:[[wikitext]] here's [[some]] wikitext. here's a \n" +
+        "template:[template]{blah=2, blah2=3, blah3=3}\n" +
+        " and some more text.\n" +
         "HEADER   Header 2 \n" +
-        " \n" +
+        "\n" +
         "HEADER    \n" +
-        "template:header-template\n" +
+        "template:[header-template]{}\n" +
         " \n" +
         " ";
     final PrintWikiCallback callback = new PrintWikiCallback();
@@ -73,8 +82,8 @@ public class WikiParserTest extends TestCase {
     }
 
     @Override
-    public void onTemplate(String[][] args) {
-      builder.append("\ntemplate:").append(args[0][0]).append("\n");
+    public void onTemplate(final List<String> positionalArgs, final Map<String,String> namedArgs) {
+      builder.append("\ntemplate:").append(positionalArgs).append(namedArgs).append("\n");
     }
 
     @Override
@@ -107,12 +116,12 @@ public class WikiParserTest extends TestCase {
 
     @Override
     public void onListItemStart(String header, int[] section) {
-      builder.append(header);
+      builder.append("\n").append(header);
     }
 
     @Override
     public void onListItemEnd(String header, int[] section) {
-      builder.append("\n");
+      //builder.append("\n");
     }
 
     @Override

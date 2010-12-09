@@ -9,7 +9,9 @@ public class WikiWord {
   final int depth;
   
   String language;
-  String pronunciation;
+  
+  final Map<String, StringBuilder> accentToPronunciation = new LinkedHashMap<String, StringBuilder>();
+  StringBuilder currentPronunciation = null;
 
   boolean isLang1;
   boolean isLang2;
@@ -24,6 +26,7 @@ public class WikiWord {
 
   static class PartOfSpeech {
     final int depth;
+    final String name;
 
     final List<Meaning> meaning = new ArrayList<WikiWord.Meaning>();
     
@@ -31,8 +34,9 @@ public class WikiWord {
         
     final Map<String, String> otherSections = new LinkedHashMap<String, String>();
 
-    public PartOfSpeech(final int depth) {
+    public PartOfSpeech(final int depth, String name) {
       this.depth = depth;
+      this.name = name;
     }
   }
   

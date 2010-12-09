@@ -1,14 +1,20 @@
 package com.hughes.android.dictionary.parser;
 
+import java.util.ArrayList;
+import java.util.LinkedHashMap;
+import java.util.List;
+import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class WikiParser {
   
-  private static final Pattern markup = Pattern.compile("$|''|\\{\\{|\\[\\[|^[*#;:]+|^(==+)\\s*|(==+)\\s*$|<!--|<pre>", Pattern.MULTILINE);
-  private static final Pattern listStart = Pattern.compile("^[*#;:]");
+  private static final Pattern markup = Pattern.compile("$|''|\\{\\{|\\[\\[|(==+)\\s*$|<!--|<pre>", Pattern.MULTILINE);
+  private static final Pattern listStart = Pattern.compile("^[*#;:]+");
   private static final Pattern pipeSplit = Pattern.compile("\\s*\\|\\s*");
   private static final Pattern whitespace = Pattern.compile("\\s+");
+  private static final Pattern headerStart = Pattern.compile("^==+");
+  
   
   static void parse(final String wikiText, final WikiCallback callback) {
     
@@ -16,7 +22,10 @@ public class WikiParser {
     boolean italicOn = false;
     int insideHeaderDepth = -1;
     String lastListItem = null;
-    
+
+    final List<String> positionalArgs = new ArrayList<String>();
+    final Map<String, String> namedArgs = new LinkedHashMap<String, String>();
+
     String rest = wikiText;
     while (rest.length() > 0) {
       final Matcher matcher = markup.matcher(rest);
@@ -30,23 +39,38 @@ public class WikiParser {
         rest = rest.substring(nextMarkupPos);
         
         if (rest.startsWith("\n")) {
+          rest = rest.substring(1);
+          
           if (insideHeaderDepth != -1) {
             throw new RuntimeException("barf");
           }
           if (lastListItem != null) {
             callback.onListItemEnd(lastListItem, null);
           }
-          if (!listStart.matcher(rest.substring(1)).matches()) {
+          
+          final Matcher headerMatcher = headerStart.matcher(rest);
+          if (headerMatcher.find()) {
+            insideHeaderDepth = headerMatcher.group().length();            
+            callback.onHeadingStart(insideHeaderDepth);
+            rest = rest.substring(headerMatcher.group().length());
+            continue;
+          }
+          
+          if (listStart.matcher(rest).find()) {
+            lastListItem = matcher.group();
+            callback.onListItemStart(lastListItem, null);
+            rest = rest.substring(lastListItem.length());
+            continue;
+          } else if (lastListItem != null) {
+            callback.onNewParagraph();
             lastListItem = null;
           }
-          if (rest.startsWith("\n\n")) {
-            // TODO(thadh): eat all the newlines.
+          
+          if (rest.startsWith("\n")) {
             callback.onNewParagraph();
-            rest = rest.substring(2); 
-          } else {
-            callback.onNewLine();
-            rest = rest.substring(1);
+            continue;
           }
+          callback.onNewLine();
         } else if (rest.startsWith("'''")) {
           boldOn = !boldOn;
           callback.onFormatBold(boldOn);
@@ -63,16 +87,17 @@ public class WikiParser {
           }
           final String template = rest.substring(2, end).trim();
           final String[] templateArray = pipeSplit.split(template);
-          final String[][] templateArgs = new String[templateArray.length][];
+          positionalArgs.clear();
+          namedArgs.clear();
           for (int i = 0; i < templateArray.length; ++i) {
             int equalPos = templateArray[i].indexOf('=');
             if (equalPos == -1) {
-              templateArgs[i] = new String[] { null, templateArray[i] };
+              positionalArgs.add(templateArray[i]);
             } else {
-              templateArgs[i] = new String[] { templateArray[i].substring(0, equalPos), templateArray[i].substring(equalPos + 1) };
+              namedArgs.put(templateArray[i].substring(0, equalPos), templateArray[i].substring(equalPos + 1));
             }
           }
-          callback.onTemplate(templateArgs);
+          callback.onTemplate(positionalArgs, namedArgs);
           rest = rest.substring(end + 2);
         } else if (rest.startsWith("[[")) {
           int end = rest.indexOf("]]");
@@ -87,8 +112,6 @@ public class WikiParser {
         } else if (rest.startsWith("=")) {
           final String match = matcher.group(1) != null ? matcher.group(1) : matcher.group(2);
           if (insideHeaderDepth == -1) {
-            insideHeaderDepth = match.length();            
-            callback.onHeadingStart(insideHeaderDepth);
           } else {
             if (match.length() != insideHeaderDepth) {
               callback.onInvalidHeaderEnd(rest);
@@ -98,10 +121,6 @@ public class WikiParser {
             insideHeaderDepth = -1;
           }
           rest = rest.substring(match.length());
-        } else if (rest.startsWith("*") || rest.startsWith("#") || rest.startsWith(";") || rest.startsWith(":")) {
-          lastListItem = matcher.group();
-          callback.onListItemStart(lastListItem, null);
-          rest = rest.substring(lastListItem.length());
         } else if (rest.startsWith("<!--")) {
           int end = rest.indexOf("-->");
           if (end == -1) {

@@ -1,5 +1,8 @@
 package com.hughes.android.dictionary.parser;
 
+import java.util.List;
+import java.util.Map;
+
 
 public interface WikiCallback {
 
@@ -10,7 +13,7 @@ public interface WikiCallback {
 
   void onWikiLink(final String[] args);
 
-  void onTemplate(final String[][] args);
+  void onTemplate(final List<String> positionalArgs, final Map<String,String> namedArgs);
 
   // Will never contain a newline unless it's in a <pre>
   void onText(final String text);

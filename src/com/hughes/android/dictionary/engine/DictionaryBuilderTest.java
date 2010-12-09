@@ -11,7 +11,41 @@ import junit.framework.TestCase;
 
 public class DictionaryBuilderTest extends TestCase {
   
+  public void testWiktionaryCombined() throws Exception {
+    final File result = new File("testdata/wiktionary.quickdic");
+    System.out.println("Writing to: " + result);
+    DictionaryBuilder.main(new String[] {
+        "--dictOut=" + result.getAbsolutePath(),
+        "--lang1=DE",
+        "--lang2=EN",
+        "--dictInfo=SomeWikiData",
+
+        "--input3=testdata/enwiktionary_small.xml",
+        "--input3Name=enwiktionary",
+        "--input3Format=enwiktionary",
+        "--input3TranslationPattern1=German|Italian|Spanish|French|Japanese|Arabic|Mandarin",
+        "--input3TranslationPattern2=English",
+        "--input3EnIndex=2",
+
+        "--print=testdata/wiktionary.test",
+    });
+    
+    // Check it once:
+    assertFilesEqual("testdata/wiktionary.golden", "testdata/wiktionary.test"); 
+    
+    
+    // Check it again.
+    final Dictionary dict = new Dictionary(new RandomAccessFile(result.getAbsolutePath(), "r"));
+    final PrintStream out = new PrintStream(new File("testdata/wiktionary.test"));
+    dict.print(out);
+    out.close();
+    
+    assertFilesEqual("testdata/wiktionary.golden", "testdata/wiktionary.test");
+  }
+
+  
   public void testGermanCombined() throws Exception {
+    if (1==1) throw new RuntimeException();
     final File result = new File("testdata/de-en.quickdic");
     System.out.println("Writing to: " + result);
     DictionaryBuilder.main(new String[] {
@@ -20,22 +54,15 @@ public class DictionaryBuilderTest extends TestCase {
         "--lang2=EN",
         "--dictInfo=@testdata/de-en_dictInfo.txt",
 
-//        "--input1=testdata/de-en_chemnitz_100",
-//        "--input1Name=dictcc",
-//        "--input1Charset=UTF8",
-//        "--input1Format=chemnitz",
-//
-//        "--input2=testdata/de-en_dictcc_100",
-//        "--input2Name=dictcc",
-//        "--input2Charset=UTF8",
-//        "--input2Format=dictcc",
+        "--input1=testdata/de-en_chemnitz_100",
+        "--input1Name=dictcc",
+        "--input1Charset=UTF8",
+        "--input1Format=chemnitz",
 
-        "--input3=testdata/enwiktionary_small.xml",
-        "--input3Name=enwiktionary",
-        "--input3Format=enwiktionary",
-        "--input3TranslationPattern1=[Gg]erman",
-        "--input3TranslationPattern2=[Ee]glish",
-        "--input3EnIndex=2",
+        "--input2=testdata/de-en_dictcc_100",
+        "--input2Name=dictcc",
+        "--input2Charset=UTF8",
+        "--input2Format=dictcc",
 
         "--print=testdata/de-en.test",
     });
@@ -52,7 +79,8 @@ public class DictionaryBuilderTest extends TestCase {
     
     assertFilesEqual("testdata/de-en.golden", "testdata/de-en.test");
   }
-  
+
+
 
   void assertFilesEqual(final String expected, final String actual) throws IOException {
     final String expectedString = FileUtil.readToString(new File(expected));
@@ -60,4 +88,5 @@ public class DictionaryBuilderTest extends TestCase {
     assertEquals(expectedString, actualString);
   }
 
+  
 }
