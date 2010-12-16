@@ -1,0 +1,161 @@
+package com.hughes.android.dictionary.engine;
+
+import java.io.File;
+import java.io.PrintWriter;
+import java.io.RandomAccessFile;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
+import junit.framework.TestCase;
+
+public class DictionaryBuilderMain extends TestCase {
+  
+  static class Lang {
+    final String nameRegex;
+    final String code;
+    public Lang(String nameRegex, String code) {
+      this.nameRegex = nameRegex;
+      this.code = code;
+    }
+  }
+  
+  
+  public static void main(final String[] args) throws Exception {
+    
+    Lang[] langs1 = new Lang[] { 
+        new Lang("^English$", "EN"),
+        new Lang("^German$", "DE"),
+    };
+    Lang[] langs2 = new Lang[] { 
+        new Lang("^Italian$", "IT"),
+        new Lang("^German$", "DE"),
+        new Lang("^Afrikaans$", "AF"),
+        new Lang("^Armenian$", "HY"),
+        new Lang("^Arabic$", "AR"),
+        new Lang("^Chinese$|^Mandarin$", "ZH"),
+        new Lang("^Croation$", "HR"),
+        new Lang("^Czech$", "CS"),
+        new Lang("^Dutch$", "NL"),
+        new Lang("^English$", "EN"),
+        new Lang("^Finnish$", "FI"),
+        new Lang("^French$", "FR"),
+        new Lang("^Greek$", "EL"),
+        new Lang("^Hebrew$", "HE"),
+        new Lang("^Hindi$", "HI"),
+        new Lang("^Icelandic$", "IS"),
+        new Lang("^Irish$", "GA"),
+        new Lang("^Japanese$", "JA"),
+        new Lang("^Korean$", "KO"),
+        new Lang("^Kurdish$", "KU"),
+        new Lang("^Lithuanian$", "LT"),
+        new Lang("^Malay$", "MS"),
+        new Lang("^Maori$", "MI"),
+        new Lang("^Mongolian$", "MN"),
+        new Lang("^Norwegian$", "NO"),
+        new Lang("^Persian$", "FA"),
+        new Lang("^Portuguese$", "PT"),
+        new Lang("^Romanian$", "RO"),
+        new Lang("^Russian$", "RU"),
+        new Lang("^Sanskrit$", "SA"),
+        new Lang("^Serbian$", "SR"),
+        new Lang("^Somali$", "SO"),
+        new Lang("^Spanish$", "ES"),
+        new Lang("^Sudanese$", "SU"),
+        new Lang("^Swedish$", "SV"),
+        new Lang("^Tajik$", "TG"),
+        new Lang("^Thai$", "TH"),
+        new Lang("^Tibetan$", "BO"),
+        new Lang("^Turkish$", "TR"),
+        new Lang("^Ukranian$", "UK"),
+        new Lang("^Vietnamese$", "VI"),
+        new Lang("^Welsh$", "CY"),
+        new Lang("^Yiddish$", "YI"),
+        new Lang("^Zulu$", "ZU"),
+    };
+    
+    for (final Lang lang1 : langs1) {
+      for (final Lang lang2 : langs2) {
+        if (lang1.nameRegex.equals(lang2.nameRegex)) {
+          continue;
+        }
+        
+        int enIndex = -1;
+        if (lang2.code.equals("EN")) {
+          enIndex = 2;
+        }
+        if (lang1.code.equals("EN")) {
+          enIndex = 1;
+        }
+
+        final String dictFile = String.format("dictOutputs/%s-%s_enwiktionary.quickdic", lang1.code, lang2.code);
+        System.out.println("building dictFile: " + dictFile);
+        DictionaryBuilder.main(new String[] {
+            String.format("--dictOut=%s", dictFile),
+            String.format("--lang1=%s", lang1.code),
+            String.format("--lang2=%s", lang2.code),
+            String.format("--dictInfo=(EN)Wikitionary-based %s-%s dictionary", lang1.code, lang2.code),
+
+            "--input1=dictInputs/enwiktionary-20101015-pages-articles",
+            "--input1Name=enwiktionary",
+            "--input1Format=enwiktionary",
+            String.format("--input1TranslationPattern1=%s", lang1.nameRegex),
+            String.format("--input1TranslationPattern2=%s", lang2.nameRegex),
+            String.format("--input1EnIndex=%d", enIndex),
+        });
+        
+        // Print the entries for diffing.
+        final RandomAccessFile raf = new RandomAccessFile(new File(dictFile), "r");
+        final Dictionary dict = new Dictionary(raf);
+        final PrintWriter textOut = new PrintWriter(new File(dictFile + ".txt"));
+        final List<PairEntry> sorted = new ArrayList<PairEntry>(dict.pairEntries);
+        Collections.sort(sorted);
+        for (final PairEntry pairEntry : sorted) {
+          textOut.println(pairEntry.getRawText(false));
+        }
+        textOut.close();
+        raf.close();
+
+      }  // langs2
+    }  // langs1
+    
+    DictionaryBuilder.main(new String[] {
+        "--dictOut=dictOutputs/de-en_all.quickdic",
+        "--lang1=DE",
+        "--lang2=EN",
+        "--dictInfo=@dictInputs/de-en_all.info",
+
+        "--input2=dictInputs/de-en_chemnitz.txt",
+        "--input2Name=dictcc",
+        "--input2Charset=UTF8",
+        "--input2Format=chemnitz",
+
+        "--input3=dictInputs/de-en_dictcc.txt",
+        "--input3Name=dictcc",
+        "--input3Charset=UTF8",
+        "--input3Format=dictcc",
+        
+        "--input1=dictInputs/enwiktionary-20101015-pages-articles",
+        "--input1Name=enwiktionary",
+        "--input1Format=enwiktionary",
+        "--input1TranslationPattern1=^German$",
+        "--input1TranslationPattern2=^English$",
+        "--input1EnIndex=2",
+
+    });
+
+    DictionaryBuilder.main(new String[] {
+        "--dictOut=dictOutputs/de-en_chemnitz.quickdic",
+        "--lang1=DE",
+        "--lang2=EN",
+        "--dictInfo=@dictInputs/de-en_chemnitz.info",
+
+        "--input1=dictInputs/de-en_chemnitz.txt",
+        "--input1Name=dictcc",
+        "--input1Charset=UTF8",
+        "--input1Format=chemnitz",
+    });
+
+  }
+  
+}

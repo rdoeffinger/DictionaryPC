@@ -18,12 +18,13 @@ public class WikiParserTest extends TestCase {
       "asdf\n" + 
       "# li" + "\n" +
       "# li2" + "\n" +
+      "# {{template_in_list}}" + "\n" +
       "## li2.2" + "\n" +
       "Hi again." + "\n" +
       "[[wikitext]]:[[wikitext]]" + "\n" +  // don't want this to trigger a list
       "here's [[some blah|some]] wikitext." + "\n" +
-      "here's a {{template|blah=2|blah2=3|" + "\n" +
-      "blah3=3}} and some more text." + "\n" +
+      "here's a {{template|this has an = sign|blah=2|blah2=3|" + "\n" +
+      "blah3=3,[[asdf]|[asdf asdf]|[asdf asdf asdf]],blah4=4}} and some more text." + "\n" +
       "== Header 2 ==" + "\n" +
 //      "==== Header 4 ====" + "\n" +
 //      "===== Header 5 =====" + "\n" +
@@ -38,12 +39,15 @@ public class WikiParserTest extends TestCase {
         "\n" +
         "\n" +
         " asdf\n" +
-        "# li\n" +
-        "# li2\n" +
-        "## li2.2\n" +
+        "LIST (#) li\n" +
+        "LIST (#) li2\n" +
+        "LIST (#) \n" +
+        "template:[template_in_list]{}\n" +
+        "\n" + 
+        "LIST (##) li2.2\n" +
         "\n" +
         " Hi again. [[wikitext]]:[[wikitext]] here's [[some]] wikitext. here's a \n" +
-        "template:[template]{blah=2, blah2=3, blah3=3}\n" +
+        "template:[template, this has an = sign]{blah=2, blah2=3, blah3=3,[[asdf]|[asdf asdf]|[asdf asdf asdf]],blah4=4}\n" +
         " and some more text.\n" +
         "HEADER   Header 2 \n" +
         "\n" +
@@ -116,7 +120,7 @@ public class WikiParserTest extends TestCase {
 
     @Override
     public void onListItemStart(String header, int[] section) {
-      builder.append("\n").append(header);
+      builder.append("\n").append("LIST (").append(header).append(")");
     }
 
     @Override

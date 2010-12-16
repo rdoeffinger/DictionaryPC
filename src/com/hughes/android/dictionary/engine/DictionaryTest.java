@@ -28,7 +28,7 @@ public class DictionaryTest extends TestCase {
   }
   
   public void testGermanIndex() throws IOException {
-    final RandomAccessFile raf = new RandomAccessFile("testdata/de-en.dict", "r");
+    final RandomAccessFile raf = new RandomAccessFile("testdata/de-en.quickdic", "r");
     final Dictionary dict = new Dictionary(raf);
     final Index deIndex = dict.indices.get(0);
     

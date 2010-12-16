@@ -6,7 +6,10 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.nio.charset.Charset;
+import java.util.Arrays;
+import java.util.LinkedHashSet;
 import java.util.List;
+import java.util.Set;
 import java.util.logging.Logger;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -262,6 +265,13 @@ public class DictFileParser {
       field = field.substring(3);
     }
     return field;
+  }
+  
+  public static final Set<String> tokenize(final String text, final Pattern pattern) {
+    final String[] split = pattern.split(text);
+    final Set<String> result = new LinkedHashSet<String>(Arrays.asList(split));
+    result.remove("");
+    return result;
   }
 
 

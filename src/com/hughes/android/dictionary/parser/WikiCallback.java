@@ -32,5 +32,5 @@ public interface WikiCallback {
   // Errors
   void onUnterminated(final String start, String rest);
   void onInvalidHeaderEnd(String rest);
-  
+    
 }

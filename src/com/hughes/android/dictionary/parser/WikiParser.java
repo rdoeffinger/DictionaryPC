@@ -35,10 +35,12 @@ public class WikiParser {
           String text = rest.substring(0, nextMarkupPos);
           whitespace.matcher(text).replaceAll(" ");
           callback.onText(text);
+          rest = rest.substring(nextMarkupPos);
         }
-        rest = rest.substring(nextMarkupPos);
         
-        if (rest.startsWith("\n")) {
+        if (rest.equals("")) {
+          continue;
+        } else if (rest.startsWith("\n")) {
           rest = rest.substring(1);
           
           if (insideHeaderDepth != -1) {
@@ -50,14 +52,16 @@ public class WikiParser {
           
           final Matcher headerMatcher = headerStart.matcher(rest);
           if (headerMatcher.find()) {
+            lastListItem = null;
             insideHeaderDepth = headerMatcher.group().length();            
             callback.onHeadingStart(insideHeaderDepth);
             rest = rest.substring(headerMatcher.group().length());
             continue;
           }
-          
-          if (listStart.matcher(rest).find()) {
-            lastListItem = matcher.group();
+
+          final Matcher listStartMatcher = listStart.matcher(rest);
+          if (listStartMatcher.find()) {
+            lastListItem = listStartMatcher.group();
             callback.onListItemStart(lastListItem, null);
             rest = rest.substring(lastListItem.length());
             continue;
@@ -86,15 +90,22 @@ public class WikiParser {
             return;
           }
           final String template = rest.substring(2, end).trim();
-          final String[] templateArray = pipeSplit.split(template);
+          //todo: this doesn't work.  can't split pipes inside [[asdf|asdf]]
+          final List<String> templateArray = new ArrayList<String>();
+          contextSensitivePipeSplit(template, templateArray);
           positionalArgs.clear();
           namedArgs.clear();
-          for (int i = 0; i < templateArray.length; ++i) {
-            int equalPos = templateArray[i].indexOf('=');
+          for (int i = 0; i < templateArray.size(); ++i) {
+            
+            int equalPos = -1;
+            do {
+              equalPos = templateArray.get(i).indexOf('=', equalPos + 1);
+            } while (equalPos > 1 && templateArray.get(i).charAt(equalPos - 1) == ' ');
+
             if (equalPos == -1) {
-              positionalArgs.add(templateArray[i]);
+              positionalArgs.add(templateArray.get(i));
             } else {
-              namedArgs.put(templateArray[i].substring(0, equalPos), templateArray[i].substring(equalPos + 1));
+              namedArgs.put(templateArray.get(i).substring(0, equalPos), templateArray.get(i).substring(equalPos + 1));
             }
           }
           callback.onTemplate(positionalArgs, namedArgs);
@@ -138,10 +149,115 @@ public class WikiParser {
           callback.onText(rest.substring(5, end));
           rest = rest.substring(end + 6);
         } else {
-          throw new RuntimeException("barf!");
+          throw new RuntimeException("barf: " + rest);
         }
       }  // matcher.find()
     }
   }
+  
+  private static final Pattern openBracketOrPipe = Pattern.compile("($)|(\\[\\[)|(\\s*\\|\\s*)");
+  private static void contextSensitivePipeSplit(String template, final List<String> result) {
+    StringBuilder builder = new StringBuilder();
+    while (template.length() > 0) {
+      final Matcher matcher = openBracketOrPipe.matcher(template);
+      if (matcher.find()) {
+        // append to the match.
+        builder.append(template.substring(0, matcher.start()));
+        if (matcher.group(2) != null) {  // [[
+          // append to the close ]].
+          final int closeIndex = template.indexOf("]]", matcher.end());
+          builder.append(template.substring(matcher.start(), closeIndex + 2));
+          template = template.substring(closeIndex + 2);
+        } else if (matcher.group(3) != null) { // |
+          result.add(builder.toString());
+          builder = new StringBuilder();
+          template = template.substring(matcher.end());
+        } else {
+          template = template.substring(matcher.start());
+          assert template.length() == 0 : template;
+        }
+      } else {
+        assert false;
+      }
+    }
+    result.add(builder.toString());
+  }
+
+  // ------------------------------------------------------------------------
+
+  public static String simpleParse(final String wikiText) {
+    final StringBuilderCallback callback = new StringBuilderCallback();
+    parse(wikiText, callback);
+    return callback.builder.toString();
+  }
+  
+  static final class StringBuilderCallback implements WikiCallback {
+
+    final StringBuilder builder = new StringBuilder();
+    
+    @Override
+    public void onComment(String text) {
+    }
+
+    @Override
+    public void onFormatBold(boolean boldOn) {
+    }
+
+    @Override
+    public void onFormatItalic(boolean italicOn) {
+    }
+
+    @Override
+    public void onWikiLink(String[] args) {
+      builder.append(args[args.length - 1]);
+    }
+
+    @Override
+    public void onTemplate(List<String> positionalArgs,
+        Map<String, String> namedArgs) {
+      builder.append("{{").append(positionalArgs).append(namedArgs).append("}}");
+    }
+
+    @Override
+    public void onText(String text) {
+      builder.append(text);
+    }
+
+    @Override
+    public void onHeadingStart(int depth) {
+    }
+
+    @Override
+    public void onHeadingEnd(int depth) {
+    }
+
+    @Override
+    public void onNewLine() {
+    }
+
+    @Override
+    public void onNewParagraph() {
+    }
+
+    @Override
+    public void onListItemStart(String header, int[] section) {
+    }
+
+    @Override
+    public void onListItemEnd(String header, int[] section) {
+    }
+
+    @Override
+    public void onUnterminated(String start, String rest) {
+      throw new RuntimeException(start + rest);
+    }
+
+    @Override
+    public void onInvalidHeaderEnd(String rest) {
+      throw new RuntimeException(rest);
+    }
+    
+  }
+
 
 }

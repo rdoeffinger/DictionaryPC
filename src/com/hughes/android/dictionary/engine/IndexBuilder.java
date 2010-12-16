@@ -95,6 +95,13 @@ public class IndexBuilder {
     }
     return entries;
   }
+
+  public void addEntryWithTokens(final EntryData entryData, final Set<String> tokens,
+      final EntryTypeName entryTypeName) {
+    for (final String token : tokens) {
+      getOrCreateEntries(token, entryTypeName).add(entryData);
+    }    
+  }
   
 
 }

@@ -23,7 +23,7 @@ public class DictionaryBuilderTest extends TestCase {
         "--input3=testdata/enwiktionary_small.xml",
         "--input3Name=enwiktionary",
         "--input3Format=enwiktionary",
-        "--input3TranslationPattern1=German|Italian|Spanish|French|Japanese|Arabic|Mandarin",
+        "--input3TranslationPattern1=German|Italian|Spanish|French|Japanese|Arabic|Mandarin|Korean|Latin|Swedish|Croation|Serbian|Dutch|Afrikaans",
         "--input3TranslationPattern2=English",
         "--input3EnIndex=2",
 
@@ -45,7 +45,6 @@ public class DictionaryBuilderTest extends TestCase {
 
   
   public void testGermanCombined() throws Exception {
-    if (1==1) throw new RuntimeException();
     final File result = new File("testdata/de-en.quickdic");
     System.out.println("Writing to: " + result);
     DictionaryBuilder.main(new String[] {
