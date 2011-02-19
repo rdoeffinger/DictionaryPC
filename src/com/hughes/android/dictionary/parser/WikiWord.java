@@ -125,6 +125,24 @@ public class WikiWord {
      for (final WikiWord.PartOfSpeech partOfSpeech : partsOfSpeech) {
        partOfSpeechToQuickDic(dictBuilder, enIndexBuilder, partOfSpeech);
      }  // PartOfSpeech
+
+     // Pronunciation.
+     if (index != -1) {
+       final PairEntry pronEntry = new PairEntry();
+       for (final Map.Entry<String, StringBuilder> accentToPron : accentToPronunciation.entrySet()) {
+         String accent = accentToPron.getKey();
+         if (accent.length() > 0) {
+           accent = accent + ": ";
+         }         
+         pronEntry.pairs.add(new Pair(accent + accentToPron.getValue(), "", index != 0));
+       }
+       if (pronEntry.pairs.size() > 0) {
+         final EntryData entryData = new EntryData(dictBuilder.dictionary.pairEntries.size(), pronEntry);
+         dictBuilder.dictionary.pairEntries.add(pronEntry);
+         final Set<String> tokens = DictFileParser.tokenize(title, DictFileParser.NON_CHAR);
+         dictBuilder.indexBuilders.get(index).addEntryWithTokens(entryData, tokens, EntryTypeName.WIKTIONARY_PRONUNCIATION);
+       }
+     }
   }
 
 
@@ -145,12 +163,12 @@ public class WikiWord {
        }
      }
      
-     
      if (index != -1) {
        final boolean formOfSwap = index != 0;
        for (final FormOf formOf : partOfSpeech.formOfs) {
          final Pair pair = new Pair(title + ": " + formOf.grammarForm + ": " + formOf.target, "", formOfSwap);
-         final PairEntry pairEntry = new PairEntry(new Pair[] {pair});
+         final PairEntry pairEntry = new PairEntry();
+         pairEntry.pairs.add(pair);
          final EntryData entryData = new EntryData(dictBuilder.dictionary.pairEntries.size(), pairEntry);
          dictBuilder.dictionary.pairEntries.add(pairEntry);
   
@@ -167,8 +185,9 @@ public class WikiWord {
      
        // Meanings.
        for (final Meaning meaning : partOfSpeech.meanings) {
-         final List<Pair> pairs = new ArrayList<PairEntry.Pair>();
-         
+         final PairEntry pairEntry = new PairEntry();
+         final List<Pair> pairs = pairEntry.pairs;
+
          final List<Set<String>> exampleTokens = new ArrayList<Set<String>>();
          exampleTokens.add(new LinkedHashSet<String>());
          exampleTokens.add(new LinkedHashSet<String>());
@@ -200,7 +219,6 @@ public class WikiWord {
          }
 
          // Create EntryData with the PairEntry.
-         final PairEntry pairEntry = new PairEntry(pairs.toArray(new Pair[0]));
          final EntryData entryData = new EntryData(dictBuilder.dictionary.pairEntries.size(), pairEntry);
          dictBuilder.dictionary.pairEntries.add(pairEntry);
 
@@ -241,22 +259,12 @@ public class WikiWord {
        
        final String englishBase = title + " (" + partOfSpeech.name.toLowerCase() + "%s)";
        
-       final StringBuilder englishPron = new StringBuilder();
-       for (final Map.Entry<String, StringBuilder> accentToPron : accentToPronunciation.entrySet()) {
-         englishPron.append("\n");
-         if (accentToPron.getKey().length() > 0) {
-           englishPron.append(accentToPron.getKey()).append(": ");
-         }
-         englishPron.append(accentToPron.getValue());
-       }
-       
        for (final TranslationSense translationSense : partOfSpeech.translationSenses) {
          //System.out.println("    sense: " + translationSense.sense);
          if (translationSense.sense == null) {
            //System.err.println("    null sense: " + title);
          }
          String englishSense = String.format(englishBase, translationSense.sense != null ? (": " + translationSense.sense) : "");
-         englishSense += englishPron.toString();
          
          final StringBuilder[] sideBuilders = new StringBuilder[2];
          final List<Map<EntryTypeName, List<String>>> sideTokens = new ArrayList<Map<EntryTypeName,List<String>>>();
@@ -290,7 +298,8 @@ public class WikiWord {
          // Construct the Translations-based QuickDic entry for this TranslationSense.
          if (sideBuilders[0].length() > 0 && sideBuilders[1].length() > 0) {
            final Pair pair = new Pair(sideBuilders[0].toString(), sideBuilders[1].toString());
-           final PairEntry pairEntry = new PairEntry(new Pair[] { pair });
+           final PairEntry pairEntry = new PairEntry();
+           pairEntry.pairs.add(pair);
            final EntryData entryData = new EntryData(dictBuilder.dictionary.pairEntries.size(), pairEntry);
            dictBuilder.dictionary.pairEntries.add(pairEntry);
            

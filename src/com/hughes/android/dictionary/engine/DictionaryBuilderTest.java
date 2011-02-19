@@ -54,7 +54,7 @@ public class DictionaryBuilderTest extends TestCase {
         "--dictInfo=@testdata/de-en_dictInfo.txt",
 
         "--input1=testdata/de-en_chemnitz_100",
-        "--input1Name=dictcc",
+        "--input1Name=chemnitz",
         "--input1Charset=UTF8",
         "--input1Format=chemnitz",
 

@@ -117,6 +117,9 @@ public class DictionaryBuilder {
           fatalError("Must specify human readable name for: " + prefix + "Name");
         }
 
+        final EntrySource entrySource = new EntrySource(dictionaryBuilder.dictionary.sources.size(), inputName, dictionaryBuilder.dictionary.pairEntries.size());
+        System.out.println("");
+        
         String inputFormat = keyValueArgs.remove(prefix + "Format");
         if ("dictcc".equals(inputFormat)) {
           new DictFileParser(charset, false, DictFileParser.TAB, null, dictionaryBuilder, dictionaryBuilder.indexBuilders.toArray(new IndexBuilder[0]), null).parseFile(file);
@@ -135,7 +138,6 @@ public class DictionaryBuilder {
           fatalError("Invalid or missing input format: " + inputFormat);
         }
         
-        final EntrySource entrySource = new EntrySource(dictionaryBuilder.dictionary.sources.size(), inputName);
         dictionaryBuilder.dictionary.sources.add(entrySource);
         System.out.println("Done: " + file + "\n\n");
       }

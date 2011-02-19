@@ -201,6 +201,7 @@ public class EnWiktionaryXmlParser extends org.xml.sax.helpers.DefaultHandler im
     
     namedArgs.remove("lang");
     namedArgs.remove("nocat");
+    namedArgs.remove("nocap");
     namedArgs.remove("sc");
 
     // Pronunciation
@@ -212,7 +213,7 @@ public class EnWiktionaryXmlParser extends org.xml.sax.helpers.DefaultHandler im
         return;
       }
       
-      if (name.equals("IPA") || name.equals("SAMPA") || name.equals("X-SAMPA")|| name.equals("enPR")) {
+      if (name.equals("IPA") || name.equals("SAMPA") || name.equals("X-SAMPA") || name.equals("enPR")) {
         namedArgs.remove("lang");
         for (int i = 0; i < 100 && !namedArgs.isEmpty(); ++i) {
           final String pron = namedArgs.remove("" + i);
@@ -323,7 +324,7 @@ public class EnWiktionaryXmlParser extends org.xml.sax.helpers.DefaultHandler im
       assert positionalArgs.size() >= 1 && namedArgs.isEmpty() : positionalArgs.toString() + namedArgs + title;
       
       if (currentPartOfSpeech == null) {
-        assert !currentWord.partsOfSpeech.isEmpty() : title; 
+        assert currentWord != null && !currentWord.partsOfSpeech.isEmpty() : title; 
         System.err.println("Assuming last part of speech for non-nested translation section: " + title);
         currentPartOfSpeech = ListUtil.getLast(currentWord.partsOfSpeech);
       }

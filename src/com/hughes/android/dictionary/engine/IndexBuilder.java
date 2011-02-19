@@ -24,7 +24,7 @@ public class IndexBuilder {
   IndexBuilder(final DictionaryBuilder dictionaryBuilder, final String shortName, final String longName, final Language language, final String normalizerRules, final boolean swapPairEntries) {
     this.dictionaryBuilder = dictionaryBuilder;
     index = new Index(dictionaryBuilder.dictionary, shortName, longName, language, normalizerRules, swapPairEntries);
-    tokenToData = new TreeMap<String, TokenData>(new NormalizeComparator(index.normalizer, language.collator));
+    tokenToData = new TreeMap<String, TokenData>(new NormalizeComparator(index.normalizer(), language.getCollator()));
   }
   
   public void build() {
@@ -50,7 +50,8 @@ public class IndexBuilder {
           }
         }
       }
-      index.sortedIndexEntries.add(new Index.IndexEntry(tokenData.token, startRow, numRows));
+      index.sortedIndexEntries.add(new Index.IndexEntry(tokenData.token, index
+          .normalizer().transliterate(tokenData.token), startRow, numRows));
     }
     
     final List<IndexEntry> sortedEntries = new ArrayList<IndexEntry>(index.sortedIndexEntries);

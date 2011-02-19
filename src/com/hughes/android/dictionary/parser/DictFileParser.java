@@ -102,7 +102,7 @@ public class DictFileParser {
       fields[0] = fields[1];
       fields[1] = temp;
     }
-    
+
     final String[][] subfields = new String[2][];
       if (subfieldSplit != null) {
       subfields[0] = subfieldSplit.split(fields[0]);
@@ -116,13 +116,12 @@ public class DictFileParser {
       subfields[1] = new String[] { fields[1] };
     }
     
-    final Pair[] pairs = new Pair[subfields[0].length];
-    for (int i = 0; i < pairs.length; ++i) {
+    final PairEntry pairEntry = new PairEntry();
+    for (int i = 0; i < subfields[0].length; ++i) {
       subfields[0][i] = subfields[0][i].trim();
       subfields[1][i] = subfields[1][i].trim();
-      pairs[i] = new Pair(subfields[0][i], subfields[1][i]);
+      pairEntry.pairs.add(new Pair(subfields[0][i], subfields[1][i]));
     }
-    final PairEntry pairEntry = new PairEntry(pairs);
     final EntryData entryData = new EntryData(dictBuilder.dictionary.pairEntries.size(), pairEntry);
     dictBuilder.dictionary.pairEntries.add(pairEntry);
     
