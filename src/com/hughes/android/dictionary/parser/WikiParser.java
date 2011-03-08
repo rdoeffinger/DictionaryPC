@@ -7,6 +7,8 @@ import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import com.hughes.util.StringUtil;
+
 public class WikiParser {
   
   private static final Pattern markup = Pattern.compile("$|''|\\{\\{|\\[\\[|(==+)\\s*$|<!--|<pre>", Pattern.MULTILINE);
@@ -84,13 +86,12 @@ public class WikiParser {
           callback.onFormatItalic(italicOn);
           rest = rest.substring(2);
         } else if (rest.startsWith("{{")) {
-          int end = rest.indexOf("}}");
+          int end = StringUtil.nestedIndexOf(rest, 2, "{{", "}}");
           if (end == -1) {
             callback.onUnterminated("{{", rest);
-            return;
+            end = StringUtil.safeIndexOf(rest, "\n") - 2;
           }
           final String template = rest.substring(2, end).trim();
-          //todo: this doesn't work.  can't split pipes inside [[asdf|asdf]]
           final List<String> templateArray = new ArrayList<String>();
           contextSensitivePipeSplit(template, templateArray);
           positionalArgs.clear();
@@ -114,7 +115,7 @@ public class WikiParser {
           int end = rest.indexOf("]]");
           if (end == -1) {
             callback.onUnterminated("[[", rest);
-            return;
+            end = StringUtil.safeIndexOf(rest, "\n") - 2;
           }
           final String wikiLink = rest.substring(2, end);
           final String[] args = pipeSplit.split(wikiLink);
@@ -136,7 +137,7 @@ public class WikiParser {
           int end = rest.indexOf("-->");
           if (end == -1) {
             callback.onUnterminated("<!--", rest);
-            return;
+            end = StringUtil.safeIndexOf(rest, "\n") - 3;
           }
           callback.onComment(rest.substring(4, end));
           rest = rest.substring(end + 3);
@@ -144,7 +145,7 @@ public class WikiParser {
           int end = rest.indexOf("</pre>");
           if (end == -1) {
             callback.onUnterminated("<pre>", rest);
-            return;
+            end = StringUtil.safeIndexOf(rest, "\n") - 6;
           }
           callback.onText(rest.substring(5, end));
           rest = rest.substring(end + 6);
@@ -155,32 +156,29 @@ public class WikiParser {
     }
   }
   
-  private static final Pattern openBracketOrPipe = Pattern.compile("($)|(\\[\\[)|(\\s*\\|\\s*)");
   private static void contextSensitivePipeSplit(String template, final List<String> result) {
-    StringBuilder builder = new StringBuilder();
-    while (template.length() > 0) {
-      final Matcher matcher = openBracketOrPipe.matcher(template);
-      if (matcher.find()) {
-        // append to the match.
-        builder.append(template.substring(0, matcher.start()));
-        if (matcher.group(2) != null) {  // [[
-          // append to the close ]].
-          final int closeIndex = template.indexOf("]]", matcher.end());
-          builder.append(template.substring(matcher.start(), closeIndex + 2));
-          template = template.substring(closeIndex + 2);
-        } else if (matcher.group(3) != null) { // |
-          result.add(builder.toString());
-          builder = new StringBuilder();
-          template = template.substring(matcher.end());
-        } else {
-          template = template.substring(matcher.start());
-          assert template.length() == 0 : template;
+    int depth = 0;
+    int lastStart = 0;
+    for (int i = 1; i < template.length(); ) {
+      if (template.charAt(i) == '|' && depth == 0) {
+        final String s = template.substring(lastStart, i);
+        result.add(s.trim());
+        ++i;
+        lastStart = i;
+      } else if (template.startsWith("[[", i) || template.startsWith("{{", i)) {
+        ++depth;
+        i += 2;
+      } else if (template.startsWith("]]", i) || template.startsWith("}}", i)) {
+        --depth;
+        if (depth < 0) {
+          throw new RuntimeException("too many closings: " + template);
         }
+        i += 2;
       } else {
-        assert false;
+        ++i;
       }
     }
-    result.add(builder.toString());
+    result.add(template.substring(lastStart).trim());
   }
 
   // ------------------------------------------------------------------------
@@ -249,7 +247,7 @@ public class WikiParser {
 
     @Override
     public void onUnterminated(String start, String rest) {
-      throw new RuntimeException(start + rest);
+      System.err.printf("onUnterminated: %s, %s\n", start, rest);
     }
 
     @Override

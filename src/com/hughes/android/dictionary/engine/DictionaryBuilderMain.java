@@ -22,7 +22,6 @@ public class DictionaryBuilderMain extends TestCase {
   
   
   public static void main(final String[] args) throws Exception {
-
     DictionaryBuilder.main(new String[] {
         "--dictOut=dictOutputs/DE-EN_chemnitz.quickdic",
         "--lang1=DE",
@@ -34,6 +33,7 @@ public class DictionaryBuilderMain extends TestCase {
         "--input1Charset=UTF8",
         "--input1Format=chemnitz",
     });
+
 
     Lang[] langs1 = new Lang[] { 
         new Lang("^English$", "EN"),
@@ -108,7 +108,7 @@ public class DictionaryBuilderMain extends TestCase {
             String.format("--lang2=%s", lang2.code),
             String.format("--dictInfo=(EN)Wikitionary-based %s-%s dictionary", lang1.code, lang2.code),
 
-            "--input1=dictInputs/enwiktionary-20101015-pages-articles",
+            "--input1=dictInputs/enwiktionary-20110205-pages-articles.xml",
             "--input1Name=enwiktionary",
             "--input1Format=enwiktionary",
             String.format("--input1TranslationPattern1=%s", lang1.nameRegex),

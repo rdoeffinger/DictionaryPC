@@ -26,6 +26,8 @@ public class WikiParserTest extends TestCase {
       "here's a {{template|this has an = sign|blah=2|blah2=3|" + "\n" +
       "blah3=3,[[asdf]|[asdf asdf]|[asdf asdf asdf]],blah4=4}} and some more text." + "\n" +
       "== Header 2 ==" + "\n" +
+      "{{some-func|blah={{nested-func|n2}}|blah2=asdf}}" + "\n" +
+      "{{unterminated}" + "\n" +
 //      "==== Header 4 ====" + "\n" +
 //      "===== Header 5 =====" + "\n" +
       "=== {{header-template}} ===" + "\n";
@@ -50,6 +52,10 @@ public class WikiParserTest extends TestCase {
         "template:[template, this has an = sign]{blah=2, blah2=3, blah3=3,[[asdf]|[asdf asdf]|[asdf asdf asdf]],blah4=4}\n" +
         " and some more text.\n" +
         "HEADER   Header 2 \n" +
+        " \n" +
+        "template:[some-func]{blah={{nested-func|n2}}, blah2=asdf}\n" +
+        " \n" +
+        "template:[unterminate]{}" + "\n" +
         "\n" +
         "HEADER    \n" +
         "template:[header-template]{}\n" +
@@ -130,7 +136,7 @@ public class WikiParserTest extends TestCase {
 
     @Override
     public void onUnterminated(String start, String rest) {
-      throw new RuntimeException("bad");
+      //throw new RuntimeException("bad");
     }
 
     @Override

@@ -186,9 +186,9 @@ public class EnWiktionaryXmlParser extends org.xml.sax.helpers.DefaultHandler im
   static final Set<String> useRemainingArgTemplates = new LinkedHashSet<String>(Arrays.asList(
       "Arab", "Cyrl", "fa-Arab", "italbrac", "Khmr", "ku-Arab", "IPAchar", "Laoo", 
       "sd-Arab", "Thai", "ttbc", "unicode", "ur-Arab", "yue-yue-j", "zh-ts", 
-      "zh-tsp", "zh-zh-p"));
-  static final Set<String> ignoreTemplates = new LinkedHashSet<String>(Arrays.asList(""));
-  static final Set<String> grammarTemplates = new LinkedHashSet<String>(Arrays.asList("impf", "pf"));
+      "zh-tsp", "zh-zh-p", "ug-Arab", "ko-inline", "Jpan", "Kore", "rfscript", "Latinx"));
+  static final Set<String> ignoreTemplates = new LinkedHashSet<String>(Arrays.asList("audio", "rhymes", "hyphenation", "homophones", "wikipedia", "rel-top", "rel-bottom", "sense", "wikisource1911Enc", "g"));
+  static final Set<String> grammarTemplates = new LinkedHashSet<String>(Arrays.asList("impf", "pf", "pf.", "indeclinable"));
   static final Set<String> passThroughTemplates = new LinkedHashSet<String>(Arrays.asList("zzzzzzzzzzzzzzz"));
 
   @Override
@@ -267,7 +267,7 @@ public class EnWiktionaryXmlParser extends org.xml.sax.helpers.DefaultHandler im
         return;
       }
       
-      if (name.equals("audio") || name.equals("rhymes") || name.equals("hyphenation")) {
+      if (ignoreTemplates.contains(name)) {
         return;
       }
       
@@ -358,7 +358,7 @@ public class EnWiktionaryXmlParser extends org.xml.sax.helpers.DefaultHandler im
       wikiBuilder.append("sg.");
       
     } else  if (grammarTemplates.contains(name)) {
-      assert positionalArgs.size() == 1 && namedArgs.isEmpty();
+      assert positionalArgs.size() == 1 && namedArgs.isEmpty() : positionalArgs.toString() + namedArgs;
       wikiBuilder.append(name).append(".");
 
     } else  if (name.equals("l")) {
@@ -627,7 +627,7 @@ public class EnWiktionaryXmlParser extends org.xml.sax.helpers.DefaultHandler im
 
   @Override
   public void onUnterminated(String start, String rest) {
-    throw new RuntimeException(start + rest);
+    System.err.printf("OnUnterminated: %s %s %s\n", title, start, rest);
   }
   @Override
   public void onInvalidHeaderEnd(String rest) {
