@@ -23,6 +23,7 @@ import com.hughes.android.dictionary.parser.WikiWord.FormOf;
 import com.hughes.android.dictionary.parser.WikiWord.Translation;
 import com.hughes.util.ListUtil;
 import com.hughes.util.StringUtil;
+import com.sun.tools.internal.ws.wsdl.document.jaxws.Exception;
 
 public class EnWiktionaryXmlParser extends org.xml.sax.helpers.DefaultHandler implements WikiCallback {
   
@@ -50,9 +51,20 @@ public class EnWiktionaryXmlParser extends org.xml.sax.helpers.DefaultHandler im
   StringBuilder titleBuilder;
   StringBuilder textBuilder;
   StringBuilder currentBuilder = null;
+  
+  static void assertTrue(final boolean condition) {
+    assertTrue(condition, "");
+  }
+
+  static void assertTrue(final boolean condition, final String message) {
+    if (!condition) {
+      System.err.println("Assertion failed, message: " + message);
+      new RuntimeException().printStackTrace(System.err);
+    }
+  }
 
   public EnWiktionaryXmlParser(final DictionaryBuilder dictBuilder, final Pattern[] langPatterns, final int enIndexBuilder) {
-    assert langPatterns.length == 2;
+    assertTrue(langPatterns.length == 2);
     this.dictBuilder = dictBuilder;
     this.indexBuilders = dictBuilder.indexBuilders.toArray(new IndexBuilder[0]);
     this.langPatterns = langPatterns;
@@ -247,7 +259,7 @@ public class EnWiktionaryXmlParser extends org.xml.sax.helpers.DefaultHandler im
       }
       
       if (name.equals("qualifier")) {
-        //assert positionalArgs.size() == 2 && namedArgs.isEmpty() : positionalArgs.toString() + namedArgs.toString();
+        //assertTrue(positionalArgs.size() == 2 && namedArgs.isEmpty() : positionalArgs.toString() + namedArgs.toString());
         if (wikiBuilder == null) {
           return;
         }
@@ -262,7 +274,7 @@ public class EnWiktionaryXmlParser extends org.xml.sax.helpers.DefaultHandler im
       }
       
       if (passThroughTemplates.contains(name)) {
-        assert positionalArgs.size() == 1 && namedArgs.isEmpty() : positionalArgs.toString() + namedArgs;
+        assertTrue(positionalArgs.size() == 1 && namedArgs.isEmpty(), positionalArgs.toString() + namedArgs);
         wikiBuilder.append(name);
         return;
       }
@@ -321,10 +333,10 @@ public class EnWiktionaryXmlParser extends org.xml.sax.helpers.DefaultHandler im
     
     // Translations
     if (name.equals("trans-top")) {
-      assert positionalArgs.size() >= 1 && namedArgs.isEmpty() : positionalArgs.toString() + namedArgs + title;
+      assertTrue(positionalArgs.size() >= 1 && namedArgs.isEmpty(), positionalArgs.toString() + namedArgs + title);
       
       if (currentPartOfSpeech == null) {
-        assert currentWord != null && !currentWord.partsOfSpeech.isEmpty() : title; 
+        assertTrue(currentWord != null && !currentWord.partsOfSpeech.isEmpty(),  title); 
         System.err.println("Assuming last part of speech for non-nested translation section: " + title);
         currentPartOfSpeech = ListUtil.getLast(currentWord.partsOfSpeech);
       }
@@ -341,7 +353,7 @@ public class EnWiktionaryXmlParser extends org.xml.sax.helpers.DefaultHandler im
       return;
     }    
     if (name.equals("m") || name.equals("f") || name.equals("n") || name.equals("c")) {
-      assert positionalArgs.size() >= 1 && namedArgs.isEmpty() : positionalArgs.toString() + namedArgs.toString();
+      assertTrue(positionalArgs.size() >= 1 && namedArgs.isEmpty(), positionalArgs.toString() + namedArgs.toString());
       wikiBuilder.append("{");
       for (int i = 1; i < positionalArgs.size(); ++i) {
         wikiBuilder.append(i > 1 ? "," : "");
@@ -350,11 +362,11 @@ public class EnWiktionaryXmlParser extends org.xml.sax.helpers.DefaultHandler im
       wikiBuilder.append(name).append("}");
       
     } else  if (name.equals("p")) {
-      assert positionalArgs.size() == 1 && namedArgs.isEmpty();
+      assertTrue(positionalArgs.size() == 1 && namedArgs.isEmpty());
       wikiBuilder.append("pl.");
 
     } else  if (name.equals("s")) {
-      assert positionalArgs.size() == 1 && namedArgs.isEmpty() || title.equals("dobra");
+      assertTrue(positionalArgs.size() == 1 && namedArgs.isEmpty() || title.equals("dobra"), title);
       wikiBuilder.append("sg.");
       
     } else  if (grammarTemplates.contains(name)) {
