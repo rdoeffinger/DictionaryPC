@@ -126,14 +126,18 @@ public class DictionaryBuilder {
         } else if ("chemnitz".equals(inputFormat)) {
           new DictFileParser(charset, false, DictFileParser.DOUBLE_COLON, DictFileParser.PIPE, dictionaryBuilder, dictionaryBuilder.indexBuilders.toArray(new IndexBuilder[0]), null).parseFile(file);
         } else if ("enwiktionary".equals(inputFormat)) {
-          final Pattern[] translationPatterns = new Pattern[2];
-          translationPatterns[0] = Pattern.compile(keyValueArgs.remove(prefix + "TranslationPattern1"));
-          translationPatterns[1] = Pattern.compile(keyValueArgs.remove(prefix + "TranslationPattern2"));
+          final Pattern langPattern = Pattern.compile(keyValueArgs.remove(prefix + "LangPattern"));
+          final Pattern langCodePattern = Pattern.compile(keyValueArgs.remove(prefix + "LangCodePattern"));
           final int enIndex = Integer.parseInt(keyValueArgs.remove(prefix + "EnIndex")) - 1;
+          String pageLimit = keyValueArgs.remove(prefix + "PageLimit");
+          if (pageLimit == null) {
+            pageLimit = "-1";
+          }
+            
           if (enIndex < 0 || enIndex >= 2) {
             fatalError("Must be 1 or 2: " + prefix + "EnIndex");
           }
-          new EnWiktionaryXmlParser(dictionaryBuilder, translationPatterns, enIndex).parse(file);
+          new EnWiktionaryXmlParser(dictionaryBuilder, langPattern, langCodePattern, enIndex).parse(file, Integer.parseInt(pageLimit));
         } else {
           fatalError("Invalid or missing input format: " + inputFormat);
         }

@@ -5,7 +5,6 @@ import java.io.DataOutputStream;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
-import java.io.RandomAccessFile;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -67,17 +66,20 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
     if (selectors.isEmpty()) {
       selectors.addAll(Arrays.asList(
           new Selector("wikiSplit/arabic.data", ".*[Ar]rabic.*"),
+          new Selector("wikiSplit/croation.data", ".*[Cc]roation.*"),
           new Selector("wikiSplit/czech.data", ".*[Cc]zech.*"),
           new Selector("wikiSplit/mandarin.data", ".*[Mm]andarin|[Cc]hinese.*"),
           new Selector("wikiSplit/dutch.data", ".*[Du]utch.*"),
           new Selector("wikiSplit/english.data", ".*[Ee]nglish.*"),
           new Selector("wikiSplit/french.data", ".*[Ff]rench.*"),
           new Selector("wikiSplit/german.data", ".*[Gg]erman.*"),
+          new Selector("wikiSplit/greek.data", ".*[Gg]reek.*"),
           new Selector("wikiSplit/hindi.data", ".*[Hh]indi.*"),
           new Selector("wikiSplit/italian.data", ".*[Ii]talian.*"),
           new Selector("wikiSplit/japanese.data", ".*[Jj]apanese.*"),
           new Selector("wikiSplit/korean.data", ".*[Kk]orean.*"),
           new Selector("wikiSplit/persian.data", ".*[Pp]ersian.*"),
+          new Selector("wikiSplit/portuguese.data", ".*[Pp]ortuguese.*"),
           new Selector("wikiSplit/romanian.data", ".*[Rr]omanian.*"),
           new Selector("wikiSplit/russian.data", ".*[Rr]ussian.*"),
           new Selector("wikiSplit/spanish.data", ".*[Ss]panish.*"),

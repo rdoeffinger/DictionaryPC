@@ -34,8 +34,8 @@ public class DictFileParser {
   public static final Pattern PIPE = Pattern.compile("\\|");
   
   static final Pattern SPACES = Pattern.compile("\\s+");
-  static final Pattern DE_NOUN = Pattern.compile("([^ ]+) *\\{(m|f|n|pl)\\}");
-  static final Pattern EN_VERB = Pattern.compile("^to ([^ ]+)");
+//  static final Pattern DE_NOUN = Pattern.compile("([^ ]+) *\\{(m|f|n|pl)\\}");
+//  static final Pattern EN_VERB = Pattern.compile("^to ([^ ]+)");
   
   static final Pattern BRACKETED = Pattern.compile("\\[([^]]+)\\]");
   static final Pattern PARENTHESIZED = Pattern.compile("\\(([^)]+)\\)");

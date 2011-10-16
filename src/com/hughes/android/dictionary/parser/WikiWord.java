@@ -243,7 +243,6 @@ public class WikiWord {
          
        }  // Meanings.
        
-       
      }
      
      translationSensesToQuickDic(dictBuilder, enIndexBuilder, partOfSpeech);

@@ -1,5 +1,7 @@
 package com.hughes.android.dictionary.parser;
 
+import java.util.Arrays;
+
 import junit.framework.TestCase;
 
 public class WikiLineReaderTest extends TestCase {
@@ -43,15 +45,43 @@ public class WikiLineReaderTest extends TestCase {
     
     final WikiLineReader wikiLineReader = new WikiLineReader(wikiText);
     for (int i = 0; i < expected.length; ++i) {
-      assertEquals(expected[i], WikiLineReader.cleanUpLine(wikiLineReader.readLine()));
+      assertEquals(expected[i], wikiLineReader.readLine());
     }
     final String end = wikiLineReader.readLine();
     if (end != null) {
-      System.out.println(WikiLineReader.cleanUpLine(end));
+      System.out.println(end);
     }
     assertNull(end);
   }
   
+  public void testWikiHeading() {
+    assertNull(WikiHeading.getHeading(""));
+    assertNull(WikiHeading.getHeading("="));
+    assertNull(WikiHeading.getHeading("=="));
+    assertNull(WikiHeading.getHeading("=a"));
+    assertNull(WikiHeading.getHeading("=a=="));
+    assertNull(WikiHeading.getHeading("===a=="));
+    assertNull(WikiHeading.getHeading("===a===="));
+    assertNull(WikiHeading.getHeading("a="));
+    assertEquals("a", WikiHeading.getHeading("=a=").name);
+    assertEquals(1, WikiHeading.getHeading("=a=").depth);
+    assertEquals("aa", WikiHeading.getHeading("==aa==").name);
+    assertEquals(2, WikiHeading.getHeading("==aa==").depth);
+  }
+
   
+  public void testWikiFunction() {
+    assertNull(WikiFunction.getFunction(""));
+    assertNull(WikiFunction.getFunction("[[asdf]]"));
+    assertNull(WikiFunction.getFunction("asd [[asdf]]asdf "));
+    assertEquals("a", WikiFunction.getFunction("{{a}}").name);
+    assertEquals("a", WikiFunction.getFunction("{{a|b}}").name);
+    assertEquals("a", WikiFunction.getFunction("a{{a|b}}a").name);
+    assertEquals("a[[a]]", WikiFunction.getFunction("a{{a[[a]]|b}}a").name);
+    assertEquals("a", WikiFunction.getFunction("a{{a|b[[abc|def]]|[[fgh|jkl]]|qwer}}a").name);
+    assertEquals(Arrays.asList("a", "b[[abc|d=f]]", "qwer", "[[fgh|jkl]]", "qwer"), WikiFunction.getFunction("a{{a|b[[abc|d=f]]|qwer|[[fgh|jkl]]|qwer}}a").args);
+    assertEquals("[[abc|def]]", WikiFunction.getFunction("a{{a|b=[[abc|def]]|qwer|[[fgh|jkl]]|qwer={{asdf}}}}a").namedArgs.get("b"));
+    assertEquals("{{asdf}}", WikiFunction.getFunction("a{{a|b=[[abc|def]]|qwer|[[fgh|jkl]]|qwer={{asdf}}}}a").namedArgs.get("qwer"));
+  }
 
 }

@@ -1,31 +1,20 @@
 package com.hughes.android.dictionary.parser;
 
+import java.io.BufferedInputStream;
+import java.io.DataInputStream;
+import java.io.EOFException;
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.LinkedHashSet;
-import java.util.List;
-import java.util.Map;
 import java.util.Set;
 import java.util.regex.Pattern;
 
-import javax.xml.parsers.ParserConfigurationException;
-import javax.xml.parsers.SAXParser;
-import javax.xml.parsers.SAXParserFactory;
-
-import org.xml.sax.Attributes;
-import org.xml.sax.SAXException;
-
 import com.hughes.android.dictionary.engine.DictionaryBuilder;
 import com.hughes.android.dictionary.engine.IndexBuilder;
-import com.hughes.android.dictionary.parser.WikiWord.FormOf;
-import com.hughes.android.dictionary.parser.WikiWord.Translation;
-import com.hughes.util.ListUtil;
-import com.hughes.util.StringUtil;
-import com.sun.tools.internal.ws.wsdl.document.jaxws.Exception;
 
-public class EnWiktionaryXmlParser extends org.xml.sax.helpers.DefaultHandler implements WikiCallback {
+public class EnWiktionaryXmlParser {
   
   static final Pattern partOfSpeechHeader = Pattern.compile(
       "Noun|Verb|Adjective|Adverb|Pronoun|Conjunction|Interjection|" +
@@ -40,83 +29,53 @@ public class EnWiktionaryXmlParser extends org.xml.sax.helpers.DefaultHandler im
       "Particle|Interjection|Pronominal adverb" +
       "Han character|Hanzi|Hanja|Kanji|Katakana character|Syllable");
 
-  static final Pattern wikiMarkup =  Pattern.compile("\\[\\[|\\]\\]|''+");
-
   final DictionaryBuilder dictBuilder;
   
   final IndexBuilder[] indexBuilders;
-  final Pattern[] langPatterns;
+  final Pattern langPattern;
+  final Pattern langCodePattern;
   final int enIndexBuilder;
 
-  StringBuilder titleBuilder;
-  StringBuilder textBuilder;
-  StringBuilder currentBuilder = null;
-  
-  static void assertTrue(final boolean condition) {
-    assertTrue(condition, "");
-  }
-
-  static void assertTrue(final boolean condition, final String message) {
-    if (!condition) {
-      System.err.println("Assertion failed, message: " + message);
-      new RuntimeException().printStackTrace(System.err);
-    }
-  }
-
-  public EnWiktionaryXmlParser(final DictionaryBuilder dictBuilder, final Pattern[] langPatterns, final int enIndexBuilder) {
-    assertTrue(langPatterns.length == 2);
+  public EnWiktionaryXmlParser(final DictionaryBuilder dictBuilder, final Pattern langPattern, final Pattern langCodePattern, final int enIndexBuilder) {
     this.dictBuilder = dictBuilder;
     this.indexBuilders = dictBuilder.indexBuilders.toArray(new IndexBuilder[0]);
-    this.langPatterns = langPatterns;
+    this.langPattern = langPattern;
+    this.langCodePattern = langCodePattern;
     this.enIndexBuilder = enIndexBuilder;
   }
 
-  @Override
-  public void startElement(String uri, String localName, String qName,
-      Attributes attributes) {
-    currentBuilder = null;
-    if ("page".equals(qName)) {
-      titleBuilder = new StringBuilder();
+  
+  public void parse(final File file, final int pageLimit) throws IOException {
+    int pageCount = 0;
+    final DataInputStream dis = new DataInputStream(new BufferedInputStream(new FileInputStream(file)));
+    while (true) {
+      if (pageLimit >= 0 && pageCount >= pageLimit) {
+        return;
+      }
       
-      // Start with "\n" to better match certain strings.
-      textBuilder = new StringBuilder("\n");
-    } else if ("title".equals(qName)) {
-      currentBuilder = titleBuilder;
-    } else if ("text".equals(qName)) {
-      currentBuilder = textBuilder;
-    }
-  }
+      final String title;
+      try {
+        title = dis.readUTF();
+      } catch (EOFException e) {
+        dis.close();
+        return;
+      }
+      final String heading = dis.readUTF();
+      final int bytesLength = dis.readInt();
+      final byte[] bytes = new byte[bytesLength];
+      dis.readFully(bytes);
+      final String text = new String(bytes, "UTF8");
+      
+      parseSection(title, heading, text);
 
-  @Override
-  public void characters(char[] ch, int start, int length) throws SAXException {
-    if (currentBuilder != null) {
-      currentBuilder.append(ch, start, length);
-    }
-  }
-
-  @Override
-  public void endElement(String uri, String localName, String qName)
-      throws SAXException {
-    currentBuilder = null;
-    if ("page".equals(qName)) {
-      endPage();
+      ++pageCount;
+      if (pageCount % 1000 == 0) {
+        System.out.println("pageCount=" + pageCount);
+      }
     }
   }
   
-
-  public void parse(final File file) throws ParserConfigurationException,
-      SAXException, IOException {
-    final SAXParser parser = SAXParserFactory.newInstance().newSAXParser();
-    parser.parse(file, this);
-  }
-  
-  int pageCount = 0;
-  private void endPage() {
-    title = titleBuilder.toString();
-    ++pageCount;
-    if (pageCount % 1000 == 0) {
-      System.out.println("pageCount=" + pageCount);
-    }
+  private void parseSection(final String title, final String heading, final String text) {
     if (title.startsWith("Wiktionary:") ||
         title.startsWith("Template:") ||
         title.startsWith("Appendix:") ||
@@ -129,521 +88,204 @@ public class EnWiktionaryXmlParser extends org.xml.sax.helpers.DefaultHandler im
         title.startsWith("Help:")) {
       return;
     }
-    currentDepth = 0;
-    words.clear();
-    currentHeading = null;
-    insidePartOfSpeech = false;
-//    System.err.println("Working on page: " + title);
-    try {
-      WikiParser.parse(textBuilder.toString(), this);
-    } catch (Throwable e) {
-      System.err.println("Failure on page: " + title);
-      e.printStackTrace(System.err); 
-    }
-
-   for (final WikiWord word : words) {
-     word.wikiWordToQuickDic(dictBuilder, enIndexBuilder);
-   }  // WikiWord
-   
-  }  // endPage()
-
-
-  // ------------------------------------------------------------------------
-  // ------------------------------------------------------------------------
-  // ------------------------------------------------------------------------
-  // ------------------------------------------------------------------------
-
-  /**
-   * Two things can happen:
-   * 
-   * We can be in a ==German== section.  There we will see English definitions.
-   * Each POS should get its own QuickDic entry.  Pretty much everything goes
-   * in.
-   * 
-   * Or we can be in an ==English== section with English definitions
-   * and maybe see translations for languages we care about.
-   * 
-   * In either case, we need to differentiate the subsections (Noun, Verb, etc.)
-   * into separate QuickDic entries, but that's tricky--how do we know when we
-   * found a subsection?  Just ignore anything containing pronunciation and
-   * etymology?
-   * 
-   * How do we decide when to seal the deal on an entry?
-   * 
-   * Would be nice if the parser told us about leaving sections....
-   * 
-   * 
-   */
-
-  String title;
-  String currentHeading;
-  int currentDepth;
-  final List<WikiWord> words = new ArrayList<WikiWord>();
-  WikiWord currentWord;
-  WikiWord.PartOfSpeech currentPartOfSpeech;
-  WikiWord.TranslationSense currentTranslationSense;
-  boolean insidePartOfSpeech;
-  
-  StringBuilder wikiBuilder = null;
-  
-  @Override
-  public void onWikiLink(String[] args) {
-    if (wikiBuilder == null) {
-      return;
-    }
-    wikiBuilder.append(args[args.length - 1]);
-  }
-  
-  // ttbc: translations to be checked.
-  static final Set<String> useRemainingArgTemplates = new LinkedHashSet<String>(Arrays.asList(
-      "Arab", "Cyrl", "fa-Arab", "italbrac", "Khmr", "ku-Arab", "IPAchar", "Laoo", 
-      "sd-Arab", "Thai", "ttbc", "unicode", "ur-Arab", "yue-yue-j", "zh-ts", 
-      "zh-tsp", "zh-zh-p", "ug-Arab", "ko-inline", "Jpan", "Kore", "rfscript", "Latinx"));
-  static final Set<String> ignoreTemplates = new LinkedHashSet<String>(Arrays.asList("audio", "rhymes", "hyphenation", "homophones", "wikipedia", "rel-top", "rel-bottom", "sense", "wikisource1911Enc", "g"));
-  static final Set<String> grammarTemplates = new LinkedHashSet<String>(Arrays.asList("impf", "pf", "pf.", "indeclinable"));
-  static final Set<String> passThroughTemplates = new LinkedHashSet<String>(Arrays.asList("zzzzzzzzzzzzzzz"));
-
-  @Override
-  public void onTemplate(final List<String> positionalArgs, final Map<String,String> namedArgs) {
-    if (positionalArgs.isEmpty()) {
-      // This happens very rarely with special templates.
-      return;
-    }
-    final String name = positionalArgs.get(0);
     
-    namedArgs.remove("lang");
-    namedArgs.remove("nocat");
-    namedArgs.remove("nocap");
-    namedArgs.remove("sc");
-
-    // Pronunciation
-    if (currentWord != null) {
-      if (name.equals("a")) {
-        // accent tag
-        currentWord.currentPronunciation = new StringBuilder();
-        currentWord.accentToPronunciation.put(positionalArgs.get(1), currentWord.currentPronunciation);
-        return;
-      }
-      
-      if (name.equals("IPA") || name.equals("SAMPA") || name.equals("X-SAMPA") || name.equals("enPR")) {
-        namedArgs.remove("lang");
-        for (int i = 0; i < 100 && !namedArgs.isEmpty(); ++i) {
-          final String pron = namedArgs.remove("" + i);
-          if (pron != null) {
-            positionalArgs.add(pron);
-          } else {
-            if (i > 10) {
-              break;
-            }
-          }
-        }
-        if (!(positionalArgs.size() >= 2 && namedArgs.isEmpty())) {
-          System.err.println("Invalid pronunciation: " + positionalArgs.toString() + namedArgs.toString());
-        }
-        if (currentWord.currentPronunciation == null) {
-          currentWord.currentPronunciation = new StringBuilder();
-          currentWord.accentToPronunciation.put("", currentWord.currentPronunciation);
-        }
-        if (currentWord.currentPronunciation.length() > 0) {
-          currentWord.currentPronunciation.append("; ");
-        }
-        for (int i = 1; i < positionalArgs.size(); ++i) {
-          if (i > 1) {
-            currentWord.currentPronunciation.append(",");
-          }
-          final String pron = wikiMarkup.matcher(positionalArgs.get(1)).replaceAll("");
-          currentWord.currentPronunciation.append(pron).append("");
-        }
-        currentWord.currentPronunciation.append(" (").append(name).append(")");
-        return;
-      }
-      
-      if (name.equals("qualifier")) {
-        //assertTrue(positionalArgs.size() == 2 && namedArgs.isEmpty() : positionalArgs.toString() + namedArgs.toString());
-        if (wikiBuilder == null) {
-          return;
-        }
-        wikiBuilder.append(" (").append(positionalArgs.get(1)).append(")");
-        return;
-      }
-      
-      if (name.equals("...")) {
-        // Skipping any elided text for brevity.
-        wikiBuilder.append("...");
-        return;
-      }
-      
-      if (passThroughTemplates.contains(name)) {
-        assertTrue(positionalArgs.size() == 1 && namedArgs.isEmpty(), positionalArgs.toString() + namedArgs);
-        wikiBuilder.append(name);
-        return;
-      }
-      
-      if (ignoreTemplates.contains(name)) {
-        return;
-      }
-      
-      if ("Pronunciation".equals(currentHeading)) {
-        System.err.println("Unhandled pronunciation template: " + positionalArgs + namedArgs);
-        return;
-      }
-    }  // Pronunciation
-    
-    // Part of speech
-    if (insidePartOfSpeech) {
-      
-      // form of
-      if (name.equals("form of")) {
-        namedArgs.remove("sc");
-        if (positionalArgs.size() < 3 || positionalArgs.size() > 4) {
-          System.err.println("Invalid form of.");
-        }
-        final String token = positionalArgs.get(positionalArgs.size() == 3 ? 2 : 3);
-        final String grammarForm = WikiParser.simpleParse(positionalArgs.get(1));
-        currentPartOfSpeech.formOfs.add(new FormOf(grammarForm, token));
-        return;
-      }
-      
-      // The fallback plan: append the template!
-      if (wikiBuilder != null) {
-        wikiBuilder.append("{");
-        boolean first = true;
-        for (final String arg : positionalArgs) {
-          if (!first) {
-            wikiBuilder.append(", ");
-          }
-          first = false;
-          wikiBuilder.append(arg);
-        }
-        // This one isn't so useful.
-        for (final Map.Entry<String, String> entry : namedArgs.entrySet()) {
-          if (!first) {
-            wikiBuilder.append(", ");
-          }
-          first = false;
-          wikiBuilder.append(entry.getKey()).append("=").append(entry.getValue());
-        }
-        wikiBuilder.append("}");
-      }
-      
-      //System.err.println("Unhandled part of speech template: " + positionalArgs + namedArgs);
-      return;
-    }  // Part of speech
-
-    
-    // Translations
-    if (name.equals("trans-top")) {
-      assertTrue(positionalArgs.size() >= 1 && namedArgs.isEmpty(), positionalArgs.toString() + namedArgs + title);
-      
-      if (currentPartOfSpeech == null) {
-        assertTrue(currentWord != null && !currentWord.partsOfSpeech.isEmpty(),  title); 
-        System.err.println("Assuming last part of speech for non-nested translation section: " + title);
-        currentPartOfSpeech = ListUtil.getLast(currentWord.partsOfSpeech);
-      }
-      
-      currentTranslationSense = new WikiWord.TranslationSense();
-      currentPartOfSpeech.translationSenses.add(currentTranslationSense);
-      if (positionalArgs.size() > 1) {
-        currentTranslationSense.sense = positionalArgs.get(1);
-      }
-      return;
-    }  // Translations
-
-    if (wikiBuilder == null) {
-      return;
-    }    
-    if (name.equals("m") || name.equals("f") || name.equals("n") || name.equals("c")) {
-      assertTrue(positionalArgs.size() >= 1 && namedArgs.isEmpty(), positionalArgs.toString() + namedArgs.toString());
-      wikiBuilder.append("{");
-      for (int i = 1; i < positionalArgs.size(); ++i) {
-        wikiBuilder.append(i > 1 ? "," : "");
-        wikiBuilder.append(positionalArgs.get(i));
-      }
-      wikiBuilder.append(name).append("}");
-      
-    } else  if (name.equals("p")) {
-      assertTrue(positionalArgs.size() == 1 && namedArgs.isEmpty());
-      wikiBuilder.append("pl.");
-
-    } else  if (name.equals("s")) {
-      assertTrue(positionalArgs.size() == 1 && namedArgs.isEmpty() || title.equals("dobra"), title);
-      wikiBuilder.append("sg.");
-      
-    } else  if (grammarTemplates.contains(name)) {
-      assert positionalArgs.size() == 1 && namedArgs.isEmpty() : positionalArgs.toString() + namedArgs;
-      wikiBuilder.append(name).append(".");
-
-    } else  if (name.equals("l")) {
-      // This template is designed to generate a link to a specific language-section on the target page.
-      wikiBuilder.append(positionalArgs.size() >= 4 ? positionalArgs.get(3) : positionalArgs.get(2));
-      
-    } else if (name.equals("t") || name.equals("t+") || name.equals("t-") || name.equals("tø")) {
-      if (positionalArgs.size() > 2) {
-        wikiBuilder.append(positionalArgs.get(2));
-      }
-      for (int i = 3; i < positionalArgs.size(); ++i) {
-        wikiBuilder.append(i == 3 ? " {" : ",");
-        wikiBuilder.append(positionalArgs.get(i));
-        wikiBuilder.append(i == positionalArgs.size() - 1 ? "}" : "");
-      }
-      final String transliteration = namedArgs.remove("tr");
-      if (transliteration != null) {
-        wikiBuilder.append(" (").append(transliteration).append(")");
-      }
-      
-    } else  if (name.equals("trreq")) {
-      wikiBuilder.append("{{trreq}}");
-      
-    } else if (name.equals("qualifier")) {
-      //assert positionalArgs.size() == 2 && namedArgs.isEmpty() : positionalArgs.toString() + namedArgs.toString();
-      wikiBuilder.append(" (").append(positionalArgs.get(1)).append(")");
-      
-    } else if (useRemainingArgTemplates.contains(name)) {
-      for (int i = 1; i < positionalArgs.size(); ++i) {
-        if (i != 1) {
-          wikiBuilder.append(", ");
-        }
-        wikiBuilder.append(positionalArgs.get(i));
-      }
-    } else if (ignoreTemplates.contains(name)) {
-      // Do nothing.
-      
-    } else if (name.equals("initialism")) {
-      assert positionalArgs.size() <= 2 && namedArgs.isEmpty() : positionalArgs.toString() + namedArgs;
-      wikiBuilder.append("Initialism");
-    } else if (name.equals("abbreviation")) {
-      assert positionalArgs.size() <= 2 && namedArgs.isEmpty() : positionalArgs.toString() + namedArgs;
-      wikiBuilder.append("Abbreviation");
-    } else if (name.equals("acronym")) {
-      assert positionalArgs.size() <= 2 && namedArgs.isEmpty() : positionalArgs.toString() + namedArgs;
-      wikiBuilder.append("Acronym");
+    if (heading.replaceAll("=", "").equals("English")) {
+      doEnglishWord(title, text);
     } else {
-      if (currentTranslationSense != null) {
-        System.err.println("Unhandled template: " + positionalArgs.toString() + namedArgs);
-      }
+      //doForeignWord(title, text);
     }
-  }
-
-  @Override
-  public void onText(String text) {
-    if (wikiBuilder != null) {
-      wikiBuilder.append(text);
-      return;
-    }
-  }
-
-  @Override
-  public void onHeadingStart(int depth) {
-    wikiBuilder = new StringBuilder();
-    currentDepth = depth;
-    if (currentPartOfSpeech != null && depth <= currentPartOfSpeech.depth) {
-      currentPartOfSpeech = null;
-      insidePartOfSpeech = false;
-    }
-    if (currentWord != null && depth <= currentWord.depth) {
-      currentWord = null;
-    }
-    
-    currentHeading = null;
-  }
+        
+  }  // endPage()
   
-  @Override
-  public void onHeadingEnd(int depth) {
-    final String name = wikiBuilder.toString().trim();
-    wikiBuilder = null;
-    currentTranslationSense = null;
-    currentHeading = name;
-    
-    final boolean lang0 = langPatterns[0].matcher(name).matches();
-    final boolean lang1 = langPatterns[1].matcher(name).matches();
-    if (name.equalsIgnoreCase("English") || lang0 || lang1 || name.equalsIgnoreCase("Translingual")) {
-      currentWord = new WikiWord(title, depth);
-      if (lang0 && lang1) {
-        System.err.println("Word is indexed in both index1 and index2: " + title);
+  // -------------------------------------------------------------------------
+  
+  String pos = null;
+  int posDepth = -1;
+
+  private void doEnglishWord(String title, String text) {
+    final WikiLineReader wikiLineReader = new WikiLineReader(text);
+    String line;
+    while ((line = wikiLineReader.readLine()) != null) {
+      final WikiHeading wikiHeading = WikiHeading.getHeading(line);
+      if (wikiHeading != null) {
+        
+        if (wikiHeading.depth <= posDepth) {
+          pos = null;
+          posDepth = -1;
+        }
+        
+        if (partOfSpeechHeader.matcher(wikiHeading.name).matches()) {
+          posDepth = wikiHeading.depth;
+          pos = wikiHeading.name;
+        } else if (wikiHeading.name.equals("Translations")) {
+          doTranslations(title, wikiLineReader);
+        } else if (wikiHeading.name.equals("Pronunciation")) {
+          //doPronunciation(wikiLineReader);
+        }
       }
-      currentWord.language = name;
-      currentWord.index = lang0 ? 0 : (lang1 ? 1 : -1);
-      words.add(currentWord);
-      return;
     }
-    
-    if (currentWord == null) {
-      return;
-    }
-    
-    if (currentPartOfSpeech != null && depth <= currentPartOfSpeech.depth) {
-      currentPartOfSpeech = null;
-    }
-    
-    insidePartOfSpeech = false;
-    if (currentPartOfSpeech == null && partOfSpeechHeader.matcher(name).matches()) {
-      currentPartOfSpeech = new WikiWord.PartOfSpeech(depth, name);
-      currentWord.partsOfSpeech.add(currentPartOfSpeech);
-      insidePartOfSpeech = true;
-      return;
-    }
-    
-    if (name.equals("Translations")) {
-      if (currentWord == null || 
-          !currentWord.language.equals("English") || 
-          currentPartOfSpeech == null) {
-        System.err.println("Unexpected Translations section: " + title);
+  }
+
+
+  private static Set<String> encodings = new LinkedHashSet<String>(Arrays.asList("zh-ts",
+      "sd-Arab", "ku-Arab", "Arab", "unicode", "Laoo", "ur-Arab", "Thai", 
+      "fa-Arab", "Khmr", "zh-tsp", "Cyrl", "IPAchar", "ug-Arab", "ko-inline", 
+      "Jpan", "Kore", "Hebr", "rfscript", "Beng", "Mong", "Knda", "Cyrs",
+      "yue-tsj", "Mlym", "Tfng", "Grek", "yue-yue-j"));
+  
+  private void doTranslations(final String title, final WikiLineReader wikiLineReader) {
+    String line;
+    String sense = null;
+    boolean done = false;
+    while ((line = wikiLineReader.readLine()) != null) {
+      if (WikiHeading.getHeading(line) != null) {
+        wikiLineReader.stuffLine(line);
         return;
       }
-      currentTranslationSense = new WikiWord.TranslationSense();
-    }
-    
-  }
-
-  @Override
-  public void onListItemStart(String header, int[] section) {
-    wikiBuilder = new StringBuilder();
-    if (currentWord != null) {
-      currentWord.currentPronunciation = null;
-    }
-  }
-  
-
-  @Override
-  public void onListItemEnd(String header, int[] section) {
-    String item = wikiBuilder.toString().trim();
-    final String oldItem = item;
-    if (item.length() == 0) {
-      return;
-    }
-    item = WikiParser.simpleParse(item);
-    wikiBuilder = null;
+      if (done) {
+        continue;
+      }
+      
+      // Check whether we care about this line:
+      
+      //line = WikiLineReader.removeSquareBrackets(line);
+      
+      if (line.startsWith("{{")) {
         
-    // Part of speech
-    if (insidePartOfSpeech) {
-      assert currentPartOfSpeech != null : title + item;
-      if (header.equals("#") || 
-          header.equals("##") || 
-          header.equals("###") || 
-          header.equals("####") || 
-          header.equals(":#") || 
-          header.equals("::") ||
-          header.equals(":::*")) {
-        // Definition.
-        // :: should append, probably.
-        currentPartOfSpeech.newMeaning().meaning = item;
+        WikiFunction wikiFunction;
+        while ((wikiFunction = WikiFunction.getFunction(line)) != null) {
+          if (wikiFunction.name.equals("trans-top")) {
+            sense = null;
+            if (wikiFunction.args.size() >= 2) {
+              sense = wikiFunction.args.get(1);
+              //System.out.println("Sense: " + sense);
+            }
+          } else if (wikiFunction.name.equals("trans-bottom")) {
+            sense = null;
+          } else if (wikiFunction.name.equals("trans-mid")) {
+          } else if (wikiFunction.name.equals("trans-see")) {
+          } else if (wikiFunction.name.startsWith("checktrans")) {
+            done = true;
+          } else {
+            System.err.println("Unexpected translation wikifunction: " + line + ", title=" + title);
+          }
+          line = wikiFunction.replaceWith(line, "");
+          
+        }
         
-      // Source
-      } else if (header.equals("#*") ||
-                 header.equals("##*") ||
-                 header.equals("###*")) {
-        currentPartOfSpeech.lastMeaning().newExample().source = item;
+      } else if (line.startsWith("*")) {
+        // This line could produce an output...
         
-      // Example
-      } else if (header.equals("#:") || 
-                 header.equals("#*:") || 
-                 header.equals("#:*") || 
-                 header.equals("##:") || 
-                 header.equals("##*:") || 
-                 header.equals("#:*:") || 
-                 header.equals("#:*#") ||
-                 header.equals("#*:") ||
-                 header.equals("*:") || 
-                 header.equals("#:::") ||
-                 header.equals("#**") ||
-                 header.equals("#*:::") ||
-                 header.equals("#:#") ||
-                 header.equals(":::") ||
-                 header.equals("##:*") ||
-                 header.equals("###*:")) {
-        StringUtil.appendLine(currentPartOfSpeech.lastMeaning().newExample().example, item);
+        // First strip the language and check whether it matches.
+        // And hold onto it for sub-lines.
+        final int colonIndex = line.indexOf(":");
+        if (colonIndex == -1) {
+          continue;
+        }
+        final String lang = line.substring(0, colonIndex);
+        if (!this.langPattern.matcher(lang).find()) {
+          continue;
+        }
         
-      // Example in English
-      } else if (header.equals("#::") || 
-                 header.equals("#*::") || 
-                 header.equals("#:**") ||
-                 header.equals("#*#") ||
-                 header.equals("##*::")) {
-        StringUtil.appendLine(currentPartOfSpeech.lastMeaning().lastExample().exampleInEnglish, item);
+        String rest = line.substring(colonIndex + 1);
+        final StringBuilder lineText = new StringBuilder();
         
-      // Skip
-      } else if (header.equals("*") ||
-                 header.equals("**") ||
-                 header.equals("***") || 
-                 header.equals("*#") ||
-                 header.equals(":") ||
-                 header.equals("::*") ||
-                 header.equals("#**") ||
-                 header.equals(":*") ||
-                 header.equals("#*:*") ||
-                 header.equals("#*:**") || 
-                 header.equals("#*:#") || 
-                 header.equals("#*:*:") || 
-                 header.equals("#*:*") || 
-                 header.equals(";")) {
-        // might have: * {{seeCites}}
-        // * [[w:Arabic numerals|Arabic numerals]]: 2
-        //assert item.trim().length() == 0;
-        System.err.println("Skipping meaning: " + header + " " + item);
+        final 
+        
+        boolean ttbc = false;
+        WikiFunction wikiFunction;
+        while ((wikiFunction = WikiFunction.getFunction(line)) != null) {
+          if (wikiFunction.name.equals("t") || wikiFunction.name.equals("t+") || wikiFunction.name.equals("t-") || wikiFunction.name.equals("tø")) {
+            if (wikiFunction.args.size() < 2) {
+              System.err.println("{{t}} with too few args: " + line + ", title=" + title);
+              continue;
+            }
+            final String langCode = wikiFunction.getArg(0);
+            if (this.langCodePattern.matcher(langCode).matches()) {
+              final String word = wikiFunction.getArg(1);
+              final String gender = wikiFunction.getArg(2);
+              final String transliteration = wikiFunction.getNamedArg("tr");
+            }
+          } else if (wikiFunction.name.equals("qualifier")) {
+            qualifier = wikiFunction.getArg(0);
+          } else if (encodings.contains(wikiFunction.name)) {
+            rest = wikiFunction.replaceWith(rest, wikiFunction.getArg(0));
+            wikiFunction = null;
+          } else if (wikiFunction.name.equals("m") || wikiFunction.name.equals("f") || wikiFunction.name.equals("n")) {
+            String gender = wikiFunction.name;
+            for (int i = 0; i < wikiFunction.args.size(); ++i) {
+              gender += "|" + wikiFunction.getArg(i);
+            }
+            rest = wikiFunction.replaceWith(rest, "{" + wikiFunction.name + "}");
+            wikiFunction = null;
+          } else if (wikiFunction.name.equals("g")) {
+            rest = wikiFunction.replaceWith(rest, "{g}");
+            wikiFunction = null;
+          } else if (wikiFunction.name.equals("l")) {
+            // encodes text in various langs.
+            rest = wikiFunction.replaceWith(rest, wikiFunction.getArg(1));
+            // TODO: transliteration
+            wikiFunction = null;
+          } else if (wikiFunction.name.equals("term")) {
+            // cross-reference to another dictionary
+            rest = wikiFunction.replaceWith(rest, wikiFunction.getArg(0));
+            // TODO: transliteration
+            wikiFunction = null;
+          } else if (wikiFunction.name.equals("italbrac") || wikiFunction.name.equals("gloss")) {
+            // TODO: put this text aside to use it.
+            rest = wikiFunction.replaceWith(rest, "[" + wikiFunction.getArg(0) + "]");
+            wikiFunction = null;
+          } else if (wikiFunction.name.equals("ttbc")) {
+            ttbc = true;
+          } else if (wikiFunction.name.equals("trreq")) {
+          } else if (wikiFunction.name.equals("not used")) {
+            rest = wikiFunction.replaceWith(rest, "[not used]");
+            wikiFunction = null;
+          } else if (wikiFunction.name.equals("t-image")) {
+            // American sign language
+          } else if (wikiFunction.args.isEmpty() && wikiFunction.namedArgs.isEmpty()) {
+            rest = wikiFunction.replaceWith(rest, "{" + wikiFunction.name + "}");
+            wikiFunction = null;
+          } else {
+            System.err.println("Unexpected t+- wikifunction: " + line + ", title=" + title);
+          }
+          if (wikiFunction != null) {
+            rest = wikiFunction.replaceWith(rest, "");
+          }
+        }
+      } else if (line.equals("")) {
+      } else if (line.startsWith(":")) {
+      } else if (line.startsWith("[[") && line.endsWith("]]")) {
+      } else if (line.startsWith("''See''")) {
+      } else if (line.startsWith("''")) {
+      } else if (line.equals("----")) {
       } else {
-        if (title.equals("Yellowknife")) {
-          return;
-        }
-        System.err.println("Busted heading: " + title + "  "+ header + " " + item);
+        System.err.println("Unexpected translation line: " + line + ", title=" + title);
       }
-      return;
+      
     }
-    // Part of speech
     
-    // Translation
-    if (currentTranslationSense != null) {
-      if (item.indexOf("{{[trreq]{}}}") != -1) {
-        return;
-      }
-
-      if (currentPartOfSpeech.translationSenses.isEmpty()) {
-        currentPartOfSpeech.translationSenses.add(currentTranslationSense);
-      }
-
-      final int colonPos = item.indexOf(':');
-      if (colonPos == -1) {
-        System.err.println("Invalid translation: title=" + title +  ",  item=" + item);
-        return;
-      }
-      final String lang = item.substring(0, colonPos);
-      final String trans = item.substring(colonPos + 1).trim();
-      for (int i = 0; i < 2; ++i) {
-        if (langPatterns[i].matcher(lang).find()) {
-          currentTranslationSense.translations.get(i).add(new Translation(lang, trans));
+  }
+  
+  // -------------------------------------------------------------------------
+  
+  private void doForeignWord(String title, String text) {
+    final WikiLineReader wikiLineReader = new WikiLineReader(text);
+    String line;
+    while ((line = wikiLineReader.readLine()) != null) {
+      final WikiHeading wikiHeading = WikiHeading.getHeading(line);
+      if (wikiHeading != null) {
+        
+        if (wikiHeading.name.equals("Translations")) {
+          System.err.println("Translations not in English section: " + title);
+        } else if (wikiHeading.name.equals("Pronunciation")) {
+          //doPronunciation(wikiLineReader);
+        } else if (partOfSpeechHeader.matcher(wikiHeading.name).matches()) {
+          
         }
       }
-    } // Translation
+    }
   }
 
-  @Override
-  public void onNewLine() {
-  }
-
-  @Override
-  public void onNewParagraph() {
-  }
-
-  // ----------------------------------------------------------------------
   
-  @Override
-  public void onComment(String text) {
-  }
-
-  @Override
-  public void onFormatBold(boolean boldOn) {
-  }
-
-  @Override
-  public void onFormatItalic(boolean italicOn) {
-  }
-
-  @Override
-  public void onUnterminated(String start, String rest) {
-    System.err.printf("OnUnterminated: %s %s %s\n", title, start, rest);
-  }
-  @Override
-  public void onInvalidHeaderEnd(String rest) {
-    throw new RuntimeException(rest);
-  }
-
 }

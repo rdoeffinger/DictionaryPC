@@ -11,36 +11,45 @@ import junit.framework.TestCase;
 
 public class DictionaryBuilderTest extends TestCase {
   
-  public void testWiktionaryCombined() throws Exception {
-    final File result = new File("testdata/wiktionary.quickdic");
+  public void testWiktionaryItalian() throws Exception {
+    final File result = new File("testdata/wiktionary.it.quickdic");
     System.out.println("Writing to: " + result);
     DictionaryBuilder.main(new String[] {
         "--dictOut=" + result.getAbsolutePath(),
-        "--lang1=DE",
+        "--lang1=IT",
         "--lang2=EN",
         "--dictInfo=SomeWikiData",
 
-        "--input3=testdata/enwiktionary_small.xml",
-        "--input3Name=enwiktionary",
+        "--input3=wikiSplit/english.data",
+        "--input3Name=enwiktionary.italian",
         "--input3Format=enwiktionary",
-        "--input3TranslationPattern1=German|Italian|Spanish|French|Japanese|Arabic|Mandarin|Korean|Latin|Swedish|Croation|Serbian|Dutch|Afrikaans",
-        "--input3TranslationPattern2=English",
+        "--input3LangPattern=Italian",
+        "--input3LangCodePattern=it",
         "--input3EnIndex=2",
+        "--input3PageLimit=1000",
 
-        "--print=testdata/wiktionary.test",
+        "--input4=wikiSplit/italian.data",
+        "--input4Name=enwiktionary.italian",
+        "--input4Format=enwiktionary",
+        "--input4LangPattern=Italian",
+        "--input4LangCodePattern=it",
+        "--input4EnIndex=2",
+        "--input4PageLimit=1000",
+
+        "--print=testdata/wiktionary.it.test",
     });
     
     // Check it once:
-    assertFilesEqual("testdata/wiktionary.golden", "testdata/wiktionary.test"); 
+    assertFilesEqual("testdata/wiktionary.it.golden", "testdata/wiktionary.it.test"); 
     
     
     // Check it again.
     final Dictionary dict = new Dictionary(new RandomAccessFile(result.getAbsolutePath(), "r"));
-    final PrintStream out = new PrintStream(new File("testdata/wiktionary.test"));
+    final PrintStream out = new PrintStream(new File("testdata/wiktionary.it.test"));
     dict.print(out);
     out.close();
     
-    assertFilesEqual("testdata/wiktionary.golden", "testdata/wiktionary.test");
+    assertFilesEqual("testdata/wiktionary.it.golden", "testdata/wiktionary.it.test");
   }
 
   

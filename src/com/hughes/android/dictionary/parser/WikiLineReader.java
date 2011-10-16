@@ -12,7 +12,7 @@ public class WikiLineReader {
   private final String wikiText;
   private int lineStart = 0;
   
-  private static final Pattern wikiLineEvent = Pattern.compile("$|\\{\\{|\\[\\[|\\}\\}|\\]\\]|<!--|<pre>", Pattern.MULTILINE);
+  private static final Pattern wikiLineEvent = Pattern.compile("$|\\{\\{|\\[\\[|\\}\\}|\\]\\]|<!--|<pre>|<math>", Pattern.MULTILINE);
 
   private static final Pattern whitespace = Pattern.compile("\\s+");
   
@@ -21,6 +21,11 @@ public class WikiLineReader {
   }
 
   public String readLine() {
+    if (stuffedLine != null) {
+      final String line = stuffedLine;
+      stuffedLine = null;
+      return line;
+    }
     while (lineStart < wikiText.length() && 
         Character.isWhitespace(wikiText.charAt(lineStart)) && 
         wikiText.charAt(lineStart) != '\n') {
@@ -44,7 +49,7 @@ public class WikiLineReader {
         break;
       }
       if (matcher.group().equals("")) {
-        assert (wikiText.charAt(matcher.start()) == '\n');
+        assert (wikiText.charAt(matcher.start()) == '\n'): "Invalid: " + wikiText.substring(matcher.start());
         ++lineEnd;
         if (lineStack.size() == 0) {
           break;
@@ -61,18 +66,20 @@ public class WikiLineReader {
         if (lineStack.size() > 0) {
           final String removed = lineStack.remove(lineStack.size() - 1);
           if (removed.equals("{{") && !matcher.group().equals("}}")) {
-            System.err.println("Error");
+            System.err.println("Unmatched {{ error: " + wikiText.substring(lineStart));
           }
           if (removed.equals("[[") && !matcher.group().equals("]]")) {
-            System.err.println("Error");
+            System.err.println("Unmatched [[ error: " + wikiText.substring(lineStart));
           }
         } else {
-          System.err.println("Error");
+          System.err.println("Pop too many error: " + wikiText.substring(lineStart).replaceAll("\n", "\\n"));
         }
       } else if (matcher.group().equals("<!--")) {
         lineEnd = safeIndexOf(wikiText, lineEnd, "-->", "\n");
       } else if (matcher.group().equals("<pre>")) {
         lineEnd = safeIndexOf(wikiText, lineEnd, "</pre>", "\n");
+      } else if (matcher.group().equals("<math>")) {
+        lineEnd = safeIndexOf(wikiText, lineEnd, "</math>", "\n");
       }
     }
     if (lineStack.size() > 0 && firstNewline != -1) {
@@ -80,7 +87,7 @@ public class WikiLineReader {
     }
     final String result = wikiText.substring(lineStart, lineEnd);
     lineStart = lineEnd;
-    return result;
+    return cleanUpLine(result);
   }
     
     
@@ -109,5 +116,13 @@ public class WikiLineReader {
     line = line.trim();
     return line;
   }
+
+  String stuffedLine = null;
+  public void stuffLine(final String line) {
+    assert stuffedLine == null;
+    stuffedLine = line;
+  }
+  
+  
 
 }
