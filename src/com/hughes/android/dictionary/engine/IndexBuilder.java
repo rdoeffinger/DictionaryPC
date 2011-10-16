@@ -28,7 +28,7 @@ public class IndexBuilder {
   }
   
   public void build() {
-    final Set<EntryData> tokenEntryDatas = new HashSet<EntryData>();
+    final Set<IndexedEntry> tokenEntryDatas = new HashSet<IndexedEntry>();
     final List<RowBase> rows = index.rows;
     for (final TokenData tokenData : tokenToData.values()) {
       tokenEntryDatas.clear();
@@ -38,8 +38,8 @@ public class IndexBuilder {
 //      System.out.println("Added TokenRow: " + rows.get(rows.size() - 1));
       int numRows = 0;
 //      System.out.println("TOKEN: " + tokenData.token);
-      for (final Map.Entry<EntryTypeName, List<EntryData>> typeToEntry : tokenData.typeToEntries.entrySet()) {
-        for (final EntryData entryData : typeToEntry.getValue()) {
+      for (final Map.Entry<EntryTypeName, List<IndexedEntry>> typeToEntry : tokenData.typeToEntries.entrySet()) {
+        for (final IndexedEntry entryData : typeToEntry.getValue()) {
           if (tokenEntryDatas.add(entryData)) {
             rows.add(new PairEntry.Row(entryData.index(), rows.size(), index));
             ++numRows;
@@ -69,7 +69,7 @@ public class IndexBuilder {
   static class TokenData {
     final String token;
         
-    final Map<EntryTypeName, List<EntryData>> typeToEntries = new EnumMap<EntryTypeName, List<EntryData>>(EntryTypeName.class);
+    final Map<EntryTypeName, List<IndexedEntry>> typeToEntries = new EnumMap<EntryTypeName, List<IndexedEntry>>(EntryTypeName.class);
     
     TokenData(final String token) {
       assert token.equals(token.trim());
@@ -87,17 +87,17 @@ public class IndexBuilder {
     return tokenData;
   }
 
-  public List<EntryData> getOrCreateEntries(final String token, final EntryTypeName entryTypeName) {
+  public List<IndexedEntry> getOrCreateEntries(final String token, final EntryTypeName entryTypeName) {
     final TokenData tokenData = getOrCreateTokenData(token);
-    List<EntryData> entries = tokenData.typeToEntries.get(entryTypeName);
+    List<IndexedEntry> entries = tokenData.typeToEntries.get(entryTypeName);
     if (entries == null) {
-      entries = new ArrayList<EntryData>();
+      entries = new ArrayList<IndexedEntry>();
       tokenData.typeToEntries.put(entryTypeName, entries);
     }
     return entries;
   }
 
-  public void addEntryWithTokens(final EntryData entryData, final Set<String> tokens,
+  public void addEntryWithTokens(final IndexedEntry entryData, final Set<String> tokens,
       final EntryTypeName entryTypeName) {
     for (final String token : tokens) {
       getOrCreateEntries(token, entryTypeName).add(entryData);

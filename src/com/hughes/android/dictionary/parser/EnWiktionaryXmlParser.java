@@ -190,8 +190,6 @@ public class EnWiktionaryXmlParser {
         String rest = line.substring(colonIndex + 1);
         final StringBuilder lineText = new StringBuilder();
         
-        final 
-        
         boolean ttbc = false;
         WikiFunction wikiFunction;
         while ((wikiFunction = WikiFunction.getFunction(line)) != null) {
@@ -207,7 +205,7 @@ public class EnWiktionaryXmlParser {
               final String transliteration = wikiFunction.getNamedArg("tr");
             }
           } else if (wikiFunction.name.equals("qualifier")) {
-            qualifier = wikiFunction.getArg(0);
+            String qualifier = wikiFunction.getArg(0);
           } else if (encodings.contains(wikiFunction.name)) {
             rest = wikiFunction.replaceWith(rest, wikiFunction.getArg(0));
             wikiFunction = null;

@@ -15,7 +15,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import com.hughes.android.dictionary.engine.DictionaryBuilder;
-import com.hughes.android.dictionary.engine.EntryData;
+import com.hughes.android.dictionary.engine.IndexedEntry;
 import com.hughes.android.dictionary.engine.EntryTypeName;
 import com.hughes.android.dictionary.engine.IndexBuilder;
 import com.hughes.android.dictionary.engine.Language;
@@ -122,8 +122,7 @@ public class DictFileParser {
       subfields[1][i] = subfields[1][i].trim();
       pairEntry.pairs.add(new Pair(subfields[0][i], subfields[1][i]));
     }
-    final EntryData entryData = new EntryData(dictBuilder.dictionary.pairEntries.size(), pairEntry);
-    dictBuilder.dictionary.pairEntries.add(pairEntry);
+    final IndexedEntry entryData = new IndexedEntry(pairEntry);
     
     for (int l = 0; l < 2; ++l) {
       // alreadyDone.clear();
@@ -142,7 +141,7 @@ public class DictFileParser {
   }
 
   private void parseFieldGeneric(final IndexBuilder indexBuilder, String field,
-      final EntryData entryData, final int subfieldIdx, final int numSubFields) {
+      final IndexedEntry entryData, final int subfieldIdx, final int numSubFields) {
     // remove bracketed and parenthesized stuff.
     final StringBuilder bracketed = new StringBuilder(); 
     final StringBuilder parenthesized = new StringBuilder();
@@ -198,7 +197,7 @@ public class DictFileParser {
     for (String token : tokens) {
       token = TRIM_PUNC.matcher(token).replaceAll("");
       if (/*!alreadyDone.contains(token) && */token.length() > 0) {
-        final List<EntryData> entries = indexBuilder.getOrCreateEntries(token, entryTypeName);
+        final List<IndexedEntry> entries = indexBuilder.getOrCreateEntries(token, entryTypeName);
         entries.add(entryData);
         // alreadyDone.add(token);
         
@@ -207,7 +206,7 @@ public class DictFileParser {
           final String[] dashed = token.split("-");
           for (final String dashedToken : dashed) {
             if (/*!alreadyDone.contains(dashedToken) && */dashedToken.length() > 0) {
-              final List<EntryData> dashEntries = indexBuilder.getOrCreateEntries(dashedToken, EntryTypeName.PART_OF_HYPHENATED);
+              final List<IndexedEntry> dashEntries = indexBuilder.getOrCreateEntries(dashedToken, EntryTypeName.PART_OF_HYPHENATED);
               dashEntries.add(entryData);
             }
           }
@@ -221,7 +220,7 @@ public class DictFileParser {
     for (final String token : bracketedTokens) {
       assert !token.contains("-");
       if (/*!alreadyDone.contains(token) && */token.length() > 0) {
-        final List<EntryData> entries = indexBuilder.getOrCreateEntries(token, EntryTypeName.BRACKETED);
+        final List<IndexedEntry> entries = indexBuilder.getOrCreateEntries(token, EntryTypeName.BRACKETED);
         entries.add(entryData);
       }
     }
@@ -231,7 +230,7 @@ public class DictFileParser {
     for (final String token : parenTokens) {
       assert !token.contains("-");
       if (/*!alreadyDone.contains(token) && */token.length() > 0) {
-        final List<EntryData> entries = indexBuilder.getOrCreateEntries(token, EntryTypeName.PARENTHESIZED);
+        final List<IndexedEntry> entries = indexBuilder.getOrCreateEntries(token, EntryTypeName.PARENTHESIZED);
         entries.add(entryData);
       }
     }
@@ -239,7 +238,7 @@ public class DictFileParser {
   }
 
   private String parseField_DE(final IndexBuilder indexBuilder, String field,
-      final EntryData entryData, final int subfieldIdx) {
+      final IndexedEntry entryData, final int subfieldIdx) {
     
 //    final Matcher matcher = DE_NOUN.matcher(field);
 //    while (matcher.find()) {
@@ -259,7 +258,7 @@ public class DictFileParser {
   }
   
   private String parseField_EN(final IndexBuilder indexBuilder, String field,
-      final EntryData entryData, final int subfieldIdx) {
+      final IndexedEntry entryData, final int subfieldIdx) {
     if (field.startsWith("to ")) {
       field = field.substring(3);
     }
