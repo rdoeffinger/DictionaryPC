@@ -1,4 +1,4 @@
-package com.hughes.android.dictionary;
+package com.hughes.android.dictionary.engine;
 
 import java.io.BufferedOutputStream;
 import java.io.DataOutputStream;

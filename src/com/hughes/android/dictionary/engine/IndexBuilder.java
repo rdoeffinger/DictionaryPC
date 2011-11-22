@@ -12,6 +12,7 @@ import java.util.SortedMap;
 import java.util.TreeMap;
 
 import com.hughes.android.dictionary.engine.Index.IndexEntry;
+import com.hughes.android.dictionary.parser.DictFileParser;
 
 
 public class IndexBuilder {
@@ -40,6 +41,10 @@ public class IndexBuilder {
 //      System.out.println("TOKEN: " + tokenData.token);
       for (final Map.Entry<EntryTypeName, List<IndexedEntry>> typeToEntry : tokenData.typeToEntries.entrySet()) {
         for (final IndexedEntry entryData : typeToEntry.getValue()) {
+          if (entryData.index() == -1) {
+            entryData.addToDictionary(dictionaryBuilder.dictionary);
+            assert entryData.index() >= 0;
+          }
           if (tokenEntryDatas.add(entryData)) {
             rows.add(new PairEntry.Row(entryData.index(), rows.size(), index));
             ++numRows;
@@ -97,12 +102,21 @@ public class IndexBuilder {
     return entries;
   }
 
-  public void addEntryWithTokens(final IndexedEntry entryData, final Set<String> tokens,
+  public void addEntryWithTokens(final IndexedEntry indexedEntry, final Set<String> tokens,
       final EntryTypeName entryTypeName) {
     for (final String token : tokens) {
-      getOrCreateEntries(token, entryTypeName).add(entryData);
+      getOrCreateEntries(token, entryTypeName).add(indexedEntry);
     }    
   }
-  
 
+  public void addEntryWithString(final IndexedEntry indexedEntry, final String untokenizedString,
+      final EntryTypeName singleTokenEntryTypeName, final EntryTypeName multiTokenEntryTypeName) {
+    final Set<String> tokens = DictFileParser.tokenize(untokenizedString, DictFileParser.NON_CHAR);
+    addEntryWithTokens(indexedEntry, tokens, tokens.size() == 1 ? singleTokenEntryTypeName : multiTokenEntryTypeName);
+  }
+
+  public void addEntryWithString(final IndexedEntry indexedEntry, final String untokenizedString,
+      final EntryTypeName entryTypeName) {
+    addEntryWithString(indexedEntry, untokenizedString, entryTypeName, entryTypeName);
+  }
 }

@@ -3,10 +3,12 @@ package com.hughes.android.dictionary.parser;
 public class WikiHeading {
   public final int depth;
   public final String name;
+  public final String prefix;
   
-  public WikiHeading(int depth, String name) {
+  public WikiHeading(int depth, String name, String prefix) {
     this.depth = depth;
     this.name = name;
+    this.prefix = prefix;
   }
 
   public static WikiHeading getHeading(String line) {
@@ -22,7 +24,7 @@ public class WikiHeading {
       System.err.println("Invalid heading: " + line);
       return null;
     }
-    return new WikiHeading(i, line.substring(i, line.length() - i).trim());
+    return new WikiHeading(i, line.substring(i, line.length() - i).trim(), prefix);
   }
   
 }

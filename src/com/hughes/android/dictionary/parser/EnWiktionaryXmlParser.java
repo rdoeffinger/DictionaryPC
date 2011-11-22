@@ -12,7 +12,11 @@ import java.util.Set;
 import java.util.regex.Pattern;
 
 import com.hughes.android.dictionary.engine.DictionaryBuilder;
+import com.hughes.android.dictionary.engine.EntryTypeName;
 import com.hughes.android.dictionary.engine.IndexBuilder;
+import com.hughes.android.dictionary.engine.IndexedEntry;
+import com.hughes.android.dictionary.engine.PairEntry;
+import com.hughes.android.dictionary.engine.PairEntry.Pair;
 
 public class EnWiktionaryXmlParser {
   
@@ -29,19 +33,18 @@ public class EnWiktionaryXmlParser {
       "Particle|Interjection|Pronominal adverb" +
       "Han character|Hanzi|Hanja|Kanji|Katakana character|Syllable");
 
-  final DictionaryBuilder dictBuilder;
-  
-  final IndexBuilder[] indexBuilders;
+  final IndexBuilder enIndexBuilder;
+  final IndexBuilder otherIndexBuilder;
   final Pattern langPattern;
   final Pattern langCodePattern;
-  final int enIndexBuilder;
+  final boolean swap;
 
-  public EnWiktionaryXmlParser(final DictionaryBuilder dictBuilder, final Pattern langPattern, final Pattern langCodePattern, final int enIndexBuilder) {
-    this.dictBuilder = dictBuilder;
-    this.indexBuilders = dictBuilder.indexBuilders.toArray(new IndexBuilder[0]);
+  public EnWiktionaryXmlParser(final IndexBuilder enIndexBuilder, final IndexBuilder otherIndexBuilder, final Pattern langPattern, final Pattern langCodePattern, final boolean swap) {
+    this.enIndexBuilder = enIndexBuilder;
+    this.otherIndexBuilder = otherIndexBuilder;
     this.langPattern = langPattern;
     this.langCodePattern = langCodePattern;
-    this.enIndexBuilder = enIndexBuilder;
+    this.swap = swap;
   }
 
   
@@ -92,7 +95,7 @@ public class EnWiktionaryXmlParser {
     if (heading.replaceAll("=", "").equals("English")) {
       doEnglishWord(title, text);
     } else {
-      //doForeignWord(title, text);
+      doForeignWord(title, text);
     }
         
   }  // endPage()
@@ -156,8 +159,8 @@ public class EnWiktionaryXmlParser {
         while ((wikiFunction = WikiFunction.getFunction(line)) != null) {
           if (wikiFunction.name.equals("trans-top")) {
             sense = null;
-            if (wikiFunction.args.size() >= 2) {
-              sense = wikiFunction.args.get(1);
+            if (wikiFunction.args.size() >= 1) {
+              sense = wikiFunction.args.get(0);
               //System.out.println("Sense: " + sense);
             }
           } else if (wikiFunction.name.equals("trans-bottom")) {
@@ -182,75 +185,15 @@ public class EnWiktionaryXmlParser {
         if (colonIndex == -1) {
           continue;
         }
+        
         final String lang = line.substring(0, colonIndex);
         if (!this.langPattern.matcher(lang).find()) {
           continue;
         }
         
-        String rest = line.substring(colonIndex + 1);
-        final StringBuilder lineText = new StringBuilder();
+        String rest = line.substring(colonIndex + 1).trim();
+        doTranslationLine(line, title, sense, rest);
         
-        boolean ttbc = false;
-        WikiFunction wikiFunction;
-        while ((wikiFunction = WikiFunction.getFunction(line)) != null) {
-          if (wikiFunction.name.equals("t") || wikiFunction.name.equals("t+") || wikiFunction.name.equals("t-") || wikiFunction.name.equals("tø")) {
-            if (wikiFunction.args.size() < 2) {
-              System.err.println("{{t}} with too few args: " + line + ", title=" + title);
-              continue;
-            }
-            final String langCode = wikiFunction.getArg(0);
-            if (this.langCodePattern.matcher(langCode).matches()) {
-              final String word = wikiFunction.getArg(1);
-              final String gender = wikiFunction.getArg(2);
-              final String transliteration = wikiFunction.getNamedArg("tr");
-            }
-          } else if (wikiFunction.name.equals("qualifier")) {
-            String qualifier = wikiFunction.getArg(0);
-          } else if (encodings.contains(wikiFunction.name)) {
-            rest = wikiFunction.replaceWith(rest, wikiFunction.getArg(0));
-            wikiFunction = null;
-          } else if (wikiFunction.name.equals("m") || wikiFunction.name.equals("f") || wikiFunction.name.equals("n")) {
-            String gender = wikiFunction.name;
-            for (int i = 0; i < wikiFunction.args.size(); ++i) {
-              gender += "|" + wikiFunction.getArg(i);
-            }
-            rest = wikiFunction.replaceWith(rest, "{" + wikiFunction.name + "}");
-            wikiFunction = null;
-          } else if (wikiFunction.name.equals("g")) {
-            rest = wikiFunction.replaceWith(rest, "{g}");
-            wikiFunction = null;
-          } else if (wikiFunction.name.equals("l")) {
-            // encodes text in various langs.
-            rest = wikiFunction.replaceWith(rest, wikiFunction.getArg(1));
-            // TODO: transliteration
-            wikiFunction = null;
-          } else if (wikiFunction.name.equals("term")) {
-            // cross-reference to another dictionary
-            rest = wikiFunction.replaceWith(rest, wikiFunction.getArg(0));
-            // TODO: transliteration
-            wikiFunction = null;
-          } else if (wikiFunction.name.equals("italbrac") || wikiFunction.name.equals("gloss")) {
-            // TODO: put this text aside to use it.
-            rest = wikiFunction.replaceWith(rest, "[" + wikiFunction.getArg(0) + "]");
-            wikiFunction = null;
-          } else if (wikiFunction.name.equals("ttbc")) {
-            ttbc = true;
-          } else if (wikiFunction.name.equals("trreq")) {
-          } else if (wikiFunction.name.equals("not used")) {
-            rest = wikiFunction.replaceWith(rest, "[not used]");
-            wikiFunction = null;
-          } else if (wikiFunction.name.equals("t-image")) {
-            // American sign language
-          } else if (wikiFunction.args.isEmpty() && wikiFunction.namedArgs.isEmpty()) {
-            rest = wikiFunction.replaceWith(rest, "{" + wikiFunction.name + "}");
-            wikiFunction = null;
-          } else {
-            System.err.println("Unexpected t+- wikifunction: " + line + ", title=" + title);
-          }
-          if (wikiFunction != null) {
-            rest = wikiFunction.replaceWith(rest, "");
-          }
-        }
       } else if (line.equals("")) {
       } else if (line.startsWith(":")) {
       } else if (line.startsWith("[[") && line.endsWith("]]")) {
@@ -265,6 +208,118 @@ public class EnWiktionaryXmlParser {
     
   }
   
+  private void doTranslationLine(final String line, final String title, final String sense, String rest) {
+
+    // Good chance we'll actually file this one...
+    final PairEntry pairEntry = new PairEntry();
+    final IndexedEntry indexedEntry = new IndexedEntry(pairEntry);
+
+    final StringBuilder otherText = new StringBuilder();
+    
+    WikiFunction wikiFunction;
+    while ((wikiFunction = WikiFunction.getFunction(rest)) != null) {
+      if (wikiFunction.start > 0) {
+        String plainText = rest.substring(0, wikiFunction.start); 
+        otherText.append("").append(plainText);
+        otherIndexBuilder.addEntryWithString(indexedEntry, plainText, EntryTypeName.WIKTIONARY_OTHER_TEXT);
+      }
+      rest = rest.substring(wikiFunction.end);
+      
+      if (wikiFunction.name.equals("t") || wikiFunction.name.equals("t+") || wikiFunction.name.equals("t-") || wikiFunction.name.equals("tø")) {
+        if (wikiFunction.args.size() < 2) {
+          System.err.println("{{t}} with too few args: " + line + ", title=" + title);
+          continue;
+        }
+        final String langCode = wikiFunction.getArg(0);
+        if (this.langCodePattern.matcher(langCode).matches()) {
+          final String word = wikiFunction.getArg(1);
+          final String gender = wikiFunction.getArg(2);
+          final String transliteration = wikiFunction.getNamedArg("tr");
+          if (otherText.length() > 0) {
+            otherText.append("");
+          }
+          otherText.append(word);
+          otherIndexBuilder.addEntryWithString(indexedEntry, word, EntryTypeName.WIKTIONARY_TITLE_SINGLE, EntryTypeName.WIKTIONARY_TITLE_MULTI);
+          if (gender != null) {
+            otherText.append(String.format(" {%s}", gender));
+          }
+          if (transliteration != null) {
+            otherText.append(String.format(" (tr. %s)", transliteration));
+            otherIndexBuilder.addEntryWithString(indexedEntry, transliteration, EntryTypeName.WIKTIONARY_TRANSLITERATION);
+          }
+        }
+      } else if (wikiFunction.name.equals("qualifier")) {
+        String qualifier = wikiFunction.getArg(0);
+        if (!wikiFunction.namedArgs.isEmpty() || wikiFunction.args.size() > 1) {
+          System.err.println("weird qualifier: " + line);
+        }
+        otherText.append("(").append(qualifier).append(")");
+      } else if (encodings.contains(wikiFunction.name)) {
+        otherText.append("").append(wikiFunction.getArg(0));
+        otherIndexBuilder.addEntryWithString(indexedEntry, wikiFunction.getArg(0), EntryTypeName.WIKTIONARY_OTHER_TEXT);
+      } else if (wikiFunction.name.equals("m") || wikiFunction.name.equals("f") || wikiFunction.name.equals("n")) {
+        otherText.append("{");
+        otherText.append(wikiFunction.name);
+        for (int i = 0; i < wikiFunction.args.size(); ++i) {
+          otherText.append("|").append(wikiFunction.getArg(i));
+        }
+        otherText.append("}");
+      } else if (wikiFunction.name.equals("g")) {
+        otherText.append("{g}");
+      } else if (wikiFunction.name.equals("l")) {
+        // encodes text in various langs.
+        // lang is arg 0.
+        otherText.append("").append(wikiFunction.getArg(1));
+        otherIndexBuilder.addEntryWithString(indexedEntry, wikiFunction.getArg(1), EntryTypeName.WIKTIONARY_OTHER_TEXT);
+        // TODO: transliteration
+      } else if (wikiFunction.name.equals("term")) {
+        // cross-reference to another dictionary
+        otherText.append("").append(wikiFunction.getArg(0));
+        otherIndexBuilder.addEntryWithString(indexedEntry, wikiFunction.getArg(0), EntryTypeName.WIKTIONARY_OTHER_TEXT);
+        // TODO: transliteration
+      } else if (wikiFunction.name.equals("italbrac") || wikiFunction.name.equals("gloss")) {
+        // TODO: put this text aside to use it.
+        otherText.append("[").append(wikiFunction.getArg(0)).append("]");
+        otherIndexBuilder.addEntryWithString(indexedEntry, wikiFunction.getArg(0), EntryTypeName.WIKTIONARY_OTHER_TEXT);
+      } else if (wikiFunction.name.equals("ttbc")) {
+      } else if (wikiFunction.name.equals("trreq")) {
+      } else if (wikiFunction.name.equals("not used")) {
+        otherText.append("(not used)");
+      } else if (wikiFunction.name.equals("t-image")) {
+        // American sign language
+      } else if (wikiFunction.args.isEmpty() && wikiFunction.namedArgs.isEmpty()) {
+        otherText.append("{UNK. FUNC.: ").append(wikiFunction.name).append("}");
+      } else {
+        System.err.println("Unexpected t+- wikifunction: " + line + ", title=" + title);
+      }
+    }
+    String plainText = rest; 
+    otherText.append("").append(plainText);
+    otherIndexBuilder.addEntryWithString(indexedEntry, plainText, EntryTypeName.WIKTIONARY_OTHER_TEXT);
+    
+    StringBuilder englishText = new StringBuilder();
+    
+    englishText.append(title);
+    if (sense != null) {
+      englishText.append(" (").append(sense).append(")");
+      enIndexBuilder.addEntryWithString(indexedEntry, sense, EntryTypeName.WIKTIONARY_TRANSLATION_SENSE, EntryTypeName.WIKTIONARY_TRANSLATION_SENSE);
+    }
+    if (pos != null) {
+      englishText.append(" (").append(pos.toLowerCase()).append(")");
+    }
+    enIndexBuilder.addEntryWithString(indexedEntry, title, EntryTypeName.WIKTIONARY_TITLE_SINGLE, EntryTypeName.WIKTIONARY_TITLE_MULTI);
+    
+    final Pair pair = new Pair(englishText.toString(), WikiParser.simpleParse(otherText.toString()), swap);
+    pairEntry.pairs.add(pair);
+    assert (pairsAdded.add(pair.toString()));
+    if (pair.toString().equals("libero {m} :: free (adjective)")) {
+      System.out.println();
+    }
+
+  }
+  
+  Set<String> pairsAdded = new LinkedHashSet<String>();
+  
   // -------------------------------------------------------------------------
   
   private void doForeignWord(String title, String text) {
@@ -273,15 +328,33 @@ public class EnWiktionaryXmlParser {
     while ((line = wikiLineReader.readLine()) != null) {
       final WikiHeading wikiHeading = WikiHeading.getHeading(line);
       if (wikiHeading != null) {
-        
         if (wikiHeading.name.equals("Translations")) {
           System.err.println("Translations not in English section: " + title);
         } else if (wikiHeading.name.equals("Pronunciation")) {
           //doPronunciation(wikiLineReader);
         } else if (partOfSpeechHeader.matcher(wikiHeading.name).matches()) {
-          
+          doPartOfSpeech(title, wikiHeading, wikiLineReader);
         }
       }
+    }
+  }
+
+
+  private void doPartOfSpeech(String title, final WikiHeading posHeading, WikiLineReader wikiLineReader) {
+    String line;
+    System.out.println("***" + title);
+    System.out.println(posHeading.name);
+    while ((line = wikiLineReader.readLine()) != null) {
+      WikiHeading heading = WikiHeading.getHeading(line);
+      if (heading != null) {
+        if (heading.depth <= posHeading.depth) {
+          wikiLineReader.stuffLine(line);
+          return;
+        }
+      }
+      System.out.println(line);
+      
+      
     }
   }
 

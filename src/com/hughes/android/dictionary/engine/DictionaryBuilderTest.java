@@ -20,14 +20,15 @@ public class DictionaryBuilderTest extends TestCase {
         "--lang2=EN",
         "--dictInfo=SomeWikiData",
 
+        /*
         "--input3=wikiSplit/english.data",
-        "--input3Name=enwiktionary.italian",
+        "--input3Name=enwiktionary.english",
         "--input3Format=enwiktionary",
         "--input3LangPattern=Italian",
         "--input3LangCodePattern=it",
         "--input3EnIndex=2",
         "--input3PageLimit=1000",
-
+*/
         "--input4=wikiSplit/italian.data",
         "--input4Name=enwiktionary.italian",
         "--input4Format=enwiktionary",

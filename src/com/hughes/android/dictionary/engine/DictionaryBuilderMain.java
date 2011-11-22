@@ -22,22 +22,10 @@ public class DictionaryBuilderMain extends TestCase {
   
   
   public static void main(final String[] args) throws Exception {
-    DictionaryBuilder.main(new String[] {
-        "--dictOut=dictOutputs/DE-EN_chemnitz.quickdic",
-        "--lang1=DE",
-        "--lang2=EN",
-        "--dictInfo=@dictInputs/de-en_chemnitz.info",
-
-        "--input1=dictInputs/de-en_chemnitz.txt",
-        "--input1Name=chemnitz",
-        "--input1Charset=UTF8",
-        "--input1Format=chemnitz",
-    });
-
 
     Lang[] langs1 = new Lang[] { 
         new Lang("^English$", "EN"),
-        new Lang("^German$", "DE"),
+        //new Lang("^German$", "DE"),
     };
     Lang[] langs2 = new Lang[] { 
         new Lang("^Italian$", "IT"),
@@ -130,6 +118,18 @@ public class DictionaryBuilderMain extends TestCase {
 
       }  // langs2
     }  // langs1
+
+    DictionaryBuilder.main(new String[] {
+        "--dictOut=dictOutputs/DE-EN_chemnitz.quickdic",
+        "--lang1=DE",
+        "--lang2=EN",
+        "--dictInfo=@dictInputs/de-en_chemnitz.info",
+
+        "--input1=dictInputs/de-en_chemnitz.txt",
+        "--input1Name=chemnitz",
+        "--input1Charset=UTF8",
+        "--input1Format=chemnitz",
+    });
 
     DictionaryBuilder.main(new String[] {
         "--dictOut=dictOutputs/de-en_all.quickdic",

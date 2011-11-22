@@ -137,7 +137,8 @@ public class DictionaryBuilder {
           if (enIndex < 0 || enIndex >= 2) {
             fatalError("Must be 1 or 2: " + prefix + "EnIndex");
           }
-          new EnWiktionaryXmlParser(dictionaryBuilder, langPattern, langCodePattern, enIndex).parse(file, Integer.parseInt(pageLimit));
+          new EnWiktionaryXmlParser(dictionaryBuilder.indexBuilders.get(enIndex), dictionaryBuilder.indexBuilders.get(1-enIndex),
+              langPattern, langCodePattern, enIndex != 0).parse(file, Integer.parseInt(pageLimit));
         } else {
           fatalError("Invalid or missing input format: " + inputFormat);
         }
