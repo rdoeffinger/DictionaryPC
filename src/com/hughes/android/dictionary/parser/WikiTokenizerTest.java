@@ -7,11 +7,161 @@ import java.util.List;
 import junit.framework.TestCase;
 
 public class WikiTokenizerTest extends TestCase {
+
+  public void testWikiLink() {
+    String wikiText;
+    
+    wikiText = "[[abc]]";
+    assertEquals(wikiText, new WikiTokenizer(wikiText).nextToken().token());
+    assertTrue(new WikiTokenizer(wikiText).nextToken().isWikiLink());
+    assertEquals("abc", new WikiTokenizer(wikiText).nextToken().wikiLinkText());
+    assertEquals(null, new WikiTokenizer(wikiText).nextToken().wikiLinkDest());
+    
+    wikiText = "[[abc|def]]";
+    assertEquals(wikiText, new WikiTokenizer(wikiText).nextToken().token());
+    assertTrue(new WikiTokenizer(wikiText).nextToken().isWikiLink());
+    assertEquals("def", new WikiTokenizer(wikiText).nextToken().wikiLinkText());
+    assertEquals("abc", new WikiTokenizer(wikiText).nextToken().wikiLinkDest());
+
+    wikiText = "[[abc|def|ghi{{a|=2}}p]]";
+    assertEquals(wikiText, new WikiTokenizer(wikiText).nextToken().token());
+    assertTrue(new WikiTokenizer(wikiText).nextToken().isWikiLink());
+    assertEquals("ghi{{a|=2}}p", new WikiTokenizer(wikiText).nextToken().wikiLinkText());
+    assertEquals("abc", new WikiTokenizer(wikiText).nextToken().wikiLinkDest());
+
+    wikiText = "[[abc]][[def]]";
+    assertEquals("[[abc]]", new WikiTokenizer(wikiText).nextToken().token());
+    assertEquals("abc", new WikiTokenizer(wikiText).nextToken().wikiLinkText());
+    assertEquals("def", new WikiTokenizer(wikiText).nextToken().nextToken().wikiLinkText());
+
+  }
   
+  public void testWikiList() {
+    String wikiText;
+
+    wikiText = "* This is ''bold''' asdf.";
+    assertEquals(wikiText, new WikiTokenizer(wikiText).nextToken().token());
+  }
+  
+  public void testFunction() {
+    String wikiText;
+    
+    wikiText = "{{abc}}";
+    assertEquals(wikiText, new WikiTokenizer(wikiText).nextToken().token());
+    assertTrue(new WikiTokenizer(wikiText).nextToken().isFunction());
+    assertEquals("abc", new WikiTokenizer(wikiText).nextToken().functionName());
+    assertEquals(0, new WikiTokenizer(wikiText).nextToken().functionPositionArgs().size());
+    assertEquals(0, new WikiTokenizer(wikiText).nextToken().functionNamedArgs().size());
+
+    wikiText = "{{abc|def}}";
+    assertEquals(wikiText, new WikiTokenizer(wikiText).nextToken().token());
+    assertTrue(new WikiTokenizer(wikiText).nextToken().isFunction());
+    assertEquals("abc", new WikiTokenizer(wikiText).nextToken().functionName());
+    assertEquals(Arrays.asList("def"), new WikiTokenizer(wikiText).nextToken().functionPositionArgs());
+    assertEquals(0, new WikiTokenizer(wikiText).nextToken().functionNamedArgs().size());
+
+    wikiText = "{{abc|d[[|]]ef|ghi}}";
+    assertEquals(wikiText, new WikiTokenizer(wikiText).nextToken().token());
+    assertTrue(new WikiTokenizer(wikiText).nextToken().isFunction());
+    assertEquals("abc", new WikiTokenizer(wikiText).nextToken().functionName());
+    assertEquals(Arrays.asList("d[[|]]ef", "ghi"), new WikiTokenizer(wikiText).nextToken().functionPositionArgs());
+    assertEquals(0, new WikiTokenizer(wikiText).nextToken().functionNamedArgs().size());
+
+    wikiText = "{{abc|arg1=101|ghi|arg2=202|arg3={{n1|n2=7|n3}}|{{d}}}}";
+    assertEquals(wikiText, new WikiTokenizer(wikiText).nextToken().token());
+    assertTrue(new WikiTokenizer(wikiText).nextToken().isFunction());
+    assertEquals("abc", new WikiTokenizer(wikiText).nextToken().functionName());
+    assertEquals(Arrays.asList("ghi", "{{d}}"), new WikiTokenizer(wikiText).nextToken().functionPositionArgs());
+    assertEquals(3, new WikiTokenizer(wikiText).nextToken().functionNamedArgs().size());
+    assertEquals("101", new WikiTokenizer(wikiText).nextToken().functionNamedArgs().get("arg1"));
+    assertEquals("202", new WikiTokenizer(wikiText).nextToken().functionNamedArgs().get("arg2"));
+    assertEquals("{{n1|n2=7|n3}}", new WikiTokenizer(wikiText).nextToken().functionNamedArgs().get("arg3"));
+
+    
+  }
+  
+  public void testReturn() {
+    String wikiText;
+
+    wikiText = "hello\n=Heading=\nhello2";
+    
+    final WikiTokenizer tokenizer = new WikiTokenizer(wikiText);
+    
+    assertEquals("hello", tokenizer.nextToken().token());
+    tokenizer.returnToLineStart();
+    assertEquals("hello", tokenizer.nextToken().token());
+    assertEquals("\n", tokenizer.nextToken().token());
+    tokenizer.returnToLineStart();
+    assertEquals("hello", tokenizer.nextToken().token());
+    assertEquals("\n", tokenizer.nextToken().token());
+    
+    assertEquals("=Heading=", tokenizer.nextToken().token());
+    tokenizer.returnToLineStart();
+    assertEquals("=Heading=", tokenizer.nextToken().token());
+    assertEquals("\n", tokenizer.nextToken().token());
+    tokenizer.returnToLineStart();
+    assertEquals("=Heading=", tokenizer.nextToken().token());
+    assertEquals("\n", tokenizer.nextToken().token());
+
+    assertEquals("hello2", tokenizer.nextToken().token());
+    assertEquals(null, tokenizer.nextToken());
+    tokenizer.returnToLineStart();
+    assertEquals("hello2", tokenizer.nextToken().token());
+    assertEquals(null, tokenizer.nextToken());
+    
+    
+  }
+
+  public void testWikiHeading() {
+    String wikiText;
+
+    wikiText = "==";
+    assertEquals("==", new WikiTokenizer(wikiText).nextToken().token());
+    assertTrue(new WikiTokenizer(wikiText).nextToken().isHeading());
+    assertEquals(2, new WikiTokenizer(wikiText).nextToken().headingDepth());
+    assertEquals("", new WikiTokenizer(wikiText).nextToken().headingWikiText());
+    assertEquals(1, new WikiTokenizer(wikiText).nextToken().errors.size());
+
+    
+    wikiText = "=a";
+    assertEquals("=a", new WikiTokenizer(wikiText).nextToken().token());
+    assertTrue(new WikiTokenizer(wikiText).nextToken().isHeading());
+    assertEquals(1, new WikiTokenizer(wikiText).nextToken().headingDepth());
+    assertEquals("a", new WikiTokenizer(wikiText).nextToken().headingWikiText());
+    assertEquals(1, new WikiTokenizer(wikiText).nextToken().errors.size());
+
+    wikiText = "=a==";
+    assertEquals("=a==", new WikiTokenizer(wikiText).nextToken().token());
+    assertTrue(new WikiTokenizer(wikiText).nextToken().isHeading());
+    assertEquals(1, new WikiTokenizer(wikiText).nextToken().headingDepth());
+    assertEquals("a", new WikiTokenizer(wikiText).nextToken().headingWikiText());
+    assertEquals(1, new WikiTokenizer(wikiText).nextToken().errors.size());
+
+    wikiText = "a=";
+    assertEquals("a", new WikiTokenizer(wikiText).nextToken().token());
+    assertFalse(new WikiTokenizer(wikiText).nextToken().isHeading());
+
+    wikiText = "=a=";
+    assertEquals("=a=", new WikiTokenizer(wikiText).nextToken().token());
+    assertTrue(new WikiTokenizer(wikiText).nextToken().isHeading());
+    assertEquals(1, new WikiTokenizer(wikiText).nextToken().headingDepth());
+    assertEquals("a", new WikiTokenizer(wikiText).nextToken().headingWikiText());
+    assertEquals(0, new WikiTokenizer(wikiText).nextToken().errors.size());
+
+    wikiText = "==aa[[|=]] {{|={{=}} }}==";
+    assertEquals(wikiText, new WikiTokenizer(wikiText).nextToken().token());
+    assertTrue(new WikiTokenizer(wikiText).nextToken().isHeading());
+    assertEquals(2, new WikiTokenizer(wikiText).nextToken().headingDepth());
+    assertEquals("aa[[|=]] {{|={{=}} }}", new WikiTokenizer(wikiText).nextToken().headingWikiText());
+    assertEquals(0, new WikiTokenizer(wikiText).nextToken().errors.size());
+  }
+
+  
+
   public void testSimple() {
     final String wikiText =
       "Hi" + "\n" +
-      "Hello thad you're <!-- not --> '''pretty''' cool '''''over''''' there." + "\n" +
+      "Hello =thad| you're <!-- not --> '''pretty''' cool '''''over''''' there." + "\n" +
       "hi <!--" + "\n" +
       "multi-line" + "\n" +
       "# comment -->" + "\n" +
@@ -36,7 +186,11 @@ public class WikiTokenizerTest extends TestCase {
     final String[] expectedTokens = new String[] {
         "Hi",
         "\n",
-        "Hello thad you're ",
+        "Hello ",
+        "=",
+        "thad",
+        "|",
+        " you're ",
         "<!-- not -->",
         " ",
         "'''",
@@ -80,8 +234,10 @@ public class WikiTokenizerTest extends TestCase {
         "\n",
         "{{some-func|blah={{nested-func|n2}}|blah2=asdf}}",
         "\n",
-        "{{mismatched]]\n",
-        "[[mismatched}}\n",
+        "{{mismatched]]",
+        "\n",
+        "[[mismatched}}",
+        "\n",
         "{extraterminated",
         "}}",
         "\n",
@@ -105,34 +261,4 @@ public class WikiTokenizerTest extends TestCase {
     assertEquals(Arrays.asList(expectedTokens), actualTokens);
   }
   
-  public void testWikiHeading() {
-    assertNull(WikiHeading.getHeading(""));
-    assertNull(WikiHeading.getHeading("="));
-    assertNull(WikiHeading.getHeading("=="));
-    assertNull(WikiHeading.getHeading("=a"));
-    assertNull(WikiHeading.getHeading("=a=="));
-    assertNull(WikiHeading.getHeading("===a=="));
-    assertNull(WikiHeading.getHeading("===a===="));
-    assertNull(WikiHeading.getHeading("a="));
-    assertEquals("a", WikiHeading.getHeading("=a=").name);
-    assertEquals(1, WikiHeading.getHeading("=a=").depth);
-    assertEquals("aa", WikiHeading.getHeading("==aa==").name);
-    assertEquals(2, WikiHeading.getHeading("==aa==").depth);
-  }
-
-  
-  public void testWikiFunction() {
-    assertNull(WikiFunction.getFunction(""));
-    assertNull(WikiFunction.getFunction("[[asdf]]"));
-    assertNull(WikiFunction.getFunction("asd [[asdf]]asdf "));
-    assertEquals("a", WikiFunction.getFunction("{{a}}").name);
-    assertEquals("a", WikiFunction.getFunction("{{a|b}}").name);
-    assertEquals("a", WikiFunction.getFunction("a{{a|b}}a").name);
-    assertEquals("a[[a]]", WikiFunction.getFunction("a{{a[[a]]|b}}a").name);
-    assertEquals("a", WikiFunction.getFunction("a{{a|b[[abc|def]]|[[fgh|jkl]]|qwer}}a").name);
-    assertEquals(Arrays.asList("b[[abc|d=f]]", "qwer", "[[fgh|jkl]]", "qwer"), WikiFunction.getFunction("a{{a|b[[abc|d=f]]|qwer|[[fgh|jkl]]|qwer}}a").args);
-    assertEquals("[[abc|def]]", WikiFunction.getFunction("a{{a|b=[[abc|def]]|qwer|[[fgh|jkl]]|qwer={{asdf}}}}a").namedArgs.get("b"));
-    assertEquals("{{asdf}}", WikiFunction.getFunction("a{{a|b=[[abc|def]]|qwer|[[fgh|jkl]]|qwer={{asdf}}}}a").namedArgs.get("qwer"));
-  }
-
 }

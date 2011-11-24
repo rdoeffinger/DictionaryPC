@@ -41,7 +41,7 @@ public class DictionaryBuilderTest extends TestCase {
     });
     
     // Check it once:
-    assertFilesEqual("testdata/wiktionary.it.golden", "testdata/wiktionary.it.test"); 
+    assertFilesEqual("testdata/wiktionary.it.golden2", "testdata/wiktionary.it.test"); 
     
     
     // Check it again.

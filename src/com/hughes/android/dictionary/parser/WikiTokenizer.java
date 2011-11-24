@@ -1,45 +1,195 @@
 package com.hughes.android.dictionary.parser;
 
 import java.util.ArrayList;
+import java.util.LinkedHashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public final class WikiTokenizer {
 
   //private static final Pattern wikiTokenEvent = Pattern.compile("($)", Pattern.MULTILINE);
-  private static final Pattern wikiTokenEvent = Pattern.compile("(\\{\\{|\\}\\}|\\[\\[|\\]\\]|<!--|''|$)", Pattern.MULTILINE);
+  private static final Pattern wikiTokenEvent = Pattern.compile("(" +
+  		"\\{\\{|\\}\\}|" +
+  		"\\[\\[|\\]\\]|" +
+  		"\\||" +  // Need the | because we might have to find unescaped pipes
+        "=|" +  // Need the = because we might have to find unescaped =
+  		"<!--|" +
+  		"''|" +
+  		"$)", Pattern.MULTILINE);
   private static final String listChars = "*#:;";
   
     
-    final String wikiText;
-    final Matcher matcher;
+  final String wikiText;
+  final Matcher matcher;
 
-    boolean justReturnedNewline = true;
-    int end = 0;
-    int start = -1;
+  boolean justReturnedNewline = true;
+  int lastLineStart = 0;
+  int end = 0;
+  int start = -1;
 
-    public String header;
-    public int headerDepth;
-    
-    final List<String> tokenStack = new ArrayList<String>();
-    
+  final List<String> errors = new ArrayList<String>();
+  final List<String> tokenStack = new ArrayList<String>();
+  
+
+  private String headingWikiText;
+  private int headingDepth;
+  private int listPrefixEnd;
+  private boolean isPlainText;
+  private boolean isMarkup;
+  private boolean isComment;
+  private boolean isFunction;
+  private boolean isWikiLink;
+  private int firstUnescapedPipePos;
+  
+  private int lastUnescapedPipePos;
+  private int lastUnescapedEqualsPos;
+  private final List<String> positionArgs = new ArrayList<String>();
+  private final Map<String,String> namedArgs = new LinkedHashMap<String,String>();
+  
+
   public WikiTokenizer(final String wikiText) {
     this.wikiText = wikiText;
     this.matcher = wikiTokenEvent.matcher(wikiText);
   }
     
   private void clear() {
-    header = null;
-    headerDepth = 0;
+    errors.clear();
     tokenStack.clear();
+
+    headingWikiText = null;
+    headingDepth = -1;
+    listPrefixEnd = -1;
+    isPlainText = false;
+    isMarkup = false;
+    isComment = false;
+    isFunction = false;
+    isWikiLink = false;
+    
+    firstUnescapedPipePos = -1;
+    lastUnescapedPipePos = -1;
+    lastUnescapedEqualsPos = -1;
+    positionArgs.clear();
+    namedArgs.clear();
+  }
+  
+  public boolean isNewline() {
+    return justReturnedNewline;
+  }
+  
+  public void returnToLineStart() {
+    end = start = lastLineStart;
+    justReturnedNewline = true;
+  }
+  
+  public boolean isHeading() {
+    return headingWikiText != null;
+  }
+  
+  public String headingWikiText() {
+    assert isHeading();
+    return headingWikiText;
+  }
+  
+  public int headingDepth() {
+    assert isHeading();
+    return headingDepth;
+  }
+  
+  public boolean isMarkup() {
+    return isMarkup;
   }
 
+  public boolean isComment() {
+    return isComment;
+  }
 
+  public boolean isListItem() {
+    return listPrefixEnd != -1;
+  }
+  
+  public String listItemPrefix() {
+    assert isListItem();
+    return wikiText.substring(start, listPrefixEnd);
+  }
+
+  public String listItemWikiText() {
+    assert isListItem();
+    return wikiText.substring(listPrefixEnd, end);
+  }
+  
+  public boolean isFunction() {
+    return isFunction;
+  }
+
+  public String functionName() {
+    assert isFunction();
+    // "{{.."
+    if (firstUnescapedPipePos != -1) {
+      return wikiText.substring(start + 2, firstUnescapedPipePos);
+    }
+    return wikiText.substring(start + 2, end - 2);
+  }
+  
+  public List<String> functionPositionArgs() {
+    return positionArgs;
+  }
+
+  public Map<String, String> functionNamedArgs() {
+    return namedArgs;
+  }
+
+  public boolean isPlainText() {
+    return isPlainText;
+  }
+
+  public boolean isWikiLink() {
+    return isWikiLink;
+  }
+
+  public String wikiLinkText() {
+    assert isWikiLink();
+    // "[[.."
+    if (lastUnescapedPipePos != -1) {
+      return wikiText.substring(lastUnescapedPipePos + 1, end - 2);
+    }
+    return wikiText.substring(start + 2, end - 2);
+  }
+
+  public String wikiLinkDest() {
+    assert isWikiLink();
+    // "[[.."
+    if (firstUnescapedPipePos != -1) {
+      return wikiText.substring(start + 2, firstUnescapedPipePos);
+    }
+    return null;
+  }
+  
+  public boolean remainderStartsWith(final String prefix) {
+    return wikiText.startsWith(prefix, start);
+  }
+  
+  public void nextLine() {
+    final int oldStart = start;
+    while(nextToken() != null && !isNewline()) {}
+    if (isNewline()) {
+      --end;
+    }
+    start = oldStart;
+  }
+
+  
   public WikiTokenizer nextToken() {
     this.clear();
     
     start = end;
+    
+    if (justReturnedNewline) {
+      lastLineStart = start;
+    }
+    
+    try {
     
     final int len = wikiText.length();
     if (start >= len) {
@@ -54,44 +204,65 @@ public final class WikiTokenizer {
       return this;
     }
     
-    if (justReturnedNewline) {
+    if (justReturnedNewline) {    
+      justReturnedNewline = false;
+
       final char firstChar = wikiText.charAt(end);
       if (firstChar == '=') {
         final int headerStart = end;
+        // Skip ===...
         while (++end < len && wikiText.charAt(end) == '=') {}
         final int headerTitleStart = end;
-        while (++end < len && wikiText.charAt(end) != '=' && wikiText.charAt(end) != '\n') {}
+        headingDepth = headerTitleStart - headerStart;
+        // Skip non-=...
+        if (end < len) {
+          final int nextNewline = safeIndexOf(wikiText, end, "\n", "\n");
+          final int closingEquals = escapedFindEnd(end, "=");
+          if (wikiText.charAt(closingEquals - 1) == '=') {
+            end = closingEquals - 1;
+          } else {
+            end = nextNewline;
+          }
+        }
         final int headerTitleEnd = end;
-        while (++end < len && wikiText.charAt(end) == '=') {}
+        headingWikiText = wikiText.substring(headerTitleStart, headerTitleEnd);
+        // Skip ===...
+        while (end < len && ++end < len && wikiText.charAt(end) == '=') {}
         final int headerEnd = end;
-        
+        if (headerEnd - headerTitleEnd != headingDepth) {
+          errors.add("Mismatched header depth: " + token());
+        }
         return this;
       }
       if (listChars.indexOf(firstChar) != -1) {
         while (++end < len && listChars.indexOf(wikiText.charAt(end)) != -1) {}
-        end = escapedFind(start, "\n");
+        listPrefixEnd = end;
+        end = escapedFindEnd(start, "\n");
         return this;
       }
     }
-    justReturnedNewline = false;
 
     if (wikiText.startsWith("'''", start)) {
+      isMarkup = true;
       end = start + 3;
       return this;
     }
     
     if (wikiText.startsWith("''", start)) {
+      isMarkup = true;
       end = start + 2;
       return this;
     }
 
     if (wikiText.startsWith("[[", start)) {
-      end = escapedFind(start + 2, "]]");
+      end = escapedFindEnd(start + 2, "]]");
+      isWikiLink = errors.isEmpty();
       return this;
     }
 
-    if (wikiText.startsWith("{{", start)) {
-      end = escapedFind(start + 2, "}}");
+    if (wikiText.startsWith("{{", start)) {      
+      end = escapedFindEnd(start + 2, "}}");
+      isFunction = errors.isEmpty();
       return this;
     }
 
@@ -106,21 +277,29 @@ public final class WikiTokenizer {
     }
 
     if (wikiText.startsWith("<!--", start)) {
+      isComment = true;
       end = safeIndexOf(wikiText, start, "-->", "\n");
       return this;
     }
 
     if (wikiText.startsWith("}}", start) || wikiText.startsWith("]]", start)) {
-      System.err.println("Close without open!");
+      errors.add("Close without open!");
       end += 2;
+      return this;
+    }
+
+    if (wikiText.charAt(start) == '|' || wikiText.charAt(start) == '=') {
+      isPlainText = true;
+      ++end;
       return this;
     }
 
     
     if (this.matcher.find(start)) {
       end = this.matcher.start(1);
+      isPlainText = true;
       if (end == start) {
-        System.err.println(this.matcher.group());
+        errors.add("Empty group: " + this.matcher.group());
         assert false;
       }
       return this;
@@ -129,14 +308,24 @@ public final class WikiTokenizer {
     end = wikiText.length();
     return this;
     
+    } finally {
+      if (!errors.isEmpty()) {
+        System.err.println("Errors: " + errors + ", token=" + token());
+      }
+    }
+    
   }
   
   public String token() {
-    return wikiText.substring(start, end);
+    final String token = wikiText.substring(start, end);
+    assert token.equals("\n") || !token.endsWith("\n") : token;
+    return token;
   }
   
-  private int escapedFind(final int start, final String toFind) {
+  private int escapedFindEnd(final int start, final String toFind) {
     assert tokenStack.isEmpty();
+    
+    final boolean insideFunction = toFind.equals("}}");
     
     int end = start;
     while (end < wikiText.length()) {
@@ -144,6 +333,7 @@ public final class WikiTokenizer {
         final String matchText = matcher.group();
         final int matchStart = matcher.start();
         
+        assert matcher.end() > end || matchText.length() == 0: "Group=" + matcher.group();
         if (matchText.length() == 0) {
           assert matchStart == wikiText.length() || wikiText.charAt(matchStart) == '\n';
           if (tokenStack.isEmpty() && toFind.equals("\n")) {
@@ -152,6 +342,9 @@ public final class WikiTokenizer {
           ++end;
         } else if (tokenStack.isEmpty() && matchText.equals(toFind)) {
           // The normal return....
+          if (insideFunction) {
+            addFunctionArg(insideFunction, matchStart);
+          }
           return matcher.end();
         } else if (matchText.equals("[[") || matchText.equals("{{")) {
           tokenStack.add(matchText);
@@ -159,48 +352,95 @@ public final class WikiTokenizer {
           if (tokenStack.size() > 0) {
             final String removed = tokenStack.remove(tokenStack.size() - 1);
             if (removed.equals("{{") && !matcher.group().equals("}}")) {
-              System.err.println("Unmatched {{ error: " + wikiText.substring(start));
+              errors.add("Unmatched {{ error: " + wikiText.substring(start));
               return safeIndexOf(wikiText, start, "\n", "\n");
             } else if (removed.equals("[[") && !matcher.group().equals("]]")) {
-              System.err.println("Unmatched [[ error: " + wikiText.substring(start));
+              errors.add("Unmatched [[ error: " + wikiText.substring(start));
               return safeIndexOf(wikiText, start, "\n", "\n");
             }
           } else {
-            System.err.println("Pop too many error: " + wikiText.substring(start).replaceAll("\n", "\\n"));
+            errors.add("Pop too many error: " + wikiText.substring(start).replaceAll("\n", "\\\\n"));
             // If we were looking for a newline
             return safeIndexOf(wikiText, start, "\n", "\n");
           }
+        } else if (matchText.equals("|")) { 
+          if (tokenStack.isEmpty()) {
+            addFunctionArg(insideFunction, matchStart);
+          }
+        } else if (matchText.equals("=")) {
+          if (tokenStack.isEmpty()) {
+            lastUnescapedEqualsPos = matchStart;
+          }
+          // Do nothing.  These can match spuriously, and if it's not the thing
+          // we're looking for, keep on going.
         } else if (matchText.equals("<!--")) {
           end = wikiText.indexOf("-->");
           if (end == -1) {
-            System.err.println("Unmatched <!-- error: " + wikiText.substring(start));
+            errors.add("Unmatched <!-- error: " + wikiText.substring(start));
+            return safeIndexOf(wikiText, start, "\n", "\n");
           }
+        } else if (matchText.equals("''")) {
+          // Don't care.
         } else {
           assert false : "Match text='" + matchText + "'";
           throw new IllegalStateException();
         }
       } else {
         // Hmmm, we didn't find the closing symbol we were looking for...
-        System.err.println("Couldn't find: " + toFind + ", "+ wikiText.substring(start));
+        errors.add("Couldn't find: " + toFind + ", "+ wikiText.substring(start));
         return safeIndexOf(wikiText, start, "\n", "\n");
       }
       
-      // Inside the while loop.
+      // Inside the while loop.  Just go forward.
       end = Math.max(end, matcher.end());
     }
     return end;
   }
 
+  private void addFunctionArg(final boolean insideFunction, final int matchStart) {
+    if (firstUnescapedPipePos == -1) {
+      firstUnescapedPipePos = lastUnescapedPipePos = matchStart;
+    } else if (insideFunction) {
+      if (lastUnescapedEqualsPos > lastUnescapedPipePos) {
+        final String key = wikiText.substring(lastUnescapedPipePos + 1, lastUnescapedEqualsPos);
+        final String value = wikiText.substring(lastUnescapedEqualsPos + 1, matchStart);
+        namedArgs.put(key, value);
+      } else {
+        final String value = wikiText.substring(lastUnescapedPipePos + 1, matchStart);
+        positionArgs.add(value);
+      }
+    }
+    lastUnescapedPipePos = matchStart;
+  }
+
   static int safeIndexOf(final String s, final int start, final String target, final String backup) {
     int close = s.indexOf(target, start);
     if (close != -1) {
-      return close + target.length();
+      // Don't step over a \n.
+      return close + (target.equals("\n") ? 0 : target.length());
     }
     close = s.indexOf(backup, start);
     if (close != -1) {
-      return close + backup.length();
+      return close + (backup.equals("\n") ? 0 : backup.length());
     }
     return s.length();
+  }
+
+  public static String toPlainText(String sense) {
+    final WikiTokenizer wikiTokenizer = new WikiTokenizer(sense);
+    final StringBuilder builder = new StringBuilder();
+    while (wikiTokenizer.nextToken() != null) {
+      if (wikiTokenizer.isPlainText()) {
+        builder.append(wikiTokenizer.token());
+      } else if (wikiTokenizer.isWikiLink()) {
+        builder.append(wikiTokenizer.wikiLinkText());
+      } else if (wikiTokenizer.isNewline()) {
+        builder.append("\n");
+      } else if (wikiTokenizer.isFunction()) {
+        builder.append(wikiTokenizer.token());
+      }
+    }
+    return builder.toString();
   }
 
 }
