@@ -535,7 +535,13 @@ public class EnWiktionaryXmlParser {
   }
 
 
-  private void putIfMissing(final Map<String, String> namedArgs, final String key,
+  private void itConj(List<String> args, Map<String, String> namedArgs) {
+    // TODO Auto-generated method stub
+    
+  }
+
+
+  private static void putIfMissing(final Map<String, String> namedArgs, final String key,
       final String value) {
     final String oldValue = namedArgs.get(key);
     if (oldValue == null || oldValue.length() == 0) {
@@ -545,7 +551,7 @@ public class EnWiktionaryXmlParser {
   
   // TODO: check how ='' and =| are manifested....
   // TODO: get this right in -are
-  private void putOrNullify(final Map<String, String> namedArgs, final String key,
+  private static void putOrNullify(final Map<String, String> namedArgs, final String key,
       final String value) {
     final String oldValue = namedArgs.get(key);
     if (oldValue == null/* || oldValue.length() == 0*/) {
