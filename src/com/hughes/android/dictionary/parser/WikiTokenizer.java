@@ -64,10 +64,15 @@ public final class WikiTokenizer {
   
 
   public WikiTokenizer(final String wikiText) {
+    this(wikiText, true);
+  }
+
+  public WikiTokenizer(final String wikiText, final boolean isNewline) {
     this.wikiText = wikiText;
     this.matcher = wikiTokenEvent.matcher(wikiText);
+    justReturnedNewline = false;
   }
-    
+
   private void clear() {
     errors.clear();
     tokenStack.clear();
@@ -211,7 +216,7 @@ public final class WikiTokenizer {
     }
     
     // Eat a newline if we're looking at one:
-    final boolean atNewline = wikiText.charAt(end) == '\n';
+    final boolean atNewline = wikiText.charAt(end) == '\n' || wikiText.charAt(end) == '\u2028';
     if (atNewline) {
       justReturnedNewline = true;
       ++end;

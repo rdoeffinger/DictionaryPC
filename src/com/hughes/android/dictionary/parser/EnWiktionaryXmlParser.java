@@ -190,7 +190,12 @@ public class EnWiktionaryXmlParser {
           sense = null;
         } else if (functionName.equals("trans-mid")) {
         } else if (functionName.equals("trans-see")) {
+          // TODO
+        } else if (functionName.startsWith("picdic")) {
         } else if (functionName.startsWith("checktrans")) {
+        } else if (functionName.startsWith("ttbc")) {
+          wikiTokenizer.nextLine();
+          // TODO: would be great to handle
           //TODO: Check this: done = true;
         } else {
           System.err.println("Unexpected translation wikifunction: " + wikiTokenizer.token() + ", title=" + title);
@@ -212,7 +217,11 @@ public class EnWiktionaryXmlParser {
         }
         
         String rest = line.substring(colonIndex + 1).trim();
-        doTranslationLine(line, title, sense, rest);
+        if (rest.length() > 0) {
+          doTranslationLine(line, title, sense, rest);
+        } else {
+          // TODO: do lines that are like Greek:
+        }
         
       } else if (wikiTokenizer.remainderStartsWith("''See''")) {
         wikiTokenizer.nextLine();
@@ -244,9 +253,9 @@ public class EnWiktionaryXmlParser {
     // Good chance we'll actually file this one...
     final PairEntry pairEntry = new PairEntry();
     final IndexedEntry indexedEntry = new IndexedEntry(pairEntry);
-
+    
     final StringBuilder otherText = new StringBuilder();
-    final WikiTokenizer wikiTokenizer = new WikiTokenizer(rest);
+    final WikiTokenizer wikiTokenizer = new WikiTokenizer(rest, false);
     while (wikiTokenizer.nextToken() != null) {
       
       if (wikiTokenizer.isPlainText()) {
@@ -264,13 +273,13 @@ public class EnWiktionaryXmlParser {
         final List<String> args = wikiTokenizer.functionPositionArgs();
         final Map<String,String> namedArgs = wikiTokenizer.functionNamedArgs();
         
-        if (functionName.equals("t") || functionName.equals("t+") || functionName.equals("t-") || functionName.equals("tø")) {
+        if (functionName.equals("t") || functionName.equals("t+") || functionName.equals("t-") || functionName.equals("tø") || functionName.equals("apdx-t")) {
           if (args.size() < 2) {
             System.err.println("{{t}} with too few args: " + line + ", title=" + title);
             continue;
           }
           final String langCode = get(args, 0);
-          if (this.langCodePattern.matcher(langCode).matches()) {
+          //if (this.langCodePattern.matcher(langCode).matches()) {
             final String word = get(args, 1);
             final String gender = get(args, 2);
             final String transliteration = namedArgs.get("tr");
@@ -286,7 +295,7 @@ public class EnWiktionaryXmlParser {
               otherText.append(String.format(" (tr. %s)", transliteration));
               otherIndexBuilder.addEntryWithString(indexedEntry, transliteration, EntryTypeName.WIKTIONARY_TRANSLITERATION);
             }
-          }
+          //}
         } else if (functionName.equals("qualifier")) {
           String qualifier = args.get(0);
           if (!namedArgs.isEmpty() || args.size() > 1) {
@@ -339,7 +348,10 @@ public class EnWiktionaryXmlParser {
       } else {
         System.err.println("Bad translation token: " + wikiTokenizer.token());
       }
-      
+    }
+    if (otherText.length() == 0) {
+      System.err.println("Empty otherText: " + line);
+      return;
     }
     
     StringBuilder englishText = new StringBuilder();
@@ -356,7 +368,9 @@ public class EnWiktionaryXmlParser {
     
     final Pair pair = new Pair(trim(englishText.toString()), trim(otherText.toString()), swap);
     pairEntry.pairs.add(pair);
-    assert (pairsAdded.add(pair.toString()));
+    if (!pairsAdded.add(pair.toString())) {
+      System.err.println("Duplicate pair: " + pair.toString());
+    }
     if (pair.toString().equals("libero {m} :: free (adjective)")) {
       System.out.println();
     }
@@ -610,7 +624,7 @@ static final Pattern UNINDEXED_WIKI_TEXT = Pattern.compile(
 
     final String mainLine = listLines.get(0);
     
-    final WikiTokenizer englishTokenizer = new WikiTokenizer(mainLine);
+    final WikiTokenizer englishTokenizer = new WikiTokenizer(mainLine, false);
     while (englishTokenizer.nextToken() != null) {
       // TODO handle form of....
       if (englishTokenizer.isPlainText()) {

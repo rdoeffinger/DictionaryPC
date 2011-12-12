@@ -42,7 +42,10 @@ public class DictionaryBuilderMain extends TestCase {
         //new Lang("^German$", "DE"),
     };
     Lang[] langs2 = new Lang[] { 
-        new Lang("^Italian$", "IT"),
+//        new Lang("^.*Greek.*$", "EL"),
+        new Lang("^.*Spanish.*$", "ES"),
+        new Lang("^.*Italian.*$", "IT"),
+        /*
         new Lang("^German$", "DE"),
         new Lang("^Afrikaans$", "AF"),
         new Lang("^Armenian$", "HY"),
@@ -54,7 +57,6 @@ public class DictionaryBuilderMain extends TestCase {
         new Lang("^English$", "EN"),
         new Lang("^Finnish$", "FI"),
         new Lang("^French$", "FR"),
-        new Lang("^Greek$", "EL"),
         new Lang("^Hebrew$", "HE"),
         new Lang("^Hindi$", "HI"),
         new Lang("^Icelandic$", "IS"),
@@ -74,7 +76,6 @@ public class DictionaryBuilderMain extends TestCase {
         new Lang("^Sanskrit$", "SA"),
         new Lang("^Serbian$", "SR"),
         new Lang("^Somali$", "SO"),
-        new Lang("^Spanish$", "ES"),
         new Lang("^Sudanese$", "SU"),
         new Lang("^Swedish$", "SV"),
         new Lang("^Tajik$", "TG"),
@@ -85,7 +86,7 @@ public class DictionaryBuilderMain extends TestCase {
         new Lang("^Vietnamese$", "VI"),
         new Lang("^Welsh$", "CY"),
         new Lang("^Yiddish$", "YI"),
-        new Lang("^Zulu$", "ZU"),
+        new Lang("^Zulu$", "ZU"),*/
     };
     
     for (final Lang lang1 : langs1) {
@@ -95,12 +96,16 @@ public class DictionaryBuilderMain extends TestCase {
         }
         
         int enIndex = -1;
+        Lang nonEnglish = null;
         if (lang2.code.equals("EN")) {
           enIndex = 2;
+          nonEnglish = lang1;
         }
         if (lang1.code.equals("EN")) {
           enIndex = 1;
+          nonEnglish = lang2;
         }
+        assert nonEnglish != null;
 
         final String dictFile = String.format("dictOutputs/%s-%s_enwiktionary.quickdic", lang1.code, lang2.code);
         System.out.println("building dictFile: " + dictFile);
@@ -110,12 +115,13 @@ public class DictionaryBuilderMain extends TestCase {
             String.format("--lang2=%s", lang2.code),
             String.format("--dictInfo=(EN)Wikitionary-based %s-%s dictionary", lang1.code, lang2.code),
 
-            "--input1=dictInputs/enwiktionary-20110205-pages-articles.xml",
-            "--input1Name=enwiktionary",
-            "--input1Format=enwiktionary",
-            String.format("--input1TranslationPattern1=%s", lang1.nameRegex),
-            String.format("--input1TranslationPattern2=%s", lang2.nameRegex),
-            String.format("--input1EnIndex=%d", enIndex),
+            "--input3=wikiSplit/english.data",
+            "--input3Name=enwiktionary.english",
+            "--input3Format=enwiktionary",
+            "--input3LangPattern=" + nonEnglish.nameRegex,
+            "--input3LangCodePattern=" + (enIndex == 1 ? lang2.code : lang1.code).toLowerCase(),
+            "--input3EnIndex=" + enIndex,
+
         });
         
         // Print the entries for diffing.
