@@ -435,14 +435,17 @@ public class EnWiktionaryXmlParser {
   }
 
 
+  int foreignCount = 0;
   private void doForeignPartOfSpeech(String title, final String posHeading, final int posDepth, WikiTokenizer wikiTokenizer) {
-    LOG.info("***" + title + ", pos=" + posHeading);
+    if (++foreignCount % 1000 == 0) {
+      LOG.info("***" + title + ", pos=" + posHeading + ", foreignCount=" + foreignCount);
+    }
     if (title.equals("moro")) {
       System.out.println();
     }
     
     final StringBuilder foreignBuilder = new StringBuilder();
-    Collection<String> wordForms = Collections.emptyList();
+    final Collection<String> wordForms = new ArrayList<String>();
     final List<ListSection> listSections = new ArrayList<ListSection>();
     
     try {
@@ -495,13 +498,13 @@ public class EnWiktionaryXmlParser {
           //foreignBuilder.append(title);
         }
       } else if (name.equals("it-noun")) {
-          assert wordForms.isEmpty();
           final String base = get(args, 0);
           final String gender = get(args, 1);
           final String singular = base + get(args, 2);
           final String plural = base + get(args, 3);
-          foreignBuilder.append(String.format("%s {%s}, %s {pl}", singular, gender, plural, plural));
-          wordForms = Arrays.asList(singular, plural);
+          foreignBuilder.append(String.format(" %s {%s}, %s {pl}", singular, gender, plural, plural));
+          wordForms.add(singular);
+          wordForms.add(plural);
         } else if (name.equals("it-proper noun")) {
           foreignBuilder.append(wikiTokenizer.token());
         } else if (name.equals("it-adj")) {
@@ -599,9 +602,11 @@ public class EnWiktionaryXmlParser {
           } else if (link.contains("#") && this.langPattern.matcher(link).find()) {
             englishBuilder.append(text);
             otherIndexBuilder.addEntryWithString(indexedEntry, text, EntryTypeName.WIKTIONARY_ENGLISH_DEF_OTHER_LANG);
+          } else if (link.equals("plural")) {
+            englishBuilder.append(englishTokenizer.wikiLinkText());
           } else {
-            LOG.warning("Special link: " + englishTokenizer.token());
-            // TODO: something here...
+            //LOG.warning("Special link: " + englishTokenizer.token());
+            englishBuilder.append(englishTokenizer.wikiLinkText());
           }
         } else {
           // link == null
@@ -612,14 +617,15 @@ public class EnWiktionaryXmlParser {
         }
       } else if (englishTokenizer.isFunction()) {
         final String name = englishTokenizer.functionName();
-        if (name.contains(" conjugation of ") || 
-            name.contains(" form of ") || 
-            name.contains(" feminine of ") || 
-            name.contains(" plural of ")) {
+        if (name.contains("conjugation of ") || 
+            name.contains("form of ") || 
+            name.contains("feminine of ") || 
+            name.contains("plural of ")) {
           // Ignore these in the index, they're really annoying....
           englishBuilder.append(englishTokenizer.token());
         } else {
-          LOG.warning("Unexpected function: " + englishTokenizer.token());
+          englishBuilder.append(englishTokenizer.token());
+//          LOG.warning("Unexpected function: " + englishTokenizer.token());
         }
       } else {
         if (englishTokenizer.isComment() || englishTokenizer.isMarkup()) {

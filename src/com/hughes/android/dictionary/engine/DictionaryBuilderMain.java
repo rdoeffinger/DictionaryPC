@@ -25,12 +25,17 @@ import junit.framework.TestCase;
 
 public class DictionaryBuilderMain extends TestCase {
   
+  static final String INPUTS = "../DictionaryData/inputs/";
+  static final String OUTPUTS = "../DictionaryData/outputs/";
+  
   static class Lang {
     final String nameRegex;
-    final String code;
-    public Lang(String nameRegex, String code) {
+    final String isoCode;
+    final String wikiSplit;
+    public Lang(String nameRegex, String code, final String wikiSplit) {
       this.nameRegex = nameRegex;
-      this.code = code;
+      this.isoCode = code;
+      this.wikiSplit = wikiSplit;
     }
   }
   
@@ -38,13 +43,12 @@ public class DictionaryBuilderMain extends TestCase {
   public static void main(final String[] args) throws Exception {
 
     Lang[] langs1 = new Lang[] { 
-        new Lang("^English$", "EN"),
-        //new Lang("^German$", "DE"),
+        new Lang("^English$", "EN", null),
     };
     Lang[] langs2 = new Lang[] { 
-        new Lang("^.*Italian.*$", "IT"),
-        new Lang("^.*Greek.*$", "EL"),
-        new Lang("^.*Spanish.*$", "ES"),
+        new Lang("^.*Italian.*$", "IT", "italian.data"),
+        new Lang("^.*Greek.*$", "EL", "greek.data"),
+        new Lang("^.*Spanish.*$", "ES", "spanish.data"),
         /*
         new Lang("^German$", "DE"),
         new Lang("^Afrikaans$", "AF"),
@@ -97,29 +101,36 @@ public class DictionaryBuilderMain extends TestCase {
         
         int enIndex = -1;
         Lang nonEnglish = null;
-        if (lang2.code.equals("EN")) {
+        if (lang2.isoCode.equals("EN")) {
           enIndex = 2;
           nonEnglish = lang1;
         }
-        if (lang1.code.equals("EN")) {
+        if (lang1.isoCode.equals("EN")) {
           enIndex = 1;
           nonEnglish = lang2;
         }
         assert nonEnglish != null;
 
-        final String dictFile = String.format("dictOutputs/%s-%s_enwiktionary.quickdic", lang1.code, lang2.code);
+        final String dictFile = String.format(OUTPUTS + "/%s-%s_enwiktionary.quickdic", lang1.isoCode, lang2.isoCode);
         System.out.println("building dictFile: " + dictFile);
         DictionaryBuilder.main(new String[] {
             String.format("--dictOut=%s", dictFile),
-            String.format("--lang1=%s", lang1.code),
-            String.format("--lang2=%s", lang2.code),
-            String.format("--dictInfo=(EN)Wikitionary-based %s-%s dictionary", lang1.code, lang2.code),
+            String.format("--lang1=%s", lang1.isoCode),
+            String.format("--lang2=%s", lang2.isoCode),
+            String.format("--dictInfo=(EN)Wikitionary-based %s-%s dictionary", lang1.isoCode, lang2.isoCode),
 
-            "--input3=wikiSplit/english.data",
+            "--input2=" + INPUTS + "wikiSplit/" + nonEnglish.wikiSplit,
+            "--input2Name=enwiktionary." + nonEnglish.wikiSplit,
+            "--input2Format=enwiktionary",
+            "--input2LangPattern=" + nonEnglish.nameRegex,
+            "--input2LangCodePattern=" + nonEnglish.isoCode.toLowerCase(),
+            "--input2EnIndex=" + enIndex,
+
+            "--input3=" + INPUTS + "wikiSplit/english.data",
             "--input3Name=enwiktionary.english",
             "--input3Format=enwiktionary",
             "--input3LangPattern=" + nonEnglish.nameRegex,
-            "--input3LangCodePattern=" + (enIndex == 1 ? lang2.code : lang1.code).toLowerCase(),
+            "--input3LangCodePattern=" + (enIndex == 1 ? lang2.isoCode : lang1.isoCode).toLowerCase(),
             "--input3EnIndex=" + enIndex,
 
         });
@@ -127,7 +138,7 @@ public class DictionaryBuilderMain extends TestCase {
         // Print the entries for diffing.
         final RandomAccessFile raf = new RandomAccessFile(new File(dictFile), "r");
         final Dictionary dict = new Dictionary(raf);
-        final PrintWriter textOut = new PrintWriter(new File(dictFile + ".txt"));
+        final PrintWriter textOut = new PrintWriter(new File(dictFile + ".text"));
         final List<PairEntry> sorted = new ArrayList<PairEntry>(dict.pairEntries);
         Collections.sort(sorted);
         for (final PairEntry pairEntry : sorted) {
@@ -140,40 +151,34 @@ public class DictionaryBuilderMain extends TestCase {
     }  // langs1
 
     DictionaryBuilder.main(new String[] {
-        "--dictOut=dictOutputs/DE-EN_chemnitz.quickdic",
+        "--dictOut=" + OUTPUTS + "DE-EN_chemnitz.quickdic",
         "--lang1=DE",
         "--lang2=EN",
-        "--dictInfo=@dictInputs/de-en_chemnitz.info",
+        "--dictInfo=@" + INPUTS + "de-en_chemnitz.info",
 
-        "--input1=dictInputs/de-en_chemnitz.txt",
+        "--input1=" + INPUTS + "de-en_chemnitz.txt",
         "--input1Name=chemnitz",
         "--input1Charset=UTF8",
         "--input1Format=chemnitz",
     });
 
     DictionaryBuilder.main(new String[] {
-        "--dictOut=dictOutputs/de-en_all.quickdic",
+        "--dictOut=" + OUTPUTS + "de-en_all.quickdic",
         "--lang1=DE",
         "--lang2=EN",
-        "--dictInfo=@dictInputs/de-en_all.info",
+        "--dictInfo=@" + INPUTS + "de-en_all.info",
 
-        "--input2=dictInputs/de-en_chemnitz.txt",
+        "--input2=" + INPUTS + "de-en_chemnitz.txt",
         "--input2Name=dictcc",
         "--input2Charset=UTF8",
         "--input2Format=chemnitz",
 
-        "--input3=dictInputs/de-en_dictcc.txt",
+        "--input3=" + INPUTS + "/copyrighted/de-en_dictcc.txt",
         "--input3Name=dictcc",
         "--input3Charset=UTF8",
         "--input3Format=dictcc",
         
-        "--input1=dictInputs/enwiktionary-20101015-pages-articles",
-        "--input1Name=enwiktionary",
-        "--input1Format=enwiktionary",
-        "--input1TranslationPattern1=^German$",
-        "--input1TranslationPattern2=^English$",
-        "--input1EnIndex=2",
-
+        // TODO: wiktionary
     });
 
   }
