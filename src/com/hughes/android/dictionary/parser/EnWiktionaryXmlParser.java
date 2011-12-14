@@ -28,6 +28,7 @@ import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
+import java.util.logging.Logger;
 import java.util.regex.Pattern;
 
 import com.hughes.android.dictionary.engine.EntryTypeName;
@@ -37,6 +38,8 @@ import com.hughes.android.dictionary.engine.PairEntry;
 import com.hughes.android.dictionary.engine.PairEntry.Pair;
 
 public class EnWiktionaryXmlParser {
+  
+  static final Logger LOG = Logger.getLogger(EnWiktionaryXmlParser.class.getName());
   
   // TODO: look for {{ and [[ and <adf> <!-- in output.
   // TODO: process {{ttbc}} lines
@@ -94,7 +97,7 @@ public class EnWiktionaryXmlParser {
 
       ++pageCount;
       if (pageCount % 1000 == 0) {
-        System.out.println("pageCount=" + pageCount);
+        LOG.info("pageCount=" + pageCount);
       }
     }
   }
@@ -184,7 +187,7 @@ public class EnWiktionaryXmlParser {
             sense = positionArgs.get(0);
             // TODO: could emphasize words in [[brackets]] inside sense.
             sense = WikiTokenizer.toPlainText(sense);
-            //System.out.println("Sense: " + sense);
+            //LOG.info("Sense: " + sense);
           }
         } else if (functionName.equals("trans-bottom")) {
           sense = null;
@@ -198,7 +201,7 @@ public class EnWiktionaryXmlParser {
           // TODO: would be great to handle
           //TODO: Check this: done = true;
         } else {
-          System.err.println("Unexpected translation wikifunction: " + wikiTokenizer.token() + ", title=" + title);
+          LOG.warning("Unexpected translation wikifunction: " + wikiTokenizer.token() + ", title=" + title);
         }
       } else if (wikiTokenizer.isListItem() && wikiTokenizer.listItemPrefix().startsWith("*")) {
         final String line = wikiTokenizer.listItemWikiText();
@@ -225,20 +228,20 @@ public class EnWiktionaryXmlParser {
         
       } else if (wikiTokenizer.remainderStartsWith("''See''")) {
         wikiTokenizer.nextLine();
-        System.out.println("Skipping line: " + wikiTokenizer.token());
+        LOG.fine("Skipping line: " + wikiTokenizer.token());
       } else if (wikiTokenizer.isWikiLink()) {
         final String wikiLink = wikiTokenizer.wikiLinkText();
         if (wikiLink.contains(":") && wikiLink.contains(title)) {
         } else if (wikiLink.contains("Category:")) {
         } else  {
-          System.err.println("Unexpected wikiLink: " + wikiTokenizer.token() + ", title=" + title);
+          LOG.warning("Unexpected wikiLink: " + wikiTokenizer.token() + ", title=" + title);
         }
       } else if (wikiTokenizer.isNewline() || wikiTokenizer.isMarkup() || wikiTokenizer.isComment()) {
       } else {
         final String token = wikiTokenizer.token();
         if (token.equals("----")) { 
         } else {
-          System.err.println("Unexpected translation token: " + wikiTokenizer.token() + ", title=" + title);
+          LOG.warning("Unexpected translation token: " + wikiTokenizer.token() + ", title=" + title);
         }
       }
       
@@ -275,7 +278,7 @@ public class EnWiktionaryXmlParser {
         
         if (functionName.equals("t") || functionName.equals("t+") || functionName.equals("t-") || functionName.equals("tø") || functionName.equals("apdx-t")) {
           if (args.size() < 2) {
-            System.err.println("{{t}} with too few args: " + line + ", title=" + title);
+            LOG.warning("{{t}} with too few args: " + line + ", title=" + title);
             continue;
           }
           final String langCode = get(args, 0);
@@ -299,7 +302,7 @@ public class EnWiktionaryXmlParser {
         } else if (functionName.equals("qualifier")) {
           String qualifier = args.get(0);
           if (!namedArgs.isEmpty() || args.size() > 1) {
-            System.err.println("weird qualifier: " + line);
+            LOG.warning("weird qualifier: " + line);
           }
           otherText.append("(").append(qualifier).append(")");
         } else if (encodings.contains(functionName)) {
@@ -338,7 +341,7 @@ public class EnWiktionaryXmlParser {
         } else if (args.isEmpty() && namedArgs.isEmpty()) {
           otherText.append("{UNK. FUNC.: ").append(functionName).append("}");
         } else {
-          System.err.println("Unexpected t+- wikifunction: " + line + ", title=" + title);
+          LOG.warning("Unexpected t+- wikifunction: " + line + ", title=" + title);
         }
         
       } else if (wikiTokenizer.isNewline()) {
@@ -346,11 +349,11 @@ public class EnWiktionaryXmlParser {
       } else if (wikiTokenizer.isComment()) {
       } else if (wikiTokenizer.isMarkup()) {
       } else {
-        System.err.println("Bad translation token: " + wikiTokenizer.token());
+        LOG.warning("Bad translation token: " + wikiTokenizer.token());
       }
     }
     if (otherText.length() == 0) {
-      System.err.println("Empty otherText: " + line);
+      LOG.warning("Empty otherText: " + line);
       return;
     }
     
@@ -369,7 +372,7 @@ public class EnWiktionaryXmlParser {
     final Pair pair = new Pair(trim(englishText.toString()), trim(otherText.toString()), swap);
     pairEntry.pairs.add(pair);
     if (!pairsAdded.add(pair.toString())) {
-      System.err.println("Duplicate pair: " + pair.toString());
+      LOG.warning("Duplicate pair: " + pair.toString());
     }
     if (pair.toString().equals("libero {m} :: free (adjective)")) {
       System.out.println();
@@ -393,7 +396,7 @@ public class EnWiktionaryXmlParser {
       if (wikiTokenizer.isHeading()) {
         final String headingName = wikiTokenizer.headingWikiText();
         if (headingName.equals("Translations")) {
-          System.err.println("Translations not in English section: " + title);
+          LOG.warning("Translations not in English section: " + title);
         } else if (headingName.equals("Pronunciation")) {
           //doPronunciation(wikiLineReader);
         } else if (partOfSpeechHeader.matcher(headingName).matches()) {
@@ -406,8 +409,7 @@ public class EnWiktionaryXmlParser {
 
 
   private void doPartOfSpeech(String title, final String posHeading, final int posDepth, WikiTokenizer wikiTokenizer) {
-    System.out.println("***" + title);
-    System.out.println(posHeading);
+    LOG.info("***" + title + ", pos=" + posHeading);
     //final StringBuilder foreignBuilder = new StringBuilder();
     
     String side = null;
@@ -464,11 +466,11 @@ public class EnWiktionaryXmlParser {
           } else if (name.equals("it-conj-ere")) {
           } else if (name.equals("it-conj-ire")) {
           } else {
-            System.err.println("Unknown conjugation: " + wikiTokenizer.token());
+            LOG.warning("Unknown conjugation: " + wikiTokenizer.token());
           }
           
         } else {
-          System.err.println("Unknown function: " + wikiTokenizer.token());
+          LOG.warning("Unknown function: " + wikiTokenizer.token());
         }
         
       } else if (wikiTokenizer.isListItem()) {
@@ -590,7 +592,7 @@ static final Pattern UNINDEXED_WIKI_TEXT = Pattern.compile(
     
     final String prefix = wikiTokenizer.listItemPrefix();
     if (prefix.length() > 1) {
-      System.err.println("Prefix too long: " + wikiTokenizer.token());
+      LOG.warning("Prefix too long: " + wikiTokenizer.token());
       return;
     }
     
@@ -612,8 +614,8 @@ static final Pattern UNINDEXED_WIKI_TEXT = Pattern.compile(
     if (wikiTokenizer.nextToken() != null) {
       wikiTokenizer.returnToLineStart();
     }
-    System.out.println("list lines: " + listLines);
-    System.out.println("list prefixes: " + listPrefixes);
+    LOG.info("list lines: " + listLines);
+    LOG.info("list prefixes: " + listPrefixes);
     
     final PairEntry pairEntry = new PairEntry();
     final IndexedEntry indexedEntry = new IndexedEntry(pairEntry);
@@ -641,7 +643,7 @@ static final Pattern UNINDEXED_WIKI_TEXT = Pattern.compile(
             englishBuilder.append(text);
             otherIndexBuilder.addEntryWithString(indexedEntry, text, EntryTypeName.WIKTIONARY_ENGLISH_DEF_OTHER_LANG);
           } else {
-            System.err.println("Special link: " + englishTokenizer.token());
+            LOG.warning("Special link: " + englishTokenizer.token());
             // TODO: something here...
           }
         } else {
@@ -660,12 +662,12 @@ static final Pattern UNINDEXED_WIKI_TEXT = Pattern.compile(
           // Ignore these in the index, they're really annoying....
           englishBuilder.append(englishTokenizer.token());
         } else {
-          System.err.println("Unexpected function: " + englishTokenizer.token());
+          LOG.warning("Unexpected function: " + englishTokenizer.token());
         }
       } else {
         if (englishTokenizer.isComment() || englishTokenizer.isMarkup()) {
         } else {
-          System.err.println("Unexpected definition text: " + englishTokenizer.token());
+          LOG.warning("Unexpected definition text: " + englishTokenizer.token());
         }
       }
     }
