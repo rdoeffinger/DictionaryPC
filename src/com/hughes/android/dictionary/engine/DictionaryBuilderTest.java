@@ -15,6 +15,7 @@
 package com.hughes.android.dictionary.engine;
 
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.PrintStream;
 import java.io.RandomAccessFile;
@@ -30,10 +31,10 @@ public class DictionaryBuilderTest extends TestCase {
   public static final String GOLDENS = "../DictionaryData/testdata/goldens/";
 
   public static final String TEST_OUTPUTS = "../DictionaryData/testdata/outputs/";
-  public static final String OUTPUTS = "../DictionaryData/outputs/";
 
-  public void testWiktionaryItalian() throws Exception {
-    final File result = new File(TEST_OUTPUTS + "wiktionary.it.quickdic");
+  public void testWiktionaryItalianFromItalian() throws Exception {
+    final String name = "wiktionary.it_it.quickdic";
+    final File result = new File(TEST_OUTPUTS + name);
     System.out.println("Writing to: " + result);
     DictionaryBuilder.main(new String[] {
         "--dictOut=" + result.getAbsolutePath(),
@@ -41,15 +42,6 @@ public class DictionaryBuilderTest extends TestCase {
         "--lang2=EN",
         "--dictInfo=SomeWikiData",
 
-        /*
-        "--input3=" + WIKISPLIT + "english.data",
-        "--input3Name=enwiktionary.english",
-        "--input3Format=enwiktionary",
-        "--input3LangPattern=Italian",
-        "--input3LangCodePattern=it",
-        "--input3EnIndex=2",
-        "--input3PageLimit=1000",
-*/
         "--input4=" + WIKISPLIT + "italian.data",
         "--input4Name=enwiktionary.italian",
         "--input4Format=enwiktionary",
@@ -58,24 +50,40 @@ public class DictionaryBuilderTest extends TestCase {
         "--input4EnIndex=2",
         "--input4PageLimit=1000",
 
-        "--print=" + result.getName() + ".text",
+        "--print=" + result.getPath() + ".text",
     });
     
-    // Check it once:
-    assertFilesEqual(GOLDENS + "wiktionary.it_it.quickdic.text", result.getName() + ".text"); 
+    checkGolden(name, result); 
+  }
+
+  public void testWiktionaryItalianFromEnglish() throws Exception {
+    final String name = "wiktionary.it_en.quickdic";
+    final File result = new File(TEST_OUTPUTS + name);
+    System.out.println("Writing to: " + result);
+    DictionaryBuilder.main(new String[] {
+        "--dictOut=" + result.getAbsolutePath(),
+        "--lang1=IT",
+        "--lang2=EN",
+        "--dictInfo=SomeWikiData",
+
+        "--input3=" + WIKISPLIT + "english.data",
+        "--input3Name=enwiktionary.english",
+        "--input3Format=enwiktionary",
+        "--input3LangPattern=Italian",
+        "--input3LangCodePattern=it",
+        "--input3EnIndex=2",
+        "--input3PageLimit=1000",
+
+        "--print=" + result.getPath() + ".text",
+    });
     
-    // Check it again.
-    final Dictionary dict = new Dictionary(new RandomAccessFile(result.getAbsolutePath(), "r"));
-    final PrintStream out = new PrintStream(new File(result.getName() + ".text"));
-    dict.print(out);
-    out.close();
-    
-    assertFilesEqual(GOLDENS + "wiktionary.it_it.quickdic.text", result.getName() + ".text");
+    checkGolden(name, result); 
   }
 
   
   public void testGermanCombined() throws Exception {
-    final File result = new File(TEST_OUTPUTS + "de-en.quickdic");
+    final String name = "de-en.quickdic";
+    final File result = new File(TEST_OUTPUTS + name);
     System.out.println("Writing to: " + result);
     DictionaryBuilder.main(new String[] {
         "--dictOut=" + result.getAbsolutePath(),
@@ -93,21 +101,24 @@ public class DictionaryBuilderTest extends TestCase {
         "--input2Charset=UTF8",
         "--input2Format=dictcc",
 
-        "--print=" + result.getName() + ".text",
+        "--print=" + result.getPath() + ".text",
     });
     
-    // Check it once:
-    assertFilesEqual(GOLDENS + "de-en.quickdic.text", result.getName() + ".text"); 
-    
-    // Check it again.
-    final Dictionary dict = new Dictionary(new RandomAccessFile(result.getAbsolutePath(), "r"));
-    final PrintStream out = new PrintStream(result.getName() + ".text");
-    dict.print(out);
-    out.close();
-    
-    assertFilesEqual(GOLDENS + "de-en.quickdic.text", result.getName() + ".text"); 
+    checkGolden(name, result); 
   }
 
+  private void checkGolden(final String dictName, final File dictFile)
+      throws IOException, FileNotFoundException {
+    // Check it once:
+    assertFilesEqual(GOLDENS + dictName + ".text", dictFile.getPath() + ".text");
+
+    // Check it again.
+    final Dictionary dict = new Dictionary(new RandomAccessFile(dictFile.getAbsolutePath(), "r"));
+    final PrintStream out = new PrintStream(new File(dictFile.getName() + ".text"));
+    dict.print(out);
+    out.close();
+    assertFilesEqual(GOLDENS + dictName + ".text", dictFile.getPath() + ".text");
+  }
 
 
   void assertFilesEqual(final String expected, final String actual) throws IOException {

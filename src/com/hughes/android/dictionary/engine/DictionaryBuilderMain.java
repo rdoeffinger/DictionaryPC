@@ -42,9 +42,9 @@ public class DictionaryBuilderMain extends TestCase {
         //new Lang("^German$", "DE"),
     };
     Lang[] langs2 = new Lang[] { 
-//        new Lang("^.*Greek.*$", "EL"),
-        new Lang("^.*Spanish.*$", "ES"),
         new Lang("^.*Italian.*$", "IT"),
+        new Lang("^.*Greek.*$", "EL"),
+        new Lang("^.*Spanish.*$", "ES"),
         /*
         new Lang("^German$", "DE"),
         new Lang("^Afrikaans$", "AF"),

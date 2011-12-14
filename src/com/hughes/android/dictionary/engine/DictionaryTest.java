@@ -21,13 +21,12 @@ import java.util.concurrent.atomic.AtomicBoolean;
 import junit.framework.TestCase;
 
 import com.hughes.android.dictionary.engine.Index.IndexEntry;
-import com.hughes.android.dictionary.engine.PairEntry.Row;
 
 
 public class DictionaryTest extends TestCase {
   
   static final String TEST_OUTPUTS = com.hughes.android.dictionary.engine.DictionaryBuilderTest.TEST_OUTPUTS;
-  static final String OUTPUTS = com.hughes.android.dictionary.engine.DictionaryBuilderTest.OUTPUTS;
+  public static final String OUTPUTS = "../DictionaryData/outputs/";
 
   @Override
   protected void setUp() {
