@@ -25,6 +25,9 @@ import com.hughes.android.dictionary.engine.PairEntry.Row;
 
 
 public class DictionaryTest extends TestCase {
+  
+  static final String TEST_OUTPUTS = com.hughes.android.dictionary.engine.DictionaryBuilderTest.TEST_OUTPUTS;
+  static final String OUTPUTS = com.hughes.android.dictionary.engine.DictionaryBuilderTest.OUTPUTS;
 
   @Override
   protected void setUp() {
@@ -38,18 +41,18 @@ public class DictionaryTest extends TestCase {
   }
 
   public void testEnItWiktionary() throws IOException {
-    final RandomAccessFile raf = new RandomAccessFile("dictOutputs/EN-IT_enwiktionary.quickdic", "r");
+    final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "EN-IT_enwiktionary.quickdic", "r");
     final Dictionary dict = new Dictionary(raf);
     final Index enIndex = dict.indices.get(0);
     
-    final PairEntry.Row row = (Row) enIndex.rows.get(2);
-    assertEquals("z", row.getRawText(false));
+    final RowBase row = enIndex.rows.get(4);
+    assertEquals("carbonyl chloride (the compound COCl<sub>2</sub>) (noun)\tossicloruro di carbonio", row.getRawText(false));
 
     raf.close();
   }
 
   public void testGermanMetadata() throws IOException {
-    final RandomAccessFile raf = new RandomAccessFile("testdata/de-en.quickdic", "r");
+    final RandomAccessFile raf = new RandomAccessFile(TEST_OUTPUTS + "de-en.quickdic", "r");
     final Dictionary dict = new Dictionary(raf);
     final Index deIndex = dict.indices.get(0);
     
@@ -60,13 +63,13 @@ public class DictionaryTest extends TestCase {
     assertEquals("chemnitz", dict.sources.get(0).name);
     assertEquals(0, dict.sources.get(0).pairEntryStart);
     assertEquals("dictcc", dict.sources.get(1).name);
-    assertEquals(113, dict.sources.get(1).pairEntryStart);
+    assertEquals(0, dict.sources.get(1).pairEntryStart);  // TODO: rethink this
     
     raf.close();
   }
   
   public void testGermanIndex() throws IOException {
-    final RandomAccessFile raf = new RandomAccessFile("testdata/de-en.quickdic", "r");
+    final RandomAccessFile raf = new RandomAccessFile(TEST_OUTPUTS + "de-en.quickdic", "r");
     final Dictionary dict = new Dictionary(raf);
     final Index deIndex = dict.indices.get(0);
     
@@ -116,7 +119,7 @@ public class DictionaryTest extends TestCase {
   }
 
   public void testGermanTokenRows() throws IOException {
-    final RandomAccessFile raf = new RandomAccessFile("testdata/de-en.quickdic", "r");
+    final RandomAccessFile raf = new RandomAccessFile(TEST_OUTPUTS + "de-en.quickdic", "r");
     final Dictionary dict = new Dictionary(raf);
     final Index deIndex = dict.indices.get(0);
     
@@ -147,7 +150,7 @@ public class DictionaryTest extends TestCase {
   }
   
   public void testChemnitz() throws IOException {
-    final RandomAccessFile raf = new RandomAccessFile("dictOutputs/de-en_chemnitz.quickdic", "r");
+    final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "/de-en_chemnitz.quickdic", "r");
     final Dictionary dict = new Dictionary(raf);
     final Index deIndex = dict.indices.get(0);
     

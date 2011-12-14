@@ -25,8 +25,15 @@ import junit.framework.TestCase;
 
 public class DictionaryBuilderTest extends TestCase {
   
+  public static final String TEST_INPUTS = "../DictionaryData/testdata/inputs/";
+  public static final String WIKISPLIT = "../DictionaryData/inputs/wikiSplit/";
+  public static final String GOLDENS = "../DictionaryData/testdata/goldens/";
+
+  public static final String TEST_OUTPUTS = "../DictionaryData/testdata/outputs/";
+  public static final String OUTPUTS = "../DictionaryData/outputs/";
+
   public void testWiktionaryItalian() throws Exception {
-    final File result = new File("testdata/wiktionary.it.quickdic");
+    final File result = new File(TEST_OUTPUTS + "wiktionary.it.quickdic");
     System.out.println("Writing to: " + result);
     DictionaryBuilder.main(new String[] {
         "--dictOut=" + result.getAbsolutePath(),
@@ -35,7 +42,7 @@ public class DictionaryBuilderTest extends TestCase {
         "--dictInfo=SomeWikiData",
 
         /*
-        "--input3=wikiSplit/english.data",
+        "--input3=" + WIKISPLIT + "english.data",
         "--input3Name=enwiktionary.english",
         "--input3Format=enwiktionary",
         "--input3LangPattern=Italian",
@@ -43,7 +50,7 @@ public class DictionaryBuilderTest extends TestCase {
         "--input3EnIndex=2",
         "--input3PageLimit=1000",
 */
-        "--input4=wikiSplit/italian.data",
+        "--input4=" + WIKISPLIT + "italian.data",
         "--input4Name=enwiktionary.italian",
         "--input4Format=enwiktionary",
         "--input4LangPattern=Italian",
@@ -51,56 +58,54 @@ public class DictionaryBuilderTest extends TestCase {
         "--input4EnIndex=2",
         "--input4PageLimit=1000",
 
-        "--print=testdata/wiktionary.it.test",
+        "--print=" + result.getName() + ".text",
     });
     
     // Check it once:
-    assertFilesEqual("testdata/wiktionary.it.golden2", "testdata/wiktionary.it.test"); 
-    
+    assertFilesEqual(GOLDENS + "wiktionary.it_it.quickdic.text", result.getName() + ".text"); 
     
     // Check it again.
     final Dictionary dict = new Dictionary(new RandomAccessFile(result.getAbsolutePath(), "r"));
-    final PrintStream out = new PrintStream(new File("testdata/wiktionary.it.test"));
+    final PrintStream out = new PrintStream(new File(result.getName() + ".text"));
     dict.print(out);
     out.close();
     
-    assertFilesEqual("testdata/wiktionary.it.golden", "testdata/wiktionary.it.test");
+    assertFilesEqual(GOLDENS + "wiktionary.it_it.quickdic.text", result.getName() + ".text");
   }
 
   
   public void testGermanCombined() throws Exception {
-    final File result = new File("testdata/de-en.quickdic");
+    final File result = new File(TEST_OUTPUTS + "de-en.quickdic");
     System.out.println("Writing to: " + result);
     DictionaryBuilder.main(new String[] {
         "--dictOut=" + result.getAbsolutePath(),
         "--lang1=DE",
         "--lang2=EN",
-        "--dictInfo=@testdata/de-en_dictInfo.txt",
+        "--dictInfo=@" + TEST_INPUTS + "de-en_dictInfo.txt",
 
-        "--input1=testdata/de-en_chemnitz_100",
+        "--input1=" + TEST_INPUTS + "de-en_chemnitz_100",
         "--input1Name=chemnitz",
         "--input1Charset=UTF8",
         "--input1Format=chemnitz",
 
-        "--input2=testdata/de-en_dictcc_100",
+        "--input2=" + TEST_INPUTS + "de-en_dictcc_simulated",
         "--input2Name=dictcc",
         "--input2Charset=UTF8",
         "--input2Format=dictcc",
 
-        "--print=testdata/de-en.test",
+        "--print=" + result.getName() + ".text",
     });
     
     // Check it once:
-    assertFilesEqual("testdata/de-en.golden", "testdata/de-en.test"); 
-    
+    assertFilesEqual(GOLDENS + "de-en.quickdic.text", result.getName() + ".text"); 
     
     // Check it again.
     final Dictionary dict = new Dictionary(new RandomAccessFile(result.getAbsolutePath(), "r"));
-    final PrintStream out = new PrintStream(new File("testdata/de-en.test"));
+    final PrintStream out = new PrintStream(result.getName() + ".text");
     dict.print(out);
     out.close();
     
-    assertFilesEqual("testdata/de-en.golden", "testdata/de-en.test");
+    assertFilesEqual(GOLDENS + "de-en.quickdic.text", result.getName() + ".text"); 
   }
 
 

@@ -70,7 +70,7 @@ public final class WikiTokenizer {
   public WikiTokenizer(final String wikiText, final boolean isNewline) {
     this.wikiText = wikiText;
     this.matcher = wikiTokenEvent.matcher(wikiText);
-    justReturnedNewline = false;
+    justReturnedNewline = isNewline;
   }
 
   private void clear() {
