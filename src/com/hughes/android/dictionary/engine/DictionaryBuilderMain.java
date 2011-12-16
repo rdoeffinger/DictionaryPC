@@ -26,16 +26,19 @@ import junit.framework.TestCase;
 public class DictionaryBuilderMain extends TestCase {
   
   static final String INPUTS = "../DictionaryData/inputs/";
+  static final String STOPLISTS = "../DictionaryData/inputs/stoplists/";
   static final String OUTPUTS = "../DictionaryData/outputs/";
   
   static class Lang {
     final String nameRegex;
     final String isoCode;
     final String wikiSplit;
-    public Lang(String nameRegex, String code, final String wikiSplit) {
+    final String stoplistFile;
+    public Lang(String nameRegex, String code, final String wikiSplit, final String stoplistFile) {
       this.nameRegex = nameRegex;
       this.isoCode = code;
       this.wikiSplit = wikiSplit;
+      this.stoplistFile = stoplistFile;
     }
   }
   
@@ -43,29 +46,29 @@ public class DictionaryBuilderMain extends TestCase {
   public static void main(final String[] args) throws Exception {
 
     Lang[] langs1 = new Lang[] { 
-        new Lang("^English$", "EN", null),
+        new Lang("^English$", "EN", null, "en.txt"),
     };
     Lang[] langs2 = new Lang[] { 
-        new Lang("^.*Italian.*$", "IT", "italian.data"),
-        new Lang("^.*Greek.*$", "EL", "greek.data"),
-        new Lang("^.*Spanish.*$", "ES", "spanish.data"),
+        new Lang("^.*Italian.*$", "IT", "italian.data", "it.txt"),
+        new Lang("^.*French.*$", "FR", "french.data", "empty.txt"),
+        new Lang("^.*Spanish.*$", "ES", "spanish.data", "empty.txt"),
+        new Lang("^.*Greek.*$", "EL", "greek.data", "empty.txt"),
+        new Lang("^.*Japanese.*$", "JA", "japanese.data", "empty.txt"),
+        new Lang("^.*Chinese.*$|^.*Mandarin.*$", "ZH", "mandarin.data", "empty.txt"),
         /*
         new Lang("^German$", "DE"),
         new Lang("^Afrikaans$", "AF"),
         new Lang("^Armenian$", "HY"),
         new Lang("^Arabic$", "AR"),
-        new Lang("^Chinese$|^Mandarin$", "ZH"),
         new Lang("^Croation$", "HR"),
         new Lang("^Czech$", "CS"),
         new Lang("^Dutch$", "NL"),
         new Lang("^English$", "EN"),
         new Lang("^Finnish$", "FI"),
-        new Lang("^French$", "FR"),
         new Lang("^Hebrew$", "HE"),
         new Lang("^Hindi$", "HI"),
         new Lang("^Icelandic$", "IS"),
         new Lang("^Irish$", "GA"),
-        new Lang("^Japanese$", "JA"),
         new Lang("^Korean$", "KO"),
         new Lang("^Kurdish$", "KU"),
         new Lang("^Lithuanian$", "LT"),
@@ -117,16 +120,18 @@ public class DictionaryBuilderMain extends TestCase {
             String.format("--dictOut=%s", dictFile),
             String.format("--lang1=%s", lang1.isoCode),
             String.format("--lang2=%s", lang2.isoCode),
+            String.format("--lang1Stoplist=%s", STOPLISTS + lang1.stoplistFile),
+            String.format("--lang2Stoplist=%s", STOPLISTS + lang2.stoplistFile),
             String.format("--dictInfo=(EN)Wikitionary-based %s-%s dictionary", lang1.isoCode, lang2.isoCode),
 
-            "--input2=" + INPUTS + "wikiSplit/" + nonEnglish.wikiSplit,
+            "--input2=" + INPUTS + "enWikiSplit/" + nonEnglish.wikiSplit,
             "--input2Name=enwiktionary." + nonEnglish.wikiSplit,
             "--input2Format=enwiktionary",
             "--input2LangPattern=" + nonEnglish.nameRegex,
             "--input2LangCodePattern=" + nonEnglish.isoCode.toLowerCase(),
             "--input2EnIndex=" + enIndex,
 
-            "--input3=" + INPUTS + "wikiSplit/english.data",
+            "--input3=" + INPUTS + "enWikiSplit/english.data",
             "--input3Name=enwiktionary.english",
             "--input3Format=enwiktionary",
             "--input3LangPattern=" + nonEnglish.nameRegex,
@@ -173,7 +178,7 @@ public class DictionaryBuilderMain extends TestCase {
         "--input2Charset=UTF8",
         "--input2Format=chemnitz",
 
-        "--input3=" + INPUTS + "/copyrighted/de-en_dictcc.txt",
+        "--input3=" + INPUTS + "/NONFREE/de-en_dictcc.txt",
         "--input3Name=dictcc",
         "--input3Charset=UTF8",
         "--input3Format=dictcc",

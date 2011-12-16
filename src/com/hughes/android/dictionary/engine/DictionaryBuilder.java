@@ -20,8 +20,10 @@ import java.io.PrintStream;
 import java.io.RandomAccessFile;
 import java.nio.charset.Charset;
 import java.util.ArrayList;
+import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
 import java.util.regex.Pattern;
 
 import javax.xml.parsers.ParserConfigurationException;
@@ -33,38 +35,16 @@ import com.hughes.android.dictionary.parser.EnWiktionaryXmlParser;
 import com.hughes.util.Args;
 import com.hughes.util.FileUtil;
 
-/*
-
---maxEntries=100
---dictOut=de-en.dict
---lang1=DE
---lang2=EN
---dictInfo=@dictInfo.txt
-
---input0=/Users/thadh/personal/quickDic/de-en-chemnitz.txt
---input0Name=chemnitz
---input0Charset=UTF8
---input0Format=chemnitz
-
---input1=/Users/thadh/personal/quickDic/dewiktionary-20100326-pages-articles.xml
---input1Name=wiktionary
---input1Format=wiktionary
-
---input2=/Users/thadh/personal/quickDic/de-en-dictcc.txt
---input2Name=dictcc
---input2Charset=Cp1252
---input2Format=dictcc
- */
 
 public class DictionaryBuilder {
   
   public final Dictionary dictionary;
   public final List<IndexBuilder> indexBuilders = new ArrayList<IndexBuilder>();
   
-  public DictionaryBuilder(final String dictInfo, final Language lang0, final Language lang1, final String normalizerRules1, final String normalizerRules2) {
+  public DictionaryBuilder(final String dictInfo, final Language lang0, final Language lang1, final String normalizerRules1, final String normalizerRules2, final Set<String> lang1Stoplist, final Set<String> lang2Stoplist) {
     dictionary = new Dictionary(dictInfo);
-    indexBuilders.add(new IndexBuilder(this, lang0.getSymbol(), lang0.getSymbol() + "->" + lang1.getSymbol(), lang0, normalizerRules1, false));
-    indexBuilders.add(new IndexBuilder(this, lang1.getSymbol(), lang1.getSymbol() + "->" + lang0.getSymbol(), lang1, normalizerRules2, true));
+    indexBuilders.add(new IndexBuilder(this, lang0.getSymbol(), lang0.getSymbol() + "->" + lang1.getSymbol(), lang0, normalizerRules1, lang1Stoplist, false));
+    indexBuilders.add(new IndexBuilder(this, lang1.getSymbol(), lang1.getSymbol() + "->" + lang0.getSymbol(), lang1, normalizerRules2, lang2Stoplist, true));
   }
   
   void build() {
@@ -82,7 +62,18 @@ public class DictionaryBuilder {
     if (lang1 == null || lang2 == null) {
       fatalError("--lang1= and --lang2= must both be specified.");
     }
-    
+
+    final Set<String> lang1Stoplist = new LinkedHashSet<String>();
+    final Set<String> lang2Stoplist = new LinkedHashSet<String>();
+    final String lang1StoplistFile = keyValueArgs.remove("lang1Stoplist");
+    final String lang2StoplistFile = keyValueArgs.remove("lang2Stoplist");
+    if (lang1StoplistFile != null) {
+      lang1Stoplist.addAll(FileUtil.readLines(new File(lang1StoplistFile)));
+    }
+    if (lang2StoplistFile != null) {
+      lang2Stoplist.addAll(FileUtil.readLines(new File(lang2StoplistFile)));
+    }
+
     String normalizerRules1 = keyValueArgs.remove("normalizerRules1");
     String normalizerRules2 = keyValueArgs.remove("normalizerRules2");
     if (normalizerRules1 == null) {
@@ -114,7 +105,7 @@ public class DictionaryBuilder {
     System.out.println("dictInfo=" + dictInfo);
     System.out.println("dictOut=" + dictOutFilename);    
     
-    final DictionaryBuilder dictionaryBuilder = new DictionaryBuilder(dictInfo, lang1, lang2, normalizerRules1, normalizerRules2);
+    final DictionaryBuilder dictionaryBuilder = new DictionaryBuilder(dictInfo, lang1, lang2, normalizerRules1, normalizerRules2, lang1Stoplist, lang2Stoplist);
     
     for (int i = 0; i < 100; ++i) {
       final String prefix = "input" + i;

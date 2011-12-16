@@ -32,13 +32,15 @@ public class IndexBuilder {
   
   final DictionaryBuilder dictionaryBuilder;
   public final Index index;
+  final Set<String> stoplist;
 
   final SortedMap<String, TokenData> tokenToData;
 
-  IndexBuilder(final DictionaryBuilder dictionaryBuilder, final String shortName, final String longName, final Language language, final String normalizerRules, final boolean swapPairEntries) {
+  IndexBuilder(final DictionaryBuilder dictionaryBuilder, final String shortName, final String longName, final Language language, final String normalizerRules, final Set<String> stoplist, final boolean swapPairEntries) {
     this.dictionaryBuilder = dictionaryBuilder;
     index = new Index(dictionaryBuilder.dictionary, shortName, longName, language, normalizerRules, swapPairEntries);
     tokenToData = new TreeMap<String, TokenData>(new NormalizeComparator(index.normalizer(), language.getCollator()));
+    this.stoplist = stoplist;
   }
   
   public void build() {
@@ -96,7 +98,7 @@ public class IndexBuilder {
     }
   }
 
-  public TokenData getOrCreateTokenData(final String token) {
+  private TokenData getOrCreateTokenData(final String token) {
     TokenData tokenData = tokenToData.get(token);
     if (tokenData == null) {
       tokenData = new TokenData(token);
@@ -105,7 +107,7 @@ public class IndexBuilder {
     return tokenData;
   }
 
-  public List<IndexedEntry> getOrCreateEntries(final String token, final EntryTypeName entryTypeName) {
+  private List<IndexedEntry> getOrCreateEntries(final String token, final EntryTypeName entryTypeName) {
     final TokenData tokenData = getOrCreateTokenData(token);
     List<IndexedEntry> entries = tokenData.typeToEntries.get(entryTypeName);
     if (entries == null) {
@@ -118,6 +120,7 @@ public class IndexBuilder {
   public void addEntryWithTokens(final IndexedEntry indexedEntry, final Set<String> tokens,
       final EntryTypeName entryTypeName) {
     for (final String token : tokens) {
+      if (entryTypeName.overridesStopList || !stoplist.contains(token))
       getOrCreateEntries(token, entryTypeName).add(indexedEntry);
     }    
   }

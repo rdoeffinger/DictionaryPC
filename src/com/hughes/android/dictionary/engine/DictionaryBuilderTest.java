@@ -27,7 +27,8 @@ import junit.framework.TestCase;
 public class DictionaryBuilderTest extends TestCase {
   
   public static final String TEST_INPUTS = "../DictionaryData/testdata/inputs/";
-  public static final String WIKISPLIT = "../DictionaryData/inputs/wikiSplit/";
+  public static final String WIKISPLIT = "../DictionaryData/inputs/enWikiSplit/";
+  public static final String STOPLISTS = "../DictionaryData/inputs/stoplists/";
   public static final String GOLDENS = "../DictionaryData/testdata/goldens/";
 
   public static final String TEST_OUTPUTS = "../DictionaryData/testdata/outputs/";
@@ -40,6 +41,8 @@ public class DictionaryBuilderTest extends TestCase {
         "--dictOut=" + result.getAbsolutePath(),
         "--lang1=IT",
         "--lang2=EN",
+        "--lang1Stoplist=" + STOPLISTS + "it.txt",
+        "--lang2Stoplist=" + STOPLISTS + "en.txt",
         "--dictInfo=SomeWikiData",
 
         "--input4=" + WIKISPLIT + "italian.data",
@@ -64,6 +67,8 @@ public class DictionaryBuilderTest extends TestCase {
         "--dictOut=" + result.getAbsolutePath(),
         "--lang1=IT",
         "--lang2=EN",
+        "--lang1Stoplist=" + STOPLISTS + "it.txt",
+        "--lang2Stoplist=" + STOPLISTS + "en.txt",
         "--dictInfo=SomeWikiData",
 
         "--input3=" + WIKISPLIT + "english.data",

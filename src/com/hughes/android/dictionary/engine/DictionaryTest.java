@@ -45,7 +45,7 @@ public class DictionaryTest extends TestCase {
     final Index enIndex = dict.indices.get(0);
     
     final RowBase row = enIndex.rows.get(4);
-    assertEquals("carbonyl chloride (the compound COCl<sub>2</sub>) (noun)\tossicloruro di carbonio", row.getRawText(false));
+    assertEquals("eagle (A gold coin with a face value of $10.00) (noun)\tmoneta di dieci dollari", row.getRawText(false));
 
     raf.close();
   }

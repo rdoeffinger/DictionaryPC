@@ -21,6 +21,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.nio.charset.Charset;
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Set;
@@ -211,8 +212,7 @@ public class DictFileParser {
     for (String token : tokens) {
       token = TRIM_PUNC.matcher(token).replaceAll("");
       if (/*!alreadyDone.contains(token) && */token.length() > 0) {
-        final List<IndexedEntry> entries = indexBuilder.getOrCreateEntries(token, entryTypeName);
-        entries.add(entryData);
+        indexBuilder.addEntryWithTokens(entryData, Collections.singleton(token), entryTypeName);
         // alreadyDone.add(token);
         
         // also split words on dashes, do them, too.
@@ -220,8 +220,7 @@ public class DictFileParser {
           final String[] dashed = token.split("-");
           for (final String dashedToken : dashed) {
             if (/*!alreadyDone.contains(dashedToken) && */dashedToken.length() > 0) {
-              final List<IndexedEntry> dashEntries = indexBuilder.getOrCreateEntries(dashedToken, EntryTypeName.PART_OF_HYPHENATED);
-              dashEntries.add(entryData);
+              indexBuilder.addEntryWithTokens(entryData, Collections.singleton(dashedToken), EntryTypeName.PART_OF_HYPHENATED);
             }
           }
         }
@@ -234,8 +233,7 @@ public class DictFileParser {
     for (final String token : bracketedTokens) {
       assert !token.contains("-");
       if (/*!alreadyDone.contains(token) && */token.length() > 0) {
-        final List<IndexedEntry> entries = indexBuilder.getOrCreateEntries(token, EntryTypeName.BRACKETED);
-        entries.add(entryData);
+        indexBuilder.addEntryWithTokens(entryData, Collections.singleton(token), EntryTypeName.BRACKETED);
       }
     }
     
@@ -244,8 +242,7 @@ public class DictFileParser {
     for (final String token : parenTokens) {
       assert !token.contains("-");
       if (/*!alreadyDone.contains(token) && */token.length() > 0) {
-        final List<IndexedEntry> entries = indexBuilder.getOrCreateEntries(token, EntryTypeName.PARENTHESIZED);
-        entries.add(entryData);
+        indexBuilder.addEntryWithTokens(entryData, Collections.singleton(token), EntryTypeName.PARENTHESIZED);
       }
     }
     
