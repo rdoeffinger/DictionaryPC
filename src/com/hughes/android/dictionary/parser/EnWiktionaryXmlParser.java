@@ -640,6 +640,7 @@ public class EnWiktionaryXmlParser {
         }
       }
     }
+        
     final String english = trim(englishBuilder.toString());
     if (english.length() > 0) {
       final Pair pair = new Pair(english, trim(foreignText), this.swap);
@@ -649,6 +650,60 @@ public class EnWiktionaryXmlParser {
         otherIndexBuilder.addEntryWithString(indexedEntry, form, EntryTypeName.WIKTIONARY_FORM_SINGLE, EntryTypeName.WIKTIONARY_FORM_MULTI);
       }
     }
+    
+    // Do examples.
+    String lastForeign = null;
+    for (int i = 0; i < listSection.nextPrefixes.size(); ++i) {
+      final String nextPrefix = listSection.nextPrefixes.get(i);
+      final String nextLine = listSection.nextLines.get(i);
+      int mdash = nextLine.indexOf("&mdash;");
+      int mdashLen = 7;
+      if (mdash == -1) {
+        mdash = nextLine.indexOf("—");
+        mdashLen = 1;
+      }
+      if (mdash == -1) {
+        mdash = nextLine.indexOf("'',");
+        mdashLen = 3;
+      }
+      if (mdash == -1) {
+        mdash = nextLine.indexOf(" - ");
+        mdashLen = 3;
+      }
+      
+      // TODO: index and clean these!!!
+      if (nextPrefix.equals("#:") && mdash != -1) {
+        final String foreignEx = nextLine.substring(0, mdash);
+        final String englishEx = nextLine.substring(mdash + mdashLen);
+        final Pair pair = new Pair(trim(englishEx), trim(foreignEx), swap);
+        pairEntry.pairs.add(pair);
+        lastForeign = null;
+      } else if (nextPrefix.equals("#:")){
+        final Pair pair = new Pair("--", trim(nextLine), swap);
+        lastForeign = nextLine;
+        pairEntry.pairs.add(pair);
+      } else if (nextPrefix.equals("#::") || nextPrefix.equals("#**")) {
+        if (lastForeign != null) {
+          pairEntry.pairs.remove(pairEntry.pairs.size() - 1);
+          final Pair pair = new Pair(nextLine, lastForeign, swap);
+          pairEntry.pairs.add(pair);
+        } else {
+          LOG.warning("English example with no foreign: " + title + ", " + nextLine);
+        }
+      } else if (nextPrefix.equals("#*")) {
+        // Can't really index these.
+        final Pair pair = new Pair("--", trim(nextLine), swap);
+        lastForeign = nextLine;
+        pairEntry.pairs.add(pair);
+      } else if (nextPrefix.equals("#::*")) {
+        final Pair pair = new Pair("--", trim(nextLine), swap);
+        pairEntry.pairs.add(pair);
+      } else {
+        assert false;
+      }
+    }
+    
+
   }
 
 
