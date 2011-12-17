@@ -23,7 +23,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
-import java.util.Collections;
 import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Map;
@@ -656,54 +655,74 @@ public class EnWiktionaryXmlParser {
     for (int i = 0; i < listSection.nextPrefixes.size(); ++i) {
       final String nextPrefix = listSection.nextPrefixes.get(i);
       final String nextLine = listSection.nextLines.get(i);
-      int mdash = nextLine.indexOf("&mdash;");
+      int dash = nextLine.indexOf("&mdash;");
       int mdashLen = 7;
-      if (mdash == -1) {
-        mdash = nextLine.indexOf("—");
+      if (dash == -1) {
+        dash = nextLine.indexOf("—");
         mdashLen = 1;
       }
-      if (mdash == -1) {
-        mdash = nextLine.indexOf("'',");
-        mdashLen = 3;
-      }
-      if (mdash == -1) {
-        mdash = nextLine.indexOf(" - ");
+      if (dash == -1) {
+        dash = nextLine.indexOf(" - ");
         mdashLen = 3;
       }
       
       // TODO: index and clean these!!!
-      if (nextPrefix.equals("#:") && mdash != -1) {
-        final String foreignEx = nextLine.substring(0, mdash);
-        final String englishEx = nextLine.substring(mdash + mdashLen);
-        final Pair pair = new Pair(trim(englishEx), trim(foreignEx), swap);
+      if (nextPrefix.equals("#:") && dash != -1) {
+        final String foreignEx = nextLine.substring(0, dash);
+        final String englishEx = nextLine.substring(dash + mdashLen);
+        final Pair pair = new Pair(formatAndIndexExampleString(englishEx, enIndexBuilder), formatAndIndexExampleString(foreignEx, otherIndexBuilder), swap);
         pairEntry.pairs.add(pair);
         lastForeign = null;
       } else if (nextPrefix.equals("#:")){
-        final Pair pair = new Pair("--", trim(nextLine), swap);
+        final Pair pair = new Pair("--", formatAndIndexExampleString(nextLine, null), swap);
         lastForeign = nextLine;
         pairEntry.pairs.add(pair);
       } else if (nextPrefix.equals("#::") || nextPrefix.equals("#**")) {
         if (lastForeign != null) {
           pairEntry.pairs.remove(pairEntry.pairs.size() - 1);
-          final Pair pair = new Pair(nextLine, lastForeign, swap);
+          final Pair pair = new Pair(formatAndIndexExampleString(nextLine, enIndexBuilder), formatAndIndexExampleString(lastForeign, otherIndexBuilder), swap);
           pairEntry.pairs.add(pair);
         } else {
           LOG.warning("English example with no foreign: " + title + ", " + nextLine);
         }
       } else if (nextPrefix.equals("#*")) {
         // Can't really index these.
-        final Pair pair = new Pair("--", trim(nextLine), swap);
+        final Pair pair = new Pair("--", formatAndIndexExampleString(nextLine, null), swap);
         lastForeign = nextLine;
         pairEntry.pairs.add(pair);
       } else if (nextPrefix.equals("#::*")) {
-        final Pair pair = new Pair("--", trim(nextLine), swap);
+        final Pair pair = new Pair("--", formatAndIndexExampleString(nextLine, null), swap);
         pairEntry.pairs.add(pair);
       } else {
         assert false;
       }
     }
-    
-
+  }
+  
+  private String formatAndIndexExampleString(final String example, final IndexBuilder indexBuilder) {
+    final WikiTokenizer wikiTokenizer = new WikiTokenizer(example, false);
+    final StringBuilder builder = new StringBuilder();
+    boolean insideTripleQuotes = false;
+    while (wikiTokenizer.nextToken() != null) {
+      if (wikiTokenizer.isPlainText()) {
+        builder.append(wikiTokenizer.token());
+        
+      } else if (wikiTokenizer.isWikiLink()) {
+        builder.append(wikiTokenizer.wikiLinkText());
+        
+      } else if (wikiTokenizer.isFunction()) {
+        builder.append(wikiTokenizer.token());
+      } else if (wikiTokenizer.isMarkup()) {
+        if (wikiTokenizer.token().equals("'''")) {
+          insideTripleQuotes = !insideTripleQuotes;
+        }
+      } else if (wikiTokenizer.isComment() || wikiTokenizer.isNewline()) {
+        // Do nothing.
+      } else {
+        LOG.warning("unexpected token: " + wikiTokenizer.token());
+      }
+    }
+    return trim(builder.toString()); 
   }
 
 
