@@ -49,7 +49,7 @@ public class DictionaryBuilderMain extends TestCase {
         new Lang("^English$", "EN", null, "en.txt"),
     };
     Lang[] langs2 = new Lang[] { 
-        new Lang("^.*Italian.*$", "IT", "italian.data", "it.txt"),
+        //new Lang("^.*Italian.*$", "IT", "italian.data", "it.txt"),
         new Lang("^.*French.*$", "FR", "french.data", "empty.txt"),
         new Lang("^.*Spanish.*$", "ES", "spanish.data", "empty.txt"),
         new Lang("^.*Greek.*$", "EL", "greek.data", "empty.txt"),

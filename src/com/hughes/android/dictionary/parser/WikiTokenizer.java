@@ -337,7 +337,7 @@ public final class WikiTokenizer {
   
   public String token() {
     final String token = wikiText.substring(start, end);
-    assert token.equals("\n") || !token.endsWith("\n") : token;
+    assert token.equals("\n") || !token.endsWith("\n") : "token='" + token + "'";
     return token;
   }
   
@@ -347,6 +347,7 @@ public final class WikiTokenizer {
     final boolean insideFunction = toFind.equals("}}");
     
     int end = start;
+    int firstNewline = -1;
     while (end < wikiText.length()) {
       if (matcher.find(end)) {
         final String matchText = matcher.group();
@@ -355,6 +356,9 @@ public final class WikiTokenizer {
         assert matcher.end() > end || matchText.length() == 0: "Group=" + matcher.group();
         if (matchText.length() == 0) {
           assert matchStart == wikiText.length() || wikiText.charAt(matchStart) == '\n';
+          if (firstNewline == -1) {
+            firstNewline = matcher.end();
+          }
           if (tokenStack.isEmpty() && toFind.equals("\n")) {
             return matchStart;
           }
@@ -412,6 +416,14 @@ public final class WikiTokenizer {
       
       // Inside the while loop.  Just go forward.
       end = Math.max(end, matcher.end());
+    }
+    if (toFind.equals("\n") && tokenStack.isEmpty()) {
+      // We were looking for the end, we got it.
+      return end;
+    }
+    if (firstNewline != -1) {
+      errors.add("Couldn't find: " + toFind + ", "+ wikiText.substring(start));
+      return firstNewline;
     }
     return end;
   }

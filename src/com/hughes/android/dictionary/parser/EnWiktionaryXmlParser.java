@@ -127,10 +127,11 @@ public class EnWiktionaryXmlParser {
   
   // -------------------------------------------------------------------------
   
-  String pos = null;
-  int posDepth = -1;
-
   private void doEnglishWord(String title, String text) {
+    
+    String pos = null;
+    int posDepth = -1;
+
     final WikiTokenizer wikiTokenizer = new WikiTokenizer(text);
     while (wikiTokenizer.nextToken() != null) {
       
@@ -146,7 +147,10 @@ public class EnWiktionaryXmlParser {
           posDepth = wikiTokenizer.headingDepth();
           pos = wikiTokenizer.headingWikiText();
         } else if (headerName.equals("Translations")) {
-          doTranslations(title, wikiTokenizer);
+          if (pos == null) {
+            LOG.warning("Translations without POS: " + title);
+          }
+          doTranslations(title, wikiTokenizer, pos);
         } else if (headerName.equals("Pronunciation")) {
           //doPronunciation(wikiLineReader);
         }
@@ -161,7 +165,7 @@ public class EnWiktionaryXmlParser {
       "Jpan", "Kore", "Hebr", "rfscript", "Beng", "Mong", "Knda", "Cyrs",
       "yue-tsj", "Mlym", "Tfng", "Grek", "yue-yue-j"));
   
-  private void doTranslations(final String title, final WikiTokenizer wikiTokenizer) {
+  private void doTranslations(final String title, final WikiTokenizer wikiTokenizer, final String pos) {
     if (title.equals("absolutely")) {
       System.out.println();
     }
@@ -207,7 +211,7 @@ public class EnWiktionaryXmlParser {
         } else {
           LOG.warning("Unexpected translation wikifunction: " + wikiTokenizer.token() + ", title=" + title);
         }
-      } else if (wikiTokenizer.isListItem() && wikiTokenizer.listItemPrefix().startsWith("*")) {
+      } else if (wikiTokenizer.isListItem()) {
         final String line = wikiTokenizer.listItemWikiText();
         // This line could produce an output...
         
@@ -225,7 +229,7 @@ public class EnWiktionaryXmlParser {
         
         String rest = line.substring(colonIndex + 1).trim();
         if (rest.length() > 0) {
-          doTranslationLine(line, title, sense, rest);
+          doTranslationLine(line, title, pos, sense, rest);
         } else {
           // TODO: do lines that are like Greek:
         }
@@ -256,7 +260,7 @@ public class EnWiktionaryXmlParser {
     return index < list.size() ? list.get(index) : null;
   }
   
-  private void doTranslationLine(final String line, final String title, final String sense, final String rest) {
+  private void doTranslationLine(final String line, final String title, final String pos, final String sense, final String rest) {
     // Good chance we'll actually file this one...
     final PairEntry pairEntry = new PairEntry();
     final IndexedEntry indexedEntry = new IndexedEntry(pairEntry);
