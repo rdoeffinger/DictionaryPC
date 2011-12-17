@@ -554,11 +554,12 @@ public class EnWiktionaryXmlParser {
     } finally {
       // Here's where we exit.
       // TODO: Should we make an entry even if there are no foreign list items?
-      if (foreignBuilder.indexOf(title) == -1) {
-        foreignBuilder.insert(0, title + " ");
+      String foreign = foreignBuilder.toString().trim();
+      if (!foreign.toLowerCase().startsWith(title.toLowerCase())) {
+        foreign = title + " " + foreign;
       }
       for (final ListSection listSection : listSections) {
-        doForeignListItem(foreignBuilder.toString(), title, wordForms, listSection);
+        doForeignListItem(foreign, title, wordForms, listSection);
       }
     }
   }
@@ -603,10 +604,11 @@ public class EnWiktionaryXmlParser {
             englishBuilder.append(text);
             otherIndexBuilder.addEntryWithString(indexedEntry, text, EntryTypeName.WIKTIONARY_ENGLISH_DEF_OTHER_LANG);
           } else if (link.equals("plural")) {
-            englishBuilder.append(englishTokenizer.wikiLinkText());
+            englishBuilder.append(text);
           } else {
             //LOG.warning("Special link: " + englishTokenizer.token());
-            englishBuilder.append(englishTokenizer.wikiLinkText());
+            enIndexBuilder.addEntryWithString(indexedEntry, text, EntryTypeName.WIKTIONARY_ENGLISH_DEF_WIKI_LINK);
+            englishBuilder.append(text);
           }
         } else {
           // link == null

@@ -119,7 +119,7 @@ public class DictionaryBuilderTest extends TestCase {
 
     // Check it again.
     final Dictionary dict = new Dictionary(new RandomAccessFile(dictFile.getAbsolutePath(), "r"));
-    final PrintStream out = new PrintStream(new File(dictFile.getName() + ".text"));
+    final PrintStream out = new PrintStream(new File(dictFile.getPath() + ".text"));
     dict.print(out);
     out.close();
     assertFilesEqual(GOLDENS + dictName + ".text", dictFile.getPath() + ".text");
