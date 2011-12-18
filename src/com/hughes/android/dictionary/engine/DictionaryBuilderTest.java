@@ -26,12 +26,12 @@ import junit.framework.TestCase;
 
 public class DictionaryBuilderTest extends TestCase {
   
-  public static final String TEST_INPUTS = "../DictionaryData/testdata/inputs/";
+  public static final String TEST_INPUTS = "testdata/inputs/";
   public static final String WIKISPLIT = "../DictionaryData/inputs/enWikiSplit/";
   public static final String STOPLISTS = "../DictionaryData/inputs/stoplists/";
-  public static final String GOLDENS = "../DictionaryData/testdata/goldens/";
+  public static final String GOLDENS = "testdata/goldens/";
 
-  public static final String TEST_OUTPUTS = "../DictionaryData/testdata/outputs/";
+  public static final String TEST_OUTPUTS = "testdata/outputs/";
 
   public void testWiktionaryItalianFromItalian() throws Exception {
     final String name = "wiktionary.it_it.quickdic";
@@ -45,7 +45,7 @@ public class DictionaryBuilderTest extends TestCase {
         "--lang2Stoplist=" + STOPLISTS + "en.txt",
         "--dictInfo=SomeWikiData",
 
-        "--input4=" + WIKISPLIT + "italian.data",
+        "--input4=" + WIKISPLIT + "IT.data",
         "--input4Name=enwiktionary.italian",
         "--input4Format=enwiktionary",
         "--input4LangPattern=Italian",
@@ -71,7 +71,7 @@ public class DictionaryBuilderTest extends TestCase {
         "--lang2Stoplist=" + STOPLISTS + "en.txt",
         "--dictInfo=SomeWikiData",
 
-        "--input3=" + WIKISPLIT + "english.data",
+        "--input3=" + WIKISPLIT + "EN.data",
         "--input3Name=enwiktionary.english",
         "--input3Format=enwiktionary",
         "--input3LangPattern=Italian",

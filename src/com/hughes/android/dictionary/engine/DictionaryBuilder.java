@@ -131,7 +131,7 @@ public class DictionaryBuilder {
         } else if ("chemnitz".equals(inputFormat)) {
           new DictFileParser(charset, false, DictFileParser.DOUBLE_COLON, DictFileParser.PIPE, dictionaryBuilder, dictionaryBuilder.indexBuilders.toArray(new IndexBuilder[0]), null).parseFile(file);
         } else if ("enwiktionary".equals(inputFormat)) {
-          final Pattern langPattern = Pattern.compile(keyValueArgs.remove(prefix + "LangPattern"));
+          final Pattern langPattern = Pattern.compile(keyValueArgs.remove(prefix + "LangPattern"), Pattern.CASE_INSENSITIVE);
           final Pattern langCodePattern = Pattern.compile(keyValueArgs.remove(prefix + "LangCodePattern"));
           final int enIndex = Integer.parseInt(keyValueArgs.remove(prefix + "EnIndex")) - 1;
           String pageLimit = keyValueArgs.remove(prefix + "PageLimit");

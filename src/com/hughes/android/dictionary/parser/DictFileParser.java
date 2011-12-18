@@ -135,6 +135,16 @@ public class DictFileParser {
     for (int i = 0; i < subfields[0].length; ++i) {
       subfields[0][i] = subfields[0][i].trim();
       subfields[1][i] = subfields[1][i].trim();
+      if (subfields[0][i].length() == 0 && subfields[1][i].length() == 0) {
+        logger.warning("Empty pair: " + line);
+        continue;
+      }
+      if (subfields[0][i].length() == 0) {
+        subfields[0][i] = "__";
+      }
+      if (subfields[1][i].length() == 0) {
+        subfields[1][i] = "__";
+      }
       pairEntry.pairs.add(new Pair(subfields[0][i], subfields[1][i]));
     }
     final IndexedEntry entryData = new IndexedEntry(pairEntry);

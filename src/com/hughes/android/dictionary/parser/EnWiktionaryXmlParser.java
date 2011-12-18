@@ -306,12 +306,16 @@ public class EnWiktionaryXmlParser {
             }
           //}
         } else if (functionName.equals("qualifier")) {
-          String qualifier = args.get(0);
-          if (!namedArgs.isEmpty() || args.size() > 1) {
-            LOG.warning("weird qualifier: " + line);
+          if (args.size() == 0) {
+           otherText.append(wikiTokenizer.token()); 
+          } else { 
+            String qualifier = args.get(0);
+            if (!namedArgs.isEmpty() || args.size() > 1) {
+              LOG.warning("weird qualifier: " + line);
+            }
+            // Unindexed!
+            otherText.append("(").append(qualifier).append(")");
           }
-          // Unindexed!
-          otherText.append("(").append(qualifier).append(")");
         } else if (encodings.contains(functionName)) {
           otherText.append("").append(args.get(0));
           otherIndexBuilder.addEntryWithString(indexedEntry, args.get(0), EntryTypeName.WIKTIONARY_TRANSLATION_OTHER_TEXT);
@@ -578,6 +582,7 @@ public class EnWiktionaryXmlParser {
     
     final String prefix = listSection.firstPrefix;
     if (prefix.length() > 1) {
+      // Could just get looser and say that any prefix longer than first is a sublist.
       LOG.warning("Prefix too long: " + listSection);
       return;
     }
