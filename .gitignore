@@ -7,3 +7,4 @@ wikiSplit_201106
 wikiSplit_201111
 .project
 .settings/
+testdata/outputs/*
