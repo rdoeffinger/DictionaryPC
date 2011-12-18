@@ -1,0 +1,4 @@
+de-en.txt - a German-English dictionary
+Version: devel, 2009-08-12
+Source: http://dict.tu-chemnitz.de/
+Thanks to Frank Richter.
