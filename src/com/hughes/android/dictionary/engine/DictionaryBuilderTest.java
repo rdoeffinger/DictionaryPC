@@ -33,23 +33,58 @@ public class DictionaryBuilderTest extends TestCase {
 
   public static final String TEST_OUTPUTS = "testdata/outputs/";
 
-  public void testWiktionaryItalianFromItalian() throws Exception {
-    final String name = "wiktionary.it_it.quickdic";
+  // Chinese
+  public void testWiktionary_ZH_ZH() throws Exception {
+    wiktionaryTestWithLangToEn("wiktionary.zh_zh.quickdic", "ZH", "empty.txt",
+        "ZH.data", "enwiktionary.chinese", "Chinese|Mandarin|Cantonese", "zh");
+  }
+
+  public void testWiktionary_ZH_EN() throws Exception {
+    wiktionaryTestWithLangToEn("wiktionary.zh_en.quickdic", "ZH", "empty.txt",
+        "EN.data", "enwiktionary.english", "Chinese|Mandarin|Cantonese", "zh");
+  }
+
+  
+  // German
+  public void testWiktionary_DE_DE() throws Exception {
+    wiktionaryTestWithLangToEn("wiktionary.de_de.quickdic", "DE", "de.txt",
+        "DE.data", "enwiktionary.german", "German", "it");
+  }
+
+  public void testWiktionary_DE_EN() throws Exception {
+    wiktionaryTestWithLangToEn("wiktionary.de_en.quickdic", "DE", "de.txt",
+        "EN.data", "enwiktionary.english", "German", "it");
+  }
+
+  // Italian
+  public void testWiktionary_IT_IT() throws Exception {
+    wiktionaryTestWithLangToEn("wiktionary.it_it.quickdic", "IT", "it.txt",
+        "IT.data", "enwiktionary.italian", "Italian", "it");
+  }
+
+  public void testWiktionary_IT_EN() throws Exception {
+    wiktionaryTestWithLangToEn("wiktionary.it_en.quickdic", "IT", "it.txt",
+        "EN.data", "enwiktionary.english", "Italian", "it");
+  }
+
+  public void wiktionaryTestWithLangToEn(final String name, final String lang1,
+      final String stoplist, final String data, final String dictName,
+      final String langPattern, final String langCode) throws Exception {
     final File result = new File(TEST_OUTPUTS + name);
     System.out.println("Writing to: " + result);
     DictionaryBuilder.main(new String[] {
         "--dictOut=" + result.getAbsolutePath(),
-        "--lang1=IT",
+        "--lang1=" + lang1,
         "--lang2=EN",
-        "--lang1Stoplist=" + STOPLISTS + "it.txt",
+        "--lang1Stoplist=" + STOPLISTS + stoplist,
         "--lang2Stoplist=" + STOPLISTS + "en.txt",
         "--dictInfo=SomeWikiData",
 
-        "--input4=" + WIKISPLIT + "IT.data",
-        "--input4Name=enwiktionary.italian",
+        "--input4=" + WIKISPLIT + data,
+        "--input4Name=" + dictName,
         "--input4Format=enwiktionary",
-        "--input4LangPattern=Italian",
-        "--input4LangCodePattern=it",
+        "--input4LangPattern=" + langPattern,
+        "--input4LangCodePattern=" + langCode,
         "--input4EnIndex=2",
         "--input4PageLimit=1000",
 
@@ -59,33 +94,6 @@ public class DictionaryBuilderTest extends TestCase {
     checkGolden(name, result); 
   }
 
-  public void testWiktionaryItalianFromEnglish() throws Exception {
-    final String name = "wiktionary.it_en.quickdic";
-    final File result = new File(TEST_OUTPUTS + name);
-    System.out.println("Writing to: " + result);
-    DictionaryBuilder.main(new String[] {
-        "--dictOut=" + result.getAbsolutePath(),
-        "--lang1=IT",
-        "--lang2=EN",
-        "--lang1Stoplist=" + STOPLISTS + "it.txt",
-        "--lang2Stoplist=" + STOPLISTS + "en.txt",
-        "--dictInfo=SomeWikiData",
-
-        "--input3=" + WIKISPLIT + "EN.data",
-        "--input3Name=enwiktionary.english",
-        "--input3Format=enwiktionary",
-        "--input3LangPattern=Italian",
-        "--input3LangCodePattern=it",
-        "--input3EnIndex=2",
-        "--input3PageLimit=1000",
-
-        "--print=" + result.getPath() + ".text",
-    });
-    
-    checkGolden(name, result); 
-  }
-
-  
   public void testGermanCombined() throws Exception {
     final String name = "de-en.quickdic";
     final File result = new File(TEST_OUTPUTS + name);

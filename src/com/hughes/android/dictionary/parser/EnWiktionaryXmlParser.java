@@ -165,9 +165,10 @@ public class EnWiktionaryXmlParser {
   
   private void doTranslations(final String title, final WikiTokenizer wikiTokenizer, final String pos) {
     if (title.equals("absolutely")) {
-      System.out.println();
+      //System.out.println();
     }
     
+    String topLevelLang = null;
     String sense = null;
     boolean done = false;
     while (wikiTokenizer.nextToken() != null) {
@@ -180,8 +181,6 @@ public class EnWiktionaryXmlParser {
       }
       
       // Check whether we care about this line:
-      
-      //line = WikiLineReader.removeSquareBrackets(line);
       
       if (wikiTokenizer.isFunction()) {
         final String functionName = wikiTokenizer.functionName();
@@ -213,6 +212,10 @@ public class EnWiktionaryXmlParser {
         final String line = wikiTokenizer.listItemWikiText();
         // This line could produce an output...
         
+        if (line.contains("ich hoan dich gear")) {
+          System.out.println();
+        }
+        
         // First strip the language and check whether it matches.
         // And hold onto it for sub-lines.
         final int colonIndex = line.indexOf(":");
@@ -220,16 +223,28 @@ public class EnWiktionaryXmlParser {
           continue;
         }
         
-        final String lang = line.substring(0, colonIndex);
-        if (!this.langPattern.matcher(lang).find()) {
+        final String lang = trim(WikiTokenizer.toPlainText(line.substring(0, colonIndex)));
+        final boolean appendLang;
+        if (wikiTokenizer.listItemPrefix().length() == 1) {
+          topLevelLang = lang;
+          final boolean thisFind = langPattern.matcher(lang).find();
+          if (!thisFind) {
+            continue;
+          }
+          appendLang = !langPattern.matcher(lang).matches();
+        } else if (topLevelLang == null) {
           continue;
+        } else {
+          // Two-level -- the only way we won't append is if this second level matches exactly.
+          if (!langPattern.matcher(lang).matches() && !langPattern.matcher(topLevelLang).find()) {
+            continue;
+          }
+          appendLang = !langPattern.matcher(lang).matches();
         }
         
         String rest = line.substring(colonIndex + 1).trim();
         if (rest.length() > 0) {
-          doTranslationLine(line, title, pos, sense, rest);
-        } else {
-          // TODO: do lines that are like "Greek:"
+          doTranslationLine(line, appendLang ? lang : null, title, pos, sense, rest);
         }
         
       } else if (wikiTokenizer.remainderStartsWith("''See''")) {
@@ -258,7 +273,7 @@ public class EnWiktionaryXmlParser {
     return index < list.size() ? list.get(index) : null;
   }
   
-  private void doTranslationLine(final String line, final String title, final String pos, final String sense, final String rest) {
+  private void doTranslationLine(final String line, final String lang, final String title, final String pos, final String sense, final String rest) {
     // Good chance we'll actually file this one...
     final PairEntry pairEntry = new PairEntry();
     final IndexedEntry indexedEntry = new IndexedEntry(pairEntry);
@@ -361,6 +376,10 @@ public class EnWiktionaryXmlParser {
     if (otherText.length() == 0) {
       LOG.warning("Empty otherText: " + line);
       return;
+    }
+    
+    if (lang != null) {
+      otherText.insert(0, "(" + lang + ") ");
     }
     
     StringBuilder englishText = new StringBuilder();
