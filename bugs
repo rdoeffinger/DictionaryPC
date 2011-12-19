@@ -1,13 +1,20 @@
+UI:
+enter should hide keyboard
+add to wordlist should focus word (so next typing clears text).
+sideways keyboard appear.
 icons
+
+PC:
+sub-levels in translations.
 handle word-info in English.
+italian verbs... (show conjugation, pulled from a linked place....)
+
 
 
 Bad ordering:
 ===do===
   do {{wikipedia|Do (nota)|lang=it}}{{infl|it|noun|g=m}} :: do, the musical note
   fare {{it-verb}} {{transitive}} :: To do
-
-sub-levels in translations.
 
 in wiktionary
   futurismo :: futurism () (noun)

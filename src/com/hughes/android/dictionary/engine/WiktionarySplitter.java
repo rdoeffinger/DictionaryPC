@@ -82,10 +82,10 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
 //          new Selector("../DictionaryData/inputs/enWikiSplit/AF.data", ".*[Aa]frikaans.*"),
 //          new Selector("../DictionaryData/inputs/enWikiSplit/AR.data", ".*[Aa]rabic.*"),
 //          new Selector("../DictionaryData/inputs/enWikiSplit/HY.data", ".*[Aa]rmenian.*"),
-//          new Selector("../DictionaryData/inputs/enWikiSplit/HR.data", ".*[Cc]roation.*"),
+          new Selector("../DictionaryData/inputs/enWikiSplit/HR.data", ".*[Cc]roatian.*"),
 //          new Selector("../DictionaryData/inputs/enWikiSplit/CS.data", ".*[Cc]zech.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/ZH.data", ".*[Cc]hinese.*|.*[Mm]andarin.*|.*Cantonese.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/DA.data", ".*[Dd]anish.*")
+          new Selector("../DictionaryData/inputs/enWikiSplit/ZH.data", ".*[Cc]hinese.*|.*[Mm]andarin.*|.*Cantonese.*")
+//          new Selector("../DictionaryData/inputs/enWikiSplit/DA.data", ".*[Dd]anish.*"),
 //          new Selector("../DictionaryData/inputs/enWikiSplit/NL.data", ".*[Dd]utch.*"),
 //          new Selector("../DictionaryData/inputs/enWikiSplit/EN.data", ".*[Ee]nglish.*"),
 //          new Selector("../DictionaryData/inputs/enWikiSplit/FI.data", ".*[Ff]innish.*"),

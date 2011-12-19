@@ -99,14 +99,14 @@ public class DictionaryBuilderMain extends TestCase {
             "--input2Format=enwiktionary",
             "--input2LangPattern=" + isoToRegex.get(foreignIso),
             "--input2LangCodePattern=" + foreignIso.toLowerCase(),
-            "--input2EnIndex=2",
+            "--input2EnIndex=1",
 
             "--input3=" + INPUTS + "enWikiSplit/EN.data",
             "--input3Name=enwiktionary.english",
             "--input3Format=enwiktionary",
             "--input3LangPattern=" + isoToRegex.get(foreignIso),
             "--input3LangCodePattern=" + foreignIso.toLowerCase(),
-            "--input3EnIndex=2",
+            "--input3EnIndex=1",
 
         });
         
@@ -125,9 +125,11 @@ public class DictionaryBuilderMain extends TestCase {
     }  // foreignIso
 
     DictionaryBuilder.main(new String[] {
-        "--dictOut=" + OUTPUTS + "DE-EN_chemnitz_enwiktionary",
+        "--dictOut=" + OUTPUTS + "DE-EN_chemnitz_enwiktionary.quickdic",
         "--lang1=DE",
         "--lang2=EN",
+        String.format("--lang1Stoplist=%s", STOPLISTS + isoToStoplist.get("DE")),
+        String.format("--lang2Stoplist=%s", STOPLISTS + isoToStoplist.get("EN")),
         "--dictInfo=@" + INPUTS + "de-en_chemnitz_enwiktionary.info",
 
         "--input1=" + INPUTS + "de-en_chemnitz.txt",
