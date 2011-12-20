@@ -43,7 +43,6 @@ public class DictionaryBuilderTest extends TestCase {
     wiktionaryTestWithLangToEn("wiktionary.zh_en.quickdic", "ZH", "empty.txt",
         "EN.data", "enwiktionary.english", "Chinese|Mandarin|Cantonese", "zh");
   }
-
   
   // German
   public void testWiktionary_DE_DE() throws Exception {

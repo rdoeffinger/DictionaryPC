@@ -8,6 +8,7 @@ PC:
 sub-levels in translations.
 handle word-info in English.
 italian verbs... (show conjugation, pulled from a linked place....)
+add unit test for: Errors: [Unmatched {{ error: * {{a|US}} {{IPA|[ˈfɔɹ.wɝd]]}}
 
 
 

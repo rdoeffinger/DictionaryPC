@@ -173,6 +173,7 @@ public final class WikiTokenizer {
     if (lastUnescapedPipePos != -1) {
       return wikiText.substring(lastUnescapedPipePos + 1, end - 2);
     }
+    assert start + 2 < wikiText.length() && end >= 2: wikiText;
     return wikiText.substring(start + 2, end - 2);
   }
 

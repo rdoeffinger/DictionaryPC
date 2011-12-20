@@ -18,6 +18,7 @@ import java.io.File;
 import java.io.PrintWriter;
 import java.io.RandomAccessFile;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.LinkedHashMap;
 import java.util.List;
@@ -44,7 +45,6 @@ public class DictionaryBuilderMain extends TestCase {
     // German handled in file.
     isoToDedication.put("EL", "Greek dictionary dedicated to Noah Egge.");
     isoToDedication.put("IT", "Italian dictionary dedicated to Carolina Tropini, my favorite stardust in the whole universe!  Ti amo!");
-    isoToDedication.put("JA", "Japanese dictionary dedicated to Akane Watanabe.");
     isoToDedication.put("KO", "Korean dictionary dedicated to Ande Elwood--fall fashion und Fernsehturms!");
     isoToDedication.put("PT", "Portuguese dictionary dedicated to Carlos Melo, one Tough Mudder.");
     isoToDedication.put("RO", "Romanian dictionary dedicated to Radu Teodorescu.");
@@ -61,12 +61,14 @@ public class DictionaryBuilderMain extends TestCase {
     isoToStoplist.put("FR", "fr.txt");
 
     final Map<String,String>  isoToRegex = new LinkedHashMap<String, String>();
-    isoToRegex.put("ZH", ".*Chinese.*|.*Mandarin.*|.*Cantonese.*");
+    isoToRegex.put("ZH", "Chinese|Mandarin|Cantonese");
     
-    boolean go = false; 
-    isoToWikiName.clear();
+    isoToWikiName.keySet().retainAll(Arrays.asList("UK", "HR", "FI"));
+    
+    boolean go = true; 
+//    isoToWikiName.clear();
     for (final String foreignIso : isoToWikiName.keySet()) {
-      if (foreignIso.equals("GA")) {
+      if (foreignIso.equals("SV")) {
         go = true;
       }
       if (!go) {
@@ -83,7 +85,7 @@ public class DictionaryBuilderMain extends TestCase {
           isoToDedication.put(foreignIso, "");
         }
         if (!isoToRegex.containsKey(foreignIso)) {
-          isoToRegex.put(foreignIso, ".*" + isoToWikiName.get(foreignIso) + ".*");
+          isoToRegex.put(foreignIso, isoToWikiName.get(foreignIso));
         }
   
         DictionaryBuilder.main(new String[] {

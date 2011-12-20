@@ -46,7 +46,7 @@ public class EnWiktionaryXmlParser {
       "Noun|Verb|Adjective|Adverb|Pronoun|Conjunction|Interjection|" +
       "Preposition|Proper noun|Article|Prepositional phrase|Acronym|" +
       "Abbreviation|Initialism|Contraction|Prefix|Suffix|Symbol|Letter|" +
-      "Ligature|Idiom|Phrase|" +
+      "Ligature|Idiom|Phrase|{{initialism}}|" +
       // These are @deprecated:
       "Noun form|Verb form|Adjective form|Nominal phrase|Noun phrase|" +
       "Verb phrase|Transitive verb|Intransitive verb|Reflexive verb|" +
@@ -201,6 +201,7 @@ public class EnWiktionaryXmlParser {
           // TODO: would also be nice...
         } else if (functionName.startsWith("picdic")) {
         } else if (functionName.startsWith("checktrans")) {
+          done = true;
         } else if (functionName.startsWith("ttbc")) {
           wikiTokenizer.nextLine();
           // TODO: would be great to handle ttbc
@@ -213,7 +214,7 @@ public class EnWiktionaryXmlParser {
         // This line could produce an output...
         
         if (line.contains("ich hoan dich gear")) {
-          System.out.println();
+          //System.out.println();
         }
         
         // First strip the language and check whether it matches.
@@ -704,14 +705,16 @@ public class EnWiktionaryXmlParser {
           pairEntry.pairs.add(pair);
         }
       } else if (nextPrefix.equals("#::") || nextPrefix.equals("#**")) {
-        if (lastForeign != null) {
+        if (lastForeign != null && pairEntry.pairs.size() > 0) {
           pairEntry.pairs.remove(pairEntry.pairs.size() - 1);
           final Pair pair = new Pair(formatAndIndexExampleString(nextLine, enIndexBuilder, indexedEntry), formatAndIndexExampleString(lastForeign, otherIndexBuilder, indexedEntry), swap);
           if (pair.lang1 != "--" && pair.lang1 != "--") {
             pairEntry.pairs.add(pair);
           }
+          lastForeign = null;
         } else {
-          LOG.warning("English example with no foreign: " + title + ", " + nextLine);
+          LOG.warning("TODO: English example with no foreign: " + title + ", " + nextLine);
+          // TODO: add something.
         }
       } else if (nextPrefix.equals("#*")) {
         // Can't really index these.
