@@ -306,7 +306,7 @@ Index: it it->en
 ===autunno===
   autunno {m} :: autumn (season) (noun)
 ===avanti===
-  a.C. (avanti Cristo) :: BC (before Christ)
+  a.C. (avanti Cristo) :: BC (before Christ) ({{initialism}})
 ===avatar===
   avatar {m}, incarnazione :: avatar (The earthly incarnation of a deity, particularly Vishnu) (noun)
   avatar {m}, emblema, simbolo :: avatar (A digital representation of a person or being) (noun)
@@ -374,8 +374,8 @@ Index: it it->en
   brusco, brusca :: abrupt (broken off or very steep) (adjective)
   brusco, brusca :: abrupt (sudden or hasty) (adjective)
 ===C===
-  d.C. (dopo Cristo) :: AD (anno Domini)
-  a.C. (avanti Cristo) :: BC (before Christ)
+  d.C. (dopo Cristo) :: AD (anno Domini) ({{initialism}})
+  a.C. (avanti Cristo) :: BC (before Christ) ({{initialism}})
 ===cacata===
   sciocchezza {f}, cagata {f}, stronzata {f}, cazzata {f}, cacata {f} :: crap (nonsense) (noun)
 ===cacca===
@@ -506,8 +506,8 @@ Index: it it->en
   crescita {f} :: growth (increase in size) (noun)
   crescita {f} :: growth (act of growing) (noun)
 ===Cristo===
-  a.C. (avanti Cristo) :: BC (before Christ)
-  d.C. (dopo Cristo) :: AD (anno Domini)
+  a.C. (avanti Cristo) :: BC (before Christ) ({{initialism}})
+  d.C. (dopo Cristo) :: AD (anno Domini) ({{initialism}})
 ===cronometrare===
   cronometrare :: clock (measure the duration of) (verb)
 ===crostata===
@@ -610,7 +610,7 @@ Index: it it->en
 ===domenica===
   domenica {f} :: Sunday (day of the week) (noun)
 ===dopo===
-  d.C. (dopo Cristo) :: AD (anno Domini)
+  d.C. (dopo Cristo) :: AD (anno Domini) ({{initialism}})
 ===dose===
   dose {f} :: deal (large number or amount or extent) (noun)
 ===dottrina===
@@ -1193,7 +1193,7 @@ Index: it it->en
 ===piede===
   piede di porco :: crow (bar of iron) (noun)
 ===PIL===
-  PIL :: GDP (gross domestic product)
+  PIL :: GDP (gross domestic product) ({{initialism}})
 ===piovere===
   piovere a catinelle :: rain cats and dogs (to rain very heavily) (verb)
 ===pisello===
@@ -2021,7 +2021,7 @@ Index: en en->it
 ===actor===
   stella {f}, star {f} :: star (actor) (noun)
 ===AD===
-  d.C. (dopo Cristo) :: AD (anno Domini)
+  d.C. (dopo Cristo) :: AD (anno Domini) ({{initialism}})
 ===adjectival===
   i {m}, gli {m}, le {f} :: the (with an adjectival noun, as in “the hungry” to mean “hungry people”) (article)
 ===adjective===
@@ -2100,7 +2100,7 @@ Index: en en->it
 ===animals===
   canile {m}, recinto :: pound (place for the detention of stray animals) (noun)
 ===anno===
-  d.C. (dopo Cristo) :: AD (anno Domini)
+  d.C. (dopo Cristo) :: AD (anno Domini) ({{initialism}})
 ===another===
   sinonimo {m} :: synonym (word with same meaning as another) (noun)
   saltare :: leap (to jump from one location to another) (verb)
@@ -2227,7 +2227,7 @@ Index: en en->it
   baratto {m} :: barter (an equal exchange) (noun)
   barattare :: barter (exchange goods or services without involving money) (verb)
 ===BC===
-  a.C. (avanti Cristo) :: BC (before Christ)
+  a.C. (avanti Cristo) :: BC (before Christ) ({{initialism}})
 ===be===
   essere :: be (occupy a place) (verb)
   essere :: be (occur, take place) (verb)
@@ -2258,7 +2258,7 @@ Index: en en->it
   il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (used as an alternative to a possessive pronoun before body parts) (article)
   zero {m} :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   precolombiano :: pre-Columbian (before Christopher Columbus) (adjective)
-  a.C. (avanti Cristo) :: BC (before Christ)
+  a.C. (avanti Cristo) :: BC (before Christ) ({{initialism}})
   dieci :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
 ===beginning===
   nascita {f} :: birth (beginning or start; a point of origin) (noun)
@@ -2493,7 +2493,7 @@ Index: en en->it
 ===chosen===
   nome {m} :: first name (name chosen by parents) (noun)
 ===Christ===
-  a.C. (avanti Cristo) :: BC (before Christ)
+  a.C. (avanti Cristo) :: BC (before Christ) ({{initialism}})
 ===Christopher===
   precolombiano :: pre-Columbian (before Christopher Columbus) (adjective)
 ===church===
@@ -2927,9 +2927,9 @@ Index: en en->it
   biglietto da due dollari {m}, bancanota da due dollari {f} :: two (two-dollar bill) (noun)
 ===domestic===
   gatto {m}, gatta {f}, micio {m}, micia {f} :: cat (domestic species) (noun)
-  PIL :: GDP (gross domestic product)
+  PIL :: GDP (gross domestic product) ({{initialism}})
 ===Domini===
-  d.C. (dopo Cristo) :: AD (anno Domini)
+  d.C. (dopo Cristo) :: AD (anno Domini) ({{initialism}})
 ===done===
   seconda chance {f}, seconda possibilità {f} :: second (another chance to achieve what should have been done the first time) (noun)
 ===draw===
@@ -3271,7 +3271,7 @@ Index: en en->it
   scoreggia {f}, peto {m} :: fart (an emission of flatulent gases) (noun)
   scoreggiare, fare un peto :: fart (to emit flatulent gases) (verb)
 ===GDP===
-  PIL :: GDP (gross domestic product)
+  PIL :: GDP (gross domestic product) ({{initialism}})
 ===general===
   pasticcio {m} :: pie (other, nonpastry dishes that maintain the general concept of a shell with a filling) (noun)
 ===generic===
@@ -3368,7 +3368,7 @@ Index: en en->it
   groccare :: grok (to have an intuitive understanding) (verb)
   groccare :: grok (to fully understand) (verb)
 ===gross===
-  PIL :: GDP (gross domestic product)
+  PIL :: GDP (gross domestic product) ({{initialism}})
 ===ground===
   erba {f}, graminacea {f} :: grass (ground cover plant) (noun)
 ===group===
@@ -4479,7 +4479,7 @@ Index: en en->it
   prodotto {m} :: product (result of chemical reaction) (noun)
   prodotto {m} :: product (multiplication result) (noun)
   prodotto {m}, frutto {m} :: product (any tangible output) (noun)
-  PIL :: GDP (gross domestic product)
+  PIL :: GDP (gross domestic product) ({{initialism}})
   abortivo {m} :: abortion (immature product of an untimely birth) (noun)
   definizione {f} :: definition (product of defining) (noun)
 ===progression===

@@ -46,7 +46,7 @@ public class EnWiktionaryXmlParser {
       "Noun|Verb|Adjective|Adverb|Pronoun|Conjunction|Interjection|" +
       "Preposition|Proper noun|Article|Prepositional phrase|Acronym|" +
       "Abbreviation|Initialism|Contraction|Prefix|Suffix|Symbol|Letter|" +
-      "Ligature|Idiom|Phrase|" + //|\\{\\{acronym\\}\\}|\\{\\{initialism\\}\\}
+      "Ligature|Idiom|Phrase|\\{\\{acronym\\}\\}|\\{\\{initialism\\}\\}|" +
       // These are @deprecated:
       "Noun form|Verb form|Adjective form|Nominal phrase|Noun phrase|" +
       "Verb phrase|Transitive verb|Intransitive verb|Reflexive verb|" +
