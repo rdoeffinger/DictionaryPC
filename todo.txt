@@ -3,21 +3,11 @@ X version number
 ! enter should hide keyboard
 icons
 
-done:
-add to wordlist should focus word (so next typing clears text).
-sideways keyboard appear.
-
 
 **** PC:
-! {infl}
-! always put defs in list...
 handle word-info in English.
 italian verbs... (show conjugation, pulled from a linked place....)
 
-done:
-better handling of language name in foreign sections (might need to append it if it isn't exact)
-sub-levels in translations.
-add unit test for: Errors: [Unmatched {{ error: * {{a|US}} {{IPA|[ˈfɔɹ.wɝd]]}}
 
 === Bad ordering:
 ===do===
@@ -35,4 +25,13 @@ add unit test for: Errors: [Unmatched {{ error: * {{a|US}} {{IPA|[ˈfɔɹ.wɝd]]
 in wiktionary
   futurismo :: futurism () (noun)
 
+  
+done:
+{infl}
+better handling of language name in foreign sections (might need to append it if it isn't exact)
+sub-levels in translations.
+add unit test for: Errors: [Unmatched {{ error: * {{a|US}} {{IPA|[ˈfɔɹ.wɝd]]}}
+add to wordlist should focus word (so next typing clears text).
+sideways keyboard appear.
+always put defs in list...
   

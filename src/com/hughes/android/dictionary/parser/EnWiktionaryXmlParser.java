@@ -768,24 +768,27 @@ public class EnWiktionaryXmlParser {
         if (lastForeign != null && pairEntry.pairs.size() > 0) {
           pairEntry.pairs.remove(pairEntry.pairs.size() - 1);
           final Pair pair = new Pair(formatAndIndexExampleString(nextLine, enIndexBuilder, indexedEntry), formatAndIndexExampleString(lastForeign, otherIndexBuilder, indexedEntry), swap);
-          if (pair.lang1 != "--" && pair.lang1 != "--") {
+          if (pair.lang1 != "--" || pair.lang2 != "--") {
             pairEntry.pairs.add(pair);
           }
           lastForeign = null;
         } else {
           LOG.warning("TODO: English example with no foreign: " + title + ", " + nextLine);
-          // TODO: add something.
+          final Pair pair = new Pair("--", formatAndIndexExampleString(nextLine, null, indexedEntry), swap);
+          if (pair.lang1 != "--" || pair.lang2 != "--") {
+            pairEntry.pairs.add(pair);
+          }
         }
       } else if (nextPrefix.equals("#*")) {
         // Can't really index these.
         final Pair pair = new Pair("--", formatAndIndexExampleString(nextLine, null, indexedEntry), swap);
         lastForeign = nextLine;
-        if (pair.lang1 != "--" && pair.lang1 != "--") {
+        if (pair.lang1 != "--" || pair.lang2 != "--") {
           pairEntry.pairs.add(pair);
         }
       } else if (nextPrefix.equals("#::*") || nextPrefix.equals("##") || nextPrefix.equals("#*:") || nextPrefix.equals("#:*") || true) {
         final Pair pair = new Pair("--", formatAndIndexExampleString(nextLine, null, indexedEntry), swap);
-        if (pair.lang1 != "--" && pair.lang1 != "--") {
+        if (pair.lang1 != "--" || pair.lang2 != "--") {
           pairEntry.pairs.add(pair);
         }
 //      } else {
