@@ -55,6 +55,12 @@ public class WikiTokenizerTest extends TestCase {
 
     wikiText = "* This is ''bold''' asdf.";
     assertEquals(wikiText, new WikiTokenizer(wikiText).nextToken().token());
+
+    wikiText = "* {{a|US}} {{IPA|[ˈfɔɹ.wɝd]]}}\nasdf\n";
+    assertEquals("* {{a|US}} {{IPA|[ˈfɔɹ.wɝd]]}}", new WikiTokenizer(wikiText).nextToken().token());
+    assertTrue(new WikiTokenizer(wikiText).nextToken().isListItem());
+    assertEquals("\n", new WikiTokenizer(wikiText).nextToken().nextToken().token());
+    
   }
   
   public void testFunction() {

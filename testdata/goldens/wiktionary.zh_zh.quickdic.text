@@ -110,7 +110,7 @@ Index: zh zh->en
   㑪 {{yue-hanzi|jyut=|y=chai4}} :: {{defn|lang=yue|sort=人08}}
   㑪 {{cmn-hanzi|pin=[[chái]] ([[chai2]])|wg=ch'ai<sup>2</sup>}} :: {{defn|lang=cmn|sort=人08}}
 ===chan===
-  chan {{infl|yue|proper noun}}{{attention|zh|may need inflection template}} :: Cantonese spelling of Chinese surname 陳 (simplified 陈)
+  chan (proper noun) :: Cantonese spelling of Chinese surname 陳 (simplified 陈)
 ===朝===
   朝 {{yue-hanzi|jyut=[[ciu4]], [[ziu1]]|y=[[chiu4]], [[jiu1]]}} :: {{defn|lang=yue|sort=月08}}
   朝 {{cmn-noun|ts|pin=cháo|pint=chao2|rs=月08}} :: the court; the government
@@ -128,7 +128,7 @@ Index: zh zh->en
   車 {{cmn-noun|t|pin=jū|pint=ju1|tra=車|sim=车|rs=車00}} :: the black chariot/rook in Chinese chess
   车 {{cmn-noun|s|pin=jū|pint=ju1|tra=[[車]] or [[俥]]|sim=车|rs=车00}} :: chariot/rook in Chinese chess
 ===chat===
-  chat {{infl|yue|cardinal number|Han spelling|'''{{l|yue|七|sc=Hani}}'''}} :: seven
+  chat (cardinal number), Han spelling: {{l|yue|七|sc=Hani}} :: seven
 ===车===
   车 {{yue-hanzi|jyut=[[ce1]], [[geoi1]]|y=[[che1]], [[geui1]]|tra=車}} :: {{defn|lang=yue|sort=车00}}
   车 {{cmn-noun|s|pin=chē|pint=che1|tra=車|sim=车|rs=车00}} :: {{Beginning Mandarin|lang=zh-cn|skey=che1}} vehicle; car
@@ -281,6 +281,7 @@ Index: zh zh->en
 ===儿===
   儿 {{yue-hanzi|jyut=|y=yan4|tra=兒}} :: {{defn|lang=yue|sort=儿00}}
   儿 {{cmn-hanzi|tra=兒|pin=[[ér]] ([[er2]]), [[rén]] ([[ren2]])|wg=erh<sup>2</sup>, jen<sup>2</sup>}} :: {{defn|lang=cmn|sort=儿00}}
+  r (suffix), traditional: 兒, simplified: 儿 :: (a suffix for erhua)
   NB {{cmn-adj|p|pint=nb}} :: {{slang|lang=zh-cn|skey=nb}} fucking awesome
     他小說寫的太NB了。 (trad.) :: --
     他小说写的太NB了。 (simp.) :: The novels he writes are fucking awesome.
@@ -288,6 +289,8 @@ Index: zh zh->en
     哥们儿，别傻说，美国比英国NB，美国是超级大国！ (simp.) :: Dude, don't talk shit. America's heaps stronger than Britain - U.S.A. is the superpower!
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
+===兒===
+  r (suffix), traditional: 兒, simplified: 儿 :: (a suffix for erhua)
 ===二===
   二 {{yue-hanzi|jyut=[[ji6]]|y=[[yi6]]}} :: two
   二 {{cmn-hanzi|pin=[[èr]] ([[er4]])|wg=[[erh4|erh<sup>4</sup>]]}} :: Tang: nji3
@@ -367,6 +370,8 @@ Index: zh zh->en
 ===㒈===
   㒈 {{yue-hanzi|jyut=|y=hon6}} :: {{defn|lang=yue|sort=人12}}
   㒈 {{cmn-hanzi|pin=[[hàn]] ([[han4]])|wg=han<sup>4</sup>}} :: {{defn|lang=cmn|sort=人12}}
+===Hani===
+  chat (cardinal number), Han spelling: {{l|yue|七|sc=Hani}} :: seven
 ===hē===
   酒 {{cmn-noun|ts|pin=jiǔ|pint=jiu3|rs=酉03}} :: Wine, spirits, liquor, alcoholic beverage
     你幹嗎不喝點酒? (trad.) :: --
@@ -502,6 +507,8 @@ Index: zh zh->en
 ===㒑===
   㒑 {{yue-hanzi|jyut=|y=hung2, kui2 wak6}} :: {{defn|lang=yue|sort=人13}}
   㒑 {{cmn-hanzi|pin=[[huì]] ([[hui4]]), [[kuǐ]] ([[kui3]])|wg=hui<sup>4</sup>, k'uei<sup>3</sup>}} :: {{defn|lang=cmn|sort=人13}}
+===l===
+  chat (cardinal number), Han spelling: {{l|yue|七|sc=Hani}} :: seven
 ===㑣===
   㑣 {{yue-hanzi|jyut=|y=lam2, lam4}} :: {{defn|lang=yue|sort=人08}}
   㑣 {{cmn-hanzi|pin=[[lán]] ([[lan2]])|wg=lan<sup>2</sup>}} :: {{defn|lang=cmn|sort=人08}}
@@ -637,8 +644,8 @@ Index: zh zh->en
 ===马===
   马 {{yue-hanzi|jyut=|y=ma5|tra=馬}} :: {{defn|lang=yue|sort=马00}}
   马 {{cmn-hanzi|tra=馬|pin=[[mǎ]] ([[ma3]])|wg=ma<sup>3</sup>}} :: {{defn|lang=cmn|sort=马00}}
-  马 {{infl|cmn|noun|sc=Hani}}{{zh-attention|needs inflection template}} :: measure word: 匹
-  马 {{infl|cmn|noun|sc=Hani}}{{zh-attention|needs inflection template}} :: {{defn|lang=cmn|sort=马00}}
+  马 (noun) :: measure word: 匹
+  马 (noun) :: {{defn|lang=cmn|sort=马00}}
 ===馬===
   馬 {{yue-hanzi|jyut=maa5|y=ma5|sim=马}} :: {{defn|lang=yue|sort=馬00}}
   馬 {{cmn-hanzi|sim=马|pin=[[mǎ]] ([[ma3]])|wg=ma<sup>3</sup>}} :: {{defn|lang=cmn|sort=馬00}}
@@ -671,7 +678,11 @@ Index: zh zh->en
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===men===
-  men {{infl|cmn|suffix|traditional|們|simplified|们}} :: plural for pronouns and human nouns
+  men (suffix), traditional: 們, simplified: 们 :: plural for pronouns and human nouns
+===们===
+  men (suffix), traditional: 們, simplified: 们 :: plural for pronouns and human nouns
+===們===
+  men (suffix), traditional: 們, simplified: 们 :: plural for pronouns and human nouns
 ===米===
   米 {{yue-hanzi|jyut=|y=mai5}} :: {{defn|lang=yue|sort=米00}}
   米 {{yue-noun|ts|tas=米}} :: metre
@@ -775,7 +786,7 @@ Index: zh zh->en
     耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===OK===
-  OK {{infl|cmn|adjective|sc=Latn}} :: all right
+  OK (adjective) :: all right
     [http://books.google.co.uk/books?id=iMpJGrutbcYC&pg=PA90&dq=%22OK%E5%90%97%22&hl=en&ei=VPqJTuWrIomgOo3dhdUB&sa=X&oi=book_result&ct=result&resnum=1&ved=0CC0Q6AEwAA#v=onepage&q=%22OK%E5%90%97%22&f=false 11樓 - Page 90] :: --
     「70%咖啡 OK 嗎?」 :: --
     {{Hant|[[OK]][[嗎]]？}}(trad.) / {{Hans|[[OK]][[吗]]？}}(simpl.) :: OK ma?
@@ -807,6 +818,7 @@ Index: zh zh->en
 ===七===
   七 {{yue-hanzi|jyut=|y=chat1}} :: {{defn|lang=yue|sort=一01}}
   七 {{cmn-hanzi|pin=[[qī]] ([[qi1]]), [[shǎng]] ([[shang3]])|wg=ch'i<sup>1</sup>, shang<sup>3</sup>}} :: seven
+  chat (cardinal number), Han spelling: {{l|yue|七|sc=Hani}} :: seven
 ===㒅===
   㒅 {{yue-hanzi|jyut=|y=kaai2}} :: {{defn|lang=yue|sort=人12}}
   㒅 {{cmn-hanzi|pin=[[qǐ]] ([[qi3]])|wg=ch'i<sup>3</sup>}} :: {{defn|lang=cmn|sort=人12}}
@@ -866,7 +878,7 @@ Index: zh zh->en
 ===㒽===
   㒽 {{yue-hanzi|jyut=|y=hyun1}} :: {{defn|lang=yue|sort=冂10}}
 ===r===
-  r {{infl|cmn|suffix|traditional|兒|simplified|儿}} :: (a suffix for erhua)
+  r (suffix), traditional: 兒, simplified: 儿 :: (a suffix for erhua)
 ===㒄===
   㒄 {{yue-hanzi|jyut=|y=jim5, ngam4}} :: {{defn|lang=yue|sort=人12}}
   㒄 {{cmn-hanzi|pin=[[nàng]] ([[nang4]]), [[nèn]] ([[nen4]]), [[rǎn]] ([[ran3]])|wg=nang<sup>4</sup>, nen<sup>4</sup>, jan<sup>3</sup>}} :: {{defn|lang=cmn|sort=人12}}
@@ -917,6 +929,8 @@ Index: zh zh->en
 ===三===
   三 {{yue-hanzi|jyut=|y=saam1, saam3}} :: {{defn|lang=yue|sort=一02}}
   三 {{cmn-car-num|ts|pin=sān|pint=san1|rs=一02}} :: three
+===sc===
+  chat (cardinal number), Han spelling: {{l|yue|七|sc=Hani}} :: seven
 ===㒊===
   㒊 {{yue-hanzi|jyut=|y=saap1, sik1}} :: {{defn|lang=yue|sort=人12}}
   㒊 {{cmn-hanzi|pin=[[sè]] ([[se4]])|wg=se<sup>4</sup>}} :: {{defn|lang=cmn|sort=人12}}
@@ -1076,7 +1090,7 @@ Index: zh zh->en
     傾盆大雨。 (trad.) :: --
     倾盆大雨。 (simp.) :: Raining cats and dogs.
 ===simpl===
-  OK {{infl|cmn|adjective|sc=Latn}} :: all right
+  OK (adjective) :: all right
     [http://books.google.co.uk/books?id=iMpJGrutbcYC&pg=PA90&dq=%22OK%E5%90%97%22&hl=en&ei=VPqJTuWrIomgOo3dhdUB&sa=X&oi=book_result&ct=result&resnum=1&ved=0CC0Q6AEwAA#v=onepage&q=%22OK%E5%90%97%22&f=false 11樓 - Page 90] :: --
     「70%咖啡 OK 嗎?」 :: --
     {{Hant|[[OK]][[嗎]]？}}(trad.) / {{Hans|[[OK]][[吗]]？}}(simpl.) :: OK ma?
@@ -1161,7 +1175,7 @@ Index: zh zh->en
   㓱 {{yue-hanzi|jyut=|y=syu1}} :: {{defn|lang=yue|sort=刀09}}
   㓱 {{cmn-hanzi|pin=[[tóu]] ([[tou2]])|wg=t'ou<sup>2</sup>}} :: {{defn|lang=cmn|sort=刀09}}
 ===trad===
-  OK {{infl|cmn|adjective|sc=Latn}} :: all right
+  OK (adjective) :: all right
     [http://books.google.co.uk/books?id=iMpJGrutbcYC&pg=PA90&dq=%22OK%E5%90%97%22&hl=en&ei=VPqJTuWrIomgOo3dhdUB&sa=X&oi=book_result&ct=result&resnum=1&ved=0CC0Q6AEwAA#v=onepage&q=%22OK%E5%90%97%22&f=false 11樓 - Page 90] :: --
     「70%咖啡 OK 嗎?」 :: --
     {{Hant|[[OK]][[嗎]]？}}(trad.) / {{Hans|[[OK]][[吗]]？}}(simpl.) :: OK ma?
@@ -1446,6 +1460,8 @@ Index: zh zh->en
   㒜 {{cmn-hanzi|pin=[[yú]] ([[yu2]]), [[yǔ]] ([[yu3]])|wg=yü<sup>2</sup>, yü<sup>3</sup>}} :: {{defn|lang=cmn|sort=人14}}
 ===円===
   円 (yuán) :: archaic form of 圆
+===yue===
+  chat (cardinal number), Han spelling: {{l|yue|七|sc=Hani}} :: seven
 ===月===
   月 {{yue-hanzi|jyut=[[jyut6]]|y=[[yut6]]}} :: {{defn|lang=yue|sort=月00}}
   月 {{cmn-noun|ts|pin=yuè|pint=yue4|rs=月00}} :: {{Beginning Mandarin|lang=zh-tw|skey=月00}} moon
@@ -1776,7 +1792,7 @@ Index: en en->zh
 ===calligraphy===
   书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: calligraphy
 ===Cantonese===
-  chan {{infl|yue|proper noun}}{{attention|zh|may need inflection template}} :: Cantonese spelling of Chinese surname 陳 (simplified 陈)
+  chan (proper noun) :: Cantonese spelling of Chinese surname 陳 (simplified 陈)
 ===CantonPinyin===
   愛 {{yue-hanzi|jyut=oi3|y=ngoi3, oi3|sim=爱}} :: CantonPinyin: oi2
 ===capital===
@@ -1815,9 +1831,9 @@ Index: en en->zh
 ===charge===
   书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: an ancient government post in charge of secretarial duties
 ===陈===
-  chan {{infl|yue|proper noun}}{{attention|zh|may need inflection template}} :: Cantonese spelling of Chinese surname 陳 (simplified 陈)
+  chan (proper noun) :: Cantonese spelling of Chinese surname 陳 (simplified 陈)
 ===陳===
-  chan {{infl|yue|proper noun}}{{attention|zh|may need inflection template}} :: Cantonese spelling of Chinese surname 陳 (simplified 陈)
+  chan (proper noun) :: Cantonese spelling of Chinese surname 陳 (simplified 陈)
 ===chess===
   車 {{cmn-noun|t|pin=jū|pint=ju1|tra=車|sim=车|rs=車00}} :: the black chariot/rook in Chinese chess
   车 {{cmn-noun|s|pin=jū|pint=ju1|tra=[[車]] or [[俥]]|sim=车|rs=车00}} :: chariot/rook in Chinese chess
@@ -1849,7 +1865,7 @@ Index: en en->zh
   中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese written languages using Chinese characters.
   零 {{cmn-hanzi|pin=[[líng]] ([[ling2]]), [[lián]] ([[lian2]])|wg=ling<sup>2</sup>}} :: Chinese Numeral 零
     Next: 一 :: --
-  chan {{infl|yue|proper noun}}{{attention|zh|may need inflection template}} :: Cantonese spelling of Chinese surname 陳 (simplified 陈)
+  chan (proper noun) :: Cantonese spelling of Chinese surname 陳 (simplified 陈)
   中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese spoken language 普通话/Pǔtōnghuà/Standard Mandarin.
     nǐ shuō zhōngwén ma? "Do you speak Chinese?" :: --
   中国 {{cmn-proper noun|s|pin=Zhōngguó|pint=zhong1guo2|tra=中國|sim=中国|rs=丨03}} :: China
@@ -1978,7 +1994,7 @@ Index: en en->zh
   象 {{cmn-noun|ts|pin=xiàng|pint=xiang4|rs=豕05}} :: elephant
   象 {{cmn-noun|ts|pin=xiàng|pint=xiang4|rs=豕05}} :: (Chinese Chess) elephant
 ===erhua===
-  r {{infl|cmn|suffix|traditional|兒|simplified|儿}} :: (a suffix for erhua)
+  r (suffix), traditional: 兒, simplified: 儿 :: (a suffix for erhua)
 ===Even===
   NB {{cmn-adj|p|pint=nb}} :: {{slang|lang=zh-cn|skey=nb}} fucking awesome
     他小說寫的太NB了。 (trad.) :: --
@@ -2119,7 +2135,7 @@ Index: en en->zh
 ===Hua===
   一 {{cmn-car-num|ts|pin=yī|pint=yi1|rs=一00}} :: Wubi Hua: 1
 ===human===
-  men {{infl|cmn|suffix|traditional|們|simplified|们}} :: plural for pronouns and human nouns
+  men (suffix), traditional: 們, simplified: 们 :: plural for pronouns and human nouns
 ===if===
   青 {{cmn-hanzi|pin=[[qīng]] ([[qing1]])|wg=ch'ing<sup>1</sup>}} :: green; if about grass, plants, mountain etc.
   青 {{cmn-hanzi|pin=[[qīng]] ([[qing1]])|wg=ch'ing<sup>1</sup>}} :: blue; if about the sky, a stone etc.
@@ -2220,7 +2236,7 @@ Index: en en->zh
   愛 {{cmn-noun|t|pin=ài|pint=ai4|tra=愛|sim=爱|rs=心09}} :: {{Beginning Mandarin|lang=zh-tw|skey=心09}} love
   愛 {{cmn-verb|t|pin=ài|pint=ai4|tra=愛|sim=爱|rs=心09}} :: {{Beginning Mandarin|lang=zh-tw|skey=心09}} to love; to be fond of
 ===ma===
-  OK {{infl|cmn|adjective|sc=Latn}} :: all right
+  OK (adjective) :: all right
     [http://books.google.co.uk/books?id=iMpJGrutbcYC&pg=PA90&dq=%22OK%E5%90%97%22&hl=en&ei=VPqJTuWrIomgOo3dhdUB&sa=X&oi=book_result&ct=result&resnum=1&ved=0CC0Q6AEwAA#v=onepage&q=%22OK%E5%90%97%22&f=false 11樓 - Page 90] :: --
     「70%咖啡 OK 嗎?」 :: --
     {{Hant|[[OK]][[嗎]]？}}(trad.) / {{Hans|[[OK]][[吗]]？}}(simpl.) :: OK ma?
@@ -2260,7 +2276,7 @@ Index: en en->zh
 ===means===
   万 {{cmn-adv|tra=萬|pin=wàn|pint=wan4|rs=一02}} :: by all means
 ===measure===
-  马 {{infl|cmn|noun|sc=Hani}}{{zh-attention|needs inflection template}} :: measure word: 匹
+  马 (noun) :: measure word: 匹
 ===member===
   丁 {{cmn-noun|ts|pin=dīng|pint=ding1|rs= 一01}} :: population, members of a family
 ===metre===
@@ -2307,7 +2323,7 @@ Index: en en->zh
 ===note===
   四 {{cmn-noun|ts|pin=sì|pint=si4|rs=囗02}} :: (musical note) la
 ===nouns===
-  men {{infl|cmn|suffix|traditional|們|simplified|们}} :: plural for pronouns and human nouns
+  men (suffix), traditional: 們, simplified: 们 :: plural for pronouns and human nouns
 ===novels===
   NB {{cmn-adj|p|pint=nb}} :: {{slang|lang=zh-cn|skey=nb}} fucking awesome
     他小說寫的太NB了。 (trad.) :: --
@@ -2343,7 +2359,7 @@ Index: en en->zh
 ===oi2===
   愛 {{yue-hanzi|jyut=oi3|y=ngoi3, oi3|sim=爱}} :: CantonPinyin: oi2
 ===OK===
-  OK {{infl|cmn|adjective|sc=Latn}} :: all right
+  OK (adjective) :: all right
     [http://books.google.co.uk/books?id=iMpJGrutbcYC&pg=PA90&dq=%22OK%E5%90%97%22&hl=en&ei=VPqJTuWrIomgOo3dhdUB&sa=X&oi=book_result&ct=result&resnum=1&ved=0CC0Q6AEwAA#v=onepage&q=%22OK%E5%90%97%22&f=false 11樓 - Page 90] :: --
     「70%咖啡 OK 嗎?」 :: --
     {{Hant|[[OK]][[嗎]]？}}(trad.) / {{Hans|[[OK]][[吗]]？}}(simpl.) :: OK ma?
@@ -2372,7 +2388,7 @@ Index: en en->zh
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===匹===
-  马 {{infl|cmn|noun|sc=Hani}}{{zh-attention|needs inflection template}} :: measure word: 匹
+  马 (noun) :: measure word: 匹
 ===piě===
   丿 {{cmn-hanzi|pin=[[piě]] ([[pie3]])|wg=p'ieh<sup>3</sup>}} :: left-falling stroke, usually read as 撇 (piě)
 ===撇===
@@ -2400,7 +2416,7 @@ Index: en en->zh
 ===printed===
   书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: form of a written or printed character;script
 ===pronouns===
-  men {{infl|cmn|suffix|traditional|們|simplified|们}} :: plural for pronouns and human nouns
+  men (suffix), traditional: 們, simplified: 们 :: plural for pronouns and human nouns
 ===普通话===
   中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese spoken language 普通话/Pǔtōnghuà/Standard Mandarin.
     nǐ shuō zhōngwén ma? "Do you speak Chinese?" :: --
@@ -2435,7 +2451,7 @@ Index: en en->zh
 ===relieved===
   安心 {{cmn-verb|ts|pin=ānxīn|pint=an1xin1|rs=宀03}} :: {{Elementary Mandarin|lang=zh-tw|skey=宀03}} to be relieved; to feel at ease
 ===right===
-  OK {{infl|cmn|adjective|sc=Latn}} :: all right
+  OK (adjective) :: all right
     [http://books.google.co.uk/books?id=iMpJGrutbcYC&pg=PA90&dq=%22OK%E5%90%97%22&hl=en&ei=VPqJTuWrIomgOo3dhdUB&sa=X&oi=book_result&ct=result&resnum=1&ved=0CC0Q6AEwAA#v=onepage&q=%22OK%E5%90%97%22&f=false 11樓 - Page 90] :: --
     「70%咖啡 OK 嗎?」 :: --
     {{Hant|[[OK]][[嗎]]？}}(trad.) / {{Hans|[[OK]][[吗]]？}}(simpl.) :: OK ma?
@@ -2494,7 +2510,7 @@ Index: en en->zh
     耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===seven===
-  chat {{infl|yue|cardinal number|Han spelling|'''{{l|yue|七|sc=Hani}}'''}} :: seven
+  chat (cardinal number), Han spelling: {{l|yue|七|sc=Hani}} :: seven
   七 {{cmn-hanzi|pin=[[qī]] ([[qi1]]), [[shǎng]] ([[shang3]])|wg=ch'i<sup>1</sup>, shang<sup>3</sup>}} :: seven
 ===seventh===
   乙 {{cmn-hanzi|pin=[[niè]] ([[nie4]]), [[yǐ]] ([[yi3]])|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: {{defn|lang=cmn|sort=乙00}} the seventh scale degree in gongche musical notation
@@ -2513,7 +2529,7 @@ Index: en en->zh
 ===signific===
   氵 {{cmn-hanzi|pin=[[shuǐ]] ([[shui3]])|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
 ===simplified===
-  chan {{infl|yue|proper noun}}{{attention|zh|may need inflection template}} :: Cantonese spelling of Chinese surname 陳 (simplified 陈)
+  chan (proper noun) :: Cantonese spelling of Chinese surname 陳 (simplified 陈)
 ===six===
   六 {{cmn-car-num|ts|pin=liù|pint=liu4|rs=八02}} :: six
 ===Six===
@@ -2525,7 +2541,7 @@ Index: en en->zh
 ===soybean===
   大豆 {{cmn-noun|ts|pin=dàdòu|pint=da4dou4|rs=大00}} :: soybean
 ===spelling===
-  chan {{infl|yue|proper noun}}{{attention|zh|may need inflection template}} :: Cantonese spelling of Chinese surname 陳 (simplified 陈)
+  chan (proper noun) :: Cantonese spelling of Chinese surname 陳 (simplified 陈)
 ===spirit===
   酒 {{cmn-noun|ts|pin=jiǔ|pint=jiu3|rs=酉03}} :: Wine, spirits, liquor, alcoholic beverage
     你幹嗎不喝點酒? (trad.) :: --
@@ -2569,7 +2585,7 @@ Index: en en->zh
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===suffix===
-  r {{infl|cmn|suffix|traditional|兒|simplified|儿}} :: (a suffix for erhua)
+  r (suffix), traditional: 兒, simplified: 儿 :: (a suffix for erhua)
 ===sun===
   日 {{cmn-noun|ts|pin=rì|pint=ri4|rs=日00}} :: {{literary|lang=cmn}} sun
 ===supernatural===
@@ -2584,7 +2600,7 @@ Index: en en->zh
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===surname===
   丁 {{cmn-noun|ts|pin=dīng|pint=ding1|rs= 一01}} :: a surname
-  chan {{infl|yue|proper noun}}{{attention|zh|may need inflection template}} :: Cantonese spelling of Chinese surname 陳 (simplified 陈)
+  chan (proper noun) :: Cantonese spelling of Chinese surname 陳 (simplified 陈)
 ===t===
   NB {{cmn-adj|p|pint=nb}} :: {{slang|lang=zh-cn|skey=nb}} fucking awesome
     他小說寫的太NB了。 (trad.) :: --
@@ -2737,7 +2753,7 @@ Index: en en->zh
 ===womb===
   子宫 {{cmn-noun|s|pin=zǐgōng|pint=zi3gong1|tra=子宮|sim=子宫|rs=子00}} :: womb, uterus
 ===word===
-  马 {{infl|cmn|noun|sc=Hani}}{{zh-attention|needs inflection template}} :: measure word: 匹
+  马 (noun) :: measure word: 匹
 ===world===
   人間 {{cmn-noun|t|pin=rénjīan|pint=ren2jian1|tra=人間|sim=人间|rs=人00}} :: man's world
   人間 {{cmn-noun|t|pin=rénjīan|pint=ren2jian1|tra=人間|sim=人间|rs=人00}} :: the world of mortals

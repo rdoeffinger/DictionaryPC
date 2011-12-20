@@ -458,8 +458,8 @@ public final class WikiTokenizer {
     return s.length();
   }
 
-  public static String toPlainText(String sense) {
-    final WikiTokenizer wikiTokenizer = new WikiTokenizer(sense);
+  public static String toPlainText(final String wikiText) {
+    final WikiTokenizer wikiTokenizer = new WikiTokenizer(wikiText);
     final StringBuilder builder = new StringBuilder();
     while (wikiTokenizer.nextToken() != null) {
       if (wikiTokenizer.isPlainText()) {

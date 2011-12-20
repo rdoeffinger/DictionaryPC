@@ -38,6 +38,8 @@ import com.hughes.android.dictionary.engine.PairEntry.Pair;
 
 public class EnWiktionaryXmlParser {
   
+  private static final String TRANSLITERATION_FORMAT = " (tr. %s)";
+
   static final Logger LOG = Logger.getLogger(EnWiktionaryXmlParser.class.getName());
   
   // TODO: process {{ttbc}} lines
@@ -117,8 +119,8 @@ public class EnWiktionaryXmlParser {
     heading = heading.replaceAll("=", "").trim(); 
     if (heading.equals("English")) {
       doEnglishWord(title, text);
-    } else if (langPattern.matcher(heading).matches()){
-      doForeignWord(title, text);
+    } else if (langPattern.matcher(heading).find()){
+      doForeignWord(heading, title, text);
     }
         
   }  // endPage()
@@ -144,6 +146,8 @@ public class EnWiktionaryXmlParser {
         if (partOfSpeechHeader.matcher(headerName).matches()) {
           posDepth = wikiTokenizer.headingDepth();
           pos = wikiTokenizer.headingWikiText();
+          // TODO: if we're inside the POS section, we should handle the first title line...
+          
         } else if (headerName.equals("Translations")) {
           if (pos == null) {
             LOG.warning("Translations without POS: " + title);
@@ -317,7 +321,7 @@ public class EnWiktionaryXmlParser {
               otherText.append(String.format(" {%s}", gender));
             }
             if (transliteration != null) {
-              otherText.append(String.format(" (tr. %s)", transliteration));
+              otherText.append(String.format(TRANSLITERATION_FORMAT, transliteration));
               otherIndexBuilder.addEntryWithString(indexedEntry, transliteration, EntryTypeName.WIKTIONARY_TRANSLITERATION);
             }
           //}
@@ -380,7 +384,7 @@ public class EnWiktionaryXmlParser {
     }
     
     if (lang != null) {
-      otherText.insert(0, "(" + lang + ") ");
+      otherText.insert(0, String.format("(%s) ", lang));
     }
     
     StringBuilder englishText = new StringBuilder();
@@ -426,7 +430,7 @@ public class EnWiktionaryXmlParser {
   
   // -------------------------------------------------------------------------
   
-  private void doForeignWord(final String title, final String text) {
+  private void doForeignWord(final String lang, final String title, final String text) {
     final WikiTokenizer wikiTokenizer = new WikiTokenizer(text);
     while (wikiTokenizer.nextToken() != null) {
       if (wikiTokenizer.isHeading()) {
@@ -436,7 +440,7 @@ public class EnWiktionaryXmlParser {
         } else if (headingName.equals("Pronunciation")) {
           //doPronunciation(wikiLineReader);
         } else if (partOfSpeechHeader.matcher(headingName).matches()) {
-          doForeignPartOfSpeech(title, headingName, wikiTokenizer.headingDepth(), wikiTokenizer);
+          doForeignPartOfSpeech(lang, title, headingName, wikiTokenizer.headingDepth(), wikiTokenizer);
         }
       } else {
       }
@@ -462,9 +466,9 @@ public class EnWiktionaryXmlParser {
 
 
   int foreignCount = 0;
-  private void doForeignPartOfSpeech(String title, final String posHeading, final int posDepth, WikiTokenizer wikiTokenizer) {
+  private void doForeignPartOfSpeech(final String lang, String title, final String posHeading, final int posDepth, WikiTokenizer wikiTokenizer) {
     if (++foreignCount % 1000 == 0) {
-      LOG.info("***" + title + ", pos=" + posHeading + ", foreignCount=" + foreignCount);
+      LOG.info("***" + lang + ", " + title + ", pos=" + posHeading + ", foreignCount=" + foreignCount);
     }
     if (title.equals("moro")) {
       System.out.println();
@@ -522,6 +526,59 @@ public class EnWiktionaryXmlParser {
           foreignBuilder.append(wikiTokenizer.token());
         } else {
           //foreignBuilder.append(title);
+        }
+      } else if (name.equals("attention") || name.equals("zh-attention")) {
+        // See: http://en.wiktionary.org/wiki/Template:attention
+        // Ignore these.
+      } else if (name.equals("infl")) {
+        // See: http://en.wiktionary.org/wiki/Template:infl
+        final String langCode = get(args, 0);
+        namedArgs.remove("sc");
+        final String tr = namedArgs.remove("tr");
+        final String g = namedArgs.remove("g");
+        final String g2 = namedArgs.remove("g2");
+        final String g3 = namedArgs.remove("g3");
+        if (!namedArgs.isEmpty()) {
+          LOG.warning("Didn't parse infl: " + wikiTokenizer.token());
+          foreignBuilder.append(wikiTokenizer.token());
+        } else {
+          String head = namedArgs.get("head");
+          if (head == null) {
+            head = title;
+          } else {
+            head = WikiTokenizer.toPlainText(head);
+          }
+          foreignBuilder.append(head);
+    
+          if (g != null) {
+            foreignBuilder.append(" {").append(g);
+            if (g2 != null) {
+              foreignBuilder.append("|").append(g2);
+            }
+            if (g3 != null) {
+              foreignBuilder.append("|").append(g3);
+            }
+            foreignBuilder.append("}");
+          }
+    
+          if (tr != null) {
+            foreignBuilder.append(String.format(TRANSLITERATION_FORMAT, tr));
+            wordForms.add(tr);
+          }
+    
+          final String pos = get(args, 1);
+          if (pos != null) {
+            foreignBuilder.append(" (").append(pos).append(")");
+          }
+          for (int i = 2; i < args.size(); i += 2) {
+            final String inflName = get(args, i);
+            final String inflValue = get(args, i + 1);
+            foreignBuilder.append(", ").append(WikiTokenizer.toPlainText(inflName));
+            if (inflValue != null && inflValue.length() > 0) {
+              foreignBuilder.append(": ").append(WikiTokenizer.toPlainText(inflValue));
+              wordForms.add(inflValue);
+            }
+          }
         }
       } else if (name.equals("it-noun")) {
           final String base = get(args, 0);
@@ -582,7 +639,10 @@ public class EnWiktionaryXmlParser {
       // Should we make an entry even if there are no foreign list items?
       String foreign = foreignBuilder.toString().trim();
       if (!foreign.toLowerCase().startsWith(title.toLowerCase())) {
-        foreign = title + " " + foreign;
+        foreign = String.format("%s %s", title, foreign);
+      }
+      if (!langPattern.matcher(lang).matches()) {
+        foreign = String.format("(%s) %s", lang, foreign);
       }
       for (final ListSection listSection : listSections) {
         doForeignListItem(foreign, title, wordForms, listSection);
