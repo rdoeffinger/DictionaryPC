@@ -26,6 +26,8 @@ import com.ibm.icu.text.Transliterator;
 public class LanguageTest extends TestCase {
   
   public void testGermanSort() {
+    System.out.println(Language.isoCodeToWikiName.values());
+    
     final Transliterator normalizer = Transliterator.createFromRules("", Language.de.getDefaultNormalizerRules(), Transliterator.FORWARD);
     assertEquals("aüääss", normalizer.transform("aueAeAEß"));
     final List<String> words = Arrays.asList(

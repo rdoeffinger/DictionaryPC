@@ -15,6 +15,8 @@
 package com.hughes.android.dictionary.engine;
 
 import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.io.PrintWriter;
 import java.io.RandomAccessFile;
 import java.util.ArrayList;
@@ -112,21 +114,13 @@ public class DictionaryBuilderMain extends TestCase {
         });
         
         // Print the entries for diffing.
-        final RandomAccessFile raf = new RandomAccessFile(new File(dictFile), "r");
-        final Dictionary dict = new Dictionary(raf);
-        final PrintWriter textOut = new PrintWriter(new File(dictFile + ".text"));
-        final List<PairEntry> sorted = new ArrayList<PairEntry>(dict.pairEntries);
-        Collections.sort(sorted);
-        for (final PairEntry pairEntry : sorted) {
-          textOut.println(pairEntry.getRawText(false));
-        }
-        textOut.close();
-        raf.close();
+        printToText(dictFile);
 
     }  // foreignIso
 
+    final String dictFile = OUTPUTS + "DE-EN_chemnitz_enwiktionary.quickdic"; 
     DictionaryBuilder.main(new String[] {
-        "--dictOut=" + OUTPUTS + "DE-EN_chemnitz_enwiktionary.quickdic",
+        "--dictOut=" + dictFile,
         "--lang1=DE",
         "--lang2=EN",
         String.format("--lang1Stoplist=%s", STOPLISTS + "de.txt"),
@@ -151,9 +145,22 @@ public class DictionaryBuilderMain extends TestCase {
         "--input3LangPattern=German",
         "--input3LangCodePattern=de",
         "--input3EnIndex=2",
-        
     });
-
+    printToText(dictFile);
+    
+  }
+  
+  static void printToText(final String dictFile) throws IOException {
+    final RandomAccessFile raf = new RandomAccessFile(new File(dictFile), "r");
+    final Dictionary dict = new Dictionary(raf);
+    final PrintWriter textOut = new PrintWriter(new File(dictFile + ".text"));
+    final List<PairEntry> sorted = new ArrayList<PairEntry>(dict.pairEntries);
+    Collections.sort(sorted);
+    for (final PairEntry pairEntry : sorted) {
+      textOut.println(pairEntry.getRawText(false));
+    }
+    textOut.close();
+    raf.close();
   }
   
 }
