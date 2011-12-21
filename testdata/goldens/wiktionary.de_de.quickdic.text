@@ -24,7 +24,9 @@ Index: de de->en
     {{quote-book|year=1908|author=Astor C. Wuchter|title=A Pennsylvania German Anthology|editor=Earl C. Haag|chapter=Die Mudderschprooch|page=56|pageurl=http://books.google.com/books?id=UAuw2OmZBUMC&pg=PA56 |passage={{...|Datt wu die Palme duffdich sin, Wu's immer Summer iss;}} Datt sin '''aa''' Mensche, graad wie do{{...|, Mei Hatz un Seel, gewiss.}} |translation=There are people there '''too''', just like here}} :: --
   (Pennsylvania German) aa (preposition) :: on
 ===Aachen===
-  Aachen {{infl|de|proper noun|genitive=Aachens}} :: The German city Aachen
+  Aachen (proper noun) genitive=Aachens :: The German city Aachen
+===Aachens===
+  Aachen (proper noun) genitive=Aachens :: The German city Aachen
 ===Aargau===
   Aargau {m} :: Aargau
 ===Aaron===
@@ -194,7 +196,7 @@ Index: de de->en
 ===amber===
   (Old High German) amber {{goh-noun|g=m}} :: bucket
 ===ambi===
-  ambi- {{infl|de|prefix|sort=ambi}} :: {{l|en|ambi-}}
+  ambi- (prefix) :: {{l|en|ambi-}}
 ===ambivalent===
   ambivalent {{de-adj|comparative=ambivalenter|superlative=ambivalentesten}} :: ambivalent
     1923, Sigmund Freud, Eine Teufelsneurose im siebzehnten Jahrhundert, in: Imago: Zeitschrift für Anwendung der Psychoanalyse auf die Geisteswissenschaften, vol. 9, booklet 1, Internationaler Psychoanalytischer Verlag, page 13–14: :: --
@@ -228,7 +230,7 @@ Index: de de->en
 ===analog===
   analog {{de-adj|-}} :: analogue
 ===Anarchist===
-  -ist {{infl|de|suffix|sort=ist|gender=m|plural|-isten|feminine|-istin|feminine plural|-istinnen}} :: -ist
+  -ist {m} (suffix), plural: -isten, feminine: -istin, feminine plural: -istinnen :: -ist
     Pianist :: pianist
     Anarchist :: anarchist
     Rassist :: racist
@@ -261,7 +263,7 @@ Index: de de->en
 ===ano===
   (Old High German) ano {{goh-noun|g=m}} :: grandfather
   (Old High German) ano {{goh-noun|g=m}} :: ancestor
-  (Old High German) ano {{infl|goh|preposition|head=āno}} :: without
+  (Old High German) āno (preposition) :: without
 ===ans===
   ans (contraction) (+ adjective ending with -e + neuter noun) :: an + das, on(to) the, to the
 ===apart===
@@ -508,8 +510,8 @@ Index: de de->en
 ===Bhutan===
   Bhutan (proper noun) :: Bhutan
 ===bi===
-  (Old High German) bi {{infl|goh|preposition|head=bī}} :: by
-  (Old High German) bi {{infl|goh|preposition|head=bī}} :: at
+  (Old High German) bī (preposition) :: by
+  (Old High German) bī (preposition) :: at
 ===bibledbdata===
   ward (verb form) :: {{archaic|lang=de}} Third-person singular indicative past form of werden.
     Und Gott sprach: »Es werde Licht!« Und es ward Licht. [http://www.bibledbdata.org/onlinebibles/german_l/01_001.htm] :: And God said: "Let there be light." And there was light.
@@ -528,8 +530,8 @@ Index: de de->en
 ===bin===
   bin :: {{de-verb form of|sein|1|s|g}}
 ===bio===
-  bio- {{infl|de|prefix|cat=prefixes}} :: life
-  bio- {{infl|de|prefix|cat=prefixes}} :: organically produced, or otherwise environmentally friendly
+  bio- (prefix) :: life
+  bio- (prefix) :: organically produced, or otherwise environmentally friendly
 ===Birne===
   Birne {{de-noun|g=f|plural=Birnen}} :: pear
   Birne {{de-noun|g=f|plural=Birnen}} :: lightbulb
@@ -758,7 +760,7 @@ Index: de de->en
   danke :: {{de-verb form of|danken|3|s|k1}}
   danke :: {{de-verb form of|danken|i|s}}
 ===dar===
-  (Old High German) dar {{infl|goh|adverb|head=dār}} :: there
+  (Old High German) dār (adverb) :: there
 ===darf===
   darf (verb form) :: first and third person present of dürfen.
 ===darfst===
@@ -766,8 +768,8 @@ Index: de de->en
 ===dart===
   (Pennsylvania German) dart (noun) :: there
 ===das===
-  das {{infl|de|article|definite, nominative|gender=n}} :: the; {{form of|nominative singular neuter|der|lang=de}}
-  das {{infl|de|article|definite, nominative|gender=n}} :: the; {{form of|accusative singular neuter|der|lang=de}}
+  das {n} (article), definite, nominative :: the; {{form of|nominative singular neuter|der|lang=de}}
+  das {n} (article), definite, nominative :: the; {{form of|accusative singular neuter|der|lang=de}}
   das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
     Ich kenne ein Mädchen, das das kann. :: I know a girl who can do that.
   das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: this, that
@@ -871,7 +873,7 @@ Index: de de->en
     Genitive singular feminine :: --
     Dative singular feminine :: --
     Genitive plural for all genders. :: --
-  der {{infl|de|relative pronoun|singular, relative|gender=m}} :: who; that; which
+  der {m} (relative pronoun), singular, relative :: who; that; which
     Ich kenne einen Mann, der das kann. :: “I know a man who can do that.”
   (Low German) de (article), genitive: der, dative: den, accusative: de, definite article :: the
   (Low German) de {f} (article), genitive: der, dative: der, accusative: de, definite article :: the
@@ -1002,7 +1004,7 @@ Index: de de->en
   wie :: like
     Freunde sind wie Sterne in der Nacht; auch wenn sie manchmal nicht zu sehen sind, weißt Du trotzdem, dass sie da sind! :: Friends are like stars in the night; even at times when they can't be seen, you know anyway, that they are there!
 ===durch===
-  gut durch {{infl|de|adjective|head={{l|de|gut}} {{l|de|durch}}}} :: {{cooking|lang=de}} well done.
+  {{l|de|gut}} {{l|de|durch}} (adjective) :: {{cooking|lang=de}} well done.
 ===ebano===
   (Old High German) ebano :: just
 ===echt===
@@ -1048,7 +1050,7 @@ Index: de de->en
   einen + accusative of masculine noun :: (without noun) one (masculine accusative)
   einen + accusative of masculine noun :: a/an
   einen :: masculine accusative of indefinite pronoun: one
-  der {{infl|de|relative pronoun|singular, relative|gender=m}} :: who; that; which
+  der {m} (relative pronoun), singular, relative :: who; that; which
     Ich kenne einen Mann, der das kann. :: “I know a man who can do that.”
   nehmen {{de-verb-strong|class=4|nimmt|nahm|genommen}} :: {{transitive}} to take.
     jemandem etwas nehmen :: “to take something from someone”
@@ -1111,10 +1113,10 @@ Index: de de->en
     Er Ogen sünd blag. (Her eyes are blue.) :: --
   (Low German) er (pronoun) :: {{possessive|lang=nds}} of sei and se (they); their.
     Ik hev er Guld stalen. (I have stolen their gold.) :: --
-  (Old High German) er {{infl|goh|adjective|head=ēr}} :: earlier
+  (Old High German) ēr (adjective) :: earlier
   (Old High German) er {{goh-noun|head=ēr}} :: ore
   (Old High German) er (pronoun) :: he
-  -er {{infl|de|suffix|sort=er}} :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
+  -er (suffix) :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
     arbeiten 'to work'; (ich) arbeit(<u>e</u>) + -er '-er' -> Arbeiter 'worker' :: --
 ===Er===
   in (preposition) :: (in + accusative) into
@@ -1311,7 +1313,7 @@ Index: de de->en
   aus (preposition), + dative :: for; because of; due to; out of
     Etwas aus Freundschaft tun. :: To do something out of friendship.
 ===fri===
-  (Old High German) fri {{infl|goh|adjective|head=frī}} :: free
+  (Old High German) frī (adjective) :: free
 ===Friesland===
   Friesland :: Friesland
 ===Frühling===
@@ -1427,7 +1429,7 @@ Index: de de->en
   (Alemannic German) gaas (noun), genitive singular: gases, plural: gëes, genitive plural: gësens :: {{context|Berne dialect|lang=gs}} goose
 ===Gesundheit===
   Gesundheit {{de-noun|g=f|pl=-}} :: health; soundness (sound being adjectival)
-  Gesundheit {{infl|de|interjection|head=Gesundheit!}} :: said to somebody who has sneezed, bless you.
+  Gesundheit! (interjection) :: said to somebody who has sneezed, bless you.
 ===Gewicht===
   Gewicht {{de-noun|g=n|genitive=Gewichts|genitive2=Gewichtes|plural=Gewichte}} :: weight
     2010, Der Spiegel, issue [http://www.spiegel.de/spiegel/print/index-2010-25.html 25/2010], page 140: :: --
@@ -1468,7 +1470,7 @@ Index: de de->en
   global {{de-adj|-}} :: global {{italbrac|worldwide}}
 ===god===
   (Low German) god (adjective) :: good
-  (Middle Low German) god {{infl|gml|adjective|head=gōd}} :: good
+  (Middle Low German) gōd (adjective) :: good
   (Middle Low German) god {m} (noun), genitive: gades :: god
 ===google===
   google :: {{de-verb form of|googeln|1|s|g}}
@@ -1495,7 +1497,7 @@ Index: de de->en
     Wie groß bist du? :: How tall are you?
     Ich weiß nicht, wie die Katze hereingekommen ist. :: I don't know how the cat got in.
 ===Großartig===
-  ne {{infl|de|interjection|head=ne?}} :: {{colloquial|lang=de}} no?; is it not?
+  ne? (interjection) :: {{colloquial|lang=de}} no?; is it not?
     Großartig, ne? :: “Great, isn’t it?”
 ===größer===
   wie :: {{nonstandard|lang=de}} than
@@ -1513,7 +1515,7 @@ Index: de de->en
 ===gut===
   gut {{de-adj|comparative=besser |superlative=besten}} :: good
   gut {{de-adv}} :: well
-  gut durch {{infl|de|adjective|head={{l|de|gut}} {{l|de|durch}}}} :: {{cooking|lang=de}} well done.
+  {{l|de|gut}} {{l|de|durch}} (adjective) :: {{cooking|lang=de}} well done.
   so (adverb) :: {{l|en|so}}, that
     So nett. :: So nice.
     Nicht so gut. :: Not that good.
@@ -1611,7 +1613,7 @@ Index: de de->en
 ===her===
   her {{de-adv}} :: hither, to this place, to here, to me/us
   her {{de-adv}} :: ago
-  (Old High German) her {{infl|goh|adjective|head=hēr}} :: old
+  (Old High German) hēr (adjective) :: old
 ===herb===
   herb {{de-adj|herber|herbsten}} :: tart, bitter
   herb {{de-adj|herber|herbsten}} :: harsh
@@ -1661,7 +1663,7 @@ Index: de de->en
 ===Holland===
   Holland (proper noun) :: Netherlands (country in northwestern Europe)
 ===Holstein===
-  Schleswig-Holstein {{infl|de|proper noun|head=[[Schleswig]]-[[Holstein]]}} :: Schleswig-Holstein
+  Schleswig-Holstein (proper noun) :: Schleswig-Holstein
 ===Honduras===
   Honduras {n} :: Honduras
 ===Honig===
@@ -1759,7 +1761,7 @@ Index: de de->en
 ===Israel===
   Israel {n} (proper noun) :: Israel
 ===ist===
-  -ist {{infl|de|suffix|sort=ist|gender=m|plural|-isten|feminine|-istin|feminine plural|-istinnen}} :: -ist
+  -ist {m} (suffix), plural: -isten, feminine: -istin, feminine plural: -istinnen :: -ist
     Pianist :: pianist
     Anarchist :: anarchist
     Rassist :: racist
@@ -1767,6 +1769,21 @@ Index: de de->en
   backen {{de-verb-strong|class=6|[[backt]]''' ''or'' '''[[bäckt]]|[[backte]]''' ''or archaic'' '''[[buk]]|[[gebacken]]''' ''or'' '''[[gebackt]]}} :: {{transitive|or|intransitive}} to bake; to roast
     Der Bäcker backt jeden Morgen 30 Laib Brot. :: “The baker bakes 30 loaves of bread every morning.”
     Ist der Kuchen schon gebacken? :: “Is the cake baked yet?”
+===isten===
+  -ist {m} (suffix), plural: -isten, feminine: -istin, feminine plural: -istinnen :: -ist
+    Pianist :: pianist
+    Anarchist :: anarchist
+    Rassist :: racist
+===istin===
+  -ist {m} (suffix), plural: -isten, feminine: -istin, feminine plural: -istinnen :: -ist
+    Pianist :: pianist
+    Anarchist :: anarchist
+    Rassist :: racist
+===istinnen===
+  -ist {m} (suffix), plural: -isten, feminine: -istin, feminine plural: -istinnen :: -ist
+    Pianist :: pianist
+    Anarchist :: anarchist
+    Rassist :: racist
 ===ja===
   ja {{de-adv}} :: yes
     Willst du das? Ja. :: “Do you want that? Yes.”
@@ -1876,7 +1893,7 @@ Index: de de->en
     2008, Frank Behmeta, Wenn ich die Augen öffne, page 55: :: --
     Kann man es fühlen, wenn man schwanger ist? :: --
     If a person is pregnant, can he feel it? :: --
-  der {{infl|de|relative pronoun|singular, relative|gender=m}} :: who; that; which
+  der {m} (relative pronoun), singular, relative :: who; that; which
     Ich kenne einen Mann, der das kann. :: “I know a man who can do that.”
   das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
     Ich kenne ein Mädchen, das das kann. :: I know a girl who can do that.
@@ -1902,7 +1919,7 @@ Index: de de->en
 ===kenne===
   die (relative pronoun), relative or demonstrative :: {{context|in a subordinate clause as a relative pronoun}} That; which; who; whom; whose.
     Ich kenne eine Frau, die das kann. :: “I know a woman who can do that.”
-  der {{infl|de|relative pronoun|singular, relative|gender=m}} :: who; that; which
+  der {m} (relative pronoun), singular, relative :: who; that; which
     Ich kenne einen Mann, der das kann. :: “I know a man who can do that.”
   das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
     Ich kenne ein Mädchen, das das kann. :: I know a girl who can do that.
@@ -2174,7 +2191,7 @@ Index: de de->en
 ===Manila===
   Manila (proper noun) :: Manila
 ===Mann===
-  der {{infl|de|relative pronoun|singular, relative|gender=m}} :: who; that; which
+  der {m} (relative pronoun), singular, relative :: who; that; which
     Ich kenne einen Mann, der das kann. :: “I know a man who can do that.”
 ===Männer===
   die (article), definite, feminine and plural form of: der :: The; {{form of|declined form|der|lang=de}}
@@ -2383,9 +2400,9 @@ Index: de de->en
 ===nah===
   nah (adjective) :: near (in space or time or in an abstract sense)
   nah {{de-adv}} :: near (in space or time or in an abstract sense)
-  (Old High German) nah {{infl|goh|adjective|head=nāh}} :: close
-  (Old High German) nah {{infl|goh|adjective|head=nāh}} :: near
-  (Old High German) nah {{infl|goh|preposition|head=nāh|takes dative}} :: towards
+  (Old High German) nāh (adjective) :: close
+  (Old High German) nāh (adjective) :: near
+  (Old High German) nāh (preposition), takes dative :: towards
 ===nahm===
   nahm (verb form) :: Past tense of nehmen, to take.
 ===Namibia===
@@ -2401,7 +2418,7 @@ Index: de de->en
 ===NB===
   NB :: {{context|apartment listing|lang=de}} Abbreviation of Neubau
 ===ne===
-  ne {{infl|de|interjection|head=ne?}} :: {{colloquial|lang=de}} no?; is it not?
+  ne? (interjection) :: {{colloquial|lang=de}} no?; is it not?
     Großartig, ne? :: “Great, isn’t it?”
   ne :: {{colloquial|lang=de}} shorthand of the feminine indefinite article eine (“an; a”)
     Möchtest du ne Flasche Bier? :: “Would you like a bottle of beer?”
@@ -2464,7 +2481,7 @@ Index: de de->en
   Nicaragua (proper noun) {n} :: Nicaragua
 ===nicht===
   nicht {{de-adv}} :: not
-  nicht {{infl|de|interjection|head=nicht?}} :: Is it not?
+  nicht? (interjection) :: Is it not?
 ===Nicht===
   so (adverb) :: {{l|en|so}}, that
     So nett. :: So nice.
@@ -2556,8 +2573,8 @@ Index: de de->en
 ===Öl===
   Öl {{de-noun|g=n|genitive=Öls|genitive2=Öles|plural=Öle}} :: oil
 ===old===
-  (Low German) old {{infl|adj|lang=nds}} :: old
-  (Middle Low German) old {{infl|adj|lang=nds}} :: old
+  (Low German) old :: old
+  (Middle Low German) old :: old
 ===Oman===
   Oman {{de-proper noun|g=n}} :: Oman
 ===onlinebibles===
@@ -2641,7 +2658,7 @@ Index: de de->en
 ===Pharao===
   Pharao {{de-noun|g=m|genitive=Pharaos|plural=Pharaonen}} :: pharaoh
 ===Pianist===
-  -ist {{infl|de|suffix|sort=ist|gender=m|plural|-isten|feminine|-istin|feminine plural|-istinnen}} :: -ist
+  -ist {m} (suffix), plural: -isten, feminine: -istin, feminine plural: -istinnen :: -ist
     Pianist :: pianist
     Anarchist :: anarchist
     Rassist :: racist
@@ -2695,7 +2712,7 @@ Index: de de->en
 ===proper===
   proper (adjective) :: clean
 ===prost===
-  prost {{infl|de|interjection|head=prost!}} :: the usual toast when drinking alcohol; cheers
+  prost! (interjection) :: the usual toast when drinking alcohol; cheers
 ===PS===
   PS (abbreviation) :: Abbreviation of {{term|Pferdestärken||horsepower|lang=de}}
 ===Python===
@@ -2726,7 +2743,7 @@ Index: de de->en
   Rappen m (plural same) :: German for the Swiss centime (1/100 franc).
   Rappen m (plural same) :: {{plural of|Rappe|lang=de}}
 ===Rassist===
-  -ist {{infl|de|suffix|sort=ist|gender=m|plural|-isten|feminine|-istin|feminine plural|-istinnen}} :: -ist
+  -ist {m} (suffix), plural: -isten, feminine: -istin, feminine plural: -istinnen :: -ist
     Pianist :: pianist
     Anarchist :: anarchist
     Rassist :: racist
@@ -2837,7 +2854,7 @@ Index: de de->en
   rot {{de-adj|comparative=röter|superlative=rötesten}}<br>{{de-adj|comparative=roter|superlative=rotesten}} :: {{context|politics|lang=de}} leftist; on the left of the political spectrum
   rot {{de-adj|comparative=röter|superlative=rötesten}}<br>{{de-adj|comparative=roter|superlative=rotesten}} :: {{context|politics|Germany|lang=de}} specifically, pertaining to the SPD (a large social democratic party in Germany) or Linke (a far-left political party in Germany)
   rot {{de-adj|comparative=röter|superlative=rötesten}}<br>{{de-adj|comparative=roter|superlative=rotesten}} :: {{context|historical|offensive|lang=de}} Indian (pertaining to the Native Americans)
-  (Old High German) rot {{infl|goh|adjective|head=rōt}} :: red
+  (Old High German) rōt (adjective) :: red
 ===rote===
   rote :: {{de-form-adj|s|f|n|rot}}
   rote :: {{de-form-adj|s|f|a|rot}}
@@ -2931,7 +2948,7 @@ Index: de de->en
   Schiebedach {n} (plural: Schiebedächer) :: sunroof
   Schiebedach {n} (plural: Schiebedächer) :: sliding roof
 ===Schleswig===
-  Schleswig-Holstein {{infl|de|proper noun|head=[[Schleswig]]-[[Holstein]]}} :: Schleswig-Holstein
+  Schleswig-Holstein (proper noun) :: Schleswig-Holstein
 ===Schlucht===
   Schlucht f (plural: Schluchten) :: canyon, chasm, gorge, ravine
 ===Schlüssel===
@@ -3587,10 +3604,16 @@ Index: de de->en
     Was denn? :: "But what?"
     Was is denn los? :: "What's wrong, then?"
 ===Wasser===
-  Wasser {{infl|de|noun|gender=n|genitive|Wassers|plural|Wasser|plural 2 (depending on sense)|Wässer}} :: water
-  Wasser {{infl|de|noun|gender=n|genitive|Wassers|plural|Wasser|plural 2 (depending on sense)|Wässer}} :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is {{term|Wässer}}.)
+  Wasser {n} (noun), genitive: Wassers, plural: Wasser, plural 2 (depending on sense): Wässer :: water
+  Wasser {n} (noun), genitive: Wassers, plural: Wasser, plural 2 (depending on sense): Wässer :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is {{term|Wässer}}.)
   zu (preposition), + dative :: along with; with
     Wasser zum Essen trinken :: "to drink water with [one's] meal
+===Wässer===
+  Wasser {n} (noun), genitive: Wassers, plural: Wasser, plural 2 (depending on sense): Wässer :: water
+  Wasser {n} (noun), genitive: Wassers, plural: Wasser, plural 2 (depending on sense): Wässer :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is {{term|Wässer}}.)
+===Wassers===
+  Wasser {n} (noun), genitive: Wassers, plural: Wasser, plural 2 (depending on sense): Wässer :: water
+  Wasser {n} (noun), genitive: Wassers, plural: Wasser, plural 2 (depending on sense): Wässer :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is {{term|Wässer}}.)
 ===Wasserstoff===
   Wasserstoff {m} (noun) :: hydrogen.
 ===wat===
@@ -3706,7 +3729,7 @@ Index: de de->en
 ===Wissenschaft===
   Wissenschaft {{de-noun|g=f|pl=Wissenschaften}} :: science
 ===wit===
-  (Old High German) wit {{infl|goh|adjective|title=wīt}} :: wide
+  (Old High German) wīt (adjective) :: wide
 ===Witz===
   Witz {{de-noun|g=m|genitive=Witzes|plural=Witze}} :: wit
   Witz {{de-noun|g=m|genitive=Witzes|plural=Witze}} :: joke
@@ -3805,7 +3828,7 @@ Index: de de->en
 ===Zigarette===
   Zigarette {{de-noun|g=f|plural=Zigaretten}} :: cigarette
 ===zit===
-  (Middle High German) zit {{infl|gmh|noun|head=zīt}} {{g|gmh}} :: time
+  (Middle High German) zīt (noun) {{g|gmh}} :: time
 ===zoom===
   zoom :: {{de-verb form of|zoomen|i|s}}
   zoom :: {{colloquial|lang=de}} {{de-verb form of|zoomen|1|s|g}}
@@ -3964,7 +3987,7 @@ Index: en en->de
 ===ä===
   æ (letter), lower case, upper case: Æ :: {{obsolete|lang=de}} {{l|en|vowel|Vowel}} borrowed from {{l|en|Latin}}. Succeeded by ä.
 ===Aachen===
-  Aachen {{infl|de|proper noun|genitive=Aachens}} :: The German city Aachen
+  Aachen (proper noun) genitive=Aachens :: The German city Aachen
 ===Aargau===
   Aargau {m} :: Aargau
 ===Aaron===
@@ -4128,7 +4151,7 @@ Index: en en->de
   Zeitgeist {{de-noun|g=m|gen1=Zeitgeistes|gen2=Zeitgeists|pl=-}} :: Spirit of the age; zeitgeist
   (Old High German) altar {{goh-noun|g=n}} :: age
 ===agent===
-  -er {{infl|de|suffix|sort=er}} :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
+  -er (suffix) :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
     arbeiten 'to work'; (ich) arbeit(<u>e</u>) + -er '-er' -> Arbeiter 'worker' :: --
 ===ages===
   Nachtwächter {{de-noun|g=m|gen=Nachtwächters|pl=Nachtwächter}} :: night watchman (a guard that protected cities (in the middle ages))
@@ -4161,10 +4184,10 @@ Index: en en->de
 ===albino===
   albino (adjective) :: albino, albinistic: congenitally lacking melanin pigmentation in the skin, eyes, and hair or feathers (or more rarely only in the eyes); afflicted with albinism
 ===alcohol===
-  prost {{infl|de|interjection|head=prost!}} :: the usual toast when drinking alcohol; cheers
+  prost! (interjection) :: the usual toast when drinking alcohol; cheers
 ===alcoholic===
   Geist {{de-noun|g=m|genitive=Geistes|plural=Geister}} :: An alcoholic drink; a spirit
-  Wasser {{infl|de|noun|gender=n|genitive|Wassers|plural|Wasser|plural 2 (depending on sense)|Wässer}} :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is {{term|Wässer}}.)
+  Wasser {n} (noun), genitive: Wassers, plural: Wasser, plural 2 (depending on sense): Wässer :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is {{term|Wässer}}.)
 ===Alemannic===
   Schwyz {{de-proper noun}} :: {{dialectal}} the Alemannic (Swiss German) name of Switzerland
 ===Alexander===
@@ -4227,7 +4250,7 @@ Index: en en->de
   U-Bahn {{de-noun|g=f|plural=U-Bahnen}} :: An underground railway, subway
   Geist {{de-noun|g=m|genitive=Geistes|plural=Geister}} :: An alcoholic drink; a spirit
   rechts {{de-adv}} :: to the right: An der nächsten Ampel rechts abbiegen.
-  Wasser {{infl|de|noun|gender=n|genitive|Wassers|plural|Wasser|plural 2 (depending on sense)|Wässer}} :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is {{term|Wässer}}.)
+  Wasser {n} (noun), genitive: Wassers, plural: Wasser, plural 2 (depending on sense): Wässer :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is {{term|Wässer}}.)
   Sekunde {{de-noun|g=f|plural=Sekunden}} :: {{music|lang=de}} An interval of 1 (kleine Sekunde) or 2 (große Sekunde) halftones.
   Terz {{de-noun|g=f|genitive=Terz|plural=Terzen}} :: {{music|lang=de}} An interval of 3 (kleine Terz) or 4 (große Terz) halftones.
   Sexte {{de-noun|g=f|plural=Sexten}} :: {{music|lang=de}} An interval of 8 (kleine Sexte) or 9 (große Sexte) halftones.
@@ -4237,7 +4260,7 @@ Index: en en->de
 ===analogue===
   analog {{de-adj|-}} :: analogue
 ===anarchist===
-  -ist {{infl|de|suffix|sort=ist|gender=m|plural|-isten|feminine|-istin|feminine plural|-istinnen}} :: -ist
+  -ist {m} (suffix), plural: -isten, feminine: -istin, feminine plural: -istinnen :: -ist
     Pianist :: pianist
     Anarchist :: anarchist
     Rassist :: racist
@@ -4388,7 +4411,7 @@ Index: en en->de
     Schauen Sie an die Tafel. :: “Look at the blackboard.”
   bei (preposition), + dative :: {{context|with something that has a definite time}} by (some time); by the beginning of (some event); at; on; upon
     bei Abfahrt des Zuges :: “upon departure of the train”
-  (Old High German) bi {{infl|goh|preposition|head=bī}} :: at
+  (Old High German) bī (preposition) :: at
   zu (preposition), + dative :: at, by, on.
     zu Hause :: "at home"
   gar {{de-adv}} :: at all
@@ -4624,7 +4647,7 @@ Index: en en->de
 ===between===
   zwischen (preposition) :: between
 ===beverage===
-  Wasser {{infl|de|noun|gender=n|genitive|Wassers|plural|Wasser|plural 2 (depending on sense)|Wässer}} :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is {{term|Wässer}}.)
+  Wasser {n} (noun), genitive: Wassers, plural: Wasser, plural 2 (depending on sense): Wässer :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is {{term|Wässer}}.)
 ===Bhutan===
   Bhutan (proper noun) :: Bhutan
 ===biblical===
@@ -4663,7 +4686,7 @@ Index: en en->de
 ===bladder===
   Seele {{de-noun|g=f|genitive=Seele|plural=Seelen}} :: swim bladder
 ===bless===
-  Gesundheit {{infl|de|interjection|head=Gesundheit!}} :: said to somebody who has sneezed, bless you.
+  Gesundheit! (interjection) :: said to somebody who has sneezed, bless you.
 ===blood===
   (Low German) blood {{nds-noun|n}} :: blood
 ===blowfly===
@@ -4718,7 +4741,7 @@ Index: en en->de
   Brandenburg (proper noun) :: Brandenburg {{gloss|state}}
   Brandenburg (proper noun) :: Brandenburg {{gloss|town}}
 ===brandy===
-  Wasser {{infl|de|noun|gender=n|genitive|Wassers|plural|Wasser|plural 2 (depending on sense)|Wässer}} :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is {{term|Wässer}}.)
+  Wasser {n} (noun), genitive: Wassers, plural: Wasser, plural 2 (depending on sense): Wässer :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is {{term|Wässer}}.)
 ===Brazzaville===
   Kongo {m} (proper noun) :: Congo (country with Brazzaville as capital)
 ===bread===
@@ -4836,7 +4859,7 @@ Index: en en->de
     2008, Frank Behmeta, Wenn ich die Augen öffne, page 55: :: --
     Kann man es fühlen, wenn man schwanger ist? :: --
     If a person is pregnant, can he feel it? :: --
-  der {{infl|de|relative pronoun|singular, relative|gender=m}} :: who; that; which
+  der {m} (relative pronoun), singular, relative :: who; that; which
     Ich kenne einen Mann, der das kann. :: “I know a man who can do that.”
   das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
     Ich kenne ein Mädchen, das das kann. :: I know a girl who can do that.
@@ -4977,7 +5000,7 @@ Index: en en->de
   keck (adjective){{tbot entry|German|sassy|2010|July|de}} :: sassy (bold and spirited; cheeky)
 ===cheers===
   servus :: {{qualifier|toast}} cheers
-  prost {{infl|de|interjection|head=prost!}} :: the usual toast when drinking alcohol; cheers
+  prost! (interjection) :: the usual toast when drinking alcohol; cheers
 ===cheese===
   Käse {{de-noun|g=m|genitive=Käses|plural=Käse}} :: cheese
 ===chemical===
@@ -5027,7 +5050,7 @@ Index: en en->de
   Madrid (proper noun) :: Madrid, Spanish capital city and province
   Straße {{de-noun|g=f|plural=Straßen}} :: a paved road, especially in the city
     Das Kind überquerte die Straße. :: The child crossed the road.
-  Aachen {{infl|de|proper noun|genitive=Aachens}} :: The German city Aachen
+  Aachen (proper noun) genitive=Aachens :: The German city Aachen
   Berlin {n} (proper noun) :: Berlin, the capital city of Germany.
     Berlin ist mehr ein Weltteil als eine Stadt. :: Johann Paul Friedrich Richter, 1800.
     Berlin is more a part of a world than a city. :: --
@@ -5073,7 +5096,7 @@ Index: en en->de
   Büffel {{de-noun|g=m|genitive=Büffels|plural=Büffel}} :: lout, clod
 ===close===
   an (preposition), with an accusative or dative case object :: {{context|with a dative case object}} by; near; close to; next to
-  (Old High German) nah {{infl|goh|adjective|head=nāh}} :: close
+  (Old High German) nāh (adjective) :: close
   Liebe {{de-noun|g=f|plural=Lieben}} :: (plural) loves, loved ones (members of one's family or close friends)
     1784 CE: Johann Christoph Friedrich von Schiller, Kabale und Liebe :: --
     Ihr steht bestürzt, guten Leute, erwartet angstvoll, wie sich das Räthsel entwickeln wird?--Kommt näher, meine Lieben!--Ihr dientet mir redlich und warm [...] :: --
@@ -5280,7 +5303,7 @@ Index: en en->de
   Schwanenjunges ein Schwanenjunges n, genitive eines Schwanenjungen, plural Schwanenjunge<br>das Schwanenjunge n, genitive des Schwanenjungen, plural die Schwanenjungen :: cygnet.
 ===d===
   biegen {{de-verb}} :: {{reflexive|auxiliary: “[[haben]]”}} to have a curved shape.
-  Gesundheit {{infl|de|interjection|head=Gesundheit!}} :: said to somebody who has sneezed, bless you.
+  Gesundheit! (interjection) :: said to somebody who has sneezed, bless you.
   aus {{de-adv}} :: {{context|with “[[sein]]”''}} over; finished; ceased; up
     Das Spiel ist aus! :: The jig game is up!
 ===dangerous===
@@ -5467,7 +5490,7 @@ Index: en en->de
     Ich kenne eine Frau, die das kann. :: “I know a woman who can do that.”
   bei (preposition), + dative :: {{context|with something that has a location}} by (some place or someone); near; with; on
     Ich habe es nicht bei mir. :: “I do not have it on me.”
-  der {{infl|de|relative pronoun|singular, relative|gender=m}} :: who; that; which
+  der {m} (relative pronoun), singular, relative :: who; that; which
     Ich kenne einen Mann, der das kann. :: “I know a man who can do that.”
   das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
     Ich kenne ein Mädchen, das das kann. :: I know a girl who can do that.
@@ -5487,7 +5510,7 @@ Index: en en->de
 ===doctors===
   Ärzte :: {{plural of|Arzt|lang=de}} "doctors"
 ===does===
-  -er {{infl|de|suffix|sort=er}} :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
+  -er (suffix) :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
     arbeiten 'to work'; (ich) arbeit(<u>e</u>) + -er '-er' -> Arbeiter 'worker' :: --
 ===dog===
   (Old High German) hunt {{goh-noun|g=m}} :: dog
@@ -5504,7 +5527,7 @@ Index: en en->de
     Ich weiß nicht, wie die Katze hereingekommen ist. :: I don't know how the cat got in.
 ===done===
   gar {{de-adj|-}} :: done
-  gut durch {{infl|de|adjective|head={{l|de|gut}} {{l|de|durch}}}} :: {{cooking|lang=de}} well done.
+  {{l|de|gut}} {{l|de|durch}} (adjective) :: {{cooking|lang=de}} well done.
   umsonst :: having done something without success
 ===down===
   ab- (prefix) :: Separable verb prefix that indicates a downward movement, down.
@@ -5530,11 +5553,11 @@ Index: en en->de
   zu (preposition), + dative :: along with; with
     Wasser zum Essen trinken :: "to drink water with [one's] meal
 ===drinking===
-  prost {{infl|de|interjection|head=prost!}} :: the usual toast when drinking alcohol; cheers
+  prost! (interjection) :: the usual toast when drinking alcohol; cheers
 ===drop===
   fallen {{de-verb-strong|class=7|fällt|fiel|gefallen|auxiliary=sein}} :: {{intransitive|lang=de}} to fall; to drop
 ===dropped===
-  -er {{infl|de|suffix|sort=er}} :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
+  -er (suffix) :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
     arbeiten 'to work'; (ich) arbeit(<u>e</u>) + -er '-er' -> Arbeiter 'worker' :: --
 ===drunk===
   breit (adjective) :: {{colloquial|lang=de}} drunk or high on marijuana; stoned
@@ -5564,7 +5587,7 @@ Index: en en->de
   wiegen {{de-verb-weak|wiegt|wiegte|gewiegt}} :: {{transitive}} to chop (e.g. herbs); to mince
 ===E===
   es {n} (plural: es) :: {{music|lang=de}} E flat
-  -er {{infl|de|suffix|sort=er}} :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
+  -er (suffix) :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
     arbeiten 'to work'; (ich) arbeit(<u>e</u>) + -er '-er' -> Arbeiter 'worker' :: --
 ===each===
   einander :: each other.
@@ -5576,7 +5599,7 @@ Index: en en->de
 ===eaglet===
   Adlerjunges ein Adlerjunges n, genitive eines Adlerjungen, plural Adlerjunge<br>das Adlerjunge n, genitive des Adlerjungen, plural die Adlerjungen :: eaglet.
 ===earlier===
-  (Old High German) er {{infl|goh|adjective|head=ēr}} :: earlier
+  (Old High German) ēr (adjective) :: earlier
 ===earned===
   Orden {{de-noun|g=m|gen=Ordens|plural=Orden}} :: A decoration earned in the military or in sports; a medal, especially one awarded for merit or achievement.
 ===earth===
@@ -5685,7 +5708,7 @@ Index: en en->de
 ===environmental===
   grün {{de-adj|comparative=grüner|superlative=grünsten}} :: {{context|politics|Germany|lang=de}} pertaining to Bündnis 90/Die Grünen (the largest environmental party in Germany)
 ===environmentally===
-  bio- {{infl|de|prefix|cat=prefixes}} :: organically produced, or otherwise environmentally friendly
+  bio- (prefix) :: organically produced, or otherwise environmentally friendly
 ===equitable===
   fair (adjective) :: just, equitable, adequate, honest, in good spirit
     ein faires Spiel :: --
@@ -5894,7 +5917,7 @@ Index: en en->de
 ===ferment===
   arbeiten {{de-verb}} :: {{intransitive|lang=de}} to ferment
 ===fermented===
-  Wasser {{infl|de|noun|gender=n|genitive|Wassers|plural|Wasser|plural 2 (depending on sense)|Wässer}} :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is {{term|Wässer}}.)
+  Wasser {n} (noun), genitive: Wassers, plural: Wasser, plural 2 (depending on sense): Wässer :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is {{term|Wässer}}.)
 ===fetch===
   bringen {{de-verb-weak|bringt|brachte|gebracht}} :: {{transitive}} to bring; to fetch.
 ===figurative===
@@ -5926,7 +5949,7 @@ Index: en en->de
   strafe (verb form) :: first person singular and imperative of strafen
   darf (verb form) :: first and third person present of dürfen.
   decke (verb form) :: present tense first person singular of decken "I cover"
-  -er {{infl|de|suffix|sort=er}} :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
+  -er (suffix) :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
     arbeiten 'to work'; (ich) arbeit(<u>e</u>) + -er '-er' -> Arbeiter 'worker' :: --
 ===First===
   meine (verb form) :: First-person singular indicative present form of meinen.
@@ -5993,7 +6016,7 @@ Index: en en->de
 ===former===
   Hannover {{de-proper noun|g=n}} :: Hanover, a former province of Prussia, now part of Lower Saxony, Germany.
 ===Forming===
-  -er {{infl|de|suffix|sort=er}} :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
+  -er (suffix) :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
     arbeiten 'to work'; (ich) arbeit(<u>e</u>) + -er '-er' -> Arbeiter 'worker' :: --
 ===forms===
   (Low German) was (verb form) :: singular past indicative of 'wesen' (dialecal forms include wäsen and węsen, there is no standard); wholly synonymous alternate form of was is wer (weer, wir)
@@ -6017,7 +6040,7 @@ Index: en en->de
   frei {{de-adj|comparative=freier|superlative=freisten}} :: free of charge, gratis
   gratis :: free, without charge
   umsonst :: free of charge, gratis
-  (Old High German) fri {{infl|goh|adjective|head=frī}} :: free
+  (Old High German) frī (adjective) :: free
   frei {{de-adj|comparative=freier|superlative=freisten}} :: released, unimprisoned, unenslaved
     Stadtluft macht frei. :: City's air makes free. (By living in a city for a certain time, a German peasant could free himself from serfdom.)
 ===freeway===
@@ -6044,7 +6067,7 @@ Index: en en->de
   hold (adjective) :: {{archaic|poetic|lang=de}} friendly, comely, graceful
   (Old High German) hold :: friendly
   (Middle High German) alb (plural elbe, elber) :: friendly spirit, ghostly being, genius, or fairy
-  bio- {{infl|de|prefix|cat=prefixes}} :: organically produced, or otherwise environmentally friendly
+  bio- (prefix) :: organically produced, or otherwise environmentally friendly
 ===friends===
   du :: {{personal|lang=de}} you (sg., informal, friends, relatives).
   Liebe {{de-noun|g=f|plural=Lieben}} :: (plural) loves, loved ones (members of one's family or close friends)
@@ -6063,7 +6086,7 @@ Index: en en->de
   bang {{de-adj|banger|bangsten}} :: Scared, frightened, afraid, fearful.
 ===fruit===
   Apfel {{de-noun|g=m|genitive=Apfels|plural=Äpfel}} :: apple (fruit)
-  Wasser {{infl|de|noun|gender=n|genitive|Wassers|plural|Wasser|plural 2 (depending on sense)|Wässer}} :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is {{term|Wässer}}.)
+  Wasser {n} (noun), genitive: Wassers, plural: Wasser, plural 2 (depending on sense): Wässer :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is {{term|Wässer}}.)
 ===fruity===
   schwul (adjective) :: {{pejorative|lang=de}} {{slang|lang=de}} having effeminate or flamboyant qualities; fruity, queer, swishy
 ===fry===
@@ -6135,7 +6158,7 @@ Index: en en->de
   deutsch {{de-adj|deutscher|deutschesten}} :: German
     Meine Mutter ist deutscher Herkunft, aber mein Vater ist Österreicher. :: My mother is of German origin but my father is Austrian.
   X (letter), upper case, lower case: x :: The twenty-fourth letter of the German alphabet.
-  Aachen {{infl|de|proper noun|genitive=Aachens}} :: The German city Aachen
+  Aachen (proper noun) genitive=Aachens :: The German city Aachen
   Hamburg {n} (proper noun) :: Hamburg (German state)
   Hamburg {n} (proper noun) :: Hamburg (German city)
   Rappen m (plural same) :: German for the Swiss centime (1/100 franc).
@@ -6233,7 +6256,7 @@ Index: en en->de
     Nun, wie geht’s? :: “Well, how’s it going?”
 ===good===
   (Low German) god (adjective) :: good
-  (Middle Low German) god {{infl|gml|adjective|head=gōd}} :: good
+  (Middle Low German) gōd (adjective) :: good
   gut {{de-adj|comparative=besser |superlative=besten}} :: good
   fair (adjective) :: just, equitable, adequate, honest, in good spirit
     ein faires Spiel :: --
@@ -6286,7 +6309,7 @@ Index: en en->de
   breit (adjective) :: Having great width.
     eine breite Straße: a wide street :: --
 ===Great===
-  ne {{infl|de|interjection|head=ne?}} :: {{colloquial|lang=de}} no?; is it not?
+  ne? (interjection) :: {{colloquial|lang=de}} no?; is it not?
     Großartig, ne? :: “Great, isn’t it?”
 ===green===
   grün {{de-adj|comparative=grüner|superlative=grünsten}} :: green
@@ -6403,7 +6426,7 @@ Index: en en->de
 ===has===
   Schadenfreude {{de-noun|g=f|pl=-}} :: Satisfaction derived when an individual has misfortune for disregarding rules or conventions.
   real :: That has physical existence.
-  Gesundheit {{infl|de|interjection|head=Gesundheit!}} :: said to somebody who has sneezed, bless you.
+  Gesundheit! (interjection) :: said to somebody who has sneezed, bless you.
   sein {{de-verb-irregular|ist|war|gewesen|auxiliary=sein}} :: {{auxiliary|lang=de}} to have; {{non-gloss definition|forms the [[present perfect]] and [[past perfect]] tense of intransitive verbs that do not use the reflexive pronoun}}
     Er ist alt geworden. :: He has become old.
 ===have===
@@ -6541,7 +6564,7 @@ Index: en en->de
   (Old High German) hol (adjective) :: hollow
   (Old High German) hol {{goh-noun}} :: A hollow
 ===Holstein===
-  Schleswig-Holstein {{infl|de|proper noun|head=[[Schleswig]]-[[Holstein]]}} :: Schleswig-Holstein
+  Schleswig-Holstein (proper noun) :: Schleswig-Holstein
 ===holy===
   heilig :: holy
 ===Holy===
@@ -6661,7 +6684,7 @@ Index: en en->de
 ===In===
   das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
     Ich kenne ein Mädchen, das das kann. :: I know a girl who can do that.
-  Wasser {{infl|de|noun|gender=n|genitive|Wassers|plural|Wasser|plural 2 (depending on sense)|Wässer}} :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is {{term|Wässer}}.)
+  Wasser {n} (noun), genitive: Wassers, plural: Wasser, plural 2 (depending on sense): Wässer :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is {{term|Wässer}}.)
 ===inclination===
   Liebe {{de-noun|g=f|plural=Lieben}} :: (no plural) lust (sexually or erotically motivated inclination)
 ===include===
@@ -6685,7 +6708,7 @@ Index: en en->de
   (Low German) was (verb form) :: singular past indicative of 'wesen' (dialecal forms include wäsen and węsen, there is no standard); wholly synonymous alternate form of was is wer (weer, wir)
   meine (verb form) :: First-person singular indicative present form of meinen.
   esse (verb form) :: First-person singular indicative present form of essen.
-  -er {{infl|de|suffix|sort=er}} :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
+  -er (suffix) :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
     arbeiten 'to work'; (ich) arbeit(<u>e</u>) + -er '-er' -> Arbeiter 'worker' :: --
   schade :: 1st person singular present indicative of schaden
   ward (verb form) :: {{archaic|lang=de}} First-person singular indicative past form of werden.
@@ -6761,7 +6784,7 @@ Index: en en->de
 ===iron===
   Eisen {n} :: iron (chemical element, Fe)
 ===Is===
-  nicht {{infl|de|interjection|head=nicht?}} :: Is it not?
+  nicht? (interjection) :: Is it not?
   backen {{de-verb-strong|class=6|[[backt]]''' ''or'' '''[[bäckt]]|[[backte]]''' ''or archaic'' '''[[buk]]|[[gebacken]]''' ''or'' '''[[gebackt]]}} :: {{transitive|or|intransitive}} to bake; to roast
     Der Bäcker backt jeden Morgen 30 Laib Brot. :: “The baker bakes 30 loaves of bread every morning.”
     Ist der Kuchen schon gebacken? :: “Is the cake baked yet?”
@@ -6772,12 +6795,12 @@ Index: en en->de
 ===Isle===
   Manx {n} (proper noun) :: Manx Gaelic, the Goidelic language spoken on the Isle of Man
 ===isn===
-  ne {{infl|de|interjection|head=ne?}} :: {{colloquial|lang=de}} no?; is it not?
+  ne? (interjection) :: {{colloquial|lang=de}} no?; is it not?
     Großartig, ne? :: “Great, isn’t it?”
 ===Israel===
   Israel {n} (proper noun) :: Israel
 ===ist===
-  -ist {{infl|de|suffix|sort=ist|gender=m|plural|-isten|feminine|-istin|feminine plural|-istinnen}} :: -ist
+  -ist {m} (suffix), plural: -isten, feminine: -istin, feminine plural: -istinnen :: -ist
     Pianist :: pianist
     Anarchist :: anarchist
     Rassist :: racist
@@ -6796,9 +6819,9 @@ Index: en en->de
   sie {f} :: {{personal|lang=de}} it (when the object/article/thing/animal etc., referred to, is feminine (die)).
   dass :: (subordinating) that, it (logical conditional)
   Uhr {{de-noun|g=f|plural=Uhren}} :: hour, as in Es ist fünf Uhr (it is five o'clock)
-  nicht {{infl|de|interjection|head=nicht?}} :: Is it not?
+  nicht? (interjection) :: Is it not?
   live {{de-adv}} :: {{context|of an event|lang=de}} live (as it happens; in real time; direct)
-  ne {{infl|de|interjection|head=ne?}} :: {{colloquial|lang=de}} no?; is it not?
+  ne? (interjection) :: {{colloquial|lang=de}} no?; is it not?
     Großartig, ne? :: “Great, isn’t it?”
   auf :: on -- es liegt auf dem Tisch (it is on the table) dat
   auf :: onto -- stell es auf den Tisch (place it on the table) acc
@@ -6942,7 +6965,7 @@ Index: en en->de
     Aber ja! :: “But of course!”
   die (relative pronoun), relative or demonstrative :: {{context|in a subordinate clause as a relative pronoun}} That; which; who; whom; whose.
     Ich kenne eine Frau, die das kann. :: “I know a woman who can do that.”
-  der {{infl|de|relative pronoun|singular, relative|gender=m}} :: who; that; which
+  der {m} (relative pronoun), singular, relative :: who; that; which
     Ich kenne einen Mann, der das kann. :: “I know a man who can do that.”
   das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
     Ich kenne ein Mädchen, das das kann. :: I know a girl who can do that.
@@ -7073,7 +7096,7 @@ Index: en en->de
 ===liegt===
   auf :: on -- es liegt auf dem Tisch (it is on the table) dat
 ===life===
-  bio- {{infl|de|prefix|cat=prefixes}} :: life
+  bio- (prefix) :: life
   Triebleben der Klänge {n} :: Chordal life force.
 ===lift===
   Aufzug {{de-noun|g=m|genitive=Aufzugs|genitive2=Aufzuges|plural=Aufzüge}} :: lift, elevator
@@ -7205,7 +7228,7 @@ Index: en en->de
   wen :: {{interrogative|lang=de}} accusative of wer, who(m) (direct object).
 ===made===
   aus (preposition), + dative :: of; made of; out of
-  Wasser {{infl|de|noun|gender=n|genitive|Wassers|plural|Wasser|plural 2 (depending on sense)|Wässer}} :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is {{term|Wässer}}.)
+  Wasser {n} (noun), genitive: Wassers, plural: Wasser, plural 2 (depending on sense): Wässer :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is {{term|Wässer}}.)
 ===Madrid===
   Madrid (proper noun) :: Madrid, Spanish capital city and province
 ===main===
@@ -7251,7 +7274,7 @@ Index: en en->de
   Gigant {{de-noun|g=m|genitive=Giganten|plural=Giganten}} :: mammoth
 ===man===
   (Old High German) man {{goh-noun|g=m}} :: man
-  der {{infl|de|relative pronoun|singular, relative|gender=m}} :: who; that; which
+  der {m} (relative pronoun), singular, relative :: who; that; which
     Ich kenne einen Mann, der das kann. :: “I know a man who can do that.”
 ===Man===
   Manx {n} (proper noun) :: Manx Gaelic, the Goidelic language spoken on the Isle of Man
@@ -7571,7 +7594,7 @@ Index: en en->de
     Ich habe es nicht bei mir. :: “I do not have it on me.”
   nah (adjective) :: near (in space or time or in an abstract sense)
   nah {{de-adv}} :: near (in space or time or in an abstract sense)
-  (Old High German) nah {{infl|goh|adjective|head=nāh}} :: near
+  (Old High German) nāh (adjective) :: near
 ===nearly===
   fast {{de-adv}} :: almost; nearly
     Fast 60 Spielfilme sind zu sehen. :: “There are almost 60 feature films to see.”
@@ -7675,7 +7698,7 @@ Index: en en->de
   Brustwarze {{de-noun|g=f|plural=Brustwarzen}} :: nipple, teat
 ===no===
   null {{de-adj|-|-}} :: {{slang|lang=de}} no, zero {{gloss|absolutely none}}
-  ne {{infl|de|interjection|head=ne?}} :: {{colloquial|lang=de}} no?; is it not?
+  ne? (interjection) :: {{colloquial|lang=de}} no?; is it not?
     Großartig, ne? :: “Great, isn’t it?”
   nein {{de-adv}} :: no
   (Low German) nee (adverb) :: no
@@ -7727,9 +7750,9 @@ Index: en en->de
   Norwegisch {{de-proper noun}} :: the Norwegian language
 ===not===
   nicht {{de-adv}} :: not
-  ne {{infl|de|interjection|head=ne?}} :: {{colloquial|lang=de}} no?; is it not?
+  ne? (interjection) :: {{colloquial|lang=de}} no?; is it not?
     Großartig, ne? :: “Great, isn’t it?”
-  nicht {{infl|de|interjection|head=nicht?}} :: Is it not?
+  nicht? (interjection) :: Is it not?
   ledig :: single (not married)
   los (adverb)(only used in combination with sein (to be) or another verb) :: loose (not attached)
   nackt {{de-adj|comparative=nackter|superlative=nacktesten}} :: naked, nude (not wearing any clothes)
@@ -7763,7 +7786,7 @@ Index: en en->de
   einen + accusative of masculine noun :: (without noun) one (masculine accusative)
 ===nouns===
   Boden {{de-noun|g=m|genitive=Bodens|plural=Böden}} :: (countable, colloquial): flooring, floor cover (often used in this sense in compound nouns: Teppichboden, Parkettboden)
-  -er {{infl|de|suffix|sort=er}} :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
+  -er (suffix) :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
     arbeiten 'to work'; (ich) arbeit(<u>e</u>) + -er '-er' -> Arbeiter 'worker' :: --
 ===now===
   nun {{de-adv}} :: now; then
@@ -7828,9 +7851,9 @@ Index: en en->de
 ===oil===
   Öl {{de-noun|g=n|genitive=Öls|genitive2=Öles|plural=Öle}} :: oil
 ===old===
-  (Old High German) her {{infl|goh|adjective|head=hēr}} :: old
-  (Low German) old {{infl|adj|lang=nds}} :: old
-  (Middle Low German) old {{infl|adj|lang=nds}} :: old
+  (Old High German) hēr (adjective) :: old
+  (Low German) old :: old
+  (Middle Low German) old :: old
   er (pronoun) :: {{personal|lang=de}} it (when the grammatical gender of the object/article/thing/animal etc., being referred to, is masculine (der)).
     Dies ist mein Hund. Er heißt Waldi. :: This is my dog. Its name is Waldi.
     Dort steht ein Baum. Er ist über 100 Jahre alt. :: There stands a tree. It is more than 100 years old.
@@ -7897,7 +7920,7 @@ Index: en en->de
 ===ore===
   (Old High German) er {{goh-noun|head=ēr}} :: ore
 ===organically===
-  bio- {{infl|de|prefix|cat=prefixes}} :: organically produced, or otherwise environmentally friendly
+  bio- (prefix) :: organically produced, or otherwise environmentally friendly
 ===origin===
   Ursula (proper noun) :: {{given name|female|lang=de}} of {{etyl|la|de}} origin, very popular from the 1930s to the 1960s.
   Michael (proper noun) :: {{given name|male|lang=de}} of Hebrew origin.
@@ -7919,7 +7942,7 @@ Index: en en->de
   Zug {{de-noun|g=m|genitive=Zugs|genitive2=Zuges|plural=Züge}} :: train (multiple vehicles one behind the other, particularly travelling on rails)
   Aasfliege {{de-noun|g=f|plural=Aasfliegen}} :: {{uncommon|lang=de}} A person with a habit of exploiting other people.
 ===otherwise===
-  bio- {{infl|de|prefix|cat=prefixes}} :: organically produced, or otherwise environmentally friendly
+  bio- (prefix) :: organically produced, or otherwise environmentally friendly
 ===Otto===
   Pickelhaube {{de-noun|g=f|plural=Pickelhauben}} :: a spiked helmet, popularized by Otto von Bismark.
 ===out===
@@ -8072,7 +8095,7 @@ Index: en en->de
   Arzt {{de-noun|g=m|Arztes|Ärzte}} :: doctor, physician.
   Ärztin {{de-noun|g=f|plural=Ärztinnen}} :: female doctor or physician.
 ===pianist===
-  -ist {{infl|de|suffix|sort=ist|gender=m|plural|-isten|feminine|-istin|feminine plural|-istinnen}} :: -ist
+  -ist {m} (suffix), plural: -isten, feminine: -istin, feminine plural: -istinnen :: -ist
     Pianist :: pianist
     Anarchist :: anarchist
     Rassist :: racist
@@ -8230,7 +8253,7 @@ Index: en en->de
 ===private===
   eigen {{de-adj|-}} :: private
 ===produced===
-  bio- {{infl|de|prefix|cat=prefixes}} :: organically produced, or otherwise environmentally friendly
+  bio- (prefix) :: organically produced, or otherwise environmentally friendly
 ===product===
   Bestellung {{de-noun|g=f|plural=Bestellungen}} :: order, request for a product
 ===Produktions===
@@ -8317,7 +8340,7 @@ Index: en en->de
 ===Rachel===
   Rachel (proper noun) :: {{biblical character|lang=de}} Rachel .
 ===racist===
-  -ist {{infl|de|suffix|sort=ist|gender=m|plural|-isten|feminine|-istin|feminine plural|-istinnen}} :: -ist
+  -ist {m} (suffix), plural: -isten, feminine: -istin, feminine plural: -istinnen :: -ist
     Pianist :: pianist
     Anarchist :: anarchist
     Rassist :: racist
@@ -8378,7 +8401,7 @@ Index: en en->de
   (Low German) rod (adjective) :: red
   rot {{de-adj|comparative=röter|superlative=rötesten}}<br>{{de-adj|comparative=roter|superlative=rotesten}} :: red
   rot {{de-adj|comparative=röter|superlative=rötesten}}<br>{{de-adj|comparative=roter|superlative=rotesten}} :: red-haired (short for rothaarig)
-  (Old High German) rot {{infl|goh|adjective|head=rōt}} :: red
+  (Old High German) rōt (adjective) :: red
 ===redcurrant===
   Johannisbeere {{de-noun|g=f|plural=Johannisbeeren}} :: redcurrant (rote Johannisbeere)
 ===refer===
@@ -8559,7 +8582,7 @@ Index: en en->de
 ===safe===
   sicher {{de-adj|sicherer|sichersten}} :: safe
 ===said===
-  Gesundheit {{infl|de|interjection|head=Gesundheit!}} :: said to somebody who has sneezed, bless you.
+  Gesundheit! (interjection) :: said to somebody who has sneezed, bless you.
   ward (verb form) :: {{archaic|lang=de}} Third-person singular indicative past form of werden.
     Und Gott sprach: »Es werde Licht!« Und es ward Licht. [http://www.bibledbdata.org/onlinebibles/german_l/01_001.htm] :: And God said: "Let there be light." And there was light.
 ===sail===
@@ -8635,7 +8658,7 @@ Index: en en->de
 ===Scheldt===
   Schelde (proper noun) :: The mighty river Scheldt, which flows through France, Flanders (Belgium, where he becomes navigable for seaships) and the Netherlands.
 ===Schleswig===
-  Schleswig-Holstein {{infl|de|proper noun|head=[[Schleswig]]-[[Holstein]]}} :: Schleswig-Holstein
+  Schleswig-Holstein (proper noun) :: Schleswig-Holstein
 ===Schraubenschlüssel===
   Schlüssel {{de-noun|g=m|pl=Schlüssel}} :: short for Schraubenschlüssel (spanner, wrench)
 ===schwarze===
@@ -8700,9 +8723,9 @@ Index: en en->de
   nah (adjective) :: near (in space or time or in an abstract sense)
   nah {{de-adv}} :: near (in space or time or in an abstract sense)
   Boden {{de-noun|g=m|genitive=Bodens|plural=Böden}} :: (countable, colloquial): flooring, floor cover (often used in this sense in compound nouns: Teppichboden, Parkettboden)
-  -er {{infl|de|suffix|sort=er}} :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
+  -er (suffix) :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
     arbeiten 'to work'; (ich) arbeit(<u>e</u>) + -er '-er' -> Arbeiter 'worker' :: --
-  Wasser {{infl|de|noun|gender=n|genitive|Wassers|plural|Wasser|plural 2 (depending on sense)|Wässer}} :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is {{term|Wässer}}.)
+  Wasser {n} (noun), genitive: Wassers, plural: Wasser, plural 2 (depending on sense): Wässer :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is {{term|Wässer}}.)
   Zusammenklang :: "sounding together", a pitch simultaneity, sonority, or a chord in the sense of indpendent entities sounding together.
 ===senses===
   langsam {{de-adj|comparative=langsamer|superlative=langsamsten}} :: slow, both in the senses of slow physical movement and limited progress
@@ -8828,7 +8851,7 @@ Index: en en->de
   Quarzstaublungenerkrankung {f} (noun) :: silicosis or silico-tuberculosis (literally, "quartz dust lung illness"—cancer of the lungs due to the effect of crystalline silicon dioxide (SiO<sub>2</sub>)).
 ===similar===
   Autobahn {{de-noun|g=f|plural=Autobahnen}} :: A class of road built to freeway standards, similar to a motorway.
-  Wasser {{infl|de|noun|gender=n|genitive|Wassers|plural|Wasser|plural 2 (depending on sense)|Wässer}} :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is {{term|Wässer}}.)
+  Wasser {n} (noun), genitive: Wassers, plural: Wasser, plural 2 (depending on sense): Wässer :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is {{term|Wässer}}.)
 ===simultaneity===
   Zusammenklang :: "sounding together", a pitch simultaneity, sonority, or a chord in the sense of indpendent entities sounding together.
 ===since===
@@ -8879,7 +8902,7 @@ Index: en en->de
 ===snail===
   Kugelschnecke {{de-noun|g=f|plural=Kugelschnecken}} :: a sort of snail
 ===sneeze===
-  Gesundheit {{infl|de|interjection|head=Gesundheit!}} :: said to somebody who has sneezed, bless you.
+  Gesundheit! (interjection) :: said to somebody who has sneezed, bless you.
 ===snow===
   Schnee {{de-noun|g=m|Schnees|-}} :: snow
   bei (preposition), + dative :: {{context|with something that may or may not occur}} if there is (something)
@@ -8942,7 +8965,7 @@ Index: en en->de
     Nimm dich in Acht! :: “Take care!”
 ===somebody===
   hallo (interjection) :: hello (a general greeting used when meeting somebody)
-  Gesundheit {{infl|de|interjection|head=Gesundheit!}} :: said to somebody who has sneezed, bless you.
+  Gesundheit! (interjection) :: said to somebody who has sneezed, bless you.
 ===someone===
   Schadenfreude {{de-noun|g=f|pl=-}} :: Malicious enjoyment derived from observing someone else's misfortune; schadenfreude.
   bei (preposition), + dative :: {{context|with something that has a location}} by (some place or someone); near; with; on
@@ -9156,7 +9179,7 @@ Index: en en->de
 ===Sudan===
   Sudan {m} (proper noun) :: Sudan
 ===suffixed===
-  -er {{infl|de|suffix|sort=er}} :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
+  -er (suffix) :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
     arbeiten 'to work'; (ich) arbeit(<u>e</u>) + -er '-er' -> Arbeiter 'worker' :: --
 ===sugar===
   Zucker {{de-noun|g=m|pl=-|genitive=Zuckers}} :: sugar (1).
@@ -9223,7 +9246,7 @@ Index: en en->de
   Saturn {m} (proper noun) :: Saturn, a planet in the Solar System
   PPS (abbreviation) :: Produktions-Planungs-System (ERP)
 ===t===
-  ne {{infl|de|interjection|head=ne?}} :: {{colloquial|lang=de}} no?; is it not?
+  ne? (interjection) :: {{colloquial|lang=de}} no?; is it not?
     Großartig, ne? :: “Great, isn’t it?”
   wie :: how
     Wie groß bist du? :: How tall are you?
@@ -9354,7 +9377,7 @@ Index: en en->de
     Was is denn los? :: "What's wrong, then?"
   nun {{de-adv}} :: now; then
 ===there===
-  (Old High German) dar {{infl|goh|adverb|head=dār}} :: there
+  (Old High German) dār (adverb) :: there
   (Pennsylvania German) dart (noun) :: there
   da {{de-adv}} :: there, here
     1918, Elisabeth von Heyking, Aus dem Lande der Ostseeritter, in Zwei Erzählungen, Phillipp Reclam jun., page 78: :: --
@@ -9421,7 +9444,7 @@ Index: en en->de
   sein (possessive pronoun) :: {{possessive|lang=de}} its (when the owning object/article/thing/animal etc., is neuter ({{term|das}}) or masculine ({{term|der}}))
   ihr {m}, ihr {n}, ihre {f}, ihre (pl.) :: {{possessive|lang=de}} its (when the owning object/article/thing/animal etc., referred to, is feminine (die)).
   sie {f} :: {{personal|lang=de}} it (when the object/article/thing/animal etc., referred to, is feminine (die)).
-  -er {{infl|de|suffix|sort=er}} :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
+  -er (suffix) :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
     arbeiten 'to work'; (ich) arbeit(<u>e</u>) + -er '-er' -> Arbeiter 'worker' :: --
 ===think===
   glauben {{de-verb}} :: to think
@@ -9441,7 +9464,7 @@ Index: en en->de
     Das ist mein Haus. :: This is my house.
   her {{de-adv}} :: hither, to this place, to here, to me/us
   Boden {{de-noun|g=m|genitive=Bodens|plural=Böden}} :: (countable, colloquial): flooring, floor cover (often used in this sense in compound nouns: Teppichboden, Parkettboden)
-  Wasser {{infl|de|noun|gender=n|genitive|Wassers|plural|Wasser|plural 2 (depending on sense)|Wässer}} :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is {{term|Wässer}}.)
+  Wasser {n} (noun), genitive: Wassers, plural: Wasser, plural 2 (depending on sense): Wässer :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is {{term|Wässer}}.)
 ===This===
   die (relative pronoun), relative or demonstrative :: {{context|as a demonstrative pronoun}} This one; that one; these ones; those ones; she; her; it; they; them
     die da :: “that one (or she or they) there”
@@ -9474,7 +9497,7 @@ Index: en en->de
 ===Tigris===
   Tigris (proper noun) :: Tigris
 ===time===
-  (Middle High German) zit {{infl|gmh|noun|head=zīt}} {{g|gmh}} :: time
+  (Middle High German) zīt (noun) {{g|gmh}} :: time
   Zeit {{de-noun|g=f|plural=Zeiten}} :: time
   ab (preposition) :: Beginning at that time or location; from.
     ab heute verfügbar (available from today on) :: --
@@ -9502,7 +9525,7 @@ Index: en en->de
   auf :: on -- es liegt auf dem Tisch (it is on the table) dat
   auf :: onto -- stell es auf den Tisch (place it on the table) acc
 ===toast===
-  prost {{infl|de|interjection|head=prost!}} :: the usual toast when drinking alcohol; cheers
+  prost! (interjection) :: the usual toast when drinking alcohol; cheers
 ===today===
   (Alemannic German) hit (adverb) :: (Alsatian) today
     Hit isch dr Jean-Pierre so drüri. :: Jean-Pierre is so sad today.
@@ -9531,7 +9554,7 @@ Index: en en->de
   Zahn {{de-noun|g=m|genitive=Zahns|genitive2=Zahnes|plural=Zähne}} :: tooth.
   (Alemannic German) ton (noun) (singular genitive tones, plural tän, plural genitive tänens) :: {{context|Berne dialect}} tooth
 ===towards===
-  (Old High German) nah {{infl|goh|preposition|head=nāh|takes dative}} :: towards
+  (Old High German) nāh (preposition), takes dative :: towards
   zu (preposition), + dative :: to, towards.
     zum Bahnhof :: "to the train station"
   zu :: to, towards.
@@ -9723,7 +9746,7 @@ Index: en en->de
   Nützlichkeit {{de-noun|g=f|plural=Nützlichkeiten}} :: usefulness
 ===usual===
   gewöhnlich (adjective) :: usual, normal, ordinary
-  prost {{infl|de|interjection|head=prost!}} :: the usual toast when drinking alcohol; cheers
+  prost! (interjection) :: the usual toast when drinking alcohol; cheers
 ===usually===
   gewöhnlich {{de-adv}} :: usually
     Wohin reist du gewöhnlich im Sommer? : Where do you usually travel in summer? :: --
@@ -9773,7 +9796,7 @@ Index: en en->de
 ===verbs===
   zu (particle) :: for; in order to; Used with infinitive of verbs.
     etwas zu essen :: "something to eat"
-  -er {{infl|de|suffix|sort=er}} :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
+  -er (suffix) :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
     arbeiten 'to work'; (ich) arbeit(<u>e</u>) + -er '-er' -> Arbeiter 'worker' :: --
 ===Vereinbarung===
   VB :: Abbreviation of Vereinbarung or Verhandlungsbasis
@@ -9881,7 +9904,7 @@ Index: en en->de
   (Low German) water {{nds-noun}} :: water
   (Middle Low German) water (noun) :: water
   WC {{de-noun|g=n|pl=WCs}} :: WC (water closet)
-  Wasser {{infl|de|noun|gender=n|genitive|Wassers|plural|Wasser|plural 2 (depending on sense)|Wässer}} :: water
+  Wasser {n} (noun), genitive: Wassers, plural: Wasser, plural 2 (depending on sense): Wässer :: water
   zu (preposition), + dative :: along with; with
     Wasser zum Essen trinken :: "to drink water with [one's] meal
 ===way===
@@ -9927,7 +9950,7 @@ Index: en en->de
   recht :: well, right
   nun (interjection) :: (when placed at the beginning of a sentence) well; so
     Nun, wie geht’s? :: “Well, how’s it going?”
-  gut durch {{infl|de|adjective|head={{l|de|gut}} {{l|de|durch}}}} :: {{cooking|lang=de}} well done.
+  {{l|de|gut}} {{l|de|durch}} (adjective) :: {{cooking|lang=de}} well done.
   human :: humane (with regard for the health and well-being of another; compassionate)
 ===Well===
   nun (interjection) :: (when placed at the beginning of a sentence) well; so
@@ -9987,7 +10010,7 @@ Index: en en->de
   sie {f} :: {{personal|lang=de}} it (when the object/article/thing/animal etc., referred to, is feminine (die)).
   nun (interjection) :: (when placed at the beginning of a sentence) well; so
     Nun, wie geht’s? :: “Well, how’s it going?”
-  prost {{infl|de|interjection|head=prost!}} :: the usual toast when drinking alcohol; cheers
+  prost! (interjection) :: the usual toast when drinking alcohol; cheers
   wie :: like
     Freunde sind wie Sterne in der Nacht; auch wenn sie manchmal nicht zu sehen sind, weißt Du trotzdem, dass sie da sind! :: Friends are like stars in the night; even at times when they can't be seen, you know anyway, that they are there!
 ===where===
@@ -10013,12 +10036,12 @@ Index: en en->de
   die (relative pronoun), relative or demonstrative :: {{context|in a subordinate clause as a relative pronoun}} That; which; who; whom; whose.
     Ich kenne eine Frau, die das kann. :: “I know a woman who can do that.”
   was :: {{relative|lang=de}} which
-  der {{infl|de|relative pronoun|singular, relative|gender=m}} :: who; that; which
+  der {m} (relative pronoun), singular, relative :: who; that; which
     Ich kenne einen Mann, der das kann. :: “I know a man who can do that.”
   das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
     Ich kenne ein Mädchen, das das kann. :: I know a girl who can do that.
   Schelde (proper noun) :: The mighty river Scheldt, which flows through France, Flanders (Belgium, where he becomes navigable for seaships) and the Netherlands.
-  -er {{infl|de|suffix|sort=er}} :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
+  -er (suffix) :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
     arbeiten 'to work'; (ich) arbeit(<u>e</u>) + -er '-er' -> Arbeiter 'worker' :: --
 ===while===
   bei (preposition), + dative :: {{context|with something that has a duration}} during; while; over
@@ -10043,7 +10066,7 @@ Index: en en->de
   die (relative pronoun), relative or demonstrative :: {{context|in a subordinate clause as a relative pronoun}} That; which; who; whom; whose.
     Ich kenne eine Frau, die das kann. :: “I know a woman who can do that.”
 ===wide===
-  (Old High German) wit {{infl|goh|adjective|title=wīt}} :: wide
+  (Old High German) wīt (adjective) :: wide
   breit (adjective) :: {{figuratively|lang=de}} wide
     Die Universität bietet ein breites Spektrum von Fächern an.: The university offers a wide variety of subjects. :: --
   Straße {{de-noun|g=f|plural=Straßen}} :: street
@@ -10077,7 +10100,7 @@ Index: en en->de
     Es ist im Haus. :: "It is in the house."
 ===without===
   umsonst :: having done something without success
-  (Old High German) ano {{infl|goh|preposition|head=āno}} :: without
+  (Old High German) āno (preposition) :: without
   bar (preposition) :: without
   ohne + accusative :: without
   gratis :: free, without charge
@@ -10167,7 +10190,7 @@ Index: en en->de
   ihr :: {{personal|lang=de}} you (pl.).
   sie (pl.) :: {{personal|lang=nds}} you, used to refer to any number of persons in formal conversations
   danke! :: thanks!, thank you!
-  Gesundheit {{infl|de|interjection|head=Gesundheit!}} :: said to somebody who has sneezed, bless you.
+  Gesundheit! (interjection) :: said to somebody who has sneezed, bless you.
   dir (pronoun form) :: {{personal|lang=de}} dative of du; you, to you.
   ja {{de-adv}} :: of course; as you know
     Aber ja! :: “But of course!”

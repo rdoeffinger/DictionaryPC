@@ -474,6 +474,7 @@ public class EnWiktionaryXmlParser {
       System.out.println();
     }
     
+    boolean titleAppended = false;
     final StringBuilder foreignBuilder = new StringBuilder();
     final Collection<String> wordForms = new ArrayList<String>();
     final List<ListSection> listSections = new ArrayList<ListSection>();
@@ -533,61 +534,75 @@ public class EnWiktionaryXmlParser {
       } else if (name.equals("infl")) {
         // See: http://en.wiktionary.org/wiki/Template:infl
         final String langCode = get(args, 0);
+        String head = namedArgs.remove("head");
+        if (head == null) {
+          head = namedArgs.remove("title"); // Bug
+        }
+        if (head == null) {
+          head = title;
+        } else {
+          head = WikiTokenizer.toPlainText(head);
+        }
+        titleAppended = true;
+        
         namedArgs.remove("sc");
+        namedArgs.remove("lang");
+        namedArgs.remove("sort");
+        namedArgs.remove("cat");
+
         final String tr = namedArgs.remove("tr");
-        final String g = namedArgs.remove("g");
+        String g = namedArgs.remove("g");
+        if (g == null) {
+          g = namedArgs.remove("gender");
+        }
         final String g2 = namedArgs.remove("g2");
         final String g3 = namedArgs.remove("g3");
-        if (!namedArgs.isEmpty()) {
-          LOG.warning("Didn't parse infl: " + wikiTokenizer.token());
-          foreignBuilder.append(wikiTokenizer.token());
-        } else {
-          String head = namedArgs.get("head");
-          if (head == null) {
-            head = title;
-          } else {
-            head = WikiTokenizer.toPlainText(head);
+
+        foreignBuilder.append(head);
+  
+        if (g != null) {
+          foreignBuilder.append(" {").append(g);
+          if (g2 != null) {
+            foreignBuilder.append("|").append(g2);
           }
-          foreignBuilder.append(head);
-    
-          if (g != null) {
-            foreignBuilder.append(" {").append(g);
-            if (g2 != null) {
-              foreignBuilder.append("|").append(g2);
-            }
-            if (g3 != null) {
-              foreignBuilder.append("|").append(g3);
-            }
-            foreignBuilder.append("}");
+          if (g3 != null) {
+            foreignBuilder.append("|").append(g3);
           }
-    
-          if (tr != null) {
-            foreignBuilder.append(String.format(TRANSLITERATION_FORMAT, tr));
-            wordForms.add(tr);
-          }
-    
-          final String pos = get(args, 1);
-          if (pos != null) {
-            foreignBuilder.append(" (").append(pos).append(")");
-          }
-          for (int i = 2; i < args.size(); i += 2) {
-            final String inflName = get(args, i);
-            final String inflValue = get(args, i + 1);
-            foreignBuilder.append(", ").append(WikiTokenizer.toPlainText(inflName));
-            if (inflValue != null && inflValue.length() > 0) {
-              foreignBuilder.append(": ").append(WikiTokenizer.toPlainText(inflValue));
-              wordForms.add(inflValue);
-            }
+          foreignBuilder.append("}");
+        }
+  
+        if (tr != null) {
+          foreignBuilder.append(String.format(TRANSLITERATION_FORMAT, tr));
+          wordForms.add(tr);
+        }
+  
+        final String pos = get(args, 1);
+        if (pos != null) {
+          foreignBuilder.append(" (").append(pos).append(")");
+        }
+        for (int i = 2; i < args.size(); i += 2) {
+          final String inflName = get(args, i);
+          final String inflValue = get(args, i + 1);
+          foreignBuilder.append(", ").append(WikiTokenizer.toPlainText(inflName));
+          if (inflValue != null && inflValue.length() > 0) {
+            foreignBuilder.append(": ").append(WikiTokenizer.toPlainText(inflValue));
+            wordForms.add(inflValue);
           }
         }
+        for (final String key : namedArgs.keySet()) {
+          final String value = WikiTokenizer.toPlainText(namedArgs.get(key));
+          foreignBuilder.append(" ").append(key).append("=").append(value);
+          wordForms.add(value);
+        }
       } else if (name.equals("it-noun")) {
-          final String base = get(args, 0);
-          final String gender = get(args, 1);
-          final String singular = base + get(args, 2);
-          final String plural = base + get(args, 3);
-          foreignBuilder.append(String.format(" %s {%s}, %s {pl}", singular, gender, plural, plural));
-          wordForms.add(singular);
-          wordForms.add(plural);
+        titleAppended = true;
+        final String base = get(args, 0);
+        final String gender = get(args, 1);
+        final String singular = base + get(args, 2);
+        final String plural = base + get(args, 3);
+        foreignBuilder.append(String.format(" %s {%s}, %s {pl}", singular, gender, plural, plural));
+        wordForms.add(singular);
+        wordForms.add(plural);
         } else if (name.equals("it-proper noun")) {
           foreignBuilder.append(wikiTokenizer.token());
         } else if (name.equals("it-adj")) {
@@ -638,7 +653,7 @@ public class EnWiktionaryXmlParser {
       // Here's where we exit.
       // Should we make an entry even if there are no foreign list items?
       String foreign = foreignBuilder.toString().trim();
-      if (!foreign.toLowerCase().startsWith(title.toLowerCase())) {
+      if (!titleAppended && !foreign.toLowerCase().startsWith(title.toLowerCase())) {
         foreign = String.format("%s %s", title, foreign);
       }
       if (!langPattern.matcher(lang).matches()) {

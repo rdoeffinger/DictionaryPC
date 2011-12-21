@@ -108,7 +108,7 @@ Index: it it->en
   accumulate :: {{conjugation of|accumulare||2|p|imp|lang=it}}
   accumulate :: {{form of|[[feminine|Feminine]] plural|accumulato}}
 ===accurate===
-  accurate {{infl|it|adjective|cat=adjective forms|feminine plural}} :: {{feminine plural of|accurato}}
+  accurate (adjective), feminine plural :: {{feminine plural of|accurato}}
 ===accusa===
   accusa {f}, accuse {pl} :: accusation
   accusa :: third-person singular present tense of accusare
@@ -1004,7 +1004,7 @@ Index: it it->en
 ===decadi===
   decade {f}, decadi {pl} :: A decade, a period of ten days
 ===deci===
-  deci- {{infl|it|prefix|sort=deci}} :: deci-
+  deci- (prefix) :: deci-
 ===decibel===
   decibel (noun) {m|inv} :: decibel
 ===decile===
@@ -1103,8 +1103,8 @@ Index: it it->en
   divine (adjective form) :: {{form of|feminine plural form|divino|lang=it}}
 ===do===
   do (verb form) :: {{form of|first-person singular indicative present tense|dare|lang=it}}
-  do {{wikipedia|Do (nota)|lang=it}}do {m} (noun) :: do, the musical note
-  do {{wikipedia|Do (nota)|lang=it}}do {m} (noun) :: C (the musical note or key)
+  {{wikipedia|Do (nota)|lang=it}}do {m} (noun) :: do, the musical note
+  {{wikipedia|Do (nota)|lang=it}}do {m} (noun) :: C (the musical note or key)
 ===dodi===
   dodo {m}, dodi {pl} :: dodo
 ===dodici===
@@ -1228,7 +1228,7 @@ Index: it it->en
 ===est===
   est {m} {{inv}} :: east
 ===Estonia===
-  Estonia {{infl|it|proper noun|gender=f}} :: Estonia
+  Estonia {f} (proper noun) :: Estonia
 ===eta===
   eta (noun) {m|f|inv} :: eta (Greek letter)
 ===euro===
@@ -1358,7 +1358,7 @@ Index: it it->en
 ===fricative===
   fricative {f} :: Feminine plural form of fricativo
 ===Friuli===
-  Friuli-Venezia Giulia {{infl|it|proper noun|head=[[Friuli]]-[[Venezia Giulia]]|g=m}} :: Friuli-Venezia Giulia
+  Friuli-Venezia Giulia {m} (proper noun) :: Friuli-Venezia Giulia
 ===Frosinone===
   Frosinone {{it-proper noun}} :: {{l|en|Frosinone}} {{gloss|province}}
   Frosinone {{it-proper noun}} :: {{l|en|Frosinone}} {{gloss|town}}
@@ -1433,7 +1433,7 @@ Index: it it->en
 ===giraffe===
   giraffe {f} :: {{plural of|giraffa|lang=it}}
 ===Giulia===
-  Friuli-Venezia Giulia {{infl|it|proper noun|head=[[Friuli]]-[[Venezia Giulia]]|g=m}} :: Friuli-Venezia Giulia
+  Friuli-Venezia Giulia {m} (proper noun) :: Friuli-Venezia Giulia
 ===gnu===
   gnu {m|inv} :: gnu
 ===go===
@@ -1531,7 +1531,7 @@ Index: it it->en
 ===humour===
   humour {m|inv} :: sense of humour
 ===i===
-  i {{Italian definite articles}}i {m|p} (article), singular: il :: the (see the usage notes)
+  {{Italian definite articles}}i {m|p} (article), singular: il :: the (see the usage notes)
   i {f} or {m} {{inv}} :: I or i, the letter I or i
 ===iceberg===
   iceberg {m} {{inv}} :: iceberg
@@ -1545,7 +1545,7 @@ Index: it it->en
   idi (noun) {m|f|plural} :: ides
 ===il===
   il- (prefix) :: Variant of in- before the letter "l"
-  i {{Italian definite articles}}i {m|p} (article), singular: il :: the (see the usage notes)
+  {{Italian definite articles}}i {m|p} (article), singular: il :: the (see the usage notes)
 ===Il===
   de (contraction) :: {{apocopic form of|del|lang=it}}
     Michael Radford è il regista de "Il postino". :: "Michael Radford is the director of "Il Postino".
@@ -1702,12 +1702,12 @@ Index: it it->en
   L'Aquila {{it-proper noun|g=f}} :: {{l|en|L'Aquila}} {{gloss|town}}
   l (letter) {m|f|inv} :: See under L
 ===la===
-  la {{Italian definite articles}}la {f|s} (article), plural: le :: the
+  {{Italian definite articles}}la {f|s} (article), plural: le :: the
   la {f|s} (pronoun), plural: le :: her {{qualifier|direct object}}
   la {f|s} (pronoun), plural: le :: it {{qualifier|feminine}}
     ...una improvvisa timidezza però la immobilizza... (Pasolini) :: ...a sudden timidity immobilized her though...
-  la {{wikipedia|La (nota)|lang=it}}la {{{m|inv}}} (noun) :: {{music|lang=it}} la (musical note)
-  la {{wikipedia|La (nota)|lang=it}}la {{{m|inv}}} (noun) :: {{music|lang=it}} A (musical note and scale)
+  {{wikipedia|La (nota)|lang=it}}la {{{m|inv}}} (noun) :: {{music|lang=it}} la (musical note)
+  {{wikipedia|La (nota)|lang=it}}la {{{m|inv}}} (noun) :: {{music|lang=it}} A (musical note and scale)
 ===La===
   La Spezia {{it-proper noun|g=f}} :: La Spezia {{gloss|province}}
   La Spezia {{it-proper noun|g=f}} :: La Spezia {{gloss|town}}
@@ -1776,7 +1776,7 @@ Index: it it->en
 ===lave===
   lava {f}, lave {pl} :: lava
 ===le===
-  la {{Italian definite articles}}la {f|s} (article), plural: le :: the
+  {{Italian definite articles}}la {f|s} (article), plural: le :: the
   la {f|s} (pronoun), plural: le :: her {{qualifier|direct object}}
   la {f|s} (pronoun), plural: le :: it {{qualifier|feminine}}
     ...una improvvisa timidezza però la immobilizza... (Pasolini) :: ...a sudden timidity immobilized her though...
@@ -2068,7 +2068,7 @@ Index: it it->en
   mini :: {{conjugation of|minare||3|s|pres|sub|lang=it}}
   mini :: {{conjugation of|minare||3|s|imp|lang=it}}
 ===minute===
-  minute {{infl|it|adjective|cat=adjective forms|feminine plural}} :: {{feminine plural of|minuto#Adjective|minuto}} tiny, minute; fine, delicate, detailed
+  minute (adjective), feminine plural :: {{feminine plural of|minuto#Adjective|minuto}} tiny, minute; fine, delicate, detailed
 ===MM===
   MM :: Marina Militare
 ===mobile===
@@ -2792,7 +2792,7 @@ Index: it it->en
 ===Romagna===
   Emilia-Romagna {{it-proper noun|head=[[Emilia]]-[[Romagna]]|g=f}} :: {{l|en|Emilia-Romagna}}
 ===Romania===
-  Romania {{infl|it|proper noun|gender=f}} :: Romania
+  Romania {f} (proper noun) :: Romania
 ===Rome===
   Rome {f} :: {{plural of|Roma|lang=it}}
     le due Rome, the two Romes :: --
@@ -3030,9 +3030,9 @@ Index: it it->en
   libero {{it-adj|liber}} :: free (as in "free software")
     Software libero. :: Free software.
 ===sol===
-  sol {{wikipedia|Sol (nota)|lang=it}}sol {m|inv} (noun) :: sol (musical note, colloid)
-  sol {{wikipedia|Sol (nota)|lang=it}}sol {m|inv} (noun) :: G (musical note and key)
-  sol {{wikipedia|Sol (nota)|lang=it}}sol {m|inv} (noun) :: {{apocopic form of|sole|lang=it}}
+  {{wikipedia|Sol (nota)|lang=it}}sol {m|inv} (noun) :: sol (musical note, colloid)
+  {{wikipedia|Sol (nota)|lang=it}}sol {m|inv} (noun) :: G (musical note and key)
+  {{wikipedia|Sol (nota)|lang=it}}sol {m|inv} (noun) :: {{apocopic form of|sole|lang=it}}
 ===sole===
   sole {m}, soli {pl} :: sun
   sole (adjective form) {f} :: {{form of|Feminine plural form|[[solo#Italian|solo]]}}
@@ -3200,7 +3200,7 @@ Index: it it->en
   libero {{it-adj|liber}} :: free (without obligations)
     Tempo libero. :: Free time./Leisure time.
 ===tennis===
-  tennis {{infl|it|noun|gender=m}} {{inv}} :: tennis
+  tennis {m} (noun) {{inv}} :: tennis
 ===Teramo===
   Teramo {{it-proper noun|g=f}} :: Teramo (province)
   Teramo {{it-proper noun|g=f}} :: Teramo (town)
@@ -3228,8 +3228,8 @@ Index: it it->en
 ===ti===
   ti (pronoun) :: {{form of|objective|[[tu]]|nodot=1}}; you
   ti (pronoun) :: {{reflexive|lang=it}} {{form of|second-person singular|[[si#Italian|si]]|nodot=1}}; you
-  ti {{wikipedia|Ti (nota)|lang=it}}ti {{{m|inv}}} (noun) :: {{music|lang=it}} ti (note)
-  ti {{wikipedia|Ti (nota)|lang=it}}ti {{{m|inv}}} (noun) :: {{music|lang=it}} B (note and scale)
+  {{wikipedia|Ti (nota)|lang=it}}ti {{{m|inv}}} (noun) :: {{music|lang=it}} ti (note)
+  {{wikipedia|Ti (nota)|lang=it}}ti {{{m|inv}}} (noun) :: {{music|lang=it}} B (note and scale)
 ===tigre===
   tigre {f}, tigri {pl} :: tiger (male)
   tigre {f}, tigri {pl} :: tigress (female)
@@ -3357,10 +3357,10 @@ Index: it it->en
 ===Umbria===
   Umbria f :: Umbria
 ===un===
-  un {{infl|it|article|gender=m}} (see uno) :: an, a
-  un {{infl|it|noun|gender=m}} (see uno) :: one
-  un {{infl|it|adjective|gender=m}} (see uno) :: one
-  un {{infl|it|pronoun|gender=m}} (see uno) :: one
+  un {m} (article) (see uno) :: an, a
+  un {m} (noun) (see uno) :: one
+  un {m} (adjective) (see uno) :: one
+  un {m} (pronoun) (see uno) :: one
 ===Un===
   libero {{it-adj|liber}} :: free (not imprisoned or enslaved)
     Un uomo libero. :: A free man.
@@ -3424,7 +3424,7 @@ Index: it it->en
 ===Veneto===
   Veneto {m} :: Veneto
 ===Venezia===
-  Friuli-Venezia Giulia {{infl|it|proper noun|head=[[Friuli]]-[[Venezia Giulia]]|g=m}} :: Friuli-Venezia Giulia
+  Friuli-Venezia Giulia {m} (proper noun) :: Friuli-Venezia Giulia
 ===Venezuela===
   Venezuela {{it-proper noun|g=m}} :: Venezuela
 ===Ventimiglia===
@@ -3944,7 +3944,7 @@ Index: en en->it
 ===awful===
   cane {{inv}} :: terrible, dreadful, awful
 ===B===
-  ti {{wikipedia|Ti (nota)|lang=it}}ti {{{m|inv}}} (noun) :: {{music|lang=it}} B (note and scale)
+  {{wikipedia|Ti (nota)|lang=it}}ti {{{m|inv}}} (noun) :: {{music|lang=it}} B (note and scale)
   Bologna {f} :: The letter B in the Italian phonetic alphabet
 ===back===
   bo :: An interjection expressing doubt or indecision.
@@ -4179,7 +4179,7 @@ Index: en en->it
 ===butterfly===
   apollo {m}, apolli {pl} :: Apollo butterfly (Parnassius apollo, a large swallowtail with black and red spots on white wings)
 ===C===
-  do {{wikipedia|Do (nota)|lang=it}}do {m} (noun) :: C (the musical note or key)
+  {{wikipedia|Do (nota)|lang=it}}do {m} (noun) :: C (the musical note or key)
   Como {{it-proper noun}} :: The letter C in the Italian phonetic alphabet
 ===cadere===
   cadi :: second-person singular present tense of cadere
@@ -4376,7 +4376,7 @@ Index: en en->it
 ===collective===
   uva {f}, uve {pl} :: (collective noun) grapes
 ===colloid===
-  sol {{wikipedia|Sol (nota)|lang=it}}sol {m|inv} (noun) :: sol (musical note, colloid)
+  {{wikipedia|Sol (nota)|lang=it}}sol {m|inv} (noun) :: sol (musical note, colloid)
 ===Colombia===
   Colombia (proper noun) {f} :: Colombia
 ===colon===
@@ -4570,7 +4570,7 @@ Index: en en->it
 ===decadere===
   decade :: third-person singular indicative present of decadere
 ===deci===
-  deci- {{infl|it|prefix|sort=deci}} :: deci-
+  deci- (prefix) :: deci-
 ===decibel===
   decibel (noun) {m|inv} :: decibel
 ===decile===
@@ -4587,7 +4587,7 @@ Index: en en->it
   AD :: CEO (amministratore delegato)
   delegate {f} :: Feminine plural form of delegato
 ===delicate===
-  minute {{infl|it|adjective|cat=adjective forms|feminine plural}} :: {{feminine plural of|minuto#Adjective|minuto}} tiny, minute; fine, delicate, detailed
+  minute (adjective), feminine plural :: {{feminine plural of|minuto#Adjective|minuto}} tiny, minute; fine, delicate, detailed
 ===delineare===
   delineate :: second-person plural present tense and imperative of delineare
 ===delta===
@@ -4618,7 +4618,7 @@ Index: en en->it
 ===destiny===
   destino {m}, destini {pl} :: destiny, fate
 ===detailed===
-  minute {{infl|it|adjective|cat=adjective forms|feminine plural}} :: {{feminine plural of|minuto#Adjective|minuto}} tiny, minute; fine, delicate, detailed
+  minute (adjective), feminine plural :: {{feminine plural of|minuto#Adjective|minuto}} tiny, minute; fine, delicate, detailed
 ===device===
   computer {m|inv} :: computer (calculating device)
   riga {f}, righe {pl} :: ruler (measuring device)
@@ -4656,7 +4656,7 @@ Index: en en->it
 ===district===
   city {f|inv} :: city (financial district of a city)
 ===do===
-  do {{wikipedia|Do (nota)|lang=it}}do {m} (noun) :: do, the musical note
+  {{wikipedia|Do (nota)|lang=it}}do {m} (noun) :: do, the musical note
   fare {{it-verb}} {{transitive}} :: To do
   ne (pronoun) :: of it
     Ne ho sentito parlare. :: “I have heard talk of it.”
@@ -4825,7 +4825,7 @@ Index: en en->it
 ===essere===
   sei (verb form) :: second-person singular indicative present form of essere
 ===Estonia===
-  Estonia {{infl|it|proper noun|gender=f}} :: Estonia
+  Estonia {f} (proper noun) :: Estonia
 ===eta===
   eta (noun) {m|f|inv} :: eta (Greek letter)
 ===euphony===
@@ -4951,7 +4951,7 @@ Index: en en->it
   dove (conjunction) :: where
     Lo troverai dove l'hai lasciato. :: You'll find it where you left it.
 ===fine===
-  minute {{infl|it|adjective|cat=adjective forms|feminine plural}} :: {{feminine plural of|minuto#Adjective|minuto}} tiny, minute; fine, delicate, detailed
+  minute (adjective), feminine plural :: {{feminine plural of|minuto#Adjective|minuto}} tiny, minute; fine, delicate, detailed
 ===finger===
   indice {m}, indici {pl} :: (finger) index, index finger, forefinger
 ===firm===
@@ -5041,7 +5041,7 @@ Index: en en->it
 ===fricativo===
   fricative {f} :: Feminine plural form of fricativo
 ===Friuli===
-  Friuli-Venezia Giulia {{infl|it|proper noun|head=[[Friuli]]-[[Venezia Giulia]]|g=m}} :: Friuli-Venezia Giulia
+  Friuli-Venezia Giulia {m} (proper noun) :: Friuli-Venezia Giulia
 ===From===
   da (preposition) :: from
     Giacomino da Verona :: “Giacomino from Verona”
@@ -5066,7 +5066,7 @@ Index: en en->it
 ===fuzz===
   pula {f}, pule {pl} :: {{slang|lang=it}} the police, the fuzz, the cops
 ===G===
-  sol {{wikipedia|Sol (nota)|lang=it}}sol {m|inv} (noun) :: G (musical note and key)
+  {{wikipedia|Sol (nota)|lang=it}}sol {m|inv} (noun) :: G (musical note and key)
 ===gabardine===
   gabardine {m|inv} :: The woolen cloth gabardine
 ===Gabon===
@@ -5128,7 +5128,7 @@ Index: en en->it
 ===girlfriend===
   ex {m|f|inv} :: ex (ex-boyfriend, girlfriend)
 ===Giulia===
-  Friuli-Venezia Giulia {{infl|it|proper noun|head=[[Friuli]]-[[Venezia Giulia]]|g=m}} :: Friuli-Venezia Giulia
+  Friuli-Venezia Giulia {m} (proper noun) :: Friuli-Venezia Giulia
 ===give===
   dare {{it-verb}} :: {{transitive|lang=it}} To give, to transfer the possession/holding of something to someone else.
   dare {{it-verb}} :: {{transitive|lang=it}} To yield, to bear, to give, to produce, to return.
@@ -5594,9 +5594,9 @@ Index: en en->it
 ===key===
   fa {{wikipedia|Fa (nota)|lang=it}}fa {m|inv} :: F (musical note or key)
   mi (noun)mi (noun){m|f|inv} :: E (musical note or key)
-  sol {{wikipedia|Sol (nota)|lang=it}}sol {m|inv} (noun) :: G (musical note and key)
+  {{wikipedia|Sol (nota)|lang=it}}sol {m|inv} (noun) :: G (musical note and key)
   re {m}, re {pl} :: D (musical note or key)
-  do {{wikipedia|Do (nota)|lang=it}}do {m} (noun) :: C (the musical note or key)
+  {{wikipedia|Do (nota)|lang=it}}do {m} (noun) :: C (the musical note or key)
   play {m|inv} :: play (theatrical performance; start key)
 ===king===
   re {m}, re {pl} :: king
@@ -5973,7 +5973,7 @@ Index: en en->it
 ===minister===
   premier {m|f|inv} :: premier, prime minister (or similar title)
 ===minute===
-  minute {{infl|it|adjective|cat=adjective forms|feminine plural}} :: {{feminine plural of|minuto#Adjective|minuto}} tiny, minute; fine, delicate, detailed
+  minute (adjective), feminine plural :: {{feminine plural of|minuto#Adjective|minuto}} tiny, minute; fine, delicate, detailed
 ===misspelling===
   té :: Common misspelling of tè.
   da :: Common misspelling of dà
@@ -6064,15 +6064,15 @@ Index: en en->it
   fa {{wikipedia|Fa (nota)|lang=it}}fa {m|inv} :: {{music|lang=it}} fa (musical note)
   fa {{wikipedia|Fa (nota)|lang=it}}fa {m|inv} :: F (musical note or key)
   mi (noun)mi (noun){m|f|inv} :: E (musical note or key)
-  sol {{wikipedia|Sol (nota)|lang=it}}sol {m|inv} (noun) :: sol (musical note, colloid)
-  sol {{wikipedia|Sol (nota)|lang=it}}sol {m|inv} (noun) :: G (musical note and key)
+  {{wikipedia|Sol (nota)|lang=it}}sol {m|inv} (noun) :: sol (musical note, colloid)
+  {{wikipedia|Sol (nota)|lang=it}}sol {m|inv} (noun) :: G (musical note and key)
   re {m}, re {pl} :: re (musical note)
   re {m}, re {pl} :: D (musical note or key)
-  do {{wikipedia|Do (nota)|lang=it}}do {m} (noun) :: do, the musical note
-  do {{wikipedia|Do (nota)|lang=it}}do {m} (noun) :: C (the musical note or key)
+  {{wikipedia|Do (nota)|lang=it}}do {m} (noun) :: do, the musical note
+  {{wikipedia|Do (nota)|lang=it}}do {m} (noun) :: C (the musical note or key)
   piano {m}, piani {pl} :: piano (musical instrument)
-  la {{wikipedia|La (nota)|lang=it}}la {{{m|inv}}} (noun) :: {{music|lang=it}} la (musical note)
-  la {{wikipedia|La (nota)|lang=it}}la {{{m|inv}}} (noun) :: {{music|lang=it}} A (musical note and scale)
+  {{wikipedia|La (nota)|lang=it}}la {{{m|inv}}} (noun) :: {{music|lang=it}} la (musical note)
+  {{wikipedia|La (nota)|lang=it}}la {{{m|inv}}} (noun) :: {{music|lang=it}} A (musical note and scale)
 ===musicare===
   musica :: third-person singular present tense of musicare
   musica :: second-person singular imperative of musicare
@@ -6181,24 +6181,24 @@ Index: en en->it
   fa {{wikipedia|Fa (nota)|lang=it}}fa {m|inv} :: F (musical note or key)
   mi (noun)mi (noun){m|f|inv} :: {{music|lang=it}} The third note, mi.
   mi (noun)mi (noun){m|f|inv} :: E (musical note or key)
-  sol {{wikipedia|Sol (nota)|lang=it}}sol {m|inv} (noun) :: sol (musical note, colloid)
-  sol {{wikipedia|Sol (nota)|lang=it}}sol {m|inv} (noun) :: G (musical note and key)
+  {{wikipedia|Sol (nota)|lang=it}}sol {m|inv} (noun) :: sol (musical note, colloid)
+  {{wikipedia|Sol (nota)|lang=it}}sol {m|inv} (noun) :: G (musical note and key)
   re {m}, re {pl} :: re (musical note)
   re {m}, re {pl} :: D (musical note or key)
-  do {{wikipedia|Do (nota)|lang=it}}do {m} (noun) :: do, the musical note
-  do {{wikipedia|Do (nota)|lang=it}}do {m} (noun) :: C (the musical note or key)
+  {{wikipedia|Do (nota)|lang=it}}do {m} (noun) :: do, the musical note
+  {{wikipedia|Do (nota)|lang=it}}do {m} (noun) :: C (the musical note or key)
   si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below)
     Example: Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
     Note: In this sense, verb + si is often translated as become or get + past participle in English. :: --
     Examples: :: --
     Ci vuole un po’ di tempo per abituarsi (It takes a while to become accustomed) :: --
     A Luca piace ubriacarsi (Luca likes to get drunk) :: --
-  ti {{wikipedia|Ti (nota)|lang=it}}ti {{{m|inv}}} (noun) :: {{music|lang=it}} ti (note)
-  ti {{wikipedia|Ti (nota)|lang=it}}ti {{{m|inv}}} (noun) :: {{music|lang=it}} B (note and scale)
-  la {{wikipedia|La (nota)|lang=it}}la {{{m|inv}}} (noun) :: {{music|lang=it}} la (musical note)
-  la {{wikipedia|La (nota)|lang=it}}la {{{m|inv}}} (noun) :: {{music|lang=it}} A (musical note and scale)
+  {{wikipedia|Ti (nota)|lang=it}}ti {{{m|inv}}} (noun) :: {{music|lang=it}} ti (note)
+  {{wikipedia|Ti (nota)|lang=it}}ti {{{m|inv}}} (noun) :: {{music|lang=it}} B (note and scale)
+  {{wikipedia|La (nota)|lang=it}}la {{{m|inv}}} (noun) :: {{music|lang=it}} la (musical note)
+  {{wikipedia|La (nota)|lang=it}}la {{{m|inv}}} (noun) :: {{music|lang=it}} A (musical note and scale)
 ===notes===
-  i {{Italian definite articles}}i {m|p} (article), singular: il :: the (see the usage notes)
+  {{Italian definite articles}}i {m|p} (article), singular: il :: the (see the usage notes)
 ===noun===
   uva {f}, uve {pl} :: (collective noun) grapes
   al :: at the, to the (+ a masculine noun in singular).
@@ -6857,7 +6857,7 @@ Index: en en->it
 ===Roman===
   zucchetto {m}, zucchetti {pl} :: small skullcap worn by Roman Catholic clergy; calotte
 ===Romania===
-  Romania {{infl|it|proper noun|gender=f}} :: Romania
+  Romania {f} (proper noun) :: Romania
 ===romantic===
   rosa {inv} (adjective) :: romantic (of movies, books, etc)
 ===room===
@@ -6917,8 +6917,8 @@ Index: en en->it
 ===Says===
   dice (verb form), infinitive: dire :: {{italbrac|[[third-person singular|Third-person singular]] [[present tense]] of [[dire]]}} Says.
 ===scale===
-  ti {{wikipedia|Ti (nota)|lang=it}}ti {{{m|inv}}} (noun) :: {{music|lang=it}} B (note and scale)
-  la {{wikipedia|La (nota)|lang=it}}la {{{m|inv}}} (noun) :: {{music|lang=it}} A (musical note and scale)
+  {{wikipedia|Ti (nota)|lang=it}}ti {{{m|inv}}} (noun) :: {{music|lang=it}} B (note and scale)
+  {{wikipedia|La (nota)|lang=it}}la {{{m|inv}}} (noun) :: {{music|lang=it}} A (musical note and scale)
 ===scaleno===
   scalene {f} :: Feminine plural form of scaleno
 ===scenery===
@@ -6951,7 +6951,7 @@ Index: en en->it
 ===securo===
   secure {f} :: Feminine plural form of securo
 ===see===
-  i {{Italian definite articles}}i {m|p} (article), singular: il :: the (see the usage notes)
+  {{Italian definite articles}}i {m|p} (article), singular: il :: the (see the usage notes)
   si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below)
     Example: Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
     Note: In this sense, verb + si is often translated as become or get + past participle in English. :: --
@@ -7159,7 +7159,7 @@ Index: en en->it
   spider {m|inv} :: {{computing|lang=it}} spider (Internet software)
   beta {f|inv} beta {f}, bete {pl} :: {{computing|lang=it}} beta (software version)
 ===sol===
-  sol {{wikipedia|Sol (nota)|lang=it}}sol {m|inv} (noun) :: sol (musical note, colloid)
+  {{wikipedia|Sol (nota)|lang=it}}sol {m|inv} (noun) :: sol (musical note, colloid)
 ===solid===
   cioccolata {f}, cioccolate {pl} :: chocolate (solid, variant of {{term|cioccolato}})
 ===Somalia===
@@ -7391,7 +7391,7 @@ Index: en en->it
   dieci {m|inv}{f|plural} :: ten o'clock (a.m. or p.m.)
   decade {f}, decadi {pl} :: A decade, a period of ten days
 ===tennis===
-  tennis {{infl|it|noun|gender=m}} {{inv}} :: tennis
+  tennis {m} (noun) {{inv}} :: tennis
   set {m|inv} :: set (group of things, maths, tennis, cinema etc)
   cross (noun) {m|inv} :: cross (boxing punch, tennis shot)
 ===Tennis===
@@ -7492,7 +7492,7 @@ Index: en en->it
   tre {m|inv}{f|plural} :: three o'clock (a.m. or p.m.)
   quindici {m|inv}{f|plural} :: three o'clock (p.m.)
 ===ti===
-  ti {{wikipedia|Ti (nota)|lang=it}}ti {{{m|inv}}} (noun) :: {{music|lang=it}} ti (note)
+  {{wikipedia|Ti (nota)|lang=it}}ti {{{m|inv}}} (noun) :: {{music|lang=it}} ti (note)
 ===tiger===
   tigre {f}, tigri {pl} :: tiger (male)
 ===tigress===
@@ -7509,7 +7509,7 @@ Index: en en->it
   la {f|s} (pronoun), plural: le :: it {{qualifier|feminine}}
     ...una improvvisa timidezza però la immobilizza... (Pasolini) :: ...a sudden timidity immobilized her though...
 ===tiny===
-  minute {{infl|it|adjective|cat=adjective forms|feminine plural}} :: {{feminine plural of|minuto#Adjective|minuto}} tiny, minute; fine, delicate, detailed
+  minute (adjective), feminine plural :: {{feminine plural of|minuto#Adjective|minuto}} tiny, minute; fine, delicate, detailed
 ===title===
   premier {m|f|inv} :: premier, prime minister (or similar title)
   don {m} (noun), inv :: Father (a title given to priests)
@@ -7751,7 +7751,7 @@ Index: en en->it
   cent {m|inv} :: cent (US coin)
   antenna {f}, antenne {pl} :: device to receive or transmit radio signals: aerial (UK), antenna (US)
 ===usage===
-  i {{Italian definite articles}}i {m|p} (article), singular: il :: the (see the usage notes)
+  {{Italian definite articles}}i {m|p} (article), singular: il :: the (see the usage notes)
 ===used===
   ad (preposition) :: to, at, in (used before a vowel for euphony instead of a)
   lingua franca (noun) {f|inv} :: The Mediterranean Lingua Franca, a common language spoken in Mediterranean ports in centuries past (consisting of Italian mixed with French, Spanish, Arabic and some Greek words and used by sailors of different countries to communicate with one another).
@@ -7789,7 +7789,7 @@ Index: en en->it
 ===Veneto===
   Veneto {m} :: Veneto
 ===Venezia===
-  Friuli-Venezia Giulia {{infl|it|proper noun|head=[[Friuli]]-[[Venezia Giulia]]|g=m}} :: Friuli-Venezia Giulia
+  Friuli-Venezia Giulia {m} (proper noun) :: Friuli-Venezia Giulia
 ===Venezuela===
   Venezuela {{it-proper noun|g=m}} :: Venezuela
 ===Venice===

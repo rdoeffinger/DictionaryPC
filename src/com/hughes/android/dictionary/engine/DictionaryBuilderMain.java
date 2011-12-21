@@ -63,10 +63,9 @@ public class DictionaryBuilderMain extends TestCase {
     final Map<String,String>  isoToRegex = new LinkedHashMap<String, String>();
     isoToRegex.put("ZH", "Chinese|Mandarin|Cantonese");
     
-    isoToWikiName.keySet().retainAll(Arrays.asList("UK", "HR", "FI"));
-    
+//    isoToWikiName.keySet().retainAll(Arrays.asList("UK", "HR", "FI"));
     boolean go = true; 
-//    isoToWikiName.clear();
+    isoToWikiName.clear();
     for (final String foreignIso : isoToWikiName.keySet()) {
       if (foreignIso.equals("SV")) {
         go = true;
@@ -130,26 +129,26 @@ public class DictionaryBuilderMain extends TestCase {
         "--dictOut=" + OUTPUTS + "DE-EN_chemnitz_enwiktionary.quickdic",
         "--lang1=DE",
         "--lang2=EN",
-        String.format("--lang1Stoplist=%s", STOPLISTS + isoToStoplist.get("DE")),
-        String.format("--lang2Stoplist=%s", STOPLISTS + isoToStoplist.get("EN")),
+        String.format("--lang1Stoplist=%s", STOPLISTS + "de.txt"),
+        String.format("--lang2Stoplist=%s", STOPLISTS + "en.txt"),
         "--dictInfo=@" + INPUTS + "de-en_chemnitz_enwiktionary.info",
 
-        "--input1=" + INPUTS + "de-en_chemnitz.txt",
-        "--input1Name=chemnitz",
-        "--input1Charset=UTF8",
-        "--input1Format=chemnitz",
+        "--input4=" + INPUTS + "de-en_chemnitz.txt",
+        "--input4Name=chemnitz",
+        "--input4Charset=UTF8",
+        "--input4Format=chemnitz",
         
         "--input2=" + INPUTS + "enWikiSplit/DE.data",
         "--input2Name=enwiktionary.DE",
         "--input2Format=enwiktionary",
-        "--input2LangPattern=" + isoToRegex.get("DE"),
+        "--input2LangPattern=German",
         "--input2LangCodePattern=de",
         "--input2EnIndex=2",
 
         "--input3=" + INPUTS + "enWikiSplit/EN.data",
         "--input3Name=enwiktionary.english",
         "--input3Format=enwiktionary",
-        "--input3LangPattern=" + isoToRegex.get("DE"),
+        "--input3LangPattern=German",
         "--input3LangCodePattern=de",
         "--input3EnIndex=2",
         
