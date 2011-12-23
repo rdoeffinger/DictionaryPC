@@ -475,4 +475,16 @@ public final class WikiTokenizer {
     return builder.toString();
   }
 
+  public static StringBuilder appendFunction(final StringBuilder builder, final String name, List<String> args,
+      final Map<String, String> namedArgs) {
+    builder.append(name);
+    for (final String arg : args) {
+      builder.append("|").append(arg);
+    }
+    for (final Map.Entry<String, String> entry : namedArgs.entrySet()) {
+      builder.append("|").append(entry.getKey()).append("=").append(entry.getValue());
+    }
+    return builder;
+  }
+
 }

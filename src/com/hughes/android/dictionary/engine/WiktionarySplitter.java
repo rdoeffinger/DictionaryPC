@@ -56,7 +56,7 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
     
     public Selector(final String filename, final String pattern) throws IOException {
       this.out = new DataOutputStream(new BufferedOutputStream(new FileOutputStream(filename)));
-      this.pattern = Pattern.compile(pattern);
+      this.pattern = Pattern.compile(pattern, Pattern.CASE_INSENSITIVE);
     }
   }
 

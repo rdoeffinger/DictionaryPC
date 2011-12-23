@@ -274,10 +274,18 @@ public class EnWiktionaryXmlParser {
     }
   }
   
-  private static <T> T get(final List<T> list, final int index) {
-    return index < list.size() ? list.get(index) : null;
+  private static <T> T get(final List<T> list, final int index, final T defaultValue) {
+    return index < list.size() ? list.get(index) : defaultValue;
   }
-  
+
+  private static <T> T get(final List<T> list, final int index) {
+    return get(list, index, null);
+  }
+
+  private static <T> T remove(final List<T> list, final int index, final T defaultValue) {
+    return index < list.size() ? list.remove(index) : defaultValue;
+  }
+
   private void doTranslationLine(final String line, final String lang, final String title, final String pos, final String sense, final String rest) {
     // Good chance we'll actually file this one...
     final PairEntry pairEntry = new PairEntry();
@@ -367,7 +375,8 @@ public class EnWiktionaryXmlParser {
           // American sign language
         } else {
           // Unindexed!
-          otherText.append(wikiTokenizer.token());
+          namedArgs.keySet().removeAll(USELESS_WIKI_ARGS);
+          WikiTokenizer.appendFunction(otherText.append("{{"), functionName, args, namedArgs).append("}}");
         }
         
       } else if (wikiTokenizer.isNewline()) {
@@ -516,93 +525,93 @@ public class EnWiktionaryXmlParser {
         // I think just under fare.  But then we need a way to link to the entry (actually the row, since entries doesn't show up!)
         // for the conjugation table from "fa".
         // Would like to be able to link to a lang#token.
-      if (isGender(name)) {
-        appendGender(foreignBuilder, name, args);
-      } else if (name.equals("wikipedia")) {
-        namedArgs.remove("lang");
-        if (args.size() > 1 || !namedArgs.isEmpty()) {
-          // Unindexed!
-          foreignBuilder.append(wikiTokenizer.token());
-        } else if (args.size() == 1) {
-          foreignBuilder.append(wikiTokenizer.token());
-        } else {
-          //foreignBuilder.append(title);
-        }
-      } else if (name.equals("attention") || name.equals("zh-attention")) {
-        // See: http://en.wiktionary.org/wiki/Template:attention
-        // Ignore these.
-      } else if (name.equals("infl")) {
-        // See: http://en.wiktionary.org/wiki/Template:infl
-        final String langCode = get(args, 0);
-        String head = namedArgs.remove("head");
-        if (head == null) {
-          head = namedArgs.remove("title"); // Bug
-        }
-        if (head == null) {
-          head = title;
-        } else {
-          head = WikiTokenizer.toPlainText(head);
-        }
-        titleAppended = true;
-        
-        namedArgs.remove("sc");
-        namedArgs.remove("lang");
-        namedArgs.remove("sort");
-        namedArgs.remove("cat");
-
-        final String tr = namedArgs.remove("tr");
-        String g = namedArgs.remove("g");
-        if (g == null) {
-          g = namedArgs.remove("gender");
-        }
-        final String g2 = namedArgs.remove("g2");
-        final String g3 = namedArgs.remove("g3");
-
-        foreignBuilder.append(head);
-  
-        if (g != null) {
-          foreignBuilder.append(" {").append(g);
-          if (g2 != null) {
-            foreignBuilder.append("|").append(g2);
+        if (isGender(name)) {
+          appendGender(foreignBuilder, name, args);
+        } else if (name.equals("wikipedia")) {
+          namedArgs.remove("lang");
+          if (args.size() > 1 || !namedArgs.isEmpty()) {
+            // Unindexed!
+            foreignBuilder.append(wikiTokenizer.token());
+          } else if (args.size() == 1) {
+            foreignBuilder.append(wikiTokenizer.token());
+          } else {
+            //foreignBuilder.append(title);
           }
-          if (g3 != null) {
-            foreignBuilder.append("|").append(g3);
+        } else if (name.equals("attention") || name.equals("zh-attention")) {
+          // See: http://en.wiktionary.org/wiki/Template:attention
+          // Ignore these.
+        } else if (name.equals("infl")) {
+          // See: http://en.wiktionary.org/wiki/Template:infl
+          final String langCode = get(args, 0);
+          String head = namedArgs.remove("head");
+          if (head == null) {
+            head = namedArgs.remove("title"); // Bug
           }
-          foreignBuilder.append("}");
-        }
-  
-        if (tr != null) {
-          foreignBuilder.append(String.format(TRANSLITERATION_FORMAT, tr));
-          wordForms.add(tr);
-        }
-  
-        final String pos = get(args, 1);
-        if (pos != null) {
-          foreignBuilder.append(" (").append(pos).append(")");
-        }
-        for (int i = 2; i < args.size(); i += 2) {
-          final String inflName = get(args, i);
-          final String inflValue = get(args, i + 1);
-          foreignBuilder.append(", ").append(WikiTokenizer.toPlainText(inflName));
-          if (inflValue != null && inflValue.length() > 0) {
-            foreignBuilder.append(": ").append(WikiTokenizer.toPlainText(inflValue));
-            wordForms.add(inflValue);
+          if (head == null) {
+            head = title;
+          } else {
+            head = WikiTokenizer.toPlainText(head);
           }
-        }
-        for (final String key : namedArgs.keySet()) {
-          final String value = WikiTokenizer.toPlainText(namedArgs.get(key));
-          foreignBuilder.append(" ").append(key).append("=").append(value);
-          wordForms.add(value);
-        }
-      } else if (name.equals("it-noun")) {
-        titleAppended = true;
-        final String base = get(args, 0);
-        final String gender = get(args, 1);
-        final String singular = base + get(args, 2);
-        final String plural = base + get(args, 3);
-        foreignBuilder.append(String.format(" %s {%s}, %s {pl}", singular, gender, plural, plural));
-        wordForms.add(singular);
-        wordForms.add(plural);
+          titleAppended = true;
+          
+          namedArgs.keySet().removeAll(USELESS_WIKI_ARGS);
+  
+          final String tr = namedArgs.remove("tr");
+          String g = namedArgs.remove("g");
+          if (g == null) {
+            g = namedArgs.remove("gender");
+          }
+          final String g2 = namedArgs.remove("g2");
+          final String g3 = namedArgs.remove("g3");
+  
+          foreignBuilder.append(head);
+    
+          if (g != null) {
+            foreignBuilder.append(" {").append(g);
+            if (g2 != null) {
+              foreignBuilder.append("|").append(g2);
+            }
+            if (g3 != null) {
+              foreignBuilder.append("|").append(g3);
+            }
+            foreignBuilder.append("}");
+          }
+    
+          if (tr != null) {
+            foreignBuilder.append(String.format(TRANSLITERATION_FORMAT, tr));
+            wordForms.add(tr);
+          }
+    
+          final String pos = get(args, 1);
+          if (pos != null) {
+            foreignBuilder.append(" (").append(pos).append(")");
+          }
+          for (int i = 2; i < args.size(); i += 2) {
+            final String inflName = get(args, i);
+            final String inflValue = get(args, i + 1);
+            foreignBuilder.append(", ").append(WikiTokenizer.toPlainText(inflName));
+            if (inflValue != null && inflValue.length() > 0) {
+              foreignBuilder.append(": ").append(WikiTokenizer.toPlainText(inflValue));
+              wordForms.add(inflValue);
+            }
+          }
+          for (final String key : namedArgs.keySet()) {
+            final String value = WikiTokenizer.toPlainText(namedArgs.get(key));
+            foreignBuilder.append(" ").append(key).append("=").append(value);
+            wordForms.add(value);
+          }
+        } else if (name.equals("it-noun")) {
+          titleAppended = true;
+          final String base = get(args, 0);
+          final String gender = get(args, 1);
+          final String singular = base + get(args, 2);
+          final String plural = base + get(args, 3);
+          foreignBuilder.append(String.format(" %s {%s}, %s {pl}", singular, gender, plural, plural));
+          wordForms.add(singular);
+          wordForms.add(plural);
+          if (!namedArgs.isEmpty() || args.size() > 4) {
+            LOG.warning("Invalid it-noun: " + wikiTokenizer.token());
+          }
         } else if (name.equals("it-proper noun")) {
           foreignBuilder.append(wikiTokenizer.token());
         } else if (name.equals("it-adj")) {
@@ -620,7 +629,6 @@ public class EnWiktionaryXmlParser {
           foreignBuilder.append(wikiTokenizer.token());
           // LOG.warning("Unknown function: " + wikiTokenizer.token());
         }
-        
       } else if (wikiTokenizer.isListItem()) {
         final String prefix = wikiTokenizer.listItemPrefix();
         if (lastListSection != null && 
@@ -672,6 +680,8 @@ public class EnWiktionaryXmlParser {
       "imperative"
       );
 
+  // Might only want to remove "lang" if it's equal to "zh", for example.
+  static final Set<String> USELESS_WIKI_ARGS = new LinkedHashSet<String>(Arrays.asList("lang", "sc", "sort", "cat"));
 
   private void doForeignListItem(final String foreignText, String title, final Collection<String> forms, final ListSection listSection) {
     
@@ -688,7 +698,6 @@ public class EnWiktionaryXmlParser {
     final StringBuilder englishBuilder = new StringBuilder();
 
     final String mainLine = listSection.firstLine;
-    
     final WikiTokenizer englishTokenizer = new WikiTokenizer(mainLine, false);
     while (englishTokenizer.nextToken() != null) {
       // TODO handle form of....
@@ -721,20 +730,40 @@ public class EnWiktionaryXmlParser {
         }
       } else if (englishTokenizer.isFunction()) {
         final String name = englishTokenizer.functionName();
-        if (name.contains("conjugation of ") || 
-            name.contains("form of ") || 
-            name.contains("feminine of ") || 
-            name.contains("plural of ")) {
-          // Ignore these in the index, they're really annoying....
-          englishBuilder.append(englishTokenizer.token());
+        final List<String> args = englishTokenizer.functionPositionArgs();
+        final Map<String,String> namedArgs = englishTokenizer.functionNamedArgs();
+        
+        if (
+            name.equals("form of") || 
+            name.contains("conjugation of") || 
+            name.contains("participle of") || 
+            name.contains("gerund of") || 
+            name.contains("feminine of") || 
+            name.contains("plural of")) {
+          String formName = name;
+          if (name.equals("form of")) {
+            formName = args.remove(0);
+          }
+          String baseForm = get(args, 1, "");
+          if ("".equals(baseForm)) {
+            baseForm = get(args, 0, null);
+            remove(args, 1, "");
+          } else {
+            remove(args, 0, null);
+          }
+          namedArgs.keySet().removeAll(USELESS_WIKI_ARGS);
+          WikiTokenizer.appendFunction(englishBuilder.append("{"), formName, args, namedArgs).append("}");
+          otherIndexBuilder.addEntryWithString(indexedEntry, baseForm, EntryTypeName.WIKTIONARY_BASE_FORM_SINGLE, EntryTypeName.WIKTIONARY_BASE_FORM_MULTI);
+          
         } else {
-          englishBuilder.append(englishTokenizer.token());
+          namedArgs.keySet().removeAll(USELESS_WIKI_ARGS);
+          WikiTokenizer.appendFunction(englishBuilder.append("{{"), name, args, namedArgs).append("}}");
 //          LOG.warning("Unexpected function: " + englishTokenizer.token());
         }
       } else {
         if (englishTokenizer.isComment() || englishTokenizer.isMarkup()) {
         } else {
-          LOG.warning("Unexpected definition text: " + englishTokenizer.token());
+          LOG.warning("Unexpected definition type: " + englishTokenizer.token());
         }
       }
     }
@@ -745,7 +774,7 @@ public class EnWiktionaryXmlParser {
       pairEntry.pairs.add(pair);
       otherIndexBuilder.addEntryWithString(indexedEntry, title, EntryTypeName.WIKTIONARY_TITLE_SINGLE, EntryTypeName.WIKTIONARY_TITLE_MULTI);
       for (final String form : forms) {
-        otherIndexBuilder.addEntryWithString(indexedEntry, form, EntryTypeName.WIKTIONARY_FORM_SINGLE, EntryTypeName.WIKTIONARY_FORM_MULTI);
+        otherIndexBuilder.addEntryWithString(indexedEntry, form, EntryTypeName.WIKTIONARY_INFLECTD_FORM_SINGLE, EntryTypeName.WIKTIONARY_INFLECTED_FORM_MULTI);
       }
     }
     
