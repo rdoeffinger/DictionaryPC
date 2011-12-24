@@ -63,11 +63,12 @@ public class DictionaryBuilderMain extends TestCase {
     isoToStoplist.put("FR", "fr.txt");
 
     final Map<String,String>  isoToRegex = new LinkedHashMap<String, String>();
-    isoToRegex.put("ZH", "Chinese|Mandarin|Cantonese");
+    // HACK: The missing "e" prevents a full match, causing "Cantonese" to be appended to the entries.
+    isoToRegex.put("ZH", "Chinese|Mandarin|Cantones");
     
 //    isoToWikiName.keySet().retainAll(Arrays.asList("UK", "HR", "FI"));
+    //isoToWikiName.clear();
     boolean go = true; 
-    isoToWikiName.clear();
     for (final String foreignIso : isoToWikiName.keySet()) {
       if (foreignIso.equals("SV")) {
         go = true;

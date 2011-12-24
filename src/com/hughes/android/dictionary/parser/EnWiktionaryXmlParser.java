@@ -757,7 +757,11 @@ public class EnWiktionaryXmlParser {
           
         } else {
           namedArgs.keySet().removeAll(USELESS_WIKI_ARGS);
-          WikiTokenizer.appendFunction(englishBuilder.append("{{"), name, args, namedArgs).append("}}");
+          if (args.size() == 0 && namedArgs.isEmpty()) {
+            englishBuilder.append("{").append(name).append("}");
+          } else {
+            WikiTokenizer.appendFunction(englishBuilder.append("{{"), name, args, namedArgs).append("}}");
+          }
 //          LOG.warning("Unexpected function: " + englishTokenizer.token());
         }
       } else {

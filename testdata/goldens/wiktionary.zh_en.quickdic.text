@@ -1,26 +1,26 @@
 dictInfo=SomeWikiData
 Index: zh zh->en
 ===1===
-  今日 (gam<sup>1</sup>yat<sup>6</sup>) :: today (today (noun)) (noun)
-  秋季 (cau<sup>1</sup>gwai<sup>3</sup>) :: autumn (season) (noun)
-  Taap<sup>3</sup>naap<sup>6</sup>tok<sup>3</sup>si<sup>1</sup> :: Thanatos (Thanatos, the god of death) (noun)
-  今日 (tr. gam<sup>1</sup>yat<sup>6</sup>) :: today (on the current day) (adverb)
+  (Cantonese) 今日 (tr. gam<sup>1</sup>yat<sup>6</sup>) :: today (on the current day) (adverb)
+  (Cantonese) 今日 (gam<sup>1</sup>yat<sup>6</sup>) :: today (today (noun)) (noun)
+  (Cantonese) 秋季 (cau<sup>1</sup>gwai<sup>3</sup>) :: autumn (season) (noun)
+  (Cantonese) Taap<sup>3</sup>naap<sup>6</sup>tok<sup>3</sup>si<sup>1</sup> :: Thanatos (Thanatos, the god of death) (noun)
 ===3===
-  秋季 (cau<sup>1</sup>gwai<sup>3</sup>) :: autumn (season) (noun)
-  Taap<sup>3</sup>naap<sup>6</sup>tok<sup>3</sup>si<sup>1</sup> :: Thanatos (Thanatos, the god of death) (noun)
-  四 (tr. sei<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
+  (Cantonese) 四 (tr. sei<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
   (Teochew) 四 (tr. si<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
+  (Cantonese) 秋季 (cau<sup>1</sup>gwai<sup>3</sup>) :: autumn (season) (noun)
+  (Cantonese) Taap<sup>3</sup>naap<sup>6</sup>tok<sup>3</sup>si<sup>1</sup> :: Thanatos (Thanatos, the god of death) (noun)
 ===6===
-  今日 (gam<sup>1</sup>yat<sup>6</sup>) :: today (today (noun)) (noun)
-  Taap<sup>3</sup>naap<sup>6</sup>tok<sup>3</sup>si<sup>1</sup> :: Thanatos (Thanatos, the god of death) (noun)
-  今日 (tr. gam<sup>1</sup>yat<sup>6</sup>) :: today (on the current day) (adverb)
+  (Cantonese) 今日 (tr. gam<sup>1</sup>yat<sup>6</sup>) :: today (on the current day) (adverb)
+  (Cantonese) 今日 (gam<sup>1</sup>yat<sup>6</sup>) :: today (today (noun)) (noun)
+  (Cantonese) Taap<sup>3</sup>naap<sup>6</sup>tok<sup>3</sup>si<sup>1</sup> :: Thanatos (Thanatos, the god of death) (noun)
 ===6月===
   六月, 6月 (liùyuè) :: June (sixth month of the Gregorian calendar) (proper noun)
 ===7月===
   七月, 7月 (qīyuè) :: July (seventh month of the Gregorian calendar) (proper noun)
 ===á===
-  (Min Nan) 今仔日 (kin-á-ji̍t) :: today (today (noun)) (noun)
   (Min Nan) 啤酒 (tr. bih-luh), 麥仔酒 (tr. be̍h-á-chiú), 米仔酒 (tr. bí-á-chiú) :: beer (alcoholic drink made of malt) (noun)
+  (Min Nan) 今仔日 (kin-á-ji̍t) :: today (today (noun)) (noun)
 ===age===
   (no verb to indicate age: subject + number of years + ) + 歲, 岁 (tr. suì) :: be (used to indicate age) (verb)
 ===ah===
@@ -46,7 +46,7 @@ Index: zh zh->en
 ===八===
   (Standard Chinese (Mandarin)) 八 (bā) (numeral: 捌) :: eight (cardinal number 8) (cardinal number)
   (Bai) 八 (pya) :: eight (cardinal number 8) (cardinal number)
-  八 (baat3) :: eight (cardinal number 8) (cardinal number)
+  (Cantonese) 八 (baat3) :: eight (cardinal number 8) (cardinal number)
   (Eastern Hokkien (Min Dong)) 八 (paik) :: eight (cardinal number 8) (cardinal number)
   (Northern Hokkien (Min Bei)) 八 (pai) :: eight (cardinal number 8) (cardinal number)
   (Gan) 八 (pat) :: eight (cardinal number 8) (cardinal number)
@@ -58,7 +58,7 @@ Index: zh zh->en
 ===把===
   把某東西看作是無價值的, 把某东西看作是无价值的 (bǎ mǒu dōngxi kànzuò shì wú jiàzhí de) :: floccinaucinihilipilification (act or habit of describing or regarding something as unimportant) (noun)
 ===baat3===
-  八 (baat3) :: eight (cardinal number 8) (cardinal number)
+  (Cantonese) 八 (baat3) :: eight (cardinal number 8) (cardinal number)
 ===bai===
   打败 (tr. da bai), 击倒 (tr. ji dao) :: abate (to bring down a person physically or mentally) (verb)
 ===白===
@@ -95,8 +95,8 @@ Index: zh zh->en
 ===bàoyú===
   鮑魚, 鲍鱼 (tr. bàoyú) :: abalone (edible univalve mollusc) (noun)
 ===be===
-  可能 (kěnéng) may be, possible :: may (possibly, but not certainly) (verb)
   (Min Nan) 啤酒 (tr. bih-luh), 麥仔酒 (tr. be̍h-á-chiú), 米仔酒 (tr. bí-á-chiú) :: beer (alcoholic drink made of malt) (noun)
+  可能 (kěnéng) may be, possible :: may (possibly, but not certainly) (verb)
 ===bèi===
   被 (bèi) + verb (particle) :: be (used to form the passive voice) (verb)
 ===被===
@@ -104,7 +104,7 @@ Index: zh zh->en
 ===北曲===
   詠嘆調, 咏叹调 (tr. yǒngtàndiào), 唱段 (tr. chàngduàn), (North China, Yuan dynasty) 北曲 (tr. běiqǔ) :: aria (type of musical piece) (noun)
 ===bei1===
-  閪 (tr. hai1), 屄 (tr. bei1, hai1) :: cunt (genitalia) (noun)
+  (Cantonese) 閪 (tr. hai1), 屄 (tr. bei1, hai1) :: cunt (genitalia) (noun)
 ===běiqǔ===
   詠嘆調, 咏叹调 (tr. yǒngtàndiào), 唱段 (tr. chàngduàn), (North China, Yuan dynasty) 北曲 (tr. běiqǔ) :: aria (type of musical piece) (noun)
 ===bêng===
@@ -118,7 +118,7 @@ Index: zh zh->en
 ===bì===
   關閉, 关闭 (guān bì) :: can (to shut up) (verb)
 ===屄===
-  閪 (tr. hai1), 屄 (tr. bei1, hai1) :: cunt (genitalia) (noun)
+  (Cantonese) 閪 (tr. hai1), 屄 (tr. bei1, hai1) :: cunt (genitalia) (noun)
   屄 (tr. bī) :: cunt (genitalia) (noun)
 ===避免===
   避免 (tr. bìmiǎn), 戒除 (tr. jièchú), 棄權, 弃权 (tr. qìquán) :: abstain (refrain from) (verb)
@@ -182,7 +182,7 @@ Index: zh zh->en
 ===bùkěshǔ===
   不可數, 不可数 (tr. bùkěshǔ) :: uncountable (linguistics: about a noun which cannot be counted) (adjective)
 ===bun2===
-  日本 (tr. yat6 bun2) :: Japan (A Far East country in Asia) (proper noun)
+  (Cantonese) 日本 (tr. yat6 bun2) :: Japan (A Far East country in Asia) (proper noun)
 ===buōng===
   (Min Dong) 日本 (tr. Nĭk-buōng) :: Japan (A Far East country in Asia) (proper noun)
 ===彩色===
@@ -204,9 +204,9 @@ Index: zh zh->en
 ===肏你媽===
   傻屄 (tr. shǎbī), 肏你媽 , 肏你妈 (tr. cào nǐ mā), 幹你娘, 干你娘 (tr. gàn nǐ niang) :: motherfucker (generic term of abuse) (noun)
 ===cat6===
-  屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
+  (Cantonese) 屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
 ===cau===
-  秋季 (cau<sup>1</sup>gwai<sup>3</sup>) :: autumn (season) (noun)
+  (Cantonese) 秋季 (cau<sup>1</sup>gwai<sup>3</sup>) :: autumn (season) (noun)
 ===cè===
   廁所, 厕所 (cè suǒ) :: can (toilet) (noun)
 ===厕所===
@@ -252,7 +252,7 @@ Index: zh zh->en
 ===cháochuī===
   潮吹 (tr. cháochuī), 淫水 (tr. yǐnshuǐ), (slang) 出水 (tr. chūshuǐ) :: cum (slang: female ejaculatory discharge) (noun)
 ===chat1===
-  七 (chat1) :: seven (cardinal number 7) (cardinal number)
+  (Cantonese) 七 (chat1) :: seven (cardinal number 7) (cardinal number)
 ===che===
   撤销 (tr. che xiao) :: abate (obsolete: to bring entirely down or put an end to) (verb)
 ===撤销===
@@ -362,13 +362,13 @@ Index: zh zh->en
 ===辭職===
   辭職, 辞职 (tr. cízhí) :: abdicate (disinherit) (verb)
 ===ci4===
-  名詞 (tr. ming4 ci4) :: noun (grammatical category) (noun)
-  動詞 (tr. dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
-  副詞 (tr. fu3 ci4) :: adverb (lexical category) (noun)
+  (Cantonese) 名詞 (tr. ming4 ci4) :: noun (grammatical category) (noun)
+  (Cantonese) 動詞 (tr. dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  (Cantonese) 副詞 (tr. fu3 ci4) :: adverb (lexical category) (noun)
 ===cídiǎn===
-  詞典編輯, 词典编辑 (cídiǎn biānjí) :: lexicography (art or craft of writing dictionaries) (noun)
   字典 (tr. zìdiǎn) (character dictionary); 詞典, 词典 (tr. cídiǎn) :: dictionary (publication that explains the meanings of an ordered list of words) (noun)
   分類詞詞典, 分类词词典 (tr. fēnlèicí cídiǎn) :: thesaurus (book of synonyms) (noun)
+  詞典編輯, 词典编辑 (cídiǎn biānjí) :: lexicography (art or craft of writing dictionaries) (noun)
 ===cig4===
   (Teochew) cig4 :: seven (cardinal number 7) (cardinal number)
 ===císù===
@@ -399,7 +399,7 @@ Index: zh zh->en
 ===代名詞===
   同義詞, 同义词 (tr. tóngyìcí), 代名詞, 代名词 (tr. dàimíngcí), (near-synonym) 近義詞, 近义词 (tr. jìnyìcí) :: synonym (word with same meaning as another) (noun)
 ===daih===
-  契第 (kai daih) :: transvestite (cross-dresser) (noun)
+  (Cantonese) 契第 (kai daih) :: transvestite (cross-dresser) (noun)
 ===Dáik===
   (Min Dong) Dáik-ngṳ̄ :: German (the German language) (proper noun)
 ===dàimíngcí===
@@ -441,6 +441,11 @@ Index: zh zh->en
 ===Dé===
   德國, 德国 (tr. Déguó), 德 (tr. Dé-) :: German (of or relating to the country of Germany) (adjective)
 ===de===
+  亞伯拉罕, 亚伯拉罕 (tr. Yàbólāhǎn de) :: Abrahamic (pertaining to Abraham) (adjective)
+  波蘭的, 波兰的 (tr. Bōlán de) :: Polish (of Poland or its language) (adjective)
+  假 (tr. jiǎ de-), 虛擬, 虚拟 (tr. xūnǐ de-) :: pseudo- (not genuine) (prefix)
+  荷蘭, 荷兰 (tr. Hélán-de) :: Dutch (of the Netherlands, people, or language) (adjective)
+  荷蘭, 荷兰 (tr. Hélán de) :: Netherlands (pertaining to the Netherlands) (adjective)
   [[自由]]的 (zìyóu de) :: free (not imprisoned) (adjective)
   [[免]][[費]]的 (miǎnfèi de) :: free (obtainable without payment) (adjective)
   [[自由]]的 (zìyóu de) :: free (unconstrained) (adjective)
@@ -452,11 +457,6 @@ Index: zh zh->en
   (Traditional) 英語的 (Yīngyǔ de), 英文的 (Yīngwén de) :: English (of or pertaining to the English language) (adjective)
   (Simplified) 英格兰的 (Yīnggélán de) :: English (of or pertaining to England) (adjective)
   可接受的 (kě jiēshòu de) :: acceptable (capable, worthy or sure of being accepted) (adjective)
-  亞伯拉罕, 亚伯拉罕 (tr. Yàbólāhǎn de) :: Abrahamic (pertaining to Abraham) (adjective)
-  波蘭的, 波兰的 (tr. Bōlán de) :: Polish (of Poland or its language) (adjective)
-  假 (tr. jiǎ de-), 虛擬, 虚拟 (tr. xūnǐ de-) :: pseudo- (not genuine) (prefix)
-  荷蘭, 荷兰 (tr. Hélán-de) :: Dutch (of the Netherlands, people, or language) (adjective)
-  荷蘭, 荷兰 (tr. Hélán de) :: Netherlands (pertaining to the Netherlands) (adjective)
 ===德===
   德國, 德国 (tr. Déguó), 德 (tr. Dé-) :: German (of or relating to the country of Germany) (adjective)
 ===的===
@@ -522,9 +522,9 @@ Index: zh zh->en
   雞巴, 鸡巴 (tr. jība), 屌 (tr. diǎo), (euphemism) 鳥, 鸟 (tr. diǎo) :: dick (colloquial: penis) (noun)
 ===屌===
   雞巴, 鸡巴 (tr. jība), 屌 (tr. diǎo), (euphemism) 鳥, 鸟 (tr. diǎo) :: dick (colloquial: penis) (noun)
-  屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
+  (Cantonese) 屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
 ===屌你老母===
-  屌你老母 (diu2nei3lo3mo3) :: motherfucker (generic term of abuse) (noun)
+  (Cantonese) 屌你老母 (diu2nei3lo3mo3) :: motherfucker (generic term of abuse) (noun)
 ===调味===
   给调味 :: season (to flavour food) (verb)
 ===dìng===
@@ -551,9 +551,9 @@ Index: zh zh->en
   丟棄, 丢弃 (diūqì) :: abandon (to cast out) (verb)
   丟棄, 丢弃 (diū qì) :: can (to discard) (verb)
 ===diu2===
-  屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
+  (Cantonese) 屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
 ===diu2nei3lo3mo3===
-  屌你老母 (diu2nei3lo3mo3) :: motherfucker (generic term of abuse) (noun)
+  (Cantonese) 屌你老母 (diu2nei3lo3mo3) :: motherfucker (generic term of abuse) (noun)
 ===diūqì===
   丟棄, 丢弃 (diūqì) :: abandon (to cast out) (verb)
 ===dìyù===
@@ -561,7 +561,7 @@ Index: zh zh->en
 ===动词===
   動詞, 动词 (dòngcí) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
 ===動詞===
-  動詞 (tr. dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  (Cantonese) 動詞 (tr. dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   動詞, 动词 (dòngcí) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
 ===冬季===
   冬天 (tr. dōngtiān), 冬季 (tr. dōngjì) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
@@ -572,8 +572,8 @@ Index: zh zh->en
 ===東西===
   把某東西看作是無價值的, 把某东西看作是无价值的 (bǎ mǒu dōngxi kànzuò shì wú jiàzhí de) :: floccinaucinihilipilification (act or habit of describing or regarding something as unimportant) (noun)
 ===dòngcí===
-  動詞, 动词 (dòngcí) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   及物動詞, 及物动词 (tr. jíwù dòngcí), 他動詞, 他动词 (tr. tādòngcí) :: transitive verb (a verb that is accompanied by a direct object) (noun)
+  動詞, 动词 (dòngcí) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
 ===dōngjì===
   冬天 (tr. dōngtiān), 冬季 (tr. dōngjì) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
 ===dōngtiān===
@@ -611,10 +611,10 @@ Index: zh zh->en
 ===duìwài===
   外債, 外债 (tr. wàizhài), 對外債務, 对外债务 (tr. duìwài zhàiwù) :: foreign debt (a debt owed to foreigners) (noun)
 ===duìyú===
-  關於, 关于 (guānyú), 對於, 对于 (duìyú) :: about (concerning) (preposition)
   關於, 关于 (tr. guānyú), 對於, 对于 (tr. duìyú) :: about (in concern with) (preposition)
+  關於, 关于 (guānyú), 對於, 对于 (duìyú) :: about (concerning) (preposition)
 ===dung6===
-  動詞 (tr. dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  (Cantonese) 動詞 (tr. dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
 ===多少===
   多少 (tr. duōshǎo), 數碼, 数码 (tr. shùmǎ) :: number (quantity) (noun)
 ===多神教===
@@ -649,12 +649,12 @@ Index: zh zh->en
 ===Eng===
   (Min Nan) 英語, 英语 (tr. Eng-gí) :: English (the English language) (proper noun)
 ===èr===
-  星期二 (xīngqī èr) :: Tuesday (day of the week) (noun)
-  二 (èr) :: two (digit or figure) (noun)
   二 (tr. èr), 两 (tr. liǎng) (numeral: 貳) :: two (one plus one) (cardinal number)
   第二 (tr. dì'èr) :: second (second (numeral)) (adjective)
+  星期二 (xīngqī èr) :: Tuesday (day of the week) (noun)
+  二 (èr) :: two (digit or figure) (noun)
 ===二===
-  二 (tr. yi6), 两 :: two (one plus one) (cardinal number)
+  (Cantonese) 二 (tr. yi6), 两 :: two (one plus one) (cardinal number)
   (Gan) 二 (tr. ě) :: two (one plus one) (cardinal number)
   二 (tr. èr), 两 (tr. liǎng) (numeral: 貳) :: two (one plus one) (cardinal number)
   (Wu) 二 (tr. lia) :: two (one plus one) (cardinal number)
@@ -673,8 +673,8 @@ Index: zh zh->en
 ===发条===
   弹簧, 发条 (fātiáo) :: spring (device made of flexible material) (noun)
 ===faan1===
-  南瓜 (tr. naam4 gwaa1),番瓜 (tr. faan1 gwaa1) :: pumpkin (plant) (noun)
-  南瓜 (tr. naam4 gwaa1),番瓜 (tr. faan1 gwaa1) :: pumpkin (fruit of this plant) (noun)
+  (Cantonese) 南瓜 (tr. naam4 gwaa1),番瓜 (tr. faan1 gwaa1) :: pumpkin (plant) (noun)
+  (Cantonese) 南瓜 (tr. naam4 gwaa1),番瓜 (tr. faan1 gwaa1) :: pumpkin (fruit of this plant) (noun)
 ===fǎn===
   反猶太主義, 反犹太主义 (tr. fǎn-Yóutài-zhǔyì) :: anti-Semitism (prejudice or hostility against Jews) (noun)
 ===反对教会分离主义===
@@ -682,8 +682,8 @@ Index: zh zh->en
 ===反對教會分離主義===
   反對教會分離主義, 反对教会分离主义 (tr. fǎnduì jiàohuì fēnlí zhǔyì) :: antidisestablishmentarianism (philosophy opposed to separing church and state) (noun)
 ===番瓜===
-  南瓜 (tr. naam4 gwaa1),番瓜 (tr. faan1 gwaa1) :: pumpkin (plant) (noun)
-  南瓜 (tr. naam4 gwaa1),番瓜 (tr. faan1 gwaa1) :: pumpkin (fruit of this plant) (noun)
+  (Cantonese) 南瓜 (tr. naam4 gwaa1),番瓜 (tr. faan1 gwaa1) :: pumpkin (plant) (noun)
+  (Cantonese) 南瓜 (tr. naam4 gwaa1),番瓜 (tr. faan1 gwaa1) :: pumpkin (fruit of this plant) (noun)
 ===反义词===
   反義詞, 反义词 (tr. fǎnyìcí) :: antonym (word which has the opposite meaning) (noun)
 ===反義詞===
@@ -767,7 +767,7 @@ Index: zh zh->en
 ===副词===
   副詞, 副词 (tr. fùcí) :: adverb (lexical category) (noun)
 ===副詞===
-  副詞 (tr. fu3 ci4) :: adverb (lexical category) (noun)
+  (Cantonese) 副詞 (tr. fu3 ci4) :: adverb (lexical category) (noun)
   副詞, 副词 (tr. fùcí) :: adverb (lexical category) (noun)
 ===复数===
   複數, 复数 (tr. fùshù), 眾數, 众数 (tr. zhòngshù) :: plural (more than one) (adjective)
@@ -776,10 +776,10 @@ Index: zh zh->en
   複數, 复数 (tr. fùshù), 眾數, 众数 (tr. zhòngshù) :: plural (more than one) (adjective)
   複數, 复数 (tr. fùshù), 眾數, 众数 (tr. zhòngshù) :: plural (word in plural form) (noun)
 ===fu3===
-  副詞 (tr. fu3 ci4) :: adverb (lexical category) (noun)
+  (Cantonese) 副詞 (tr. fu3 ci4) :: adverb (lexical category) (noun)
 ===fùbù===
-  [[腹]][[部]] (fùbù) :: abdomen (the posterior section of an arthopod's body) (noun)
   腹部 (tr. fùbù), 腹 (tr. fù) :: abdomen (belly) (noun)
+  [[腹]][[部]] (fùbù) :: abdomen (the posterior section of an arthopod's body) (noun)
 ===fùcí===
   副詞, 副词 (tr. fùcí) :: adverb (lexical category) (noun)
 ===fùshù===
@@ -788,8 +788,8 @@ Index: zh zh->en
 ===fuwu===
   女性服务生 (nuxing fuwu-sheng) :: bellgirl (a female bellhop) (noun)
 ===gam===
-  今日 (gam<sup>1</sup>yat<sup>6</sup>) :: today (today (noun)) (noun)
-  今日 (tr. gam<sup>1</sup>yat<sup>6</sup>) :: today (on the current day) (adverb)
+  (Cantonese) 今日 (tr. gam<sup>1</sup>yat<sup>6</sup>) :: today (on the current day) (adverb)
+  (Cantonese) 今日 (gam<sup>1</sup>yat<sup>6</sup>) :: today (today (noun)) (noun)
 ===gàn===
   傻屄 (tr. shǎbī), 肏你媽 , 肏你妈 (tr. cào nǐ mā), 幹你娘, 干你娘 (tr. gàn nǐ niang) :: motherfucker (generic term of abuse) (noun)
 ===干你娘===
@@ -827,10 +827,10 @@ Index: zh zh->en
 ===gǎoluàn===
   混淆 (tr. hùnxiáo), 弄亂, 弄乱 (tr. nòngluàn), 搞亂, 搞乱 (tr. gǎoluàn), 使模糊 (shǐ móhu), 使混亂, 使混乱 (shǐ hùnluàn), 使糊塗, 使糊涂 (shǐ hútu) :: obfuscate (make confusing) (verb)
 ===gau1===
-  屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
+  (Cantonese) 屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
 ===gau2===
-  九 (gau2) :: nine (cardinal number) (cardinal number)
-  狗 (tr. gau2), 犬 (tr. hyun1) :: dog (animal) (noun)
+  (Cantonese) 狗 (tr. gau2), 犬 (tr. hyun1) :: dog (animal) (noun)
+  (Cantonese) 九 (gau2) :: nine (cardinal number) (cardinal number)
 ===给===
   给调味 :: season (to flavour food) (verb)
 ===跟腱===
@@ -839,8 +839,8 @@ Index: zh zh->en
   跟腱 (tr. gēnjiàn) :: Achilles tendon (strong tendon in the calf of the leg) (noun)
 ===gí===
   (Min Nan) tek-gí :: German (the German language) (proper noun)
-  (Min Nan) gí-giân :: language (system of communication using words or symbols) (noun)
   (Min Nan) 英語, 英语 (tr. Eng-gí) :: English (the English language) (proper noun)
+  (Min Nan) gí-giân :: language (system of communication using words or symbols) (noun)
 ===giân===
   (Min Nan) gí-giân :: language (system of communication using words or symbols) (noun)
 ===gōng===
@@ -858,7 +858,7 @@ Index: zh zh->en
 ===gǒu===
   狗 (tr. gǒu), 犬 (tr. quǎn) :: dog (animal) (noun)
 ===狗===
-  狗 (tr. gau2), 犬 (tr. hyun1) :: dog (animal) (noun)
+  (Cantonese) 狗 (tr. gau2), 犬 (tr. hyun1) :: dog (animal) (noun)
   狗 (tr. gǒu), 犬 (tr. quǎn) :: dog (animal) (noun)
 ===狗屁===
   廢話, 废话 (tr. fèihuà), 胡說, 胡说 (tr. húshuō), 胡言 (tr. húyán), (vulgar) 狗屁 (tr. gǒupì) :: nonsense (meaningless words) (noun)
@@ -869,8 +869,8 @@ Index: zh zh->en
 ===gú===
   (Min Nan) 低地語 (tr. kē-tē-gú) :: Dutch (the Dutch language) (proper noun)
 ===gǔ===
-  屁股, 屁股 (pì gǔ) :: can (buttocks) (noun)
   骨頭, 骨头 (tr. gǔtóu), 骨 (tr. gǔ) :: bone (component of a skeleton) (noun)
+  屁股, 屁股 (pì gǔ) :: can (buttocks) (noun)
 ===gù===
   解雇, 解雇 (jiě gù) :: can (to fire or dismiss an employee) (verb)
 ===骨===
@@ -912,8 +912,8 @@ Index: zh zh->en
 ===guānliáo===
   官僚 (tr. guānliáo) :: bureaucrat (An official in a bureaucracy) (noun)
 ===guānyú===
-  關於, 关于 (guānyú), 對於, 对于 (duìyú) :: about (concerning) (preposition)
   關於, 关于 (tr. guānyú), 對於, 对于 (tr. duìyú) :: about (in concern with) (preposition)
+  關於, 关于 (guānyú), 對於, 对于 (duìyú) :: about (concerning) (preposition)
 ===国外===
   國外, 国外 (tr. guówài), 海外 (tr. hǎiwài) (overseas) :: abroad (in foreign countries) (adverb)
   海外 (tr. hǎiwài), 國外, 国外 (tr. guówài) :: abroad (countries or lands abroad) (noun)
@@ -934,19 +934,19 @@ Index: zh zh->en
 ===gǔzhì===
   骨質, 骨质 (tr. gǔzhì) :: bone (material) (noun)
 ===gwaa1===
-  南瓜 (tr. naam4 gwaa1),番瓜 (tr. faan1 gwaa1) :: pumpkin (plant) (noun)
-  南瓜 (tr. naam4 gwaa1),番瓜 (tr. faan1 gwaa1) :: pumpkin (fruit of this plant) (noun)
+  (Cantonese) 南瓜 (tr. naam4 gwaa1),番瓜 (tr. faan1 gwaa1) :: pumpkin (plant) (noun)
+  (Cantonese) 南瓜 (tr. naam4 gwaa1),番瓜 (tr. faan1 gwaa1) :: pumpkin (fruit of this plant) (noun)
 ===gwai===
-  秋季 (cau<sup>1</sup>gwai<sup>3</sup>) :: autumn (season) (noun)
+  (Cantonese) 秋季 (cau<sup>1</sup>gwai<sup>3</sup>) :: autumn (season) (noun)
 ===h===
   (Min Nan) 啤酒 (tr. bih-luh), 麥仔酒 (tr. be̍h-á-chiú), 米仔酒 (tr. bí-á-chiú) :: beer (alcoholic drink made of malt) (noun)
 ===海外===
   國外, 国外 (tr. guówài), 海外 (tr. hǎiwài) (overseas) :: abroad (in foreign countries) (adverb)
   海外 (tr. hǎiwài), 國外, 国外 (tr. guówài) :: abroad (countries or lands abroad) (noun)
 ===hai1===
-  閪 (tr. hai1), 屄 (tr. bei1, hai1) :: cunt (genitalia) (noun)
+  (Cantonese) 閪 (tr. hai1), 屄 (tr. bei1, hai1) :: cunt (genitalia) (noun)
 ===hai6===
-  是 (tr. si4) (formal and written), 係 (tr. hai6) (vernacular) :: be (used to indicate that the subject and object are the same) (verb)
+  (Cantonese) 是 (tr. si4) (formal and written), 係 (tr. hai6) (vernacular) :: be (used to indicate that the subject and object are the same) (verb)
 ===hǎiwài===
   國外, 国外 (tr. guówài), 海外 (tr. hǎiwài) (overseas) :: abroad (in foreign countries) (adverb)
   海外 (tr. hǎiwài), 國外, 国外 (tr. guówài) :: abroad (countries or lands abroad) (noun)
@@ -1012,8 +1012,8 @@ Index: zh zh->en
 ===hen===
   (Wu) 五 (hen) :: five (five (5)) (cardinal number)
 ===hêng===
-  (Min Nan) hêng-iông-sû :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   (Min Nan) 行星 (tr. hêng-seng) :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
+  (Min Nan) hêng-iông-sû :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
 ===恆星===
   恆星, 恒星 (tr. héngxīng), 明星 (tr. míngxīng), 星 (tr. xīng) :: star (luminous celestial body) (noun)
 ===恒星===
@@ -1038,8 +1038,8 @@ Index: zh zh->en
 ===hotter===
   (the adjectives are in a dictionary form) 越……越…… (tr. yuè...yuè...) (example: 越<u>热</u>越<u>好</u> yuè rè yuè hǎo "the hotter the better"), 愈……愈…… (tr. yù...yù...) :: the (the + ～comparative, the + comparative) (adverb)
 ===hou2===
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
 ===hù===
   (Min Nan) hù-sû :: adverb (lexical category) (noun)
 ===胡说===
@@ -1070,11 +1070,11 @@ Index: zh zh->en
   化身 (tr. huàshēn) :: avatar (The earthly incarnation of a deity, particularly Vishnu) (noun)
   化身 (tr. huàshēn) :: avatar (The physical embodiment of an idea or concept; a personification) (noun)
 ===huì===
-  基督教青年會 (jīdùjiào qīngnián huì) :: YMCA (Young Men's Christian Association) ({{initialism}})
-  基督教女青年會 (jīdùjiào nǚqīngnián huì) :: YWCA (YWCA) ({{initialism}})
   能 (tr. néng), 會, 会 (tr. huì) :: able (permitted to) (adjective)
   會, 会 (tr. huì), 能 (tr. néng), (the ability/inability to achieve a result is expressed with various verb complements, e.g. -{{t|zh|得了|tr=-deliǎo|sc=Hani}}/-{{t|zh|不了|tr=-buliǎo|sc=Hani}}) :: can (to be able) (verb)
   世博會, 世博会 (tr. shìbó-huì), 世界博覽會, 世界博览会 (tr. shìjìe bólǎnhuì) :: World Exposition (a regular international exposition) (noun)
+  基督教青年會 (jīdùjiào qīngnián huì) :: YMCA (Young Men's Christian Association) ({{initialism}})
+  基督教女青年會 (jīdùjiào nǚqīngnián huì) :: YWCA (YWCA) ({{initialism}})
 ===会===
   能 (tr. néng), 會, 会 (tr. huì) :: able (permitted to) (adjective)
   會, 会 (tr. huì), 能 (tr. néng), (the ability/inability to achieve a result is expressed with various verb complements, e.g. -{{t|zh|得了|tr=-deliǎo|sc=Hani}}/-{{t|zh|不了|tr=-buliǎo|sc=Hani}}) :: can (to be able) (verb)
@@ -1114,7 +1114,7 @@ Index: zh zh->en
   廢話, 废话 (tr. fèihuà), 胡說, 胡说 (tr. húshuō), 胡言 (tr. húyán), (vulgar) 狗屁 (tr. gǒupì) :: nonsense (meaningless words) (noun)
   廢話, 废话 (tr. fèihuà), 胡說, 胡说 (tr. húshuō), 胡言 (tr. húyán), 狗屁 (tr. gǒupì) (vulgar) :: nonsense (untrue statement) (noun)
 ===hyun1===
-  狗 (tr. gau2), 犬 (tr. hyun1) :: dog (animal) (noun)
+  (Cantonese) 狗 (tr. gau2), 犬 (tr. hyun1) :: dog (animal) (noun)
 ===ik4===
   (Teochew) 一 (ik4, zêg8) :: one (cardinal number 1) (cardinal number)
 ===indicate===
@@ -1124,16 +1124,16 @@ Index: zh zh->en
 ===iông===
   (Min Nan) hêng-iông-sû :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
 ===jat6===
-  日 (tr. jat6) :: day (period of 24 hours) (noun)
+  (Cantonese) 日 (tr. jat6) :: day (period of 24 hours) (noun)
 ===jī===
   (Min Nan) 簡體字 (tr. kán-thé-jī), 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
 ===jì===
   季 (tr. jì), 季節, 季节 (tr. jìjié) :: season (quarter of a year) (noun)
   美國國家航空航天局, 美国国家航空航天局 (tr. Měiguó guójiā hángkōng hángtiānjú), (Taiwan) 美國國家航空暨太空總署, 美国国家航空暨太空总署 (tr. Měiguó guójiā hángkōng jì tàikōng zǒngshǔ) :: NASA (National Aeronautics and Space Administration) ({{acronym}})
 ===ji===
-  (Min Nan) 今仔日 (kin-á-ji̍t) :: today (today (noun)) (noun)
   打败 (tr. da bai), 击倒 (tr. ji dao) :: abate (to bring down a person physically or mentally) (verb)
   (Min Nan) 日頭 (tr. ji̍t-thâu, li̍t-thâu) :: sun (the star around which the Earth revolves) (proper noun)
+  (Min Nan) 今仔日 (kin-á-ji̍t) :: today (today (noun)) (noun)
 ===Ji===
   (Min Nan) 日本 (tr. Ji̍t-pún) :: Japan (A Far East country in Asia) (proper noun)
 ===季===
@@ -1169,7 +1169,7 @@ Index: zh zh->en
 ===記憶體===
   内存, 記憶體 :: RAM (random access memory) ({{acronym}})
 ===ji5===
-  主席 (tr. zyu2 zik6) 議長 (tr. ji5 zoeng2) :: chairman (person presiding over a meeting) (noun)
+  (Cantonese) 主席 (tr. zyu2 zik6) 議長 (tr. ji5 zoeng2) :: chairman (person presiding over a meeting) (noun)
 ===jiǎ===
   偽友, 伪友 (tr. wěi yǒu), 假友 (tr. jiǎ yǒu), 假等義, 假等义 (tr. jiǎ děngyì) :: false friend (false friend) (noun)
   假 (tr. jiǎ de-), 虛擬, 虚拟 (tr. xūnǐ de-) :: pseudo- (not genuine) (prefix)
@@ -1212,12 +1212,12 @@ Index: zh zh->en
 ===監視列表===
   監視列表, 监视列表 (tr. jiānshì lièbiǎo) :: watchlist (list for special attention) (noun)
 ===简体字===
-  簡體字, 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
+  (Cantonese) 簡體字, 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
   簡體字, 简体字 , jiǎntǐzì :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
   (Min Nan) 簡體字 (tr. kán-thé-jī), 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
   (Simplified) 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
 ===簡體字===
-  簡體字, 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
+  (Cantonese) 簡體字, 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
   簡體字, 简体字 , jiǎntǐzì :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
   (Min Nan) 簡體字 (tr. kán-thé-jī), 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
   (Traditional) 簡體字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
@@ -1294,8 +1294,8 @@ Index: zh zh->en
 ===jiémù===
   節目, 节目 (tr. jiémù) :: number (performance) (noun)
 ===jiēshòu===
-  可接受的 (kě jiēshòu de) :: acceptable (capable, worthy or sure of being accepted) (adjective)
   接受 (tr. jiēshòu) :: accept (to receive with consent) (verb)
+  可接受的 (kě jiēshòu de) :: acceptable (capable, worthy or sure of being accepted) (adjective)
 ===jìjié===
   季 (tr. jì), 季節, 季节 (tr. jìjié) :: season (quarter of a year) (noun)
 ===jīn===
@@ -1305,9 +1305,9 @@ Index: zh zh->en
 ===金瓜===
   (Min Nan) 朱瓜 (tr. chu-koe), 金瓜 (tr. kim-koe) :: pumpkin (fruit of this plant) (noun)
 ===今日===
-  今日 (tr. gam<sup>1</sup>yat<sup>6</sup>) :: today (on the current day) (adverb)
+  (Cantonese) 今日 (tr. gam<sup>1</sup>yat<sup>6</sup>) :: today (on the current day) (adverb)
   今天 (tr. [[jīntiān]]), 今日 (tr. [[jīnrì]]) :: today (on the current day) (adverb)
-  今日 (gam<sup>1</sup>yat<sup>6</sup>) :: today (today (noun)) (noun)
+  (Cantonese) 今日 (gam<sup>1</sup>yat<sup>6</sup>) :: today (today (noun)) (noun)
 ===金属===
   金屬容器, 金属容器 (jīn shǔ róng qì) :: can (a tin-plate canister) (noun)
 ===金屬===
@@ -1354,8 +1354,8 @@ Index: zh zh->en
 ===jīnrì===
   今天 (tr. [[jīntiān]]), 今日 (tr. [[jīnrì]]) :: today (on the current day) (adverb)
 ===jīntiān===
-  今天 (jīntiān) :: today (today (noun)) (noun)
   今天 (tr. [[jīntiān]]), 今日 (tr. [[jīnrì]]) :: today (on the current day) (adverb)
+  今天 (jīntiān) :: today (today (noun)) (noun)
 ===jìnyìcí===
   同義詞, 同义词 (tr. tóngyìcí), 代名詞, 代名词 (tr. dàimíngcí), (near-synonym) 近義詞, 近义词 (tr. jìnyìcí) :: synonym (word with same meaning as another) (noun)
 ===jīnzǎo===
@@ -1368,7 +1368,7 @@ Index: zh zh->en
   (Standard Chinese (Mandarin)) 九 (jiǔ) (numeral: 玖) :: nine (cardinal number) (cardinal number)
 ===九===
   (Standard Chinese (Mandarin)) 九 (jiǔ) (numeral: 玖) :: nine (cardinal number) (cardinal number)
-  九 (gau2) :: nine (cardinal number) (cardinal number)
+  (Cantonese) 九 (gau2) :: nine (cardinal number) (cardinal number)
   (Eastern Hokkien (Min Dong)) 九 (kau) :: nine (cardinal number) (cardinal number)
   (Northern Hokkien (Min Bei)) 九 (kiu) :: nine (cardinal number) (cardinal number)
   (Wu) 九 (jiq) :: nine (cardinal number) (cardinal number)
@@ -1400,9 +1400,9 @@ Index: zh zh->en
 ===jùjué===
   拒絕, 拒绝 (tr. jùjué) :: abdicate (reject) (verb)
 ===juk6===
-  肉 (juk6) :: meat (type of meat) (noun)
-  肉 (juk6) :: meat (any sort of flesh) (noun)
-  肉 (tr. juk6) :: meat (animal flesh used as food) (noun)
+  (Cantonese) 肉 (tr. juk6) :: meat (animal flesh used as food) (noun)
+  (Cantonese) 肉 (juk6) :: meat (type of meat) (noun)
+  (Cantonese) 肉 (juk6) :: meat (any sort of flesh) (noun)
 ===júzi===
   橙 (tr. chéng), 橙子 (tr. chéngzi), (technically "tangerine", but often used as "orange") 橘子 (tr. júzi), (alternative form:) 桔子 (tr. júzi) :: orange (fruit) (noun)
 ===咖啡色===
@@ -1410,7 +1410,7 @@ Index: zh zh->en
 ===kāfēisè===
   褐色 (tr. hèsè), 棕色 (tr. zōngsè), (coffee colour) 咖啡色 (tr. kāfēisè) :: brown (having brown colour) (adjective)
 ===kai===
-  契第 (kai daih) :: transvestite (cross-dresser) (noun)
+  (Cantonese) 契第 (kai daih) :: transvestite (cross-dresser) (noun)
 ===kán===
   (Min Nan) 簡體字 (tr. kán-thé-jī), 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
 ===看作===
@@ -1441,8 +1441,8 @@ Index: zh zh->en
 ===kěnéng===
   可能 (kěnéng) may be, possible :: may (possibly, but not certainly) (verb)
 ===kěyǐ===
-  可以 (kěyǐ) :: may (have permission to) (verb)
   能 (tr. néng), 可以 (tr. kěyǐ) :: can (may) (verb)
+  可以 (kěyǐ) :: may (have permission to) (verb)
 ===khòng===
   (Min Nan) 空 (tr. khòng) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
 ===kim===
@@ -1478,7 +1478,7 @@ Index: zh zh->en
 ===kuānshù===
   寬恕, 宽恕 (kuānshù) :: absolve (pronounce free or give absolution) (verb)
 ===laang===
-  天時冷 (tr. tin1 si4 laang) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
+  (Cantonese) 天時冷 (tr. tin1 si4 laang) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
 ===lag8===
   (Teochew) lag8 :: six (cardinal number) (cardinal number)
 ===lái===
@@ -1492,7 +1492,7 @@ Index: zh zh->en
 ===làn===
   (Hakka) Hò-làn-ngî :: Dutch (the Dutch language) (proper noun)
 ===lan2===
-  屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
+  (Cantonese) 屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
 ===láng===
   狼 (tr. láng) :: wolf (animal) (noun)
 ===lang===
@@ -1510,8 +1510,8 @@ Index: zh zh->en
 ===lǎowài===
   外國人, 外国人 (tr. wàiguórén), 外人 (tr. wàirén), 老外 (tr. lǎowài) (colloquial) :: alien (foreigner) (noun)
 ===lei5===
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
 ===lek===
   (Eastern Hokkien (Min Dong)) 六 (lek) :: six (cardinal number) (cardinal number)
 ===leng5===
@@ -1553,7 +1553,7 @@ Index: zh zh->en
 ===liǎng===
   二 (tr. èr), 两 (tr. liǎng) (numeral: 貳) :: two (one plus one) (cardinal number)
 ===两===
-  二 (tr. yi6), 两 :: two (one plus one) (cardinal number)
+  (Cantonese) 二 (tr. yi6), 两 :: two (one plus one) (cardinal number)
   二 (tr. èr), 两 (tr. liǎng) (numeral: 貳) :: two (one plus one) (cardinal number)
   (Min Dong) 两 (lang) :: two (one plus one) (cardinal number)
 ===两周===
@@ -1573,8 +1573,8 @@ Index: zh zh->en
 ===lìfǎ===
   日曆, 日历 (tr. rìlì), 曆 (tr. lì), 历 (tr. lì), 曆法, 历法 (tr. lìfǎ), (colloquial) 月份牌 (tr. yuèfènpái) :: calendar (system by which time is divided) (noun)
 ===líng===
-  零 (líng) (numeral: 〇, 零) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   零 (tr. líng), 〇 :: zero (numeric symbol of zero) (noun)
+  零 (líng) (numeral: 〇, 零) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
 ===零===
   零 (tr. líng), 〇 :: zero (numeric symbol of zero) (noun)
   零 (líng) (numeral: 〇, 零) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
@@ -1584,7 +1584,7 @@ Index: zh zh->en
 ===六===
   (Standard Chinese (Mandarin)) 六 (liù) (numeral: 陸) :: six (cardinal number) (cardinal number)
   (Bai) 六 (chi) :: six (cardinal number) (cardinal number)
-  六 (luk6) :: six (cardinal number) (cardinal number)
+  (Cantonese) 六 (luk6) :: six (cardinal number) (cardinal number)
   (Eastern Hokkien (Min Dong)) 六 (lek) :: six (cardinal number) (cardinal number)
   (Northern Hokkien (Min Bei)) 六 (ly) :: six (cardinal number) (cardinal number)
   (Wu) 六 (lo) :: six (cardinal number) (cardinal number)
@@ -1618,7 +1618,7 @@ Index: zh zh->en
 ===luh===
   (Min Nan) 啤酒 (tr. bih-luh), 麥仔酒 (tr. be̍h-á-chiú), 米仔酒 (tr. bí-á-chiú) :: beer (alcoholic drink made of malt) (noun)
 ===luk6===
-  六 (luk6) :: six (cardinal number) (cardinal number)
+  (Cantonese) 六 (luk6) :: six (cardinal number) (cardinal number)
 ===罗马数字===
   罗马数字 :: Roman numeral (a numeral represented by letters) (noun)
 ===lùzhài===
@@ -1634,7 +1634,7 @@ Index: zh zh->en
 ===麥仔酒===
   (Min Nan) 啤酒 (tr. bih-luh), 麥仔酒 (tr. be̍h-á-chiú), 米仔酒 (tr. bí-á-chiú) :: beer (alcoholic drink made of malt) (noun)
 ===mán===
-  英文 (tr. Yīng-mán) :: English (the English language) (proper noun)
+  (Cantonese) 英文 (tr. Yīng-mán) :: English (the English language) (proper noun)
 ===Mandarin===
   See Mandarin :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
   See Mandarin :: definition (statement expressing the essential nature of something) (noun)
@@ -1697,13 +1697,13 @@ Index: zh zh->en
 ===Měiguó===
   美國國家航空航天局, 美国国家航空航天局 (tr. Měiguó guójiā hángkōng hángtiānjú), (Taiwan) 美國國家航空暨太空總署, 美国国家航空暨太空总署 (tr. Měiguó guójiā hángkōng jì tàikōng zǒngshǔ) :: NASA (National Aeronautics and Space Administration) ({{acronym}})
 ===門九===
-  屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
+  (Cantonese) 屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
 ===門能===
-  屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
+  (Cantonese) 屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
 ===門七===
-  屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
+  (Cantonese) 屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
 ===門小===
-  屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
+  (Cantonese) 屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
 ===米仔酒===
   (Min Nan) 啤酒 (tr. bih-luh), 麥仔酒 (tr. be̍h-á-chiú), 米仔酒 (tr. bí-á-chiú) :: beer (alcoholic drink made of malt) (noun)
 ===免===
@@ -1731,7 +1731,7 @@ Index: zh zh->en
 ===名词===
   名詞, 名词 (tr. míngcí) :: noun (grammatical category) (noun)
 ===名詞===
-  名詞 (tr. ming4 ci4) :: noun (grammatical category) (noun)
+  (Cantonese) 名詞 (tr. ming4 ci4) :: noun (grammatical category) (noun)
   名詞, 名词 (tr. míngcí) :: noun (grammatical category) (noun)
 ===命名===
   命名 (tr. mìngmíng) :: name (give a name to) (verb)
@@ -1741,7 +1741,7 @@ Index: zh zh->en
   名字 (tr. míngzi) :: first name (name chosen by parents) (noun)
   名 (míng), 名字 (míngzì) :: name (word or phrase indicating a particular person, place, class or thing) (noun)
 ===ming4===
-  名詞 (tr. ming4 ci4) :: noun (grammatical category) (noun)
+  (Cantonese) 名詞 (tr. ming4 ci4) :: noun (grammatical category) (noun)
 ===míngcí===
   名詞, 名词 (tr. míngcí) :: noun (grammatical category) (noun)
   專有名詞, 专有名词 (tr. zhuānyǒu míngcí), 固有名詞, 固有名词 (tr. gùyǒu míngcí) :: proper noun (The name of a particular person, place, organization or other individual entity) (noun)
@@ -1758,7 +1758,7 @@ Index: zh zh->en
 ===陌生人===
   異客, 异客 (tr. yìkè), 陌生人 (tr. mòshēngrén) :: alien (person, etc. from outside) (noun)
 ===墨西哥===
-  墨西哥 :: Mexico (country) (proper noun)
+  (Cantonese) 墨西哥 :: Mexico (country) (proper noun)
   (Gan) 墨西哥 :: Mexico (country) (proper noun)
   墨西哥 (tr. Mòxīgē) :: Mexico (country) (proper noun)
   (Wu) 墨西哥 :: Mexico (country) (proper noun)
@@ -1778,21 +1778,21 @@ Index: zh zh->en
 ===mǔ===
   公畝, 公亩 (gōng mǔ) :: are (unit of area) (noun)
 ===naam4===
-  南瓜 (tr. naam4 gwaa1),番瓜 (tr. faan1 gwaa1) :: pumpkin (plant) (noun)
-  南瓜 (tr. naam4 gwaa1),番瓜 (tr. faan1 gwaa1) :: pumpkin (fruit of this plant) (noun)
+  (Cantonese) 南瓜 (tr. naam4 gwaa1),番瓜 (tr. faan1 gwaa1) :: pumpkin (plant) (noun)
+  (Cantonese) 南瓜 (tr. naam4 gwaa1),番瓜 (tr. faan1 gwaa1) :: pumpkin (fruit of this plant) (noun)
 ===naap===
-  Taap<sup>3</sup>naap<sup>6</sup>tok<sup>3</sup>si<sup>1</sup> :: Thanatos (Thanatos, the god of death) (noun)
+  (Cantonese) Taap<sup>3</sup>naap<sup>6</sup>tok<sup>3</sup>si<sup>1</sup> :: Thanatos (Thanatos, the god of death) (noun)
 ===男的===
   男人 (tr. nánrén), 男的 (tr. nánde) :: man (adult male human) (noun)
 ===南瓜===
-  南瓜 (tr. naam4 gwaa1),番瓜 (tr. faan1 gwaa1) :: pumpkin (plant) (noun)
+  (Cantonese) 南瓜 (tr. naam4 gwaa1),番瓜 (tr. faan1 gwaa1) :: pumpkin (plant) (noun)
   南瓜 (tr. nánguā) :: pumpkin (plant) (noun)
-  南瓜 (tr. naam4 gwaa1),番瓜 (tr. faan1 gwaa1) :: pumpkin (fruit of this plant) (noun)
+  (Cantonese) 南瓜 (tr. naam4 gwaa1),番瓜 (tr. faan1 gwaa1) :: pumpkin (fruit of this plant) (noun)
   南瓜 (tr. nánguā) :: pumpkin (fruit of this plant) (noun)
 ===男人===
   男人 (tr. nánrén), 男的 (tr. nánde) :: man (adult male human) (noun)
   (Min Nan) 查埔人 (tr. cha-po͘-lâng), 男人 (tr. lâm-jîn) :: man (adult male human) (noun)
-  男人 :: man (adult male human) (noun)
+  (Cantonese) 男人 :: man (adult male human) (noun)
 ===nánde===
   男人 (tr. nánrén), 男的 (tr. nánde) :: man (adult male human) (noun)
 ===nánguā===
@@ -1807,9 +1807,9 @@ Index: zh zh->en
 ===内债===
   內債, 内债 (tr. nèizhài) :: domestic debt (debt owed to creditors resident in the same country as debtor) (noun)
 ===nei5===
-  我鐘意你 (ngo5 zung1 yi3 nei5) :: I love you (platonic expression of inclination or liking) (phrase)
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
+  (Cantonese) 我鐘意你 (ngo5 zung1 yi3 nei5) :: I love you (platonic expression of inclination or liking) (phrase)
 ===nèizhài===
   內債, 内债 (tr. nèizhài) :: domestic debt (debt owed to creditors resident in the same country as debtor) (noun)
 ===néng===
@@ -1827,7 +1827,7 @@ Index: zh zh->en
 ===nénggàn===
   能幹, 能干 (tr. nénggàn), 得力 (tr. délì) :: able (skillful) (adjective)
 ===ng5===
-  五 (ng5) :: five (five (5)) (cardinal number)
+  (Cantonese) 五 (ng5) :: five (five (5)) (cardinal number)
 ===ngî===
   (Hakka) Hò-làn-ngî :: Dutch (the Dutch language) (proper noun)
 ===ngi3===
@@ -1839,22 +1839,22 @@ Index: zh zh->en
 ===ngo===
   (Northern Hokkien (Min Bei)) 五 (ngo) :: five (five (5)) (cardinal number)
 ===ngo5===
-  我鐘意你 (ngo5 zung1 yi3 nei5) :: I love you (platonic expression of inclination or liking) (phrase)
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
+  (Cantonese) 我鐘意你 (ngo5 zung1 yi3 nei5) :: I love you (platonic expression of inclination or liking) (phrase)
 ===ngou6===
   (Teochew) ngou6 :: five (five (5)) (cardinal number)
 ===ngu===
-  (Eastern Hokkien (Min Dong)) 五 (ngu) :: five (five (5)) (cardinal number)
   (Wu) 我爱侬 (tr. wo ei non, ngu ei non) :: I love you (affirmation of romantic feeling) (phrase)
+  (Eastern Hokkien (Min Dong)) 五 (ngu) :: five (five (5)) (cardinal number)
 ===ngṳ===
   (Min Dong) Dáik-ngṳ̄ :: German (the German language) (proper noun)
   (Min Dong) 英語, 英语 (tr. Ĭng-ngṳ̄) :: English (the English language) (proper noun)
 ===nǐ===
-  我很喜歡你, 我很喜欢你 (wǒ hěn xǐ huan nǐ) :: I love you (platonic expression of inclination or liking) (phrase)
   我愛你, 我爱你 (tr. wǒ ài nǐ) :: I love you (affirmation of affection or deep caring) (phrase)
   我愛你, 我爱你 (tr. wǒ ài nǐ) :: I love you (affirmation of romantic feeling) (phrase)
   傻屄 (tr. shǎbī), 肏你媽 , 肏你妈 (tr. cào nǐ mā), 幹你娘, 干你娘 (tr. gàn nǐ niang) :: motherfucker (generic term of abuse) (noun)
+  我很喜歡你, 我很喜欢你 (wǒ hěn xǐ huan nǐ) :: I love you (platonic expression of inclination or liking) (phrase)
 ===ni===
   (Min Bei) 二 (ni) :: two (one plus one) (cardinal number)
 ===nî===
@@ -1927,13 +1927,13 @@ Index: zh zh->en
 ===噢===
   噢 (tr. ō), 喔 (tr. ō) :: o (vocative particle to mark direct address) (interjection)
 ===o5===
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
 ===of===
   (no verb to indicate age: subject + number of years + ) + 歲, 岁 (tr. suì) :: be (used to indicate age) (verb)
 ===oi3===
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
 ===overseas===
   國外, 国外 (tr. guówài), 海外 (tr. hǎiwài) (overseas) :: abroad (in foreign countries) (adverb)
 ===pa===
@@ -1953,9 +1953,9 @@ Index: zh zh->en
 ===pat===
   (Gan) 八 (pat) :: eight (cardinal number 8) (cardinal number)
 ===pì===
+  放屁 (tr. fàng pì) :: fart (to emit flatulent gases) (verb)
   屁股, 屁股 (pì gǔ) :: can (buttocks) (noun)
   屁 (pì) :: fart (an emission of flatulent gases) (noun)
-  放屁 (tr. fàng pì) :: fart (to emit flatulent gases) (verb)
 ===屁===
   屁 (pì) :: fart (an emission of flatulent gases) (noun)
 ===屁股===
@@ -1992,14 +1992,14 @@ Index: zh zh->en
   丟棄, 丢弃 (diū qì) :: can (to discard) (verb)
 ===七===
   (Standard Chinese (Mandarin)) 七 (qī) (numeral: 柒) :: seven (cardinal number 7) (cardinal number)
-  七 (chat1) :: seven (cardinal number 7) (cardinal number)
+  (Cantonese) 七 (chat1) :: seven (cardinal number 7) (cardinal number)
   (Eastern Hokkien (Min Dong)) 七 (chek) :: seven (cardinal number 7) (cardinal number)
   (Wu) 七 (chi) :: seven (cardinal number 7) (cardinal number)
   (Xiang) 七 (tshiu) :: seven (cardinal number 7) (cardinal number)
 ===柒===
   (Standard Chinese (Mandarin)) 七 (qī) (numeral: 柒) :: seven (cardinal number 7) (cardinal number)
 ===契第===
-  契第 (kai daih) :: transvestite (cross-dresser) (noun)
+  (Cantonese) 契第 (kai daih) :: transvestite (cross-dresser) (noun)
 ===奇怪===
   奇怪 (qí quài) :: odd (strange) (adjective)
 ===弃权===
@@ -2067,7 +2067,7 @@ Index: zh zh->en
   避免 (tr. bìmiǎn), 戒除 (tr. jièchú), 棄權, 弃权 (tr. qìquán) :: abstain (refrain from) (verb)
 ===秋季===
   秋天 (tr. qiūtiān), 秋季 (tr. qiūjì) :: autumn (season) (noun)
-  秋季 (cau<sup>1</sup>gwai<sup>3</sup>) :: autumn (season) (noun)
+  (Cantonese) 秋季 (cau<sup>1</sup>gwai<sup>3</sup>) :: autumn (season) (noun)
 ===秋天===
   秋天 (tr. qiūtiān), 秋季 (tr. qiūjì) :: autumn (season) (noun)
   (Min Nan) 秋天 (chhiu-thiⁿ) :: autumn (season) (noun)
@@ -2094,7 +2094,7 @@ Index: zh zh->en
 ===泉===
   泉 (quán), 源泉 (yuán quán) :: spring (water source) (noun)
 ===犬===
-  狗 (tr. gau2), 犬 (tr. hyun1) :: dog (animal) (noun)
+  (Cantonese) 狗 (tr. gau2), 犬 (tr. hyun1) :: dog (animal) (noun)
   狗 (tr. gǒu), 犬 (tr. quǎn) :: dog (animal) (noun)
 ===权贵===
   權貴, 权贵 (quánguì) :: quality (archaic: social position) (noun)
@@ -2119,7 +2119,7 @@ Index: zh zh->en
 ===热===
   (the adjectives are in a dictionary form) 越……越…… (tr. yuè...yuè...) (example: 越<u>热</u>越<u>好</u> yuè rè yuè hǎo "the hotter the better"), 愈……愈…… (tr. yù...yù...) :: the (the + ～comparative, the + comparative) (adverb)
 ===熱頭===
-  太陽, 日頭, 熱頭 :: sun (the star around which the Earth revolves) (proper noun)
+  (Cantonese) 太陽, 日頭, 熱頭 :: sun (the star around which the Earth revolves) (proper noun)
 ===rén===
   機器人, 机器人 (tr. jīqì rén), 機械人, 机械人 (tr. jīxièrén) :: robot (intelligent mechanical being) (noun)
   人 (tr. rén), 人類, 人类 (tr. rénlèi) :: man (human) (noun)
@@ -2164,13 +2164,13 @@ Index: zh zh->en
   太陽, 太阳 (tr. tàiyáng), 日 (tr. rì) :: sun (the star around which the Earth revolves) (proper noun)
   太陽, 太阳 (tr. tàiyáng), 恒星 (tr. héngxīng), 日 (tr. rì) :: sun (any star, especially when seen as the centre of any single solar system) (noun)
 ===日===
-  日 (tr. jat6) :: day (period of 24 hours) (noun)
+  (Cantonese) 日 (tr. jat6) :: day (period of 24 hours) (noun)
   日 (tr. rì), 天 (tr. tiān) :: day (period of 24 hours) (noun)
   太陽, 太阳 (tr. tàiyáng), 日 (tr. rì) :: sun (the star around which the Earth revolves) (proper noun)
   太陽, 太阳 (tr. tàiyáng), 恒星 (tr. héngxīng), 日 (tr. rì) :: sun (any star, especially when seen as the centre of any single solar system) (noun)
 ===日本===
   日本 (tr. [[Rìběn]]) :: Japan (A Far East country in Asia) (proper noun)
-  日本 (tr. yat6 bun2) :: Japan (A Far East country in Asia) (proper noun)
+  (Cantonese) 日本 (tr. yat6 bun2) :: Japan (A Far East country in Asia) (proper noun)
   (Gan) 日本 :: Japan (A Far East country in Asia) (proper noun)
   (Hakka) 日本 (tr. Ngit-pún) :: Japan (A Far East country in Asia) (proper noun)
   (Min Dong) 日本 (tr. Nĭk-buōng) :: Japan (A Far East country in Asia) (proper noun)
@@ -2185,7 +2185,7 @@ Index: zh zh->en
   日期 (tr. rìqī) :: date (point of time at which a transaction or event takes place) (noun)
 ===日頭===
   (Min Nan) 日頭 (tr. ji̍t-thâu, li̍t-thâu) :: sun (the star around which the Earth revolves) (proper noun)
-  太陽, 日頭, 熱頭 :: sun (the star around which the Earth revolves) (proper noun)
+  (Cantonese) 太陽, 日頭, 熱頭 :: sun (the star around which the Earth revolves) (proper noun)
 ===ri6===
   (Teochew) ri6, no6 :: two (one plus one) (cardinal number)
 ===Rìběn===
@@ -2202,21 +2202,21 @@ Index: zh zh->en
   容器, 容器 (róng qì) :: can (a container used to carry and dispense water for plants) (noun)
   金屬容器, 金属容器 (jīn shǔ róng qì) :: can (a tin-plate canister) (noun)
 ===ròu===
+  肉 (tr. ròu) :: meat (animal flesh used as food) (noun)
   肉 (ròu) :: meat (type of meat) (noun)
   肉 (ròu) :: meat (any sort of flesh) (noun)
-  肉 (tr. ròu) :: meat (animal flesh used as food) (noun)
 ===肉===
-  肉 (tr. juk6) :: meat (animal flesh used as food) (noun)
+  (Cantonese) 肉 (tr. juk6) :: meat (animal flesh used as food) (noun)
   肉 (tr. ròu) :: meat (animal flesh used as food) (noun)
-  肉 (juk6) :: meat (type of meat) (noun)
+  (Cantonese) 肉 (juk6) :: meat (type of meat) (noun)
   肉 (ròu) :: meat (type of meat) (noun)
-  肉 (juk6) :: meat (any sort of flesh) (noun)
+  (Cantonese) 肉 (juk6) :: meat (any sort of flesh) (noun)
   肉 (ròu) :: meat (any sort of flesh) (noun)
 ===ruo===
   减弱 (tr. jian ruo), 减轻 (tr. jian qing) :: abate (to bring down or reduce to a lower state) (verb)
   减轻 (tr. jian qing), 减弱 (tr. jian ruo) :: abate (to decrease or become less in strength) (verb)
 ===sam1===
-  三 (sam1) :: three (cardinal number 3) (cardinal number)
+  (Cantonese) 三 (sam1) :: three (cardinal number 3) (cardinal number)
   (Teochew) san1, sam1 :: three (cardinal number 3) (cardinal number)
 ===sān===
   星期三 (xīngqī sān), 周三 (zhōu sān) :: Wednesday (day of the week) (noun)
@@ -2224,7 +2224,7 @@ Index: zh zh->en
 ===sǎn===
   傘, 伞 (tr. sǎn), 雨傘, 雨伞 (tr. yǔsǎn) :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
 ===三===
-  三 (sam1) :: three (cardinal number 3) (cardinal number)
+  (Cantonese) 三 (sam1) :: three (cardinal number 3) (cardinal number)
   (Eastern Hokkien (Min Dong)) 三 (sang) :: three (cardinal number 3) (cardinal number)
   三 (sān) (numeral: 參) :: three (cardinal number 3) (cardinal number)
   (Wu) 三 (se) :: three (cardinal number 3) (cardinal number)
@@ -2237,14 +2237,14 @@ Index: zh zh->en
 ===sang===
   (Eastern Hokkien (Min Dong)) 三 (sang) :: three (cardinal number 3) (cardinal number)
 ===sap6===
-  十 (sap6) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
+  (Cantonese) 十 (sap6) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
 ===sè===
-  填色 (tián sè), 上色 (shàng sè), 著色 (zhuó sè) :: color (give something color) (verb)
   色 (tr. sè), 顏色, 颜色 (tr. yánsè) :: color (spectral composition of visible light) (noun)
+  填色 (tián sè), 上色 (shàng sè), 著色 (zhuó sè) :: color (give something color) (verb)
 ===se===
   (Wu) 三 (se) :: three (cardinal number 3) (cardinal number)
 ===閪===
-  閪 (tr. hai1), 屄 (tr. bei1, hai1) :: cunt (genitalia) (noun)
+  (Cantonese) 閪 (tr. hai1), 屄 (tr. bei1, hai1) :: cunt (genitalia) (noun)
 ===色===
   色 (tr. sè), 顏色, 颜色 (tr. yánsè) :: color (spectral composition of visible light) (noun)
 ===色子===
@@ -2261,7 +2261,7 @@ Index: zh zh->en
   See Mandarin :: definition (sharp demarcation of outlines or limits) (noun)
   See Mandarin :: definition (bodybuilding: the degree to which individual muscles are distinct) (noun)
 ===sei===
-  四 (tr. sei<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
+  (Cantonese) 四 (tr. sei<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
 ===sek===
   (Eastern Hokkien (Min Dong)) 十 (sek) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
 ===seng===
@@ -2273,10 +2273,10 @@ Index: zh zh->en
 ===shǎizi===
   骰子 (tr. tóuzi), 色子 (tr. shǎizi) :: die (polyhedron used in games of chance) (noun)
 ===shàng===
-  填色 (tián sè), 上色 (shàng sè), 著色 (zhuó sè) :: color (give something color) (verb)
   (board a car, train) 上車, 上车 (tr. shàngchē), (boat, ship) 上船 (tr. shàngchuán), (aeroplane) 上飛機, 上飞机 (tr. shàng fēijī) :: aboard (on board) (adverb)
   (board a car, train) 上車, 上车 (tr. shàngchē), (boat, ship) 上船 (tr. shàngchuán), (aeroplane) 上飛機, 上飞机 (tr. shàng fēijī) :: aboard (on board of) (preposition)
   上 (tr. ...shàng) :: on (positioned at the upper surface of) (preposition)
+  填色 (tián sè), 上色 (shàng sè), 著色 (zhuó sè) :: color (give something color) (verb)
 ===上===
   上 (tr. ...shàng) :: on (positioned at the upper surface of) (preposition)
 ===上车===
@@ -2336,8 +2336,8 @@ Index: zh zh->en
 ===shèmiǎn===
   赦免 (shèmiǎn), 赦罪 (shèzuì) :: absolve (theology: pronounce free or give absolution from sin) (verb)
 ===sheng===
-  女性服务生 (nuxing fuwu-sheng) :: bellgirl (a female bellhop) (noun)
   减少 (tr. jian shao), 省略 (tr. sheng lüe) :: abate (to deduct, to omit) (verb)
+  女性服务生 (nuxing fuwu-sheng) :: bellgirl (a female bellhop) (noun)
 ===省略===
   减少 (tr. jian shao), 省略 (tr. sheng lüe) :: abate (to deduct, to omit) (verb)
 ===shénme===
@@ -2346,15 +2346,13 @@ Index: zh zh->en
 ===shèzuì===
   赦免 (shèmiǎn), 赦罪 (shèzuì) :: absolve (theology: pronounce free or give absolution from sin) (verb)
 ===shí===
+  十年 (tr. shí nián) :: decade (a period of ten years) (noun)
   十二月 (shí’èryuè) :: December (twelfth month of the Gregorian calendar) (proper noun)
   (Standard Chinese (Mandarin)) 十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
-  十年 (tr. shí nián) :: decade (a period of ten years) (noun)
 ===shǐ===
   使免除 (shǐ miǎnchú) :: absolve (set free) (verb)
   混淆 (tr. hùnxiáo), 弄亂, 弄乱 (tr. nòngluàn), 搞亂, 搞乱 (tr. gǎoluàn), 使模糊 (shǐ móhu), 使混亂, 使混乱 (shǐ hùnluàn), 使糊塗, 使糊涂 (shǐ hútu) :: obfuscate (make confusing) (verb)
 ===shì===
-  定意 (dìngyì); [[釋]][[義]] (shìyì) :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
-  把某東西看作是無價值的, 把某东西看作是无价值的 (bǎ mǒu dōngxi kànzuò shì wú jiàzhí de) :: floccinaucinihilipilification (act or habit of describing or regarding something as unimportant) (noun)
   是 (tr. shì), 有 (tr. yǒu) :: be (exist) (verb)
   是 (tr. shì), 有 (tr. yǒu), 在 (tr. zài), 來, 来 (tr. lái) :: be (elliptical form of "be here", or similar) (verb)
   是 (tr. shì) :: be (used to indicate that the subject and object are the same) (verb)
@@ -2363,9 +2361,11 @@ Index: zh zh->en
   是 (tr. shì) :: be (used to indicate that the subject has the qualities described by a noun or noun phrase) (verb)
   是 (tr. shì) :: be (used to indicate temperature) (verb)
   是 (tr. shì) (not used with adjectives) :: is (verb)
+  定意 (dìngyì); [[釋]][[義]] (shìyì) :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
+  把某東西看作是無價值的, 把某东西看作是无价值的 (bǎ mǒu dōngxi kànzuò shì wú jiàzhí de) :: floccinaucinihilipilification (act or habit of describing or regarding something as unimportant) (noun)
 ===十===
   (Standard Chinese (Mandarin)) 十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
-  十 (sap6) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
+  (Cantonese) 十 (sap6) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Eastern Hokkien (Min Dong)) 十 (sek) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Wu) 十 (ze) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Xiang) 十 (su) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
@@ -2374,7 +2374,7 @@ Index: zh zh->en
 ===是===
   是 (tr. shì), 有 (tr. yǒu) :: be (exist) (verb)
   是 (tr. shì), 有 (tr. yǒu), 在 (tr. zài), 來, 来 (tr. lái) :: be (elliptical form of "be here", or similar) (verb)
-  是 (tr. si4) (formal and written), 係 (tr. hai6) (vernacular) :: be (used to indicate that the subject and object are the same) (verb)
+  (Cantonese) 是 (tr. si4) (formal and written), 係 (tr. hai6) (vernacular) :: be (used to indicate that the subject and object are the same) (verb)
   是 (tr. shì) :: be (used to indicate that the subject and object are the same) (verb)
   是 (tr. shì) :: be (used to indicate that the values on either side of an equation are the same) (verb)
   是 (tr. shì), (absent with adjectives) :: be (used to indicate that the subject plays the role of the predicate nominative) (verb)
@@ -2455,10 +2455,10 @@ Index: zh zh->en
   數, 数 (tr. shù), 數目, 数目 (tr. shùmù), 數字, 数字 (tr. shùzì) :: number (abstract entity) (noun)
   數, 数 (tr. shù), 數字, 数字 (tr. shùzì) :: number (numeral) (noun)
 ===书===
-  書, 书 (tr. suè) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
+  (Cantonese) 書, 书 (tr. suè) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
   書, 书 (tr. shū) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
 ===書===
-  書, 书 (tr. suè) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
+  (Cantonese) 書, 书 (tr. suè) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
   書, 书 (tr. shū) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
 ===数===
   數, 数 (tr. shù), 數目, 数目 (tr. shùmù), 數字, 数字 (tr. shùzì) :: number (abstract entity) (noun)
@@ -2521,13 +2521,13 @@ Index: zh zh->en
 ===sǐ===
   死 (tr. sǐ), 亡 (tr. wáng), (formal) 去世 (tr. qùshì) :: die (to stop living) (verb)
 ===sì===
+  四 (tr. [[sì]]) (numeral: 肆) :: four (the cardinal number 4) (cardinal number)
   星期四 (xīngqī sì) :: Thursday (day of the week) (noun)
   四分之一 (sì fēn zhīyī) :: quarter (one of four equal parts) (noun)
   四 (sì) :: four (the digit or figure 4) (noun)
-  四 (tr. [[sì]]) (numeral: 肆) :: four (the cardinal number 4) (cardinal number)
 ===si===
-  Taap<sup>3</sup>naap<sup>6</sup>tok<sup>3</sup>si<sup>1</sup> :: Thanatos (Thanatos, the god of death) (noun)
   (Teochew) 四 (tr. si<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
+  (Cantonese) Taap<sup>3</sup>naap<sup>6</sup>tok<sup>3</sup>si<sup>1</sup> :: Thanatos (Thanatos, the god of death) (noun)
 ===sî===
   (Hakka) Me̍t-sî-kô :: Mexico (country) (proper noun)
 ===死===
@@ -2536,7 +2536,7 @@ Index: zh zh->en
   (Old Chinese) 亖 (tr. *hljids) :: four (the cardinal number 4) (cardinal number)
 ===四===
   四 (tr. [[sì]]) (numeral: 肆) :: four (the cardinal number 4) (cardinal number)
-  四 (tr. sei<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
+  (Cantonese) 四 (tr. sei<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
   (Teochew) 四 (tr. si<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
   四 (sì) :: four (the digit or figure 4) (noun)
 ===肆===
@@ -2546,10 +2546,10 @@ Index: zh zh->en
 ===四月===
   四月 (sìyuè) :: April (fourth month of the Gregorian calendar) (proper noun)
 ===si4===
-  天時冷 (tr. tin1 si4 laang) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
-  是 (tr. si4) (formal and written), 係 (tr. hai6) (vernacular) :: be (used to indicate that the subject and object are the same) (verb)
+  (Cantonese) 天時冷 (tr. tin1 si4 laang) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
+  (Cantonese) 是 (tr. si4) (formal and written), 係 (tr. hai6) (vernacular) :: be (used to indicate that the subject and object are the same) (verb)
 ===singkei===
-  星期 (singkei) :: week (period of seven days) (noun)
+  (Cantonese) 星期 (singkei) :: week (period of seven days) (noun)
 ===sio===
   (Min Dong (Eastern Hokkien)) 一 (sio) :: one (cardinal number 1) (cardinal number)
 ===sìyuè===
@@ -2582,7 +2582,7 @@ Index: zh zh->en
 ===subject===
   (no verb to indicate age: subject + number of years + ) + 歲, 岁 (tr. suì) :: be (used to indicate age) (verb)
 ===suè===
-  書, 书 (tr. suè) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
+  (Cantonese) 書, 书 (tr. suè) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
 ===suì===
   (no verb to indicate age: subject + number of years + ) + 歲, 岁 (tr. suì) :: be (used to indicate age) (verb)
 ===岁===
@@ -2606,22 +2606,22 @@ Index: zh zh->en
 ===suōlüècí===
   縮寫, 缩写 (tr. suōxiě), 縮略詞, 缩略词 (tr. suōlüècí), 略語, 略语 (tr. lüèyǔ) :: acronym (word formed by initial letters) (noun)
 ===suōxiě===
-  为了缩写 (wèile suōxiě) :: abbreviate (to make shorter) (verb)
   縮寫, 缩写 (tr. suōxiě); 簡寫, 简写 (tr. jiǎnxiě); 略語, 略语 (tr. lüèyǔ) :: abbreviation (shortened or contracted form of a word or phrase) (noun)
   縮寫, 缩写 (tr. suōxiě) :: abbreviation (act or result of shortening or reducing) (noun)
   縮寫, 缩写 (tr. suōxiě), 縮略詞, 缩略词 (tr. suōlüècí), 略語, 略语 (tr. lüèyǔ) :: acronym (word formed by initial letters) (noun)
+  为了缩写 (wèile suōxiě) :: abbreviate (to make shorter) (verb)
 ===sup===
-  今日 (gam<sup>1</sup>yat<sup>6</sup>) :: today (today (noun)) (noun)
-  秋季 (cau<sup>1</sup>gwai<sup>3</sup>) :: autumn (season) (noun)
-  Taap<sup>3</sup>naap<sup>6</sup>tok<sup>3</sup>si<sup>1</sup> :: Thanatos (Thanatos, the god of death) (noun)
-  今日 (tr. gam<sup>1</sup>yat<sup>6</sup>) :: today (on the current day) (adverb)
-  四 (tr. sei<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
+  (Cantonese) 今日 (tr. gam<sup>1</sup>yat<sup>6</sup>) :: today (on the current day) (adverb)
+  (Cantonese) 四 (tr. sei<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
   (Teochew) 四 (tr. si<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
+  (Cantonese) 今日 (gam<sup>1</sup>yat<sup>6</sup>) :: today (today (noun)) (noun)
+  (Cantonese) 秋季 (cau<sup>1</sup>gwai<sup>3</sup>) :: autumn (season) (noun)
+  (Cantonese) Taap<sup>3</sup>naap<sup>6</sup>tok<sup>3</sup>si<sup>1</sup> :: Thanatos (Thanatos, the god of death) (noun)
 ===t===
   (Hakka) Me̍t-sî-kô :: Mexico (country) (proper noun)
-  (Min Nan) 今仔日 (kin-á-ji̍t) :: today (today (noun)) (noun)
   (Min Nan) 日本 (tr. Ji̍t-pún) :: Japan (A Far East country in Asia) (proper noun)
   (Min Nan) 日頭 (tr. ji̍t-thâu, li̍t-thâu) :: sun (the star around which the Earth revolves) (proper noun)
+  (Min Nan) 今仔日 (kin-á-ji̍t) :: today (today (noun)) (noun)
 ===他动词===
   及物動詞, 及物动词 (tr. jíwù dòngcí), 他動詞, 他动词 (tr. tādòngcí) :: transitive verb (a verb that is accompanied by a direct object) (noun)
 ===他動詞===
@@ -2629,7 +2629,7 @@ Index: zh zh->en
 ===塔納托斯===
   塔納托斯 :: Thanatos (Thanatos, the god of death) (noun)
 ===Taap===
-  Taap<sup>3</sup>naap<sup>6</sup>tok<sup>3</sup>si<sup>1</sup> :: Thanatos (Thanatos, the god of death) (noun)
+  (Cantonese) Taap<sup>3</sup>naap<sup>6</sup>tok<sup>3</sup>si<sup>1</sup> :: Thanatos (Thanatos, the god of death) (noun)
 ===tādòngcí===
   及物動詞, 及物动词 (tr. jíwù dòngcí), 他動詞, 他动词 (tr. tādòngcí) :: transitive verb (a verb that is accompanied by a direct object) (noun)
 ===太空===
@@ -2640,10 +2640,10 @@ Index: zh zh->en
 ===太陽===
   太陽, 太阳 (tr. tàiyáng), 日 (tr. rì) :: sun (the star around which the Earth revolves) (proper noun)
   太陽, 太阳 (tr. tàiyáng), 恒星 (tr. héngxīng), 日 (tr. rì) :: sun (any star, especially when seen as the centre of any single solar system) (noun)
-  太陽, 日頭, 熱頭 :: sun (the star around which the Earth revolves) (proper noun)
+  (Cantonese) 太陽, 日頭, 熱頭 :: sun (the star around which the Earth revolves) (proper noun)
 ===tàikōng===
-  宇宙 (yǔzhòu), 太空 (tàikōng), 外層空間, 外层空间 (wàicéng kōngjiān) :: outer space (region) (noun)
   美國國家航空航天局, 美国国家航空航天局 (tr. Měiguó guójiā hángkōng hángtiānjú), (Taiwan) 美國國家航空暨太空總署, 美国国家航空暨太空总署 (tr. Měiguó guójiā hángkōng jì tàikōng zǒngshǔ) :: NASA (National Aeronautics and Space Administration) ({{acronym}})
+  宇宙 (yǔzhòu), 太空 (tàikōng), 外層空間, 外层空间 (wàicéng kōngjiān) :: outer space (region) (noun)
 ===tàiyáng===
   太陽, 太阳 (tr. tàiyáng), 日 (tr. rì) :: sun (the star around which the Earth revolves) (proper noun)
   太陽, 太阳 (tr. tàiyáng), 恒星 (tr. héngxīng), 日 (tr. rì) :: sun (any star, especially when seen as the centre of any single solar system) (noun)
@@ -2677,7 +2677,7 @@ Index: zh zh->en
 ===填色===
   填色 (tián sè), 上色 (shàng sè), 著色 (zhuó sè) :: color (give something color) (verb)
 ===天時冷===
-  天時冷 (tr. tin1 si4 laang) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
+  (Cantonese) 天時冷 (tr. tin1 si4 laang) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
 ===tiānkōng===
   天空 (tr. tiānkōng) :: sky (atmosphere above a point) (noun)
 ===条约===
@@ -2707,11 +2707,11 @@ Index: zh zh->en
   鐵路, 铁路 (tr. tiělù), 鐵道, 铁道 (tr. tiědào) :: railway (track, consisting of parallel rails) (noun)
   鐵路, 铁路 (tr. tiělù), 鐵道, 铁道 (tr. tiědào) :: railway (transport system using these rails) (noun)
 ===tin1===
-  天時冷 (tr. tin1 si4 laang) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
+  (Cantonese) 天時冷 (tr. tin1 si4 laang) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
 ===to===
   (no verb to indicate age: subject + number of years + ) + 歲, 岁 (tr. suì) :: be (used to indicate age) (verb)
 ===tok===
-  Taap<sup>3</sup>naap<sup>6</sup>tok<sup>3</sup>si<sup>1</sup> :: Thanatos (Thanatos, the god of death) (noun)
+  (Cantonese) Taap<sup>3</sup>naap<sup>6</sup>tok<sup>3</sup>si<sup>1</sup> :: Thanatos (Thanatos, the god of death) (noun)
 ===tōng===
   (Min Nan) tōng-sû :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
 ===通暢===
@@ -2727,8 +2727,8 @@ Index: zh zh->en
 ===tóngyìcí===
   同義詞, 同义词 (tr. tóngyìcí), 代名詞, 代名词 (tr. dàimíngcí), (near-synonym) 近義詞, 近义词 (tr. jìnyìcí) :: synonym (word with same meaning as another) (noun)
 ===tóu===
-  罐頭, 罐头 (guàn tóu) :: can (a more or less cylindrical vessel for liquids) (noun)
   頭, 头 (tr. tóu), 頭腦, 头脑 (tr. tóunǎo) :: head (part of the body) (noun)
+  罐頭, 罐头 (guàn tóu) :: can (a more or less cylindrical vessel for liquids) (noun)
 ===头===
   頭, 头 (tr. tóu), 頭腦, 头脑 (tr. tóunǎo) :: head (part of the body) (noun)
 ===頭===
@@ -2859,32 +2859,32 @@ Index: zh zh->en
 ===wèntí===
   常見問題, 常见问题 (tr. chángjiàn wèntí), 問答集, 问答集 (tr. wèndájí) :: FAQ (acronym for Frequently Asked Questions) (noun)
 ===wǒ===
-  我很喜歡你, 我很喜欢你 (wǒ hěn xǐ huan nǐ) :: I love you (platonic expression of inclination or liking) (phrase)
   我愛你, 我爱你 (tr. wǒ ài nǐ) :: I love you (affirmation of affection or deep caring) (phrase)
   我愛你, 我爱你 (tr. wǒ ài nǐ) :: I love you (affirmation of romantic feeling) (phrase)
+  我很喜歡你, 我很喜欢你 (wǒ hěn xǐ huan nǐ) :: I love you (platonic expression of inclination or liking) (phrase)
 ===wo===
   (Wu) 我爱侬 (tr. wo ei non, ngu ei non) :: I love you (affirmation of romantic feeling) (phrase)
 ===我爱你===
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
   我愛你, 我爱你 (tr. wǒ ài nǐ) :: I love you (affirmation of affection or deep caring) (phrase)
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
   我愛你, 我爱你 (tr. wǒ ài nǐ) :: I love you (affirmation of romantic feeling) (phrase)
 ===我愛你===
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
   我愛你, 我爱你 (tr. wǒ ài nǐ) :: I love you (affirmation of affection or deep caring) (phrase)
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
   我愛你, 我爱你 (tr. wǒ ài nǐ) :: I love you (affirmation of romantic feeling) (phrase)
 ===我爱侬===
   (Wu) 我爱侬 (tr. wo ei non, ngu ei non) :: I love you (affirmation of romantic feeling) (phrase)
 ===我好鍾意你===
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
 ===我很喜欢你===
   我很喜歡你, 我很喜欢你 (wǒ hěn xǐ huan nǐ) :: I love you (platonic expression of inclination or liking) (phrase)
 ===我很喜歡你===
   我很喜歡你, 我很喜欢你 (wǒ hěn xǐ huan nǐ) :: I love you (platonic expression of inclination or liking) (phrase)
 ===我鐘意你===
-  我鐘意你 (ngo5 zung1 yi3 nei5) :: I love you (platonic expression of inclination or liking) (phrase)
+  (Cantonese) 我鐘意你 (ngo5 zung1 yi3 nei5) :: I love you (platonic expression of inclination or liking) (phrase)
 ===wú===
   把某東西看作是無價值的, 把某东西看作是无价值的 (bǎ mǒu dōngxi kànzuò shì wú jiàzhí de) :: floccinaucinihilipilification (act or habit of describing or regarding something as unimportant) (noun)
 ===wǔ===
@@ -2896,7 +2896,7 @@ Index: zh zh->en
   把某東西看作是無價值的, 把某东西看作是无价值的 (bǎ mǒu dōngxi kànzuò shì wú jiàzhí de) :: floccinaucinihilipilification (act or habit of describing or regarding something as unimportant) (noun)
 ===五===
   (Standard Chinese (Mandarin)) 五 (wǔ) (numeral: 伍) :: five (five (5)) (cardinal number)
-  五 (ng5) :: five (five (5)) (cardinal number)
+  (Cantonese) 五 (ng5) :: five (five (5)) (cardinal number)
   (Eastern Hokkien (Min Dong)) 五 (ngu) :: five (five (5)) (cardinal number)
   (Northern Hokkien (Min Bei)) 五 (ngo) :: five (five (5)) (cardinal number)
   (Wu) 五 (hen) :: five (five (5)) (cardinal number)
@@ -2950,7 +2950,7 @@ Index: zh zh->en
 ===xǐ===
   我很喜歡你, 我很喜欢你 (wǒ hěn xǐ huan nǐ) :: I love you (platonic expression of inclination or liking) (phrase)
 ===係===
-  是 (tr. si4) (formal and written), 係 (tr. hai6) (vernacular) :: be (used to indicate that the subject and object are the same) (verb)
+  (Cantonese) 是 (tr. si4) (formal and written), 係 (tr. hai6) (vernacular) :: be (used to indicate that the subject and object are the same) (verb)
 ===xià===
   [[下]][[定]][[意]] (xiàdìngyì) :: definition (action or process of defining) (noun)
   [[下]][[定]][[意]] (xiàdìngyì) :: definition (act of defining) (noun)
@@ -3008,14 +3008,14 @@ Index: zh zh->en
 ===xīnbùzàiyān===
   心不在焉 (tr. xīnbùzàiyān) :: absent-minded (absent in mind) (adjective)
 ===xīng===
-  星 (xīng) :: star (celebrity) (noun)
   恆星, 恒星 (tr. héngxīng), 明星 (tr. míngxīng), 星 (tr. xīng) :: star (luminous celestial body) (noun)
+  星 (xīng) :: star (celebrity) (noun)
 ===星===
   恆星, 恒星 (tr. héngxīng), 明星 (tr. míngxīng), 星 (tr. xīng) :: star (luminous celestial body) (noun)
   星 (xīng) :: star (celebrity) (noun)
 ===星期===
   星期 (tr. xīngqī), 周 (tr. zhōu), 禮拜, 礼拜 (tr. lǐbài) :: week (period of seven days) (noun)
-  星期 (singkei) :: week (period of seven days) (noun)
+  (Cantonese) 星期 (singkei) :: week (period of seven days) (noun)
 ===星期二===
   星期二 (xīngqī èr) :: Tuesday (day of the week) (noun)
 ===星期六===
@@ -3033,12 +3033,12 @@ Index: zh zh->en
 ===星期一===
   星期一 (xīngqī yī) :: Monday (day of the week) (noun)
 ===形容詞===
-  形容詞 :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
+  (Cantonese) 形容詞 :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   [[形容詞]] (xíngróngcí) :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
 ===形容词的===
   形容词的 :: adjective (functioning as an adjective) (adjective)
 ===形容詞的===
-  形容詞的 :: adjective (functioning as an adjective) (adjective)
+  (Cantonese) 形容詞的 :: adjective (functioning as an adjective) (adjective)
 ===行星===
   行星 (tr. xíngxīng) :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
   (Min Nan) 行星 (tr. hêng-seng) :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
@@ -3049,13 +3049,13 @@ Index: zh zh->en
 ===性質===
   性质, 性質 (xìngzhì) :: quality (differentiating property or attribute) (noun)
 ===xīngqī===
+  星期 (tr. xīngqī), 周 (tr. zhōu), 禮拜, 礼拜 (tr. lǐbài) :: week (period of seven days) (noun)
   星期一 (xīngqī yī) :: Monday (day of the week) (noun)
   星期二 (xīngqī èr) :: Tuesday (day of the week) (noun)
   星期三 (xīngqī sān), 周三 (zhōu sān) :: Wednesday (day of the week) (noun)
   星期四 (xīngqī sì) :: Thursday (day of the week) (noun)
   星期五 (xīngqī wǔ) :: Friday (day of the week) (noun)
   星期六 (xīngqī liù) :: Saturday (day of the week) (noun)
-  星期 (tr. xīngqī), 周 (tr. zhōu), 禮拜, 礼拜 (tr. lǐbài) :: week (period of seven days) (noun)
 ===xīngqīrì===
   (formal) 星期日 (tr. xīngqīrì), (informal) 星期天 (tr. xīngqītiān), 禮拜日, 礼拜日 (tr. lǐbàirì), (colloquial) 禮拜天, 礼拜天 (tr. lǐbàitiān) :: Sunday (day of the week) (noun)
 ===xīngqītiān===
@@ -3063,9 +3063,9 @@ Index: zh zh->en
 ===xíngróngcí===
   [[形容詞]] (xíngróngcí) :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
 ===xíngxīng===
-  行星 (xíngxīng) :: planet (similar body in orbit around a star) (noun)
   行星 (tr. xíngxīng) :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
   行星 (tr. xíngxīng) :: planet (rocky or gaseous spherical bodies orbiting the Sun) (noun)
+  行星 (xíngxīng) :: planet (similar body in orbit around a star) (noun)
 ===xìngzhì===
   性质, 性質 (xìngzhì) :: quality (differentiating property or attribute) (noun)
 ===xìnjiàn===
@@ -3134,12 +3134,12 @@ Index: zh zh->en
 ===yàowù===
   药 (yào), 药材 (yàocái), 藥物 (yàowù), 药物 (yàowù), 经方 (jīngfāng) :: medicine (substance which promotes healing) (noun)
 ===yat===
-  今日 (gam<sup>1</sup>yat<sup>6</sup>) :: today (today (noun)) (noun)
-  今日 (tr. gam<sup>1</sup>yat<sup>6</sup>) :: today (on the current day) (adverb)
+  (Cantonese) 今日 (tr. gam<sup>1</sup>yat<sup>6</sup>) :: today (on the current day) (adverb)
+  (Cantonese) 今日 (gam<sup>1</sup>yat<sup>6</sup>) :: today (today (noun)) (noun)
 ===yat1===
-  一 (yat1) :: one (cardinal number 1) (cardinal number)
+  (Cantonese) 一 (yat1) :: one (cardinal number 1) (cardinal number)
 ===yat6===
-  日本 (tr. yat6 bun2) :: Japan (A Far East country in Asia) (proper noun)
+  (Cantonese) 日本 (tr. yat6 bun2) :: Japan (A Far East country in Asia) (proper noun)
 ===ye===
   (Wu) 一 (ye) :: one (cardinal number 1) (cardinal number)
 ===years===
@@ -3155,7 +3155,7 @@ Index: zh zh->en
   [[定]][[意]] (dìngyì) :: definition (product of defining) (noun)
   [[下]][[定]][[意]] (xiàdìngyì) :: definition (action or power of describing, explaining, or making definite) (noun)
 ===一===
-  一 (yat1) :: one (cardinal number 1) (cardinal number)
+  (Cantonese) 一 (yat1) :: one (cardinal number 1) (cardinal number)
   一, 壹 (yī) :: one (cardinal number 1) (cardinal number)
   (Min Dong (Eastern Hokkien)) 一 (sio) :: one (cardinal number 1) (cardinal number)
   (Gan) 一 (yit) :: one (cardinal number 1) (cardinal number)
@@ -3191,19 +3191,19 @@ Index: zh zh->en
 ===议长===
   主席 (tr. zhǔxí), 議長, 议长 (tr. yìzhǎng) :: chairman (person presiding over a meeting) (noun)
 ===議長===
-  主席 (tr. zyu2 zik6) 議長 (tr. ji5 zoeng2) :: chairman (person presiding over a meeting) (noun)
+  (Cantonese) 主席 (tr. zyu2 zik6) 議長 (tr. ji5 zoeng2) :: chairman (person presiding over a meeting) (noun)
   主席 (tr. zhǔxí), 議長, 议长 (tr. yìzhǎng) :: chairman (person presiding over a meeting) (noun)
 ===易装癖===
   易裝癖, 易装癖 (tr. yìzhūangpì), 人妖 (tr. rényāo) :: transvestite (cross-dresser) (noun)
 ===易裝癖===
   易裝癖, 易装癖 (tr. yìzhūangpì), 人妖 (tr. rényāo) :: transvestite (cross-dresser) (noun)
 ===yi3===
-  我鐘意你 (ngo5 zung1 yi3 nei5) :: I love you (platonic expression of inclination or liking) (phrase)
+  (Cantonese) 我鐘意你 (ngo5 zung1 yi3 nei5) :: I love you (platonic expression of inclination or liking) (phrase)
 ===yi4===
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
 ===yi6===
-  二 (tr. yi6), 两 :: two (one plus one) (cardinal number)
+  (Cantonese) 二 (tr. yi6), 两 :: two (one plus one) (cardinal number)
 ===yìkè===
   異客, 异客 (tr. yìkè), 陌生人 (tr. mòshēngrén) :: alien (person, etc. from outside) (noun)
 ===Yîn===
@@ -3223,7 +3223,7 @@ Index: zh zh->en
 ===yīng===
   老鷹 (lǎoyīng) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
 ===Yīng===
-  英文 (tr. Yīng-mán) :: English (the English language) (proper noun)
+  (Cantonese) 英文 (tr. Yīng-mán) :: English (the English language) (proper noun)
 ===英镑===
   (British pound) 英鎊, 英镑 (tr. Yīngbàng) :: pound (unit of currency) (noun)
 ===英鎊===
@@ -3237,7 +3237,7 @@ Index: zh zh->en
 ===英國人===
   英國人, 英国人 (tr. Yīngguórén) :: English (person from England) (proper noun)
 ===英文===
-  英文 (tr. Yīng-mán) :: English (the English language) (proper noun)
+  (Cantonese) 英文 (tr. Yīng-mán) :: English (the English language) (proper noun)
   (Hakka) 英文 (tr. Yîn-vùn) :: English (the English language) (proper noun)
   英語, 英语 (tr. Yīngyǔ), 英文 (tr. Yīngwén) :: English (the English language) (proper noun)
   (Simplified) 英语的 (Yīngyǔ de), 英文的 (Yīngwén de) :: English (of or pertaining to the English language) (adjective)
@@ -3261,13 +3261,13 @@ Index: zh zh->en
 ===Yīngguórén===
   英國人, 英国人 (tr. Yīngguórén) :: English (person from England) (proper noun)
 ===Yīngwén===
+  英語, 英语 (tr. Yīngyǔ), 英文 (tr. Yīngwén) :: English (the English language) (proper noun)
   (Simplified) 英语的 (Yīngyǔ de), 英文的 (Yīngwén de) :: English (of or pertaining to the English language) (adjective)
   (Traditional) 英語的 (Yīngyǔ de), 英文的 (Yīngwén de) :: English (of or pertaining to the English language) (adjective)
-  英語, 英语 (tr. Yīngyǔ), 英文 (tr. Yīngwén) :: English (the English language) (proper noun)
 ===Yīngyǔ===
+  英語, 英语 (tr. Yīngyǔ), 英文 (tr. Yīngwén) :: English (the English language) (proper noun)
   (Simplified) 英语的 (Yīngyǔ de), 英文的 (Yīngwén de) :: English (of or pertaining to the English language) (adjective)
   (Traditional) 英語的 (Yīngyǔ de), 英文的 (Yīngwén de) :: English (of or pertaining to the English language) (adjective)
-  英語, 英语 (tr. Yīngyǔ), 英文 (tr. Yīngwén) :: English (the English language) (proper noun)
 ===yǐnshuǐ===
   潮吹 (tr. cháochuī), 淫水 (tr. yǐnshuǐ), (slang) 出水 (tr. chūshuǐ) :: cum (slang: female ejaculatory discharge) (noun)
 ===yīnwèi===
@@ -3394,8 +3394,8 @@ Index: zh zh->en
 ===yuē===
   大概 (tr. dàgài), 約, 约 (tr. yuē) :: about (around) (preposition)
 ===yuè===
-  (the adjectives are in a dictionary form) 越……越…… (tr. yuè...yuè...) (example: 越<u>热</u>越<u>好</u> yuè rè yuè hǎo "the hotter the better"), 愈……愈…… (tr. yù...yù...) :: the (the + ～comparative, the + comparative) (adverb)
   月 (tr. yuè), 月份 (tr. yuèfèn) :: month (period into which a year is divided) (noun)
+  (the adjectives are in a dictionary form) 越……越…… (tr. yuè...yuè...) (example: 越<u>热</u>越<u>好</u> yuè rè yuè hǎo "the hotter the better"), 愈……愈…… (tr. yù...yù...) :: the (the + ～comparative, the + comparative) (adverb)
 ===约===
   大概 (tr. dàgài), 約, 约 (tr. yuē) :: about (around) (preposition)
 ===約===
@@ -3558,8 +3558,8 @@ Index: zh zh->en
 ===zhōngyī===
   中医, 中醫 (zhōngyī) :: medicine (treatment or cure) (noun)
 ===zhōu===
-  星期三 (xīngqī sān), 周三 (zhōu sān) :: Wednesday (day of the week) (noun)
   星期 (tr. xīngqī), 周 (tr. zhōu), 禮拜, 礼拜 (tr. lǐbài) :: week (period of seven days) (noun)
+  星期三 (xīngqī sān), 周三 (zhōu sān) :: Wednesday (day of the week) (noun)
 ===周===
   星期 (tr. xīngqī), 周 (tr. zhōu), 禮拜, 礼拜 (tr. lǐbài) :: week (period of seven days) (noun)
 ===晝===
@@ -3569,7 +3569,7 @@ Index: zh zh->en
 ===朱瓜===
   (Min Nan) 朱瓜 (tr. chu-koe), 金瓜 (tr. kim-koe) :: pumpkin (fruit of this plant) (noun)
 ===主席===
-  主席 (tr. zyu2 zik6) 議長 (tr. ji5 zoeng2) :: chairman (person presiding over a meeting) (noun)
+  (Cantonese) 主席 (tr. zyu2 zik6) 議長 (tr. ji5 zoeng2) :: chairman (person presiding over a meeting) (noun)
   主席 (tr. zhǔxí), 議長, 议长 (tr. yìzhǎng) :: chairman (person presiding over a meeting) (noun)
 ===专有名词===
   專有名詞, 专有名词 (tr. zhuānyǒu míngcí), 固有名詞, 固有名词 (tr. gùyǒu míngcí) :: proper noun (The name of a particular person, place, organization or other individual entity) (noun)
@@ -3603,7 +3603,7 @@ Index: zh zh->en
 ===zīgé===
   有資格, 有资格 (tr. yǒu zīgé) :: able (legally qualified) (adjective)
 ===zik6===
-  主席 (tr. zyu2 zik6) 議長 (tr. ji5 zoeng2) :: chairman (person presiding over a meeting) (noun)
+  (Cantonese) 主席 (tr. zyu2 zik6) 議長 (tr. ji5 zoeng2) :: chairman (person presiding over a meeting) (noun)
 ===zìmǔ===
   字母 (tr. zìmǔ) :: alphabet (an ordered set of letters used in a language) (noun)
   字母 (tr. zìmǔ) :: letter (letter of the alphabet) (noun)
@@ -3617,7 +3617,7 @@ Index: zh zh->en
 ===zìyuán===
   詞源, 词源 (tr. cíyuán), 語源, 语源 (tr. yǔyuán), 字源 (tr. zìyuán) :: etymology (account of the origin and historical development of a word) (noun)
 ===zoeng2===
-  主席 (tr. zyu2 zik6) 議長 (tr. ji5 zoeng2) :: chairman (person presiding over a meeting) (noun)
+  (Cantonese) 主席 (tr. zyu2 zik6) 議長 (tr. ji5 zoeng2) :: chairman (person presiding over a meeting) (noun)
 ===棕色===
   棕色 (tr. zōngsè), 褐色 (tr. hèsè) :: brown (colour) (noun)
   褐色 (tr. hèsè), 棕色 (tr. zōngsè), (coffee colour) 咖啡色 (tr. kāfēisè) :: brown (having brown colour) (adjective)
@@ -3633,13 +3633,13 @@ Index: zh zh->en
 ===阻止===
   阻止 (tr. zu zhi), 除去 (tr. chu qu) :: abate (to bar, to except) (verb)
 ===zung1===
-  我鐘意你 (ngo5 zung1 yi3 nei5) :: I love you (platonic expression of inclination or liking) (phrase)
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
+  (Cantonese) 我鐘意你 (ngo5 zung1 yi3 nei5) :: I love you (platonic expression of inclination or liking) (phrase)
 ===zyu2===
-  主席 (tr. zyu2 zik6) 議長 (tr. ji5 zoeng2) :: chairman (person presiding over a meeting) (noun)
+  (Cantonese) 主席 (tr. zyu2 zik6) 議長 (tr. ji5 zoeng2) :: chairman (person presiding over a meeting) (noun)
 ===?===
-  屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
+  (Cantonese) 屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
 
 Index: en en->zh
 ===00===
@@ -3651,7 +3651,7 @@ Index: en en->zh
   零 (líng) (numeral: 〇, 零) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   (Min Nan) 空 (tr. khòng) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   (Teochew) kang3, leng5 :: zero (cardinal number before 1, denoting nothing) (cardinal number)
-  一 (yat1) :: one (cardinal number 1) (cardinal number)
+  (Cantonese) 一 (yat1) :: one (cardinal number 1) (cardinal number)
   一, 壹 (yī) :: one (cardinal number 1) (cardinal number)
   (Min Dong (Eastern Hokkien)) 一 (sio) :: one (cardinal number 1) (cardinal number)
   (Gan) 一 (yit) :: one (cardinal number 1) (cardinal number)
@@ -3667,7 +3667,7 @@ Index: en en->zh
   世纪 (shìjì) :: century (100 years) (noun)
 ===11===
   (Standard Chinese (Mandarin)) 十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
-  十 (sap6) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
+  (Cantonese) 十 (sap6) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Teochew) zab8 :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Eastern Hokkien (Min Dong)) 十 (sek) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Wu) 十 (ze) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
@@ -3678,10 +3678,10 @@ Index: en en->zh
 ===16===
   磅 (bàng) :: pound (unit of mass (16 ounces avoirdupois)) (noun)
 ===24===
-  日 (tr. jat6) :: day (period of 24 hours) (noun)
+  (Cantonese) 日 (tr. jat6) :: day (period of 24 hours) (noun)
   日 (tr. rì), 天 (tr. tiān) :: day (period of 24 hours) (noun)
 ===3===
-  三 (sam1) :: three (cardinal number 3) (cardinal number)
+  (Cantonese) 三 (sam1) :: three (cardinal number 3) (cardinal number)
   (Eastern Hokkien (Min Dong)) 三 (sang) :: three (cardinal number 3) (cardinal number)
   三 (sān) (numeral: 參) :: three (cardinal number 3) (cardinal number)
   (Teochew) san1, sam1 :: three (cardinal number 3) (cardinal number)
@@ -3689,19 +3689,19 @@ Index: en en->zh
 ===4===
   (Old Chinese) 亖 (tr. *hljids) :: four (the cardinal number 4) (cardinal number)
   四 (tr. [[sì]]) (numeral: 肆) :: four (the cardinal number 4) (cardinal number)
-  四 (tr. sei<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
+  (Cantonese) 四 (tr. sei<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
   (Teochew) 四 (tr. si<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
   四 (sì) :: four (the digit or figure 4) (noun)
 ===5===
   (Standard Chinese (Mandarin)) 五 (wǔ) (numeral: 伍) :: five (five (5)) (cardinal number)
-  五 (ng5) :: five (five (5)) (cardinal number)
+  (Cantonese) 五 (ng5) :: five (five (5)) (cardinal number)
   (Teochew) ngou6 :: five (five (5)) (cardinal number)
   (Eastern Hokkien (Min Dong)) 五 (ngu) :: five (five (5)) (cardinal number)
   (Northern Hokkien (Min Bei)) 五 (ngo) :: five (five (5)) (cardinal number)
   (Wu) 五 (hen) :: five (five (5)) (cardinal number)
 ===7===
   (Standard Chinese (Mandarin)) 七 (qī) (numeral: 柒) :: seven (cardinal number 7) (cardinal number)
-  七 (chat1) :: seven (cardinal number 7) (cardinal number)
+  (Cantonese) 七 (chat1) :: seven (cardinal number 7) (cardinal number)
   (Teochew) cig4 :: seven (cardinal number 7) (cardinal number)
   (Eastern Hokkien (Min Dong)) 七 (chek) :: seven (cardinal number 7) (cardinal number)
   (Wu) 七 (chi) :: seven (cardinal number 7) (cardinal number)
@@ -3709,7 +3709,7 @@ Index: en en->zh
 ===8===
   (Standard Chinese (Mandarin)) 八 (bā) (numeral: 捌) :: eight (cardinal number 8) (cardinal number)
   (Bai) 八 (pya) :: eight (cardinal number 8) (cardinal number)
-  八 (baat3) :: eight (cardinal number 8) (cardinal number)
+  (Cantonese) 八 (baat3) :: eight (cardinal number 8) (cardinal number)
   (Teochew) boih4 :: eight (cardinal number 8) (cardinal number)
   (Eastern Hokkien (Min Dong)) 八 (paik) :: eight (cardinal number 8) (cardinal number)
   (Northern Hokkien (Min Bei)) 八 (pai) :: eight (cardinal number 8) (cardinal number)
@@ -3720,7 +3720,7 @@ Index: en en->zh
 ===9===
   十億, 十亿 (tr. shíyì) :: billion (a thousand million; 1,000,000,000; 10<sup>9</sup>; a milliard) (cardinal number)
   (Standard Chinese (Mandarin)) 十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
-  十 (sap6) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
+  (Cantonese) 十 (sap6) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Teochew) zab8 :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Eastern Hokkien (Min Dong)) 十 (sek) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Wu) 十 (ze) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
@@ -3826,7 +3826,7 @@ Index: en en->zh
 ===abstract===
   數, 数 (tr. shù), 數目, 数目 (tr. shùmù), 數字, 数字 (tr. shùzì) :: number (abstract entity) (noun)
 ===abuse===
-  屌你老母 (diu2nei3lo3mo3) :: motherfucker (generic term of abuse) (noun)
+  (Cantonese) 屌你老母 (diu2nei3lo3mo3) :: motherfucker (generic term of abuse) (noun)
   傻屄 (tr. shǎbī), 肏你媽 , 肏你妈 (tr. cào nǐ mā), 幹你娘, 干你娘 (tr. gàn nǐ niang) :: motherfucker (generic term of abuse) (noun)
 ===accept===
   接受 (tr. jiēshòu) :: accept (to receive with consent) (verb)
@@ -3866,7 +3866,7 @@ Index: en en->zh
   [[下]][[定]][[意]] (xiàdìngyì) :: definition (act of defining) (noun)
   強奸, 强奸 (tr. qiángjiān) :: rape (act of forcing sexual activity) (noun)
 ===action===
-  動詞 (tr. dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  (Cantonese) 動詞 (tr. dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   動詞, 动词 (dòngcí) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   (Min Nan) tōng-sû :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   See Mandarin :: definition (action or process of defining) (noun)
@@ -3879,37 +3879,37 @@ Index: en en->zh
 ===address===
   噢 (tr. ō), 喔 (tr. ō) :: o (vocative particle to mark direct address) (interjection)
 ===adjective===
-  形容詞的 :: adjective (functioning as an adjective) (adjective)
+  (Cantonese) 形容詞的 :: adjective (functioning as an adjective) (adjective)
   形容词的 :: adjective (functioning as an adjective) (adjective)
-  形容詞 :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
+  (Cantonese) 形容詞 :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   [[形容詞]] (xíngróngcí) :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   (Min Nan) hêng-iông-sû :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   (not used) :: be (used to connect a noun to an adjective that describes it) (verb)
 ===Administration===
   美國國家航空航天局, 美国国家航空航天局 (tr. Měiguó guójiā hángkōng hángtiānjú), (Taiwan) 美國國家航空暨太空總署, 美国国家航空暨太空总署 (tr. Měiguó guójiā hángkōng jì tàikōng zǒngshǔ) :: NASA (National Aeronautics and Space Administration) ({{acronym}})
 ===adult===
-  男人 :: man (adult male human) (noun)
+  (Cantonese) 男人 :: man (adult male human) (noun)
   男人 (tr. nánrén), 男的 (tr. nánde) :: man (adult male human) (noun)
   (Min Nan) 查埔人 (tr. cha-po͘-lâng), 男人 (tr. lâm-jîn) :: man (adult male human) (noun)
 ===adverb===
-  副詞 (tr. fu3 ci4) :: adverb (lexical category) (noun)
+  (Cantonese) 副詞 (tr. fu3 ci4) :: adverb (lexical category) (noun)
   副詞, 副词 (tr. fùcí) :: adverb (lexical category) (noun)
   (Min Nan) hù-sû :: adverb (lexical category) (noun)
 ===Aeronautics===
   美國國家航空航天局, 美国国家航空航天局 (tr. Měiguó guójiā hángkōng hángtiānjú), (Taiwan) 美國國家航空暨太空總署, 美国国家航空暨太空总署 (tr. Měiguó guójiā hángkōng jì tàikōng zǒngshǔ) :: NASA (National Aeronautics and Space Administration) ({{acronym}})
 ===affection===
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
   我愛你, 我爱你 (tr. wǒ ài nǐ) :: I love you (affirmation of affection or deep caring) (phrase)
 ===affirmation===
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
   我愛你, 我爱你 (tr. wǒ ài nǐ) :: I love you (affirmation of affection or deep caring) (phrase)
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
   我愛你, 我爱你 (tr. wǒ ài nǐ) :: I love you (affirmation of romantic feeling) (phrase)
   (Wu) 我爱侬 (tr. wo ei non, ngu ei non) :: I love you (affirmation of romantic feeling) (phrase)
 ===after===
   (afternoon) 下午 (tr. xiàwǔ), (evening, night) 晚上 (tr. wǎnshang) :: PM (after 12:00:00) ({{initialism}})
   (Standard Chinese (Mandarin)) 十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
-  十 (sap6) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
+  (Cantonese) 十 (sap6) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Teochew) zab8 :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Eastern Hokkien (Min Dong)) 十 (sek) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Wu) 十 (ze) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
@@ -3940,10 +3940,10 @@ Index: en en->zh
 ===and===
   傾盆大雨, 倾盆大雨 (tr. qīngpéndàyǔ) :: rain cats and dogs (to rain very heavily) (verb)
 ===animal===
-  狗 (tr. gau2), 犬 (tr. hyun1) :: dog (animal) (noun)
+  (Cantonese) 狗 (tr. gau2), 犬 (tr. hyun1) :: dog (animal) (noun)
   狗 (tr. gǒu), 犬 (tr. quǎn) :: dog (animal) (noun)
   狼 (tr. láng) :: wolf (animal) (noun)
-  肉 (tr. juk6) :: meat (animal flesh used as food) (noun)
+  (Cantonese) 肉 (tr. juk6) :: meat (animal flesh used as food) (noun)
   肉 (tr. ròu) :: meat (animal flesh used as food) (noun)
 ===another===
   同義詞, 同义词 (tr. tóngyìcí), 代名詞, 代名词 (tr. dàimíngcí), (near-synonym) 近義詞, 近义词 (tr. jìnyìcí) :: synonym (word with same meaning as another) (noun)
@@ -3962,7 +3962,7 @@ Index: en en->zh
 ===any===
   烏鴉, 乌鸦 (tr. wūyā) :: crow (any bird of the genus Corvus) (noun)
   不管怎樣, 不管怎样 (tr. [[bùguǎn]] [[zěnyàng]]) :: whatever (no matter which; for any) (determiner)
-  肉 (juk6) :: meat (any sort of flesh) (noun)
+  (Cantonese) 肉 (juk6) :: meat (any sort of flesh) (noun)
   肉 (ròu) :: meat (any sort of flesh) (noun)
   太陽, 太阳 (tr. tàiyáng), 恒星 (tr. héngxīng), 日 (tr. rì) :: sun (any star, especially when seen as the centre of any single solar system) (noun)
 ===Any===
@@ -3979,7 +3979,7 @@ Index: en en->zh
   公畝, 公亩 (gōng mǔ) :: are (unit of area) (noun)
   See Mandarin :: definition (bodybuilding: the degree to which individual muscles are distinct) (noun)
   [[清晰]][[度]] (qīngxīdù) :: definition (bodybuilding: the degree to which individual muscles are distinct) (noun)
-  是 (tr. si4) (formal and written), 係 (tr. hai6) (vernacular) :: be (used to indicate that the subject and object are the same) (verb)
+  (Cantonese) 是 (tr. si4) (formal and written), 係 (tr. hai6) (vernacular) :: be (used to indicate that the subject and object are the same) (verb)
   是 (tr. shì) :: be (used to indicate that the subject and object are the same) (verb)
   是 (tr. shì) :: be (used to indicate that the values on either side of an equation are the same) (verb)
   端口 (tr. duānkǒu) :: port (computing: logical or physical construct into and from which data are transferred) (noun)
@@ -3990,7 +3990,7 @@ Index: en en->zh
 ===around===
   大概 (tr. dàgài), 約, 约 (tr. yuē) :: about (around) (preposition)
   行星 (xíngxīng) :: planet (similar body in orbit around a star) (noun)
-  太陽, 日頭, 熱頭 :: sun (the star around which the Earth revolves) (proper noun)
+  (Cantonese) 太陽, 日頭, 熱頭 :: sun (the star around which the Earth revolves) (proper noun)
   太陽, 太阳 (tr. tàiyáng), 日 (tr. rì) :: sun (the star around which the Earth revolves) (proper noun)
   (Min Nan) 日頭 (tr. ji̍t-thâu, li̍t-thâu) :: sun (the star around which the Earth revolves) (proper noun)
 ===arranged===
@@ -4005,7 +4005,7 @@ Index: en en->zh
   百科全書, 百科全书 (tr. bǎikē quánshū) :: encyclopedia (comprehensive reference with articles on a range of topic) (noun)
 ===Asia===
   日本 (tr. [[Rìběn]]) :: Japan (A Far East country in Asia) (proper noun)
-  日本 (tr. yat6 bun2) :: Japan (A Far East country in Asia) (proper noun)
+  (Cantonese) 日本 (tr. yat6 bun2) :: Japan (A Far East country in Asia) (proper noun)
   (Gan) 日本 :: Japan (A Far East country in Asia) (proper noun)
   (Hakka) 日本 (tr. Ngit-pún) :: Japan (A Far East country in Asia) (proper noun)
   (Min Dong) 日本 (tr. Nĭk-buōng) :: Japan (A Far East country in Asia) (proper noun)
@@ -4026,7 +4026,7 @@ Index: en en->zh
 ===attribute===
   性质, 性質 (xìngzhì) :: quality (differentiating property or attribute) (noun)
 ===autumn===
-  秋季 (cau<sup>1</sup>gwai<sup>3</sup>) :: autumn (season) (noun)
+  (Cantonese) 秋季 (cau<sup>1</sup>gwai<sup>3</sup>) :: autumn (season) (noun)
   秋天 (tr. qiūtiān), 秋季 (tr. qiūjì) :: autumn (season) (noun)
   (Min Nan) 秋天 (chhiu-thiⁿ) :: autumn (season) (noun)
 ===auxiliary===
@@ -4049,7 +4049,7 @@ Index: en en->zh
   在 (tr. zài), 有 (tr. yǒu) :: be (occur, take place) (verb)
   是 (tr. shì), 有 (tr. yǒu) :: be (exist) (verb)
   是 (tr. shì), 有 (tr. yǒu), 在 (tr. zài), 來, 来 (tr. lái) :: be (elliptical form of "be here", or similar) (verb)
-  是 (tr. si4) (formal and written), 係 (tr. hai6) (vernacular) :: be (used to indicate that the subject and object are the same) (verb)
+  (Cantonese) 是 (tr. si4) (formal and written), 係 (tr. hai6) (vernacular) :: be (used to indicate that the subject and object are the same) (verb)
   是 (tr. shì) :: be (used to indicate that the subject and object are the same) (verb)
   是 (tr. shì) :: be (used to indicate that the values on either side of an equation are the same) (verb)
   是 (tr. shì), (absent with adjectives) :: be (used to indicate that the subject plays the role of the predicate nominative) (verb)
@@ -4078,7 +4078,7 @@ Index: en en->zh
   (Teochew) kang3, leng5 :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   公元前 (tr. gōngyuánqián) :: BC (before Christ) ({{initialism}})
   (Standard Chinese (Mandarin)) 十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
-  十 (sap6) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
+  (Cantonese) 十 (sap6) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Teochew) zab8 :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Eastern Hokkien (Min Dong)) 十 (sek) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Wu) 十 (ze) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
@@ -4136,13 +4136,13 @@ Index: en en->zh
 ===bones===
   去骨 (qùgǔ) :: bone (to remove bones) (verb)
 ===book===
-  書, 书 (tr. suè) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
+  (Cantonese) 書, 书 (tr. suè) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
   書, 书 (tr. shū) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
   預訂, 预订 (tr. yùdìng) :: book (reserve) (verb)
   分類詞詞典, 分类词词典 (tr. fēnlèicí cídiǎn) :: thesaurus (book of synonyms) (noun)
   百科全书 (bǎikēquánshū) :: encyclopaedia (reference book) (noun)
 ===bound===
-  書, 书 (tr. suè) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
+  (Cantonese) 書, 书 (tr. suè) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
   書, 书 (tr. shū) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
 ===bring===
   减弱 (tr. jian ruo), 减轻 (tr. jian qing) :: abate (to bring down or reduce to a lower state) (verb)
@@ -4200,7 +4200,7 @@ Index: en en->zh
   股票 (tr. gǔpiào) :: stock (finance: capital raised by a company) (noun)
 ===cardinal===
   (Standard Chinese (Mandarin)) 七 (qī) (numeral: 柒) :: seven (cardinal number 7) (cardinal number)
-  七 (chat1) :: seven (cardinal number 7) (cardinal number)
+  (Cantonese) 七 (chat1) :: seven (cardinal number 7) (cardinal number)
   (Teochew) cig4 :: seven (cardinal number 7) (cardinal number)
   (Eastern Hokkien (Min Dong)) 七 (chek) :: seven (cardinal number 7) (cardinal number)
   (Wu) 七 (chi) :: seven (cardinal number 7) (cardinal number)
@@ -4208,32 +4208,32 @@ Index: en en->zh
   零 (líng) (numeral: 〇, 零) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   (Min Nan) 空 (tr. khòng) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   (Teochew) kang3, leng5 :: zero (cardinal number before 1, denoting nothing) (cardinal number)
-  一 (yat1) :: one (cardinal number 1) (cardinal number)
+  (Cantonese) 一 (yat1) :: one (cardinal number 1) (cardinal number)
   一, 壹 (yī) :: one (cardinal number 1) (cardinal number)
   (Min Dong (Eastern Hokkien)) 一 (sio) :: one (cardinal number 1) (cardinal number)
   (Gan) 一 (yit) :: one (cardinal number 1) (cardinal number)
   (Jin) 一 (yiu) :: one (cardinal number 1) (cardinal number)
   (Teochew) 一 (ik4, zêg8) :: one (cardinal number 1) (cardinal number)
   (Wu) 一 (ye) :: one (cardinal number 1) (cardinal number)
-  三 (sam1) :: three (cardinal number 3) (cardinal number)
+  (Cantonese) 三 (sam1) :: three (cardinal number 3) (cardinal number)
   (Eastern Hokkien (Min Dong)) 三 (sang) :: three (cardinal number 3) (cardinal number)
   三 (sān) (numeral: 參) :: three (cardinal number 3) (cardinal number)
   (Teochew) san1, sam1 :: three (cardinal number 3) (cardinal number)
   (Wu) 三 (se) :: three (cardinal number 3) (cardinal number)
   (Old Chinese) 亖 (tr. *hljids) :: four (the cardinal number 4) (cardinal number)
   四 (tr. [[sì]]) (numeral: 肆) :: four (the cardinal number 4) (cardinal number)
-  四 (tr. sei<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
+  (Cantonese) 四 (tr. sei<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
   (Teochew) 四 (tr. si<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
   (Standard Chinese (Mandarin)) 六 (liù) (numeral: 陸) :: six (cardinal number) (cardinal number)
   (Bai) 六 (chi) :: six (cardinal number) (cardinal number)
-  六 (luk6) :: six (cardinal number) (cardinal number)
+  (Cantonese) 六 (luk6) :: six (cardinal number) (cardinal number)
   (Teochew) lag8 :: six (cardinal number) (cardinal number)
   (Eastern Hokkien (Min Dong)) 六 (lek) :: six (cardinal number) (cardinal number)
   (Northern Hokkien (Min Bei)) 六 (ly) :: six (cardinal number) (cardinal number)
   (Wu) 六 (lo) :: six (cardinal number) (cardinal number)
   (Standard Chinese (Mandarin)) 八 (bā) (numeral: 捌) :: eight (cardinal number 8) (cardinal number)
   (Bai) 八 (pya) :: eight (cardinal number 8) (cardinal number)
-  八 (baat3) :: eight (cardinal number 8) (cardinal number)
+  (Cantonese) 八 (baat3) :: eight (cardinal number 8) (cardinal number)
   (Teochew) boih4 :: eight (cardinal number 8) (cardinal number)
   (Eastern Hokkien (Min Dong)) 八 (paik) :: eight (cardinal number 8) (cardinal number)
   (Northern Hokkien (Min Bei)) 八 (pai) :: eight (cardinal number 8) (cardinal number)
@@ -4242,19 +4242,19 @@ Index: en en->zh
   (Wu) 八 (ba) :: eight (cardinal number 8) (cardinal number)
   (Xiang) 八 (pa) :: eight (cardinal number 8) (cardinal number)
   (Standard Chinese (Mandarin)) 九 (jiǔ) (numeral: 玖) :: nine (cardinal number) (cardinal number)
-  九 (gau2) :: nine (cardinal number) (cardinal number)
+  (Cantonese) 九 (gau2) :: nine (cardinal number) (cardinal number)
   (Teochew) gao2 :: nine (cardinal number) (cardinal number)
   (Eastern Hokkien (Min Dong)) 九 (kau) :: nine (cardinal number) (cardinal number)
   (Northern Hokkien (Min Bei)) 九 (kiu) :: nine (cardinal number) (cardinal number)
   (Wu) 九 (jiq) :: nine (cardinal number) (cardinal number)
   (Standard Chinese (Mandarin)) 十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
-  十 (sap6) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
+  (Cantonese) 十 (sap6) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Teochew) zab8 :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Eastern Hokkien (Min Dong)) 十 (sek) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Wu) 十 (ze) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Xiang) 十 (su) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
 ===caring===
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
   我愛你, 我爱你 (tr. wǒ ài nǐ) :: I love you (affirmation of affection or deep caring) (phrase)
 ===carnivorous===
   老鷹 (lǎoyīng) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
@@ -4269,10 +4269,10 @@ Index: en en->zh
   (Min Nan) 貓 (tr. niau) :: cat (domestic species) (noun)
   貓, 猫 (tr. māo) :: cat (member of Felidae) (noun)
 ===category===
-  名詞 (tr. ming4 ci4) :: noun (grammatical category) (noun)
+  (Cantonese) 名詞 (tr. ming4 ci4) :: noun (grammatical category) (noun)
   名詞, 名词 (tr. míngcí) :: noun (grammatical category) (noun)
   (Min Nan) bêng-sû :: noun (grammatical category) (noun)
-  副詞 (tr. fu3 ci4) :: adverb (lexical category) (noun)
+  (Cantonese) 副詞 (tr. fu3 ci4) :: adverb (lexical category) (noun)
   副詞, 副词 (tr. fùcí) :: adverb (lexical category) (noun)
   (Min Nan) hù-sû :: adverb (lexical category) (noun)
 ===cats===
@@ -4296,7 +4296,7 @@ Index: en en->zh
   可能 (kěnéng) may be, possible :: may (possibly, but not certainly) (verb)
   當然, 当然 (tr. dāngrán) :: absolutely (yes; certainly) (interjection)
 ===chairman===
-  主席 (tr. zyu2 zik6) 議長 (tr. ji5 zoeng2) :: chairman (person presiding over a meeting) (noun)
+  (Cantonese) 主席 (tr. zyu2 zik6) 議長 (tr. ji5 zoeng2) :: chairman (person presiding over a meeting) (noun)
   主席 (tr. zhǔxí), 議長, 议长 (tr. yìzhǎng) :: chairman (person presiding over a meeting) (noun)
 ===chance===
   骰子 (tr. tóuzi), 色子 (tr. shǎizi) :: die (polyhedron used in games of chance) (noun)
@@ -4305,7 +4305,7 @@ Index: en en->zh
 ===characters===
   (Traditional) 簡體字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
   (Simplified) 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
-  簡體字, 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
+  (Cantonese) 簡體字, 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
   簡體字, 简体字 , jiǎntǐzì :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
   (Min Nan) 簡體字 (tr. kán-thé-jī), 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
 ===chemistry===
@@ -4315,7 +4315,7 @@ Index: en en->zh
 ===Chinese===
   (Traditional) 簡體字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
   (Simplified) 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
-  簡體字, 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
+  (Cantonese) 簡體字, 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
   簡體字, 简体字 , jiǎntǐzì :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
   (Min Nan) 簡體字 (tr. kán-thé-jī), 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
 ===chosen===
@@ -4349,12 +4349,12 @@ Index: en en->zh
 ===collar===
   白領, 白领 (tr. báilǐng) :: white-collar (of or pertaining to office work and workers) (adjective)
 ===collection===
-  書, 书 (tr. suè) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
+  (Cantonese) 書, 书 (tr. suè) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
   書, 书 (tr. shū) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
 ===college===
   年級, 年级 (tr. niánjí), (academic year) 學年, 学年 (tr. xuénián) :: year (a level or grade at school or college) (noun)
 ===colloquial===
-  屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
+  (Cantonese) 屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
   雞巴, 鸡巴 (tr. jība), 屌 (tr. diǎo), (euphemism) 鳥, 鸟 (tr. diǎo) :: dick (colloquial: penis) (noun)
 ===color===
   色 (tr. sè), 顏色, 颜色 (tr. yánsè) :: color (spectral composition of visible light) (noun)
@@ -4425,7 +4425,7 @@ Index: en en->zh
 ===container===
   容器, 容器 (róng qì) :: can (a container used to carry and dispense water for plants) (noun)
 ===containing===
-  書, 书 (tr. suè) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
+  (Cantonese) 書, 书 (tr. suè) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
   書, 书 (tr. shū) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
 ===continuous===
   在 (tr. zài), 正在 (tr. zhèngzài); verb + 著 / 着 (tr. zhe) :: be (used to form the continuous forms of various tenses) (verb)
@@ -4445,13 +4445,13 @@ Index: en en->zh
 ===country===
   內債, 内债 (tr. nèizhài) :: domestic debt (debt owed to creditors resident in the same country as debtor) (noun)
   德國, 德国 (tr. Déguó), 德 (tr. Dé-) :: German (of or relating to the country of Germany) (adjective)
-  墨西哥 :: Mexico (country) (proper noun)
+  (Cantonese) 墨西哥 :: Mexico (country) (proper noun)
   (Gan) 墨西哥 :: Mexico (country) (proper noun)
   (Hakka) Me̍t-sî-kô :: Mexico (country) (proper noun)
   墨西哥 (tr. Mòxīgē) :: Mexico (country) (proper noun)
   (Wu) 墨西哥 :: Mexico (country) (proper noun)
   日本 (tr. [[Rìběn]]) :: Japan (A Far East country in Asia) (proper noun)
-  日本 (tr. yat6 bun2) :: Japan (A Far East country in Asia) (proper noun)
+  (Cantonese) 日本 (tr. yat6 bun2) :: Japan (A Far East country in Asia) (proper noun)
   (Gan) 日本 :: Japan (A Far East country in Asia) (proper noun)
   (Hakka) 日本 (tr. Ngit-pún) :: Japan (A Far East country in Asia) (proper noun)
   (Min Dong) 日本 (tr. Nĭk-buōng) :: Japan (A Far East country in Asia) (proper noun)
@@ -4471,7 +4471,7 @@ Index: en en->zh
 ===cristatus===
   土狼 (tr. tǔláng) :: aardwolf (the mammal species Proteles cristatus) (noun)
 ===cross===
-  契第 (kai daih) :: transvestite (cross-dresser) (noun)
+  (Cantonese) 契第 (kai daih) :: transvestite (cross-dresser) (noun)
   易裝癖, 易装癖 (tr. yìzhūangpì), 人妖 (tr. rényāo) :: transvestite (cross-dresser) (noun)
   (Min Nan) ah qua / ah kua (Hokkien) :: transvestite (cross-dresser) (noun)
 ===crow===
@@ -4483,7 +4483,7 @@ Index: en en->zh
   潮吹 (tr. cháochuī), 淫水 (tr. yǐnshuǐ), (slang) 出水 (tr. chūshuǐ) :: cum (slang: female ejaculatory discharge) (noun)
   射 (tr. shè), 射精 (tr. shèjīng), (slang) 出水 (tr. chūshuǐ) :: cum (slang: have an orgasm; ejaculate) (verb)
 ===cunt===
-  閪 (tr. hai1), 屄 (tr. bei1, hai1) :: cunt (genitalia) (noun)
+  (Cantonese) 閪 (tr. hai1), 屄 (tr. bei1, hai1) :: cunt (genitalia) (noun)
   屄 (tr. bī) :: cunt (genitalia) (noun)
 ===cure===
   中医, 中醫 (zhōngyī) :: medicine (treatment or cure) (noun)
@@ -4491,7 +4491,7 @@ Index: en en->zh
   (British pound) 英鎊, 英镑 (tr. Yīngbàng) :: pound (unit of currency) (noun)
   比索 (tr. bǐsuǒ) :: peso (currency) (noun)
 ===current===
-  今日 (tr. gam<sup>1</sup>yat<sup>6</sup>) :: today (on the current day) (adverb)
+  (Cantonese) 今日 (tr. gam<sup>1</sup>yat<sup>6</sup>) :: today (on the current day) (adverb)
   今天 (tr. [[jīntiān]]), 今日 (tr. [[jīnrì]]) :: today (on the current day) (adverb)
 ===cylindrical===
   罐頭, 罐头 (guàn tóu) :: can (a more or less cylindrical vessel for liquids) (noun)
@@ -4510,7 +4510,7 @@ Index: en en->zh
 ===dates===
   約會, 约会 (tr. yuēhuì) :: date (to take (someone) on a series of dates) (verb)
 ===day===
-  日 (tr. jat6) :: day (period of 24 hours) (noun)
+  (Cantonese) 日 (tr. jat6) :: day (period of 24 hours) (noun)
   日 (tr. rì), 天 (tr. tiān) :: day (period of 24 hours) (noun)
   [[一]][[天]] :: day (period from midnight to the following midnight) (noun)
   [[白]][[晝]] :: day (rotational period of a planet) (noun)
@@ -4523,19 +4523,19 @@ Index: en en->zh
   星期五 (xīngqī wǔ) :: Friday (day of the week) (noun)
   星期六 (xīngqī liù) :: Saturday (day of the week) (noun)
   (formal) 星期日 (tr. xīngqīrì), (informal) 星期天 (tr. xīngqītiān), 禮拜日, 礼拜日 (tr. lǐbàirì), (colloquial) 禮拜天, 礼拜天 (tr. lǐbàitiān) :: Sunday (day of the week) (noun)
-  今日 (tr. gam<sup>1</sup>yat<sup>6</sup>) :: today (on the current day) (adverb)
+  (Cantonese) 今日 (tr. gam<sup>1</sup>yat<sup>6</sup>) :: today (on the current day) (adverb)
   今天 (tr. [[jīntiān]]), 今日 (tr. [[jīnrì]]) :: today (on the current day) (adverb)
   (not used) :: be (used to indicate time of day, day of the week, or date) (verb)
 ===days===
-  星期 (singkei) :: week (period of seven days) (noun)
+  (Cantonese) 星期 (singkei) :: week (period of seven days) (noun)
   星期 (tr. xīngqī), 周 (tr. zhōu), 禮拜, 礼拜 (tr. lǐbài) :: week (period of seven days) (noun)
-  天時冷 (tr. tin1 si4 laang) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
+  (Cantonese) 天時冷 (tr. tin1 si4 laang) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
   冬天 (tr. dōngtiān), 冬季 (tr. dōngjì) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
 ===deal===
   對付, 对付 (tr. duìfu) :: deal (handle, manage) (verb)
 ===death===
   塔納托斯 :: Thanatos (Thanatos, the god of death) (noun)
-  Taap<sup>3</sup>naap<sup>6</sup>tok<sup>3</sup>si<sup>1</sup> :: Thanatos (Thanatos, the god of death) (noun)
+  (Cantonese) Taap<sup>3</sup>naap<sup>6</sup>tok<sup>3</sup>si<sup>1</sup> :: Thanatos (Thanatos, the god of death) (noun)
   Tǎnàtuōsī :: Thanatos (Thanatos, the god of death) (noun)
 ===debt===
   (of gratitude) 人情債, 人情债 (tr. rénqíngzhài) :: debt (action, state of mind, or object one has an obligation to perform for another) (noun)
@@ -4556,7 +4556,7 @@ Index: en en->zh
 ===deduct===
   减少 (tr. jian shao), 省略 (tr. sheng lüe) :: abate (to deduct, to omit) (verb)
 ===deep===
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
   我愛你, 我爱你 (tr. wǒ ài nǐ) :: I love you (affirmation of affection or deep caring) (phrase)
 ===defeated===
   废除 (tr. fei chu) :: abate (to be defeated) (verb)
@@ -4611,7 +4611,7 @@ Index: en en->zh
 ===described===
   是 (tr. shì) :: be (used to indicate that the subject has the qualities described by a noun or noun phrase) (verb)
 ===describes===
-  形容詞 :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
+  (Cantonese) 形容詞 :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   [[形容詞]] (xíngróngcí) :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   (Min Nan) hêng-iông-sû :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   (not used) :: be (used to connect a noun to an adjective that describes it) (verb)
@@ -4637,7 +4637,7 @@ Index: en en->zh
 ===dialect===
   方言 (tr. fāngyán), (suffix) 話, 话 (tr. -huà) :: dialect (variety of a language) (noun)
 ===dick===
-  屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
+  (Cantonese) 屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
   雞巴, 鸡巴 (tr. jība), 屌 (tr. diǎo), (euphemism) 鳥, 鸟 (tr. diǎo) :: dick (colloquial: penis) (noun)
 ===dictionaries===
   詞典編輯, 词典编辑 (cídiǎn biānjí) :: lexicography (art or craft of writing dictionaries) (noun)
@@ -4693,7 +4693,7 @@ Index: en en->zh
 ===doctrine===
   教條, 教条 (tr. jiàotiáo) :: doctrine (belief) (noun)
 ===dog===
-  狗 (tr. gau2), 犬 (tr. hyun1) :: dog (animal) (noun)
+  (Cantonese) 狗 (tr. gau2), 犬 (tr. hyun1) :: dog (animal) (noun)
   狗 (tr. gǒu), 犬 (tr. quǎn) :: dog (animal) (noun)
 ===dogs===
   傾盆大雨, 倾盆大雨 (tr. qīngpéndàyǔ) :: rain cats and dogs (to rain very heavily) (verb)
@@ -4706,7 +4706,7 @@ Index: en en->zh
   打败 (tr. da bai), 击倒 (tr. ji dao) :: abate (to bring down a person physically or mentally) (verb)
   撤销 (tr. che xiao) :: abate (obsolete: to bring entirely down or put an end to) (verb)
 ===dresser===
-  契第 (kai daih) :: transvestite (cross-dresser) (noun)
+  (Cantonese) 契第 (kai daih) :: transvestite (cross-dresser) (noun)
   易裝癖, 易装癖 (tr. yìzhūangpì), 人妖 (tr. rényāo) :: transvestite (cross-dresser) (noun)
   (Min Nan) ah qua / ah kua (Hokkien) :: transvestite (cross-dresser) (noun)
 ===drink===
@@ -4727,14 +4727,14 @@ Index: en en->zh
   外星人 (tr. wàixīngrén), 宇宙人 (tr. yǔzhòurén) :: alien (life form of non-Earth origin) (noun)
   年 (tr. nián) :: year (time it takes for the Earth to complete one revolution of the Sun) (noun)
   (Min Nan) 年 (tr. nî) :: year (time it takes for the Earth to complete one revolution of the Sun) (noun)
-  太陽, 日頭, 熱頭 :: sun (the star around which the Earth revolves) (proper noun)
+  (Cantonese) 太陽, 日頭, 熱頭 :: sun (the star around which the Earth revolves) (proper noun)
   太陽, 太阳 (tr. tàiyáng), 日 (tr. rì) :: sun (the star around which the Earth revolves) (proper noun)
   (Min Nan) 日頭 (tr. ji̍t-thâu, li̍t-thâu) :: sun (the star around which the Earth revolves) (proper noun)
 ===earthly===
   化身 (tr. huàshēn) :: avatar (The earthly incarnation of a deity, particularly Vishnu) (noun)
 ===East===
   日本 (tr. [[Rìběn]]) :: Japan (A Far East country in Asia) (proper noun)
-  日本 (tr. yat6 bun2) :: Japan (A Far East country in Asia) (proper noun)
+  (Cantonese) 日本 (tr. yat6 bun2) :: Japan (A Far East country in Asia) (proper noun)
   (Gan) 日本 :: Japan (A Far East country in Asia) (proper noun)
   (Hakka) 日本 (tr. Ngit-pún) :: Japan (A Far East country in Asia) (proper noun)
   (Min Dong) 日本 (tr. Nĭk-buōng) :: Japan (A Far East country in Asia) (proper noun)
@@ -4747,7 +4747,7 @@ Index: en en->zh
 ===eight===
   (Standard Chinese (Mandarin)) 八 (bā) (numeral: 捌) :: eight (cardinal number 8) (cardinal number)
   (Bai) 八 (pya) :: eight (cardinal number 8) (cardinal number)
-  八 (baat3) :: eight (cardinal number 8) (cardinal number)
+  (Cantonese) 八 (baat3) :: eight (cardinal number 8) (cardinal number)
   (Teochew) boih4 :: eight (cardinal number 8) (cardinal number)
   (Eastern Hokkien (Min Dong)) 八 (paik) :: eight (cardinal number 8) (cardinal number)
   (Northern Hokkien (Min Bei)) 八 (pai) :: eight (cardinal number 8) (cardinal number)
@@ -4798,7 +4798,7 @@ Index: en en->zh
   (Traditional) 英語的 (Yīngyǔ de), 英文的 (Yīngwén de) :: English (of or pertaining to the English language) (adjective)
   (Simplified) 英格兰的 (Yīnggélán de) :: English (of or pertaining to England) (adjective)
   (Traditional) 英格蘭的 :: English (of or pertaining to England) (adjective)
-  英文 (tr. Yīng-mán) :: English (the English language) (proper noun)
+  (Cantonese) 英文 (tr. Yīng-mán) :: English (the English language) (proper noun)
   (Hakka) 英文 (tr. Yîn-vùn) :: English (the English language) (proper noun)
   英語, 英语 (tr. Yīngyǔ), 英文 (tr. Yīngwén) :: English (the English language) (proper noun)
   (Min Dong) 英語, 英语 (tr. Ĭng-ngṳ̄) :: English (the English language) (proper noun)
@@ -4833,7 +4833,7 @@ Index: en en->zh
   荷蘭, 荷兰 (tr. Hélán) :: Netherlands (country in northwestern Europe) (proper noun)
   (Min Nan) Kē-tē-kok :: Netherlands (country in northwestern Europe) (proper noun)
 ===event===
-  動詞 (tr. dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  (Cantonese) 動詞 (tr. dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   動詞, 动词 (dòngcí) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   (Min Nan) tōng-sû :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   日期 (tr. rìqī) :: date (point of time at which a transaction or event takes place) (noun)
@@ -4863,7 +4863,7 @@ Index: en en->zh
   See Mandarin :: definition (statement expressing the essential nature of something) (noun)
   [[定]][[意]] (dìngyì) :: definition (statement expressing the essential nature of something) (noun)
 ===expression===
-  我鐘意你 (ngo5 zung1 yi3 nei5) :: I love you (platonic expression of inclination or liking) (phrase)
+  (Cantonese) 我鐘意你 (ngo5 zung1 yi3 nei5) :: I love you (platonic expression of inclination or liking) (phrase)
   我很喜歡你, 我很喜欢你 (wǒ hěn xǐ huan nǐ) :: I love you (platonic expression of inclination or liking) (phrase)
 ===eye===
   晶狀體, 晶状体 (tr. jīngzhuàngtǐ), 水晶體, 水晶体 (tr. shuǐjīngtǐ) :: lens (anatomy: transparent crystalline structure in the eye) (noun)
@@ -4878,7 +4878,7 @@ Index: en en->zh
   常見問題, 常见问题 (tr. chángjiàn wèntí), 問答集, 问答集 (tr. wèndájí) :: FAQ (acronym for Frequently Asked Questions) (noun)
 ===Far===
   日本 (tr. [[Rìběn]]) :: Japan (A Far East country in Asia) (proper noun)
-  日本 (tr. yat6 bun2) :: Japan (A Far East country in Asia) (proper noun)
+  (Cantonese) 日本 (tr. yat6 bun2) :: Japan (A Far East country in Asia) (proper noun)
   (Gan) 日本 :: Japan (A Far East country in Asia) (proper noun)
   (Hakka) 日本 (tr. Ngit-pún) :: Japan (A Far East country in Asia) (proper noun)
   (Min Dong) 日本 (tr. Nĭk-buōng) :: Japan (A Far East country in Asia) (proper noun)
@@ -4892,7 +4892,7 @@ Index: en en->zh
 ===February===
   二月 (èryuè) :: February (second month of the Gregorian calendar) (proper noun)
 ===feeling===
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
   我愛你, 我爱你 (tr. wǒ ài nǐ) :: I love you (affirmation of romantic feeling) (phrase)
   (Wu) 我爱侬 (tr. wo ei non, ngu ei non) :: I love you (affirmation of romantic feeling) (phrase)
 ===Felidae===
@@ -4920,7 +4920,7 @@ Index: en en->zh
   鱈魚, 鳕鱼 (tr. xuěyú) :: cod (marine fish of the family Gadidae) (noun)
 ===five===
   (Standard Chinese (Mandarin)) 五 (wǔ) (numeral: 伍) :: five (five (5)) (cardinal number)
-  五 (ng5) :: five (five (5)) (cardinal number)
+  (Cantonese) 五 (ng5) :: five (five (5)) (cardinal number)
   (Teochew) ngou6 :: five (five (5)) (cardinal number)
   (Eastern Hokkien (Min Dong)) 五 (ngu) :: five (five (5)) (cardinal number)
   (Northern Hokkien (Min Bei)) 五 (ngo) :: five (five (5)) (cardinal number)
@@ -4934,9 +4934,9 @@ Index: en en->zh
 ===flavour===
   给调味 :: season (to flavour food) (verb)
 ===flesh===
-  肉 (tr. juk6) :: meat (animal flesh used as food) (noun)
+  (Cantonese) 肉 (tr. juk6) :: meat (animal flesh used as food) (noun)
   肉 (tr. ròu) :: meat (animal flesh used as food) (noun)
-  肉 (juk6) :: meat (any sort of flesh) (noun)
+  (Cantonese) 肉 (juk6) :: meat (any sort of flesh) (noun)
   肉 (ròu) :: meat (any sort of flesh) (noun)
 ===flexible===
   弹簧, 发条 (fātiáo) :: spring (device made of flexible material) (noun)
@@ -4950,7 +4950,7 @@ Index: en en->zh
   [[一]][[天]] :: day (period from midnight to the following midnight) (noun)
 ===food===
   给调味 :: season (to flavour food) (verb)
-  肉 (tr. juk6) :: meat (animal flesh used as food) (noun)
+  (Cantonese) 肉 (tr. juk6) :: meat (animal flesh used as food) (noun)
   肉 (tr. ròu) :: meat (animal flesh used as food) (noun)
 ===force===
   強奸, 强奸 (tr. qiángjiān), 強暴, 强暴 (tr. qiángbào) :: rape (force sexual intercourse) (verb)
@@ -4972,13 +4972,13 @@ Index: en en->zh
 ===four===
   (Old Chinese) 亖 (tr. *hljids) :: four (the cardinal number 4) (cardinal number)
   四 (tr. [[sì]]) (numeral: 肆) :: four (the cardinal number 4) (cardinal number)
-  四 (tr. sei<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
+  (Cantonese) 四 (tr. sei<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
   (Teochew) 四 (tr. si<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
   四 (sì) :: four (the digit or figure 4) (noun)
   四分之一 (sì fēn zhīyī) :: quarter (one of four equal parts) (noun)
 ===fourth===
   四月 (sìyuè) :: April (fourth month of the Gregorian calendar) (proper noun)
-  天時冷 (tr. tin1 si4 laang) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
+  (Cantonese) 天時冷 (tr. tin1 si4 laang) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
   冬天 (tr. dōngtiān), 冬季 (tr. dōngjì) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
 ===frame===
   算盤, 算盘 (suànpán) :: abacus (calculating frame) (noun)
@@ -5003,7 +5003,7 @@ Index: en en->zh
 ===friend===
   偽友, 伪友 (tr. wěi yǒu), 假友 (tr. jiǎ yǒu), 假等義, 假等义 (tr. jiǎ děngyì) :: false friend (false friend) (noun)
 ===fruit===
-  南瓜 (tr. naam4 gwaa1),番瓜 (tr. faan1 gwaa1) :: pumpkin (fruit of this plant) (noun)
+  (Cantonese) 南瓜 (tr. naam4 gwaa1),番瓜 (tr. faan1 gwaa1) :: pumpkin (fruit of this plant) (noun)
   南瓜 (tr. nánguā) :: pumpkin (fruit of this plant) (noun)
   (Min Nan) 朱瓜 (tr. chu-koe), 金瓜 (tr. kim-koe) :: pumpkin (fruit of this plant) (noun)
   橙 (tr. chéng), 橙子 (tr. chéngzi), (technically "tangerine", but often used as "orange") 橘子 (tr. júzi), (alternative form:) 桔子 (tr. júzi) :: orange (fruit) (noun)
@@ -5011,7 +5011,7 @@ Index: en en->zh
 ===function===
   (Traditional Chinese) 中斷, 放棄 :: abort (The function used to abort a process) (noun)
 ===functioning===
-  形容詞的 :: adjective (functioning as an adjective) (adjective)
+  (Cantonese) 形容詞的 :: adjective (functioning as an adjective) (adjective)
   形容词的 :: adjective (functioning as an adjective) (adjective)
 ===further===
   无论如何, wúlùnrúhé :: whatever (indicating the matter is not worthy of further discussion) (interjection)
@@ -5027,10 +5027,10 @@ Index: en en->zh
   屁 (pì) :: fart (an emission of flatulent gases) (noun)
   放屁 (tr. fàng pì) :: fart (to emit flatulent gases) (verb)
 ===generic===
-  屌你老母 (diu2nei3lo3mo3) :: motherfucker (generic term of abuse) (noun)
+  (Cantonese) 屌你老母 (diu2nei3lo3mo3) :: motherfucker (generic term of abuse) (noun)
   傻屄 (tr. shǎbī), 肏你媽 , 肏你妈 (tr. cào nǐ mā), 幹你娘, 干你娘 (tr. gàn nǐ niang) :: motherfucker (generic term of abuse) (noun)
 ===genitalia===
-  閪 (tr. hai1), 屄 (tr. bei1, hai1) :: cunt (genitalia) (noun)
+  (Cantonese) 閪 (tr. hai1), 屄 (tr. bei1, hai1) :: cunt (genitalia) (noun)
   屄 (tr. bī) :: cunt (genitalia) (noun)
 ===genuine===
   假 (tr. jiǎ de-), 虛擬, 虚拟 (tr. xūnǐ de-) :: pseudo- (not genuine) (prefix)
@@ -5059,7 +5059,7 @@ Index: en en->zh
   地獄, 地狱 (tr. dìyù) :: hell (where sinners go) (proper noun)
 ===god===
   塔納托斯 :: Thanatos (Thanatos, the god of death) (noun)
-  Taap<sup>3</sup>naap<sup>6</sup>tok<sup>3</sup>si<sup>1</sup> :: Thanatos (Thanatos, the god of death) (noun)
+  (Cantonese) Taap<sup>3</sup>naap<sup>6</sup>tok<sup>3</sup>si<sup>1</sup> :: Thanatos (Thanatos, the god of death) (noun)
   Tǎnàtuōsī :: Thanatos (Thanatos, the god of death) (noun)
 ===God===
   一神教 (yishenjiao) :: monotheism (The belief in a single God) (noun)
@@ -5074,16 +5074,16 @@ Index: en en->zh
 ===grain===
   (to take with a grain of salt; not to be believed literally) 不可全信 (tr. bùkěquánxìn) :: grain of salt (with common sense and skepticism) (noun)
 ===grammar===
-  動詞 (tr. dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  (Cantonese) 動詞 (tr. dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   動詞, 动词 (dòngcí) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   (Min Nan) tōng-sû :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
-  形容詞 :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
+  (Cantonese) 形容詞 :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   [[形容詞]] (xíngróngcí) :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   (Min Nan) hêng-iông-sû :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   及物 (tr. jíwù) :: transitive (in grammar: of a verb, that takes an object or objects) (adjective)
   單數, 单数 (tr. dānshù) :: singular (grammar: form of a word that refers to only one thing) (noun)
 ===grammatical===
-  名詞 (tr. ming4 ci4) :: noun (grammatical category) (noun)
+  (Cantonese) 名詞 (tr. ming4 ci4) :: noun (grammatical category) (noun)
   名詞, 名词 (tr. míngcí) :: noun (grammatical category) (noun)
   (Min Nan) bêng-sû :: noun (grammatical category) (noun)
 ===graphite===
@@ -5152,22 +5152,22 @@ Index: en en->zh
 ===hour===
   小時, 小时 (tr. xiǎoshí), (informal) 鐘頭, 钟头 (tr. zhōngtóu) :: hour (Time period of sixty minutes) (noun)
 ===hours===
-  日 (tr. jat6) :: day (period of 24 hours) (noun)
+  (Cantonese) 日 (tr. jat6) :: day (period of 24 hours) (noun)
   日 (tr. rì), 天 (tr. tiān) :: day (period of 24 hours) (noun)
 ===human===
-  男人 :: man (adult male human) (noun)
+  (Cantonese) 男人 :: man (adult male human) (noun)
   男人 (tr. nánrén), 男的 (tr. nánde) :: man (adult male human) (noun)
   (Min Nan) 查埔人 (tr. cha-po͘-lâng), 男人 (tr. lâm-jîn) :: man (adult male human) (noun)
   人 (tr. rén), 人類, 人类 (tr. rénlèi) :: man (human) (noun)
 ===i===
   (English letter names are called as in English, no other standard Mandarin name exists) :: i (name of the letter I, i) (noun)
 ===I===
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
   我愛你, 我爱你 (tr. wǒ ài nǐ) :: I love you (affirmation of affection or deep caring) (phrase)
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
   我愛你, 我爱你 (tr. wǒ ài nǐ) :: I love you (affirmation of romantic feeling) (phrase)
   (Wu) 我爱侬 (tr. wo ei non, ngu ei non) :: I love you (affirmation of romantic feeling) (phrase)
-  我鐘意你 (ngo5 zung1 yi3 nei5) :: I love you (platonic expression of inclination or liking) (phrase)
+  (Cantonese) 我鐘意你 (ngo5 zung1 yi3 nei5) :: I love you (platonic expression of inclination or liking) (phrase)
   我很喜歡你, 我很喜欢你 (wǒ hěn xǐ huan nǐ) :: I love you (platonic expression of inclination or liking) (phrase)
 ===idea===
   多元文化 (tr. duōyuán wénhuà) :: multiculturalism (societal idea) (noun)
@@ -5185,10 +5185,10 @@ Index: en en->zh
 ===incarnation===
   化身 (tr. huàshēn) :: avatar (The earthly incarnation of a deity, particularly Vishnu) (noun)
 ===inclination===
-  我鐘意你 (ngo5 zung1 yi3 nei5) :: I love you (platonic expression of inclination or liking) (phrase)
+  (Cantonese) 我鐘意你 (ngo5 zung1 yi3 nei5) :: I love you (platonic expression of inclination or liking) (phrase)
   我很喜歡你, 我很喜欢你 (wǒ hěn xǐ huan nǐ) :: I love you (platonic expression of inclination or liking) (phrase)
 ===indicate===
-  是 (tr. si4) (formal and written), 係 (tr. hai6) (vernacular) :: be (used to indicate that the subject and object are the same) (verb)
+  (Cantonese) 是 (tr. si4) (formal and written), 係 (tr. hai6) (vernacular) :: be (used to indicate that the subject and object are the same) (verb)
   是 (tr. shì) :: be (used to indicate that the subject and object are the same) (verb)
   是 (tr. shì) :: be (used to indicate that the values on either side of an equation are the same) (verb)
   是 (tr. shì), (absent with adjectives) :: be (used to indicate that the subject plays the role of the predicate nominative) (verb)
@@ -5199,7 +5199,7 @@ Index: en en->zh
   (not used) :: be (used to indicate weather, air quality, or the like) (verb)
   是 (tr. shì) :: be (used to indicate temperature) (verb)
 ===indicates===
-  動詞 (tr. dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  (Cantonese) 動詞 (tr. dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   動詞, 动词 (dòngcí) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   (Min Nan) tōng-sû :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
 ===indicating===
@@ -5249,7 +5249,7 @@ Index: en en->zh
   一月 (yīyuè), 元月 (yuányuè) :: January (first month of the Gregorian calendar) (proper noun)
 ===Japan===
   日本 (tr. [[Rìběn]]) :: Japan (A Far East country in Asia) (proper noun)
-  日本 (tr. yat6 bun2) :: Japan (A Far East country in Asia) (proper noun)
+  (Cantonese) 日本 (tr. yat6 bun2) :: Japan (A Far East country in Asia) (proper noun)
   (Gan) 日本 :: Japan (A Far East country in Asia) (proper noun)
   (Hakka) 日本 (tr. Ngit-pún) :: Japan (A Far East country in Asia) (proper noun)
   (Min Dong) 日本 (tr. Nĭk-buōng) :: Japan (A Far East country in Asia) (proper noun)
@@ -5288,7 +5288,7 @@ Index: en en->zh
   方言 (tr. fāngyán), (suffix) 話, 话 (tr. -huà) :: dialect (variety of a language) (noun)
   (Simplified) 英语的 (Yīngyǔ de), 英文的 (Yīngwén de) :: English (of or pertaining to the English language) (adjective)
   (Traditional) 英語的 (Yīngyǔ de), 英文的 (Yīngwén de) :: English (of or pertaining to the English language) (adjective)
-  英文 (tr. Yīng-mán) :: English (the English language) (proper noun)
+  (Cantonese) 英文 (tr. Yīng-mán) :: English (the English language) (proper noun)
   (Hakka) 英文 (tr. Yîn-vùn) :: English (the English language) (proper noun)
   英語, 英语 (tr. Yīngyǔ), 英文 (tr. Yīngwén) :: English (the English language) (proper noun)
   (Min Dong) 英語, 英语 (tr. Ĭng-ngṳ̄) :: English (the English language) (proper noun)
@@ -5341,7 +5341,7 @@ Index: en en->zh
   年級, 年级 (tr. niánjí), (academic year) 學年, 学年 (tr. xuénián) :: year (a level or grade at school or college) (noun)
   質量, 质量 (zhìliàng), 品质, 品質 (pǐnzhì), 水准, 水準 (shuǐzhǔn) :: quality (level of excellence) (noun)
 ===lexical===
-  副詞 (tr. fu3 ci4) :: adverb (lexical category) (noun)
+  (Cantonese) 副詞 (tr. fu3 ci4) :: adverb (lexical category) (noun)
   副詞, 副词 (tr. fùcí) :: adverb (lexical category) (noun)
   (Min Nan) hù-sû :: adverb (lexical category) (noun)
 ===lexicographer===
@@ -5356,7 +5356,7 @@ Index: en en->zh
 ===like===
   (not used) :: be (used to indicate weather, air quality, or the like) (verb)
 ===liking===
-  我鐘意你 (ngo5 zung1 yi3 nei5) :: I love you (platonic expression of inclination or liking) (phrase)
+  (Cantonese) 我鐘意你 (ngo5 zung1 yi3 nei5) :: I love you (platonic expression of inclination or liking) (phrase)
   我很喜歡你, 我很喜欢你 (wǒ hěn xǐ huan nǐ) :: I love you (platonic expression of inclination or liking) (phrase)
 ===limitations===
   [[自由]]的 (zìyóu de) :: free (software: with very few limitations on distribution or improvement) (adjective)
@@ -5381,19 +5381,19 @@ Index: en en->zh
 ===logical===
   端口 (tr. duānkǒu) :: port (computing: logical or physical construct into and from which data are transferred) (noun)
 ===love===
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
   我愛你, 我爱你 (tr. wǒ ài nǐ) :: I love you (affirmation of affection or deep caring) (phrase)
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
   我愛你, 我爱你 (tr. wǒ ài nǐ) :: I love you (affirmation of romantic feeling) (phrase)
   (Wu) 我爱侬 (tr. wo ei non, ngu ei non) :: I love you (affirmation of romantic feeling) (phrase)
-  我鐘意你 (ngo5 zung1 yi3 nei5) :: I love you (platonic expression of inclination or liking) (phrase)
+  (Cantonese) 我鐘意你 (ngo5 zung1 yi3 nei5) :: I love you (platonic expression of inclination or liking) (phrase)
   我很喜歡你, 我很喜欢你 (wǒ hěn xǐ huan nǐ) :: I love you (platonic expression of inclination or liking) (phrase)
 ===lover===
   約會, 约会 (tr. yuēhuì) :: date (meeting with a lover or potential lover; a person so met) (noun)
 ===lower===
   减弱 (tr. jian ruo), 减轻 (tr. jian qing) :: abate (to bring down or reduce to a lower state) (verb)
 ===lowest===
-  天時冷 (tr. tin1 si4 laang) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
+  (Cantonese) 天時冷 (tr. tin1 si4 laang) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
   冬天 (tr. dōngtiān), 冬季 (tr. dōngjì) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
 ===luminous===
   恆星, 恒星 (tr. héngxīng), 明星 (tr. míngxīng), 星 (tr. xīng) :: star (luminous celestial body) (noun)
@@ -5415,7 +5415,7 @@ Index: en en->zh
   See Mandarin :: definition (action or power of describing, explaining, or making definite) (noun)
   [[下]][[定]][[意]] (xiàdìngyì) :: definition (action or power of describing, explaining, or making definite) (noun)
 ===male===
-  男人 :: man (adult male human) (noun)
+  (Cantonese) 男人 :: man (adult male human) (noun)
   男人 (tr. nánrén), 男的 (tr. nánde) :: man (adult male human) (noun)
   (Min Nan) 查埔人 (tr. cha-po͘-lâng), 男人 (tr. lâm-jîn) :: man (adult male human) (noun)
   精液 (tr. jīngyè) :: cum (slang: male semen) (noun)
@@ -5428,7 +5428,7 @@ Index: en en->zh
   土豚 (tr. tǔtún) :: aardvark (mammal) (noun)
   土狼 (tr. tǔláng) :: aardwolf (the mammal species Proteles cristatus) (noun)
 ===man===
-  男人 :: man (adult male human) (noun)
+  (Cantonese) 男人 :: man (adult male human) (noun)
   男人 (tr. nánrén), 男的 (tr. nánde) :: man (adult male human) (noun)
   (Min Nan) 查埔人 (tr. cha-po͘-lâng), 男人 (tr. lâm-jîn) :: man (adult male human) (noun)
   人 (tr. rén), 人類, 人类 (tr. rénlèi) :: man (human) (noun)
@@ -5443,12 +5443,12 @@ Index: en en->zh
 ===mark===
   噢 (tr. ō), 喔 (tr. ō) :: o (vocative particle to mark direct address) (interjection)
 ===marked===
-  天時冷 (tr. tin1 si4 laang) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
+  (Cantonese) 天時冷 (tr. tin1 si4 laang) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
   冬天 (tr. dōngtiān), 冬季 (tr. dōngjì) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
 ===mass===
   磅 (bàng) :: pound (unit of mass (16 ounces avoirdupois)) (noun)
 ===material===
-  書, 书 (tr. suè) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
+  (Cantonese) 書, 书 (tr. suè) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
   書, 书 (tr. shū) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
   骨質, 骨质 (tr. gǔzhì) :: bone (material) (noun)
   弹簧, 发条 (fātiáo) :: spring (device made of flexible material) (noun)
@@ -5477,11 +5477,11 @@ Index: en en->zh
 ===measure===
   鐘, 钟 (tr. zhōng), 時鐘, 时钟 (tr. shízhōng) :: clock (instrument to measure or keep track of time) (noun)
 ===meat===
-  肉 (tr. juk6) :: meat (animal flesh used as food) (noun)
+  (Cantonese) 肉 (tr. juk6) :: meat (animal flesh used as food) (noun)
   肉 (tr. ròu) :: meat (animal flesh used as food) (noun)
-  肉 (juk6) :: meat (type of meat) (noun)
+  (Cantonese) 肉 (juk6) :: meat (type of meat) (noun)
   肉 (ròu) :: meat (type of meat) (noun)
-  肉 (juk6) :: meat (any sort of flesh) (noun)
+  (Cantonese) 肉 (juk6) :: meat (any sort of flesh) (noun)
   肉 (ròu) :: meat (any sort of flesh) (noun)
 ===mechanical===
   機器人, 机器人 (tr. jīqì rén), 機械人, 机械人 (tr. jīxièrén) :: robot (intelligent mechanical being) (noun)
@@ -5491,7 +5491,7 @@ Index: en en->zh
   醫學, 医学 (yīxué), 方剂学 (fāngjìxué) :: medicine (field of study) (noun)
 ===meeting===
   会议记录 :: minute (record of meeting) (noun)
-  主席 (tr. zyu2 zik6) 議長 (tr. ji5 zoeng2) :: chairman (person presiding over a meeting) (noun)
+  (Cantonese) 主席 (tr. zyu2 zik6) 議長 (tr. ji5 zoeng2) :: chairman (person presiding over a meeting) (noun)
   主席 (tr. zhǔxí), 議長, 议长 (tr. yìzhǎng) :: chairman (person presiding over a meeting) (noun)
   約會, 约会 (tr. yuēhuì) :: date (pre-arranged social meeting) (noun)
   約會, 约会 (tr. yuēhuì) :: date (meeting with a lover or potential lover; a person so met) (noun)
@@ -5510,7 +5510,7 @@ Index: en en->zh
 ===met===
   約會, 约会 (tr. yuēhuì) :: date (meeting with a lover or potential lover; a person so met) (noun)
 ===Mexico===
-  墨西哥 :: Mexico (country) (proper noun)
+  (Cantonese) 墨西哥 :: Mexico (country) (proper noun)
   (Gan) 墨西哥 :: Mexico (country) (proper noun)
   (Hakka) Me̍t-sî-kô :: Mexico (country) (proper noun)
   墨西哥 (tr. Mòxīgē) :: Mexico (country) (proper noun)
@@ -5542,7 +5542,7 @@ Index: en en->zh
   中止, 夭折 :: abort (The product of a miscarriage) (noun)
   流產, 流产 (tr. líuchǎn), 失敗, 失败 (tr. shībài), 誤投, 误投 (tr. wùtóu) :: abortion (miscarriage) (noun)
 ===modifies===
-  形容詞 :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
+  (Cantonese) 形容詞 :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   [[形容詞]] (xíngróngcí) :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   (Min Nan) hêng-iông-sû :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
 ===mollusc===
@@ -5570,7 +5570,7 @@ Index: en en->zh
 ===morpheme===
   詞素, 词素 (tr. císù) :: morpheme (smallest linguistic unit) (noun)
 ===motherfucker===
-  屌你老母 (diu2nei3lo3mo3) :: motherfucker (generic term of abuse) (noun)
+  (Cantonese) 屌你老母 (diu2nei3lo3mo3) :: motherfucker (generic term of abuse) (noun)
   傻屄 (tr. shǎbī), 肏你媽 , 肏你妈 (tr. cào nǐ mā), 幹你娘, 干你娘 (tr. gàn nǐ niang) :: motherfucker (generic term of abuse) (noun)
 ===move===
   行星 (tr. xíngxīng) :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
@@ -5628,7 +5628,7 @@ Index: en en->zh
   (Min Nan) 行星 (tr. hêng-seng) :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
 ===nine===
   (Standard Chinese (Mandarin)) 九 (jiǔ) (numeral: 玖) :: nine (cardinal number) (cardinal number)
-  九 (gau2) :: nine (cardinal number) (cardinal number)
+  (Cantonese) 九 (gau2) :: nine (cardinal number) (cardinal number)
   (Teochew) gao2 :: nine (cardinal number) (cardinal number)
   (Eastern Hokkien (Min Dong)) 九 (kau) :: nine (cardinal number) (cardinal number)
   (Northern Hokkien (Min Bei)) 九 (kiu) :: nine (cardinal number) (cardinal number)
@@ -5659,14 +5659,14 @@ Index: en en->zh
   (Min Nan) 空 (tr. khòng) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   (Teochew) kang3, leng5 :: zero (cardinal number before 1, denoting nothing) (cardinal number)
 ===noun===
-  名詞 (tr. ming4 ci4) :: noun (grammatical category) (noun)
+  (Cantonese) 名詞 (tr. ming4 ci4) :: noun (grammatical category) (noun)
   名詞, 名词 (tr. míngcí) :: noun (grammatical category) (noun)
   (Min Nan) bêng-sû :: noun (grammatical category) (noun)
   專有名詞, 专有名词 (tr. zhuānyǒu míngcí), 固有名詞, 固有名词 (tr. gùyǒu míngcí) :: proper noun (The name of a particular person, place, organization or other individual entity) (noun)
-  形容詞 :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
+  (Cantonese) 形容詞 :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   [[形容詞]] (xíngróngcí) :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   (Min Nan) hêng-iông-sû :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
-  今日 (gam<sup>1</sup>yat<sup>6</sup>) :: today (today (noun)) (noun)
+  (Cantonese) 今日 (gam<sup>1</sup>yat<sup>6</sup>) :: today (today (noun)) (noun)
   今天 (jīntiān) :: today (today (noun)) (noun)
   (Min Nan) 今仔日 (kin-á-ji̍t) :: today (today (noun)) (noun)
   (not used) :: be (used to connect a noun to an adjective that describes it) (verb)
@@ -5683,7 +5683,7 @@ Index: en en->zh
   多少 (tr. duōshǎo), 數碼, 数码 (tr. shùmǎ) :: number (quantity) (noun)
   節目, 节目 (tr. jiémù) :: number (performance) (noun)
   (Standard Chinese (Mandarin)) 七 (qī) (numeral: 柒) :: seven (cardinal number 7) (cardinal number)
-  七 (chat1) :: seven (cardinal number 7) (cardinal number)
+  (Cantonese) 七 (chat1) :: seven (cardinal number 7) (cardinal number)
   (Teochew) cig4 :: seven (cardinal number 7) (cardinal number)
   (Eastern Hokkien (Min Dong)) 七 (chek) :: seven (cardinal number 7) (cardinal number)
   (Wu) 七 (chi) :: seven (cardinal number 7) (cardinal number)
@@ -5692,33 +5692,33 @@ Index: en en->zh
   (Min Nan) 空 (tr. khòng) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   (Teochew) kang3, leng5 :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   數詞, 数词 (tr. shùcí), 數字, 数字 (tr. shùzì) :: numeral (word or symbol representing a number) (noun)
-  一 (yat1) :: one (cardinal number 1) (cardinal number)
+  (Cantonese) 一 (yat1) :: one (cardinal number 1) (cardinal number)
   一, 壹 (yī) :: one (cardinal number 1) (cardinal number)
   (Min Dong (Eastern Hokkien)) 一 (sio) :: one (cardinal number 1) (cardinal number)
   (Gan) 一 (yit) :: one (cardinal number 1) (cardinal number)
   (Jin) 一 (yiu) :: one (cardinal number 1) (cardinal number)
   (Teochew) 一 (ik4, zêg8) :: one (cardinal number 1) (cardinal number)
   (Wu) 一 (ye) :: one (cardinal number 1) (cardinal number)
-  三 (sam1) :: three (cardinal number 3) (cardinal number)
+  (Cantonese) 三 (sam1) :: three (cardinal number 3) (cardinal number)
   (Eastern Hokkien (Min Dong)) 三 (sang) :: three (cardinal number 3) (cardinal number)
   三 (sān) (numeral: 參) :: three (cardinal number 3) (cardinal number)
   (Teochew) san1, sam1 :: three (cardinal number 3) (cardinal number)
   (Wu) 三 (se) :: three (cardinal number 3) (cardinal number)
   (Old Chinese) 亖 (tr. *hljids) :: four (the cardinal number 4) (cardinal number)
   四 (tr. [[sì]]) (numeral: 肆) :: four (the cardinal number 4) (cardinal number)
-  四 (tr. sei<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
+  (Cantonese) 四 (tr. sei<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
   (Teochew) 四 (tr. si<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
   少 (tr. shǎo) :: few (small number) (determiner)
   (Standard Chinese (Mandarin)) 六 (liù) (numeral: 陸) :: six (cardinal number) (cardinal number)
   (Bai) 六 (chi) :: six (cardinal number) (cardinal number)
-  六 (luk6) :: six (cardinal number) (cardinal number)
+  (Cantonese) 六 (luk6) :: six (cardinal number) (cardinal number)
   (Teochew) lag8 :: six (cardinal number) (cardinal number)
   (Eastern Hokkien (Min Dong)) 六 (lek) :: six (cardinal number) (cardinal number)
   (Northern Hokkien (Min Bei)) 六 (ly) :: six (cardinal number) (cardinal number)
   (Wu) 六 (lo) :: six (cardinal number) (cardinal number)
   (Standard Chinese (Mandarin)) 八 (bā) (numeral: 捌) :: eight (cardinal number 8) (cardinal number)
   (Bai) 八 (pya) :: eight (cardinal number 8) (cardinal number)
-  八 (baat3) :: eight (cardinal number 8) (cardinal number)
+  (Cantonese) 八 (baat3) :: eight (cardinal number 8) (cardinal number)
   (Teochew) boih4 :: eight (cardinal number 8) (cardinal number)
   (Eastern Hokkien (Min Dong)) 八 (paik) :: eight (cardinal number 8) (cardinal number)
   (Northern Hokkien (Min Bei)) 八 (pai) :: eight (cardinal number 8) (cardinal number)
@@ -5727,13 +5727,13 @@ Index: en en->zh
   (Wu) 八 (ba) :: eight (cardinal number 8) (cardinal number)
   (Xiang) 八 (pa) :: eight (cardinal number 8) (cardinal number)
   (Standard Chinese (Mandarin)) 九 (jiǔ) (numeral: 玖) :: nine (cardinal number) (cardinal number)
-  九 (gau2) :: nine (cardinal number) (cardinal number)
+  (Cantonese) 九 (gau2) :: nine (cardinal number) (cardinal number)
   (Teochew) gao2 :: nine (cardinal number) (cardinal number)
   (Eastern Hokkien (Min Dong)) 九 (kau) :: nine (cardinal number) (cardinal number)
   (Northern Hokkien (Min Bei)) 九 (kiu) :: nine (cardinal number) (cardinal number)
   (Wu) 九 (jiq) :: nine (cardinal number) (cardinal number)
   (Standard Chinese (Mandarin)) 十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
-  十 (sap6) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
+  (Cantonese) 十 (sap6) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Teochew) zab8 :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Eastern Hokkien (Min Dong)) 十 (sek) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Wu) 十 (ze) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
@@ -5757,7 +5757,7 @@ Index: en en->zh
   透鏡, 透镜 (tr. tòujìng), 鏡片, 镜片 (tr. jìngpiàn), 鏡頭, 镜头 (tr. jìngtóu) :: lens (object focusing or defocusing the light passing through it) (noun)
   (of gratitude) 人情債, 人情债 (tr. rénqíngzhài) :: debt (action, state of mind, or object one has an obligation to perform for another) (noun)
   点 (diǎn) :: point (geometry: zero-dimensional object) (noun)
-  是 (tr. si4) (formal and written), 係 (tr. hai6) (vernacular) :: be (used to indicate that the subject and object are the same) (verb)
+  (Cantonese) 是 (tr. si4) (formal and written), 係 (tr. hai6) (vernacular) :: be (used to indicate that the subject and object are the same) (verb)
   是 (tr. shì) :: be (used to indicate that the subject and object are the same) (verb)
   及物動詞, 及物动词 (tr. jíwù dòngcí), 他動詞, 他动词 (tr. tādòngcí) :: transitive verb (a verb that is accompanied by a direct object) (noun)
   及物 (tr. jíwù) :: transitive (in grammar: of a verb, that takes an object or objects) (adjective)
@@ -5777,7 +5777,7 @@ Index: en en->zh
   在 (tr. zài), 有 (tr. yǒu) :: be (occur, take place) (verb)
 ===occurring===
   (Standard Chinese (Mandarin)) 十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
-  十 (sap6) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
+  (Cantonese) 十 (sap6) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Teochew) zab8 :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Eastern Hokkien (Min Dong)) 十 (sek) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Wu) 十 (ze) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
@@ -5800,7 +5800,7 @@ Index: en en->zh
 ===on===
   上 (tr. ...shàng) :: on (positioned at the upper surface of) (preposition)
 ===one===
-  一 (yat1) :: one (cardinal number 1) (cardinal number)
+  (Cantonese) 一 (yat1) :: one (cardinal number 1) (cardinal number)
   一, 壹 (yī) :: one (cardinal number 1) (cardinal number)
   (Min Dong (Eastern Hokkien)) 一 (sio) :: one (cardinal number 1) (cardinal number)
   (Gan) 一 (yit) :: one (cardinal number 1) (cardinal number)
@@ -5852,7 +5852,7 @@ Index: en en->zh
 ===outside===
   異客, 异客 (tr. yìkè), 陌生人 (tr. mòshēngrén) :: alien (person, etc. from outside) (noun)
 ===over===
-  主席 (tr. zyu2 zik6) 議長 (tr. ji5 zoeng2) :: chairman (person presiding over a meeting) (noun)
+  (Cantonese) 主席 (tr. zyu2 zik6) 議長 (tr. ji5 zoeng2) :: chairman (person presiding over a meeting) (noun)
   主席 (tr. zhǔxí), 議長, 议长 (tr. yìzhǎng) :: chairman (person presiding over a meeting) (noun)
 ===owed===
   外債, 外债 (tr. wàizhài), 對外債務, 对外债务 (tr. duìwài zhàiwù) :: foreign debt (a debt owed to foreigners) (noun)
@@ -5866,7 +5866,7 @@ Index: en en->zh
 ===palm===
   棗兒, 枣儿 (tr. zǎor), 金棗, 金枣 (tr. jīnzǎo) :: date (fruit of the date palm) (noun)
 ===paper===
-  書, 书 (tr. suè) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
+  (Cantonese) 書, 书 (tr. suè) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
   書, 书 (tr. shū) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
 ===parallel===
   鐵路, 铁路 (tr. tiělù), 鐵道, 铁道 (tr. tiědào) :: railway (track, consisting of parallel rails) (noun)
@@ -5903,7 +5903,7 @@ Index: en en->zh
 ===pencil===
   鉛筆, 铅笔 (tr. qiānbǐ) :: pencil (graphite writing-instrument) (noun)
 ===penis===
-  屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
+  (Cantonese) 屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
   雞巴, 鸡巴 (tr. jība), 屌 (tr. diǎo), (euphemism) 鳥, 鸟 (tr. diǎo) :: dick (colloquial: penis) (noun)
 ===people===
   大家 (tr. dàjiā) :: everybody (all people) (pronoun)
@@ -5919,7 +5919,7 @@ Index: en en->zh
   音樂家, 音乐家 (tr. yīnyuèjiā) :: musician (person who performs or writes music) (noun)
 ===period===
   月 (tr. yuè), 月份 (tr. yuèfèn) :: month (period into which a year is divided) (noun)
-  日 (tr. jat6) :: day (period of 24 hours) (noun)
+  (Cantonese) 日 (tr. jat6) :: day (period of 24 hours) (noun)
   日 (tr. rì), 天 (tr. tiān) :: day (period of 24 hours) (noun)
   [[一]][[天]] :: day (period from midnight to the following midnight) (noun)
   [[白]][[晝]] :: day (rotational period of a planet) (noun)
@@ -5927,7 +5927,7 @@ Index: en en->zh
   白天 :: day (period between sunrise and sunset) (noun)
   小時, 小时 (tr. xiǎoshí), (informal) 鐘頭, 钟头 (tr. zhōngtóu) :: hour (Time period of sixty minutes) (noun)
   千年 :: millennium (thousand-year period) (noun)
-  星期 (singkei) :: week (period of seven days) (noun)
+  (Cantonese) 星期 (singkei) :: week (period of seven days) (noun)
   星期 (tr. xīngqī), 周 (tr. zhōu), 禮拜, 礼拜 (tr. lǐbài) :: week (period of seven days) (noun)
   十年 (tr. shí nián) :: decade (a period of ten years) (noun)
   两周, 兩周 (tr. liǎngzhōu) :: fortnight (period of two weeks) (noun)
@@ -5980,9 +5980,9 @@ Index: en en->zh
   行星 (xíngxīng) :: planet (similar body in orbit around a star) (noun)
   [[白]][[晝]] :: day (rotational period of a planet) (noun)
 ===plant===
-  南瓜 (tr. naam4 gwaa1),番瓜 (tr. faan1 gwaa1) :: pumpkin (plant) (noun)
+  (Cantonese) 南瓜 (tr. naam4 gwaa1),番瓜 (tr. faan1 gwaa1) :: pumpkin (plant) (noun)
   南瓜 (tr. nánguā) :: pumpkin (plant) (noun)
-  南瓜 (tr. naam4 gwaa1),番瓜 (tr. faan1 gwaa1) :: pumpkin (fruit of this plant) (noun)
+  (Cantonese) 南瓜 (tr. naam4 gwaa1),番瓜 (tr. faan1 gwaa1) :: pumpkin (fruit of this plant) (noun)
   南瓜 (tr. nánguā) :: pumpkin (fruit of this plant) (noun)
   (Min Nan) 朱瓜 (tr. chu-koe), 金瓜 (tr. kim-koe) :: pumpkin (fruit of this plant) (noun)
   蕉麻 (jiāomá)，马尼拉麻 (Mǎnílā má) :: abaca (plant) (noun)
@@ -5992,7 +5992,7 @@ Index: en en->zh
 ===plate===
   金屬容器, 金属容器 (jīn shǔ róng qì) :: can (a tin-plate canister) (noun)
 ===platonic===
-  我鐘意你 (ngo5 zung1 yi3 nei5) :: I love you (platonic expression of inclination or liking) (phrase)
+  (Cantonese) 我鐘意你 (ngo5 zung1 yi3 nei5) :: I love you (platonic expression of inclination or liking) (phrase)
   我很喜歡你, 我很喜欢你 (wǒ hěn xǐ huan nǐ) :: I love you (platonic expression of inclination or liking) (phrase)
 ===plays===
   是 (tr. shì), (absent with adjectives) :: be (used to indicate that the subject plays the role of the predicate nominative) (verb)
@@ -6001,7 +6001,7 @@ Index: en en->zh
   複數, 复数 (tr. fùshù), 眾數, 众数 (tr. zhòngshù) :: plural (word in plural form) (noun)
 ===plus===
   (Bai) 二 (ko) :: two (one plus one) (cardinal number)
-  二 (tr. yi6), 两 :: two (one plus one) (cardinal number)
+  (Cantonese) 二 (tr. yi6), 两 :: two (one plus one) (cardinal number)
   (Gan) 二 (tr. ě) :: two (one plus one) (cardinal number)
   二 (tr. èr), 两 (tr. liǎng) (numeral: 貳) :: two (one plus one) (cardinal number)
   (Min Bei) 二 (ni) :: two (one plus one) (cardinal number)
@@ -6068,10 +6068,10 @@ Index: en en->zh
 ===preserve===
   保存, 保存 (bǎo cún) :: can (to preserve) (verb)
 ===presiding===
-  主席 (tr. zyu2 zik6) 議長 (tr. ji5 zoeng2) :: chairman (person presiding over a meeting) (noun)
+  (Cantonese) 主席 (tr. zyu2 zik6) 議長 (tr. ji5 zoeng2) :: chairman (person presiding over a meeting) (noun)
   主席 (tr. zhǔxí), 議長, 议长 (tr. yìzhǎng) :: chairman (person presiding over a meeting) (noun)
 ===printed===
-  書, 书 (tr. suè) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
+  (Cantonese) 書, 书 (tr. suè) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
   書, 书 (tr. shū) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
 ===prisoner===
   假釋, 假释 (tr. jiǎshì) :: parole (law: a release of (a prisoner)) (noun)
@@ -6105,9 +6105,9 @@ Index: en en->zh
   字典 (tr. zìdiǎn) (character dictionary); 詞典, 词典 (tr. cídiǎn) :: dictionary (publication that explains the meanings of an ordered list of words) (noun)
   (Wu (Suzhou dialect)) zïtip :: dictionary (publication that explains the meanings of an ordered list of words) (noun)
 ===pumpkin===
-  南瓜 (tr. naam4 gwaa1),番瓜 (tr. faan1 gwaa1) :: pumpkin (plant) (noun)
+  (Cantonese) 南瓜 (tr. naam4 gwaa1),番瓜 (tr. faan1 gwaa1) :: pumpkin (plant) (noun)
   南瓜 (tr. nánguā) :: pumpkin (plant) (noun)
-  南瓜 (tr. naam4 gwaa1),番瓜 (tr. faan1 gwaa1) :: pumpkin (fruit of this plant) (noun)
+  (Cantonese) 南瓜 (tr. naam4 gwaa1),番瓜 (tr. faan1 gwaa1) :: pumpkin (fruit of this plant) (noun)
   南瓜 (tr. nánguā) :: pumpkin (fruit of this plant) (noun)
   (Min Nan) 朱瓜 (tr. chu-koe), 金瓜 (tr. kim-koe) :: pumpkin (fruit of this plant) (noun)
 ===put===
@@ -6175,7 +6175,7 @@ Index: en en->zh
   百科全書, 百科全书 (tr. bǎikē quánshū) :: encyclopedia (comprehensive reference with articles on a range of topic) (noun)
   百科全书 (bǎikēquánshū) :: encyclopaedia (reference book) (noun)
 ===referent===
-  形容詞 :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
+  (Cantonese) 形容詞 :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   [[形容詞]] (xíngróngcí) :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   (Min Nan) hêng-iông-sû :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
 ===refers===
@@ -6228,7 +6228,7 @@ Index: en en->zh
   年 (tr. nián) :: year (time it takes for the Earth to complete one revolution of the Sun) (noun)
   (Min Nan) 年 (tr. nî) :: year (time it takes for the Earth to complete one revolution of the Sun) (noun)
 ===revolves===
-  太陽, 日頭, 熱頭 :: sun (the star around which the Earth revolves) (proper noun)
+  (Cantonese) 太陽, 日頭, 熱頭 :: sun (the star around which the Earth revolves) (proper noun)
   太陽, 太阳 (tr. tàiyáng), 日 (tr. rì) :: sun (the star around which the Earth revolves) (proper noun)
   (Min Nan) 日頭 (tr. ji̍t-thâu, li̍t-thâu) :: sun (the star around which the Earth revolves) (proper noun)
 ===right===
@@ -6243,7 +6243,7 @@ Index: en en->zh
 ===Roman===
   罗马数字 :: Roman numeral (a numeral represented by letters) (noun)
 ===romantic===
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
   我愛你, 我爱你 (tr. wǒ ài nǐ) :: I love you (affirmation of romantic feeling) (phrase)
   (Wu) 我爱侬 (tr. wo ei non, ngu ei non) :: I love you (affirmation of romantic feeling) (phrase)
 ===rotational===
@@ -6255,7 +6255,7 @@ Index: en en->zh
 ===same===
   同義詞, 同义词 (tr. tóngyìcí), 代名詞, 代名词 (tr. dàimíngcí), (near-synonym) 近義詞, 近义词 (tr. jìnyìcí) :: synonym (word with same meaning as another) (noun)
   內債, 内债 (tr. nèizhài) :: domestic debt (debt owed to creditors resident in the same country as debtor) (noun)
-  是 (tr. si4) (formal and written), 係 (tr. hai6) (vernacular) :: be (used to indicate that the subject and object are the same) (verb)
+  (Cantonese) 是 (tr. si4) (formal and written), 係 (tr. hai6) (vernacular) :: be (used to indicate that the subject and object are the same) (verb)
   是 (tr. shì) :: be (used to indicate that the subject and object are the same) (verb)
   是 (tr. shì) :: be (used to indicate that the values on either side of an equation are the same) (verb)
 ===Saturday===
@@ -6268,9 +6268,9 @@ Index: en en->zh
 ===season===
   季 (tr. jì), 季節, 季节 (tr. jìjié) :: season (quarter of a year) (noun)
   给调味 :: season (to flavour food) (verb)
-  天時冷 (tr. tin1 si4 laang) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
+  (Cantonese) 天時冷 (tr. tin1 si4 laang) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
   冬天 (tr. dōngtiān), 冬季 (tr. dōngjì) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
-  秋季 (cau<sup>1</sup>gwai<sup>3</sup>) :: autumn (season) (noun)
+  (Cantonese) 秋季 (cau<sup>1</sup>gwai<sup>3</sup>) :: autumn (season) (noun)
   秋天 (tr. qiūtiān), 秋季 (tr. qiūjì) :: autumn (season) (noun)
   (Min Nan) 秋天 (chhiu-thiⁿ) :: autumn (season) (noun)
   夏天 (tr. xiàtiān), 夏季 (tr. xiàjì) :: summer (hottest season) (noun)
@@ -6305,12 +6305,12 @@ Index: en en->zh
   字母 (tr. zìmǔ) :: alphabet (an ordered set of letters used in a language) (noun)
 ===seven===
   (Standard Chinese (Mandarin)) 七 (qī) (numeral: 柒) :: seven (cardinal number 7) (cardinal number)
-  七 (chat1) :: seven (cardinal number 7) (cardinal number)
+  (Cantonese) 七 (chat1) :: seven (cardinal number 7) (cardinal number)
   (Teochew) cig4 :: seven (cardinal number 7) (cardinal number)
   (Eastern Hokkien (Min Dong)) 七 (chek) :: seven (cardinal number 7) (cardinal number)
   (Wu) 七 (chi) :: seven (cardinal number 7) (cardinal number)
   (Xiang) 七 (tshiu) :: seven (cardinal number 7) (cardinal number)
-  星期 (singkei) :: week (period of seven days) (noun)
+  (Cantonese) 星期 (singkei) :: week (period of seven days) (noun)
   星期 (tr. xīngqī), 周 (tr. zhōu), 禮拜, 礼拜 (tr. lǐbài) :: week (period of seven days) (noun)
   行星 (tr. xíngxīng) :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
   (Min Nan) 行星 (tr. hêng-seng) :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
@@ -6330,10 +6330,10 @@ Index: en en->zh
   清晰 (qīngxī) :: definition (sharp demarcation of outlines or limits) (noun)
   酸 (tr. suān) :: acid (sour, sharp, or biting to the taste) (adjective)
 ===sheets===
-  書, 书 (tr. suè) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
+  (Cantonese) 書, 书 (tr. suè) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
   書, 书 (tr. shū) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
 ===short===
-  天時冷 (tr. tin1 si4 laang) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
+  (Cantonese) 天時冷 (tr. tin1 si4 laang) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
   冬天 (tr. dōngtiān), 冬季 (tr. dōngjì) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
 ===shortened===
   縮寫, 缩写 (tr. suōxiě); 簡寫, 简写 (tr. jiǎnxiě); 略語, 略语 (tr. lüèyǔ) :: abbreviation (shortened or contracted form of a word or phrase) (noun)
@@ -6358,13 +6358,13 @@ Index: en en->zh
 ===simplified===
   (Traditional) 簡體字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
   (Simplified) 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
-  簡體字, 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
+  (Cantonese) 簡體字, 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
   簡體字, 简体字 , jiǎntǐzì :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
   (Min Nan) 簡體字 (tr. kán-thé-jī), 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
 ===Simplified===
   (Traditional) 簡體字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
   (Simplified) 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
-  簡體字, 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
+  (Cantonese) 簡體字, 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
   簡體字, 简体字 , jiǎntǐzì :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
   (Min Nan) 簡體字 (tr. kán-thé-jī), 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
 ===sin===
@@ -6379,7 +6379,7 @@ Index: en en->zh
 ===six===
   (Standard Chinese (Mandarin)) 六 (liù) (numeral: 陸) :: six (cardinal number) (cardinal number)
   (Bai) 六 (chi) :: six (cardinal number) (cardinal number)
-  六 (luk6) :: six (cardinal number) (cardinal number)
+  (Cantonese) 六 (luk6) :: six (cardinal number) (cardinal number)
   (Teochew) lag8 :: six (cardinal number) (cardinal number)
   (Eastern Hokkien (Min Dong)) 六 (lek) :: six (cardinal number) (cardinal number)
   (Northern Hokkien (Min Bei)) 六 (ly) :: six (cardinal number) (cardinal number)
@@ -6426,7 +6426,7 @@ Index: en en->zh
 ===someone===
   約會, 约会 (tr. yuēhuì) :: date (to take (someone) on a series of dates) (verb)
 ===sort===
-  肉 (juk6) :: meat (any sort of flesh) (noun)
+  (Cantonese) 肉 (juk6) :: meat (any sort of flesh) (noun)
   肉 (ròu) :: meat (any sort of flesh) (noun)
 ===sound===
   See Mandarin :: definition (clarity, especially of musical sound in reproduction) (noun)
@@ -6469,7 +6469,7 @@ Index: en en->zh
   恆星, 恒星 (tr. héngxīng), 明星 (tr. míngxīng), 星 (tr. xīng) :: star (luminous celestial body) (noun)
   星 (xīng) :: star (celebrity) (noun)
   行星 (xíngxīng) :: planet (similar body in orbit around a star) (noun)
-  太陽, 日頭, 熱頭 :: sun (the star around which the Earth revolves) (proper noun)
+  (Cantonese) 太陽, 日頭, 熱頭 :: sun (the star around which the Earth revolves) (proper noun)
   太陽, 太阳 (tr. tàiyáng), 日 (tr. rì) :: sun (the star around which the Earth revolves) (proper noun)
   (Min Nan) 日頭 (tr. ji̍t-thâu, li̍t-thâu) :: sun (the star around which the Earth revolves) (proper noun)
   太陽, 太阳 (tr. tàiyáng), 恒星 (tr. héngxīng), 日 (tr. rì) :: sun (any star, especially when seen as the centre of any single solar system) (noun)
@@ -6479,7 +6479,7 @@ Index: en en->zh
 ===start===
   誕生 (dànshēng) :: birth (beginning or start; a point of origin) (noun)
 ===state===
-  動詞 (tr. dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  (Cantonese) 動詞 (tr. dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   動詞, 动词 (dòngcí) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   (Min Nan) tōng-sû :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   反對教會分離主義, 反对教会分离主义 (tr. fǎnduì jiàohuì fēnlí zhǔyì) :: antidisestablishmentarianism (philosophy opposed to separing church and state) (noun)
@@ -6511,7 +6511,7 @@ Index: en en->zh
   語源學, 语源学 (tr. yǔyuánxué) :: etymology (study of the historical development of languages, particularly of individual words) (noun)
   醫學, 医学 (yīxué), 方剂学 (fāngjìxué) :: medicine (field of study) (noun)
 ===subject===
-  是 (tr. si4) (formal and written), 係 (tr. hai6) (vernacular) :: be (used to indicate that the subject and object are the same) (verb)
+  (Cantonese) 是 (tr. si4) (formal and written), 係 (tr. hai6) (vernacular) :: be (used to indicate that the subject and object are the same) (verb)
   是 (tr. shì) :: be (used to indicate that the subject and object are the same) (verb)
   是 (tr. shì), (absent with adjectives) :: be (used to indicate that the subject plays the role of the predicate nominative) (verb)
   是 (tr. shì) :: be (used to indicate that the subject has the qualities described by a noun or noun phrase) (verb)
@@ -6525,7 +6525,7 @@ Index: en en->zh
 ===summer===
   夏天 (tr. xiàtiān), 夏季 (tr. xiàjì) :: summer (hottest season) (noun)
 ===sun===
-  太陽, 日頭, 熱頭 :: sun (the star around which the Earth revolves) (proper noun)
+  (Cantonese) 太陽, 日頭, 熱頭 :: sun (the star around which the Earth revolves) (proper noun)
   太陽, 太阳 (tr. tàiyáng), 日 (tr. rì) :: sun (the star around which the Earth revolves) (proper noun)
   (Min Nan) 日頭 (tr. ji̍t-thâu, li̍t-thâu) :: sun (the star around which the Earth revolves) (proper noun)
   太陽, 太阳 (tr. tàiyáng), 恒星 (tr. héngxīng), 日 (tr. rì) :: sun (any star, especially when seen as the centre of any single solar system) (noun)
@@ -6582,11 +6582,11 @@ Index: en en->zh
 ===temperature===
   是 (tr. shì) :: be (used to indicate temperature) (verb)
 ===temperatures===
-  天時冷 (tr. tin1 si4 laang) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
+  (Cantonese) 天時冷 (tr. tin1 si4 laang) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
   冬天 (tr. dōngtiān), 冬季 (tr. dōngjì) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
 ===ten===
   (Standard Chinese (Mandarin)) 十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
-  十 (sap6) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
+  (Cantonese) 十 (sap6) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Teochew) zab8 :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Eastern Hokkien (Min Dong)) 十 (sek) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Wu) 十 (ze) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
@@ -6600,7 +6600,7 @@ Index: en en->zh
 ===tenth===
   十月 (shíyuè) :: October (tenth month of the Gregorian calendar) (proper noun)
 ===term===
-  屌你老母 (diu2nei3lo3mo3) :: motherfucker (generic term of abuse) (noun)
+  (Cantonese) 屌你老母 (diu2nei3lo3mo3) :: motherfucker (generic term of abuse) (noun)
   傻屄 (tr. shǎbī), 肏你媽 , 肏你妈 (tr. cào nǐ mā), 幹你娘, 干你娘 (tr. gàn nǐ niang) :: motherfucker (generic term of abuse) (noun)
 ===termination===
   (Traditional Chinese) 中斷 (tr. zhong duan) :: abort (to cause a premature termination) (verb)
@@ -6610,7 +6610,7 @@ Index: en en->zh
   複數, 复数 (tr. fùshù), 眾數, 众数 (tr. zhòngshù) :: plural (more than one) (adjective)
 ===Thanatos===
   塔納托斯 :: Thanatos (Thanatos, the god of death) (noun)
-  Taap<sup>3</sup>naap<sup>6</sup>tok<sup>3</sup>si<sup>1</sup> :: Thanatos (Thanatos, the god of death) (noun)
+  (Cantonese) Taap<sup>3</sup>naap<sup>6</sup>tok<sup>3</sup>si<sup>1</sup> :: Thanatos (Thanatos, the god of death) (noun)
   Tǎnàtuōsī :: Thanatos (Thanatos, the god of death) (noun)
 ===the===
   not used :: the (article) (article)
@@ -6626,7 +6626,7 @@ Index: en en->zh
   單數, 单数 (tr. dānshù) :: singular (grammar: form of a word that refers to only one thing) (noun)
 ===this===
   等價交換, 等价交换 (tr. děngjià jiāohuàn) :: quid pro quo (this for that) (noun)
-  南瓜 (tr. naam4 gwaa1),番瓜 (tr. faan1 gwaa1) :: pumpkin (fruit of this plant) (noun)
+  (Cantonese) 南瓜 (tr. naam4 gwaa1),番瓜 (tr. faan1 gwaa1) :: pumpkin (fruit of this plant) (noun)
   南瓜 (tr. nánguā) :: pumpkin (fruit of this plant) (noun)
   (Min Nan) 朱瓜 (tr. chu-koe), 金瓜 (tr. kim-koe) :: pumpkin (fruit of this plant) (noun)
   因為, 因为 (tr. yīnwèi), (more formal) 由於, 由于 (tr. yóuyú) :: because (by or for the cause that; on this account that; for the reason that) (conjunction)
@@ -6636,7 +6636,7 @@ Index: en en->zh
 ===thousandth===
   毫秒 :: millisecond (one one-thousandth of a second) (noun)
 ===three===
-  三 (sam1) :: three (cardinal number 3) (cardinal number)
+  (Cantonese) 三 (sam1) :: three (cardinal number 3) (cardinal number)
   (Eastern Hokkien (Min Dong)) 三 (sang) :: three (cardinal number 3) (cardinal number)
   三 (sān) (numeral: 參) :: three (cardinal number 3) (cardinal number)
   (Teochew) san1, sam1 :: three (cardinal number 3) (cardinal number)
@@ -6662,14 +6662,14 @@ Index: en en->zh
 ===tin===
   金屬容器, 金属容器 (jīn shǔ róng qì) :: can (a tin-plate canister) (noun)
 ===today===
-  今日 (tr. gam<sup>1</sup>yat<sup>6</sup>) :: today (on the current day) (adverb)
+  (Cantonese) 今日 (tr. gam<sup>1</sup>yat<sup>6</sup>) :: today (on the current day) (adverb)
   今天 (tr. [[jīntiān]]), 今日 (tr. [[jīnrì]]) :: today (on the current day) (adverb)
   現代, 现代 (tr. [[xiàndài]]) :: today (nowadays) (adverb)
-  今日 (gam<sup>1</sup>yat<sup>6</sup>) :: today (today (noun)) (noun)
+  (Cantonese) 今日 (gam<sup>1</sup>yat<sup>6</sup>) :: today (today (noun)) (noun)
   今天 (jīntiān) :: today (today (noun)) (noun)
   (Min Nan) 今仔日 (kin-á-ji̍t) :: today (today (noun)) (noun)
 ===together===
-  書, 书 (tr. suè) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
+  (Cantonese) 書, 书 (tr. suè) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
   書, 书 (tr. shū) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
 ===toilet===
   廁所, 厕所 (cè suǒ) :: can (toilet) (noun)
@@ -6697,7 +6697,7 @@ Index: en en->zh
 ===transport===
   鐵路, 铁路 (tr. tiělù), 鐵道, 铁道 (tr. tiědào) :: railway (transport system using these rails) (noun)
 ===transvestite===
-  契第 (kai daih) :: transvestite (cross-dresser) (noun)
+  (Cantonese) 契第 (kai daih) :: transvestite (cross-dresser) (noun)
   易裝癖, 易装癖 (tr. yìzhūangpì), 人妖 (tr. rényāo) :: transvestite (cross-dresser) (noun)
   (Min Nan) ah qua / ah kua (Hokkien) :: transvestite (cross-dresser) (noun)
 ===treatment===
@@ -6712,7 +6712,7 @@ Index: en en->zh
   十二月 (shí’èryuè) :: December (twelfth month of the Gregorian calendar) (proper noun)
 ===two===
   (Bai) 二 (ko) :: two (one plus one) (cardinal number)
-  二 (tr. yi6), 两 :: two (one plus one) (cardinal number)
+  (Cantonese) 二 (tr. yi6), 两 :: two (one plus one) (cardinal number)
   (Gan) 二 (tr. ě) :: two (one plus one) (cardinal number)
   二 (tr. èr), 两 (tr. liǎng) (numeral: 貳) :: two (one plus one) (cardinal number)
   (Min Bei) 二 (ni) :: two (one plus one) (cardinal number)
@@ -6723,7 +6723,7 @@ Index: en en->zh
   两周, 兩周 (tr. liǎngzhōu) :: fortnight (period of two weeks) (noun)
 ===type===
   餡餅, 馅饼 (tr. xiànbǐng), 排 (tr. pái), 派 (tr. pài) :: pie (type of pastry) (noun)
-  肉 (juk6) :: meat (type of meat) (noun)
+  (Cantonese) 肉 (juk6) :: meat (type of meat) (noun)
   肉 (ròu) :: meat (type of meat) (noun)
   詠嘆調, 咏叹调 (tr. yǒngtàndiào), 唱段 (tr. chàngduàn), (North China, Yuan dynasty) 北曲 (tr. běiqǔ) :: aria (type of musical piece) (noun)
 ===umbrella===
@@ -6760,10 +6760,10 @@ Index: en en->zh
   容器, 容器 (róng qì) :: can (a container used to carry and dispense water for plants) (noun)
   號碼, 号码 (tr. hàomǎ), 號, 号 (tr. hào) :: number (used to show the rank of something in a list or sequence) (noun)
   字母 (tr. zìmǔ) :: alphabet (an ordered set of letters used in a language) (noun)
-  肉 (tr. juk6) :: meat (animal flesh used as food) (noun)
+  (Cantonese) 肉 (tr. juk6) :: meat (animal flesh used as food) (noun)
   肉 (tr. ròu) :: meat (animal flesh used as food) (noun)
   傘, 伞 (tr. sǎn), 雨傘, 雨伞 (tr. yǔsǎn) :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
-  是 (tr. si4) (formal and written), 係 (tr. hai6) (vernacular) :: be (used to indicate that the subject and object are the same) (verb)
+  (Cantonese) 是 (tr. si4) (formal and written), 係 (tr. hai6) (vernacular) :: be (used to indicate that the subject and object are the same) (verb)
   是 (tr. shì) :: be (used to indicate that the subject and object are the same) (verb)
   是 (tr. shì) :: be (used to indicate that the values on either side of an equation are the same) (verb)
   是 (tr. shì), (absent with adjectives) :: be (used to indicate that the subject plays the role of the predicate nominative) (verb)
@@ -6784,7 +6784,7 @@ Index: en en->zh
 ===using===
   (Traditional) 簡體字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
   (Simplified) 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
-  簡體字, 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
+  (Cantonese) 簡體字, 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
   簡體字, 简体字 , jiǎntǐzì :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
   (Min Nan) 簡體字 (tr. kán-thé-jī), 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
   語言, 语言 (tr. yǔyán) :: language (system of communication using words or symbols) (noun)
@@ -6802,7 +6802,7 @@ Index: en en->zh
 ===vehicle===
   貨車, 货车 (tr. huòchē) :: van (A (covered) vehicle used for carrying goods) (noun)
 ===verb===
-  動詞 (tr. dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  (Cantonese) 動詞 (tr. dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   動詞, 动词 (dòngcí) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   (Min Nan) tōng-sû :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   及物動詞, 及物动词 (tr. jíwù dòngcí), 他動詞, 他动词 (tr. tādòngcí) :: transitive verb (a verb that is accompanied by a direct object) (noun)
@@ -6839,7 +6839,7 @@ Index: en en->zh
 ===Wednesday===
   星期三 (xīngqī sān), 周三 (zhōu sān) :: Wednesday (day of the week) (noun)
 ===week===
-  星期 (singkei) :: week (period of seven days) (noun)
+  (Cantonese) 星期 (singkei) :: week (period of seven days) (noun)
   星期 (tr. xīngqī), 周 (tr. zhōu), 禮拜, 礼拜 (tr. lǐbài) :: week (period of seven days) (noun)
   星期一 (xīngqī yī) :: Monday (day of the week) (noun)
   星期二 (xīngqī èr) :: Tuesday (day of the week) (noun)
@@ -6871,7 +6871,7 @@ Index: en en->zh
   行星 (tr. xíngxīng) :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
   (Min Nan) 行星 (tr. hêng-seng) :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
   药 (yào), 药材 (yàocái), 藥物 (yàowù), 药物 (yàowù), 经方 (jīngfāng) :: medicine (substance which promotes healing) (noun)
-  太陽, 日頭, 熱頭 :: sun (the star around which the Earth revolves) (proper noun)
+  (Cantonese) 太陽, 日頭, 熱頭 :: sun (the star around which the Earth revolves) (proper noun)
   太陽, 太阳 (tr. tàiyáng), 日 (tr. rì) :: sun (the star around which the Earth revolves) (proper noun)
   (Min Nan) 日頭 (tr. ji̍t-thâu, li̍t-thâu) :: sun (the star around which the Earth revolves) (proper noun)
   不可數, 不可数 (tr. bùkěshǔ) :: uncountable (linguistics: about a noun which cannot be counted) (adjective)
@@ -6884,7 +6884,7 @@ Index: en en->zh
   (Simplified) 手风琴 (shǒufēngqín) :: accordion (A small, portable, keyed wind instrument) (noun)
   (Traditional) 手風琴 (shǒufēngqín) :: accordion (A small, portable, keyed wind instrument) (noun)
 ===winter===
-  天時冷 (tr. tin1 si4 laang) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
+  (Cantonese) 天時冷 (tr. tin1 si4 laang) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
   冬天 (tr. dōngtiān), 冬季 (tr. dōngjì) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
 ===without===
   [[免]][[費]]的 (miǎnfèi de) :: free (obtainable without payment) (adjective)
@@ -6899,10 +6899,10 @@ Index: en en->zh
   反義詞, 反义词 (tr. fǎnyìcí) :: antonym (word which has the opposite meaning) (noun)
   同義詞, 同义词 (tr. tóngyìcí), 代名詞, 代名词 (tr. dàimíngcí), (near-synonym) 近義詞, 近义词 (tr. jìnyìcí) :: synonym (word with same meaning as another) (noun)
   詞源, 词源 (tr. cíyuán), 語源, 语源 (tr. yǔyuán), 字源 (tr. zìyuán) :: etymology (account of the origin and historical development of a word) (noun)
-  動詞 (tr. dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  (Cantonese) 動詞 (tr. dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   動詞, 动词 (dòngcí) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   (Min Nan) tōng-sû :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
-  形容詞 :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
+  (Cantonese) 形容詞 :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   [[形容詞]] (xíngróngcí) :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   (Min Nan) hêng-iông-sû :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   名 (míng), 名字 (míngzì) :: name (word or phrase indicating a particular person, place, class or thing) (noun)
@@ -6943,11 +6943,11 @@ Index: en en->zh
   日期 (tr. rìqī) :: date (that which specifies the time of writing, inscription etc.) (noun)
   鉛筆, 铅笔 (tr. qiānbǐ) :: pencil (graphite writing-instrument) (noun)
 ===written===
-  書, 书 (tr. suè) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
+  (Cantonese) 書, 书 (tr. suè) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
   書, 书 (tr. shū) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
   (Traditional) 簡體字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
   (Simplified) 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
-  簡體字, 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
+  (Cantonese) 簡體字, 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
   簡體字, 简体字 , jiǎntǐzì :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
   (Min Nan) 簡體字 (tr. kán-thé-jī), 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
   信 (tr. xìn), 信件 (tr. xìnjiàn), 書信, 书信 (tr. shūxìn) :: letter (written message) (noun)
@@ -6966,12 +6966,12 @@ Index: en en->zh
 ===YMCA===
   基督教青年會 (jīdùjiào qīngnián huì) :: YMCA (Young Men's Christian Association) ({{initialism}})
 ===you===
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
   我愛你, 我爱你 (tr. wǒ ài nǐ) :: I love you (affirmation of affection or deep caring) (phrase)
-  我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
+  (Cantonese) 我愛你, 我爱你 (tr. ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (tr. ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
   我愛你, 我爱你 (tr. wǒ ài nǐ) :: I love you (affirmation of romantic feeling) (phrase)
   (Wu) 我爱侬 (tr. wo ei non, ngu ei non) :: I love you (affirmation of romantic feeling) (phrase)
-  我鐘意你 (ngo5 zung1 yi3 nei5) :: I love you (platonic expression of inclination or liking) (phrase)
+  (Cantonese) 我鐘意你 (ngo5 zung1 yi3 nei5) :: I love you (platonic expression of inclination or liking) (phrase)
   我很喜歡你, 我很喜欢你 (wǒ hěn xǐ huan nǐ) :: I love you (platonic expression of inclination or liking) (phrase)
 ===Young===
   基督教青年會 (jīdùjiào qīngnián huì) :: YMCA (Young Men's Christian Association) ({{initialism}})

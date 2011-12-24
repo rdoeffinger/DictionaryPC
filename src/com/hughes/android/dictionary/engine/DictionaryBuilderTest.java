@@ -33,15 +33,30 @@ public class DictionaryBuilderTest extends TestCase {
 
   public static final String TEST_OUTPUTS = "testdata/outputs/";
 
+  // French
+  public void testWiktionary_FR_FR() throws Exception {
+    wiktionaryTestWithLangToEn("wiktionary.fr_fr.quickdic", "FR", "fr.txt",
+        "FR.data", "enwiktionary.french", "French", "fr");
+  }
+
+  
+  // Arabic
+  public void testWiktionary_AR_AR() throws Exception {
+    wiktionaryTestWithLangToEn("wiktionary.ar_ar.quickdic", "AR", "empty.txt",
+        "AR.data", "enwiktionary.arabic", "Arabic", "ar");
+  }
+
   // Chinese
   public void testWiktionary_ZH_ZH() throws Exception {
     wiktionaryTestWithLangToEn("wiktionary.zh_zh.quickdic", "ZH", "empty.txt",
-        "ZH.data", "enwiktionary.chinese", "Chinese|Mandarin|Cantonese", "zh");
+        // These missing "e" prevents a complete match, forcing the name to be printed.
+        "ZH.data", "enwiktionary.chinese", "Chinese|Mandarin|Cantones", "zh");
   }
 
   public void testWiktionary_ZH_EN() throws Exception {
     wiktionaryTestWithLangToEn("wiktionary.zh_en.quickdic", "ZH", "empty.txt",
-        "EN.data", "enwiktionary.english", "Chinese|Mandarin|Cantonese", "zh");
+        // These missing "e" prevents a complete match, forcing the name to be printed
+        "EN.data", "enwiktionary.english", "Chinese|Mandarin|Cantones", "zh");
   }
   
   // German

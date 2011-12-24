@@ -1,12 +1,20 @@
 **** UI:
+! multi search
 X version number
 ! enter should hide keyboard
 icons
 
 
 **** PC:
+! still lots of wiki markup in output.
+italian verbs... (show conjugation, pulled from a linked place....--would lower size a lot!)
 handle word-info in English.
-italian verbs... (show conjugation, pulled from a linked place....)
+Handle other sections:
+  Pronunciation
+  Synonyms
+  Chinese: handle "Compounds" section
+{{count page|[[Wiktionary:Page count]]}}
+
 
 
 === Bad ordering:
@@ -15,9 +23,6 @@ italian verbs... (show conjugation, pulled from a linked place....)
   fare {{it-verb}} {{transitive}} :: To do
 
 
-**** code.google.com:
-! Check analytics
-! Upload dics
 
 
 **** Wiktionary:
@@ -34,4 +39,7 @@ add unit test for: Errors: [Unmatched {{ error: * {{a|US}} {{IPA|[ˈfɔɹ.wɝd]]
 add to wordlist should focus word (so next typing clears text).
 sideways keyboard appear.
 always put defs in list...
+**** code.google.com:
+! Check analytics
+! Upload dics
   
