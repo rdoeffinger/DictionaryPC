@@ -1,13 +1,17 @@
 random word jump
-move dict to top of list when downloaded
+font size
 pronunciation
+synonyms
+move dict to top of list when downloaded
 speech recognition
 flashcards
 text to speech / audio from wiktionary
-font size
-synonyms
 
+http://dumps.wikimedia.org/enwiktionary/
+curl --remote-name http://dumps.wikimedia.org/enwiktionary/20111224/enwiktionary-20111224-pages-articles.xml.bz2
 
+http://ftp.tu-chemnitz.de/pub/Local/urz/ding/de-en-devel/
+curl --remote-name http://ftp.tu-chemnitz.de/pub/Local/urz/ding/de-en-devel/de-en.txt.gz
 
 **** UI:
 ! multi search
