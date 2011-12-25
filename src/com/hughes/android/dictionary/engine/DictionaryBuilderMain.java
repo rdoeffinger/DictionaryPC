@@ -68,9 +68,9 @@ public class DictionaryBuilderMain extends TestCase {
     
 //    isoToWikiName.keySet().retainAll(Arrays.asList("UK", "HR", "FI"));
     //isoToWikiName.clear();
-    boolean go = true; 
+    boolean go = false;
     for (final String foreignIso : isoToWikiName.keySet()) {
-      if (foreignIso.equals("SV")) {
+      if (foreignIso.equals("HE")) {
         go = true;
       }
       if (!go) {

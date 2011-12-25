@@ -1,8 +1,19 @@
+random word jump
+move dict to top of list when downloaded
+pronunciation
+speech recognition
+flashcards
+text to speech / audio from wiktionary
+font size
+synonyms
+
+
+
 **** UI:
 ! multi search
 X version number
 ! enter should hide keyboard
-icons
+icons inside dictionaries
 
 
 **** PC:
@@ -12,6 +23,7 @@ handle word-info in English.
 Handle other sections:
   Pronunciation
   Synonyms
+  Usage notes.
   Chinese: handle "Compounds" section
 {{count page|[[Wiktionary:Page count]]}}
 

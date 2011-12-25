@@ -742,7 +742,11 @@ public class EnWiktionaryXmlParser {
             name.contains("plural of")) {
           String formName = name;
           if (name.equals("form of")) {
-            formName = args.remove(0);
+            formName = remove(args, 0, null);
+          }
+          if (formName == null) {
+            LOG.warning("Missing form name: " + title);
+            formName = "form of";
           }
           String baseForm = get(args, 1, "");
           if ("".equals(baseForm)) {
@@ -753,8 +757,12 @@ public class EnWiktionaryXmlParser {
           }
           namedArgs.keySet().removeAll(USELESS_WIKI_ARGS);
           WikiTokenizer.appendFunction(englishBuilder.append("{"), formName, args, namedArgs).append("}");
-          otherIndexBuilder.addEntryWithString(indexedEntry, baseForm, EntryTypeName.WIKTIONARY_BASE_FORM_SINGLE, EntryTypeName.WIKTIONARY_BASE_FORM_MULTI);
-          
+          if (baseForm != null) {
+            otherIndexBuilder.addEntryWithString(indexedEntry, baseForm, EntryTypeName.WIKTIONARY_BASE_FORM_SINGLE, EntryTypeName.WIKTIONARY_BASE_FORM_MULTI);
+          } else {
+            // null baseForm happens in Danish.
+            LOG.warning("Null baseform: " + title);
+          }
         } else {
           namedArgs.keySet().removeAll(USELESS_WIKI_ARGS);
           if (args.size() == 0 && namedArgs.isEmpty()) {
