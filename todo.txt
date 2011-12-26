@@ -1,5 +1,4 @@
 random word jump
-font size
 pronunciation
 synonyms
 move dict to top of list when downloaded
@@ -58,4 +57,5 @@ always put defs in list...
 **** code.google.com:
 ! Check analytics
 ! Upload dics
+font size
   
