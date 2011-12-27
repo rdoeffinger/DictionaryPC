@@ -22,7 +22,19 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public final class WikiTokenizer {
-
+  
+  static interface Callback {
+    void onPlainText(WikiTokenizer wikiTokenizer);
+    void onMarkup(WikiTokenizer wikiTokenizer);
+    void onWikiLink(WikiTokenizer wikiTokenizer);
+    void onNewline(WikiTokenizer wikiTokenizer);
+    void onFunction(String functionName, List<String> functionPositionArgs,
+        Map<String, String> functionNamedArgs);
+    void onHeading(WikiTokenizer wikiTokenizer);
+    void onListItem(WikiTokenizer wikiTokenizer);
+    void onComment(WikiTokenizer wikiTokenizer);
+  }
+  
   //private static final Pattern wikiTokenEvent = Pattern.compile("($)", Pattern.MULTILINE);
   private static final Pattern wikiTokenEvent = Pattern.compile("(" +
   		"\\{\\{|\\}\\}|" +
@@ -91,6 +103,30 @@ public final class WikiTokenizer {
     lastUnescapedEqualsPos = -1;
     positionArgs.clear();
     namedArgs.clear();
+  }
+  
+  public void dispatch(final Callback callback) {
+    while (nextToken() != null) {
+      if (isPlainText()) {
+        callback.onPlainText(this);
+      } else if (isMarkup()) {
+        callback.onMarkup(this);
+      } else if (isWikiLink) {
+        callback.onWikiLink(this);
+      } else if (isNewline()) {
+        callback.onNewline(this);
+      } else if (isFunction()) {
+        callback.onFunction(functionName(), functionPositionArgs(), functionNamedArgs());
+      } else if (isHeading()) {
+        callback.onHeading(this);
+      } else if (isListItem()) {
+        callback.onListItem(this);
+      } else if (isComment()) {
+        callback.onComment(this);
+      } else {
+        throw new IllegalStateException("Unknown wiki state.");
+      }
+    }
   }
   
   public boolean isNewline() {
