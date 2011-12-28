@@ -30,9 +30,9 @@ import junit.framework.TestCase;
 
 public class DictionaryBuilderMain extends TestCase {
   
-  static final String INPUTS = "../DictionaryData/inputs/";
-  static final String STOPLISTS = "../DictionaryData/inputs/stoplists/";
-  static final String OUTPUTS = "../DictionaryData/outputs/";
+  static final String INPUTS = "data/inputs/";
+  static final String STOPLISTS = "data/inputs/stoplists/";
+  static final String OUTPUTS = "data/outputs/";
     
   public static void main(final String[] args) throws Exception {
     
@@ -68,7 +68,7 @@ public class DictionaryBuilderMain extends TestCase {
     
 //    isoToWikiName.keySet().retainAll(Arrays.asList("UK", "HR", "FI"));
     //isoToWikiName.clear();
-    boolean go = false;
+    boolean go = true;
     for (final String foreignIso : isoToWikiName.keySet()) {
       if (foreignIso.equals("HE")) {
         go = true;
