@@ -42,6 +42,8 @@ Index: de de->en
   Abelmoschus {m} :: abelmosk (evergreen shrub) (noun)
 ===abelsch===
   abelsch, kommutativ :: abelian (math: of a group) (adjective)
+===aberrante===
+  aberrante :: aberrant (wandering; straying from the right way) (adjective)
 ===Aberration===
   Aberration {f} :: aberration (deviation) (noun)
   Aberration {f} :: aberration (partial alienation of reason) (noun)
@@ -274,6 +276,8 @@ Index: de de->en
   einsiblig, wortkarg, kurz angebunden :: abrupt (curt in manner) (adjective)
 ===angepisst===
   angepisst, sauer, wütend :: pissed (Annoyed, angry) (adjective)
+===angrenzen===
+  grenzen, angrenzen :: abut (to border on) (verb)
 ===Annahme===
   Annahme {f} :: acceptance (receiving of something offered) (noun)
   Annahme {f} :: acceptance ((law) An agreeing to the action of another) (noun)
@@ -555,7 +559,7 @@ Index: de de->en
 ===dat===
   (Low German) dat {n}, de {m}, dei {m} :: the (article) (article)
 ===Date===
-  Rendezvous {n}, Date {n}, Verabredung {n} :: date (meeting with a lover or potential lover; a person so met) (noun)
+  Rendezvous {n}, Date {n}, Verabredung {n}, Stelldichein {n} :: date (meeting with a lover or potential lover; a person so met) (noun)
 ===daten===
   ausgehen, daten :: date (to take (someone) on a series of dates) (verb)
 ===Datenfeld===
@@ -726,6 +730,7 @@ Index: de de->en
   {{sense|abstract counting}} eins, {{sense|counting objects}} ein, eine, einen, einem, einer, eines :: one (cardinal number 1) (cardinal number)
 ===einer===
   {{sense|abstract counting}} eins, {{sense|counting objects}} ein, eine, einen, einem, einer, eines :: one (cardinal number 1) (cardinal number)
+  man, einer :: one (indefinite personal pronoun) (pronoun)
 ===eines===
   {{sense|abstract counting}} eins, {{sense|counting objects}} ein, eine, einen, einem, einer, eines :: one (cardinal number 1) (cardinal number)
 ===eingeboren===
@@ -836,7 +841,7 @@ Index: de de->en
 ===erteilen===
   austeilen, erteilen, zuteilen :: deal (administer in portions) (verb)
 ===erwähnt===
-  oben genannt, oben erwähnt :: above-mentioned (Mentioned or named before; aforesaid) (adjective)
+  oben genannt, oben erwähnt :: above-mentioned (mentioned or named before; aforesaid) (adjective)
   oben erwähnt :: abovesaid (adjective)
 ===Esperanto===
   Esperanto {n} :: Esperanto (auxiliary language) (proper noun)
@@ -880,8 +885,6 @@ Index: de de->en
   färben :: color (give something color) (verb)
 ===Farbton===
   Farbton {m} :: color (hue as opposed to achromatic colours) (noun)
-===Feber===
-  (in Austria) Feber, Hornung {m} :: February (second month of the Gregorian calendar) (proper noun)
 ===Febrowaa===
   (Kölsch) Febrowaa :: February (second month of the Gregorian calendar) (proper noun)
 ===februar===
@@ -973,8 +976,7 @@ Index: de de->en
   führen, leiten :: head ((transitive) be in command of) (verb)
 ===fünf===
   fünf :: five (five (5)) (cardinal number)
-===Fünf===
-  Fünf {f} :: five (digit) (noun)
+  fünf {f} :: five (digit) (noun)
 ===Fünfer===
   Fünfer {m} :: five (five-dollar bill) (noun)
 ===Furz===
@@ -1007,7 +1009,7 @@ Index: de de->en
 ===geistig===
   (geistig) abwesend :: absent (inattentive) (adjective)
 ===genannt===
-  oben genannt, oben erwähnt :: above-mentioned (Mentioned or named before; aforesaid) (adjective)
+  oben genannt, oben erwähnt :: above-mentioned (mentioned or named before; aforesaid) (adjective)
 ===Geriebenheit===
   Schlauheit, Geriebenheit :: craft (shrewdness) (noun)
 ===Geringschätzung===
@@ -1052,6 +1054,8 @@ Index: de de->en
 ===gratis===
   umsonst, gratis, kostenlos :: free (obtainable without payment) (adjective)
   gratis, kostenlos, frei, kostenfrei :: gratis (free, without charge) (adjective)
+===grenzen===
+  grenzen, angrenzen :: abut (to border on) (verb)
 ===Griffel===
   Griffel {m}, Tafelstift {m} :: pencil (slate writing-instrument) (noun)
 ===grob===
@@ -1101,8 +1105,6 @@ Index: de de->en
   Bisschen {n}, Wenig {n}, Stück {n}, Stückchen {n}, Happen {m} (of food) :: bit (small piece) (noun)
 ===harren===
   harren (with genitive) :: abide (to await) (verb)
-===Hartung===
-  (in Austria, Switzerland and Southern parts of Germany) Jänner, Hartung {m} :: January (first month of the Gregorian calendar) (proper noun)
 ===Haupt===
   Kopf {m}, Haupt {n} (rarely used) :: head (part of the body) (noun)
   Oberhaupt {n}, Haupt {n}, Kopf {m} :: head (leader or chief) (noun)
@@ -1180,8 +1182,6 @@ Index: de de->en
 ===Hölle===
   Hölle {f} :: hell (where sinners go) (proper noun)
   Hölle {f} :: hell (place of suffering in life) (noun)
-===Hornung===
-  (in Austria) Feber, Hornung {m} :: February (second month of the Gregorian calendar) (proper noun)
 ===Hotelpage===
   Hotelpage (either bellboy or bellgirl) :: bellgirl (a female bellhop) (noun)
 ===hund===
@@ -1223,7 +1223,7 @@ Index: de de->en
   in :: in (contained by) (preposition)
   in :: in (surrounded by) (preposition)
   in :: in (after a period of time) (preposition)
-  in, ins (tr. in das) :: in (into) (preposition)
+  in :: in (into) (preposition)
   unter, in, ((in dem)) im, während :: in (during) (preposition)
   in :: in (a state) (preposition)
   in :: in (in fashion, popular) (adjective)
@@ -1236,8 +1236,6 @@ Index: de de->en
   Inlandsschuld {f}, Inlandsverschuldung {f} :: domestic debt (debt owed to creditors resident in the same country as debtor) (noun)
 ===Inlandsverschuldung===
   Inlandsschuld {f}, Inlandsverschuldung {f} :: domestic debt (debt owed to creditors resident in the same country as debtor) (noun)
-===ins===
-  in, ins (tr. in das) :: in (into) (preposition)
 ===Interruptio===
   Abort {m}, Abtreibung {f}, Interruptio {n} :: abortive (That which is born or brought forth prematurely; an abortion) (noun)
 ===irisch===
@@ -1274,10 +1272,6 @@ Index: de de->en
   Jahrzehnt {n}, (archaic) Dekade {f} :: decade (a period of ten years) (noun)
 ===jämmerlich===
   erbärmlich, jämmerlich :: abysmal (extremely bad) (adjective)
-===Jänner===
-  (in Austria, Switzerland and Southern parts of Germany) Jänner, Hartung {m} :: January (first month of the Gregorian calendar) (proper noun)
-===Jannowaa===
-  (Kölsch) Jannowaa :: January (first month of the Gregorian calendar) (proper noun)
 ===januar===
   (Alemannic German) januar :: January (first month of the Gregorian calendar) (proper noun)
 ===Januar===
@@ -1482,7 +1476,7 @@ Index: de de->en
   Linse {f} :: lens (biology: genus of the legume family; its bean) (noun)
   Linse {f} :: lens (anatomy: transparent crystalline structure in the eye) (noun)
 ===lodernd===
-  lodernd :: ablaze (On fire) (adjective)
+  lodernd :: ablaze (on fire) (adjective)
 ===logischerweise===
   logischerweise :: accordingly (In natural sequence; consequently; so) (adverb)
 ===lossprechen===
@@ -1498,7 +1492,7 @@ Index: de de->en
 ===mag===
   ich mag dich, ich liebe dich, Ich habe dich lieb :: I love you (affirmation of affection or deep caring) (phrase)
 ===man===
-  man :: one (indefinite personal pronoun) (pronoun)
+  man, einer :: one (indefinite personal pronoun) (pronoun)
 ===Mann===
   Mann {m}, Herr {m} :: man (adult male human) (noun)
 ===Mark===
@@ -1692,13 +1686,15 @@ Index: de de->en
   Nummer {f} :: number (used to show the rank of something in a list or sequence) (noun)
 ===nummerieren===
   nummerieren :: number (label with numbers; assign numbers to) (verb)
+===Ny===
+  Ny {n} :: nu (name for the letter of the Greek alphabet: Ν and ν) (noun)
 ===o===
   o :: o (vocative particle to mark direct address) (interjection)
 ===oas===
   (Swiss German) aas, (variant form: oas) :: one (cardinal number 1) (cardinal number)
 ===oben===
   höher, oben, darüber :: above (in a higher place) (adverb)
-  oben genannt, oben erwähnt :: above-mentioned (Mentioned or named before; aforesaid) (adjective)
+  oben genannt, oben erwähnt :: above-mentioned (mentioned or named before; aforesaid) (adjective)
   oben erwähnt :: abovesaid (adjective)
 ===Oberende===
   Spitze {f}, Oberende {n}, Kopf {m}, Dach {n} (figuratively) :: head (topmost or leading part) (noun)
@@ -1872,7 +1868,7 @@ Index: de de->en
 ===Rektorin===
   Leiter {m}, Leiterin {f}, Rektor {m}, Rektorin {f}, Direktor {m}, Direktorin {f} :: head (headmaster, headmistress) (noun)
 ===Rendezvous===
-  Rendezvous {n}, Date {n}, Verabredung {n} :: date (meeting with a lover or potential lover; a person so met) (noun)
+  Rendezvous {n}, Date {n}, Verabredung {n}, Stelldichein {n} :: date (meeting with a lover or potential lover; a person so met) (noun)
 ===reservieren===
   buchen, reservieren :: book (reserve) (verb)
 ===Reverend===
@@ -2099,6 +2095,8 @@ Index: de de->en
   abrupt, jäh, schroff, steil :: abrupt (broken off or very steep) (adjective)
 ===Stein===
   Stein {m}, Spielfigur {f} :: man (piece in board games) (noun)
+===Stelldichein===
+  Rendezvous {n}, Date {n}, Verabredung {n}, Stelldichein {n} :: date (meeting with a lover or potential lover; a person so met) (noun)
 ===stellen===
   nullen, auf Null stellen :: zero (to set to zero) (verb)
 ===sterben===
@@ -2280,7 +2278,7 @@ Index: de de->en
 ===Verabredung===
   Treffen {n}, Verabredung {f} :: date (pre-arranged social meeting) (noun)
   Verabredung {f} (colloquial, arbitrary gender) :: date (companion when one is partaking in a social occasion) (noun)
-  Rendezvous {n}, Date {n}, Verabredung {n} :: date (meeting with a lover or potential lover; a person so met) (noun)
+  Rendezvous {n}, Date {n}, Verabredung {n}, Stelldichein {n} :: date (meeting with a lover or potential lover; a person so met) (noun)
 ===verabscheuen===
   verabscheuen :: abominate (to feel disgust towards, to hate in the highest degree) (verb)
   verabscheuen :: abhor (to regard with horror or detestation) (verb)
@@ -2751,6 +2749,7 @@ Index: en en->de
 ===aberrance===
   Abweichung {f} :: aberrance (state of being aberrant; a wandering from the right way; deviation from truth, rectitude) (noun)
 ===aberrant===
+  aberrante :: aberrant (wandering; straying from the right way) (adjective)
   Abweichung {f} :: aberrance (state of being aberrant; a wandering from the right way; deviation from truth, rectitude) (noun)
 ===aberration===
   Aberration {f} :: aberration (deviation) (noun)
@@ -2791,7 +2790,7 @@ Index: en en->de
 ===ablaut===
   Ablaut {m} :: ablaut (substitution of one root vowel for another) (noun)
 ===ablaze===
-  lodernd :: ablaze (On fire) (adjective)
+  lodernd :: ablaze (on fire) (adjective)
   in Flammen :: ablaze (on fire) (adverb)
 ===able===
   gesund :: able (healthy) (adjective)
@@ -2884,7 +2883,7 @@ Index: en en->de
   höher, oben, darüber :: above (in a higher place) (adverb)
   früher, vorher :: above (earlier in order) (adverb)
   ranghöher, vorgesetzt :: above (higher in rank) (adverb)
-  oben genannt, oben erwähnt :: above-mentioned (Mentioned or named before; aforesaid) (adjective)
+  oben genannt, oben erwähnt :: above-mentioned (mentioned or named before; aforesaid) (adjective)
   Himmel {m} :: sky (atmosphere above a point) (noun)
 ===abovesaid===
   oben erwähnt :: abovesaid (adjective)
@@ -2976,6 +2975,8 @@ Index: en en->de
   Missbraucher :: abuser (one who abuses) (noun)
 ===abuses===
   Missbraucher :: abuser (one who abuses) (noun)
+===abut===
+  grenzen, angrenzen :: abut (to border on) (verb)
 ===abysmal===
   abgründig, abgrundtief :: abysmal (pertaining to, or resembling an abyss; bottomless; unending; profound) (adjective)
   erbärmlich, jämmerlich :: abysmal (extremely bad) (adjective)
@@ -3143,7 +3144,7 @@ Index: en en->de
   ((Swabian)) i mog di, i han di oifach gern :: I love you (affirmation of romantic feeling) (phrase)
   (Swiss German) ich lieb dich, i liäbä di, i ha di gärn, ich han dich gärn :: I love you (affirmation of romantic feeling) (phrase)
 ===aforesaid===
-  oben genannt, oben erwähnt :: above-mentioned (Mentioned or named before; aforesaid) (adjective)
+  oben genannt, oben erwähnt :: above-mentioned (mentioned or named before; aforesaid) (adjective)
 ===aft===
   achtern, hintern :: abaft ((nautical) Behind; toward the stern relative to some other object or position; aft of) (preposition)
   achteraus :: abaft ((nautical) On the aft side) (adverb)
@@ -3189,6 +3190,7 @@ Index: en en->de
   Alphabet {n} :: alphabet (an ordered set of letters used in a language) (noun)
   Nordpol :: November (N in the ICAO spelling alphabet) (proper noun)
   alphabetisch :: alphabetical (in the sequence of the letters of the alphabet) (adjective)
+  Ny {n} :: nu (name for the letter of the Greek alphabet: Ν and ν) (noun)
   Buchstabe {m} :: letter (letter of the alphabet) (noun)
 ===alphabetical===
   alphabetisch :: alphabetical (in the sequence of the letters of the alphabet) (adjective)
@@ -3429,7 +3431,7 @@ Index: en en->de
   Bier {n} :: beer (alcoholic drink made of malt) (noun)
   Bier {n} :: beer (glass of beer) (noun)
 ===before===
-  oben genannt, oben erwähnt :: above-mentioned (Mentioned or named before; aforesaid) (adjective)
+  oben genannt, oben erwähnt :: above-mentioned (mentioned or named before; aforesaid) (adjective)
   null :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   präkolumbisch :: pre-Columbian (before Christopher Columbus) (adjective)
   v. Chr. (vor Christus) :: BC (before Christ) ({{initialism}})
@@ -3548,6 +3550,7 @@ Index: en en->de
   Lexikon {n}, Enzyklopädie {f} :: encyclopaedia (reference book) (noun)
 ===border===
   Mark {f} :: march (obsolete: border region) (noun)
+  grenzen, angrenzen :: abut (to border on) (verb)
 ===born===
   abgetriebenes :: abortive (Produced by abortion; born prematurely; as, an abortive child.) (adjective)
   Abort {m}, Abtreibung {f}, Interruptio {n} :: abortive (That which is born or brought forth prematurely; an abortion) (noun)
@@ -3599,12 +3602,9 @@ Index: en en->de
   (Low German) Dezember {m}, Dezembermaand {m} :: December (twelfth month of the Gregorian calendar) (proper noun)
   (Alemannic German) januar :: January (first month of the Gregorian calendar) (proper noun)
   Januar {m} :: January (first month of the Gregorian calendar) (proper noun)
-  (in Austria, Switzerland and Southern parts of Germany) Jänner, Hartung {m} :: January (first month of the Gregorian calendar) (proper noun)
-  (Kölsch) Jannowaa :: January (first month of the Gregorian calendar) (proper noun)
   (Low German) Januor {m}, Januormaand {m} :: January (first month of the Gregorian calendar) (proper noun)
   (Alemannic German) februar :: February (second month of the Gregorian calendar) (proper noun)
   Februar {m} :: February (second month of the Gregorian calendar) (proper noun)
-  (in Austria) Feber, Hornung {m} :: February (second month of the Gregorian calendar) (proper noun)
   (Kölsch) Febrowaa :: February (second month of the Gregorian calendar) (proper noun)
   (Low German) Februor {m}, Februormaand {m} :: February (second month of the Gregorian calendar) (proper noun)
   April {m}, Ostermond {m} :: April (fourth month of the Gregorian calendar) (proper noun)
@@ -4049,7 +4049,7 @@ Index: en en->de
   Zeit {f} :: date (obsolete: given or assigned length of life) (noun)
   Treffen {n}, Verabredung {f} :: date (pre-arranged social meeting) (noun)
   Verabredung {f} (colloquial, arbitrary gender) :: date (companion when one is partaking in a social occasion) (noun)
-  Rendezvous {n}, Date {n}, Verabredung {n} :: date (meeting with a lover or potential lover; a person so met) (noun)
+  Rendezvous {n}, Date {n}, Verabredung {n}, Stelldichein {n} :: date (meeting with a lover or potential lover; a person so met) (noun)
   datieren :: date (to determine the age of something) (verb)
   ausgehen, daten :: date (to take (someone) on a series of dates) (verb)
   an :: on (at the date of) (preposition)
@@ -4254,7 +4254,7 @@ Index: en en->de
   Zwei {f} :: two (digit or figure) (noun)
   Drei {f} :: three (digit/figure 3) (noun)
   Vier {f} :: four (the digit or figure 4) (noun)
-  Fünf {f} :: five (digit) (noun)
+  fünf {f} :: five (digit) (noun)
   Bit {n} :: bit (binary digit) (noun)
   Sechs {f} :: six (digit) (noun)
   Acht {f} :: eight (The digit/figure 8) (noun)
@@ -4610,7 +4610,6 @@ Index: en en->de
 ===February===
   (Alemannic German) februar :: February (second month of the Gregorian calendar) (proper noun)
   Februar {m} :: February (second month of the Gregorian calendar) (proper noun)
-  (in Austria) Feber, Hornung {m} :: February (second month of the Gregorian calendar) (proper noun)
   (Kölsch) Febrowaa :: February (second month of the Gregorian calendar) (proper noun)
   (Low German) Februor {m}, Februormaand {m} :: February (second month of the Gregorian calendar) (proper noun)
 ===feel===
@@ -4658,15 +4657,13 @@ Index: en en->de
 ===finite===
   transfinit :: transfinite (beyond finite) (adjective)
 ===fire===
-  lodernd :: ablaze (On fire) (adjective)
+  lodernd :: ablaze (on fire) (adjective)
   in Flammen :: ablaze (on fire) (adverb)
   kündigen, feuern, rausschmeißen :: can (to fire or dismiss an employee) (verb)
 ===first===
   Vorname {m} :: first name (name chosen by parents) (noun)
   (Alemannic German) januar :: January (first month of the Gregorian calendar) (proper noun)
   Januar {m} :: January (first month of the Gregorian calendar) (proper noun)
-  (in Austria, Switzerland and Southern parts of Germany) Jänner, Hartung {m} :: January (first month of the Gregorian calendar) (proper noun)
-  (Kölsch) Jannowaa :: January (first month of the Gregorian calendar) (proper noun)
   (Low German) Januor {m}, Januormaand {m} :: January (first month of the Gregorian calendar) (proper noun)
   Abszisse {f} :: abscissa (first of two coordinates) (noun)
   zweiter {m} :: second (that which comes after the first) (adjective)
@@ -4676,7 +4673,7 @@ Index: en en->de
   Gräte {f}, Fischgräte {f} :: bone (fishbone) (noun)
 ===five===
   fünf :: five (five (5)) (cardinal number)
-  Fünf {f} :: five (digit) (noun)
+  fünf {f} :: five (digit) (noun)
   Fünfer {m} :: five (five-dollar bill) (noun)
 ===fixed===
   Planet {m}, Wandelstern {m} (old) :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
@@ -4912,17 +4909,16 @@ Index: en en->de
 ===great===
   fähig :: ably (with great ability) (adverb)
   Errungenschaft {f}, Vollendung {f} :: achievement (great or heroic deed) (noun)
+===Greek===
+  Ny {n} :: nu (name for the letter of the Greek alphabet: Ν and ν) (noun)
 ===Gregorian===
   Dezember {m}, Julmond {m} :: December (twelfth month of the Gregorian calendar) (proper noun)
   (Low German) Dezember {m}, Dezembermaand {m} :: December (twelfth month of the Gregorian calendar) (proper noun)
   (Alemannic German) januar :: January (first month of the Gregorian calendar) (proper noun)
   Januar {m} :: January (first month of the Gregorian calendar) (proper noun)
-  (in Austria, Switzerland and Southern parts of Germany) Jänner, Hartung {m} :: January (first month of the Gregorian calendar) (proper noun)
-  (Kölsch) Jannowaa :: January (first month of the Gregorian calendar) (proper noun)
   (Low German) Januor {m}, Januormaand {m} :: January (first month of the Gregorian calendar) (proper noun)
   (Alemannic German) februar :: February (second month of the Gregorian calendar) (proper noun)
   Februar {m} :: February (second month of the Gregorian calendar) (proper noun)
-  (in Austria) Feber, Hornung {m} :: February (second month of the Gregorian calendar) (proper noun)
   (Kölsch) Febrowaa :: February (second month of the Gregorian calendar) (proper noun)
   (Low German) Februor {m}, Februormaand {m} :: February (second month of the Gregorian calendar) (proper noun)
   April {m}, Ostermond {m} :: April (fourth month of the Gregorian calendar) (proper noun)
@@ -5134,7 +5130,7 @@ Index: en en->de
   in :: in (contained by) (preposition)
   in :: in (surrounded by) (preposition)
   in :: in (after a period of time) (preposition)
-  in, ins (tr. in das) :: in (into) (preposition)
+  in :: in (into) (preposition)
   unter, in, ((in dem)) im, während :: in (during) (preposition)
   in :: in (a state) (preposition)
   herein, hinein :: in (moving to the interior) (adverb)
@@ -5155,7 +5151,7 @@ Index: en en->de
 ===increased===
   erröten :: color (become red through increased blood flow) (verb)
 ===indefinite===
-  man :: one (indefinite personal pronoun) (pronoun)
+  man, einer :: one (indefinite personal pronoun) (pronoun)
   wenig :: few (indefinite, usually small number) (determiner)
 ===independent===
   Nullstelle {f} :: zero (value of a function’s independent variables when the value of the function is zero) (noun)
@@ -5233,7 +5229,7 @@ Index: en en->de
   Sekunde {f} :: second (interval between two adjacent notes in a diatonic scale (with or without extra accidentals)) (noun)
 ===into===
   Monat {m} :: month (period into which a year is divided) (noun)
-  in, ins (tr. in das) :: in (into) (preposition)
+  in :: in (into) (preposition)
   vierteln :: quarter (divide into quarters) (verb)
   Port {n} :: port (computing: logical or physical construct into and from which data are transferred) (noun)
 ===intransitive===
@@ -5276,8 +5272,6 @@ Index: en en->de
 ===January===
   (Alemannic German) januar :: January (first month of the Gregorian calendar) (proper noun)
   Januar {m} :: January (first month of the Gregorian calendar) (proper noun)
-  (in Austria, Switzerland and Southern parts of Germany) Jänner, Hartung {m} :: January (first month of the Gregorian calendar) (proper noun)
-  (Kölsch) Jannowaa :: January (first month of the Gregorian calendar) (proper noun)
   (Low German) Januor {m}, Januormaand {m} :: January (first month of the Gregorian calendar) (proper noun)
 ===Japan===
   Japan :: Japan (A Far East country in Asia) (proper noun)
@@ -5400,6 +5394,7 @@ Index: en en->de
 ===letter===
   Buchstabe {m} :: letter (letter of the alphabet) (noun)
   Brief {m} :: letter (written message) (noun)
+  Ny {n} :: nu (name for the letter of the Greek alphabet: Ν and ν) (noun)
   I {n} :: i (name of the letter I, i) (noun)
 ===letters===
   alphabetisch :: alphabetical (in the sequence of the letters of the alphabet) (adjective)
@@ -5474,7 +5469,7 @@ Index: en en->de
   ((Swabian)) i mog di, i han di oifach gern :: I love you (affirmation of romantic feeling) (phrase)
   (Swiss German) ich lieb dich, i liäbä di, i ha di gärn, ich han dich gärn :: I love you (affirmation of romantic feeling) (phrase)
 ===lover===
-  Rendezvous {n}, Date {n}, Verabredung {n} :: date (meeting with a lover or potential lover; a person so met) (noun)
+  Rendezvous {n}, Date {n}, Verabredung {n}, Stelldichein {n} :: date (meeting with a lover or potential lover; a person so met) (noun)
 ===lower===
   erniedrigen :: abase (to lower so as to hurt feelings) (verb)
   verringern, mindern :: abate (to bring down or reduce to a lower state) (verb)
@@ -5634,7 +5629,7 @@ Index: en en->de
 ===meeting===
   Vorsitzender {m}, Vorsitzende {f} :: chairman (person presiding over a meeting) (noun)
   Treffen {n}, Verabredung {f} :: date (pre-arranged social meeting) (noun)
-  Rendezvous {n}, Date {n}, Verabredung {n} :: date (meeting with a lover or potential lover; a person so met) (noun)
+  Rendezvous {n}, Date {n}, Verabredung {n}, Stelldichein {n} :: date (meeting with a lover or potential lover; a person so met) (noun)
 ===member===
   Katze {f} :: cat (member of Felidae) (noun)
   Kapitelldeckplatte {f} :: abacus (uppermost member of the capital of a column) (noun)
@@ -5650,13 +5645,11 @@ Index: en en->de
 ===mention===
   nennen, wählen :: name (mention, specify, choose) (verb)
 ===mentioned===
-  oben genannt, oben erwähnt :: above-mentioned (Mentioned or named before; aforesaid) (adjective)
-===Mentioned===
-  oben genannt, oben erwähnt :: above-mentioned (Mentioned or named before; aforesaid) (adjective)
+  oben genannt, oben erwähnt :: above-mentioned (mentioned or named before; aforesaid) (adjective)
 ===message===
   Brief {m} :: letter (written message) (noun)
 ===met===
-  Rendezvous {n}, Date {n}, Verabredung {n} :: date (meeting with a lover or potential lover; a person so met) (noun)
+  Rendezvous {n}, Date {n}, Verabredung {n}, Stelldichein {n} :: date (meeting with a lover or potential lover; a person so met) (noun)
 ===metal===
   Gebiss {n}, Mundstück {n} :: bit (metal in horse's mouth) (noun)
 ===metaphysics===
@@ -5731,12 +5724,9 @@ Index: en en->de
   (Low German) Dezember {m}, Dezembermaand {m} :: December (twelfth month of the Gregorian calendar) (proper noun)
   (Alemannic German) januar :: January (first month of the Gregorian calendar) (proper noun)
   Januar {m} :: January (first month of the Gregorian calendar) (proper noun)
-  (in Austria, Switzerland and Southern parts of Germany) Jänner, Hartung {m} :: January (first month of the Gregorian calendar) (proper noun)
-  (Kölsch) Jannowaa :: January (first month of the Gregorian calendar) (proper noun)
   (Low German) Januor {m}, Januormaand {m} :: January (first month of the Gregorian calendar) (proper noun)
   (Alemannic German) februar :: February (second month of the Gregorian calendar) (proper noun)
   Februar {m} :: February (second month of the Gregorian calendar) (proper noun)
-  (in Austria) Feber, Hornung {m} :: February (second month of the Gregorian calendar) (proper noun)
   (Kölsch) Febrowaa :: February (second month of the Gregorian calendar) (proper noun)
   (Low German) Februor {m}, Februormaand {m} :: February (second month of the Gregorian calendar) (proper noun)
   April {m}, Ostermond {m} :: April (fourth month of the Gregorian calendar) (proper noun)
@@ -5799,6 +5789,10 @@ Index: en en->de
   Musikant {m}, Musiker {m}, Musikerin {f} :: musician (person who performs or writes music) (noun)
 ===N===
   Nordpol :: November (N in the ICAO spelling alphabet) (proper noun)
+===ν===
+  Ny {n} :: nu (name for the letter of the Greek alphabet: Ν and ν) (noun)
+===Ν===
+  Ny {n} :: nu (name for the letter of the Greek alphabet: Ν and ν) (noun)
 ===nail===
   Kopf {m} :: head (the blunt end of a nail, etc.) (noun)
 ===name===
@@ -5811,13 +5805,14 @@ Index: en en->de
   ernennen :: name (designate for a role) (verb)
   Vorname {m} :: first name (name chosen by parents) (noun)
   Fabian :: Fabian (male given name) (proper noun)
+  Ny {n} :: nu (name for the letter of the Greek alphabet: Ν and ν) (noun)
   der {m}, die {f}, das {n}, die {p} :: the (used with the name of a member of a class to refer to all things in that class) (article)
   Fanny :: Fanny (female given name) (proper noun)
   Eigenname {m} :: proper noun (The name of a particular person, place, organization or other individual entity) (noun)
   I {n} :: i (name of the letter I, i) (noun)
   Eduard :: Edward (male given name) (proper noun)
 ===named===
-  oben genannt, oben erwähnt :: above-mentioned (Mentioned or named before; aforesaid) (adjective)
+  oben genannt, oben erwähnt :: above-mentioned (mentioned or named before; aforesaid) (adjective)
 ===narration===
   Fabel {f} :: fable (fictitious narration to enforce some useful truth or precept) (noun)
 ===NASA===
@@ -5912,6 +5907,8 @@ Index: en en->de
   Nordpol :: November (N in the ICAO spelling alphabet) (proper noun)
 ===nowadays===
   heutzutage :: today (nowadays) (adverb)
+===nu===
+  Ny {n} :: nu (name for the letter of the Greek alphabet: Ν and ν) (noun)
 ===number===
   Anzahl {f}, Zahl {f} :: number (abstract entity) (noun)
   (Old High German) rīm :: number (abstract entity) (noun)
@@ -6037,13 +6034,12 @@ Index: en en->de
   in, an :: on (used to indicate means or medium) (preposition)
 ===On===
   achteraus :: abaft ((nautical) On the aft side) (adverb)
-  lodernd :: ablaze (On fire) (adjective)
 ===one===
   {{sense|abstract counting}} eins, {{sense|counting objects}} ein, eine, einen, einem, einer, eines :: one (cardinal number 1) (cardinal number)
   (Low German) ein :: one (cardinal number 1) (cardinal number)
   (Swiss German) aas, (variant form: oas) :: one (cardinal number 1) (cardinal number)
   expressed by nominalization when following an adjective :: one (impersonal pronoun) (pronoun)
-  man :: one (indefinite personal pronoun) (pronoun)
+  man, einer :: one (indefinite personal pronoun) (pronoun)
   Eins {f} :: one (digit or figure) (noun)
   eins :: one (whole, entire) (adjective)
 ===One===
@@ -6246,7 +6242,7 @@ Index: en en->de
 ===permitted===
   imstande, fähig :: able (permitted to) (adjective)
 ===personal===
-  man :: one (indefinite personal pronoun) (pronoun)
+  man, einer :: one (indefinite personal pronoun) (pronoun)
 ===personification===
   Verkörperung {f} :: avatar (The physical embodiment of an idea or concept; a personification) (noun)
 ===pertaining===
@@ -6397,7 +6393,7 @@ Index: en en->de
 ===positioned===
   auf :: on (positioned at the upper surface of) (preposition)
 ===potential===
-  Rendezvous {n}, Date {n}, Verabredung {n} :: date (meeting with a lover or potential lover; a person so met) (noun)
+  Rendezvous {n}, Date {n}, Verabredung {n}, Stelldichein {n} :: date (meeting with a lover or potential lover; a person so met) (noun)
 ===pound===
   Pfund {n} :: pound (unit of mass (16 ounces avoirdupois)) (noun)
   Pfund {n} :: pound (unit of currency) (noun)
@@ -6464,7 +6460,7 @@ Index: en en->de
   Arznei {f}, Medizin {f}, Medikament {n} :: medicine (substance which promotes healing) (noun)
 ===pronoun===
   expressed by nominalization when following an adjective :: one (impersonal pronoun) (pronoun)
-  man :: one (indefinite personal pronoun) (pronoun)
+  man, einer :: one (indefinite personal pronoun) (pronoun)
 ===pronounce===
   freisprechen :: absolve (pronounce free or give absolution) (verb)
   freisprechen, lossprechen, absolvieren :: absolve (theology: pronounce free or give absolution from sin) (verb)
@@ -6703,6 +6699,7 @@ Index: en en->de
 ===right===
   freie Meinungsäußerung {f}, Redefreiheit {f} :: freedom of speech (right to speak without fear of harm) (noun)
   Abweichung {f} :: aberrance (state of being aberrant; a wandering from the right way; deviation from truth, rectitude) (noun)
+  aberrante :: aberrant (wandering; straying from the right way) (adjective)
 ===robot===
   Roboter {m} :: robot (intelligent mechanical being) (noun)
 ===rock===
@@ -6990,7 +6987,7 @@ Index: en en->de
 ===so===
   erniedrigen :: abase (to lower so as to hurt feelings) (verb)
   logischerweise :: accordingly (In natural sequence; consequently; so) (adverb)
-  Rendezvous {n}, Date {n}, Verabredung {n} :: date (meeting with a lover or potential lover; a person so met) (noun)
+  Rendezvous {n}, Date {n}, Verabredung {n}, Stelldichein {n} :: date (meeting with a lover or potential lover; a person so met) (noun)
 ===social===
   Treffen {n}, Verabredung {f} :: date (pre-arranged social meeting) (noun)
   Verabredung {f} (colloquial, arbitrary gender) :: date (companion when one is partaking in a social occasion) (noun)
@@ -7143,6 +7140,8 @@ Index: en en->de
   seltsam, merkwürdig, komisch :: odd (strange) (adjective)
 ===stray===
   Zwinger {m}, Tierheim {n} :: pound (place for the detention of stray animals) (noun)
+===straying===
+  aberrante :: aberrant (wandering; straying from the right way) (adjective)
 ===strength===
   nachlassen, sich legen [storm] :: abate (to decrease or become less in strength) (verb)
 ===stressed===
@@ -7685,6 +7684,7 @@ Index: en en->de
   Marsch {m} :: march (formal, rhythmic way of walking) (noun)
 ===wandering===
   Abweichung {f} :: aberrance (state of being aberrant; a wandering from the right way; deviation from truth, rectitude) (noun)
+  aberrante :: aberrant (wandering; straying from the right way) (adjective)
 ===war===
   in den Krieg ziehen :: march (go to war; make military advances) (verb)
 ===watchlist===
@@ -7695,6 +7695,7 @@ Index: en en->de
 ===way===
   Marsch {m} :: march (formal, rhythmic way of walking) (noun)
   Abweichung {f} :: aberrance (state of being aberrant; a wandering from the right way; deviation from truth, rectitude) (noun)
+  aberrante :: aberrant (wandering; straying from the right way) (adjective)
 ===weapon===
   Waffe {f} :: weapon (instrument of attack or defense in combat) (noun)
 ===weather===

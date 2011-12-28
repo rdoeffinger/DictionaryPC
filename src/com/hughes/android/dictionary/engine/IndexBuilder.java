@@ -74,15 +74,15 @@ public class IndexBuilder {
           .normalizer().transliterate(tokenData.token), startRow, numRows));
     }
     
-    final List<IndexEntry> sortedEntries = new ArrayList<IndexEntry>(index.sortedIndexEntries);
-    Collections.sort(sortedEntries, new Comparator<IndexEntry>() {
+    final List<IndexEntry> entriesSortedByRows = new ArrayList<IndexEntry>(index.sortedIndexEntries);
+    Collections.sort(entriesSortedByRows, new Comparator<IndexEntry>() {
       @Override
       public int compare(IndexEntry object1, IndexEntry object2) {
         return object2.numRows - object1.numRows;
       }});
     System.out.println("Most common tokens:");
-    for (int i = 0; i < 50 && i < sortedEntries.size(); ++i) {
-      System.out.println("  " + sortedEntries.get(i));
+    for (int i = 0; i < 50 && i < entriesSortedByRows.size(); ++i) {
+      System.out.println("  " + entriesSortedByRows.get(i));
     }
   }
   

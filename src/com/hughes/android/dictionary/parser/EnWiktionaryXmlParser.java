@@ -288,10 +288,18 @@ public class EnWiktionaryXmlParser {
   
   
   static final class Callback implements WikiTokenizer.Callback {
-    final Map<String,WikiFunctionCallback> functionCallbacks;
-    final StringBuilder builder;
-    final IndexBuilder defaultIndexBuilder;
+    public Callback(IndexedEntry indexedEntry, IndexBuilder defaultIndexBuilder,
+        StringBuilder builder, Map<String, WikiFunctionCallback> functionCallbacks) {
+      this.indexedEntry = indexedEntry;
+      this.defaultIndexBuilder = defaultIndexBuilder;
+      this.builder = builder;
+      this.functionCallbacks = functionCallbacks;
+    }
+
     final IndexedEntry indexedEntry;
+    final IndexBuilder defaultIndexBuilder;
+    final StringBuilder builder;
+    final Map<String,WikiFunctionCallback> functionCallbacks;
     
     // TODO: the classes of text are wrong....
     
@@ -351,9 +359,16 @@ public class EnWiktionaryXmlParser {
     while (wikiTokenizer.nextToken() != null) {
       
       if (wikiTokenizer.isPlainText()) {
+        final String plainText = wikiTokenizer.token(); 
+        foreignText.append(plainText);
+        foreignIndexBuilder.addEntryWithString(indexedEntry, plainText, EntryTypeName.WIKTIONARY_TRANSLATION_OTHER_TEXT);
         
       } else if (wikiTokenizer.isWikiLink()) {
-        
+        final String plainText = wikiTokenizer.wikiLinkText(); 
+        foreignText.append(plainText);
+        // TODO: should check for English before appending.
+        foreignIndexBuilder.addEntryWithString(indexedEntry, plainText, EntryTypeName.WIKTIONARY_TRANSLATION_WIKI_TEXT);
+
       } else if (wikiTokenizer.isFunction()) {
         final String functionName = wikiTokenizer.functionName();
         final List<String> args = wikiTokenizer.functionPositionArgs();
@@ -586,6 +601,7 @@ public class EnWiktionaryXmlParser {
         } else if (name.equals("attention") || name.equals("zh-attention")) {
           // See: http://en.wiktionary.org/wiki/Template:attention
           // Ignore these.
+        // TODO: head } else if (name.equals("head")) {
         } else if (name.equals("infl")) {
           // See: http://en.wiktionary.org/wiki/Template:infl
           final String langCode = get(args, 0);
@@ -809,6 +825,13 @@ public class EnWiktionaryXmlParser {
             // null baseForm happens in Danish.
             LOG.warning("Null baseform: " + title);
           }
+//        } else if (name.equals("defn")) {
+          // TODO: test me!
+          // Do nothing.
+          // http://en.wiktionary.org/wiki/Wiktionary:Requests_for_deletion/Others#Template:defn
+          // Redundant, used for the same purpose as {{rfdef}}, but this 
+          // doesn't produce the "This word needs a definition" text. 
+          // Delete or redirect.
         } else {
           namedArgs.keySet().removeAll(USELESS_WIKI_ARGS);
           if (args.size() == 0 && namedArgs.isEmpty()) {

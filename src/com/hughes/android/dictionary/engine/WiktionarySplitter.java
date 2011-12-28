@@ -34,6 +34,8 @@ import org.xml.sax.SAXException;
 
 public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
   
+  private static final String FILE_TO_SPLIT = "data/inputs/enwiktionary-20111224-pages-articles.xml";
+  
   static class Section implements java.io.Serializable {
     private static final long serialVersionUID = -7676549898325856822L;
 
@@ -70,7 +72,7 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
     final WiktionarySplitter wiktionarySplitter = new WiktionarySplitter();
     
     // Configure things.
-    final File file = new File(args[0]);
+    
     final List<Selector> selectors = wiktionarySplitter.selectors;
     for (int i = 1; i < args.length; i += 2) {
       final Selector selector = new Selector(args[i], args[i+1]);
@@ -79,57 +81,57 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
 
     if (selectors.isEmpty()) {
       selectors.addAll(Arrays.asList(
-          new Selector("../DictionaryData/inputs/enWikiSplit/AF.data", ".*[Aa]frikaans.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/AR.data", ".*[Aa]rabic.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/HY.data", ".*[Aa]rmenian.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/HR.data", ".*[Cc]roatian.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/CS.data", ".*[Cc]zech.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/ZH.data", ".*[Cc]hinese.*|.*[Mm]andarin.*|.*Cantonese.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/DA.data", ".*[Dd]anish.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/NL.data", ".*[Dd]utch.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/EN.data", ".*[Ee]nglish.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/FI.data", ".*[Ff]innish.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/FR.data", ".*[Ff]rench.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/DE.data", ".*[Gg]erman.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/EL.data", ".*[Gg]reek.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/haw.data", ".*[Hh]awaiian.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/HE.data", ".*[Hh]ebrew.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/HI.data", ".*[Hh]indi.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/IS.data", ".*[Ii]celandic.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/GA.data", ".*[Ii]rish.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/IT.data", ".*[Ii]talian.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/LT.data", ".*[Ll]ithuanian.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/JA.data", ".*[Jj]apanese.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/KO.data", ".*[Kk]orean.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/KU.data", ".*[Kk]urdish.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/MS.data", ".*[Mm]alay.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/MI.data", ".*[Mm]aori.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/MN.data", ".*[Mm]ongolian.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/NO.data", ".*[Nn]orwegian.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/FA.data", ".*[Pp]ersian.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/PT.data", ".*[Pp]ortuguese.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/PL.data", ".*[Pp]olish.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/RO.data", ".*[Rr]omanian.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/RU.data", ".*[Rr]ussian.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/SA.data", ".*[Ss]anskrit.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/SR.data", ".*[Ss]erbian.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/SO.data", ".*[Ss]omali.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/ES.data", ".*[Ss]panish.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/SV.data", ".*[Ss]wedish.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/TG.data", ".*[Tt]ajik.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/TH.data", ".*[Tt]hai.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/BO.data", ".*[Tt]ibetan.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/TR.data", ".*[Tt]urkish.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/UK.data", ".*[Uu]krainian.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/VI.data", ".*[Vv]ietnamese.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/CI.data", ".*[Ww]elsh.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/YI.data", ".*[Yy]iddish.*"),
-          new Selector("../DictionaryData/inputs/enWikiSplit/ZU.data", ".*[Zz]ulu.*")
+          new Selector("data/inputs/enWikiSplit/AF.data", ".*[Aa]frikaans.*"),
+          new Selector("data/inputs/enWikiSplit/AR.data", ".*[Aa]rabic.*"),
+          new Selector("data/inputs/enWikiSplit/HY.data", ".*[Aa]rmenian.*"),
+          new Selector("data/inputs/enWikiSplit/HR.data", ".*[Cc]roatian.*"),
+          new Selector("data/inputs/enWikiSplit/CS.data", ".*[Cc]zech.*"),
+          new Selector("data/inputs/enWikiSplit/ZH.data", ".*[Cc]hinese.*|.*[Mm]andarin.*|.*Cantonese.*"),
+          new Selector("data/inputs/enWikiSplit/DA.data", ".*[Dd]anish.*"),
+          new Selector("data/inputs/enWikiSplit/NL.data", ".*[Dd]utch.*"),
+          new Selector("data/inputs/enWikiSplit/EN.data", ".*[Ee]nglish.*"),
+          new Selector("data/inputs/enWikiSplit/FI.data", ".*[Ff]innish.*"),
+          new Selector("data/inputs/enWikiSplit/FR.data", ".*[Ff]rench.*"),
+          new Selector("data/inputs/enWikiSplit/DE.data", ".*[Gg]erman.*"),
+          new Selector("data/inputs/enWikiSplit/EL.data", ".*[Gg]reek.*"),
+          new Selector("data/inputs/enWikiSplit/haw.data", ".*[Hh]awaiian.*"),
+          new Selector("data/inputs/enWikiSplit/HE.data", ".*[Hh]ebrew.*"),
+          new Selector("data/inputs/enWikiSplit/HI.data", ".*[Hh]indi.*"),
+          new Selector("data/inputs/enWikiSplit/IS.data", ".*[Ii]celandic.*"),
+          new Selector("data/inputs/enWikiSplit/GA.data", ".*[Ii]rish.*"),
+          new Selector("data/inputs/enWikiSplit/IT.data", ".*[Ii]talian.*"),
+          new Selector("data/inputs/enWikiSplit/LT.data", ".*[Ll]ithuanian.*"),
+          new Selector("data/inputs/enWikiSplit/JA.data", ".*[Jj]apanese.*"),
+          new Selector("data/inputs/enWikiSplit/KO.data", ".*[Kk]orean.*"),
+          new Selector("data/inputs/enWikiSplit/KU.data", ".*[Kk]urdish.*"),
+          new Selector("data/inputs/enWikiSplit/MS.data", ".*[Mm]alay.*"),
+          new Selector("data/inputs/enWikiSplit/MI.data", ".*[Mm]aori.*"),
+          new Selector("data/inputs/enWikiSplit/MN.data", ".*[Mm]ongolian.*"),
+          new Selector("data/inputs/enWikiSplit/NO.data", ".*[Nn]orwegian.*"),
+          new Selector("data/inputs/enWikiSplit/FA.data", ".*[Pp]ersian.*"),
+          new Selector("data/inputs/enWikiSplit/PT.data", ".*[Pp]ortuguese.*"),
+          new Selector("data/inputs/enWikiSplit/PL.data", ".*[Pp]olish.*"),
+          new Selector("data/inputs/enWikiSplit/RO.data", ".*[Rr]omanian.*"),
+          new Selector("data/inputs/enWikiSplit/RU.data", ".*[Rr]ussian.*"),
+          new Selector("data/inputs/enWikiSplit/SA.data", ".*[Ss]anskrit.*"),
+          new Selector("data/inputs/enWikiSplit/SR.data", ".*[Ss]erbian.*"),
+          new Selector("data/inputs/enWikiSplit/SO.data", ".*[Ss]omali.*"),
+          new Selector("data/inputs/enWikiSplit/ES.data", ".*[Ss]panish.*"),
+          new Selector("data/inputs/enWikiSplit/SV.data", ".*[Ss]wedish.*"),
+          new Selector("data/inputs/enWikiSplit/TG.data", ".*[Tt]ajik.*"),
+          new Selector("data/inputs/enWikiSplit/TH.data", ".*[Tt]hai.*"),
+          new Selector("data/inputs/enWikiSplit/BO.data", ".*[Tt]ibetan.*"),
+          new Selector("data/inputs/enWikiSplit/TR.data", ".*[Tt]urkish.*"),
+          new Selector("data/inputs/enWikiSplit/UK.data", ".*[Uu]krainian.*"),
+          new Selector("data/inputs/enWikiSplit/VI.data", ".*[Vv]ietnamese.*"),
+          new Selector("data/inputs/enWikiSplit/CI.data", ".*[Ww]elsh.*"),
+          new Selector("data/inputs/enWikiSplit/YI.data", ".*[Yy]iddish.*"),
+          new Selector("data/inputs/enWikiSplit/ZU.data", ".*[Zz]ulu.*")
           ));
     }
     
     // Do it.
-    parser.parse(file, wiktionarySplitter);
+    parser.parse(new File(FILE_TO_SPLIT), wiktionarySplitter);
     
     // Shutdown.
     for (final Selector selector : selectors) {

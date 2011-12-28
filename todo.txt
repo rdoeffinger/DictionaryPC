@@ -24,6 +24,22 @@ Handle other sections:
   Chinese: handle "Compounds" section
 {{count page|[[Wiktionary:Page count]]}}
 
+Bad filing: under Arab?
+===Arab===
+  جميل {m} (tr. jamiil) (adjective), feminine singular and inanimate plural: {{Arab|[[جميلة]]}}, masculine plural: {{Arab|[[جمال]]}}, feminine plural: {{Arab|[[جميلات]]}} :: beautiful
+  {{Arab|برج}} (tr. burj) (noun), dual: {{Arab|[[برجي]]}} (barjī), plural: {{Arab|[[بروج]]}} (burūj) or {{Arab|[[ابراج]]}} (’abrāj) :: castle
+  {{Arab|برج}} (tr. burj) (noun), dual: {{Arab|[[برجي]]}} (barjī), plural: {{Arab|[[بروج]]}} (burūj) or {{Arab|[[ابراج]]}} (’abrāj) :: citadel
+  {{Arab|برج}} (tr. burj) (noun), dual: {{Arab|[[برجي]]}} (barjī), plural: {{Arab|[[بروج]]}} (burūj) or {{Arab|[[ابراج]]}} (’abrāj) :: tower
+    {{term|w:Burj Khalifa|برج خليفة|tr=Burj Khalifa|Khalifa Tower}} (dialect: borǰ khalīfa), initially named {{term|sc=Arab||برج دبي|lang=ar||Dubai Tower}}. :: --
+  {{Arab|برج}} (tr. burj) (noun), dual: {{Arab|[[برجي]]}} (barjī), plural: {{Arab|[[بروج]]}} (burūj) or {{Arab|[[ابراج]]}} (’abrāj) :: constellation
+  {{Arab|برج}} (tr. burj) (noun), dual: {{Arab|[[برجي]]}} (barjī), plural: {{Arab|[[بروج]]}} (burūj) or {{Arab|[[ابراج]]}} (’abrāj) :: spire
+  {{Arab|برج}} (tr. burj) (noun), dual: {{Arab|[[برجي]]}} (barjī), plural: {{Arab|[[بروج]]}} (burūj) or {{Arab|[[ابراج]]}} (’abrāj) :: asterism
+  {{Arab|برج}} (tr. burj) (noun), dual: {{Arab|[[برجي]]}} (barjī), plural: {{Arab|[[بروج]]}} (burūj) or {{Arab|[[ابراج]]}} (’abrāj) :: zodiac
+  {{Arab|برج}} (tr. burj) (noun), dual: {{Arab|[[برجي]]}} (barjī), plural: {{Arab|[[بروج]]}} (burūj) or {{Arab|[[ابراج]]}} (’abrāj) :: sign of the zodiac
+  هدف {m} (tr. hádaf) (noun), plural: {{Arab|[[اهداف]]}} (’ahdāf) :: target, object, aim, end
+  هدف {m} (tr. hádaf) (noun), plural: {{Arab|[[اهداف]]}} (’ahdāf) :: objective, purpose, design, intention
+  هدف {m} (tr. hádaf) (noun), plural: {{Arab|[[اهداف]]}} (’ahdāf) :: goal
+  صفر {{Arab|صُفْر}} {{IPAchar|(Sufr)}} {p} :: yellow, pale, pallid, wan ({plural of|{{Arab|[[أصفر|أَصْفَر]]}}})
 
 
 === Bad ordering:

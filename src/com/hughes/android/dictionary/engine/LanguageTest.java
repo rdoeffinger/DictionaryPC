@@ -121,6 +121,32 @@ public class LanguageTest extends TestCase {
     assertEquals("kyanpasu", transliterator.transliterate("キャンパス"));
     assertEquals("alphabetikos katalogos", transliterator.transliterate("Αλφαβητικός Κατάλογος"));
     assertEquals("biologiceskom", transliterator.transliterate("биологическом"));
+
+    
+  }
+  
+  public void testChinese() {
+    final Language zh = Language.lookup("zh");
+    final Transliterator transliterator = Transliterator.createFromRules("", zh.getDefaultNormalizerRules(), Transliterator.FORWARD);
+    
+    assertEquals("xie xie", transliterator.transliterate("謝謝"));
+    assertEquals("xie xie", transliterator.transliterate("谢谢"));
+
+    assertEquals("dian nao", transliterator.transliterate("電腦"));
+    assertEquals("dian nao", transliterator.transliterate("电脑"));
+    assertEquals("ji suan ji", transliterator.transliterate("計算機"));
+    assertEquals("ji suan ji", transliterator.transliterate("计算机"));
+    
+    assertEquals("cheng jiu", transliterator.transliterate("成就"));
+    
+  }
+  
+  public void testArabic() {
+    final Language ar = Language.lookup("ar");
+    final Transliterator transliterator = Transliterator.createFromRules("", ar.getDefaultNormalizerRules(), Transliterator.FORWARD);
+    // These don't seem quite right....
+    assertEquals("haswb", transliterator.transliterate("حاسوب"));
+    assertEquals("kmbywtr", transliterator.transliterate("كمبيوتر"));
   }
 
 
