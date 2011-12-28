@@ -601,8 +601,7 @@ public class EnWiktionaryXmlParser {
         } else if (name.equals("attention") || name.equals("zh-attention")) {
           // See: http://en.wiktionary.org/wiki/Template:attention
           // Ignore these.
-        // TODO: head } else if (name.equals("head")) {
-        } else if (name.equals("infl")) {
+        } else if (name.equals("infl") || name.equals("head")) {
           // See: http://en.wiktionary.org/wiki/Template:infl
           final String langCode = get(args, 0);
           String head = namedArgs.remove("head");
@@ -825,8 +824,19 @@ public class EnWiktionaryXmlParser {
             // null baseForm happens in Danish.
             LOG.warning("Null baseform: " + title);
           }
-//        } else if (name.equals("defn")) {
-          // TODO: test me!
+        } else if (name.equals("l")) {
+          // encodes text in various langs.
+          // lang is arg 0.
+          englishBuilder.append("").append(args.get(1));
+          final String langCode = args.get(0);
+          if ("en".equals(langCode)) {
+            enIndexBuilder.addEntryWithString(indexedEntry, args.get(1), EntryTypeName.WIKTIONARY_ENGLISH_DEF_WIKI_LINK);
+          } else {
+            foreignIndexBuilder.addEntryWithString(indexedEntry, args.get(1), EntryTypeName.WIKTIONARY_ENGLISH_DEF_OTHER_LANG);
+          }
+          // TODO: transliteration
+          
+        } else if (name.equals("defn") || name.equals("rfdef")) {
           // Do nothing.
           // http://en.wiktionary.org/wiki/Wiktionary:Requests_for_deletion/Others#Template:defn
           // Redundant, used for the same purpose as {{rfdef}}, but this 

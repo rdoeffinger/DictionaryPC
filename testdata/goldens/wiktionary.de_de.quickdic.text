@@ -86,13 +86,8 @@ Index: de de->en
     bei Abfahrt des Zuges :: “upon departure of the train”
 ===abnormal===
   abnormal {{de-adj|comparative=abnormaler|superlative=abnormalsten}} :: abnormal
-===absolut===
-  absolut (adjective) :: absolute
-  absolut (adverb) :: absolutely
 ===abstinent===
   abstinent {{de-adj|comparative=abstinenter|superlative=abstinentesten}} :: abstinent
-===abstrakt===
-  abstrakt {{de-adj|comparative=abstrakter|superlative=abstraktesten}} :: abstract
 ===absurd===
   absurd {{de-adj|comparative=absurder|superlative=absurdesten}} :: absurd
 ===Abteilung===
@@ -124,9 +119,9 @@ Index: de de->en
 ===adverbial===
   adverbial {{de-adj|-}} :: adverbial
 ===æ===
-  æ (letter), lower case, upper case: Æ :: {obsolete} {{l|en|vowel|Vowel}} borrowed from {{l|en|Latin}}. Succeeded by ä.
+  æ (letter), lower case, upper case: Æ :: {obsolete} vowel borrowed from Latin. Succeeded by ä.
 ===Æ===
-  æ (letter), lower case, upper case: Æ :: {obsolete} {{l|en|vowel|Vowel}} borrowed from {{l|en|Latin}}. Succeeded by ä.
+  æ (letter), lower case, upper case: Æ :: {obsolete} vowel borrowed from Latin. Succeeded by ä.
 ===Affe===
   Affe {{de-noun|g=m|genitive=Affen|plural=Affen}} :: monkey
   Affe {{de-noun|g=m|genitive=Affen|plural=Affen}} :: ape
@@ -135,7 +130,7 @@ Index: de de->en
 ===ah===
   ah :: an exclamation of contentment
 ===aha===
-  aha (interjection) :: {{l|en|aha}}
+  aha (interjection) :: aha
 ===Akkord===
   Akkord {{de-noun|g=m|genitive=Akkordes|plural=Akkorde}} :: {{context|music}} chord
     1931, Arthur Schnitzler, Flucht in die Finsternis, S. Fischer Verlag, page 14: :: --
@@ -149,8 +144,8 @@ Index: de de->en
 ===Åland===
   Åland {n} :: Åland
 ===alb===
-  (Middle High German) alb (plural elbe, elber) :: elf
-  (Middle High German) alb (plural elbe, elber) :: friendly spirit, ghostly being, genius, or fairy
+  (Middle High German) alb (noun), plural: elbe, plural2: elber :: elf
+  (Middle High German) alb (noun), plural: elbe, plural2: elber :: friendly spirit, ghostly being, genius, or fairy
 ===alba===
   (Old High German) alba {{goh-noun|g=f}} :: alpine pasture
   (Old High German) alba {{goh-noun|g=f}} :: alp
@@ -196,7 +191,7 @@ Index: de de->en
 ===amber===
   (Old High German) amber {{goh-noun|g=m}} :: bucket
 ===ambi===
-  ambi- (prefix) :: {{l|en|ambi-}}
+  ambi- (prefix) :: ambi-
 ===ambivalent===
   ambivalent {{de-adj|comparative=ambivalenter|superlative=ambivalentesten}} :: ambivalent
     1923, Sigmund Freud, Eine Teufelsneurose im siebzehnten Jahrhundert, in: Imago: Zeitschrift für Anwendung der Psychoanalyse auf die Geisteswissenschaften, vol. 9, booklet 1, Internationaler Psychoanalytischer Verlag, page 13–14: :: --
@@ -207,7 +202,7 @@ Index: de de->en
     An der nächsten Ampel links abbiegen. :: Turn left at the next traffic light.
     Wir gehen nach links. :: We’re going to the left.
 ===Amsterdam===
-  Amsterdam {{de-proper noun}} :: {{l|en|Amsterdam}}, the nominal capital of the Netherlands
+  Amsterdam {{de-proper noun}} :: Amsterdam, the nominal capital of the Netherlands
 ===an===
   an (preposition), with an accusative or dative case object :: {{context|with a location in the dative case}} on; upon; at; in; against
     Das Bild hängt an der Wand. :: “The picture hangs on the wall.”
@@ -256,7 +251,7 @@ Index: de de->en
   angle :: {{de-verb form of|angeln|1|s|k1}}
   angle :: {{de-verb form of|angeln|3|s|k1}}
 ===Angola===
-  Angola (proper noun) :: {{l|en|Angola}}
+  Angola (proper noun) :: Angola
 ===Angst===
   sein {{de-verb-irregular|ist|war|gewesen|auxiliary=sein}} :: {intransitive} To exist; there be
     Mir ist Angst. :: For me there is fear. (“I am afraid.”)
@@ -274,7 +269,7 @@ Index: de de->en
   Appenzell Innerrhoden :: Appenzell Inner Rhodes.
   Appenzell Ausserrhoden :: Appenzell Outer Rhodes
 ===April===
-  April {m} (noun) :: {{l|en|April}}
+  April {m} (noun) :: April
 ===apropos===
   apropos {{de-adv}} :: apropos
 ===Arabische===
@@ -312,6 +307,8 @@ Index: de de->en
   Aschen f pl :: {plural of|Asche}
 ===Aschen===
   Aschen f pl :: {plural of|Asche}
+===astro===
+  astro- (prefix) :: astro-
 ===atto===
   (Old High German) atto {{goh-noun|g=m}} :: father
 ===auch===
@@ -386,7 +383,7 @@ Index: de de->en
 ===Badewanne===
   Badewanne {{de-noun|g=f|plural=Badewannen}} :: bathtub
 ===Bahamas===
-  Bahamas {{de-proper noun}} {p} :: {{l|en|Bahamas}}
+  Bahamas {{de-proper noun}} {p} :: Bahamas
 ===Bahn===
   U-Bahn {{de-noun|g=f|plural=U-Bahnen}} :: An underground railway, subway
 ===Bahnhof===
@@ -424,8 +421,8 @@ Index: de de->en
   barg :: {{de-verb form of|bergen|1|s|v}}
   barg :: {{de-verb form of|bergen|3|s|v}}
 ===Basel===
-  Basel-Stadt {{de-proper noun}} :: {{l|en|Basel-Stadt}}
-  Basel-Landschaft {{de-proper noun}} :: {{l|en|Basel-Country}}, {{l|en|Basel-Landschaft}}
+  Basel-Stadt {{de-proper noun}} :: Basel-Stadt
+  Basel-Landschaft {{de-proper noun}} :: Basel-Country, Basel-Landschaft
 ===Baske===
   Baske {{de-noun|g=m|gen=Basken|plural=Basken}} :: Basque person (male).
 ===Baskenmütze===
@@ -461,10 +458,10 @@ Index: de de->en
 ===beige===
   beige (adjective) :: beige
 ===beliebt===
-  so (adverb) :: {archaic} {{l|en|an}}, {{l|en|if}}
+  so (adverb) :: {archaic} an, if
     So es Euch beliebt. :: If you please.
 ===Belize===
-  Belize (proper noun) {n} :: {{l|en|Belize}}
+  Belize (proper noun) {n} :: Belize
 ===Benin===
   Benin (proper noun) :: Benin
 ===bereits===
@@ -533,8 +530,6 @@ Index: de de->en
     Das Bild hängt an der Wand. :: “The picture hangs on the wall.”
   an (preposition), with an accusative or dative case object :: {{context|with an accusative case object}} on; onto
     Ich hänge das Bild an die Wand. :: “I hang the picture on the wall.”
-===bin===
-  bin :: {{de-verb form of|sein|1|s|g}}
 ===bio===
   bio- (prefix) :: life
   bio- (prefix) :: organically produced, or otherwise environmentally friendly
@@ -679,9 +674,9 @@ Index: de de->en
 ===Buch===
   Buch {{de-noun|g=n|gen1=Buchs|gen2=Buches|pl=Bücher|dim=Büchlein}} :: book
 ===Budapest===
-  Budapest {{de-proper noun}} :: {{l|en|Budapest}}
+  Budapest {{de-proper noun}} :: Budapest
 ===Buddhist===
-  Buddhist {{de-noun|g=m|pl=Buddhisten|gen=Buddhisten}} :: {{l|en|Buddhist}}
+  Buddhist {{de-noun|g=m|pl=Buddhisten|gen=Buddhisten}} :: Buddhist
 ===Büffel===
   Büffel {{de-noun|g=m|genitive=Büffels|plural=Büffel}} :: buffalo
   Büffel {{de-noun|g=m|genitive=Büffels|plural=Büffel}} :: coarse cloth
@@ -736,7 +731,7 @@ Index: de de->en
 ===Claudia===
   Claudia (proper noun) :: {{given name|female}} from the Latin feminine form of Claudius; quite popular from the 1960s to the 1980s.
 ===Costa===
-  Costa Rica {f} (proper noun) :: {{l|en|Costa Rica}}
+  Costa Rica {f} (proper noun) :: Costa Rica
 ===cover===
   cover :: {{de-verb form of|covern|1|s|g}}
   cover :: {{de-verb form of|covern|i|s}}
@@ -755,6 +750,12 @@ Index: de de->en
     die da :: “that one (or she or they) there”
   wie :: like
     Freunde sind wie Sterne in der Nacht; auch wenn sie manchmal nicht zu sehen sind, weißt Du trotzdem, dass sie da sind! :: Friends are like stars in the night; even at times when they can't be seen, you know anyway, that they are there!
+===dag===
+  (Middle Low German) dag {m} (noun), genitive: dages, dative: dage, accusative: dag, plural: dage :: day
+===dage===
+  (Middle Low German) dag {m} (noun), genitive: dages, dative: dage, accusative: dag, plural: dage :: day
+===dages===
+  (Middle Low German) dag {m} (noun), genitive: dages, dative: dage, accusative: dag, plural: dage :: day
 ===Daniel===
   Daniel (proper noun) :: {biblical character} Daniel.
   Daniel (proper noun) :: {{given name|male}}.
@@ -788,7 +789,7 @@ Index: de de->en
 ===daß===
   daß (conjunction) :: {{context|subordinating}} {{obsolete spelling of|[[dass]]}} that.
 ===dat===
-  (Low German) dat {n} (article), dafinite article :: the
+  (Low German) dat {n} (article), definite article :: the
     Dat Hus was trechtmakt. (The house was finished.) :: --
   (Low German) dat {n} (article) :: {demonstrative} that
     Ik mag dat Bauk. (I like that book.) :: --
@@ -821,6 +822,10 @@ Index: de de->en
     De Mann, den wi hüert häbben. (The man, which we hired.) :: --
   (Low German) de {f} (pronoun), accusative: de :: {relative} which, that
     De Fru, de wi hüert hębben. (The woman, which we have hired.) :: --
+===dealt===
+  dealt :: {{de-verb form of|dealen|3|s|g}}
+  dealt :: {{de-verb form of|dealen|2|p|g}}
+  dealt :: {{de-verb form of|dealen|i|p}}
 ===decke===
   decke (verb form) :: present tense first person singular of decken "I cover"
 ===dei===
@@ -831,9 +836,9 @@ Index: de de->en
   dein {m} (pronoun), neuter: dein, feminine: deine, plural: deine :: {possessive} your {{qualifier|informal, friends, relatives}}.
 ===dem===
   dem (article), definite :: the; {dative singular masculine|der}
-  dem (article), definite :: the; {dative singular neuter|der}
+  dem (article), definite :: the; {dative singular neuter|das}
   dem (pronoun form), relative :: {dative singular masculine|der}
-  dem (pronoun form), relative :: {dative singular neuter|der}
+  dem (pronoun form), relative :: {dative singular neuter|das}
   am (contraction) (+ adjective ending with -en + masculine or neuter noun) :: an + dem, on the, at the
   zum (+ adjective ending with -en + masculine or neuter noun) :: to the (contraction of zu + dem)
 ===dęme===
@@ -1003,7 +1008,7 @@ Index: de de->en
 ===ebano===
   (Old High German) ebano :: just
 ===echt===
-  echt :: authentic, genuine, real
+  echt {{de-adj|echter|echtesten}} :: authentic, genuine, real
 ===Ecke===
   um (preposition) + accusative :: around
     Um die Ecke :: around the corner
@@ -1048,10 +1053,17 @@ Index: de de->en
 ===Eis===
   Eis {{de-noun|g=n|pl=-|genitive=Eises}} :: ice
   Eis {{de-noun|g=n|pl=-|genitive=Eises}} :: ice cream
+  Eis (noun form) :: {{genitive of|Ei}}
 ===Eisen===
   Eisen {n} :: iron (chemical element, Fe)
 ===El===
   El Salvador {n} (proper noun) :: El Salvador
+===elbe===
+  (Middle High German) alb (noun), plural: elbe, plural2: elber :: elf
+  (Middle High German) alb (noun), plural: elbe, plural2: elber :: friendly spirit, ghostly being, genius, or fairy
+===elber===
+  (Middle High German) alb (noun), plural: elbe, plural2: elber :: elf
+  (Middle High German) alb (noun), plural: elbe, plural2: elber :: friendly spirit, ghostly being, genius, or fairy
 ===elf===
   elf (numeral) :: {cardinal} eleven
 ===em===
@@ -1112,7 +1124,7 @@ Index: de de->en
 ===ergo===
   ergo :: ergo
 ===Eritrea===
-  Eritrea (proper noun) :: {{l|en|Eritrea}}
+  Eritrea (proper noun) :: Eritrea
 ===ero===
   (Old High German) ero {{goh-noun|g=n}} :: earth
 ===es===
@@ -1120,7 +1132,7 @@ Index: de de->en
   es {n} (plural: es) :: {music} E flat
   bei (preposition), + dative :: {{context|with something that has a location}} by (some place or someone); near; with; on
     Ich habe es nicht bei mir. :: “I do not have it on me.”
-  so (adverb) :: {archaic} {{l|en|an}}, {{l|en|if}}
+  so (adverb) :: {archaic} an, if
     So es Euch beliebt. :: If you please.
   ward (verb form) :: {archaic} Third-person singular indicative past form of werden.
     Und Gott sprach: »Es werde Licht!« Und es ward Licht. [http://www.bibledbdata.org/onlinebibles/german_l/01_001.htm] :: And God said: "Let there be light." And there was light.
@@ -1163,7 +1175,7 @@ Index: de de->en
   aus (preposition), + dative :: for; because of; due to; out of
     Etwas aus Freundschaft tun. :: To do something out of friendship.
 ===Euch===
-  so (adverb) :: {archaic} {{l|en|an}}, {{l|en|if}}
+  so (adverb) :: {archaic} an, if
     So es Euch beliebt. :: If you please.
 ===ewig===
   Berlin {n} (proper noun) :: Berlin, the capital city of Germany.
@@ -1242,7 +1254,7 @@ Index: de de->en
 ===Fisch===
   Fisch {{de-noun|g=m|genitive=Fisches|plural=Fische}} :: fish
 ===fix===
-  fix {{de-adj|comparative=fixer|superlative=fixesten}} :: fixed {{italbrac|costs, salary}}
+  fix {{de-adj|comparative=fixer|superlative=fixesten}} :: fixed {{qualifier|costs, salary}}
   fix {{de-adj|comparative=fixer|superlative=fixesten}} :: quick
   fix {{de-adj|comparative=fixer|superlative=fixesten}} :: smart
 ===Flämisch===
@@ -1258,7 +1270,7 @@ Index: de de->en
 ===Fr===
   Fr (abbreviation) :: {{abbreviation of|Freitag}} "Friday"
 ===Frankfurt===
-  Frankfurt {{de-proper noun}} :: {{l|en|Frankfurt}}
+  Frankfurt {{de-proper noun}} :: Frankfurt
 ===französisch===
   französisch (adjective) :: French
     1990, Zwei-plus-Vier-Vertrag, in: Bundesgesetzblatt 1990, part 2, page 1326: :: --
@@ -1312,8 +1324,6 @@ Index: de de->en
   Gabel {{de-noun|g=f|plural=Gabeln}} :: fork
   Gabel {{de-noun|g=f|plural=Gabeln}} :: pitchfork
   Gabel {{de-noun|g=f|plural=Gabeln}} :: prong
-===gades===
-  (Middle Low German) god {m} (noun), genitive: gades :: god
 ===gaffe===
   gaffe :: {{de-verb form of|gaffen|1|s|g}}
   gaffe :: {{de-verb form of|gaffen|i|s}}
@@ -1450,8 +1460,10 @@ Index: de de->en
   global {{de-adj|-}} :: global {{italbrac|worldwide}}
 ===god===
   (Low German) god (adjective) :: good
-  (Middle Low German) gōd (adjective) :: good
-  (Middle Low German) god {m} (noun), genitive: gades :: god
+  (Middle Low German) gôd (adjective) :: good
+  (Middle Low German) gōd {m} (noun), genitive: godes :: god
+===godes===
+  (Middle Low German) gōd {m} (noun), genitive: godes :: god
 ===google===
   google :: {{de-verb form of|googeln|1|s|g}}
   google :: {{de-verb form of|googeln|i|s}}
@@ -1488,7 +1500,7 @@ Index: de de->en
   grün {{de-adj|comparative=grüner|superlative=grünsten}} :: green
   grün {{de-adj|comparative=grüner|superlative=grünsten}} :: {{context|politics|Germany}} pertaining to Bündnis 90/Die Grünen (the largest environmental party in Germany)
 ===Guatemala===
-  Guatemala (proper noun) :: {{l|en|Guatemala}}
+  Guatemala (proper noun) :: Guatemala
 ===Guinea===
   Guinea {n} :: Guinea
   Guinea-Bissau {n} :: Guinea-Bissau
@@ -1496,7 +1508,7 @@ Index: de de->en
   gut {{de-adj|comparative=besser |superlative=besten}} :: good
   gut {{de-adv}} :: well
   {{l|de|gut}} {{l|de|durch}} (adjective) :: {cooking} well done.
-  so (adverb) :: {{l|en|so}}, that
+  so (adverb) :: so, that
     So nett. :: So nice.
     Nicht so gut. :: Not that good.
   so (adverb) :: as
@@ -1567,6 +1579,10 @@ Index: de de->en
     zu Hause :: "at home"
 ===he===
   (Low German) he {m} (pronoun), genitive: sin, dative: em, dative 2: jüm, accusative: en :: {personal} he
+  (Middle Low German) sîn (pronoun) :: {possessive} his; possessive form of he
+  (Middle Low German) sîn (pronoun) :: of his; genitive form of he
+    lohant ret her Zeno hen na Verona to dem vader sin. :: --
+    John rode Sir Zeno to Verona, to the father of his. :: --
 ===hebben===
   (Low German) hebben (verb) :: to have
 ===heilig===
@@ -1764,6 +1780,9 @@ Index: de de->en
     Pianist :: pianist
     Anarchist :: anarchist
     Rassist :: racist
+===it===
+  (Middle Low German) sîn (pronoun) :: {possessive} its; possessive form of it
+  (Middle Low German) sîn (pronoun) :: of it; genitive form of it
 ===ja===
   ja {{de-adv}} :: yes
     Willst du das? Ja. :: “Do you want that? Yes.”
@@ -1775,6 +1794,10 @@ Index: de de->en
 ===Ja===
   ja {{de-adv}} :: yes
     Willst du das? Ja. :: “Do you want that? Yes.”
+===jacht===
+  (Middle Low German) jacht {f} (noun) :: a hunt
+  (Middle Low German) jacht {f} (noun) :: a chase, a pursuit
+  (Middle Low German) jacht {f} (noun) :: a fast ship (shortened from jachte/jachtschip)
 ===Jacob===
   Jacob (proper noun) :: {{given name|male}}, equivalent to English Jacob and James.
 ===Jahre===
@@ -1789,8 +1812,6 @@ Index: de de->en
   japanisch (adjective) :: Of or relating to Japan, the Japanese people, or the Japanese language.
 ===Japans===
   Japans (noun form) :: {{genitive of|[[Japan#German|Japan]]}}
-===jar===
-  (Old High German) jar {{goh-noun|head=jār|g=n}} :: year
 ===je===
   je {{de-adv}} :: ever
     1930, Paul Joachimsen, Der Humanismus und die Entwicklung des deutschen Geistes, in: Deutsche Vierteljahrsschrift für Literaturwissenschaft und Geistesgeschichte, 8, page 467: :: --
@@ -1826,7 +1847,7 @@ Index: de de->en
   rennen {{de-verb}} :: {{transitive|auxiliary: “[[sein]]”}} to run over (someone)
     jemanden zu Boden rennen :: “to run someone to the ground”
 ===Jesus===
-  Jesus {{de-proper noun|g=m}} :: {christianity} {{l|en|Jesus}}
+  Jesus {{de-proper noun|g=m}} :: {christianity} Jesus
 ===Jod===
   Jod {n} (noun) :: iodine
 ===Johannisbeere===
@@ -1844,8 +1865,8 @@ Index: de de->en
 ===junges===
   junges (adjective form) :: Neuter form of jung.
 ===Jupiter===
-  Jupiter {{de-proper noun|g=m}} :: {{l|en|Jupiter}} (planet)
-  Jupiter {{de-proper noun|g=m}} :: {{l|en|Jupiter}} (god)
+  Jupiter {{de-proper noun|g=m}} :: Jupiter (planet)
+  Jupiter {{de-proper noun|g=m}} :: Jupiter (god)
 ===just===
   just archaic :: just
 ===Kabul===
@@ -1963,7 +1984,7 @@ Index: de de->en
 ===Kutsche===
   Kutsche {{de-noun|g=f|plural=Kutschen}} :: carriage, coach.
 ===Kuwait===
-  Kuwait {{de-proper noun|g=n}} :: {{l|en|Kuwait}}
+  Kuwait {{de-proper noun|g=n}} :: Kuwait
 ===l===
   ward (verb form) :: {archaic} Third-person singular indicative past form of werden.
     Und Gott sprach: »Es werde Licht!« Und es ward Licht. [http://www.bibledbdata.org/onlinebibles/german_l/01_001.htm] :: And God said: "Let there be light." And there was light.
@@ -1982,7 +2003,7 @@ Index: de de->en
 ===Landkarte===
   Landkarte {{de-noun|g=f|plural=Landkarten}} :: map
 ===Landschaft===
-  Basel-Landschaft {{de-proper noun}} :: {{l|en|Basel-Country}}, {{l|en|Basel-Landschaft}}
+  Basel-Landschaft {{de-proper noun}} :: Basel-Country, Basel-Landschaft
 ===langsam===
   langsam {{de-adj|comparative=langsamer|superlative=langsamsten}} :: slow, both in the senses of slow physical movement and limited progress
     Das Projekt geht nur langsam voran. :: --
@@ -2041,7 +2062,7 @@ Index: de de->en
 ===Leone===
   Sierra Leone {n} (proper noun) :: Sierra Leone
 ===Lesotho===
-  Lesotho {{de-proper noun|g=n}} :: {{l|en|Lesotho}}
+  Lesotho {{de-proper noun|g=n}} :: Lesotho
 ===lettisch===
   lettisch (adjective) :: Latvian
 ===leven===
@@ -2049,7 +2070,7 @@ Index: de de->en
 ===Lexikon===
   Lexikon {{de-noun|g=n|genitive=Lexikons|plural=Lexika|pl2=Lexikons}} :: lexicon
 ===Liberia===
-  Liberia {{de-proper noun|g=n}} :: {{l|en|Liberia}}
+  Liberia {{de-proper noun|g=n}} :: Liberia
 ===Licht===
   Licht {{de-noun|g=n|gen1=Lichts|gen2=Lichtes|pl1=Lichter|pl2=Lichte}} :: light
     1918, Elisabeth von Heyking, Die Orgelpfeifen, in: Zwei Erzählungen, Phillipp Reclam jun. Verlag, page 53: :: --
@@ -2096,7 +2117,7 @@ Index: de de->en
   log :: {{de-verb form of|lügen|1|s|v}}
   log :: {{de-verb form of|lügen|3|s|v}}
 ===London===
-  London (proper noun) :: {{l|en|London}} {{gloss|city}}
+  London (proper noun) :: London {{gloss|city}}
 ===los===
   los (adverb)(only used in combination with sein (to be) or another verb) :: loose (not attached)
   los (adverb)(only used in combination with sein (to be) or another verb) :: rid of
@@ -2187,11 +2208,11 @@ Index: de de->en
 ===mano===
   (Old High German) mano {{goh-noun|head=māno|g=m}} :: moon
 ===Manx===
-  Manx {n} (proper noun) :: Manx Gaelic, the Goidelic language spoken on the Isle of Man
+  Manx {n} (proper noun) :: Manx Gaelic, the Goidelic Celtic language spoken on the Isle of Man
 ===Marcus===
   Marcus (proper noun) :: {{given name|male}}, a less common spelling of Markus.
 ===Marino===
-  San Marino {n} (proper noun) :: {{l|en|San Marino}}
+  San Marino {n} (proper noun) :: San Marino
 ===Martha===
   Martha (proper noun) :: {biblical character} Martha.
   Martha (proper noun) :: {{given name|female}}.
@@ -2259,9 +2280,9 @@ Index: de de->en
 ===Menschenaffe===
   Menschenaffe {{de-noun|g=m|pl=Meschenaffen|gen=Meschenaffen}} :: ape, a tailless primate; humans may be excluded.
 ===mental===
-  mental {{de-adj|-}} :: {{l|en|mental}}
+  mental {{de-adj|-}} :: mental
 ===Mexiko===
-  Mexiko {{de-proper noun}} :: {{l|en|Mexico}}
+  Mexiko {{de-proper noun}} :: Mexico
 ===Michael===
   Michael (proper noun) :: {{given name|male}} of Hebrew origin.
   Michael (proper noun) :: {biblical character} Michael the Archangel.
@@ -2274,8 +2295,6 @@ Index: de de->en
     mieses Wetter = bad weather :: --
 ===Milan===
   Milan {m} (noun) :: kite (bird)
-===mild===
-  mild {{de-adj|milder|mildesten}} :: mild
 ===mindestens===
   backen {{de-verb-strong|class=6|[[backt]]''' ''or'' '''[[bäckt]]|[[backte]]''' ''or archaic'' '''[[buk]]|[[gebacken]]''' ''or'' '''[[gebackt]]}} :: {{transitive|or|intransitive}} to fire (pottery)
     Die Tonfigur muss mindestens zwei Stunden im Ofen backen. :: “The clay piece must be fired in the oven for at least two hours.”
@@ -2311,7 +2330,7 @@ Index: de de->en
   modern {{de-adj|comparative=moderner|superlative=modernsten}} :: modern
   modern {{de-verb}} :: to rot, to molder
 ===Monaco===
-  Monaco (proper noun) :: {{l|en|Monaco}}
+  Monaco (proper noun) :: Monaco
 ===Morgen===
   backen {{de-verb-strong|class=6|[[backt]]''' ''or'' '''[[bäckt]]|[[backte]]''' ''or archaic'' '''[[buk]]|[[gebacken]]''' ''or'' '''[[gebackt]]}} :: {{transitive|or|intransitive}} to bake; to roast
     Der Bäcker backt jeden Morgen 30 Laib Brot. :: “The baker bakes 30 loaves of bread every morning.”
@@ -2340,7 +2359,7 @@ Index: de de->en
   deutsch {{de-adj|deutscher|deutschesten}} :: German
     Meine Mutter ist deutscher Herkunft, aber mein Vater ist Österreicher. :: My mother is of German origin but my father is Austrian.
 ===Myanmar===
-  Myanmar {{de-proper noun|g=n}} :: {{l|en|Myanmar}}
+  Myanmar {{de-proper noun|g=n}} :: Myanmar
 ===n===
   n (article) :: {colloquial} shorthand of ein "a"
 ===na===
@@ -2399,7 +2418,7 @@ Index: de de->en
 ===Narr===
   Narr {{de-noun|g=m|genitive=Narren|plural=Narren}} :: fool, clown, jester
 ===Nauru===
-  Nauru {n} :: {{l|en|Nauru}}
+  Nauru {n} :: Nauru
 ===nazi===
   (Old High German) nazi {{goh-noun|head=nazī|g=f}} :: wetness
 ===NB===
@@ -2456,7 +2475,7 @@ Index: de de->en
 ===Nessie===
   Nessie (proper noun) :: {{context|cryptozoology}} Nessie
 ===nett===
-  so (adverb) :: {{l|en|so}}, that
+  so (adverb) :: so, that
     So nett. :: So nice.
     Nicht so gut. :: Not that good.
 ===neu===
@@ -2470,7 +2489,7 @@ Index: de de->en
   nicht {{de-adv}} :: not
   nicht? (interjection) :: Is it not?
 ===Nicht===
-  so (adverb) :: {{l|en|so}}, that
+  so (adverb) :: so, that
     So nett. :: So nice.
     Nicht so gut. :: Not that good.
 ===nichts===
@@ -2514,13 +2533,13 @@ Index: de de->en
 ===Nordamerika===
   Nordamerika {{de-proper noun|g=n}} :: North America.
 ===normal===
-  normal {{de-adj|comparative=normaler|superlative=normalsten}} :: {{l|en|normal}}
+  normal {{de-adj|comparative=normaler|superlative=normalsten}} :: normal
 ===Norwegisch===
   Norwegisch {{de-proper noun}} :: the Norwegian language
 ===Notbeleuchtung===
   Notbeleuchtung {{de-noun|g=f|plural=Notbeleuchtungen}} :: emergency lighting
 ===November===
-  November {m} (noun) :: {{l|en|November}}
+  November {m} (noun) :: November
 ===NSDAP===
   NSDAP {{de-proper noun}} :: {{abbreviation of|National Sozialistische Deutsche Arbeiter Partei}} {{qualifier|National Socialist German Workers Party}}, the full name of the Nazi party.
 ===nu===
@@ -2545,6 +2564,7 @@ Index: de de->en
   Nützlichkeitsrücksichten {f} (plural) :: {plural of|Nützlichkeitsrücksicht} (practical considerations).
 ===o===
   o (particle){{tbot entry|German|O|2010|April|de}} :: O (a vocative particle)
+  (Middle Low German) o (noun) :: island
 ===ob===
   ob :: (subordinating) if, whether
   ob :: ob ... oder &mdash; if ... or
@@ -2562,8 +2582,8 @@ Index: de de->en
 ===Öl===
   Öl {{de-noun|g=n|genitive=Öls|genitive2=Öles|plural=Öle}} :: oil
 ===old===
-  (Low German) old :: old
-  (Middle Low German) old :: old
+  (Low German) old (adjective) :: old
+  (Middle Low German) old (adjective) :: old
 ===Oman===
   Oman {{de-proper noun|g=n}} :: Oman
 ===onlinebibles===
@@ -2623,7 +2643,7 @@ Index: de de->en
 ===parenteral===
   parenteral {{de-adj|parenteraler|parenteralsten}} :: parenteral
 ===Paris===
-  Paris {{de-proper noun}} :: {{l|en|Paris}}
+  Paris {{de-proper noun}} :: Paris
 ===park===
   park :: {{de-verb form of|parken|i|s}}
   park :: {colloquial} {{de-verb form of|parken|1|s|g}}
@@ -2706,7 +2726,7 @@ Index: de de->en
   PS (abbreviation) :: Abbreviation of {{term|Pferdestärken||horsepower}}
 ===Python===
   Python {{de-noun|g=f|plural=Pythons}} :: python {{gloss|snake}}
-  Python {{de-noun|g=n|pl=-|genitive=Python}} :: {{l|en|Python}}
+  Python {{de-noun|g=n|pl=-|genitive=Python}} :: Python
 ===quake===
   quake :: {{de-verb form of|quaken|1|s|g}}
   quake :: {{de-verb form of|quaken|i|s}}
@@ -2788,6 +2808,8 @@ Index: de de->en
   rechts {{de-adv}} :: on the right: Siehst du das Auto rechts?
   rechts {{de-adv}} :: to the right: An der nächsten Ampel rechts abbiegen.
   rechts {{de-adv}} :: the right-hand side: Wir gehen nach rechts.
+  rechts {{de-adv}} :: pars pro toto for right-wing extremistic
+  rechts {{de-adv}} :: pertaining to the political right
 ===regen===
   regen {{de-verb}} :: {transitive} To move
     Er regte seinen Finger so weit wie möglich. :: --
@@ -2811,7 +2833,7 @@ Index: de de->en
   rennen {{de-verb}} :: {{transitive|auxiliary: “[[sein]]”}} to run over (someone)
     jemanden zu Boden rennen :: “to run someone to the ground”
 ===Rica===
-  Costa Rica {f} (proper noun) :: {{l|en|Costa Rica}}
+  Costa Rica {f} (proper noun) :: Costa Rica
 ===Richard===
   Richard (proper noun) :: {{given name|male}} cognate to Richard.
 ===Riesentier===
@@ -2866,7 +2888,7 @@ Index: de de->en
   nun (interjection) :: (when placed at the beginning of a sentence) well; so
     Nun, wie geht’s? :: “Well, how’s it going?”
 ===Saarland===
-  Saarland {{de-proper noun|g=n}} :: {{l|en|Saarland}}
+  Saarland {{de-proper noun|g=n}} :: Saarland
 ===Sabbat===
   Sabbat {m} (plural: Sabbate) :: Sabbath.
   Sabbat {m} (plural: Sabbate) :: {poetic} Sunday.
@@ -2876,8 +2898,8 @@ Index: de de->en
 ===saga===
   (Old High German) saga {{goh-noun|g=f}} :: story
 ===Salerno===
-  Salerno {{de-proper noun}} :: {{l|en|Salerno}} (province)
-  Salerno {{de-proper noun}} :: {{l|en|Salerno}} (town)
+  Salerno {{de-proper noun}} :: Salerno (province)
+  Salerno {{de-proper noun}} :: Salerno (town)
 ===Salvador===
   El Salvador {n} (proper noun) :: El Salvador
 ===Samoa===
@@ -2885,14 +2907,14 @@ Index: de de->en
 ===Samstag===
   Samstag m (plural: Samstage) :: {{context|Austria, Switzerland, southern and western Germany}} Saturday
 ===San===
-  San Marino {n} (proper noun) :: {{l|en|San Marino}}
+  San Marino {n} (proper noun) :: San Marino
 ===sang===
   sang (verb form) :: {past tense|[[singen]]}
-  (Low German) sang {m} (), Genitive: sanges :: the act of singing
-  (Low German) sang {m} (), Genitive: sanges :: a chant, a song
+  (Low German) sang {m} (noun), Genitive: sanges :: the act of singing
+  (Low German) sang {m} (noun), Genitive: sanges :: a chant, a song
 ===sanges===
-  (Low German) sang {m} (), Genitive: sanges :: the act of singing
-  (Low German) sang {m} (), Genitive: sanges :: a chant, a song
+  (Low German) sang {m} (noun), Genitive: sanges :: the act of singing
+  (Low German) sang {m} (noun), Genitive: sanges :: a chant, a song
 ===Sarah===
   Sarah (proper noun) :: {{given name|female}}.
 ===sat===
@@ -2900,8 +2922,6 @@ Index: de de->en
 ===Saturn===
   Saturn {m} (proper noun) :: Saturn, a Roman god
   Saturn {m} (proper noun) :: Saturn, a planet in the Solar System
-===scarf===
-  (Old High German) scarf (adjective) :: sharp
 ===schade===
   schade (used predicative) :: Das ist aber schade! or, for short, Schade!
     What a pity! or What a shame! :: --
@@ -2916,8 +2936,8 @@ Index: de de->en
 ===Schaf===
   Schaf {{de-noun|g=n|genitive=Schafs|genitive2=Schafes|plural=Schafe}} :: sheep
 ===Schaffhausen===
-  Schaffhausen {{de-proper noun}} :: {{l|en|Schaffhausen}} (canton)
-  Schaffhausen {{de-proper noun}} :: {{l|en|Schaffhausen}} (city)
+  Schaffhausen {{de-proper noun}} :: Schaffhausen (canton)
+  Schaffhausen {{de-proper noun}} :: Schaffhausen (city)
 ===Schatz===
   Schatz {{de-noun|g=m|gen=Schatzes|pl=Schätze|dim=Schätzchen}} :: treasure
   Schatz {{de-noun|g=m|gen=Schatzes|pl=Schätze|dim=Schätzchen}} :: darling
@@ -3077,9 +3097,9 @@ Index: de de->en
   Senegal {m} (proper noun) :: Senegal, the country
   Senegal {m} (proper noun) :: Senegal, the river
 ===Seoul===
-  Seoul {{de-proper noun}} :: {{l|en|Seoul}}
+  Seoul {{de-proper noun}} :: Seoul
 ===September===
-  September {m} (noun) :: {{l|en|September}}
+  September {m} (noun) :: September
 ===Septime===
   Septime {{de-noun|g=f|genitive=Septime|plural=Septimen}} :: {music} An interval of 10 (kleine Septime) or 11 (große Septime) halftones.
 ===servus===
@@ -3118,6 +3138,16 @@ Index: de de->en
 ===Simbabwe===
   Simbabwe {{de-proper noun}} :: Zimbabwe
 ===sin===
+  (Middle Low German) sîn (pronoun) :: {possessive} his; possessive form of he
+  (Middle Low German) sîn (pronoun) :: of his; genitive form of he
+    lohant ret her Zeno hen na Verona to dem vader sin. :: --
+    John rode Sir Zeno to Verona, to the father of his. :: --
+  (Middle Low German) sîn (pronoun) :: sometimes used to form the genitive
+    Deme könnink sin land, dat is: des könninges land. :: --
+    The king his land, that is: the king's land. :: --
+  (Middle Low German) sîn (pronoun) :: {possessive} its; possessive form of it
+  (Middle Low German) sîn (pronoun) :: of it; genitive form of it
+  (Middle Low German) sîn (verb) :: to be; alternative infinitive of wesen
   (Low German) he {m} (pronoun), genitive: sin, dative: em, dative 2: jüm, accusative: en :: {personal} he
 ===sind===
   fast {{de-adv}} :: almost; nearly
@@ -3131,24 +3161,24 @@ Index: de de->en
 ===slowenisch===
   slowenisch (adjective) :: Slovene
 ===so===
-  so (adverb) :: {{l|en|so}}, that
+  so (adverb) :: so, that
     So nett. :: So nice.
     Nicht so gut. :: Not that good.
   so (adverb) :: as
     So gut wie. :: As good as.
-  so (adverb) :: {archaic} {{l|en|an}}, {{l|en|if}}
+  so (adverb) :: {archaic} an, if
     So es Euch beliebt. :: If you please.
   (Alemannic German) hit (adverb) :: (Alsatian) today
     Hit isch dr Jean-Pierre so drüri. :: Jean-Pierre is so sad today.
   ja {{de-adv}} :: urgently; certainly; definitely; surely; really; just
     Es kann ja nicht immer so bleiben. :: “It definitely cannot always remain so.”
 ===So===
-  so (adverb) :: {{l|en|so}}, that
+  so (adverb) :: so, that
     So nett. :: So nice.
     Nicht so gut. :: Not that good.
   so (adverb) :: as
     So gut wie. :: As good as.
-  so (adverb) :: {archaic} {{l|en|an}}, {{l|en|if}}
+  so (adverb) :: {archaic} an, if
     So es Euch beliebt. :: If you please.
 ===Sofia===
   Sofia (proper noun) :: Sofia (city)
@@ -3205,7 +3235,7 @@ Index: de de->en
     Der Zerfall des Römerreiches raubte der Stadt Rom die alte Stellung als Mittelpunkt alles Geschehens. :: --
     The decay of the Roman empire robbed the city of Rome of the old position as the center of all that was happening. :: --
   Stadt {{de-noun|g=f|plural=Städte}} :: town
-  Basel-Stadt {{de-proper noun}} :: {{l|en|Basel-Stadt}}
+  Basel-Stadt {{de-proper noun}} :: Basel-Stadt
   Berlin {n} (proper noun) :: Berlin, the capital city of Germany.
     Berlin ist mehr ein Weltteil als eine Stadt. :: Johann Paul Friedrich Richter, 1800.
     Berlin is more a part of a world than a city. :: --
@@ -3269,7 +3299,7 @@ Index: de de->en
   backen {{de-verb-strong|class=6|[[backt]]''' ''or'' '''[[bäckt]]|[[backte]]''' ''or archaic'' '''[[buk]]|[[gebacken]]''' ''or'' '''[[gebackt]]}} :: {{transitive|or|intransitive}} to fire (pottery)
     Die Tonfigur muss mindestens zwei Stunden im Ofen backen. :: “The clay piece must be fired in the oven for at least two hours.”
 ===Stuttgart===
-  Stuttgart {{de-proper noun|g=n}} :: {{l|en|Stuttgart}}
+  Stuttgart {{de-proper noun|g=n}} :: Stuttgart
 ===Sudan===
   Sudan {m} (proper noun) :: Sudan
 ===super===
@@ -3341,7 +3371,7 @@ Index: de de->en
   tot {{de-adj|-}} :: dead, deceased
   (Old High German) tot tōt :: dead
 ===transparent===
-  transparent (adjective) :: {{l|en|transparent}}
+  transparent (adjective) :: transparent
 ===Traube===
   Trauben :: {plural of|Traube}; "grapes"
 ===Trauben===
@@ -3376,7 +3406,7 @@ Index: de de->en
   Turm {{de-noun|g=m|genitive=Turms|plural=Türme}} :: tower
   Turm {{de-noun|g=m|genitive=Turms|plural=Türme}} :: {chess} rook
 ===Tuvalu===
-  Tuvalu {n} (proper noun) :: {{l|en|Tuvalu}}
+  Tuvalu {n} (proper noun) :: Tuvalu
 ===U===
   U-Bahn {{de-noun|g=f|plural=U-Bahnen}} :: An underground railway, subway
 ===übel===
@@ -3421,6 +3451,8 @@ Index: de de->en
 ===Ukraine===
   Ukraine {f} (proper noun) :: Ukraine
 ===um===
+  um (preposition) + accusative :: about, used with es geht
+    Es geht um den Kuchen. (It's about the pie.) :: --
   um (preposition) + accusative :: around
     Um die Ecke :: around the corner
   um (preposition) + accusative :: At when relating to time (because the hands of a clock go around, the clock)
@@ -3458,17 +3490,17 @@ Index: de de->en
 ===Ursula===
   Ursula (proper noun) :: {{given name|female}} of {{etyl|la|de}} origin, very popular from the 1930s to the 1960s.
 ===Uruguay===
-  Uruguay {n} (proper noun) :: {{l|en|Uruguay}}
+  Uruguay {n} (proper noun) :: Uruguay
 ===Vaduz===
-  Vaduz {{de-proper noun}} :: {{l|en|Vaduz}}
+  Vaduz {{de-proper noun}} :: Vaduz
 ===Vakuum===
   Vakuum {{de-noun|g=n|plural=Vakua|plural2=Vakuen}} :: vacuum
 ===val===
   (Old High German) val {{goh-noun|g=m}} :: fall
 ===Valletta===
-  Valletta {{de-proper noun}} :: {{l|en|Valletta}}
+  Valletta {{de-proper noun}} :: Valletta
 ===Vanuatu===
-  Vanuatu {n} (proper noun) :: {{l|en|Vanuatu}}
+  Vanuatu {n} (proper noun) :: Vanuatu
 ===Vater===
   deutsch {{de-adj|deutscher|deutschesten}} :: German
     Meine Mutter ist deutscher Herkunft, aber mein Vater ist Österreicher. :: My mother is of German origin but my father is Austrian.
@@ -3578,15 +3610,18 @@ Index: de de->en
 ===Warenwirtschaft===
   Warenwirtschaft {{de-noun|g=f|pl=-}} :: ERP or retail supply chain management; merchandise management
 ===warm===
-  warm {{de-adj|wärmer|wärmsten}} :: {{l|en|warm}}, hot
-  (Old High German) warm (adjective) :: {{l|en|warm}}
+  warm {{de-adj|wärmer|wärmsten}} :: warm, hot
+  (Old High German) warm (adjective) :: warm
 ===wart===
   wart (verb form) :: {{de-verb form of|sein|2|p|v}}
 ===was===
   was :: {interrogative} what
   was :: {relative} which
-  (Low German) was (verb form) :: singular past indicative of 'wesen' (dialecal forms include wäsen and węsen, there is no standard); wholly synonymous alternate form of was is wer (weer, wir)
-  (Low German) was (verb form) :: singular imperative of wassen
+  (Low German) was (verb form) :: was; first-person singular simple past tense indicative of węsen (to be).
+  (Low German) was (verb form) :: was; Third-person singular simple past tense indicative of węsen (to be).
+  (Low German) was (verb form) :: wash; apocoped form of wasse, singular imperative of wassen; mainly used in the Netherlands, equivalent to other dialekts' wasche/waske
+  (Low German) was (verb form) :: wax; apocoped form of wasse, singular imperative of wassen
+  (Low German) was (verb form) :: grow; apocoped form of wasse, singular imperative of wassen
   man (indefinite pronoun) :: {indefinite} one, they {{qualifier|indefinite third-person singular pronoun}}
     was man sehen kann :: what one can see
     2008, Frank Behmeta, Wenn ich die Augen öffne, page 55: :: --
@@ -3598,6 +3633,14 @@ Index: de de->en
     Wieso denn? :: "How so, then?"
     Was denn? :: "But what?"
     Was is denn los? :: "What's wrong, then?"
+===wasse===
+  (Low German) was (verb form) :: wash; apocoped form of wasse, singular imperative of wassen; mainly used in the Netherlands, equivalent to other dialekts' wasche/waske
+  (Low German) was (verb form) :: wax; apocoped form of wasse, singular imperative of wassen
+  (Low German) was (verb form) :: grow; apocoped form of wasse, singular imperative of wassen
+===wassen===
+  (Low German) was (verb form) :: wash; apocoped form of wasse, singular imperative of wassen; mainly used in the Netherlands, equivalent to other dialekts' wasche/waske
+  (Low German) was (verb form) :: wax; apocoped form of wasse, singular imperative of wassen
+  (Low German) was (verb form) :: grow; apocoped form of wasse, singular imperative of wassen
 ===Wasser===
   Wasser {n} (noun), genitive: Wassers, plural: Wasser, plural 2 (depending on sense): Wässer :: water
   Wasser {n} (noun), genitive: Wassers, plural: Wasser, plural 2 (depending on sense): Wässer :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is {{term|Wässer}}.)
@@ -3614,8 +3657,9 @@ Index: de de->en
 ===wat===
   (Old High German) wat {{goh-noun|g=n}} :: ford
 ===water===
-  (Low German) water {{nds-noun}} :: water
+  (Low German) water {{nds-noun|g=n}} :: water
   (Middle Low German) water (noun) :: water
+    {{quote-book|year=1537|author=Jürgen Richolff der Jüngere|title=Datt högeste unde öldeste water recht|section=xxviii|passage=Eyn schip effte twe effte meer liggen in einer hauen dar kleyn '''water''' is / vnde plecht dröge tho synde / also dat dat eyne schip hart by dem andern tho liggende kumpt {{...}}}} :: --
 ===WC===
   WC {{de-noun|g=n|pl=WCs}} :: WC (water closet)
 ===weg===
@@ -3669,6 +3713,11 @@ Index: de de->en
 ===Wermut===
   Wermut {{de-noun|g=m|pl=-|genitive=Wermuts}} :: vermouth
   Wermut {{de-noun|g=m|pl=-|genitive=Wermuts}} :: wormwood
+===wesen===
+  (Middle Low German) sîn (verb) :: to be; alternative infinitive of wesen
+===węsen===
+  (Low German) was (verb form) :: was; first-person singular simple past tense indicative of węsen (to be).
+  (Low German) was (verb form) :: was; Third-person singular simple past tense indicative of węsen (to be).
 ===Westen===
   Westen {m} :: west
 ===wichtig===
@@ -3983,7 +4032,7 @@ Index: en en->de
 ===90===
   grün {{de-adj|comparative=grüner|superlative=grünsten}} :: {{context|politics|Germany}} pertaining to Bündnis 90/Die Grünen (the largest environmental party in Germany)
 ===ä===
-  æ (letter), lower case, upper case: Æ :: {obsolete} {{l|en|vowel|Vowel}} borrowed from {{l|en|Latin}}. Succeeded by ä.
+  æ (letter), lower case, upper case: Æ :: {obsolete} vowel borrowed from Latin. Succeeded by ä.
 ===Aachen===
   Aachen (proper noun) genitive=Aachens :: The German city Aachen
 ===Aargau===
@@ -4008,20 +4057,17 @@ Index: en en->de
 ===abnormal===
   abnormal {{de-adj|comparative=abnormaler|superlative=abnormalsten}} :: abnormal
 ===about===
+  um (preposition) + accusative :: about, used with es geht
+    Es geht um den Kuchen. (It's about the pie.) :: --
   über (preposition) :: by, via; through; about, around, among
 ===above===
   ob (+ genitive) :: {dialectal} over, above, on
   über (preposition) :: above, over
 ===absence===
   un- (prefix) :: un- (denoting absence, a lack of; violative of; contrary to)
-===absolute===
-  absolut (adjective) :: absolute
-===absolutely===
-  absolut (adverb) :: absolutely
 ===abstinent===
   abstinent {{de-adj|comparative=abstinenter|superlative=abstinentesten}} :: abstinent
 ===abstract===
-  abstrakt {{de-adj|comparative=abstrakter|superlative=abstraktesten}} :: abstract
   nah (adjective) :: near (in space or time or in an abstract sense)
   nah {{de-adv}} :: near (in space or time or in an abstract sense)
 ===absurd===
@@ -4065,7 +4111,7 @@ Index: en en->de
     Das Schiff legt an, und die Besucher steigen in einen weißen Bus, der sie über die Insel fährt. :: --
     The ship docks and the visitors step into a white bus, which drives them across the island. :: --
 ===act===
-  (Low German) sang {m} (), Genitive: sanges :: the act of singing
+  (Low German) sang {m} (noun), Genitive: sanges :: the act of singing
 ===action===
   fallen {{de-verb-strong|class=7|fällt|fiel|gefallen|auxiliary=sein}} :: {{intransitive|military}} to die; to fall in battle; to die in battle; to be killed in action
     1918, Elisabeth von Heyking, Die Orgelpfeifen, in: Zwei Erzählungen, Phillipp Reclam jun. Verlag, page 31: :: --
@@ -4157,6 +4203,8 @@ Index: en en->de
   her {{de-adv}} :: ago
 ===agriculture===
   ungar (adjective) :: not suited for agriculture
+===aha===
+  aha (interjection) :: aha
 ===air===
   frei {{de-adj|comparative=freier|superlative=freisten}} :: released, unimprisoned, unenslaved
     Stadtluft macht frei. :: City's air makes free. (By living in a city for a certain time, a German peasant could free himself from serfdom.)
@@ -4213,10 +4261,10 @@ Index: en en->de
   (Pennsylvania German) aa (adverb) :: also
     {{quote-book|year=1908|author=Astor C. Wuchter|title=A Pennsylvania German Anthology|editor=Earl C. Haag|chapter=Die Mudderschprooch|page=56|pageurl=http://books.google.com/books?id=UAuw2OmZBUMC&pg=PA56 |passage={{...|Datt wu die Palme duffdich sin, Wu's immer Summer iss;}} Datt sin '''aa''' Mensche, graad wie do{{...|, Mei Hatz un Seel, gewiss.}} |translation=There are people there '''too''', just like here}} :: --
   Bube {{de-noun|g=m|genitive=Buben|plural=Buben}} :: boy, lad (chiefly Swiss and Austrian, but also in Germany)
-===alternate===
-  (Low German) was (verb form) :: singular past indicative of 'wesen' (dialecal forms include wäsen and węsen, there is no standard); wholly synonymous alternate form of was is wer (weer, wir)
 ===Alternate===
   wuerdigen (verb form) :: Alternate transliteration of würdigen.
+===alternative===
+  (Middle Low German) sîn (verb) :: to be; alternative infinitive of wesen
 ===always===
   (Old High German) io (adverb) :: always
   ja {{de-adv}} :: urgently; certainly; definitely; surely; really; just
@@ -4226,6 +4274,8 @@ Index: en en->de
     Mir ist Angst. :: For me there is fear. (“I am afraid.”)
   sein {{de-verb-irregular|ist|war|gewesen|auxiliary=sein}} :: {{context|with an indirect object and no subject}} It is, be
     Mir ist kalt. :: To me it is cold. (“I am cold.”)
+===ambi===
+  ambi- (prefix) :: ambi-
 ===ambivalent===
   ambivalent {{de-adj|comparative=ambivalenter|superlative=ambivalentesten}} :: ambivalent
     1923, Sigmund Freud, Eine Teufelsneurose im siebzehnten Jahrhundert, in: Imago: Zeitschrift für Anwendung der Psychoanalyse auf die Geisteswissenschaften, vol. 9, booklet 1, Internationaler Psychoanalytischer Verlag, page 13–14: :: --
@@ -4244,6 +4294,8 @@ Index: en en->de
   über (preposition) :: by, via; through; about, around, among
 ===Ampel===
   rechts {{de-adv}} :: to the right: An der nächsten Ampel rechts abbiegen.
+===Amsterdam===
+  Amsterdam {{de-proper noun}} :: Amsterdam, the nominal capital of the Netherlands
 ===An===
   U-Bahn {{de-noun|g=f|plural=U-Bahnen}} :: An underground railway, subway
   Geist {{de-noun|g=m|genitive=Geistes|plural=Geister}} :: An alcoholic drink; a spirit
@@ -4281,6 +4333,8 @@ Index: en en->de
   glauben {{de-verb}} :: to believe (to think sb/sth exists = an + acc.; to think sth someone says is correct = dat.)
     Glaubst du an Engel? :: Do you believe in angels?
     Niemand kann ihm glauben. :: No-one can believe him.
+===Angola===
+  Angola (proper noun) :: Angola
 ===angry===
   böse {{de-adj|comparative=böser|superlative=bösesten}} :: angry
 ===angular===
@@ -4315,6 +4369,10 @@ Index: en en->de
 ===ape===
   Affe {{de-noun|g=m|genitive=Affen|plural=Affen}} :: ape
   Menschenaffe {{de-noun|g=m|pl=Meschenaffen|gen=Meschenaffen}} :: ape, a tailless primate; humans may be excluded.
+===apocoped===
+  (Low German) was (verb form) :: wash; apocoped form of wasse, singular imperative of wassen; mainly used in the Netherlands, equivalent to other dialekts' wasche/waske
+  (Low German) was (verb form) :: wax; apocoped form of wasse, singular imperative of wassen
+  (Low German) was (verb form) :: grow; apocoped form of wasse, singular imperative of wassen
 ===apostle===
   Bote {{de-noun|g=m|gen=Boten|plural=Boten}} :: {biblical} apostle
 ===Appalling===
@@ -4332,6 +4390,8 @@ Index: en en->de
   eigen {{de-adj|-}} :: appropriate
 ===approximately===
   Pfund {{de-noun|g=n|genitive=Pfunds|plural=Pfunde}} :: half a kilo, 500 grams, pound (approximately)
+===April===
+  April {m} (noun) :: April
 ===apropos===
   apropos {{de-adv}} :: apropos
 ===Arab===
@@ -4400,6 +4460,8 @@ Index: en en->de
   bitten {{de-verb}} :: {{transitive|or|intransitive}} To ask; to beg; to plead; to request.
   (Old High German) bitten (verb) :: to ask
   bat (verb form) :: singular past tense of bitten (to please, to pray, to ask, to gratify).
+===astro===
+  astro- (prefix) :: astro-
 ===At===
   um (preposition) + accusative :: At when relating to time (because the hands of a clock go around, the clock)
     Um acht Uhr reisen wir ab :: At eight o’clock we depart
@@ -4422,7 +4484,7 @@ Index: en en->de
   deutsch {{de-adj|deutscher|deutschesten}} :: German
     Meine Mutter ist deutscher Herkunft, aber mein Vater ist Österreicher. :: My mother is of German origin but my father is Austrian.
 ===authentic===
-  echt :: authentic, genuine, real
+  echt {{de-adj|echter|echtesten}} :: authentic, genuine, real
 ===author===
   Berlin {n} (proper noun) :: Berlin, the capital city of Germany.
     Berlin ist mehr ein Weltteil als eine Stadt. :: Johann Paul Friedrich Richter, 1800.
@@ -4454,6 +4516,8 @@ Index: en en->de
   übel :: bad
 ===Baden===
   Baden-Württemberg :: Baden-Württemberg
+===Bahamas===
+  Bahamas {{de-proper noun}} {p} :: Bahamas
 ===Bahrain===
   Bahrain :: Bahrain
 ===bake===
@@ -4494,6 +4558,9 @@ Index: en en->de
   bar (adjective) :: bare
   (Old High German) bar (adjective) :: bare
   nackt {{de-adj|comparative=nackter|superlative=nacktesten}} :: bare (not insulated, protected etc.)
+===Basel===
+  Basel-Stadt {{de-proper noun}} :: Basel-Stadt
+  Basel-Landschaft {{de-proper noun}} :: Basel-Country, Basel-Landschaft
 ===basket===
   Warenkorb {{de-noun|g=m|genitive=Warenkorbs|genitive2=Warenkorbes|plural=Warenkörbe}} :: basket
   Warenkorb {{de-noun|g=m|genitive=Warenkorbs|genitive2=Warenkorbes|plural=Warenkörbe}} :: commodity bundle, market basket
@@ -4589,6 +4656,8 @@ Index: en en->de
     Niemand kann ihm glauben. :: No-one can believe him.
 ===believer===
   Moslem {m} (noun){{tbot entry|German|Muslim|2008|October|de}} :: Muslim (believer)
+===Belize===
+  Belize (proper noun) {n} :: Belize
 ===below===
   unter :: below
 ===bend===
@@ -4681,7 +4750,7 @@ Index: en en->de
   Nicolas (proper noun) :: {{given name|male}} borrowed from {{etyl|fr|de}}.
   Larissa (proper noun) :: {{given name|female}} borrowed from {{etyl|ru|de}} in the 20th century.
   Malte (proper noun) :: {{given name|male}} borrowed from {{etyl|da|de}} {{term|Malte}}.
-  æ (letter), lower case, upper case: Æ :: {obsolete} {{l|en|vowel|Vowel}} borrowed from {{l|en|Latin}}. Succeeded by ä.
+  æ (letter), lower case, upper case: Æ :: {obsolete} vowel borrowed from Latin. Succeeded by ä.
   Alice (proper noun) :: {{given name|female}} borrowed from English; cognate to modern German Adelheid.
 ===both===
   langsam {{de-adj|comparative=langsamer|superlative=langsamsten}} :: slow, both in the senses of slow physical movement and limited progress
@@ -4741,6 +4810,10 @@ Index: en en->de
   (Old High German) amber {{goh-noun|g=m}} :: bucket
 ===bud===
   Auge {{de-noun|g=n|pl=Augen|dim=Äuglein}} :: germ, bud
+===Budapest===
+  Budapest {{de-proper noun}} :: Budapest
+===Buddhist===
+  Buddhist {{de-noun|g=m|pl=Buddhisten|gen=Buddhisten}} :: Buddhist
 ===budge===
   regen {{de-verb}} :: {{context|reflexive}} To budge, to become noticeable.
 ===buffalo===
@@ -4844,14 +4917,14 @@ Index: en en->de
 ===canton===
   Schwyz {{de-proper noun}} :: A canton of Switzerland.
   Graubünden (proper noun){{tbot entry|German|Grisons|2008|June|de}} :: Grisons (a canton of Switzerland (its French name))
-  Schaffhausen {{de-proper noun}} :: {{l|en|Schaffhausen}} (canton)
+  Schaffhausen {{de-proper noun}} :: Schaffhausen (canton)
   Schwyz {{de-proper noun}} :: A town in Switzerland, the capital of the canton of Schwyz.
 ===canyon===
   Schlucht f (plural: Schluchten) :: canyon, chasm, gorge, ravine
 ===capacity===
   Raum {{de-noun|g=m|genitive=Raums|genitive2=Raumes|plural=Räume}} :: capacity, volume
 ===capital===
-  Amsterdam {{de-proper noun}} :: {{l|en|Amsterdam}}, the nominal capital of the Netherlands
+  Amsterdam {{de-proper noun}} :: Amsterdam, the nominal capital of the Netherlands
   Madrid (proper noun) :: Madrid, Spanish capital city and province
   Bangkok {n} (proper noun) :: Bangkok (capital of Thailand)
   Berlin {n} (proper noun) :: Berlin, the capital city of Germany.
@@ -4924,6 +4997,8 @@ Index: en en->de
     Das Spiel ist aus! :: The jig game is up!
 ===celestial===
   Kugel {{de-noun|g=f|plural=Kugeln}} :: {astronomy}, {geography} orb, globe, celestial body {{defdate|16th century}}
+===Celtic===
+  Manx {n} (proper noun) :: Manx Gaelic, the Goidelic Celtic language spoken on the Isle of Man
 ===center===
   schwarz {{de-adj|comparative=schwärzer|superlative=schwärzesten}} :: {{context|politics|Germany}} pertaining to the CDU/CSU (a large center right christian democratic party in Germany)
 ===centime===
@@ -4946,13 +5021,15 @@ Index: en en->de
 ===chamber===
   Raum {{de-noun|g=m|genitive=Raums|genitive2=Raumes|plural=Räume}} :: room, space, chamber
 ===chant===
-  (Low German) sang {m} (), Genitive: sanges :: a chant, a song
+  (Low German) sang {m} (noun), Genitive: sanges :: a chant, a song
 ===character===
   Charakter {{de-noun|g=m|genitive=Charakters|plural=Charaktere}} :: character
 ===charge===
   frei {{de-adj|comparative=freier|superlative=freisten}} :: free of charge, gratis
   gratis :: free, without charge
   umsonst :: free of charge, gratis
+===chase===
+  (Middle Low German) jacht {f} (noun) :: a chase, a pursuit
 ===chasm===
   Schlucht f (plural: Schluchten) :: canyon, chasm, gorge, ravine
 ===check===
@@ -5022,7 +5099,7 @@ Index: en en->de
   Hamburg {n} (proper noun) :: Hamburg (German city)
   Sofia (proper noun) :: Sofia (city)
   Turku {n} (proper noun) :: Turku (city in Finland)
-  Schaffhausen {{de-proper noun}} :: {{l|en|Schaffhausen}} (city)
+  Schaffhausen {{de-proper noun}} :: Schaffhausen (city)
   frei {{de-adj|comparative=freier|superlative=freisten}} :: released, unimprisoned, unenslaved
     Stadtluft macht frei. :: City's air makes free. (By living in a city for a certain time, a German peasant could free himself from serfdom.)
 ===City===
@@ -5183,6 +5260,8 @@ Index: en en->de
   glauben {{de-verb}} :: to believe (to think sb/sth exists = an + acc.; to think sth someone says is correct = dat.)
     Glaubst du an Engel? :: Do you believe in angels?
     Niemand kann ihm glauben. :: No-one can believe him.
+===Costa===
+  Costa Rica {f} (proper noun) :: Costa Rica
 ===could===
   frei {{de-adj|comparative=freier|superlative=freisten}} :: released, unimprisoned, unenslaved
     Stadtluft macht frei. :: City's air makes free. (By living in a city for a certain time, a German peasant could free himself from serfdom.)
@@ -5210,6 +5289,7 @@ Index: en en->de
   Polen (proper noun) :: Poland, a country in Eastern Europe
   Kongo {m} (proper noun) :: Congo (country with Brazzaville as capital)
 ===Country===
+  Basel-Landschaft {{de-proper noun}} :: Basel-Country, Basel-Landschaft
   Liechtenstein {{de-proper noun|g=n}} :: Country in Europe. Official name: Fürstentum Liechtenstein.
 ===couples===
   Paare {{plural of|Paar|lang=de}} :: pairs, couples
@@ -5306,6 +5386,7 @@ Index: en en->de
 ===David===
   David (proper noun) :: {biblical character} David.
 ===day===
+  (Middle Low German) dag {m} (noun), genitive: dages, dative: dage, accusative: dag, plural: dage :: day
   guten Tag :: good day
   (Old High German) tag {{goh-noun|g=m}} :: day
 ===dead===
@@ -5402,8 +5483,8 @@ Index: en en->de
 ===device===
   Maus {{de-noun|g=f|genitive=Maus|plural=Mäuse}} :: mouse (computer input device)
   pollen {{de-verb}} :: {computing} to poll, to periodically check the status of a device or variable.
-===dialecal===
-  (Low German) was (verb form) :: singular past indicative of 'wesen' (dialecal forms include wäsen and węsen, there is no standard); wholly synonymous alternate form of was is wer (weer, wir)
+===dialekts===
+  (Low German) was (verb form) :: wash; apocoped form of wasse, singular imperative of wassen; mainly used in the Netherlands, equivalent to other dialekts' wasche/waske
 ===Diaspora===
   Diaspora {{de-noun|g=f|plural=Diasporas}} :: Diaspora
 ===dictionary===
@@ -5619,7 +5700,7 @@ Index: en en->de
 ===eleven===
   elf (numeral) :: {cardinal} eleven
 ===elf===
-  (Middle High German) alb (plural elbe, elber) :: elf
+  (Middle High German) alb (noun), plural: elbe, plural2: elber :: elf
 ===eliminate===
   zerstören {{de-verb}} :: to destroy, demolish, devastate, eliminate.
 ===else===
@@ -5677,6 +5758,7 @@ Index: en en->de
     ein faires Spiel :: --
     Es ist nur fair, auch wenn alle gleich schlecht behandelt werden. :: --
 ===equivalent===
+  (Low German) was (verb form) :: wash; apocoped form of wasse, singular imperative of wassen; mainly used in the Netherlands, equivalent to other dialekts' wasche/waske
   Jacob (proper noun) :: {{given name|male}}, equivalent to English Jacob and James.
 ===ere===
   (Low German) er (preposition) :: ere, before
@@ -5684,12 +5766,16 @@ Index: en en->de
     Er ik löpen möt, für ik leiwer mid dissen Bus. (Before I must walk, I'll rather take the bus.) :: --
 ===ergo===
   ergo :: ergo
+===Eritrea===
+  Eritrea (proper noun) :: Eritrea
 ===erotically===
   Liebe {{de-noun|g=f|plural=Lieben}} :: (no plural) lust (sexually or erotically motivated inclination)
 ===ERP===
   Warenwirtschaft {{de-noun|g=f|pl=-}} :: ERP or retail supply chain management; merchandise management
   PPS (abbreviation) :: Produktions-Planungs-System (ERP)
 ===es===
+  um (preposition) + accusative :: about, used with es geht
+    Es geht um den Kuchen. (It's about the pie.) :: --
   auf :: on -- es liegt auf dem Tisch (it is on the table) dat
   auf :: onto -- stell es auf den Tisch (place it on the table) acc
 ===Es===
@@ -5784,6 +5870,8 @@ Index: en en->de
     Niemand kann ihm glauben. :: No-one can believe him.
 ===exploiting===
   Aasfliege {{de-noun|g=f|plural=Aasfliegen}} :: {uncommon} A person with a habit of exploiting other people.
+===extremistic===
+  rechts {{de-adv}} :: pars pro toto for right-wing extremistic
 ===eye===
   Auge {{de-noun|g=n|pl=Augen|dim=Äuglein}} :: {anatomy} eye
 ===eyes===
@@ -5801,7 +5889,7 @@ Index: en en->de
 ===fair===
   blond (adjective){{tbot entry|German|fair|2010|March|de}} :: fair (light in color or pale)
 ===fairy===
-  (Middle High German) alb (plural elbe, elber) :: friendly spirit, ghostly being, genius, or fairy
+  (Middle High German) alb (noun), plural: elbe, plural2: elber :: friendly spirit, ghostly being, genius, or fairy
 ===fall===
   fallen {{de-verb-strong|class=7|fällt|fiel|gefallen|auxiliary=sein}} :: {intransitive} to fall; to drop
   fallen {{de-verb-strong|class=7|fällt|fiel|gefallen|auxiliary=sein}} :: {{intransitive|military}} to die; to fall in battle; to die in battle; to be killed in action
@@ -5832,6 +5920,7 @@ Index: en en->de
 ===fast===
   schnell {{de-adj|comparative=schneller|superlative=schnellsten}} :: quick, fast
   (Old High German) rad :: fast
+  (Middle Low German) jacht {f} (noun) :: a fast ship (shortened from jachte/jachtschip)
   zu :: too; excessively
     zu schnell :: "too fast"
 ===faster===
@@ -5909,6 +5998,7 @@ Index: en en->de
 ===first===
   (Low German) ik (pronoun) :: first person singular, referring to oneself; I
     Ik kem, ik seg, ik wünd (nds), Ik keem, ik keek, ik wun (pd): I came, I saw, I conquered. (Lat.: 'Veni, Vidi, Vici', attributed to w:Julius Caesar.) :: --
+  (Low German) was (verb form) :: was; first-person singular simple past tense indicative of węsen (to be).
   strafe (verb form) :: first person singular and imperative of strafen
   darf (verb form) :: first and third person present of dürfen.
   decke (verb form) :: present tense first person singular of decken "I cover"
@@ -5928,7 +6018,7 @@ Index: en en->de
   fünf (numeral) :: five
   Uhr {{de-noun|g=f|plural=Uhren}} :: hour, as in Es ist fünf Uhr (it is five o'clock)
 ===fixed===
-  fix {{de-adj|comparative=fixer|superlative=fixesten}} :: fixed {{italbrac|costs, salary}}
+  fix {{de-adj|comparative=fixer|superlative=fixesten}} :: fixed {{qualifier|costs, salary}}
 ===flamboyant===
   schwul (adjective) :: {pejorative} {slang} having effeminate or flamboyant qualities; fruity, queer, swishy
 ===Flanders===
@@ -5981,8 +6071,6 @@ Index: en en->de
 ===Forming===
   -er (suffix) :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
     arbeiten 'to work'; (ich) arbeit(<u>e</u>) + -er '-er' -> Arbeiter 'worker' :: --
-===forms===
-  (Low German) was (verb form) :: singular past indicative of 'wesen' (dialecal forms include wäsen and węsen, there is no standard); wholly synonymous alternate form of was is wer (weer, wir)
 ===forty===
   mal :: times
     sechs mal sieben ist zweiundvierzig :: six times seven is forty-two &mdash; 6 × 7 = 42
@@ -5998,6 +6086,8 @@ Index: en en->de
 ===France===
   Schelde (proper noun) :: The mighty river Scheldt, which flows through France, Flanders (Belgium, where he becomes navigable for seaships) and the Netherlands.
   Bretagne {f} (proper noun) :: Brittany (region of North West France)
+===Frankfurt===
+  Frankfurt {{de-proper noun}} :: Frankfurt
 ===free===
   frei {{de-adj|comparative=freier|superlative=freisten}} :: free
   frei {{de-adj|comparative=freier|superlative=freisten}} :: free of charge, gratis
@@ -6029,7 +6119,7 @@ Index: en en->de
 ===friendly===
   hold (adjective) :: {{archaic|poetic}} friendly, comely, graceful
   (Old High German) hold :: friendly
-  (Middle High German) alb (plural elbe, elber) :: friendly spirit, ghostly being, genius, or fairy
+  (Middle High German) alb (noun), plural: elbe, plural2: elber :: friendly spirit, ghostly being, genius, or fairy
   bio- (prefix) :: organically produced, or otherwise environmentally friendly
 ===friends===
   du :: {personal} you (sg., informal, friends, relatives).
@@ -6072,7 +6162,7 @@ Index: en en->de
 ===g===
   wiegen {{de-verb-weak|wiegt|wiegte|gewiegt}} :: {transitive} to chop (e.g. herbs); to mince
 ===Gaelic===
-  Manx {n} (proper noun) :: Manx Gaelic, the Goidelic language spoken on the Isle of Man
+  Manx {n} (proper noun) :: Manx Gaelic, the Goidelic Celtic language spoken on the Isle of Man
 ===Gambia===
   Gambia {n} :: Gambia
 ===game===
@@ -6090,6 +6180,9 @@ Index: en en->de
   schwul (adjective) :: {colloquial} homosexual/gay (of males)
 ===gehen===
   rechts {{de-adv}} :: the right-hand side: Wir gehen nach rechts.
+===geht===
+  um (preposition) + accusative :: about, used with es geht
+    Es geht um den Kuchen. (It's about the pie.) :: --
 ===gender===
   er (pronoun) :: {personal} it (when the grammatical gender of the object/article/thing/animal etc., being referred to, is masculine (der)).
     Dies ist mein Hund. Er heißt Waldi. :: This is my dog. Its name is Waldi.
@@ -6104,12 +6197,19 @@ Index: en en->de
 ===Generic===
   Bache {{de-noun|g=f|plural=Bachen}} :: A wild sow; female wild boar. Generic term is Wildschwein.
 ===genitive===
+  (Middle Low German) sîn (pronoun) :: of his; genitive form of he
+    lohant ret her Zeno hen na Verona to dem vader sin. :: --
+    John rode Sir Zeno to Verona, to the father of his. :: --
+  (Middle Low German) sîn (pronoun) :: sometimes used to form the genitive
+    Deme könnink sin land, dat is: des könninges land. :: --
+    The king his land, that is: the king's land. :: --
+  (Middle Low German) sîn (pronoun) :: of it; genitive form of it
   jeden :: each (a masculine genitive singular form of jeder)
   jeden :: each (a neuter genitive singular form of jeder)
 ===genius===
-  (Middle High German) alb (plural elbe, elber) :: friendly spirit, ghostly being, genius, or fairy
+  (Middle High German) alb (noun), plural: elbe, plural2: elber :: friendly spirit, ghostly being, genius, or fairy
 ===genuine===
-  echt :: authentic, genuine, real
+  echt {{de-adj|echter|echtesten}} :: authentic, genuine, real
 ===genus===
   Schneeball {{de-noun|g=m|genitive=Schneeballs|plural=Schneebälle}} :: viburnum, any shrub of the genus Viburnum
 ===Georgia===
@@ -6151,7 +6251,7 @@ Index: en en->de
   Geist {{de-noun|g=m|genitive=Geistes|plural=Geister}} :: Ghost
   Heiliger Geist {{de-proper noun|head=[[Heiliger]] [[Geist]]}} :: {Christianity} the Holy Spirit, Holy Ghost
 ===ghostly===
-  (Middle High German) alb (plural elbe, elber) :: friendly spirit, ghostly being, genius, or fairy
+  (Middle High German) alb (noun), plural: elbe, plural2: elber :: friendly spirit, ghostly being, genius, or fairy
 ===giddyup===
   hüa (interjection), also hüah :: directed at a horse: move on!, go faster! - giddyup
 ===Gipsy===
@@ -6194,10 +6294,10 @@ Index: en en->de
 ===goat===
   Zibbe {{de-noun|g=f|plural=Zibben}} :: {dialectal} ewe (of rabbit, hare, or goat)
 ===god===
-  (Middle Low German) god {m} (noun), genitive: gades :: god
+  (Middle Low German) gōd {m} (noun), genitive: godes :: god
   (Old High German) got {{goh-noun|g=m}} :: god
   Saturn {m} (proper noun) :: Saturn, a Roman god
-  Jupiter {{de-proper noun|g=m}} :: {{l|en|Jupiter}} (god)
+  Jupiter {{de-proper noun|g=m}} :: Jupiter (god)
   Pluto {{de-noun|g=m|pl=-|genitive=Plutos}} :: {Roman mythology} Pluto (Roman god)
 ===God===
   Thor (proper noun) :: {Norse mythology} Thor, God in Norse mythology.
@@ -6209,7 +6309,7 @@ Index: en en->de
   in (preposition) :: (in + accusative) into
     Er geht ins Haus. :: "He goes into the house."
 ===Goidelic===
-  Manx {n} (proper noun) :: Manx Gaelic, the Goidelic language spoken on the Isle of Man
+  Manx {n} (proper noun) :: Manx Gaelic, the Goidelic Celtic language spoken on the Isle of Man
 ===going===
   los (adverb)(only used in combination with sein (to be) or another verb) :: going on
   links :: to the left
@@ -6219,7 +6319,7 @@ Index: en en->de
     Nun, wie geht’s? :: “Well, how’s it going?”
 ===good===
   (Low German) god (adjective) :: good
-  (Middle Low German) gōd (adjective) :: good
+  (Middle Low German) gôd (adjective) :: good
   gut {{de-adj|comparative=besser |superlative=besten}} :: good
   fair (adjective) :: just, equitable, adequate, honest, in good spirit
     ein faires Spiel :: --
@@ -6227,7 +6327,7 @@ Index: en en->de
   schön {{de-adj|schöner|schönsten}} :: good, great, splendid
   brav {{de-adj|comparative=braver|superlative=bravsten}} :: good, well-behaved.
   guten Tag :: good day
-  so (adverb) :: {{l|en|so}}, that
+  so (adverb) :: so, that
     So nett. :: So nice.
     Nicht so gut. :: Not that good.
   so (adverb) :: as
@@ -6299,12 +6399,15 @@ Index: en en->de
   rennen {{de-verb}} :: {{transitive|auxiliary: “[[sein]]”}} to run over (someone)
     jemanden zu Boden rennen :: “to run someone to the ground”
 ===grow===
+  (Low German) was (verb form) :: grow; apocoped form of wasse, singular imperative of wassen
   beschlagen (third-person singular simple present beschlägt, past tense beschlug, past participle beschlagen) :: to grow moldy or tarnished.
   nebeln {{de-verb}} :: to grow foggy
 ===Grünen===
   grün {{de-adj|comparative=grüner|superlative=grünsten}} :: {{context|politics|Germany}} pertaining to Bündnis 90/Die Grünen (the largest environmental party in Germany)
 ===guard===
   Nachtwächter {{de-noun|g=m|gen=Nachtwächters|pl=Nachtwächter}} :: night watchman (a guard that protected cities (in the middle ages))
+===Guatemala===
+  Guatemala (proper noun) :: Guatemala
 ===Guess===
   rate (verb form) :: {{de-verb form of|raten|i|s}}
     Rate mal, wer gerade gekommen ist! :: Guess who's just arrived.
@@ -6512,7 +6615,11 @@ Index: en en->de
   Nilpferd {{de-noun|g=n|genitive=Nilpferds|genitive2=Nilpferdes|plural=Nilpferde}} :: hippopotamus
   Flusspferd {{de-noun|g=n|genitive=Flusspferds|genitive2=Flusspferdes|plural=Flusspferde}} :: hippopotamus
 ===his===
+  (Middle Low German) sîn (pronoun) :: {possessive} his; possessive form of he
   sein (possessive pronoun) :: {possessive} his
+  (Middle Low German) sîn (pronoun) :: of his; genitive form of he
+    lohant ret her Zeno hen na Verona to dem vader sin. :: --
+    John rode Sir Zeno to Verona, to the father of his. :: --
   wie :: {nonstandard} than
     Der Junge ist größer wie sein Vater. :: The boy is taller than his father.
 ===hither===
@@ -6563,7 +6670,7 @@ Index: en en->de
 ===horticulture===
   Räuber {{de-noun|g=m|gen=Räubers|plural=Räuber}} :: sucker (horticulture)
 ===hot===
-  warm {{de-adj|wärmer|wärmsten}} :: {{l|en|warm}}, hot
+  warm {{de-adj|wärmer|wärmsten}} :: warm, hot
 ===hour===
   Uhr {{de-noun|g=f|plural=Uhren}} :: hour, as in Es ist fünf Uhr (it is five o'clock)
 ===hours===
@@ -6611,6 +6718,8 @@ Index: en en->de
   Witz {{de-noun|g=m|genitive=Witzes|plural=Witze}} :: humor
 ===humour===
   Schmäh {{de-noun|g=m|pl=-|genitive=Schmähs}} :: humour
+===hunt===
+  (Middle Low German) jacht {f} (noun) :: a hunt
 ===hydrogen===
   Wasserstoff {m} (noun) :: hydrogen.
 ===hyssop===
@@ -6627,10 +6736,12 @@ Index: en en->de
 ===if===
   bei (preposition), + dative :: {{context|with something that may or may not occur}} if there is (something)
     bei Schnee :: “if there is snow”
+  so (adverb) :: {archaic} an, if
+    So es Euch beliebt. :: If you please.
   ob :: (subordinating) if, whether
   ob :: ob ... oder &mdash; if ... or
 ===If===
-  so (adverb) :: {archaic} {{l|en|an}}, {{l|en|if}}
+  so (adverb) :: {archaic} an, if
     So es Euch beliebt. :: If you please.
 ===ill===
   übel :: ill
@@ -6650,8 +6761,6 @@ Index: en en->de
   Wasser {n} (noun), genitive: Wassers, plural: Wasser, plural 2 (depending on sense): Wässer :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is {{term|Wässer}}.)
 ===inclination===
   Liebe {{de-noun|g=f|plural=Lieben}} :: (no plural) lust (sexually or erotically motivated inclination)
-===include===
-  (Low German) was (verb form) :: singular past indicative of 'wesen' (dialecal forms include wäsen and węsen, there is no standard); wholly synonymous alternate form of was is wer (weer, wir)
 ===indefinite===
   ne :: {colloquial} shorthand of the feminine indefinite article eine (“an; a”)
     Möchtest du ne Flasche Bier? :: “Would you like a bottle of beer?”
@@ -6668,7 +6777,8 @@ Index: en en->de
   das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
     Ich kenne ein Mädchen, das das kann. :: I know a girl who can do that.
 ===indicative===
-  (Low German) was (verb form) :: singular past indicative of 'wesen' (dialecal forms include wäsen and węsen, there is no standard); wholly synonymous alternate form of was is wer (weer, wir)
+  (Low German) was (verb form) :: was; first-person singular simple past tense indicative of węsen (to be).
+  (Low German) was (verb form) :: was; Third-person singular simple past tense indicative of węsen (to be).
   meine (verb form) :: First-person singular indicative present form of meinen.
   esse (verb form) :: First-person singular indicative present form of essen.
   -er (suffix) :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
@@ -6686,6 +6796,7 @@ Index: en en->de
 ===infest===
   befallen {{de-verb}} :: to infest
 ===infinitive===
+  (Middle Low German) sîn (verb) :: to be; alternative infinitive of wesen
   zu (particle) :: for; in order to; Used with infinitive of verbs.
     etwas zu essen :: "something to eat"
 ===informal===
@@ -6752,11 +6863,12 @@ Index: en en->de
     Der Bäcker backt jeden Morgen 30 Laib Brot. :: “The baker bakes 30 loaves of bread every morning.”
     Ist der Kuchen schon gebacken? :: “Is the cake baked yet?”
 ===island===
+  (Middle Low German) o (noun) :: island
   Insel {{de-noun|g=f|plural=Inseln}} :: an island, an isle{{jump|de|island|s}}
 ===isle===
   Insel {{de-noun|g=f|plural=Inseln}} :: an island, an isle{{jump|de|island|s}}
 ===Isle===
-  Manx {n} (proper noun) :: Manx Gaelic, the Goidelic language spoken on the Isle of Man
+  Manx {n} (proper noun) :: Manx Gaelic, the Goidelic Celtic language spoken on the Isle of Man
 ===isn===
   ne? (interjection) :: {colloquial} no?; is it not?
     Großartig, ne? :: “Great, isn’t it?”
@@ -6783,6 +6895,7 @@ Index: en en->de
   ja {{de-adv}} :: urgently; certainly; definitely; surely; really; just
     Es kann ja nicht immer so bleiben. :: “It definitely cannot always remain so.”
 ===its===
+  (Middle Low German) sîn (pronoun) :: {possessive} its; possessive form of it
   sein (possessive pronoun) :: {possessive} its (when the owning object/article/thing/animal etc., is neuter ({{term|das}}) or masculine ({{term|der}}))
   ihr {m}, ihr {n}, ihre {f}, ihre (pl.) :: {possessive} its (when the owning object/article/thing/animal etc., referred to, is feminine (die)).
   Graubünden (proper noun){{tbot entry|German|Grisons|2008|June|de}} :: Grisons (a canton of Switzerland (its French name))
@@ -6791,6 +6904,10 @@ Index: en en->de
   er (pronoun) :: {personal} it (when the grammatical gender of the object/article/thing/animal etc., being referred to, is masculine (der)).
     Dies ist mein Hund. Er heißt Waldi. :: This is my dog. Its name is Waldi.
     Dort steht ein Baum. Er ist über 100 Jahre alt. :: There stands a tree. It is more than 100 years old.
+===jachte===
+  (Middle Low German) jacht {f} (noun) :: a fast ship (shortened from jachte/jachtschip)
+===jachtschip===
+  (Middle Low German) jacht {f} (noun) :: a fast ship (shortened from jachte/jachtschip)
 ===jack===
   Bube {{de-noun|g=m|genitive=Buben|plural=Buben}} :: A playing card marked with the figure of a servant or soldier; a jack.
 ===Jacob===
@@ -6816,6 +6933,7 @@ Index: en en->de
 ===jester===
   Narr {{de-noun|g=m|genitive=Narren|plural=Narren}} :: fool, clown, jester
 ===Jesus===
+  Jesus {{de-proper noun|g=m}} :: {christianity} Jesus
   Christus {m} (proper noun) :: Christ (the messiah who was named Jesus)
 ===jig===
   aus {{de-adv}} :: {{context|with “[[sein]]”''}} over; finished; ceased; up
@@ -6845,6 +6963,9 @@ Index: en en->de
   Freude f :: joy, happiness.
 ===jung===
   junges (adjective form) :: Neuter form of jung.
+===Jupiter===
+  Jupiter {{de-proper noun|g=m}} :: Jupiter (planet)
+  Jupiter {{de-proper noun|g=m}} :: Jupiter (god)
 ===jurisdiction===
   Bann m :: jurisdiction.
 ===just===
@@ -6920,6 +7041,8 @@ Index: en en->de
   Korea (proper noun) :: Korea
 ===Krümel===
   Krümel pl, m :: plural of Krümel; crumbs
+===Kuwait===
+  Kuwait {{de-proper noun|g=n}} :: Kuwait
 ===lack===
   un- (prefix) :: un- (denoting absence, a lack of; violative of; contrary to)
 ===lacking===
@@ -6933,6 +7056,8 @@ Index: en en->de
 ===land===
   landen (verb) :: {{intransitive|auxiliary verb: sein}} To land
   landen (verb) :: {{transitive|auxiliary verb: haben}} To land
+===Landschaft===
+  Basel-Landschaft {{de-proper noun}} :: Basel-Country, Basel-Landschaft
 ===language===
   Sprache {{de-noun|g=f|plural=Sprachen}} :: language
     2010, Der Spiegel, issue [http://www.spiegel.de/spiegel/print/index-2010-32.html 32/2010], page 102: :: --
@@ -6942,7 +7067,7 @@ Index: en en->de
   Hindi {n} (noun) :: The Hindi language
   japanisch (adjective) :: Of or relating to Japan, the Japanese people, or the Japanese language.
   Kongo {n} (noun) :: Kongo (a Bantu language)
-  Manx {n} (proper noun) :: Manx Gaelic, the Goidelic language spoken on the Isle of Man
+  Manx {n} (proper noun) :: Manx Gaelic, the Goidelic Celtic language spoken on the Isle of Man
   Kroatisch {n} (noun) :: Croatian language
   Flämisch {n} (noun) :: Flemish (language)
   portugiesisch {{de-adj|-}} :: relating to Portugal or the Portuguese language
@@ -6961,6 +7086,7 @@ Index: en en->de
 ===latest===
   neu (adjective) :: modern, recent, latest
 ===Latin===
+  æ (letter), lower case, upper case: Æ :: {obsolete} vowel borrowed from Latin. Succeeded by ä.
   Claudia (proper noun) :: {{given name|female}} from the Latin feminine form of Claudius; quite popular from the 1960s to the 1980s.
 ===Latvian===
   lettisch (adjective) :: Latvian
@@ -7012,6 +7138,8 @@ Index: en en->de
 ===lesen===
   lies (verb form) :: imperative singular of lesen
   las :: past tense of lesen
+===Lesotho===
+  Lesotho {{de-proper noun|g=n}} :: Lesotho
 ===less===
   Sofia (proper noun) :: {{given name|female}}, a less common spelling of Sophia.
   Marcus (proper noun) :: {{given name|male}}, a less common spelling of Markus.
@@ -7026,6 +7154,8 @@ Index: en en->de
   Lexikon {{de-noun|g=n|genitive=Lexikons|plural=Lexika|pl2=Lexikons}} :: lexicon
 ===liberal===
   frei {{de-adj|comparative=freier|superlative=freisten}} :: liberal
+===Liberia===
+  Liberia {{de-proper noun|g=n}} :: Liberia
 ===licentious===
   frei {{de-adj|comparative=freier|superlative=freisten}} :: licentious, unrestrained
 ===lie===
@@ -7100,6 +7230,8 @@ Index: en en->de
   Boden {{de-noun|g=m|genitive=Bodens|plural=Böden}} :: (countable) attic, garret, loft
 ===logical===
   dass :: (subordinating) that, it (logical conditional)
+===London===
+  London (proper noun) :: London {{gloss|city}}
 ===long===
   baba (interjection) :: {{informal|chiefly|_|in|_|Austria}} see you, so long
 ===longer===
@@ -7174,6 +7306,8 @@ Index: en en->de
 ===main===
   das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
     Ich kenne ein Mädchen, das das kann. :: I know a girl who can do that.
+===mainly===
+  (Low German) was (verb form) :: wash; apocoped form of wasse, singular imperative of wassen; mainly used in the Netherlands, equivalent to other dialekts' wasche/waske
 ===Maja===
   Maya :: {{given name|female}} of modern usage, a variant of Maja ( =Maria).
 ===make===
@@ -7217,7 +7351,7 @@ Index: en en->de
   der {m} (relative pronoun), singular, relative :: who; that; which
     Ich kenne einen Mann, der das kann. :: “I know a man who can do that.”
 ===Man===
-  Manx {n} (proper noun) :: Manx Gaelic, the Goidelic language spoken on the Isle of Man
+  Manx {n} (proper noun) :: Manx Gaelic, the Goidelic Celtic language spoken on the Isle of Man
 ===management===
   Warenwirtschaft {{de-noun|g=f|pl=-}} :: ERP or retail supply chain management; merchandise management
 ===manager===
@@ -7227,7 +7361,7 @@ Index: en en->de
 ===Manila===
   Manila (proper noun) :: Manila
 ===Manx===
-  Manx {n} (proper noun) :: Manx Gaelic, the Goidelic language spoken on the Isle of Man
+  Manx {n} (proper noun) :: Manx Gaelic, the Goidelic Celtic language spoken on the Isle of Man
 ===map===
   Landkarte {{de-noun|g=f|plural=Landkarten}} :: map
 ===Maria===
@@ -7235,6 +7369,8 @@ Index: en en->de
 ===marijuana===
   breit (adjective) :: {colloquial} drunk or high on marijuana; stoned
     Du bist ziemlich breit. :: You're pretty stoned.
+===Marino===
+  San Marino {n} (proper noun) :: San Marino
 ===marked===
   Bube {{de-noun|g=m|genitive=Buben|plural=Buben}} :: A playing card marked with the figure of a servant or soldier; a jack.
 ===market===
@@ -7317,6 +7453,8 @@ Index: en en->de
   die (article), definite, feminine and plural form of: der :: The; {declined form|der}
     die Frau :: “the woman”
     die Männer :: “the men”
+===mental===
+  mental {{de-adj|-}} :: mental
 ===merchandise===
   Warenwirtschaft {{de-noun|g=f|pl=-}} :: ERP or retail supply chain management; merchandise management
 ===mere===
@@ -7341,6 +7479,8 @@ Index: en en->de
   Bote {{de-noun|g=m|gen=Boten|plural=Boten}} :: messenger
 ===messiah===
   Christus {m} (proper noun) :: Christ (the messiah who was named Jesus)
+===Mexico===
+  Mexiko {{de-proper noun}} :: Mexico
 ===Michael===
   Michael (proper noun) :: {biblical character} Michael the Archangel.
 ===midday===
@@ -7355,8 +7495,6 @@ Index: en en->de
   ME :: {{context|real estate listing}} Abbreviation of Mieteinnahmen
 ===mighty===
   Schelde (proper noun) :: The mighty river Scheldt, which flows through France, Flanders (Belgium, where he becomes navigable for seaships) and the Netherlands.
-===mild===
-  mild {{de-adj|milder|mildesten}} :: mild
 ===military===
   Orden {{de-noun|g=m|gen=Ordens|plural=Orden}} :: A decoration earned in the military or in sports; a medal, especially one awarded for merit or achievement.
 ===mince===
@@ -7387,6 +7525,8 @@ Index: en en->de
   beschlagen (third-person singular simple present beschlägt, past tense beschlug, past participle beschlagen) :: to grow moldy or tarnished.
 ===mollusk===
   Nacktschnecke {{de-noun|g=f|plural=Nacktschnecken}} :: A slug (mollusk).
+===Monaco===
+  Monaco (proper noun) :: Monaco
 ===Monatsmiete===
   MM (abbreviation) :: {{context|apartment listing}} Abbreviation of Monatsmiete or Monatsmieten
 ===Monatsmieten===
@@ -7491,6 +7631,8 @@ Index: en en->de
     Meine Mutter ist deutscher Herkunft, aber mein Vater ist Österreicher. :: My mother is of German origin but my father is Austrian.
   Zähne :: {plural of|Zahn}
     Meine Zähne sind weiß. :: My teeth are white.
+===Myanmar===
+  Myanmar {{de-proper noun|g=n}} :: Myanmar
 ===mythology===
   Thor (proper noun) :: {Norse mythology} Thor, God in Norse mythology.
 ===nach===
@@ -7524,6 +7666,8 @@ Index: en en->de
   Schneeball {{de-noun|g=m|genitive=Schneeballs|plural=Schneebälle}} :: especially: Viburnum opulus, a shrub native to Europe; snowball bush, European cranberry
 ===Native===
   rot {{de-adj|comparative=röter|superlative=rötesten}}<br>{{de-adj|comparative=roter|superlative=rotesten}} :: {{context|historical|offensive}} Indian (pertaining to the Native Americans)
+===Nauru===
+  Nauru {n} :: Nauru
 ===navigable===
   Schelde (proper noun) :: The mighty river Scheldt, which flows through France, Flanders (Belgium, where he becomes navigable for seaships) and the Netherlands.
 ===Nazi===
@@ -7563,9 +7707,10 @@ Index: en en->de
 ===Nessie===
   Nessie (proper noun) :: {{context|cryptozoology}} Nessie
 ===Netherlands===
-  Amsterdam {{de-proper noun}} :: {{l|en|Amsterdam}}, the nominal capital of the Netherlands
+  Amsterdam {{de-proper noun}} :: Amsterdam, the nominal capital of the Netherlands
   Holland (proper noun) :: Netherlands (country in northwestern Europe)
   Niederlande {{de-proper noun}} :: Netherlands.
+  (Low German) was (verb form) :: wash; apocoped form of wasse, singular imperative of wassen; mainly used in the Netherlands, equivalent to other dialekts' wasche/waske
   Schelde (proper noun) :: The mighty river Scheldt, which flows through France, Flanders (Belgium, where he becomes navigable for seaships) and the Netherlands.
 ===Neubau===
   NB :: {{context|apartment listing}} Abbreviation of Neubau
@@ -7610,7 +7755,7 @@ Index: en en->de
     Am liebsten entfloh sie dem allem in den großen Garten. Da verbrachte sie ihre schönsten Stunden. :: --
     She liked best to escape from all of that into the big garden. There she spent her most pleasant hours. :: --
   schön {{de-adj|schöner|schönsten}} :: {{context|ironical}} fine, nice
-  so (adverb) :: {{l|en|so}}, that
+  so (adverb) :: so, that
     So nett. :: So nice.
     Nicht so gut. :: Not that good.
 ===nicely===
@@ -7642,7 +7787,6 @@ Index: en en->de
     Großartig, ne? :: “Great, isn’t it?”
   nein {{de-adv}} :: no
   (Low German) nee (adverb) :: no
-  (Low German) was (verb form) :: singular past indicative of 'wesen' (dialecal forms include wäsen and węsen, there is no standard); wholly synonymous alternate form of was is wer (weer, wir)
   ledig :: alone (with no spouse)
   mehr :: no longer, never again, nothing more (+ negation)
     er ist kein Kind mehr :: --
@@ -7665,7 +7809,7 @@ Index: en en->de
     Glaubst du an Engel? :: Do you believe in angels?
     Niemand kann ihm glauben. :: No-one can believe him.
 ===nominal===
-  Amsterdam {{de-proper noun}} :: {{l|en|Amsterdam}}, the nominal capital of the Netherlands
+  Amsterdam {{de-proper noun}} :: Amsterdam, the nominal capital of the Netherlands
 ===nominative===
   meine {f/pl} (pronoun form) :: {possessive} Feminine nominative and accusative singular form of mein.
   englische :: nominative singular form of {{term|englisch||English}} used after the definite article.
@@ -7676,6 +7820,7 @@ Index: en en->de
   Mittag {{de-noun|g=m|pl=Mittage}} :: noon, midday.
 ===normal===
   gewöhnlich (adjective) :: usual, normal, ordinary
+  normal {{de-adj|comparative=normaler|superlative=normalsten}} :: normal
 ===Norse===
   Thor (proper noun) :: {Norse mythology} Thor, God in Norse mythology.
 ===north===
@@ -7702,7 +7847,7 @@ Index: en en->de
   bei (preposition), + dative :: {{context|with something that has a location}} by (some place or someone); near; with; on
     Ich habe es nicht bei mir. :: “I do not have it on me.”
 ===Not===
-  so (adverb) :: {{l|en|so}}, that
+  so (adverb) :: so, that
     So nett. :: So nice.
     Nicht so gut. :: Not that good.
 ===nothing===
@@ -7728,6 +7873,8 @@ Index: en en->de
   Boden {{de-noun|g=m|genitive=Bodens|plural=Böden}} :: (countable, colloquial): flooring, floor cover (often used in this sense in compound nouns: Teppichboden, Parkettboden)
   -er (suffix) :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
     arbeiten 'to work'; (ich) arbeit(<u>e</u>) + -er '-er' -> Arbeiter 'worker' :: --
+===November===
+  November {m} (noun) :: November
 ===now===
   nun {{de-adv}} :: now; then
   nu (interjection) :: well, well now
@@ -7792,8 +7939,8 @@ Index: en en->de
   Öl {{de-noun|g=n|genitive=Öls|genitive2=Öles|plural=Öle}} :: oil
 ===old===
   (Old High German) hēr (adjective) :: old
-  (Low German) old :: old
-  (Middle Low German) old :: old
+  (Low German) old (adjective) :: old
+  (Middle Low German) old (adjective) :: old
   er (pronoun) :: {personal} it (when the grammatical gender of the object/article/thing/animal etc., being referred to, is masculine (der)).
     Dies ist mein Hund. Er heißt Waldi. :: This is my dog. Its name is Waldi.
     Dort steht ein Baum. Er ist über 100 Jahre alt. :: There stands a tree. It is more than 100 years old.
@@ -7879,6 +8026,7 @@ Index: en en->de
 ===other===
   (Old High German) andar (adjective) :: other
   einander :: each other.
+  (Low German) was (verb form) :: wash; apocoped form of wasse, singular imperative of wassen; mainly used in the Netherlands, equivalent to other dialekts' wasche/waske
   Zug {{de-noun|g=m|genitive=Zugs|genitive2=Zuges|plural=Züge}} :: train (multiple vehicles one behind the other, particularly travelling on rails)
   Aasfliege {{de-noun|g=f|plural=Aasfliegen}} :: {uncommon} A person with a habit of exploiting other people.
 ===otherwise===
@@ -7943,10 +8091,14 @@ Index: en en->de
     Die eine Bahnschiene verläuft auch in der Kurve stets parallel zur anderen. :: --
 ===parenteral===
   parenteral {{de-adj|parenteraler|parenteralsten}} :: parenteral
+===Paris===
+  Paris {{de-proper noun}} :: Paris
 ===Parkettboden===
   Boden {{de-noun|g=m|genitive=Bodens|plural=Böden}} :: (countable, colloquial): flooring, floor cover (often used in this sense in compound nouns: Teppichboden, Parkettboden)
 ===parliament===
   Parlament {{de-noun|g=n|genitive=Parlaments|plural=Parlamente}} :: {politics} parliament
+===pars===
+  rechts {{de-adv}} :: pars pro toto for right-wing extremistic
 ===part===
   Straße {{de-noun|g=f|plural=Straßen}} :: carriageway, the part of the road used by vehicles
   Hannover {{de-proper noun|g=n}} :: Hanover, a former province of Prussia, now part of Lower Saxony, Germany.
@@ -8020,6 +8172,7 @@ Index: en en->de
   rot {{de-adj|comparative=röter|superlative=rötesten}}<br>{{de-adj|comparative=roter|superlative=rotesten}} :: {{context|politics|Germany}} specifically, pertaining to the SPD (a large social democratic party in Germany) or Linke (a far-left political party in Germany)
   rot {{de-adj|comparative=röter|superlative=rötesten}}<br>{{de-adj|comparative=roter|superlative=rotesten}} :: {{context|historical|offensive}} Indian (pertaining to the Native Americans)
   grün {{de-adj|comparative=grüner|superlative=grünsten}} :: {{context|politics|Germany}} pertaining to Bündnis 90/Die Grünen (the largest environmental party in Germany)
+  rechts {{de-adv}} :: pertaining to the political right
   schwarz {{de-adj|comparative=schwärzer|superlative=schwärzesten}} :: {{context|politics|Germany}} pertaining to the CDU/CSU (a large center right christian democratic party in Germany)
 ===Peru===
   Peru {n} (proper noun) :: Peru
@@ -8086,7 +8239,7 @@ Index: en en->de
   Papierflieger {{de-noun|g=m|gen=Papierfliegers|pl=Papierflieger}} :: paper airplane (US), paper aeroplane (British), paper plane
 ===planet===
   Saturn {m} (proper noun) :: Saturn, a planet in the Solar System
-  Jupiter {{de-proper noun|g=m}} :: {{l|en|Jupiter}} (planet)
+  Jupiter {{de-proper noun|g=m}} :: Jupiter (planet)
   Venus (proper noun) :: Venus (planet)
   Pluto {{de-noun|g=m|pl=-|genitive=Plutos}} :: Pluto (dwarf planet)
 ===plant===
@@ -8108,7 +8261,7 @@ Index: en en->de
     She liked best to escape from all of that into the big garden. There she spent her most pleasant hours. :: --
 ===please===
   bat (verb form) :: singular past tense of bitten (to please, to pray, to ask, to gratify).
-  so (adverb) :: {archaic} {{l|en|an}}, {{l|en|if}}
+  so (adverb) :: {archaic} an, if
     So es Euch beliebt. :: If you please.
   zahlen {{de-verb-weak|zahlt|zahlte|gezahlt}} :: to pay (for something).
     Kellner, zahlen bitte! :: Waiter, the bill please!
@@ -8120,6 +8273,7 @@ Index: en en->de
 ===political===
   rot {{de-adj|comparative=röter|superlative=rötesten}}<br>{{de-adj|comparative=roter|superlative=rotesten}} :: {{context|politics}} leftist; on the left of the political spectrum
   rot {{de-adj|comparative=röter|superlative=rötesten}}<br>{{de-adj|comparative=roter|superlative=rotesten}} :: {{context|politics|Germany}} specifically, pertaining to the SPD (a large social democratic party in Germany) or Linke (a far-left political party in Germany)
+  rechts {{de-adv}} :: pertaining to the political right
 ===poll===
   pollen {{de-verb}} :: {computing} to poll, to periodically check the status of a device or variable.
 ===Pomerania===
@@ -8149,6 +8303,8 @@ Index: en en->de
   bringen {{de-verb-weak|bringt|brachte|gebracht}} :: {{transitive|with “an sich”}} to acquire; to take possession of
 ===possessive===
   Possessivpronomen n :: possessive pronoun
+  (Middle Low German) sîn (pronoun) :: {possessive} his; possessive form of he
+  (Middle Low German) sîn (pronoun) :: {possessive} its; possessive form of it
 ===postman===
   Bote {{de-noun|g=m|gen=Boten|plural=Boten}} :: postman, letter carrier
 ===pottery===
@@ -8192,6 +8348,8 @@ Index: en en->de
   Menschenaffe {{de-noun|g=m|pl=Meschenaffen|gen=Meschenaffen}} :: ape, a tailless primate; humans may be excluded.
 ===private===
   eigen {{de-adj|-}} :: private
+===pro===
+  rechts {{de-adv}} :: pars pro toto for right-wing extremistic
 ===produced===
   bio- (prefix) :: organically produced, or otherwise environmentally friendly
 ===product===
@@ -8219,7 +8377,7 @@ Index: en en->de
 ===province===
   Hannover {{de-proper noun|g=n}} :: Hanover, a former province of Prussia, now part of Lower Saxony, Germany.
   Madrid (proper noun) :: Madrid, Spanish capital city and province
-  Salerno {{de-proper noun}} :: {{l|en|Salerno}} (province)
+  Salerno {{de-proper noun}} :: Salerno (province)
 ===Prussia===
   Hannover {{de-proper noun|g=n}} :: Hanover, a former province of Prussia, now part of Lower Saxony, Germany.
 ===pull===
@@ -8239,10 +8397,14 @@ Index: en en->de
     Die Autobahn verläuft parallel zur Eisenbahn aber in ganz unterschiedlichen Biegungen und Kurven. :: --
     Die Eheleute hatten nichts verabredet, so haben sie parallel (zueinander) eingekauft. :: --
   Gebrauchsmusik {{de-noun|g=f|plural=Gebrauchsmusiken}} :: "utility music" (music composed for a specific, identifiable purpose, not just for its own sake).
+===pursuit===
+  (Middle Low German) jacht {f} (noun) :: a chase, a pursuit
 ===put===
   geben {{de-verb-strong|class=5|gibt|gab|gegeben}} :: {transitive} To present; to put.
 ===python===
   Python {{de-noun|g=f|plural=Pythons}} :: python {{gloss|snake}}
+===Python===
+  Python {{de-noun|g=n|pl=-|genitive=Python}} :: Python
 ===qualities===
   schwul (adjective) :: {pejorative} {slang} having effeminate or flamboyant qualities; fruity, queer, swishy
 ===quantity===
@@ -8305,7 +8467,7 @@ Index: en en->de
 ===ready===
   gar {{de-adj|-}} :: ready
 ===real===
-  echt :: authentic, genuine, real
+  echt {{de-adj|echter|echtesten}} :: authentic, genuine, real
   recht :: true, real.
   live {{de-adv}} :: {{context|of an event}} live (as it happens; in real time; direct)
 ===realize===
@@ -8426,6 +8588,8 @@ Index: en en->de
 ===Rhodes===
   Appenzell Innerrhoden :: Appenzell Inner Rhodes.
   Appenzell Ausserrhoden :: Appenzell Outer Rhodes
+===Rica===
+  Costa Rica {f} (proper noun) :: Costa Rica
 ===Richard===
   Richard (proper noun) :: {{given name|male}} cognate to Richard.
 ===Richter===
@@ -8442,6 +8606,8 @@ Index: en en->de
   rechts {{de-adv}} :: on the right: Siehst du das Auto rechts?
   rechts {{de-adv}} :: to the right: An der nächsten Ampel rechts abbiegen.
   rechts {{de-adv}} :: the right-hand side: Wir gehen nach rechts.
+  rechts {{de-adv}} :: pars pro toto for right-wing extremistic
+  rechts {{de-adv}} :: pertaining to the political right
   schwarz {{de-adj|comparative=schwärzer|superlative=schwärzesten}} :: {{context|politics|Germany}} pertaining to the CDU/CSU (a large center right christian democratic party in Germany)
 ===ring===
   (Old High German) ring {{goh-noun|g=m}} :: A ring {rfgloss}
@@ -8509,6 +8675,8 @@ Index: en en->de
   Russisch {{de-proper noun}} :: Russian language
 ===Rwanda===
   Ruanda n :: Rwanda
+===Saarland===
+  Saarland {{de-proper noun|g=n}} :: Saarland
 ===Sabbath===
   Sabbat {m} (plural: Sabbate) :: Sabbath.
 ===Sache===
@@ -8533,6 +8701,9 @@ Index: en en->de
   St. Vincent und die Grenadinen {{de-proper noun}} :: Saint Vincent and the Grenadines
 ===sake===
   Gebrauchsmusik {{de-noun|g=f|plural=Gebrauchsmusiken}} :: "utility music" (music composed for a specific, identifiable purpose, not just for its own sake).
+===Salerno===
+  Salerno {{de-proper noun}} :: Salerno (province)
+  Salerno {{de-proper noun}} :: Salerno (town)
 ===Salvador===
   El Salvador {n} (proper noun) :: El Salvador
 ===salvage===
@@ -8543,6 +8714,8 @@ Index: en en->de
     Die Eheleute hatten nichts verabredet, so haben sie parallel (zueinander) eingekauft. :: --
 ===Samoa===
   Samoa {n} (proper noun) :: Samoa
+===San===
+  San Marino {n} (proper noun) :: San Marino
 ===Sarcophaga===
   Aasfliege {{de-noun|g=f|plural=Aasfliegen}} :: a flesh-fly (Sarcophaga carnaria)
 ===sassy===
@@ -8585,6 +8758,9 @@ Index: en en->de
   schade :: 1st and 3rd person singular present subjunctive of schaden
 ===schadenfreude===
   Schadenfreude {{de-noun|g=f|pl=-}} :: Malicious enjoyment derived from observing someone else's misfortune; schadenfreude.
+===Schaffhausen===
+  Schaffhausen {{de-proper noun}} :: Schaffhausen (canton)
+  Schaffhausen {{de-proper noun}} :: Schaffhausen (city)
 ===Scheffler===
   Berlin {n} (proper noun) :: Berlin, the capital city of Germany.
     Berlin ist mehr ein Weltteil als eine Stadt. :: Johann Paul Friedrich Richter, 1800.
@@ -8669,6 +8845,8 @@ Index: en en->de
 ===sentence===
   nun (interjection) :: (when placed at the beginning of a sentence) well; so
     Nun, wie geht’s? :: “Well, how’s it going?”
+===Seoul===
+  Seoul {{de-proper noun}} :: Seoul
 ===Separable===
   ab- (prefix) :: Separable verb prefix, from.
     abfahren (to depart from). :: --
@@ -8678,6 +8856,8 @@ Index: en en->de
   ab- (prefix) :: Separable verb prefix that indicates from or of.
   an- (prefix) :: Separable verb prefix, on
   an- (prefix) :: Separable verb prefix, up
+===September===
+  September {m} (noun) :: September
 ===Septime===
   Septime {{de-noun|g=f|genitive=Septime|plural=Septimen}} :: {music} An interval of 10 (kleine Septime) or 11 (große Septime) halftones.
 ===serfdom===
@@ -8717,8 +8897,6 @@ Index: en en->de
   wiegen {{de-verb-weak|wiegt|wiegte|gewiegt}} :: {{transitive|or|reflexive}} to move (something) from side to side; to sway; to shake; to rock
 ===shape===
   biegen {{de-verb}} :: {{reflexive|auxiliary: “[[haben]]”}} to have a curved shape.
-===sharp===
-  (Old High German) scarf (adjective) :: sharp
 ===she===
   die (relative pronoun), relative or demonstrative :: {{context|as a demonstrative pronoun}} This one; that one; these ones; those ones; she; her; it; they; them
     die da :: “that one (or she or they) there”
@@ -8734,6 +8912,7 @@ Index: en en->de
 ===shelter===
   bergen {{de-verb-strong|class=3|birgt|barg|geborgen}} :: {transitive} to conceal; shelter; to contain
 ===ship===
+  (Middle Low German) jacht {f} (noun) :: a fast ship (shortened from jachte/jachtschip)
   abarbeiten {{de-verb}} :: {rfv-sense} to get (a ship) off or afloat
   Raum {{de-noun|g=m|genitive=Raums|genitive2=Raumes|plural=Räume}} :: hold (of a ship)
 ===shoe===
@@ -8752,6 +8931,7 @@ Index: en en->de
   bergen {{de-verb-strong|class=3|birgt|barg|geborgen}} :: {{transitive|naval}} to take in (a sail); to shorten (a sail)
     die Segel bergen :: “to shorten the sail”
 ===shortened===
+  (Middle Low German) jacht {f} (noun) :: a fast ship (shortened from jachte/jachtschip)
   Verona (proper noun) :: {{given name|female}}, shortened from Veronika.
 ===shorthand===
   n (article) :: {colloquial} shorthand of ein "a"
@@ -8788,6 +8968,9 @@ Index: en en->de
 ===similar===
   Autobahn {{de-noun|g=f|plural=Autobahnen}} :: A class of road built to freeway standards, similar to a motorway.
   Wasser {n} (noun), genitive: Wassers, plural: Wasser, plural 2 (depending on sense): Wässer :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is {{term|Wässer}}.)
+===simple===
+  (Low German) was (verb form) :: was; first-person singular simple past tense indicative of węsen (to be).
+  (Low German) was (verb form) :: was; Third-person singular simple past tense indicative of węsen (to be).
 ===simultaneity===
   Zusammenklang :: "sounding together", a pitch simultaneity, sonority, or a chord in the sense of indpendent entities sounding together.
 ===since===
@@ -8799,7 +8982,7 @@ Index: en en->de
 ===sing===
   (Old High German) du :: you (sing.)
 ===singing===
-  (Low German) sang {m} (), Genitive: sanges :: the act of singing
+  (Low German) sang {m} (noun), Genitive: sanges :: the act of singing
 ===single===
   ledig :: single (not married)
 ===SiO===
@@ -8849,6 +9032,9 @@ Index: en en->de
 ===so===
   also! :: so!
   also :: so
+  so (adverb) :: so, that
+    So nett. :: So nice.
+    Nicht so gut. :: Not that good.
   baba (interjection) :: {{informal|chiefly|_|in|_|Austria}} see you, so long
   da {{de-adv}} :: so
   nun (interjection) :: (when placed at the beginning of a sentence) well; so
@@ -8865,7 +9051,7 @@ Index: en en->de
   ja {{de-adv}} :: urgently; certainly; definitely; surely; really; just
     Es kann ja nicht immer so bleiben. :: “It definitely cannot always remain so.”
 ===So===
-  so (adverb) :: {{l|en|so}}, that
+  so (adverb) :: so, that
     So nett. :: So nice.
     Nicht so gut. :: Not that good.
 ===social===
@@ -8919,10 +9105,14 @@ Index: en en->de
     einen Anfang nehmen :: “to begin” (Literally, “to take a beginning”)
     ein Haus in Pacht nehmen :: “to lease a house” (Literally, “to take a house in lease”)
     das Wort nehmen :: “to begin to speak” (Literally, “to take a word”)
+===sometimes===
+  (Middle Low German) sîn (pronoun) :: sometimes used to form the genitive
+    Deme könnink sin land, dat is: des könninges land. :: --
+    The king his land, that is: the king's land. :: --
 ===somewhat===
   etwas :: somewhat, slightly
 ===song===
-  (Low German) sang {m} (), Genitive: sanges :: a chant, a song
+  (Low German) sang {m} (noun), Genitive: sanges :: a chant, a song
 ===sonority===
   Zusammenklang :: "sounding together", a pitch simultaneity, sonority, or a chord in the sense of indpendent entities sounding together.
 ===soon===
@@ -8987,7 +9177,7 @@ Index: en en->de
 ===spiked===
   Pickelhaube {{de-noun|g=f|plural=Pickelhauben}} :: a spiked helmet, popularized by Otto von Bismark.
 ===spirit===
-  (Middle High German) alb (plural elbe, elber) :: friendly spirit, ghostly being, genius, or fairy
+  (Middle High German) alb (noun), plural: elbe, plural2: elber :: friendly spirit, ghostly being, genius, or fairy
   fair (adjective) :: just, equitable, adequate, honest, in good spirit
     ein faires Spiel :: --
     Es ist nur fair, auch wenn alle gleich schlecht behandelt werden. :: --
@@ -9004,7 +9194,7 @@ Index: en en->de
 ===spoil===
   aasen {{de-verb}} :: to waste or spoil something, to make a mess of (something)
 ===spoken===
-  Manx {n} (proper noun) :: Manx Gaelic, the Goidelic language spoken on the Isle of Man
+  Manx {n} (proper noun) :: Manx Gaelic, the Goidelic Celtic language spoken on the Isle of Man
 ===sport===
   Orden {{de-noun|g=m|gen=Ordens|plural=Orden}} :: A decoration earned in the military or in sports; a medal, especially one awarded for merit or achievement.
 ===spot===
@@ -9019,6 +9209,8 @@ Index: en en->de
   Sri Lanka {n} (proper noun) :: Sri Lanka
 ===SS===
   Bann m :: a regiment of Hitler Youth or the SS. (plural Banne)
+===Stadt===
+  Basel-Stadt {{de-proper noun}} :: Basel-Stadt
 ===Stadtschicksal===
   Berlin {n} (proper noun) :: Berlin, the capital city of Germany.
     Berlin ist mehr ein Weltteil als eine Stadt. :: Johann Paul Friedrich Richter, 1800.
@@ -9031,8 +9223,6 @@ Index: en en->de
   (Old High German) stand {{goh-noun|g=m}} :: stand {rfgloss}
 ===Stand===
   zurück! :: Stand back!
-===standard===
-  (Low German) was (verb form) :: singular past indicative of 'wesen' (dialecal forms include wäsen and węsen, there is no standard); wholly synonymous alternate form of was is wer (weer, wir)
 ===standards===
   Autobahn {{de-noun|g=f|plural=Autobahnen}} :: A class of road built to freeway standards, similar to a motorway.
 ===stands===
@@ -9086,6 +9276,8 @@ Index: en en->de
   Zug {{de-noun|g=m|genitive=Zugs|genitive2=Zuges|plural=Züge}} :: stroke
 ===stud===
   beschlagen (third-person singular simple present beschlägt, past tense beschlug, past participle beschlagen) :: to fit with nails, studs, clasps, etc.
+===Stuttgart===
+  Stuttgart {{de-proper noun|g=n}} :: Stuttgart
 ===sub===
   Quarzstaublungenerkrankung {f} (noun) :: silicosis or silico-tuberculosis (literally, "quartz dust lung illness"—cancer of the lungs due to the effect of crystalline silicon dioxide (SiO<sub>2</sub>)).
 ===subjunctive===
@@ -9103,7 +9295,7 @@ Index: en en->de
 ===subway===
   U-Bahn {{de-noun|g=f|plural=U-Bahnen}} :: An underground railway, subway
 ===Succeeded===
-  æ (letter), lower case, upper case: Æ :: {obsolete} {{l|en|vowel|Vowel}} borrowed from {{l|en|Latin}}. Succeeded by ä.
+  æ (letter), lower case, upper case: Æ :: {obsolete} vowel borrowed from Latin. Succeeded by ä.
 ===success===
   umsonst :: having done something without success
 ===sucker===
@@ -9173,7 +9365,6 @@ Index: en en->de
   Schwyz {{de-proper noun}} :: A canton of Switzerland.
 ===synonymous===
   synonym {{de-adj|-}} :: synonymous
-  (Low German) was (verb form) :: singular past indicative of 'wesen' (dialecal forms include wäsen and węsen, there is no standard); wholly synonymous alternate form of was is wer (weer, wir)
 ===System===
   Saturn {m} (proper noun) :: Saturn, a planet in the Solar System
   PPS (abbreviation) :: Produktions-Planungs-System (ERP)
@@ -9250,6 +9441,8 @@ Index: en en->de
   Reben{{plural of|Rebe|lang=de}} :: tendrils
 ===tense===
   Zeit {{de-noun|g=f|plural=Zeiten}} :: {grammar} tense
+  (Low German) was (verb form) :: was; first-person singular simple past tense indicative of węsen (to be).
+  (Low German) was (verb form) :: was; Third-person singular simple past tense indicative of węsen (to be).
   bat (verb form) :: singular past tense of bitten (to please, to pray, to ask, to gratify).
   bog :: past tense of biegen.
   band :: Past tense of binden.
@@ -9317,7 +9510,6 @@ Index: en en->de
     She liked best to escape from all of that into the big garden. There she spent her most pleasant hours. :: --
   sein {{de-verb-irregular|ist|war|gewesen|auxiliary=sein}} :: {intransitive} To exist; there be
     Mir ist Angst. :: For me there is fear. (“I am afraid.”)
-  (Low German) was (verb form) :: singular past indicative of 'wesen' (dialecal forms include wäsen and węsen, there is no standard); wholly synonymous alternate form of was is wer (weer, wir)
   bei (preposition), + dative :: {{context|with something that may or may not occur}} if there is (something)
     bei Schnee :: “if there is snow”
   geben {{de-verb-strong|class=5|gibt|gab|gegeben}} :: {{impersonal|transitive}} There be; there is; there are; {{non-gloss definition|Indicates that the object exists}}
@@ -9386,6 +9578,7 @@ Index: en en->de
 ===third===
   darf (verb form) :: first and third person present of dürfen.
 ===Third===
+  (Low German) was (verb form) :: was; Third-person singular simple past tense indicative of węsen (to be).
   meine (verb form) :: Third-person singular subjunctive present form of meinen.
   esse (verb form) :: Third-person singular subjunctive present form of essen.
   ward (verb form) :: {archaic} Third-person singular indicative past form of werden.
@@ -9485,6 +9678,8 @@ Index: en en->de
 ===tooth===
   Zahn {{de-noun|g=m|genitive=Zahns|genitive2=Zahnes|plural=Zähne}} :: tooth.
   (Alemannic German) ton (noun) (singular genitive tones, plural tän, plural genitive tänens) :: {{context|Berne dialect}} tooth
+===toto===
+  rechts {{de-adv}} :: pars pro toto for right-wing extremistic
 ===towards===
   (Old High German) nāh (preposition), takes dative :: towards
   zu (preposition), + dative :: to, towards.
@@ -9496,7 +9691,7 @@ Index: en en->de
   Turm {{de-noun|g=m|genitive=Turms|plural=Türme}} :: tower
 ===town===
   Stadt {{de-noun|g=f|plural=Städte}} :: town
-  Salerno {{de-proper noun}} :: {{l|en|Salerno}} (town)
+  Salerno {{de-proper noun}} :: Salerno (town)
   Klausenburg {{de-noun|g=f|pl=-|genitive=Klausenburg}} :: Cluj-Napoca (a town in Transylvania)
   Schwyz {{de-proper noun}} :: A town in Switzerland, the capital of the canton of Schwyz.
 ===traction===
@@ -9522,6 +9717,8 @@ Index: en en->de
   Übersetzungswörterbuch {{de-noun|g=n|genitive=Übersetzungswörterbuchs|genitive2=Übersetzungswörterbuches|plural=Übersetzungswörterbücher}} :: a translation dictionary
 ===transliteration===
   wuerdigen (verb form) :: Alternate transliteration of würdigen.
+===transparent===
+  transparent (adjective) :: transparent
 ===Transylvania===
   Klausenburg {{de-noun|g=f|pl=-|genitive=Klausenburg}} :: Cluj-Napoca (a town in Transylvania)
 ===travel===
@@ -9560,6 +9757,8 @@ Index: en en->de
     Wir gehen nach links. :: We’re going to the left.
 ===tusk===
   Zahn {{de-noun|g=m|genitive=Zahns|genitive2=Zahnes|plural=Zähne}} :: tusk.
+===Tuvalu===
+  Tuvalu {n} (proper noun) :: Tuvalu
 ===twelve===
   zwölf (numeral) :: {cardinal} twelve
 ===twenty===
@@ -9641,6 +9840,8 @@ Index: en en->de
 ===urgently===
   ja {{de-adv}} :: urgently; certainly; definitely; surely; really; just
     Es kann ja nicht immer so bleiben. :: “It definitely cannot always remain so.”
+===Uruguay===
+  Uruguay {n} (proper noun) :: Uruguay
 ===us===
   her {{de-adv}} :: hither, to this place, to here, to me/us
 ===US===
@@ -9648,7 +9849,13 @@ Index: en en->de
 ===usage===
   Maya :: {{given name|female}} of modern usage, a variant of Maja ( =Maria).
 ===used===
+  um (preposition) + accusative :: about, used with es geht
+    Es geht um den Kuchen. (It's about the pie.) :: --
   all (pronoun) :: {Short form|[[alles]]} Only used in the combination all das (=all that).
+  (Low German) was (verb form) :: wash; apocoped form of wasse, singular imperative of wassen; mainly used in the Netherlands, equivalent to other dialekts' wasche/waske
+  (Middle Low German) sîn (pronoun) :: sometimes used to form the genitive
+    Deme könnink sin land, dat is: des könninges land. :: --
+    The king his land, that is: the king's land. :: --
   Straße {{de-noun|g=f|plural=Straßen}} :: carriageway, the part of the road used by vehicles
   hallo (interjection) :: hello (a general greeting used when meeting somebody)
   sie (pl.) :: {personal} you, used to refer to any number of persons in formal conversations
@@ -9688,10 +9895,16 @@ Index: en en->de
   Gebrauchsmusik {{de-noun|g=f|plural=Gebrauchsmusiken}} :: "utility music" (music composed for a specific, identifiable purpose, not just for its own sake).
 ===vacuum===
   Vakuum {{de-noun|g=n|plural=Vakua|plural2=Vakuen}} :: vacuum
+===Vaduz===
+  Vaduz {{de-proper noun}} :: Vaduz
+===Valletta===
+  Valletta {{de-proper noun}} :: Valletta
 ===valley===
   Talsohle {{de-noun|g=f|plural=Talsohlen}} :: sole of a valley, bottom of a valley,
 ===value===
   Verbrauchsmusik {{de-noun|g=f|plural=Verbrauchsmusiken}} :: Music without lasting value, written to be used and discarded quickly.
+===Vanuatu===
+  Vanuatu {n} (proper noun) :: Vanuatu
 ===variable===
   pollen {{de-verb}} :: {computing} to poll, to periodically check the status of a device or variable.
 ===variant===
@@ -9787,6 +10000,8 @@ Index: en en->de
   Raum {{de-noun|g=m|genitive=Raums|genitive2=Raumes|plural=Räume}} :: capacity, volume
 ===von===
   Pickelhaube {{de-noun|g=f|plural=Pickelhauben}} :: a spiked helmet, popularized by Otto von Bismark.
+===vowel===
+  æ (letter), lower case, upper case: Æ :: {obsolete} vowel borrowed from Latin. Succeeded by ä.
 ===Waiter===
   zahlen {{de-verb-weak|zahlt|zahlte|gezahlt}} :: to pay (for something).
     Kellner, zahlen bitte! :: Waiter, the bill please!
@@ -9810,8 +10025,12 @@ Index: en en->de
 ===want===
   ja {{de-adv}} :: yes
     Willst du das? Ja. :: “Do you want that? Yes.”
+===warm===
+  warm {{de-adj|wärmer|wärmsten}} :: warm, hot
+  (Old High German) warm (adjective) :: warm
 ===was===
-  (Low German) was (verb form) :: singular past indicative of 'wesen' (dialecal forms include wäsen and węsen, there is no standard); wholly synonymous alternate form of was is wer (weer, wir)
+  (Low German) was (verb form) :: was; first-person singular simple past tense indicative of węsen (to be).
+  (Low German) was (verb form) :: was; Third-person singular simple past tense indicative of węsen (to be).
   Christus {m} (proper noun) :: Christ (the messiah who was named Jesus)
   zu :: closed, shut.
     Das Geschäft war zu. :: "The shop was closed."
@@ -9819,10 +10038,12 @@ Index: en en->de
     Und Gott sprach: »Es werde Licht!« Und es ward Licht. [http://www.bibledbdata.org/onlinebibles/german_l/01_001.htm] :: And God said: "Let there be light." And there was light.
   wie :: {nonstandard} when {{context|in the past tense}}
     Ich habe ihn gesehen, wie ich in Köln war. :: I saw him when I was in Cologne.
-===wäsen===
-  (Low German) was (verb form) :: singular past indicative of 'wesen' (dialecal forms include wäsen and węsen, there is no standard); wholly synonymous alternate form of was is wer (weer, wir)
-===wassen===
-  (Low German) was (verb form) :: singular imperative of wassen
+===wasche===
+  (Low German) was (verb form) :: wash; apocoped form of wasse, singular imperative of wassen; mainly used in the Netherlands, equivalent to other dialekts' wasche/waske
+===wash===
+  (Low German) was (verb form) :: wash; apocoped form of wasse, singular imperative of wassen; mainly used in the Netherlands, equivalent to other dialekts' wasche/waske
+===waske===
+  (Low German) was (verb form) :: wash; apocoped form of wasse, singular imperative of wassen; mainly used in the Netherlands, equivalent to other dialekts' wasche/waske
 ===Wasseruhr===
   Uhr {{de-noun|g=f|plural=Uhren}} :: ~uhr: an instrument to measure something passing by (compare Wasseruhr, Gasuhr)
 ===waste===
@@ -9833,12 +10054,15 @@ Index: en en->de
 ===watchman===
   Nachtwächter {{de-noun|g=m|gen=Nachtwächters|pl=Nachtwächter}} :: night watchman (a guard that protected cities (in the middle ages))
 ===water===
-  (Low German) water {{nds-noun}} :: water
+  (Low German) water {{nds-noun|g=n}} :: water
   (Middle Low German) water (noun) :: water
+    {{quote-book|year=1537|author=Jürgen Richolff der Jüngere|title=Datt högeste unde öldeste water recht|section=xxviii|passage=Eyn schip effte twe effte meer liggen in einer hauen dar kleyn '''water''' is / vnde plecht dröge tho synde / also dat dat eyne schip hart by dem andern tho liggende kumpt {{...}}}} :: --
   WC {{de-noun|g=n|pl=WCs}} :: WC (water closet)
   Wasser {n} (noun), genitive: Wassers, plural: Wasser, plural 2 (depending on sense): Wässer :: water
   zu (preposition), + dative :: along with; with
     Wasser zum Essen trinken :: "to drink water with [one's] meal
+===wax===
+  (Low German) was (verb form) :: wax; apocoped form of wasse, singular imperative of wassen
 ===way===
   (Old High German) weg {{goh-noun|g=m}} :: way
   Sprache {{de-noun|g=f|plural=Sprachen}} :: (way of) talking or speaking
@@ -9860,8 +10084,6 @@ Index: en en->de
   Weltschmerz m :: World-weariness, Weltschmerz
 ===wearing===
   nackt {{de-adj|comparative=nackter|superlative=nacktesten}} :: naked, nude (not wearing any clothes)
-===weer===
-  (Low German) was (verb form) :: singular past indicative of 'wesen' (dialecal forms include wäsen and węsen, there is no standard); wholly synonymous alternate form of was is wer (weer, wir)
 ===weigh===
   wiegen {{de-verb-strong|class=2|wiegt|wog|gewogen}} :: {transitive} to weigh; to measure the weight; to balance
   wiegen {{de-verb-strong|class=2|wiegt|wog|gewogen}} :: {{intransitive|or|reflexive}} to weigh; to be of a certain weight
@@ -9893,11 +10115,6 @@ Index: en en->de
   Käfer {{de-noun|g=m|genitive=Käfers|plural=Käfer}} :: {slang} young girl, wench
 ===wer===
   wen :: {interrogative} accusative of wer, who(m) (direct object).
-  (Low German) was (verb form) :: singular past indicative of 'wesen' (dialecal forms include wäsen and węsen, there is no standard); wholly synonymous alternate form of was is wer (weer, wir)
-===wesen===
-  (Low German) was (verb form) :: singular past indicative of 'wesen' (dialecal forms include wäsen and węsen, there is no standard); wholly synonymous alternate form of was is wer (weer, wir)
-===węsen===
-  (Low German) was (verb form) :: singular past indicative of 'wesen' (dialecal forms include wäsen and węsen, there is no standard); wholly synonymous alternate form of was is wer (weer, wir)
 ===west===
   Westen {m} :: west
 ===West===
@@ -9989,7 +10206,6 @@ Index: en en->de
     Since end of July the monsoon rain has made the rivers overflow their banks in large parts of Pakistan and turned whole provinces into lakes. :: --
 ===wholly===
   ganz :: quite, wholly, entirely, all
-  (Low German) was (verb form) :: singular past indicative of 'wesen' (dialecal forms include wäsen and węsen, there is no standard); wholly synonymous alternate form of was is wer (weer, wir)
 ===whom===
   die (relative pronoun), relative or demonstrative :: {{context|in a subordinate clause as a relative pronoun}} That; which; who; whom; whose.
     Ich kenne eine Frau, die das kann. :: “I know a woman who can do that.”
@@ -10020,8 +10236,8 @@ Index: en en->de
   bei (preposition), + dative :: {{context|with something that has a duration}} during; while; over
     bei der Arbeit :: “during work”
     bei einem Glase Wein :: “over a glass of wine”
-===wir===
-  (Low German) was (verb form) :: singular past indicative of 'wesen' (dialecal forms include wäsen and węsen, there is no standard); wholly synonymous alternate form of was is wer (weer, wir)
+===wing===
+  rechts {{de-adv}} :: pars pro toto for right-wing extremistic
 ===Wir===
   rechts {{de-adv}} :: the right-hand side: Wir gehen nach rechts.
 ===wit===
@@ -10094,8 +10310,6 @@ Index: en en->de
   Baden-Württemberg :: Baden-Württemberg
 ===xylophone===
   Xylophon {{de-noun|g=n|gen=Xylophons|pl=Xylophone}} :: xylophone
-===year===
-  (Old High German) jar {{goh-noun|head=jār|g=n}} :: year
 ===years===
   er (pronoun) :: {personal} it (when the grammatical gender of the object/article/thing/animal etc., being referred to, is masculine (der)).
     Dies ist mein Hund. Er heißt Waldi. :: This is my dog. Its name is Waldi.
@@ -10126,7 +10340,7 @@ Index: en en->de
   dir (pronoun form) :: {personal} dative of du; you, to you.
   ja {{de-adv}} :: of course; as you know
     Aber ja! :: “But of course!”
-  so (adverb) :: {archaic} {{l|en|an}}, {{l|en|if}}
+  so (adverb) :: {archaic} an, if
     So es Euch beliebt. :: If you please.
   ne :: {colloquial} shorthand of the feminine indefinite article eine (“an; a”)
     Möchtest du ne Flasche Bier? :: “Would you like a bottle of beer?”

@@ -11,8 +11,8 @@ Index: zh zh->en
 ===愛===
   (Cantonese) 愛 {{yue-hanzi|jyut=oi3|y=ngoi3, oi3|sim=爱}} :: love
   (Cantonese) 愛 {{yue-hanzi|jyut=oi3|y=ngoi3, oi3|sim=爱}} :: CantonPinyin: oi2
-  愛 {{cmn-noun|t|pin=ài|pint=ai4|tra=愛|sim=爱|rs=心09}} :: {{Beginning Mandarin|skey=心09}} love
-  愛 {{cmn-verb|t|pin=ài|pint=ai4|tra=愛|sim=爱|rs=心09}} :: {{Beginning Mandarin|skey=心09}} to love; to be fond of
+  愛 {{cmn-noun|t|pin=ài|pint=ai4|tra=愛|sim=爱|rs=心09}} :: {{Beginning Mandarin|script=traditional|skey=心09}} love
+  愛 {{cmn-verb|t|pin=ài|pint=ai4|tra=愛|sim=爱|rs=心09}} :: {{Beginning Mandarin|script=traditional|skey=心09}} to love; to be fond of
 ===安全===
   (Cantonese) 安全 {{yue-adj|ts|jyut=on1cyun4}} :: safe, secure
   (Cantonese) 安全 {{yue-noun|ts|jyut=on1cyun4}} :: safety, security
@@ -21,27 +21,16 @@ Index: zh zh->en
 ===安心===
   安心 {{cmn-verb|ts|pin=ānxīn|pint=an1xin1|rs=宀03}} :: {{Elementary Mandarin|skey=宀03}} to be relieved; to feel at ease
   安心 {{cmn-verb|ts|pin=ānxīn|pint=an1xin1|rs=宀03}} :: {{Elementary Mandarin|skey=宀03}} to keep one's mind on something
-===㑃===
-  (Cantonese) 㑃 {{yue-hanzi|jyut=|y=au2, au3 paai1}} :: {defn}
-  㑃 {{cmn-hanzi|pin=[[ǎo]] ([[ao3]])|wg=ao<sup>3</sup>}} :: {defn}
 ===八===
-  (Cantonese) 八 {{yue-hanzi|jyut=|y=[[baat3]]}} :: {defn}
-  八 {{cmn-car-num|ts|pin=bā|pint=ba1|rs=八00}} :: {{Beginning Mandarin|skey=八00}} eight
+  八 {{cmn-car-num|ts|pin=bā|pint=ba1|rs=八00}} :: {{Beginning Mandarin|script=traditional|script2=simplified|skey=八00|skey2=ba1}} eight
 ===白===
-  (Cantonese) 白 {{yue-hanzi|jyut=baak6|y=baak6}} :: {defn}
   白 {{cmn-adj|ts|pin=bái|pint=bai2|rs=白00}} :: {{Beginning Mandarin|skey=白00}} white
   白 {{cmn-adj|ts|pin=bái|pint=bai2|rs=白00}} :: {{Beginning Mandarin|skey=白00}} clear; pure; plain; blank
   白 {{cmn-adv|ts|pin=bái|pint=bai2|rs=白00}} :: {{Elementary Mandarin|skey=白00}} in vain
 ===百===
-  (Cantonese) 百 {{yue-hanzi|jyut=|y=[[baak3]]}} :: {defn}
-  百 {{cmn-hanzi|pin=[[bǎi]] ([[bai3]]), [[bó]] ([[bo2]])|wg=pai<sup>3</sup>, po<sup>2</sup>, mo<sup>4</sup>}} :: {defn}
-===㓦===
-  (Cantonese) 㓦 {{yue-hanzi|jyut=|y=bak3}} :: {defn}
+  百 {{cmn-car-num|ts|pin=bǎi|pint=bai3|rs=百00}} :: hundred
 ===斑马===
   斑马 {{cmn-noun|s|pin=bānmǎ|pint=ban1ma3|tra=斑馬|sim=斑马|rs=文08}} :: zebra
-===北===
-  (Cantonese) 北 {{yue-hanzi|jyut=|y=[[baak1]], [[bak1]]}} :: {defn}
-  北 {{cmn-hanzi|pin=[[běi]] ([[bei3]]), [[bèi]] ([[bei4]])|wg=pei<sup>3</sup>, pei<sup>4</sup>}} :: {defn}
 ===Běijīng===
   中国 {{cmn-proper noun|s|pin=Zhōngguó|pint=zhong1guo2|tra=中國|sim=中国|rs=丨03}} :: China
     中国的首都是北京。 :: --
@@ -57,9 +46,6 @@ Index: zh zh->en
     tā xiànzài Zhōngguó lǚxíng :: He's travelling around China right now.
     你喜歡中國文學嗎？ :: --
     nǐ xǐhuān zhōngguó wénxué ma? :: Do you like Chinese literature?
-===㑟===
-  (Cantonese) 㑟 {{yue-hanzi|jyut=|y=mang1}} :: {defn}
-  㑟 {{cmn-hanzi|pin=[[běng]] ([[beng3]]), [[bó]] ([[bo2]]), [[pěng]] ([[peng3]])|wg=peng<sup>3</sup>, po<sup>2</sup>, p'eng<sup>3</sup>}} :: {defn}
 ===比===
   NB {{cmn-adj|p|pint=nb}} :: {{slang|skey=nb}} fucking awesome
     他小說寫的太NB了。 (trad.) :: --
@@ -68,12 +54,6 @@ Index: zh zh->en
     哥们儿，别傻说，美国比英国NB，美国是超级大国！ (simp.) :: Dude, don't talk shit. America's heaps stronger than Britain - U.S.A. is the superpower!
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
-===㓖===
-  (Cantonese) 㓖 {{yue-hanzi|jyut=|y=bit1}} :: {defn}
-  㓖 {{cmn-hanzi|pin=[[bì]] ([[bi4]]), [[bié]] ([[bie2]])|wg=pi<sup>4</sup>, pieh<sup>2</sup>}} :: {defn}
-===編===
-  (Cantonese) 編 {{yue-hanzi|jyut=|y=[[pin1]]|sim=编}} :: {defn}
-  編 {{cmn-hanzi|sim=编|pin=[[biān]] ([[bian1]])|wg=[[pien1|pien<sup>1</sup>]]}} :: {defn}
 ===别===
   NB {{cmn-adj|p|pint=nb}} :: {{slang|skey=nb}} fucking awesome
     他小說寫的太NB了。 (trad.) :: --
@@ -82,37 +62,16 @@ Index: zh zh->en
     哥们儿，别傻说，美国比英国NB，美国是超级大国！ (simp.) :: Dude, don't talk shit. America's heaps stronger than Britain - U.S.A. is the superpower!
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
-===冫===
-  (Cantonese) 冫 {{yue-hanzi|jyut=|y=[[bing1]]}} :: {defn}
-  冫 {{cmn-hanzi|pin=[[bīng]] ([[bing1]])|wg=ping<sup>1</sup>}} :: {defn}
-===氷===
-  氷 {{cmn-hanzi|pin=[[bīng]] ([[bing1]])|wg=ping<sup>1</sup>}} :: {defn}
-===柄===
-  (Cantonese) 柄 {{yue-hanzi|jyut=|y=[[beng3]], [[bing3]]}} :: {defn}
-  柄 {{cmn-hanzi|pin=[[bǐng]] ([[bing3]])|wg=ping<sup>3</sup>}} :: {defn}
-===㓈===
-  (Cantonese) 㓈 {{yue-hanzi|jyut=|y=bing1}} :: {defn}
-  㓈 {{cmn-hanzi|pin=[[bèi]] ([[bei4]]), [[bìng]] ([[bing4]]), [[fèi]] ([[fei4]])|wg=pei<sup>4</sup>, ping<sup>4</sup>, fei<sup>4</sup>}} :: {defn}
 ===bù===
   酒 {{cmn-noun|ts|pin=jiǔ|pint=jiu3|rs=酉03}} :: Wine, spirits, liquor, alcoholic beverage
     你幹嗎不喝點酒? (trad.) :: --
     你干吗不喝点酒? (simp.) :: --
     Nǐ gànmá bù hē diǎn jiǔ? :: Why don't you have a drink [of alcohol]?
-===㒲===
-  (Cantonese) 㒲 {{yue-hanzi|jyut=|y=choi4}} :: {defn}
-  㒲 {{cmn-hanzi|pin=[[cái]] ([[cai2]])|wg=ts'ai<sup>2</sup>}} :: {defn}
 ===倉庫===
   倉庫 {{cmn-noun|t|pin=cāngkù|pint=cang1ku4|tra=倉庫|sim=仓库|mw=座|rs=人08}} :: {{Intermediate Mandarin|skey=人08}} warehouse; storehouse
-===層===
-  (Cantonese) 層 {{yue-hanzi|jyut=|y=[[chang4]]|sim=层}} :: {defn}
-  層 {{cmn-hanzi|sim=层|pin=[[céng]] ([[ceng2]])|wg=[[ts'eng2|ts'eng<sup>2</sup>]]}} :: {defn}
-===㑪===
-  (Cantonese) 㑪 {{yue-hanzi|jyut=|y=chai4}} :: {defn}
-  㑪 {{cmn-hanzi|pin=[[chái]] ([[chai2]])|wg=ch'ai<sup>2</sup>}} :: {defn}
 ===chan===
   (Cantonese) chan (proper noun) :: Cantonese spelling of Chinese surname 陳 (simplified 陈)
 ===朝===
-  (Cantonese) 朝 {{yue-hanzi|jyut=[[ciu4]], [[ziu1]]|y=[[chiu4]], [[jiu1]]}} :: {defn}
   朝 {{cmn-noun|ts|pin=cháo|pint=chao2|rs=月08}} :: the court; the government
   朝 {{cmn-noun|ts|pin=cháo|pint=chao2|rs=月08}} :: dynasty
   朝 {{cmn-noun|ts|pin=zhāo|pint=zhao1|rs=月08}} :: {{senseid|cmn|morning}} morning
@@ -130,77 +89,29 @@ Index: zh zh->en
 ===chat===
   (Cantonese) chat (cardinal number), Han spelling: {{l|yue|七|sc=Hani}} :: seven
 ===车===
-  (Cantonese) 车 {{yue-hanzi|jyut=[[ce1]], [[geoi1]]|y=[[che1]], [[geui1]]|tra=車}} :: {defn}
   车 {{cmn-noun|s|pin=chē|pint=che1|tra=車|sim=车|rs=车00}} :: {{Beginning Mandarin|skey=che1}} vehicle; car
   车 {{cmn-noun|s|pin=chē|pint=che1|tra=車|sim=车|rs=车00}} :: {{Beginning Mandarin|skey=che1}} machine; instrument
   车 {{cmn-noun|s|pin=jū|pint=ju1|tra=[[車]] or [[俥]]|sim=车|rs=车00}} :: chariot/rook in Chinese chess
 ===車===
-  (Cantonese) 車 {{yue-hanzi|jyut=|y=[[che1]], [[geui1]]|sim=车}} :: {defn}
   車 {{cmn-noun|t|pin=chē|pint=che1|tra=車|sim=车|rs=車00}} :: {{Beginning Mandarin|skey=車00}} vehicle; car
   車 {{cmn-noun|t|pin=chē|pint=che1|tra=車|sim=车|rs=車00}} :: {{Beginning Mandarin|skey=車00}} machine; instrument
   車 {{cmn-noun|t|pin=jū|pint=ju1|tra=車|sim=车|rs=車00}} :: the black chariot/rook in Chinese chess
-===㒤===
-  (Cantonese) 㒤 {{yue-hanzi|jyut=|y=jip3, sip3}} :: {defn}
-  㒤 {{cmn-hanzi|pin=[[shè]] ([[she4]])|wg=she<sup>4</sup>}} :: {defn}
 ===城===
-  (Cantonese) 城 {{yue-hanzi|jyut=sing4|y=[[sing4]]}} :: {defn}
-  城 {{cmn-hanzi|pin=[[chéng]] ([[cheng2]])|wg=[[ch'eng2|ch'eng<sup>2</sup>]]}} :: {defn}
   城 {{cmn-noun|ts|pin=chéng|pint=cheng2|rs=土06}} :: {archaic} castle
   城 {{cmn-noun|ts|pin=chéng|pint=cheng2|rs=土06}} :: city
-===㐼===
-  (Cantonese) 㐼 {{yue-hanzi|jyut=|y=ching2}} :: {defn}
-  㐼 {{cmn-hanzi|pin=[[chèng]] ([[cheng4]]), [[zhěng]] ([[zheng3]])|wg=ch'eng<sup>4</sup>, cheng<sup>3</sup>}} :: {defn}
-===㓌===
-  (Cantonese) 㓌 {{yue-hanzi|jyut=|y=chang1, chang1 gwai3 ting4 tong3}} :: {defn}
 ===chī===
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
-===赤===
-  (Cantonese) 赤 {{yue-hanzi|jyut=|y=[[chek3]], [[chik3]]}} :: {defn}
-  赤 {{cmn-hanzi|pin=[[cè]] ([[ce4]]), [[chì]] ([[chi4]])|wg=[[ts'e4|ts'e<sup>4</sup>]], [[ch'ih4|ch'ih<sup>4</sup>]]}} :: {defn}
-===㒆===
-  (Cantonese) 㒆 {{yue-hanzi|jyut=|y=kaap1}} :: {defn}
-  㒆 {{cmn-hanzi|pin=[[chì]] ([[chi4]]), [[kè]] ([[ke4]]), [[xì]] ([[xi4]]), [[xiào]] ([[xiao4]]), [[yàn]] ([[yan4]])|wg=ch'ih<sup>4</sup>, k'o<sup>4</sup>, hsi<sup>4</sup>, hsiao<sup>4</sup>, yen<sup>4</sup>}} :: {defn}
-===㓼===
-  㓼 {{cmn-hanzi|pin=[[chì]] ([[chi4]]), [[chòng]] ([[chong4]])|wg=ch'ih<sup>4</sup>, ch'ung<sup>4</sup>}} :: {defn}
-===㔑===
-  㔑 {{cmn-hanzi|pin=[[chì]] ([[chi4]]), [[dào]] ([[dao4]]), [[qì]] ([[qi4]]), [[shuì]] ([[shui4]])|wg=ch'ih<sup>4</sup>, tao<sup>4</sup>, ch'i<sup>4</sup>, shui<sup>4</sup>}} :: {defn}
-===㓽===
-  (Cantonese) 㓽 {{yue-hanzi|jyut=|y=sung4}} :: {defn}
-  㓽 {{cmn-hanzi|pin=[[chóng]] ([[chong2]])|wg=ch'ung<sup>2</sup>}} :: {defn}
-===㐜===
-  (Cantonese) 㐜 {{yue-hanzi|jyut=|y=[[chaau4]]}} :: {defn}
-  㐜 {{cmn-hanzi|pin=[[chóu]] ([[chou2]])|wg=ch'ou<sup>2</sup>}} :: {defn}
-===㔍===
-  (Cantonese) 㔍 {{yue-hanzi|jyut=|y=chap3, ja3 jaai3}} :: {defn}
-  㔍 {{cmn-hanzi|pin=[[duǒ]] ([[duo3]]), [[zhá]] ([[zha2]])|wg=to<sup>3</sup>, cha<sup>2</sup>}} :: {defn}
-===㓨===
-  (Cantonese) 㓨 {{yue-hanzi|jyut=|y=chi3}} :: {defn}
-  㓨 {{cmn-hanzi|pin=[[cí]] ([[ci2]]), [[cì]] ([[ci4]])|wg=tz'u<sup>2</sup>, tz'u<sup>4</sup>}} :: {defn}
-===村===
-  (Cantonese) 村 {{yue-hanzi|jyut=|y=[[chyun1]]}} :: {defn}
-  村 {{cmn-hanzi|pin=[[cūn]] ([[cun1]])|wg=[[ts'un1|ts'un<sup>1</sup>]]}} :: {defn}
 ===大===
   雨 {{cmn-noun|ts|pin=yǔ|pint=yu3|rs=雨00}} :: rain
     傾盆大雨。 (trad.) :: --
     倾盆大雨。 (simp.) :: Raining cats and dogs.
 ===大豆===
   大豆 {{cmn-noun|ts|pin=dàdòu|pint=da4dou4|rs=大00}} :: soybean
-===㐲===
-  (Cantonese) 㐲 {{yue-hanzi|jyut=|y=[[dai6]]}} :: {defn}
-  㐲 {{cmn-hanzi|pin=[[dài]] ([[dai4]])|wg=tai<sup>4</sup>}} :: {defn}
-===㐤===
-  (Cantonese) 㐤 {{yue-hanzi|jyut=|y=kaau4}} :: {defn}
-  㐤 {{cmn-hanzi|pin=[[qiú]] ([[qiu2]])|wg=ch'iu<sup>2</sup>}} :: {defn}
 ===刀===
-  (Cantonese) 刀 {{yue-hanzi|jyut=[[dou1]]|y=[[dou1]]}} :: {defn}
-  刀 {{cmn-hanzi|pin=[[dāo]] ([[dao1]]), [[fèn]] ([[fen4]])|wg=tao<sup>1</sup>, fen<sup>4</sup>}} :: {defn}
   刀 :: 刀子嘴，豆腐心
-  刀 :: {defn}
 ===de===
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
   中国 {{cmn-proper noun|s|pin=Zhōngguó|pint=zhong1guo2|tra=中國|sim=中国|rs=丨03}} :: China
     中国的首都是北京。 :: --
@@ -224,29 +135,12 @@ Index: zh zh->en
     哥们儿，别傻说，美国比英国NB，美国是超级大国！ (simp.) :: Dude, don't talk shit. America's heaps stronger than Britain - U.S.A. is the superpower!
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
-===㔁===
-  (Cantonese) 㔁 {{yue-hanzi|jyut=|y=daang1, taang1}} :: {defn}
-===底===
-  (Cantonese) 底 {{yue-hanzi|jyut=|y=[[dai2]]}} :: {defn}
-  底 {{cmn-hanzi|pin=[[de]] ([[de5]]), [[dǐ]] ([[di3]])|wg=[[te5|te<sup>5</sup>]], [[ti3|ti<sup>3</sup>]]}} :: {defn}
-===㓳===
-  (Cantonese) 㓳 {{yue-hanzi|jyut=|y=daai1}} :: {defn}
 ===diǎn===
   酒 {{cmn-noun|ts|pin=jiǔ|pint=jiu3|rs=酉03}} :: Wine, spirits, liquor, alcoholic beverage
     你幹嗎不喝點酒? (trad.) :: --
     你干吗不喝点酒? (simp.) :: --
     Nǐ gànmá bù hē diǎn jiǔ? :: Why don't you have a drink [of alcohol]?
-===㓠===
-  (Cantonese) 㓠 {{yue-hanzi|jyut=|y=dim3}} :: {defn}
-  㓠 {{cmn-hanzi|pin=[[diàn]] ([[dian4]])|wg=tien<sup>4</sup>}} :: {defn}
-===㒛===
-  (Cantonese) 㒛 {{yue-hanzi|jyut=|y=deui2, diu6}} :: {defn}
-  㒛 {{cmn-hanzi|pin=[[diào]] ([[diao4]])|wg=tiao<sup>4</sup>}} :: {defn}
-===㑙===
-  (Cantonese) 㑙 {{yue-hanzi|jyut=|y=dip6}} :: {defn}
-  㑙 {{cmn-hanzi|pin=[[dié]] ([[die2]]), [[yǒng]] ([[yong3]])|wg=tieh<sup>2</sup>, yung<sup>3</sup>}} :: {defn}
 ===丁===
-  (Cantonese) 丁 {{yue-hanzi|jyut=|y=[[ding1]], [[jang1]]}} :: {defn}
   丁 {{cmn-noun|ts|pin=dīng|pint=ding1|rs= 一01}} :: man
   丁 {{cmn-noun|ts|pin=dīng|pint=ding1|rs= 一01}} :: population, members of a family
   丁 {{cmn-noun|ts|pin=dīng|pint=ding1|rs= 一01}} :: cube
@@ -254,33 +148,13 @@ Index: zh zh->en
   丁 {{cmn-noun|ts|pin=dīng|pint=ding1|rs= 一01}} :: a surname
   丁 {{cmn-num|ts|pin=dīng|pint=ding1|rs= 一01}} :: fourth
 ===東===
-  (Cantonese) 東 {{yue-hanzi|jyut=|y=[[dung1]]|sim=东}} :: {defn}
   東 {{cmn-noun|t|pin=dōng|pint=dong1|sim=东|rs=木04}} :: east, eastern, eastward
-===㑈===
-  (Cantonese) 㑈 {{yue-hanzi|jyut=|y=dung1}} :: {defn}
-  㑈 {{cmn-hanzi|pin=[[dòng]] ([[dong4]])|wg=tung<sup>4</sup>}} :: {defn}
-===㓊===
-  (Cantonese) 㓊 {{yue-hanzi|jyut=|y=[[dung6]]}} :: {defn}
-  㓊 {{cmn-hanzi|pin=[[dòng]] ([[dong4]])|wg=[[tung]]<sup>4</sup>}} :: {defn}
 ===東京===
   東京 {{cmn-proper noun|t|pin=Dōngjīng|pint=dong1jing1|tra=東京|sim=东京|rs=木04}} :: Tokyo
-===闘===
-  闘 {{cmn-hanzi|pin=[[dòu]] ([[dou4]])|wg=tou<sup>4</sup>}} :: {defn}
-===㓃===
-  (Cantonese) 㓃 {{yue-hanzi|jyut=|y=[[dou3]]}} :: {defn}
-  㓃 {{cmn-hanzi|pin=[[chuí]] ([[chui2]]), [[dù]] ([[du4]]), [[zhà]] ([[zha4]])|wg=[[ch'ui2|ch'ui<sup>2</sup>]], [[tu4|tu<sup>4</sup>]], [[cha4|cha<sup>4</sup>]]}} :: {defn}
 ===duì===
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
-===悪===
-  悪 (e4) :: {defn}
-===㓵===
-  (Cantonese) 㓵 {{yue-hanzi|jyut=|y=ngok6}} :: {defn}
-  㓵 {{cmn-hanzi|pin=[[è]] ([[e4]])|wg=o<sup>4</sup>}} :: {defn}
 ===儿===
-  (Cantonese) 儿 {{yue-hanzi|jyut=|y=yan4|tra=兒}} :: {defn}
-  儿 {{cmn-hanzi|tra=兒|pin=[[ér]] ([[er2]]), [[rén]] ([[ren2]])|wg=erh<sup>2</sup>, jen<sup>2</sup>}} :: {defn}
   r (suffix), traditional: 兒, simplified: 儿 :: (a suffix for erhua)
   NB {{cmn-adj|p|pint=nb}} :: {{slang|skey=nb}} fucking awesome
     他小說寫的太NB了。 (trad.) :: --
@@ -295,22 +169,6 @@ Index: zh zh->en
   (Cantonese) 二 {{yue-hanzi|jyut=[[ji6]]|y=[[yi6]]}} :: two
   二 {{cmn-hanzi|pin=[[èr]] ([[er4]])|wg=[[erh4|erh<sup>4</sup>]]}} :: Tang: nji3
   二 {{cmn-car-num|ts|pin=èr|pint=er4|rs=二00}} :: two
-===㒃===
-  (Cantonese) 㒃 {{yue-hanzi|jyut=|y=ji6}} :: {defn}
-  㒃 {{cmn-hanzi|pin=[[èr]] ([[er4]])|wg=erh<sup>4</sup>}} :: {defn}
-===㑂===
-  (Cantonese) 㑂 {{yue-hanzi|jyut=|y=fong2, pong4}} :: {defn}
-  㑂 {{cmn-hanzi|pin=[[fǎng]] ([[fang3]]), [[páng]] ([[pang2]])|wg=fang<sup>3</sup>, p'ang<sup>2</sup>}} :: {defn}
-===㐽===
-  (Cantonese) 㐽 {{yue-hanzi|jyut=|y=fung1}} :: {defn}
-===㒥===
-  (Cantonese) 㒥 {{yue-hanzi|jyut=|y=fung1, gaam2}} :: {defn}
-===㓡===
-  (Cantonese) 㓡 {{yue-hanzi|jyut=|y=fu2}} :: {defn}
-  㓡 {{cmn-hanzi|pin=[[fǔ]] ([[fu3]])|wg=fu<sup>3</sup>}} :: {defn}
-===㓧===
-  (Cantonese) 㓧 {{yue-hanzi|jyut=|y=deui1, haang1 jim1 jim2}} :: {defn}
-  㓧 {{cmn-hanzi|pin=[[yǎn]] ([[yan3]])|wg=yen<sup>3</sup>}} :: {defn}
 ===gànmá===
   酒 {{cmn-noun|ts|pin=jiǔ|pint=jiu3|rs=酉03}} :: Wine, spirits, liquor, alcoholic beverage
     你幹嗎不喝點酒? (trad.) :: --
@@ -332,27 +190,10 @@ Index: zh zh->en
     哥们儿，别傻说，美国比英国NB，美国是超级大国！ (simp.) :: Dude, don't talk shit. America's heaps stronger than Britain - U.S.A. is the superpower!
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
-===㓋===
-  (Cantonese) 㓋 {{yue-hanzi|jyut=|y=gung6}} :: {defn}
-  㓋 {{cmn-hanzi|pin=[[gòng]] ([[gong4]])|wg=kung<sup>4</sup>}} :: {defn}
-===㓚===
-  (Cantonese) 㓚 {{yue-hanzi|jyut=|y=geui6, gung1 kung4}} :: {defn}
 ===狗===
-  (Cantonese) 狗 {{yue-hanzi|jyut=|y=gau2}} :: {defn}
   狗 {{cmn-noun|ts|pin=gǒu|pint=gou3|rs=犬05}} :: dog
-===㒴===
-  (Cantonese) 㒴 {{yue-hanzi|jyut=|y=gwaat1}} :: {defn}
-  㒴 {{cmn-hanzi|pin=[[gǔ]] ([[gu3]])|wg=ku<sup>3</sup>}} :: {defn}
-===㒷===
-  (Cantonese) 㒷 {{yue-hanzi|jyut=|y=hing2, hing3}} :: {defn}
-  㒷 {{cmn-hanzi|pin=[[guǎ]] ([[gua3]]), [[xìng]] ([[xing4]]), [[xǔ]] ([[xu3]])|wg=kua<sup>3</sup>, hsing<sup>4</sup>, hsü<sup>3</sup>}} :: {defn}
-===丨===
-  (Cantonese) 丨 {{yue-hanzi|jyut=|y=kwan2}} :: {defn}
-  丨 {{cmn-hanzi|pin=[[gě]] ([[ge3]]), [[gǔn]] ([[gun3]])|wg=ko<sup>3</sup>, kun<sup>3</sup>}} :: {defn}
 ===国===
-  (Cantonese) 国 {{yue-hanzi|jyut=|y=gwok3|tra=國}} :: {defn}
   国 {{cmn-noun|s|pin=guó|pint=guo2|sim=国|tra=國|rs=囗05}} :: country; nation
-  国 {{cmn-hanzi|tra=國|pin=[[guó]] ([[guo2]])|wg=kuo<sup>2</sup>}} :: {defn}
 ===还===
   NB {{cmn-adj|p|pint=nb}} :: {{slang|skey=nb}} fucking awesome
     他小說寫的太NB了。 (trad.) :: --
@@ -361,15 +202,6 @@ Index: zh zh->en
     哥们儿，别傻说，美国比英国NB，美国是超级大国！ (simp.) :: Dude, don't talk shit. America's heaps stronger than Britain - U.S.A. is the superpower!
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
-===漢===
-  (Cantonese) 漢 {{yue-hanzi|jyut=hon3|y=hon3|sim=汉}} :: {defn}
-  漢 {{cmn-hanzi|sim=汉|pin=[[hàn]] ([[han4]])|wg=han<sup>4</sup>}} :: {defn}
-===㑵===
-  (Cantonese) 㑵 {{yue-hanzi|jyut=|y=jaat6}} :: {defn}
-  㑵 {{cmn-hanzi|pin=[[hàn]] ([[han4]]), [[jí]] ([[ji2]]), [[jié]] ([[jie2]]), [[zhǎ]] ([[zha3]]), [[zí]] ([[zi2]])|wg=han<sup>4</sup>, chi<sup>2</sup>, chieh<sup>2</sup>, cha<sup>3</sup>, tzu<sup>2</sup>}} :: {defn}
-===㒈===
-  (Cantonese) 㒈 {{yue-hanzi|jyut=|y=hon6}} :: {defn}
-  㒈 {{cmn-hanzi|pin=[[hàn]] ([[han4]])|wg=han<sup>4</sup>}} :: {defn}
 ===Hani===
   (Cantonese) chat (cardinal number), Han spelling: {{l|yue|七|sc=Hani}} :: seven
 ===hē===
@@ -377,107 +209,28 @@ Index: zh zh->en
     你幹嗎不喝點酒? (trad.) :: --
     你干吗不喝点酒? (simp.) :: --
     Nǐ gànmá bù hē diǎn jiǔ? :: Why don't you have a drink [of alcohol]?
-===何===
-  (Cantonese) 何 {{yue-hanzi|jyut=|y=ho4}} :: {defn}
-  何 {{cmn-hanzi|pin=[[hé]] ([[he2]])|wg=ho<sup>2</sup>}} :: {defn}
-===㓰===
-  (Cantonese) 㓰 {{yue-hanzi|jyut=|y=wak6}} :: {defn}
-  㓰 {{cmn-hanzi|pin=[[huà]] ([[hua4]])|wg=hua<sup>4</sup>}} :: {defn}
 ===花园===
   花园 {{cmn-noun|s|pin=huāyuán|pint=hua1yuan2|tra=花園|sim=花园|rs=艸04}} :: {{Elementary Mandarin|skey=hua1yuan2}} garden
 ===花園===
   花園 {{cmn-noun|t|pin=huāyuán|pint=hua1yuan2|tra=花園|sim=花园|rs=艸04}} :: {{Elementary Mandarin|skey=艸04}} garden
-===㑰===
-  (Cantonese) 㑰 {{yue-hanzi|jyut=|y=fui4}} :: {defn}
-  㑰 {{cmn-hanzi|pin=[[huì]] ([[hui4]])|wg=hui<sup>4</sup>}} :: {defn}
-===㑹===
-  (Cantonese) 㑹 {{yue-hanzi|jyut=|y=gwat3, mok6 wui6}} :: {defn}
-  㑹 {{cmn-hanzi|pin=[[huì]] ([[hui4]])|wg=hui<sup>4</sup>}} :: {defn}
-===㑮===
-  (Cantonese) 㑮 {{yue-hanzi|jyut=|y=[[gwaat1]], [[waan4]]}} :: {defn}
-  㑮 {{cmn-hanzi|pin=[[hún]] ([[hun2]])|wg=hun<sup>2</sup>}} :: {defn}
-===火===
-  (Cantonese) 火 {{yue-hanzi|jyut=[[fo2]]|y=fo2}} :: {defn}
-  火 {{cmn-hanzi|pin=[[huǒ]] ([[huo3]])|wg=huo<sup>3</sup>}} :: {defn}
-===㓉===
-  (Cantonese) 㓉 {{yue-hanzi|jyut=|y=gwaat3, gwat3 kut3 wun6 wut6}} :: {defn}
-  㓉 {{cmn-hanzi|pin=[[huàn]] ([[huan4]]), [[huó]] ([[huo2]]), [[huò]] ([[huo4]])|wg=huan<sup>4</sup>, huo<sup>2</sup>, huo<sup>4</sup>}} :: {defn}
-===姫===
-  姫 {{cmn-hanzi|pin=[[jī]] ([[ji1]])|wg=chi<sup>1</sup>}} :: {defn}
-===激===
-  (Cantonese) 激 {{yue-hanzi|jyut=|y=gik1}} :: {defn}
-  激 {{cmn-hanzi|pin=[[jī]] ([[ji1]])|wg=chi<sup>1</sup>}} :: {defn}
-===㑧===
-  (Cantonese) 㑧 {{yue-hanzi|jyut=|y=gwaai3}} :: {defn}
-  㑧 {{cmn-hanzi|pin=[[jì]] ([[ji4]])|wg=chi<sup>4</sup>}} :: {defn}
-===㒫===
-  (Cantonese) 㒫 {{yue-hanzi|jyut=|y=gei3, hei2}} :: {defn}
-  㒫 {{cmn-hanzi|pin=[[jì]] ([[ji4]])|wg=chi<sup>4</sup>}} :: {defn}
-===間===
-  (Cantonese) 間 {{yue-hanzi|jyut=|y=gaan1|sim=间}} :: {defn}
-===㓺===
-  (Cantonese) 㓺 {{yue-hanzi|jyut=|y=gin1, gin6 kin4}} :: {defn}
-  㓺 {{cmn-hanzi|pin=[[jiàn]] ([[jian4]])|wg=chien<sup>4</sup>}} :: {defn}
-===㔋===
-  (Cantonese) 㔋 {{yue-hanzi|jyut=|y=ham3, ham5 lam6}} :: {defn}
-  㔋 {{cmn-hanzi|pin=[[jiàn]] ([[jian4]]), [[lán]] ([[lan2]]), [[làn]] ([[lan4]])|wg=chien<sup>4</sup>, lan<sup>2</sup>, lan<sup>4</sup>}} :: {defn}
-===界===
-  (Cantonese) 界 {{yue-hanzi|jyut=|y=gaai3}} :: {defn}
-  界 {{cmn-hanzi|pin=[[jiè]] ([[jie4]])|wg=chieh<sup>4</sup>}} :: {defn}
-===㑘===
-  (Cantonese) 㑘 {{yue-hanzi|jyut=|y=gai3}} :: {defn}
-  㑘 {{cmn-hanzi|pin=[[jiè]] ([[jie4]])|wg=chieh<sup>4</sup>}} :: {defn}
-===㓗===
-  (Cantonese) 㓗 {{yue-hanzi|jyut=|y=git3}} :: {defn}
-  㓗 {{cmn-hanzi|pin=[[jié]] ([[jie2]]), [[qǐ]] ([[qi3]])|wg=chieh<sup>2</sup>, ch'i<sup>3</sup>}} :: {defn}
-===今===
-  (Cantonese) 今 {{yue-hanzi|jyut=|y=[[gam1]]}} :: {defn}
-  今 {{cmn-hanzi|pin=[[jīn]] ([[jin1]])|wg=chin<sup>1</sup>}} :: {defn}
-===近===
-  (Cantonese) 近 {{yue-hanzi|jyut=|y=gan6, kan5}} :: {defn}
-  近 {{cmn-hanzi|pin=[[jìn]] ([[jin4]])|wg=chin<sup>4</sup>}} :: {defn}
 ===京都===
   京都 {{cmn-noun|ts|pin=jīngdū|pint=jing1du1|rs=亠06}} :: capital (most often refers to Beijing)
   京都 {{cmn-proper noun|ts|pin=Jīngdū|pint=jing1du1|rs=亠06}} :: Kyōto
-===冂===
-  (Cantonese) 冂 {{yue-hanzi|jyut=|y=gwing2}} :: {defn}
-  冂 {{cmn-hanzi|pin=[[jiōng]] ([[jiong1]])|wg=chiung<sup>1</sup>}} :: {defn}
-===㓏===
-  (Cantonese) 㓏 {{yue-hanzi|jyut=|y=gwing2}} :: {defn}
-  㓏 {{cmn-hanzi|pin=[[jiǒng]] ([[jiong3]])|wg=chiung<sup>3</sup>}} :: {defn}
 ===jiǔ===
   酒 {{cmn-noun|ts|pin=jiǔ|pint=jiu3|rs=酉03}} :: Wine, spirits, liquor, alcoholic beverage
     你幹嗎不喝點酒? (trad.) :: --
     你干吗不喝点酒? (simp.) :: --
     Nǐ gànmá bù hē diǎn jiǔ? :: Why don't you have a drink [of alcohol]?
 ===jiù===
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
-===九===
-  (Cantonese) 九 {{yue-hanzi|jyut=|y=gau2}} :: {defn}
-  九 {{cmn-hanzi|pin=[[jiǔ]] ([[jiu3]]), [[xiǎng]] ([[xiang3]]), [[xiàng]] ([[xiang4]])|wg=chiu<sup>3</sup>, hsiang<sup>3</sup>, hsiang<sup>4</sup>}} :: {defn}
 ===酒===
-  (Cantonese) 酒 {{yue-hanzi|jyut=zau2|y=jau2}} :: {defn}
   酒 {{cmn-noun|ts|pin=jiǔ|pint=jiu3|rs=酉03}} :: Wine, spirits, liquor, alcoholic beverage
     你幹嗎不喝點酒? (trad.) :: --
     你干吗不喝点酒? (simp.) :: --
     Nǐ gànmá bù hē diǎn jiǔ? :: Why don't you have a drink [of alcohol]?
 ===亅===
-  (Cantonese) 亅 {{yue-hanzi|jyut=|y=kyut3}} :: {defn}
   亅 {{cmn-hanzi|pin=[[jué]] ([[jue2]])|wg=chüeh<sup>2</sup>}} :: A vertical line with a hook, usually read as 竖勾 (shùgōu).
-===㔃===
-  (Cantonese) 㔃 {{yue-hanzi|jyut=|y=jyut6}} :: {defn}
-  㔃 {{cmn-hanzi|pin=[[jué]] ([[jue2]]), [[pì]] ([[pi4]])|wg=chüeh<sup>2</sup>, p'i<sup>4</sup>}} :: {defn}
-===君===
-  (Cantonese) 君 {{yue-hanzi|jyut=|y=gwan1}} :: {defn}
-  君 {{cmn-hanzi|pin=[[jūn]] ([[jun1]])|wg=chün<sup>1</sup>}} :: {defn}
-===㑺===
-  (Cantonese) 㑺 {{yue-hanzi|jyut=|y=jeui6, jeun3}} :: {defn}
-  㑺 {{cmn-hanzi|pin=[[jùn]] ([[jun4]])|wg=chün<sup>4</sup>}} :: {defn}
-===㒞===
-  (Cantonese) 㒞 {{yue-hanzi|jyut=|y=jeun3}} :: {defn}
-  㒞 {{cmn-hanzi|pin=[[jùn]] ([[jun4]]), [[kě]] ([[ke3]])|wg=chün<sup>4</sup>, k'o<sup>3</sup>}} :: {defn}
 ===Jyutping===
   (Cantonese) Jyutping {{yue-noun|j|jyut=jyut6 ping3|tra=粵拼|sim=粤拼}} :: jyutping
 ===开===
@@ -488,12 +241,6 @@ Index: zh zh->en
     哥们儿，别傻说，美国比英国NB，美国是超级大国！ (simp.) :: Dude, don't talk shit. America's heaps stronger than Britain - U.S.A. is the superpower!
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
-===空===
-  (Cantonese) 空 {{yue-hanzi|jyut=|y=hung1}} :: {defn}
-  空 {{cmn-hanzi|pin=[[kōng]] ([[kong1]]), [[kǒng]] ([[kong3]]), [[kòng]] ([[kong4]])|wg=k'ung<sup>1</sup>, k'ung<sup>3</sup>, k'ung<sup>4</sup>}} :: {defn}
-===㓂===
-  (Cantonese) 㓂 {{yue-hanzi|jyut=|y=kaau3, taau3}} :: {defn}
-  㓂 {{cmn-hanzi|pin=[[kòu]] ([[kou4]])|wg=k'ou<sup>4</sup>}} :: {defn}
 ===快===
   NB {{cmn-adj|p|pint=nb}} :: {{slang|skey=nb}} fucking awesome
     他小說寫的太NB了。 (trad.) :: --
@@ -502,22 +249,10 @@ Index: zh zh->en
     哥们儿，别傻说，美国比英国NB，美国是超级大国！ (simp.) :: Dude, don't talk shit. America's heaps stronger than Britain - U.S.A. is the superpower!
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
-===㑌===
-  (Cantonese) 㑌 {{yue-hanzi|jyut=|y=hong1}} :: {defn}
-===㒑===
-  (Cantonese) 㒑 {{yue-hanzi|jyut=|y=hung2, kui2 wak6}} :: {defn}
-  㒑 {{cmn-hanzi|pin=[[huì]] ([[hui4]]), [[kuǐ]] ([[kui3]])|wg=hui<sup>4</sup>, k'uei<sup>3</sup>}} :: {defn}
 ===l===
   (Cantonese) chat (cardinal number), Han spelling: {{l|yue|七|sc=Hani}} :: seven
-===㑣===
-  (Cantonese) 㑣 {{yue-hanzi|jyut=|y=lam2, lam4}} :: {defn}
-  㑣 {{cmn-hanzi|pin=[[lán]] ([[lan2]])|wg=lan<sup>2</sup>}} :: {defn}
-===㓪===
-  (Cantonese) 㓪 {{yue-hanzi|jyut=|y=long5}} :: {defn}
-  㓪 {{cmn-hanzi|pin=[[lǎng]] ([[lang3]])|wg=lang<sup>3</sup>}} :: {defn}
 ===le===
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===了===
   NB {{cmn-adj|p|pint=nb}} :: {{slang|skey=nb}} fucking awesome
@@ -527,33 +262,6 @@ Index: zh zh->en
     哥们儿，别傻说，美国比英国NB，美国是超级大国！ (simp.) :: Dude, don't talk shit. America's heaps stronger than Britain - U.S.A. is the superpower!
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
-===㑍===
-  (Cantonese) 㑍 {{yue-hanzi|jyut=|y=leui5}} :: {defn}
-  㑍 {{cmn-hanzi|pin=[[lěi]] ([[lei3]]), [[lèi]] ([[lei4]])|wg=lei<sup>3</sup>, lei<sup>4</sup>}} :: {defn}
-===㒍===
-  (Cantonese) 㒍 {{yue-hanzi|jyut=|y=leui5}} :: {defn}
-  㒍 {{cmn-hanzi|pin=[[léi]] ([[lei2]]), [[lěi]] ([[lei3]])|wg=lei<sup>2</sup>, lei<sup>3</sup>}} :: {defn}
-===㒦===
-  (Cantonese) 㒦 {{yue-hanzi|jyut=|y=deui3, leui5}} :: {defn}
-  㒦 {{cmn-hanzi|pin=[[lěi]] ([[lei3]])|wg=lei<sup>3</sup>}} :: {defn}
-===隶===
-  (Cantonese) 隶 {{yue-hanzi|jyut=|y=dai6|tra=隸}} :: {defn}
-  隶 {{cmn-hanzi|tra=隸|pin=[[lì]] ([[li4]])|wg=li<sup>4</sup>}} :: {defn}
-===㑦===
-  (Cantonese) 㑦 {{yue-hanzi|jyut=|y=leui6}} :: {defn}
-  㑦 {{cmn-hanzi|pin=[[lì]] ([[li4]])|wg=li<sup>4</sup>}} :: {defn}
-===㒧===
-  (Cantonese) 㒧 {{yue-hanzi|jyut=|y=laai6}} :: {defn}
-  㒧 {{cmn-hanzi|pin=[[lì]] ([[li4]])|wg=li<sup>4</sup>}} :: {defn}
-===㒿===
-  (Cantonese) 㒿 {{yue-hanzi|jyut=|y=lei4}} :: {defn}
-  㒿 {{cmn-hanzi|pin=[[lí]] ([[li2]]), [[lì]] ([[li4]])|wg=li<sup>2</sup>, li<sup>4</sup>}} :: {defn}
-===㓯===
-  (Cantonese) 㓯 {{yue-hanzi|jyut=|y=lei4}} :: {defn}
-  㓯 {{cmn-hanzi|pin=[[lí]] ([[li2]])|wg=li<sup>2</sup>}} :: {defn}
-===㔏===
-  (Cantonese) 㔏 {{yue-hanzi|jyut=|y=gak3, lik6}} :: {defn}
-  㔏 {{cmn-hanzi|pin=[[lì]] ([[li4]])|wg=li<sup>4</sup>}} :: {defn}
 ===辆===
   NB {{cmn-adj|p|pint=nb}} :: {{slang|skey=nb}} fucking awesome
     他小說寫的太NB了。 (trad.) :: --
@@ -562,55 +270,13 @@ Index: zh zh->en
     哥们儿，别傻说，美国比英国NB，美国是超级大国！ (simp.) :: Dude, don't talk shit. America's heaps stronger than Britain - U.S.A. is the superpower!
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
-===㒳===
-  (Cantonese) 㒳 {{yue-hanzi|jyut=|y=leung5}} :: {defn}
-  㒳 {{cmn-hanzi|pin=[[liǎng]] ([[liang3]])|wg=liang<sup>3</sup>}} :: {defn}
-===烈===
-  (Cantonese) 烈 {{yue-hanzi|jyut=|y=lit6}} :: {defn}
-  烈 {{cmn-hanzi|pin=[[liè]] ([[lie4]]), [[yàng]] ([[yang4]])|wg=lieh<sup>4</sup>, yang<sup>4</sup>}} :: {defn}
-===㐭===
-  (Cantonese) 㐭 {{yue-hanzi|jyut=|y=laam5}} :: {defn}
-  㐭 {{cmn-hanzi|pin=[[lǐn]] ([[lin3]])|wg=lin<sup>3</sup>}} :: {defn}
-===㔂===
-  (Cantonese) 㔂 {{yue-hanzi|jyut=|y=leun4}} :: {defn}
-  㔂 {{cmn-hanzi|pin=[[lín]] ([[lin2]])|wg=lin<sup>2</sup>}} :: {defn}
 ===零===
-  (Cantonese) 零 {{yue-hanzi|jyut=[[ling4]]|y=[[ling4]]}} :: {defn}
-  零 {{cmn-hanzi|pin=[[líng]] ([[ling2]]), [[lián]] ([[lian2]])|wg=ling<sup>2</sup>}} :: {defn}
   零 {{cmn-hanzi|pin=[[líng]] ([[ling2]]), [[lián]] ([[lian2]])|wg=ling<sup>2</sup>}} :: Chinese Numeral 零
     Next: 一 :: --
 ===六===
-  (Cantonese) 六 {{yue-hanzi|jyut=|y=[[luk6]]}} :: {defn}
   六 {{cmn-car-num|ts|pin=liù|pint=liu4|rs=八02}} :: six
-===㐬===
-  (Cantonese) 㐬 {{yue-hanzi|jyut=|y=laau4}} :: {defn}
-  㐬 {{cmn-hanzi|pin=[[liú]] ([[liu2]])|wg=liu<sup>2</sup>}} :: {defn}
-===龙===
-  (Cantonese) 龙 {{yue-hanzi|jyut=|y=lung4|tra=龍}} :: {defn}
-  龙 {{cmn-hanzi|tra=龍|pin=[[lóng]] ([[long2]])|wg=lung<sup>2</sup>}} :: {defn}
-===㑝===
-  (Cantonese) 㑝 {{yue-hanzi|jyut=|y=lung6}} :: {defn}
-  㑝 {{cmn-hanzi|pin=[[lòng]] ([[long4]])|wg=lung<sup>4</sup>}} :: {defn}
-===㓐===
-  (Cantonese) 㓐 {{yue-hanzi|jyut=|y=luk6}} :: {defn}
-  㓐 {{cmn-hanzi|pin=[[lù]] ([[lu4]])|wg=lu<sup>4</sup>}} :: {defn}
-===㑼===
-  (Cantonese) 㑼 {{yue-hanzi|jyut=|y=leuk6}} :: {defn}
-  㑼 {{cmn-hanzi|pin=[[lüè]] ([[lüe4]])|wg=<sup>4</sup>}} :: {defn}
-===㔀===
-  (Cantonese) 㔀 {{yue-hanzi|jyut=|y=king4}} :: {defn}
-  㔀 {{cmn-hanzi|pin=[[lè]] ([[le4]]), [[qíng]] ([[qing2]])|wg=<sup>4</sup>, ch'ing<sup>2</sup>}} :: {defn}
 ===轮子===
   轮子 {{cmn-noun|s|pin=lúnzi|pint=lun2zi|tra=輪子|sim=轮子|rs=车04}} :: {{Intermediate Mandarin|skey=lun2zi}} wheel
-===㑩===
-  (Cantonese) 㑩 {{yue-hanzi|jyut=|y=lo4}} :: {defn}
-  㑩 {{cmn-hanzi|pin=[[luó]] ([[luo2]])|wg=lo<sup>2</sup>}} :: {defn}
-===㒩===
-  (Cantonese) 㒩 {{yue-hanzi|jyut=|y=[[lo2]]}} :: {defn}
-  㒩 {{cmn-hanzi|pin=[[luǒ]] ([[luo3]])|wg=lo<sup>3</sup>}} :: {defn}
-===㓢===
-  (Cantonese) 㓢 {{yue-hanzi|jyut=|y=lok3}} :: {defn}
-  㓢 {{cmn-hanzi|pin=[[luò]] ([[luo4]])|wg=lo<sup>4</sup>}} :: {defn}
 ===lǚxíng===
   中国 {{cmn-proper noun|s|pin=Zhōngguó|pint=zhong1guo2|tra=中國|sim=中国|rs=丨03}} :: China
     中国的首都是北京。 :: --
@@ -642,31 +308,9 @@ Index: zh zh->en
     你喜歡中國文學嗎？ :: --
     nǐ xǐhuān zhōngguó wénxué ma? :: Do you like Chinese literature?
 ===马===
-  (Cantonese) 马 {{yue-hanzi|jyut=|y=ma5|tra=馬}} :: {defn}
-  马 {{cmn-hanzi|tra=馬|pin=[[mǎ]] ([[ma3]])|wg=ma<sup>3</sup>}} :: {defn}
   马 (noun) :: measure word: 匹
-  马 (noun) :: {defn}
-===馬===
-  (Cantonese) 馬 {{yue-hanzi|jyut=maa5|y=ma5|sim=马}} :: {defn}
-  馬 {{cmn-hanzi|sim=马|pin=[[mǎ]] ([[ma3]])|wg=ma<sup>3</sup>}} :: {defn}
-===㐷===
-  (Cantonese) 㐷 {{yue-hanzi|jyut=|y=ma6}} :: {defn}
-  㐷 {{cmn-hanzi|pin=[[mǎ]] ([[ma3]]), [[mà]] ([[ma4]]), [[mián]] ([[mian2]])|wg=ma<sup>3</sup>, ma<sup>4</sup>, mien<sup>2</sup>}} :: {defn}
-===㑻===
-  (Cantonese) 㑻 {{yue-hanzi|jyut=|y=ma6, mei5}} :: {defn}
-  㑻 {{cmn-hanzi|pin=[[mà]] ([[ma4]])|wg=ma<sup>4</sup>}} :: {defn}
-===㒼===
-  (Cantonese) 㒼 {{yue-hanzi|jyut=|y=mun4}} :: {defn}
-  㒼 {{cmn-hanzi|pin=[[mán]] ([[man2]])|wg=man<sup>2</sup>}} :: {defn}
 ===猫===
-  (Cantonese) 猫 {{yue-hanzi|jyut=|y=maau1|tra=貓}} :: {defn}
   猫 {{cmn-noun|s|pin=māo|pint=mao1|tra=貓|sim=猫|mw=只|rs=犬09}} :: cat
-===㒵===
-  (Cantonese) 㒵 {{yue-hanzi|jyut=|y=mau6, mo1}} :: {defn}
-  㒵 {{cmn-hanzi|pin=[[mào]] ([[mao4]])|wg=mao<sup>4</sup>}} :: {defn}
-===㒻===
-  (Cantonese) 㒻 {{yue-hanzi|jyut=|y=mou6}} :: {defn}
-  㒻 {{cmn-hanzi|pin=[[mào]] ([[mao4]])|wg=mao<sup>4</sup>}} :: {defn}
 ===美德===
   美德 {{cmn-noun|ts|pin=měidé|pint=mei3de2|rs=羊03}} :: virtue
 ===美国===
@@ -677,34 +321,11 @@ Index: zh zh->en
     哥们儿，别傻说，美国比英国NB，美国是超级大国！ (simp.) :: Dude, don't talk shit. America's heaps stronger than Britain - U.S.A. is the superpower!
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
-===men===
-  men (suffix), traditional: 們, simplified: 们 :: plural for pronouns and human nouns
-===们===
-  men (suffix), traditional: 們, simplified: 们 :: plural for pronouns and human nouns
-===們===
-  men (suffix), traditional: 們, simplified: 们 :: plural for pronouns and human nouns
 ===米===
-  (Cantonese) 米 {{yue-hanzi|jyut=|y=mai5}} :: {defn}
   (Cantonese) 米 {{yue-noun|ts|tas=米}} :: metre
-  米 {{cmn-hanzi|pin=[[mǐ]] ([[mi3]]), [[zá]] ([[za2]])|wg=mi<sup>3</sup>, tsa<sup>2</sup>}} :: {defn}
-===冖===
-  (Cantonese) 冖 {{yue-hanzi|jyut=|y=mik6}} :: {defn}
-  冖 {{cmn-hanzi|pin=[[mì]] ([[mi4]])|wg=mi<sup>4</sup>}} :: {defn}
-===㒙===
-  (Cantonese) 㒙 {{yue-hanzi|jyut=|y=min4, min6}} :: {defn}
-  㒙 {{cmn-hanzi|pin=[[mián]] ([[mian2]])|wg=mien<sup>2</sup>}} :: {defn}
-===㑤===
-  (Cantonese) 㑤 {{yue-hanzi|jyut=|y=miu4}} :: {defn}
-  㑤 {{cmn-hanzi|pin=[[miáo]] ([[miao2]])|wg=miao<sup>2</sup>}} :: {defn}
-===㒝===
-  (Cantonese) 㒝 {{yue-hanzi|jyut=|y=jiu5, mit6}} :: {defn}
-  㒝 {{cmn-hanzi|pin=[[miè]] ([[mie4]]), [[wà]] ([[wa4]])|wg=mieh<sup>4</sup>, wa<sup>4</sup>}} :: {defn}
 ===明日===
-  (Cantonese) 明日 {{yue-hanzi|jyut=|y=ming4 yat6}} :: {defn} tomorrow
+  (Cantonese) 明日 {{yue-hanzi|jyut=|y=ming4 yat6}} :: tomorrow
   明日 {{cmn-noun|ts|pin=míngrì|pint=ming2ri4|rs=日04}} :: {{literary|script=traditional|script2=simplified|skey=日04|skey2=ming2ri4}} tomorrow
-===魔===
-  (Cantonese) 魔 {{yue-hanzi|jyut=|y=mo1}} :: {defn}
-  魔 {{cmn-hanzi|pin=[[mó]] ([[mo2]])|wg=mo<sup>2</sup>}} :: {defn}
 ===摩托车===
   NB {{cmn-adj|p|pint=nb}} :: {{slang|skey=nb}} fucking awesome
     他小說寫的太NB了。 (trad.) :: --
@@ -714,18 +335,8 @@ Index: zh zh->en
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===nà===
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
-===南===
-  (Cantonese) 南 {{yue-hanzi|jyut=|y=naam4}} :: {defn}
-  南 {{cmn-hanzi|pin=[[nán]] ([[nan2]]), [[nā]] ([[na1]])|wg=nan<sup>2</sup>}} :: {defn}
-===㓓===
-  (Cantonese) 㓓 {{yue-hanzi|jyut=|y=lam5, nam4}} :: {defn}
-  㓓 {{cmn-hanzi|pin=[[nán]] ([[nan2]])|wg=nan<sup>2</sup>}} :: {defn}
-===㑎===
-  (Cantonese) 㑎 {{yue-hanzi|jyut=|y=nou5}} :: {defn}
-  㑎 {{cmn-hanzi|pin=[[nǎo]] ([[nao3]])|wg=nao<sup>3</sup>}} :: {defn}
 ===NB===
   NB {{cmn-adj|p|pint=nb}} :: {{slang|skey=nb}} fucking awesome
     他小說寫的太NB了。 (trad.) :: --
@@ -735,18 +346,10 @@ Index: zh zh->en
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===ne===
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
-===疒===
-  (Cantonese) 疒 {{yue-hanzi|jyut=|y=[[nik6]]}} :: {defn}
-  疒 {{cmn-hanzi|pin=[[chuáng]] ([[chuang2]]), [[nè]] ([[ne4]])|wg=[[ch'uang]]<sup>2</sup>, *}} :: {defn}
-===㐻===
-  (Cantonese) 㐻 {{yue-hanzi|jyut=|y=fu1, mou5 noi6}} :: {defn}
-  㐻 {{cmn-hanzi|pin=[[nèi]] ([[nei4]])|wg=nei<sup>4</sup>}} :: {defn}
 ===nǐ===
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
   中國 {{cmn-proper noun|t|pin=Zhōngguó|pint=zhong1guo2|tra=中國|sim=中国|rs=丨03}} :: China
     中國的首都是北京。 :: --
@@ -767,23 +370,10 @@ Index: zh zh->en
     你幹嗎不喝點酒? (trad.) :: --
     你干吗不喝点酒? (simp.) :: --
     Nǐ gànmá bù hē diǎn jiǔ? :: Why don't you have a drink [of alcohol]?
-===年===
-  (Cantonese) 年 {{yue-hanzi|jyut=|y=nin4}} :: {defn}
-  年 {{cmn-hanzi|pin=[[nián]] ([[nian2]])|wg=nien<sup>2</sup>}} :: {defn}
-===㒟===
-  (Cantonese) 㒟 {{yue-hanzi|jyut=|y=niu5, seui1}} :: {defn}
-  㒟 {{cmn-hanzi|pin=[[niǎo]] ([[niao3]])|wg=niao<sup>3</sup>}} :: {defn}
 ===女神===
   女神 {{cmn-noun|ts|pin=nǚshén|pint=nv3shen2|rs=女00}} :: goddess
-===㐡===
-  (Cantonese) 㐡 {{yue-hanzi|jyut=|y=no6}} :: {defn}
-  㐡 {{cmn-hanzi|pin=[[nuò]] ([[nuo4]])|wg=no<sup>4</sup>}} :: {defn}
-===㑚===
-  (Cantonese) 㑚 {{yue-hanzi|jyut=|y=na4, no4}} :: {defn}
-  㑚 {{cmn-hanzi|pin=[[nuó]] ([[nuo2]])|wg=no<sup>2</sup>}} :: {defn}
 ===nǚrén===
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===OK===
   OK (adjective) :: all right
@@ -791,62 +381,18 @@ Index: zh zh->en
     「70%咖啡 OK 嗎?」 :: --
     {{Hant|[[OK]][[嗎]]？}}(trad.) / {{Hans|[[OK]][[吗]]？}}(simpl.) :: OK ma?
     Is it OK? :: --
-===㒖===
-  (Cantonese) 㒖 {{yue-hanzi|jyut=|y=ngaau5}} :: {defn}
-  㒖 {{cmn-hanzi|pin=[[ǒu]] ([[ou3]])|wg=ou<sup>3</sup>}} :: {defn}
-===㐴===
-  (Cantonese) 㐴 {{yue-hanzi|jyut=|y=pan1}} :: {defn}
 ===盆===
   雨 {{cmn-noun|ts|pin=yǔ|pint=yu3|rs=雨00}} :: rain
     傾盆大雨。 (trad.) :: --
     倾盆大雨。 (simp.) :: Raining cats and dogs.
-===㓟===
-  (Cantonese) 㓟 {{yue-hanzi|jyut=|y=ngo4, pei1}} :: {defn}
-  㓟 {{cmn-hanzi|pin=|wg=}} :: {defn}
-===㓲===
-  (Cantonese) 㓲 {{yue-hanzi|jyut=|y=pin3}} :: {defn}
-  㓲 {{cmn-hanzi|pin=[[piàn]] ([[pian4]])|wg=p'ien<sup>4</sup>}} :: {defn}
 ===丿===
-  (Cantonese) 丿 {{yue-hanzi|jyut=|y=pit3}} :: {defn}
   丿 {{cmn-hanzi|pin=[[piě]] ([[pie3]])|wg=p'ieh<sup>3</sup>}} :: left-falling stroke, usually read as 撇 (piě)
-===僕===
-  (Cantonese) 僕 {{yue-hanzi|jyut=|y=buk6|sim=仆}} :: {defn}
-  僕 {{cmn-hanzi|sim=仆|pin=[[pú]] ([[pu2]])|wg=p'u<sup>2</sup>}} :: {defn}
-===㒒===
-  (Cantonese) 㒒 {{yue-hanzi|jyut=|y=buk6}} :: {defn}
-  㒒 {{cmn-hanzi|pin=[[pú]] ([[pu2]])|wg=p'u<sup>2</sup>}} :: {defn}
 ===七===
-  (Cantonese) 七 {{yue-hanzi|jyut=|y=chat1}} :: {defn}
   七 {{cmn-hanzi|pin=[[qī]] ([[qi1]]), [[shǎng]] ([[shang3]])|wg=ch'i<sup>1</sup>, shang<sup>3</sup>}} :: seven
   (Cantonese) chat (cardinal number), Han spelling: {{l|yue|七|sc=Hani}} :: seven
-===㒅===
-  (Cantonese) 㒅 {{yue-hanzi|jyut=|y=kaai2}} :: {defn}
-  㒅 {{cmn-hanzi|pin=[[qǐ]] ([[qi3]])|wg=ch'i<sup>3</sup>}} :: {defn}
-===㓞===
-  (Cantonese) 㓞 {{yue-hanzi|jyut=|y=kaai3}} :: {defn}
-  㓞 {{cmn-hanzi|pin=[[qì]] ([[qi4]]), [[qià]] ([[qia4]]), [[yáo]] ([[yao2]])|wg=ch'i<sup>4</sup>, ch'ia<sup>4</sup>, yao<sup>2</sup>}} :: {defn}
-===㓣===
-  (Cantonese) 㓣 {{yue-hanzi|jyut=|y=got3, jak6}} :: {defn}
-  㓣 {{cmn-hanzi|pin=[[qià]] ([[qia4]])|wg=ch'ia<sup>4</sup>}} :: {defn}
-===㓤===
-  (Cantonese) 㓤 {{yue-hanzi|jyut=|y=hot3, kit3 kit6}} :: {defn}
-  㓤 {{cmn-hanzi|pin=[[jié]] ([[jie2]]), [[qià]] ([[qia4]])|wg=chieh<sup>2</sup>, ch'ia<sup>4</sup>}} :: {defn}
-===千===
-  (Cantonese) 千 {{yue-hanzi|jyut=|y=[[chin1]]}} :: {defn}
-  千 {{cmn-hanzi|pin=[[qiān]] ([[qian1]])|wg=[[ch'ien1|ch'ien<sup>1</sup>]]}} :: {defn}
-===㐸===
-  (Cantonese) 㐸 {{yue-hanzi|jyut=|y=gim1, him3}} :: {defn}
-  㐸 {{cmn-hanzi|pin=[[qiàn]] ([[qian4]])|wg=ch'ien<sup>4</sup>}} :: {defn}
 ===铅笔===
   铅笔 {{cmn-noun|s|pin=qiānbǐ|pint=qian1bi3|tra=鉛筆|sim=铅笔|rs=钅05}} :: pencil
-===㓶===
-  (Cantonese) 㓶 {{yue-hanzi|jyut=|y=kit3}} :: {defn}
-  㓶 {{cmn-hanzi|pin=[[qiè]] ([[qie4]])|wg=ch'ieh<sup>4</sup>}} :: {defn}
-===㓎===
-  (Cantonese) 㓎 {{yue-hanzi|jyut=|y=chaam1, saam6}} :: {defn}
-  㓎 {{cmn-hanzi|pin=[[lián]] ([[lian2]]), [[qǐn]] ([[qin3]]), [[qìn]] ([[qin4]])|wg=lien<sup>2</sup>, ch'in<sup>3</sup>, ch'in<sup>4</sup>}} :: {defn}
 ===青===
-  (Cantonese) 青 {{yue-hanzi|jyut=|y=cheng1, ching1}} :: {defn}
   青 {{cmn-hanzi|pin=[[qīng]] ([[qing1]])|wg=ch'ing<sup>1</sup>}} :: green; if about grass, plants, mountain etc.
   青 {{cmn-hanzi|pin=[[qīng]] ([[qing1]])|wg=ch'ing<sup>1</sup>}} :: blue; if about the sky, a stone etc.
   青 {{cmn-hanzi|pin=[[qīng]] ([[qing1]])|wg=ch'ing<sup>1</sup>}} :: black; if about hair, cloth etc.
@@ -855,38 +401,9 @@ Index: zh zh->en
   雨 {{cmn-noun|ts|pin=yǔ|pint=yu3|rs=雨00}} :: rain
     傾盆大雨。 (trad.) :: --
     倾盆大雨。 (simp.) :: Raining cats and dogs.
-===㑋===
-  (Cantonese) 㑋 {{yue-hanzi|jyut=|y=kung4}} :: {defn}
-  㑋 {{cmn-hanzi|pin=[[jiòng]] ([[jiong4]]), [[kǒng]] ([[kong3]]), [[qióng]] ([[qiong2]])|wg=chiung<sup>4</sup>, k'ung<sup>3</sup>, ch'iung<sup>2</sup>}} :: {defn}
-===㒌===
-  (Cantonese) 㒌 {{yue-hanzi|jyut=|y=king4}} :: {defn}
-  㒌 {{cmn-hanzi|pin=[[qióng]] ([[qiong2]])|wg=ch'iung<sup>2</sup>}} :: {defn}
-===秋===
-  (Cantonese) 秋 {{yue-hanzi|jyut=cau1|y=chau1}} :: {defn}
-  秋 {{cmn-hanzi|pin=[[qiū]] ([[qiu1]])|wg=ch'iu<sup>1</sup>}} :: {defn}
-===㐀===
-  (Cantonese) 㐀 {{yue-hanzi|jyut=|y=jaau1, kaau5}} :: {defn}
-  㐀 (qiū) :: {defn}
-===犬===
-  (Cantonese) 犬 {{yue-hanzi|jyut=|y=[[hyun2]]}} :: {defn}
-  犬 {{cmn-hanzi|pin=[[quǎn]] ([[quan3]])|wg=[[ch'üan3|ch'üan<sup>3</sup>]]|y=[[chwan]]}} :: {defn}
-===犭===
-  犭 {{cmn-hanzi|pin=[[quǎn]] ([[quan3]])|wg=}} :: {defn}
-===㒰===
-  (Cantonese) 㒰 {{yue-hanzi|jyut=|y=chyun4, jan2}} :: {defn}
-  㒰 {{cmn-hanzi|pin=[[quán]] ([[quan2]])|wg=ch'üan<sup>2</sup>}} :: {defn}
-===㒽===
-  (Cantonese) 㒽 {{yue-hanzi|jyut=|y=hyun1}} :: {defn}
 ===r===
   r (suffix), traditional: 兒, simplified: 儿 :: (a suffix for erhua)
-===㒄===
-  (Cantonese) 㒄 {{yue-hanzi|jyut=|y=jim5, ngam4}} :: {defn}
-  㒄 {{cmn-hanzi|pin=[[nàng]] ([[nang4]]), [[nèn]] ([[nen4]]), [[rǎn]] ([[ran3]])|wg=nang<sup>4</sup>, nen<sup>4</sup>, jan<sup>3</sup>}} :: {defn}
-===㑱===
-  (Cantonese) 㑱 {{yue-hanzi|jyut=|y=nau4}} :: {defn}
-  㑱 {{cmn-hanzi|pin=[[rǎo]] ([[rao3]])|wg=jao<sup>3</sup>}} :: {defn}
 ===人===
-  (Cantonese) 人 {{yue-hanzi|jyut=|y=[[yan4]]}} :: {defn}
   人 {{cmn-noun|ts|pin=rén|pint=ren2|rs=人00}} :: man, person, people
     [http://wordproject.org/multi/bi_en_cn_py.htm John 1.4] :: --
     生命在他里头。这生命就是人的光。 :: --
@@ -905,7 +422,6 @@ Index: zh zh->en
 ===人造===
   人造 {{cmn-noun|ts|pin=rénzào|pint=ren2zao4|rs=人00}} :: artificial; man-made
 ===日===
-  (Cantonese) 日 {{yue-hanzi|jyut=jat6|y=yat6}} :: {defn}
   日 {{cmn-noun|ts|pin=rì|pint=ri4|rs=日00}} :: {literary} sun
   日 {{cmn-noun|ts|pin=rì|pint=ri4|rs=日00}} :: {literary} day
   日 {{cmn-noun|ts|pin=rì|pint=ri4|rs=日00}} :: {literary} day of the month
@@ -914,29 +430,10 @@ Index: zh zh->en
 ===rook===
   車 {{cmn-noun|t|pin=jū|pint=ju1|tra=車|sim=车|rs=車00}} :: the black chariot/rook in Chinese chess
   车 {{cmn-noun|s|pin=jū|pint=ju1|tra=[[車]] or [[俥]]|sim=车|rs=车00}} :: chariot/rook in Chinese chess
-===入===
-  (Cantonese) 入 {{yue-hanzi|jyut=[[jap6]]|y=[[yap6]]}} :: {defn}
-  入 {{cmn-hanzi|pin=[[rù]] ([[ru4]])|wg=ju<sup>4</sup>}} :: {defn}
-===㓴===
-  (Cantonese) 㓴 {{yue-hanzi|jyut=|y=jyun5}} :: {defn}
-  㓴 {{cmn-hanzi|pin=[[jùn]] ([[jun4]]), [[ruǎn]] ([[ruan3]])|wg=chün<sup>4</sup>, juan<sup>3</sup>}} :: {defn}
-===㓹===
-  (Cantonese) 㓹 {{yue-hanzi|jyut=|y=jeui6}} :: {defn}
-  㓹 {{cmn-hanzi|pin=[[ruì]] ([[rui4]])|wg=jui<sup>4</sup>}} :: {defn}
-===㒎===
-  (Cantonese) 㒎 {{yue-hanzi|jyut=|y=sat3}} :: {defn}
-  㒎 {{cmn-hanzi|pin=[[sǎ]] ([[sa3]]), [[sà]] ([[sa4]]), [[tàn]] ([[tan4]])|wg=sa<sup>3</sup>, sa<sup>4</sup>, t'an<sup>4</sup>}} :: {defn}
 ===三===
-  (Cantonese) 三 {{yue-hanzi|jyut=|y=saam1, saam3}} :: {defn}
   三 {{cmn-car-num|ts|pin=sān|pint=san1|rs=一02}} :: three
 ===sc===
   (Cantonese) chat (cardinal number), Han spelling: {{l|yue|七|sc=Hani}} :: seven
-===㒊===
-  (Cantonese) 㒊 {{yue-hanzi|jyut=|y=saap1, sik1}} :: {defn}
-  㒊 {{cmn-hanzi|pin=[[sè]] ([[se4]])|wg=se<sup>4</sup>}} :: {defn}
-===森===
-  (Cantonese) 森 {{yue-hanzi|jyut=|y=sam1}} :: {defn}
-  森 {{cmn-hanzi|pin=[[sēn]] ([[sen1]])|wg=sen<sup>1</sup>}} :: {defn}
 ===傻===
   NB {{cmn-adj|p|pint=nb}} :: {{slang|skey=nb}} fucking awesome
     他小說寫的太NB了。 (trad.) :: --
@@ -946,21 +443,12 @@ Index: zh zh->en
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===shé===
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===蛇===
-  (Cantonese) 蛇 {{yue-hanzi|jyut=|y=[[se4]], [[yi4]]}} :: {defn}
   (Cantonese) 蛇 {{yue-hanzi|jyut=|y=[[se4]], [[yi4]]}} :: snake
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
-    Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
-===㓭===
-  (Cantonese) 㓭 {{yue-hanzi|jyut=|y=hot3}} :: {defn}
-  㓭 {{cmn-hanzi|pin=[[hé]] ([[he2]])|wg=ho<sup>2</sup>}} :: {defn}
 ===shén===
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===神===
   (Cantonese) 神 {{yue-hanzi|jyut=|y=san4}} :: god, supernatural (spiritual) deity
@@ -974,16 +462,11 @@ Index: zh zh->en
     神说，要有光，就有了光。 :: --
     Shén shuō, yào yǒu guāng, jiù yǒu le guāng. :: --
     God said, Let there be light: and there was light. :: --
-  神 {{cmn-hanzi|pin=[[shēn]] ([[shen1]]), [[shén]] ([[shen2]])|wg=shen<sup>1</sup>, shen<sup>2</sup>}} :: {defn}
-===㑗===
-  (Cantonese) 㑗 {{yue-hanzi|jyut=|y=saan1, saan6}} :: {defn}
 ===shénme===
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===shì===
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
   中国 {{cmn-proper noun|s|pin=Zhōngguó|pint=zhong1guo2|tra=中國|sim=中国|rs=丨03}} :: China
     中国的首都是北京。 :: --
@@ -1000,10 +483,7 @@ Index: zh zh->en
     你喜歡中國文學嗎？ :: --
     nǐ xǐhuān zhōngguó wénxué ma? :: Do you like Chinese literature?
 ===十===
-  十 {{cmn-hanzi|pin=[[shí]] ([[shi2]])|wg=shih<sup>2</sup>}} :: {defn}
-===士===
-  (Cantonese) 士 {{yue-hanzi|jyut=|y=si6}} :: {defn}
-  士 {{cmn-hanzi|pin=[[shì]] ([[shi4]])|wg=shih<sup>4</sup>}} :: {defn}
+  十 {{cmn-car-num|ts|pin=shí|pint=shi2|rs=十00}} :: ten
 ===是===
   NB {{cmn-adj|p|pint=nb}} :: {{slang|skey=nb}} fucking awesome
     他小說寫的太NB了。 (trad.) :: --
@@ -1012,9 +492,6 @@ Index: zh zh->en
     哥们儿，别傻说，美国比英国NB，美国是超级大国！ (simp.) :: Dude, don't talk shit. America's heaps stronger than Britain - U.S.A. is the superpower!
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
-===㒾===
-  (Cantonese) 㒾 {{yue-hanzi|jyut=|y=si6}} :: {defn}
-  㒾 {{cmn-hanzi|pin=[[shì]] ([[shi4]])|wg=shih<sup>4</sup>}} :: {defn}
 ===shǒudū===
   中国 {{cmn-proper noun|s|pin=Zhōngguó|pint=zhong1guo2|tra=中國|sim=中国|rs=丨03}} :: China
     中国的首都是北京。 :: --
@@ -1031,7 +508,6 @@ Index: zh zh->en
     你喜歡中國文學嗎？ :: --
     nǐ xǐhuān zhōngguó wénxué ma? :: Do you like Chinese literature?
 ===书===
-  (Cantonese) 书 {{yue-hanzi|jyut=|y=syu1|tra=書}} :: {defn}
   书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: book
   书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: letter
   书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: document
@@ -1042,14 +518,6 @@ Index: zh zh->en
   书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: Six-Books
   书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: imperial edict
   书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: storytelling
-===数===
-  (Cantonese) 数 {{yue-hanzi|tra=數|jyut=[[sou3]], [[sou2]]|y=sou2, sou3}} :: {defn}
-  数 {{cmn-hanzi|tra=數|pin=[[shǔ]] ([[shu3]]), [[shù]] ([[shu4]]), [[shuò]] ([[shuo4]]), [[cù]] ([[cu4]])|wg=shu<sup>3</sup>, shu<sup>4</sup>, shuo<sup>4</sup>, ts'u<sup>4</sup>}} :: {defn}
-===㑐===
-  (Cantonese) 㑐 {{yue-hanzi|jyut=|y=suk1}} :: {defn}
-===㒔===
-  (Cantonese) 㒔 {{yue-hanzi|jyut=|y=suk6}} :: {defn}
-  㒔 {{cmn-hanzi|pin=[[shǔ]] ([[shu3]])|wg=shu<sup>3</sup>}} :: {defn}
 ===爽快===
   爽快 {{cmn-adj|ts|pin=shuǎngkuài|pint=shuang3kuai4|rs=爻07}} :: {{Advanced Mandarin|skey=爻07}} refreshed
   爽快 {{cmn-adj|ts|pin=shuǎngkuài|pint=shuang3kuai4|rs=爻07}} :: {{Advanced Mandarin|skey=爻07}} frank; open; straightforward
@@ -1057,12 +525,10 @@ Index: zh zh->en
 ===水===
   (Cantonese) 水 {{yue-hanzi|jyut=[[seoi2]]|y=[[seui2]]}} :: water
   (Cantonese) 水 {{yue-noun|ts|jyut=seoi2|rs=水00}} :: water
-  水 {{cmn-hanzi|pin=[[shuǐ]] ([[shui3]])|wg=[[shui3|shui<sup>3</sup>]]}} :: {defn}
 ===氵===
   氵 {{cmn-hanzi|pin=[[shuǐ]] ([[shui3]])|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
 ===shuō===
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===说===
   NB {{cmn-adj|p|pint=nb}} :: {{slang|skey=nb}} fucking awesome
@@ -1072,10 +538,7 @@ Index: zh zh->en
     哥们儿，别傻说，美国比英国NB，美国是超级大国！ (simp.) :: Dude, don't talk shit. America's heaps stronger than Britain - U.S.A. is the superpower!
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
-===説===
-  説 {{cmn-hanzi|sim=说|pin=[[shuō]] ([[shuo1]])|wg=shuo<sup>1</sup>}} :: {defn}
 ===四===
-  (Cantonese) 四 {{yue-hanzi|jyut=|y=[[sei3]]}} :: {defn}
   四 {{cmn-car-num|ts|pin=sì|pint=si4|rs=囗02}} :: four
   四 {{cmn-noun|ts|pin=sì|pint=si4|rs=囗02}} :: (musical note) la
 ===simp===
@@ -1095,24 +558,6 @@ Index: zh zh->en
     「70%咖啡 OK 嗎?」 :: --
     {{Hant|[[OK]][[嗎]]？}}(trad.) / {{Hans|[[OK]][[吗]]？}}(simpl.) :: OK ma?
     Is it OK? :: --
-===㑉===
-  (Cantonese) 㑉 {{yue-hanzi|jyut=|y=chuk1}} :: {defn}
-  㑉 {{cmn-hanzi|pin=[[sù]] ([[su4]])|wg=su<sup>4</sup>}} :: {defn}
-===㑛===
-  (Cantonese) 㑛 {{yue-hanzi|jyut=|y=chuk1}} :: {defn}
-  㑛 {{cmn-hanzi|pin=[[sù]] ([[su4]])|wg=su<sup>4</sup>}} :: {defn}
-===㓘===
-  (Cantonese) 㓘 {{yue-hanzi|jyut=|y=suk1}} :: {defn}
-  㓘 {{cmn-hanzi|pin=[[sù]] ([[su4]])|wg=su<sup>4</sup>}} :: {defn}
-===㔄===
-  (Cantonese) 㔄 {{yue-hanzi|jyut=|y=suk1}} :: {defn}
-  㔄 {{cmn-hanzi|pin=[[sù]] ([[su4]])|wg=su<sup>4</sup>}} :: {defn}
-===㒸===
-  (Cantonese) 㒸 {{yue-hanzi|jyut=|y=seui6}} :: {defn}
-  㒸 {{cmn-hanzi|pin=[[suì]] ([[sui4]]), [[xuán]] ([[xuan2]])|wg=sui<sup>4</sup>, hsüan<sup>2</sup>}} :: {defn}
-===損===
-  (Cantonese) 損 {{yue-hanzi|jyut=|y=syun2|sim=损}} :: {defn}
-  損 {{cmn-hanzi|sim=损|pin=[[sǔn]] ([[sun3]])|wg=sun<sup>3</sup>}} :: {defn}
 ===tā===
   中國 {{cmn-proper noun|t|pin=Zhōngguó|pint=zhong1guo2|tra=中國|sim=中国|rs=丨03}} :: China
     中國的首都是北京。 :: --
@@ -1137,9 +582,6 @@ Index: zh zh->en
     哥们儿，别傻说，美国比英国NB，美国是超级大国！ (simp.) :: Dude, don't talk shit. America's heaps stronger than Britain - U.S.A. is the superpower!
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
-===㒓===
-  (Cantonese) 㒓 {{yue-hanzi|jyut=|y=tat3}} :: {defn}
-  㒓 {{cmn-hanzi|pin=[[tà]] ([[ta4]])|wg=t'a<sup>4</sup>}} :: {defn}
 ===太===
   NB {{cmn-adj|p|pint=nb}} :: {{slang|skey=nb}} fucking awesome
     他小說寫的太NB了。 (trad.) :: --
@@ -1148,32 +590,6 @@ Index: zh zh->en
     哥们儿，别傻说，美国比英国NB，美国是超级大国！ (simp.) :: Dude, don't talk shit. America's heaps stronger than Britain - U.S.A. is the superpower!
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
-===㑷===
-  (Cantonese) 㑷 {{yue-hanzi|jyut=|y=tai3}} :: {defn}
-  㑷 {{cmn-hanzi|pin=[[tài]] ([[tai4]]), [[tiàn]] ([[tian4]]), [[zhuàn]] ([[zhuan4]])|wg=t'ai<sup>4</sup>, t'ien<sup>4</sup>, chuan<sup>4</sup>}} :: {defn}
-===㒗===
-  (Cantonese) 㒗 {{yue-hanzi|jyut=|y=toi4}} :: {defn}
-  㒗 {{cmn-hanzi|pin=[[tái]] ([[tai2]])|wg=t'ai<sup>2</sup>}} :: {defn}
-===㑽===
-  (Cantonese) 㑽 {{yue-hanzi|jyut=|y=tong4}} :: {defn}
-  㑽 {{cmn-hanzi|pin=[[táng]] ([[tang2]])|wg=t'ang<sup>2</sup>}} :: {defn}
-===㒉===
-  (Cantonese) 㒉 {{yue-hanzi|jyut=|y=tong2}} :: {defn}
-  㒉 {{cmn-hanzi|pin=[[tǎng]] ([[tang3]])|wg=t'ang<sup>3</sup>}} :: {defn}
-===㓥===
-  (Cantonese) 㓥 {{yue-hanzi|jyut=|y=tong1}} :: {defn}
-===㐁===
-  (Cantonese) 㐁 {{yue-hanzi|jyut=|y=tim2}} :: {defn}
-  㐁 {{cmn-hanzi|pin=[[tiǎn]] ([[tian3]]), [[tiàn]] ([[tian4]])|wg=t'ien<sup>3</sup>, t'ien<sup>4</sup>}} :: {defn}
-===㓅===
-  (Cantonese) 㓅 {{yue-hanzi|jyut=|y=ding1, ting1}} :: {defn}
-  㓅 (tīng) :: {defn}
-===亠===
-  (Cantonese) 亠 {{yue-hanzi|jyut=[[tau4]]|y=[[tau4]]}} :: {defn}
-  亠 {{cmn-hanzi|pin=[[tóu]] ([[tou2]]), [[wú]] ([[wu2]])|wg=[[t'ou2|t'ou<sup>2</sup>]], [[wu2|wu<sup>2</sup>]]}} :: {defn}
-===㓱===
-  (Cantonese) 㓱 {{yue-hanzi|jyut=|y=syu1}} :: {defn}
-  㓱 {{cmn-hanzi|pin=[[tóu]] ([[tou2]])|wg=t'ou<sup>2</sup>}} :: {defn}
 ===trad===
   OK (adjective) :: all right
     [http://books.google.co.uk/books?id=iMpJGrutbcYC&pg=PA90&dq=%22OK%E5%90%97%22&hl=en&ei=VPqJTuWrIomgOo3dhdUB&sa=X&oi=book_result&ct=result&resnum=1&ved=0CC0Q6AEwAA#v=onepage&q=%22OK%E5%90%97%22&f=false 11樓 - Page 90] :: --
@@ -1181,26 +597,15 @@ Index: zh zh->en
     {{Hant|[[OK]][[嗎]]？}}(trad.) / {{Hans|[[OK]][[吗]]？}}(simpl.) :: OK ma?
     Is it OK? :: --
 ===万===
-  (Cantonese) 万 {{yue-hanzi|jyut=|y=maan6, mak6|tra=萬}} :: {defn}
   万 {{cmn-adv|tra=萬|pin=wàn|pint=wan4|rs=一02}} :: absolutely
   万 {{cmn-adv|tra=萬|pin=wàn|pint=wan4|rs=一02}} :: by all means
   万 {{cmn-num|tra=萬|pin=wàn|pint=wan4|rs=一02}} :: ten thousand
   万 {{cmn-num|tra=萬|pin=wàn|pint=wan4|rs=一02}} :: a very large number, myriad
-===萬===
-  (Cantonese) 萬 {{yue-hanzi|jyut=|y=maan6|sim=万}} :: {defn}
-  萬 {{cmn-hanzi|sim=万|pin=[[wàn]] ([[wan4]])|wg=wan<sup>4</sup>}} :: {defn}
-===㓁===
-  (Cantonese) 㓁 {{yue-hanzi|jyut=|y=mong5}} :: {defn}
-  㓁 {{cmn-hanzi|pin=[[wǎng]] ([[wang3]])|wg=wang<sup>3</sup>}} :: {defn}
 ===位置===
   位置 {{cmn-noun|ts|pin=wèizhi|pint=wei4zhi|rs=人05}} :: location; position; place
   位置 {{cmn-verb|ts|pin=wèizhì|pint=wei4zhi4|rs=人05}} :: to deal with, to arrange for
 ===文===
-  (Cantonese) 文 {{yue-hanzi|jyut=man4, man6|y=man4}} :: {defn}
   文 {{cmn-noun|ts|pin=wén|pint=wen2|rs=文00}} :: language, culture
-===紋===
-  (Cantonese) 紋 {{yue-hanzi|jyut=|y=man4|sim=纹}} :: {defn}
-  紋 {{cmn-hanzi|sim=纹|pin=[[wén]] ([[wen2]]), [[wèn]] ([[wen4]])|wg=wen<sup>2</sup>, wen<sup>4</sup>}} :: {defn}
 ===wénxué===
   中国 {{cmn-proper noun|s|pin=Zhōngguó|pint=zhong1guo2|tra=中國|sim=中国|rs=丨03}} :: China
     中国的首都是北京。 :: --
@@ -1217,45 +622,17 @@ Index: zh zh->en
     你喜歡中國文學嗎？ :: --
     nǐ xǐhuān zhōngguó wénxué ma? :: Do you like Chinese literature?
 ===wǒ===
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===五===
-  (Cantonese) 五 {{yue-hanzi|jyut=|y=ng5}} :: {defn}
   五 {{cmn-car-num|ts|pin=wǔ|pint=wu3|rs=二02}} :: five
-===㐅===
-  (Cantonese) 㐅 {{yue-hanzi|jyut=|y=ng5}} :: {defn}
-  㐅 {{cmn-hanzi|pin=[[wǔ]] ([[wu3]])|wg=wu<sup>3</sup>}} :: {defn}
-===㐳===
-  (Cantonese) 㐳 {{yue-hanzi|jyut=|y=ngaat6}} :: {defn}
-  㐳 {{cmn-hanzi|pin=[[wù]] ([[wu4]])|wg=wu<sup>4</sup>}} :: {defn}
-===㑄===
-  (Cantonese) 㑄 {{yue-hanzi|jyut=|y=mou5}} :: {defn}
-  㑄 {{cmn-hanzi|pin=[[wǔ]] ([[wu3]])|wg=wu<sup>3</sup>}} :: {defn}
-===㒇===
-  (Cantonese) 㒇 {{yue-hanzi|jyut=|y=ng5}} :: {defn}
-  㒇 {{cmn-hanzi|pin=[[mù]] ([[mu4]]), [[wǔ]] ([[wu3]])|wg=mu<sup>4</sup>, wu<sup>3</sup>}} :: {defn}
 ===西===
-  (Cantonese) 西 {{yue-hanzi|jyut=|y=sai1}} :: {defn}
   西 {{cmn-noun|ts|pin=xī|pint=xī|rs=西00}} :: Western; occidental
   西 {{cmn-noun|ts|pin=xī|pint=xī|rs=西00}} :: west
-===㑶===
-  (Cantonese) 㑶 {{yue-hanzi|jyut=|y=haai4, hei3}} :: {defn}
-  㑶 {{cmn-hanzi|pin=[[xì]] ([[xi4]])|wg=hsi<sup>4</sup>}} :: {defn}
-===㓾===
-  (Cantonese) 㓾 {{yue-hanzi|jyut=|y=saai1}} :: {defn}
-  㓾 {{cmn-hanzi|pin=[[chí]] ([[chi2]])|wg=ch'ih<sup>2</sup>}} :: {defn}
-===㔒===
-  (Cantonese) 㔒 {{yue-hanzi|jyut=|y=kwaai4}} :: {defn}
-  㔒 {{cmn-hanzi|pin=[[xí]] ([[xi2]])|wg=hsi<sup>2</sup>}} :: {defn}
 ===象===
-  (Cantonese) 象 {{yue-hanzi|jyut=zoeng6|y=jeung6}} :: {defn}
   象 {{cmn-noun|ts|pin=xiàng|pint=xiang4|rs=豕05}} :: elephant
   象 {{cmn-noun|ts|pin=xiàng|pint=xiang4|rs=豕05}} :: (Chinese Chess) elephant
   象 {{cmn-noun|s|pin=xiàng|pint=xiang4|tra=像|sim=象|rs=豕05}} :: likeness
-===㐮===
-  (Cantonese) 㐮 {{yue-hanzi|jyut=|y=seung1}} :: {defn}
-  㐮 (xiang1) :: {defn}
 ===象牙===
   (Cantonese) 象牙 {{yue-noun|ts|jyut=zoeng6ngaa4|y=jeung6nga4|rs=豕05}} :: ivory
   象牙 {{cmn-noun|ts|pin=xiàngyá|pint=xiang4ya2|rs=豕05}} :: ivory
@@ -1274,9 +651,6 @@ Index: zh zh->en
     tā xiànzài Zhōngguó lǚxíng :: He's travelling around China right now.
     你喜歡中國文學嗎？ :: --
     nǐ xǐhuān zhōngguó wénxué ma? :: Do you like Chinese literature?
-===㔅===
-  (Cantonese) 㔅 {{yue-hanzi|jyut=|y=siu3}} :: {defn}
-  㔅 {{cmn-hanzi|pin=[[xiào]] ([[xiao4]])|wg=hsiao<sup>4</sup>}} :: {defn}
 ===小说===
   NB {{cmn-adj|p|pint=nb}} :: {{slang|skey=nb}} fucking awesome
     他小說寫的太NB了。 (trad.) :: --
@@ -1293,18 +667,6 @@ Index: zh zh->en
     哥们儿，别傻说，美国比英国NB，美国是超级大国！ (simp.) :: Dude, don't talk shit. America's heaps stronger than Britain - U.S.A. is the superpower!
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
-===㐖===
-  (Cantonese) 㐖 {{yue-hanzi|jyut=|y=jip6}} :: {defn}
-  㐖 {{cmn-hanzi|pin=[[yè]] ([[ye4]])|wg=yeh<sup>4</sup>}} :: {defn}
-===㒠===
-  (Cantonese) 㒠 {{yue-hanzi|jyut=|y=hai6}} :: {defn}
-  㒠 {{cmn-hanzi|pin=[[xiè]] ([[xie4]])|wg=hsieh<sup>4</sup>}} :: {defn}
-===㓔===
-  (Cantonese) 㓔 {{yue-hanzi|jyut=|y=je6}} :: {defn}
-  㓔 {{cmn-hanzi|pin=[[xiè]] ([[xie4]])|wg=hsieh<sup>4</sup>}} :: {defn}
-===㔎===
-  (Cantonese) 㔎 {{yue-hanzi|jyut=|y=sit3}} :: {defn}
-  㔎 {{cmn-hanzi|pin=[[xiè]] ([[xie4]]), [[yì]] ([[yi4]])|wg=hsieh<sup>4</sup>, i<sup>4</sup>}} :: {defn}
 ===xǐhuān===
   中国 {{cmn-proper noun|s|pin=Zhōngguó|pint=zhong1guo2|tra=中國|sim=中国|rs=丨03}} :: China
     中国的首都是北京。 :: --
@@ -1321,51 +683,9 @@ Index: zh zh->en
     你喜歡中國文學嗎？ :: --
     nǐ xǐhuān zhōngguó wénxué ma? :: Do you like Chinese literature?
 ===心===
-  (Cantonese) 心 {{yue-hanzi|jyut=|y=[[sam1]]}} :: {defn}
   (Cantonese) 心 {{yue-hanzi|jyut=|y=[[sam1]]}} :: heart
-  心 {{cmn-hanzi|pin=[[xīn]] ([[xin1]])|wg=hsin<sup>1</sup>}} :: {defn}
-===㐰===
-  (Cantonese) 㐰 {{yue-hanzi|jyut=|y=seun3}} :: {defn}
-  㐰 {{cmn-hanzi|pin=[[xìn]] ([[xin4]])|wg=hsin<sup>4</sup>}} :: {defn}
-===㐩===
-  (Cantonese) 㐩 {{yue-hanzi|jyut=|y=jing4}} :: {defn}
-  㐩 {{cmn-hanzi|pin=[[xíng]] ([[xing2]])|wg=hsing<sup>2</sup>}} :: {defn}
-===㓑===
-  (Cantonese) 㓑 {{yue-hanzi|jyut=|y=haang6}} :: {defn}
-  㓑 {{cmn-hanzi|pin=[[xìng]] ([[xing4]])|wg=hsing<sup>4</sup>}} :: {defn}
-===㓝===
-  (Cantonese) 㓝 {{yue-hanzi|jyut=|y=jing4}} :: {defn}
-  㓝 {{cmn-hanzi|pin=[[xíng]] ([[xing2]])|wg=hsing<sup>2</sup>}} :: {defn}
-===㐫===
-  (Cantonese) 㐫 {{yue-hanzi|jyut=|y=gun3, hung1 jung1}} :: {defn}
-===㐨===
-  (Cantonese) 㐨 {{yue-hanzi|jyut=|y=jeui6}} :: {defn}
-  㐨 {{cmn-hanzi|pin=[[xù]] ([[xu4]])|wg=hsü<sup>4</sup>}} :: {defn}
-===㑔===
-  (Cantonese) 㑔 {{yue-hanzi|jyut=|y=seui2}} :: {defn}
-  㑔 {{cmn-hanzi|pin=[[xǔ]] ([[xu3]])|wg=hsü<sup>3</sup>}} :: {defn}
-===㑯===
-  (Cantonese) 㑯 {{yue-hanzi|jyut=|y=seui1}} :: {defn}
-  㑯 {{cmn-hanzi|pin=[[xǔ]] ([[xu3]])|wg=hsü<sup>3</sup>}} :: {defn}
-===㓩===
-  (Cantonese) 㓩 {{yue-hanzi|jyut=|y=fan3, hin2 hyun1}} :: {defn}
-===盐===
-  (Cantonese) 盐 {{yue-hanzi|jyut=|y=yim4|tra=鹽}} :: {defn}
-  盐 {{cmn-hanzi|tra=鹽|pin=[[yán]] ([[yan2]])|wg=yen<sup>2</sup>}} :: {defn}
-===㒕===
-  (Cantonese) 㒕 {{yue-hanzi|jyut=|y=jeung1}} :: {defn}
-===曜===
-  (Cantonese) 曜 {{yue-hanzi|jyut=|y=yiu6}} :: {defn}
-  曜 {{cmn-hanzi|pin=[[yào]] ([[yao4]])|wg=yao<sup>4</sup>}} :: {defn}
-===㑸===
-  (Cantonese) 㑸 {{yue-hanzi|jyut=|y=jiu4}} :: {defn}
-  㑸 {{cmn-hanzi|pin=[[ǎi]] ([[ai3]]), [[yáo]] ([[yao2]]), [[yóu]] ([[you2]])|wg=ai<sup>3</sup>, yao<sup>2</sup>, yu<sup>2</sup>}} :: {defn}
-===㑾===
-  (Cantonese) 㑾 {{yue-hanzi|jyut=|y=jiu4}} :: {defn}
-  㑾 {{cmn-hanzi|pin=[[xiáo]] ([[xiao2]]), [[yáo]] ([[yao2]])|wg=hsiao<sup>2</sup>, yao<sup>2</sup>}} :: {defn}
 ===Yēhéhuá===
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===一===
   (Cantonese) 一 {{yue-hanzi|jyut=jat1|y=yat1}} :: one
@@ -1376,50 +696,13 @@ Index: zh zh->en
     Last: 零 :: --
     Next: 二 :: --
 ===乙===
-  (Cantonese) 乙 {{yue-hanzi|jyut=|y=yut6, wat1}} :: {defn}
   乙 {{cmn-hanzi|pin=[[niè]] ([[nie4]]), [[yǐ]] ([[yi3]])|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: yǐ
-  乙 {{cmn-hanzi|pin=[[niè]] ([[nie4]]), [[yǐ]] ([[yi3]])|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: {defn} the seventh scale degree in gongche musical notation
-===蟻===
-  (Cantonese) 蟻 {{yue-hanzi|jyut=ngai5|y=ngai5|sim=蚁}} :: {defn}
-  蟻 {{cmn-hanzi|sim=蚁|pin=[[jǐ]] ([[ji3]]), [[yǐ]] ([[yi3]])|wg=chi<sup>3</sup>, i<sup>3</sup>}} :: {defn}
-===亿===
-  (Cantonese) 亿 {{yue-hanzi|jyut=jik1|y=yīk|tra=億}} :: {defn}
-  亿 {{cmn-hanzi|tra=億|pin=[[yì]] ([[yi4]]), [[shén]] ([[shen2]])|wg=i<sup>4</sup>, shen<sup>2</sup>}} :: {defn}
+  乙 {{cmn-hanzi|pin=[[niè]] ([[nie4]]), [[yǐ]] ([[yi3]])|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: the seventh scale degree in gongche musical notation
 ===億===
-  (Cantonese) 億 {{yue-hanzi|jyut=jik1|y=yik1|sim=亿}} :: {defn}
-  億 {{cmn-hanzi|sim=亿|pin=[[yì]] ([[yi4]]), [[dàng]] ([[dang4]])|wg=i<sup>4</sup>, tang<sup>4</sup>}} :: {defn}
   億 {{cmn-hanzi|sim=亿|pin=[[yì]] ([[yi4]]), [[dàng]] ([[dang4]])|wg=i<sup>4</sup>, tang<sup>4</sup>}} :: Additional Meanings
     surname :: --
-===㐌===
-  (Cantonese) 㐌 {{yue-hanzi|jyut=|y=[[jyu4]]}} :: {defn}
-  㐌 {{cmn-hanzi|pin=[[sì]] ([[si4]]), [[yí]] ([[yi2]])|wg=[[ssu4|ssu<sup>4</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-===㐹===
-  (Cantonese) 㐹 {{yue-hanzi|jyut=|y=go1, kwok3 ngaat6}} :: {defn}
-  㐹 {{cmn-hanzi|pin=[[yì]] ([[yi4]])|wg=i<sup>4</sup>}} :: {defn}
-===㑊===
-  (Cantonese) 㑊 {{yue-hanzi|jyut=|y=jik6}} :: {defn}
-  㑊 {{cmn-hanzi|pin=[[yì]] ([[yi4]])|wg=i<sup>4</sup>}} :: {defn}
-===㑜===
-  (Cantonese) 㑜 {{yue-hanzi|jyut=|y=jaai6}} :: {defn}
-  㑜 {{cmn-hanzi|pin=[[yì]] ([[yi4]])|wg=i<sup>4</sup>}} :: {defn}
-===㑥===
-  (Cantonese) 㑥 {{yue-hanzi|jyut=|y=ji6}} :: {defn}
-  㑥 {{cmn-hanzi|pin=[[yì]] ([[yi4]])|wg=i<sup>4</sup>}} :: {defn}
-===㓷===
-  (Cantonese) 㓷 {{yue-hanzi|jyut=|y=ji6, nau4}} :: {defn}
-  㓷 {{cmn-hanzi|pin=[[yì]] ([[yi4]])|wg=i<sup>4</sup>}} :: {defn}
-===㐆===
-  (Cantonese) 㐆 {{yue-hanzi|jyut=|y=jaan2}} :: {defn}
-  㐆 {{cmn-hanzi|pin=[[yǐn]] ([[yin3]])|wg=yin<sup>3</sup>}} :: {defn}
-===㐺===
-  (Cantonese) 㐺 {{yue-hanzi|jyut=|y=jung3}} :: {defn}
-  㐺 {{cmn-hanzi|pin=[[zhòng]] ([[zhong4]])|wg=chung<sup>4</sup>}} :: {defn}
-===㒚===
-  (Cantonese) 㒚 {{yue-hanzi|jyut=|y=waan2}} :: {defn}
-  㒚 {{cmn-hanzi|pin=[[wěn]] ([[wen3]])|wg=wen<sup>3</sup>}} :: {defn}
-===㑞===
-  (Cantonese) 㑞 {{yue-hanzi|jyut=|y=jing6}} :: {defn}
-  㑞 {{cmn-hanzi|pin=[[yìng]] ([[ying4]])|wg=ying<sup>4</sup>}} :: {defn}
+===引力===
+  引力 {{cmn-noun|ts|pin=yǐnlì|pint=yin3li4|rs=弓01}} :: gravitation
 ===英国===
   NB {{cmn-adj|p|pint=nb}} :: {{slang|skey=nb}} fucking awesome
     他小說寫的太NB了。 (trad.) :: --
@@ -1429,41 +712,17 @@ Index: zh zh->en
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===yǐnyòu===
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
-===㐯===
-  (Cantonese) 㐯 {{yue-hanzi|jyut=|y=jung4}} :: {defn}
-===酉===
-  (Cantonese) 酉 {{yue-hanzi|jyut=|y=[[yau5]]}} :: {defn}
-  酉 {{cmn-hanzi|pin=[[yǒu]] ([[you3]]), [[dīng]] ([[ding1]])|wg=[[yu3|yu<sup>3</sup>]], [[ting1|ting<sup>1</sup>]]}} :: {defn}
-===㒡===
-  (Cantonese) 㒡 {{yue-hanzi|jyut=|y=[[jaau4]]}} :: {defn}
-  㒡 {{cmn-hanzi|pin=[[yóu]] ([[you2]])|wg=yu<sup>2</sup>}} :: {defn}
-===㓜===
-  (Cantonese) 㓜 {{yue-hanzi|jyut=|y=jaau3, jiu3}} :: {defn}
-  㓜 {{cmn-hanzi|pin=[[yòu]] ([[you4]])|wg=yu<sup>4</sup>}} :: {defn}
 ===雨===
-  (Cantonese) 雨 {{yue-hanzi|jyut=|y=yu5}} :: {defn}
   雨 {{cmn-noun|ts|pin=yǔ|pint=yu3|rs=雨00}} :: rain
     傾盆大雨。 (trad.) :: --
     倾盆大雨。 (simp.) :: Raining cats and dogs.
-  雨 {{cmn-hanzi|pin=[[yǔ]] ([[yu3]])|wg=yü<sup>3</sup>}} :: {defn}
-===㑨===
-  (Cantonese) 㑨 {{yue-hanzi|jyut=|y=jyu5}} :: {defn}
-  㑨 {{cmn-hanzi|pin=[[yǔ]] ([[yu3]])|wg=yü<sup>3</sup>}} :: {defn}
-===㒁===
-  (Cantonese) 㒁 {{yue-hanzi|jyut=|y=jyu5, sou3}} :: {defn}
-  㒁 {{cmn-hanzi|pin=[[yǔ]] ([[yu3]]), [[yùn]] ([[yun4]])|wg=yü<sup>3</sup>, yün<sup>4</sup>}} :: {defn}
-===㒜===
-  (Cantonese) 㒜 {{yue-hanzi|jyut=|y=jyu5}} :: {defn}
-  㒜 {{cmn-hanzi|pin=[[yú]] ([[yu2]]), [[yǔ]] ([[yu3]])|wg=yü<sup>2</sup>, yü<sup>3</sup>}} :: {defn}
 ===円===
   円 (yuán) :: archaic form of 圆
 ===yue===
   (Cantonese) chat (cardinal number), Han spelling: {{l|yue|七|sc=Hani}} :: seven
 ===月===
-  (Cantonese) 月 {{yue-hanzi|jyut=[[jyut6]]|y=[[yut6]]}} :: {defn}
   月 {{cmn-noun|ts|pin=yuè|pint=yue4|rs=月00}} :: {{Beginning Mandarin|skey=月00}} moon
   月 {{cmn-noun|ts|pin=yuè|pint=yue4|rs=月00}} :: {{Beginning Mandarin|skey=月00}} month
 ===载===
@@ -1474,29 +733,12 @@ Index: zh zh->en
     哥们儿，别傻说，美国比英国NB，美国是超级大国！ (simp.) :: Dude, don't talk shit. America's heaps stronger than Britain - U.S.A. is the superpower!
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
-===㔆===
-  (Cantonese) 㔆 {{yue-hanzi|jyut=|y=cham4}} :: {defn}
-  㔆 {{cmn-hanzi|pin=[[chán]] ([[chan2]])|wg=ch'an<sup>2</sup>}} :: {defn}
 ===造===
-  (Cantonese) 造 {{yue-hanzi|jyut=|y=jou6}} :: {defn}
   造 {{cmn-verb|ts|pin=zào|pint=zao4}} :: to make, to build
     [http://wordproject.org/multi/bi_en_cn_py.htm John 1.3] :: --
     万物是借着他造的。凡被造的，没有一样不是借着他造的。 :: --
     Wànwù shì jièzhe tā zào de. Fán beì zào de, méiyǒu yīyàng búshì jièzhe tā zào de. :: --
     All things were made by him; and without him was not any thing made that was made. :: --
-  造 {{cmn-hanzi|pin=[[zào]] ([[zao4]])|wg=tsao<sup>4</sup>}} :: {defn}
-===㒀===
-  (Cantonese) 㒀 {{yue-hanzi|jyut=|y=chim4, chip3 jak6}} :: {defn}
-  㒀 {{cmn-hanzi|pin=[[zhǎ]] ([[zha3]])|wg=cha<sup>3</sup>}} :: {defn}
-===㔊===
-  (Cantonese) 㔊 {{yue-hanzi|jyut=|y=tan2}} :: {defn}
-  㔊 {{cmn-hanzi|pin=[[dǎn]] ([[dan3]])|wg=tan<sup>3</sup>}} :: {defn}
-===章===
-  (Cantonese) 章 {{yue-hanzi|jyut=|y=jeung1}} :: {defn}
-  章 {{cmn-hanzi|pin=[[zhāng]] ([[zhang1]])|wg=chang<sup>1</sup>}} :: {defn}
-===㑿===
-  (Cantonese) 㑿 {{yue-hanzi|jyut=|y=cheuk3, huk6 jau3 jiu6}} :: {defn}
-  㑿 {{cmn-hanzi|pin=[[tiáo]] ([[tiao2]]), [[zhào]] ([[zhao4]])|wg=t'iao<sup>2</sup>, chao<sup>4</sup>}} :: {defn}
 ===这===
   NB {{cmn-adj|p|pint=nb}} :: {{slang|skey=nb}} fucking awesome
     他小說寫的太NB了。 (trad.) :: --
@@ -1521,14 +763,7 @@ Index: zh zh->en
     哥们儿，别傻说，美国比英国NB，美国是超级大国！ (simp.) :: Dude, don't talk shit. America's heaps stronger than Britain - U.S.A. is the superpower!
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
-===㐱===
-  (Cantonese) 㐱 {{yue-hanzi|jyut=|y=cha5, chaan2 dou3 jaan2}} :: {defn}
-  㐱 {{cmn-hanzi|pin=[[zhěn]] ([[zhen3]])|wg=chen<sup>3</sup>}} :: {defn}
-===㓄===
-  (Cantonese) 㓄 {{yue-hanzi|jyut=|y=jaam3, saam2}} :: {defn}
-  㓄 {{cmn-hanzi|pin=[[zhèn]] ([[zhen4]])|wg=chen<sup>4</sup>}} :: {defn}
 ===中===
-  (Cantonese) 中 {{yue-hanzi|jyut=|y=jung1, jung3}} :: {defn}
   中 {{cmn-prep|ts|pin=zhōng|pint=zhong1|rs=丨03}} :: In the middle.
   中 {{cmn-verb|ts|pin=zhòng|pint=zhong4|rs=丨03}} :: To accomplish.
 ===中国===
@@ -1588,75 +823,16 @@ Index: zh zh->en
     tā xiànzài Zhōngguó lǚxíng :: He's travelling around China right now.
     你喜歡中國文學嗎？ :: --
     nǐ xǐhuān zhōngguó wénxué ma? :: Do you like Chinese literature?
-===㑇===
-  (Cantonese) 㑇 {{yue-hanzi|jyut=|y=jaau3}} :: {defn}
-  㑇 {{cmn-hanzi|pin=[[zhòu]] ([[zhou4]])|wg=chou<sup>4</sup>}} :: {defn}
-===㑳===
-  (Cantonese) 㑳 {{yue-hanzi|jyut=|y=jaau3}} :: {defn}
-  㑳 {{cmn-hanzi|pin=[[zhòu]] ([[zhou4]])|wg=chou<sup>4</sup>}} :: {defn}
 ===丶===
-  (Cantonese) 丶 {{yue-hanzi|jyut=|y=[[jyu2]]}} :: {defn}
   丶 {{cmn-hanzi|pin=[[zhǔ]] ([[zhu3]])|wg=[[chu3|chu<sup>3</sup>]]}} :: dot stroke, usually said as {{zh-tsp|點|点|diǎn}}
-===㑏===
-  (Cantonese) 㑏 {{yue-hanzi|jyut=|y=chyu5, jyu2}} :: {defn}
-  㑏 {{cmn-hanzi|pin=[[zhù]] ([[zhu4]])|wg=chu<sup>4</sup>}} :: {defn}
-===㔉===
-  (Cantonese) 㔉 {{yue-hanzi|jyut=|y=chung2, juk1}} :: {defn}
-  㔉 {{cmn-hanzi|pin=[[zhú]] ([[zhu2]])|wg=chu<sup>2</sup>}} :: {defn}
-===㑁===
-  (Cantonese) 㑁 {{yue-hanzi|jyut=|y=jyut3, jyut6}} :: {defn}
-===㒂===
-  (Cantonese) 㒂 {{yue-hanzi|jyut=|y=jeuk6}} :: {defn}
-  㒂 {{cmn-hanzi|pin=[[kù]] ([[ku4]]), [[zhuó]] ([[zhuo2]])|wg=k'u<sup>4</sup>, cho<sup>2</sup>}} :: {defn}
-===㓸===
-  (Cantonese) 㓸 {{yue-hanzi|jyut=|y=cheuk3, jeuk3 sau2}} :: {defn}
-  㓸 {{cmn-hanzi|pin=[[jué]] ([[jue2]]), [[zhuó]] ([[zhuo2]])|wg=chüeh<sup>2</sup>, cho<sup>2</sup>}} :: {defn}
 ===子宫===
   子宫 {{cmn-noun|s|pin=zǐgōng|pint=zi3gong1|tra=子宮|sim=子宫|rs=子00}} :: womb, uterus
   子宫 {{cmn-noun|s|pin=zǐgōng|pint=zi3gong1|tra=子宮|sim=子宫|rs=子00}} :: uterine
-===㔌===
-  (Cantonese) 㔌 {{yue-hanzi|jyut=|y=jap3, jau6 jek3 jik3 sei3 tam3}} :: {defn}
-  㔌 {{cmn-hanzi|pin=[[zhòu]] ([[zhou4]])|wg=chou<sup>4</sup>}} :: {defn}
-===最===
-  (Cantonese) 最 {{yue-hanzi|jyut=|y=jeui3}} :: {defn}
-  最 {{cmn-hanzi|pin=[[zuì]] ([[zui4]])|wg=tsui<sup>4</sup>}} :: {defn}
 ===最近===
   最近 {{cmn-adv|ts|pin=zuìjìn|pint=zui4jin4|rs=曰08}} :: {{Beginning Mandarin|skey=曰08}} recently; lately
 ===zuò===
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
-===㑅===
-  (Cantonese) 㑅 {{yue-hanzi|jyut=|y=jok3, jok6}} :: {defn}
-  㑅 {{cmn-hanzi|pin=[[zuò]] ([[zuo4]])|wg=tso<sup>4</sup>}} :: {defn}
-===㑴===
-  (Cantonese) 㑴 {{yue-hanzi|jyut=|y=chaam1, cham1}} :: {defn}
-===㒋===
-  (Cantonese) 㒋 {{yue-hanzi|jyut=|y=si1}} :: {defn}
-===㒨===
-  (Cantonese) 㒨 {{yue-hanzi|jyut=|y=sin1}} :: {defn}
-===㒪===
-  (Cantonese) 㒪 {{yue-hanzi|jyut=|y=sek3}} :: {defn}
-===㒭===
-  (Cantonese) 㒭 {{yue-hanzi|jyut=|y=kwaan1, kwaan1 leui4}} :: {defn}
-===㒶===
-  (Cantonese) 㒶 {{yue-hanzi|jyut=|y=gung1}} :: {defn}
-===㒹===
-  (Cantonese) 㒹 {{yue-hanzi|jyut=|y=din1}} :: {defn}
-===㓙===
-  (Cantonese) 㓙 {{yue-hanzi|jyut=|y=hung1, kung4}} :: {defn}
-===㓛===
-  (Cantonese) 㓛 {{yue-hanzi|jyut=|y=gung1}} :: {defn}
-===㓬===
-  (Cantonese) 㓬 {{yue-hanzi|jyut=|y=fu1}} :: {defn}
-===㓮===
-  (Cantonese) 㓮 {{yue-hanzi|jyut=|y=diu1}} :: {defn}
-===㓻===
-  (Cantonese) 㓻 {{yue-hanzi|jyut=|y=gong1}} :: {defn}
-===㔇===
-  (Cantonese) 㔇 {{yue-hanzi|jyut=|y=put3}} :: {defn}
-===㔐===
-  (Cantonese) 㔐 {{yue-hanzi|jyut=|y=chim1}} :: {defn}
 
 Index: en en->zh
 ===1===
@@ -1697,8 +873,7 @@ Index: en en->zh
 ===ancient===
   书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: an ancient government post in charge of secretarial duties
 ===And===
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===archaic===
   円 (yuán) :: archaic form of 圆
@@ -1738,8 +913,7 @@ Index: en en->zh
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===beguiled===
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===Beijing===
   京都 {{cmn-noun|ts|pin=jīngdū|pint=jing1du1|rs=亠06}} :: capital (most often refers to Beijing)
@@ -1905,12 +1079,11 @@ Index: en en->zh
 ===deal===
   位置 {{cmn-verb|ts|pin=wèizhì|pint=wei4zhi4|rs=人05}} :: to deal with, to arrange for
 ===degree===
-  乙 {{cmn-hanzi|pin=[[niè]] ([[nie4]]), [[yǐ]] ([[yi3]])|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: {defn} the seventh scale degree in gongche musical notation
+  乙 {{cmn-hanzi|pin=[[niè]] ([[nie4]]), [[yǐ]] ([[yi3]])|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: the seventh scale degree in gongche musical notation
 ===deity===
   (Cantonese) 神 {{yue-hanzi|jyut=|y=san4}} :: god, supernatural (spiritual) deity
 ===did===
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===Do===
   中国 {{cmn-proper noun|s|pin=Zhōngguó|pint=zhong1guo2|tra=中國|sim=中国|rs=丨03}} :: China
@@ -1948,8 +1121,7 @@ Index: en en->zh
     你干吗不喝点酒? (simp.) :: --
     Nǐ gànmá bù hē diǎn jiǔ? :: Why don't you have a drink [of alcohol]?
 ===done===
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===dot===
   丶 {{cmn-hanzi|pin=[[zhǔ]] ([[zhu3]])|wg=[[chu3|chu<sup>3</sup>]]}} :: dot stroke, usually said as {{zh-tsp|點|点|diǎn}}
@@ -1981,13 +1153,12 @@ Index: en en->zh
 ===eastward===
   東 {{cmn-noun|t|pin=dōng|pint=dong1|sim=东|rs=木04}} :: east, eastern, eastward
 ===eat===
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===edict===
   书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: imperial edict
 ===eight===
-  八 {{cmn-car-num|ts|pin=bā|pint=ba1|rs=八00}} :: {{Beginning Mandarin|skey=八00}} eight
+  八 {{cmn-car-num|ts|pin=bā|pint=ba1|rs=八00}} :: {{Beginning Mandarin|script=traditional|script2=simplified|skey=八00|skey2=ba1}} eight
 ===elephant===
   象 {{cmn-noun|ts|pin=xiàng|pint=xiang4|rs=豕05}} :: elephant
   象 {{cmn-noun|ts|pin=xiàng|pint=xiang4|rs=豕05}} :: (Chinese Chess) elephant
@@ -2018,7 +1189,7 @@ Index: en en->zh
 ===five===
   五 {{cmn-car-num|ts|pin=wǔ|pint=wu3|rs=二02}} :: five
 ===fond===
-  愛 {{cmn-verb|t|pin=ài|pint=ai4|tra=愛|sim=爱|rs=心09}} :: {{Beginning Mandarin|skey=心09}} to love; to be fond of
+  愛 {{cmn-verb|t|pin=ài|pint=ai4|tra=愛|sim=爱|rs=心09}} :: {{Beginning Mandarin|script=traditional|skey=心09}} to love; to be fond of
 ===four===
   四 {{cmn-car-num|ts|pin=sì|pint=si4|rs=囗02}} :: four
 ===fourth===
@@ -2060,8 +1231,7 @@ Index: en en->zh
     神说，要有光，就有了光。 :: --
     Shén shuō, yào yǒu guāng, jiù yǒu le guāng. :: --
     God said, Let there be light: and there was light. :: --
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===goddess===
   女神 {{cmn-noun|ts|pin=nǚshén|pint=nv3shen2|rs=女00}} :: goddess
@@ -2074,19 +1244,20 @@ Index: en en->zh
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===gongche===
-  乙 {{cmn-hanzi|pin=[[niè]] ([[nie4]]), [[yǐ]] ([[yi3]])|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: {defn} the seventh scale degree in gongche musical notation
+  乙 {{cmn-hanzi|pin=[[niè]] ([[nie4]]), [[yǐ]] ([[yi3]])|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: the seventh scale degree in gongche musical notation
 ===government===
   朝 {{cmn-noun|ts|pin=cháo|pint=chao2|rs=月08}} :: the court; the government
   书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: an ancient government post in charge of secretarial duties
 ===grass===
   青 {{cmn-hanzi|pin=[[qīng]] ([[qing1]])|wg=ch'ing<sup>1</sup>}} :: green; if about grass, plants, mountain etc.
+===gravitation===
+  引力 {{cmn-noun|ts|pin=yǐnlì|pint=yin3li4|rs=弓01}} :: gravitation
 ===green===
   青 {{cmn-hanzi|pin=[[qīng]] ([[qing1]])|wg=ch'ing<sup>1</sup>}} :: green; if about grass, plants, mountain etc.
 ===hair===
   青 {{cmn-hanzi|pin=[[qīng]] ([[qing1]])|wg=ch'ing<sup>1</sup>}} :: black; if about hair, cloth etc.
 ===hast===
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===have===
   酒 {{cmn-noun|ts|pin=jiǔ|pint=jiu3|rs=酉03}} :: Wine, spirits, liquor, alcoholic beverage
@@ -2132,8 +1303,8 @@ Index: en en->zh
   亅 {{cmn-hanzi|pin=[[jué]] ([[jue2]])|wg=chüeh<sup>2</sup>}} :: A vertical line with a hook, usually read as 竖勾 (shùgōu).
 ===Hua===
   一 {{cmn-car-num|ts|pin=yī|pint=yi1|rs=一00}} :: Wubi Hua: 1
-===human===
-  men (suffix), traditional: 們, simplified: 们 :: plural for pronouns and human nouns
+===hundred===
+  百 {{cmn-car-num|ts|pin=bǎi|pint=bai3|rs=百00}} :: hundred
 ===if===
   青 {{cmn-hanzi|pin=[[qīng]] ([[qing1]])|wg=ch'ing<sup>1</sup>}} :: green; if about grass, plants, mountain etc.
   青 {{cmn-hanzi|pin=[[qīng]] ([[qing1]])|wg=ch'ing<sup>1</sup>}} :: blue; if about the sky, a stone etc.
@@ -2218,13 +1389,12 @@ Index: en en->zh
 ===location===
   位置 {{cmn-noun|ts|pin=wèizhi|pint=wei4zhi|rs=人05}} :: location; position; place
 ===LORD===
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===love===
   (Cantonese) 愛 {{yue-hanzi|jyut=oi3|y=ngoi3, oi3|sim=爱}} :: love
-  愛 {{cmn-noun|t|pin=ài|pint=ai4|tra=愛|sim=爱|rs=心09}} :: {{Beginning Mandarin|skey=心09}} love
-  愛 {{cmn-verb|t|pin=ài|pint=ai4|tra=愛|sim=爱|rs=心09}} :: {{Beginning Mandarin|skey=心09}} to love; to be fond of
+  愛 {{cmn-noun|t|pin=ài|pint=ai4|tra=愛|sim=爱|rs=心09}} :: {{Beginning Mandarin|script=traditional|skey=心09}} love
+  愛 {{cmn-verb|t|pin=ài|pint=ai4|tra=愛|sim=爱|rs=心09}} :: {{Beginning Mandarin|script=traditional|skey=心09}} to love; to be fond of
 ===ma===
   OK (adjective) :: all right
     [http://books.google.co.uk/books?id=iMpJGrutbcYC&pg=PA90&dq=%22OK%E5%90%97%22&hl=en&ei=VPqJTuWrIomgOo3dhdUB&sa=X&oi=book_result&ct=result&resnum=1&ved=0CC0Q6AEwAA#v=onepage&q=%22OK%E5%90%97%22&f=false 11樓 - Page 90] :: --
@@ -2255,8 +1425,7 @@ Index: en en->zh
   中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese spoken language 普通话/Pǔtōnghuà/Standard Mandarin.
     nǐ shuō zhōngwén ma? "Do you speak Chinese?" :: --
 ===me===
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===meaning===
   氵 {{cmn-hanzi|pin=[[shuǐ]] ([[shui3]])|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
@@ -2298,7 +1467,7 @@ Index: en en->zh
 ===mountain===
   青 {{cmn-hanzi|pin=[[qīng]] ([[qing1]])|wg=ch'ing<sup>1</sup>}} :: green; if about grass, plants, mountain etc.
 ===musical===
-  乙 {{cmn-hanzi|pin=[[niè]] ([[nie4]]), [[yǐ]] ([[yi3]])|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: {defn} the seventh scale degree in gongche musical notation
+  乙 {{cmn-hanzi|pin=[[niè]] ([[nie4]]), [[yǐ]] ([[yi3]])|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: the seventh scale degree in gongche musical notation
   四 {{cmn-noun|ts|pin=sì|pint=si4|rs=囗02}} :: (musical note) la
 ===myriad===
   万 {{cmn-num|tra=萬|pin=wàn|pint=wan4|rs=一02}} :: a very large number, myriad
@@ -2309,11 +1478,9 @@ Index: en en->zh
 ===no===
   氵 {{cmn-hanzi|pin=[[shuǐ]] ([[shui3]])|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
 ===notation===
-  乙 {{cmn-hanzi|pin=[[niè]] ([[nie4]]), [[yǐ]] ([[yi3]])|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: {defn} the seventh scale degree in gongche musical notation
+  乙 {{cmn-hanzi|pin=[[niè]] ([[nie4]]), [[yǐ]] ([[yi3]])|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: the seventh scale degree in gongche musical notation
 ===note===
   四 {{cmn-noun|ts|pin=sì|pint=si4|rs=囗02}} :: (musical note) la
-===nouns===
-  men (suffix), traditional: 們, simplified: 们 :: plural for pronouns and human nouns
 ===novels===
   NB {{cmn-adj|p|pint=nb}} :: {{slang|skey=nb}} fucking awesome
     他小說寫的太NB了。 (trad.) :: --
@@ -2405,8 +1572,6 @@ Index: en en->zh
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===printed===
   书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: form of a written or printed character;script
-===pronouns===
-  men (suffix), traditional: 們, simplified: 们 :: plural for pronouns and human nouns
 ===普通话===
   中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese spoken language 普通话/Pǔtōnghuà/Standard Mandarin.
     nǐ shuō zhōngwén ma? "Do you speak Chinese?" :: --
@@ -2476,15 +1641,14 @@ Index: en en->zh
   安全 {{cmn-noun|ts|pin=ānquán|pint=an1quan2|rs=宀03}} :: {{Elementary Mandarin|skey=宀03}} safety; security
 ===said===
   丶 {{cmn-hanzi|pin=[[zhǔ]] ([[zhu3]])|wg=[[chu3|chu<sup>3</sup>]]}} :: dot stroke, usually said as {{zh-tsp|點|点|diǎn}}
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===三点水===
   氵 {{cmn-hanzi|pin=[[shuǐ]] ([[shui3]])|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
 ===sāndiǎnshuǐ===
   氵 {{cmn-hanzi|pin=[[shuǐ]] ([[shui3]])|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
 ===scale===
-  乙 {{cmn-hanzi|pin=[[niè]] ([[nie4]]), [[yǐ]] ([[yi3]])|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: {defn} the seventh scale degree in gongche musical notation
+  乙 {{cmn-hanzi|pin=[[niè]] ([[nie4]]), [[yǐ]] ([[yi3]])|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: the seventh scale degree in gongche musical notation
 ===script===
   书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: form of a written or printed character;script
 ===secretarial===
@@ -2496,14 +1660,13 @@ Index: en en->zh
   (Cantonese) 安全 {{yue-noun|ts|jyut=on1cyun4}} :: safety, security
   安全 {{cmn-noun|ts|pin=ānquán|pint=an1quan2|rs=宀03}} :: {{Elementary Mandarin|skey=宀03}} safety; security
 ===serpent===
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===seven===
   (Cantonese) chat (cardinal number), Han spelling: {{l|yue|七|sc=Hani}} :: seven
   七 {{cmn-hanzi|pin=[[qī]] ([[qi1]]), [[shǎng]] ([[shang3]])|wg=ch'i<sup>1</sup>, shang<sup>3</sup>}} :: seven
 ===seventh===
-  乙 {{cmn-hanzi|pin=[[niè]] ([[nie4]]), [[yǐ]] ([[yi3]])|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: {defn} the seventh scale degree in gongche musical notation
+  乙 {{cmn-hanzi|pin=[[niè]] ([[nie4]]), [[yǐ]] ([[yi3]])|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: the seventh scale degree in gongche musical notation
 ===shit===
   NB {{cmn-adj|p|pint=nb}} :: {{slang|skey=nb}} fucking awesome
     他小說寫的太NB了。 (trad.) :: --
@@ -2614,6 +1777,7 @@ Index: en en->zh
 ===Tang===
   二 {{cmn-hanzi|pin=[[èr]] ([[er4]])|wg=[[erh4|erh<sup>4</sup>]]}} :: Tang: nji3
 ===ten===
+  十 {{cmn-car-num|ts|pin=shí|pint=shi2|rs=十00}} :: ten
   万 {{cmn-num|tra=萬|pin=wàn|pint=wan4|rs=一02}} :: ten thousand
   丁 {{cmn-noun|ts|pin=dīng|pint=ding1|rs= 一01}} :: the fourth of the ten Heavenly stems
 ===than===
@@ -2625,8 +1789,7 @@ Index: en en->zh
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===this===
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===This===
   NB {{cmn-adj|p|pint=nb}} :: {{slang|skey=nb}} fucking awesome
@@ -2637,8 +1800,7 @@ Index: en en->zh
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===thou===
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===thousand===
   万 {{cmn-num|tra=萬|pin=wàn|pint=wan4|rs=一02}} :: ten thousand
@@ -2654,7 +1816,7 @@ Index: en en->zh
 ===Tokyo===
   東京 {{cmn-proper noun|t|pin=Dōngjīng|pint=dong1jing1|tra=東京|sim=东京|rs=木04}} :: Tokyo
 ===tomorrow===
-  (Cantonese) 明日 {{yue-hanzi|jyut=|y=ming4 yat6}} :: {defn} tomorrow
+  (Cantonese) 明日 {{yue-hanzi|jyut=|y=ming4 yat6}} :: tomorrow
   明日 {{cmn-noun|ts|pin=míngrì|pint=ming2ri4|rs=日04}} :: {{literary|script=traditional|script2=simplified|skey=日04|skey2=ming2ri4}} tomorrow
 ===travelling===
   中国 {{cmn-proper noun|s|pin=Zhōngguó|pint=zhong1guo2|tra=中國|sim=中国|rs=丨03}} :: China
@@ -2683,8 +1845,7 @@ Index: en en->zh
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===unto===
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===used===
   氵 {{cmn-hanzi|pin=[[shuǐ]] ([[shui3]])|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
@@ -2719,8 +1880,7 @@ Index: en en->zh
 ===Western===
   西 {{cmn-noun|ts|pin=xī|pint=xī|rs=西00}} :: Western; occidental
 ===What===
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===wheel===
   轮子 {{cmn-noun|s|pin=lúnzi|pint=lun2zi|tra=輪子|sim=轮子|rs=车04}} :: {{Intermediate Mandarin|skey=lun2zi}} wheel
@@ -2737,8 +1897,7 @@ Index: en en->zh
     你干吗不喝点酒? (simp.) :: --
     Nǐ gànmá bù hē diǎn jiǔ? :: Why don't you have a drink [of alcohol]?
 ===woman===
-  蛇 {{cmn-hanzi|pin=[[chí]] ([[chi2]]), [[shé]] ([[she2]]), [[tuó]] ([[tuo2]]), [[yí]] ([[yi2]])|wg=[[ch'ih2|ch'ih<sup>2</sup>]], [[she2|she<sup>2</sup>]], [[t'o2|t'o<sup>2</sup>]], [[i2|i<sup>2</sup>]]}} :: {defn}
-    耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
+  耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===womb===
   子宫 {{cmn-noun|s|pin=zǐgōng|pint=zi3gong1|tra=子宮|sim=子宫|rs=子00}} :: womb, uterus

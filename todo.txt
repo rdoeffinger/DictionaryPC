@@ -24,6 +24,9 @@ Handle other sections:
   Chinese: handle "Compounds" section
 {{count page|[[Wiktionary:Page count]]}}
 
+{{gloss|money and wealth}}
+it_it: gossip {m} (noun), inv
+
 Bad filing: under Arab?
 ===Arab===
   جميل {m} (tr. jamiil) (adjective), feminine singular and inanimate plural: {{Arab|[[جميلة]]}}, masculine plural: {{Arab|[[جمال]]}}, feminine plural: {{Arab|[[جميلات]]}} :: beautiful
