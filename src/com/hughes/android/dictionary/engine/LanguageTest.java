@@ -121,9 +121,22 @@ public class LanguageTest extends TestCase {
     assertEquals("kyanpasu", transliterator.transliterate("キャンパス"));
     assertEquals("alphabetikos katalogos", transliterator.transliterate("Αλφαβητικός Κατάλογος"));
     assertEquals("biologiceskom", transliterator.transliterate("биологическом"));
-
-    
   }
+  public void testHalfTextNorm() {
+    final Transliterator transliterator = Transliterator.createFromRules("", ":: Any-Latin; ' ' > ; :: Lower; ", Transliterator.FORWARD);
+    assertEquals("kyanpasu", transliterator.transliterate("キャンパス"));
+    assertEquals("alphabētikóskatálogos", transliterator.transliterate("Αλφαβητικός Κατάλογος"));
+    assertEquals("biologičeskom", transliterator.transliterate("биологическом"));
+
+    assertEquals("xièxiè", transliterator.transliterate("謝謝"));
+    assertEquals("xièxiè", transliterator.transliterate("谢谢"));
+
+    assertEquals("diànnǎo", transliterator.transliterate("電腦"));
+    assertEquals("diànnǎo", transliterator.transliterate("电脑"));
+    assertEquals("jìsuànjī", transliterator.transliterate("計算機"));
+    assertEquals("jìsuànjī", transliterator.transliterate("计算机"));
+  }
+
   
   public void testChinese() {
     final Language zh = Language.lookup("zh");
