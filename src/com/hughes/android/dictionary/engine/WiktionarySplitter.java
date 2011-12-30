@@ -22,6 +22,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -80,54 +81,9 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
     }
 
     if (selectors.isEmpty()) {
-      selectors.addAll(Arrays.asList(
-          new Selector("data/inputs/enWikiSplit/AF.data", ".*[Aa]frikaans.*"),
-          new Selector("data/inputs/enWikiSplit/AR.data", ".*[Aa]rabic.*"),
-          new Selector("data/inputs/enWikiSplit/HY.data", ".*[Aa]rmenian.*"),
-          new Selector("data/inputs/enWikiSplit/HR.data", ".*[Cc]roatian.*"),
-          new Selector("data/inputs/enWikiSplit/CS.data", ".*[Cc]zech.*"),
-          new Selector("data/inputs/enWikiSplit/ZH.data", ".*[Cc]hinese.*|.*[Mm]andarin.*|.*Cantonese.*"),
-          new Selector("data/inputs/enWikiSplit/DA.data", ".*[Dd]anish.*"),
-          new Selector("data/inputs/enWikiSplit/NL.data", ".*[Dd]utch.*"),
-          new Selector("data/inputs/enWikiSplit/EN.data", ".*[Ee]nglish.*"),
-          new Selector("data/inputs/enWikiSplit/FI.data", ".*[Ff]innish.*"),
-          new Selector("data/inputs/enWikiSplit/FR.data", ".*[Ff]rench.*"),
-          new Selector("data/inputs/enWikiSplit/DE.data", ".*[Gg]erman.*"),
-          new Selector("data/inputs/enWikiSplit/EL.data", ".*[Gg]reek.*"),
-          new Selector("data/inputs/enWikiSplit/haw.data", ".*[Hh]awaiian.*"),
-          new Selector("data/inputs/enWikiSplit/HE.data", ".*[Hh]ebrew.*"),
-          new Selector("data/inputs/enWikiSplit/HI.data", ".*[Hh]indi.*"),
-          new Selector("data/inputs/enWikiSplit/IS.data", ".*[Ii]celandic.*"),
-          new Selector("data/inputs/enWikiSplit/GA.data", ".*[Ii]rish.*"),
-          new Selector("data/inputs/enWikiSplit/IT.data", ".*[Ii]talian.*"),
-          new Selector("data/inputs/enWikiSplit/LT.data", ".*[Ll]ithuanian.*"),
-          new Selector("data/inputs/enWikiSplit/JA.data", ".*[Jj]apanese.*"),
-          new Selector("data/inputs/enWikiSplit/KO.data", ".*[Kk]orean.*"),
-          new Selector("data/inputs/enWikiSplit/KU.data", ".*[Kk]urdish.*"),
-          new Selector("data/inputs/enWikiSplit/MS.data", ".*[Mm]alay.*"),
-          new Selector("data/inputs/enWikiSplit/MI.data", ".*[Mm]aori.*"),
-          new Selector("data/inputs/enWikiSplit/MN.data", ".*[Mm]ongolian.*"),
-          new Selector("data/inputs/enWikiSplit/NO.data", ".*[Nn]orwegian.*"),
-          new Selector("data/inputs/enWikiSplit/FA.data", ".*[Pp]ersian.*"),
-          new Selector("data/inputs/enWikiSplit/PT.data", ".*[Pp]ortuguese.*"),
-          new Selector("data/inputs/enWikiSplit/PL.data", ".*[Pp]olish.*"),
-          new Selector("data/inputs/enWikiSplit/RO.data", ".*[Rr]omanian.*"),
-          new Selector("data/inputs/enWikiSplit/RU.data", ".*[Rr]ussian.*"),
-          new Selector("data/inputs/enWikiSplit/SA.data", ".*[Ss]anskrit.*"),
-          new Selector("data/inputs/enWikiSplit/SR.data", ".*[Ss]erbian.*"),
-          new Selector("data/inputs/enWikiSplit/SO.data", ".*[Ss]omali.*"),
-          new Selector("data/inputs/enWikiSplit/ES.data", ".*[Ss]panish.*"),
-          new Selector("data/inputs/enWikiSplit/SV.data", ".*[Ss]wedish.*"),
-          new Selector("data/inputs/enWikiSplit/TG.data", ".*[Tt]ajik.*"),
-          new Selector("data/inputs/enWikiSplit/TH.data", ".*[Tt]hai.*"),
-          new Selector("data/inputs/enWikiSplit/BO.data", ".*[Tt]ibetan.*"),
-          new Selector("data/inputs/enWikiSplit/TR.data", ".*[Tt]urkish.*"),
-          new Selector("data/inputs/enWikiSplit/UK.data", ".*[Uu]krainian.*"),
-          new Selector("data/inputs/enWikiSplit/VI.data", ".*[Vv]ietnamese.*"),
-          new Selector("data/inputs/enWikiSplit/CI.data", ".*[Ww]elsh.*"),
-          new Selector("data/inputs/enWikiSplit/YI.data", ".*[Yy]iddish.*"),
-          new Selector("data/inputs/enWikiSplit/ZU.data", ".*[Zz]ulu.*")
-          ));
+      for (final Map.Entry<String, String> entry : Language.isoCodeToWikiName.entrySet()) {
+        selectors.add(new Selector(String.format("data/inputs/enWikiSplit/%s.data", entry.getKey()), entry.getValue()));
+      }
     }
     
     // Do it.

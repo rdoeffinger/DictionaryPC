@@ -1,4 +1,11 @@
+For next release:
+refactor wiki parsing.
 random word jump
+multiword find.
+dictionary update.
+{{Arab}}
+???italian verbs
+
 pronunciation
 synonyms
 move dict to top of list when downloaded

@@ -254,7 +254,7 @@ public class EnWiktionaryXmlParser {
         
       } else if (wikiTokenizer.remainderStartsWith("''See''")) {
         wikiTokenizer.nextLine();
-        LOG.fine("Skipping line: " + wikiTokenizer.token());
+        LOG.fine("Skipping See line: " + wikiTokenizer.token());
       } else if (wikiTokenizer.isWikiLink()) {
         final String wikiLink = wikiTokenizer.wikiLinkText();
         if (wikiLink.contains(":") && wikiLink.contains(title)) {
@@ -287,24 +287,28 @@ public class EnWiktionaryXmlParser {
   }
   
   
-  static final class Callback implements WikiTokenizer.Callback {
-    public Callback(IndexedEntry indexedEntry, IndexBuilder defaultIndexBuilder,
-        StringBuilder builder, Map<String, WikiFunctionCallback> functionCallbacks) {
+  static final class AppendAndIndexCallback implements WikiTokenizer.Callback {
+    public AppendAndIndexCallback(
+        final StringBuilder builder, 
+        final IndexedEntry indexedEntry,
+        final IndexBuilder defaultIndexBuilder,
+        final Map<String, WikiFunctionCallback> functionCallbacks) {
       this.indexedEntry = indexedEntry;
       this.defaultIndexBuilder = defaultIndexBuilder;
       this.builder = builder;
       this.functionCallbacks = functionCallbacks;
     }
 
-    final IndexedEntry indexedEntry;
-    final IndexBuilder defaultIndexBuilder;
     final StringBuilder builder;
+    final IndexedEntry indexedEntry;
+    IndexBuilder defaultIndexBuilder;
     final Map<String,WikiFunctionCallback> functionCallbacks;
     
     // TODO: the classes of text are wrong....
     
     @Override
     public void onPlainText(WikiTokenizer wikiTokenizer) {
+      // The only non-recursive callback.  Just appends to the builder, and
       final String plainText = wikiTokenizer.token(); 
       builder.append(plainText);
       defaultIndexBuilder.addEntryWithString(indexedEntry, plainText, EntryTypeName.WIKTIONARY_TRANSLATION_OTHER_TEXT);
@@ -319,8 +323,22 @@ public class EnWiktionaryXmlParser {
     }
 
     @Override
-    public void onFunction(String functionName,
-        List<String> functionPositionArgs, Map<String, String> functionNamedArgs) {
+    public void onFunction(final String name,
+        final List<String> args, final Map<String, String> namedArgs) {
+      final WikiFunctionCallback functionCallback = functionCallbacks.get(name);
+      if (functionCallback != null) {
+        // Dispatch the handling elsewhere.
+        functionCallback.onWikiFunction(name, args, namedArgs);
+      } else {
+        // Default function handling:
+        for (int i = 0; i < args.size(); ++i) {
+          args.set(i, WikiTokenizer.toPlainText(args.get(i)));
+        }
+        for (final Map.Entry<String, String> entry : namedArgs.entrySet()) {
+          entry.setValue(WikiTokenizer.toPlainText(entry.getValue()));
+        }
+        WikiTokenizer.appendFunction(builder, name, args, namedArgs);
+      }
     }
 
     @Override
