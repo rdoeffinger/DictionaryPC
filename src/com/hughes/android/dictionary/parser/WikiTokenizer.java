@@ -23,7 +23,7 @@ import java.util.regex.Pattern;
 
 public final class WikiTokenizer {
   
-  static interface Callback {
+  public static interface Callback {
     void onPlainText(WikiTokenizer wikiTokenizer);
     void onMarkup(WikiTokenizer wikiTokenizer);
     void onWikiLink(WikiTokenizer wikiTokenizer);

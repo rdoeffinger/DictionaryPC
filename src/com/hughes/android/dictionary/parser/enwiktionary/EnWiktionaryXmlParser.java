@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-package com.hughes.android.dictionary.parser;
+package com.hughes.android.dictionary.parser.enwiktionary;
 
 import java.io.BufferedInputStream;
 import java.io.DataInputStream;
@@ -35,6 +35,7 @@ import com.hughes.android.dictionary.engine.IndexBuilder;
 import com.hughes.android.dictionary.engine.IndexedEntry;
 import com.hughes.android.dictionary.engine.PairEntry;
 import com.hughes.android.dictionary.engine.PairEntry.Pair;
+import com.hughes.android.dictionary.parser.WikiTokenizer;
 
 public class EnWiktionaryXmlParser {
   
@@ -156,6 +157,11 @@ public class EnWiktionaryXmlParser {
         } else if (headerName.equals("Pronunciation")) {
           //doPronunciation(wikiLineReader);
         }
+      } else if (wikiTokenizer.isFunction()) {
+        final String name = wikiTokenizer.functionName();
+        if (name.equals("head")) {
+          LOG.warning("{{head}} without POS: " + title);
+        }
       }
     }
   }
@@ -274,99 +280,6 @@ public class EnWiktionaryXmlParser {
     }
   }
   
-  private static <T> T get(final List<T> list, final int index, final T defaultValue) {
-    return index < list.size() ? list.get(index) : defaultValue;
-  }
-
-  private static <T> T get(final List<T> list, final int index) {
-    return get(list, index, null);
-  }
-
-  private static <T> T remove(final List<T> list, final int index, final T defaultValue) {
-    return index < list.size() ? list.remove(index) : defaultValue;
-  }
-  
-  
-  static final class AppendAndIndexCallback implements WikiTokenizer.Callback {
-    public AppendAndIndexCallback(
-        final StringBuilder builder, 
-        final IndexedEntry indexedEntry,
-        final IndexBuilder defaultIndexBuilder,
-        final Map<String, WikiFunctionCallback> functionCallbacks) {
-      this.indexedEntry = indexedEntry;
-      this.defaultIndexBuilder = defaultIndexBuilder;
-      this.builder = builder;
-      this.functionCallbacks = functionCallbacks;
-    }
-
-    final StringBuilder builder;
-    final IndexedEntry indexedEntry;
-    IndexBuilder defaultIndexBuilder;
-    final Map<String,WikiFunctionCallback> functionCallbacks;
-    
-    // TODO: the classes of text are wrong....
-    
-    @Override
-    public void onPlainText(WikiTokenizer wikiTokenizer) {
-      // The only non-recursive callback.  Just appends to the builder, and
-      final String plainText = wikiTokenizer.token(); 
-      builder.append(plainText);
-      defaultIndexBuilder.addEntryWithString(indexedEntry, plainText, EntryTypeName.WIKTIONARY_TRANSLATION_OTHER_TEXT);
-    }
-
-    @Override
-    public void onWikiLink(WikiTokenizer wikiTokenizer) {
-      final String plainText = wikiTokenizer.wikiLinkText(); 
-      builder.append(plainText);
-      // TODO: should check for English before appending.
-      defaultIndexBuilder.addEntryWithString(indexedEntry, plainText, EntryTypeName.WIKTIONARY_TRANSLATION_WIKI_TEXT);
-    }
-
-    @Override
-    public void onFunction(final String name,
-        final List<String> args, final Map<String, String> namedArgs) {
-      final WikiFunctionCallback functionCallback = functionCallbacks.get(name);
-      if (functionCallback != null) {
-        // Dispatch the handling elsewhere.
-        functionCallback.onWikiFunction(name, args, namedArgs);
-      } else {
-        // Default function handling:
-        for (int i = 0; i < args.size(); ++i) {
-          args.set(i, WikiTokenizer.toPlainText(args.get(i)));
-        }
-        for (final Map.Entry<String, String> entry : namedArgs.entrySet()) {
-          entry.setValue(WikiTokenizer.toPlainText(entry.getValue()));
-        }
-        WikiTokenizer.appendFunction(builder, name, args, namedArgs);
-      }
-    }
-
-    @Override
-    public void onMarkup(WikiTokenizer wikiTokenizer) {
-      // Do nothing.
-    }
-
-    @Override
-    public void onComment(WikiTokenizer wikiTokenizer) {
-      // Do nothing.
-    }
-
-    @Override
-    public void onNewline(WikiTokenizer wikiTokenizer) {
-      assert false;
-    }
-
-    @Override
-    public void onHeading(WikiTokenizer wikiTokenizer) {
-      assert false;
-    }
-
-    @Override
-    public void onListItem(WikiTokenizer wikiTokenizer) {
-      assert false;
-    }
-  }
-
   private void doTranslationLine(final String line, final String lang, final String title, final String pos, final String sense, final String rest) {
     // Good chance we'll actually file this one...
     final PairEntry pairEntry = new PairEntry();
@@ -393,37 +306,7 @@ public class EnWiktionaryXmlParser {
         final Map<String,String> namedArgs = wikiTokenizer.functionNamedArgs();
         
         if (functionName.equals("t") || functionName.equals("t+") || functionName.equals("t-") || functionName.equals("tø") || functionName.equals("apdx-t")) {
-          if (args.size() < 2) {
-            LOG.warning("{{t}} with too few args: " + line + ", title=" + title);
-            continue;
-          }
-          final String langCode = get(args, 0);
-          final String word = get(args, 1);
-          final String gender = get(args, 2);
-          final String transliteration = namedArgs.get("tr");
-          if (foreignText.length() > 0) {
-            foreignText.append("");
-          }
-          foreignText.append(word);
-          foreignIndexBuilder.addEntryWithString(indexedEntry, word, EntryTypeName.WIKTIONARY_TITLE_SINGLE, EntryTypeName.WIKTIONARY_TITLE_MULTI);
-          if (gender != null) {
-            foreignText.append(String.format(" {%s}", gender));
-          }
-          if (transliteration != null) {
-            foreignText.append(String.format(TRANSLITERATION_FORMAT, transliteration));
-            foreignIndexBuilder.addEntryWithString(indexedEntry, transliteration, EntryTypeName.WIKTIONARY_TRANSLITERATION);
-          }
         } else if (functionName.equals("qualifier")) {
-          if (args.size() == 0) {
-           foreignText.append(wikiTokenizer.token()); 
-          } else { 
-            String qualifier = args.get(0);
-            if (!namedArgs.isEmpty() || args.size() > 1) {
-              LOG.warning("weird qualifier: " + line);
-            }
-            // Unindexed!
-            foreignText.append("(").append(qualifier).append(")");
-          }
         } else if (encodings.contains(functionName)) {
           foreignText.append("").append(args.get(0));
           foreignIndexBuilder.addEntryWithString(indexedEntry, args.get(0), EntryTypeName.WIKTIONARY_TRANSLATION_OTHER_TEXT);
@@ -465,7 +348,9 @@ public class EnWiktionaryXmlParser {
       } else {
         LOG.warning("Bad translation token: " + wikiTokenizer.token());
       }
-    }
+    }  // while-token loop.
+    
+    
     if (foreignText.length() == 0) {
       LOG.warning("Empty foreignText: " + line);
       return;
