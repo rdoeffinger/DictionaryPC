@@ -36,6 +36,7 @@ import com.hughes.android.dictionary.engine.IndexedEntry;
 import com.hughes.android.dictionary.engine.PairEntry;
 import com.hughes.android.dictionary.engine.PairEntry.Pair;
 import com.hughes.android.dictionary.parser.WikiTokenizer;
+import com.hughes.util.ListUtil;
 
 public class EnWiktionaryXmlParser {
   
@@ -63,6 +64,9 @@ public class EnWiktionaryXmlParser {
   final Pattern langPattern;
   final Pattern langCodePattern;
   final boolean swap;
+  
+  // State used while parsing.
+  String title;
 
   public EnWiktionaryXmlParser(final IndexBuilder enIndexBuilder, final IndexBuilder otherIndexBuilder, final Pattern langPattern, final Pattern langCodePattern, final boolean swap) {
     this.enIndexBuilder = enIndexBuilder;
@@ -81,10 +85,10 @@ public class EnWiktionaryXmlParser {
         return;
       }
       
-      final String title;
       try {
         title = dis.readUTF();
       } catch (EOFException e) {
+        LOG.warning("Error reading split!");
         dis.close();
         return;
       }
@@ -94,7 +98,7 @@ public class EnWiktionaryXmlParser {
       dis.readFully(bytes);
       final String text = new String(bytes, "UTF8");
       
-      parseSection(title, heading, text);
+      parseSection(heading, text);
 
       ++pageCount;
       if (pageCount % 1000 == 0) {
@@ -103,7 +107,7 @@ public class EnWiktionaryXmlParser {
     }
   }
   
-  private void parseSection(final String title, String heading, final String text) {
+  private void parseSection(String heading, final String text) {
     if (title.startsWith("Wiktionary:") ||
         title.startsWith("Template:") ||
         title.startsWith("Appendix:") ||
@@ -119,16 +123,16 @@ public class EnWiktionaryXmlParser {
     
     heading = heading.replaceAll("=", "").trim(); 
     if (heading.equals("English")) {
-      doEnglishWord(title, text);
+      doEnglishWord(text);
     } else if (langPattern.matcher(heading).find()){
-      doForeignWord(heading, title, text);
+      doForeignWord(heading, text);
     }
         
   }  // endPage()
   
   // -------------------------------------------------------------------------
   
-  private void doEnglishWord(String title, String text) {
+  private void doEnglishWord(String text) {
     
     String pos = null;
     int posDepth = -1;
@@ -153,7 +157,7 @@ public class EnWiktionaryXmlParser {
           if (pos == null) {
             LOG.warning("Translations without POS: " + title);
           }
-          doTranslations(title, wikiTokenizer, pos);
+          doTranslations(wikiTokenizer, pos);
         } else if (headerName.equals("Pronunciation")) {
           //doPronunciation(wikiLineReader);
         }
@@ -165,15 +169,10 @@ public class EnWiktionaryXmlParser {
       }
     }
   }
-
-
-  private static Set<String> encodings = new LinkedHashSet<String>(Arrays.asList("zh-ts",
-      "sd-Arab", "ku-Arab", "Arab", "unicode", "Laoo", "ur-Arab", "Thai", 
-      "fa-Arab", "Khmr", "zh-tsp", "Cyrl", "IPAchar", "ug-Arab", "ko-inline", 
-      "Jpan", "Kore", "Hebr", "rfscript", "Beng", "Mong", "Knda", "Cyrs",
-      "yue-tsj", "Mlym", "Tfng", "Grek", "yue-yue-j"));
   
-  private void doTranslations(final String title, final WikiTokenizer wikiTokenizer, final String pos) {
+  final AppendAndIndexWikiCallback appendAndIndexWikiCallback = new AppendAndIndexWikiCallback(this);
+  
+  private void doTranslations(final WikiTokenizer wikiTokenizer, final String pos) {
     if (title.equals("absolutely")) {
       //System.out.println();
     }
@@ -255,7 +254,7 @@ public class EnWiktionaryXmlParser {
         
         String rest = line.substring(colonIndex + 1).trim();
         if (rest.length() > 0) {
-          doTranslationLine(line, appendLang ? lang : null, title, pos, sense, rest);
+          doTranslationLine(line, appendLang ? lang : null, pos, sense, rest);
         }
         
       } else if (wikiTokenizer.remainderStartsWith("''See''")) {
@@ -280,76 +279,16 @@ public class EnWiktionaryXmlParser {
     }
   }
   
-  private void doTranslationLine(final String line, final String lang, final String title, final String pos, final String sense, final String rest) {
+  private void doTranslationLine(final String line, final String lang, final String pos, final String sense, final String rest) {
     // Good chance we'll actually file this one...
     final PairEntry pairEntry = new PairEntry();
     final IndexedEntry indexedEntry = new IndexedEntry(pairEntry);
     
     final StringBuilder foreignText = new StringBuilder();
-    final WikiTokenizer wikiTokenizer = new WikiTokenizer(rest, false);
-    while (wikiTokenizer.nextToken() != null) {
-      
-      if (wikiTokenizer.isPlainText()) {
-        final String plainText = wikiTokenizer.token(); 
-        foreignText.append(plainText);
-        foreignIndexBuilder.addEntryWithString(indexedEntry, plainText, EntryTypeName.WIKTIONARY_TRANSLATION_OTHER_TEXT);
-        
-      } else if (wikiTokenizer.isWikiLink()) {
-        final String plainText = wikiTokenizer.wikiLinkText(); 
-        foreignText.append(plainText);
-        // TODO: should check for English before appending.
-        foreignIndexBuilder.addEntryWithString(indexedEntry, plainText, EntryTypeName.WIKTIONARY_TRANSLATION_WIKI_TEXT);
-
-      } else if (wikiTokenizer.isFunction()) {
-        final String functionName = wikiTokenizer.functionName();
-        final List<String> args = wikiTokenizer.functionPositionArgs();
-        final Map<String,String> namedArgs = wikiTokenizer.functionNamedArgs();
-        
-        if (functionName.equals("t") || functionName.equals("t+") || functionName.equals("t-") || functionName.equals("tø") || functionName.equals("apdx-t")) {
-        } else if (functionName.equals("qualifier")) {
-        } else if (encodings.contains(functionName)) {
-          foreignText.append("").append(args.get(0));
-          foreignIndexBuilder.addEntryWithString(indexedEntry, args.get(0), EntryTypeName.WIKTIONARY_TRANSLATION_OTHER_TEXT);
-        } else if (isGender(functionName)) {
-          appendGender(foreignText, functionName, args);
-        } else if (functionName.equals("g")) {
-          foreignText.append("{g}");
-        } else if (functionName.equals("l")) {
-          // encodes text in various langs.
-          // lang is arg 0.
-          foreignText.append("").append(args.get(1));
-          foreignIndexBuilder.addEntryWithString(indexedEntry, args.get(1), EntryTypeName.WIKTIONARY_TRANSLATION_OTHER_TEXT);
-          // TODO: transliteration
-        } else if (functionName.equals("term")) {
-          // cross-reference to another dictionary
-          foreignText.append("").append(args.get(0));
-          foreignIndexBuilder.addEntryWithString(indexedEntry, args.get(0), EntryTypeName.WIKTIONARY_TRANSLATION_OTHER_TEXT);
-          // TODO: transliteration
-        } else if (functionName.equals("italbrac") || functionName.equals("gloss")) {
-          // TODO: put this text aside to use it.
-          foreignText.append("[").append(args.get(0)).append("]");
-          foreignIndexBuilder.addEntryWithString(indexedEntry, args.get(0), EntryTypeName.WIKTIONARY_TRANSLATION_OTHER_TEXT);
-        } else if (functionName.equals("ttbc")) {
-          LOG.warning("Unexpected {{ttbc}}");
-        } else if (functionName.equals("trreq")) {
-        } else if (functionName.equals("not used")) {
-          foreignText.append("(not used)");
-        } else if (functionName.equals("t-image")) {
-          // American sign language
-        } else {
-          // Unindexed!
-          namedArgs.keySet().removeAll(USELESS_WIKI_ARGS);
-          WikiTokenizer.appendFunction(foreignText.append("{{"), functionName, args, namedArgs).append("}}");
-        }
-        
-      } else if (wikiTokenizer.isNewline()) {
-      } else if (wikiTokenizer.isComment()) {
-      } else if (wikiTokenizer.isMarkup()) {
-      } else {
-        LOG.warning("Bad translation token: " + wikiTokenizer.token());
-      }
-    }  // while-token loop.
-    
+    appendAndIndexWikiCallback.reset(foreignText, indexedEntry);
+    appendAndIndexWikiCallback.functionCallbacks.clear();
+    appendAndIndexWikiCallback.functionCallbacks.putAll(FunctionCallbacksDefault.DEFAULT);
+    appendAndIndexWikiCallback.dispatch(rest, foreignIndexBuilder, EntryTypeName.WIKTIONARY_TRANSLATION_OTHER_TEXT);
     
     if (foreignText.length() == 0) {
       LOG.warning("Empty foreignText: " + line);
@@ -365,12 +304,12 @@ public class EnWiktionaryXmlParser {
     englishText.append(title);
     if (sense != null) {
       englishText.append(" (").append(sense).append(")");
-      enIndexBuilder.addEntryWithString(indexedEntry, sense, EntryTypeName.WIKTIONARY_TRANSLATION_SENSE, EntryTypeName.WIKTIONARY_TRANSLATION_SENSE);
+      enIndexBuilder.addEntryWithString(indexedEntry, sense, EntryTypeName.WIKTIONARY_TRANSLATION_SENSE);
     }
     if (pos != null) {
       englishText.append(" (").append(pos.toLowerCase()).append(")");
     }
-    enIndexBuilder.addEntryWithString(indexedEntry, title, EntryTypeName.WIKTIONARY_TITLE_SINGLE, EntryTypeName.WIKTIONARY_TITLE_MULTI);
+    enIndexBuilder.addEntryWithString(indexedEntry, title, EntryTypeName.WIKTIONARY_TITLE_MULTI);
     
     final Pair pair = new Pair(trim(englishText.toString()), trim(foreignText.toString()), swap);
     pairEntry.pairs.add(pair);
@@ -384,26 +323,11 @@ public class EnWiktionaryXmlParser {
   }
 
 
-  private void appendGender(final StringBuilder otherText,
-      final String functionName, final List<String> args) {
-    otherText.append("{");
-    otherText.append(functionName);
-    for (int i = 0; i < args.size(); ++i) {
-      otherText.append("|").append(args.get(i));
-    }
-    otherText.append("}");
-  }
-
-
-  private boolean isGender(final String functionName) {
-    return functionName.equals("m") || functionName.equals("f") || functionName.equals("n") || functionName.equals("p");
-  }
-  
   Set<String> pairsAdded = new LinkedHashSet<String>();
   
   // -------------------------------------------------------------------------
   
-  private void doForeignWord(final String lang, final String title, final String text) {
+  private void doForeignWord(final String lang, final String text) {
     final WikiTokenizer wikiTokenizer = new WikiTokenizer(text);
     while (wikiTokenizer.nextToken() != null) {
       if (wikiTokenizer.isHeading()) {
@@ -413,7 +337,7 @@ public class EnWiktionaryXmlParser {
         } else if (headingName.equals("Pronunciation")) {
           //doPronunciation(wikiLineReader);
         } else if (partOfSpeechHeader.matcher(headingName).matches()) {
-          doForeignPartOfSpeech(lang, title, headingName, wikiTokenizer.headingDepth(), wikiTokenizer);
+          doForeignPartOfSpeech(lang, headingName, wikiTokenizer.headingDepth(), wikiTokenizer);
         }
       } else {
       }
@@ -439,7 +363,7 @@ public class EnWiktionaryXmlParser {
 
 
   int foreignCount = 0;
-  private void doForeignPartOfSpeech(final String lang, String title, final String posHeading, final int posDepth, WikiTokenizer wikiTokenizer) {
+  private void doForeignPartOfSpeech(final String lang, String posHeading, final int posDepth, WikiTokenizer wikiTokenizer) {
     if (++foreignCount % 1000 == 0) {
       LOG.info("***" + lang + ", " + title + ", pos=" + posHeading + ", foreignCount=" + foreignCount);
     }
@@ -489,8 +413,10 @@ public class EnWiktionaryXmlParser {
         // I think just under fare.  But then we need a way to link to the entry (actually the row, since entries doesn't show up!)
         // for the conjugation table from "fa".
         // Would like to be able to link to a lang#token.
-        if (isGender(name)) {
-          appendGender(foreignBuilder, name, args);
+        if (FunctionCallbacksDefault.DEFAULT.get(name) instanceof FunctionCallbacksDefault.Gender) {
+          // TODO: Fix hack!
+          appendAndIndexWikiCallback.reset(foreignBuilder, null);
+          FunctionCallbacksDefault.DEFAULT.get(name).onWikiFunction(wikiTokenizer, name, args, namedArgs, this, appendAndIndexWikiCallback);
         } else if (name.equals("wikipedia")) {
           namedArgs.remove("lang");
           if (args.size() > 1 || !namedArgs.isEmpty()) {
@@ -506,7 +432,7 @@ public class EnWiktionaryXmlParser {
           // Ignore these.
         } else if (name.equals("infl") || name.equals("head")) {
           // See: http://en.wiktionary.org/wiki/Template:infl
-          final String langCode = get(args, 0);
+          final String langCode = ListUtil.get(args, 0);
           String head = namedArgs.remove("head");
           if (head == null) {
             head = namedArgs.remove("title"); // Bug
@@ -546,13 +472,13 @@ public class EnWiktionaryXmlParser {
             wordForms.add(tr);
           }
     
-          final String pos = get(args, 1);
+          final String pos = ListUtil.get(args, 1);
           if (pos != null) {
             foreignBuilder.append(" (").append(pos).append(")");
           }
           for (int i = 2; i < args.size(); i += 2) {
-            final String inflName = get(args, i);
-            final String inflValue = get(args, i + 1);
+            final String inflName = ListUtil.get(args, i);
+            final String inflValue = ListUtil.get(args, i + 1);
             foreignBuilder.append(", ").append(WikiTokenizer.toPlainText(inflName));
             if (inflValue != null && inflValue.length() > 0) {
               foreignBuilder.append(": ").append(WikiTokenizer.toPlainText(inflValue));
@@ -566,10 +492,10 @@ public class EnWiktionaryXmlParser {
           }
         } else if (name.equals("it-noun")) {
           titleAppended = true;
-          final String base = get(args, 0);
-          final String gender = get(args, 1);
-          final String singular = base + get(args, 2);
-          final String plural = base + get(args, 3);
+          final String base = ListUtil.get(args, 0);
+          final String gender = ListUtil.get(args, 1);
+          final String singular = base + ListUtil.get(args, 2, null);
+          final String plural = base + ListUtil.get(args, 3, null);
           foreignBuilder.append(String.format(" %s {%s}, %s {pl}", singular, gender, plural, plural));
           wordForms.add(singular);
           wordForms.add(plural);
@@ -645,7 +571,13 @@ public class EnWiktionaryXmlParser {
       );
 
   // Might only want to remove "lang" if it's equal to "zh", for example.
-  static final Set<String> USELESS_WIKI_ARGS = new LinkedHashSet<String>(Arrays.asList("lang", "sc", "sort", "cat"));
+  static final Set<String> USELESS_WIKI_ARGS = new LinkedHashSet<String>(
+      Arrays.asList(
+          "lang",
+          "sc",
+          "sort",
+          "cat",
+          "xs"));
 
   private void doForeignListItem(final String foreignText, String title, final Collection<String> forms, final ListSection listSection) {
     
@@ -667,29 +599,29 @@ public class EnWiktionaryXmlParser {
       // TODO handle form of....
       if (englishTokenizer.isPlainText()) {
         englishBuilder.append(englishTokenizer.token());
-        enIndexBuilder.addEntryWithString(indexedEntry, englishTokenizer.token(), EntryTypeName.WIKTIONARY_ENGLISH_DEF);
+        enIndexBuilder.addEntryWithStringNoSingle(indexedEntry, englishTokenizer.token(), EntryTypeName.WIKTIONARY_ENGLISH_DEF);
       } else if (englishTokenizer.isWikiLink()) {
         final String text = englishTokenizer.wikiLinkText();
         final String link = englishTokenizer.wikiLinkDest();
         if (link != null) {
           if (link.contains("#English")) {
             englishBuilder.append(text);
-            enIndexBuilder.addEntryWithString(indexedEntry, text, EntryTypeName.WIKTIONARY_ENGLISH_DEF_WIKI_LINK);
+            enIndexBuilder.addEntryWithStringNoSingle(indexedEntry, text, EntryTypeName.WIKTIONARY_ENGLISH_DEF_WIKI_LINK);
           } else if (link.contains("#") && this.langPattern.matcher(link).find()) {
             englishBuilder.append(text);
-            foreignIndexBuilder.addEntryWithString(indexedEntry, text, EntryTypeName.WIKTIONARY_ENGLISH_DEF_OTHER_LANG);
+            foreignIndexBuilder.addEntryWithStringNoSingle(indexedEntry, text, EntryTypeName.WIKTIONARY_ENGLISH_DEF_OTHER_LANG);
           } else if (link.equals("plural")) {
             englishBuilder.append(text);
           } else {
             //LOG.warning("Special link: " + englishTokenizer.token());
-            enIndexBuilder.addEntryWithString(indexedEntry, text, EntryTypeName.WIKTIONARY_ENGLISH_DEF_WIKI_LINK);
+            enIndexBuilder.addEntryWithStringNoSingle(indexedEntry, text, EntryTypeName.WIKTIONARY_ENGLISH_DEF_WIKI_LINK);
             englishBuilder.append(text);
           }
         } else {
           // link == null
           englishBuilder.append(text);
           if (!UNINDEXED_WIKI_TEXT.matcher(text).find()) {
-            enIndexBuilder.addEntryWithString(indexedEntry, text, EntryTypeName.WIKTIONARY_ENGLISH_DEF_WIKI_LINK);
+            enIndexBuilder.addEntryWithStringNoSingle(indexedEntry, text, EntryTypeName.WIKTIONARY_ENGLISH_DEF_WIKI_LINK);
           }
         }
       } else if (englishTokenizer.isFunction()) {
@@ -706,23 +638,23 @@ public class EnWiktionaryXmlParser {
             name.contains("plural of")) {
           String formName = name;
           if (name.equals("form of")) {
-            formName = remove(args, 0, null);
+            formName = ListUtil.remove(args, 0, null);
           }
           if (formName == null) {
             LOG.warning("Missing form name: " + title);
             formName = "form of";
           }
-          String baseForm = get(args, 1, "");
+          String baseForm = ListUtil.get(args, 1, "");
           if ("".equals(baseForm)) {
-            baseForm = get(args, 0, null);
-            remove(args, 1, "");
+            baseForm = ListUtil.get(args, 0, null);
+            ListUtil.remove(args, 1, "");
           } else {
-            remove(args, 0, null);
+            ListUtil.remove(args, 0, null);
           }
           namedArgs.keySet().removeAll(USELESS_WIKI_ARGS);
           WikiTokenizer.appendFunction(englishBuilder.append("{"), formName, args, namedArgs).append("}");
           if (baseForm != null) {
-            foreignIndexBuilder.addEntryWithString(indexedEntry, baseForm, EntryTypeName.WIKTIONARY_BASE_FORM_SINGLE, EntryTypeName.WIKTIONARY_BASE_FORM_MULTI);
+            foreignIndexBuilder.addEntryWithString(indexedEntry, baseForm, EntryTypeName.WIKTIONARY_BASE_FORM_MULTI);
           } else {
             // null baseForm happens in Danish.
             LOG.warning("Null baseform: " + title);
@@ -733,9 +665,9 @@ public class EnWiktionaryXmlParser {
           englishBuilder.append("").append(args.get(1));
           final String langCode = args.get(0);
           if ("en".equals(langCode)) {
-            enIndexBuilder.addEntryWithString(indexedEntry, args.get(1), EntryTypeName.WIKTIONARY_ENGLISH_DEF_WIKI_LINK);
+            enIndexBuilder.addEntryWithStringNoSingle(indexedEntry, args.get(1), EntryTypeName.WIKTIONARY_ENGLISH_DEF_WIKI_LINK);
           } else {
-            foreignIndexBuilder.addEntryWithString(indexedEntry, args.get(1), EntryTypeName.WIKTIONARY_ENGLISH_DEF_OTHER_LANG);
+            foreignIndexBuilder.addEntryWithStringNoSingle(indexedEntry, args.get(1), EntryTypeName.WIKTIONARY_ENGLISH_DEF_OTHER_LANG);
           }
           // TODO: transliteration
           
@@ -766,9 +698,9 @@ public class EnWiktionaryXmlParser {
     if (english.length() > 0) {
       final Pair pair = new Pair(english, trim(foreignText), this.swap);
       pairEntry.pairs.add(pair);
-      foreignIndexBuilder.addEntryWithString(indexedEntry, title, EntryTypeName.WIKTIONARY_TITLE_SINGLE, EntryTypeName.WIKTIONARY_TITLE_MULTI);
+      foreignIndexBuilder.addEntryWithString(indexedEntry, title, EntryTypeName.WIKTIONARY_TITLE_MULTI);
       for (final String form : forms) {
-        foreignIndexBuilder.addEntryWithString(indexedEntry, form, EntryTypeName.WIKTIONARY_INFLECTD_FORM_SINGLE, EntryTypeName.WIKTIONARY_INFLECTED_FORM_MULTI);
+        foreignIndexBuilder.addEntryWithString(indexedEntry, form, EntryTypeName.WIKTIONARY_INFLECTED_FORM_MULTI);
       }
     }
     
@@ -843,13 +775,13 @@ public class EnWiktionaryXmlParser {
       if (wikiTokenizer.isPlainText()) {
         builder.append(wikiTokenizer.token());
         if (indexBuilder != null) {
-          indexBuilder.addEntryWithString(indexedEntry, wikiTokenizer.token(), EntryTypeName.WIKTIONARY_EXAMPLE);
+          indexBuilder.addEntryWithStringNoSingle(indexedEntry, wikiTokenizer.token(), EntryTypeName.WIKTIONARY_EXAMPLE);
         }
       } else if (wikiTokenizer.isWikiLink()) {
         final String text = wikiTokenizer.wikiLinkText().replaceAll("'", ""); 
         builder.append(text);
         if (indexBuilder != null) {
-          indexBuilder.addEntryWithString(indexedEntry, text, EntryTypeName.WIKTIONARY_EXAMPLE);
+          indexBuilder.addEntryWithStringNoSingle(indexedEntry, text, EntryTypeName.WIKTIONARY_EXAMPLE);
         }
       } else if (wikiTokenizer.isFunction()) {
         builder.append(wikiTokenizer.token());

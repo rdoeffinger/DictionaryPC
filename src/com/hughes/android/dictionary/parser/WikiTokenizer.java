@@ -24,11 +24,11 @@ import java.util.regex.Pattern;
 public final class WikiTokenizer {
   
   public static interface Callback {
-    void onPlainText(WikiTokenizer wikiTokenizer);
+    void onPlainText(final String text);
     void onMarkup(WikiTokenizer wikiTokenizer);
     void onWikiLink(WikiTokenizer wikiTokenizer);
     void onNewline(WikiTokenizer wikiTokenizer);
-    void onFunction(String functionName, List<String> functionPositionArgs,
+    void onFunction(final WikiTokenizer tokenizer, String functionName, List<String> functionPositionArgs,
         Map<String, String> functionNamedArgs);
     void onHeading(WikiTokenizer wikiTokenizer);
     void onListItem(WikiTokenizer wikiTokenizer);
@@ -104,27 +104,41 @@ public final class WikiTokenizer {
     positionArgs.clear();
     namedArgs.clear();
   }
-  
-  public void dispatch(final Callback callback) {
-    while (nextToken() != null) {
-      if (isPlainText()) {
-        callback.onPlainText(this);
-      } else if (isMarkup()) {
-        callback.onMarkup(this);
-      } else if (isWikiLink) {
-        callback.onWikiLink(this);
-      } else if (isNewline()) {
-        callback.onNewline(this);
-      } else if (isFunction()) {
-        callback.onFunction(functionName(), functionPositionArgs(), functionNamedArgs());
-      } else if (isHeading()) {
-        callback.onHeading(this);
-      } else if (isListItem()) {
-        callback.onListItem(this);
-      } else if (isComment()) {
-        callback.onComment(this);
-      } else {
-        throw new IllegalStateException("Unknown wiki state.");
+
+  private static final Pattern POSSIBLE_WIKI_TEXT = Pattern.compile(
+      "\\{\\{|" +
+      "\\[\\[|" +
+      "<!--|" +
+      "''|" +
+      "[\n]"
+      );
+
+  public static void dispatch(final String wikiText, final boolean isNewline, final Callback callback) {
+    // Optimization...
+    if (!POSSIBLE_WIKI_TEXT.matcher(wikiText).find()) {
+      callback.onPlainText(wikiText);
+    } else {
+      final WikiTokenizer tokenizer = new WikiTokenizer(wikiText, isNewline);
+      while (tokenizer.nextToken() != null) {
+        if (tokenizer.isPlainText()) {
+          callback.onPlainText(tokenizer.token());
+        } else if (tokenizer.isMarkup()) {
+          callback.onMarkup(tokenizer);
+        } else if (tokenizer.isWikiLink) {
+          callback.onWikiLink(tokenizer);
+        } else if (tokenizer.isNewline()) {
+          callback.onNewline(tokenizer);
+        } else if (tokenizer.isFunction()) {
+          callback.onFunction(tokenizer, tokenizer.functionName(), tokenizer.functionPositionArgs(), tokenizer.functionNamedArgs());
+        } else if (tokenizer.isHeading()) {
+          callback.onHeading(tokenizer);
+        } else if (tokenizer.isListItem()) {
+          callback.onListItem(tokenizer);
+        } else if (tokenizer.isComment()) {
+          callback.onComment(tokenizer);
+        } else {
+          throw new IllegalStateException("Unknown wiki state.");
+        }
       }
     }
   }

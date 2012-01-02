@@ -126,13 +126,14 @@ public class IndexBuilder {
   }
 
   public void addEntryWithString(final IndexedEntry indexedEntry, final String untokenizedString,
-      final EntryTypeName singleTokenEntryTypeName, final EntryTypeName multiTokenEntryTypeName) {
+      final EntryTypeName entryTypeName) {
     final Set<String> tokens = DictFileParser.tokenize(untokenizedString, DictFileParser.NON_CHAR);
-    addEntryWithTokens(indexedEntry, tokens, tokens.size() == 1 ? singleTokenEntryTypeName : multiTokenEntryTypeName);
+    addEntryWithTokens(indexedEntry, tokens, tokens.size() == 1 ? entryTypeName.singleWordInstance : entryTypeName);
   }
 
-  public void addEntryWithString(final IndexedEntry indexedEntry, final String untokenizedString,
+  public void addEntryWithStringNoSingle(final IndexedEntry indexedEntry, final String untokenizedString,
       final EntryTypeName entryTypeName) {
-    addEntryWithString(indexedEntry, untokenizedString, entryTypeName, entryTypeName);
+    final Set<String> tokens = DictFileParser.tokenize(untokenizedString, DictFileParser.NON_CHAR);
+    addEntryWithTokens(indexedEntry, tokens, entryTypeName);
   }
 }

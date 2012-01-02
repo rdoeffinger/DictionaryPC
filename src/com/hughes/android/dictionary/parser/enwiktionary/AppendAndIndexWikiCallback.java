@@ -1,5 +1,7 @@
 package com.hughes.android.dictionary.parser.enwiktionary;
 
+import java.util.ArrayList;
+import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 
@@ -11,33 +13,46 @@ import com.hughes.android.dictionary.parser.WikiTokenizer;
 final class AppendAndIndexWikiCallback implements WikiTokenizer.Callback {
 
   final EnWiktionaryXmlParser parser;
-  final StringBuilder builder;
-  final IndexedEntry indexedEntry;
-  IndexBuilder defaultIndexBuilder;
-  final Map<String,FunctionCallback> functionCallbacks;
+  StringBuilder builder;
+  IndexedEntry indexedEntry;
+  IndexBuilder indexBuilder;
+  final Map<String,FunctionCallback> functionCallbacks = new LinkedHashMap<String, FunctionCallback>();
   
-  // TODO: the classes of text are wrong....
+  EntryTypeName entryTypeName = null;
   
-  public AppendAndIndexWikiCallback(
-      final EnWiktionaryXmlParser parser,
-      final String title,
-      final StringBuilder builder, 
-      final IndexedEntry indexedEntry,
-      final IndexBuilder defaultIndexBuilder,
-      final Map<String, FunctionCallback> functionCallbacks) {
+  public AppendAndIndexWikiCallback(final EnWiktionaryXmlParser parser) {
     this.parser = parser;
-    this.indexedEntry = indexedEntry;
-    this.defaultIndexBuilder = defaultIndexBuilder;
+  }
+  
+  public void reset(final StringBuilder builder, final IndexedEntry indexedEntry) {
     this.builder = builder;
-    this.functionCallbacks = functionCallbacks;
+    this.indexedEntry = indexedEntry;
+    this.indexBuilder = null;
+    entryTypeName = null;
+  }
+  
+  public void dispatch(final String wikiText, final IndexBuilder indexBuilder, final EntryTypeName entryTypeName) {
+    final IndexBuilder oldIndexBuilder = this.indexBuilder;
+    final EntryTypeName oldEntryTypeName = this.entryTypeName;
+    this.indexBuilder = indexBuilder;
+    this.entryTypeName = entryTypeName;
+    WikiTokenizer.dispatch(wikiText, false, this);
+    this.indexBuilder = oldIndexBuilder;
+    this.entryTypeName = oldEntryTypeName;
+  }
+  
+  public void dispatch(final String wikiText, final EntryTypeName entryTypeName) {
+    dispatch(wikiText, this.indexBuilder, entryTypeName);
   }
 
+  
   @Override
-  public void onPlainText(WikiTokenizer wikiTokenizer) {
+  public void onPlainText(final String plainText) {
     // The only non-recursive callback.  Just appends to the builder, and indexes.
-    final String plainText = wikiTokenizer.token(); 
     builder.append(plainText);
-    defaultIndexBuilder.addEntryWithString(indexedEntry, plainText, EntryTypeName.WIKTIONARY_TRANSLATION_OTHER_TEXT);
+    if (indexBuilder != null && entryTypeName != null) {
+      indexBuilder.addEntryWithString(indexedEntry, plainText, entryTypeName);
+    }
   }
 
   @Override
@@ -50,31 +65,34 @@ final class AppendAndIndexWikiCallback implements WikiTokenizer.Callback {
       // TODO: Check for English before appending.
       // TODO: Could also index under link dest, too.
     }
-    // TODO: save, set, restore text type...
-    new WikiTokenizer(wikiText, false).dispatch(this);
+    dispatch(wikiText, EntryTypeName.WIKTIONARY_TRANSLATION_WIKI_TEXT);
   }
 
   @Override
   public void onFunction(
+      final WikiTokenizer wikiTokenizer,
       final String name,
       final List<String> args, 
       final Map<String, String> namedArgs) {
     
     final FunctionCallback functionCallback = functionCallbacks.get(name);
-    if (functionCallback == null || !functionCallback.onWikiFunction(name, args, namedArgs, parser, title)) {
+    if (functionCallback == null || !functionCallback.onWikiFunction(wikiTokenizer, name, args, namedArgs, parser, this)) {
       // Default function handling:
+      final IndexBuilder oldIndexBuilder = indexBuilder;
+      indexBuilder = null;
       builder.append("{{").append(name);
       for (int i = 0; i < args.size(); ++i) {
         builder.append("|");
-        new WikiTokenizer(args.get(i), false).dispatch(this);
+        WikiTokenizer.dispatch(args.get(i), false, this);
       }
       for (final Map.Entry<String, String> entry : namedArgs.entrySet()) {
         builder.append("|");
-        new WikiTokenizer(entry.getKey(), false).dispatch(this);
+        WikiTokenizer.dispatch(entry.getKey(), false, this);
         builder.append("=");
-        new WikiTokenizer(entry.getValue(), false).dispatch(this);
+        WikiTokenizer.dispatch(entry.getValue(), false, this);
       }
       builder.append("}}");
+      indexBuilder = oldIndexBuilder;
     }
   }
 
@@ -102,4 +120,5 @@ final class AppendAndIndexWikiCallback implements WikiTokenizer.Callback {
   public void onListItem(WikiTokenizer wikiTokenizer) {
     assert false;
   }
+
 }

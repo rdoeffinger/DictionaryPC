@@ -32,6 +32,27 @@ public class DictionaryBuilderTest extends TestCase {
   public static final String GOLDENS = "testdata/goldens/";
 
   public static final String TEST_OUTPUTS = "testdata/outputs/";
+  
+  public void testWiktionary_IT_EN() throws Exception {
+    wiktionaryTestWithLangToEn("wiktionary.it_en.quickdic", "IT", "it.txt",
+        "EN.data", "enwiktionary.english", "Italian", "it");
+  }
+
+  public void testWiktionary_ZH_EN() throws Exception {
+    wiktionaryTestWithLangToEn("wiktionary.zh_en.quickdic", "ZH", "empty.txt",
+        // These missing "e" prevents a complete match, forcing the name to be printed
+        "EN.data", "enwiktionary.english", "Chinese|Mandarin|Cantones", "zh");
+  }
+
+  public void testWiktionary_DE_EN() throws Exception {
+    wiktionaryTestWithLangToEn("wiktionary.de_en.quickdic", "DE", "de.txt",
+        "EN.data", "enwiktionary.english", "German", "it");
+  }
+
+  public void testWiktionary_IT_IT() throws Exception {
+    wiktionaryTestWithLangToEn("wiktionary.it_it.quickdic", "IT", "it.txt",
+        "IT.data", "enwiktionary.italian", "Italian", "it");
+  }
 
   // French
   public void testWiktionary_FR_FR() throws Exception {
@@ -53,32 +74,10 @@ public class DictionaryBuilderTest extends TestCase {
         "ZH.data", "enwiktionary.chinese", "Chinese|Mandarin|Cantones", "zh");
   }
 
-  public void testWiktionary_ZH_EN() throws Exception {
-    wiktionaryTestWithLangToEn("wiktionary.zh_en.quickdic", "ZH", "empty.txt",
-        // These missing "e" prevents a complete match, forcing the name to be printed
-        "EN.data", "enwiktionary.english", "Chinese|Mandarin|Cantones", "zh");
-  }
-  
   // German
   public void testWiktionary_DE_DE() throws Exception {
     wiktionaryTestWithLangToEn("wiktionary.de_de.quickdic", "DE", "de.txt",
         "DE.data", "enwiktionary.german", "German", "it");
-  }
-
-  public void testWiktionary_DE_EN() throws Exception {
-    wiktionaryTestWithLangToEn("wiktionary.de_en.quickdic", "DE", "de.txt",
-        "EN.data", "enwiktionary.english", "German", "it");
-  }
-
-  // Italian
-  public void testWiktionary_IT_IT() throws Exception {
-    wiktionaryTestWithLangToEn("wiktionary.it_it.quickdic", "IT", "it.txt",
-        "IT.data", "enwiktionary.italian", "Italian", "it");
-  }
-
-  public void testWiktionary_IT_EN() throws Exception {
-    wiktionaryTestWithLangToEn("wiktionary.it_en.quickdic", "IT", "it.txt",
-        "EN.data", "enwiktionary.english", "Italian", "it");
   }
 
   public void wiktionaryTestWithLangToEn(final String name, final String lang1,
