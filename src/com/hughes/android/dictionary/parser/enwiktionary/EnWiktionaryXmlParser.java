@@ -36,7 +36,6 @@ import com.hughes.android.dictionary.engine.IndexedEntry;
 import com.hughes.android.dictionary.engine.PairEntry;
 import com.hughes.android.dictionary.engine.PairEntry.Pair;
 import com.hughes.android.dictionary.parser.WikiTokenizer;
-import com.hughes.util.ListUtil;
 
 public class EnWiktionaryXmlParser {
   
@@ -578,33 +577,15 @@ public class EnWiktionaryXmlParser {
   }
   
   private String formatAndIndexExampleString(final String example, final IndexBuilder indexBuilder, final IndexedEntry indexedEntry) {
-    final WikiTokenizer wikiTokenizer = new WikiTokenizer(example, false);
+    // TODO:
+//    if (wikiTokenizer.token().equals("'''")) {
+//      insideTripleQuotes = !insideTripleQuotes;
+//    }
     final StringBuilder builder = new StringBuilder();
-    boolean insideTripleQuotes = false;
-    while (wikiTokenizer.nextToken() != null) {
-      if (wikiTokenizer.isPlainText()) {
-        builder.append(wikiTokenizer.token());
-        if (indexBuilder != null) {
-          indexBuilder.addEntryWithStringNoSingle(indexedEntry, wikiTokenizer.token(), EntryTypeName.WIKTIONARY_EXAMPLE);
-        }
-      } else if (wikiTokenizer.isWikiLink()) {
-        final String text = wikiTokenizer.wikiLinkText().replaceAll("'", ""); 
-        builder.append(text);
-        if (indexBuilder != null) {
-          indexBuilder.addEntryWithStringNoSingle(indexedEntry, text, EntryTypeName.WIKTIONARY_EXAMPLE);
-        }
-      } else if (wikiTokenizer.isFunction()) {
-        builder.append(wikiTokenizer.token());
-      } else if (wikiTokenizer.isMarkup()) {
-        if (wikiTokenizer.token().equals("'''")) {
-          insideTripleQuotes = !insideTripleQuotes;
-        }
-      } else if (wikiTokenizer.isComment() || wikiTokenizer.isNewline()) {
-        // Do nothing.
-      } else {
-        LOG.warning("unexpected token: " + wikiTokenizer.token());
-      }
-    }
+    appendAndIndexWikiCallback.reset(builder, indexedEntry);
+    appendAndIndexWikiCallback.entryTypeName = EntryTypeName.WIKTIONARY_EXAMPLE;
+    appendAndIndexWikiCallback.entryTypeNameSticks = true;
+    appendAndIndexWikiCallback.dispatch(example, indexBuilder, EntryTypeName.WIKTIONARY_EXAMPLE);
     final String result = trim(builder.toString());
     return result.length() > 0 ? result : "--";
   }

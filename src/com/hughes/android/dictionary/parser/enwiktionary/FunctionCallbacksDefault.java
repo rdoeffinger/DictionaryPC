@@ -1,3 +1,17 @@
+// Copyright 2012 Google Inc. All Rights Reserved.
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+
 package com.hughes.android.dictionary.parser.enwiktionary;
 
 import java.util.Arrays;
@@ -9,6 +23,7 @@ import java.util.Set;
 import java.util.logging.Logger;
 
 import com.hughes.android.dictionary.engine.EntryTypeName;
+import com.hughes.android.dictionary.engine.IndexBuilder;
 import com.hughes.android.dictionary.parser.WikiTokenizer;
 import com.hughes.util.ListUtil;
 
@@ -17,6 +32,7 @@ public final class FunctionCallbacksDefault {
   static final Logger LOG = Logger.getLogger(EnWiktionaryXmlParser.class.getName());
   
   static final Map<String,FunctionCallback> DEFAULT = new LinkedHashMap<String, FunctionCallback>();
+  
   static {
     FunctionCallback callback = new TranslationCallback();
     DEFAULT.put("t", callback);
@@ -38,25 +54,30 @@ public final class FunctionCallbacksDefault {
       DEFAULT.put(encoding, callback);
     }
     
+    callback = new l_term();
+    DEFAULT.put("l", callback);
+    DEFAULT.put("term", callback);
+
     callback = new Gender();
     DEFAULT.put("m", callback);
     DEFAULT.put("f", callback);
     DEFAULT.put("n", callback);
     DEFAULT.put("p", callback);
     DEFAULT.put("g", callback);
-
-    DEFAULT.put("l", new l());
+    
     DEFAULT.put("italbrac", new italbrac());
     DEFAULT.put("gloss", new gloss());
 
     callback = new AppendArg0();
-    DEFAULT.put("term", callback);
 
     callback = new Ignore();
     DEFAULT.put("trreq", callback);
     DEFAULT.put("t-image", callback);
     DEFAULT.put("defn", callback);
     DEFAULT.put("rfdef", callback);
+    DEFAULT.put("rfdate", callback);
+    DEFAULT.put("rfex", callback);
+    DEFAULT.put("rfquote", callback);
     DEFAULT.put("attention", callback);
     DEFAULT.put("zh-attention", callback);
 
@@ -67,6 +88,10 @@ public final class FunctionCallbacksDefault {
     callback = new InflOrHead();
     DEFAULT.put("infl", callback);
     DEFAULT.put("head", callback);
+    
+    callback = new AppendName();
+    DEFAULT.put("...", callback);
+    
   }
 
   
@@ -83,16 +108,21 @@ public final class FunctionCallbacksDefault {
           appendAndIndexWikiCallback.dispatch(args.get(i), null, null);
         }
       }
-      for (final Map.Entry<String, String> entry : namedArgs.entrySet()) {
-        appendAndIndexWikiCallback.builder.append("|");
-        appendAndIndexWikiCallback.dispatch(entry.getKey(), null, null);
-        appendAndIndexWikiCallback.builder.append("=");
-        appendAndIndexWikiCallback.dispatch(entry.getValue(), null, null);
-      }
+      appendNamedArgs(namedArgs, appendAndIndexWikiCallback);
       return true;
     }
   }
   static NameAndArgs NAME_AND_ARGS = new NameAndArgs();
+
+  private static void appendNamedArgs(final Map<String, String> namedArgs,
+      final AppendAndIndexWikiCallback appendAndIndexWikiCallback) {
+    for (final Map.Entry<String, String> entry : namedArgs.entrySet()) {
+      appendAndIndexWikiCallback.builder.append("|");
+      appendAndIndexWikiCallback.dispatch(entry.getKey(), null, null);
+      appendAndIndexWikiCallback.builder.append("=");
+      appendAndIndexWikiCallback.dispatch(entry.getValue(), null, null);
+    }
+  }
 
   // ------------------------------------------------------------------
 
@@ -119,7 +149,7 @@ public final class FunctionCallbacksDefault {
         appendAndIndexWikiCallback.builder.append(String.format(" {%s}", gender));
       }
       if (transliteration != null) {
-        appendAndIndexWikiCallback.builder.append(" (tr. ");
+        appendAndIndexWikiCallback.builder.append(" (");
         appendAndIndexWikiCallback.dispatch(transliteration, EntryTypeName.WIKTIONARY_TRANSLITERATION);
         appendAndIndexWikiCallback.builder.append(")");
       }
@@ -159,6 +189,10 @@ public final class FunctionCallbacksDefault {
       if (args.size() != 1 || !namedArgs.isEmpty()) {
         LOG.warning("weird encoding: " + wikiTokenizer.token());
       }
+      if (args.size() == 0) {
+        // Things like "{{Jpan}}" exist.
+        return true;
+      }
       final String wikiText = args.get(0);
       appendAndIndexWikiCallback.dispatch(wikiText, appendAndIndexWikiCallback.entryTypeName);
       return true;
@@ -188,29 +222,63 @@ public final class FunctionCallbacksDefault {
 
   // ------------------------------------------------------------------
   
-  static final class l implements FunctionCallback {
+  static final class l_term implements FunctionCallback {
     @Override
     public boolean onWikiFunction(final WikiTokenizer wikiTokenizer, final String name, final List<String> args,
         final Map<String, String> namedArgs,
         final EnWiktionaryXmlParser parser,
         final AppendAndIndexWikiCallback appendAndIndexWikiCallback) {
-      // TODO: rewrite this!
-      // encodes text in various langs.
-      // lang is arg 0.
-      // 
+      
+      // for {{l}}, lang is arg 0, but not for {{term}}
+      if (name.equals("term")) {
+        args.add(0, "");
+      }
+      
       final EntryTypeName entryTypeName;
       switch (parser.state) {
       case TRANSLATION_LINE: entryTypeName = EntryTypeName.WIKTIONARY_TRANSLATION_OTHER_TEXT; break;
       case ENGLISH_DEF_OF_FOREIGN: entryTypeName = EntryTypeName.WIKTIONARY_ENGLISH_DEF_WIKI_LINK; break;
       default: throw new IllegalStateException("Invalid enum value: " + parser.state);
       }
+      
       final String langCode = args.get(0);
-      if ("en".equals(langCode)) {
-        appendAndIndexWikiCallback.dispatch(args.get(1), parser.enIndexBuilder, entryTypeName);
+      final IndexBuilder indexBuilder;
+      if ("".equals(langCode)) {
+        indexBuilder = parser.foreignIndexBuilder;
+      } else if ("en".equals(langCode)) {
+        indexBuilder = parser.enIndexBuilder;
       } else {
-        appendAndIndexWikiCallback.dispatch(args.get(1), parser.foreignIndexBuilder, entryTypeName);
+        indexBuilder = parser.foreignIndexBuilder;
       }
-      // TODO: transliteration
+      
+      String displayText = ListUtil.get(args, 2, "");
+      if (displayText.equals("")) {
+        displayText = ListUtil.get(args, 1, null);
+      }
+      
+      appendAndIndexWikiCallback.dispatch(displayText, indexBuilder, entryTypeName);
+      
+      final String tr = namedArgs.remove("tr");
+      if (tr != null) {
+        appendAndIndexWikiCallback.builder.append(" (");
+        appendAndIndexWikiCallback.dispatch(tr, indexBuilder, EntryTypeName.WIKTIONARY_TRANSLITERATION);
+        appendAndIndexWikiCallback.builder.append(")");
+      }
+      
+      final String gloss = ListUtil.get(args, 3, "");
+      if (!gloss.equals("")) {
+        appendAndIndexWikiCallback.builder.append(" (");
+        appendAndIndexWikiCallback.dispatch(gloss, parser.enIndexBuilder, EntryTypeName.WIKTIONARY_ENGLISH_DEF);
+        appendAndIndexWikiCallback.builder.append(")");
+      }
+      
+      namedArgs.keySet().removeAll(EnWiktionaryXmlParser.USELESS_WIKI_ARGS);
+      if (!namedArgs.isEmpty()) {
+        appendAndIndexWikiCallback.builder.append(" {").append(name);
+        appendNamedArgs(namedArgs, appendAndIndexWikiCallback);
+        appendAndIndexWikiCallback.builder.append("}");
+      }
+
       return true;
     }
   }
@@ -243,9 +311,9 @@ public final class FunctionCallbacksDefault {
       if (args.size() != 1 || !namedArgs.isEmpty()) {
         return false;
       }
-      appendAndIndexWikiCallback.builder.append("[");
+      appendAndIndexWikiCallback.builder.append("(");
       appendAndIndexWikiCallback.dispatch(args.get(0), EntryTypeName.WIKTIONARY_TRANSLATION_OTHER_TEXT);
-      appendAndIndexWikiCallback.builder.append("]");
+      appendAndIndexWikiCallback.builder.append(")");
       return true;
     }
   }
@@ -261,9 +329,9 @@ public final class FunctionCallbacksDefault {
       if (args.size() != 1 || !namedArgs.isEmpty()) {
         return false;
       }
-      appendAndIndexWikiCallback.builder.append("[");
+      appendAndIndexWikiCallback.builder.append("(");
       appendAndIndexWikiCallback.dispatch(args.get(0), EntryTypeName.WIKTIONARY_TRANSLATION_OTHER_TEXT);
-      appendAndIndexWikiCallback.builder.append("]");
+      appendAndIndexWikiCallback.builder.append(")");
       return true;
     }
   }
@@ -293,7 +361,23 @@ public final class FunctionCallbacksDefault {
     }
   }
 
+
+  // ------------------------------------------------------------------
   
+  static final class AppendName implements FunctionCallback {
+    @Override
+    public boolean onWikiFunction(final WikiTokenizer wikiTokenizer, final String name, final List<String> args,
+        final Map<String, String> namedArgs,
+        final EnWiktionaryXmlParser parser,
+        final AppendAndIndexWikiCallback appendAndIndexWikiCallback) {
+      if (!args.isEmpty() || !namedArgs.isEmpty()) {
+        return false;
+      }
+      appendAndIndexWikiCallback.builder.append(name);
+      return true;
+    }
+  }
+
   // --------------------------------------------------------------------
   // --------------------------------------------------------------------
   
@@ -372,8 +456,6 @@ public final class FunctionCallbacksDefault {
       }
       if (head == null) {
         head = parser.title;
-      } else {
-        head = WikiTokenizer.toPlainText(head);
       }
       parser.titleAppended = true;
       
@@ -401,7 +483,7 @@ public final class FunctionCallbacksDefault {
       }
 
       if (tr != null) {
-        appendAndIndexWikiCallback.builder.append(" (tr. ");
+        appendAndIndexWikiCallback.builder.append(" (");
         appendAndIndexWikiCallback.dispatch(tr, EntryTypeName.WIKTIONARY_TITLE_MULTI);
         appendAndIndexWikiCallback.builder.append(")");
         parser.wordForms.add(tr);

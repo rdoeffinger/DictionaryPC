@@ -21,7 +21,7 @@ Index: de de->en
   A {{de-letter|upper=A|lower=a}} :: {{Latn-def|de|letter|1}}
 ===aa===
   (Pennsylvania German) aa (adverb) :: also
-    {{quote-book|year=1908|author=Astor C. Wuchter|title=A Pennsylvania German Anthology|editor=Earl C. Haag|chapter=Die Mudderschprooch|page=56|pageurl=http://books.google.com/books?id=UAuw2OmZBUMC&pg=PA56 |passage={{...|Datt wu die Palme duffdich sin, Wu's immer Summer iss;}} Datt sin '''aa''' Mensche, graad wie do{{...|, Mei Hatz un Seel, gewiss.}} |translation=There are people there '''too''', just like here}} :: --
+    {{quote-book|year=1908|author=Astor C. Wuchter|title=A Pennsylvania German Anthology|editor=Earl C. Haag|chapter=Die Mudderschprooch|page=56|pageurl=http://books.google.com/books?id=UAuw2OmZBUMC&pg=PA56|passage={{...|Datt wu die Palme duffdich sin, Wu's immer Summer iss;}} Datt sin aa Mensche, graad wie do{{...|, Mei Hatz un Seel, gewiss.}} |translation=There are people there too, just like here}} :: --
   (Pennsylvania German) aa (preposition) :: on
 ===Aachen===
   Aachen (proper noun) genitive=Aachens :: The German city Aachen
@@ -119,9 +119,9 @@ Index: de de->en
 ===adverbial===
   adverbial {{de-adj|-}} :: adverbial
 ===æ===
-  æ (letter), lower case, upper case: Æ :: {obsolete} vowel borrowed from Latin. Succeeded by ä.
+  æ (letter), lower case, upper case: Æ :: {obsolete} Vowel borrowed from Latin. Succeeded by ä.
 ===Æ===
-  æ (letter), lower case, upper case: Æ :: {obsolete} vowel borrowed from Latin. Succeeded by ä.
+  æ (letter), lower case, upper case: Æ :: {obsolete} Vowel borrowed from Latin. Succeeded by ä.
 ===Affe===
   Affe {{de-noun|g=m|genitive=Affen|plural=Affen}} :: monkey
   Affe {{de-noun|g=m|genitive=Affen|plural=Affen}} :: ape
@@ -621,8 +621,8 @@ Index: de de->en
 ===bourgeois===
   bourgeois {{de-adj|comparative=bourgeoiser|superlative=bourgeoisesten}} :: bourgeois
 ===Brandenburg===
-  Brandenburg (proper noun) :: Brandenburg [state]
-  Brandenburg (proper noun) :: Brandenburg [town]
+  Brandenburg (proper noun) :: Brandenburg (state)
+  Brandenburg (proper noun) :: Brandenburg (town)
 ===brat===
   brat :: {{de-verb form of|braten|i|s}}
   brat :: {colloquial} {{de-verb form of|braten|1|s|g}}
@@ -691,20 +691,47 @@ Index: de de->en
   Burundi {n} (proper noun) :: Burundi
 ===c===
   c. (noun) :: {{non-gloss definition|Abbreviations of {{etyl|la|de}} terms:}}
-    {{l|la|caput}} and {{l|la|capitulum}} {{gloss|{{l|en|§}}; {{l|en|chapter}}, {{l|en|section}}}} :: --
+    caput and capitulum (§; chapter, section) :: --
     1655, Appendix, c. 2, S. 12–29 (eigene Paginierung) :: --
     1655, appendix, § 2, pp. 12–29 (own pagination) :: --
-    {{l|la|causa}} :: --
-    {{l|la|circa}} :: --
-    {{l|la|cito}} :: --
-    {{l|la|cum}} :: --
+    causa :: --
+    circa :: --
+    cito :: --
+    cum :: --
   c. (noun) :: {{non-gloss definition|Abbreviations of {{etyl|en|de}} terms:}}
-    {{l|en|carat}} :: --
-    {{l|en|Celsius}} :: --
-    {{l|en|code}} :: --
-    {{l|en|Coulomb}} :: --
-    {{l|en|coupé}} :: --
-    {{l|en|curie}} {{qualifier|unit of radiation}} :: --
+    carat :: --
+    Celsius :: --
+    code :: --
+    Coulomb :: --
+    coupé :: --
+    curie (unit of radiation) :: --
+===capitulum===
+  c. (noun) :: {{non-gloss definition|Abbreviations of {{etyl|la|de}} terms:}}
+    caput and capitulum (§; chapter, section) :: --
+    1655, Appendix, c. 2, S. 12–29 (eigene Paginierung) :: --
+    1655, appendix, § 2, pp. 12–29 (own pagination) :: --
+    causa :: --
+    circa :: --
+    cito :: --
+    cum :: --
+===caput===
+  c. (noun) :: {{non-gloss definition|Abbreviations of {{etyl|la|de}} terms:}}
+    caput and capitulum (§; chapter, section) :: --
+    1655, Appendix, c. 2, S. 12–29 (eigene Paginierung) :: --
+    1655, appendix, § 2, pp. 12–29 (own pagination) :: --
+    causa :: --
+    circa :: --
+    cito :: --
+    cum :: --
+===causa===
+  c. (noun) :: {{non-gloss definition|Abbreviations of {{etyl|la|de}} terms:}}
+    caput and capitulum (§; chapter, section) :: --
+    1655, Appendix, c. 2, S. 12–29 (eigene Paginierung) :: --
+    1655, appendix, § 2, pp. 12–29 (own pagination) :: --
+    causa :: --
+    circa :: --
+    cito :: --
+    cum :: --
 ===CD===
   CD {{de-noun|g=f|pl=CDs}} :: CD (compact disc)
 ===Ces===
@@ -728,6 +755,24 @@ Index: de de->en
   Christopher :: {{given name|male}} borrowed from English.
 ===Christus===
   Christus {m} (proper noun) :: Christ (the messiah who was named Jesus)
+===circa===
+  c. (noun) :: {{non-gloss definition|Abbreviations of {{etyl|la|de}} terms:}}
+    caput and capitulum (§; chapter, section) :: --
+    1655, Appendix, c. 2, S. 12–29 (eigene Paginierung) :: --
+    1655, appendix, § 2, pp. 12–29 (own pagination) :: --
+    causa :: --
+    circa :: --
+    cito :: --
+    cum :: --
+===cito===
+  c. (noun) :: {{non-gloss definition|Abbreviations of {{etyl|la|de}} terms:}}
+    caput and capitulum (§; chapter, section) :: --
+    1655, Appendix, c. 2, S. 12–29 (eigene Paginierung) :: --
+    1655, appendix, § 2, pp. 12–29 (own pagination) :: --
+    causa :: --
+    circa :: --
+    cito :: --
+    cum :: --
 ===Claudia===
   Claudia (proper noun) :: {{given name|female}} from the Latin feminine form of Claudius; quite popular from the 1960s to the 1980s.
 ===Costa===
@@ -735,6 +780,15 @@ Index: de de->en
 ===cover===
   cover :: {{de-verb form of|covern|1|s|g}}
   cover :: {{de-verb form of|covern|i|s}}
+===cum===
+  c. (noun) :: {{non-gloss definition|Abbreviations of {{etyl|la|de}} terms:}}
+    caput and capitulum (§; chapter, section) :: --
+    1655, Appendix, c. 2, S. 12–29 (eigene Paginierung) :: --
+    1655, appendix, § 2, pp. 12–29 (own pagination) :: --
+    causa :: --
+    circa :: --
+    cito :: --
+    cum :: --
 ===da===
   da {de-adv} :: there, here
     1918, Elisabeth von Heyking, Aus dem Lande der Ostseeritter, in Zwei Erzählungen, Phillipp Reclam jun., page 78: :: --
@@ -1093,11 +1147,15 @@ Index: de de->en
     Die Urschrift dieses Vertrags, dessen deutscher, englischer, französischer und russischer Wortlaut gleichermaßen verbindlich ist, wird bei der Regierung der Bundesrepublik Deutschland hinterlegt, die den Regierungen der anderen Vertragschließenden Seiten beglaubigte Ausfertigungen übermittelt. :: --
     The original of the present Treaty, of which the English, French, German and Russian texts are equally authentic, shall be deposited with the Government of the Federal Republic of Germany, which shall transmit certified true copies to the Governments of the other Contracting Parties. :: --
   englisch :: {obsolete} angelic, angelical
+  englische :: nominative singular form of englisch (English) used after the definite article.
+  englische :: nominative singular feminine form of englisch (English) used after the indefinite article.
+  englische :: accusative singular feminine and neuter form of englisch (English) used after the definite article.
+  englische :: accusative singular feminine form of englisch (English) used after the indefinite article.
 ===englische===
-  englische :: nominative singular form of {{term|englisch|English}} used after the definite article.
-  englische :: nominative singular feminine form of {{term|englisch|English}} used after the indefinite article.
-  englische :: accusative singular feminine and neuter form of {{term|englisch|English}} used after the definite article.
-  englische :: accusative singular feminine form of {{term|englisch|English}} used after the indefinite article.
+  englische :: nominative singular form of englisch (English) used after the definite article.
+  englische :: nominative singular feminine form of englisch (English) used after the indefinite article.
+  englische :: accusative singular feminine and neuter form of englisch (English) used after the definite article.
+  englische :: accusative singular feminine form of englisch (English) used after the indefinite article.
 ===er===
   er (pronoun) :: {personal} he.
     Wo ist Klaus? Wo ist er? :: Where is Klaus? Where is he?
@@ -1357,10 +1415,10 @@ Index: de de->en
   (Old High German) gast {{goh-noun|g=m}} :: A guest
 ===Gaul===
   Gaul {m} (noun), plural: Gäule :: horse
-  Gaul {m} (noun), plural: Gäule :: hack, nag [bad, old or incapable horse]
+  Gaul {m} (noun), plural: Gäule :: hack, nag (bad, old or incapable horse)
 ===Gäule===
   Gaul {m} (noun), plural: Gäule :: horse
-  Gaul {m} (noun), plural: Gäule :: hack, nag [bad, old or incapable horse]
+  Gaul {m} (noun), plural: Gäule :: hack, nag (bad, old or incapable horse)
 ===gebacken===
   backen {{de-verb-strong|backt or bäckt|backte or archaic buk|gebacken or gebackt|class=6}} :: {{transitive|or|intransitive}} to bake; to roast
     Der Bäcker backt jeden Morgen 30 Laib Brot. :: “The baker bakes 30 loaves of bread every morning.”
@@ -1402,7 +1460,7 @@ Index: de de->en
 ===gel===
   gel {{de-adj|comparative=geler|superlative=gelsten}} :: {archaic} {{alternative spelling of|gelb}} (yellow).
 ===Georgia===
-  Georgia {n} (proper noun) :: Georgia [US state]
+  Georgia {n} (proper noun) :: Georgia (US state)
 ===gerade===
   rate (verb form) :: {{de-verb form of|raten|i|s}}
     Rate mal, wer gerade gekommen ist! :: Guess who's just arrived.
@@ -1457,7 +1515,7 @@ Index: de de->en
     Glaubst du an Engel? :: Do you believe in angels?
     Niemand kann ihm glauben. :: No-one can believe him.
 ===global===
-  global {{de-adj|-}} :: global [worldwide]
+  global {{de-adj|-}} :: global (worldwide)
 ===god===
   (Low German) god (adjective) :: good
   (Middle Low German) gôd (adjective) :: good
@@ -2118,7 +2176,7 @@ Index: de de->en
   log :: {{de-verb form of|lügen|1|s|v}}
   log :: {{de-verb form of|lügen|3|s|v}}
 ===London===
-  London (proper noun) :: London [city]
+  London (proper noun) :: London (city)
 ===los===
   los (adverb)(only used in combination with sein (to be) or another verb) :: loose (not attached)
   los (adverb)(only used in combination with sein (to be) or another verb) :: rid of
@@ -2183,7 +2241,7 @@ Index: de de->en
 ===Malta===
   Malta {n} (proper noun) :: Malta
 ===Malte===
-  Malte (proper noun) :: {{given name|male}} borrowed from {{etyl|da|de}} {{term|Malte}}.
+  Malte (proper noun) :: {{given name|male}} borrowed from {{etyl|da|de}} Malte.
 ===man===
   man (indefinite pronoun) :: {indefinite} one, they (indefinite third-person singular pronoun)
     was man sehen kann :: what one can see
@@ -2366,10 +2424,10 @@ Index: de de->en
 ===na===
   na (interjection) :: well!
 ===nach===
-  nach (preposition), + dative :: after, past [later in time]
+  nach (preposition), + dative :: after, past (later in time)
     {{usex|Viertel nach sechs|translation=a quarter past six}} :: --
     {{usex|nach einer Woche|translation=after a week}} :: --
-  nach (preposition), + dative :: after, behind [motion-wise]
+  nach (preposition), + dative :: after, behind (motion-wise)
   nach (preposition), + dative :: towards, to
     {{usex|die Flucht nach Ägypten|translation=the flight into Egypt}} :: --
   nach (preposition), + dative :: according to
@@ -2546,7 +2604,7 @@ Index: de de->en
 ===nu===
   nu (interjection) :: well, well now
 ===null===
-  null {{de-adj|-|-}} :: {slang} no, zero [absolutely none]
+  null {{de-adj|-|-}} :: {slang} no, zero (absolutely none)
   null (numeral) :: {cardinal} zero
 ===nun===
   nun {de-adv} :: now; then
@@ -2658,6 +2716,8 @@ Index: de de->en
   Peru {n} (proper noun) :: Peru
 ===Peter===
   Peter {de-proper noun} :: {{given name|male}}.
+===Pferdestärken===
+  PS (abbreviation) :: Abbreviation of Pferdestärken (horsepower)
 ===Pflanze===
   Pflanze {{de-noun|g=f|plural=Pflanzen}} :: plant
 ===pflanzen===
@@ -2724,9 +2784,9 @@ Index: de de->en
 ===prost===
   prost! (interjection) :: the usual toast when drinking alcohol; cheers
 ===PS===
-  PS (abbreviation) :: Abbreviation of {{term|Pferdestärken|horsepower}}
+  PS (abbreviation) :: Abbreviation of Pferdestärken (horsepower)
 ===Python===
-  Python {{de-noun|g=f|plural=Pythons}} :: python [snake]
+  Python {{de-noun|g=f|plural=Pythons}} :: python (snake)
   Python {{de-noun|g=n|pl=-|genitive=Python}} :: Python
 ===quake===
   quake :: {{de-verb form of|quaken|1|s|g}}
@@ -3662,7 +3722,7 @@ Index: de de->en
 ===water===
   (Low German) water {{nds-noun|g=n}} :: water
   (Middle Low German) water (noun) :: water
-    {{quote-book|year=1537|author=Jürgen Richolff der Jüngere|title=Datt högeste unde öldeste water recht|section=xxviii|passage=Eyn schip effte twe effte meer liggen in einer hauen dar kleyn '''water''' is / vnde plecht dröge tho synde / also dat dat eyne schip hart by dem andern tho liggende kumpt {{...}}}} :: --
+    {{quote-book|year=1537|author=Jürgen Richolff der Jüngere|title=Datt högeste unde öldeste water recht|section=xxviii|passage=Eyn schip effte twe effte meer liggen in einer hauen dar kleyn water is / vnde plecht dröge tho synde / also dat dat eyne schip hart by dem andern tho liggende kumpt ...}} :: --
 ===WC===
   WC {{de-noun|g=n|pl=WCs}} :: WC (water closet)
 ===weg===
@@ -3835,11 +3895,11 @@ Index: de de->en
     Kellner, zahlen bitte! :: Waiter, the bill please!
   zahlen {{de-verb-weak|zahlt|zahlte|gezahlt}} :: to pay for, to atone for.
 ===zählen===
-  zählen {de-verb} :: to count [to determine the number of objects in a group]
-  zählen {de-verb} :: to count [to enumerate the digits of one's numeral system]
-  zählen {de-verb} :: to count [to be of significance; to matter]
+  zählen {de-verb} :: to count (to determine the number of objects in a group)
+  zählen {de-verb} :: to count (to enumerate the digits of one's numeral system)
+  zählen {de-verb} :: to count (to be of significance; to matter)
     Jede Stimme zählt. :: --
-  zählen {de-verb} :: to count, to be reckoned [to be an example of something]
+  zählen {de-verb} :: to count, to be reckoned (to be an example of something)
     2010, Der Spiegel, issue [http://www.spiegel.de/spiegel/print/index-2010-34.html 34/2010], page 131: :: --
     Der Autosalon in Moskau zählt zu den internationalen Schaubühnen für Fahrzeuginteressierte mit unbegrenzten Ansprüchen. :: --
     The motor show in Moskow is reckoned among the international stages for people interested in vehicles with unlimited demands. :: --
@@ -4035,7 +4095,7 @@ Index: en en->de
 ===90===
   grün {{de-adj|comparative=grüner|superlative=grünsten}} :: {{context|politics|Germany}} pertaining to Bündnis 90/Die Grünen (the largest environmental party in Germany)
 ===ä===
-  æ (letter), lower case, upper case: Æ :: {obsolete} vowel borrowed from Latin. Succeeded by ä.
+  æ (letter), lower case, upper case: Æ :: {obsolete} Vowel borrowed from Latin. Succeeded by ä.
 ===Aachen===
   Aachen (proper noun) genitive=Aachens :: The German city Aachen
 ===Aargau===
@@ -4048,7 +4108,7 @@ Index: en en->de
   VB :: Abbreviation of Vereinbarung or Verhandlungsbasis
   NB :: {{context|apartment listing}} Abbreviation of Neubau
   ME :: {{context|real estate listing}} Abbreviation of Mieteinnahmen
-  PS (abbreviation) :: Abbreviation of {{term|Pferdestärken|horsepower}}
+  PS (abbreviation) :: Abbreviation of Pferdestärken (horsepower)
   MM (abbreviation) :: {{context|apartment listing}} Abbreviation of Monatsmiete or Monatsmieten
 ===aber===
   schade (used predicative) :: Das ist aber schade! or, for short, Schade!
@@ -4069,7 +4129,7 @@ Index: en en->de
 ===absence===
   un- (prefix) :: un- (denoting absence, a lack of; violative of; contrary to)
 ===absolutely===
-  null {{de-adj|-|-}} :: {slang} no, zero [absolutely none]
+  null {{de-adj|-|-}} :: {slang} no, zero (absolutely none)
 ===abstinent===
   abstinent {{de-adj|comparative=abstinenter|superlative=abstinentesten}} :: abstinent
 ===abstract===
@@ -4100,8 +4160,8 @@ Index: en en->de
   wen :: {interrogative} accusative of wer, who(m) (direct object).
   einen + accusative of masculine noun :: (without noun) one (masculine accusative)
   einen :: masculine accusative of indefinite pronoun: one
-  englische :: accusative singular feminine and neuter form of {{term|englisch|English}} used after the definite article.
-  englische :: accusative singular feminine form of {{term|englisch|English}} used after the indefinite article.
+  englische :: accusative singular feminine and neuter form of englisch (English) used after the definite article.
+  englische :: accusative singular feminine form of englisch (English) used after the indefinite article.
   jeden :: each (masculine accusative singular form of jeder)
 ===ache===
   Schmerz {{de-noun|g=m|gen=Schmerzes|pl=Schmerzen}} :: ache, pain
@@ -4168,18 +4228,18 @@ Index: en en->de
   sein {{de-verb-irregular|ist|war|gewesen|auxiliary=sein}} :: {intransitive} To exist; there be
     Mir ist Angst. :: For me there is fear. (“I am afraid.”)
 ===after===
-  nach (preposition), + dative :: after, past [later in time]
+  nach (preposition), + dative :: after, past (later in time)
     {{usex|Viertel nach sechs|translation=a quarter past six}} :: --
     {{usex|nach einer Woche|translation=after a week}} :: --
-  nach (preposition), + dative :: after, behind [motion-wise]
+  nach (preposition), + dative :: after, behind (motion-wise)
   nach {de-adv} :: after, behind, nigh, next to.
   sehen {{de-verb-strong|sieht|sah|gesehen|class=5}} :: {{intransitive|with “nach ...”}} to take care (of something or someone); to make (something) happen; to see (to something); to look (after someone)
   deutsche (adjective form) :: form of deutsch after a definite article
     die deutsche Sprache; der deutsche Bundespräsident; das deutsche Gesundheitssystem :: --
-  englische :: nominative singular form of {{term|englisch|English}} used after the definite article.
-  englische :: nominative singular feminine form of {{term|englisch|English}} used after the indefinite article.
-  englische :: accusative singular feminine and neuter form of {{term|englisch|English}} used after the definite article.
-  englische :: accusative singular feminine form of {{term|englisch|English}} used after the indefinite article.
+  englische :: nominative singular form of englisch (English) used after the definite article.
+  englische :: nominative singular feminine form of englisch (English) used after the indefinite article.
+  englische :: accusative singular feminine and neuter form of englisch (English) used after the definite article.
+  englische :: accusative singular feminine form of englisch (English) used after the indefinite article.
 ===again===
   mehr :: no longer, never again, nothing more (+ negation)
     er ist kein Kind mehr :: --
@@ -4264,7 +4324,7 @@ Index: en en->de
     Hit isch dr Jean-Pierre so drüri. :: Jean-Pierre is so sad today.
 ===also===
   (Pennsylvania German) aa (adverb) :: also
-    {{quote-book|year=1908|author=Astor C. Wuchter|title=A Pennsylvania German Anthology|editor=Earl C. Haag|chapter=Die Mudderschprooch|page=56|pageurl=http://books.google.com/books?id=UAuw2OmZBUMC&pg=PA56 |passage={{...|Datt wu die Palme duffdich sin, Wu's immer Summer iss;}} Datt sin '''aa''' Mensche, graad wie do{{...|, Mei Hatz un Seel, gewiss.}} |translation=There are people there '''too''', just like here}} :: --
+    {{quote-book|year=1908|author=Astor C. Wuchter|title=A Pennsylvania German Anthology|editor=Earl C. Haag|chapter=Die Mudderschprooch|page=56|pageurl=http://books.google.com/books?id=UAuw2OmZBUMC&pg=PA56|passage={{...|Datt wu die Palme duffdich sin, Wu's immer Summer iss;}} Datt sin aa Mensche, graad wie do{{...|, Mei Hatz un Seel, gewiss.}} |translation=There are people there too, just like here}} :: --
   Bube {{de-noun|g=m|genitive=Buben|plural=Buben}} :: boy, lad (chiefly Swiss and Austrian, but also in Germany)
 ===Alternate===
   wuerdigen (verb form) :: Alternate transliteration of würdigen.
@@ -4450,10 +4510,10 @@ Index: en en->de
   sein (possessive pronoun) :: {possessive} its (when the owning object/article/thing/animal etc., is neuter (das) or masculine (der))
   ihr {m}, ihr {n}, ihre {f}, ihre (pl.) :: {possessive} its (when the owning object/article/thing/animal etc., referred to, is feminine (die)).
   sie {f} :: {personal} it (when the object/article/thing/animal etc., referred to, is feminine (die)).
-  englische :: nominative singular form of {{term|englisch|English}} used after the definite article.
-  englische :: nominative singular feminine form of {{term|englisch|English}} used after the indefinite article.
-  englische :: accusative singular feminine and neuter form of {{term|englisch|English}} used after the definite article.
-  englische :: accusative singular feminine form of {{term|englisch|English}} used after the indefinite article.
+  englische :: nominative singular form of englisch (English) used after the definite article.
+  englische :: nominative singular feminine form of englisch (English) used after the indefinite article.
+  englische :: accusative singular feminine and neuter form of englisch (English) used after the definite article.
+  englische :: accusative singular feminine form of englisch (English) used after the indefinite article.
 ===As===
   so (adverb) :: as
     So gut wie. :: As good as.
@@ -4519,7 +4579,7 @@ Index: en en->de
   zurück :: back, backwards, to the rear.
 ===bad===
   übel :: bad
-  Gaul {m} (noun), plural: Gäule :: hack, nag [bad, old or incapable horse]
+  Gaul {m} (noun), plural: Gäule :: hack, nag (bad, old or incapable horse)
 ===Baden===
   Baden-Württemberg :: Baden-Württemberg
 ===Bahamas===
@@ -4649,7 +4709,7 @@ Index: en en->de
   Gigant {{de-noun|g=m|genitive=Giganten|plural=Giganten}} :: behemoth
   Riesentier n (Riesentiere) :: behemoth
 ===behind===
-  nach (preposition), + dative :: after, behind [motion-wise]
+  nach (preposition), + dative :: after, behind (motion-wise)
   nach {de-adv} :: after, behind, nigh, next to.
   Zug {{de-noun|g=m|genitive=Zugs|genitive2=Zuges|plural=Züge}} :: train (multiple vehicles one behind the other, particularly travelling on rails)
 ===beige===
@@ -4755,8 +4815,8 @@ Index: en en->de
   Michelle (proper noun) :: {{given name|female}} recently borrowed from French.
   Nicolas (proper noun) :: {{given name|male}} borrowed from {{etyl|fr|de}}.
   Larissa (proper noun) :: {{given name|female}} borrowed from {{etyl|ru|de}} in the 20th century.
-  Malte (proper noun) :: {{given name|male}} borrowed from {{etyl|da|de}} {{term|Malte}}.
-  æ (letter), lower case, upper case: Æ :: {obsolete} vowel borrowed from Latin. Succeeded by ä.
+  Malte (proper noun) :: {{given name|male}} borrowed from {{etyl|da|de}} Malte.
+  æ (letter), lower case, upper case: Æ :: {obsolete} Vowel borrowed from Latin. Succeeded by ä.
   Alice (proper noun) :: {{given name|female}} borrowed from English; cognate to modern German Adelheid.
 ===both===
   langsam {{de-adj|comparative=langsamer|superlative=langsamsten}} :: slow, both in the senses of slow physical movement and limited progress
@@ -4776,8 +4836,8 @@ Index: en en->de
   wie :: {nonstandard} than
     Der Junge ist größer wie sein Vater. :: The boy is taller than his father.
 ===Brandenburg===
-  Brandenburg (proper noun) :: Brandenburg [state]
-  Brandenburg (proper noun) :: Brandenburg [town]
+  Brandenburg (proper noun) :: Brandenburg (state)
+  Brandenburg (proper noun) :: Brandenburg (town)
 ===brandy===
   Wasser {n} (noun), genitive: Wassers, plural: Wasser, plural 2 (depending on sense): Wässer :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is Wässer.)
 ===Brazzaville===
@@ -4952,6 +5012,14 @@ Index: en en->de
   sein {{de-verb-irregular|ist|war|gewesen|auxiliary=sein}} :: {{context|with a predicate adjective or predicate nominative}} To be
     Das ist schön. :: That is beautiful.
     Das ist ein Auto. :: That is a car.
+===carat===
+  c. (noun) :: {{non-gloss definition|Abbreviations of {{etyl|en|de}} terms:}}
+    carat :: --
+    Celsius :: --
+    code :: --
+    Coulomb :: --
+    coupé :: --
+    curie (unit of radiation) :: --
 ===card===
   Bube {{de-noun|g=m|genitive=Buben|plural=Buben}} :: A playing card marked with the figure of a servant or soldier; a jack.
 ===care===
@@ -5003,6 +5071,14 @@ Index: en en->de
     Das Spiel ist aus! :: The jig game is up!
 ===celestial===
   Kugel {{de-noun|g=f|plural=Kugeln}} :: {astronomy}, {geography} orb, globe, celestial body {{defdate|16th century}}
+===Celsius===
+  c. (noun) :: {{non-gloss definition|Abbreviations of {{etyl|en|de}} terms:}}
+    carat :: --
+    Celsius :: --
+    code :: --
+    Coulomb :: --
+    coupé :: --
+    curie (unit of radiation) :: --
 ===Celtic===
   Manx {n} (proper noun) :: Manx Gaelic, the Goidelic Celtic language spoken on the Isle of Man
 ===center===
@@ -5028,6 +5104,15 @@ Index: en en->de
   Raum {{de-noun|g=m|genitive=Raums|genitive2=Raumes|plural=Räume}} :: room, space, chamber
 ===chant===
   (Low German) sang {m} (noun), Genitive: sanges :: a chant, a song
+===chapter===
+  c. (noun) :: {{non-gloss definition|Abbreviations of {{etyl|la|de}} terms:}}
+    caput and capitulum (§; chapter, section) :: --
+    1655, Appendix, c. 2, S. 12–29 (eigene Paginierung) :: --
+    1655, appendix, § 2, pp. 12–29 (own pagination) :: --
+    causa :: --
+    circa :: --
+    cito :: --
+    cum :: --
 ===character===
   Charakter {{de-noun|g=m|genitive=Charakters|plural=Charaktere}} :: character
 ===charge===
@@ -5093,7 +5178,7 @@ Index: en en->de
     1931, Gebhard Mehring, Schrift und Schrifttum, Silberburg-Verlag, page 13: :: --
     Der Zerfall des Römerreiches raubte der Stadt Rom die alte Stellung als Mittelpunkt alles Geschehens. :: --
     The decay of the Roman empire robbed the city of Rome of the old position as the center of all that was happening. :: --
-  London (proper noun) :: London [city]
+  London (proper noun) :: London (city)
   Madrid (proper noun) :: Madrid, Spanish capital city and province
   Straße {{de-noun|g=f|plural=Straßen}} :: a paved road, especially in the city
     Das Kind überquerte die Straße. :: The child crossed the road.
@@ -5166,6 +5251,14 @@ Index: en en->de
   Kutsche {{de-noun|g=f|plural=Kutschen}} :: carriage, coach.
 ===coarse===
   Büffel {{de-noun|g=m|genitive=Büffels|plural=Büffel}} :: coarse cloth
+===code===
+  c. (noun) :: {{non-gloss definition|Abbreviations of {{etyl|en|de}} terms:}}
+    carat :: --
+    Celsius :: --
+    code :: --
+    Coulomb :: --
+    coupé :: --
+    curie (unit of radiation) :: --
 ===cog===
   Zahn {{de-noun|g=m|genitive=Zahns|genitive2=Zahnes|plural=Zähne}} :: cog, tine.
 ===cognate===
@@ -5272,12 +5365,20 @@ Index: en en->de
 ===could===
   frei {{de-adj|comparative=freier|superlative=freisten}} :: released, unimprisoned, unenslaved
     Stadtluft macht frei. :: City's air makes free. (By living in a city for a certain time, a German peasant could free himself from serfdom.)
+===Coulomb===
+  c. (noun) :: {{non-gloss definition|Abbreviations of {{etyl|en|de}} terms:}}
+    carat :: --
+    Celsius :: --
+    code :: --
+    Coulomb :: --
+    coupé :: --
+    curie (unit of radiation) :: --
 ===count===
-  zählen {de-verb} :: to count [to determine the number of objects in a group]
-  zählen {de-verb} :: to count [to enumerate the digits of one's numeral system]
-  zählen {de-verb} :: to count [to be of significance; to matter]
+  zählen {de-verb} :: to count (to determine the number of objects in a group)
+  zählen {de-verb} :: to count (to enumerate the digits of one's numeral system)
+  zählen {de-verb} :: to count (to be of significance; to matter)
     Jede Stimme zählt. :: --
-  zählen {de-verb} :: to count, to be reckoned [to be an example of something]
+  zählen {de-verb} :: to count, to be reckoned (to be an example of something)
     2010, Der Spiegel, issue [http://www.spiegel.de/spiegel/print/index-2010-34.html 34/2010], page 131: :: --
     Der Autosalon in Moskau zählt zu den internationalen Schaubühnen für Fahrzeuginteressierte mit unbegrenzten Ansprüchen. :: --
     The motor show in Moskow is reckoned among the international stages for people interested in vehicles with unlimited demands. :: --
@@ -5298,6 +5399,14 @@ Index: en en->de
 ===Country===
   Basel-Landschaft {de-proper noun} :: Basel-Country, Basel-Landschaft
   Liechtenstein {{de-proper noun|g=n}} :: Country in Europe. Official name: Fürstentum Liechtenstein.
+===coupé===
+  c. (noun) :: {{non-gloss definition|Abbreviations of {{etyl|en|de}} terms:}}
+    carat :: --
+    Celsius :: --
+    code :: --
+    Coulomb :: --
+    coupé :: --
+    curie (unit of radiation) :: --
 ===couples===
   Paare {plural of|Paar} :: pairs, couples
 ===courageous===
@@ -5340,6 +5449,14 @@ Index: en en->de
   schwarz {{de-adj|comparative=schwärzer|superlative=schwärzesten}} :: {{context|politics|Germany}} pertaining to the CDU/CSU (a large center right christian democratic party in Germany)
 ===cunning===
   link (adjective) :: sly; cunning.
+===curie===
+  c. (noun) :: {{non-gloss definition|Abbreviations of {{etyl|en|de}} terms:}}
+    carat :: --
+    Celsius :: --
+    code :: --
+    Coulomb :: --
+    coupé :: --
+    curie (unit of radiation) :: --
 ===currency===
   Pfund {{de-noun|g=n|genitive=Pfunds|plural=Pfunde}} :: pound (currency unit)
 ===current===
@@ -5367,7 +5484,6 @@ Index: en en->de
 ===das===
   all (pronoun) :: {Short form|alles} Only used in the combination all das (=all that).
   es {n} :: {personal} it (when the object/article/thing/animal etc., referred to, is neuter (das)).
-  sein (possessive pronoun) :: {possessive} its (when the owning object/article/thing/animal etc., is neuter (das) or masculine (der))
   rechts {de-adv} :: on the right: Siehst du das Auto rechts?
 ===Das===
   schade (used predicative) :: Das ist aber schade! or, for short, Schade!
@@ -5429,8 +5545,8 @@ Index: en en->de
     Genitive plural for all genders. :: --
   deutsche (adjective form) :: form of deutsch after a definite article
     die deutsche Sprache; der deutsche Bundespräsident; das deutsche Gesundheitssystem :: --
-  englische :: nominative singular form of {{term|englisch|English}} used after the definite article.
-  englische :: accusative singular feminine and neuter form of {{term|englisch|English}} used after the definite article.
+  englische :: nominative singular form of englisch (English) used after the definite article.
+  englische :: accusative singular feminine and neuter form of englisch (English) used after the definite article.
 ===definitely===
   ja {de-adv} :: urgently; certainly; definitely; surely; really; just
     Es kann ja nicht immer so bleiben. :: “It definitely cannot always remain so.”
@@ -5469,7 +5585,6 @@ Index: en en->de
     Dies ist mein Hund. Er heißt Waldi. :: This is my dog. Its name is Waldi.
     Dort steht ein Baum. Er ist über 100 Jahre alt. :: There stands a tree. It is more than 100 years old.
   Talsohle {{de-noun|g=f|plural=Talsohlen}} :: trough, bottom of the economic recession, Talsohle der Rezession
-  sein (possessive pronoun) :: {possessive} its (when the owning object/article/thing/animal etc., is neuter (das) or masculine (der))
   rechts {de-adv} :: to the right: An der nächsten Ampel rechts abbiegen.
 ===derived===
   Schadenfreude {{de-noun|g=f|pl=-}} :: Malicious enjoyment derived from observing someone else's misfortune; schadenfreude.
@@ -5483,7 +5598,7 @@ Index: en en->de
 ===destruction===
   Zerstörung {{de-noun|g=f|plural=Zerstörungen}} :: destruction, demolition.
 ===determine===
-  zählen {de-verb} :: to count [to determine the number of objects in a group]
+  zählen {de-verb} :: to count (to determine the number of objects in a group)
 ===deutsch===
   deutscher {m} (adjective form) :: male form of deutsch
     ein deutscher Wein :: --
@@ -5515,7 +5630,7 @@ Index: en en->de
   digital {{de-adj|-}} :: {medicine} digital
   Digitalkamera {{de-noun|g=f|plural=Digitalkameras}} :: digital camera.
 ===digits===
-  zählen {de-verb} :: to count [to enumerate the digits of one's numeral system]
+  zählen {de-verb} :: to count (to enumerate the digits of one's numeral system)
 ===diminutive===
   Adi (proper noun) :: A diminutive of the male given name Adolf.
 ===dioxide===
@@ -5748,6 +5863,10 @@ Index: en en->de
   Fanny (proper noun) :: {{given name|female}} borrowed from English.
   Christopher :: {{given name|male}} borrowed from English.
   Alexander (proper noun) :: {{given name|male}}, cognate to English Alexander.
+  englische :: nominative singular form of englisch (English) used after the definite article.
+  englische :: nominative singular feminine form of englisch (English) used after the indefinite article.
+  englische :: accusative singular feminine and neuter form of englisch (English) used after the definite article.
+  englische :: accusative singular feminine form of englisch (English) used after the indefinite article.
   Paul (proper noun) :: {{given name|male}}, cognate to English Paul.
   Alice (proper noun) :: {{given name|female}} borrowed from English; cognate to modern German Adelheid.
   Jacob (proper noun) :: {{given name|male}}, equivalent to English Jacob and James.
@@ -5763,7 +5882,7 @@ Index: en en->de
 ===entities===
   Zusammenklang :: "sounding together", a pitch simultaneity, sonority, or a chord in the sense of indpendent entities sounding together.
 ===enumerate===
-  zählen {de-verb} :: to count [to enumerate the digits of one's numeral system]
+  zählen {de-verb} :: to count (to enumerate the digits of one's numeral system)
 ===environmental===
   grün {{de-adj|comparative=grüner|superlative=grünsten}} :: {{context|politics|Germany}} pertaining to Bündnis 90/Die Grünen (the largest environmental party in Germany)
 ===environmentally===
@@ -5860,7 +5979,7 @@ Index: en en->de
 ===exactly===
   recht :: exactly
 ===example===
-  zählen {de-verb} :: to count, to be reckoned [to be an example of something]
+  zählen {de-verb} :: to count, to be reckoned (to be an example of something)
     2010, Der Spiegel, issue [http://www.spiegel.de/spiegel/print/index-2010-34.html 34/2010], page 131: :: --
     Der Autosalon in Moskau zählt zu den internationalen Schaubühnen für Fahrzeuginteressierte mit unbegrenzten Ansprüchen. :: --
     The motor show in Moskow is reckoned among the international stages for people interested in vehicles with unlimited demands. :: --
@@ -5982,9 +6101,9 @@ Index: en en->de
     Möchtest du ne Flasche Bier? :: “Would you like a bottle of beer?”
   ihr {m}, ihr {n}, ihre {f}, ihre (pl.) :: {possessive} its (when the owning object/article/thing/animal etc., referred to, is feminine (die)).
   sie {f} :: {personal} it (when the object/article/thing/animal etc., referred to, is feminine (die)).
-  englische :: nominative singular feminine form of {{term|englisch|English}} used after the indefinite article.
-  englische :: accusative singular feminine and neuter form of {{term|englisch|English}} used after the definite article.
-  englische :: accusative singular feminine form of {{term|englisch|English}} used after the indefinite article.
+  englische :: nominative singular feminine form of englisch (English) used after the indefinite article.
+  englische :: accusative singular feminine and neuter form of englisch (English) used after the definite article.
+  englische :: accusative singular feminine form of englisch (English) used after the indefinite article.
   Claudia (proper noun) :: {{given name|female}} from the Latin feminine form of Claudius; quite popular from the 1960s to the 1980s.
 ===ferment===
   arbeiten {de-verb} :: {intransitive} to ferment
@@ -6233,7 +6352,7 @@ Index: en en->de
 ===genus===
   Schneeball {{de-noun|g=m|genitive=Schneeballs|plural=Schneebälle}} :: viburnum, any shrub of the genus Viburnum
 ===Georgia===
-  Georgia {n} (proper noun) :: Georgia [US state]
+  Georgia {n} (proper noun) :: Georgia (US state)
 ===germ===
   Auge {{de-noun|g=n|pl=Augen|dim=Äuglein}} :: germ, bud
 ===German===
@@ -6299,7 +6418,7 @@ Index: en en->de
     bei der Arbeit :: “during work”
     bei einem Glase Wein :: “over a glass of wine”
 ===global===
-  global {{de-adj|-}} :: global [worldwide]
+  global {{de-adj|-}} :: global (worldwide)
 ===globe===
   Kugel {{de-noun|g=f|plural=Kugeln}} :: {astronomy}, {geography} orb, globe, celestial body {{defdate|16th century}}
 ===glue===
@@ -6419,7 +6538,7 @@ Index: en en->de
   rennen {de-verb} :: {{transitive|auxiliary: “sein”}} to run over (someone)
     jemanden zu Boden rennen :: “to run someone to the ground”
 ===group===
-  zählen {de-verb} :: to count [to determine the number of objects in a group]
+  zählen {de-verb} :: to count (to determine the number of objects in a group)
 ===grow===
   (Low German) was (verb form) :: grow; apocoped form of wasse, singular imperative of wassen
   beschlagen (third-person singular simple present beschlägt, past tense beschlug, past participle beschlagen) :: to grow moldy or tarnished.
@@ -6456,7 +6575,7 @@ Index: en en->de
 ===habit===
   Aasfliege {{de-noun|g=f|plural=Aasfliegen}} :: {uncommon} A person with a habit of exploiting other people.
 ===hack===
-  Gaul {m} (noun), plural: Gäule :: hack, nag [bad, old or incapable horse]
+  Gaul {m} (noun), plural: Gäule :: hack, nag (bad, old or incapable horse)
 ===hair===
   albino (adjective) :: albino, albinistic: congenitally lacking melanin pigmentation in the skin, eyes, and hair or feathers (or more rarely only in the eyes); afflicted with albinism
 ===haired===
@@ -6688,8 +6807,10 @@ Index: en en->de
   mies (mieser, am miesesten) :: {{usually|somewhat jocularly}} mean, wretched; as, ein mieser Kater (a horrible hang-over), ein mieser Kerl (a mean guy).
 ===horse===
   Gaul {m} (noun), plural: Gäule :: horse
-  Gaul {m} (noun), plural: Gäule :: hack, nag [bad, old or incapable horse]
+  Gaul {m} (noun), plural: Gäule :: hack, nag (bad, old or incapable horse)
   hüa (interjection), also hüah :: directed at a horse: move on!, go faster! - giddyup
+===horsepower===
+  PS (abbreviation) :: Abbreviation of Pferdestärken (horsepower)
 ===horticulture===
   Räuber {{de-noun|g=m|gen=Räubers|plural=Räuber}} :: sucker (horticulture)
 ===hot===
@@ -6783,15 +6904,15 @@ Index: en en->de
     Ich kenne ein Mädchen, das das kann. :: I know a girl who can do that.
   Wasser {n} (noun), genitive: Wassers, plural: Wasser, plural 2 (depending on sense): Wässer :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is Wässer.)
 ===incapable===
-  Gaul {m} (noun), plural: Gäule :: hack, nag [bad, old or incapable horse]
+  Gaul {m} (noun), plural: Gäule :: hack, nag (bad, old or incapable horse)
 ===inclination===
   Liebe {{de-noun|g=f|plural=Lieben}} :: (no plural) lust (sexually or erotically motivated inclination)
 ===indefinite===
   ne :: {colloquial} shorthand of the feminine indefinite article eine (“an; a”)
     Möchtest du ne Flasche Bier? :: “Would you like a bottle of beer?”
   einen :: masculine accusative of indefinite pronoun: one
-  englische :: nominative singular feminine form of {{term|englisch|English}} used after the indefinite article.
-  englische :: accusative singular feminine form of {{term|englisch|English}} used after the indefinite article.
+  englische :: nominative singular feminine form of englisch (English) used after the indefinite article.
+  englische :: accusative singular feminine form of englisch (English) used after the indefinite article.
 ===Indian===
   rot {{de-adj|comparative=röter|superlative=rötesten}}<br>{{de-adj|comparative=roter|superlative=rotesten}} :: {{context|historical|offensive}} Indian (pertaining to the Native Americans)
 ===indicates===
@@ -7109,13 +7230,13 @@ Index: en en->de
 ===lasting===
   Verbrauchsmusik {{de-noun|g=f|plural=Verbrauchsmusiken}} :: Music without lasting value, written to be used and discarded quickly.
 ===later===
-  nach (preposition), + dative :: after, past [later in time]
+  nach (preposition), + dative :: after, past (later in time)
     {{usex|Viertel nach sechs|translation=a quarter past six}} :: --
     {{usex|nach einer Woche|translation=after a week}} :: --
 ===latest===
   neu (adjective) :: modern, recent, latest
 ===Latin===
-  æ (letter), lower case, upper case: Æ :: {obsolete} vowel borrowed from Latin. Succeeded by ä.
+  æ (letter), lower case, upper case: Æ :: {obsolete} Vowel borrowed from Latin. Succeeded by ä.
   Claudia (proper noun) :: {{given name|female}} from the Latin feminine form of Claudius; quite popular from the 1960s to the 1980s.
 ===Latvian===
   lettisch (adjective) :: Latvian
@@ -7260,7 +7381,7 @@ Index: en en->de
 ===logical===
   dass :: (subordinating) that, it (logical conditional)
 ===London===
-  London (proper noun) :: London [city]
+  London (proper noun) :: London (city)
 ===long===
   baba (interjection) :: {{informal|chiefly|_|in|_|Austria}} see you, so long
 ===longer===
@@ -7420,7 +7541,7 @@ Index: en en->de
   jeden :: each (masculine accusative singular form of jeder)
   jeden :: each (a masculine genitive singular form of jeder)
 ===matter===
-  zählen {de-verb} :: to count [to be of significance; to matter]
+  zählen {de-verb} :: to count (to be of significance; to matter)
     Jede Stimme zählt. :: --
 ===Mauritius===
   Mauritius {n} (proper noun) :: Mauritius
@@ -7611,7 +7732,7 @@ Index: en en->de
   deutsch {{de-adj|deutscher|deutschesten}} :: German
     Meine Mutter ist deutscher Herkunft, aber mein Vater ist Österreicher. :: My mother is of German origin but my father is Austrian.
 ===motion===
-  nach (preposition), + dative :: after, behind [motion-wise]
+  nach (preposition), + dative :: after, behind (motion-wise)
 ===motivated===
   Liebe {{de-noun|g=f|plural=Lieben}} :: (no plural) lust (sexually or erotically motivated inclination)
 ===motorway===
@@ -7674,7 +7795,7 @@ Index: en en->de
 ===nächsten===
   rechts {de-adv} :: to the right: An der nächsten Ampel rechts abbiegen.
 ===nag===
-  Gaul {m} (noun), plural: Gäule :: hack, nag [bad, old or incapable horse]
+  Gaul {m} (noun), plural: Gäule :: hack, nag (bad, old or incapable horse)
 ===nail===
   beschlagen (third-person singular simple present beschlägt, past tense beschlug, past participle beschlagen) :: to fit with nails, studs, clasps, etc.
 ===naked===
@@ -7753,7 +7874,7 @@ Index: en en->de
   das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
     Ich kenne ein Mädchen, das das kann. :: I know a girl who can do that.
   sein (possessive pronoun) :: {possessive} its (when the owning object/article/thing/animal etc., is neuter (das) or masculine (der))
-  englische :: accusative singular feminine and neuter form of {{term|englisch|English}} used after the definite article.
+  englische :: accusative singular feminine and neuter form of englisch (English) used after the definite article.
   jeden :: each (a neuter genitive singular form of jeder)
 ===Neuter===
   junges (adjective form) :: Neuter form of jung.
@@ -7816,7 +7937,7 @@ Index: en en->de
 ===nipple===
   Brustwarze {{de-noun|g=f|plural=Brustwarzen}} :: nipple, teat
 ===no===
-  null {{de-adj|-|-}} :: {slang} no, zero [absolutely none]
+  null {{de-adj|-|-}} :: {slang} no, zero (absolutely none)
   ne? (interjection) :: {colloquial} no?; is it not?
     Großartig, ne? :: “Great, isn’t it?”
   nein {de-adv} :: no
@@ -7846,12 +7967,12 @@ Index: en en->de
   Amsterdam {de-proper noun} :: Amsterdam, the nominal capital of the Netherlands
 ===nominative===
   meine {f/pl} (pronoun form) :: {possessive} Feminine nominative and accusative singular form of mein.
-  englische :: nominative singular form of {{term|englisch|English}} used after the definite article.
-  englische :: nominative singular feminine form of {{term|englisch|English}} used after the indefinite article.
+  englische :: nominative singular form of englisch (English) used after the definite article.
+  englische :: nominative singular feminine form of englisch (English) used after the indefinite article.
 ===Nominative===
   meine {f/pl} (pronoun form) :: {possessive} Nominative and accusative plural form of mein.
 ===none===
-  null {{de-adj|-|-}} :: {slang} no, zero [absolutely none]
+  null {{de-adj|-|-}} :: {slang} no, zero (absolutely none)
 ===noon===
   Mittag {{de-noun|g=m|pl=Mittage}} :: noon, midday.
 ===normal===
@@ -7921,9 +8042,9 @@ Index: en en->de
   Nacktschnecke {{de-noun|g=f|plural=Nacktschnecken}} :: A nudibranch.
 ===number===
   sie (pl.) :: {personal} you, used to refer to any number of persons in formal conversations
-  zählen {de-verb} :: to count [to determine the number of objects in a group]
+  zählen {de-verb} :: to count (to determine the number of objects in a group)
 ===numeral===
-  zählen {de-verb} :: to count [to enumerate the digits of one's numeral system]
+  zählen {de-verb} :: to count (to enumerate the digits of one's numeral system)
 ===o===
   Uhr {{de-noun|g=f|plural=Uhren}} :: hour, as in Es ist fünf Uhr (it is five o'clock)
   um (preposition) + accusative :: At when relating to time (because the hands of a clock go around, the clock)
@@ -7943,7 +8064,7 @@ Index: en en->de
   sie {f} :: {personal} it (when the object/article/thing/animal etc., referred to, is feminine (die)).
   wen :: {interrogative} accusative of wer, who(m) (direct object).
 ===objects===
-  zählen {de-verb} :: to count [to determine the number of objects in a group]
+  zählen {de-verb} :: to count (to determine the number of objects in a group)
 ===observe===
   sehen {{de-verb-strong|sieht|sah|gesehen|class=5}} :: {transitive} to see (something); to view; to watch; to observe; to look at
 ===observing===
@@ -7982,7 +8103,7 @@ Index: en en->de
   (Old High German) hēr (adjective) :: old
   (Low German) old (adjective) :: old
   (Middle Low German) old (adjective) :: old
-  Gaul {m} (noun), plural: Gäule :: hack, nag [bad, old or incapable horse]
+  Gaul {m} (noun), plural: Gäule :: hack, nag (bad, old or incapable horse)
   er (pronoun) :: {personal} it (when the grammatical gender of the object/article/thing/animal etc., being referred to, is masculine (der)).
     Dies ist mein Hund. Er heißt Waldi. :: This is my dog. Its name is Waldi.
     Dort steht ein Baum. Er ist über 100 Jahre alt. :: There stands a tree. It is more than 100 years old.
@@ -8444,7 +8565,7 @@ Index: en en->de
 ===put===
   geben {{de-verb-strong|gibt|gab|gegeben|class=5}} :: {transitive} To present; to put.
 ===python===
-  Python {{de-noun|g=f|plural=Pythons}} :: python [snake]
+  Python {{de-noun|g=f|plural=Pythons}} :: python (snake)
 ===Python===
   Python {{de-noun|g=n|pl=-|genitive=Python}} :: Python
 ===qualities===
@@ -8535,7 +8656,7 @@ Index: en en->de
   rechts {de-adv} :: to the right: An der nächsten Ampel rechts abbiegen.
   rechts {de-adv} :: the right-hand side: Wir gehen nach rechts.
 ===reckoned===
-  zählen {de-verb} :: to count, to be reckoned [to be an example of something]
+  zählen {de-verb} :: to count, to be reckoned (to be an example of something)
     2010, Der Spiegel, issue [http://www.spiegel.de/spiegel/print/index-2010-34.html 34/2010], page 131: :: --
     Der Autosalon in Moskau zählt zu den internationalen Schaubühnen für Fahrzeuginteressierte mit unbegrenzten Ansprüchen. :: --
     The motor show in Moskow is reckoned among the international stages for people interested in vehicles with unlimited demands. :: --
@@ -8836,6 +8957,15 @@ Index: en en->de
   Schelde (proper noun) :: The mighty river Scheldt, which flows through France, Flanders (Belgium, where he becomes navigable for seaships) and the Netherlands.
 ===Second===
   meine (verb form) :: Second-person singular imperative form of meinen.
+===section===
+  c. (noun) :: {{non-gloss definition|Abbreviations of {{etyl|la|de}} terms:}}
+    caput and capitulum (§; chapter, section) :: --
+    1655, Appendix, c. 2, S. 12–29 (eigene Paginierung) :: --
+    1655, appendix, § 2, pp. 12–29 (own pagination) :: --
+    causa :: --
+    circa :: --
+    cito :: --
+    cum :: --
 ===secure===
   sicher {{de-adj|sicherer|sichersten}} :: secure
 ===see===
@@ -8998,7 +9128,7 @@ Index: en en->de
     auf etwas sehen :: “to look at something”
     nach etwas sehen :: “to look for something”
 ===significance===
-  zählen {de-verb} :: to count [to be of significance; to matter]
+  zählen {de-verb} :: to count (to be of significance; to matter)
     Jede Stimme zählt. :: --
 ===silent===
   still {{de-adj|stiller|stillsten}} :: quiet, silent.
@@ -9066,7 +9196,7 @@ Index: en en->de
 ===snail===
   Kugelschnecke {{de-noun|g=f|plural=Kugelschnecken}} :: a sort of snail
 ===snake===
-  Python {{de-noun|g=f|plural=Pythons}} :: python [snake]
+  Python {{de-noun|g=f|plural=Pythons}} :: python (snake)
 ===sneeze===
   Gesundheit! (interjection) :: said to somebody who has sneezed, bless you.
 ===snow===
@@ -9280,9 +9410,9 @@ Index: en en->de
   wie :: like
     Freunde sind wie Sterne in der Nacht; auch wenn sie manchmal nicht zu sehen sind, weißt Du trotzdem, dass sie da sind! :: Friends are like stars in the night; even at times when they can't be seen, you know anyway, that they are there!
 ===state===
-  Georgia {n} (proper noun) :: Georgia [US state]
+  Georgia {n} (proper noun) :: Georgia (US state)
   Hamburg {n} (proper noun) :: Hamburg (German state)
-  Brandenburg (proper noun) :: Brandenburg [state]
+  Brandenburg (proper noun) :: Brandenburg (state)
   nehmen {{de-verb-strong|nimmt|nahm|genommen|class=4}} :: {reflexive} to cause oneself to be (in some state); to become; to take oneself (to some state)
     Nimm dich in Acht! :: “Take care!”
 ===states===
@@ -9344,7 +9474,7 @@ Index: en en->de
 ===subway===
   U-Bahn {{de-noun|g=f|plural=U-Bahnen}} :: An underground railway, subway
 ===Succeeded===
-  æ (letter), lower case, upper case: Æ :: {obsolete} vowel borrowed from Latin. Succeeded by ä.
+  æ (letter), lower case, upper case: Æ :: {obsolete} Vowel borrowed from Latin. Succeeded by ä.
 ===success===
   umsonst :: having done something without success
 ===sucker===
@@ -9415,7 +9545,7 @@ Index: en en->de
 ===synonymous===
   synonym {{de-adj|-}} :: synonymous
 ===system===
-  zählen {de-verb} :: to count [to enumerate the digits of one's numeral system]
+  zählen {de-verb} :: to count (to enumerate the digits of one's numeral system)
 ===System===
   Saturn {m} (proper noun) :: Saturn, a planet in the Solar System
   PPS (abbreviation) :: Produktions-Planungs-System (ERP)
@@ -9685,7 +9815,7 @@ Index: en en->de
   nah (adjective) :: near (in space or time or in an abstract sense)
   nah {de-adv} :: near (in space or time or in an abstract sense)
   aber {de-adv} :: again (mostly used in abermals, yet another time)
-  nach (preposition), + dative :: after, past [later in time]
+  nach (preposition), + dative :: after, past (later in time)
     {{usex|Viertel nach sechs|translation=a quarter past six}} :: --
     {{usex|nach einer Woche|translation=after a week}} :: --
   Sekunde {{de-noun|g=f|plural=Sekunden}} :: A unit of time; a second.
@@ -9747,7 +9877,7 @@ Index: en en->de
   Stadt {{de-noun|g=f|plural=Städte}} :: town
   Salerno {de-proper noun} :: Salerno (town)
   Klausenburg {{de-noun|g=f|pl=-|genitive=Klausenburg}} :: Cluj-Napoca (a town in Transylvania)
-  Brandenburg (proper noun) :: Brandenburg [town]
+  Brandenburg (proper noun) :: Brandenburg (town)
   Schwyz {de-proper noun} :: A town in Switzerland, the capital of the canton of Schwyz.
 ===traction===
   Zug {{de-noun|g=m|genitive=Zugs|genitive2=Zuges|plural=Züge}} :: traction
@@ -9900,7 +10030,7 @@ Index: en en->de
 ===us===
   her {de-adv} :: hither, to this place, to here, to me/us
 ===US===
-  Georgia {n} (proper noun) :: Georgia [US state]
+  Georgia {n} (proper noun) :: Georgia (US state)
   Papierflieger {{de-noun|g=m|gen=Papierfliegers|pl=Papierflieger}} :: paper airplane (US), paper aeroplane (British), paper plane
 ===usage===
   Maya :: {{given name|female}} of modern usage, a variant of Maja ( =Maria).
@@ -9922,10 +10052,10 @@ Index: en en->de
     Wieso denn? :: "How so, then?"
     Was denn? :: "But what?"
     Was is denn los? :: "What's wrong, then?"
-  englische :: nominative singular form of {{term|englisch|English}} used after the definite article.
-  englische :: nominative singular feminine form of {{term|englisch|English}} used after the indefinite article.
-  englische :: accusative singular feminine and neuter form of {{term|englisch|English}} used after the definite article.
-  englische :: accusative singular feminine form of {{term|englisch|English}} used after the indefinite article.
+  englische :: nominative singular form of englisch (English) used after the definite article.
+  englische :: nominative singular feminine form of englisch (English) used after the indefinite article.
+  englische :: accusative singular feminine and neuter form of englisch (English) used after the definite article.
+  englische :: accusative singular feminine form of englisch (English) used after the indefinite article.
   Verbrauchsmusik {{de-noun|g=f|plural=Verbrauchsmusiken}} :: Music without lasting value, written to be used and discarded quickly.
   Kraut {{de-noun|g=n|genitive=Krauts|genitive2=Krautes|plural=Kräuter}} :: herb (plant used to flavour food)
 ===Used===
@@ -10056,8 +10186,8 @@ Index: en en->de
   Raum {{de-noun|g=m|genitive=Raums|genitive2=Raumes|plural=Räume}} :: capacity, volume
 ===von===
   Pickelhaube {{de-noun|g=f|plural=Pickelhauben}} :: a spiked helmet, popularized by Otto von Bismark.
-===vowel===
-  æ (letter), lower case, upper case: Æ :: {obsolete} vowel borrowed from Latin. Succeeded by ä.
+===Vowel===
+  æ (letter), lower case, upper case: Æ :: {obsolete} Vowel borrowed from Latin. Succeeded by ä.
 ===Waiter===
   zahlen {{de-verb-weak|zahlt|zahlte|gezahlt}} :: to pay (for something).
     Kellner, zahlen bitte! :: Waiter, the bill please!
@@ -10100,8 +10230,6 @@ Index: en en->de
   (Low German) was (verb form) :: wash; apocoped form of wasse, singular imperative of wassen; mainly used in the Netherlands, equivalent to other dialekts' wasche/waske
 ===waske===
   (Low German) was (verb form) :: wash; apocoped form of wasse, singular imperative of wassen; mainly used in the Netherlands, equivalent to other dialekts' wasche/waske
-===Wässer===
-  Wasser {n} (noun), genitive: Wassers, plural: Wasser, plural 2 (depending on sense): Wässer :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is Wässer.)
 ===Wasseruhr===
   Uhr {{de-noun|g=f|plural=Uhren}} :: ~uhr: an instrument to measure something passing by (compare Wasseruhr, Gasuhr)
 ===waste===
@@ -10114,7 +10242,7 @@ Index: en en->de
 ===water===
   (Low German) water {{nds-noun|g=n}} :: water
   (Middle Low German) water (noun) :: water
-    {{quote-book|year=1537|author=Jürgen Richolff der Jüngere|title=Datt högeste unde öldeste water recht|section=xxviii|passage=Eyn schip effte twe effte meer liggen in einer hauen dar kleyn '''water''' is / vnde plecht dröge tho synde / also dat dat eyne schip hart by dem andern tho liggende kumpt {{...}}}} :: --
+    {{quote-book|year=1537|author=Jürgen Richolff der Jüngere|title=Datt högeste unde öldeste water recht|section=xxviii|passage=Eyn schip effte twe effte meer liggen in einer hauen dar kleyn water is / vnde plecht dröge tho synde / also dat dat eyne schip hart by dem andern tho liggende kumpt ...}} :: --
   WC {{de-noun|g=n|pl=WCs}} :: WC (water closet)
   Wasser {n} (noun), genitive: Wassers, plural: Wasser, plural 2 (depending on sense): Wässer :: water
   zu (preposition), + dative :: along with; with
@@ -10299,7 +10427,7 @@ Index: en en->de
 ===Wir===
   rechts {de-adv} :: the right-hand side: Wir gehen nach rechts.
 ===wise===
-  nach (preposition), + dative :: after, behind [motion-wise]
+  nach (preposition), + dative :: after, behind (motion-wise)
 ===wit===
   Witz {{de-noun|g=m|genitive=Witzes|plural=Witze}} :: wit
   Geist {{de-noun|g=m|genitive=Geistes|plural=Geister}} :: wit
@@ -10346,7 +10474,7 @@ Index: en en->de
 ===World===
   Weltschmerz m :: World-weariness, Weltschmerz
 ===worldwide===
-  global {{de-adj|-}} :: global [worldwide]
+  global {{de-adj|-}} :: global (worldwide)
 ===wormwood===
   Wermut {{de-noun|g=m|pl=-|genitive=Wermuts}} :: wormwood
 ===worry===
@@ -10437,7 +10565,7 @@ Index: en en->de
 ===zeitgeist===
   Zeitgeist {{de-noun|g=m|gen1=Zeitgeistes|gen2=Zeitgeists|pl=-}} :: Spirit of the age; zeitgeist
 ===zero===
-  null {{de-adj|-|-}} :: {slang} no, zero [absolutely none]
+  null {{de-adj|-|-}} :: {slang} no, zero (absolutely none)
   null (numeral) :: {cardinal} zero
 ===Zeus===
   Zeus {m} (proper noun) :: Zeus

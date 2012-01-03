@@ -1,3 +1,17 @@
+// Copyright 2012 Google Inc. All Rights Reserved.
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+
 package com.hughes.android.dictionary.parser.enwiktionary;
 
 import java.util.LinkedHashMap;
@@ -18,6 +32,7 @@ final class AppendAndIndexWikiCallback implements WikiTokenizer.Callback {
   IndexBuilder indexBuilder;
   final Map<String,FunctionCallback> functionCallbacks = new LinkedHashMap<String, FunctionCallback>();
   
+  boolean entryTypeNameSticks = false;
   EntryTypeName entryTypeName = null;
   
   public AppendAndIndexWikiCallback(final EnWiktionaryXmlParser parser) {
@@ -29,13 +44,16 @@ final class AppendAndIndexWikiCallback implements WikiTokenizer.Callback {
     this.indexedEntry = indexedEntry;
     this.indexBuilder = null;
     entryTypeName = null;
+    entryTypeNameSticks = false;
   }
   
   public void dispatch(final String wikiText, final IndexBuilder indexBuilder, final EntryTypeName entryTypeName) {
     final IndexBuilder oldIndexBuilder = this.indexBuilder;
     final EntryTypeName oldEntryTypeName = this.entryTypeName;
     this.indexBuilder = indexBuilder;
-    this.entryTypeName = EnumUtil.min(entryTypeName, this.entryTypeName);
+    if (!entryTypeNameSticks) {
+      this.entryTypeName = EnumUtil.min(entryTypeName, this.entryTypeName);
+    }
     if (entryTypeName == null) this.entryTypeName = null;
     WikiTokenizer.dispatch(wikiText, false, this);
     this.indexBuilder = oldIndexBuilder;
@@ -120,6 +138,12 @@ final class AppendAndIndexWikiCallback implements WikiTokenizer.Callback {
 
       builder.append(single ? "}" : "}}");
     }
+  }
+
+  @Override
+  public void onHtml(WikiTokenizer wikiTokenizer) {
+    // Unindexed for now.
+    builder.append(wikiTokenizer.token());
   }
 
   @Override

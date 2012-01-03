@@ -33,6 +33,7 @@ public final class WikiTokenizer {
     void onHeading(WikiTokenizer wikiTokenizer);
     void onListItem(WikiTokenizer wikiTokenizer);
     void onComment(WikiTokenizer wikiTokenizer);
+    void onHtml(WikiTokenizer wikiTokenizer);
   }
   
   //private static final Pattern wikiTokenEvent = Pattern.compile("($)", Pattern.MULTILINE);
@@ -67,6 +68,7 @@ public final class WikiTokenizer {
   private boolean isComment;
   private boolean isFunction;
   private boolean isWikiLink;
+  private boolean isHtml;
   private int firstUnescapedPipePos;
   
   private int lastUnescapedPipePos;
@@ -97,6 +99,7 @@ public final class WikiTokenizer {
     isComment = false;
     isFunction = false;
     isWikiLink = false;
+    isHtml = false;
     
     firstUnescapedPipePos = -1;
     lastUnescapedPipePos = -1;
@@ -136,8 +139,12 @@ public final class WikiTokenizer {
           callback.onListItem(tokenizer);
         } else if (tokenizer.isComment()) {
           callback.onComment(tokenizer);
+        } else if (tokenizer.isHtml()) {
+          callback.onHtml(tokenizer);
+        } else if (!tokenizer.errors.isEmpty()) {
+          // Log was already printed....
         } else {
-          throw new IllegalStateException("Unknown wiki state.");
+          throw new IllegalStateException("Unknown wiki state: " + tokenizer.token());
         }
       }
     }
@@ -196,9 +203,9 @@ public final class WikiTokenizer {
     assert isFunction();
     // "{{.."
     if (firstUnescapedPipePos != -1) {
-      return wikiText.substring(start + 2, firstUnescapedPipePos);
+      return trimNewlines(wikiText.substring(start + 2, firstUnescapedPipePos).trim());
     }
-    return wikiText.substring(start + 2, end - 2);
+    return trimNewlines(wikiText.substring(start + 2, end - 2).trim());
   }
   
   public List<String> functionPositionArgs() {
@@ -236,6 +243,10 @@ public final class WikiTokenizer {
     return null;
   }
   
+  public boolean isHtml() {
+    return isHtml;
+  }
+
   public boolean remainderStartsWith(final String prefix) {
     return wikiText.startsWith(prefix, start);
   }
@@ -338,11 +349,13 @@ public final class WikiTokenizer {
 
     if (wikiText.startsWith("<pre>", start)) {
       end = safeIndexOf(wikiText, start, "</pre>", "\n");
+      isHtml = true;
       return this;
     }
 
     if (wikiText.startsWith("<math>", start)) {
       end = safeIndexOf(wikiText, start, "</math>", "\n");
+      isHtml = true;
       return this;
     }
 
@@ -486,13 +499,23 @@ public final class WikiTokenizer {
       if (lastUnescapedEqualsPos > lastUnescapedPipePos) {
         final String key = wikiText.substring(lastUnescapedPipePos + 1, lastUnescapedEqualsPos);
         final String value = wikiText.substring(lastUnescapedEqualsPos + 1, matchStart);
-        namedArgs.put(key, value);
+        namedArgs.put(trimNewlines(key), trimNewlines(value));
       } else {
         final String value = wikiText.substring(lastUnescapedPipePos + 1, matchStart);
-        positionArgs.add(value);
+        positionArgs.add(trimNewlines(value));
       }
     }
     lastUnescapedPipePos = matchStart;
+  }
+  
+  static final String trimNewlines(String s) {
+    while (s.startsWith("\n")) {
+      s = s.substring(1);
+    }
+    while (s.endsWith("\n")) {
+      s = s.substring(0, s.length() - 1);
+    }
+    return s.replaceAll("\n", " ");
   }
 
   static int safeIndexOf(final String s, final int start, final String target, final String backup) {
