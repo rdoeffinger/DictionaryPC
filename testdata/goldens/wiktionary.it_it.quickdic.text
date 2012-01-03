@@ -100,7 +100,7 @@ Index: it it->en
   accede :: {conjugation of|accedere|3|s|pres|ind}
 ===accelerando===
   accelerando :: {gerund of|accelerare}
-  accelerando {{it-adv}} :: accelerating
+  accelerando {it-adv} :: accelerating
 ===accelerare===
   accelerando :: {gerund of|accelerare}
 ===accelerate===
@@ -169,7 +169,7 @@ Index: it it->en
   accusa :: second-person singular imperative of accusare
   accuse {f} :: {plural of|accusa}
 ===accusare===
-  accusare {{transitive}} :: To accuse, to reproach, to impeach.
+  accusare {transitive} :: To accuse, to reproach, to impeach.
   accusato {{it-pp|accusat}} :: {past participle of|accusare}
 ===accusati===
   accusato {m}, accusati {pl} :: accused person, accused
@@ -215,7 +215,7 @@ Index: it it->en
 ===additivo===
   additive {f} :: {feminine plural form|additivo}
 ===Adige===
-  Trentino-Alto Adige {{it-proper noun}} :: Trentino-Alto Adige
+  Trentino-Alto Adige {it-proper noun} :: Trentino-Alto Adige
 ===afghani===
   afghani {m} :: {plural of|afghano}
   afghani {m} :: {plural of|afghano}
@@ -293,11 +293,11 @@ Index: it it->en
 ===alopecie===
   alopecia {f}, alopecie {pl} :: {{context|pathology}} alopecia
 ===Alto===
-  Trentino-Alto Adige {{it-proper noun}} :: Trentino-Alto Adige
+  Trentino-Alto Adige {it-proper noun} :: Trentino-Alto Adige
 ===amai===
   amai (verb form) :: {first-person singular indicative past historic|amare}
 ===amar===
-  amar {{it-verb}} :: {{apocopic form of|amare}}
+  amar {it-verb} :: {{apocopic form of|amare}}
 ===amare===
   amai (verb form) :: {first-person singular indicative past historic|amare}
 ===amarezza===
@@ -338,7 +338,7 @@ Index: it it->en
 ===Angola===
   Angola {f} :: Angola
 ===Anguilla===
-  Anguilla {{it-proper noun}} :: Anguilla
+  Anguilla {it-proper noun} :: Anguilla
 ===ani===
   ano {m}, ani {pl} :: anus
 ===anima===
@@ -441,8 +441,8 @@ Index: it it->en
 ===arrogare===
   arrogante :: {present participle of|arrogare}
 ===Ascoli===
-  Ascoli Piceno {{it-proper noun}} :: Ascoli Piceno (province)
-  Ascoli Piceno {{it-proper noun}} :: Ascoli Piceno (town)
+  Ascoli Piceno {it-proper noun} :: Ascoli Piceno (province)
+  Ascoli Piceno {it-proper noun} :: Ascoli Piceno (town)
 ===Asia===
   Asia {{it-proper noun|g=f}} :: {{context|continent}} Asia
   Asia {{it-proper noun|g=f}} :: {{given name|female}}
@@ -471,8 +471,8 @@ Index: it it->en
 ===avatar===
   avatar (noun) {m|inv} :: avatar (all senses)
 ===Avellino===
-  Avellino {{it-proper noun}} :: Avellino [province]
-  Avellino {{it-proper noun}} :: Avellino [town]
+  Avellino {it-proper noun} :: Avellino [province]
+  Avellino {it-proper noun} :: Avellino [town]
 ===avere===
   ho :: {conjugation of|avere|1|s|pres|ind} - I have
 ===avocadi===
@@ -493,7 +493,7 @@ Index: it it->en
   ba (interjection) :: bah!
   ba (interjection) :: oh well!
 ===Bahamas===
-  Bahamas {{it-proper noun}} {f|p} :: Bahamas
+  Bahamas {it-proper noun} {f|p} :: Bahamas
 ===Bahrain===
   Bahrain {m} :: Bahrain
 ===bai===
@@ -502,8 +502,8 @@ Index: it it->en
   bai {m} :: {masculine plural|baio}
 ===banana===
   banana {f}, banane {pl} :: banana (fruit)
-  banana {m} {{inv}} :: banana (color)
-  banana {{inv}} :: banana
+  banana {m} {inv} :: banana (color)
+  banana {inv} :: banana
 ===banane===
   banana {f}, banane {pl} :: banana (fruit)
 ===bancari===
@@ -512,7 +512,7 @@ Index: it it->en
   bancario {{it-adj|bancar|io|ia|i|ie}} :: bank (attributive)
   bancario {m}, bancari {pl} :: Bank employee
 ===Bangkok===
-  Bangkok {{it-proper noun}} :: Bangkok (capital of Thailand)
+  Bangkok {it-proper noun} :: Bangkok (capital of Thailand)
 ===Bangladesh===
   Bangladesh {{it-proper noun|g=m}} :: Bangladesh
 ===banjo===
@@ -549,7 +549,7 @@ Index: it it->en
 ===batter===
   batter (verb) :: {{apocopic form of|battere}}
 ===BCE===
-  BCE {{it-proper noun}} :: ECB
+  BCE {it-proper noun} :: ECB
 ===beare===
   bei :: {conjugation of|beare|2|s|pres|ind}
   bei :: {conjugation of|beare|1|s|pres|sub}
@@ -557,7 +557,7 @@ Index: it it->en
   bei :: {conjugation of|beare|3|s|pres|sub}
   bei :: {conjugation of|beare|3|s|imp}
 ===beat===
-  beat {{inv}} :: beat (50s US literary and 70s UK music scenes)
+  beat {inv} :: beat (50s US literary and 70s UK music scenes)
   beat {m|inv} :: beat (rhythm accompanying music)
 ===bei===
   bei :: Masculine plural of bello before a consonant
@@ -574,10 +574,10 @@ Index: it it->en
   bei :: Masculine plural of bello before a consonant
   bel :: Masculine singular of bello before a consonant
 ===Belluno===
-  Belluno {{it-proper noun}} :: Belluno [province]
-  Belluno {{it-proper noun}} :: Belluno [town]
+  Belluno {it-proper noun} :: Belluno [province]
+  Belluno {it-proper noun} :: Belluno [town]
 ===ben===
-  ben {{it-adv}} :: Short form of bene.
+  ben {it-adv} :: Short form of bene.
     ben fatto :: well done
   vero {{it-adj|ver}} :: true
     Se non è vero, è ben trovato. :: If it is not true, it is a good story.
@@ -661,10 +661,10 @@ Index: it it->en
 ===Botswana===
   Botswana {m} :: Botswana
 ===box===
-  box {m} {{inv}} :: horsebox
-  box {m} {{inv}} :: garage, lock-up (for a car)
-  box {m} {{inv}} :: {motor racing} pit
-  box {m} {{inv}} :: playpen
+  box {m} {inv} :: horsebox
+  box {m} {inv} :: garage, lock-up (for a car)
+  box {m} {inv} :: {motor racing} pit
+  box {m} {inv} :: playpen
 ===boy===
   boy {m} (noun), inv :: A male ballet dancer.
   boy {m} (noun), inv :: A bellboy (in a hotel).
@@ -723,7 +723,7 @@ Index: it it->en
 ===calli===
   calle {f}, calli {pl} :: alley (especially in Venice)
 ===Caltanissetta===
-  Caltanissetta {{it-proper noun}} :: Caltanisetta
+  Caltanissetta {it-proper noun} :: Caltanisetta
 ===camera===
   camera {f}, camere {pl} :: room, chamber
   camera {f}, camere {pl} :: bedroom
@@ -737,8 +737,8 @@ Index: it it->en
 ===Campania===
   Campania f :: Campania
 ===Campobasso===
-  Campobasso {{it-proper noun}} :: Campobasso [province]
-  Campobasso {{it-proper noun}} :: Campobasso [town]
+  Campobasso {it-proper noun} :: Campobasso [province]
+  Campobasso {it-proper noun} :: Campobasso [town]
 ===can===
   can {m}, cani {pl} :: {{context|poetic|_|and literary form of cane}} dog
 ===Canada===
@@ -768,9 +768,9 @@ Index: it it->en
 ===candidato===
   candidate :: {[[feminine|Feminine]] plural|candidato}
 ===cane===
-  cane {{inv}} :: freezing, biting [cold]
+  cane {inv} :: freezing, biting [cold]
     Oggi fa un freddo cane! :: Today is freezing cold!
-  cane {{inv}} :: terrible, dreadful, awful
+  cane {inv} :: terrible, dreadful, awful
   cane {m}, cani {pl} :: dog in general, male dog
   cane {m}, cani {pl} :: {{context|firearms}} hammer
   can {m}, cani {pl} :: {{context|poetic|_|and literary form of cane}} dog
@@ -803,7 +803,7 @@ Index: it it->en
 ===caro===
   care (adjective form) {f|p} :: {feminine plural of|caro}
 ===Carrara===
-  Massa Carrara {{it-proper noun}} :: Massa Carrara
+  Massa Carrara {it-proper noun} :: Massa Carrara
 ===casa===
   casa {f}, case {pl} :: house
   casa {f}, case {pl} :: home
@@ -839,8 +839,8 @@ Index: it it->en
   Catania {{it-proper noun|g=f}} :: Catania (province)
   Catania {{it-proper noun|g=f}} :: Catania (town)
 ===Catanzaro===
-  Catanzaro {{it-proper noun}} :: Catanzaro [province]
-  Catanzaro {{it-proper noun}} :: Catanzaro [town]
+  Catanzaro {it-proper noun} :: Catanzaro [province]
+  Catanzaro {it-proper noun} :: Catanzaro [town]
 ===causa===
   cause {f} :: {plural of|causa}
 ===cause===
@@ -864,7 +864,7 @@ Index: it it->en
 ===centi===
   centi- (prefix) :: centi-
 ===Cesena===
-  Forlì-Cesena {{it-proper noun}} :: Forlì-Cesena
+  Forlì-Cesena {it-proper noun} :: Forlì-Cesena
 ===cesta===
   cesta {f}, ceste {pl} :: basket
 ===ceste===
@@ -891,7 +891,7 @@ Index: it it->en
   ci (pronoun) :: impersonal reflexive pronoun
     Ci vuole poco a farmi felice. :: It doesn't take much to make me happy.
   ci (pronoun) :: on it, about it, of it
-  ci {{it-adv}} :: here, there
+  ci {it-adv} :: here, there
 ===Ci===
   parole {f|p} :: {plural of|parola}
     Ci vogliono fatti e non parole. :: Action is needed, not words.
@@ -915,7 +915,7 @@ Index: it it->en
 ===city===
   city {f|inv} :: city (financial district of a city)
 ===claque===
-  claque {f} {{inv}} :: claque
+  claque {f} {inv} :: claque
 ===cliché===
   cliché {m|inv} :: plate (printing)
   cliché {m|inv} :: cliché
@@ -924,7 +924,7 @@ Index: it it->en
 ===CO===
   CO (abbreviation) :: Como (Italian town in Lombardia)
 ===cobra===
-  cobra {m} {{inv}} :: cobra
+  cobra {m} {inv} :: cobra
 ===coda===
   code {f} :: {plural of|coda}
 ===code===
@@ -971,8 +971,8 @@ Index: it it->en
 ===commutativo===
   commutative {f} :: {feminine plural of|commutativo}
 ===Como===
-  Como {{it-proper noun}} :: Como (province and town)
-  Como {{it-proper noun}} :: The letter C in the Italian phonetic alphabet
+  Como {it-proper noun} :: Como (province and town)
+  Como {it-proper noun} :: The letter C in the Italian phonetic alphabet
 ===comparative===
   comparative {f} :: {feminine plural of|comparativo}
 ===comparativo===
@@ -1006,7 +1006,7 @@ Index: it it->en
 ===condense===
   condense {f} :: {plural of|condensa}
 ===condom===
-  condom {m} {{inv}} :: condom
+  condom {m} {inv} :: condom
 ===Coppa===
   finale {f}, finali {pl} :: {sports} final, finals
     la finale della Coppa del Mondo :: the World Cup final
@@ -1038,8 +1038,8 @@ Index: it it->en
     Ne ho sentito parlare. :: “I have heard talk of it.”
     Cosa ne pensi? :: “What do you think of it?”
 ===Cosenza===
-  Cosenza {{it-proper noun}} :: Cosenza [province]
-  Cosenza {{it-proper noun}} :: Cosenza [town]
+  Cosenza {it-proper noun} :: Cosenza [province]
+  Cosenza {it-proper noun} :: Cosenza [town]
 ===cosina===
   cosine {f} :: {plural of|cosina}
 ===cosine===
@@ -1073,8 +1073,8 @@ Index: it it->en
   cross (noun) {m|inv} :: cross (boxing punch, tennis shot)
   cross (noun) {m|inv} :: slice (golf shot)
 ===Crotone===
-  Crotone {{it-proper noun}} :: Crotone [province]
-  Crotone {{it-proper noun}} :: Crotone [town]
+  Crotone {it-proper noun} :: Crotone [province]
+  Crotone {it-proper noun} :: Crotone [town]
 ===crude===
   crude f plural :: feminine plural of crudo
 ===crudo===
@@ -1101,7 +1101,7 @@ Index: it it->en
   curve {f} :: {plural of|curva}
   curve :: feminine plural of curvo
 ===Cusio===
-  Verbano-Cusio-Ossola {{it-proper noun}} :: Verbano-Cusio-Ossola
+  Verbano-Cusio-Ossola {it-proper noun} :: Verbano-Cusio-Ossola
 ===cute===
   cute {f}, cuti {pl} :: {{context|anatomy}} Cutis, skin (of a person)
 ===cuti===
@@ -1155,8 +1155,8 @@ Index: it it->en
     traduzione dall’“Inferno” di Dante :: “translation from Dante’s ‘Inferno’”
     Dalla Terra alla Luna :: “From the Earth to the Moon”
 ===dare===
-  dare {{it-verb}} :: {transitive} To give, to transfer the possession/holding of something to someone else.
-  dare {{it-verb}} :: {transitive} To yield, to bear, to give, to produce, to return.
+  dare {it-verb} :: {transitive} To give, to transfer the possession/holding of something to someone else.
+  dare {it-verb} :: {transitive} To yield, to bear, to give, to produce, to return.
   dare {m}, dari {pl} :: debit
   date :: second-person plural present tense of dare
   dia :: first-person singular, second-person singular and third-person singular present subjunctive of dare
@@ -1166,7 +1166,7 @@ Index: it it->en
   dari {m} :: {plural of|dare}
   dare {m}, dari {pl} :: debit
 ===dark===
-  dark {{inv}} :: dark (used especially to describe a form of punk music)
+  dark {inv} :: dark (used especially to describe a form of punk music)
 ===data===
   date {f} :: {plural of|data}
 ===date===
@@ -1240,11 +1240,11 @@ Index: it it->en
 ===depose===
   depose :: third-person singular past historic of deporre
 ===deriva===
-  derive {f} {{plural}} :: {plural of|deriva}
+  derive {f} {plural} :: {plural of|deriva}
 ===derivative===
   derivative {f} :: Feminine plural form of derivativo
 ===derive===
-  derive {f} {{plural}} :: {plural of|deriva}
+  derive {f} {plural} :: {plural of|deriva}
 ===design===
   design (noun) {m|inv} :: design (industrial)
 ===destini===
@@ -1312,8 +1312,8 @@ Index: it it->en
   divine (adjective form) :: {feminine plural form|divino}
 ===do===
   do (verb form) :: {first-person singular indicative present tense|dare}
-  {{wikipedia|Do (nota)|lang=it}}do {m} (noun) :: do, the musical note
-  {{wikipedia|Do (nota)|lang=it}}do {m} (noun) :: C (the musical note or key)
+  {{wikipedia|Do (nota)}}do {m} (noun) :: do, the musical note
+  {{wikipedia|Do (nota)}}do {m} (noun) :: C (the musical note or key)
 ===dodi===
   dodo {m}, dodi {pl} :: dodo
 ===dodici===
@@ -1352,7 +1352,7 @@ Index: it it->en
   duo {m|inv} :: {music} duet
 ===e===
   e (conjunction) :: and
-  Pesaro e Urbino {{it-proper noun}} :: Pesaro e Urbino
+  Pesaro e Urbino {it-proper noun} :: Pesaro e Urbino
 ===è===
   de (contraction) :: {{apocopic form of|del}}
     Michael Radford è il regista de "Il postino". :: "Michael Radford is the director of "Il Postino".
@@ -1375,19 +1375,19 @@ Index: it it->en
 ===El===
   El Salvador {{it-proper noun|g=m}} :: El Salvador
 ===elegantemente===
-  elegantemente {{it-adv}} :: smartly, elegantly, stylishly
+  elegantemente {it-adv} :: smartly, elegantly, stylishly
 ===elsa===
   else {f} :: {plural of|elsa}
 ===else===
   else {f} :: {plural of|elsa}
 ===Emilia===
-  Emilia-Romagna {{it-proper noun|head=[[Emilia]]-[[Romagna]]|g=f}} :: Emilia-Romagna
+  Emilia-Romagna {{it-proper noun|head=Emilia-Romagna|g=f}} :: Emilia-Romagna
   Reggio nell'Emilia {{it-proper noun|head=Reggio nell'Emilia}} :: Reggio nell'Emilia [province]
   Reggio nell'Emilia {{it-proper noun|head=Reggio nell'Emilia}} :: Reggio nell'Emilia [town]
 ===emoticon===
-  emoticon (noun), m {{inv}} :: emoticon
+  emoticon (noun), m {inv} :: emoticon
 ===empire===
-  empire {{it-verb}} {{transitive}} :: {obsolete} to fill, to overflow
+  empire {it-verb} {transitive} :: {obsolete} to fill, to overflow
 ===emulare===
   emulate :: {conjugation of|emulare|2|p|pres|ind}
   emulate :: {conjugation of|emulare|2|p|imp}
@@ -1398,8 +1398,8 @@ Index: it it->en
 ===emulato===
   emulate :: {[[feminine|Feminine]] plural|emulato}
 ===Enna===
-  Enna {{it-proper noun}} :: Enna [province]
-  Enna {{it-proper noun}} :: Enna [town]
+  Enna {it-proper noun} :: Enna [province]
+  Enna {it-proper noun} :: Enna [town]
 ===enumerare===
   enumerate :: {conjugation of|enumerare|2|p|pres|ind}
   enumerate :: {conjugation of|enumerare|2|p|imp}
@@ -1432,9 +1432,9 @@ Index: it it->en
 ===Eritrea===
   Eritrea {f} :: Eritrea
 ===errata===
-  errata {{s}} :: {feminine of|errato}
+  errata {s} :: {feminine of|errato}
 ===errato===
-  errata {{s}} :: {feminine of|errato}
+  errata {s} :: {feminine of|errato}
 ===erudire===
   erudite :: {conjugation of|erudire|2|p|pres|ind}
   erudite :: {conjugation of|erudire|2|p|imp}
@@ -1455,13 +1455,13 @@ Index: it it->en
 ===Esperanto===
   Esperanto {m} (noun) :: Esperanto
 ===essere===
-  essere {{it-verb}} :: to be
+  essere {it-verb} :: to be
   essere {m}, esseri {pl} :: being
   era :: {imperfect indicative third-person singular form|essere}
 ===esseri===
   essere {m}, esseri {pl} :: being
 ===est===
-  est {m} {{inv}} :: east
+  est {m} {inv} :: east
 ===Estonia===
   Estonia {f} (proper noun) :: Estonia
 ===eta===
@@ -1488,12 +1488,12 @@ Index: it it->en
 ===F===
   f (letter) {m|f|inv} :: See under F
 ===fa===
-  fa {{it-adv}} :: ago
-  {{wikipedia|Fa (nota)|lang=it}}fa (noun) {m|inv} :: {music} fa (musical note)
-  {{wikipedia|Fa (nota)|lang=it}}fa (noun) {m|inv} :: F (musical note or key)
+  fa {it-adv} :: ago
+  {{wikipedia|Fa (nota)}}fa (noun) {m|inv} :: {music} fa (musical note)
+  {{wikipedia|Fa (nota)}}fa (noun) {m|inv} :: F (musical note or key)
   fa (verb form) :: Third-person singular indicative present form of fare.
   fa (verb form) :: Second-person singular imperative form of fare.
-  cane {{inv}} :: freezing, biting [cold]
+  cane {inv} :: freezing, biting [cold]
     Oggi fa un freddo cane! :: Today is freezing cold!
 ===face===
   face (verb form) :: {archaic} third-person singular indicative present of fare.
@@ -1506,16 +1506,16 @@ Index: it it->en
 ===fans===
   fan {mf}, fans {pl} :: fan (admirer or follower)
 ===far===
-  far {{it-verb}} :: {{apocopic form of|fare}}
+  far {it-verb} :: {{apocopic form of|fare}}
 ===farad===
   farad (noun) {m|inv} :: farad
 ===fare===
-  fare {{it-verb}} {{transitive}} :: To do
-  fare {{it-verb}} {{transitive}} :: To make
+  fare {it-verb} {transitive} :: To do
+  fare {it-verb} {transitive} :: To make
   fa (verb form) :: Third-person singular indicative present form of fare.
   fa (verb form) :: Second-person singular imperative form of fare.
   face (verb form) :: {archaic} third-person singular indicative present of fare.
-  far {{it-verb}} :: {{apocopic form of|fare}}
+  far {it-verb} :: {{apocopic form of|fare}}
   fate (verb form) :: {second-person plural indicative present|fare}
   fate (verb form) :: {second-person plural imperative|fare}
 ===farmi===
@@ -1533,7 +1533,7 @@ Index: it it->en
   parole {f|p} :: {plural of|parola}
     Ci vogliono fatti e non parole. :: Action is needed, not words.
 ===fatto===
-  ben {{it-adv}} :: Short form of bene.
+  ben {it-adv} :: Short form of bene.
     ben fatto :: well done
 ===felice===
   ci (pronoun) :: impersonal reflexive pronoun
@@ -1547,10 +1547,10 @@ Index: it it->en
   festival (noun) {m|inv} :: festival
   festival (noun) {m|inv} :: worker's festival
 ===fila===
-  file {f}{m}{{inv}} :: {plural of|fila}
+  file {f}{m}{inv} :: {plural of|fila}
 ===file===
-  file {f}{m}{{inv}} :: {plural of|fila}
-  file {f}{m}{{inv}} :: {{context|computing}} file
+  file {f}{m}{inv} :: {plural of|fila}
+  file {f}{m}{inv} :: {{context|computing}} file
 ===Filomena===
   bo :: An interjection expressing doubt or indecision.
     Viene Filomena stasera? Bo, non m’ha richiamato. :: Is Filomena coming tonight? I don’t know, she never called me back.
@@ -1577,10 +1577,10 @@ Index: it it->en
   Foggia {{it-proper noun|g=f}} :: Foggia (province)
   Foggia {{it-proper noun|g=f}} :: Foggia (city)
 ===Forli===
-  Forli {{it-proper noun}} :: Forli [province]
-  Forli {{it-proper noun}} :: Forli [town]
+  Forli {it-proper noun} :: Forli [province]
+  Forli {it-proper noun} :: Forli [town]
 ===Forlì===
-  Forlì-Cesena {{it-proper noun}} :: Forlì-Cesena
+  Forlì-Cesena {it-proper noun} :: Forlì-Cesena
 ===formoso===
   formoso {{it-adj|formos}} :: shapely, curvaceous
 ===formula===
@@ -1608,15 +1608,15 @@ Index: it it->en
 ===frappé===
   frappé (noun) {m|inv} :: milkshake
 ===freddo===
-  cane {{inv}} :: freezing, biting [cold]
+  cane {inv} :: freezing, biting [cold]
     Oggi fa un freddo cane! :: Today is freezing cold!
 ===fricative===
   fricative {f} :: Feminine plural form of fricativo
 ===Friuli===
   Friuli-Venezia Giulia {m} (proper noun) :: Friuli-Venezia Giulia
 ===Frosinone===
-  Frosinone {{it-proper noun}} :: Frosinone [province]
-  Frosinone {{it-proper noun}} :: Frosinone [town]
+  Frosinone {it-proper noun} :: Frosinone [province]
+  Frosinone {it-proper noun} :: Frosinone [town]
 ===full===
   full {m|inv} :: full house (in poker)
 ===fulminare===
@@ -1735,7 +1735,7 @@ Index: it it->en
   grate {f} :: Feminine plural form of grato
 ===gratis===
   gratis :: gratis
-  gratis {{inv}} :: free
+  gratis {inv} :: free
 ===gratuito===
   gratuito {{it-adj|gratuit}} :: free, free of charge, gratis
   gratuito {{it-adj|gratuit}} :: gratuitous, unjustified
@@ -1757,7 +1757,7 @@ Index: it it->en
 ===Guatemala===
   Guatemala {m} :: Guatemala
 ===Guernsey===
-  Guernsey {{it-proper noun}} :: Guernsey (island)
+  Guernsey {it-proper noun} :: Guernsey (island)
 ===guerra===
   guerra {f}, guerre {pl} :: war, warfare
 ===guerre===
@@ -1784,7 +1784,7 @@ Index: it it->en
 ===Haiti===
   Haiti {m} :: Haiti
 ===hamburger===
-  hamburger {m} (noun) {{inv}} :: hamburger
+  hamburger {m} (noun) {inv} :: hamburger
 ===handicap===
   handicap {m|inv} :: handicap (disability; horserace)
 ===harem===
@@ -1810,10 +1810,10 @@ Index: it it->en
 ===humour===
   humour {m|inv} :: sense of humour
 ===i===
-  {{Italian definite articles}}i {m|p} (article), singular: il :: the (see the usage notes)
-  i {f} or {m} {{inv}} :: I or i, the letter I or i
+  {Italian definite articles}i {m|p} (article), singular: il :: the (see the usage notes)
+  i {f} or {m} {inv} :: I or i, the letter I or i
 ===iceberg===
-  iceberg {m} {{inv}} :: iceberg
+  iceberg {m} {inv} :: iceberg
 ===ics===
   X {m|f|inv} (letter), lower case: x :: The twenty-fourth letter of the Latin alphabet, called ics in Italian.
 ===idea===
@@ -1826,7 +1826,7 @@ Index: it it->en
   idi (noun) {m|f|plural} :: ides
 ===il===
   il- (prefix) :: Variant of in- before the letter "l"
-  {{Italian definite articles}}i {m|p} (article), singular: il :: the (see the usage notes)
+  {Italian definite articles}i {m|p} (article), singular: il :: the (see the usage notes)
 ===Il===
   de (contraction) :: {{apocopic form of|del}}
     Michael Radford è il regista de "Il postino". :: "Michael Radford is the director of "Il Postino".
@@ -1853,7 +1853,7 @@ Index: it it->en
 ===imperativo===
   imperative {p} :: {feminine of|imperativo}
 ===Imperia===
-  Imperia {{it-proper noun}} :: A town and associated province on the coast of Liguria
+  Imperia {it-proper noun} :: A town and associated province on the coast of Liguria
 ===imporre===
   impose :: {conjugation of|imporre|3|s|past historic}
 ===impose===
@@ -1888,8 +1888,8 @@ Index: it it->en
 ===incorporato===
   incorporate :: {[[feminine|Feminine]] plural|incorporato}
 ===India===
-  India {f} ({{plural}} Indie) :: India
-  India {f} ({{plural}} Indie) :: {plural}: the Indies
+  India {f} ({plural} Indie) :: India
+  India {f} ({plural} Indie) :: {plural}: the Indies
 ===indicative===
   indicative {p} :: {feminine of|indicativo}
 ===indicativo===
@@ -1923,7 +1923,7 @@ Index: it it->en
     traduzione dall’“Inferno” di Dante :: “translation from Dante’s ‘Inferno’”
     Dalla Terra alla Luna :: “From the Earth to the Moon”
 ===info===
-  info {m} {{inv}} :: {informal} Short form of informazione.
+  info {m} {inv} :: {informal} Short form of informazione.
 ===Ingresso===
   libero {{it-adj|liber}} :: free (that does not have to be paid for)
     Ingresso libero. :: Free admission.
@@ -1961,8 +1961,8 @@ Index: it it->en
 ===Iraq===
   Iraq {m} :: Iraq
 ===Isernia===
-  Isernia {{it-proper noun}} :: Isernia (province)
-  Isernia {{it-proper noun}} :: Isernia (town)
+  Isernia {it-proper noun} :: Isernia (province)
+  Isernia {it-proper noun} :: Isernia (town)
 ===Italian===
   parole {f|p} :: {plural of|parola}
     Ci vogliono fatti e non parole. :: Action is needed, not words.
@@ -2000,7 +2000,7 @@ Index: it it->en
 ===kappa===
   kappa (noun) {m|inv} :: kappa (Greek letter)
 ===kaputt===
-  kaputt {{inv}} :: kaput
+  kaputt {inv} :: kaput
 ===kava===
   kava {f}, kave {pl} :: kava
 ===kave===
@@ -2013,7 +2013,7 @@ Index: it it->en
 ===Kiribati===
   Kiribati {f} {p} :: Kiribati
 ===kitsch===
-  kitsch {{inv}} :: kitsch
+  kitsch {inv} :: kitsch
   kitsch {m|inv} :: kitsch
 ===kiwi===
   kiwi {m|inv} :: kiwi fruit
@@ -2027,12 +2027,12 @@ Index: it it->en
   L'Aquila {{it-proper noun|g=f}} :: L'Aquila [town]
   l (letter) {m|f|inv} :: See under L
 ===la===
-  {{Italian definite articles}}la {f|s} (article), plural: le :: the
+  {Italian definite articles}la {f|s} (article), plural: le :: the
   la {f|s} (pronoun), plural: le :: her (direct object)
   la {f|s} (pronoun), plural: le :: it (feminine)
     ...una improvvisa timidezza però la immobilizza... (Pasolini) :: ...a sudden timidity immobilized her though...
-  {{wikipedia|La (nota)|lang=it}}la {{{m|inv}}} (noun) :: {music} la (musical note)
-  {{wikipedia|La (nota)|lang=it}}la {{{m|inv}}} (noun) :: {music} A (musical note and scale)
+  {{wikipedia|La (nota)}}la {{{m|inv}}} (noun) :: {music} la (musical note)
+  {{wikipedia|La (nota)}}la {{{m|inv}}} (noun) :: {music} A (musical note and scale)
 ===La===
   La Spezia {{it-proper noun|g=f}} :: La Spezia [province]
   La Spezia {{it-proper noun|g=f}} :: La Spezia [town]
@@ -2080,8 +2080,8 @@ Index: it it->en
   dove (conjunction) :: where
     Lo troverai dove l'hai lasciato. :: You'll find it where you left it.
 ===Latina===
-  Latina {{it-proper noun}} :: Latina [province]
-  Latina {{it-proper noun}} :: Latina [town]
+  Latina {it-proper noun} :: Latina [province]
+  Latina {it-proper noun} :: Latina [town]
   latina f :: feminine of latino
 ===latini===
   latino {m|s} only latino {m}, latini {pl} :: Latin (language)
@@ -2114,7 +2114,7 @@ Index: it it->en
 ===lave===
   lava {f}, lave {pl} :: lava
 ===le===
-  {{Italian definite articles}}la {f|s} (article), plural: le :: the
+  {Italian definite articles}la {f|s} (article), plural: le :: the
   la {f|s} (pronoun), plural: le :: her (direct object)
   la {f|s} (pronoun), plural: le :: it (feminine)
     ...una improvvisa timidezza però la immobilizza... (Pasolini) :: ...a sudden timidity immobilized her though...
@@ -2124,8 +2124,8 @@ Index: it it->en
   Lecce {{it-proper noun|g=f}} :: Lecce [province]
   Lecce {{it-proper noun|g=f}} :: Lecce [town]
 ===Lecco===
-  Lecco {{it-proper noun}} :: Lecco [province]
-  Lecco {{it-proper noun}} :: Lecco [town]
+  Lecco {it-proper noun} :: Lecco [province]
+  Lecco {it-proper noun} :: Lecco [town]
 ===lente===
   lente (adjective form) {f}{p} :: (feminine plural form of lento) slow
   lente {f}, lenti {pl} :: lens
@@ -2197,7 +2197,7 @@ Index: it it->en
 ===lingua===
   lingua franca (noun) {f|inv} :: The Mediterranean Lingua Franca, a common language spoken in Mediterranean ports in centuries past (consisting of Italian mixed with French, Spanish, Arabic and some Greek words and used by sailors of different countries to communicate with one another).
 ===link===
-  link {m} (noun) {{inv}} :: {{context|computing}} link (hyperlink)
+  link {m} (noun) {inv} :: {{context|computing}} link (hyperlink)
 ===lite===
   lite {f}, liti {pl} :: A quarrel, row, altercation, fight
   lite {f}, liti {pl} :: {legal} A suit, lawsuit
@@ -2205,7 +2205,7 @@ Index: it it->en
   lite {f}, liti {pl} :: A quarrel, row, altercation, fight
   lite {f}, liti {pl} :: {legal} A suit, lawsuit
 ===live===
-  live (adjective) {{inv}} :: Performed or recorded live
+  live (adjective) {inv} :: Performed or recorded live
 ===Livorno===
   Livorno {{it-proper noun|g=f}} :: Livorno (province, town)
   Livorno {{it-proper noun|g=f}} :: The letter L in the Italian phonetic alphabet
@@ -2234,7 +2234,7 @@ Index: it it->en
   loco {m}, lochi {pl} :: A written passage.
   loco :: {conjugation of|locare|1|s|pres|ind}
 ===Lodi===
-  Lodi {{it-proper noun}} :: Lodi
+  Lodi {it-proper noun} :: Lodi
 ===Lorenzo===
   parole {f|p} :: {{context|of a song}} lyrics, words
     Musica di Paolo, parole di Lorenzo :: Music by Paolo, lyrics by Lorenzo.
@@ -2258,7 +2258,7 @@ Index: it it->en
   tempo {m}, tempi {pl} :: weather
     tempo da lupi :: lousy weather
 ===lupus===
-  lupus {m} (noun) {{inv}} :: {disease} lupus
+  lupus {m} (noun) {inv} :: {disease} lupus
 ===m===
   m (letter) {m|f|inv} :: See under M
   bo :: An interjection expressing doubt or indecision.
@@ -2279,7 +2279,7 @@ Index: it it->en
   maestoso {{it-adj|maestos}} :: majestic
   maestoso {{it-adj|maestos}} :: {music} A direction to perform a passage or piece of music in a dignified manner.
 ===magenta===
-  magenta (adjective) {{inv}} :: magenta
+  magenta (adjective) {inv} :: magenta
   magenta (noun) {m|inv} :: magenta
 ===magia===
   magia {f}, magie {pl} :: magic
@@ -2294,11 +2294,11 @@ Index: it it->en
 ===mail===
   mail {f|inv} :: email
 ===mal===
-  mal {m} (noun) {{inv}} :: {{apocopic form of|male}}
+  mal {m} (noun) {inv} :: {{apocopic form of|male}}
 ===Malawi===
   Malawi {m} :: Malawi
 ===male===
-  male {{it-adv}} (comparative: peggio; superlative: malissimo) :: badly, wrongly
+  male {it-adv} (comparative: peggio; superlative: malissimo) :: badly, wrongly
   male {m}, mali {pl} :: evil, harm
   male {m}, mali {pl} :: pain, ache, illness, sickness, disease
 ===mali===
@@ -2311,7 +2311,7 @@ Index: it it->en
 ===management===
   management {m|inv} :: management
 ===manga===
-  manga {m} {{inv}} :: {manga} A manga
+  manga {m} {inv} :: {manga} A manga
 ===manganese===
   manganese {m}, manganesi {pl} :: manganese
 ===manganesi===
@@ -2356,7 +2356,7 @@ Index: it it->en
 ===Marino===
   San Marino {{it-proper noun|g=m}} :: San Marino
 ===Massa===
-  Massa Carrara {{it-proper noun}} :: Massa Carrara
+  Massa Carrara {it-proper noun} :: Massa Carrara
 ===Massimo===
   ne (contraction) :: {{apocopic form of|nel}}
     Massimo Troisi ha vinto un oscar per la sua interpretazione ne "Il postino". :: "Massimo Troisi won an Oscar for his performance in "Il Postino".
@@ -2380,7 +2380,7 @@ Index: it it->en
 ===men===
   men (adverb) :: {{apocopic form of|meno}}
 ===menu===
-  menu {m} (noun) {{inv}} :: menu
+  menu {m} (noun) {inv} :: menu
 ===meri===
   meri {m} :: Plural form of mero
 ===Messina===
@@ -2405,7 +2405,7 @@ Index: it it->en
 ===Micronesia===
   Micronesia {f} :: Micronesia
 ===Milan===
-  Milan {{it-proper noun}} :: The AC Milan football team
+  Milan {it-proper noun} :: The AC Milan football team
 ===milione===
   milione {m}, milioni {pl} :: million
 ===milioni===
@@ -2545,7 +2545,7 @@ Index: it it->en
   nature {f} :: {plural of|natura}
 ===nature===
   nature {f} :: {plural of|natura}
-  nature {{inv}} :: natural
+  nature {inv} :: natural
 ===Nauru===
   Nauru {m} :: Nauru
 ===navigare===
@@ -2553,7 +2553,7 @@ Index: it it->en
 ===navigo===
   navigo :: {conjugation of|navigare|1|s|pres|ind}
 ===ne===
-  ne {{it-adv}} :: from there
+  ne {it-adv} :: from there
     Ne sono venuto. :: “I have come from there.”
   ne (pronoun) :: of it
     Ne ho sentito parlare. :: “I have heard talk of it.”
@@ -2563,7 +2563,7 @@ Index: it it->en
   ne (contraction) :: {{apocopic form of|nel}}
     Massimo Troisi ha vinto un oscar per la sua interpretazione ne "Il postino". :: "Massimo Troisi won an Oscar for his performance in "Il Postino".
 ===Ne===
-  ne {{it-adv}} :: from there
+  ne {it-adv} :: from there
     Ne sono venuto. :: “I have come from there.”
   ne (pronoun) :: of it
     Ne ho sentito parlare. :: “I have heard talk of it.”
@@ -2596,7 +2596,7 @@ Index: it it->en
 ===newton===
   newton {m} (noun) :: newton
 ===ni===
-  ni {{it-adv}} :: {informal} Neither yes nor no (a play on no and si)
+  ni {it-adv} :: {informal} Neither yes nor no (a play on no and si)
   ni (noun) {m|f|inv} :: nu (Greek letter)
 ===Nicaragua===
   Nicaragua (proper noun) {m} :: Nicaragua
@@ -2636,8 +2636,8 @@ Index: it it->en
 ===noto===
   note {p} :: {feminine plural of|noto}
 ===Novara===
-  Novara {{it-proper noun}} :: Novara (province)
-  Novara {{it-proper noun}} :: Novara (town)
+  Novara {it-proper noun} :: Novara (province)
+  Novara {it-proper noun} :: Novara (town)
 ===nove===
   nove {m|f|inv} :: nine
   nove {m|inv}{f|plural} :: nine
@@ -2671,7 +2671,7 @@ Index: it it->en
 ===Oceania===
   Oceania {{it-proper noun|g=f}} :: Oceania
 ===Oggi===
-  cane {{inv}} :: freezing, biting [cold]
+  cane {inv} :: freezing, biting [cold]
     Oggi fa un freddo cane! :: Today is freezing cold!
 ===oliva===
   olive {f} :: {plural of|oliva}
@@ -2688,11 +2688,11 @@ Index: it it->en
 ===oncia===
   once {f|p} :: {plural of|oncia}
 ===online===
-  online {{inv}} (Also: on line, on-line) :: online
+  online {inv} (Also: on line, on-line) :: online
 ===opero===
   opero :: first-person singular present tense of operare
 ===or===
-  or {{it-adv}} :: {{apocopic form of|ora}}
+  or {it-adv} :: {{apocopic form of|ora}}
 ===ora===
   ore :: {plural of|ora} (hours)
 ===ordinata===
@@ -2709,8 +2709,8 @@ Index: it it->en
 ===ore===
   ore :: {plural of|ora} (hours)
 ===Oristano===
-  Oristano {{it-proper noun}} :: Oristano [province]
-  Oristano {{it-proper noun}} :: Oristano [town]
+  Oristano {it-proper noun} :: Oristano [province]
+  Oristano {it-proper noun} :: Oristano [town]
 ===ortoepia===
   ortoepia {f}, ortoepie {pl} :: orthoepy
 ===ortoepie===
@@ -2724,7 +2724,7 @@ Index: it it->en
   osso {m} (noun) (plural ossa, ossi) :: {{context|skeleton}} bone
   osso {m} (noun) (plural ossa, ossi) :: stone (in fruits)
 ===Ossola===
-  Verbano-Cusio-Ossola {{it-proper noun}} :: Verbano-Cusio-Ossola
+  Verbano-Cusio-Ossola {it-proper noun} :: Verbano-Cusio-Ossola
 ===osteo===
   osteo- :: {anatomy} osteo-
 ===otto===
@@ -2764,7 +2764,7 @@ Index: it it->en
 ===Panama===
   Panama {f} :: Panama
 ===pancreas===
-  pancreas {m} {{inv}} :: pancreas
+  pancreas {m} {inv} :: pancreas
 ===panda===
   panda {m} (noun) :: panda
 ===Paolo===
@@ -2815,8 +2815,8 @@ Index: it it->en
 ===pause===
   pause {f} :: {plural of|pausa}
 ===Pavia===
-  Pavia {{it-proper noun}} :: Pavia (province)
-  Pavia {{it-proper noun}} :: Pavia (town)
+  Pavia {it-proper noun} :: Pavia (province)
+  Pavia {it-proper noun} :: Pavia (town)
 ===pensi===
   ne (pronoun) :: of it
     Ne ho sentito parlare. :: “I have heard talk of it.”
@@ -2839,7 +2839,7 @@ Index: it it->en
 ===pesare===
   peso :: {conjugation of|pesare|1|s|pres|ind}
 ===Pesaro===
-  Pesaro e Urbino {{it-proper noun}} :: Pesaro e Urbino
+  Pesaro e Urbino {it-proper noun} :: Pesaro e Urbino
 ===pesca===
   pesca {f}, pesche {pl} :: peach [fruit]
   pesca {f}, pesche {pl} :: peach [colour]
@@ -2871,8 +2871,8 @@ Index: it it->en
 ===pi===
   pi (noun) {m|inv} :: pi (Greek letter)
 ===Piacenza===
-  Piacenza {{it-proper noun}} :: Piacenza (province)
-  Piacenza {{it-proper noun}} :: Piacenza (town)
+  Piacenza {it-proper noun} :: Piacenza (province)
+  Piacenza {it-proper noun} :: Piacenza (town)
 ===piani===
   piano {m}, piani {pl} :: plane
   piano {m}, piani {pl} :: floor, storey (British), story (US: of a building)
@@ -2889,8 +2889,8 @@ Index: it it->en
   piano :: slowly
   piano :: carefully
 ===Piceno===
-  Ascoli Piceno {{it-proper noun}} :: Ascoli Piceno (province)
-  Ascoli Piceno {{it-proper noun}} :: Ascoli Piceno (town)
+  Ascoli Piceno {it-proper noun} :: Ascoli Piceno (province)
+  Ascoli Piceno {it-proper noun} :: Ascoli Piceno (town)
 ===pie===
   pie {f} :: Feminine plural form of pio
 ===Pietro===
@@ -2949,7 +2949,7 @@ Index: it it->en
 ===porcine===
   porcine {f} :: Feminine plural form of porcino
 ===Pordenone===
-  Pordenone {{it-proper noun}} :: Pordenone
+  Pordenone {it-proper noun} :: Pordenone
 ===porti===
   porto {m}, porti {pl} :: port, harbour
   porto {m}, porti {pl} :: port (drink)
@@ -3076,10 +3076,10 @@ Index: it it->en
   pupa {f}, pupe {pl} :: pupa
 ===pure===
   pure {p} :: {feminine plural of|puro}
-  pure {{it-adv}} :: too, also, as well
-  pure {{it-adv}} :: well, surely
-  pure {{it-adv}} :: please, by all means
-  pure {{it-adv}} :: if you like; if you want (etc.)
+  pure {it-adv} :: too, also, as well
+  pure {it-adv} :: well, surely
+  pure {it-adv} :: please, by all means
+  pure {it-adv} :: if you like; if you want (etc.)
     (with third-person subjunctive) Parli pure: let him speak if he likes :: --
     {{qualifier|with imperative}} Parla pure: speak if you like :: --
     (with formal subjunctive-imperative) Lei parli pure: speak if you like :: --
@@ -3096,7 +3096,7 @@ Index: it it->en
 ===Qatar===
   Qatar {f} :: Qatar
 ===qua===
-  qua {{it-adv}} :: here (relatively close to the speaker)
+  qua {it-adv} :: here (relatively close to the speaker)
 ===quadruple===
   quadruple {f} :: Feminine plural form of quadruplo
 ===qualitative===
@@ -3214,9 +3214,9 @@ Index: it it->en
 ===remake===
   remake {m} (noun) :: remake (of a film)
 ===remote===
-  remote {f} {{plural}} :: {feminine plural of|remoto}
+  remote {f} {plural} :: {feminine plural of|remoto}
 ===remoto===
-  remote {f} {{plural}} :: {feminine plural of|remoto}
+  remote {f} {plural} :: {feminine plural of|remoto}
 ===replica===
   replica :: third-person singular present tense of replicare
   replica :: second-person singular imperative of replicare
@@ -3265,8 +3265,8 @@ Index: it it->en
   riga {f}, righe {pl} :: parting (of hair)
   riga {f}, righe {pl} :: ruler (measuring device)
 ===Rimini===
-  Rimini {{it-proper noun}} :: Rimini (province)
-  Rimini {{it-proper noun}} :: Rimini (town)
+  Rimini {it-proper noun} :: Rimini (province)
+  Rimini {it-proper noun} :: Rimini (town)
 ===rise===
   rise (verb form) :: {[[third-person]] [[singular]] [[past historic]]|ridere}
 ===robot===
@@ -3283,7 +3283,7 @@ Index: it it->en
   Rome {f} :: {plural of|Roma}
     le due Rome, the two Romes :: --
 ===Romagna===
-  Emilia-Romagna {{it-proper noun|head=[[Emilia]]-[[Romagna]]|g=f}} :: Emilia-Romagna
+  Emilia-Romagna {{it-proper noun|head=Emilia-Romagna|g=f}} :: Emilia-Romagna
 ===Romania===
   Romania {f} (proper noun) :: Romania
 ===Rome===
@@ -3505,7 +3505,7 @@ Index: it it->en
     A Luca piace ubriacarsi (Luca likes to get drunk) :: --
   ti (pronoun) :: {reflexive} {second-person singular|si|nodot=1}; you
 ===sì===
-  sì {{it-adv}} :: yes
+  sì {it-adv} :: yes
 ===Siena===
   Siena {{it-proper noun|g=f}} :: Siena (province)
   Siena {{it-proper noun|g=f}} :: Siena (town)
@@ -3553,9 +3553,9 @@ Index: it it->en
   libero {{it-adj|liber}} :: free (as in "free software")
     Software libero. :: Free software.
 ===sol===
-  {{wikipedia|Sol (nota)|lang=it}}sol {m|inv} (noun) :: sol (musical note, colloid)
-  {{wikipedia|Sol (nota)|lang=it}}sol {m|inv} (noun) :: G (musical note and key)
-  {{wikipedia|Sol (nota)|lang=it}}sol {m|inv} (noun) :: {{apocopic form of|sole}}
+  {{wikipedia|Sol (nota)}}sol {m|inv} (noun) :: sol (musical note, colloid)
+  {{wikipedia|Sol (nota)}}sol {m|inv} (noun) :: G (musical note and key)
+  {{wikipedia|Sol (nota)}}sol {m|inv} (noun) :: {{apocopic form of|sole}}
 ===sola===
   sole {f} :: {plural of|sola}
 ===sole===
@@ -3577,10 +3577,10 @@ Index: it it->en
 ===some===
   some {f} :: {plural of|soma}
 ===Sondrio===
-  Sondrio {{it-proper noun}} :: Sondrio (province)
-  Sondrio {{it-proper noun}} :: Sondrio (town)
+  Sondrio {it-proper noun} :: Sondrio (province)
+  Sondrio {it-proper noun} :: Sondrio (town)
 ===sono===
-  ne {{it-adv}} :: from there
+  ne {it-adv} :: from there
     Ne sono venuto. :: “I have come from there.”
   ne (pronoun) :: of them (sometimes not translated in English)
     Ce ne sono due. :: “There are two (of them).”
@@ -3616,8 +3616,8 @@ Index: it it->en
 ===stand===
   stand {m|inv}{{rfc|certainly the senses are more restricted than in modern English}} :: stand [section of an exhibition; gallery at a sports event]
 ===standard===
-  standard (adjective) {{inv}} :: standard
-  standard {m} (noun) {{inv}} :: standard
+  standard (adjective) {inv} :: standard
+  standard {m} (noun) {inv} :: standard
 ===star===
   star {f|inv} :: star (celebrity)
 ===stasera===
@@ -3746,7 +3746,7 @@ Index: it it->en
   libero {{it-adj|liber}} :: free (without obligations)
     Tempo libero. :: Free time./Leisure time.
 ===tennis===
-  tennis {m} (noun) {{inv}} :: tennis
+  tennis {m} (noun) {inv} :: tennis
 ===Teramo===
   Teramo {{it-proper noun|g=f}} :: Teramo (province)
   Teramo {{it-proper noun|g=f}} :: Teramo (town)
@@ -3777,8 +3777,8 @@ Index: it it->en
 ===ti===
   ti (pronoun) :: {objective|tu|nodot=1}; you
   ti (pronoun) :: {reflexive} {second-person singular|si|nodot=1}; you
-  {{wikipedia|Ti (nota)|lang=it}}ti {{{m|inv}}} (noun) :: {music} ti (note)
-  {{wikipedia|Ti (nota)|lang=it}}ti {{{m|inv}}} (noun) :: {music} B (note and scale)
+  {{wikipedia|Ti (nota)}}ti {{{m|inv}}} (noun) :: {music} ti (note)
+  {{wikipedia|Ti (nota)}}ti {{{m|inv}}} (noun) :: {music} B (note and scale)
 ===tigre===
   tigre {f}, tigri {pl} :: tiger (male)
   tigre {f}, tigri {pl} :: tigress (female)
@@ -3806,7 +3806,7 @@ Index: it it->en
   torso {m}, torsi {pl} :: torso
 ===torta===
   torta {f}, torte {pl} :: pie, tart, cake or similar
-  torta {{s}} :: {feminine of|torto}
+  torta {s} :: {feminine of|torto}
   torta :: feminine singular past participle of torcere
   torte :: {plural of|torta}
 ===torte===
@@ -3815,7 +3815,7 @@ Index: it it->en
   torte :: feminine plural past participle of torcere
   torta {f}, torte {pl} :: pie, tart, cake or similar
 ===torto===
-  torta {{s}} :: {feminine of|torto}
+  torta {s} :: {feminine of|torto}
   torte {p} :: {feminine of|torto}
 ===Toscana===
   Toscana {{it-proper noun|g=f}} :: Tuscany
@@ -3845,7 +3845,7 @@ Index: it it->en
   tredici {m|inv}{f|plural} :: thirteen
   tredici {m|inv}{f|plural} :: one o'clock (p.m.)
 ===Trentino===
-  Trentino-Alto Adige {{it-proper noun}} :: Trentino-Alto Adige
+  Trentino-Alto Adige {it-proper noun} :: Trentino-Alto Adige
 ===Trento===
   Trento :: Trento (province)
   Trento :: Trento (town)
@@ -3855,7 +3855,7 @@ Index: it it->en
 ===trial===
   trial (noun) {m|inv} :: {sports} trials (motorcycle etc)
 ===Trieste===
-  Trieste {{it-proper noun}} :: Trieste (all senses)
+  Trieste {it-proper noun} :: Trieste (all senses)
 ===Tripoli===
   Tripoli {{it-proper noun|g=f}} :: Tripoli
 ===trite===
@@ -3937,7 +3937,7 @@ Index: it it->en
   libero {{it-adj|liber}} :: free (not imprisoned or enslaved)
     Un uomo libero. :: A free man.
 ===Urbino===
-  Pesaro e Urbino {{it-proper noun}} :: Pesaro e Urbino
+  Pesaro e Urbino {it-proper noun} :: Pesaro e Urbino
 ===Uruguay===
   Uruguay {{it-proper noun|g=m}} :: Uruguay
 ===utopia===
@@ -3970,7 +3970,7 @@ Index: it it->en
 ===Valencia===
   Valencia {{it-proper noun|g=f}} :: Valencia
 ===Valentia===
-  Vibo Valentia {{it-proper noun}} :: Vibo Valentia
+  Vibo Valentia {it-proper noun} :: Vibo Valentia
 ===Valle===
   Valle d'Aosta {{it-proper noun|g=f}} :: Valle d'Aosta (region)
   Valle d'Aosta {{it-proper noun|g=f}} :: Valle d'Aosta (province)
@@ -3990,17 +3990,17 @@ Index: it it->en
 ===Venezuela===
   Venezuela {{it-proper noun|g=m}} :: Venezuela
 ===Ventimiglia===
-  Ventimiglia {{it-proper noun}} :: Ventimiglia
+  Ventimiglia {it-proper noun} :: Ventimiglia
 ===venturi===
   venturi {m} :: Plural form of venturo
 ===venuto===
-  ne {{it-adv}} :: from there
+  ne {it-adv} :: from there
     Ne sono venuto. :: “I have come from there.”
 ===Verbano===
-  Verbano-Cusio-Ossola {{it-proper noun}} :: Verbano-Cusio-Ossola
+  Verbano-Cusio-Ossola {it-proper noun} :: Verbano-Cusio-Ossola
 ===Vercelli===
-  Vercelli {{it-proper noun}} :: Vercelli [province]
-  Vercelli {{it-proper noun}} :: Vercelli [town]
+  Vercelli {it-proper noun} :: Vercelli [province]
+  Vercelli {it-proper noun} :: Vercelli [town]
 ===veri===
   vero {m}, veri {pl} :: truth
 ===vermouth===
@@ -4036,10 +4036,10 @@ Index: it it->en
   vi :: (second-person reflexive plural): yourselves
     (voi) vi ricordate :: --
   vi :: it (often not translated); about it, of it, on it
-  vi {{it-adv}} :: there
-  vi {{it-adv}} :: here
+  vi {it-adv} :: there
+  vi {it-adv} :: here
 ===Vibo===
-  Vibo Valentia {{it-proper noun}} :: Vibo Valentia
+  Vibo Valentia {it-proper noun} :: Vibo Valentia
 ===Vicenza===
   Vicenza {{it-proper noun|g=f}} :: Vicenza (province)
   Vicenza {{it-proper noun|g=f}} :: Vicenza (town)
@@ -4067,8 +4067,8 @@ Index: it it->en
   vita {f} (noun), plural: vite :: life
   vita {f} (noun), plural: vite :: waist
 ===Viterbo===
-  Viterbo {{it-proper noun}} :: Viterbo [province]
-  Viterbo {{it-proper noun}} :: Viterbo [town]
+  Viterbo {it-proper noun} :: Viterbo [province]
+  Viterbo {it-proper noun} :: Viterbo [town]
 ===vocali===
   forte {{it-adj|fort|e|i}} :: {linguistics} stressed
     vocali forti :: stressed vowel
@@ -4088,7 +4088,7 @@ Index: it it->en
 ===voco===
   voco (verb form) :: {conjugation of|vocare|1|s|pres|ind}
 ===vodka===
-  vodka {f} (noun) {{inv}} :: vodka
+  vodka {f} (noun) {inv} :: vodka
 ===vogliono===
   parole {f|p} :: {plural of|parola}
     Ci vogliono fatti e non parole. :: Action is needed, not words.
@@ -4129,12 +4129,12 @@ Index: it it->en
 ===weber===
   weber {m|inv} :: {physics} weber
 ===weekend===
-  weekend {m} {{inv}} :: weekend
+  weekend {m} {inv} :: weekend
 ===west===
   west {m|inv} :: West (historic area of America)
 ===wireless===
   wireless {m|inv} :: wireless (transmission without wires)
-  wireless {{inv}} :: wireless (computing)
+  wireless {inv} :: wireless (computing)
 ===x===
   X {m|f|inv} (letter), lower case: x :: The twenty-fourth letter of the Latin alphabet, called ics in Italian.
 ===X===
@@ -4186,7 +4186,7 @@ Index: it it->en
 ===Zimbabwe===
   Zimbabwe {m} :: Zimbabwe
 ===zoo===
-  zoo {m} {{inv}} :: zoo
+  zoo {m} {inv} :: zoo
 ===zoom===
   zoom {m|inv} :: {photography} zoom
 ===zucchetti===
@@ -4205,9 +4205,9 @@ Index: en en->it
 ===3===
   milli- :: milli- (multiplying the unit to which it is attached by 10<sup>-3</sup>)
 ===50s===
-  beat {{inv}} :: beat (50s US literary and 70s UK music scenes)
+  beat {inv} :: beat (50s US literary and 70s UK music scenes)
 ===70s===
-  beat {{inv}} :: beat (50s US literary and 70s UK music scenes)
+  beat {inv} :: beat (50s US literary and 70s UK music scenes)
 ===abacus===
   abaco {m}, abachi {pl} :: abacus, plinth, multiplication-table
 ===abbot===
@@ -4237,7 +4237,7 @@ Index: en en->it
 ===abusivo===
   abusive {f} :: Feminine plural form of abusivo
 ===AC===
-  Milan {{it-proper noun}} :: The AC Milan football team
+  Milan {it-proper noun} :: The AC Milan football team
 ===acacia===
   acacia {f}, acacie {pl} :: acacia (tree)
 ===accelerare===
@@ -4245,7 +4245,7 @@ Index: en en->it
   accelerate :: second-person plural imperative of accelerare
   accelerate :: feminine plural past participle of accelerare
 ===accelerating===
-  accelerando {{it-adv}} :: accelerating
+  accelerando {it-adv} :: accelerating
 ===accelerativo===
   accelerative {f} :: Feminine plural form of accelerativo
 ===accented===
@@ -4270,7 +4270,7 @@ Index: en en->it
 ===accusation===
   accusa {f}, accuse {pl} :: accusation
 ===accuse===
-  accusare {{transitive}} :: To accuse, to reproach, to impeach.
+  accusare {transitive} :: To accuse, to reproach, to impeach.
 ===accused===
   accusato {m}, accusati {pl} :: accused person, accused
   accusato {{it-adj|accusat}} :: accused
@@ -4294,7 +4294,7 @@ Index: en en->it
   hobby {m|inv} :: hobby (activity)
   break {m|inv} :: break (intermission or brief suspension of activity)
 ===Adige===
-  Trentino-Alto Adige {{it-proper noun}} :: Trentino-Alto Adige
+  Trentino-Alto Adige {it-proper noun} :: Trentino-Alto Adige
 ===admirer===
   fan {mf}, fans {pl} :: fan (admirer or follower)
 ===admission===
@@ -4318,7 +4318,7 @@ Index: en en->it
     bei tempi!, those were the days! :: --
   era {f}, ere {pl} :: age, epoch, period
 ===ago===
-  fa {{it-adv}} :: ago
+  fa {it-adv} :: ago
 ===agreement===
   agreement {m|inv} :: agreement (pact, accord)
 ===Agrigento===
@@ -4355,7 +4355,7 @@ Index: en en->it
   yacht {m|inv} :: The letter Y in the Italian phonetic alphabet
   Ancona {{it-proper noun|g=f}} :: The letter A in the Italian phonetic alphabet
   Bologna {f} :: The letter B in the Italian phonetic alphabet
-  Como {{it-proper noun}} :: The letter C in the Italian phonetic alphabet
+  Como {it-proper noun} :: The letter C in the Italian phonetic alphabet
   Livorno {{it-proper noun|g=f}} :: The letter L in the Italian phonetic alphabet
   Savona {{it-proper noun|g=f}} :: The letter S in the Italian phonetic alphabet
   Taranto {{it-proper noun|g=f}} :: The letter T in the Italian phonetic alphabet
@@ -4364,7 +4364,7 @@ Index: en en->it
 ===alphabets===
   zeta (noun) {m|f|inv} :: zeta; The letter Z/z in the Italian and Greek alphabets
 ===also===
-  pure {{it-adv}} :: too, also, as well
+  pure {it-adv} :: too, also, as well
   si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below)
     Example: Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
     Note: In this sense, verb + si is often translated as become or get + past participle in English. :: --
@@ -4376,7 +4376,7 @@ Index: en en->it
 ===although===
   pure (conjunction) :: even though, even if, although
 ===Alto===
-  Trentino-Alto Adige {{it-proper noun}} :: Trentino-Alto Adige
+  Trentino-Alto Adige {it-proper noun} :: Trentino-Alto Adige
 ===always===
   evergreen (adj) {m|f|inv} :: evergreen (always in style)
   evergreen (noun) {m|inv} :: A song or singer that is always in style
@@ -4413,7 +4413,7 @@ Index: en en->it
 ===Angola===
   Angola {f} :: Angola
 ===Anguilla===
-  Anguilla {{it-proper noun}} :: Anguilla
+  Anguilla {it-proper noun} :: Anguilla
 ===animal===
   bestiola {f}, bestiole {pl} :: Little animal or beast, creature
   lama {m}, lami {pl} :: A llama (animal)
@@ -4494,8 +4494,8 @@ Index: en en->it
   come :: as soon as
     Come arrivò... :: As soon as he arrived...
 ===Ascoli===
-  Ascoli Piceno {{it-proper noun}} :: Ascoli Piceno (province)
-  Ascoli Piceno {{it-proper noun}} :: Ascoli Piceno (town)
+  Ascoli Piceno {it-proper noun} :: Ascoli Piceno (province)
+  Ascoli Piceno {it-proper noun} :: Ascoli Piceno (town)
 ===Asia===
   Asia {{it-proper noun|g=f}} :: {{context|continent}} Asia
 ===asinino===
@@ -4505,7 +4505,7 @@ Index: en en->it
 ===asset===
   asset {m|inv} :: asset (economic)
 ===associated===
-  Imperia {{it-proper noun}} :: A town and associated province on the coast of Liguria
+  Imperia {it-proper noun} :: A town and associated province on the coast of Liguria
 ===association===
   club {m|inv} :: club (association; golf implement)
 ===associativo===
@@ -4523,14 +4523,14 @@ Index: en en->it
 ===avatar===
   avatar (noun) {m|inv} :: avatar (all senses)
 ===Avellino===
-  Avellino {{it-proper noun}} :: Avellino [province]
-  Avellino {{it-proper noun}} :: Avellino [town]
+  Avellino {it-proper noun} :: Avellino [province]
+  Avellino {it-proper noun} :: Avellino [town]
 ===avocado===
   avocado {m}, avocadi {pl} :: avocado
 ===awful===
-  cane {{inv}} :: terrible, dreadful, awful
+  cane {inv} :: terrible, dreadful, awful
 ===B===
-  {{wikipedia|Ti (nota)|lang=it}}ti {{{m|inv}}} (noun) :: {music} B (note and scale)
+  {{wikipedia|Ti (nota)}}ti {{{m|inv}}} (noun) :: {music} B (note and scale)
   Bologna {f} :: The letter B in the Italian phonetic alphabet
 ===back===
   bo :: An interjection expressing doubt or indecision.
@@ -4538,11 +4538,11 @@ Index: en en->it
 ===backdrop===
   scenario {m}, scenari {pl} :: backdrop
 ===badly===
-  male {{it-adv}} (comparative: peggio; superlative: malissimo) :: badly, wrongly
+  male {it-adv} (comparative: peggio; superlative: malissimo) :: badly, wrongly
 ===bah===
   ba (interjection) :: bah!
 ===Bahamas===
-  Bahamas {{it-proper noun}} {f|p} :: Bahamas
+  Bahamas {it-proper noun} {f|p} :: Bahamas
 ===Bahrain===
   Bahrain {m} :: Bahrain
 ===ball===
@@ -4551,10 +4551,10 @@ Index: en en->it
   boy {m} (noun), inv :: A male ballet dancer.
 ===banana===
   banana {f}, banane {pl} :: banana (fruit)
-  banana {m} {{inv}} :: banana (color)
-  banana {{inv}} :: banana
+  banana {m} {inv} :: banana (color)
+  banana {inv} :: banana
 ===Bangkok===
-  Bangkok {{it-proper noun}} :: Bangkok (capital of Thailand)
+  Bangkok {it-proper noun} :: Bangkok (capital of Thailand)
 ===Bangladesh===
   Bangladesh {{it-proper noun|g=m}} :: Bangladesh
 ===banjo===
@@ -4583,12 +4583,12 @@ Index: en en->it
 ===bean===
   seme {m}, semi {pl} :: bean (in some cases)
 ===bear===
-  dare {{it-verb}} :: {transitive} To yield, to bear, to give, to produce, to return.
+  dare {it-verb} :: {transitive} To yield, to bear, to give, to produce, to return.
 ===beast===
   bestia {f}, bestie {pl} :: beast
   bestiola {f}, bestiole {pl} :: Little animal or beast, creature
 ===beat===
-  beat {{inv}} :: beat (50s US literary and 70s UK music scenes)
+  beat {inv} :: beat (50s US literary and 70s UK music scenes)
   beat {m|inv} :: beat (rhythm accompanying music)
 ===beauty===
   apollo {m}, apolli {pl} :: A man of great beauty
@@ -4612,8 +4612,8 @@ Index: en en->it
 ===bellboy===
   boy {m} (noun), inv :: A bellboy (in a hotel).
 ===Belluno===
-  Belluno {{it-proper noun}} :: Belluno [province]
-  Belluno {{it-proper noun}} :: Belluno [town]
+  Belluno {it-proper noun} :: Belluno [province]
+  Belluno {it-proper noun} :: Belluno [town]
 ===below===
   si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below)
     Example: Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
@@ -4622,7 +4622,7 @@ Index: en en->it
     Ci vuole un po’ di tempo per abituarsi (It takes a while to become accustomed) :: --
     A Luca piace ubriacarsi (Luca likes to get drunk) :: --
 ===bene===
-  ben {{it-adv}} :: Short form of bene.
+  ben {it-adv} :: Short form of bene.
     ben fatto :: well done
 ===benefit===
   benefit {m|inv} :: benefit, advantage
@@ -4662,7 +4662,7 @@ Index: en en->it
 ===Bissau===
   Guinea-Bissau {f} :: Guinea-Bissau
 ===biting===
-  cane {{inv}} :: freezing, biting [cold]
+  cane {inv} :: freezing, biting [cold]
     Oggi fa un freddo cane! :: Today is freezing cold!
 ===bitterness===
   amarezza {f}, amarezze {pl} :: bitterness
@@ -4786,8 +4786,8 @@ Index: en en->it
 ===butterfly===
   apollo {m}, apolli {pl} :: Apollo butterfly (Parnassius apollo, a large swallowtail with black and red spots on white wings)
 ===C===
-  {{wikipedia|Do (nota)|lang=it}}do {m} (noun) :: C (the musical note or key)
-  Como {{it-proper noun}} :: The letter C in the Italian phonetic alphabet
+  {{wikipedia|Do (nota)}}do {m} (noun) :: C (the musical note or key)
+  Como {it-proper noun} :: The letter C in the Italian phonetic alphabet
 ===cadere===
   cadi :: second-person singular present tense of cadere
   cadi :: second-person singular imperative of cadere
@@ -4815,14 +4815,14 @@ Index: en en->it
 ===calotte===
   zucchetto {m}, zucchetti {pl} :: small skullcap worn by Roman Catholic clergy; calotte
 ===Caltanisetta===
-  Caltanissetta {{it-proper noun}} :: Caltanisetta
+  Caltanissetta {it-proper noun} :: Caltanisetta
 ===camera===
   camera {f}, camere {pl} :: camera (for taking moving pictures)
 ===Campania===
   Campania f :: Campania
 ===Campobasso===
-  Campobasso {{it-proper noun}} :: Campobasso [province]
-  Campobasso {{it-proper noun}} :: Campobasso [town]
+  Campobasso {it-proper noun} :: Campobasso [province]
+  Campobasso {it-proper noun} :: Campobasso [town]
 ===Canada===
   Canada {{it-proper noun|g=m}} :: Canada
 ===Canberra===
@@ -4835,10 +4835,10 @@ Index: en en->it
   Brasilia {{it-proper noun|g=f}} :: Brasilia, the capital of Brazil
   Madrid {{it-proper noun|g=f}} :: Madrid, Spanish capital city and province
   Parigi {{it-proper noun|g=f}} :: Paris, the capital city of France.
-  Bangkok {{it-proper noun}} :: Bangkok (capital of Thailand)
+  Bangkok {it-proper noun} :: Bangkok (capital of Thailand)
   Vienna {{it-proper noun|g=f}} :: Vienna [capital of Austria]
 ===car===
-  box {m} {{inv}} :: garage, lock-up (for a car)
+  box {m} {inv} :: garage, lock-up (for a car)
 ===caracal===
   caracal (noun) {m|inv} :: caracal
 ===card===
@@ -4848,7 +4848,7 @@ Index: en en->it
 ===carefully===
   piano :: carefully
 ===Carrara===
-  Massa Carrara {{it-proper noun}} :: Massa Carrara
+  Massa Carrara {it-proper noun} :: Massa Carrara
 ===carriage===
   porto {m}, porti {pl} :: carriage
 ===Caserta===
@@ -4864,8 +4864,8 @@ Index: en en->it
   Catania {{it-proper noun|g=f}} :: Catania (province)
   Catania {{it-proper noun|g=f}} :: Catania (town)
 ===Catanzaro===
-  Catanzaro {{it-proper noun}} :: Catanzaro [province]
-  Catanzaro {{it-proper noun}} :: Catanzaro [town]
+  Catanzaro {it-proper noun} :: Catanzaro [province]
+  Catanzaro {it-proper noun} :: Catanzaro [town]
 ===Catholic===
   zucchetto {m}, zucchetti {pl} :: small skullcap worn by Roman Catholic clergy; calotte
 ===celebrity===
@@ -4886,7 +4886,7 @@ Index: en en->it
 ===certain===
   chance {f|inv} :: chance (possibility of a certain outcome)
 ===Cesena===
-  Forlì-Cesena {{it-proper noun}} :: Forlì-Cesena
+  Forlì-Cesena {it-proper noun} :: Forlì-Cesena
 ===chaff===
   pula {f}, pule {pl} :: chaff
 ===chair===
@@ -4946,7 +4946,7 @@ Index: en en->it
   Taranto {{it-proper noun|g=f}} :: Taranto (city)
   Sofia (proper noun), f :: Sofia (city)
 ===claque===
-  claque {f} {{inv}} :: claque
+  claque {f} {inv} :: claque
 ===clause===
   finale {f}, finali {pl} :: {linguistics} termination, ending, final clause
 ===clear===
@@ -4972,7 +4972,7 @@ Index: en en->it
   quindici {m|inv}{f|plural} :: three o'clock (p.m.)
   dodici {m|inv}{f|plural} :: twelve o'clock (midday or midnight)
 ===close===
-  qua {{it-adv}} :: here (relatively close to the speaker)
+  qua {it-adv} :: here (relatively close to the speaker)
 ===closet===
   water (noun) {m|inv} :: {colloquial} water closet, toilet, rest room
 ===cloth===
@@ -4983,9 +4983,9 @@ Index: en en->it
   club {m|inv} :: club (association; golf implement)
 ===coast===
   marina {f}, marine {pl} :: coast
-  Imperia {{it-proper noun}} :: A town and associated province on the coast of Liguria
+  Imperia {it-proper noun} :: A town and associated province on the coast of Liguria
 ===cobra===
-  cobra {m} {{inv}} :: cobra
+  cobra {m} {inv} :: cobra
 ===cock===
   gallo {m}, galli {pl} (feminine: gallina) :: rooster, cock
 ===cognate===
@@ -4999,19 +4999,19 @@ Index: en en->it
   cola :: third-person singular present tense of colare
   cola :: second-person singular imperative of colare
 ===cold===
-  cane {{inv}} :: freezing, biting [cold]
+  cane {inv} :: freezing, biting [cold]
     Oggi fa un freddo cane! :: Today is freezing cold!
 ===collective===
   uva {f}, uve {pl} :: (collective noun) grapes
 ===colloid===
-  {{wikipedia|Sol (nota)|lang=it}}sol {m|inv} (noun) :: sol (musical note, colloid)
+  {{wikipedia|Sol (nota)}}sol {m|inv} (noun) :: sol (musical note, colloid)
 ===Colombia===
   Colombia (proper noun) {f} :: Colombia
 ===colon===
   colon {m|inv} :: {{context|anatomy}} colon
   sigma (noun) {m|f|inv}sigma (noun){m|inv} :: sigmoid colon
 ===color===
-  banana {m} {{inv}} :: banana (color)
+  banana {m} {inv} :: banana (color)
   rosa {f}, rose {pl} :: pink [color]
 ===colour===
   colore {m}, colori {pl} :: colour
@@ -5021,7 +5021,7 @@ Index: en en->it
   negro {{it-adj|negr}} :: black, coloured
   negro {m}, negri {pl} :: black, coloured
 ===come===
-  ne {{it-adv}} :: from there
+  ne {it-adv} :: from there
     Ne sono venuto. :: “I have come from there.”
 ===coming===
   bo :: An interjection expressing doubt or indecision.
@@ -5039,7 +5039,7 @@ Index: en en->it
   lingua franca (noun) {f|inv} :: The Mediterranean Lingua Franca, a common language spoken in Mediterranean ports in centuries past (consisting of Italian mixed with French, Spanish, Arabic and some Greek words and used by sailors of different countries to communicate with one another).
 ===Como===
   CO (abbreviation) :: Como (Italian town in Lombardia)
-  Como {{it-proper noun}} :: Como (province and town)
+  Como {it-proper noun} :: Como (province and town)
 ===company===
   SpA (noun) {f|inv} :: {{abbreviation of|società per azioni}} [public limited company, PLC]
   boss {m|inv} :: boss (leader of a business, company or criminal organization)
@@ -5051,14 +5051,14 @@ Index: en en->it
   computer {m|inv} :: computer (calculating device)
   chat {f|inv} :: chat (informal conversation via computer)
 ===computing===
-  wireless {{inv}} :: wireless (computing)
+  wireless {inv} :: wireless (computing)
   home {f|inv} :: home (initial position of various computing objects)
 ===concerning===
   gossip {m} (noun), inv :: gossip (especially concerning famous or important people)
 ===conclusion===
   finale {m}, finali {pl} :: end, ending, conclusion
 ===condom===
-  condom {m} {{inv}} :: condom
+  condom {m} {inv} :: condom
 ===confirm===
   accreditare :: To confirm
 ===conjunction===
@@ -5083,8 +5083,8 @@ Index: en en->it
 ===copy===
   replica {f}, repliche {pl} :: replica, copy
 ===Cosenza===
-  Cosenza {{it-proper noun}} :: Cosenza [province]
-  Cosenza {{it-proper noun}} :: Cosenza [town]
+  Cosenza {it-proper noun} :: Cosenza [province]
+  Cosenza {it-proper noun} :: Cosenza [town]
 ===Costa===
   Costa Rica {m} :: Costa Rica
 ===coulomb===
@@ -5134,8 +5134,8 @@ Index: en en->it
 ===crossing===
   zebra {f}, zebre {pl} :: {{in the plural|informal}} zebra crossing
 ===Crotone===
-  Crotone {{it-proper noun}} :: Crotone [province]
-  Crotone {{it-proper noun}} :: Crotone [town]
+  Crotone {it-proper noun} :: Crotone [province]
+  Crotone {it-proper noun} :: Crotone [town]
 ===Cuba===
   Cuba {f} :: Cuba
 ===cubo===
@@ -5164,7 +5164,7 @@ Index: en en->it
 ===curvo===
   curve :: feminine plural of curvo
 ===Cusio===
-  Verbano-Cusio-Ossola {{it-proper noun}} :: Verbano-Cusio-Ossola
+  Verbano-Cusio-Ossola {it-proper noun} :: Verbano-Cusio-Ossola
 ===Cutis===
   cute {f}, cuti {pl} :: {{context|anatomy}} Cutis, skin (of a person)
 ===CV===
@@ -5196,7 +5196,7 @@ Index: en en->it
   dia :: third-person singular imperative of dare
 ===dark===
   moro {{it-adj|mor}} :: dark-skinned
-  dark {{inv}} :: dark (used especially to describe a form of punk music)
+  dark {inv} :: dark (used especially to describe a form of punk music)
   moro {m}, mori {pl} (feminine: mora) :: Moor (dark-skinned person)
 ===dato===
   date :: feminine plural of dato, past participle of dare
@@ -5246,7 +5246,7 @@ Index: en en->it
 ===descent===
   casa {f}, case {pl} :: Family, dynasty, descent, extraction, stock, lineage, birth, origin, race (not human “race”, but meaning the preceding words).
 ===describe===
-  dark {{inv}} :: dark (used especially to describe a form of punk music)
+  dark {inv} :: dark (used especially to describe a form of punk music)
 ===design===
   design (noun) {m|inv} :: design (industrial)
   progetto {m}, progetti {pl} :: plan, project, design, scheme, lay out
@@ -5299,8 +5299,8 @@ Index: en en->it
 ===district===
   city {f|inv} :: city (financial district of a city)
 ===do===
-  {{wikipedia|Do (nota)|lang=it}}do {m} (noun) :: do, the musical note
-  fare {{it-verb}} {{transitive}} :: To do
+  {{wikipedia|Do (nota)}}do {m} (noun) :: do, the musical note
+  fare {it-verb} {transitive} :: To do
   ne (pronoun) :: of it
     Ne ho sentito parlare. :: “I have heard talk of it.”
     Cosa ne pensi? :: “What do you think of it?”
@@ -5323,7 +5323,7 @@ Index: en en->it
   bo :: An interjection expressing doubt or indecision.
     Viene Filomena stasera? Bo, non m’ha richiamato. :: Is Filomena coming tonight? I don’t know, she never called me back.
 ===done===
-  ben {{it-adv}} :: Short form of bene.
+  ben {it-adv} :: Short form of bene.
     ben fatto :: well done
 ===doubt===
   bo :: An interjection expressing doubt or indecision.
@@ -5331,7 +5331,7 @@ Index: en en->it
 ===download===
   download (noun) {m|inv} :: {computing} download
 ===dreadful===
-  cane {{inv}} :: terrible, dreadful, awful
+  cane {inv} :: terrible, dreadful, awful
 ===drink===
   drink {m|inv} :: drink [served beverage and mixed beverage]
   cioccolata {f}, cioccolate {pl} :: hot chocolate (drink)
@@ -5352,7 +5352,7 @@ Index: en en->it
 ===dynasty===
   casa {f}, case {pl} :: Family, dynasty, descent, extraction, stock, lineage, birth, origin, race (not human “race”, but meaning the preceding words).
 ===e===
-  Pesaro e Urbino {{it-proper noun}} :: Pesaro e Urbino
+  Pesaro e Urbino {it-proper noun} :: Pesaro e Urbino
 ===E===
   mi (noun)mi (noun){m|f|inv} :: E (musical note or key)
 ===each===
@@ -5375,13 +5375,13 @@ Index: en en->it
     traduzione dall’“Inferno” di Dante :: “translation from Dante’s ‘Inferno’”
     Dalla Terra alla Luna :: “From the Earth to the Moon”
 ===east===
-  est {m} {{inv}} :: east
+  est {m} {inv} :: east
 ===East===
   chat {m|inv} :: chat (leaf chewed by people in North Africa and the Middle East)
 ===ebony===
   ebano {m}, ebani {pl} :: ebony
 ===ECB===
-  BCE {{it-proper noun}} :: ECB
+  BCE {it-proper noun} :: ECB
 ===eccentric===
   eccentrico {{it-adj|eccentric|o|a|i|he}} :: eccentric.
 ===economic===
@@ -5401,7 +5401,7 @@ Index: en en->it
 ===El===
   El Salvador {{it-proper noun|g=m}} :: El Salvador
 ===elegantly===
-  elegantemente {{it-adv}} :: smartly, elegantly, stylishly
+  elegantemente {it-adv} :: smartly, elegantly, stylishly
 ===elevator===
   lift (noun) {m|inv} :: lift / elevator operator
 ===eleven===
@@ -5409,15 +5409,15 @@ Index: en en->it
   undici {m|inv}{f|plural} :: eleven
   undici {m|inv}{f|plural} :: eleven o'clock
 ===else===
-  dare {{it-verb}} :: {transitive} To give, to transfer the possession/holding of something to someone else.
+  dare {it-verb} :: {transitive} To give, to transfer the possession/holding of something to someone else.
 ===email===
   mail {f|inv} :: email
 ===Emilia===
-  Emilia-Romagna {{it-proper noun|head=[[Emilia]]-[[Romagna]]|g=f}} :: Emilia-Romagna
+  Emilia-Romagna {{it-proper noun|head=Emilia-Romagna|g=f}} :: Emilia-Romagna
   Reggio nell'Emilia {{it-proper noun|head=Reggio nell'Emilia}} :: Reggio nell'Emilia [province]
   Reggio nell'Emilia {{it-proper noun|head=Reggio nell'Emilia}} :: Reggio nell'Emilia [town]
 ===emoticon===
-  emoticon (noun), m {{inv}} :: emoticon
+  emoticon (noun), m {inv} :: emoticon
 ===emphasised===
   te (pronoun) :: (emphasised objective of tu) you
 ===employee===
@@ -5434,8 +5434,8 @@ Index: en en->it
     Ce ne sono due. :: “There are two (of them).”
   Alfredo {{it-proper noun|g=m}} :: {{given name|male}}, equivalent to English Alfred.
 ===Enna===
-  Enna {{it-proper noun}} :: Enna [province]
-  Enna {{it-proper noun}} :: Enna [town]
+  Enna {it-proper noun} :: Enna [province]
+  Enna {it-proper noun} :: Enna [town]
 ===enslaved===
   libero {{it-adj|liber}} :: free (not imprisoned or enslaved)
     Un uomo libero. :: A free man.
@@ -5462,7 +5462,7 @@ Index: en en->it
 ===especially===
   gossip {m} (noun), inv :: gossip (especially concerning famous or important people)
   pollo {m}, polli {pl} :: {{context|meats}} chicken (especially chicken meat)
-  dark {{inv}} :: dark (used especially to describe a form of punk music)
+  dark {inv} :: dark (used especially to describe a form of punk music)
   calle {f}, calli {pl} :: alley (especially in Venice)
 ===Esperanto===
   Esperanto {m} (noun) :: Esperanto
@@ -5506,9 +5506,9 @@ Index: en en->it
 ===extraction===
   casa {f}, case {pl} :: Family, dynasty, descent, extraction, stock, lineage, birth, origin, race (not human “race”, but meaning the preceding words).
 ===F===
-  {{wikipedia|Fa (nota)|lang=it}}fa (noun) {m|inv} :: F (musical note or key)
+  {{wikipedia|Fa (nota)}}fa (noun) {m|inv} :: F (musical note or key)
 ===fa===
-  {{wikipedia|Fa (nota)|lang=it}}fa (noun) {m|inv} :: {music} fa (musical note)
+  {{wikipedia|Fa (nota)}}fa (noun) {m|inv} :: {music} fa (musical note)
 ===face===
   lifting {m|inv} :: {surgery} face-lift, lifting
 ===familiar===
@@ -5565,9 +5565,9 @@ Index: en en->it
 ===fight===
   lite {f}, liti {pl} :: A quarrel, row, altercation, fight
 ===file===
-  file {f}{m}{{inv}} :: {{context|computing}} file
+  file {f}{m}{inv} :: {{context|computing}} file
 ===fill===
-  empire {{it-verb}} {{transitive}} :: {obsolete} to fill, to overflow
+  empire {it-verb} {transitive} :: {obsolete} to fill, to overflow
 ===film===
   tempo {m}, tempi {pl} :: part (of a film, show, etc.)
     primo tempo, secondo tempo, first part, second part (of a film.) :: --
@@ -5645,14 +5645,14 @@ Index: en en->it
   fan {mf}, fans {pl} :: fan (admirer or follower)
 ===football===
   zero {m}, zeri {pl} :: nil (football)
-  Milan {{it-proper noun}} :: The AC Milan football team
+  Milan {it-proper noun} :: The AC Milan football team
 ===forefinger===
   indice {m}, indici {pl} :: (finger) index, index finger, forefinger
 ===Forli===
-  Forli {{it-proper noun}} :: Forli [province]
-  Forli {{it-proper noun}} :: Forli [town]
+  Forli {it-proper noun} :: Forli [province]
+  Forli {it-proper noun} :: Forli [town]
 ===Forlì===
-  Forlì-Cesena {{it-proper noun}} :: Forlì-Cesena
+  Forlì-Cesena {it-proper noun} :: Forlì-Cesena
 ===former===
   Ragusa {{it-proper noun|g=f}} :: former name, before 1918, of Dubrovnik
 ===formula===
@@ -5675,7 +5675,7 @@ Index: en en->it
 ===France===
   Parigi {{it-proper noun|g=f}} :: Paris, the capital city of France.
 ===free===
-  gratis {{inv}} :: free
+  gratis {inv} :: free
   libero {{it-adj|liber}} :: free (not imprisoned or enslaved)
     Un uomo libero. :: A free man.
   gratuito {{it-adj|gratuit}} :: free, free of charge, gratis
@@ -5693,7 +5693,7 @@ Index: en en->it
   libero {{it-adj|liber}} :: free (as in "free software")
     Software libero. :: Free software.
 ===freezing===
-  cane {{inv}} :: freezing, biting [cold]
+  cane {inv} :: freezing, biting [cold]
     Oggi fa un freddo cane! :: Today is freezing cold!
 ===French===
   lingua franca (noun) {f|inv} :: The Mediterranean Lingua Franca, a common language spoken in Mediterranean ports in centuries past (consisting of Italian mixed with French, Spanish, Arabic and some Greek words and used by sailors of different countries to communicate with one another).
@@ -5710,8 +5710,8 @@ Index: en en->it
 ===front===
   leader {m|f|inv} :: leader (chief; one in front)
 ===Frosinone===
-  Frosinone {{it-proper noun}} :: Frosinone [province]
-  Frosinone {{it-proper noun}} :: Frosinone [town]
+  Frosinone {it-proper noun} :: Frosinone [province]
+  Frosinone {it-proper noun} :: Frosinone [town]
 ===fruit===
   kiwi {m|inv} :: kiwi fruit
   banana {f}, banane {pl} :: banana (fruit)
@@ -5729,7 +5729,7 @@ Index: en en->it
 ===fuzz===
   pula {f}, pule {pl} :: {slang} the police, the fuzz, the cops
 ===G===
-  {{wikipedia|Sol (nota)|lang=it}}sol {m|inv} (noun) :: G (musical note and key)
+  {{wikipedia|Sol (nota)}}sol {m|inv} (noun) :: G (musical note and key)
 ===gabardine===
   gabardine {m|inv} :: The woolen cloth gabardine
 ===Gabon===
@@ -5754,7 +5754,7 @@ Index: en en->it
 ===gamut===
   gamma {f}, gamme {pl}{m|f|inv} :: range, gamut
 ===garage===
-  box {m} {{inv}} :: garage, lock-up (for a car)
+  box {m} {inv} :: garage, lock-up (for a car)
 ===gas===
   gas {m} (noun) :: gas (state of matter, petroleum)
   gas {m} (noun) :: poison gas
@@ -5795,8 +5795,8 @@ Index: en en->it
 ===Giulia===
   Friuli-Venezia Giulia {m} (proper noun) :: Friuli-Venezia Giulia
 ===give===
-  dare {{it-verb}} :: {transitive} To give, to transfer the possession/holding of something to someone else.
-  dare {{it-verb}} :: {transitive} To yield, to bear, to give, to produce, to return.
+  dare {it-verb} :: {transitive} To give, to transfer the possession/holding of something to someone else.
+  dare {it-verb} :: {transitive} To yield, to bear, to give, to produce, to return.
 ===given===
   don {m} (noun), inv :: Father (a title given to priests)
 ===gnu===
@@ -5881,7 +5881,7 @@ Index: en en->it
 ===Guatemala===
   Guatemala {m} :: Guatemala
 ===Guernsey===
-  Guernsey {{it-proper noun}} :: Guernsey (island)
+  Guernsey {it-proper noun} :: Guernsey (island)
 ===Guinea===
   Guinea {f} :: Guinea
   Guinea-Bissau {f} :: Guinea-Bissau
@@ -5896,7 +5896,7 @@ Index: en en->it
 ===halt===
   stop! :: stop!, halt!
 ===hamburger===
-  hamburger {m} (noun) {{inv}} :: hamburger
+  hamburger {m} (noun) {inv} :: hamburger
 ===hammer===
   cane {m}, cani {pl} :: {{context|firearms}} hammer
 ===handicap===
@@ -5920,7 +5920,7 @@ Index: en en->it
   ho :: {conjugation of|avere|1|s|pres|ind} - I have
   libero {{it-adj|liber}} :: free (that does not have to be paid for)
     Ingresso libero. :: Free admission.
-  ne {{it-adv}} :: from there
+  ne {it-adv} :: from there
     Ne sono venuto. :: “I have come from there.”
   ne (pronoun) :: of it
     Ne ho sentito parlare. :: “I have heard talk of it.”
@@ -5946,9 +5946,9 @@ Index: en en->it
   la {f|s} (pronoun), plural: le :: it (feminine)
     ...una improvvisa timidezza però la immobilizza... (Pasolini) :: ...a sudden timidity immobilized her though...
 ===here===
-  ci {{it-adv}} :: here, there
-  vi {{it-adv}} :: here
-  qua {{it-adv}} :: here (relatively close to the speaker)
+  ci {it-adv} :: here, there
+  vi {it-adv} :: here
+  qua {it-adv} :: here (relatively close to the speaker)
 ===herself===
   si (pronoun) :: {reflexive} oneself, himself, herself, itself, themselves; (reciprocal) each other, one another.
     Examples: :: --
@@ -5986,7 +5986,7 @@ Index: en en->it
 ===hockey===
   hockey {m|inv} :: hockey
 ===holding===
-  dare {{it-verb}} :: {transitive} To give, to transfer the possession/holding of something to someone else.
+  dare {it-verb} :: {transitive} To give, to transfer the possession/holding of something to someone else.
 ===home===
   home {f|inv} :: home (initial position of various computing objects)
   casa {f}, case {pl} :: home
@@ -5997,7 +5997,7 @@ Index: en en->it
 ===honeybee===
   ape {f}, api {pl} :: {{context|familiar}} honeybee
 ===horsebox===
-  box {m} {{inv}} :: horsebox
+  box {m} {inv} :: horsebox
 ===horserace===
   handicap {m|inv} :: handicap (disability; horserace)
 ===hot===
@@ -6026,9 +6026,9 @@ Index: en en->it
   humour {m|inv} :: sense of humour
   secreto {m}, secreti {pl} :: humour, juices, secretion
 ===i===
-  i {f} or {m} {{inv}} :: I or i, the letter I or i
+  i {f} or {m} {inv} :: I or i, the letter I or i
 ===iceberg===
-  iceberg {m} {{inv}} :: iceberg
+  iceberg {m} {inv} :: iceberg
 ===idea===
   idea {f}, idee {pl} :: idea
 ===ideare===
@@ -6043,7 +6043,7 @@ Index: en en->it
     Se non è vero, è ben trovato. :: If it is not true, it is a good story.
   se (conjunction) :: if only
   pure (conjunction) :: even though, even if, although
-  pure {{it-adv}} :: if you like; if you want (etc.)
+  pure {it-adv} :: if you like; if you want (etc.)
     (with third-person subjunctive) Parli pure: let him speak if he likes :: --
     {{qualifier|with imperative}} Parla pure: speak if you like :: --
     (with formal subjunctive-imperative) Lei parli pure: speak if you like :: --
@@ -6066,7 +6066,7 @@ Index: en en->it
 ===impala===
   impala {m|inv} :: impala
 ===impeach===
-  accusare {{transitive}} :: To accuse, to reproach, to impeach.
+  accusare {transitive} :: To accuse, to reproach, to impeach.
 ===imperfect===
   speravi :: second-person singular imperfect tense of sperare
 ===impersonal===
@@ -6093,7 +6093,7 @@ Index: en en->it
   indice {m}, indici {pl} :: (economics, mathematics, etc.) index, rate, rating
   indice {m}, indici {pl} :: (in a books) index
 ===India===
-  India {f} ({{plural}} Indie) :: India
+  India {f} ({plural} Indie) :: India
 ===indicating===
   a- :: a- (indicating lack or loss)
 ===indication===
@@ -6118,7 +6118,7 @@ Index: en en->it
 ===indicator===
   indice {m}, indici {pl} :: indicator, pointer
 ===Indies===
-  India {f} ({{plural}} Indie) :: {plural}: the Indies
+  India {f} ({plural} Indie) :: {plural}: the Indies
 ===indirect===
   lui (pronoun) :: him (indirect form of lui used after a preposition)
 ===Indonesia===
@@ -6136,7 +6136,7 @@ Index: en en->it
 ===informal===
   chat {f|inv} :: chat (informal conversation via computer)
 ===informazione===
-  info {m} {{inv}} :: {informal} Short form of informazione.
+  info {m} {inv} :: {informal} Short form of informazione.
 ===inhabitant===
   italiano {m}, italiani {pl} feminine italiana :: Italian (inhabitant of Italy and language)
 ===initial===
@@ -6181,10 +6181,10 @@ Index: en en->it
   bar {m|inv} :: bar (place serving drinks)
     C'è un bar qui vicino? :: Is there a bar nearby?
 ===Isernia===
-  Isernia {{it-proper noun}} :: Isernia (province)
-  Isernia {{it-proper noun}} :: Isernia (town)
+  Isernia {it-proper noun} :: Isernia (province)
+  Isernia {it-proper noun} :: Isernia (town)
 ===island===
-  Guernsey {{it-proper noun}} :: Guernsey (island)
+  Guernsey {it-proper noun} :: Guernsey (island)
 ===It===
   ci (pronoun) :: impersonal reflexive pronoun
     Ci vuole poco a farmi felice. :: It doesn't take much to make me happy.
@@ -6193,7 +6193,7 @@ Index: en en->it
   lingua franca (noun) {f|inv} :: The Mediterranean Lingua Franca, a common language spoken in Mediterranean ports in centuries past (consisting of Italian mixed with French, Spanish, Arabic and some Greek words and used by sailors of different countries to communicate with one another).
   Ancona {{it-proper noun|g=f}} :: The letter A in the Italian phonetic alphabet
   Bologna {f} :: The letter B in the Italian phonetic alphabet
-  Como {{it-proper noun}} :: The letter C in the Italian phonetic alphabet
+  Como {it-proper noun} :: The letter C in the Italian phonetic alphabet
   Livorno {{it-proper noun|g=f}} :: The letter L in the Italian phonetic alphabet
   Savona {{it-proper noun|g=f}} :: The letter S in the Italian phonetic alphabet
   Taranto {{it-proper noun|g=f}} :: The letter T in the Italian phonetic alphabet
@@ -6235,7 +6235,7 @@ Index: en en->it
 ===kappa===
   kappa (noun) {m|inv} :: kappa (Greek letter)
 ===kaput===
-  kaputt {{inv}} :: kaput
+  kaputt {inv} :: kaput
 ===kava===
   kava {f}, kave {pl} :: kava
 ===kayak===
@@ -6243,11 +6243,11 @@ Index: en en->it
 ===kayaking===
   kayak (noun) {m|inv} :: {sport} kayaking
 ===key===
-  {{wikipedia|Fa (nota)|lang=it}}fa (noun) {m|inv} :: F (musical note or key)
+  {{wikipedia|Fa (nota)}}fa (noun) {m|inv} :: F (musical note or key)
   mi (noun)mi (noun){m|f|inv} :: E (musical note or key)
-  {{wikipedia|Sol (nota)|lang=it}}sol {m|inv} (noun) :: G (musical note and key)
+  {{wikipedia|Sol (nota)}}sol {m|inv} (noun) :: G (musical note and key)
   re {m}, re {pl} :: D (musical note or key)
-  {{wikipedia|Do (nota)|lang=it}}do {m} (noun) :: C (the musical note or key)
+  {{wikipedia|Do (nota)}}do {m} (noun) :: C (the musical note or key)
   play {m|inv} :: play (theatrical performance; start key)
 ===king===
   re {m}, re {pl} :: king
@@ -6257,7 +6257,7 @@ Index: en en->it
 ===Kiribati===
   Kiribati {f} {p} :: Kiribati
 ===kitsch===
-  kitsch {{inv}} :: kitsch
+  kitsch {inv} :: kitsch
   kitsch {m|inv} :: kitsch
 ===kiwi===
   kiwi {m|inv} :: kiwi fruit
@@ -6311,8 +6311,8 @@ Index: en en->it
   latino {m|s} only latino {m}, latini {pl} :: Latin (person)
   latino {{it-adj|latin}} :: Latin
 ===Latina===
-  Latina {{it-proper noun}} :: Latina [province]
-  Latina {{it-proper noun}} :: Latina [town]
+  Latina {it-proper noun} :: Latina [province]
+  Latina {it-proper noun} :: Latina [town]
 ===latino===
   latina f :: feminine of latino
 ===laureato===
@@ -6332,8 +6332,8 @@ Index: en en->it
   Lecce {{it-proper noun|g=f}} :: Lecce [province]
   Lecce {{it-proper noun|g=f}} :: Lecce [town]
 ===Lecco===
-  Lecco {{it-proper noun}} :: Lecco [province]
-  Lecco {{it-proper noun}} :: Lecco [town]
+  Lecco {it-proper noun} :: Lecco [province]
+  Lecco {it-proper noun} :: Lecco [town]
 ===left===
   dove (conjunction) :: where
     Lo troverai dove l'hai lasciato. :: You'll find it where you left it.
@@ -6350,7 +6350,7 @@ Index: en en->it
   Lesotho {{it-proper noun|g=m}} :: Lesotho
 ===letter===
   nu {m|f|inv} :: The name of the letter N
-  i {f} or {m} {{inv}} :: I or i, the letter I or i
+  i {f} or {m} {inv} :: I or i, the letter I or i
   mi (noun)mi (noun){m|f|inv} :: mu (Greek letter)
   pi (noun) {m|inv} :: pi (Greek letter)
   X {m|f|inv} (letter), lower case: x :: The twenty-fourth letter of the Latin alphabet, called ics in Italian.
@@ -6380,7 +6380,7 @@ Index: en en->it
   psi (noun) {m|f|inv} :: psi (Greek letter)
   Ancona {{it-proper noun|g=f}} :: The letter A in the Italian phonetic alphabet
   Bologna {f} :: The letter B in the Italian phonetic alphabet
-  Como {{it-proper noun}} :: The letter C in the Italian phonetic alphabet
+  Como {it-proper noun} :: The letter C in the Italian phonetic alphabet
   Livorno {{it-proper noun|g=f}} :: The letter L in the Italian phonetic alphabet
   Savona {{it-proper noun|g=f}} :: The letter S in the Italian phonetic alphabet
   Taranto {{it-proper noun|g=f}} :: The letter T in the Italian phonetic alphabet
@@ -6402,11 +6402,11 @@ Index: en en->it
   lampa {f}, lampe {pl} :: light
 ===Liguria===
   Liguria {{it-proper noun|g=f}} :: Liguria
-  Imperia {{it-proper noun}} :: A town and associated province on the coast of Liguria
+  Imperia {it-proper noun} :: A town and associated province on the coast of Liguria
 ===like===
   come :: as, like
     Blu come il mare, :: As blue as the sea.
-  pure {{it-adv}} :: if you like; if you want (etc.)
+  pure {it-adv} :: if you like; if you want (etc.)
     (with third-person subjunctive) Parli pure: let him speak if he likes :: --
     {{qualifier|with imperative}} Parla pure: speak if you like :: --
     (with formal subjunctive-imperative) Lei parli pure: speak if you like :: --
@@ -6422,13 +6422,13 @@ Index: en en->it
 ===Lingua===
   lingua franca (noun) {f|inv} :: The Mediterranean Lingua Franca, a common language spoken in Mediterranean ports in centuries past (consisting of Italian mixed with French, Spanish, Arabic and some Greek words and used by sailors of different countries to communicate with one another).
 ===link===
-  link {m} (noun) {{inv}} :: {{context|computing}} link (hyperlink)
+  link {m} (noun) {inv} :: {{context|computing}} link (hyperlink)
 ===literary===
-  beat {{inv}} :: beat (50s US literary and 70s UK music scenes)
+  beat {inv} :: beat (50s US literary and 70s UK music scenes)
 ===Little===
   bestiola {f}, bestiole {pl} :: Little animal or beast, creature
 ===live===
-  live (adjective) {{inv}} :: Performed or recorded live
+  live (adjective) {inv} :: Performed or recorded live
 ===Livorno===
   Livorno {{it-proper noun|g=f}} :: Livorno (province, town)
 ===ll===
@@ -6441,9 +6441,9 @@ Index: en en->it
 ===locativo===
   locative {f} :: Feminine plural form of locativo
 ===lock===
-  box {m} {{inv}} :: garage, lock-up (for a car)
+  box {m} {inv} :: garage, lock-up (for a car)
 ===Lodi===
-  Lodi {{it-proper noun}} :: Lodi
+  Lodi {it-proper noun} :: Lodi
 ===Lombardia===
   CO (abbreviation) :: Como (Italian town in Lombardia)
 ===look===
@@ -6470,7 +6470,7 @@ Index: en en->it
 ===lui===
   lui (pronoun) :: him (indirect form of lui used after a preposition)
 ===lupus===
-  lupus {m} (noun) {{inv}} :: {disease} lupus
+  lupus {m} (noun) {inv} :: {disease} lupus
 ===lyrics===
   parole {f|p} :: {{context|of a song}} lyrics, words
     Musica di Paolo, parole di Lorenzo :: Music by Paolo, lyrics by Lorenzo.
@@ -6497,7 +6497,7 @@ Index: en en->it
 ===magazines===
   rosa {inv} (adjective) :: gossip (attributive; of news, magazines, etc)
 ===magenta===
-  magenta (adjective) {{inv}} :: magenta
+  magenta (adjective) {inv} :: magenta
   magenta (noun) {m|inv} :: magenta
 ===magic===
   magia {f}, magie {pl} :: magic
@@ -6510,7 +6510,7 @@ Index: en en->it
 ===majestic===
   maestoso {{it-adj|maestos}} :: majestic
 ===make===
-  fare {{it-verb}} {{transitive}} :: To make
+  fare {it-verb} {transitive} :: To make
   ci (pronoun) :: impersonal reflexive pronoun
     Ci vuole poco a farmi felice. :: It doesn't take much to make me happy.
 ===Malawi===
@@ -6534,7 +6534,7 @@ Index: en en->it
   line {f|inv} :: line management
   management {m|inv} :: management
 ===manga===
-  manga {m} {{inv}} :: {manga} A manga
+  manga {m} {inv} :: {manga} A manga
 ===manganese===
   manganese {m}, manganesi {pl} :: manganese
 ===mango===
@@ -6563,7 +6563,7 @@ Index: en en->it
   bei :: Masculine plural of bello before a consonant
   bel :: Masculine singular of bello before a consonant
 ===Massa===
-  Massa Carrara {{it-proper noun}} :: Massa Carrara
+  Massa Carrara {it-proper noun} :: Massa Carrara
 ===Massimo===
   ne (contraction) :: {{apocopic form of|nel}}
     Massimo Troisi ha vinto un oscar per la sua interpretazione ne "Il postino". :: "Massimo Troisi won an Oscar for his performance in "Il Postino".
@@ -6598,7 +6598,7 @@ Index: en en->it
 ===meaning===
   casa {f}, case {pl} :: Family, dynasty, descent, extraction, stock, lineage, birth, origin, race (not human “race”, but meaning the preceding words).
 ===means===
-  pure {{it-adv}} :: please, by all means
+  pure {it-adv} :: please, by all means
 ===measuring===
   riga {f}, righe {pl} :: ruler (measuring device)
 ===meat===
@@ -6616,7 +6616,7 @@ Index: en en->it
 ===Men===
   slip {m|inv} :: Men's or women's underwear (knickers, panties)
 ===menu===
-  menu {m} (noun) {{inv}} :: menu
+  menu {m} (noun) {inv} :: menu
 ===mero===
   meri {m} :: Plural form of mero
 ===Messina===
@@ -6641,7 +6641,7 @@ Index: en en->it
   dodici {m|inv}{f|plural} :: twelve o'clock (midday or midnight)
   quattro {m|inv}{f|inv}{f|plural} :: Either of the quarter hours after midnight and noon
 ===Milan===
-  Milan {{it-proper noun}} :: The AC Milan football team
+  Milan {it-proper noun} :: The AC Milan football team
 ===Milano===
   MI (abbreviation) :: Milano
 ===Militare===
@@ -6745,28 +6745,28 @@ Index: en en->it
   country (noun) {m|inv} :: {music} country music
   musica {f}, musiche {pl} :: music
   maestoso {{it-adj|maestos}} :: {music} A direction to perform a passage or piece of music in a dignified manner.
-  beat {{inv}} :: beat (50s US literary and 70s UK music scenes)
+  beat {inv} :: beat (50s US literary and 70s UK music scenes)
   beat {m|inv} :: beat (rhythm accompanying music)
   swing {m|inv} :: swing (music and dance style; golf swing)
-  dark {{inv}} :: dark (used especially to describe a form of punk music)
+  dark {inv} :: dark (used especially to describe a form of punk music)
   rock (noun) :: rock [style of music]
 ===Music===
   parole {f|p} :: {{context|of a song}} lyrics, words
     Musica di Paolo, parole di Lorenzo :: Music by Paolo, lyrics by Lorenzo.
 ===musical===
   musical {m|inv} :: musical
-  {{wikipedia|Fa (nota)|lang=it}}fa (noun) {m|inv} :: {music} fa (musical note)
-  {{wikipedia|Fa (nota)|lang=it}}fa (noun) {m|inv} :: F (musical note or key)
+  {{wikipedia|Fa (nota)}}fa (noun) {m|inv} :: {music} fa (musical note)
+  {{wikipedia|Fa (nota)}}fa (noun) {m|inv} :: F (musical note or key)
   mi (noun)mi (noun){m|f|inv} :: E (musical note or key)
-  {{wikipedia|Sol (nota)|lang=it}}sol {m|inv} (noun) :: sol (musical note, colloid)
-  {{wikipedia|Sol (nota)|lang=it}}sol {m|inv} (noun) :: G (musical note and key)
+  {{wikipedia|Sol (nota)}}sol {m|inv} (noun) :: sol (musical note, colloid)
+  {{wikipedia|Sol (nota)}}sol {m|inv} (noun) :: G (musical note and key)
   re {m}, re {pl} :: re (musical note)
   re {m}, re {pl} :: D (musical note or key)
-  {{wikipedia|Do (nota)|lang=it}}do {m} (noun) :: do, the musical note
-  {{wikipedia|Do (nota)|lang=it}}do {m} (noun) :: C (the musical note or key)
+  {{wikipedia|Do (nota)}}do {m} (noun) :: do, the musical note
+  {{wikipedia|Do (nota)}}do {m} (noun) :: C (the musical note or key)
   piano {m}, piani {pl} :: piano (musical instrument)
-  {{wikipedia|La (nota)|lang=it}}la {{{m|inv}}} (noun) :: {music} la (musical note)
-  {{wikipedia|La (nota)|lang=it}}la {{{m|inv}}} (noun) :: {music} A (musical note and scale)
+  {{wikipedia|La (nota)}}la {{{m|inv}}} (noun) :: {music} la (musical note)
+  {{wikipedia|La (nota)}}la {{{m|inv}}} (noun) :: {music} A (musical note and scale)
 ===musicare===
   musica :: third-person singular present tense of musicare
   musica :: second-person singular imperative of musicare
@@ -6788,7 +6788,7 @@ Index: en en->it
 ===nano===
   nano- (prefix) :: nano-
 ===natural===
-  nature {{inv}} :: natural
+  nature {inv} :: natural
 ===Nauru===
   Nauru {m} :: Nauru
 ===nautical===
@@ -6806,7 +6806,7 @@ Index: en en->it
   parole {f|p} :: {plural of|parola}
     Ci vogliono fatti e non parole. :: Action is needed, not words.
 ===Neither===
-  ni {{it-adv}} :: {informal} Neither yes nor no (a play on no and si)
+  ni {it-adv} :: {informal} Neither yes nor no (a play on no and si)
 ===nell===
   Reggio nell'Emilia {{it-proper noun|head=Reggio nell'Emilia}} :: Reggio nell'Emilia [province]
   Reggio nell'Emilia {{it-proper noun|head=Reggio nell'Emilia}} :: Reggio nell'Emilia [town]
@@ -6846,7 +6846,7 @@ Index: en en->it
   none {f} (adjective), plural :: (feminine plural form of nono) ninth
   none {f} (noun), plural :: (feminine plural form of nono) ninth (the one in the ninth position; fraction)
 ===no===
-  ni {{it-adv}} :: {informal} Neither yes nor no (a play on no and si)
+  ni {it-adv} :: {informal} Neither yes nor no (a play on no and si)
 ===noise===
   big {m|inv} :: big shot, big noise
 ===nominativo===
@@ -6856,7 +6856,7 @@ Index: en en->it
 ===noon===
   quattro {m|inv}{f|inv}{f|plural} :: Either of the quarter hours after midnight and noon
 ===nor===
-  ni {{it-adv}} :: {informal} Neither yes nor no (a play on no and si)
+  ni {it-adv} :: {informal} Neither yes nor no (a play on no and si)
 ===North===
   chat {m|inv} :: chat (leaf chewed by people in North Africa and the Middle East)
 ===not===
@@ -6877,35 +6877,35 @@ Index: en en->it
   se (conjunction) :: if
     Se non è vero, è ben trovato. :: If it is not true, it is a good story.
 ===note===
-  {{wikipedia|Fa (nota)|lang=it}}fa (noun) {m|inv} :: {music} fa (musical note)
-  {{wikipedia|Fa (nota)|lang=it}}fa (noun) {m|inv} :: F (musical note or key)
+  {{wikipedia|Fa (nota)}}fa (noun) {m|inv} :: {music} fa (musical note)
+  {{wikipedia|Fa (nota)}}fa (noun) {m|inv} :: F (musical note or key)
   mi (noun)mi (noun){m|f|inv} :: {music} The third note, mi.
   mi (noun)mi (noun){m|f|inv} :: E (musical note or key)
-  {{wikipedia|Sol (nota)|lang=it}}sol {m|inv} (noun) :: sol (musical note, colloid)
-  {{wikipedia|Sol (nota)|lang=it}}sol {m|inv} (noun) :: G (musical note and key)
+  {{wikipedia|Sol (nota)}}sol {m|inv} (noun) :: sol (musical note, colloid)
+  {{wikipedia|Sol (nota)}}sol {m|inv} (noun) :: G (musical note and key)
   re {m}, re {pl} :: re (musical note)
   re {m}, re {pl} :: D (musical note or key)
-  {{wikipedia|Do (nota)|lang=it}}do {m} (noun) :: do, the musical note
-  {{wikipedia|Do (nota)|lang=it}}do {m} (noun) :: C (the musical note or key)
+  {{wikipedia|Do (nota)}}do {m} (noun) :: do, the musical note
+  {{wikipedia|Do (nota)}}do {m} (noun) :: C (the musical note or key)
   si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below)
     Example: Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
     Note: In this sense, verb + si is often translated as become or get + past participle in English. :: --
     Examples: :: --
     Ci vuole un po’ di tempo per abituarsi (It takes a while to become accustomed) :: --
     A Luca piace ubriacarsi (Luca likes to get drunk) :: --
-  {{wikipedia|Ti (nota)|lang=it}}ti {{{m|inv}}} (noun) :: {music} ti (note)
-  {{wikipedia|Ti (nota)|lang=it}}ti {{{m|inv}}} (noun) :: {music} B (note and scale)
-  {{wikipedia|La (nota)|lang=it}}la {{{m|inv}}} (noun) :: {music} la (musical note)
-  {{wikipedia|La (nota)|lang=it}}la {{{m|inv}}} (noun) :: {music} A (musical note and scale)
+  {{wikipedia|Ti (nota)}}ti {{{m|inv}}} (noun) :: {music} ti (note)
+  {{wikipedia|Ti (nota)}}ti {{{m|inv}}} (noun) :: {music} B (note and scale)
+  {{wikipedia|La (nota)}}la {{{m|inv}}} (noun) :: {music} la (musical note)
+  {{wikipedia|La (nota)}}la {{{m|inv}}} (noun) :: {music} A (musical note and scale)
 ===notes===
-  {{Italian definite articles}}i {m|p} (article), singular: il :: the (see the usage notes)
+  {Italian definite articles}i {m|p} (article), singular: il :: the (see the usage notes)
 ===noun===
   uva {f}, uve {pl} :: (collective noun) grapes
   al :: at the, to the (+ a masculine noun in singular).
   del :: of the, from the (+ a masculine noun in singular).
 ===Novara===
-  Novara {{it-proper noun}} :: Novara (province)
-  Novara {{it-proper noun}} :: Novara (town)
+  Novara {it-proper noun} :: Novara (province)
+  Novara {it-proper noun} :: Novara (town)
 ===nu===
   ni (noun) {m|f|inv} :: nu (Greek letter)
 ===nudo===
@@ -6974,7 +6974,7 @@ Index: en en->it
     Marco si è rotto il braccio (Marco has broken his arm) :: --
     Si è svegliata alle nove (She woke up at nine) :: --
 ===online===
-  online {{inv}} (Also: on line, on-line) :: online
+  online {inv} (Also: on line, on-line) :: online
 ===only===
   se (conjunction) :: if only
 ===operare===
@@ -6997,8 +6997,8 @@ Index: en en->it
 ===originally===
   gabardine {m|inv} :: An overcoat or raincoat, (originally) of this material
 ===Oristano===
-  Oristano {{it-proper noun}} :: Oristano [province]
-  Oristano {{it-proper noun}} :: Oristano [town]
+  Oristano {it-proper noun} :: Oristano [province]
+  Oristano {it-proper noun} :: Oristano [town]
 ===orthoepy===
   ortoepia {f}, ortoepie {pl} :: orthoepy
 ===Oscar===
@@ -7007,7 +7007,7 @@ Index: en en->it
 ===Oslo===
   Oslo {{it-proper noun|g=f}} :: Oslo
 ===Ossola===
-  Verbano-Cusio-Ossola {{it-proper noun}} :: Verbano-Cusio-Ossola
+  Verbano-Cusio-Ossola {it-proper noun} :: Verbano-Cusio-Ossola
 ===osteo===
   osteo- :: {anatomy} osteo-
 ===other===
@@ -7029,7 +7029,7 @@ Index: en en->it
 ===overcoat===
   gabardine {m|inv} :: An overcoat or raincoat, (originally) of this material
 ===overflow===
-  empire {{it-verb}} {{transitive}} :: {obsolete} to fill, to overflow
+  empire {it-verb} {transitive} :: {obsolete} to fill, to overflow
 ===p===
   due {m|inv}{f|plural} :: two o'clock (a.m. or p.m.)
   tre {m|inv}{f|plural} :: three o'clock (a.m. or p.m.)
@@ -7061,7 +7061,7 @@ Index: en en->it
 ===Panama===
   Panama {f} :: Panama
 ===pancreas===
-  pancreas {m} {{inv}} :: pancreas
+  pancreas {m} {inv} :: pancreas
 ===panda===
   panda {m} (noun) :: panda
 ===panties===
@@ -7118,8 +7118,8 @@ Index: en en->it
 ===pastry===
   brioche (noun) {f|inv} :: croissant, Danish pastry (or other sweet bun)
 ===Pavia===
-  Pavia {{it-proper noun}} :: Pavia (province)
-  Pavia {{it-proper noun}} :: Pavia (town)
+  Pavia {it-proper noun} :: Pavia (province)
+  Pavia {it-proper noun} :: Pavia (town)
 ===PC===
   mouse {m|inv} :: {computing} mouse (for a PC)
 ===peach===
@@ -7147,7 +7147,7 @@ Index: en en->it
   ne (contraction) :: {{apocopic form of|nel}}
     Massimo Troisi ha vinto un oscar per la sua interpretazione ne "Il postino". :: "Massimo Troisi won an Oscar for his performance in "Il Postino".
 ===Performed===
-  live (adjective) {{inv}} :: Performed or recorded live
+  live (adjective) {inv} :: Performed or recorded live
 ===performing===
   cast (noun) {g|inv} :: cast [people performing a movie]
 ===period===
@@ -7164,7 +7164,7 @@ Index: en en->it
   Perugia {{it-proper noun|g=f}} :: Perugia (province)
   Perugia {{it-proper noun|g=f}} :: Perugia (town)
 ===Pesaro===
-  Pesaro e Urbino {{it-proper noun}} :: Pesaro e Urbino
+  Pesaro e Urbino {it-proper noun} :: Pesaro e Urbino
   PS (abbreviation) :: Pesaro (Italian town in Marche)
 ===Pescara===
   Pescara {{it-proper noun|g=f}} :: Pescara (province)
@@ -7186,7 +7186,7 @@ Index: en en->it
   yacht {m|inv} :: The letter Y in the Italian phonetic alphabet
   Ancona {{it-proper noun|g=f}} :: The letter A in the Italian phonetic alphabet
   Bologna {f} :: The letter B in the Italian phonetic alphabet
-  Como {{it-proper noun}} :: The letter C in the Italian phonetic alphabet
+  Como {it-proper noun} :: The letter C in the Italian phonetic alphabet
   Livorno {{it-proper noun|g=f}} :: The letter L in the Italian phonetic alphabet
   Savona {{it-proper noun|g=f}} :: The letter S in the Italian phonetic alphabet
   Taranto {{it-proper noun|g=f}} :: The letter T in the Italian phonetic alphabet
@@ -7198,13 +7198,13 @@ Index: en en->it
 ===piace===
   uno {m} ({f} una) :: Sono uno a cui piace alzarsi presto - I’m someone who likes getting up early or I’m a person who likes getting up early
 ===Piacenza===
-  Piacenza {{it-proper noun}} :: Piacenza (province)
-  Piacenza {{it-proper noun}} :: Piacenza (town)
+  Piacenza {it-proper noun} :: Piacenza (province)
+  Piacenza {it-proper noun} :: Piacenza (town)
 ===piano===
   piano {m}, piani {pl} :: piano (musical instrument)
 ===Piceno===
-  Ascoli Piceno {{it-proper noun}} :: Ascoli Piceno (province)
-  Ascoli Piceno {{it-proper noun}} :: Ascoli Piceno (town)
+  Ascoli Piceno {it-proper noun} :: Ascoli Piceno (province)
+  Ascoli Piceno {it-proper noun} :: Ascoli Piceno (town)
 ===pictures===
   camera {f}, camere {pl} :: camera (for taking moving pictures)
 ===pie===
@@ -7222,7 +7222,7 @@ Index: en en->it
   Pistoia {{it-proper noun|g=f}} :: Pistoia (province)
   Pistoia {{it-proper noun|g=f}} :: Pistoia (town)
 ===pit===
-  box {m} {{inv}} :: {motor racing} pit
+  box {m} {inv} :: {motor racing} pit
 ===pizza===
   pizza {f}, pizze {pl} :: pizza
 ===pizzicato===
@@ -7248,16 +7248,16 @@ Index: en en->it
   cliché {m|inv} :: plate (printing)
 ===play===
   play {m|inv} :: play (theatrical performance; start key)
-  ni {{it-adv}} :: {informal} Neither yes nor no (a play on no and si)
+  ni {it-adv} :: {informal} Neither yes nor no (a play on no and si)
 ===playing===
   RPG (noun) {m|inv} :: {gaming} RPG; role-playing game
   card {m|inv} :: card (identification, financial, SIM etc (but not playing card))
 ===playpen===
-  box {m} {{inv}} :: playpen
+  box {m} {inv} :: playpen
 ===PLC===
   SpA (noun) {f|inv} :: {{abbreviation of|società per azioni}} [public limited company, PLC]
 ===please===
-  pure {{it-adv}} :: please, by all means
+  pure {it-adv} :: please, by all means
 ===plinth===
   abaco {m}, abachi {pl} :: abacus, plinth, multiplication-table
 ===plug===
@@ -7280,7 +7280,7 @@ Index: en en->it
 ===porcino===
   porcine {f} :: Feminine plural form of porcino
 ===Pordenone===
-  Pordenone {{it-proper noun}} :: Pordenone
+  Pordenone {it-proper noun} :: Pordenone
 ===porgere===
   porto {m} ({f} porta, {m} {p} porti, {m} {f} porte) :: past participle of porgere
 ===port===
@@ -7294,7 +7294,7 @@ Index: en en->it
   none {f} (noun), plural :: (feminine plural form of nono) ninth (the one in the ninth position; fraction)
   home {f|inv} :: home (initial position of various computing objects)
 ===possession===
-  dare {{it-verb}} :: {transitive} To give, to transfer the possession/holding of something to someone else.
+  dare {it-verb} :: {transitive} To give, to transfer the possession/holding of something to someone else.
 ===possibility===
   chance {f|inv} :: chance (possibility of a certain outcome)
 ===Postino===
@@ -7341,7 +7341,7 @@ Index: en en->it
 ===privacy===
   privacy {f|inv} :: privacy
 ===produce===
-  dare {{it-verb}} :: {transitive} To yield, to bear, to give, to produce, to return.
+  dare {it-verb} :: {transitive} To yield, to bear, to give, to produce, to return.
 ===produrre===
   produce :: third-person singular indicative present of produrre
 ===progettare===
@@ -7367,13 +7367,13 @@ Index: en en->it
   Valle d'Aosta {{it-proper noun|g=f}} :: Valle d'Aosta (province)
   Alessandria {{it-proper noun|g=f}} :: Alessandria [province]
   Cuneo {{it-proper noun|g=f}} :: Cuneo [province]
-  Novara {{it-proper noun}} :: Novara (province)
+  Novara {it-proper noun} :: Novara (province)
   Agrigento {{it-proper noun|g=f}} :: Agrigento (province)
   Ancona {{it-proper noun|g=f}} :: Ancona (province and town)
   Arezzo {{it-proper noun|g=f}} :: Arezzo [province]
-  Ascoli Piceno {{it-proper noun}} :: Ascoli Piceno (province)
-  Avellino {{it-proper noun}} :: Avellino [province]
-  Belluno {{it-proper noun}} :: Belluno [province]
+  Ascoli Piceno {it-proper noun} :: Ascoli Piceno (province)
+  Avellino {it-proper noun} :: Avellino [province]
+  Belluno {it-proper noun} :: Belluno [province]
   Benevento {{it-proper noun|g=f}} :: Benevento [province]
   Bergamo {{it-proper noun|g=f}} :: Bergamo [province]
   Biella {{it-proper noun|g=f}} :: Biella [province]
@@ -7381,29 +7381,29 @@ Index: en en->it
   Bolzano {{it-proper noun|g=f}} :: Bolzano [province]
   Brindisi :: Brindisi (province)
   Cagliari {{it-proper noun|g=f}} :: Cagliari [province]
-  Campobasso {{it-proper noun}} :: Campobasso [province]
+  Campobasso {it-proper noun} :: Campobasso [province]
   Caserta {{it-proper noun|g=f}} :: Caserta [province]
   Catania {{it-proper noun|g=f}} :: Catania (province)
-  Catanzaro {{it-proper noun}} :: Catanzaro [province]
+  Catanzaro {it-proper noun} :: Catanzaro [province]
   Chieti {{it-proper noun|g=f}} :: Chieti [province]
-  Como {{it-proper noun}} :: Como (province and town)
-  Cosenza {{it-proper noun}} :: Cosenza [province]
+  Como {it-proper noun} :: Como (province and town)
+  Cosenza {it-proper noun} :: Cosenza [province]
   Cremona {{it-proper noun|g=f}} :: Cremona [province]
-  Crotone {{it-proper noun}} :: Crotone [province]
-  Enna {{it-proper noun}} :: Enna [province]
+  Crotone {it-proper noun} :: Crotone [province]
+  Enna {it-proper noun} :: Enna [province]
   Ferrara {{it-proper noun|g=f}} :: Ferrara (province)
   Foggia {{it-proper noun|g=f}} :: Foggia (province)
-  Forli {{it-proper noun}} :: Forli [province]
-  Frosinone {{it-proper noun}} :: Frosinone [province]
+  Forli {it-proper noun} :: Forli [province]
+  Frosinone {it-proper noun} :: Frosinone [province]
   Gorizia {{it-proper noun|g=f}} :: Gorizia (province)
   Grosseto {{it-proper noun|g=f}} :: Grosseto (province)
-  Imperia {{it-proper noun}} :: A town and associated province on the coast of Liguria
-  Isernia {{it-proper noun}} :: Isernia (province)
+  Imperia {it-proper noun} :: A town and associated province on the coast of Liguria
+  Isernia {it-proper noun} :: Isernia (province)
   L'Aquila {{it-proper noun|g=f}} :: L'Aquila [province]
   La Spezia {{it-proper noun|g=f}} :: La Spezia [province]
-  Latina {{it-proper noun}} :: Latina [province]
+  Latina {it-proper noun} :: Latina [province]
   Lecce {{it-proper noun|g=f}} :: Lecce [province]
-  Lecco {{it-proper noun}} :: Lecco [province]
+  Lecco {it-proper noun} :: Lecco [province]
   Livorno {{it-proper noun|g=f}} :: Livorno (province, town)
   Lucca {{it-proper noun|g=f}} :: Lucca (province)
   Macerata {{it-proper noun|g=f}} :: Macerata (province)
@@ -7411,11 +7411,11 @@ Index: en en->it
   Messina {{it-proper noun|g=f}} :: Messina (province)
   Modena {{it-proper noun|g=f}} :: Modena (province)
   Nuoro {{it-proper noun|g=f}} :: Nuoro (province)
-  Oristano {{it-proper noun}} :: Oristano [province]
-  Pavia {{it-proper noun}} :: Pavia (province)
+  Oristano {it-proper noun} :: Oristano [province]
+  Pavia {it-proper noun} :: Pavia (province)
   Perugia {{it-proper noun|g=f}} :: Perugia (province)
   Pescara {{it-proper noun|g=f}} :: Pescara (province)
-  Piacenza {{it-proper noun}} :: Piacenza (province)
+  Piacenza {it-proper noun} :: Piacenza (province)
   Pistoia {{it-proper noun|g=f}} :: Pistoia (province)
   Potenza {{it-proper noun|g=f}} :: Potenza (province)
   Prato {{it-proper noun|g=f}} :: Prato (province)
@@ -7423,13 +7423,13 @@ Index: en en->it
   Ravenna {{it-proper noun|g=f}} :: Ravenna (province)
   Reggio nell'Emilia {{it-proper noun|head=Reggio nell'Emilia}} :: Reggio nell'Emilia [province]
   Rieti {{it-proper noun|g=f}} :: Rieti (province)
-  Rimini {{it-proper noun}} :: Rimini (province)
+  Rimini {it-proper noun} :: Rimini (province)
   Rovigo {{it-proper noun|g=f}} :: Rovigo (province)
   Salerno {{it-proper noun|g=f}} :: Salerno (province)
   Sassari {{it-proper noun|g=f}} :: Sassari (province)
   Savona {{it-proper noun|g=f}} :: Savona (province, town)
   Siena {{it-proper noun|g=f}} :: Siena (province)
-  Sondrio {{it-proper noun}} :: Sondrio (province)
+  Sondrio {it-proper noun} :: Sondrio (province)
   Taranto {{it-proper noun|g=f}} :: Taranto (province)
   Teramo {{it-proper noun|g=f}} :: Teramo (province)
   Terni {{it-proper noun|g=f}} :: Terni (province)
@@ -7438,9 +7438,9 @@ Index: en en->it
   Treviso {{it-proper noun|g=m}} :: Treviso (province)
   Udine {{it-proper noun|g=f}} :: Udine [province, town]
   Varese {{it-proper noun|g=f}} :: Varese [province]
-  Vercelli {{it-proper noun}} :: Vercelli [province]
+  Vercelli {it-proper noun} :: Vercelli [province]
   Vicenza {{it-proper noun|g=f}} :: Vicenza (province)
-  Viterbo {{it-proper noun}} :: Viterbo [province]
+  Viterbo {it-proper noun} :: Viterbo [province]
 ===pseudo===
   pseudo- (prefix) :: pseudo-
 ===psi===
@@ -7454,7 +7454,7 @@ Index: en en->it
 ===punch===
   cross (noun) {m|inv} :: cross (boxing punch, tennis shot)
 ===punk===
-  dark {{inv}} :: dark (used especially to describe a form of punk music)
+  dark {inv} :: dark (used especially to describe a form of punk music)
 ===pupa===
   pupa {f}, pupe {pl} :: pupa
 ===pushbike===
@@ -7538,7 +7538,7 @@ Index: en en->it
     Marco si è rotto il braccio (Marco has broken his arm) :: --
     Si è svegliata alle nove (She woke up at nine) :: --
 ===recorded===
-  live (adjective) {{inv}} :: Performed or recorded live
+  live (adjective) {inv} :: Performed or recorded live
 ===red===
   apollo {m}, apolli {pl} :: Apollo butterfly (Parnassius apollo, a large swallowtail with black and red spots on white wings)
 ===refers===
@@ -7561,7 +7561,7 @@ Index: en en->it
   Valle d'Aosta {{it-proper noun|g=f}} :: Valle d'Aosta (region)
   Marche {f|p} (proper noun) :: Marche [region]
 ===relatively===
-  qua {{it-adv}} :: here (relatively close to the speaker)
+  qua {it-adv} :: here (relatively close to the speaker)
 ===religious===
   lama {m}, lami {pl} :: A lama (religious person)
 ===remake===
@@ -7576,7 +7576,7 @@ Index: en en->it
 ===reply===
   replica {f}, repliche {pl} :: reply, answer
 ===reproach===
-  accusare {{transitive}} :: To accuse, to reproach, to impeach.
+  accusare {transitive} :: To accuse, to reproach, to impeach.
 ===requiem===
   requiem (noun) {m|inv} :: requiem
 ===respect===
@@ -7586,7 +7586,7 @@ Index: en en->it
 ===retrovirus===
   retrovirus (noun) {m|inv} :: retrovirus
 ===return===
-  dare {{it-verb}} :: {transitive} To yield, to bear, to give, to produce, to return.
+  dare {it-verb} :: {transitive} To yield, to bear, to give, to produce, to return.
 ===revolving===
   evergreen (noun) {m|inv} :: {finance} revolving credit
 ===Reykjavik===
@@ -7604,8 +7604,8 @@ Index: en en->it
   Rieti {{it-proper noun|g=f}} :: Rieti (province)
   Rieti {{it-proper noun|g=f}} :: Rieti (town)
 ===Rimini===
-  Rimini {{it-proper noun}} :: Rimini (province)
-  Rimini {{it-proper noun}} :: Rimini (town)
+  Rimini {it-proper noun} :: Rimini (province)
+  Rimini {it-proper noun} :: Rimini (town)
 ===river===
   Senegal {m} :: Senegal, the river
 ===roadsign===
@@ -7619,7 +7619,7 @@ Index: en en->it
 ===role===
   RPG (noun) {m|inv} :: {gaming} RPG; role-playing game
 ===Romagna===
-  Emilia-Romagna {{it-proper noun|head=[[Emilia]]-[[Romagna]]|g=f}} :: Emilia-Romagna
+  Emilia-Romagna {{it-proper noun|head=Emilia-Romagna|g=f}} :: Emilia-Romagna
 ===Roman===
   zucchetto {m}, zucchetti {pl} :: small skullcap worn by Roman Catholic clergy; calotte
 ===Romania===
@@ -7695,14 +7695,14 @@ Index: en en->it
 ===Says===
   dice (verb form), infinitive: dire :: [Third-person singular present tense of dire] Says.
 ===scale===
-  {{wikipedia|Ti (nota)|lang=it}}ti {{{m|inv}}} (noun) :: {music} B (note and scale)
-  {{wikipedia|La (nota)|lang=it}}la {{{m|inv}}} (noun) :: {music} A (musical note and scale)
+  {{wikipedia|Ti (nota)}}ti {{{m|inv}}} (noun) :: {music} B (note and scale)
+  {{wikipedia|La (nota)}}la {{{m|inv}}} (noun) :: {music} A (musical note and scale)
 ===scaleno===
   scalene {f} :: Feminine plural form of scaleno
 ===scenery===
   scenario {m}, scenari {pl} :: scenery, set
 ===scenes===
-  beat {{inv}} :: beat (50s US literary and 70s UK music scenes)
+  beat {inv} :: beat (50s US literary and 70s UK music scenes)
 ===scheme===
   progetto {m}, progetti {pl} :: plan, project, design, scheme, lay out
 ===scientific===
@@ -7735,7 +7735,7 @@ Index: en en->it
 ===securo===
   secure {f} :: Feminine plural form of securo
 ===see===
-  {{Italian definite articles}}i {m|p} (article), singular: il :: the (see the usage notes)
+  {Italian definite articles}i {m|p} (article), singular: il :: the (see the usage notes)
   si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below)
     Example: Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
     Note: In this sense, verb + si is often translated as become or get + past participle in English. :: --
@@ -7781,7 +7781,7 @@ Index: en en->it
   delta (noun) {m|inv} :: delta (all senses)
   xi {m|f|inv} :: xi (all senses)
   escudo {m}, escudi {pl} :: escudo (all senses)
-  Trieste {{it-proper noun}} :: Trieste (all senses)
+  Trieste {it-proper noun} :: Trieste (all senses)
   video {m|inv} :: video (all senses)
   focus {m|inv} :: focus (all senses)
 ===separare===
@@ -7833,9 +7833,9 @@ Index: en en->it
   short {m|inv} :: short (short film etc)
   bici {f}, bici {pl} :: short word for bicicletta bike (pushbike)
 ===Short===
-  ben {{it-adv}} :: Short form of bene.
+  ben {it-adv} :: Short form of bene.
     ben fatto :: well done
-  info {m} {{inv}} :: {informal} Short form of informazione.
+  info {m} {inv} :: {informal} Short form of informazione.
 ===shortlist===
   rosa {f}, rose {pl} :: shortlist
 ===shot===
@@ -7854,7 +7854,7 @@ Index: en en->it
     Examples: :: --
     Ci vuole un po’ di tempo per abituarsi (It takes a while to become accustomed) :: --
     A Luca piace ubriacarsi (Luca likes to get drunk) :: --
-  ni {{it-adv}} :: {informal} Neither yes nor no (a play on no and si)
+  ni {it-adv} :: {informal} Neither yes nor no (a play on no and si)
 ===sickness===
   male {m}, mali {pl} :: pain, ache, illness, sickness, disease
 ===sicurezza===
@@ -7924,7 +7924,7 @@ Index: en en->it
 ===small===
   zucchetto {m}, zucchetti {pl} :: small skullcap worn by Roman Catholic clergy; calotte
 ===smartly===
-  elegantemente {{it-adv}} :: smartly, elegantly, stylishly
+  elegantemente {it-adv} :: smartly, elegantly, stylishly
 ===snot===
   candela {f}, candele {pl} :: {slang} snot
 ===so===
@@ -7948,7 +7948,7 @@ Index: en en->it
   spider {m|inv} :: {computing} spider (Internet software)
   beta {f|inv} beta {f}, bete {pl} :: {computing} beta (software version)
 ===sol===
-  {{wikipedia|Sol (nota)|lang=it}}sol {m|inv} (noun) :: sol (musical note, colloid)
+  {{wikipedia|Sol (nota)}}sol {m|inv} (noun) :: sol (musical note, colloid)
 ===solid===
   cioccolata {f}, cioccolate {pl} :: chocolate (solid, variant of cioccolato)
 ===Somalia===
@@ -7961,14 +7961,14 @@ Index: en en->it
   lingua franca (noun) {f|inv} :: The Mediterranean Lingua Franca, a common language spoken in Mediterranean ports in centuries past (consisting of Italian mixed with French, Spanish, Arabic and some Greek words and used by sailors of different countries to communicate with one another).
 ===someone===
   uno {m} ({f} una) :: someone, a person
-  dare {{it-verb}} :: {transitive} To give, to transfer the possession/holding of something to someone else.
+  dare {it-verb} :: {transitive} To give, to transfer the possession/holding of something to someone else.
   uno {m} ({f} una) :: Sono uno a cui piace alzarsi presto - I’m someone who likes getting up early or I’m a person who likes getting up early
 ===sometimes===
   ne (pronoun) :: of them (sometimes not translated in English)
     Ce ne sono due. :: “There are two (of them).”
 ===Sondrio===
-  Sondrio {{it-proper noun}} :: Sondrio (province)
-  Sondrio {{it-proper noun}} :: Sondrio (town)
+  Sondrio {it-proper noun} :: Sondrio (province)
+  Sondrio {it-proper noun} :: Sondrio (town)
 ===song===
   aria {f}, arie {pl} :: {{context|music}} aria, song
   evergreen (noun) {m|inv} :: A song or singer that is always in style
@@ -7999,7 +7999,7 @@ Index: en en->it
 ===spark===
   candela {f}, candele {pl} :: spark plug
 ===speaker===
-  qua {{it-adv}} :: here (relatively close to the speaker)
+  qua {it-adv} :: here (relatively close to the speaker)
 ===spell===
   magia {f}, magie {pl} :: spell, charm, conjuration
 ===sperare===
@@ -8029,8 +8029,8 @@ Index: en en->it
 ===stand===
   stand {m|inv}{{rfc|certainly the senses are more restricted than in modern English}} :: stand [section of an exhibition; gallery at a sports event]
 ===standard===
-  standard (adjective) {{inv}} :: standard
-  standard {m} (noun) {{inv}} :: standard
+  standard (adjective) {inv} :: standard
+  standard {m} (noun) {inv} :: standard
 ===star===
   star {f|inv} :: star (celebrity)
   big {m|inv} :: star (entertainment)
@@ -8081,7 +8081,7 @@ Index: en en->it
   evergreen (adj) {m|f|inv} :: evergreen (always in style)
   evergreen (noun) {m|inv} :: A song or singer that is always in style
 ===stylishly===
-  elegantemente {{it-adv}} :: smartly, elegantly, stylishly
+  elegantemente {it-adv} :: smartly, elegantly, stylishly
 ===subjunctive===
   ordinate :: second-person plural present subjunctive of ordinare
   dia :: first-person singular, second-person singular and third-person singular present subjunctive of dare
@@ -8109,7 +8109,7 @@ Index: en en->it
 ===supply===
   stock (noun) :: stock, goods in supply, inventory
 ===surely===
-  pure {{it-adv}} :: well, surely
+  pure {it-adv} :: well, surely
 ===surface===
   area {f}, aree {pl} :: area, surface
 ===Suriname===
@@ -8175,7 +8175,7 @@ Index: en en->it
   té :: Common misspelling of tè.
 ===team===
   rosa {f}, rose {pl} :: {sports} team members
-  Milan {{it-proper noun}} :: The AC Milan football team
+  Milan {it-proper noun} :: The AC Milan football team
 ===telethon===
   telethon (noun) {m|inv} :: telethon
 ===temperatura===
@@ -8188,7 +8188,7 @@ Index: en en->it
   dieci {m|inv}{f|plural} :: ten o'clock (a.m. or p.m.)
   decade {f}, decadi {pl} :: A decade, a period of ten days
 ===tennis===
-  tennis {m} (noun) {{inv}} :: tennis
+  tennis {m} (noun) {inv} :: tennis
   set {m|inv} :: set (group of things, maths, tennis, cinema etc)
   cross (noun) {m|inv} :: cross (boxing punch, tennis shot)
 ===Tennis===
@@ -8232,11 +8232,11 @@ Index: en en->it
   Terni {{it-proper noun|g=f}} :: Terni (province)
   Terni {{it-proper noun|g=f}} :: Terni (town)
 ===terrible===
-  cane {{inv}} :: terrible, dreadful, awful
+  cane {inv} :: terrible, dreadful, awful
 ===test===
   test {m|inv} :: test
 ===Thailand===
-  Bangkok {{it-proper noun}} :: Bangkok (capital of Thailand)
+  Bangkok {it-proper noun} :: Bangkok (capital of Thailand)
 ===than===
   ke (pronoun) :: {{informal|often in Internet chat or in SMS messages}} who; which; what; that; than
 ===thank===
@@ -8260,9 +8260,9 @@ Index: en en->it
     Marco si è rotto il braccio (Marco has broken his arm) :: --
     Si è svegliata alle nove (She woke up at nine) :: --
 ===there===
-  ci {{it-adv}} :: here, there
-  vi {{it-adv}} :: there
-  ne {{it-adv}} :: from there
+  ci {it-adv} :: here, there
+  vi {it-adv} :: there
+  ne {it-adv} :: from there
     Ne sono venuto. :: “I have come from there.”
   bar {m|inv} :: bar (place serving drinks)
     C'è un bar qui vicino? :: Is there a bar nearby?
@@ -8330,7 +8330,7 @@ Index: en en->it
   tre {m|inv}{f|plural} :: three o'clock (a.m. or p.m.)
   quindici {m|inv}{f|plural} :: three o'clock (p.m.)
 ===ti===
-  {{wikipedia|Ti (nota)|lang=it}}ti {{{m|inv}}} (noun) :: {music} ti (note)
+  {{wikipedia|Ti (nota)}}ti {{{m|inv}}} (noun) :: {music} ti (note)
 ===tiger===
   tigre {f}, tigri {pl} :: tiger (male)
 ===tigress===
@@ -8353,7 +8353,7 @@ Index: en en->it
   don {m} (noun), inv :: Father (a title given to priests)
   don {m} (noun), inv :: A title of respect to a man.
 ===Today===
-  cane {{inv}} :: freezing, biting [cold]
+  cane {inv} :: freezing, biting [cold]
     Oggi fa un freddo cane! :: Today is freezing cold!
 ===together===
   con (conjunction) :: with or together
@@ -8367,7 +8367,7 @@ Index: en en->it
   bo :: An interjection expressing doubt or indecision.
     Viene Filomena stasera? Bo, non m’ha richiamato. :: Is Filomena coming tonight? I don’t know, she never called me back.
 ===too===
-  pure {{it-adv}} :: too, also, as well
+  pure {it-adv} :: too, also, as well
 ===top===
   tuba {f}, tube {pl} :: top hat
 ===topic===
@@ -8388,41 +8388,41 @@ Index: en en->it
   Verona {{it-proper noun|g=f}} :: Verona (town)
   Alessandria {{it-proper noun|g=f}} :: Alessandria [town]
   Cuneo {{it-proper noun|g=f}} :: Cuneo [town]
-  Novara {{it-proper noun}} :: Novara (town)
+  Novara {it-proper noun} :: Novara (town)
   Agrigento {{it-proper noun|g=f}} :: Agrigento (town)
   Ancona {{it-proper noun|g=f}} :: Ancona (province and town)
   Arezzo {{it-proper noun|g=f}} :: Arezzo [town]
-  Ascoli Piceno {{it-proper noun}} :: Ascoli Piceno (town)
-  Avellino {{it-proper noun}} :: Avellino [town]
-  Belluno {{it-proper noun}} :: Belluno [town]
+  Ascoli Piceno {it-proper noun} :: Ascoli Piceno (town)
+  Avellino {it-proper noun} :: Avellino [town]
+  Belluno {it-proper noun} :: Belluno [town]
   Benevento {{it-proper noun|g=f}} :: Benevento [town]
   Bergamo {{it-proper noun|g=f}} :: Bergamo [town]
   Biella {{it-proper noun|g=f}} :: Biella [town]
   Bolzano {{it-proper noun|g=f}} :: Bolzano [town]
   Brindisi :: Brindisi (town)
   Cagliari {{it-proper noun|g=f}} :: Cagliari [town]
-  Campobasso {{it-proper noun}} :: Campobasso [town]
+  Campobasso {it-proper noun} :: Campobasso [town]
   Caserta {{it-proper noun|g=f}} :: Caserta [town]
   Catania {{it-proper noun|g=f}} :: Catania (town)
-  Catanzaro {{it-proper noun}} :: Catanzaro [town]
+  Catanzaro {it-proper noun} :: Catanzaro [town]
   Chieti {{it-proper noun|g=f}} :: Chieti [town]
-  Como {{it-proper noun}} :: Como (province and town)
-  Cosenza {{it-proper noun}} :: Cosenza [town]
+  Como {it-proper noun} :: Como (province and town)
+  Cosenza {it-proper noun} :: Cosenza [town]
   Cremona {{it-proper noun|g=f}} :: Cremona [town]
-  Crotone {{it-proper noun}} :: Crotone [town]
-  Enna {{it-proper noun}} :: Enna [town]
+  Crotone {it-proper noun} :: Crotone [town]
+  Enna {it-proper noun} :: Enna [town]
   Ferrara {{it-proper noun|g=f}} :: Ferrara (town)
-  Forli {{it-proper noun}} :: Forli [town]
-  Frosinone {{it-proper noun}} :: Frosinone [town]
+  Forli {it-proper noun} :: Forli [town]
+  Frosinone {it-proper noun} :: Frosinone [town]
   Gorizia {{it-proper noun|g=f}} :: Gorizia (town)
   Grosseto {{it-proper noun|g=f}} :: Grosseto (town)
-  Imperia {{it-proper noun}} :: A town and associated province on the coast of Liguria
-  Isernia {{it-proper noun}} :: Isernia (town)
+  Imperia {it-proper noun} :: A town and associated province on the coast of Liguria
+  Isernia {it-proper noun} :: Isernia (town)
   L'Aquila {{it-proper noun|g=f}} :: L'Aquila [town]
   La Spezia {{it-proper noun|g=f}} :: La Spezia [town]
-  Latina {{it-proper noun}} :: Latina [town]
+  Latina {it-proper noun} :: Latina [town]
   Lecce {{it-proper noun|g=f}} :: Lecce [town]
-  Lecco {{it-proper noun}} :: Lecco [town]
+  Lecco {it-proper noun} :: Lecco [town]
   Livorno {{it-proper noun|g=f}} :: Livorno (province, town)
   Lucca {{it-proper noun|g=f}} :: Lucca (town)
   Macerata {{it-proper noun|g=f}} :: Macerata (town)
@@ -8430,11 +8430,11 @@ Index: en en->it
   Messina {{it-proper noun|g=f}} :: Messina (town)
   Modena {{it-proper noun|g=f}} :: Modena (town)
   Nuoro {{it-proper noun|g=f}} :: Nuoro (town)
-  Oristano {{it-proper noun}} :: Oristano [town]
-  Pavia {{it-proper noun}} :: Pavia (town)
+  Oristano {it-proper noun} :: Oristano [town]
+  Pavia {it-proper noun} :: Pavia (town)
   Perugia {{it-proper noun|g=f}} :: Perugia (town)
   Pescara {{it-proper noun|g=f}} :: Pescara (town)
-  Piacenza {{it-proper noun}} :: Piacenza (town)
+  Piacenza {it-proper noun} :: Piacenza (town)
   Pistoia {{it-proper noun|g=f}} :: Pistoia (town)
   Potenza {{it-proper noun|g=f}} :: Potenza (town)
   Prato {{it-proper noun|g=f}} :: Prato (town)
@@ -8442,13 +8442,13 @@ Index: en en->it
   Ravenna {{it-proper noun|g=f}} :: Ravenna (town)
   Reggio nell'Emilia {{it-proper noun|head=Reggio nell'Emilia}} :: Reggio nell'Emilia [town]
   Rieti {{it-proper noun|g=f}} :: Rieti (town)
-  Rimini {{it-proper noun}} :: Rimini (town)
+  Rimini {it-proper noun} :: Rimini (town)
   Rovigo {{it-proper noun|g=f}} :: Rovigo (town)
   Salerno {{it-proper noun|g=f}} :: Salerno (town)
   Sassari {{it-proper noun|g=f}} :: Sassari (town)
   Savona {{it-proper noun|g=f}} :: Savona (province, town)
   Siena {{it-proper noun|g=f}} :: Siena (town)
-  Sondrio {{it-proper noun}} :: Sondrio (town)
+  Sondrio {it-proper noun} :: Sondrio (town)
   Teramo {{it-proper noun|g=f}} :: Teramo (town)
   Terni {{it-proper noun|g=f}} :: Terni (town)
   Trapani {{it-proper noun|g=f}} :: Trapani (town)
@@ -8456,15 +8456,15 @@ Index: en en->it
   Treviso {{it-proper noun|g=m}} :: Treviso (town)
   Udine {{it-proper noun|g=f}} :: Udine [province, town]
   Varese {{it-proper noun|g=f}} :: Varese [town]
-  Vercelli {{it-proper noun}} :: Vercelli [town]
+  Vercelli {it-proper noun} :: Vercelli [town]
   Vicenza {{it-proper noun|g=f}} :: Vicenza (town)
-  Viterbo {{it-proper noun}} :: Viterbo [town]
+  Viterbo {it-proper noun} :: Viterbo [town]
 ===toy===
   pupa {f}, pupe {pl} :: doll (child's toy)
 ===tram===
   tram {m|inv} :: tram, streetcar
 ===transfer===
-  dare {{it-verb}} :: {transitive} To give, to transfer the possession/holding of something to someone else.
+  dare {it-verb} :: {transitive} To give, to transfer the possession/holding of something to someone else.
 ===transfinito===
   transfinite {f} :: Feminine plural form of transfinito
 ===translated===
@@ -8490,7 +8490,7 @@ Index: en en->it
   acacia {f}, acacie {pl} :: acacia (tree)
   sequoia {f}, sequoie {pl} :: sequoia (tree)
 ===Trentino===
-  Trentino-Alto Adige {{it-proper noun}} :: Trentino-Alto Adige
+  Trentino-Alto Adige {it-proper noun} :: Trentino-Alto Adige
 ===Trento===
   Trento :: Trento (province)
   Trento :: Trento (town)
@@ -8502,7 +8502,7 @@ Index: en en->it
 ===trials===
   trial (noun) {m|inv} :: {sports} trials (motorcycle etc)
 ===Trieste===
-  Trieste {{it-proper noun}} :: Trieste (all senses)
+  Trieste {it-proper noun} :: Trieste (all senses)
 ===trip===
   volo {m}, voli {pl} :: flight (of a bird; trip in a plane)
 ===Tripoli===
@@ -8564,7 +8564,7 @@ Index: en en->it
 ===Uganda===
   Uganda {f} :: Uganda
 ===UK===
-  beat {{inv}} :: beat (50s US literary and 70s UK music scenes)
+  beat {inv} :: beat (50s US literary and 70s UK music scenes)
   antenna {f}, antenne {pl} :: device to receive or transmit radio signals: aerial (UK), antenna (US)
 ===ultramarino===
   ultramarine {f} :: Feminine plural form of ultramarino
@@ -8617,7 +8617,7 @@ Index: en en->it
 ===unspecified===
   poeta {m}, poeti {pl} Feminine poetessa :: poet (male or unspecified sex)
 ===Urbino===
-  Pesaro e Urbino {{it-proper noun}} :: Pesaro e Urbino
+  Pesaro e Urbino {it-proper noun} :: Pesaro e Urbino
 ===Uruguay===
   Uruguay {{it-proper noun|g=m}} :: Uruguay
 ===us===
@@ -8626,16 +8626,16 @@ Index: en en->it
   noi :: we; us
 ===US===
   Georgia {f} (proper noun) :: Georgia [US state]
-  beat {{inv}} :: beat (50s US literary and 70s UK music scenes)
+  beat {inv} :: beat (50s US literary and 70s UK music scenes)
   piano {m}, piani {pl} :: floor, storey (British), story (US: of a building)
   cent {m|inv} :: cent (US coin)
   antenna {f}, antenne {pl} :: device to receive or transmit radio signals: aerial (UK), antenna (US)
 ===usage===
-  {{Italian definite articles}}i {m|p} (article), singular: il :: the (see the usage notes)
+  {Italian definite articles}i {m|p} (article), singular: il :: the (see the usage notes)
 ===used===
   ad (preposition) :: to, at, in (used before a vowel for euphony instead of a)
   lingua franca (noun) {f|inv} :: The Mediterranean Lingua Franca, a common language spoken in Mediterranean ports in centuries past (consisting of Italian mixed with French, Spanish, Arabic and some Greek words and used by sailors of different countries to communicate with one another).
-  dark {{inv}} :: dark (used especially to describe a form of punk music)
+  dark {inv} :: dark (used especially to describe a form of punk music)
   play! :: used to start a game of Tennis
   lui (pronoun) :: him (indirect form of lui used after a preposition)
   si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below)
@@ -8658,7 +8658,7 @@ Index: en en->it
 ===Valencia===
   Valencia {{it-proper noun|g=f}} :: Valencia
 ===Valentia===
-  Vibo Valentia {{it-proper noun}} :: Vibo Valentia
+  Vibo Valentia {it-proper noun} :: Vibo Valentia
 ===Valle===
   Valle d'Aosta {{it-proper noun|g=f}} :: Valle d'Aosta (region)
   Valle d'Aosta {{it-proper noun|g=f}} :: Valle d'Aosta (province)
@@ -8682,7 +8682,7 @@ Index: en en->it
 ===Venice===
   calle {f}, calli {pl} :: alley (especially in Venice)
 ===Ventimiglia===
-  Ventimiglia {{it-proper noun}} :: Ventimiglia
+  Ventimiglia {it-proper noun} :: Ventimiglia
 ===venturo===
   venturi {m} :: Plural form of venturo
 ===verb===
@@ -8693,10 +8693,10 @@ Index: en en->it
     Ci vuole un po’ di tempo per abituarsi (It takes a while to become accustomed) :: --
     A Luca piace ubriacarsi (Luca likes to get drunk) :: --
 ===Verbano===
-  Verbano-Cusio-Ossola {{it-proper noun}} :: Verbano-Cusio-Ossola
+  Verbano-Cusio-Ossola {it-proper noun} :: Verbano-Cusio-Ossola
 ===Vercelli===
-  Vercelli {{it-proper noun}} :: Vercelli [province]
-  Vercelli {{it-proper noun}} :: Vercelli [town]
+  Vercelli {it-proper noun} :: Vercelli [province]
+  Vercelli {it-proper noun} :: Vercelli [town]
 ===vermouth===
   vermouth (noun) :: vermouth
   vermut {m} (noun), inv :: vermouth
@@ -8717,7 +8717,7 @@ Index: en en->it
 ===via===
   chat {f|inv} :: chat (informal conversation via computer)
 ===Vibo===
-  Vibo Valentia {{it-proper noun}} :: Vibo Valentia
+  Vibo Valentia {it-proper noun} :: Vibo Valentia
 ===Vicenza===
   Vicenza {{it-proper noun|g=f}} :: Vicenza (province)
   Vicenza {{it-proper noun|g=f}} :: Vicenza (town)
@@ -8732,12 +8732,12 @@ Index: en en->it
 ===vitae===
   curriculum (noun) {m} :: curriculum vitae, CV
 ===Viterbo===
-  Viterbo {{it-proper noun}} :: Viterbo [province]
-  Viterbo {{it-proper noun}} :: Viterbo [town]
+  Viterbo {it-proper noun} :: Viterbo [province]
+  Viterbo {it-proper noun} :: Viterbo [town]
 ===vocativo===
   vocative {f} :: Feminine plural form of vocativo
 ===vodka===
-  vodka {f} (noun) {{inv}} :: vodka
+  vodka {f} (noun) {inv} :: vodka
 ===voi===
   voi :: The second person plural familiar pronoun, voi refers to the persons who are spoken or written to: you.
 ===voice===
@@ -8765,7 +8765,7 @@ Index: en en->it
 ===waist===
   vita {f} (noun), plural: vite :: waist
 ===want===
-  pure {{it-adv}} :: if you like; if you want (etc.)
+  pure {it-adv} :: if you like; if you want (etc.)
     (with third-person subjunctive) Parli pure: let him speak if he likes :: --
     {{qualifier|with imperative}} Parla pure: speak if you like :: --
     (with formal subjunctive-imperative) Lei parli pure: speak if you like :: --
@@ -8795,14 +8795,14 @@ Index: en en->it
 ===weber===
   weber {m|inv} :: {physics} weber
 ===weekend===
-  weekend {m} {{inv}} :: weekend
+  weekend {m} {inv} :: weekend
 ===weight===
   peso {m}, pesi {pl} :: weight
 ===well===
   ba (interjection) :: oh well!
-  pure {{it-adv}} :: too, also, as well
-  pure {{it-adv}} :: well, surely
-  ben {{it-adv}} :: Short form of bene.
+  pure {it-adv} :: too, also, as well
+  pure {it-adv} :: well, surely
+  ben {it-adv} :: Short form of bene.
     ben fatto :: well done
 ===West===
   west {m|inv} :: West (historic area of America)
@@ -8843,7 +8843,7 @@ Index: en en->it
   primavera {f}, primavere {pl} :: (plural, familiar) years, winters
 ===wireless===
   wireless {m|inv} :: wireless (transmission without wires)
-  wireless {{inv}} :: wireless (computing)
+  wireless {inv} :: wireless (computing)
 ===wires===
   wireless {m|inv} :: wireless (transmission without wires)
 ===without===
@@ -8881,7 +8881,7 @@ Index: en en->it
   loco {m}, lochi {pl} :: A written passage.
   voi :: The second person plural familiar pronoun, voi refers to the persons who are spoken or written to: you.
 ===wrongly===
-  male {{it-adv}} (comparative: peggio; superlative: malissimo) :: badly, wrongly
+  male {it-adv} (comparative: peggio; superlative: malissimo) :: badly, wrongly
 ===xi===
   xi {m|f|inv} :: xi (all senses)
 ===Y===
@@ -8897,10 +8897,10 @@ Index: en en->it
 ===Yemen===
   Yemen {m} :: Yemen
 ===yes===
-  ni {{it-adv}} :: {informal} Neither yes nor no (a play on no and si)
-  sì {{it-adv}} :: yes
+  ni {it-adv} :: {informal} Neither yes nor no (a play on no and si)
+  sì {it-adv} :: yes
 ===yield===
-  dare {{it-verb}} :: {transitive} To yield, to bear, to give, to produce, to return.
+  dare {it-verb} :: {transitive} To yield, to bear, to give, to produce, to return.
 ===you===
   te (pronoun) :: (emphasised objective of tu) you
   vi :: (second-person personal plural object pronoun): you, to you
@@ -8915,7 +8915,7 @@ Index: en en->it
   ti (pronoun) :: {reflexive} {second-person singular|si|nodot=1}; you
   tu (pronoun), second person singular :: you (singular); thou
   voi :: The second person plural familiar pronoun, voi refers to the persons who are spoken or written to: you.
-  pure {{it-adv}} :: if you like; if you want (etc.)
+  pure {it-adv} :: if you like; if you want (etc.)
     (with third-person subjunctive) Parli pure: let him speak if he likes :: --
     {{qualifier|with imperative}} Parla pure: speak if you like :: --
     (with formal subjunctive-imperative) Lei parli pure: speak if you like :: --
@@ -8959,7 +8959,7 @@ Index: en en->it
 ===Zimbabwe===
   Zimbabwe {m} :: Zimbabwe
 ===zoo===
-  zoo {m} {{inv}} :: zoo
+  zoo {m} {inv} :: zoo
 ===zoom===
   zoom {m|inv} :: {photography} zoom
 

@@ -51,7 +51,7 @@ final class AppendAndIndexWikiCallback implements WikiTokenizer.Callback {
   public void onPlainText(final String plainText) {
     // The only non-recursive callback.  Just appends to the builder, and indexes.
     builder.append(plainText);
-    if (indexBuilder != null && entryTypeName != null) {
+    if (indexBuilder != null && entryTypeName != null && indexedEntry != null) {
       indexBuilder.addEntryWithString(indexedEntry, plainText, entryTypeName);
     }
   }
@@ -98,7 +98,7 @@ final class AppendAndIndexWikiCallback implements WikiTokenizer.Callback {
     FunctionCallback functionCallback = functionCallbacks.get(name);
     if (functionCallback == null) {
       if (
-          name.equals("form of") || 
+          name.equals("form of") || // TODO: switch to contains
           name.contains("conjugation of") || 
           name.contains("participle of") || 
           name.contains("gerund of") || 

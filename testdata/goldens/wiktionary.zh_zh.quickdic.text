@@ -85,13 +85,13 @@ Index: zh zh->en
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===chariot===
   車 {{cmn-noun|t|pin=jū|pint=ju1|tra=車|sim=车|rs=車00}} :: the black chariot/rook in Chinese chess
-  车 {{cmn-noun|s|pin=jū|pint=ju1|tra=[[車]] or [[俥]]|sim=车|rs=车00}} :: chariot/rook in Chinese chess
+  车 {{cmn-noun|s|pin=jū|pint=ju1|tra=車 or 俥|sim=车|rs=车00}} :: chariot/rook in Chinese chess
 ===chat===
-  (Cantonese) chat (cardinal number), Han spelling: {{l|yue|七|sc=Hani}} :: seven
+  (Cantonese) chat (cardinal number), Han spelling: 七 :: seven
 ===车===
   车 {{cmn-noun|s|pin=chē|pint=che1|tra=車|sim=车|rs=车00}} :: {{Beginning Mandarin|skey=che1}} vehicle; car
   车 {{cmn-noun|s|pin=chē|pint=che1|tra=車|sim=车|rs=车00}} :: {{Beginning Mandarin|skey=che1}} machine; instrument
-  车 {{cmn-noun|s|pin=jū|pint=ju1|tra=[[車]] or [[俥]]|sim=车|rs=车00}} :: chariot/rook in Chinese chess
+  车 {{cmn-noun|s|pin=jū|pint=ju1|tra=車 or 俥|sim=车|rs=车00}} :: chariot/rook in Chinese chess
 ===車===
   車 {{cmn-noun|t|pin=chē|pint=che1|tra=車|sim=车|rs=車00}} :: {{Beginning Mandarin|skey=車00}} vehicle; car
   車 {{cmn-noun|t|pin=chē|pint=che1|tra=車|sim=车|rs=車00}} :: {{Beginning Mandarin|skey=車00}} machine; instrument
@@ -166,8 +166,8 @@ Index: zh zh->en
 ===兒===
   r (suffix), traditional: 兒, simplified: 儿 :: (a suffix for erhua)
 ===二===
-  (Cantonese) 二 {{yue-hanzi|jyut=[[ji6]]|y=[[yi6]]}} :: two
-  二 {{cmn-hanzi|pin=[[èr]] ([[er4]])|wg=[[erh4|erh<sup>4</sup>]]}} :: Tang: nji3
+  (Cantonese) 二 {{yue-hanzi|jyut=ji6|y=yi6}} :: two
+  二 {{cmn-hanzi|pin=èr (er4)|wg=erh<sup>4</sup>}} :: Tang: nji3
   二 {{cmn-car-num|ts|pin=èr|pint=er4|rs=二00}} :: two
 ===gànmá===
   酒 {{cmn-noun|ts|pin=jiǔ|pint=jiu3|rs=酉03}} :: Wine, spirits, liquor, alcoholic beverage
@@ -203,7 +203,7 @@ Index: zh zh->en
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===Hani===
-  (Cantonese) chat (cardinal number), Han spelling: {{l|yue|七|sc=Hani}} :: seven
+  (Cantonese) chat (cardinal number), Han spelling: 七 :: seven
 ===hē===
   酒 {{cmn-noun|ts|pin=jiǔ|pint=jiu3|rs=酉03}} :: Wine, spirits, liquor, alcoholic beverage
     你幹嗎不喝點酒? (trad.) :: --
@@ -230,7 +230,7 @@ Index: zh zh->en
     你干吗不喝点酒? (simp.) :: --
     Nǐ gànmá bù hē diǎn jiǔ? :: Why don't you have a drink [of alcohol]?
 ===亅===
-  亅 {{cmn-hanzi|pin=[[jué]] ([[jue2]])|wg=chüeh<sup>2</sup>}} :: A vertical line with a hook, usually read as 竖勾 (shùgōu).
+  亅 {{cmn-hanzi|pin=jué (jue2)|wg=chüeh<sup>2</sup>}} :: A vertical line with a hook, usually read as 竖勾 (shùgōu).
 ===Jyutping===
   (Cantonese) Jyutping {{yue-noun|j|jyut=jyut6 ping3|tra=粵拼|sim=粤拼}} :: jyutping
 ===开===
@@ -250,7 +250,7 @@ Index: zh zh->en
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===l===
-  (Cantonese) chat (cardinal number), Han spelling: {{l|yue|七|sc=Hani}} :: seven
+  (Cantonese) chat (cardinal number), Han spelling: 七 :: seven
 ===le===
   耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
@@ -271,7 +271,7 @@ Index: zh zh->en
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===零===
-  零 {{cmn-hanzi|pin=[[líng]] ([[ling2]]), [[lián]] ([[lian2]])|wg=ling<sup>2</sup>}} :: Chinese Numeral 零
+  零 {{cmn-hanzi|pin=líng (ling2), lián (lian2)|wg=ling<sup>2</sup>}} :: Chinese Numeral 零
     Next: 一 :: --
 ===六===
   六 {{cmn-car-num|ts|pin=liù|pint=liu4|rs=八02}} :: six
@@ -386,17 +386,17 @@ Index: zh zh->en
     傾盆大雨。 (trad.) :: --
     倾盆大雨。 (simp.) :: Raining cats and dogs.
 ===丿===
-  丿 {{cmn-hanzi|pin=[[piě]] ([[pie3]])|wg=p'ieh<sup>3</sup>}} :: left-falling stroke, usually read as 撇 (piě)
+  丿 {{cmn-hanzi|pin=piě (pie3)|wg=p'ieh<sup>3</sup>}} :: left-falling stroke, usually read as 撇 (piě)
 ===七===
-  七 {{cmn-hanzi|pin=[[qī]] ([[qi1]]), [[shǎng]] ([[shang3]])|wg=ch'i<sup>1</sup>, shang<sup>3</sup>}} :: seven
-  (Cantonese) chat (cardinal number), Han spelling: {{l|yue|七|sc=Hani}} :: seven
+  七 {{cmn-hanzi|pin=qī (qi1), shǎng (shang3)|wg=ch'i<sup>1</sup>, shang<sup>3</sup>}} :: seven
+  (Cantonese) chat (cardinal number), Han spelling: 七 :: seven
 ===铅笔===
   铅笔 {{cmn-noun|s|pin=qiānbǐ|pint=qian1bi3|tra=鉛筆|sim=铅笔|rs=钅05}} :: pencil
 ===青===
-  青 {{cmn-hanzi|pin=[[qīng]] ([[qing1]])|wg=ch'ing<sup>1</sup>}} :: green; if about grass, plants, mountain etc.
-  青 {{cmn-hanzi|pin=[[qīng]] ([[qing1]])|wg=ch'ing<sup>1</sup>}} :: blue; if about the sky, a stone etc.
-  青 {{cmn-hanzi|pin=[[qīng]] ([[qing1]])|wg=ch'ing<sup>1</sup>}} :: black; if about hair, cloth etc.
-  青 {{cmn-hanzi|pin=[[qīng]] ([[qing1]])|wg=ch'ing<sup>1</sup>}} :: young.
+  青 {{cmn-hanzi|pin=qīng (qing1)|wg=ch'ing<sup>1</sup>}} :: green; if about grass, plants, mountain etc.
+  青 {{cmn-hanzi|pin=qīng (qing1)|wg=ch'ing<sup>1</sup>}} :: blue; if about the sky, a stone etc.
+  青 {{cmn-hanzi|pin=qīng (qing1)|wg=ch'ing<sup>1</sup>}} :: black; if about hair, cloth etc.
+  青 {{cmn-hanzi|pin=qīng (qing1)|wg=ch'ing<sup>1</sup>}} :: young.
 ===倾===
   雨 {{cmn-noun|ts|pin=yǔ|pint=yu3|rs=雨00}} :: rain
     傾盆大雨。 (trad.) :: --
@@ -429,11 +429,11 @@ Index: zh zh->en
   日本語 {{cmn-proper noun|t|pin=Rìběnyǔ|pint=ri4ben3yu3|tra=日本語|sim=日本语|rs=日00}} :: the Japanese language
 ===rook===
   車 {{cmn-noun|t|pin=jū|pint=ju1|tra=車|sim=车|rs=車00}} :: the black chariot/rook in Chinese chess
-  车 {{cmn-noun|s|pin=jū|pint=ju1|tra=[[車]] or [[俥]]|sim=车|rs=车00}} :: chariot/rook in Chinese chess
+  车 {{cmn-noun|s|pin=jū|pint=ju1|tra=車 or 俥|sim=车|rs=车00}} :: chariot/rook in Chinese chess
 ===三===
   三 {{cmn-car-num|ts|pin=sān|pint=san1|rs=一02}} :: three
 ===sc===
-  (Cantonese) chat (cardinal number), Han spelling: {{l|yue|七|sc=Hani}} :: seven
+  (Cantonese) chat (cardinal number), Han spelling: 七 :: seven
 ===傻===
   NB {{cmn-adj|p|pint=nb}} :: {{slang|skey=nb}} fucking awesome
     他小說寫的太NB了。 (trad.) :: --
@@ -446,7 +446,7 @@ Index: zh zh->en
   耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===蛇===
-  (Cantonese) 蛇 {{yue-hanzi|jyut=|y=[[se4]], [[yi4]]}} :: snake
+  (Cantonese) 蛇 {{yue-hanzi|jyut=|y=se4, yi4}} :: snake
 ===shén===
   耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
@@ -508,25 +508,25 @@ Index: zh zh->en
     你喜歡中國文學嗎？ :: --
     nǐ xǐhuān zhōngguó wénxué ma? :: Do you like Chinese literature?
 ===书===
-  书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: book
-  书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: letter
-  书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: document
-  书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: form of a written or printed character;script
-  书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: calligraphy
-  书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: an ancient government post in charge of secretarial duties
-  书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: characters
-  书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: Six-Books
-  书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: imperial edict
-  书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: storytelling
+  书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: book
+  书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: letter
+  书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: document
+  书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: form of a written or printed character;script
+  书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: calligraphy
+  书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: an ancient government post in charge of secretarial duties
+  书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: characters
+  书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: Six-Books
+  书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: imperial edict
+  书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: storytelling
 ===爽快===
   爽快 {{cmn-adj|ts|pin=shuǎngkuài|pint=shuang3kuai4|rs=爻07}} :: {{Advanced Mandarin|skey=爻07}} refreshed
   爽快 {{cmn-adj|ts|pin=shuǎngkuài|pint=shuang3kuai4|rs=爻07}} :: {{Advanced Mandarin|skey=爻07}} frank; open; straightforward
   爽快 {{cmn-adv|ts|pin=shuǎngkuài|pint=shuang3kuai4|rs=爻07}} :: {{Advanced Mandarin|skey=爻07}} readily
 ===水===
-  (Cantonese) 水 {{yue-hanzi|jyut=[[seoi2]]|y=[[seui2]]}} :: water
+  (Cantonese) 水 {{yue-hanzi|jyut=seoi2|y=seui2}} :: water
   (Cantonese) 水 {{yue-noun|ts|jyut=seoi2|rs=水00}} :: water
 ===氵===
-  氵 {{cmn-hanzi|pin=[[shuǐ]] ([[shui3]])|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
+  氵 {{cmn-hanzi|pin=shuǐ (shui3)|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
 ===shuō===
   耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
@@ -683,7 +683,7 @@ Index: zh zh->en
     你喜歡中國文學嗎？ :: --
     nǐ xǐhuān zhōngguó wénxué ma? :: Do you like Chinese literature?
 ===心===
-  (Cantonese) 心 {{yue-hanzi|jyut=|y=[[sam1]]}} :: heart
+  (Cantonese) 心 {{yue-hanzi|jyut=|y=sam1}} :: heart
 ===Yēhéhuá===
   耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
@@ -696,10 +696,10 @@ Index: zh zh->en
     Last: 零 :: --
     Next: 二 :: --
 ===乙===
-  乙 {{cmn-hanzi|pin=[[niè]] ([[nie4]]), [[yǐ]] ([[yi3]])|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: yǐ
-  乙 {{cmn-hanzi|pin=[[niè]] ([[nie4]]), [[yǐ]] ([[yi3]])|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: the seventh scale degree in gongche musical notation
+  乙 {{cmn-hanzi|pin=niè (nie4), yǐ (yi3)|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: yǐ
+  乙 {{cmn-hanzi|pin=niè (nie4), yǐ (yi3)|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: the seventh scale degree in gongche musical notation
 ===億===
-  億 {{cmn-hanzi|sim=亿|pin=[[yì]] ([[yi4]]), [[dàng]] ([[dang4]])|wg=i<sup>4</sup>, tang<sup>4</sup>}} :: Additional Meanings
+  億 {{cmn-hanzi|sim=亿|pin=yì (yi4), dàng (dang4)|wg=i<sup>4</sup>, tang<sup>4</sup>}} :: Additional Meanings
     surname :: --
 ===英国===
   NB {{cmn-adj|p|pint=nb}} :: {{slang|skey=nb}} fucking awesome
@@ -721,7 +721,7 @@ Index: zh zh->en
 ===円===
   円 (yuán) :: archaic form of 圆
 ===yue===
-  (Cantonese) chat (cardinal number), Han spelling: {{l|yue|七|sc=Hani}} :: seven
+  (Cantonese) chat (cardinal number), Han spelling: 七 :: seven
 ===月===
   月 {{cmn-noun|ts|pin=yuè|pint=yue4|rs=月00}} :: {{Beginning Mandarin|skey=月00}} moon
   月 {{cmn-noun|ts|pin=yuè|pint=yue4|rs=月00}} :: {{Beginning Mandarin|skey=月00}} month
@@ -824,7 +824,7 @@ Index: zh zh->en
   中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese spoken language 普通话/Pǔtōnghuà/Standard Mandarin.
     nǐ shuō zhōngwén ma? "Do you speak Chinese?" :: --
 ===丶===
-  丶 {{cmn-hanzi|pin=[[zhǔ]] ([[zhu3]])|wg=[[chu3|chu<sup>3</sup>]]}} :: dot stroke, usually said as 點
+  丶 {{cmn-hanzi|pin=zhǔ (zhu3)|wg=chu<sup>3</sup>}} :: dot stroke, usually said as 點
 ===子宫===
   子宫 {{cmn-noun|s|pin=zǐgōng|pint=zi3gong1|tra=子宮|sim=子宫|rs=子00}} :: womb, uterus
   子宫 {{cmn-noun|s|pin=zǐgōng|pint=zi3gong1|tra=子宮|sim=子宫|rs=子00}} :: uterine
@@ -842,15 +842,15 @@ Index: en en->zh
     Last: 零 :: --
     Next: 二 :: --
 ===about===
-  青 {{cmn-hanzi|pin=[[qīng]] ([[qing1]])|wg=ch'ing<sup>1</sup>}} :: green; if about grass, plants, mountain etc.
-  青 {{cmn-hanzi|pin=[[qīng]] ([[qing1]])|wg=ch'ing<sup>1</sup>}} :: blue; if about the sky, a stone etc.
-  青 {{cmn-hanzi|pin=[[qīng]] ([[qing1]])|wg=ch'ing<sup>1</sup>}} :: black; if about hair, cloth etc.
+  青 {{cmn-hanzi|pin=qīng (qing1)|wg=ch'ing<sup>1</sup>}} :: green; if about grass, plants, mountain etc.
+  青 {{cmn-hanzi|pin=qīng (qing1)|wg=ch'ing<sup>1</sup>}} :: blue; if about the sky, a stone etc.
+  青 {{cmn-hanzi|pin=qīng (qing1)|wg=ch'ing<sup>1</sup>}} :: black; if about hair, cloth etc.
 ===absolutely===
   万 {{cmn-adv|tra=萬|pin=wàn|pint=wan4|rs=一02}} :: absolutely
 ===accomplish===
   中 {{cmn-verb|ts|pin=zhòng|pint=zhong4|rs=丨03}} :: To accomplish.
 ===Additional===
-  億 {{cmn-hanzi|sim=亿|pin=[[yì]] ([[yi4]]), [[dàng]] ([[dang4]])|wg=i<sup>4</sup>, tang<sup>4</sup>}} :: Additional Meanings
+  億 {{cmn-hanzi|sim=亿|pin=yì (yi4), dàng (dang4)|wg=i<sup>4</sup>, tang<sup>4</sup>}} :: Additional Meanings
     surname :: --
 ===alcohol===
   酒 {{cmn-noun|ts|pin=jiǔ|pint=jiu3|rs=酉03}} :: Wine, spirits, liquor, alcoholic beverage
@@ -871,7 +871,7 @@ Index: en en->zh
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===ancient===
-  书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: an ancient government post in charge of secretarial duties
+  书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: an ancient government post in charge of secretarial duties
 ===And===
   耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
@@ -938,15 +938,15 @@ Index: en en->zh
     Nǐ gànmá bù hē diǎn jiǔ? :: Why don't you have a drink [of alcohol]?
 ===black===
   車 {{cmn-noun|t|pin=jū|pint=ju1|tra=車|sim=车|rs=車00}} :: the black chariot/rook in Chinese chess
-  青 {{cmn-hanzi|pin=[[qīng]] ([[qing1]])|wg=ch'ing<sup>1</sup>}} :: black; if about hair, cloth etc.
+  青 {{cmn-hanzi|pin=qīng (qing1)|wg=ch'ing<sup>1</sup>}} :: black; if about hair, cloth etc.
 ===blank===
   白 {{cmn-adj|ts|pin=bái|pint=bai2|rs=白00}} :: {{Beginning Mandarin|skey=白00}} clear; pure; plain; blank
 ===blue===
-  青 {{cmn-hanzi|pin=[[qīng]] ([[qing1]])|wg=ch'ing<sup>1</sup>}} :: blue; if about the sky, a stone etc.
+  青 {{cmn-hanzi|pin=qīng (qing1)|wg=ch'ing<sup>1</sup>}} :: blue; if about the sky, a stone etc.
 ===book===
-  书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: book
+  书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: book
 ===Books===
-  书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: Six-Books
+  书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: Six-Books
 ===Britain===
   NB {{cmn-adj|p|pint=nb}} :: {{slang|skey=nb}} fucking awesome
     他小說寫的太NB了。 (trad.) :: --
@@ -962,7 +962,7 @@ Index: en en->zh
     Wànwù shì jièzhe tā zào de. Fán beì zào de, méiyǒu yīyàng búshì jièzhe tā zào de. :: --
     All things were made by him; and without him was not any thing made that was made. :: --
 ===calligraphy===
-  书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: calligraphy
+  书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: calligraphy
 ===Cantonese===
   (Cantonese) chan (proper noun) :: Cantonese spelling of Chinese surname 陳 (simplified 陈)
 ===CantonPinyin===
@@ -995,20 +995,20 @@ Index: en en->zh
     傾盆大雨。 (trad.) :: --
     倾盆大雨。 (simp.) :: Raining cats and dogs.
 ===character===
-  书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: form of a written or printed character;script
+  书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: form of a written or printed character;script
 ===characters===
-  书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: characters
-  氵 {{cmn-hanzi|pin=[[shuǐ]] ([[shui3]])|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
+  书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: characters
+  氵 {{cmn-hanzi|pin=shuǐ (shui3)|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
   中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese written languages using Chinese characters.
 ===charge===
-  书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: an ancient government post in charge of secretarial duties
+  书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: an ancient government post in charge of secretarial duties
 ===陈===
   (Cantonese) chan (proper noun) :: Cantonese spelling of Chinese surname 陳 (simplified 陈)
 ===陳===
   (Cantonese) chan (proper noun) :: Cantonese spelling of Chinese surname 陳 (simplified 陈)
 ===chess===
   車 {{cmn-noun|t|pin=jū|pint=ju1|tra=車|sim=车|rs=車00}} :: the black chariot/rook in Chinese chess
-  车 {{cmn-noun|s|pin=jū|pint=ju1|tra=[[車]] or [[俥]]|sim=车|rs=车00}} :: chariot/rook in Chinese chess
+  车 {{cmn-noun|s|pin=jū|pint=ju1|tra=車 or 俥|sim=车|rs=车00}} :: chariot/rook in Chinese chess
 ===Chess===
   象 {{cmn-noun|ts|pin=xiàng|pint=xiang4|rs=豕05}} :: (Chinese Chess) elephant
 ===China===
@@ -1030,12 +1030,12 @@ Index: en en->zh
     nǐ xǐhuān zhōngguó wénxué ma? :: Do you like Chinese literature?
 ===Chinese===
   車 {{cmn-noun|t|pin=jū|pint=ju1|tra=車|sim=车|rs=車00}} :: the black chariot/rook in Chinese chess
-  车 {{cmn-noun|s|pin=jū|pint=ju1|tra=[[車]] or [[俥]]|sim=车|rs=车00}} :: chariot/rook in Chinese chess
+  车 {{cmn-noun|s|pin=jū|pint=ju1|tra=車 or 俥|sim=车|rs=车00}} :: chariot/rook in Chinese chess
   象 {{cmn-noun|ts|pin=xiàng|pint=xiang4|rs=豕05}} :: (Chinese Chess) elephant
   中国人 {{cmn-noun|s|pin=Zhōnggúo rén|pint=zhong1guo2ren2|tra=中國人|sim=中国人|rs=丨03}} :: Chinese person; Chinese people
   中國人 {{cmn-noun|t|pin=Zhōnggúo rén|pint=zhong1guo2ren2|tra=中國人|sim=中国人|rs=丨03}} :: Chinese person; Chinese people
   中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese written languages using Chinese characters.
-  零 {{cmn-hanzi|pin=[[líng]] ([[ling2]]), [[lián]] ([[lian2]])|wg=ling<sup>2</sup>}} :: Chinese Numeral 零
+  零 {{cmn-hanzi|pin=líng (ling2), lián (lian2)|wg=ling<sup>2</sup>}} :: Chinese Numeral 零
     Next: 一 :: --
   (Cantonese) chan (proper noun) :: Cantonese spelling of Chinese surname 陳 (simplified 陈)
   中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese spoken language 普通话/Pǔtōnghuà/Standard Mandarin.
@@ -1059,9 +1059,9 @@ Index: en en->zh
 ===clear===
   白 {{cmn-adj|ts|pin=bái|pint=bai2|rs=白00}} :: {{Beginning Mandarin|skey=白00}} clear; pure; plain; blank
 ===cloth===
-  青 {{cmn-hanzi|pin=[[qīng]] ([[qing1]])|wg=ch'ing<sup>1</sup>}} :: black; if about hair, cloth etc.
+  青 {{cmn-hanzi|pin=qīng (qing1)|wg=ch'ing<sup>1</sup>}} :: black; if about hair, cloth etc.
 ===construction===
-  氵 {{cmn-hanzi|pin=[[shuǐ]] ([[shui3]])|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
+  氵 {{cmn-hanzi|pin=shuǐ (shui3)|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
 ===country===
   国 {{cmn-noun|s|pin=guó|pint=guo2|sim=国|tra=國|rs=囗05}} :: country; nation
   (Cantonese) 中国 {{yue-proper|s|jyut=zung1gwok3}} :: The country in the middle of the world
@@ -1079,11 +1079,11 @@ Index: en en->zh
 ===deal===
   位置 {{cmn-verb|ts|pin=wèizhì|pint=wei4zhi4|rs=人05}} :: to deal with, to arrange for
 ===degree===
-  乙 {{cmn-hanzi|pin=[[niè]] ([[nie4]]), [[yǐ]] ([[yi3]])|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: the seventh scale degree in gongche musical notation
+  乙 {{cmn-hanzi|pin=niè (nie4), yǐ (yi3)|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: the seventh scale degree in gongche musical notation
 ===deity===
   (Cantonese) 神 {{yue-hanzi|jyut=|y=san4}} :: god, supernatural (spiritual) deity
 ===點===
-  丶 {{cmn-hanzi|pin=[[zhǔ]] ([[zhu3]])|wg=[[chu3|chu<sup>3</sup>]]}} :: dot stroke, usually said as 點
+  丶 {{cmn-hanzi|pin=zhǔ (zhu3)|wg=chu<sup>3</sup>}} :: dot stroke, usually said as 點
 ===did===
   耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
@@ -1103,7 +1103,7 @@ Index: en en->zh
     你喜歡中國文學嗎？ :: --
     nǐ xǐhuān zhōngguó wénxué ma? :: Do you like Chinese literature?
 ===document===
-  书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: document
+  书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: document
 ===dog===
   狗 {{cmn-noun|ts|pin=gǒu|pint=gou3|rs=犬05}} :: dog
 ===dogs===
@@ -1126,7 +1126,7 @@ Index: en en->zh
   耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===dot===
-  丶 {{cmn-hanzi|pin=[[zhǔ]] ([[zhu3]])|wg=[[chu3|chu<sup>3</sup>]]}} :: dot stroke, usually said as 點
+  丶 {{cmn-hanzi|pin=zhǔ (zhu3)|wg=chu<sup>3</sup>}} :: dot stroke, usually said as 點
 ===豆腐心===
   刀 :: 刀子嘴，豆腐心
 ===drink===
@@ -1143,7 +1143,7 @@ Index: en en->zh
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===duties===
-  书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: an ancient government post in charge of secretarial duties
+  书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: an ancient government post in charge of secretarial duties
 ===dynasty===
   朝 {{cmn-noun|ts|pin=cháo|pint=chao2|rs=月08}} :: dynasty
 ===ease===
@@ -1158,7 +1158,7 @@ Index: en en->zh
   耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===edict===
-  书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: imperial edict
+  书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: imperial edict
 ===eight===
   八 {{cmn-car-num|ts|pin=bā|pint=ba1|rs=八00}} :: {{Beginning Mandarin|script=traditional|script2=simplified|skey=八00|skey2=ba1}} eight
 ===elephant===
@@ -1175,7 +1175,7 @@ Index: en en->zh
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===falling===
-  丿 {{cmn-hanzi|pin=[[piě]] ([[pie3]])|wg=p'ieh<sup>3</sup>}} :: left-falling stroke, usually read as 撇 (piě)
+  丿 {{cmn-hanzi|pin=piě (pie3)|wg=p'ieh<sup>3</sup>}} :: left-falling stroke, usually read as 撇 (piě)
 ===family===
   丁 {{cmn-noun|ts|pin=dīng|pint=ding1|rs= 一01}} :: population, members of a family
 ===fast===
@@ -1246,18 +1246,18 @@ Index: en en->zh
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===gongche===
-  乙 {{cmn-hanzi|pin=[[niè]] ([[nie4]]), [[yǐ]] ([[yi3]])|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: the seventh scale degree in gongche musical notation
+  乙 {{cmn-hanzi|pin=niè (nie4), yǐ (yi3)|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: the seventh scale degree in gongche musical notation
 ===government===
   朝 {{cmn-noun|ts|pin=cháo|pint=chao2|rs=月08}} :: the court; the government
-  书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: an ancient government post in charge of secretarial duties
+  书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: an ancient government post in charge of secretarial duties
 ===grass===
-  青 {{cmn-hanzi|pin=[[qīng]] ([[qing1]])|wg=ch'ing<sup>1</sup>}} :: green; if about grass, plants, mountain etc.
+  青 {{cmn-hanzi|pin=qīng (qing1)|wg=ch'ing<sup>1</sup>}} :: green; if about grass, plants, mountain etc.
 ===gravitation===
   引力 {{cmn-noun|ts|pin=yǐnlì|pint=yin3li4|rs=弓01}} :: gravitation
 ===green===
-  青 {{cmn-hanzi|pin=[[qīng]] ([[qing1]])|wg=ch'ing<sup>1</sup>}} :: green; if about grass, plants, mountain etc.
+  青 {{cmn-hanzi|pin=qīng (qing1)|wg=ch'ing<sup>1</sup>}} :: green; if about grass, plants, mountain etc.
 ===hair===
-  青 {{cmn-hanzi|pin=[[qīng]] ([[qing1]])|wg=ch'ing<sup>1</sup>}} :: black; if about hair, cloth etc.
+  青 {{cmn-hanzi|pin=qīng (qing1)|wg=ch'ing<sup>1</sup>}} :: black; if about hair, cloth etc.
 ===hast===
   耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
@@ -1298,25 +1298,25 @@ Index: en en->zh
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===heart===
-  (Cantonese) 心 {{yue-hanzi|jyut=|y=[[sam1]]}} :: heart
+  (Cantonese) 心 {{yue-hanzi|jyut=|y=sam1}} :: heart
 ===Heavenly===
   丁 {{cmn-noun|ts|pin=dīng|pint=ding1|rs= 一01}} :: the fourth of the ten Heavenly stems
 ===hook===
-  亅 {{cmn-hanzi|pin=[[jué]] ([[jue2]])|wg=chüeh<sup>2</sup>}} :: A vertical line with a hook, usually read as 竖勾 (shùgōu).
+  亅 {{cmn-hanzi|pin=jué (jue2)|wg=chüeh<sup>2</sup>}} :: A vertical line with a hook, usually read as 竖勾 (shùgōu).
 ===Hua===
   一 {{cmn-car-num|ts|pin=yī|pint=yi1|rs=一00}} :: Wubi Hua: 1
 ===hundred===
   百 {{cmn-car-num|ts|pin=bǎi|pint=bai3|rs=百00}} :: hundred
 ===if===
-  青 {{cmn-hanzi|pin=[[qīng]] ([[qing1]])|wg=ch'ing<sup>1</sup>}} :: green; if about grass, plants, mountain etc.
-  青 {{cmn-hanzi|pin=[[qīng]] ([[qing1]])|wg=ch'ing<sup>1</sup>}} :: blue; if about the sky, a stone etc.
-  青 {{cmn-hanzi|pin=[[qīng]] ([[qing1]])|wg=ch'ing<sup>1</sup>}} :: black; if about hair, cloth etc.
+  青 {{cmn-hanzi|pin=qīng (qing1)|wg=ch'ing<sup>1</sup>}} :: green; if about grass, plants, mountain etc.
+  青 {{cmn-hanzi|pin=qīng (qing1)|wg=ch'ing<sup>1</sup>}} :: blue; if about the sky, a stone etc.
+  青 {{cmn-hanzi|pin=qīng (qing1)|wg=ch'ing<sup>1</sup>}} :: black; if about hair, cloth etc.
 ===imperial===
-  书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: imperial edict
+  书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: imperial edict
 ===In===
   中 {{cmn-prep|ts|pin=zhōng|pint=zhong1|rs=丨03}} :: In the middle.
 ===independent===
-  氵 {{cmn-hanzi|pin=[[shuǐ]] ([[shui3]])|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
+  氵 {{cmn-hanzi|pin=shuǐ (shui3)|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
 ===instrument===
   車 {{cmn-noun|t|pin=chē|pint=che1|tra=車|sim=车|rs=車00}} :: {{Beginning Mandarin|skey=車00}} machine; instrument
   车 {{cmn-noun|s|pin=chē|pint=che1|tra=車|sim=车|rs=车00}} :: {{Beginning Mandarin|skey=che1}} machine; instrument
@@ -1343,9 +1343,9 @@ Index: en en->zh
 ===lately===
   最近 {{cmn-adv|ts|pin=zuìjìn|pint=zui4jin4|rs=曰08}} :: {{Beginning Mandarin|skey=曰08}} recently; lately
 ===left===
-  丿 {{cmn-hanzi|pin=[[piě]] ([[pie3]])|wg=p'ieh<sup>3</sup>}} :: left-falling stroke, usually read as 撇 (piě)
+  丿 {{cmn-hanzi|pin=piě (pie3)|wg=p'ieh<sup>3</sup>}} :: left-falling stroke, usually read as 撇 (piě)
 ===letter===
-  书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: letter
+  书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: letter
 ===like===
   中国 {{cmn-proper noun|s|pin=Zhōngguó|pint=zhong1guo2|tra=中國|sim=中国|rs=丨03}} :: China
     中国的首都是北京。 :: --
@@ -1364,9 +1364,9 @@ Index: en en->zh
 ===likeness===
   象 {{cmn-noun|s|pin=xiàng|pint=xiang4|tra=像|sim=象|rs=豕05}} :: likeness
 ===line===
-  亅 {{cmn-hanzi|pin=[[jué]] ([[jue2]])|wg=chüeh<sup>2</sup>}} :: A vertical line with a hook, usually read as 竖勾 (shùgōu).
+  亅 {{cmn-hanzi|pin=jué (jue2)|wg=chüeh<sup>2</sup>}} :: A vertical line with a hook, usually read as 竖勾 (shùgōu).
 ===零===
-  零 {{cmn-hanzi|pin=[[líng]] ([[ling2]]), [[lián]] ([[lian2]])|wg=ling<sup>2</sup>}} :: Chinese Numeral 零
+  零 {{cmn-hanzi|pin=líng (ling2), lián (lian2)|wg=ling<sup>2</sup>}} :: Chinese Numeral 零
     Next: 一 :: --
 ===liquor===
   酒 {{cmn-noun|ts|pin=jiǔ|pint=jiu3|rs=酉03}} :: Wine, spirits, liquor, alcoholic beverage
@@ -1430,9 +1430,9 @@ Index: en en->zh
   耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===meaning===
-  氵 {{cmn-hanzi|pin=[[shuǐ]] ([[shui3]])|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
+  氵 {{cmn-hanzi|pin=shuǐ (shui3)|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
 ===Meanings===
-  億 {{cmn-hanzi|sim=亿|pin=[[yì]] ([[yi4]]), [[dàng]] ([[dang4]])|wg=i<sup>4</sup>, tang<sup>4</sup>}} :: Additional Meanings
+  億 {{cmn-hanzi|sim=亿|pin=yì (yi4), dàng (dang4)|wg=i<sup>4</sup>, tang<sup>4</sup>}} :: Additional Meanings
     surname :: --
 ===means===
   万 {{cmn-adv|tra=萬|pin=wàn|pint=wan4|rs=一02}} :: by all means
@@ -1467,20 +1467,20 @@ Index: en en->zh
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===mountain===
-  青 {{cmn-hanzi|pin=[[qīng]] ([[qing1]])|wg=ch'ing<sup>1</sup>}} :: green; if about grass, plants, mountain etc.
+  青 {{cmn-hanzi|pin=qīng (qing1)|wg=ch'ing<sup>1</sup>}} :: green; if about grass, plants, mountain etc.
 ===musical===
-  乙 {{cmn-hanzi|pin=[[niè]] ([[nie4]]), [[yǐ]] ([[yi3]])|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: the seventh scale degree in gongche musical notation
+  乙 {{cmn-hanzi|pin=niè (nie4), yǐ (yi3)|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: the seventh scale degree in gongche musical notation
   四 {{cmn-noun|ts|pin=sì|pint=si4|rs=囗02}} :: (musical note) la
 ===myriad===
   万 {{cmn-num|tra=萬|pin=wàn|pint=wan4|rs=一02}} :: a very large number, myriad
 ===nation===
   国 {{cmn-noun|s|pin=guó|pint=guo2|sim=国|tra=國|rs=囗05}} :: country; nation
 ===nji3===
-  二 {{cmn-hanzi|pin=[[èr]] ([[er4]])|wg=[[erh4|erh<sup>4</sup>]]}} :: Tang: nji3
+  二 {{cmn-hanzi|pin=èr (er4)|wg=erh<sup>4</sup>}} :: Tang: nji3
 ===no===
-  氵 {{cmn-hanzi|pin=[[shuǐ]] ([[shui3]])|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
+  氵 {{cmn-hanzi|pin=shuǐ (shui3)|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
 ===notation===
-  乙 {{cmn-hanzi|pin=[[niè]] ([[nie4]]), [[yǐ]] ([[yi3]])|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: the seventh scale degree in gongche musical notation
+  乙 {{cmn-hanzi|pin=niè (nie4), yǐ (yi3)|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: the seventh scale degree in gongche musical notation
 ===note===
   四 {{cmn-noun|ts|pin=sì|pint=si4|rs=囗02}} :: (musical note) la
 ===novels===
@@ -1509,7 +1509,7 @@ Index: en en->zh
 ===number===
   万 {{cmn-num|tra=萬|pin=wàn|pint=wan4|rs=一02}} :: a very large number, myriad
 ===Numeral===
-  零 {{cmn-hanzi|pin=[[líng]] ([[ling2]]), [[lián]] ([[lian2]])|wg=ling<sup>2</sup>}} :: Chinese Numeral 零
+  零 {{cmn-hanzi|pin=líng (ling2), lián (lian2)|wg=ling<sup>2</sup>}} :: Chinese Numeral 零
     Next: 一 :: --
 ===occidental===
   西 {{cmn-noun|ts|pin=xī|pint=xī|rs=西00}} :: Western; occidental
@@ -1526,9 +1526,9 @@ Index: en en->zh
 ===open===
   爽快 {{cmn-adj|ts|pin=shuǎngkuài|pint=shuang3kuai4|rs=爻07}} :: {{Advanced Mandarin|skey=爻07}} frank; open; straightforward
 ===other===
-  氵 {{cmn-hanzi|pin=[[shuǐ]] ([[shui3]])|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
+  氵 {{cmn-hanzi|pin=shuǐ (shui3)|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
 ===particle===
-  氵 {{cmn-hanzi|pin=[[shuǐ]] ([[shui3]])|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
+  氵 {{cmn-hanzi|pin=shuǐ (shui3)|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
 ===pencil===
   铅笔 {{cmn-noun|s|pin=qiānbǐ|pint=qian1bi3|tra=鉛筆|sim=铅笔|rs=钅05}} :: pencil
 ===people===
@@ -1549,21 +1549,21 @@ Index: en en->zh
 ===匹===
   马 (noun) :: measure word: 匹
 ===piě===
-  丿 {{cmn-hanzi|pin=[[piě]] ([[pie3]])|wg=p'ieh<sup>3</sup>}} :: left-falling stroke, usually read as 撇 (piě)
+  丿 {{cmn-hanzi|pin=piě (pie3)|wg=p'ieh<sup>3</sup>}} :: left-falling stroke, usually read as 撇 (piě)
 ===撇===
-  丿 {{cmn-hanzi|pin=[[piě]] ([[pie3]])|wg=p'ieh<sup>3</sup>}} :: left-falling stroke, usually read as 撇 (piě)
+  丿 {{cmn-hanzi|pin=piě (pie3)|wg=p'ieh<sup>3</sup>}} :: left-falling stroke, usually read as 撇 (piě)
 ===place===
   位置 {{cmn-noun|ts|pin=wèizhi|pint=wei4zhi|rs=人05}} :: location; position; place
 ===plain===
   白 {{cmn-adj|ts|pin=bái|pint=bai2|rs=白00}} :: {{Beginning Mandarin|skey=白00}} clear; pure; plain; blank
 ===plants===
-  青 {{cmn-hanzi|pin=[[qīng]] ([[qing1]])|wg=ch'ing<sup>1</sup>}} :: green; if about grass, plants, mountain etc.
+  青 {{cmn-hanzi|pin=qīng (qing1)|wg=ch'ing<sup>1</sup>}} :: green; if about grass, plants, mountain etc.
 ===population===
   丁 {{cmn-noun|ts|pin=dīng|pint=ding1|rs= 一01}} :: population, members of a family
 ===position===
   位置 {{cmn-noun|ts|pin=wèizhi|pint=wei4zhi|rs=人05}} :: location; position; place
 ===post===
-  书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: an ancient government post in charge of secretarial duties
+  书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: an ancient government post in charge of secretarial duties
 ===pretty===
   NB {{cmn-adj|p|pint=nb}} :: {{slang|skey=nb}} fucking awesome
     他小說寫的太NB了。 (trad.) :: --
@@ -1573,7 +1573,7 @@ Index: en en->zh
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===printed===
-  书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: form of a written or printed character;script
+  书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: form of a written or printed character;script
 ===pure===
   白 {{cmn-adj|ts|pin=bái|pint=bai2|rs=白00}} :: {{Beginning Mandarin|skey=白00}} clear; pure; plain; blank
 ===Pǔtōnghuà===
@@ -1595,8 +1595,8 @@ Index: en en->zh
     傾盆大雨。 (trad.) :: --
     倾盆大雨。 (simp.) :: Raining cats and dogs.
 ===read===
-  丿 {{cmn-hanzi|pin=[[piě]] ([[pie3]])|wg=p'ieh<sup>3</sup>}} :: left-falling stroke, usually read as 撇 (piě)
-  亅 {{cmn-hanzi|pin=[[jué]] ([[jue2]])|wg=chüeh<sup>2</sup>}} :: A vertical line with a hook, usually read as 竖勾 (shùgōu).
+  丿 {{cmn-hanzi|pin=piě (pie3)|wg=p'ieh<sup>3</sup>}} :: left-falling stroke, usually read as 撇 (piě)
+  亅 {{cmn-hanzi|pin=jué (jue2)|wg=chüeh<sup>2</sup>}} :: A vertical line with a hook, usually read as 竖勾 (shùgōu).
 ===readily===
   爽快 {{cmn-adv|ts|pin=shuǎngkuài|pint=shuang3kuai4|rs=爻07}} :: {{Advanced Mandarin|skey=爻07}} readily
 ===recently===
@@ -1642,19 +1642,19 @@ Index: en en->zh
   (Cantonese) 安全 {{yue-noun|ts|jyut=on1cyun4}} :: safety, security
   安全 {{cmn-noun|ts|pin=ānquán|pint=an1quan2|rs=宀03}} :: {{Elementary Mandarin|skey=宀03}} safety; security
 ===said===
-  丶 {{cmn-hanzi|pin=[[zhǔ]] ([[zhu3]])|wg=[[chu3|chu<sup>3</sup>]]}} :: dot stroke, usually said as 點
+  丶 {{cmn-hanzi|pin=zhǔ (zhu3)|wg=chu<sup>3</sup>}} :: dot stroke, usually said as 點
   耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===sāndiǎnshuǐ===
-  氵 {{cmn-hanzi|pin=[[shuǐ]] ([[shui3]])|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
+  氵 {{cmn-hanzi|pin=shuǐ (shui3)|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
 ===三点水===
-  氵 {{cmn-hanzi|pin=[[shuǐ]] ([[shui3]])|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
+  氵 {{cmn-hanzi|pin=shuǐ (shui3)|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
 ===scale===
-  乙 {{cmn-hanzi|pin=[[niè]] ([[nie4]]), [[yǐ]] ([[yi3]])|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: the seventh scale degree in gongche musical notation
+  乙 {{cmn-hanzi|pin=niè (nie4), yǐ (yi3)|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: the seventh scale degree in gongche musical notation
 ===script===
-  书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: form of a written or printed character;script
+  书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: form of a written or printed character;script
 ===secretarial===
-  书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: an ancient government post in charge of secretarial duties
+  书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: an ancient government post in charge of secretarial duties
 ===secure===
   (Cantonese) 安全 {{yue-adj|ts|jyut=on1cyun4}} :: safe, secure
   安全 {{cmn-adj|ts|pin=ānquán|pint=an1quan2|rs=宀03}} :: {{Elementary Mandarin|skey=宀03}} safe; secure
@@ -1665,10 +1665,10 @@ Index: en en->zh
   耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===seven===
-  (Cantonese) chat (cardinal number), Han spelling: {{l|yue|七|sc=Hani}} :: seven
-  七 {{cmn-hanzi|pin=[[qī]] ([[qi1]]), [[shǎng]] ([[shang3]])|wg=ch'i<sup>1</sup>, shang<sup>3</sup>}} :: seven
+  (Cantonese) chat (cardinal number), Han spelling: 七 :: seven
+  七 {{cmn-hanzi|pin=qī (qi1), shǎng (shang3)|wg=ch'i<sup>1</sup>, shang<sup>3</sup>}} :: seven
 ===seventh===
-  乙 {{cmn-hanzi|pin=[[niè]] ([[nie4]]), [[yǐ]] ([[yi3]])|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: the seventh scale degree in gongche musical notation
+  乙 {{cmn-hanzi|pin=niè (nie4), yǐ (yi3)|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: the seventh scale degree in gongche musical notation
 ===shit===
   NB {{cmn-adj|p|pint=nb}} :: {{slang|skey=nb}} fucking awesome
     他小說寫的太NB了。 (trad.) :: --
@@ -1678,21 +1678,21 @@ Index: en en->zh
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===shùgōu===
-  亅 {{cmn-hanzi|pin=[[jué]] ([[jue2]])|wg=chüeh<sup>2</sup>}} :: A vertical line with a hook, usually read as 竖勾 (shùgōu).
+  亅 {{cmn-hanzi|pin=jué (jue2)|wg=chüeh<sup>2</sup>}} :: A vertical line with a hook, usually read as 竖勾 (shùgōu).
 ===竖勾===
-  亅 {{cmn-hanzi|pin=[[jué]] ([[jue2]])|wg=chüeh<sup>2</sup>}} :: A vertical line with a hook, usually read as 竖勾 (shùgōu).
+  亅 {{cmn-hanzi|pin=jué (jue2)|wg=chüeh<sup>2</sup>}} :: A vertical line with a hook, usually read as 竖勾 (shùgōu).
 ===signific===
-  氵 {{cmn-hanzi|pin=[[shuǐ]] ([[shui3]])|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
+  氵 {{cmn-hanzi|pin=shuǐ (shui3)|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
 ===simplified===
   (Cantonese) chan (proper noun) :: Cantonese spelling of Chinese surname 陳 (simplified 陈)
 ===six===
   六 {{cmn-car-num|ts|pin=liù|pint=liu4|rs=八02}} :: six
 ===Six===
-  书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: Six-Books
+  书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: Six-Books
 ===sky===
-  青 {{cmn-hanzi|pin=[[qīng]] ([[qing1]])|wg=ch'ing<sup>1</sup>}} :: blue; if about the sky, a stone etc.
+  青 {{cmn-hanzi|pin=qīng (qing1)|wg=ch'ing<sup>1</sup>}} :: blue; if about the sky, a stone etc.
 ===snake===
-  (Cantonese) 蛇 {{yue-hanzi|jyut=|y=[[se4]], [[yi4]]}} :: snake
+  (Cantonese) 蛇 {{yue-hanzi|jyut=|y=se4, yi4}} :: snake
 ===soybean===
   大豆 {{cmn-noun|ts|pin=dàdòu|pint=da4dou4|rs=大00}} :: soybean
 ===spelling===
@@ -1721,16 +1721,16 @@ Index: en en->zh
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===stone===
-  青 {{cmn-hanzi|pin=[[qīng]] ([[qing1]])|wg=ch'ing<sup>1</sup>}} :: blue; if about the sky, a stone etc.
+  青 {{cmn-hanzi|pin=qīng (qing1)|wg=ch'ing<sup>1</sup>}} :: blue; if about the sky, a stone etc.
 ===storehouse===
   倉庫 {{cmn-noun|t|pin=cāngkù|pint=cang1ku4|tra=倉庫|sim=仓库|mw=座|rs=人08}} :: {{Intermediate Mandarin|skey=人08}} warehouse; storehouse
 ===storytelling===
-  书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: storytelling
+  书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: storytelling
 ===straightforward===
   爽快 {{cmn-adj|ts|pin=shuǎngkuài|pint=shuang3kuai4|rs=爻07}} :: {{Advanced Mandarin|skey=爻07}} frank; open; straightforward
 ===stroke===
-  丶 {{cmn-hanzi|pin=[[zhǔ]] ([[zhu3]])|wg=[[chu3|chu<sup>3</sup>]]}} :: dot stroke, usually said as 點
-  丿 {{cmn-hanzi|pin=[[piě]] ([[pie3]])|wg=p'ieh<sup>3</sup>}} :: left-falling stroke, usually read as 撇 (piě)
+  丶 {{cmn-hanzi|pin=zhǔ (zhu3)|wg=chu<sup>3</sup>}} :: dot stroke, usually said as 點
+  丿 {{cmn-hanzi|pin=piě (pie3)|wg=p'ieh<sup>3</sup>}} :: left-falling stroke, usually read as 撇 (piě)
 ===stronger===
   NB {{cmn-adj|p|pint=nb}} :: {{slang|skey=nb}} fucking awesome
     他小說寫的太NB了。 (trad.) :: --
@@ -1777,7 +1777,7 @@ Index: en en->zh
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===Tang===
-  二 {{cmn-hanzi|pin=[[èr]] ([[er4]])|wg=[[erh4|erh<sup>4</sup>]]}} :: Tang: nji3
+  二 {{cmn-hanzi|pin=èr (er4)|wg=erh<sup>4</sup>}} :: Tang: nji3
 ===ten===
   十 {{cmn-car-num|ts|pin=shí|pint=shi2|rs=十00}} :: ten
   万 {{cmn-num|tra=萬|pin=wàn|pint=wan4|rs=一02}} :: ten thousand
@@ -1836,7 +1836,7 @@ Index: en en->zh
     你喜歡中國文學嗎？ :: --
     nǐ xǐhuān zhōngguó wénxué ma? :: Do you like Chinese literature?
 ===two===
-  (Cantonese) 二 {{yue-hanzi|jyut=[[ji6]]|y=[[yi6]]}} :: two
+  (Cantonese) 二 {{yue-hanzi|jyut=ji6|y=yi6}} :: two
   二 {{cmn-car-num|ts|pin=èr|pint=er4|rs=二00}} :: two
 ===U===
   NB {{cmn-adj|p|pint=nb}} :: {{slang|skey=nb}} fucking awesome
@@ -1850,13 +1850,13 @@ Index: en en->zh
   耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===used===
-  氵 {{cmn-hanzi|pin=[[shuǐ]] ([[shui3]])|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
+  氵 {{cmn-hanzi|pin=shuǐ (shui3)|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
 ===using===
   中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese written languages using Chinese characters.
 ===usually===
-  丶 {{cmn-hanzi|pin=[[zhǔ]] ([[zhu3]])|wg=[[chu3|chu<sup>3</sup>]]}} :: dot stroke, usually said as 點
-  丿 {{cmn-hanzi|pin=[[piě]] ([[pie3]])|wg=p'ieh<sup>3</sup>}} :: left-falling stroke, usually read as 撇 (piě)
-  亅 {{cmn-hanzi|pin=[[jué]] ([[jue2]])|wg=chüeh<sup>2</sup>}} :: A vertical line with a hook, usually read as 竖勾 (shùgōu).
+  丶 {{cmn-hanzi|pin=zhǔ (zhu3)|wg=chu<sup>3</sup>}} :: dot stroke, usually said as 點
+  丿 {{cmn-hanzi|pin=piě (pie3)|wg=p'ieh<sup>3</sup>}} :: left-falling stroke, usually read as 撇 (piě)
+  亅 {{cmn-hanzi|pin=jué (jue2)|wg=chüeh<sup>2</sup>}} :: A vertical line with a hook, usually read as 竖勾 (shùgōu).
 ===uterine===
   子宫 {{cmn-noun|s|pin=zǐgōng|pint=zi3gong1|tra=子宮|sim=子宫|rs=子00}} :: uterine
 ===uterus===
@@ -1867,7 +1867,7 @@ Index: en en->zh
   車 {{cmn-noun|t|pin=chē|pint=che1|tra=車|sim=车|rs=車00}} :: {{Beginning Mandarin|skey=車00}} vehicle; car
   车 {{cmn-noun|s|pin=chē|pint=che1|tra=車|sim=车|rs=车00}} :: {{Beginning Mandarin|skey=che1}} vehicle; car
 ===vertical===
-  亅 {{cmn-hanzi|pin=[[jué]] ([[jue2]])|wg=chüeh<sup>2</sup>}} :: A vertical line with a hook, usually read as 竖勾 (shùgōu).
+  亅 {{cmn-hanzi|pin=jué (jue2)|wg=chüeh<sup>2</sup>}} :: A vertical line with a hook, usually read as 竖勾 (shùgōu).
 ===very===
   万 {{cmn-num|tra=萬|pin=wàn|pint=wan4|rs=一02}} :: a very large number, myriad
 ===virtue===
@@ -1875,7 +1875,7 @@ Index: en en->zh
 ===warehouse===
   倉庫 {{cmn-noun|t|pin=cāngkù|pint=cang1ku4|tra=倉庫|sim=仓库|mw=座|rs=人08}} :: {{Intermediate Mandarin|skey=人08}} warehouse; storehouse
 ===water===
-  (Cantonese) 水 {{yue-hanzi|jyut=[[seoi2]]|y=[[seui2]]}} :: water
+  (Cantonese) 水 {{yue-hanzi|jyut=seoi2|y=seui2}} :: water
   (Cantonese) 水 {{yue-noun|ts|jyut=seoi2|rs=水00}} :: water
 ===west===
   西 {{cmn-noun|ts|pin=xī|pint=xī|rs=西00}} :: west
@@ -1918,7 +1918,7 @@ Index: en en->zh
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===written===
-  书 {{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}{{defn|lang=cmn|sort=丨03}} :: form of a written or printed character;script
+  书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: form of a written or printed character;script
   中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese written languages using Chinese characters.
 ===Wubi===
   一 {{cmn-car-num|ts|pin=yī|pint=yi1|rs=一00}} :: Wubi Xing: ggll
@@ -1926,7 +1926,7 @@ Index: en en->zh
 ===Xing===
   一 {{cmn-car-num|ts|pin=yī|pint=yi1|rs=一00}} :: Wubi Xing: ggll
 ===yǐ===
-  乙 {{cmn-hanzi|pin=[[niè]] ([[nie4]]), [[yǐ]] ([[yi3]])|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: yǐ
+  乙 {{cmn-hanzi|pin=niè (nie4), yǐ (yi3)|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: yǐ
 ===you===
   中国 {{cmn-proper noun|s|pin=Zhōngguó|pint=zhong1guo2|tra=中國|sim=中国|rs=丨03}} :: China
     中国的首都是北京。 :: --
@@ -1947,7 +1947,7 @@ Index: en en->zh
     你干吗不喝点酒? (simp.) :: --
     Nǐ gànmá bù hē diǎn jiǔ? :: Why don't you have a drink [of alcohol]?
 ===young===
-  青 {{cmn-hanzi|pin=[[qīng]] ([[qing1]])|wg=ch'ing<sup>1</sup>}} :: young.
+  青 {{cmn-hanzi|pin=qīng (qing1)|wg=ch'ing<sup>1</sup>}} :: young.
 ===圆===
   円 (yuán) :: archaic form of 圆
 ===zebra===

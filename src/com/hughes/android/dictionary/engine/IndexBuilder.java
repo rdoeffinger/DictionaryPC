@@ -114,14 +114,15 @@ public class IndexBuilder {
       entries = new ArrayList<IndexedEntry>();
       tokenData.typeToEntries.put(entryTypeName, entries);
     }
-    if (token.contains("Aosta")) {
-      System.out.println("asdfasdf");
-    }
     return entries;
   }
 
   public void addEntryWithTokens(final IndexedEntry indexedEntry, final Set<String> tokens,
       final EntryTypeName entryTypeName) {
+    if (indexedEntry == null) {
+      System.out.println("asdfasdf");
+    }
+    assert indexedEntry != null;
     for (final String token : tokens) {
       if (entryTypeName.overridesStopList || !stoplist.contains(token))
       getOrCreateEntries(token, entryTypeName).add(indexedEntry);

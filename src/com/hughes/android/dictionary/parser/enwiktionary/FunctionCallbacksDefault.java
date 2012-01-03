@@ -57,10 +57,16 @@ public final class FunctionCallbacksDefault {
     DEFAULT.put("t-image", callback);
     DEFAULT.put("defn", callback);
     DEFAULT.put("rfdef", callback);
+    DEFAULT.put("attention", callback);
+    DEFAULT.put("zh-attention", callback);
 
     DEFAULT.put("not used", new not_used());
-    
     DEFAULT.put("form of", new FormOf());
+    DEFAULT.put("wikipedia", new wikipedia());
+    
+    callback = new InflOrHead();
+    DEFAULT.put("infl", callback);
+    DEFAULT.put("head", callback);
   }
 
   
@@ -329,5 +335,145 @@ public final class FunctionCallbacksDefault {
   }
   
   static final FormOf FORM_OF = new FormOf();
+  
+
+  // --------------------------------------------------------------------
+  // --------------------------------------------------------------------
+  
+  static final class wikipedia implements FunctionCallback {
+    @Override
+    public boolean onWikiFunction(final WikiTokenizer wikiTokenizer, final String name, final List<String> args,
+        final Map<String, String> namedArgs,
+        final EnWiktionaryXmlParser parser,
+        final AppendAndIndexWikiCallback appendAndIndexWikiCallback) {
+      namedArgs.remove("lang");
+      if (args.size() > 1 || !namedArgs.isEmpty()) {
+        // Unindexed!
+        return false;
+      } else if (args.size() == 1) {
+        return false;
+      } else {
+        return true;
+      }
+    }
+  }
+
+  static final class InflOrHead implements FunctionCallback {
+    @Override
+    public boolean onWikiFunction(final WikiTokenizer wikiTokenizer, final String name, final List<String> args,
+        final Map<String, String> namedArgs,
+        final EnWiktionaryXmlParser parser,
+        final AppendAndIndexWikiCallback appendAndIndexWikiCallback) {
+      // See: http://en.wiktionary.org/wiki/Template:infl
+      final String langCode = ListUtil.get(args, 0);
+      String head = namedArgs.remove("head");
+      if (head == null) {
+        head = namedArgs.remove("title"); // Bug
+      }
+      if (head == null) {
+        head = parser.title;
+      } else {
+        head = WikiTokenizer.toPlainText(head);
+      }
+      parser.titleAppended = true;
+      
+      namedArgs.keySet().removeAll(EnWiktionaryXmlParser.USELESS_WIKI_ARGS);
+
+      final String tr = namedArgs.remove("tr");
+      String g = namedArgs.remove("g");
+      if (g == null) {
+        g = namedArgs.remove("gender");
+      }
+      final String g2 = namedArgs.remove("g2");
+      final String g3 = namedArgs.remove("g3");
+
+      appendAndIndexWikiCallback.dispatch(head, EntryTypeName.WIKTIONARY_TITLE_MULTI);
+
+      if (g != null) {
+        appendAndIndexWikiCallback.builder.append(" {").append(g);
+        if (g2 != null) {
+          appendAndIndexWikiCallback.builder.append("|").append(g2);
+        }
+        if (g3 != null) {
+          appendAndIndexWikiCallback.builder.append("|").append(g3);
+        }
+        appendAndIndexWikiCallback.builder.append("}");
+      }
+
+      if (tr != null) {
+        appendAndIndexWikiCallback.builder.append(" (tr. ");
+        appendAndIndexWikiCallback.dispatch(tr, EntryTypeName.WIKTIONARY_TITLE_MULTI);
+        appendAndIndexWikiCallback.builder.append(")");
+        parser.wordForms.add(tr);
+      }
+
+      final String pos = ListUtil.get(args, 1);
+      if (pos != null) {
+        appendAndIndexWikiCallback.builder.append(" (").append(pos).append(")");
+      }
+      for (int i = 2; i < args.size(); i += 2) {
+        final String inflName = ListUtil.get(args, i);
+        final String inflValue = ListUtil.get(args, i + 1);
+        appendAndIndexWikiCallback.builder.append(", ");
+        appendAndIndexWikiCallback.dispatch(inflName, null, null);
+        if (inflValue != null && inflValue.length() > 0) {
+          appendAndIndexWikiCallback.builder.append(": ");
+          appendAndIndexWikiCallback.dispatch(inflValue, null, null);
+          parser.wordForms.add(inflValue);
+        }
+      }
+      for (final String key : namedArgs.keySet()) {
+        final String value = WikiTokenizer.toPlainText(namedArgs.get(key));
+        appendAndIndexWikiCallback.builder.append(" ");
+        appendAndIndexWikiCallback.dispatch(key, null, null);
+        appendAndIndexWikiCallback.builder.append("=");
+        appendAndIndexWikiCallback.dispatch(value, null, null);
+        parser.wordForms.add(value);
+      }
+      return true;
+    }
+  }
+  
+
+  static {
+    DEFAULT.put("it-noun", new it_noun());
+  } 
+  static final class it_noun implements FunctionCallback {
+    @Override
+    public boolean onWikiFunction(final WikiTokenizer wikiTokenizer, final String name, final List<String> args,
+        final Map<String, String> namedArgs,
+        final EnWiktionaryXmlParser parser,
+        final AppendAndIndexWikiCallback appendAndIndexWikiCallback) {
+      parser.titleAppended = true;
+      final String base = ListUtil.get(args, 0);
+      final String gender = ListUtil.get(args, 1);
+      final String singular = base + ListUtil.get(args, 2, null);
+      final String plural = base + ListUtil.get(args, 3, null);
+      appendAndIndexWikiCallback.builder.append(" ");
+      appendAndIndexWikiCallback.dispatch(singular, null, null);
+      appendAndIndexWikiCallback.builder.append(" {").append(gender).append("}, ");
+      appendAndIndexWikiCallback.dispatch(plural, null, null);
+      appendAndIndexWikiCallback.builder.append(" {pl}");
+      parser.wordForms.add(singular);
+      parser.wordForms.add(plural);
+      if (!namedArgs.isEmpty() || args.size() > 4) {
+        LOG.warning("Invalid it-noun: " + wikiTokenizer.token());
+      }
+      return true;
+    }
+  }
+
+  static {
+    DEFAULT.put("it-proper noun", new it_proper_noun());
+  } 
+  static final class it_proper_noun implements FunctionCallback {
+    @Override
+    public boolean onWikiFunction(final WikiTokenizer wikiTokenizer, final String name, final List<String> args,
+        final Map<String, String> namedArgs,
+        final EnWiktionaryXmlParser parser,
+        final AppendAndIndexWikiCallback appendAndIndexWikiCallback) {
+      return false;
+    }
+  }
 
 }
