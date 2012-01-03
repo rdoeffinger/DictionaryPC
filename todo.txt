@@ -1,5 +1,7 @@
 For next release:
 refactor wiki parsing.
+"form of" to bottom
+handle examples like "asdf (asdf)"
 random word jump
 multiword find.
 dictionary update.

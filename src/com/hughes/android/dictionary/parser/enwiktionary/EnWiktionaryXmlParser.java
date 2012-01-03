@@ -66,6 +66,13 @@ public class EnWiktionaryXmlParser {
   final boolean swap;
   
   // State used while parsing.
+  enum State {
+    TRANSLATION_LINE,
+    ENGLISH_DEF_OF_FOREIGN,
+    ENGLISH_EXAMPLE,
+    FOREIGN_EXAMPLE,
+  }
+  State state = null;
   String title;
 
   public EnWiktionaryXmlParser(final IndexBuilder enIndexBuilder, final IndexBuilder otherIndexBuilder, final Pattern langPattern, final Pattern langCodePattern, final boolean swap) {
@@ -280,6 +287,7 @@ public class EnWiktionaryXmlParser {
   }
   
   private void doTranslationLine(final String line, final String lang, final String pos, final String sense, final String rest) {
+    state = State.TRANSLATION_LINE;
     // Good chance we'll actually file this one...
     final PairEntry pairEntry = new PairEntry();
     final IndexedEntry indexedEntry = new IndexedEntry(pairEntry);
@@ -564,12 +572,6 @@ public class EnWiktionaryXmlParser {
   }
   
   
-  static final Pattern UNINDEXED_WIKI_TEXT = Pattern.compile(
-      "(first|second|third)-person (singular|plural)|" +
-      "present tense|" +
-      "imperative"
-      );
-
   // Might only want to remove "lang" if it's equal to "zh", for example.
   static final Set<String> USELESS_WIKI_ARGS = new LinkedHashSet<String>(
       Arrays.asList(
@@ -580,7 +582,7 @@ public class EnWiktionaryXmlParser {
           "xs"));
 
   private void doForeignListItem(final String foreignText, String title, final Collection<String> forms, final ListSection listSection) {
-    
+    state = State.ENGLISH_DEF_OF_FOREIGN;
     final String prefix = listSection.firstPrefix;
     if (prefix.length() > 1) {
       // Could just get looser and say that any prefix longer than first is a sublist.
@@ -592,108 +594,12 @@ public class EnWiktionaryXmlParser {
     final IndexedEntry indexedEntry = new IndexedEntry(pairEntry);
     
     final StringBuilder englishBuilder = new StringBuilder();
-
     final String mainLine = listSection.firstLine;
-    final WikiTokenizer englishTokenizer = new WikiTokenizer(mainLine, false);
-    while (englishTokenizer.nextToken() != null) {
-      // TODO handle form of....
-      if (englishTokenizer.isPlainText()) {
-        englishBuilder.append(englishTokenizer.token());
-        enIndexBuilder.addEntryWithStringNoSingle(indexedEntry, englishTokenizer.token(), EntryTypeName.WIKTIONARY_ENGLISH_DEF);
-      } else if (englishTokenizer.isWikiLink()) {
-        final String text = englishTokenizer.wikiLinkText();
-        final String link = englishTokenizer.wikiLinkDest();
-        if (link != null) {
-          if (link.contains("#English")) {
-            englishBuilder.append(text);
-            enIndexBuilder.addEntryWithStringNoSingle(indexedEntry, text, EntryTypeName.WIKTIONARY_ENGLISH_DEF_WIKI_LINK);
-          } else if (link.contains("#") && this.langPattern.matcher(link).find()) {
-            englishBuilder.append(text);
-            foreignIndexBuilder.addEntryWithStringNoSingle(indexedEntry, text, EntryTypeName.WIKTIONARY_ENGLISH_DEF_OTHER_LANG);
-          } else if (link.equals("plural")) {
-            englishBuilder.append(text);
-          } else {
-            //LOG.warning("Special link: " + englishTokenizer.token());
-            enIndexBuilder.addEntryWithStringNoSingle(indexedEntry, text, EntryTypeName.WIKTIONARY_ENGLISH_DEF_WIKI_LINK);
-            englishBuilder.append(text);
-          }
-        } else {
-          // link == null
-          englishBuilder.append(text);
-          if (!UNINDEXED_WIKI_TEXT.matcher(text).find()) {
-            enIndexBuilder.addEntryWithStringNoSingle(indexedEntry, text, EntryTypeName.WIKTIONARY_ENGLISH_DEF_WIKI_LINK);
-          }
-        }
-      } else if (englishTokenizer.isFunction()) {
-        final String name = englishTokenizer.functionName();
-        final List<String> args = englishTokenizer.functionPositionArgs();
-        final Map<String,String> namedArgs = englishTokenizer.functionNamedArgs();
-        
-        if (
-            name.equals("form of") || 
-            name.contains("conjugation of") || 
-            name.contains("participle of") || 
-            name.contains("gerund of") || 
-            name.contains("feminine of") || 
-            name.contains("plural of")) {
-          String formName = name;
-          if (name.equals("form of")) {
-            formName = ListUtil.remove(args, 0, null);
-          }
-          if (formName == null) {
-            LOG.warning("Missing form name: " + title);
-            formName = "form of";
-          }
-          String baseForm = ListUtil.get(args, 1, "");
-          if ("".equals(baseForm)) {
-            baseForm = ListUtil.get(args, 0, null);
-            ListUtil.remove(args, 1, "");
-          } else {
-            ListUtil.remove(args, 0, null);
-          }
-          namedArgs.keySet().removeAll(USELESS_WIKI_ARGS);
-          WikiTokenizer.appendFunction(englishBuilder.append("{"), formName, args, namedArgs).append("}");
-          if (baseForm != null) {
-            foreignIndexBuilder.addEntryWithString(indexedEntry, baseForm, EntryTypeName.WIKTIONARY_BASE_FORM_MULTI);
-          } else {
-            // null baseForm happens in Danish.
-            LOG.warning("Null baseform: " + title);
-          }
-        } else if (name.equals("l")) {
-          // encodes text in various langs.
-          // lang is arg 0.
-          englishBuilder.append("").append(args.get(1));
-          final String langCode = args.get(0);
-          if ("en".equals(langCode)) {
-            enIndexBuilder.addEntryWithStringNoSingle(indexedEntry, args.get(1), EntryTypeName.WIKTIONARY_ENGLISH_DEF_WIKI_LINK);
-          } else {
-            foreignIndexBuilder.addEntryWithStringNoSingle(indexedEntry, args.get(1), EntryTypeName.WIKTIONARY_ENGLISH_DEF_OTHER_LANG);
-          }
-          // TODO: transliteration
-          
-        } else if (name.equals("defn") || name.equals("rfdef")) {
-          // Do nothing.
-          // http://en.wiktionary.org/wiki/Wiktionary:Requests_for_deletion/Others#Template:defn
-          // Redundant, used for the same purpose as {{rfdef}}, but this 
-          // doesn't produce the "This word needs a definition" text. 
-          // Delete or redirect.
-        } else {
-          namedArgs.keySet().removeAll(USELESS_WIKI_ARGS);
-          if (args.size() == 0 && namedArgs.isEmpty()) {
-            englishBuilder.append("{").append(name).append("}");
-          } else {
-            WikiTokenizer.appendFunction(englishBuilder.append("{{"), name, args, namedArgs).append("}}");
-          }
-//          LOG.warning("Unexpected function: " + englishTokenizer.token());
-        }
-      } else {
-        if (englishTokenizer.isComment() || englishTokenizer.isMarkup()) {
-        } else {
-          LOG.warning("Unexpected definition type: " + englishTokenizer.token());
-        }
-      }
-    }
-        
+
+    appendAndIndexWikiCallback.reset(englishBuilder, indexedEntry);
+    appendAndIndexWikiCallback.functionCallbacks.putAll(FunctionCallbacksDefault.DEFAULT);
+    appendAndIndexWikiCallback.dispatch(mainLine, enIndexBuilder, EntryTypeName.WIKTIONARY_ENGLISH_DEF);
+
     final String english = trim(englishBuilder.toString());
     if (english.length() > 0) {
       final Pair pair = new Pair(english, trim(foreignText), this.swap);

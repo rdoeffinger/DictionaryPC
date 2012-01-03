@@ -114,6 +114,9 @@ public class IndexBuilder {
       entries = new ArrayList<IndexedEntry>();
       tokenData.typeToEntries.put(entryTypeName, entries);
     }
+    if (token.contains("Aosta")) {
+      System.out.println("asdfasdf");
+    }
     return entries;
   }
 

@@ -55,9 +55,38 @@ public final class FunctionCallbacksDefault {
     callback = new Ignore();
     DEFAULT.put("trreq", callback);
     DEFAULT.put("t-image", callback);
+    DEFAULT.put("defn", callback);
+    DEFAULT.put("rfdef", callback);
 
     DEFAULT.put("not used", new not_used());
+    
+    DEFAULT.put("form of", new FormOf());
   }
+
+  
+  static final class NameAndArgs implements FunctionCallback {
+    @Override
+    public boolean onWikiFunction(final WikiTokenizer wikiTokenizer, final String name, final List<String> args,
+        final Map<String, String> namedArgs, final EnWiktionaryXmlParser parser,
+        final AppendAndIndexWikiCallback appendAndIndexWikiCallback) {
+      
+      appendAndIndexWikiCallback.builder.append(name);
+      for (int i = 0; i < args.size(); ++i) {
+        if (args.get(i).length() > 0) {
+          appendAndIndexWikiCallback.builder.append("|");
+          appendAndIndexWikiCallback.dispatch(args.get(i), null, null);
+        }
+      }
+      for (final Map.Entry<String, String> entry : namedArgs.entrySet()) {
+        appendAndIndexWikiCallback.builder.append("|");
+        appendAndIndexWikiCallback.dispatch(entry.getKey(), null, null);
+        appendAndIndexWikiCallback.builder.append("=");
+        appendAndIndexWikiCallback.dispatch(entry.getValue(), null, null);
+      }
+      return true;
+    }
+  }
+  static NameAndArgs NAME_AND_ARGS = new NameAndArgs();
 
   // ------------------------------------------------------------------
 
@@ -162,9 +191,19 @@ public final class FunctionCallbacksDefault {
       // TODO: rewrite this!
       // encodes text in various langs.
       // lang is arg 0.
-      // TODO: set that we're inside L
-      // EntryTypeName.WIKTIONARY_TRANSLATION_OTHER_TEXT
-      WikiTokenizer.dispatch(args.get(1), false, appendAndIndexWikiCallback);
+      // 
+      final EntryTypeName entryTypeName;
+      switch (parser.state) {
+      case TRANSLATION_LINE: entryTypeName = EntryTypeName.WIKTIONARY_TRANSLATION_OTHER_TEXT; break;
+      case ENGLISH_DEF_OF_FOREIGN: entryTypeName = EntryTypeName.WIKTIONARY_ENGLISH_DEF_WIKI_LINK; break;
+      default: throw new IllegalStateException("Invalid enum value: " + parser.state);
+      }
+      final String langCode = args.get(0);
+      if ("en".equals(langCode)) {
+        appendAndIndexWikiCallback.dispatch(args.get(1), parser.enIndexBuilder, entryTypeName);
+      } else {
+        appendAndIndexWikiCallback.dispatch(args.get(1), parser.foreignIndexBuilder, entryTypeName);
+      }
       // TODO: transliteration
       return true;
     }
@@ -249,5 +288,46 @@ public final class FunctionCallbacksDefault {
   }
 
   
+  // --------------------------------------------------------------------
+  // --------------------------------------------------------------------
+  
+
+  static final class FormOf implements FunctionCallback {
+    @Override
+    public boolean onWikiFunction(final WikiTokenizer wikiTokenizer, final String name, final List<String> args,
+        final Map<String, String> namedArgs,
+        final EnWiktionaryXmlParser parser,
+        final AppendAndIndexWikiCallback appendAndIndexWikiCallback) {
+      String formName = name;
+      if (name.equals("form of")) {
+        formName = ListUtil.remove(args, 0, null);
+      }
+      if (formName == null) {
+        LOG.warning("Missing form name: " + parser.title);
+        formName = "form of";
+      }
+      String baseForm = ListUtil.get(args, 1, "");
+      if ("".equals(baseForm)) {
+        baseForm = ListUtil.get(args, 0, null);
+        ListUtil.remove(args, 1, "");
+      } else {
+        ListUtil.remove(args, 0, null);
+      }
+      namedArgs.keySet().removeAll(EnWiktionaryXmlParser.USELESS_WIKI_ARGS);
+      
+      appendAndIndexWikiCallback.builder.append("{");
+      NAME_AND_ARGS.onWikiFunction(wikiTokenizer, formName, args, namedArgs, parser, appendAndIndexWikiCallback);
+      appendAndIndexWikiCallback.builder.append("}");
+      if (baseForm != null && appendAndIndexWikiCallback.indexedEntry != null) {
+        parser.foreignIndexBuilder.addEntryWithString(appendAndIndexWikiCallback.indexedEntry, baseForm, EntryTypeName.WIKTIONARY_BASE_FORM_MULTI);
+      } else {
+        // null baseForm happens in Danish.
+        LOG.warning("Null baseform: " + parser.title);
+      }
+      return true;
+    }
+  }
+  
+  static final FormOf FORM_OF = new FormOf();
 
 }
