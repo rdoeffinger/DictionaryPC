@@ -1,11 +1,9 @@
 For next release:
-refactor wiki parsing.
 "form of" to bottom
 handle examples like "asdf (asdf)"
 random word jump
 multiword find.
 dictionary update.
-{{Arab}}
 ???italian verbs
 
 pronunciation
@@ -60,13 +58,6 @@ Bad filing: under Arab?
   fare {{it-verb}} {{transitive}} :: To do
 
 
-
-
-**** Wiktionary:
-
-in wiktionary
-  futurismo :: futurism () (noun)
-
   
 done:
 {infl}
@@ -80,4 +71,6 @@ always put defs in list...
 ! Check analytics
 ! Upload dics
 font size
+refactor wiki parsing.
+{{Arab}}
   

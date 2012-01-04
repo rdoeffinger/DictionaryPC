@@ -228,17 +228,17 @@ public final class WikiTokenizer {
     assert isWikiLink();
     // "[[.."
     if (lastUnescapedPipePos != -1) {
-      return wikiText.substring(lastUnescapedPipePos + 1, end - 2);
+      return trimNewlines(wikiText.substring(lastUnescapedPipePos + 1, end - 2));
     }
     assert start + 2 < wikiText.length() && end >= 2: wikiText;
-    return wikiText.substring(start + 2, end - 2);
+    return trimNewlines(wikiText.substring(start + 2, end - 2));
   }
 
   public String wikiLinkDest() {
     assert isWikiLink();
     // "[[.."
     if (firstUnescapedPipePos != -1) {
-      return wikiText.substring(start + 2, firstUnescapedPipePos);
+      return trimNewlines(wikiText.substring(start + 2, firstUnescapedPipePos));
     }
     return null;
   }

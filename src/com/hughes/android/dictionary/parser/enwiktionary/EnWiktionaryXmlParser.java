@@ -50,6 +50,7 @@ public class EnWiktionaryXmlParser {
       "Preposition|Proper noun|Article|Prepositional phrase|Acronym|" +
       "Abbreviation|Initialism|Contraction|Prefix|Suffix|Symbol|Letter|" +
       "Ligature|Idiom|Phrase|\\{\\{acronym\\}\\}|\\{\\{initialism\\}\\}|" +
+      "\\{\\{abbreviation\\}\\}|" +
       // These are @deprecated:
       "Noun form|Verb form|Adjective form|Nominal phrase|Noun phrase|" +
       "Verb phrase|Transitive verb|Intransitive verb|Reflexive verb|" +
@@ -161,7 +162,7 @@ public class EnWiktionaryXmlParser {
           
         } else if (headerName.equals("Translations")) {
           if (pos == null) {
-            LOG.warning("Translations without POS: " + title);
+            LOG.info("Translations without POS (but using anyway): " + title);
           }
           doTranslations(wikiTokenizer, pos);
         } else if (headerName.equals("Pronunciation")) {
@@ -518,6 +519,8 @@ public class EnWiktionaryXmlParser {
     for (int i = 0; i < listSection.nextPrefixes.size(); ++i) {
       final String nextPrefix = listSection.nextPrefixes.get(i);
       final String nextLine = listSection.nextLines.get(i);
+
+      // TODO: This splitting is not sensitive to wiki code.
       int dash = nextLine.indexOf("&mdash;");
       int mdashLen = 7;
       if (dash == -1) {
@@ -585,7 +588,12 @@ public class EnWiktionaryXmlParser {
     appendAndIndexWikiCallback.reset(builder, indexedEntry);
     appendAndIndexWikiCallback.entryTypeName = EntryTypeName.WIKTIONARY_EXAMPLE;
     appendAndIndexWikiCallback.entryTypeNameSticks = true;
-    appendAndIndexWikiCallback.dispatch(example, indexBuilder, EntryTypeName.WIKTIONARY_EXAMPLE);
+    try {
+      // TODO: this is a hack needed because we don't safely split on the dash.
+      appendAndIndexWikiCallback.dispatch(example, indexBuilder, EntryTypeName.WIKTIONARY_EXAMPLE);
+    } catch (AssertionError e) {
+      return "--";
+    }
     final String result = trim(builder.toString());
     return result.length() > 0 ? result : "--";
   }

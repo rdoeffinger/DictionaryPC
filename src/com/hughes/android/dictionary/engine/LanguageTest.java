@@ -142,15 +142,15 @@ public class LanguageTest extends TestCase {
     final Language zh = Language.lookup("zh");
     final Transliterator transliterator = Transliterator.createFromRules("", zh.getDefaultNormalizerRules(), Transliterator.FORWARD);
     
-    assertEquals("xie xie", transliterator.transliterate("謝謝"));
-    assertEquals("xie xie", transliterator.transliterate("谢谢"));
+    assertEquals("xiexie", transliterator.transliterate("謝謝"));
+    assertEquals("xiexie", transliterator.transliterate("谢谢"));
 
-    assertEquals("dian nao", transliterator.transliterate("電腦"));
-    assertEquals("dian nao", transliterator.transliterate("电脑"));
-    assertEquals("ji suan ji", transliterator.transliterate("計算機"));
-    assertEquals("ji suan ji", transliterator.transliterate("计算机"));
+    assertEquals("diannao", transliterator.transliterate("電腦"));
+    assertEquals("diannao", transliterator.transliterate("电脑"));
+    assertEquals("jisuanji", transliterator.transliterate("計算機"));
+    assertEquals("jisuanji", transliterator.transliterate("计算机"));
     
-    assertEquals("cheng jiu", transliterator.transliterate("成就"));
+    assertEquals("chengjiu", transliterator.transliterate("成就"));
     
   }
   

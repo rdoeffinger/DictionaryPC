@@ -256,7 +256,11 @@ public final class FunctionCallbacksDefault {
         displayText = ListUtil.get(args, 1, null);
       }
       
-      appendAndIndexWikiCallback.dispatch(displayText, indexBuilder, entryTypeName);
+      if (displayText != null) {
+        appendAndIndexWikiCallback.dispatch(displayText, indexBuilder, entryTypeName);
+      } else {
+        LOG.warning("no display text: " + wikiTokenizer.token());
+      }
       
       final String tr = namedArgs.remove("tr");
       if (tr != null) {

@@ -70,7 +70,7 @@ public class DictionaryBuilderMain extends TestCase {
     //isoToWikiName.clear();
     boolean go = false;
     for (final String foreignIso : isoToWikiName.keySet()) {
-      if (foreignIso.equals("JA")) {
+      if (foreignIso.equals("SK")) {
         go = true;
       }
       if (!go) {
