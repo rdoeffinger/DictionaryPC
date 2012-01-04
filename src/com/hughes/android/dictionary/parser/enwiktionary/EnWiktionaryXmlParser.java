@@ -39,8 +39,6 @@ import com.hughes.android.dictionary.parser.WikiTokenizer;
 
 public class EnWiktionaryXmlParser {
   
-  private static final String TRANSLITERATION_FORMAT = " (tr. %s)";
-
   static final Logger LOG = Logger.getLogger(EnWiktionaryXmlParser.class.getName());
   
   // TODO: process {{ttbc}} lines
@@ -170,7 +168,7 @@ public class EnWiktionaryXmlParser {
         }
       } else if (wikiTokenizer.isFunction()) {
         final String name = wikiTokenizer.functionName();
-        if (name.equals("head")) {
+        if (name.equals("head") && pos == null) {
           LOG.warning("{{head}} without POS: " + title);
         }
       }
@@ -325,10 +323,6 @@ public class EnWiktionaryXmlParser {
     if (!pairsAdded.add(pair.toString())) {
       LOG.warning("Duplicate pair: " + pair.toString());
     }
-    if (pair.toString().equals("libero {m} :: free (adjective)")) {
-      System.out.println();
-    }
-
   }
 
 
@@ -374,7 +368,6 @@ public class EnWiktionaryXmlParser {
   int foreignCount = 0;
   final Collection<String> wordForms = new ArrayList<String>();
   boolean titleAppended = false;
-
 
   private void doForeignPartOfSpeech(final String lang, String posHeading, final int posDepth, WikiTokenizer wikiTokenizer) {
     if (++foreignCount % 1000 == 0) {
@@ -471,7 +464,7 @@ public class EnWiktionaryXmlParser {
         foreign = String.format("(%s) %s", lang, foreign);
       }
       for (final ListSection listSection : listSections) {
-        doForeignListItem(foreign, title, wordForms, listSection);
+        doForeignListSection(foreign, title, wordForms, listSection);
       }
     }
   }
@@ -484,9 +477,12 @@ public class EnWiktionaryXmlParser {
           "sc",
           "sort",
           "cat",
-          "xs"));
+          "xs",
+          "nodot"));
 
-  private void doForeignListItem(final String foreignText, String title, final Collection<String> forms, final ListSection listSection) {
+  public boolean entryIsFormOfSomething = false;
+
+  private void doForeignListSection(final String foreignText, String title, final Collection<String> forms, final ListSection listSection) {
     state = State.ENGLISH_DEF_OF_FOREIGN;
     final String prefix = listSection.firstPrefix;
     if (prefix.length() > 1) {
@@ -497,10 +493,10 @@ public class EnWiktionaryXmlParser {
     
     final PairEntry pairEntry = new PairEntry();
     final IndexedEntry indexedEntry = new IndexedEntry(pairEntry);
-    
+
+    entryIsFormOfSomething = false;
     final StringBuilder englishBuilder = new StringBuilder();
     final String mainLine = listSection.firstLine;
-
     appendAndIndexWikiCallback.reset(englishBuilder, indexedEntry);
     appendAndIndexWikiCallback.dispatch(mainLine, enIndexBuilder, EntryTypeName.WIKTIONARY_ENGLISH_DEF);
 
@@ -508,7 +504,7 @@ public class EnWiktionaryXmlParser {
     if (english.length() > 0) {
       final Pair pair = new Pair(english, trim(foreignText), this.swap);
       pairEntry.pairs.add(pair);
-      foreignIndexBuilder.addEntryWithString(indexedEntry, title, EntryTypeName.WIKTIONARY_TITLE_MULTI);
+      foreignIndexBuilder.addEntryWithString(indexedEntry, title, entryIsFormOfSomething ? EntryTypeName.WIKTIONARY_IS_FORM_OF_SOMETHING_ELSE : EntryTypeName.WIKTIONARY_TITLE_MULTI);
       for (final String form : forms) {
         foreignIndexBuilder.addEntryWithString(indexedEntry, form, EntryTypeName.WIKTIONARY_INFLECTED_FORM_MULTI);
       }

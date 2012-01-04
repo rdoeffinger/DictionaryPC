@@ -93,7 +93,7 @@ Index: ar ar->en
   أدب {m} (ʾádab) (noun) :: decency
   أدب {m} (ʾádab) (noun) :: culture
 ===أضداد===
-  أضداد (’aḍdād) :: {plural of|ضدّ|nodot=1}; opposites.
+  أضداد (’aḍdād) :: {plural of|ضدّ}; opposites.
 ===آذار===
   آذار {{ar-noun|head=آذَارٌ|tr=’āðar|g=m}} :: March (Christian calendar followed in Syria, Lebanon, Jordan, and Iraq)
 ===أذن===
@@ -185,12 +185,12 @@ Index: ar ar->en
   اكبر أكبرُ (’ákbar) {m}, كبرى (kúbra) {f}, كُبرٌ (kúbarun) {p}, اكابر (akābir) {p}, كبريات (kubrayāt) {p} :: {{elative of|كبير}}: bigger, larger; biggest, largest
   اكبر أكبرُ (’ákbar) {m}, كبرى (kúbra) {f}, كُبرٌ (kúbarun) {p}, اكابر (akābir) {p}, كبريات (kubrayāt) {p} :: {{elative of|كبير}}: older; eldest
   اكبر أكبرُ (’ákbar) {m}, كبرى (kúbra) {f}, كُبرٌ (kúbarun) {p}, اكابر (akābir) {p}, كبريات (kubrayāt) {p} :: {{elative of|كبير}}: senior (age, rank, etc.)
+  ﷳ {{ar-adj|tr=’ákbar}} :: {alternative form of|اكبر}
 ===ﷳ===
-  ﷳ {{ar-adj|tr=’ákbar}} :: {{alternative form of|اكبر}}
+  ﷳ {{ar-adj|tr=’ákbar}} :: {alternative form of|اكبر}
 ===أخ===
   أخ (’akh) {m}, إخوة (’íkhwa) {p}, إخوان (ikhwān) dual :: brother
 ===أخبار===
-  أخبار أخْبار (’axbār) {p}اخبار{m} :: news ({plural of|خبر}, xábar)
   أخبار أخْبار (’axbār) {p}اخبار{m} :: information, intelligence, report
   أخبار أخْبار (’axbār) {p}اخبار{m} :: announcement
   أخبار أخْبار (’axbār) {p}اخبار{m} :: annals
@@ -198,6 +198,7 @@ Index: ar ar->en
   أخبار أخْبار (’axbār) {p}اخبار{m} :: note, message
   أخبار أخْبار (’axbār) {p}اخبار{m} :: report
   أخبار أخْبار (’axbār) {p}اخبار{m} :: {grammar} indirect discourse
+  أخبار أخْبار (’axbār) {p}اخبار{m} :: news ({plural of|خبر}, xábar)
 ===إخلاص===
   إخلاص‎ {m} (’ikhlaaS) (noun) :: sincere devotion, loyal attachment, sincere affection
   إخلاص‎ {m} (’ikhlaaS) (noun) :: sincerity, frankness, candor
@@ -1353,7 +1354,7 @@ Index: ar ar->en
   ضد {{ar-noun|head=ضِدّ|tr=Didd|g=m|pl=اضداد|plhead=أضداد}} :: adversary, opponent
   ضد {{ar-noun|head=ضِدّ|tr=Didd|g=m|pl=اضداد|plhead=أضداد}} :: antitoxin, antidote, anti-
   ضِد{{ar-dia|sha}} (Didda) (preposition) :: against.
-  أضداد (’aḍdād) :: {plural of|ضدّ|nodot=1}; opposites.
+  أضداد (’aḍdād) :: {plural of|ضدّ}; opposites.
 ===دف===
   دف {{ar-verb (old)|I|دَفّ|dáffa|دف}}{{ar-verb (old)|II|دَفّ|dáffa|دف}} :: to flap the wings (of a bird)
   دف {{ar-verb (old)|I|دَفّ|dáffa|دف}}{{ar-verb (old)|II|دَفّ|dáffa|دف}} :: to hurry, rush
@@ -1560,8 +1561,8 @@ Index: ar ar->en
   دور {{ar-verb (old)|II|دور|dáwwara}} :: to look for something, to search (to look around for something)
   دور (dawr) {m}, أدوار (’adwār) {p}دور :: role
   دور (dawr) {m}, أدوار (’adwār) {p}دور :: turn
-  دور (dawr) {m}, أدوار (’adwār) {p}دور :: houses ({plural of|دار})
   (Egyptian Arabic) دور {m} (dawr) (noun), {p} أدوار ('adwaar) :: floor {l|gloss=storey}
+  دور (dawr) {m}, أدوار (’adwār) {p}دور :: houses ({plural of|دار})
 ===دوش===
   دوش {m} (duush) (noun) :: shower (bathing)
 ===دي===
@@ -2173,11 +2174,11 @@ Index: ar ar->en
   حرم (ħirm) {m}حرم{m}احرام{p}حرم{p} :: sanctum, sanctuary, sacred precinct
     الحرمان (al-ħaramān) :: the two Holy Places (Mecca and Medina)
     ثالث الحرمين (θāliθ al-ħarmēin) :: the third Holy Place (Jerusalem)
-  حرم (ħirm) {m}حرم{m}احرام{p}حرم{p} :: {plural of|حريم}; sacred places, sanctums, sanctuaries
-  حرم (ħirm) {m}حرم{m}احرام{p}حرم{p} :: {plural of|حريم}; harems, wives, women
   حرم (ħáram) {m}, احرام (’aħrām) {p}حرم{p} :: forbidden, prohibited, interdicted
   حرم (ħáram) {m}, احرام (’aħrām) {p}حرم{p} :: taboo
   حرم (ħáram) {m}, احرام (’aħrām) {p}حرم{p} :: holy, sacred, sacrosanct
+  حرم (ħirm) {m}حرم{m}احرام{p}حرم{p} :: {plural of|حريم}; sacred places, sanctums, sanctuaries
+  حرم (ħirm) {m}حرم{m}احرام{p}حرم{p} :: {plural of|حريم}; harems, wives, women
   حرم (ħáram) {m}, احرام (’aħrām) {p}حرم{p} :: {plural of|حرام}; forbidden, prohibited, interdicted, unlawful
 ===حروف===
   حروف الهجاء حُرُوف الهِجَاء (ħurúːf al-hijáː’) m/pl :: alphabet
@@ -2440,9 +2441,9 @@ Index: ar ar->en
   جمادى الثاني {{ar-noun|head=جُمَادَى الثَانِي|tr=jumá:da l-θá:ni|g=m}} :: Jumada II, the sixth of the twelve months of the Muslim lunar calendar, each beginning with a new moon. Jumada II means "second part of parched land" in Arabic.
 ===جمال===
   جمال جَمال (jamāl) :: beauty
-  جمال (jimāl) :: camels ({plural of|جمل})
   جمال (jammāl) {m}, جمالون (jammalūn) {p} :: camel driver
   جميل {m} (jamiil) (adjective), feminine singular and inanimate plural: جميلة, masculine plural: جمال, feminine plural: جميلات :: beautiful
+  جمال (jimāl) :: camels ({plural of|جمل})
 ===جمجمة===
   جمجمة (jumjúma) {f}, جماجم (jamājim) {p} :: {anatomy} skull, cranium
   (Egyptian Arabic) جمجمة {f} (gumguma) (noun), جماجم (gamaagim) {p} :: {anatomy} skull
@@ -2459,10 +2460,10 @@ Index: ar ar->en
   جمل {{ar-verb (old)|I|جمل|jámala}}{{ar-verb (old)|I|جمل|jámula}}{{ar-verb (old)|II|جمّل|jámmala}}{{ar-verb (old)|III|جامل|jāmala}}{{ar-verb (old)|IV|اجمل|’ájmala}}{{ar-verb (old)|V|تجمل|tajámmala}}{{ar-verb (old)|VI|تجامل|tajāmala}} :: to act decently, to be nice
   جمل {{ar-verb (old)|I|جمل|jámala}}{{ar-verb (old)|I|جمل|jámula}}{{ar-verb (old)|II|جمّل|jámmala}}{{ar-verb (old)|III|جامل|jāmala}}{{ar-verb (old)|IV|اجمل|’ájmala}}{{ar-verb (old)|V|تجمل|tajámmala}}{{ar-verb (old)|VI|تجامل|tajāmala}} :: to make oneself pretty, to adorn oneself
   جمل {{ar-verb (old)|I|جمل|jámala}}{{ar-verb (old)|I|جمل|jámula}}{{ar-verb (old)|II|جمّل|jámmala}}{{ar-verb (old)|III|جامل|jāmala}}{{ar-verb (old)|IV|اجمل|’ájmala}}{{ar-verb (old)|V|تجمل|tajámmala}}{{ar-verb (old)|VI|تجامل|tajāmala}} :: to be courteous, to be friendly to one another
-  جمل (júmal) {p} :: {plural of|جملة}
   جمل جَمَل (jamal) {m}, جمال (jimāl) {p} :: camel
   جمل جَمَل (jamal) {m}, جمال (jimāl) {p} :: chameleon
     جمل اليهود (jámal al-yahūd) :: chameleon
+  جمل (júmal) {p} :: {plural of|جملة}
   جمال (jimāl) :: camels ({plural of|جمل})
 ===جملة===
   جمل (júmal) {p} :: {plural of|جملة}
@@ -2756,11 +2757,11 @@ Index: ar ar->en
   كتب {{ar-verb|form=I|head=كَتَبَ|tr=kátaba|impf=يكتب|impfhead=يَكْتُبُ|impftr=yaktúbu}} :: to foreordain, to destine
   كتب {{ar-verb|form=II|head=كَتَّبَ|tr=káttaba|impf=يكتب|impfhead=يُكَتِّبُ|impftr=yukattibu}} (causative) :: to cause to write, to make someone write
   كتب {{ar-verb|form=II|head=كَتَّبَ|tr=káttaba|impf=يكتب|impfhead=يُكَتِّبُ|impftr=yukattibu}} (causative) :: to deploy in squadrons
-  كتب {p} (kútub) (noun form) :: {plural of|كتاب} (book)
   كتب {p} (kútub) (noun form) :: pieces of writing, records, papers
   كتب {p} (kútub) (noun form) :: letters, notes, messages
   كتب {p} (kútub) (noun form) :: documents, deed, contracts
   (Egyptian Arabic) كتب {{arz-verb|form=1|tr=kátab|impf=يكتب|impftr=yíktib}} :: to write
+  كتب {p} (kútub) (noun form) :: {plural of|كتاب} (book)
 ===كثافة===
   كثافة :: density
 ===كتيب===
@@ -3015,8 +3016,9 @@ Index: ar ar->en
   محمد محمّد (muħámmad) :: praised, commendable, laudable.
   لا إله إلا الله محمد رسول الله لا إله إلا الله محمّد رسول الله (lā ilāhā illā-llāhu; muħámmadu rasūlu-llāhi) :: Literally, There is no god but God; Muhammad is the messenger of God.
     This phrase, called the shahada, or Muslim creed, is the declaration of belief in the oneness of God and in Muhammad as His messenger. Recitation of the shahada is considered one of the five pillars of Islam by Sunni Muslims. By sincerely stating the shahada aloud before two witnesses, one is considered to have converted to Islam. :: --
+  ﷴ (proper noun) :: {alternative form of|محمد}
 ===ﷴ===
-  ﷴ (proper noun) :: {{alternative form of|محمد}}
+  ﷴ (proper noun) :: {alternative form of|محمد}
 ===مهمة===
   مهمة (mahámma) {f}, مهام (mahámm) {p}مهمة{f}مهمات{p} :: job, task, function, duty
   مهمة (mahámma) {f}, مهام (mahámm) {p}مهمة{f}مهمات{p} :: important matter
@@ -3380,9 +3382,9 @@ Index: ar ar->en
   مثل (miθl) {m}, امثال (’amθāl) {p}مَثَلٌ{m}امثال{p}مثل{p} :: example
   مثل (miθl) {m}, امثال (’amθāl) {p}مَثَلٌ{m}امثال{p}مثل{p} :: lesson
   مثل (miθl) {m}, امثال (’amθāl) {p}مَثَلٌ{m}امثال{p}مثل{p} :: ideal, model
+  مثل (míθla) :: similar to, like, just as
   مثل (miθl) {m}, امثال (’amθāl) {p}مَثَلٌ{m}امثال{p}مثل{p} :: {plural of|مثال}
   مثل (miθl) {m}, امثال (’amθāl) {p}مَثَلٌ{m}امثال{p}مثل{p} :: {plural of|مثيل}
-  مثل (míθla) :: similar to, like, just as
 ===مثلي===
   مثليّ (míthlii) {m} :: homosexual (neutral)
   مثليّ (míthlii) :: (Islamic law) replaceable, fungible
@@ -4285,15 +4287,15 @@ Index: ar ar->en
   صفر صُفر (ṣufr) {m}صَفَر(ṣáfar){m} :: brass
   صفر صُفر (ṣufr) {m}صَفَر(ṣáfar){m} :: money
   صفر صُفر (ṣufr) {m}صَفَر(ṣáfar){m} :: {medicine} jaundice
+  صفر {{ar-verb (old)|I|صَفر|ṣáfara}}{{ar-verb (old)|II|صفّر|ṣáffara}} :: to whistle
+  صفر {{ar-verb (old)|I|صَفر|ṣáfara}}{{ar-verb (old)|II|صفّر|ṣáffara}} :: to hiss
+  صفر {{ar-verb (old)|I|صَفر|ṣáfara}}{{ar-verb (old)|II|صفّر|ṣáffara}} :: to chirp, to stridulate
+  صفر {{ar-verb (old)|I|صَفر|ṣáfara}}{{ar-verb (old)|II|صفّر|ṣáffara}} :: to scream (of a siren)
+  صفر {{ar-verb (old)|I|صَفر|ṣáfara}}{{ar-verb (old)|II|صفّر|ṣáffara}} :: to whistle
+  صفر {{ar-verb (old)|I|صَفر|ṣáfara}}{{ar-verb (old)|II|صفّر|ṣáffara}} :: to hiss
+  صفر {{ar-verb (old)|I|صَفر|ṣáfara}}{{ar-verb (old)|II|صفّر|ṣáffara}} :: to chirp, to stridulate
+  صفر {{ar-verb (old)|I|صَفر|ṣáfara}}{{ar-verb (old)|II|صفّر|ṣáffara}} :: to scream (of a siren)
   صفر صُفْر (Sufr) {p} :: yellow, pale, pallid, wan ({plural of|أَصْفَر})
-  صفر {{ar-verb (old)|I|صَفر|ṣáfara}}{{ar-verb (old)|II|صفّر|ṣáffara}} :: to whistle
-  صفر {{ar-verb (old)|I|صَفر|ṣáfara}}{{ar-verb (old)|II|صفّر|ṣáffara}} :: to hiss
-  صفر {{ar-verb (old)|I|صَفر|ṣáfara}}{{ar-verb (old)|II|صفّر|ṣáffara}} :: to chirp, to stridulate
-  صفر {{ar-verb (old)|I|صَفر|ṣáfara}}{{ar-verb (old)|II|صفّر|ṣáffara}} :: to scream (of a siren)
-  صفر {{ar-verb (old)|I|صَفر|ṣáfara}}{{ar-verb (old)|II|صفّر|ṣáffara}} :: to whistle
-  صفر {{ar-verb (old)|I|صَفر|ṣáfara}}{{ar-verb (old)|II|صفّر|ṣáffara}} :: to hiss
-  صفر {{ar-verb (old)|I|صَفر|ṣáfara}}{{ar-verb (old)|II|صفّر|ṣáffara}} :: to chirp, to stridulate
-  صفر {{ar-verb (old)|I|صَفر|ṣáfara}}{{ar-verb (old)|II|صفّر|ṣáffara}} :: to scream (of a siren)
 ===صغا===
   صغا {{ar-verb (old)|I|صغا|ʂağā}}{{ar-verb (old)|IV|أصْغَى|’áʂğā}} :: to incline, to bend, to lean
   صغا {{ar-verb (old)|I|صغا|ʂağā}}{{ar-verb (old)|IV|أصْغَى|’áʂğā}} :: to listen closely to, to lend an ear to, to pay attention to, to hark, to hearken, to listen, to attend
@@ -4411,11 +4413,11 @@ Index: ar ar->en
   شغل (šuğl) {m}, اشغال (’ašğāl) {p}, شغول (šuğūl) {p} :: work, job, business, concern
   (Egyptian Arabic) شغل {m} (shughl) (noun) :: work, occupation
 ===صحح===
-  صحح صَحَّحَ (ʂáħħaħa) :: to right, correct, amend
-  صحح صَحَّحَ (ʂáħħaħa) :: to repair
-  صحح صَحَّحَ (ʂáħħaħa) :: to redress
-  صحح صَحَّحَ (ʂáħħaħa) :: to rectify
-  صحح صَحَّحَ (ʂáħħaħa) :: to straighten
+  صحح صَحَّحَ, صحح (ʂáħħaħa) :: to right, correct, amend
+  صحح صَحَّحَ, صحح (ʂáħħaħa) :: to repair
+  صحح صَحَّحَ, صحح (ʂáħħaħa) :: to redress
+  صحح صَحَّحَ, صحح (ʂáħħaħa) :: to rectify
+  صحح صَحَّحَ, صحح (ʂáħħaħa) :: to straighten
 ===شهادة===
   شهادة (šahāda) {f}, شهادات (šahadāt) {p} :: testimony, witness, evidence, deposition
   شهادة (šahāda) {f}, شهادات (šahadāt) {p} :: statement
@@ -6368,7 +6370,7 @@ Index: en en->ar
   آمين (’āmīn) :: amen
 ===amend===
   حسن {{ar-verb|form=II|head=حَسَّنَ|tr=ħássana|impf=يحسن|impftr=yuħassinu}} :: to amend
-  صحح صَحَّحَ (ʂáħħaħa) :: to right, correct, amend
+  صحح صَحَّحَ, صحح (ʂáħħaħa) :: to right, correct, amend
 ===amendatory===
   تحسيني (taħsíini) {m}, تَحْسِينِيّة (taħsiníyya) {f}, {p} :: amendatory
 ===amendment===
@@ -8622,7 +8624,7 @@ Index: en en->ar
 ===corpse===
   نعش (naʿš) :: corpse (human)
 ===correct===
-  صحح صَحَّحَ (ʂáħħaħa) :: to right, correct, amend
+  صحح صَحَّحَ, صحح (ʂáħħaħa) :: to right, correct, amend
   حق {{ar-verb (old)|I|حق|ħáqqa}}{{ar-verb (old)|II|حق|ħáqqa}}{{ar-verb (old)|III|حاق|ħāqqa}}{{ar-verb (old)|IV|احق|’aħáqqa}}{{ar-verb (old)|X|استحق|istaħáqqa}} :: to be right, to be correct
   حق (ħaqq) :: valid, sound, correct
 ===correctness===
@@ -14972,7 +14974,7 @@ Index: en en->ar
 ===opposite===
   عكس عَكْس (ʕaks) :: opposite
   عكس عَكْس (ʕaks) {m} :: opposite, contrast, contrary, reverse
-  أضداد (’aḍdād) :: {plural of|ضدّ|nodot=1}; opposites.
+  أضداد (’aḍdād) :: {plural of|ضدّ}; opposites.
   ضد {{ar-noun|head=ضِدّ|tr=Didd|g=m|pl=اضداد|plhead=أضداد}} :: opposite, contrast.
   ليل (layl) {m}, ليالي (layālī) {p}ليلة{f}ليال{p}ليائل{p} :: opposite of نهار
   ليل (layl) {m}, ليالي (layālī) {p}ليلة{f}ليال{p}ليائل{p} :: opposite of يوم
@@ -16471,7 +16473,7 @@ Index: en en->ar
 ===recover===
   مثل {{ar-verb (old)|I|مثل|máθala}}{{ar-verb (old)|II|مثّل|máθθala}}{{ar-verb (old)|III|ماثل|māθala}}{{ar-verb (old)|V|تمثل|tamáθθala}}{{ar-verb (old)|VI|تماثل|tamāθala}}{{ar-verb (old)|VIII|امتثل|imtáθala}} :: to recover
 ===rectify===
-  صحح صَحَّحَ (ʂáħħaħa) :: to rectify
+  صحح صَحَّحَ, صحح (ʂáħħaħa) :: to rectify
 ===rector===
   مدير (mudīr) {m}, مديرون (mudīrūn) {p} :: superintendent, rector
 ===recur===
@@ -16482,7 +16484,7 @@ Index: en en->ar
 ===Red===
   جدة (jídda) {f}, جدات (jiddāt) {p} :: Jeddah (port city in Saudi Arabia on the Red Sea, purportedly the burial site of Eve)
 ===redress===
-  صحح صَحَّحَ (ʂáħħaħa) :: to redress
+  صحح صَحَّحَ, صحح (ʂáħħaħa) :: to redress
 ===reed===
   ريش (rīš) {m} (collective), ريشة (rīša) {f} (singulative), رياش (riyāš) {p}, ارياش (aryāš) {p}, ريشات (rišāt) {p} :: {music} plectrum, reed
   قلم {{ar-noun|head=قَلَم|tr=qálam|g=m}}, أقْلاَم (’aqlām) {p} :: pen, reed pen
@@ -16614,7 +16616,7 @@ Index: en en->ar
   ام {{ar-verb (old)|I|أمّ|’ámma|ام}}{{ar-verb (old)|II|أمّم|’ámmama|امم}}{{ar-verb (old)|V|تَأمّمَ|ta’ámmama|تأمم}}{{ar-verb (old)|VIII|اِئْتَمّ|i’támma|ائتم}} :: to go, to repair (to a place)
     ام مدينة لندن :: to go to London
   ام {{ar-verb (old)|I|أمّ|’ámma|ام}}{{ar-verb (old)|II|أمّم|’ámmama|امم}}{{ar-verb (old)|V|تَأمّمَ|ta’ámmama|تأمم}}{{ar-verb (old)|VIII|اِئْتَمّ|i’támma|ائتم}} :: to go, to repair (to a place)
-  صحح صَحَّحَ (ʂáħħaħa) :: to repair
+  صحح صَحَّحَ, صحح (ʂáħħaħa) :: to repair
 ===repeal===
   نسخ (násakha) :: to repeal, to revoke, to withdraw
   جب {{ar-verb (old)|I|جَبّ|jábba}} :: to repeal, to abate, to abolish, to frustrate, to make null and void, to call off
@@ -16774,7 +16776,7 @@ Index: en en->ar
   جهاز {m} (jihāz, jahāz) (noun), جهازات (jihazāt) {p}, اجهزة (’ájhiza) {p} :: equipment, device, appliances, outfit, gear, rig
 ===right===
   حسن {{ar-adj|head=حَسَن|tr=ħásan|g=m|f=حسنة|fhead=حَسَنَة|ftr=ħásana|el=أحسن|elhead=أحْسَن|eltr=ʾaħsan}} :: okay, all right
-  صحح صَحَّحَ (ʂáħħaħa) :: to right, correct, amend
+  صحح صَحَّحَ, صحح (ʂáħħaħa) :: to right, correct, amend
   حق {{ar-verb (old)|I|حق|ħáqqa}}{{ar-verb (old)|II|حق|ħáqqa}}{{ar-verb (old)|III|حاق|ħāqqa}}{{ar-verb (old)|IV|احق|’aħáqqa}}{{ar-verb (old)|X|استحق|istaħáqqa}} :: to be right, to be correct
   حق {{ar-verb (old)|I|حق|ħáqqa}}{{ar-verb (old)|II|حق|ħáqqa}}{{ar-verb (old)|III|حاق|ħāqqa}}{{ar-verb (old)|IV|احق|’aħáqqa}}{{ar-verb (old)|X|استحق|istaħáqqa}} :: to tell the truth, to be right
   حق (ħaqq) {m}, حقوق (ħuqūq) {p}حق{m} :: correctness, right
@@ -18063,7 +18065,7 @@ Index: en en->ar
 ===straight===
   قدم قِدم (qidm)قُدُم :: straight ahead, forward
 ===straighten===
-  صحح صَحَّحَ (ʂáħħaħa) :: to straighten
+  صحح صَحَّحَ, صحح (ʂáħħaħa) :: to straighten
 ===strain===
   وتر {{ar-verb (old)|I|وتر|wátara}}{{ar-verb (old)|II|وتر|wáttara}}{{ar-verb (old)|III|واتر|wātara}}{{ar-verb (old)|IV|اوتر|’autara}}{{ar-verb (old)|V|توتر|tawáttara}}{{ar-verb (old)|VI|تواتر|tawātara}} :: to stretch, to strain, to draw tight, to pull taut
 ===strained===

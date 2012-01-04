@@ -181,10 +181,11 @@ Index: de de->en
     Dort steht ein Baum. Er ist über 100 Jahre alt. :: There stands a tree. It is more than 100 years old.
   sein {{de-verb-irregular|ist|war|gewesen|auxiliary=sein}} :: {auxiliary} to have; {{non-gloss definition|forms the present perfect and past perfect tense of intransitive verbs that do not use the reflexive pronoun}}
     Er ist alt geworden. :: He has become old.
+  alter (adjective form) :: {inflected form of|alt}
 ===altar===
   (Old High German) altar {{goh-noun|g=n}} :: age
 ===alter===
-  alter (adjective form) :: {{inflected form of|alt}}
+  alter (adjective form) :: {inflected form of|alt}
 ===am===
   am (contraction) (+ adjective ending with -en + masculine or neuter noun) :: an + dem, on the, at the
   hell (adjective), comparative: heller, superlative: am hellsten :: clear, bright, light
@@ -830,12 +831,12 @@ Index: de de->en
 ===dart===
   (Pennsylvania German) dart (noun) :: there
 ===das===
-  das {n} (article), definite, nominative :: the; {nominative singular neuter|der}
-  das {n} (article), definite, nominative :: the; {accusative singular neuter|der}
   das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
     Ich kenne ein Mädchen, das das kann. :: I know a girl who can do that.
   das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: this, that
     Das ist mein Haus. :: This is my house.
+  das {n} (article), definite, nominative :: the; {nominative singular neuter|der}
+  das {n} (article), definite, nominative :: the; {accusative singular neuter|der}
 ===dass===
   dass :: (subordinating) that, it (logical conditional)
   wie :: like
@@ -876,6 +877,7 @@ Index: de de->en
     De Mann, den wi hüert häbben. (The man, which we hired.) :: --
   (Low German) de {f} (pronoun), accusative: de :: {relative} which, that
     De Fru, de wi hüert hębben. (The woman, which we have hired.) :: --
+  (Low German) dei (determiner) :: {alternative form of|de}
 ===dealt===
   dealt :: {{de-verb form of|dealen|3|s|g}}
   dealt :: {{de-verb form of|dealen|2|p|g}}
@@ -883,29 +885,29 @@ Index: de de->en
 ===decke===
   decke (verb form) :: present tense first person singular of decken "I cover"
 ===dei===
-  (Low German) dei (determiner) :: {{alternative form of|de}}
+  (Low German) dei (determiner) :: {alternative form of|de}
 ===dein===
   dein {m} (pronoun), neuter: dein, feminine: deine, plural: deine :: {possessive} your (informal, friends, relatives).
 ===deine===
   dein {m} (pronoun), neuter: dein, feminine: deine, plural: deine :: {possessive} your (informal, friends, relatives).
 ===dem===
+  am (contraction) (+ adjective ending with -en + masculine or neuter noun) :: an + dem, on the, at the
+  zum (+ adjective ending with -en + masculine or neuter noun) :: to the (contraction of zu + dem)
   dem (article), definite :: the; {dative singular masculine|der}
   dem (article), definite :: the; {dative singular neuter|das}
   dem (pronoun form), relative :: {dative singular masculine|der}
   dem (pronoun form), relative :: {dative singular neuter|das}
-  am (contraction) (+ adjective ending with -en + masculine or neuter noun) :: an + dem, on the, at the
-  zum (+ adjective ending with -en + masculine or neuter noun) :: to the (contraction of zu + dem)
 ===dęme===
   (Low German) de {m} (article), genitive: des, dative: dęme, accusative: denne, definite article :: the
     De Mann gat hen. (The man walks [lit. goes] there.) :: --
 ===den===
-  den (article), definite :: the; {[[accusative]] masculine singular|der}
-  den (article), definite :: the; {dative plural for all genders|der}
-  den (pronoun form) :: that; whom; {accusative singular|der}
   (Low German) de (article), genitive: der, dative: den, accusative: de, definite article :: the
   (Low German) de {m} (pronoun), accusative: den :: {relative} which, that
     De Mann, de dår güng. (The man, which walked there.) :: --
     De Mann, den wi hüert häbben. (The man, which we hired.) :: --
+  den (article), definite :: the; {[[accusative]] masculine singular|der}
+  den (article), definite :: the; {dative plural for all genders|der}
+  den (pronoun form) :: that; whom; {accusative singular|der}
 ===denn===
   denn (conjunction) :: for; because; then; since
   denn (conjunction) :: {{context|after a comparative and often with "je"}} than
@@ -941,10 +943,10 @@ Index: de de->en
   wie :: {nonstandard} than
     Der Junge ist größer wie sein Vater. :: The boy is taller than his father.
 ===des===
-  des (article), definite, genitive singular :: the; {genitive singular masculine|der}
-  des (article), definite, genitive singular :: the; {genitive singular neuter|der}
   (Low German) de {m} (article), genitive: des, dative: dęme, accusative: denne, definite article :: the
     De Mann gat hen. (The man walks [lit. goes] there.) :: --
+  des (article), definite, genitive singular :: the; {genitive singular masculine|der}
+  des (article), definite, genitive singular :: the; {genitive singular neuter|der}
   bei (preposition), + dative :: {{context|with something that has a definite time}} by (some time); by the beginning of (some event); at; on; upon
     bei Abfahrt des Zuges :: “upon departure of the train”
 ===desto===
@@ -973,14 +975,14 @@ Index: de de->en
   dick {{de-adj|dicker|dicksten}} :: thick
   dick {{de-adj|dicker|dicksten}} :: fat
 ===die===
-  die (article), definite, feminine and plural form of: der :: The; {declined form|der}
-    die Frau :: “the woman”
-    die Männer :: “the men”
   die (relative pronoun), relative or demonstrative :: {{context|in a subordinate clause as a relative pronoun}} That; which; who; whom; whose.
     Ich kenne eine Frau, die das kann. :: “I know a woman who can do that.”
   die (relative pronoun), relative or demonstrative :: {{context|as a demonstrative pronoun}} This one; that one; these ones; those ones; she; her; it; they; them
     die da :: “that one (or she or they) there”
   St. Vincent und die Grenadinen {de-proper noun} :: Saint Vincent and the Grenadines
+  die (article), definite, feminine and plural form of: der :: The; {declined form|der}
+    die Frau :: “the woman”
+    die Männer :: “the men”
 ===Die===
   Straße {{de-noun|g=f|plural=Straßen}} :: street
     Die Straße ist breit. :: The street is wide.
@@ -2970,9 +2972,9 @@ Index: de de->en
 ===San===
   San Marino {n} (proper noun) :: San Marino
 ===sang===
-  sang (verb form) :: {past tense|singen}
   (Low German) sang {m} (noun), Genitive: sanges :: the act of singing
   (Low German) sang {m} (noun), Genitive: sanges :: a chant, a song
+  sang (verb form) :: {past tense|singen}
 ===sanges===
   (Low German) sang {m} (noun), Genitive: sanges :: the act of singing
   (Low German) sang {m} (noun), Genitive: sanges :: a chant, a song

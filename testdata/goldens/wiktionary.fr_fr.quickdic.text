@@ -169,9 +169,13 @@ Index: fr fr->en
   abhorrent {fr-verb-form} :: {conjugation of|abhorrer|3|p|pres|ind}
   abhorrent {fr-verb-form} :: {conjugation of|abhorrer|3|p|pres|sub}
 ===abime===
-  abime {{fr-noun|m}} :: {{alternative form of|abîme}}
+  abime {{fr-noun|m}} :: {alternative form of|abîme}
+  abyme {{fr-noun|m}} :: {archaic} {alternative form of|abime}
+===abîme===
+  abime {{fr-noun|m}} :: {alternative form of|abîme}
 ===abit===
   (Old French) abit {{fro-noun|m|abiz|abiz}} :: item of clothing
+  (Old French) habit {{fro-noun|m|habiz|habiz}} :: {alternative form of|abit}
 ===abject===
   abject {fr-adj} :: {literary} Worthy of utmost contempt or disgust; vile; despicable.
   abject {fr-adj} :: {{literary|obsolete}} Of the lowest social position.
@@ -283,10 +287,11 @@ Index: fr fr->en
   abscond {fr-verb-form} :: {conjugation of|abscondre|3|s|pres|ind}
     il abscond :: he hides
 ===absconder===
-  absconder {fr-verb} :: {obsolete} {{alternative form of|abscondre}}
+  absconder {fr-verb} :: {obsolete} {alternative form of|abscondre}
 ===abscondre===
   abscond {fr-verb-form} :: {conjugation of|abscondre|3|s|pres|ind}
     il abscond :: he hides
+  absconder {fr-verb} :: {obsolete} {alternative form of|abscondre}
 ===absence===
   absence {{fr-noun|f}} :: absence (state of being absent or withdrawn).
 ===absent===
@@ -338,14 +343,14 @@ Index: fr fr->en
   (Old French) abusion {{fro-noun|f}} :: lie; untruth
     {{quote-book|circa 1250|title=Ci encoumence la desputizons dou croisie et dou descroisie.|author=Rutebeuf|passage=Tu dis si grant abusion<br>Que nus ne la porroit descrire[.]|translation=You say such lies<br>That no-one could describe them}} :: --
 ===abyme===
-  abyme {{fr-noun|m}} :: {archaic} {{alternative form of|abime}}
+  abyme {{fr-noun|m}} :: {archaic} {alternative form of|abime}
 ===abyssal===
   abyssal {{fr-adj-al|abyss}} :: abyssal
 ===acajou===
   acajou {{fr-noun|m}} :: cashew tree; also, its fruit
   acajou {{fr-noun|m}} :: mahogany tree; also, its timber
 ===acater===
-  (Old French) acater (verb) :: {Picardy} {{alternative form of|achater}}
+  (Old French) acater (verb) :: {Picardy} {alternative form of|achater}
 ===accent===
   accent {{fr-noun|m}} :: Accent (one's manner of speaking)
   accent {{fr-noun|m}} :: Accent (the symbol on a character)
@@ -435,6 +440,8 @@ Index: fr fr->en
   accuse :: {Ordinary second-person singular imperative present|accuser}
 ===ace===
   ace {{fr-noun|m}} :: {tennis} ace
+===achater===
+  (Old French) acater (verb) :: {Picardy} {alternative form of|achater}
 ===acidification===
   acidification {{fr-noun|f}} :: acidification.
 ===acre===
@@ -959,10 +966,10 @@ Index: fr fr->en
 ===blond===
   blonde {{fr-adj-form|f}} :: {feminine of|blond}.
 ===blonde===
-  blonde {{fr-adj-form|f}} :: {feminine of|blond}.
   blonde {{fr-noun|f}} :: blonde, female with blonde hair
   blonde {{fr-noun|f}} :: light beer
   blonde {{fr-noun|f}} :: {{Canada|informal}} girlfriend
+  blonde {{fr-adj-form|f}} :: {feminine of|blond}.
 ===boc===
   boc {{fr-noun|m}} :: {{context|Norman|_|dialect}} type of horse-drawn carriage
 ===bog===
@@ -1518,6 +1525,7 @@ Index: fr fr->en
   colon {{fr-noun|m}} :: camper (child in a colonie de vacances)
 ===color===
   (Old French) color {{fro-noun|f}} :: color, colour
+  (Old French) colour {{fro-noun|f}} :: {alternative form of|color}
 ===colore===
   colore {fr-verb-form} :: {conjugation of|colorer|1|s|pres|ind}
   colore {fr-verb-form} :: {conjugation of|colorer|3|s|pres|ind}
@@ -1531,9 +1539,9 @@ Index: fr fr->en
   colore {fr-verb-form} :: {conjugation of|colorer|3|s|pres|sub}
   colore {fr-verb-form} :: {conjugation of|colorer|2|s|imp}
 ===colour===
-  (Old French) colour {{fro-noun|f}} :: {{alternative form of|color}}
+  (Old French) colour {{fro-noun|f}} :: {alternative form of|color}
 ===colp===
-  (Old French) cop {{fro-noun|m|cos|cos}} :: {{alternative form of|colp}}
+  (Old French) cop {{fro-noun|m|cos|cos}} :: {alternative form of|colp}
 ===combien===
   en (pronoun) :: Used as the object of a verb to indicate an indefinite quantity; of it, of them.
     Tu as combien de livres ? J'en ai trois. :: How many books do you have? I have three (of them).
@@ -1549,15 +1557,15 @@ Index: fr fr->en
   con {{fr-noun|m|feminine=conne}} :: {{context|taboo|_|slang}} cunt
   con {{fr-noun|m|feminine=conne}} :: {{context|derogatory|_|slang}} A stupid person; arsehole (British)
   (Old French) con {{fro-noun|m}} :: {vulgar} cunt (human female genitalia)
-  (Old French) con (conjunction) :: {{alternative form of|conme}}
+  (Old French) con (conjunction) :: {alternative form of|conme}
 ===Condé===
   Condé-sur-Sarthe :: Small town near Alençon in France
 ===condition===
   condition {{fr-noun|f}} :: condition
     en bonne condition :: In good condition
 ===conme===
-  (Old French) cum (conjunction) :: {{alternative form of|conme}}
-  (Old French) con (conjunction) :: {{alternative form of|conme}}
+  (Old French) cum (conjunction) :: {alternative form of|conme}
+  (Old French) con (conjunction) :: {alternative form of|conme}
 ===connoisseur===
   connoisseur {{fr-noun|m}} :: {{obsolete spelling of|connaisseur}}
 ===connu===
@@ -1593,7 +1601,7 @@ Index: fr fr->en
   cool {fr-intj} :: cool! great!
 ===cop===
   cop {{fr-noun|m}} :: {informal} A friend, a pal.
-  (Old French) cop {{fro-noun|m|cos|cos}} :: {{alternative form of|colp}}
+  (Old French) cop {{fro-noun|m|cos|cos}} :: {alternative form of|colp}
 ===copula===
   copula {fr-verb-form} :: {conjugation of|copuler|3|s|past historic}
 ===copuler===
@@ -1656,7 +1664,7 @@ Index: fr fr->en
 ===culpa===
   mea culpa (interjection) :: mea culpa
 ===cum===
-  (Old French) cum (conjunction) :: {{alternative form of|conme}}
+  (Old French) cum (conjunction) :: {alternative form of|conme}
 ===cyan===
   cyan {{fr-noun|m}} :: cyan (color)
 ===cycle===
@@ -1994,12 +2002,12 @@ Index: fr fr->en
   duo {{fr-noun|m}} :: duo (combination of two things)
   duo {{fr-noun|m}} :: duet (a musical composition for two performers)
 ===dupe===
+  dupe {{fr-noun|f}} :: A person who has been deceived, see dupe.
   dupe {fr-verb-form} :: {conjugation of|duper|1|s|pres|ind}
   dupe {fr-verb-form} :: {conjugation of|duper|3|s|pres|ind}
   dupe {fr-verb-form} :: {conjugation of|duper|1|s|pres|sub}
   dupe {fr-verb-form} :: {conjugation of|duper|1|s|pres|sub}
   dupe {fr-verb-form} :: {conjugation of|duper|2|s|imp}
-  dupe {{fr-noun|f}} :: A person who has been deceived, see dupe.
 ===duper===
   dupe {fr-verb-form} :: {conjugation of|duper|1|s|pres|ind}
   dupe {fr-verb-form} :: {conjugation of|duper|3|s|pres|ind}
@@ -2347,14 +2355,14 @@ Index: fr fr->en
   avoir {{fr-verb|type=auxiliary}} :: to have (trick)
     On t'a eu. Tu t'es fait avoir. :: You've been had.
 ===EU===
-  EU {fr-proper noun} :: {{abbreviation of|États-Unis|nodot=1}} (United States)
+  EU {fr-proper noun} :: {{abbreviation of|États-Unis}} (United States)
 ===euro===
   euro {{fr-noun|m}} :: euro (currency)
 ===Europe===
   Europe {{fr-proper noun|f}} :: Europe
   Europe {{fr-proper noun|f}} :: Europa, a moon of Jupiter
 ===eve===
-  (Old French) eve {{fro-noun|f}} :: {{alternative form of|iaue|nodot=1}}; water
+  (Old French) eve {{fro-noun|f}} :: {alternative form of|iaue}; water
 ===éventuellement===
   éventuellement {fr-adv} :: possibly, maybe, perhaps
 ===existence===
@@ -2393,11 +2401,11 @@ Index: fr fr->en
     J'ai faim. :: I'm hungry.
     J'ai froid. :: I'm cold.
 ===faire===
-  laissez faire {{fr-noun-unc|m}} :: {rare} {{dated form of|laisser-faire}}
+  (Old French) fere (verb) :: {alternative form of|faire}
+    {{quote-book|year=circa 1180,|title=Perceval ou le conte du Graal|author=Chrétien de Troyes|passage=Sire, vostre prisoniers sui<br />por fere ce que vos voldroiz|translation=Sire, I am your prisoner<br />To do what you desire}} :: --
+  laissez faire {{fr-noun-unc|m}} :: {rare} {dated form of|laisser-faire}
   laissez faire {fr-verb-form} :: {Second-person plural indicative present form|laisser faire}
   laissez faire {fr-verb-form} :: {Second-person plural imperative present form|laisser faire}
-  (Old French) fere (verb) :: {{alternative form of|faire}}
-    {{quote-book|year=circa 1180,|title=Perceval ou le conte du Graal|author=Chrétien de Troyes|passage=Sire, vostre prisoniers sui<br />por fere ce que vos voldroiz|translation=Sire, I am your prisoner<br />To do what you desire}} :: --
   langue {{fr-noun|f}} :: {linguistics} language (system of communication using written or spoken words)
     la langue maternelle :: --
     faire parler la langue française :: Bertrand Barère
@@ -2433,8 +2441,8 @@ Index: fr fr->en
 ===Faso===
   Burkina Faso {{fr-proper noun|m}} :: Burkina Faso
 ===faux===
-  faux amis {m|p} :: {plural of|faux-ami}
   faux-ami {{fr-noun|m|sg=faux-ami}} :: Faux ami, false friend.
+  faux amis {m|p} :: {plural of|faux-ami}
   faux-amis (plural) {m|p} :: {plural of|faux-ami}
 ===femme===
   femme {{fr-noun|f}} :: woman
@@ -2448,7 +2456,7 @@ Index: fr fr->en
 ===fendu===
   bien fendu (adjective) :: {idiomatic} well cleft, (or long-legged)
 ===fere===
-  (Old French) fere (verb) :: {{alternative form of|faire}}
+  (Old French) fere (verb) :: {alternative form of|faire}
     {{quote-book|year=circa 1180,|title=Perceval ou le conte du Graal|author=Chrétien de Troyes|passage=Sire, vostre prisoniers sui<br />por fere ce que vos voldroiz|translation=Sire, I am your prisoner<br />To do what you desire}} :: --
 ===Fermat===
   de {fr-prep} :: 's (used to express property or association)
@@ -2474,20 +2482,20 @@ Index: fr fr->en
 ===final===
   finale {fr-adj-form} :: {feminine of|final}
 ===finale===
-  finale {fr-adj-form} :: {feminine of|final}
   finale {{fr-noun|f}} :: a final
+  finale {fr-adj-form} :: {feminine of|final}
 ===fiscal===
   fiscal {{fr-adj|mp=fiscaux}} :: fiscal, financial
 ===fit===
   fit {fr-verb-form} :: third-person singular indicative past historic of faire
 ===flame===
+  (Old French) flame {{fro-noun|f}} :: flame
+    {{quote-book|circa 1250|title=Ci encoumence la complainte d ou conte huede de nevers|author=Rutebeuf|passage=Senz redouteir l'infernal flame|translation=Without fearing the infernal flame}} :: --
   flame {fr-verb-form} :: {conjugation of|flamer|1|s|pres|ind}
   flame {fr-verb-form} :: {conjugation of|flamer|3|s|pres|ind}
   flame {fr-verb-form} :: {conjugation of|flamer|1|s|pres|sub}
   flame {fr-verb-form} :: {conjugation of|flamer|1|s|pres|sub}
   flame {fr-verb-form} :: {conjugation of|flamer|2|s|imp}
-  (Old French) flame {{fro-noun|f}} :: flame
-    {{quote-book|circa 1250|title=Ci encoumence la complainte d ou conte huede de nevers|author=Rutebeuf|passage=Senz redouteir l'infernal flame|translation=Without fearing the infernal flame}} :: --
 ===flamer===
   flame {fr-verb-form} :: {conjugation of|flamer|1|s|pres|ind}
   flame {fr-verb-form} :: {conjugation of|flamer|3|s|pres|ind}
@@ -2547,12 +2555,12 @@ Index: fr fr->en
     stade de football :: football stadium
 ===force===
   force {{fr-noun|f}} :: force.
+  (Old French) force {{fro-noun|f}} :: strength; might
   force {fr-verb-form} :: {conjugation of|forcer|1|s|pres|ind}
   force {fr-verb-form} :: {conjugation of|forcer|3|s|pres|ind}
   force {fr-verb-form} :: {conjugation of|forcer|1|s|pres|sub}
   force {fr-verb-form} :: {conjugation of|forcer|3|s|pres|sub}
   force {fr-verb-form} :: {conjugation of|forcer|2|s|imp}
-  (Old French) force {{fro-noun|f}} :: strength; might
 ===forcer===
   force {fr-verb-form} :: {conjugation of|forcer|1|s|pres|ind}
   force {fr-verb-form} :: {conjugation of|forcer|3|s|pres|ind}
@@ -2626,6 +2634,15 @@ Index: fr fr->en
 ===francs===
   franc {{fr-adj|feminine=franche}} :: full
     4 jours francs :: 4 full days
+===French===
+  (Old French) cum (conjunction) :: {alternative form of|conme}
+  (Old French) fere (verb) :: {alternative form of|faire}
+    {{quote-book|year=circa 1180,|title=Perceval ou le conte du Graal|author=Chrétien de Troyes|passage=Sire, vostre prisoniers sui<br />por fere ce que vos voldroiz|translation=Sire, I am your prisoner<br />To do what you desire}} :: --
+  (Old French) ke (pronoun) :: {alternative form of|que}
+  (Old French) ke (conjunction) :: {alternative form of|que}
+  (Old French) nuit {{fro-noun|f|nuiz|nuit|nuiz}} :: {alternative form of|noit}
+  (Old French) cop {{fro-noun|m|cos|cos}} :: {alternative form of|colp}
+  (Old French) con (conjunction) :: {alternative form of|conme}
 ===fricatif===
   fricative {{fr-adj-form|f}} :: {feminine of|fricatif}
 ===fricative===
@@ -2779,7 +2796,7 @@ Index: fr fr->en
   gyroscope {{fr-noun|m}} :: gyroscope
 ===habit===
   habit {{fr-noun|m}} :: article of clothing, garment, dress-coat, evening dress, tails, full dress
-  (Old French) habit {{fro-noun|m|habiz|habiz}} :: {{alternative form of|abit}}
+  (Old French) habit {{fro-noun|m|habiz|habiz}} :: {alternative form of|abit}
 ===habitable===
   habitable {fr-adj-mf} :: inhabitable
 ===habitais===
@@ -2837,6 +2854,8 @@ Index: fr fr->en
     fort en histoire :: good at history
 ===hobby===
   hobby {{fr-noun|m|pl=hobbies}} (alternative plural hobbys) :: hobby (activity)
+===hom===
+  (Old French) om {{fro-noun|m}} :: {alternative form of|hom}
 ===homme===
   homme de lettres (noun) :: man of letters, a literary man
   homme du monde (noun) :: man of the world, a worldly man
@@ -2884,6 +2903,8 @@ Index: fr fr->en
 ===IA===
   IA {f} :: (intelligence artificielle) AI
   IA {f} :: (insémination artificielle) AI
+===iaue===
+  (Old French) eve {{fro-noun|f}} :: {alternative form of|iaue}; water
 ===iceberg===
   iceberg {{fr-noun|m}} :: iceberg
 ===ici===
@@ -3055,8 +3076,8 @@ Index: fr fr->en
 ===infinitif===
   infinitive {{fr-adj-form|f}} :: {feminine of|infinitif}
 ===infinitive===
-  infinitive {{fr-adj-form|f}} :: {feminine of|infinitif}
   infinitive {f} (noun) :: infinitive clause (=proposition infinitive)
+  infinitive {{fr-adj-form|f}} :: {feminine of|infinitif}
 ===inflation===
   inflation {{fr-noun|f}} :: inflation.
 ===information===
@@ -3254,8 +3275,8 @@ Index: fr fr->en
 ===katana===
   katana {{fr-noun|m}} :: Japanese sword
 ===ke===
-  (Old French) ke (pronoun) :: {{alternative form of|que}}
-  (Old French) ke (conjunction) :: {{alternative form of|que}}
+  (Old French) ke (pronoun) :: {alternative form of|que}
+  (Old French) ke (conjunction) :: {alternative form of|que}
 ===KGB===
   KGB (proper noun), m :: KGB (the former Soviet State Security Committee)
 ===kilos===
@@ -3289,10 +3310,11 @@ Index: fr fr->en
   laid {fr-adj} :: physically ugly
   laid {fr-adj} :: morally corrupt
 ===laisser===
+  laissez faire {{fr-noun-unc|m}} :: {rare} {dated form of|laisser-faire}
   laissez faire {fr-verb-form} :: {Second-person plural indicative present form|laisser faire}
   laissez faire {fr-verb-form} :: {Second-person plural imperative present form|laisser faire}
 ===laissez===
-  laissez faire {{fr-noun-unc|m}} :: {rare} {{dated form of|laisser-faire}}
+  laissez faire {{fr-noun-unc|m}} :: {rare} {dated form of|laisser-faire}
   laissez faire {fr-verb-form} :: {Second-person plural indicative present form|laisser faire}
   laissez faire {fr-verb-form} :: {Second-person plural imperative present form|laisser faire}
 ===lait===
@@ -3794,6 +3816,9 @@ Index: fr fr->en
     Paris est vraiment belle la nuit :: Paris is really beautiful at night
 ===mole===
   mole {{fr-noun|f}} :: {{context|chemistry|physics}} Mole.
+===molt===
+  (Old French) mot {m} (adjective) :: {alternative form of|molt}
+  (Old French) mot (adverb) :: {alternative form of|molt}
 ===mon===
   de {fr-prep} :: 's (used to express property or association)
     Œuvres de Fermat :: Fermat’s Works
@@ -3815,8 +3840,8 @@ Index: fr fr->en
   mot {{fr-noun|m}} :: note, (short) message
   (Middle French) mot {{frm-noun|m}} :: word
   (Old French) mot {{fro-noun|m|moz|moz}} :: word
-  (Old French) mot {m} (adjective) :: {{alternative form of|molt}}
-  (Old French) mot (adverb) :: {{alternative form of|molt}}
+  (Old French) mot {m} (adjective) :: {alternative form of|molt}
+  (Old French) mot (adverb) :: {alternative form of|molt}
 ===mouflon===
   mouflon {{fr-noun|m}} :: mouflon
 ===multiplication===
@@ -3828,12 +3853,12 @@ Index: fr fr->en
   musical {{fr-adj|mp=musicaux}} :: musical
 ===musique===
   musique {{fr-noun|f}} :: music
+  (Old French) musique {{fro-noun|f}} :: music
   musique {fr-verb-form} :: {conjugation of|musiquer|1|s|pres|ind}
   musique {fr-verb-form} :: {conjugation of|musiquer|3|s|pres|ind}
   musique {fr-verb-form} :: {conjugation of|musiquer|1|s|pres|sub}
   musique {fr-verb-form} :: {conjugation of|musiquer|3|s|pres|sub}
   musique {fr-verb-form} :: {conjugation of|musiquer|2|s|imp}
-  (Old French) musique {{fro-noun|f}} :: music
   de (article) :: {indefinite} some; any (in questions or negatives)
     Je voudrais de la viande. :: I'd like some meat.
     Est-ce qu'il y a de la bonne musique ? :: Is there any good music?
@@ -3923,7 +3948,9 @@ Index: fr fr->en
   en {fr-prep} :: in (used to describe color)
     une photo en noir et blanc :: a photo in black and white
 ===noit===
-  (Old French) nuit {{fro-noun|f|nuiz|nuit|nuiz}} :: {{alternative form of|noit}}
+  (Old French) nuit {{fro-noun|f|nuiz|nuit|nuiz}} :: {alternative form of|noit}
+===nom===
+  (Old French) non {{fro-noun|m}} :: {alternative form of|nom}
 ===non===
   non {fr-adv} :: no
   non :: not
@@ -3931,7 +3958,7 @@ Index: fr fr->en
   non {fr-intj} :: no!
   (Middle French) non (interjection) :: no
   (Old French) non (interjection) :: no
-  (Old French) non {{fro-noun|m}} :: {{alternative form of|nom}}
+  (Old French) non {{fro-noun|m}} :: {alternative form of|nom}
 ===nonain===
   (Old French) none {f} (noun form) :: {Nominative singular|nonain}
 ===none===
@@ -3990,7 +4017,7 @@ Index: fr fr->en
 ===nuit===
   nuit {{fr-noun|f}} :: night
   nuit {fr-verb-form} :: {third person singular present|nuire}
-  (Old French) nuit {{fro-noun|f|nuiz|nuit|nuiz}} :: {{alternative form of|noit}}
+  (Old French) nuit {{fro-noun|f|nuiz|nuit|nuiz}} :: {alternative form of|noit}
   de {fr-prep} :: {{context|used attributively, often translated into English as a compound noun}}
     jus de pomme :: apple juice
     verre de vin :: glass of wine
@@ -4038,10 +4065,19 @@ Index: fr fr->en
   ogre {{fr-noun|m|f=ogresse}} :: {mythology} ogre
 ===oh===
   oh :: oh
+===Old===
+  (Old French) cum (conjunction) :: {alternative form of|conme}
+  (Old French) fere (verb) :: {alternative form of|faire}
+    {{quote-book|year=circa 1180,|title=Perceval ou le conte du Graal|author=Chrétien de Troyes|passage=Sire, vostre prisoniers sui<br />por fere ce que vos voldroiz|translation=Sire, I am your prisoner<br />To do what you desire}} :: --
+  (Old French) ke (pronoun) :: {alternative form of|que}
+  (Old French) ke (conjunction) :: {alternative form of|que}
+  (Old French) nuit {{fro-noun|f|nuiz|nuit|nuiz}} :: {alternative form of|noit}
+  (Old French) cop {{fro-noun|m|cos|cos}} :: {alternative form of|colp}
+  (Old French) con (conjunction) :: {alternative form of|conme}
 ===olive===
   olive {{fr-noun|f}} :: olive
 ===om===
-  (Old French) om {{fro-noun|m}} :: {{alternative form of|hom}}
+  (Old French) om {{fro-noun|m}} :: {alternative form of|hom}
 ===omelette===
   omelette {{fr-noun|f}} :: omelette
 ===on===
@@ -4098,8 +4134,10 @@ Index: fr fr->en
     circa 1170, {{w|Chrétien de Troyes}}, Érec et Énide: :: quel haste avez,<br />Qui a tel ore vos levez?
     What haste do you have :: --
     That wakes up at this time of day? :: --
+===oriant===
+  (Old French) orient {{fro-noun|m|-|orienz}} :: {alternative form of|oriant}
 ===orient===
-  (Old French) orient {{fro-noun|m|-|orienz}} :: {{alternative form of|oriant}}
+  (Old French) orient {{fro-noun|m|-|orienz}} :: {alternative form of|oriant}
 ===original===
   original {{fr-adj|mp=originaux}} :: original
   original {{fr-noun|m}} {m} :: An unusual or eccentric person
@@ -4200,9 +4238,9 @@ Index: fr fr->en
 ===parent===
   parent {{fr-noun|m}} :: parent, one’s father or mother
   parent {{fr-noun|m}} :: any person to which one is related
+  (Old French) parent {{fro-noun|m|parenz|parenz|parent}} :: parent
   parent {fr-verb-form} :: {conjugation of|parer|3|p|pres|ind}
   parent {fr-verb-form} :: {conjugation of|parer|3|p|pres|sub}
-  (Old French) parent {{fro-noun|m|parenz|parenz|parent}} :: parent
   parents {m|p} (plural) :: {plural of|parent}
 ===parents===
   parents {m|p} (plural) :: {plural of|parent}
@@ -4297,13 +4335,13 @@ Index: fr fr->en
   passage {{fr-noun|m}} :: A laid out way allowing to go across something.
   passage {{fr-noun|m}} :: An alley or alleyway off-limits to cars.
   passage {{fr-noun|m}} :: A paragraph or section of text or music.
+  (Old French) passage {{fro-noun|m}} :: passage (part of a route or journey)
+    {{quote-book|year=circa 1180|title=Lancelot ou le Chevalier de la charrette|author=Chrétien de Troyes|passage=Volez que je vos die gierres<br />Del passage com il est max ?|translation=Do you want me to tell you<br />Of the passage, how bad it is?}} :: --
   passage {fr-verb-form} :: {conjugation of|passager|1|s|pres|ind}
   passage {fr-verb-form} :: {conjugation of|passager|3|s|pres|ind}
   passage {fr-verb-form} :: {conjugation of|passager|1|s|pres|sub}
   passage {fr-verb-form} :: {conjugation of|passager|3|s|pres|sub}
   passage {fr-verb-form} :: {conjugation of|passager|2|s|imp}
-  (Old French) passage {{fro-noun|m}} :: passage (part of a route or journey)
-    {{quote-book|year=circa 1180|title=Lancelot ou le Chevalier de la charrette|author=Chrétien de Troyes|passage=Volez que je vos die gierres<br />Del passage com il est max ?|translation=Do you want me to tell you<br />Of the passage, how bad it is?}} :: --
 ===passager===
   passage {fr-verb-form} :: {conjugation of|passager|1|s|pres|ind}
   passage {fr-verb-form} :: {conjugation of|passager|3|s|pres|ind}
@@ -4418,11 +4456,11 @@ Index: fr fr->en
 ===plat===
   plate {{fr-adj-form|f}} :: {feminine|plat}
 ===plate===
-  plate {{fr-adj-form|f}} :: {feminine|plat}
   plate {{fr-noun|f}} :: Very small flat boat.
   plate {fr-adj-mf} :: {{Canada|informal}} Annoyingly boring.
     {{quote-book|year=1999|author=Chrystine Brouillet|title=Les Fiancées de l'Enfer|isbn=2-89021-363-3| page=204| passage="On va se mettre à ressembler aux gens qui racontent leur crisse de vie plate dans les émissions de télé débiles." — We're going to sound like those people who tell they frickin' boring lives on those idiotic tv shows.}} :: --
   plate {fr-adj-mf} :: {{Canada|informal}} Troublesome.
+  plate {{fr-adj-form|f}} :: {feminine|plat}
 ===pleine===
   poire {{fr-noun|f}} :: {informal} mush, face
     en pleine poire :: "straight in the face"
@@ -4658,8 +4696,8 @@ Index: fr fr->en
     {{usex|quatre-vingt-six|translation=eighty-six}} :: --
   quatre-vingts {{fr-noun-inv|m|head=quatre vingts}} :: eighty, 80.
 ===que===
-  (Old French) ke (pronoun) :: {{alternative form of|que}}
-  (Old French) ke (conjunction) :: {{alternative form of|que}}
+  (Old French) ke (pronoun) :: {alternative form of|que}
+  (Old French) ke (conjunction) :: {alternative form of|que}
   en (pronoun) :: Used as the object of a verb to indicate an indefinite quantity; of it, of them.
     Tu as combien de livres ? J'en ai trois. :: How many books do you have? I have three (of them).
     Y a-t-il beaucoup de pièces ? Oui. Il y en a beaucoup. :: Are there many rooms? Yes, there are many (of them).
@@ -4756,8 +4794,8 @@ Index: fr fr->en
   être {{fr-verb|type=auxiliary}} :: {auxiliary} Used to form the perfect and pluperfect tense of certain verbs (including all reflexive verbs)
     Après être allé au yoga, je suis rentré chez moi. :: After having gone to yoga, I came back home.
 ===représentant===
-  représentant (present participle) :: {present participle of|représenter}; representing
   représentant {{fr-noun|m|f=représentante}} :: representative
+  représentant (present participle) :: {present participle of|représenter}; representing
 ===représenter===
   représentant (present participle) :: {present participle of|représenter}; representing
 ===Réunion===
@@ -4777,7 +4815,9 @@ Index: fr fr->en
 ===Rica===
   Costa Rica {f} (proper noun) :: Costa Rica
 ===rice===
-  (Old French) rice {m|f} (adjective) :: {Picardy} {{alternative form of|riche}}
+  (Old French) rice {m|f} (adjective) :: {Picardy} {alternative form of|riche}
+===riche===
+  (Old French) rice {m|f} (adjective) :: {Picardy} {alternative form of|riche}
 ===ride===
   ride {{fr-noun|f}} :: wrinkle, line (on face etc.)
   ride {{fr-noun|f}} :: ripple, ridge
@@ -4888,15 +4928,15 @@ Index: fr fr->en
     I believe also that I had never listened so well, and that neither had he ever put so much patience into his explanations. :: --
 ===sale===
   sale {fr-adj-mf} :: dirty
+  (Old French) sale {{fro-noun|f}} :: room (subsection of a building)
+    circa 1170, {{w|Chrétien de Troyes}}, Érec et Énide: :: ... que la soe amie<br>Est la plus bele de la sale[.]
+    -... The his wife :: --
+    Is the most beautiful in the room :: --
   sale {fr-verb-form} :: {conjugation of|saler|1|s|pres|ind}
   sale {fr-verb-form} :: {conjugation of|saler|3|s|pres|ind}
   sale {fr-verb-form} :: {conjugation of|saler|1|s|pres|sub}
   sale {fr-verb-form} :: {conjugation of|saler|1|s|pres|sub}
   sale {fr-verb-form} :: {conjugation of|saler|2|s|imp}
-  (Old French) sale {{fro-noun|f}} :: room (subsection of a building)
-    circa 1170, {{w|Chrétien de Troyes}}, Érec et Énide: :: ... que la soe amie<br>Est la plus bele de la sale[.]
-    -... The his wife :: --
-    Is the most beautiful in the room :: --
 ===saler===
   sale {fr-verb-form} :: {conjugation of|saler|1|s|pres|ind}
   sale {fr-verb-form} :: {conjugation of|saler|3|s|pres|ind}
@@ -4990,8 +5030,8 @@ Index: fr fr->en
 ===Serbie===
   Serbie-et-Monténégro (proper noun) :: Serbia and Montenegro
 ===servant===
-  servant :: {present participle of|servir}
   servant {{fr-noun|m|f=servante}} :: servant
+  servant :: {present participle of|servir}
 ===servir===
   servant :: {present participle of|servir}
 ===ses===
@@ -12572,7 +12612,7 @@ Index: en en->fr
 ===statement===
   (Old French) brief {{fro-noun|m|briés|briés}} :: (short) letter or statement
 ===States===
-  EU {fr-proper noun} :: {{abbreviation of|États-Unis|nodot=1}} (United States)
+  EU {fr-proper noun} :: {{abbreviation of|États-Unis}} (United States)
 ===station===
   break {{fr-noun|mf}} :: estate car, station wagon
 ===stature===
@@ -13336,7 +13376,7 @@ Index: en en->fr
   sol {{fr-noun|m}} :: A Spanish-American gold or silver coin, now the main currency unit of Peru (also new sol), or a coin of this value.
   won {{fr-noun|m}} :: won (unit of currency)
 ===United===
-  EU {fr-proper noun} :: {{abbreviation of|États-Unis|nodot=1}} (United States)
+  EU {fr-proper noun} :: {{abbreviation of|États-Unis}} (United States)
 ===unseasoned===
   nature une [[brioche]] '''nature'''{fr-adj-mf} :: plain, unseasoned
     Brioche nature ou au sucre? :: --
@@ -13667,7 +13707,7 @@ Index: en en->fr
     abeilles sauvages et abeilles domestiques :: wild bees and domesticated bees
     essaim d’abeilles :: swarm of bees
 ===water===
-  (Old French) eve {{fro-noun|f}} :: {{alternative form of|iaue|nodot=1}}; water
+  (Old French) eve {{fro-noun|f}} :: {alternative form of|iaue}; water
   abord {{fr-noun|m}} :: {archaic} Arrival or accessibility by water.
 ===watercraft===
   tin {{fr-noun|m}} :: a wooden support, often used on watercraft

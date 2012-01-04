@@ -73,8 +73,8 @@ Index: it it->en
   abrade :: {conjugation of|abradere|3|s|pres|ind}
   abrase{f} :: {conjugation of|abradere|3|s|past historic}
 ===abrase===
-  abrase{f} :: {conjugation of|abradere|3|s|past historic}
   abrase{f} :: Plural of abraso
+  abrase{f} :: {conjugation of|abradere|3|s|past historic}
 ===abrasive===
   abrasive {f} :: Feminine plural form of abrasivo
 ===abrogare===
@@ -99,15 +99,15 @@ Index: it it->en
 ===accedere===
   accede :: {conjugation of|accedere|3|s|pres|ind}
 ===accelerando===
-  accelerando :: {gerund of|accelerare}
   accelerando {it-adv} :: accelerating
+  accelerando :: {gerund of|accelerare}
 ===accelerare===
   accelerando :: {gerund of|accelerare}
 ===accelerate===
-  accelerate {p} :: {feminine of|accelerato}
   accelerate :: second-person plural present tense of accelerare
   accelerate :: second-person plural imperative of accelerare
   accelerate :: feminine plural past participle of accelerare
+  accelerate {p} :: {feminine of|accelerato}
 ===accelerative===
   accelerative {f} :: Feminine plural form of accelerativo
 ===accelerato===
@@ -175,11 +175,11 @@ Index: it it->en
   accusato {m}, accusati {pl} :: accused person, accused
 ===accusato===
   accusato {m}, accusati {pl} :: accused person, accused
-  accusato {{it-pp|accusat}} :: {past participle of|accusare}
   accusato {{it-adj|accusat}} :: accused
+  accusato {{it-pp|accusat}} :: {past participle of|accusare}
 ===accuse===
-  accuse {f} :: {plural of|accusa}
   accusa {f}, accuse {pl} :: accusation
+  accuse {f} :: {plural of|accusa}
 ===acetone===
   acetone {m}, acetoni {pl} :: {organic compound} acetone
 ===acetoni===
@@ -297,8 +297,9 @@ Index: it it->en
 ===amai===
   amai (verb form) :: {first-person singular indicative past historic|amare}
 ===amar===
-  amar {it-verb} :: {{apocopic form of|amare}}
+  amar {it-verb} :: {apocopic form of|amare}
 ===amare===
+  amar {it-verb} :: {apocopic form of|amare}
   amai (verb form) :: {first-person singular indicative past historic|amare}
 ===amarezza===
   amarezza {f}, amarezze {pl} :: bitterness
@@ -436,8 +437,8 @@ Index: it it->en
   come :: as soon as
     Come arrivò... :: As soon as he arrived...
 ===arrogante===
-  arrogante :: {present participle of|arrogare}
   arrogante {{it-adj|arrogant|e|i}} :: arrogant
+  arrogante :: {present participle of|arrogare}
 ===arrogare===
   arrogante :: {present participle of|arrogare}
 ===Ascoli===
@@ -547,7 +548,9 @@ Index: it it->en
 ===basket===
   basket {m|inv} :: basketball
 ===batter===
-  batter (verb) :: {{apocopic form of|battere}}
+  batter (verb) :: {apocopic form of|battere}
+===battere===
+  batter (verb) :: {apocopic form of|battere}
 ===BCE===
   BCE {it-proper noun} :: ECB
 ===beare===
@@ -622,9 +625,9 @@ Index: it it->en
 ===bike===
   bike {f|inv} :: motorbike, motorcycle
 ===bio===
-  bio {inv} (adjective) :: {informal} {Abbreviation|biologico|nodot=1}; organic, biological
+  bio {inv} (adjective) :: {informal} {Abbreviation|biologico}; organic, biological
 ===biologico===
-  bio {inv} (adjective) :: {informal} {Abbreviation|biologico|nodot=1}; organic, biological
+  bio {inv} (adjective) :: {informal} {Abbreviation|biologico}; organic, biological
 ===Bissau===
   Guinea-Bissau {f} :: Guinea-Bissau
 ===bitter===
@@ -787,13 +790,17 @@ Index: it it->en
 ===canoe===
   canoe :: {plural of|canoa}
 ===cant===
-  cant (noun) {m|inv} :: {{apocopic form of|canto}}
+  cant (noun) {m|inv} :: {apocopic form of|canto}
+===canto===
+  cant (noun) {m|inv} :: {apocopic form of|canto}
 ===caracal===
   caracal (noun) {m|inv} :: caracal
 ===card===
   card {m|inv} :: card (identification, financial, SIM etc (but not playing card))
 ===cardinal===
-  cardinal (noun) {m|inv} :: {{apocopic form of|cardinale}}
+  cardinal (noun) {m|inv} :: {apocopic form of|cardinale}
+===cardinale===
+  cardinal (noun) {m|inv} :: {apocopic form of|cardinale}
 ===care===
   care (adjective form) {f|p} :: {feminine plural of|caro}
 ===carne===
@@ -813,13 +820,13 @@ Index: it it->en
   casa {f}, case {pl} :: Company, firm.
   case {f|p} :: {plural of|casa}
 ===case===
-  case {f|p} :: {plural of|casa}
   casa {f}, case {pl} :: house
   casa {f}, case {pl} :: home
   casa {f}, case {pl} :: shop
   casa {f}, case {pl} :: {{context|boardgame}} square
   casa {f}, case {pl} :: Family, dynasty, descent, extraction, stock, lineage, birth, origin, race (not human “race”, but meaning the preceding words).
   casa {f}, case {pl} :: Company, firm.
+  case {f|p} :: {plural of|casa}
 ===Caserta===
   Caserta {{it-proper noun|g=f}} :: Caserta (province)
   Caserta {{it-proper noun|g=f}} :: Caserta (town)
@@ -831,10 +838,10 @@ Index: it it->en
   castrato {m}, castrati {pl} :: wether
   castrato {m}, castrati {pl} :: mutton
 ===castrato===
-  castrato {{it-pp|castrat}} :: {past participle of|castrare}
   castrato {{it-adj|castrat}} :: castrated, gelded, neutered
   castrato {m}, castrati {pl} :: wether
   castrato {m}, castrati {pl} :: mutton
+  castrato {{it-pp|castrat}} :: {past participle of|castrare}
 ===Catania===
   Catania {{it-proper noun|g=f}} :: Catania (province)
   Catania {{it-proper noun|g=f}} :: Catania (town)
@@ -945,9 +952,10 @@ Index: it it->en
 ===colon===
   colon {m|inv} :: {{context|anatomy}} colon
 ===color===
-  color (noun) {m|inv} :: {{apocopic form of|colore}}
+  color (noun) {m|inv} :: {apocopic form of|colore}
 ===colore===
   colore {m}, colori {pl} :: colour
+  color (noun) {m|inv} :: {apocopic form of|colore}
 ===colori===
   colore {m}, colori {pl} :: colour
 ===come===
@@ -1100,8 +1108,8 @@ Index: it it->en
 ===curva===
   curve {f} :: {plural of|curva}
 ===curve===
-  curve {f} :: {plural of|curva}
   curve :: feminine plural of curvo
+  curve {f} :: {plural of|curva}
 ===Cusio===
   Verbano-Cusio-Ossola {it-proper noun} :: Verbano-Cusio-Ossola
 ===cute===
@@ -1165,23 +1173,23 @@ Index: it it->en
   do (verb form) :: {first-person singular indicative present tense|dare}
   dari {m} :: {plural of|dare}
 ===dari===
-  dari {m} :: {plural of|dare}
   dare {m}, dari {pl} :: debit
+  dari {m} :: {plural of|dare}
 ===dark===
   dark {inv} :: dark (used especially to describe a form of punk music)
 ===data===
   date {f} :: {plural of|data}
 ===date===
-  date {f} :: {plural of|data}
   date :: second-person plural present tense of dare
   date :: second-person plural imperative of dare
   date :: feminine plural of dato, past participle of dare
+  date {f} :: {plural of|data}
 ===dative===
   dative :: {Feminine plural|dativo}
 ===dativo===
   dative :: {Feminine plural|dativo}
 ===de===
-  de (contraction) :: {{apocopic form of|del}}
+  de (contraction) :: {apocopic form of|del}
     Michael Radford è il regista de "Il postino". :: "Michael Radford is the director of "Il Postino".
 ===deca===
   deca- (prefix) :: deca-
@@ -1313,9 +1321,9 @@ Index: it it->en
 ===divino===
   divine (adjective form) :: {feminine plural form|divino}
 ===do===
-  do (verb form) :: {first-person singular indicative present tense|dare}
   {{wikipedia|Do (nota)}}do {m} (noun) :: do, the musical note
   {{wikipedia|Do (nota)}}do {m} (noun) :: C (the musical note or key)
+  do (verb form) :: {first-person singular indicative present tense|dare}
 ===dodi===
   dodo {m}, dodi {pl} :: dodo
 ===dodici===
@@ -1356,7 +1364,7 @@ Index: it it->en
   e (conjunction) :: and
   Pesaro e Urbino {it-proper noun} :: Pesaro e Urbino
 ===è===
-  de (contraction) :: {{apocopic form of|del}}
+  de (contraction) :: {apocopic form of|del}
     Michael Radford è il regista de "Il postino". :: "Michael Radford is the director of "Il Postino".
   vero {{it-adj|ver}} :: true
     Se non è vero, è ben trovato. :: If it is not true, it is a good story.
@@ -1422,8 +1430,8 @@ Index: it it->en
 ===eradere===
   erase{f} :: {conjugation of|eradere|3|s|past historic}
 ===erase===
-  erase{f} :: {conjugation of|eradere|3|s|past historic}
   erase{f} :: Plural of eraso
+  erase{f} :: {conjugation of|eradere|3|s|past historic}
 ===ere===
   era {f}, ere {pl} :: age, epoch, period
   era {f}, ere {pl} :: {geology} era
@@ -1508,7 +1516,7 @@ Index: it it->en
 ===fans===
   fan {mf}, fans {pl} :: fan (admirer or follower)
 ===far===
-  far {it-verb} :: {{apocopic form of|fare}}
+  far {it-verb} :: {apocopic form of|fare}
 ===farad===
   farad (noun) {m|inv} :: farad
 ===fare===
@@ -1517,7 +1525,7 @@ Index: it it->en
   fa (verb form) :: Third-person singular indicative present form of fare.
   fa (verb form) :: Second-person singular imperative form of fare.
   face (verb form) :: {archaic} third-person singular indicative present of fare.
-  far {it-verb} :: {{apocopic form of|fare}}
+  far {it-verb} :: {apocopic form of|fare}
   fate (verb form) :: {second-person plural indicative present|fare}
   fate (verb form) :: {second-person plural imperative|fare}
 ===farmi===
@@ -1551,8 +1559,8 @@ Index: it it->en
 ===fila===
   file {f}{m}{inv} :: {plural of|fila}
 ===file===
-  file {f}{m}{inv} :: {plural of|fila}
   file {f}{m}{inv} :: {{context|computing}} file
+  file {f}{m}{inv} :: {plural of|fila}
 ===Filomena===
   bo :: An interjection expressing doubt or indecision.
     Viene Filomena stasera? Bo, non m’ha richiamato. :: Is Filomena coming tonight? I don’t know, she never called me back.
@@ -1652,8 +1660,8 @@ Index: it it->en
 ===gaffa===
   gaffe {f}{f|inv} :: {plural of|gaffa}
 ===gaffe===
-  gaffe {f}{f|inv} :: {plural of|gaffa}
   gaffe {f}{f|inv} :: gaffe, blunder, boob
+  gaffe {f}{f|inv} :: {plural of|gaffa}
 ===gallare===
   gallo :: {conjugation of|gallare|1|s|pres|ind}
 ===galli===
@@ -1733,8 +1741,8 @@ Index: it it->en
 ===graduato===
   graduate :: {[[feminine|Feminine]] plural|graduato}
 ===graffiti===
-  graffiti {m|p} :: {plural of|graffito}
   graffiti {m} :: Plural of graffito
+  graffiti {m|p} :: {plural of|graffito}
 ===graffito===
   graffiti {m|p} :: {plural of|graffito}
 ===grate===
@@ -1749,8 +1757,8 @@ Index: it it->en
   grazie {f} :: {plural of|grazia}
 ===grazie===
   grazie (interjection) :: thank you, thanks!
-  grazie {f} :: {plural of|grazia}
   grazie {f} :: thanks to, because of
+  grazie {f} :: {plural of|grazia}
 ===Grenada===
   Grenada {f} :: Grenada
 ===Grosseto===
@@ -1782,7 +1790,7 @@ Index: it it->en
   ha! :: ah! (usually ironic or sarcastic)
   bo :: An interjection expressing doubt or indecision.
     Viene Filomena stasera? Bo, non m’ha richiamato. :: Is Filomena coming tonight? I don’t know, she never called me back.
-  ne (contraction) :: {{apocopic form of|nel}}
+  ne (contraction) :: {apocopic form of|nel}
     Massimo Troisi ha vinto un oscar per la sua interpretazione ne "Il postino". :: "Massimo Troisi won an Oscar for his performance in "Il Postino".
 ===hai===
   dove (conjunction) :: where
@@ -1834,11 +1842,11 @@ Index: it it->en
   il- (prefix) :: Variant of in- before the letter "l"
   {Italian definite articles}i {m|p} (article), singular: il :: the (see the usage notes)
 ===Il===
-  de (contraction) :: {{apocopic form of|del}}
+  de (contraction) :: {apocopic form of|del}
     Michael Radford è il regista de "Il postino". :: "Michael Radford is the director of "Il Postino".
   libero {{it-adj|liber}} :: clear, unobstructed (without blockages)
     Il passaggio era libero. :: The passage was clear.
-  ne (contraction) :: {{apocopic form of|nel}}
+  ne (contraction) :: {apocopic form of|nel}
     Massimo Troisi ha vinto un oscar per la sua interpretazione ne "Il postino". :: "Massimo Troisi won an Oscar for his performance in "Il Postino".
 ===immature===
   immature {p} :: {feminine of|immaturo}
@@ -1938,7 +1946,7 @@ Index: it it->en
   libero {{it-adj|liber}} :: free (that does not have to be paid for)
     Ingresso libero. :: Free admission.
 ===interpretazione===
-  ne (contraction) :: {{apocopic form of|nel}}
+  ne (contraction) :: {apocopic form of|nel}
     Massimo Troisi ha vinto un oscar per la sua interpretazione ne "Il postino". :: "Massimo Troisi won an Oscar for his performance in "Il Postino".
 ===interviste===
   da (preposition) :: from
@@ -1979,8 +1987,9 @@ Index: it it->en
   future (adjective form) {f|p} :: {feminine plural of|futuro}
   superlative {f} :: {feminine plural of|superlativo}
   comparative {f} :: {feminine plural of|comparativo}
+  far {it-verb} :: {apocopic form of|fare}
   once {f|p} :: {plural of|oncia}
-  ti (pronoun) :: {reflexive} {second-person singular|si|nodot=1}; you
+  ti (pronoun) :: {reflexive} {second-person singular|si}; you
   sole (adjective form) {f} :: {Feminine plural form|solo}
   sole {f} :: {plural of|sola}
   province {f|p} :: {plural of|provincia}
@@ -2115,9 +2124,9 @@ Index: it it->en
 ===laureato===
   laureate (verb) :: {[[feminine|Feminine]] plural|laureato}
 ===lava===
+  lava {f}, lave {pl} :: lava
   lava (verb form) :: {conjugation of|lavare|3|s|pres|ind}
   lava (verb form) :: {conjugation of|lavare|2|s|imp}
-  lava {f}, lave {pl} :: lava
 ===lavare===
   lava (verb form) :: {conjugation of|lavare|3|s|pres|ind}
   lava (verb form) :: {conjugation of|lavare|2|s|imp}
@@ -2304,13 +2313,14 @@ Index: it it->en
 ===mail===
   mail {f|inv} :: email
 ===mal===
-  mal {m} (noun) {inv} :: {{apocopic form of|male}}
+  mal {m} (noun) {inv} :: {apocopic form of|male}
 ===Malawi===
   Malawi {m} :: Malawi
 ===male===
   male {it-adv} (comparative: peggio; superlative: malissimo) :: badly, wrongly
   male {m}, mali {pl} :: evil, harm
   male {m}, mali {pl} :: pain, ache, illness, sickness, disease
+  mal {m} (noun) {inv} :: {apocopic form of|male}
 ===mali===
   male {m}, mali {pl} :: evil, harm
   male {m}, mali {pl} :: pain, ache, illness, sickness, disease
@@ -2368,7 +2378,7 @@ Index: it it->en
 ===Massa===
   Massa Carrara {it-proper noun} :: Massa Carrara
 ===Massimo===
-  ne (contraction) :: {{apocopic form of|nel}}
+  ne (contraction) :: {apocopic form of|nel}
     Massimo Troisi ha vinto un oscar per la sua interpretazione ne "Il postino". :: "Massimo Troisi won an Oscar for his performance in "Il Postino".
 ===Matera===
   Matera {{it-proper noun|g=f}} :: Matera (province)
@@ -2388,7 +2398,9 @@ Index: it it->en
 ===mele===
   mela {f}, mele {pl} :: apple (fruit)
 ===men===
-  men (adverb) :: {{apocopic form of|meno}}
+  men (adverb) :: {apocopic form of|meno}
+===meno===
+  men (adverb) :: {apocopic form of|meno}
 ===menu===
   menu {m} (noun) {inv} :: menu
 ===meri===
@@ -2410,7 +2422,7 @@ Index: it it->en
 ===miasmi===
   miasma {m}, miasmi {pl} :: miasma
 ===Michael===
-  de (contraction) :: {{apocopic form of|del}}
+  de (contraction) :: {apocopic form of|del}
     Michael Radford è il regista de "Il postino". :: "Michael Radford is the director of "Il Postino".
 ===Micronesia===
   Micronesia {f} :: Micronesia
@@ -2554,8 +2566,8 @@ Index: it it->en
 ===natura===
   nature {f} :: {plural of|natura}
 ===nature===
-  nature {f} :: {plural of|natura}
   nature {inv} :: natural
+  nature {f} :: {plural of|natura}
 ===Nauru===
   Nauru {m} :: Nauru
 ===navigare===
@@ -2570,7 +2582,7 @@ Index: it it->en
     Cosa ne pensi? :: “What do you think of it?”
   ne (pronoun) :: of them (sometimes not translated in English)
     Ce ne sono due. :: “There are two (of them).”
-  ne (contraction) :: {{apocopic form of|nel}}
+  ne (contraction) :: {apocopic form of|nel}
     Massimo Troisi ha vinto un oscar per la sua interpretazione ne "Il postino". :: "Massimo Troisi won an Oscar for his performance in "Il Postino".
 ===Ne===
   ne {it-adv} :: from there
@@ -2596,6 +2608,9 @@ Index: it it->en
 ===negro===
   negro {{it-adj|negr}} :: black, coloured
   negro {m}, negri {pl} :: black, coloured
+===nel===
+  ne (contraction) :: {apocopic form of|nel}
+    Massimo Troisi ha vinto un oscar per la sua interpretazione ne "Il postino". :: "Massimo Troisi won an Oscar for his performance in "Il Postino".
 ===nell===
   Reggio nell'Emilia {{it-proper noun|head=Reggio nell'Emilia}} :: Reggio nell'Emilia (province)
   Reggio nell'Emilia {{it-proper noun|head=Reggio nell'Emilia}} :: Reggio nell'Emilia (town)
@@ -2704,18 +2719,19 @@ Index: it it->en
 ===opero===
   opero :: first-person singular present tense of operare
 ===or===
-  or {it-adv} :: {{apocopic form of|ora}}
+  or {it-adv} :: {apocopic form of|ora}
 ===ora===
+  or {it-adv} :: {apocopic form of|ora}
   ore :: {plural of|ora} (hours)
 ===ordinata===
   ordinate {f} :: {plural of|ordinata}
 ===ordinate===
-  ordinate {f} :: {plural of|ordinata}
-  ordinate {p} :: {feminine of|ordinato}
   ordinate :: second-person plural present tense of ordinare
   ordinate :: second-person plural present subjunctive of ordinare
   ordinate :: second-person plural imperative of ordinare
   ordinate :: feminine plural past participle of ordinare
+  ordinate {f} :: {plural of|ordinata}
+  ordinate {p} :: {feminine of|ordinato}
 ===ordinato===
   ordinate {p} :: {feminine of|ordinato}
 ===ore===
@@ -2728,7 +2744,7 @@ Index: it it->en
 ===ortoepie===
   ortoepia {f}, ortoepie {pl} :: orthoepy
 ===oscar===
-  ne (contraction) :: {{apocopic form of|nel}}
+  ne (contraction) :: {apocopic form of|nel}
     Massimo Troisi ha vinto un oscar per la sua interpretazione ne "Il postino". :: "Massimo Troisi won an Oscar for his performance in "Il Postino".
 ===Oslo===
   Oslo {{it-proper noun|g=f}} :: Oslo
@@ -2800,10 +2816,10 @@ Index: it it->en
   parole {f|p} :: {plural of|parola}
     Ci vogliono fatti e non parole. :: Action is needed, not words.
 ===parole===
-  parole {f|p} :: {plural of|parola}
-    Ci vogliono fatti e non parole. :: Action is needed, not words.
   parole {f|p} :: {{context|of a song}} lyrics, words
     Musica di Paolo, parole di Lorenzo :: Music by Paolo, lyrics by Lorenzo.
+  parole {f|p} :: {plural of|parola}
+    Ci vogliono fatti e non parole. :: Action is needed, not words.
 ===party===
   party {m|inv} :: party (social gathering)
 ===pascal===
@@ -2906,7 +2922,7 @@ Index: it it->en
 ===pie===
   pie {f} :: Feminine plural form of pio
 ===Pietro===
-  san (noun), apocopate {m|inv} :: {{context|used before a consonant}} {{apocopic form of|santo}} saint
+  san (noun), apocopate {m|inv} :: {{context|used before a consonant}} {apocopic form of|santo} saint
     San Pietro :: “Saint Peter”
 ===pipa===
   pipe {f} :: {plural of|pipa}
@@ -2926,8 +2942,8 @@ Index: it it->en
 ===pizzicati===
   pizzicato {m}, pizzicati {pl} :: {{context|music}} pizzicato
 ===pizzicato===
-  pizzicato {{it-pp|pizzicat}} :: {past participle of|pizzicare}
   pizzicato {m}, pizzicati {pl} :: {{context|music}} pizzicato
+  pizzicato {{it-pp|pizzicat}} :: {past participle of|pizzicare}
 ===plasma===
   plasma {m}, plasmi {pl} :: {{context|physics|biology}} plasma
   plasma :: {conjugation of|plasmare|3|s|pres|ind}
@@ -2973,9 +2989,9 @@ Index: it it->en
   porto {m} ({f} porta, {m} {p} porti, {m} {f} porte) :: past participle of porgere
   porto :: first-person singular present tense of portare
 ===postino===
-  de (contraction) :: {{apocopic form of|del}}
+  de (contraction) :: {apocopic form of|del}
     Michael Radford è il regista de "Il postino". :: "Michael Radford is the director of "Il Postino".
-  ne (contraction) :: {{apocopic form of|nel}}
+  ne (contraction) :: {apocopic form of|nel}
     Massimo Troisi ha vinto un oscar per la sua interpretazione ne "Il postino". :: "Massimo Troisi won an Oscar for his performance in "Il Postino".
 ===postulare===
   postulate :: {conjugation of|postulare|2|p|pres|ind}
@@ -2997,8 +3013,8 @@ Index: it it->en
 ===precidere===
   precise {f} :: {conjugation of|precidere|3|s|past historic}
 ===precise===
-  precise {p} :: {feminine of|preciso}
   precise {f} :: Plural of preciso
+  precise {p} :: {feminine of|preciso}
   precise {f} :: {conjugation of|precidere|3|s|past historic}
 ===preciso===
   precise {p} :: {feminine of|preciso}
@@ -3087,7 +3103,6 @@ Index: it it->en
   pupa {f}, pupe {pl} :: doll (child's toy)
   pupa {f}, pupe {pl} :: pupa
 ===pure===
-  pure {p} :: {feminine plural of|puro}
   pure {it-adv} :: too, also, as well
   pure {it-adv} :: well, surely
   pure {it-adv} :: please, by all means
@@ -3097,6 +3112,7 @@ Index: it it->en
     (with formal subjunctive-imperative) Lei parli pure: speak if you like :: --
   pure (conjunction) :: even though, even if, although
   pure (conjunction) :: nevertheless
+  pure {p} :: {feminine plural of|puro}
 ===puro===
   pure {p} :: {feminine plural of|puro}
 ===Python===
@@ -3146,7 +3162,7 @@ Index: it it->en
 ===radar===
   radar {m|inv} :: radar
 ===Radford===
-  de (contraction) :: {{apocopic form of|del}}
+  de (contraction) :: {apocopic form of|del}
     Michael Radford è il regista de "Il postino". :: "Michael Radford is the director of "Il Postino".
 ===radi===
   radio {m}, radi {pl} :: {skeleton} radius
@@ -3176,8 +3192,8 @@ Index: it it->en
   rata {f}, rate {pl} :: instalment
   rate {f} :: {plural of|rata}
 ===rate===
-  rate {f} :: {plural of|rata}
   rata {f}, rate {pl} :: instalment
+  rate {f} :: {plural of|rata}
 ===Ravenna===
   Ravenna {{it-proper noun|g=f}} :: Ravenna (province)
   Ravenna {{it-proper noun|g=f}} :: Ravenna (town)
@@ -3212,7 +3228,7 @@ Index: it it->en
   regina {f}, regine {pl} :: queen (monarch, male homosexual)
   regina {f}, regine {pl} :: {chess} queen
 ===regista===
-  de (contraction) :: {{apocopic form of|del}}
+  de (contraction) :: {apocopic form of|del}
     Michael Radford è il regista de "Il postino". :: "Michael Radford is the director of "Il Postino".
 ===relegare===
   relegate :: {conjugation of|relegare|2|p|pres|ind}
@@ -3312,13 +3328,13 @@ Index: it it->en
   rosa :: {feminine of|roso}
   rose {f} {p} :: {plural of|rosa}
 ===rose===
-  rose {f} {p} :: {plural of|rosa}
-  rose :: {conjugation of|rodere|3|s|past historic}
   rose :: Feminine plural past participle of rodere.
   rosa {f}, rose {pl} :: rose (flower)
   rosa {f}, rose {pl} :: pink (color)
   rosa {f}, rose {pl} :: shortlist
   rosa {f}, rose {pl} :: {sports} team members
+  rose {f} {p} :: {plural of|rosa}
+  rose :: {conjugation of|rodere|3|s|past historic}
 ===roso===
   rosa :: {feminine of|roso}
 ===round===
@@ -3345,8 +3361,8 @@ Index: it it->en
   sale {f} :: {plural of|sala}
 ===sale===
   sale {m}, sali {pl} :: salt, sal
-  sale {f} :: {plural of|sala}
   sale :: third-person singular indicative present tense of salire
+  sale {f} :: {plural of|sala}
 ===Salerno===
   Salerno {{it-proper noun|g=f}} :: Salerno (province)
   Salerno {{it-proper noun|g=f}} :: Salerno (town)
@@ -3362,21 +3378,24 @@ Index: it it->en
   Samoa {{it-proper noun|g=f}} :: Samoa
 ===san===
   san (noun) {m|f|inv} :: san (Greek letter)
-  san (noun), apocopate {m|inv} :: {{context|used before a consonant}} {{apocopic form of|santo}} saint
+  san (noun), apocopate {m|inv} :: {{context|used before a consonant}} {apocopic form of|santo} saint
     San Pietro :: “Saint Peter”
 ===San===
   San Marino {{it-proper noun|g=m}} :: San Marino
-  san (noun), apocopate {m|inv} :: {{context|used before a consonant}} {{apocopic form of|santo}} saint
+  san (noun), apocopate {m|inv} :: {{context|used before a consonant}} {apocopic form of|santo} saint
     San Pietro :: “Saint Peter”
 ===sana===
-  sana {f} (adjective form) :: {feminine of|sano|nodot=1}; healthy, sound.
+  sana {f} (adjective form) :: {feminine of|sano}; healthy, sound.
   sana (verb form) :: {conjugation of|sanare|3|s|pres|ind}
   sana (verb form) :: {conjugation of|sanare|2|s|imp}
 ===sanare===
   sana (verb form) :: {conjugation of|sanare|3|s|pres|ind}
   sana (verb form) :: {conjugation of|sanare|2|s|imp}
 ===sano===
-  sana {f} (adjective form) :: {feminine of|sano|nodot=1}; healthy, sound.
+  sana {f} (adjective form) :: {feminine of|sano}; healthy, sound.
+===santo===
+  san (noun), apocopate {m|inv} :: {{context|used before a consonant}} {apocopic form of|santo} saint
+    San Pietro :: “Saint Peter”
 ===Sassari===
   Sassari {{it-proper noun|g=f}} :: Sassari (province)
   Sassari {{it-proper noun|g=f}} :: Sassari (town)
@@ -3516,7 +3535,7 @@ Index: it it->en
     Ci vuole un po’ di tempo per abituarsi (It takes a while to become accustomed) :: --
     A Luca piace ubriacarsi (Luca likes to get drunk) :: --
   ni {it-adv} :: {informal} Neither yes nor no (a play on no and si)
-  ti (pronoun) :: {reflexive} {second-person singular|si|nodot=1}; you
+  ti (pronoun) :: {reflexive} {second-person singular|si}; you
 ===sì===
   sì {it-adv} :: yes
 ===Siena===
@@ -3568,13 +3587,14 @@ Index: it it->en
 ===sol===
   {{wikipedia|Sol (nota)}}sol {m|inv} (noun) :: sol (musical note, colloid)
   {{wikipedia|Sol (nota)}}sol {m|inv} (noun) :: G (musical note and key)
-  {{wikipedia|Sol (nota)}}sol {m|inv} (noun) :: {{apocopic form of|sole}}
+  {{wikipedia|Sol (nota)}}sol {m|inv} (noun) :: {apocopic form of|sole}
 ===sola===
   sole {f} :: {plural of|sola}
 ===sole===
   sole {m}, soli {pl} :: sun
   sole (adjective form) {f} :: {Feminine plural form|solo}
   sole {f} :: {plural of|sola}
+  {{wikipedia|Sol (nota)}}sol {m|inv} (noun) :: {apocopic form of|sole}
 ===soli===
   sole {m}, soli {pl} :: sun
 ===solo===
@@ -3661,7 +3681,7 @@ Index: it it->en
 ===stridere===
   stride (verb form) :: {conjugation of|stridere|3|s|pres|ind}
 ===sua===
-  ne (contraction) :: {{apocopic form of|nel}}
+  ne (contraction) :: {apocopic form of|nel}
     Massimo Troisi ha vinto un oscar per la sua interpretazione ne "Il postino". :: "Massimo Troisi won an Oscar for his performance in "Il Postino".
 ===sublimare===
   sublimate :: {conjugation of|sublimare|2|p|pres|ind}
@@ -3791,10 +3811,10 @@ Index: it it->en
 ===theta===
   theta (noun) {m|f|inv} :: theta (Greek letter)
 ===ti===
-  ti (pronoun) :: {objective|tu|nodot=1}; you
-  ti (pronoun) :: {reflexive} {second-person singular|si|nodot=1}; you
   {{wikipedia|Ti (nota)}}ti {{{m|inv}}} (noun) :: {music} ti (note)
   {{wikipedia|Ti (nota)}}ti {{{m|inv}}} (noun) :: {music} B (note and scale)
+  ti (pronoun) :: {objective|tu}; you
+  ti (pronoun) :: {reflexive} {second-person singular|si}; you
 ===tigre===
   tigre {f}, tigri {pl} :: tiger (male)
   tigre {f}, tigri {pl} :: tigress (female)
@@ -3822,14 +3842,14 @@ Index: it it->en
   torso {m}, torsi {pl} :: torso
 ===torta===
   torta {f}, torte {pl} :: pie, tart, cake or similar
-  torta {s} :: {feminine of|torto}
   torta :: feminine singular past participle of torcere
+  torta {s} :: {feminine of|torto}
   torte :: {plural of|torta}
 ===torte===
-  torte :: {plural of|torta}
-  torte {p} :: {feminine of|torto}
   torte :: feminine plural past participle of torcere
   torta {f}, torte {pl} :: pie, tart, cake or similar
+  torte :: {plural of|torta}
+  torte {p} :: {feminine of|torto}
 ===torto===
   torta {s} :: {feminine of|torto}
   torte {p} :: {feminine of|torto}
@@ -3877,7 +3897,7 @@ Index: it it->en
 ===trite===
   trite {f} :: Feminine plural form of trito
 ===Troisi===
-  ne (contraction) :: {{apocopic form of|nel}}
+  ne (contraction) :: {apocopic form of|nel}
     Massimo Troisi ha vinto un oscar per la sua interpretazione ne "Il postino". :: "Massimo Troisi won an Oscar for his performance in "Il Postino".
 ===trovato===
   vero {{it-adj|ver}} :: true
@@ -3892,7 +3912,7 @@ Index: it it->en
 ===tu===
   tu (pronoun), second person singular :: you (singular); thou
   te (pronoun) :: (emphasised objective of tu) you
-  ti (pronoun) :: {objective|tu|nodot=1}; you
+  ti (pronoun) :: {objective|tu}; you
 ===tuba===
   tuba {f}, tube {pl} :: {{context|musical instruments}} tuba
   tuba {f}, tube {pl} :: top hat
@@ -3965,9 +3985,9 @@ Index: it it->en
   uva {f}, uve {pl} :: (collective noun) grapes
   uve {f|p} :: {plural of|uva}
 ===uve===
-  uve {f|p} :: {plural of|uva}
   uva {f}, uve {pl} :: grape
   uva {f}, uve {pl} :: (collective noun) grapes
+  uve {f|p} :: {plural of|uva}
 ===Uzbekistan===
   Uzbekistan {m} :: Uzbekistan
 ===v===
@@ -4074,7 +4094,7 @@ Index: it it->en
 ===Vietnam===
   Vietnam {m} :: Vietnam
 ===vinto===
-  ne (contraction) :: {{apocopic form of|nel}}
+  ne (contraction) :: {apocopic form of|nel}
     Massimo Troisi ha vinto un oscar per la sua interpretazione ne "Il postino". :: "Massimo Troisi won an Oscar for his performance in "Il Postino".
 ===vita===
   vita {f} (noun), plural: vite :: life
@@ -4669,7 +4689,7 @@ Index: en en->it
 ===bike===
   bici {f}, bici {pl} :: short word for bicicletta bike (pushbike)
 ===biological===
-  bio {inv} (adjective) :: {informal} {Abbreviation|biologico|nodot=1}; organic, biological
+  bio {inv} (adjective) :: {informal} {Abbreviation|biologico}; organic, biological
 ===bird===
   volatile {m}, volatili {pl} :: bird
   volo {m}, voli {pl} :: flight (of a bird; trip in a plane)
@@ -5295,7 +5315,7 @@ Index: en en->it
 ===direction===
   maestoso {{it-adj|maestos}} :: {music} A direction to perform a passage or piece of music in a dignified manner.
 ===director===
-  de (contraction) :: {{apocopic form of|del}}
+  de (contraction) :: {apocopic form of|del}
     Michael Radford è il regista de "Il postino". :: "Michael Radford is the director of "Il Postino".
 ===disability===
   handicap {m|inv} :: handicap (disability; horserace)
@@ -5950,7 +5970,7 @@ Index: en en->it
   testa {f}, teste {pl} :: {skeleton} head (of a bone)
   antenna {f}, antenne {pl} :: feeler organ on the head of an insect: antenna
 ===healthy===
-  sana {f} (adjective form) :: {feminine of|sano|nodot=1}; healthy, sound.
+  sana {f} (adjective form) :: {feminine of|sano}; healthy, sound.
 ===heard===
   ne (pronoun) :: of it
     Ne ho sentito parlare. :: “I have heard talk of it.”
@@ -5986,7 +6006,7 @@ Index: en en->it
     Marco si è rotto il braccio (Marco has broken his arm) :: --
     Si è svegliata alle nove (She woke up at nine) :: --
 ===his===
-  ne (contraction) :: {{apocopic form of|nel}}
+  ne (contraction) :: {apocopic form of|nel}
     Massimo Troisi ha vinto un oscar per la sua interpretazione ne "Il postino". :: "Massimo Troisi won an Oscar for his performance in "Il Postino".
 ===historic===
   depose :: third-person singular past historic of deporre
@@ -6068,9 +6088,9 @@ Index: en en->it
   se (conjunction) :: if
     Se non è vero, è ben trovato. :: If it is not true, it is a good story.
 ===Il===
-  de (contraction) :: {{apocopic form of|del}}
+  de (contraction) :: {apocopic form of|del}
     Michael Radford è il regista de "Il postino". :: "Michael Radford is the director of "Il Postino".
-  ne (contraction) :: {{apocopic form of|nel}}
+  ne (contraction) :: {apocopic form of|nel}
     Massimo Troisi ha vinto un oscar per la sua interpretazione ne "Il postino". :: "Massimo Troisi won an Oscar for his performance in "Il Postino".
 ===illness===
   male {m}, mali {pl} :: pain, ache, illness, sickness, disease
@@ -6579,7 +6599,7 @@ Index: en en->it
 ===Massa===
   Massa Carrara {it-proper noun} :: Massa Carrara
 ===Massimo===
-  ne (contraction) :: {{apocopic form of|nel}}
+  ne (contraction) :: {apocopic form of|nel}
     Massimo Troisi ha vinto un oscar per la sua interpretazione ne "Il postino". :: "Massimo Troisi won an Oscar for his performance in "Il Postino".
 ===mast===
   albero {m}, alberi {pl} :: {nautical} mast
@@ -6643,7 +6663,7 @@ Index: en en->it
 ===miasma===
   miasma {m}, miasmi {pl} :: miasma
 ===Michael===
-  de (contraction) :: {{apocopic form of|del}}
+  de (contraction) :: {apocopic form of|del}
     Michael Radford è il regista de "Il postino". :: "Michael Radford is the director of "Il Postino".
 ===Micronesia===
   Micronesia {f} :: Micronesia
@@ -7003,7 +7023,7 @@ Index: en en->it
 ===organ===
   antenna {f}, antenne {pl} :: feeler organ on the head of an insect: antenna
 ===organic===
-  bio {inv} (adjective) :: {informal} {Abbreviation|biologico|nodot=1}; organic, biological
+  bio {inv} (adjective) :: {informal} {Abbreviation|biologico}; organic, biological
 ===organization===
   boss {m|inv} :: boss (leader of a business, company or criminal organization)
 ===origin===
@@ -7016,7 +7036,7 @@ Index: en en->it
 ===orthoepy===
   ortoepia {f}, ortoepie {pl} :: orthoepy
 ===Oscar===
-  ne (contraction) :: {{apocopic form of|nel}}
+  ne (contraction) :: {apocopic form of|nel}
     Massimo Troisi ha vinto un oscar per la sua interpretazione ne "Il postino". :: "Massimo Troisi won an Oscar for his performance in "Il Postino".
 ===Oslo===
   Oslo {{it-proper noun|g=f}} :: Oslo
@@ -7159,7 +7179,7 @@ Index: en en->it
 ===performance===
   play {m|inv} :: play (theatrical performance; start key)
   appassionato {{it-adj|appassionat}} :: {music} part or all of a performance as passionate.
-  ne (contraction) :: {{apocopic form of|nel}}
+  ne (contraction) :: {apocopic form of|nel}
     Massimo Troisi ha vinto un oscar per la sua interpretazione ne "Il postino". :: "Massimo Troisi won an Oscar for his performance in "Il Postino".
 ===Performed===
   live (adjective) {inv} :: Performed or recorded live
@@ -7185,7 +7205,7 @@ Index: en en->it
   Pescara {{it-proper noun|g=f}} :: Pescara (province)
   Pescara {{it-proper noun|g=f}} :: Pescara (town)
 ===Peter===
-  san (noun), apocopate {m|inv} :: {{context|used before a consonant}} {{apocopic form of|santo}} saint
+  san (noun), apocopate {m|inv} :: {{context|used before a consonant}} {apocopic form of|santo} saint
     San Pietro :: “Saint Peter”
 ===petrol===
   gas {m} (noun) :: petrol
@@ -7313,9 +7333,9 @@ Index: en en->it
 ===possibility===
   chance {f|inv} :: chance (possibility of a certain outcome)
 ===Postino===
-  de (contraction) :: {{apocopic form of|del}}
+  de (contraction) :: {apocopic form of|del}
     Michael Radford è il regista de "Il postino". :: "Michael Radford is the director of "Il Postino".
-  ne (contraction) :: {{apocopic form of|nel}}
+  ne (contraction) :: {apocopic form of|nel}
     Massimo Troisi ha vinto un oscar per la sua interpretazione ne "Il postino". :: "Massimo Troisi won an Oscar for his performance in "Il Postino".
 ===potare===
   potato {{it-pp|potat}} :: past participle of potare
@@ -7504,7 +7524,7 @@ Index: en en->it
 ===radar===
   radar {m|inv} :: radar
 ===Radford===
-  de (contraction) :: {{apocopic form of|del}}
+  de (contraction) :: {apocopic form of|del}
     Michael Radford è il regista de "Il postino". :: "Michael Radford is the director of "Il Postino".
 ===radio===
   radio {f|inv} :: radio
@@ -7672,10 +7692,10 @@ Index: en en->it
 ===sailors===
   lingua franca (noun) {f|inv} :: The Mediterranean Lingua Franca, a common language spoken in Mediterranean ports in centuries past (consisting of Italian mixed with French, Spanish, Arabic and some Greek words and used by sailors of different countries to communicate with one another).
 ===saint===
-  san (noun), apocopate {m|inv} :: {{context|used before a consonant}} {{apocopic form of|santo}} saint
+  san (noun), apocopate {m|inv} :: {{context|used before a consonant}} {apocopic form of|santo} saint
     San Pietro :: “Saint Peter”
 ===Saint===
-  san (noun), apocopate {m|inv} :: {{context|used before a consonant}} {{apocopic form of|santo}} saint
+  san (noun), apocopate {m|inv} :: {{context|used before a consonant}} {apocopic form of|santo} saint
     San Pietro :: “Saint Peter”
 ===sal===
   sale {m}, sali {pl} :: salt, sal
@@ -7999,7 +8019,7 @@ Index: en en->it
   amarezza {f}, amarezze {pl} :: (plural) troubles, sorrows
 ===sound===
   sound (noun) {m|inv} :: {music} sound (distinctive style and sonority)
-  sana {f} (adjective form) :: {feminine of|sano|nodot=1}; healthy, sound.
+  sana {f} (adjective form) :: {feminine of|sano}; healthy, sound.
   boom {m|inv} :: A boom (sound)
 ===sour===
   acre {{it-adj|acr|e|i}} :: sharp, sour
@@ -8524,7 +8544,7 @@ Index: en en->it
 ===trito===
   trite {f} :: Feminine plural form of trito
 ===Troisi===
-  ne (contraction) :: {{apocopic form of|nel}}
+  ne (contraction) :: {apocopic form of|nel}
     Massimo Troisi ha vinto un oscar per la sua interpretazione ne "Il postino". :: "Massimo Troisi won an Oscar for his performance in "Il Postino".
 ===trouble===
   amarezza {f}, amarezze {pl} :: (plural) troubles, sorrows
@@ -8869,7 +8889,7 @@ Index: en en->it
 ===women===
   slip {m|inv} :: Men's or women's underwear (knickers, panties)
 ===won===
-  ne (contraction) :: {{apocopic form of|nel}}
+  ne (contraction) :: {apocopic form of|nel}
     Massimo Troisi ha vinto un oscar per la sua interpretazione ne "Il postino". :: "Massimo Troisi won an Oscar for his performance in "Il Postino".
 ===woolen===
   gabardine {m|inv} :: The woolen cloth gabardine
@@ -8925,8 +8945,8 @@ Index: en en->it
     Examples: :: --
     Non si deve parlare così (One/You/We/They/People shouldn’t speak like that) :: --
     Si parla italiano qui (Italian is spoken here or One/You/We/They/People speak(s) Italian here) :: --
-  ti (pronoun) :: {objective|tu|nodot=1}; you
-  ti (pronoun) :: {reflexive} {second-person singular|si|nodot=1}; you
+  ti (pronoun) :: {objective|tu}; you
+  ti (pronoun) :: {reflexive} {second-person singular|si}; you
   tu (pronoun), second person singular :: you (singular); thou
   voi :: The second person plural familiar pronoun, voi refers to the persons who are spoken or written to: you.
   pure {it-adv} :: if you like; if you want (etc.)

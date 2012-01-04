@@ -114,17 +114,6 @@ final class AppendAndIndexWikiCallback implements WikiTokenizer.Callback {
       final Map<String, String> namedArgs) {
     
     FunctionCallback functionCallback = functionCallbacks.get(name);
-    if (functionCallback == null) {
-      if (
-          name.equals("form of") || // TODO: switch to contains
-          name.contains("conjugation of") || 
-          name.contains("participle of") || 
-          name.contains("gerund of") || 
-          name.contains("feminine of") || 
-          name.contains("plural of")) {
-        functionCallback = functionCallbacks.get("form of");
-      }
-    }
     if (functionCallback == null || !functionCallback.onWikiFunction(wikiTokenizer, name, args, namedArgs, parser, this)) {
       // Default function handling:
       namedArgs.keySet().removeAll(EnWiktionaryXmlParser.USELESS_WIKI_ARGS);

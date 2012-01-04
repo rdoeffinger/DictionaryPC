@@ -41,8 +41,6 @@ public final class FunctionCallbacksDefault {
     DEFAULT.put("tø", callback);
     DEFAULT.put("apdx-t", callback);
     
-    DEFAULT.put("qualifier", new QualifierCallback());
-
     callback = new EncodingCallback();
     Set<String> encodings = new LinkedHashSet<String>(Arrays.asList(
         "zh-ts", "zh-tsp",
@@ -65,9 +63,6 @@ public final class FunctionCallbacksDefault {
     DEFAULT.put("p", callback);
     DEFAULT.put("g", callback);
     
-    DEFAULT.put("italbrac", new italbrac());
-    DEFAULT.put("gloss", new gloss());
-
     callback = new AppendArg0();
 
     callback = new Ignore();
@@ -81,9 +76,22 @@ public final class FunctionCallbacksDefault {
     DEFAULT.put("attention", callback);
     DEFAULT.put("zh-attention", callback);
 
-    DEFAULT.put("not used", new not_used());
-    DEFAULT.put("form of", new FormOf());
-    DEFAULT.put("wikipedia", new wikipedia());
+
+    callback = new FormOf();
+    DEFAULT.put("form of", callback);
+    DEFAULT.put("conjugation of", callback);
+    DEFAULT.put("participle of", callback);
+    DEFAULT.put("present participle of", callback);
+    DEFAULT.put("past participle of", callback);
+    DEFAULT.put("feminine past participle of", callback);
+    DEFAULT.put("gerund of", callback);
+    DEFAULT.put("feminine of", callback);
+    DEFAULT.put("plural of", callback);
+    DEFAULT.put("feminine plural of", callback);
+    DEFAULT.put("inflected form of", callback);
+    DEFAULT.put("alternative form of", callback);
+    DEFAULT.put("dated form of", callback);
+    DEFAULT.put("apocopic form of", callback);
     
     callback = new InflOrHead();
     DEFAULT.put("infl", callback);
@@ -92,6 +100,11 @@ public final class FunctionCallbacksDefault {
     callback = new AppendName();
     DEFAULT.put("...", callback);
     
+    DEFAULT.put("qualifier", new QualifierCallback());
+    DEFAULT.put("italbrac", new italbrac());
+    DEFAULT.put("gloss", new gloss());
+    DEFAULT.put("not used", new not_used());
+    DEFAULT.put("wikipedia", new wikipedia());
   }
 
   
@@ -186,15 +199,25 @@ public final class FunctionCallbacksDefault {
         final Map<String, String> namedArgs,
         final EnWiktionaryXmlParser parser,
         final AppendAndIndexWikiCallback appendAndIndexWikiCallback) {
-      if (args.size() != 1 || !namedArgs.isEmpty()) {
+      if (!namedArgs.isEmpty()) {
         LOG.warning("weird encoding: " + wikiTokenizer.token());
       }
       if (args.size() == 0) {
         // Things like "{{Jpan}}" exist.
         return true;
       }
-      final String wikiText = args.get(0);
-      appendAndIndexWikiCallback.dispatch(wikiText, appendAndIndexWikiCallback.entryTypeName);
+      
+      for (int i = 0; i < args.size(); ++i) {
+        if (i > 0) {
+          appendAndIndexWikiCallback.builder.append(", ");
+        }
+        final String arg = args.get(i);
+//        if (arg.equals(parser.title)) {
+//          parser.titleAppended = true;
+//        }
+        appendAndIndexWikiCallback.dispatch(arg, appendAndIndexWikiCallback.entryTypeName);
+      }
+      
       return true;
     }
   }
@@ -392,6 +415,7 @@ public final class FunctionCallbacksDefault {
         final Map<String, String> namedArgs,
         final EnWiktionaryXmlParser parser,
         final AppendAndIndexWikiCallback appendAndIndexWikiCallback) {
+      parser.entryIsFormOfSomething = true;
       String formName = name;
       if (name.equals("form of")) {
         formName = ListUtil.remove(args, 0, null);
