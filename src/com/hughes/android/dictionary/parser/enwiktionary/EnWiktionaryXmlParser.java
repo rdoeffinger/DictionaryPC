@@ -27,6 +27,7 @@ import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
+import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.regex.Pattern;
 
@@ -93,7 +94,7 @@ public class EnWiktionaryXmlParser {
       try {
         title = dis.readUTF();
       } catch (EOFException e) {
-        LOG.warning("Error reading split!");
+        LOG.log(Level.INFO, "EOF reading split.");
         dis.close();
         return;
       }
