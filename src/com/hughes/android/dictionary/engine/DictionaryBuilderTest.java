@@ -125,7 +125,7 @@ public class DictionaryBuilderTest extends TestCase {
         "--input2=" + TEST_INPUTS + "de-en_dictcc_simulated",
         "--input2Name=dictcc",
         "--input2Charset=UTF8",
-        "--input2Format=dictcc",
+        "--input2Format=tab_separated",
 
         "--print=" + result.getPath() + ".text",
     });
