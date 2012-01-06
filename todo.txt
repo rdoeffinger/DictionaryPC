@@ -1,38 +1,29 @@
-For next release:
-"form of" to bottom
+blue background title rows
+gray side pane
+better example splitting
 handle examples like "asdf (asdf)"
 random word jump
 multiword find.
-dictionary update.
-???italian verbs
-
-pronunciation
-synonyms
-move dict to top of list when downloaded
-speech recognition
-flashcards
-text to speech / audio from wiktionary
-
-**** UI:
-! multi search
-X version number
-! enter should hide keyboard
-icons inside dictionaries
-
-
-**** PC:
-! still lots of wiki markup in output.
 italian verbs... (show conjugation, pulled from a linked place....--would lower size a lot!)
-handle word-info in English.
+! enter should hide keyboard
+
 Handle other sections:
   Pronunciation
   Synonyms
   Usage notes.
   Chinese: handle "Compounds" section
-{{count page|[[Wiktionary:Page count]]}}
 
-{{gloss|money and wealth}}
-it_it: gossip {m} (noun), inv
+flashcards
+move dict to top of list when downloaded
+speech synthesis
+speech recognition
+text to speech / audio from wiktionary
+icons inside dictionaries
+
+
+**** PC:
+handle word-info in English.
+{{count page|[[Wiktionary:Page count]]}}
 
 Bad filing: under Arab?
 ===Arab===
@@ -73,4 +64,4 @@ always put defs in list...
 font size
 refactor wiki parsing.
 {{Arab}}
-  
+"form of" to bottom
