@@ -32,6 +32,8 @@ import javax.xml.parsers.SAXParserFactory;
 import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 
+import com.hughes.android.dictionary.parser.enwiktionary.EnWiktionaryLangs;
+
 public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
   
   private static final String FILE_TO_SPLIT = "data/inputs/enwiktionary-20111224-pages-articles.xml";
@@ -80,7 +82,7 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
     }
 
     if (selectors.isEmpty()) {
-      for (final Map.Entry<String, String> entry : Language.isoCodeToWikiName.entrySet()) {
+      for (final Map.Entry<String, String> entry : EnWiktionaryLangs.isoCodeToWikiName.entrySet()) {
         selectors.add(new Selector(String.format("data/inputs/enWikiSplit/%s.data", entry.getKey()), entry.getValue()));
       }
     }

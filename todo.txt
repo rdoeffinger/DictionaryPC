@@ -1,10 +1,12 @@
 For next release:
+arabic UI fix
 "form of" to bottom
 handle examples like "asdf (asdf)"
 random word jump
 multiword find.
 dictionary update.
 ???italian verbs
+dictionary builder generates text file with list of dictionaries built, sizes, timestamps, token counts, etc.
 
 pronunciation
 synonyms

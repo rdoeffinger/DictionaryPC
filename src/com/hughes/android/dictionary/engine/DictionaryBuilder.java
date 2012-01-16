@@ -43,8 +43,8 @@ public class DictionaryBuilder {
   
   public DictionaryBuilder(final String dictInfo, final Language lang0, final Language lang1, final String normalizerRules1, final String normalizerRules2, final Set<String> lang1Stoplist, final Set<String> lang2Stoplist) {
     dictionary = new Dictionary(dictInfo);
-    indexBuilders.add(new IndexBuilder(this, lang0.getSymbol(), lang0.getSymbol() + "->" + lang1.getSymbol(), lang0, normalizerRules1, lang1Stoplist, false));
-    indexBuilders.add(new IndexBuilder(this, lang1.getSymbol(), lang1.getSymbol() + "->" + lang0.getSymbol(), lang1, normalizerRules2, lang2Stoplist, true));
+    indexBuilders.add(new IndexBuilder(this, lang0.getIsoCode(), lang0.getIsoCode() + "->" + lang1.getIsoCode(), lang0, normalizerRules1, lang1Stoplist, false));
+    indexBuilders.add(new IndexBuilder(this, lang1.getIsoCode(), lang1.getIsoCode() + "->" + lang0.getIsoCode(), lang1, normalizerRules2, lang2Stoplist, true));
   }
   
   void build() {

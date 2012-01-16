@@ -26,8 +26,6 @@ import com.ibm.icu.text.Transliterator;
 public class LanguageTest extends TestCase {
   
   public void testGermanSort() {
-    System.out.println(Language.isoCodeToWikiName.values());
-    
     final Transliterator normalizer = Transliterator.createFromRules("", Language.de.getDefaultNormalizerRules(), Transliterator.FORWARD);
     assertEquals("aüääss", normalizer.transform("aueAeAEß"));
     final List<String> words = Arrays.asList(
@@ -108,7 +106,7 @@ public class LanguageTest extends TestCase {
   public void testLanguage() {
     assertEquals(Language.de, Language.lookup("de"));
     assertEquals(Language.en, Language.lookup("en"));
-    assertEquals("es", Language.lookup("es").getSymbol());
+    assertEquals("es", Language.lookup("es").getIsoCode());
   }
 
   public void testTextNorm() {
@@ -160,8 +158,8 @@ public class LanguageTest extends TestCase {
     // These don't seem quite right....
     assertEquals("haswb", transliterator.transliterate("حاسوب"));
     assertEquals("kmbywtr", transliterator.transliterate("كمبيوتر"));
+
+    assertEquals("{\u200eكمبيوتر\u200e}", Language.fixBidiText("{كمبيوتر}"));
   }
-
-
 
 }

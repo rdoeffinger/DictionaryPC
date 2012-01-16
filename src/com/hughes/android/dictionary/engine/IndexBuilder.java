@@ -50,7 +50,8 @@ public class IndexBuilder {
       tokenEntryDatas.clear();
       final int indexIndex = index.sortedIndexEntries.size();
       final int startRow = rows.size();
-      rows.add(new TokenRow(indexIndex, rows.size(), index));
+      
+      rows.add(new TokenRow(indexIndex, rows.size(), index, tokenData.hasMainEntry));
 //      System.out.println("Added TokenRow: " + rows.get(rows.size() - 1));
       int numRows = 0;
 //      System.out.println("TOKEN: " + tokenData.token);
@@ -74,15 +75,15 @@ public class IndexBuilder {
           .normalizer().transliterate(tokenData.token), startRow, numRows));
     }
     
-    final List<IndexEntry> entriesSortedByRows = new ArrayList<IndexEntry>(index.sortedIndexEntries);
-    Collections.sort(entriesSortedByRows, new Comparator<IndexEntry>() {
+    final List<IndexEntry> entriesSortedByNumRows = new ArrayList<IndexEntry>(index.sortedIndexEntries);
+    Collections.sort(entriesSortedByNumRows, new Comparator<IndexEntry>() {
       @Override
       public int compare(IndexEntry object1, IndexEntry object2) {
         return object2.numRows - object1.numRows;
       }});
     System.out.println("Most common tokens:");
-    for (int i = 0; i < 50 && i < entriesSortedByRows.size(); ++i) {
-      System.out.println("  " + entriesSortedByRows.get(i));
+    for (int i = 0; i < 50 && i < entriesSortedByNumRows.size(); ++i) {
+      System.out.println("  " + entriesSortedByNumRows.get(i));
     }
   }
   
@@ -90,6 +91,7 @@ public class IndexBuilder {
     final String token;
         
     final Map<EntryTypeName, List<IndexedEntry>> typeToEntries = new EnumMap<EntryTypeName, List<IndexedEntry>>(EntryTypeName.class);
+    boolean hasMainEntry = false;
     
     TokenData(final String token) {
       assert token.equals(token.trim());
@@ -110,6 +112,9 @@ public class IndexBuilder {
   private List<IndexedEntry> getOrCreateEntries(final String token, final EntryTypeName entryTypeName) {
     final TokenData tokenData = getOrCreateTokenData(token);
     List<IndexedEntry> entries = tokenData.typeToEntries.get(entryTypeName);
+    if (entryTypeName.overridesStopList) {
+      tokenData.hasMainEntry = true;
+    }
     if (entries == null) {
       entries = new ArrayList<IndexedEntry>();
       tokenData.typeToEntries.put(entryTypeName, entries);
@@ -124,8 +129,9 @@ public class IndexBuilder {
     }
     assert indexedEntry != null;
     for (final String token : tokens) {
-      if (entryTypeName.overridesStopList || !stoplist.contains(token))
-      getOrCreateEntries(token, entryTypeName).add(indexedEntry);
+      if (entryTypeName.overridesStopList || !stoplist.contains(token)) {
+        getOrCreateEntries(token, entryTypeName).add(indexedEntry);
+      }
     }    
   }
 

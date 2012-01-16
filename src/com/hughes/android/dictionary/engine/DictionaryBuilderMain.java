@@ -14,35 +14,33 @@
 
 package com.hughes.android.dictionary.engine;
 
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.IOException;
-import java.io.PrintWriter;
-import java.io.RandomAccessFile;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
 import java.util.LinkedHashMap;
-import java.util.List;
 import java.util.Map;
 
 import junit.framework.TestCase;
+
+import com.hughes.android.dictionary.parser.enwiktionary.EnWiktionaryLangs;
 
 public class DictionaryBuilderMain extends TestCase {
   
   static final String INPUTS = "data/inputs/";
   static final String STOPLISTS = "data/inputs/stoplists/";
-  static final String OUTPUTS = "data/outputs/";
-    
+  static final String OUTPUTS = "data/outputs/";  
+  
+  static final String VERSION_SUFFIX = "v002";
+
+  
   public static void main(final String[] args) throws Exception {
     
-    final Map<String,String> isoToWikiName = new LinkedHashMap<String, String>(Language.isoCodeToWikiName);
+    // Builds all the dictionaries it can, outputs list to a text file.
+    
+    final Map<String,String> isoToWikiName = new LinkedHashMap<String, String>(EnWiktionaryLangs.isoCodeToWikiName);
     isoToWikiName.remove("EN");
     isoToWikiName.remove("DE");
 
     final Map<String,String>  isoToDedication = new LinkedHashMap<String, String>();
     isoToDedication.put("AF", "Afrikaans dictionary dedicated to Heiko and Mariëtte Horn.");
-    isoToDedication.put("HR", "Croation dictionary dedicated to Ines Viskic and Miro Kresonja.");
+    isoToDedication.put("HR", "Croatian dictionary dedicated to Ines Viskic and Miro Kresonja.");
     isoToDedication.put("NL", "Dutch dictionary dedicated to Mike LeBeau.");
     // German handled in file.
     isoToDedication.put("EL", "Greek dictionary dedicated to Noah Egge.");
@@ -77,7 +75,7 @@ public class DictionaryBuilderMain extends TestCase {
         continue;
       }
 
-        final String dictFile = String.format(OUTPUTS + "/EN-%s_enwiktionary.quickdic", foreignIso);
+        final String dictFile = String.format("%s/EN-%s_enwiktionary.%s.quickdic", OUTPUTS, foreignIso, VERSION_SUFFIX);
         System.out.println("building dictFile: " + dictFile);
         
         if (!isoToStoplist.containsKey(foreignIso)) {
@@ -114,12 +112,9 @@ public class DictionaryBuilderMain extends TestCase {
 
         });
         
-        // Print the entries for diffing.
-        printToText(dictFile);
-
     }  // foreignIso
 
-    final String dictFile = OUTPUTS + "DE-EN_chemnitz_enwiktionary.quickdic"; 
+    final String dictFile = String.format("%s/DE-EN_chemnitz_enwiktionary.%s.quickdic", OUTPUTS, VERSION_SUFFIX);
     DictionaryBuilder.main(new String[] {
         "--dictOut=" + dictFile,
         "--lang1=DE",
@@ -147,21 +142,7 @@ public class DictionaryBuilderMain extends TestCase {
         "--input3LangCodePattern=de",
         "--input3EnIndex=2",
     });
-    printToText(dictFile);
     
   }
-  
-  static void printToText(final String dictFile) throws IOException {
-    final RandomAccessFile raf = new RandomAccessFile(new File(dictFile), "r");
-    final Dictionary dict = new Dictionary(raf);
-    final PrintWriter textOut = new PrintWriter(new File(dictFile + ".text"));
-    final List<PairEntry> sorted = new ArrayList<PairEntry>(dict.pairEntries);
-    Collections.sort(sorted);
-    for (final PairEntry pairEntry : sorted) {
-      textOut.println(pairEntry.getRawText(false));
-    }
-    textOut.close();
-    raf.close();
-  }
-  
+    
 }
