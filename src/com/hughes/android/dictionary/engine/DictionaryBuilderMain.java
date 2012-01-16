@@ -26,10 +26,7 @@ public class DictionaryBuilderMain extends TestCase {
   static final String INPUTS = "data/inputs/";
   static final String STOPLISTS = "data/inputs/stoplists/";
   static final String OUTPUTS = "data/outputs/";  
-  
-  static final String VERSION_SUFFIX = "v002";
-
-  
+    
   public static void main(final String[] args) throws Exception {
     
     // Builds all the dictionaries it can, outputs list to a text file.
@@ -75,7 +72,7 @@ public class DictionaryBuilderMain extends TestCase {
         continue;
       }
 
-        final String dictFile = String.format("%s/EN-%s_enwiktionary.%s.quickdic", OUTPUTS, foreignIso, VERSION_SUFFIX);
+        final String dictFile = String.format("%s/EN-%s_enwiktionary.quickdic", OUTPUTS, foreignIso);
         System.out.println("building dictFile: " + dictFile);
         
         if (!isoToStoplist.containsKey(foreignIso)) {
@@ -114,7 +111,7 @@ public class DictionaryBuilderMain extends TestCase {
         
     }  // foreignIso
 
-    final String dictFile = String.format("%s/DE-EN_chemnitz_enwiktionary.%s.quickdic", OUTPUTS, VERSION_SUFFIX);
+    final String dictFile = String.format("%s/DE-EN_chemnitz_enwiktionary.%s.quickdic", OUTPUTS);
     DictionaryBuilder.main(new String[] {
         "--dictOut=" + dictFile,
         "--lang1=DE",
