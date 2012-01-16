@@ -36,7 +36,7 @@ import com.hughes.android.dictionary.parser.enwiktionary.EnWiktionaryLangs;
 
 public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
   
-  private static final String FILE_TO_SPLIT = "data/inputs/enwiktionary-20111224-pages-articles.xml";
+  private static final String FILE_TO_SPLIT = "data/inputs/enwiktionary-pages-articles.xml";
   
   static class Section implements java.io.Serializable {
     private static final long serialVersionUID = -7676549898325856822L;

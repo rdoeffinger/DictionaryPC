@@ -20,6 +20,7 @@ import java.io.PrintStream;
 import java.io.RandomAccessFile;
 import java.nio.charset.Charset;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Map;
@@ -55,13 +56,18 @@ public class DictionaryBuilder {
   }
   
   public static void main(final String[] args) throws IOException, ParserConfigurationException, SAXException {
+    System.out.println("Running with arguments:");
+    for (final String arg : args) {
+      System.out.println(arg);
+    }
+    
     final Map<String,String> keyValueArgs = Args.keyValueArgs(args);
     
-    final Language lang1 = Language.lookup(keyValueArgs.remove("lang1"));
-    final Language lang2 = Language.lookup(keyValueArgs.remove("lang2"));
-    if (lang1 == null || lang2 == null) {
+    if (!keyValueArgs.containsKey("lang1") || !keyValueArgs.containsKey("lang2")) {
       fatalError("--lang1= and --lang2= must both be specified.");
     }
+    final Language lang1 = Language.lookup(keyValueArgs.remove("lang1"));
+    final Language lang2 = Language.lookup(keyValueArgs.remove("lang2"));
 
     final Set<String> lang1Stoplist = new LinkedHashSet<String>();
     final Set<String> lang2Stoplist = new LinkedHashSet<String>();
@@ -126,10 +132,12 @@ public class DictionaryBuilder {
         System.out.println("");
         
         String inputFormat = keyValueArgs.remove(prefix + "Format");
-        if ("dictcc".equals(inputFormat)) {
-          new DictFileParser(charset, false, DictFileParser.TAB, null, dictionaryBuilder, dictionaryBuilder.indexBuilders.toArray(new IndexBuilder[0]), null).parseFile(file);
+        if ("tab_separated".equals(inputFormat)) {
+          final boolean flipColumns = "true".equals(keyValueArgs.remove(prefix + "FlipColumns"));
+          new DictFileParser(charset, flipColumns, DictFileParser.TAB, null, dictionaryBuilder, dictionaryBuilder.indexBuilders.toArray(new IndexBuilder[0]), null).parseFile(file);
         } else if ("chemnitz".equals(inputFormat)) {
-          new DictFileParser(charset, false, DictFileParser.DOUBLE_COLON, DictFileParser.PIPE, dictionaryBuilder, dictionaryBuilder.indexBuilders.toArray(new IndexBuilder[0]), null).parseFile(file);
+          final boolean flipColumns = "true".equals(keyValueArgs.remove(prefix + "FlipColumns"));
+          new DictFileParser(charset, flipColumns, DictFileParser.DOUBLE_COLON, DictFileParser.PIPE, dictionaryBuilder, dictionaryBuilder.indexBuilders.toArray(new IndexBuilder[0]), null).parseFile(file);
         } else if ("enwiktionary".equals(inputFormat)) {
           final Pattern langPattern = Pattern.compile(keyValueArgs.remove(prefix + "LangPattern"), Pattern.CASE_INSENSITIVE);
           final Pattern langCodePattern = Pattern.compile(keyValueArgs.remove(prefix + "LangCodePattern"));
@@ -176,6 +184,8 @@ public class DictionaryBuilder {
   
   private static void fatalError(String string) {
     System.err.println(string);
+    
+    
     System.exit(1);
   }
   

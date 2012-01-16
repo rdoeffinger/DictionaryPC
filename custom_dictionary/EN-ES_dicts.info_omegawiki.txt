@@ -1,0 +1,5598 @@
+
+<!-- saved from url=(0043)http://www.dicts.info/doc/dl/downloadow.php -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body><pre># English-Spanish dictionary created from OmegaWiki database
+# Created on: 2012-01-05T16:12:20-07:00
+# Licence: GNU Free Documentation Licence http://www.gnu.org/copyleft/fdl.html
+# Download updated version of this file at: http://www.dicts.info/uddl.php
+# Contact us at: http://www.dicts.info/contact.php
+9 ; nine	nueve
+AIDS	SIDA
+AOX value	valor AOX
+ASEAN ; Association of Southeast Asian Nations	ASEAN
+Abidjan	Abiyán
+Abkhaz ; Abkhazian ; Abkhazian	abjaso
+Abkhazia	Abjasia
+Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln	Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln
+Abuja	Abuya
+Adelaide	Adelaida
+Adriatic Sea	Mar Adriático
+Aegean Sea	Mar Egeo
+Afar ; Afar	afar
+Afghanistan ; Transitional Islamic State of Afghanistan	Afganistán
+Africa	Africa ; África
+Afrikaans	afrikaans ; afrikáans
+Albania ; Republic of Albania	Albania
+Algeria ; People's Democratic Republic of Algeria	República Argelina Democrática y Popular ; Argelia
+Alps	Alpes
+American Samoa	Samoa Americana
+American football ; American football	fútbol americano ; fútbol americano
+Americas	América
+Ames test	prueba de Ames
+Amsterdam	Amsterdam ; Ámsterdam
+Andorra ; Principality of Andorra	Andorra
+Angola ; Republic of Angola	Angola
+Anguilla	Anguila
+Antarctic Ocean ; Southern Ocean	Oceáno Antártico ; Océano Antártico
+Antarctic ecosystem	ecosistema antártico
+Antarctica	Antártida ; Antártica
+Antigua and Barbuda	Antigua y Barbuda
+April	abril
+Apus	Apus ; Ave del paraiso
+Aquarius	Acuario
+Aquila	Águila
+Arabic ; Standard Arabic	árabe
+Aragonese ; Aragonese	aragonés
+Arctic Ocean	Océano Ártico
+Arctic ecosystem	ecosistema ártico
+Argentina ; Argentine Republic	Argentina
+Aries	Aries
+Arizona	Arizona
+Armenia	Armenia
+Armenian	armenio ; armeno
+Articulata	articulados
+Aruba	Aruba
+Asia	Asia
+Assamese ; Assamese	asamés
+Asteraceae ; sunflower family ; Compositae ; daisy family ; aster family	Asteráceas ; Asteraceae
+Astur-Leonese ; Asturian ; Asturian-Leonese ; Astur	asturiano
+Athens	Atenas
+Atlantic Ocean	océano Atlántico ; Océano Atlántico
+August	agosto
+Australia ; Commonwealth of Australia	Australia
+Austria ; Republic of Austria	Austria
+Austria-Hungary ; Austro-Hungarian Empire	Austria-Hungría
+Azerbaijan ; Republic of Azerbaijan	Azerbaiyán
+Azerbaijani ; Azeri ; Azerbaijani Cluster	azerí ; azerbayano
+Azores	Azores
+BBS ; bulletin board system	BBS ; bulletin board system
+Bahamas ; Commonwealth of the Bahamas ; Bahama Islands	Bahamas
+Bahrain	Bahréin
+Balearic Islands	Islas Baleares
+Bangladesh ; People's Republic of Bangladesh	Bangladesh
+Barbados	Barbados
+Basque ; Basque	vasco
+Bavaria	Baviera
+Beijing	Pekín ; Beijing
+Belarus ; Republic of Belarus	Bielorrusia ; Belarús
+Belarusan ; Belarusan ; Belarusian ; Belorussian ; Byelorussian	bielorruso ; bielorruso ; bielorruso ; bielorruso ; bielorruso
+Belgium ; Kingdom of Belgium	Bélgica
+Belgrade	Belgrado
+Belize	Belice
+Belmopan	Belmopán
+Bengali ; Bengali	bengalí
+Benin ; Benin ; Republic of Benin	Benín
+Berlin	Berlín
+Bermuda	Bermudas
+Berne	Berna
+Bethlehem	Belén
+Bhutan ; Kingdom of Bhutan	Bután
+Bible	Biblia
+Birmingham	Birmingham
+Black Sea	Mar Negro
+Bokmål	bokmål
+Bolivia ; Republic of Bolivia	Bolivia ; Bolivia ; Bolívia
+Bonn	Bonn
+Borneo ; Kalimantan	Borneo
+Bosnia and Herzegovina ; Republic of Bosnia and Herzegovina	Bosnia-Herzegovina ; Bosnia y Herzegovina
+Bosnian ; Bosnian	bosnio
+Botswana ; Republic of Botswana	Botsuana
+Bourgogne	Borgoña
+Bouvet Island	Isla Bouvet
+Boötes	Boötes ; Pastor
+Bratislava	Bratislava
+Brazil	Brasil
+Breton ; Breton	bretón
+British Indian Ocean Territory ; BIOT	Territorio Británico del Océano Índico
+Brunei ; Negara Brunei Darussalam	Brunéi
+Brussels	Bruselas
+Bucharest	Bucarest
+Bulgaria ; Republic of Bulgaria	Bulgaria
+Bulgarian	búlgaro
+Bulgarian ; Bulgarian	búlgaro
+Burkina Faso	Burkina Faso
+Burmese	birmano
+Burundi ; Republic of Burundi	Burundi
+CD-ROM	CD-ROM
+CD-ROM search service	servicio de búsqueda en CD-ROM
+CFC ; chlorofluorocarbon	clorofluorocarbonos
+CFC and halons prohibition	prohibición de CFC y halones
+Cairo	El Cairo
+California	California
+Cambodia ; Kingdom of Cambodia	Camboya
+Cameroon ; Republic of Cameroon	Camerún
+Canada	Canadá
+Cancer	cáncer ; Cáncer
+Canes Venatici	Canes Venatici
+Canis Major	Can Mayor
+Canis Minor	Can Menor ; Canis Minor
+Cape Verde ; Republic of Cape Verde	Cabo Verde
+Capricorn	Capricornio
+Caribbean Area ; Caribbean	área del Caribe
+Caribbean Sea	Mar Caribe
+Caspian Sea	Mar Caspio
+Cassiopeia	Cassiopeia ; Casiopea
+Castilian ; Spanish ; Spanish	castellano ; castellano ; español
+Catalan ; Catalan	catalán
+Cayman Islands	Islas Caimán
+Central Africa	Africa central ; África central
+Central African Republic	República Centroafricana
+Central America	Centroamérica ; América Central
+Central Asia	Asia central
+Chad ; Republic of Chad	Chad
+Charente	Charente
+Chechen ; Chechen	checheno
+Chihuahua	Chihuahua
+Chihuahua ; chihuahua	chihuahua
+Chile ; Republic of Chile	Chile
+Chinese	chino
+Christmas	Navidad
+Christmas Island	Isla de Navidad
+Christmas tree	árbol de Navidad
+Chuvash ; Chuvash ; Chuwash ; Chovash ; Chavash ; Chttash	chuvasio
+Cologne	Colonia
+Colombia ; Republic of Colombia	Colombia
+Community act	acto comunitario
+Community budget	presupuesto comunitario
+Community finance	finanzas comunitarias
+Community law	derecho comunitario
+Community legal system	orden jurídico comunitario
+Community ruling	decisión Comunitaria
+Comoros ; Union of the Comoros	Comoras
+Cook Islands	Islas Cook
+Copenhagen	Copenhague
+Corfu	Corfú
+Cornish	córnico
+Corsican ; Corsican	corso
+Costa Rica ; Republic of Costa Rica	Costa Rica
+Court of Justice of the European Communities	Tribunal de Justicia de las  Comunidades Europeas
+Croatia ; Republic of Croatia	Croacia
+Croatian ; Croation	croata
+Cuba ; Republic of Cuba	Cuba
+Cyprus ; Republic of Cyprus	Chipre
+Cyrillic alphabet	cirílico ; alfabeto cirílico
+Czech ; Czech	checo
+Czech Republic ; Czechia	Chequia
+DDT ; dichloro-diphenyl-trichloroethane	DDT
+DNA ; deoxyribonucleic acid	ADN ; ácido desoxirribonucleico
+Dagestan	daguestán ; Daguestán
+Dakar	Dakar
+Danish	danés
+December	diciembre
+Definition ; definition	definición
+Delaware	Delaware
+Democratic Republic of the Congo ; Congo-Kinshasa	República Democrática del Congo
+Denmark ; Kingdom of Denmark	Dinamarca
+Djibouti ; Republic of Djibouti	Yibuti
+Dominica ; Commonwealth of Dominica	Dominica
+Dominican Republic	República Dominicana
+Down syndrome ; Down’s syndrome	síndrome de Down
+Dublin	Dublín
+Dutch	holandés
+EC Council of Ministers	Consejo de Ministros de la CE
+EC Treaty	tratado CE
+EC directive	Directiva comunitaria
+EC directive on biocides	Directiva comunitaria sobre biocidas
+EC directive on waste disposal	Directiva comunitaria sobre eliminación de residuos
+EC directive on water protection	Directiva comunitaria sobre la protección del agua
+EC ecolabel	Etiqueta ecológica comunitaria
+EC policy	política comunitaria
+EC regulation	Reglamento comunitario
+EC regulation on eco-management and audit	Reglamento comunitario sobre la gestión ecológica y la auditoría
+EC regulation on existing chemicals	Reglamento comunitario sobre sustancias químicas existentes
+EIA (local)	EIA (local)
+EIA ; environmental impact assessment	EIA ; evaluación del impacto ambiental
+EIA directive	Directiva EIA
+EIA law	Ley EIA
+EU ; European Union	Unión Europea
+EU Council	Consejo de la UE
+Earth-Sun relationship	Relaciones tierra-sol
+East Africa	Africa oriental ; África oriental
+East Timor ; Democratic Republic of Timor-Leste	Timor Oriental
+East-West relations	Relaciones este-oeste
+East-West trade	Comercio Este-Oeste
+Easter	pascua
+Eastern Asia ; East Asia	Asia oriental ; East Asia
+Eastern Europe	Europa oriental
+Ecuador ; Republic of Ecuador	Ecuador
+Egypt ; Arab Republic of Egypt	Egipto
+Eiffel Tower	torre Eiffel
+El Salvador ; Republic of El Salvador	El Salvador
+England	Inglaterra
+English	inglés
+English garden	jardín inglés
+Epiphany	Epifanía
+Equatorial Guinea ; Republic of Equatorial Guinea	Guinea Ecuatorial
+Erevan ; Yerevan	Ereván
+Eritrea	Eritrea
+Esperanto ; Esperanto	Esperanto ; esperanto
+Estonia ; Republic of Estonia	Estonia
+Estonian	estonio
+Ethiopia ; Federal Democratic Republic of Ethiopia	Etiopía
+Euratom	Euratom
+Europe	Europa
+European Commission	Comisión Europea
+European Communities	Comunidades Europeas
+European Court of Justice	Tribunal de Justicia de las Comunidades Europeas
+European Environment Agency	Agencia Europea de Medio Ambiente
+European Environmental Council	El Consejo europeo de medio ambiente
+European Monetary Fund	Fondo Monetario Europeo
+European Monetary System ; EMS	sistema monetario europeo
+European Parliament	Parlamento Europeo
+European nature reserve	Reserva natural europea ; reserva natural europea
+European standard	Norma europea
+Falkland Islands	islas Malvinas ; Islas Falkland
+Faroe Islands	Islas Feroe
+Faroese ; Faeroese	faroés ; feroés
+February	febrero
+Fiji ; Republic of the Fiji Islands	Fiyi
+Finland ; Republic of Finland	Finlandia
+Finnish	finlandés
+Flanders ; Flemish region	Flandes
+Flemish	flamenco
+Flevoland	Flevolanda
+France	Francia
+French ; French	francés
+French Guiana	Guayana Francesa
+French Polynesia	Polinesia Francesa
+French Revolution	Revolución Francesa
+French Southern Territories ; French Southern and Antarctic LandsA ; French Southern and Antarctic Lands ; Territory of the French Southern and Antarctic Lands	Tierras Australes y Antárticas Francesas
+French formal garden	jardín formal francés
+Frenchman	francés
+Friday	viernes
+Frisian ; Western Frisian	frisio
+GDP ; gross domestic product	producto interior bruto
+GDR ; German Democratic Republic	RDA ; República Democrática Alemana
+GIS digital format	Formato digital GIS
+GIS digital system	Sistema digital GIS ; sistema digital de información geográfica
+GIS digital technique	Técnica digital GIS ; técnica digital SIG
+GIS laboratory	Laboratorio GIS ; laboratorio de SIG
+Gabon ; Gabonese Republic	Gabón
+Gaborone	Gaborone
+Galician ; Galician	gallego
+Gambia ; Gambia ; Gambia ; Gambia ; The Gambia ; Republic of The Gambia	Gambia
+Gaza Strip	Pásmo Gazy ; Franja de Gaza
+Gemini	Géminis
+Georgia	Georgia
+Georgian ; Georgian	georgiano
+German	alemán
+German	alemán ; alemana
+German (Austria)	alemán austriaco
+German (Switzerland)	alemán suizo
+Germany ; Federal Republic of Germany	Alemania
+Ghana ; Republic of Ghana	Ghana
+Gibraltar	Gibraltar
+Global Environment Facility ; GEF	Instalación global de medio ambiente
+Great Britain ; Britain	Gran Bretaña
+Greece ; Hellenic Republic	Grecia
+Greek ; Greek	griego
+Greek alphabet	griego ; alfabeto griego
+Greenland	Groenlandia
+Gregorian calendar	calendario gregoriano
+Grenada	Granada
+Guadeloupe	Guadalupe
+Guam ; Guam ; Guam	Guam
+Guatemala ; Republic of Guatemala	Guatemala
+Guinea ; Republic of Guinea	Guinea
+Guinea-Bissau ; Republic of Guinea-Bissau	Guinea-Bissau
+Gujarati ; Gujarati	gujaratí
+Guyana ; Republic of Guyana	Guyana
+H5N1 ; Influenza A virus subtype H5N1 ; A(H5N1)	H5N1
+Haiti ; Republic of Haiti	Haití
+Hannukah	Jánuca
+Hanover	Hanóver
+Happy New Year	feliz año
+Hebrew	hebreo
+Hercules	Hercules
+Hercules	Hercules ; Heracles ; Hércules
+Hindi ; Hindi	hindi
+Holland ; Kingdom of the Netherlands ; The Netherlands	Holanda ; Países Bajos ; Reino de los Países Bajos
+Honduras ; Republic of Honduras	Honduras
+Hungarian	húngaro ; magiar
+Hungary ; Republic of Hungary	Hungría
+I	yo
+IMCO code	Código IMCO
+IMF ; International Monetary Fund	Fondo Monetario Internacional
+ISO standard	Norma ISO
+Iceland ; Republic of Iceland	Islandia
+Icelandic	islandés
+Ido ; Ido	ido
+Iliad	Ilíada
+India ; Republic of India	India
+Indian Ocean	Océano Índico
+Indonesia ; Republic of Indonesia	Indonesia
+Indonesian	indonesio
+Indre	Indre
+Interlingua ; Interlingua, "Simplified" Latin ; Interlingua, "Simplified" Latin	interlingua
+International Court of Justice	Tribunal internacional de Justicia
+Internet	Internet
+Iran ; Islamic Republic of Iran	Irán
+Iraq ; Republic of Iraq	Iraq
+Ireland ; Republic of Ireland	Irlanda
+Irish ; Irish ; Irish Gaelic ; Irish	irlandés
+Islam	Islam
+Isle of Man ; Isle of Mann ; Mann	Isla de Man
+Israel ; State of Israel	Israel
+Italian ; Italian	italiano
+Italian Republic ; Italy	Italia
+Ivory Coast ; Cote d'Ivoire ; Republic of Cote d'Ivoire	Costa de Marfil
+Jakarta ; Djakarta ; DKI Jakarta	Yakarta
+Jamaica	Jamaica
+January	enero
+Japan ; State of Japan	Japón
+Japanese ; Japanese	japonés
+Javanese	javanés
+Jersey ; Bailiwick of Jersey	Jersey
+Jordan ; Hashemite Kingdom of Jordan	Jordania
+Judaism	judaísmo
+July	julio
+June	junio
+Jupiter	Júpiter
+Kalaallisut	groenlandés ; kalaallisut ; esquimo-groenlandés ; groenlandés-inuktitut
+Kannada ; Kannada	canarés
+Karelian	carelio
+Kazakh ; Kazakh	kazajo ; kazako
+Kazakhstan ; Republic of Kazakhstan	Kazajistán
+Kenya ; Republic of Kenya	Kenia
+Khartoum	Jartum ; Jartún
+Khmer ; Central Khmer	jémer
+Kiribati ; Republic of Kiribati	Kiribati
+Korean ; Korean	coreano
+Kosovo	Kosovo ; Josova
+Krakow ; Cracow	Cracovia
+Kuwait ; State of Kuwait	Kuwait
+Kyoto	Kioto
+Kyrgyzstan ; Kyrgyz Republic	Kirguizistán
+Lagos	Lagos
+Lao ; Lao	lao
+Laos ; Lao People's Democratic Republic	Laos
+Latin ; Latin	latín
+Latvia ; Republic of Latvia	Letonia
+Latvian ; Latvian	letón
+Lausanne	Lausana
+Lebanon ; Lebanese Republic	Líbano
+Leningrad ; Petrograd ; Saint Petersburg ; St. Petersburg	San Petersburgo ; Leningrado
+Leo	Leo
+Lesotho ; Kingdom of Lesotho	Lesoto
+Liberia ; Republic of Liberia	Liberia
+Libra	Libra
+Libya ; Great Socialist People's Libyan Arab Jamahiriya	Libia
+Liechtenstein ; Principality of Liechtenstein	Liechtenstein ; Principado de Liechtenstein
+Limburgish ; Limburgian	limburgués ; limburgiano ; limbúrgico
+Lisbon	Lisboa
+Lithuania ; Republic of Lithuania	Lituania
+Lithuanian ; Lithuanian	lituano
+London	Londres
+Lower House	Cámara Baja
+Lower Saxony	Baja Sajonia
+Luxembourg ; Grand Duchy of Luxembourg	Luxemburgo
+Luxembourgish ; Luxemburgish ; Luxembourgian	luxemburgués ; luxemburguès
+Lyon	Lyon
+Macedonia ; Republic of Macedonia	Macedonia
+Macedonian ; Macedonian	makedonska
+Madagascar ; Republic of Madagascar	Madagascar
+Malawi ; Republic of Malaŵi	Malaui
+Malayalam ; Malayalam	malabar ; malayalam
+Malaysia	Malasia
+Maldives ; Republic of the Maldives	Maldivas
+Mali ; Republic of Mali	Malí
+Malta ; Republic of Malta	Malta
+Maltese	maltés
+Maori	maorí
+Marathi ; Marāthi ; Marāthi ; MarÄthi	marathi
+March	marzo
+Markov chain ; Markoff chain	cadena de Markov
+Marshall Islands ; Republic of the Marshall Islands	Islas Marshall
+Martinique	Martinica
+Massachusetts	Massachusetts
+Mauritania ; Islamic Republic of Mauritania	Mauritania
+Mauritius ; Republic of Mauritius	Mauricio
+May	mayo
+Mayotte	Mayotte
+Mecca	La Meca
+Mediterranean Area	área mediterránea
+Mediterranean Sea	Mar Mediterráneo
+Mediterranean climate	Clima mediterráneo
+Mediterranean forest	Bosque mediterráneo ; bosque mediterráneo
+Mediterranean wood	bosques mediterráneos ; bosque mediterráneo
+Mercury	Mercurio
+Merry Christmas	feliz Navidad ; Feliz Navidad
+Merry Christmas and a happy New Year	Feliz Navidad y próspero año nuevo
+Mexico ; United Mexican States	México
+Micronesia ; Federated States of Micronesia	Micronesia
+Milan	Milán
+Milky Way ; Galaxy	Vía Láctea
+Milwaukee	Milwaukee
+Moldova	Moldavia
+Monaco	Mónaco
+Monday	lunes
+Mongolia	Mongolia
+Montenegro	Montenegro
+Montserrat	Montserrat
+Morocco ; Kingdom of Morocco	Marruecos
+Moscow	Moscú
+Mount Fuji	Monte Fuji
+Mozambique	Mozambique
+Mumbai ; Bombay	Mumbai ; Bombai
+Munich	Múnich
+Myanmar	Myanmar
+NIMBY aptitude ; NIMBY attitude	actitud NIMBY ; no en mi patio
+NOEL	nivel sin efecto
+Nagorno-Karabakh	Alto Karabaj
+Nairobi	Nairobi
+Namibia	Namibia
+Naples	Nápoles
+Nauru ; Republic of Nauru	Nauru
+Neapolitan ; Neapolitan	napolitano
+Nepal	Nepal
+Nepali ; Nepali	nepalés
+Neptune	Neptuno
+New Caledonia	Nueva Caledonia
+New Year ; New Year's Day	año nuevo
+New York	Nueva York
+New Zealand	Nueva Zelanda
+Nicaragua	Nicaragua
+Niger	Níger
+Nigeria	Nigeria
+Niue	Niue ; Niué
+North Africa	Africa del Norte ; África del Norte
+North America	América del Norte ; Norteamérica
+North Atlantic Ocean	Océano Atlántico Norte
+North Korea ; Democratic People's Republic of Korea	Corea del Norte
+North-South relationship	Relaciones Norte-Sur ; relación Norte-Sur
+Northern Ireland	Irlanda del Norte
+Norway ; Kingdom of Norway	Noruega
+Norwegian	noruego
+November	noviembre
+Novial	novial
+Nuuk	nuuk ; Nuuk
+Nynorsk	nynorsk
+Oceania	Oceanía
+October	octubre
+Oklahoma	Oklahoma
+Oman ; Sultanate of Oman	Omán
+Orleans	Orleans
+Oslo	Oslo
+Pacific Ocean	Océano Pacífico ; Océano Pacífico ; océano Pacífico
+Pakistan ; Islamic Republic of Pakistan	Pakistán
+Palau	Palaos
+Panama	Panamá
+Papua New Guinea	Papúa-Nueva Guinea
+Paraguay	Paraguay
+Paris	París
+Parliament	Parlamento
+People's Republic of China ; China	China
+Persian ; Western Farsi ; Farsi	persa ; farsi
+Peru ; Republic of Peru	Perú
+Philadelphia	Filadelfia
+Philippines	Filipinas
+Phobos	Fobos
+Piedmontese ; Piedmontese ; Piemontese ; Piemontese	piamontés
+Poland	Polonia
+Polish ; Polish	polaco
+Portugal	Portugal
+Portuguese ; Portuguese	Portugués ; portugués
+Puerto Rico	Puerto Rico
+Punjabi ; Panjabi	panyabí ; panyabi ; penyabí
+Pyrenees	Pirineos
+Pyrrhic victory	victoria pírrica
+Qatar	Qatar
+Ramadan	Ramadán ; ramadán
+Republic of the Congo ; Congo-Brazzaville	República del Congo
+Rhône	Ródano
+Romania	Rumania
+Romanian ; Romanaian	rumano ; rumano
+Rome	Roma
+Russia ; Russian Federation	Rusia ; Federación Rusa
+Russian ; Russian	ruso
+Sagittarius	sagitario ; Sagitario
+Saint-Pierre and Miquelon	San Pedro y Miquelón
+Sakhalin ; Saghalien	Sajalín
+Samoa	Samoa
+San Marino	San Marino
+Sanskrit ; Sanskrit	sanscrito
+Sapir–Whorf hypothesis	hipótesis de Sapir-Whorf
+Saturday	sábado
+Saturn	Saturno
+Saudi Arabia ; Kingdom of Saudi Arabia	Arabia Saudí ; Arabia Saudita
+Saxony	Sajonia
+Scorpio	Escorpio
+Scotland	Escocia
+Seine	Sena
+Senegal	Senegal
+September	septiembre
+Serbia	Spanish ; Serbia
+Serbia and Montenegro	Serbia y Montenegro
+Serbian ; Serbian	serbio
+Seychelles ; Republic of Seychelles	Seychelles
+Sicilian ; Sicilian	siciliano
+Sierra Leone	Sierra Leona
+Sindhi ; Sindhi	sindhi
+Singapore	Singapur
+Slovak ; Slovak	eslovaco
+Slovakia	Eslovaquia
+Slovene ; Slovenian ; Slovenian	esloveno
+Slovenia	Eslovenia
+Sochi	Sochi
+Solomon Islands	Islas Salomón
+Somali ; somali	somalí
+South Africa	Sudáfrica
+South America	América del Sur ; Sudamérica ; Suramérica
+South Korea ; Republic of Korea	Corea del Sur
+Southeast Asia	Asia del Sudeste ; Sudeste Asiático ; Sureste Asiático
+Southern Asia ; South Asia	Asia meridional
+Spain	España
+Sri Lanka	Sri Lanka
+Sudan	Sudán
+Sun King	Rey Sol
+Sunday	domingo
+Suriname	Surinam
+Swahili	suajelí ; swahili ; suajili
+Swahili	swahili
+Sweden	suecia ; Suecia
+Swedish	sueco
+Switzerland	Suiza
+Syria ; Syrian Arab Republic	Siria
+Tagalog	tagalo
+Taiwan	Taiwán
+Tajik	tayiko
+Tajikistan	Tayikistán
+Tamil ; Tamil	tamil
+Tanzania	Tanzania
+Tatar ; Tatar	tártaro
+Taurus	Tauro
+Tehran	Teherán
+Telugu ; Telugu	telugu ; telugú
+Tennessee	Tennessee
+Thai ; Thai	tailandés
+Thailand	Tailandia
+The Hague	La Haya
+Thursday	jueves
+Togo	Togo
+Tokyo	Tokio
+Tonga	Tonga
+Toronto	Toronto
+Tswana	setsuana
+Tuesday	martes
+Tunisia	Túnez
+Turkey	Turquía
+Turkish ; Turkish	turco
+Turkmenistan	Turkmenistán
+UN ; United Nations	naciones Unidas ; ONU
+Uganda ; Republic of Uganda	Uganda
+Ukraine	Ucrania
+Ukrainian ; Ukrainian	ucranio
+United Arab Emirates	Emiratos Árabes Unidos
+United Kingdom ; United Kingdom of Great Britain and Northern Ireland ; UK	Reino Unido ; Reino Unido de la Gran Bretaña e Irlanda del Norte
+United States ; United States of America ; America ; US ; U.S. ; U.S.A. ; U.S. of A. ; States	Estados Unidos de América ; Estados Unidos ; E.E.U.U. ; EEUU
+Uranus	Urano
+Urdu ; Urdu	urdu ; urdú
+Utah	Utah ; Utaho
+Vaduz	Vaduz
+Vatican City ; The Holy See ; State of the Vatican City	Ciudad del Vaticano
+Venezuela	Venezuela
+Venice	Venecia
+Venus	Venus
+Vienna	Viena
+Vietnamese ; Vietnamese	vietnamita
+Volapük	volapük
+Volga	Volga
+Wales	País de Gales
+Wallis and Futuna ; Territory of the Wallis and Futuna Islands	Wallis y Futuna
+Walloon ; Walloon	valón
+Washington	Washington
+Wednesday ; quarta-feira	miércoles
+Welsh ; Welsh	galés
+Western Asia ; Southwest Asia	Asia occidental
+Western Europe	Europa occidental
+Wikipedia	Wikipedia
+Wiktionary	Wikcionario
+World Wide Web ; WWW	World Wide Web ; red munidal ; www ; telaraña mundial
+Wyoming	Wyoming
+Xhosa	xhosa
+Yemen ; Republic of Yemen	Yemen
+Yiddish	yídish
+Yugoslavia	Yugoslavia
+Zambia ; Republic of Zambia	Zambia
+Zanzibar	Zanzíbar
+Zimbabwe ; Republic of Zimbabwe	Zimbabue ; Zimbabwe
+Zulu	zulú
+aAmplitude ; amplitude	amplitud
+aback	desconcertado
+abacus	ábaco
+abandoned industrial site	zona industrial abandonada
+abandoned vehicle ; car wreck	vehículos abandonados
+abasement	humillación
+abbreviation	abreviatura ; abreviación
+abhor ; loathe ; detest	detestar ; aborrecer
+abiotic environment	abiótico, entorno ; entorno abiótico
+abiotic factor	factor abiótico
+abolitionist	abolicionista
+abortive	fracasado
+abrasive	abrasivo
+abridge	resumir ; compendiar
+abscess	absceso
+absolutely	absolutamente
+absorption	absorción
+acceleration	aceleración
+acceptable daily intake	consumo diario aceptable
+acceptable risk level	nivel de riesgo aceptable
+acceptance ; credence	aceptación
+access road	carretera de acceso
+access to administrative documents	acceso a documentos administrativos
+access to culture	acceso a la cultura
+access to information	acceso a la información
+access to the courts	acceso a la justicia
+accident	accidente
+accident source ; cause of the accident	fuente de accidentes
+accidental release of organisms	descarga accidental de organismos
+accordion ; squeeze box ; piano accordion	acordeón
+account	cuenta
+accountancy	contabilidad
+accounting	contabilidad
+accounting system	sistema de contabilidad
+accumulator	acumulador ; batería
+acid	ácido
+acid deposition	deposición ácida
+acid rain	lluvia ácida
+acidification	acidificación
+acidity	acidez
+acidity degree	grado de acidez
+acne	acné
+acorn	bellota
+acoustic comfort	confort acústico
+acoustic filter ; audio filter	filtro acústico
+acoustic insulation	aislamiento acústico
+acoustic level ; sound pressure level	nivel acústico
+acoustic property	propiedad acústica
+acoustical quality	calidad acústica
+acoustics	acústica
+acquisition	adquisición
+acrid	acre
+act ; deed	actos ; actuación legal ; acto
+actinide	actínidos ; actínidos ; actínido
+actinium	actinio
+action group ; action committee	grupo de acción
+activated carbon	carbón activo
+activated sludge	lodos activados ; lodo activado
+active participation	participación activa
+active population	población activa
+activist	activista
+adaptation period	período de adaptación
+add	sumar ; adicionar
+addition	adición ; suma
+additional packaging	envase adicional
+additive	aditivo
+adequate food supply	suministro alimentario suficiente
+adhesive	adhesivo ; pegamento ; aleurona
+adieu ; bye ; cheerio ; farewell ; good day ; goodbye	adiós
+adjective ; describing word	adjetivo
+adjust	adecuar ; ajustar
+administration ; direction ; management	administración ; gestión ; gerencia
+administrative body ; administrative organ	organos administrativos ; órgano administrativo
+administrative boundary	límite administrativo
+administrative competence ; administrative ability	competencia administrativa
+administrative deed	acto administrativo
+administrative fiat	autorización administrativa
+administrative instructions	instrucciones administrativas
+administrative law	derecho administrativo
+administrative occupation	profesión administrativa
+administrative organisation	organización administrativa
+administrative procedure	procedimiento administrativo
+administrative sanction	sanciones administrativas
+adoption	adopción
+adsorption	captación ; adsorción
+adult	adultos ; adulto ; adulta
+adult education	educación de adultos
+advance	anticipo
+adventure	aventura
+adverb	adverbo ; adverbio
+advertisement ; promotion	publicidad
+advice	consejo
+aeration	aeración
+aerial	antena
+aerial photograph	fotografía aérea
+aerial photography	fotografía aérea
+aerobic process	proceso aeróbico
+aerobic treatment	tratamiento aeróbico
+aerobiology	biología del aire ; aerobiología
+aerodynamic noise	ruido aerodinámico
+aeroplane ; bird ; plane	avión ; aeroplano
+aerosol	aerosoles ; aerosol
+aesthetics	estética
+afforestation ; tree planting ; afforestment	repoblación forestal ; reforestación ; forestación
+afterburning ; afterburning ; afterburner	postcombustión ; postcombustión ; postquemador
+age	edad
+aggressive	agresivo ; agresiva
+aggressor ; assailant ; attacker ; assaulter	agresora ; agresor ; asaltante ; atacante
+agoraphobia ; agoraphobia ; agoraphobia ; agoraphobia	agorafobia ; agorafobia
+agreement	acuerdo
+agreement	acuerdo ; acuerdos
+agri-foodstuff	industria agroalimentaria
+agricultural biotechnology	biotecnología agrícola
+agricultural building	construcción agricola
+agricultural disaster	desastre agricola
+agricultural ecology ; agroecology	ecología agrícola ; agroecología
+agricultural economics	economía agropecuaria
+agricultural effluent	efluente agricola
+agricultural engineering	ingeniería agrícola
+agricultural equipment	maquinaria agrícola
+agricultural equipment ; agricultural machinery ; farm machinery	maquinaria agrícola
+agricultural exploitation	explotación agrícola
+agricultural hydraulics	hidrálica agricola
+agricultural land	suelo agrícola
+agricultural landscape	paisaje agrícola
+agricultural legislation	legislación agrícola
+agricultural management	gestión agrícola
+agricultural method	métodos agrícolas
+agricultural pest	plagas agrícolas ; plaga agrícola
+agricultural planning	planificación agrícola
+agricultural policy	política agrícola
+agricultural pollution	contaminación agrícola
+agricultural product	productos agrícolas ; producto agrícola
+agricultural production ; farm production ; agricultural output	producción agrícola
+agricultural real estate	propriedad rústica
+agricultural storage	almacenamiento de productos agrícolas
+agricultural structure	estructuras agrarias
+agricultural undervaluation	depreciación agricola
+agricultural waste	residuos agrícolas
+agriculture	agricultura
+agriculture ; agriculture	agricultura ; agricultura ; agr
+agriculture and cattle industry	industria agropecuaria
+agriculture framework plan	plan agricola marco
+agritourism	turismo rural
+agrochemical	agroquímicos ; agroquímico
+agroforestry	agrosilvicultura ; agroforestería
+agroindustry	agroindustria
+agrometeorology	agrometeorología
+agronomic value	valor agronómico
+agronomy	agronomía
+agrosystem	agrosistema
+aid policy	política de ayudas
+air	aire
+air conditioning ; AC ; air-conditioning	acondicionamiento del aire ; acondicionamiento de aire ; climatización
+air movement	movimiento del aire
+air pollutant	contaminantes atmosféricos ; contaminante atmosférico
+air pollution	contaminación atmosférica
+air quality	calidad del aire
+air quality control	control de la calidad del aire
+air quality management	ordenamiento de la calidad del aire
+air quality monitoring	vigilancia de la calidad del aire
+air sac ; alveolus	alveolo ; alvéolo pulmonar
+air safety	seguridad aérea
+air temperature	temperatura del aire
+air traffic	tráfico aéreo
+air traffic law	legislación relativa al tráfico aéreo
+air transportation	transporte aéreo
+air-water interaction	interacción aire-agua
+airborne noise	ruido aéreo
+aircraft	aeronave
+aircraft noise	ruido de aeronaves
+airmail	correo aéreo
+airport	aeropuertos ; aeropuerto
+airspace planning	ordenación del espacio aéreo
+alarm ; alert ; warning	alarma ; advertencia
+alarm clock	despertador
+albinism	albinismo
+alchemist	alquimista
+alchemy	alquimia
+alcohol	alcohol
+alcoholism	alcoholismo
+alga	algas ; alga
+algal bloom	proliferación de algas
+algebra	álgebra
+algicide ; algaecide	algicidas ; algicida
+algorithm	algoritmo
+alibi	coartada
+alicyclic compound	compuesto alicíclico
+alicyclic hydrocarbon	hidrocarburos alicíclicos
+alignment	alineación ; asignación de ruta ; trazado de ruta ; suora linja
+aliphatic compound	compuestos alifáticos
+aliphatic hydrocarbon	hidrocarburos alifáticos
+alkali soil	suelo alcalino
+alkaline ; element of group I ; alkaline metal ; alkali metal	alcalinos ; elemento del grupo I ; alcalino
+alkaline battery	pila alcalina
+alkane ; paraffin ; methane series ; alkane series	alcanos ; alcanos ; alcano ; parafinas
+alkyl compound	compuesto alquílico
+all-terrain vehicle	vehículo todo terreno
+allegory	alegoría
+allergen	alergias ; alérgeno
+allergy	alergia
+allocation ; allotment ; resource allotment	adjudicación, asignación ; adjudicación ; asignación
+allocation plan	plan de adjudicación
+allotropy	alotropía
+allowance	subsidio
+alloy	aleación
+alluvial plain	llanura aluvial
+alluvion ; flood ; overflowing ; inundation	aluviones ; aluvión ; inundación
+almanac	almanaque
+almond	almendra
+almost	casi
+alongside ; amongst ; with	con
+alpha radiation	radiación alfa
+alphabet	alfabeto ; abecé ; abecedario
+alternative material	material alternativo
+alternative technology	tecnologías alternativas ; tecnología alternativa
+altitude	altitud
+alumina	alúmina
+aluminium	aluminio
+aluminium container	envase de aluminio
+aluminium content	contenido de aluminio
+aluminium industry	industria del aluminio
+amalgam	amalgama
+ambassador	embajador
+amber	ámbar
+ambitious	ambicioso
+ambulance	ambulancia
+americium	americio
+amethyst	amatista
+amine	amina
+amino acid	aminoácidos ; aminoácido
+ammonia	amoniaco ; amoníaco
+ammonification	amonificación
+ammonium	amonio
+amphetamine	anfetamina
+amphibian	anfibios
+amphitheatre	anfiteatro
+amusement park	parque de atracciones
+anaconda	anaconda
+anaerobic process	proceso anaeróbico
+anaerobic treatment	tratamiento anaerobio
+anagram	anagrama
+analogous	análogo
+analogy	analogia
+analysis	análisis
+analysis programme	programa de análisis
+analytical chemistry	química analítica
+analytical equipment	equipo analítico
+analytical method	método analítico
+anarchism	anarquismo
+anarchy	anarquía
+anatomy	anatomía
+anchor	ancla
+and	y
+and ; as well as ; in addition to ; together with ; too	e ; y
+angel	ángel
+angiosperm ; flowering plant	angiospermas ; plantas de florecimiento ; angiosperma
+angling ; fishing ; line-fishing	pesca deportiva
+animal	animale ; animal
+animal behaviour	comportamiento animal
+animal biology	biología animal
+animal conservatory	reserva animal
+animal corridor	pasillo animal
+animal damage	daño animal
+animal disease	enfermedades de animales
+animal displacement	desplazamiento de animales
+animal ecology	ecología animal
+animal excrement	excremento animal
+animal experiment	experimentación con animales
+animal foodstuff	alimento para animales
+animal for slaughter	animal para matadero
+animal habitat	hábitat animal
+animal heritage	patrimonio animal
+animal husbandry	granja ganadera
+animal manure	abono animal
+animal migration	migración (animal)
+animal noise	ruido animal
+animal nutrition	nutrición animal
+animal physiology	fisiología animal
+animal population	población animal
+animal product	productos animales ; producto animal
+animal production	producción animal
+animal protection	protección de los animales
+animal reproduction	reproducción animal
+animal resource	recursos animales ; recurso animal
+animal rights	derechos de los animales
+animal shelter	refugio para animales ; refugio de animales
+animal species	especie animal
+animal species reintroduction	reintroducción de especie animal
+animal trade	comercio de animales
+animal waste	residuos de animales ; residuo de animales
+anime	anime
+anion	anión
+anise	anís
+ankle ; talocrural joint	tobillo
+annelid	anélidos
+anniversary	aniversario
+ant	hormiga
+antagonism	antagonismo
+antelope	antílope
+anthropic activity	actividad antrópica
+anthropologic reserve	reserva antropológica
+anthropologist	antropólogo ; antropóloga
+anthropology	antropología
+antibiotic	antibiótico
+antibody	anticuerpo
+anticipation of danger	anticipación del peligro
+antifouling agent	agente antiincrustante
+antimony	antimonia ; antimonio
+antiparticle	antipartícula
+antipollution incentive	incentivos contra la contaminación
+antiquated plant	planta anticuada
+antiseismic regulation	reglamentación antisísmica
+antithesis	antítesis
+antonym	antónimo
+anvil	yunque
+anytime	siempre
+apartheid	apartheid
+apartment block	bloque de apartamentos
+apathy	dejadez ; apatia ; desidia ; apatía ; abandono
+aphorism	aforismo
+apiculture ; beekeeping	apicultura
+apoptosis	apoptosis
+apostle	apostol
+appeal	apelación
+appeal procedure	procedimiento de apelación
+apple	manzana
+apple ; apple tree	manzano
+applied ecology	ecología aplicada
+applied nutrition	nutrición aplicada
+applied research	investigación aplicada
+applied science	ciencias aplicadas ; ciencia aplicada
+appraisal	evaluación técnica
+appreciate	agradecer
+approach	enfoque
+appropriate technology	tecnologías apropiadas
+approval ; approbation	aprobación
+approval of installations	homologación de instalaciones
+apricot	albaricoque ; damasco
+apron	delantal ; mandil
+aquaculture	acuicultura
+aquamarine	aguamarina
+aquarium	acuario
+aquatic animal	animal acuático
+aquatic ecology	ecología acuática
+aquatic ecosystem	ecosistemas acuáticos ; ecosistema acuático
+aquatic environment	medio acuático
+aquatic mammal	mamífero acuático
+aquatic organism	organismos acuáticos
+aquatic plant	plantas acuáticas
+aqueduct	acueductos ; acueducto
+aquifer	acuifero
+arable farming	cultivo del campo
+arboretum	arboreto
+arboriculture	arboricultura
+archaeological	arqueológico
+archaeological site	zona arqueológica
+archaeology ; archeology ; archæology	arqueología
+archbishop	arzobispo
+archduke	archiduque
+archeologist ; archaeologist	arqueólogo
+archer ; archer	arquero ; flechero ; flechera ; arquera
+archetype	arquetipo
+archipelago	archipiélago
+architect	arquitecto ; arquitecta
+architecture	arquitectura
+archive	archivo
+area of potential pollution	área de contaminación potencial
+area under stress	area sometida a estrés
+argon	argón
+argument	disputa
+arid land	terreno árido
+aristocracy	aristocracia
+arithmetic ; arithmetics	aritmética
+arm	brazo
+armament	armamento
+armament conversion	conversión de armamento
+armed forces	fuerzas armadas
+armistice	armisticio
+armoury	arsenal ; armería
+armpit	axila ; sobaco
+aromatic compound	compuestos aromáticos
+aromatic hydrocarbon	hidrocarburos aromáticos
+aromatic substance	sustancia aromática
+arrange ; adapt ; adjust ; conform ; accommodate ; suit	adaptar ; adaptar ; ajustar ; regular
+arrangement for a deposit on packaging	acuerdo sobre depósito en embalaje
+arrival	arribo ; llegada
+arrow	flecha
+arrowhead	punta de flecha
+arsenic	arsénico
+arson	incendio provocado
+arsonist	incendiario ; incendiaria
+art	arte
+artery	arteria
+artful	astuto ; astuta
+arthritis	artritis
+arthropod	artrópodos ; artrópodos ; artrópodo
+artichoke	alcachofa
+article	artículo
+artificial lake	lago artificial
+artificial reproductive technique	procreación artificial
+artificial satellite	satélites artificiales
+artist ; creative person	artista
+asbestos	amianto ; asbesto
+asbestos cement	cemento a base de amianto
+asbestosis	asbestosis
+ascendancy	ascendiente
+ascent	ascensión
+ascent	pendiente ; cuesta ; subida
+ascertain	descubrir ; establecer ; esclarecer ; averiguar
+ascetic	asceta
+ash	ceniza
+ashamed	avergonzado ; avergonzada
+ashen	ceniciento ; cenicienta
+ashore	en tierra
+ashtray	cenicero
+asleep	dormido ; dormida
+asparagus	espárrago
+asphalt	asfalto
+aspiration	aspiración
+aspirin	aspirina ; ácido acetilsalicílico
+assassin ; assassinator	asesino ; asesina
+assay	ensayo
+assemble ; get together ; gather	juntar ; reunir
+assent	aprobación ; asentimiento
+assent	concordar ; asentir a ; consentir en
+assert	sostener ; afirmar ; aseverar
+assert	defender ; hacer valer
+assertive	asertivo ; asertiva
+assign	asignar ; destinar
+assignment	tarea ; encargo ; cometido
+assimilate	asimilar
+assimilation	asimilación
+assist	ayudar ; asistir
+association	asociaciones ; asociación ; cámara
+assorted	surtido ; variado ; surtida ; variada
+assumption ; supposition	suposición ; asunción
+astatine	astato
+asterisk	asterisco
+asteroid	asteroide
+asthenosphere	astenosfera
+asthma	asma
+astonish	sorprender ; asombrar ; pasmar
+astonishing	asombroso ; sorprendente ; asombrosa
+astonishment	sorpresa ; asombro
+astound	asombrar ; pasmar
+astounding	asombroso ; osupljiv
+astride	a horcajadas ; a carramanchones
+astrologer	astrólogo
+astrology ; star divination	astrología
+astrometry	astrometría
+astronautics	astronáutica
+astronomer	astrónomo
+astronomy	astronomía
+astrophysics	astrofísica
+asymmetric ; asymmetrical	asimétrico ; asimétrica
+asymptote	asíntota
+atheist	ateo
+atlas	atlas
+atmosphere	atmósfera
+atmospheric aerosol	aerosol atmosférico
+atmospheric chemistry	química de la atmósfera
+atmospheric circulation	circulación atmosférica
+atmospheric component	componente de la atmósfera
+atmospheric composition	composición atmosférica
+atmospheric correction	corrección atmosférica
+atmospheric emission	emisiones atmosféricas
+atmospheric fallout	precipitación atmosférica
+atmospheric layering	estratificación atmosférica
+atmospheric monitoring	vigilancia atmosférica
+atmospheric ozone	ozono atmosférico
+atmospheric particulate	partículas atmosféricas ; partícula atmosférica
+atmospheric physics	física de la atmósfera
+atmospheric pollution	contaminación atmosférica
+atmospheric precipitation ; precipitation	precipitación atmosférica
+atmospheric process	procesos atmosféricos
+atmospheric science	ciencias de la atmósfera
+atmospheric structure	estructura atmosférica
+atoll	atolón
+atom	átomo
+atomic mass	masa atómica
+atractive	atractivo ; atractiva
+atrazine	atracina
+atrocity	atrocidad
+attached	apegado ; apegada ; encariñado ; encariñada
+attachment	apego ; cariño
+attachment	accesorio
+attack	ataque
+attain	conseguir ; lograr ; alcanzar
+attend	atender ; asistir
+attend	asistir
+attend	atender
+attend	atender ; ocuparse de
+attendant	encargado ; encargada
+attentive	atento ; atenta
+attic	ático ; buhardilla ; desván
+attire	traje ; atavío
+attire	ataviar
+attitude	postura ; posición
+attract	atraer
+attribute	atributo
+auction	subasta
+audacious	audaz
+audio-visual presentation	presentación audiovisual
+audiovisual equipment	material audiovisual
+audiovisual media	medios audiovisuales
+audit	auditoría
+augment	aumentar
+auspicious	auspicioso ; auspiciosa
+authorisation	autorización
+authoritarian	autoritario ; autoritaria
+authoritative	autorizado ; autorizada
+authority body	autoridad
+authorship	autoría
+autocracy	autocracia
+autoecology	autoecología
+automobile industry	industria automovilística
+autopsy	autopsia
+autumn	otoño
+available	disponible
+avalanche	aludes ; alud ; avalancha ; desprendimiento
+avalanche protection	protección contra los aludes
+avaricious	avaro ; avaricioso ; avariento ; tacaño ; mezquino ; codicioso ; ávido
+avert	prevenir
+avert	desviar
+aviary	pajarera
+aviation law	legislación relativa al tráfico aéreo
+aviculture	avicultura
+avid	ávido
+avifauna	fauna avícola
+awe	awe ; respeto
+awhile	un momento ; un rato
+axiom	axiom ; axioma
+aye ; yeah ; yep ; yes	sí
+baboon	babuino
+background level	nivel de base
+background noise	ruido de fondo
+background radiation	radiación de fondo
+bacon	tocino ; bacon
+bacterial bed	lechos bacterianos ; echo bacteriano ; lecho bacteriano
+bactericide	bactericidas ; bactericida
+bacteriological pollution	contaminación bacteriológica
+bacteriology	bacteriología
+bacterium	bacteria
+badminton	bádminton
+bag ; pocket ; steal	robar
+bagpipes	gaita
+baker	panadero
+baker ; bakery	panadería
+baking powder	polvos de levadura ; levadura química ; polvos de hornear
+balance	saldo
+balance of matter	balance de materia
+balancing of interests	equilibrio de intereses
+ballad	balada
+ballot	elección
+ballroom	salón de baile
+banana	plátano ; banana
+bank	ribera ; margen
+bank protection	protección de las riberas
+banking	actividad bancaria
+bankruptcy	bancarrota ; quiebra
+barium	bario
+barley	cebada
+barometer	barómetro
+baron	barón
+barrier beach	cordón litoral
+barrier reef	arrecife de coral
+base	bases ; base
+baseball ; baseball game	béisbol
+baseline monitoring	vigilancia básica
+basement	sótano
+basic food requirement	necesidades alimenticias básicas
+basicity	carácter básico
+basidiomycete	basidiomiceto
+basketball ; basketball game	baloncesto ; basquetbol ; básquetbol
+bassoon	fagot
+bastardisation of fauna	fauna introducida ; fauna arrotza sartze
+bastardisation of flora	flora introducida
+batch process	proceso por lotes
+bathing freshwater	agua dulce de baño
+bathing seawater	mar de baño
+bathing water	aguas de baño ; agua de baño
+battery	baterías
+battery disposal	desecho de baterias
+bay	bahías ; bahía
+beach	playas ; playa
+beach cleansing	limpieza de playas
+beak ; mouth	boca
+bean ; edible bean	judía ; chícharo ; alubia ; poroto ; pocha ; faba ; frijól ; caraota ; habichuela
+bear	oso
+beatification	beatificación
+beaver	castor
+bed	cama
+bee	abeja
+bee conservation	conservación de las abejas
+beef cattle	ganado vacuno para carne
+beehive	colmena
+beekeeper ; apiculturist	apicultor
+beer	cerveza
+beetle	coleópteros
+behaviour	comportamiento
+behaviour of substances	comportamiento de las sustancias
+behaviour pattern	modelo de comportamiento
+behavioural science	ciencias del comportamiento
+belly button ; bellybutton ; navel ; omphalos ; omphalus ; umbilicus	ombligo
+beneficial organism	organismo beneficioso
+benthic division	división béntica
+benthos	bentos
+benzene	benceno
+benzopyrene	benzopirenos
+berkelium	berkelio
+beryllium ; glucinium	berilio ; glucinio
+beta radiation	radiación beta
+better	mejor
+between	entre
+beverage ; drink	bebida ; bebidas ; trago
+beverage ; drink	bebida ; trago
+beverage industry	industria de las bebidas
+bibliographic information	información bibliográfica
+bibliographic information system	sistema de información bibliográfica
+bibliography	bibliografía
+bicycle ; bike ; cycle	bicicletas ; bicicleta
+big ; large	grande
+big game	gamo grande
+bilateral	bilateral
+bilateral convention	convenios bilaterales
+bile	bilis
+bilge oil	aceite de sentina
+bilge water	agua de sentina
+binary star	estrellas binarias ; estrella binaria
+bio-availability	disponibilidad biológica
+bioaccumulation	bioacumulación
+bioaccumulative pollutant	contaminantes bioacumulativos ; contaminante bioacumulativo
+biochemical method	método bioquímico
+biochemical oxygen demand	demanda bioquímica de oxígeno
+biochemical process	procesos bioquímicos ; proceso bioquímico
+biochemical substance	sustancias bioquímicas ; sustancia bioquímica
+biochemistry	bioquímica
+biocide	biocidas ; biocida
+bioclimatology	bioclimatología
+biocoenosis	biocenosis
+bioconcentration factor	factor de bioconcentración
+biodegradability	biodegradabilidad
+biodegradable pollutant	contaminantes biodegradables ; contaminante biodegradable
+biodegradation	biodegradación
+biodiversity	biodiversidad ; diversidad biológica
+bioethics	bioética
+biofiltration	biofiltrado
+biofuel	biocarburantes ; biocarburante
+biogas	biogás
+biogeochemical cycle	ciclos biogeoquímicos ; ciclo biogeoquímico
+biogeographical region	regiones biogeográficas
+biogeography	biogeografía
+biological analysis	análisis biológico
+biological attribute	atributos biológicos ; atributo biológico
+biological contamination	contaminación biológica
+biological cycle	ciclo biológico
+biological development	desarrollo biológico
+biological effect	efectos biológicos
+biological effect of pollution	efecto biológico de la contaminación
+biological engineering	ingeniería biológica
+biological heritage	patrimonio biológico
+biological indicator	indicadores biológicos
+biological monitoring	control biológico
+biological pest control	control biológico de plagas
+biological pollutant	contaminantes biológicos ; contaminante biológico ; kutsatzaile biologiko
+biological pollution	contaminación biológica
+biological process	proceso biológico
+biological production	producción biológica
+biological reserve ; wildlife reserve	reservas biológicas ; reserva biológica
+biological resource	recursos biológicos ; recurso biológico
+biological test	prueba biológica
+biological treatment	tratamiento biológico
+biological waste gas purification	purificación biológica de gas de residuos
+biological waste treatment	tratamiento de residuos biologicos
+biological wastewater treatment	tratamiento biológico de aguas residuales
+biological water balance	equilibrio hidrico biológico
+biological weapon	armas biológicas
+biology ; biological science	biología ; biologia
+bioluminescence	bioluminescencia
+biomarker	marcador biológico
+biomass	biomasa
+biomass energy	energía de la biomasa
+biome	bioma
+biophysics	biofísica
+bioreactor	biorreactor
+biorhythm	ritmos biológicos ; ritmo biológico ; bioritmo
+biosafety	bioseguridad
+biosphere	biosfera
+biosphere reserve	reservas de la biosfera ; reserva de la biosfera
+biosynthesis	biosíntesis
+biotechnological hazard	riesgo biotecnológico
+biotechnology	biotecnología
+biotic factor	factor biótico
+biotic index	índice biótico
+biotope	biotopo
+biotope network	red de biotopo
+biotope order	ordenanza relativa al biotopo
+biotope protection	protección de los biotopos
+bird	ave ; pájaro
+bird of prey	aves de presa
+bird sanctuary	santuario para pájaros
+bird species	especie ornitológica
+birth ; birth ; birth ; childbirth ; childbirth ; childbirth ; parturition	nacimiento ; nacimiento ; nacimiento ; parto
+birth control	control de natalidad
+birthday	cumpleaños ; cumpleaños ; aniversario
+bishop	obispo
+bismuth	bismuto
+bitumen	betún ; bitumen
+black	negro
+black ; dark	oscuro ; obscuro
+black coal ; black coal ; black coal ; anthracite coal	carbón negro
+blackbird	mirlo
+blacksmith	herrero
+blast furnace	altos hornos
+bleaching agent	agente blanqueador
+bleaching clay	arcilla blanqueadora
+bleaching process	proceso de blanqueo
+blind	ciego
+blister	ampolla
+blog ; weblog ; web log	bitácora ; blog
+blood	sangre
+blood plasma	plasma sanguíneo
+blue	azul
+blue-green alga ; cyanobacteria	alga verde-azul ; cyanobacteria
+boat	barco ; bote
+boating	navegación de portiva
+bocage	bocaje
+bog	tremedal
+bohrium	bohrio
+boiler	caldera
+boiling point	punto de ebullición
+bonsai	bonsái
+book	libro
+bookkeeping	teneduría ; contaduría
+border	fronteras ; frontera
+boron	boro
+botanical conservatory	reserva botánica
+botanical garden	jardines botánicos ; jardín botánico
+botany	botánica
+botany ; phytology	botánica
+bottle cap	tapón de botella
+boundary	frontera
+boundary crossing	pasar el límite
+boundary layer	estrato límite
+bow	arco
+boy	niño
+brackish water	agua salobre
+branch	rama
+branch of activity	actividad de la empresa
+bread	pan
+breakfast	desayuno
+breast milk	leche materna
+breeding	crianza
+breeding bird	aves nidificantes
+breeding technique	técnica de crianza
+brick	ladrillos ; ladrillo
+bridge	puentes ; puente
+bring	traer
+broad-leaved tree	árbol de hoja ancha
+broader term ; broader terms ; hypernym ; holonym	términos más amplios ; hiperónimo ; término más amplio
+broccoli	brócoli
+bromine	bromo
+brooding	incubación
+brook	arroyo
+brushwood	malezas ; maleza
+bryophyte	briofitas ; briofita
+bubble policy (emissions trading) ; bubble policy	política de burbuja (comercio de emisiones) ; política de burbuja
+budget	presupuesto
+budget policy	política presupuestaria
+bug ; põrnikas	chinches ; chinche
+building	edificación ; edificio
+building area	área edificable
+building component	componentes de un edificio
+building destruction	destrucción de edificio
+building industry	industria de la construcción
+building land	terreno edificable
+building material	materiales de construcción ; material de construcción
+building materials industry	industria de materiales de construcción
+building permit	licencia de obra
+building planning	planificación de construcción
+building regulation	reglamento de construcción
+building related illness ; sick building syndrome	síndrome del edificio enfermo
+building restoration	restauración de edificios
+building service	técnica de la construcción
+building site	obra
+building site preparation	preparación del solar
+building technology	tecnología de la construcción
+building waste	residuo de la edificación
+built drainage system	sistemas artificiales de drenaje
+built environment	ambiente construido
+built structure	estructura edificada
+built-up area	zona edificada
+bulb cultivation	cultivo de bulbos
+bulky waste	residuos molestos ; residuo molesto
+bull	toro
+bullet	bala
+bumblebee	abejorro
+bureaucracy	burocracia
+bureaucratisation	burocratización
+bus ; coach	autobús ; bus ; camión ; pullman
+bus station	estación de autobús
+bush clearing	eliminación de matorrales
+business	empresas ; empresa
+business activity	vida de la empresa ; actividad empresarial
+business classification	tipos de empresa ; tipo de empresa
+business economics	economía de los negocios
+business organisation	organización de la empresa
+business policy	politíca de la empresa
+butcher	carnicero ; carnicera
+butter	mantequilla
+butterfly	mariposa
+button ; clit ; clitoris	clitoris ; clítoris
+button-cell battery	pilas botón
+buy ; purchase	comprar ; adquirir
+buy ; purchase	compra
+by-catch	captura parcial
+by-product	subproducto
+cable	cable
+cactus	cacto
+cadmium	cadmio
+caesium	cesio
+caffeine	cafeína
+calcium	calcio
+calcium content	contenido en calcio
+calculation	cálculo
+calculation method	método de cálculo
+calendar	calendario
+caliber	calibre
+calibration	calibrado ; calibración
+californium	californio
+calligraphy	caligrafía
+camel	camello
+camera	cámara fotográfica ; cámara de fotos
+camouflage	camuflaje
+camp ; military camp ; army camp ; campsite	campamento
+camping ; camping ground	campamento ; camping ; lugar de acampada
+camping site	campamento ; camping ; lugar de acampada
+canal	canal ; canales
+canal lock	esclusa
+cancer	cáncer
+cancer risk	riesgo de cáncer
+candle	vela ; candela ; bujía
+canid	cánido
+canyon	cañó
+capital	capital
+car ; automobile	auto ; carro ; coche ; automóvil
+car park	aparcamientos ; estacionamiento ; aparcamiento
+car tyre	neumático de coche
+carbohydrate	carbohidratos ; carbohidrato
+carbon	carbono
+carbon dioxide	dióxido de carbono
+carbon dioxide tax	impuesto sobre el CO2
+carbon monoxide	monóxido de carbono
+carbonate	carbonatos
+carcass disposal	eliminación de cadáveres
+carcinogen	carcinógenos
+carcinogenicity	carcinogenicidad
+carcinogenicity test	prueba de carcinogenicidad
+cardinal	cardenal
+cardiology	cardiología
+cardiovascular disease	enfermedades cardiovasculares
+cardiovascular system	sistema cardiovascular
+career	carrera
+carnivore	carnívoro
+carpet	alfombra ; moqueta
+carry-over effect	efecto de remanente
+cartography	cartografía
+case ; lawsuit ; trial	ensayo ; juicio
+cash crop	cultivo comercial
+castle	castillo
+cat	gato
+catalysis	catálisis
+catalyst	catalizadores ; catalizador
+catalytic converter	convertidor catalítico
+catapult	catapulta
+catastrophe	catástrofe
+catch yield	captura de pesca
+catchment	captación ; recolector da agua
+catchment area	cuencas ; cuenca
+category	categoría
+category of endangered species	categoría de especie amenazada
+cation	catión
+cattle	ganado bovino
+cauliflower	coliflor
+cause-effect relation	relación causa-efecto
+cave	cuevas ; cueva ; gruta
+caviar	caviar
+celery	apio
+celibacy	celibato
+cell ; cell	célula ; célula
+cell ; electrochemical cell ; energy cell ; Galvanic cell ; στοιχείο	pilas ; pila ; pila eléctrica
+cellulose	celulosa
+cellulose industry	industria de celulosa
+cement	cemento
+cement industry	industria del cemento
+cement manufacture	producción de cemento
+census survey	censo
+central government	gobierno central
+central park area	zona central de parque
+centralisation	centralización
+centrifugation	cetrifugado
+cephalopod	cefalópodos
+ceramics	cerámica
+ceramics industry	industria de la cerámica
+cerium	cerio
+certification	certificación
+cetacean	cetáceos ; cetáceo
+chair	silla
+chalk	yeso
+champagne	champaña ; champán
+change in value	cambio de valor
+channelling	canalización
+chaos theory	teoría del Caos
+chapter	capítulo
+characteristic	característica ; característica ; característico
+charcoal	carbón vegetal
+chart	acta
+chart ; nautical chart	carta
+cheers ; thank you ; thanks	gracias
+cheese	queso
+cheetah ; chetah	guepardo ; chita
+chelicerate	quelicerados
+chemical	producto químico ; productos químicos
+chemical addition	adición
+chemical analysis	análisis químico
+chemical composition	composición química
+chemical contamination	contaminación química
+chemical corrosivity	agresividad química
+chemical decontamination	descontaminación química
+chemical element ; element	elementos químicos ; elemento ; elemento químico
+chemical fallout	polvillo (productos químicos)
+chemical fertiliser	fertilizantes químicos ; fertilizante químico
+chemical in the environment	producto químico en el medio ambiente
+chemical industry	industria química
+chemical installation	instalación química
+chemical measurement of pollution	medición química de la contaminación
+chemical oxygen demand	demanda química de oxígeno
+chemical pest control	control químico de plagas
+chemical plant	planta química
+chemical policy	política química
+chemical pollutant	contaminantes químicos ; contaminante químico
+chemical pollution	contaminación química
+chemical process	procesos químicos ; proceso químico
+chemical product	producto químico
+chemical property	propiedad química
+chemical reaction	reaciones químicas ; reacción química
+chemical reduction	reducción
+chemical risk	riesgo químico
+chemical structure	estructura química
+chemical treatment	tratamiento químico
+chemical waste	residuos químicos ; residuo químico
+chemical weapon	armas químicas ; arma química
+chemicals act	legislación sobre sustancias químicas
+chemisorption	adsorción química
+chemist ; pharmacist	farmacéutico
+chemist's ; chemist's shop ; pharmacy	farmacia ; botica
+chemistry	química
+cherry	cereza
+chess	ajedrez
+chestnut	castaño
+chicken	pollo
+child	niño
+chimney	chimeneas ; chimenea
+chimney height	altura de chimenea
+chipmunk	tamia
+chiropteran	quirópteros
+chloride	cloruros ; cloruro
+chlorinated hydrocarbon	hidrocarburos clorados
+chlorination	cloración
+chlorine	cloro
+chlorophenol	clorofenoles
+chlorophyll	clorofila
+chlorosis	clorosis
+chocolate	chocolate
+cholesterol	colesterol
+chordate	cordados
+chorology	corología
+chromatographic analysis	análisis cromatográfico
+chromatography	cromatografía
+chromium	cromo
+chromosome	cromosoma
+chrysophyta	crisofitas
+church	iglesia
+cigar	cigarro ; puro
+cigarette	cigarrillo ; cigarro
+cinematographic film	película cinematográfica
+circular mail	circular
+citizen	ciudadano
+citizen awareness	sensibilización ciudadana
+citizen initiative	iniciativa ciudadana
+citizen rights	derechos del ciudadano
+city	ciudad ; ciudades
+city centre	centro ciudad
+civil air traffic	tráfico aéreo civil
+civil engineering	ingeniería civil
+civil law	derecho civil
+civil safety	seguridad civil
+civilian protection	protección civil
+claim for restitution	solicitud de reembolso
+clarinet	clarinete
+classification	clasificación
+clay	arcilla
+clean air area	zona de aire limpio
+clean air car	vehículo ecológico
+clean technology	tecnología limpia
+cleaning up	limpieza
+cleanliness	limpieza
+cleansing department	departamento de limpieza
+clearing sludge	sedimento de limpieza
+cliff	acantilado
+climate	clima
+climate protection	protección del clima
+climate resource	recursos del clima ; recurso del clima
+climate type	tipos climáticos ; tipo climático
+climatic alteration	alteración climática
+climatic change ; climate change	cambio climático
+climatic effect	efectos del clima ; efecto del clima
+climatic experiment	experimento climático
+climatic zone	zonas climáticas ; zona climática
+climatology	climatología
+climax	clímax
+climbing plant (wall) ; climbing plant	planta trepadora (por pared)
+clinical symptom	síntomas clínicos
+cloning	clonación
+closing down	clausura
+closing down of firm	cierre de fábrica
+clothing ; apparel	vestuario
+clothing industry	industria de la confección
+cloud	nube
+co-incineration	co-incineración
+co-operation	cooperación
+co-operation policy	politíca de cooperación
+co-operation principle	principio de cooperación
+co-ordinate system	sistema de coordenadas
+co-ordination	coordinación
+coagulation	coagulación
+coal	carbón
+coal industry	industria carbonera
+coal liquefaction	licuefacción del carbón
+coal mining	minas de carbón
+coal refining	refino del carbón
+coal technology	tecnología del carbón
+coal-based energy	energía del carbón
+coal-fired power plant	central de carbón
+coast	costa
+coast protection	protección del litoral
+coastal area	zonas costeras ; zona costera
+coastal development	desarrollo de zonas costeras
+coastal ecosystem	ecosistemas costeros ; ecosistema costero
+coastal environment	medio ambiente de litoral
+coastal fishing	pesca de litoral
+coastal pollution	contaminación de litoral
+coastal water	agua costera
+coastal zone planning	ordenación de zonas costeras
+coastguard	guardia costera
+coating	revestimientos ; revestimiento
+cobalt	cobalto
+cobweb	telaraña
+cocaine	cocaína
+cockroach	cucarachas ; cucaracha
+code	códigos
+code of practice	código de buena práctica
+codification	codificación
+coelenterate	celentéreos
+coffee	café
+cogeneration	cogeneración
+coin ; money	moneda ; cambio
+coke	coque
+cold	frío
+coliform bacterium	bacteria coliforme
+colina ; hill ; loma	cerro ; colina
+collective wastewater treatment	tratamiento de aguas colectivas
+colloid	coloideo, coloidal
+colloidal state	estado coloidal
+colonisation	colonización
+colony	colonia
+colour ; colour ; colo(u)r	color ; color ; color
+colour composition	composición cromática
+colourimetry	colorimetriea
+colubrid	culebras ; culebra
+combination effect	efecto combinado
+combined cycle-power station	central eléctrica de ciclo combinado
+combined sewer system	sistema de desagüe colectivo
+combined transport	transporte combinado
+combined waste water	aguas residuales combinadas
+combustibility	combustibilidad
+combustion engine	motor de combustión
+combustion gas	gas de combustión
+combustion residue	residuos de la combustión ; residuo de la combustión
+come	venir ; acercarse
+comet	cometa
+commercial fishery	pesca profesional
+commercial law	derecho mercantil
+commercial noise	ruido comercial e industrial
+commercial traffic	tráfico comercial
+commercial transaction	acto de comercio
+commercial vehicle	vehículo comercial
+commercialisation	comercialización
+common agreement	acuerdo común
+common agricultural policy ; common agricultural policy of the EU	política agrícola común
+common commercial policy	política comercial común
+common tariff policy	política arancelaria común
+communications	comunicaciones ; comunicación
+communications industry	industria de la comunicación
+communications policy	política de comunicación
+communications system	sistema de comunicación
+communism	comunismo
+community facility ; public facility	equipamiento colectivo
+community-pays principle	principio de pago comunitario
+commuter traffic	tráfico diario
+compaction	compactación
+company policy	política de empresa
+company structure	estructura de la empresa
+comparative law	derecho comparado
+comparative test	prueba comparativa
+comparison	comparación
+compensation	compensación
+compensation for damage	indemnización por daños
+compensatory measure	medida compensatoria
+compensatory tax	impuesto compensatorio
+competition	competencia
+competition law	derecho de la competencia
+competitive examination	oposición
+competitiveness	competitividad
+complex formation	formación compleja
+complexing agent	agente de complexión
+composite pollution	contaminación compuesta
+composition of population	composición de la población
+compost	compost
+compostable waste	residuo fertilizante
+composting	compostificación
+composting by producer	compostificación por el productor
+compound ; chemical compound	compuesto ; compuesto químico
+compression	compresión
+compressor	motocompresores ; motocompresor ; compresor
+computer	computador ; computador ; computadora ; computadora ; ordenador ; ordenador
+concentration	concentración
+concept of environment	concepto de medio ambiente
+concession	concesión
+concrete	hormigón
+concrete products industry	fábrica de hormigón
+condensation (process) ; condensation	condensación
+condom ; prophylactic ; rubber ; safe ; safety	condón
+conductivity ; electrical conductivity	conductividad
+conference	conferencia
+conflict	conflicto
+conflict of aims	conflicto de objetivos
+conflict of interests	conflicto de intereses
+conflicting use	conflicto de uso
+congress	congreso
+conifer	coníferas
+coniferous forest	bosques de coníferas ; bosque de coníferas
+coniferous tree	conífera
+conservation	conservación
+conservation of monuments	conservación de monumentos
+conservation policy	conservación de la naturaleza
+consonant	consonante
+constellation	constelación
+constitution	constitución
+constitutional law	derecho constitucional
+constructed language ; artificial language	lengua construida ; lengua planificada ; idioma artificial ; ideolengua ; conlang
+construction equipment	maquinaria de construcción
+construction noise	ruido de construcción
+construction policy	politíca de construcción
+construction technology	tecnología de la construcción
+construction with recycled material	construcción con material reciclado
+construction work	obras de construcción ; obra de construcción
+consultancy	sociedad de consultoría
+consultation	consulta
+consume ; eat ; swallow	comer ; ingerir
+consumer behaviour	comportamiento del consumidor
+consumer goods	bienes de consumo
+consumer group	grupo de consumidores
+consumer information	información al consumidor
+consumer product	producto de consumo
+consumer protection	protección al consumidor
+consumer waste	residuos de consumo ; residuo de consumo
+consumption	consumo
+consumption pattern	tendencias del consumo ; patrón del consumo
+container	contenedor
+containment (nuclear industry) ; containment	contención
+contaminated soil	suelo contaminado
+contamination	contaminación
+continent	continente
+continental climate	clima continental
+continental shelf	plataforma continental
+continuing education	formación permanente
+continuous load	carga contínua
+contour farming	cultivos de contorno
+contract	contratos
+control measure	medida de control
+controlled burning	control de quemas
+controlled hunting zone	zonas de caza controlada ; zona de caza controlada
+controlling authority	autoridad de control
+conurbation	conurbación
+convention	convenio
+conventional energy	energías convencionales
+cooling	refrigeración
+cooling oil	aceite refrigerante
+cooling tower	torre de refrigeración
+cooling water	agua de refrigeración
+copper	cobre
+coppice	monte bajo
+coppice with standards	monte bajo con estándares
+coral	corales
+coral reef	arrecife de coral
+coral reef lagoon	laguna de arrecife de coral
+core meltdown	fusión nuclear
+cork	corcho
+corridor	pasillo
+corrosion	corrosión
+corrosion inhibitor	anticorrosivo
+corruption	corrupción
+cosmetic industry	industria de cosméticos
+cosmic radiation	radiación cósmica
+cosmology	cosmología
+cost	coste
+cost increase	aumento de costes
+cost reduction	reducción de costes
+cost-benefit	coste-beneficio
+cost-benefit analysis	análisis costo-beneficio
+cotton	algodón
+country ; nation ; state	estado ; país ; nación
+country lodge	casa rural
+county	Comunidad Autónoma ; estado ; comunidad autónoma ; departamento ; condado ; provincia
+court	tribunal ; corte
+court of justice	tribunales de justicia ; tribunal de justicia
+cove	nicho ahuecado por las olas
+covering ; roofing	cobertura
+cow	vaca
+craft ; arts and crafts	artesanado
+creativity ; inventiveness	creatividad
+credit	crédito
+credit assistance	crédito de asistencia
+credit policy	política crediticia
+creek	ensenada
+crime	delitos
+criminal law	derecho penal
+criminal law procedure	procedimiento penal ; derecho procesal penal
+criminal liability	responsabilidad criminal
+criminality	crimen
+crisis management	gestión de crisis
+critical level	nivel crítico
+critical load	carga crítica
+crocodile	cocodrilos ; cocodrilo
+crop production	producción vegetal
+crop protection	protección de cosechas
+crop rotation	rotación de cultivos
+crop treatment	tratamiento de cultivos
+crossing place	paso
+crossing place for animals	lugar de cruce para animales
+crossword	crucigrama
+crucifix	crucifijo
+crude oil	crudo (UP: petróleo bruto) ; crudo ; petróleo bruto
+cruising	crucero
+crustacean	crustáceos ; crustáceo
+cryptogam	criptógamas
+crystal	cristal
+crystallisation	cristalización
+crystallography	cristalografía
+cucumber	pepino
+cultivated plant	planta cultivada
+cultivation ; tillage	cultivo
+cultivation method	método de cultivo
+cultivation of agricultural land	explotación agrícola de la tierra
+cultivation system	sistema de cultivo
+cultural development	desarrollo cultural
+cultural facility	equipamiento cultural
+cultural heritage	patrimonio cultural
+cultural indicator	indicadores sociales y culturales
+cultural policy	política cultural
+culture	cultura
+curium	curio
+currency	divisa
+curriculum	curriculum ; currículo
+customs	aduana
+customs regulation	reglamentación aduanera
+customs tariff	arancel aduanero
+cutting	cortado
+cutting ; cutting (vegetative propagation)	poda ; poda (propagación vegetativa)
+cyanate	cianato
+cyanide	cianuro
+cycle path	senda cíclica
+cyclone	ciclones
+cytology	citología
+cytotoxicity	citotoxicidad
+dairy farm	granja lechera
+dairy industry	industria de la leche
+dairy product	producto lácteo
+dam	presas ; represa ; presa ; dique
+dam draining	drenado de dique
+damage	daños y perjuicios
+damage assessment	evaluación de daños
+damage from military manoeuvres	daños por maniobras militares
+damage insurance	seguro de daños
+damage prevention	prevención de daños
+dance	baile ; danza
+dandelion	diente de león
+danger analysis	análisis de riesgos
+dangerous goods	productos peligrosos
+dangerous goods law	legislación sobre mercancías peligrosas
+dangerous goods regulation	reglamento sobre mercancías peligrosas
+dangerous installation	instalación peligrosa
+dangerous materials transport	transporte de materiales peligrosos
+darmstadtium	darmstadtio
+data acquisition	obtención de datos
+data analysis	análisis de datos
+data carrier	soporte informático
+data centre	centro de datos
+data exchange	intercambio de datos
+data on the state of the environment	datos sobre el estado del medio ambiente
+data processing	procesamiento de datos
+data processing law	derecho de la informática
+data processing system	sistema informático
+data protection	protección de datos
+data recording technique	técnicas de registro de datos ; técnica de registro de datos
+database	bases de datos ; base de datos
+dating	fechado
+daughter	hija
+day ; daytime	día
+dazzle	deslumbrar ; cegar
+de-inking	desincrustación ; destintado
+deaf	sordo
+death penalty ; capital punishment ; death sentence	pena de muerte ; pena capital
+debit	debitar
+debt	deudas
+debt service	pago de la deuda
+decay product	producto de decantación
+decentralisation	descentralización
+dechlorination	decloración
+decibel	decibelio
+deciduous forest ; deciduous wood	bosque caducifolio
+deciduous tree	arbol de hoja perecedera
+decision	decisiones ; decisión ; determinación
+decision making support	apoyo a la toma de decisiones
+decision process	procesos de decisión
+decision-support system	sistema de apoyo a las decisiones
+declaration ; statement	declaración
+declaration of public utility	declaración de utilidad pública
+decomposition	descomposición
+decontamination	descontaminación
+decree	auto ; decretos ; decreto
+deep sea	mar profundo
+deep sea fishing	pesca marina
+deep sea mining	actividad minera en fondo marino
+deep-sea disposal	vertido en fondo marino
+deer	ciervos ; ciervo ; venado
+defence	defensa
+defendant ; accused	acusado ; acusada
+deflation	deflación
+defoliation	defoliación
+deforestation	deforestación
+degradability	degradabilidad
+degradation	degradación
+degradation of natural resources	degradación de recursos naturales
+degradation of the environment	degradación del medio ambiente
+degradation product	producto de degradación
+degreasing	desgrasado
+dehydrated sludge	barro deshidratado
+delegated management	gestión delegada
+deliver	criar ; producir ; parir
+delta	delta
+demand	demanda
+demesnial water	agua demesnial
+democracy	democracia
+demographic development	desarrollo demográfico
+demographic evolution	evolución demográfica
+demography	demografía
+demolition business	negocio de demolición
+demolition waste	residuos de la construcción ; residuo de la construcción
+demonstrability	demostrabilidad
+dendrochronology ; tree-ring dating	dendrocronología
+dendrometry	dendrometría
+dengue fever	dengue
+denitrification	desnitrificación
+denitrification of waste gas	desnitrificación del gas de residuos
+density	densidad
+dentist	dentista
+dentistry	odontología
+deposition	deposición
+deregulation	desreglamentación
+dermatology	dermatología
+desalination	desalación
+desalination plant	desalinizadora
+desert	desiertos ; desierto
+desert climate	clima de desierto
+desert locust	algarrobo del desierto
+desertification	desertificación
+desertification control	control de la desertificación
+design (project) ; design ; project design	diseño (proyecto) ; proyecto ; diseño
+desk study	estudio de escritorio
+desorption	desasorción
+destination of transport	localización del transport ; destino del transporte
+desulphurisation	desulfuración
+desulphurisation of fuel	desulfurización del combustible
+detection	detección
+detector	detector
+detergent	detergentes ; detergente
+determination method	método de determinación
+deterrence	disuasión
+deterrent	medida disuasoria
+detoxification	desintoxicación
+deuterium	deuterio
+developed country	país desarrollado
+developing country	país en desarrollo
+development aid	ayuda al desarrollo
+development area	área de desarrollo
+development co-operation	cooperación al desarrollo
+development model	modelo de desarrollo
+development pattern	modelo de desarrollo
+development plan	planes de desarrollo
+devolution	descentralización
+dialect	dialecto
+dialysis	diálisis
+diarrhea	diarrea ; colitis
+diary	diario
+diatom	diatomeas
+dice ; die ; die ; die	dado
+dictionary	diccionario
+didactics	didáctica
+diesel engine	motores diesel
+diesel fuel ; diesel	gasoil
+differentiation	diferenciación
+difficult	difícil ; espinoso ; delicado
+diffuse pollution	contaminación difusa
+diffuse source	fuente difusa
+diffusion	difusión
+digested sludge	barro activo
+digester	digestores
+digestion	digestión
+digital image processing technique	técnica de tratamiento digital de la imagen ; técnica de tratamiento digital de imágenes
+digital land model	modelos digitales de terreno ; modelo digital de terreno
+digitising	digitalización
+diluted acid	ácido diluido
+diocese ; diocese	diócesis
+dioxin	dioxinas ; dioxina
+diplomat	diplomático
+dipteran	dipteros
+direct discharger	descarga directa
+directive	directiva
+disabled person	persona incapacitada
+disaster	desastres ; desastre
+disaster cleanup operation	operación de limpieza general de desastre
+disaster contingency plan	plan de contingencia de desastre
+disaster control service	servicio de control de desastre
+disaster preparedness	estado de preparación al desastre
+disaster prevention	prevención de desastre
+disaster relief	alivio de desastre
+disaster zone	zona de desastre
+discharge regime	régimen de descarga
+discount	descuento
+discrimination	discriminación
+disease ; illness ; affliction	enfermedades ; enfermedad ; afección
+disease cause	causa de enfermedad
+disinfectant	desinfectante
+disinfection	desinfección
+dispatch note	nota de envío
+dispersion	dispersión
+dispersion calculation	cálculo de dispersión
+displaced person	persona desplazada
+disposal of the dead	deposición de cadáveres
+disposal of warfare materials	disposición de materiales de guerra
+dissolution	disolución
+dissolved organic carbon	carbono orgánico disuelto
+dissolved oxygen	oxígeno disuelto
+distillation	destilación
+distortion of competition	distorsión de la competencia
+distribution	distribución
+distribution area	área de distribución
+distributive trade	distribución comercial
+district heating	calefacción urbana
+district heating plant	planta de calefacción urbana
+disused military site	sitio militar en desuso
+ditch	zanja
+division	división
+divorce	divorcio
+do	hacer
+doctrine	doctrina
+document	documento
+document lending	préstamo de documentos
+document type	tipo de documento
+documentary film	película documental
+documentary system	sistema documental
+documentation	documentación
+documentation centre	centros de documentación
+dog	can ; perro ; perra ; canino
+doll	muñeca
+dolphin	delfín
+domestic appliance	electrodoméstico
+domestic fuel	combustible para uso doméstico
+domestic fuel oil	fueloil para uso doméstico
+domestic noise	ruido doméstico
+domestic pollution	contaminación doméstica
+domestic trade	comercio interior
+domestic waste	residuos domésticos ; residuo doméstico
+domestic waste landfill	vertido de residuos domésticos
+domestic waste water	agua de residuos domésticos
+domesticated animal	animal domesticado ; animal doméstico
+donation	donación ; aportación
+donkey ; ass	asno ; burro
+door	puerta
+dosage	dosificación
+dose	dosis
+dose-effect relationship	relación dosis-efecto
+draft legislation	proyecto de legislación
+dragonfly	libélula
+drainage	drenaje
+drainage system	alcantarillado ; sistema de drenaje
+drainage water	agua de drenaje
+draining	drenaje
+draught animal	animal de tiro
+dream	soñar
+dredged material	material dragado
+dredging	dragados ; dragado
+dress	vestido ; traje
+dress ; clothe	vestir
+drift net fishing	pesca de red de deriva
+drilling	perforación
+drilling for oil	perforación para petróleo
+drilling installation	instalación de perforación
+drink ; gulp ; quaff ; sip	beber ; tomar
+drinking water	agua potable
+drinking water protection area	área de protección de agua potable
+drinking water supply	suministro de agua potable
+drinking water treatment	procesos de potabilización
+dromedary	dromedario
+drought	sequías
+drought control	control de sequía
+drug	medicamentos ; medicamento
+drunk ; drunkard ; boozer	borracho
+dry	seco
+dry cleaning	limpieza en seco
+dry deposition	deposición seca
+dry farming	agricultura de secano
+dry lawn	césped seco
+drying	secado
+drying out	desecación
+dual economy	economía dual
+dual waste management	gestión de residuos dual
+dubnium	dubnio
+duck	pato ; ánade
+dumb	mudo
+dumping	descarga
+dune	dunas ; duna
+durable goods	bien duradero
+duration of sunshine	duración del sol
+dust	polvo
+dust removal	supresión de polvo
+dwelling	vivienda
+dye	colorantes ; colorante
+dyke	diques ; dique
+dyke reinforcement	refuerzo de dique
+dyslexia	dislexia
+dysprosium	disprosio
+ear	oído ; oreja
+early	temprano
+early warning system	sistema de detección temprana
+earth ; Earth ; the world ; Blue Planet	tierra ; Tierra
+earth science	ciencias de la tierra
+earth's crust ; crust ; Earth's crust	corteza terrestre
+earthquake	terremotos ; terremoto
+earthworm	ombrices de tierra
+earwig	tijereta
+easement	servidumbre
+easy ; piece of cake ; like shooting fish in a barrel	fácil ; pan comido ; pan comido
+eat	comer
+echinoderm	equinodermos
+eco-paediatrics	ecopediatría
+ecocatastrophe	ecocatástrofe
+ecodevelopment	desarrollo ecológico
+ecolabel	etiqueta ecológica
+ecolabelling	etiquetado ecológico
+ecological abundance	caudales ecológicos
+ecological adaptation	adaptaciones ecológicas
+ecological assessment	evaluación ecológica
+ecological balance	equilibrio ecológico
+ecological bookkeeping	contabilidad ecológica
+ecological carrying capacity	capacidad de carga ecológica
+ecological community	comunidad ecológica
+ecological factor	factor ecológico
+ecological inequality	desigualdad ecológica
+ecological niche	nicho ecológico
+ecological parameter	parámetro ecológico
+ecological stocktaking	inventario ecológico
+ecologically sensitive area	área sensible ecológica
+ecologist movement	movimientos ecologistas ; movimiento ecologista
+ecology	ecología
+ecomarketing	ecomarketing
+ecomuseum	ecomuseo
+economic activity	actividad económica
+economic analysis	análisis económico
+economic competition	competencia
+economic concentration	concentración económica
+economic data	datos económicos
+economic development	desarrollo económico
+economic forecasting	previsión económica
+economic geography	geografía económica
+economic growth	crecimiento económico
+economic incentive	incentivo económico
+economic instrument	instrumento económico
+economic management instrument	instrumento de gestión económica
+economic plan	plan económico
+economic planning	planificación económica
+economic policy	política económica
+economic region	región económica
+economic rights	derechos económicos
+economic science ; economics	economía
+economic sector	sectores económicos
+economic situation	situación económica
+economic structure	estructura económica
+economic support	apoyo económico
+economic system	sistemas económicos ; sistema económico
+economic theory	teoría económica
+economic trend	tendencia económica
+economic viability	viabilidad económica
+economical-ecological efficiency	eficiencia económico-ecológica
+economy	economía
+ecophysiology	ecofisiología
+ecosystem	ecosistemas ; ecosistema
+ecosystem analysis	análisis de ecosistema
+ecosystem degradation	degradación de ecosistemas
+ecosystem research	investigación de ecosistema
+ecosystem type	tipos de ecosistema ; tipo de ecosistema
+ecotourism	turismo ecológico ; ecoturismo
+ecotoxicity	ecotoxicidad
+ecotoxicological evaluation	evaluación ecotoxicológica
+ecotoxicology	ecotoxicología
+ecotype	ecotipo
+ecozone	ecozone
+edaphology	edafología
+edible	comestible
+edible fat	grasa comestible
+education	educación
+education policy	política educativa
+educational institution	instituciones educativas
+educational path	senda educativa
+educational planning	planificación educativa
+educational system	sistema educativo
+effect	efectos ; efecto
+effect on health	efecto en la salud
+effect on man	efectos sobre el hombre
+effect on the environment ; environmental consequence	consecuencia ambiental ; efectos sobre el medio ambiente
+efficiency criterion	criterio de eficiencia
+efficiency level	nivel de eficiencia
+effluent	efluentes
+effort ; exertion	esfuerzo
+egg	huevo
+eight	ocho
+einsteinium	einsteinio ; einstenio
+ejaculation	eyaculación
+elasticity	elasticidad
+elbow	codo
+elder ; elderberry	saúco ; sambuca
+elderly person	persona mayor
+electric battery	batería eléctrica ; batería ; pila
+electric line ; power line	líneas eléctricas
+electric power	energía eléctrica ; potencia eléctrica
+electric power plant	central electrica
+electric power supply	suministro de energía eléctrica
+electric vehicle	vehículos eléctricos ; vehículo eléctrico
+electrical engineering	ingeniería eléctrica
+electrical goods industry	industria de mercancías eléctricas
+electrical industry	industria eléctrica
+electricity	electricidad
+electricity company	empresa de electricidad
+electricity consumption	consumo de electricidad
+electricity generation	producción eléctrica
+electricity generation cost	coste de producción eléctrica
+electricity supply industry	empresa eléctrica
+electrokinetics	electrocinética
+electrolysis	electrólisis
+electromagnetism	electromagnetismo
+electron	electrón
+electronic information network	red de información electrónica
+electronic mail ; email ; e-mail	correo electrónico ; emilio
+electronic material	material electrónico
+electronic scrap	residuo electrónico
+electronic scrap regulation	reglamento sobre residuos electrónicos
+electronics	electrónica
+electrosmog	electrosmog
+electrotechnical equipment	equipo electrotécnico
+electrotechnical industry	industria electrotécnica
+element of group 0 ; noble gas	elemento del grupo 0 ; gas noble
+element of group II (alkaline earth metals) ; alkaline earth metal ; element of group II	elemento del grupo II (metales alcalino-terrosos) ; elemento del grupo II ; metales alcalino-terrosos
+element of group III	elemento del grupo III
+element of group IV	elemento del grupo IV
+element of group V	elemento del grupo V
+element of group VI	elemento del grupo VI
+element of group VII ; halogen	elemento del grupo VII
+elephant	elefante
+emancipation	emancipación
+embassy ; diplomatic mission	embajada
+embryo	embrión
+embryogenesis	embriogénesis
+emergency	emergencia
+emergency law	ley de urgencia
+emergency plan	planes de emergencia
+emergency relief	ayuda de urgencia
+emergency shelter	refugio de urgencia
+emission	emisión
+emission control	control de emisiones
+emission data	datos de emisión
+emission factor	factor de emisión
+emission forecast	pronóstico de emisión
+emission reduction	reducción de emisión
+emission reduction banking	crédito por reducción de emisiones
+emission register	registro de emisiones
+emission situation	situación de emisión
+emission source	fuentes de emisión
+emission standard	normas de emisión
+emission to water	vertido al agua
+employment	empleo
+employment ; employment ; job ; job ; occupation ; work ; work	empleo ; empleo ; ocupación ; trabajo ; trabajo
+employment and environment	empleo y medio ambiente
+employment level effect	efecto de nivel de empleo
+employment structure	estructura del empleo
+empty	vacía ; vacío ; vacío
+emulsification	emulsificación
+emulsion	emulsión
+encapsulation	encapsulación
+encephalitis	encefalitis
+encyclopaedia	enciclopedia
+end-of-pipe technology	tecnología de tubo terminal
+endangered animal species	especies en peligro
+endangered plant species	especies vegetales en peligro
+endemic species	especies endémicas
+endocrine system	sistema endocrino
+endocrinology	endocrinología
+enemy	enemigo
+energy	energía
+energy balance	balance energético
+energy consumption	consumo de energía
+energy conversion	conversión energética
+energy demand	demanda energética
+energy dissipation	disipación energética
+energy distribution system	sistema de distribución energética
+energy economics	economía energética
+energy efficiency	rendimiento energético
+energy industry	industria energética
+energy legislation	legislación sobre energía
+energy management	gestión energética
+energy market	mercado de la energía
+energy policy	política energética
+energy process	proceso energético
+energy production	producción energética
+energy resource	recursos energéticos ; recurso energético
+energy saving	ahorro energético
+energy source	fuente energética
+energy source material	material de origen energético
+energy storage	almacenamiento energético
+energy supply	suministro energético
+energy technology	tecnología energética
+energy type	tipo de energía
+energy utilisation ; energy use	utilización energética
+enforcement	aplicación
+engine	motor
+engineer	ingeniero
+engineering	ingeniería
+engineering work	trabajo de ingeniería
+enjoy your meal ; have a nice meal	buen provecho ; que aproveche
+enlargement policy	política de ampliación
+enlargement programme	programa de ampliación
+enriched uranium	uranio enriquecido
+enrichment	enriquecimiento
+enter	entrar ; ingresar
+enterovirus	enterovirus
+entrepreneur	empresario
+environment	medio ambiente
+environment friendly	favorable al medio ambiente
+environment market	mercado de medio ambiente
+environmental accident	accidente ambiental
+environmental accounting	contabilidad ambiental
+environmental administration institution	institución de administración ambiental
+environmental analysis	análisis ambiental
+environmental anxiety	ansiedad ambiental
+environmental aspect of human settlements	aspecto ambiental de asentamientos humanos
+environmental assessment	evaluación ambiental
+environmental assessment criterion	criterios de evaluación ambiental
+environmental auditing	auditoría ambiental
+environmental awareness	conciencia ecológica
+environmental change	cambios ambientales
+environmental chemicals legislation	legislación ambiental de sustancias químicas
+environmental chemistry	química ambiental
+environmental citizenship	ciudadanía ambiental
+environmental compatibility	compatibilidad ambiental
+environmental consequence	consecuencia ambiental
+environmental conservation	conservación del medio ambiente
+environmental contingency planning	planificación para situaciones de urgencia ambiental
+environmental control	control ambiental
+environmental cost	costes ambientales
+environmental crime	delito ambiental
+environmental criminal law	derecho penal ambiental
+environmental criminality	criminalidad ambiental
+environmental criterion	criterio ambiental
+environmental culture	cultura ambiental
+environmental damage	daño ambiental
+environmental data	datos ambientales
+environmental development	desarrollo ambiental
+environmental economic valuation	evaluación económica ambiental
+environmental economics	economía ambiental
+environmental economics of firms	economía ambiental de empresas
+environmental economy issue	problemas de economía ambiental
+environmental education	educación ambiental
+environmental engineering	ingeniería ambiental
+environmental enterprise	empresas medioambientales
+environmental ethics	etica ambiental
+environmental friendly procurement	adquisición respetuosa del medio ambiente
+environmental fund	fondo ambiental
+environmental hazard	peligro para el medio ambiente
+environmental health	salud ambiental
+environmental health hazard	peligro de salud ambiental
+environmental health impact assessment	Evaluación de impacto de salud ambiental
+environmental health protection	protección sanitaria ambiental
+environmental history	historia ambiental
+environmental impact	impacto ambiental
+environmental impact of agriculture	impacto ambiental de la agricultura
+environmental impact of aquaculture	impacto ambiental de la acuicultura
+environmental impact of energy	impacto ambiental de la energía
+environmental impact of fishing	impacto ambiental de la pesca
+environmental impact of forestry	impacto ambiental de la silvicultura
+environmental impact of households	impacto ambiental de los hogares
+environmental impact of industry	impacto ambiental de la industria
+environmental impact of recreation	impacto ambiental de la recreación
+environmental impact of tourism	impacto ambiental del turismo
+environmental impact of transport	impacto ambiental del transporte
+environmental impact statement	declaración de impacto ambiental
+environmental impact study	estudios de impacto ambiental
+environmental incentive	incentivo ambiental
+environmental index	índice ambiental
+environmental indicator	indicadores ambientales
+environmental industry	industria medioambiental
+environmental informatics	informática ambiental
+environmental information	información ambiental
+environmental information network	red de información sobre el medio ambiente
+environmental information system	sistemas de información ambiental ; sistema de información ambiental
+environmental investment	inversión ambiental
+environmental law	derecho ambiental
+environmental law enforcement	aplicación de la legislación ambiental
+environmental legislation	legislación ambiental
+environmental legislation on agriculture	legislación ambiental sobre agricultura
+environmental legislative process	proceso legislativo sobre medio ambiente
+environmental liability	responsabilidad ambiental
+environmental licence	permiso ambiental
+environmental management	gestión ambiental
+environmental medicine	medicina ambiental
+environmental misconduct	mala conducta ambiental
+environmental monitoring	vigilancia ambiental
+environmental noise	ruido ambiental
+environmental occupation	empleo ambiental
+environmental perception	opinión ambiental
+environmental plan	planes ambientales
+environmental planning	planificación ambiental
+environmental policy	política ambiental
+environmental policy instrument	instrumento de política ambiental
+environmental pollution	contaminación ambiental
+environmental priority	prioridad ambiental
+environmental problem solving	solución de problemas ambiental
+environmental programme	programas ambientales
+environmental protection	protección ambiental
+environmental protection agency	agencia de protección del medio ambiente
+environmental protection association	asociación de protección del medio ambiente
+environmental protection cost	coste de protección del medio ambiente
+environmental protection in the enterprise	protección del medio ambiente en la empresa
+environmental protection order	orden de protección del medio ambiente
+environmental protection organisation	organización de protección del medio ambiente
+environmental protection regulation	reglamento de protección del medio ambiente
+environmental protection technology	tecnología de protección del medio ambiente
+environmental psychology	psicología ambiental
+environmental quality	calidad ambiental
+environmental quality criterion	criterio de calidad ambiental
+environmental quality objective	objetivo de calidad ambiental
+environmental quality standard	normas de calidad ambiental
+environmental report	informes ambientales
+environmental research	investigación ambiental
+environmental risk	riesgo ambiental
+environmental risk assessment	evaluación del riesgo ambiental
+environmental science	ciencia ambiental
+environmental security	seguridad ambiental
+environmental specimen bank	banco de especímenes ambientales
+environmental statement (eco-audit) ; environmental statement ; eco-audit	declaración ambiental (auditoría ecológica) ; declaración ambiental ; auditoría ecológica
+environmental statistics	estadísticas ambientales
+environmental stock exchange	bolsa ambiental
+environmental study	estudio ambiental
+environmental subsidy	subvención ambiental
+environmental sustainable architecture	arquitectura ambiental
+environmental tax	ecotasas
+environmental teaching	formación ambiental
+environmental technology	tecnología ambiental
+environmental terminology	terminología ambiental
+environmental training	capacitación ambiental
+environmental warfare	guerra ambiental
+environmentalism	ecologismo
+environmentally dangerous substance	sustancia ambientalmente peligrosa
+environmentally friendly management	gestión respetuosa del medio ambiente
+environmentally friendly product	producto respetuoso del medio ambiente
+environmentally related disease	enfermedad relacionada con el medio ambiente
+environmentally responsible behaviour	comportamiento responsable para con el medio ambiente
+environmentally unfriendly firm	empresa ambientalmente hostil
+enzyme	enzimas ; enzima
+ephemeral	efímero
+epicentre	epicentro
+epidemic	epidemias
+epidemiology	epidemiología
+epigram	epigrama
+epilepsy	epilepsia
+equation	ecuación
+equator	ecuador
+equatorial climate	clima ecuatorial
+equine	equinos
+equipment	equipo ; equipos
+equivalent dose	dosis equivalente
+erbium	erbio
+ergonomics	ergonomía
+erosion	erosión
+erosion control	control de erosión
+estate rental	arrendamiento immobiliario
+estimate	estimación
+estuarine biology	biología de estuarios
+estuarine conservation area	área de estuario de protección
+estuary	estuarios ; estuario
+estuary pollution	contaminación de estuario
+etching	aguafuerte
+etching substance	sustancia de aguafuerte ; sustancia corrosiva
+ethanol	etanol
+ether	éter
+ethics	ética
+ethnography	etnografía
+ethnology	etnología
+ethology	etología
+europium	europio
+eutrophication	eutrofización
+evaluation	evaluación
+evaluation criterion	criterio de evaluación
+evaluation method	método de evaluación
+evaluation of technology	evaluación de tecnología
+evaporation	evaporación
+evapotranspiration	evapotranspiración
+evolution	evolución ; evolución biológica
+exact science	ciencias exactas
+excavated hole	agujero excavado
+excavation (process) ; excavation ; earthworks ; digging	excavación (proceso) ; excavación
+excavation heap	escombrera de excavación
+excavation side	lado de excavación
+excavation site	sitio de excavación
+exception	excepción
+exceptional tax	impuesto excepcional
+excessive height of chimney stacks	altura excesiva de pilas de chimenea
+exchange policy	política de cambios
+executioner	verdugo
+executive order	orden ejecutiva
+exhaust device	dispositivo de escape
+exhaust gas	gas de escape
+exhibit	objeto expuesto
+existing chemical	sustancias químicas existentes ; sustancia química existente
+exotic species	especies exóticas
+expenditure	gasto
+experiment	experimento
+experimental study	estudio experimental
+expert system	sistema experto
+explicit	esplicito
+exploitation of underground water	explotación de aguas subterráneas (UP: extracción de aguas subterráneas)
+exploration	exploración
+explosion	explosión
+explosive	explosivos ; explosivo
+export	exportaciones ; exportar
+export licence	licencia de exportación
+export of hazardous wastes	exportación de residuos peligrosos
+exposure	exposición
+expropriation	expropiación
+extensive cattle farming	cría extensiva de ganado
+externality	exterioridad
+extinct species	especies extintas (UICN) ; especie extinta
+extinction (ecological) ; extinction	extinción (ecológica) ; extinción
+extraction	extracción
+extractive industry	industria extractiva
+eye	ojo
+eyebrow	ceja
+fabric	tejido
+face	cara ; rostro
+facility	facilidad
+factor market	mercado de factores
+factory farming	cultivo de fábrica
+faecal bacterium	bacteria fecal
+fallout	polvillo radiactivo ; caída
+fallow area	área de barbecho
+family	familia
+family law	derecho de familia
+family planning	planificación familiar
+famine	hambre ; hambruna
+farm	explotación agrícola ; granja ; fundo
+farm animal	animal del campo
+farm building	edificio agrícola
+farm price	precio agrario
+farming technique	técnica de cultivo
+fascism	fascismo
+fast reactor	reactor rápido
+fast traffic	tráfico rápido
+fat ; obese	obeso
+father	padre ; papá ; papi
+fault	falta
+fauna	fauna
+fauna restoration	recuperación de la fauna
+feather	pluma
+federal authority	autoridad federal
+federal government	Gobierno federal
+federal law	ley federal
+fee	honorario
+feeding of animals	alimentación de los animales
+feeling for nature	sensibilidad para la naturaleza
+felid	félidos
+female ; woman	mujer
+fen	pantano
+fermentation	fermentación
+fermium	fermio
+fern	helechos
+ferry	ferry ; transbordador
+fertilisation ; fecundation	fecundación
+fertiliser	fertilizantes ; fertilizante
+fertiliser law	ley de fertilizantes
+fibre	fibra
+fibreglass	fibra de vidrio
+field ; land ; land ; acre ; patch	campo
+field damage	daño de campo
+field experiment	experimento de campo
+field study	estudio de campo
+filling material	material de terraplenado
+filling station	gasolinera ; gasolineras ; estación de servicio ; bomba de gasolina
+film	película
+filter	filtros ; filtro
+filter cake	producto de filtración
+filtration	filtración
+final storage	almacenamiento final
+finances	finanzas
+financial aid	ayuda financiera
+financial assistance	asistencia financiera
+financial compensation	compensación financiera
+financial contribution	contribución financiera
+financial fund	fondo financiero
+financial instrument	instrumento financiero
+financial law	derecho financiero
+financial management	gestión financiera
+financial market	mercado financiero
+financing	financiación ; financiamiento
+fine	multas ; multa
+fine dust	polvo fino
+finger	dedo ; dedo ; dedo
+fire	incendios ; incendio
+fire precaution	precaución de fuego
+fire protection	protección contra el fuego
+fire safety requirement	requisito de seguridad de fuego
+fire service	servicio de incendios
+firefighter ; fireman ; firewoman ; fire fighter ; fire-eater	bombero ; bombera
+fireproofing agent	agente de ignifugación
+firework	fuego artificial
+firing	leña
+firm ; corporation ; enterprise ; company ; venture	empresas ; empresa ; compañía
+first	primero ; primera
+fish	pez
+fish disease	enfermedad de pescados
+fish farming	piscicultura
+fish kill	matanza de pescados
+fish stock	existencias de pescados ; existencia de pescado
+fish toxicity	toxicidad de pescados
+fisheries management	gestión de pesquerías
+fisheries structure	estructura pesquera
+fishery	pesquerías ; pesquería
+fishery economics	economía pesquera
+fishery policy	política pesquera
+fishery resource	recursos pesqueros ; recurso pesquero
+fishing	pesca
+fishing ground	lugar de pesca
+fishing industry	industria pesquera
+fishing law	ley de la pesca
+fishing licence	permiso de la pesca
+fishing preserve	coto pesquero
+fishing vessel	barco de pesca ; pesquero ; barco pesquero
+fitting (plumbing) ; fitting ; plumbing equipment ; plumbing fixtures	piezas (fontanería) ; accesorio de fontanería
+five	cinco
+flag of convenience	pabellón de conveniencia
+flammable product	producto inflamable
+flaring	señalar por medio de luces
+flavouring	aromatizantes ; condimento ; aromatizante
+flea	pulgas ; pulga
+flexible approach to environmental protection	planteamiento flexible de la protección del medio ambiente
+flint ; flintstone	sílex
+flocculant	floculadores
+flocculation	floculación
+flood	crecidas
+flood control	control de inundación
+flood forecast	pronóstico de inundación
+flood protection	protección contra inundaciones
+flood runoff	salida de inundación
+flooding	inundaciones
+flora (biology) ; flora	flora
+flora (document) ; flora	flora ; flora (documento)
+flora restoration	recuperación de la flora
+flotation	flotación
+flow	flujo
+flow field	campo de flujo
+flower ; bloom ; blossom	flor
+flowering plant	plantas de florecimiento
+flowing water	agua corriente
+flue gas	humo
+fluidics	fluídica
+fluidisation	fluidificación
+fluidised bed	cama fluidificada
+fluoridation	fluoración
+fluorine	flúor
+flushing	limpiar con un chorro de agua
+flute	flauta
+fluvial resource	recursos fluviales ; recurso fluvial
+fly ash	cenizas volantes ; ceniza volante
+foaming agent	elemento espumoso
+fodder ; provender ; forage	forraje
+fodder plant	planta forrajera
+fog	bruma ; niebla
+foliage	follaje
+folk tradition	tradición popular
+folklore	folklore ; folclore
+food	alimento ; alimentos
+food additive	aditivos alimentarios
+food chain	cadena alimentaria
+food commerce	comercio de comida
+food contamination	contaminación de los alimentos
+food hygiene	higiene alimentaria
+food industry	industria de la alimentación
+food irradiation	irradiación de alimentos
+food pollutant	contaminantes de los alimentos ; contaminante de los alimentos
+food preservation	conservación de alimentos
+food processing industry	industria alimentaria
+food production (agriculture) ; food production	producción de comida (agricultura) ; producción de comida
+food quality	valor nutritivo
+food requirement	necesidades alimentarias
+food science	ciencia de la alimentación
+food storage	almacenamiento de comida
+food technology	tecnología de los alimentos
+food transport	transporte de alimentos
+foodstuff	producto alimenticio
+foot	pie
+football	fútbol ; futbol
+footpath	sendero
+forage contamination	contaminación de forraje
+forage crop	plantas forrajeras
+forage law	ley de forraje
+ford	vado
+forecast	pronóstico
+foreclosure	ejecución de una hipoteca
+foreign	extranjero
+foreign economic relations	relaciones económicas extranjeras
+foreign policy	política exterior
+foreign trade	comercio exterior
+forest	bosque ; bosques
+forest biological reserve	reserva biológica forestal
+forest cover destruction	destrucción forestal de cubierta
+forest damage	daño forestal
+forest deterioration	deterioro forestal
+forest ecology	ecología forestal
+forest ecosystem	ecosistema forestal
+forest exploitation	explotación forestal
+forest fire	incendios forestales ; incendio forestal
+forest industry	industria forestal
+forest management	gestión forestal
+forest pest	plagas forestales ; plaga forestal
+forest policy	política forestal
+forest product	productos forestales ; producto forestal
+forest production	producción forestal
+forest protection	protección forestal
+forest reserve	reservas forestales ; reserva forestal
+forest resource	recursos forestales ; recurso forestal
+forestry	silvicultura ; silvicultura ; forestería ; ciencia forestal
+forestry economics	economía forestal
+forestry law	derecho forestal
+forestry legislation	legislación forestal
+forestry practice	práctica de silvicultura
+forestry unit	unidad de silvicultura
+fork	tenedor
+form of government	formas de gobierno
+forwarding agent	agente expedicionario ; agente de despacho
+fossil	fósiles
+fossil fuel	combustibles fósiles ; combustible fósil
+fouling growth	crecimiento con suciedad
+fountain	fuente
+four	cuatro
+four stroke engine	motor de cuatro tiempos
+fracture	fractura
+framework legislation	legislación marco
+francium	francio
+fraud	fraude
+free movement of capital	libre circulatión de capitales
+free trade	libre cambio
+freedom	libertades ; libertad
+freedom ; liberty	libertad
+freedom of speech ; freedom of speech	libertad de expresión
+freight transport	transporte de mercancías
+freon	freón
+freshwater	agua dulce
+freshwater degradation	degradación de agua dulce
+freshwater ecosystem	ecosistema de agua dulce
+freshwater organism	organismo de agua dulce
+freshwater pollution	contaminación de agua dulce
+freshwater resource	recursos de agua dulce ; recurso de agua dulce
+frog	ranas ; rana
+frost	heladas ; helada
+fruit	fruta
+fruit cultivation	cultivo de fruta
+fruit tree	frutales ; árbol frutal
+fuel	combustible
+fuel additive	aditivo de combustible
+fuel alcohol	alcohol combustible
+fuel cell	celda de combustible
+fuel composition	composición de combustible
+fuel consumption	consumo de combustible
+fuel oil	fueloil
+fuel tank installation	instalación del tanque de combustible
+fuel wood	madera de combustible
+full	lleno
+fume	humo ; humos
+fumigation	fumigación
+functional substance	sustancia funcional
+fundamental	fundamental
+funeral	funeral ; entierro
+fungicide	fungicidas ; fungicida
+fungus	hongos ; hongo
+fur	piel
+fur animal	animal de piel
+furan	furanos
+furnace	horno
+furniture	muebles ; mueble ; mobiliario
+furniture industry	industria de muebles
+furriery	peletería
+gadolinium	gadolineo ; gadolinio
+gallbladder	vesícula biliar
+gallinacean	gallinacea
+gallium	galio
+galvanisation	galvanización
+game	juego
+game	juego ; presa
+gamma radiation	radiación gamma
+gangrene	gangrena
+garage	garage ; garaje ; cochera ; estacionamiento
+garden	jardín
+garden waste	residuos de jardín ; residuo de jardín
+gardener	jardinero
+gas	gases ; gas
+gas chromatography	cromatografía de gases
+gas company	empresa de gas
+gas engine	motor de gas
+gas liquefaction	licuefacción de gas
+gas mixture	mezcla de gas
+gas network	distribución de gas
+gas pipeline	gaseoductos ; gaseoducto ; gasoducto
+gas powered plant	planta con energía de gas
+gas purification	depuración de gases
+gas reservoir	depósito de gas
+gas supply	suministro de gas
+gaseous air pollutant	contaminantes gaseosos ; contaminante gaseoso
+gaseous state	estado gaseoso
+gasification	gasificación
+gasohol	gasohol
+gasoline engine	motores de gasolina
+gastrointestinal tract ; alimentary canal	tubo digestivo
+gastropod	gasterópodos
+gaswork	instalación para producción de gas
+gene	genes ; gen
+genealogy	genealogía
+general	general
+general administrative order	orden administrativa general
+general chemistry	química general
+general education	enseñanza general
+genetic diversity	diversidad genética
+genetic effect	efecto genético
+genetic engineering	ingeniería genética
+genetic engineering legislation	legislación de ingeniería genética
+genetic information	información genética
+genetic modification	modificaciones genéticas
+genetic pool ; gene pool	grupo genético
+genetic resource	recursos genéticos ; recurso genético
+genetic variation	variación genética
+genetically modified organism	organismo genéticamente modificado
+genetics	genética
+genocide	genocidio
+genome	genoma
+genotoxicity	genotoxicidad
+genotype	genotipo
+geo-referenced data	datos de referencia geográfica
+geo-referenced information	información de referencia geográfica
+geodesy	geodesia
+geogenic factor	factor geogénico
+geographic information system	sistemas de información geográfica ; sistema de información geográfica
+geographical distribution of population	distribución geográfica de la población
+geographical projection	proyección geográfica
+geography	geografía
+geological disaster	desastres geológicos ; desastre geológico
+geological process	procesos geológicos
+geology	geología
+geometric correction	corrección geométrica
+geometry	geometría
+geomorphic process	proceso geomórfico
+geomorphology	geomorfología
+geophysical environment	medio geofisico
+geophysics	geofísica
+geotechnics	geotécnica
+geotechnology	geotecnología
+geothermal energy	energía geotérmica
+geranium	geranio
+germ	germen
+germ plasm	plasma de germen
+germanium	germanio
+germination	germinación
+geyser	géiser
+giraffe	jirafa
+girl	joven
+glacier	glaciares ; glaciar
+glaciology	glaciology ; glaciología
+gland	glándula
+glass	vidrio
+glass industry	industria del vidrio
+glasses ; spectacles	gafas
+glaucoma	glaucoma
+glaze	esmalte
+global aspect	aspecto global
+global convention	convenio global
+global model	modelo global
+global warming	calentamiento de la tierra
+glossary	glosario
+glue	cola
+glycolysis	glucólisis
+go	ir
+goal of individual economic business	objetivo de negocio individual
+gold	oro
+golf	golf
+gong	gong
+gonorrhea	gonorrea
+good evening	buenas tardes
+good management	buena gestión
+goods	mercancías ; mercancía
+goods and services	bienes y servicios
+goose	ánsar
+gorilla	gorila
+government (cabinet)	Gobierno (gabinete) ; gabinete
+government advisory body	organismo consultivo del Estado
+government building	edificios gubernamentales
+government liability	responsabilidad de Gobierno ; responsabilidad de gobierno
+government policy	política gubernamental
+governor	gobernador ; gobernadora
+grain	cereal
+graminaceous plant	gramíneas
+grammer ; grammar	gramática
+grandchild	novio ; nieto
+grandfather	abuelo
+grandson	nieto
+granite	granito
+granulometry	granulometry ; granulomatría
+grape	uva
+grass	hierba
+grass fire	incendios de herbazales ; incendio de herbazal
+grasshopper	saltamontes
+grassland	pradera
+gravel	grava
+gravel extraction	extracción de grava
+gravel pit	graveras ; gravera
+graviton	gravitón
+grazing	pasto
+green building	edificio ecológico
+green corridor	pasillos verdes
+green manure	abono ecológico
+green revolution	revolución verde
+green space	zonas verdes ; zona verde
+green tide	marea ecológica
+green vegetable	verdura ecológica
+greenhouse cultivation	cultivo en invernadero
+greenhouse effect	efecto invernadero
+greenhouse gas	gases de efecto de invernadero
+gridding	disposición en rejilla
+grinding	trituración
+gross national product	producto nacional bruto
+groundwater	agua subterránea
+groundwater endangering	riesgo para aguas subterráneas
+groundwater extraction	extración de aguas subterráneas
+groundwater pollution	contaminación de aguas subterráneas
+groundwater protection	protección de las aguas subterráneas
+groundwater quality	calidad de las aguas subterráneas
+group behaviour	conducta de grupo
+guillotine ; guillotine ; guillotine	guillotina
+guinea pig	conejillo de Indias ; cobayo
+guitar	guitarra
+gulf	golfos
+gull	gaviota
+gymnosperm	gimnospermas
+gypsum	yeso
+habitat	hábitat
+habitat destruction	destrucción de hábitat
+haematology	hematología
+haemorrhage ; bleeding	hemorragia
+hafnium	hafnio
+haiku	haiku
+hail	granizo
+hair	pelo ; cabello
+hairdresser ; barber	peluquero
+half-life	media de vida
+haloform	haloforme
+halogenated biphenyl	bifenilos halogenados
+halogenated compound	compuesto halogenado
+halogenated hydrocarbon	hidrocarburos halogenados ; hidrocarburo halogenado
+halogenated phenol	fenoles halogenados
+halogenated pollutant	contaminantes halogenados ; contaminante halogenado
+handicraft	artesanía
+handicraft business	negocio de artesanía
+handkerchief	pañuelo
+harbour	puerto
+hard disk drive ; hard disk ; HD	disco duro
+hard-to-dispose-of waste	residuos de difícil recogida ; residuo de difícil recogida
+hardness	dureza
+harem	harén
+harmonisation of law	armonización legal
+harpoon	arpón
+harvest	cosecha
+hassium	hassio
+hate ; hatred	odio
+hazard	peligros ; peligro ; agente peligroso
+hazard area	área de peligro
+hazard of pollutants	riesgo de contaminantes
+hazardous chemical export	exportación química peligrosa
+hazardous substance	sustancia peligrosa
+hazardous substances legislation	legislación sobre sustancias peligrosas
+hazardous waste	residuos peligrosos ; residuo peligroso
+hazardous waste dump	vertedero de residuos peligrosos
+hazardous working material	material de trabajo peligroso
+haze	bruma ; calima ; calina ; neblina ; niebla
+he	él
+head	cabeza
+headland	cabo
+headland	farallón
+health	salud
+health care	sanidad
+health care profession	profesión sanitaria
+health effect of noise	efecto sanitario del ruido
+health facility	infraestructura sanitaria
+health hazard	riesgo para la salud
+health legislation	legislación sanitaria
+health regulation	reglamento sanitario
+health service	servicio sanitario
+health-environment relationship	relaciones salud-medio ambiente
+health-related biotechnology	biotecnología relativa a la salud
+hearing	oído ; audición
+hearing acuity	agudeza auditiva
+hearing impairment	déficit auditivo
+hearing procedure	procedimiento de audiencia
+hearing protection	protección del oído
+hearing system	sistema acústico
+heart	corazón
+heat	calor
+heat and power station	central térmica y eléctrica
+heat pump	bombas de calor
+heat storage	almacenaje del calor
+heat supply	suministro de calor
+heater	calentador
+heathen ; infidel ; pagan	pagano
+heathland	brezal
+heating	calefacción
+heating plant	central de calefacción
+heaven ; sky	cielo
+heavy	pesado
+heavy goods vehicle traffic	tráfico de vehículos pesados con mercancías ; tráfico pesado
+heavy metal	metales pesados ; metal pesado
+heavy metal load	carga de metal pesado
+hedge	seto
+hedgehog	erizo
+hedonism	hedonismo
+hegemony	hegemonía
+helicopter	helicóptero ; autogiro
+helium	helio
+hello ; hey ; hi ; howdy	hola
+herbicide	herbicidas ; herbicida
+herbivore ; plant eater	herbívoros
+here	aquí ; acá
+heroin	heroína
+heron	garza
+heterocyclic compound	compuestos heterocíclicos
+hierarchy	jerarquía
+high mountain	alta montaña
+high tide water	alta de marea agua
+high voltage line	línea de alta tensión
+high-rise building	edificios de gran altura
+high-speed railway	ferrocarril de alta velocidad
+high-speed train	trenes de alta velocidad
+higher education	enseñanza superior
+highway	carretera ; autopista
+hiking trail	rastro de caminata
+historic centre	centro histórico
+historical evolution	evolución histórica
+historical monument	monumentos histórico-artísticos
+historical research	investigación histórica
+historical site	conjuntos histórico-artísticos
+historiography	historiografía
+history	historia
+holiday ; opor-garai	vacaciones ; vacación
+holiday camp	campo de vacaciones
+holmium	holmio
+home ; home ; house	casa
+home garden	jardín doméstico
+homeostasis	homeostasis
+homepage	homepage (página web) ; homepage
+homologation	homologación
+homonym	homónimo
+honey	miel
+hope	esperanza
+horizon	horizonte
+hormone	hormona
+horse	ganado equino ; ganado equino ; caballo
+horticulture	horticultura
+hospital ; clinic	hospital
+hospital waste	residuos de hospitales ; residuo de hospital
+hostage	rehén
+hot water	agua caliente
+hotel industry	industria hotelera
+hour	hora
+household	quehaceres domésticos ; núcleo familiar
+household chemical	sustancia química doméstica
+household expenditure	gasto doméstico
+household goods	bien doméstico
+housing	vivienda
+housing density	densidad de vivienda
+housing improvement	mejoras de vivienda ; mejora de vivienda
+housing legislation	derecho de la vivienda
+housing programme	programa de construcción de viviendas
+housing quality standard	normas de calidad de vivienda
+huckleberry ; blueberry	arándano
+human body	cuerpo humano
+human disease	enfermedad humana
+human ecology	ecología humana
+human habitat	hábitat humano
+human health	salud humana
+human migration	migraciones humanas
+human physiology	fisiología humana
+human population	población ; población humana
+human rights	derechos humanos
+human science	humanidades
+human settlement	asentamientos humanos ; asentamiento humano
+human settlement management	ordenación de los asentamientos humanos
+human-made disaster	desastres provocados por el hombre
+humanitarian aid	ayuda humanitaria
+humus	humus
+hundred	cien ; ciento
+hunger ; hunger ; hunger	hambre ; hambre ; hambre
+hunting	caza
+hunting licence	permiso de caza
+hunting reserve	reservas de caza ; reserva de caza
+hurricane	huracán
+husband ; spouse	esposo ; marido ; cónyuge
+hybridisation	hibridación
+hydraulic construction	construcciones hidráulicas
+hydraulic engineering	ingeniería hidráulica
+hydraulics	hidráulica
+hydrobiology	hidrobiología
+hydrocarbon	hidrocarburos ; hidrocarburo
+hydrocarbon storage tank	tanque de almacenamiento de hidrocarburo
+hydrochloric acid ; muriatic acid	acido clorhídrico ; ácido muriático
+hydroculture	agricultura de riego ; hidrocultura
+hydroelectric energy	energía hidroeléctrica
+hydroelectric power plant	central hidroeléctrica
+hydrogen	hidrógeno
+hydrogen sulphide	acido sulfhídrico ; sulfuro de hidrógeno
+hydrogeology	hidrogeología
+hydrographic basin	cuenca hidrográfica
+hydrographic network	red hidrográfica
+hydrography	hidrografía
+hydrologic balance	equilibrio hidrológico
+hydrologic cycle	ciclo hidrológico
+hydrologic disaster	desastres hidrológicos ; desastre hidrológico
+hydrologic flow	caudal
+hydrology	hidrología
+hydrolysis	hidrolisis
+hydrometeorology	hidrometeorología
+hydrometry	hidrometría
+hydrosphere	hidrosfera
+hyena	hiena
+hygiene	higiene
+hymenopteran	himenópteros
+hypertext	hipertexto
+hyponym ; narrower terms ; narrower term	hipónimo ; términos más limitados ; término más limitado
+ice	hielo
+ice cream	helado
+ice hockey	hockey sobre hielo
+ice pack	bolsa de hielo
+iceberg	icebergs
+ideology	ideología
+illiterate	analfabeto ; iletrado
+image classification	clasificación de imágenes
+image enhancement	mejora de imagen
+image filtering	filtración de imagen
+image processing digital system	sistema de tratamiento digital de la imagen
+image registration	registro de imagen
+immission	inmisión
+immission control	control de emisión
+immission control law	ley de control de emisiones
+immission damage	daño de emisión
+immission forecast	pronóstico de emisión
+immission limit	límite de emisión
+immission load	carga de emisión
+immune system	sistema inmunológico
+immunity	inmunidad
+immunoassay	immunoensayo
+immunological disease	enfermedades inmunológicas
+immunology	inmunología
+impact assessment	evaluación de impactos
+impact minimisation	minimización de impactos
+impact prevention	prevención de impactos
+impact reversal	restauración de impactos
+impact source	fuentes de impacto
+impactor	impactador
+implementation law	ley de ejecución
+import	importaciones
+import licence	licencia de importación
+impoverishment	empobrecimiento
+impregnating agent	impregnante
+impregnation	impregnación (materiales) ; impregnación
+improvement of efficiency	mejora de la eficiencia
+impulsive noise	ruido impulsivo
+in situ	in situ
+in vitro assay	análisis in vitro
+in vivo assay	análisis in vivo
+incentive fund	fondo de incentivo
+incentive tax	impuesto incentivado
+incidental pollution	contaminación fortuita
+incineration	incineración
+incineration of waste	incineración de desechos
+incineration residue	residuo de incineración
+incinerator	incineradores ; incinerador
+income	ingresos ; ingreso
+income tax	impuesto sobre la renta
+incorporation	incorporación
+indefinite legal concept	concepto legal indefinido
+indemnity	indemnizaciones
+independence	independencia
+index	índice
+indexing of documentation	indexar la documentación
+indicator	indicador
+indicator of environmental quality	indicador de la calidad ambiental
+indigenous knowledge	conocimiento nativo
+indigenous technology	tecnología nativa
+indirect discharger	descarga indirecta
+indium	indio
+individual	individuo
+individual wastewater treatment	tratamiento individual de aguas residuales
+indoor air pollution	contaminación en lugares cerrados
+indoor environment	ambiente interior
+industrial activity	actividad industrial
+industrial area	areas industriales ; área industrial
+industrial association	asociación industrial
+industrial building	edificio industrial
+industrial crop	cultivos industriales
+industrial development	desarrollo industrial
+industrial dumping	vertidos industriales ; vertido industrial
+industrial economics	economía industrial
+industrial effluent	efluentes industriales
+industrial emission	emisiones industriales
+industrial environment	medio ambiente industrial
+industrial environmental policy	política ambiental en la industria
+industrial equipment	equipo industrial
+industrial installation	instalaciones industriales
+industrial legislation	legislación industrial
+industrial manufacturing	fabricación industrial
+industrial material	productos industriales ; producto industrial
+industrial medicine	medicina del trabajo
+industrial noise	ruido comercial e industrial
+industrial planning	planificación industrial
+industrial plant (building) ; industrial plant	plantas industriales
+industrial plant (organism) ; industrial plant	planta industrial
+industrial policy	política industrial
+industrial pollution	contaminación industrial
+industrial process	procesos industriales ; proceso industrial
+industrial product	productos industriales ; producto industrial
+industrial production	producción industrial
+industrial production statistics	estadísticas de la producción industrial
+industrial property right	derechos de protección de derecho de propiedad industrial
+industrial safety	seguridad en el trabajo
+industrial site	zona industrial
+industrial sludge	barro industrial
+industrial society	sociedad industrial
+industrial structure	estructura industrial
+industrial waste	residuos industriales ; residuo industrial
+industrial waste gas	gas de residuos industriales
+industrial waste water	agua residual industrial
+industrial wasteland	erial industrial
+industrial zoning	división en zonas industriales
+industrialisation	industrialización
+industry	industria
+inert waste	residuos inertes ; residuo inerte
+inertisation	clarificación inerte
+infant	niño
+infant mortality	mortalidad infantil
+infection	infección
+infectious disease	enfermedades infecciosas
+infectious disease ; communicable diseases	enfermedad infecciosa
+infestation of crops	infestación de alimentos y cultivos
+infestation of food	infestación de alimentos y cultivos
+infiltration	infiltración
+inflammable substance	sustancias inflamables ; sustancia inflamable
+inflation	inflación
+inflow	afluencia
+influenza ; flu	gripe
+info ; information	información
+informal negotiation	negociación informal
+informatics ; computer science ; information science	informática ; computación
+information centre	centro de información
+information clearing-house	centro de distribución de información
+information exchange	intercambio de información
+information infrastructure	infraestructura de información
+information kit	equipo de información
+information network	red de información
+information processing	tratamiento de la información
+information service	servicio de información
+information source	fuentes de información
+information system	sistemas de información ; sistema de información
+information technology ; IT	tecnología de la información ; TI
+information technology industry	industria informática
+information transfer	transferencia de información
+infraction	infracciones
+infrared radiation	radiación infrarroja
+infrasound	infrasonido
+infrastructure	infraestructuras ; infraestructura
+inhabitant	habitantes ; habitante
+initial training	formación inicial
+injury	lesión
+ink	tintas ; tinta
+inland fishery	pesca continental
+inland navigation	navegación interior
+inland water	aguas continentales ; agua continental
+inland waterways transport	transporte fluvial ; transportes fluviales
+innovation	innovación
+inorganic chemistry	química inorgánica
+inorganic fertiliser	fertilizante inorgánico
+inorganic pollutant	contaminantes inorgánicos ; contaminante inorgánico
+inorganic substance	sustencias inorgánicas ; sustancia inorgánica
+insect	insectos ; insecto
+insecticide	insecticidas ; insecticida ; pesticida
+insectivore	insectívoros
+insoluble substance	sustancia insoluble
+inspection	inspección
+inspection of records	inspección de registros
+inspection service	servicio de inspección
+installation optimisation	optimización de instalaciones
+installation requiring approval	instalación que precisa autorización
+installation restoration	rehabilitación de viviendas
+instep	empeine
+institutional activity	vida institucional
+institutional structure	estructura institucional
+institutionalisation	institucionalización
+instrument ; musical instrument	instrumento ; instrumento musical
+instrument manufacture	fábrica de instrumentos
+instrumentation	instrumentación
+insulation	aislamiento
+insurance	seguros ; seguro
+insurance business	compañía de seguros
+insurance coverage	cobertura de seguro
+integral natural reserve	reserva natural integral
+integrated environmental protection technology	tecnología integrada de protección del medio ambiente
+integrated management	gestión integrada
+integrated pest control	control integrado de plagas
+integrated pollution control	control de contaminación integrado
+intensive animal husbandry	ganadería intensiva
+intensive farming	agricultura intensiva
+inter-library loan	préstamo inter-bibliotecario
+interaction of pesticides	interacción de plaguicidas
+interchange of electronic data	intercambio de datos electrónicos
+interdisciplinary research	investigación interdisciplinaria
+interest	interés
+interest group	grupo de interés
+interim decision	decisión provisional
+interlaboratory comparison	comparación entre laboratorios
+intermediate goods	productos intermedios
+intermittent noise	ruido intermitente
+internal European market	mercado interior europeo
+internal migration	migración interior ; migración interna
+internalisation of external costs	internalización de costes exteriores
+international agreement	acuerdo internacional
+international assistance	ayuda internacional
+international balance	equilibrio internacional
+international co-operation	cooperación internacional
+international competitiveness	competitividad internacional
+international conflict	conflicto internacional
+international convention	convenio internacional
+international distribution	distribución internacional
+international division of labour	división internacional de trabajo
+international economic law	derecho internacional económico
+international environmental relations	relaciones ambientales internacionales
+international harmonisation	armonización internacional
+international law	derecho internacional
+international organisation	organizaciones internacionales
+international politics	política internacional
+international relations	relaciones internacionales
+international safety	seguridad internacional
+international standardisation	normas internacionales
+international trade	comercio internacional
+international transaction	comparación internacional
+international watercourse	cursos de agua internacionales
+internationally important ecosystem	ecosistemas de importancia internacional ; ecosistema de importancia internacional
+internet search service	servicio de búsqueda en Internet
+internet service provider ; ISP ; Internet access provider ; Internet service provider	proveedor de servicios de Internet
+interpolation	interpolación
+interpretation method	método de interpretación
+interpreter	interpréte ; intérprete
+intertidal zone	zona entre mareas
+intervention fund	fondo de intervención
+intervention in nature and landscape	intervención en la naturaleza y el paisaje
+intervention on land	intervención en la tierra
+intoxication	intoxicación
+introduction of animal species	introducción de especies animales
+introduction of plant species	introducción de especies vegetales
+inventory	inventario
+inventory of forest damage	inventario de daño forestal
+inversion	inversión
+inversion layer	capa de inversión
+invertebrate	invertebrados ; invertebrado
+investment	inversión ; inversiones
+iodine	yodo ; iodo
+ion	ion
+ion exchange	intercambio iónico
+ion exchanger	intercambiador iónico
+ionising radiation	radiación ionizante
+ionosphere	ionosfera
+iridium	iridio
+iron	hierro
+iron and steel industry	industria siderúrgica
+iron industry	industria metalúrgica
+iron scrap	chatarra de hierro
+ironwork industry	industria siderúrgica
+irradiation	irradiación
+irreversibility of the phenomenon	irreversibilidad del fenómeno
+irrigation	riego
+irrigation farming	agricultura de riego
+irrigation system	sistema de irrigación
+island ; isle	isla
+island ecosystem	ecosistemas insulares ; ecosistema insular
+isomer	isómero
+isotope	isótopo
+ivory	marfil
+jackal	chacal
+jade	jade
+jaguar	jaguar
+jazz	jazz
+joint ; articulation	articulación
+joint debtor	deudor solidario
+joint implementation	puesta en práctica conjunta
+journal ; mag ; magazine ; periodical	revista
+journalism	periodismo
+journalist	periodista
+judgement (sentence) ; sentence ; judgement	juicio (sentencia) ; sentencia ; juicio
+judicial assistance	asistencia judicial
+judicial body	órgano judicial
+judicial system	sistema judicial
+judiciary rule	normas jurídicas
+judo	judo
+juridical act	acto jurídico
+jurisdiction	jurisdicción
+jurisprudence	jurisprudencia
+justice	justicia
+karate	karate
+karst	formación cárstico
+kerosene	keroseno ; kerosén
+kettle	hervidor
+keyboard	teclado
+kidney	riñón
+kilogram	kilogramo
+kleptomania	cleptomanía
+knife	cuchillo
+knight ; knight	caballo
+kokosnoot ; coconut	coco
+krypton	criptón ; kriptón
+labelling	etiquetado
+laboratory	laboratorio
+laboratory experiment	experimento de laboratorio
+laboratory research	investigación de laboratorio
+laboratory technique ; laboratory techniques	técnicas de laboratorio ; técnica de laboratorio
+laboratory test	prueba de laboratorio
+laboratory waste	residuos de laboratorios ; residuo de laboratorio
+labour	trabajo
+labour force	mano de obra
+labour law	derecho del trabajo
+labour market	mercado de trabajo
+labour relations	relaciones laborales
+lacquer	laca
+lagoon	lagunas ; laguna
+lagooning	estancamiento
+lake	lagos ; lago
+lake basin	cuencas lacustres ; cuenca lacustre
+lake pollution	contaminación de lagos
+lamp ; light	lámpara
+land	territorio ; tierra
+land allotment	parcelación de la tierra
+land clearing	limpieza de tierras
+land conservation	conservación de tierras
+land consolidation	consolidación del suelo
+land cover	cubierta terrestre
+land development	desarrollo rural
+land disposal	deposición en la tierra
+land ecology	ecología terrestre
+land forming	formación de tierra
+land mammal	mamífero terrestre
+land management and planning	gestión y planificación de tierra
+land occupation	ocupación del suelo
+land planning	ordenación del territorio
+land pollution	contaminación de tierras
+land reclamation	recuperación de terreno
+land register	registro de tierra ; catastro
+land restoration	rehabilitación de tierras
+land restoration in mountain areas	restauración de tierra en áreas de montaña
+land setup	ordenación de tierras
+land tax	contribución rústica
+land transportation	transporte terrestre
+land use	uso del suelo
+land use classification	clasificación del uso de la tierra
+land use plan	plan de utilización del suelo
+land use planning	planificación del uso de tierras
+land use regime	régimen de utilización del suelo
+land value	valor de las tierras
+land-based activity	actividad con base en tierra
+land-based marine pollution	contaminación marina con base en tierra
+land-management intervention area	área de intervención de gestión de tierra
+landfill	vertedero
+landfill base sealing	aislamiento de base de vertido
+landfill covering	recubrimiento de vertido
+landfill degasification	desgasificación de vertido
+landfill gas	gas de vertedero
+landfill leachate	lixivación de vertido
+landform	forma de relieve
+landscape	paisaje
+landscape after mining	paisaje después de la explotación minera
+landscape alteration	alteración de paisaje
+landscape architecture	arquitectura del paisaje
+landscape component	elemento del paisaje
+landscape conservation	protección de paisaje
+landscape conservation policy	política de conservación del paisaje
+landscape consumption	consumo de paisaje
+landscape ecology	ecología del paisaje
+landscape management	gestión de paisaje
+landscape planning	planificación paisajística
+landscape protection	protección del paisaje
+landscape protection area	área de protección de paisaje
+landscape utilisation	utilización de paisaje
+landslide	deslizamiento de tierras
+language	idioma ; lengua ; lenguaje
+lantern	linterna
+lanthanum	lantano
+large combustion plant	instalación de combustión grande
+laser ; Light Amplification by Stimulated Emission of Radiation	láser
+latitude	latitud
+laugh	reír
+laundering	lavado y limpieza en seco
+lavender ; lavander	lavanda
+law	ley
+law ; law (science)	derecho ; derecho (ciencia)
+law amendment	enmienda legislativa
+law branch	especialidad legal
+law draft	proyecto de ley
+law enforcement	aplicación de ley
+law relating to prisons	derecho penitenciario
+lawrencium	laurencio
+lawyer	abogado ; abogada ; letrado ; letrada
+leaching	lixivización
+lead	plomo
+lead compound	compuesto de plomo
+lead level in blood	nivel de plomo en la sangre
+lead-in-petrol law	ley de plomo en gasolina
+leaf	hoja
+leakage	fugas ; fuga
+leap year	año bisiesto
+learn	aprender
+lease	arrendamiento
+leather	cuero
+leather industry	industria del cuero
+leg	pierna
+legal basis	base jurídica
+legal form of organisations	forma jurídica de la sociedad
+legal procedure	procedimiento judicial
+legal profession	profesión jurídica
+legal regulation	reglamento legal
+legal remedy	remedio legal
+legal system	sistema judicial
+legal text	textos legislativos ; texto legislativo
+legally protected right	derecho tutelado legalmente
+legislation	legislación
+legislation on pollution	legislación sobre contaminación
+legislative authority	autoridad legislativa
+legislative competence	competencia legislativa
+legislative information	información legislativa
+legislative procedure	iniciativa legislativa
+legislature	legislatura
+leisure activity	actividades recreativas ; actividad recreativa
+leisure centre	centro de ocio
+leisure time	tiempo libre
+lemon	limón
+lens	lente
+lentil	lenteja
+leopard	leopardo
+lepidopteran	lepidópteros
+less developed country	país menos desarrollado
+lethargy ; sluggishness ; languor	letargo
+letter	carácter ; letra
+lettuce	lechuga
+leukaemia	leucemia
+level of education	nivel de enseñanza
+levy	exación
+lexicon	léxico
+liability	responsabilidad ; responsabilidades
+liability legislation	legislación de responsabilidad
+liberalism	liberalismo
+librarian	bibliotecario
+library	bibliotecas ; biblioteca
+library service	servicio de biblioteca
+licencing procedure	procedimiento de autorización
+lichen	líquenes
+life cycle	ciclo biológico
+life science	ciencias de la vida
+life-cycle management	gestión del ciclo de vida
+lifeguard	bañero
+lifestyle	forma de vida
+light	luz
+lighting	iluminación
+lignite	lignito
+lignite mining	explotación minera de lignito
+lime	cal
+limestone	caliza
+limit value	valores límite
+limnology	limnología
+line	línea
+line source	fuentes alineadas
+linear source of sound	fuente linear de sonido
+liner material	material de trazador de líneas
+linguistics	lingüística
+lion	león
+lip	labio
+lipid	lípido
+lipophilic substance	sustancia lipofílica
+lipstick	lápiz labial
+liquefied gas	gas licuado
+liquid	líquido
+liquid manure	abono líquido
+liquid state	estado líquido ; egoera likido
+liquid waste	desechos líquidos ; desecho líquido
+literature	literatura
+literature data bank	banco de datos bibliográfico
+literature evaluation	evaluación de documentación
+literature study	investigación bibliográfica
+lithium	litio
+lithography	litografía
+lithosphere	litosfera
+litigation	pleito ; litigio
+litter	basura ; basura ; residuo ; residuo ; lecho
+little finger ; pinkie	dedo meñique ; meñique
+littoral	litoral
+liver	hígado
+livestock	ganado
+livestock breeding	cría de animales ; ganadería
+livestock farming	cría de ganado
+living condition	condiciones de vida ; condición de vida
+living environment	ámbito de vida
+living space	espacio vital
+living standard	nivel de vida
+lizard	lagartos ; lagarto
+load bearing capacity	capacidad portante
+local afforestation	reforestación a escala local
+local authority	autoridad local
+local development	desarrollo local
+local finance	haciendas locales
+local government	Gobierno local
+local government policy	política de Gobierno local
+local heat supply	suministro local de calor
+local passenger service	servicio local de pasajeros
+local recreation	recreación local
+local resource utilisation	utilización de recursos locales
+local traffic	tráfico local
+location of industries	localización de industrias
+locomotive	locomotora
+locust	langosta
+lodging	alojamiento
+logic	lógica
+long	largo ; alto ; alta
+long-distance traffic	tráfico de larga distancia
+long-distance transport	transporte de larga distancia
+long-term effect	efecto a largo plazo
+long-term experiment	experimento a largo plazo
+longitude	longitud
+lorry	camiones
+loss	pérdida
+loss of biotope	pérdida de biotopo
+lottery	lotería
+loudness	intensidad
+love	amor
+love	amar
+low flow	flujo bajo
+low-cost housing	viviendas económicas ; vivienda económica
+low-level flight	vuelo de bajo nivel
+low-level technology	tecnología de bajo nivel
+lubricant	lubricante
+lumberjack	leñador
+luminosity	luminosidad
+lunch ; lunch ; lunch ; lunch ; luncheon	almuerzo ; almuerzo ; almuerzo ; almuerzo ; almuerzo
+lung	pulmón
+lutetium	lutecio
+lux	lux
+lye	lejías ; lejía
+lymphatic system	sistema linfático
+lynx	lince
+lysimetry	lisimetría
+machine gun	ametralladora
+machine manufacture	industria de la maquinaria
+machinery ; mechanism	máquina ; maquinaria
+mackerel	macarela
+macroeconomic goal	objetivo macroeconómico
+macroeconomics	macroeconomía
+macrophyte	macrofito
+macroscopic	macroscópico
+magnesium	magnesio
+magnetic tape	cinta magnética
+magnetism	magnetismo
+maintenance (technical) ; maintenance	mantenimiento ; mantenimiento (técnico)
+maintenance of environment	mantenimiento
+major accident	accidentes mayores ; accidente mayor ; accidente grave
+major risk	riesgo importante
+major risk installation	instalación de gran riesgo
+malaria	malaria
+male ; man	hombre
+malformation	malformación
+malnutrition	malnutrición
+mammal	mamíferos ; mamífero
+man	hombre
+man-made climate change	cambio climático artificial
+management	gestión
+management accounting	gestión contable
+management contract	convenio de gestión
+management of natural resources	gestión de recursos naturales
+management plan	planes de gestión
+management technique	técnica de gestión
+mandarin ; Mandarin ; Standard Mandarin	mandarín
+mandate	mandato
+manganese	manganeso
+mango	mango
+mangrove	mangle
+manpower	mano de obra
+manufacturing activity	actividad de fabricación
+manufacturing trade	comercio de fabricación
+manure	estiércol
+manure production	producción de abono
+map	mapas ; mapa
+map chart	carta ; plano ; planos
+mapping	cartografía
+mapping of lichens	descripción de liquenes
+maquis	monte  bajo
+marble	mármol
+mare	yegua
+marginal land	tierras marginales ; tierra marginal
+mariculture	acuicultura
+marina	puerto deportivo
+marine biology	biología marina
+marine ecology	ecología marina
+marine ecosystem	ecosistemas marinos ; ecosistema marino
+marine engineering	ingeniería marítima
+marine environment	ambientes marinos ; ambiente marino
+marine fauna	fauna marina
+marine fishery	pesquería marina
+marine geology	geología marina
+marine mammal	mamífero marino
+marine monitoring	vigilancia marina
+marine organism	organismo marino
+marine park	parque marino
+marine pollution	contaminación marina
+marine reserve	reserva marina ; reservas marinas
+marital status	situación familiar
+maritime law	derecho del mar
+maritime navigation	navegación marítima
+maritime transport	transporte marítimo
+marker	marcador
+market ; marketplace	mercado
+market economy	economía de mercado
+market form	forma de mercado
+market gardening	horticultura de mercado
+market price	precio de mercado
+market research	estudio de mercado
+market study	estudios de mercado
+marketing	técnicas de mercado ; mercadeo
+marsh	pantano ; pantanos
+marsupial	marsupiales
+mason ; bricklayer ; stonemason	albañil
+masonry	albañilería
+mass	masa
+mass media	medios de comunicación
+mass recreation	actividades recreativas multitudinarias ; actividad recreativa multitudinaria
+mass transport	transporte de masa
+material ; materials	materiales ; material
+material life cycle	ciclo de vida material
+materials science	ciencia de los materiales
+mathematical analysis	análisis matemático
+mathematical method	método matemático
+mathematics	matemática
+mausoleum	mausoleo
+maximum admissible concentration	concentración admisible máxima
+maximum immission concentration	concentración máxima de emisión
+mayonnaise	mayonesa
+mayor	alcalde ; alcalde ; alcaldesa ; burgomaestre
+meadow	pradera ; praderas
+means of agricultural production	medio de producción agrícola
+means of communication	medio de comunicación
+measuring	medida
+measuring instrument	instrumento de medida
+measuring method	método de medida
+measuring programme	medición del programa
+meat	carne
+mechanical equipment	material mecánico
+mechanical industry	industria mecánica
+mechanical vibration	vibración mecánica
+medical science	ciencia médica
+medicinal plant	plantas medicinales ; planta medicinal
+medicine ; medicine (practice)	medicina
+megabyte	megabyte
+meitnerium	meitnerio
+melody ; tune	melodía
+melting	fundición
+membrane	membrana
+mendelevium	mendelevio
+meningitis	meningitis
+menorah	menora ; menorá
+merchant	comerciante
+merchant shipping	marina mercante
+mercury	mercurio
+metabolism	metabolismo
+metabolite	metabolito
+metainformation	metainformation
+metal	metal
+metal oxide	óxido metálico
+metal product	producto metálico
+metal products industry	industria de productos metálicos
+metal waste	residuos metálicos ; residuo metálico
+metallic mineral	minerales metálicos ; mineral metálico
+metallurgical industry	industria metalúrgica
+metallurgy	metalurgia
+metaphor	metáfora
+metaphysics	metafísica
+meteor ; meteor ; meteor ; meteor ; meteor ; shooting star ; falling star	meteoro ; meteoro ; meteoro ; meteoro ; meteoro ; estrella fugaz
+meteorite	meteorito
+meteorological disaster	desastres meteorológicos ; desastre meteorológico
+meteorological parameter	parámetro meteorológico
+meteorological phenomenon	fenómenos meteorológicos
+meteorological research	investigación meteorológica
+meteorology	meteorologia ; meteorología
+methane ; marsh gas ; methyl hydride	metano
+methanisation	methanización
+methanol	metanol
+method	método
+methodology	metodología
+metrology	metrología
+metronome	metrónomo
+metropolis	metrópolis
+micro-organism	microorganismos ; microorganismo
+microbiological analysis	análisis microbiológico
+microbiology	microbiología
+microclimate	microclima
+microclimatology	microclimatología
+microcomputer	microordenador
+microecosystem	microecosystem
+microelectronics ; microminiaturization ; microsystem electronics	microelectrónica
+microfiltration	microfiltración
+microphone	micrófono
+micropollutant	microcontaminante
+microscopy	microscopía ; microscopia
+microwave	microondas
+migrant labour	trabajo emigrante
+migratory bird	aves migratorias
+migratory fish	pescados migratorios
+military activities	actividades militares
+military air traffic	tráfico aéreo militar
+military aspects	aspectos militares
+military equipment	armamento ; equipamiento militar
+military zone	campamento militar
+milk	leche
+mill	molino
+millet	mijo
+mine	mina
+mine filling	rellenado de minas
+mineral	mineral ; minerales
+mineral conditioner	acondicionador mineral ; acondicionamiento mineral
+mineral deposit	depósito mineral
+mineral extraction	extracción de minerales
+mineral fibre	fibra mineral
+mineral industry	industria mineral
+mineral matter	materia mineral
+mineral oil	petróleo mineral
+mineral pollution	contaminación mineral
+mineral resource	recursos minerales ; recurso mineral
+mineral waste	residuos minerales ; residuo mineral
+mineral water	aguas minerales
+mineralisation	mineralización
+mineralogy	mineralogía
+minimal cost planning	planificación de costes mínimos
+minimisation of damage	minimización del daño
+mining district	distrito de explotación minera
+mining industry	industria minera
+mining law	ley de explotación minera
+mining product	producto minero
+mining regulation	reglamento de explotación minera
+mining site restoration ; mine reclamation	restauración de mina
+mining waste	residuos de la minería ; residuo de la minería
+miniskirt ; mini-skirt	minifalda
+minister competence	competencia de ministro
+ministerial decree	decreto ministerial
+ministry	ministerios
+ministry ; ministry building	edificio ministerial
+minor	menor
+minority	minorias ; minoría
+minute	minuto
+miscellaneous product	productos diversos ; producto diverso
+miscibility	miscibilidad
+mist	bruma ; neblina ; niebla
+mistral	mistral
+mite	ácaros ; ácaro
+mitigation measure	medida de mitigación
+mitosis	mitosis
+mixed farming	granja agropecuaria
+mixed forest	bosque mixto
+mixed use area	área de uso mixto
+mixing	mezclado
+mobile home	hogar móvil
+mode of transportation	modo de transporte
+model	modelos ; modelo ; maqueta
+model	modelo
+modelling	modelos y simulación ; modelado
+moisture	humedad
+molar ; tooth	diente
+molecular biology	biología molecular
+mollusc	moluscos ; molusco
+molybdenum	molibdeno
+monetary assessment	evaluación monetaria
+monetary economics	economía monetaria
+monetary relations	relaciones monetarias
+money market	mercado monetario
+monitoring	vigilancia
+monitoring criterion	criterio de vigilancia
+monitoring data	datos de vigilancia
+monitoring equipment	equipo de vigilancia
+monitoring network	redes de vigilancia ; red de vigilancia
+monitoring station	estación de vigilancia
+monitoring technique	técnicas de vigilancia ; técnica de vigilancia
+monopoly	monopolio
+month	mes
+monument	monumento
+moon ; Luna ; Moon	luna ; Luna
+moon ; moon ; satelite ; satelite	luna ; luna ; satélite ; satélite ; satélite ; satélite natural
+morphine	morfina
+morphology	morfología (biológica) ; morfología
+mortality	mortalidad
+mosaic	mosaico
+mosque	mezquita
+moss	musgos
+motet	motete
+mother	madre
+mother-in-law ; mother in law	suegra ; madre política
+motherhood ; maternity	maternidad
+motor fuel	carburante
+motor vehicle	vehículos de motor ; vehículo motirizado
+motor vehicle exhaust gas	gas de escape de vehículo de motor
+motor vehicle industry	industria de vehículo de motor
+motor vehicle pollution	contaminación de vehículo de motor
+motorcycle ; motorbike	motocicleta
+motorway ; pike ; expressway ; freeway ; state highway ; superhighway ; throughway ; thruway	autopistas ; autopista ; autovía
+mountain	montaña
+mountain climate	clima de montaña
+mountain forest	bosque de montaña
+mountain management	gestión de montaña
+mountain protection	protección de montaña
+mountain range	sierras ; sierra ; cordillera
+mountain resort	centro turístico de montaña
+mountainous area	zonas montañosas ; zona montañosa
+mouse	ratón
+mowing	siega
+mud	barro ; lodo
+mud flat	marisma
+mulch	cubierta humidificadora
+mule	mula
+multilateral agreement	acuerdo multilateral
+multimedia technology	tecnología multimedia
+multinational firm	empresas multinacionales ; empresa multinacional
+multispectral scanner	escaner multiespectral
+mumps	paperas ; papera ; parótidas
+municipal cleansing service	servicio de limpieza municipal
+municipal dumping	vertidos urbanos ; vertido urbano
+municipal environment plan	plan municipal de medio ambiente
+municipal environmental policy	política ambiental municipal
+municipal law	ley municipal
+municipal level	nivel municipal
+municipal waste	desechos municipales ; desecho municipal
+municipal water distribution system	acueducto municipal
+municipal water management	gestión del agua municipal
+municipality	municipios ; municipio
+muscular system	sistema muscular
+museum	museos ; museo
+mushroom	setas
+music	música
+musical	musical
+musician	músico
+musquito ; mosquito	mosquito
+mussel farming	cultivo del mejillón
+mustelid	mustélidos
+mutagen	mutágeno
+mutagenicity	mutagenicidad
+mutagenicity testing	prueba de mutagenicidad
+mutant	mutante
+mutated micro-organisms release	liberación transformada de microorganismos
+mutation	mutación
+mycete	micetes
+mycology	micología
+mycorrhiza	micorriza
+mysterious	misterioso
+myth	mito ; leyenda
+nadir	nadir
+name ; proper name ; proper noun	nombre
+napkin	servilleta
+nappy	pañal
+national accounting	contabilidad nacional
+national boundary	frontera nacional
+national economy	economía nacional
+national environmental accounting	contabilidad ambiental nacional
+national fishing reserve	reserva nacional de la pesca
+national legislation	legislación nacional e instituciones
+national park	parques nacionales ; parque nacional
+national planning	planificación nacional
+nationalisation	nacionalización
+natural area	areas naturales ; área natural
+natural areas protection	protección de áreas naturales
+natural disaster	desastres naturales ; desastre natural
+natural environment	medio natural
+natural fertiliser	abonos orgánicos y fertilizantes naturales
+natural fibre	fibras naturales ; fibra natural
+natural forest	bosque natural
+natural gas	gas natural
+natural gas exploration	exploración de gas natural y petróleo
+natural gas extraction	extracción de gas natural
+natural hazard	peligro natural
+natural heritage	patrimonio natural
+natural heritage assessment	evaluación de herencia natural
+natural material	materiales naturales ; material natural
+natural monument	monumentos naturales ; monumento natural
+natural park	parques naturales ; parque natural
+natural radioactivity	radiactividad natural
+natural regeneration	regeneración natural
+natural resource	recursos naturales ; recurso natural
+natural resource conservation	conservación de recursos naturales
+natural risk	riesgo natural
+natural risk analysis	análisis del riesgo natural
+natural risks prevention	prevención de riesgos naturales
+natural scenery	paisaje natural
+natural science	ciencias naturales
+natural stone	piedra natural
+natural value	valor natural
+nature conservation	conservación de la naturaleza
+nature conservation legislation	legislación de protección de la naturaleza
+nature conservation organisation	organización de protección de la naturaleza
+nature conservation programme	programa de protección de la naturaleza
+nature protection	protección de la naturaleza
+nature reserve	reservas naturales ; reserva natural
+nausea	naúsea
+navigation	navegación
+navigational hazard	peligros para la navegación
+necrosis	necrosis
+need	necesidad
+neighbour ; vecino	prójimo ; vecino
+neighbourhood noise	ruido de vecindad
+nematode	nematodos
+neodymium	neodimio
+neologism	neologismo
+neon	neón
+neoplasm ; tumour	tumor
+nepotism	nepotismo
+neptunium	neptunio
+nervous system	sistema nervioso
+nesting	jerarquización
+nesting area	área de jerarquización ; área de anidamiento
+netting policy (emissions trading) ; netting policy	política de red (negociación de emisiones)
+neurology	neurología
+neurotoxicity	neurotoxicity ; neurotoxicidad
+neutralisation	neutralización
+new ; novel	nuevo ; reciente
+new community	nuevas comunidades
+new installation	nueva instalación
+new material	nuevos materiales ; nuevo material
+new technology	nuevas tecnologías
+newsgroup	grupo informativo ; foro
+newsletter	boletín informativa
+newspaper	periódico ; diario
+nickel	níquel
+niobium	niobio ; columbio
+nitrate	nitratos ; nitrato
+nitrification	nitrificación
+nitro compound	nitrocompuestos
+nitrogen	nitrógeno
+nitrogen cycle	ciclo del nitrógeno
+nitrogen dioxide	dióxido de nitrógeno
+nitrogen fixation	fijación de nitrogeno
+nitrogen monoxide	monóxido de nitrógeno
+nitrogen oxide	óxido de nitrógeno
+nitrogen oxides	oxidos de nitrógeno ; oxido de nitrógeno
+nitrogenous fertiliser	fertilizante nitrogenado
+nitrosamine	nitrosamina
+no	no
+nobelium	nobelio
+noise	ruido
+noise ; noise, vibrations ; racket	ruido ; ruido, vibraciones ; brus
+noise abatement	mitigación del ruido
+noise analysis	análisis de ruido
+noise barrier	barreras acústicas
+noise control	control del ruido
+noise disturbance ; noise pollution	alteración por ruido ; molestia por el ruido
+noise emission	emisión de ruido
+noise emission levy	impuesto por emisión de ruido
+noise exposure plan	plan de exposición de ruido
+noise immission	emisión de ruido
+noise legislation	legislación sobre el ruido
+noise level	nivel del ruido
+noise measurement	medida de ruido
+noise pollutant	contaminantes acústicos ; contaminante acústico
+noise pollution	contaminación acústica
+noise protection	protección de ruido
+noise reduction	reducción de ruido
+noise spectrum	espectro de ruido
+noise-free technology	tecnología silenciosa
+nomad	nómadas
+nomenclature	nomenclatura
+non-biodegradable pollutant	contaminantes no biodegradables ; contaminante no biodegradable ; kutsatzaile ez-biodegradagarri
+non-built-up area	zona no construida
+non-conventional energy	energía no convencional
+non-demesnial water	agua no demesnial
+non-durable goods	bien no duradero
+non-ferrous metal	metales no férreos ; metal no férreo
+non-ferrous metal industry	industria del metal no ferroso
+non-governmental organisation	organizaciones no gubernamentales
+non-ionising radiation	radiación no ionizante
+non-metal	metaloides ; semimetal ; metaloide ; no metal
+non-metallic mineral	minerales no metálicos ; mineral no metálico
+non-polluting energy source	fuentes de energía no contaminantes
+non-polluting fuel	combustible no-contaminante
+non-renewable energy resource	recursos energéticos no renovable ; recurso energético no renovable
+non-renewable resource	recursos no renovables ; recurso no renovable
+non-residential building	construcción de edificios funcionales
+non-returnable container	envase no restituible
+non-target organism	organismo de no objetivo
+non-volatile substance	sustancia permanente ; sustancia no volatil
+norm	norma
+nose	nariz
+nosotros ; we	nosotros
+nostril	nariz
+not	no
+note	nota
+nothing	nada
+notice	aviso ; notificación
+notification	notificación
+noun ; substantive	sustantivo
+novel	novela
+nuclear accident	accidentes nucleares ; accidente nuclear
+nuclear debate	polémica nuclear
+nuclear energy	energía nuclear
+nuclear energy legislation	legislación de energía nuclear
+nuclear energy use	usos de la energía nuclear
+nuclear explosion (accident) ; nuclear explosion	explosiones nucleares
+nuclear facility	instalación nuclear
+nuclear fission	fisión nuclear
+nuclear fuel	combustibles nucleares ; combustible nuclear
+nuclear fuel element	elemento combustible nuclear
+nuclear fusion	fusión nuclear
+nuclear hazard	peligro nuclear
+nuclear physics	física nuclear
+nuclear power plant	central nuclear
+nuclear reaction	reacción nuclear
+nuclear reactor	reactores nucleares ; reactor nuclear
+nuclear research centre	centros de energía e investigación nuclear
+nuclear risk	riesgo nuclear
+nuclear safety	seguridad nuclear
+nuclear test	prueba nuclear
+nuclear weapon	armas nucleares ; arma nuclear
+nucleic acid	ácido nucléico ; ácido nucleico
+nursery (plant breeding) ; nursery ; plant nursery	criadero (fitogenética) ; criadero
+nutcracker	cascanueces
+nutrient	nutrientes ; nutriente
+nutrient balance	equilibrio nutritivo
+nutrient content	contenido nutritivo
+nutrient cycle	ciclo nutritivo
+nutrient medium	medio nutritivo
+nutrient removal	traslado nutritivo
+nutrition	alimentación ; nutrición
+nutritive value of food	valor nutritivo de los alimentos
+oak	robles ; roble
+obesity	obesidad
+obey	obedecer
+objection	objeción
+obligation to inform	obligación de informar
+obligation to label	obligación de etiquetar
+observation	observación
+observation satellite	satélite de observación
+observatory	observatorio
+obsolete	obsoleto
+obstacle ; obstruction	obstáculo ; obstrucción
+occupational disease	enfermedades ocupacionales ; enfermedad ocupacional
+occupational health	salud ocupacional
+occupational health care	salud ocupacional
+occupational medicine	medicina del trabajo
+occupational safety	seguridad en el trabajo
+occupational safety regulation	reglamento de seguridad profesional
+occupational status	categoría profesional
+ocean ; sea ; body of water ; bounding main	océanos ; océano
+ocean circulation	circulación oceánica
+ocean current	corriente oceánica
+ocean dumping	vertimiento de desechos en el océano
+ocean exploitation	explotación oceánica
+ocean temperature	temperatura del océano
+ocean-air interface	interfaz océano-aire
+oceanic climate	clima oceánico
+oceanography	oceanografía
+octave	octava
+octopus	pulpo
+odour	olor
+off-peak travelling	trabajo y movilización fuera de horas críticas
+off-site	fuera de lugar
+offence against the environment	agresión contra el medio ambiente
+office	oficina
+official duty	deber oficial
+official hearing	audiencia oficial
+official language	idioma oficial ; lengua oficial
+offset policy (emissions trading)	política compensatoria (negociación de emisiones)
+offshore mining	minería marina
+ohm	ohmio
+oil and fat industry	industria de aceites y grasas
+oil binding agent	agente astringente de petróleo
+oil boom	'boom' del petróleo
+oil disaster	catástrofe petrolera
+oil exploration	exploración de gas natural y petróleo
+oil extraction	extracción de petróleo
+oil pipeline	oleoducto
+oil pollution	contaminación de petróleo
+oil pollution abatement	disminución de contaminación de petróleo
+oil production (chain)	producción de petróleo (cadena)
+oil recovery vessel	nave de recuperación de petróleo
+oil refinery	refinería de petróleo
+oil residue recuperation	recuperación de residuos de petróleo
+oil slick	masa flotante de petróleo
+oil spill	marea negra
+oil tanker	buques petroleros
+oil-based energy	energía basada en el petróleo
+old hazardous site	antiguo sitio peligroso
+old landfill site	vertedero antiguo
+olfactory pollution	contaminación olfativa
+oligarchy	oligarquía
+oligopoly	oligopolio
+olive	aceituna
+olive oil mill wastewater	alpechín (UP:agua residual de almazara) ; alpechín
+omega	omega
+on-line service	servicio en línea
+on-site wastewater treatment	tratamiento de aguas residuales in situ
+oncology	oncología
+one	uno
+onion	cebolla
+ontogenesis ; ontogenesis ; ontogeny	ontogénesis ; ontogénesis
+ontology	ontología
+open lawn	césped abierto
+open sea	alta mar
+open sea fishing	pesca en alta mar
+opencast mining ; open-pit mining	explotación a cielo abierto
+opera	ópera
+operating data	datos de funcionamiento
+operetta	opereta
+ophthalmology	oftalmología
+opinion ; stance	opinión ; parecer ; apreciación
+opinion survey	encuesta de opinión
+opium	opio
+optics	óptica
+optimism ; optimism ; optimism ; optimism ; optimism ; optimism ; optimism	optimismo ; optimismo ; optimismo
+or	o ; u
+oral sex	sexo oral
+orange	naranja
+orchestra	orquesta
+orchid	orquídea
+order	orden
+ordinance	ordenanza
+ore	mineral
+organ	órgano
+organelle	orgánulo ; organela
+organic carbon	carbono orgánico
+organic chemistry	química orgánica
+organic farming	agricultura biológica
+organic matter	materia orgánica
+organic nitrogen	nitrógeno orgánico
+organic pollutant	contaminantes orgánicos ; contaminante orgánico
+organic pollution	contaminación orgánica
+organic solvent	disolventes orgánicos ; disolvente orgánico
+organic substance	substancias orgánicas ; sustancia orgánica
+organic waste	residuo orgánico
+organisation (law)	sociedad
+organisation of teaching	organización de la enseñanza
+organisation of the legal system	organización de la justicia
+organism	organismos ; organismo
+organochlorine compound	compuestos de organocloro
+organohalogen compound	compuestos órganohalogenados ; compuesto órganohalogenado
+organoleptic property	propiedad organoléptica
+organometallic compound	compuestos organometálicos
+organonitrogen compound	compuestos organonitrogenados
+organooxygen compound	compuestos organo-oxigenados
+organophosphorous compound	compuestos órganofosforados
+organosulphur compound	compuestos organosulfurados
+ornithology	ornitología
+orography	orografía
+orphan	huérfano
+orthography	ortografía
+orthopteran	ortópteros
+osmium	osmio
+osmosis	osmosis
+ostrich	avestruz
+outer space (allocation plan) ; outer space	espacio exterior (plan de asignación) ; espacio exterior
+ovary	ovario
+oven	horno
+overburden	sobrecarga
+overexploitation	sobrexplotación
+overfertilisation	superfertilización
+overfishing	sobreexplotación pesquera
+overflow (outlet)	desbordamiento (salida)
+overgrazing	pastoreo excesivo
+overhead power line	línea de coriente suspendida
+overpopulation	superpoblación
+overturn (limnology)	vuelque (limnología) ; vuelque
+overwintering	hibernar
+ovine	ovino
+owner	propietario ; dueño ; dueña ; propietaria
+ownership	propiedad
+oxidation	oxidación
+oxidation-reduction	oxidación-reducción
+oxide	óxidos ; óxido
+oxidisable material	material oxidable
+oxidising agent	agente oxidante
+oxygen	oxígeno
+oxygen content	contenido de oxígeno
+oxygenation	oxigenación
+oyster	ostra
+oyster farming	ostricultura
+ozone	ozono
+ozone depletion potential	potencial de agotamiento de ozono
+ozone layer	capa de ozono
+ozone layer depletion	agotamiento de capa de ozono
+ozonisation	ozonización
+pacifist	pacifista
+packaging	embalajes ; embalaje
+packaging waste	residuos de embalaje ; residuo de embalaje
+packing industry	industria de embalaje
+paediatrician	pediatra
+page	página
+paint	pinturas
+paint room	sala de pintura
+paint shop	taller de pintura ; tienda de pintura
+painting business	empresa de pintura
+palaeoclimatology	paleoclimatología
+palaeoecology	paleoecología
+palaeontology	paleontología
+palindrome	palíndromo
+palladium	paladio
+palm	palmera
+palm	palma de la mano
+pancreas	páncreas
+pandemic	pandemia
+paper	papel
+paper industry	industria papelera
+parabola	parábola
+parachute	paracaídas
+parameter	parámetro
+parasite	parásitos
+parasitology	parasitología
+parking provision	área de aparcamiento
+parliamentary debate	debate parlamentario
+parliamentary report	informe parlamentario
+parrot	loro
+part of speech ; lexical category	parte de oración
+partially halogenated chlorofluorohydrocarbon	clorofluorohidrocarburos
+participation	participación
+particle	partículas ; partícula
+particle separator	separador de partículas
+party ; political party	partidos políticos ; partido ; partido político
+passenger transport	transporte de pasajeros
+paste-like waste	residuo gomoso
+pasture	pastos
+patent	patente
+path	senda
+pathogen	patógeno
+pathogenic organism	organismos patógenos
+pathologic effect	efecto patológico
+pathology	patología
+patrimonial management	gestión patrimonial
+pattern recognition	reconocimiento de patrón
+pay policy	política salarial
+peace	paz
+peacekeeping	mantenimiento de la paz
+pear	pera
+peat	turba
+peat extraction	extracción de turba
+pedagogy	pedagogía
+pedestrian zone ; pedestrian area ; car-free zone ; auto-free zone ; pedestrianised zone	zonas peatonales ; zona peatonal
+pedosphere	pedosfera
+penalty	sanciones penales
+penalty for environmental damage	sanciones por daños ambientales
+pencil	lápiz
+penguin	pingüino
+peninsula	península
+pentachlorophenol	pentaclorofenol
+people	gente
+per capita data	datos per cápita
+percolating water	agua de percolación
+perineum	periné
+periodic table	tabla periódica ; tabla periódica de los elementos
+peripheral park area	área periférica de parque
+periphyton	periphyton
+periurban space	espacio de la periferia urbana
+permeability	permeabilidad
+permissible exposure limit	límite permitido de exposición
+permission	permiso
+peroxyacetylnitrate	nitrato de peroxiacetilo
+persistant organic pollutant	contaminantes orgánicos persistentes ; contaminante orgánico persistente
+persistence	persistencia
+persistence of pesticides	persistencia de plaguicidas
+person	personaje ; ser ; humano ; persona
+personal responsibility	responsabilidad personal
+pessmism	pesimismo
+pest	plagas ; plaga
+pest control	control de plagas
+pest infestation	infestación por plaga
+pesticide	pesticidas ; pesticida
+pesticide control standard	normas de control de plaguicidas
+pet	animal doméstico
+petition	petición
+petition right	derecho de petición
+petrochemical	petroquímica
+petrochemical industry	industria petroquímica
+petrol	gasolina
+petroleum	petróleo
+petroleum consumption	consumo de petróleo
+petroleum industry	industria petrolera
+phanerogam ; spermatophyte	fanerógamas
+pharmaceutical industry	industria farmacéutica
+pharmaceutical waste	residuo farmaceútico
+pharmacokinetics	farmacocinética
+pharmacology	farmacología
+pheasant	faisán
+phenol	fenoles
+pheromone	feromona
+philology	filología
+philosophy	filosofía
+phishing	phishing
+phobia	fobia
+phone ; telephone	teléfono
+phonetics	fonética
+phosphate	fosfato
+phosphate removal	eliminación de fosfato
+phosphate substitute	sustituto del fosfato
+phosphatic fertiliser	fertilizante fosfático
+phosphorus	fósforo
+photo ; photograph	fotografía
+photochemical agent	efectos y agentes fotoquímicos ; agente fotoquímico
+photochemical oxidant	oxidante fotoquímico
+photochemical pollution	contaminación fotoquímica
+photochemical product	productos fotoquímicos
+photochemical reaction	reacciones fotoquímicas ; reacción fotoquímica
+photochemical smog	niebla fotoquímica
+photodegradation	fotodegradación
+photogrammetry	fotogrametría
+photography	fotografiar
+photon	fotón
+photosynthesis	fotosíntesis
+physical alteration	alteración física
+physical chemistry	química física ; fisicoquímica
+physical conditions	condición física
+physical geography	geografía física
+physical measurement of pollution	medida física de la contaminación
+physical planning	planificación física
+physical pollutant	contaminantes físicos ; contaminante físico
+physical pollution	contaminación física
+physical process	procesos físicos ; proceso físico
+physical property	propiedad física
+physical science	ciencias físicas
+physical treatment	tratamiento físico
+physicochemical analysis	análisis fisicoquímico
+physicochemical process	procesos fisicoquímicos ; proceso fisicoquímico
+physicochemical purification	depuración físico-química
+physicochemical treatment	tratamiento fisicoquímico
+physics	física
+physiology	fisiología
+phytomass	fitomasa
+phytopathology	patología vegetal
+phytoplankton	fitoplancton
+phytosanitary treatment	tratamiento fitosanitario
+phytosociology	fitosociología
+phytotoxicity	fitotoxicidad
+piano ; pianoforte	piano ; pianoforte
+pickling plant	planta de conserva en vinagre
+pigeon ; dove	paloma
+piggery	pocilga
+pike ; spear	lanza
+pilot plant	instalación piloto
+pilot project	proyectos pilotos ; proyecto piloto
+pilotage	pilotaje
+pinniped	pinnípedos
+pino ; pine	pino
+pipe	tuberías
+pipeline	oleoductos ; oleoductos ; tubería
+pituitary gland	glándula pituitaria ; hipófisis
+pity ; compassion	compasión
+pixel	pixel
+pizza	pizza
+place ; location	sitio ; lugar ; ubicación
+placenta	placenta
+plain	llanuras ; llanura
+plan	plan
+plane	plano
+plane source	fuente de avión
+planet	planeta
+plankton	plancton
+planning	planificación
+planning law	ley de planificación
+planning measure	medidas de planificación ; medida de planificación
+planning permission	permiso de planificación
+plant	plantas ; planta
+plant biology	biología vegetal
+plant breeding	cultivo de plantas
+plant community	comunidad vegetal
+plant component	partes de la planta
+plant disease	enfermedades de las plantas ; enfermedad de las plantas
+plant ecology	ecología vegetal
+plant equipment	equipo de planta
+plant heritage	herencia vegetal
+plant physiology	fisiología vegetal
+plant population	densidad vegetal
+plant production	producción
+plant protection	protección de las plantas
+plant protection product	productos fitosanitarios ; producto fitosanitario
+plant reproduction	reproducción vegetal
+plant resource	recursos vegetales ; recurso vegetal
+plant selection	fitomejoramiento
+plant species	especies vegetal
+plant species reintroduction	reintroducción de especie vegetal
+plant textile fibre	fibra textil vegetal
+plant trade	comercio vegetal
+planting	establecimiento ; sembrado
+plasma technology	tecnología de plasma
+plastic	plásticos ; plástico
+plastic waste	desechos de plásticos y polímeros ; desecho de plásticos y polímeros
+platinum	platino
+platitude ; cliche ; cliché	cliché
+pleasure cruising	crucero turístico
+plough	arado
+plutonium ; plutonium ; plutonium	plutonio ; plutonio ; plutonio
+point	punto
+point source	fuentes puntuales
+poison	veneno ; venenos
+poisoning	envenenamiento
+polar bear	oso polar ; oso blanco
+polar region	región polar
+polder	polder
+police	policía
+police law	ley de policía
+police power	poder policial
+policy	política
+policy guideline	directriz política
+policy instrument	instrumento político
+policy integration	integración política
+policy planning	planificación de políticas
+political counselling	asesoramiento político
+political doctrine	doctrinas políticas
+political ecology	ecología política
+political geography	geografía política
+political ideology	ideología política
+political organisation	organización política
+political power	poder político
+politics	política
+pollen	polen
+pollutant	contaminantes ; contaminante
+pollutant absorption	absorción contaminante
+pollutant accumulation	acumulación contaminante
+pollutant analysis	análisis de contaminantes
+pollutant assessment	evaluación contaminante
+pollutant concentration	concentración contaminante
+pollutant degradation	degradación contaminante
+pollutant deposition	deposición contaminante
+pollutant dispersion	dispersión de contaminantes
+pollutant distribution	distribución de contaminantes
+pollutant elimination	eliminación contaminante
+pollutant emission	emisión contaminante
+pollutant evolution	evolución contaminante
+pollutant exposure	exposición contaminante
+pollutant flow	flujo de agente contaminante
+pollutant formation	formación contaminante
+pollutant immission	emisión contaminante
+pollutant immobilisation	inmovilización contaminante
+pollutant migration	migración contaminante
+pollutant monitoring	vigilancia de contaminantes
+pollutant pathway	trayectoria de contaminantes
+pollutant reduction	reducción contaminante
+pollutant remobilisation	removilización contaminante
+polluted matter	materia contaminada
+polluted site	sitio contaminado
+polluter-pays principle	principio contaminador-pagador
+pollution	contaminación
+pollution abatement	mitigación de la contaminación
+pollution abatement equipment	equipo de mitigación de la contaminación
+pollution abatement waste	desecho de limpieza
+pollution control	control de la contaminación
+pollution control equipment	equipo de control de contaminación
+pollution control investment	inversión de control de contaminación
+pollution control measure	lucha contra la contaminacíon
+pollution control technology	tecnología de control de la contaminación
+pollution cost	costes de la contaminación
+pollution effect	efectos de la contaminación
+pollution indicator	indicadores de contaminación
+pollution insurance	seguro de contaminación
+pollution liability	responsabilidad por contaminación
+pollution load	carga contaminante
+pollution measurement	medida de la contaminación
+pollution monitoring	vigilancia de contaminantes
+pollution norm	normas sobre contaminación
+pollution prevention	prevención de la contaminación
+pollution risk	riesgos de contaminación ; riesgo de contaminación
+pollution type	tipo de contaminación
+polonium	polonio
+polybrominated biphenyl	bifenilos polibromados
+polychlordibenzo-p-dioxin	dioxina de polychlordibenzo-p
+polychlorinated biphenyl	bifenilos policlorados
+polychlorinated dibenzofuran	dibenzofurano policlorinado
+polychlorinated terphenyl	terfenilos policlorados
+polycyclic aromatic hydrocarbon	hidrocarburo aromático policíclico
+polycyclic hydrocarbon	hidrocarburo policíclico
+polyethylene terephtalate	polietileno terephtalate ; politereftalato de etileno ; polietileno tereftalato
+polygon	polígono
+polymer	polímeros ; polímero
+polymerisation	polimerización
+polyvinyl chloride	policloruro de vinilo
+pomegranate	granada
+pond	estanque
+pool ; puddle ; puddle	estanque ; grupo ; pantano ; pantano ; pozo ; pozo
+pope	papa
+population	población ; poblaciones
+population density	densidad de población
+population dynamics	dinámica de poblaciones
+population ecology	ecología de población
+population growth	crecimiento de la población
+population movement	movimiento de población
+population structure	estructura de la población
+population trend	tendencia de población
+porcelain	porcelana
+poriferan	esponjas ; esponja
+posidonia ; neptunegrass	posidonia
+positron	positrón
+possession	posesión
+post office	correos
+post-treatment	post-tratamiento
+posterity	posteridad
+postman	cartero
+potash	potasa
+potassium	potasio
+potassium fertiliser	fertilizante de potasio
+potato ; patato	papa ; patata
+poultry	aves de corral
+poultry farming	granja avícola
+poverty	pobreza
+power (physics) ; power	potencia
+power company	compañía energética
+power station	central eléctrica
+power station derating	reducción de potencia de central eléctrica
+power-heat relation	relación fuerza-calor
+pragmatics	pragmática
+praseodymium	praseodimio
+pre-emption	derecho preferente de compra
+pre-emption zone	zona de derecho preferente de compra
+precautionary principle	principio preventivo
+precipitation ; precipitation (chemical)	precipitación (química) ; precipitación
+precipitation enhancement	aumento de la precipitación
+precision engineering	mecánica de precisión
+predator	depredadores
+prefabricated building	construcciones prefabricadas
+pregnancy	embarazo
+prelate	prelatura
+preliminary proceedings	procedimiento preliminar
+premium	premio
+preparation for market	acondicionamiento del producto
+preposition	preposición
+prescription	prescripción
+preservation of evidence	preservación de pruebas
+preservative	conservantes ; conservante ; conservador
+preserve	conservas ; conserva ; mermelada
+president	presidente
+press	prensa
+pressing	prensar ; prensado
+pressure	presión
+pressure equipment	equipo de presión
+pressure group	grupo de presión
+prevention measure	medida de prevención
+prevention of forest fires	prevención de fuegos forestales
+preventive health measure	medida sanitaria preventiva
+preventive information	información preventiva
+price	precios ; precio
+prices policy	política de precios
+pricing policy of resources	política de precios de los recursos
+primary education	enseñanza primaria
+primary energy consumption	consumo de energía primaria
+primary forest	selva virgen
+primary sector	sector primario
+primary treatment	tratamiento primario
+primate	primates
+prime number ; prime	número primo
+prince	príncipe
+principle of sustainability	principio de continuidad
+printing work	trabajo de impresión ; tipografía
+prisoner of war ; POW ; PoW ; PW	prisionero de guerra ; PDG
+private car	coche privado
+private domain	ámbito privado
+private forest	bosque privado
+private household	hogar privado
+private international law	derecho internacional privado
+private law	derecho privado
+private sector	sector privado
+private transport	transporte privado
+privatisation	privatización
+problem	problema
+proboscidean	proboscideo
+procaryote	Procaryota
+procedural law	derecho procesal
+process analysis	análisis de proceso
+process technology	tecnología de los procesos
+process water	agua de proceso
+processed agricultural produce	productos agrarios transformados ; producto agrícola transformado
+processed foodstuff	alimento transformado
+processing	procesado
+producer liability	responsabilidad de productor
+product	producto
+product advertising	publicidad de producto
+product comparison	comparación de producto
+product evaluation	evaluación de producto
+product identification	determinación de producto
+product information	información sobre productos
+product liability	responsabilidad de producto
+product life cycle	ciclo de vida de producto
+product standard	norma de producto
+production policy	política de producción
+productivity	productividad
+productivity trend	tendencia de productividad
+profit	beneficio neto
+prognostic data	datos de prognosis
+programme	programa
+progress line	línea de progreso
+prohibition	prohibición
+project	proyecto
+promethium	prometio
+promotion of trade and industry	promoción del comercio y de la industria
+pronunciation	pronunciación
+propagation process	proceso de propagación
+propellant	propulsor
+properties of materials	propiedades de materiales
+property ; asset	propiedad ; bien
+property protection	protección de propiedad
+propulsion technique	técnica de propulsión
+prosecution	proceso
+prosperity	prosperidad
+prostate	próstata
+prostitution	prostitución
+protactinium	protactinio
+protected area	espacios protegidos ; espacio protegido
+protected landscape	paisajes protegidos ; paisaje protegido
+protected marine zone	zona marina protegida
+protected species	especies protegidas
+protection from neighbours	protección de los vecinos
+protection of animals	protección animal
+protection of birds	protección de aves
+protection of species	protección de especies
+protection system	sistema de protección
+protective measure	medida protectora
+protein ; poly peptide	proteína
+protein product	producto proteico
+protocol	protocolos
+protozoan	protozoarios
+proverb ; saying ; maxim	proverbio ; dicho
+province	provincias
+provincial/regional authority (D) ; regional authority ; provincial authority	autoridad provincial/regional (D) ; autoridad regional ; autoridad provincial
+provincial/regional law (D) ; regional legislation	ley provincial/regional (D)
+pruning	poda
+psychiatrist	psiquiatra
+psychic effect	efectos psíquicos
+psychological effect	efecto psicológico
+psychological stress	tensión psicológica
+psychology	psicología ; sicología
+psychosomatic effect	efecto psicosomático
+psychosomatic illness	trastorno psicosomático
+public	público
+public access to land	acceso público a la tierra
+public action	acción pública
+public aid	ayuda pública
+public attendance	asistencia pública
+public awareness campaign	campaña de concienciación pública
+public bath	baño público
+public benefit inquiry	investigación de beneficio público
+public building	edificio público
+public contract	contratación administrativa
+public debt	deuda pública
+public discussion	discusión pública
+public domain	dominio público
+public expenditure	gasto público
+public finance	hacienda pública
+public financing	financiación pública
+public function	función pública
+public health	salud pública
+public hearing	audiencia  pública
+public information	información pública
+public inquiry	investigación pública
+public institution	institución pública
+public institution of administrative nature	institución pública de la naturaleza administrativa
+public institution of industrial and commercial nature	institución pública de la naturaleza industrial y comercial
+public international law	derecho internacional público
+public law	derecho público
+public maritime domain	ámbito marítimo público
+public opinion	opinión pública
+public opinion polling	encuesta de opinion pública
+public park	parques públicos ; parque público
+public participation	participación pública
+public procurement	contratación pública
+public prosecutor's office	fiscalía
+public relations	relación pública
+public sector	sector público
+public transport	transporte público
+public transport vehicle	vehículo de transporte público
+public utility	utilidad pública
+public waterways domain	ámbito de canales públicos
+public works	obras públicas
+public-private partnership	sociedad público-privada
+pulmonary disease	enfermedad pulmonar
+pump	bomba ; bombas ; bomba hidráulica
+pumping	bomba
+purification	depuración
+purification facility	instalaciones de depuración
+purification plant	planta de depuración
+purification through the soil	purificación a través del suelo
+purifying power	poder de purificación
+purin	purines
+putsch ; coup d'état	golpe de estado
+pyralene	piraleno
+pyrolysis	pirólisis
+quadrilateral	cuadrilátero
+quality assurance	control de calidad
+quality certification	certificación de calidad
+quality control	control de calidad
+quality objective	objetivo de calidad
+quality of life	calidad de vida
+quality standard	norma de calidad
+quarry	canteras ; cantera
+quarrying	explotación de canteras
+quartering	descuartizamiento
+queen	reina ; reina
+question	pregunta
+rabbi	rabino
+rabbit	conejo
+race relations	minorías y relaciones raciales
+racking	trasvases ; trasvase
+radar	radar
+radiation ; radiations	radiación ; radiacíon
+radiation damage	daño de radiación
+radiation dose	dosis de radiación
+radiation effect	efectos de la radiación ; efecto de la radiación
+radiation exposure	exposición de radiación
+radiation physics	física de radiación
+radiation protection	protección radiológica
+radiation protection law	ley de protección contra la radiación
+radiation sickness	enfermedades de origen radiactivo
+radio	radio
+radio programme	programa de radio
+radioactive contamination	contaminacíon radiactiva
+radioactive decontamination	descontaminación radiactiva
+radioactive dumping	vertidos radiactivos ; vertido radiactivo
+radioactive emission	emisión radiactiva
+radioactive fallout	polvillo (radiactividad) ; polvillo radiactivo
+radioactive pollutant	contaminantes radiactivos ; contaminante radiactivo
+radioactive substance	sustancias radiactivas ; sustancia radiactiva
+radioactive tracer	trazador radiactivo
+radioactive waste ; nuclear waste	residuos radiactivos ; residuo radiactivo
+radioactivity ; radioactive decay	radiactividad ; radioactividad
+radioelement	cuerpo simple radiactivo
+radiology	radiología
+radionuclide	radionúclido
+radium	radio ; radio ; radio ; radio ; radio ; radio
+radon	radon ; radón
+rag	trapo
+rail traffic	tráfico ferroviario
+rail transport	transporte ferroviario
+railroad vehicle ; carriage ; wagon	vehículo ferroviario ; vagón
+railway	ferrocarriles ; ferrocarril
+railway network	red ferroviaria
+railway station	estación ferroviaria
+rain	lluvia
+rain forest	bosque húmedo
+rain water	aguas pluviales
+rain water sewer system	sistema de alcantarillado de aguas pluviales
+rainbow	arco iris
+rainout	suspensión a causa de la lluvia
+raising a site	elevación de un sitio
+random test	prueba aleatoria
+rape	colza
+rapid test	prueba rápida
+rapid transit train	tren rápido de tránsito
+rare species	especies raras
+raster	trama
+raster to vector	trama a vector
+rate	índice ; tasa
+raw material	materias primas ; materia prima
+raw material consumption	consumo de materia prima
+raw material securing	procura de materia prima
+raw water	agua cruda
+reaction kinetics	reación cinética
+reactor	reactor
+reactor safety	seguridad de reactor
+read	leer
+reality	realidad
+reasonableness	carácter razonable
+recipe	receta
+reclamation industry	industria de recuperación
+recombinant DNA technology	tecnología de DNA recombinante
+recommendation	recomendaciones
+recorder	flauta de pico
+recording of substances	grabación de sustancias
+recovery of landscape	recuperación del paisaje
+recovery plan	planes de recuperación
+recreation	actividades recreativas ; actividad recreativa
+recreational area	área recreativa
+recyclability	reciclado
+recyclable plastic	plástico reciclable
+recycled material	materiales reciclados ; material reciclado
+recycled paper	papel reciclado
+recycling	reciclado
+recycling management and waste law	gestión de reciclaje y ley de residuos
+recycling potential	potencial de reciclaje
+recycling ratio	cociente de reciclaje
+red kite	milano real
+red tide	marea roja
+redress	compensación
+reed	caña
+reef	arrecifes ; arrecife
+reference service	servicio de referencia
+referendum ; plebiscite	referéndum
+referral information	información de remisión
+referral information system	sistema de información de remisión ; sistema de información referencial
+refinery	refinería
+refining	refino
+reflection	reflexión
+reflectometry	reflectometría
+reforestation	repoblación forestal
+refrigerant	refrigerante
+refrigeration	refrigeración
+refrigeration industry	industria frigorífica
+refrigerator	frigorífico
+refrigerator ; fridge	nevera ; refrigerador
+refuge	refugio
+refugee	refugiados ; refugiado
+refuse collection vehicle	camión para la recogida de basura
+refuse derived fuel	combustible de reutilización
+refuse shredder	basura de desfibradora
+refuse-sludge compost	estiércol vegetal de barro de basura
+regeneration	regeneración
+region	regiones ; región
+regional authority	autoridad regional
+regional convention	convenios regionales
+regional development	desarrollo regional
+regional law	derecho autonómico
+regional natural park	parque natural regional
+regional plan	plan regional
+regional planning	planificación regional
+regional regulation	normativa regional
+regional statistics	estadísticas regionales
+regional structure	estructura regional
+registered site	sitio registrado
+registration	registro
+registration obligation	obligación de registro
+registration proceeding	procedimiento de registro
+regulation	reglamentos ; regulación ; reglamento
+regulation of agricultural production	regulación de la producción agrícola
+regulation on maximum permissible limits	reglamento sobre límites permitidos máximos
+regulative law	ley normativa
+rehousing	realojamiento en nuevas viviendas
+reindeer	reno
+reintroduction	reintroducción
+relational database	base de datis relacional ; base de datos relacional
+release of organisms	liberación de organismos
+relief (land)	relieve (tierra) ; relieve
+religion	religión
+remote sensing	teledetección
+remote sensing centre	centro de teledetección
+removal	eliminación
+renaissance	renacimiento
+renaturation	renaturación
+renewable energy source	fuente energética renovable
+renewable raw material	materia prima renovable
+renewable resource	recursos renovables ; recurso renovable
+repair business	oficina de reparación
+replacement	reposición
+replacement cost	coste de reemplazo
+report on the state of the environment	informe sobre el estado del medio ambiente
+report to the minister	informe para el Ministro
+reporting process	información del proceso
+representation	representación
+repression	represión
+reprocessing	reprocesado
+reproduction	reproducción
+reproductive manipulation	manipulación reproductiva
+reptile ; reptile ; reptile	reptiles ; reptil
+rescue service	servicio de rescate
+rescue system	sistema de rescate
+research	investigación
+research centre	centros de investigación ; centro de investigación
+research of the effects	investigación de los efectos
+research policy	política de investigación
+research project	proyectos de investigación ; proyecto de investigación
+reserve	reserva
+reservoir	embalses ; embalse
+residential area	zonas residenciales ; zona residencial
+residential area with traffic calmings	zona residencial con tráfico limitado
+residential building	edificio residencial
+residual amount of water	cantidad de agua residual
+residual pesticide	residuo de plaguicida
+residual risk	riesgo residual
+residual waste	residuos residuales ; residuo residual
+residual waste sludge	barro residual de residuos
+residue analysis	análisis de residuos
+residue of grinding	residuo de pulido
+residue recycling	reciclaje de residuos
+resin	resinas ; resina
+resinous plant	planta resinosa
+resistance (biological) ; resistance	resistencia
+resolution	resoluciones ; resolución
+resolution ; resolution (parameter)	resolución (parámetro) ; resolución
+resorption	reabsorpción
+resource ; resources	recursos ; recurso
+resource appraisal	evaluación de recursos
+resource conservation	conservación de recursos
+resource exploitation	explotación de recursos
+resource reserve	reserva de recurso
+resource utilisation	aprovechamiento de recursos
+resources management	ordenación de recursos
+respiration	respiración
+respiratory air	aire respiratorio
+respiratory disease	enfermedades respiratorias ; enfermedad respiratoria
+respiratory system	sistema respiratorio
+retaining reservoir	depósito de retención
+reverse osmosis	osmosis inversa
+rhenium	renio
+rhino ; rhinoceros	rinoceronte
+rhodium	rodio
+rhombus ; rhomb	rombo
+rice	arroz
+rising sea level	nivel del mar en aumento
+risk communication	comunicación de riesgo
+river	río
+river bed	lecho de río
+river water	agua de río
+road	calle ; carretera ; camino
+road network	red de carreteras
+road salt	sal para deshielo de carreteras
+rock	rocas ; roca
+rodent	roedores ; roedor
+roentgenium	roentgenio
+rolling noise	ruido rodante
+roof ; roof ; roof	techo
+root	raíz
+rosary	rosario
+rose	rosa
+rotary furnace	horno rotatorio
+route	ruta
+rubber	goma
+rubidium	rubidio
+ruby	rubí
+rural area	zonas rurales ; zona rural
+ruthenium	rutenio
+rutherfordium	rutherfordio
+sacrifice	sacrificio
+safety ; security	seguridad
+safety measure	medida de seguridad
+sahara	desierto del Sahara
+sailing ship	barco de vela ; velero
+salamander	salamandras ; salamandra
+salary	salario ; sueldo
+salmon	salmón
+salt	sales químicas ; sal química
+salt	sal
+salt water	agua salada
+samarium	samario
+sand	arena
+sand dune	duna de arena
+sanitary fitting	sanitarios
+sapphire	zafiro
+satellite	satélite
+sawdust	serrín
+saxophone	saxofón ; saxófono
+say	decir ; manifestar
+scandium	escandio
+school	colegio ; escuela
+science	ciencia
+scientific co-operation	cooperación científica
+scientific dispute	disputa científica
+scientific research	investigación científica
+scientist	científico ; científica
+screw	tornillo
+screwdriver	destornillador
+sculptor	escultor
+sea	mar ; mares ; mares
+sea level	nivel del mar
+sea water	aguas marinas
+seaborgium	seaborgio
+seashore	costa
+season	estación ; estación del año
+secondary education	enseñanza media
+secret	secreto
+sediment	sedimento
+sedimentation (geology) ; sedimentation	sedimentación
+sedimentology	sedimentology ; sedimentología
+see	ver
+seed	semilla
+seismic activity	actividad sísmica
+seismic sea wave ; tsunami	marejadas sísmicas
+selenium	selenio
+sell	vender
+semantics	semántica
+semi-metal	semimetal
+semiconductor	semiconductor
+semiotics ; semiology	semiótica
+separator	lavadores, separadores y filtros
+server	servidor
+sew	coser ; šiti
+sewage farm	terreno de decantación
+sex ; gender	sexo ; género
+sexology	sexología
+sextant	sextante
+shark	tiburón
+sheep	oveja
+shellfish ; shellfish	marisco ; marisco
+shepherd	pastor
+ship	barco ; barcos ; velero ; buque ; buque ; navío ; embarcación
+shoe	zapato
+shop	tienda
+shopping centre	centro comercial
+short ; small	corto ; pequeño
+shrub	arbustos ; arbusto
+side effect	efecto secundario
+siemens	siemens
+sign language	lengua de signos ; lenguaje de signos
+silicon	silicio
+silk	seda
+silt	légamo
+silver	plata
+simulation	simulación
+skeleton	esqueleto
+ski run	carrera de esquí ; pista de esquí
+skiing	esquí
+skin	piel
+skull	cráneo
+slag	escoria
+slaughter	matar ; sacrificar
+slaughter-house	matadero
+slaughterhouse ; slaughter-house ; abattoir ; butchery ; shambles	mataderos ; matadero
+sleep	sueño
+sleep disturbance	alteración del sueño
+slipper	pantufla
+slope	taludes ; talud
+slow	suave ; lento
+sludge	barro
+smallpox	viruela
+smile	sonrisa
+smog	bruma industrial
+smog warning	aviso de niebla 'smog'
+smoke	humo
+smoking	hábito de fumar
+snake	serpiente
+snow	nieve
+snowslide	alud de nieve
+soaking	remojo
+soap	jabón
+social behaviour	comportamiento social
+social group	grupos sociales ; grupo social
+social protection	protección social
+social psychology	psicología social
+social science	ciencias sociales
+social survey	encuestas sociales ; encuesta social
+social welfare	bienestar social
+society	sociedad
+socioeconomic aspect of human settlements	aspectos socioeconómicos de los asentamientos humanos
+sociolinguistics ; sociology of language	sociolingüística
+sociology	sociología
+sock	calcetín
+sodium	sodio
+software	elementos de programación
+software development	desarrollo de programas
+soil	suelo ; suelos
+soil fertilisation	fertilización del suelo
+soil fertility	fertilidad del suelo
+soil science	ciencias del suelo
+solar cell	célula solar
+solar collector	colector solar
+solar energy	energía solar
+solar energy technology	tecnología de energía solar
+solar power station	centrales solares
+solar radiation	radiación ; rediación solar ; radiación solar
+solubility	solubilidad
+solvent	disolvente
+songbird	pájaros cantores ; pájaro cantor
+soot	hollín
+sorption	absorción ; absorpción
+sound	sonido
+sound measurement	medición de sonido
+space ; space ; space (interplanetary) ; interplanetary space	espacio ; espacio (interplanetario)
+space travel	viaje espacial
+spasmodic croup	grupa irregular
+species	especies ; especie
+speech	habla
+speed	velocidad
+sphinx	esfinge
+spider	araña
+spider	arañas ; araña
+spinach	espinaca
+spoon	cuchara
+sport	deportes ; deporte
+spring	primavera
+spring ; spring (hydrology, land)	manantial ; manantiales
+spring water	agua de manatial
+square	plaza
+stage	escenario
+standard	norma ; estándar
+staple food	alimentos básicos ; alimento básico
+star	astro ; estrella
+starch	almidón
+station	estación ; parada
+statistics	estadísticas ; estadística
+steam generator	generador de vapor
+steel	acero
+sterilisation	esterilización
+steroid	esteroide
+stocking	mantenimiento de existencias
+stomach	estómago
+stone	piedra
+stork	cigüeña
+storm ; tempest	tormentas ; borrasca ; tempestad ; tormenta
+story	relato ; narración
+stove	estufa
+strange ; odd	extraño ; extraordinario
+strategic	estratégico
+strawberry	fresa ; frutilla
+stress	estrés
+strontium	estroncio
+subject ; topic	materia ; materia (sujeto, en derecho) ; tema
+submarine	submarino
+subsidence	hundimiento
+subsidy	subsidio
+suburb	suburbios ; suburbio
+sudden ; abrupt ; precipitous	repentino ; súbito ; de improviso ; repentina ; súbita ; precipitada ; precipitado
+sugar	azúcar
+suicide	suicidio
+sulphur	azufre
+sulphur concentration	concentración de azufre
+sulphur dioxide	dióxido de azufre
+summer	verano
+supermarket	supermercado
+supernova	supernova
+supply	oferta
+supply and demand	oferta y demanda
+surface tension	tensión superficial
+surgeon	cirujano
+surgery	cirugía
+surprise	sorprender
+swans, geese and ducks	anátidas
+sweet	suave ; dulce
+sweetener	edulcorantes
+swimming pool	piscina ; alberca ; pileta
+sword	espada
+symbiosis	simbiosis
+symphony	sinfonía
+synagogue	sinagoga
+syndrome	síndrome
+synecology	sinecología
+syntax	sintaxis
+syphilis	sífilis
+syringe	jeringa
+table	mesa
+tadpole ; polliwog	renacuajo
+tailor	sastre
+takeover	adquisición
+tanker	cisterna
+tanker ; tanker (ship)	petrolero (nave) ; petrolero
+tannin	tanino
+tantalum	tantalio ; tántalo
+target group	grupo dirigente
+tax	impuestos ; impuesto
+taxonomy	taxonomía
+tea	té
+teach	enseñar
+teacher	profesor ; maestro
+teaching	enseñanza
+technetium	tecnecio
+technology	tecnología
+technology transfer	transferencia de tecnología
+telecommunications ; telecommunication	telecomunicaciones ; telecomunicación
+telemetry	telemetría
+television	televisión ; televisión ; televisor
+television	televisión
+television programme	programa de televisión
+tellurium	telurio ; teluro
+temperature	temperatura
+ten	diez
+tennis	tenis
+teratogen	teratógenos
+terbium	terbio
+terminology	terminología
+termite	termitas ; termita
+terracotta ; terracotta ; terracotta ; terra cotta	terracota
+territory	territorio
+terrorism	terrorismo
+terrorist	terrorista
+tertiary sector	sector terciario
+test	prueba ; analizar
+testosterone	testosterona
+textile industry	industria textil
+textile plant	planta textil
+thallium	talio
+thank you	agradecimiento
+theocracy	teocracia
+theology	teología
+therapy	terapia
+thermal equipment	equipo térmico
+thermal power plant	central térmica
+thermodynamics	termodinámica
+thesis	tesis
+thirst	sed
+thorium	torio
+thousand	mil
+three	tres
+thulium	tulio
+thumb	pulgar
+thunder	trueno
+thunderstorm	tempestad de truenos
+thyroid	tiroid
+tidal power station	centrales maremotrices
+tidal water	agua de marea
+tiger	tigre
+timber forest	bosque de madera
+time	tiempo ; tiempo (cronología)
+timezone	huso horario
+tin	estaño
+tissue	tejido
+titanium	titanio
+titanium dioxide	dióxido de titanio
+toad	sapos
+tobacco	tabaco
+toe	dedo de pie
+together	juntos
+tomato	tomate
+tomorrow	mañana
+tongue	lengua
+topography	topografía
+topology	topología
+tornado	tornado
+torpedo	torpedo
+tortoise	tortugas ; tortuga
+tourism	turismo
+toxic metal	metal tóxico
+toxic substance	sustancias tóxicas ; sustancia tóxica
+toxicity	toxicidad
+toxicology	toxicología
+toxin	toxinas ; toxina
+trace element	oligoelementos ; oligoelemento
+tracheophyte ; vascular plant	traqueofita
+trade	comercio
+trade and consumption	comercio y consumo
+trades union	sindicatos
+traditional	tradicional
+traffic	tráfico
+traffic noise	ruido del tráfico
+train	tren
+training	enseñanza
+training centre	centro de formación
+trajectory	trayectoria
+transition element ; transition metal	elementos de transición ; elemento de transición
+translate ; interpret	traducir ; interpretar ; trasladar
+translation	traducción
+transpiration	transpiración
+transport	transporte
+transport ; transportation	transporte
+travel	viajar
+treaty	tratado
+tree	árbol
+triangle	triángulo
+trigonometry	trigonometría
+tritium	tritio
+trolley bus ; trolleybus	trolebús
+trombone	trombón
+trophic level	nivel trófico
+trophy	trofeo
+tropical forest	bosques tropicales ; bosque tropical
+tropical plant	planta tropical
+tropical rain forest	bosque húmedo tropical
+tropics ; torrid zone	trópico
+trousers	pantalón
+trout	trucha
+trumpet	trompeta
+truth	verdad
+tulip	tulipán
+tunafish	atún
+tundra	tundra
+tungsten	tungsteno ; wolframio ; volframio
+tunnel	túneles ; túnel
+turbidity	turbiedad
+turbine	turbina
+turkey	pavo
+twin	gemelo
+two	dos
+typhoon	tifón
+tyre	neumático ; caucho
+ultraviolet radiation	radiación ultravioleta
+underground railway	línea metropolitana (UP: metro) ; metro ; línea metropolitana
+underground train	tren subterráneo ; metro
+unemployment	desempleo
+ungulate	ungulados ; ungulado
+university ; university ; academy	universidad ; universidad ; academia
+ununbium	ununbio
+ununhexium	ununhexio
+ununoctium	ununoctio
+ununpentium	ununpentio
+ununquadium	ununquadio
+ununseptium	ununseptio
+ununtrium	ununtrio
+upbringing	educación ; educación (formación) ; formación
+uranium	uranio
+urbanisation	urbanización
+urine	orina
+ursid	Ursidae
+useful	útil
+user	usuario
+usurp	usurpar
+vaccination	vacunación
+vacuum cleaner	aspiradora
+valley	valles ; valle ; dolina
+valuable	valioso ; precioso
+vampire	vampiro
+vanadium	vanadio
+vandalism	vandalismo
+vapour pressure	presión del vapor
+vector	vector
+vegetable	hortalizas ; hortaliza
+vegetable oil	aceites vegetales ; aceite vegetal
+vehicle	automóviles ; vehiculo
+ventilation	ventilación
+verb	verbo
+vertebrate	vertebrados ; vertebrado
+veteran	veterano
+veterinarian	veterinario
+veterinarian ; veterinary	veterinario
+viable ; viable ; feasible	viable
+village	aldea ; pueblo
+vinasse	vinazas
+vinegar	vinagre
+vineyard	viñedo
+virology	virología
+virus	virus
+viscosity	viscosidad
+vitamin	vitaminas ; vitamina
+vocabulary	vocabulario
+volatile substance	sustancia volátil
+volatility	volatilidad
+volcanic eruption	erupciones volcánicas ; erupción volcánica
+volcanism	vulcanismo
+volcano	volcanes ; volcán
+volleyball	voleibol ; vóleibol ; balonvolea ; vóley
+voltage	voltaje
+voting	sistema de votación ; votacíon
+vowel	vocal
+vulcanisation	vulcanización
+waiter	camarero ; mesero
+wall	muro
+walrus	morsa
+war	guerra
+warm-blooded animal	animal de sangre caliente
+wasp	avispa
+waste	residuo ; residuos ; desecho
+waste bin	contenedor de residuos
+waste disposal act	ley de disposición de residuos
+waste dump	vertedero
+waste paper	papel residual
+waste water	agua residual
+waste water purification	depuración de aguas residuales
+water	agua
+water ; body of water	agua
+water aeration	aireación de agua
+water cost	coste de agua
+water desalination	desalación de agua
+water flea	pulgas de agua
+water level	nivel del agua
+water mill	molino de agua
+water polo	waterpolo
+water protection legislation	legislación de protección de agua
+water pump	bomba de agua
+water reservoir	depósito de agua
+water resource	recursos hídricos ; recurso hídrico
+water salination	salinización de aguas
+water supply	abastecimiento de agua
+water treatment	tratamiento del agua
+water well	manantial
+waterfall	cascada
+waterfowl	aves acuáticas
+watershed	cuenca fluvial
+weapon	arma
+weather	clima ; tiempo
+web ; spider web	telaraña
+weed	mala hierba
+week	semana
+weekend	fin de semana
+weight	peso
+welding	soldadura
+well	pozos ; pozo
+whale	ballenas ; ballena
+whaling	pesca de ballenas
+wheat	trigo
+wheelchair	silla de ruedas
+whey	suero
+white	blanco
+wife ; spouse	esposa ; marida ; cónyuge
+wiki	wiki
+wild animal	fauna salvaje
+wild fauna ; wildlife ; wild animals	fauna salvaje
+wild plant	plantas silvestres
+wildlife ; 野生生物	vida silvestre
+willow	sauce
+wind	viento
+wind power	energía eólica
+windmill	molino de viento
+window	ventana
+wine	vino
+winter	invierno
+witch	bruja
+witness	testigo
+wizard ; sorcerer ; magician	brujo ; encantador ; mago
+wolf	lobo
+wood	bosque
+wood	madera
+wood product	productos de madera ; producto de madera
+wool	lana
+word	palabra
+work accident	accidentes de trabajo ; accidente de trabajo ; accidente laboral
+workplace	lugar de trabajo
+world	mundo
+world heritage site	sitio incluido en el patrimonio universal
+world war	Guerra mundial ; guerra mundial
+wound	herida
+write	escribir
+wrongful act	acto ilegal
+xenon	xenón
+xylophone	xilófono
+y'all ; you ; you lot ; yous	ustedes ; vosotros
+yacht	yate
+yak	yak
+year ; solar year	año ; año
+yeast	levadura
+yellow	amarillo ; amarilla
+yield	cosecha
+yield	productividad
+young	joven
+ytterbium	itterbio
+yttrium	itrio
+zebra	cebra
+zero ; null	cero
+zinc	zinc
+zirconium	circonio
+zodiac	zodíaco
+zoological garden	parques zoológicos ; parque zoológico
+zoology	zoología
+zoonosis	zoonosis
+Åland Islands	Åland
+återställande ; rehabilitation	rehabilitación
+english	spanish
+</pre></body></html>

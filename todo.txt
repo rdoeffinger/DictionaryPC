@@ -1,40 +1,35 @@
 For next release:
-arabic UI fix
-"form of" to bottom
+fix up dictionary manager:
+  thread that handles unzipping, downloading for the life of the application (so screen changes don't screw it up).
+  check over UI.
+parse dictionary_info file in client to show default dictionaries.
+new dictionary version: with links!
+check arabic UI fix
 handle examples like "asdf (asdf)"
 random word jump
 multiword find.
-dictionary update.
-???italian verbs
-dictionary builder generates text file with list of dictionaries built, sizes, timestamps, token counts, etc.
-
-pronunciation
-synonyms
-move dict to top of list when downloaded
-speech recognition
-flashcards
-text to speech / audio from wiktionary
-
-**** UI:
-! multi search
-X version number
-! enter should hide keyboard
-icons inside dictionaries
-
-
-**** PC:
-! still lots of wiki markup in output.
 italian verbs... (show conjugation, pulled from a linked place....--would lower size a lot!)
-handle word-info in English.
+black/blue background title rows, gray side pane for other language side
+better example splitting
+! enter should hide keyboard
+
 Handle other sections:
   Pronunciation
   Synonyms
   Usage notes.
   Chinese: handle "Compounds" section
-{{count page|[[Wiktionary:Page count]]}}
 
-{{gloss|money and wealth}}
-it_it: gossip {m} (noun), inv
+flashcards
+move dict to top of list when downloaded
+speech synthesis
+speech recognition
+text to speech / audio from wiktionary
+icons inside dictionaries
+
+
+**** PC:
+handle word-info in English.
+{{count page|[[Wiktionary:Page count]]}}
 
 Bad filing: under Arab?
 ===Arab===
@@ -75,4 +70,4 @@ always put defs in list...
 font size
 refactor wiki parsing.
 {{Arab}}
-  
+"form of" to bottom
