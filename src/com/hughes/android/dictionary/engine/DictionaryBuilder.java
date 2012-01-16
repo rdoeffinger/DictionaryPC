@@ -128,16 +128,16 @@ public class DictionaryBuilder {
           fatalError("Must specify human readable name for: " + prefix + "Name");
         }
 
-        final EntrySource entrySource = new EntrySource(dictionaryBuilder.dictionary.sources.size(), inputName, dictionaryBuilder.dictionary.pairEntries.size());
+        final EntrySource entrySource = new EntrySource(dictionaryBuilder.dictionary.sources.size(), inputName);
         System.out.println("");
         
         String inputFormat = keyValueArgs.remove(prefix + "Format");
         if ("tab_separated".equals(inputFormat)) {
           final boolean flipColumns = "true".equals(keyValueArgs.remove(prefix + "FlipColumns"));
-          new DictFileParser(charset, flipColumns, DictFileParser.TAB, null, dictionaryBuilder, dictionaryBuilder.indexBuilders.toArray(new IndexBuilder[0]), null).parseFile(file);
+          new DictFileParser(charset, flipColumns, DictFileParser.TAB, null, dictionaryBuilder, dictionaryBuilder.indexBuilders.toArray(new IndexBuilder[0]), null).parseFile(file, entrySource);
         } else if ("chemnitz".equals(inputFormat)) {
           final boolean flipColumns = "true".equals(keyValueArgs.remove(prefix + "FlipColumns"));
-          new DictFileParser(charset, flipColumns, DictFileParser.DOUBLE_COLON, DictFileParser.PIPE, dictionaryBuilder, dictionaryBuilder.indexBuilders.toArray(new IndexBuilder[0]), null).parseFile(file);
+          new DictFileParser(charset, flipColumns, DictFileParser.DOUBLE_COLON, DictFileParser.PIPE, dictionaryBuilder, dictionaryBuilder.indexBuilders.toArray(new IndexBuilder[0]), null).parseFile(file, entrySource);
         } else if ("enwiktionary".equals(inputFormat)) {
           final Pattern langPattern = Pattern.compile(keyValueArgs.remove(prefix + "LangPattern"), Pattern.CASE_INSENSITIVE);
           final Pattern langCodePattern = Pattern.compile(keyValueArgs.remove(prefix + "LangCodePattern"));
@@ -151,7 +151,7 @@ public class DictionaryBuilder {
             fatalError("Must be 1 or 2: " + prefix + "EnIndex");
           }
           new EnWiktionaryXmlParser(dictionaryBuilder.indexBuilders.get(enIndex), dictionaryBuilder.indexBuilders.get(1-enIndex),
-              langPattern, langCodePattern, enIndex != 0).parse(file, Integer.parseInt(pageLimit));
+              langPattern, langCodePattern, enIndex != 0).parse(file, entrySource, Integer.parseInt(pageLimit));
         } else {
           fatalError("Invalid or missing input format: " + inputFormat);
         }

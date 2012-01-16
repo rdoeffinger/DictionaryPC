@@ -21,6 +21,7 @@ import java.util.concurrent.atomic.AtomicBoolean;
 import junit.framework.TestCase;
 
 import com.hughes.android.dictionary.engine.Index.IndexEntry;
+import com.hughes.util.ListUtil;
 
 
 public class DictionaryTest extends TestCase {
@@ -60,9 +61,10 @@ public class DictionaryTest extends TestCase {
     
     assertEquals(2, dict.sources.size());
     assertEquals("chemnitz", dict.sources.get(0).name);
-    assertEquals(0, dict.sources.get(0).pairEntryStart);
     assertEquals("dictcc", dict.sources.get(1).name);
-    assertEquals(0, dict.sources.get(1).pairEntryStart);  // TODO: rethink this
+    
+    assertEquals("chemnitz", dict.pairEntries.get(0).entrySource.name);
+    assertEquals("dictcc", ListUtil.getLast(dict.pairEntries).entrySource.name);
     
     raf.close();
   }

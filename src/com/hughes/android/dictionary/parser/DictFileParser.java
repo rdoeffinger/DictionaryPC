@@ -30,6 +30,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import com.hughes.android.dictionary.engine.DictionaryBuilder;
+import com.hughes.android.dictionary.engine.EntrySource;
 import com.hughes.android.dictionary.engine.IndexedEntry;
 import com.hughes.android.dictionary.engine.EntryTypeName;
 import com.hughes.android.dictionary.engine.IndexBuilder;
@@ -71,6 +72,8 @@ public class DictFileParser {
   final IndexBuilder[] langIndexBuilders;
   final IndexBuilder bothIndexBuilder;
   
+  EntrySource entrySource;
+  
   // final Set<String> alreadyDone = new HashSet<String>();
     
   public DictFileParser(final Charset charset, boolean flipCols,
@@ -86,7 +89,8 @@ public class DictFileParser {
     this.bothIndexBuilder = bothIndexBuilder;
   }
 
-  public void parseFile(final File file) throws IOException {
+  public void parseFile(final File file, final EntrySource entrySouce) throws IOException {
+    this.entrySource = entrySouce;
     final BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(file), charset));
     String line;
     int count = 0;
@@ -131,7 +135,7 @@ public class DictFileParser {
       subfields[1] = new String[] { fields[1] };
     }
     
-    final PairEntry pairEntry = new PairEntry();
+    final PairEntry pairEntry = new PairEntry(entrySource);
     for (int i = 0; i < subfields[0].length; ++i) {
       subfields[0][i] = subfields[0][i].trim();
       subfields[1][i] = subfields[1][i].trim();

@@ -1754,11 +1754,13 @@ Index: IT IT->EN
   gratuito {{it-adj|gratuit}} :: free, free of charge, gratis
   gratuito {{it-adj|gratuit}} :: gratuitous, unjustified
 ===grazia===
-  grazie {f} :: {plural of|grazia}
+  grazie {m}, grazie {pl}{f} :: {plural of|grazia}
 ***grazie***
   grazie (interjection) :: thank you, thanks!
-  grazie {f} :: thanks to, because of
-  grazie {f} :: {plural of|grazia}
+  grazie {m}, grazie {pl}{f} :: thanks
+  grazie {m}, grazie {pl}{f} :: gratitude
+  grazie {m}, grazie {pl}{f} :: thanks to, because of
+  grazie {m}, grazie {pl}{f} :: {plural of|grazia}
 ***Grenada***
   Grenada {f} :: Grenada
 ***Grosseto***
@@ -3118,9 +3120,9 @@ Index: IT IT->EN
 ***Python***
   Python {{it-proper noun|g=m}} :: Python programming language
 ***q***
-  q (letter) {m|f|inv} :: See under Q
+  q (letter) {m|f|inv} :: {lowercase form|Q}
 ===Q===
-  q (letter) {m|f|inv} :: See under Q
+  q (letter) {m|f|inv} :: {lowercase form|Q}
 ***Qatar***
   Qatar {f} :: Qatar
 ***qua***
@@ -4629,7 +4631,7 @@ Index: EN EN->IT
 ===beauty===
   apollo {m}, apolli {pl} :: A man of great beauty
 ===because===
-  grazie {f} :: thanks to, because of
+  grazie {m}, grazie {pl}{f} :: thanks to, because of
 ===bedroom===
   camera {f}, camere {pl} :: bedroom
 ===bee===
@@ -5869,6 +5871,8 @@ Index: EN EN->IT
 ===gratis===
   gratis :: gratis
   gratuito {{it-adj|gratuit}} :: free, free of charge, gratis
+===gratitude===
+  grazie {m}, grazie {pl}{f} :: gratitude
 ===grato===
   grate {f} :: Feminine plural form of grato
 ===gratuitous===
@@ -7791,7 +7795,6 @@ Index: EN EN->IT
   m (letter) {m|f|inv} :: See under M
   n (letter) {m|f|inv} :: See under N
   p (letter) {m|f|inv} :: See under P
-  q (letter) {m|f|inv} :: See under Q
   r (letter) {m|f|inv} :: See under R
   s (letter) {m|f|inv} :: See under S
   t (letter) {m|f|inv} :: See under T
@@ -8277,7 +8280,8 @@ Index: EN EN->IT
   grazie (interjection) :: thank you, thanks!
 ===thanks===
   grazie (interjection) :: thank you, thanks!
-  grazie {f} :: thanks to, because of
+  grazie {m}, grazie {pl}{f} :: thanks
+  grazie {m}, grazie {pl}{f} :: thanks to, because of
 ===theatrical===
   play {m|inv} :: play (theatrical performance; start key)
 ===them===
@@ -8620,7 +8624,6 @@ Index: EN EN->IT
   m (letter) {m|f|inv} :: See under M
   n (letter) {m|f|inv} :: See under N
   p (letter) {m|f|inv} :: See under P
-  q (letter) {m|f|inv} :: See under Q
   r (letter) {m|f|inv} :: See under R
   s (letter) {m|f|inv} :: See under S
   t (letter) {m|f|inv} :: See under T

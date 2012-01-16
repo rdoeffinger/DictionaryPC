@@ -553,9 +553,6 @@ Index: DE DE->EN
   (Old High German) bitten (verb) :: to ask
 ***bitter***
   bitter {{de-adj|comparative=bitterer|superlative=bittersten}} :: bitter
-***blast***
-  blast :: {{de-verb form of|blasen|2|p|g}}
-  blast :: {{de-verb form of|blasen|i|p}}
 ***blau***
   blau {{de-adj|blauer|blausten|superlative2=blauesten}} :: blue
   blau {{de-adj|blauer|blausten|superlative2=blauesten}} :: drunk
@@ -1000,7 +997,7 @@ Index: DE DE->EN
 ***Digitalkamera***
   Digitalkamera {{de-noun|g=f|plural=Digitalkameras}} :: digital camera.
 ***din***
-  (Old High German) din dīn :: your (singular)
+  (Old High German) dīn (pronoun) :: your (singular)
 ***dir***
   dir (pronoun form) :: {personal} dative of du; you, to you.
   dir (pronoun form) :: {reflexive} dative; yourself, to yourself.
@@ -2788,7 +2785,7 @@ Index: DE DE->EN
 ***PS***
   PS (abbreviation) :: Abbreviation of Pferdestärken (horsepower)
 ***Python***
-  Python {{de-noun|g=f|plural=Pythons}} :: python (snake)
+  Python {{de-noun|g=m|plural=Pythons}} :: python (snake)
   Python {{de-noun|g=n|pl=-|genitive=Python}} :: Python
 ***quake***
   quake :: {{de-verb form of|quaken|1|s|g}}
@@ -2840,8 +2837,8 @@ Index: DE DE->EN
     The decay of the Roman empire robbed the city of Rome of the old position as the center of all that was happening. :: --
   rauben (verb) :: to take away
 ***Räuber***
-  Räuber {{de-noun|g=m|gen=Räubers|plural=Räuber}} :: robber, thief.
-  Räuber {{de-noun|g=m|gen=Räubers|plural=Räuber}} :: pirate.
+  Räuber {{de-noun|g=m|gen=Räubers|plural=Räuber}} :: robber, thief
+  Räuber {{de-noun|g=m|gen=Räubers|plural=Räuber}} :: pirate
   Räuber {{de-noun|g=m|gen=Räubers|plural=Räuber}} :: sucker (horticulture)
 ***Raum***
   Raum {{de-noun|g=m|genitive=Raums|genitive2=Raumes|plural=Räume}} :: room, space, chamber
@@ -8375,7 +8372,7 @@ Index: EN EN->DE
 ===pink===
   rosa (adjective) :: pink
 ===pirate===
-  Räuber {{de-noun|g=m|gen=Räubers|plural=Räuber}} :: pirate.
+  Räuber {{de-noun|g=m|gen=Räubers|plural=Räuber}} :: pirate
 ===pitch===
   Zusammenklang :: "sounding together", a pitch simultaneity, sonority, or a chord in the sense of indpendent entities sounding together.
 ===pitchfork===
@@ -8567,7 +8564,7 @@ Index: EN EN->DE
 ===put===
   geben {{de-verb-strong|gibt|gab|gegeben|class=5}} :: {transitive} To present; to put.
 ===python===
-  Python {{de-noun|g=f|plural=Pythons}} :: python (snake)
+  Python {{de-noun|g=m|plural=Pythons}} :: python (snake)
 ===Python===
   Python {{de-noun|g=n|pl=-|genitive=Python}} :: Python
 ===qualities===
@@ -8796,7 +8793,7 @@ Index: EN EN->DE
     Der Zerfall des Römerreiches raubte der Stadt Rom die alte Stellung als Mittelpunkt alles Geschehens. :: --
     The decay of the Roman empire robbed the city of Rome of the old position as the center of all that was happening. :: --
 ===robber===
-  Räuber {{de-noun|g=m|gen=Räubers|plural=Räuber}} :: robber, thief.
+  Räuber {{de-noun|g=m|gen=Räubers|plural=Räuber}} :: robber, thief
 ===rock===
   wiegen {{de-verb-weak|wiegt|wiegte|gewiegt}} :: {{transitive|or|reflexive}} to move (something) from side to side; to sway; to shake; to rock
 ===rogue===
@@ -9198,7 +9195,7 @@ Index: EN EN->DE
 ===snail===
   Kugelschnecke {{de-noun|g=f|plural=Kugelschnecken}} :: a sort of snail
 ===snake===
-  Python {{de-noun|g=f|plural=Pythons}} :: python (snake)
+  Python {{de-noun|g=m|plural=Pythons}} :: python (snake)
 ===sneeze===
   Gesundheit! (interjection) :: said to somebody who has sneezed, bless you.
 ===snow===
@@ -9740,7 +9737,7 @@ Index: EN EN->DE
 ===thick===
   dick {{de-adj|dicker|dicksten}} :: thick
 ===thief===
-  Räuber {{de-noun|g=m|gen=Räubers|plural=Räuber}} :: robber, thief.
+  Räuber {{de-noun|g=m|gen=Räubers|plural=Räuber}} :: robber, thief
 ===thing===
   er (pronoun) :: {personal} it (when the grammatical gender of the object/article/thing/animal etc., being referred to, is masculine (der)).
     Dies ist mein Hund. Er heißt Waldi. :: This is my dog. Its name is Waldi.
@@ -10555,7 +10552,7 @@ Index: EN EN->DE
   Käfer {{de-noun|g=m|genitive=Käfers|plural=Käfer}} :: {slang} young girl, wench
 ===your===
   dein {m} (pronoun), neuter: dein, feminine: deine, plural: deine :: {possessive} your (informal, friends, relatives).
-  (Old High German) din dīn :: your (singular)
+  (Old High German) dīn (pronoun) :: your (singular)
 ===yourself===
   dir (pronoun form) :: {reflexive} dative; yourself, to yourself.
 ===Youth===

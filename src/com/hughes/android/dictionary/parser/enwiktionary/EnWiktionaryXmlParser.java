@@ -31,6 +31,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.regex.Pattern;
 
+import com.hughes.android.dictionary.engine.EntrySource;
 import com.hughes.android.dictionary.engine.EntryTypeName;
 import com.hughes.android.dictionary.engine.IndexBuilder;
 import com.hughes.android.dictionary.engine.IndexedEntry;
@@ -58,6 +59,7 @@ public class EnWiktionaryXmlParser {
       "Particle|Interjection|Pronominal adverb" +
       "Han character|Hanzi|Hanja|Kanji|Katakana character|Syllable");
   
+  EntrySource entrySource;
   final IndexBuilder enIndexBuilder;
   final IndexBuilder foreignIndexBuilder;
   final Pattern langPattern;
@@ -83,7 +85,8 @@ public class EnWiktionaryXmlParser {
   }
 
   
-  public void parse(final File file, final int pageLimit) throws IOException {
+  public void parse(final File file, final EntrySource entrySource, final int pageLimit) throws IOException {
+    this.entrySource = entrySource;
     int pageCount = 0;
     final DataInputStream dis = new DataInputStream(new BufferedInputStream(new FileInputStream(file)));
     while (true) {
@@ -291,7 +294,7 @@ public class EnWiktionaryXmlParser {
   private void doTranslationLine(final String line, final String lang, final String pos, final String sense, final String rest) {
     state = State.TRANSLATION_LINE;
     // Good chance we'll actually file this one...
-    final PairEntry pairEntry = new PairEntry();
+    final PairEntry pairEntry = new PairEntry(entrySource);
     final IndexedEntry indexedEntry = new IndexedEntry(pairEntry);
     
     final StringBuilder foreignText = new StringBuilder();
@@ -492,7 +495,7 @@ public class EnWiktionaryXmlParser {
       return;
     }
     
-    final PairEntry pairEntry = new PairEntry();
+    final PairEntry pairEntry = new PairEntry(entrySource);
     final IndexedEntry indexedEntry = new IndexedEntry(pairEntry);
 
     entryIsFormOfSomething = false;

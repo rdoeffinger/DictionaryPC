@@ -31,8 +31,8 @@ Index: DE DE->EN
   abdanken :: abdicate (renounce a throne) (verb)
 ***Abdankung***
   Verzicht, Abdankung {f} :: abdication (the act of abdicating; the renunciation of a high office, dignity, or trust, by its holder) (noun)
-===abdominal===
-  abdominal, also: den Unterleib betreffend :: abdominal (of or pertaining to the abdomen) (adjective)
+***abdominal***
+  abdominal, den Unterleib betreffend :: abdominal (of or pertaining to the abdomen) (adjective)
 ***Abduktion***
   Abduktion {f} :: abduction (physiology: movement separating limb from axis) (noun)
   Abduktion {f} :: abduction (logic: syllogism) (noun)
@@ -116,9 +116,9 @@ Index: DE DE->EN
   abschaffen :: abrogate (to annul by an authoritative act) (verb)
 ***Abschaffung***
   Abschaffung {f} :: abolishment (The act of abolishing) (noun)
-  Abschaffung {f}, Aufhebung {f} :: abolition (act of abolishing) (noun)
-  Abschaffung des Sklavenhandels :: abolition (Abolition of slave trade) (noun)
-  Abschaffung des Sklavenhandels :: abolition (emancipation of slaves) (noun)
+  Abschaffung {f}, Aufhebung {f} :: abolition (act of abolishing)
+  Abschaffung des Sklavenhandels :: abolition (Abolition of slave trade)
+  Abschaffung des Sklavenhandels :: abolition (emancipation of slaves)
 ***abscheu***
   abscheu, ekel :: abhorrence (extreme aversion) (noun)
 ***abscheulich***
@@ -260,8 +260,6 @@ Index: DE DE->EN
   alphabetisch :: alphabetical (in the sequence of the letters of the alphabet) (adjective)
 ***Alphabetismus***
   Alphabetismus {m} :: alphabetism (form of literacy) (noun)
-===also===
-  abdominal, also: den Unterleib betreffend :: abdominal (of or pertaining to the abdomen) (adjective)
 ***am***
   Montag, am Montag :: Monday (on Monday) (adverb)
 ***an***
@@ -347,7 +345,7 @@ Index: DE DE->EN
 ===aufheben===
   zunichte machen, aufheben, rückgängig machen :: abrogate (to put an end to) (verb)
 ***Aufhebung***
-  Abschaffung {f}, Aufhebung {f} :: abolition (act of abolishing) (noun)
+  Abschaffung {f}, Aufhebung {f} :: abolition (act of abolishing)
 ***aufhetzen***
   ermutigen, aufhetzen, anstiften :: abet (to assist or encourage in crime) (verb)
 ***aufzeichnen***
@@ -450,7 +448,7 @@ Index: DE DE->EN
 ***bestrafen***
   bestrafen :: book (penalise) (verb)
 ===betreffend===
-  abdominal, also: den Unterleib betreffend :: abdominal (of or pertaining to the abdomen) (adjective)
+  abdominal, den Unterleib betreffend :: abdominal (of or pertaining to the abdomen) (adjective)
 ***betrunken***
   betrunken, besoffen :: pissed (Drunk) (adjective)
 ===Bett===
@@ -621,8 +619,8 @@ Index: DE DE->EN
 ===Der===
   Der Große Teich :: pond (The Atlantic Ocean) (noun)
 ===des===
-  Abschaffung des Sklavenhandels :: abolition (Abolition of slave trade) (noun)
-  Abschaffung des Sklavenhandels :: abolition (emancipation of slaves) (noun)
+  Abschaffung des Sklavenhandels :: abolition (Abolition of slave trade)
+  Abschaffung des Sklavenhandels :: abolition (emancipation of slaves)
 ===desto===
   je + comp., + desto + comp. :: the (the + ～comparative, the + comparative) (adverb)
 ***deutsch***
@@ -1272,6 +1270,8 @@ Index: DE DE->EN
   Jahrzehnt {n}, (archaic) Dekade {f} :: decade (a period of ten years) (noun)
 ***jämmerlich***
   erbärmlich, jämmerlich :: abysmal (extremely bad) (adjective)
+***Jannowaa***
+  (Kölsch) Jannowaa :: January (first month of the Gregorian calendar) (proper noun)
 ***januar***
   (Alemannic German) januar :: January (first month of the Gregorian calendar) (proper noun)
 ***Januar***
@@ -2029,8 +2029,8 @@ Index: DE DE->EN
 ***singulär***
   singulär :: singular (linear algebra: of matrix: having no inverse) (adjective)
 ===Sklavenhandels===
-  Abschaffung des Sklavenhandels :: abolition (Abolition of slave trade) (noun)
-  Abschaffung des Sklavenhandels :: abolition (emancipation of slaves) (noun)
+  Abschaffung des Sklavenhandels :: abolition (Abolition of slave trade)
+  Abschaffung des Sklavenhandels :: abolition (emancipation of slaves)
 ===smoking===
   abstinent (mostly when referring to alcohol or smoking), enthaltsam (sexually abstinent, celibate) :: abstinent (refraining from indulgence) (adjective)
 ===sniffer===
@@ -2101,7 +2101,7 @@ Index: DE DE->EN
   nullen, auf Null stellen :: zero (to set to zero) (verb)
 ***sterben***
   sterben :: absquatulate (to die) (verb)
-  sterben :: die (to stop living) (verb)
+  sterben, umkommen :: die (to stop living) (verb)
 ***Stern***
   Stern {m} :: star (luminous celestial body) (noun)
 ===storm===
@@ -2227,6 +2227,8 @@ Index: DE DE->EN
   (Low German) ümdat, dor :: because (by or for the cause that; on this account that; for the reason that) (conjunction)
 ***umgehen***
   behandeln {f}, umgehen (+ mit) :: deal (handle, manage) (verb)
+***umkommen***
+  sterben, umkommen :: die (to stop living) (verb)
 ***umsonst***
   umsonst, gratis, kostenlos :: free (obtainable without payment) (adjective)
 ***Umstandswort***
@@ -2264,7 +2266,7 @@ Index: DE DE->EN
   Unterbegriff {m}, Hyponym {n} :: hyponym (more specific word) (noun)
 ***Unterleib***
   Bauch {m}, Unterleib {m} :: abdomen (belly) (noun)
-  abdominal, also: den Unterleib betreffend :: abdominal (of or pertaining to the abdomen) (adjective)
+  abdominal, den Unterleib betreffend :: abdominal (of or pertaining to the abdomen) (adjective)
 ***unvollkommen***
   unvollkommen, rudimentär :: abortive (Imperfectly formed or developed; rudimentary; sterile) (adjective)
 ***unzählbar***
@@ -2723,9 +2725,9 @@ Index: EN EN->DE
   Verzicht, Abdankung {f} :: abdication (the act of abdicating; the renunciation of a high office, dignity, or trust, by its holder) (noun)
 ***abdomen***
   Bauch {m}, Unterleib {m} :: abdomen (belly) (noun)
-  abdominal, also: den Unterleib betreffend :: abdominal (of or pertaining to the abdomen) (adjective)
+  abdominal, den Unterleib betreffend :: abdominal (of or pertaining to the abdomen) (adjective)
 ***abdominal***
-  abdominal, also: den Unterleib betreffend :: abdominal (of or pertaining to the abdomen) (adjective)
+  abdominal, den Unterleib betreffend :: abdominal (of or pertaining to the abdomen) (adjective)
 ===abducing===
   Entführung {f} :: abduction (act of abducing or abducting) (noun)
 ***abduct***
@@ -2825,15 +2827,15 @@ Index: EN EN->DE
   vernichten :: abolish (to destroy) (verb)
 ===abolishing===
   Abschaffung {f} :: abolishment (The act of abolishing) (noun)
-  Abschaffung {f}, Aufhebung {f} :: abolition (act of abolishing) (noun)
+  Abschaffung {f}, Aufhebung {f} :: abolition (act of abolishing)
 ***abolishment***
   Abschaffung {f} :: abolishment (The act of abolishing) (noun)
 ***abolition***
-  Abschaffung {f}, Aufhebung {f} :: abolition (act of abolishing) (noun)
-  Abschaffung des Sklavenhandels :: abolition (Abolition of slave trade) (noun)
-  Abschaffung des Sklavenhandels :: abolition (emancipation of slaves) (noun)
+  Abschaffung {f}, Aufhebung {f} :: abolition (act of abolishing)
+  Abschaffung des Sklavenhandels :: abolition (Abolition of slave trade)
+  Abschaffung des Sklavenhandels :: abolition (emancipation of slaves)
 ===Abolition===
-  Abschaffung des Sklavenhandels :: abolition (Abolition of slave trade) (noun)
+  Abschaffung des Sklavenhandels :: abolition (Abolition of slave trade)
 ***abolitionism***
   Abolitionismus :: abolitionism (noun)
 ***abominable***
@@ -3077,7 +3079,7 @@ Index: EN EN->DE
   Entführung {f} :: abduction (act of abducing or abducting) (noun)
   Verweilen {n}, Warten {n} :: abode (obsolete: act of waiting) (noun)
   Abschaffung {f} :: abolishment (The act of abolishing) (noun)
-  Abschaffung {f}, Aufhebung {f} :: abolition (act of abolishing) (noun)
+  Abschaffung {f}, Aufhebung {f} :: abolition (act of abolishing)
   Abtreibung {f} :: abortion (act of inducing abortion) (noun)
   Abrasion {f} :: abrasion (act of abrading) (noun)
   abschaffen :: abrogate (to annul by an authoritative act) (verb)
@@ -3602,6 +3604,7 @@ Index: EN EN->DE
   (Low German) Dezember {m}, Dezembermaand {m} :: December (twelfth month of the Gregorian calendar) (proper noun)
   (Alemannic German) januar :: January (first month of the Gregorian calendar) (proper noun)
   Januar {m} :: January (first month of the Gregorian calendar) (proper noun)
+  (Kölsch) Jannowaa :: January (first month of the Gregorian calendar) (proper noun)
   (Low German) Januor {m}, Januormaand {m} :: January (first month of the Gregorian calendar) (proper noun)
   (Alemannic German) februar :: February (second month of the Gregorian calendar) (proper noun)
   Februar {m} :: February (second month of the Gregorian calendar) (proper noun)
@@ -4237,7 +4240,7 @@ Index: EN EN->DE
   Wörterbuch {n} :: dictionary (publication that explains the meanings of an ordered list of words) (noun)
   assoziatives Datenfeld {n} :: dictionary (an associative array) (noun)
 ***die***
-  sterben :: die (to stop living) (verb)
+  sterben, umkommen :: die (to stop living) (verb)
   Würfel {m} :: die (polyhedron used in games of chance) (noun)
   (Low German) terling {m}, wörpelterling {m}, dubbelsten {m}, wörpel {m} :: die (polyhedron used in games of chance) (noun)
   sterben :: absquatulate (to die) (verb)
@@ -4426,7 +4429,7 @@ Index: EN EN->DE
 ===elliptical===
   sein :: be (elliptical form of "be here", or similar) (verb)
 ===emancipation===
-  Abschaffung des Sklavenhandels :: abolition (emancipation of slaves) (noun)
+  Abschaffung des Sklavenhandels :: abolition (emancipation of slaves)
 ===embarrass===
   beschämen :: abash (to make ashamed, to embarrass) (verb)
 ===embarrassed===
@@ -4664,6 +4667,7 @@ Index: EN EN->DE
   Vorname {m} :: first name (name chosen by parents) (noun)
   (Alemannic German) januar :: January (first month of the Gregorian calendar) (proper noun)
   Januar {m} :: January (first month of the Gregorian calendar) (proper noun)
+  (Kölsch) Jannowaa :: January (first month of the Gregorian calendar) (proper noun)
   (Low German) Januor {m}, Januormaand {m} :: January (first month of the Gregorian calendar) (proper noun)
   Abszisse {f} :: abscissa (first of two coordinates) (noun)
   zweiter {m} :: second (that which comes after the first) (adjective)
@@ -4916,6 +4920,7 @@ Index: EN EN->DE
   (Low German) Dezember {m}, Dezembermaand {m} :: December (twelfth month of the Gregorian calendar) (proper noun)
   (Alemannic German) januar :: January (first month of the Gregorian calendar) (proper noun)
   Januar {m} :: January (first month of the Gregorian calendar) (proper noun)
+  (Kölsch) Jannowaa :: January (first month of the Gregorian calendar) (proper noun)
   (Low German) Januor {m}, Januormaand {m} :: January (first month of the Gregorian calendar) (proper noun)
   (Alemannic German) februar :: February (second month of the Gregorian calendar) (proper noun)
   Februar {m} :: February (second month of the Gregorian calendar) (proper noun)
@@ -5272,6 +5277,7 @@ Index: EN EN->DE
 ***January***
   (Alemannic German) januar :: January (first month of the Gregorian calendar) (proper noun)
   Januar {m} :: January (first month of the Gregorian calendar) (proper noun)
+  (Kölsch) Jannowaa :: January (first month of the Gregorian calendar) (proper noun)
   (Low German) Januor {m}, Januormaand {m} :: January (first month of the Gregorian calendar) (proper noun)
 ***Japan***
   Japan :: Japan (A Far East country in Asia) (proper noun)
@@ -5446,7 +5452,7 @@ Index: EN EN->DE
 ===little===
   Null {f}, Nichts {n}, Niemand {m} :: zero (person of little importance) (noun)
 ===living===
-  sterben :: die (to stop living) (verb)
+  sterben, umkommen :: die (to stop living) (verb)
 ===loathsome===
   Ekel {n} :: abhorrence (loathsome person or thing) (noun)
   verabscheuungswürdig, verhasst, abscheulich :: abominable (hateful; detestable; loathsome) (adjective)
@@ -5724,6 +5730,7 @@ Index: EN EN->DE
   (Low German) Dezember {m}, Dezembermaand {m} :: December (twelfth month of the Gregorian calendar) (proper noun)
   (Alemannic German) januar :: January (first month of the Gregorian calendar) (proper noun)
   Januar {m} :: January (first month of the Gregorian calendar) (proper noun)
+  (Kölsch) Jannowaa :: January (first month of the Gregorian calendar) (proper noun)
   (Low German) Januor {m}, Januormaand {m} :: January (first month of the Gregorian calendar) (proper noun)
   (Alemannic German) februar :: February (second month of the Gregorian calendar) (proper noun)
   Februar {m} :: February (second month of the Gregorian calendar) (proper noun)
@@ -6247,7 +6254,7 @@ Index: EN EN->DE
   Verkörperung {f} :: avatar (The physical embodiment of an idea or concept; a personification) (noun)
 ===pertaining===
   Aaronisch :: Aaronic (pertaining to Aaron) (adjective)
-  abdominal, also: den Unterleib betreffend :: abdominal (of or pertaining to the abdomen) (adjective)
+  abdominal, den Unterleib betreffend :: abdominal (of or pertaining to the abdomen) (adjective)
   anormal, abnormal :: abnormal (of or pertaining to behaviour that deviates from norms) (adjective)
   englisch :: English (of or pertaining to the English language) (adjective)
   englisch :: English (of or pertaining to England) (adjective)
@@ -6965,9 +6972,9 @@ Index: EN EN->DE
 ===slaughterhouse===
   Schlachthaus {n}, Schlachthof {m} :: abattoir (public slaughterhouse) (noun)
 ===slave===
-  Abschaffung des Sklavenhandels :: abolition (Abolition of slave trade) (noun)
+  Abschaffung des Sklavenhandels :: abolition (Abolition of slave trade)
 ===slaves===
-  Abschaffung des Sklavenhandels :: abolition (emancipation of slaves) (noun)
+  Abschaffung des Sklavenhandels :: abolition (emancipation of slaves)
 ***sleep***
   Tiefschlaf {m} :: deep sleep (state of sleep) (noun)
 ===slightly===
@@ -7130,7 +7137,7 @@ Index: EN EN->DE
   Brühe {f} :: stock (broth) (noun)
   vorrätig, verfügbar :: stock (normally available for purchase) (adjective)
 ===stop===
-  sterben :: die (to stop living) (verb)
+  sterben, umkommen :: die (to stop living) (verb)
   Punkt {m} :: point (full stop) (noun)
 ===storage===
   Bit {n} :: bit (smallest unit of storage) (noun)
@@ -7441,7 +7448,7 @@ Index: EN EN->DE
   Handel {m} :: trade (instance of buying or selling) (noun)
   Gewerkschaft {f} :: trade union (organization) (noun)
   handeln :: deal (trade) (verb)
-  Abschaffung des Sklavenhandels :: abolition (Abolition of slave trade) (noun)
+  Abschaffung des Sklavenhandels :: abolition (Abolition of slave trade)
 ===traditional===
   traditionelles Chinesisch {n}, Langzeichen {n} :: Traditional Chinese (Chinese written using traditional characters) (proper noun)
 ***Traditional***

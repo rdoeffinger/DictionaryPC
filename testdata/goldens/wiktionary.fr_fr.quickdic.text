@@ -122,7 +122,7 @@ Index: FR FR->EN
 ***abdomen***
   abdomen {{fr-noun|m}} :: abdomen
 ***abdominal***
-  abdominal {{fr-adj|mp=abdominaux}} :: Abdominal; of the abdomen.
+  abdominal {{fr-adj|mp=abdominaux}} :: abdominal; of the abdomen.
   abdominales {{fr-adj-form|f|p}} :: {feminine plural of|abdominal}
     douleurs abdominales :: abdominal pains
 ***abdominales***
@@ -346,6 +346,8 @@ Index: FR FR->EN
   abyme {{fr-noun|m}} :: {archaic} {alternative form of|abime}
 ***abyssal***
   abyssal {{fr-adj-al|abyss}} :: abyssal
+***acacia***
+  acacia {{fr-noun|f}} :: acacia
 ***acajou***
   acajou {{fr-noun|m}} :: cashew tree; also, its fruit
   acajou {{fr-noun|m}} :: mahogany tree; also, its timber
@@ -1249,14 +1251,10 @@ Index: FR FR->EN
 ***carne***
   carne {{fr-noun|f}} :: {informal} meat (usually of bad quality)
   carne {{fr-noun|f}} :: nag (old useless horse)
-***casa***
-  casa {fr-verb-form} :: {conjugation of|caser|3|s|past historic}
 ***case***
   case {{fr-noun|f}} :: hut, cabin, shack
   case {{fr-noun|f}} :: box (on form)
   case {{fr-noun|f}} :: square (on boardgame)
-===caser===
-  casa {fr-verb-form} :: {conjugation of|caser|3|s|past historic}
 ***Catalan***
   Catalan {{fr-noun|m|f=Catalane}} :: A Catalonian person.
 ***catch***
@@ -1264,7 +1262,17 @@ Index: FR FR->EN
 ***cause***
   cause {{fr-noun|f}} :: cause
   cause {{fr-noun|f}} :: case (a legal proceeding)
-  cause :: Third person singular indicative of causer
+  cause {fr-verb-form} :: {conjugation of|causer|1|s|pres|ind}
+  cause {fr-verb-form} :: {conjugation of|causer|3|s|pres|ind}
+  cause {fr-verb-form} :: {conjugation of|causer|1|s|pres|sub}
+  cause {fr-verb-form} :: {conjugation of|causer|3|s|pres|sub}
+  cause {fr-verb-form} :: {conjugation of|causer|2|s|imp}
+===causer===
+  cause {fr-verb-form} :: {conjugation of|causer|1|s|pres|ind}
+  cause {fr-verb-form} :: {conjugation of|causer|3|s|pres|ind}
+  cause {fr-verb-form} :: {conjugation of|causer|1|s|pres|sub}
+  cause {fr-verb-form} :: {conjugation of|causer|3|s|pres|sub}
+  cause {fr-verb-form} :: {conjugation of|causer|2|s|imp}
 ***CD***
   CD {{fr-noun-inv|m}} :: CD (compact disk)
 ===ce===
@@ -1994,7 +2002,9 @@ Index: FR FR->EN
 ***due***
   due {f} :: {feminine past participle of|devoir}
 ***duel***
-  duel {m} (adjective) :: dual (having two components)
+  duel {{fr-adj|f=duelle}} :: dual (having two components)
+  duel {{fr-noun|m}} :: dual (battle)
+  duel {{fr-noun|m}} :: {grammar} dual
   (Old French) duel {{fro-noun|m|dueus|dueus}} :: sadness; grief; sorrow
     circa 1170, {{w|Chrétien de Troyes}}, Érec et Énide: :: --
     Son plor et son duel demenant :: --
@@ -2133,6 +2143,8 @@ Index: FR FR->EN
     en détresse :: in distress
     en bonne humeur :: in a good mood
   (Old French) en (preposition) :: in; inside
+  (Old French) en (preposition) :: on; upon
+    {{quote-book|year=12<sup>th</sup> Century|title=Raoul de Cambrai|author=Unknown|passage=qi en la crois fu mis|translation=[He] who was put on the cross}} :: --
 ===En===
   de {fr-prep} :: of (expresses belonging)
     1837 Louis Viardot, L’Ingénieux Hidalgo Don Quichotte de la Manche<sup>fr.Wikisource</sup>, translation of El ingenioso hidalgo Don Quijote de la Mancha by Miguel de Cervantes Saavedra, Chapter I: :: --
@@ -3222,7 +3234,7 @@ Index: FR FR->EN
     Je lui ai donné le livre. :: I gave the book to him/her.
 ===Jean===
   lit {fr-verb-form} :: {conjugation of|lire|3|s|pres|ind}
-    Jean lit très souvent. :: John reads very often.
+    Jean lit très souvent. :: Jean reads very often.
 ***jerk***
   jerk {{fr-noun|m}} :: jerk (dance)
 ***jeudi***
@@ -3444,12 +3456,13 @@ Index: FR FR->EN
   lifting {{fr-noun|m}} :: facelift
 ===lire===
   lit {fr-verb-form} :: {conjugation of|lire|3|s|pres|ind}
-    Jean lit très souvent. :: John reads very often.
+    Jean lit très souvent. :: Jean reads very often.
 ***lit***
   lit {{fr-noun|m}} :: bed
     Où est-il? Il dort dans son lit. :: Where is he? He's sleeping in his bed.
+  (Old French) lit {{fro-noun|m|liz|liz}} :: bed
   lit {fr-verb-form} :: {conjugation of|lire|3|s|pres|ind}
-    Jean lit très souvent. :: John reads very often.
+    Jean lit très souvent. :: Jean reads very often.
 ***livre***
   livre {{fr-noun|m}} :: book
   livre {{fr-noun|f}} :: pound (unit of weight)
@@ -3563,9 +3576,7 @@ Index: FR FR->EN
     Martin a trois sandwichs, mais j'en ai seulement deux. :: Martin has sandwiches, but I have only two (of them).
     Il y en a combien ? :: How many of them are there?
     Je bois de l'alcool parce que j'en ai besoin :: I drink alcohol because I need (of) it.
-***maison***
-  maison {{fr-noun|f}} :: house
-  (Middle French) maison {{frm-noun|f}} :: house
+===maison===
   y (pronoun), adverbial :: there (at a place)
     Il est dans la maison. Il y est. :: “He is in the house. He is there.”
 ===majorité===
@@ -4201,7 +4212,7 @@ Index: FR FR->EN
 ***Palestine***
   Palestine {{fr-proper noun|f}} :: Palestine
 ***palpable***
-  palpable {{fr-adj|feminine=palpable}} :: palpable
+  palpable {fr-adj-mf} :: palpable
 ***pamphlet***
   pamphlet {{fr-noun|m}} :: lampoon (written attack)
   pamphlet {{fr-noun|m}} :: {Quebec} pamphlet (small booklet)
@@ -4350,6 +4361,11 @@ Index: FR FR->EN
   passage {fr-verb-form} :: {conjugation of|passager|2|s|imp}
 ***patronage***
   patronage {{fr-noun|m}} :: Patronage
+***Paulo***
+  São Paulo {{fr-proper noun|m}} :: São Paulo
+    1955, {{w|Claude Lévi-Strauss}}, Tristes Tropiques, 1993 ed., {{w|Plon (publisher)|Plon}}, ISBN 978-2-259-00359-1, chap. X,I p. 108 :: --
+    Et pourtant São Paulo ne m'a jamais paru laide : c'était une ville sauvage comme le sont toutes les villes américaines, à l'exception peut-être de Washington, D.C., [...] :: --
+    — And yet I never thought that São Paulo was ugly: it was a‘wild’ town, as are all American towns, with the possible exception of Washington, D.C., [...] — 1973, John & Doreen Weightman (trans.), {{w|Tristes Tropiques}}, 2011 ed., {{w|Penguin Books}}, ISBN 978-0-14-197073-8 :: --
 ***pavement***
   pavement {{fr-noun|m}} :: paving
   pavement {{fr-noun|m}} :: tiled floor
@@ -4965,6 +4981,11 @@ Index: FR FR->EN
 ===sans===
   c :: {text messaging} {Informal spelling|c'est}
     C nul ici sans George :: It's rubbish here without George
+***São***
+  São Paulo {{fr-proper noun|m}} :: São Paulo
+    1955, {{w|Claude Lévi-Strauss}}, Tristes Tropiques, 1993 ed., {{w|Plon (publisher)|Plon}}, ISBN 978-2-259-00359-1, chap. X,I p. 108 :: --
+    Et pourtant São Paulo ne m'a jamais paru laide : c'était une ville sauvage comme le sont toutes les villes américaines, à l'exception peut-être de Washington, D.C., [...] :: --
+    — And yet I never thought that São Paulo was ugly: it was a‘wild’ town, as are all American towns, with the possible exception of Washington, D.C., [...] — 1973, John & Doreen Weightman (trans.), {{w|Tristes Tropiques}}, 2011 ed., {{w|Penguin Books}}, ISBN 978-0-14-197073-8 :: --
 ***Sarthe***
   Condé-sur-Sarthe :: Small town near Alençon in France
 ***Saskatchewan***
@@ -5136,7 +5157,7 @@ Index: FR FR->EN
     Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
 ===souvent===
   lit {fr-verb-form} :: {conjugation of|lire|3|s|pres|ind}
-    Jean lit très souvent. :: John reads very often.
+    Jean lit très souvent. :: Jean reads very often.
 ===sport===
   de {fr-prep} :: {{context|used attributively, often translated into English as a compound noun}}
     jus de pomme :: apple juice
@@ -5385,7 +5406,7 @@ Index: FR FR->EN
   treize (cardinal number) :: thirteen
 ===très===
   lit {fr-verb-form} :: {conjugation of|lire|3|s|pres|ind}
-    Jean lit très souvent. :: John reads very often.
+    Jean lit très souvent. :: Jean reads very often.
 ***triangle***
   triangle {{fr-noun|m}} :: triangle (polygon)
   triangle {{fr-noun|m}} :: triangle (percussion instrument)
@@ -5941,13 +5962,12 @@ Index: EN EN->FR
   abdication {{fr-noun|f}} :: abdication
 ===abdomen===
   abdomen {{fr-noun|m}} :: abdomen
-  abdominal {{fr-adj|mp=abdominaux}} :: Abdominal; of the abdomen.
+  abdominal {{fr-adj|mp=abdominaux}} :: abdominal; of the abdomen.
 ===abdominal===
+  abdominal {{fr-adj|mp=abdominaux}} :: abdominal; of the abdomen.
   abdo {{fr-noun|m}} :: {{rare|_|in the singular}} ab (abdominal muscle)
   abdominales {{fr-adj-form|f|p}} :: {feminine plural of|abdominal}
     douleurs abdominales :: abdominal pains
-===Abdominal===
-  abdominal {{fr-adj|mp=abdominaux}} :: Abdominal; of the abdomen.
 ===abduction===
   abduction {{fr-noun|f}} :: {physiology} Abductive movement; abduction.
   abduction {{fr-noun|f}} :: {{logic|computing}} Abductive reasoning; abduction.
@@ -6054,6 +6074,8 @@ Index: EN EN->FR
   (Old French) abusion {{fro-noun|f}} :: abuse
 ===abyssal===
   abyssal {{fr-adj-al|abyss}} :: abyssal
+===acacia===
+  acacia {{fr-noun|f}} :: acacia
 ===Accent===
   accent {{fr-noun|m}} :: Accent (one's manner of speaking)
   accent {{fr-noun|m}} :: Accent (the symbol on a character)
@@ -6704,6 +6726,8 @@ Index: EN EN->FR
   basket {{fr-noun|m|pl=basket}} :: basketball
   panier {{fr-noun|m}} :: goal scored in basketball
   panier {{fr-noun|m}} :: basketball hoop
+===battle===
+  duel {{fr-noun|m}} :: dual (battle)
 ===bay===
   bai {fr-adj} :: bay
 ===beam===
@@ -6743,6 +6767,7 @@ Index: EN EN->FR
 ===bed===
   lit {{fr-noun|m}} :: bed
     Où est-il? Il dort dans son lit. :: Where is he? He's sleeping in his bed.
+  (Old French) lit {{fro-noun|m|liz|liz}} :: bed
 ===bee===
   abeille {{fr-noun|f}}A honey bee (''abeille'' 1) collecting pollenA solitary bee (''abeille'' 2) :: A common honey bee (Apis mellifera); a social insect that carries a stinger and is often domesticated for the production of honey and beeswax
     Elle s’est fait piquer par une abeille. :: She was stung by a bee.
@@ -7232,8 +7257,6 @@ Index: EN EN->FR
   cause {{fr-noun|f}} :: cause
 ===caused===
   ablactation {{fr-noun|f}} :: {medicine} Interruption in secretion of breast milk, usually caused by a hormonal imbalance.
-===causer===
-  cause :: Third person singular indicative of causer
 ===causeway===
   boulevard {{fr-noun|m}} :: A causeway
 ===caution===
@@ -7543,7 +7566,7 @@ Index: EN EN->FR
   (Middle French) sentence {{frm-noun|f|s}} :: sentence (grammatically complete series of words)
     {{quote-book|year=1552|title=Le Tiers Livre|author=François Rabelais|passage=tant a cause des amphibologies, equivocques, & obscuritez des motz, que de la briefveté des sentences|translation=}} :: --
 ===components===
-  duel {m} (adjective) :: dual (having two components)
+  duel {{fr-adj|f=duelle}} :: dual (having two components)
 ===composition===
   en {fr-prep} :: of, made of (used to describe composition)
     Une chaise en hêtre :: a chair made of beech/a beech chair
@@ -8066,7 +8089,9 @@ Index: EN EN->FR
   bien (adverb), comparative and superlative: mieux :: (+ de, des, du) a lot of
     Macy Gray a traversé bien des épreuves. :: Macy Gray got through a lot of ordeals.
 ===dual===
-  duel {m} (adjective) :: dual (having two components)
+  duel {{fr-adj|f=duelle}} :: dual (having two components)
+  duel {{fr-noun|m}} :: dual (battle)
+  duel {{fr-noun|m}} :: {grammar} dual
 ===Dual===
   trail {{fr-noun|f}} :: Dual-sport motorcycle
 ===dubbed===
@@ -9196,7 +9221,7 @@ Index: EN EN->FR
     Il n'a pas de crayon. :: He hasn't got a pencil.
     Je n'ai pas de temps. :: I haven't got any time.
 ===having===
-  duel {m} (adjective) :: dual (having two components)
+  duel {{fr-adj|f=duelle}} :: dual (having two components)
   être {{fr-verb|type=auxiliary}} :: {auxiliary} Used to form the perfect and pluperfect tense of certain verbs (including all reflexive verbs)
     Après être allé au yoga, je suis rentré chez moi. :: After having gone to yoga, I came back home.
 ===he===
@@ -9441,8 +9466,6 @@ Index: EN EN->FR
 ===house===
   house {{fr-noun-unc|f}} :: house music, house
   full {{fr-noun|m}} :: {poker} full house
-  maison {{fr-noun|f}} :: house
-  (Middle French) maison {{frm-noun|f}} :: house
   y (pronoun), adverbial :: there (at a place)
     Il est dans la maison. Il y est. :: “He is in the house. He is there.”
 ===How===
@@ -9606,7 +9629,6 @@ Index: EN EN->FR
   suit :: third-person singular present indicative form of suivre
   fit {fr-verb-form} :: third-person singular indicative past historic of faire
   met (verb form) :: third-person singular indicative present of "mettre", puts
-  cause :: Third person singular indicative of causer
   rate {fr-verb-form} :: first-person singular indicative present form of rater
   rate {fr-verb-form} :: third-person singular indicative present form of rater
 ===indirect===
@@ -9781,15 +9803,15 @@ Index: EN EN->FR
     Whites and greens, blues and yellows. :: --
 ===javelin===
   (Old French) dart {{fro-noun|m|darz|darz|dart}} :: weapon similar to a javelin
+===Jean===
+  lit {fr-verb-form} :: {conjugation of|lire|3|s|pres|ind}
+    Jean lit très souvent. :: Jean reads very often.
 ===jeopardy===
   danger {{fr-noun|m}} :: jeopardy (danger of loss, harm, or failure)
 ===jerk===
   jerk {{fr-noun|m}} :: jerk (dance)
 ===job===
   livrer {fr-verb} :: {reflexive} (with à) to practise (a sport); be engaged in (a job, research); set up (an enquiry)
-===John===
-  lit {fr-verb-form} :: {conjugation of|lire|3|s|pres|ind}
-    Jean lit très souvent. :: John reads very often.
 ===joint===
   article {{fr-noun|m}} :: joint, articulation
 ===Jordan===
@@ -10955,7 +10977,7 @@ Index: EN EN->FR
     abeilles sauvages et abeilles domestiques :: wild bees and domesticated bees
     essaim d’abeilles :: swarm of bees
   lit {fr-verb-form} :: {conjugation of|lire|3|s|pres|ind}
-    Jean lit très souvent. :: John reads very often.
+    Jean lit très souvent. :: Jean reads very often.
 ===ogre===
   ogre {{fr-noun|m|f=ogresse}} :: {mythology} ogre
 ===oh===
@@ -11121,7 +11143,7 @@ Index: EN EN->FR
 ===Palestine===
   Palestine {{fr-proper noun|f}} :: Palestine
 ===palpable===
-  palpable {{fr-adj|feminine=palpable}} :: palpable
+  palpable {fr-adj-mf} :: palpable
 ===pamphlet===
   pamphlet {{fr-noun|m}} :: {Quebec} pamphlet (small booklet)
 ===pane===
@@ -11201,6 +11223,11 @@ Index: EN EN->FR
     Il peut être battu ce soir. :: He could be beaten this evening.
 ===Patronage===
   patronage {{fr-noun|m}} :: Patronage
+===Paulo===
+  São Paulo {{fr-proper noun|m}} :: São Paulo
+    1955, {{w|Claude Lévi-Strauss}}, Tristes Tropiques, 1993 ed., {{w|Plon (publisher)|Plon}}, ISBN 978-2-259-00359-1, chap. X,I p. 108 :: --
+    Et pourtant São Paulo ne m'a jamais paru laide : c'était une ville sauvage comme le sont toutes les villes américaines, à l'exception peut-être de Washington, D.C., [...] :: --
+    — And yet I never thought that São Paulo was ugly: it was a‘wild’ town, as are all American towns, with the possible exception of Washington, D.C., [...] — 1973, John & Doreen Weightman (trans.), {{w|Tristes Tropiques}}, 2011 ed., {{w|Penguin Books}}, ISBN 978-0-14-197073-8 :: --
 ===pauper===
   (Old French) simple {m|f} (adjective), plural: simples :: peasant, pauper (attibutive)
 ===pause===
@@ -11808,7 +11835,7 @@ Index: EN EN->FR
   cœur {{fr-noun|m}} :: {physics} the core of a nuclear reactor
 ===reads===
   lit {fr-verb-form} :: {conjugation of|lire|3|s|pres|ind}
-    Jean lit très souvent. :: John reads very often.
+    Jean lit très souvent. :: Jean reads very often.
 ===really===
   massacrer {fr-verb} :: {figuratively} to do something badly
     Il a massacré cette chanson :: he sung that song really badly (lit. "he massacred that song")
@@ -12050,6 +12077,11 @@ Index: EN EN->FR
     Martin a trois sandwichs, mais j'en ai seulement deux. :: Martin has sandwiches, but I have only two (of them).
     Il y en a combien ? :: How many of them are there?
     Je bois de l'alcool parce que j'en ai besoin :: I drink alcohol because I need (of) it.
+===São===
+  São Paulo {{fr-proper noun|m}} :: São Paulo
+    1955, {{w|Claude Lévi-Strauss}}, Tristes Tropiques, 1993 ed., {{w|Plon (publisher)|Plon}}, ISBN 978-2-259-00359-1, chap. X,I p. 108 :: --
+    Et pourtant São Paulo ne m'a jamais paru laide : c'était une ville sauvage comme le sont toutes les villes américaines, à l'exception peut-être de Washington, D.C., [...] :: --
+    — And yet I never thought that São Paulo was ugly: it was a‘wild’ town, as are all American towns, with the possible exception of Washington, D.C., [...] — 1973, John & Doreen Weightman (trans.), {{w|Tristes Tropiques}}, 2011 ed., {{w|Penguin Books}}, ISBN 978-0-14-197073-8 :: --
 ===Saskatchewan===
   Saskatchewan {{fr-proper noun|f}} :: Saskatchewan
 ===satisfied===
@@ -13054,7 +13086,6 @@ Index: EN EN->FR
     Je lui ai donné le livre. :: I gave the book to him/her.
 ===Third===
   percent (verb form) :: Third-person plural present of percer.
-  cause :: Third person singular indicative of causer
 ===thirteen===
   treize (cardinal number) :: thirteen
 ===this===
@@ -13322,7 +13353,7 @@ Index: EN EN->FR
   {{cardinalbox|fr|1|2|3|un|trois|ord=deuxième|wplink=Deux}}deux (cardinal number) :: two
   deux {{fr-noun|m|pl=deux}} :: two
   (Middle French) deux (noun) {m|inv} :: two
-  duel {m} (adjective) :: dual (having two components)
+  duel {{fr-adj|f=duelle}} :: dual (having two components)
   brick {{fr-noun|m}} :: {nautical} A brig, a two-masted vessel type.
   duo {{fr-noun|m}} :: duo (combination of two things)
   duo {{fr-noun|m}} :: duet (a musical composition for two performers)
@@ -13392,6 +13423,9 @@ Index: EN EN->FR
     {{quote-book|circa 1250|title=Ci encoumence la desputizons dou croisie et dou descroisie.|author=Rutebeuf|passage=Tu dis si grant abusion<br>Que nus ne la porroit descrire[.]|translation=You say such lies<br>That no-one could describe them}} :: --
 ===unusual===
   original {{fr-noun|m}} {m} :: An unusual or eccentric person
+===upon===
+  (Old French) en (preposition) :: on; upon
+    {{quote-book|year=12<sup>th</sup> Century|title=Raoul de Cambrai|author=Unknown|passage=qi en la crois fu mis|translation=[He] who was put on the cross}} :: --
 ===Uruguay===
   Uruguay {{fr-proper noun|m}} :: Uruguay
 ===US===
@@ -13583,7 +13617,7 @@ Index: EN EN->FR
 ===very===
   neuf {{fr-adj|f=neuve}} :: brand new, very new
   lit {fr-verb-form} :: {conjugation of|lire|3|s|pres|ind}
-    Jean lit très souvent. :: John reads very often.
+    Jean lit très souvent. :: Jean reads very often.
 ===Very===
   plate {{fr-noun|f}} :: Very small flat boat.
 ===verz===
