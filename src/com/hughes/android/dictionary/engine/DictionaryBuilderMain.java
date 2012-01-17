@@ -63,9 +63,9 @@ public class DictionaryBuilderMain extends TestCase {
     
 //    isoToWikiName.keySet().retainAll(Arrays.asList("UK", "HR", "FI"));
     //isoToWikiName.clear();
-    boolean go = true;
+    boolean go = false;
     for (final String foreignIso : isoToWikiName.keySet()) {
-      if (foreignIso.equals("SK")) {
+      if (foreignIso.equals("blah")) {
         go = true;
       }
       if (!go) {
@@ -111,7 +111,7 @@ public class DictionaryBuilderMain extends TestCase {
         
     }  // foreignIso
 
-    final String dictFile = String.format("%s/DE-EN_chemnitz_enwiktionary.%s.quickdic", OUTPUTS);
+    final String dictFile = String.format("%s/DE-EN_chemnitz_enwiktionary.quickdic", OUTPUTS);
     DictionaryBuilder.main(new String[] {
         "--dictOut=" + dictFile,
         "--lang1=DE",

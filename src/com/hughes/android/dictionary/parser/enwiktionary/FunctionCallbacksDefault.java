@@ -133,7 +133,15 @@ public final class FunctionCallbacksDefault {
       appendAndIndexWikiCallback.builder.append("|");
       appendAndIndexWikiCallback.dispatch(entry.getKey(), null, null);
       appendAndIndexWikiCallback.builder.append("=");
-      appendAndIndexWikiCallback.dispatch(entry.getValue(), null, null);
+      EntryTypeName entryTypeName = null;
+      IndexBuilder indexBuilder = null;
+      // This doesn't work: we'd need to add to word-forms.
+//      System.out.println(entry.getKey());
+//      if (entry.getKey().equals("tr")) {
+//        entryTypeName = EntryTypeName.WIKTIONARY_TRANSLITERATION;
+//        indexBuilder = appendAndIndexWikiCallback.parser.foreignIndexBuilder;
+//      }
+      appendAndIndexWikiCallback.dispatch(entry.getValue(), indexBuilder, entryTypeName);
     }
   }
 

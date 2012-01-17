@@ -46,12 +46,17 @@ public class IndexBuilder {
   public void build() {
     final Set<IndexedEntry> tokenEntryDatas = new HashSet<IndexedEntry>();
     final List<RowBase> rows = index.rows;
+    index.mainTokenCount = 0;
     for (final TokenData tokenData : tokenToData.values()) {
       tokenEntryDatas.clear();
       final int indexIndex = index.sortedIndexEntries.size();
       final int startRow = rows.size();
       
-      rows.add(new TokenRow(indexIndex, rows.size(), index, tokenData.hasMainEntry));
+      final TokenRow tokenRow = new TokenRow(indexIndex, rows.size(), index, tokenData.hasMainEntry);
+      rows.add(tokenRow);
+      if (tokenRow.hasMainEntry) {
+        index.mainTokenCount++;
+      }
 //      System.out.println("Added TokenRow: " + rows.get(rows.size() - 1));
       int numRows = 0;
 //      System.out.println("TOKEN: " + tokenData.token);
