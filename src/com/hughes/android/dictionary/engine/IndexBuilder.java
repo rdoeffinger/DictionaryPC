@@ -68,6 +68,7 @@ public class IndexBuilder {
           }
           if (tokenEntryDatas.add(entryData)) {
             rows.add(new PairEntry.Row(entryData.index(), rows.size(), index));
+            ++entryData.entry.entrySource.numEntries;
             ++numRows;
             
 //            System.out.print("  " + typeToEntry.getKey() + ": ");

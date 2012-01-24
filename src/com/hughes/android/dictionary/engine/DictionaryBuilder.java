@@ -42,8 +42,8 @@ public class DictionaryBuilder {
   public final Dictionary dictionary;
   public final List<IndexBuilder> indexBuilders = new ArrayList<IndexBuilder>();
   
-  public DictionaryBuilder(final String dictInfo, final Language lang0, final Language lang1, final String normalizerRules1, final String normalizerRules2, final Set<String> lang1Stoplist, final Set<String> lang2Stoplist) {
-    dictionary = new Dictionary(dictInfo);
+  public DictionaryBuilder(final String dictInfoString, final Language lang0, final Language lang1, final String normalizerRules1, final String normalizerRules2, final Set<String> lang1Stoplist, final Set<String> lang2Stoplist) {
+    dictionary = new Dictionary(dictInfoString);
     indexBuilders.add(new IndexBuilder(this, lang0.getIsoCode(), lang0.getIsoCode() + "->" + lang1.getIsoCode(), lang0, normalizerRules1, lang1Stoplist, false));
     indexBuilders.add(new IndexBuilder(this, lang1.getIsoCode(), lang1.getIsoCode() + "->" + lang0.getIsoCode(), lang1, normalizerRules2, lang2Stoplist, true));
   }
@@ -128,7 +128,7 @@ public class DictionaryBuilder {
           fatalError("Must specify human readable name for: " + prefix + "Name");
         }
 
-        final EntrySource entrySource = new EntrySource(dictionaryBuilder.dictionary.sources.size(), inputName);
+        final EntrySource entrySource = new EntrySource(dictionaryBuilder.dictionary.sources.size(), inputName, 0);
         System.out.println("");
         
         String inputFormat = keyValueArgs.remove(prefix + "Format");

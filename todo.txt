@@ -1,4 +1,6 @@
 For next release:
+help screen
+eng_urdu
 fix up dictionary manager:
   thread that handles unzipping, downloading for the life of the application (so screen changes don't screw it up).
   check over UI.

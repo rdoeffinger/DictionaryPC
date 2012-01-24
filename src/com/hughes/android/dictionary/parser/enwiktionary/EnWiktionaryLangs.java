@@ -65,6 +65,7 @@ public class EnWiktionaryLangs {
     isoCodeToWikiName.put("BO", "Tibetan");
     isoCodeToWikiName.put("TR", "Turkish");
     isoCodeToWikiName.put("UK", "Ukrainian");
+    isoCodeToWikiName.put("UR", "Urdu");
     isoCodeToWikiName.put("VI", "Vietnamese");
     isoCodeToWikiName.put("CI", "Welsh");
     isoCodeToWikiName.put("YI", "Yiddish");

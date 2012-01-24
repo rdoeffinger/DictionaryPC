@@ -16,9 +16,9 @@ echo "Note that unzipping is slow."
 L=en
 echo "Downloading from: http://dumps.wikimedia.org/${L}wiktionary/"
 WIKI=${L}wiktionary-20120109-pages-articles.xml
-curl --remote-name http://dumps.wikimedia.org/${L}wiktionary/20120109/${WIKI}.bz2
-bunzip2 ${WIKI}.bz2
-mv ${WIKI} inputs/${L}wiktionary-pages-articles.xml
+#curl --remote-name http://dumps.wikimedia.org/${L}wiktionary/20120109/${WIKI}.bz2
+#bunzip2 ${WIKI}.bz2
+#mv ${WIKI} inputs/${L}wiktionary-pages-articles.xml
 
 L=fr
 echo "Downloading from: http://dumps.wikimedia.org/${L}wiktionary/"
