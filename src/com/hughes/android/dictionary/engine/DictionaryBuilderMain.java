@@ -63,7 +63,7 @@ public class DictionaryBuilderMain extends TestCase {
     
 //    isoToWikiName.keySet().retainAll(Arrays.asList("UK", "HR", "FI"));
     //isoToWikiName.clear();
-    boolean go = false;
+    boolean go = true;
     for (final String foreignIso : isoToWikiName.keySet()) {
       if (foreignIso.equals("blah")) {
         go = true;
@@ -91,7 +91,7 @@ public class DictionaryBuilderMain extends TestCase {
             String.format("--lang2=%s", foreignIso),
             String.format("--lang1Stoplist=%s", STOPLISTS + isoToStoplist.get("EN")),
             String.format("--lang2Stoplist=%s", STOPLISTS + isoToStoplist.get(foreignIso)),
-            String.format("--dictInfo=(EN)Wikitionary-based EN-%s dictionary.  %s", foreignIso, isoToDedication.get(foreignIso)),
+            String.format("--dictInfo=(EN)Wikitionary-based EN-%s dictionary.\n\n%s", foreignIso, isoToDedication.get(foreignIso)),
 
             "--input2=" + INPUTS + "enWikiSplit/" + foreignIso + ".data",
             "--input2Name=enwiktionary." + foreignIso,

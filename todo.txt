@@ -1,17 +1,18 @@
 For next release:
+fix \n in info
 help screen
+about dict dialog
+history dialog
+num words in UI.
 eng_urdu
 fix up dictionary manager:
   thread that handles unzipping, downloading for the life of the application (so screen changes don't screw it up).
   check over UI.
-parse dictionary_info file in client to show default dictionaries.
-new dictionary version: with links!
 check arabic UI fix
 handle examples like "asdf (asdf)"
 random word jump
 multiword find.
 italian verbs... (show conjugation, pulled from a linked place....--would lower size a lot!)
-black/blue background title rows, gray side pane for other language side
 better example splitting
 ! enter should hide keyboard
 
@@ -20,6 +21,22 @@ Handle other sections:
   Synonyms
   Usage notes.
   Chinese: handle "Compounds" section
+
+* multi word search
+* link to leo, dict.cc
+* source in context menu
+* quiz
+* colorize things
+
+
+done:
+* sorting of entries
+* better Row/Entry classes?
+* wiktionary
+* better tokenization?
+* publish 2.0 dictionary
+* test email
+* dict manager
 
 flashcards
 move dict to top of list when downloaded
@@ -73,3 +90,6 @@ font size
 refactor wiki parsing.
 {{Arab}}
 "form of" to bottom
+new dictionary version: with links!
+parse dictionary_info file in client to show default dictionaries.
+black/blue background title rows, gray side pane for other language side

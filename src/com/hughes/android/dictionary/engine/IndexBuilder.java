@@ -118,7 +118,7 @@ public class IndexBuilder {
   private List<IndexedEntry> getOrCreateEntries(final String token, final EntryTypeName entryTypeName) {
     final TokenData tokenData = getOrCreateTokenData(token);
     List<IndexedEntry> entries = tokenData.typeToEntries.get(entryTypeName);
-    if (entryTypeName.overridesStopList) {
+    if (entryTypeName.mainWord) {
       tokenData.hasMainEntry = true;
     }
     if (entries == null) {

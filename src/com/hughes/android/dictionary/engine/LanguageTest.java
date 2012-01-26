@@ -21,6 +21,7 @@ import java.util.List;
 
 import junit.framework.TestCase;
 
+import com.hughes.android.dictionary.parser.enwiktionary.EnWiktionaryLangs;
 import com.ibm.icu.text.Transliterator;
 
 public class LanguageTest extends TestCase {
@@ -160,6 +161,10 @@ public class LanguageTest extends TestCase {
     assertEquals("kmbywtr", transliterator.transliterate("كمبيوتر"));
 
     assertEquals("{\u200eكمبيوتر\u200e}", Language.fixBidiText("{كمبيوتر}"));
+  }
+
+  public void testEnWiktionaryNames() {
+    assertEquals(EnWiktionaryLangs.isoCodeToWikiName.keySet(), Language.isoCodeToResourceId.keySet());
   }
 
 }

@@ -16,18 +16,20 @@ package com.hughes.android.dictionary.engine;
 
 import java.io.IOException;
 import java.io.RandomAccessFile;
+import java.util.Arrays;
+import java.util.List;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 import junit.framework.TestCase;
 
 import com.hughes.android.dictionary.engine.Index.IndexEntry;
-import com.hughes.util.ListUtil;
+import com.hughes.util.CollectionUtil;
 
 
 public class DictionaryTest extends TestCase {
   
   static final String TEST_OUTPUTS = com.hughes.android.dictionary.engine.DictionaryBuilderTest.TEST_OUTPUTS;
-  public static final String OUTPUTS = "../DictionaryData/outputs/";
+  public static final String OUTPUTS = "data/outputs/";
 
   @Override
   protected void setUp() {
@@ -46,7 +48,7 @@ public class DictionaryTest extends TestCase {
     final Index enIndex = dict.indices.get(0);
     
     final RowBase row = enIndex.rows.get(4);
-    assertEquals("eagle (A gold coin with a face value of $10.00) (noun)\tmoneta di dieci dollari", row.getRawText(false));
+    assertEquals("The numeral 00\tzeranta (noun) {m|f|inv}", row.getRawText(false));
 
     raf.close();
   }
@@ -56,15 +58,15 @@ public class DictionaryTest extends TestCase {
     final Dictionary dict = new Dictionary(raf);
     final Index deIndex = dict.indices.get(0);
     
-    assertEquals("de", deIndex.shortName);
-    assertEquals("de->en", deIndex.longName);
+    assertEquals("DE", deIndex.shortName);
+    assertEquals("DE->EN", deIndex.longName);
     
     assertEquals(2, dict.sources.size());
     assertEquals("chemnitz", dict.sources.get(0).name);
     assertEquals("dictcc", dict.sources.get(1).name);
     
-    assertEquals("chemnitz", dict.pairEntries.get(0).entrySource.name);
-    assertEquals("dictcc", ListUtil.getLast(dict.pairEntries).entrySource.name);
+    assertEquals("dictcc", dict.pairEntries.get(0).entrySource.name);
+    assertEquals("chemnitz", dict.pairEntries.get(1).entrySource.name);
     
     raf.close();
   }
@@ -151,7 +153,7 @@ public class DictionaryTest extends TestCase {
   }
   
   public void testChemnitz() throws IOException {
-    final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "/de-en_chemnitz.quickdic", "r");
+    final RandomAccessFile raf = new RandomAccessFile(TEST_OUTPUTS + "de-en.quickdic", "r");
     final Dictionary dict = new Dictionary(raf);
     final Index deIndex = dict.indices.get(0);
     
@@ -161,5 +163,32 @@ public class DictionaryTest extends TestCase {
     raf.close();
   }
 
+  public void testMultiSearch() throws IOException {
+    final RandomAccessFile raf = new RandomAccessFile(TEST_OUTPUTS + "de-en.quickdic", "r");
+    final Dictionary dict = new Dictionary(raf);
+    final Index deIndex = dict.indices.get(0);
+
+    {
+    final List<RowBase> rows = deIndex.multiWordSearch(Arrays.asList("aaa", "aaab"), new AtomicBoolean(false));
+    System.out.println(CollectionUtil.join(rows, "\n  "));
+    assertTrue(rows.toString(), rows.size() > 0);
+    }
+    
+    raf.close();
+  }
+
+  public void testMultiSearchBig() throws IOException {
+    final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "EN-IT_enwiktionary.quickdic", "r");
+    final Dictionary dict = new Dictionary(raf);
+    final Index enIndex = dict.indices.get(0);
+
+    {
+    final List<RowBase> rows = enIndex.multiWordSearch(Arrays.asList("space", "station"), new AtomicBoolean(false));
+    System.out.println(CollectionUtil.join(rows, "\n  "));
+    assertTrue(rows.toString(), rows.size() > 0);
+    }
+    
+    raf.close();
+  }
 
 }

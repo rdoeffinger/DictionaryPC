@@ -36,7 +36,9 @@ public class CheckDictionariesMain {
       dictionaryInfo.uncompressedFilename = dictFile.getName();
       dictionaryInfo.downloadUrl = BASE_URL + dictFile.getName() + "." + VERSION_CODE + ".zip";
       // TODO: zip it right here....
-      dictionaryInfo.uncompressedSize = dictFile.length();
+      dictionaryInfo.uncompressedBytes = dictFile.length();
+      final File zipFile = new File(dictFile.getPath() + ".zip");
+      dictionaryInfo.zipBytes = zipFile.canRead() ? zipFile.length() : -1;
 
       // Print it.
 //      final PrintWriter textOut = new PrintWriter(new File(dictFile + ".text"));

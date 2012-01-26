@@ -3,6 +3,8 @@ package com.hughes.android.dictionary.parser.enwiktionary;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
+import com.hughes.android.dictionary.engine.Language;
+
 public class EnWiktionaryLangs {
   
   public static final Map<String,String> isoCodeToWikiName = new LinkedHashMap<String,String>();
@@ -60,6 +62,7 @@ public class EnWiktionaryLangs {
     isoCodeToWikiName.put("ES", "Spanish");
     isoCodeToWikiName.put("SW", "Swahili");
     isoCodeToWikiName.put("SV", "Swedish");
+    isoCodeToWikiName.put("TL", "Tagalog");
     isoCodeToWikiName.put("TG", "Tajik");
     isoCodeToWikiName.put("TH", "Thai");
     isoCodeToWikiName.put("BO", "Tibetan");
@@ -71,5 +74,6 @@ public class EnWiktionaryLangs {
     isoCodeToWikiName.put("YI", "Yiddish");
     isoCodeToWikiName.put("ZU", "Zulu");
   }
+
 
 }

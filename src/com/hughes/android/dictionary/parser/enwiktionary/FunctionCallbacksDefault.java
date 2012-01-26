@@ -20,6 +20,7 @@ import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
+import java.util.concurrent.atomic.AtomicInteger;
 import java.util.logging.Logger;
 
 import com.hughes.android.dictionary.engine.EntryTypeName;
@@ -160,6 +161,10 @@ public final class FunctionCallbacksDefault {
         return false;
       }
       final String langCode = ListUtil.get(args, 0);
+      if (!appendAndIndexWikiCallback.langCodeToTCount.containsKey(langCode)) {
+        appendAndIndexWikiCallback.langCodeToTCount.put(langCode, new AtomicInteger());
+      }
+      appendAndIndexWikiCallback.langCodeToTCount.get(langCode).incrementAndGet();
       final String word = ListUtil.get(args, 1);
       final String gender = ListUtil.get(args, 2);
       // TODO: deal with second (and third...) gender, and alt.

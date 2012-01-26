@@ -89,6 +89,7 @@ public class EnWiktionaryXmlParser {
     this.entrySource = entrySource;
     int pageCount = 0;
     final DataInputStream dis = new DataInputStream(new BufferedInputStream(new FileInputStream(file)));
+    try {
     while (true) {
       if (pageLimit >= 0 && pageCount >= pageLimit) {
         return;
@@ -113,6 +114,11 @@ public class EnWiktionaryXmlParser {
       if (pageCount % 1000 == 0) {
         LOG.info("pageCount=" + pageCount);
       }
+    }
+    } finally {
+      System.out.println("lang Counts: " + appendAndIndexWikiCallback.langCodeToTCount);
+      appendAndIndexWikiCallback.langCodeToTCount.keySet().removeAll(EnWiktionaryLangs.isoCodeToWikiName.keySet());
+      System.out.println("unused Counts: " + appendAndIndexWikiCallback.langCodeToTCount);
     }
   }
   

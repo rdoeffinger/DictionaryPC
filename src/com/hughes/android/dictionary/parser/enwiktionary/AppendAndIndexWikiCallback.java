@@ -17,6 +17,7 @@ package com.hughes.android.dictionary.parser.enwiktionary;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.concurrent.atomic.AtomicInteger;
 
 import com.hughes.android.dictionary.engine.EntryTypeName;
 import com.hughes.android.dictionary.engine.IndexBuilder;
@@ -34,6 +35,8 @@ final class AppendAndIndexWikiCallback implements WikiTokenizer.Callback {
   
   boolean entryTypeNameSticks = false;
   EntryTypeName entryTypeName = null;
+  
+  final Map<String,AtomicInteger> langCodeToTCount = new LinkedHashMap<String, AtomicInteger>();
   
   public AppendAndIndexWikiCallback(final EnWiktionaryXmlParser parser) {
     this.parser = parser;
