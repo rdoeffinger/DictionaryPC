@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.german 5303
+EntrySource: enwiktionary.german 5342
 
 Index: DE DE->EN
 ===001===
@@ -6097,6 +6097,10 @@ Index: EN EN->DE
     1787 CE: Johann Wolfgang von Goethe, Egmont :: --
     Und konnte ich fürchten, daß diese unglückliche Liebe das kluge Klärchen so bald hinreißen würde? Ich muß es nun tragen, daß meine Tochter-- :: --
     And could I imagine, that this unhappy love would so soon carry away the prudent little Klara? I must endure it now, that my daughter-- :: --
+===female===
+  Ärztin {{de-noun|g=f|plural=Ärztinnen}} :: female doctor or physician.
+  Freundin {{de-noun|g=f|plural=Freundinnen}} :: a female friend
+  Bache {{de-noun|g=f|plural=Bachen}} :: A wild sow; female wild boar. Generic term is Wildschwein.
 ===feminine===
   ne :: {colloquial} shorthand of the feminine indefinite article eine (“an; a”)
     Möchtest du ne Flasche Bier? :: “Would you like a bottle of beer?”
@@ -6106,6 +6110,8 @@ Index: EN EN->DE
   englische :: accusative singular feminine and neuter form of englisch (English) used after the definite article.
   englische :: accusative singular feminine form of englisch (English) used after the indefinite article.
   Claudia (proper noun) :: {{given name|female}} from the Latin feminine form of Claudius; quite popular from the 1960s to the 1980s.
+===Feminine===
+  meine {f/pl} (pronoun form) :: {possessive} Feminine nominative and accusative singular form of mein.
 ===ferment===
   arbeiten {de-verb} :: {intransitive} to ferment
 ===fermented===
@@ -6204,6 +6210,50 @@ Index: EN EN->DE
   (Old High German) wat {{goh-noun|g=n}} :: ford
 ===fork===
   Gabel {{de-noun|g=f|plural=Gabeln}} :: fork
+===form===
+  biegen {de-verb} :: {{transitive|auxiliary: “haben”}} to bend; to form (something) into a curve.
+  (Low German) was (verb form) :: wash; apocoped form of wasse, singular imperative of wassen; mainly used in the Netherlands, equivalent to other dialekts' wasche/waske
+  (Low German) was (verb form) :: wax; apocoped form of wasse, singular imperative of wassen
+  (Low German) was (verb form) :: grow; apocoped form of wasse, singular imperative of wassen
+  deutscher {m} (adjective form) :: male form of deutsch
+    ein deutscher Wein :: --
+  (Middle Low German) sîn (pronoun) :: {possessive} his; possessive form of he
+  (Middle Low German) sîn (pronoun) :: of his; genitive form of he
+    lohant ret her Zeno hen na Verona to dem vader sin. :: --
+    John rode Sir Zeno to Verona, to the father of his. :: --
+  (Middle Low German) sîn (pronoun) :: sometimes used to form the genitive
+    Deme könnink sin land, dat is: des könninges land. :: --
+    The king his land, that is: the king's land. :: --
+  (Middle Low German) sîn (pronoun) :: {possessive} its; possessive form of it
+  (Middle Low German) sîn (pronoun) :: of it; genitive form of it
+  deutsche (adjective form) :: form of deutsch after a definite article
+    die deutsche Sprache; der deutsche Bundespräsident; das deutsche Gesundheitssystem :: --
+  meine {f/pl} (pronoun form) :: {possessive} Feminine nominative and accusative singular form of mein.
+  meine {f/pl} (pronoun form) :: {possessive} Nominative and accusative plural form of mein.
+  meine (verb form) :: First-person singular indicative present form of meinen.
+  meine (verb form) :: First-person singular subjunctive present form of meinen.
+  meine (verb form) :: Third-person singular subjunctive present form of meinen.
+  meine (verb form) :: Second-person singular imperative form of meinen.
+  grub (verb form) :: singular past imperfect form of graben
+  esse (verb form) :: First-person singular indicative present form of essen.
+  esse (verb form) :: First-person singular subjunctive present form of essen.
+  esse (verb form) :: Third-person singular subjunctive present form of essen.
+  -er (suffix) :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
+    arbeiten 'to work'; (ich) arbeit(<u>e</u>) + -er '-er' -> Arbeiter 'worker' :: --
+  englische :: nominative singular form of englisch (English) used after the definite article.
+  englische :: nominative singular feminine form of englisch (English) used after the indefinite article.
+  englische :: accusative singular feminine and neuter form of englisch (English) used after the definite article.
+  englische :: accusative singular feminine form of englisch (English) used after the indefinite article.
+  ward (verb form) :: {archaic} First-person singular indicative past form of werden.
+  ward (verb form) :: {archaic} Third-person singular indicative past form of werden.
+    Und Gott sprach: »Es werde Licht!« Und es ward Licht. [http://www.bibledbdata.org/onlinebibles/german_l/01_001.htm] :: And God said: "Let there be light." And there was light.
+  sorg :: imperative singular form of sorgen (‘to worry’, ‘to care’)
+  Claudia (proper noun) :: {{given name|female}} from the Latin feminine form of Claudius; quite popular from the 1960s to the 1980s.
+  junges (adjective form) :: Neuter form of jung.
+  Adam (proper noun) :: {{given name|male}}. Pet form: Adi
+  jeden :: each (masculine accusative singular form of jeder)
+  jeden :: each (a masculine genitive singular form of jeder)
+  jeden :: each (a neuter genitive singular form of jeder)
 ===formal===
   sie (pl.) :: {personal} you, used to refer to any number of persons in formal conversations
 ===former===

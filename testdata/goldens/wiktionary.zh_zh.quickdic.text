@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.chinese 628
+EntrySource: enwiktionary.chinese 631
 
 Index: ZH ZH->EN
 ===3===
@@ -1199,6 +1199,9 @@ Index: EN EN->ZH
   五 {{cmn-car-num|ts|pin=wǔ|pint=wu3|rs=二02}} :: five
 ===fond===
   愛 {{cmn-verb|t|pin=ài|pint=ai4|tra=愛|sim=爱|rs=心09}} :: {{Beginning Mandarin|script=traditional|skey=心09}} to love; to be fond of
+===form===
+  书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: form of a written or printed character;script
+  円 (yuán) :: archaic form of 圆
 ===four===
   四 {{cmn-car-num|ts|pin=sì|pint=si4|rs=囗02}} :: four
 ===fourth===
@@ -1338,6 +1341,8 @@ Index: EN EN->ZH
   安心 {{cmn-verb|ts|pin=ānxīn|pint=an1xin1|rs=宀03}} :: {{Elementary Mandarin|skey=宀03}} to keep one's mind on something
 ===Kyōto===
   京都 {{cmn-proper noun|ts|pin=Jīngdū|pint=jing1du1|rs=亠06}} :: Kyōto
+===la===
+  四 {{cmn-noun|ts|pin=sì|pint=si4|rs=囗02}} :: (musical note) la
 ===language===
   文 {{cmn-noun|ts|pin=wén|pint=wen2|rs=文00}} :: language, culture
   中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese spoken language 普通话/Pǔtōnghuà/Standard Mandarin.

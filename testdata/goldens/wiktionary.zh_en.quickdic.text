@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.english 4579
+EntrySource: enwiktionary.english 4601
 
 Index: ZH ZH->EN
 ===1===
@@ -35,7 +35,7 @@ Index: ZH ZH->EN
 ***愛德華***
   愛德華 (Aidéhuá) :: Edward (male given name) (proper noun)
 ===also===
-  在 (zài), 里 (...lǐ) (traditional also: 裡, 裏) :: in (contained by) (preposition)
+  在 (zài), ...里 (...lǐ) (里) (traditional also: 裡, 裏) :: in (contained by) (preposition)
 ===àn===
   弄暗 (nòng'àn) :: obfuscate (make dark) (verb)
   港 (gǎng), 港口 (gǎngkǒu), 口岸 (kǒu'àn), 港埠 (gǎngbù) :: port (dock or harbour) (noun)
@@ -466,15 +466,15 @@ Index: ZH ZH->EN
 ===大象===
   象 (xiàng), 大象 (dàxiàng) :: elephant (mammal) (noun)
 ===Dé===
-  德國, 德国 (Déguó), 德 (Dé-) :: German (of or relating to the country of Germany) (adjective)
+  德國, 德国 (Déguó), 德- (Dé-) (德) :: German (of or relating to the country of Germany) (adjective)
 ===de===
-  上述 (shàngshù de) :: above-mentioned (mentioned or named before; aforesaid) (adjective)
-  亞伯拉罕, 亚伯拉罕 (Yàbólāhǎn de) :: Abrahamic (pertaining to Abraham) (adjective)
+  上述的 (shàngshù de) (上述) :: above-mentioned (mentioned or named before; aforesaid) (adjective)
+  亞伯拉罕的 (亞伯拉罕), 亚伯拉罕的 (Yàbólāhǎn de) (亚伯拉罕) :: Abrahamic (pertaining to Abraham) (adjective)
   波蘭的, 波兰的 (Bōlán de) :: Polish (of Poland or its language) (adjective)
   (measure words are used), (adjectives with) 的 (de) :: one (impersonal pronoun) (pronoun)
-  假 (jiǎ de-), 虛擬, 虚拟 (xūnǐ de-) :: pseudo- (not genuine) (prefix)
-  荷蘭, 荷兰 (Hélán-de) :: Dutch (of the Netherlands, people, or language) (adjective)
-  荷蘭, 荷兰 (Hélán de) :: Netherlands (pertaining to the Netherlands) (adjective)
+  假的- (jiǎ de-) (假), 虛擬的- (虛擬), 虚拟的- (xūnǐ de-) (虚拟) :: pseudo- (not genuine) (prefix)
+  荷蘭的 (荷蘭), 荷兰的 (Hélán-de) (荷兰) :: Dutch (of the Netherlands, people, or language) (adjective)
+  荷蘭的 (荷蘭), 荷兰的 (Hélán de) (荷兰) :: Netherlands (pertaining to the Netherlands) (adjective)
   自由的, 自由的 (zìyóu de) :: free (not imprisoned) (adjective)
   免費的, 免费的 (miǎnfèi de) :: free (obtainable without payment) (adjective)
   自由的, 自由的 (zìyóu de) :: free (unconstrained) (adjective)
@@ -487,7 +487,7 @@ Index: ZH ZH->EN
   (Simplified) 英格兰的 (Yīnggélán de) :: English (of or pertaining to England) (adjective)
   可接受的 (kě jiēshòu de) :: acceptable (capable, worthy or sure of being accepted) (adjective)
 ***德***
-  德國, 德国 (Déguó), 德 (Dé-) :: German (of or relating to the country of Germany) (adjective)
+  德國, 德国 (Déguó), 德- (Dé-) (德) :: German (of or relating to the country of Germany) (adjective)
 ===的===
   把某東西看作是無價值的, 把某东西看作是无价值的 (bǎ mǒu dōngxi kànzuò shì wú jiàzhí de) :: floccinaucinihilipilification (act or habit of describing or regarding something as unimportant) (noun)
   (Simplified) 英语的 (Yīngyǔ de), 英文的 (Yīngwén de) :: English (of or pertaining to the English language) (adjective)
@@ -503,11 +503,11 @@ Index: ZH ZH->EN
   (Traditional) 英格蘭的 :: English (of or pertaining to England) (adjective)
   (measure words are used), (adjectives with) 的 (de) :: one (impersonal pronoun) (pronoun)
 ===Déguó===
-  德國, 德国 (Déguó), 德 (Dé-) :: German (of or relating to the country of Germany) (adjective)
+  德國, 德国 (Déguó), 德- (Dé-) (德) :: German (of or relating to the country of Germany) (adjective)
 ***德国***
-  德國, 德国 (Déguó), 德 (Dé-) :: German (of or relating to the country of Germany) (adjective)
+  德國, 德国 (Déguó), 德- (Dé-) (德) :: German (of or relating to the country of Germany) (adjective)
 ***德國***
-  德國, 德国 (Déguó), 德 (Dé-) :: German (of or relating to the country of Germany) (adjective)
+  德國, 德国 (Déguó), 德- (Dé-) (德) :: German (of or relating to the country of Germany) (adjective)
 ===Déguórén===
   德國人, 德国人 (Déguórén) :: German (German person) (noun)
 ***德国人***
@@ -1028,19 +1028,25 @@ Index: ZH ZH->EN
 ***黑鬼***
   黑鬼 (hēiguǐ) :: nigger (negro person) (noun)
 ===Hélán===
-  荷蘭, 荷兰 (Hélán-de) :: Dutch (of the Netherlands, people, or language) (adjective)
+  荷蘭的 (荷蘭), 荷兰的 (Hélán-de) (荷兰) :: Dutch (of the Netherlands, people, or language) (adjective)
   荷蘭語, 荷兰语 (Hélán-yǔ) :: Dutch (the Dutch language) (proper noun)
   荷蘭人, 荷兰人 (Hélán-rén) :: Dutch (people from the Netherlands) (proper noun)
   荷蘭, 荷兰 (Hélán) :: Netherlands (country in northwestern Europe) (proper noun)
-  荷蘭, 荷兰 (Hélán de) :: Netherlands (pertaining to the Netherlands) (adjective)
+  荷蘭的 (荷蘭), 荷兰的 (Hélán de) (荷兰) :: Netherlands (pertaining to the Netherlands) (adjective)
 ***荷兰***
-  荷蘭, 荷兰 (Hélán-de) :: Dutch (of the Netherlands, people, or language) (adjective)
+  荷蘭的 (荷蘭), 荷兰的 (Hélán-de) (荷兰) :: Dutch (of the Netherlands, people, or language) (adjective)
   荷蘭, 荷兰 (Hélán) :: Netherlands (country in northwestern Europe) (proper noun)
-  荷蘭, 荷兰 (Hélán de) :: Netherlands (pertaining to the Netherlands) (adjective)
+  荷蘭的 (荷蘭), 荷兰的 (Hélán de) (荷兰) :: Netherlands (pertaining to the Netherlands) (adjective)
 ***荷蘭***
-  荷蘭, 荷兰 (Hélán-de) :: Dutch (of the Netherlands, people, or language) (adjective)
+  荷蘭的 (荷蘭), 荷兰的 (Hélán-de) (荷兰) :: Dutch (of the Netherlands, people, or language) (adjective)
   荷蘭, 荷兰 (Hélán) :: Netherlands (country in northwestern Europe) (proper noun)
-  荷蘭, 荷兰 (Hélán de) :: Netherlands (pertaining to the Netherlands) (adjective)
+  荷蘭的 (荷蘭), 荷兰的 (Hélán de) (荷兰) :: Netherlands (pertaining to the Netherlands) (adjective)
+***荷兰的***
+  荷蘭的 (荷蘭), 荷兰的 (Hélán-de) (荷兰) :: Dutch (of the Netherlands, people, or language) (adjective)
+  荷蘭的 (荷蘭), 荷兰的 (Hélán de) (荷兰) :: Netherlands (pertaining to the Netherlands) (adjective)
+***荷蘭的***
+  荷蘭的 (荷蘭), 荷兰的 (Hélán-de) (荷兰) :: Dutch (of the Netherlands, people, or language) (adjective)
+  荷蘭的 (荷蘭), 荷兰的 (Hélán de) (荷兰) :: Netherlands (pertaining to the Netherlands) (adjective)
 ***荷兰人***
   荷蘭人, 荷兰人 (Hélán-rén) :: Dutch (people from the Netherlands) (proper noun)
 ***荷蘭人***
@@ -1194,9 +1200,11 @@ Index: ZH ZH->EN
   (Cantonese) 主席 (zyu2 zik6) 議長 (ji5 zoeng2) :: chairman (person presiding over a meeting) (noun)
 ===jiǎ===
   偽友, 伪友 (wěi yǒu), 假友 (jiǎ yǒu), 假等義, 假等义 (jiǎ děngyì) :: false friend (false friend) (noun)
-  假 (jiǎ de-), 虛擬, 虚拟 (xūnǐ de-) :: pseudo- (not genuine) (prefix)
+  假的- (jiǎ de-) (假), 虛擬的- (虛擬), 虚拟的- (xūnǐ de-) (虚拟) :: pseudo- (not genuine) (prefix)
 ***假***
-  假 (jiǎ de-), 虛擬, 虚拟 (xūnǐ de-) :: pseudo- (not genuine) (prefix)
+  假的- (jiǎ de-) (假), 虛擬的- (虛擬), 虚拟的- (xūnǐ de-) (虚拟) :: pseudo- (not genuine) (prefix)
+***假的***
+  假的- (jiǎ de-) (假), 虛擬的- (虛擬), 虚拟的- (xūnǐ de-) (虚拟) :: pseudo- (not genuine) (prefix)
 ***假等义***
   偽友, 伪友 (wěi yǒu), 假友 (jiǎ yǒu), 假等義, 假等义 (jiǎ děngyì) :: false friend (false friend) (noun)
 ***假等義***
@@ -1575,21 +1583,21 @@ Index: ZH ZH->EN
 ===leng5===
   (Teochew) kang3, leng5 :: zero (cardinal number before 1, denoting nothing) (cardinal number)
 ===lǐ===
-  在 (zài), 里 (...lǐ) (traditional also: 裡, 裏) :: in (contained by) (preposition)
+  在 (zài), ...里 (...lǐ) (里) (traditional also: 裡, 裏) :: in (contained by) (preposition)
 ===lì===
   日曆, 日历 (rìlì), 曆 (lì), 历 (lì), 曆法, 历法 (lìfǎ), (colloquial) 月份牌 (yuèfènpái) :: calendar (system by which time is divided) (noun)
 ===li===
   (Min Nan) 日頭 (ji̍t-thâu, li̍t-thâu) :: sun (the star around which the Earth revolves) (proper noun)
 ***里***
-  在 (zài), 里 (...lǐ) (traditional also: 裡, 裏) :: in (contained by) (preposition)
+  在 (zài), ...里 (...lǐ) (里) (traditional also: 裡, 裏) :: in (contained by) (preposition)
 ***裏***
-  在 (zài), 里 (...lǐ) (traditional also: 裡, 裏) :: in (contained by) (preposition)
+  在 (zài), ...里 (...lǐ) (里) (traditional also: 裡, 裏) :: in (contained by) (preposition)
 ***历***
   日曆, 日历 (rìlì), 曆 (lì), 历 (lì), 曆法, 历法 (lìfǎ), (colloquial) 月份牌 (yuèfènpái) :: calendar (system by which time is divided) (noun)
 ***曆***
   日曆, 日历 (rìlì), 曆 (lì), 历 (lì), 曆法, 历法 (lìfǎ), (colloquial) 月份牌 (yuèfènpái) :: calendar (system by which time is divided) (noun)
 ***裡***
-  在 (zài), 里 (...lǐ) (traditional also: 裡, 裏) :: in (contained by) (preposition)
+  在 (zài), ...里 (...lǐ) (里) (traditional also: 裡, 裏) :: in (contained by) (preposition)
 ===lia===
   (Wu) 二 (lia) :: two (one plus one) (cardinal number)
 ===liǎng===
@@ -2362,10 +2370,10 @@ Index: ZH ZH->EN
 ===shàng===
   (board a car, train) 上車, 上车 (shàngchē), (boat, ship) 上船 (shàngchuán), (aeroplane) 上飛機, 上飞机 (shàng fēijī) :: aboard (on board) (adverb)
   (board a car, train) 上車, 上车 (shàngchē), (boat, ship) 上船 (shàngchuán), (aeroplane) 上飛機, 上飞机 (shàng fēijī) :: aboard (on board of) (preposition)
-  上 (...shàng) :: on (positioned at the upper surface of) (preposition)
+  ...上 (...shàng) (上) :: on (positioned at the upper surface of) (preposition)
   填色 (tián sè), 上色 (shàng sè), 著色 (zhuó sè) :: color (give something color) (verb)
 ***上***
-  上 (...shàng) :: on (positioned at the upper surface of) (preposition)
+  ...上 (...shàng) (上) :: on (positioned at the upper surface of) (preposition)
 ===shàngchē===
   (board a car, train) 上車, 上车 (shàngchē), (boat, ship) 上船 (shàngchuán), (aeroplane) 上飛機, 上飞机 (shàng fēijī) :: aboard (on board) (adverb)
   (board a car, train) 上車, 上车 (shàngchē), (boat, ship) 上船 (shàngchuán), (aeroplane) 上飛機, 上飞机 (shàng fēijī) :: aboard (on board of) (preposition)
@@ -2388,15 +2396,17 @@ Index: ZH ZH->EN
   (board a car, train) 上車, 上车 (shàngchē), (boat, ship) 上船 (shàngchuán), (aeroplane) 上飛機, 上飞机 (shàng fēijī) :: aboard (on board) (adverb)
   (board a car, train) 上車, 上车 (shàngchē), (boat, ship) 上船 (shàngchuán), (aeroplane) 上飛機, 上飞机 (shàng fēijī) :: aboard (on board of) (preposition)
 ===shàngmiàn===
-  上面 (zài...shàngmiàn) :: above (in or to a higher place) (preposition)
+  在...上面 (zài...shàngmiàn) (上面) :: above (in or to a higher place) (preposition)
 ***上面***
-  上面 (zài...shàngmiàn) :: above (in or to a higher place) (preposition)
+  在...上面 (zài...shàngmiàn) (上面) :: above (in or to a higher place) (preposition)
 ===上色===
   填色 (tián sè), 上色 (shàng sè), 著色 (zhuó sè) :: color (give something color) (verb)
 ===shàngshù===
-  上述 (shàngshù de) :: above-mentioned (mentioned or named before; aforesaid) (adjective)
+  上述的 (shàngshù de) (上述) :: above-mentioned (mentioned or named before; aforesaid) (adjective)
 ***上述***
-  上述 (shàngshù de) :: above-mentioned (mentioned or named before; aforesaid) (adjective)
+  上述的 (shàngshù de) (上述) :: above-mentioned (mentioned or named before; aforesaid) (adjective)
+***上述的***
+  上述的 (shàngshù de) (上述) :: above-mentioned (mentioned or named before; aforesaid) (adjective)
 ===shāngyè===
   貿易, 贸易 (màoyì), 商業, 商业 (shāngyè) :: trade (business) (noun)
 ***商业***
@@ -2866,7 +2876,7 @@ Index: ZH ZH->EN
 ***骰子***
   骰子 (tóuzi), 色子 (shǎizi) :: die (polyhedron used in games of chance) (noun)
 ===traditional===
-  在 (zài), 里 (...lǐ) (traditional also: 裡, 裏) :: in (contained by) (preposition)
+  在 (zài), ...里 (...lǐ) (里) (traditional also: 裡, 裏) :: in (contained by) (preposition)
 ===tshiu===
   (Xiang) 七 (tshiu) :: seven (cardinal number 7) (cardinal number)
 ===tuìchū===
@@ -3228,18 +3238,26 @@ Index: ZH ZH->EN
 ***鱈魚***
   鱈魚, 鳕鱼 (xuěyú) :: cod (marine fish of the family Gadidae) (noun)
 ===xūnǐ===
-  假 (jiǎ de-), 虛擬, 虚拟 (xūnǐ de-) :: pseudo- (not genuine) (prefix)
+  假的- (jiǎ de-) (假), 虛擬的- (虛擬), 虚拟的- (xūnǐ de-) (虚拟) :: pseudo- (not genuine) (prefix)
 ***虚拟***
-  假 (jiǎ de-), 虛擬, 虚拟 (xūnǐ de-) :: pseudo- (not genuine) (prefix)
+  假的- (jiǎ de-) (假), 虛擬的- (虛擬), 虚拟的- (xūnǐ de-) (虚拟) :: pseudo- (not genuine) (prefix)
 ***虛擬***
-  假 (jiǎ de-), 虛擬, 虚拟 (xūnǐ de-) :: pseudo- (not genuine) (prefix)
+  假的- (jiǎ de-) (假), 虛擬的- (虛擬), 虚拟的- (xūnǐ de-) (虚拟) :: pseudo- (not genuine) (prefix)
+***虚拟的***
+  假的- (jiǎ de-) (假), 虛擬的- (虛擬), 虚拟的- (xūnǐ de-) (虚拟) :: pseudo- (not genuine) (prefix)
+***虛擬的***
+  假的- (jiǎ de-) (假), 虛擬的- (虛擬), 虚拟的- (xūnǐ de-) (虚拟) :: pseudo- (not genuine) (prefix)
 ===Yàbólāhǎn===
-  亞伯拉罕, 亚伯拉罕 (Yàbólāhǎn de) :: Abrahamic (pertaining to Abraham) (adjective)
+  亞伯拉罕的 (亞伯拉罕), 亚伯拉罕的 (Yàbólāhǎn de) (亚伯拉罕) :: Abrahamic (pertaining to Abraham) (adjective)
   亞伯拉罕諸教, 亚伯拉罕诸教 (Yàbólāhǎn zhūjiào), 亞伯拉罕宗教, 亚伯拉罕宗教 (Yàbólāhǎn zōngjiào) :: Abrahamic (pertaining to Abrahamic religions) (adjective)
 ***亚伯拉罕***
-  亞伯拉罕, 亚伯拉罕 (Yàbólāhǎn de) :: Abrahamic (pertaining to Abraham) (adjective)
+  亞伯拉罕的 (亞伯拉罕), 亚伯拉罕的 (Yàbólāhǎn de) (亚伯拉罕) :: Abrahamic (pertaining to Abraham) (adjective)
 ***亞伯拉罕***
-  亞伯拉罕, 亚伯拉罕 (Yàbólāhǎn de) :: Abrahamic (pertaining to Abraham) (adjective)
+  亞伯拉罕的 (亞伯拉罕), 亚伯拉罕的 (Yàbólāhǎn de) (亚伯拉罕) :: Abrahamic (pertaining to Abraham) (adjective)
+***亚伯拉罕的***
+  亞伯拉罕的 (亞伯拉罕), 亚伯拉罕的 (Yàbólāhǎn de) (亚伯拉罕) :: Abrahamic (pertaining to Abraham) (adjective)
+***亞伯拉罕的***
+  亞伯拉罕的 (亞伯拉罕), 亚伯拉罕的 (Yàbólāhǎn de) (亚伯拉罕) :: Abrahamic (pertaining to Abraham) (adjective)
 ***亚伯拉罕诸教***
   亞伯拉罕諸教, 亚伯拉罕诸教 (Yàbólāhǎn zhūjiào), 亞伯拉罕宗教, 亚伯拉罕宗教 (Yàbólāhǎn zōngjiào) :: Abrahamic (pertaining to Abrahamic religions) (adjective)
 ***亞伯拉罕諸教***
@@ -3603,18 +3621,19 @@ Index: ZH ZH->EN
 ===zab8===
   (Teochew) zab8 :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
 ===zài===
-  上面 (zài...shàngmiàn) :: above (in or to a higher place) (preposition)
-  在 (zài), 里 (...lǐ) (traditional also: 裡, 裏) :: in (contained by) (preposition)
+  在...上面 (zài...shàngmiàn) (上面) :: above (in or to a higher place) (preposition)
+  在 (zài), ...里 (...lǐ) (里) (traditional also: 裡, 裏) :: in (contained by) (preposition)
   在 (zài) :: be (occupy a place) (verb)
   在 (zài), 有 (yǒu) :: be (occur, take place) (verb)
   是 (shì), 有 (yǒu), 在 (zài), 來, 来 (lái) :: be (elliptical form of "be here", or similar) (verb)
   在 (zài), 正在 (zhèngzài); verb + 著 / 着 (zhe) :: be (used to form the continuous forms of various tenses) (verb)
 ***在***
-  在 (zài), 里 (...lǐ) (traditional also: 裡, 裏) :: in (contained by) (preposition)
+  在 (zài), ...里 (...lǐ) (里) (traditional also: 裡, 裏) :: in (contained by) (preposition)
   在 (zài) :: be (occupy a place) (verb)
   在 (zài), 有 (yǒu) :: be (occur, take place) (verb)
   是 (shì), 有 (yǒu), 在 (zài), 來, 来 (lái) :: be (elliptical form of "be here", or similar) (verb)
   在 (zài), 正在 (zhèngzài); verb + 著 / 着 (zhe) :: be (used to form the continuous forms of various tenses) (verb)
+  在...上面 (zài...shàngmiàn) (上面) :: above (in or to a higher place) (preposition)
 ***早產***
   (Traditional Chinese) 流產, 墮胎, 早產 :: abort (A miscarriage) (noun)
 ***枣儿***
@@ -3966,13 +3985,13 @@ Index: EN EN->ZH
   關於, 关于 (guānyú), 對於, 对于 (duìyú) :: about (concerning) (preposition)
   不可數, 不可数 (bùkěshǔ) :: uncountable (linguistics: about a noun which cannot be counted) (adjective)
 ***above***
-  上面 (zài...shàngmiàn) :: above (in or to a higher place) (preposition)
-  上述 (shàngshù de) :: above-mentioned (mentioned or named before; aforesaid) (adjective)
+  在...上面 (zài...shàngmiàn) (上面) :: above (in or to a higher place) (preposition)
+  上述的 (shàngshù de) (上述) :: above-mentioned (mentioned or named before; aforesaid) (adjective)
   天空 (tiānkōng) :: sky (atmosphere above a point) (noun)
 ===Abraham===
-  亞伯拉罕, 亚伯拉罕 (Yàbólāhǎn de) :: Abrahamic (pertaining to Abraham) (adjective)
+  亞伯拉罕的 (亞伯拉罕), 亚伯拉罕的 (Yàbólāhǎn de) (亚伯拉罕) :: Abrahamic (pertaining to Abraham) (adjective)
 ***Abrahamic***
-  亞伯拉罕, 亚伯拉罕 (Yàbólāhǎn de) :: Abrahamic (pertaining to Abraham) (adjective)
+  亞伯拉罕的 (亞伯拉罕), 亚伯拉罕的 (Yàbólāhǎn de) (亚伯拉罕) :: Abrahamic (pertaining to Abraham) (adjective)
   亞伯拉罕諸教, 亚伯拉罕诸教 (Yàbólāhǎn zhūjiào), 亞伯拉罕宗教, 亚伯拉罕宗教 (Yàbólāhǎn zōngjiào) :: Abrahamic (pertaining to Abrahamic religions) (adjective)
 ***abroad***
   國外, 国外 (guówài), 海外 (hǎiwài) (overseas) :: abroad (in foreign countries) (adverb)
@@ -4080,7 +4099,7 @@ Index: EN EN->ZH
   我愛你, 我爱你 (wǒ ài nǐ) :: I love you (affirmation of romantic feeling) (phrase)
   (Wu) 我爱侬 (wo ei non, ngu ei non) :: I love you (affirmation of romantic feeling) (phrase)
 ===aforesaid===
-  上述 (shàngshù de) :: above-mentioned (mentioned or named before; aforesaid) (adjective)
+  上述的 (shàngshù de) (上述) :: above-mentioned (mentioned or named before; aforesaid) (adjective)
 ===after===
   (afternoon) 下午 (xiàwǔ), (evening, night) 晚上 (wǎnshang) :: PM (after 12:00:00) ({{initialism}})
   (Standard Chinese (Mandarin)) 十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
@@ -4253,7 +4272,7 @@ Index: EN EN->ZH
   啤酒 (píjiǔ) :: beer (alcoholic drink made of malt) (noun)
   (Min Nan) 啤酒 (bih-luh), 麥仔酒 (be̍h-á-chiú), 米仔酒 (bí-á-chiú) :: beer (alcoholic drink made of malt) (noun)
 ===before===
-  上述 (shàngshù de) :: above-mentioned (mentioned or named before; aforesaid) (adjective)
+  上述的 (shàngshù de) (上述) :: above-mentioned (mentioned or named before; aforesaid) (adjective)
   零 (líng) (numeral: 〇, 零) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   (Min Nan) 空 (khòng) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   (Teochew) kang3, leng5 :: zero (cardinal number before 1, denoting nothing) (cardinal number)
@@ -4604,7 +4623,7 @@ Index: EN EN->ZH
 ===construct===
   端口 (duānkǒu) :: port (computing: logical or physical construct into and from which data are transferred) (noun)
 ===contained===
-  在 (zài), 里 (...lǐ) (traditional also: 裡, 裏) :: in (contained by) (preposition)
+  在 (zài), ...里 (...lǐ) (里) (traditional also: 裡, 裏) :: in (contained by) (preposition)
 ===container===
   容器, 容器 (róng qì) :: can (a container used to carry and dispense water for plants) (noun)
 ===containing===
@@ -4627,7 +4646,7 @@ Index: EN EN->ZH
   海外 (hǎiwài), 國外, 国外 (guówài) :: abroad (countries or lands abroad) (noun)
 ===country===
   內債, 内债 (nèizhài) :: domestic debt (debt owed to creditors resident in the same country as debtor) (noun)
-  德國, 德国 (Déguó), 德 (Dé-) :: German (of or relating to the country of Germany) (adjective)
+  德國, 德国 (Déguó), 德- (Dé-) (德) :: German (of or relating to the country of Germany) (adjective)
   (Cantonese) 墨西哥 :: Mexico (country) (proper noun)
   (Gan) 墨西哥 :: Mexico (country) (proper noun)
   (Hakka) Me̍t-sî-kô :: Mexico (country) (proper noun)
@@ -4900,7 +4919,7 @@ Index: EN EN->ZH
   啤酒 (píjiǔ) :: beer (alcoholic drink made of malt) (noun)
   (Min Nan) 啤酒 (bih-luh), 麥仔酒 (be̍h-á-chiú), 米仔酒 (bí-á-chiú) :: beer (alcoholic drink made of malt) (noun)
 ***Dutch***
-  荷蘭, 荷兰 (Hélán-de) :: Dutch (of the Netherlands, people, or language) (adjective)
+  荷蘭的 (荷蘭), 荷兰的 (Hélán-de) (荷兰) :: Dutch (of the Netherlands, people, or language) (adjective)
   (Hakka) Hò-làn-ngî :: Dutch (the Dutch language) (proper noun)
   荷蘭語, 荷兰语 (Hélán-yǔ) :: Dutch (the Dutch language) (proper noun)
   (Min Nan) 低地語 (kē-tē-gú) :: Dutch (the Dutch language) (proper noun)
@@ -5086,6 +5105,9 @@ Index: EN EN->ZH
   (Wu) 我爱侬 (wo ei non, ngu ei non) :: I love you (affirmation of romantic feeling) (phrase)
 ===Felidae===
   貓, 猫 (māo) :: cat (member of Felidae) (noun)
+===female===
+  女性服务生 (nuxing fuwu-sheng) :: bellgirl (a female bellhop) (noun)
+  潮吹 (cháochuī), 淫水 (yǐnshuǐ), (slang) 出水 (chūshuǐ) :: cum (slang: female ejaculatory discharge) (noun)
 ***few***
   少 (shǎo) :: few (small number) (determiner)
   自由的, 自由的 (zìyóu de) :: free (software: with very few limitations on distribution or improvement) (adjective)
@@ -5152,6 +5174,16 @@ Index: EN EN->ZH
   外國人, 外国人 (wàiguórén), 外人 (wàirén), 老外 (lǎowài) (colloquial) :: alien (foreigner) (noun)
 ===foreigners===
   外債, 外债 (wàizhài), 對外債務, 对外债务 (duìwài zhàiwù) :: foreign debt (a debt owed to foreigners) (noun)
+===form===
+  縮寫, 缩写 (suōxiě); 簡寫, 简写 (jiǎnxiě); 略語, 略语 (lüèyǔ) :: abbreviation (shortened or contracted form of a word or phrase) (noun)
+  複數, 复数 (fùshù), 眾數, 众数 (zhòngshù) :: plural (word in plural form) (noun)
+  外星人 (wàixīngrén), 宇宙人 (yǔzhòurén) :: alien (life form of non-Earth origin) (noun)
+  是 (shì), 有 (yǒu), 在 (zài), 來, 来 (lái) :: be (elliptical form of "be here", or similar) (verb)
+  被 (bèi) + verb (particle) :: be (used to form the passive voice) (verb)
+  在 (zài), 正在 (zhèngzài); verb + 著 / 着 (zhe) :: be (used to form the continuous forms of various tenses) (verb)
+  (not used) :: be ((archaic) used to form the perfect aspect with certain intransitive verbs) (verb)
+  (not used) :: be (used to form future tenses, especially the future subjunctive) (verb)
+  單數, 单数 (dānshù) :: singular (grammar: form of a word that refers to only one thing) (noun)
 ===formal===
   行進, 行进 (xíngjìn) :: march (formal, rhythmic way of walking) (noun)
 ===formed===
@@ -5227,7 +5259,7 @@ Index: EN EN->ZH
 ===genre===
   行進曲, 行进曲 (xíngjìnqū) :: march (song in the genre of music written for marching) (noun)
 ===genuine===
-  假 (jiǎ de-), 虛擬, 虚拟 (xūnǐ de-) :: pseudo- (not genuine) (prefix)
+  假的- (jiǎ de-) (假), 虛擬的- (虛擬), 虚拟的- (xūnǐ de-) (虚拟) :: pseudo- (not genuine) (prefix)
 ===genus===
   烏鴉, 乌鸦 (wūyā) :: crow (any bird of the genus Corvus) (noun)
 ===geometry===
@@ -5238,9 +5270,9 @@ Index: EN EN->ZH
   德語, 德语 (Déyǔ) :: German (the German language) (proper noun)
   (Min Dong) Dáik-ngṳ̄ :: German (the German language) (proper noun)
   (Min Nan) tek-gí :: German (the German language) (proper noun)
-  德國, 德国 (Déguó), 德 (Dé-) :: German (of or relating to the country of Germany) (adjective)
+  德國, 德国 (Déguó), 德- (Dé-) (德) :: German (of or relating to the country of Germany) (adjective)
 ===Germany===
-  德國, 德国 (Déguó), 德 (Dé-) :: German (of or relating to the country of Germany) (adjective)
+  德國, 德国 (Déguó), 德- (Dé-) (德) :: German (of or relating to the country of Germany) (adjective)
 ===give===
   命名 (mìngmíng) :: name (give a name to) (verb)
   放棄, 放弃 (fàngqì) :: abandon (to give up) (verb)
@@ -5336,7 +5368,7 @@ Index: EN EN->ZH
 ===here===
   是 (shì), 有 (yǒu), 在 (zài), 來, 来 (lái) :: be (elliptical form of "be here", or similar) (verb)
 ===higher===
-  上面 (zài...shàngmiàn) :: above (in or to a higher place) (preposition)
+  在...上面 (zài...shàngmiàn) (上面) :: above (in or to a higher place) (preposition)
 ===historical===
   (Gan) 語源學, 语源学 (ngi3 ngion4 hok6) :: etymology (study of the historical development of languages, particularly of individual words) (noun)
   語源學, 语源学 (yǔyuánxué) :: etymology (study of the historical development of languages, particularly of individual words) (noun)
@@ -5379,7 +5411,7 @@ Index: EN EN->ZH
 ===improvement===
   自由的, 自由的 (zìyóu de) :: free (software: with very few limitations on distribution or improvement) (adjective)
 ***in***
-  在 (zài), 里 (...lǐ) (traditional also: 裡, 裏) :: in (contained by) (preposition)
+  在 (zài), ...里 (...lǐ) (里) (traditional also: 裡, 裏) :: in (contained by) (preposition)
 ===inattentive===
   缺席 (quēxí) :: absent (inattentive) (adjective)
 ===incarnation===
@@ -5504,7 +5536,7 @@ Index: EN EN->ZH
   (Min Dong) Dáik-ngṳ̄ :: German (the German language) (proper noun)
   (Min Nan) tek-gí :: German (the German language) (proper noun)
   世界語, 世界语 (Shìjièyǔ) :: Esperanto (auxiliary language) (proper noun)
-  荷蘭, 荷兰 (Hélán-de) :: Dutch (of the Netherlands, people, or language) (adjective)
+  荷蘭的 (荷蘭), 荷兰的 (Hélán-de) (荷兰) :: Dutch (of the Netherlands, people, or language) (adjective)
   (Hakka) Hò-làn-ngî :: Dutch (the Dutch language) (proper noun)
   荷蘭語, 荷兰语 (Hélán-yǔ) :: Dutch (the Dutch language) (proper noun)
   (Min Nan) 低地語 (kē-tē-gú) :: Dutch (the Dutch language) (proper noun)
@@ -5717,7 +5749,7 @@ Index: EN EN->ZH
 ===mentally===
   打败 (da bai), 击倒 (ji dao) :: abate (to bring down a person physically or mentally) (verb)
 ===mentioned===
-  上述 (shàngshù de) :: above-mentioned (mentioned or named before; aforesaid) (adjective)
+  上述的 (shàngshù de) (上述) :: above-mentioned (mentioned or named before; aforesaid) (adjective)
 ***merchandise***
   產品, 产品 (chǎnpǐn), 貨物, 货物 (huòwù), 物品 (wùpǐn), 製品, 制品, (zhìpǐn), 製品, 制品 (zhìpǐn) :: merchandise (commodities offered for sale) (noun)
 ===message===
@@ -5826,7 +5858,7 @@ Index: EN EN->ZH
   (English letter names are called as in English, no other standard Mandarin name exists) :: i (name of the letter I, i) (noun)
   愛德華 (Aidéhuá) :: Edward (male given name) (proper noun)
 ===named===
-  上述 (shàngshù de) :: above-mentioned (mentioned or named before; aforesaid) (adjective)
+  上述的 (shàngshù de) (上述) :: above-mentioned (mentioned or named before; aforesaid) (adjective)
 ===narration===
   寓言 (yùyán) :: fable (fictitious narration to enforce some useful truth or precept) (noun)
 ***NASA***
@@ -5843,8 +5875,8 @@ Index: EN EN->ZH
 ***Netherlands***
   荷蘭, 荷兰 (Hélán) :: Netherlands (country in northwestern Europe) (proper noun)
   (Min Nan) Kē-tē-kok :: Netherlands (country in northwestern Europe) (proper noun)
-  荷蘭, 荷兰 (Hélán de) :: Netherlands (pertaining to the Netherlands) (adjective)
-  荷蘭, 荷兰 (Hélán-de) :: Dutch (of the Netherlands, people, or language) (adjective)
+  荷蘭的 (荷蘭), 荷兰的 (Hélán de) (荷兰) :: Netherlands (pertaining to the Netherlands) (adjective)
+  荷蘭的 (荷蘭), 荷兰的 (Hélán-de) (荷兰) :: Dutch (of the Netherlands, people, or language) (adjective)
   荷蘭人, 荷兰人 (Hélán-rén) :: Dutch (people from the Netherlands) (proper noun)
 ***nigger***
   黑鬼 (hēiguǐ) :: nigger (negro person) (noun)
@@ -5878,7 +5910,7 @@ Index: EN EN->ZH
   自由的, 自由的 (zìyóu de) :: free (not imprisoned) (adjective)
   可能 (kěnéng) may be, possible :: may (possibly, but not certainly) (verb)
   无论如何, wúlùnrúhé :: whatever (indicating the matter is not worthy of further discussion) (interjection)
-  假 (jiǎ de-), 虛擬, 虚拟 (xūnǐ de-) :: pseudo- (not genuine) (prefix)
+  假的- (jiǎ de-) (假), 虛擬的- (虛擬), 虚拟的- (xūnǐ de-) (虚拟) :: pseudo- (not genuine) (prefix)
 ===nothing===
   零 (líng) (numeral: 〇, 零) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   (Min Nan) 空 (khòng) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
@@ -6028,7 +6060,7 @@ Index: EN EN->ZH
 ===omit===
   减少 (jian shao), 省略 (sheng lüe) :: abate (to deduct, to omit) (verb)
 ***on***
-  上 (...shàng) :: on (positioned at the upper surface of) (preposition)
+  ...上 (...shàng) (上) :: on (positioned at the upper surface of) (preposition)
 ***one***
   (Cantonese) 一 (yat1) :: one (cardinal number 1) (cardinal number)
   一, 壹 (yī) :: one (cardinal number 1) (cardinal number)
@@ -6141,7 +6173,7 @@ Index: EN EN->ZH
   雞巴, 鸡巴 (jība), 屌 (diǎo), (euphemism) 鳥, 鸟 (diǎo) :: dick (colloquial: penis) (noun)
 ===people===
   大家 (dàjiā) :: everybody (all people) (pronoun)
-  荷蘭, 荷兰 (Hélán-de) :: Dutch (of the Netherlands, people, or language) (adjective)
+  荷蘭的 (荷蘭), 荷兰的 (Hélán-de) (荷兰) :: Dutch (of the Netherlands, people, or language) (adjective)
   荷蘭人, 荷兰人 (Hélán-rén) :: Dutch (people from the Netherlands) (proper noun)
 ===perfect===
   (not used) :: be ((archaic) used to form the perfect aspect with certain intransitive verbs) (verb)
@@ -6174,14 +6206,14 @@ Index: EN EN->ZH
 ===personification===
   化身 (huàshēn) :: avatar (The physical embodiment of an idea or concept; a personification) (noun)
 ===pertaining===
-  亞伯拉罕, 亚伯拉罕 (Yàbólāhǎn de) :: Abrahamic (pertaining to Abraham) (adjective)
+  亞伯拉罕的 (亞伯拉罕), 亚伯拉罕的 (Yàbólāhǎn de) (亚伯拉罕) :: Abrahamic (pertaining to Abraham) (adjective)
   亞伯拉罕諸教, 亚伯拉罕诸教 (Yàbólāhǎn zhūjiào), 亞伯拉罕宗教, 亚伯拉罕宗教 (Yàbólāhǎn zōngjiào) :: Abrahamic (pertaining to Abrahamic religions) (adjective)
   (Simplified) 英语的 (Yīngyǔ de), 英文的 (Yīngwén de) :: English (of or pertaining to the English language) (adjective)
   (Traditional) 英語的 (Yīngyǔ de), 英文的 (Yīngwén de) :: English (of or pertaining to the English language) (adjective)
   (Simplified) 英格兰的 (Yīnggélán de) :: English (of or pertaining to England) (adjective)
   (Traditional) 英格蘭的 :: English (of or pertaining to England) (adjective)
   白領, 白领 (báilǐng) :: white-collar (of or pertaining to office work and workers) (adjective)
-  荷蘭, 荷兰 (Hélán de) :: Netherlands (pertaining to the Netherlands) (adjective)
+  荷蘭的 (荷蘭), 荷兰的 (Hélán de) (荷兰) :: Netherlands (pertaining to the Netherlands) (adjective)
 ***peso***
   比索 (bǐsuǒ) :: peso (currency) (noun)
 ===philosophy===
@@ -6201,7 +6233,7 @@ Index: EN EN->ZH
   詠嘆調, 咏叹调 (yǒngtàndiào), 唱段 (chàngduàn), (North China, Yuan dynasty) 北曲 (běiqǔ) :: aria (type of musical piece) (noun)
 ===place===
   名 (míng), 名字 (míngzì) :: name (word or phrase indicating a particular person, place, class or thing) (noun)
-  上面 (zài...shàngmiàn) :: above (in or to a higher place) (preposition)
+  在...上面 (zài...shàngmiàn) (上面) :: above (in or to a higher place) (preposition)
   缺席 (quēxí) :: absent (being away from a place) (adjective)
   專有名詞, 专有名词 (zhuānyǒu míngcí), 固有名詞, 固有名词 (gùyǒu míngcí) :: proper noun (The name of a particular person, place, organization or other individual entity) (noun)
   (Dungan) зэ :: be (occupy a place) (verb)
@@ -6275,7 +6307,7 @@ Index: EN EN->ZH
 ===position===
   權貴, 权贵 (quánguì) :: quality (archaic: social position) (noun)
 ===positioned===
-  上 (...shàng) :: on (positioned at the upper surface of) (preposition)
+  ...上 (...shàng) (上) :: on (positioned at the upper surface of) (preposition)
 ===possibly===
   可能 (kěnéng) may be, possible :: may (possibly, but not certainly) (verb)
 ===posterior===
@@ -6339,7 +6371,7 @@ Index: EN EN->ZH
 ===Proteles===
   土狼 (tǔláng) :: aardwolf (the mammal species Proteles cristatus) (noun)
 ***pseudo***
-  假 (jiǎ de-), 虛擬, 虚拟 (xūnǐ de-) :: pseudo- (not genuine) (prefix)
+  假的- (jiǎ de-) (假), 虛擬的- (虛擬), 虚拟的- (xūnǐ de-) (虚拟) :: pseudo- (not genuine) (prefix)
 ===publication===
   (Dungan) хуадян (huadyan) :: dictionary (publication that explains the meanings of an ordered list of words) (noun)
   字典 (zìdiǎn) (character dictionary); 詞典, 词典 (cídiǎn) :: dictionary (publication that explains the meanings of an ordered list of words) (noun)
@@ -6434,7 +6466,7 @@ Index: EN EN->ZH
 ===reject===
   拒絕, 拒绝 (jùjué) :: abdicate (reject) (verb)
 ===relating===
-  德國, 德国 (Déguó), 德 (Dé-) :: German (of or relating to the country of Germany) (adjective)
+  德國, 德国 (Déguó), 德- (Dé-) (德) :: German (of or relating to the country of Germany) (adjective)
 ===relative===
   行星 (xíngxīng) :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
   (Min Nan) 行星 (hêng-seng) :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
@@ -6801,7 +6833,7 @@ Index: EN EN->ZH
 ===sure===
   可接受的 (kě jiēshòu de) :: acceptable (capable, worthy or sure of being accepted) (adjective)
 ===surface===
-  上 (...shàng) :: on (positioned at the upper surface of) (preposition)
+  ...上 (...shàng) (上) :: on (positioned at the upper surface of) (preposition)
 ===surrender===
   (give up throne) 禪讓, 禅让 (shànràng), (leave any position) 退位 (tuìwèi), 退出 (tuìchū) :: abdicate (surrender or relinquish) (verb)
 ===symbol===
@@ -7009,7 +7041,7 @@ Index: EN EN->ZH
 ===untrue===
   廢話, 废话 (fèihuà), 胡說, 胡说 (húshuō), 胡言 (húyán), 狗屁 (gǒupì) (vulgar) :: nonsense (untrue statement) (noun)
 ===upper===
-  上 (...shàng) :: on (positioned at the upper surface of) (preposition)
+  ...上 (...shàng) (上) :: on (positioned at the upper surface of) (preposition)
 ===used===
   (Traditional Chinese) 中斷, 放棄 :: abort (The function used to abort a process) (noun)
   貨車, 货车 (huòchē) :: van (A (covered) vehicle used for carrying goods) (noun)

@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.arabic 13363
+EntrySource: enwiktionary.arabic 13381
 
 Index: AR AR->EN
 ***أ***
@@ -10419,6 +10419,14 @@ Index: EN EN->AR
   بلدي بَلَدِيّ (baladiyy) {m} :: fellow citizen, compatriot, countryman
 ===felon===
   جان {{ar-noun|head=جانٍ|tr=jānin|pl=جناة}} :: perpetrator, offender, delinquent, criminal, culprit, felon, evildoer
+===female===
+  أنثى أنْثَى (’únθā) {f}, إناث (’ināθ) {p}, اناثى (’anāθā) {p} :: female
+  أنثى أنْثَى (’únθā) {f}, إناث (’ināθ) {p}, اناثى (’anāθā) {p} :: female (of animals)
+    الانثيان (al-’unθayān) :: the testicles
+  مدرسة {{ar-noun|g=f|head=مُدَرِّسَة|tr=mudárrisa|pl=مدرسات|plhead=مُدَرِّسَات|pltr=mudárrisāt}} :: (female) teacher
+  جنس (jins) {m}, أجناس (ajnās) {p} :: sex (male or female)
+  أحبك (uHíbbuki, uHíbbik) :: I love you (to a female)
+  اتان أتُانٌ (’atān) {f}, آتُن (’ātun) {p}, أتُن (’útun, ’utn) {p} :: she ass, female donkey, jenny
 ===feminine===
   أنثى أنْثَى (’únθā) {f}, إناث (’ināθ) {p}, اناثى (’anāθā) {p} :: feminine
   مصر (miSr, maSr) {f} :: Egypt or Masr (in this sense, a feminine noun)
@@ -10782,6 +10790,20 @@ Index: EN EN->AR
 ===forget===
   ذهب {{ar-verb|form=1|tr=ḏáhaba|impf=يذهب|impftr=yaḏhabu}} :: to escape, to slip, to lose sight of, to forget
   نام {{ar-verb|form=I|head=نَامَ|tr=nāma|impfhead=يَنامُ|impf=ينام|impftr=yanāmu|II=و}} :: to forget
+===form===
+  سن {{ar-verb (old)|I|سن|sánna}}{{ar-verb (old)|II|سن|sánna}}{{ar-verb (old)|IV|اسن|’ásanna}}{{ar-verb (old)|VIII|استن|istánna}} :: to mold, to shape, to form
+  جبل {{ar-verb (old)|I|جبل|jábala}} :: to mold, to form, to shape, to fashion
+  عن {{ar-verb (old)|I|عَنّ|ʕánna}} :: to take shape, to form, to arise, to spring up
+  قطر {{ar-verb (old)|I|قطر|qáTara}}{{ar-verb (old)|II|قطر|qáTTara}}{{ar-verb (old)|V|تقطر|taqáTTara}}{{ar-verb (old)|VI|تقاطر|taqāTara}}{{ar-verb (old)|X|استقطر|istáqTara}} :: to form a train of camels, to line up camels in single file (connected with halters)
+  عربية (ʕarabíyya) {f} or {p} :: Arabic (feminine or plural form of عربي)
+  ﻫ (initial form of ه) (hā’) :: Normally the twenty-sixth letter of the Arabic alphabet, when this letter is used in this initial form as an enumerator, it is interpreted as the fifth letter in traditional abjad order, equivalent to our Roman numeral V or Ⅴ (see abjad numerals). It is preceded by د and followed by و.
+  عرب {{ar-verb (old)|II|عَرّبَ|{LR}3arraba}}{{ar-verb (old)|IV|أعرب|'á3raba}}{{ar-verb (old)|V|تعرب|ta3árraba}}{{ar-verb (old)|X|استعرب|istá3raba}} :: to Arabicize, Arabize; to give an Arabic form.
+  عرب {{ar-verb (old)|II|عَرّبَ|{LR}3arraba}}{{ar-verb (old)|IV|أعرب|'á3raba}}{{ar-verb (old)|V|تعرب|ta3árraba}}{{ar-verb (old)|X|استعرب|istá3raba}} :: to Arabicize, Arabize; to give an Arabic form.
+  زبر (zúbar) {p} :: Plural form of زبرة.
+  ازهر أزْهُر (’áz-hur) :: flowers, blossoms (Plural form of زهر)
+  اعراب (iʕrāb) {m}اعراب{p} :: Arabs (Plural form of عرب).
+  بن (bin, ibn) {m}, بنت (bint) {f}, ابناء (abnā’) {p}, بنون (banūn) {p} :: son, base form of ابن (ibn) (same as Hebrew בֵּן).
+    بني (bunáiya) — my little son :: --
 ===formal===
   فتوى (fatwā) {f}, فتاو (fatāwin) {p}, فتاوى (fatāwā) {p} :: fatwa, formal legal opinion
 ===formerly===

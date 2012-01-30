@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.english 4965
+EntrySource: enwiktionary.english 4982
 
 Index: DE DE->EN
 ===2===
@@ -322,7 +322,7 @@ Index: DE DE->EN
 ***aro***
   (Old High German) arn {m}, aro {m} :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
 ***Arschbacken***
-  Arschbacken {f}, Pobacken {f} :: can (buttocks) (noun)
+  Arschbacken {f}, Pobacken {f|p} :: can (buttocks) (noun)
 ***Arschloch***
   Wichser, Arschloch, Drecksau, Mutterficker (rare) :: motherfucker (generic term of abuse) (noun)
 ***Arznei***
@@ -427,7 +427,7 @@ Index: DE DE->EN
 ===Beiklang===
   Konnotation, Nebenbedeutung, Beiklang, Beigeschmack :: connotation (suggested or implied meaning) (noun)
 ***Bein***
-  Knochen {m}, Gebeine {f}, (dated) Bein {n} :: bone (material) (noun)
+  Knochen {m}, Gebeine {f|p}, (dated) Bein {n} :: bone (material) (noun)
   (Low German) (east) Bein {n}, (west) Been {n} :: bone (material) (noun)
 ===bellboy===
   Hotelpage (either bellboy or bellgirl) :: bellgirl (a female bellhop) (noun)
@@ -516,7 +516,7 @@ Index: DE DE->EN
 ***buchen***
   buchen, reservieren :: book (reserve) (verb)
 ***Bücher***
-  Bücher {n} :: book (usually in plural: records of the accounts of a business) (noun)
+  Bücher {n|p} :: book (usually in plural: records of the accounts of a business) (noun)
 ***Buchstabe***
   Buchstabe {m} :: letter (letter of the alphabet) (noun)
 ***Buntstift***
@@ -557,7 +557,7 @@ Index: DE DE->EN
   der {m}, die {f}, das {n}, die {p} :: the (with a superlative) (article)
   der {m}, die {f}, das {n}, die {p} :: the (used with the name of a member of a class to refer to all things in that class) (article)
 ***dat***
-  (Low German) dat {n}, de {m}, dei {m} :: the (article) (article)
+  (Low German) dat {n}, de {m|f}, dei {m|f} :: the (article) (article)
 ***Date***
   Rendezvous {n}, Date {n}, Verabredung {n}, Stelldichein {n} :: date (meeting with a lover or potential lover; a person so met) (noun)
 ***daten***
@@ -577,7 +577,7 @@ Index: DE DE->EN
   fliehen, fortlaufen, davonmachen :: absquatulate (to leave quickly or in a hurry; to take oneself off; to decamp; to depart) (verb)
   sich davonmachen :: abscond (to depart secretly) (verb)
 ***de***
-  (Low German) dat {n}, de {m}, dei {m} :: the (article) (article)
+  (Low German) dat {n}, de {m|f}, dei {m|f} :: the (article) (article)
   Informatik {f} (de) :: computer science (study of computers and their architecture) (noun)
 ***Deal***
   Handel {m}, Deal {m} (Econ.) :: deal (instance of buying or selling) (noun)
@@ -594,7 +594,7 @@ Index: DE DE->EN
   Definition {f} :: definition (action or power of describing, explaining, or making definite) (noun)
   Definition {f} :: definition (bodybuilding: the degree to which individual muscles are distinct) (noun)
 ***dei***
-  (Low German) dat {n}, de {m}, dei {m} :: the (article) (article)
+  (Low German) dat {n}, de {m|f}, dei {m|f} :: the (article) (article)
 ***Deitscha***
   (Alemannic German) Deitscha :: German (the German language) (proper noun)
 ***Dekade***
@@ -902,7 +902,7 @@ Index: DE DE->EN
 ***feuern***
   kündigen, feuern, rausschmeißen :: can (to fire or dismiss an employee) (verb)
 ***Fieber***
-  täglich Fieber :: quotidian (quotidian fever) (noun)
+  tägliches (täglich) Fieber :: quotidian (quotidian fever) (noun)
 ===finger===
   Finger (finger), Zeh (toe) :: digit (finger or toe) (noun)
 ===Finger===
@@ -996,7 +996,7 @@ Index: DE DE->EN
 ***gebeine***
   (Middle High German) gebeine {n} :: bone (material) (noun)
 ***Gebeine***
-  Knochen {m}, Gebeine {f}, (dated) Bein {n} :: bone (material) (noun)
+  Knochen {m}, Gebeine {f|p}, (dated) Bein {n} :: bone (material) (noun)
 ***geben***
   austeilen, geben :: deal (distribute (cards)) (verb)
 ***Gebiss***
@@ -1122,9 +1122,9 @@ Index: DE DE->EN
   Avatar {m}, Avatara {m}, Herabkunft {f}, Inkarnation {f} :: avatar (The earthly incarnation of a deity, particularly Vishnu) (noun)
 ***Herbst***
   Herbst {m} :: autumn (season) (noun)
-  Herbst, herbstlich :: autumn (of or relating to autumn) (adjective)
+  Herbst- (Herbst), herbstlich :: autumn (of or relating to autumn) (adjective)
 ***herbstlich***
-  Herbst, herbstlich :: autumn (of or relating to autumn) (adjective)
+  Herbst- (Herbst), herbstlich :: autumn (of or relating to autumn) (adjective)
 ***herein***
   herein, hinein :: in (moving to the interior) (adverb)
 ***Herr***
@@ -1171,7 +1171,7 @@ Index: DE DE->EN
 ***höher***
   höher, oben, darüber :: above (in a higher place) (adverb)
 ***Holland***
-  Holland {n}, die Niederlande {n} :: Netherlands (country in northwestern Europe) (proper noun)
+  Holland {n}, die Niederlande {n|p} :: Netherlands (country in northwestern Europe) (proper noun)
 ***Holländer***
   Niederländer, Holländer :: Dutch (people from the Netherlands) (proper noun)
 ***holländisch***
@@ -1340,7 +1340,7 @@ Index: DE DE->EN
 ***Knaken***
   (Low German) Knaken {m} :: bone (component of a skeleton) (noun)
 ***Knochen***
-  Knochen {m}, Gebeine {f}, (dated) Bein {n} :: bone (material) (noun)
+  Knochen {m}, Gebeine {f|p}, (dated) Bein {n} :: bone (material) (noun)
   Knochen {m} :: bone (component of a skeleton) (noun)
 ***Koffer***
   Koffer {m} :: portmanteau (case) (noun)
@@ -1634,7 +1634,7 @@ Index: DE DE->EN
 ***Nichts***
   Null {f}, Nichts {n}, Niemand {m} :: zero (person of little importance) (noun)
 ***Niederlande***
-  Holland {n}, die Niederlande {n} :: Netherlands (country in northwestern Europe) (proper noun)
+  Holland {n}, die Niederlande {n|p} :: Netherlands (country in northwestern Europe) (proper noun)
 ***Niederländer***
   Niederländer, Holländer :: Dutch (people from the Netherlands) (proper noun)
 ===niederlandisch===
@@ -1758,7 +1758,7 @@ Index: DE DE->EN
 ===pluralisch===
   Plural-, pluralisch :: plural (more than one) (adjective)
 ***Pobacken***
-  Arschbacken {f}, Pobacken {f} :: can (buttocks) (noun)
+  Arschbacken {f}, Pobacken {f|p} :: can (buttocks) (noun)
 ***polnisch***
   polnisch :: Polish (of Poland or its language) (adjective)
 ***Polnisch***
@@ -2068,7 +2068,9 @@ Index: DE DE->EN
 ***Sprachen***
   Sprache {f}, Sprachen {p} :: language (computer language) (noun)
 ***sprahha***
-  (Old High German) sprahha :: language (system of communication using words or symbols) (noun)
+  (Old High German) sprāhha (sprahha) :: language (system of communication using words or symbols) (noun)
+***sprāhha***
+  (Old High German) sprāhha (sprahha) :: language (system of communication using words or symbols) (noun)
 ***springen***
   springen :: spring (jump or leap) (verb)
   springen, einen Satz machen, hüpfen :: leap (to jump from one location to another) (verb)
@@ -2145,7 +2147,9 @@ Index: DE DE->EN
 ***täglich***
   alltäglich wiederkehrend, täglich wiederkehrend :: quotidian (daily) (adjective)
   das Alltägliche, das täglich Wiederkehrende :: quotidian (common, mundane) (adjective)
-  täglich Fieber :: quotidian (quotidian fever) (noun)
+  tägliches (täglich) Fieber :: quotidian (quotidian fever) (noun)
+***tägliches***
+  tägliches (täglich) Fieber :: quotidian (quotidian fever) (noun)
 ***Taktsignal***
   Taktsignal {n} :: clock (electrical signal) (noun)
 ***taufen***
@@ -3047,7 +3051,7 @@ Index: EN EN->DE
 ===accounting===
   abgegrenzte Schulden {f}, Abgrenzungsposten {m}, Rechnungsabgrenzungsposten {m} :: accrual (an accounting charge) (noun)
 ===accounts===
-  Bücher {n} :: book (usually in plural: records of the accounts of a business) (noun)
+  Bücher {n|p} :: book (usually in plural: records of the accounts of a business) (noun)
 ***accrual***
   Zuwachs {m} :: accrual (an increase) (noun)
   abgegrenzte Schulden {f}, Abgrenzungsposten {m}, Rechnungsabgrenzungsposten {m} :: accrual (an accounting charge) (noun)
@@ -3312,7 +3316,7 @@ Index: EN EN->DE
   Komitologie :: comitology (art of resolving issues by committees) (noun)
 ===article===
   (nominative case) der {m}, (nominative case) die {f}, (nominative case) das {n}, (nominative case) die {p}, ... :: the (article) (article)
-  (Low German) dat {n}, de {m}, dei {m} :: the (article) (article)
+  (Low German) dat {n}, de {m|f}, dei {m|f} :: the (article) (article)
 ===articles===
   Enzyklopädie {f} :: encyclopedia (comprehensive reference with articles on a range of topic) (noun)
 ===ashamed===
@@ -3361,7 +3365,7 @@ Index: EN EN->DE
   Verwahrstelle {f} :: pound (place for detention of automobiles) (noun)
 ***autumn***
   Herbst {m} :: autumn (season) (noun)
-  Herbst, herbstlich :: autumn (of or relating to autumn) (adjective)
+  Herbst- (Herbst), herbstlich :: autumn (of or relating to autumn) (adjective)
 ===auxiliary===
   Esperanto {n} :: Esperanto (auxiliary language) (proper noun)
 ===available===
@@ -3530,7 +3534,7 @@ Index: EN EN->DE
 ===bodybuilding===
   Definition {f} :: definition (bodybuilding: the degree to which individual muscles are distinct) (noun)
 ***bone***
-  Knochen {m}, Gebeine {f}, (dated) Bein {n} :: bone (material) (noun)
+  Knochen {m}, Gebeine {f|p}, (dated) Bein {n} :: bone (material) (noun)
   (Middle High German) gebeine {n} :: bone (material) (noun)
   (Low German) (east) Bein {n}, (west) Been {n} :: bone (material) (noun)
   Knochen {m} :: bone (component of a skeleton) (noun)
@@ -3544,7 +3548,7 @@ Index: EN EN->DE
   Buch {n} :: book (collection of sheets of paper bound together containing printed or written material) (noun)
   Wettliste {f} :: book (record of betting) (noun)
   Album {n} :: book (convenient collection of small paper items, such as stamps) (noun)
-  Bücher {n} :: book (usually in plural: records of the accounts of a business) (noun)
+  Bücher {n|p} :: book (usually in plural: records of the accounts of a business) (noun)
   E-Book {n} :: book (ebook) (noun)
   buchen, reservieren :: book (reserve) (verb)
   bestrafen :: book (penalise) (verb)
@@ -3589,11 +3593,11 @@ Index: EN EN->DE
 ===bush===
   Weißdornblüte {f} :: may (the hawthorn bush or its blossom) (noun)
 ===business===
-  Bücher {n} :: book (usually in plural: records of the accounts of a business) (noun)
+  Bücher {n|p} :: book (usually in plural: records of the accounts of a business) (noun)
 ===but===
   Moment {m}, :: minute (short but unspecified period of time) (noun)
 ===buttocks===
-  Arschbacken {f}, Pobacken {f} :: can (buttocks) (noun)
+  Arschbacken {f}, Pobacken {f|p} :: can (buttocks) (noun)
 ===buying===
   Handel {m} :: trade (instance of buying or selling) (noun)
   Handel {m}, Deal {m} (Econ.) :: deal (instance of buying or selling) (noun)
@@ -3635,7 +3639,7 @@ Index: EN EN->DE
   Gießkanne {f} :: can (a container used to carry and dispense water for plants) (noun)
   Dose {f}, Konservendose {f} :: can (a tin-plate canister) (noun)
   Toilette {f}, WC {n}, Klo {n} :: can (toilet) (noun)
-  Arschbacken {f}, Pobacken {f} :: can (buttocks) (noun)
+  Arschbacken {f}, Pobacken {f|p} :: can (buttocks) (noun)
   einmachen :: can (to preserve) (verb)
   abbrechen :: can (to discard) (verb)
   die Klappe halten, den Mund halten :: can (to shut up) (verb)
@@ -3849,7 +3853,7 @@ Index: EN EN->DE
   Sprache {f} :: language (the ability to communicate using words) (noun)
 ===communication===
   Sprache {f} :: language (system of communication using words or symbols) (noun)
-  (Old High German) sprahha :: language (system of communication using words or symbols) (noun)
+  (Old High German) sprāhha (sprahha) :: language (system of communication using words or symbols) (noun)
   Sprache {f} :: language (nonverbal communication) (noun)
 ===companion===
   Verabredung {f} (colloquial, arbitrary gender) :: date (companion when one is partaking in a social occasion) (noun)
@@ -3968,7 +3972,7 @@ Index: EN EN->DE
   (Palatinate German) Mexiko {n} :: Mexico (country) (proper noun)
   (Low German) Mexiko {n} :: Mexico (country) (proper noun)
   Japan :: Japan (A Far East country in Asia) (proper noun)
-  Holland {n}, die Niederlande {n} :: Netherlands (country in northwestern Europe) (proper noun)
+  Holland {n}, die Niederlande {n|p} :: Netherlands (country in northwestern Europe) (proper noun)
 ===cover===
   Gras {n} :: grass (ground cover plant) (noun)
 ===covered===
@@ -4514,7 +4518,7 @@ Index: EN EN->DE
   Etymologie {f} :: etymology (study of the historical development of languages, particularly of individual words) (noun)
   Etymologie {f} :: etymology (account of the origin and historical development of a word) (noun)
 ===Europe===
-  Holland {n}, die Niederlande {n} :: Netherlands (country in northwestern Europe) (proper noun)
+  Holland {n}, die Niederlande {n|p} :: Netherlands (country in northwestern Europe) (proper noun)
 ===event===
   Zeitwort {n}, Verb {n}, Verbum {n} :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   Punkt {m}, Zeitpunkt {m} :: point (particular moment in an event or occurrence) (noun)
@@ -4631,9 +4635,13 @@ Index: EN EN->DE
   erniedrigen :: abase (to lower so as to hurt feelings) (verb)
 ===Felidae===
   Katze {f} :: cat (member of Felidae) (noun)
+===female===
+  Äbtissin {f}, Äbtin {f}, Oberin {f} (Reverend Mother) :: abbess (female superior of a nunnery) (noun)
+  Fanny :: Fanny (female given name) (proper noun)
+  Hotelpage (either bellboy or bellgirl) :: bellgirl (a female bellhop) (noun)
 ===fever===
   abbrechen :: abortive (Cutting short; as, abortive treatment of typhoid fever.) (adjective)
-  täglich Fieber :: quotidian (quotidian fever) (noun)
+  tägliches (täglich) Fieber :: quotidian (quotidian fever) (noun)
 ***few***
   wenig :: few (indefinite, usually small number) (determiner)
   frei :: free (software: with very few limitations on distribution or improvement) (adjective)
@@ -4730,6 +4738,19 @@ Index: EN EN->DE
   Haupt- :: head (foremost in rank or importance) (adjective)
 ===forgiven===
   Absolution {f} :: absolution (Exercise of priestly jurisdiction in the sacrament of penance, by which Catholics believe the sins of the truly penitent are forgiven) (noun)
+===form===
+  Abkürzung {f}, Kurzbezeichnung {f}, Kürzel {n}, Kurzform {f} :: abbreviation (shortened or contracted form of a word or phrase) (noun)
+  Plural {m}, Mehrzahl {f} :: plural (word in plural form) (noun)
+  Außerirdischer {m}, Außerirdische {f} :: alien (life form of non-Earth origin) (noun)
+  Alphabetismus {m} :: alphabetism (form of literacy) (noun)
+  sein :: be (elliptical form of "be here", or similar) (verb)
+  werden :: be (used to form the passive voice) (verb)
+  sein :: be (used to form the continuous forms of various tenses) (verb)
+  sein :: be ((archaic) used to form the perfect aspect with certain intransitive verbs) (verb)
+  sein :: be (used to form future tenses, especially the future subjunctive) (verb)
+  -ität {f} :: -ity (Used to form nouns from adjectives.) (suffix)
+  qualitativ :: qualitative ((chemistry) of a form of analysis that yields the identity of a compound) (adjective)
+  Einzahl {f}, Singular {m} :: singular (grammar: form of a word that refers to only one thing) (noun)
 ===formal===
   Marsch {m} :: march (formal, rhythmic way of walking) (noun)
 ===formed===
@@ -5326,7 +5347,7 @@ Index: EN EN->DE
   Ausland {n} :: abroad (countries or lands abroad) (noun)
 ***language***
   Sprache {f} :: language (system of communication using words or symbols) (noun)
-  (Old High German) sprahha :: language (system of communication using words or symbols) (noun)
+  (Old High German) sprāhha (sprahha) :: language (system of communication using words or symbols) (noun)
   Sprache {f} :: language (the ability to communicate using words) (noun)
   Sprache {f} :: language (nonverbal communication) (noun)
   Sprache {f}, Sprachen {p} :: language (computer language) (noun)
@@ -5574,7 +5595,7 @@ Index: EN EN->DE
   einzeln :: odd (not having a mate) (adjective)
 ===material===
   Buch {n} :: book (collection of sheets of paper bound together containing printed or written material) (noun)
-  Knochen {m}, Gebeine {f}, (dated) Bein {n} :: bone (material) (noun)
+  Knochen {m}, Gebeine {f|p}, (dated) Bein {n} :: bone (material) (noun)
   (Middle High German) gebeine {n} :: bone (material) (noun)
   (Low German) (east) Bein {n}, (west) Been {n} :: bone (material) (noun)
   Sprungfeder {f}, Feder {f} :: spring (device made of flexible material) (noun)
@@ -5849,7 +5870,7 @@ Index: EN EN->DE
 ===negro===
   Neger {m} :: nigger (negro person) (noun)
 ***Netherlands***
-  Holland {n}, die Niederlande {n} :: Netherlands (country in northwestern Europe) (proper noun)
+  Holland {n}, die Niederlande {n|p} :: Netherlands (country in northwestern Europe) (proper noun)
   niederlandisch, holländisch :: Netherlands (pertaining to the Netherlands) (adjective)
   niederländisch, holländisch :: Dutch (of the Netherlands, people, or language) (adjective)
   Niederländer, Holländer :: Dutch (people from the Netherlands) (proper noun)
@@ -5885,7 +5906,7 @@ Index: EN EN->DE
 ===norms===
   anormal, abnormal :: abnormal (of or pertaining to behaviour that deviates from norms) (adjective)
 ===northwestern===
-  Holland {n}, die Niederlande {n} :: Netherlands (country in northwestern Europe) (proper noun)
+  Holland {n}, die Niederlande {n|p} :: Netherlands (country in northwestern Europe) (proper noun)
 ===not===
   frei, ungebunden :: free (not imprisoned) (adjective)
   unnormal, ungewöhnlich :: abnormal (not conforming to rule or system) (adjective)
@@ -6548,7 +6569,7 @@ Index: EN EN->DE
 ***quotidian***
   alltäglich wiederkehrend, täglich wiederkehrend :: quotidian (daily) (adjective)
   das Alltägliche, das täglich Wiederkehrende :: quotidian (common, mundane) (adjective)
-  täglich Fieber :: quotidian (quotidian fever) (noun)
+  tägliches (täglich) Fieber :: quotidian (quotidian fever) (noun)
   Alltag {m} :: quotidian (quotidian, daily thing) (noun)
   das Alltägliche :: quotidian (used in art criticism) (noun)
 ===race===
@@ -6606,7 +6627,7 @@ Index: EN EN->DE
 ===record===
   Wettliste {f} :: book (record of betting) (noun)
 ===records===
-  Bücher {n} :: book (usually in plural: records of the accounts of a business) (noun)
+  Bücher {n|p} :: book (usually in plural: records of the accounts of a business) (noun)
   biblisch :: biblical (exceeding previous records) (adjective)
 ===rectitude===
   Abweichung {f} :: aberrance (state of being aberrant; a wandering from the right way; deviation from truth, rectitude) (noun)
@@ -6647,7 +6668,7 @@ Index: EN EN->DE
 ===relating===
   adjektivisch, Adjektiv- :: adjectival (of or relating to or functioning as an adjective) (adjective)
   Kopf- :: head (of, relating to, or intended for the head) (adjective)
-  Herbst, herbstlich :: autumn (of or relating to autumn) (adjective)
+  Herbst- (Herbst), herbstlich :: autumn (of or relating to autumn) (adjective)
   polytheistisch :: polytheistic (of or relating to polytheism) (adjective)
   deutsch :: German (of or relating to the country of Germany) (adjective)
   deutsch :: German (of or relating to the German people) (adjective)
@@ -7253,7 +7274,7 @@ Index: EN EN->DE
   Zahl {f}, Ziffer {f} :: numeral (word or symbol representing a number) (noun)
 ===symbols===
   Sprache {f} :: language (system of communication using words or symbols) (noun)
-  (Old High German) sprahha :: language (system of communication using words or symbols) (noun)
+  (Old High German) sprāhha (sprahha) :: language (system of communication using words or symbols) (noun)
 ***synonym***
   Synonym {n} :: synonym (word with same meaning as another) (noun)
 ===synonyms===
@@ -7263,7 +7284,7 @@ Index: EN EN->DE
   Kalender {m} :: calendar (system by which time is divided) (noun)
   metrisch :: metric (relating to metric system) (adjective)
   Sprache {f} :: language (system of communication using words or symbols) (noun)
-  (Old High German) sprahha :: language (system of communication using words or symbols) (noun)
+  (Old High German) sprāhha (sprahha) :: language (system of communication using words or symbols) (noun)
   Eisenbahn {f}, Bahn {f} :: railway (transport system using these rails) (noun)
 ===tact===
   roh, grob :: crude (lacking tact or taste) (adjective)
@@ -7333,7 +7354,7 @@ Index: EN EN->DE
   Abort {m}, Abtreibung {f}, Interruptio {n} :: abortive (That which is born or brought forth prematurely; an abortion) (noun)
 ***the***
   (nominative case) der {m}, (nominative case) die {f}, (nominative case) das {n}, (nominative case) die {p}, ... :: the (article) (article)
-  (Low German) dat {n}, de {m}, dei {m} :: the (article) (article)
+  (Low German) dat {n}, de {m|f}, dei {m|f} :: the (article) (article)
   der {m}, die {f}, das {n}, die {p} :: the (stressed, indicating that the object in question is the only one worthy of attention) (article)
   der {m}, die {f}, das {n}, die {p} :: the (with a superlative) (article)
   der {m}, die {f}, das {n}, die {p} :: the (used with the name of a member of a class to refer to all things in that class) (article)
@@ -7622,11 +7643,11 @@ Index: EN EN->DE
   vereinfachtes Chinesisch {n}, Kurzzeichen {n} :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
   ausmalen :: color (draw using crayons) (verb)
   Sprache {f} :: language (system of communication using words or symbols) (noun)
-  (Old High German) sprahha :: language (system of communication using words or symbols) (noun)
+  (Old High German) sprāhha (sprahha) :: language (system of communication using words or symbols) (noun)
   Sprache {f} :: language (the ability to communicate using words) (noun)
   Eisenbahn {f}, Bahn {f} :: railway (transport system using these rails) (noun)
 ===usually===
-  Bücher {n} :: book (usually in plural: records of the accounts of a business) (noun)
+  Bücher {n|p} :: book (usually in plural: records of the accounts of a business) (noun)
   wenig :: few (indefinite, usually small number) (determiner)
 ===utter===
   jauchzen :: crow (To utter a sound of joy) (verb)
@@ -7810,7 +7831,7 @@ Index: EN EN->DE
   Kofferwort {n} :: portmanteau word (a word formed which combines the meaning of two words) (noun)
   verkürzen :: abridge (to shorten or contract by using fewer words) (verb)
   Sprache {f} :: language (system of communication using words or symbols) (noun)
-  (Old High German) sprahha :: language (system of communication using words or symbols) (noun)
+  (Old High German) sprāhha (sprahha) :: language (system of communication using words or symbols) (noun)
   Sprache {f} :: language (the ability to communicate using words) (noun)
   Sprache {f} :: language (particular words used) (noun)
 ===work===

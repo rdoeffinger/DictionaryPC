@@ -1,20 +1,15 @@
 For next release:
-fix \n in info
-help screen
+downloads
 about dict dialog
 history dialog
-num words in UI.
-eng_urdu
 fix up dictionary manager:
   thread that handles unzipping, downloading for the life of the application (so screen changes don't screw it up).
   check over UI.
 check arabic UI fix
 handle examples like "asdf (asdf)"
 random word jump
-multiword find.
 italian verbs... (show conjugation, pulled from a linked place....--would lower size a lot!)
 better example splitting
-! enter should hide keyboard
 
 Handle other sections:
   Pronunciation
@@ -93,3 +88,13 @@ refactor wiki parsing.
 new dictionary version: with links!
 parse dictionary_info file in client to show default dictionaries.
 black/blue background title rows, gray side pane for other language side
+faster search
+show "no search results"
+fix {t}
+add langs
+fix \n in info
+help screen
+num words in UI.
+multiword find.
+! enter should hide keyboard
+eng_urdu

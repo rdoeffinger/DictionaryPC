@@ -36,7 +36,7 @@ public class EnWiktionaryLangs {
     isoCodeToWikiName.put("HU", "Hungarian");
     isoCodeToWikiName.put("IS", "Icelandic");
     isoCodeToWikiName.put("ID", "Indonesian");
-    isoCodeToWikiName.put("GA", "Irish");
+    isoCodeToWikiName.put("GA", "Gaelic");
     isoCodeToWikiName.put("IT", "Italian");
     isoCodeToWikiName.put("LA", "Latin");
     isoCodeToWikiName.put("LV", "Latvian");
@@ -73,6 +73,20 @@ public class EnWiktionaryLangs {
     isoCodeToWikiName.put("CI", "Welsh");
     isoCodeToWikiName.put("YI", "Yiddish");
     isoCodeToWikiName.put("ZU", "Zulu");
+
+    
+    isoCodeToWikiName.put("AZ", "Azeri");
+    isoCodeToWikiName.put("EU", "Basque");
+    isoCodeToWikiName.put("BR", "Breton");
+    isoCodeToWikiName.put("MR", "Burmese");
+    isoCodeToWikiName.put("FO", "Faroese");
+    isoCodeToWikiName.put("GL", "Galician");
+    isoCodeToWikiName.put("KA", "Georgian");
+    isoCodeToWikiName.put("HT", "Haitian Creole");
+    isoCodeToWikiName.put("LB", "Luxembourgish");
+    isoCodeToWikiName.put("MK", "Macedonian");
+    
+    
   }
 
 

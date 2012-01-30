@@ -15,6 +15,7 @@
 package com.hughes.android.dictionary.parser.enwiktionary;
 
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.LinkedHashMap;
 import java.util.LinkedHashSet;
 import java.util.List;
@@ -115,7 +116,9 @@ public final class FunctionCallbacksDefault {
         final Map<String, String> namedArgs, final EnWiktionaryXmlParser parser,
         final AppendAndIndexWikiCallback appendAndIndexWikiCallback) {
       
-      appendAndIndexWikiCallback.builder.append(name);
+      if (name != null) {
+        appendAndIndexWikiCallback.builder.append(name);
+      }
       for (int i = 0; i < args.size(); ++i) {
         if (args.get(i).length() > 0) {
           appendAndIndexWikiCallback.builder.append("|");
@@ -128,7 +131,7 @@ public final class FunctionCallbacksDefault {
   }
   static NameAndArgs NAME_AND_ARGS = new NameAndArgs();
 
-  private static void appendNamedArgs(final Map<String, String> namedArgs,
+  static void appendNamedArgs(final Map<String, String> namedArgs,
       final AppendAndIndexWikiCallback appendAndIndexWikiCallback) {
     for (final Map.Entry<String, String> entry : namedArgs.entrySet()) {
       appendAndIndexWikiCallback.builder.append("|");
@@ -155,6 +158,7 @@ public final class FunctionCallbacksDefault {
         final AppendAndIndexWikiCallback appendAndIndexWikiCallback) {
 
       final String transliteration = namedArgs.remove("tr");
+      final String alt = namedArgs.remove("alt");
       namedArgs.keySet().removeAll(EnWiktionaryXmlParser.USELESS_WIKI_ARGS);
       if (args.size() < 2) {
         LOG.warning("{{t...}} with wrong args: title=" + parser.title);
@@ -166,19 +170,41 @@ public final class FunctionCallbacksDefault {
       }
       appendAndIndexWikiCallback.langCodeToTCount.get(langCode).incrementAndGet();
       final String word = ListUtil.get(args, 1);
-      final String gender = ListUtil.get(args, 2);
-      // TODO: deal with second (and third...) gender, and alt.
-      
-      appendAndIndexWikiCallback.dispatch(word, EntryTypeName.WIKTIONARY_TITLE_MULTI);
-      
-      if (gender != null) {
-        appendAndIndexWikiCallback.builder.append(String.format(" {%s}", gender));
+      appendAndIndexWikiCallback.dispatch(alt != null ? alt : word, EntryTypeName.WIKTIONARY_TITLE_MULTI);
+
+      // Genders...
+      if (args.size() > 2) {
+        appendAndIndexWikiCallback.builder.append(" {");
+        for (int i = 2; i < args.size(); ++i) {
+          if (i > 2) {
+            appendAndIndexWikiCallback.builder.append("|");
+          }
+          appendAndIndexWikiCallback.builder.append(args.get(i));
+        }
+        appendAndIndexWikiCallback.builder.append("}");
       }
+
       if (transliteration != null) {
         appendAndIndexWikiCallback.builder.append(" (");
         appendAndIndexWikiCallback.dispatch(transliteration, EntryTypeName.WIKTIONARY_TRANSLITERATION);
         appendAndIndexWikiCallback.builder.append(")");
       }
+      
+      if (alt != null) {
+        // If alt wasn't null, we appended alt instead of the actual word
+        // we're filing under..
+        appendAndIndexWikiCallback.builder.append(" (");
+        appendAndIndexWikiCallback.dispatch(word, EntryTypeName.WIKTIONARY_TITLE_MULTI);
+        appendAndIndexWikiCallback.builder.append(")");
+      }
+
+      // Catch-all for anything else...
+      if (!namedArgs.isEmpty()) {
+        appendAndIndexWikiCallback.builder.append(" {");
+        FunctionCallbacksDefault.appendNamedArgs(namedArgs, appendAndIndexWikiCallback);
+        appendAndIndexWikiCallback.builder.append("}");
+      }
+      
       return true;
     }
     

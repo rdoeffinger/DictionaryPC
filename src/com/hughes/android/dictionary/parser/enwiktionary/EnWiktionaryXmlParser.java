@@ -23,10 +23,12 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
+import java.util.LinkedHashMap;
 import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
+import java.util.concurrent.atomic.AtomicInteger;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.regex.Pattern;
@@ -119,6 +121,9 @@ public class EnWiktionaryXmlParser {
       System.out.println("lang Counts: " + appendAndIndexWikiCallback.langCodeToTCount);
       appendAndIndexWikiCallback.langCodeToTCount.keySet().removeAll(EnWiktionaryLangs.isoCodeToWikiName.keySet());
       System.out.println("unused Counts: " + appendAndIndexWikiCallback.langCodeToTCount);
+      System.out.println("lang Counts: " + langNameToTCount);
+      langNameToTCount.keySet().removeAll(EnWiktionaryLangs.isoCodeToWikiName.values());
+      System.out.println("unknown counts: " + langNameToTCount);
     }
   }
   
@@ -190,6 +195,8 @@ public class EnWiktionaryXmlParser {
     appendAndIndexWikiCallback.functionCallbacks.putAll(FunctionCallbacksDefault.DEFAULT);
   }
   
+  final Map<String,AtomicInteger> langNameToTCount = new LinkedHashMap<String, AtomicInteger>();
+  
   private void doTranslations(final WikiTokenizer wikiTokenizer, final String pos) {
     if (title.equals("absolutely")) {
       //System.out.println();
@@ -240,9 +247,9 @@ public class EnWiktionaryXmlParser {
         final String line = wikiTokenizer.listItemWikiText();
         // This line could produce an output...
         
-        if (line.contains("ich hoan dich gear")) {
-          //System.out.println();
-        }
+//        if (line.contains("ich hoan dich gear")) {
+//          //System.out.println();
+//        }
         
         // First strip the language and check whether it matches.
         // And hold onto it for sub-lines.
@@ -252,6 +259,10 @@ public class EnWiktionaryXmlParser {
         }
         
         final String lang = trim(WikiTokenizer.toPlainText(line.substring(0, colonIndex)));
+        if (!langNameToTCount.containsKey(lang)) {
+          langNameToTCount.put(lang, new AtomicInteger());
+        }
+        langNameToTCount.get(lang).incrementAndGet();
         final boolean appendLang;
         if (wikiTokenizer.listItemPrefix().length() == 1) {
           topLevelLang = lang;

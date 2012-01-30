@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.french 6667
+EntrySource: enwiktionary.french 6703
 
 Index: FR FR->EN
 ===00===
@@ -8449,6 +8449,12 @@ Index: EN EN->FR
   pipe {{fr-noun|f}} :: {vulgar} fellatio.
     Faire une pipe. :: --
     Tailler une pipe. :: --
+===female===
+  cane {{fr-noun|f}} :: duck (female duck)
+  blonde {{fr-noun|f}} :: blonde, female with blonde hair
+  rate {{fr-noun|f}} :: (female) rat
+  (Middle French) femme {{frm-noun|f|s}} :: woman (female adult human being)
+  (Old French) con {{fro-noun|m}} :: {vulgar} cunt (human female genitalia)
 ===feminine===
   abstruse (adjective) :: feminine inflection of abstrus
   close {fr-verb-form} :: feminine of clos
@@ -8617,6 +8623,30 @@ Index: EN EN->FR
   en {fr-prep} :: of, made of (used to describe composition)
     Une chaise en hêtre :: a chair made of beech/a beech chair
     une fourchette en métal :: a fork made of metal, a metal fork
+===form===
+  former {fr-verb} :: to form (generic sense)
+  Fanny {fr-proper noun} :: {{given name|female}} borrowed from English; also used as a pet form of Stéphanie.
+  case {{fr-noun|f}} :: box (on form)
+  carmine {fr-verb-form} :: a singular present imperfect form of carminer
+  rata :: third-person singular past historic form of rater
+  vomit :: third-person singular present indicative form of vomir
+  vomit :: third-person singular past historic form of vomir
+  rate {fr-verb-form} :: first-person singular indicative present form of rater
+  rate {fr-verb-form} :: third-person singular indicative present form of rater
+  rate {fr-verb-form} :: first-person singular subjunctive present form of rater
+  rate {fr-verb-form} :: third-person singular subjunctive present form of rater
+  suit :: third-person singular present indicative form of suivre
+  être {{fr-verb|type=auxiliary}} :: {auxiliary} Used to form the perfect and pluperfect tense of certain verbs (including all reflexive verbs)
+    Après être allé au yoga, je suis rentré chez moi. :: After having gone to yoga, I came back home.
+  être {{fr-verb|type=auxiliary}} :: {auxiliary} to be (Used to form the passive voice)
+    Il peut être battu ce soir. :: He could be beaten this evening.
+  avoir {{fr-verb|type=auxiliary}} :: {{context|auxiliary}} to have (auxiliary verb to form compound past tenses of most verbs)
+    j'ai parlé :: I have spoken
+  (Middle French) avoir (verb) :: {{context|auxiliary verb}} to have (verb used to form the perfect tense)
+  (Old French) avoir (verb) :: {{context|auxiliary verb}} to have (verb used to form the perfect tense)
+  dame {{fr-noun|f}} :: A polite form of address for a woman.
+  arbre {{fr-noun|m}} :: tree (plant, diagram, anything in the form of a tree)
+  coke {{fr-noun|m}} :: coke (form of carbon)
 ===Form===
   bel {fr-adj-form} :: Form of beau to be used before masculine nouns starting with a vowel.
   quatre-vingt {{fr-noun-inv|m}} :: {France} Form of quatre-vingts (eighty) used in compounds (the numbers 81 to 99, larger numbers ending in numbers from 81 to 99, and the ordinal numbers corresponding to any of these numbers).
@@ -9905,6 +9935,18 @@ Index: EN EN->FR
   koala {{fr-noun|m}} :: koala
 ===Kong===
   Hong Kong {fr-proper noun} :: Hong Kong
+===la===
+  sol {{fr-noun|m}} :: {music} sol, the fifth step in the solfège scale of C, preceded by fa and followed by la.
+  en (pronoun) :: Adverbial preposition indicating movement away from a place already mentioned. En replaces the partitive article (du, de la, etc.)
+    Est-ce qu'elle vient de Barcelone ? Oui, elle en vient. :: Does she come from Barcelona? Yes, she does.
+  Zaïre {{fr-proper noun|m}} :: Zaire, former name of the Democratic Republic of the Congo, la République du Zaïre
+  (Old French) face {{fro-noun|f}} :: {anatomy} face
+    circa 1170, {{w|Chrétien de Troyes}}, Érec et Énide: :: Le chief li desarme et la face.
+    He exposed his head and his face. :: --
+  (Old French) sale {{fro-noun|f}} :: room (subsection of a building)
+    circa 1170, {{w|Chrétien de Troyes}}, Érec et Énide: :: ... que la soe amie<br>Est la plus bele de la sale[.]
+    -... The his wife :: --
+    Is the most beautiful in the room :: --
 ===La===
   (Old French) ermine {{fro-noun|f}} :: ermine (fabric)
     circa 1170, {{w|Chrétien de Troyes}}, Érec et Énide: :: La pane fu de blanc ermine
@@ -9990,6 +10032,13 @@ Index: EN EN->FR
   robin {{fr-noun|m}} :: {{archaic|pejorative| lang=fr}} lawyer
 ===lay===
   civil {fr-adj} :: {politics} lay
+===le===
+  (Old French) al (contraction) :: contraction of a + le (to the)
+  (Old French) del (contraction) :: contraction of de + le (of the)
+  du (contraction) :: contraction of de + le (of the).
+  du (contraction) :: contraction of de + le, forms the partitive article.
+    The partitive article signifies "some", but it often is not translated in English, Dutch, or German. :: --
+  (Old French) du (contraction) :: contraction of de + le (of the)
 ===Le===
   (Old French) face {{fro-noun|f}} :: {anatomy} face
     circa 1170, {{w|Chrétien de Troyes}}, Érec et Énide: :: Le chief li desarme et la face.
@@ -10058,6 +10107,10 @@ Index: EN EN->FR
     circa 1170, {{w|Chrétien de Troyes}}, Érec et Énide: :: quel haste avez,<br />Qui a tel ore vos levez?
     What haste do you have :: --
     That wakes up at this time of day? :: --
+===li===
+  (Old French) face {{fro-noun|f}} :: {anatomy} face
+    circa 1170, {{w|Chrétien de Troyes}}, Érec et Énide: :: Le chief li desarme et la face.
+    He exposed his head and his face. :: --
 ===liberty===
   libre {fr-adj-mf} :: free, at liberty
     Un homme libre. :: A free man.

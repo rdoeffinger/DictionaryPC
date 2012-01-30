@@ -178,16 +178,32 @@ public class DictionaryTest extends TestCase {
   }
 
   public void testMultiSearchBig() throws IOException {
-    final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "EN-IT_enwiktionary.quickdic", "r");
+    final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "DE-EN_chemnitz_enwiktionary.quickdic", "r");
     final Dictionary dict = new Dictionary(raf);
-    final Index enIndex = dict.indices.get(0);
+    final Index enIndex = dict.indices.get(1);
 
     {
-    final List<RowBase> rows = enIndex.multiWordSearch(Arrays.asList("space", "station"), new AtomicBoolean(false));
+    final List<RowBase> rows = enIndex.multiWordSearch(Arrays.asList("train", "station"), new AtomicBoolean(false));
     System.out.println(CollectionUtil.join(rows, "\n  "));
     assertTrue(rows.toString(), rows.size() > 0);
+    assertEquals("Bahnhof {{de-noun|g=m|genitive=Bahnhofs|genitive2=Bahnhofes|plural=Bahnhöfe}}\ttrain station", rows.get(0).toString());
     }
-    
+
+    {
+    final List<RowBase> rows = enIndex.multiWordSearch(Arrays.asList("a", "train", "station"), new AtomicBoolean(false));
+    System.out.println(CollectionUtil.join(rows, "\n  "));
+    assertTrue(rows.toString(), rows.size() > 0);
+    assertEquals("Bahnhofsuhr {{de-noun|g=f|plural=Bahnhofsuhren}}\tstation clock (at a train station)", rows.get(0).toString());
+    }
+
+    {
+    final List<RowBase> rows = enIndex.multiWordSearch(Arrays.asList("a", "station"), new AtomicBoolean(false));
+    // TODO: bug, "a" isn't in stoplist for now...
+    System.out.println(CollectionUtil.join(rows, "\n  "));
+    assertTrue(rows.toString(), rows.size() == 0);
+    //assertEquals("Bahnhofsuhr {{de-noun|g=f|plural=Bahnhofsuhren}}\tstation clock (at a train station)", rows.get(0).toString());
+    }
+
     raf.close();
   }
 

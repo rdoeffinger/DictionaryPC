@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.english 3462
+EntrySource: enwiktionary.english 3472
 
 Index: IT IT->EN
 ===15===
@@ -516,7 +516,7 @@ Index: IT IT->EN
   torta {f}, crostata {f} :: pie (type of pastry) (noun)
 ***crudo***
   ovvio, crudo :: crude (lacking concealing elements) (adjective)
-  volgare {m}, crudo, semplice, grezzo :: crude (lacking tact or taste) (adjective)
+  volgare {m|f}, crudo, semplice, grezzo :: crude (lacking tact or taste) (adjective)
 ***crusca***
   crusca {f} :: crap (husk of grain) (noun)
 ***dado***
@@ -715,7 +715,7 @@ Index: IT IT->EN
 ***fisarmonica***
   fisarmonica {f} :: accordion (A small, portable, keyed wind instrument) (noun)
 ***fisarmonicista***
-  fisarmonicista {m} :: accordionist (player of the accordion) (noun)
+  fisarmonicista {m|f} :: accordionist (player of the accordion) (noun)
 ***flatulente***
   flatulente :: flatulent (affected by gas in the intestine) (adjective)
 ***flauto***
@@ -774,11 +774,11 @@ Index: IT IT->EN
 ***glande***
   glande {m}, cappella {f} :: dickhead ((slang) glans penis) (noun)
 ***gli***
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (article) (article)
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (used as an alternative to a possessive pronoun before body parts) (article)
-  i {m}, gli {m}, le {f} :: the (with an adjectival noun, as in “the hungry” to mean “hungry people”) (article)
-  il {m}, lo {m}, la {f}; i {m}, gli {m}, le {f} :: the (with a superlative) (article)
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (used with the name of a member of a class to refer to all things in that class) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (article) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used as an alternative to a possessive pronoun before body parts) (article)
+  i {m|p}, gli {m|p}, le {f|p} :: the (with an adjectival noun, as in “the hungry” to mean “hungry people”) (article)
+  il {m}, lo {m}, la {f}; i {m|p}, gli {m|p}, le {f|p} :: the (with a superlative) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used with the name of a member of a class to refer to all things in that class) (article)
 ***googlare***
   googlare, guglare :: google (to search for on the Internet) (verb)
 ***graminacea***
@@ -795,7 +795,7 @@ Index: IT IT->EN
   greggio {m}, grezzo {m} :: crude (any substance in its natural state) (noun)
 ***grezzo***
   greggio {m}, grezzo :: crude (being in a natural state) (adjective)
-  volgare {m}, crudo, semplice, grezzo :: crude (lacking tact or taste) (adjective)
+  volgare {m|f}, crudo, semplice, grezzo :: crude (lacking tact or taste) (adjective)
   greggio {m}, grezzo {m} :: crude (any substance in its natural state) (noun)
 ***groccare***
   groccare :: grok (to have an intuitive understanding) (verb)
@@ -809,20 +809,20 @@ Index: IT IT->EN
 ===He===
   forse, può essere che + subjunctive; He may be lying — Forse sta mentendo, Può essere che stia mentendo :: may (possibly, but not certainly) (verb)
 ***i***
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (article) (article)
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (used as an alternative to a possessive pronoun before body parts) (article)
-  i {m}, gli {m}, le {f} :: the (with an adjectival noun, as in “the hungry” to mean “hungry people”) (article)
-  il {m}, lo {m}, la {f}; i {m}, gli {m}, le {f} :: the (with a superlative) (article)
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (used with the name of a member of a class to refer to all things in that class) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (article) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used as an alternative to a possessive pronoun before body parts) (article)
+  i {m|p}, gli {m|p}, le {f|p} :: the (with an adjectival noun, as in “the hungry” to mean “hungry people”) (article)
+  il {m}, lo {m}, la {f}; i {m|p}, gli {m|p}, le {f|p} :: the (with a superlative) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used with the name of a member of a class to refer to all things in that class) (article)
 ***identificare***
   identificare :: name (publicly implicate) (verb)
 ===idrico===
   bacino idrico :: pound (part of canal) (noun)
 ***il***
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (article) (article)
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (used as an alternative to a possessive pronoun before body parts) (article)
-  il {m}, lo {m}, la {f}; i {m}, gli {m}, le {f} :: the (with a superlative) (article)
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (used with the name of a member of a class to refer to all things in that class) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (article) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used as an alternative to a possessive pronoun before body parts) (article)
+  il {m}, lo {m}, la {f}; i {m|p}, gli {m|p}, le {f|p} :: the (with a superlative) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used with the name of a member of a class to refer to all things in that class) (article)
 ***improvvisamente***
   improvvisamente :: abruptly (precipitously) (adverb)
 ***in***
@@ -874,10 +874,10 @@ Index: IT IT->EN
 ***ità***
   -ità {f} :: -ity (Used to form nouns from adjectives.) (suffix)
 ***la***
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (article) (article)
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (used as an alternative to a possessive pronoun before body parts) (article)
-  il {m}, lo {m}, la {f}; i {m}, gli {m}, le {f} :: the (with a superlative) (article)
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (used with the name of a member of a class to refer to all things in that class) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (article) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used as an alternative to a possessive pronoun before body parts) (article)
+  il {m}, lo {m}, la {f}; i {m|p}, gli {m|p}, le {f|p} :: the (with a superlative) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used with the name of a member of a class to refer to all things in that class) (article)
 ***lasciare***
   abbandonare, lasciare, mollare :: abandon (to give up) (verb)
 ***latrina***
@@ -887,11 +887,11 @@ Index: IT IT->EN
 ***lattina***
   lattina {f} :: can (a more or less cylindrical vessel for liquids) (noun)
 ***le***
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (article) (article)
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (used as an alternative to a possessive pronoun before body parts) (article)
-  i {m}, gli {m}, le {f} :: the (with an adjectival noun, as in “the hungry” to mean “hungry people”) (article)
-  il {m}, lo {m}, la {f}; i {m}, gli {m}, le {f} :: the (with a superlative) (article)
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (used with the name of a member of a class to refer to all things in that class) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (article) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used as an alternative to a possessive pronoun before body parts) (article)
+  i {m|p}, gli {m|p}, le {f|p} :: the (with an adjectival noun, as in “the hungry” to mean “hungry people”) (article)
+  il {m}, lo {m}, la {f}; i {m|p}, gli {m|p}, le {f|p} :: the (with a superlative) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used with the name of a member of a class to refer to all things in that class) (article)
 ***lente***
   lentille {f}, lente {f} :: lens (object focusing or defocusing the light passing through it) (noun)
 ***lenticchia***
@@ -937,10 +937,10 @@ Index: IT IT->EN
 ===livello===
   livello di definizione :: definition (action or power of describing, explaining, or making definite) (noun)
 ***lo***
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (article) (article)
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (used as an alternative to a possessive pronoun before body parts) (article)
-  il {m}, lo {m}, la {f}; i {m}, gli {m}, le {f} :: the (with a superlative) (article)
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (used with the name of a member of a class to refer to all things in that class) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (article) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used as an alternative to a possessive pronoun before body parts) (article)
+  il {m}, lo {m}, la {f}; i {m|p}, gli {m|p}, le {f|p} :: the (with a superlative) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used with the name of a member of a class to refer to all things in that class) (article)
 ===luce===
   velocità della luce {f} :: lightspeed (the speed of light) (noun)
 ***luglio***
@@ -1038,9 +1038,9 @@ Index: IT IT->EN
 ***morso***
   morso {m}, freno :: bit (metal in horse's mouth) (noun)
 ***musicista***
-  musicista {m}, musico {m} :: musician (person who performs or writes music) (noun)
+  musicista {m|f}, musico {m} :: musician (person who performs or writes music) (noun)
 ***musico***
-  musicista {m}, musico {m} :: musician (person who performs or writes music) (noun)
+  musicista {m|f}, musico {m} :: musician (person who performs or writes music) (noun)
 ***nascere***
   nascere, generarsi, formarsi :: spring (start to exist) (verb)
 ***nascita***
@@ -1101,11 +1101,11 @@ Index: IT IT->EN
 ***Olanda***
   Paesi Bassi {m|p}, Olanda {f} :: Netherlands (country in northwestern Europe) (proper noun)
 ***olandese***
-  olandese {m}, olandesi {m} :: Dutch (of the Netherlands, people, or language) (adjective)
+  olandese {m|f}, olandesi {m|f|p} :: Dutch (of the Netherlands, people, or language) (adjective)
   nederlandese, olandese :: Dutch (the Dutch language) (proper noun)
   olandese :: Netherlands (pertaining to the Netherlands) (adjective)
 ***olandesi***
-  olandese {m}, olandesi {m} :: Dutch (of the Netherlands, people, or language) (adjective)
+  olandese {m|f}, olandesi {m|f|p} :: Dutch (of the Netherlands, people, or language) (adjective)
 ***ombrello***
   ombrello {m}, parapioggia :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
 ===or===
@@ -1412,7 +1412,7 @@ Index: IT IT->EN
 ***sei***
   sei :: six (cardinal number) (cardinal number)
 ***semplice***
-  volgare {m}, crudo, semplice, grezzo :: crude (lacking tact or taste) (adjective)
+  volgare {m|f}, crudo, semplice, grezzo :: crude (lacking tact or taste) (adjective)
 ===semplificato===
   cinese semplificato {m} :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
 ===senses===
@@ -1648,7 +1648,7 @@ Index: IT IT->EN
   Ti voglio bene (informal singular), Vi voglio bene (plural or formal) :: I love you (affirmation of affection or deep caring) (phrase)
   Ti voglio bene (singular informal), Vi voglio bene (plural or formal) :: I love you (platonic expression of inclination or liking) (phrase)
 ***volgare***
-  volgare {m}, crudo, semplice, grezzo :: crude (lacking tact or taste) (adjective)
+  volgare {m|f}, crudo, semplice, grezzo :: crude (lacking tact or taste) (adjective)
 ***word***
   word {m} :: word (computing: fixed-size group of bits handled as a unit) (noun)
 ***zero***
@@ -1975,9 +1975,9 @@ Index: EN EN->IT
   accordo {m} :: accord (agreement or concurrence of opinion) (noun)
 ***accordion***
   fisarmonica {f} :: accordion (A small, portable, keyed wind instrument) (noun)
-  fisarmonicista {m} :: accordionist (player of the accordion) (noun)
+  fisarmonicista {m|f} :: accordionist (player of the accordion) (noun)
 ***accordionist***
-  fisarmonicista {m} :: accordionist (player of the accordion) (noun)
+  fisarmonicista {m|f} :: accordionist (player of the accordion) (noun)
 ===account===
   etimologia {f} :: etymology (account of the origin and historical development of a word) (noun)
   perché :: because (by or for the cause that; on this account that; for the reason that) (conjunction)
@@ -2025,7 +2025,7 @@ Index: EN EN->IT
 ***AD***
   d.C. (dopo Cristo) :: AD (anno Domini) ({{initialism}})
 ===adjectival===
-  i {m}, gli {m}, le {f} :: the (with an adjectival noun, as in “the hungry” to mean “hungry people”) (article)
+  i {m|p}, gli {m|p}, le {f|p} :: the (with an adjectival noun, as in “the hungry” to mean “hungry people”) (article)
 ***adjective***
   aggettivale :: adjective (functioning as an adjective) (adjective)
   aggettivo {m} :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
@@ -2083,7 +2083,7 @@ Index: EN EN->IT
   cane {m} :: dog (morally reprehensible person, See also scoundrel) (noun)
   al traverso :: abreast (nautical: side by side; also, opposite; over against; on a line with the vessel's beam) (adverb)
 ===alternative===
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (used as an alternative to a possessive pronoun before body parts) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used as an alternative to a possessive pronoun before body parts) (article)
 ===amount===
   dose {f} :: deal (large number or amount or extent) (noun)
   prodotto {m} :: product (amount created by a process) (noun)
@@ -2166,7 +2166,7 @@ Index: EN EN->IT
   lessicografia {f} :: lexicography (art or craft of writing dictionaries) (noun)
   comitologia {f} :: comitology (art of resolving issues by committees) (noun)
 ===article===
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (article) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (article) (article)
 ===articles===
   enciclopedia {f} :: encyclopedia (comprehensive reference with articles on a range of topic) (noun)
 ===Asia===
@@ -2253,7 +2253,7 @@ Index: EN EN->IT
   birra {f} :: beer (alcoholic drink made of malt) (noun)
 ===before===
   suddetto, succitato :: above-mentioned (mentioned or named before; aforesaid) (adjective)
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (used as an alternative to a possessive pronoun before body parts) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used as an alternative to a possessive pronoun before body parts) (article)
   zero {m} :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   precolombiano :: pre-Columbian (before Christopher Columbus) (adjective)
   a.C. (avanti Cristo) :: BC (before Christ) ({{initialism}})
@@ -2316,7 +2316,7 @@ Index: EN EN->IT
   pianeta {m} :: planet (rocky or gaseous spherical bodies orbiting the Sun) (noun)
 ===body===
   testa {f}, capo {m} :: head (part of the body) (noun)
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (used as an alternative to a possessive pronoun before body parts) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used as an alternative to a possessive pronoun before body parts) (article)
   pianeta {m} :: planet (similar body in orbit around a star) (noun)
   stella {f} :: star (luminous celestial body) (noun)
   anno {m} :: year (time it takes for any planetary body to make one revolution around another body) (noun)
@@ -2509,7 +2509,7 @@ Index: EN EN->IT
   definizione {f} :: definition (clarity, especially of musical sound in reproduction) (noun)
 ===class===
   nome {m} :: name (word or phrase indicating a particular person, place, class or thing) (noun)
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (used with the name of a member of a class to refer to all things in that class) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used with the name of a member of a class to refer to all things in that class) (article)
 ===cleansing===
   abluzione {f} :: ablution (the act of washing or cleansing) (noun)
 ***clock***
@@ -2690,7 +2690,7 @@ Index: EN EN->IT
   greggio {m}, grezzo :: crude (being in a natural state) (adjective)
   rustico, raffazzonato :: crude (characterized by simplicity) (adjective)
   ovvio, crudo :: crude (lacking concealing elements) (adjective)
-  volgare {m}, crudo, semplice, grezzo :: crude (lacking tact or taste) (adjective)
+  volgare {m|f}, crudo, semplice, grezzo :: crude (lacking tact or taste) (adjective)
   raffazzonato :: crude (statistics: in an unanalyzed form) (adjective)
   acerbo :: crude (immature or unripe) (adjective)
   greggio {m}, grezzo {m} :: crude (any substance in its natural state) (noun)
@@ -2951,7 +2951,7 @@ Index: EN EN->IT
 ===during===
   (not translated) :: on (sometime during the day of) (preposition)
 ***Dutch***
-  olandese {m}, olandesi {m} :: Dutch (of the Netherlands, people, or language) (adjective)
+  olandese {m|f}, olandesi {m|f|p} :: Dutch (of the Netherlands, people, or language) (adjective)
   nederlandese, olandese :: Dutch (the Dutch language) (proper noun)
 ===dwell===
   vivere, abitare, risiedere, dimorare :: abide (to dwell) (verb)
@@ -3120,6 +3120,8 @@ Index: EN EN->IT
   ti amo (informal singular), vi amo (plural or formal) :: I love you (affirmation of romantic feeling) (phrase)
 ===Felidae===
   felino {m}, felina {f} :: cat (member of Felidae) (noun)
+===female===
+  badessa :: abbess (female superior of a nunnery) (noun)
 ***few***
   poco :: few (indefinite, usually small number) (determiner)
   pochi :: few (small number) (determiner)
@@ -3195,6 +3197,16 @@ Index: EN EN->IT
   stupro {m}, violento {m} :: rape (act of forcing sexual activity) (noun)
 ===foreigner===
   straniero {m}, forestiero {m} :: alien (foreigner) (noun)
+===form===
+  abbreviazione {f} :: abbreviation (shortened or contracted form of a word or phrase) (noun)
+  plurale {m} :: plural (word in plural form) (noun)
+  extraterrestre, alieno :: alien (life form of non-Earth origin) (noun)
+  raffazzonato :: crude (statistics: in an unanalyzed form) (adjective)
+  andare, venire :: be (elliptical form of "be here", or similar) (verb)
+  essere :: be (used to form the passive voice) (verb)
+  stare :: be (used to form the continuous forms of various tenses) (verb)
+  -ità {f} :: -ity (Used to form nouns from adjectives.) (suffix)
+  singolare {m} :: singular (grammar: form of a word that refers to only one thing) (noun)
 ===formal===
   marcia {f} :: march (formal, rhythmic way of walking) (noun)
 ===formed===
@@ -3466,7 +3478,7 @@ Index: EN EN->IT
   uomo {m} :: man (adult male human) (noun)
   uomo :: man (human) (noun)
 ===hungry===
-  i {m}, gli {m}, le {f} :: the (with an adjectival noun, as in “the hungry” to mean “hungry people”) (article)
+  i {m|p}, gli {m|p}, le {f|p} :: the (with an adjectival noun, as in “the hungry” to mean “hungry people”) (article)
 ===husk===
   crusca {f} :: crap (husk of grain) (noun)
 ***hyponym***
@@ -3610,7 +3622,7 @@ Index: EN EN->IT
   numerare :: number (label with numbers; assign numbers to) (verb)
 ===lacking===
   ovvio, crudo :: crude (lacking concealing elements) (adjective)
-  volgare {m}, crudo, semplice, grezzo :: crude (lacking tact or taste) (adjective)
+  volgare {m|f}, crudo, semplice, grezzo :: crude (lacking tact or taste) (adjective)
 ===lake===
   stagno {m} :: pond (small lake) (noun)
 ***language***
@@ -3631,7 +3643,7 @@ Index: EN EN->IT
   irlandese {m}, gaelico {m} :: Irish (the language) (proper noun)
   irlandese :: Irish (pertaining to the language) (adjective)
   esperanto :: Esperanto (auxiliary language) (proper noun)
-  olandese {m}, olandesi {m} :: Dutch (of the Netherlands, people, or language) (adjective)
+  olandese {m|f}, olandesi {m|f|p} :: Dutch (of the Netherlands, people, or language) (adjective)
   nederlandese, olandese :: Dutch (the Dutch language) (proper noun)
 ===languages===
   etimologia {f} :: etymology (study of the historical development of languages, particularly of individual words) (noun)
@@ -3820,7 +3832,7 @@ Index: EN EN->IT
   biancospino {m} :: may (the hawthorn bush or its blossom) (noun)
   potere :: can (may) (verb)
 ===mean===
-  i {m}, gli {m}, le {f} :: the (with an adjectival noun, as in “the hungry” to mean “hungry people”) (article)
+  i {m|p}, gli {m|p}, le {f|p} :: the (with an adjectival noun, as in “the hungry” to mean “hungry people”) (article)
 ===meaning===
   antonimo {m} :: antonym (word which has the opposite meaning) (noun)
   sinonimo {m} :: synonym (word with same meaning as another) (noun)
@@ -3856,7 +3868,7 @@ Index: EN EN->IT
   felino {m}, felina {f} :: cat (member of Felidae) (noun)
   abaco {m} :: abacus (uppermost member of the capital of a column) (noun)
   abecedariano :: abecedarian ( a member of a XVI° century sect) (noun)
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (used with the name of a member of a class to refer to all things in that class) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used with the name of a member of a class to refer to all things in that class) (article)
   accademico {m} :: academian (member of an academy) (noun)
 ===mention===
   scegliere, eleggere :: name (mention, specify, choose) (verb)
@@ -3955,13 +3967,13 @@ Index: EN EN->IT
 ===music===
   marcia {f} :: march (song in the genre of music written for marching) (noun)
   abbreviazione :: abbreviation (music: one or more dashes through the stem of a note) (noun)
-  musicista {m}, musico {m} :: musician (person who performs or writes music) (noun)
+  musicista {m|f}, musico {m} :: musician (person who performs or writes music) (noun)
 ===musical===
   definizione {f} :: definition (clarity, especially of musical sound in reproduction) (noun)
   metrico :: metric (relating to musical meter) (adjective)
   aria {f} :: aria (type of musical piece) (noun)
 ***musician***
-  musicista {m}, musico {m} :: musician (person who performs or writes music) (noun)
+  musicista {m|f}, musico {m} :: musician (person who performs or writes music) (noun)
 ===n===
   enne {f} :: en (name of the letter N, n) (noun)
 ===N===
@@ -3976,7 +3988,7 @@ Index: EN EN->IT
   nominare :: name (designate for a role) (verb)
   nome {m} :: first name (name chosen by parents) (noun)
   Fabiano :: Fabian (male given name) (proper noun)
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (used with the name of a member of a class to refer to all things in that class) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used with the name of a member of a class to refer to all things in that class) (article)
   enne {f} :: en (name of the letter N, n) (noun)
   nome proprio :: proper noun (The name of a particular person, place, organization or other individual entity) (noun)
   Edoardo, Eduardo :: Edward (male given name) (proper noun)
@@ -4005,7 +4017,7 @@ Index: EN EN->IT
 ***Netherlands***
   Paesi Bassi {m|p}, Olanda {f} :: Netherlands (country in northwestern Europe) (proper noun)
   olandese :: Netherlands (pertaining to the Netherlands) (adjective)
-  olandese {m}, olandesi {m} :: Dutch (of the Netherlands, people, or language) (adjective)
+  olandese {m|f}, olandesi {m|f|p} :: Dutch (of the Netherlands, people, or language) (adjective)
 ===next===
   discontinuo, discontinua, sconnesso, sconnessa :: abrupt (having sudden transitions from one state to next) (adjective)
 ***nigger***
@@ -4055,7 +4067,7 @@ Index: EN EN->IT
   aggettivo {m} :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   ablativo {m} :: ablative (applied to one of the cases of the noun in other language) (adjective)
   oggi :: today (today (noun)) (noun)
-  i {m}, gli {m}, le {f} :: the (with an adjectival noun, as in “the hungry” to mean “hungry people”) (article)
+  i {m|p}, gli {m|p}, le {f|p} :: the (with an adjectival noun, as in “the hungry” to mean “hungry people”) (article)
   essere :: be (used to connect a noun to an adjective that describes it) (verb)
   essere :: be (used to indicate that the subject has the qualities described by a noun or noun phrase) (verb)
   non numerabile :: uncountable (linguistics: about a noun which cannot be counted) (adjective)
@@ -4247,7 +4259,7 @@ Index: EN EN->IT
   etimologia {f} :: etymology (study of the historical development of languages, particularly of individual words) (noun)
   avatar {m}, incarnazione :: avatar (The earthly incarnation of a deity, particularly Vishnu) (noun)
 ===parts===
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (used as an alternative to a possessive pronoun before body parts) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used as an alternative to a possessive pronoun before body parts) (article)
   quarto {m} :: quarter (one of four equal parts) (noun)
 ===passing===
   lentille {f}, lente {f} :: lens (object focusing or defocusing the light passing through it) (noun)
@@ -4273,15 +4285,15 @@ Index: EN EN->IT
   pisello {m}, cazzo {m}, uccello {m}, minchia {f} :: dick (colloquial: penis) (noun)
   glande {m}, cappella {f} :: dickhead ((slang) glans penis) (noun)
 ===people===
-  i {m}, gli {m}, le {f} :: the (with an adjectival noun, as in “the hungry” to mean “hungry people”) (article)
+  i {m|p}, gli {m|p}, le {f|p} :: the (with an adjectival noun, as in “the hungry” to mean “hungry people”) (article)
   ciascuno :: everybody (all people) (pronoun)
-  olandese {m}, olandesi {m} :: Dutch (of the Netherlands, people, or language) (adjective)
+  olandese {m|f}, olandesi {m|f|p} :: Dutch (of the Netherlands, people, or language) (adjective)
 ===perform===
   debito {m} :: debt (action, state of mind, or object one has an obligation to perform for another) (noun)
 ===performance===
   numero {m} :: number (performance) (noun)
 ===performs===
-  musicista {m}, musico {m} :: musician (person who performs or writes music) (noun)
+  musicista {m|f}, musico {m} :: musician (person who performs or writes music) (noun)
 ===period===
   mese {m} :: month (period into which a year is divided) (noun)
   giorno {m} :: day (period of 24 hours) (noun)
@@ -4357,7 +4369,7 @@ Index: EN EN->IT
 ===platonic===
   Ti voglio bene (singular informal), Vi voglio bene (plural or formal) :: I love you (platonic expression of inclination or liking) (phrase)
 ===player===
-  fisarmonicista {m} :: accordionist (player of the accordion) (noun)
+  fisarmonicista {m|f} :: accordionist (player of the accordion) (noun)
 ===plays===
   essere :: be (used to indicate that the subject plays the role of the predicate nominative) (verb)
 ===plentiful===
@@ -4410,7 +4422,7 @@ Index: EN EN->IT
 ===positioned===
   su :: on (positioned at the upper surface of) (preposition)
 ===possessive===
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (used as an alternative to a possessive pronoun before body parts) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used as an alternative to a possessive pronoun before body parts) (article)
 ===possibly===
   forse, può essere che + subjunctive; He may be lying — Forse sta mentendo, Può essere che stia mentendo :: may (possibly, but not certainly) (verb)
 ===potential===
@@ -4482,7 +4494,7 @@ Index: EN EN->IT
 ===promotes===
   medicina {f} :: medicine (substance which promotes healing) (noun)
 ===pronoun===
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (used as an alternative to a possessive pronoun before body parts) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used as an alternative to a possessive pronoun before body parts) (article)
 ===pronounce===
   assolvere :: absolve (pronounce free or give absolution) (verb)
   assolvere :: absolve (theology: pronounce free or give absolution from sin) (verb)
@@ -4587,7 +4599,7 @@ Index: EN EN->IT
 ===reducing===
   abbreviazione :: abbreviation (act or result of shortening or reducing) (noun)
 ===refer===
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (used with the name of a member of a class to refer to all things in that class) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used with the name of a member of a class to refer to all things in that class) (article)
 ===reference===
   enciclopedia {f} :: encyclopedia (comprehensive reference with articles on a range of topic) (noun)
   enciclopedia {f} :: encyclopaedia (reference book) (noun)
@@ -5068,7 +5080,7 @@ Index: EN EN->IT
   badessa :: abbess (female superior of a nunnery) (noun)
   abate :: abbot (superior or head of an abbey or monastery) (noun)
 ===superlative===
-  il {m}, lo {m}, la {f}; i {m}, gli {m}, le {f} :: the (with a superlative) (article)
+  il {m}, lo {m}, la {f}; i {m|p}, gli {m|p}, le {f|p} :: the (with a superlative) (article)
 ===supplied===
   abbondare, essere abbondante :: abound (to be copiously supplied) (verb)
 ===supply===
@@ -5100,7 +5112,7 @@ Index: EN EN->IT
   lingua {f} :: language (system of communication using words or symbols) (noun)
   ferrovia {f} :: railway (transport system using these rails) (noun)
 ===tact===
-  volgare {m}, crudo, semplice, grezzo :: crude (lacking tact or taste) (adjective)
+  volgare {m|f}, crudo, semplice, grezzo :: crude (lacking tact or taste) (adjective)
 ===take===
   sottrarre, sequestrare, rapire (people) :: abduct (to take away) (verb)
   essere :: be (occur, take place) (verb)
@@ -5115,7 +5127,7 @@ Index: EN EN->IT
   prodotto {m}, frutto {m} :: product (any tangible output) (noun)
 ===taste===
   acido {m} :: acid (sour, sharp, or biting to the taste) (adjective)
-  volgare {m}, crudo, semplice, grezzo :: crude (lacking tact or taste) (adjective)
+  volgare {m|f}, crudo, semplice, grezzo :: crude (lacking tact or taste) (adjective)
 ===teachings===
   dottrina {f} :: doctrine (body of beliefs or teachings) (noun)
 ===tediously===
@@ -5151,11 +5163,11 @@ Index: EN EN->IT
 ***Thanatos***
   Tanato {m} :: Thanatos (Thanatos, the god of death) (noun)
 ***the***
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (article) (article)
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (used as an alternative to a possessive pronoun before body parts) (article)
-  i {m}, gli {m}, le {f} :: the (with an adjectival noun, as in “the hungry” to mean “hungry people”) (article)
-  il {m}, lo {m}, la {f}; i {m}, gli {m}, le {f} :: the (with a superlative) (article)
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (used with the name of a member of a class to refer to all things in that class) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (article) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used as an alternative to a possessive pronoun before body parts) (article)
+  i {m|p}, gli {m|p}, le {f|p} :: the (with an adjectival noun, as in “the hungry” to mean “hungry people”) (article)
+  il {m}, lo {m}, la {f}; i {m|p}, gli {m|p}, le {f|p} :: the (with a superlative) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used with the name of a member of a class to refer to all things in that class) (article)
 ===their===
   informatica {f} :: computer science (study of computers and their architecture) (noun)
 ===theology===
@@ -5172,7 +5184,7 @@ Index: EN EN->IT
   singolare :: singular (grammar: referring to only one thing) (adjective)
   singolare {m} :: singular (grammar: form of a word that refers to only one thing) (noun)
 ===things===
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (used with the name of a member of a class to refer to all things in that class) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used with the name of a member of a class to refer to all things in that class) (article)
   decina {f} :: decade (a series of ten things) (noun)
 ===this===
   zucca {f} :: pumpkin (fruit of this plant) (noun)
@@ -5350,8 +5362,8 @@ Index: EN EN->IT
   addestrare, allenare, acclimatare :: season (to make fit for any use by time or habit) (verb)
   stock {m}, partita {f} :: stock (supply of anything ready for use) (noun)
 ===used===
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (used as an alternative to a possessive pronoun before body parts) (article)
-  il {m}, lo {m}, la {f}, i {m}, gli {m}, le {f} :: the (used with the name of a member of a class to refer to all things in that class) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used as an alternative to a possessive pronoun before body parts) (article)
+  il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used with the name of a member of a class to refer to all things in that class) (article)
   furgone {m} :: van (A (covered) vehicle used for carrying goods) (noun)
   dado {m} :: die (polyhedron used in games of chance) (noun)
   conio {m} :: die (embossed device used in stamping) (noun)
@@ -5526,7 +5538,7 @@ Index: EN EN->IT
 ===worthy===
   accettabile :: acceptable (capable, worthy or sure of being accepted) (adjective)
 ===writes===
-  musicista {m}, musico {m} :: musician (person who performs or writes music) (noun)
+  musicista {m|f}, musico {m} :: musician (person who performs or writes music) (noun)
 ===writing===
   lessicografia {f} :: lexicography (art or craft of writing dictionaries) (noun)
   data {f} :: date (that which specifies the time of writing, inscription etc.) (noun)
