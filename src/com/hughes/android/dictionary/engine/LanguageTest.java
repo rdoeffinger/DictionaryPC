@@ -168,7 +168,7 @@ public class LanguageTest extends TestCase {
   }
 
   public void testEnWiktionaryNames() {
-    assertEquals(EnWiktionaryLangs.isoCodeToWikiName.keySet(), Language.isoCodeToResourceId.keySet());
+    assertEquals(EnWiktionaryLangs.isoCodeToWikiName.keySet(), Language.isoCodeToResources.keySet());
   }
 
 }

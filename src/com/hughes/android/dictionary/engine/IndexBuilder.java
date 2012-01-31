@@ -39,7 +39,7 @@ public class IndexBuilder {
   IndexBuilder(final DictionaryBuilder dictionaryBuilder, final String shortName, final String longName, final Language language, final String normalizerRules, final Set<String> stoplist, final boolean swapPairEntries) {
     this.dictionaryBuilder = dictionaryBuilder;
     index = new Index(dictionaryBuilder.dictionary, shortName, longName, language, normalizerRules, swapPairEntries, stoplist);
-    tokenToData = new TreeMap<String, TokenData>(new NormalizeComparator(index.normalizer(), language.getCollator()));
+    tokenToData = new TreeMap<String, TokenData>(index.getSortComparator());
     this.stoplist = stoplist;
   }
   
@@ -58,7 +58,7 @@ public class IndexBuilder {
         index.mainTokenCount++;
       }
 //      System.out.println("Added TokenRow: " + rows.get(rows.size() - 1));
-      int numRows = 0;
+      int numRows = 0;  // off by one--doesn't count the token row!
 //      System.out.println("TOKEN: " + tokenData.token);
       for (final Map.Entry<EntryTypeName, List<IndexedEntry>> typeToEntry : tokenData.typeToEntries.entrySet()) {
         for (final IndexedEntry entryData : typeToEntry.getValue()) {

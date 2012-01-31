@@ -11,13 +11,13 @@ import com.hughes.android.dictionary.DictionaryInfo;
 public class CheckDictionariesMain {
   
   static final String BASE_URL = "http://quickdic-dictionary.googlecode.com/files/";
-  static final String VERSION_CODE = "v002";
+  static final String VERSION_CODE = "v003";
 
   public static void main(String[] args) throws IOException {
     final File dictDir = new File(DictionaryBuilderMain.OUTPUTS);
     
     final PrintWriter dictionaryInfoOut = new PrintWriter(new File("../Dictionary/res/raw/dictionary_info.txt"));
-    dictionaryInfoOut.println("# LANG_1\t%LANG_2\tFILENAME\tVERSION_CODE\tFILESIZE\tNUM_MAIN_WORDS_1\tNUM_MAIN_WORDS_2\tNUM_ALL_WORDS_1\tNUM_ALL_WORDS_2");
+//    dictionaryInfoOut.println("# LANG_1\t%LANG_2\tFILENAME\tVERSION_CODE\tFILESIZE\tNUM_MAIN_WORDS_1\tNUM_MAIN_WORDS_2\tNUM_ALL_WORDS_1\tNUM_ALL_WORDS_2");
 
     final File[] files = dictDir.listFiles();
     Arrays.sort(files);
@@ -37,7 +37,7 @@ public class CheckDictionariesMain {
       dictionaryInfo.downloadUrl = BASE_URL + dictFile.getName() + "." + VERSION_CODE + ".zip";
       // TODO: zip it right here....
       dictionaryInfo.uncompressedBytes = dictFile.length();
-      final File zipFile = new File(dictFile.getPath() + ".zip");
+      final File zipFile = new File(dictFile.getPath() + "." + VERSION_CODE + ".zip");
       dictionaryInfo.zipBytes = zipFile.canRead() ? zipFile.length() : -1;
 
       // Print it.

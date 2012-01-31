@@ -1,6 +1,6 @@
 For next release:
+reload dictionaryInfo sometime...
 downloads
-about dict dialog
 history dialog
 fix up dictionary manager:
   thread that handles unzipping, downloading for the life of the application (so screen changes don't screw it up).
@@ -98,3 +98,4 @@ num words in UI.
 multiword find.
 ! enter should hide keyboard
 eng_urdu
+about dict dialog

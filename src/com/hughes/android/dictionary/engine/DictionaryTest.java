@@ -18,6 +18,7 @@ import java.io.IOException;
 import java.io.RandomAccessFile;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Random;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 import junit.framework.TestCase;
@@ -198,13 +199,102 @@ public class DictionaryTest extends TestCase {
 
     {
     final List<RowBase> rows = enIndex.multiWordSearch(Arrays.asList("a", "station"), new AtomicBoolean(false));
-    // TODO: bug, "a" isn't in stoplist for now...
     System.out.println(CollectionUtil.join(rows, "\n  "));
-    assertTrue(rows.toString(), rows.size() == 0);
-    //assertEquals("Bahnhofsuhr {{de-noun|g=f|plural=Bahnhofsuhren}}\tstation clock (at a train station)", rows.get(0).toString());
+    assertTrue(rows.toString(), rows.size() > 0);
+    assertEquals("Kraftwerk {n}\tpower plant (a station built for the production of electric power) (noun)", rows.get(0).toString());
+    }
+
+    {
+    // Should print: Giving up, too many words with prefix: p
+    final List<RowBase> rows = enIndex.multiWordSearch(Arrays.asList("p", "eat"), new AtomicBoolean(false));
+    System.out.println(CollectionUtil.join(rows, "\n  "));
+    assertTrue(rows.toString(), rows.size() > 0);
+    assertTrue(rows.toString().contains("verschlingen; verputzen\tto dispatch (eat)"));
+    }
+
+    {
+    // Should print: Giving up, too many words with prefix: p
+    final List<RowBase> rows = enIndex.multiWordSearch(Arrays.asList("p", "p"), new AtomicBoolean(false));
+    assertTrue(rows.size() >= 1000);
+    }
+
+    {
+    // Should print: Giving up, too many words with prefix: a
+    final List<RowBase> rows = enIndex.multiWordSearch(Arrays.asList("a", "a"), new AtomicBoolean(false));
+    assertTrue(rows.size() >= 1000);
+    }
+
+    {
+    // Should print: Giving up, too many words with prefix: a
+    final List<RowBase> rows = enIndex.multiWordSearch(Arrays.asList("b", "ba"), new AtomicBoolean(false));
+    assertTrue(rows.size() >= 1000);
+    }
+
+    {
+    // Should print: Giving up, too many words with prefix: a
+    final List<RowBase> rows = enIndex.multiWordSearch(Arrays.asList("b", "ba"), new AtomicBoolean(false));
+    assertTrue(rows.size() >= 1000);
     }
 
     raf.close();
   }
+
+  public void testMultiSearchBigAF() throws IOException {
+    final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "EN-AF_enwiktionary.quickdic", "r");
+    final Dictionary dict = new Dictionary(raf);
+    final Index enIndex = dict.indices.get(0);
+
+    {
+    final List<RowBase> rows = enIndex.multiWordSearch(Arrays.asList("pig", "eats"), new AtomicBoolean(false));
+    System.out.println(CollectionUtil.join(rows, "\n  "));
+    assertTrue(rows.toString(), rows.size() > 0);
+    assertEquals("pig (someone who overeats or eats rapidly) (noun)\tvark", rows.get(0).toString());
+    }
+
+    {
+    final List<RowBase> rows = enIndex.multiWordSearch(Arrays.asList("pig", "eat"), new AtomicBoolean(false));
+    System.out.println(CollectionUtil.join(rows, "\n  "));
+    assertTrue(rows.toString(), rows.size() > 0);
+    assertEquals("pig (someone who overeats or eats rapidly) (noun)\tvark", rows.get(0).toString());
+    }
+
+    {
+    final List<RowBase> rows = enIndex.multiWordSearch(Arrays.asList("pi", "ea"), new AtomicBoolean(false));
+    System.out.println(CollectionUtil.join(rows, "\n  "));
+    assertTrue(rows.toString(), rows.size() > 0);
+    assertTrue(rows.toString().contains("pig (someone who overeats or eats rapidly) (noun)\tvark"));
+    }
+
+    {
+    final List<RowBase> rows = enIndex.multiWordSearch(Arrays.asList("p", "eat"), new AtomicBoolean(false));
+    System.out.println(CollectionUtil.join(rows, "\n  "));
+    assertTrue(rows.toString(), rows.size() > 0);
+    assertTrue(rows.toString().contains("pig (someone who overeats or eats rapidly) (noun)\tvark"));
+    }
+
+    
+    raf.close();
+  }
+
+
+  public void testExactSearch() throws IOException {
+    final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "EN-ZH_enwiktionary.quickdic", "r");
+    final Dictionary dict = new Dictionary(raf);
+    final Index zhIndex = dict.indices.get(1);
+
+    final Random random = new Random(10);
+    
+    for (int i = 0; i < 1000; ++i) {
+      final int ii = random.nextInt(zhIndex.sortedIndexEntries.size());
+      final IndexEntry indexEntry = zhIndex.sortedIndexEntries.get(ii);
+      final IndexEntry found = zhIndex.findExact(indexEntry.token);
+      assertNotNull(found);
+      assertEquals(indexEntry.token, found.token);
+      assertEquals(indexEntry, found);  // Test of caching....
+    }
+    
+    raf.close();
+  }
+
 
 }
