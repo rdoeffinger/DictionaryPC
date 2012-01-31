@@ -17,7 +17,9 @@ package com.hughes.android.dictionary.engine;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
+import java.util.LinkedHashSet;
 import java.util.List;
+import java.util.Set;
 
 import junit.framework.TestCase;
 
@@ -168,7 +170,12 @@ public class LanguageTest extends TestCase {
   }
 
   public void testEnWiktionaryNames() {
-    assertEquals(EnWiktionaryLangs.isoCodeToWikiName.keySet(), Language.isoCodeToResources.keySet());
+    final Set<String> enLangs = new LinkedHashSet<String>(EnWiktionaryLangs.isoCodeToWikiName.keySet());
+    for (final String code : EnWiktionaryLangs.isoCodeToWikiName.keySet()) {
+      enLangs.add(code.toLowerCase());
+    }
+    assertEquals(enLangs.toString(), Language.isoCodeToResources.keySet().toString());
+    assertEquals(enLangs, Language.isoCodeToResources.keySet());
   }
 
 }

@@ -3,8 +3,6 @@ package com.hughes.android.dictionary.parser.enwiktionary;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-import com.hughes.android.dictionary.engine.Language;
-
 public class EnWiktionaryLangs {
   
   public static final Map<String,String> isoCodeToWikiName = new LinkedHashMap<String,String>();
@@ -85,7 +83,6 @@ public class EnWiktionaryLangs {
     isoCodeToWikiName.put("HT", "Haitian Creole");
     isoCodeToWikiName.put("LB", "Luxembourgish");
     isoCodeToWikiName.put("MK", "Macedonian");
-    
     
   }
 
