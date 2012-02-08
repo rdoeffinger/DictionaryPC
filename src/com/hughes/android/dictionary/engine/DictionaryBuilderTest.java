@@ -27,7 +27,7 @@ import junit.framework.TestCase;
 public class DictionaryBuilderTest extends TestCase {
   
   public static final String TEST_INPUTS = "testdata/inputs/";
-  public static final String WIKISPLIT = "data/inputs/enWikiSplit/";
+  public static final String WIKISPLIT = "data/inputs/wikiSplit/en/";
   public static final String STOPLISTS = "data/inputs/stoplists/";
   public static final String GOLDENS = "testdata/goldens/";
 
