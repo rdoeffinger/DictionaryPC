@@ -119,10 +119,10 @@ public class EnWiktionaryXmlParser {
     }
     } finally {
       System.out.println("lang Counts: " + appendAndIndexWikiCallback.langCodeToTCount);
-      appendAndIndexWikiCallback.langCodeToTCount.keySet().removeAll(EnWiktionaryLangs.isoCodeToWikiName.keySet());
+      appendAndIndexWikiCallback.langCodeToTCount.keySet().removeAll(WiktionaryLangs.isoCodeToWikiName.keySet());
       System.out.println("unused Counts: " + appendAndIndexWikiCallback.langCodeToTCount);
       System.out.println("lang Counts: " + langNameToTCount);
-      langNameToTCount.keySet().removeAll(EnWiktionaryLangs.isoCodeToWikiName.values());
+      langNameToTCount.keySet().removeAll(WiktionaryLangs.isoCodeToWikiName.values());
       System.out.println("unknown counts: " + langNameToTCount);
     }
   }

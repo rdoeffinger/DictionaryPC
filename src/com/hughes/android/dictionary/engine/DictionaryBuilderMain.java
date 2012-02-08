@@ -19,7 +19,7 @@ import java.util.Map;
 
 import junit.framework.TestCase;
 
-import com.hughes.android.dictionary.parser.enwiktionary.EnWiktionaryLangs;
+import com.hughes.android.dictionary.parser.enwiktionary.WiktionaryLangs;
 
 public class DictionaryBuilderMain extends TestCase {
   
@@ -31,7 +31,7 @@ public class DictionaryBuilderMain extends TestCase {
     
     // Builds all the dictionaries it can, outputs list to a text file.
     
-    final Map<String,String> isoToWikiName = new LinkedHashMap<String, String>(EnWiktionaryLangs.isoCodeToWikiName);
+    final Map<String,String> isoToWikiName = new LinkedHashMap<String, String>(WiktionaryLangs.isoCodeToWikiName);
     isoToWikiName.remove("EN");
     isoToWikiName.remove("DE");
 

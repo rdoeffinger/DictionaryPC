@@ -23,7 +23,7 @@ import java.util.Set;
 
 import junit.framework.TestCase;
 
-import com.hughes.android.dictionary.parser.enwiktionary.EnWiktionaryLangs;
+import com.hughes.android.dictionary.parser.enwiktionary.WiktionaryLangs;
 import com.ibm.icu.text.Transliterator;
 
 public class LanguageTest extends TestCase {
@@ -170,8 +170,8 @@ public class LanguageTest extends TestCase {
   }
 
   public void testEnWiktionaryNames() {
-    final Set<String> enLangs = new LinkedHashSet<String>(EnWiktionaryLangs.isoCodeToWikiName.keySet());
-    for (final String code : EnWiktionaryLangs.isoCodeToWikiName.keySet()) {
+    final Set<String> enLangs = new LinkedHashSet<String>(WiktionaryLangs.isoCodeToWikiName.keySet());
+    for (final String code : WiktionaryLangs.isoCodeToWikiName.keySet()) {
       enLangs.add(code.toLowerCase());
     }
     assertEquals(enLangs.toString(), Language.isoCodeToResources.keySet().toString());

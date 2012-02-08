@@ -1,0 +1,5 @@
+On Android 1.6:
+Landscape/portrait mode, switching between.
+Download dictionary.
+Add dictionary during runtime.
+Remove dictionary during runtime.

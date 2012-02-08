@@ -20,6 +20,7 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.regex.Matcher;
@@ -32,72 +33,63 @@ import javax.xml.parsers.SAXParserFactory;
 import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 
-import com.hughes.android.dictionary.parser.enwiktionary.EnWiktionaryLangs;
+import com.hughes.android.dictionary.parser.enwiktionary.WiktionaryLangs;
 
 public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
-  
-  private static final String FILE_TO_SPLIT = "data/inputs/enwiktionary-pages-articles.xml";
-  
-  static class Section implements java.io.Serializable {
-    private static final long serialVersionUID = -7676549898325856822L;
 
-    final String title;
-    final String heading;
-    final String text;
-    
-    public Section(final String title, final String heading, final String text) {
-      this.title = title;
-      this.heading = heading;
-      this.text = text;
-      
-      //System.out.printf("TITLE:%s\nHEADING:%s\nTEXT:%s\n\n\n\n\n\n", title, heading, text);
-    }
-  }
+  // The matches the whole line, otherwise regexes don't work well on French:
+  // {{=uk=}}
+  static final Pattern headingStart = Pattern.compile("^(=+)[^=].*$", Pattern.MULTILINE);
   
-  static class Selector {
-    DataOutputStream out;
-    Pattern pattern;
-    
-    public Selector(final String filename, final String pattern) throws IOException {
-      this.out = new DataOutputStream(new BufferedOutputStream(new FileOutputStream(filename)));
-      this.pattern = Pattern.compile(pattern, Pattern.CASE_INSENSITIVE);
-    }
-  }
-
-  final List<Selector> selectors = new ArrayList<Selector>();
+  final Map<String,List<Selector>> pathToSelectors = new LinkedHashMap<String, List<Selector>>();
+  List<Selector> currentSelectors = null;
+  
   StringBuilder titleBuilder;
   StringBuilder textBuilder;
   StringBuilder currentBuilder = null;
 
   public static void main(final String[] args) throws SAXException, IOException, ParserConfigurationException {
-    final SAXParser parser = SAXParserFactory.newInstance().newSAXParser();
     final WiktionarySplitter wiktionarySplitter = new WiktionarySplitter();
-    
-    // Configure things.
-    
-    final List<Selector> selectors = wiktionarySplitter.selectors;
-    for (int i = 1; i < args.length; i += 2) {
-      final Selector selector = new Selector(args[i], args[i+1]);
-      selectors.add(selector);
-    }
-
-    if (selectors.isEmpty()) {
-      for (final Map.Entry<String, String> entry : EnWiktionaryLangs.isoCodeToWikiName.entrySet()) {
-        selectors.add(new Selector(String.format("data/inputs/enWikiSplit/%s.data", entry.getKey()), entry.getValue()));
+    wiktionarySplitter.go();
+  }
+  
+  private WiktionarySplitter() {
+    List<Selector> selectors;
+    for (final String code : WiktionaryLangs.wikiCodeToIsoCodeToWikiName.keySet()) {
+      //if (!code.equals("fr")) {continue;}
+      selectors = new ArrayList<WiktionarySplitter.Selector>();
+      pathToSelectors.put(String.format("data/inputs/%swiktionary-pages-articles.xml", code), selectors);
+      for (final Map.Entry<String, String> entry : WiktionaryLangs.wikiCodeToIsoCodeToWikiName.get(code).entrySet()) {
+        final String dir = String.format("data/inputs/wikiSplit/%s", code);
+        new File(dir).mkdirs();
+        selectors.add(new Selector(String.format("%s/%s.data", dir, entry.getKey()), entry.getValue()));
       }
-    }
-    
-    // Do it.
-    parser.parse(new File(FILE_TO_SPLIT), wiktionarySplitter);
-    
-    // Shutdown.
-    for (final Selector selector : selectors) {
-      selector.out.close();
     }
   }
 
-  static final Pattern headingStart = Pattern.compile("^(=+)[^=]+=+", Pattern.MULTILINE);
+  private void go() throws ParserConfigurationException, SAXException, IOException {
+    final SAXParser parser = SAXParserFactory.newInstance().newSAXParser();
+
+    // Configure things.
+    for (final Map.Entry<String, List<Selector>> pathToSelectorsEntry : pathToSelectors.entrySet()) {
+      
+      currentSelectors = pathToSelectorsEntry.getValue();
+      
+      for (final Selector selector : currentSelectors) {
+        selector.out = new DataOutputStream(new BufferedOutputStream(new FileOutputStream(selector.outFilename)));
+      }
   
+      // Do it.
+      parser.parse(new File(pathToSelectorsEntry.getKey()), this);
+      
+      // Shutdown.
+      for (final Selector selector : currentSelectors) {
+        selector.out.close();
+      }
+      
+    }
+  }
+
   int pageCount = 0;
   private void endPage() {
     final String title = titleBuilder.toString();
@@ -116,12 +108,12 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
       text = text.substring(startMatcher.end());
       
       final String heading = startMatcher.group();
-      for (final Selector selector : selectors) {
+      for (final Selector selector : currentSelectors) {
         if (selector.pattern.matcher(heading).find()) {
           
           // Find end.
           final int depth = startMatcher.group(1).length();
-          final Pattern endPattern = Pattern.compile(String.format("^={1,%d}[^=]+=+", depth), Pattern.MULTILINE);
+          final Pattern endPattern = Pattern.compile(String.format("^={1,%d}[^=].*$", depth), Pattern.MULTILINE);
           
           final Matcher endMatcher = endPattern.matcher(text);
           final int end;
@@ -149,6 +141,36 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
       }
     }
     
+  }
+
+  // -----------------------------------------------------------------------
+
+  static class Section implements java.io.Serializable {
+    private static final long serialVersionUID = -7676549898325856822L;
+
+    final String title;
+    final String heading;
+    final String text;
+    
+    public Section(final String title, final String heading, final String text) {
+      this.title = title;
+      this.heading = heading;
+      this.text = text;
+      
+      //System.out.printf("TITLE:%s\nHEADING:%s\nTEXT:%s\n\n\n\n\n\n", title, heading, text);
+    }
+  }
+  
+  static class Selector {
+    final String outFilename;
+    final Pattern pattern;
+
+    DataOutputStream out;
+
+    public Selector(final String filename, final String pattern) {
+      this.outFilename = filename;
+      this.pattern = Pattern.compile(pattern, Pattern.CASE_INSENSITIVE);
+    }
   }
 
   // -----------------------------------------------------------------------
@@ -191,5 +213,7 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
       final SAXParser parser = SAXParserFactory.newInstance().newSAXParser();
       parser.parse(file, this);
     }
+
+    
     
 }

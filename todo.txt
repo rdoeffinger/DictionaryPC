@@ -1,9 +1,11 @@
+for i in res/raw/*.html; do tidy --input-encoding utf8  --output-file $i $i; done
+
+
 For next release:
+flag images
+test/fix return to last-used dictionary
 downloads
 history dialog
-fix up dictionary manager:
-  thread that handles unzipping, downloading for the life of the application (so screen changes don't screw it up).
-  check over UI.
 check arabic UI fix
 handle examples like "asdf (asdf)"
 random word jump
@@ -101,3 +103,6 @@ about dict dialog
 * timeout on the exact search...  if it can't confirm, it should just switch and go....
 * reload dictionaryInfo sometime...
 * change path of /sdcard/quickDic/...
+fix up dictionary manager:
+  thread that handles unzipping, downloading for the life of the application (so screen changes don't screw it up).
+  check over UI.
