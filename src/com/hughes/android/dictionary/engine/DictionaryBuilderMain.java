@@ -19,7 +19,7 @@ import java.util.Map;
 
 import junit.framework.TestCase;
 
-import com.hughes.android.dictionary.parser.enwiktionary.WiktionaryLangs;
+import com.hughes.android.dictionary.parser.wiktionary.WiktionaryLangs;
 
 public class DictionaryBuilderMain extends TestCase {
   

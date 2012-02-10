@@ -31,7 +31,7 @@ import javax.xml.parsers.ParserConfigurationException;
 import org.xml.sax.SAXException;
 
 import com.hughes.android.dictionary.parser.DictFileParser;
-import com.hughes.android.dictionary.parser.enwiktionary.EnWiktionaryXmlParser;
+import com.hughes.android.dictionary.parser.wiktionary.EnWiktionaryXmlParser;
 import com.hughes.util.Args;
 import com.hughes.util.FileUtil;
 

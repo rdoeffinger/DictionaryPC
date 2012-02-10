@@ -33,7 +33,7 @@ import javax.xml.parsers.SAXParserFactory;
 import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 
-import com.hughes.android.dictionary.parser.enwiktionary.WiktionaryLangs;
+import com.hughes.android.dictionary.parser.wiktionary.WiktionaryLangs;
 
 public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
 

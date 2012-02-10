@@ -1,4 +1,4 @@
-package com.hughes.android.dictionary.parser.enwiktionary;
+package com.hughes.android.dictionary.parser.wiktionary;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

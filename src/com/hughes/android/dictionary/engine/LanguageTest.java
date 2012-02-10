@@ -23,7 +23,7 @@ import java.util.Set;
 
 import junit.framework.TestCase;
 
-import com.hughes.android.dictionary.parser.enwiktionary.WiktionaryLangs;
+import com.hughes.android.dictionary.parser.wiktionary.WiktionaryLangs;
 import com.ibm.icu.text.Transliterator;
 
 public class LanguageTest extends TestCase {
