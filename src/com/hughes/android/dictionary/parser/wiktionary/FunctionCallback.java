@@ -18,15 +18,16 @@ import java.util.List;
 import java.util.Map;
 
 import com.hughes.android.dictionary.parser.WikiTokenizer;
+import com.hughes.android.dictionary.parser.wiktionary.AbstractWiktionaryParser.AppendAndIndexWikiCallback;
 
-public interface FunctionCallback {
+public interface FunctionCallback<T extends AbstractWiktionaryParser> {
   
   boolean onWikiFunction(
       final WikiTokenizer tokenizer, 
       final String name,
       final List<String> args, 
       final Map<String,String> namedArgs,
-      final EnWiktionaryXmlParser parser,
-      final AppendAndIndexWikiCallback appendAndIndexWikiCallback);
+      final T parser,
+      final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback);
 
 }
