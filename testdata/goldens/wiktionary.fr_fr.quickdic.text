@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.french 6703
+EntrySource: enwiktionary.french 6701
 
 Index: FR FR->EN
 ===00===
@@ -1233,7 +1233,6 @@ Index: FR FR->EN
   cardinal {{fr-noun|m|pl=cardinaux}} :: {religion} cardinal
   cardinal {{fr-noun|m|pl=cardinaux}} :: cardinal number
   cardinal {m|inv} (noun) :: cardinal (color)
-  {{cardinalbox|fr|4|5|6|quatre|six|ord=cinquième|wplink=Cinq}}cinq {m|inv} (noun) cat2=cardinal numbers :: five
 ===care===
   care {fr-verb-form} :: {conjugation of|carer|1|s|pres|ind}
   care {fr-verb-form} :: {conjugation of|carer|3|s|pres|ind}
@@ -1460,7 +1459,7 @@ Index: FR FR->EN
     Je préfère ce gateau-ci à celui-là. :: I prefer this cake to that one.
   (Old French) ci (adverb) :: here (in this place)
 ***cinq***
-  {{cardinalbox|fr|4|5|6|quatre|six|ord=cinquième|wplink=Cinq}}cinq {m|inv} (noun) cat2=cardinal numbers :: five
+  {{cardinalbox|fr|4|5|6|quatre|six|ord=cinquième|wplink=Cinq}}cinq {m|inv} (noun) :: five
   (Middle French) cinq (noun) {m|inv} :: five
   de {fr-prep} :: from (used to indicate the start of a time or range)
     De 9:00 à 11:00 je ne serai pas libre. :: From 9 to 11 I won't be free.
@@ -4044,8 +4043,6 @@ Index: FR FR->EN
 ===nul===
   c :: {text messaging} {Informal spelling|c'est}
     C nul ici sans George :: It's rubbish here without George
-===numbers===
-  {{cardinalbox|fr|4|5|6|quatre|six|ord=cinquième|wplink=Cinq}}cinq {m|inv} (noun) cat2=cardinal numbers :: five
 ***Nunavut***
   Nunavut {{fr-proper noun|m}} :: Nunavut
 ***o***
@@ -8512,7 +8509,7 @@ Index: EN EN->FR
 ===fist===
   pain {{fr-noun|m}} :: {informal} punch (a hit with the fist)
 ===five===
-  {{cardinalbox|fr|4|5|6|quatre|six|ord=cinquième|wplink=Cinq}}cinq {m|inv} (noun) cat2=cardinal numbers :: five
+  {{cardinalbox|fr|4|5|6|quatre|six|ord=cinquième|wplink=Cinq}}cinq {m|inv} (noun) :: five
   (Middle French) cinq (noun) {m|inv} :: five
   de {fr-prep} :: from (used to indicate the start of a time or range)
     De 9:00 à 11:00 je ne serai pas libre. :: From 9 to 11 I won't be free.

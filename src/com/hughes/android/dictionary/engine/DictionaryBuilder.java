@@ -31,10 +31,11 @@ import javax.xml.parsers.ParserConfigurationException;
 import org.xml.sax.SAXException;
 
 import com.hughes.android.dictionary.parser.DictFileParser;
-import com.hughes.android.dictionary.parser.wiktionary.EnWiktionaryXmlParser;
+import com.hughes.android.dictionary.parser.Parser;
+import com.hughes.android.dictionary.parser.wiktionary.EnForeignParser;
+import com.hughes.android.dictionary.parser.wiktionary.EnToTranslationParser;
 import com.hughes.util.Args;
 import com.hughes.util.FileUtil;
-
 
 public class DictionaryBuilder {
   
@@ -126,6 +127,11 @@ public class DictionaryBuilder {
         if (inputName == null) {
           fatalError("Must specify human readable name for: " + prefix + "Name");
         }
+        String pageLimitString = keyValueArgs.remove(prefix + "PageLimit");
+        if (pageLimitString == null) {
+          pageLimitString = "-1";
+        }
+        final int pageLimit = Integer.parseInt(pageLimitString);
 
         final EntrySource entrySource = new EntrySource(dictionaryBuilder.dictionary.sources.size(), inputName, 0);
         System.out.println("");
@@ -133,24 +139,31 @@ public class DictionaryBuilder {
         String inputFormat = keyValueArgs.remove(prefix + "Format");
         if ("tab_separated".equals(inputFormat)) {
           final boolean flipColumns = "true".equals(keyValueArgs.remove(prefix + "FlipColumns"));
-          new DictFileParser(charset, flipColumns, DictFileParser.TAB, null, dictionaryBuilder, dictionaryBuilder.indexBuilders.toArray(new IndexBuilder[0]), null).parseFile(file, entrySource);
+          new DictFileParser(charset, flipColumns, DictFileParser.TAB, null, dictionaryBuilder, dictionaryBuilder.indexBuilders.toArray(new IndexBuilder[0]), null).parse(file, entrySource, pageLimit);
         } else if ("chemnitz".equals(inputFormat)) {
           final boolean flipColumns = "true".equals(keyValueArgs.remove(prefix + "FlipColumns"));
-          new DictFileParser(charset, flipColumns, DictFileParser.DOUBLE_COLON, DictFileParser.PIPE, dictionaryBuilder, dictionaryBuilder.indexBuilders.toArray(new IndexBuilder[0]), null).parseFile(file, entrySource);
+          new DictFileParser(charset, flipColumns, DictFileParser.DOUBLE_COLON, DictFileParser.PIPE, dictionaryBuilder, dictionaryBuilder.indexBuilders.toArray(new IndexBuilder[0]), null).parse(file, entrySource, pageLimit);
         } else if ("enwiktionary".equals(inputFormat)) {
+          final String type = keyValueArgs.remove(prefix + "WiktionaryType");
           final Pattern langPattern = Pattern.compile(keyValueArgs.remove(prefix + "LangPattern"), Pattern.CASE_INSENSITIVE);
           final Pattern langCodePattern = Pattern.compile(keyValueArgs.remove(prefix + "LangCodePattern"));
           final int enIndex = Integer.parseInt(keyValueArgs.remove(prefix + "EnIndex")) - 1;
-          String pageLimit = keyValueArgs.remove(prefix + "PageLimit");
-          if (pageLimit == null) {
-            pageLimit = "-1";
-          }
             
           if (enIndex < 0 || enIndex >= 2) {
             fatalError("Must be 1 or 2: " + prefix + "EnIndex");
           }
-          new EnWiktionaryXmlParser(dictionaryBuilder.indexBuilders.get(enIndex), dictionaryBuilder.indexBuilders.get(1-enIndex),
-              langPattern, langCodePattern, enIndex != 0).parse(file, entrySource, Integer.parseInt(pageLimit));
+          final Parser parser;
+          if ("EnToTranslation".equals(type)) {
+            parser = new EnToTranslationParser(dictionaryBuilder.indexBuilders.get(enIndex), dictionaryBuilder.indexBuilders.get(1-enIndex),
+                langPattern, langCodePattern, enIndex != 0);
+          } else if ("EnForeign".equals(type)) {
+            parser = new EnForeignParser(dictionaryBuilder.indexBuilders.get(enIndex), dictionaryBuilder.indexBuilders.get(1-enIndex),
+                langPattern, langCodePattern, enIndex != 0);
+          } else {
+            fatalError("Invalid WiktionaryType (use EnToTranslation or EnForeign): " + type);
+            return;
+          }
+          parser.parse(file, entrySource, pageLimit);
         } else {
           fatalError("Invalid or missing input format: " + inputFormat);
         }

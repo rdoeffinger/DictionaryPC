@@ -85,6 +85,7 @@ public class DictionaryBuilderTest extends TestCase {
       final String langPattern, final String langCode) throws Exception {
     final File result = new File(TEST_OUTPUTS + name);
     System.out.println("Writing to: " + result);
+    final String type = data.equals("EN.data") ? "EnToTranslation" : "EnForeign";
     DictionaryBuilder.main(new String[] {
         "--dictOut=" + result.getAbsolutePath(),
         "--lang1=" + lang1,
@@ -96,6 +97,7 @@ public class DictionaryBuilderTest extends TestCase {
         "--input4=" + WIKISPLIT + data,
         "--input4Name=" + dictName,
         "--input4Format=enwiktionary",
+        "--input4WiktionaryType=" + type,
         "--input4LangPattern=" + langPattern,
         "--input4LangCodePattern=" + langCode,
         "--input4EnIndex=2",

@@ -53,6 +53,8 @@ public abstract class AbstractWiktionaryParser implements Parser {
 
   abstract void parseSection(final String heading, final String text);
   
+  abstract void removeUselessArgs(final Map<String, String> namedArgs);
+  
   @Override
   public void parse(final File file, final EntrySource entrySource, final int pageLimit) throws IOException {
     this.entrySource = entrySource;
@@ -99,7 +101,7 @@ public abstract class AbstractWiktionaryParser implements Parser {
 
   public void incrementCount(final String string) {
     AtomicInteger counter = counters.get(string);
-    if (counter != null) {
+    if (counter == null) {
       counter = new AtomicInteger();
       counters.put(string, counter);
     }
@@ -109,7 +111,7 @@ public abstract class AbstractWiktionaryParser implements Parser {
   
   // -------------------------------------------------------------------------
   
-  static final class AppendAndIndexWikiCallback<T extends AbstractWiktionaryParser> implements WikiTokenizer.Callback {
+  static class AppendAndIndexWikiCallback<T extends AbstractWiktionaryParser> implements WikiTokenizer.Callback {
 
     final T parser;
     StringBuilder builder;
@@ -180,7 +182,7 @@ public abstract class AbstractWiktionaryParser implements Parser {
       FunctionCallback<T> functionCallback = functionCallbacks.get(name);
       if (functionCallback == null || !functionCallback.onWikiFunction(wikiTokenizer, name, args, namedArgs, parser, this)) {
         // Default function handling:
-//        namedArgs.keySet().removeAll(EnWiktionaryXmlParser.USELESS_WIKI_ARGS);
+        parser.removeUselessArgs(namedArgs);
         final boolean single = args.isEmpty() && namedArgs.isEmpty();
         builder.append(single ? "{" : "{{");
 
@@ -192,7 +194,7 @@ public abstract class AbstractWiktionaryParser implements Parser {
         builder.append(single ? "}" : "}}");
       }
     }
-
+    
     @Override
     public void onHtml(WikiTokenizer wikiTokenizer) {
       // Unindexed for now.

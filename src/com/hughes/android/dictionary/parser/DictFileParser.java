@@ -38,7 +38,7 @@ import com.hughes.android.dictionary.engine.Language;
 import com.hughes.android.dictionary.engine.PairEntry;
 import com.hughes.android.dictionary.engine.PairEntry.Pair;
 
-public class DictFileParser {
+public class DictFileParser implements Parser {
   
   static final Logger logger = Logger.getLogger(DictFileParser.class.getName());
 
@@ -89,12 +89,16 @@ public class DictFileParser {
     this.bothIndexBuilder = bothIndexBuilder;
   }
 
-  public void parseFile(final File file, final EntrySource entrySouce) throws IOException {
+  @Override
+  public void parse(final File file, final EntrySource entrySouce, final int pageLimit) throws IOException {
     this.entrySource = entrySouce;
     final BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(file), charset));
     String line;
     int count = 0;
     while ((line = reader.readLine()) != null) {
+      if (pageLimit >= 0 && count >= pageLimit) {
+        return;
+      }
       if (count % 10000 == 0) {
         logger.info("count=" + count + ", line=" + line);
       }
