@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.english 4601
+EntrySource: enwiktionary.english 4598
 
 Index: ZH ZH->EN
 ===1===
@@ -102,8 +102,9 @@ Index: ZH ZH->EN
 ***鮑魚***
   鮑魚, 鲍鱼 (bàoyú) :: abalone (edible univalve mollusc) (noun)
 ===be===
-  (Min Nan) 啤酒 (bih-luh), 麥仔酒 (be̍h-á-chiú), 米仔酒 (bí-á-chiú) :: beer (alcoholic drink made of malt) (noun)
   可能 (kěnéng) may be, possible :: may (possibly, but not certainly) (verb)
+===be̍h===
+  (Min Nan) 啤酒 (bih-luh), 麥仔酒 (be̍h-á-chiú), 米仔酒 (bí-á-chiú) :: beer (alcoholic drink made of malt) (noun)
 ===bèi===
   被 (bèi) + verb (particle) :: be (used to form the passive voice) (verb)
 ===被===
@@ -983,8 +984,6 @@ Index: ZH ZH->EN
   (Cantonese) 南瓜 (naam4 gwaa1),番瓜 (faan1 gwaa1) :: pumpkin (fruit of this plant) (noun)
 ===gwai===
   (Cantonese) 秋季 (cau<sup>1</sup>gwai<sup>3</sup>) :: autumn (season) (noun)
-===h===
-  (Min Nan) 啤酒 (bih-luh), 麥仔酒 (be̍h-á-chiú), 米仔酒 (bí-á-chiú) :: beer (alcoholic drink made of malt) (noun)
 ===hai1===
   (Cantonese) 閪 (hai1), 屄 ( bei1, hai1) :: cunt (genitalia) (noun)
 ===hai6===
@@ -1190,10 +1189,6 @@ Index: ZH ZH->EN
   美國國家航空航天局, 美国国家航空航天局 (Měiguó guójiā hángkōng hángtiānjú), (Taiwan) 美國國家航空暨太空總署, 美国国家航空暨太空总署 (Měiguó guójiā hángkōng jì tàikōng zǒngshǔ) :: NASA (National Aeronautics and Space Administration) ({{acronym}})
 ===ji===
   打败 (da bai), 击倒 (ji dao) :: abate (to bring down a person physically or mentally) (verb)
-  (Min Nan) 日頭 (ji̍t-thâu, li̍t-thâu) :: sun (the star around which the Earth revolves) (proper noun)
-  (Min Nan) 今仔日 (kin-á-ji̍t) :: today (today (noun)) (noun)
-===Ji===
-  (Min Nan) 日本 (Ji̍t-pún) :: Japan (A Far East country in Asia) (proper noun)
 ***季***
   季 (jì), 季節, 季节 (jìjié) :: season (quarter of a year) (noun)
 ===ji5===
@@ -1412,6 +1407,11 @@ Index: ZH ZH->EN
   機器人, 机器人 (jīqì rén), 機械人, 机械人 (jīxièrén) :: robot (intelligent mechanical being) (noun)
 ***機器人***
   機器人, 机器人 (jīqì rén), 機械人, 机械人 (jīxièrén) :: robot (intelligent mechanical being) (noun)
+===ji̍t===
+  (Min Nan) 日頭 (ji̍t-thâu, li̍t-thâu) :: sun (the star around which the Earth revolves) (proper noun)
+  (Min Nan) 今仔日 (kin-á-ji̍t) :: today (today (noun)) (noun)
+===Ji̍t===
+  (Min Nan) 日本 (Ji̍t-pún) :: Japan (A Far East country in Asia) (proper noun)
 ===jit6===
   (Cantonese) 太陽, 太阳, taai3 joeng4, 日頭, 日头, jat6 tau2, 熱頭, 热头, jit6 tau2 :: sun (the star around which the Earth revolves) (proper noun)
 ===jiǔ===
@@ -1586,8 +1586,6 @@ Index: ZH ZH->EN
   在 (zài), ...里 (...lǐ) (里) (traditional also: 裡, 裏) :: in (contained by) (preposition)
 ===lì===
   日曆, 日历 (rìlì), 曆 (lì), 历 (lì), 曆法, 历法 (lìfǎ), (colloquial) 月份牌 (yuèfènpái) :: calendar (system by which time is divided) (noun)
-===li===
-  (Min Nan) 日頭 (ji̍t-thâu, li̍t-thâu) :: sun (the star around which the Earth revolves) (proper noun)
 ***里***
   在 (zài), ...里 (...lǐ) (里) (traditional also: 裡, 裏) :: in (contained by) (preposition)
 ***裏***
@@ -1641,9 +1639,14 @@ Index: ZH ZH->EN
 ===líng===
   零 (líng), 〇 :: zero (numeric symbol of zero) (noun)
   零 (líng) (numeral: 〇, 零) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
+***〇***
+  零 (líng), 〇 :: zero (numeric symbol of zero) (noun)
+  零 (líng) (numeral: 〇, 零) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
 ***零***
   零 (líng), 〇 :: zero (numeric symbol of zero) (noun)
   零 (líng) (numeral: 〇, 零) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
+===li̍t===
+  (Min Nan) 日頭 (ji̍t-thâu, li̍t-thâu) :: sun (the star around which the Earth revolves) (proper noun)
 ===liù===
   星期六 (xīngqī liù) :: Saturday (day of the week) (noun)
   (Standard Chinese (Mandarin)) 六 (liù) (numeral: 陸) :: six (cardinal number) (cardinal number)
@@ -1750,8 +1753,6 @@ Index: ZH ZH->EN
   貿易, 贸易 (màoyì), 商業, 商业 (shāngyè) :: trade (business) (noun)
 ===may===
   可能 (kěnéng) may be, possible :: may (possibly, but not certainly) (verb)
-===Me===
-  (Hakka) Me̍t-sî-kô :: Mexico (country) (proper noun)
 ===Měiguó===
   美國國家航空航天局, 美国国家航空航天局 (Měiguó guójiā hángkōng hángtiānjú), (Taiwan) 美國國家航空暨太空總署, 美国国家航空暨太空总署 (Měiguó guójiā hángkōng jì tàikōng zǒngshǔ) :: NASA (National Aeronautics and Space Administration) ({{acronym}})
 ***美国国家航空航天局***
@@ -1770,6 +1771,8 @@ Index: ZH ZH->EN
   (Cantonese) 屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
 ===門小===
   (Cantonese) 屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
+===Me̍t===
+  (Hakka) Me̍t-sî-kô :: Mexico (country) (proper noun)
 ===免===
   免費的, 免费的 (miǎnfèi de) :: free (obtainable without payment) (adjective)
 ===miǎnchú===
@@ -1911,12 +1914,12 @@ Index: ZH ZH->EN
   (Cantonese) 我鐘意你 (ngo5 zung1 yi3 nei5) :: I love you (platonic expression of inclination or liking) (phrase)
 ===ngou6===
   (Teochew) ngou6 :: five (five (5)) (cardinal number)
+===ngṳ̄===
+  (Min Dong) Dáik-ngṳ̄ :: German (the German language) (proper noun)
+  (Min Dong) 英語, 英语 (Ĭng-ngṳ̄) :: English (the English language) (proper noun)
 ===ngu===
   (Wu) 我爱侬 (wo ei non, ngu ei non) :: I love you (affirmation of romantic feeling) (phrase)
   (Eastern Hokkien (Min Dong)) 五 (ngu) :: five (five (5)) (cardinal number)
-===ngṳ===
-  (Min Dong) Dáik-ngṳ̄ :: German (the German language) (proper noun)
-  (Min Dong) 英語, 英语 (Ĭng-ngṳ̄) :: English (the English language) (proper noun)
 ===nǐ===
   我愛你, 我爱你 (wǒ ài nǐ) :: I love you (affirmation of affection or deep caring) (phrase)
   我愛你, 我爱你 (wǒ ài nǐ) :: I love you (affirmation of romantic feeling) (phrase)
@@ -2723,11 +2726,6 @@ Index: ZH ZH->EN
   (Cantonese) Taap<sup>3</sup>naap<sup>6</sup>tok<sup>3</sup>si<sup>1</sup> :: Thanatos (Thanatos, the god of death) (noun)
 ***сы***
   (Dungan) сы :: be (used to indicate that the subject and object are the same) (verb)
-===t===
-  (Hakka) Me̍t-sî-kô :: Mexico (country) (proper noun)
-  (Min Nan) 日本 (Ji̍t-pún) :: Japan (A Far East country in Asia) (proper noun)
-  (Min Nan) 日頭 (ji̍t-thâu, li̍t-thâu) :: sun (the star around which the Earth revolves) (proper noun)
-  (Min Nan) 今仔日 (kin-á-ji̍t) :: today (today (noun)) (noun)
 ===taai3===
   (Cantonese) 太陽, 太阳, taai3 joeng4, 日頭, 日头, jat6 tau2, 熱頭, 热头, jit6 tau2 :: sun (the star around which the Earth revolves) (proper noun)
 ===Taap===

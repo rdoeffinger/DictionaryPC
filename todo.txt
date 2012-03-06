@@ -1,16 +1,16 @@
-for i in res/raw/*.html; do tidy --input-encoding utf8  --output-file $i $i; done
+for i in res/raw*/*.html; do echo $i; tidy --input-encoding utf8  --output-file $i $i; done
 
-
+SpannableText persisted class with a list of spans with span types. (might need its own builder.)
+Choosable flags for: German, Spanish, English, Portuguese, Arabic (with defaults).
+Hide uninstalled dictionaries.
+Update DictionaryBuilder.jar
 For next release:
 flag images
 test/fix return to last-used dictionary
-downloads
+downloads stability
 history dialog
-check arabic UI fix
-handle examples like "asdf (asdf)"
 random word jump
 italian verbs... (show conjugation, pulled from a linked place....--would lower size a lot!)
-better example splitting
 
 Handle other sections:
   Pronunciation
@@ -18,7 +18,10 @@ Handle other sections:
   Usage notes.
   Chinese: handle "Compounds" section
 
-* multi word search
+handle enwiktionary examples like "asdf (asdf)"
+better example splitting
+check arabic UI fix
+
 * link to leo, dict.cc
 * source in context menu
 * quiz
@@ -106,3 +109,5 @@ about dict dialog
 fix up dictionary manager:
   thread that handles unzipping, downloading for the life of the application (so screen changes don't screw it up).
   check over UI.
+* multi word search
+  

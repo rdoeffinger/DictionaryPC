@@ -23,6 +23,7 @@ import java.util.Set;
 
 import junit.framework.TestCase;
 
+import com.hughes.android.dictionary.parser.DictFileParser;
 import com.hughes.android.dictionary.parser.wiktionary.WiktionaryLangs;
 import com.ibm.icu.text.Transliterator;
 
@@ -169,6 +170,18 @@ public class LanguageTest extends TestCase {
        
   }
 
+  public void testThai() {
+    final Language th = Language.lookup("TH");
+    final Transliterator transliterator = Transliterator.createFromRules("", th.getDefaultNormalizerRules(), Transliterator.FORWARD);
+    // Not sure these are right, just to know...
+    assertEquals("d", transliterator.transliterate("ด"));
+    assertEquals("di", transliterator.transliterate("ด ี"));
+    assertEquals("dii", transliterator.transliterate("ดีี"));
+    
+    assertEquals(Collections.singleton("ดีี"), DictFileParser.tokenize("ดีี", DictFileParser.NON_CHAR));
+  }
+
+  
   public void testEnWiktionaryNames() {
     final Set<String> enLangs = new LinkedHashSet<String>(WiktionaryLangs.isoCodeToWikiName.keySet());
     for (final String code : WiktionaryLangs.isoCodeToWikiName.keySet()) {

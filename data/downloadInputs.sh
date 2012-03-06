@@ -2,7 +2,6 @@
 
 OLD_DIR=`pwd`
 DIR=`dirname $0`
-
 cd $DIR
 
 echo "Downloading from: http://ftp.tu-chemnitz.de/pub/Local/urz/ding/de-en-devel/"

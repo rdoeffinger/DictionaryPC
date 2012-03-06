@@ -80,6 +80,13 @@ public class DictionaryBuilderTest extends TestCase {
         "DE.data", "enwiktionary.german", "German", "it");
   }
 
+  // Thai
+  public void testWiktionary_TH_TH() throws Exception {
+    wiktionaryTestWithLangToEn("wiktionary.th_th.quickdic", "TH", "empty.txt",
+        // These missing "e" prevents a complete match, forcing the name to be printed.
+        "TH.data", "enwiktionary.thai", "Thai", "th");
+  }
+
   public void wiktionaryTestWithLangToEn(final String name, final String lang1,
       final String stoplist, final String data, final String dictName,
       final String langPattern, final String langCode) throws Exception {

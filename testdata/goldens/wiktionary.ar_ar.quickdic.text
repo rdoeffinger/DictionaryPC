@@ -1,22 +1,41 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.arabic 13381
+EntrySource: enwiktionary.arabic 13375
 
 Index: AR AR->EN
+***٠***
+  ٠ (ʂifr) :: 0 (zero)
+***١***
+  ١ (wáħid) :: 1 (one)
+***١٠***
+  ١٠ (‘áshara) :: 10 (ten)
+  ١٠ (‘áshara) :: Previous: ٩
+  ١٠ (‘áshara) :: Next: ١١
+***٢***
+  ٢ (ithnéin) :: 2 (two)
+***٣***
+  ٣ (thalátha) :: 3 (three)
+***٤***
+  ٤ (arba‘a) :: 4 (four)
+***٥***
+  ٥ (khámsa) :: 5 (five)
+***٦***
+  ٦ (sítta) :: 6 (six)
+***٧***
+  ٧ (sáb‘a) :: 7 (seven)
+***٨***
+  ٨ (thamánya) :: 8 (eight)
+***٩***
+  ٩ (tís‘a) :: 9 (nine)
 ***أ***
   أ / ‍أ (’álifu hámzatin) :: The first letter of the Arabic alphabet is the small hamza (ء) that sits on top of أ, and the tall column is its bearer. The composite letter is called الف (’álif) and the hamza represents a glottal stop (/ʔ/). (For the pronunciation without hamza, see ا.) It is followed by ب.
   أ / ‍أ (’álifu hámzatin) :: The first letter in traditional abjad order, which is used in place of numerals for list numbering (abjad numerals). It is followed by ب.
   أ / ‍أ (ʼa) :: Initial interrogative particle that indicates a yes-or-no question, usually precedes a noun or a pronoun, not a verb or an adjective. It’s written together with the following word as all one letter words.
-  صفر صُفْر (Sufr) {p} :: yellow, pale, pallid, wan ({plural of|أَصْفَر})
 ***ا***
   ا / ‍ا (’álif)thumb :: Although usually considered to be the first letter of the Arabic alphabet, the small hamza (ء) that sits on top of أ is really the first letter of the Arabic alphabet, and the tall column is its bearer. This entry only deals with the lower part, the bearer, which is called الف (’álif) and, without the hamza, is used to lengthen a preceding vowel, often a. It is followed by ب.
-  (Tunisian Arabic) اِسْمْ {m} (ʾism) (noun) :: title
-    مَا خْتَارِشْ اِسْمْ بَاهِي لِكْتَابُو :: mā ḫtāriš ʾism bāhī liktābū
-    He didn't choose a good title for his book :: --
-  ف‍- (fa-) (prefix) :: then, and then
-    يومًا فيومًا (yáuman fa-yáuman) :: day after day
-    شيئًا فشيئًا (šái’an fa-šái’an) :: step by step
 ***اﷲ***
   اﷲ (allāh) {m} :: Allah, God
+===أَصْفَر===
+  صفر صُفْر (Sufr) {p} :: yellow, pale, pallid, wan ({plural of|أَصْفَر})
 ===ab===
   أبٌ {m} (’ab) (noun), آبَاءٌ (’ābā’) {p} :: father
   أبٌ {m} (’ab) (noun), آبَاءٌ (’ābā’) {p} :: ancestor, forefather
@@ -28,9 +47,6 @@ Index: AR AR->EN
   أبٌ {m} (’ab) (noun), آبَاءٌ (’ābā’) {p} :: ancestor, forefather
   اب آب (’Āb) {m} :: August (month name used in Syria, Lebanon, Jordan, and Iraq)
   اب آب (’āba) :: to return, to come back
-  (Tunisian Arabic) اِسْمْ {m} (ʾism) (noun) :: title
-    مَا خْتَارِشْ اِسْمْ بَاهِي لِكْتَابُو :: mā ḫtāriš ʾism bāhī liktābū
-    He didn't choose a good title for his book :: --
 ***اباحية***
   اباحية {{ar-noun|tr=’ibaħíyya|g=f|head=إِبَاحِيَّة}} :: libertinism
   اباحية {{ar-noun|tr=’ibaħíyya|g=f|head=إِبَاحِيَّة}} :: licentiousness
@@ -133,10 +149,6 @@ Index: AR AR->EN
   أغسطس {{ar-noun|head=أغُسْطُسْ|tr=’ağúʂʈuʂ|g=m}} :: August (Westernized calendar)
 ===اغوال===
   اغوال (’ağwāl) :: ghouls ({plural of|غول})
-===اه===
-  (Tunisian Arabic) اِسْمْ {m} (ʾism) (noun) :: title
-    مَا خْتَارِشْ اِسْمْ بَاهِي لِكْتَابُو :: mā ḫtāriš ʾism bāhī liktābū
-    He didn't choose a good title for his book :: --
 ***أحبك***
   أحبك (uHíbbuka, uHíbbak) :: I love you (to a male)
   أحبك (uHíbbuki, uHíbbik) :: I love you (to a female)
@@ -164,9 +176,10 @@ Index: AR AR->EN
   حال {m|f} (ḥāla) (noun), plural: أحوال, ’aḥwāl :: case
   حال {m|f} (ḥāla) (noun), plural: أحوال, ’aḥwāl :: present, actuality
   حال {m|f} (ḥāla) (noun), plural: أحوال, ’aḥwāl :: matter, affair, concern
-===اج===
-  (Tunisian Arabic) و (u) (conjunction) :: and
-    حَاجْتِي بْقْلَمْ وكَرّاسَة (ḥājtī bqlam u karrāsa) :: I need a pencil and a copy-book
+===اِسْمْ===
+  (Tunisian Arabic) اِسْمْ {m} (ʾism) (noun) :: title
+    مَا خْتَارِشْ اِسْمْ بَاهِي لِكْتَابُو :: mā ḫtāriš ʾism bāhī liktābū
+    He didn't choose a good title for his book :: --
 ===اجنان===
   اجنان (ajnān) {p} :: {plural of|جنان}
 ===اجتماعي===
@@ -744,10 +757,6 @@ Index: AR AR->EN
   رب (rabb) {m}, ارباب (’arbāb) {p} :: master, lord, king, sovereign, potentate, gentleman
     الرب (ar-rább) :: God; Lord
     رب العائلة (rabb al-ʕá’ila) :: paterfamilias
-===ار===
-  (Tunisian Arabic) اِسْمْ {m} (ʾism) (noun) :: title
-    مَا خْتَارِشْ اِسْمْ بَاهِي لِكْتَابُو :: mā ḫtāriš ʾism bāhī liktābū
-    He didn't choose a good title for his book :: --
 ===Arab===
   جميل {m} (jamiil) (adjective), feminine singular and inanimate plural: جميلة, masculine plural: جمال, feminine plural: جميلات :: beautiful
   برج (burj) (noun), dual: برجي (barjī), plural: بروج (burūj) or ابراج (’abrāj) :: castle
@@ -789,9 +798,6 @@ Index: AR AR->EN
   سرطان سَرَطان (saraṭān) {m}, سرطانات (saraṭanāt) {p} :: crab
     السرطان (as-saraṭān) :: Cancer (sign of the zodiac)
     سرطان بحري (saraṭān báħriy) :: lobster
-===اس===
-  (Tunisian Arabic) و (u) (conjunction) :: and
-    حَاجْتِي بْقْلَمْ وكَرّاسَة (ḥājtī bqlam u karrāsa) :: I need a pencil and a copy-book
 ===asad===
   أسَد {m} ('asad) (noun), , أُسُود ('usuud) {p} :: lion
   (Egyptian Arabic) أسد {m} ('asad) (noun), , أسود ('usuud) {p} :: lion
@@ -960,15 +966,6 @@ Index: AR AR->EN
   (Tunisian Arabic) بـ (b) (preposition) :: with
     نْحِبْ قَهْوَة بِالْحْلِيبْ (nḥib qahwa bilḥlīb) — I like coffee with milk :: --
     تُرْعُشْ بِالْخُوفْ (turʿuš bilḫūf) - She is shaking with fear :: --
-  (Tunisian Arabic) و (u) (conjunction) :: and
-    حَاجْتِي بْقْلَمْ وكَرّاسَة (ḥājtī bqlam u karrāsa) :: I need a pencil and a copy-book
-  (Tunisian Arabic) اِسْمْ {m} (ʾism) (noun) :: title
-    مَا خْتَارِشْ اِسْمْ بَاهِي لِكْتَابُو :: mā ḫtāriš ʾism bāhī liktābū
-    He didn't choose a good title for his book :: --
-  ـكَ {m} (-ka) (suffix) :: you, your (bound object pronoun)
-    بِكَ (bika) :: to you
-  ـكِ {f} (-ki) (suffix) :: you, your (bound object pronoun)
-    بِكِ (biki) :: to you
 ===ba===
   جعبة (já‘ba) (noun), plural: جعاب :: quiver (for arrows)
 ***باب***
@@ -985,6 +982,10 @@ Index: AR AR->EN
   بابا (bābā) {m}, بابوات (bābawāt) {p}, باباوات (bābāwāt) {p} :: papa, daddy, father
 ===bahār===
   بهار {m} (bahār) (noun), بهارات (baharāt) {p} :: spice
+===بَاهِي===
+  (Tunisian Arabic) اِسْمْ {m} (ʾism) (noun) :: title
+    مَا خْتَارِشْ اِسْمْ بَاهِي لِكْتَابُو :: mā ḫtāriš ʾism bāhī liktābū
+    He didn't choose a good title for his book :: --
 ===báħri===
   رب (rabb) {m}, ارباب (’arbāb) {p} :: leader, chief, head
     رب بحري (rabb báħri) :: seaman (naval rank)
@@ -1096,6 +1097,9 @@ Index: AR AR->EN
 ===bika===
   ـكَ {m} (-ka) (suffix) :: you, your (bound object pronoun)
     بِكَ (bika) :: to you
+===بِكَ===
+  ـكَ {m} (-ka) (suffix) :: you, your (bound object pronoun)
+    بِكَ (bika) :: to you
 ===biki===
   ـكِ {f} (-ki) (suffix) :: you, your (bound object pronoun)
     بِكِ (biki) :: to you
@@ -1104,6 +1108,9 @@ Index: AR AR->EN
     ازايك (izzayyak) :: How are you(m) ?
     بك (bik) :: to you(m)
     بك (biki) :: to you(f)
+===بِكِ===
+  ـكِ {f} (-ki) (suffix) :: you, your (bound object pronoun)
+    بِكِ (biki) :: to you
 ===بك===
   (Egyptian Arabic) ك {m|f} (-k) (suffix) :: you, your (bound object pronoun)
     ازايك (izzayyik) :: How are you(f) ?
@@ -1152,6 +1159,9 @@ Index: AR AR->EN
   بنت {{ar-noun|tr=bint|g=f|pl=بنات|pltr=banāt}} :: queen
   بنت الأخ (bint al-’ákh) {f} :: fraternal niece
 ===bqlam===
+  (Tunisian Arabic) و (u) (conjunction) :: and
+    حَاجْتِي بْقْلَمْ وكَرّاسَة (ḥājtī bqlam u karrāsa) :: I need a pencil and a copy-book
+===بْقْلَمْ===
   (Tunisian Arabic) و (u) (conjunction) :: and
     حَاجْتِي بْقْلَمْ وكَرّاسَة (ḥājtī bqlam u karrāsa) :: I need a pencil and a copy-book
 ***بقلاوة***
@@ -1358,6 +1368,7 @@ Index: AR AR->EN
   ضد {{ar-noun|head=ضِدّ|tr=Didd|g=m|pl=اضداد|plhead=أضداد}} :: adversary, opponent
   ضد {{ar-noun|head=ضِدّ|tr=Didd|g=m|pl=اضداد|plhead=أضداد}} :: antitoxin, antidote, anti-
   ضِد{{ar-dia|sha}} (Didda) (preposition) :: against.
+===ضدّ===
   أضداد (’aḍdād) :: {plural of|ضدّ}; opposites.
 ***دف***
   دف {{ar-verb (old)|I|دَفّ|dáffa|دف}}{{ar-verb (old)|II|دَفّ|dáffa|دف}} :: to flap the wings (of a bird)
@@ -1585,7 +1596,6 @@ Index: AR AR->EN
   ف‍- (fa-) (prefix) :: because, for
   ف‍- (fa-) (prefix) :: (with a subjunctive) so that
   م.ت.ف (m.t.f.) {f} (abbreviation of منظمة التحرير الفلسطينية) :: PLO, Palestine Liberation Organization
-  صفر صُفْر (Sufr) {p} :: yellow, pale, pallid, wan ({plural of|أَصْفَر})
 ===fa===
   ف‍- (fa-) (prefix) :: then, and then
     يومًا فيومًا (yáuman fa-yáuman) :: day after day
@@ -1697,7 +1707,7 @@ Index: AR AR->EN
   فروسية (furūsiyya) {f} :: horsemanship, hippology, farriery
   فروسية (furūsiyya) {f} :: chivalry, knighthood
   فروسية (furūsiyya) {f} :: heroism, valor
-===فشيئ===
+===فشيئًا===
   ف‍- (fa-) (prefix) :: then, and then
     يومًا فيومًا (yáuman fa-yáuman) :: day after day
     شيئًا فشيئًا (šái’an fa-šái’an) :: step by step
@@ -1731,7 +1741,7 @@ Index: AR AR->EN
   فيلسوف فَيْلَسوف (failasūf) {m}, فلاسفة (falāsifa) {p} :: philosopher
 ***فيتنام***
   فيتنام (fitnām) {m} :: Vietnam
-===فيوم===
+===فيومًا===
   ف‍- (fa-) (prefix) :: then, and then
     يومًا فيومًا (yáuman fa-yáuman) :: day after day
     شيئًا فشيئًا (šái’an fa-šái’an) :: step by step
@@ -1787,8 +1797,6 @@ Index: AR AR->EN
 ***ح***
   ح / ح‍ / ‍ح‍ / ‍ح (ḥā’) :: The sixth letter of the Arabic alphabet. It is preceded by ج and followed by خ.
   ح / ح‍ / ‍ح‍ / ‍ح (ḥā’) :: The eighth letter in traditional abjad order, which is used in place of numerals for list numbering (abjad numerals). It is preceded by ز and followed by ط.
-  (Tunisian Arabic) و (u) (conjunction) :: and
-    حَاجْتِي بْقْلَمْ وكَرّاسَة (ḥājtī bqlam u karrāsa) :: I need a pencil and a copy-book
 ***ه***
   ه / ﻫ / ‍ه‍ / ‍ه (hā’) :: The twenty-sixth letter of the Arabic alphabet. It is preceded by ن and followed by و.
   ه (number) :: The fifth letter in traditional abjad order, which is used in place of numerals for list numbering (abjad numerals). It is preceded by د and followed by و.
@@ -1809,7 +1817,7 @@ Index: AR AR->EN
   هدف {m} (hádaf) (noun), plural: اهداف (’ahdāf) :: target, object, aim, end
   هدف {m} (hádaf) (noun), plural: اهداف (’ahdāf) :: objective, purpose, design, intention
   هدف {m} (hádaf) (noun), plural: اهداف (’ahdāf) :: goal
-===Ħāfiđ===
+===Ħāfiđ̣===
   حافظ {m} (Ħāfiđ̣) (proper noun) :: {{given name|male}}, Hafez
 ***حافظ***
   حافظ {{ar-verb|form=3|tr=ħāfađ̣a|impf=يحافظ|impftr=yuħāfiđ̣u}} :: to preserve, to maintain, to keep up, to uphold, to sustain
@@ -1823,6 +1831,9 @@ Index: AR AR->EN
 ===Hajj===
   حج {m} (Hajj) (noun), Plural: حجج, Híjaj :: hajj, pilgrimage
 ===ḥājtī===
+  (Tunisian Arabic) و (u) (conjunction) :: and
+    حَاجْتِي بْقْلَمْ وكَرّاسَة (ḥājtī bqlam u karrāsa) :: I need a pencil and a copy-book
+===حَاجْتِي===
   (Tunisian Arabic) و (u) (conjunction) :: and
     حَاجْتِي بْقْلَمْ وكَرّاسَة (ḥājtī bqlam u karrāsa) :: I need a pencil and a copy-book
 ***حال***
@@ -2503,12 +2514,6 @@ Index: AR AR->EN
   (Egyptian Arabic) كـ (ki-) (preposition) :: like
     مش كده :: not like this
     مش كده ؟ :: isn't it ? (tag question)
-  (Tunisian Arabic) اِسْمْ {m} (ʾism) (noun) :: name
-    شِسْمِكْ ؟ :: šismik
-    What's your name? :: --
-  (Tunisian Arabic) اِسْمْ {m} (ʾism) (noun) :: title
-    مَا خْتَارِشْ اِسْمْ بَاهِي لِكْتَابُو :: mā ḫtāriš ʾism bāhī liktābū
-    He didn't choose a good title for his book :: --
 ===ka===
   كَـ (ka-) (preposition) :: like, as
   ـكَ {m} (-ka) (suffix) :: you, your (bound object pronoun)
@@ -2533,9 +2538,6 @@ Index: AR AR->EN
 ***خ***
   خ / خ‍ / ‍خ‍ / ‍خ (xā’) :: The seventh letter of the Arabic alphabet. It is preceded by ح and followed by د.
   خ / خ‍ / ‍خ‍ / ‍خ (xā’) :: The twenty-fourth letter in traditional abjad order, which is used in place of numerals for list numbering (abjad numerals). It is preceded by ث and followed by ذ.
-  (Tunisian Arabic) اِسْمْ {m} (ʾism) (noun) :: title
-    مَا خْتَارِشْ اِسْمْ بَاهِي لِكْتَابُو :: mā ḫtāriš ʾism bāhī liktābū
-    He didn't choose a good title for his book :: --
 ***خال***
   خالٍ (xālin) :: empty, void
   خالٍ (xālin) :: open, vacant
@@ -2646,6 +2648,10 @@ Index: AR AR->EN
   خنفساء (xunfusā’) {f}, خنافس (xanāfis) {p} :: beetle
 ***خردل***
   خردل {{ar-noun|g=m|tr=xárdal}} :: mustard
+===خْتَارِشْ===
+  (Tunisian Arabic) اِسْمْ {m} (ʾism) (noun) :: title
+    مَا خْتَارِشْ اِسْمْ بَاهِي لِكْتَابُو :: mā ḫtāriš ʾism bāhī liktābū
+    He didn't choose a good title for his book :: --
 ***كحول***
   كحول (kuħūl) {m} :: alcohol, spirits
 ***خون***
@@ -2812,11 +2818,6 @@ Index: AR AR->EN
   ل / ل‍ / ‍ل‍ / ‍ل (lām) :: The twenty-third letter of the Arabic alphabet. It is preceded by ك and followed by م.
   ل / ل‍ / ‍ل‍ / ‍ل (lām) :: The twelfth letter in traditional abjad order, which is used in place of numerals for list numbering (abjad numerals). It is preceded by ك and followed by م.
   ل (li-) :: A prefix meaning to, for, belonging to.
-  (Tunisian Arabic) و (u) (conjunction) :: and
-    حَاجْتِي بْقْلَمْ وكَرّاسَة (ḥājtī bqlam u karrāsa) :: I need a pencil and a copy-book
-  (Tunisian Arabic) اِسْمْ {m} (ʾism) (noun) :: title
-    مَا خْتَارِشْ اِسْمْ بَاهِي لِكْتَابُو :: mā ḫtāriš ʾism bāhī liktābū
-    He didn't choose a good title for his book :: --
 ***لا***
   لا {{ar-part|tr=lā}} :: not, no
   لا {{ar-part|tr=lā}} :: there is not, there is no
@@ -2844,6 +2845,10 @@ Index: AR AR->EN
 ===lii===
   ي (-ii) (pronoun) :: me, my (bound object pronoun)
     لي (lii) :: to me
+===لِكْتَابُو===
+  (Tunisian Arabic) اِسْمْ {m} (ʾism) (noun) :: title
+    مَا خْتَارِشْ اِسْمْ بَاهِي لِكْتَابُو :: mā ḫtāriš ʾism bāhī liktābū
+    He didn't choose a good title for his book :: --
 ===liyya===
   (Egyptian Arabic) ي (-ii) (pronoun) :: me, my (bound object pronoun)
     لي (liyya) :: to me
@@ -2910,16 +2915,6 @@ Index: AR AR->EN
   م / م‍ / ‍م‍ / ‍م (mīm) :: The twenty-fourth letter of the Arabic alphabet. It is preceded by ل and followed by ن.
   م / م‍ / ‍م‍ / ‍م (mīm) :: The thirteenth letter in traditional abjad order, which is used in place of numerals for list numbering (abjad numerals). It is preceded by ل and followed by ن.
   م.ت.ف (m.t.f.) {f} (abbreviation of منظمة التحرير الفلسطينية) :: PLO, Palestine Liberation Organization
-  (Tunisian Arabic) و (u) (conjunction) :: and
-    حَاجْتِي بْقْلَمْ وكَرّاسَة (ḥājtī bqlam u karrāsa) :: I need a pencil and a copy-book
-  (Tunisian Arabic) اِسْمْ {m} (ʾism) (noun) :: name
-    شِسْمِكْ ؟ :: šismik
-    What's your name? :: --
-  (Tunisian Arabic) اِسْمْ {m} (ʾism) (noun) :: title
-    مَا خْتَارِشْ اِسْمْ بَاهِي لِكْتَابُو :: mā ḫtāriš ʾism bāhī liktābū
-    He didn't choose a good title for his book :: --
-  بات {{ar-adj|tr=batt}} :: categorical
-    مَنع بات :: categorical interdiction
 ***ما***
   ما {{ar-pron|tr=mā}} :: {interrogative} what?
   ما {{ar-pron|tr=mā}} :: {indefinite} some, a certain
@@ -2931,6 +2926,10 @@ Index: AR AR->EN
   ما {{ar-adv|tr=mā}} :: whenever
   ما {{ar-adv|tr=mā}} :: as far as, to the extent that, to the degree that
   مَا وَرَاءَ النَهْر (maa waraa3a n-nahr) (proper noun) :: Transoxiana, "beyond the river" (an old name for the land in Central Asia north of the Amu Darya River).
+===مَا===
+  (Tunisian Arabic) اِسْمْ {m} (ʾism) (noun) :: title
+    مَا خْتَارِشْ اِسْمْ بَاهِي لِكْتَابُو :: mā ḫtāriš ʾism bāhī liktābū
+    He didn't choose a good title for his book :: --
 ===maa===
   مَا وَرَاءَ النَهْر (maa waraa3a n-nahr) (proper noun) :: Transoxiana, "beyond the river" (an old name for the land in Central Asia north of the Amu Darya River).
 ***ماه***
@@ -2947,6 +2946,9 @@ Index: AR AR->EN
 ===manāqīsh===
   مناقيش (manāqīsh) {m} :: manakish (a Middle-Eastern pastry similar to pizza); also spelt manaeesh or manakeesh in English.
     مناقيش بزعتر (manāqīsh bi-záʕtar) :: thyme manakish
+===مَنع===
+  بات {{ar-adj|tr=batt}} :: categorical
+    مَنع بات :: categorical interdiction
 ===máqdis===
   بيت المقدس (beyt al-muqáddas or al-máqdis) (proper noun) :: Jerusalem (the capital of Palestine and Israel)
 ***مار***
@@ -3249,7 +3251,7 @@ Index: AR AR->EN
   مرحبا مَرْحَبًا (marHában) :: hello, welcome (greeting)
 ===مرحلة===
   مرحلة زمنية (marħála zamníyya) {f} :: period, epoch
-===مرة===
+===مرةٍ===
   رب (rúbba) :: (with a following indefinite genitive) many
     رب رجلٍ (rúbba rájulin) :: many a man
     رب مرةٍ (rúbba márratin) :: many a time
@@ -3706,9 +3708,6 @@ Index: AR AR->EN
 ***نظرية***
   نظرية {{ar-noun|head=نَظَرِيَّة|tr=naðʿaríyya|g=f|pl=نظريات|pltr=naðʿariyyāt}} :: theory
   نظرية {{ar-noun|head=نَظَرِيَّة|tr=naðʿaríyya|g=f|pl=نظريات|pltr=naðʿariyyāt}} :: theorem
-===نع===
-  بات {{ar-adj|tr=batt}} :: categorical
-    مَنع بات :: categorical interdiction
 ***نعامة***
   نعامة (naʕāma) {f} (singulative), نعام (naʕām) {m} (collective), نعائم (naʕā’im) {p} :: ostrich
 ***نعش***
@@ -3728,8 +3727,6 @@ Index: AR AR->EN
 ***ق***
   ق / ق‍ / ‍ق‍ / ‍ق (qāf) :: The twenty-first letter of the Arabic alphabet. It is preceded by ف and followed by ك.
   ق / ق‍ / ‍ق‍ / ‍ق (qāf) :: The nineteenth letter in traditional abjad order, which is used in place of numerals for list numbering (abjad numerals). It is preceded by ص and followed by ر.
-  (Tunisian Arabic) و (u) (conjunction) :: and
-    حَاجْتِي بْقْلَمْ وكَرّاسَة (ḥājtī bqlam u karrāsa) :: I need a pencil and a copy-book
 ===qábla===
   قبل (qábla) (preposition)قبل (qíbala) (preposition) :: before
   قبل (qábla) (preposition)قبل (qíbala) (preposition) :: prior to
@@ -3965,9 +3962,6 @@ Index: AR AR->EN
 ***ر***
   ر / ‍ر (rā’) :: The tenth letter of the Arabic alphabet. It is preceded by ذ and followed by ز.
   ر / ‍ر (rā’) :: The twentieth letter in traditional abjad order, which is used in place of numerals for list numbering (abjad numerals). It is preceded by ق and followed by ش.
-  (Tunisian Arabic) و (u) (conjunction) :: and
-    حَاجْتِي بْقْلَمْ وكَرّاسَة (ḥājtī bqlam u karrāsa) :: I need a pencil and a copy-book
-  صفر صُفْر (Sufr) {p} :: yellow, pale, pallid, wan ({plural of|أَصْفَر})
 ===rabb===
   رب (rabb) {m}, ارباب (’arbāb) {p} :: master, lord, king, sovereign, potentate, gentleman
     الرب (ar-rább) :: God; Lord
@@ -4059,6 +4053,7 @@ Index: AR AR->EN
   رجل {{ar-noun|tr=rijl|g=f|pl=ارجل|pltr=ʾárjul}} :: {anatomy} leg, foot
   رجل {{ar-noun|tr=rijl|g=m|pl=ارجال|pltr=ʾarjāl}} :: swarm (especially, of locusts)
   رجل {{ar-noun|tr=rijl|g=m|pl=ارجال|pltr=ʾarjāl}} :: purslane (Portulaca oleracea L.)
+===رجلٍ===
   رب (rúbba) :: (with a following indefinite genitive) many
     رب رجلٍ (rúbba rájulin) :: many a man
     رب مرةٍ (rúbba márratin) :: many a time
@@ -4149,17 +4144,10 @@ Index: AR AR->EN
   س / س‍ / ‍س‍ / ‍س (sīn) :: The twelfth letter of the Arabic alphabet. It is preceded by ز and followed by ش.
   س / س‍ / ‍س‍ / ‍س (sīn) :: X, unknown variable.
   س / س‍ / ‍س‍ / ‍س (sīn) :: The fifteenth letter in traditional abjad order, which is used in place of numerals for list numbering (abjad numerals). It is preceded by ن and followed by ع.
-  (Tunisian Arabic) اِسْمْ {m} (ʾism) (noun) :: name
-    شِسْمِكْ ؟ :: šismik
-    What's your name? :: --
-  (Tunisian Arabic) اِسْمْ {m} (ʾism) (noun) :: title
-    مَا خْتَارِشْ اِسْمْ بَاهِي لِكْتَابُو :: mā ḫtāriš ʾism bāhī liktābū
-    He didn't choose a good title for his book :: --
 ***ص***
   ص / ص‍ / ‍ص‍ / ‍ص (ṣād) :: The fourteenth letter of the Arabic alphabet. It is preceded by ش and followed by ض.
   ص / ص‍ / ‍ص‍ / ‍ص (ṣād) :: Y, unknown variable.
   ص / ص‍ / ‍ص‍ / ‍ص (ṣād) :: The eighteenth letter in traditional abjad order, which is used in place of numerals for list numbering (abjad numerals). It is preceded by ف and followed by ق.
-  صفر صُفْر (Sufr) {p} :: yellow, pale, pallid, wan ({plural of|أَصْفَر})
 ===saa3a===
   (Egyptian Arabic) ساعة {f} (saa3a(t)) (noun) :: watch {l|gloss=portable or wearable timepiece}
   (Egyptian Arabic) ساعة {f} (saa3a(t)) (noun) :: time {l|gloss=time of day, as given by a clock}
@@ -4318,12 +4306,6 @@ Index: AR AR->EN
 ***ش***
   ش / ش‍ / ‍ش‍ / ‍ش (shiin) :: The thirteenth letter of the Arabic alphabet. It is preceded by س and followed by ص.
   ش / ش‍ / ‍ش‍ / ‍ش (shiin) :: The twenty-first letter in traditional abjad order, which is used in place of numerals for list numbering (abjad numerals). It is preceded by ر and followed by ت.
-  (Tunisian Arabic) اِسْمْ {m} (ʾism) (noun) :: name
-    شِسْمِكْ ؟ :: šismik
-    What's your name? :: --
-  (Tunisian Arabic) اِسْمْ {m} (ʾism) (noun) :: title
-    مَا خْتَارِشْ اِسْمْ بَاهِي لِكْتَابُو :: mā ḫtāriš ʾism bāhī liktābū
-    He didn't choose a good title for his book :: --
 ===shaal===
   (Egyptian Arabic) شال (shaal) (verb), يشيل (yishiil) :: to carry {l|gloss=to transport by lifting}
 ***شاذ***
@@ -4489,6 +4471,10 @@ Index: AR AR->EN
   (Egyptian Arabic) شباك {m} (shibbaak) (noun), {p} شبابيك :: window
 ===shiffa===
   (Egyptian Arabic) شفة {f} (shiffa) (noun), شفايف (shafaayif) {p} :: {anatomy} lip
+===شِسْمِكْ===
+  (Tunisian Arabic) اِسْمْ {m} (ʾism) (noun) :: name
+    شِسْمِكْ ؟ :: šismik
+    What's your name? :: --
 ***شجر***
   شجر {{ar-verb (old)|I|شَجَرَ|šájara}}{{ar-verb (old)|II|شَجّرَ|šájjara}}{{ar-verb (old)|III|شَاجَرَ|šājara|شاجر}}{{ar-verb (old)|V|تَشَجّرَ|tašájjara|تشجر}}{{ar-verb (old)|VI|تَشَاجَرَ|tašājara|تشاجر}}{{ar-verb (old)|VIII|اِشْتَجَرَ|ištájara|اشتجر}} :: to fight
   شجر {{ar-verb (old)|I|شَجَرَ|šájara}}{{ar-verb (old)|II|شَجّرَ|šájjara}}{{ar-verb (old)|III|شَاجَرَ|šājara|شاجر}}{{ar-verb (old)|V|تَشَجّرَ|tašájjara|تشجر}}{{ar-verb (old)|VI|تَشَاجَرَ|tašājara|تشاجر}}{{ar-verb (old)|VIII|اِشْتَجَرَ|ištájara|اشتجر}} :: to litigate
@@ -4637,7 +4623,7 @@ Index: AR AR->EN
   شيخ (šeykh) {m}, شيوخ (šuyūkh) {p}, اشياخ (ašyākh) {p}, مشيخة (mašyákha) {p}, مشايخ (mašāyikh) {p}, مشائخ (mašā’ikh) {p} :: senator
   شيخ (šeykh) {m}, شيوخ (šuyūkh) {p}, اشياخ (ašyākh) {p}, مشيخة (mašyákha) {p}, مشايخ (mašāyikh) {p}, مشائخ (mašā’ikh) {p} :: (title of professors and spiritual leaders) sheik, Dr., professor
   شيخ (šeykh) {m}, شيوخ (šuyūkh) {p}, اشياخ (ašyākh) {p}, مشيخة (mašyákha) {p}, مشايخ (mašāyikh) {p}, مشائخ (mašā’ikh) {p} :: (title of address) sir
-===شيئ===
+===شيئًا===
   ف‍- (fa-) (prefix) :: then, and then
     يومًا فيومًا (yáuman fa-yáuman) :: day after day
     شيئًا فشيئًا (šái’an fa-šái’an) :: step by step
@@ -4952,14 +4938,6 @@ Index: AR AR->EN
   ت / ت‍ / ‍ت‍ / ‍ت (tā’) :: The third letter of the Arabic alphabet. Its name is تاء (tā’) and it has the sound of English t. It is preceded by ب and followed by ث.
   ت / ت‍ / ‍ت‍ / ‍ت (tā’) :: The twenty-second letter in traditional abjad order, which is used in place of numerals for list numbering (abjad numerals). It is preceded by ش and followed by ث.
   م.ت.ف (m.t.f.) {f} (abbreviation of منظمة التحرير الفلسطينية) :: PLO, Palestine Liberation Organization
-  (Tunisian Arabic) و (u) (conjunction) :: and
-    حَاجْتِي بْقْلَمْ وكَرّاسَة (ḥājtī bqlam u karrāsa) :: I need a pencil and a copy-book
-  (Tunisian Arabic) اِسْمْ {m} (ʾism) (noun) :: title
-    مَا خْتَارِشْ اِسْمْ بَاهِي لِكْتَابُو :: mā ḫtāriš ʾism bāhī liktābū
-    He didn't choose a good title for his book :: --
-===ة===
-  (Tunisian Arabic) و (u) (conjunction) :: and
-    حَاجْتِي بْقْلَمْ وكَرّاسَة (ḥājtī bqlam u karrāsa) :: I need a pencil and a copy-book
 ***ط***
   ط / ط‍ / ‍ط‍ / ‍ط (ṭā’) :: The sixteenth letter of the Arabic alphabet. It is preceded by ض and followed by ظ.
   ط / ط‍ / ‍ط‍ / ‍ط (ṭā’) :: The ninth letter in traditional abjad order, which is used in place of numerals for list numbering (abjad numerals). It is preceded by ح and followed by ى.
@@ -5200,9 +5178,6 @@ Index: AR AR->EN
   و {{ar-con|tr=wa-, u-}} :: and
   (Tunisian Arabic) و (u) (conjunction) :: and
     حَاجْتِي بْقْلَمْ وكَرّاسَة (ḥājtī bqlam u karrāsa) :: I need a pencil and a copy-book
-  (Tunisian Arabic) اِسْمْ {m} (ʾism) (noun) :: title
-    مَا خْتَارِشْ اِسْمْ بَاهِي لِكْتَابُو :: mā ḫtāriš ʾism bāhī liktābū
-    He didn't choose a good title for his book :: --
 ===wa===
   البوسنة والهَرْسَك (al-buusna wa-al-harsak) (proper noun) :: Bosnia and Herzegovina
 ***واحد***
@@ -5240,7 +5215,7 @@ Index: AR AR->EN
   وجه {{ar-noun|head=وَجْه|tr=wajh|g=m|pl=وجوه|plhead=وُجوه}} :: front, façade
   وجه {{ar-noun|head=وَجْه|tr=wajh|g=m|pl=وجوه|plhead=وُجوه}} :: watch dial
   وجه {{ar-noun|head=وَجْه|tr=wajh|g=m|pl=وجوه|plhead=وُجوه}} :: outside, exterior, surface
-===وك===
+===وكَرّاسَة===
   (Tunisian Arabic) و (u) (conjunction) :: and
     حَاجْتِي بْقْلَمْ وكَرّاسَة (ḥājtī bqlam u karrāsa) :: I need a pencil and a copy-book
 ***ولا***
@@ -5326,11 +5301,6 @@ Index: AR AR->EN
   (Egyptian Arabic) ي (-ii) (pronoun) :: me, my (bound object pronoun)
     لي (liyya) :: to me
     كتابي (kitaabi) :: my book
-  (Tunisian Arabic) و (u) (conjunction) :: and
-    حَاجْتِي بْقْلَمْ وكَرّاسَة (ḥājtī bqlam u karrāsa) :: I need a pencil and a copy-book
-  (Tunisian Arabic) اِسْمْ {m} (ʾism) (noun) :: title
-    مَا خْتَارِشْ اِسْمْ بَاهِي لِكْتَابُو :: mā ḫtāriš ʾism bāhī liktābū
-    He didn't choose a good title for his book :: --
 ===yahūd===
   جمل جَمَل (jamal) {m}, جمال (jimāl) {p} :: chameleon
     جمل اليهود (jámal al-yahūd) :: chameleon
@@ -5356,6 +5326,7 @@ Index: AR AR->EN
 ***يوم***
   يوم يَوْم (yawm) {m}, أيام ('ayyaam) {p} :: day
   يوم يَوْم (yawm) {m}, أيام ('ayyaam) {p} :: age, era, time, period, epoch
+===يومًا===
   ف‍- (fa-) (prefix) :: then, and then
     يومًا فيومًا (yáuman fa-yáuman) :: day after day
     شيئًا فشيئًا (šái’an fa-šái’an) :: step by step
@@ -5760,16 +5731,26 @@ Index: EN EN->AR
   ٠ (ʂifr) :: 0 (zero)
 ===000===
   ٬ :: The Arabic thousands separator: ١٬٠٠٠٬٠٠٠٬٠٠٠ = 1,000,000,000
+===٠٠٠===
+  ٬ :: The Arabic thousands separator: ١٬٠٠٠٬٠٠٠٬٠٠٠ = 1,000,000,000
 ===1===
   ١ (wáħid) :: 1 (one)
+  ٬ :: The Arabic thousands separator: ١٬٠٠٠٬٠٠٠٬٠٠٠ = 1,000,000,000
+===١===
   ٬ :: The Arabic thousands separator: ١٬٠٠٠٬٠٠٠٬٠٠٠ = 1,000,000,000
 ===10===
   ١٠ (‘áshara) :: 10 (ten)
 ===100===
   ٪ :: The Arabic percent sign: ٪١٠٠ = 100%.
+===١٠٠===
+  ٪ :: The Arabic percent sign: ٪١٠٠ = 100%.
+===١١===
+  ١٠ (‘áshara) :: Next: ١١
 ===13th===
   عين (ʕayn) {f}, عَيْنَانِ (ʕeynāni, dual nom.), عَيْنَيْنِ (ʕeynéyni, dual acc./gen.), عُيُون (ʕuyūn, {p}) :: name of the 13th letter of the Arabic alphabet.
 ===14159265358===
+  ٫ :: The Arabic decimal point: ٣٫١٤١٥٩٢٦٥٣٥٨ = 3.14159265358
+===١٤١٥٩٢٦٥٣٥٨===
   ٫ :: The Arabic decimal point: ٣٫١٤١٥٩٢٦٥٣٥٨ = 3.14159265358
 ===1500===
   عندقت {{ar-proper noun|tr=ʕándqet}} :: Andket (a Maronite Christian village in northern Lebanon, over 1500 years old.)
@@ -5777,6 +5758,8 @@ Index: EN EN->AR
   ٢ (ithnéin) :: 2 (two)
 ===3===
   ٣ (thalátha) :: 3 (three)
+  ٫ :: The Arabic decimal point: ٣٫١٤١٥٩٢٦٥٣٥٨ = 3.14159265358
+===٣===
   ٫ :: The Arabic decimal point: ٣٫١٤١٥٩٢٦٥٣٥٨ = 3.14159265358
 ===3andush===
   (Egyptian Arabic) عند (ʕand) (preposition) :: expresses possession, to have
@@ -5798,6 +5781,8 @@ Index: EN EN->AR
   مشغرة {{ar-proper noun|tr=mašğara|g=f}} :: The village of Mashghara (Machghara), a Lebanese village renowned for its abundance of water, located in the Beqaa region approximately 87 kilometers from Beirut.
 ===9===
   ٩ (tís‘a) :: 9 (nine)
+===٩===
+  ١٠ (‘áshara) :: Previous: ٩
 ===أ===
   ب ﺏ / ﺑ / ﺒ / ﺐ (bā’) :: The second letter of the Arabic alphabet. Its name is باء (bā’) and it has the sound of English b. It is preceded by أ and followed by ت.
   ب (number) :: The second letter in traditional abjad order, which is used in place of numerals for list numbering (abjad numerals). It is preceded by أ and followed by ج.
@@ -6904,9 +6889,6 @@ Index: EN EN->AR
   عرب {{ar-verb (old)|II|عَرّبَ|{LR}3arraba}}{{ar-verb (old)|IV|أعرب|'á3raba}}{{ar-verb (old)|V|تعرب|ta3árraba}}{{ar-verb (old)|X|استعرب|istá3raba}} :: to use desinential inflection (اعراب, iʕrāb).
 ===b===
   ب ﺏ / ﺑ / ﺒ / ﺐ (bā’) :: The second letter of the Arabic alphabet. Its name is باء (bā’) and it has the sound of English b. It is preceded by أ and followed by ت.
-===ב===
-  بن (bin, ibn) {m}, بنت (bint) {f}, ابناء (abnā’) {p}, بنون (banūn) {p} :: son, base form of ابن (ibn) (same as Hebrew בֵּן).
-    بني (bunáiya) — my little son :: --
 ===ب===
   ا / ‍ا (’álif)thumb :: Although usually considered to be the first letter of the Arabic alphabet, the small hamza (ء) that sits on top of أ is really the first letter of the Arabic alphabet, and the tall column is its bearer. This entry only deals with the lower part, the bearer, which is called الف (’álif) and, without the hamza, is used to lengthen a preceding vowel, often a. It is followed by ب.
   ت / ت‍ / ‍ت‍ / ‍ت (tā’) :: The third letter of the Arabic alphabet. Its name is تاء (tā’) and it has the sound of English t. It is preceded by ب and followed by ث.
@@ -7191,6 +7173,9 @@ Index: EN EN->AR
   منطقة {{ar-noun|tr=mintʿáqa|g=f|pl=مناطق|pltr=manātʿiq}} :: belt, girdle
 ===ben===
   بان بَان (bān) (collective) {m}, بَانَة (bāna) (singulative) {f} :: ben tree, horseradish tree (the Moringa oleifera of Arabia and India, which produces oil of ben)
+===בֵּן===
+  بن (bin, ibn) {m}, بنت (bint) {f}, ابناء (abnā’) {p}, بنون (banūn) {p} :: son, base form of ابن (ibn) (same as Hebrew בֵּן).
+    بني (bunáiya) — my little son :: --
 ===bench===
   تخت (taxt) {m}, تخوت (tuxūt) {p} :: bench
 ===bend===
@@ -14272,9 +14257,6 @@ Index: EN EN->AR
   زاهد {m} (zāhid) (noun), زهاد (zuhhād) {p} :: {{context|Sufism}} A popular title bestowed on disciples of Mystic Sufi orders upon their initiation. After initiation the title took the place of the new Spiritual Masters’ given names. A famous bearer of the title Zahed was Sheikh Zahed Gilani of Lahijan in Gilan province of northern Iran.
 ===mythical===
   رخ (raxx) {m} (collective), رخة (ráxxa) {f} (singulative)رخ{m}رخاخ{p}رخخة{p} :: roc (mythical bird)
-===ן===
-  بن (bin, ibn) {m}, بنت (bint) {f}, ابناء (abnā’) {p}, بنون (banūn) {p} :: son, base form of ابن (ibn) (same as Hebrew בֵּן).
-    بني (bunáiya) — my little son :: --
 ===ن===
   س / س‍ / ‍س‍ / ‍س (sīn) :: The fifteenth letter in traditional abjad order, which is used in place of numerals for list numbering (abjad numerals). It is preceded by ن and followed by ع.
   م / م‍ / ‍م‍ / ‍م (mīm) :: The twenty-fourth letter of the Arabic alphabet. It is preceded by ل and followed by ن.
@@ -19382,6 +19364,8 @@ Index: EN EN->AR
 ===utterance===
   اعراب (iʕrāb) {m}اعراب{p} :: manifestation, declaration, proclamation, pronouncement, utterance
 ===V===
+  ﻫ (initial form of ه) (hā’) :: Normally the twenty-sixth letter of the Arabic alphabet, when this letter is used in this initial form as an enumerator, it is interpreted as the fifth letter in traditional abjad order, equivalent to our Roman numeral V or Ⅴ (see abjad numerals). It is preceded by د and followed by و.
+===Ⅴ===
   ﻫ (initial form of ه) (hā’) :: Normally the twenty-sixth letter of the Arabic alphabet, when this letter is used in this initial form as an enumerator, it is interpreted as the fifth letter in traditional abjad order, equivalent to our Roman numeral V or Ⅴ (see abjad numerals). It is preceded by د and followed by و.
 ===vacant===
   صفر {{ar-verb (old)|I|صفِر|ṣáfira}}{{ar-verb (old)|II|صفّر|ṣáffara}}{{ar-verb (old)|IV|اصفر|’áṣfara}} :: to be empty, to be devoid, to be vacant

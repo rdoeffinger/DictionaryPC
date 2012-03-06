@@ -50,17 +50,15 @@ public class DictFileParser implements Parser {
   public static final Pattern PIPE = Pattern.compile("\\|");
   
   static final Pattern SPACES = Pattern.compile("\\s+");
-//  static final Pattern DE_NOUN = Pattern.compile("([^ ]+) *\\{(m|f|n|pl)\\}");
-//  static final Pattern EN_VERB = Pattern.compile("^to ([^ ]+)");
   
   static final Pattern BRACKETED = Pattern.compile("\\[([^]]+)\\]");
   static final Pattern PARENTHESIZED = Pattern.compile("\\(([^)]+)\\)");
   static final Pattern CURLY_BRACED = Pattern.compile("\\{([^}]+)\\}");
   
-  static final Pattern NON_CHAR_DASH = Pattern.compile("[^-'\\p{L}0-9]+");
-  public static final Pattern NON_CHAR = Pattern.compile("[^\\p{L}0-9]+");
+  static final Pattern NON_CHAR_DASH = Pattern.compile("[^-'\\p{L}\\p{M}\\p{N}]+");
+  public static final Pattern NON_CHAR = Pattern.compile("[^\\p{L}\\p{M}\\p{N}]+");
 
-  static final Pattern TRIM_PUNC = Pattern.compile("^[^\\p{L}0-9]+|[^\\p{L}0-9]+$");
+  static final Pattern TRIM_PUNC = Pattern.compile("^[^\\p{L}\\p{M}\\p{N}]+|[^\\p{L}\\p{M}\\p{N}]+$");
 
   final Charset charset;
   final boolean flipCols;

@@ -296,5 +296,16 @@ public class DictionaryTest extends TestCase {
     raf.close();
   }
 
+  public void testThai() throws IOException {
+    final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "EN-TH_enwiktionary.quickdic", "r");
+    final Dictionary dict = new Dictionary(raf);
+    final Index thIndex = dict.indices.get(1);
+
+    final IndexEntry entry = thIndex.findInsertionPoint("ดี", new AtomicBoolean(false));
+    assertEquals("di", entry.token);
+    
+    raf.close();
+  }
+
 
 }
