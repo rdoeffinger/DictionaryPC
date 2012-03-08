@@ -268,6 +268,4 @@ public abstract class AbstractWiktionaryParser implements Parser {
     }
   }
 
-
-
 }

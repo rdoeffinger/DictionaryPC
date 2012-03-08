@@ -163,7 +163,7 @@ public final class EnForeignParser extends EnParser {
           // Do nothing.
         } else {
           LOG.warning("Unexpected token: " + wikiTokenizer.token());
-          assert false;
+          assert !wikiTokenizer.errors().isEmpty();
         }
       }
       

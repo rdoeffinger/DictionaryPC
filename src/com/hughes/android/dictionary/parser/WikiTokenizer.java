@@ -82,7 +82,7 @@ public final class WikiTokenizer {
   }
 
   public WikiTokenizer(final String wikiText, final boolean isNewline) {
-    this.wikiText = wikiText;
+    this.wikiText = wikiText.replaceAll("\u2028", "\n");
     this.matcher = wikiTokenEvent.matcher(wikiText);
     justReturnedNewline = isNewline;
   }
@@ -148,6 +148,10 @@ public final class WikiTokenizer {
         }
       }
     }
+  }
+  
+  public List<String> errors() {
+    return errors;
   }
   
   public boolean isNewline() {
@@ -419,7 +423,7 @@ public final class WikiTokenizer {
         
         assert matcher.end() > end || matchText.length() == 0: "Group=" + matcher.group();
         if (matchText.length() == 0) {
-          assert matchStart == wikiText.length() || wikiText.charAt(matchStart) == '\n';
+          assert matchStart == wikiText.length() || wikiText.charAt(matchStart) == '\n' : wikiText + ", " + matchStart;
           if (firstNewline == -1) {
             firstNewline = matcher.end();
           }

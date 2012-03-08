@@ -65,7 +65,7 @@ public class DictionaryBuilderMain extends TestCase {
     //isoToWikiName.clear();
     boolean go = false;
     for (final String foreignIso : isoToWikiName.keySet()) {
-      if (foreignIso.equals("BO")) {
+      if (foreignIso.equals("GD")) {
         go = true;
       }
       if (!go) {
@@ -93,9 +93,10 @@ public class DictionaryBuilderMain extends TestCase {
             String.format("--lang2Stoplist=%s", STOPLISTS + isoToStoplist.get(foreignIso)),
             String.format("--dictInfo=(EN)Wikitionary-based EN-%s dictionary.\n\n%s", foreignIso, isoToDedication.get(foreignIso)),
 
-            "--input2=" + INPUTS + "eikiSplit/en/" + foreignIso + ".data",
+            "--input2=" + INPUTS + "wikiSplit/en/" + foreignIso + ".data",
             "--input2Name=enwiktionary." + foreignIso,
             "--input2Format=enwiktionary",
+            "--input2WiktionaryType=EnForeign",
             "--input2LangPattern=" + isoToRegex.get(foreignIso),
             "--input2LangCodePattern=" + foreignIso.toLowerCase(),
             "--input2EnIndex=1",
@@ -103,6 +104,7 @@ public class DictionaryBuilderMain extends TestCase {
             "--input3=" + INPUTS + "wikiSplit/en/EN.data",
             "--input3Name=enwiktionary.english",
             "--input3Format=enwiktionary",
+            "--input3WiktionaryType=EnToTranslation",
             "--input3LangPattern=" + isoToRegex.get(foreignIso),
             "--input3LangCodePattern=" + foreignIso.toLowerCase(),
             "--input3EnIndex=1",
@@ -128,6 +130,7 @@ public class DictionaryBuilderMain extends TestCase {
         "--input2=" + INPUTS + "wikiSplit/en/DE.data",
         "--input2Name=enwiktionary.DE",
         "--input2Format=enwiktionary",
+        "--input2WiktionaryType=EnForeign",
         "--input2LangPattern=German",
         "--input2LangCodePattern=de",
         "--input2EnIndex=2",
@@ -135,6 +138,7 @@ public class DictionaryBuilderMain extends TestCase {
         "--input3=" + INPUTS + "wikiSplit/en/EN.data",
         "--input3Name=enwiktionary.english",
         "--input3Format=enwiktionary",
+        "--input3WiktionaryType=EnToTranslation",
         "--input3LangPattern=German",
         "--input3LangCodePattern=de",
         "--input3EnIndex=2",

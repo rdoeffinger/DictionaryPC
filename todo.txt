@@ -1,3 +1,12 @@
+rebuild dictionaries with bug fix
+make zip files
+rebuild index (for comparison), check it in
+download latest wiktionaries
+rebuild dictionaries.
+rebuild Check
+publish.
+
+
 for i in res/raw*/*.html; do echo $i; tidy --input-encoding utf8  --output-file $i $i; done
 
 SpannableText persisted class with a list of spans with span types. (might need its own builder.)

@@ -55,6 +55,7 @@ public class DictFileParser implements Parser {
   static final Pattern PARENTHESIZED = Pattern.compile("\\(([^)]+)\\)");
   static final Pattern CURLY_BRACED = Pattern.compile("\\{([^}]+)\\}");
   
+  // http://www.regular-expressions.info/unicode.html
   static final Pattern NON_CHAR_DASH = Pattern.compile("[^-'\\p{L}\\p{M}\\p{N}]+");
   public static final Pattern NON_CHAR = Pattern.compile("[^\\p{L}\\p{M}\\p{N}]+");
 

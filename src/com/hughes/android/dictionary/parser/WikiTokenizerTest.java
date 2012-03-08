@@ -60,7 +60,14 @@ public class WikiTokenizerTest extends TestCase {
     assertEquals("* {{a|US}} {{IPA|[ˈfɔɹ.wɝd]]}}", new WikiTokenizer(wikiText).nextToken().token());
     assertTrue(new WikiTokenizer(wikiText).nextToken().isListItem());
     assertEquals("\n", new WikiTokenizer(wikiText).nextToken().nextToken().token());
+
     
+    wikiText = "* [[asdf|\u2028" +
+    		"asdf]]";
+    assertEquals("* [[asdf|\n" +
+        "asdf]]", new WikiTokenizer(wikiText).nextToken().token());
+    assertTrue(new WikiTokenizer(wikiText).nextToken().isListItem());
+
   }
   
   public void testFunction() {
