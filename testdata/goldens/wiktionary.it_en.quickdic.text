@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.english 3472
+EntrySource: enwiktionary.english 3468
 
 Index: IT IT->EN
 ===15===
@@ -312,8 +312,6 @@ Index: IT IT->EN
 ***avatar***
   avatar {m}, incarnazione :: avatar (The earthly incarnation of a deity, particularly Vishnu) (noun)
   avatar {m}, emblema, simbolo :: avatar (A digital representation of a person or being) (noun)
-***avere***
-  avere :: be (used to indicate age) (verb)
 ***avverbio***
   avverbio {m} :: adverb (lexical category) (noun)
 ***azione***
@@ -476,7 +474,7 @@ Index: IT IT->EN
 ===comitologia===
   comitologia {f} :: comitology (art of resolving issues by committees) (noun)
 ***commercio***
-  commercio {m} :: trade (exchange) (noun)
+  commercio {m} :: trade (buying and selling) (noun)
 ***condire***
   condire, insaporire :: season (to flavour food) (verb)
 ***confusione***
@@ -1351,7 +1349,7 @@ Index: IT IT->EN
 ===romantic===
   incontro {m}, appuntamento {m} (the latter also as romantic meeting) :: date (pre-arranged social meeting) (noun)
 ***rosolare***
-  rosolare :: brown (to cook until brown) (verb)
+  rosolare :: brown (to cook until brown)
 ***rotaia***
   binario {m}, rotaia {f}, strada ferrata {f}, ferrovia {f} :: railway (track, consisting of parallel rails) (noun)
 ***rustico***
@@ -2054,7 +2052,6 @@ Index: EN EN->IT
   al traverso :: abreast (nautical: side by side; also, opposite; over against; on a line with the vessel's beam) (adverb)
   ombrello {m}, parapioggia :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
 ===age===
-  avere :: be (used to indicate age) (verb)
   datare :: date (to determine the age of something) (verb)
 ===agree===
   accettare, ammettere :: accept (to agree to) (verb)
@@ -2238,7 +2235,6 @@ Index: EN EN->IT
   essere :: be (used to indicate that the subject has the qualities described by a noun or noun phrase) (verb)
   essere :: be (used to form the passive voice) (verb)
   stare :: be (used to form the continuous forms of various tenses) (verb)
-  avere :: be (used to indicate age) (verb)
 ===beam===
   al traverso :: abreast (nautical: side by side; also, opposite; over against; on a line with the vessel's beam) (adverb)
 ===bean===
@@ -2347,7 +2343,7 @@ Index: EN EN->IT
 ===broken===
   brusco, brusca :: abrupt (broken off or very steep) (adjective)
 ***brown***
-  rosolare :: brown (to cook until brown) (verb)
+  rosolare :: brown (to cook until brown)
 ===bush===
   biancospino {m} :: may (the hawthorn bush or its blossom) (noun)
 ===but===
@@ -2355,6 +2351,8 @@ Index: EN EN->IT
   attimo {m}, momento {m}, :: minute (short but unspecified period of time) (noun)
 ===buttocks===
   chiappe {f} :: can (buttocks) (noun)
+===buying===
+  commercio {m} :: trade (buying and selling) (noun)
 ===calculating===
   abaco {m}, pallottoliere {m} :: abacus (calculating frame) (noun)
 ***calendar***
@@ -2644,7 +2642,7 @@ Index: EN EN->IT
 ===convergence===
   aberrazione {f} :: aberration (optics: convergence to different foci) (noun)
 ===cook===
-  rosolare :: brown (to cook until brown) (verb)
+  rosolare :: brown (to cook until brown)
 ===coordinates===
   ascissa {f} :: abscissa (first of two coordinates) (noun)
 ===copiously===
@@ -3069,7 +3067,6 @@ Index: EN EN->IT
 ===exchange===
   baratto {m} :: barter (an equal exchange) (noun)
   barattare :: barter (exchange goods or services without involving money) (verb)
-  commercio {m} :: trade (exchange) (noun)
 ===excrement===
   schifezza, escrementi {p}, merda, cacca {f} :: crap (excrement) (noun)
 ===executing===
@@ -3527,7 +3524,6 @@ Index: EN EN->IT
   essere uguale :: be (used to indicate that the values on either side of an equation are the same) (verb)
   essere :: be (used to indicate that the subject plays the role of the predicate nominative) (verb)
   essere :: be (used to indicate that the subject has the qualities described by a noun or noun phrase) (verb)
-  avere :: be (used to indicate age) (verb)
 ===indicates===
   verbo {m} :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
 ===indicating===
@@ -4754,6 +4750,8 @@ Index: EN EN->IT
   quartiere {m} :: quarter (section of a town) (noun)
 ===See===
   cane {m} :: dog (morally reprehensible person, See also scoundrel) (noun)
+===selling===
+  commercio {m} :: trade (buying and selling) (noun)
 ===semen===
   sborra {f} :: cum (slang: male semen) (noun)
 ===separating===
@@ -5251,7 +5249,7 @@ Index: EN EN->IT
   orologio {m} :: clock (instrument to measure or keep track of time) (noun)
   binario {m}, rotaia {f}, strada ferrata {f}, ferrovia {f} :: railway (track, consisting of parallel rails) (noun)
 ***trade***
-  commercio {m} :: trade (exchange) (noun)
+  commercio {m} :: trade (buying and selling) (noun)
   aliseo {m} :: trade wind (steady wind) (noun)
   sindacato {m} :: trade union (organization) (noun)
 ===traditional===
@@ -5345,7 +5343,7 @@ Index: EN EN->IT
 ===unspecified===
   attimo {m}, momento {m}, :: minute (short but unspecified period of time) (noun)
 ===until===
-  rosolare :: brown (to cook until brown) (verb)
+  rosolare :: brown (to cook until brown)
 ===untimely===
   abortivo {m} :: abortion (immature product of an untimely birth) (noun)
 ===untrue===
@@ -5379,7 +5377,6 @@ Index: EN EN->IT
   essere :: be (used to indicate that the subject has the qualities described by a noun or noun phrase) (verb)
   essere :: be (used to form the passive voice) (verb)
   stare :: be (used to form the continuous forms of various tenses) (verb)
-  avere :: be (used to indicate age) (verb)
   linguaggio {m} :: language (particular words used) (noun)
   carborundo :: Carborundum (crystals of silicon carbide used as an abrasive) (noun)
 ===Used===

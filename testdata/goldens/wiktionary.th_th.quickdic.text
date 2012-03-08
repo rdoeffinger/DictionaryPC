@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.thai 4911
+EntrySource: enwiktionary.thai 4915
 
 Index: TH TH->EN
 ***ฯลฯ***
@@ -106,7 +106,7 @@ Index: TH TH->EN
 ===baang===
   บางกอก (baang-gòk) (proper noun) :: Bangkok
 ===bàat===
-  บาท (bàat) (noun) :: Baht, Thai currency, and the symbol is ฿
+  บาท (bàat, /bɑːt/) (noun) :: Baht, Thai currency, and the symbol is ฿
 ===bad===
   บัตร (bad) (noun) :: card
 ***บ้าน***
@@ -126,9 +126,11 @@ Index: TH TH->EN
 ===bariwaan===
   บริวาร (bariwaan) (noun) :: followers.
 ***บาท***
-  บาท (bàat) (noun) :: Baht, Thai currency, and the symbol is ฿
+  บาท (bàat, /bɑːt/) (noun) :: Baht, Thai currency, and the symbol is ฿
 ***บัตร***
   บัตร (bad) (noun) :: card
+===bɑːt===
+  บาท (bàat, /bɑːt/) (noun) :: Baht, Thai currency, and the symbol is ฿
 ===bēb===
   บีบ (bēb) (verb) :: to squeeze
 ===bengaalii===
@@ -762,7 +764,7 @@ Index: TH TH->EN
 ***เห็นด้วย***
   เห็นด้วย (hen duay) (verb) :: To agree with.
 ***เหงื่อ***
-  เหงื่อ (ngèua) (noun) :: A sweat.
+  เหงื่อ {{th-noun|tr=ngèua}} :: sweat
 ***เหนื่อย***
   เหนื่อย (ngèuay) (adjective) :: weary.
 ===hèt===
@@ -1258,7 +1260,7 @@ Index: TH TH->EN
 ***แฃวน***
   แฃวน (khwaen) (verb) :: {obsolete}Alternative spelling of แขวน.
 ***แขวนบนเส้นด้าย***
-  แขวนบนเส้นด้าย (idiomatic) :: {idiomatic} to be in danger, calling for precise caution. To be in a precarious situation. To hang by a thread
+  แขวนบนเส้นด้าย (phrase) :: {idiomatic} to be in danger, calling for precise caution. To be in a precarious situation. To hang by a thread
 ===khai===
   ไข่ (khai) (noun) :: An egg.
 ===khāi===
@@ -1781,12 +1783,10 @@ Index: TH TH->EN
 ===leu===
   ฦๅ (leu) (verb) :: {obsolete} Alternative spelling of ลือ.
   ฦๅ (ḹ; leu) (letter) :: A letter of the Thai alphabet, considered a vowel.
-===leuad===
-  เลือด (leuad) (noun) :: blood.
 ===leuu===
   ลือ (leuu) (verb) :: To spread a rumor.
 ***เลือด***
-  เลือด (leuad) (noun) :: blood.
+  เลือด {{th-noun|tr=leuad}} :: blood
 ===li===
   พรหมลิขิต (pom li khit) (noun) :: fate
 ===liā===
@@ -2288,8 +2288,6 @@ Index: TH TH->EN
   เงิน (ngern) (noun) :: money
   การเงิน (gaan ngern) (noun) :: finance
   การเงิน (gaan ngern) (noun) :: monetary matters
-===ngèua===
-  เหงื่อ (ngèua) (noun) :: A sweat.
 ===ngèuay===
   เหนื่อย (ngèuay) (adjective) :: weary.
 ===ngeuk===
@@ -2469,6 +2467,7 @@ Index: TH TH->EN
   ภมุ (pámóo) (noun) :: eyebrow
 ===pan===
   พัน (pan) (verb) :: To bind.
+  พัน (pan) (number) :: {cardinal} 1000 (Thai numerals: ๑๐๐๐)
   ปั่น (pan) (verb) :: To blend something in a blender.
   ปั่น (pan) (verb) :: To spin.
   ปลุกปั่น (pluk pan) (verb) :: To agitate.
@@ -2586,6 +2585,7 @@ Index: TH TH->EN
   ผ่าน (pān) (verb) :: To pass.
 ***พัน***
   พัน (pan) (verb) :: To bind.
+  พัน (pan) (number) :: {cardinal} 1000 (Thai numerals: ๑๐๐๐)
 ===phana===
   พนา (phana) (noun) :: forest
 ***ภาพ***
@@ -3901,8 +3901,6 @@ Index: TH TH->EN
   เตะ (té) (verb) :: To kick.
 ===teeluuguu===
   ภาษาเตลูกู (paasăa teeluuguu) (proper noun) :: The Telugu language.
-===teewádaa===
-  เทวดา (teewádaa) (noun) :: deity, male angel
 ===ten===
   เต้น (ten) (verb) :: To dance.
 ***เต้น***
@@ -4043,7 +4041,7 @@ Index: TH TH->EN
 ***เทวะ***
   เทวะ (thè wa) (noun) :: a deity
 ***เทวดา***
-  เทวดา (teewádaa) (noun) :: deity, male angel
+  เทวดา {{th-noun|tr=teewádaa}} :: deity, male angel
 ===thèwī===
   เทวี (thèwī) (noun) :: a female deity
   เทวี (thèwī) (noun) :: a goddess
@@ -4706,6 +4704,10 @@ Index: EN EN->TH
   หนึ่ง (nèung) (number) :: {cardinal} 1 (Thai numeral: ๑)
 ===10===
   ๑๐ (สิบ, sìp) :: 10 (ten)
+===1000===
+  พัน (pan) (number) :: {cardinal} 1000 (Thai numerals: ๑๐๐๐)
+===๑๐๐๐===
+  พัน (pan) (number) :: {cardinal} 1000 (Thai numerals: ๑๐๐๐)
 ===๑๐๐๐๐===
   หมื่น (mèun) (number) :: {cardinal} ten thousand (Thai numerals: ๑๐๐๐๐)
 ===11===
@@ -4980,7 +4982,7 @@ Index: EN EN->TH
   หาง (hāng) (noun) :: An object's end
   ยักษ์ (yak) (noun) :: An ogre
 ===angel===
-  เทวดา (teewádaa) (noun) :: deity, male angel
+  เทวดา {{th-noun|tr=teewádaa}} :: deity, male angel
 ===angle===
   เหลี่ยม (lìam) (noun) :: angle
 ===angled===
@@ -5069,7 +5071,7 @@ Index: EN EN->TH
 ===bag===
   ถุง (tŏong) :: bag
 ===Baht===
-  บาท (bàat) (noun) :: Baht, Thai currency, and the symbol is ฿
+  บาท (bàat, /bɑːt/) (noun) :: Baht, Thai currency, and the symbol is ฿
 ===bake===
   อบ (aab) (verb) :: to bake
 ===balance===
@@ -5162,7 +5164,7 @@ Index: EN EN->TH
   ความรัก (khwamrak) (noun) :: love.
     ความรักทำให้คนตาบอด :: Love can make people blind.
 ===blood===
-  เลือด (leuad) (noun) :: blood.
+  เลือด {{th-noun|tr=leuad}} :: blood
 ===blow===
   เป่า (pao) (verb) :: To blow.
 ===blue===
@@ -5262,7 +5264,7 @@ Index: EN EN->TH
 ===call===
   เรียก (riak) (verb) :: To call.
 ===calling===
-  แขวนบนเส้นด้าย (idiomatic) :: {idiomatic} to be in danger, calling for precise caution. To be in a precarious situation. To hang by a thread
+  แขวนบนเส้นด้าย (phrase) :: {idiomatic} to be in danger, calling for precise caution. To be in a precarious situation. To hang by a thread
 ===Cambodia===
   กัมพูชา (gampoochaa) (proper noun) :: Cambodia, Kampuchea
   เขมร (khàmen) :: {dialectal} Cambodia
@@ -5313,7 +5315,7 @@ Index: EN EN->TH
 ===caterpillar===
   แก้ว (gâew) (noun) :: {entomology} variety of caterpillar
 ===caution===
-  แขวนบนเส้นด้าย (idiomatic) :: {idiomatic} to be in danger, calling for precise caution. To be in a precarious situation. To hang by a thread
+  แขวนบนเส้นด้าย (phrase) :: {idiomatic} to be in danger, calling for precise caution. To be in a precarious situation. To hang by a thread
 ===celebrity===
   ดารา (daaraa) (noun) :: A celebrity.
 ===cemetery===
@@ -5517,7 +5519,7 @@ Index: EN EN->TH
 ===curly===
   หยิก (yik) (adjective) :: curly
 ===currency===
-  บาท (bàat) (noun) :: Baht, Thai currency, and the symbol is ฿
+  บาท (bàat, /bɑːt/) (noun) :: Baht, Thai currency, and the symbol is ฿
 ===curry===
   แกงเผ็ด (gaeng pèt) :: red curry, hot curry
   แกงเขียวหวาน (gaeng kĭeow wăan) (noun) :: green curry
@@ -5537,7 +5539,7 @@ Index: EN EN->TH
 ===dancer===
   มณโฑ (montho) (noun) :: dancer
 ===danger===
-  แขวนบนเส้นด้าย (idiomatic) :: {idiomatic} to be in danger, calling for precise caution. To be in a precarious situation. To hang by a thread
+  แขวนบนเส้นด้าย (phrase) :: {idiomatic} to be in danger, calling for precise caution. To be in a precarious situation. To hang by a thread
   ภัย (pai) (noun) :: danger
 ===dark===
   กาล (kān) (noun) :: the color dark blue
@@ -5571,7 +5573,7 @@ Index: EN EN->TH
   ท้า (thaa) (verb) :: To defy
 ===deity===
   เทพ (thèp) (noun) :: a deity
-  เทวดา (teewádaa) (noun) :: deity, male angel
+  เทวดา {{th-noun|tr=teewádaa}} :: deity, male angel
   เทวะ (thè wa) (noun) :: a deity
   เทวี (thèwī) (noun) :: a female deity
   เทพี (thèpī) (noun) :: a female deity
@@ -6083,7 +6085,7 @@ Index: EN EN->TH
 ===hammock===
   เปลญวน (bplay yuan) (noun) :: hammock
 ===hang===
-  แขวนบนเส้นด้าย (idiomatic) :: {idiomatic} to be in danger, calling for precise caution. To be in a precarious situation. To hang by a thread
+  แขวนบนเส้นด้าย (phrase) :: {idiomatic} to be in danger, calling for precise caution. To be in a precarious situation. To hang by a thread
 ===happy===
   สุขสันต์วันเกิด (sòok-săn wan gèrt) :: happy birthday
 ===harvest===
@@ -6639,7 +6641,7 @@ Index: EN EN->TH
   เพศชาย (ped-chai) (noun) :: male
   ชาย (chaai) (noun) :: male
   ผม :: I; me. For male speakers.
-  เทวดา (teewádaa) (noun) :: deity, male angel
+  เทวดา {{th-noun|tr=teewádaa}} :: deity, male angel
 ===males===
   แก้ว (gâew) (proper noun) :: A common Thai nickname for males and females
   สวัสดีครับ {m} (sàwàtdee kráp) (interjection) :: hello, said by males
@@ -6909,6 +6911,7 @@ Index: EN EN->TH
   ศูนย์ (sūn) (number) :: {cardinal} 0 (Thai numeral: ๐)
   หก (hòk) (number) :: {cardinal} 6 (Thai numeral: ๖)
 ===numerals===
+  พัน (pan) (number) :: {cardinal} 1000 (Thai numerals: ๑๐๐๐)
   สิบเอ็ด (sìp èt) (number) :: {cardinal} 11 (Thai numerals: ๑๑)
   สิบสาม (sìp săam) (number) :: {cardinal} 13 (Thai numerals: ๑๓)
   สิบสอง (sìp sŏng) (number) :: {cardinal} 12 (Thai numerals: ๑๒)
@@ -7147,13 +7150,13 @@ Index: EN EN->TH
 ===preach===
   เทศนา (têt-sà-naa) :: to preach
 ===precarious===
-  แขวนบนเส้นด้าย (idiomatic) :: {idiomatic} to be in danger, calling for precise caution. To be in a precarious situation. To hang by a thread
+  แขวนบนเส้นด้าย (phrase) :: {idiomatic} to be in danger, calling for precise caution. To be in a precarious situation. To hang by a thread
 ===precept===
   ศีล (sin) (noun) :: precept
 ===precious===
   แก้ว (gâew) (adjective) :: beloved, cherished, darling, precious
 ===precise===
-  แขวนบนเส้นด้าย (idiomatic) :: {idiomatic} to be in danger, calling for precise caution. To be in a precarious situation. To hang by a thread
+  แขวนบนเส้นด้าย (phrase) :: {idiomatic} to be in danger, calling for precise caution. To be in a precarious situation. To hang by a thread
 ===prefix===
   คน (khon) (prefix) :: (agent prefix, person who) -er, -or (designating an occupation)
 ===president===
@@ -7531,7 +7534,7 @@ Index: EN EN->TH
 ===sit===
   นั่ง (nang) (verb) :: To sit.
 ===situation===
-  แขวนบนเส้นด้าย (idiomatic) :: {idiomatic} to be in danger, calling for precise caution. To be in a precarious situation. To hang by a thread
+  แขวนบนเส้นด้าย (phrase) :: {idiomatic} to be in danger, calling for precise caution. To be in a precarious situation. To hang by a thread
 ===Siva===
   กาล (kān) (noun) :: the god Siva
 ===six===
@@ -7778,7 +7781,7 @@ Index: EN EN->TH
 ===swan===
   หงส์ (hong) (noun) :: A swan.
 ===sweat===
-  เหงื่อ (ngèua) (noun) :: A sweat.
+  เหงื่อ {{th-noun|tr=ngèua}} :: sweat
 ===sweep===
   ปัด (pad) (verb) :: To sweep.
   กวาด (kwād) (verb) :: To sweep.
@@ -7790,7 +7793,7 @@ Index: EN EN->TH
 ===sword===
   ดาบ (dàap) (noun) :: sword
 ===symbol===
-  บาท (bàat) (noun) :: Baht, Thai currency, and the symbol is ฿
+  บาท (bàat, /bɑːt/) (noun) :: Baht, Thai currency, and the symbol is ฿
 ===t===
   อย่า (yàa) (contraction) :: don't
 ===tadpole===
@@ -7918,11 +7921,12 @@ Index: EN EN->TH
   ชาวไทย (chao tai) (proper noun) :: a Thai person
   ชาวไทย (chao tai) (proper noun) :: Thai people
   แก้ว (gâew) (proper noun) :: A common Thai nickname for males and females
-  บาท (bàat) (noun) :: Baht, Thai currency, and the symbol is ฿
+  บาท (bàat, /bɑːt/) (noun) :: Baht, Thai currency, and the symbol is ฿
   ห้า (hâa) (number) :: {cardinal} 5 (Thai numeral: ๕)
   ณ (nā) (preposition) :: of, from (a kingdom, when used as a part of a Thai noble family name)
   หนึ่ง (nèung) (number) :: {cardinal} 1 (Thai numeral: ๑)
   ศูนย์ (sūn) (number) :: {cardinal} 0 (Thai numeral: ๐)
+  พัน (pan) (number) :: {cardinal} 1000 (Thai numerals: ๑๐๐๐)
   โคมูตร (koh môot) (noun) :: {{context|typography|chiefly|in poetry}} Thai punctuation mark ๛, marking the end of a story or poem
   เยี่ยววัว (yîeow wua) (noun) :: {{context|typography|chiefly|in poetry}} Thai punctuation mark ๛, marking the end of a story or poem
   ฟองมัน (fongman) (noun) :: {{context|typography|chiefly|in old script}} Thai punctuation mark ๏, marking the beginning of a new paragraph
@@ -7985,7 +7989,7 @@ Index: EN EN->TH
 ===thread===
   เชือก (chêuak) :: rope, string, cord, thread
   ด้าย (dâai) :: thread, string, cord, yarn
-  แขวนบนเส้นด้าย (idiomatic) :: {idiomatic} to be in danger, calling for precise caution. To be in a precarious situation. To hang by a thread
+  แขวนบนเส้นด้าย (phrase) :: {idiomatic} to be in danger, calling for precise caution. To be in a precarious situation. To hang by a thread
   ร้อย (roy) (verb) :: To thread.
 ===threat===
   ขู่ (khoo) (verb) :: To threat.

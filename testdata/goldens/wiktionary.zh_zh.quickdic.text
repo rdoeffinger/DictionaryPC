@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.chinese 632
+EntrySource: enwiktionary.chinese 637
 
 Index: ZH ZH->EN
 ===3===
@@ -153,11 +153,11 @@ Index: ZH ZH->EN
   東 {{cmn-noun|t|pin=dōng|pint=dong1|sim=东|rs=木04}} :: east, eastern, eastward
 ***東京***
   東京 {{cmn-proper noun|t|pin=Dōngjīng|pint=dong1jing1|tra=東京|sim=东京|rs=木04}} :: Tokyo
+  東京 {{cmn-noun|t|pin=Dōngjīng|pint=dong1jing1|tra=東京|sim=东京|rs=木04}} :: {historical} secondary capital, usually found to the east of the main capital
 ===duì===
   耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 ===儿===
-  r (suffix), traditional: 兒, simplified: 儿 :: (a suffix for erhua)
   NB {{cmn-adj|p|pint=nb}} :: {{slang|skey=nb}} fucking awesome
     他小說寫的太NB了。 (trad.) :: --
     他小说写的太NB了。 (simp.) :: The novels he writes are fucking awesome.
@@ -165,8 +165,6 @@ Index: ZH ZH->EN
     哥们儿，别傻说，美国比英国NB，美国是超级大国！ (simp.) :: Dude, don't talk shit. America's heaps stronger than Britain - U.S.A. is the superpower!
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
-===兒===
-  r (suffix), traditional: 兒, simplified: 儿 :: (a suffix for erhua)
 ***二***
   (Cantonese) 二 {{yue-hanzi|jyut=ji6|y=yi6}} :: two
   二 {{cmn-hanzi|pin=èr (er4)|wg=erh<sup>4</sup>}} :: Tang: nji3
@@ -406,8 +404,6 @@ Index: ZH ZH->EN
   雨 {{cmn-noun|ts|pin=yǔ|pint=yu3|rs=雨00}} :: rain
     傾盆大雨。 (trad.) :: --
     倾盆大雨。 (simp.) :: Raining cats and dogs.
-***r***
-  r (suffix), traditional: 兒, simplified: 儿 :: (a suffix for erhua)
 ***人***
   人 {{cmn-noun|ts|pin=rén|pint=ren2|rs=人00}} :: man, person, people
     [http://wordproject.org/multi/bi_en_cn_py.htm John 1.4] :: --
@@ -826,8 +822,9 @@ Index: ZH ZH->EN
   中國人 {{cmn-noun|t|pin=Zhōnggúo rén|pint=zhong1guo2ren2|tra=中國人|sim=中国人|rs=丨03}} :: Chinese person; Chinese people
 ***中文***
   中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese written languages using Chinese characters.
-  中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese spoken language 普通话/Pǔtōnghuà/Standard Mandarin.
-    nǐ shuō zhōngwén ma? "Do you speak Chinese?" :: --
+  中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese spoken language, including every dialects.
+    nǐ shuō zhōngwén ma? (你說中文嗎？) "Do you speak Chinese?" :: --
+  (Cantonese) 中文 :: The Chinese written language.
 ***丶***
   丶 {{cmn-hanzi|pin=zhǔ (zhu3)|wg=chu<sup>3</sup>}} :: dot stroke, usually said as 點, 点, diǎn
 ***子宫***
@@ -973,6 +970,7 @@ Index: EN EN->ZH
 ===CantonPinyin===
   (Cantonese) 愛 {{yue-hanzi|jyut=oi3|y=ngoi3, oi3|sim=爱}} :: CantonPinyin: oi2
 ===capital===
+  東京 {{cmn-noun|t|pin=Dōngjīng|pint=dong1jing1|tra=東京|sim=东京|rs=木04}} :: {historical} secondary capital, usually found to the east of the main capital
   京都 {{cmn-noun|ts|pin=jīngdū|pint=jing1du1|rs=亠06}} :: capital (most often refers to Beijing)
   中国 {{cmn-proper noun|s|pin=Zhōngguó|pint=zhong1guo2|tra=中國|sim=中国|rs=丨03}} :: China
     中国的首都是北京。 :: --
@@ -1040,11 +1038,12 @@ Index: EN EN->ZH
   中国人 {{cmn-noun|s|pin=Zhōnggúo rén|pint=zhong1guo2ren2|tra=中國人|sim=中国人|rs=丨03}} :: Chinese person; Chinese people
   中國人 {{cmn-noun|t|pin=Zhōnggúo rén|pint=zhong1guo2ren2|tra=中國人|sim=中国人|rs=丨03}} :: Chinese person; Chinese people
   中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese written languages using Chinese characters.
+  (Cantonese) 中文 :: The Chinese written language.
   零 {{cmn-hanzi|pin=líng (ling2), lián (lian2)|wg=ling<sup>2</sup>}} :: Chinese Numeral 零
     Next: 一 :: --
   (Cantonese) chan (proper noun) :: Cantonese spelling of Chinese surname 陳 (simplified 陈)
-  中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese spoken language 普通话/Pǔtōnghuà/Standard Mandarin.
-    nǐ shuō zhōngwén ma? "Do you speak Chinese?" :: --
+  中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese spoken language, including every dialects.
+    nǐ shuō zhōngwén ma? (你說中文嗎？) "Do you speak Chinese?" :: --
   中国 {{cmn-proper noun|s|pin=Zhōngguó|pint=zhong1guo2|tra=中國|sim=中国|rs=丨03}} :: China
     中国的首都是北京。 :: --
     Zhōngguó de shǒudū shì Běijīng :: The capital of China is Beijing.
@@ -1087,6 +1086,9 @@ Index: EN EN->ZH
   乙 {{cmn-hanzi|pin=niè (nie4), yǐ (yi3)|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: the seventh scale degree in gongche musical notation
 ===deity===
   (Cantonese) 神 {{yue-hanzi|jyut=|y=san4}} :: god, supernatural (spiritual) deity
+===dialects===
+  中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese spoken language, including every dialects.
+    nǐ shuō zhōngwén ma? (你說中文嗎？) "Do you speak Chinese?" :: --
 ===diǎn===
   丶 {{cmn-hanzi|pin=zhǔ (zhu3)|wg=chu<sup>3</sup>}} :: dot stroke, usually said as 點, 点, diǎn
 ===点===
@@ -1159,6 +1161,7 @@ Index: EN EN->ZH
   安心 {{cmn-verb|ts|pin=ānxīn|pint=an1xin1|rs=宀03}} :: {{Elementary Mandarin|skey=宀03}} to be relieved; to feel at ease
 ===east===
   東 {{cmn-noun|t|pin=dōng|pint=dong1|sim=东|rs=木04}} :: east, eastern, eastward
+  東京 {{cmn-noun|t|pin=Dōngjīng|pint=dong1jing1|tra=東京|sim=东京|rs=木04}} :: {historical} secondary capital, usually found to the east of the main capital
 ===eastern===
   東 {{cmn-noun|t|pin=dōng|pint=dong1|sim=东|rs=木04}} :: east, eastern, eastward
 ===eastward===
@@ -1173,8 +1176,6 @@ Index: EN EN->ZH
 ===elephant===
   象 {{cmn-noun|ts|pin=xiàng|pint=xiang4|rs=豕05}} :: elephant
   象 {{cmn-noun|ts|pin=xiàng|pint=xiang4|rs=豕05}} :: (Chinese Chess) elephant
-===erhua===
-  r (suffix), traditional: 兒, simplified: 儿 :: (a suffix for erhua)
 ===Even===
   NB {{cmn-adj|p|pint=nb}} :: {{slang|skey=nb}} fucking awesome
     他小說寫的太NB了。 (trad.) :: --
@@ -1183,6 +1184,9 @@ Index: EN EN->ZH
     哥们儿，别傻说，美国比英国NB，美国是超级大国！ (simp.) :: Dude, don't talk shit. America's heaps stronger than Britain - U.S.A. is the superpower!
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
+===every===
+  中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese spoken language, including every dialects.
+    nǐ shuō zhōngwén ma? (你說中文嗎？) "Do you speak Chinese?" :: --
 ===falling===
   丿 {{cmn-hanzi|pin=piě (pie3)|wg=p'ieh<sup>3</sup>}} :: left-falling stroke, usually read as 撇 (piě)
 ===family===
@@ -1204,6 +1208,8 @@ Index: EN EN->ZH
 ===form===
   书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: form of a written or printed character;script
   円 (yuán) :: archaic form of 圆
+===found===
+  東京 {{cmn-noun|t|pin=Dōngjīng|pint=dong1jing1|tra=東京|sim=东京|rs=木04}} :: {historical} secondary capital, usually found to the east of the main capital
 ===four===
   四 {{cmn-car-num|ts|pin=sì|pint=si4|rs=囗02}} :: four
 ===fourth===
@@ -1327,6 +1333,9 @@ Index: EN EN->ZH
   书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: imperial edict
 ===In===
   中 {{cmn-prep|ts|pin=zhōng|pint=zhong1|rs=丨03}} :: In the middle.
+===including===
+  中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese spoken language, including every dialects.
+    nǐ shuō zhōngwén ma? (你說中文嗎？) "Do you speak Chinese?" :: --
 ===independent===
   氵 {{cmn-hanzi|pin=shuǐ (shui3)|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
 ===instrument===
@@ -1347,8 +1356,9 @@ Index: EN EN->ZH
   四 {{cmn-noun|ts|pin=sì|pint=si4|rs=囗02}} :: (musical note) la
 ===language===
   文 {{cmn-noun|ts|pin=wén|pint=wen2|rs=文00}} :: language, culture
-  中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese spoken language 普通话/Pǔtōnghuà/Standard Mandarin.
-    nǐ shuō zhōngwén ma? "Do you speak Chinese?" :: --
+  中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese spoken language, including every dialects.
+    nǐ shuō zhōngwén ma? (你說中文嗎？) "Do you speak Chinese?" :: --
+  (Cantonese) 中文 :: The Chinese written language.
   日本語 {{cmn-proper noun|t|pin=Rìběnyǔ|pint=ri4ben3yu3|tra=日本語|sim=日本语|rs=日00}} :: the Japanese language
 ===languages===
   中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese written languages using Chinese characters.
@@ -1422,6 +1432,8 @@ Index: EN EN->ZH
   车 {{cmn-noun|s|pin=chē|pint=che1|tra=車|sim=车|rs=车00}} :: {{Beginning Mandarin|skey=che1}} machine; instrument
 ===made===
   人造 {{cmn-noun|ts|pin=rénzào|pint=ren2zao4|rs=人00}} :: artificial; man-made
+===main===
+  東京 {{cmn-noun|t|pin=Dōngjīng|pint=dong1jing1|tra=東京|sim=东京|rs=木04}} :: {historical} secondary capital, usually found to the east of the main capital
 ===make===
   造 {{cmn-verb|ts|pin=zào|pint=zao4}} :: to make, to build
     [http://wordproject.org/multi/bi_en_cn_py.htm John 1.3] :: --
@@ -1437,9 +1449,6 @@ Index: EN EN->ZH
   丁 {{cmn-noun|ts|pin=dīng|pint=ding1|rs= 一01}} :: man
   人造 {{cmn-noun|ts|pin=rénzào|pint=ren2zao4|rs=人00}} :: artificial; man-made
   人間 {{cmn-noun|t|pin=rénjīan|pint=ren2jian1|tra=人間|sim=人间|rs=人00}} :: man's world
-===Mandarin===
-  中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese spoken language 普通话/Pǔtōnghuà/Standard Mandarin.
-    nǐ shuō zhōngwén ma? "Do you speak Chinese?" :: --
 ===me===
   耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
@@ -1591,12 +1600,6 @@ Index: EN EN->ZH
   书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: form of a written or printed character;script
 ===pure===
   白 {{cmn-adj|ts|pin=bái|pint=bai2|rs=白00}} :: {{Beginning Mandarin|skey=白00}} clear; pure; plain; blank
-===Pǔtōnghuà===
-  中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese spoken language 普通话/Pǔtōnghuà/Standard Mandarin.
-    nǐ shuō zhōngwén ma? "Do you speak Chinese?" :: --
-===普通话===
-  中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese spoken language 普通话/Pǔtōnghuà/Standard Mandarin.
-    nǐ shuō zhōngwén ma? "Do you speak Chinese?" :: --
 ===Quwei===
   一 {{cmn-car-num|ts|pin=yī|pint=yi1|rs=一00}} :: Quwei: 5027
     Last: 零 :: --
@@ -1668,6 +1671,8 @@ Index: EN EN->ZH
   乙 {{cmn-hanzi|pin=niè (nie4), yǐ (yi3)|wg=nieh<sup>4</sup>, i<sup>3</sup>}} :: the seventh scale degree in gongche musical notation
 ===script===
   书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: form of a written or printed character;script
+===secondary===
+  東京 {{cmn-noun|t|pin=Dōngjīng|pint=dong1jing1|tra=東京|sim=东京|rs=木04}} :: {historical} secondary capital, usually found to the east of the main capital
 ===secretarial===
   书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: an ancient government post in charge of secretarial duties
 ===secure===
@@ -1720,11 +1725,8 @@ Index: EN EN->ZH
 ===spiritual===
   (Cantonese) 神 {{yue-hanzi|jyut=|y=san4}} :: god, supernatural (spiritual) deity
 ===spoken===
-  中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese spoken language 普通话/Pǔtōnghuà/Standard Mandarin.
-    nǐ shuō zhōngwén ma? "Do you speak Chinese?" :: --
-===Standard===
-  中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese spoken language 普通话/Pǔtōnghuà/Standard Mandarin.
-    nǐ shuō zhōngwén ma? "Do you speak Chinese?" :: --
+  中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese spoken language, including every dialects.
+    nǐ shuō zhōngwén ma? (你說中文嗎？) "Do you speak Chinese?" :: --
 ===stems===
   丁 {{cmn-noun|ts|pin=dīng|pint=ding1|rs= 一01}} :: the fourth of the ten Heavenly stems
 ===still===
@@ -1754,8 +1756,6 @@ Index: EN EN->ZH
     哥们儿，别傻说，美国比英国NB，美国是超级大国！ (simp.) :: Dude, don't talk shit. America's heaps stronger than Britain - U.S.A. is the superpower!
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
-===suffix===
-  r (suffix), traditional: 兒, simplified: 儿 :: (a suffix for erhua)
 ===sun===
   日 {{cmn-noun|ts|pin=rì|pint=ri4|rs=日00}} :: {literary} sun
 ===supernatural===
@@ -1872,6 +1872,7 @@ Index: EN EN->ZH
   丶 {{cmn-hanzi|pin=zhǔ (zhu3)|wg=chu<sup>3</sup>}} :: dot stroke, usually said as 點, 点, diǎn
   丿 {{cmn-hanzi|pin=piě (pie3)|wg=p'ieh<sup>3</sup>}} :: left-falling stroke, usually read as 撇 (piě)
   亅 {{cmn-hanzi|pin=jué (jue2)|wg=chüeh<sup>2</sup>}} :: A vertical line with a hook, usually read as 竖勾 (shùgōu).
+  東京 {{cmn-noun|t|pin=Dōngjīng|pint=dong1jing1|tra=東京|sim=东京|rs=木04}} :: {historical} secondary capital, usually found to the east of the main capital
 ===uterine===
   子宫 {{cmn-noun|s|pin=zǐgōng|pint=zi3gong1|tra=子宮|sim=子宫|rs=子00}} :: uterine
 ===uterus===
@@ -1935,6 +1936,7 @@ Index: EN EN->ZH
 ===written===
   书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: form of a written or printed character;script
   中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese written languages using Chinese characters.
+  (Cantonese) 中文 :: The Chinese written language.
 ===Wubi===
   一 {{cmn-car-num|ts|pin=yī|pint=yi1|rs=一00}} :: Wubi Xing: ggll
   一 {{cmn-car-num|ts|pin=yī|pint=yi1|rs=一00}} :: Wubi Hua: 1

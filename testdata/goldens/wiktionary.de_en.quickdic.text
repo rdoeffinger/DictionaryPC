@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.english 4982
+EntrySource: enwiktionary.english 4997
 
 Index: DE DE->EN
 ===2===
@@ -24,6 +24,7 @@ Index: DE DE->EN
 ***Abalone***
   Abalone {f}, Meerohr {n}, Seeohr {n} :: abalone (edible univalve mollusc) (noun)
 ***abbrechen***
+  abbrechen :: abort ({{qualifier|computing}} to terminate a process prior to completion) (verb)
   abbrechen :: abortive (Cutting short; as, abortive treatment of typhoid fever.) (adjective)
   abbrechen :: can (to discard) (verb)
 ***Abbruch***
@@ -104,10 +105,14 @@ Index: DE DE->EN
 ***Abort***
   Abort {m}, Schwangerschaftsabbruch {m} :: abort (A miscarriage) (noun)
   Abort {m}, Abtreibung {f}, Interruptio {n} :: abortive (That which is born or brought forth prematurely; an abortion) (noun)
+***abrahamitisch***
+  abrahamitisch :: Abrahamic (pertaining to Abrahamic religions) (adjective)
 ***Abrasion***
   Abrasion {f} :: abrasion (act of abrading) (noun)
   Abrasion {f} :: abrasion (medicine: superficial excoriation) (noun)
-  Abrasion {f} :: abrasion (geology: effect of mechanical erosion of rock) (noun)
+  Abrasion {f}, Abrieb {n} :: abrasion (geology: effect of mechanical erosion of rock) (noun)
+***Abrieb***
+  Abrasion {f}, Abrieb {n} :: abrasion (geology: effect of mechanical erosion of rock) (noun)
 ***abrupt***
   abrupt, jäh, schroff, steil :: abrupt (broken off or very steep) (adjective)
   abrupt, jäh :: abrupt (sudden or hasty) (adjective)
@@ -255,7 +260,6 @@ Index: DE DE->EN
   alltäglich wiederkehrend, täglich wiederkehrend :: quotidian (daily) (adjective)
 ***Alltägliche***
   das Alltägliche, das täglich Wiederkehrende :: quotidian (common, mundane) (adjective)
-  das Alltägliche :: quotidian (used in art criticism) (noun)
 ***Alphabet***
   Alphabet {n} :: alphabet (an ordered set of letters used in a language) (noun)
 ***alphabetisch***
@@ -478,6 +482,8 @@ Index: DE DE->EN
   Bit {n} :: bit (binary digit) (noun)
   Bit {n} :: bit (smallest unit of storage) (noun)
   Bit {n} :: bit (datum that may take on one of exactly two values) (noun)
+***bitter***
+  (Armut) bitter, verächtlich :: abject (Cast down; rejected; low-lying) (adjective)
 ***Bleibe***
   Bleibe {f}, Wohnung {f} :: abode (slightly dated: residence) (noun)
 ***Bleistift***
@@ -771,6 +777,8 @@ Index: DE DE->EN
   Elefant {m}, (female) Elefantin {f} :: elephant (mammal) (noun)
 ***Elefantin***
   Elefant {m}, (female) Elefantin {f} :: elephant (mammal) (noun)
+***elend***
+  elend, kläglich, jämmerlich :: abject (Sunk to a low condition; down in spirit or hope) (adjective)
 ***empfangen***
   annehmen, empfangen :: accept (to receive officially) (verb)
 ***Ende***
@@ -852,6 +860,8 @@ Index: DE DE->EN
   Etymologie {f} :: etymology (account of the origin and historical development of a word) (noun)
 ===euch===
   ich liebe dich, ich habe dich gern, ich habe dich lieb, ich liebe euch (plural), ich habe euch gern (plural), ich habe euch lieb (plural), (formal, sg and pl) ich liebe Sie, ich habe Sie gern, ich habe Sie lieb :: I love you (affirmation of romantic feeling) (phrase)
+***exakt***
+  genau, präzis, exakt :: accurate (exact or careful conformity to truth) (adjective)
 ***Expo***
   Weltausstellung {f}, Expo {f} :: World Exposition (a regular international exposition) (noun)
 ===expressed===
@@ -1010,6 +1020,8 @@ Index: DE DE->EN
   (geistig) abwesend :: absent (inattentive) (adjective)
 ===genannt===
   oben genannt, oben erwähnt :: above-mentioned (mentioned or named before; aforesaid) (adjective)
+***genau***
+  genau, präzis, exakt :: accurate (exact or careful conformity to truth) (adjective)
 ===Geriebenheit===
   Schlauheit, Geriebenheit :: craft (shrewdness) (noun)
 ***Geringschätzung***
@@ -1040,6 +1052,8 @@ Index: DE DE->EN
   (Old High German) Gilbhart {m} :: October (tenth month of the Gregorian calendar) (proper noun)
 ***Gleis***
   Eisenbahnlinie {f}, Gleis {n} :: railway (track, consisting of parallel rails) (noun)
+***Gnosis***
+  Gnosis {f} :: gnosis (gnosis) (noun)
 ***Goldrute***
   Königskerze {f}, Goldrute {f} :: Aaron's rod (tall plant) (noun)
 ***googeln***
@@ -1084,7 +1098,7 @@ Index: DE DE->EN
 ===Handbuch===
   LDVH (Lies das verdammte Handbuch) :: RTFM (Abbreviation of Read the fucking manual) (initialism)
 ***Handel***
-  Handel {m}, Kommerz {f} :: trade (exchange) (noun)
+  Handel {m}, Kommerz {f} :: trade (buying and selling) (noun)
   Handel {m} :: trade (instance of buying or selling) (noun)
   Handel {m}, Deal {m} (Econ.) :: deal (instance of buying or selling) (noun)
 ***handeln***
@@ -1097,7 +1111,7 @@ Index: DE DE->EN
 ***Handorgel***
   Akkordeon {n}, Ziehharmonika {f}, Handharmonika {f}, Handorgel {f}, (regional) Quetsche {f}, (slangy, humorous) Quetschkommode {f}, Schifferklavier {n} :: accordion (A small, portable, keyed wind instrument) (noun)
 ***Handwerk***
-  Handwerk {n} :: trade (skilled practice) (noun)
+  Handwerk {n} :: trade (skilled practice of an occupation) (noun)
   Handwerk :: craft (skilled practice) (noun)
 ***Handwerker***
   Handwerker :: craft (people who perform a particular kind of skilled work) (noun)
@@ -1184,14 +1198,14 @@ Index: DE DE->EN
   Hölle {f} :: hell (place of suffering in life) (noun)
 ***Hotelpage***
   Hotelpage (either bellboy or bellgirl) :: bellgirl (a female bellhop) (noun)
-===hund===
+***hund***
   (Middle Low German) hund :: dog (animal) (noun)
 ***Hund***
   (male or female, sex unspecified) Hund {m}, (adult male of a canine species) Rüde {m}, (female) Hündin {f} :: dog (animal) (noun)
   Hund {m} :: dog (morally reprehensible person, See also scoundrel) (noun)
 ***Hündin***
   (male or female, sex unspecified) Hund {m}, (adult male of a canine species) Rüde {m}, (female) Hündin {f} :: dog (animal) (noun)
-===hunt===
+***hunt***
   (Middle High German) hunt :: dog (animal) (noun)
   (Old High German) hunt :: dog (animal) (noun)
 ===hüpfen===
@@ -1271,6 +1285,7 @@ Index: DE DE->EN
 ===Jahrzehnt===
   Jahrzehnt {n}, (archaic) Dekade {f} :: decade (a period of ten years) (noun)
 ***jämmerlich***
+  elend, kläglich, jämmerlich :: abject (Sunk to a low condition; down in spirit or hope) (adjective)
   erbärmlich, jämmerlich :: abysmal (extremely bad) (adjective)
 ***Jannowaa***
   (Kölsch) Jannowaa :: January (first month of the Gregorian calendar) (proper noun)
@@ -1331,6 +1346,8 @@ Index: DE DE->EN
   Katze {f} , (male) Kater {m}, (female) Kätzin {f} :: cat (domestic species) (noun)
 ***kaufen***
   kaufen :: accept (to agree to pay) (verb)
+***kläglich***
+  elend, kläglich, jämmerlich :: abject (Sunk to a low condition; down in spirit or hope) (adjective)
 ===Klappe===
   die Klappe halten, den Mund halten :: can (to shut up) (verb)
 ***Klo***
@@ -1359,7 +1376,7 @@ Index: DE DE->EN
 ***kommen***
   abspritzen, kommen (informal) :: cum (slang: have an orgasm; ejaculate) (verb)
 ***Kommerz***
-  Handel {m}, Kommerz {f} :: trade (exchange) (noun)
+  Handel {m}, Kommerz {f} :: trade (buying and selling) (noun)
 ===kommutativ===
   abelsch, kommutativ :: abelian (math: of a group) (adjective)
 ***kompetent***
@@ -1775,6 +1792,8 @@ Index: DE DE->EN
   Portwein {m} :: port (fortified wine) (noun)
 ===präkolumbisch===
   präkolumbisch :: pre-Columbian (before Christopher Columbus) (adjective)
+***präzis***
+  genau, präzis, exakt :: accurate (exact or careful conformity to truth) (adjective)
 ***Präzision***
   Schärfe {f}, Präzision {f} :: definition (clarity, especially of musical sound in reproduction) (noun)
   Scharfzeichnung {f}, Konturentreue {f}, Trennschärfe {f}, Präzision {f} :: definition (sharp demarcation of outlines or limits) (noun)
@@ -1858,7 +1877,7 @@ Index: DE DE->EN
 ===referring===
   abstinent (mostly when referring to alcohol or smoking), enthaltsam (sexually abstinent, celibate) :: abstinent (refraining from indulgence) (adjective)
 ***Regenschirm***
-  Schirm {m}, Sonnenschirm {m}, Regenschirm {f} :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
+  Schirm {m}, Sonnenschirm {m}, Regenschirm {m} :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
 ===regnen===
   Bindfäden regnen, in Strömen regnen, aus allen Kannen gießen, aus allen Kannen schütten, wie aus Eimern schütten :: rain cats and dogs (to rain very heavily) (verb)
 ***reichlich***
@@ -1940,7 +1959,7 @@ Index: DE DE->EN
 ***Schifferklavier***
   Akkordeon {n}, Ziehharmonika {f}, Handharmonika {f}, Handorgel {f}, (regional) Quetsche {f}, (slangy, humorous) Quetschkommode {f}, Schifferklavier {n} :: accordion (A small, portable, keyed wind instrument) (noun)
 ***Schirm***
-  Schirm {m}, Sonnenschirm {m}, Regenschirm {f} :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
+  Schirm {m}, Sonnenschirm {m}, Regenschirm {m} :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
   Schirm {m} :: umbrella (anything that provides protection) (noun)
 ***Schlachthaus***
   Schlachthaus {n}, Schlachthof {m} :: abattoir (public slaughterhouse) (noun)
@@ -1990,11 +2009,7 @@ Index: DE DE->EN
   sein :: be (used to form the continuous forms of various tenses) (verb)
   sein :: be ((archaic) used to form the perfect aspect with certain intransitive verbs) (verb)
   sein :: be (used to form future tenses, especially the future subjunctive) (verb)
-  sein :: be (used to indicate age) (verb)
-  sein :: be (used to indicate height) (verb)
-  sein :: be (used to indicate time of day, day of the week, or date) (verb)
   sein :: be (used to indicate weather, air quality, or the like) (verb)
-  sein :: be (used to indicate temperature) (verb)
 ***Sekundant***
   Sekundant {m} :: second (attendant of a duel or boxing match standing in for a contestant) (noun)
 ***Sekunde***
@@ -2044,7 +2059,7 @@ Index: DE DE->EN
 ***Sonne***
   Sonne {f} :: sun (the star around which the Earth revolves) (proper noun)
 ***Sonnenschirm***
-  Schirm {m}, Sonnenschirm {m}, Regenschirm {f} :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
+  Schirm {m}, Sonnenschirm {m}, Regenschirm {m} :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
 ***Sonntag***
   Sonntag {m} :: Sunday (day of the week) (noun)
 ***söss***
@@ -2292,6 +2307,8 @@ Index: DE DE->EN
   verabscheuen :: abhor (to regard with horror or detestation) (verb)
 ***verabscheuungswürdig***
   verabscheuungswürdig, verhasst, abscheulich :: abominable (hateful; detestable; loathsome) (adjective)
+***verächtlich***
+  (Armut) bitter, verächtlich :: abject (Cast down; rejected; low-lying) (adjective)
 ===Veranstaltungen===
   aktuelle Veranstaltungen :: current events (news items) (noun)
 ***Verb***
@@ -2790,6 +2807,9 @@ Index: EN EN->DE
   Abiogenese {f} :: abiogenesis (abiogenesis) (noun)
 ***abirritant***
   reizmindernd :: abirritant (acting to diminish irritation) (adjective)
+***abject***
+  elend, kläglich, jämmerlich :: abject (Sunk to a low condition; down in spirit or hope) (adjective)
+  (Armut) bitter, verächtlich :: abject (Cast down; rejected; low-lying) (adjective)
 ***abjure***
   abschwören (+dative) :: abjure (to renounce with solemnity) (verb)
 ***ablative***
@@ -2857,6 +2877,7 @@ Index: EN EN->DE
 ***abort***
   Abort {m}, Schwangerschaftsabbruch {m} :: abort (A miscarriage) (noun)
   Abbruch {m} :: abort (The function used to abort a process) (noun)
+  abbrechen :: abort ({{qualifier|computing}} to terminate a process prior to completion) (verb)
 ***abortion***
   Fehlgeburt {f} :: abortion (miscarriage) (noun)
   Abtreibung {f} :: abortion (induced abortion) (noun)
@@ -2897,10 +2918,12 @@ Index: EN EN->DE
   oben erwähnt :: abovesaid (adjective)
 ===abrading===
   Abrasion {f} :: abrasion (act of abrading) (noun)
+***Abrahamic***
+  abrahamitisch :: Abrahamic (pertaining to Abrahamic religions) (adjective)
 ***abrasion***
   Abrasion {f} :: abrasion (act of abrading) (noun)
   Abrasion {f} :: abrasion (medicine: superficial excoriation) (noun)
-  Abrasion {f} :: abrasion (geology: effect of mechanical erosion of rock) (noun)
+  Abrasion {f}, Abrieb {n} :: abrasion (geology: effect of mechanical erosion of rock) (noun)
 ***abreast***
   auf dem Laufenden :: abreast (informed) (adverb)
   beieinander :: abreast (side by side) (adverb)
@@ -3055,6 +3078,8 @@ Index: EN EN->DE
 ***accrual***
   Zuwachs {m} :: accrual (an increase) (noun)
   abgegrenzte Schulden {f}, Abgrenzungsposten {m}, Rechnungsabgrenzungsposten {m} :: accrual (an accounting charge) (noun)
+***accurate***
+  genau, präzis, exakt :: accurate (exact or careful conformity to truth) (adjective)
 ***achene***
   Achäne {f} :: achene (small dry fruit) (noun)
 ***achievement***
@@ -3161,10 +3186,9 @@ Index: EN EN->DE
   zweiter {m} :: second (that which comes after the first) (adjective)
   zehn :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
 ===against===
-  Schirm {m}, Sonnenschirm {m}, Regenschirm {f} :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
+  Schirm {m}, Sonnenschirm {m}, Regenschirm {m} :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
   Antisemitismus {m} :: anti-Semitism (prejudice or hostility against Jews) (noun)
 ===age===
-  sein :: be (used to indicate age) (verb)
   datieren :: date (to determine the age of something) (verb)
 ===agree===
   akzeptieren, annehmen, zusagen :: accept (to agree to) (verb)
@@ -3312,7 +3336,6 @@ Index: EN EN->DE
   assoziatives Datenfeld {n} :: dictionary (an associative array) (noun)
 ===art===
   Lexikographie {f} :: lexicography (art or craft of writing dictionaries) (noun)
-  das Alltägliche :: quotidian (used in art criticism) (noun)
   Komitologie :: comitology (art of resolving issues by committees) (noun)
 ===article===
   (nominative case) der {m}, (nominative case) die {f}, (nominative case) das {n}, (nominative case) die {p}, ... :: the (article) (article)
@@ -3416,11 +3439,7 @@ Index: EN EN->DE
   sein :: be (used to form the continuous forms of various tenses) (verb)
   sein :: be ((archaic) used to form the perfect aspect with certain intransitive verbs) (verb)
   sein :: be (used to form future tenses, especially the future subjunctive) (verb)
-  sein :: be (used to indicate age) (verb)
-  sein :: be (used to indicate height) (verb)
-  sein :: be (used to indicate time of day, day of the week, or date) (verb)
   sein :: be (used to indicate weather, air quality, or the like) (verb)
-  sein :: be (used to indicate temperature) (verb)
 ===beams===
   Linse {f} :: lens (device which focuses or defocuses electron beams) (noun)
 ===bean===
@@ -3599,6 +3618,7 @@ Index: EN EN->DE
 ===buttocks===
   Arschbacken {f}, Pobacken {f|p} :: can (buttocks) (noun)
 ===buying===
+  Handel {m}, Kommerz {f} :: trade (buying and selling) (noun)
   Handel {m} :: trade (instance of buying or selling) (noun)
   Handel {m}, Deal {m} (Econ.) :: deal (instance of buying or selling) (noun)
 ===calculating===
@@ -3673,6 +3693,8 @@ Index: EN EN->DE
   zehn :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
 ===cards===
   austeilen, geben :: deal (distribute (cards)) (verb)
+===careful===
+  genau, präzis, exakt :: accurate (exact or careful conformity to truth) (adjective)
 ===caring===
   ich mag dich, ich liebe dich, Ich habe dich lieb :: I love you (affirmation of affection or deep caring) (phrase)
 ===carnivorous===
@@ -3689,6 +3711,8 @@ Index: EN EN->DE
   Ablativ {m} :: ablative ((grammar) the ablative case) (noun)
 ===cases===
   ablativisch :: ablative (applied to one of the cases of the noun in other language) (adjective)
+===Cast===
+  (Armut) bitter, verächtlich :: abject (Cast down; rejected; low-lying) (adjective)
 ***cat***
   (Alemannic German) Chàtz :: cat (domestic species) (noun)
   Katze {f} , (male) Kater {m}, (female) Kätzin {f} :: cat (domestic species) (noun)
@@ -3780,7 +3804,7 @@ Index: EN EN->DE
   Tacho {m}, Tachometer :: clock (odometer) (noun)
   Taktsignal {n} :: clock (electrical signal) (noun)
 ===cloth===
-  Schirm {m}, Sonnenschirm {m}, Regenschirm {f} :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
+  Schirm {m}, Sonnenschirm {m}, Regenschirm {m} :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
 ===coat===
   Tinktur {f} :: color (any of the standard dark tinctures used in a coat of arms) (noun)
 ***cod***
@@ -3867,6 +3891,8 @@ Index: EN EN->DE
 ===complete===
   (Alemannic German) Jahr {n} :: year (time it takes for the Earth to complete one revolution of the Sun) (noun)
   Jahr {n} :: year (time it takes for the Earth to complete one revolution of the Sun) (noun)
+===completion===
+  abbrechen :: abort ({{qualifier|computing}} to terminate a process prior to completion) (verb)
 ===component===
   Knochen {m} :: bone (component of a skeleton) (noun)
   (Low German) Knaken {m} :: bone (component of a skeleton) (noun)
@@ -3885,6 +3911,7 @@ Index: EN EN->DE
 ===computers===
   Informatik {f} (de) :: computer science (study of computers and their architecture) (noun)
 ===computing===
+  abbrechen :: abort ({{qualifier|computing}} to terminate a process prior to completion) (verb)
   Port {n} :: port (computing: logical or physical construct into and from which data are transferred) (noun)
 ***conceal***
   verbergen, verheimlichen, verschleiern, verschweigen, verstecken :: conceal (to hide something) (verb)
@@ -3905,12 +3932,15 @@ Index: EN EN->DE
   Übereinstimmung {f} :: accord (agreement or concurrence of opinion) (noun)
 ===condition===
   Unentschlossenheit {f}, Unentschiedenheit {f} :: abeyance (expectancy; condition of being undetermined) (noun)
+  elend, kläglich, jämmerlich :: abject (Sunk to a low condition; down in spirit or hope) (adjective)
   Schulden {f}, Verbindlichkeit {f} :: debt (state or condition of owing something to another) (noun)
   Luft {f}, Himmel {m} :: sky (specific view, condition) (noun)
 ===conformable===
   dementsprechend :: accordingly (Agreeably; correspondingly; suitably; in a manner conformable) (adverb)
 ===conforming===
   unnormal, ungewöhnlich :: abnormal (not conforming to rule or system) (adjective)
+===conformity===
+  genau, präzis, exakt :: accurate (exact or careful conformity to truth) (adjective)
 ===confusing===
   verdunkeln, verschleiern :: obfuscate (make confusing) (verb)
 ===connect===
@@ -3977,7 +4007,7 @@ Index: EN EN->DE
   Gras {n} :: grass (ground cover plant) (noun)
 ===covered===
   Transporter {m}, Lieferwagen {m} :: van (A (covered) vehicle used for carrying goods) (noun)
-  Schirm {m}, Sonnenschirm {m}, Regenschirm {f} :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
+  Schirm {m}, Sonnenschirm {m}, Regenschirm {m} :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
 ===covering===
   über :: on (covering) (preposition)
 ===covers===
@@ -4001,8 +4031,6 @@ Index: EN EN->DE
   ermutigen, aufhetzen, anstiften :: abet (to assist or encourage in crime) (verb)
 ===cristatus===
   Erdwolf {m} :: aardwolf (the mammal species Proteles cristatus) (noun)
-===criticism===
-  das Alltägliche :: quotidian (used in art criticism) (noun)
 ===cross===
   Transvestit :: transvestite (cross-dresser) (noun)
 ***crow***
@@ -4063,7 +4091,6 @@ Index: EN EN->DE
   ausgehen, daten :: date (to take (someone) on a series of dates) (verb)
   an :: on (at the date of) (preposition)
   Kalender {m} :: calendar (means to determine the date) (noun)
-  sein :: be (used to indicate time of day, day of the week, or date) (verb)
 ===dated===
   Bleibe {f}, Wohnung {f} :: abode (slightly dated: residence) (noun)
 ===dates===
@@ -4086,7 +4113,6 @@ Index: EN EN->DE
   Sonntag {m} :: Sunday (day of the week) (noun)
   (Alemannic German) heit, hit, hüt :: today (on the current day) (adverb)
   heute :: today (on the current day) (adverb)
-  sein :: be (used to indicate time of day, day of the week, or date) (verb)
 ===days===
   Woche {f} :: week (period of seven days) (noun)
   Winter {m} :: winter (fourth season, marked by short days and lowest temperatures) (noun)
@@ -4350,6 +4376,8 @@ Index: EN EN->DE
   verringern, mindern :: abate (to bring down or reduce to a lower state) (verb)
   nachlassen, zurückgehen :: abate (to bring down a person physically or mentally) (verb)
   einstellen :: abate (obsolete: to bring entirely down or put an end to) (verb)
+  elend, kläglich, jämmerlich :: abject (Sunk to a low condition; down in spirit or hope) (adjective)
+  (Armut) bitter, verächtlich :: abject (Cast down; rejected; low-lying) (adjective)
 ===draw===
   ausmalen :: color (draw using crayons) (verb)
 ===drawn===
@@ -4408,7 +4436,7 @@ Index: EN EN->DE
   Eduard :: Edward (male given name) (proper noun)
 ===effect===
   erfolglos :: abortive (Coming to naught; failing in its effect; miscarrying; fruitless; unsuccessful) (adjective)
-  Abrasion {f} :: abrasion (geology: effect of mechanical erosion of rock) (noun)
+  Abrasion {f}, Abrieb {n} :: abrasion (geology: effect of mechanical erosion of rock) (noun)
 ===effort===
   Erfolglosigkeit {f} :: abortive (A fruitless effort) (noun)
 ===efforts===
@@ -4502,7 +4530,7 @@ Index: EN EN->DE
 ===Era===
   n. u. Z. (nach unserer Zeitrechnung) :: CE (Common Era) (initialism)
 ===erosion===
-  Abrasion {f} :: abrasion (geology: effect of mechanical erosion of rock) (noun)
+  Abrasion {f}, Abrieb {n} :: abrasion (geology: effect of mechanical erosion of rock) (noun)
 ===especially===
   Schärfe {f}, Präzision {f} :: definition (clarity, especially of musical sound in reproduction) (noun)
   Hautfarbe {f} :: color (human skin tone, especially as an indicator of race or ethnicity) (noun)
@@ -4529,6 +4557,8 @@ Index: EN EN->DE
   Abelmoschus {m} :: abelmosk (evergreen shrub) (noun)
 ***everybody***
   alle, jedermann, jeder :: everybody (all people) (pronoun)
+===exact===
+  genau, präzis, exakt :: accurate (exact or careful conformity to truth) (adjective)
 ===exactly===
   Bit {n} :: bit (datum that may take on one of exactly two values) (noun)
 ===exceeding===
@@ -4539,7 +4569,6 @@ Index: EN EN->DE
   riesig, monströs :: abominable ((obsolete) excessive; large) (adjective)
 ===exchange===
   Tauschhandel {m} :: barter (an equal exchange) (noun)
-  Handel {m}, Kommerz {f} :: trade (exchange) (noun)
   Akzeptanz {f} :: acceptance ((commerce) An assent and engagement by the person on whom a bill of exchange is drawn) (noun)
 ===excoriation===
   Abrasion {f} :: abrasion (medicine: superficial excoriation) (noun)
@@ -4781,7 +4810,7 @@ Index: EN EN->DE
   Winter {m} :: winter (fourth season, marked by short days and lowest temperatures) (noun)
 ===frame===
   Abakus {m}, Rechenbrett {n} :: abacus (calculating frame) (noun)
-  Schirm {m}, Sonnenschirm {m}, Regenschirm {f} :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
+  Schirm {m}, Sonnenschirm {m}, Regenschirm {m} :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
 ***free***
   frei, ungebunden :: free (not imprisoned) (adjective)
   umsonst, gratis, kostenlos :: free (obtainable without payment) (adjective)
@@ -4857,7 +4886,7 @@ Index: EN EN->DE
   Krähe {f} :: crow (any bird of the genus Corvus) (noun)
   Linse {f} :: lens (biology: genus of the legume family; its bean) (noun)
 ===geology===
-  Abrasion {f} :: abrasion (geology: effect of mechanical erosion of rock) (noun)
+  Abrasion {f}, Abrieb {n} :: abrasion (geology: effect of mechanical erosion of rock) (noun)
 ===geometry===
   Punkt {m} :: point (geometry: zero-dimensional object) (noun)
 ***German***
@@ -4889,6 +4918,8 @@ Index: EN EN->DE
   Eichel {f}, Nille {f} :: dickhead ((slang) glans penis) (noun)
 ===glass===
   Bier {n} :: beer (glass of beer) (noun)
+***gnosis***
+  Gnosis {f} :: gnosis (gnosis) (noun)
 ===go===
   in den Krieg ziehen :: march (go to war; make military advances) (verb)
   Hölle {f} :: hell (where sinners go) (proper noun)
@@ -5052,8 +5083,6 @@ Index: EN EN->DE
   Aberration {f} :: aberration (astronomy: small periodical change of position of heavenly bodies) (noun)
 ===heavily===
   Bindfäden regnen, in Strömen regnen, aus allen Kannen gießen, aus allen Kannen schütten, wie aus Eimern schütten :: rain cats and dogs (to rain very heavily) (verb)
-===height===
-  sein :: be (used to indicate height) (verb)
 ***hell***
   Hölle {f} :: hell (where sinners go) (proper noun)
   (Low German) helle {f} :: hell (where sinners go) (proper noun)
@@ -5085,6 +5114,8 @@ Index: EN EN->DE
   Jux {m}, Scherz {m}, Schabernack {m} :: quiz (hoax) (verb)
 ===holder===
   Verzicht, Abdankung {f} :: abdication (the act of abdicating; the renunciation of a high office, dignity, or trust, by its holder) (noun)
+===hope===
+  elend, kläglich, jämmerlich :: abject (Sunk to a low condition; down in spirit or hope) (adjective)
 ===horror===
   verabscheuen :: abhor (to regard with horror or detestation) (verb)
 ===horse===
@@ -5191,11 +5222,7 @@ Index: EN EN->DE
   sein :: be (used to indicate that the values on either side of an equation are the same) (verb)
   sein :: be (used to indicate that the subject plays the role of the predicate nominative) (verb)
   sein :: be (used to indicate that the subject has the qualities described by a noun or noun phrase) (verb)
-  sein :: be (used to indicate age) (verb)
-  sein :: be (used to indicate height) (verb)
-  sein :: be (used to indicate time of day, day of the week, or date) (verb)
   sein :: be (used to indicate weather, air quality, or the like) (verb)
-  sein :: be (used to indicate temperature) (verb)
 ===indicates===
   Zeitwort {n}, Verb {n}, Verbum {n} :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
 ===indicating===
@@ -5499,6 +5526,9 @@ Index: EN EN->DE
   (Swiss German) ich lieb dich, i liäbä di, i ha di gärn, ich han dich gärn :: I love you (affirmation of romantic feeling) (phrase)
 ===lover===
   Rendezvous {n}, Date {n}, Verabredung {n}, Stelldichein {n} :: date (meeting with a lover or potential lover; a person so met) (noun)
+===low===
+  elend, kläglich, jämmerlich :: abject (Sunk to a low condition; down in spirit or hope) (adjective)
+  (Armut) bitter, verächtlich :: abject (Cast down; rejected; low-lying) (adjective)
 ===lower===
   erniedrigen :: abase (to lower so as to hurt feelings) (verb)
   verringern, mindern :: abate (to bring down or reduce to a lower state) (verb)
@@ -5511,6 +5541,8 @@ Index: EN EN->DE
   Stern {m} :: star (luminous celestial body) (noun)
 ===lungs===
   Quarzstaublunge {f}, Quarzstaublungenkrankheit {f}, Silikose {f} :: pneumonoultramicroscopicsilicovolcanoconiosis (disease of the lungs) (noun)
+===lying===
+  (Armut) bitter, verächtlich :: abject (Cast down; rejected; low-lying) (adjective)
 ===made===
   Sprungfeder {f}, Feder {f} :: spring (device made of flexible material) (noun)
   Bier {n} :: beer (alcoholic drink made of malt) (noun)
@@ -5640,7 +5672,7 @@ Index: EN EN->DE
   Fleisch {n} :: meat (type of meat) (noun)
   Fleisch {n} :: meat (any sort of flesh) (noun)
 ===mechanical===
-  Abrasion {f} :: abrasion (geology: effect of mechanical erosion of rock) (noun)
+  Abrasion {f}, Abrieb {n} :: abrasion (geology: effect of mechanical erosion of rock) (noun)
   Roboter {m} :: robot (intelligent mechanical being) (noun)
 ===medical===
   Os :: os (medical term for bone) (noun)
@@ -6013,6 +6045,8 @@ Index: EN EN->DE
   umsonst, gratis, kostenlos :: free (obtainable without payment) (adjective)
 ===occasion===
   Verabredung {f} (colloquial, arbitrary gender) :: date (companion when one is partaking in a social occasion) (noun)
+===occupation===
+  Handwerk {n} :: trade (skilled practice of an occupation) (noun)
 ===occupy===
   sein :: be (occupy a place) (verb)
 ===occur===
@@ -6279,6 +6313,7 @@ Index: EN EN->DE
   Aaronisch :: Aaronic (pertaining to Aaron) (adjective)
   abdominal, den Unterleib betreffend :: abdominal (of or pertaining to the abdomen) (adjective)
   anormal, abnormal :: abnormal (of or pertaining to behaviour that deviates from norms) (adjective)
+  abrahamitisch :: Abrahamic (pertaining to Abrahamic religions) (adjective)
   englisch :: English (of or pertaining to the English language) (adjective)
   englisch :: English (of or pertaining to England) (adjective)
   absolutistisch :: absolutist (of or pertaining to absolutism) (adjective)
@@ -6432,7 +6467,7 @@ Index: EN EN->DE
 ===power===
   Definition {f} :: definition (action or power of describing, explaining, or making definite) (noun)
 ===practice===
-  Handwerk {n} :: trade (skilled practice) (noun)
+  Handwerk {n} :: trade (skilled practice of an occupation) (noun)
   Handwerk :: craft (skilled practice) (noun)
 ===pre===
   präkolumbisch :: pre-Columbian (before Christopher Columbus) (adjective)
@@ -6460,12 +6495,15 @@ Index: EN EN->DE
   Absolution {f} :: absolution (Exercise of priestly jurisdiction in the sacrament of penance, by which Catholics believe the sins of the truly penitent are forgiven) (noun)
 ===printed===
   Buch {n} :: book (collection of sheets of paper bound together containing printed or written material) (noun)
+===prior===
+  abbrechen :: abort ({{qualifier|computing}} to terminate a process prior to completion) (verb)
 ===prisoner===
   bedingte Haftentlassung {f}, Bewährung {f} :: parole (law: a release of (a prisoner)) (noun)
 ===procedure===
   formal :: adjective (methods of enforcement and rules of procedure) (adjective)
 ===process===
   Abbruch {m} :: abort (The function used to abort a process) (noun)
+  abbrechen :: abort ({{qualifier|computing}} to terminate a process prior to completion) (verb)
   Begriffserklärung {f}, Definierung {f} :: definition (action or process of defining) (noun)
   Geburt {f} :: birth (process of childbearing) (noun)
 ===Produced===
@@ -6502,7 +6540,7 @@ Index: EN EN->DE
 ===proposals===
   Akzeptanz {f} :: acceptance (An agreeing to terms or proposals) (noun)
 ===protection===
-  Schirm {m}, Sonnenschirm {m}, Regenschirm {f} :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
+  Schirm {m}, Sonnenschirm {m}, Regenschirm {m} :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
   Schirm {m} :: umbrella (anything that provides protection) (noun)
 ===Proteles===
   Erdwolf {m} :: aardwolf (the mammal species Proteles cristatus) (noun)
@@ -6526,6 +6564,8 @@ Index: EN EN->DE
   zunichte machen, aufheben, rückgängig machen :: abrogate (to put an end to) (verb)
 ===qualified===
   kompetent :: able (legally qualified) (adjective)
+===qualifier===
+  abbrechen :: abort ({{qualifier|computing}} to terminate a process prior to completion) (verb)
 ***qualitative***
   qualitativ :: qualitative (of descriptions or distinctions based on some quality rather than on some quantity) (adjective)
   qualitativ :: qualitative ((chemistry) of a form of analysis that yields the identity of a compound) (adjective)
@@ -6571,7 +6611,6 @@ Index: EN EN->DE
   das Alltägliche, das täglich Wiederkehrende :: quotidian (common, mundane) (adjective)
   tägliches (täglich) Fieber :: quotidian (quotidian fever) (noun)
   Alltag {m} :: quotidian (quotidian, daily thing) (noun)
-  das Alltägliche :: quotidian (used in art criticism) (noun)
 ===race===
   Hautfarbe {f} :: color (human skin tone, especially as an indicator of race or ethnicity) (noun)
 ===rails===
@@ -6582,7 +6621,7 @@ Index: EN EN->DE
   Eisenbahn {f}, Bahn {f} :: railway (transport system using these rails) (noun)
 ===rain===
   Bindfäden regnen, in Strömen regnen, aus allen Kannen gießen, aus allen Kannen schütten, wie aus Eimern schütten :: rain cats and dogs (to rain very heavily) (verb)
-  Schirm {m}, Sonnenschirm {m}, Regenschirm {f} :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
+  Schirm {m}, Sonnenschirm {m}, Regenschirm {m} :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
 ===raised===
   Aktie {f} :: stock (finance: capital raised by a company) (noun)
 ===rally===
@@ -6665,6 +6704,8 @@ Index: EN EN->DE
   Weltausstellung {f}, Expo {f} :: World Exposition (a regular international exposition) (noun)
 ===reject===
   verweigern :: abdicate (reject) (verb)
+===rejected===
+  (Armut) bitter, verächtlich :: abject (Cast down; rejected; low-lying) (adjective)
 ===relating===
   adjektivisch, Adjektiv- :: adjectival (of or relating to or functioning as an adjective) (adjective)
   Kopf- :: head (of, relating to, or intended for the head) (adjective)
@@ -6679,6 +6720,8 @@ Index: EN EN->DE
   Planet {m}, Wandelstern {m} (old) :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
 ===release===
   bedingte Haftentlassung {f}, Bewährung {f} :: parole (law: a release of (a prisoner)) (noun)
+===religions===
+  abrahamitisch :: Abrahamic (pertaining to Abrahamic religions) (adjective)
 ===relinquish===
   abdanken :: abdicate (surrender or relinquish) (verb)
 ===remove===
@@ -6733,7 +6776,7 @@ Index: EN EN->DE
 ***robot***
   Roboter {m} :: robot (intelligent mechanical being) (noun)
 ===rock===
-  Abrasion {f} :: abrasion (geology: effect of mechanical erosion of rock) (noun)
+  Abrasion {f}, Abrieb {n} :: abrasion (geology: effect of mechanical erosion of rock) (noun)
 ===rocky===
   Planet {m} :: planet (rocky or gaseous spherical bodies orbiting the Sun) (noun)
 ===rod===
@@ -6836,6 +6879,7 @@ Index: EN EN->DE
 ===sell===
   dealen :: deal (sell (illicit drugs)) (verb)
 ===selling===
+  Handel {m}, Kommerz {f} :: trade (buying and selling) (noun)
   Handel {m} :: trade (instance of buying or selling) (noun)
   Handel {m}, Deal {m} (Econ.) :: deal (instance of buying or selling) (noun)
 ===semen===
@@ -6973,7 +7017,7 @@ Index: EN EN->DE
 ===skepticism===
   mit einem Körnchen Salz :: grain of salt (with common sense and skepticism) (noun)
 ===skilled===
-  Handwerk {n} :: trade (skilled practice) (noun)
+  Handwerk {n} :: trade (skilled practice of an occupation) (noun)
   Handwerk :: craft (skilled practice) (noun)
   Handwerker :: craft (people who perform a particular kind of skilled work) (noun)
 ===skillful===
@@ -7090,6 +7134,8 @@ Index: EN EN->DE
   Tag {m} :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
 ===spherical===
   Planet {m} :: planet (rocky or gaseous spherical bodies orbiting the Sun) (noun)
+===spirit===
+  elend, kläglich, jämmerlich :: abject (Sunk to a low condition; down in spirit or hope) (adjective)
 ***spring***
   entspringen :: spring (start to exist) (verb)
   springen :: spring (jump or leap) (verb)
@@ -7225,13 +7271,15 @@ Index: EN EN->DE
 ***sun***
   Sonne {f} :: sun (the star around which the Earth revolves) (proper noun)
   (Low German) Sünn :: sun (the star around which the Earth revolves) (proper noun)
-  Schirm {m}, Sonnenschirm {m}, Regenschirm {f} :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
+  Schirm {m}, Sonnenschirm {m}, Regenschirm {m} :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
 ===Sun===
   Planet {m} :: planet (rocky or gaseous spherical bodies orbiting the Sun) (noun)
   (Alemannic German) Jahr {n} :: year (time it takes for the Earth to complete one revolution of the Sun) (noun)
   Jahr {n} :: year (time it takes for the Earth to complete one revolution of the Sun) (noun)
 ***Sunday***
   Sonntag {m} :: Sunday (day of the week) (noun)
+===Sunk===
+  elend, kläglich, jämmerlich :: abject (Sunk to a low condition; down in spirit or hope) (adjective)
 ===sunrise===
   Tag {m} :: day (period between sunrise and sunset) (noun)
 ===sunset===
@@ -7313,8 +7361,6 @@ Index: EN EN->DE
   teleportieren :: teleport (move an object by teleportation) (verb)
 ===teleportation===
   teleportieren :: teleport (move an object by teleportation) (verb)
-===temperature===
-  sein :: be (used to indicate temperature) (verb)
 ===temperatures===
   Winter {m} :: winter (fourth season, marked by short days and lowest temperatures) (noun)
 ===tempered===
@@ -7339,6 +7385,8 @@ Index: EN EN->DE
 ===term===
   Wichser, Arschloch, Drecksau, Mutterficker (rare) :: motherfucker (generic term of abuse) (noun)
   Os :: os (medical term for bone) (noun)
+===terminate===
+  abbrechen :: abort ({{qualifier|computing}} to terminate a process prior to completion) (verb)
 ===terms===
   kürzen :: abbreviate (to reduce to lower terms) (verb)
   Akzeptanz {f} :: acceptance (An agreeing to terms or proposals) (noun)
@@ -7411,7 +7459,6 @@ Index: EN EN->DE
   (Swiss German) Sekunde {f} :: second (SI unit of time) (noun)
   Sekunde {f}, Augenblick {m}, Moment {m} :: second (short, indeterminate amount of time) (noun)
   Uhr {f} :: clock (instrument to measure or keep track of time) (noun)
-  sein :: be (used to indicate time of day, day of the week, or date) (verb)
   Moment {m}, Augenblick {m} :: jiffy (short length of time) (noun)
   Datum :: date (that which specifies the time of writing, inscription etc.) (noun)
   Datum {n}, Zeitpunkt {m} :: date (point of time at which a transaction or event takes place) (noun)
@@ -7466,9 +7513,9 @@ Index: EN EN->DE
   Uhr {f} :: clock (instrument to measure or keep track of time) (noun)
   Eisenbahnlinie {f}, Gleis {n} :: railway (track, consisting of parallel rails) (noun)
 ***trade***
-  Handel {m}, Kommerz {f} :: trade (exchange) (noun)
-  Handwerk {n} :: trade (skilled practice) (noun)
+  Handel {m}, Kommerz {f} :: trade (buying and selling) (noun)
   Handel {m} :: trade (instance of buying or selling) (noun)
+  Handwerk {n} :: trade (skilled practice of an occupation) (noun)
   Gewerkschaft {f} :: trade union (organization) (noun)
   handeln :: deal (trade) (verb)
   Abschaffung des Sklavenhandels :: abolition (Abolition of slave trade)
@@ -7518,6 +7565,7 @@ Index: EN EN->DE
 ===truth===
   Fabel {f} :: fable (fictitious narration to enforce some useful truth or precept) (noun)
   Abweichung {f} :: aberrance (state of being aberrant; a wandering from the right way; deviation from truth, rectitude) (noun)
+  genau, präzis, exakt :: accurate (exact or careful conformity to truth) (adjective)
 ***Tuesday***
   Dienstag {m} :: Tuesday (day of the week) (noun)
 ===tumor===
@@ -7543,7 +7591,7 @@ Index: EN EN->DE
 ===typhoid===
   abbrechen :: abortive (Cutting short; as, abortive treatment of typhoid fever.) (adjective)
 ***umbrella***
-  Schirm {m}, Sonnenschirm {m}, Regenschirm {f} :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
+  Schirm {m}, Sonnenschirm {m}, Regenschirm {m} :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
   Schirm {m} :: umbrella (anything that provides protection) (noun)
   Dach {n} :: umbrella (something that covers a wide range of concepts, ideas, etc.) (noun)
 ===unconstrained===
@@ -7614,7 +7662,7 @@ Index: EN EN->DE
   Nummer {f} :: number (used to show the rank of something in a list or sequence) (noun)
   Alphabet {n} :: alphabet (an ordered set of letters used in a language) (noun)
   Fleisch {n} :: meat (animal flesh used as food) (noun)
-  Schirm {m}, Sonnenschirm {m}, Regenschirm {f} :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
+  Schirm {m}, Sonnenschirm {m}, Regenschirm {m} :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
   sein :: be (used to indicate that the subject and object are the same) (verb)
   sein :: be (used to indicate that the values on either side of an equation are the same) (verb)
   sein :: be (used to indicate that the subject plays the role of the predicate nominative) (verb)
@@ -7624,12 +7672,7 @@ Index: EN EN->DE
   sein :: be (used to form the continuous forms of various tenses) (verb)
   sein :: be ((archaic) used to form the perfect aspect with certain intransitive verbs) (verb)
   sein :: be (used to form future tenses, especially the future subjunctive) (verb)
-  sein :: be (used to indicate age) (verb)
-  sein :: be (used to indicate height) (verb)
-  sein :: be (used to indicate time of day, day of the week, or date) (verb)
   sein :: be (used to indicate weather, air quality, or the like) (verb)
-  sein :: be (used to indicate temperature) (verb)
-  das Alltägliche :: quotidian (used in art criticism) (noun)
   Sprache {f} :: language (particular words used) (noun)
 ===Used===
   -ität {f} :: -ity (Used to form nouns from adjectives.) (suffix)
@@ -7743,7 +7786,6 @@ Index: EN EN->DE
   Freitag {m} :: Friday (day of the week) (noun)
   Samstag {m}, Sonnabend {m}, Sabbat {m} :: Saturday (day of the week) (noun)
   Sonntag {m} :: Sunday (day of the week) (noun)
-  sein :: be (used to indicate time of day, day of the week, or date) (verb)
 ===weeks===
   vierzehn Tage, zwei Wochen :: fortnight (period of two weeks) (noun)
 ***whatever***

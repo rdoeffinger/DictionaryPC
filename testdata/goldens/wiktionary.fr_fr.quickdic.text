@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.french 6701
+EntrySource: enwiktionary.french 6706
 
 Index: FR FR->EN
 ===00===
@@ -272,6 +272,8 @@ Index: FR FR->EN
   abrase {fr-verb-form} :: {conjugation of|abraser|2|s|imp}
 ***abrasion***
   abrasion {{fr-noun|f}} :: abrasion.
+***abrasive***
+  abrasive {f} :: Feminine singular form of abrasif
 ***abraxas***
   abraxas {{fr-noun|m|pl=abraxas}} :: {{gnosticism|historical}} abraxas
 ***abreuvoir***
@@ -322,6 +324,9 @@ Index: FR FR->EN
   absorption {{fr-noun|f}} :: absorption
 ***abstention***
   abstention {{fr-noun|f}} :: abstention
+***abstinent***
+  abstinent {{fr-adj|f=abstinente}} :: abstinent
+  abstinent {{fr-noun|m}} :: abstinent
 ***abstraction***
   abstraction {{fr-noun|f}} :: abstraction
 ***abstruse***
@@ -344,6 +349,8 @@ Index: FR FR->EN
   (Old French) abusion {{fro-noun|f}} :: deception; deceit
   (Old French) abusion {{fro-noun|f}} :: lie; untruth
     {{quote-book|circa 1250|title=Ci encoumence la desputizons dou croisie et dou descroisie.|author=Rutebeuf|passage=Tu dis si grant abusion<br>Que nus ne la porroit descrire[.]|translation=You say such lies<br>That no-one could describe them}} :: --
+***abusive***
+  abusive {f} :: Feminine singular form of abusif
 ===abyme===
   abyme {{fr-noun|m}} :: {archaic} {alternative form of|abime}
 ***abyssal***
@@ -356,8 +363,12 @@ Index: FR FR->EN
 ===acater===
   (Old French) acater (verb) :: {Picardy} {alternative form of|achater}
 ***accent***
-  accent {{fr-noun|m}} :: Accent (one's manner of speaking)
-  accent {{fr-noun|m}} :: Accent (the symbol on a character)
+  accent {{fr-noun|m}} :: accent, manner or tone of speech
+  accent {{fr-noun|m}} :: {linguistics} an accent symbol
+  accent {{fr-noun|m}} :: {linguistics} accent, stress
+  accent {{fr-noun|m}} :: {music} strain, section
+***accentuation***
+  accentuation {{fr-noun|f}} :: stressing, accenting
 ***acceptable***
   acceptable {fr-adj-mf} :: acceptable
 ===acceptant===
@@ -372,12 +383,15 @@ Index: FR FR->EN
     il accepte de s'arrêter :: he accepted to stop
   acceptant :: {present participle of|accepter}
 ***acception***
-  acception {{fr-noun|f}} :: acceptation
-  acception {{fr-noun|f}} :: one of the various listed meanings of a word in a dictionary
+  acception {{fr-noun|f}} :: meaning, sense (of a word), acceptation
 ***accessible***
   accessible {fr-adj-mf} :: {{context|of a place, information, etc.}} accessible, attainable, obtainable, available.
   accessible {fr-adj-mf} :: {{context|of a price}} affordable
   accessible {fr-adj-mf} :: {{context|of a person}} approachable
+***accession***
+  accession {{fr-noun|f}} :: accession (to throne)
+  accession {{fr-noun|f}} :: {legal} accession
+    accession sociale à la propriété :: assisted home-ownership scheme
 ***accident***
   accident {{fr-noun|m}} :: accident
 ***acclamation***
@@ -429,11 +443,11 @@ Index: FR FR->EN
   accumulation {{fr-noun|f}} :: accumulation (action of accumulating)
   accumulation {{fr-noun|f}} :: accumulation (result of accumulating)
 ===accusatif===
-  accusative {fr-adj-form} {f} :: {feminine|accusatif}
+  accusative {fr-adj-form} {f} :: {feminine of|accusatif}
 ***accusation***
   accusation {{fr-noun|f}} :: accusation
 ===accusative===
-  accusative {fr-adj-form} {f} :: {feminine|accusatif}
+  accusative {fr-adj-form} {f} :: {feminine of|accusatif}
 ===accuse===
   accuse :: {First- and third-person singular indicative present|accuser}
   accuse :: {First- and third-person singular subjunctive present|accuser}
@@ -448,6 +462,9 @@ Index: FR FR->EN
   (Old French) acater (verb) :: {Picardy} {alternative form of|achater}
 ***acidification***
   acidification {{fr-noun|f}} :: acidification.
+***acolyte***
+  acolyte {{fr-noun|m}} :: {religion} acolyte
+  acolyte {{fr-noun|m}} :: henchman, sidekick
 ***acre***
   acre {{fr-noun|f}} :: {historical} acre
 ***action***
@@ -624,6 +641,8 @@ Index: FR FR->EN
 ===amusé===
   on (pronoun) :: {informal} We.
     On s'est amusé :: We had fun
+***amusement***
+  amusement {{fr-noun|m}} :: amusement
 ***an***
   an {{fr-noun|m}} :: A year.
   avoir {{fr-verb|type=auxiliary}} :: to be; to be aged (speaking of age)
@@ -897,9 +916,6 @@ Index: FR FR->EN
     Martin a trois sandwichs, mais j'en ai seulement deux. :: Martin has sandwiches, but I have only two (of them).
     Il y en a combien ? :: How many of them are there?
     Je bois de l'alcool parce que j'en ai besoin :: I drink alcohol because I need (of) it.
-  Paris {m} (mostly) or {f} :: Paris (in France)
-    Paris est beaucoup moins bruyant en été :: Paris is much less noisy in summer
-    Paris est vraiment belle la nuit :: Paris is really beautiful at night
 ***beige***
   beige {fr-adj-mf} :: beige
 ***bel***
@@ -907,10 +923,6 @@ Index: FR FR->EN
   bel {{fr-noun|m}} :: bel
 ***Belize***
   Belize {fr-proper noun} :: Belize
-===belle===
-  Paris {m} (mostly) or {f} :: Paris (in France)
-    Paris est beaucoup moins bruyant en été :: Paris is much less noisy in summer
-    Paris est vraiment belle la nuit :: Paris is really beautiful at night
 ***ben***
   ben {fr-intj} :: well; uh
 ===ber===
@@ -1093,10 +1105,6 @@ Index: FR FR->EN
   (Old French) bruit {{fro-noun|m|bruiz|bruiz|bruit}} :: noise; sounds
 ***brusque***
   brusque {fr-adj-mf} :: abrupt (sudden or hasty)
-===bruyant===
-  Paris {m} (mostly) or {f} :: Paris (in France)
-    Paris est beaucoup moins bruyant en été :: Paris is much less noisy in summer
-    Paris est vraiment belle la nuit :: Paris is really beautiful at night
 ===bu===
   qui a bu boira (phrase) :: who has drunk will drink again
 ***bug***
@@ -1430,16 +1438,16 @@ Index: FR FR->EN
     voiture de sport :: sports car
     stade de football :: football stadium
 ===chocolat===
-  chocolate {{fr-adj-form|f}} :: {feminine|chocolat}
+  chocolate {{fr-adj-form|f}} :: {feminine of|chocolat}
 ===chocolate===
-  chocolate {{fr-adj-form|f}} :: {feminine|chocolat}
+  chocolate {{fr-adj-form|f}} :: {feminine of|chocolat}
 ***choir***
   choir {{fr-verb|type=defective}} (past participle chu) :: {archaic} to fall
 ***chose***
   chose {{fr-noun|f}} :: thing
   (Old French) chose {{fro-noun|f}} :: thing (miscellaneous object or concept)
   quelque chose :: something, abbreviated as: qqch.
-  quelque chose :: something which has has a characteristic of the adjective
+  quelque chose :: something which has a characteristic of the adjective
     quelque chose de typique :: Something typical
 ===choses===
   ci (adverb)Contracts ici or ceci :: this
@@ -1592,6 +1600,9 @@ Index: FR FR->EN
 ===conter===
   content {fr-verb-form} :: {conjugation of|conter|3|p|pres|ind}
   content {fr-verb-form} :: {conjugation of|conter|3|p|pres|sub}
+===contestation===
+  provenance {{fr-noun|f}} :: provenance, origin
+    La violence continue en provenance de Homs, l'épicentre de contestation. :: Voilence continues in Homs, the epicentre of the protests.
 ***continent***
   continent {{fr-noun|m}} :: continent
 ===continue===
@@ -1600,6 +1611,8 @@ Index: FR FR->EN
     Il continue de m'embêter. :: He keeps annoying me.
     Elle m'a dit de venir. :: She told me to come.
     Nous vous proposons de venir. :: We suggest you come.
+  provenance {{fr-noun|f}} :: provenance, origin
+    La violence continue en provenance de Homs, l'épicentre de contestation. :: Voilence continues in Homs, the epicentre of the protests.
 ===contracter===
   de {fr-prep} :: by
     boire trois tasses par jour réduirait de 20% les risques de contracter une maladie. :: drinking three glasses a day would reduce the risk of catching an illness by 20%.
@@ -1703,12 +1716,6 @@ Index: FR FR->EN
 ***damoiselle***
   damoiselle {{fr-noun|f}} :: {archaic} (noble) lady
   damoiselle {{fr-noun|f}} :: {historical} damsel
-***dancer***
-  (Middle French) dancer (verb) :: to dance
-  (Old French) dancer (verb) :: to dance
-    circa 1170, {{w|Chrétien de Troyes}}, Érec et Énide: :: --
-    Puceles carolent et dancent :: --
-    Young maidens, singing and dancing :: --
 ***danger***
   danger {{fr-noun|m}} :: danger
   danger {{fr-noun|m}} :: jeopardy (danger of loss, harm, or failure)
@@ -1798,9 +1805,6 @@ Index: FR FR->EN
   (Middle French) definition {{frm-noun|f|s}} :: definition {{stub-gloss|frm}}
 ***del***
   (Old French) del (contraction) :: contraction of de + le (of the)
-***delta***
-  delta {{fr-noun-inv|m}} :: delta (Greek letter)
-  delta {{fr-noun|m}} :: delta (geographical feature)
 ===dents===
   important {fr-adj} :: important
     Il est important de se brosser les dents. :: It is important to brush your teeth.
@@ -1884,8 +1888,6 @@ Index: FR FR->EN
   homme de Dieu {{fr-noun|m|head=homme de Dieu|pl=hommes de Dieu}} :: a priest
 ***difference***
   (Old French) difference {{fro-noun|f}} :: difference
-***digamma***
-  digamma {{fr-noun-inv|m}} :: digamma (Greek letter)
 ***digestion***
   digestion {{fr-noun|f}} :: digestion
 ***digital***
@@ -1927,9 +1929,6 @@ Index: FR FR->EN
   {{cardinalbox|fr|9|10|11|neuf|onze|ord=dixième|wplink=Dix}}dix (cardinal number) :: ten
 ***Djibouti***
   Djibouti {fr-proper noun} :: Djibouti
-***DNA***
-  DNA (noun){seeCites} :: DNA, deoxyribonucleic acid
-  DNA (noun){seeCites} :: Also used figuratively, e.g. 商业 DNA， "corporate DNA"
 ***do***
   do {{fr-noun|m}} :: do, the musical note
 ***doctrine***
@@ -2179,11 +2178,12 @@ Index: FR FR->EN
 ===entre===
   bite {{fr-noun|f}} :: {slang} knob, cock, dick
     Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
+===épicentre===
+  provenance {{fr-noun|f}} :: provenance, origin
+    La violence continue en provenance de Homs, l'épicentre de contestation. :: Voilence continues in Homs, the epicentre of the protests.
 ===épreuves===
   bien (adverb), comparative and superlative: mieux :: (+ de, des, du) a lot of
     Macy Gray a traversé bien des épreuves. :: Macy Gray got through a lot of ordeals.
-***epsilon***
-  epsilon {{fr-noun-inv|m}} :: epsilon (Greek letter)
 ===Érec===
   (Old French) face {{fro-noun|f}} :: {anatomy} face
     circa 1170, {{w|Chrétien de Troyes}}, Érec et Énide: :: Le chief li desarme et la face.
@@ -2273,9 +2273,6 @@ Index: FR FR->EN
     Étonnamment, regarder les abeilles butiner me détend. :: Surprisingly, watching bees collect pollen relaxes me.
     abeilles sauvages et abeilles domestiques :: wild bees and domesticated bees
     essaim d’abeilles :: swarm of bees
-  Paris {m} (mostly) or {f} :: Paris (in France)
-    Paris est beaucoup moins bruyant en été :: Paris is much less noisy in summer
-    Paris est vraiment belle la nuit :: Paris is really beautiful at night
   c :: {text messaging} {Informal spelling|c'est}
     C nul ici sans George :: It's rubbish here without George
 ===Est===
@@ -2334,9 +2331,6 @@ Index: FR FR->EN
   été {{fr-past participle|intr=1}} :: {past participle of|être}
     {{quote-book|year=1837|author=Louis Viardot|title=L’Ingénieux Hidalgo Don Quichotte de la Manche|url=[s:fr: L’Ingénieux Hidalgo Don Quichotte de la Manche{!}fr.Wikisource]|original=El ingenioso hidalgo Don Quijote de la Mancha|by=Miguel de Cervantes Saavedra|section=Chapter I|passage=Aussi essayait-il [d']accommoder [un nom à con cheval] qui désignât ce qu’il avait été avant d’entrer dans la chevalerie errante, et ce qu’il était alors.}} :: --
     He tried to accommodate [a name for his horse] that would designate what he had been before entering into knight-errantry, and what he was currently. :: --
-  Paris {m} (mostly) or {f} :: Paris (in France)
-    Paris est beaucoup moins bruyant en été :: Paris is much less noisy in summer
-    Paris est vraiment belle la nuit :: Paris is really beautiful at night
 ===êtes===
   de {fr-prep} :: from (used to indicate origin)
     Elle vient de la France. :: She comes from France.
@@ -2759,6 +2753,8 @@ Index: FR FR->EN
   global {{fr-adj-al|glob}} :: as a whole, on the whole; total
 ***go***
   go {{fr-noun-inv|m}} :: go
+***gone***
+  gone {{fr-noun|m}} :: {{context|Lyon|_|dialect}} kid (child)
 ===google===
   google {fr-verb-form} :: {conjugation of|googler|1|s|pres|ind}
   google {fr-verb-form} :: {conjugation of|googler|3|s|pres|ind}
@@ -2886,6 +2882,9 @@ Index: FR FR->EN
 ***homophone***
   homophone {fr-adj-mf} :: homophonous
   homophone {{fr-noun|m}} :: homophone
+===Homs===
+  provenance {{fr-noun|f}} :: provenance, origin
+    La violence continue en provenance de Homs, l'épicentre de contestation. :: Voilence continues in Homs, the epicentre of the protests.
 ===Hong===
   Hong Kong {fr-proper noun} :: Hong Kong
 ===honnorable===
@@ -3111,8 +3110,8 @@ Index: FR FR->EN
   intuitive {{fr-adj-form|f}} :: {feminine of|intuitif}
 ***invariable***
   invariable {fr-adj-mf} :: invariable
-***iota***
-  iota {{fr-noun-inv|m}} :: iota (Greek letter)
+***Iqaluit***
+  Iqaluit {fr-proper-noun} :: Iqaluit (Capital of the territory of Nunavut (Canada).)
 ***Iran***
   Iran {{fr-proper noun|m}} :: Iran
 ===j===
@@ -3308,6 +3307,8 @@ Index: FR FR->EN
 ===La===
   libre {fr-adj-mf} :: clear, free, vacant
     La voie est libre. :: The way is clear.
+  provenance {{fr-noun|f}} :: provenance, origin
+    La violence continue en provenance de Homs, l'épicentre de contestation. :: Voilence continues in Homs, the epicentre of the protests.
   abeille {{fr-noun|f}}A honey bee (''abeille'' 1) collecting pollenA solitary bee (''abeille'' 2) :: {entomology} A bee, any of a number of members of superfamily Apoidea or the Anthophila (subdivisions of Hymenoptera), usually hairy and important pollinators that generally nourish on nectar
     La majorité des abeilles sont solitaires. :: The majority of bees are solitary.
 ===là===
@@ -3539,9 +3540,6 @@ Index: FR FR->EN
     I believe also that I had never listened so well, and that neither had he ever put so much patience into his explanations. :: --
 ===luire===
   lui {{fr-past participle|intr=1}} :: {past participle of|luire}
-***lune***
-  lune {{fr-noun|f}} :: {astronomy} moon.
-  (Old French) lune {{fro-proper noun|f}} :: the Moon
 ***Luxembourg***
   Luxembourg {{fr-proper noun|m}} :: Luxembourg (Grand Duchy)
   Luxembourg {{fr-proper noun|m}} :: Luxembourg (province)
@@ -3565,8 +3563,6 @@ Index: FR FR->EN
 ===Macy===
   bien (adverb), comparative and superlative: mieux :: (+ de, des, du) a lot of
     Macy Gray a traversé bien des épreuves. :: Macy Gray got through a lot of ordeals.
-***Madrid***
-  Madrid {fr-proper noun} :: Madrid, Spanish capital city and province
 ===main===
   bite {{fr-noun|f}} :: {slang} knob, cock, dick
     Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
@@ -3591,11 +3587,6 @@ Index: FR FR->EN
   mal {{fr-noun|m|pl=maux}} :: evil
   mal {fr-adv} :: badly
     C'est mal fait. (“It's done badly.”) :: --
-  mal (adjective) :: {{context|in set phrases and limited constructions}} bad
-    bon an, mal an :: --
-    bon gré, mal gré :: --
-    Il est mal de [infinitive] :: --
-    C'est mal de [infinitive] :: --
   (Old French) mal (adverb) :: evilly
   (Old French) mal (adverb) :: badly; poorly
   (Old French) mal {{fro-noun|m|maus|maus|mal}} :: evil
@@ -3640,9 +3631,9 @@ Index: FR FR->EN
     Il y en a combien ? :: How many of them are there?
     Je bois de l'alcool parce que j'en ai besoin :: I drink alcohol because I need (of) it.
 ===masculin===
-  masculine {{fr-adj-form|f}} :: {feminine|masculin}
+  masculine {{fr-adj-form|f}} :: {feminine of|masculin}
 ===masculine===
-  masculine {{fr-adj-form|f}} :: {feminine|masculin}
+  masculine {{fr-adj-form|f}} :: {feminine of|masculin}
 ***masque***
   masque {{fr-noun|m}} :: mask (a cover, or partial cover, for the face, used for disguise or protection)
 ***massacre***
@@ -3674,9 +3665,9 @@ Index: FR FR->EN
   massé {fr-past participle} :: {past participle of|masser}
 ***masseur***
   masseur {{fr-noun|m|f=masseuse}} :: masseur
-  masseuse {f} (noun) :: {feminine|masseur}
+  masseuse {f} (noun) :: {feminine of|masseur}
 ===masseuse===
-  masseuse {f} (noun) :: {feminine|masseur}
+  masseuse {f} (noun) :: {feminine of|masseur}
 ***massicot***
   massicot {m} (noun) :: guillotine, a machine for cutting paper and sheet metal.
 ***masturbation***
@@ -3729,6 +3720,18 @@ Index: FR FR->EN
   menu {{fr-noun|m}} :: menu; a set meal on a menu
   (Old French) menu {m} (adjective) :: small
     {{quote-book|year=12<sup>th</sup> Century|title=Raoul de Cambrai|author=Unknown|passage=Trenche la coife de son hauberc menu|translation=He cut off the head of his small coat of armor}} :: --
+===merchandise===
+  merchandise {fr-verb form} :: {conjugation of|merchandiser|1|s|pres|ind}
+  merchandise {fr-verb form} :: {conjugation of|merchandiser|3|s|pres|ind}
+  merchandise {fr-verb form} :: {conjugation of|merchandiser|1|s|pres|sub}
+  merchandise {fr-verb form} :: {conjugation of|merchandiser|1|s|pres|sub}
+  merchandise {fr-verb form} :: {conjugation of|merchandiser|2|s|imp}
+===merchandiser===
+  merchandise {fr-verb form} :: {conjugation of|merchandiser|1|s|pres|ind}
+  merchandise {fr-verb form} :: {conjugation of|merchandiser|3|s|pres|ind}
+  merchandise {fr-verb form} :: {conjugation of|merchandiser|1|s|pres|sub}
+  merchandise {fr-verb form} :: {conjugation of|merchandiser|1|s|pres|sub}
+  merchandise {fr-verb form} :: {conjugation of|merchandiser|2|s|imp}
 ===mère===
   de (article) :: {negative} a, an, any
     Elle n'a pas de mère. :: She hasn't got a mother.
@@ -3823,9 +3826,6 @@ Index: FR FR->EN
 ===moins===
   short {{fr-noun|m}} :: shorts, short trousers {{a|UK}}
     Avec un pantalon, j'ai moins froid aux jambes qu'avec un short. :: “With trousers on, my legs are not as cold as with shorts on.”
-  Paris {m} (mostly) or {f} :: Paris (in France)
-    Paris est beaucoup moins bruyant en été :: Paris is much less noisy in summer
-    Paris est vraiment belle la nuit :: Paris is really beautiful at night
 ***mole***
   mole {{fr-noun|f}} :: {{context|chemistry|physics}} Mole.
 ===molt===
@@ -3913,9 +3913,6 @@ Index: FR FR->EN
     ville natale&nbsp; :: home town
 ***natter***
   natter {fr-verb} :: to plait; to braid
-***natural***
-  (Old French) natural {m} (adjective), feminine: natural :: natural
-    {{quote-book|year=circa 1180,|title=Perceval ou le conte du Graal|author=Chrétien de Troyes|passage=si sanbla natural color.|translation=The color seemed so natural.}} :: --
 ***nature***
   nature {{fr-noun|f}} :: nature
   nature une [[brioche]] '''nature'''{fr-adj-mf} :: plain, unseasoned
@@ -4037,9 +4034,6 @@ Index: FR FR->EN
     chien de garde :: guard dog
     voiture de sport :: sports car
     stade de football :: football stadium
-  Paris {m} (mostly) or {f} :: Paris (in France)
-    Paris est beaucoup moins bruyant en été :: Paris is much less noisy in summer
-    Paris est vraiment belle la nuit :: Paris is really beautiful at night
 ===nul===
   c :: {text messaging} {Informal spelling|c'est}
     C nul ici sans George :: It's rubbish here without George
@@ -4049,14 +4043,26 @@ Index: FR FR->EN
   o (letter) :: o (miniscule)
   o (abbreviation) :: {computing} octet (B (byte))
 ===objectif===
-  objective {{fr-adj-form|f}} :: {feminine|objectif}
+  objective {{fr-adj-form|f}} :: {feminine of|objectif}
 ===objective===
-  objective {{fr-adj-form|f}} :: {feminine|objectif}
+  objective {{fr-adj-form|f}} :: {feminine of|objectif}
 ***observateur***
   observateur {{fr-adj|f=observatrice}} :: observant
   observateur {{fr-noun|m|f=observatrice}} :: observer
 ***observation***
   observation {{fr-noun|f}} :: observation
+===ochre===
+  ochre {fr-verb form} :: {conjugation of|ochrer|1|s|pres|ind}
+  ochre {fr-verb form} :: {conjugation of|ochrer|3|s|pres|ind}
+  ochre {fr-verb form} :: {conjugation of|ochrer|1|s|pres|sub}
+  ochre {fr-verb form} :: {conjugation of|ochrer|1|s|pres|sub}
+  ochre {fr-verb form} :: {conjugation of|ochrer|2|s|imp}
+===ochrer===
+  ochre {fr-verb form} :: {conjugation of|ochrer|1|s|pres|ind}
+  ochre {fr-verb form} :: {conjugation of|ochrer|3|s|pres|ind}
+  ochre {fr-verb form} :: {conjugation of|ochrer|1|s|pres|sub}
+  ochre {fr-verb form} :: {conjugation of|ochrer|1|s|pres|sub}
+  ochre {fr-verb form} :: {conjugation of|ochrer|2|s|imp}
 ***œil***
   œil {{fr-noun|m|pl=yeux}} :: eye, organ that is sensitive to light, helping organisms to see
   œil {{fr-noun|m|pl=yeux}} :: glyph, rendering of a single character
@@ -4257,10 +4263,7 @@ Index: FR FR->EN
 ===parer===
   parent {fr-verb-form} :: {conjugation of|parer|3|p|pres|ind}
   parent {fr-verb-form} :: {conjugation of|parer|3|p|pres|sub}
-***Paris***
-  Paris {m} (mostly) or {f} :: Paris (in France)
-    Paris est beaucoup moins bruyant en été :: Paris is much less noisy in summer
-    Paris est vraiment belle la nuit :: Paris is really beautiful at night
+===Paris===
   de {fr-prep} :: of (expresses belonging)
     1837 Louis Viardot, L’Ingénieux Hidalgo Don Quichotte de la Manche<sup>fr.Wikisource</sup>, translation of El ingenioso hidalgo Don Quijote de la Mancha by Miguel de Cervantes Saavedra, Chapter I: :: --
     Dans une bourgade de la Manche, dont je ne veux pas me rappeler le nom, vivait, il n’y a pas longtemps, un hidalgo .... :: --
@@ -4469,13 +4472,13 @@ Index: FR FR->EN
 ***pizza***
   pizza {{fr-noun|f}} :: pizza
 ===plat===
-  plate {{fr-adj-form|f}} :: {feminine|plat}
+  plate {{fr-adj-form|f}} :: {feminine of|plat}
 ***plate***
   plate {{fr-noun|f}} :: Very small flat boat.
   plate {fr-adj-mf} :: {{Canada|informal}} Annoyingly boring.
     {{quote-book|year=1999|author=Chrystine Brouillet|title=Les Fiancées de l'Enfer|isbn=2-89021-363-3| page=204| passage="On va se mettre à ressembler aux gens qui racontent leur crisse de vie plate dans les émissions de télé débiles." — We're going to sound like those people who tell they frickin' boring lives on those idiotic tv shows.}} :: --
   plate {fr-adj-mf} :: {{Canada|informal}} Troublesome.
-  plate {{fr-adj-form|f}} :: {feminine|plat}
+  plate {{fr-adj-form|f}} :: {feminine of|plat}
 ===pleine===
   poire {{fr-noun|f}} :: {informal} mush, face
     en pleine poire :: "straight in the face"
@@ -4619,12 +4622,17 @@ Index: FR FR->EN
     In a village of La Mancha, whose name I do not want to remember, lived, not long ago, an hidalgo .... :: --
     Paris est la capitale de la France. :: Paris is the capital of France.
     En 1905, les églises deviennent la propriété de l'État. :: In 1905, churches became the property of the state.
+  accession {{fr-noun|f}} :: {legal} accession
+    accession sociale à la propriété :: assisted home-ownership scheme
 ***protester***
   protester {fr-verb} :: to protest; to object
   (Middle French) protester (verb) :: to claim
     {{quote-book|year=1552|title=Le Tiers Livre|author=François Rabelais|passage=Lucillius, lequel protestoit n'escrire que a ses Tarentins & Consentinois|translation=}} :: --
 ***proton***
   proton {m} (noun) :: proton
+***provenance***
+  provenance {{fr-noun|f}} :: provenance, origin
+    La violence continue en provenance de Homs, l'épicentre de contestation. :: Voilence continues in Homs, the epicentre of the protests.
 ***PS***
   PS {m} :: Parti Socialiste; a socialist political party of either France, Belgium or Switzerland.
 ***pseudo***
@@ -4725,7 +4733,7 @@ Index: FR FR->EN
     Tu vois que tu avais tort ? :: Do you see that you were wrong?
 ===quelque===
   quelque chose :: something, abbreviated as: qqch.
-  quelque chose :: something which has has a characteristic of the adjective
+  quelque chose :: something which has a characteristic of the adjective
     quelque chose de typique :: Something typical
 ===quérir===
   quit {fr-verb-form} :: {conjugation of|quérir|3|s|past historic}
@@ -4817,6 +4825,11 @@ Index: FR FR->EN
   la Réunion {f} (proper noun) :: Réunion
 ***rêve***
   rêve {{fr-noun|m}} :: dream
+  rêve {fr-verb-form} :: {conjugation of|rêver|1|s|pres|ind}
+  rêve {fr-verb-form} :: {conjugation of|rêver|3|s|pres|ind}
+  rêve {fr-verb-form} :: {conjugation of|rêver|1|s|pres|sub}
+  rêve {fr-verb-form} :: {conjugation of|rêver|3|s|pres|sub}
+  rêve {fr-verb-form} :: {conjugation of|rêver|2|s|imp}
 ===revenir===
   pour {fr-prep} :: to
     Je veux chanter pour te faire revenir. :: I want to sing to make you come back.
@@ -4827,6 +4840,11 @@ Index: FR FR->EN
   revenue {f} (past participle form) :: {Feminine singular past participle|revenir}
 ***rêver***
   rêver {fr-verb} :: To dream.
+  rêve {fr-verb-form} :: {conjugation of|rêver|1|s|pres|ind}
+  rêve {fr-verb-form} :: {conjugation of|rêver|3|s|pres|ind}
+  rêve {fr-verb-form} :: {conjugation of|rêver|1|s|pres|sub}
+  rêve {fr-verb-form} :: {conjugation of|rêver|3|s|pres|sub}
+  rêve {fr-verb-form} :: {conjugation of|rêver|2|s|imp}
 ===Rica===
   Costa Rica {f} (proper noun) :: Costa Rica
 ===rice===
@@ -5103,6 +5121,9 @@ Index: FR FR->EN
   slow {{fr-noun|m}} :: slow waltz
 ***soccer***
   soccer {{fr-noun-unc|m}} :: {Quebec} soccer (association football)
+===sociale===
+  accession {{fr-noun|f}} :: {legal} accession
+    accession sociale à la propriété :: assisted home-ownership scheme
 ***sodium***
   sodium {{fr-noun-unc|m}} :: sodium
 ***sofa***
@@ -5193,16 +5214,11 @@ Index: FR FR->EN
   stars (plural) {f|p} :: {plural of|star}
 ***stock***
   stock {{fr-noun|m}} :: stock, goods in supply
-***Stockholm***
-  Stockholm {fr-proper noun} :: Stockholm
 ***stop***
   stop {{fr-noun-unc|m}} :: stop sign
   stop {{fr-noun-unc|m}} :: hitchhiking
 ***string***
   string {{fr-noun|m}} :: G-string, thong, tanga
-***stud***
-  stud {{fr-noun|m}} :: stud where stallions and mares are bred to improve the equine race
-  stud {{fr-noun|m}} :: assembly of horses for sale or racing
 ===subjectif===
   subjective {f} :: {feminine of|subjectif}
 ===subjective===
@@ -5395,6 +5411,7 @@ Index: FR FR->EN
   translate {fr-verb-form} :: {conjugation of|translater|2|s|imp}
 ***translation***
   translation {{fr-noun|f}} :: {{mathematics|physics}} translation
+  translation {{fr-noun|f}} :: {computing} thunking
   translations (plural) {f|p} :: {plural of|translation}
 ===translations===
   translations (plural) {f|p} :: {plural of|translation}
@@ -5455,7 +5472,7 @@ Index: FR FR->EN
 ***twit***
   twit {{fr-noun|m}} :: {{Quebec|colloquial}} twit (foolish person)
 ===typique===
-  quelque chose :: something which has has a characteristic of the adjective
+  quelque chose :: something which has a characteristic of the adjective
     quelque chose de typique :: Something typical
 ***Ukraine***
   Ukraine {{fr-proper noun|f}} :: Ukraine
@@ -5579,7 +5596,7 @@ Index: FR FR->EN
   hand {{fr-noun-unc|m}} :: {informal} handball
     On va jouer au hand, tu veux venir? :: We're going to play handball, you want to come?
 ***ventripotent***
-  ventripotent {{fr-adj|m}} :: Ventripotent.
+  ventripotent {{fr-adj|m}} :: ventripotent
 ***ver***
   ver {{fr-noun|m}} :: worm
   vers {m|p} :: {plural of| ver}
@@ -5690,6 +5707,9 @@ Index: FR FR->EN
   quatre-vingts {{fr-noun-inv|m|head=quatre vingts}} :: eighty, 80.
   quatre-vingt {{fr-noun-inv|m}} :: {France} Form of quatre-vingts (eighty) used in compounds (the numbers 81 to 99, larger numbers ending in numbers from 81 to 99, and the ordinal numbers corresponding to any of these numbers).
     {{usex|quatre-vingt-six|translation=eighty-six}} :: --
+===violence===
+  provenance {{fr-noun|f}} :: provenance, origin
+    La violence continue en provenance de Homs, l'épicentre de contestation. :: Voilence continues in Homs, the epicentre of the protests.
 ***violet***
   violet (noun) :: purple (colour)
   violet {{fr-adj|feminine=violette}} :: purple
@@ -5792,10 +5812,6 @@ Index: FR FR->EN
     Le train va de Paris à Bordeaux. :: The train goes from Paris to Bordeaux.
   être {{fr-verb|type=auxiliary}} :: to be
     Vous devez être plus clairs. :: You must be clearer.
-===vraiment===
-  Paris {m} (mostly) or {f} :: Paris (in France)
-    Paris est beaucoup moins bruyant en été :: Paris is much less noisy in summer
-    Paris est vraiment belle la nuit :: Paris is really beautiful at night
 ***w***
   w (letter), uppercase: W :: w
 ===W===
@@ -6028,6 +6044,8 @@ Index: EN EN->FR
   -able (suffix), plural: -ables :: able to be done (similar to English, above)
 ===abracadabra===
   abracadabra {fr-intj} :: abracadabra
+===abrasif===
+  abrasive {f} :: Feminine singular form of abrasif
 ===abrasion===
   abrasion {{fr-noun|f}} :: abrasion.
 ===abraxas===
@@ -6064,6 +6082,9 @@ Index: EN EN->FR
   absorber {fr-verb} :: to absorb
 ===absorption===
   absorption {{fr-noun|f}} :: absorption
+===abstinent===
+  abstinent {{fr-adj|f=abstinente}} :: abstinent
+  abstinent {{fr-noun|m}} :: abstinent
 ===abstraction===
   abstraction {{fr-noun|f}} :: abstraction
 ===abstrus===
@@ -6071,13 +6092,18 @@ Index: EN EN->FR
 ===abuse===
   abuser {fr-verb} :: to abuse (use improperly)
   (Old French) abusion {{fro-noun|f}} :: abuse
+===abusif===
+  abusive {f} :: Feminine singular form of abusif
 ===abyssal===
   abyssal {{fr-adj-al|abyss}} :: abyssal
 ===acacia===
   acacia {{fr-noun|f}} :: acacia
-===Accent===
-  accent {{fr-noun|m}} :: Accent (one's manner of speaking)
-  accent {{fr-noun|m}} :: Accent (the symbol on a character)
+===accent===
+  accent {{fr-noun|m}} :: accent, manner or tone of speech
+  accent {{fr-noun|m}} :: {linguistics} an accent symbol
+  accent {{fr-noun|m}} :: {linguistics} accent, stress
+===accenting===
+  accentuation {{fr-noun|f}} :: stressing, accenting
 ===accept===
   accepter {fr-verb} :: {transitive} To accept.
     je vais accepter votre offre :: I'm going to accept your offer
@@ -6085,7 +6111,7 @@ Index: EN EN->FR
 ===acceptable===
   acceptable {fr-adj-mf} :: acceptable
 ===acceptation===
-  acception {{fr-noun|f}} :: acceptation
+  acception {{fr-noun|f}} :: meaning, sense (of a word), acceptation
 ===accepted===
   accepter {fr-verb} :: {transitive} To accept.
     je vais accepter votre offre :: I'm going to accept your offer
@@ -6096,6 +6122,10 @@ Index: EN EN->FR
   abord {{fr-noun|m}} :: {archaic} Arrival or accessibility by water.
 ===accessible===
   accessible {fr-adj-mf} :: {{context|of a place, information, etc.}} accessible, attainable, obtainable, available.
+===accession===
+  accession {{fr-noun|f}} :: accession (to throne)
+  accession {{fr-noun|f}} :: {legal} accession
+    accession sociale à la propriété :: assisted home-ownership scheme
 ===accident===
   accident {{fr-noun|m}} :: accident
 ===acclamation===
@@ -6122,10 +6152,10 @@ Index: EN EN->FR
   as {{fr-noun|m|plural=as}} :: ace (expert or pilot)
 ===achieve===
   but {{fr-noun|m}} :: goal (result one is attempting to achieve)
-===acid===
-  DNA (noun){seeCites} :: DNA, deoxyribonucleic acid
 ===acidification===
   acidification {{fr-noun|f}} :: acidification.
+===acolyte===
+  acolyte {{fr-noun|m}} :: {religion} acolyte
 ===acquittal===
   absolution {{fr-noun|f}} :: {legal} acquittal, absolution
 ===acre===
@@ -6177,7 +6207,7 @@ Index: EN EN->FR
 ===Adjectival===
   adjectival {{fr-adj|mp=adjectivaux}} :: Adjectival
 ===adjective===
-  quelque chose :: something which has has a characteristic of the adjective
+  quelque chose :: something which has a characteristic of the adjective
     quelque chose de typique :: Something typical
 ===adulation===
   adulation {{fr-noun|f}} :: adulation
@@ -6293,8 +6323,6 @@ Index: EN EN->FR
     I went to pick a flower in the fields. :: --
     Il m’a offert de magnifiques fleurs. :: --
     He offered me magnificent flowers. :: --
-===Also===
-  DNA (noun){seeCites} :: Also used figuratively, e.g. 商业 DNA， "corporate DNA"
 ===alternative===
   yak {{fr-noun|m}} :: alternative spelling of yack, meaning the bovine yak
 ===altitude===
@@ -6320,6 +6348,8 @@ Index: EN EN->FR
     5 kilos de pommes. :: 5 kilograms of apples.
     une verre de vin :: a glass of wine
     une portion de frites :: a portion of fries
+===amusement===
+  amusement {{fr-noun|m}} :: amusement
 ===An===
   aberrance {{fr-noun|f}} :: {uncommon} An aberration or anomaly.
   aberration {{fr-noun|f}} :: {astronomy} An aberration.
@@ -6483,7 +6513,6 @@ Index: EN EN->FR
   are {{fr-noun|m}} :: An are.
   (Old French) avoir (verb) :: to exist (there is/there are)
     {{quote-book|year=c. 1200|author=Author unknown|title=Les quatres sohais Saint Martin|passage=Un vilain ot en Normendie|translation=There was a peasant in Normandy}} :: --
-  stud {{fr-noun|m}} :: stud where stallions and mares are bred to improve the equine race
   y (pronoun), adverbial :: there (to there)
     Nous allons au Mexique. Nous y allons. :: “We are going to Mexico. We are going there.”
   en (pronoun) :: Used as the object of a verb to indicate an indefinite quantity; of it, of them.
@@ -6569,12 +6598,14 @@ Index: EN EN->FR
 ===assembly===
   parole {{fr-noun|f}} :: floor; the right to speak in a legislative assembly
     Le député a la parole :: the member has the floor
-  stud {{fr-noun|m}} :: assembly of horses for sale or racing
 ===asset===
   avoir {{fr-noun|m}} :: asset, possession
 ===assistant===
   second {{fr-noun|m}} :: assistant
     Je m'attachai aux pas de miss Harriet et lui servis de second dans le classement du linge. (Gobineau, Pléiades, 1874) :: --
+===assisted===
+  accession {{fr-noun|f}} :: {legal} accession
+    accession sociale à la propriété :: assisted home-ownership scheme
 ===association===
   soccer {{fr-noun-unc|m}} :: {Quebec} soccer (association football)
   de {fr-prep} :: 's (used to express property or association)
@@ -6661,11 +6692,6 @@ Index: EN EN->FR
   cadre {{fr-noun|m}} :: The backbone of an organization.
 ===bad===
   abominable {fr-adj-mf} :: Exceedingly bad or ugly; abominable.
-  mal (adjective) :: {{context|in set phrases and limited constructions}} bad
-    bon an, mal an :: --
-    bon gré, mal gré :: --
-    Il est mal de [infinitive] :: --
-    C'est mal de [infinitive] :: --
   carne {{fr-noun|f}} :: {informal} meat (usually of bad quality)
 ===badge===
   badger {fr-verb} :: to use an identity badge
@@ -6739,9 +6765,6 @@ Index: EN EN->FR
     Il peut être battu ce soir. :: He could be beaten this evening.
 ===beautiful===
   bath {fr-adj-mf} :: Super, great, smashing; beautiful, fine, good, pleasant.
-  Paris {m} (mostly) or {f} :: Paris (in France)
-    Paris est beaucoup moins bruyant en été :: Paris is much less noisy in summer
-    Paris est vraiment belle la nuit :: Paris is really beautiful at night
 ===became===
   de {fr-prep} :: of (expresses belonging)
     1837 Louis Viardot, L’Ingénieux Hidalgo Don Quichotte de la Manche<sup>fr.Wikisource</sup>, translation of El ingenioso hidalgo Don Quijote de la Mancha by Miguel de Cervantes Saavedra, Chapter I: :: --
@@ -7045,8 +7068,6 @@ Index: EN EN->FR
     C’est l’heure de faire un break. :: --
 ===breast===
   ablactation {{fr-noun|f}} :: {medicine} Interruption in secretion of breast milk, usually caused by a hormonal imbalance.
-===bred===
-  stud {{fr-noun|m}} :: stud where stallions and mares are bred to improve the equine race
 ===breed===
   race {{fr-noun|f}} :: {zoology} breed
 ===bride===
@@ -7158,6 +7179,7 @@ Index: EN EN->FR
     On ne peut pas pêcher ici :: You can't fish here
 ===Canada===
   Canada {{fr-proper noun|m}} :: Canada
+  Iqaluit {fr-proper-noun} :: Iqaluit (Capital of the territory of Nunavut (Canada).)
 ===Canadian===
   football {{fr-noun|m}} :: {Canada} Canadian football
 ===Canadiens===
@@ -7174,13 +7196,14 @@ Index: EN EN->FR
   capital {{fr-adj|mp=capitaux}} :: capital (important)
     La peine capitale est abolie en France depuis les années 1980. :: --
   Monaco {{fr-proper noun|m}} :: Monaco (capital)
-  Madrid {fr-proper noun} :: Madrid, Spanish capital city and province
   de {fr-prep} :: of (expresses belonging)
     1837 Louis Viardot, L’Ingénieux Hidalgo Don Quichotte de la Manche<sup>fr.Wikisource</sup>, translation of El ingenioso hidalgo Don Quijote de la Mancha by Miguel de Cervantes Saavedra, Chapter I: :: --
     Dans une bourgade de la Manche, dont je ne veux pas me rappeler le nom, vivait, il n’y a pas longtemps, un hidalgo .... :: --
     In a village of La Mancha, whose name I do not want to remember, lived, not long ago, an hidalgo .... :: --
     Paris est la capitale de la France. :: Paris is the capital of France.
     En 1905, les églises deviennent la propriété de l'État. :: In 1905, churches became the property of the state.
+===Capital===
+  Iqaluit {fr-proper-noun} :: Iqaluit (Capital of the territory of Nunavut (Canada).)
 ===capitalisation===
   action {{fr-noun|f}} :: Stock, share.
     une action de capitalisation :: a capitalisation share
@@ -7310,12 +7333,11 @@ Index: EN EN->FR
 ===channel===
   canal {{fr-noun|m|plural=canaux}} :: channel (broadcasting: specific radio frequency or band of frequencies)
 ===character===
-  accent {{fr-noun|m}} :: Accent (the symbol on a character)
   œil {{fr-noun|m|pl=yeux}} :: glyph, rendering of a single character
 ===Character===
   aberrance {{fr-noun|f}} :: {statistics} Character of what is aberrant.
 ===characteristic===
-  quelque chose :: something which has has a characteristic of the adjective
+  quelque chose :: something which has a characteristic of the adjective
     quelque chose de typique :: Something typical
 ===charge===
   gratuit {fr-adj} :: free of charge
@@ -7350,6 +7372,7 @@ Index: EN EN->FR
   ablactation {{fr-noun|f}} :: {{medicine|archaic}} The weaning of a child.
   brassière {{fr-noun|f}} :: A child's vest.
   colon {{fr-noun|m}} :: camper (child in a colonie de vacances)
+  gone {{fr-noun|m}} :: {{context|Lyon|_|dialect}} kid (child)
   (Old French) fil {{fro-noun|m|fiz|fiz|fil}} :: son (male child)
 ===children===
   chat {{fr-noun|m}} :: tag, tig (children’s game)
@@ -7378,7 +7401,6 @@ Index: EN EN->FR
 ===city===
   port {m} (noun) :: port, harbour city
   Luxembourg {{fr-proper noun|m}} :: Luxembourg (city)
-  Madrid {fr-proper noun} :: Madrid, Spanish capital city and province
 ===City===
   Mexico {fr-proper noun} :: Mexico City
 ===civil===
@@ -7622,6 +7644,9 @@ Index: EN EN->FR
   content {fr-adj} :: content, satisfied, pleased
 ===continent===
   continent {{fr-noun|m}} :: continent
+===continues===
+  provenance {{fr-noun|f}} :: provenance, origin
+    La violence continue en provenance de Homs, l'épicentre de contestation. :: Voilence continues in Homs, the epicentre of the protests.
 ===contraction===
   (Old French) el (contraction) :: contraction of en + le (in the)
   (Old French) al (contraction) :: contraction of a + le (to the)
@@ -7656,8 +7681,6 @@ Index: EN EN->FR
   cornet {{fr-noun|m}} :: cornet, a wind instrument
 ===cornetist===
   cornet {{fr-noun|m}} :: {{context|by metonymy}} cornetist, the instrument's player
-===corporate===
-  DNA (noun){seeCites} :: Also used figuratively, e.g. 商业 DNA， "corporate DNA"
 ===correct===
   correct {fr-adj} :: correct
 ===corresponding===
@@ -7770,11 +7793,6 @@ Index: EN EN->FR
   damoiselle {{fr-noun|f}} :: {historical} damsel
 ===dance===
   bal {{fr-noun|m}} :: dance party, ball.
-  (Middle French) dancer (verb) :: to dance
-  (Old French) dancer (verb) :: to dance
-    circa 1170, {{w|Chrétien de Troyes}}, Érec et Énide: :: --
-    Puceles carolent et dancent :: --
-    Young maidens, singing and dancing :: --
   jerk {{fr-noun|m}} :: jerk (dance)
 ===danger===
   danger {{fr-noun|m}} :: danger
@@ -7853,13 +7871,8 @@ Index: EN EN->FR
 ===deliver===
   livrer {fr-verb} :: to deliver (a package, merchandise etc.)
   livrer {fr-verb} :: to hand over, deliver (someone to an enemy, police, etc.)
-===delta===
-  delta {{fr-noun-inv|m}} :: delta (Greek letter)
-  delta {{fr-noun|m}} :: delta (geographical feature)
 ===Democratic===
   Zaïre {{fr-proper noun|m}} :: Zaire, former name of the Democratic Republic of the Congo, la République du Zaïre
-===deoxyribonucleic===
-  DNA (noun){seeCites} :: DNA, deoxyribonucleic acid
 ===des===
   URSS (abbreviation) {f} :: Union des républiques socialistes soviétiques
   bien (adverb), comparative and superlative: mieux :: (+ de, des, du) a lot of
@@ -7909,14 +7922,11 @@ Index: EN EN->FR
   dictionnaire {{fr-noun|m}} :: dictionary: a list of words, usually alphabetically, usually with definitions or translations
   dictionnaire {{fr-noun|m}} :: {computing} dictionary, an associative array
   (Middle French) dictionnaire {{frm-noun|m|s}} :: dictionary
-  acception {{fr-noun|f}} :: one of the various listed meanings of a word in a dictionary
 ===difference===
   (Old French) difference {{fro-noun|f}} :: difference
 ===difficulty===
   mal {{fr-noun|m|pl=maux}} :: trouble, difficulty
     J'ai du mal à m'imaginer celà. (“I have trouble imagining that.”) :: --
-===digamma===
-  digamma {{fr-noun-inv|m}} :: digamma (Greek letter)
 ===digestion===
   digestion {{fr-noun|f}} :: digestion
 ===digital===
@@ -7963,9 +7973,6 @@ Index: EN EN->FR
   division {{fr-noun|f}} :: division (subsection)
 ===Djibouti===
   Djibouti {fr-proper noun} :: Djibouti
-===DNA===
-  DNA (noun){seeCites} :: DNA, deoxyribonucleic acid
-  DNA (noun){seeCites} :: Also used figuratively, e.g. 商业 DNA， "corporate DNA"
 ===do===
   do {{fr-noun|m}} :: do, the musical note
   (Old French) talent {{fro-noun|m|talenz|talenz}} :: desire; wish (to do something)
@@ -8121,7 +8128,6 @@ Index: EN EN->FR
   DVD {{fr-noun|m}} :: {initialism} DVD
 ===e===
   (Old French) or {{fro-noun|m}} :: {by extension} blond(e) color
-  DNA (noun){seeCites} :: Also used figuratively, e.g. 商业 DNA， "corporate DNA"
   droit de seigneur {m} (noun) :: the right of the lord. (The right of the first night ius primae noctis i.e. the right of the feudal lord to deflower the maiden bride of one of his vassals).
   cornet {{fr-noun|m}} :: cone-shaped paper, used as wrapping, e.g. for tobacco
 ===eagle===
@@ -8229,16 +8235,15 @@ Index: EN EN->FR
     I went to pick a flower in the fields. :: --
     Il m’a offert de magnifiques fleurs. :: --
     He offered me magnificent flowers. :: --
-===epsilon===
-  epsilon {{fr-noun-inv|m}} :: epsilon (Greek letter)
+===epicentre===
+  provenance {{fr-noun|f}} :: provenance, origin
+    La violence continue en provenance de Homs, l'épicentre de contestation. :: Voilence continues in Homs, the epicentre of the protests.
 ===equal===
   quadruple {{fr-adj|f=quadruple}} :: {{chiefly|music}} Which is equal to four times, or the fourth power of another value.
     En musique, une quadruple croche est égale au huitième (½<sup>4</sup>) d'une noire. :: --
     La Quadruple-Alliance de 1834 était une alliance offensive et défensive formée entre le Royaume-Uni, la France, la Belgique et l'Espagne. :: --
   quadruple {{fr-noun|m}} :: Something that is equal to four times something else.
     Je veux le quadruple de la prime normale. :: --
-===equine===
-  stud {{fr-noun|m}} :: stud where stallions and mares are bred to improve the equine race
 ===era===
   sol {{fr-noun|m}} :: {archaic} sou, the feudal era coin.
 ===ermine===
@@ -8432,8 +8437,6 @@ Index: EN EN->FR
     Ne craignez point :: Fear not
 ===feasible===
   viable {fr-adj-mf} :: viable, feasible
-===feature===
-  delta {{fr-noun|m}} :: delta (geographical feature)
 ===fee===
   commission {{fr-noun|f}} :: Commission (fee charged by an agent or broker for carrying out a transaction).
 ===feelings===
@@ -8455,6 +8458,9 @@ Index: EN EN->FR
 ===feminine===
   abstruse (adjective) :: feminine inflection of abstrus
   close {fr-verb-form} :: feminine of clos
+===Feminine===
+  abrasive {f} :: Feminine singular form of abrasif
+  abusive {f} :: Feminine singular form of abusif
 ===Fermat===
   de {fr-prep} :: 's (used to express property or association)
     Œuvres de Fermat :: Fermat’s Works
@@ -8471,8 +8477,6 @@ Index: EN EN->FR
   quinze (cardinal number) :: fifteen
 ===fifth===
   sol {{fr-noun|m}} :: {music} sol, the fifth step in the solfège scale of C, preceded by fa and followed by la.
-===figuratively===
-  DNA (noun){seeCites} :: Also used figuratively, e.g. 商业 DNA， "corporate DNA"
 ===filling===
   brick {{fr-noun|m}} :: A fritter with a filling.
 ===film===
@@ -8622,6 +8626,8 @@ Index: EN EN->FR
     une fourchette en métal :: a fork made of metal, a metal fork
 ===form===
   former {fr-verb} :: to form (generic sense)
+  abrasive {f} :: Feminine singular form of abrasif
+  abusive {f} :: Feminine singular form of abusif
   Fanny {fr-proper noun} :: {{given name|female}} borrowed from English; also used as a pet form of Stéphanie.
   case {{fr-noun|f}} :: box (on form)
   carmine {fr-verb-form} :: a singular present imperfect form of carminer
@@ -8706,9 +8712,6 @@ Index: EN EN->FR
   (Old French) France {{fro-proper noun|f}} :: France (country)
   Condé-sur-Sarthe :: Small town near Alençon in France
   PS {m} :: Parti Socialiste; a socialist political party of either France, Belgium or Switzerland.
-  Paris {m} (mostly) or {f} :: Paris (in France)
-    Paris est beaucoup moins bruyant en été :: Paris is much less noisy in summer
-    Paris est vraiment belle la nuit :: Paris is really beautiful at night
   de {fr-prep} :: of (expresses belonging)
     1837 Louis Viardot, L’Ingénieux Hidalgo Don Quichotte de la Manche<sup>fr.Wikisource</sup>, translation of El ingenioso hidalgo Don Quijote de la Mancha by Miguel de Cervantes Saavedra, Chapter I: :: --
     Dans une bourgade de la Manche, dont je ne veux pas me rappeler le nom, vivait, il n’y a pas longtemps, un hidalgo .... :: --
@@ -8823,7 +8826,6 @@ Index: EN EN->FR
   angle {{fr-noun|m}} :: A location at the corner of something, such as streets, buildings, furniture etc.
 ===g===
   g :: {physics} g
-  DNA (noun){seeCites} :: Also used figuratively, e.g. 商业 DNA， "corporate DNA"
   cornet {{fr-noun|m}} :: cone-shaped paper, used as wrapping, e.g. for tobacco
 ===G===
   string {{fr-noun|m}} :: G-string, thong, tanga
@@ -8883,7 +8885,6 @@ Index: EN EN->FR
   able {{fr-noun|m}} :: {rare} A vernacular name of some other related fishes in the genus Alburnus (Cyprinidae).
 ===geographical===
   borne {{fr-noun|f}} :: A territorial or geographical border.
-  delta {{fr-noun|m}} :: delta (geographical feature)
 ===geometric===
   angle {{fr-noun|m}} :: {geometry} A geometric angle.
     La mesure d'un angle droit est égale à 90 degrés. :: --
@@ -9098,10 +9099,6 @@ Index: EN EN->FR
   san {{fr-noun-inv|m}} :: san (Greek letter)
   alpha {{fr-noun-inv|m}} :: alpha (Greek letter)
   gamma {{fr-noun-inv|m}} :: gamma (Greek letter)
-  delta {{fr-noun-inv|m}} :: delta (Greek letter)
-  epsilon {{fr-noun-inv|m}} :: epsilon (Greek letter)
-  digamma {{fr-noun-inv|m}} :: digamma (Greek letter)
-  iota {{fr-noun-inv|m}} :: iota (Greek letter)
 ===green===
   vert {{fr-noun|m}} :: green
   vert {fr-adj} :: green
@@ -9191,7 +9188,7 @@ Index: EN EN->FR
   danger {{fr-noun|m}} :: jeopardy (danger of loss, harm, or failure)
 ===has===
   qui a bu boira (phrase) :: who has drunk will drink again
-  quelque chose :: something which has has a characteristic of the adjective
+  quelque chose :: something which has a characteristic of the adjective
     quelque chose de typique :: Something typical
   abattis {{fr-noun|m|plural=abattis}} :: {Canada} An area that has been cleared of trees, but not yet of their stumps.
   dupe {{fr-noun|f}} :: A person who has been deceived, see dupe.
@@ -9335,6 +9332,8 @@ Index: EN EN->FR
   abaca {{fr-noun|m}} :: Manilla hemp.
 ===hence===
   global {{fr-adj-al|glob}} :: {originally} global, spherical; (hence) concerning the whole world
+===henchman===
+  acolyte {{fr-noun|m}} :: henchman, sidekick
 ===henry===
   henry {m} (noun) (any preceding vowel is not elided) :: henry
 ===her===
@@ -9436,6 +9435,8 @@ Index: EN EN->FR
   break {{fr-noun|m}} :: break (pause, holiday)
     C’est l’heure de faire un break. :: --
 ===home===
+  accession {{fr-noun|f}} :: {legal} accession
+    accession sociale à la propriété :: assisted home-ownership scheme
   natal {m} ({f} natale, {m} {p} nataux, {f} {p} natales) :: native
     ville natale&nbsp; :: home town
   être {{fr-verb|type=auxiliary}} :: {auxiliary} Used to form the perfect and pluperfect tense of certain verbs (including all reflexive verbs)
@@ -9446,6 +9447,9 @@ Index: EN EN->FR
   homophone {{fr-noun|m}} :: homophone
 ===homophonous===
   homophone {fr-adj-mf} :: homophonous
+===Homs===
+  provenance {{fr-noun|f}} :: provenance, origin
+    La violence continue en provenance de Homs, l'épicentre de contestation. :: Voilence continues in Homs, the epicentre of the protests.
 ===honest===
   (Old French) simple {m|f} (adjective), plural: simples :: honest; without pretense
 ===honey===
@@ -9484,8 +9488,6 @@ Index: EN EN->FR
   boc {{fr-noun|m}} :: {{context|Norman|_|dialect}} type of horse-drawn carriage
 ===horsepower===
   cheval {{fr-noun|m|plural=chevaux}} :: horsepower
-===horses===
-  stud {{fr-noun|m}} :: assembly of horses for sale or racing
 ===hospital===
   (Middle French) hospital {{frm-noun|m|pl=hospitaulx}} :: hospital (medical)
 ===hotel===
@@ -9578,8 +9580,6 @@ Index: EN EN->FR
   cadre {{fr-noun|m}} :: An imprinted box on a page.
 ===improperly===
   abuser {fr-verb} :: to abuse (use improperly)
-===improve===
-  stud {{fr-noun|m}} :: stud where stallions and mares are bred to improve the equine race
 ===impudence===
   impudence {{fr-noun|f}} :: impudence
 ===In===
@@ -9740,8 +9740,8 @@ Index: EN EN->FR
   ductile {fr-adj-mf} :: ductile (capable of being pulled or stretched into thin wire).
 ===invariable===
   invariable {fr-adj-mf} :: invariable
-===iota===
-  iota {{fr-noun-inv|m}} :: iota (Greek letter)
+===Iqaluit===
+  Iqaluit {fr-proper-noun} :: Iqaluit (Capital of the territory of Nunavut (Canada).)
 ===Iran===
   Iran {{fr-proper noun|m}} :: Iran
 ===Is===
@@ -9885,6 +9885,7 @@ Index: EN EN->FR
   penalty {{fr-noun|m|pl=penalties}} :: {sports} penalty, penalty kick
   accorder {fr-verb} :: {sport} To award (a freek kick)
 ===kid===
+  gone {{fr-noun|m}} :: {{context|Lyon|_|dialect}} kid (child)
   marmot {{fr-noun|m}} :: {colloquial} kid, brat
 ===kidney===
   rein {{fr-noun|m}} :: {anatomy} kidney
@@ -10077,9 +10078,6 @@ Index: EN EN->FR
 ===less===
   a- (prefix) :: a-, non-, -less.
   football {{fr-noun|m}} :: (less common) American football
-  Paris {m} (mostly) or {f} :: Paris (in France)
-    Paris est beaucoup moins bruyant en été :: Paris is much less noisy in summer
-    Paris est vraiment belle la nuit :: Paris is really beautiful at night
 ===letter===
   (Old French) brief {{fro-noun|m|briés|briés}} :: (short) letter or statement
   bath {{fr-noun|m}} :: English high quality letter paper popular in the 19th century.
@@ -10093,10 +10091,6 @@ Index: EN EN->FR
     Through searching himself thus for a name that did not diverge too much from his own, that would suit and represent the great lady and princess, he came to call her Dulcinea del Toboso, because she was a native of this village [Toboso]: a name in his opinion harmonious, rare and distinguished, and no less expressive than all the ones that he had given to his team and to himself. :: --
   alpha {{fr-noun-inv|m}} :: alpha (Greek letter)
   gamma {{fr-noun-inv|m}} :: gamma (Greek letter)
-  delta {{fr-noun-inv|m}} :: delta (Greek letter)
-  epsilon {{fr-noun-inv|m}} :: epsilon (Greek letter)
-  digamma {{fr-noun-inv|m}} :: digamma (Greek letter)
-  iota {{fr-noun-inv|m}} :: iota (Greek letter)
 ===letters===
   homme de lettres (noun) :: man of letters, a literary man
 ===levez===
@@ -10167,8 +10161,6 @@ Index: EN EN->FR
   ours {{fr-noun|m|pl=ours|f=ourse}} :: masthead (list of a newspaper's main staff)
   cadre {{fr-noun|m}} :: A list of military officers
   menu {{fr-noun|m}} :: detailed list
-===listed===
-  acception {{fr-noun|f}} :: one of the various listed meanings of a word in a dictionary
 ===lit===
   massacrer {fr-verb} :: {figuratively} to do something badly
     Il a massacré cette chanson :: he sung that song really badly (lit. "he massacred that song")
@@ -10291,8 +10283,6 @@ Index: EN EN->FR
   en {fr-prep} :: of, made of (used to describe composition)
     Une chaise en hêtre :: a chair made of beech/a beech chair
     une fourchette en métal :: a fork made of metal, a metal fork
-===Madrid===
-  Madrid {fr-proper noun} :: Madrid, Spanish capital city and province
 ===magical===
   abracadabra {{fr-noun|m}} :: An unspecified magical formula.
 ===Magpie===
@@ -10358,7 +10348,7 @@ Index: EN EN->FR
   Manitoba {{fr-proper noun|m}} :: Manitoba
 ===manner===
   abord {{fr-noun|m}} :: {literary} The manner with which one acts in the presence of another person or persons, especially in a first encounter.
-  accent {{fr-noun|m}} :: Accent (one's manner of speaking)
+  accent {{fr-noun|m}} :: accent, manner or tone of speech
 ===manufacturer===
   jaguar {{fr-noun|mf}} :: {{context|feminine}} Jaguar (British car manufacturer)
 ===manuscript===
@@ -10373,8 +10363,6 @@ Index: EN EN->FR
 ===March===
   (Old French) mars {{fro-noun|m|mars|mars}} :: March (month)
   mars {{fr-noun|m|pl=mars}} :: March (month)
-===mares===
-  stud {{fr-noun|m}} :: stud where stallions and mares are bred to improve the equine race
 ===Maritime===
   brassière {{fr-noun|f}} :: (Maritime): A life jacket.
 ===mark===
@@ -10470,9 +10458,8 @@ Index: EN EN->FR
 ===meal===
   menu {{fr-noun|m}} :: menu; a set meal on a menu
 ===meaning===
+  acception {{fr-noun|f}} :: meaning, sense (of a word), acceptation
   yak {{fr-noun|m}} :: alternative spelling of yack, meaning the bovine yak
-===meanings===
-  acception {{fr-noun|f}} :: one of the various listed meanings of a word in a dictionary
 ===means===
   en {fr-prep} :: by (used to indicate means)
     aller en bus :: go by bus
@@ -10654,9 +10641,6 @@ Index: EN EN->FR
     en bonne humeur :: in a good mood
 ===moon===
   Europe {{fr-proper noun|f}} :: Europa, a moon of Jupiter
-  lune {{fr-noun|f}} :: {astronomy} moon.
-===Moon===
-  (Old French) lune {{fro-proper noun|f}} :: the Moon
 ===morally===
   laid {fr-adj} :: morally corrupt
 ===more===
@@ -10695,10 +10679,6 @@ Index: EN EN->FR
 ===moving===
   mobile {fr-adj-mf} :: moving
   mobile {{fr-noun|m}} :: {physics} moving body
-===much===
-  Paris {m} (mostly) or {f} :: Paris (in France)
-    Paris est beaucoup moins bruyant en été :: Paris is much less noisy in summer
-    Paris est vraiment belle la nuit :: Paris is really beautiful at night
 ===mug===
   poire {{fr-noun|f}} :: {colloquial} mug, sucker, soft touch
 ===multiplication===
@@ -10781,9 +10761,6 @@ Index: EN EN->FR
   natal {m} ({f} natale, {m} {p} nataux, {f} {p} natales) :: native
     ville natale&nbsp; :: home town
   (Old French) alien {{fro-noun|m}} :: alien (a non-native)
-===natural===
-  (Old French) natural {m} (adjective), feminine: natural :: natural
-    {{quote-book|year=circa 1180,|title=Perceval ou le conte du Graal|author=Chrétien de Troyes|passage=si sanbla natural color.|translation=The color seemed so natural.}} :: --
 ===nature===
   nature {{fr-noun|f}} :: nature
 ===Nazi===
@@ -10853,9 +10830,6 @@ Index: EN EN->FR
     chien de garde :: guard dog
     voiture de sport :: sports car
     stade de football :: football stadium
-  Paris {m} (mostly) or {f} :: Paris (in France)
-    Paris est beaucoup moins bruyant en été :: Paris is much less noisy in summer
-    Paris est vraiment belle la nuit :: Paris is really beautiful at night
 ===nine===
   {{cardinalbox|fr|8|9|10|huit|dix|ord=neuvième|wplink=Neuf}}neuf (cardinal number) :: nine
 ===nit===
@@ -10879,10 +10853,6 @@ Index: EN EN->FR
 ===noise===
   bruit {{fr-noun|m}} :: a noise
   (Old French) bruit {{fro-noun|m|bruiz|bruiz|bruit}} :: noise; sounds
-===noisy===
-  Paris {m} (mostly) or {f} :: Paris (in France)
-    Paris est beaucoup moins bruyant en été :: Paris is much less noisy in summer
-    Paris est vraiment belle la nuit :: Paris is really beautiful at night
 ===nominative===
   (Old French) un (article) :: a, an (masculine nominative plural indefinite article)
 ===non===
@@ -10949,6 +10919,7 @@ Index: EN EN->FR
     {{usex|quatre-vingt-six|translation=eighty-six}} :: --
 ===Nunavut===
   Nunavut {{fr-proper noun|m}} :: Nunavut
+  Iqaluit {fr-proper-noun} :: Iqaluit (Capital of the territory of Nunavut (Canada).)
 ===o===
   o (letter) :: o (miniscule)
 ===oath===
@@ -11124,6 +11095,8 @@ Index: EN EN->FR
 ===organization===
   cadre {{fr-noun|m}} :: The backbone of an organization.
 ===origin===
+  provenance {{fr-noun|f}} :: provenance, origin
+    La violence continue en provenance de Homs, l'épicentre de contestation. :: Voilence continues in Homs, the epicentre of the protests.
   de {fr-prep} :: from (used to indicate origin)
     Elle vient de la France. :: She comes from France.
     Vous êtes de la Suisse ? :: Are you from Switzerland?
@@ -11169,6 +11142,9 @@ Index: EN EN->FR
     Je vois ma mère là :: I see my mother over there.
 ===overshoe===
   claque {{fr-noun|f}} :: {Quebec} overshoe
+===ownership===
+  accession {{fr-noun|f}} :: {legal} accession
+    accession sociale à la propriété :: assisted home-ownership scheme
 ===oxygen===
   oxygène {{fr-noun-unc|m}} :: oxygen
 ===pace===
@@ -11219,9 +11195,6 @@ Index: EN EN->FR
   parent {{fr-noun|m}} :: parent, one’s father or mother
   (Old French) parent {{fro-noun|m|parenz|parenz|parent}} :: parent
 ===Paris===
-  Paris {m} (mostly) or {f} :: Paris (in France)
-    Paris est beaucoup moins bruyant en été :: Paris is much less noisy in summer
-    Paris est vraiment belle la nuit :: Paris is really beautiful at night
   de {fr-prep} :: of (expresses belonging)
     1837 Louis Viardot, L’Ingénieux Hidalgo Don Quichotte de la Manche<sup>fr.Wikisource</sup>, translation of El ingenioso hidalgo Don Quijote de la Mancha by Miguel de Cervantes Saavedra, Chapter I: :: --
     Dans une bourgade de la Manche, dont je ne veux pas me rappeler le nom, vivait, il n’y a pas longtemps, un hidalgo .... :: --
@@ -11722,13 +11695,18 @@ Index: EN EN->FR
   masque {{fr-noun|m}} :: mask (a cover, or partial cover, for the face, used for disguise or protection)
 ===protest===
   protester {fr-verb} :: to protest; to object
+===protests===
+  provenance {{fr-noun|f}} :: provenance, origin
+    La violence continue en provenance de Homs, l'épicentre de contestation. :: Voilence continues in Homs, the epicentre of the protests.
 ===proton===
   proton {m} (noun) :: proton
 ===proud===
   fier {{fr-adj|f=fière}} :: proud
+===provenance===
+  provenance {{fr-noun|f}} :: provenance, origin
+    La violence continue en provenance de Homs, l'épicentre de contestation. :: Voilence continues in Homs, the epicentre of the protests.
 ===province===
   Luxembourg {{fr-proper noun|m}} :: Luxembourg (province)
-  Madrid {fr-proper noun} :: Madrid, Spanish capital city and province
 ===proxy===
   mandat {{fr-noun|m}} :: {legal} power of attorney, proxy
 ===pseudo===
@@ -11844,9 +11822,6 @@ Index: EN EN->FR
   trillion (cardinal number) :: 10<sup>18</sup>; a long scale trillion; a short scale quintillion.
 ===race===
   race {{fr-noun|f}} :: race (classification)
-  stud {{fr-noun|m}} :: stud where stallions and mares are bred to improve the equine race
-===racing===
-  stud {{fr-noun|m}} :: assembly of horses for sale or racing
 ===radar===
   radar {{fr-noun|m}} :: radar
 ===radio===
@@ -11891,9 +11866,6 @@ Index: EN EN->FR
 ===really===
   massacrer {fr-verb} :: {figuratively} to do something badly
     Il a massacré cette chanson :: he sung that song really badly (lit. "he massacred that song")
-  Paris {m} (mostly) or {f} :: Paris (in France)
-    Paris est beaucoup moins bruyant en été :: Paris is much less noisy in summer
-    Paris est vraiment belle la nuit :: Paris is really beautiful at night
 ===reason===
   gratuit {fr-adj} :: gratuitous, for no reason
     méchanceté gratuite :: --
@@ -12104,7 +12076,6 @@ Index: EN EN->FR
     Je crois aussi que je n'avais jamais si bien écouté, et que lui non plus n'avait jamais mis autant de patience à ses explications. :: --
     I believe also that I had never listened so well, and that neither had he ever put so much patience into his explanations. :: --
 ===sale===
-  stud {{fr-noun|m}} :: assembly of horses for sale or racing
   (Old French) sale {{fro-noun|f}} :: room (subsection of a building)
     circa 1170, {{w|Chrétien de Troyes}}, Érec et Énide: :: ... que la soe amie<br>Est la plus bele de la sale[.]
     -... The his wife :: --
@@ -12145,6 +12116,9 @@ Index: EN EN->FR
   sol {{fr-noun|m}} :: {music} sol, the fifth step in the solfège scale of C, preceded by fa and followed by la.
 ===scales===
   balance {{fr-noun|f}} :: scales
+===scheme===
+  accession {{fr-noun|f}} :: {legal} accession
+    accession sociale à la propriété :: assisted home-ownership scheme
 ===school===
   pupitre {{fr-noun|m}} :: pupil's desk, school desk
   passage {{fr-noun|m}} :: Graduation from a school year.
@@ -12179,6 +12153,7 @@ Index: EN EN->FR
 ===secretion===
   ablactation {{fr-noun|f}} :: {medicine} Interruption in secretion of breast milk, usually caused by a hormonal imbalance.
 ===section===
+  accent {{fr-noun|m}} :: {music} strain, section
   article {{fr-noun|m}} :: {Canada} section (of a law)
   passage {{fr-noun|m}} :: A paragraph or section of text or music.
 ===Security===
@@ -12199,6 +12174,7 @@ Index: EN EN->FR
   avoir {{fr-verb|type=auxiliary}} :: to be, measure (speaking of measurements)
     Le mur semble avoir plus de deux mètres de haut. :: The wall seems to be higher than two metres.
 ===sense===
+  acception {{fr-noun|f}} :: meaning, sense (of a word), acceptation
   brassière {{fr-noun|f}} :: The use of this word, notably in Quebec French, in the sense of the English brassiere is an anglicism, and a back-formed false friend.
   but {{fr-noun|m}} :: {sports} goal (in the place, act, or point sense)
   former {fr-verb} :: to form (generic sense)
@@ -12265,8 +12241,6 @@ Index: EN EN->FR
 ===shaft===
   age {{fr-noun|m}} :: shaft
   arbre {{fr-noun|m}} :: {mechanics} drive shaft
-===商业===
-  DNA (noun){seeCites} :: Also used figuratively, e.g. 商业 DNA， "corporate DNA"
 ===shape===
   former {fr-verb} :: to shape (to make into a certain shape)
   cœur {{fr-noun|m}} :: {geometry} heart, heart shape
@@ -12353,6 +12327,8 @@ Index: EN EN->FR
 ===side===
   face {{fr-noun|f}} :: surface, side
   rang {{fr-noun|m}} :: A row or line of things placed side-by-side.
+===sidekick===
+  acolyte {{fr-noun|m}} :: henchman, sidekick
 ===sign===
   stop {{fr-noun-unc|m}} :: stop sign
 ===significant===
@@ -12536,7 +12512,7 @@ Index: EN EN->FR
   abomination {{fr-noun|f}} :: Something vile and abominable; an abomination.
   quadruple {{fr-noun|m}} :: Something that is equal to four times something else.
     Je veux le quadruple de la prime normale. :: --
-  quelque chose :: something which has has a characteristic of the adjective
+  quelque chose :: something which has a characteristic of the adjective
     quelque chose de typique :: Something typical
 ===son===
   (Old French) fil {{fro-noun|m|fiz|fiz|fil}} :: son (male child)
@@ -12580,13 +12556,11 @@ Index: EN EN->FR
     Le train va de Paris à Bordeaux. :: The train goes from Paris to Bordeaux.
 ===Spanish===
   sol {{fr-noun|m}} :: A Spanish-American gold or silver coin, now the main currency unit of Peru (also new sol), or a coin of this value.
-  Madrid {fr-proper noun} :: Madrid, Spanish capital city and province
 ===speak===
   (Old French) parole {{fro-noun|f}} :: {{by extension|figuratively}} the right to speak
   parole {{fr-noun|f}} :: floor; the right to speak in a legislative assembly
     Le député a la parole :: the member has the floor
 ===speaking===
-  accent {{fr-noun|m}} :: Accent (one's manner of speaking)
   avoir {{fr-verb|type=auxiliary}} :: to be, measure (speaking of measurements)
     Le mur semble avoir plus de deux mètres de haut. :: The wall seems to be higher than two metres.
 ===speaks===
@@ -12598,6 +12572,8 @@ Index: EN EN->FR
   canal {{fr-noun|m|plural=canaux}} :: channel (broadcasting: specific radio frequency or band of frequencies)
 ===specified===
   certain {fr-adj} :: certain (specified, particular)
+===speech===
+  accent {{fr-noun|m}} :: accent, manner or tone of speech
 ===spelling===
   yak {{fr-noun|m}} :: alternative spelling of yack, meaning the bovine yak
 ===spherical===
@@ -12655,8 +12631,6 @@ Index: EN EN->FR
   ours {{fr-noun|m|pl=ours|f=ourse}} :: masthead (list of a newspaper's main staff)
 ===stall===
   box (noun), plural: boxes, or: box :: stall (for a horse), loose box
-===stallions===
-  stud {{fr-noun|m}} :: stud where stallions and mares are bred to improve the equine race
 ===stand===
   pupitre {{fr-noun|m}} :: music stand
 ===standard===
@@ -12726,8 +12700,6 @@ Index: EN EN->FR
 ===Stock===
   action {{fr-noun|f}} :: Stock, share.
     une action de capitalisation :: a capitalisation share
-===Stockholm===
-  Stockholm {fr-proper noun} :: Stockholm
 ===stomach===
   hara-kiri {{fr-noun|m}} :: hara-kiri (suicide by ripping open the stomach)
 ===stop===
@@ -12756,6 +12728,8 @@ Index: EN EN->FR
     se payer la poire de qqun :: "to pull someone's leg"
 ===Straight===
   axe {{fr-noun|m}} :: Straight line that crosses the center of a body and around which it turns; axis.
+===strain===
+  accent {{fr-noun|m}} :: {music} strain, section
 ===strangulation===
   hart {{fr-noun|f}} :: {archaic} A cord, rope (used to execute criminals by strangulation or hanging)
 ===street===
@@ -12763,6 +12737,8 @@ Index: EN EN->FR
   rue {{fr-noun|f}} :: street, road
 ===strength===
   (Old French) force {{fro-noun|f}} :: strength; might
+===stress===
+  accent {{fr-noun|m}} :: {linguistics} accent, stress
 ===stressed===
   lui (pronoun) :: him, he; the third-person masculine singular personal pronoun used after a preposition, or as the predicate of a linking verb, or when disjoined from a sentence, or as a stressed subject.
     J'habitais avec lui. :: I was living with him.
@@ -12771,14 +12747,14 @@ Index: EN EN->FR
     Alphonse Daudet, “La Dernière Classe” (“The Last Class”), :: --
     Je crois aussi que je n'avais jamais si bien écouté, et que lui non plus n'avait jamais mis autant de patience à ses explications. :: --
     I believe also that I had never listened so well, and that neither had he ever put so much patience into his explanations. :: --
+===stressing===
+  accentuation {{fr-noun|f}} :: stressing, accenting
 ===stretched===
   ductile {fr-adj-mf} :: ductile (capable of being pulled or stretched into thin wire).
 ===string===
   string {{fr-noun|m}} :: G-string, thong, tanga
 ===structure===
   y (pronoun), adverbial :: Used as a pronoun to replace à followed by an indirect object. See Appendix:French verbs followed by à for verbs which use this structure.
-===stud===
-  stud {{fr-noun|m}} :: stud where stallions and mares are bred to improve the equine race
 ===study===
   science {{fr-noun|f}} :: science (field of study, etc.)
 ===stump===
@@ -12879,9 +12855,6 @@ Index: EN EN->FR
   suit :: third-person singular present indicative form of suivre
 ===summer===
   été {{fr-noun|m}} :: summer
-  Paris {m} (mostly) or {f} :: Paris (in France)
-    Paris est beaucoup moins bruyant en été :: Paris is much less noisy in summer
-    Paris est vraiment belle la nuit :: Paris is really beautiful at night
 ===sun===
   soleil {{fr-noun|m}} :: sun (star)
   (Middle French) soleil {{frm-noun|m}} :: sun (star)
@@ -12957,7 +12930,7 @@ Index: EN EN->FR
 ===Sydney===
   Sydney {fr-proper noun} :: Sydney (in Australia)
 ===symbol===
-  accent {{fr-noun|m}} :: Accent (the symbol on a character)
+  accent {{fr-noun|m}} :: {linguistics} an accent symbol
 ===system===
   langue {{fr-noun|f}} :: {linguistics} language (system of communication using written or spoken words)
     la langue maternelle :: --
@@ -13036,6 +13009,8 @@ Index: EN EN->FR
 ===territorial===
   borne {{fr-noun|f}} :: A territorial boundary marker.
   borne {{fr-noun|f}} :: A territorial or geographical border.
+===territory===
+  Iqaluit {fr-proper-noun} :: Iqaluit (Capital of the territory of Nunavut (Canada).)
 ===test===
   test {{fr-noun|m}} :: a test, a tryout, a review
 ===text===
@@ -13196,6 +13171,8 @@ Index: EN EN->FR
     Martin a trois sandwichs, mais j'en ai seulement deux. :: Martin has sandwiches, but I have only two (of them).
     Il y en a combien ? :: How many of them are there?
     Je bois de l'alcool parce que j'en ai besoin :: I drink alcohol because I need (of) it.
+===throne===
+  accession {{fr-noun|f}} :: accession (to throne)
 ===through===
   passage {{fr-noun|m}} :: The act of going through a place or event.
   bien (adverb), comparative and superlative: mieux :: (+ de, des, du) a lot of
@@ -13204,6 +13181,8 @@ Index: EN EN->FR
   cornet {{fr-noun|m}} :: leather container from throwing dice in certain games
 ===thumping===
   claque {{fr-noun|f}} :: {sport} thrashing; thumping (heavy defeat)
+===thunking===
+  translation {{fr-noun|f}} :: {computing} thunking
 ===Thursday===
   jeudi {{fr-noun|m}} :: Thursday (day of the week).
   (Old French) jeudi {{fro-noun|m}} :: Thursday
@@ -13272,6 +13251,8 @@ Index: EN EN->FR
   chat {{fr-noun|m}} :: (male) cat, tom, tomcat
 ===tomcat===
   chat {{fr-noun|m}} :: (male) cat, tom, tomcat
+===tone===
+  accent {{fr-noun|m}} :: accent, manner or tone of speech
 ===tongue===
   langue {{fr-noun|f}} :: {anatomy} tongue
     la langue dans la bouche :: --
@@ -13424,7 +13405,7 @@ Index: EN EN->FR
   brick {{fr-noun|m}} :: {nautical} A brig, a two-masted vessel type.
   boc {{fr-noun|m}} :: {{context|Norman|_|dialect}} type of horse-drawn carriage
 ===typical===
-  quelque chose :: something which has has a characteristic of the adjective
+  quelque chose :: something which has a characteristic of the adjective
     quelque chose de typique :: Something typical
 ===typically===
   index {{fr-noun|m|plural=index}} :: The welcome page of a web site, typically index.html, index.htm or index.php
@@ -13528,7 +13509,6 @@ Index: EN EN->FR
     en détresse :: in distress
     en bonne humeur :: in a good mood
   Fanny {fr-proper noun} :: {{given name|female}} borrowed from English; also used as a pet form of Stéphanie.
-  DNA (noun){seeCites} :: Also used figuratively, e.g. 商业 DNA， "corporate DNA"
   son {m} (adjective), singular :: {possessive} His, her, its (used to qualify masculine nouns).
     Elle a perdu son chapeau. :: She lost her hat.
     Il a perdu son chapeau. :: He lost his hat.
@@ -13605,8 +13585,6 @@ Index: EN EN->FR
   as {{fr-noun|m|plural=as}} :: ace (card of value 1).
 ===valve===
   valve {{fr-noun|f}} :: valve
-===various===
-  acception {{fr-noun|f}} :: one of the various listed meanings of a word in a dictionary
 ===vassals===
   droit de seigneur {m} (noun) :: the right of the lord. (The right of the first night ius primae noctis i.e. the right of the feudal lord to deflower the maiden bride of one of his vassals).
 ===ve===
@@ -13618,8 +13596,8 @@ Index: EN EN->FR
   tank {{fr-noun|m}} :: tank (military vehicle)
 ===Venezuela===
   Venezuela {{fr-proper noun|m}} :: Venezuela
-===Ventripotent===
-  ventripotent {{fr-adj|m}} :: Ventripotent.
+===ventripotent===
+  ventripotent {{fr-adj|m}} :: ventripotent
 ===verb===
   en (pronoun) :: Used as the object of a verb to indicate an indefinite quantity; of it, of them.
     Tu as combien de livres ? J'en ai trois. :: How many books do you have? I have three (of them).
@@ -13721,6 +13699,9 @@ Index: EN EN->FR
   vocal {{fr-adj-al|voc}} :: vocal, related to the voice
   être {{fr-verb|type=auxiliary}} :: {auxiliary} to be (Used to form the passive voice)
     Il peut être battu ce soir. :: He could be beaten this evening.
+===Voilence===
+  provenance {{fr-noun|f}} :: provenance, origin
+    La violence continue en provenance de Homs, l'épicentre de contestation. :: Voilence continues in Homs, the epicentre of the protests.
 ===volume===
   volume {{fr-noun|m}} :: volume
 ===vomir===
@@ -13895,7 +13876,6 @@ Index: EN EN->FR
   quadruple {{fr-noun|m}} :: {{context|Scrabble}} The area on the board where such a move is possible.
     Le quadruple en colonne 5 reste ouvert avec la séquence "ena" ou "ene". :: --
   panier {{fr-noun|m}} :: In an online store, the shopping basket where a shopper reserves or collects items for purchase
-  stud {{fr-noun|m}} :: stud where stallions and mares are bred to improve the equine race
 ===Where===
   lit {{fr-noun|m}} :: bed
     Où est-il? Il dort dans son lit. :: Where is he? He's sleeping in his bed.
@@ -13903,7 +13883,7 @@ Index: EN EN->FR
   abord {{fr-noun|m}} :: {literary} The manner with which one acts in the presence of another person or persons, especially in a first encounter.
   y (pronoun), adverbial :: Used as a pronoun to replace à followed by an indirect object. See Appendix:French verbs followed by à for verbs which use this structure.
   parent {{fr-noun|m}} :: any person to which one is related
-  quelque chose :: something which has has a characteristic of the adjective
+  quelque chose :: something which has a characteristic of the adjective
     quelque chose de typique :: Something typical
   axe {{fr-noun|m}} :: Straight line that crosses the center of a body and around which it turns; axis.
   axe {{fr-noun|m}} :: Rod on which a wheel revolves; axle
@@ -14040,7 +14020,7 @@ Index: EN EN->FR
   (Middle French) mot {{frm-noun|m}} :: word
   (Old French) mot {{fro-noun|m|moz|moz}} :: word
   abracadabra {{fr-noun|m}} :: {historical} A mystical word from kabbalism.
-  acception {{fr-noun|f}} :: one of the various listed meanings of a word in a dictionary
+  acception {{fr-noun|f}} :: meaning, sense (of a word), acceptation
   brassière {{fr-noun|f}} :: The use of this word, notably in Quebec French, in the sense of the English brassiere is an anglicism, and a back-formed false friend.
 ===words===
   langue {{fr-noun|f}} :: {linguistics} language (system of communication using written or spoken words)

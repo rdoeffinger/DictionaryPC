@@ -7,6 +7,7 @@ rebuild Check
 publish.
 
 
+anytime there's a tr= or a head=, make sure to file under that!
 for i in res/raw*/*.html; do echo $i; tidy --input-encoding utf8  --output-file $i $i; done
 
 SpannableText persisted class with a list of spans with span types. (might need its own builder.)
