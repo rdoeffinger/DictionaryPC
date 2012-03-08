@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.german 5391
+EntrySource: enwiktionary.german 5430
 
 Index: DE DE->EN
 ===001===
@@ -149,9 +149,13 @@ Index: DE DE->EN
   (Old High German) al {goh-adj} :: all
   (Old High German) al {goh-adj} :: every, each
   (Old High German) al {goh-adj} :: whole
-  (Old High German) al {{goh-noun|g=m|head=āl}} :: eel
+  (Old High German) āl {{goh-noun|g=m}} :: eel
+===āl===
+  (Old High German) āl {{goh-noun|g=m}} :: eel
 ***ala***
-  (Old High German) ala {{goh-noun|g=f|head=āla}} :: awl.
+  (Old High German) āla {{goh-noun|g=f}} :: awl.
+===āla===
+  (Old High German) āla {{goh-noun|g=f}} :: awl.
 ***Åland***
   Åland {n} :: Åland
 ***alb***
@@ -271,6 +275,8 @@ Index: DE DE->EN
   (Old High German) ano {{goh-noun|g=m}} :: grandfather
   (Old High German) ano {{goh-noun|g=m}} :: ancestor
   (Old High German) āno (preposition) :: without
+===āno===
+  (Old High German) āno (preposition) :: without
 ***ans***
   ans (contraction) (+ adjective ending with -e + neuter noun) :: an + das, on(to) the, to the
 ===antreitu===
@@ -288,7 +294,7 @@ Index: DE DE->EN
 ***apropos***
   apropos {de-adv} :: apropos
 ===Arabische===
-  Vereinigte Arabische Emirate {{de-proper noun|head=Vereinigte Arabische Emirate}} :: The United Arab Emirates; a country in the Middle East.
+  Vereinigte Arabische Emirate {de-proper noun} :: The United Arab Emirates; a country in the Middle East.
 ===Arbeit===
   bei (preposition), + dative :: {{context|with something that has a duration}} during; while; over
     bei der Arbeit :: “during work”
@@ -527,6 +533,9 @@ Index: DE DE->EN
 ***Bhutan***
   Bhutan (proper noun) :: Bhutan
 ***bi***
+  (Old High German) bī (preposition) :: by
+  (Old High German) bī (preposition) :: at
+===bī===
   (Old High German) bī (preposition) :: by
   (Old High German) bī (preposition) :: at
 ===bibledbdata===
@@ -840,6 +849,8 @@ Index: DE DE->EN
   danke :: {{de-verb form of|danken|i|s}}
 ***dar***
   (Old High German) dār (adverb) :: there
+===dār===
+  (Old High German) dār (adverb) :: there
 ***darf***
   darf (verb form) :: first and third person present of dürfen.
 ***darfst***
@@ -847,9 +858,9 @@ Index: DE DE->EN
 ***dart***
   (Pennsylvania German) dart (adverb) :: there
 ***das***
-  das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
+  das (relative pronoun), relative (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
     Ich kenne ein Mädchen, das das kann. :: I know a girl who can do that.
-  das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: this, that
+  das (relative pronoun), relative (demonstrative pronoun), demonstrative :: this, that
     Das ist mein Haus. :: This is my house.
   das {n} (article), definite, nominative :: the; {nominative singular neuter|der}
   das {n} (article), definite, nominative :: the; {accusative singular neuter|der}
@@ -1020,6 +1031,8 @@ Index: DE DE->EN
   Digitalkamera {{de-noun|g=f|plural=Digitalkameras}} :: digital camera.
 ***din***
   (Old High German) dīn (pronoun) :: your (singular)
+===dīn===
+  (Old High German) dīn (pronoun) :: your (singular)
 ***dir***
   dir (pronoun form) :: {personal} dative of du; you, to you.
   dir (pronoun form) :: {reflexive} dative; yourself, to yourself.
@@ -1144,7 +1157,7 @@ Index: DE DE->EN
 ===em===
   (Low German) he {m} (pronoun), genitive: sin, dative: em, dative 2: jüm, accusative: en :: {personal} he
 ===Emirate===
-  Vereinigte Arabische Emirate {{de-proper noun|head=Vereinigte Arabische Emirate}} :: The United Arab Emirates; a country in the Middle East.
+  Vereinigte Arabische Emirate {de-proper noun} :: The United Arab Emirates; a country in the Middle East.
 ***en***
   (Low German) en {m} (article), indefinite article :: a, an
   (Low German) en {n} (article), indefinite article :: a, an
@@ -1192,20 +1205,32 @@ Index: DE DE->EN
     Er Ogen sünd blag. (Her eyes are blue.) :: --
   (Low German) er (pronoun) :: {possessive} of sei and se (they); their.
     Ik hev er Guld stalen. (I have stolen their gold.) :: --
-  (Old High German) er {{goh-adj|head=ēr}} :: early
-  (Old High German) er {{goh-adv|head=ēr}} :: ere, before
-  (Old High German) er {{goh-adv|head=ēr}} :: formerly
-  (Old High German) er {{goh-con|head=ēr}} :: before, until
-  (Old High German) er {{goh-prep|head=ēr}} (+ dative) :: before
-  (Old High German) er {{goh-noun|g=n|head=ēr}} :: ore
-  (Old High German) er {{goh-noun|g=n|head=ēr}} :: brass
+  (Old High German) ēr {goh-adj} :: early
+  (Old High German) ēr {goh-adv} :: ere, before
+  (Old High German) ēr {goh-adv} :: formerly
+  (Old High German) ēr {goh-con} :: before, until
+  (Old High German) ēr {goh-prep} (+ dative) :: before
+  (Old High German) ēr {{goh-noun|g=n}} :: ore
+  (Old High German) ēr {{goh-noun|g=n}} :: brass
   (Old High German) er {goh-pron} :: he
   -er (suffix) :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
     arbeiten 'to work'; (ich) arbeit(<u>e</u>) + -er '-er' -> Arbeiter 'worker' :: --
+===ēr===
+  (Old High German) ēr {goh-adj} :: early
+  (Old High German) ēr {goh-adv} :: ere, before
+  (Old High German) ēr {goh-adv} :: formerly
+  (Old High German) ēr {goh-con} :: before, until
+  (Old High German) ēr {goh-prep} (+ dative) :: before
+  (Old High German) ēr {{goh-noun|g=n}} :: ore
+  (Old High German) ēr {{goh-noun|g=n}} :: brass
 ***era***
-  (Old High German) era {{goh-noun|head=ēra|g=f}} :: honour
-  (Old High German) era {{goh-noun|head=ēra|g=f}} :: renown
-  (Old High German) era {{goh-noun|head=ēra|g=f}} :: respect
+  (Old High German) ēra {{goh-noun|g=f}} :: honour
+  (Old High German) ēra {{goh-noun|g=f}} :: renown
+  (Old High German) ēra {{goh-noun|g=f}} :: respect
+===ēra===
+  (Old High German) ēra {{goh-noun|g=f}} :: honour
+  (Old High German) ēra {{goh-noun|g=f}} :: renown
+  (Old High German) ēra {{goh-noun|g=f}} :: respect
 ***ergo***
   ergo :: ergo
 ***Eritrea***
@@ -1393,6 +1418,8 @@ Index: DE DE->EN
     Etwas aus Freundschaft tun. :: To do something out of friendship.
 ***fri***
   (Old High German) frī (adjective) :: free
+===frī===
+  (Old High German) frī (adjective) :: free
 ***Friesland***
   Friesland :: Friesland
 ***frost***
@@ -1487,7 +1514,7 @@ Index: DE DE->EN
   Geist {{de-noun|g=m|genitive=Geistes|plural=Geister}} :: Essence
   Geist {{de-noun|g=m|genitive=Geistes|plural=Geister}} :: An alcoholic drink; a spirit
   Geist {{de-noun|g=m|genitive=Geistes|plural=Geister}} :: wit
-  Heiliger Geist {{de-proper noun|head=Heiliger Geist}} :: {Christianity} the Holy Spirit, Holy Ghost
+  Heiliger Geist {de-proper noun} :: {Christianity} the Holy Spirit, Holy Ghost
 ===gekommen===
   rate (verb form) :: {{de-verb form of|raten|i|s}}
     Rate mal, wer gerade gekommen ist! :: Guess who's just arrived.
@@ -1553,6 +1580,10 @@ Index: DE DE->EN
 ***god***
   (Low German) god (adjective) :: good
   (Middle Low German) gôd (adjective) :: good
+  (Middle Low German) gōd {m} (noun), genitive: godes :: god
+===gôd===
+  (Middle Low German) gôd (adjective) :: good
+===gōd===
   (Middle Low German) gōd {m} (noun), genitive: godes :: god
 ===godes===
   (Middle Low German) gōd {m} (noun), genitive: godes :: god
@@ -1657,7 +1688,7 @@ Index: DE DE->EN
     Es ist im Haus. :: "It is in the house."
   in (preposition) :: (in + accusative) into
     Er geht ins Haus. :: "He goes into the house."
-  das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: this, that
+  das (relative pronoun), relative (demonstrative pronoun), demonstrative :: this, that
     Das ist mein Haus. :: This is my house.
   nehmen {{de-verb-strong|nimmt|nahm|genommen|class=4}} :: {transitive} to take.
     jemandem etwas nehmen :: “to take something from someone”
@@ -1681,7 +1712,7 @@ Index: DE DE->EN
   heilig :: holy
   heilig :: sacred
 ===Heiliger===
-  Heiliger Geist {{de-proper noun|head=Heiliger Geist}} :: {Christianity} the Holy Spirit, Holy Ghost
+  Heiliger Geist {de-proper noun} :: {Christianity} the Holy Spirit, Holy Ghost
 ***Heimweh***
   Heimweh {n} :: homesickness
 ===heißt===
@@ -1701,6 +1732,8 @@ Index: DE DE->EN
 ***her***
   her {de-adv} :: hither, to this place, to here, to me/us
   her {de-adv} :: ago
+  (Old High German) hēr (adjective) :: old
+===hēr===
   (Old High German) hēr (adjective) :: old
 ***herb***
   herb {{de-adj|herber|herbsten}} :: tart, bitter
@@ -1779,10 +1812,15 @@ Index: DE DE->EN
 ***hunt***
   (Old High German) hunt {{goh-noun|g=m}} :: dog
 ***hus***
-  (Old High German) hus {{goh-noun|head=hūs|g=n}} :: house
+  (Old High German) hūs {{goh-noun|g=n}} :: house
+===hūs===
+  (Old High German) hūs {{goh-noun|g=n}} :: house
 ***hut***
-  (Old High German) hut {{goh-noun|g=f|head=hūt}} :: hide
-  (Old High German) hut {{goh-noun|g=f|head=hūt}} :: skin
+  (Old High German) hūt {{goh-noun|g=f}} :: hide
+  (Old High German) hūt {{goh-noun|g=f}} :: skin
+===hūt===
+  (Old High German) hūt {{goh-noun|g=f}} :: hide
+  (Old High German) hūt {{goh-noun|g=f}} :: skin
 ***huus***
   (Low German) huus {nds-noun} :: house
 ***ia***
@@ -1994,7 +2032,7 @@ Index: DE DE->EN
     If a person is pregnant, can he feel it? :: --
   der {m} (relative pronoun), singular, relative :: who; that; which
     Ich kenne einen Mann, der das kann. :: “I know a man who can do that.”
-  das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
+  das (relative pronoun), relative (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
     Ich kenne ein Mädchen, das das kann. :: I know a girl who can do that.
   glauben {de-verb} :: to believe (to think sb/sth exists = an + acc.; to think sth someone says is correct = dat.)
     Glaubst du an Engel? :: Do you believe in angels?
@@ -2020,7 +2058,7 @@ Index: DE DE->EN
     Ich kenne eine Frau, die das kann. :: “I know a woman who can do that.”
   der {m} (relative pronoun), singular, relative :: who; that; which
     Ich kenne einen Mann, der das kann. :: “I know a man who can do that.”
-  das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
+  das (relative pronoun), relative (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
     Ich kenne ein Mädchen, das das kann. :: I know a girl who can do that.
 ===Keule===
   Keulen :: {plural of|Keule}
@@ -2254,7 +2292,7 @@ Index: DE DE->EN
   frei {{de-adj|comparative=freier|superlative=freisten}} :: released, unimprisoned, unenslaved
     Stadtluft macht frei. :: City's air makes free. (By living in a city for a certain time, a German peasant could free himself from serfdom.)
 ===Mädchen===
-  das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
+  das (relative pronoun), relative (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
     Ich kenne ein Mädchen, das das kann. :: I know a girl who can do that.
 ***Madrid***
   Madrid (proper noun) :: Madrid, Spanish capital city and province
@@ -2313,7 +2351,9 @@ Index: DE DE->EN
     die Frau :: “the woman”
     die Männer :: “the men”
 ***mano***
-  (Old High German) mano {{goh-noun|head=māno|g=m}} :: moon
+  (Old High German) māno {{goh-noun|g=m}} :: moon
+===māno===
+  (Old High German) māno {{goh-noun|g=m}} :: moon
 ***Manx***
   Manx {n} (proper noun) :: Manx Gaelic, the Goidelic Celtic language spoken on the Isle of Man
 ***Marcus***
@@ -2364,7 +2404,7 @@ Index: DE DE->EN
   er (pronoun) :: {personal} it (when the grammatical gender of the object/article/thing/animal etc., being referred to, is masculine (der)).
     Dies ist mein Hund. Er heißt Waldi. :: This is my dog. Its name is Waldi.
     Dort steht ein Baum. Er ist über 100 Jahre alt. :: There stands a tree. It is more than 100 years old.
-  das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: this, that
+  das (relative pronoun), relative (demonstrative pronoun), demonstrative :: this, that
     Das ist mein Haus. :: This is my house.
   deutsch {{de-adj|deutscher|deutschesten}} :: German
     Meine Mutter ist deutscher Herkunft, aber mein Vater ist Österreicher. :: My mother is of German origin but my father is Austrian.
@@ -2516,6 +2556,10 @@ Index: DE DE->EN
   (Old High German) nāh (adjective) :: close
   (Old High German) nāh (adjective) :: near
   (Old High German) nāh (preposition), takes dative :: towards
+===nāh===
+  (Old High German) nāh (adjective) :: close
+  (Old High German) nāh (adjective) :: near
+  (Old High German) nāh (preposition), takes dative :: towards
 ***nahm***
   nahm (verb form) :: Past tense of nehmen, to take.
 ***Namibia***
@@ -2527,7 +2571,9 @@ Index: DE DE->EN
 ***Nauru***
   Nauru {n} :: Nauru
 ***nazi***
-  (Old High German) nazi {{goh-noun|head=nazī|g=f}} :: wetness
+  (Old High German) nazī {{goh-noun|g=f}} :: wetness
+===nazī===
+  (Old High German) nazī {{goh-noun|g=f}} :: wetness
 ***NB***
   NB :: {{context|apartment listing}} Abbreviation of Neubau
 ***ne***
@@ -2948,7 +2994,9 @@ Index: DE DE->EN
   riet :: {{de-verb form of|raten|1|s|v}}
   riet :: {{de-verb form of|raten|3|s|v}}
 ***riga***
-  (Old High German) riga {{goh-noun|head=rīga|g=f}} :: line
+  (Old High German) rīga {{goh-noun|g=f}} :: line
+===rīga===
+  (Old High German) rīga {{goh-noun|g=f}} :: line
 ***rind***
   (Old High German) rind {goh-noun} :: cattle
 ***ring***
@@ -2973,6 +3021,8 @@ Index: DE DE->EN
   rot {{de-adj|comparative=röter|superlative=rötesten}}<br>{{de-adj|comparative=roter|superlative=rotesten}} :: {{context|politics}} leftist; on the left of the political spectrum
   rot {{de-adj|comparative=röter|superlative=rötesten}}<br>{{de-adj|comparative=roter|superlative=rotesten}} :: {{context|politics|Germany}} specifically, pertaining to the SPD (a large social democratic party in Germany) or Linke (a far-left political party in Germany)
   rot {{de-adj|comparative=röter|superlative=rötesten}}<br>{{de-adj|comparative=roter|superlative=rotesten}} :: {{context|historical|offensive}} Indian (pertaining to the Native Americans)
+  (Old High German) rōt (adjective) :: red
+===rōt===
   (Old High German) rōt (adjective) :: red
 ***rote***
   rote :: {{de-form-adj|s|f|n|rot}}
@@ -3251,6 +3301,17 @@ Index: DE DE->EN
   (Middle Low German) sîn (pronoun) :: of it; genitive form of it
   (Middle Low German) sîn (verb) :: to be; alternative infinitive of wesen
   (Low German) he {m} (pronoun), genitive: sin, dative: em, dative 2: jüm, accusative: en :: {personal} he
+===sîn===
+  (Middle Low German) sîn (pronoun) :: {possessive} his; possessive form of he
+  (Middle Low German) sîn (pronoun) :: of his; genitive form of he
+    lohant ret her Zeno hen na Verona to dem vader sin. :: --
+    John rode Sir Zeno to Verona, to the father of his. :: --
+  (Middle Low German) sîn (pronoun) :: sometimes used to form the genitive
+    Deme könnink sin land, dat is: des könninges land. :: --
+    The king his land, that is: the king's land. :: --
+  (Middle Low German) sîn (pronoun) :: {possessive} its; possessive form of it
+  (Middle Low German) sîn (pronoun) :: of it; genitive form of it
+  (Middle Low German) sîn (verb) :: to be; alternative infinitive of wesen
 ===sind===
   fast {de-adv} :: almost; nearly
     Fast 60 Spielfilme sind zu sehen. :: “There are almost 60 feature films to see.”
@@ -3455,7 +3516,9 @@ Index: DE DE->EN
 ***Tisch***
   Tisch {{de-noun|g=m|gen1=Tischs|gen2=Tisches|plural=Tische}} :: table
 ***tod***
-  (Old High German) tod {{goh-noun|head=tōd|g=m}} :: death, cessation of life
+  (Old High German) tōd {{goh-noun|g=m}} :: death, cessation of life
+===tōd===
+  (Old High German) tōd {{goh-noun|g=m}} :: death, cessation of life
 ***Togo***
   Togo {n} (proper noun) :: Togo
 ***ton***
@@ -3628,7 +3691,7 @@ Index: DE DE->EN
     Berlin ist eine Stadt, verdammt dazu, ewig zu werden, niemals zu sein. :: Karl Scheffler, author of Berlin: Ein Stadtschicksal, 1910.
     Berlin is a city damned forever to become, never to be. :: --
 ===Vereinigte===
-  Vereinigte Arabische Emirate {{de-proper noun|head=Vereinigte Arabische Emirate}} :: The United Arab Emirates; a country in the Middle East.
+  Vereinigte Arabische Emirate {de-proper noun} :: The United Arab Emirates; a country in the Middle East.
 ***Verhältnis***
   Verhältnis {{de-noun|g=n|genitive=Verhältnisses|plural=Verhältnisse}} :: relation
     2010, Der Spiegel, issue [http://www.spiegel.de/spiegel/print/index-2010-35.html 35/2010], page 102: :: --
@@ -3985,6 +4048,8 @@ Index: DE DE->EN
 ***Zigarette***
   Zigarette {{de-noun|g=f|plural=Zigaretten}} :: cigarette
 ***zit***
+  (Middle High German) zīt (noun) {g|gmh} :: time
+===zīt===
   (Middle High German) zīt (noun) {g|gmh} :: time
 ***zoom***
   zoom :: {{de-verb form of|zoomen|i|s}}
@@ -4513,7 +4578,7 @@ Index: EN EN->DE
 ===apropos===
   apropos {de-adv} :: apropos
 ===Arab===
-  Vereinigte Arabische Emirate {{de-proper noun|head=Vereinigte Arabische Emirate}} :: The United Arab Emirates; a country in the Middle East.
+  Vereinigte Arabische Emirate {de-proper noun} :: The United Arab Emirates; a country in the Middle East.
 ===Archangel===
   Michael (proper noun) :: {biblical character} Michael the Archangel.
 ===are===
@@ -4623,7 +4688,7 @@ Index: EN EN->DE
 ===awesome===
   super {{de-adj|-}} :: {colloquial} super, great, awesome
 ===awl===
-  (Old High German) ala {{goh-noun|g=f|head=āla}} :: awl.
+  (Old High German) āla {{goh-noun|g=f}} :: awl.
 ===back===
   (Old High German) after {goh-adv} :: back
   zurück :: back, backwards, to the rear.
@@ -4735,9 +4800,9 @@ Index: EN EN->DE
   (Low German) er (preposition) :: ere, before
     Vertell mi dit, er ik ga. (Tell me this, before I go.) :: --
     Er ik löpen möt, für ik leiwer mid dissen Bus. (Before I must walk, I'll rather take the bus.) :: --
-  (Old High German) er {{goh-adv|head=ēr}} :: ere, before
-  (Old High German) er {{goh-con|head=ēr}} :: before, until
-  (Old High German) er {{goh-prep|head=ēr}} (+ dative) :: before
+  (Old High German) ēr {goh-adv} :: ere, before
+  (Old High German) ēr {goh-con} :: before, until
+  (Old High German) ēr {goh-prep} (+ dative) :: before
   zuvor {de-adv} :: before, previously.
 ===beg===
   bitten {de-verb} :: {{transitive|or|intransitive}} To ask; to beg; to plead; to request.
@@ -4898,7 +4963,7 @@ Index: EN EN->DE
 ===brandy===
   Wasser {n} (noun), genitive: Wassers, plural: Wasser, plural 2 (depending on sense): Wässer :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is Wässer.)
 ===brass===
-  (Old High German) er {{goh-noun|g=n|head=ēr}} :: brass
+  (Old High German) ēr {{goh-noun|g=n}} :: brass
 ===Brazzaville===
   Kongo {m} (proper noun) :: Congo (country with Brazzaville as capital)
 ===bread===
@@ -5022,7 +5087,7 @@ Index: EN EN->DE
     If a person is pregnant, can he feel it? :: --
   der {m} (relative pronoun), singular, relative :: who; that; which
     Ich kenne einen Mann, der das kann. :: “I know a man who can do that.”
-  das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
+  das (relative pronoun), relative (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
     Ich kenne ein Mädchen, das das kann. :: I know a girl who can do that.
   glauben {de-verb} :: to believe (to think sb/sth exists = an + acc.; to think sth someone says is correct = dat.)
     Glaubst du an Engel? :: Do you believe in angels?
@@ -5156,7 +5221,7 @@ Index: EN EN->DE
   ja {de-adv} :: urgently; certainly; definitely; surely; really; just
     Es kann ja nicht immer so bleiben. :: “It definitely cannot always remain so.”
 ===cessation===
-  (Old High German) tod {{goh-noun|head=tōd|g=m}} :: death, cessation of life
+  (Old High German) tōd {{goh-noun|g=m}} :: death, cessation of life
 ===chain===
   Warenwirtschaft {{de-noun|g=f|pl=-}} :: ERP or retail supply chain management; merchandise management
 ===chairman===
@@ -5267,7 +5332,7 @@ Index: EN EN->DE
 ===Claudius===
   Claudia (proper noun) :: {{given name|female}} from the Latin feminine form of Claudius; quite popular from the 1960s to the 1980s.
 ===clause===
-  das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
+  das (relative pronoun), relative (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
     Ich kenne ein Mädchen, das das kann. :: I know a girl who can do that.
 ===clay===
   backen {{de-verb-strong|backt or bäckt|backte or archaic buk|gebacken or gebackt|class=6}} :: {{transitive|or|intransitive}} to fire (pottery)
@@ -5455,7 +5520,7 @@ Index: EN EN->DE
   China {n} (proper noun) :: China (the country)
   Senegal {m} (proper noun) :: Senegal, the country
   Surinam (proper noun){{tbot entry|German|Suriname|2008|April|de}} :: Suriname (country)
-  Vereinigte Arabische Emirate {{de-proper noun|head=Vereinigte Arabische Emirate}} :: The United Arab Emirates; a country in the Middle East.
+  Vereinigte Arabische Emirate {de-proper noun} :: The United Arab Emirates; a country in the Middle East.
   Holland (proper noun) :: Netherlands (country in northwestern Europe)
   Polen (proper noun) :: Poland, a country in Eastern Europe
   Kongo {m} (proper noun) :: Congo (country with Brazzaville as capital)
@@ -5583,7 +5648,7 @@ Index: EN EN->DE
   tot {{de-adj|-}} :: dead, deceased
   (Old High German) tot tōt :: dead
 ===death===
-  (Old High German) tod {{goh-noun|head=tōd|g=m}} :: death, cessation of life
+  (Old High German) tōd {{goh-noun|g=m}} :: death, cessation of life
 ===deceased===
   tot {{de-adj|-}} :: dead, deceased
 ===December===
@@ -5731,7 +5796,7 @@ Index: EN EN->DE
     Ich habe es nicht bei mir. :: “I do not have it on me.”
   der {m} (relative pronoun), singular, relative :: who; that; which
     Ich kenne einen Mann, der das kann. :: “I know a man who can do that.”
-  das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
+  das (relative pronoun), relative (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
     Ich kenne ein Mädchen, das das kann. :: I know a girl who can do that.
   aus (preposition), + dative :: for; because of; due to; out of
     Etwas aus Freundschaft tun. :: To do something out of friendship.
@@ -5837,13 +5902,13 @@ Index: EN EN->DE
 ===eaglet===
   Adlerjunges ein Adlerjunges n, genitive eines Adlerjungen, plural Adlerjunge<br>das Adlerjunge n, genitive des Adlerjungen, plural die Adlerjungen :: eaglet.
 ===early===
-  (Old High German) er {{goh-adj|head=ēr}} :: early
+  (Old High German) ēr {goh-adj} :: early
 ===earned===
   Orden {{de-noun|g=m|gen=Ordens|plural=Orden}} :: A decoration earned in the military or in sports; a medal, especially one awarded for merit or achievement.
 ===earth===
   (Old High German) ero {{goh-noun|g=n}} :: earth
 ===East===
-  Vereinigte Arabische Emirate {{de-proper noun|head=Vereinigte Arabische Emirate}} :: The United Arab Emirates; a country in the Middle East.
+  Vereinigte Arabische Emirate {de-proper noun} :: The United Arab Emirates; a country in the Middle East.
 ===Eastern===
   Polen (proper noun) :: Poland, a country in Eastern Europe
 ===eat===
@@ -5860,7 +5925,7 @@ Index: EN EN->DE
     Das Spiel ist aus! :: The jig game is up!
   Orden {{de-noun|g=m|gen=Ordens|plural=Orden}} :: A decoration earned in the military or in sports; a medal, especially one awarded for merit or achievement.
 ===eel===
-  (Old High German) al {{goh-noun|g=m|head=āl}} :: eel
+  (Old High German) āl {{goh-noun|g=m}} :: eel
 ===effect===
   Quarzstaublungenerkrankung {f} (noun) :: silicosis or silico-tuberculosis (literally, "quartz dust lung illness"—cancer of the lungs due to the effect of crystalline silicon dioxide (SiO<sub>2</sub>)).
 ===effeminate===
@@ -5907,7 +5972,7 @@ Index: EN EN->DE
 ===emergency===
   Notbeleuchtung {{de-noun|g=f|plural=Notbeleuchtungen}} :: emergency lighting
 ===Emirates===
-  Vereinigte Arabische Emirate {{de-proper noun|head=Vereinigte Arabische Emirate}} :: The United Arab Emirates; a country in the Middle East.
+  Vereinigte Arabische Emirate {de-proper noun} :: The United Arab Emirates; a country in the Middle East.
 ===emphasis===
   denn {de-adv} :: {{context|in a question}} then; ever; but; used for general emphasis
     Wo ist er denn? :: "Where is he, then?" ("Where ever can he be?")
@@ -5969,7 +6034,7 @@ Index: EN EN->DE
   (Low German) er (preposition) :: ere, before
     Vertell mi dit, er ik ga. (Tell me this, before I go.) :: --
     Er ik löpen möt, für ik leiwer mid dissen Bus. (Before I must walk, I'll rather take the bus.) :: --
-  (Old High German) er {{goh-adv|head=ēr}} :: ere, before
+  (Old High German) ēr {goh-adv} :: ere, before
 ===ergo===
   ergo :: ergo
 ===Eritrea===
@@ -6331,7 +6396,7 @@ Index: EN EN->DE
 ===former===
   Hannover {{de-proper noun|g=n}} :: Hanover, a former province of Prussia, now part of Lower Saxony, Germany.
 ===formerly===
-  (Old High German) er {{goh-adv|head=ēr}} :: formerly
+  (Old High German) ēr {goh-adv} :: formerly
 ===Forming===
   -er (suffix) :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
     arbeiten 'to work'; (ich) arbeit(<u>e</u>) + -er '-er' -> Arbeiter 'worker' :: --
@@ -6515,7 +6580,7 @@ Index: EN EN->DE
   Ghana {n} :: Ghana
 ===Ghost===
   Geist {{de-noun|g=m|genitive=Geistes|plural=Geister}} :: Ghost
-  Heiliger Geist {{de-proper noun|head=Heiliger Geist}} :: {Christianity} the Holy Spirit, Holy Ghost
+  Heiliger Geist {de-proper noun} :: {Christianity} the Holy Spirit, Holy Ghost
 ===ghostly===
   (Middle High German) alb (noun), plural: elbe, plural2: elber :: friendly spirit, ghostly being, genius, or fairy
 ===giddyup===
@@ -6524,7 +6589,7 @@ Index: EN EN->DE
   Rom {{de-proper noun|g=m}} :: {{sense|person}} Rom (member of the Roma people), Romany, Gypsy (Gipsy)
 ===girl===
   Käfer {{de-noun|g=m|genitive=Käfers|plural=Käfer}} :: {slang} young girl, wench
-  das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
+  das (relative pronoun), relative (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
     Ich kenne ein Mädchen, das das kann. :: I know a girl who can do that.
 ===girlfriend===
   Freundin {{de-noun|g=f|plural=Freundinnen}} :: girlfriend
@@ -6861,7 +6926,7 @@ Index: EN EN->DE
 ===hi===
   servus :: hello, hi
 ===hide===
-  (Old High German) hut {{goh-noun|g=f|head=hūt}} :: hide
+  (Old High German) hūt {{goh-noun|g=f}} :: hide
 ===high===
   breit (adjective) :: {colloquial} drunk or high on marijuana; stoned
     Du bist ziemlich breit. :: You're pretty stoned.
@@ -6906,7 +6971,7 @@ Index: EN EN->DE
 ===holy===
   heilig :: holy
 ===Holy===
-  Heiliger Geist {{de-proper noun|head=Heiliger Geist}} :: {Christianity} the Holy Spirit, Holy Ghost
+  Heiliger Geist {de-proper noun} :: {Christianity} the Holy Spirit, Holy Ghost
 ===home===
   bei (preposition), + dative :: {{context|with a person, business name, or job title}} at the home, business, or station usually occupied by (someone)
   zu (preposition), + dative :: at, by, on.
@@ -6925,7 +6990,7 @@ Index: EN EN->DE
 ===honey===
   Honig m :: honey
 ===honour===
-  (Old High German) era {{goh-noun|head=ēra|g=f}} :: honour
+  (Old High German) ēra {{goh-noun|g=f}} :: honour
 ===hood===
   Kugel {{de-noun|g=f|plural=Kugeln}} :: hood, cowl
 ===horizontal===
@@ -6950,13 +7015,13 @@ Index: EN EN->DE
 ===house===
   Haus {{de-noun|g=n|genitive=Hauses|plural=Häuser}} :: house
   (Low German) huus {nds-noun} :: house
-  (Old High German) hus {{goh-noun|head=hūs|g=n}} :: house
+  (Old High German) hūs {{goh-noun|g=n}} :: house
   Häuschen {{de-noun|g=n|genitive=Häuschens|plural=Häuschen}} :: small house
   in (preposition) :: (in + dative) in; within; at; contained by
     Es ist im Haus. :: "It is in the house."
   in (preposition) :: (in + accusative) into
     Er geht ins Haus. :: "He goes into the house."
-  das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: this, that
+  das (relative pronoun), relative (demonstrative pronoun), demonstrative :: this, that
     Das ist mein Haus. :: This is my house.
   nehmen {{de-verb-strong|nimmt|nahm|genommen|class=4}} :: {transitive} to take.
     jemandem etwas nehmen :: “to take something from someone”
@@ -7029,7 +7094,7 @@ Index: EN EN->DE
 ===imprint===
   Impressum {{de-noun|g=n|genitive=Impressums|plural=Impressen}} :: imprint
 ===In===
-  das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
+  das (relative pronoun), relative (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
     Ich kenne ein Mädchen, das das kann. :: I know a girl who can do that.
   Wasser {n} (noun), genitive: Wassers, plural: Wasser, plural 2 (depending on sense): Wässer :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is Wässer.)
 ===incapable===
@@ -7049,7 +7114,7 @@ Index: EN EN->DE
     abspülen (to rinse off, to wash off). :: --
   ab- (prefix) :: Separable verb prefix that indicates a downward movement, down.
   ab- (prefix) :: Separable verb prefix that indicates from or of.
-  das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
+  das (relative pronoun), relative (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
     Ich kenne ein Mädchen, das das kann. :: I know a girl who can do that.
 ===indicative===
   (Low German) was (verb form) :: was; first-person singular simple past tense indicative of węsen (to be).
@@ -7301,7 +7366,7 @@ Index: EN EN->DE
     Ich kenne eine Frau, die das kann. :: “I know a woman who can do that.”
   der {m} (relative pronoun), singular, relative :: who; that; which
     Ich kenne einen Mann, der das kann. :: “I know a man who can do that.”
-  das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
+  das (relative pronoun), relative (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
     Ich kenne ein Mädchen, das das kann. :: I know a girl who can do that.
   wie :: how
     Wie groß bist du? :: How tall are you?
@@ -7441,7 +7506,7 @@ Index: EN EN->DE
   auf :: on -- es liegt auf dem Tisch (it is on the table) dat
 ===life===
   bio- (prefix) :: life
-  (Old High German) tod {{goh-noun|head=tōd|g=m}} :: death, cessation of life
+  (Old High German) tōd {{goh-noun|g=m}} :: death, cessation of life
   Triebleben der Klänge {n} :: Chordal life force.
 ===lift===
   Aufzug {{de-noun|g=m|genitive=Aufzugs|genitive2=Aufzuges|plural=Aufzüge}} :: lift, elevator
@@ -7470,7 +7535,7 @@ Index: EN EN->DE
   langsam {{de-adj|comparative=langsamer|superlative=langsamsten}} :: slow, both in the senses of slow physical movement and limited progress
     Das Projekt geht nur langsam voran. :: --
 ===line===
-  (Old High German) riga {{goh-noun|head=rīga|g=f}} :: line
+  (Old High German) rīga {{goh-noun|g=f}} :: line
 ===Linke===
   rot {{de-adj|comparative=röter|superlative=rötesten}}<br>{{de-adj|comparative=roter|superlative=rotesten}} :: {{context|politics|Germany}} specifically, pertaining to the SPD (a large social democratic party in Germany) or Linke (a far-left political party in Germany)
 ===literally===
@@ -7583,7 +7648,7 @@ Index: EN EN->DE
 ===Madrid===
   Madrid (proper noun) :: Madrid, Spanish capital city and province
 ===main===
-  das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
+  das (relative pronoun), relative (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
     Ich kenne ein Mädchen, das das kann. :: I know a girl who can do that.
 ===mainly===
   (Low German) was (verb form) :: wash; apocoped form of wasse, singular imperative of wassen; mainly used in the Netherlands, equivalent to other dialekts' wasche/waske
@@ -7770,7 +7835,7 @@ Index: EN EN->DE
 ===middle===
   Nachtwächter {{de-noun|g=m|gen=Nachtwächters|pl=Nachtwächter}} :: night watchman (a guard that protected cities (in the middle ages))
 ===Middle===
-  Vereinigte Arabische Emirate {{de-proper noun|head=Vereinigte Arabische Emirate}} :: The United Arab Emirates; a country in the Middle East.
+  Vereinigte Arabische Emirate {de-proper noun} :: The United Arab Emirates; a country in the Middle East.
 ===mieser===
   mies (mieser, am miesesten) :: {{usually|somewhat jocularly}} mean, wretched; as, ein mieser Kater (a horrible hang-over), ein mieser Kerl (a mean guy).
 ===Mieteinnahmen===
@@ -7820,7 +7885,7 @@ Index: EN EN->DE
 ===monkey===
   Affe {{de-noun|g=m|genitive=Affen|plural=Affen}} :: monkey
 ===moon===
-  (Old High German) mano {{goh-noun|head=māno|g=m}} :: moon
+  (Old High German) māno {{goh-noun|g=m}} :: moon
 ===more===
   mehr, {{comparative of|viel, sehr}} :: more
     mehr oder weniger :: --
@@ -7905,7 +7970,7 @@ Index: EN EN->DE
   er (pronoun) :: {personal} it (when the grammatical gender of the object/article/thing/animal etc., being referred to, is masculine (der)).
     Dies ist mein Hund. Er heißt Waldi. :: This is my dog. Its name is Waldi.
     Dort steht ein Baum. Er ist über 100 Jahre alt. :: There stands a tree. It is more than 100 years old.
-  das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: this, that
+  das (relative pronoun), relative (demonstrative pronoun), demonstrative :: this, that
     Das ist mein Haus. :: This is my house.
   deutsch {{de-adj|deutscher|deutschesten}} :: German
     Meine Mutter ist deutscher Herkunft, aber mein Vater ist Österreicher. :: My mother is of German origin but my father is Austrian.
@@ -7999,7 +8064,7 @@ Index: EN EN->DE
   NB :: {{context|apartment listing}} Abbreviation of Neubau
 ===neuter===
   es {n} :: {personal} it (when the object/article/thing/animal etc., referred to, is neuter (das)).
-  das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
+  das (relative pronoun), relative (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
     Ich kenne ein Mädchen, das das kann. :: I know a girl who can do that.
   sein (possessive pronoun) :: {possessive} its (when the owning object/article/thing/animal etc., is neuter (das) or masculine (der))
   englische :: accusative singular feminine and neuter form of englisch (English) used after the definite article.
@@ -8299,7 +8364,7 @@ Index: EN EN->DE
 ===ordinary===
   gewöhnlich (adjective) :: usual, normal, ordinary
 ===ore===
-  (Old High German) er {{goh-noun|g=n|head=ēr}} :: ore
+  (Old High German) ēr {{goh-noun|g=n}} :: ore
 ===organically===
   bio- (prefix) :: organically produced, or otherwise environmentally friendly
 ===origin===
@@ -8801,10 +8866,10 @@ Index: EN EN->DE
 ===refer===
   sie (pl.) :: {personal} you, used to refer to any number of persons in formal conversations
 ===referenced===
-  das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
+  das (relative pronoun), relative (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
     Ich kenne ein Mädchen, das das kann. :: I know a girl who can do that.
 ===referents===
-  das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
+  das (relative pronoun), relative (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
     Ich kenne ein Mädchen, das das kann. :: I know a girl who can do that.
 ===referred===
   er (pronoun) :: {personal} it (when the grammatical gender of the object/article/thing/animal etc., being referred to, is masculine (der)).
@@ -8858,14 +8923,14 @@ Index: EN EN->DE
   ab- (prefix) :: Separable verb prefix that indicates removal or quitting, off.
     abspülen (to rinse off, to wash off). :: --
 ===renown===
-  (Old High German) era {{goh-noun|head=ēra|g=f}} :: renown
+  (Old High German) ēra {{goh-noun|g=f}} :: renown
 ===request===
   bitten {de-verb} :: {{transitive|or|intransitive}} To ask; to beg; to plead; to request.
   Bestellung {{de-noun|g=f|plural=Bestellungen}} :: order, request for a product
 ===rescue===
   bergen {{de-verb-strong|birgt|barg|geborgen|class=3}} :: {transitive} to save (someone); to rescue
 ===respect===
-  (Old High German) era {{goh-noun|head=ēra|g=f}} :: respect
+  (Old High German) ēra {{goh-noun|g=f}} :: respect
 ===restore===
   zurückbringen {de-verb} :: to bring back, recall, restore.
 ===restrained===
@@ -9296,7 +9361,7 @@ Index: EN EN->DE
   mal :: times
     sechs mal sieben ist zweiundvierzig :: six times seven is forty-two &mdash; 6 × 7 = 42
 ===skin===
-  (Old High German) hut {{goh-noun|g=f|head=hūt}} :: skin
+  (Old High German) hūt {{goh-noun|g=f}} :: skin
   albino (adjective) :: albino, albinistic: congenitally lacking melanin pigmentation in the skin, eyes, and hair or feathers (or more rarely only in the eyes); afflicted with albinism
 ===sliding===
   Schiebedach {n} (plural: Schiebedächer) :: sliding roof
@@ -9492,7 +9557,7 @@ Index: EN EN->DE
 ===Spirit===
   Zeitgeist {{de-noun|g=m|gen1=Zeitgeistes|gen2=Zeitgeists|pl=-}} :: Spirit of the age; zeitgeist
   Geist {{de-noun|g=m|genitive=Geistes|plural=Geister}} :: Spirit
-  Heiliger Geist {{de-proper noun|head=Heiliger Geist}} :: {Christianity} the Holy Spirit, Holy Ghost
+  Heiliger Geist {de-proper noun} :: {Christianity} the Holy Spirit, Holy Ghost
 ===spirited===
   keck (adjective){{tbot entry|German|sassy|2010|July|de}} :: sassy (bold and spirited; cheeky)
 ===splendid===
@@ -9596,7 +9661,7 @@ Index: EN EN->DE
   esse (verb form) :: Third-person singular subjunctive present form of essen.
   schade :: 1st and 3rd person singular present subjunctive of schaden
 ===subordinate===
-  das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
+  das (relative pronoun), relative (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
     Ich kenne ein Mädchen, das das kann. :: I know a girl who can do that.
 ===subordinating===
   ob :: (subordinating) if, whether
@@ -9875,7 +9940,7 @@ Index: EN EN->DE
     Dies ist mein Hund. Er heißt Waldi. :: This is my dog. Its name is Waldi.
     Dort steht ein Baum. Er ist über 100 Jahre alt. :: There stands a tree. It is more than 100 years old.
   es {n} :: {personal} it (when the object/article/thing/animal etc., referred to, is neuter (das)).
-  das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
+  das (relative pronoun), relative (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
     Ich kenne ein Mädchen, das das kann. :: I know a girl who can do that.
   sein (possessive pronoun) :: {possessive} its (when the owning object/article/thing/animal etc., is neuter (das) or masculine (der))
   ihr {m}, ihr {n}, ihre {f}, ihre (pl.) :: {possessive} its (when the owning object/article/thing/animal etc., referred to, is feminine (die)).
@@ -9897,7 +9962,7 @@ Index: EN EN->DE
     Und Gott sprach: »Es werde Licht!« Und es ward Licht. [http://www.bibledbdata.org/onlinebibles/german_l/01_001.htm] :: And God said: "Let there be light." And there was light.
 ===this===
   dies :: this
-  das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: this, that
+  das (relative pronoun), relative (demonstrative pronoun), demonstrative :: this, that
     Das ist mein Haus. :: This is my house.
   her {de-adv} :: hither, to this place, to here, to me/us
   Boden {{de-noun|g=m|genitive=Bodens|plural=Böden}} :: (countable, colloquial): flooring, floor cover (often used in this sense in compound nouns: Teppichboden, Parkettboden)
@@ -9908,7 +9973,7 @@ Index: EN EN->DE
   er (pronoun) :: {personal} it (when the grammatical gender of the object/article/thing/animal etc., being referred to, is masculine (der)).
     Dies ist mein Hund. Er heißt Waldi. :: This is my dog. Its name is Waldi.
     Dort steht ein Baum. Er ist über 100 Jahre alt. :: There stands a tree. It is more than 100 years old.
-  das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: this, that
+  das (relative pronoun), relative (demonstrative pronoun), demonstrative :: this, that
     Das ist mein Haus. :: This is my house.
 ===Thomas===
   Thomas (proper noun) :: {biblical character} Thomas.
@@ -10134,7 +10199,7 @@ Index: EN EN->DE
   Sekunde {{de-noun|g=f|plural=Sekunden}} :: A unit of time; a second.
   Sekunde {{de-noun|g=f|plural=Sekunden}} :: A unit of angular measurement; a second.
 ===United===
-  Vereinigte Arabische Emirate {{de-proper noun|head=Vereinigte Arabische Emirate}} :: The United Arab Emirates; a country in the Middle East.
+  Vereinigte Arabische Emirate {de-proper noun} :: The United Arab Emirates; a country in the Middle East.
 ===unlimited===
   frei {{de-adj|comparative=freier|superlative=freisten}} :: unlimited, unconstrained
 ===unorthodox===
@@ -10142,7 +10207,7 @@ Index: EN EN->DE
 ===unrestrained===
   frei {{de-adj|comparative=freier|superlative=freisten}} :: licentious, unrestrained
 ===until===
-  (Old High German) er {{goh-con|head=ēr}} :: before, until
+  (Old High German) ēr {goh-con} :: before, until
 ===upon===
   an (preposition), with an accusative or dative case object :: {{context|with a location in the dative case}} on; upon; at; in; against
     Das Bild hängt an der Wand. :: “The picture hangs on the wall.”
@@ -10196,7 +10261,7 @@ Index: EN EN->DE
 ===Used===
   um (preposition) + accusative :: Used as a conjunction of purpose
     um zu :: so as to
-  das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
+  das (relative pronoun), relative (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
     Ich kenne ein Mädchen, das das kann. :: I know a girl who can do that.
   zu (particle) :: for; in order to; Used with infinitive of verbs.
     etwas zu essen :: "something to eat"
@@ -10441,7 +10506,7 @@ Index: EN EN->DE
 ===Western===
   Mecklenburg-Vorpommern {n} (proper noun) :: Mecklenburg-Cispomerania, Mecklenburg-Hither Pomerania, Mecklenburg-Western Pomerania, Mecklenburg-Upper Pomerania
 ===wetness===
-  (Old High German) nazi {{goh-noun|head=nazī|g=f}} :: wetness
+  (Old High German) nazī {{goh-noun|g=f}} :: wetness
 ===what===
   was :: {interrogative} what
   man (indefinite pronoun) :: {indefinite} one, they (indefinite third-person singular pronoun)
@@ -10505,7 +10570,7 @@ Index: EN EN->DE
   was :: {relative} which
   der {m} (relative pronoun), singular, relative :: who; that; which
     Ich kenne einen Mann, der das kann. :: “I know a man who can do that.”
-  das (relative pronoun), relativedas (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
+  das (relative pronoun), relative (demonstrative pronoun), demonstrative :: who, that, which (In a subordinate clause, indicates a person or thing referenced in the main clause. Used with neuter singular referents).
     Ich kenne ein Mädchen, das das kann. :: I know a girl who can do that.
   Schelde (proper noun) :: The mighty river Scheldt, which flows through France, Flanders (Belgium, where he becomes navigable for seaships) and the Netherlands.
   -er (suffix) :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.

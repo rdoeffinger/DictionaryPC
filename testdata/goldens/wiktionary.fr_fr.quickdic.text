@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.french 6706
+EntrySource: enwiktionary.french 6707
 
 Index: FR FR->EN
 ===00===
@@ -954,8 +954,8 @@ Index: FR FR->EN
   (Old French) bien {{fro-noun|m}} :: possession; object of value
   (Old French) bien {{fro-noun|m}} :: good (as opposed to evil)
   bien perdu bien connu :: That which is well lost is well known, or what once was lost is prized.
-  bien entendu {{fr-adv|head=bien entendu}} :: well understood
-  bien entendu {{fr-adv|head=bien entendu}} :: of course, obviously
+  bien entendu {fr-adv} :: well understood
+  bien entendu {fr-adv} :: of course, obviously
   bien fendu (adjective) :: {idiomatic} well cleft, (or long-legged)
 ===billet===
   simple {fr-adj-mf} :: one-way
@@ -1790,9 +1790,9 @@ Index: FR FR->EN
   tout de suite {{fr-adv|sg=tout de suite}} :: {idiomatic} immediately, right away
   homme de lettres (noun) :: man of letters, a literary man
   homme de guerre (noun) :: a man of war, a military man
-  homme de Dieu {{fr-noun|m|head=homme de Dieu|pl=hommes de Dieu}} :: a man of God, a godly man
-  homme de Dieu {{fr-noun|m|head=homme de Dieu|pl=hommes de Dieu}} :: a minister
-  homme de Dieu {{fr-noun|m|head=homme de Dieu|pl=hommes de Dieu}} :: a priest
+  homme de Dieu {{fr-noun|m|pl=hommes de Dieu}} :: a man of God, a godly man
+  homme de Dieu {{fr-noun|m|pl=hommes de Dieu}} :: a minister
+  homme de Dieu {{fr-noun|m|pl=hommes de Dieu}} :: a priest
   droit de seigneur {m} (noun) :: the right of the lord. (The right of the first night ius primae noctis i.e. the right of the feudal lord to deflower the maiden bride of one of his vassals).
   de facto {{fr-adj|inv=yes}} :: de facto
   de facto {{fr-adv|inv=yes}} :: de facto
@@ -1883,9 +1883,9 @@ Index: FR FR->EN
   dictionnaire {{fr-noun|m}} :: {computing} dictionary, an associative array
   (Middle French) dictionnaire {{frm-noun|m|s}} :: dictionary
 ===Dieu===
-  homme de Dieu {{fr-noun|m|head=homme de Dieu|pl=hommes de Dieu}} :: a man of God, a godly man
-  homme de Dieu {{fr-noun|m|head=homme de Dieu|pl=hommes de Dieu}} :: a minister
-  homme de Dieu {{fr-noun|m|head=homme de Dieu|pl=hommes de Dieu}} :: a priest
+  homme de Dieu {{fr-noun|m|pl=hommes de Dieu}} :: a man of God, a godly man
+  homme de Dieu {{fr-noun|m|pl=hommes de Dieu}} :: a minister
+  homme de Dieu {{fr-noun|m|pl=hommes de Dieu}} :: a priest
 ***difference***
   (Old French) difference {{fro-noun|f}} :: difference
 ***digestion***
@@ -2173,8 +2173,8 @@ Index: FR FR->EN
     What haste do you have :: --
     That wakes up at this time of day? :: --
 ===entendu===
-  bien entendu {{fr-adv|head=bien entendu}} :: well understood
-  bien entendu {{fr-adv|head=bien entendu}} :: of course, obviously
+  bien entendu {fr-adv} :: well understood
+  bien entendu {fr-adv} :: of course, obviously
 ===entre===
   bite {{fr-noun|f}} :: {slang} knob, cock, dick
     Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
@@ -2777,7 +2777,7 @@ Index: FR FR->EN
 ***gracias***
   gracias :: second-person singular past historic of gracier
 ===grande===
-  grande parure {{fr-noun|f|head=grande parure|pl=grandes parures}} :: full dress
+  grande parure {{fr-noun|f|pl=grandes parures}} :: full dress
 ***grandiloquent***
   grandiloquent {fr-adj} :: grandiloquent
 ***gratuit***
@@ -2870,9 +2870,9 @@ Index: FR FR->EN
   homme du monde (noun) :: man of the world, a worldly man
   homme de guerre (noun) :: a man of war, a military man
   homme d'affaires (noun) :: a businessman
-  homme de Dieu {{fr-noun|m|head=homme de Dieu|pl=hommes de Dieu}} :: a man of God, a godly man
-  homme de Dieu {{fr-noun|m|head=homme de Dieu|pl=hommes de Dieu}} :: a minister
-  homme de Dieu {{fr-noun|m|head=homme de Dieu|pl=hommes de Dieu}} :: a priest
+  homme de Dieu {{fr-noun|m|pl=hommes de Dieu}} :: a man of God, a godly man
+  homme de Dieu {{fr-noun|m|pl=hommes de Dieu}} :: a minister
+  homme de Dieu {{fr-noun|m|pl=hommes de Dieu}} :: a priest
   libre {fr-adj-mf} :: free, at liberty
     Un homme libre. :: A free man.
   ci (adverb)Contracts ici or ceci :: this
@@ -3304,6 +3304,8 @@ Index: FR FR->EN
   koala {{fr-noun|m}} :: koala
 ===Kong===
   Hong Kong {fr-proper noun} :: Hong Kong
+===la===
+  la Réunion {f} (proper noun) :: Réunion
 ===La===
   libre {fr-adj-mf} :: clear, free, vacant
     La voie est libre. :: The way is clear.
@@ -4313,7 +4315,7 @@ Index: FR FR->EN
 ===partys===
   party {m|f} (noun), plural: parties, or: partys :: {Canada} party (social gathering)
 ===parure===
-  grande parure {{fr-noun|f|head=grande parure|pl=grandes parures}} :: full dress
+  grande parure {{fr-noun|f|pl=grandes parures}} :: full dress
 ===pas===
   on (pronoun) :: One, people, you, someone (an unspecified individual: indefinite personal pronoun).
     2003, Natasha St. Pier, L'Instant D'Après (album), Quand On Cherche L'Amour (song) :: --
@@ -4717,7 +4719,7 @@ Index: FR FR->EN
   (Old French) quatre (cardinal number) :: four
   quatre-vingt {{fr-noun-inv|m}} :: {France} Form of quatre-vingts (eighty) used in compounds (the numbers 81 to 99, larger numbers ending in numbers from 81 to 99, and the ordinal numbers corresponding to any of these numbers).
     {{usex|quatre-vingt-six|translation=eighty-six}} :: --
-  quatre-vingts {{fr-noun-inv|m|head=quatre vingts}} :: eighty, 80.
+  quatre vingts {{fr-noun-inv|m}} :: eighty, 80.
 ===que===
   (Old French) ke (pronoun) :: {alternative form of|que}
   (Old French) ke (conjunction) :: {alternative form of|que}
@@ -5704,7 +5706,7 @@ Index: FR FR->EN
   quatre-vingt {{fr-noun-inv|m}} :: {France} Form of quatre-vingts (eighty) used in compounds (the numbers 81 to 99, larger numbers ending in numbers from 81 to 99, and the ordinal numbers corresponding to any of these numbers).
     {{usex|quatre-vingt-six|translation=eighty-six}} :: --
 ===vingts===
-  quatre-vingts {{fr-noun-inv|m|head=quatre vingts}} :: eighty, 80.
+  quatre vingts {{fr-noun-inv|m}} :: eighty, 80.
   quatre-vingt {{fr-noun-inv|m}} :: {France} Form of quatre-vingts (eighty) used in compounds (the numbers 81 to 99, larger numbers ending in numbers from 81 to 99, and the ordinal numbers corresponding to any of these numbers).
     {{usex|quatre-vingt-six|translation=eighty-six}} :: --
 ===violence===
@@ -5933,7 +5935,7 @@ Index: EN EN->FR
   million (cardinal number) :: million, 10<sup>6</sup>.
   (Middle French) million {{frm-noun|m}} :: {cardinal} million, 10<sup>6</sup>.
 ===80===
-  quatre-vingts {{fr-noun-inv|m|head=quatre vingts}} :: eighty, 80.
+  quatre vingts {{fr-noun-inv|m}} :: eighty, 80.
 ===81===
   quatre-vingt {{fr-noun-inv|m}} :: {France} Form of quatre-vingts (eighty) used in compounds (the numbers 81 to 99, larger numbers ending in numbers from 81 to 99, and the ordinal numbers corresponding to any of these numbers).
     {{usex|quatre-vingt-six|translation=eighty-six}} :: --
@@ -7709,7 +7711,7 @@ Index: EN EN->FR
   courage {{fr-noun|m}} :: courage
 ===course===
   rang {{fr-noun|m}} :: {{context|knitting}} A knitting course.
-  bien entendu {{fr-adv|head=bien entendu}} :: of course, obviously
+  bien entendu {fr-adv} :: of course, obviously
 ===court===
   squash {{fr-noun|m}} :: squash court
     La ville a construit trois squashs municipaux. :: --
@@ -8060,7 +8062,7 @@ Index: EN EN->FR
   lie {{fr-noun|f}} :: dregs (of wine, of society)
 ===dress===
   habit {{fr-noun|m}} :: article of clothing, garment, dress-coat, evening dress, tails, full dress
-  grande parure {{fr-noun|f|head=grande parure|pl=grandes parures}} :: full dress
+  grande parure {{fr-noun|f|pl=grandes parures}} :: full dress
 ===drill===
   drill {{fr-noun|m}} :: drill (tool)
 ===drink===
@@ -8159,7 +8161,7 @@ Index: EN EN->FR
 ===eight===
   {{cardinalbox|fr|7|8|9|sept|neuf|ord=huitième|wplink=Huit}}huit (cardinal number) :: eight
 ===eighty===
-  quatre-vingts {{fr-noun-inv|m|head=quatre vingts}} :: eighty, 80.
+  quatre vingts {{fr-noun-inv|m}} :: eighty, 80.
   quatre-vingt {{fr-noun-inv|m}} :: {France} Form of quatre-vingts (eighty) used in compounds (the numbers 81 to 99, larger numbers ending in numbers from 81 to 99, and the ordinal numbers corresponding to any of these numbers).
     {{usex|quatre-vingt-six|translation=eighty-six}} :: --
 ===either===
@@ -8815,7 +8817,7 @@ Index: EN EN->FR
 ===full===
   point {{fr-noun|m}} :: full stop, period (punctuation mark)
   habit {{fr-noun|m}} :: article of clothing, garment, dress-coat, evening dress, tails, full dress
-  grande parure {{fr-noun|f|head=grande parure|pl=grandes parures}} :: full dress
+  grande parure {{fr-noun|f|pl=grandes parures}} :: full dress
   full {{fr-noun|m}} :: {poker} full house
   franc {{fr-adj|feminine=franche}} :: full
     4 jours francs :: 4 full days
@@ -8988,9 +8990,9 @@ Index: EN EN->FR
 ===god===
   Jupiter {{fr-proper noun|m}} :: Jupiter (god)
 ===God===
-  homme de Dieu {{fr-noun|m|head=homme de Dieu|pl=hommes de Dieu}} :: a man of God, a godly man
+  homme de Dieu {{fr-noun|m|pl=hommes de Dieu}} :: a man of God, a godly man
 ===godly===
-  homme de Dieu {{fr-noun|m|head=homme de Dieu|pl=hommes de Dieu}} :: a man of God, a godly man
+  homme de Dieu {{fr-noun|m|pl=hommes de Dieu}} :: a man of God, a godly man
 ===goes===
   de {fr-prep} :: from (used to indicate origin)
     Elle vient de la France. :: She comes from France.
@@ -10329,7 +10331,7 @@ Index: EN EN->FR
   homme de lettres (noun) :: man of letters, a literary man
   homme du monde (noun) :: man of the world, a worldly man
   homme de guerre (noun) :: a man of war, a military man
-  homme de Dieu {{fr-noun|m|head=homme de Dieu|pl=hommes de Dieu}} :: a man of God, a godly man
+  homme de Dieu {{fr-noun|m|pl=hommes de Dieu}} :: a man of God, a godly man
   libre {fr-adj-mf} :: free, at liberty
     Un homme libre. :: A free man.
   ci (adverb)Contracts ici or ceci :: this
@@ -10580,7 +10582,7 @@ Index: EN EN->FR
 ===miniscule===
   o (letter) :: o (miniscule)
 ===minister===
-  homme de Dieu {{fr-noun|m|head=homme de Dieu|pl=hommes de Dieu}} :: a minister
+  homme de Dieu {{fr-noun|m|pl=hommes de Dieu}} :: a minister
 ===minor===
   menu {fr-adj} :: minor, trifling
 ===minuscule===
@@ -10962,7 +10964,7 @@ Index: EN EN->FR
 ===obtainable===
   accessible {fr-adj-mf} :: {{context|of a place, information, etc.}} accessible, attainable, obtainable, available.
 ===obviously===
-  bien entendu {{fr-adv|head=bien entendu}} :: of course, obviously
+  bien entendu {fr-adv} :: of course, obviously
 ===occult===
   passage {{fr-noun|m}} :: {astronomy} Moment when a star or planet occults another,or crosses a meridian.
 ===occurs===
@@ -11617,7 +11619,7 @@ Index: EN EN->FR
 ===pretension===
   air {{fr-noun|m}} :: air (pretension)
 ===priest===
-  homme de Dieu {{fr-noun|m|head=homme de Dieu|pl=hommes de Dieu}} :: a priest
+  homme de Dieu {{fr-noun|m|pl=hommes de Dieu}} :: a priest
   ablution {{fr-noun|f}} :: {{context|Western|_|Christianity}} Ritual rinsing of the priest's hand; ablution.
 ===primae===
   droit de seigneur {m} (noun) :: the right of the lord. (The right of the first night ius primae noctis i.e. the right of the feudal lord to deflower the maiden bride of one of his vassals).
@@ -13431,7 +13433,7 @@ Index: EN EN->FR
   voir {fr-verb} :: to see (to understand)
     Tu vois que tu avais tort ? :: Do you see that you were wrong?
 ===understood===
-  bien entendu {{fr-adv|head=bien entendu}} :: well understood
+  bien entendu {fr-adv} :: well understood
 ===Union===
   URSS (abbreviation) {f} :: Union des républiques socialistes soviétiques
 ===unit===
@@ -13839,7 +13841,7 @@ Index: EN EN->FR
     "Oïl, mout m'an sovient il bien.<br />Seneschaus, savez vos an rien? :: --
     Yes, I remember it well<br /> :: --
   bien perdu bien connu :: That which is well lost is well known, or what once was lost is prized.
-  bien entendu {{fr-adv|head=bien entendu}} :: well understood
+  bien entendu {fr-adv} :: well understood
   bien fendu (adjective) :: {idiomatic} well cleft, (or long-legged)
   baste pour cela :: Enough of that, all well and good, so be it.
 ===were===

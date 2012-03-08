@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.thai 4915
+EntrySource: enwiktionary.thai 4931
 
 Index: TH TH->EN
 ***ฯลฯ***
@@ -764,7 +764,7 @@ Index: TH TH->EN
 ***เห็นด้วย***
   เห็นด้วย (hen duay) (verb) :: To agree with.
 ***เหงื่อ***
-  เหงื่อ {{th-noun|tr=ngèua}} :: sweat
+  เหงื่อ (ngèua) {th-noun} :: sweat
 ***เหนื่อย***
   เหนื่อย (ngèuay) (adjective) :: weary.
 ===hèt===
@@ -1032,7 +1032,7 @@ Index: TH TH->EN
 ===ka===
   กวี (ka wī) (noun) :: poem
 ===kâ===
-  สวัสดีค่ะ {f} (sàwàtdee kâ) (interjection) :: hello, said by females
+  สวัสดีค่ะ (sàwàtdee kâ) {f} (interjection) :: hello, said by females
 ***กา***
   กา (kaa) (noun) :: crow (bird)
   กา (kaa) (noun) :: teapot
@@ -1640,7 +1640,7 @@ Index: TH TH->EN
 ***กระดอ***
   กระดอ (noun) :: {{context|colloquial|vulgar}} penis
 ===kráp===
-  สวัสดีครับ {m} (sàwàtdee kráp) (interjection) :: hello, said by males
+  สวัสดีครับ (sàwàtdee kráp) {m} (interjection) :: hello, said by males
 ***กระทรวง***
   กระทรวง (gràsuang) :: ministry
 ***กระทรวงศึกษาธิการ***
@@ -1783,10 +1783,14 @@ Index: TH TH->EN
 ===leu===
   ฦๅ (leu) (verb) :: {obsolete} Alternative spelling of ลือ.
   ฦๅ (ḹ; leu) (letter) :: A letter of the Thai alphabet, considered a vowel.
+===leuad===
+  เลือด (leuad) {th-noun} :: blood
+===leung===
+  ลึงค์ (leung) {th-noun} :: {anatomy} penis.
 ===leuu===
   ลือ (leuu) (verb) :: To spread a rumor.
 ***เลือด***
-  เลือด {{th-noun|tr=leuad}} :: blood
+  เลือด (leuad) {th-noun} :: blood
 ===li===
   พรหมลิขิต (pom li khit) (noun) :: fate
 ===liā===
@@ -1883,7 +1887,7 @@ Index: TH TH->EN
 ***ลืม***
   ลืม (lūem) (verb) :: To forget.
 ***ลึงค์***
-  ลึงค์ {{th-noun|tr=leung}} :: {anatomy} penis.
+  ลึงค์ (leung) {th-noun} :: {anatomy} penis.
 ***ลือ***
   ลือ (leuu) (verb) :: To spread a rumor.
 ***ลือชา***
@@ -2017,6 +2021,12 @@ Index: TH TH->EN
 ===méd===
   เมษ (méd) (noun) :: A ram.
   ราศีเมษ (rāsī méd) (proper noun) :: Aries
+===mee===
+  มี (mee) {th-verb} :: to have, to own
+  มี (mee) {th-verb} :: to contain, to include
+  มี (mee) {th-verb} :: there is, there are
+    ฉันมีหมวกหนึ่งใบ :: --
+    I have a hat :: --
 ===még===
   เมฆ (még) (noun) :: A cloud.
 ***เมฆ***
@@ -2062,9 +2072,9 @@ Index: TH TH->EN
   รัศมี (rad sa mī) (noun) :: ray of light
   รัศมี (rad sa mī) (noun) :: radius
 ***มี***
-  มี {{th-verb|tr=mee}} :: to have, to own
-  มี {{th-verb|tr=mee}} :: to contain, to include
-  มี {{th-verb|tr=mee}} :: there is, there are
+  มี (mee) {th-verb} :: to have, to own
+  มี (mee) {th-verb} :: to contain, to include
+  มี (mee) {th-verb} :: there is, there are
     ฉันมีหมวกหนึ่งใบ :: --
     I have a hat :: --
 ***ไม่***
@@ -2167,6 +2177,7 @@ Index: TH TH->EN
 ===naa===
   นา (naa) (noun) :: rice field.
   นา (naa) (noun) :: farm.
+  ศาสนา (sàat-sà-naa) {th-noun} :: religion
 ===nâa===
   เหลี่ยม (lìam) (adjective) :: angled, angular, square
     หน้าเหลี่ยม (nâa lìam) :: square face
@@ -2288,6 +2299,8 @@ Index: TH TH->EN
   เงิน (ngern) (noun) :: money
   การเงิน (gaan ngern) (noun) :: finance
   การเงิน (gaan ngern) (noun) :: monetary matters
+===ngèua===
+  เหงื่อ (ngèua) {th-noun} :: sweat
 ===ngèuay===
   เหนื่อย (ngèuay) (adjective) :: weary.
 ===ngeuk===
@@ -2382,6 +2395,9 @@ Index: TH TH->EN
 ===pā===
   ภาษี (pā sī) (noun) :: tax
 ===paasăa===
+  ภาษา (paasăa) {th-noun} :: language
+  ภาษา (paasăa) {th-noun} :: speech
+  ภาษา (paasăa) {th-noun} :: words
   ภาษาเขมร (paasăa khamen) (proper noun) :: The Khmer language (Cambodian).
   ภาษารัสเซีย (paasăa rátsia) (proper noun) :: the Russian language
   ภาษาโปรตุเกส (paasăa bprohdtòogèt) (proper noun) :: The Portuguese language.
@@ -2592,9 +2608,9 @@ Index: TH TH->EN
   ภาพ (phab) (noun) :: A painting.
   ภาพ (phab) (noun) :: A picture.
 ***ภาษา***
-  ภาษา {{th-noun|tr=paasăa}} :: language
-  ภาษา {{th-noun|tr=paasăa}} :: speech
-  ภาษา {{th-noun|tr=paasăa}} :: words
+  ภาษา (paasăa) {th-noun} :: language
+  ภาษา (paasăa) {th-noun} :: speech
+  ภาษา (paasăa) {th-noun} :: words
 ***ภาษาบาลี***
   ภาษาบาลี (paasăa baalii) (proper noun) :: The Pali language.
 ***ภาษาเบงกาลี***
@@ -3095,6 +3111,8 @@ Index: TH TH->EN
   รฦก (ra luenk) (verb) :: {obsolete}Alternative spelling of ระลึก.
 ***รำ***
   รำ (ram) (verb) :: to dance
+===raachaa===
+  ราชา (raachaa) {th-noun} :: king
 ===raachaaanaajak===
   สหราชอาณาจักร (saha raachaaanaajak) (proper noun) :: The United Kingdom.
 ===ráai===
@@ -3108,7 +3126,7 @@ Index: TH TH->EN
 ***รับรู้***
   รับรู้ (rab rū) (verb) :: To perceive.
 ***ราชา***
-  ราชา {{th-noun|tr=raachaa}} :: king
+  ราชา (raachaa) {th-noun} :: king
 ===rachakuman===
   ราชกุมาร (rachakuman) (noun) :: A prince.
 ===rachakumaree===
@@ -3247,6 +3265,8 @@ Index: TH TH->EN
   เรือ (reua) (noun) :: boat
 ===rêuat===
   เรือด (rêuat) (noun) :: bedbug
+===reudoo===
+  ฤดู (reudoo) {th-noun} :: A season.
 ===reuthai===
   ฤทัย (reuthai) (noun) :: A heart .
 ***เรือ***
@@ -3345,6 +3365,8 @@ Index: TH TH->EN
   สหาย (sa hāy) (noun) :: friend
   พฤกษา (pruek sa) (noun) :: tree
   นามสกุล (nām sa kun) (noun) :: last name.
+===sà===
+  ศาสนา (sàat-sà-naa) {th-noun} :: religion
 ===sā===
   ถือสา (thūe sā) (verb) :: To mind.
 ===săam===
@@ -3352,6 +3374,7 @@ Index: TH TH->EN
   สิบสาม (sìp săam) (noun) :: thirteen
 ===sàat===
   นิรุกติศาสตร์ (níróoktì sàat) (noun) :: etymology
+  ศาสนา (sàat-sà-naa) {th-noun} :: religion
 ===sab===
   สับ (sab) (verb) :: To chop.
   ศัพท์ (sab) (noun) :: A word.
@@ -3437,7 +3460,7 @@ Index: TH TH->EN
 ***ศาสดา***
   ศาสดา (sàat-sa-da) :: prophet
 ***ศาสนา***
-  ศาสนา {{th-noun|tr=sàat-sà-naa}} :: religion
+  ศาสนา (sàat-sà-naa) {th-noun} :: religion
 ***ศาสตร์***
   ศาสตร์ (sàat) :: science, -ology
 ===satri===
@@ -3452,8 +3475,8 @@ Index: TH TH->EN
   สวรรค์ (sawan) (noun) :: heaven
 ===sàwàtdee===
   สวัสดี (sàwàtdee) (noun) :: safety, security
-  สวัสดีครับ {m} (sàwàtdee kráp) (interjection) :: hello, said by males
-  สวัสดีค่ะ {f} (sàwàtdee kâ) (interjection) :: hello, said by females
+  สวัสดีครับ (sàwàtdee kráp) {m} (interjection) :: hello, said by males
+  สวัสดีค่ะ (sàwàtdee kâ) {f} (interjection) :: hello, said by females
 ===sawk===
   ศอก (sawk) (verb) :: To elbow.
 ===sawn===
@@ -3755,9 +3778,9 @@ Index: TH TH->EN
   สวัสดี (sàwàtdee) :: goodbye
   สวัสดี (sàwàtdee) (noun) :: safety, security
 ***สวัสดีค่ะ***
-  สวัสดีค่ะ {f} (sàwàtdee kâ) (interjection) :: hello, said by females
+  สวัสดีค่ะ (sàwàtdee kâ) {f} (interjection) :: hello, said by females
 ***สวัสดีครับ***
-  สวัสดีครับ {m} (sàwàtdee kráp) (interjection) :: hello, said by males
+  สวัสดีครับ (sàwàtdee kráp) {m} (interjection) :: hello, said by males
 ***สวด***
   สวด (sùat) (verb) :: to pray
 ***สวรรค์***
@@ -3901,6 +3924,8 @@ Index: TH TH->EN
   เตะ (té) (verb) :: To kick.
 ===teeluuguu===
   ภาษาเตลูกู (paasăa teeluuguu) (proper noun) :: The Telugu language.
+===teewádaa===
+  เทวดา (teewádaa) {th-noun} :: deity, male angel
 ===ten===
   เต้น (ten) (verb) :: To dance.
 ***เต้น***
@@ -4041,7 +4066,7 @@ Index: TH TH->EN
 ***เทวะ***
   เทวะ (thè wa) (noun) :: a deity
 ***เทวดา***
-  เทวดา {{th-noun|tr=teewádaa}} :: deity, male angel
+  เทวดา (teewádaa) {th-noun} :: deity, male angel
 ===thèwī===
   เทวี (thèwī) (noun) :: a female deity
   เทวี (thèwī) (noun) :: a goddess
@@ -4267,7 +4292,7 @@ Index: TH TH->EN
 ===vanorn===
   วานร (vanorn) (noun) :: monkey
 ***ฤดู***
-  ฤดู {{th-noun|tr=reudoo}} :: A season.
+  ฤดู (reudoo) {th-noun} :: A season.
 ===vet===
   เวทย์ (vet) (noun) :: knowledge
 ===vinathi===
@@ -4652,8 +4677,10 @@ Index: TH TH->EN
 ===yik===
   หยิก (yik) (verb) :: to pinch
   หยิก (yik) (adjective) :: curly
+===yim===
+  ยิ้ม (yim) {th-verb} :: to smile
 ***ยิ้ม***
-  ยิ้ม {{th-verb|tr=yim}} :: to smile
+  ยิ้ม (yim) {th-verb} :: to smile
 ===ying===
   หญิง (ying) (noun) :: female
 ===yĭng===
@@ -4982,7 +5009,7 @@ Index: EN EN->TH
   หาง (hāng) (noun) :: An object's end
   ยักษ์ (yak) (noun) :: An ogre
 ===angel===
-  เทวดา {{th-noun|tr=teewádaa}} :: deity, male angel
+  เทวดา (teewádaa) {th-noun} :: deity, male angel
 ===angle===
   เหลี่ยม (lìam) (noun) :: angle
 ===angled===
@@ -5017,7 +5044,7 @@ Index: EN EN->TH
 ===Arabic===
   ภาษาอาหรับ (paasăa aa rab) (proper noun) :: The Arabic language.
 ===are===
-  มี {{th-verb|tr=mee}} :: there is, there are
+  มี (mee) {th-verb} :: there is, there are
     ฉันมีหมวกหนึ่งใบ :: --
     I have a hat :: --
 ===Aries===
@@ -5164,7 +5191,7 @@ Index: EN EN->TH
   ความรัก (khwamrak) (noun) :: love.
     ความรักทำให้คนตาบอด :: Love can make people blind.
 ===blood===
-  เลือด {{th-noun|tr=leuad}} :: blood
+  เลือด (leuad) {th-noun} :: blood
 ===blow===
   เป่า (pao) (verb) :: To blow.
 ===blue===
@@ -5453,7 +5480,7 @@ Index: EN EN->TH
 ===contact===
   สบตา (sob tā) (verb) :: To make eye contact.
 ===contain===
-  มี {{th-verb|tr=mee}} :: to contain, to include
+  มี (mee) {th-verb} :: to contain, to include
 ===containing===
   วิหาร (wíhăan) :: a meeting room or prayer room containing religious images in a Buddhist monastery
 ===content===
@@ -5573,7 +5600,7 @@ Index: EN EN->TH
   ท้า (thaa) (verb) :: To defy
 ===deity===
   เทพ (thèp) (noun) :: a deity
-  เทวดา {{th-noun|tr=teewádaa}} :: deity, male angel
+  เทวดา (teewádaa) {th-noun} :: deity, male angel
   เทวะ (thè wa) (noun) :: a deity
   เทวี (thèwī) (noun) :: a female deity
   เทพี (thèpī) (noun) :: a female deity
@@ -5862,7 +5889,7 @@ Index: EN EN->TH
   ดิฉัน (dichan) (pronoun) :: (said by female only) me
 ===females===
   แก้ว (gâew) (proper noun) :: A common Thai nickname for males and females
-  สวัสดีค่ะ {f} (sàwàtdee kâ) (interjection) :: hello, said by females
+  สวัสดีค่ะ (sàwàtdee kâ) {f} (interjection) :: hello, said by females
 ===field===
   นา (naa) (noun) :: rice field.
 ===fifth===
@@ -6095,7 +6122,7 @@ Index: EN EN->TH
 ===Hathai===
   หฤทัย (hareuthai) (proper noun) :: {{given name|female}}, Hathai
 ===have===
-  มี {{th-verb|tr=mee}} :: to have, to own
+  มี (mee) {th-verb} :: to have, to own
 ===he===
   ธ (tha) (pronoun) :: {archaic} he, she
   เพื่อน (phuean) (pronoun) :: he, she, they
@@ -6126,8 +6153,8 @@ Index: EN EN->TH
 ===hell===
   นรก (narok) (noun) :: hell
 ===hello===
-  สวัสดีครับ {m} (sàwàtdee kráp) (interjection) :: hello, said by males
-  สวัสดีค่ะ {f} (sàwàtdee kâ) (interjection) :: hello, said by females
+  สวัสดีครับ (sàwàtdee kráp) {m} (interjection) :: hello, said by males
+  สวัสดีค่ะ (sàwàtdee kâ) {f} (interjection) :: hello, said by females
   สวัสดี (sàwàtdee) :: hello, hi
 ===help===
   ช่วย (chuey) (verb) :: to help
@@ -6221,7 +6248,7 @@ Index: EN EN->TH
     หนังใหญ่ (năng yài) :: grand shadow play
     แผ่นดินใหญ่ (pàen din yài) :: mainland
 ===include===
-  มี {{th-verb|tr=mee}} :: to contain, to include
+  มี (mee) {th-verb} :: to contain, to include
 ===inclusive===
   เรา (rao) (pronoun) :: {archaic} we/us (inclusive)
 ===indeed===
@@ -6374,7 +6401,7 @@ Index: EN EN->TH
 ===kill===
   ฆ่า (kâa) (verb) :: to kill
 ===king===
-  ราชา {{th-noun|tr=raachaa}} :: king
+  ราชา (raachaa) {th-noun} :: king
 ===King===
   พระบาทสมเด็จพระเจ้าอยู่หัว (prábàat sŏmdèt prá jâo yù hŭa) (noun) :: Phrabat Somdej Phra Chao Yu Hua (a title of the King of Thailand)
 ===kingdom===
@@ -6405,7 +6432,7 @@ Index: EN EN->TH
 ===land===
   ภูมิ (pʰūmi) (noun) :: land
 ===language===
-  ภาษา {{th-noun|tr=paasăa}} :: language
+  ภาษา (paasăa) {th-noun} :: language
   นิรุกติ (níróoktì) :: language
   ภาษาไทย (phaasăa thai) (proper noun) :: the Thai language
   ภาษาญี่ปุ่น (proper noun) :: Japanese, the language spoken in Japan.
@@ -6641,10 +6668,10 @@ Index: EN EN->TH
   เพศชาย (ped-chai) (noun) :: male
   ชาย (chaai) (noun) :: male
   ผม :: I; me. For male speakers.
-  เทวดา {{th-noun|tr=teewádaa}} :: deity, male angel
+  เทวดา (teewádaa) {th-noun} :: deity, male angel
 ===males===
   แก้ว (gâew) (proper noun) :: A common Thai nickname for males and females
-  สวัสดีครับ {m} (sàwàtdee kráp) (interjection) :: hello, said by males
+  สวัสดีครับ (sàwàtdee kráp) {m} (interjection) :: hello, said by males
   สมเด็จเจ้าพระยา (sŏmdèt jâao práyaa) (noun) :: Somdej Chao Phraya, Prince (most senior Thai title for males)
 ===man===
   คน (khon) (noun) :: people, person, guy, man, human being
@@ -6974,7 +7001,7 @@ Index: EN EN->TH
 ===over===
   พาด (pād) (verb) :: To drape over.
 ===own===
-  มี {{th-verb|tr=mee}} :: to have, to own
+  มี (mee) {th-verb} :: to have, to own
 ===p===
   เย็น (yen) (noun) :: late afternoon, early evening (4:00 p.m. to 6:00 p.m.)
 ===pad===
@@ -7037,7 +7064,7 @@ Index: EN EN->TH
 ===penis===
   ควย (khuay) (noun) :: {{informal|vulgar}} penis
   กระดอ (noun) :: {{context|colloquial|vulgar}} penis
-  ลึงค์ {{th-noun|tr=leung}} :: {anatomy} penis.
+  ลึงค์ (leung) {th-noun} :: {anatomy} penis.
 ===people===
   คน (khon) (noun) :: people, person, guy, man, human being
   คนญี่ปุ่น (khon yêe-bpòon) (noun) :: Japanese person, Japanese people
@@ -7283,7 +7310,7 @@ Index: EN EN->TH
 ===relax===
   เย็น (yen) (verb) :: to relax
 ===religion===
-  ศาสนา {{th-noun|tr=sàat-sà-naa}} :: religion
+  ศาสนา (sàat-sà-naa) {th-noun} :: religion
 ===religious===
   วิหาร (wíhăan) :: a meeting room or prayer room containing religious images in a Buddhist monastery
 ===remaining===
@@ -7377,8 +7404,8 @@ Index: EN EN->TH
 ===Sagittarius===
   ราศีธนู (rāsī thanū) (proper noun) :: Sagittarius
 ===said===
-  สวัสดีครับ {m} (sàwàtdee kráp) (interjection) :: hello, said by males
-  สวัสดีค่ะ {f} (sàwàtdee kâ) (interjection) :: hello, said by females
+  สวัสดีครับ (sàwàtdee kráp) {m} (interjection) :: hello, said by males
+  สวัสดีค่ะ (sàwàtdee kâ) {f} (interjection) :: hello, said by females
   ดิฉัน (dichan) (pronoun) :: (said by female only) me
 ===saint===
   นักบุญ (nag-boon) (noun) :: saint
@@ -7441,7 +7468,7 @@ Index: EN EN->TH
   หา (hā) (verb) :: To search.
   ค้น (kon) (verb) :: To search.
 ===season===
-  ฤดู {{th-noun|tr=reudoo}} :: A season.
+  ฤดู (reudoo) {th-noun} :: A season.
 ===secondary===
   อาจารย์ (aajaan) :: teacher, schoolteacher, post-secondary teacher
 ===security===
@@ -7568,7 +7595,7 @@ Index: EN EN->TH
 ===smelling===
   เขียว (khĭeow) (adjective) :: stinking, rancid, rank, bad smelling, strong smelling
 ===smile===
-  ยิ้ม {{th-verb|tr=yim}} :: to smile
+  ยิ้ม (yim) {th-verb} :: to smile
 ===smoke===
   สูบ (soob) (verb) :: To smoke.
   เสพ (séb) (verb) :: To smoke.
@@ -7622,7 +7649,7 @@ Index: EN EN->TH
 ===spear===
   ปฏัก (patak) (noun) :: spear
 ===speech===
-  ภาษา {{th-noun|tr=paasăa}} :: speech
+  ภาษา (paasăa) {th-noun} :: speech
   นิรุกติ (níróoktì) :: speech
 ===spelling===
   ฦๅ (leu) (verb) :: {obsolete} Alternative spelling of ลือ.
@@ -7781,7 +7808,7 @@ Index: EN EN->TH
 ===swan===
   หงส์ (hong) (noun) :: A swan.
 ===sweat===
-  เหงื่อ {{th-noun|tr=ngèua}} :: sweat
+  เหงื่อ (ngèua) {th-noun} :: sweat
 ===sweep===
   ปัด (pad) (verb) :: To sweep.
   กวาด (kwād) (verb) :: To sweep.
@@ -7957,7 +7984,7 @@ Index: EN EN->TH
 ===them===
   เขา (kʰao) (pronoun) :: they/them
 ===there===
-  มี {{th-verb|tr=mee}} :: there is, there are
+  มี (mee) {th-verb} :: there is, there are
     ฉันมีหมวกหนึ่งใบ :: --
     I have a hat :: --
 ===they===
@@ -8247,7 +8274,7 @@ Index: EN EN->TH
   วาจา (wā jā) (noun) :: word
   ศัพท์ (sab) (noun) :: A word.
 ===words===
-  ภาษา {{th-noun|tr=paasăa}} :: words
+  ภาษา (paasăa) {th-noun} :: words
   นิรุกติ (níróoktì) :: words
 ===world===
   โลก (lōk) (noun) :: world

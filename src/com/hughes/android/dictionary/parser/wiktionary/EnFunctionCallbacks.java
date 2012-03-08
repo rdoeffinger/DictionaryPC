@@ -483,6 +483,8 @@ class EnFunctionCallbacks {
         final EnParser parser,
         final AppendAndIndexWikiCallback<EnParser> appendAndIndexWikiCallback) {
       // See: http://en.wiktionary.org/wiki/Template:infl
+      // TODO: Actually these functions should start a new WordPOS:
+      // See: http://en.wiktionary.org/wiki/quattro
       final String langCode = ListUtil.get(args, 0);
       String head = namedArgs.remove("head");
       if (head == null) {
@@ -491,7 +493,6 @@ class EnFunctionCallbacks {
       if (head == null) {
         head = parser.title;
       }
-      parser.titleAppended = true;
       
       namedArgs.keySet().removeAll(EnParser.USELESS_WIKI_ARGS);
 
@@ -503,7 +504,11 @@ class EnFunctionCallbacks {
       final String g2 = namedArgs.remove("g2");
       final String g3 = namedArgs.remove("g3");
 
-      appendAndIndexWikiCallback.dispatch(head, EntryTypeName.WIKTIONARY_TITLE_MULTI);
+      // We might have already taken care of this in a generic way...
+      if (!parser.titleAppended) {
+        appendAndIndexWikiCallback.dispatch(head, EntryTypeName.WIKTIONARY_TITLE_MULTI);
+        parser.titleAppended = true;
+      }
 
       if (g != null) {
         appendAndIndexWikiCallback.builder.append(" {").append(g);

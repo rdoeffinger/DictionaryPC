@@ -136,6 +136,25 @@ public final class EnForeignParser extends EnParser {
           // for the conjugation table from "fa".
           // Would like to be able to link to a lang#token.
           
+          
+          String head = namedArgs.remove("head");
+          final String tr = namedArgs.remove("tr");
+          if (head == null && tr != null && !titleAppended) {
+            head = title;
+          }
+          if (head != null) {
+            final String form = appendAndIndexWikiCallback.dispatch(head, EntryTypeName.WIKTIONARY_TITLE_MULTI);
+            wordForms.add(form);
+            appendAndIndexWikiCallback.builder.append(" ");
+            titleAppended = true;
+          }
+          if (tr != null) {
+            appendAndIndexWikiCallback.builder.append(" (");
+            final String form = appendAndIndexWikiCallback.dispatch(tr, EntryTypeName.WIKTIONARY_TRANSLITERATION);
+            wordForms.add(form);
+            appendAndIndexWikiCallback.builder.append(") ");
+          }
+          
           appendAndIndexWikiCallback.onFunction(wikiTokenizer, name, args, namedArgs);
           
         } else if (wikiTokenizer.isListItem()) {

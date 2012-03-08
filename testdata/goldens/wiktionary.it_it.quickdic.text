@@ -1395,9 +1395,9 @@ Index: IT IT->EN
 ===else===
   else {f} :: {plural of|elsa}
 ===Emilia===
-  Emilia-Romagna {{it-proper noun|head=Emilia-Romagna|g=f}} :: Emilia-Romagna
-  Reggio nell'Emilia {{it-proper noun|head=Reggio nell'Emilia}} :: Reggio nell'Emilia (province)
-  Reggio nell'Emilia {{it-proper noun|head=Reggio nell'Emilia}} :: Reggio nell'Emilia (town)
+  Emilia-Romagna {{it-proper noun|g=f}} :: Emilia-Romagna
+  Reggio nell'Emilia {it-proper noun} :: Reggio nell'Emilia (province)
+  Reggio nell'Emilia {it-proper noun} :: Reggio nell'Emilia (town)
 ***emoticon***
   emoticon (noun), m {inv} :: emoticon
 ***empire***
@@ -2068,8 +2068,8 @@ Index: IT IT->EN
   lama {m}, lami {pl} :: A lama (religious person)
   lama {m}, lami {pl} :: A llama (animal)
 ***lambda***
-  lambda (noun) {m|f|inv}lambda (noun){m|inv} :: lambda (Greek letter)
-  lambda (noun) {m|f|inv}lambda (noun){m|inv} :: {anatomy} lambda
+  lambda (noun) {m|f|inv} (noun){m|inv} :: lambda (Greek letter)
+  lambda (noun) {m|f|inv} (noun){m|inv} :: {anatomy} lambda
 ===lame===
   lama {f}, lame {pl} :: A blade (of a razor or sword)
 ===lami===
@@ -2420,9 +2420,9 @@ Index: IT IT->EN
   metal {m} (noun) {inv} :: {music} metal
 ***mi***
   mi (pronoun), first person, objective case :: me
-  mi (noun)mi (noun){m|f|inv} :: {music} The third note, mi.
-  mi (noun)mi (noun){m|f|inv} :: E (musical note or key)
-  mi (noun)mi (noun){m|f|inv} :: mu (Greek letter)
+  mi (noun) (noun){m|f|inv} :: {music} The third note, mi.
+  mi (noun) (noun){m|f|inv} :: E (musical note or key)
+  mi (noun) (noun){m|f|inv} :: mu (Greek letter)
 ***MI***
   MI (abbreviation) :: Milano
 ***miasma***
@@ -2623,8 +2623,8 @@ Index: IT IT->EN
   ne (contraction) :: {apocopic form of|nel}
     Massimo Troisi ha vinto un oscar per la sua interpretazione ne "Il postino". :: "Massimo Troisi won an Oscar for his performance in "Il Postino".
 ===nell===
-  Reggio nell'Emilia {{it-proper noun|head=Reggio nell'Emilia}} :: Reggio nell'Emilia (province)
-  Reggio nell'Emilia {{it-proper noun|head=Reggio nell'Emilia}} :: Reggio nell'Emilia (town)
+  Reggio nell'Emilia {it-proper noun} :: Reggio nell'Emilia (province)
+  Reggio nell'Emilia {it-proper noun} :: Reggio nell'Emilia (town)
 ***neon***
   neon {m|inv} (noun) :: neon
 ***Nepal***
@@ -3154,9 +3154,9 @@ Index: IT IT->EN
   quattordici {m} (noun) {inv}{f|plural} :: two o'clock (p.m.)
 ***quattro***
   quattro {m|f} (adjective) {inv} :: four
-  quattro {m} (noun) {inv}quattro {f} (noun){inv}{f|plural} :: four
-  quattro {m} (noun) {inv}quattro {f} (noun){inv}{f|plural} :: Either of the quarter hours after midnight and noon
-  quattro {m} (noun) {inv}quattro {f} (noun){inv}{f|plural} :: four o'clock (a.m. or p.m.)
+  quattro {m} (noun) {inv} {f} (noun){inv}{f|plural} :: four
+  quattro {m} (noun) {inv} {f} (noun){inv}{f|plural} :: Either of the quarter hours after midnight and noon
+  quattro {m} (noun) {inv} {f} (noun){inv}{f|plural} :: four o'clock (a.m. or p.m.)
 ===qui===
   bar {m} (noun) {inv} :: bar (place serving drinks)
     C'è un bar qui vicino? :: Is there a bar nearby?
@@ -3230,8 +3230,8 @@ Index: IT IT->EN
 ===recuperato===
   recuperate :: {[[feminine|Feminine]] plural|recuperato}
 ===Reggio===
-  Reggio nell'Emilia {{it-proper noun|head=Reggio nell'Emilia}} :: Reggio nell'Emilia (province)
-  Reggio nell'Emilia {{it-proper noun|head=Reggio nell'Emilia}} :: Reggio nell'Emilia (town)
+  Reggio nell'Emilia {it-proper noun} :: Reggio nell'Emilia (province)
+  Reggio nell'Emilia {it-proper noun} :: Reggio nell'Emilia (town)
 ***regime***
   regime {m}, regimi {pl} :: regime, régime
   regime {m}, regimi {pl} :: regimen
@@ -3328,7 +3328,7 @@ Index: IT IT->EN
   Rome {f} :: {plural of|Roma}
     le due Rome, the two Romes :: --
 ===Romagna===
-  Emilia-Romagna {{it-proper noun|head=Emilia-Romagna|g=f}} :: Emilia-Romagna
+  Emilia-Romagna {{it-proper noun|g=f}} :: Emilia-Romagna
 ***Romania***
   Romania {f} (proper noun) :: Romania
 ===Rome===
@@ -3561,8 +3561,8 @@ Index: IT IT->EN
 ===Sierra===
   Sierra Leone {f} :: Sierra Leone
 ***sigma***
-  sigma (noun) {m|f|inv}sigma (noun){m|inv} :: sigma (Greek letter)
-  sigma (noun) {m|f|inv}sigma (noun){m|inv} :: sigmoid colon
+  sigma (noun) {m|f|inv} (noun){m|inv} :: sigma (Greek letter)
+  sigma (noun) {m|f|inv} (noun){m|inv} :: sigmoid colon
 ***simile***
   simile {{it-adj|simil|e}} :: similar
     Non è molto simile. It is not very similar. :: --
@@ -4358,7 +4358,7 @@ Index: EN EN->IT
 ===after===
   tanto :: after all
   lui (pronoun) :: him (indirect form of lui used after a preposition)
-  quattro {m} (noun) {inv}quattro {f} (noun){inv}{f|plural} :: Either of the quarter hours after midnight and noon
+  quattro {m} (noun) {inv} {f} (noun){inv}{f|plural} :: Either of the quarter hours after midnight and noon
 ===age===
   tempo {m}, tempi {pl} :: time, age, period
     bei tempi!, those were the days! :: --
@@ -5007,7 +5007,7 @@ Index: EN EN->IT
 ===clock===
   due {m} (noun) {inv}{f|plural} :: two o'clock (a.m. or p.m.)
   tre {m} (noun) {inv}{f|plural} :: three o'clock (a.m. or p.m.)
-  quattro {m} (noun) {inv}quattro {f} (noun){inv}{f|plural} :: four o'clock (a.m. or p.m.)
+  quattro {m} (noun) {inv} {f} (noun){inv}{f|plural} :: four o'clock (a.m. or p.m.)
   cinque {m} (noun) {inv}{f|plural} :: Five o'clock (a.m. or p.m.).
   sei {m} (noun) {inv}{f|plural} :: six o'clock (a.m. or p.m.)
   sette {m} (noun) {inv}{f|plural} :: seven o'clock (a.m. or p.m.)
@@ -5057,7 +5057,7 @@ Index: EN EN->IT
   Colombia (proper noun) {f} :: Colombia
 ===colon===
   colon {m} (noun) {inv} :: {{context|anatomy}} colon
-  sigma (noun) {m|f|inv}sigma (noun){m|inv} :: sigmoid colon
+  sigma (noun) {m|f|inv} (noun){m|inv} :: sigmoid colon
 ===color===
   colore {m}, colori {pl} :: color, colour
   banana {m} {inv} :: banana (color)
@@ -5404,7 +5404,7 @@ Index: EN EN->IT
 ===e===
   Pesaro e Urbino {it-proper noun} :: Pesaro e Urbino
 ===E===
-  mi (noun)mi (noun){m|f|inv} :: E (musical note or key)
+  mi (noun) (noun){m|f|inv} :: E (musical note or key)
 ===each===
   si (pronoun) :: {reflexive} oneself, himself, herself, itself, themselves; (reciprocal) each other, one another.
     Examples: :: --
@@ -5447,7 +5447,7 @@ Index: EN EN->IT
   otto (noun) {m|inv}{f|plural} :: eight
   otto (noun) {m|inv}{f|plural} :: eight o'clock
 ===Either===
-  quattro {m} (noun) {inv}quattro {f} (noun){inv}{f|plural} :: Either of the quarter hours after midnight and noon
+  quattro {m} (noun) {inv} {f} (noun){inv}{f|plural} :: Either of the quarter hours after midnight and noon
 ===El===
   El Salvador {{it-proper noun|g=m}} :: El Salvador
 ===elegantly===
@@ -5463,9 +5463,9 @@ Index: EN EN->IT
 ===email===
   mail {f} (noun) {inv} :: email
 ===Emilia===
-  Emilia-Romagna {{it-proper noun|head=Emilia-Romagna|g=f}} :: Emilia-Romagna
-  Reggio nell'Emilia {{it-proper noun|head=Reggio nell'Emilia}} :: Reggio nell'Emilia (province)
-  Reggio nell'Emilia {{it-proper noun|head=Reggio nell'Emilia}} :: Reggio nell'Emilia (town)
+  Emilia-Romagna {{it-proper noun|g=f}} :: Emilia-Romagna
+  Reggio nell'Emilia {it-proper noun} :: Reggio nell'Emilia (province)
+  Reggio nell'Emilia {it-proper noun} :: Reggio nell'Emilia (town)
 ===emoticon===
   emoticon (noun), m {inv} :: emoticon
 ===emphasised===
@@ -5815,8 +5815,8 @@ Index: EN EN->IT
   formula {f}, formule {pl} :: {{mathematics|chemistry}} formula
 ===four===
   quattro {m|f} (adjective) {inv} :: four
-  quattro {m} (noun) {inv}quattro {f} (noun){inv}{f|plural} :: four
-  quattro {m} (noun) {inv}quattro {f} (noun){inv}{f|plural} :: four o'clock (a.m. or p.m.)
+  quattro {m} (noun) {inv} {f} (noun){inv}{f|plural} :: four
+  quattro {m} (noun) {inv} {f} (noun){inv}{f|plural} :: four o'clock (a.m. or p.m.)
 ===fourteen===
   quattordici {m|f} (adjective) {inv} :: fourteen
   quattordici {m} (noun) {inv}{f|plural} :: fourteen
@@ -6004,7 +6004,7 @@ Index: EN EN->IT
   apollo {m}, apolli {pl} :: A man of great beauty
 ===Greek===
   lingua franca (noun) {f|inv} :: The Mediterranean Lingua Franca, a common language spoken in Mediterranean ports in centuries past (consisting of Italian mixed with French, Spanish, Arabic and some Greek words and used by sailors of different countries to communicate with one another).
-  mi (noun)mi (noun){m|f|inv} :: mu (Greek letter)
+  mi (noun) (noun){m|f|inv} :: mu (Greek letter)
   pi (noun) {m|inv} :: pi (Greek letter)
   san (noun) {m|f|inv} :: san (Greek letter)
   ni (noun) {m|f|inv} :: nu (Greek letter)
@@ -6017,10 +6017,10 @@ Index: EN EN->IT
   theta (noun) {m|f|inv} :: theta (Greek letter)
   iota (noun) {m|f|inv} :: iota (Greek letter)
   kappa (noun) {m|inv} :: kappa (Greek letter)
-  lambda (noun) {m|f|inv}lambda (noun){m|inv} :: lambda (Greek letter)
+  lambda (noun) {m|f|inv} (noun){m|inv} :: lambda (Greek letter)
   omicron (noun) {m|inv} :: omicron (Greek letter)
   rho (noun) {m|f|inv} :: rho (Greek letter)
-  sigma (noun) {m|f|inv}sigma (noun){m|inv} :: sigma (Greek letter)
+  sigma (noun) {m|f|inv} (noun){m|inv} :: sigma (Greek letter)
   tau (noun) {m|f|inv} :: tau (Greek letter)
   phi (noun) {m|inv} :: phi (Greek letter)
   chi (noun) {m|f|inv} :: chi (Greek letter)
@@ -6169,7 +6169,7 @@ Index: EN EN->IT
   boy {m} (noun), inv :: A bellboy (in a hotel).
 ===hours===
   ore :: {plural of|ora} (hours)
-  quattro {m} (noun) {inv}quattro {f} (noun){inv}{f|plural} :: Either of the quarter hours after midnight and noon
+  quattro {m} (noun) {inv} {f} (noun){inv}{f|plural} :: Either of the quarter hours after midnight and noon
 ===house===
   full {m} (noun) {inv} :: full house (in poker)
   casa {f}, case {pl} :: house
@@ -6408,7 +6408,7 @@ Index: EN EN->IT
   kayak (noun) {m|inv} :: kayaking
 ===key===
   {{wikipedia|Fa (nota)}}fa (noun) {m|inv} :: F (musical note or key)
-  mi (noun)mi (noun){m|f|inv} :: E (musical note or key)
+  mi (noun) (noun){m|f|inv} :: E (musical note or key)
   {{wikipedia|Sol (nota)}}sol {m|inv} (noun) :: G (musical note and key)
   re {m}, re {pl} :: D (musical note or key)
   {{wikipedia|Do (nota)}}do {m} (noun) :: C (the musical note or key)
@@ -6450,8 +6450,8 @@ Index: EN EN->IT
 ===lama===
   lama {m}, lami {pl} :: A lama (religious person)
 ===lambda===
-  lambda (noun) {m|f|inv}lambda (noun){m|inv} :: lambda (Greek letter)
-  lambda (noun) {m|f|inv}lambda (noun){m|inv} :: {anatomy} lambda
+  lambda (noun) {m|f|inv} (noun){m|inv} :: lambda (Greek letter)
+  lambda (noun) {m|f|inv} (noun){m|inv} :: {anatomy} lambda
 ===lamp===
   lampa {f}, lampe {pl} :: lamp
 ===land===
@@ -6517,7 +6517,7 @@ Index: EN EN->IT
 ===letter===
   nu {m|f} (noun) {inv} :: The name of the letter N
   i {f} or {m} {inv} :: I or i, the letter I or i
-  mi (noun)mi (noun){m|f|inv} :: mu (Greek letter)
+  mi (noun) (noun){m|f|inv} :: mu (Greek letter)
   pi (noun) {m|inv} :: pi (Greek letter)
   X {m|f|inv} (letter), lower case: x :: The twenty-fourth letter of the Latin alphabet, called ics in Italian.
   yacht {m} (noun) {inv} :: The letter Y in the Italian phonetic alphabet
@@ -6534,12 +6534,12 @@ Index: EN EN->IT
   iota (noun) {m|f|inv} :: iota (Greek letter)
   iota (noun) {m|f|inv} :: the letter j/J
   kappa (noun) {m|inv} :: kappa (Greek letter)
-  lambda (noun) {m|f|inv}lambda (noun){m|inv} :: lambda (Greek letter)
+  lambda (noun) {m|f|inv} (noun){m|inv} :: lambda (Greek letter)
   mu {m|f} (noun) {inv} :: The name of the letter M
   omicron (noun) {m|inv} :: omicron (Greek letter)
   rho (noun) {m|f|inv} :: rho (Greek letter)
   omega (noun) {m|f|inv} :: omega (letter; scientific symbol)
-  sigma (noun) {m|f|inv}sigma (noun){m|inv} :: sigma (Greek letter)
+  sigma (noun) {m|f|inv} (noun){m|inv} :: sigma (Greek letter)
   tau (noun) {m|f|inv} :: tau (Greek letter)
   phi (noun) {m|inv} :: phi (Greek letter)
   chi (noun) {m|f|inv} :: chi (Greek letter)
@@ -6644,7 +6644,7 @@ Index: EN EN->IT
   uno {m} ({f} una) :: Sono uno a cui piace alzarsi presto - I’m someone who likes getting up early or I’m a person who likes getting up early
   due {m} (noun) {inv}{f|plural} :: two o'clock (a.m. or p.m.)
   tre {m} (noun) {inv}{f|plural} :: three o'clock (a.m. or p.m.)
-  quattro {m} (noun) {inv}quattro {f} (noun){inv}{f|plural} :: four o'clock (a.m. or p.m.)
+  quattro {m} (noun) {inv} {f} (noun){inv}{f|plural} :: four o'clock (a.m. or p.m.)
   cinque {m} (noun) {inv}{f|plural} :: Five o'clock (a.m. or p.m.).
   sei {m} (noun) {inv}{f|plural} :: six o'clock (a.m. or p.m.)
   sette {m} (noun) {inv}{f|plural} :: seven o'clock (a.m. or p.m.)
@@ -6795,7 +6795,7 @@ Index: EN EN->IT
 ===metal===
   metal {m} (noun) {inv} :: {music} metal
 ===mi===
-  mi (noun)mi (noun){m|f|inv} :: {music} The third note, mi.
+  mi (noun) (noun){m|f|inv} :: {music} The third note, mi.
 ===miasma===
   miasma {m}, miasmi {pl} :: miasma
 ===Michael===
@@ -6809,7 +6809,7 @@ Index: EN EN->IT
   chat {m} (noun) {inv} :: chat (leaf chewed by people in North Africa and the Middle East)
 ===midnight===
   dodici {m} (noun) {inv}{f|plural} :: twelve o'clock (midday or midnight)
-  quattro {m} (noun) {inv}quattro {f} (noun){inv}{f|plural} :: Either of the quarter hours after midnight and noon
+  quattro {m} (noun) {inv} {f} (noun){inv}{f|plural} :: Either of the quarter hours after midnight and noon
 ===Milan===
   Milan {it-proper noun} :: The AC Milan football team
 ===Milano===
@@ -6892,7 +6892,7 @@ Index: EN EN->IT
 ===mozzarella===
   mozzarella {f}, mozzarelle {pl} :: mozzarella
 ===mu===
-  mi (noun)mi (noun){m|f|inv} :: mu (Greek letter)
+  mi (noun) (noun){m|f|inv} :: mu (Greek letter)
 ===much===
   tanto {{it-adj|tant}} :: much
   tanto :: much
@@ -6927,7 +6927,7 @@ Index: EN EN->IT
   musical {m} (noun) {inv} :: musical
   {{wikipedia|Fa (nota)}}fa (noun) {m|inv} :: {music} fa (musical note)
   {{wikipedia|Fa (nota)}}fa (noun) {m|inv} :: F (musical note or key)
-  mi (noun)mi (noun){m|f|inv} :: E (musical note or key)
+  mi (noun) (noun){m|f|inv} :: E (musical note or key)
   {{wikipedia|Sol (nota)}}sol {m|inv} (noun) :: sol (musical note, colloid)
   {{wikipedia|Sol (nota)}}sol {m|inv} (noun) :: G (musical note and key)
   re {m}, re {pl} :: re (musical note)
@@ -6975,8 +6975,8 @@ Index: EN EN->IT
 ===Neither===
   ni {it-adv} :: {informal} Neither yes nor no (a play on no and si)
 ===nell===
-  Reggio nell'Emilia {{it-proper noun|head=Reggio nell'Emilia}} :: Reggio nell'Emilia (province)
-  Reggio nell'Emilia {{it-proper noun|head=Reggio nell'Emilia}} :: Reggio nell'Emilia (town)
+  Reggio nell'Emilia {it-proper noun} :: Reggio nell'Emilia (province)
+  Reggio nell'Emilia {it-proper noun} :: Reggio nell'Emilia (town)
 ===neon===
   neon {m|inv} (noun) :: neon
 ===Nepal===
@@ -7021,7 +7021,7 @@ Index: EN EN->IT
 ===none===
   alcuno {{it-adj|alcun}} :: (in negative phrases) none
 ===noon===
-  quattro {m} (noun) {inv}quattro {f} (noun){inv}{f|plural} :: Either of the quarter hours after midnight and noon
+  quattro {m} (noun) {inv} {f} (noun){inv}{f|plural} :: Either of the quarter hours after midnight and noon
 ===nor===
   ni {it-adv} :: {informal} Neither yes nor no (a play on no and si)
 ===North===
@@ -7046,8 +7046,8 @@ Index: EN EN->IT
 ===note===
   {{wikipedia|Fa (nota)}}fa (noun) {m|inv} :: {music} fa (musical note)
   {{wikipedia|Fa (nota)}}fa (noun) {m|inv} :: F (musical note or key)
-  mi (noun)mi (noun){m|f|inv} :: {music} The third note, mi.
-  mi (noun)mi (noun){m|f|inv} :: E (musical note or key)
+  mi (noun) (noun){m|f|inv} :: {music} The third note, mi.
+  mi (noun) (noun){m|f|inv} :: E (musical note or key)
   {{wikipedia|Sol (nota)}}sol {m|inv} (noun) :: sol (musical note, colloid)
   {{wikipedia|Sol (nota)}}sol {m|inv} (noun) :: G (musical note and key)
   re {m}, re {pl} :: re (musical note)
@@ -7089,7 +7089,7 @@ Index: EN EN->IT
 ===o===
   due {m} (noun) {inv}{f|plural} :: two o'clock (a.m. or p.m.)
   tre {m} (noun) {inv}{f|plural} :: three o'clock (a.m. or p.m.)
-  quattro {m} (noun) {inv}quattro {f} (noun){inv}{f|plural} :: four o'clock (a.m. or p.m.)
+  quattro {m} (noun) {inv} {f} (noun){inv}{f|plural} :: four o'clock (a.m. or p.m.)
   cinque {m} (noun) {inv}{f|plural} :: Five o'clock (a.m. or p.m.).
   sei {m} (noun) {inv}{f|plural} :: six o'clock (a.m. or p.m.)
   sette {m} (noun) {inv}{f|plural} :: seven o'clock (a.m. or p.m.)
@@ -7202,7 +7202,7 @@ Index: EN EN->IT
 ===p===
   due {m} (noun) {inv}{f|plural} :: two o'clock (a.m. or p.m.)
   tre {m} (noun) {inv}{f|plural} :: three o'clock (a.m. or p.m.)
-  quattro {m} (noun) {inv}quattro {f} (noun){inv}{f|plural} :: four o'clock (a.m. or p.m.)
+  quattro {m} (noun) {inv} {f} (noun){inv}{f|plural} :: four o'clock (a.m. or p.m.)
   cinque {m} (noun) {inv}{f|plural} :: Five o'clock (a.m. or p.m.).
   sei {m} (noun) {inv}{f|plural} :: six o'clock (a.m. or p.m.)
   sette {m} (noun) {inv}{f|plural} :: seven o'clock (a.m. or p.m.)
@@ -7599,7 +7599,7 @@ Index: EN EN->IT
   Prato {{it-proper noun|g=f}} :: Prato (province)
   Ragusa {{it-proper noun|g=f}} :: Ragusa (province)
   Ravenna {{it-proper noun|g=f}} :: Ravenna (province)
-  Reggio nell'Emilia {{it-proper noun|head=Reggio nell'Emilia}} :: Reggio nell'Emilia (province)
+  Reggio nell'Emilia {it-proper noun} :: Reggio nell'Emilia (province)
   Rieti {{it-proper noun|g=f}} :: Rieti (province)
   Rimini {it-proper noun} :: Rimini (province)
   Rovigo {{it-proper noun|g=f}} :: Rovigo (province)
@@ -7650,7 +7650,7 @@ Index: EN EN->IT
 ===quarrel===
   lite {f}, liti {pl} :: A quarrel, row, altercation, fight
 ===quarter===
-  quattro {m} (noun) {inv}quattro {f} (noun){inv}{f|plural} :: Either of the quarter hours after midnight and noon
+  quattro {m} (noun) {inv} {f} (noun){inv}{f|plural} :: Either of the quarter hours after midnight and noon
 ===queen===
   regina {f}, regine {pl} :: queen (monarch, male homosexual)
   regina {f}, regine {pl} :: {chess} queen
@@ -7727,8 +7727,8 @@ Index: EN EN->IT
   vi :: (second-person reflexive plural): yourselves
     (voi) vi ricordate :: --
 ===Reggio===
-  Reggio nell'Emilia {{it-proper noun|head=Reggio nell'Emilia}} :: Reggio nell'Emilia (province)
-  Reggio nell'Emilia {{it-proper noun|head=Reggio nell'Emilia}} :: Reggio nell'Emilia (town)
+  Reggio nell'Emilia {it-proper noun} :: Reggio nell'Emilia (province)
+  Reggio nell'Emilia {it-proper noun} :: Reggio nell'Emilia (town)
 ===regime===
   regime {m}, regimi {pl} :: regime, régime
 ===régime===
@@ -7797,7 +7797,7 @@ Index: EN EN->IT
 ===role===
   RPG (noun) {m|inv} :: {gaming} RPG; role-playing game
 ===Romagna===
-  Emilia-Romagna {{it-proper noun|head=Emilia-Romagna|g=f}} :: Emilia-Romagna
+  Emilia-Romagna {{it-proper noun|g=f}} :: Emilia-Romagna
 ===Roman===
   zucchetto {m}, zucchetti {pl} :: small skullcap worn by Roman Catholic clergy; calotte
 ===Romania===
@@ -8041,9 +8041,9 @@ Index: EN EN->IT
 ===Sierra===
   Sierra Leone {f} :: Sierra Leone
 ===sigma===
-  sigma (noun) {m|f|inv}sigma (noun){m|inv} :: sigma (Greek letter)
+  sigma (noun) {m|f|inv} (noun){m|inv} :: sigma (Greek letter)
 ===sigmoid===
-  sigma (noun) {m|f|inv}sigma (noun){m|inv} :: sigmoid colon
+  sigma (noun) {m|f|inv} (noun){m|inv} :: sigmoid colon
 ===sign===
   indice {m}, indici {pl} :: indication, sign
 ===signals===
@@ -8472,7 +8472,7 @@ Index: EN EN->IT
   decompose :: third-person singular past historic of decomporre
   compose :: third-person singular past historic of comporre
   decade :: third-person singular indicative present of decadere
-  mi (noun)mi (noun){m|f|inv} :: {music} The third note, mi.
+  mi (noun) (noun){m|f|inv} :: {music} The third note, mi.
   ami :: first-, second- and third-person singular subjunctive present of amare
   ami :: third-person singular imperative of amare
   face (verb form) :: {archaic} third-person singular indicative present of fare.
@@ -8615,7 +8615,7 @@ Index: EN EN->IT
   Prato {{it-proper noun|g=f}} :: Prato (town)
   Ragusa {{it-proper noun|g=f}} :: Ragusa (town)
   Ravenna {{it-proper noun|g=f}} :: Ravenna (town)
-  Reggio nell'Emilia {{it-proper noun|head=Reggio nell'Emilia}} :: Reggio nell'Emilia (town)
+  Reggio nell'Emilia {it-proper noun} :: Reggio nell'Emilia (town)
   Rieti {{it-proper noun|g=f}} :: Rieti (town)
   Rimini {it-proper noun} :: Rimini (town)
   Rovigo {{it-proper noun|g=f}} :: Rovigo (town)

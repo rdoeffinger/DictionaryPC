@@ -151,8 +151,10 @@ public abstract class AbstractWiktionaryParser implements Parser {
       this.entryTypeName = oldEntryTypeName;
     }
     
-    public void dispatch(final String wikiText, final EntryTypeName entryTypeName) {
+    public String dispatch(final String wikiText, final EntryTypeName entryTypeName) {
+      final int start = builder.length();
       dispatch(wikiText, this.indexBuilder, entryTypeName);
+      return builder.substring(start);
     }
 
     @Override

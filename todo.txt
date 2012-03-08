@@ -1,8 +1,8 @@
-rebuild dictionaries with bug fix
-make zip files
-rebuild index (for comparison), check it in
 download latest wiktionaries
+split
+DictionaryBuilderTest
 rebuild dictionaries.
+zip -9
 rebuild Check
 publish.
 
