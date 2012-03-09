@@ -51,14 +51,14 @@ public final class EnTranslationToTranslationParser extends AbstractWiktionaryPa
         if (wikiTokenizer.isHeading()) {
           final String headerName = wikiTokenizer.headingWikiText();
           if (headerName.equals("Translations")) {
-            doTranslations(wikiTokenizer);
+            //doTranslations(wikiTokenizer);
           }
         }  else {
           // TODO: optimization: skip to next heading, or even skip to translations.
         }
       }
     }
-
+/*
     private void doTranslations(final WikiTokenizer wikiTokenizer) {
       String topLevelLang = null;
       boolean done = false;
@@ -175,5 +175,6 @@ public final class EnTranslationToTranslationParser extends AbstractWiktionaryPa
         incrementCount("WARNING: Duplicate pair" );
       }
     }
+    */
 
   }

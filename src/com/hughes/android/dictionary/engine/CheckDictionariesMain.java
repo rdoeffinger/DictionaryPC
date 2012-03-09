@@ -11,7 +11,7 @@ import com.hughes.android.dictionary.DictionaryInfo;
 public class CheckDictionariesMain {
   
   static final String BASE_URL = "http://quickdic-dictionary.googlecode.com/files/";
-  static final String VERSION_CODE = "v003";
+  static final String VERSION_CODE = "v004";
 
   public static void main(String[] args) throws IOException {
     final File dictDir = new File(DictionaryBuilderMain.OUTPUTS);
