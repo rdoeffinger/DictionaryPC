@@ -193,6 +193,7 @@ public final class EnToTranslationParser extends EnParser {
       // Good chance we'll actually file this one...
       final PairEntry pairEntry = new PairEntry(entrySource);
       final IndexedEntry indexedEntry = new IndexedEntry(pairEntry);
+      indexedEntry.isValid = true;
       
       final StringBuilder foreignText = new StringBuilder();
       appendAndIndexWikiCallback.reset(foreignText, indexedEntry);

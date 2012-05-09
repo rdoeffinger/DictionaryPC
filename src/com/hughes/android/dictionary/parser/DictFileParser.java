@@ -155,6 +155,7 @@ public class DictFileParser implements Parser {
       pairEntry.pairs.add(new Pair(subfields[0][i], subfields[1][i]));
     }
     final IndexedEntry entryData = new IndexedEntry(pairEntry);
+    entryData.isValid = true;
     
     for (int l = 0; l < 2; ++l) {
       // alreadyDone.clear();

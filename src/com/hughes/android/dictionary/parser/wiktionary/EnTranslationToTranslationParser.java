@@ -14,33 +14,44 @@
 
 package com.hughes.android.dictionary.parser.wiktionary;
 
+import java.util.Arrays;
+import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
 import java.util.regex.Pattern;
 
-import com.hughes.android.dictionary.engine.EntryTypeName;
 import com.hughes.android.dictionary.engine.IndexBuilder;
 import com.hughes.android.dictionary.engine.IndexedEntry;
 import com.hughes.android.dictionary.engine.PairEntry;
 import com.hughes.android.dictionary.engine.PairEntry.Pair;
 import com.hughes.android.dictionary.parser.WikiTokenizer;
+import com.hughes.android.dictionary.parser.wiktionary.EnFunctionCallbacks.TranslationCallback;
+import com.hughes.util.ListUtil;
 
 public final class EnTranslationToTranslationParser extends AbstractWiktionaryParser {
   
     final IndexBuilder[] indexBuilders;
-    final Pattern[] namePatterns;
+    final Pattern[] langCodePatterns;
 
+    PairEntry pairEntry = null;
+    IndexedEntry indexedEntry = null;
+    StringBuilder[] builders = null; 
+    
+  final Set<String> Ts = new LinkedHashSet<String>(Arrays.asList("t", "t+",
+      "t-", "tø", "apdx-t", "ttbc"));
+    
     public EnTranslationToTranslationParser(final IndexBuilder[] indexBuilders,
-        final Pattern[] namePatterns) {
+        final Pattern[] langCodePatterns) {
       this.indexBuilders = indexBuilders;
-      this.namePatterns = namePatterns;
+      this.langCodePatterns = langCodePatterns;
     }
     
     @Override
     void removeUselessArgs(Map<String, String> namedArgs) {
       namedArgs.keySet().removeAll(EnParser.USELESS_WIKI_ARGS);
     }
-
+    
     @Override
     void parseSection(String heading, String text) {
       if (EnParser.isIgnorableTitle(title)) {
@@ -48,133 +59,69 @@ public final class EnTranslationToTranslationParser extends AbstractWiktionaryPa
       }
       final WikiTokenizer wikiTokenizer = new WikiTokenizer(text);
       while (wikiTokenizer.nextToken() != null) {
-        if (wikiTokenizer.isHeading()) {
-          final String headerName = wikiTokenizer.headingWikiText();
-          if (headerName.equals("Translations")) {
-            //doTranslations(wikiTokenizer);
-          }
-        }  else {
-          // TODO: optimization: skip to next heading, or even skip to translations.
-        }
-      }
-    }
-/*
-    private void doTranslations(final WikiTokenizer wikiTokenizer) {
-      String topLevelLang = null;
-      boolean done = false;
-      StringBuilder[] builders;
-      while (wikiTokenizer.nextToken() != null) {
-        if (wikiTokenizer.isHeading()) {
-          wikiTokenizer.returnToLineStart();
-          return;
-        }
-        if (done) {
-          continue;
-        }
-        
-        // Check whether we care about this line:
         if (wikiTokenizer.isFunction()) {
-          final String functionName = wikiTokenizer.functionName();
-          final List<String> positionArgs = wikiTokenizer.functionPositionArgs();
-          
-          if (functionName.equals("trans-top")) {
-            if (wikiTokenizer.functionPositionArgs().size() >= 1) {
-              builders = new StringBuilder[] {new StringBuilder(), new StringBuilder()};
-            }
-          } else if (functionName.equals("trans-bottom")) {
-            builders = null;
-          } else if (functionName.equals("trans-mid")) {
-          } else if (functionName.equals("trans-see")) {
-          } else if (functionName.startsWith("picdic")) {
-          } else if (functionName.startsWith("checktrans")) {
-            done = true;
-          } else if (functionName.startsWith("ttbc")) {
-            wikiTokenizer.nextLine();
-            // TODO: would be great to handle ttbc
-            // TODO: Check this: done = true;
-          } else {
-            LOG.warning("Unexpected translation wikifunction: " + wikiTokenizer.token() + ", title=" + title);
-          }
-        } else if (wikiTokenizer.isListItem()) {
-          final String line = wikiTokenizer.listItemWikiText();
-          // This line could produce an output...
-
-          // First strip the language and check whether it matches.
-          // And hold onto it for sub-lines.
-          final int colonIndex = line.indexOf(":");
-          if (colonIndex == -1) {
-            continue;
-          }
-          
-          final String lang = trim(WikiTokenizer.toPlainText(line.substring(0, colonIndex)));
-          incrementCount("tCount:" + lang);
-          
-          
-          final boolean appendLang;
-          if (wikiTokenizer.listItemPrefix().length() == 1) {
-            topLevelLang = lang;
-            final boolean thisFind = langPattern.matcher(lang).find();
-            if (!thisFind) {
-              continue;
-            }
-            appendLang = !langPattern.matcher(lang).matches();
-          } else if (topLevelLang == null) {
-            continue;
-          } else {
-            // Two-level -- the only way we won't append is if this second level matches exactly.
-            if (!langPattern.matcher(lang).matches() && !langPattern.matcher(topLevelLang).find()) {
-              continue;
-            }
-            appendLang = !langPattern.matcher(lang).matches();
-          }
-          
-          String rest = line.substring(colonIndex + 1).trim();
-          if (rest.length() > 0) {
-            doTranslationLine(line, appendLang ? lang : null, rest);
+          final String name = wikiTokenizer.functionName();
+          if (Ts.contains(name)) {
+            onT(wikiTokenizer);
+          } else if (name.equals("trans-top")) {
+            startEntry(title, wikiTokenizer.token());
+          } else if (name.equals("trans-bottom")) {
+            finishEntry(title);
           }
         }
       }
     }
     
-    private void doTranslationLine(final String line, final String lang, final String pos, final String sense, final String rest) {
-      state = State.TRANSLATION_LINE;
-      // Good chance we'll actually file this one...
-      final PairEntry pairEntry = new PairEntry(entrySource);
-      final IndexedEntry indexedEntry = new IndexedEntry(pairEntry);
-      
-      final StringBuilder foreignText = new StringBuilder();
-      appendAndIndexWikiCallback.reset(foreignText, indexedEntry);
-      appendAndIndexWikiCallback.dispatch(rest, foreignIndexBuilder, EntryTypeName.WIKTIONARY_TRANSLATION_OTHER_TEXT);
-      
-      if (foreignText.length() == 0) {
-        LOG.warning("Empty foreignText: " + line);
-        incrementCount("WARNING: Empty foreignText" );
-        return;
-      }
-      
-      if (lang != null) {
-        foreignText.insert(0, String.format("(%s) ", lang));
-      }
-      
-      StringBuilder englishText = new StringBuilder();
-      
-      englishText.append(title);
-      if (sense != null) {
-        englishText.append(" (").append(sense).append(")");
-        enIndexBuilder.addEntryWithString(indexedEntry, sense, EntryTypeName.WIKTIONARY_TRANSLATION_SENSE);
-      }
-      if (pos != null) {
-        englishText.append(" (").append(pos.toLowerCase()).append(")");
-      }
-      enIndexBuilder.addEntryWithString(indexedEntry, title, EntryTypeName.WIKTIONARY_TITLE_MULTI);
-      
-      final Pair pair = new Pair(trim(englishText.toString()), trim(foreignText.toString()), swap);
-      pairEntry.pairs.add(pair);
-      if (!pairsAdded.add(pair.toString())) {
-        LOG.warning("Duplicate pair: " + pair.toString());
-        incrementCount("WARNING: Duplicate pair" );
+    final TranslationCallback<EnTranslationToTranslationParser> translationCallback = new TranslationCallback<EnTranslationToTranslationParser>();
+    
+  final AppendAndIndexWikiCallback<EnTranslationToTranslationParser> appendAndIndexWikiCallback = new AppendAndIndexWikiCallback<EnTranslationToTranslationParser>(
+      this);
+  {
+    for (final String t : Ts) {
+      appendAndIndexWikiCallback.functionCallbacks.put(t, translationCallback);
+    }
+  }
+    
+  private void onT(WikiTokenizer wikiTokenizer) {
+    final List<String> args = wikiTokenizer.functionPositionArgs();
+    final String langCode = ListUtil.get(args, 0);
+    for (int p = 0; p < 2; ++p) {
+      if (langCodePatterns[p].matcher(langCode).matches()) {
+        appendAndIndexWikiCallback.builder = builders[p];
+        appendAndIndexWikiCallback.indexBuilder = indexBuilders[p];
+        appendAndIndexWikiCallback.onFunction(wikiTokenizer,
+            wikiTokenizer.functionName(), wikiTokenizer.functionPositionArgs(),
+            wikiTokenizer.functionNamedArgs());
       }
     }
-    */
+  }
+
+    void startEntry(final String title, final String func) {
+      if (pairEntry != null) {
+        LOG.warning("startEntry() twice" + func);
+        finishEntry(title);
+      }
+      
+      pairEntry = new PairEntry(entrySource);
+      indexedEntry = new IndexedEntry(pairEntry);
+      builders = new StringBuilder[] { new StringBuilder(), new StringBuilder() }; 
+    }
+    
+    void finishEntry(final String title) {
+      if (pairEntry == null) {
+        LOG.warning("finalizeEntry() twice" + title);
+        return;
+      }
+      final String lang1 = builders[0].toString();
+      final String lang2 = builders[1].toString();
+      if (lang1.length() > 0 && lang2.length() > 0) {
+        pairEntry.pairs.add(new Pair(lang1, lang2));
+        indexedEntry.isValid = true;
+      }
+      
+      pairEntry = null;
+      indexedEntry = null;
+      builders = null;
+    }
 
   }

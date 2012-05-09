@@ -34,7 +34,7 @@ class EnFunctionCallbacks {
   static final Map<String,FunctionCallback<EnParser>> DEFAULT = new LinkedHashMap<String, FunctionCallback<EnParser>>();
   
   static {
-    FunctionCallback<EnParser> callback = new TranslationCallback();
+    FunctionCallback<EnParser> callback = new TranslationCallback<EnParser>();
     DEFAULT.put("t", callback);
     DEFAULT.put("t+", callback);
     DEFAULT.put("t-", callback);
@@ -111,11 +111,11 @@ class EnFunctionCallbacks {
 
   // ------------------------------------------------------------------
 
-  static final class TranslationCallback implements FunctionCallback<EnParser> {
+  static final class TranslationCallback<T extends AbstractWiktionaryParser> implements FunctionCallback<T> {
     @Override
     public boolean onWikiFunction(final WikiTokenizer wikiTokenizer, final String name, final List<String> args,
-        final Map<String, String> namedArgs, final EnParser parser,
-        final AppendAndIndexWikiCallback<EnParser> appendAndIndexWikiCallback) {
+        final Map<String, String> namedArgs, final T parser,
+        final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
 
       final String transliteration = namedArgs.remove("tr");
       final String alt = namedArgs.remove("alt");

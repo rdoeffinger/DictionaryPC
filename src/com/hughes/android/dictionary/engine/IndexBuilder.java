@@ -44,31 +44,41 @@ public class IndexBuilder {
   }
   
   public void build() {
-    final Set<IndexedEntry> tokenEntryDatas = new HashSet<IndexedEntry>();
+    final Set<IndexedEntry> tokenIndexedEntries = new HashSet<IndexedEntry>();
     final List<RowBase> rows = index.rows;
     index.mainTokenCount = 0;
     for (final TokenData tokenData : tokenToData.values()) {
-      tokenEntryDatas.clear();
+      tokenIndexedEntries.clear();
       final int indexIndex = index.sortedIndexEntries.size();
       final int startRow = rows.size();
       
-      final TokenRow tokenRow = new TokenRow(indexIndex, rows.size(), index, tokenData.hasMainEntry);
-      rows.add(tokenRow);
-      if (tokenRow.hasMainEntry) {
-        index.mainTokenCount++;
-      }
-//      System.out.println("Added TokenRow: " + rows.get(rows.size() - 1));
+      TokenRow tokenRow = null;
+      
       int numRows = 0;  // off by one--doesn't count the token row!
 //      System.out.println("TOKEN: " + tokenData.token);
-      for (final Map.Entry<EntryTypeName, List<IndexedEntry>> typeToEntry : tokenData.typeToEntries.entrySet()) {
-        for (final IndexedEntry entryData : typeToEntry.getValue()) {
-          if (entryData.index() == -1) {
-            entryData.addToDictionary(dictionaryBuilder.dictionary);
-            assert entryData.index() >= 0;
+      for (final Map.Entry<EntryTypeName, List<IndexedEntry>> typeToIndexedEntries : tokenData.typeToEntries.entrySet()) {
+        for (final IndexedEntry indexedEntry : typeToIndexedEntries.getValue()) {
+          
+          if (!indexedEntry.isValid) {
+            continue;
           }
-          if (tokenEntryDatas.add(entryData)) {
-            rows.add(new PairEntry.Row(entryData.index(), rows.size(), index));
-            ++entryData.entry.entrySource.numEntries;
+          
+          if (tokenRow == null) {
+//          System.out.println("Added TokenRow: " + rows.get(rows.size() - 1));
+            tokenRow = new TokenRow(indexIndex, rows.size(), index, tokenData.hasMainEntry);
+            rows.add(tokenRow);
+            if (tokenRow.hasMainEntry) {
+              index.mainTokenCount++;
+            }
+          }
+          
+          if (indexedEntry.index() == -1) {
+            indexedEntry.addToDictionary(dictionaryBuilder.dictionary);
+            assert indexedEntry.index() >= 0;
+          }
+          if (tokenIndexedEntries.add(indexedEntry)) {
+            rows.add(new PairEntry.Row(indexedEntry.index(), rows.size(), index));
+            ++indexedEntry.entry.entrySource.numEntries;
             ++numRows;
             
 //            System.out.print("  " + typeToEntry.getKey() + ": ");

@@ -214,6 +214,7 @@ public final class EnForeignParser extends EnParser {
       
       final PairEntry pairEntry = new PairEntry(entrySource);
       final IndexedEntry indexedEntry = new IndexedEntry(pairEntry);
+      indexedEntry.isValid = true;
 
       entryIsFormOfSomething = false;
       final StringBuilder englishBuilder = new StringBuilder();
