@@ -4,22 +4,22 @@ OLD_DIR=`pwd`
 DIR=`dirname $0`
 cd $DIR
 
+echo "Note that unzipping is slow."
+
+L=en
+echo "Downloading from: http://dumps.wikimedia.org/${L}wiktionary/"
+WIKI=${L}wiktionary-20120505-pages-articles.xml
+curl --remote-name http://dumps.wikimedia.org/${L}wiktionary/20120505/${WIKI}.bz2
+bunzip2 ${WIKI}.bz2
+mv ${WIKI} inputs/${L}wiktionary-pages-articles.xml
+
+exit
+
 echo "Downloading from: http://ftp.tu-chemnitz.de/pub/Local/urz/ding/de-en-devel/"
 CHEMNITZ=de-en.txt
 curl --remote-name http://ftp.tu-chemnitz.de/pub/Local/urz/ding/de-en-devel/${CHEMNITZ}.gz
 gunzip ${CHEMNITZ}.gz
 mv ${CHEMNITZ} inputs/
-
-echo "Note that unzipping is slow."
-
-L=en
-echo "Downloading from: http://dumps.wikimedia.org/${L}wiktionary/"
-WIKI=${L}wiktionary-20120220-pages-articles.xml
-curl --remote-name http://dumps.wikimedia.org/${L}wiktionary/20120220/${WIKI}.bz2
-bunzip2 ${WIKI}.bz2
-mv ${WIKI} inputs/${L}wiktionary-pages-articles.xml
-
-exit
 
 L=fr
 echo "Downloading from: http://dumps.wikimedia.org/${L}wiktionary/"

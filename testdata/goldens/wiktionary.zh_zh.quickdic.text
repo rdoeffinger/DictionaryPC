@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.chinese 637
+EntrySource: enwiktionary.chinese 631
 
 Index: ZH ZH->EN
 ===3===
@@ -71,8 +71,6 @@ Index: ZH ZH->EN
     Nǐ gànmá bù hē diǎn jiǔ? :: Why don't you have a drink [of alcohol]?
 ***倉庫***
   倉庫 {{cmn-noun|t|pin=cāngkù|pint=cang1ku4|tra=倉庫|sim=仓库|mw=座|rs=人08}} :: {{Intermediate Mandarin|skey=人08}} warehouse; storehouse
-***chan***
-  (Cantonese) chan (proper noun) :: Cantonese spelling of Chinese surname 陳 (simplified 陈)
 ***朝***
   朝 {{cmn-noun|ts|pin=cháo|pint=chao2|rs=月08}} :: the court; the government
   朝 {{cmn-noun|ts|pin=cháo|pint=chao2|rs=月08}} :: dynasty
@@ -213,6 +211,10 @@ Index: ZH ZH->EN
   花园 {{cmn-noun|s|pin=huāyuán|pint=hua1yuan2|tra=花園|sim=花园|rs=艸04}} :: {{Elementary Mandarin|skey=hua1yuan2}} garden
 ***花園***
   花園 {{cmn-noun|t|pin=huāyuán|pint=hua1yuan2|tra=花園|sim=花园|rs=艸04}} :: {{Elementary Mandarin|skey=艸04}} garden
+***火***
+  火 {{cmn-noun|pin=huǒ (huo3)|wg=huo<sup>3</sup>}} :: fire
+  火 {{cmn-noun|pin=huǒ (huo3)|wg=huo<sup>3</sup>}} :: anger
+  火 {{cmn-noun|pin=huǒ (huo3)|wg=huo<sup>3</sup>}} :: temper
 ***京都***
   京都 {{cmn-noun|ts|pin=jīngdū|pint=jing1du1|rs=亠06}} :: capital (most often refers to Beijing)
   京都 {{cmn-proper noun|ts|pin=Jīngdū|pint=jing1du1|rs=亠06}} :: Kyōto
@@ -799,7 +801,6 @@ Index: ZH ZH->EN
     nǐ xǐhuān zhōngguó wénxué ma? :: Do you like Chinese literature?
 ***中国***
   (Cantonese) 中国 {{yue-proper|s|jyut=zung1gwok3}} :: China
-  (Cantonese) 中国 {{yue-proper|s|jyut=zung1gwok3}} :: The country in the middle of the world
   中国 {{cmn-proper noun|s|pin=Zhōngguó|pint=zhong1guo2|tra=中國|sim=中国|rs=丨03}} :: China
     中国的首都是北京。 :: --
     Zhōngguó de shǒudū shì Běijīng :: The capital of China is Beijing.
@@ -821,10 +822,10 @@ Index: ZH ZH->EN
 ***中國人***
   中國人 {{cmn-noun|t|pin=Zhōnggúo rén|pint=zhong1guo2ren2|tra=中國人|sim=中国人|rs=丨03}} :: Chinese person; Chinese people
 ***中文***
+  (Cantonese) 中文 {{yue-proper|ts|jyut=zung1 man6, zung1 man2|rs=丨03}} :: The Chinese written language.
   中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese written languages using Chinese characters.
   中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese spoken language, including every dialects.
     nǐ shuō zhōngwén ma? (你說中文嗎？) "Do you speak Chinese?" :: --
-  (Cantonese) 中文 :: The Chinese written language.
 ***丶***
   丶 {{cmn-hanzi|pin=zhǔ (zhu3)|wg=chu<sup>3</sup>}} :: dot stroke, usually said as 點, 点, diǎn
 ***子宫***
@@ -877,6 +878,8 @@ Index: EN EN->ZH
 ===And===
   耶和华神对女人说，你作的是什么事呢？女人说，那蛇引诱我，我就吃了。 :: --
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
+===anger===
+  火 {{cmn-noun|pin=huǒ (huo3)|wg=huo<sup>3</sup>}} :: anger
 ===archaic===
   円 (yuán) :: archaic form of 圆
 ===are===
@@ -965,8 +968,6 @@ Index: EN EN->ZH
     All things were made by him; and without him was not any thing made that was made. :: --
 ===calligraphy===
   书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: calligraphy
-===Cantonese===
-  (Cantonese) chan (proper noun) :: Cantonese spelling of Chinese surname 陳 (simplified 陈)
 ===CantonPinyin===
   (Cantonese) 愛 {{yue-hanzi|jyut=oi3|y=ngoi3, oi3|sim=爱}} :: CantonPinyin: oi2
 ===capital===
@@ -1005,10 +1006,6 @@ Index: EN EN->ZH
   中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese written languages using Chinese characters.
 ===charge===
   书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: an ancient government post in charge of secretarial duties
-===陈===
-  (Cantonese) chan (proper noun) :: Cantonese spelling of Chinese surname 陳 (simplified 陈)
-===陳===
-  (Cantonese) chan (proper noun) :: Cantonese spelling of Chinese surname 陳 (simplified 陈)
 ===chess===
   車 {{cmn-noun|t|pin=jū|pint=ju1|tra=車|sim=车|rs=車00}} :: the black chariot/rook in Chinese chess
   车 {{cmn-noun|s|pin=jū|pint=ju1|tra=車 or 俥|sim=车|rs=车00}} :: chariot/rook in Chinese chess
@@ -1037,11 +1034,10 @@ Index: EN EN->ZH
   象 {{cmn-noun|ts|pin=xiàng|pint=xiang4|rs=豕05}} :: (Chinese Chess) elephant
   中国人 {{cmn-noun|s|pin=Zhōnggúo rén|pint=zhong1guo2ren2|tra=中國人|sim=中国人|rs=丨03}} :: Chinese person; Chinese people
   中國人 {{cmn-noun|t|pin=Zhōnggúo rén|pint=zhong1guo2ren2|tra=中國人|sim=中国人|rs=丨03}} :: Chinese person; Chinese people
+  (Cantonese) 中文 {{yue-proper|ts|jyut=zung1 man6, zung1 man2|rs=丨03}} :: The Chinese written language.
   中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese written languages using Chinese characters.
-  (Cantonese) 中文 :: The Chinese written language.
   零 {{cmn-hanzi|pin=líng (ling2), lián (lian2)|wg=ling<sup>2</sup>}} :: Chinese Numeral 零
     Next: 一 :: --
-  (Cantonese) chan (proper noun) :: Cantonese spelling of Chinese surname 陳 (simplified 陈)
   中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese spoken language, including every dialects.
     nǐ shuō zhōngwén ma? (你說中文嗎？) "Do you speak Chinese?" :: --
   中国 {{cmn-proper noun|s|pin=Zhōngguó|pint=zhong1guo2|tra=中國|sim=中国|rs=丨03}} :: China
@@ -1068,7 +1064,6 @@ Index: EN EN->ZH
   氵 {{cmn-hanzi|pin=shuǐ (shui3)|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
 ===country===
   国 {{cmn-noun|s|pin=guó|pint=guo2|sim=国|tra=國|rs=囗05}} :: country; nation
-  (Cantonese) 中国 {{yue-proper|s|jyut=zung1gwok3}} :: The country in the middle of the world
 ===court===
   朝 {{cmn-noun|ts|pin=cháo|pint=chao2|rs=月08}} :: the court; the government
 ===cube===
@@ -1201,6 +1196,8 @@ Index: EN EN->ZH
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===feel===
   安心 {{cmn-verb|ts|pin=ānxīn|pint=an1xin1|rs=宀03}} :: {{Elementary Mandarin|skey=宀03}} to be relieved; to feel at ease
+===fire===
+  火 {{cmn-noun|pin=huǒ (huo3)|wg=huo<sup>3</sup>}} :: fire
 ===five===
   五 {{cmn-car-num|ts|pin=wǔ|pint=wu3|rs=二02}} :: five
 ===fond===
@@ -1356,9 +1353,9 @@ Index: EN EN->ZH
   四 {{cmn-noun|ts|pin=sì|pint=si4|rs=囗02}} :: (musical note) la
 ===language===
   文 {{cmn-noun|ts|pin=wén|pint=wen2|rs=文00}} :: language, culture
+  (Cantonese) 中文 {{yue-proper|ts|jyut=zung1 man6, zung1 man2|rs=丨03}} :: The Chinese written language.
   中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese spoken language, including every dialects.
     nǐ shuō zhōngwén ma? (你說中文嗎？) "Do you speak Chinese?" :: --
-  (Cantonese) 中文 :: The Chinese written language.
   日本語 {{cmn-proper noun|t|pin=Rìběnyǔ|pint=ri4ben3yu3|tra=日本語|sim=日本语|rs=日00}} :: the Japanese language
 ===languages===
   中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese written languages using Chinese characters.
@@ -1466,7 +1463,6 @@ Index: EN EN->ZH
 ===metre===
   (Cantonese) 米 {{yue-noun|ts|tas=米}} :: metre
 ===middle===
-  (Cantonese) 中国 {{yue-proper|s|jyut=zung1gwok3}} :: The country in the middle of the world
   中 {{cmn-prep|ts|pin=zhōng|pint=zhong1|rs=丨03}} :: In the middle.
 ===mind===
   安心 {{cmn-verb|ts|pin=ānxīn|pint=an1xin1|rs=宀03}} :: {{Elementary Mandarin|skey=宀03}} to keep one's mind on something
@@ -1703,8 +1699,6 @@ Index: EN EN->ZH
   亅 {{cmn-hanzi|pin=jué (jue2)|wg=chüeh<sup>2</sup>}} :: A vertical line with a hook, usually read as 竖勾 (shùgōu).
 ===signific===
   氵 {{cmn-hanzi|pin=shuǐ (shui3)|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
-===simplified===
-  (Cantonese) chan (proper noun) :: Cantonese spelling of Chinese surname 陳 (simplified 陈)
 ===six===
   六 {{cmn-car-num|ts|pin=liù|pint=liu4|rs=八02}} :: six
 ===Six===
@@ -1715,8 +1709,6 @@ Index: EN EN->ZH
   (Cantonese) 蛇 {{yue-hanzi|jyut=|y=se4, yi4}} :: snake
 ===soybean===
   大豆 {{cmn-noun|ts|pin=dàdòu|pint=da4dou4|rs=大00}} :: soybean
-===spelling===
-  (Cantonese) chan (proper noun) :: Cantonese spelling of Chinese surname 陳 (simplified 陈)
 ===spirit===
   酒 {{cmn-noun|ts|pin=jiǔ|pint=jiu3|rs=酉03}} :: Wine, spirits, liquor, alcoholic beverage
     你幹嗎不喝點酒? (trad.) :: --
@@ -1770,7 +1762,6 @@ Index: EN EN->ZH
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===surname===
   丁 {{cmn-noun|ts|pin=dīng|pint=ding1|rs= 一01}} :: a surname
-  (Cantonese) chan (proper noun) :: Cantonese spelling of Chinese surname 陳 (simplified 陈)
 ===t===
   NB {{cmn-adj|p|pint=nb}} :: {{slang|skey=nb}} fucking awesome
     他小說寫的太NB了。 (trad.) :: --
@@ -1793,6 +1784,8 @@ Index: EN EN->ZH
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===Tang===
   二 {{cmn-hanzi|pin=èr (er4)|wg=erh<sup>4</sup>}} :: Tang: nji3
+===temper===
+  火 {{cmn-noun|pin=huǒ (huo3)|wg=huo<sup>3</sup>}} :: temper
 ===ten===
   十 {{cmn-car-num|ts|pin=shí|pint=shi2|rs=十00}} :: ten
   万 {{cmn-num|tra=萬|pin=wàn|pint=wan4|rs=一02}} :: ten thousand
@@ -1924,7 +1917,6 @@ Index: EN EN->ZH
 ===world===
   人間 {{cmn-noun|t|pin=rénjīan|pint=ren2jian1|tra=人間|sim=人间|rs=人00}} :: man's world
   人間 {{cmn-noun|t|pin=rénjīan|pint=ren2jian1|tra=人間|sim=人间|rs=人00}} :: the world of mortals
-  (Cantonese) 中国 {{yue-proper|s|jyut=zung1gwok3}} :: The country in the middle of the world
 ===writes===
   NB {{cmn-adj|p|pint=nb}} :: {{slang|skey=nb}} fucking awesome
     他小說寫的太NB了。 (trad.) :: --
@@ -1935,8 +1927,8 @@ Index: EN EN->ZH
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===written===
   书 {{cmn-hanzi|tra=書|pin=qián (qian2), shū (shu1)|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}} :: form of a written or printed character;script
+  (Cantonese) 中文 {{yue-proper|ts|jyut=zung1 man6, zung1 man2|rs=丨03}} :: The Chinese written language.
   中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese written languages using Chinese characters.
-  (Cantonese) 中文 :: The Chinese written language.
 ===Wubi===
   一 {{cmn-car-num|ts|pin=yī|pint=yi1|rs=一00}} :: Wubi Xing: ggll
   一 {{cmn-car-num|ts|pin=yī|pint=yi1|rs=一00}} :: Wubi Hua: 1

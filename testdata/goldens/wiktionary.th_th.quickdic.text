@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.thai 4931
+EntrySource: enwiktionary.thai 4939
 
 Index: TH TH->EN
 ***ฯลฯ***
@@ -103,6 +103,10 @@ Index: TH TH->EN
   บ้า,คลั่งใคล้ (adjective) :: crazy
 ===baalii===
   ภาษาบาลี (paasăa baalii) (proper noun) :: The Pali language.
+===bâan===
+  บ้าน (bâan) {th-noun} :: house, home
+  บ้าน (bâan) {th-noun} :: habitation
+  บ้าน (bâan) {th-noun} :: village
 ===baang===
   บางกอก (baang-gòk) (proper noun) :: Bangkok
 ===bàat===
@@ -110,8 +114,9 @@ Index: TH TH->EN
 ===bad===
   บัตร (bad) (noun) :: card
 ***บ้าน***
-  บ้าน (bâan) :: house, home
-  บ้าน (bâan) :: habitation
+  บ้าน (bâan) {th-noun} :: house, home
+  บ้าน (bâan) {th-noun} :: habitation
+  บ้าน (bâan) {th-noun} :: village
 ===bang===
   บัง (bang) (verb) :: to conceal
   บังคับ (bang kab) (verb) :: to force
@@ -164,9 +169,9 @@ Index: TH TH->EN
 ===boot===
   บุตร (boot) (noun) :: A son.
 ===bowling===
-  โบว์ลิ่ง (bowling) (noun) :: bowling
+  โบว์ลิ่ง (bowling) {th-noun} :: bowling
 ***โบว์ลิ่ง***
-  โบว์ลิ่ง (bowling) (noun) :: bowling
+  โบว์ลิ่ง (bowling) {th-noun} :: bowling
 ===bpang===
   ขนมปัง (kànŏm bpang) (noun) :: bread
 ===bpen===
@@ -766,7 +771,7 @@ Index: TH TH->EN
 ***เหงื่อ***
   เหงื่อ (ngèua) {th-noun} :: sweat
 ***เหนื่อย***
-  เหนื่อย (ngèuay) (adjective) :: weary.
+  เหนื่อย (nèuuay) (adjective) :: weary.
 ===hèt===
   เห็ด (hèt) (noun) :: mushroom
 ===hēt===
@@ -1823,6 +1828,7 @@ Index: TH TH->EN
 ***ลง***
   ลง (long) (verb) :: To lower.
   ลง (long) (verb) :: To come down.
+  ลง (long) (verb) :: To disembark from (a bus, a boat, etc.).
 ===lob===
   ลบ (lob) (verb) :: To eschew.
 ===lod===
@@ -1851,6 +1857,7 @@ Index: TH TH->EN
   หลง (long) (verb) :: To lose one's way.
   ลง (long) (verb) :: To lower.
   ลง (long) (verb) :: To come down.
+  ลง (long) (verb) :: To disembark from (a bus, a boat, etc.).
   ตกลง (thok long) (verb) :: To agree.
 ===loob===
   ลูบ (loob) (verb) :: To grope.
@@ -2277,6 +2284,8 @@ Index: TH TH->EN
   หนึ่ง (nèung) (number) :: {cardinal} 1 (Thai numeral: ๑)
   หนึ่ง (nèung) (noun) :: one
   หนึ่ง (nèung) (adjective) :: one
+===nèuuay===
+  เหนื่อย (nèuuay) (adjective) :: weary.
 ***ง***
   ง (ng; ngaw nguu) :: The seventh letter of the Thai alphabet.
 ===ngaan===
@@ -2301,8 +2310,6 @@ Index: TH TH->EN
   การเงิน (gaan ngern) (noun) :: monetary matters
 ===ngèua===
   เหงื่อ (ngèua) {th-noun} :: sweat
-===ngèuay===
-  เหนื่อย (ngèuay) (adjective) :: weary.
 ===ngeuk===
   เงือก (ngeuk) (noun) :: mermaid
 ***เงือก***
@@ -2728,9 +2735,9 @@ Index: TH TH->EN
 ***เพศชาย***
   เพศชาย (ped-chai) (noun) :: male
 ===phêuan===
-  เพื่อน (phêuan) (noun) :: A friend.
+  เพื่อน (phêuan) {th-noun} :: friend
 ***เพื่อน***
-  เพื่อน (phêuan) (noun) :: A friend.
+  เพื่อน (phêuan) {th-noun} :: friend
   เพื่อน (phuean) (pronoun) :: he, she, they
 ***เพื่อว่า***
   เพื่อว่า (puea wā) (conjunction) :: so
@@ -3373,6 +3380,7 @@ Index: TH TH->EN
   สิบสาม (sìp săam) (number) :: {cardinal} 13 (Thai numerals: ๑๓)
   สิบสาม (sìp săam) (noun) :: thirteen
 ===sàat===
+  ศาสตร์ (sàat) {th-noun} :: science, -ology
   นิรุกติศาสตร์ (níróoktì sàat) (noun) :: etymology
   ศาสนา (sàat-sà-naa) {th-noun} :: religion
 ===sab===
@@ -3462,7 +3470,7 @@ Index: TH TH->EN
 ***ศาสนา***
   ศาสนา (sàat-sà-naa) {th-noun} :: religion
 ***ศาสตร์***
-  ศาสตร์ (sàat) :: science, -ology
+  ศาสตร์ (sàat) {th-noun} :: science, -ology
 ===satri===
   สตรี (satri) (noun) :: woman
 ***ศัตรู***
@@ -4446,10 +4454,6 @@ Index: TH TH->EN
   วิหาร (wíhăan) :: a meeting room or prayer room containing religious images in a Buddhist monastery
 ***วิหก***
   วิหก (wi hok) (noun) :: bird
-***วิหค***
-  วิหค (wihok) (noun) :: bird
-===wihok===
-  วิหค (wihok) (noun) :: bird
 ***ไวน์***
   ไวน์ (wai) (noun) :: wine
 ===winaad===
@@ -5167,7 +5171,6 @@ Index: EN EN->TH
 ===bird===
   นก (nok) (noun) :: bird, fowl
   วิหก (wi hok) (noun) :: bird
-  วิหค (wihok) (noun) :: bird
   กา (kaa) (noun) :: crow (bird)
 ===birthday===
   สุขสันต์วันเกิด (sòok-săn wan gèrt) :: happy birthday
@@ -5200,6 +5203,7 @@ Index: EN EN->TH
 ===boat===
   เป็ด (bpèt) (noun) :: duck-shaped boat
   เรือ (reua) (noun) :: boat
+  ลง (long) (verb) :: To disembark from (a bus, a boat, etc.).
 ===body===
   กาย (kāy) (noun) :: body
 ===boil===
@@ -5220,7 +5224,7 @@ Index: EN EN->TH
 ===bow===
   ธนู (tha nū) (noun) :: bow
 ===bowling===
-  โบว์ลิ่ง (bowling) (noun) :: bowling
+  โบว์ลิ่ง (bowling) {th-noun} :: bowling
 ===boy===
   เด็ก (dek) (noun) :: boy
 ===Brahma===
@@ -5277,6 +5281,8 @@ Index: EN EN->TH
   เผา (pao) (verb) :: To burn.
 ===bury===
   ฝัง (fang) (verb) :: to bury
+===bus===
+  ลง (long) (verb) :: To disembark from (a bus, a boat, etc.).
 ===business===
   กงกาง (gong gaang) (noun) :: occupation, business, affair
   ธุรกิจ (thurakid) (noun) :: business
@@ -5633,6 +5639,8 @@ Index: EN EN->TH
   คุย (kuy) (verb) :: To discuss.
 ===disease===
   โรค (rok) (noun) :: disease
+===disembark===
+  ลง (long) (verb) :: To disembark from (a bus, a boat, etc.).
 ===disk===
   จักร (jak) (noun) :: wheel, circle, disk, discus
 ===disobey===
@@ -5969,7 +5977,7 @@ Index: EN EN->TH
 ===friend===
   สหาย (sa hāy) (noun) :: friend
   มิตร (mid) (noun) :: friend
-  เพื่อน (phêuan) (noun) :: A friend.
+  เพื่อน (phêuan) {th-noun} :: friend
 ===frog===
   กบ (gòp) (noun) :: frog
 ===fruit===
@@ -6104,7 +6112,7 @@ Index: EN EN->TH
 ===guy===
   คน (khon) (noun) :: people, person, guy, man, human being
 ===habitation===
-  บ้าน (bâan) :: habitation
+  บ้าน (bâan) {th-noun} :: habitation
 ===hair===
   ผม (/pʰom˨˩˧/) (noun) :: hair
 ===hammer===
@@ -6190,7 +6198,7 @@ Index: EN EN->TH
   อม (om) (verb) :: To hold something in one's mouth.
   ถือ (thūe) (verb) :: To hold.
 ===home===
-  บ้าน (bâan) :: house, home
+  บ้าน (bâan) {th-noun} :: house, home
 ===homeland===
   ม้ง (mong) (noun) :: Hmong, Miao, Meo (an Asian ethnic group whose homeland is in the mountainous regions around Guizhou, southern China, and northern Vietnam, Laos, and Thailand).
   แม้ว (máew) (noun) :: Miao, Hmong, Meo (an Asian ethnic group whose homeland is in the mountainous regions around Guizhou, southern China, and northern Vietnam, Laos, and Thailand).
@@ -6212,7 +6220,7 @@ Index: EN EN->TH
   ร้อน (ron) (adjective) :: hot
   แกงเผ็ด (gaeng pèt) :: red curry, hot curry
 ===house===
-  บ้าน (bâan) :: house, home
+  บ้าน (bâan) {th-noun} :: house, home
 ===Hua===
   พระบาทสมเด็จพระเจ้าอยู่หัว (prábàat sŏmdèt prá jâo yù hŭa) (noun) :: Phrabat Somdej Phra Chao Yu Hua (a title of the King of Thailand)
 ===hug===
@@ -6977,7 +6985,7 @@ Index: EN EN->TH
 ===old===
   แก่ (kàe) (adjective) :: old
 ===ology===
-  ศาสตร์ (sàat) :: science, -ology
+  ศาสตร์ (sàat) {th-noun} :: science, -ology
 ===once===
   ใหม่ (mài) :: again, once more
 ===only===
@@ -7435,7 +7443,7 @@ Index: EN EN->TH
   ครู (kroo) (noun) :: teacher, schoolteacher, instructor
     ครูคนนี้ให้การบ้านเยอะจัง (kroo kon née hâi gaanbâan yúh jang) :: This teacher gives a lot of homework.
 ===science===
-  ศาสตร์ (sàat) :: science, -ology
+  ศาสตร์ (sàat) {th-noun} :: science, -ology
 ===Scorpio===
   ราศีพิจิก (rāsī phijik) (proper noun) :: Scorpio
 ===scorpion===
@@ -8170,6 +8178,8 @@ Index: EN EN->TH
 ===Vietnamese===
   ภาษาญวน (paasăa yuan; paasăa ñuan) (proper noun) :: The Vietnamese language.
   ภาษาเวียดนาม (paasăa wiaadnnaam) (proper noun) :: The Vietnamese language.
+===village===
+  บ้าน (bâan) {th-noun} :: village
 ===vinegar===
   น้ำส้มพริกดอง (náam sôm prík dong) (noun) :: vinegar with chilli sauce
 ===virginity===
@@ -8225,7 +8235,7 @@ Index: EN EN->TH
 ===wealth===
   ทรัพย์ (sab) (noun) :: wealth.
 ===weary===
-  เหนื่อย (ngèuay) (adjective) :: weary.
+  เหนื่อย (nèuuay) (adjective) :: weary.
 ===wedding===
   วิวาห์ (vivaa) (noun) :: A wedding.
 ===Wednesday===

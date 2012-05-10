@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.english 3468
+EntrySource: enwiktionary.english 3497
 
 Index: IT IT->EN
 ===15===
@@ -113,6 +113,9 @@ Index: IT IT->EN
   aborto {m} :: abortion (miscarriage) (noun)
   aborto {m} :: abortion (induced abortion) (noun)
   aborto {m} :: abortion (act of inducing abortion) (noun)
+***accademicamente***
+  accademicamente :: academically (in an academic style or way) (adverb)
+  accademicamente :: academically (from an academic perspective) (adverb)
 ***accademico***
   accademico {m} :: academian (member of an academy) (noun)
 ***acceso***
@@ -158,8 +161,6 @@ Index: IT IT->EN
   acido {m} :: acid (a sour substance) (noun)
   acido {m} :: acid (in chemistry) (noun)
   acido {m}, acido lisergico {m} :: acid (LSD) (noun)
-***acronimo***
-  acronimo {m} :: acronym (word formed by initial letters) (noun)
 ===actually===
   (periodo di) due settimane ; quindicina {f} (actually 15 days) :: fortnight (period of two weeks) (noun)
 ***addestrare***
@@ -190,6 +191,7 @@ Index: IT IT->EN
   aliseo {m} :: trade wind (steady wind) (noun)
 ===all===
   all'indietro :: aback (backwards) (adverb)
+  all'estero :: abroad (in foreign countries) (adverb)
 ***allenare***
   addestrare, allenare, acclimatare :: season (to make fit for any use by time or habit) (verb)
 ===also===
@@ -204,8 +206,6 @@ Index: IT IT->EN
   ammontare :: number (to total; to amount to) (verb)
 ===amo===
   ti amo (informal singular), vi amo (plural or formal) :: I love you (affirmation of romantic feeling) (phrase)
-===and===
-  dispari m, f and plural :: odd (not divisible by two) (adjective)
 ***andare***
   andare, venire :: be (elliptical form of "be here", or similar) (verb)
 ***annaffiatoio***
@@ -272,7 +272,7 @@ Index: IT IT->EN
   assolutamente :: absolutely (in an absolute manner) (adverb)
   assolutamente :: absolutely (yes; certainly) (interjection)
 ***assolutezza***
-  assolutezza {f} :: absoluteness (quality of being absolute) (noun)
+  assolutezza {f} :: absoluteness (the fact of being without qualifications; unconditionality) (noun)
 ***assolvere***
   assolvere :: absolve (set free) (verb)
   assolvere :: absolve (pronounce free or give absolution) (verb)
@@ -324,6 +324,8 @@ Index: IT IT->EN
   badessa :: abbess (female superior of a nunnery) (noun)
 ***baggianata***
   balla {f}, fandonia {f}, scemenza {f}, fola {f}, baggianata {f} :: nonsense (untrue statement) (noun)
+***baghetta***
+  baghetta {f} :: clock (pattern near heel of a sock or stocking) (noun)
 ***baleno***
   attimo {m}, baleno {m} :: jiffy (short length of time) (noun)
 ***balla***
@@ -368,11 +370,11 @@ Index: IT IT->EN
 ***botta***
   botta, colpo forte, tonfo, martellio :: pound (hard blow) (noun)
 ***brusca***
-  brusco, brusca :: abrupt (broken off or very steep) (adjective)
-  brusco, brusca :: abrupt (sudden or hasty) (adjective)
+  brusco, brusca :: abrupt (extremely steep) (adjective)
+  brusco, brusca :: abrupt (without notice) (adjective)
 ***brusco***
-  brusco, brusca :: abrupt (broken off or very steep) (adjective)
-  brusco, brusca :: abrupt (sudden or hasty) (adjective)
+  brusco, brusca :: abrupt (extremely steep) (adjective)
+  brusco, brusca :: abrupt (without notice) (adjective)
 ===C===
   d.C. (dopo Cristo) :: AD (anno Domini) ({{initialism}})
   a.C. (avanti Cristo) :: BC (before Christ) ({{initialism}})
@@ -596,7 +598,7 @@ Index: IT IT->EN
 ***disossare***
   disossare :: bone (to remove bones) (verb)
 ===dispari===
-  dispari m, f and plural :: odd (not divisible by two) (adjective)
+  dispari :: odd (not divisible by two) (adjective)
 ***distaccare***
   distaccare, comandare :: second (temporary transfer of employment) (verb)
 ***dizionario***
@@ -632,7 +634,9 @@ Index: IT IT->EN
 ***elefante***
   elefante {m} :: elephant (mammal) (noun)
 ***eleggere***
-  scegliere, eleggere :: name (mention, specify, choose) (verb)
+  scegliere, eleggere :: name (to mention, specify) (verb)
+***elogio***
+  elogio {m} :: accolade (An expression of approval; praise) (noun)
 ***emblema***
   avatar {m}, emblema, simbolo :: avatar (A digital representation of a person or being) (noun)
 ***enciclopedia***
@@ -664,13 +668,13 @@ Index: IT IT->EN
   essere uguale :: be (used to indicate that the values on either side of an equation are the same) (verb)
 ***estate***
   estate {f} :: summer (hottest season) (noun)
+===estero===
+  all'estero :: abroad (in foreign countries) (adverb)
 ***etimologia***
   etimologia {f} :: etymology (study of the historical development of languages, particularly of individual words) (noun)
   etimologia {f} :: etymology (account of the origin and historical development of a word) (noun)
 ***extraterrestre***
   extraterrestre, alieno :: alien (life form of non-Earth origin) (noun)
-===f===
-  dispari m, f and plural :: odd (not divisible by two) (adjective)
 ***Fabiano***
   Fabiano :: Fabian (male given name) (proper noun)
 ***fallire***
@@ -726,8 +730,6 @@ Index: IT IT->EN
   fonte {f}, sorgente {f} :: spring (water source) (noun)
 ***forestiero***
   straniero {m}, forestiero {m} :: alien (foreigner) (noun)
-***formarsi***
-  nascere, generarsi, formarsi :: spring (start to exist) (verb)
 ===forse===
   forse, può essere che + subjunctive; He may be lying — Forse sta mentendo, Può essere che stia mentendo :: may (possibly, but not certainly) (verb)
 ===Forse===
@@ -750,15 +752,13 @@ Index: IT IT->EN
 ***furgone***
   furgone {m} :: van (A (covered) vehicle used for carrying goods) (noun)
 ***futurismo***
-  futurismo :: futurism () (noun)
+  futurismo :: futurism (noun)
 ***gaelico***
   irlandese {m}, gaelico {m} :: Irish (the language) (proper noun)
 ***gatta***
   gatto {m}, gatta {f}, micio {m}, micia {f} :: cat (domestic species) (noun)
 ***gatto***
   gatto {m}, gatta {f}, micio {m}, micia {f} :: cat (domestic species) (noun)
-***generarsi***
-  nascere, generarsi, formarsi :: spring (start to exist) (verb)
 ***gennaio***
   gennaio {m} :: January (first month of the Gregorian calendar) (proper noun)
 ***Giappone***
@@ -813,7 +813,7 @@ Index: IT IT->EN
   il {m}, lo {m}, la {f}; i {m|p}, gli {m|p}, le {f|p} :: the (with a superlative) (article)
   il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used with the name of a member of a class to refer to all things in that class) (article)
 ***identificare***
-  identificare :: name (publicly implicate) (verb)
+  identificare :: name (to publicly implicate) (verb)
 ===idrico===
   bacino idrico :: pound (part of canal) (noun)
 ***il***
@@ -950,8 +950,6 @@ Index: IT IT->EN
   lupo {m} :: wolf (animal) (noun)
 ===lying===
   forse, può essere che + subjunctive; He may be lying — Forse sta mentendo, Può essere che stia mentendo :: may (possibly, but not certainly) (verb)
-===m===
-  dispari m, f and plural :: odd (not divisible by two) (adjective)
 ===mantenersi===
   essere aggiornato, stare al passo (con i tempi, con le notizie), mantenersi al corrente :: abreast (informed) (adverb)
 ***marca***
@@ -1039,8 +1037,6 @@ Index: IT IT->EN
   musicista {m|f}, musico {m} :: musician (person who performs or writes music) (noun)
 ***musico***
   musicista {m|f}, musico {m} :: musician (person who performs or writes music) (noun)
-***nascere***
-  nascere, generarsi, formarsi :: spring (start to exist) (verb)
 ***nascita***
   nascita {f}, parto {m} :: birth (process of childbearing) (noun)
   nascita {f} :: birth (beginning or start; a point of origin) (noun)
@@ -1054,14 +1050,14 @@ Index: IT IT->EN
 ***negro***
   negro :: nigger (negro person) (noun)
 ***nomare***
-  nomare :: name (give a name to) (verb)
+  nomare :: name (to give a name to) (verb)
 ***nome***
   sostantivo {m}, nome {m} :: noun (grammatical category) (noun)
   nome {m} :: name (word or phrase indicating a particular person, place, class or thing) (noun)
   nome {m} :: first name (name chosen by parents) (noun)
   nome proprio :: proper noun (The name of a particular person, place, organization or other individual entity) (noun)
 ***nominare***
-  nominare :: name (designate for a role) (verb)
+  nominare :: name (to designate for a role) (verb)
 ===notizie===
   essere aggiornato, stare al passo (con i tempi, con le notizie), mantenersi al corrente :: abreast (informed) (adverb)
 ***nove***
@@ -1110,6 +1106,8 @@ Index: IT IT->EN
   due {m} or {p} :: two (digit or figure) (noun)
 ***ora***
   ora {f} :: hour (Time period of sixty minutes) (noun)
+***ordinazione***
+  ordinazione {f} :: accolade (A salutation marking the conferring of knighthood) (noun)
 ***oritteropo***
   oritteropo {m} :: aardvark (mammal) (noun)
 ***orologio***
@@ -1201,7 +1199,6 @@ Index: IT IT->EN
 ***plinto***
   plinto {m} :: die (cubical part of a pedestral) (noun)
 ===plural===
-  dispari m, f and plural :: odd (not divisible by two) (adjective)
   osso {m} (plural: ossa {f}) :: bone (component of a skeleton) (noun)
 ***plurale***
   plurale :: plural (more than one) (adjective)
@@ -1318,6 +1315,8 @@ Index: IT IT->EN
   canile {m}, recinto :: pound (place for the detention of stray animals) (noun)
 ***retrocedere***
   retrocedere :: resile (to spring back; rebound) (verb)
+***riconoscimento***
+  riconoscimento {m} :: accolade (A special acknowledgment; an award) (noun)
 ***ridicolaggine***
   sciocchezza {f}, senza senso, priva di significato, ridicolaggine {f} :: nonsense (meaningless words) (noun)
 ***ridurre***
@@ -1349,7 +1348,7 @@ Index: IT IT->EN
 ===romantic===
   incontro {m}, appuntamento {m} (the latter also as romantic meeting) :: date (pre-arranged social meeting) (noun)
 ***rosolare***
-  rosolare :: brown (to cook until brown)
+  rosolare :: brown (to cook until brown) (verb)
 ***rotaia***
   binario {m}, rotaia {f}, strada ferrata {f}, ferrovia {f} :: railway (track, consisting of parallel rails) (noun)
 ***rustico***
@@ -1372,7 +1371,7 @@ Index: IT IT->EN
 ***scatoletta***
   scatoletta {f} :: can (a tin-plate canister) (noun)
 ***scegliere***
-  scegliere, eleggere :: name (mention, specify, choose) (verb)
+  scegliere, eleggere :: name (to mention, specify) (verb)
 ===scelta===
   seconda scelta {f} :: second (manufactured item that fails to meet quality control standards) (noun)
 ***scemenza***
@@ -1468,7 +1467,7 @@ Index: IT IT->EN
 ===spazio===
   spazio cosmico {m}, cosmo {m} :: outer space (region) (noun)
 ***specificare***
-  specificare :: name (identify, define, specify) (verb)
+  specificare :: name (to identify, define, specify) (verb)
 ***spia***
   spia {f}, delatore {m}, pentito {m}, traditore {m} :: grass (informer) (noun)
 ***sta***
@@ -1602,10 +1601,12 @@ Index: IT IT->EN
   uno; nu (Pugliese) :: one (cardinal number 1) (cardinal number)
   uno {m} :: one (digit or figure) (noun)
 ***uomo***
-  uomo {m} :: man (adult male human) (noun)
   uomo :: man (human) (noun)
+  uomo {m} :: man (adult male human) (noun)
 ===use===
   use subjunctive of potere :: may (subjunctive) (verb)
+***vabbè***
+  vabbè :: whatever (indicating the matter is not worthy of further discussion) (interjection)
 ===velocità===
   velocità della luce {f} :: lightspeed (the speed of light) (noun)
 ***venerdì***
@@ -1885,9 +1886,11 @@ Index: EN EN->IT
   accorciare, abbreviare, ridurre :: abridge (to make shorter) (verb)
   abbreviare :: abridge (to shorten or contract by using fewer words) (verb)
   privare, limitare :: abridge (to deprive) (verb)
+***abroad***
+  all'estero :: abroad (in foreign countries) (adverb)
 ***abrupt***
-  brusco, brusca :: abrupt (broken off or very steep) (adjective)
-  brusco, brusca :: abrupt (sudden or hasty) (adjective)
+  brusco, brusca :: abrupt (extremely steep) (adjective)
+  brusco, brusca :: abrupt (without notice) (adjective)
   discontinuo, discontinua, sconnesso, sconnessa :: abrupt (having sudden transitions from one state to next) (adjective)
 ***abruptly***
   improvvisamente :: abruptly (precipitously) (adverb)
@@ -1902,12 +1905,11 @@ Index: EN EN->IT
   svanito :: absent-minded (absent in mind) (adjective)
 ===absolute===
   assolutamente :: absolutely (in an absolute manner) (adverb)
-  assolutezza {f} :: absoluteness (quality of being absolute) (noun)
 ***absolutely***
   assolutamente :: absolutely (in an absolute manner) (adverb)
   assolutamente :: absolutely (yes; certainly) (interjection)
 ***absoluteness***
-  assolutezza {f} :: absoluteness (quality of being absolute) (noun)
+  assolutezza {f} :: absoluteness (the fact of being without qualifications; unconditionality) (noun)
 ===absolution===
   assolvere :: absolve (pronounce free or give absolution) (verb)
   assolvere :: absolve (theology: pronounce free or give absolution from sin) (verb)
@@ -1938,6 +1940,12 @@ Index: EN EN->IT
   figlio di puttana (son of a bitch), pezzo di merda (piece of shit) :: motherfucker (generic term of abuse) (noun)
 ***academian***
   accademico {m} :: academian (member of an academy) (noun)
+===academic===
+  accademicamente :: academically (in an academic style or way) (adverb)
+  accademicamente :: academically (from an academic perspective) (adverb)
+***academically***
+  accademicamente :: academically (in an academic style or way) (adverb)
+  accademicamente :: academically (from an academic perspective) (adverb)
 ===academy===
   accademico {m} :: academian (member of an academy) (noun)
 ***accept***
@@ -1967,6 +1975,10 @@ Index: EN EN->IT
 ***acclamation***
   acclamazione {f} :: acclamation (applause) (noun)
   acclamazione {f} :: acclamation (election of a standby) (noun)
+***accolade***
+  elogio {m} :: accolade (An expression of approval; praise) (noun)
+  riconoscimento {m} :: accolade (A special acknowledgment; an award) (noun)
+  ordinazione {f} :: accolade (A salutation marking the conferring of knighthood) (noun)
 ===accomplish===
   assolvere :: absolve (obsolete: finish, accomplish) (verb)
 ***accord***
@@ -1994,8 +2006,8 @@ Index: EN EN->IT
   acido {m} :: acid (a sour substance) (noun)
   acido {m} :: acid (in chemistry) (noun)
   acido {m}, acido lisergico {m} :: acid (LSD) (noun)
-***acronym***
-  acronimo {m} :: acronym (word formed by initial letters) (noun)
+===acknowledgment===
+  riconoscimento {m} :: accolade (A special acknowledgment; an award) (noun)
 ===act===
   abbandono {m} :: abandonment (act of abandoning) (noun)
   riduzione :: abatement (the act of abating or the state of being abated) (noun)
@@ -2086,6 +2098,8 @@ Index: EN EN->IT
   prodotto {m} :: product (amount created by a process) (noun)
   ammontare :: number (to total; to amount to) (verb)
   secondo {m}, attimo {m}, momento {m} :: second (short, indeterminate amount of time) (noun)
+===An===
+  elogio {m} :: accolade (An expression of approval; praise) (noun)
 ===anchor===
   caponare :: cat (raise anchor to cathead) (verb)
 ===and===
@@ -2132,6 +2146,8 @@ Index: EN EN->IT
 ===approach===
   accessibilità {f} :: accessibility (the quality of being accessible, or of admitting approach; receptibility) (noun)
   accessibile :: accessible (easy of access or approach) (adjective)
+===approval===
+  elogio {m} :: accolade (An expression of approval; praise) (noun)
 ***April***
   aprile {m} :: April (fourth month of the Gregorian calendar) (proper noun)
 ===archaic===
@@ -2199,6 +2215,8 @@ Index: EN EN->IT
   libbra {f} :: pound (unit of mass (16 ounces avoirdupois)) (noun)
 ===await===
   aspettare, attendere :: abide (to await) (verb)
+===award===
+  riconoscimento {m} :: accolade (A special acknowledgment; an award) (noun)
 ===away===
   sottrarre, sequestrare, rapire (people) :: abduct (to take away) (verb)
   abdurre :: abduct (to draw away from its ordinary position) (verb)
@@ -2340,10 +2358,8 @@ Index: EN EN->IT
   libro {m} :: book (collection of sheets of paper bound together containing printed or written material) (noun)
 ===boxing===
   padrino {m}, secondo {m} :: second (attendant of a duel or boxing match standing in for a contestant) (noun)
-===broken===
-  brusco, brusca :: abrupt (broken off or very steep) (adjective)
 ***brown***
-  rosolare :: brown (to cook until brown)
+  rosolare :: brown (to cook until brown) (verb)
 ===bush===
   biancospino {m} :: may (the hawthorn bush or its blossom) (noun)
 ===but===
@@ -2484,8 +2500,6 @@ Index: EN EN->IT
 ===Chinese===
   cinese tradizionale :: Traditional Chinese (Chinese written using traditional characters) (proper noun)
   cinese semplificato {m} :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
-===choose===
-  scegliere, eleggere :: name (mention, specify, choose) (verb)
 ===chosen===
   nome {m} :: first name (name chosen by parents) (noun)
 ===Christ===
@@ -2513,6 +2527,7 @@ Index: EN EN->IT
 ***clock***
   orologio {m} :: clock (instrument to measure or keep track of time) (noun)
   cronometrare :: clock (measure the duration of) (verb)
+  baghetta {f} :: clock (pattern near heel of a sock or stocking) (noun)
 ===cloth===
   ombrello {m}, parapioggia :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
 ***cod***
@@ -2605,6 +2620,8 @@ Index: EN EN->IT
 ===condition===
   debito {m} :: debt (state or condition of owing something to another) (noun)
   firmamento {m} :: sky (specific view, condition) (noun)
+===conferring===
+  ordinazione {f} :: accolade (A salutation marking the conferring of knighthood) (noun)
 ===conforming===
   anormale, anomalo :: abnormal (not conforming to rule or system) (adjective)
 ===confusing===
@@ -2642,7 +2659,7 @@ Index: EN EN->IT
 ===convergence===
   aberrazione {f} :: aberration (optics: convergence to different foci) (noun)
 ===cook===
-  rosolare :: brown (to cook until brown)
+  rosolare :: brown (to cook until brown) (verb)
 ===coordinates===
   ascissa {f} :: abscissa (first of two coordinates) (noun)
 ===copiously===
@@ -2652,6 +2669,8 @@ Index: EN EN->IT
 ===counted===
   innumerevole, incalcolabile :: uncountable (too many to be counted) (adjective)
   non numerabile :: uncountable (linguistics: about a noun which cannot be counted) (adjective)
+===countries===
+  all'estero :: abroad (in foreign countries) (adverb)
 ===country===
   tedesco {m} :: German (of or relating to the country of Germany) (adjective)
   Messico {m} :: Mexico (country) (proper noun)
@@ -2770,7 +2789,7 @@ Index: EN EN->IT
 ===defense===
   arma {f} :: weapon (instrument of attack or defense in combat) (noun)
 ===define===
-  specificare :: name (identify, define, specify) (verb)
+  specificare :: name (to identify, define, specify) (verb)
 ===defining===
   definizione {f} :: definition (action or process of defining) (noun)
   definizione {f}, il definire :: definition (act of defining) (noun)
@@ -2813,7 +2832,7 @@ Index: EN EN->IT
 ===deserted===
   abbandonato :: abandoned (forsaken, deserted) (adjective)
 ===designate===
-  nominare :: name (designate for a role) (verb)
+  nominare :: name (to designate for a role) (verb)
 ===detail===
   definizione {f}, definitezza {f} :: definition (clarity of visual presentation, distinctness of outline or detail) (noun)
 ===detention===
@@ -2878,6 +2897,8 @@ Index: EN EN->IT
   punto {m} :: point (geometry: zero-dimensional object) (noun)
 ===discard===
   scartare :: can (to discard) (verb)
+===discussion===
+  vabbè :: whatever (indicating the matter is not worthy of further discussion) (interjection)
 ===disgust===
   abominare :: abominate (to feel disgust towards, to hate in the highest degree) (verb)
 ===dishes===
@@ -2900,7 +2921,7 @@ Index: EN EN->IT
   mese {m} :: month (period into which a year is divided) (noun)
   calendario {m} :: calendar (system by which time is divided) (noun)
 ===divisible===
-  dispari m, f and plural :: odd (not divisible by two) (adjective)
+  dispari :: odd (not divisible by two) (adjective)
 ===division===
   parte, porzione {f} :: deal (division, share) (noun)
   centuria {f} :: century (political division of Rome) (noun)
@@ -3072,7 +3093,6 @@ Index: EN EN->IT
 ===executing===
   datare :: date (to note the time of writing or executing) (verb)
 ===exist===
-  nascere, generarsi, formarsi :: spring (start to exist) (verb)
   essere :: be (exist) (verb)
 ===existence===
   politeismo :: polytheism (belief of existence of many gods) (noun)
@@ -3085,15 +3105,20 @@ Index: EN EN->IT
 ===expressing===
   definizione {f} :: definition (statement expressing the essential nature of something) (noun)
 ===expression===
+  elogio {m} :: accolade (An expression of approval; praise) (noun)
   Ti voglio bene (singular informal), Vi voglio bene (plural or formal) :: I love you (platonic expression of inclination or liking) (phrase)
 ===extent===
   dose {f} :: deal (large number or amount or extent) (noun)
+===extremely===
+  brusco, brusca :: abrupt (extremely steep) (adjective)
 ***Fabian***
   Fabiano :: Fabian (male given name) (proper noun)
 ***fable***
   fiaba {m} :: fable (fictitious narration to enforce some useful truth or precept) (noun)
 ===face===
   moneta di dieci dollari :: eagle (A gold coin with a face value of $10.00) (noun)
+===fact===
+  assolutezza {f} :: absoluteness (the fact of being without qualifications; unconditionality) (noun)
 ===fails===
   seconda scelta {f} :: second (manufactured item that fails to meet quality control standards) (noun)
 ===false===
@@ -3105,8 +3130,8 @@ Index: EN EN->IT
 ===Far===
   Giappone {m} :: Japan (A Far East country in Asia) (proper noun)
 ***fart***
-  scoreggia {f}, peto {m} :: fart (an emission of flatulent gases) (noun)
   scoreggiare, fare un peto :: fart (to emit flatulent gases) (verb)
+  scoreggia {f}, peto {m} :: fart (an emission of flatulent gases) (noun)
 ===fear===
   libertà di parola {f} :: freedom of speech (right to speak without fear of harm) (noun)
 ***February***
@@ -3163,8 +3188,8 @@ Index: EN EN->IT
   pianeta {m} :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
 ***flatulent***
   flatulente :: flatulent (affected by gas in the intestine) (adjective)
-  scoreggia {f}, peto {m} :: fart (an emission of flatulent gases) (noun)
   scoreggiare, fare un peto :: fart (to emit flatulent gases) (verb)
+  scoreggia {f}, peto {m} :: fart (an emission of flatulent gases) (noun)
 ===flavour===
   condire, insaporire :: season (to flavour food) (verb)
 ===flesh===
@@ -3192,6 +3217,8 @@ Index: EN EN->IT
   stuprare, violentare, violare :: rape (force sexual intercourse) (verb)
 ===forcing===
   stupro {m}, violento {m} :: rape (act of forcing sexual activity) (noun)
+===foreign===
+  all'estero :: abroad (in foreign countries) (adverb)
 ===foreigner===
   straniero {m}, forestiero {m} :: alien (foreigner) (noun)
 ===form===
@@ -3206,8 +3233,6 @@ Index: EN EN->IT
   singolare {m} :: singular (grammar: form of a word that refers to only one thing) (noun)
 ===formal===
   marcia {f} :: march (formal, rhythmic way of walking) (noun)
-===formed===
-  acronimo {m} :: acronym (word formed by initial letters) (noun)
 ===forms===
   stare :: be (used to form the continuous forms of various tenses) (verb)
 ===forsaken===
@@ -3261,8 +3286,10 @@ Index: EN EN->IT
 ===functioning===
   aggettivale :: adjective (functioning as an adjective) (adjective)
   acceso :: on (in the state of being active, functioning or operating) (adjective)
+===further===
+  vabbè :: whatever (indicating the matter is not worthy of further discussion) (interjection)
 ***futurism***
-  futurismo :: futurism () (noun)
+  futurismo :: futurism (noun)
 ===Gadidae===
   merluzzo {m} :: cod (marine fish of the family Gadidae) (noun)
 ===game===
@@ -3275,8 +3302,8 @@ Index: EN EN->IT
 ===gaseous===
   pianeta {m} :: planet (rocky or gaseous spherical bodies orbiting the Sun) (noun)
 ===gases===
-  scoreggia {f}, peto {m} :: fart (an emission of flatulent gases) (noun)
   scoreggiare, fare un peto :: fart (to emit flatulent gases) (verb)
+  scoreggia {f}, peto {m} :: fart (an emission of flatulent gases) (noun)
 ***GDP***
   PIL :: GDP (gross domestic product) ({{initialism}})
 ===general===
@@ -3300,7 +3327,7 @@ Index: EN EN->IT
 ===Germany===
   tedesco {m} :: German (of or relating to the country of Germany) (adjective)
 ===give===
-  nomare :: name (give a name to) (verb)
+  nomare :: name (to give a name to) (verb)
   abbandonare, lasciare, mollare :: abandon (to give up) (verb)
   assolvere :: absolve (pronounce free or give absolution) (verb)
   assolvere :: absolve (theology: pronounce free or give absolution from sin) (verb)
@@ -3410,8 +3437,6 @@ Index: EN EN->IT
   antonimo {m} :: antonym (word which has the opposite meaning) (noun)
   debito {m} :: debt (action, state of mind, or object one has an obligation to perform for another) (noun)
   essere :: be (used to indicate that the subject has the qualities described by a noun or noun phrase) (verb)
-===hasty===
-  brusco, brusca :: abrupt (sudden or hasty) (adjective)
 ===hate===
   abominare :: abominate (to feel disgust towards, to hate in the highest degree) (verb)
 ===hateful===
@@ -3441,6 +3466,8 @@ Index: EN EN->IT
   aberrazione {f} :: aberration (astronomy: small periodical change of position of heavenly bodies) (noun)
 ===heavily===
   piovere a catinelle :: rain cats and dogs (to rain very heavily) (verb)
+===heel===
+  baghetta {f} :: clock (pattern near heel of a sock or stocking) (noun)
 ***hell***
   inferno {m} :: hell (where sinners go) (proper noun)
   inferno {m} :: hell (place of suffering in life) (noun)
@@ -3472,8 +3499,8 @@ Index: EN EN->IT
   giorno {m} :: day (period of 24 hours) (noun)
 ===human===
   rapimento {m} :: abduction (law: carrying off of a human being) (noun)
-  uomo {m} :: man (adult male human) (noun)
   uomo :: man (human) (noun)
+  uomo {m} :: man (adult male human) (noun)
 ===hungry===
   i {m|p}, gli {m|p}, le {f|p} :: the (with an adjectival noun, as in “the hungry” to mean “hungry people”) (article)
 ===husk===
@@ -3485,14 +3512,14 @@ Index: EN EN->IT
   ti amo (informal singular), vi amo (plural or formal) :: I love you (affirmation of romantic feeling) (phrase)
   Ti voglio bene (singular informal), Vi voglio bene (plural or formal) :: I love you (platonic expression of inclination or liking) (phrase)
 ===identify===
-  specificare :: name (identify, define, specify) (verb)
+  specificare :: name (to identify, define, specify) (verb)
 ===immature===
   abortivo {m} :: abortion (immature product of an untimely birth) (noun)
   acerbo :: crude (immature or unripe) (adjective)
 ===immediate===
   vicino :: about (in the immediate neighborhood of) (preposition)
 ===implicate===
-  identificare :: name (publicly implicate) (verb)
+  identificare :: name (to publicly implicate) (verb)
 ===imprisoned===
   libero {m} :: free (not imprisoned) (adjective)
 ===improvement===
@@ -3528,6 +3555,7 @@ Index: EN EN->IT
   verbo {m} :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
 ===indicating===
   nome {m} :: name (word or phrase indicating a particular person, place, class or thing) (noun)
+  vabbè :: whatever (indicating the matter is not worthy of further discussion) (interjection)
 ===indigenous===
   aborigeno :: aboriginal (original; indigenous) (adjective)
 ===individual===
@@ -3541,8 +3569,6 @@ Index: EN EN->IT
   essere aggiornato, stare al passo (con i tempi, con le notizie), mantenersi al corrente :: abreast (informed) (adverb)
 ===informer===
   spia {f}, delatore {m}, pentito {m}, traditore {m} :: grass (informer) (noun)
-===initial===
-  acronimo {m} :: acronym (word formed by initial letters) (noun)
 ===inscription===
   data {f} :: date (that which specifies the time of writing, inscription etc.) (noun)
 ===instrument===
@@ -3614,6 +3640,8 @@ Index: EN EN->IT
   orologio {m} :: clock (instrument to measure or keep track of time) (noun)
 ===keyed===
   fisarmonica {f} :: accordion (A small, portable, keyed wind instrument) (noun)
+===knighthood===
+  ordinazione {f} :: accolade (A salutation marking the conferring of knighthood) (noun)
 ===label===
   numerare :: number (label with numbers; assign numbers to) (verb)
 ===lacking===
@@ -3684,7 +3712,6 @@ Index: EN EN->IT
   alfabetico :: alphabetical (in the sequence of the letters of the alphabet) (adjective)
   alfabeto {m} :: alphabet (an ordered set of letters used in a language) (noun)
   numero romano {m} :: Roman numeral (a numeral represented by letters) (noun)
-  acronimo {m} :: acronym (word formed by initial letters) (noun)
 ===level===
   anno {m} :: year (a level or grade at school or college) (noun)
   qualità {f} :: quality (level of excellence) (noun)
@@ -3774,8 +3801,8 @@ Index: EN EN->IT
   oritteropo {m} :: aardvark (mammal) (noun)
   protele :: aardwolf (the mammal species Proteles cristatus) (noun)
 ***man***
-  uomo {m} :: man (adult male human) (noun)
   uomo :: man (human) (noun)
+  uomo {m} :: man (adult male human) (noun)
   pedina {f} :: man (piece in board games) (noun)
 ===manner===
   anormalmente :: abnormally (In an abnormal manner) (adverb)
@@ -3804,6 +3831,8 @@ Index: EN EN->IT
   anno {m} :: year (a period between set dates that mark a year) (noun)
 ===marked===
   inverno {m} :: winter (fourth season, marked by short days and lowest temperatures) (noun)
+===marking===
+  ordinazione {f} :: accolade (A salutation marking the conferring of knighthood) (noun)
 ===Marys===
   decina {f} :: decade (a series of ten Hail Marys in the rosary) (noun)
 ===mass===
@@ -3821,6 +3850,7 @@ Index: EN EN->IT
   non numerabile :: uncountable (mathematics: incapable of being enumerated by natural numbers) (adjective)
 ===matter===
   qualunque, qualsiasi, qualsivoglia :: whatever (no matter which; for any) (determiner)
+  vabbè :: whatever (indicating the matter is not worthy of further discussion) (interjection)
 ***may***
   potere :: may (have permission to) (verb)
   forse, può essere che + subjunctive; He may be lying — Forse sta mentendo, Può essere che stia mentendo :: may (possibly, but not certainly) (verb)
@@ -3867,7 +3897,7 @@ Index: EN EN->IT
   il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used with the name of a member of a class to refer to all things in that class) (article)
   accademico {m} :: academian (member of an academy) (noun)
 ===mention===
-  scegliere, eleggere :: name (mention, specify, choose) (verb)
+  scegliere, eleggere :: name (to mention, specify) (verb)
 ===mentioned===
   suddetto, succitato :: above-mentioned (mentioned or named before; aforesaid) (adjective)
 ===mess===
@@ -3977,11 +4007,11 @@ Index: EN EN->IT
 ***name***
   nome {m} :: name (word or phrase indicating a particular person, place, class or thing) (noun)
   fama {f}, riputazione {f} :: name (reputation) (noun)
-  nomare :: name (give a name to) (verb)
-  scegliere, eleggere :: name (mention, specify, choose) (verb)
-  specificare :: name (identify, define, specify) (verb)
-  identificare :: name (publicly implicate) (verb)
-  nominare :: name (designate for a role) (verb)
+  nomare :: name (to give a name to) (verb)
+  scegliere, eleggere :: name (to mention, specify) (verb)
+  specificare :: name (to identify, define, specify) (verb)
+  identificare :: name (to publicly implicate) (verb)
+  nominare :: name (to designate for a role) (verb)
   nome {m} :: first name (name chosen by parents) (noun)
   Fabiano :: Fabian (male given name) (proper noun)
   il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used with the name of a member of a class to refer to all things in that class) (article)
@@ -4004,6 +4034,7 @@ Index: EN EN->IT
   al traverso :: abreast (nautical: side by side; also, opposite; over against; on a line with the vessel's beam) (adverb)
 ===near===
   vicino a :: about (near) (preposition)
+  baghetta {f} :: clock (pattern near heel of a sock or stocking) (noun)
 ===needing===
   gratuitamente :: free (without needing to pay) (adverb)
 ===negro===
@@ -4049,14 +4080,17 @@ Index: EN EN->IT
   libero {m} :: free (not imprisoned) (adjective)
   forse, può essere che + subjunctive; He may be lying — Forse sta mentendo, Può essere che stia mentendo :: may (possibly, but not certainly) (verb)
   anormale, anomalo :: abnormal (not conforming to rule or system) (adjective)
-  dispari m, f and plural :: odd (not divisible by two) (adjective)
+  dispari :: odd (not divisible by two) (adjective)
   assente :: absent (not existing) (adjective)
+  vabbè :: whatever (indicating the matter is not worthy of further discussion) (interjection)
 ===note===
   abbreviazione :: abbreviation (music: one or more dashes through the stem of a note) (noun)
   datare :: date (to note the time of writing or executing) (verb)
   datare :: date (to note or fix the time of, as of an event) (verb)
 ===nothing===
   zero {m} :: zero (cardinal number before 1, denoting nothing) (cardinal number)
+===notice===
+  brusco, brusca :: abrupt (without notice) (adjective)
 ***noun***
   sostantivo {m}, nome {m} :: noun (grammatical category) (noun)
   nome proprio :: proper noun (The name of a particular person, place, organization or other individual entity) (noun)
@@ -4141,12 +4175,11 @@ Index: EN EN->IT
   ottobre {m} :: October (tenth month of the Gregorian calendar) (proper noun)
 ***odd***
   strano, strambo :: odd (strange) (adjective)
-  dispari m, f and plural :: odd (not divisible by two) (adjective)
+  dispari :: odd (not divisible by two) (adjective)
 ===of===
   libertà di parola {f} :: freedom of speech (right to speak without fear of harm) (noun)
 ===off===
   rapimento {m} :: abduction (law: carrying off of a human being) (noun)
-  brusco, brusca :: abrupt (broken off or very steep) (adjective)
 ===office===
   abdicazione {f} :: abdication (the act of abdicating; the renunciation of a high office, dignity, or trust, by its holder) (noun)
 ===officially===
@@ -4265,6 +4298,8 @@ Index: EN EN->IT
   torta {f}, crostata {f} :: pie (type of pastry) (noun)
 ===patietly===
   accettare :: accept (to endure patietly) (verb)
+===pattern===
+  baghetta {f} :: clock (pattern near heel of a sock or stocking) (noun)
 ===pay===
   gratuitamente :: free (without needing to pay) (adverb)
   accettare :: accept (to agree to pay) (verb)
@@ -4306,6 +4341,8 @@ Index: EN EN->IT
   aberrazione {f} :: aberration (astronomy: small periodical change of position of heavenly bodies) (noun)
 ===permission===
   potere :: may (have permission to) (verb)
+===perspective===
+  accademicamente :: academically (from an academic perspective) (adverb)
 ===pertaining===
   addominale :: abdominal (of or pertaining to the abdomen) (adjective)
   anormale, anomalo :: abnormal (of or pertaining to behaviour that deviates from norms) (adjective)
@@ -4435,6 +4472,8 @@ Index: EN EN->IT
   ingurgitare :: pound (slang: eat or drink quickly) (verb)
 ===power===
   livello di definizione :: definition (action or power of describing, explaining, or making definite) (noun)
+===praise===
+  elogio {m} :: accolade (An expression of approval; praise) (noun)
 ===pre===
   precolombiano :: pre-Columbian (before Christopher Columbus) (adjective)
   incontro {m}, appuntamento {m} (the latter also as romantic meeting) :: date (pre-arranged social meeting) (noun)
@@ -4509,11 +4548,13 @@ Index: EN EN->IT
 ===publication===
   dizionario {m} :: dictionary (publication that explains the meanings of an ordered list of words) (noun)
 ===publicly===
-  identificare :: name (publicly implicate) (verb)
+  identificare :: name (to publicly implicate) (verb)
 ***pumpkin***
   zucca {f} :: pumpkin (fruit of this plant) (noun)
 ===pus===
   ascesso {m} :: abscess (cavity filled with pus) (noun)
+===qualifications===
+  assolutezza {f} :: absoluteness (the fact of being without qualifications; unconditionality) (noun)
 ===qualifier===
   interrompere, fermare :: abort ({{qualifier|computing}} to terminate a process prior to completion) (verb)
 ===qualities===
@@ -4524,7 +4565,6 @@ Index: EN EN->IT
   qualità {f} :: quality (archaic: social position) (noun)
   di qualità, pregiato {m} :: quality (being of good worth) (adjective)
   abilità {f} :: ability (quality or state of being able) (noun)
-  assolutezza {f} :: absoluteness (quality of being absolute) (noun)
   accessibilità {f} :: accessibility (the quality of being accessible, or of admitting approach; receptibility) (noun)
   stella {f} :: star (quality rating symbol) (noun)
   seconda scelta {f} :: second (manufactured item that fails to meet quality control standards) (noun)
@@ -4682,7 +4722,7 @@ Index: EN EN->IT
 ===rocky===
   pianeta {m} :: planet (rocky or gaseous spherical bodies orbiting the Sun) (noun)
 ===role===
-  nominare :: name (designate for a role) (verb)
+  nominare :: name (to designate for a role) (verb)
   essere :: be (used to indicate that the subject plays the role of the predicate nominative) (verb)
 ===Roman===
   numero romano {m} :: Roman numeral (a numeral represented by letters) (noun)
@@ -4702,6 +4742,8 @@ Index: EN EN->IT
 ===sale===
   prodotto {m} :: product (commodity for sale) (noun)
   negozio {m}, deposito {m} :: stock (store of goods for sale) (noun)
+===salutation===
+  ordinazione {f} :: accolade (A salutation marking the conferring of knighthood) (noun)
 ===same===
   sinonimo {m} :: synonym (word with same meaning as another) (noun)
   essere :: be (used to indicate that the subject and object are the same) (verb)
@@ -4891,6 +4933,8 @@ Index: EN EN->IT
 ===social===
   qualità {f} :: quality (archaic: social position) (noun)
   incontro {m}, appuntamento {m} (the latter also as romantic meeting) :: date (pre-arranged social meeting) (noun)
+===sock===
+  baghetta {f} :: clock (pattern near heel of a sock or stocking) (noun)
 ===software===
   libero, free, libre (software) :: free (software: with very few limitations on distribution or improvement) (adjective)
 ===solemnity===
@@ -4918,6 +4962,7 @@ Index: EN EN->IT
 ===speak===
   libertà di parola {f} :: freedom of speech (right to speak without fear of harm) (noun)
 ===special===
+  riconoscimento {m} :: accolade (A special acknowledgment; an award) (noun)
   stagione {f} :: season (part of year with something special) (noun)
 ===species===
   gatto {m}, gatta {f}, micio {m}, micia {f} :: cat (domestic species) (noun)
@@ -4931,8 +4976,8 @@ Index: EN EN->IT
 ===specifies===
   data {f} :: date (that which specifies the time of writing, inscription etc.) (noun)
 ===specify===
-  scegliere, eleggere :: name (mention, specify, choose) (verb)
-  specificare :: name (identify, define, specify) (verb)
+  scegliere, eleggere :: name (to mention, specify) (verb)
+  specificare :: name (to identify, define, specify) (verb)
 ===spectral===
   colore {m} :: color (spectral composition of visible light) (noun)
 ===speech===
@@ -4947,7 +4992,6 @@ Index: EN EN->IT
 ===spilt===
   pasticcio {m}, confusione {f} :: pie (printing: disorderly mess of spilt type) (noun)
 ***spring***
-  nascere, generarsi, formarsi :: spring (start to exist) (verb)
   saltare :: spring (jump or leap) (verb)
   primavera {f} :: spring (season) (noun)
   fonte {f}, sorgente {f} :: spring (water source) (noun)
@@ -4978,7 +5022,6 @@ Index: EN EN->IT
 ===stars===
   pianeta {m} :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
 ===start===
-  nascere, generarsi, formarsi :: spring (start to exist) (verb)
   nascita {f} :: birth (beginning or start; a point of origin) (noun)
 ===state===
   verbo {m} :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
@@ -5003,7 +5046,7 @@ Index: EN EN->IT
   marcia {f} :: march (steady forward movement or progression) (noun)
   aliseo {m} :: trade wind (steady wind) (noun)
 ===steep===
-  brusco, brusca :: abrupt (broken off or very steep) (adjective)
+  brusco, brusca :: abrupt (extremely steep) (adjective)
 ***steganography***
   steganografia {f} :: steganography (steganography) (noun)
 ===stem===
@@ -5014,6 +5057,8 @@ Index: EN EN->IT
   violacciocca {f} :: stock (genus of flowers) (noun)
   azione {f} :: stock (finance: capital raised by a company) (noun)
   affusto {m} :: stock (part of gun) (noun)
+===stocking===
+  baghetta {f} :: clock (pattern near heel of a sock or stocking) (noun)
 ===stop===
   morire :: die (to stop living) (verb)
 ===store===
@@ -5038,6 +5083,8 @@ Index: EN EN->IT
   informatica {f} :: computer science (study of computers and their architecture) (noun)
 ===stupid===
   testa di cazzo {f} :: dickhead ((slang) stupid person) (noun)
+===style===
+  accademicamente :: academically (in an academic style or way) (adverb)
 ===subject===
   essere :: be (used to indicate that the subject and object are the same) (verb)
   essere :: be (used to indicate that the subject plays the role of the predicate nominative) (verb)
@@ -5053,7 +5100,6 @@ Index: EN EN->IT
 ===such===
   blocchetto {m} :: book (convenient collection of small paper items, such as stamps) (noun)
 ===sudden===
-  brusco, brusca :: abrupt (sudden or hasty) (adjective)
   discontinuo, discontinua, sconnesso, sconnessa :: abrupt (having sudden transitions from one state to next) (adjective)
 ===suffering===
   inferno {m} :: hell (place of suffering in life) (noun)
@@ -5287,7 +5333,7 @@ Index: EN EN->IT
   due {m} or {p} :: two (digit or figure) (noun)
   biglietto da due dollari {m}, bancanota da due dollari {f} :: two (two-dollar bill) (noun)
   ascissa {f} :: abscissa (first of two coordinates) (noun)
-  dispari m, f and plural :: odd (not divisible by two) (adjective)
+  dispari :: odd (not divisible by two) (adjective)
   (periodo di) due settimane ; quindicina {f} (actually 15 days) :: fortnight (period of two weeks) (noun)
 ===type===
   torta {f}, crostata {f} :: pie (type of pastry) (noun)
@@ -5300,6 +5346,8 @@ Index: EN EN->IT
   ombrello {m}, parapioggia :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
 ===unanalyzed===
   raffazzonato :: crude (statistics: in an unanalyzed form) (adjective)
+===unconditionality===
+  assolutezza {f} :: absoluteness (the fact of being without qualifications; unconditionality) (noun)
 ===unconstrained===
   libero {m} :: free (unconstrained) (adjective)
 ***uncountable***
@@ -5343,7 +5391,7 @@ Index: EN EN->IT
 ===unspecified===
   attimo {m}, momento {m}, :: minute (short but unspecified period of time) (noun)
 ===until===
-  rosolare :: brown (to cook until brown)
+  rosolare :: brown (to cook until brown) (verb)
 ===untimely===
   abortivo {m} :: abortion (immature product of an untimely birth) (noun)
 ===untrue===
@@ -5414,7 +5462,6 @@ Index: EN EN->IT
   libero, free, libre (software) :: free (software: with very few limitations on distribution or improvement) (adjective)
   piovere a catinelle :: rain cats and dogs (to rain very heavily) (verb)
   minuscolo {m}, minuscola {f}, piccolissimo {m}, piccolissima {f} :: minute (very small) (adjective)
-  brusco, brusca :: abrupt (broken off or very steep) (adjective)
 ===vessel===
   al traverso :: abreast (nautical: side by side; also, opposite; over against; on a line with the vessel's beam) (adverb)
   lattina {f} :: can (a more or less cylindrical vessel for liquids) (noun)
@@ -5450,6 +5497,7 @@ Index: EN EN->IT
 ===way===
   marcia {f} :: march (formal, rhythmic way of walking) (noun)
   aberrante :: aberrant (wandering; straying from the right way) (adjective)
+  accademicamente :: academically (in an academic style or way) (adverb)
 ***weapon***
   arma {f} :: weapon (instrument of attack or defense in combat) (noun)
 ***Wednesday***
@@ -5470,6 +5518,7 @@ Index: EN EN->IT
 ***whatever***
   qualunque, qualsiasi, qualsivoglia :: whatever (no matter which; for any) (determiner)
   qualsiasi cosa :: whatever (anything) (determiner)
+  vabbè :: whatever (indicating the matter is not worthy of further discussion) (interjection)
 ===where===
   inferno {m} :: hell (where sinners go) (proper noun)
 ===which===
@@ -5499,6 +5548,8 @@ Index: EN EN->IT
   gratis :: gratis (free, without charge) (adjective)
   libertà di parola {f} :: freedom of speech (right to speak without fear of harm) (noun)
   barattare :: barter (exchange goods or services without involving money) (verb)
+  brusco, brusca :: abrupt (without notice) (adjective)
+  assolutezza {f} :: absoluteness (the fact of being without qualifications; unconditionality) (noun)
   teletrasportare :: teleport (travel without physically crossing distance) (verb)
 ***wolf***
   lupo {m} :: wolf (animal) (noun)
@@ -5521,7 +5572,6 @@ Index: EN EN->IT
   definizione {f} :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
   numero {m}, cifra {f} :: numeral (word or symbol representing a number) (noun)
   singolare {m} :: singular (grammar: form of a word that refers to only one thing) (noun)
-  acronimo {m} :: acronym (word formed by initial letters) (noun)
 ===words===
   dizionario {m} :: dictionary (publication that explains the meanings of an ordered list of words) (noun)
   sciocchezza {f}, senza senso, priva di significato, ridicolaggine {f} :: nonsense (meaningless words) (noun)
@@ -5534,6 +5584,7 @@ Index: EN EN->IT
   di qualità, pregiato {m} :: quality (being of good worth) (adjective)
 ===worthy===
   accettabile :: acceptable (capable, worthy or sure of being accepted) (adjective)
+  vabbè :: whatever (indicating the matter is not worthy of further discussion) (interjection)
 ===writes===
   musicista {m|f}, musico {m} :: musician (person who performs or writes music) (noun)
 ===writing===

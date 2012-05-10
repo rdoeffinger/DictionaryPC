@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.english 4997
+EntrySource: enwiktionary.english 5036
 
 Index: DE DE->EN
 ===2===
@@ -107,6 +107,8 @@ Index: DE DE->EN
   Abort {m}, Abtreibung {f}, Interruptio {n} :: abortive (That which is born or brought forth prematurely; an abortion) (noun)
 ***abrahamitisch***
   abrahamitisch :: Abrahamic (pertaining to Abrahamic religions) (adjective)
+***Abrakadabra***
+  Abrakadabra :: abracadabra (used to indicate that a magic trick or other illusion has been performed) (interjection)
 ***Abrasion***
   Abrasion {f} :: abrasion (act of abrading) (noun)
   Abrasion {f} :: abrasion (medicine: superficial excoriation) (noun)
@@ -114,8 +116,8 @@ Index: DE DE->EN
 ***Abrieb***
   Abrasion {f}, Abrieb {n} :: abrasion (geology: effect of mechanical erosion of rock) (noun)
 ***abrupt***
-  abrupt, jäh, schroff, steil :: abrupt (broken off or very steep) (adjective)
-  abrupt, jäh :: abrupt (sudden or hasty) (adjective)
+  abrupt, jäh, schroff, steil :: abrupt (extremely steep) (adjective)
+  abrupt, jäh :: abrupt (without notice) (adjective)
   abrupt, jäh :: abrupt (having sudden transitions from one state to next) (adjective)
   abrupt, plötzlich, unerwartet :: abruptly (in an abrupt manner) (adverb)
 ***abschaffen***
@@ -139,7 +141,7 @@ Index: DE DE->EN
 ===abschwören===
   abschwören (+dative) :: abjure (to renounce with solemnity) (verb)
 ***Absolutheit***
-  Absolutheit {f} :: absoluteness (quality of being absolute) (noun)
+  Absolutheit {f} :: absoluteness (the fact of being without qualifications; unconditionality) (noun)
 ***Absolution***
   Absolution {f} :: absolution (Exercise of priestly jurisdiction in the sacrament of penance, by which Catholics believe the sins of the truly penitent are forgiven) (noun)
 ***Absolutist***
@@ -219,6 +221,8 @@ Index: DE DE->EN
   Akademiker {m}, Akademikerin {f} :: academian (member of an academy) (noun)
 ***Akademikerin***
   Akademiker {m}, Akademikerin {f} :: academian (member of an academy) (noun)
+***Akademismus***
+  Akademismus {m} :: academicism (art: traditional or orthodox formalism.) (noun)
 ===Akklimatisierung===
   Akklimatisierung {f} :: acclimature (act of acclimating) (noun)
 ***Akkord***
@@ -233,8 +237,6 @@ Index: DE DE->EN
   Akkordeonspieler {m}, Akkordeonspielerin {f}, Akkordeonist {m}, Akkordeonistin {f} :: accordionist (player of the accordion) (noun)
 ***Akkordeonspielerin***
   Akkordeonspieler {m}, Akkordeonspielerin {f}, Akkordeonist {m}, Akkordeonistin {f} :: accordionist (player of the accordion) (noun)
-***Akronym***
-  Akronym {n} :: acronym (word formed by initial letters) (noun)
 ***Aktie***
   Aktie {f} :: stock (finance: capital raised by a company) (noun)
 ===aktuelle===
@@ -268,6 +270,7 @@ Index: DE DE->EN
   Alphabetismus {m} :: alphabetism (form of literacy) (noun)
 ===am===
   Montag, am Montag :: Monday (on Monday) (adverb)
+  am Dienstag {m} :: Tuesday (on Tuesday) (adverb)
 ***an***
   an :: on (in the state of being active, functioning or operating) (adjective)
   an :: on (to an operating state) (adverb)
@@ -300,11 +303,12 @@ Index: DE DE->EN
 ***Anteil***
   Anteil {m}, Portion {f} :: deal (division, share) (noun)
 ***Antisemitismus***
-  Antisemitismus {m} :: anti-Semitism (prejudice or hostility against Jews) (noun)
+  Antisemitismus {m}, Judenhass {m} :: anti-Semitism (prejudice or hostility against Jews) (noun)
 ***Antonym***
   Antonym {n} :: antonym (word which has the opposite meaning) (noun)
 ***Anzahl***
   Anzahl {f}, Zahl {f} :: number (abstract entity) (noun)
+  Anzahl {f} :: number (quantity) (noun)
 ***Apfelsine***
   Apfelsine {f}, Orange {f} :: orange (fruit) (noun)
 ***Apfelsinenbaum***
@@ -314,6 +318,8 @@ Index: DE DE->EN
   (Low German) April {m}, Aprilmaand {m} :: April (fourth month of the Gregorian calendar) (proper noun)
 ***Aprilmaand***
   (Low German) April {m}, Aprilmaand {m} :: April (fourth month of the Gregorian calendar) (proper noun)
+***apropos***
+  apropos, übrigens :: BTW (by the way) (initialism)
 ===ar===
   (Middle High German) ar, adelar :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
 ===archaic===
@@ -441,8 +447,8 @@ Index: DE DE->EN
   bemannen :: man (to supply with staff or crew) (verb)
   bemannen :: man (to take up position in order to operate something) (verb)
 ***benennen***
-  nennen, taufen, bezeichnen, benennen :: name (give a name to) (verb)
-  benennen :: name (publicly implicate) (verb)
+  nennen, taufen, bezeichnen, benennen :: name (to give a name to) (verb)
+  benennen :: name (to publicly implicate) (verb)
 ***Beobachtungsliste***
   Beobachtungsliste {f} :: watchlist (list for special attention) (noun)
 ***beschämen***
@@ -462,7 +468,7 @@ Index: DE DE->EN
 ***Bewährung***
   bedingte Haftentlassung {f}, Bewährung {f} :: parole (law: a release of (a prisoner)) (noun)
 ***bezeichnen***
-  nennen, taufen, bezeichnen, benennen :: name (give a name to) (verb)
+  nennen, taufen, bezeichnen, benennen :: name (to give a name to) (verb)
 ***biblisch***
   biblisch :: biblical (of, or relating to, the Bible) (adjective)
   biblisch :: biblical (exceeding previous records) (adjective)
@@ -584,7 +590,6 @@ Index: DE DE->EN
   sich davonmachen :: abscond (to depart secretly) (verb)
 ***de***
   (Low German) dat {n}, de {m|f}, dei {m|f} :: the (article) (article)
-  Informatik {f} (de) :: computer science (study of computers and their architecture) (noun)
 ***Deal***
   Handel {m}, Deal {m} (Econ.) :: deal (instance of buying or selling) (noun)
 ***dealen***
@@ -666,6 +671,7 @@ Index: DE DE->EN
   der {m}, die {f}, das {n}, die {p} :: the (used with the name of a member of a class to refer to all things in that class) (article)
 ***Dienstag***
   Dienstag {m} :: Tuesday (day of the week) (noun)
+  am Dienstag {m} :: Tuesday (on Tuesday) (adverb)
 ===diethylamid===
   Lysergsäure-diethylamid :: acid (LSD) (noun)
 ***Direktor***
@@ -815,8 +821,6 @@ Index: DE DE->EN
   entsagen :: abnegate (to deny oneself something) (verb)
 ***entschlüsseln***
   entschlüsseln :: decrypt (to convert to plain text) (verb)
-***entspringen***
-  entspringen :: spring (start to exist) (verb)
 ***Enzyklopädie***
   Enzyklopädie {f} :: encyclopedia (comprehensive reference with articles on a range of topic) (noun)
   Lexikon {n}, Enzyklopädie {f} :: encyclopaedia (reference book) (noun)
@@ -836,7 +840,7 @@ Index: DE DE->EN
 ***ermutigen***
   ermutigen, aufhetzen, anstiften :: abet (to assist or encourage in crime) (verb)
 ***ernennen***
-  ernennen :: name (designate for a role) (verb)
+  ernennen :: name (to designate for a role) (verb)
 ***erniedrigen***
   erniedrigen :: abase (to lower so as to hurt feelings) (verb)
 ***Erniedrigung***
@@ -909,6 +913,8 @@ Index: DE DE->EN
   Sprungfeder {f}, Feder {f} :: spring (device made of flexible material) (noun)
 ***Fehlgeburt***
   Fehlgeburt {f} :: abortion (miscarriage) (noun)
+***Festmacherleine***
+  Festmacherleine {f} :: spring (rope on a boat) (noun)
 ***feuern***
   kündigen, feuern, rausschmeißen :: can (to fire or dismiss an employee) (verb)
 ***Fieber***
@@ -979,9 +985,9 @@ Index: DE DE->EN
 ***früher***
   früher, vorher :: above (earlier in order) (adverb)
 ***Frühjahr***
-  Frühling {m}, Lenz {m}, Frühjahr {n} :: spring (season) (noun)
+  Frühling {m}, Frühjahr {n}, (dated)/(poetic) Lenz {m} :: spring (season) (noun)
 ***Frühling***
-  Frühling {m}, Lenz {m}, Frühjahr {n} :: spring (season) (noun)
+  Frühling {m}, Frühjahr {n}, (dated)/(poetic) Lenz {m} :: spring (season) (noun)
 ***führen***
   führen, leiten :: head ((transitive) be in command of) (verb)
 ***fünf***
@@ -996,7 +1002,7 @@ Index: DE DE->EN
 ***furzen***
   furzen, pupsen :: fart (to emit flatulent gases) (verb)
 ***Futurismus***
-  Futurismus {m} :: futurism () (noun)
+  Futurismus {m} :: futurism (noun)
 ***Gälisch***
   Irisch {n}, Irisch-Gälisch {n}, Gälisch {n} :: Irish (the language) (proper noun)
 ===gärn===
@@ -1040,8 +1046,6 @@ Index: DE DE->EN
   Geschwulst {f} :: growth (pathology: abnormal mass such as a tumor) (noun)
 ===gestaltwandeln===
   gestaltwandeln :: shapeshift (change shape) (verb)
-***gesund***
-  gesund :: able (healthy) (adjective)
 ***Gewerkschaft***
   Gewerkschaft {f} :: trade union (organization) (noun)
 ===gießen===
@@ -1243,7 +1247,7 @@ Index: DE DE->EN
   in :: in (in fashion, popular) (adjective)
   Bindfäden regnen, in Strömen regnen, aus allen Kannen gießen, aus allen Kannen schütten, wie aus Eimern schütten :: rain cats and dogs (to rain very heavily) (verb)
 ===Informatik===
-  Informatik {f} (de) :: computer science (study of computers and their architecture) (noun)
+  Informatik {f} :: computer science (study of computers and their architecture) (noun)
 ***Inkarnation***
   Avatar {m}, Avatara {m}, Herabkunft {f}, Inkarnation {f} :: avatar (The earthly incarnation of a deity, particularly Vishnu) (noun)
 ***Inlandsschuld***
@@ -1265,13 +1269,13 @@ Index: DE DE->EN
 ***ist***
   ist :: is (verb)
   (Old High German) ist :: is (verb)
-===ität===
+***ität***
   -ität {f} :: -ity (Used to form nouns from adjectives.) (suffix)
 ===jään===
   ((Cologne)) isch han dich leev, isch han dich jään :: I love you (affirmation of romantic feeling) (phrase)
 ***jäh***
-  abrupt, jäh, schroff, steil :: abrupt (broken off or very steep) (adjective)
-  abrupt, jäh :: abrupt (sudden or hasty) (adjective)
+  abrupt, jäh, schroff, steil :: abrupt (extremely steep) (adjective)
+  abrupt, jäh :: abrupt (without notice) (adjective)
   abrupt, jäh :: abrupt (having sudden transitions from one state to next) (adjective)
 ***Jahr***
   (Alemannic German) Jahr {n} :: year (time it takes for the Earth to complete one revolution of the Sun) (noun)
@@ -1309,6 +1313,8 @@ Index: DE DE->EN
   alle, jedermann, jeder :: everybody (all people) (pronoun)
 ***jedermann***
   alle, jedermann, jeder :: everybody (all people) (pronoun)
+***Judenhass***
+  Antisemitismus {m}, Judenhass {m} :: anti-Semitism (prejudice or hostility against Jews) (noun)
 ***Juli***
   Juli {m}, Heuert {m} :: July (seventh month of the Gregorian calendar) (proper noun)
   (Low German) Juli {m}, Julimaand {m} :: July (seventh month of the Gregorian calendar) (proper noun)
@@ -1328,6 +1334,8 @@ Index: DE DE->EN
   Kabeljau {m}, Dorsch {m} :: cod (marine fish of the family Gadidae) (noun)
 ***Kacke***
   Scheiße, Kacke {f} :: crap (excrement) (noun)
+***Kaffer***
+  Neger {m}, Nigger {m}, Kaffer {m} :: nigger (negro person) (noun)
 ***Kalender***
   Kalender {m} :: calendar (system by which time is divided) (noun)
   Kalender {m} :: calendar (means to determine the date) (noun)
@@ -1362,7 +1370,7 @@ Index: DE DE->EN
 ***Koffer***
   Koffer {m} :: portmanteau (case) (noun)
 ***Kofferwort***
-  Kofferwort {n} :: portmanteau word (a word formed which combines the meaning of two words) (noun)
+  Kofferwort {n} :: portmanteau word (word which combines the meaning of two words) (noun)
 ***Kolben***
   Kolben {m} :: stock (part of gun) (noun)
 ***Kolkrabe***
@@ -1466,7 +1474,7 @@ Index: DE DE->EN
 ===Lenkfahrzeug===
   Fahrzeug, Lenkfahrzeug :: craft (vehicle designed for navigation) (noun)
 ***Lenz***
-  Frühling {m}, Lenz {m}, Frühjahr {n} :: spring (season) (noun)
+  Frühling {m}, Frühjahr {n}, (dated)/(poetic) Lenz {m} :: spring (season) (noun)
 ***Lexikographie***
   Lexikographie {f} :: lexicography (art or craft of writing dictionaries) (noun)
 ***Lexikon***
@@ -1639,13 +1647,13 @@ Index: DE DE->EN
 ***Neederländėsch***
   (Kölsch) Neederländėsch :: Dutch (the Dutch language) (proper noun)
 ***Neger***
-  Neger {m} :: nigger (negro person) (noun)
+  Neger {m}, Nigger {m}, Kaffer {m} :: nigger (negro person) (noun)
 ===nehmen===
   hinnehmen, auf sich nehmen :: accept (to endure patietly) (verb)
 ***nennen***
-  nennen, taufen, bezeichnen, benennen :: name (give a name to) (verb)
-  nennen, wählen :: name (mention, specify, choose) (verb)
-  nennen :: name (identify, define, specify) (verb)
+  nennen, taufen, bezeichnen, benennen :: name (to give a name to) (verb)
+  nennen, wählen :: name (to mention, specify) (verb)
+  nennen :: name (to identify, define, specify) (verb)
 ***neun***
   neun :: nine (cardinal number) (cardinal number)
 ***Nichts***
@@ -1665,6 +1673,8 @@ Index: DE DE->EN
   (Pennsylvania German) Niederlaendische Schprooch :: Dutch (the Dutch language) (proper noun)
 ***Niemand***
   Null {f}, Nichts {n}, Niemand {m} :: zero (person of little importance) (noun)
+***Nigger***
+  Neger {m}, Nigger {m}, Kaffer {m} :: nigger (negro person) (noun)
 ***Nille***
   Eichel {f}, Nille {f} :: dickhead ((slang) glans penis) (noun)
 ===nominalization===
@@ -1685,11 +1695,12 @@ Index: DE DE->EN
 ***Novembermaand***
   (Low German) November {m}, Novembermaand {m} :: November (eleventh month of the Gregorian calendar) (proper noun)
 ***null***
-  null :: zero (cardinal number before 1, denoting nothing) (cardinal number)
+  null, Null {f} :: zero (cardinal number before 1, denoting nothing) (cardinal number)
 ***Null***
+  null, Null {f} :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   Null {f} :: zero (numeric symbol of zero) (noun)
   Null {f} :: zero (digit zero) (noun)
-  Null {f} :: zero (irrelevant amount) (noun)
+  Null {f} :: zero (nothing, or none) (noun)
   Null {f} :: zero (point of origin on a scale) (noun)
   Null {f} :: zero (identity element of a monoid) (noun)
   Null {f}, Nichts {n}, Niemand {m} :: zero (person of little importance) (noun)
@@ -1900,6 +1911,8 @@ Index: DE DE->EN
   riesig, monströs :: abominable ((obsolete) excessive; large) (adjective)
 ***rīm***
   (Old High German) rīm :: number (abstract entity) (noun)
+***Robot***
+  (Namibia, South Africa (KwaZulu-Natal)) Robot {m} :: robot (traffic light) (noun)
 ***Roboter***
   Roboter {m} :: robot (intelligent mechanical being) (noun)
 ***roh***
@@ -1974,7 +1987,7 @@ Index: DE DE->EN
 ***schreiben***
   notieren, schreiben :: book (write down) (verb)
 ***schroff***
-  abrupt, jäh, schroff, steil :: abrupt (broken off or very steep) (adjective)
+  abrupt, jäh, schroff, steil :: abrupt (extremely steep) (adjective)
 ***Schuld***
   Schuld {f}, Verbindlichkeit {f}, Verpflichtung {f} :: debt (action, state of mind, or object one has an obligation to perform for another) (noun)
 ***Schulden***
@@ -1989,6 +2002,8 @@ Index: DE DE->EN
   Abort {m}, Schwangerschaftsabbruch {m} :: abort (A miscarriage) (noun)
 ***Schwanz***
   Schwanz {m} :: dick (colloquial: penis) (noun)
+***Schwebezustand***
+  Schwebezustand {m}, Unentschiedenheit {f} :: abeyance (expectancy; condition of being undetermined) (noun)
 ***sechs***
   sechs :: six (cardinal number) (cardinal number)
 ***Sechs***
@@ -2111,7 +2126,7 @@ Index: DE DE->EN
 ***Steganographie***
   Steganographie {f} :: steganography (steganography) (noun)
 ***steil***
-  abrupt, jäh, schroff, steil :: abrupt (broken off or very steep) (adjective)
+  abrupt, jäh, schroff, steil :: abrupt (extremely steep) (adjective)
 ***Stein***
   Stein {m}, Spielfigur {f} :: man (piece in board games) (noun)
 ***Stelldichein***
@@ -2120,7 +2135,7 @@ Index: DE DE->EN
   nullen, auf Null stellen :: zero (to set to zero) (verb)
 ***sterben***
   sterben :: absquatulate (to die) (verb)
-  sterben, umkommen :: die (to stop living) (verb)
+  sterben, umkommen, versterben :: die (to stop living) (verb)
 ***Stern***
   Stern {m} :: star (luminous celestial body) (noun)
 ===storm===
@@ -2168,7 +2183,9 @@ Index: DE DE->EN
 ***Taktsignal***
   Taktsignal {n} :: clock (electrical signal) (noun)
 ***taufen***
-  nennen, taufen, bezeichnen, benennen :: name (give a name to) (verb)
+  nennen, taufen, bezeichnen, benennen :: name (to give a name to) (verb)
+***tauschen***
+  tauschen :: barter (exchange goods or services without involving money) (verb)
 ===Tauschhandel===
   Tauschhandel {m} :: barter (an equal exchange) (noun)
 ***Teich***
@@ -2239,6 +2256,8 @@ Index: DE DE->EN
   Überlassen {n}, Aufgabe {f}, Preisgabe {f} :: abandonment (act of abandoning) (noun)
 ***Übersetzungsfalle***
   falscher Freund {m}, Übersetzungsfalle {f} :: false friend (false friend) (noun)
+***übrigens***
+  apropos, übrigens :: BTW (by the way) (initialism)
 ***Uhr***
   Zeit {f}, Uhr :: hour (the time) (noun)
   Uhr {f} :: clock (instrument to measure or keep track of time) (noun)
@@ -2249,15 +2268,13 @@ Index: DE DE->EN
 ***umgehen***
   behandeln {f}, umgehen (+ mit) :: deal (handle, manage) (verb)
 ***umkommen***
-  sterben, umkommen :: die (to stop living) (verb)
+  sterben, umkommen, versterben :: die (to stop living) (verb)
 ***umsonst***
   umsonst, gratis, kostenlos :: free (obtainable without payment) (adjective)
 ***Umstandswort***
   Adverb {n}, Umstandswort {n} :: adverb (lexical category) (noun)
 ***Unentschiedenheit***
-  Unentschlossenheit {f}, Unentschiedenheit {f} :: abeyance (expectancy; condition of being undetermined) (noun)
-***Unentschlossenheit***
-  Unentschlossenheit {f}, Unentschiedenheit {f} :: abeyance (expectancy; condition of being undetermined) (noun)
+  Schwebezustand {m}, Unentschiedenheit {f} :: abeyance (expectancy; condition of being undetermined) (noun)
 ***unerwartet***
   abrupt, plötzlich, unerwartet :: abruptly (in an abrupt manner) (adverb)
 ===unfertig===
@@ -2371,6 +2388,8 @@ Index: DE DE->EN
 ===verstecken===
   sich verstecken :: abscond (to hide) (verb)
   verbergen, verheimlichen, verschleiern, verschweigen, verstecken :: conceal (to hide something) (verb)
+***versterben***
+  sterben, umkommen, versterben :: die (to stop living) (verb)
 ***verteilen***
   austeilen, verteilen :: deal (give out as one’s portion or share) (verb)
 ***Vertrag***
@@ -2431,11 +2450,15 @@ Index: DE DE->EN
 ===Wahl===
   zweite Wahl {f} :: second (manufactured item that fails to meet quality control standards) (noun)
 ***wählen***
-  nennen, wählen :: name (mention, specify, choose) (verb)
+  nennen, wählen :: name (to mention, specify) (verb)
 ***während***
   unter, in, ((in dem)) im, während :: in (during) (preposition)
 ***Wandelstern***
   Planet {m}, Wandelstern {m} (old) :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
+***wapen***
+  (Middle Low German) wapen (wâpen) :: weapon (instrument of attack or defense in combat) (noun)
+===wâpen===
+  (Middle Low German) wapen (wâpen) :: weapon (instrument of attack or defense in combat) (noun)
 ***Warten***
   Verweilen {n}, Warten {n} :: abode (obsolete: act of waiting) (noun)
 ===was===
@@ -2610,7 +2633,7 @@ Index: EN EN->DE
   Milliarde {f} :: billion (a thousand million; 1,000,000,000; 10<sup>9</sup>; a milliard) (cardinal number)
   Billion :: billion (a million million; 1,000,000,000,000; 10<sup>12</sup>) (cardinal number)
 ===1===
-  null :: zero (cardinal number before 1, denoting nothing) (cardinal number)
+  null, Null {f} :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   {{sense|abstract counting}} eins, {{sense|counting objects}} ein, eine, einen, einem, einer, eines :: one (cardinal number 1) (cardinal number)
   (Low German) ein :: one (cardinal number 1) (cardinal number)
   (Swiss German) aas, (variant form: oas) :: one (cardinal number 1) (cardinal number)
@@ -2788,7 +2811,7 @@ Index: EN EN->DE
   ermutigen, aufhetzen, anstiften :: abet (to assist or encourage in crime) (verb)
   stützen, helfen :: abet (to support, uphold, or aid) (verb)
 ***abeyance***
-  Unentschlossenheit {f}, Unentschiedenheit {f} :: abeyance (expectancy; condition of being undetermined) (noun)
+  Schwebezustand {m}, Unentschiedenheit {f} :: abeyance (expectancy; condition of being undetermined) (noun)
 ***abhor***
   verabscheuen :: abhor (to regard with horror or detestation) (verb)
 ***abhorrence***
@@ -2821,7 +2844,6 @@ Index: EN EN->DE
   lodernd :: ablaze (on fire) (adjective)
   in Flammen :: ablaze (on fire) (adverb)
 ***able***
-  gesund :: able (healthy) (adjective)
   imstande, fähig :: able (permitted to) (adjective)
   fähig, tüchtig :: able (skillful) (adjective)
   kompetent :: able (legally qualified) (adjective)
@@ -2916,6 +2938,8 @@ Index: EN EN->DE
   Himmel {m} :: sky (atmosphere above a point) (noun)
 ***abovesaid***
   oben erwähnt :: abovesaid (adjective)
+***abracadabra***
+  Abrakadabra :: abracadabra (used to indicate that a magic trick or other illusion has been performed) (interjection)
 ===abrading===
   Abrasion {f} :: abrasion (act of abrading) (noun)
 ***Abrahamic***
@@ -2937,8 +2961,8 @@ Index: EN EN->DE
   abschaffen :: abrogate (to annul by an authoritative act) (verb)
   zunichte machen, aufheben, rückgängig machen :: abrogate (to put an end to) (verb)
 ***abrupt***
-  abrupt, jäh, schroff, steil :: abrupt (broken off or very steep) (adjective)
-  abrupt, jäh :: abrupt (sudden or hasty) (adjective)
+  abrupt, jäh, schroff, steil :: abrupt (extremely steep) (adjective)
+  abrupt, jäh :: abrupt (without notice) (adjective)
   einsiblig, wortkarg, kurz angebunden :: abrupt (curt in manner) (adjective)
   abrupt, jäh :: abrupt (having sudden transitions from one state to next) (adjective)
   abgestumpft :: abrupt (botany: truncated) (adjective)
@@ -2957,10 +2981,8 @@ Index: EN EN->DE
   abwesend :: absent (being away from a place) (adjective)
   (geistig) abwesend :: absent (inattentive) (adjective)
   zerstreut :: absent-minded (absent in mind) (adjective)
-===absolute===
-  Absolutheit {f} :: absoluteness (quality of being absolute) (noun)
 ***absoluteness***
-  Absolutheit {f} :: absoluteness (quality of being absolute) (noun)
+  Absolutheit {f} :: absoluteness (the fact of being without qualifications; unconditionality) (noun)
 ***absolution***
   Absolution {f} :: absolution (Exercise of priestly jurisdiction in the sacrament of penance, by which Catholics believe the sins of the truly penitent are forgiven) (noun)
   freisprechen :: absolve (pronounce free or give absolution) (verb)
@@ -3019,6 +3041,8 @@ Index: EN EN->DE
   abessinisch :: Abyssinian (of or pertaining to Abyssinia) (adjective)
 ***academian***
   Akademiker {m}, Akademikerin {f} :: academian (member of an academy) (noun)
+***academicism***
+  Akademismus {m} :: academicism (art: traditional or orthodox formalism.) (noun)
 ===academy===
   Akademiker {m}, Akademikerin {f} :: academian (member of an academy) (noun)
 ***accept***
@@ -3097,8 +3121,7 @@ Index: EN EN->DE
   Säure {f} :: acid (a sour substance) (noun)
   Säure {f} :: acid (in chemistry) (noun)
   Lysergsäure-diethylamid :: acid (LSD) (noun)
-***acronym***
-  Akronym {n} :: acronym (word formed by initial letters) (noun)
+===acronym===
   FAQ {p} :: FAQ (acronym for Frequently Asked Questions) (noun)
 ===act===
   Geringschätzung {f} :: floccinaucinihilipilification (act or habit of describing or regarding something as unimportant) (noun)
@@ -3187,7 +3210,7 @@ Index: EN EN->DE
   zehn :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
 ===against===
   Schirm {m}, Sonnenschirm {m}, Regenschirm {m} :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
-  Antisemitismus {m} :: anti-Semitism (prejudice or hostility against Jews) (noun)
+  Antisemitismus {m}, Judenhass {m} :: anti-Semitism (prejudice or hostility against Jews) (noun)
 ===age===
   datieren :: date (to determine the age of something) (verb)
 ===agree===
@@ -3234,7 +3257,6 @@ Index: EN EN->DE
   obfuskieren :: obfuscate (alter code) (verb)
 ===amount===
   Menge {f} :: deal (large number or amount or extent) (noun)
-  Null {f} :: zero (irrelevant amount) (noun)
   zählen :: number (to total; to amount to) (verb)
   Sekunde {f}, Augenblick {m}, Moment {m} :: second (short, indeterminate amount of time) (noun)
 ===An===
@@ -3281,7 +3303,7 @@ Index: EN EN->DE
 ===answering===
   Quiz {n}, Ratespiel {n} :: quiz (competition in the answering of questions) (noun)
 ===anti===
-  Antisemitismus {m} :: anti-Semitism (prejudice or hostility against Jews) (noun)
+  Antisemitismus {m}, Judenhass {m} :: anti-Semitism (prejudice or hostility against Jews) (noun)
 ***antonym***
   Antonym {n} :: antonym (word which has the opposite meaning) (noun)
 ===any===
@@ -3308,7 +3330,7 @@ Index: EN EN->DE
 ===archaic===
   sein :: be ((archaic) used to form the perfect aspect with certain intransitive verbs) (verb)
 ===architecture===
-  Informatik {f} (de) :: computer science (study of computers and their architecture) (noun)
+  Informatik {f} :: computer science (study of computers and their architecture) (noun)
 ===are===
   Absolution {f} :: absolution (Exercise of priestly jurisdiction in the sacrament of penance, by which Catholics believe the sins of the truly penitent are forgiven) (noun)
   Definition {f} :: definition (bodybuilding: the degree to which individual muscles are distinct) (noun)
@@ -3336,6 +3358,7 @@ Index: EN EN->DE
   assoziatives Datenfeld {n} :: dictionary (an associative array) (noun)
 ===art===
   Lexikographie {f} :: lexicography (art or craft of writing dictionaries) (noun)
+  Akademismus {m} :: academicism (art: traditional or orthodox formalism.) (noun)
   Komitologie :: comitology (art of resolving issues by committees) (noun)
 ===article===
   (nominative case) der {m}, (nominative case) die {f}, (nominative case) das {n}, (nominative case) die {p}, ... :: the (article) (article)
@@ -3371,6 +3394,7 @@ Index: EN EN->DE
   Himmel {m} :: sky (atmosphere above a point) (noun)
 ===attack===
   Waffe {f} :: weapon (instrument of attack or defense in combat) (noun)
+  (Middle Low German) wapen (wâpen) :: weapon (instrument of attack or defense in combat) (noun)
 ===attendant===
   Sekundant {m} :: second (attendant of a duel or boxing match standing in for a contestant) (noun)
 ===attention===
@@ -3421,6 +3445,7 @@ Index: EN EN->DE
   Brecheisen {n} :: crow (bar of iron) (noun)
 ***barter***
   Tauschhandel {m} :: barter (an equal exchange) (noun)
+  tauschen :: barter (exchange goods or services without involving money) (verb)
 ===based===
   qualitativ :: qualitative (of descriptions or distinctions based on some quality rather than on some quantity) (adjective)
 ***BC***
@@ -3454,12 +3479,14 @@ Index: EN EN->DE
   erröten :: color (become red through increased blood flow) (verb)
 ===bed===
   zu Bett :: abed (In bed, or on the bed) (adverb)
+===been===
+  Abrakadabra :: abracadabra (used to indicate that a magic trick or other illusion has been performed) (interjection)
 ***beer***
   Bier {n} :: beer (alcoholic drink made of malt) (noun)
   Bier {n} :: beer (glass of beer) (noun)
 ===before===
   oben genannt, oben erwähnt :: above-mentioned (mentioned or named before; aforesaid) (adjective)
-  null :: zero (cardinal number before 1, denoting nothing) (cardinal number)
+  null, Null {f} :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   präkolumbisch :: pre-Columbian (before Christopher Columbus) (adjective)
   v. Chr. (vor Christus) :: BC (before Christ) ({{initialism}})
   zehn :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
@@ -3542,6 +3569,8 @@ Index: EN EN->DE
   an Bord :: aboard (on board) (adverb)
   an Bord :: aboard (on board of) (preposition)
   Stein {m}, Spielfigur {f} :: man (piece in board games) (noun)
+===boat===
+  Festmacherleine {f} :: spring (rope on a boat) (noun)
 ===bodies===
   Aberration {f} :: aberration (astronomy: small periodical change of position of heavenly bodies) (noun)
   Planet {m}, Wandelstern {m} (old) :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
@@ -3594,8 +3623,6 @@ Index: EN EN->DE
   verringern, mindern :: abate (to bring down or reduce to a lower state) (verb)
   nachlassen, zurückgehen :: abate (to bring down a person physically or mentally) (verb)
   einstellen :: abate (obsolete: to bring entirely down or put an end to) (verb)
-===broken===
-  abrupt, jäh, schroff, steil :: abrupt (broken off or very steep) (adjective)
 ===broth===
   Brühe {f} :: stock (broth) (noun)
 ===brought===
@@ -3605,6 +3632,8 @@ Index: EN EN->DE
   (Low German) Brun :: brown (colour) (noun)
   braun :: brown (having brown colour) (adjective)
   (Low German) brun :: brown (having brown colour) (adjective)
+***BTW***
+  apropos, übrigens :: BTW (by the way) (initialism)
 ===bureaucracy===
   Bürokrat {m} :: bureaucrat (An official in a bureaucracy) (noun)
 ***bureaucrat***
@@ -3680,7 +3709,7 @@ Index: EN EN->DE
 ===cardinal===
   sieben :: seven (cardinal number 7) (cardinal number)
   (Old High German) sibun :: seven (cardinal number 7) (cardinal number)
-  null :: zero (cardinal number before 1, denoting nothing) (cardinal number)
+  null, Null {f} :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   {{sense|abstract counting}} eins, {{sense|counting objects}} ein, eine, einen, einem, einer, eines :: one (cardinal number 1) (cardinal number)
   (Low German) ein :: one (cardinal number 1) (cardinal number)
   (Swiss German) aas, (variant form: oas) :: one (cardinal number 1) (cardinal number)
@@ -3777,8 +3806,6 @@ Index: EN EN->DE
 ===Chinese===
   traditionelles Chinesisch {n}, Langzeichen {n} :: Traditional Chinese (Chinese written using traditional characters) (proper noun)
   vereinfachtes Chinesisch {n}, Kurzzeichen {n} :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
-===choose===
-  nennen, wählen :: name (mention, specify, choose) (verb)
 ===chosen===
   Vorname {m} :: first name (name chosen by parents) (noun)
 ===Christ===
@@ -3851,8 +3878,9 @@ Index: EN EN->DE
   Kapitelldeckplatte {f} :: abacus (uppermost member of the capital of a column) (noun)
 ===combat===
   Waffe {f} :: weapon (instrument of attack or defense in combat) (noun)
+  (Middle Low German) wapen (wâpen) :: weapon (instrument of attack or defense in combat) (noun)
 ===combines===
-  Kofferwort {n} :: portmanteau word (a word formed which combines the meaning of two words) (noun)
+  Kofferwort {n} :: portmanteau word (word which combines the meaning of two words) (noun)
 ===comes===
   zweiter {m} :: second (that which comes after the first) (adjective)
 ===Coming===
@@ -3906,10 +3934,10 @@ Index: EN EN->DE
 ===comprehensive===
   Enzyklopädie {f} :: encyclopedia (comprehensive reference with articles on a range of topic) (noun)
 ===computer===
-  Informatik {f} (de) :: computer science (study of computers and their architecture) (noun)
+  Informatik {f} :: computer science (study of computers and their architecture) (noun)
   Sprache {f}, Sprachen {p} :: language (computer language) (noun)
 ===computers===
-  Informatik {f} (de) :: computer science (study of computers and their architecture) (noun)
+  Informatik {f} :: computer science (study of computers and their architecture) (noun)
 ===computing===
   abbrechen :: abort ({{qualifier|computing}} to terminate a process prior to completion) (verb)
   Port {n} :: port (computing: logical or physical construct into and from which data are transferred) (noun)
@@ -3931,7 +3959,7 @@ Index: EN EN->DE
 ===concurrence===
   Übereinstimmung {f} :: accord (agreement or concurrence of opinion) (noun)
 ===condition===
-  Unentschlossenheit {f}, Unentschiedenheit {f} :: abeyance (expectancy; condition of being undetermined) (noun)
+  Schwebezustand {m}, Unentschiedenheit {f} :: abeyance (expectancy; condition of being undetermined) (noun)
   elend, kläglich, jämmerlich :: abject (Sunk to a low condition; down in spirit or hope) (adjective)
   Schulden {f}, Verbindlichkeit {f} :: debt (state or condition of owing something to another) (noun)
   Luft {f}, Himmel {m} :: sky (specific view, condition) (noun)
@@ -4164,8 +4192,9 @@ Index: EN EN->DE
   ich mag dich, ich liebe dich, Ich habe dich lieb :: I love you (affirmation of affection or deep caring) (phrase)
 ===defense===
   Waffe {f} :: weapon (instrument of attack or defense in combat) (noun)
+  (Middle Low German) wapen (wâpen) :: weapon (instrument of attack or defense in combat) (noun)
 ===define===
-  nennen :: name (identify, define, specify) (verb)
+  nennen :: name (to identify, define, specify) (verb)
 ===defining===
   Begriffserklärung {f}, Definierung {f} :: definition (action or process of defining) (noun)
   Begriffserklärung {f}, Definierung {f} :: definition (act of defining) (noun)
@@ -4195,7 +4224,7 @@ Index: EN EN->DE
 ===demarcation===
   Scharfzeichnung {f}, Konturentreue {f}, Trennschärfe {f}, Präzision {f} :: definition (sharp demarcation of outlines or limits) (noun)
 ===denoting===
-  null :: zero (cardinal number before 1, denoting nothing) (cardinal number)
+  null, Null {f} :: zero (cardinal number before 1, denoting nothing) (cardinal number)
 ===deny===
   entsagen :: abnegate (to deny oneself something) (verb)
 ===depart===
@@ -4216,7 +4245,7 @@ Index: EN EN->DE
 ===deserted===
   verlassen, herrenlos :: abandoned (forsaken, deserted) (adjective)
 ===designate===
-  ernennen :: name (designate for a role) (verb)
+  ernennen :: name (to designate for a role) (verb)
 ===designed===
   Fahrzeug, Lenkfahrzeug :: craft (vehicle designed for navigation) (noun)
 ===destroy===
@@ -4272,7 +4301,7 @@ Index: EN EN->DE
   Wörterbuch {n} :: dictionary (publication that explains the meanings of an ordered list of words) (noun)
   assoziatives Datenfeld {n} :: dictionary (an associative array) (noun)
 ***die***
-  sterben, umkommen :: die (to stop living) (verb)
+  sterben, umkommen, versterben :: die (to stop living) (verb)
   Würfel {m} :: die (polyhedron used in games of chance) (noun)
   (Low German) terling {m}, wörpelterling {m}, dubbelsten {m}, wörpel {m} :: die (polyhedron used in games of chance) (noun)
   sterben :: absquatulate (to die) (verb)
@@ -4569,6 +4598,7 @@ Index: EN EN->DE
   riesig, monströs :: abominable ((obsolete) excessive; large) (adjective)
 ===exchange===
   Tauschhandel {m} :: barter (an equal exchange) (noun)
+  tauschen :: barter (exchange goods or services without involving money) (verb)
   Akzeptanz {f} :: acceptance ((commerce) An assent and engagement by the person on whom a bill of exchange is drawn) (noun)
 ===excoriation===
   Abrasion {f} :: abrasion (medicine: superficial excoriation) (noun)
@@ -4577,12 +4607,11 @@ Index: EN EN->DE
 ===Exercise===
   Absolution {f} :: absolution (Exercise of priestly jurisdiction in the sacrament of penance, by which Catholics believe the sins of the truly penitent are forgiven) (noun)
 ===exist===
-  entspringen :: spring (start to exist) (verb)
   sein :: be (exist) (verb)
 ===existence===
   Polytheismus {m} :: polytheism (belief of existence of many gods) (noun)
 ===expectancy===
-  Unentschlossenheit {f}, Unentschiedenheit {f} :: abeyance (expectancy; condition of being undetermined) (noun)
+  Schwebezustand {m}, Unentschiedenheit {f} :: abeyance (expectancy; condition of being undetermined) (noun)
 ===explaining===
   Definition {f} :: definition (action or power of describing, explaining, or making definite) (noun)
 ===explains===
@@ -4602,6 +4631,7 @@ Index: EN EN->DE
 ===extreme===
   abscheu, ekel :: abhorrence (extreme aversion) (noun)
 ===extremely===
+  abrupt, jäh, schroff, steil :: abrupt (extremely steep) (adjective)
   erbärmlich, jämmerlich :: abysmal (extremely bad) (adjective)
 ===eye===
   Linse {f} :: lens (anatomy: transparent crystalline structure in the eye) (noun)
@@ -4614,6 +4644,8 @@ Index: EN EN->DE
   fabulieren :: fable (compose fables) (verb)
 ===face===
   Zehn-Dollar-Note {f} :: eagle (A gold coin with a face value of $10.00) (noun)
+===fact===
+  Absolutheit {f} :: absoluteness (the fact of being without qualifications; unconditionality) (noun)
 ===failing===
   erfolglos :: abortive (Coming to naught; failing in its effect; miscarrying; fruitless; unsuccessful) (adjective)
 ===fails===
@@ -4635,8 +4667,8 @@ Index: EN EN->DE
 ===farm===
   Vieh {n} :: stock (farm animals) (noun)
 ***fart***
-  Furz {m}, Fürze {p}, Pups {m} :: fart (an emission of flatulent gases) (noun)
   furzen, pupsen :: fart (to emit flatulent gases) (verb)
+  Furz {m}, Fürze {p}, Pups {m} :: fart (an emission of flatulent gases) (noun)
 ===fashion===
   in :: in (in fashion, popular) (adjective)
 ===fast===
@@ -4721,8 +4753,8 @@ Index: EN EN->DE
 ===fixed===
   Planet {m}, Wandelstern {m} (old) :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
 ===flatulent===
-  Furz {m}, Fürze {p}, Pups {m} :: fart (an emission of flatulent gases) (noun)
   furzen, pupsen :: fart (to emit flatulent gases) (verb)
+  Furz {m}, Fürze {p}, Pups {m} :: fart (an emission of flatulent gases) (noun)
 ===flavour===
   würzen :: season (to flavour food) (verb)
 ===flesh===
@@ -4782,10 +4814,10 @@ Index: EN EN->DE
   Einzahl {f}, Singular {m} :: singular (grammar: form of a word that refers to only one thing) (noun)
 ===formal===
   Marsch {m} :: march (formal, rhythmic way of walking) (noun)
+===formalism===
+  Akademismus {m} :: academicism (art: traditional or orthodox formalism.) (noun)
 ===formed===
-  Kofferwort {n} :: portmanteau word (a word formed which combines the meaning of two words) (noun)
   unvollkommen, rudimentär :: abortive (Imperfectly formed or developed; rudimentary; sterile) (adjective)
-  Akronym {n} :: acronym (word formed by initial letters) (noun)
 ===forms===
   sein :: be (used to form the continuous forms of various tenses) (verb)
 ===forsaken===
@@ -4860,7 +4892,7 @@ Index: EN EN->DE
 ===future===
   sein :: be (used to form future tenses, especially the future subjunctive) (verb)
 ***futurism***
-  Futurismus {m} :: futurism () (noun)
+  Futurismus {m} :: futurism (noun)
 ===Gadidae===
   Kabeljau {m}, Dorsch {m} :: cod (marine fish of the family Gadidae) (noun)
 ===game===
@@ -4872,8 +4904,8 @@ Index: EN EN->DE
 ===gaseous===
   Planet {m} :: planet (rocky or gaseous spherical bodies orbiting the Sun) (noun)
 ===gases===
-  Furz {m}, Fürze {p}, Pups {m} :: fart (an emission of flatulent gases) (noun)
   furzen, pupsen :: fart (to emit flatulent gases) (verb)
+  Furz {m}, Fürze {p}, Pups {m} :: fart (an emission of flatulent gases) (noun)
 ***GDP***
   BIP :: GDP (gross domestic product) ({{initialism}})
 ===generic===
@@ -4902,7 +4934,7 @@ Index: EN EN->DE
   deutsch :: German (of or relating to the country of Germany) (adjective)
 ===give===
   austeilen, verteilen :: deal (give out as one’s portion or share) (verb)
-  nennen, taufen, bezeichnen, benennen :: name (give a name to) (verb)
+  nennen, taufen, bezeichnen, benennen :: name (to give a name to) (verb)
   aufgeben, verlassen :: abandon (to give up) (verb)
   freisprechen :: absolve (pronounce free or give absolution) (verb)
   freisprechen, lossprechen, absolvieren :: absolve (theology: pronounce free or give absolution from sin) (verb)
@@ -4936,6 +4968,7 @@ Index: EN EN->DE
 ===good===
   hochklassig, hochwertig, Qualitäts- :: quality (being of good worth) (adjective)
 ===goods===
+  tauschen :: barter (exchange goods or services without involving money) (verb)
   Transporter {m}, Lieferwagen {m} :: van (A (covered) vehicle used for carrying goods) (noun)
   Vorrat {m} :: stock (store of goods for sale) (noun)
 ***google***
@@ -5030,10 +5063,9 @@ Index: EN EN->DE
   Akkord {m} :: accord (harmony of sounds) (noun)
 ===has===
   Antonym {n} :: antonym (word which has the opposite meaning) (noun)
+  Abrakadabra :: abracadabra (used to indicate that a magic trick or other illusion has been performed) (interjection)
   Schuld {f}, Verbindlichkeit {f}, Verpflichtung {f} :: debt (action, state of mind, or object one has an obligation to perform for another) (noun)
   sein :: be (used to indicate that the subject has the qualities described by a noun or noun phrase) (verb)
-===hasty===
-  abrupt, jäh :: abrupt (sudden or hasty) (adjective)
 ===hate===
   verabscheuen :: abominate (to feel disgust towards, to hate in the highest degree) (verb)
 ===hateful===
@@ -5075,8 +5107,6 @@ Index: EN EN->DE
   Leiter {m}, Leiterin {f}, Rektor {m}, Rektorin {f}, Direktor {m}, Direktorin {f} :: head (headmaster, headmistress) (noun)
 ===healing===
   Arznei {f}, Medizin {f}, Medikament {n} :: medicine (substance which promotes healing) (noun)
-===healthy===
-  gesund :: able (healthy) (adjective)
 ===heaven===
   Luft {f}, Himmel {m} :: sky (heaven) (noun)
 ===heavenly===
@@ -5121,7 +5151,7 @@ Index: EN EN->DE
 ===horse===
   Gebiss {n}, Mundstück {n} :: bit (metal in horse's mouth) (noun)
 ===hostility===
-  Antisemitismus {m} :: anti-Semitism (prejudice or hostility against Jews) (noun)
+  Antisemitismus {m}, Judenhass {m} :: anti-Semitism (prejudice or hostility against Jews) (noun)
 ===hottest===
   Sommer {m} :: summer (hottest season) (noun)
   (Old High German) sumar :: summer (hottest season) (noun)
@@ -5135,8 +5165,8 @@ Index: EN EN->DE
 ===human===
   Entführung {f} :: abduction (law: carrying off of a human being) (noun)
   Hautfarbe {f} :: color (human skin tone, especially as an indicator of race or ethnicity) (noun)
-  Mann {m}, Herr {m} :: man (adult male human) (noun)
   Mensch :: man (human) (noun)
+  Mann {m}, Herr {m} :: man (adult male human) (noun)
 ===hurry===
   fliehen, fortlaufen, davonmachen :: absquatulate (to leave quickly or in a hurry; to take oneself off; to decamp; to depart) (verb)
 ===hurt===
@@ -5162,18 +5192,20 @@ Index: EN EN->DE
 ===ideas===
   Dach {n} :: umbrella (something that covers a wide range of concepts, ideas, etc.) (noun)
 ===identify===
-  nennen :: name (identify, define, specify) (verb)
+  nennen :: name (to identify, define, specify) (verb)
 ===identity===
   Null {f} :: zero (identity element of a monoid) (noun)
   qualitativ :: qualitative ((chemistry) of a form of analysis that yields the identity of a compound) (adjective)
 ===illicit===
   dealen :: deal (sell (illicit drugs)) (verb)
+===illusion===
+  Abrakadabra :: abracadabra (used to indicate that a magic trick or other illusion has been performed) (interjection)
 ===Imperfectly===
   unvollkommen, rudimentär :: abortive (Imperfectly formed or developed; rudimentary; sterile) (adjective)
 ===impersonal===
   expressed by nominalization when following an adjective :: one (impersonal pronoun) (pronoun)
 ===implicate===
-  benennen :: name (publicly implicate) (verb)
+  benennen :: name (to publicly implicate) (verb)
 ===implied===
   Konnotation, Nebenbedeutung, Beiklang, Beigeschmack :: connotation (suggested or implied meaning) (noun)
 ===importance===
@@ -5217,6 +5249,7 @@ Index: EN EN->DE
 ===indeterminate===
   Sekunde {f}, Augenblick {m}, Moment {m} :: second (short, indeterminate amount of time) (noun)
 ===indicate===
+  Abrakadabra :: abracadabra (used to indicate that a magic trick or other illusion has been performed) (interjection)
   in, an :: on (used to indicate means or medium) (preposition)
   sein :: be (used to indicate that the subject and object are the same) (verb)
   sein :: be (used to indicate that the values on either side of an equation are the same) (verb)
@@ -5250,8 +5283,6 @@ Index: EN EN->DE
   verschlüsseln :: encrypt (to conceal information by means of a code or cipher) (verb)
 ===informed===
   auf dem Laufenden :: abreast (informed) (adverb)
-===initial===
-  Akronym {n} :: acronym (word formed by initial letters) (noun)
 ===inscription===
   Datum :: date (that which specifies the time of writing, inscription etc.) (noun)
 ===instance===
@@ -5262,6 +5293,7 @@ Index: EN EN->DE
   Uhr {f} :: clock (instrument to measure or keep track of time) (noun)
   Flöte {f}, Querflöte {f} :: flute (woodwind instrument) (noun)
   Waffe {f} :: weapon (instrument of attack or defense in combat) (noun)
+  (Middle Low German) wapen (wâpen) :: weapon (instrument of attack or defense in combat) (noun)
   (non-colored) Bleistift {m}, (colored) Buntstift {m} :: pencil (graphite writing-instrument) (noun)
   Griffel {m}, Tafelstift {m} :: pencil (slate writing-instrument) (noun)
 ===intelligent===
@@ -5292,6 +5324,8 @@ Index: EN EN->DE
   sein :: be ((archaic) used to form the perfect aspect with certain intransitive verbs) (verb)
 ===inverse===
   singulär :: singular (linear algebra: of matrix: having no inverse) (adjective)
+===involving===
+  tauschen :: barter (exchange goods or services without involving money) (verb)
 ===Ireland===
   irisch, irländisch (rare) :: Irish (pertaining to or originating from Ireland or the Irish people) (adjective)
 ***Irish***
@@ -5300,8 +5334,6 @@ Index: EN EN->DE
   Irisch {n} :: Irish (pertaining to the language) (adjective)
 ===iron===
   Brecheisen {n} :: crow (bar of iron) (noun)
-===irrelevant===
-  Null {f} :: zero (irrelevant amount) (noun)
 ===irritation===
   reizmindernd :: abirritant (acting to diminish irritation) (adjective)
 ***is***
@@ -5334,7 +5366,7 @@ Index: EN EN->DE
 ===jet===
   rabenschwarz {n} :: raven (of the color of the raven; jet-black) (adjective)
 ===Jews===
-  Antisemitismus {m} :: anti-Semitism (prejudice or hostility against Jews) (noun)
+  Antisemitismus {m}, Judenhass {m} :: anti-Semitism (prejudice or hostility against Jews) (noun)
 ***jiffy***
   Moment {m}, Augenblick {m} :: jiffy (short length of time) (noun)
 ===job===
@@ -5456,7 +5488,6 @@ Index: EN EN->DE
   alphabetisch :: alphabetical (in the sequence of the letters of the alphabet) (adjective)
   Alphabet {n} :: alphabet (an ordered set of letters used in a language) (noun)
   römische Ziffer {f} :: Roman numeral (a numeral represented by letters) (noun)
-  Akronym {n} :: acronym (word formed by initial letters) (noun)
 ===level===
   Qualität {f} :: quality (level of excellence) (noun)
 ===lexical===
@@ -5471,6 +5502,7 @@ Index: EN EN->DE
   Zeit {f} :: date (obsolete: given or assigned length of life) (noun)
   Hölle {f} :: hell (place of suffering in life) (noun)
 ===light===
+  (Namibia, South Africa (KwaZulu-Natal)) Robot {m} :: robot (traffic light) (noun)
   Farbe {f} :: color (spectral composition of visible light) (noun)
   Linse {f} :: lens (object focusing or defocusing the light passing through it) (noun)
   Lichtgeschwindigkeit {f} :: lightspeed (the speed of light) (noun)
@@ -5502,7 +5534,7 @@ Index: EN EN->DE
 ===little===
   Null {f}, Nichts {n}, Niemand {m} :: zero (person of little importance) (noun)
 ===living===
-  sterben, umkommen :: die (to stop living) (verb)
+  sterben, umkommen, versterben :: die (to stop living) (verb)
 ===loathsome===
   Ekel {n} :: abhorrence (loathsome person or thing) (noun)
   verabscheuungswürdig, verhasst, abscheulich :: abominable (hateful; detestable; loathsome) (adjective)
@@ -5546,6 +5578,8 @@ Index: EN EN->DE
 ===made===
   Sprungfeder {f}, Feder {f} :: spring (device made of flexible material) (noun)
   Bier {n} :: beer (alcoholic drink made of malt) (noun)
+===magic===
+  Abrakadabra :: abracadabra (used to indicate that a magic trick or other illusion has been performed) (interjection)
 ===magnitude===
   Nullpunkt {m} :: zero (zero value of a magnitude) (noun)
 ===major===
@@ -5575,8 +5609,8 @@ Index: EN EN->DE
   Erdferkel {n} :: aardvark (mammal) (noun)
   Erdwolf {m} :: aardwolf (the mammal species Proteles cristatus) (noun)
 ***man***
-  Mann {m}, Herr {m} :: man (adult male human) (noun)
   Mensch :: man (human) (noun)
+  Mann {m}, Herr {m} :: man (adult male human) (noun)
   Stein {m}, Spielfigur {f} :: man (piece in board games) (noun)
   bemannen :: man (to supply with staff or crew) (verb)
   bemannen :: man (to take up position in order to operate something) (verb)
@@ -5651,7 +5685,7 @@ Index: EN EN->DE
   Antonym {n} :: antonym (word which has the opposite meaning) (noun)
   Konnotation, Nebenbedeutung, Beiklang, Beigeschmack :: connotation (suggested or implied meaning) (noun)
   Synonym {n} :: synonym (word with same meaning as another) (noun)
-  Kofferwort {n} :: portmanteau word (a word formed which combines the meaning of two words) (noun)
+  Kofferwort {n} :: portmanteau word (word which combines the meaning of two words) (noun)
   Begriffserklärung {f}, Definition {f} :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
 ===meaningless===
   Blödsinn {m}, Nonsens {m}, Quatsch {m} (colloquial), Unsinn {m}, :: nonsense (meaningless words) (noun)
@@ -5704,7 +5738,7 @@ Index: EN EN->DE
 ===mentally===
   nachlassen, zurückgehen :: abate (to bring down a person physically or mentally) (verb)
 ===mention===
-  nennen, wählen :: name (mention, specify, choose) (verb)
+  nennen, wählen :: name (to mention, specify) (verb)
 ===mentioned===
   oben genannt, oben erwähnt :: above-mentioned (mentioned or named before; aforesaid) (adjective)
 ===message===
@@ -5774,6 +5808,7 @@ Index: EN EN->DE
   Montag {m} :: Monday (day of the week) (noun)
   Montag, am Montag :: Monday (on Monday) (adverb)
 ===money===
+  tauschen :: barter (exchange goods or services without involving money) (verb)
   Schulden {f}, Verbindlichkeit {f} :: debt (money that one person or entity owes or is required to pay to another) (noun)
 ===monoid===
   Null {f} :: zero (identity element of a monoid) (noun)
@@ -5860,11 +5895,11 @@ Index: EN EN->DE
 ***name***
   Name {m} :: name (word or phrase indicating a particular person, place, class or thing) (noun)
   Name {m}, Ruf {m} :: name (reputation) (noun)
-  nennen, taufen, bezeichnen, benennen :: name (give a name to) (verb)
-  nennen, wählen :: name (mention, specify, choose) (verb)
-  nennen :: name (identify, define, specify) (verb)
-  benennen :: name (publicly implicate) (verb)
-  ernennen :: name (designate for a role) (verb)
+  nennen, taufen, bezeichnen, benennen :: name (to give a name to) (verb)
+  nennen, wählen :: name (to mention, specify) (verb)
+  nennen :: name (to identify, define, specify) (verb)
+  benennen :: name (to publicly implicate) (verb)
+  ernennen :: name (to designate for a role) (verb)
   Vorname {m} :: first name (name chosen by parents) (noun)
   Fabian :: Fabian (male given name) (proper noun)
   Ny {n} :: nu (name for the letter of the Greek alphabet: Ν and ν) (noun)
@@ -5900,7 +5935,7 @@ Index: EN EN->DE
 ===nearly===
   ungefähr :: about (nearly) (adverb)
 ===negro===
-  Neger {m} :: nigger (negro person) (noun)
+  Neger {m}, Nigger {m}, Kaffer {m} :: nigger (negro person) (noun)
 ***Netherlands***
   Holland {n}, die Niederlande {n|p} :: Netherlands (country in northwestern Europe) (proper noun)
   niederlandisch, holländisch :: Netherlands (pertaining to the Netherlands) (adjective)
@@ -5911,7 +5946,7 @@ Index: EN EN->DE
 ===next===
   abrupt, jäh :: abrupt (having sudden transitions from one state to next) (adjective)
 ***nigger***
-  Neger {m} :: nigger (negro person) (noun)
+  Neger {m}, Nigger {m}, Kaffer {m} :: nigger (negro person) (noun)
 ===night===
   Planet {m}, Wandelstern {m} (old) :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
 ***nine***
@@ -5926,6 +5961,8 @@ Index: EN EN->DE
   sein :: be (used to indicate that the subject plays the role of the predicate nominative) (verb)
 ===non===
   Außerirdischer {m}, Außerirdische {f} :: alien (life form of non-Earth origin) (noun)
+===none===
+  Null {f} :: zero (nothing, or none) (noun)
 ***nonsense***
   Blödsinn {m}, Nonsens {m}, Quatsch {m} (colloquial), Unsinn {m}, :: nonsense (meaningless words) (noun)
   Quatsch {m}, Dünnschiß {m} :: poppycock (nonsense) (noun)
@@ -5949,7 +5986,10 @@ Index: EN EN->DE
 ===notes===
   Sekunde {f} :: second (interval between two adjacent notes in a diatonic scale (with or without extra accidentals)) (noun)
 ===nothing===
-  null :: zero (cardinal number before 1, denoting nothing) (cardinal number)
+  null, Null {f} :: zero (cardinal number before 1, denoting nothing) (cardinal number)
+  Null {f} :: zero (nothing, or none) (noun)
+===notice===
+  abrupt, jäh :: abrupt (without notice) (adjective)
 ***noun***
   Substantiv {n} :: noun (grammatical category) (noun)
   (Swiss German) Substantiv {n} :: noun (grammatical category) (noun)
@@ -5977,13 +6017,14 @@ Index: EN EN->DE
   Nummer :: number (numeral) (noun)
   Zahl {f} :: number (mathematical number) (noun)
   Nummer {f} :: number (used to show the rank of something in a list or sequence) (noun)
+  Anzahl {f} :: number (quantity) (noun)
   nummerieren :: number (label with numbers; assign numbers to) (verb)
   zählen :: number (to total; to amount to) (verb)
   mehrdeutig :: polysemic (having a number of meanings, interpretations or understandings) (adjective)
   Menge {f} :: deal (large number or amount or extent) (noun)
   sieben :: seven (cardinal number 7) (cardinal number)
   (Old High German) sibun :: seven (cardinal number 7) (cardinal number)
-  null :: zero (cardinal number before 1, denoting nothing) (cardinal number)
+  null, Null {f} :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   Zahl {f}, Ziffer {f} :: numeral (word or symbol representing a number) (noun)
   {{sense|abstract counting}} eins, {{sense|counting objects}} ein, eine, einen, einem, einer, eines :: one (cardinal number 1) (cardinal number)
   (Low German) ein :: one (cardinal number 1) (cardinal number)
@@ -6072,7 +6113,6 @@ Index: EN EN->DE
   freie Meinungsäußerung {f}, Redefreiheit {f} :: freedom of speech (right to speak without fear of harm) (noun)
 ===off===
   Entführung {f} :: abduction (law: carrying off of a human being) (noun)
-  abrupt, jäh, schroff, steil :: abrupt (broken off or very steep) (adjective)
   fliehen, fortlaufen, davonmachen :: absquatulate (to leave quickly or in a hurry; to take oneself off; to decamp; to depart) (verb)
 ===offered===
   Annahme {f} :: acceptance (receiving of something offered) (noun)
@@ -6164,6 +6204,8 @@ Index: EN EN->DE
   eingeboren, einheimisch :: aboriginal (original; indigenous) (adjective)
 ===originating===
   irisch, irländisch (rare) :: Irish (pertaining to or originating from Ireland or the Irish people) (adjective)
+===orthodox===
+  Akademismus {m} :: academicism (art: traditional or orthodox formalism.) (noun)
 ***os***
   Os :: os (medical term for bone) (noun)
 ***osteo***
@@ -6171,6 +6213,7 @@ Index: EN EN->DE
 ===other===
   achtern, hintern :: abaft ((nautical) Behind; toward the stern relative to some other object or position; aft of) (preposition)
   ablativisch :: ablative (applied to one of the cases of the noun in other language) (adjective)
+  Abrakadabra :: abracadabra (used to indicate that a magic trick or other illusion has been performed) (interjection)
   Eigenname {m} :: proper noun (The name of a particular person, place, organization or other individual entity) (noun)
 ===ounces===
   Pfund {n} :: pound (unit of mass (16 ounces avoirdupois)) (noun)
@@ -6280,6 +6323,8 @@ Index: EN EN->DE
 ===perform===
   Handwerker :: craft (people who perform a particular kind of skilled work) (noun)
   Schuld {f}, Verbindlichkeit {f}, Verpflichtung {f} :: debt (action, state of mind, or object one has an obligation to perform for another) (noun)
+===performed===
+  Abrakadabra :: abracadabra (used to indicate that a magic trick or other illusion has been performed) (interjection)
 ===performing===
   Errungenschaft {f}, Vollendung {f} :: achievement (act of achieving or performing) (noun)
 ===performs===
@@ -6450,7 +6495,7 @@ Index: EN EN->DE
   austeilen, erteilen, zuteilen :: deal (administer in portions) (verb)
 ***portmanteau***
   Koffer {m} :: portmanteau (case) (noun)
-  Kofferwort {n} :: portmanteau word (a word formed which combines the meaning of two words) (noun)
+  Kofferwort {n} :: portmanteau word (word which combines the meaning of two words) (noun)
 ===position===
   achtern, hintern :: abaft ((nautical) Behind; toward the stern relative to some other object or position; aft of) (preposition)
   Aberration {f} :: aberration (astronomy: small periodical change of position of heavenly bodies) (noun)
@@ -6479,7 +6524,7 @@ Index: EN EN->DE
 ===predicate===
   sein :: be (used to indicate that the subject plays the role of the predicate nominative) (verb)
 ===prejudice===
-  Antisemitismus {m} :: anti-Semitism (prejudice or hostility against Jews) (noun)
+  Antisemitismus {m}, Judenhass {m} :: anti-Semitism (prejudice or hostility against Jews) (noun)
 ===prematurely===
   abgetriebenes :: abortive (Produced by abortion; born prematurely; as, an abortive child.) (adjective)
   Abort {m}, Abtreibung {f}, Interruptio {n} :: abortive (That which is born or brought forth prematurely; an abortion) (noun)
@@ -6551,7 +6596,7 @@ Index: EN EN->DE
 ===publication===
   Wörterbuch {n} :: dictionary (publication that explains the meanings of an ordered list of words) (noun)
 ===publicly===
-  benennen :: name (publicly implicate) (verb)
+  benennen :: name (to publicly implicate) (verb)
 ***pumpkin***
   Kürbis {m} :: pumpkin (plant) (noun)
   Kürbis {m} :: pumpkin (fruit of this plant) (noun)
@@ -6562,6 +6607,8 @@ Index: EN EN->DE
 ===put===
   einstellen :: abate (obsolete: to bring entirely down or put an end to) (verb)
   zunichte machen, aufheben, rückgängig machen :: abrogate (to put an end to) (verb)
+===qualifications===
+  Absolutheit {f} :: absoluteness (the fact of being without qualifications; unconditionality) (noun)
 ===qualified===
   kompetent :: able (legally qualified) (adjective)
 ===qualifier===
@@ -6576,12 +6623,12 @@ Index: EN EN->DE
   Qualität {f}, Eigenschaft {f} :: quality (differentiating property or attribute) (noun)
   hochklassig, hochwertig, Qualitäts- :: quality (being of good worth) (adjective)
   Fähigkeit {f} :: ability (quality or state of being able) (noun)
-  Absolutheit {f} :: absoluteness (quality of being absolute) (noun)
   Absurdität {f} :: absurdity (the quality of being absurd) (noun)
   zweite Wahl {f} :: second (manufactured item that fails to meet quality control standards) (noun)
   sein :: be (used to indicate weather, air quality, or the like) (verb)
   qualitativ :: qualitative (of descriptions or distinctions based on some quality rather than on some quantity) (adjective)
 ===quantity===
+  Anzahl {f} :: number (quantity) (noun)
   qualitativ :: qualitative (of descriptions or distinctions based on some quality rather than on some quantity) (adjective)
 ***quarter***
   Viertel {n} :: quarter (one of four equal parts) (noun)
@@ -6775,6 +6822,7 @@ Index: EN EN->DE
   aberrante :: aberrant (wandering; straying from the right way) (adjective)
 ***robot***
   Roboter {m} :: robot (intelligent mechanical being) (noun)
+  (Namibia, South Africa (KwaZulu-Natal)) Robot {m} :: robot (traffic light) (noun)
 ===rock===
   Abrasion {f}, Abrieb {n} :: abrasion (geology: effect of mechanical erosion of rock) (noun)
 ===rocky===
@@ -6783,7 +6831,7 @@ Index: EN EN->DE
   Aaronsstab {m} :: Aaron's rod (rod used by Aaron) (noun)
   Königskerze {f}, Goldrute {f} :: Aaron's rod (tall plant) (noun)
 ===role===
-  ernennen :: name (designate for a role) (verb)
+  ernennen :: name (to designate for a role) (verb)
   sein :: be (used to indicate that the subject plays the role of the predicate nominative) (verb)
 ===Roman===
   römische Ziffer {f} :: Roman numeral (a numeral represented by letters) (noun)
@@ -6801,6 +6849,8 @@ Index: EN EN->DE
   krähen :: crow (To make the sound of a rooster) (verb)
 ===root===
   Ablaut {m} :: ablaut (substitution of one root vowel for another) (noun)
+===rope===
+  Festmacherleine {f} :: spring (rope on a boat) (noun)
 ===rosary===
   Dekade {f} :: decade (a series of ten Hail Marys in the rosary) (noun)
 ===rotary===
@@ -6844,7 +6894,7 @@ Index: EN EN->DE
 ===school===
   Tag {m} :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
 ===science===
-  Informatik {f} (de) :: computer science (study of computers and their architecture) (noun)
+  Informatik {f} :: computer science (study of computers and their architecture) (noun)
 ===scoring===
   Punkt {m} :: point (unit of scoring in a game or competition) (noun)
 ===scoundrel===
@@ -6859,7 +6909,7 @@ Index: EN EN->DE
   Herbst {m} :: autumn (season) (noun)
   Sommer {m} :: summer (hottest season) (noun)
   (Old High German) sumar :: summer (hottest season) (noun)
-  Frühling {m}, Lenz {m}, Frühjahr {n} :: spring (season) (noun)
+  Frühling {m}, Frühjahr {n}, (dated)/(poetic) Lenz {m} :: spring (season) (noun)
 ***second***
   zweiter {m} :: second (second (numeral)) (adjective)
   zweiter {m} :: second (that which comes after the first) (adjective)
@@ -6885,7 +6935,7 @@ Index: EN EN->DE
 ===semen===
   Sperma {n}, Wichse {f} :: cum (slang: male semen) (noun)
 ===Semitism===
-  Antisemitismus {m} :: anti-Semitism (prejudice or hostility against Jews) (noun)
+  Antisemitismus {m}, Judenhass {m} :: anti-Semitism (prejudice or hostility against Jews) (noun)
 ===sense===
   mit einem Körnchen Salz :: grain of salt (with common sense and skepticism) (noun)
 ===separating===
@@ -6901,6 +6951,8 @@ Index: EN EN->DE
   Dekade {f} :: decade (a series of ten things) (noun)
   Dekade {f} :: decade (a series of ten Hail Marys in the rosary) (noun)
   ausgehen, daten :: date (to take (someone) on a series of dates) (verb)
+===services===
+  tauschen :: barter (exchange goods or services without involving money) (verb)
 ===set===
   entbinden :: absolve (set free) (verb)
   Farbe {f} :: color (particular set of the visible spectrum) (noun)
@@ -7117,8 +7169,8 @@ Index: EN EN->DE
 ===specifies===
   Datum :: date (that which specifies the time of writing, inscription etc.) (noun)
 ===specify===
-  nennen, wählen :: name (mention, specify, choose) (verb)
-  nennen :: name (identify, define, specify) (verb)
+  nennen, wählen :: name (to mention, specify) (verb)
+  nennen :: name (to identify, define, specify) (verb)
 ===spectral===
   Farbe {f} :: color (spectral composition of visible light) (noun)
 ===spectrum===
@@ -7137,12 +7189,12 @@ Index: EN EN->DE
 ===spirit===
   elend, kläglich, jämmerlich :: abject (Sunk to a low condition; down in spirit or hope) (adjective)
 ***spring***
-  entspringen :: spring (start to exist) (verb)
   springen :: spring (jump or leap) (verb)
-  Frühling {m}, Lenz {m}, Frühjahr {n} :: spring (season) (noun)
+  Frühling {m}, Frühjahr {n}, (dated)/(poetic) Lenz {m} :: spring (season) (noun)
   Springflut {f} :: spring (higher-than-average tide) (noun)
   Quelle {f} :: spring (water source) (noun)
   Sprungfeder {f}, Feder {f} :: spring (device made of flexible material) (noun)
+  Festmacherleine {f} :: spring (rope on a boat) (noun)
 ===staff===
   bemannen :: man (to supply with staff or crew) (verb)
 ===stamps===
@@ -7163,7 +7215,6 @@ Index: EN EN->DE
 ===stars===
   Planet {m}, Wandelstern {m} (old) :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
 ===start===
-  entspringen :: spring (start to exist) (verb)
   Geburt {f} :: birth (beginning or start; a point of origin) (noun)
 ===state===
   Zeitwort {n}, Verb {n}, Verbum {n} :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
@@ -7190,7 +7241,7 @@ Index: EN EN->DE
 ===steady===
   Fortgang {m}, Lauf {m} :: march (steady forward movement or progression) (noun)
 ===steep===
-  abrupt, jäh, schroff, steil :: abrupt (broken off or very steep) (adjective)
+  abrupt, jäh, schroff, steil :: abrupt (extremely steep) (adjective)
 ***steganography***
   Steganographie {f} :: steganography (steganography) (noun)
 ===sterile===
@@ -7206,7 +7257,7 @@ Index: EN EN->DE
   Brühe {f} :: stock (broth) (noun)
   vorrätig, verfügbar :: stock (normally available for purchase) (adjective)
 ===stop===
-  sterben, umkommen :: die (to stop living) (verb)
+  sterben, umkommen, versterben :: die (to stop living) (verb)
   Punkt {m} :: point (full stop) (noun)
 ===storage===
   Bit {n} :: bit (smallest unit of storage) (noun)
@@ -7234,7 +7285,7 @@ Index: EN EN->DE
 ===study===
   Etymologie {f} :: etymology (study of the historical development of languages, particularly of individual words) (noun)
   Medizin {f} :: medicine (field of study) (noun)
-  Informatik {f} (de) :: computer science (study of computers and their architecture) (noun)
+  Informatik {f} :: computer science (study of computers and their architecture) (noun)
 ===stupid===
   Dummkopf {m}, Depp {m}, Schwachkopf {m} :: dickhead ((slang) stupid person) (noun)
 ===subject===
@@ -7257,7 +7308,6 @@ Index: EN EN->DE
   Album {n} :: book (convenient collection of small paper items, such as stamps) (noun)
   Geschwulst {f} :: growth (pathology: abnormal mass such as a tumor) (noun)
 ===sudden===
-  abrupt, jäh :: abrupt (sudden or hasty) (adjective)
   abrupt, jäh :: abrupt (having sudden transitions from one state to next) (adjective)
 ===suffering===
   Hölle {f} :: hell (place of suffering in life) (noun)
@@ -7408,7 +7458,7 @@ Index: EN EN->DE
   der {m}, die {f}, das {n}, die {p} :: the (used with the name of a member of a class to refer to all things in that class) (article)
   je + comp., + desto + comp. :: the (the + ～comparative, the + comparative) (adverb)
 ===their===
-  Informatik {f} (de) :: computer science (study of computers and their architecture) (noun)
+  Informatik {f} :: computer science (study of computers and their architecture) (noun)
 ===theology===
   freisprechen, lossprechen, absolvieren :: absolve (theology: pronounce free or give absolution from sin) (verb)
 ===theory===
@@ -7521,8 +7571,11 @@ Index: EN EN->DE
   Abschaffung des Sklavenhandels :: abolition (Abolition of slave trade)
 ===traditional===
   traditionelles Chinesisch {n}, Langzeichen {n} :: Traditional Chinese (Chinese written using traditional characters) (proper noun)
+  Akademismus {m} :: academicism (art: traditional or orthodox formalism.) (noun)
 ===Traditional===
   traditionelles Chinesisch {n}, Langzeichen {n} :: Traditional Chinese (Chinese written using traditional characters) (proper noun)
+===traffic===
+  (Namibia, South Africa (KwaZulu-Natal)) Robot {m} :: robot (traffic light) (noun)
 ===transaction===
   Datum {n}, Zeitpunkt {m} :: date (point of time at which a transaction or event takes place) (noun)
 ===transferred===
@@ -7553,6 +7606,8 @@ Index: EN EN->DE
   (Low German) Orange {f} :: orange (tree) (noun)
 ===tribe===
   Germane {m}, Germanin {f} :: German (member of a Germanic tribe) (noun)
+===trick===
+  Abrakadabra :: abracadabra (used to indicate that a magic trick or other illusion has been performed) (interjection)
 ***trillion***
   Billion :: trillion (a million million, 10<sup>12</sup>) (cardinal number)
   Trillion :: trillion (a million million million, 10<sup>18</sup>) (cardinal number)
@@ -7568,6 +7623,7 @@ Index: EN EN->DE
   genau, präzis, exakt :: accurate (exact or careful conformity to truth) (adjective)
 ***Tuesday***
   Dienstag {m} :: Tuesday (day of the week) (noun)
+  am Dienstag {m} :: Tuesday (on Tuesday) (adverb)
 ===tumor===
   Geschwulst {f} :: growth (pathology: abnormal mass such as a tumor) (noun)
 ===twelfth===
@@ -7577,7 +7633,7 @@ Index: EN EN->DE
   zwei, zwo :: two (one plus one) (cardinal number)
   Zwei {f} :: two (digit or figure) (noun)
   Zweier {m}, Zweidollarschein {m} :: two (two-dollar bill) (noun)
-  Kofferwort {n} :: portmanteau word (a word formed which combines the meaning of two words) (noun)
+  Kofferwort {n} :: portmanteau word (word which combines the meaning of two words) (noun)
   Abszisse {f} :: abscissa (first of two coordinates) (noun)
   ungerade :: odd (not divisible by two) (adjective)
   vierzehn Tage, zwei Wochen :: fortnight (period of two weeks) (noun)
@@ -7594,6 +7650,8 @@ Index: EN EN->DE
   Schirm {m}, Sonnenschirm {m}, Regenschirm {m} :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
   Schirm {m} :: umbrella (anything that provides protection) (noun)
   Dach {n} :: umbrella (something that covers a wide range of concepts, ideas, etc.) (noun)
+===unconditionality===
+  Absolutheit {f} :: absoluteness (the fact of being without qualifications; unconditionality) (noun)
 ===unconstrained===
   frei :: free (unconstrained) (adjective)
 ***uncountable***
@@ -7603,7 +7661,7 @@ Index: EN EN->DE
 ===understandings===
   mehrdeutig :: polysemic (having a number of meanings, interpretations or understandings) (adjective)
 ===undetermined===
-  Unentschlossenheit {f}, Unentschiedenheit {f} :: abeyance (expectancy; condition of being undetermined) (noun)
+  Schwebezustand {m}, Unentschiedenheit {f} :: abeyance (expectancy; condition of being undetermined) (noun)
 ===unending===
   abgründig, abgrundtief :: abysmal (pertaining to, or resembling an abyss; bottomless; unending; profound) (adjective)
 ===unexpectedly===
@@ -7652,6 +7710,7 @@ Index: EN EN->DE
 ===used===
   Aaronsstab {m} :: Aaron's rod (rod used by Aaron) (noun)
   Abbruch {m} :: abort (The function used to abort a process) (noun)
+  Abrakadabra :: abracadabra (used to indicate that a magic trick or other illusion has been performed) (interjection)
   in, an :: on (used to indicate means or medium) (preposition)
   der {m}, die {f}, das {n}, die {p} :: the (used with the name of a member of a class to refer to all things in that class) (article)
   Tinktur {f} :: color (any of the standard dark tinctures used in a coat of arms) (noun)
@@ -7725,7 +7784,6 @@ Index: EN EN->DE
   rasen :: book (travel very fast) (verb)
   Bindfäden regnen, in Strömen regnen, aus allen Kannen gießen, aus allen Kannen schütten, wie aus Eimern schütten :: rain cats and dogs (to rain very heavily) (verb)
   winzig, :: minute (very small) (adjective)
-  abrupt, jäh, schroff, steil :: abrupt (broken off or very steep) (adjective)
 ===vessel===
   Dose {f}, Kanister {m} :: can (a more or less cylindrical vessel for liquids) (noun)
 ===view===
@@ -7769,8 +7827,10 @@ Index: EN EN->DE
   Marsch {m} :: march (formal, rhythmic way of walking) (noun)
   Abweichung {f} :: aberrance (state of being aberrant; a wandering from the right way; deviation from truth, rectitude) (noun)
   aberrante :: aberrant (wandering; straying from the right way) (adjective)
+  apropos, übrigens :: BTW (by the way) (initialism)
 ***weapon***
   Waffe {f} :: weapon (instrument of attack or defense in combat) (noun)
+  (Middle Low German) wapen (wâpen) :: weapon (instrument of attack or defense in combat) (noun)
 ===weather===
   sein :: be (used to indicate weather, air quality, or the like) (verb)
 ***Wednesday***
@@ -7803,7 +7863,7 @@ Index: EN EN->DE
   Monat {m} :: month (period into which a year is divided) (noun)
   Tag {m} :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
   Antonym {n} :: antonym (word which has the opposite meaning) (noun)
-  Kofferwort {n} :: portmanteau word (a word formed which combines the meaning of two words) (noun)
+  Kofferwort {n} :: portmanteau word (word which combines the meaning of two words) (noun)
   Abort {m}, Abtreibung {f}, Interruptio {n} :: abortive (That which is born or brought forth prematurely; an abortion) (noun)
   Kalender {m} :: calendar (system by which time is divided) (noun)
   Absolution {f} :: absolution (Exercise of priestly jurisdiction in the sacrament of penance, by which Catholics believe the sins of the truly penitent are forgiven) (noun)
@@ -7839,6 +7899,9 @@ Index: EN EN->DE
   frei :: free (without obligations) (adjective)
   gratis, kostenlos, frei, kostenfrei :: gratis (free, without charge) (adjective)
   freie Meinungsäußerung {f}, Redefreiheit {f} :: freedom of speech (right to speak without fear of harm) (noun)
+  tauschen :: barter (exchange goods or services without involving money) (verb)
+  abrupt, jäh :: abrupt (without notice) (adjective)
+  Absolutheit {f} :: absoluteness (the fact of being without qualifications; unconditionality) (noun)
   Sekunde {f} :: second (interval between two adjacent notes in a diatonic scale (with or without extra accidentals)) (noun)
 ***wolf***
   Wolf {m}, Wölfin {f} :: wolf (animal) (noun)
@@ -7852,7 +7915,7 @@ Index: EN EN->DE
   Wort {n} :: word (unit of language) (noun)
   Ehrenwort {n} :: word (something promised) (noun)
   Wort {n} :: word (the word of God) (noun)
-  Kofferwort {n} :: portmanteau word (a word formed which combines the meaning of two words) (noun)
+  Kofferwort {n} :: portmanteau word (word which combines the meaning of two words) (noun)
   Antonym {n} :: antonym (word which has the opposite meaning) (noun)
   Synonym {n} :: synonym (word with same meaning as another) (noun)
   Unterbegriff {m}, Hyponym {n} :: hyponym (more specific word) (noun)
@@ -7865,12 +7928,11 @@ Index: EN EN->DE
   Begriffserklärung {f}, Definition {f} :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
   Zahl {f}, Ziffer {f} :: numeral (word or symbol representing a number) (noun)
   Einzahl {f}, Singular {m} :: singular (grammar: form of a word that refers to only one thing) (noun)
-  Akronym {n} :: acronym (word formed by initial letters) (noun)
 ===words===
   Wörterbuch {n} :: dictionary (publication that explains the meanings of an ordered list of words) (noun)
   Blödsinn {m}, Nonsens {m}, Quatsch {m} (colloquial), Unsinn {m}, :: nonsense (meaningless words) (noun)
   Etymologie {f} :: etymology (study of the historical development of languages, particularly of individual words) (noun)
-  Kofferwort {n} :: portmanteau word (a word formed which combines the meaning of two words) (noun)
+  Kofferwort {n} :: portmanteau word (word which combines the meaning of two words) (noun)
   verkürzen :: abridge (to shorten or contract by using fewer words) (verb)
   Sprache {f} :: language (system of communication using words or symbols) (noun)
   (Old High German) sprāhha (sprahha) :: language (system of communication using words or symbols) (noun)
@@ -7928,10 +7990,10 @@ Index: EN EN->DE
 ===Young===
   CVJM :: YMCA (Young Men's Christian Association) ({{initialism}})
 ***zero***
-  null :: zero (cardinal number before 1, denoting nothing) (cardinal number)
+  null, Null {f} :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   Null {f} :: zero (numeric symbol of zero) (noun)
   Null {f} :: zero (digit zero) (noun)
-  Null {f} :: zero (irrelevant amount) (noun)
+  Null {f} :: zero (nothing, or none) (noun)
   Nullpunkt {m} :: zero (zero value of a magnitude) (noun)
   Null {f} :: zero (point of origin on a scale) (noun)
   Nullstelle {f} :: zero (value of a function’s independent variables when the value of the function is zero) (noun)

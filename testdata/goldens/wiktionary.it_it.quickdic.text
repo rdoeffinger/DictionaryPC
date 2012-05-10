@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.italian 5259
+EntrySource: enwiktionary.italian 5239
 
 Index: IT IT->EN
 ===1963===
@@ -329,7 +329,11 @@ Index: IT IT->EN
 ***Andalusia***
   Andalusia {{it-proper noun|g=f}} :: Andalusia
 ***andante***
-  andante (present participle) :: present participle of andare
+  andante {{it-adj|andant|e|i}} :: cheap, second-rate
+  andante {{it-adj|andant|e|i}} :: continuous, unbroken
+  andante (present participle) :: {present participle of|andare}
+===andare===
+  andante (present participle) :: {present participle of|andare}
 ***Andorra***
   Andorra {{it-proper noun|g=f}} :: Andorra
 ===angla===
@@ -500,7 +504,7 @@ Index: IT IT->EN
 ***Bahamas***
   Bahamas {it-proper noun} {f|p} :: Bahamas
 ***Bahrain***
-  Bahrain {m} :: Bahrain
+  Bahrain {m} (proper noun) :: Bahrain
 ===bai===
   bai {m} :: {masculine plural|baio}
 ===baio===
@@ -576,7 +580,7 @@ Index: IT IT->EN
 ***bel***
   bel :: Masculine singular of bello before a consonant
 ***Belize***
-  Belize {m} :: Belize
+  Belize {m} (proper noun) :: Belize
 ===bello===
   bei :: Masculine plural of bello before a consonant
   bel :: Masculine singular of bello before a consonant
@@ -678,7 +682,7 @@ Index: IT IT->EN
 ***Brasilia***
   Brasilia {{it-proper noun|g=f}} :: Brasilia, the capital of Brazil
 ***break***
-  break {m|inv} :: break (intermission or brief suspension of activity)
+  break {m} (noun) {inv} :: break (intermission or brief suspension of activity)
   break! :: break! (boxing)
 ***Brescia***
   Brescia {{it-proper noun|g=f}} :: Brescia
@@ -775,9 +779,9 @@ Index: IT IT->EN
 ===candidato===
   candidate :: {[[feminine|Feminine]] plural|candidato}
 ***cane***
-  cane {inv} :: freezing, biting (cold)
+  cane (adjective) {inv} :: freezing, biting (cold)
     Oggi fa un freddo cane! :: Today is freezing cold!
-  cane {inv} :: terrible, dreadful, awful
+  cane (adjective) {inv} :: terrible, dreadful, awful
   cane {m}, cani {pl} :: dog in general, male dog
   cane {m}, cani {pl} :: {{context|firearms}} hammer
   can {m}, cani {pl} :: {{context|poetic|_|and literary form of cane}} dog
@@ -835,7 +839,7 @@ Index: IT IT->EN
   Caserta {{it-proper noun|g=f}} :: Caserta (province)
   Caserta {{it-proper noun|g=f}} :: Caserta (town)
 ***cast***
-  cast (noun) {g|inv} :: cast (people performing a movie)
+  cast {m|inv} (noun) :: cast (people performing a movie)
 ===castrare===
   castrato {{it-pp|castrat}} :: {past participle of|castrare}
 ===castrati===
@@ -1312,8 +1316,10 @@ Index: IT IT->EN
   dio {m}, dèi {pl} (Feminine: dèa) :: god
 ===dire===
   dice (verb form), infinitive: dire :: (Third-person singular present tense of dire) Says.
-***discrete***
-  discrete {f} (adjective form) :: Feminine plural form of discreto
+===discrete===
+  discrete {f} (adjective form) :: {feminine plural of|discreto}
+===discreto===
+  discrete {f} (adjective form) :: {feminine plural of|discreto}
 ***dissociative***
   dissociative {f} :: Feminine plural form of dissociativo
 ===diva===
@@ -1492,7 +1498,7 @@ Index: IT IT->EN
 ===evaporato===
   evaporate :: {[[feminine|Feminine]] plural|evaporato}
 ***evergreen***
-  evergreen (adj) {m|f|inv} :: evergreen (always in style)
+  evergreen (adjective) {m|f|inv} :: evergreen (always in style)
   evergreen (noun) {m|inv} :: A song or singer that is always in style
   evergreen (noun) {m|inv} :: {finance} revolving credit
 ***ex***
@@ -1507,7 +1513,7 @@ Index: IT IT->EN
   {{wikipedia|Fa (nota)}}fa (noun) {m|inv} :: F (musical note or key)
   fa (verb form) :: Third-person singular indicative present form of fare.
   fa (verb form) :: Second-person singular imperative form of fare.
-  cane {inv} :: freezing, biting (cold)
+  cane (adjective) {inv} :: freezing, biting (cold)
     Oggi fa un freddo cane! :: Today is freezing cold!
 ***face***
   face (verb form) :: {archaic} third-person singular indicative present of fare.
@@ -1626,7 +1632,7 @@ Index: IT IT->EN
 ***frappé***
   frappé (noun) {m|inv} :: milkshake
 ===freddo===
-  cane {inv} :: freezing, biting (cold)
+  cane (adjective) {inv} :: freezing, biting (cold)
     Oggi fa un freddo cane! :: Today is freezing cold!
 ***fricative***
   fricative {f} :: Feminine plural form of fricativo
@@ -1700,7 +1706,7 @@ Index: IT IT->EN
   Georgia {f} (proper noun) :: Georgia (country)
   Georgia {f} (proper noun) :: Georgia (US state)
 ***Ghana***
-  Ghana {f} :: Ghana
+  Ghana {f} (proper noun) :: Ghana
 ===ghetti===
   ghetto {m}, ghetti {pl} :: A ghetto
 ***ghetto***
@@ -1802,7 +1808,7 @@ Index: IT IT->EN
   dove (conjunction) :: where
     Lo troverai dove l'hai lasciato. :: You'll find it where you left it.
 ***Haiti***
-  Haiti {m} :: Haiti
+  Haiti {m} (proper noun) :: Haiti
 ***hamburger***
   hamburger {m} (noun) {inv} :: hamburger
 ***handicap***
@@ -1990,19 +1996,11 @@ Index: IT IT->EN
   Isernia {it-proper noun} :: Isernia (province)
   Isernia {it-proper noun} :: Isernia (town)
 ===Italian===
-  parole {f|p} (noun) :: {plural of|parola}
-    Ci vogliono fatti e non parole. :: Action is needed, not words.
   future (adjective form) {f|p} :: {feminine plural of|futuro}
   superlative {f} :: {feminine plural of|superlativo}
-  comparative {f} :: {feminine plural of|comparativo}
-  far {it-verb} :: {apocopic form of|fare}
-  once {f|p} :: {plural of|oncia}
   ti (pronoun) :: {reflexive} {second-person singular|si}; you
-  sole (adjective form) {f} :: {Feminine plural form|solo}
-  sole {f} :: {plural of|sola}
   province {f|p} :: {plural of|provincia}
   pale :: {plural of|pala}
-  arrogante :: {present participle of|arrogare}
 ===italiani===
   italiano {m}, italiani {pl} feminine italiana :: Italian (inhabitant of Italy and language)
 ***italiano***
@@ -2699,7 +2697,7 @@ Index: IT IT->EN
   Nuoro {{it-proper noun|g=f}} :: Nuoro (town)
 ***o***
   o (conjunction) :: or
-  o (verb) :: {{misspelling of|ho}}
+  o (verb form) :: {{misspelling of|ho}}
 ***obsolete***
   obsolete {{{f|p}}} (adjective form), feminine plural form of: obsoleto :: Feminine plural form of obsoleto
 ===obsoleto===
@@ -2709,7 +2707,7 @@ Index: IT IT->EN
 ***Oceania***
   Oceania {{it-proper noun|g=f}} :: Oceania
 ===Oggi===
-  cane {inv} :: freezing, biting (cold)
+  cane (adjective) {inv} :: freezing, biting (cold)
     Oggi fa un freddo cane! :: Today is freezing cold!
 ===oliva===
   olive {f} :: {plural of|oliva}
@@ -2727,8 +2725,6 @@ Index: IT IT->EN
   once {f|p} :: {plural of|oncia}
 ***online***
   online (adjective) {inv} (Also: on line, on-line) :: online
-***opero***
-  opero :: first-person singular present tense of operare
 ===or===
   or {it-adv} :: {apocopic form of|ora}
 ===ora===
@@ -2845,10 +2841,10 @@ Index: IT IT->EN
   password (noun) {f|inv} :: {computing} password
 ***patata***
   patata {f}, patate {pl} :: potato
-  patata {f}, patate {pl} :: pussy (slang for vagina)
+  patata {f}, patate {pl} :: {slang} pussy (slang for vagina)
 ===patate===
   patata {f}, patate {pl} :: potato
-  patata {f}, patate {pl} :: pussy (slang for vagina)
+  patata {f}, patate {pl} :: {slang} pussy (slang for vagina)
 ===pausa===
   pause {f} :: {plural of|pausa}
 ===pause===
@@ -2918,19 +2914,20 @@ Index: IT IT->EN
   Piacenza {it-proper noun} :: Piacenza (town)
 ===piani===
   piano {m}, piani {pl} :: plane
-  piano {m}, piani {pl} :: floor, storey (British), story (US: of a building)
+  piano {m}, piani {pl} :: floor, storey (British), story (US) (of a building)
   piano {m}, piani {pl} :: plan
   piano {m}, piani {pl} :: piano (musical instrument)
 ***piano***
   piano {{it-adj|pian}} :: plane
-  piano {{it-adj|pian}} :: plain, soft
+  piano {{it-adj|pian}} :: plain
+  piano {{it-adj|pian}} :: soft
   piano {{it-adj|pian}} :: penultimate accented
   piano {m}, piani {pl} :: plane
-  piano {m}, piani {pl} :: floor, storey (British), story (US: of a building)
+  piano {m}, piani {pl} :: floor, storey (British), story (US) (of a building)
   piano {m}, piani {pl} :: plan
   piano {m}, piani {pl} :: piano (musical instrument)
-  piano :: slowly
-  piano :: carefully
+  piano (adverb) :: slowly
+  piano (adverb) :: carefully
 ===Piceno===
   Ascoli Piceno {it-proper noun} :: Ascoli Piceno (province)
   Ascoli Piceno {it-proper noun} :: Ascoli Piceno (town)
@@ -2969,7 +2966,7 @@ Index: IT IT->EN
 ===plasmi===
   plasma {m}, plasmi {pl} :: {{context|physics|biology}} plasma
 ***play***
-  play {m|inv} :: play (theatrical performance; start key)
+  play {m} (noun) {inv} :: play (theatrical performance; start key)
   play! :: used to start a game of Tennis
 ===poco===
   ci (pronoun) :: impersonal reflexive pronoun
@@ -3363,7 +3360,7 @@ Index: IT IT->EN
 ***RPG***
   RPG (noun) {m|inv} :: {gaming} RPG; role-playing game
 ***Russia***
-  Russia {f} :: Russia
+  Russia {{it-proper noun|g=f}} :: Russia
 ***s***
   s (letter) {m|f|inv} :: See under S
 ===S===
@@ -3501,19 +3498,6 @@ Index: IT IT->EN
   sequoia {f}, sequoie {pl} :: sequoia (tree)
 ===sequoie===
   sequoia {f}, sequoie {pl} :: sequoia (tree)
-***serva***
-  serva {f}, serve {pl} (Masculine: servo) :: servant, maid
-  serva :: {conjugation of|servire|1|s|pres|sub}
-  serva :: {conjugation of|servire|2|s|pres|sub}
-  serva :: {conjugation of|servire|3|s|pres|sub}
-  serva :: {conjugation of|servire|3|s|imp}
-===serve===
-  serva {f}, serve {pl} (Masculine: servo) :: servant, maid
-===servire===
-  serva :: {conjugation of|servire|1|s|pres|sub}
-  serva :: {conjugation of|servire|2|s|pres|sub}
-  serva :: {conjugation of|servire|3|s|pres|sub}
-  serva :: {conjugation of|servire|3|s|imp}
 ***set***
   set {m} (noun) {inv} :: set (group of things, maths, tennis, cinema etc)
 ===setta===
@@ -3609,13 +3593,13 @@ Index: IT IT->EN
   sole {f} :: {plural of|sola}
 ***sole***
   sole {m}, soli {pl} :: sun
-  sole (adjective form) {f} :: {Feminine plural form|solo}
+  sole (adjective form) {f} :: {feminine plural of|solo}
   sole {f} :: {plural of|sola}
   {{wikipedia|Sol (nota)}}sol {m|inv} (noun) :: {apocopic form of|sole}
 ===soli===
   sole {m}, soli {pl} :: sun
 ===solo===
-  sole (adjective form) {f} :: {Feminine plural form|solo}
+  sole (adjective form) {f} :: {feminine plural of|solo}
 ===soma===
   some {f} :: {plural of|soma}
 ***Somalia***
@@ -4222,7 +4206,7 @@ Index: IT IT->EN
   zero {m}, zeri {pl} :: zero
   zero {m}, zeri {pl} :: nil (football)
 ***zero***
-  zero {m|f|inv} :: zero
+  zero (adjective) {m|f|inv} :: zero
   zero {m}, zeri {pl} :: zero
   zero {m}, zeri {pl} :: nil (football)
 ***zeta***
@@ -4336,7 +4320,7 @@ Index: EN EN->IT
     Ci vogliono fatti e non parole. :: Action is needed, not words.
 ===activity===
   hobby {m} (noun) {inv} :: hobby (activity)
-  break {m|inv} :: break (intermission or brief suspension of activity)
+  break {m} (noun) {inv} :: break (intermission or brief suspension of activity)
 ===ad===
   a- (prefix) :: ad- (indication direction)
 ===Adige===
@@ -4424,7 +4408,7 @@ Index: EN EN->IT
 ===Alto===
   Trentino-Alto Adige {it-proper noun} :: Trentino-Alto Adige
 ===always===
-  evergreen (adj) {m|f|inv} :: evergreen (always in style)
+  evergreen (adjective) {m|f|inv} :: evergreen (always in style)
   evergreen (noun) {m|inv} :: A song or singer that is always in style
 ===alzarsi===
   uno {m} ({f} una) :: Sono uno a cui piace alzarsi presto - I’m someone who likes getting up early or I’m a person who likes getting up early
@@ -4452,8 +4436,6 @@ Index: EN EN->IT
   Ancona {{it-proper noun|g=f}} :: Ancona (province and town)
 ===Andalusia===
   Andalusia {{it-proper noun|g=f}} :: Andalusia
-===andare===
-  andante (present participle) :: present participle of andare
 ===Andorra===
   Andorra {{it-proper noun|g=f}} :: Andorra
 ===Angola===
@@ -4574,7 +4556,7 @@ Index: EN EN->IT
 ===avocado===
   avocado {m}, avocadi {pl} :: avocado
 ===awful===
-  cane {inv} :: terrible, dreadful, awful
+  cane (adjective) {inv} :: terrible, dreadful, awful
 ===B===
   {{wikipedia|Ti (nota)}}ti {{{m|inv}}} (noun) :: {music} B (note and scale)
   Bologna {f} :: The letter B in the Italian phonetic alphabet
@@ -4590,7 +4572,7 @@ Index: EN EN->IT
 ===Bahamas===
   Bahamas {it-proper noun} {f|p} :: Bahamas
 ===Bahrain===
-  Bahrain {m} :: Bahrain
+  Bahrain {m} (proper noun) :: Bahrain
 ===ball===
   lob {m} (noun) {inv} :: lob (in ball games)
 ===ballet===
@@ -4656,7 +4638,7 @@ Index: EN EN->IT
   Ragusa {{it-proper noun|g=f}} :: former name, before 1918, of Dubrovnik
   ed (conjunction) :: and (used before a vowel for euphony, instead of e)
 ===Belize===
-  Belize {m} :: Belize
+  Belize {m} (proper noun) :: Belize
 ===bellboy===
   boy {m} (noun), inv :: A bellboy (in a hotel).
 ===Belluno===
@@ -4709,7 +4691,7 @@ Index: EN EN->IT
 ===Bissau===
   Guinea-Bissau {f} :: Guinea-Bissau
 ===biting===
-  cane {inv} :: freezing, biting (cold)
+  cane (adjective) {inv} :: freezing, biting (cold)
     Oggi fa un freddo cane! :: Today is freezing cold!
 ===bitterness===
   amarezza {f}, amarezze {pl} :: bitterness
@@ -4783,7 +4765,7 @@ Index: EN EN->IT
 ===Brazil===
   Brasilia {{it-proper noun|g=f}} :: Brasilia, the capital of Brazil
 ===break===
-  break {m|inv} :: break (intermission or brief suspension of activity)
+  break {m} (noun) {inv} :: break (intermission or brief suspension of activity)
   break! :: break! (boxing)
 ===breeze===
   arietta {f}, ariette {pl} :: breeze
@@ -4792,12 +4774,10 @@ Index: EN EN->IT
 ===bridge===
   bridge (noun) {m|inv} :: bridge (card game)
 ===brief===
-  break {m|inv} :: break (intermission or brief suspension of activity)
+  break {m} (noun) {inv} :: break (intermission or brief suspension of activity)
 ===Brindisi===
   Brindisi :: Brindisi (province)
   Brindisi :: Brindisi (town)
-===British===
-  piano {m}, piani {pl} :: floor, storey (British), story (US: of a building)
 ===Brunei===
   Brunei {m} :: Brunei
 ===Budapest===
@@ -4805,7 +4785,7 @@ Index: EN EN->IT
 ===bug===
   mania {f}, manie {pl} :: bug
 ===building===
-  piano {m}, piani {pl} :: floor, storey (British), story (US: of a building)
+  piano {m}, piani {pl} :: floor, storey (British), story (US) (of a building)
 ===Bulgaria===
   Bulgaria {{it-proper noun|g=f}} :: Bulgaria
 ===bull===
@@ -4896,7 +4876,7 @@ Index: EN EN->IT
   bridge (noun) {m|inv} :: bridge (card game)
   poker {m} (noun) {inv} :: poker (card game)
 ===carefully===
-  piano :: carefully
+  piano (adverb) :: carefully
 ===Carrara===
   Massa Carrara {it-proper noun} :: Massa Carrara
 ===carriage===
@@ -4907,7 +4887,7 @@ Index: EN EN->IT
 ===cases===
   seme {m}, semi {pl} :: bean (in some cases)
 ===cast===
-  cast (noun) {g|inv} :: cast (people performing a movie)
+  cast {m|inv} (noun) :: cast (people performing a movie)
 ===castrated===
   castrato {{it-adj|castrat}} :: castrated, gelded, neutered
 ===Catania===
@@ -4956,6 +4936,8 @@ Index: EN EN->IT
 ===chat===
   chat {f} (noun) {inv} :: chat (informal conversation via computer)
   chat {m} (noun) {inv} :: chat (leaf chewed by people in North Africa and the Middle East)
+===cheap===
+  andante {{it-adj|andant|e|i}} :: cheap, second-rate
 ===chewed===
   chat {m} (noun) {inv} :: chat (leaf chewed by people in North Africa and the Middle East)
 ===chi===
@@ -5047,7 +5029,7 @@ Index: EN EN->IT
   cola :: third-person singular present tense of colare
   cola :: second-person singular imperative of colare
 ===cold===
-  cane {inv} :: freezing, biting (cold)
+  cane (adjective) {inv} :: freezing, biting (cold)
     Oggi fa un freddo cane! :: Today is freezing cold!
 ===collective===
   uva {f}, uve {pl} :: (collective noun) grapes
@@ -5121,6 +5103,8 @@ Index: EN EN->IT
   bel :: Masculine singular of bello before a consonant
 ===container===
   tank {m} (noun) {inv} :: tank (military and container)
+===continuous===
+  andante {{it-adj|andant|e|i}} :: continuous, unbroken
 ===contraction===
   dal :: (contraction of da il) from the
 ===conversation===
@@ -5335,8 +5319,6 @@ Index: EN EN->IT
     Michael Radford è il regista de "Il postino". :: "Michael Radford is the director of "Il Postino".
 ===disability===
   handicap {m} (noun) {inv} :: handicap (disability; horserace)
-===discreto===
-  discrete {f} (adjective form) :: Feminine plural form of discreto
 ===disease===
   male {m}, mali {pl} :: pain, ache, illness, sickness, disease
 ===display===
@@ -5381,7 +5363,7 @@ Index: EN EN->IT
 ===download===
   download (noun) {m|inv} :: {computing} download
 ===dreadful===
-  cane {inv} :: terrible, dreadful, awful
+  cane (adjective) {inv} :: terrible, dreadful, awful
 ===drink===
   drink {m} (noun) {inv} :: drink (served beverage and mixed beverage)
   cioccolata {f}, cioccolate {pl} :: hot chocolate (drink)
@@ -5539,7 +5521,7 @@ Index: EN EN->IT
   stand {m} (noun) {inv}{{rfc|certainly the senses are more restricted than in modern English}} :: stand (section of an exhibition; gallery at a sports event)
   shock {m} (noun) {inv} :: shock (medical; violent or unexpected event)
 ===evergreen===
-  evergreen (adj) {m|f|inv} :: evergreen (always in style)
+  evergreen (adjective) {m|f|inv} :: evergreen (always in style)
 ===evil===
   male {m}, mali {pl} :: evil, harm
 ===ex===
@@ -5626,7 +5608,6 @@ Index: EN EN->IT
   obsolete {{{f|p}}} (adjective form), feminine plural form of: obsoleto :: Feminine plural form of obsoleto
   locative {f} :: Feminine plural form of locativo
   asinine {f} :: Feminine plural form of asinino
-  discrete {f} (adjective form) :: Feminine plural form of discreto
   accelerative {f} :: Feminine plural form of accelerativo
   argentine {f} :: Feminine plural form of argentino
   generative {f} :: Feminine plural form of generativo
@@ -5703,7 +5684,6 @@ Index: EN EN->IT
   destino :: first-person singular present tense of destinare
   progetto :: first-person singular present tense of progettare
   porto (verb form) :: first-person singular present tense of portare
-  opero :: first-person singular present tense of operare
   ami :: first-, second- and third-person singular subjunctive present of amare
   so :: (I) know (first-person singular present tense of sapere)
 ===fish===
@@ -5720,7 +5700,7 @@ Index: EN EN->IT
 ===flat===
   lasagna {f}, lasagne {pl} :: a flat sheet of pasta
 ===floor===
-  piano {m}, piani {pl} :: floor, storey (British), story (US: of a building)
+  piano {m}, piani {pl} :: floor, storey (British), story (US) (of a building)
 ===Florida===
   Florida {{it-proper noun|g=f}} :: Florida
 ===flower===
@@ -5784,7 +5764,6 @@ Index: EN EN->IT
   lui (pronoun) :: him (indirect form of lui used after a preposition)
   asinine {f} :: Feminine plural form of asinino
   sei (verb form) :: second-person singular indicative present form of essere
-  discrete {f} (adjective form) :: Feminine plural form of discreto
   accelerative {f} :: Feminine plural form of accelerativo
   si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below)
     Example: Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
@@ -5849,7 +5828,7 @@ Index: EN EN->IT
   libero {{it-adj|liber}} :: free (as in "free software")
     Software libero. :: Free software.
 ===freezing===
-  cane {inv} :: freezing, biting (cold)
+  cane (adjective) {inv} :: freezing, biting (cold)
     Oggi fa un freddo cane! :: Today is freezing cold!
 ===French===
   lingua franca (noun) {f|inv} :: The Mediterranean Lingua Franca, a common language spoken in Mediterranean ports in centuries past (consisting of Italian mixed with French, Spanish, Arabic and some Greek words and used by sailors of different countries to communicate with one another).
@@ -5935,7 +5914,7 @@ Index: EN EN->IT
 ===getting===
   uno {m} ({f} una) :: Sono uno a cui piace alzarsi presto - I’m someone who likes getting up early or I’m a person who likes getting up early
 ===Ghana===
-  Ghana {f} :: Ghana
+  Ghana {f} (proper noun) :: Ghana
 ===ghetto===
   ghetto {m}, ghetti {pl} :: A ghetto
 ===Giacomino===
@@ -6053,7 +6032,7 @@ Index: EN EN->IT
 ===hair===
   riga {f}, righe {pl} :: parting (of hair)
 ===Haiti===
-  Haiti {m} :: Haiti
+  Haiti {m} (proper noun) :: Haiti
 ===halt===
   stop! :: stop!, halt!
 ===hamburger===
@@ -6318,7 +6297,7 @@ Index: EN EN->IT
   bo :: An interjection expressing doubt or indecision.
     Viene Filomena stasera? Bo, non m’ha richiamato. :: Is Filomena coming tonight? I don’t know, she never called me back.
 ===intermission===
-  break {m|inv} :: break (intermission or brief suspension of activity)
+  break {m} (noun) {inv} :: break (intermission or brief suspension of activity)
 ===Internet===
   spider {m} (noun) {inv} :: {computing} spider (Internet software)
 ===interviews===
@@ -6412,7 +6391,7 @@ Index: EN EN->IT
   {{wikipedia|Sol (nota)}}sol {m|inv} (noun) :: G (musical note and key)
   re {m}, re {pl} :: D (musical note or key)
   {{wikipedia|Do (nota)}}do {m} (noun) :: C (the musical note or key)
-  play {m|inv} :: play (theatrical performance; start key)
+  play {m} (noun) {inv} :: play (theatrical performance; start key)
 ===king===
   re {m}, re {pl} :: king
   re {m}, re {pl} :: {chess} king
@@ -6673,8 +6652,6 @@ Index: EN EN->IT
   re {m}, re {pl} :: magnates
 ===magnesia===
   magnesia {f}, magnesie {pl} :: magnesia
-===maid===
-  serva {f}, serve {pl} (Masculine: servo) :: servant, maid
 ===main===
   secondo {m}, secondi {pl} :: main course (of a meal)
 ===majestic===
@@ -6883,7 +6860,7 @@ Index: EN EN->IT
 ===movable===
   mobile {{it-adj|mobil|e|i}} :: movable, mobile
 ===movie===
-  cast (noun) {g|inv} :: cast (people performing a movie)
+  cast {m|inv} (noun) :: cast (people performing a movie)
 ===movies===
   rosa {inv} (adjective) :: romantic (of movies, books, etc)
 ===moving===
@@ -7146,8 +7123,6 @@ Index: EN EN->IT
   online (adjective) {inv} (Also: on line, on-line) :: online
 ===only===
   se (conjunction) :: if only
-===operare===
-  opero :: first-person singular present tense of operare
 ===operator===
   lift (noun) {m|inv} :: lift / elevator operator
 ===ordinare===
@@ -7304,7 +7279,7 @@ Index: EN EN->IT
     Examples: :: --
     Non si deve parlare così (One/You/We/They/People shouldn’t speak like that) :: --
     Si parla italiano qui (Italian is spoken here or One/You/We/They/People speak(s) Italian here) :: --
-  cast (noun) {g|inv} :: cast (people performing a movie)
+  cast {m|inv} (noun) :: cast (people performing a movie)
   gossip {m} (noun), inv :: gossip (especially concerning famous or important people)
   chat {m} (noun) {inv} :: chat (leaf chewed by people in North Africa and the Middle East)
   staff (noun) {m|inv} :: staff (people)
@@ -7312,14 +7287,14 @@ Index: EN EN->IT
 ===perform===
   maestoso {{it-adj|maestos}} :: {music} A direction to perform a passage or piece of music in a dignified manner.
 ===performance===
-  play {m|inv} :: play (theatrical performance; start key)
+  play {m} (noun) {inv} :: play (theatrical performance; start key)
   appassionato {{it-adj|appassionat}} :: {music} part or all of a performance as passionate.
   ne (contraction) :: {apocopic form of|nel}
     Massimo Troisi ha vinto un oscar per la sua interpretazione ne "Il postino". :: "Massimo Troisi won an Oscar for his performance in "Il Postino".
 ===Performed===
   live (adjective) {inv} :: Performed or recorded live
 ===performing===
-  cast (noun) {g|inv} :: cast (people performing a movie)
+  cast {m|inv} (noun) :: cast (people performing a movie)
 ===period===
   tempo {m}, tempi {pl} :: time, age, period
     bei tempi!, those were the days! :: --
@@ -7405,7 +7380,7 @@ Index: EN EN->IT
   bar {m} (noun) {inv} :: bar (place serving drinks)
     C'è un bar qui vicino? :: Is there a bar nearby?
 ===plain===
-  piano {{it-adj|pian}} :: plain, soft
+  piano {{it-adj|pian}} :: plain
 ===plan===
   piano {m}, piani {pl} :: plan
   progetto {m}, progetti {pl} :: plan, project, design, scheme, lay out
@@ -7421,7 +7396,7 @@ Index: EN EN->IT
 ===plates===
   PG (initialism) :: {dated} Perugia (on car number plates)
 ===play===
-  play {m|inv} :: play (theatrical performance; start key)
+  play {m} (noun) {inv} :: play (theatrical performance; start key)
   ni {it-adv} :: {informal} Neither yes nor no (a play on no and si)
 ===playing===
   RPG (noun) {m|inv} :: {gaming} RPG; role-playing game
@@ -7638,7 +7613,7 @@ Index: EN EN->IT
 ===pushbike===
   bici {f}, bici {pl} :: short word for bicicletta bike (pushbike)
 ===pussy===
-  patata {f}, patate {pl} :: pussy (slang for vagina)
+  patata {f}, patate {pl} :: {slang} pussy (slang for vagina)
 ===Python===
   Python {{it-proper noun|g=m}} :: Python programming language
 ===Qatar===
@@ -7692,6 +7667,7 @@ Index: EN EN->IT
 ===rapidly===
   rapidamente :: quickly, rapidly
 ===rate===
+  andante {{it-adj|andant|e|i}} :: cheap, second-rate
   indice {m}, indici {pl} :: (economics, mathematics, etc.) index, rate, rating
 ===rating===
   indice {m}, indici {pl} :: (economics, mathematics, etc.) index, rate, rating
@@ -7825,7 +7801,7 @@ Index: EN EN->IT
 ===ruler===
   riga {f}, righe {pl} :: ruler (measuring device)
 ===Russia===
-  Russia {f} :: Russia
+  Russia {{it-proper noun|g=f}} :: Russia
 ===S===
   Savona {{it-proper noun|g=f}} :: The letter S in the Italian phonetic alphabet
 ===sadness===
@@ -7967,8 +7943,6 @@ Index: EN EN->IT
   sequoia {f}, sequoie {pl} :: sequoia (tree)
 ===series===
   round {m} (noun) {inv} :: round (session or series)
-===servant===
-  serva {f}, serve {pl} (Masculine: servo) :: servant, maid
 ===served===
   drink {m} (noun) {inv} :: drink (served beverage and mixed beverage)
 ===serving===
@@ -8084,7 +8058,7 @@ Index: EN EN->IT
 ===skullcap===
   zucchetto {m}, zucchetti {pl} :: small skullcap worn by Roman Catholic clergy; calotte
 ===slang===
-  patata {f}, patate {pl} :: pussy (slang for vagina)
+  patata {f}, patate {pl} :: {slang} pussy (slang for vagina)
 ===slice===
   cross (noun) {m|inv} :: slice (golf shot)
 ===slime===
@@ -8096,7 +8070,7 @@ Index: EN EN->IT
 ===slow===
   lente (adjective form) {f}{p} :: (feminine plural form of lento) slow
 ===slowly===
-  piano :: slowly
+  piano (adverb) :: slowly
 ===small===
   zucchetto {m}, zucchetti {pl} :: small skullcap worn by Roman Catholic clergy; calotte
 ===smartly===
@@ -8116,7 +8090,7 @@ Index: EN EN->IT
 ===Sofia===
   Sofia (proper noun), f :: Sofia (city)
 ===soft===
-  piano {{it-adj|pian}} :: plain, soft
+  piano {{it-adj|pian}} :: soft
 ===software===
   software {m} (noun) {inv} :: {computing} software
   libero {{it-adj|liber}} :: free (as in "free software")
@@ -8211,7 +8185,7 @@ Index: EN EN->IT
   star {f} (noun) {inv} :: star (celebrity)
   big {m} (noun) {inv} :: star (entertainment)
 ===start===
-  play {m|inv} :: play (theatrical performance; start key)
+  play {m} (noun) {inv} :: play (theatrical performance; start key)
   play! :: used to start a game of Tennis
 ===state===
   gas {m} (noun) :: gas (state of matter, petroleum)
@@ -8232,9 +8206,9 @@ Index: EN EN->IT
   stop! :: stop!, halt!
   stop {m} (noun) {inv} :: stop (roadsign; bus stop etc; block)
 ===storey===
-  piano {m}, piani {pl} :: floor, storey (British), story (US: of a building)
+  piano {m}, piani {pl} :: floor, storey (British), story (US) (of a building)
 ===story===
-  piano {m}, piani {pl} :: floor, storey (British), story (US: of a building)
+  piano {m}, piani {pl} :: floor, storey (British), story (US) (of a building)
   vero {{it-adj|ver}} :: true
     Se non è vero, è ben trovato. :: If it is not true, it is a good story.
   se (conjunction) :: if
@@ -8254,7 +8228,7 @@ Index: EN EN->IT
   sound (noun) {m|inv} :: {music} sound (distinctive style and sonority)
   swing {m} (noun) {inv} :: swing (music and dance style; golf swing)
   rock (noun) :: rock (style of music)
-  evergreen (adj) {m|f|inv} :: evergreen (always in style)
+  evergreen (adjective) {m|f|inv} :: evergreen (always in style)
   evergreen (noun) {m|inv} :: A song or singer that is always in style
 ===stylishly===
   elegantemente {it-adv} :: smartly, elegantly, stylishly
@@ -8291,7 +8265,7 @@ Index: EN EN->IT
 ===Suriname===
   Suriname {m} :: Suriname
 ===suspension===
-  break {m|inv} :: break (intermission or brief suspension of activity)
+  break {m} (noun) {inv} :: break (intermission or brief suspension of activity)
 ===swallowtail===
   apollo {m}, apolli {pl} :: Apollo butterfly (Parnassius apollo, a large swallowtail with black and red spots on white wings)
 ===Swaziland===
@@ -8396,7 +8370,6 @@ Index: EN EN->IT
   destino :: first-person singular present tense of destinare
   progetto :: first-person singular present tense of progettare
   porto (verb form) :: first-person singular present tense of portare
-  opero :: first-person singular present tense of operare
   so :: (I) know (first-person singular present tense of sapere)
 ===Teramo===
   Teramo {{it-proper noun|g=f}} :: Teramo (province)
@@ -8407,7 +8380,7 @@ Index: EN EN->IT
   Terni {{it-proper noun|g=f}} :: Terni (province)
   Terni {{it-proper noun|g=f}} :: Terni (town)
 ===terrible===
-  cane {inv} :: terrible, dreadful, awful
+  cane (adjective) {inv} :: terrible, dreadful, awful
 ===test===
   test {m} (noun) {inv} :: test
 ===Thailand===
@@ -8421,7 +8394,7 @@ Index: EN EN->IT
   grazie {m}, grazie {pl}{f} :: thanks
   grazie {m}, grazie {pl}{f} :: thanks to, because of
 ===theatrical===
-  play {m|inv} :: play (theatrical performance; start key)
+  play {m} (noun) {inv} :: play (theatrical performance; start key)
 ===them===
   li (pronoun) :: them.
   ne (pronoun) :: of them (sometimes not translated in English)
@@ -8528,7 +8501,7 @@ Index: EN EN->IT
   don {m} (noun), inv :: Father (a title given to priests)
   don {m} (noun), inv :: A title of respect to a man.
 ===Today===
-  cane {inv} :: freezing, biting (cold)
+  cane (adjective) {inv} :: freezing, biting (cold)
     Oggi fa un freddo cane! :: Today is freezing cold!
 ===together===
   con (preposition) :: with or together
@@ -8743,6 +8716,8 @@ Index: EN EN->IT
   Umbria f :: Umbria
 ===un===
   non :: un-
+===unbroken===
+  andante {{it-adj|andant|e|i}} :: continuous, unbroken
 ===under===
   f (letter) {m|f|inv} :: See under F
   y (letter) {m|f|inv} :: See under Y
@@ -8797,7 +8772,6 @@ Index: EN EN->IT
 ===US===
   Georgia {f} (proper noun) :: Georgia (US state)
   beat (adjective) {inv} :: beat (50s US literary and 70s UK music scenes)
-  piano {m}, piani {pl} :: floor, storey (British), story (US: of a building)
   cent {m} (noun) {inv} :: cent (US coin)
   antenna {f}, antenne {pl} :: device to receive or transmit radio signals: aerial (UK), antenna (US)
 ===usage===
@@ -8822,7 +8796,7 @@ Index: EN EN->IT
 ===Uzbekistan===
   Uzbekistan {m} :: Uzbekistan
 ===vagina===
-  patata {f}, patate {pl} :: pussy (slang for vagina)
+  patata {f}, patate {pl} :: {slang} pussy (slang for vagina)
 ===vain===
   sterile {{it-adj|steril|e|i}} :: vain, pointless
 ===Valencia===
@@ -9120,7 +9094,7 @@ Index: EN EN->IT
 ===zenith===
   zenit {m} (noun) :: zenith
 ===zero===
-  zero {m|f|inv} :: zero
+  zero (adjective) {m|f|inv} :: zero
   zero {m}, zeri {pl} :: zero
 ===zeta===
   zeta (noun) {m|f|inv} :: zeta; The letter Z/z in the Italian and Greek alphabets

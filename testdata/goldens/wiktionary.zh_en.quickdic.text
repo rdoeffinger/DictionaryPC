@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.english 4678
+EntrySource: enwiktionary.english 4625
 
 Index: ZH ZH->EN
 ===1===
@@ -41,13 +41,13 @@ Index: ZH ZH->EN
 ===ян===
   (Dungan) фон-ян :: dialect (variety of a language) (noun)
 ===bā===
-  (Standard Chinese (Mandarin)) 八 (bā) (numeral: 捌) :: eight (cardinal number 8) (cardinal number)
+  八 (bā) (numeral: 捌) :: eight (cardinal number 8) (cardinal number)
 ===bǎ===
   把某東西看作是無價值的, 把某东西看作是无价值的 (bǎ mǒu dōngxi kànzuò shì wú jiàzhí de) :: floccinaucinihilipilification (act or habit of describing or regarding something as unimportant) (noun)
 ===ba===
   (Wu) 八 (ba) :: eight (cardinal number 8) (cardinal number)
 ===八===
-  (Standard Chinese (Mandarin)) 八 (bā) (numeral: 捌) :: eight (cardinal number 8) (cardinal number)
+  八 (bā) (numeral: 捌) :: eight (cardinal number 8) (cardinal number)
   (Bai) 八 (pya) :: eight (cardinal number 8) (cardinal number)
   (Cantonese) 八 (baat3) :: eight (cardinal number 8) (cardinal number)
   (Eastern Hokkien (Min Dong)) 八 (paik) :: eight (cardinal number 8) (cardinal number)
@@ -57,18 +57,11 @@ Index: ZH ZH->EN
   (Wu) 八 (ba) :: eight (cardinal number 8) (cardinal number)
   (Xiang) 八 (pa) :: eight (cardinal number 8) (cardinal number)
 ===捌===
-  (Standard Chinese (Mandarin)) 八 (bā) (numeral: 捌) :: eight (cardinal number 8) (cardinal number)
+  八 (bā) (numeral: 捌) :: eight (cardinal number 8) (cardinal number)
 ===把===
   把某東西看作是無價值的, 把某东西看作是无价值的 (bǎ mǒu dōngxi kànzuò shì wú jiàzhí de) :: floccinaucinihilipilification (act or habit of describing or regarding something as unimportant) (noun)
 ===baat3===
   (Cantonese) 八 (baat3) :: eight (cardinal number 8) (cardinal number)
-===bái===
-  白晝, 白昼, báizhòu :: day (rotational period of a planet) (noun)
-  白天, 白天, báitiān :: day (period between sunrise and sunset) (noun)
-===bai===
-  打败 (da bai), 击倒 (ji dao) :: abate (to bring down a person physically or mentally) (verb)
-===白===
-  白晝, 白昼, báizhòu :: day (rotational period of a planet) (noun)
 ===bǎikē===
   百科全書, 百科全书 (bǎikē quánshū) :: encyclopedia (comprehensive reference with articles on a range of topic) (noun)
 ===bǎikēquánshū===
@@ -84,8 +77,21 @@ Index: ZH ZH->EN
   白領, 白领 (báilǐng) :: white-collar (of or pertaining to office work and workers) (adjective)
 ***白領***
   白領, 白领 (báilǐng) :: white-collar (of or pertaining to office work and workers) (adjective)
-===白天===
-  白天, 白天, báitiān :: day (period between sunrise and sunset) (noun)
+===báitiān===
+  一天 (yītiān), 白天 (báitiān), 白晝, 白昼 (báizhòu) :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
+  白天 (báitiān) :: day (period between sunrise and sunset) (noun)
+***白天***
+  一天 (yītiān), 白天 (báitiān), 白晝, 白昼 (báizhòu) :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
+  白天 (báitiān) :: day (period between sunrise and sunset) (noun)
+===báizhòu===
+  白晝, 白昼 (báizhòu) :: day (rotational period of a planet) (noun)
+  一天 (yītiān), 白天 (báitiān), 白晝, 白昼 (báizhòu) :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
+***白昼***
+  白晝, 白昼 (báizhòu) :: day (rotational period of a planet) (noun)
+  一天 (yītiān), 白天 (báitiān), 白晝, 白昼 (báizhòu) :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
+***白晝***
+  白晝, 白昼 (báizhòu) :: day (rotational period of a planet) (noun)
+  一天 (yītiān), 白天 (báitiān), 白晝, 白昼 (báizhòu) :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
 ===bàng===
   磅 (bàng) :: pound (unit of mass (16 ounces avoirdupois)) (noun)
 ===磅===
@@ -203,17 +209,19 @@ Index: ZH ZH->EN
 ===參===
   三 (sān) (numeral: 參) :: three (cardinal number 3) (cardinal number)
 ===cǎo===
-  草 (căo), 青草 (qīng cǎo) :: grass (ground cover plant) (noun)
+  草 (cǎo), 青草 (qīngcǎo) :: grass (ground cover plant) (noun)
 ===cào===
   傻屄 (shǎbī), 肏你媽 , 肏你妈 (cào nǐ mā), 幹你娘, 干你娘 (gàn nǐ niang) :: motherfucker (generic term of abuse) (noun)
-===căo===
-  草 (căo), 青草 (qīng cǎo) :: grass (ground cover plant) (noun)
-===草===
-  草 (căo), 青草 (qīng cǎo) :: grass (ground cover plant) (noun)
+***草***
+  草 (cǎo), 青草 (qīngcǎo) :: grass (ground cover plant) (noun)
 ***肏你妈***
   傻屄 (shǎbī), 肏你媽 , 肏你妈 (cào nǐ mā), 幹你娘, 干你娘 (gàn nǐ niang) :: motherfucker (generic term of abuse) (noun)
 ***肏你媽***
   傻屄 (shǎbī), 肏你媽 , 肏你妈 (cào nǐ mā), 幹你娘, 干你娘 (gàn nǐ niang) :: motherfucker (generic term of abuse) (noun)
+===cǎopíng===
+  草坪 (cǎopíng) :: grass (lawn) (noun)
+***草坪***
+  草坪 (cǎopíng) :: grass (lawn) (noun)
 ===cat6===
   (Cantonese) 屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
 ===cau===
@@ -267,8 +275,6 @@ Index: ZH ZH->EN
   潮吹 (cháochuī), 淫水 (yǐnshuǐ), (slang) 出水 (chūshuǐ) :: cum (slang: female ejaculatory discharge) (noun)
 ===chat1===
   (Cantonese) 七 (chat1) :: seven (cardinal number 7) (cardinal number)
-===che===
-  撤销 (che xiao) :: abate (obsolete: to bring entirely down or put an end to) (verb)
 ===chek===
   (Eastern Hokkien (Min Dong)) 七 (chek) :: seven (cardinal number 7) (cardinal number)
 ===chéng===
@@ -303,8 +309,12 @@ Index: ZH ZH->EN
   橙 (chéng), 橙子 (chéngzi), (technically "tangerine", but often used as "orange") 橘子 (júzi), (alternative form:) 桔子 (júzi) :: orange (fruit) (noun)
 ***橙子***
   橙 (chéng), 橙子 (chéngzi), (technically "tangerine", but often used as "orange") 橘子 (júzi), (alternative form:) 桔子 (júzi) :: orange (fruit) (noun)
+===chèxiāo===
+  撤銷, 撤销 (chèxiāo) :: abate (obsolete: to bring entirely down or put an end to) (verb)
 ***撤销***
-  撤销 (che xiao) :: abate (obsolete: to bring entirely down or put an end to) (verb)
+  撤銷, 撤销 (chèxiāo) :: abate (obsolete: to bring entirely down or put an end to) (verb)
+***撤銷***
+  撤銷, 撤销 (chèxiāo) :: abate (obsolete: to bring entirely down or put an end to) (verb)
 ===chhiu===
   (Min Nan) 秋天 (chhiu-thiⁿ) :: autumn (season) (noun)
 ===chí===
@@ -314,8 +324,6 @@ Index: ZH ZH->EN
   (Bai) 六 (chi) :: six (cardinal number) (cardinal number)
 ===池===
   池塘 (chítáng), 池 (chí) :: pond (small lake) (noun)
-===China===
-  詠嘆調, 咏叹调 (yǒngtàndiào), 唱段 (chàngduàn), (North China, Yuan dynasty) 北曲 (běiqǔ) :: aria (type of musical piece) (noun)
 ===chítáng===
   池塘 (chítáng), 池 (chí) :: pond (small lake) (noun)
 ===池塘===
@@ -324,8 +332,6 @@ Index: ZH ZH->EN
   (Min Nan) 啤酒 (bih-luh), 麥仔酒 (be̍h-á-chiú), 米仔酒 (bí-á-chiú) :: beer (alcoholic drink made of malt) (noun)
 ===chu===
   (Min Nan) 朱瓜 (chu-koe), 金瓜 (kim-koe) :: pumpkin (fruit of this plant) (noun)
-  阻止 (zu zhi), 除去 (chu qu) :: abate (to bar, to except) (verb)
-  废除 (fei chu) :: abate (to be defeated) (verb)
 ===chūnjì===
   春天 (chūntiān), 春季 (chūnjì) :: spring (season) (noun)
 ***春季***
@@ -334,8 +340,10 @@ Index: ZH ZH->EN
   春天 (chūntiān), 春季 (chūnjì) :: spring (season) (noun)
 ***春天***
   春天 (chūntiān), 春季 (chūnjì) :: spring (season) (noun)
+===chùqú===
+  阻止 (zǔzhǐ), 除去 (chùqú) :: abate (to bar, to except) (verb)
 ***除去***
-  阻止 (zu zhi), 除去 (chu qu) :: abate (to bar, to except) (verb)
+  阻止 (zǔzhǐ), 除去 (chùqú) :: abate (to bar, to except) (verb)
 ===chūshēng===
   出生 (chūshēng) :: birth (process of childbearing) (noun)
 ***出生***
@@ -412,10 +420,12 @@ Index: ZH ZH->EN
   辭職, 辞职 (cízhí) :: abdicate (disinherit) (verb)
 ===cún===
   保存, 保存 (bǎo cún) :: can (to preserve) (verb)
-===da===
-  打败 (da bai), 击倒 (ji dao) :: abate (to bring down a person physically or mentally) (verb)
+===dǎbài===
+  打敗, 打败 (dǎbài), 擊倒, 击倒 (jídǎo) :: abate (to bring down a person physically or mentally) (verb)
 ***打败***
-  打败 (da bai), 击倒 (ji dao) :: abate (to bring down a person physically or mentally) (verb)
+  打敗, 打败 (dǎbài), 擊倒, 击倒 (jídǎo) :: abate (to bring down a person physically or mentally) (verb)
+***打敗***
+  打敗, 打败 (dǎbài), 擊倒, 击倒 (jídǎo) :: abate (to bring down a person physically or mentally) (verb)
 ===dàgài===
   大概 (dàgài), 約, 约 (yuē) :: about (around) (preposition)
 ***大概***
@@ -460,13 +470,11 @@ Index: ZH ZH->EN
   單數, 单数 (dānshù) :: singular (grammar: form of a word that refers to only one thing) (noun)
 ===dào===
   道 (dào) :: tao (noun)
-===dao===
-  打败 (da bai), 击倒 (ji dao) :: abate (to bring down a person physically or mentally) (verb)
 ===道===
   道 (dào) :: tao (noun)
 ===dàxiàng===
   象 (xiàng), 大象 (dàxiàng) :: elephant (mammal) (noun)
-===大象===
+***大象***
   象 (xiàng), 大象 (dàxiàng) :: elephant (mammal) (noun)
 ===Dé===
   德國, 德国 (Déguó), 德- (Dé-) (德) :: German (of or relating to the country of Germany) (adjective)
@@ -675,8 +683,6 @@ Index: ZH ZH->EN
   烏鴉, 乌鸦, wūyā, 渡鴉, 渡鸦, dùyā, 烏黑, 乌黑, wūhēi :: raven (bird) (noun)
 ===渡鴉===
   烏鴉, 乌鸦, wūyā, 渡鴉, 渡鸦, dùyā, 烏黑, 乌黑, wūhēi :: raven (bird) (noun)
-===dynasty===
-  詠嘆調, 咏叹调 (yǒngtàndiào), 唱段 (chàngduàn), (North China, Yuan dynasty) 北曲 (běiqǔ) :: aria (type of musical piece) (noun)
 ===ě===
   (Gan) 二 (ě) :: two (one plus one) (cardinal number)
 ===ei===
@@ -688,9 +694,9 @@ Index: ZH ZH->EN
 ===Eng===
   (Min Nan) 英語, 英语 (Eng-gí) :: English (the English language) (proper noun)
 ===èr===
+  星期二 (xīngqī'èr), 禮拜二, 礼拜二 (lǐbài'èr), 周二 (zhōu'èr) :: Tuesday (day of the week) (noun)
   二 (èr), 两 (liǎng) (numeral: 貳) :: two (one plus one) (cardinal number)
   第二 (dì'èr) :: second (second (numeral)) (adjective)
-  星期二 (xīngqī èr) :: Tuesday (day of the week) (noun)
   二 (èr) :: two (digit or figure) (noun)
 ***二***
   (Cantonese) 二 (yi6), 两 :: two (one plus one) (cardinal number)
@@ -715,10 +721,8 @@ Index: ZH ZH->EN
   (the adjectives are in a dictionary form) 越……越…… (yuè...yuè...) (example: 越<u>热</u>越<u>好</u> yuè rè yuè hǎo "the hotter the better"), 愈……愈…… (yù...yù...) :: the (the + ～comparative, the + comparative) (adverb)
 ***略语***
   縮寫, 缩写 (suōxiě); 簡寫, 简写 (jiǎnxiě); 略語, 略语 (lüèyǔ) :: abbreviation (shortened or contracted form of a word or phrase) (noun)
-  縮寫, 缩写 (suōxiě), 縮略詞, 缩略词 (suōlüècí), 略語, 略语 (lüèyǔ) :: acronym (word formed by initial letters) (noun)
 ***略語***
   縮寫, 缩写 (suōxiě); 簡寫, 简写 (jiǎnxiě); 略語, 略语 (lüèyǔ) :: abbreviation (shortened or contracted form of a word or phrase) (noun)
-  縮寫, 缩写 (suōxiě), 縮略詞, 缩略词 (suōlüècí), 略語, 略语 (lüèyǔ) :: acronym (word formed by initial letters) (noun)
 ===faan1===
   (Cantonese) 南瓜 (naam4 gwaa1),番瓜 (faan1 gwaa1) :: pumpkin (plant) (noun)
   (Cantonese) 南瓜 (naam4 gwaa1),番瓜 (faan1 gwaa1) :: pumpkin (fruit of this plant) (noun)
@@ -739,8 +743,8 @@ Index: ZH ZH->EN
 ===fàngpì===
   屁 (pì), 放屁 (fàngpì) :: fart (an emission of flatulent gases) (noun)
 ***放屁***
-  屁 (pì), 放屁 (fàngpì) :: fart (an emission of flatulent gases) (noun)
   放屁 (fàng pì) :: fart (to emit flatulent gases) (verb)
+  屁 (pì), 放屁 (fàngpì) :: fart (an emission of flatulent gases) (noun)
 ===fàngqì===
   放棄, 放弃 (fàngqì) :: abandon (to give up) (verb)
 ***放弃***
@@ -769,14 +773,16 @@ Index: ZH ZH->EN
   弹簧, 发条 (fātiáo) :: spring (device made of flexible material) (noun)
 ===发条===
   弹簧, 发条 (fātiáo) :: spring (device made of flexible material) (noun)
-===fei===
-  废除 (fei chu) :: abate (to be defeated) (verb)
 ===费===
   免費的, 免费的 (miǎnfèi de) :: free (obtainable without payment) (adjective)
 ===費===
   免費的, 免费的 (miǎnfèi de) :: free (obtainable without payment) (adjective)
+===fèichú===
+  廢除, 废除 (fèichú) :: abate (to be defeated) (verb)
 ***废除***
-  废除 (fei chu) :: abate (to be defeated) (verb)
+  廢除, 废除 (fèichú) :: abate (to be defeated) (verb)
+***廢除***
+  廢除, 废除 (fèichú) :: abate (to be defeated) (verb)
 ===fèihuà===
   廢話, 废话 (fèihuà), 胡說, 胡说 (húshuō), 胡言 (húyán), (vulgar) 狗屁 (gǒupì) :: nonsense (meaningless words) (noun)
   廢話, 废话 (fèihuà), 胡說, 胡说 (húshuō), 胡言 (húyán), 狗屁 (gǒupì) (vulgar) :: nonsense (untrue statement) (noun)
@@ -1196,8 +1202,6 @@ Index: ZH ZH->EN
 ===jì===
   季 (jì), 季節, 季节 (jìjié) :: season (quarter of a year) (noun)
   美國國家航空航天局, 美国国家航空航天局 (Měiguó guójiā hángkōng hángtiānjú), (Taiwan) 美國國家航空暨太空總署, 美国国家航空暨太空总署 (Měiguó guójiā hángkōng jì tàikōng zǒngshǔ) :: NASA (National Aeronautics and Space Administration) ({{acronym}})
-===ji===
-  打败 (da bai), 击倒 (ji dao) :: abate (to bring down a person physically or mentally) (verb)
 ***йи***
   (Dungan) йи (yi) :: one (cardinal number 1) (cardinal number)
 ***积***
@@ -1223,22 +1227,30 @@ Index: ZH ZH->EN
   加密 (jiāmì) :: encrypt (to conceal information by means of a code or cipher) (verb)
 ***加密***
   加密 (jiāmì) :: encrypt (to conceal information by means of a code or cipher) (verb)
-===jian===
-  减弱 (jian ruo), 减轻 (jian qing) :: abate (to bring down or reduce to a lower state) (verb)
-  减轻 (jian qing), 减弱 (jian ruo) :: abate (to decrease or become less in strength) (verb)
-  减少 (jian shao), 省略 (sheng lüe) :: abate (to deduct, to omit) (verb)
-===jiànkāng===
-  健康 (jiànkāng) :: able (healthy) (adjective)
-***健康***
-  健康 (jiànkāng) :: able (healthy) (adjective)
+===jiǎnqīng===
+  減弱, 减弱 (jiǎnruò), 減輕, 减轻 (jiǎnqīng) :: abate (to bring down or reduce to a lower state) (verb)
+  減輕, 减轻 (jiǎnqīng), 減弱, 减弱 (jiǎnruò) :: abate (to decrease or become less in strength) (verb)
 ***减轻***
-  减弱 (jian ruo), 减轻 (jian qing) :: abate (to bring down or reduce to a lower state) (verb)
-  减轻 (jian qing), 减弱 (jian ruo) :: abate (to decrease or become less in strength) (verb)
+  減弱, 减弱 (jiǎnruò), 減輕, 减轻 (jiǎnqīng) :: abate (to bring down or reduce to a lower state) (verb)
+  減輕, 减轻 (jiǎnqīng), 減弱, 减弱 (jiǎnruò) :: abate (to decrease or become less in strength) (verb)
+***減輕***
+  減弱, 减弱 (jiǎnruò), 減輕, 减轻 (jiǎnqīng) :: abate (to bring down or reduce to a lower state) (verb)
+  減輕, 减轻 (jiǎnqīng), 減弱, 减弱 (jiǎnruò) :: abate (to decrease or become less in strength) (verb)
+===jiǎnruò===
+  減弱, 减弱 (jiǎnruò), 減輕, 减轻 (jiǎnqīng) :: abate (to bring down or reduce to a lower state) (verb)
+  減輕, 减轻 (jiǎnqīng), 減弱, 减弱 (jiǎnruò) :: abate (to decrease or become less in strength) (verb)
 ***减弱***
-  减弱 (jian ruo), 减轻 (jian qing) :: abate (to bring down or reduce to a lower state) (verb)
-  减轻 (jian qing), 减弱 (jian ruo) :: abate (to decrease or become less in strength) (verb)
+  減弱, 减弱 (jiǎnruò), 減輕, 减轻 (jiǎnqīng) :: abate (to bring down or reduce to a lower state) (verb)
+  減輕, 减轻 (jiǎnqīng), 減弱, 减弱 (jiǎnruò) :: abate (to decrease or become less in strength) (verb)
+***減弱***
+  減弱, 减弱 (jiǎnruò), 減輕, 减轻 (jiǎnqīng) :: abate (to bring down or reduce to a lower state) (verb)
+  減輕, 减轻 (jiǎnqīng), 減弱, 减弱 (jiǎnruò) :: abate (to decrease or become less in strength) (verb)
+===jiǎnshǎo===
+  減少, 减少 (jiǎnshǎo), 省略 (shěnglüè) :: abate (to deduct, to omit) (verb)
 ***减少***
-  减少 (jian shao), 省略 (sheng lüe) :: abate (to deduct, to omit) (verb)
+  減少, 减少 (jiǎnshǎo), 省略 (shěnglüè) :: abate (to deduct, to omit) (verb)
+***減少***
+  減少, 减少 (jiǎnshǎo), 省略 (shěnglüè) :: abate (to deduct, to omit) (verb)
 ===jiānshì===
   監視列表, 监视列表 (jiānshì lièbiǎo) :: watchlist (list for special attention) (noun)
 ***监视列表***
@@ -1303,8 +1315,12 @@ Index: ZH ZH->EN
   雞巴, 鸡巴 (jība), 屌 (diǎo), (euphemism) 鳥, 鸟 (diǎo) :: dick (colloquial: penis) (noun)
 ***畸变***
   畸变 :: aberrant (deviating from the ordinary or natural type; exceptional; abnormal) (adjective)
+===jídǎo===
+  打敗, 打败 (dǎbài), 擊倒, 击倒 (jídǎo) :: abate (to bring down a person physically or mentally) (verb)
 ***击倒***
-  打败 (da bai), 击倒 (ji dao) :: abate (to bring down a person physically or mentally) (verb)
+  打敗, 打败 (dǎbài), 擊倒, 击倒 (jídǎo) :: abate (to bring down a person physically or mentally) (verb)
+***擊倒***
+  打敗, 打败 (dǎbài), 擊倒, 击倒 (jídǎo) :: abate (to bring down a person physically or mentally) (verb)
 ===jīdùjiào===
   基督教青年會 (jīdùjiào qīngnián huì) :: YMCA (Young Men's Christian Association) ({{initialism}})
   基督教女青年會 (jīdùjiào nǚqīngnián huì) :: YWCA (YWCA) ({{initialism}})
@@ -1438,15 +1454,15 @@ Index: ZH ZH->EN
 ===jit6===
   (Cantonese) 太陽, 太阳, taai3 joeng4, 日頭, 日头, jat6 tau2, 熱頭, 热头, jit6 tau2 :: sun (the star around which the Earth revolves) (proper noun)
 ===jiǔ===
-  (Standard Chinese (Mandarin)) 九 (jiǔ) (numeral: 玖) :: nine (cardinal number) (cardinal number)
+  九 (jiǔ) (numeral: 玖) :: nine (cardinal number) (cardinal number)
 ===九===
-  (Standard Chinese (Mandarin)) 九 (jiǔ) (numeral: 玖) :: nine (cardinal number) (cardinal number)
+  九 (jiǔ) (numeral: 玖) :: nine (cardinal number) (cardinal number)
   (Cantonese) 九 (gau2) :: nine (cardinal number) (cardinal number)
   (Eastern Hokkien (Min Dong)) 九 (kau) :: nine (cardinal number) (cardinal number)
   (Northern Hokkien (Min Bei)) 九 (kiu) :: nine (cardinal number) (cardinal number)
   (Wu) 九 (jiq) :: nine (cardinal number) (cardinal number)
 ===玖===
-  (Standard Chinese (Mandarin)) 九 (jiǔ) (numeral: 玖) :: nine (cardinal number) (cardinal number)
+  九 (jiǔ) (numeral: 玖) :: nine (cardinal number) (cardinal number)
 ===jiǔyuè===
   九月 (jiǔyuè) :: September (ninth month of the Gregorian calendar) (proper noun)
 ===九月===
@@ -1638,23 +1654,58 @@ Index: ZH ZH->EN
 ***兩周***
   两周, 兩周 (liǎngzhōu) :: fortnight (period of two weeks) (noun)
 ===lǐbài===
+  星期二 (xīngqī'èr), 禮拜二, 礼拜二 (lǐbài'èr), 周二 (zhōu'èr) :: Tuesday (day of the week) (noun)
   星期 (xīngqī), 周 (zhōu), 禮拜, 礼拜 (lǐbài) :: week (period of seven days) (noun)
 ***礼拜***
   星期 (xīngqī), 周 (zhōu), 禮拜, 礼拜 (lǐbài) :: week (period of seven days) (noun)
 ***禮拜***
   星期 (xīngqī), 周 (zhōu), 禮拜, 礼拜 (lǐbài) :: week (period of seven days) (noun)
+***礼拜二***
+  星期二 (xīngqī'èr), 禮拜二, 礼拜二 (lǐbài'èr), 周二 (zhōu'èr) :: Tuesday (day of the week) (noun)
+***禮拜二***
+  星期二 (xīngqī'èr), 禮拜二, 礼拜二 (lǐbài'èr), 周二 (zhōu'èr) :: Tuesday (day of the week) (noun)
+===lǐbàiliù===
+  星期六 (xīngqīliù), 禮拜六, 礼拜六 (lǐbàiliù), 周六 (zhōuliù) :: Saturday (day of the week) (noun)
+***礼拜六***
+  星期六 (xīngqīliù), 禮拜六, 礼拜六 (lǐbàiliù), 周六 (zhōuliù) :: Saturday (day of the week) (noun)
+***禮拜六***
+  星期六 (xīngqīliù), 禮拜六, 礼拜六 (lǐbàiliù), 周六 (zhōuliù) :: Saturday (day of the week) (noun)
 ===lǐbàirì===
-  (formal) 星期日 (xīngqīrì), (informal) 星期天 (xīngqītiān), 禮拜日, 礼拜日 (lǐbàirì), (colloquial) 禮拜天, 礼拜天 (lǐbàitiān) :: Sunday (day of the week) (noun)
+  (formal) 星期日 (xīngqīrì), (informal) 星期天 (xīngqītiān), 禮拜日, 礼拜日 (lǐbàirì), (colloquial) 禮拜天, 礼拜天 (lǐbàitiān), 周日 (zhōurì) :: Sunday (day of the week) (noun)
 ***礼拜日***
-  (formal) 星期日 (xīngqīrì), (informal) 星期天 (xīngqītiān), 禮拜日, 礼拜日 (lǐbàirì), (colloquial) 禮拜天, 礼拜天 (lǐbàitiān) :: Sunday (day of the week) (noun)
+  (formal) 星期日 (xīngqīrì), (informal) 星期天 (xīngqītiān), 禮拜日, 礼拜日 (lǐbàirì), (colloquial) 禮拜天, 礼拜天 (lǐbàitiān), 周日 (zhōurì) :: Sunday (day of the week) (noun)
 ***禮拜日***
-  (formal) 星期日 (xīngqīrì), (informal) 星期天 (xīngqītiān), 禮拜日, 礼拜日 (lǐbàirì), (colloquial) 禮拜天, 礼拜天 (lǐbàitiān) :: Sunday (day of the week) (noun)
+  (formal) 星期日 (xīngqīrì), (informal) 星期天 (xīngqītiān), 禮拜日, 礼拜日 (lǐbàirì), (colloquial) 禮拜天, 礼拜天 (lǐbàitiān), 周日 (zhōurì) :: Sunday (day of the week) (noun)
+===lǐbàisān===
+  星期三 (xīngqīsān), 禮拜三, 礼拜三 (lǐbàisān), 周三 (zhōusān) :: Wednesday (day of the week) (noun)
+***礼拜三***
+  星期三 (xīngqīsān), 禮拜三, 礼拜三 (lǐbàisān), 周三 (zhōusān) :: Wednesday (day of the week) (noun)
+***禮拜三***
+  星期三 (xīngqīsān), 禮拜三, 礼拜三 (lǐbàisān), 周三 (zhōusān) :: Wednesday (day of the week) (noun)
+===lǐbàisì===
+  星期四 (xīngqīsì), 禮拜四, 礼拜四 (lǐbàisì), 周四 (zhōusì) :: Thursday (day of the week) (noun)
+***礼拜四***
+  星期四 (xīngqīsì), 禮拜四, 礼拜四 (lǐbàisì), 周四 (zhōusì) :: Thursday (day of the week) (noun)
+***禮拜四***
+  星期四 (xīngqīsì), 禮拜四, 礼拜四 (lǐbàisì), 周四 (zhōusì) :: Thursday (day of the week) (noun)
 ===lǐbàitiān===
-  (formal) 星期日 (xīngqīrì), (informal) 星期天 (xīngqītiān), 禮拜日, 礼拜日 (lǐbàirì), (colloquial) 禮拜天, 礼拜天 (lǐbàitiān) :: Sunday (day of the week) (noun)
+  (formal) 星期日 (xīngqīrì), (informal) 星期天 (xīngqītiān), 禮拜日, 礼拜日 (lǐbàirì), (colloquial) 禮拜天, 礼拜天 (lǐbàitiān), 周日 (zhōurì) :: Sunday (day of the week) (noun)
 ***礼拜天***
-  (formal) 星期日 (xīngqīrì), (informal) 星期天 (xīngqītiān), 禮拜日, 礼拜日 (lǐbàirì), (colloquial) 禮拜天, 礼拜天 (lǐbàitiān) :: Sunday (day of the week) (noun)
+  (formal) 星期日 (xīngqīrì), (informal) 星期天 (xīngqītiān), 禮拜日, 礼拜日 (lǐbàirì), (colloquial) 禮拜天, 礼拜天 (lǐbàitiān), 周日 (zhōurì) :: Sunday (day of the week) (noun)
 ***禮拜天***
-  (formal) 星期日 (xīngqīrì), (informal) 星期天 (xīngqītiān), 禮拜日, 礼拜日 (lǐbàirì), (colloquial) 禮拜天, 礼拜天 (lǐbàitiān) :: Sunday (day of the week) (noun)
+  (formal) 星期日 (xīngqīrì), (informal) 星期天 (xīngqītiān), 禮拜日, 礼拜日 (lǐbàirì), (colloquial) 禮拜天, 礼拜天 (lǐbàitiān), 周日 (zhōurì) :: Sunday (day of the week) (noun)
+===lǐbàiwǔ===
+  星期五 (xīngqīwǔ), 禮拜五, 礼拜五 (lǐbàiwǔ), 周五 (zhōuwǔ) :: Friday (day of the week) (noun)
+***礼拜五***
+  星期五 (xīngqīwǔ), 禮拜五, 礼拜五 (lǐbàiwǔ), 周五 (zhōuwǔ) :: Friday (day of the week) (noun)
+***禮拜五***
+  星期五 (xīngqīwǔ), 禮拜五, 礼拜五 (lǐbàiwǔ), 周五 (zhōuwǔ) :: Friday (day of the week) (noun)
+===lǐbàiyī===
+  星期一 (xīngqīyī), 禮拜一, 礼拜一 (lǐbàiyī), 周一 (zhōuyī) :: Monday (day of the week) (noun)
+***礼拜一***
+  星期一 (xīngqīyī), 禮拜一, 礼拜一 (lǐbàiyī), 周一 (zhōuyī) :: Monday (day of the week) (noun)
+***禮拜一***
+  星期一 (xīngqīyī), 禮拜一, 礼拜一 (lǐbàiyī), 周一 (zhōuyī) :: Monday (day of the week) (noun)
 ===lièbiǎo===
   監視列表, 监视列表 (jiānshì lièbiǎo) :: watchlist (list for special attention) (noun)
 ===lìfǎ===
@@ -1664,21 +1715,20 @@ Index: ZH ZH->EN
 ***曆法***
   日曆, 日历 (rìlì), 曆 (lì), 历 (lì), 曆法, 历法 (lìfǎ), (colloquial) 月份牌 (yuèfènpái) :: calendar (system by which time is divided) (noun)
 ===líng===
+  零 (líng), (numeral) 〇 :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   零 (líng), 〇 :: zero (numeric symbol of zero) (noun)
-  零 (líng) (numeral: 〇, 零) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
 ***〇***
+  零 (líng), (numeral) 〇 :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   零 (líng), 〇 :: zero (numeric symbol of zero) (noun)
-  零 (líng) (numeral: 〇, 零) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
 ***零***
+  零 (líng), (numeral) 〇 :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   零 (líng), 〇 :: zero (numeric symbol of zero) (noun)
-  零 (líng) (numeral: 〇, 零) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
 ===li̍t===
   (Min Nan) 日頭 (ji̍t-thâu, li̍t-thâu) :: sun (the star around which the Earth revolves) (proper noun)
 ===liù===
-  星期六 (xīngqī liù) :: Saturday (day of the week) (noun)
-  (Standard Chinese (Mandarin)) 六 (liù) (numeral: 陸) :: six (cardinal number) (cardinal number)
+  六 (liù) (numeral: 陸) :: six (cardinal number) (cardinal number)
 ===六===
-  (Standard Chinese (Mandarin)) 六 (liù) (numeral: 陸) :: six (cardinal number) (cardinal number)
+  六 (liù) (numeral: 陸) :: six (cardinal number) (cardinal number)
   (Bai) 六 (chi) :: six (cardinal number) (cardinal number)
   (Cantonese) 六 (luk6) :: six (cardinal number) (cardinal number)
   (Eastern Hokkien (Min Dong)) 六 (lek) :: six (cardinal number) (cardinal number)
@@ -1703,12 +1753,9 @@ Index: ZH ZH->EN
 ===lo===
   (Wu) 六 (lo) :: six (cardinal number) (cardinal number)
 ===陸===
-  (Standard Chinese (Mandarin)) 六 (liù) (numeral: 陸) :: six (cardinal number) (cardinal number)
-===lüe===
-  减少 (jian shao), 省略 (sheng lüe) :: abate (to deduct, to omit) (verb)
+  六 (liù) (numeral: 陸) :: six (cardinal number) (cardinal number)
 ===lüèyǔ===
   縮寫, 缩写 (suōxiě); 簡寫, 简写 (jiǎnxiě); 略語, 略语 (lüèyǔ) :: abbreviation (shortened or contracted form of a word or phrase) (noun)
-  縮寫, 缩写 (suōxiě), 縮略詞, 缩略词 (suōlüècí), 略語, 略语 (lüèyǔ) :: acronym (word formed by initial letters) (noun)
 ===luh===
   (Min Nan) 啤酒 (bih-luh), 麥仔酒 (be̍h-á-chiú), 米仔酒 (bí-á-chiú) :: beer (alcoholic drink made of malt) (noun)
 ===luk6===
@@ -1730,16 +1777,8 @@ Index: ZH ZH->EN
 ===mán===
   (Cantonese) 英文 (Yīng-mán) :: English (the English language) (proper noun)
 ===Mandarin===
-  See Mandarin :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
-  See Mandarin :: definition (statement expressing the essential nature of something) (noun)
-  See Mandarin :: definition (action or process of defining) (noun)
   See Mandarin :: definition (act of defining) (noun)
-  See Mandarin :: definition (product of defining) (noun)
-  See Mandarin :: definition (action or power of describing, explaining, or making definite) (noun)
   See Mandarin :: definition (clarity of visual presentation, distinctness of outline or detail) (noun)
-  See Mandarin :: definition (clarity, especially of musical sound in reproduction) (noun)
-  See Mandarin :: definition (sharp demarcation of outlines or limits) (noun)
-  See Mandarin :: definition (bodybuilding: the degree to which individual muscles are distinct) (noun)
 ===Mǎnílā===
   蕉麻 (jiāomá)，马尼拉麻 (Mǎnílā má) :: abaca (plant) (noun)
 ===马尼拉麻===
@@ -1819,8 +1858,8 @@ Index: ZH ZH->EN
 ===míng===
   名 (míng), 名字 (míngzì) :: name (word or phrase indicating a particular person, place, class or thing) (noun)
 ===mìng===
-  任命 (rèn mìng) :: name (designate for a role) (verb)
-===名===
+  任命 (rèn mìng) :: name (to designate for a role) (verb)
+***名***
   名 (míng), 名字 (míngzì) :: name (word or phrase indicating a particular person, place, class or thing) (noun)
 ===ming4===
   (Cantonese) 名詞 (ming4 ci4) :: noun (grammatical category) (noun)
@@ -1833,20 +1872,22 @@ Index: ZH ZH->EN
   (Cantonese) 名詞 (ming4 ci4) :: noun (grammatical category) (noun)
   名詞, 名词 (míngcí) :: noun (grammatical category) (noun)
 ===mìngmíng===
-  命名 (mìngmíng) :: name (give a name to) (verb)
+  命名 (mìngmíng) :: name (to give a name to) (verb)
 ***命名***
-  命名 (mìngmíng) :: name (give a name to) (verb)
+  命名 (mìngmíng) :: name (to give a name to) (verb)
 ===míngxīng===
   恆星, 恒星 (héngxīng), 明星 (míngxīng), 星 (xīng) :: star (luminous celestial body) (noun)
+  明星 (míngxīng) :: star (celebrity) (noun)
 ***明星***
   恆星, 恒星 (héngxīng), 明星 (míngxīng), 星 (xīng) :: star (luminous celestial body) (noun)
+  明星 (míngxīng) :: star (celebrity) (noun)
 ===míngzì===
   名 (míng), 名字 (míngzì) :: name (word or phrase indicating a particular person, place, class or thing) (noun)
 ===míngzi===
   名字 (míngzi) :: first name (name chosen by parents) (noun)
 ***名字***
-  名字 (míngzi) :: first name (name chosen by parents) (noun)
   名 (míng), 名字 (míngzì) :: name (word or phrase indicating a particular person, place, class or thing) (noun)
+  名字 (míngzi) :: first name (name chosen by parents) (noun)
 ***米仔酒***
   (Min Nan) 啤酒 (bih-luh), 麥仔酒 (be̍h-á-chiú), 米仔酒 (bí-á-chiú) :: beer (alcoholic drink made of malt) (noun)
 ===móhu===
@@ -1925,6 +1966,10 @@ Index: ZH ZH->EN
   能幹, 能干 (nénggàn), 得力 (délì) :: able (skillful) (adjective)
 ***能幹***
   能幹, 能干 (nénggàn), 得力 (délì) :: able (skillful) (adjective)
+===nénglì===
+  能力 (nénglì) :: ability (quality or state of being able) (noun)
+***能力***
+  能力 (nénglì) :: ability (quality or state of being able) (noun)
 ===ng5===
   (Cantonese) 五 (ng5) :: five (five (5)) (cardinal number)
 ===ngî===
@@ -2006,19 +2051,16 @@ Index: ZH ZH->EN
   混淆 (hùnxiáo), 弄亂, 弄乱 (nòngluàn), 搞亂, 搞乱 (gǎoluàn), 使模糊 (shǐ móhu), 使混亂, 使混乱 (shǐ hùnluàn), 使糊塗, 使糊涂 (shǐ hútu) :: obfuscate (make confusing) (verb)
 ***弄亂***
   混淆 (hùnxiáo), 弄亂, 弄乱 (nòngluàn), 搞亂, 搞乱 (gǎoluàn), 使模糊 (shǐ móhu), 使混亂, 使混乱 (shǐ hùnluàn), 使糊塗, 使糊涂 (shǐ hútu) :: obfuscate (make confusing) (verb)
-===North===
-  詠嘆調, 咏叹调 (yǒngtàndiào), 唱段 (chàngduàn), (North China, Yuan dynasty) 北曲 (běiqǔ) :: aria (type of musical piece) (noun)
 ===numeral===
-  (Standard Chinese (Mandarin)) 七 (qī) (numeral: 柒) :: seven (cardinal number 7) (cardinal number)
-  零 (líng) (numeral: 〇, 零) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
+  七 (qī) (numeral: 柒) :: seven (cardinal number 7) (cardinal number)
   二 (èr), 两 (liǎng) (numeral: 貳) :: two (one plus one) (cardinal number)
   三 (sān) (numeral: 參) :: three (cardinal number 3) (cardinal number)
   四 (sì) (numeral: 肆) :: four (the cardinal number 4) (cardinal number)
-  (Standard Chinese (Mandarin)) 五 (wǔ) (numeral: 伍) :: five (five (5)) (cardinal number)
-  (Standard Chinese (Mandarin)) 六 (liù) (numeral: 陸) :: six (cardinal number) (cardinal number)
-  (Standard Chinese (Mandarin)) 八 (bā) (numeral: 捌) :: eight (cardinal number 8) (cardinal number)
-  (Standard Chinese (Mandarin)) 九 (jiǔ) (numeral: 玖) :: nine (cardinal number) (cardinal number)
-  (Standard Chinese (Mandarin)) 十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
+  五 (wǔ) (numeral: 伍) :: five (five (5)) (cardinal number)
+  六 (liù) (numeral: 陸) :: six (cardinal number) (cardinal number)
+  八 (bā) (numeral: 捌) :: eight (cardinal number 8) (cardinal number)
+  九 (jiǔ) (numeral: 玖) :: nine (cardinal number) (cardinal number)
+  十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
 ===nǚqīngnián===
   基督教女青年會 (jīdùjiào nǚqīngnián huì) :: YWCA (YWCA) ({{initialism}})
 ===nuxing===
@@ -2060,8 +2102,8 @@ Index: ZH ZH->EN
 ===pat===
   (Gan) 八 (pat) :: eight (cardinal number 8) (cardinal number)
 ===pì===
-  屁 (pì), 放屁 (fàngpì) :: fart (an emission of flatulent gases) (noun)
   放屁 (fàng pì) :: fart (to emit flatulent gases) (verb)
+  屁 (pì), 放屁 (fàngpì) :: fart (an emission of flatulent gases) (noun)
   屁股, 屁股 (pì gǔ) :: can (buttocks) (noun)
 ***屁***
   屁 (pì), 放屁 (fàngpì) :: fart (an emission of flatulent gases) (noun)
@@ -2090,7 +2132,7 @@ Index: ZH ZH->EN
 ===pya===
   (Bai) 八 (pya) :: eight (cardinal number 8) (cardinal number)
 ===qī===
-  (Standard Chinese (Mandarin)) 七 (qī) (numeral: 柒) :: seven (cardinal number 7) (cardinal number)
+  七 (qī) (numeral: 柒) :: seven (cardinal number 7) (cardinal number)
 ===qí===
   奇怪 (qí quài) :: odd (strange) (adjective)
 ===qì===
@@ -2098,13 +2140,13 @@ Index: ZH ZH->EN
   金屬容器, 金属容器 (jīn shǔ róng qì) :: can (a tin-plate canister) (noun)
   丟棄, 丢弃 (diū qì) :: can (to discard) (verb)
 ===七===
-  (Standard Chinese (Mandarin)) 七 (qī) (numeral: 柒) :: seven (cardinal number 7) (cardinal number)
+  七 (qī) (numeral: 柒) :: seven (cardinal number 7) (cardinal number)
   (Cantonese) 七 (chat1) :: seven (cardinal number 7) (cardinal number)
   (Eastern Hokkien (Min Dong)) 七 (chek) :: seven (cardinal number 7) (cardinal number)
   (Wu) 七 (chi) :: seven (cardinal number 7) (cardinal number)
   (Xiang) 七 (tshiu) :: seven (cardinal number 7) (cardinal number)
 ===柒===
-  (Standard Chinese (Mandarin)) 七 (qī) (numeral: 柒) :: seven (cardinal number 7) (cardinal number)
+  七 (qī) (numeral: 柒) :: seven (cardinal number 7) (cardinal number)
 ===qiānbǐ===
   鉛筆, 铅笔 (qiānbǐ) :: pencil (graphite writing-instrument) (noun)
 ***铅笔***
@@ -2145,12 +2187,10 @@ Index: ZH ZH->EN
   清晰, 清晰 (qīngxī) :: definition (clarity, especially of musical sound in reproduction) (noun)
   清晰, 清晰 (qīngxī) :: definition (sharp demarcation of outlines or limits) (noun)
   清晰度, 清晰度 (qīngxīdù) :: definition (bodybuilding: the degree to which individual muscles are distinct) (noun)
-  草 (căo), 青草 (qīng cǎo) :: grass (ground cover plant) (noun)
-===qing===
-  减弱 (jian ruo), 减轻 (jian qing) :: abate (to bring down or reduce to a lower state) (verb)
-  减轻 (jian qing), 减弱 (jian ruo) :: abate (to decrease or become less in strength) (verb)
-===青草===
-  草 (căo), 青草 (qīng cǎo) :: grass (ground cover plant) (noun)
+===qīngcǎo===
+  草 (cǎo), 青草 (qīngcǎo) :: grass (ground cover plant) (noun)
+***青草***
+  草 (cǎo), 青草 (qīngcǎo) :: grass (ground cover plant) (noun)
 ===qīngnián===
   基督教青年會 (jīdùjiào qīngnián huì) :: YMCA (Young Men's Christian Association) ({{initialism}})
 ===qīngpéndàyǔ===
@@ -2184,8 +2224,6 @@ Index: ZH ZH->EN
   七月, 7月 (qīyuè) :: July (seventh month of the Gregorian calendar) (proper noun)
 ===七月===
   七月, 7月 (qīyuè) :: July (seventh month of the Gregorian calendar) (proper noun)
-===qu===
-  阻止 (zu zhi), 除去 (chu qu) :: abate (to bar, to except) (verb)
 ===qua===
   (Min Nan) ah qua / ah kua (Hokkien) :: transvestite (cross-dresser) (noun)
 ===quài===
@@ -2230,7 +2268,7 @@ Index: ZH ZH->EN
   人 (rén), 人類, 人类 (rénlèi) :: man (human) (noun)
   荷蘭人, 荷兰人 (Hélán-rén) :: Dutch (people from the Netherlands) (proper noun)
 ===rèn===
-  任命 (rèn mìng) :: name (designate for a role) (verb)
+  任命 (rèn mìng) :: name (to designate for a role) (verb)
 ***人***
   人 (rén), 人類, 人类 (rénlèi) :: man (human) (noun)
 ===réngōng===
@@ -2250,7 +2288,7 @@ Index: ZH ZH->EN
 ***人流***
   流產, 流产 (líuchǎn), 人工流產, 人工流产 (réngōng-liúchǎn), 人流 (rénliú) :: abortion (induced abortion) (noun)
 ===任命===
-  任命 (rèn mìng) :: name (designate for a role) (verb)
+  任命 (rèn mìng) :: name (to designate for a role) (verb)
 ===rénqíngzhài===
   (of gratitude) 人情債, 人情债 (rénqíngzhài) :: debt (action, state of mind, or object one has an obligation to perform for another) (noun)
   (of gratitude) 人情債, 人情债 (rénqíngzhài) :: debt (state or condition of owing something to another) (noun)
@@ -2273,12 +2311,12 @@ Index: ZH ZH->EN
 ===熱頭===
   (Cantonese) 太陽, 太阳, taai3 joeng4, 日頭, 日头, jat6 tau2, 熱頭, 热头, jit6 tau2 :: sun (the star around which the Earth revolves) (proper noun)
 ===rì===
-  日 (rì), 天 (tiān) :: day (period of 24 hours) (noun)
+  天 (tiān), 日 (rì) :: day (period of 24 hours) (noun)
   太陽, 太阳 (tàiyáng), 日 (rì) :: sun (the star around which the Earth revolves) (proper noun)
   太陽, 太阳 (tàiyáng), 恒星 (héngxīng), 日 (rì) :: sun (any star, especially when seen as the centre of any single solar system) (noun)
 ***日***
   (Cantonese) 日 (jat6) :: day (period of 24 hours) (noun)
-  日 (rì), 天 (tiān) :: day (period of 24 hours) (noun)
+  天 (tiān), 日 (rì) :: day (period of 24 hours) (noun)
   太陽, 太阳 (tàiyáng), 日 (rì) :: sun (the star around which the Earth revolves) (proper noun)
   太陽, 太阳 (tàiyáng), 恒星 (héngxīng), 日 (rì) :: sun (any star, especially when seen as the centre of any single solar system) (noun)
 ===ri6===
@@ -2327,14 +2365,10 @@ Index: ZH ZH->EN
   肉 (ròu) :: meat (type of meat) (noun)
   (Cantonese) 肉 (juk6) :: meat (any sort of flesh) (noun)
   肉 (ròu) :: meat (any sort of flesh) (noun)
-===ruo===
-  减弱 (jian ruo), 减轻 (jian qing) :: abate (to bring down or reduce to a lower state) (verb)
-  减轻 (jian qing), 减弱 (jian ruo) :: abate (to decrease or become less in strength) (verb)
 ===sam1===
   (Cantonese) 三 (sam1) :: three (cardinal number 3) (cardinal number)
   (Teochew) san1, sam1 :: three (cardinal number 3) (cardinal number)
 ===sān===
-  星期三 (xīngqī sān), 周三 (zhōu sān) :: Wednesday (day of the week) (noun)
   三 (sān) (numeral: 參) :: three (cardinal number 3) (cardinal number)
 ===sǎn===
   傘, 伞 (sǎn), 雨傘, 雨伞 (yǔsǎn) :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
@@ -2369,16 +2403,8 @@ Index: ZH ZH->EN
   色 (sè), 顏色, 颜色 (yánsè) :: color (spectral composition of visible light) (noun)
   色 (sè), 顏色, 颜色 (yánsè) :: color (particular set of the visible spectrum) (noun)
 ===See===
-  See Mandarin :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
-  See Mandarin :: definition (statement expressing the essential nature of something) (noun)
-  See Mandarin :: definition (action or process of defining) (noun)
   See Mandarin :: definition (act of defining) (noun)
-  See Mandarin :: definition (product of defining) (noun)
-  See Mandarin :: definition (action or power of describing, explaining, or making definite) (noun)
   See Mandarin :: definition (clarity of visual presentation, distinctness of outline or detail) (noun)
-  See Mandarin :: definition (clarity, especially of musical sound in reproduction) (noun)
-  See Mandarin :: definition (sharp demarcation of outlines or limits) (noun)
-  See Mandarin :: definition (bodybuilding: the degree to which individual muscles are distinct) (noun)
 ===sei===
   (Cantonese) 四 (sei<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
 ===sek===
@@ -2448,8 +2474,6 @@ Index: ZH ZH->EN
   (give up throne) 禪讓, 禅让 (shànràng), (leave any position) 退位 (tuìwèi), 退出 (tuìchū) :: abdicate (renounce a throne) (verb)
 ===shǎo===
   少 (shǎo) :: few (small number) (determiner)
-===shao===
-  减少 (jian shao), 省略 (sheng lüe) :: abate (to deduct, to omit) (verb)
 ***少***
   少 (shǎo) :: few (small number) (determiner)
 ===shè===
@@ -2465,10 +2489,11 @@ Index: ZH ZH->EN
 ===赦免===
   赦免 (shèmiǎn), 赦罪 (shèzuì) :: absolve (theology: pronounce free or give absolution from sin) (verb)
 ===sheng===
-  减少 (jian shao), 省略 (sheng lüe) :: abate (to deduct, to omit) (verb)
   女性服务生 (nuxing fuwu-sheng) :: bellgirl (a female bellhop) (noun)
 ***省略***
-  减少 (jian shao), 省略 (sheng lüe) :: abate (to deduct, to omit) (verb)
+  減少, 减少 (jiǎnshǎo), 省略 (shěnglüè) :: abate (to deduct, to omit) (verb)
+===shěnglüè===
+  減少, 减少 (jiǎnshǎo), 省略 (shěnglüè) :: abate (to deduct, to omit) (verb)
 ===shénme===
   無論什麼, 无论什么 (wúlùn shénme), 無論何事, 无论何事 (wúlùn héshì) :: whatever (anything) (determiner)
   無論什麼, 无论什么 (wúlùn shénme) :: whatever (anything) (pronoun)
@@ -2479,7 +2504,7 @@ Index: ZH ZH->EN
 ===shí===
   十年 (shí nián) :: decade (a period of ten years) (noun)
   十二月 (shí’èryuè) :: December (twelfth month of the Gregorian calendar) (proper noun)
-  (Standard Chinese (Mandarin)) 十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
+  十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
 ===shǐ===
   使免除 (shǐ miǎnchú) :: absolve (set free) (verb)
   混淆 (hùnxiáo), 弄亂, 弄乱 (nòngluàn), 搞亂, 搞乱 (gǎoluàn), 使模糊 (shǐ móhu), 使混亂, 使混乱 (shǐ hùnluàn), 使糊塗, 使糊涂 (shǐ hútu) :: obfuscate (make confusing) (verb)
@@ -2494,7 +2519,7 @@ Index: ZH ZH->EN
   定意, 定意 (dìngyì); 釋義, 释意 (shìyì) :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
   把某東西看作是無價值的, 把某东西看作是无价值的 (bǎ mǒu dōngxi kànzuò shì wú jiàzhí de) :: floccinaucinihilipilification (act or habit of describing or regarding something as unimportant) (noun)
 ===十===
-  (Standard Chinese (Mandarin)) 十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
+  十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Cantonese) 十 (sap6) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Eastern Hokkien (Min Dong)) 十 (sek) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Wu) 十 (ze) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
@@ -2516,7 +2541,7 @@ Index: ZH ZH->EN
 ===釋===
   定意, 定意 (dìngyì); 釋義, 释意 (shìyì) :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
 ===拾===
-  (Standard Chinese (Mandarin)) 十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
+  十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
 ===shībài===
   流產, 流产 (líuchǎn), 失敗, 失败 (shībài), 誤投, 误投 (wùtóu) :: abortion (miscarriage) (noun)
 ***失败***
@@ -2654,7 +2679,6 @@ Index: ZH ZH->EN
   死 (sǐ), 亡 (wáng), (formal) 去世 (qùshì) :: die (to stop living) (verb)
 ===sì===
   四 (sì) (numeral: 肆) :: four (the cardinal number 4) (cardinal number)
-  星期四 (xīngqī sì) :: Thursday (day of the week) (noun)
   四分之一 (sì fēn zhīyī) :: quarter (one of four equal parts) (noun)
   四 (sì) :: four (the digit or figure 4) (noun)
 ===si===
@@ -2717,25 +2741,16 @@ Index: ZH ZH->EN
   (Cantonese) 書, 书 (suè) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
 ===suǒ===
   廁所, 厕所 (cè suǒ) :: can (toilet) (noun)
-***缩略词***
-  縮寫, 缩写 (suōxiě), 縮略詞, 缩略词 (suōlüècí), 略語, 略语 (lüèyǔ) :: acronym (word formed by initial letters) (noun)
-***縮略詞***
-  縮寫, 缩写 (suōxiě), 縮略詞, 缩略词 (suōlüècí), 略語, 略语 (lüèyǔ) :: acronym (word formed by initial letters) (noun)
-===suōlüècí===
-  縮寫, 缩写 (suōxiě), 縮略詞, 缩略词 (suōlüècí), 略語, 略语 (lüèyǔ) :: acronym (word formed by initial letters) (noun)
 ===suōxiě===
   縮寫, 缩写 (suōxiě); 簡寫, 简写 (jiǎnxiě); 略語, 略语 (lüèyǔ) :: abbreviation (shortened or contracted form of a word or phrase) (noun)
   縮寫, 缩写 (suōxiě) :: abbreviation (act or result of shortening or reducing) (noun)
-  縮寫, 缩写 (suōxiě), 縮略詞, 缩略词 (suōlüècí), 略語, 略语 (lüèyǔ) :: acronym (word formed by initial letters) (noun)
   为了缩写 (wèile suōxiě) :: abbreviate (to make shorter) (verb)
 ***缩写***
   縮寫, 缩写 (suōxiě); 簡寫, 简写 (jiǎnxiě); 略語, 略语 (lüèyǔ) :: abbreviation (shortened or contracted form of a word or phrase) (noun)
   縮寫, 缩写 (suōxiě) :: abbreviation (act or result of shortening or reducing) (noun)
-  縮寫, 缩写 (suōxiě), 縮略詞, 缩略词 (suōlüècí), 略語, 略语 (lüèyǔ) :: acronym (word formed by initial letters) (noun)
 ***縮寫***
   縮寫, 缩写 (suōxiě); 簡寫, 简写 (jiǎnxiě); 略語, 略语 (lüèyǔ) :: abbreviation (shortened or contracted form of a word or phrase) (noun)
   縮寫, 缩写 (suōxiě) :: abbreviation (act or result of shortening or reducing) (noun)
-  縮寫, 缩写 (suōxiě), 縮略詞, 缩略词 (suōlüècí), 略語, 略语 (lüèyǔ) :: acronym (word formed by initial letters) (noun)
 ===sup===
   (Cantonese) 今日 (gam<sup>1</sup>yat<sup>6</sup>) :: today (on the current day) (adverb)
   (Cantonese) 四 (sei<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
@@ -2793,16 +2808,11 @@ Index: ZH ZH->EN
 ===thiⁿ===
   (Min Nan) 秋天 (chhiu-thiⁿ) :: autumn (season) (noun)
 ===tiān===
-  日 (rì), 天 (tiān) :: day (period of 24 hours) (noun)
-  一天, 一天, yìtiān :: day (period from midnight to the following midnight) (noun)
-  一天, 一天, yìtiān :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
-  白天, 白天, báitiān :: day (period between sunrise and sunset) (noun)
+  天 (tiān), 日 (rì) :: day (period of 24 hours) (noun)
 ===tián===
   填色 (tián sè), 上色 (shàng sè), 著色 (zhuó sè) :: color (give something color) (verb)
 ***天***
-  日 (rì), 天 (tiān) :: day (period of 24 hours) (noun)
-  一天, 一天, yìtiān :: day (period from midnight to the following midnight) (noun)
-  一天, 一天, yìtiān :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
+  天 (tiān), 日 (rì) :: day (period of 24 hours) (noun)
 ===tiānkōng===
   天空 (tiānkōng) :: sky (atmosphere above a point) (noun)
 ***天空***
@@ -3024,20 +3034,19 @@ Index: ZH ZH->EN
 ===wú===
   把某東西看作是無價值的, 把某东西看作是无价值的 (bǎ mǒu dōngxi kànzuò shì wú jiàzhí de) :: floccinaucinihilipilification (act or habit of describing or regarding something as unimportant) (noun)
 ===wǔ===
-  星期五 (xīngqī wǔ) :: Friday (day of the week) (noun)
-  (Standard Chinese (Mandarin)) 五 (wǔ) (numeral: 伍) :: five (five (5)) (cardinal number)
+  五 (wǔ) (numeral: 伍) :: five (five (5)) (cardinal number)
 ===无===
   把某東西看作是無價值的, 把某东西看作是无价值的 (bǎ mǒu dōngxi kànzuò shì wú jiàzhí de) :: floccinaucinihilipilification (act or habit of describing or regarding something as unimportant) (noun)
 ===無===
   把某東西看作是無價值的, 把某东西看作是无价值的 (bǎ mǒu dōngxi kànzuò shì wú jiàzhí de) :: floccinaucinihilipilification (act or habit of describing or regarding something as unimportant) (noun)
 ===五===
-  (Standard Chinese (Mandarin)) 五 (wǔ) (numeral: 伍) :: five (five (5)) (cardinal number)
+  五 (wǔ) (numeral: 伍) :: five (five (5)) (cardinal number)
   (Cantonese) 五 (ng5) :: five (five (5)) (cardinal number)
   (Eastern Hokkien (Min Dong)) 五 (ngu) :: five (five (5)) (cardinal number)
   (Northern Hokkien (Min Bei)) 五 (ngo) :: five (five (5)) (cardinal number)
   (Wu) 五 (hen) :: five (five (5)) (cardinal number)
 ===伍===
-  (Standard Chinese (Mandarin)) 五 (wǔ) (numeral: 伍) :: five (five (5)) (cardinal number)
+  五 (wǔ) (numeral: 伍) :: five (five (5)) (cardinal number)
 ===wūhēi===
   烏鴉, 乌鸦, wūyā, 渡鴉, 渡鸦, dùyā, 烏黑, 乌黑, wūhēi :: raven (bird) (noun)
 ===乌黑===
@@ -3119,10 +3128,8 @@ Index: ZH ZH->EN
   現代, 现代 (xiàndài) :: today (nowadays) (adverb)
 ===xiàng===
   象 (xiàng), 大象 (dàxiàng) :: elephant (mammal) (noun)
-===象===
+***象***
   象 (xiàng), 大象 (dàxiàng) :: elephant (mammal) (noun)
-===xiao===
-  撤销 (che xiao) :: abate (obsolete: to bring entirely down or put an end to) (verb)
 ===xiǎoshí===
   小時, 小时 (xiǎoshí), (informal) 鐘頭, 钟头 (zhōngtóu) :: hour (Time period of sixty minutes) (noun)
 ***小时***
@@ -3149,12 +3156,10 @@ Index: ZH ZH->EN
   心不在焉 (xīnbùzàiyān) :: absent-minded (absent in mind) (adjective)
 ===xīng===
   恆星, 恒星 (héngxīng), 明星 (míngxīng), 星 (xīng) :: star (luminous celestial body) (noun)
-  星 (xīng) :: star (celebrity) (noun)
 ===xìng===
   性 (xìng) :: -ity (Used to form nouns from adjectives.) (suffix)
 ***星***
   恆星, 恒星 (héngxīng), 明星 (míngxīng), 星 (xīng) :: star (luminous celestial body) (noun)
-  星 (xīng) :: star (celebrity) (noun)
 ***性***
   性 (xìng) :: -ity (Used to form nouns from adjectives.) (suffix)
 ===xíngjìn===
@@ -3179,36 +3184,41 @@ Index: ZH ZH->EN
 ***行軍***
   行軍, 行军 (xíngjūn), 行進, 行进 (xíngjìn) :: march (walk with long, regular strides) (verb)
 ===xīngqī===
+  星期二 (xīngqī'èr), 禮拜二, 礼拜二 (lǐbài'èr), 周二 (zhōu'èr) :: Tuesday (day of the week) (noun)
   星期 (xīngqī), 周 (zhōu), 禮拜, 礼拜 (lǐbài) :: week (period of seven days) (noun)
-  星期一 (xīngqī yī) :: Monday (day of the week) (noun)
-  星期二 (xīngqī èr) :: Tuesday (day of the week) (noun)
-  星期三 (xīngqī sān), 周三 (zhōu sān) :: Wednesday (day of the week) (noun)
-  星期四 (xīngqī sì) :: Thursday (day of the week) (noun)
-  星期五 (xīngqī wǔ) :: Friday (day of the week) (noun)
-  星期六 (xīngqī liù) :: Saturday (day of the week) (noun)
 ***星期***
   星期 (xīngqī), 周 (zhōu), 禮拜, 礼拜 (lǐbài) :: week (period of seven days) (noun)
   (Cantonese) 星期 (singkei) :: week (period of seven days) (noun)
-===星期二===
-  星期二 (xīngqī èr) :: Tuesday (day of the week) (noun)
-===星期六===
-  星期六 (xīngqī liù) :: Saturday (day of the week) (noun)
+***星期二***
+  星期二 (xīngqī'èr), 禮拜二, 礼拜二 (lǐbài'èr), 周二 (zhōu'èr) :: Tuesday (day of the week) (noun)
+===xīngqīliù===
+  星期六 (xīngqīliù), 禮拜六, 礼拜六 (lǐbàiliù), 周六 (zhōuliù) :: Saturday (day of the week) (noun)
+***星期六***
+  星期六 (xīngqīliù), 禮拜六, 礼拜六 (lǐbàiliù), 周六 (zhōuliù) :: Saturday (day of the week) (noun)
 ===xīngqīrì===
-  (formal) 星期日 (xīngqīrì), (informal) 星期天 (xīngqītiān), 禮拜日, 礼拜日 (lǐbàirì), (colloquial) 禮拜天, 礼拜天 (lǐbàitiān) :: Sunday (day of the week) (noun)
+  (formal) 星期日 (xīngqīrì), (informal) 星期天 (xīngqītiān), 禮拜日, 礼拜日 (lǐbàirì), (colloquial) 禮拜天, 礼拜天 (lǐbàitiān), 周日 (zhōurì) :: Sunday (day of the week) (noun)
 ***星期日***
-  (formal) 星期日 (xīngqīrì), (informal) 星期天 (xīngqītiān), 禮拜日, 礼拜日 (lǐbàirì), (colloquial) 禮拜天, 礼拜天 (lǐbàitiān) :: Sunday (day of the week) (noun)
-===星期三===
-  星期三 (xīngqī sān), 周三 (zhōu sān) :: Wednesday (day of the week) (noun)
-===星期四===
-  星期四 (xīngqī sì) :: Thursday (day of the week) (noun)
+  (formal) 星期日 (xīngqīrì), (informal) 星期天 (xīngqītiān), 禮拜日, 礼拜日 (lǐbàirì), (colloquial) 禮拜天, 礼拜天 (lǐbàitiān), 周日 (zhōurì) :: Sunday (day of the week) (noun)
+===xīngqīsān===
+  星期三 (xīngqīsān), 禮拜三, 礼拜三 (lǐbàisān), 周三 (zhōusān) :: Wednesday (day of the week) (noun)
+***星期三***
+  星期三 (xīngqīsān), 禮拜三, 礼拜三 (lǐbàisān), 周三 (zhōusān) :: Wednesday (day of the week) (noun)
+===xīngqīsì===
+  星期四 (xīngqīsì), 禮拜四, 礼拜四 (lǐbàisì), 周四 (zhōusì) :: Thursday (day of the week) (noun)
+***星期四***
+  星期四 (xīngqīsì), 禮拜四, 礼拜四 (lǐbàisì), 周四 (zhōusì) :: Thursday (day of the week) (noun)
 ===xīngqītiān===
-  (formal) 星期日 (xīngqīrì), (informal) 星期天 (xīngqītiān), 禮拜日, 礼拜日 (lǐbàirì), (colloquial) 禮拜天, 礼拜天 (lǐbàitiān) :: Sunday (day of the week) (noun)
+  (formal) 星期日 (xīngqīrì), (informal) 星期天 (xīngqītiān), 禮拜日, 礼拜日 (lǐbàirì), (colloquial) 禮拜天, 礼拜天 (lǐbàitiān), 周日 (zhōurì) :: Sunday (day of the week) (noun)
 ***星期天***
-  (formal) 星期日 (xīngqīrì), (informal) 星期天 (xīngqītiān), 禮拜日, 礼拜日 (lǐbàirì), (colloquial) 禮拜天, 礼拜天 (lǐbàitiān) :: Sunday (day of the week) (noun)
-===星期五===
-  星期五 (xīngqī wǔ) :: Friday (day of the week) (noun)
-===星期一===
-  星期一 (xīngqī yī) :: Monday (day of the week) (noun)
+  (formal) 星期日 (xīngqīrì), (informal) 星期天 (xīngqītiān), 禮拜日, 礼拜日 (lǐbàirì), (colloquial) 禮拜天, 礼拜天 (lǐbàitiān), 周日 (zhōurì) :: Sunday (day of the week) (noun)
+===xīngqīwǔ===
+  星期五 (xīngqīwǔ), 禮拜五, 礼拜五 (lǐbàiwǔ), 周五 (zhōuwǔ) :: Friday (day of the week) (noun)
+***星期五***
+  星期五 (xīngqīwǔ), 禮拜五, 礼拜五 (lǐbàiwǔ), 周五 (zhōuwǔ) :: Friday (day of the week) (noun)
+===xīngqīyī===
+  星期一 (xīngqīyī), 禮拜一, 礼拜一 (lǐbàiyī), 周一 (zhōuyī) :: Monday (day of the week) (noun)
+***星期一***
+  星期一 (xīngqīyī), 禮拜一, 礼拜一 (lǐbàiyī), 周一 (zhōuyī) :: Monday (day of the week) (noun)
 ===xíngróngcí===
   形容詞, 形容词 (xíngróngcí) :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
 ===形容词===
@@ -3327,11 +3337,8 @@ Index: ZH ZH->EN
 ===ye===
   (Wu) 一 (ye) :: one (cardinal number 1) (cardinal number)
 ===yī===
-  星期一 (xīngqī yī) :: Monday (day of the week) (noun)
   一, 壹 (yī) :: one (cardinal number 1) (cardinal number)
 ===yì===
-  一天, 一天, yìtiān :: day (period from midnight to the following midnight) (noun)
-  一天, 一天, yìtiān :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
   定意, 定意 (dìngyì); 釋義, 释意 (shìyì) :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
   定意, 定意 (dìngyì) :: definition (statement expressing the essential nature of something) (noun)
   下定意, 下定意 (xiàdìngyì) :: definition (action or process of defining) (noun)
@@ -3341,8 +3348,6 @@ Index: ZH ZH->EN
 ===yi===
   (Dungan) йи (yi) :: one (cardinal number 1) (cardinal number)
 ===一===
-  一天, 一天, yìtiān :: day (period from midnight to the following midnight) (noun)
-  一天, 一天, yìtiān :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
   (Cantonese) 一 (yat1) :: one (cardinal number 1) (cardinal number)
   一, 壹 (yī) :: one (cardinal number 1) (cardinal number)
   (Min Dong (Eastern Hokkien)) 一 (sio) :: one (cardinal number 1) (cardinal number)
@@ -3451,6 +3456,12 @@ Index: ZH ZH->EN
   一神教 (yishenjiao) :: monotheism (The belief in a single God) (noun)
 ===yit===
   (Gan) 一 (yit) :: one (cardinal number 1) (cardinal number)
+===yītiān===
+  一天 (yītiān) :: day (period from midnight to the following midnight) (noun)
+  一天 (yītiān), 白天 (báitiān), 白晝, 白昼 (báizhòu) :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
+***一天***
+  一天 (yītiān) :: day (period from midnight to the following midnight) (noun)
+  一天 (yītiān), 白天 (báitiān), 白晝, 白昼 (báizhòu) :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
 ===yiu===
   (Jin) 一 (yiu) :: one (cardinal number 1) (cardinal number)
 ===yīxué===
@@ -3534,8 +3545,6 @@ Index: ZH ZH->EN
   (the adjectives are in a dictionary form) 越……越…… (yuè...yuè...) (example: 越<u>热</u>越<u>好</u> yuè rè yuè hǎo "the hotter the better"), 愈……愈…… (yù...yù...) :: the (the + ～comparative, the + comparative) (adverb)
 ===yuán===
   泉 (quán), 源泉 (yuán quán) :: spring (water source) (noun)
-===Yuan===
-  詠嘆調, 咏叹调 (yǒngtàndiào), 唱段 (chàngduàn), (North China, Yuan dynasty) 北曲 (běiqǔ) :: aria (type of musical piece) (noun)
 ===源泉===
   泉 (quán), 源泉 (yuán quán) :: spring (water source) (noun)
 ===yuányuè===
@@ -3708,8 +3717,6 @@ Index: ZH ZH->EN
   填色 (tián sè), 上色 (shàng sè), 著色 (zhuó sè) :: color (give something color) (verb)
 ===zhǝtu===
   (Dungan) эрту (ertu), жәту (zhǝtu) :: sun (the star around which the Earth revolves) (proper noun)
-===zhi===
-  阻止 (zu zhi), 除去 (chu qu) :: abate (to bar, to except) (verb)
 ===zhìliàng===
   質量, 质量 (zhìliàng), 品质, 品質 (pǐnzhì), 水准, 水準 (shuǐzhǔn) :: quality (level of excellence) (noun)
 ===质量===
@@ -3768,18 +3775,36 @@ Index: ZH ZH->EN
 ***中止***
   中止, 夭折 :: abort (The product of a miscarriage) (noun)
 ===zhōu===
+  星期二 (xīngqī'èr), 禮拜二, 礼拜二 (lǐbài'èr), 周二 (zhōu'èr) :: Tuesday (day of the week) (noun)
   星期 (xīngqī), 周 (zhōu), 禮拜, 礼拜 (lǐbài) :: week (period of seven days) (noun)
-  星期三 (xīngqī sān), 周三 (zhōu sān) :: Wednesday (day of the week) (noun)
-===zhòu===
-  白晝, 白昼, báizhòu :: day (rotational period of a planet) (noun)
 ***周***
   星期 (xīngqī), 周 (zhōu), 禮拜, 礼拜 (lǐbài) :: week (period of seven days) (noun)
-===昼===
-  白晝, 白昼, báizhòu :: day (rotational period of a planet) (noun)
-===晝===
-  白晝, 白昼, báizhòu :: day (rotational period of a planet) (noun)
-===周三===
-  星期三 (xīngqī sān), 周三 (zhōu sān) :: Wednesday (day of the week) (noun)
+***周二***
+  星期二 (xīngqī'èr), 禮拜二, 礼拜二 (lǐbài'èr), 周二 (zhōu'èr) :: Tuesday (day of the week) (noun)
+===zhōuliù===
+  星期六 (xīngqīliù), 禮拜六, 礼拜六 (lǐbàiliù), 周六 (zhōuliù) :: Saturday (day of the week) (noun)
+***周六***
+  星期六 (xīngqīliù), 禮拜六, 礼拜六 (lǐbàiliù), 周六 (zhōuliù) :: Saturday (day of the week) (noun)
+===zhōurì===
+  (formal) 星期日 (xīngqīrì), (informal) 星期天 (xīngqītiān), 禮拜日, 礼拜日 (lǐbàirì), (colloquial) 禮拜天, 礼拜天 (lǐbàitiān), 周日 (zhōurì) :: Sunday (day of the week) (noun)
+***周日***
+  (formal) 星期日 (xīngqīrì), (informal) 星期天 (xīngqītiān), 禮拜日, 礼拜日 (lǐbàirì), (colloquial) 禮拜天, 礼拜天 (lǐbàitiān), 周日 (zhōurì) :: Sunday (day of the week) (noun)
+===zhōusān===
+  星期三 (xīngqīsān), 禮拜三, 礼拜三 (lǐbàisān), 周三 (zhōusān) :: Wednesday (day of the week) (noun)
+***周三***
+  星期三 (xīngqīsān), 禮拜三, 礼拜三 (lǐbàisān), 周三 (zhōusān) :: Wednesday (day of the week) (noun)
+===zhōusì===
+  星期四 (xīngqīsì), 禮拜四, 礼拜四 (lǐbàisì), 周四 (zhōusì) :: Thursday (day of the week) (noun)
+***周四***
+  星期四 (xīngqīsì), 禮拜四, 礼拜四 (lǐbàisì), 周四 (zhōusì) :: Thursday (day of the week) (noun)
+===zhōuwǔ===
+  星期五 (xīngqīwǔ), 禮拜五, 礼拜五 (lǐbàiwǔ), 周五 (zhōuwǔ) :: Friday (day of the week) (noun)
+***周五***
+  星期五 (xīngqīwǔ), 禮拜五, 礼拜五 (lǐbàiwǔ), 周五 (zhōuwǔ) :: Friday (day of the week) (noun)
+===zhōuyī===
+  星期一 (xīngqīyī), 禮拜一, 礼拜一 (lǐbàiyī), 周一 (zhōuyī) :: Monday (day of the week) (noun)
+***周一***
+  星期一 (xīngqīyī), 禮拜一, 礼拜一 (lǐbàiyī), 周一 (zhōuyī) :: Monday (day of the week) (noun)
 ===zhuānyǒu===
   專有名詞, 专有名词 (zhuānyǒu míngcí), 固有名詞, 固有名词 (gùyǒu míngcí) :: proper noun (The name of a particular person, place, organization or other individual entity) (noun)
 ***专有名词***
@@ -3852,14 +3877,14 @@ Index: ZH ZH->EN
   褐色 (hèsè), 棕色 (zōngsè), (coffee colour) 咖啡色 (kāfēisè) :: brown (having brown colour) (adjective)
 ===zǒngshǔ===
   美國國家航空航天局, 美国国家航空航天局 (Měiguó guójiā hángkōng hángtiānjú), (Taiwan) 美國國家航空暨太空總署, 美国国家航空暨太空总署 (Měiguó guójiā hángkōng jì tàikōng zǒngshǔ) :: NASA (National Aeronautics and Space Administration) ({{acronym}})
-===zu===
-  阻止 (zu zhi), 除去 (chu qu) :: abate (to bar, to except) (verb)
 ===zung1===
   (Cantonese) 我愛你, 我爱你 (ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
   (Cantonese) 我愛你, 我爱你 (ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
   (Cantonese) 我鐘意你 (ngo5 zung1 yi3 nei5) :: I love you (platonic expression of inclination or liking) (phrase)
+===zǔzhǐ===
+  阻止 (zǔzhǐ), 除去 (chùqú) :: abate (to bar, to except) (verb)
 ***阻止***
-  阻止 (zu zhi), 除去 (chu qu) :: abate (to bar, to except) (verb)
+  阻止 (zǔzhǐ), 除去 (chùqú) :: abate (to bar, to except) (verb)
 ===zyu2===
   (Cantonese) 主席 (zyu2 zik6) 議長 (ji5 zoeng2) :: chairman (person presiding over a meeting) (noun)
 ===?===
@@ -3872,7 +3897,7 @@ Index: EN EN->ZH
   十億, 十亿 (shíyì) :: billion (a thousand million; 1,000,000,000; 10<sup>9</sup>; a milliard) (cardinal number)
   兆 (zhào) :: billion (a million million; 1,000,000,000,000; 10<sup>12</sup>) (cardinal number)
 ===1===
-  零 (líng) (numeral: 〇, 零) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
+  零 (líng), (numeral) 〇 :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   (Min Nan) 空 (khòng) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   (Teochew) kang3, leng5 :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   (Cantonese) 一 (yat1) :: one (cardinal number 1) (cardinal number)
@@ -3891,7 +3916,7 @@ Index: EN EN->ZH
 ===100===
   世纪 (shìjì) :: century (100 years) (noun)
 ===11===
-  (Standard Chinese (Mandarin)) 十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
+  十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Cantonese) 十 (sap6) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Teochew) zab8 :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Eastern Hokkien (Min Dong)) 十 (sek) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
@@ -3904,7 +3929,7 @@ Index: EN EN->ZH
   磅 (bàng) :: pound (unit of mass (16 ounces avoirdupois)) (noun)
 ===24===
   (Cantonese) 日 (jat6) :: day (period of 24 hours) (noun)
-  日 (rì), 天 (tiān) :: day (period of 24 hours) (noun)
+  天 (tiān), 日 (rì) :: day (period of 24 hours) (noun)
 ===3===
   (Cantonese) 三 (sam1) :: three (cardinal number 3) (cardinal number)
   (Dungan) сан (san) :: three (cardinal number 3) (cardinal number)
@@ -3919,21 +3944,21 @@ Index: EN EN->ZH
   (Teochew) 四 (si<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
   四 (sì) :: four (the digit or figure 4) (noun)
 ===5===
-  (Standard Chinese (Mandarin)) 五 (wǔ) (numeral: 伍) :: five (five (5)) (cardinal number)
+  五 (wǔ) (numeral: 伍) :: five (five (5)) (cardinal number)
   (Cantonese) 五 (ng5) :: five (five (5)) (cardinal number)
   (Teochew) ngou6 :: five (five (5)) (cardinal number)
   (Eastern Hokkien (Min Dong)) 五 (ngu) :: five (five (5)) (cardinal number)
   (Northern Hokkien (Min Bei)) 五 (ngo) :: five (five (5)) (cardinal number)
   (Wu) 五 (hen) :: five (five (5)) (cardinal number)
 ===7===
-  (Standard Chinese (Mandarin)) 七 (qī) (numeral: 柒) :: seven (cardinal number 7) (cardinal number)
+  七 (qī) (numeral: 柒) :: seven (cardinal number 7) (cardinal number)
   (Cantonese) 七 (chat1) :: seven (cardinal number 7) (cardinal number)
   (Teochew) cig4 :: seven (cardinal number 7) (cardinal number)
   (Eastern Hokkien (Min Dong)) 七 (chek) :: seven (cardinal number 7) (cardinal number)
   (Wu) 七 (chi) :: seven (cardinal number 7) (cardinal number)
   (Xiang) 七 (tshiu) :: seven (cardinal number 7) (cardinal number)
 ===8===
-  (Standard Chinese (Mandarin)) 八 (bā) (numeral: 捌) :: eight (cardinal number 8) (cardinal number)
+  八 (bā) (numeral: 捌) :: eight (cardinal number 8) (cardinal number)
   (Bai) 八 (pya) :: eight (cardinal number 8) (cardinal number)
   (Cantonese) 八 (baat3) :: eight (cardinal number 8) (cardinal number)
   (Teochew) boih4 :: eight (cardinal number 8) (cardinal number)
@@ -3945,7 +3970,7 @@ Index: EN EN->ZH
   (Xiang) 八 (pa) :: eight (cardinal number 8) (cardinal number)
 ===9===
   十億, 十亿 (shíyì) :: billion (a thousand million; 1,000,000,000; 10<sup>9</sup>; a milliard) (cardinal number)
-  (Standard Chinese (Mandarin)) 十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
+  十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Cantonese) 十 (sap6) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Teochew) zab8 :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Eastern Hokkien (Min Dong)) 十 (sek) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
@@ -3966,13 +3991,13 @@ Index: EN EN->ZH
   遗弃 :: abandon (to leave behind or desert) (verb)
   丟棄, 丢弃 (diūqì) :: abandon (to cast out) (verb)
 ***abate***
-  减弱 (jian ruo), 减轻 (jian qing) :: abate (to bring down or reduce to a lower state) (verb)
-  打败 (da bai), 击倒 (ji dao) :: abate (to bring down a person physically or mentally) (verb)
-  减轻 (jian qing), 减弱 (jian ruo) :: abate (to decrease or become less in strength) (verb)
-  减少 (jian shao), 省略 (sheng lüe) :: abate (to deduct, to omit) (verb)
-  阻止 (zu zhi), 除去 (chu qu) :: abate (to bar, to except) (verb)
-  撤销 (che xiao) :: abate (obsolete: to bring entirely down or put an end to) (verb)
-  废除 (fei chu) :: abate (to be defeated) (verb)
+  減弱, 减弱 (jiǎnruò), 減輕, 减轻 (jiǎnqīng) :: abate (to bring down or reduce to a lower state) (verb)
+  打敗, 打败 (dǎbài), 擊倒, 击倒 (jídǎo) :: abate (to bring down a person physically or mentally) (verb)
+  減輕, 减轻 (jiǎnqīng), 減弱, 减弱 (jiǎnruò) :: abate (to decrease or become less in strength) (verb)
+  減少, 减少 (jiǎnshǎo), 省略 (shěnglüè) :: abate (to deduct, to omit) (verb)
+  阻止 (zǔzhǐ), 除去 (chùqú) :: abate (to bar, to except) (verb)
+  撤銷, 撤销 (chèxiāo) :: abate (obsolete: to bring entirely down or put an end to) (verb)
+  廢除, 废除 (fèichú) :: abate (to be defeated) (verb)
 ***abatis***
   鹿砦 (lùzhài) :: abatis (means of defense) (noun)
 ***abbey***
@@ -3997,14 +4022,15 @@ Index: EN EN->ZH
   畸变 :: aberrant (deviating from the ordinary or natural type; exceptional; abnormal) (adjective)
 ***abhor***
   痛恨 (tònghèn) :: abhor (to regard with horror or detestation) (verb)
-===ability===
+***ability***
+  能力 (nénglì) :: ability (quality or state of being able) (noun)
   英文水平 :: English (one’s ability to employ the English language) (noun)
   語言, 语言 (yǔyán) :: language (the ability to communicate using words) (noun)
 ***able***
-  健康 (jiànkāng) :: able (healthy) (adjective)
   能 (néng), 會, 会 (huì) :: able (permitted to) (adjective)
   能幹, 能干 (nénggàn), 得力 (délì) :: able (skillful) (adjective)
   有資格, 有资格 (yǒu zīgé) :: able (legally qualified) (adjective)
+  能力 (nénglì) :: ability (quality or state of being able) (noun)
   會, 会 (huì), 能 (néng), (the ability/inability to achieve a result is expressed with various verb complements, e.g. -得了 (-deliǎo)/-不了 (-buliǎo)) :: can (to be able) (verb)
 ***ablution***
   沐浴 :: ablution (the act of washing or cleansing) (noun)
@@ -4097,8 +4123,7 @@ Index: EN EN->ZH
   酸 (suān) :: acid (sour, sharp, or biting to the taste) (adjective)
   酸 (suān) :: acid (a sour substance) (noun)
   酸 (suān), 酸性 (suānxìng) :: acid (in chemistry) (noun)
-***acronym***
-  縮寫, 缩写 (suōxiě), 縮略詞, 缩略词 (suōlüècí), 略語, 略语 (lüèyǔ) :: acronym (word formed by initial letters) (noun)
+===acronym===
   常見問題, 常见问题 (chángjiàn wèntí), 問答集, 问答集 (wèndájí) :: FAQ (acronym for Frequently Asked Questions) (noun)
 ===act===
   把某東西看作是無價值的, 把某东西看作是无价值的 (bǎ mǒu dōngxi kànzuò shì wú jiàzhí de) :: floccinaucinihilipilification (act or habit of describing or regarding something as unimportant) (noun)
@@ -4112,9 +4137,7 @@ Index: EN EN->ZH
   (Cantonese) 動詞 (dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   動詞, 动词 (dòngcí) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   (Min Nan) tōng-sû :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
-  See Mandarin :: definition (action or process of defining) (noun)
   下定意, 下定意 (xiàdìngyì) :: definition (action or process of defining) (noun)
-  See Mandarin :: definition (action or power of describing, explaining, or making definite) (noun)
   下定意, 下定意 (xiàdìngyì) :: definition (action or power of describing, explaining, or making definite) (noun)
   (of gratitude) 人情債, 人情债 (rénqíngzhài) :: debt (action, state of mind, or object one has an obligation to perform for another) (noun)
 ===activity===
@@ -4155,7 +4178,7 @@ Index: EN EN->ZH
   上述的 (shàngshù de) (上述) :: above-mentioned (mentioned or named before; aforesaid) (adjective)
 ===after===
   (afternoon) 下午 (xiàwǔ), (evening, night) 晚上 (wǎnshang) :: PM (after 12:00:00) ({{initialism}})
-  (Standard Chinese (Mandarin)) 十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
+  十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Cantonese) 十 (sap6) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Teochew) zab8 :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Eastern Hokkien (Min Dong)) 十 (sek) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
@@ -4225,7 +4248,6 @@ Index: EN EN->ZH
   權貴, 权贵 (quánguì) :: quality (archaic: social position) (noun)
 ***are***
   公畝, 公亩 (gōng mǔ) :: are (unit of area) (noun)
-  See Mandarin :: definition (bodybuilding: the degree to which individual muscles are distinct) (noun)
   清晰度, 清晰度 (qīngxīdù) :: definition (bodybuilding: the degree to which individual muscles are distinct) (noun)
   (Cantonese) 是 (si4) (formal and written), 係 (hai6) (vernacular) :: be (used to indicate that the subject and object are the same) (verb)
   (Dungan) сы :: be (used to indicate that the subject and object are the same) (verb)
@@ -4291,7 +4313,7 @@ Index: EN EN->ZH
   为了废止 :: abolish (to do away with) (verb)
   缺席 (quēxí) :: absent (being away from a place) (adjective)
 ===bar===
-  阻止 (zu zhi), 除去 (chu qu) :: abate (to bar, to except) (verb)
+  阻止 (zǔzhǐ), 除去 (chùqú) :: abate (to bar, to except) (verb)
 ***BC***
   公元前 (gōngyuánqián) :: BC (before Christ) ({{initialism}})
 ***be***
@@ -4317,17 +4339,17 @@ Index: EN EN->ZH
   因為, 因为 (yīnwèi) :: because (on account) (adverb)
   因為, 因为 (yīnwèi), (more formal) 由於, 由于 (yóuyú) :: because (by or for the cause that; on this account that; for the reason that) (conjunction)
 ===become===
-  减轻 (jian qing), 减弱 (jian ruo) :: abate (to decrease or become less in strength) (verb)
+  減輕, 减轻 (jiǎnqīng), 減弱, 减弱 (jiǎnruò) :: abate (to decrease or become less in strength) (verb)
 ***beer***
   啤酒 (píjiǔ) :: beer (alcoholic drink made of malt) (noun)
   (Min Nan) 啤酒 (bih-luh), 麥仔酒 (be̍h-á-chiú), 米仔酒 (bí-á-chiú) :: beer (alcoholic drink made of malt) (noun)
 ===before===
   上述的 (shàngshù de) (上述) :: above-mentioned (mentioned or named before; aforesaid) (adjective)
-  零 (líng) (numeral: 〇, 零) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
+  零 (líng), (numeral) 〇 :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   (Min Nan) 空 (khòng) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   (Teochew) kang3, leng5 :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   公元前 (gōngyuánqián) :: BC (before Christ) ({{initialism}})
-  (Standard Chinese (Mandarin)) 十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
+  十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Cantonese) 十 (sap6) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Teochew) zab8 :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Eastern Hokkien (Min Dong)) 十 (sek) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
@@ -4348,7 +4370,7 @@ Index: EN EN->ZH
 ===belly===
   腹部 (fùbù), 腹 (fù) :: abdomen (belly) (noun)
 ===between===
-  白天, 白天, báitiān :: day (period between sunrise and sunset) (noun)
+  白天 (báitiān) :: day (period between sunrise and sunset) (noun)
 ***billion***
   十億, 十亿 (shíyì) :: billion (a thousand million; 1,000,000,000; 10<sup>9</sup>; a milliard) (cardinal number)
   兆 (zhào) :: billion (a million million; 1,000,000,000,000; 10<sup>12</sup>) (cardinal number)
@@ -4379,7 +4401,6 @@ Index: EN EN->ZH
   行星 (xíngxīng) :: planet (similar body in orbit around a star) (noun)
   恆星, 恒星 (héngxīng), 明星 (míngxīng), 星 (xīng) :: star (luminous celestial body) (noun)
 ===bodybuilding===
-  See Mandarin :: definition (bodybuilding: the degree to which individual muscles are distinct) (noun)
   清晰度, 清晰度 (qīngxīdù) :: definition (bodybuilding: the degree to which individual muscles are distinct) (noun)
 ***bone***
   骨質, 骨质 (gǔzhì) :: bone (material) (noun)
@@ -4397,9 +4418,9 @@ Index: EN EN->ZH
   (Cantonese) 書, 书 (suè) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
   書, 书 (shū) :: book (collection of sheets of paper bound together containing printed or written material) (noun)
 ===bring===
-  减弱 (jian ruo), 减轻 (jian qing) :: abate (to bring down or reduce to a lower state) (verb)
-  打败 (da bai), 击倒 (ji dao) :: abate (to bring down a person physically or mentally) (verb)
-  撤销 (che xiao) :: abate (obsolete: to bring entirely down or put an end to) (verb)
+  減弱, 减弱 (jiǎnruò), 減輕, 减轻 (jiǎnqīng) :: abate (to bring down or reduce to a lower state) (verb)
+  打敗, 打败 (dǎbài), 擊倒, 击倒 (jídǎo) :: abate (to bring down a person physically or mentally) (verb)
+  撤銷, 撤销 (chèxiāo) :: abate (obsolete: to bring entirely down or put an end to) (verb)
 ***brown***
   棕色 (zōngsè), 褐色 (hèsè) :: brown (colour) (noun)
   褐色 (hèsè), 棕色 (zōngsè), (coffee colour) 咖啡色 (kāfēisè) :: brown (having brown colour) (adjective)
@@ -4453,13 +4474,13 @@ Index: EN EN->ZH
 ===capital===
   股票 (gǔpiào) :: stock (finance: capital raised by a company) (noun)
 ===cardinal===
-  (Standard Chinese (Mandarin)) 七 (qī) (numeral: 柒) :: seven (cardinal number 7) (cardinal number)
+  七 (qī) (numeral: 柒) :: seven (cardinal number 7) (cardinal number)
   (Cantonese) 七 (chat1) :: seven (cardinal number 7) (cardinal number)
   (Teochew) cig4 :: seven (cardinal number 7) (cardinal number)
   (Eastern Hokkien (Min Dong)) 七 (chek) :: seven (cardinal number 7) (cardinal number)
   (Wu) 七 (chi) :: seven (cardinal number 7) (cardinal number)
   (Xiang) 七 (tshiu) :: seven (cardinal number 7) (cardinal number)
-  零 (líng) (numeral: 〇, 零) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
+  零 (líng), (numeral) 〇 :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   (Min Nan) 空 (khòng) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   (Teochew) kang3, leng5 :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   (Cantonese) 一 (yat1) :: one (cardinal number 1) (cardinal number)
@@ -4480,14 +4501,14 @@ Index: EN EN->ZH
   四 (sì) (numeral: 肆) :: four (the cardinal number 4) (cardinal number)
   (Cantonese) 四 (sei<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
   (Teochew) 四 (si<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
-  (Standard Chinese (Mandarin)) 六 (liù) (numeral: 陸) :: six (cardinal number) (cardinal number)
+  六 (liù) (numeral: 陸) :: six (cardinal number) (cardinal number)
   (Bai) 六 (chi) :: six (cardinal number) (cardinal number)
   (Cantonese) 六 (luk6) :: six (cardinal number) (cardinal number)
   (Teochew) lag8 :: six (cardinal number) (cardinal number)
   (Eastern Hokkien (Min Dong)) 六 (lek) :: six (cardinal number) (cardinal number)
   (Northern Hokkien (Min Bei)) 六 (ly) :: six (cardinal number) (cardinal number)
   (Wu) 六 (lo) :: six (cardinal number) (cardinal number)
-  (Standard Chinese (Mandarin)) 八 (bā) (numeral: 捌) :: eight (cardinal number 8) (cardinal number)
+  八 (bā) (numeral: 捌) :: eight (cardinal number 8) (cardinal number)
   (Bai) 八 (pya) :: eight (cardinal number 8) (cardinal number)
   (Cantonese) 八 (baat3) :: eight (cardinal number 8) (cardinal number)
   (Teochew) boih4 :: eight (cardinal number 8) (cardinal number)
@@ -4497,13 +4518,13 @@ Index: EN EN->ZH
   (Jin) 八 (pu) :: eight (cardinal number 8) (cardinal number)
   (Wu) 八 (ba) :: eight (cardinal number 8) (cardinal number)
   (Xiang) 八 (pa) :: eight (cardinal number 8) (cardinal number)
-  (Standard Chinese (Mandarin)) 九 (jiǔ) (numeral: 玖) :: nine (cardinal number) (cardinal number)
+  九 (jiǔ) (numeral: 玖) :: nine (cardinal number) (cardinal number)
   (Cantonese) 九 (gau2) :: nine (cardinal number) (cardinal number)
   (Teochew) gao2 :: nine (cardinal number) (cardinal number)
   (Eastern Hokkien (Min Dong)) 九 (kau) :: nine (cardinal number) (cardinal number)
   (Northern Hokkien (Min Bei)) 九 (kiu) :: nine (cardinal number) (cardinal number)
   (Wu) 九 (jiq) :: nine (cardinal number) (cardinal number)
-  (Standard Chinese (Mandarin)) 十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
+  十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Cantonese) 十 (sap6) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Teochew) zab8 :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Eastern Hokkien (Min Dong)) 十 (sek) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
@@ -4543,7 +4564,7 @@ Index: EN EN->ZH
 ===cavity===
   腔, 腔 (qiāng) :: abdomen (cavity) (noun)
 ===celebrity===
-  星 (xīng) :: star (celebrity) (noun)
+  明星 (míngxīng) :: star (celebrity) (noun)
 ===celestial===
   恆星, 恒星 (héngxīng), 明星 (míngxīng), 星 (xīng) :: star (luminous celestial body) (noun)
 ===centre===
@@ -4594,7 +4615,6 @@ Index: EN EN->ZH
 ===clarity===
   See Mandarin :: definition (clarity of visual presentation, distinctness of outline or detail) (noun)
   清晰, 清晰 (qīngxī) :: definition (clarity of visual presentation, distinctness of outline or detail) (noun)
-  See Mandarin :: definition (clarity, especially of musical sound in reproduction) (noun)
   清晰, 清晰 (qīngxī) :: definition (clarity, especially of musical sound in reproduction) (noun)
 ===class===
   名 (míng), 名字 (míngzì) :: name (word or phrase indicating a particular person, place, class or thing) (noun)
@@ -4730,7 +4750,7 @@ Index: EN EN->ZH
   荷蘭, 荷兰 (Hélán) :: Netherlands (country in northwestern Europe) (proper noun)
   (Min Nan) Kē-tē-kok :: Netherlands (country in northwestern Europe) (proper noun)
 ===cover===
-  草 (căo), 青草 (qīng cǎo) :: grass (ground cover plant) (noun)
+  草 (cǎo), 青草 (qīngcǎo) :: grass (ground cover plant) (noun)
 ===covered===
   貨車, 货车 (huòchē) :: van (A (covered) vehicle used for carrying goods) (noun)
   傘, 伞 (sǎn), 雨傘, 雨伞 (yǔsǎn) :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
@@ -4784,18 +4804,18 @@ Index: EN EN->ZH
   約會, 约会 (yuēhuì) :: date (to take (someone) on a series of dates) (verb)
 ***day***
   (Cantonese) 日 (jat6) :: day (period of 24 hours) (noun)
-  日 (rì), 天 (tiān) :: day (period of 24 hours) (noun)
-  一天, 一天, yìtiān :: day (period from midnight to the following midnight) (noun)
-  白晝, 白昼, báizhòu :: day (rotational period of a planet) (noun)
-  一天, 一天, yìtiān :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
-  白天, 白天, báitiān :: day (period between sunrise and sunset) (noun)
-  星期一 (xīngqī yī) :: Monday (day of the week) (noun)
-  星期二 (xīngqī èr) :: Tuesday (day of the week) (noun)
-  星期三 (xīngqī sān), 周三 (zhōu sān) :: Wednesday (day of the week) (noun)
-  星期四 (xīngqī sì) :: Thursday (day of the week) (noun)
-  星期五 (xīngqī wǔ) :: Friday (day of the week) (noun)
-  星期六 (xīngqī liù) :: Saturday (day of the week) (noun)
-  (formal) 星期日 (xīngqīrì), (informal) 星期天 (xīngqītiān), 禮拜日, 礼拜日 (lǐbàirì), (colloquial) 禮拜天, 礼拜天 (lǐbàitiān) :: Sunday (day of the week) (noun)
+  天 (tiān), 日 (rì) :: day (period of 24 hours) (noun)
+  一天 (yītiān) :: day (period from midnight to the following midnight) (noun)
+  白晝, 白昼 (báizhòu) :: day (rotational period of a planet) (noun)
+  一天 (yītiān), 白天 (báitiān), 白晝, 白昼 (báizhòu) :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
+  白天 (báitiān) :: day (period between sunrise and sunset) (noun)
+  星期一 (xīngqīyī), 禮拜一, 礼拜一 (lǐbàiyī), 周一 (zhōuyī) :: Monday (day of the week) (noun)
+  星期二 (xīngqī'èr), 禮拜二, 礼拜二 (lǐbài'èr), 周二 (zhōu'èr) :: Tuesday (day of the week) (noun)
+  星期三 (xīngqīsān), 禮拜三, 礼拜三 (lǐbàisān), 周三 (zhōusān) :: Wednesday (day of the week) (noun)
+  星期四 (xīngqīsì), 禮拜四, 礼拜四 (lǐbàisì), 周四 (zhōusì) :: Thursday (day of the week) (noun)
+  星期五 (xīngqīwǔ), 禮拜五, 礼拜五 (lǐbàiwǔ), 周五 (zhōuwǔ) :: Friday (day of the week) (noun)
+  星期六 (xīngqīliù), 禮拜六, 礼拜六 (lǐbàiliù), 周六 (zhōuliù) :: Saturday (day of the week) (noun)
+  (formal) 星期日 (xīngqīrì), (informal) 星期天 (xīngqītiān), 禮拜日, 礼拜日 (lǐbàirì), (colloquial) 禮拜天, 礼拜天 (lǐbàitiān), 周日 (zhōurì) :: Sunday (day of the week) (noun)
   (Cantonese) 今日 (gam<sup>1</sup>yat<sup>6</sup>) :: today (on the current day) (adverb)
   今天 (jīntiān), 今日 (jīnrì) :: today (on the current day) (adverb)
 ===days===
@@ -4822,62 +4842,49 @@ Index: EN EN->ZH
 ***December***
   十二月 (shí’èryuè) :: December (twelfth month of the Gregorian calendar) (proper noun)
 ===decrease===
-  减轻 (jian qing), 减弱 (jian ruo) :: abate (to decrease or become less in strength) (verb)
+  減輕, 减轻 (jiǎnqīng), 減弱, 减弱 (jiǎnruò) :: abate (to decrease or become less in strength) (verb)
 ***decrypt***
   解密 (jiěmì) :: decrypt (to convert to plain text) (verb)
 ===deduct===
-  减少 (jian shao), 省略 (sheng lüe) :: abate (to deduct, to omit) (verb)
+  減少, 减少 (jiǎnshǎo), 省略 (shěnglüè) :: abate (to deduct, to omit) (verb)
 ===deep===
   (Cantonese) 我愛你, 我爱你 (ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
   我愛你, 我爱你 (wǒ ài nǐ) :: I love you (affirmation of affection or deep caring) (phrase)
 ===defeated===
-  废除 (fei chu) :: abate (to be defeated) (verb)
+  廢除, 废除 (fèichú) :: abate (to be defeated) (verb)
 ===defense===
   鹿砦 (lùzhài) :: abatis (means of defense) (noun)
   武器 (wǔqì), 兵器 (bīngqì) :: weapon (instrument of attack or defense in combat) (noun)
 ===defining===
-  See Mandarin :: definition (action or process of defining) (noun)
   下定意, 下定意 (xiàdìngyì) :: definition (action or process of defining) (noun)
   See Mandarin :: definition (act of defining) (noun)
   下定意, 下定意 (xiàdìngyì) :: definition (act of defining) (noun)
-  See Mandarin :: definition (product of defining) (noun)
   定意, 定意 (dìngyì) :: definition (product of defining) (noun)
 ===definite===
-  See Mandarin :: definition (action or power of describing, explaining, or making definite) (noun)
   下定意, 下定意 (xiàdìngyì) :: definition (action or power of describing, explaining, or making definite) (noun)
 ***definition***
-  See Mandarin :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
   定意, 定意 (dìngyì); 釋義, 释意 (shìyì) :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
-  See Mandarin :: definition (statement expressing the essential nature of something) (noun)
   定意, 定意 (dìngyì) :: definition (statement expressing the essential nature of something) (noun)
-  See Mandarin :: definition (action or process of defining) (noun)
   下定意, 下定意 (xiàdìngyì) :: definition (action or process of defining) (noun)
   See Mandarin :: definition (act of defining) (noun)
   下定意, 下定意 (xiàdìngyì) :: definition (act of defining) (noun)
-  See Mandarin :: definition (product of defining) (noun)
   定意, 定意 (dìngyì) :: definition (product of defining) (noun)
-  See Mandarin :: definition (action or power of describing, explaining, or making definite) (noun)
   下定意, 下定意 (xiàdìngyì) :: definition (action or power of describing, explaining, or making definite) (noun)
   See Mandarin :: definition (clarity of visual presentation, distinctness of outline or detail) (noun)
   清晰, 清晰 (qīngxī) :: definition (clarity of visual presentation, distinctness of outline or detail) (noun)
-  See Mandarin :: definition (clarity, especially of musical sound in reproduction) (noun)
   清晰, 清晰 (qīngxī) :: definition (clarity, especially of musical sound in reproduction) (noun)
-  See Mandarin :: definition (sharp demarcation of outlines or limits) (noun)
   清晰, 清晰 (qīngxī) :: definition (sharp demarcation of outlines or limits) (noun)
-  See Mandarin :: definition (bodybuilding: the degree to which individual muscles are distinct) (noun)
   清晰度, 清晰度 (qīngxīdù) :: definition (bodybuilding: the degree to which individual muscles are distinct) (noun)
 ===defocusing===
   透鏡, 透镜 (tòujìng), 鏡片, 镜片 (jìngpiàn), 鏡頭, 镜头 (jìngtóu) :: lens (object focusing or defocusing the light passing through it) (noun)
 ===degree===
-  See Mandarin :: definition (bodybuilding: the degree to which individual muscles are distinct) (noun)
   清晰度, 清晰度 (qīngxīdù) :: definition (bodybuilding: the degree to which individual muscles are distinct) (noun)
 ===deity===
   化身 (huàshēn) :: avatar (The earthly incarnation of a deity, particularly Vishnu) (noun)
 ===demarcation===
-  See Mandarin :: definition (sharp demarcation of outlines or limits) (noun)
   清晰, 清晰 (qīngxī) :: definition (sharp demarcation of outlines or limits) (noun)
 ===denoting===
-  零 (líng) (numeral: 〇, 零) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
+  零 (líng), (numeral) 〇 :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   (Min Nan) 空 (khòng) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   (Teochew) kang3, leng5 :: zero (cardinal number before 1, denoting nothing) (cardinal number)
 ===described===
@@ -4889,12 +4896,11 @@ Index: EN EN->ZH
   (not used) :: be (used to connect a noun to an adjective that describes it) (verb)
 ===describing===
   把某東西看作是無價值的, 把某东西看作是无价值的 (bǎ mǒu dōngxi kànzuò shì wú jiàzhí de) :: floccinaucinihilipilification (act or habit of describing or regarding something as unimportant) (noun)
-  See Mandarin :: definition (action or power of describing, explaining, or making definite) (noun)
   下定意, 下定意 (xiàdìngyì) :: definition (action or power of describing, explaining, or making definite) (noun)
 ===desert===
   遗弃 :: abandon (to leave behind or desert) (verb)
 ===designate===
-  任命 (rèn mìng) :: name (designate for a role) (verb)
+  任命 (rèn mìng) :: name (to designate for a role) (verb)
 ===detail===
   See Mandarin :: definition (clarity of visual presentation, distinctness of outline or detail) (noun)
   清晰, 清晰 (qīngxī) :: definition (clarity of visual presentation, distinctness of outline or detail) (noun)
@@ -4951,7 +4957,6 @@ Index: EN EN->ZH
 ===dispense===
   容器, 容器 (róng qì) :: can (a container used to carry and dispense water for plants) (noun)
 ===distinct===
-  See Mandarin :: definition (bodybuilding: the degree to which individual muscles are distinct) (noun)
   清晰度, 清晰度 (qīngxīdù) :: definition (bodybuilding: the degree to which individual muscles are distinct) (noun)
 ===distinctness===
   See Mandarin :: definition (clarity of visual presentation, distinctness of outline or detail) (noun)
@@ -4979,9 +4984,9 @@ Index: EN EN->ZH
   貓, 猫 (māo) :: cat (domestic species) (noun)
   (Min Nan) 貓 (niau) :: cat (domestic species) (noun)
 ===down===
-  减弱 (jian ruo), 减轻 (jian qing) :: abate (to bring down or reduce to a lower state) (verb)
-  打败 (da bai), 击倒 (ji dao) :: abate (to bring down a person physically or mentally) (verb)
-  撤销 (che xiao) :: abate (obsolete: to bring entirely down or put an end to) (verb)
+  減弱, 减弱 (jiǎnruò), 減輕, 减轻 (jiǎnqīng) :: abate (to bring down or reduce to a lower state) (verb)
+  打敗, 打败 (dǎbài), 擊倒, 击倒 (jídǎo) :: abate (to bring down a person physically or mentally) (verb)
+  撤銷, 撤销 (chèxiāo) :: abate (obsolete: to bring entirely down or put an end to) (verb)
 ===dresser===
   (Cantonese) 契第 (kai daih) :: transvestite (cross-dresser) (noun)
   易裝癖, 易装癖 (yìzhūangpì), 人妖 (rényāo) :: transvestite (cross-dresser) (noun)
@@ -5027,7 +5032,7 @@ Index: EN EN->ZH
 ===efforts===
   結果, 结果 (jiéguǒ) :: product (consequence of efforts) (noun)
 ***eight***
-  (Standard Chinese (Mandarin)) 八 (bā) (numeral: 捌) :: eight (cardinal number 8) (cardinal number)
+  八 (bā) (numeral: 捌) :: eight (cardinal number 8) (cardinal number)
   (Bai) 八 (pya) :: eight (cardinal number 8) (cardinal number)
   (Cantonese) 八 (baat3) :: eight (cardinal number 8) (cardinal number)
   (Teochew) boih4 :: eight (cardinal number 8) (cardinal number)
@@ -5068,7 +5073,7 @@ Index: EN EN->ZH
 ***encyclopedia***
   百科全書, 百科全书 (bǎikē quánshū) :: encyclopedia (comprehensive reference with articles on a range of topic) (noun)
 ===end===
-  撤销 (che xiao) :: abate (obsolete: to bring entirely down or put an end to) (verb)
+  撤銷, 撤销 (chèxiāo) :: abate (obsolete: to bring entirely down or put an end to) (verb)
 ===enforce===
   寓言 (yùyán) :: fable (fictitious narration to enforce some useful truth or precept) (noun)
 ===England===
@@ -5088,7 +5093,7 @@ Index: EN EN->ZH
   英國人, 英国人 (Yīngguórén) :: English (person from England) (proper noun)
   英文水平 :: English (one’s ability to employ the English language) (noun)
 ===entirely===
-  撤销 (che xiao) :: abate (obsolete: to bring entirely down or put an end to) (verb)
+  撤銷, 撤销 (chèxiāo) :: abate (obsolete: to bring entirely down or put an end to) (verb)
 ===entity===
   借款 (jièkuǎn), 欠款 (qiànkuǎn), 債務, 债务 (zhàiwù) :: debt (money that one person or entity owes or is required to pay to another) (noun)
   數, 数 (shù), 數目, 数目 (shùmù), 數字, 数字 (shùzì) :: number (abstract entity) (noun)
@@ -5098,14 +5103,12 @@ Index: EN EN->ZH
 ===equation===
   是 (shì) :: be (used to indicate that the values on either side of an equation are the same) (verb)
 ===especially===
-  See Mandarin :: definition (clarity, especially of musical sound in reproduction) (noun)
   清晰, 清晰 (qīngxī) :: definition (clarity, especially of musical sound in reproduction) (noun)
   太陽, 太阳 (tàiyáng), 恒星 (héngxīng), 日 (rì) :: sun (any star, especially when seen as the centre of any single solar system) (noun)
   (not used) :: be (used to form future tenses, especially the future subjunctive) (verb)
 ***Esperanto***
   世界語, 世界语 (Shìjièyǔ) :: Esperanto (auxiliary language) (proper noun)
 ===essential===
-  See Mandarin :: definition (statement expressing the essential nature of something) (noun)
   定意, 定意 (dìngyì) :: definition (statement expressing the essential nature of something) (noun)
 ***etymology***
   (Gan) 語源學, 语源学 (ngi3 ngion4 hok6) :: etymology (study of the historical development of languages, particularly of individual words) (noun)
@@ -5126,7 +5129,7 @@ Index: EN EN->ZH
 ===excellence===
   質量, 质量 (zhìliàng), 品质, 品質 (pǐnzhì), 水准, 水準 (shuǐzhǔn) :: quality (level of excellence) (noun)
 ===except===
-  阻止 (zu zhi), 除去 (chu qu) :: abate (to bar, to except) (verb)
+  阻止 (zǔzhǐ), 除去 (chùqú) :: abate (to bar, to except) (verb)
 ===exceptional===
   畸变 :: aberrant (deviating from the ordinary or natural type; exceptional; abnormal) (adjective)
 ===exist===
@@ -5135,7 +5138,6 @@ Index: EN EN->ZH
 ===existence===
   多神教 (duōshénjiào) :: polytheism (belief of existence of many gods) (noun)
 ===explaining===
-  See Mandarin :: definition (action or power of describing, explaining, or making definite) (noun)
   下定意, 下定意 (xiàdìngyì) :: definition (action or power of describing, explaining, or making definite) (noun)
 ===explains===
   (Dungan) хуадян (huadyan) :: dictionary (publication that explains the meanings of an ordered list of words) (noun)
@@ -5146,7 +5148,6 @@ Index: EN EN->ZH
 ===Exposition===
   世博會, 世博会 (shìbó-huì), 世界博覽會, 世界博览会 (shìjìe bólǎnhuì) :: World Exposition (a regular international exposition) (noun)
 ===expressing===
-  See Mandarin :: definition (statement expressing the essential nature of something) (noun)
   定意, 定意 (dìngyì) :: definition (statement expressing the essential nature of something) (noun)
 ===expression===
   (Cantonese) 我鐘意你 (ngo5 zung1 yi3 nei5) :: I love you (platonic expression of inclination or liking) (phrase)
@@ -5173,8 +5174,8 @@ Index: EN EN->ZH
   (Min Nan) 日本 (Ji̍t-pún) :: Japan (A Far East country in Asia) (proper noun)
   (Wu) 日本 :: Japan (A Far East country in Asia) (proper noun)
 ***fart***
-  屁 (pì), 放屁 (fàngpì) :: fart (an emission of flatulent gases) (noun)
   放屁 (fàng pì) :: fart (to emit flatulent gases) (verb)
+  屁 (pì), 放屁 (fàngpì) :: fart (an emission of flatulent gases) (noun)
 ===fear===
   言論自由, 言论自由 (yánlùnzìyóu) :: freedom of speech (right to speak without fear of harm) (noun)
 ***February***
@@ -5210,7 +5211,7 @@ Index: EN EN->ZH
 ===fish===
   鱈魚, 鳕鱼 (xuěyú) :: cod (marine fish of the family Gadidae) (noun)
 ***five***
-  (Standard Chinese (Mandarin)) 五 (wǔ) (numeral: 伍) :: five (five (5)) (cardinal number)
+  五 (wǔ) (numeral: 伍) :: five (five (5)) (cardinal number)
   (Cantonese) 五 (ng5) :: five (five (5)) (cardinal number)
   (Teochew) ngou6 :: five (five (5)) (cardinal number)
   (Eastern Hokkien (Min Dong)) 五 (ngu) :: five (five (5)) (cardinal number)
@@ -5220,8 +5221,8 @@ Index: EN EN->ZH
   行星 (xíngxīng) :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
   (Min Nan) 行星 (hêng-seng) :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
 ===flatulent===
-  屁 (pì), 放屁 (fàngpì) :: fart (an emission of flatulent gases) (noun)
   放屁 (fàng pì) :: fart (to emit flatulent gases) (verb)
+  屁 (pì), 放屁 (fàngpì) :: fart (an emission of flatulent gases) (noun)
 ===flavour===
   给调味 :: season (to flavour food) (verb)
 ===flesh===
@@ -5238,7 +5239,7 @@ Index: EN EN->ZH
 ===focusing===
   透鏡, 透镜 (tòujìng), 鏡片, 镜片 (jìngpiàn), 鏡頭, 镜头 (jìngtóu) :: lens (object focusing or defocusing the light passing through it) (noun)
 ===following===
-  一天, 一天, yìtiān :: day (period from midnight to the following midnight) (noun)
+  一天 (yītiān) :: day (period from midnight to the following midnight) (noun)
 ===food===
   给调味 :: season (to flavour food) (verb)
   (Cantonese) 肉 (juk6) :: meat (animal flesh used as food) (noun)
@@ -5267,8 +5268,6 @@ Index: EN EN->ZH
   單數, 单数 (dānshù) :: singular (grammar: form of a word that refers to only one thing) (noun)
 ===formal===
   行進, 行进 (xíngjìn) :: march (formal, rhythmic way of walking) (noun)
-===formed===
-  縮寫, 缩写 (suōxiě), 縮略詞, 缩略词 (suōlüècí), 略語, 略语 (lüèyǔ) :: acronym (word formed by initial letters) (noun)
 ===forms===
   在 (zài), 正在 (zhèngzài); verb + 著 / 着 (zhe) :: be (used to form the continuous forms of various tenses) (verb)
 ***fortnight***
@@ -5303,7 +5302,7 @@ Index: EN EN->ZH
 ===Frequently===
   常見問題, 常见问题 (chángjiàn wèntí), 問答集, 问答集 (wèndájí) :: FAQ (acronym for Frequently Asked Questions) (noun)
 ***Friday***
-  星期五 (xīngqī wǔ) :: Friday (day of the week) (noun)
+  星期五 (xīngqīwǔ), 禮拜五, 礼拜五 (lǐbàiwǔ), 周五 (zhōuwǔ) :: Friday (day of the week) (noun)
 ===friend===
   偽友, 伪友 (wěi yǒu), 假友 (jiǎ yǒu), 假等義, 假等义 (jiǎ děngyì) :: false friend (false friend) (noun)
 ===fruit===
@@ -5329,8 +5328,8 @@ Index: EN EN->ZH
 ===gaseous===
   行星 (xíngxīng) :: planet (rocky or gaseous spherical bodies orbiting the Sun) (noun)
 ===gases===
-  屁 (pì), 放屁 (fàngpì) :: fart (an emission of flatulent gases) (noun)
   放屁 (fàng pì) :: fart (to emit flatulent gases) (verb)
+  屁 (pì), 放屁 (fàngpì) :: fart (an emission of flatulent gases) (noun)
 ===generic===
   (Cantonese) 屌你老母 (diu2nei3lo3mo3) :: motherfucker (generic term of abuse) (noun)
   傻屄 (shǎbī), 肏你媽 , 肏你妈 (cào nǐ mā), 幹你娘, 干你娘 (gàn nǐ niang) :: motherfucker (generic term of abuse) (noun)
@@ -5355,7 +5354,7 @@ Index: EN EN->ZH
 ===Germany===
   德國, 德国 (Déguó), 德- (Dé-) (德) :: German (of or relating to the country of Germany) (adjective)
 ===give===
-  命名 (mìngmíng) :: name (give a name to) (verb)
+  命名 (mìngmíng) :: name (to give a name to) (verb)
   放棄, 放弃 (fàngqì) :: abandon (to give up) (verb)
   寬恕, 宽恕 (kuānshù) :: absolve (pronounce free or give absolution) (verb)
   赦免 (shèmiǎn), 赦罪 (shèzuì) :: absolve (theology: pronounce free or give absolution from sin) (verb)
@@ -5397,7 +5396,8 @@ Index: EN EN->ZH
 ===graphite===
   鉛筆, 铅笔 (qiānbǐ) :: pencil (graphite writing-instrument) (noun)
 ***grass***
-  草 (căo), 青草 (qīng cǎo) :: grass (ground cover plant) (noun)
+  草 (cǎo), 青草 (qīngcǎo) :: grass (ground cover plant) (noun)
+  草坪 (cǎopíng) :: grass (lawn) (noun)
 ===Greek===
   紐, 纽 (niǔ) :: nu (name for the letter of the Greek alphabet: Ν and ν) (noun)
 ===Gregorian===
@@ -5412,9 +5412,8 @@ Index: EN EN->ZH
   (Dungan) шийүә :: October (tenth month of the Gregorian calendar) (proper noun)
   十一月 (shíyīyuè) :: November (eleventh month of the Gregorian calendar) (proper noun)
 ===ground===
-  草 (căo), 青草 (qīng cǎo) :: grass (ground cover plant) (noun)
+  草 (cǎo), 青草 (qīngcǎo) :: grass (ground cover plant) (noun)
 ===group===
-  See Mandarin :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
   定意, 定意 (dìngyì); 釋義, 释意 (shìyì) :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
 ===habit===
   把某東西看作是無價值的, 把某东西看作是无价值的 (bǎ mǒu dōngxi kànzuò shì wú jiàzhí de) :: floccinaucinihilipilification (act or habit of describing or regarding something as unimportant) (noun)
@@ -5440,8 +5439,6 @@ Index: EN EN->ZH
   修道院 (xiūdàoyuàn) :: abbey (monastery headed by an abbot) (noun)
 ===healing===
   药 (yào), 药材 (yàocái), 藥物 (yàowù), 药物 (yàowù), 经方 (jīngfāng) :: medicine (substance which promotes healing) (noun)
-===healthy===
-  健康 (jiànkāng) :: able (healthy) (adjective)
 ===heavily===
   傾盆大雨, 倾盆大雨 (qīngpéndàyǔ) :: rain cats and dogs (to rain very heavily) (verb)
 ***hell***
@@ -5464,12 +5461,12 @@ Index: EN EN->ZH
   小時, 小时 (xiǎoshí), (informal) 鐘頭, 钟头 (zhōngtóu) :: hour (Time period of sixty minutes) (noun)
 ===hours===
   (Cantonese) 日 (jat6) :: day (period of 24 hours) (noun)
-  日 (rì), 天 (tiān) :: day (period of 24 hours) (noun)
+  天 (tiān), 日 (rì) :: day (period of 24 hours) (noun)
 ===human===
+  人 (rén), 人類, 人类 (rénlèi) :: man (human) (noun)
   (Cantonese) 男人, naam4 jan4 :: man (adult male human) (noun)
   男人 (nánrén), 男的 (nánde) :: man (adult male human) (noun)
   (Min Nan) 查埔人 (cha-po͘-lâng), 男人 (lâm-jîn) :: man (adult male human) (noun)
-  人 (rén), 人類, 人类 (rénlèi) :: man (human) (noun)
 ***i***
   (English letter names are called as in English, no other standard Mandarin name exists) :: i (name of the letter I, i) (noun)
 ===I===
@@ -5520,7 +5517,6 @@ Index: EN EN->ZH
 ===individual===
   (Gan) 語源學, 语源学 (ngi3 ngion4 hok6) :: etymology (study of the historical development of languages, particularly of individual words) (noun)
   語源學, 语源学 (yǔyuánxué) :: etymology (study of the historical development of languages, particularly of individual words) (noun)
-  See Mandarin :: definition (bodybuilding: the degree to which individual muscles are distinct) (noun)
   清晰度, 清晰度 (qīngxīdù) :: definition (bodybuilding: the degree to which individual muscles are distinct) (noun)
   專有名詞, 专有名词 (zhuānyǒu míngcí), 固有名詞, 固有名词 (gùyǒu míngcí) :: proper noun (The name of a particular person, place, organization or other individual entity) (noun)
 ===induced===
@@ -5529,8 +5525,6 @@ Index: EN EN->ZH
   墮胎, 堕胎 (duòtāi) :: abortion (act of inducing abortion) (noun)
 ===information===
   加密 (jiāmì) :: encrypt (to conceal information by means of a code or cipher) (verb)
-===initial===
-  縮寫, 缩写 (suōxiě), 縮略詞, 缩略词 (suōlüècí), 略語, 略语 (lüèyǔ) :: acronym (word formed by initial letters) (noun)
 ===inscription===
   日期 (rìqī) :: date (that which specifies the time of writing, inscription etc.) (noun)
 ===instance===
@@ -5572,7 +5566,7 @@ Index: EN EN->ZH
 ===Jews===
   反猶太主義, 反犹太主义 (fǎn-Yóutài-zhǔyì) :: anti-Semitism (prejudice or hostility against Jews) (noun)
 ===job===
-  一天, 一天, yìtiān :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
+  一天 (yītiān), 白天 (báitiān), 白晝, 白昼 (báizhòu) :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
 ***July***
   七月, 7月 (qīyuè) :: July (seventh month of the Gregorian calendar) (proper noun)
 ===jump===
@@ -5630,6 +5624,8 @@ Index: EN EN->ZH
   (Min Nan) eng-á :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
 ===law===
   假釋, 假释 (jiǎshì) :: parole (law: a release of (a prisoner)) (noun)
+===lawn===
+  草坪 (cǎopíng) :: grass (lawn) (noun)
 ***leap***
   跳躍, 跳跃 (tiàoyuè), 飛躍, 飞跃 (fēiyuè) :: leap (to jump from one location to another) (verb)
 ===leave===
@@ -5642,7 +5638,7 @@ Index: EN EN->ZH
   透鏡, 透镜 (tòujìng), 鏡片, 镜片 (jìngpiàn), 鏡頭, 镜头 (jìngtóu) :: lens (object focusing or defocusing the light passing through it) (noun)
   晶狀體, 晶状体 (jīngzhuàngtǐ), 水晶體, 水晶体 (shuǐjīngtǐ) :: lens (anatomy: transparent crystalline structure in the eye) (noun)
 ===less===
-  减轻 (jian qing), 减弱 (jian ruo) :: abate (to decrease or become less in strength) (verb)
+  減輕, 减轻 (jiǎnqīng), 減弱, 减弱 (jiǎnruò) :: abate (to decrease or become less in strength) (verb)
   罐頭, 罐头 (guàn tóu) :: can (a more or less cylindrical vessel for liquids) (noun)
 ***letter***
   字母 (zìmǔ) :: letter (letter of the alphabet) (noun)
@@ -5654,7 +5650,6 @@ Index: EN EN->ZH
 ===letters===
   字母 (zìmǔ) :: alphabet (an ordered set of letters used in a language) (noun)
   罗马数字 :: Roman numeral (a numeral represented by letters) (noun)
-  縮寫, 缩写 (suōxiě), 縮略詞, 缩略词 (suōlüècí), 略語, 略语 (lüèyǔ) :: acronym (word formed by initial letters) (noun)
 ===level===
   年級, 年级 (niánjí), (academic year) 學年, 学年 (xuénián) :: year (a level or grade at school or college) (noun)
   質量, 质量 (zhìliàng), 品质, 品質 (pǐnzhì), 水准, 水準 (shuǐzhǔn) :: quality (level of excellence) (noun)
@@ -5679,7 +5674,6 @@ Index: EN EN->ZH
 ===limitations===
   自由的, 自由的 (zìyóu de) :: free (software: with very few limitations on distribution or improvement) (adjective)
 ===limits===
-  See Mandarin :: definition (sharp demarcation of outlines or limits) (noun)
   清晰, 清晰 (qīngxī) :: definition (sharp demarcation of outlines or limits) (noun)
 ===linguistic===
   詞素, 词素 (císù) :: morpheme (smallest linguistic unit) (noun)
@@ -5712,7 +5706,7 @@ Index: EN EN->ZH
 ===lover===
   約會, 约会 (yuēhuì), 幽會, 幽会 (yōuhuì) :: date (meeting with a lover or potential lover; a person so met) (noun)
 ===lower===
-  减弱 (jian ruo), 减轻 (jian qing) :: abate (to bring down or reduce to a lower state) (verb)
+  減弱, 减弱 (jiǎnruò), 減輕, 减轻 (jiǎnqīng) :: abate (to bring down or reduce to a lower state) (verb)
 ===lowest===
   (Cantonese) 天時冷 (tin1 si4 laang) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
   冬天 (dōngtiān), 冬季 (dōngjì) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
@@ -5733,7 +5727,6 @@ Index: EN EN->ZH
   弄暗 (nòng'àn) :: obfuscate (make dark) (verb)
   混淆 (hùnxiáo), 弄亂, 弄乱 (nòngluàn), 搞亂, 搞乱 (gǎoluàn), 使模糊 (shǐ móhu), 使混亂, 使混乱 (shǐ hùnluàn), 使糊塗, 使糊涂 (shǐ hútu) :: obfuscate (make confusing) (verb)
 ===making===
-  See Mandarin :: definition (action or power of describing, explaining, or making definite) (noun)
   下定意, 下定意 (xiàdìngyì) :: definition (action or power of describing, explaining, or making definite) (noun)
 ===male===
   (Cantonese) 男人, naam4 jan4 :: man (adult male human) (noun)
@@ -5749,10 +5742,10 @@ Index: EN EN->ZH
   土豚 (tǔtún) :: aardvark (mammal) (noun)
   土狼 (tǔláng) :: aardwolf (the mammal species Proteles cristatus) (noun)
 ***man***
+  人 (rén), 人類, 人类 (rénlèi) :: man (human) (noun)
   (Cantonese) 男人, naam4 jan4 :: man (adult male human) (noun)
   男人 (nánrén), 男的 (nánde) :: man (adult male human) (noun)
   (Min Nan) 查埔人 (cha-po͘-lâng), 男人 (lâm-jîn) :: man (adult male human) (noun)
-  人 (rén), 人類, 人类 (rénlèi) :: man (human) (noun)
 ===manage===
   對付, 对付 (duìfu) :: deal (handle, manage) (verb)
 ===manner===
@@ -5791,7 +5784,6 @@ Index: EN EN->ZH
   含義, 含义 (hànyì) :: connotation (suggested or implied meaning) (noun)
   同義詞, 同义词 (tóngyìcí), 代名詞, 代名词 (dàimíngcí), (near-synonym) 近義詞, 近义词 (jìnyìcí) :: synonym (word with same meaning as another) (noun)
   语义学 (yǔyìxué) :: semantics (science of the meaning of words) (noun)
-  See Mandarin :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
   定意, 定意 (dìngyì); 釋義, 释意 (shìyì) :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
 ===meaningless===
   廢話, 废话 (fèihuà), 胡說, 胡说 (húshuō), 胡言 (húyán), (vulgar) 狗屁 (gǒupì) :: nonsense (meaningless words) (noun)
@@ -5830,7 +5822,7 @@ Index: EN EN->ZH
 ===Men===
   基督教青年會 (jīdùjiào qīngnián huì) :: YMCA (Young Men's Christian Association) ({{initialism}})
 ===mentally===
-  打败 (da bai), 击倒 (ji dao) :: abate (to bring down a person physically or mentally) (verb)
+  打敗, 打败 (dǎbài), 擊倒, 击倒 (jídǎo) :: abate (to bring down a person physically or mentally) (verb)
 ===mentioned===
   上述的 (shàngshù de) (上述) :: above-mentioned (mentioned or named before; aforesaid) (adjective)
 ***merchandise***
@@ -5847,7 +5839,7 @@ Index: EN EN->ZH
   (Wu) 墨西哥 :: Mexico (country) (proper noun)
   墨西哥城 (Mòxīgē chéng) :: Mexico (city) (proper noun)
 ===midnight===
-  一天, 一天, yìtiān :: day (period from midnight to the following midnight) (noun)
+  一天 (yītiān) :: day (period from midnight to the following midnight) (noun)
 ***millennium***
   千年 :: millennium (thousand-year period) (noun)
 ===milliard===
@@ -5880,7 +5872,7 @@ Index: EN EN->ZH
 ===monastery===
   修道院 (xiūdàoyuàn) :: abbey (monastery headed by an abbot) (noun)
 ***Monday***
-  星期一 (xīngqī yī) :: Monday (day of the week) (noun)
+  星期一 (xīngqīyī), 禮拜一, 礼拜一 (lǐbàiyī), 周一 (zhōuyī) :: Monday (day of the week) (noun)
 ===money===
   借款 (jièkuǎn), 欠款 (qiànkuǎn), 債務, 债务 (zhàiwù) :: debt (money that one person or entity owes or is required to pay to another) (noun)
 ***monotheism***
@@ -5914,13 +5906,11 @@ Index: EN EN->ZH
 ===multiplication===
   積, 积 (jī) :: product (multiplication result) (noun)
 ===muscles===
-  See Mandarin :: definition (bodybuilding: the degree to which individual muscles are distinct) (noun)
   清晰度, 清晰度 (qīngxīdù) :: definition (bodybuilding: the degree to which individual muscles are distinct) (noun)
 ===music===
   行進曲, 行进曲 (xíngjìnqū) :: march (song in the genre of music written for marching) (noun)
   音樂家, 音乐家 (yīnyuèjiā) :: musician (person who performs or writes music) (noun)
 ===musical===
-  See Mandarin :: definition (clarity, especially of musical sound in reproduction) (noun)
   清晰, 清晰 (qīngxī) :: definition (clarity, especially of musical sound in reproduction) (noun)
   詠嘆調, 咏叹调 (yǒngtàndiào), 唱段 (chàngduàn), (North China, Yuan dynasty) 北曲 (běiqǔ) :: aria (type of musical piece) (noun)
 ***musician***
@@ -5935,8 +5925,8 @@ Index: EN EN->ZH
   紐, 纽 (niǔ) :: nu (name for the letter of the Greek alphabet: Ν and ν) (noun)
 ***name***
   名 (míng), 名字 (míngzì) :: name (word or phrase indicating a particular person, place, class or thing) (noun)
-  命名 (mìngmíng) :: name (give a name to) (verb)
-  任命 (rèn mìng) :: name (designate for a role) (verb)
+  命名 (mìngmíng) :: name (to give a name to) (verb)
+  任命 (rèn mìng) :: name (to designate for a role) (verb)
   名字 (míngzi) :: first name (name chosen by parents) (noun)
   紐, 纽 (niǔ) :: nu (name for the letter of the Greek alphabet: Ν and ν) (noun)
   (English letter names are called as in English, no other standard Mandarin name exists) :: en (name of the letter N, n) (noun)
@@ -5955,7 +5945,6 @@ Index: EN EN->ZH
 ===natural===
   畸变 :: aberrant (deviating from the ordinary or natural type; exceptional; abnormal) (adjective)
 ===nature===
-  See Mandarin :: definition (statement expressing the essential nature of something) (noun)
   定意, 定意 (dìngyì) :: definition (statement expressing the essential nature of something) (noun)
 ===near===
   接近 (jiējìn) :: about (near) (preposition)
@@ -5973,7 +5962,7 @@ Index: EN EN->ZH
   行星 (xíngxīng) :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
   (Min Nan) 行星 (hêng-seng) :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
 ***nine***
-  (Standard Chinese (Mandarin)) 九 (jiǔ) (numeral: 玖) :: nine (cardinal number) (cardinal number)
+  九 (jiǔ) (numeral: 玖) :: nine (cardinal number) (cardinal number)
   (Cantonese) 九 (gau2) :: nine (cardinal number) (cardinal number)
   (Teochew) gao2 :: nine (cardinal number) (cardinal number)
   (Eastern Hokkien (Min Dong)) 九 (kau) :: nine (cardinal number) (cardinal number)
@@ -6001,7 +5990,7 @@ Index: EN EN->ZH
   无论如何, wúlùnrúhé :: whatever (indicating the matter is not worthy of further discussion) (interjection)
   假的- (jiǎ de-) (假), 虛擬的- (虛擬), 虚拟的- (xūnǐ de-) (虚拟) :: pseudo- (not genuine) (prefix)
 ===nothing===
-  零 (líng) (numeral: 〇, 零) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
+  零 (líng), (numeral) 〇 :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   (Min Nan) 空 (khòng) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   (Teochew) kang3, leng5 :: zero (cardinal number before 1, denoting nothing) (cardinal number)
 ***noun***
@@ -6032,13 +6021,13 @@ Index: EN EN->ZH
   號碼, 号码 (hàomǎ), 號, 号 (hào) :: number (used to show the rank of something in a list or sequence) (noun)
   多少 (duōshǎo), 數碼, 数码 (shùmǎ) :: number (quantity) (noun)
   節目, 节目 (jiémù) :: number (performance) (noun)
-  (Standard Chinese (Mandarin)) 七 (qī) (numeral: 柒) :: seven (cardinal number 7) (cardinal number)
+  七 (qī) (numeral: 柒) :: seven (cardinal number 7) (cardinal number)
   (Cantonese) 七 (chat1) :: seven (cardinal number 7) (cardinal number)
   (Teochew) cig4 :: seven (cardinal number 7) (cardinal number)
   (Eastern Hokkien (Min Dong)) 七 (chek) :: seven (cardinal number 7) (cardinal number)
   (Wu) 七 (chi) :: seven (cardinal number 7) (cardinal number)
   (Xiang) 七 (tshiu) :: seven (cardinal number 7) (cardinal number)
-  零 (líng) (numeral: 〇, 零) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
+  零 (líng), (numeral) 〇 :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   (Min Nan) 空 (khòng) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   (Teochew) kang3, leng5 :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   數詞, 数词 (shùcí), 數字, 数字 (shùzì) :: numeral (word or symbol representing a number) (noun)
@@ -6061,14 +6050,14 @@ Index: EN EN->ZH
   (Cantonese) 四 (sei<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
   (Teochew) 四 (si<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
   少 (shǎo) :: few (small number) (determiner)
-  (Standard Chinese (Mandarin)) 六 (liù) (numeral: 陸) :: six (cardinal number) (cardinal number)
+  六 (liù) (numeral: 陸) :: six (cardinal number) (cardinal number)
   (Bai) 六 (chi) :: six (cardinal number) (cardinal number)
   (Cantonese) 六 (luk6) :: six (cardinal number) (cardinal number)
   (Teochew) lag8 :: six (cardinal number) (cardinal number)
   (Eastern Hokkien (Min Dong)) 六 (lek) :: six (cardinal number) (cardinal number)
   (Northern Hokkien (Min Bei)) 六 (ly) :: six (cardinal number) (cardinal number)
   (Wu) 六 (lo) :: six (cardinal number) (cardinal number)
-  (Standard Chinese (Mandarin)) 八 (bā) (numeral: 捌) :: eight (cardinal number 8) (cardinal number)
+  八 (bā) (numeral: 捌) :: eight (cardinal number 8) (cardinal number)
   (Bai) 八 (pya) :: eight (cardinal number 8) (cardinal number)
   (Cantonese) 八 (baat3) :: eight (cardinal number 8) (cardinal number)
   (Teochew) boih4 :: eight (cardinal number 8) (cardinal number)
@@ -6078,13 +6067,13 @@ Index: EN EN->ZH
   (Jin) 八 (pu) :: eight (cardinal number 8) (cardinal number)
   (Wu) 八 (ba) :: eight (cardinal number 8) (cardinal number)
   (Xiang) 八 (pa) :: eight (cardinal number 8) (cardinal number)
-  (Standard Chinese (Mandarin)) 九 (jiǔ) (numeral: 玖) :: nine (cardinal number) (cardinal number)
+  九 (jiǔ) (numeral: 玖) :: nine (cardinal number) (cardinal number)
   (Cantonese) 九 (gau2) :: nine (cardinal number) (cardinal number)
   (Teochew) gao2 :: nine (cardinal number) (cardinal number)
   (Eastern Hokkien (Min Dong)) 九 (kau) :: nine (cardinal number) (cardinal number)
   (Northern Hokkien (Min Bei)) 九 (kiu) :: nine (cardinal number) (cardinal number)
   (Wu) 九 (jiq) :: nine (cardinal number) (cardinal number)
-  (Standard Chinese (Mandarin)) 十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
+  十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Cantonese) 十 (sap6) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Teochew) zab8 :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Eastern Hokkien (Min Dong)) 十 (sek) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
@@ -6121,7 +6110,7 @@ Index: EN EN->ZH
 ===obligations===
   自由的, 自由的 (zìyóu de) :: free (without obligations) (adjective)
 ===obsolete===
-  撤销 (che xiao) :: abate (obsolete: to bring entirely down or put an end to) (verb)
+  撤銷, 撤销 (chèxiāo) :: abate (obsolete: to bring entirely down or put an end to) (verb)
 ===obtainable===
   免費的, 免费的 (miǎnfèi de) :: free (obtainable without payment) (adjective)
 ===occupy===
@@ -6130,7 +6119,7 @@ Index: EN EN->ZH
 ===occur===
   在 (zài), 有 (yǒu) :: be (occur, take place) (verb)
 ===occurring===
-  (Standard Chinese (Mandarin)) 十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
+  十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Cantonese) 十 (sap6) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Teochew) zab8 :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Eastern Hokkien (Min Dong)) 十 (sek) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
@@ -6151,7 +6140,7 @@ Index: EN EN->ZH
 ===official===
   官僚 (guānliáo) :: bureaucrat (An official in a bureaucracy) (noun)
 ===omit===
-  减少 (jian shao), 省略 (sheng lüe) :: abate (to deduct, to omit) (verb)
+  減少, 减少 (jiǎnshǎo), 省略 (shěnglüè) :: abate (to deduct, to omit) (verb)
 ***on***
   ...上 (...shàng) (上) :: on (positioned at the upper surface of) (preposition)
 ***one***
@@ -6208,7 +6197,6 @@ Index: EN EN->ZH
   See Mandarin :: definition (clarity of visual presentation, distinctness of outline or detail) (noun)
   清晰, 清晰 (qīngxī) :: definition (clarity of visual presentation, distinctness of outline or detail) (noun)
 ===outlines===
-  See Mandarin :: definition (sharp demarcation of outlines or limits) (noun)
   清晰, 清晰 (qīngxī) :: definition (sharp demarcation of outlines or limits) (noun)
 ===outside===
   異客, 异客 (yìkè), 陌生人 (mòshēngrén) :: alien (person, etc. from outside) (noun)
@@ -6236,7 +6224,7 @@ Index: EN EN->ZH
 ***parole***
   假釋, 假释 (jiǎshì) :: parole (law: a release of (a prisoner)) (noun)
 ===part===
-  一天, 一天, yìtiān :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
+  一天 (yītiān), 白天 (báitiān), 白晝, 白昼 (báizhòu) :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
   頭, 头 (tóu), 頭腦, 头脑 (tóunǎo) :: head (part of the body) (noun)
 ===particle===
   噢 (ō), 喔 (ō) :: o (vocative particle to mark direct address) (interjection)
@@ -6283,11 +6271,11 @@ Index: EN EN->ZH
   (Dungan) йүә :: month (period into which a year is divided) (noun)
   月 (yuè), 月份 (yuèfèn) :: month (period into which a year is divided) (noun)
   (Cantonese) 日 (jat6) :: day (period of 24 hours) (noun)
-  日 (rì), 天 (tiān) :: day (period of 24 hours) (noun)
-  一天, 一天, yìtiān :: day (period from midnight to the following midnight) (noun)
-  白晝, 白昼, báizhòu :: day (rotational period of a planet) (noun)
-  一天, 一天, yìtiān :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
-  白天, 白天, báitiān :: day (period between sunrise and sunset) (noun)
+  天 (tiān), 日 (rì) :: day (period of 24 hours) (noun)
+  一天 (yītiān) :: day (period from midnight to the following midnight) (noun)
+  白晝, 白昼 (báizhòu) :: day (rotational period of a planet) (noun)
+  一天 (yītiān), 白天 (báitiān), 白晝, 白昼 (báizhòu) :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
+  白天 (báitiān) :: day (period between sunrise and sunset) (noun)
   小時, 小时 (xiǎoshí), (informal) 鐘頭, 钟头 (zhōngtóu) :: hour (Time period of sixty minutes) (noun)
   千年 :: millennium (thousand-year period) (noun)
   (Cantonese) 星期 (singkei) :: week (period of seven days) (noun)
@@ -6323,7 +6311,7 @@ Index: EN EN->ZH
   化身 (huàshēn) :: avatar (The physical embodiment of an idea or concept; a personification) (noun)
   端口 (duānkǒu) :: port (computing: logical or physical construct into and from which data are transferred) (noun)
 ===physically===
-  打败 (da bai), 击倒 (ji dao) :: abate (to bring down a person physically or mentally) (verb)
+  打敗, 打败 (dǎbài), 擊倒, 击倒 (jídǎo) :: abate (to bring down a person physically or mentally) (verb)
 ***pie***
   餡餅, 馅饼 (xiànbǐng), 排 (pái), 派 (pài) :: pie (type of pastry) (noun)
 ===piece===
@@ -6344,7 +6332,7 @@ Index: EN EN->ZH
   (Min Nan) 行星 (hêng-seng) :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
   行星 (xíngxīng) :: planet (rocky or gaseous spherical bodies orbiting the Sun) (noun)
   行星 (xíngxīng) :: planet (similar body in orbit around a star) (noun)
-  白晝, 白昼, báizhòu :: day (rotational period of a planet) (noun)
+  白晝, 白昼 (báizhòu) :: day (rotational period of a planet) (noun)
 ===plant===
   (Cantonese) 南瓜 (naam4 gwaa1),番瓜 (faan1 gwaa1) :: pumpkin (plant) (noun)
   南瓜 (nánguā) :: pumpkin (plant) (noun)
@@ -6352,7 +6340,7 @@ Index: EN EN->ZH
   南瓜 (nánguā) :: pumpkin (fruit of this plant) (noun)
   (Min Nan) 朱瓜 (chu-koe), 金瓜 (kim-koe) :: pumpkin (fruit of this plant) (noun)
   蕉麻 (jiāomá)，马尼拉麻 (Mǎnílā má) :: abaca (plant) (noun)
-  草 (căo), 青草 (qīng cǎo) :: grass (ground cover plant) (noun)
+  草 (cǎo), 青草 (qīngcǎo) :: grass (ground cover plant) (noun)
 ===plants===
   容器, 容器 (róng qì) :: can (a container used to carry and dispense water for plants) (noun)
 ===plate===
@@ -6415,7 +6403,6 @@ Index: EN EN->ZH
   磅 (bàng) :: pound (unit of mass (16 ounces avoirdupois)) (noun)
   (British pound) 英鎊, 英镑 (Yīngbàng) :: pound (unit of currency) (noun)
 ===power===
-  See Mandarin :: definition (action or power of describing, explaining, or making definite) (noun)
   下定意, 下定意 (xiàdìngyì) :: definition (action or power of describing, explaining, or making definite) (noun)
 ===pre===
   約會, 约会 (yuēhuì) :: date (pre-arranged social meeting) (noun)
@@ -6444,7 +6431,6 @@ Index: EN EN->ZH
   等價交換, 等价交换 (děngjià jiāohuàn) :: quid pro quo (this for that) (noun)
 ===process===
   (Traditional Chinese) 中斷, 放棄 :: abort (The function used to abort a process) (noun)
-  See Mandarin :: definition (action or process of defining) (noun)
   下定意, 下定意 (xiàdìngyì) :: definition (action or process of defining) (noun)
   出生 (chūshēng) :: birth (process of childbearing) (noun)
 ***product***
@@ -6452,7 +6438,6 @@ Index: EN EN->ZH
   結果, 结果 (jiéguǒ) :: product (consequence of efforts) (noun)
   積, 积 (jī) :: product (multiplication result) (noun)
   中止, 夭折 :: abort (The product of a miscarriage) (noun)
-  See Mandarin :: definition (product of defining) (noun)
   定意, 定意 (dìngyì) :: definition (product of defining) (noun)
 ===promotes===
   药 (yào), 药材 (yàocái), 藥物 (yàowù), 药物 (yàowù), 经方 (jīngfāng) :: medicine (substance which promotes healing) (noun)
@@ -6483,7 +6468,7 @@ Index: EN EN->ZH
   南瓜 (nánguā) :: pumpkin (fruit of this plant) (noun)
   (Min Nan) 朱瓜 (chu-koe), 金瓜 (kim-koe) :: pumpkin (fruit of this plant) (noun)
 ===put===
-  撤销 (che xiao) :: abate (obsolete: to bring entirely down or put an end to) (verb)
+  撤銷, 撤销 (chèxiāo) :: abate (obsolete: to bring entirely down or put an end to) (verb)
 ===qualified===
   有資格, 有资格 (yǒu zīgé) :: able (legally qualified) (adjective)
 ===qualities===
@@ -6493,6 +6478,7 @@ Index: EN EN->ZH
   性质, 性質 (xìngzhì) :: quality (differentiating property or attribute) (noun)
   權貴, 权贵 (quánguì) :: quality (archaic: social position) (noun)
   優質, 优质 (yōuzhì); 高級, 高级 (gāojí) :: quality (being of good worth) (adjective)
+  能力 (nénglì) :: ability (quality or state of being able) (noun)
   (not used) :: be (used to indicate weather, air quality, or the like) (verb)
 ===quantity===
   多少 (duōshǎo), 數碼, 数码 (shùmǎ) :: number (quantity) (noun)
@@ -6540,7 +6526,7 @@ Index: EN EN->ZH
 ===record===
   会议记录 :: minute (record of meeting) (noun)
 ===reduce===
-  减弱 (jian ruo), 减轻 (jian qing) :: abate (to bring down or reduce to a lower state) (verb)
+  減弱, 减弱 (jiǎnruò), 減輕, 减轻 (jiǎnqīng) :: abate (to bring down or reduce to a lower state) (verb)
 ===reducing===
   縮寫, 缩写 (suōxiě) :: abbreviation (act or result of shortening or reducing) (noun)
 ===reference===
@@ -6587,7 +6573,6 @@ Index: EN EN->ZH
 ===representing===
   數詞, 数词 (shùcí), 數字, 数字 (shùzì) :: numeral (word or symbol representing a number) (noun)
 ===reproduction===
-  See Mandarin :: definition (clarity, especially of musical sound in reproduction) (noun)
   清晰, 清晰 (qīngxī) :: definition (clarity, especially of musical sound in reproduction) (noun)
 ===required===
   借款 (jièkuǎn), 欠款 (qiànkuǎn), 債務, 债务 (zhàiwù) :: debt (money that one person or entity owes or is required to pay to another) (noun)
@@ -6617,7 +6602,7 @@ Index: EN EN->ZH
 ===rocky===
   行星 (xíngxīng) :: planet (rocky or gaseous spherical bodies orbiting the Sun) (noun)
 ===role===
-  任命 (rèn mìng) :: name (designate for a role) (verb)
+  任命 (rèn mìng) :: name (to designate for a role) (verb)
   是 (shì), (absent with adjectives) :: be (used to indicate that the subject plays the role of the predicate nominative) (verb)
 ===Roman===
   罗马数字 :: Roman numeral (a numeral represented by letters) (noun)
@@ -6626,7 +6611,7 @@ Index: EN EN->ZH
   我愛你, 我爱你 (wǒ ài nǐ) :: I love you (affirmation of romantic feeling) (phrase)
   (Wu) 我爱侬 (wo ei non, ngu ei non) :: I love you (affirmation of romantic feeling) (phrase)
 ===rotational===
-  白晝, 白昼, báizhòu :: day (rotational period of a planet) (noun)
+  白晝, 白昼 (báizhòu) :: day (rotational period of a planet) (noun)
 ===sale===
   產品, 产品 (chǎnpǐn), 貨物, 货物 (huòwù), 物品 (wùpǐn), 製品, 制品, (zhìpǐn), 製品, 制品 (zhìpǐn) :: merchandise (commodities offered for sale) (noun)
   產品, 产品 (chǎnpǐn), 商品 (shāngpǐn), 製品, 制品 (zhìpǐn) :: product (commodity for sale) (noun)
@@ -6640,9 +6625,9 @@ Index: EN EN->ZH
   是 (shì) :: be (used to indicate that the subject and object are the same) (verb)
   是 (shì) :: be (used to indicate that the values on either side of an equation are the same) (verb)
 ***Saturday***
-  星期六 (xīngqī liù) :: Saturday (day of the week) (noun)
+  星期六 (xīngqīliù), 禮拜六, 礼拜六 (lǐbàiliù), 周六 (zhōuliù) :: Saturday (day of the week) (noun)
 ===school===
-  一天, 一天, yìtiān :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
+  一天 (yītiān), 白天 (báitiān), 白晝, 白昼 (báizhòu) :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
   年級, 年级 (niánjí), (academic year) 學年, 学年 (xuénián) :: year (a level or grade at school or college) (noun)
 ===science===
   语义学 (yǔyìxué) :: semantics (science of the meaning of words) (noun)
@@ -6688,7 +6673,7 @@ Index: EN EN->ZH
   色 (sè), 顏色, 颜色 (yánsè) :: color (particular set of the visible spectrum) (noun)
   字母 (zìmǔ) :: alphabet (an ordered set of letters used in a language) (noun)
 ***seven***
-  (Standard Chinese (Mandarin)) 七 (qī) (numeral: 柒) :: seven (cardinal number 7) (cardinal number)
+  七 (qī) (numeral: 柒) :: seven (cardinal number 7) (cardinal number)
   (Cantonese) 七 (chat1) :: seven (cardinal number 7) (cardinal number)
   (Teochew) cig4 :: seven (cardinal number 7) (cardinal number)
   (Eastern Hokkien (Min Dong)) 七 (chek) :: seven (cardinal number 7) (cardinal number)
@@ -6712,7 +6697,6 @@ Index: EN EN->ZH
 ***shapeshift***
   变身 (biànshēn), 變身 :: shapeshift (change shape) (verb)
 ===sharp===
-  See Mandarin :: definition (sharp demarcation of outlines or limits) (noun)
   清晰, 清晰 (qīngxī) :: definition (sharp demarcation of outlines or limits) (noun)
   酸 (suān) :: acid (sour, sharp, or biting to the taste) (adjective)
 ===sheets===
@@ -6736,7 +6720,6 @@ Index: EN EN->ZH
 ===side===
   是 (shì) :: be (used to indicate that the values on either side of an equation are the same) (verb)
 ===sign===
-  See Mandarin :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
   定意, 定意 (dìngyì); 釋義, 释意 (shìyì) :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
 ===similar===
   行星 (xíngxīng) :: planet (similar body in orbit around a star) (noun)
@@ -6763,7 +6746,7 @@ Index: EN EN->ZH
 ===sinners===
   地獄, 地狱 (dìyù) :: hell (where sinners go) (proper noun)
 ***six***
-  (Standard Chinese (Mandarin)) 六 (liù) (numeral: 陸) :: six (cardinal number) (cardinal number)
+  六 (liù) (numeral: 陸) :: six (cardinal number) (cardinal number)
   (Bai) 六 (chi) :: six (cardinal number) (cardinal number)
   (Cantonese) 六 (luk6) :: six (cardinal number) (cardinal number)
   (Teochew) lag8 :: six (cardinal number) (cardinal number)
@@ -6817,7 +6800,6 @@ Index: EN EN->ZH
   (Cantonese) 肉 (juk6) :: meat (any sort of flesh) (noun)
   肉 (ròu) :: meat (any sort of flesh) (noun)
 ===sound===
-  See Mandarin :: definition (clarity, especially of musical sound in reproduction) (noun)
   清晰, 清晰 (qīngxī) :: definition (clarity, especially of musical sound in reproduction) (noun)
 ===sour===
   酸 (suān) :: acid (sour, sharp, or biting to the taste) (adjective)
@@ -6848,7 +6830,7 @@ Index: EN EN->ZH
   言論自由, 言论自由 (yánlùnzìyóu) :: freedom of speech (right to speak without fear of harm) (noun)
   矛盾修飾法, 矛盾修饰法 (máodùn xiūshìfǎ), 矛盾語, 矛盾语 (máodùnyǔ) :: oxymoron (figure of speech) (noun)
 ===spends===
-  一天, 一天, yìtiān :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
+  一天 (yītiān), 白天 (báitiān), 白晝, 白昼 (báizhòu) :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
 ===spherical===
   行星 (xíngxīng) :: planet (rocky or gaseous spherical bodies orbiting the Sun) (noun)
 ***spring***
@@ -6857,7 +6839,7 @@ Index: EN EN->ZH
   弹簧, 发条 (fātiáo) :: spring (device made of flexible material) (noun)
 ***star***
   恆星, 恒星 (héngxīng), 明星 (míngxīng), 星 (xīng) :: star (luminous celestial body) (noun)
-  星 (xīng) :: star (celebrity) (noun)
+  明星 (míngxīng) :: star (celebrity) (noun)
   行星 (xíngxīng) :: planet (similar body in orbit around a star) (noun)
   (Cantonese) 太陽, 太阳, taai3 joeng4, 日頭, 日头, jat6 tau2, 熱頭, 热头, jit6 tau2 :: sun (the star around which the Earth revolves) (proper noun)
   (Dungan) эрту (ertu), жәту (zhǝtu) :: sun (the star around which the Earth revolves) (proper noun)
@@ -6874,14 +6856,13 @@ Index: EN EN->ZH
   動詞, 动词 (dòngcí) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   (Min Nan) tōng-sû :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   反對教會分離主義, 反对教会分离主义 (fǎnduì jiàohuì fēnlí zhǔyì) :: antidisestablishmentarianism (philosophy opposed to separating church and state) (noun)
-  减弱 (jian ruo), 减轻 (jian qing) :: abate (to bring down or reduce to a lower state) (verb)
+  減弱, 减弱 (jiǎnruò), 減輕, 减轻 (jiǎnqīng) :: abate (to bring down or reduce to a lower state) (verb)
+  能力 (nénglì) :: ability (quality or state of being able) (noun)
   (of gratitude) 人情債, 人情债 (rénqíngzhài) :: debt (action, state of mind, or object one has an obligation to perform for another) (noun)
   (of gratitude) 人情債, 人情债 (rénqíngzhài) :: debt (state or condition of owing something to another) (noun)
 ===statement===
   廢話, 废话 (fèihuà), 胡說, 胡说 (húshuō), 胡言 (húyán), 狗屁 (gǒupì) (vulgar) :: nonsense (untrue statement) (noun)
-  See Mandarin :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
   定意, 定意 (dìngyì); 釋義, 释意 (shìyì) :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
-  See Mandarin :: definition (statement expressing the essential nature of something) (noun)
   定意, 定意 (dìngyì) :: definition (statement expressing the essential nature of something) (noun)
 ***stock***
   股票 (gǔpiào) :: stock (finance: capital raised by a company) (noun)
@@ -6892,7 +6873,7 @@ Index: EN EN->ZH
 ===strange===
   奇怪 (qí quài) :: odd (strange) (adjective)
 ===strength===
-  减轻 (jian qing), 减弱 (jian ruo) :: abate (to decrease or become less in strength) (verb)
+  減輕, 减轻 (jiǎnqīng), 減弱, 减弱 (jiǎnruò) :: abate (to decrease or become less in strength) (verb)
 ===strides===
   行軍, 行军 (xíngjūn), 行進, 行进 (xíngjìn) :: march (walk with long, regular strides) (verb)
 ===strong===
@@ -6930,11 +6911,11 @@ Index: EN EN->ZH
   年 (nián), (colloquial) 年頭, 年头 (niántóu) :: year (time it takes for the Earth to complete one revolution of the Sun) (noun)
   (Min Nan) 年 (nî) :: year (time it takes for the Earth to complete one revolution of the Sun) (noun)
 ***Sunday***
-  (formal) 星期日 (xīngqīrì), (informal) 星期天 (xīngqītiān), 禮拜日, 礼拜日 (lǐbàirì), (colloquial) 禮拜天, 礼拜天 (lǐbàitiān) :: Sunday (day of the week) (noun)
+  (formal) 星期日 (xīngqīrì), (informal) 星期天 (xīngqītiān), 禮拜日, 礼拜日 (lǐbàirì), (colloquial) 禮拜天, 礼拜天 (lǐbàitiān), 周日 (zhōurì) :: Sunday (day of the week) (noun)
 ===sunrise===
-  白天, 白天, báitiān :: day (period between sunrise and sunset) (noun)
+  白天 (báitiān) :: day (period between sunrise and sunset) (noun)
 ===sunset===
-  白天, 白天, báitiān :: day (period between sunrise and sunset) (noun)
+  白天 (báitiān) :: day (period between sunrise and sunset) (noun)
 ===sup===
   十億, 十亿 (shíyì) :: billion (a thousand million; 1,000,000,000; 10<sup>9</sup>; a milliard) (cardinal number)
   兆 (zhào) :: billion (a million million; 1,000,000,000,000; 10<sup>12</sup>) (cardinal number)
@@ -6945,7 +6926,6 @@ Index: EN EN->ZH
 ===surrender===
   (give up throne) 禪讓, 禅让 (shànràng), (leave any position) 退位 (tuìwèi), 退出 (tuìchū) :: abdicate (surrender or relinquish) (verb)
 ===symbol===
-  See Mandarin :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
   定意, 定意 (dìngyì); 釋義, 释意 (shìyì) :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
   零 (líng), 〇 :: zero (numeric symbol of zero) (noun)
   數詞, 数词 (shùcí), 數字, 数字 (shùzì) :: numeral (word or symbol representing a number) (noun)
@@ -6981,7 +6961,7 @@ Index: EN EN->ZH
   (Cantonese) 天時冷 (tin1 si4 laang) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
   冬天 (dōngtiān), 冬季 (dōngjì) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
 ***ten***
-  (Standard Chinese (Mandarin)) 十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
+  十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Cantonese) 十 (sap6) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Teochew) zab8 :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Eastern Hokkien (Min Dong)) 十 (sek) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
@@ -7044,7 +7024,7 @@ Index: EN EN->ZH
 ===through===
   透鏡, 透镜 (tòujìng), 鏡片, 镜片 (jìngpiàn), 鏡頭, 镜头 (jìngtóu) :: lens (object focusing or defocusing the light passing through it) (noun)
 ***Thursday***
-  星期四 (xīngqī sì) :: Thursday (day of the week) (noun)
+  星期四 (xīngqīsì), 禮拜四, 礼拜四 (lǐbàisì), 周四 (zhōusì) :: Thursday (day of the week) (noun)
 ===time===
   分鐘, 分钟 (fēnzhōng) :: minute (unit of time) (noun)
   日曆, 日历 (rìlì), 曆 (lì), 历 (lì), 曆法, 历法 (lìfǎ), (colloquial) 月份牌 (yuèfènpái) :: calendar (system by which time is divided) (noun)
@@ -7105,7 +7085,7 @@ Index: EN EN->ZH
   寓言 (yùyán) :: fable (fictitious narration to enforce some useful truth or precept) (noun)
   正確, 正确 (zhèngquè), 準確, 准确 (zhǔnquè) :: accurate (exact or careful conformity to truth) (adjective)
 ***Tuesday***
-  星期二 (xīngqī èr) :: Tuesday (day of the week) (noun)
+  星期二 (xīngqī'èr), 禮拜二, 礼拜二 (lǐbài'èr), 周二 (zhōu'èr) :: Tuesday (day of the week) (noun)
 ===twelfth===
   十二月 (shí’èryuè) :: December (twelfth month of the Gregorian calendar) (proper noun)
 ***two***
@@ -7248,17 +7228,17 @@ Index: EN EN->ZH
 ===weather===
   (not used) :: be (used to indicate weather, air quality, or the like) (verb)
 ***Wednesday***
-  星期三 (xīngqī sān), 周三 (zhōu sān) :: Wednesday (day of the week) (noun)
+  星期三 (xīngqīsān), 禮拜三, 礼拜三 (lǐbàisān), 周三 (zhōusān) :: Wednesday (day of the week) (noun)
 ***week***
   (Cantonese) 星期 (singkei) :: week (period of seven days) (noun)
   星期 (xīngqī), 周 (zhōu), 禮拜, 礼拜 (lǐbài) :: week (period of seven days) (noun)
-  星期一 (xīngqī yī) :: Monday (day of the week) (noun)
-  星期二 (xīngqī èr) :: Tuesday (day of the week) (noun)
-  星期三 (xīngqī sān), 周三 (zhōu sān) :: Wednesday (day of the week) (noun)
-  星期四 (xīngqī sì) :: Thursday (day of the week) (noun)
-  星期五 (xīngqī wǔ) :: Friday (day of the week) (noun)
-  星期六 (xīngqī liù) :: Saturday (day of the week) (noun)
-  (formal) 星期日 (xīngqīrì), (informal) 星期天 (xīngqītiān), 禮拜日, 礼拜日 (lǐbàirì), (colloquial) 禮拜天, 礼拜天 (lǐbàitiān) :: Sunday (day of the week) (noun)
+  星期一 (xīngqīyī), 禮拜一, 礼拜一 (lǐbàiyī), 周一 (zhōuyī) :: Monday (day of the week) (noun)
+  星期二 (xīngqī'èr), 禮拜二, 礼拜二 (lǐbài'èr), 周二 (zhōu'èr) :: Tuesday (day of the week) (noun)
+  星期三 (xīngqīsān), 禮拜三, 礼拜三 (lǐbàisān), 周三 (zhōusān) :: Wednesday (day of the week) (noun)
+  星期四 (xīngqīsì), 禮拜四, 礼拜四 (lǐbàisì), 周四 (zhōusì) :: Thursday (day of the week) (noun)
+  星期五 (xīngqīwǔ), 禮拜五, 礼拜五 (lǐbàiwǔ), 周五 (zhōuwǔ) :: Friday (day of the week) (noun)
+  星期六 (xīngqīliù), 禮拜六, 礼拜六 (lǐbàiliù), 周六 (zhōuliù) :: Saturday (day of the week) (noun)
+  (formal) 星期日 (xīngqīrì), (informal) 星期天 (xīngqītiān), 禮拜日, 礼拜日 (lǐbàirì), (colloquial) 禮拜天, 礼拜天 (lǐbàitiān), 周日 (zhōurì) :: Sunday (day of the week) (noun)
 ===weeks===
   两周, 兩周 (liǎngzhōu) :: fortnight (period of two weeks) (noun)
 ***whatever***
@@ -7273,10 +7253,9 @@ Index: EN EN->ZH
 ===which===
   (Dungan) йүә :: month (period into which a year is divided) (noun)
   月 (yuè), 月份 (yuèfèn) :: month (period into which a year is divided) (noun)
-  一天, 一天, yìtiān :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
+  一天 (yītiān), 白天 (báitiān), 白晝, 白昼 (báizhòu) :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
   反義詞, 反义词 (fǎnyìcí) :: antonym (word which has the opposite meaning) (noun)
   日曆, 日历 (rìlì), 曆 (lì), 历 (lì), 曆法, 历法 (lìfǎ), (colloquial) 月份牌 (yuèfènpái) :: calendar (system by which time is divided) (noun)
-  See Mandarin :: definition (bodybuilding: the degree to which individual muscles are distinct) (noun)
   清晰度, 清晰度 (qīngxīdù) :: definition (bodybuilding: the degree to which individual muscles are distinct) (noun)
   不管怎樣, 不管怎样 (bùguǎn zěnyàng) :: whatever (no matter which; for any) (determiner)
   行星 (xíngxīng) :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
@@ -7319,11 +7298,9 @@ Index: EN EN->ZH
   名 (míng), 名字 (míngzì) :: name (word or phrase indicating a particular person, place, class or thing) (noun)
   縮寫, 缩写 (suōxiě); 簡寫, 简写 (jiǎnxiě); 略語, 略语 (lüèyǔ) :: abbreviation (shortened or contracted form of a word or phrase) (noun)
   複數, 复数 (fùshù), 眾數, 众数 (zhòngshù) :: plural (word in plural form) (noun)
-  See Mandarin :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
   定意, 定意 (dìngyì); 釋義, 释意 (shìyì) :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
   數詞, 数词 (shùcí), 數字, 数字 (shùzì) :: numeral (word or symbol representing a number) (noun)
   單數, 单数 (dānshù) :: singular (grammar: form of a word that refers to only one thing) (noun)
-  縮寫, 缩写 (suōxiě), 縮略詞, 缩略词 (suōlüècí), 略語, 略语 (lüèyǔ) :: acronym (word formed by initial letters) (noun)
 ===words===
   (Dungan) хуадян (huadyan) :: dictionary (publication that explains the meanings of an ordered list of words) (noun)
   字典 (zìdiǎn) (character dictionary); 詞典, 词典 (cídiǎn) :: dictionary (publication that explains the meanings of an ordered list of words) (noun)
@@ -7393,7 +7370,7 @@ Index: EN EN->ZH
 ***YWCA***
   基督教女青年會 (jīdùjiào nǚqīngnián huì) :: YWCA (YWCA) ({{initialism}})
 ***zero***
-  零 (líng) (numeral: 〇, 零) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
+  零 (líng), (numeral) 〇 :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   (Min Nan) 空 (khòng) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   (Teochew) kang3, leng5 :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   零 (líng), 〇 :: zero (numeric symbol of zero) (noun)
