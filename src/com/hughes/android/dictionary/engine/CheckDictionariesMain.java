@@ -1,17 +1,22 @@
 package com.hughes.android.dictionary.engine;
 
+import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.io.RandomAccessFile;
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
 
 import com.hughes.android.dictionary.DictionaryInfo;
 
 public class CheckDictionariesMain {
   
   static final String BASE_URL = "http://quickdic-dictionary.googlecode.com/files/";
-  static final String VERSION_CODE = "v004";
+  static final String VERSION_CODE = "v005";
 
   public static void main(String[] args) throws IOException {
     final File dictDir = new File(DictionaryBuilderMain.OUTPUTS);
@@ -41,7 +46,7 @@ public class CheckDictionariesMain {
       dictionaryInfo.zipBytes = zipFile.canRead() ? zipFile.length() : -1;
 
       // Print it.
-//      final PrintWriter textOut = new PrintWriter(new File(dictFile + ".text"));
+//      final PrintWriter textOut = new PrintWriter(new BufferedWriter(new FileWriter(dictFile + ".text")));
 //      final List<PairEntry> sorted = new ArrayList<PairEntry>(dict.pairEntries);
 //      Collections.sort(sorted);
 //      for (final PairEntry pairEntry : sorted) {
@@ -52,6 +57,9 @@ public class CheckDictionariesMain {
       // Find the stats.
       System.out.println("Stats...");
       final String row = dictionaryInfo.append(new StringBuilder()).toString();
+      if (!zipFile.canRead()) {
+        System.err.println("Couldn't read zipfile: " + zipFile);
+      }
       System.out.println(row + "\n");
       
       dictionaryInfoOut.println(row);

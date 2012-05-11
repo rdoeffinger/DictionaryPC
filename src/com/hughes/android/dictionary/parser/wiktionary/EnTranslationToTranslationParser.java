@@ -31,17 +31,19 @@ import com.hughes.util.ListUtil;
 
 public final class EnTranslationToTranslationParser extends AbstractWiktionaryParser {
   
-    final IndexBuilder[] indexBuilders;
+    final List<IndexBuilder> indexBuilders;
     final Pattern[] langCodePatterns;
 
     PairEntry pairEntry = null;
     IndexedEntry indexedEntry = null;
     StringBuilder[] builders = null; 
     
+  public static final String NAME = "EnTranslationToTranslation";
+    
   final Set<String> Ts = new LinkedHashSet<String>(Arrays.asList("t", "t+",
       "t-", "tø", "apdx-t", "ttbc"));
     
-    public EnTranslationToTranslationParser(final IndexBuilder[] indexBuilders,
+    public EnTranslationToTranslationParser(final List<IndexBuilder> indexBuilders,
         final Pattern[] langCodePatterns) {
       this.indexBuilders = indexBuilders;
       this.langCodePatterns = langCodePatterns;
@@ -57,22 +59,35 @@ public final class EnTranslationToTranslationParser extends AbstractWiktionaryPa
       if (EnParser.isIgnorableTitle(title)) {
         return;
       }
-      final WikiTokenizer wikiTokenizer = new WikiTokenizer(text);
-      while (wikiTokenizer.nextToken() != null) {
-        if (wikiTokenizer.isFunction()) {
-          final String name = wikiTokenizer.functionName();
+      final WikiTokenizer.Callback callback = new WikiTokenizer.DoNothingCallback() {
+        @Override
+        public void onFunction(WikiTokenizer wikiTokenizer, String name,
+            List<String> functionPositionArgs,
+            Map<String, String> functionNamedArgs) {
+          //System.out.println(wikiTokenizer.token());
           if (Ts.contains(name)) {
             onT(wikiTokenizer);
-          } else if (name.equals("trans-top")) {
+          } else if (name.equals("trans-top") || name.equals("checktrans-top") || name.equals("checktrans")) {
             startEntry(title, wikiTokenizer.token());
           } else if (name.equals("trans-bottom")) {
             finishEntry(title);
           }
         }
+
+        @Override
+        public void onListItem(WikiTokenizer wikiTokenizer) {
+          WikiTokenizer.dispatch(wikiTokenizer.listItemWikiText(), false, this);
+        }
+      };
+      WikiTokenizer.dispatch(text, true, callback);
+      
+      if (builders != null) {
+        LOG.warning("unended translations: " + title);
+        finishEntry(title);
       }
     }
     
-    final TranslationCallback<EnTranslationToTranslationParser> translationCallback = new TranslationCallback<EnTranslationToTranslationParser>();
+  final TranslationCallback<EnTranslationToTranslationParser> translationCallback = new TranslationCallback<EnTranslationToTranslationParser>();
     
   final AppendAndIndexWikiCallback<EnTranslationToTranslationParser> appendAndIndexWikiCallback = new AppendAndIndexWikiCallback<EnTranslationToTranslationParser>(
       this);
@@ -83,12 +98,24 @@ public final class EnTranslationToTranslationParser extends AbstractWiktionaryPa
   }
     
   private void onT(WikiTokenizer wikiTokenizer) {
+    if (builders == null) {
+      LOG.warning("{{t...}} section outside of {{trans-top}}: " + title);
+      startEntry(title, "QUICKDIC_OUTSIDE");
+    }
+    
     final List<String> args = wikiTokenizer.functionPositionArgs();
     final String langCode = ListUtil.get(args, 0);
+    if (langCode == null) {
+      LOG.warning("Missing langCode: " + wikiTokenizer.token());
+      return;
+    }
     for (int p = 0; p < 2; ++p) {
       if (langCodePatterns[p].matcher(langCode).matches()) {
         appendAndIndexWikiCallback.builder = builders[p];
-        appendAndIndexWikiCallback.indexBuilder = indexBuilders[p];
+        if (appendAndIndexWikiCallback.builder.length() > 0) {
+          appendAndIndexWikiCallback.builder.append(", ");
+        }
+        appendAndIndexWikiCallback.indexBuilder = indexBuilders.get(p);
         appendAndIndexWikiCallback.onFunction(wikiTokenizer,
             wikiTokenizer.functionName(), wikiTokenizer.functionPositionArgs(),
             wikiTokenizer.functionNamedArgs());
@@ -98,18 +125,19 @@ public final class EnTranslationToTranslationParser extends AbstractWiktionaryPa
 
     void startEntry(final String title, final String func) {
       if (pairEntry != null) {
-        LOG.warning("startEntry() twice" + func);
+        LOG.warning("startEntry() twice: " + title + ", " + func);
         finishEntry(title);
       }
       
       pairEntry = new PairEntry(entrySource);
       indexedEntry = new IndexedEntry(pairEntry);
-      builders = new StringBuilder[] { new StringBuilder(), new StringBuilder() }; 
+      builders = new StringBuilder[] { new StringBuilder(), new StringBuilder() };
+      appendAndIndexWikiCallback.indexedEntry = indexedEntry;
     }
     
     void finishEntry(final String title) {
       if (pairEntry == null) {
-        LOG.warning("finalizeEntry() twice" + title);
+        LOG.warning("finalizeEntry() twice: " + title);
         return;
       }
       final String lang1 = builders[0].toString();

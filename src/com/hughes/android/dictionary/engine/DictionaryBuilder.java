@@ -34,6 +34,7 @@ import com.hughes.android.dictionary.parser.DictFileParser;
 import com.hughes.android.dictionary.parser.Parser;
 import com.hughes.android.dictionary.parser.wiktionary.EnForeignParser;
 import com.hughes.android.dictionary.parser.wiktionary.EnToTranslationParser;
+import com.hughes.android.dictionary.parser.wiktionary.EnTranslationToTranslationParser;
 import com.hughes.util.Args;
 import com.hughes.util.FileUtil;
 
@@ -164,6 +165,10 @@ public class DictionaryBuilder {
             return;
           }
           parser.parse(file, entrySource, pageLimit);
+        } else if (EnTranslationToTranslationParser.NAME.equals(inputFormat)) {
+          final Pattern codePattern1 = Pattern.compile(keyValueArgs.remove(prefix + "LangPattern1"), Pattern.CASE_INSENSITIVE);
+          final Pattern codePattern2 = Pattern.compile(keyValueArgs.remove(prefix + "LangPattern2"), Pattern.CASE_INSENSITIVE);
+          new EnTranslationToTranslationParser(dictionaryBuilder.indexBuilders, new Pattern[] {codePattern1, codePattern2}).parse(file, entrySource, pageLimit);
         } else {
           fatalError("Invalid or missing input format: " + inputFormat);
         }

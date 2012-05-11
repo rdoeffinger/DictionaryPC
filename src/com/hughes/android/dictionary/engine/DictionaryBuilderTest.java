@@ -20,6 +20,7 @@ import java.io.IOException;
 import java.io.PrintStream;
 import java.io.RandomAccessFile;
 
+import com.hughes.android.dictionary.parser.wiktionary.EnTranslationToTranslationParser;
 import com.hughes.util.FileUtil;
 
 import junit.framework.TestCase;
@@ -32,6 +33,37 @@ public class DictionaryBuilderTest extends TestCase {
   public static final String GOLDENS = "testdata/goldens/";
 
   public static final String TEST_OUTPUTS = "testdata/outputs/";
+
+  
+  public void testWiktionary_en_de2fr() throws Exception {
+    wiktionaryTestWithEnTrans2Trans("wiktionary.de_fr.quickdic", "DE", "FR");
+  }
+
+  public void wiktionaryTestWithEnTrans2Trans(final String name, final String lang1,
+      final String lang2) throws Exception {
+    final File result = new File(TEST_OUTPUTS + name);
+    System.out.println("Writing to: " + result);
+    DictionaryBuilder.main(new String[] {
+        "--dictOut=" + result.getAbsolutePath(),
+        "--lang1=" + lang1,
+        "--lang2=" + lang2,
+        "--lang1Stoplist=" + STOPLISTS + "empty.txt",
+        "--lang2Stoplist=" + STOPLISTS + "empty.txt",
+        "--dictInfo=SomeWikiDataTrans2Trans",
+
+        "--input4=" + WIKISPLIT + "EN.data",
+        "--input4Name=" + name,
+        "--input4Format=" + EnTranslationToTranslationParser.NAME,
+        "--input4LangPattern1=" + lang1,
+        "--input4LangPattern2=" + lang2,
+        "--input4PageLimit=1000",
+
+        "--print=" + result.getPath() + ".text",
+    });
+    
+    checkGolden(name, result); 
+  }
+
   
   public void testWiktionary_IT_EN() throws Exception {
     wiktionaryTestWithLangToEn("wiktionary.it_en.quickdic", "IT", "it.txt",

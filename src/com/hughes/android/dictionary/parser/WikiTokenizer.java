@@ -36,6 +36,46 @@ public final class WikiTokenizer {
     void onHtml(WikiTokenizer wikiTokenizer);
   }
   
+  public static class DoNothingCallback implements Callback {
+
+    @Override
+    public void onPlainText(String text) {
+    }
+
+    @Override
+    public void onMarkup(WikiTokenizer wikiTokenizer) {
+    }
+
+    @Override
+    public void onWikiLink(WikiTokenizer wikiTokenizer) {
+    }
+
+    @Override
+    public void onNewline(WikiTokenizer wikiTokenizer) {
+    }
+
+    @Override
+    public void onFunction(WikiTokenizer tokenizer, String functionName,
+        List<String> functionPositionArgs, Map<String, String> functionNamedArgs) {
+    }
+
+    @Override
+    public void onHeading(WikiTokenizer wikiTokenizer) {
+    }
+
+    @Override
+    public void onListItem(WikiTokenizer wikiTokenizer) {
+    }
+
+    @Override
+    public void onComment(WikiTokenizer wikiTokenizer) {
+    }
+
+    @Override
+    public void onHtml(WikiTokenizer wikiTokenizer) {
+    }
+  }
+  
   //private static final Pattern wikiTokenEvent = Pattern.compile("($)", Pattern.MULTILINE);
   private static final Pattern wikiTokenEvent = Pattern.compile("(" +
   		"\\{\\{|\\}\\}|" +

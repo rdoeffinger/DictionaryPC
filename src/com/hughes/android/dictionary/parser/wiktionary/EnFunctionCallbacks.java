@@ -121,7 +121,9 @@ class EnFunctionCallbacks {
       final String alt = namedArgs.remove("alt");
       namedArgs.keySet().removeAll(EnParser.USELESS_WIKI_ARGS);
       if (args.size() < 2) {
-        EnParser.LOG.warning("{{t...}} with wrong args: title=" + parser.title);
+        if (!name.equals("ttbc")) {
+          EnParser.LOG.warning("{{t...}} with wrong args: title=" + parser.title + ", " + wikiTokenizer.token());
+        }
         return false;
       }
       final String langCode = ListUtil.get(args, 0);
