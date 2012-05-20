@@ -1,8 +1,6 @@
 package com.hughes.android.dictionary.engine;
 
-import java.io.BufferedWriter;
 import java.io.File;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.io.RandomAccessFile;
@@ -12,6 +10,7 @@ import java.util.Collections;
 import java.util.List;
 
 import com.hughes.android.dictionary.DictionaryInfo;
+import com.hughes.android.dictionary.parser.wiktionary.WiktionaryLangs;
 
 public class CheckDictionariesMain {
   
@@ -25,6 +24,7 @@ public class CheckDictionariesMain {
 //    dictionaryInfoOut.println("# LANG_1\t%LANG_2\tFILENAME\tVERSION_CODE\tFILESIZE\tNUM_MAIN_WORDS_1\tNUM_MAIN_WORDS_2\tNUM_ALL_WORDS_1\tNUM_ALL_WORDS_2");
 
     final File[] files = dictDir.listFiles();
+    final List<String> dictNames = new ArrayList<String>();
     Arrays.sort(files);
     for (final File dictFile : files) {
       if (!dictFile.getName().endsWith("quickdic")) {
@@ -56,18 +56,24 @@ public class CheckDictionariesMain {
       
       // Find the stats.
       System.out.println("Stats...");
+      final String lang1 = WiktionaryLangs.isoCodeToWikiName.get(dictionaryInfo.indexInfos.get(0).shortName);
+      final String lang2 = WiktionaryLangs.isoCodeToWikiName.get(dictionaryInfo.indexInfos.get(1).shortName);
+      dictNames.add(String.format("%s-%s\n", lang1, lang2));
       final String row = dictionaryInfo.append(new StringBuilder()).toString();
       if (!zipFile.canRead()) {
         System.err.println("Couldn't read zipfile: " + zipFile);
       }
       System.out.println(row + "\n");
       
+      
       dictionaryInfoOut.println(row);
       dictionaryInfoOut.flush();
       
       raf.close();
-      
     }
+    
+    Collections.sort(dictNames);
+    System.out.println(dictNames.toString().replaceAll(",", "  *"));
     
     dictionaryInfoOut.close();
   }

@@ -166,8 +166,14 @@ public class DictionaryBuilder {
           }
           parser.parse(file, entrySource, pageLimit);
         } else if (EnTranslationToTranslationParser.NAME.equals(inputFormat)) {
-          final Pattern codePattern1 = Pattern.compile(keyValueArgs.remove(prefix + "LangPattern1"), Pattern.CASE_INSENSITIVE);
-          final Pattern codePattern2 = Pattern.compile(keyValueArgs.remove(prefix + "LangPattern2"), Pattern.CASE_INSENSITIVE);
+          final String code1 = keyValueArgs.remove(prefix + "LangPattern1");
+          final String code2 = keyValueArgs.remove(prefix + "LangPattern2");
+          if (code1 == null || code2 == null) {
+            fatalError("Must specify LangPattern1 and LangPattern2.");
+            return;
+          }
+          final Pattern codePattern1 = Pattern.compile(code1, Pattern.CASE_INSENSITIVE);
+          final Pattern codePattern2 = Pattern.compile(code2, Pattern.CASE_INSENSITIVE);
           new EnTranslationToTranslationParser(dictionaryBuilder.indexBuilders, new Pattern[] {codePattern1, codePattern2}).parse(file, entrySource, pageLimit);
         } else {
           fatalError("Invalid or missing input format: " + inputFormat);

@@ -14,11 +14,16 @@
 
 package com.hughes.android.dictionary.engine;
 
+import java.util.Arrays;
 import java.util.LinkedHashMap;
+import java.util.LinkedHashSet;
+import java.util.List;
 import java.util.Map;
+import java.util.Set;
 
 import junit.framework.TestCase;
 
+import com.hughes.android.dictionary.parser.wiktionary.EnTranslationToTranslationParser;
 import com.hughes.android.dictionary.parser.wiktionary.WiktionaryLangs;
 
 public class DictionaryBuilderMain extends TestCase {
@@ -27,7 +32,7 @@ public class DictionaryBuilderMain extends TestCase {
   static final String STOPLISTS = "data/inputs/stoplists/";
   static final String OUTPUTS = "data/outputs/";  
     
-  public static void main(final String[] args) throws Exception {
+  public static <E> void main(final String[] args) throws Exception {
     
     // Builds all the dictionaries it can, outputs list to a text file.
     
@@ -60,6 +65,122 @@ public class DictionaryBuilderMain extends TestCase {
     final Map<String,String>  isoToRegex = new LinkedHashMap<String, String>();
     // HACK: The missing "e" prevents a full match, causing "Cantonese" to be appended to the entries.
     isoToRegex.put("ZH", "Chinese|Mandarin|Cantones");
+    
+    
+    // Build the non EN ones.
+    
+    final String[][] nonEnPairs = new String[][] {
+        {"AR", "DE" },
+        {"AR", "ES" },
+        {"AR", "FR" },
+        {"AR", "IT" },
+        {"AR", "JA" },
+        {"AR", "RU" },
+        {"AR", "ZH" },
+        
+        {"DE", "FR" },
+        {"DE", "CA" },  // Catalan
+        {"DE", "CS" },  // Czech
+        {"DE", "EO" },  // Esperanto
+        {"DE", "ES" },
+        {"DE", "FR" },
+        {"DE", "HU" },  // Hungarian
+        {"DE", "IT" },
+        {"DE", "JA" },
+        {"DE", "LA" },  // Latin
+        {"DE", "PL" },  // Polish
+        {"DE", "RU" },
+        {"DE", "SV" },  // Swedish
+        {"DE", "ZH" },
+
+        
+        {"FR", "BG" },  // Bulgarian
+        {"FR", "CS" },  // Czech
+        {"FR", "DE" },
+        {"FR", "ES" },
+        {"FR", "IT" },
+        {"FR", "JA" },
+        {"FR", "LA" },
+        {"FR", "NL" },  // Dutch
+        {"FR", "RU" },
+        {"FR", "ZH" },
+
+        {"IT", "DE" },
+        {"IT", "EL" },  // Greek
+        {"IT", "ES" },
+        {"IT", "FR" },
+        {"IT", "HU" },
+        {"IT", "JA" },
+        {"IT", "LA" },  // Latin
+        {"IT", "LV" },  // Latvian
+        {"IT", "NL" },
+        {"IT", "PL" },
+        {"IT", "RU" },
+        {"IT", "SV" },
+        {"IT", "ZH" },
+
+        {"JA", "ZH" },
+        {"JA", "AR" },
+
+        {"ZH", "AR" },
+        {"ZH", "DE" },
+        {"ZH", "ES" },
+        {"ZH", "FR" },
+        {"ZH", "IT" },
+
+        
+        {"NO", "SV" },
+        {"NO", "FI" },
+        {"FI", "SV" },
+        {"AR", "HE" },
+        {"KO", "JA" },
+        {"KO", "ZH" },
+    };
+    
+    final Set<List<String>> done = new LinkedHashSet<List<String>>();
+    for (final String[] pair : nonEnPairs) {
+      Arrays.sort(pair);
+      final List<String> pairList = Arrays.asList(pair);
+      if (done.contains(pairList)) {
+        continue;
+      }
+      done.add(pairList);
+      
+      final String lang1 = pair[0];
+      final String lang2 = pair[1];
+      
+      final String dictFile = String.format("%s/%s-%s_enwiktionary_BETA.quickdic", 
+          OUTPUTS, lang1, lang2);
+      System.out.println("building dictFile: " + dictFile);
+
+      if (!isoToStoplist.containsKey(lang1)) {
+        isoToStoplist.put(lang1, "empty.txt");
+      }
+      if (!isoToStoplist.containsKey(lang2)) {
+        isoToStoplist.put(lang2, "empty.txt");
+      }
+      
+      DictionaryBuilder.main(new String[] {
+          String.format("--dictOut=%s", dictFile),
+          String.format("--lang1=%s", lang1),
+          String.format("--lang2=%s", lang2),
+          String.format("--lang1Stoplist=%s", STOPLISTS + isoToStoplist.get(lang1)),
+          String.format("--lang2Stoplist=%s", STOPLISTS + isoToStoplist.get(lang2)),
+          String.format("--dictInfo=(EN)Wikitionary-based %s-%s dictionary.", lang1, lang2),
+
+          String.format("--input2=%swikiSplit/en/EN.data", INPUTS),
+          String.format("--input2Name=BETA!enwiktionary.%s-%s", lang1, lang2),
+          String.format("--input2Format=%s", EnTranslationToTranslationParser.NAME),
+          String.format("--input2LangPattern1=%s", lang1),
+          String.format("--input2LangPattern2=%s", lang2),
+      });
+    }
+    if (1==1) {
+      return;
+    }
+
+
+    // Now build the EN ones.
     
 //    isoToWikiName.keySet().retainAll(Arrays.asList("UK", "HR", "FI"));
     //isoToWikiName.clear();
@@ -112,6 +233,8 @@ public class DictionaryBuilderMain extends TestCase {
         });
         
     }  // foreignIso
+
+    // Now special case German-English.
 
     final String dictFile = String.format("%s/DE-EN_chemnitz_enwiktionary.quickdic", OUTPUTS);
     DictionaryBuilder.main(new String[] {

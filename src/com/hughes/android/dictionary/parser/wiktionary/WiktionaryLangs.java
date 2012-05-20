@@ -158,9 +158,8 @@ public class WiktionaryLangs {
     isoCodeToWikiName.put("PL", Pattern.quote("{{-pl-}}"));
     isoCodeToWikiName.put("NL", Pattern.quote("{{-nl-}}"));
     isoCodeToWikiName.put("LV", Pattern.quote("{{-lv-}}"));
-    isoCodeToWikiName.put("LV", Pattern.quote("{{-la-}}"));
+    isoCodeToWikiName.put("LA", Pattern.quote("{{-la-}}"));
     isoCodeToWikiName.put("HU", Pattern.quote("{{-hu-}}"));
-    isoCodeToWikiName.put("PL", Pattern.quote("{{-pl-}}"));
     isoCodeToWikiName.put("EL", Pattern.quote("{{-grc-}}"));
     isoCodeToWikiName.put("SV", Pattern.quote("{{-sv-}}"));
 
