@@ -1,4 +1,5 @@
 of
+form
 and
 Compound
 Plural
@@ -11,7 +12,10 @@ the
 in
 gerund
 person
+le
+li
 A
+ne
 imperative
 s
 with
@@ -27,6 +31,7 @@ from
 that
 by
 on
+gli
 singular
 something
 up
@@ -38,6 +43,7 @@ being
 as
 who
 second
+tu
 is
 I
 Br

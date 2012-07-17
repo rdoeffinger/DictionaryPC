@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.french 6554
+EntrySource: enwiktionary.french 6529
 
 Index: FR FR->EN
 ===00===
@@ -8301,29 +8301,6 @@ Index: EN EN->FR
   en {fr-prep} :: of, made of (used to describe composition)
     une chaise en hêtre :: a chair made of beech/a beech chair
     une fourchette en métal :: a fork made of metal/a metal fork
-===form===
-  former {fr-verb} :: to form (generic sense)
-  abrasive {f} :: Feminine singular form of abrasif
-  abusive {f} :: Feminine singular form of abusif
-  Fanny {fr-proper noun} :: {{given name|female}} borrowed from English; also used as a pet form of Stéphanie.
-  case {{fr-noun|f}} :: box (on form)
-  rata :: third-person singular past historic form of rater
-  vomit :: third-person singular present indicative form of vomir
-  vomit :: third-person singular past historic form of vomir
-  rate {fr-verb-form} :: first-person singular indicative present form of rater
-  rate {fr-verb-form} :: third-person singular indicative present form of rater
-  rate {fr-verb-form} :: first-person singular subjunctive present form of rater
-  rate {fr-verb-form} :: third-person singular subjunctive present form of rater
-  suit :: third-person singular present indicative form of suivre
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} Used to form the perfect and pluperfect tense of certain verbs (including all reflexive verbs)
-    Après être allé au yoga, je suis rentré chez moi. :: After having gone to yoga, I came back home.
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} to be (Used to form the passive voice)
-    Il peut être battu ce soir. :: He could be beaten this evening.
-  avoir {{fr-verb|type=auxiliary}} :: {{context|auxiliary}} to have (auxiliary verb to form compound past tenses of most verbs)
-    J'ai parlé. :: I have spoken.
-  (Middle French) avoir (verb) :: {{context|auxiliary verb}} to have (verb used to form the perfect tense)
-  (Old French) avoir (verb) :: {{context|auxiliary verb}} to have (verb used to form the perfect tense)
-  dame {{fr-noun|f}} :: A polite form of address for a woman.
 ===Form===
   bel {fr-adj-form} :: Form of beau to be used before masculine nouns starting with a vowel.
   quatre-vingt {{fr-noun-inv|m}} :: {France} Form of quatre-vingts (eighty) used in compounds (the numbers 81 to 99, larger numbers ending in numbers from 81 to 99, and the ordinal numbers corresponding to any of these numbers).
@@ -9653,13 +9630,6 @@ Index: EN EN->FR
   robin {{fr-noun|m}} :: {{archaic|pejorative| lang=fr}} lawyer
 ===lay===
   civil {fr-adj} :: {politics} lay
-===le===
-  (Old French) al (contraction) :: contraction of a + le (to the)
-  (Old French) del (contraction) :: contraction of de + le (of the)
-  du (contraction) :: contraction of de + le (of the).
-  du (contraction) :: contraction of de + le, forms the partitive article.
-    The partitive article signifies "some", but it often is not translated in English, Dutch, or German. :: --
-  (Old French) du (contraction) :: contraction of de + le (of the)
 ===Le===
   (Old French) face {{fro-noun|f}} :: {anatomy} face
     circa 1170, {{w|Chrétien de Troyes}}, Érec et Énide: :: Le chief li desarme et la face.
@@ -9719,10 +9689,6 @@ Index: EN EN->FR
     circa 1170, {{w|Chrétien de Troyes}}, Érec et Énide: :: quel haste avez,<br />Qui a tel ore vos levez?
     What haste do you have :: --
     That wakes up at this time of day? :: --
-===li===
-  (Old French) face {{fro-noun|f}} :: {anatomy} face
-    circa 1170, {{w|Chrétien de Troyes}}, Érec et Énide: :: Le chief li desarme et la face.
-    He exposed his head and his face. :: --
 ===liberty===
   libre {fr-adj-mf} :: free, at liberty
     Un homme libre. :: A free man.

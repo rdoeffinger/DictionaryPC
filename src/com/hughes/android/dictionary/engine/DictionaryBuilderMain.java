@@ -70,20 +70,26 @@ public class DictionaryBuilderMain extends TestCase {
     // Build the non EN ones.
     
     final String[][] nonEnPairs = new String[][] {
+        
+        /*
         {"AR", "DE" },
         {"AR", "ES" },
         {"AR", "FR" },
+        {"AR", "HE" },
         {"AR", "IT" },
         {"AR", "JA" },
         {"AR", "RU" },
+        {"AR", "TR" },  // Turkish
         {"AR", "ZH" },
         
+        {"DE", "AR" },
         {"DE", "FR" },
         {"DE", "CA" },  // Catalan
         {"DE", "CS" },  // Czech
         {"DE", "EO" },  // Esperanto
         {"DE", "ES" },
         {"DE", "FR" },
+        {"DE", "HE" },
         {"DE", "HU" },  // Hungarian
         {"DE", "IT" },
         {"DE", "JA" },
@@ -91,6 +97,7 @@ public class DictionaryBuilderMain extends TestCase {
         {"DE", "PL" },  // Polish
         {"DE", "RU" },
         {"DE", "SV" },  // Swedish
+        {"DE", "TR" },  // Turkish
         {"DE", "ZH" },
 
         
@@ -103,6 +110,7 @@ public class DictionaryBuilderMain extends TestCase {
         {"FR", "LA" },
         {"FR", "NL" },  // Dutch
         {"FR", "RU" },
+        {"FR", "TR" },  // Turkish
         {"FR", "ZH" },
 
         {"IT", "DE" },
@@ -117,24 +125,33 @@ public class DictionaryBuilderMain extends TestCase {
         {"IT", "PL" },
         {"IT", "RU" },
         {"IT", "SV" },
+        {"IT", "TR" },  // Turkish
         {"IT", "ZH" },
 
         {"JA", "ZH" },
         {"JA", "AR" },
+        {"JA", "KO" },
 
         {"ZH", "AR" },
         {"ZH", "DE" },
         {"ZH", "ES" },
         {"ZH", "FR" },
         {"ZH", "IT" },
+        {"ZH", "KO" },
 
         
         {"NO", "SV" },
         {"NO", "FI" },
         {"FI", "SV" },
-        {"AR", "HE" },
-        {"KO", "JA" },
-        {"KO", "ZH" },
+        
+        {"PL", "FR" },  // Polish
+        {"PL", "RU" },  // Polish
+        {"PL", "HU" },  // Polish
+        {"PL", "ES" },  // Polish
+
+        */
+        
+
     };
     
     final Set<List<String>> done = new LinkedHashSet<List<String>>();
@@ -176,7 +193,7 @@ public class DictionaryBuilderMain extends TestCase {
       });
     }
     if (1==1) {
-      return;
+      //return;
     }
 
 
@@ -184,9 +201,9 @@ public class DictionaryBuilderMain extends TestCase {
     
 //    isoToWikiName.keySet().retainAll(Arrays.asList("UK", "HR", "FI"));
     //isoToWikiName.clear();
-    boolean go = true;
+    boolean go = false;
     for (final String foreignIso : isoToWikiName.keySet()) {
-      if (foreignIso.equals("GD")) {
+      if (foreignIso.equals("SL")) {
         go = true;
       }
       if (!go) {

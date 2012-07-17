@@ -58,7 +58,9 @@ public class WiktionaryLangs {
     isoCodeToWikiName.put("JA", "Japanese");
     isoCodeToWikiName.put("KO", "Korean");
     isoCodeToWikiName.put("KU", "Kurdish");
+    isoCodeToWikiName.put("LO", "Lao");
     isoCodeToWikiName.put("MS", "Malay");
+    isoCodeToWikiName.put("ML", "Malayalam");
     isoCodeToWikiName.put("MI", "Maori");
     isoCodeToWikiName.put("MN", "Mongolian");
     isoCodeToWikiName.put("NE", "Nepali");
@@ -72,6 +74,7 @@ public class WiktionaryLangs {
     isoCodeToWikiName.put("SA", "Sanskrit");
     isoCodeToWikiName.put("SR", "Serbian");
     isoCodeToWikiName.put("SK", "Slovak");
+    isoCodeToWikiName.put("SL", "Slovene|Slovenian");
     isoCodeToWikiName.put("SO", "Somali");
     isoCodeToWikiName.put("ES", "Spanish");
     isoCodeToWikiName.put("SW", "Swahili");

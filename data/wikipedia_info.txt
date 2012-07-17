@@ -1,0 +1,9 @@
+Download Mac OS mysql installation.
+Unzip in ~, link ~/mysql to it.
+cd mysql
+scripts/mysql_install_db --user=thadh
+./bin/mysqld_safe --user=thadh
+
+in mysql client:
+source enwiki-20120702-langlinks.sql.sql
+source enwiki-20120702-page.sql.sql
