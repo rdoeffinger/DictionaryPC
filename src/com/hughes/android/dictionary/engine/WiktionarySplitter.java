@@ -28,8 +28,8 @@ import java.util.regex.Pattern;
 
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.parsers.SAXParser;
-import javax.xml.parsers.SAXParserFactory;
 
+import org.apache.xerces.jaxp.SAXParserFactoryImpl;
 import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 
@@ -48,7 +48,7 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
   StringBuilder textBuilder;
   StringBuilder currentBuilder = null;
 
-  public static void main(final String[] args) throws SAXException, IOException, ParserConfigurationException {
+  public static void main(final String[] args) throws Exception {
     final WiktionarySplitter wiktionarySplitter = new WiktionarySplitter();
     wiktionarySplitter.go();
   }
@@ -67,8 +67,8 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
     }
   }
 
-  private void go() throws ParserConfigurationException, SAXException, IOException {
-    final SAXParser parser = SAXParserFactory.newInstance().newSAXParser();
+  private void go() throws Exception {
+    final SAXParser parser = SAXParserFactoryImpl.newInstance().newSAXParser();
 
     // Configure things.
     for (final Map.Entry<String, List<Selector>> pathToSelectorsEntry : pathToSelectors.entrySet()) {
@@ -80,7 +80,12 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
       }
   
       // Do it.
-      parser.parse(new File(pathToSelectorsEntry.getKey()), this);
+      try {
+        parser.parse(new File(pathToSelectorsEntry.getKey()), this);
+      } catch (Exception e) {
+        System.err.println("Exception during parse, lastPageTitle=" + lastPageTitle + ", titleBuilder=" + titleBuilder.toString());
+        throw e;
+      }
       
       // Shutdown.
       for (final Selector selector : currentSelectors) {
@@ -90,9 +95,11 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
     }
   }
 
+  String lastPageTitle = null;
   int pageCount = 0;
   private void endPage() {
     final String title = titleBuilder.toString();
+    lastPageTitle = title;
     if (++pageCount % 1000 == 0) {
       System.out.println("endPage: " + title + ", count=" + pageCount);
     }
@@ -210,7 +217,7 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
 
     public void parse(final File file) throws ParserConfigurationException,
         SAXException, IOException {
-      final SAXParser parser = SAXParserFactory.newInstance().newSAXParser();
+      final SAXParser parser = SAXParserFactoryImpl.newInstance().newSAXParser();
       parser.parse(file, this);
     }
 

@@ -1,4 +1,7 @@
-change sorting to put your locale first
+get rid of Appendix:....  sections from EN.data in split.
+
+
+
 fix update screen.
 
 download latest wiktionaries
@@ -123,4 +126,5 @@ fix up dictionary manager:
   thread that handles unzipping, downloading for the life of the application (so screen changes don't screw it up).
   check over UI.
 * multi word search
+change sorting to put your locale first
   

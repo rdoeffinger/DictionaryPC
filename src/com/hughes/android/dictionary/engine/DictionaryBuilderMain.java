@@ -32,7 +32,7 @@ public class DictionaryBuilderMain extends TestCase {
   static final String STOPLISTS = "data/inputs/stoplists/";
   static final String OUTPUTS = "data/outputs/";  
     
-  public static <E> void main(final String[] args) throws Exception {
+  public static void main(final String[] args) throws Exception {
     
     // Builds all the dictionaries it can, outputs list to a text file.
     

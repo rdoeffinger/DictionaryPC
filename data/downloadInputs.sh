@@ -8,12 +8,10 @@ echo "Note that unzipping is slow."
 
 L=en
 echo "Downloading from: http://dumps.wikimedia.org/${L}wiktionary/"
-WIKI=${L}wiktionary-20120505-pages-articles.xml
-curl --remote-name http://dumps.wikimedia.org/${L}wiktionary/20120505/${WIKI}.bz2
+WIKI=${L}wiktionary-20120714-pages-articles.xml
+curl --remote-name http://dumps.wikimedia.org/${L}wiktionary/20120714/${WIKI}.bz2
 bunzip2 ${WIKI}.bz2
 mv ${WIKI} inputs/${L}wiktionary-pages-articles.xml
-
-exit
 
 echo "Downloading from: http://ftp.tu-chemnitz.de/pub/Local/urz/ding/de-en-devel/"
 CHEMNITZ=de-en.txt
@@ -23,29 +21,29 @@ mv ${CHEMNITZ} inputs/
 
 L=fr
 echo "Downloading from: http://dumps.wikimedia.org/${L}wiktionary/"
-WIKI=${L}wiktionary-20120106-pages-articles.xml
-curl --remote-name http://dumps.wikimedia.org/${L}wiktionary/20120106/${WIKI}.bz2
+WIKI=${L}wiktionary-20120719-pages-articles.xml
+curl --remote-name http://dumps.wikimedia.org/${L}wiktionary/20120719/${WIKI}.bz2
 bunzip2 ${WIKI}.bz2
 mv ${WIKI} inputs/${L}wiktionary-pages-articles.xml
 
 L=it
 echo "Downloading from: http://dumps.wikimedia.org/${L}wiktionary/"
-WIKI=${L}wiktionary-20120110-pages-articles.xml
-curl --remote-name http://dumps.wikimedia.org/${L}wiktionary/20120110/${WIKI}.bz2
+WIKI=${L}wiktionary-20120720-pages-articles.xml
+curl --remote-name http://dumps.wikimedia.org/${L}wiktionary/20120720/${WIKI}.bz2
 bunzip2 ${WIKI}.bz2
 mv ${WIKI} inputs/${L}wiktionary-pages-articles.xml
 
 L=de
 echo "Downloading from: http://dumps.wikimedia.org/${L}wiktionary/"
-WIKI=${L}wiktionary-20120111-pages-articles.xml
-curl --remote-name http://dumps.wikimedia.org/${L}wiktionary/20120111/${WIKI}.bz2
+WIKI=${L}wiktionary-20120714-pages-articles.xml
+curl --remote-name http://dumps.wikimedia.org/${L}wiktionary/20120714/${WIKI}.bz2
 bunzip2 ${WIKI}.bz2
 mv ${WIKI} inputs/${L}wiktionary-pages-articles.xml
 
 L=es
 echo "Downloading from: http://dumps.wikimedia.org/${L}wiktionary/"
-WIKI=${L}wiktionary-20120108-pages-articles.xml
-curl --remote-name http://dumps.wikimedia.org/${L}wiktionary/20120108/${WIKI}.bz2
+WIKI=${L}wiktionary-20120718-pages-articles.xml
+curl --remote-name http://dumps.wikimedia.org/${L}wiktionary/20120718/${WIKI}.bz2
 bunzip2 ${WIKI}.bz2
 mv ${WIKI} inputs/${L}wiktionary-pages-articles.xml
 

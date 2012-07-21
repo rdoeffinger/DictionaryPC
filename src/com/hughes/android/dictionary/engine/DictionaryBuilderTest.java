@@ -21,6 +21,7 @@ import java.io.PrintStream;
 import java.io.RandomAccessFile;
 
 import com.hughes.android.dictionary.parser.wiktionary.EnTranslationToTranslationParser;
+import com.hughes.android.dictionary.parser.wiktionary.WholeSectionToHtmlParser;
 import com.hughes.util.FileUtil;
 
 import junit.framework.TestCase;
@@ -61,6 +62,40 @@ public class DictionaryBuilderTest extends TestCase {
         "--print=" + result.getPath() + ".text",
     });
     
+    checkGolden(name, result); 
+  }
+
+  public void testWiktionary_WholeSection_DE() throws Exception {
+    wiktionaryTestWithWholeSectionToHtml("wiktionary.WholeSection.DE.quickdic", "DE");
+  }
+
+  public void testWiktionary_WholeSection_EN() throws Exception {
+    wiktionaryTestWithWholeSectionToHtml("wiktionary.WholeSection.EN.quickdic", "EN");
+  }
+
+  public void testWiktionary_WholeSection_IT() throws Exception {
+    wiktionaryTestWithWholeSectionToHtml("wiktionary.WholeSection.IT.quickdic", "IT");
+  }
+
+  public void wiktionaryTestWithWholeSectionToHtml(final String name, final String langCode) throws Exception {
+    final File result = new File(TEST_OUTPUTS + name);
+    System.out.println("Writing to: " + result);
+    DictionaryBuilder.main(new String[] {
+        "--dictOut=" + result.getAbsolutePath(),
+        "--lang1=" + langCode,
+        "--lang2=" + "EN",
+        "--lang1Stoplist=" + STOPLISTS + "empty.txt",
+        "--lang2Stoplist=" + STOPLISTS + "empty.txt",
+        "--dictInfo=SomeWikiDataWholeSection",
+
+        "--input4=" + WIKISPLIT + langCode + ".data",
+        "--input4Name=" + name,
+        "--input4Format=" + WholeSectionToHtmlParser.NAME,
+        "--input4TitleIndex=" + "1",
+        "--input4PageLimit=100",
+
+        "--print=" + result.getPath() + ".text",
+    });
     checkGolden(name, result); 
   }
 

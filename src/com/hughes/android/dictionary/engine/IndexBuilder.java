@@ -77,7 +77,7 @@ public class IndexBuilder {
             assert indexedEntry.index() >= 0;
           }
           if (tokenIndexedEntries.add(indexedEntry)) {
-            rows.add(new PairEntry.Row(indexedEntry.index(), rows.size(), index));
+            rows.add(indexedEntry.entry.CreateRow(indexedEntry.index(), rows.size(), index));
             ++indexedEntry.entry.entrySource.numEntries;
             ++numRows;
             
