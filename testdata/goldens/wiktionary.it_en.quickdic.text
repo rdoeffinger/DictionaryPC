@@ -1,9 +1,9 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.english 3488
+EntrySource: enwiktionary.english 3507
 
 Index: IT IT->EN
 ===15===
-  (periodo di) due settimane ; quindicina {f} (actually 15 days) :: fortnight (period of two weeks) (noun)
+  (periodo di) due settimane ; quindicina {f} (actually 15 days) :: fortnight (period of two weeks) (adverb)
 ===3===
   dieci {m} (1,2,3) :: ten (the number following nine) (noun)
 ***a***
@@ -20,7 +20,7 @@ Index: IT IT->EN
 ***abate***
   abate :: abbot (superior or head of an abbey or monastery) (noun)
 ***abbandonare***
-  abbandonare, lasciare, mollare :: abandon (to give up) (verb)
+  abbandonare :: abandon (to give up) (verb)
   abbandonare :: abandon (to leave behind or desert) (verb)
 ***abbandonato***
   abbandonato :: abandoned (forsaken, deserted) (adjective)
@@ -33,6 +33,9 @@ Index: IT IT->EN
 ***abbazia***
   abbazia {f} :: abbey (monastery headed by an abbot) (noun)
   abbazia {f} :: abbey (church of a monastery) (noun)
+***abbietto***
+  abbietto :: abject (Sunk to a low condition; down in spirit or hope) (adjective)
+  abbietto :: abject (A person in the lowest and most despicable condition) (noun)
 ===abbondante===
   abbondare, essere abbondante :: abound (to be plentiful) (verb)
   abbondare, essere abbondante :: abound (to be copiously supplied) (verb)
@@ -62,7 +65,7 @@ Index: IT IT->EN
   abduzione {f} :: abduction (physiology: movement separating limb from axis) (noun)
   abduzione {f} :: abduction (logic: syllogism) (noun)
 ***abecedariano***
-  abecedariano :: abecedarian ( a member of a XVI° century sect) (noun)
+  abecedariano :: abecedarian (member of a 16th-century sect) (noun)
 ***abelmosco***
   abelmosco {m} :: abelmosk (evergreen shrub) (noun)
 ***aberrante***
@@ -162,14 +165,14 @@ Index: IT IT->EN
   acido {m} :: acid (in chemistry) (noun)
   acido {m}, acido lisergico {m} :: acid (LSD) (noun)
 ===actually===
-  (periodo di) due settimane ; quindicina {f} (actually 15 days) :: fortnight (period of two weeks) (noun)
+  (periodo di) due settimane ; quindicina {f} (actually 15 days) :: fortnight (period of two weeks) (adverb)
 ***addestrare***
   addestrare, allenare, acclimatare :: season (to make fit for any use by time or habit) (verb)
 ***addome***
   addome {m} :: abdomen (belly) (noun)
 ***addominale***
   addominale :: abdominal (of or pertaining to the abdomen) (adjective)
-===affiancato===
+***affiancato***
   affiancato, di pari passo :: abreast (side by side) (adverb)
 ***affusto***
   affusto {m} :: stock (part of gun) (noun)
@@ -218,7 +221,7 @@ Index: IT IT->EN
   anno {m} :: year (a Julian year) (noun)
   anno {m} :: year (a level or grade at school or college) (noun)
 ***anomalia***
-  anomalia :: abnormality (state of being abnormal) (noun)
+  anomalia {f} :: abnormality (state of being abnormal) (noun)
 ***anomalo***
   anormale, anomalo :: abnormal (not conforming to rule or system) (adjective)
   anormale, anomalo :: abnormal (of or pertaining to behaviour that deviates from norms) (adjective)
@@ -390,7 +393,7 @@ Index: IT IT->EN
   calendario {m} :: calendar (a list of planned events) (noun)
 ***cane***
   cane {m} :: dog (animal) (noun)
-  cane {m} :: dog (male dog) (noun)
+  cane {m} :: dog (male canine) (noun)
   cane {m} :: dog (morally reprehensible person, See also scoundrel) (noun)
 ***canile***
   canile {m}, recinto :: pound (place for the detention of stray animals) (noun)
@@ -413,6 +416,8 @@ Index: IT IT->EN
   carne {f} :: meat (animal flesh used as food) (noun)
   carne {f} :: meat (type of meat) (noun)
   carne {f} :: meat (any sort of flesh) (noun)
+***castano***
+  marrone, castano :: brown (colour) (noun)
 ***casualmente***
   casualmente, accidentalmente :: accidentally (unexpectedly, unintentionally) (adverb)
 ===catinelle===
@@ -532,7 +537,7 @@ Index: IT IT->EN
 ***dattero***
   dattero {m} :: date (fruit of the date palm) (noun)
 ===days===
-  (periodo di) due settimane ; quindicina {f} (actually 15 days) :: fortnight (period of two weeks) (noun)
+  (periodo di) due settimane ; quindicina {f} (actually 15 days) :: fortnight (period of two weeks) (adverb)
 ***debito***
   debito {m} :: debt (action, state of mind, or object one has an obligation to perform for another) (noun)
   debito {m} :: debt (state or condition of owing something to another) (noun)
@@ -583,8 +588,8 @@ Index: IT IT->EN
   dicembre {m} :: December (twelfth month of the Gregorian calendar) (proper noun)
 ***dieci***
   dieci :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
-  moneta di dieci dollari :: eagle (A gold coin with a face value of $10.00) (noun)
   dieci {m} (1,2,3) :: ten (the number following nine) (noun)
+  moneta di dieci dollari :: eagle (A gold coin with a face value of $10.00) (noun)
 ***dietro***
   dietro, di dietro :: aback (in the rear) (adverb)
 ***dimorare***
@@ -621,7 +626,7 @@ Index: IT IT->EN
 ***due***
   due :: two (one plus one) (cardinal number)
   due {m} or {p} :: two (digit or figure) (noun)
-  (periodo di) due settimane ; quindicina {f} (actually 15 days) :: fortnight (period of two weeks) (noun)
+  (periodo di) due settimane ; quindicina {f} (actually 15 days) :: fortnight (period of two weeks) (adverb)
   biglietto da due dollari {m}, bancanota da due dollari {f} :: two (two-dollar bill) (noun)
 ***è***
   è, sta :: is (verb)
@@ -692,9 +697,9 @@ Index: IT IT->EN
 ***febbraio***
   febbraio {m} :: February (second month of the Gregorian calendar) (proper noun)
 ***felina***
-  felino {m}, felina {f} :: cat (member of Felidae) (noun)
+  felino {m}, felina {f} :: cat (member of the family Felidae) (noun)
 ***felino***
-  felino {m}, felina {f} :: cat (member of Felidae) (noun)
+  felino {m}, felina {f} :: cat (member of the family Felidae) (noun)
 ***ferialità***
   ferialità {f} :: quotidian (quotidian, daily thing) (noun)
 ***fermare***
@@ -876,8 +881,6 @@ Index: IT IT->EN
   il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used as an alternative to a possessive pronoun before body parts) (article)
   il {m}, lo {m}, la {f}; i {m|p}, gli {m|p}, le {f|p} :: the (with a superlative) (article)
   il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used with the name of a member of a class to refer to all things in that class) (article)
-***lasciare***
-  abbandonare, lasciare, mollare :: abandon (to give up) (verb)
 ***latrina***
   cesso {m}, latrina {f} :: can (toilet) (noun)
 ===latter===
@@ -961,6 +964,8 @@ Index: IT IT->EN
   marcia {f} :: march (steady forward movement or progression) (noun)
 ***marciare***
   marciare :: march (walk with long, regular strides) (verb)
+***marrone***
+  marrone, castano :: brown (colour) (noun)
 ***martedì***
   martedì {m} :: Tuesday (day of the week) (noun)
 ***martellio***
@@ -992,8 +997,8 @@ Index: IT IT->EN
 ***Messico***
   Messico {m} :: Mexico (country) (proper noun)
 ***metrica***
-  metrica {f} :: metric (measure) (noun)
-  metrica {f} :: metric (mathematics) (noun)
+  metrica {f} :: metric (measure for something) (noun)
+  metrica {f} :: metric (notion in mathematics) (noun)
 ***metrico***
   metrico :: metric (relating to metric system) (adjective)
   metrico :: metric (relating to musical meter) (adjective)
@@ -1019,8 +1024,6 @@ Index: IT IT->EN
   minuziosamente, accuratamente :: accurately (exactly, precisely) (adverb)
 ***molla***
   molla {f} :: spring (device made of flexible material) (noun)
-***mollare***
-  abbandonare, lasciare, mollare :: abandon (to give up) (verb)
 ***momento***
   attimo {m}, momento {m}, :: minute (short but unspecified period of time) (noun)
   secondo {m}, attimo {m}, momento {m} :: second (short, indeterminate amount of time) (noun)
@@ -1170,7 +1173,7 @@ Index: IT IT->EN
 ***perché***
   perché :: because (by or for the cause that; on this account that; for the reason that) (conjunction)
 ===periodo===
-  (periodo di) due settimane ; quindicina {f} (actually 15 days) :: fortnight (period of two weeks) (noun)
+  (periodo di) due settimane ; quindicina {f} (actually 15 days) :: fortnight (period of two weeks) (adverb)
 ***peto***
   scoreggia {f}, peto {m} :: fart (an emission of flatulent gases) (noun)
   scoreggiare, fare un peto :: fart (to emit flatulent gases) (verb)
@@ -1204,17 +1207,17 @@ Index: IT IT->EN
   plurale :: plural (more than one) (adjective)
   plurale {m} :: plural (word in plural form) (noun)
 ***poca***
-  poco {m}, poca {f} :: bit (small piece) (noun)
+  poco {m}, poca {f} :: bit (small amount of something) (noun)
 ***pochi***
   pochi :: few (small number) (determiner)
 ***poco***
   poco :: few (indefinite, usually small number) (determiner)
-  poco {m}, poca {f} :: bit (small piece) (noun)
+  poco {m}, poca {f} :: bit (small amount of something) (noun)
 ***polacco***
   polacco :: Polish (of Poland or its language) (adjective)
   polacco {m} :: Polish (the language of Poland) (proper noun)
 ***politeismo***
-  politeismo :: polytheism (belief of existence of many gods) (noun)
+  politeismo :: polytheism (belief in the existence of many gods) (noun)
 ***polpa***
   polpa :: meat (solid edible part of a plant) (noun)
 ***polverizzare***
@@ -1298,7 +1301,7 @@ Index: IT IT->EN
 ***quattro***
   quattro {m} :: four (the cardinal number 4) (cardinal number)
 ***quindicina***
-  (periodo di) due settimane ; quindicina {f} (actually 15 days) :: fortnight (period of two weeks) (noun)
+  (periodo di) due settimane ; quindicina {f} (actually 15 days) :: fortnight (period of two weeks) (adverb)
 ***quiz***
   quiz {m} :: quiz (competition in the answering of questions) (noun)
 ***quotidiano***
@@ -1427,7 +1430,7 @@ Index: IT IT->EN
 ***settimana***
   settimana {f} :: week (period of seven days) (noun)
 ===settimane===
-  (periodo di) due settimane ; quindicina {f} (actually 15 days) :: fortnight (period of two weeks) (noun)
+  (periodo di) due settimane ; quindicina {f} (actually 15 days) :: fortnight (period of two weeks) (adverb)
 ===shit===
   figlio di puttana (son of a bitch), pezzo di merda (piece of shit) :: motherfucker (generic term of abuse) (noun)
 ===significato===
@@ -1677,6 +1680,8 @@ Index: EN EN->IT
   trilione :: trillion (a million million, 10<sup>12</sup>) (cardinal number)
 ===16===
   libbra {f} :: pound (unit of mass (16 ounces avoirdupois)) (noun)
+===16th===
+  abecedariano :: abecedarian (member of a 16th-century sect) (noun)
 ===24===
   giorno {m} :: day (period of 24 hours) (noun)
 ===25===
@@ -1710,7 +1715,7 @@ Index: EN EN->IT
 ***abalone***
   abalone :: abalone (edible univalve mollusc) (noun)
 ***abandon***
-  abbandonare, lasciare, mollare :: abandon (to give up) (verb)
+  abbandonare :: abandon (to give up) (verb)
   abbandonare :: abandon (to leave behind or desert) (verb)
   bandire :: abandon (to cast out) (verb)
   abbandono {m} :: abandon (a giving up to natural impulses) (noun)
@@ -1778,7 +1783,7 @@ Index: EN EN->IT
   rapimento {m} :: abduction (law: carrying off of a human being) (noun)
   abduzione {f} :: abduction (logic: syllogism) (noun)
 ***abecedarian***
-  abecedariano :: abecedarian ( a member of a XVI° century sect) (noun)
+  abecedariano :: abecedarian (member of a 16th-century sect) (noun)
 ***abelmosk***
   abelmosco {m} :: abelmosk (evergreen shrub) (noun)
 ***aberrant***
@@ -1811,6 +1816,9 @@ Index: EN EN->IT
   abilità {f} :: ability (quality or state of being able) (noun)
   capacità {f} :: ability (a skill or competence) (noun)
   abilmente :: ably (with great ability) (adverb)
+***abject***
+  abbietto :: abject (Sunk to a low condition; down in spirit or hope) (adjective)
+  abbietto :: abject (A person in the lowest and most despicable condition) (noun)
 ***abjure***
   abiurare :: abjure (to renounce upon oath) (verb)
   abiurare :: abjure (to renounce with solemnity) (verb)
@@ -1832,10 +1840,10 @@ Index: EN EN->IT
   anormale, anomalo :: abnormal (not conforming to rule or system) (adjective)
   anormale, anomalo :: abnormal (of or pertaining to behaviour that deviates from norms) (adjective)
   aberrante :: aberrant (deviating from the ordinary or natural type; exceptional; abnormal) (adjective)
-  anomalia :: abnormality (state of being abnormal) (noun)
+  anomalia {f} :: abnormality (state of being abnormal) (noun)
   anormalmente :: abnormally (In an abnormal manner) (adverb)
 ***abnormality***
-  anomalia :: abnormality (state of being abnormal) (noun)
+  anomalia {f} :: abnormality (state of being abnormal) (noun)
 ***abnormally***
   anormalmente :: abnormally (In an abnormal manner) (adverb)
 ***aboard***
@@ -2098,6 +2106,7 @@ Index: EN EN->IT
   prodotto {m} :: product (amount created by a process) (noun)
   ammontare :: number (to total; to amount to) (verb)
   secondo {m}, attimo {m}, momento {m} :: second (short, indeterminate amount of time) (noun)
+  poco {m}, poca {f} :: bit (small amount of something) (noun)
 ===An===
   elogio {m} :: accolade (An expression of approval; praise) (noun)
 ===anchor===
@@ -2279,7 +2288,7 @@ Index: EN EN->IT
 ===behind===
   abbandonare :: abandon (to leave behind or desert) (verb)
 ===belief===
-  politeismo :: polytheism (belief of existence of many gods) (noun)
+  politeismo :: polytheism (belief in the existence of many gods) (noun)
   dottrina {f} :: doctrine (belief) (noun)
 ===beliefs===
   dottrina {f} :: doctrine (body of beliefs or teachings) (noun)
@@ -2307,7 +2316,7 @@ Index: EN EN->IT
   abortivo {m} :: abortion (immature product of an untimely birth) (noun)
 ***bit***
   morso {m}, freno :: bit (metal in horse's mouth) (noun)
-  poco {m}, poca {f} :: bit (small piece) (noun)
+  poco {m}, poca {f} :: bit (small amount of something) (noun)
 ===biting===
   acido {m} :: acid (sour, sharp, or biting to the taste) (adjective)
 ===bits===
@@ -2359,6 +2368,7 @@ Index: EN EN->IT
 ===boxing===
   padrino {m}, secondo {m} :: second (attendant of a duel or boxing match standing in for a contestant) (noun)
 ***brown***
+  marrone, castano :: brown (colour) (noun)
   rosolare :: brown (to cook until brown) (verb)
 ===bush===
   biancospino {m} :: may (the hawthorn bush or its blossom) (noun)
@@ -2401,6 +2411,8 @@ Index: EN EN->IT
   licenziare :: can (to fire or dismiss an employee) (verb)
 ===canal===
   bacino idrico :: pound (part of canal) (noun)
+===canine===
+  cane {m} :: dog (male canine) (noun)
 ===canister===
   scatoletta {f} :: can (a tin-plate canister) (noun)
 ===cannot===
@@ -2444,7 +2456,7 @@ Index: EN EN->IT
   bandire :: abandon (to cast out) (verb)
 ***cat***
   gatto {m}, gatta {f}, micio {m}, micia {f} :: cat (domestic species) (noun)
-  felino {m}, felina {f} :: cat (member of Felidae) (noun)
+  felino {m}, felina {f} :: cat (member of the family Felidae) (noun)
   caponare :: cat (raise anchor to cathead) (verb)
 ===category===
   sostantivo {m}, nome {m} :: noun (grammatical category) (noun)
@@ -2468,7 +2480,7 @@ Index: EN EN->IT
   secolo {m} :: century (100 years) (noun)
   centuria {f} :: century (Roman army type unit) (noun)
   centuria {f} :: century (political division of Rome) (noun)
-  abecedariano :: abecedarian ( a member of a XVI° century sect) (noun)
+  abecedariano :: abecedarian (member of a 16th-century sect) (noun)
 ===certainly===
   forse, può essere che + subjunctive; He may be lying — Forse sta mentendo, Può essere che stia mentendo :: may (possibly, but not certainly) (verb)
   assolutamente :: absolutely (yes; certainly) (interjection)
@@ -2550,6 +2562,7 @@ Index: EN EN->IT
   arrossire, colorire :: color (become red through increased blood flow) (verb)
   corvino :: raven (of the color of the raven; jet-black) (adjective)
 ===colour===
+  marrone, castano :: brown (colour) (noun)
   osseo {m} :: bone (colour) (noun)
   arancione {m} :: orange (colour) (noun)
   arancione, arancio :: orange (colour) (adjective)
@@ -2618,6 +2631,8 @@ Index: EN EN->IT
 ===concurrence===
   accordo {m} :: accord (agreement or concurrence of opinion) (noun)
 ===condition===
+  abbietto :: abject (Sunk to a low condition; down in spirit or hope) (adjective)
+  abbietto :: abject (A person in the lowest and most despicable condition) (noun)
   debito {m} :: debt (state or condition of owing something to another) (noun)
   firmamento {m} :: sky (specific view, condition) (noun)
 ===conferring===
@@ -2833,6 +2848,8 @@ Index: EN EN->IT
   abbandonato :: abandoned (forsaken, deserted) (adjective)
 ===designate===
   nominare :: name (to designate for a role) (verb)
+===despicable===
+  abbietto :: abject (A person in the lowest and most despicable condition) (noun)
 ===detail===
   definizione {f}, definitezza {f} :: definition (clarity of visual presentation, distinctness of outline or detail) (noun)
 ===detention===
@@ -2935,7 +2952,7 @@ Index: EN EN->IT
   dottrina {f} :: doctrine (body of beliefs or teachings) (noun)
 ***dog***
   cane {m} :: dog (animal) (noun)
-  cane {m} :: dog (male dog) (noun)
+  cane {m} :: dog (male canine) (noun)
   cane {m} :: dog (morally reprehensible person, See also scoundrel) (noun)
 ===dogs===
   piovere a catinelle :: rain cats and dogs (to rain very heavily) (verb)
@@ -2949,6 +2966,8 @@ Index: EN EN->IT
   d.C. (dopo Cristo) :: AD (anno Domini) ({{initialism}})
 ===done===
   seconda chance {f}, seconda possibilità {f} :: second (another chance to achieve what should have been done the first time) (noun)
+===down===
+  abbietto :: abject (Sunk to a low condition; down in spirit or hope) (adjective)
 ===draw===
   abdurre :: abduct (to draw away from its ordinary position) (verb)
   colorare :: color (draw using crayons) (verb)
@@ -3095,7 +3114,7 @@ Index: EN EN->IT
 ===exist===
   essere :: be (exist) (verb)
 ===existence===
-  politeismo :: polytheism (belief of existence of many gods) (noun)
+  politeismo :: polytheism (belief in the existence of many gods) (noun)
 ===existing===
   assente :: absent (not existing) (adjective)
 ===explaining===
@@ -3124,6 +3143,7 @@ Index: EN EN->IT
 ===false===
   falso amico {m} :: false friend (false friend) (noun)
 ===family===
+  felino {m}, felina {f} :: cat (member of the family Felidae) (noun)
   aquila {f} :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
   lenticchia {f} :: lens (biology: genus of the legume family; its bean) (noun)
   merluzzo {m} :: cod (marine fish of the family Gadidae) (noun)
@@ -3141,7 +3161,7 @@ Index: EN EN->IT
 ===feeling===
   ti amo (informal singular), vi amo (plural or formal) :: I love you (affirmation of romantic feeling) (phrase)
 ===Felidae===
-  felino {m}, felina {f} :: cat (member of Felidae) (noun)
+  felino {m}, felina {f} :: cat (member of the family Felidae) (noun)
 ===female===
   badessa :: abbess (female superior of a nunnery) (noun)
 ***few***
@@ -3230,7 +3250,7 @@ Index: EN EN->IT
 ===fortified===
   porto {m} :: port (fortified wine) (noun)
 ***fortnight***
-  (periodo di) due settimane ; quindicina {f} (actually 15 days) :: fortnight (period of two weeks) (noun)
+  (periodo di) due settimane ; quindicina {f} (actually 15 days) :: fortnight (period of two weeks) (adverb)
 ===forward===
   marcia {f} :: march (steady forward movement or progression) (noun)
 ***four***
@@ -3318,7 +3338,7 @@ Index: EN EN->IT
   tedesco {m} :: German (of or relating to the country of Germany) (adjective)
 ===give===
   nomare :: name (to give a name to) (verb)
-  abbandonare, lasciare, mollare :: abandon (to give up) (verb)
+  abbandonare :: abandon (to give up) (verb)
   assolvere :: absolve (pronounce free or give absolution) (verb)
   assolvere :: absolve (theology: pronounce free or give absolution from sin) (verb)
   colorare, colorire :: color (give something color) (verb)
@@ -3338,7 +3358,7 @@ Index: EN EN->IT
 ===God===
   parola {f}, verbo {m} :: word (the word of God) (noun)
 ===gods===
-  politeismo :: polytheism (belief of existence of many gods) (noun)
+  politeismo :: polytheism (belief in the existence of many gods) (noun)
 ===gold===
   moneta di dieci dollari :: eagle (A gold coin with a face value of $10.00) (noun)
 ===good===
@@ -3479,6 +3499,8 @@ Index: EN EN->IT
   etimologia {f} :: etymology (account of the origin and historical development of a word) (noun)
 ===holder===
   abdicazione {f} :: abdication (the act of abdicating; the renunciation of a high office, dignity, or trust, by its holder) (noun)
+===hope===
+  abbietto :: abject (Sunk to a low condition; down in spirit or hope) (adjective)
 ===horse===
   morso {m}, freno :: bit (metal in horse's mouth) (noun)
 ===hottest===
@@ -3755,7 +3777,10 @@ Index: EN EN->IT
   Ti voglio bene (singular informal), Vi voglio bene (plural or formal) :: I love you (platonic expression of inclination or liking) (phrase)
 ===lover===
   appuntamento {m} :: date (meeting with a lover or potential lover; a person so met) (noun)
+===low===
+  abbietto :: abject (Sunk to a low condition; down in spirit or hope) (adjective)
 ===lowest===
+  abbietto :: abject (A person in the lowest and most despicable condition) (noun)
   inverno {m} :: winter (fourth season, marked by short days and lowest temperatures) (noun)
 ===LSD===
   acido {m}, acido lisergico {m} :: acid (LSD) (noun)
@@ -3779,7 +3804,7 @@ Index: EN EN->IT
 ===making===
   livello di definizione :: definition (action or power of describing, explaining, or making definite) (noun)
 ===male===
-  cane {m} :: dog (male dog) (noun)
+  cane {m} :: dog (male canine) (noun)
   Fabiano :: Fabian (male given name) (proper noun)
   uomo {m} :: man (adult male human) (noun)
   sborra {f} :: cum (slang: male semen) (noun)
@@ -3800,7 +3825,7 @@ Index: EN EN->IT
 ===manufactured===
   seconda scelta {f} :: second (manufactured item that fails to meet quality control standards) (noun)
 ===many===
-  politeismo :: polytheism (belief of existence of many gods) (noun)
+  politeismo :: polytheism (belief in the existence of many gods) (noun)
   innumerevole, incalcolabile :: uncountable (too many to be counted) (adjective)
 ***march***
   marcia {f} :: march (formal, rhythmic way of walking) (noun)
@@ -3836,7 +3861,7 @@ Index: EN EN->IT
 ===mathematical===
   numero {m} :: number (mathematical number) (noun)
 ===mathematics===
-  metrica {f} :: metric (mathematics) (noun)
+  metrica {f} :: metric (notion in mathematics) (noun)
   non numerabile :: uncountable (mathematics: incapable of being enumerated by natural numbers) (adjective)
 ===matter===
   qualunque, qualsiasi, qualsivoglia :: whatever (no matter which; for any) (determiner)
@@ -3863,7 +3888,7 @@ Index: EN EN->IT
   secondo {m} :: second (unit of angular measure) (noun)
   orologio {m} :: clock (instrument to measure or keep track of time) (noun)
   cronometrare :: clock (measure the duration of) (verb)
-  metrica {f} :: metric (measure) (noun)
+  metrica {f} :: metric (measure for something) (noun)
 ***meat***
   carne {f} :: meat (animal flesh used as food) (noun)
   carne {f} :: meat (type of meat) (noun)
@@ -3881,9 +3906,9 @@ Index: EN EN->IT
   incontro {m}, appuntamento {m} (the latter also as romantic meeting) :: date (pre-arranged social meeting) (noun)
   appuntamento {m} :: date (meeting with a lover or potential lover; a person so met) (noun)
 ===member===
-  felino {m}, felina {f} :: cat (member of Felidae) (noun)
+  felino {m}, felina {f} :: cat (member of the family Felidae) (noun)
   abaco {m} :: abacus (uppermost member of the capital of a column) (noun)
-  abecedariano :: abecedarian ( a member of a XVI° century sect) (noun)
+  abecedariano :: abecedarian (member of a 16th-century sect) (noun)
   il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used with the name of a member of a class to refer to all things in that class) (article)
   accademico {m} :: academian (member of an academy) (noun)
 ===mention===
@@ -3903,8 +3928,8 @@ Index: EN EN->IT
 ***metric***
   metrico :: metric (relating to metric system) (adjective)
   metrico :: metric (relating to musical meter) (adjective)
-  metrica {f} :: metric (measure) (noun)
-  metrica {f} :: metric (mathematics) (noun)
+  metrica {f} :: metric (measure for something) (noun)
+  metrica {f} :: metric (notion in mathematics) (noun)
 ***Mexico***
   Messico {m} :: Mexico (country) (proper noun)
 ***millennium***
@@ -3969,6 +3994,8 @@ Index: EN EN->IT
   lattina {f} :: can (a more or less cylindrical vessel for liquids) (noun)
 ***morpheme***
   morfema {m} :: morpheme (smallest linguistic unit) (noun)
+===most===
+  abbietto :: abject (A person in the lowest and most despicable condition) (noun)
 ***motherfucker***
   figlio di puttana (son of a bitch), pezzo di merda (piece of shit) :: motherfucker (generic term of abuse) (noun)
 ===mouth===
@@ -4081,6 +4108,8 @@ Index: EN EN->IT
   zero {m} :: zero (cardinal number before 1, denoting nothing) (cardinal number)
 ===notice===
   brusco, brusca :: abrupt (without notice) (adjective)
+===notion===
+  metrica {f} :: metric (notion in mathematics) (noun)
 ***noun***
   sostantivo {m}, nome {m} :: noun (grammatical category) (noun)
   nome proprio :: proper noun (The name of a particular person, place, organization or other individual entity) (noun)
@@ -4325,7 +4354,7 @@ Index: EN EN->IT
   settimana {f} :: week (period of seven days) (noun)
   trimestre {m} :: quarter (period of three months) (noun)
   decennio {m}, decade {f} :: decade (a period of ten years) (noun)
-  (periodo di) due settimane ; quindicina {f} (actually 15 days) :: fortnight (period of two weeks) (noun)
+  (periodo di) due settimane ; quindicina {f} (actually 15 days) :: fortnight (period of two weeks) (adverb)
   anno {m} :: year (a period between set dates that mark a year) (noun)
 ===periodical===
   aberrazione {f} :: aberration (astronomy: small periodical change of position of heavenly bodies) (noun)
@@ -4355,7 +4384,6 @@ Index: EN EN->IT
   pasticcio {m} :: pie (other, nonpastry dishes that maintain the general concept of a shell with a filling) (noun)
   pasticcio {m}, confusione {f} :: pie (printing: disorderly mess of spilt type) (noun)
 ===piece===
-  poco {m}, poca {f} :: bit (small piece) (noun)
   pedina {f} :: man (piece in board games) (noun)
   aria {f} :: aria (type of musical piece) (noun)
 ===pieces===
@@ -4427,7 +4455,7 @@ Index: EN EN->IT
 ===polyhedron===
   dado {m} :: die (polyhedron used in games of chance) (noun)
 ***polytheism***
-  politeismo :: polytheism (belief of existence of many gods) (noun)
+  politeismo :: polytheism (belief in the existence of many gods) (noun)
 ***pond***
   stagno {m} :: pond (small lake) (noun)
 ===poor===
@@ -4777,7 +4805,7 @@ Index: EN EN->IT
   assecondare, secondare, appoggiare, sostenere :: second (to agree as a second person) (verb)
   padrino {m}, secondo {m} :: second (attendant of a duel or boxing match standing in for a contestant) (noun)
 ===sect===
-  abecedariano :: abecedarian ( a member of a XVI° century sect) (noun)
+  abecedariano :: abecedarian (member of a 16th-century sect) (noun)
 ===section===
   quartiere {m} :: quarter (section of a town) (noun)
 ===See===
@@ -4915,7 +4943,7 @@ Index: EN EN->IT
   achenio {m} :: achene (small dry fruit) (noun)
   poco :: few (indefinite, usually small number) (determiner)
   pochi :: few (small number) (determiner)
-  poco {m}, poca {f} :: bit (small piece) (noun)
+  poco {m}, poca {f} :: bit (small amount of something) (noun)
 ===smallest===
   morfema {m} :: morpheme (smallest linguistic unit) (noun)
 ===so===
@@ -4981,6 +5009,8 @@ Index: EN EN->IT
   pianeta {m} :: planet (rocky or gaseous spherical bodies orbiting the Sun) (noun)
 ===spilt===
   pasticcio {m}, confusione {f} :: pie (printing: disorderly mess of spilt type) (noun)
+===spirit===
+  abbietto :: abject (Sunk to a low condition; down in spirit or hope) (adjective)
 ***spring***
   saltare :: spring (jump or leap) (verb)
   primavera {f} :: spring (season) (noun)
@@ -5018,7 +5048,7 @@ Index: EN EN->IT
   riduzione :: abatement (the act of abating or the state of being abated) (noun)
   aberrazione {f} :: aberration (physiology: deviation from the normal state) (noun)
   abilità {f} :: ability (quality or state of being able) (noun)
-  anomalia :: abnormality (state of being abnormal) (noun)
+  anomalia {f} :: abnormality (state of being abnormal) (noun)
   discontinuo, discontinua, sconnesso, sconnessa :: abrupt (having sudden transitions from one state to next) (adjective)
   acceso :: on (in the state of being active, functioning or operating) (adjective)
   debito {m} :: debt (action, state of mind, or object one has an obligation to perform for another) (noun)
@@ -5103,6 +5133,8 @@ Index: EN EN->IT
   anno {m} :: year (time it takes for the Earth to complete one revolution of the Sun) (noun)
 ***Sunday***
   domenica {f} :: Sunday (day of the week) (noun)
+===Sunk===
+  abbietto :: abject (Sunk to a low condition; down in spirit or hope) (adjective)
 ===sunrise===
   di :: day (period between sunrise and sunset) (noun)
 ===sunset===
@@ -5324,7 +5356,7 @@ Index: EN EN->IT
   biglietto da due dollari {m}, bancanota da due dollari {f} :: two (two-dollar bill) (noun)
   ascissa {f} :: abscissa (first of two coordinates) (noun)
   dispari :: odd (not divisible by two) (adjective)
-  (periodo di) due settimane ; quindicina {f} (actually 15 days) :: fortnight (period of two weeks) (noun)
+  (periodo di) due settimane ; quindicina {f} (actually 15 days) :: fortnight (period of two weeks) (adverb)
 ===type===
   torta {f}, crostata {f} :: pie (type of pastry) (noun)
   pasticcio {m}, confusione {f} :: pie (printing: disorderly mess of spilt type) (noun)
@@ -5502,7 +5534,7 @@ Index: EN EN->IT
   sabato {m} :: Saturday (day of the week) (noun)
   domenica {f} :: Sunday (day of the week) (noun)
 ===weeks===
-  (periodo di) due settimane ; quindicina {f} (actually 15 days) :: fortnight (period of two weeks) (noun)
+  (periodo di) due settimane ; quindicina {f} (actually 15 days) :: fortnight (period of two weeks) (adverb)
 ===what===
   seconda chance {f}, seconda possibilità {f} :: second (another chance to achieve what should have been done the first time) (noun)
 ***whatever***
@@ -5588,8 +5620,6 @@ Index: EN EN->IT
   cinese tradizionale :: Traditional Chinese (Chinese written using traditional characters) (proper noun)
   cinese semplificato {m} :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
   lettera {f} :: letter (written message) (noun)
-===XVI===
-  abecedariano :: abecedarian ( a member of a XVI° century sect) (noun)
 ***year***
   anno {m} :: year (time it takes for the Earth to complete one revolution of the Sun) (noun)
   anno {m} :: year (time it takes for any planetary body to make one revolution around another body) (noun)

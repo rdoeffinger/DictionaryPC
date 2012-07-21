@@ -1,5 +1,5 @@
 dictInfo=SomeWikiDataWholeSection
-EntrySource: wiktionary.WholeSection.DE.quickdic 114
+EntrySource: wiktionary.WholeSection.DE.quickdic 108
 
 Index: DE DE->EN
 ***A***
@@ -14,6 +14,15 @@ A:
 
 # {{Latn-def|de|letter|1}}
 
+===Noun===
+{{de-noun|g=n|A's|A's}}
+
+# {{l|en|A}}
+#: Von '''A''' bis Z.
+#:: From '''A''' to Z.
+#: Wer '''A''' sagt, muss auch B sagen.
+#:: One who says '''A''' shall also say B.
+
 ----
 
 
@@ -21,7 +30,7 @@ A:
 ab-: 
 
 ===Pronunciation===
-* {{IPA|/ʔap/|lang=de}}
+* {{IPA|[ʔap]|lang=de}}
 
 ===Prefix===
 {{head|de|prefix}}
@@ -54,6 +63,7 @@ ab-:
 * [[abgeben]]
 * [[abhalten]]
 * [[abhängen]]
+* [[abklären]]
 * [[abkürzen]]
 * [[ablehnen]]
 * [[ableiten]]
@@ -66,8 +76,8 @@ ab-:
 * [[abschneiden]]
 * [[absetzen]]
 * [[abstammen]]
-* [[absteigen]]
 * [[abstehen]]
+* [[absteigen]]
 * [[abstellen]]
 * [[abwarten]]
 * [[abwechseln]]
@@ -140,7 +150,7 @@ abnormal:
 ===Adjective===
 {{de-adj|comparative=abnormaler|superlative=abnormalsten}}
 
-# [[#English|abnormal]]
+# {{l|en|abnormal}}
 
 [[am:abnormal]]
 [[ar:abnormal]]
@@ -164,6 +174,7 @@ abnormal:
 [[ml:abnormal]]
 [[ms:abnormal]]
 [[my:abnormal]]
+[[nl:abnormal]]
 [[ja:abnormal]]
 [[no:abnormal]]
 [[ps:abnormal]]
@@ -252,10 +263,11 @@ Andorra:
 ===Proper noun===
 {{head|de|proper noun|g=n}}
 
-# [[#English|Andorra]]
+# {{l|en|Andorra}}
 
 ====Derived terms====
-* [[Andorraner]] / [[Andorranerin]] / [[andorranisch]]
+* [[Andorraner]] / [[Andorranerin]]
+* [[andorranisch]]
 
 [[Category:de:Countries]]
 
@@ -2436,7 +2448,7 @@ Bahrain:
 ===Proper noun===
 {{head|de|proper noun}}
 
-# [[#English|Bahrain]]
+# {{l|en|Bahrain}}
 
 ====Related terms====
 * {{l|de|Bahrainer}}
@@ -2532,7 +2544,7 @@ Burundi:
 ===Proper noun===
 {{head|de|proper noun|g=n}}
 
-# [[#English|Burundi]]
+# {{l|en|Burundi}}
 
 [[Category:de:Countries]]
 
@@ -2565,7 +2577,7 @@ China:
 ===Proper noun===
 {{head|de|proper noun|g=n}}
 
-# [[#English|China]] (''the country'')
+# {{l|en|China}} {{gloss|country}}
 
 [[Category:de:Countries]]
 
@@ -2808,6 +2820,9 @@ A shortening of ''[[dieses]]''
 ***digital***
 digital: 
 
+===Pronunciation===
+* {{audio|De-at-digital.ogg|Audio (Austria)}}
+
 ===Adjective===
 {{de-adj|-}}
 
@@ -2820,6 +2835,9 @@ digital:
 ***Ecuador***
 Ecuador: 
 {{wikipedia|lang=de}}
+
+===Pronunciation===
+* {{rhymes|oːɐ̯|lang=de}}
 
 ===Proper noun===
 '''Ecuador''' {{n}}
@@ -3014,9 +3032,9 @@ Gambia:
 {{wikipedia|lang=de}}
 
 ===Proper noun===
-'''Gambia''' {{n}}
+{{head|de|proper noun|g=n}}
 
-# [[#English|Gambia]]
+# {{l|en|Gambia}}
 
 ====Derived terms====
 * [[Gambier]]
@@ -3024,7 +3042,6 @@ Gambia:
 * [[gambisch]]
 * [[Senegambia]]
 
-[[Category:German proper nouns]]
 [[Category:de:Countries]]
 
 ----
@@ -3096,7 +3113,7 @@ global:
 ===Adjective===
 {{de-adj|-}}
 
-# [[#English|global]] {{italbrac|worldwide}}
+# [[#English|global]] {{gloss|worldwide}}
 
 ====Synonyms====
 * {{sense|worldwide}} [[weltweit]]
@@ -3183,7 +3200,7 @@ Haiti:
 ===Proper noun===
 {{head|de|proper noun|g=n}}
 
-# [[#English|Haiti]]
+# {{l|en|Haiti}}
 
 ====Derived terms====
 * {{l|de|Haitianer}}
@@ -3348,10 +3365,13 @@ in:
 ***Iran***
 Iran: 
 
+===Pronunciation===
+* {{rhymes|aːn|lang=de}}
+
 ===Proper noun===
 {{head|de|proper noun|g=m}} (''[[genitive]]'' '''Irans''')
 
-# [[#English|Iran]]
+# {{l|en|Iran}}
 
 ===Usage notes===
 The article (''[[der]]'') is often used with the name of the country, thus one says ''er ist '''im''' Iran'' (''he is '''in''' Iran'') and not ''er ist '''in''' Iran''. However, one can say ''er ist in Irans Hauptstadt'', which has the same meaning as ''er ist in der Hauptstadt des Iran[s]'' &mdash; ''he is in the capital of Iran''. Similar examples: der: [[Irak#German|Irak]], [[Sudan#German|Sudan]], [[Kongo#German|Kongo]]; die: [[Türkei]], [[Schweiz#German|Schweiz]], [[Slowakei]].
@@ -3415,7 +3435,7 @@ Japan:
 ===Proper noun===
 {{head|de|proper noun|g=n}}
 
-# [[#English|Japan]]
+# {{l|en|Japan}}
 
 ===See also===
 * [[Japaner]]
@@ -3436,7 +3456,7 @@ Kiribati:
 ===Proper noun===
 {{head|de|proper noun|g=n}}
 
-# [[#English|Kiribati]]
+# {{l|en|Kiribati}}
 
 ====Derived terms====
 * {{l|de|kiribatisch}}
@@ -3500,6 +3520,9 @@ last:
 ***Liberia***
 Liberia: 
 {{wikipedia|lang=de}}
+
+===Pronunciation===
+* {{IPA|/liˈbeːʁia/|lang=de}}
 
 ===Proper noun===
 {{de-proper noun|g=n}}
@@ -5626,6 +5649,26 @@ The words from Swadesh's original 100-word list are designated by an asterisk (*
 |}
 
 
+***Malawi***
+Malawi: 
+{{wikipedia|lang=de}}
+
+===Proper noun===
+'''Malawi''' {{n}}
+
+# {{l|en|Malawi}}
+
+====Derived terms====
+* [[Malawier]]
+* [[Malawierin]]
+* [[malawisch]]
+
+[[Category:German proper nouns]]
+[[Category:de:Countries]]
+
+----
+
+
 ***Malaysia***
 Malaysia: 
 {{wikipedia|lang=de}}
@@ -5663,6 +5706,26 @@ Mali:
 ----
 
 
+***Malta***
+Malta: 
+{{wikipedia|lang=de}}
+
+===Proper noun===
+{{head|de|proper noun|g=n}}
+
+# {{l|en|Malta}}
+
+====Derived terms====
+* [[maltesisch]]
+* [[Malteser]]
+* [[Malteserin]]
+
+[[Category:de:Countries]]
+[[Category:de:Islands]]
+
+----
+
+
 ***man***
 man: 
 
@@ -5673,6 +5736,7 @@ From the same source as ''[[Mann]]'' ("adult male").<ref>Theo Stemmler: ''Wie da
 * {{IPA|[man]|lang=de}}
 * {{audio|De-at-man.ogg|audio (Austria)}}
 * {{homophones|Mann|lang=de}}
+* {{rhymes|an|lang=de}}
 
 ===Pronoun===
 {{head|de|indefinite pronoun}}
@@ -5681,7 +5745,7 @@ From the same source as ''[[Mann]]'' ("adult male").<ref>Theo Stemmler: ''Wie da
 #: ''was '''man''' sehen kann'' &mdash; what one can see
 #* '''2008''', Frank Behmeta, ''Wenn ich die Augen öffne'', page 55:
 #*: Kann '''man''' es fühlen, wenn '''man''' schwanger ist?
-#*:: If a person is pregnant, can he feel it?
+#*:: Can a person feel it when he is pregnant?
 
 ====Usage notes====
 * Because ''man'' derives from the word for a "man" (an adult male), its use, especially when writing about women, is considered sexist by some. Feminists have proposed alternating ''man'' and ''[[frau#German|frau]]''. Compare the use of ''[[she]]'' vs ''[[he]]'' in English to refer to someone whose gender is unknown.
@@ -5715,6 +5779,25 @@ From {{proto|Germanic|mann-|lang=goh}}.
 {{goh-noun|g=m}}
 
 # [[#English|man]]
+
+----
+
+
+***Mauritius***
+Mauritius: 
+{{wikipedia|lang=de}}
+
+===Proper noun===
+{{head|de|proper noun|g=n}}
+
+# {{l|en|Mauritius}}
+
+====Derived terms====
+* [[Mauritier]]
+* [[Mauritierin]]
+* [[mauritisch]]
+
+[[Category:de:Countries]]
 
 ----
 
@@ -5758,7 +5841,7 @@ nine:
 ===Cardinal number===
 {{head|gsw|cardinal number}}
 
-# {{context|Alsatian|lang=gsw}} [[nine]]
+# {{context|Alsatian|lang=gsw}} {{l|en|nine}}
 
 ----
 
@@ -5847,7 +5930,7 @@ Ultimately cognate to {{etyl|de|-}} [[und]].
 orange: 
 
 ===Etymology===
-From the noun {{term|Orange|lang=fr}}
+From the noun {{term|Orange|lang=de}}
 
 ===Pronunciation===
 * {{audio|De-orange.ogg|Audio}}
@@ -5858,6 +5941,7 @@ From the noun {{term|Orange|lang=fr}}
 # [[#English|orange-coloured]]
 
 [[Category:de:Colors]]
+[[Category:de:Colors of the rainbow]]
 
 ----
 
@@ -5935,31 +6019,6 @@ From {{proto|ine-pro|prei-|lang=gem-pro}}, compare {{termx|frijōnan|lang=gem-pr
 Wiktionary:Resources for translators: 
 * [http://dict.leo.org/ Leo] - German <-> English plus 5 other languages, hosted by Technical University Munich (German interface)
 * [http://www.woerterbuch-uebersetzung.de/ Wörterbuch Übersetzung] - German <-> English (German interface)
-
-===room===
-Wiktionary:Tea room: 
-Wiktionary:Tea room: 
-
-German has a few ways of making nouns from verbs..</br>
-1.1 Das Verzieren ist eine hohe Kunst. – "(The) adorning is a high art."</br>
-1.2 Die Verzierung ist eine hohe Kunst – same as above </br>
-2. Die Verzierung an der Jacke passt. – "The adornment at the jacket fits."</br>
-3.1 Die Verzierung war eine mühselige Arbeit. – "(The) adornment was a tiring task." </br>
-3.2 Das Verzieren war eine mühselige Arbeit. –  same as above  </br>
-I think that are all the uses. Am I using the right terminology if I call 1+3.2 gerunds and 2 a deverbal noun? (3.1 should be interpretable as both.)[[User:Korn|ᚲᛟᚱᚾ]] ([[User talk:Korn|talk]]) 12:31, 10 March 2012 (UTC)
-
-
-Wiktionary:Tea room: 
-
-I have read several elder (~1900) Grammars mentioning the existence of true (=pronounced) geminates, and none gives a description, assuming the reader is familiar with long consonants. But there are two systems, with for example a  /p:/ being either /p.p/ (as in modern Polish) or ambisyllabic  /p̚p/, as it is - I assume - in modern day Swedish. Does anybody know about West-Germanic languages? (Any language, at any point of history, really.)[[User:Korn|Korn]] ([[User talk:Korn|talk]]) 14:41, 9 April 2012 (UTC)
-: Proto-Germanic had true geminates, and presumably so did all the 'old' Germanic languages as well. Many Germanic languages (if not all) experienced lengthening of vowels in open syllables, which was conditioned by consonant length as well, since a following geminate closed a syllable and therefore kept the vowel short. The dating of the lengthening can be used as evidence that geminates were retained until that time. So they were retained in Dutch until sometime during the Middle Dutch period (1200-1500), after the lengthening. {{User:CodeCat/signature}} 21:44, 9 April 2012 (UTC)
-::But what was the pronunciation (of the stops, specifically)? Two separate full-consonants with release or a single release with a longer held closing beforehand?[[User:Korn|Korn]] ([[User talk:Korn|talk]]) 14:39, 10 April 2012 (UTC)
-::: I would say that they were single long consonants. Germanic also had an alternation between voiced stops and fricatives, and apparently they were fricatives when single and plosives when geminated. So -ada- was [ɑðɑ] but -adda- was [ɑdːɑ]. {{User:CodeCat/signature}} 17:01, 10 April 2012 (UTC)
-::::The same is true for GML/NDS. So the Swedish system it is. Thanks.[[Special:Contributions/193.174.122.76|193.174.122.76]] 11:39, 11 April 2012 (UTC)
-:::::Polish does not have [[w:Gemination|geminates]]; double consonants are something completely different and only occur at morpheme boundaries. Check Finnish or Hungarian for typical geminates. That said, the Proto-Germanic system does seem to have been like Swedish or Italian because I do not remember any cases of long vowel + long consonant the way they can be combined in Finnish, for example. --[[User:Florian Blaschke|Florian Blaschke]] ([[User talk:Florian Blaschke|talk]]) 16:27, 20 April 2012 (UTC)
-:::::: That is mostly because of a sound change in early Proto-Germanic. According to that change, geminates were de-geminated when following a long syllable (one with a long vowel or diphthong). Before that time, an 'overlong' syllable like -ōss- or -aiss- could have existed, but it was simplified to -ōs- and -ais-. This happened in the word {{termx|haisiz|lang=gem-pro}} for example. {{User:CodeCat/signature}} 16:50, 20 April 2012 (UTC)
-:::::::Ah, good point; Latin has an analogous shortening. Are you familiar with [[w:Kluge's law]], by the way? It would also have operated after long vowels, in principle. The shortening would have followed Kluge's law, then. --[[User:Florian Blaschke|Florian Blaschke]] ([[User talk:Florian Blaschke|talk]]) 17:24, 20 April 2012 (UTC)
-
 
 ***September***
 September: 
@@ -8115,32 +8174,8 @@ synonym:
 
 # [[synonymous]]
 
+[[Category:de:Semantics]]
 ----
-
-
-===Tea===
-Wiktionary:Tea room: 
-Wiktionary:Tea room: 
-
-German has a few ways of making nouns from verbs..</br>
-1.1 Das Verzieren ist eine hohe Kunst. – "(The) adorning is a high art."</br>
-1.2 Die Verzierung ist eine hohe Kunst – same as above </br>
-2. Die Verzierung an der Jacke passt. – "The adornment at the jacket fits."</br>
-3.1 Die Verzierung war eine mühselige Arbeit. – "(The) adornment was a tiring task." </br>
-3.2 Das Verzieren war eine mühselige Arbeit. –  same as above  </br>
-I think that are all the uses. Am I using the right terminology if I call 1+3.2 gerunds and 2 a deverbal noun? (3.1 should be interpretable as both.)[[User:Korn|ᚲᛟᚱᚾ]] ([[User talk:Korn|talk]]) 12:31, 10 March 2012 (UTC)
-
-
-Wiktionary:Tea room: 
-
-I have read several elder (~1900) Grammars mentioning the existence of true (=pronounced) geminates, and none gives a description, assuming the reader is familiar with long consonants. But there are two systems, with for example a  /p:/ being either /p.p/ (as in modern Polish) or ambisyllabic  /p̚p/, as it is - I assume - in modern day Swedish. Does anybody know about West-Germanic languages? (Any language, at any point of history, really.)[[User:Korn|Korn]] ([[User talk:Korn|talk]]) 14:41, 9 April 2012 (UTC)
-: Proto-Germanic had true geminates, and presumably so did all the 'old' Germanic languages as well. Many Germanic languages (if not all) experienced lengthening of vowels in open syllables, which was conditioned by consonant length as well, since a following geminate closed a syllable and therefore kept the vowel short. The dating of the lengthening can be used as evidence that geminates were retained until that time. So they were retained in Dutch until sometime during the Middle Dutch period (1200-1500), after the lengthening. {{User:CodeCat/signature}} 21:44, 9 April 2012 (UTC)
-::But what was the pronunciation (of the stops, specifically)? Two separate full-consonants with release or a single release with a longer held closing beforehand?[[User:Korn|Korn]] ([[User talk:Korn|talk]]) 14:39, 10 April 2012 (UTC)
-::: I would say that they were single long consonants. Germanic also had an alternation between voiced stops and fricatives, and apparently they were fricatives when single and plosives when geminated. So -ada- was [ɑðɑ] but -adda- was [ɑdːɑ]. {{User:CodeCat/signature}} 17:01, 10 April 2012 (UTC)
-::::The same is true for GML/NDS. So the Swedish system it is. Thanks.[[Special:Contributions/193.174.122.76|193.174.122.76]] 11:39, 11 April 2012 (UTC)
-:::::Polish does not have [[w:Gemination|geminates]]; double consonants are something completely different and only occur at morpheme boundaries. Check Finnish or Hungarian for typical geminates. That said, the Proto-Germanic system does seem to have been like Swedish or Italian because I do not remember any cases of long vowel + long consonant the way they can be combined in Finnish, for example. --[[User:Florian Blaschke|Florian Blaschke]] ([[User talk:Florian Blaschke|talk]]) 16:27, 20 April 2012 (UTC)
-:::::: That is mostly because of a sound change in early Proto-Germanic. According to that change, geminates were de-geminated when following a long syllable (one with a long vowel or diphthong). Before that time, an 'overlong' syllable like -ōss- or -aiss- could have existed, but it was simplified to -ōs- and -ais-. This happened in the word {{termx|haisiz|lang=gem-pro}} for example. {{User:CodeCat/signature}} 16:50, 20 April 2012 (UTC)
-:::::::Ah, good point; Latin has an analogous shortening. Are you familiar with [[w:Kluge's law]], by the way? It would also have operated after long vowels, in principle. The shortening would have followed Kluge's law, then. --[[User:Florian Blaschke|Florian Blaschke]] ([[User talk:Florian Blaschke|talk]]) 17:24, 20 April 2012 (UTC)
 
 
 ===translators===
@@ -8173,6 +8208,7 @@ Uhr:
 * {{audio|De-Uhr.ogg|audio (Germany)}}
 * {{audio|De-at-Uhr.ogg|audio (Austria)}}
 * {{homophones|ur-|Ur}}
+* {{rhymes|uːɐ̯|lang=de}}
 
 ===Noun===
 {{de-noun|g=f|plural=Uhren}}
@@ -8279,6 +8315,9 @@ umsonst:
 ***urban***
 urban: 
 
+===Pronunciation===
+* {{IPA|/ˈʊɐ̯ban/|lang=de}}
+
 ===Adjective===
 {{de-adj|comparative=urbaner|superlative=urbansten}}
 
@@ -8347,7 +8386,7 @@ war:
 * {{homophones|wahr|lang=de}}
 
 ===Verb===
-'''war'''
+{{de-verb form}}
 
 # {{de-verb form of|sein|1|s|v}}
 #* '''1788''': Johann Wolfgang von Goethe, ''Egmont''
@@ -8393,30 +8432,6 @@ war:
 Wiktionary:Resources for translators: 
 * [http://dict.leo.org/ Leo] - German <-> English plus 5 other languages, hosted by Technical University Munich (German interface)
 * [http://www.woerterbuch-uebersetzung.de/ Wörterbuch Übersetzung] - German <-> English (German interface)
-
-Wiktionary:Tea room: 
-Wiktionary:Tea room: 
-
-German has a few ways of making nouns from verbs..</br>
-1.1 Das Verzieren ist eine hohe Kunst. – "(The) adorning is a high art."</br>
-1.2 Die Verzierung ist eine hohe Kunst – same as above </br>
-2. Die Verzierung an der Jacke passt. – "The adornment at the jacket fits."</br>
-3.1 Die Verzierung war eine mühselige Arbeit. – "(The) adornment was a tiring task." </br>
-3.2 Das Verzieren war eine mühselige Arbeit. –  same as above  </br>
-I think that are all the uses. Am I using the right terminology if I call 1+3.2 gerunds and 2 a deverbal noun? (3.1 should be interpretable as both.)[[User:Korn|ᚲᛟᚱᚾ]] ([[User talk:Korn|talk]]) 12:31, 10 March 2012 (UTC)
-
-
-Wiktionary:Tea room: 
-
-I have read several elder (~1900) Grammars mentioning the existence of true (=pronounced) geminates, and none gives a description, assuming the reader is familiar with long consonants. But there are two systems, with for example a  /p:/ being either /p.p/ (as in modern Polish) or ambisyllabic  /p̚p/, as it is - I assume - in modern day Swedish. Does anybody know about West-Germanic languages? (Any language, at any point of history, really.)[[User:Korn|Korn]] ([[User talk:Korn|talk]]) 14:41, 9 April 2012 (UTC)
-: Proto-Germanic had true geminates, and presumably so did all the 'old' Germanic languages as well. Many Germanic languages (if not all) experienced lengthening of vowels in open syllables, which was conditioned by consonant length as well, since a following geminate closed a syllable and therefore kept the vowel short. The dating of the lengthening can be used as evidence that geminates were retained until that time. So they were retained in Dutch until sometime during the Middle Dutch period (1200-1500), after the lengthening. {{User:CodeCat/signature}} 21:44, 9 April 2012 (UTC)
-::But what was the pronunciation (of the stops, specifically)? Two separate full-consonants with release or a single release with a longer held closing beforehand?[[User:Korn|Korn]] ([[User talk:Korn|talk]]) 14:39, 10 April 2012 (UTC)
-::: I would say that they were single long consonants. Germanic also had an alternation between voiced stops and fricatives, and apparently they were fricatives when single and plosives when geminated. So -ada- was [ɑðɑ] but -adda- was [ɑdːɑ]. {{User:CodeCat/signature}} 17:01, 10 April 2012 (UTC)
-::::The same is true for GML/NDS. So the Swedish system it is. Thanks.[[Special:Contributions/193.174.122.76|193.174.122.76]] 11:39, 11 April 2012 (UTC)
-:::::Polish does not have [[w:Gemination|geminates]]; double consonants are something completely different and only occur at morpheme boundaries. Check Finnish or Hungarian for typical geminates. That said, the Proto-Germanic system does seem to have been like Swedish or Italian because I do not remember any cases of long vowel + long consonant the way they can be combined in Finnish, for example. --[[User:Florian Blaschke|Florian Blaschke]] ([[User talk:Florian Blaschke|talk]]) 16:27, 20 April 2012 (UTC)
-:::::: That is mostly because of a sound change in early Proto-Germanic. According to that change, geminates were de-geminated when following a long syllable (one with a long vowel or diphthong). Before that time, an 'overlong' syllable like -ōss- or -aiss- could have existed, but it was simplified to -ōs- and -ais-. This happened in the word {{termx|haisiz|lang=gem-pro}} for example. {{User:CodeCat/signature}} 16:50, 20 April 2012 (UTC)
-:::::::Ah, good point; Latin has an analogous shortening. Are you familiar with [[w:Kluge's law]], by the way? It would also have operated after long vowels, in principle. The shortening would have followed Kluge's law, then. --[[User:Florian Blaschke|Florian Blaschke]] ([[User talk:Florian Blaschke|talk]]) 17:24, 20 April 2012 (UTC)
-
 
 ***wolf***
 wolf: 

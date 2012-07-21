@@ -190,14 +190,12 @@ abominate:
 abortive: 
 
 ===Adjective===
-'''abortive''' {{f}}
+{{head|it|adjective form}} {{f|p}}
 
-# Feminine plural form of [[abortivo]].
+# {{feminine plural of|abortivo|lang=it}}
 
 ===Anagrams===
 * [[breviato#Italian|breviato]]
-
-[[Category:Italian adjective forms]]
 
 ----
 
@@ -309,6 +307,7 @@ abrogative:
 [[el:abrogative]]
 [[pl:abrogative]]
 [[ru:abrogative]]
+[[ta:abrogative]]
 [[vi:abrogative]]
 ***abusive***
 abusive: 
@@ -472,7 +471,7 @@ Albania:
 ===Proper noun===
 {{it-proper noun|g=f}}
 
-# [[#English|Albania]]
+# {{l|en|Albania}}
 
 ====Derived terms====
 * [[albanese]]
@@ -490,9 +489,9 @@ Algeria:
 * {{audio|It-Algeria.ogg|Audio}}
 
 ===Proper noun===
-'''Algeria''' {{f}}
+{{it-proper noun|f}}
 
-# [[#English|Algeria]]
+# {{l|en|Algeria}}
 
 ====Derived terms====
 * [[algerino]]
@@ -501,7 +500,6 @@ Algeria:
 * [[regalai#Italian|regalai]]
 * [[regalia#Italian|regalia]]
 
-[[Category:Italian proper nouns]]
 [[Category:it:Countries]]
 
 [[zh-min-nan:Algeria]]
@@ -539,6 +537,7 @@ Algeria:
 [[ta:Algeria]]
 [[tr:Algeria]]
 [[uk:Algeria]]
+[[vi:Algeria]]
 [[zh:Algeria]]
 ***andante***
 andante: 
@@ -582,9 +581,9 @@ Andorra:
 {{wikipedia|lang=it}}
 
 ===Proper noun===
-{{it-proper noun|g=f}}
+{{it-proper noun|f}}
 
-# [[#English|Andorra]]
+# {{l|en|Andorra}}
 
 ====Derived terms====
 * [[andorrano]]
@@ -604,7 +603,7 @@ Angola:
 ===Proper noun===
 '''Angola''' {{f}}
 
-# [[#English|Angola]]
+# {{l|en|Angola}}
 
 ====Derived terms====
 * [[angolano]]
@@ -696,6 +695,7 @@ Metathesis from {{etyl|la|it}} {{term|aerem|lang=la}}, accusative of {{term|aer|
 
 ===Pronunciation===
 * {{audio|It-l'aria.ogg|Audio}}
+* {{audio|It-aria.ogg|Audio}}
 ària, /ˈarja/, /<tt>"arja</tt>/
 
 ===Noun===
@@ -750,7 +750,7 @@ Armenia:
 ===Proper noun===
 {{it-proper noun|g=f}}
 
-# [[#English|Armenia]]
+# {{l|en|Armenia}}
 
 ====Derived terms====
 * [[armeno]]
@@ -778,7 +778,7 @@ Austria:
 ===Proper noun===
 {{it-proper noun|g=f}}
 
-# [[#English|Austria]]
+# {{l|en|Austria}}
 
 ====Related terms====
 * [[austriaco]]
@@ -816,7 +816,7 @@ Bahrain:
 ===Proper noun===
 {{head|it|proper noun|g=m}}
 
-# [[#English|Bahrain]]
+# {{l|en|Bahrain}}
 
 [[Category:it:Countries]]
 
@@ -830,7 +830,7 @@ Bangladesh:
 ===Proper noun===
 {{it-proper noun|g=m}}
 
-# [[#English|Bangladesh]]
+# {{l|en|Bangladesh}}
 
 ====See also====
 * [[bengalese]]
@@ -890,7 +890,7 @@ Bulgaria:
 ===Proper noun===
 {{it-proper noun|g=f}}
 
-# [[#English|Bulgaria]]
+# {{l|en|Bulgaria}}
 
 ====Related terms====
 * [[bulgaro]]
@@ -907,7 +907,7 @@ Burundi:
 ===Proper noun===
 {{it-proper noun|g=m}}
 
-# [[#English|Burundi]]
+# {{l|en|Burundi}}
 
 ====Derived terms====
 * [[burundese]]
@@ -1012,6 +1012,7 @@ From {{etyl|en|it}}
 [[af:country]]
 [[ang:country]]
 [[ar:country]]
+[[az:country]]
 [[zh-min-nan:country]]
 [[cs:country]]
 [[cy:country]]
@@ -1182,9 +1183,9 @@ Estonia:
 {{wikipedia|lang=it}}
 
 ===Proper noun===
-{{head|it|proper noun|gender=f}}
+{{it-proper noun|f}}
 
-# [[#English|Estonia]]
+# {{l|en|Estonia}}
 
 ====Related terms====
 * [[estone]]
@@ -1207,7 +1208,7 @@ euro:
 ===Noun===
 {{it-noun|eur|m|o|o}}
 
-# [[#English|euro]] {{qualifier|currency}}
+# [[#English|euro]] {{gloss|currency}}
 
 [[Category:it:Currency]]
 
@@ -1291,11 +1292,12 @@ From {{etyl|la|it}} {{term|gratis|lang=la}}
 guerra: 
 
 ===Etymology===
-From {{etyl|roa-oit|it}} {{term|guerra|lang=it}}, from {{etyl|LL.|it}} *{{term||werra, *guerra|lang=la}}, of {{etyl|gem|it}} origin, from {{etyl|frk|it}} *{{term||werra|lang=frk}} "riot, disturbance, quarrel" from {{proto|Germanic|werzō||werzá-|confusion, disarray|lang=it}}, from {{proto|Indo-European|wers-|to mix up, confuse, beat, thresh|lang=it}}. Related to {{etyl|goh|-}} {{term|werra|lang=goh}} "confusion, strife, quarrel" ({{etyl|de|-}} {{l|de|verwirren|ver''wirren''}} "to confuse"), {{etyl|osx|-}} {{term|werran|lang=osx}} "to confuse, perplex", {{nl}} {{term|war|lang=nl}} "confusion, disarray", {{etyl|ang|-}} {{term|wyrsa|wyrsa, wiersa|lang=ang}} "worse". More at {{l|en|worse}}, {{l|en|wurst}}.
+From {{etyl|roa-oit|it}} {{term|guerra|lang=it}}, from {{etyl|LL.|it}} {{recons|werra|lang=LL.}}, {{recons|guerra|lang=LL.}}, from {{etyl|frk|it}} {{recons|werra|werra|riot, disturbance, quarrel|lang=frk|sc=Latn}} from {{proto|Germanic|werrō|confusion, disarray|lang=it}}, from {{proto|Indo-European|wers-|to mix up, confuse, beat, thresh|lang=it}}. Related to {{etyl|goh|-}} {{term|werra||confusion, strife, quarrel|lang=goh}} ({{etyl|de|-}} {{term|verwirren||to confuse|lang=de}}), {{etyl|osx|-}} {{term|werran||to confuse, perplex|lang=osx}}, {{etyl|nl|-}} {{term|war||confusion, disarray|lang=nl}}, {{etyl|ang|-}} {{term|wyrsa|wyrsa, wiersa||worse|lang=ang}}. More at {{l|en|worse}}, {{l|en|wurst}}.
 
 ===Pronunciation===
 * {{IPA|/ˈɡwɛr.ra/|lang=it}}, {{X-SAMPA|/"gwEr.ra/|lang=it}}
 * {{audio|It-la guerra.ogg|Audio}}
+* {{audio|It-guerra.ogg|Audio}}
 
 ===Noun===
 {{it-noun|guerr|f|a|e}}
@@ -1404,14 +1406,13 @@ Iraq:
 {{wikipedia|lang=it}}
 
 ===Proper noun===
-'''Iraq''' {{m}}
+{{it-proper noun|m}}
 
-# [[Iraq#English|Iraq]]
+# {{l|en|Iraq}}
 
 ====Derived terms====
 * [[iracheno]]
 
-[[Category:Italian proper nouns]]
 [[Category:it:Countries]]
 
 ----
@@ -1541,11 +1542,10 @@ minute:
 ===Adjective===
 {{head|it|adjective form|g=f|g2=p}}
 
-# {{feminine plural of|minuto#Adjective|minuto}} [[tiny]], [[minute]]; [[fine]], [[delicate]], [[detailed]]
+# {{feminine plural of|minuto|lang=it}}
 
 ===Anagrams===
-* [[emunti#Italian|emunti]]
-* [[munite#Italian|munite]]
+* [[emunti#Italian|emunti]], [[munite#Italian|munite]]
 
 ----
 
@@ -2137,10 +2137,10 @@ transitive:
 ===Adjective===
 '''transitive''' {{p}}
 
-# {{feminine of|transitivo#Adjective|transitivo}}
+# {{feminine of|transitivo|lang=it}}
 
 ===Anagrams===
-* [[intervista#Italian|intervista]], [[intestarvi#Italian|intestarvi]], [[intraviste#Italian|intraviste]], [[rinvestita#Italian|rinvestita]], [[rinvitaste#Italian|rinvitaste]], [[strinatevi#Italian|strinatevi]], [[vetrinista#Italian|vetrinista]]
+* {{l|it|intervista}}, {{l|it|intestarvi}}, {{l|it|intraviste}}, {{l|it|rinvestita}}, {{l|it|rinvitaste}}, {{l|it|strinatevi}}, {{l|it|vetrinista}}
 
 [[Category:Italian adjective forms]]
 

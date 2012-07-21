@@ -1,12 +1,15 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.english 4615
+EntrySource: enwiktionary.english 4634
 
 Index: ZH ZH->EN
 ===1===
   (Cantonese) 今日 (gam<sup>1</sup>yat<sup>6</sup>) :: today (on the current day) (adverb)
   (Cantonese) 今日 (gam<sup>1</sup>yat<sup>6</sup>) :: today (today (noun)) (noun)
+  (Cantonese) 屌 (dīu<sup>2</sup>), 㞗 (gau<sup>1</sup>), 𡳞 (lan<sup>2</sup>) :: dick (colloquial: penis) (noun)
   (Cantonese) 秋季 (cau<sup>1</sup>gwai<sup>3</sup>) :: autumn (season) (noun)
   (Cantonese) Taap<sup>3</sup>naap<sup>6</sup>tok<sup>3</sup>si<sup>1</sup> :: Thanatos (Thanatos, the god of death) (noun)
+===2===
+  (Cantonese) 屌 (dīu<sup>2</sup>), 㞗 (gau<sup>1</sup>), 𡳞 (lan<sup>2</sup>) :: dick (colloquial: penis) (noun)
 ===3===
   (Cantonese) 四 (sei<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
   (Teochew) 四 (si<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
@@ -16,14 +19,14 @@ Index: ZH ZH->EN
   (Cantonese) 今日 (gam<sup>1</sup>yat<sup>6</sup>) :: today (on the current day) (adverb)
   (Cantonese) 今日 (gam<sup>1</sup>yat<sup>6</sup>) :: today (today (noun)) (noun)
   (Cantonese) Taap<sup>3</sup>naap<sup>6</sup>tok<sup>3</sup>si<sup>1</sup> :: Thanatos (Thanatos, the god of death) (noun)
-===6月===
+***6月***
   六月, 6月 (liùyuè) :: June (sixth month of the Gregorian calendar) (proper noun)
-===7月===
+***7月***
   七月, 7月 (qīyuè) :: July (seventh month of the Gregorian calendar) (proper noun)
 ===á===
   (Min Nan) eng-á :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
-  (Min Nan) 啤酒 (bih-luh), 麥仔酒 (be̍h-á-chiú), 米仔酒 (bí-á-chiú) :: beer (alcoholic drink made of malt) (noun)
   (Min Nan) 今仔日 (kin-á-ji̍t) :: today (today (noun)) (noun)
+  (Min Nan) 啤酒 (bih-luh), 麥仔酒 (be̍h-á-chiú), 米仔酒 (bí-á-chiú) :: beer (alcoholic drink made of malt) (noun)
 ===ah===
   (Min Nan) ah qua / ah kua (Hokkien) :: transvestite (cross-dresser) (noun)
 ===ài===
@@ -121,7 +124,7 @@ Index: ZH ZH->EN
 ***北曲***
   詠嘆調, 咏叹调 (yǒngtàndiào), 唱段 (chàngduàn), (North China, Yuan dynasty) 北曲 (běiqǔ) :: aria (type of musical piece) (noun)
 ===bêng===
-  (Min Nan) bêng-sû :: noun (grammatical category) (noun)
+  (Min Nan) 名詞, 名词 (bêng-sû) :: noun (grammatical category) (noun)
 ===better===
   (the adjectives are in a dictionary form) 越……越…… (yuè...yuè...) (example: 越<u>热</u>越<u>好</u> yuè rè yuè hǎo "the hotter the better"), 愈……愈…… (yù...yù...) :: the (the + ～comparative, the + comparative) (adverb)
 ===bī===
@@ -222,8 +225,6 @@ Index: ZH ZH->EN
   草坪 (cǎopíng) :: grass (lawn) (noun)
 ***草坪***
   草坪 (cǎopíng) :: grass (lawn) (noun)
-===cat6===
-  (Cantonese) 屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
 ===cau===
   (Cantonese) 秋季 (cau<sup>1</sup>gwai<sup>3</sup>) :: autumn (season) (noun)
 ===cè===
@@ -361,9 +362,9 @@ Index: ZH ZH->EN
 ***詞***
   詞 (cí), 词 (cí), 單詞 (dāncí), 单词 (dāncí) :: word (unit of language) (noun)
 ===ci4===
-  (Cantonese) 名詞 (ming4 ci4) :: noun (grammatical category) (noun)
-  (Cantonese) 動詞 (dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
-  (Cantonese) 副詞 (fu3 ci4) :: adverb (lexical category) (noun)
+  (Cantonese) 名詞, 名词 (ming4 ci4) :: noun (grammatical category) (noun)
+  (Cantonese) 動詞, 动词 (dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  (Cantonese) 副詞, 副词 (fu3 ci4) :: adverb (lexical category) (noun)
 ===cídiǎn===
   字典 (zìdiǎn) (character dictionary); 詞典, 词典 (cídiǎn) :: dictionary (publication that explains the meanings of an ordered list of words) (noun)
   分類詞詞典, 分类词词典 (fēnlèicí cídiǎn) :: thesaurus (book of synonyms) (noun)
@@ -468,10 +469,6 @@ Index: ZH ZH->EN
   單數, 单数 (dānshù) :: singular (grammar: form of a word that refers to only one thing) (noun)
 ***單數***
   單數, 单数 (dānshù) :: singular (grammar: form of a word that refers to only one thing) (noun)
-===dào===
-  道 (dào) :: tao (noun)
-===道===
-  道 (dào) :: tao (noun)
 ===dàxiàng===
   象 (xiàng), 大象 (dàxiàng) :: elephant (mammal) (noun)
 ***大象***
@@ -560,10 +557,10 @@ Index: ZH ZH->EN
 ===点===
   点 (diǎn) :: point (geometry: zero-dimensional object) (noun)
 ===diǎo===
-  雞巴, 鸡巴 (jība), 屌 (diǎo), (euphemism) 鳥, 鸟 (diǎo) :: dick (colloquial: penis) (noun)
+  屌 (diǎo), 𣬠𣬶 (jība) :: dick (colloquial: penis) (noun)
 ***屌***
-  雞巴, 鸡巴 (jība), 屌 (diǎo), (euphemism) 鳥, 鸟 (diǎo) :: dick (colloquial: penis) (noun)
-  (Cantonese) 屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
+  屌 (diǎo), 𣬠𣬶 (jība) :: dick (colloquial: penis) (noun)
+  (Cantonese) 屌 (dīu<sup>2</sup>), 㞗 (gau<sup>1</sup>), 𡳞 (lan<sup>2</sup>) :: dick (colloquial: penis) (noun)
 ===屌你老母===
   (Cantonese) 屌你老母 (diu2nei3lo3mo3) :: motherfucker (generic term of abuse) (noun)
 ===调味===
@@ -587,10 +584,10 @@ Index: ZH ZH->EN
   下定意, 下定意 (xiàdìngyì) :: definition (action or power of describing, explaining, or making definite) (noun)
 ===定意===
   定意, 定意 (dìngyì); 釋義, 释意 (shìyì) :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
+===dīu===
+  (Cantonese) 屌 (dīu<sup>2</sup>), 㞗 (gau<sup>1</sup>), 𡳞 (lan<sup>2</sup>) :: dick (colloquial: penis) (noun)
 ===diū===
   丟棄, 丢弃 (diū qì) :: can (to discard) (verb)
-===diu2===
-  (Cantonese) 屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
 ===diu2nei3lo3mo3===
   (Cantonese) 屌你老母 (diu2nei3lo3mo3) :: motherfucker (generic term of abuse) (noun)
 ===diūqì===
@@ -604,13 +601,16 @@ Index: ZH ZH->EN
 ===dìyù===
   地獄, 地狱 (dìyù) :: hell (where sinners go) (proper noun)
 ===dòngcí===
+  動詞, 动词 (dòngcí) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   及物動詞, 及物动词 (jíwù dòngcí), 他動詞, 他动词 (tādòngcí) :: transitive verb (a verb that is accompanied by a direct object) (noun)
+***动词***
+  (Cantonese) 動詞, 动词 (dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   動詞, 动词 (dòngcí) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
-===动词===
-  動詞, 动词 (dòngcí) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  (Min Nan) 動詞, 动词 (tōng-sû) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
 ***動詞***
-  (Cantonese) 動詞 (dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  (Cantonese) 動詞, 动词 (dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   動詞, 动词 (dòngcí) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  (Min Nan) 動詞, 动词 (tōng-sû) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
 ===dōngjì===
   冬天 (dōngtiān), 冬季 (dōngjì) :: winter (fourth season, marked by short days and lowest temperatures) (noun)
 ***冬季***
@@ -630,7 +630,7 @@ Index: ZH ZH->EN
 ===度===
   清晰度, 清晰度 (qīngxīdù) :: definition (bodybuilding: the degree to which individual muscles are distinct) (noun)
 ===duan===
-  (Traditional Chinese) 中斷 (zhong duan) :: abort (to cause a premature termination) (verb)
+  中斷 (zhong duan) :: abort (to cause a premature termination) (verb)
 ===duānkǒu===
   端口 (duānkǒu) :: port (computing: logical or physical construct into and from which data are transferred) (noun)
 ***端口***
@@ -657,21 +657,21 @@ Index: ZH ZH->EN
   關於, 关于 (guānyú), 對於, 对于 (duìyú) :: about (in concern with) (preposition)
   關於, 关于 (guānyú), 對於, 对于 (duìyú) :: about (concerning) (preposition)
 ===dung6===
-  (Cantonese) 動詞 (dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  (Cantonese) 動詞, 动词 (dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
 ===duōshǎo===
   多少 (duōshǎo), 數碼, 数码 (shùmǎ) :: number (quantity) (noun)
 ***多少***
   多少 (duōshǎo), 數碼, 数码 (shùmǎ) :: number (quantity) (noun)
 ===duōshénjiào===
-  多神教 (duōshénjiào) :: polytheism (belief of existence of many gods) (noun)
+  多神教 (duōshénjiào) :: polytheism (belief in the existence of many gods) (noun)
 ===多神教===
-  多神教 (duōshénjiào) :: polytheism (belief of existence of many gods) (noun)
+  多神教 (duōshénjiào) :: polytheism (belief in the existence of many gods) (noun)
 ===duòtāi===
   墮胎, 堕胎 (duòtāi) :: abortion (act of inducing abortion) (noun)
 ***堕胎***
   墮胎, 堕胎 (duòtāi) :: abortion (act of inducing abortion) (noun)
 ***墮胎***
-  (Traditional Chinese) 流產, 墮胎, 早產 :: abort (A miscarriage) (noun)
+  流產, 墮胎, 早產 :: abort (A miscarriage) (noun)
   墮胎, 堕胎 (duòtāi) :: abortion (act of inducing abortion) (noun)
 ===duōyuán===
   多元文化 (duōyuán wénhuà) :: multiculturalism (societal idea) (noun)
@@ -715,7 +715,7 @@ Index: ZH ZH->EN
 ===èryuè===
   十二月 (shí’èryuè) :: December (twelfth month of the Gregorian calendar) (proper noun)
   二月 (èryuè) :: February (second month of the Gregorian calendar) (proper noun)
-===二月===
+***二月***
   二月 (èryuè) :: February (second month of the Gregorian calendar) (proper noun)
 ===example===
   (the adjectives are in a dictionary form) 越……越…… (yuè...yuè...) (example: 越<u>热</u>越<u>好</u> yuè rè yuè hǎo "the hotter the better"), 愈……愈…… (yù...yù...) :: the (the + ～comparative, the + comparative) (adverb)
@@ -737,9 +737,11 @@ Index: ZH ZH->EN
 ===fàng===
   放屁 (fàng pì) :: fart (to emit flatulent gases) (verb)
 ===fāngjìxué===
-  醫學, 医学 (yīxué), 方剂学 (fāngjìxué) :: medicine (field of study) (noun)
-===方剂学===
-  醫學, 医学 (yīxué), 方剂学 (fāngjìxué) :: medicine (field of study) (noun)
+  醫學, 医学 (yīxué)方劑學, 方剂学 (fāngjìxué) :: medicine (field of study) (noun)
+***方剂学***
+  醫學, 医学 (yīxué)方劑學, 方剂学 (fāngjìxué) :: medicine (field of study) (noun)
+***方劑學***
+  醫學, 医学 (yīxué)方劑學, 方剂学 (fāngjìxué) :: medicine (field of study) (noun)
 ===fàngpì===
   屁 (pì), 放屁 (fàngpì) :: fart (an emission of flatulent gases) (noun)
 ***放屁***
@@ -751,7 +753,7 @@ Index: ZH ZH->EN
   放棄, 放弃 (fàngqì) :: abandon (to give up) (verb)
 ***放棄***
   放棄, 放弃 (fàngqì) :: abandon (to give up) (verb)
-  (Traditional Chinese) 中斷, 放棄 :: abort (The function used to abort a process) (noun)
+  中斷, 放棄 :: abort (The function used to abort a process) (noun)
 ***番瓜***
   (Cantonese) 南瓜 (naam4 gwaa1),番瓜 (faan1 gwaa1) :: pumpkin (plant) (noun)
   (Cantonese) 南瓜 (naam4 gwaa1),番瓜 (faan1 gwaa1) :: pumpkin (fruit of this plant) (noun)
@@ -779,10 +781,13 @@ Index: ZH ZH->EN
   免費的, 免费的 (miǎnfèi de) :: free (obtainable without payment) (adjective)
 ===fèichú===
   廢除, 废除 (fèichú) :: abate (to be defeated) (verb)
+  廢除, 废除 (fèichú) :: abolition (act of abolishing) (noun)
 ***废除***
   廢除, 废除 (fèichú) :: abate (to be defeated) (verb)
+  廢除, 废除 (fèichú) :: abolition (act of abolishing) (noun)
 ***廢除***
   廢除, 废除 (fèichú) :: abate (to be defeated) (verb)
+  廢除, 废除 (fèichú) :: abolition (act of abolishing) (noun)
 ===fèihuà===
   廢話, 废话 (fèihuà), 胡說, 胡说 (húshuō), 胡言 (húyán), (vulgar) 狗屁 (gǒupì) :: nonsense (meaningless words) (noun)
   廢話, 废话 (fèihuà), 胡說, 胡说 (húshuō), 胡言 (húyán), 狗屁 (gǒupì) (vulgar) :: nonsense (untrue statement) (noun)
@@ -825,7 +830,7 @@ Index: ZH ZH->EN
   腹部 (fùbù), 腹 (fù) :: abdomen (belly) (noun)
   腹部, 腹部 (fùbù) :: abdomen (the posterior section of an arthopod's body) (noun)
 ===fu3===
-  (Cantonese) 副詞 (fu3 ci4) :: adverb (lexical category) (noun)
+  (Cantonese) 副詞, 副词 (fu3 ci4) :: adverb (lexical category) (noun)
 ===fùbù===
   腹部 (fùbù), 腹 (fù) :: abdomen (belly) (noun)
   腹部, 腹部 (fùbù) :: abdomen (the posterior section of an arthopod's body) (noun)
@@ -834,10 +839,13 @@ Index: ZH ZH->EN
 ===fùcí===
   副詞, 副词 (fùcí) :: adverb (lexical category) (noun)
 ***副词***
+  (Cantonese) 副詞, 副词 (fu3 ci4) :: adverb (lexical category) (noun)
   副詞, 副词 (fùcí) :: adverb (lexical category) (noun)
+  (Min Nan) 副詞, 副词 (hù-sû) :: adverb (lexical category) (noun)
 ***副詞***
-  (Cantonese) 副詞 (fu3 ci4) :: adverb (lexical category) (noun)
+  (Cantonese) 副詞, 副词 (fu3 ci4) :: adverb (lexical category) (noun)
   副詞, 副词 (fùcí) :: adverb (lexical category) (noun)
+  (Min Nan) 副詞, 副词 (hù-sû) :: adverb (lexical category) (noun)
 ===fùshù===
   複數, 复数 (fùshù), 眾數, 众数 (zhòngshù) :: plural (more than one) (adjective)
   複數, 复数 (fùshù), 眾數, 众数 (zhòngshù) :: plural (word in plural form) (noun)
@@ -888,8 +896,8 @@ Index: ZH ZH->EN
   混淆 (hùnxiáo), 弄亂, 弄乱 (nòngluàn), 搞亂, 搞乱 (gǎoluàn), 使模糊 (shǐ móhu), 使混亂, 使混乱 (shǐ hùnluàn), 使糊塗, 使糊涂 (shǐ hútu) :: obfuscate (make confusing) (verb)
 ***搞亂***
   混淆 (hùnxiáo), 弄亂, 弄乱 (nòngluàn), 搞亂, 搞乱 (gǎoluàn), 使模糊 (shǐ móhu), 使混亂, 使混乱 (shǐ hùnluàn), 使糊塗, 使糊涂 (shǐ hútu) :: obfuscate (make confusing) (verb)
-===gau1===
-  (Cantonese) 屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
+===gau===
+  (Cantonese) 屌 (dīu<sup>2</sup>), 㞗 (gau<sup>1</sup>), 𡳞 (lan<sup>2</sup>) :: dick (colloquial: penis) (noun)
 ===gau2===
   (Cantonese) 狗 (gau2), 犬 (hyun1) :: dog (animal) (noun)
   (Cantonese) 九 (gau2) :: nine (cardinal number) (cardinal number)
@@ -902,9 +910,9 @@ Index: ZH ZH->EN
 ===gí===
   (Min Nan) tek-gí :: German (the German language) (proper noun)
   (Min Nan) 英語, 英语 (Eng-gí) :: English (the English language) (proper noun)
-  (Min Nan) gí-giân :: language (system of communication using words or symbols) (noun)
+  (Min Nan) gí-giân Hani :: language (system of communication using words or symbols) (noun)
 ===giân===
-  (Min Nan) gí-giân :: language (system of communication using words or symbols) (noun)
+  (Min Nan) gí-giân Hani :: language (system of communication using words or symbols) (noun)
 ===gōng===
   公畝, 公亩 (gōng mǔ) :: are (unit of area) (noun)
 ===工会===
@@ -1014,6 +1022,8 @@ Index: ZH ZH->EN
   美國國家航空航天局, 美国国家航空航天局 (Měiguó guójiā hángkōng hángtiānjú), (Taiwan) 美國國家航空暨太空總署, 美国国家航空暨太空总署 (Měiguó guójiā hángkōng jì tàikōng zǒngshǔ) :: NASA (National Aeronautics and Space Administration) ({{acronym}})
 ===hángtiānjú===
   美國國家航空航天局, 美国国家航空航天局 (Měiguó guójiā hángkōng hángtiānjú), (Taiwan) 美國國家航空暨太空總署, 美国国家航空暨太空总署 (Měiguó guójiā hángkōng jì tàikōng zǒngshǔ) :: NASA (National Aeronautics and Space Administration) ({{acronym}})
+===Hani===
+  (Min Nan) gí-giân Hani :: language (system of communication using words or symbols) (noun)
 ===hànyì===
   含義, 含义 (hànyì) :: connotation (suggested or implied meaning) (noun)
 ***含义***
@@ -1075,8 +1085,8 @@ Index: ZH ZH->EN
 ===hen===
   (Wu) 五 (hen) :: five (five (5)) (cardinal number)
 ===hêng===
+  (Min Nan) 形容詞, 形容词 (hêng-iông-sû) :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   (Min Nan) 行星 (hêng-seng) :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
-  (Min Nan) hêng-iông-sû :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
 ===héngxīng===
   恆星, 恒星 (héngxīng), 明星 (míngxīng), 星 (xīng) :: star (luminous celestial body) (noun)
   太陽, 太阳 (tàiyáng), 恒星 (héngxīng), 日 (rì) :: sun (any star, especially when seen as the centre of any single solar system) (noun)
@@ -1086,10 +1096,10 @@ Index: ZH ZH->EN
   恆星, 恒星 (héngxīng), 明星 (míngxīng), 星 (xīng) :: star (luminous celestial body) (noun)
   太陽, 太阳 (tàiyáng), 恒星 (héngxīng), 日 (rì) :: sun (any star, especially when seen as the centre of any single solar system) (noun)
 ===hèsè===
-  棕色 (zōngsè), 褐色 (hèsè) :: brown (colour) (noun)
+  棕色 (zōngsè), 褐色 (hèsè), 咖啡色 (kāfēisè) :: brown (colour) (noun)
   褐色 (hèsè), 棕色 (zōngsè), (coffee colour) 咖啡色 (kāfēisè) :: brown (having brown colour) (adjective)
 ***褐色***
-  棕色 (zōngsè), 褐色 (hèsè) :: brown (colour) (noun)
+  棕色 (zōngsè), 褐色 (hèsè), 咖啡色 (kāfēisè) :: brown (colour) (noun)
   褐色 (hèsè), 棕色 (zōngsè), (coffee colour) 咖啡色 (kāfēisè) :: brown (having brown colour) (adjective)
 ===héshì===
   無論什麼, 无论什么 (wúlùn shénme), 無論何事, 无论何事 (wúlùn héshì) :: whatever (anything) (determiner)
@@ -1107,7 +1117,7 @@ Index: ZH ZH->EN
   (Cantonese) 我愛你, 我爱你 (ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
   (Cantonese) 我愛你, 我爱你 (ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
 ===hù===
-  (Min Nan) hù-sû :: adverb (lexical category) (noun)
+  (Min Nan) 副詞, 副词 (hù-sû) :: adverb (lexical category) (noun)
 ===huà===
   方言 (fāngyán), (suffix) 話, 话 (-huà) :: dialect (variety of a language) (noun)
 ***话***
@@ -1190,7 +1200,7 @@ Index: ZH ZH->EN
 ===Ĭng===
   (Min Dong) 英語, 英语 (Ĭng-ngṳ̄) :: English (the English language) (proper noun)
 ===iông===
-  (Min Nan) hêng-iông-sû :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
+  (Min Nan) 形容詞, 形容词 (hêng-iông-sû) :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
 ===jan4===
   (Cantonese) 男人, naam4 jan4 :: man (adult male human) (noun)
 ===jat6===
@@ -1308,11 +1318,7 @@ Index: ZH ZH->EN
 ===價值===
   把某東西看作是無價值的, 把某东西看作是无价值的 (bǎ mǒu dōngxi kànzuò shì wú jiàzhí de) :: floccinaucinihilipilification (act or habit of describing or regarding something as unimportant) (noun)
 ===jība===
-  雞巴, 鸡巴 (jība), 屌 (diǎo), (euphemism) 鳥, 鸟 (diǎo) :: dick (colloquial: penis) (noun)
-***鸡巴***
-  雞巴, 鸡巴 (jība), 屌 (diǎo), (euphemism) 鳥, 鸟 (diǎo) :: dick (colloquial: penis) (noun)
-***雞巴***
-  雞巴, 鸡巴 (jība), 屌 (diǎo), (euphemism) 鳥, 鸟 (diǎo) :: dick (colloquial: penis) (noun)
+  屌 (diǎo), 𣬠𣬶 (jība) :: dick (colloquial: penis) (noun)
 ***畸变***
   畸变 :: aberrant (deviating from the ordinary or natural type; exceptional; abnormal) (adjective)
 ===jídǎo===
@@ -1380,10 +1386,6 @@ Index: ZH ZH->EN
   金屬容器, 金属容器 (jīn shǔ róng qì) :: can (a tin-plate canister) (noun)
 ===jîn===
   (Min Nan) 查埔人 (cha-po͘-lâng), 男人 (lâm-jîn) :: man (adult male human) (noun)
-===jīngfāng===
-  药 (yào), 药材 (yàocái), 藥物 (yàowù), 药物 (yàowù), 经方 (jīngfāng) :: medicine (substance which promotes healing) (noun)
-===经方===
-  药 (yào), 药材 (yàocái), 藥物 (yàowù), 药物 (yàowù), 经方 (jīngfāng) :: medicine (substance which promotes healing) (noun)
 ===jìngpiàn===
   透鏡, 透镜 (tòujìng), 鏡片, 镜片 (jìngpiàn), 鏡頭, 镜头 (jìngtóu) :: lens (object focusing or defocusing the light passing through it) (noun)
 ***镜片***
@@ -1436,36 +1438,36 @@ Index: ZH ZH->EN
   棗兒, 枣儿 (zǎor), 金棗, 金枣 (jīnzǎo) :: date (fruit of the date palm) (noun)
 ***金棗***
   棗兒, 枣儿 (zǎor), 金棗, 金枣 (jīnzǎo) :: date (fruit of the date palm) (noun)
-===今仔日===
+***今仔日***
   (Min Nan) 今仔日 (kin-á-ji̍t) :: today (today (noun)) (noun)
 ===jiq===
   (Wu) 九 (jiq) :: nine (cardinal number) (cardinal number)
-===jīqì===
-  機器人, 机器人 (jīqì rén), 機械人, 机械人 (jīxièrén) :: robot (intelligent mechanical being) (noun)
+===jīqìrén===
+  機器人, 机器人 (jīqìrén), 機械人, 机械人 (jīxièrén) :: robot (intelligent mechanical being) (noun)
 ***机器人***
-  機器人, 机器人 (jīqì rén), 機械人, 机械人 (jīxièrén) :: robot (intelligent mechanical being) (noun)
+  機器人, 机器人 (jīqìrén), 機械人, 机械人 (jīxièrén) :: robot (intelligent mechanical being) (noun)
 ***機器人***
-  機器人, 机器人 (jīqì rén), 機械人, 机械人 (jīxièrén) :: robot (intelligent mechanical being) (noun)
+  機器人, 机器人 (jīqìrén), 機械人, 机械人 (jīxièrén) :: robot (intelligent mechanical being) (noun)
 ===ji̍t===
-  (Min Nan) 日頭 (ji̍t-thâu, li̍t-thâu) :: sun (the star around which the Earth revolves) (proper noun)
   (Min Nan) 今仔日 (kin-á-ji̍t) :: today (today (noun)) (noun)
+  (Min Nan) 日頭 (ji̍t-thâu, li̍t-thâu) :: sun (the star around which the Earth revolves) (proper noun)
 ===Ji̍t===
   (Min Nan) 日本 (Ji̍t-pún) :: Japan (A Far East country in Asia) (proper noun)
 ===jit6===
   (Cantonese) 太陽, 太阳, taai3 joeng4, 日頭, 日头, jat6 tau2, 熱頭, 热头, jit6 tau2 :: sun (the star around which the Earth revolves) (proper noun)
 ===jiǔ===
   九 (jiǔ) (numeral: 玖) :: nine (cardinal number) (cardinal number)
-===九===
+***九***
   九 (jiǔ) (numeral: 玖) :: nine (cardinal number) (cardinal number)
   (Cantonese) 九 (gau2) :: nine (cardinal number) (cardinal number)
-  (Eastern Hokkien (Min Dong)) 九 (kau) :: nine (cardinal number) (cardinal number)
-  (Northern Hokkien (Min Bei)) 九 (kiu) :: nine (cardinal number) (cardinal number)
+  (Min Dong) 九 (kau) :: nine (cardinal number) (cardinal number)
+  (Min Bei) 九 (kiu) :: nine (cardinal number) (cardinal number)
   (Wu) 九 (jiq) :: nine (cardinal number) (cardinal number)
-===玖===
+***玖***
   九 (jiǔ) (numeral: 玖) :: nine (cardinal number) (cardinal number)
 ===jiǔyuè===
   九月 (jiǔyuè) :: September (ninth month of the Gregorian calendar) (proper noun)
-===九月===
+***九月***
   九月 (jiǔyuè) :: September (ninth month of the Gregorian calendar) (proper noun)
 ===jíwù===
   及物動詞, 及物动词 (jíwù dòngcí), 他動詞, 他动词 (tādòngcí) :: transitive verb (a verb that is accompanied by a direct object) (noun)
@@ -1477,11 +1479,11 @@ Index: ZH ZH->EN
 ***及物動詞***
   及物動詞, 及物动词 (jíwù dòngcí), 他動詞, 他动词 (tādòngcí) :: transitive verb (a verb that is accompanied by a direct object) (noun)
 ===jīxièrén===
-  機器人, 机器人 (jīqì rén), 機械人, 机械人 (jīxièrén) :: robot (intelligent mechanical being) (noun)
+  機器人, 机器人 (jīqìrén), 機械人, 机械人 (jīxièrén) :: robot (intelligent mechanical being) (noun)
 ***机械人***
-  機器人, 机器人 (jīqì rén), 機械人, 机械人 (jīxièrén) :: robot (intelligent mechanical being) (noun)
+  機器人, 机器人 (jīqìrén), 機械人, 机械人 (jīxièrén) :: robot (intelligent mechanical being) (noun)
 ***機械人***
-  機器人, 机器人 (jīqì rén), 機械人, 机械人 (jīxièrén) :: robot (intelligent mechanical being) (noun)
+  機器人, 机器人 (jīqìrén), 機械人, 机械人 (jīxièrén) :: robot (intelligent mechanical being) (noun)
 ===記憶體===
   内存, 記憶體 :: RAM (random access memory) ({{acronym}})
 ===joeng4===
@@ -1513,8 +1515,10 @@ Index: ZH ZH->EN
 ***йүә***
   (Dungan) йүә :: month (period into which a year is divided) (noun)
 ===kāfēisè===
+  棕色 (zōngsè), 褐色 (hèsè), 咖啡色 (kāfēisè) :: brown (colour) (noun)
   褐色 (hèsè), 棕色 (zōngsè), (coffee colour) 咖啡色 (kāfēisè) :: brown (having brown colour) (adjective)
 ***咖啡色***
+  棕色 (zōngsè), 褐色 (hèsè), 咖啡色 (kāfēisè) :: brown (colour) (noun)
   褐色 (hèsè), 棕色 (zōngsè), (coffee colour) 咖啡色 (kāfēisè) :: brown (having brown colour) (adjective)
 ===kai===
   (Cantonese) 契第 (kai daih) :: transvestite (cross-dresser) (noun)
@@ -1527,7 +1531,7 @@ Index: ZH ZH->EN
 ===看作===
   把某東西看作是無價值的, 把某东西看作是无价值的 (bǎ mǒu dōngxi kànzuò shì wú jiàzhí de) :: floccinaucinihilipilification (act or habit of describing or regarding something as unimportant) (noun)
 ===kau===
-  (Eastern Hokkien (Min Dong)) 九 (kau) :: nine (cardinal number) (cardinal number)
+  (Min Dong) 九 (kau) :: nine (cardinal number) (cardinal number)
 ===kē===
   (Min Nan) 低地語 (kē-tē-gú) :: Dutch (the Dutch language) (proper noun)
 ===Kē===
@@ -1557,7 +1561,7 @@ Index: ZH ZH->EN
 ===kin===
   (Min Nan) 今仔日 (kin-á-ji̍t) :: today (today (noun)) (noun)
 ===kiu===
-  (Northern Hokkien (Min Bei)) 九 (kiu) :: nine (cardinal number) (cardinal number)
+  (Min Bei) 九 (kiu) :: nine (cardinal number) (cardinal number)
 ===ko===
   (Bai) 二 (ko) :: two (one plus one) (cardinal number)
 ===kô===
@@ -1598,8 +1602,8 @@ Index: ZH ZH->EN
   (Min Nan) 查埔人 (cha-po͘-lâng), 男人 (lâm-jîn) :: man (adult male human) (noun)
 ===làn===
   (Hakka) Hò-làn-ngî :: Dutch (the Dutch language) (proper noun)
-===lan2===
-  (Cantonese) 屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
+===lan===
+  (Cantonese) 屌 (dīu<sup>2</sup>), 㞗 (gau<sup>1</sup>), 𡳞 (lan<sup>2</sup>) :: dick (colloquial: penis) (noun)
 ===láng===
   狼 (láng) :: wolf (animal) (noun)
 ===lang===
@@ -1608,16 +1612,16 @@ Index: ZH ZH->EN
   (Min Nan) 查埔人 (cha-po͘-lâng), 男人 (lâm-jîn) :: man (adult male human) (noun)
 ***狼***
   狼 (láng) :: wolf (animal) (noun)
-===lǎo===
-  老鷹, 老鹰 (lǎoyīng) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
 ===lǎowài===
   外國人, 外国人 (wàiguórén), 外人 (wàirén), 老外 (lǎowài) (colloquial) :: alien (foreigner) (noun)
 ***老外***
   外國人, 外国人 (wàiguórén), 外人 (wàirén), 老外 (lǎowài) (colloquial) :: alien (foreigner) (noun)
-===老鹰===
-  老鷹, 老鹰 (lǎoyīng) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
-===老鷹===
-  老鷹, 老鹰 (lǎoyīng) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
+===lǎoyīng===
+  老鷹, 老鹰 (lǎoyīng), 鷹, 鹰 (yīng) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
+***老鹰***
+  老鷹, 老鹰 (lǎoyīng), 鷹, 鹰 (yīng) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
+***老鷹***
+  老鷹, 老鹰 (lǎoyīng), 鷹, 鹰 (yīng) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
 ===lei5===
   (Cantonese) 我愛你, 我爱你 (ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of affection or deep caring) (phrase)
   (Cantonese) 我愛你, 我爱你 (ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
@@ -1648,11 +1652,11 @@ Index: ZH ZH->EN
   二 (èr), 两 (liǎng) (numeral: 貳) :: two (one plus one) (cardinal number)
   (Min Dong) 两 (lang) :: two (one plus one) (cardinal number)
 ===liǎngzhōu===
-  两周, 兩周 (liǎngzhōu) :: fortnight (period of two weeks) (noun)
+  两周, 兩周 (liǎngzhōu) :: fortnight (period of two weeks) (adverb)
 ***两周***
-  两周, 兩周 (liǎngzhōu) :: fortnight (period of two weeks) (noun)
+  两周, 兩周 (liǎngzhōu) :: fortnight (period of two weeks) (adverb)
 ***兩周***
-  两周, 兩周 (liǎngzhōu) :: fortnight (period of two weeks) (noun)
+  两周, 兩周 (liǎngzhōu) :: fortnight (period of two weeks) (adverb)
 ===lǐbài===
   星期二 (xīngqī'èr), 禮拜二, 礼拜二 (lǐbài'èr), 周二 (zhōu'èr) :: Tuesday (day of the week) (noun)
   星期 (xīngqī), 周 (zhōu), 禮拜, 礼拜 (lǐbài) :: week (period of seven days) (noun)
@@ -1743,12 +1747,12 @@ Index: ZH ZH->EN
   流產, 流产 (líuchǎn), 失敗, 失败 (shībài), 誤投, 误投 (wùtóu) :: abortion (miscarriage) (noun)
   流產, 流产 (líuchǎn), 人工流產, 人工流产 (réngōng-liúchǎn), 人流 (rénliú) :: abortion (induced abortion) (noun)
 ***流產***
-  (Traditional Chinese) 流產, 墮胎, 早產 :: abort (A miscarriage) (noun)
+  流產, 墮胎, 早產 :: abort (A miscarriage) (noun)
   流產, 流产 (líuchǎn), 失敗, 失败 (shībài), 誤投, 误投 (wùtóu) :: abortion (miscarriage) (noun)
   流產, 流产 (líuchǎn), 人工流產, 人工流产 (réngōng-liúchǎn), 人流 (rénliú) :: abortion (induced abortion) (noun)
 ===liùyuè===
   六月, 6月 (liùyuè) :: June (sixth month of the Gregorian calendar) (proper noun)
-===六月===
+***六月***
   六月, 6月 (liùyuè) :: June (sixth month of the Gregorian calendar) (proper noun)
 ===lo===
   (Wu) 六 (lo) :: six (cardinal number) (cardinal number)
@@ -1760,8 +1764,12 @@ Index: ZH ZH->EN
   (Min Nan) 啤酒 (bih-luh), 麥仔酒 (be̍h-á-chiú), 米仔酒 (bí-á-chiú) :: beer (alcoholic drink made of malt) (noun)
 ===luk6===
   (Cantonese) 六 (luk6) :: six (cardinal number) (cardinal number)
+===Luómǎ===
+  羅馬數字, 罗马数字 (Luómǎ shùzì) :: Roman numeral (a numeral represented by letters) (noun)
 ***罗马数字***
-  罗马数字 :: Roman numeral (a numeral represented by letters) (noun)
+  羅馬數字, 罗马数字 (Luómǎ shùzì) :: Roman numeral (a numeral represented by letters) (noun)
+***羅馬數字***
+  羅馬數字, 罗马数字 (Luómǎ shùzì) :: Roman numeral (a numeral represented by letters) (noun)
 ===lùzhài===
   鹿砦 (lùzhài) :: abatis (means of defense) (noun)
 ***鹿砦***
@@ -1785,14 +1793,14 @@ Index: ZH ZH->EN
   蕉麻 (jiāomá)，马尼拉麻 (Mǎnílā má) :: abaca (plant) (noun)
 ===māo===
   貓, 猫 (māo) :: cat (domestic species) (noun)
-  貓, 猫 (māo) :: cat (member of Felidae) (noun)
+  貓, 猫 (māo) :: cat (member of the family Felidae) (noun)
 ***猫***
   貓, 猫 (māo) :: cat (domestic species) (noun)
-  貓, 猫 (māo) :: cat (member of Felidae) (noun)
+  貓, 猫 (māo) :: cat (member of the family Felidae) (noun)
 ***貓***
   貓, 猫 (māo) :: cat (domestic species) (noun)
   (Min Nan) 貓 (niau) :: cat (domestic species) (noun)
-  貓, 猫 (māo) :: cat (member of Felidae) (noun)
+  貓, 猫 (māo) :: cat (member of the family Felidae) (noun)
 ===máodùn===
   矛盾修飾法, 矛盾修饰法 (máodùn xiūshìfǎ), 矛盾語, 矛盾语 (máodùnyǔ) :: oxymoron (figure of speech) (noun)
 ***矛盾修饰法***
@@ -1829,14 +1837,6 @@ Index: ZH ZH->EN
   美國國家航空航天局, 美国国家航空航天局 (Měiguó guójiā hángkōng hángtiānjú), (Taiwan) 美國國家航空暨太空總署, 美国国家航空暨太空总署 (Měiguó guójiā hángkōng jì tàikōng zǒngshǔ) :: NASA (National Aeronautics and Space Administration) ({{acronym}})
 ***美國國家航空暨太空總署***
   美國國家航空航天局, 美国国家航空航天局 (Měiguó guójiā hángkōng hángtiānjú), (Taiwan) 美國國家航空暨太空總署, 美国国家航空暨太空总署 (Měiguó guójiā hángkōng jì tàikōng zǒngshǔ) :: NASA (National Aeronautics and Space Administration) ({{acronym}})
-===門九===
-  (Cantonese) 屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
-===門能===
-  (Cantonese) 屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
-===門七===
-  (Cantonese) 屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
-===門小===
-  (Cantonese) 屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
 ===Me̍t===
   (Hakka) Me̍t-sî-kô :: Mexico (country) (proper noun)
 ===免===
@@ -1862,15 +1862,18 @@ Index: ZH ZH->EN
 ***名***
   名 (míng), 名字 (míngzì) :: name (word or phrase indicating a particular person, place, class or thing) (noun)
 ===ming4===
-  (Cantonese) 名詞 (ming4 ci4) :: noun (grammatical category) (noun)
+  (Cantonese) 名詞, 名词 (ming4 ci4) :: noun (grammatical category) (noun)
 ===míngcí===
   名詞, 名词 (míngcí) :: noun (grammatical category) (noun)
   專有名詞, 专有名词 (zhuānyǒu míngcí), 固有名詞, 固有名词 (gùyǒu míngcí) :: proper noun (The name of a particular person, place, organization or other individual entity) (noun)
 ***名词***
+  (Cantonese) 名詞, 名词 (ming4 ci4) :: noun (grammatical category) (noun)
   名詞, 名词 (míngcí) :: noun (grammatical category) (noun)
+  (Min Nan) 名詞, 名词 (bêng-sû) :: noun (grammatical category) (noun)
 ***名詞***
-  (Cantonese) 名詞 (ming4 ci4) :: noun (grammatical category) (noun)
+  (Cantonese) 名詞, 名词 (ming4 ci4) :: noun (grammatical category) (noun)
   名詞, 名词 (míngcí) :: noun (grammatical category) (noun)
+  (Min Nan) 名詞, 名词 (bêng-sû) :: noun (grammatical category) (noun)
 ===mìngmíng===
   命名 (mìngmíng) :: name (to give a name to) (verb)
 ***命名***
@@ -2023,10 +2026,6 @@ Index: ZH ZH->EN
   年 (nián), (colloquial) 年頭, 年头 (niántóu) :: year (time it takes for the Earth to complete one revolution of the Sun) (noun)
 ***年頭***
   年 (nián), (colloquial) 年頭, 年头 (niántóu) :: year (time it takes for the Earth to complete one revolution of the Sun) (noun)
-***鸟***
-  雞巴, 鸡巴 (jība), 屌 (diǎo), (euphemism) 鳥, 鸟 (diǎo) :: dick (colloquial: penis) (noun)
-***鳥***
-  雞巴, 鸡巴 (jība), 屌 (diǎo), (euphemism) 鳥, 鸟 (diǎo) :: dick (colloquial: penis) (noun)
 ===niau===
   (Min Nan) 貓 (niau) :: cat (domestic species) (noun)
 ===Nĭk===
@@ -2139,13 +2138,13 @@ Index: ZH ZH->EN
   容器, 容器 (róng qì) :: can (a container used to carry and dispense water for plants) (noun)
   金屬容器, 金属容器 (jīn shǔ róng qì) :: can (a tin-plate canister) (noun)
   丟棄, 丢弃 (diū qì) :: can (to discard) (verb)
-===七===
+***七***
   七 (qī) (numeral: 柒) :: seven (cardinal number 7) (cardinal number)
   (Cantonese) 七 (chat1) :: seven (cardinal number 7) (cardinal number)
   (Eastern Hokkien (Min Dong)) 七 (chek) :: seven (cardinal number 7) (cardinal number)
   (Wu) 七 (chi) :: seven (cardinal number 7) (cardinal number)
   (Xiang) 七 (tshiu) :: seven (cardinal number 7) (cardinal number)
-===柒===
+***柒***
   七 (qī) (numeral: 柒) :: seven (cardinal number 7) (cardinal number)
 ===qiānbǐ===
   鉛筆, 铅笔 (qiānbǐ) :: pencil (graphite writing-instrument) (noun)
@@ -2210,6 +2209,8 @@ Index: ZH ZH->EN
   避免 (bìmiǎn), 戒除 (jièchú), 棄權, 弃权 (qìquán) :: abstain (refrain from) (verb)
 ***棄權***
   避免 (bìmiǎn), 戒除 (jièchú), 棄權, 弃权 (qìquán) :: abstain (refrain from) (verb)
+***㞗***
+  (Cantonese) 屌 (dīu<sup>2</sup>), 㞗 (gau<sup>1</sup>), 𡳞 (lan<sup>2</sup>) :: dick (colloquial: penis) (noun)
 ===qiūjì===
   秋天 (qiūtiān), 秋季 (qiūjì) :: autumn (season) (noun)
 ***秋季***
@@ -2222,7 +2223,7 @@ Index: ZH ZH->EN
   (Min Nan) 秋天 (chhiu-thiⁿ) :: autumn (season) (noun)
 ===qīyuè===
   七月, 7月 (qīyuè) :: July (seventh month of the Gregorian calendar) (proper noun)
-===七月===
+***七月***
   七月, 7月 (qīyuè) :: July (seventh month of the Gregorian calendar) (proper noun)
 ===qua===
   (Min Nan) ah qua / ah kua (Hokkien) :: transvestite (cross-dresser) (noun)
@@ -2264,7 +2265,6 @@ Index: ZH ZH->EN
 ===热===
   (the adjectives are in a dictionary form) 越……越…… (yuè...yuè...) (example: 越<u>热</u>越<u>好</u> yuè rè yuè hǎo "the hotter the better"), 愈……愈…… (yù...yù...) :: the (the + ～comparative, the + comparative) (adverb)
 ===rén===
-  機器人, 机器人 (jīqì rén), 機械人, 机械人 (jīxièrén) :: robot (intelligent mechanical being) (noun)
   人 (rén), 人類, 人类 (rénlèi) :: man (human) (noun)
   荷蘭人, 荷兰人 (Hélán-rén) :: Dutch (people from the Netherlands) (proper noun)
 ===rèn===
@@ -2502,8 +2502,8 @@ Index: ZH ZH->EN
 ===赦罪===
   赦免 (shèmiǎn), 赦罪 (shèzuì) :: absolve (theology: pronounce free or give absolution from sin) (verb)
 ===shí===
-  十年 (shí nián) :: decade (a period of ten years) (noun)
   十二月 (shí’èryuè) :: December (twelfth month of the Gregorian calendar) (proper noun)
+  十年 (shí nián) :: decade (a period of ten years) (noun)
   十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
 ===shǐ===
   使免除 (shǐ miǎnchú) :: absolve (set free) (verb)
@@ -2518,11 +2518,11 @@ Index: ZH ZH->EN
   是 (shì) (not used with adjectives) :: is (verb)
   定意, 定意 (dìngyì); 釋義, 释意 (shìyì) :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
   把某東西看作是無價值的, 把某东西看作是无价值的 (bǎ mǒu dōngxi kànzuò shì wú jiàzhí de) :: floccinaucinihilipilification (act or habit of describing or regarding something as unimportant) (noun)
-===十===
+***十***
   十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Cantonese) 十 (sap6) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
-  (Eastern Hokkien (Min Dong)) 十 (sek) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Wu) 十 (ze) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
+  (Eastern Hokkien (Min Dong)) 十 (sek) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Xiang) 十 (su) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
 ===使===
   混淆 (hùnxiáo), 弄亂, 弄乱 (nòngluàn), 搞亂, 搞乱 (gǎoluàn), 使模糊 (shǐ móhu), 使混亂, 使混乱 (shǐ hùnluàn), 使糊塗, 使糊涂 (shǐ hútu) :: obfuscate (make confusing) (verb)
@@ -2540,7 +2540,7 @@ Index: ZH ZH->EN
   定意, 定意 (dìngyì); 釋義, 释意 (shìyì) :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
 ===釋===
   定意, 定意 (dìngyì); 釋義, 释意 (shìyì) :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
-===拾===
+***拾***
   十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
 ===shībài===
   流產, 流产 (líuchǎn), 失敗, 失败 (shībài), 誤投, 误投 (wùtóu) :: abortion (miscarriage) (noun)
@@ -2554,7 +2554,7 @@ Index: ZH ZH->EN
   世博會, 世博会 (shìbó-huì), 世界博覽會, 世界博览会 (shìjìe bólǎnhuì) :: World Exposition (a regular international exposition) (noun)
 ***世博會***
   世博會, 世博会 (shìbó-huì), 世界博覽會, 世界博览会 (shìjìe bólǎnhuì) :: World Exposition (a regular international exposition) (noun)
-===十二月===
+***十二月***
   十二月 (shí’èryuè) :: December (twelfth month of the Gregorian calendar) (proper noun)
 ===shìjì===
   世纪 (shìjì) :: century (100 years) (noun)
@@ -2588,7 +2588,7 @@ Index: ZH ZH->EN
   十一月 (shíyīyuè) :: November (eleventh month of the Gregorian calendar) (proper noun)
 ===shíyuè===
   十月 (shíyuè) :: October (tenth month of the Gregorian calendar) (proper noun)
-===十月===
+***十月***
   十月 (shíyuè) :: October (tenth month of the Gregorian calendar) (proper noun)
 ===shízhōng===
   鐘, 钟 (zhōng), 時鐘, 时钟 (shízhōng) :: clock (instrument to measure or keep track of time) (noun)
@@ -2667,6 +2667,7 @@ Index: ZH ZH->EN
   數, 数 (shù), 數目, 数目 (shùmù), 數字, 数字 (shùzì) :: number (abstract entity) (noun)
   數, 数 (shù), 數字, 数字 (shùzì) :: number (numeral) (noun)
   數詞, 数词 (shùcí), 數字, 数字 (shùzì) :: numeral (word or symbol representing a number) (noun)
+  羅馬數字, 罗马数字 (Luómǎ shùzì) :: Roman numeral (a numeral represented by letters) (noun)
 ***数字***
   數, 数 (shù), 數目, 数目 (shùmù), 數字, 数字 (shùzì) :: number (abstract entity) (noun)
   數, 数 (shù), 數字, 数字 (shùzì) :: number (numeral) (noun)
@@ -2710,15 +2711,15 @@ Index: ZH ZH->EN
   (Min Dong (Eastern Hokkien)) 一 (sio) :: one (cardinal number 1) (cardinal number)
 ===sìyuè===
   四月 (sìyuè) :: April (fourth month of the Gregorian calendar) (proper noun)
-===四月===
+***四月***
   四月 (sìyuè) :: April (fourth month of the Gregorian calendar) (proper noun)
 ===su===
   (Xiang) 十 (su) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
 ===sû===
-  (Min Nan) bêng-sû :: noun (grammatical category) (noun)
-  (Min Nan) tōng-sû :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
-  (Min Nan) hêng-iông-sû :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
-  (Min Nan) hù-sû :: adverb (lexical category) (noun)
+  (Min Nan) 名詞, 名词 (bêng-sû) :: noun (grammatical category) (noun)
+  (Min Nan) 動詞, 动词 (tōng-sû) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  (Min Nan) 形容詞, 形容词 (hêng-iông-sû) :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
+  (Min Nan) 副詞, 副词 (hù-sû) :: adverb (lexical category) (noun)
 ===suān===
   酸 (suān) :: acid (sour, sharp, or biting to the taste) (adjective)
   酸 (suān) :: acid (a sour substance) (noun)
@@ -2753,9 +2754,10 @@ Index: ZH ZH->EN
   縮寫, 缩写 (suōxiě) :: abbreviation (act or result of shortening or reducing) (noun)
 ===sup===
   (Cantonese) 今日 (gam<sup>1</sup>yat<sup>6</sup>) :: today (on the current day) (adverb)
+  (Cantonese) 今日 (gam<sup>1</sup>yat<sup>6</sup>) :: today (today (noun)) (noun)
   (Cantonese) 四 (sei<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
   (Teochew) 四 (si<sup>3</sup>) :: four (the cardinal number 4) (cardinal number)
-  (Cantonese) 今日 (gam<sup>1</sup>yat<sup>6</sup>) :: today (today (noun)) (noun)
+  (Cantonese) 屌 (dīu<sup>2</sup>), 㞗 (gau<sup>1</sup>), 𡳞 (lan<sup>2</sup>) :: dick (colloquial: penis) (noun)
   (Cantonese) 秋季 (cau<sup>1</sup>gwai<sup>3</sup>) :: autumn (season) (noun)
   (Cantonese) Taap<sup>3</sup>naap<sup>6</sup>tok<sup>3</sup>si<sup>1</sup> :: Thanatos (Thanatos, the god of death) (noun)
 ***сы***
@@ -2856,7 +2858,7 @@ Index: ZH ZH->EN
 ===tok===
   (Cantonese) Taap<sup>3</sup>naap<sup>6</sup>tok<sup>3</sup>si<sup>1</sup> :: Thanatos (Thanatos, the god of death) (noun)
 ===tōng===
-  (Min Nan) tōng-sû :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  (Min Nan) 動詞, 动词 (tōng-sû) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
 ===tōngchàng===
   通暢的, 通畅的 (tōngchàng de), 順暢的, 順畅的 (shùnchàng de) :: free (unobstructed) (adjective)
 ===通畅===
@@ -2926,6 +2928,10 @@ Index: ZH ZH->EN
   土豚 (tǔtún) :: aardvark (mammal) (noun)
 ***土豚***
   土豚 (tǔtún) :: aardvark (mammal) (noun)
+===túzǎichǎng===
+  屠宰场 (túzǎichǎng) :: abattoir (public slaughterhouse) (noun)
+***屠宰场***
+  屠宰场 (túzǎichǎng) :: abattoir (public slaughterhouse) (noun)
 ===u===
   (the adjectives are in a dictionary form) 越……越…… (yuè...yuè...) (example: 越<u>热</u>越<u>好</u> yuè rè yuè hǎo "the hotter the better"), 愈……愈…… (yù...yù...) :: the (the + ～comparative, the + comparative) (adverb)
 ***ю***
@@ -3187,8 +3193,8 @@ Index: ZH ZH->EN
   星期二 (xīngqī'èr), 禮拜二, 礼拜二 (lǐbài'èr), 周二 (zhōu'èr) :: Tuesday (day of the week) (noun)
   星期 (xīngqī), 周 (zhōu), 禮拜, 礼拜 (lǐbài) :: week (period of seven days) (noun)
 ***星期***
-  星期 (xīngqī), 周 (zhōu), 禮拜, 礼拜 (lǐbài) :: week (period of seven days) (noun)
   (Cantonese) 星期 (singkei) :: week (period of seven days) (noun)
+  星期 (xīngqī), 周 (zhōu), 禮拜, 礼拜 (lǐbài) :: week (period of seven days) (noun)
 ***星期二***
   星期二 (xīngqī'èr), 禮拜二, 礼拜二 (lǐbài'èr), 周二 (zhōu'èr) :: Tuesday (day of the week) (noun)
 ===xīngqīliù===
@@ -3221,11 +3227,12 @@ Index: ZH ZH->EN
   星期一 (xīngqīyī), 禮拜一, 礼拜一 (lǐbàiyī), 周一 (zhōuyī) :: Monday (day of the week) (noun)
 ===xíngróngcí===
   形容詞, 形容词 (xíngróngcí) :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
-===形容词===
+***形容词***
   形容詞, 形容词 (xíngróngcí) :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
+  (Min Nan) 形容詞, 形容词 (hêng-iông-sû) :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
 ***形容詞***
-  (Cantonese) 形容詞 :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   形容詞, 形容词 (xíngróngcí) :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
+  (Min Nan) 形容詞, 形容词 (hêng-iông-sû) :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
 ***形容词的***
   形容词的 :: adjective (functioning as an adjective) (adjective)
 ***形容詞的***
@@ -3312,19 +3319,23 @@ Index: ZH ZH->EN
   色 (sè), 顏色, 颜色 (yánsè) :: color (spectral composition of visible light) (noun)
   色 (sè), 顏色, 颜色 (yánsè) :: color (particular set of the visible spectrum) (noun)
 ===yào===
-  药 (yào), 药材 (yàocái), 藥物 (yàowù), 药物 (yàowù), 经方 (jīngfāng) :: medicine (substance which promotes healing) (noun)
-===药===
-  药 (yào), 药材 (yàocái), 藥物 (yàowù), 药物 (yàowù), 经方 (jīngfāng) :: medicine (substance which promotes healing) (noun)
+  藥, 药 (yào), 藥材, 药材 (yàocái), 藥物, 药物 (yàowù), 藥物, 药物 (yàowù) :: medicine (substance which promotes healing) (noun)
+***药***
+  藥, 药 (yào), 藥材, 药材 (yàocái), 藥物, 药物 (yàowù), 藥物, 药物 (yàowù) :: medicine (substance which promotes healing) (noun)
+***藥***
+  藥, 药 (yào), 藥材, 药材 (yàocái), 藥物, 药物 (yàowù), 藥物, 药物 (yàowù) :: medicine (substance which promotes healing) (noun)
 ===yàocái===
-  药 (yào), 药材 (yàocái), 藥物 (yàowù), 药物 (yàowù), 经方 (jīngfāng) :: medicine (substance which promotes healing) (noun)
-===药材===
-  药 (yào), 药材 (yàocái), 藥物 (yàowù), 药物 (yàowù), 经方 (jīngfāng) :: medicine (substance which promotes healing) (noun)
+  藥, 药 (yào), 藥材, 药材 (yàocái), 藥物, 药物 (yàowù), 藥物, 药物 (yàowù) :: medicine (substance which promotes healing) (noun)
+***药材***
+  藥, 药 (yào), 藥材, 药材 (yàocái), 藥物, 药物 (yàowù), 藥物, 药物 (yàowù) :: medicine (substance which promotes healing) (noun)
+***藥材***
+  藥, 药 (yào), 藥材, 药材 (yàocái), 藥物, 药物 (yàowù), 藥物, 药物 (yàowù) :: medicine (substance which promotes healing) (noun)
 ===yàowù===
-  药 (yào), 药材 (yàocái), 藥物 (yàowù), 药物 (yàowù), 经方 (jīngfāng) :: medicine (substance which promotes healing) (noun)
-===药物===
-  药 (yào), 药材 (yàocái), 藥物 (yàowù), 药物 (yàowù), 经方 (jīngfāng) :: medicine (substance which promotes healing) (noun)
-===藥物===
-  药 (yào), 药材 (yàocái), 藥物 (yàowù), 药物 (yàowù), 经方 (jīngfāng) :: medicine (substance which promotes healing) (noun)
+  藥, 药 (yào), 藥材, 药材 (yàocái), 藥物, 药物 (yàowù), 藥物, 药物 (yàowù) :: medicine (substance which promotes healing) (noun)
+***药物***
+  藥, 药 (yào), 藥材, 药材 (yàocái), 藥物, 药物 (yàowù), 藥物, 药物 (yàowù) :: medicine (substance which promotes healing) (noun)
+***藥物***
+  藥, 药 (yào), 藥材, 药材 (yàocái), 藥物, 药物 (yàowù), 藥物, 药物 (yàowù) :: medicine (substance which promotes healing) (noun)
 ***夭折***
   中止, 夭折 :: abort (The product of a miscarriage) (noun)
 ===yat===
@@ -3382,9 +3393,13 @@ Index: ZH ZH->EN
 ===Yîn===
   (Hakka) 英文 (Yîn-vùn) :: English (the English language) (proper noun)
 ===yīng===
-  老鷹, 老鹰 (lǎoyīng) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
+  老鷹, 老鹰 (lǎoyīng), 鷹, 鹰 (yīng) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
 ===Yīng===
   (Cantonese) 英文 (Yīng-mán) :: English (the English language) (proper noun)
+***鹰***
+  老鷹, 老鹰 (lǎoyīng), 鷹, 鹰 (yīng) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
+***鷹***
+  老鷹, 老鹰 (lǎoyīng), 鷹, 鹰 (yīng) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
 ===Yīngbàng===
   (British pound) 英鎊, 英镑 (Yīngbàng) :: pound (unit of currency) (noun)
 ***英镑***
@@ -3465,14 +3480,14 @@ Index: ZH ZH->EN
 ===yiu===
   (Jin) 一 (yiu) :: one (cardinal number 1) (cardinal number)
 ===yīxué===
-  醫學, 医学 (yīxué), 方剂学 (fāngjìxué) :: medicine (field of study) (noun)
-===医学===
-  醫學, 医学 (yīxué), 方剂学 (fāngjìxué) :: medicine (field of study) (noun)
-===醫學===
-  醫學, 医学 (yīxué), 方剂学 (fāngjìxué) :: medicine (field of study) (noun)
+  醫學, 医学 (yīxué)方劑學, 方剂学 (fāngjìxué) :: medicine (field of study) (noun)
+***医学***
+  醫學, 医学 (yīxué)方劑學, 方剂学 (fāngjìxué) :: medicine (field of study) (noun)
+***醫學***
+  醫學, 医学 (yīxué)方劑學, 方剂学 (fāngjìxué) :: medicine (field of study) (noun)
 ===yīyuè===
   一月 (yīyuè), 元月 (yuányuè) :: January (first month of the Gregorian calendar) (proper noun)
-===一月===
+***一月***
   一月 (yīyuè), 元月 (yuányuè) :: January (first month of the Gregorian calendar) (proper noun)
 ===yìzhǎng===
   主席 (zhǔxí), 議長, 议长 (yìzhǎng) :: chairman (person presiding over a meeting) (noun)
@@ -3549,7 +3564,7 @@ Index: ZH ZH->EN
   泉 (quán), 源泉 (yuán quán) :: spring (water source) (noun)
 ===yuányuè===
   一月 (yīyuè), 元月 (yuányuè) :: January (first month of the Gregorian calendar) (proper noun)
-===元月===
+***元月***
   一月 (yīyuè), 元月 (yuányuè) :: January (first month of the Gregorian calendar) (proper noun)
 ===yùdìng===
   預訂, 预订 (yùdìng) :: book (reserve) (verb)
@@ -3664,7 +3679,7 @@ Index: ZH ZH->EN
   在 (zài), 正在 (zhèngzài); verb + 著 / 着 (zhe) :: be (used to form the continuous forms of various tenses) (verb)
   在...上面 (zài...shàngmiàn) (上面) :: above (in or to a higher place) (preposition)
 ***早產***
-  (Traditional Chinese) 流產, 墮胎, 早產 :: abort (A miscarriage) (noun)
+  流產, 墮胎, 早產 :: abort (A miscarriage) (noun)
 ***枣儿***
   棗兒, 枣儿 (zǎor), 金棗, 金枣 (jīnzǎo) :: date (fruit of the date palm) (noun)
 ***棗兒***
@@ -3723,6 +3738,12 @@ Index: ZH ZH->EN
   質量, 质量 (zhìliàng), 品质, 品質 (pǐnzhì), 水准, 水準 (shuǐzhǔn) :: quality (level of excellence) (noun)
 ===質量===
   質量, 质量 (zhìliàng), 品质, 品質 (pǐnzhì), 水准, 水準 (shuǐzhǔn) :: quality (level of excellence) (noun)
+===zhìliáo===
+  中醫, 中医 (zhōngyī), 治療, 治疗 (zhìliáo) :: medicine (treatment or cure) (noun)
+***治疗***
+  中醫, 中医 (zhōngyī), 治療, 治疗 (zhìliáo) :: medicine (treatment or cure) (noun)
+***治療***
+  中醫, 中医 (zhōngyī), 治療, 治疗 (zhìliáo) :: medicine (treatment or cure) (noun)
 ===zhìpǐn===
   產品, 产品 (chǎnpǐn), 商品 (shāngpǐn), 製品, 制品 (zhìpǐn) :: product (commodity for sale) (noun)
   產品, 产品 (chǎnpǐn), 貨物, 货物 (huòwù), 物品 (wùpǐn), 製品, 制品, (zhìpǐn), 製品, 制品 (zhìpǐn) :: merchandise (commodities offered for sale) (noun)
@@ -3743,14 +3764,14 @@ Index: ZH ZH->EN
 ===zhōng===
   鐘, 钟 (zhōng), 時鐘, 时钟 (shízhōng) :: clock (instrument to measure or keep track of time) (noun)
 ===zhong===
-  (Traditional Chinese) 中斷 (zhong duan) :: abort (to cause a premature termination) (verb)
+  中斷 (zhong duan) :: abort (to cause a premature termination) (verb)
 ***钟***
   鐘, 钟 (zhōng), 時鐘, 时钟 (shízhōng) :: clock (instrument to measure or keep track of time) (noun)
 ***鐘***
   鐘, 钟 (zhōng), 時鐘, 时钟 (shízhōng) :: clock (instrument to measure or keep track of time) (noun)
 ***中斷***
-  (Traditional Chinese) 中斷, 放棄 :: abort (The function used to abort a process) (noun)
-  (Traditional Chinese) 中斷 (zhong duan) :: abort (to cause a premature termination) (verb)
+  中斷, 放棄 :: abort (The function used to abort a process) (noun)
+  中斷 (zhong duan) :: abort (to cause a premature termination) (verb)
 ===zhòngshù===
   複數, 复数 (fùshù), 眾數, 众数 (zhòngshù) :: plural (more than one) (adjective)
   複數, 复数 (fùshù), 眾數, 众数 (zhòngshù) :: plural (word in plural form) (noun)
@@ -3767,11 +3788,11 @@ Index: ZH ZH->EN
 ***鐘頭***
   小時, 小时 (xiǎoshí), (informal) 鐘頭, 钟头 (zhōngtóu) :: hour (Time period of sixty minutes) (noun)
 ===zhōngyī===
-  中医, 中醫 (zhōngyī) :: medicine (treatment or cure) (noun)
-===中医===
-  中医, 中醫 (zhōngyī) :: medicine (treatment or cure) (noun)
-===中醫===
-  中医, 中醫 (zhōngyī) :: medicine (treatment or cure) (noun)
+  中醫, 中医 (zhōngyī), 治療, 治疗 (zhìliáo) :: medicine (treatment or cure) (noun)
+***中医***
+  中醫, 中医 (zhōngyī), 治療, 治疗 (zhìliáo) :: medicine (treatment or cure) (noun)
+***中醫***
+  中醫, 中医 (zhōngyī), 治療, 治疗 (zhìliáo) :: medicine (treatment or cure) (noun)
 ***中止***
   中止, 夭折 :: abort (The product of a miscarriage) (noun)
 ===zhōu===
@@ -3870,10 +3891,10 @@ Index: ZH ZH->EN
 ===zōngjiào===
   亞伯拉罕諸教, 亚伯拉罕诸教 (Yàbólāhǎn zhūjiào), 亞伯拉罕宗教, 亚伯拉罕宗教 (Yàbólāhǎn zōngjiào) :: Abrahamic (pertaining to Abrahamic religions) (adjective)
 ===zōngsè===
-  棕色 (zōngsè), 褐色 (hèsè) :: brown (colour) (noun)
+  棕色 (zōngsè), 褐色 (hèsè), 咖啡色 (kāfēisè) :: brown (colour) (noun)
   褐色 (hèsè), 棕色 (zōngsè), (coffee colour) 咖啡色 (kāfēisè) :: brown (having brown colour) (adjective)
 ***棕色***
-  棕色 (zōngsè), 褐色 (hèsè) :: brown (colour) (noun)
+  棕色 (zōngsè), 褐色 (hèsè), 咖啡色 (kāfēisè) :: brown (colour) (noun)
   褐色 (hèsè), 棕色 (zōngsè), (coffee colour) 咖啡色 (kāfēisè) :: brown (having brown colour) (adjective)
 ===zǒngshǔ===
   美國國家航空航天局, 美国国家航空航天局 (Měiguó guójiā hángkōng hángtiānjú), (Taiwan) 美國國家航空暨太空總署, 美国国家航空暨太空总署 (Měiguó guójiā hángkōng jì tàikōng zǒngshǔ) :: NASA (National Aeronautics and Space Administration) ({{acronym}})
@@ -3887,8 +3908,10 @@ Index: ZH ZH->EN
   阻止 (zǔzhǐ), 除去 (chùqú) :: abate (to bar, to except) (verb)
 ===zyu2===
   (Cantonese) 主席 (zyu2 zik6) 議長 (ji5 zoeng2) :: chairman (person presiding over a meeting) (noun)
-===?===
-  (Cantonese) 屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
+***?***
+  (Cantonese) 屌 (dīu<sup>2</sup>), 㞗 (gau<sup>1</sup>), 𡳞 (lan<sup>2</sup>) :: dick (colloquial: penis) (noun)
+***?***
+  屌 (diǎo), 𣬠𣬶 (jība) :: dick (colloquial: penis) (noun)
 
 Index: EN EN->ZH
 ===00===
@@ -4000,6 +4023,8 @@ Index: EN EN->ZH
   廢除, 废除 (fèichú) :: abate (to be defeated) (verb)
 ***abatis***
   鹿砦 (lùzhài) :: abatis (means of defense) (noun)
+***abattoir***
+  屠宰场 (túzǎichǎng) :: abattoir (public slaughterhouse) (noun)
 ***abbey***
   修道院 (xiūdàoyuàn) :: abbey (monastery headed by an abbot) (noun)
 ===abbot===
@@ -4041,11 +4066,15 @@ Index: EN EN->ZH
   (board a car, train) 上車, 上车 (shàngchē), (boat, ship) 上船 (shàngchuán), (aeroplane) 上飛機, 上飞机 (shàng fēijī) :: aboard (on board of) (preposition)
 ***abolish***
   为了废止 :: abolish (to do away with) (verb)
+===abolishing===
+  廢除, 废除 (fèichú) :: abolition (act of abolishing) (noun)
+***abolition***
+  廢除, 废除 (fèichú) :: abolition (act of abolishing) (noun)
 ***abort***
-  (Traditional Chinese) 流產, 墮胎, 早產 :: abort (A miscarriage) (noun)
+  流產, 墮胎, 早產 :: abort (A miscarriage) (noun)
   中止, 夭折 :: abort (The product of a miscarriage) (noun)
-  (Traditional Chinese) 中斷, 放棄 :: abort (The function used to abort a process) (noun)
-  (Traditional Chinese) 中斷 (zhong duan) :: abort (to cause a premature termination) (verb)
+  中斷, 放棄 :: abort (The function used to abort a process) (noun)
+  中斷 (zhong duan) :: abort (to cause a premature termination) (verb)
 ***abortion***
   流產, 流产 (líuchǎn), 失敗, 失败 (shībài), 誤投, 误投 (wùtóu) :: abortion (miscarriage) (noun)
   流產, 流产 (líuchǎn), 人工流產, 人工流产 (réngōng-liúchǎn), 人流 (rénliú) :: abortion (induced abortion) (noun)
@@ -4101,7 +4130,7 @@ Index: EN EN->ZH
   内存, 記憶體 :: RAM (random access memory) ({{acronym}})
 ===Accipitridae===
   (Hakka) ên-tiâu :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
-  老鷹, 老鹰 (lǎoyīng) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
+  老鷹, 老鹰 (lǎoyīng), 鷹, 鹰 (yīng) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
   (Min Nan) eng-á :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
 ===accompanied===
   及物動詞, 及物动词 (jíwù dòngcí), 他動詞, 他动词 (tādòngcí) :: transitive verb (a verb that is accompanied by a direct object) (noun)
@@ -4129,14 +4158,15 @@ Index: EN EN->ZH
   把某東西看作是無價值的, 把某东西看作是无价值的 (bǎ mǒu dōngxi kànzuò shì wú jiàzhí de) :: floccinaucinihilipilification (act or habit of describing or regarding something as unimportant) (noun)
   縮寫, 缩写 (suōxiě) :: abbreviation (act or result of shortening or reducing) (noun)
   沐浴 :: ablution (the act of washing or cleansing) (noun)
+  廢除, 废除 (fèichú) :: abolition (act of abolishing) (noun)
   墮胎, 堕胎 (duòtāi) :: abortion (act of inducing abortion) (noun)
   See Mandarin :: definition (act of defining) (noun)
   下定意, 下定意 (xiàdìngyì) :: definition (act of defining) (noun)
   強奸, 强奸 (qiángjiān) :: rape (act of forcing sexual activity) (noun)
 ===action===
-  (Cantonese) 動詞 (dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  (Cantonese) 動詞, 动词 (dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   動詞, 动词 (dòngcí) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
-  (Min Nan) tōng-sû :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  (Min Nan) 動詞, 动词 (tōng-sû) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   下定意, 下定意 (xiàdìngyì) :: definition (action or process of defining) (noun)
   下定意, 下定意 (xiàdìngyì) :: definition (action or power of describing, explaining, or making definite) (noun)
   (of gratitude) 人情債, 人情债 (rénqíngzhài) :: debt (action, state of mind, or object one has an obligation to perform for another) (noun)
@@ -4147,9 +4177,8 @@ Index: EN EN->ZH
 ***adjective***
   (Cantonese) 形容詞的 :: adjective (functioning as an adjective) (adjective)
   形容词的 :: adjective (functioning as an adjective) (adjective)
-  (Cantonese) 形容詞 :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   形容詞, 形容词 (xíngróngcí) :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
-  (Min Nan) hêng-iông-sû :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
+  (Min Nan) 形容詞, 形容词 (hêng-iông-sû) :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   (not used) :: be (used to connect a noun to an adjective that describes it) (verb)
 ===adjectives===
   性 (xìng) :: -ity (Used to form nouns from adjectives.) (suffix)
@@ -4160,9 +4189,9 @@ Index: EN EN->ZH
   男人 (nánrén), 男的 (nánde) :: man (adult male human) (noun)
   (Min Nan) 查埔人 (cha-po͘-lâng), 男人 (lâm-jîn) :: man (adult male human) (noun)
 ***adverb***
-  (Cantonese) 副詞 (fu3 ci4) :: adverb (lexical category) (noun)
+  (Cantonese) 副詞, 副词 (fu3 ci4) :: adverb (lexical category) (noun)
   副詞, 副词 (fùcí) :: adverb (lexical category) (noun)
-  (Min Nan) hù-sû :: adverb (lexical category) (noun)
+  (Min Nan) 副詞, 副词 (hù-sû) :: adverb (lexical category) (noun)
 ===Aeronautics===
   美國國家航空航天局, 美国国家航空航天局 (Měiguó guójiā hángkōng hángtiānjú), (Taiwan) 美國國家航空暨太空總署, 美国国家航空暨太空总署 (Měiguó guójiā hángkōng jì tàikōng zǒngshǔ) :: NASA (National Aeronautics and Space Administration) ({{acronym}})
 ===affection===
@@ -4236,7 +4265,7 @@ Index: EN EN->ZH
   太陽, 太阳 (tàiyáng), 恒星 (héngxīng), 日 (rì) :: sun (any star, especially when seen as the centre of any single solar system) (noun)
 ===Any===
   (Hakka) ên-tiâu :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
-  老鷹, 老鹰 (lǎoyīng) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
+  老鷹, 老鹰 (lǎoyīng), 鷹, 鹰 (yīng) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
   (Min Nan) eng-á :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
 ===anything===
   無論什麼, 无论什么 (wúlùn shénme), 無論何事, 无论何事 (wúlùn héshì) :: whatever (anything) (determiner)
@@ -4360,7 +4389,7 @@ Index: EN EN->ZH
 ===behind===
   遗弃 :: abandon (to leave behind or desert) (verb)
 ===belief===
-  多神教 (duōshénjiào) :: polytheism (belief of existence of many gods) (noun)
+  多神教 (duōshénjiào) :: polytheism (belief in the existence of many gods) (noun)
   一神教 (yishenjiao) :: monotheism (The belief in a single God) (noun)
   教條, 教条 (jiàotiáo) :: doctrine (belief) (noun)
 ***bellgirl***
@@ -4379,7 +4408,7 @@ Index: EN EN->ZH
   烏鴉, 乌鸦, wūyā, 渡鴉, 渡鸦, dùyā, 烏黑, 乌黑, wūhēi :: raven (bird) (noun)
 ===birds===
   (Hakka) ên-tiâu :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
-  老鷹, 老鹰 (lǎoyīng) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
+  老鷹, 老鹰 (lǎoyīng), 鷹, 鹰 (yīng) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
   (Min Nan) eng-á :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
 ***birth***
   出生 (chūshēng) :: birth (process of childbearing) (noun)
@@ -4422,7 +4451,7 @@ Index: EN EN->ZH
   打敗, 打败 (dǎbài), 擊倒, 击倒 (jídǎo) :: abate (to bring down a person physically or mentally) (verb)
   撤銷, 撤销 (chèxiāo) :: abate (obsolete: to bring entirely down or put an end to) (verb)
 ***brown***
-  棕色 (zōngsè), 褐色 (hèsè) :: brown (colour) (noun)
+  棕色 (zōngsè), 褐色 (hèsè), 咖啡色 (kāfēisè) :: brown (colour) (noun)
   褐色 (hèsè), 棕色 (zōngsè), (coffee colour) 咖啡色 (kāfēisè) :: brown (having brown colour) (adjective)
 ===bureaucracy===
   官僚 (guānliáo) :: bureaucrat (An official in a bureaucracy) (noun)
@@ -4448,8 +4477,8 @@ Index: EN EN->ZH
   六月, 6月 (liùyuè) :: June (sixth month of the Gregorian calendar) (proper noun)
   七月, 7月 (qīyuè) :: July (seventh month of the Gregorian calendar) (proper noun)
   九月 (jiǔyuè) :: September (ninth month of the Gregorian calendar) (proper noun)
-  十月 (shíyuè) :: October (tenth month of the Gregorian calendar) (proper noun)
   (Dungan) шийүә :: October (tenth month of the Gregorian calendar) (proper noun)
+  十月 (shíyuè) :: October (tenth month of the Gregorian calendar) (proper noun)
   十一月 (shíyīyuè) :: November (eleventh month of the Gregorian calendar) (proper noun)
 ===calf===
   跟腱 (gēnjiàn) :: Achilles tendon (strong tendon in the calf of the leg) (noun)
@@ -4521,8 +4550,8 @@ Index: EN EN->ZH
   九 (jiǔ) (numeral: 玖) :: nine (cardinal number) (cardinal number)
   (Cantonese) 九 (gau2) :: nine (cardinal number) (cardinal number)
   (Teochew) gao2 :: nine (cardinal number) (cardinal number)
-  (Eastern Hokkien (Min Dong)) 九 (kau) :: nine (cardinal number) (cardinal number)
-  (Northern Hokkien (Min Bei)) 九 (kiu) :: nine (cardinal number) (cardinal number)
+  (Min Dong) 九 (kau) :: nine (cardinal number) (cardinal number)
+  (Min Bei) 九 (kiu) :: nine (cardinal number) (cardinal number)
   (Wu) 九 (jiq) :: nine (cardinal number) (cardinal number)
   十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Cantonese) 十 (sap6) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
@@ -4537,7 +4566,7 @@ Index: EN EN->ZH
   我愛你, 我爱你 (wǒ ài nǐ) :: I love you (affirmation of affection or deep caring) (phrase)
 ===carnivorous===
   (Hakka) ên-tiâu :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
-  老鷹, 老鹰 (lǎoyīng) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
+  老鷹, 老鹰 (lǎoyīng), 鷹, 鹰 (yīng) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
   (Min Nan) eng-á :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
 ===carry===
   容器, 容器 (róng qì) :: can (a container used to carry and dispense water for plants) (noun)
@@ -4548,18 +4577,18 @@ Index: EN EN->ZH
 ***cat***
   貓, 猫 (māo) :: cat (domestic species) (noun)
   (Min Nan) 貓 (niau) :: cat (domestic species) (noun)
-  貓, 猫 (māo) :: cat (member of Felidae) (noun)
+  貓, 猫 (māo) :: cat (member of the family Felidae) (noun)
 ===category===
-  (Cantonese) 名詞 (ming4 ci4) :: noun (grammatical category) (noun)
+  (Cantonese) 名詞, 名词 (ming4 ci4) :: noun (grammatical category) (noun)
   名詞, 名词 (míngcí) :: noun (grammatical category) (noun)
-  (Min Nan) bêng-sû :: noun (grammatical category) (noun)
-  (Cantonese) 副詞 (fu3 ci4) :: adverb (lexical category) (noun)
+  (Min Nan) 名詞, 名词 (bêng-sû) :: noun (grammatical category) (noun)
+  (Cantonese) 副詞, 副词 (fu3 ci4) :: adverb (lexical category) (noun)
   副詞, 副词 (fùcí) :: adverb (lexical category) (noun)
-  (Min Nan) hù-sû :: adverb (lexical category) (noun)
+  (Min Nan) 副詞, 副词 (hù-sû) :: adverb (lexical category) (noun)
 ===cats===
   傾盆大雨, 倾盆大雨 (qīngpéndàyǔ) :: rain cats and dogs (to rain very heavily) (verb)
 ===cause===
-  (Traditional Chinese) 中斷 (zhong duan) :: abort (to cause a premature termination) (verb)
+  中斷 (zhong duan) :: abort (to cause a premature termination) (verb)
   因為, 因为 (yīnwèi), (more formal) 由於, 由于 (yóuyú) :: because (by or for the cause that; on this account that; for the reason that) (conjunction)
 ===cavity===
   腔, 腔 (qiāng) :: abdomen (cavity) (noun)
@@ -4636,15 +4665,15 @@ Index: EN EN->ZH
 ===college===
   年級, 年级 (niánjí), (academic year) 學年, 学年 (xuénián) :: year (a level or grade at school or college) (noun)
 ===colloquial===
-  (Cantonese) 屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
-  雞巴, 鸡巴 (jība), 屌 (diǎo), (euphemism) 鳥, 鸟 (diǎo) :: dick (colloquial: penis) (noun)
+  屌 (diǎo), 𣬠𣬶 (jība) :: dick (colloquial: penis) (noun)
+  (Cantonese) 屌 (dīu<sup>2</sup>), 㞗 (gau<sup>1</sup>), 𡳞 (lan<sup>2</sup>) :: dick (colloquial: penis) (noun)
 ***color***
   色 (sè), 顏色, 颜色 (yánsè) :: color (spectral composition of visible light) (noun)
   色 (sè), 顏色, 颜色 (yánsè) :: color (particular set of the visible spectrum) (noun)
   彩色 (cǎisè) :: color (conveying color) (adjective)
   填色 (tián sè), 上色 (shàng sè), 著色 (zhuó sè) :: color (give something color) (verb)
 ===colour===
-  棕色 (zōngsè), 褐色 (hèsè) :: brown (colour) (noun)
+  棕色 (zōngsè), 褐色 (hèsè), 咖啡色 (kāfēisè) :: brown (colour) (noun)
   褐色 (hèsè), 棕色 (zōngsè), (coffee colour) 咖啡色 (kāfēisè) :: brown (having brown colour) (adjective)
   橙色 (chéngsè), 橙黃色, 橙黄色 (chénghuángsè) :: orange (colour) (noun)
   橙色 (chéngsè), 橙黃色, 橙黄色 (chénghuángsè) :: orange (colour) (adjective)
@@ -4661,7 +4690,7 @@ Index: EN EN->ZH
 ===communication===
   (Dungan) йүян :: language (system of communication using words or symbols) (noun)
   語言, 语言 (yǔyán) :: language (system of communication using words or symbols) (noun)
-  (Min Nan) gí-giân :: language (system of communication using words or symbols) (noun)
+  (Min Nan) gí-giân Hani :: language (system of communication using words or symbols) (noun)
   語言, 语言 (yǔyán) :: language (nonverbal communication) (noun)
 ===company===
   股票 (gǔpiào) :: stock (finance: capital raised by a company) (noun)
@@ -4776,7 +4805,7 @@ Index: EN EN->ZH
   (Cantonese) 閪 (hai1), 屄 ( bei1, hai1) :: cunt (genitalia) (noun)
   屄 (bī) :: cunt (genitalia) (noun)
 ===cure===
-  中医, 中醫 (zhōngyī) :: medicine (treatment or cure) (noun)
+  中醫, 中医 (zhōngyī), 治療, 治疗 (zhìliáo) :: medicine (treatment or cure) (noun)
 ===currency===
   (British pound) 英鎊, 英镑 (Yīngbàng) :: pound (unit of currency) (noun)
   比索 (bǐsuǒ) :: peso (currency) (noun)
@@ -4890,9 +4919,8 @@ Index: EN EN->ZH
 ===described===
   是 (shì) :: be (used to indicate that the subject has the qualities described by a noun or noun phrase) (verb)
 ===describes===
-  (Cantonese) 形容詞 :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   形容詞, 形容词 (xíngróngcí) :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
-  (Min Nan) hêng-iông-sû :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
+  (Min Nan) 形容詞, 形容词 (hêng-iông-sû) :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   (not used) :: be (used to connect a noun to an adjective that describes it) (verb)
 ===describing===
   把某東西看作是無價值的, 把某东西看作是无价值的 (bǎ mǒu dōngxi kànzuò shì wú jiàzhí de) :: floccinaucinihilipilification (act or habit of describing or regarding something as unimportant) (noun)
@@ -4918,8 +4946,8 @@ Index: EN EN->ZH
   (Dungan) фон-ян :: dialect (variety of a language) (noun)
   方言 (fāngyán), (suffix) 話, 话 (-huà) :: dialect (variety of a language) (noun)
 ***dick***
-  (Cantonese) 屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
-  雞巴, 鸡巴 (jība), 屌 (diǎo), (euphemism) 鳥, 鸟 (diǎo) :: dick (colloquial: penis) (noun)
+  屌 (diǎo), 𣬠𣬶 (jība) :: dick (colloquial: penis) (noun)
+  (Cantonese) 屌 (dīu<sup>2</sup>), 㞗 (gau<sup>1</sup>), 𡳞 (lan<sup>2</sup>) :: dick (colloquial: penis) (noun)
 ===dictionaries===
   詞典學, 词典学 (cídiǎnxué), 辭書學, 辞书学 (císhūxué), 詞典編輯, 词典编辑 (cídiǎn biānjí) :: lexicography (art or craft of writing dictionaries) (noun)
 ***dictionary***
@@ -5005,7 +5033,7 @@ Index: EN EN->ZH
   (Min Nan) 行星 (hêng-seng) :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
 ***eagle***
   (Hakka) ên-tiâu :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
-  老鷹, 老鹰 (lǎoyīng) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
+  老鷹, 老鹰 (lǎoyīng), 鷹, 鹰 (yīng) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
   (Min Nan) eng-á :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
 ===Earth===
   外星人 (wàixīngrén), 宇宙人 (yǔzhòurén) :: alien (life form of non-Earth origin) (noun)
@@ -5118,9 +5146,9 @@ Index: EN EN->ZH
   荷蘭, 荷兰 (Hélán) :: Netherlands (country in northwestern Europe) (proper noun)
   (Min Nan) Kē-tē-kok :: Netherlands (country in northwestern Europe) (proper noun)
 ===event===
-  (Cantonese) 動詞 (dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  (Cantonese) 動詞, 动词 (dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   動詞, 动词 (dòngcí) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
-  (Min Nan) tōng-sû :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  (Min Nan) 動詞, 动词 (tōng-sû) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   日期 (rìqī) :: date (point of time at which a transaction or event takes place) (noun)
 ***everybody***
   大家 (dàjiā) :: everybody (all people) (pronoun)
@@ -5136,7 +5164,7 @@ Index: EN EN->ZH
   (Dungan) ю, зэ :: be (exist) (verb)
   是 (shì), 有 (yǒu) :: be (exist) (verb)
 ===existence===
-  多神教 (duōshénjiào) :: polytheism (belief of existence of many gods) (noun)
+  多神教 (duōshénjiào) :: polytheism (belief in the existence of many gods) (noun)
 ===explaining===
   下定意, 下定意 (xiàdìngyì) :: definition (action or power of describing, explaining, or making definite) (noun)
 ===explains===
@@ -5159,8 +5187,9 @@ Index: EN EN->ZH
 ===false===
   偽友, 伪友 (wěi yǒu), 假友 (jiǎ yǒu), 假等義, 假等义 (jiǎ děngyì) :: false friend (false friend) (noun)
 ===family===
+  貓, 猫 (māo) :: cat (member of the family Felidae) (noun)
   (Hakka) ên-tiâu :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
-  老鷹, 老鹰 (lǎoyīng) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
+  老鷹, 老鹰 (lǎoyīng), 鷹, 鹰 (yīng) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
   (Min Nan) eng-á :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
   鱈魚, 鳕鱼 (xuěyú) :: cod (marine fish of the family Gadidae) (noun)
 ***FAQ***
@@ -5185,7 +5214,7 @@ Index: EN EN->ZH
   我愛你, 我爱你 (wǒ ài nǐ) :: I love you (affirmation of romantic feeling) (phrase)
   (Wu) 我爱侬 (wo ei non, ngu ei non) :: I love you (affirmation of romantic feeling) (phrase)
 ===Felidae===
-  貓, 猫 (māo) :: cat (member of Felidae) (noun)
+  貓, 猫 (māo) :: cat (member of the family Felidae) (noun)
 ===female===
   女性服务生 (nuxing fuwu-sheng) :: bellgirl (a female bellhop) (noun)
   潮吹 (cháochuī), 淫水 (yǐnshuǐ), (slang) 出水 (chūshuǐ) :: cum (slang: female ejaculatory discharge) (noun)
@@ -5195,7 +5224,7 @@ Index: EN EN->ZH
 ===fictitious===
   寓言 (yùyán) :: fable (fictitious narration to enforce some useful truth or precept) (noun)
 ===field===
-  醫學, 医学 (yīxué), 方剂学 (fāngjìxué) :: medicine (field of study) (noun)
+  醫學, 医学 (yīxué)方劑學, 方剂学 (fāngjìxué) :: medicine (field of study) (noun)
   語言, 语言 (yǔyán), 用語, 用语 (yòngyǔ), 詞語, 词语 (cíyǔ) :: language (vocabulary of a particular field) (noun)
 ===figure===
   矛盾修飾法, 矛盾修饰法 (máodùn xiūshìfǎ), 矛盾語, 矛盾语 (máodùnyǔ) :: oxymoron (figure of speech) (noun)
@@ -5260,7 +5289,7 @@ Index: EN EN->ZH
 ===forms===
   在 (zài), 正在 (zhèngzài); verb + 著 / 着 (zhe) :: be (used to form the continuous forms of various tenses) (verb)
 ***fortnight***
-  两周, 兩周 (liǎngzhōu) :: fortnight (period of two weeks) (noun)
+  两周, 兩周 (liǎngzhōu) :: fortnight (period of two weeks) (adverb)
 ***four***
   (Old Chinese) 亖 (*hljids) :: four (the cardinal number 4) (cardinal number)
   四 (sì) (numeral: 肆) :: four (the cardinal number 4) (cardinal number)
@@ -5301,7 +5330,7 @@ Index: EN EN->ZH
   橙 (chéng), 橙子 (chéngzi), (technically "tangerine", but often used as "orange") 橘子 (júzi), (alternative form:) 桔子 (júzi) :: orange (fruit) (noun)
   棗兒, 枣儿 (zǎor), 金棗, 金枣 (jīnzǎo) :: date (fruit of the date palm) (noun)
 ===function===
-  (Traditional Chinese) 中斷, 放棄 :: abort (The function used to abort a process) (noun)
+  中斷, 放棄 :: abort (The function used to abort a process) (noun)
 ===functioning===
   (Cantonese) 形容詞的 :: adjective (functioning as an adjective) (adjective)
   形容词的 :: adjective (functioning as an adjective) (adjective)
@@ -5360,7 +5389,7 @@ Index: EN EN->ZH
 ===God===
   一神教 (yishenjiao) :: monotheism (The belief in a single God) (noun)
 ===gods===
-  多神教 (duōshénjiào) :: polytheism (belief of existence of many gods) (noun)
+  多神教 (duōshénjiào) :: polytheism (belief in the existence of many gods) (noun)
 ===good===
   優質, 优质 (yōuzhì); 高級, 高级 (gāojí) :: quality (being of good worth) (adjective)
 ===goods===
@@ -5370,18 +5399,17 @@ Index: EN EN->ZH
 ===grain===
   (to take with a grain of salt; not to be believed literally) 不可全信 (bùkěquánxìn) :: grain of salt (with common sense and skepticism) (noun)
 ===grammar===
-  (Cantonese) 動詞 (dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  (Cantonese) 動詞, 动词 (dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   動詞, 动词 (dòngcí) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
-  (Min Nan) tōng-sû :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
-  (Cantonese) 形容詞 :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
+  (Min Nan) 動詞, 动词 (tōng-sû) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   形容詞, 形容词 (xíngróngcí) :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
-  (Min Nan) hêng-iông-sû :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
+  (Min Nan) 形容詞, 形容词 (hêng-iông-sû) :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   及物 (jíwù) :: transitive (in grammar: of a verb, that takes an object or objects) (adjective)
   單數, 单数 (dānshù) :: singular (grammar: form of a word that refers to only one thing) (noun)
 ===grammatical===
-  (Cantonese) 名詞 (ming4 ci4) :: noun (grammatical category) (noun)
+  (Cantonese) 名詞, 名词 (ming4 ci4) :: noun (grammatical category) (noun)
   名詞, 名词 (míngcí) :: noun (grammatical category) (noun)
-  (Min Nan) bêng-sû :: noun (grammatical category) (noun)
+  (Min Nan) 名詞, 名词 (bêng-sû) :: noun (grammatical category) (noun)
 ===graphite===
   鉛筆, 铅笔 (qiānbǐ) :: pencil (graphite writing-instrument) (noun)
 ***grass***
@@ -5397,8 +5425,8 @@ Index: EN EN->ZH
   六月, 6月 (liùyuè) :: June (sixth month of the Gregorian calendar) (proper noun)
   七月, 7月 (qīyuè) :: July (seventh month of the Gregorian calendar) (proper noun)
   九月 (jiǔyuè) :: September (ninth month of the Gregorian calendar) (proper noun)
-  十月 (shíyuè) :: October (tenth month of the Gregorian calendar) (proper noun)
   (Dungan) шийүә :: October (tenth month of the Gregorian calendar) (proper noun)
+  十月 (shíyuè) :: October (tenth month of the Gregorian calendar) (proper noun)
   十一月 (shíyīyuè) :: November (eleventh month of the Gregorian calendar) (proper noun)
 ===ground===
   草 (cǎo), 青草 (qīngcǎo) :: grass (ground cover plant) (noun)
@@ -5427,7 +5455,7 @@ Index: EN EN->ZH
 ===headed===
   修道院 (xiūdàoyuàn) :: abbey (monastery headed by an abbot) (noun)
 ===healing===
-  药 (yào), 药材 (yàocái), 藥物 (yàowù), 药物 (yàowù), 经方 (jīngfāng) :: medicine (substance which promotes healing) (noun)
+  藥, 药 (yào), 藥材, 药材 (yàocái), 藥物, 药物 (yàowù), 藥物, 药物 (yàowù) :: medicine (substance which promotes healing) (noun)
 ===heavily===
   傾盆大雨, 倾盆大雨 (qīngpéndàyǔ) :: rain cats and dogs (to rain very heavily) (verb)
 ***hell***
@@ -5497,9 +5525,9 @@ Index: EN EN->ZH
   是 (shì) :: be (used to indicate that the subject has the qualities described by a noun or noun phrase) (verb)
   (not used) :: be (used to indicate weather, air quality, or the like) (verb)
 ===indicates===
-  (Cantonese) 動詞 (dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  (Cantonese) 動詞, 动词 (dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   動詞, 动词 (dòngcí) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
-  (Min Nan) tōng-sû :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  (Min Nan) 動詞, 动词 (tōng-sû) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
 ===indicating===
   名 (míng), 名字 (míngzì) :: name (word or phrase indicating a particular person, place, class or thing) (noun)
   无论如何, wúlùnrúhé :: whatever (indicating the matter is not worthy of further discussion) (interjection)
@@ -5525,7 +5553,7 @@ Index: EN EN->ZH
   武器 (wǔqì), 兵器 (bīngqì) :: weapon (instrument of attack or defense in combat) (noun)
   鉛筆, 铅笔 (qiānbǐ) :: pencil (graphite writing-instrument) (noun)
 ===intelligent===
-  機器人, 机器人 (jīqì rén), 機械人, 机械人 (jīxièrén) :: robot (intelligent mechanical being) (noun)
+  機器人, 机器人 (jīqìrén), 機械人, 机械人 (jīxièrén) :: robot (intelligent mechanical being) (noun)
 ===intercourse===
   強奸, 强奸 (qiángjiān), 強暴, 强暴 (qiángbào) :: rape (force sexual intercourse) (verb)
 ===international===
@@ -5575,7 +5603,7 @@ Index: EN EN->ZH
 ***language***
   (Dungan) йүян :: language (system of communication using words or symbols) (noun)
   語言, 语言 (yǔyán) :: language (system of communication using words or symbols) (noun)
-  (Min Nan) gí-giân :: language (system of communication using words or symbols) (noun)
+  (Min Nan) gí-giân Hani :: language (system of communication using words or symbols) (noun)
   語言, 语言 (yǔyán) :: language (the ability to communicate using words) (noun)
   語言, 语言 (yǔyán) :: language (nonverbal communication) (noun)
   語言, 语言 (yǔyán) :: language (computer language) (noun)
@@ -5609,7 +5637,7 @@ Index: EN EN->ZH
   語源學, 语源学 (yǔyuánxué) :: etymology (study of the historical development of languages, particularly of individual words) (noun)
 ===large===
   (Hakka) ên-tiâu :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
-  老鷹, 老鹰 (lǎoyīng) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
+  老鷹, 老鹰 (lǎoyīng), 鷹, 鹰 (yīng) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
   (Min Nan) eng-á :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
 ===law===
   假釋, 假释 (jiǎshì) :: parole (law: a release of (a prisoner)) (noun)
@@ -5638,14 +5666,14 @@ Index: EN EN->ZH
   (English letter names are called as in English, no other standard Mandarin name exists) :: i (name of the letter I, i) (noun)
 ===letters===
   字母 (zìmǔ) :: alphabet (an ordered set of letters used in a language) (noun)
-  罗马数字 :: Roman numeral (a numeral represented by letters) (noun)
+  羅馬數字, 罗马数字 (Luómǎ shùzì) :: Roman numeral (a numeral represented by letters) (noun)
 ===level===
   年級, 年级 (niánjí), (academic year) 學年, 学年 (xuénián) :: year (a level or grade at school or college) (noun)
   質量, 质量 (zhìliàng), 品质, 品質 (pǐnzhì), 水准, 水準 (shuǐzhǔn) :: quality (level of excellence) (noun)
 ===lexical===
-  (Cantonese) 副詞 (fu3 ci4) :: adverb (lexical category) (noun)
+  (Cantonese) 副詞, 副词 (fu3 ci4) :: adverb (lexical category) (noun)
   副詞, 副词 (fùcí) :: adverb (lexical category) (noun)
-  (Min Nan) hù-sû :: adverb (lexical category) (noun)
+  (Min Nan) 副詞, 副词 (hù-sû) :: adverb (lexical category) (noun)
 ***lexicographer***
   词典编纂者 :: lexicographer (one who writes or compiles a dictionary) (noun)
 ***lexicography***
@@ -5740,7 +5768,7 @@ Index: EN EN->ZH
 ===manner===
   絕對地, 绝对地 (juéduìde), 完全地 (wánquánde) :: absolutely (in an absolute manner) (adverb)
 ===many===
-  多神教 (duōshénjiào) :: polytheism (belief of existence of many gods) (noun)
+  多神教 (duōshénjiào) :: polytheism (belief in the existence of many gods) (noun)
 ***march***
   行進, 行进 (xíngjìn) :: march (formal, rhythmic way of walking) (noun)
   行進曲, 行进曲 (xíngjìnqū) :: march (song in the genre of music written for marching) (noun)
@@ -5793,11 +5821,11 @@ Index: EN EN->ZH
   (Cantonese) 肉 (juk6) :: meat (any sort of flesh) (noun)
   肉 (ròu) :: meat (any sort of flesh) (noun)
 ===mechanical===
-  機器人, 机器人 (jīqì rén), 機械人, 机械人 (jīxièrén) :: robot (intelligent mechanical being) (noun)
+  機器人, 机器人 (jīqìrén), 機械人, 机械人 (jīxièrén) :: robot (intelligent mechanical being) (noun)
 ***medicine***
-  药 (yào), 药材 (yàocái), 藥物 (yàowù), 药物 (yàowù), 经方 (jīngfāng) :: medicine (substance which promotes healing) (noun)
-  中医, 中醫 (zhōngyī) :: medicine (treatment or cure) (noun)
-  醫學, 医学 (yīxué), 方剂学 (fāngjìxué) :: medicine (field of study) (noun)
+  藥, 药 (yào), 藥材, 药材 (yàocái), 藥物, 药物 (yàowù), 藥物, 药物 (yàowù) :: medicine (substance which promotes healing) (noun)
+  中醫, 中医 (zhōngyī), 治療, 治疗 (zhìliáo) :: medicine (treatment or cure) (noun)
+  醫學, 医学 (yīxué)方劑學, 方剂学 (fāngjìxué) :: medicine (field of study) (noun)
 ===meeting===
   会议记录 :: minute (record of meeting) (noun)
   (Cantonese) 主席 (zyu2 zik6) 議長 (ji5 zoeng2) :: chairman (person presiding over a meeting) (noun)
@@ -5805,7 +5833,7 @@ Index: EN EN->ZH
   約會, 约会 (yuēhuì) :: date (pre-arranged social meeting) (noun)
   約會, 约会 (yuēhuì), 幽會, 幽会 (yōuhuì) :: date (meeting with a lover or potential lover; a person so met) (noun)
 ===member===
-  貓, 猫 (māo) :: cat (member of Felidae) (noun)
+  貓, 猫 (māo) :: cat (member of the family Felidae) (noun)
 ===memory===
   内存, 記憶體 :: RAM (random access memory) ({{acronym}})
 ===Men===
@@ -5849,13 +5877,12 @@ Index: EN EN->ZH
 ===minutes===
   小時, 小时 (xiǎoshí), (informal) 鐘頭, 钟头 (zhōngtóu) :: hour (Time period of sixty minutes) (noun)
 ===miscarriage===
-  (Traditional Chinese) 流產, 墮胎, 早產 :: abort (A miscarriage) (noun)
+  流產, 墮胎, 早產 :: abort (A miscarriage) (noun)
   中止, 夭折 :: abort (The product of a miscarriage) (noun)
   流產, 流产 (líuchǎn), 失敗, 失败 (shībài), 誤投, 误投 (wùtóu) :: abortion (miscarriage) (noun)
 ===modifies===
-  (Cantonese) 形容詞 :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   形容詞, 形容词 (xíngróngcí) :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
-  (Min Nan) hêng-iông-sû :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
+  (Min Nan) 形容詞, 形容词 (hêng-iông-sû) :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
 ===mollusc===
   鮑魚, 鲍鱼 (bàoyú) :: abalone (edible univalve mollusc) (noun)
 ===monastery===
@@ -5876,8 +5903,8 @@ Index: EN EN->ZH
   六月, 6月 (liùyuè) :: June (sixth month of the Gregorian calendar) (proper noun)
   七月, 7月 (qīyuè) :: July (seventh month of the Gregorian calendar) (proper noun)
   九月 (jiǔyuè) :: September (ninth month of the Gregorian calendar) (proper noun)
-  十月 (shíyuè) :: October (tenth month of the Gregorian calendar) (proper noun)
   (Dungan) шийүә :: October (tenth month of the Gregorian calendar) (proper noun)
+  十月 (shíyuè) :: October (tenth month of the Gregorian calendar) (proper noun)
   十一月 (shíyīyuè) :: November (eleventh month of the Gregorian calendar) (proper noun)
 ===more===
   複數, 复数 (fùshù), 眾數, 众数 (zhòngshù) :: plural (more than one) (adjective)
@@ -5954,8 +5981,8 @@ Index: EN EN->ZH
   九 (jiǔ) (numeral: 玖) :: nine (cardinal number) (cardinal number)
   (Cantonese) 九 (gau2) :: nine (cardinal number) (cardinal number)
   (Teochew) gao2 :: nine (cardinal number) (cardinal number)
-  (Eastern Hokkien (Min Dong)) 九 (kau) :: nine (cardinal number) (cardinal number)
-  (Northern Hokkien (Min Bei)) 九 (kiu) :: nine (cardinal number) (cardinal number)
+  (Min Dong) 九 (kau) :: nine (cardinal number) (cardinal number)
+  (Min Bei) 九 (kiu) :: nine (cardinal number) (cardinal number)
   (Wu) 九 (jiq) :: nine (cardinal number) (cardinal number)
 ===ninth===
   九月 (jiǔyuè) :: September (ninth month of the Gregorian calendar) (proper noun)
@@ -5983,13 +6010,12 @@ Index: EN EN->ZH
   (Min Nan) 空 (khòng) :: zero (cardinal number before 1, denoting nothing) (cardinal number)
   (Teochew) kang3, leng5 :: zero (cardinal number before 1, denoting nothing) (cardinal number)
 ***noun***
-  (Cantonese) 名詞 (ming4 ci4) :: noun (grammatical category) (noun)
+  (Cantonese) 名詞, 名词 (ming4 ci4) :: noun (grammatical category) (noun)
   名詞, 名词 (míngcí) :: noun (grammatical category) (noun)
-  (Min Nan) bêng-sû :: noun (grammatical category) (noun)
+  (Min Nan) 名詞, 名词 (bêng-sû) :: noun (grammatical category) (noun)
   專有名詞, 专有名词 (zhuānyǒu míngcí), 固有名詞, 固有名词 (gùyǒu míngcí) :: proper noun (The name of a particular person, place, organization or other individual entity) (noun)
-  (Cantonese) 形容詞 :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   形容詞, 形容词 (xíngróngcí) :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
-  (Min Nan) hêng-iông-sû :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
+  (Min Nan) 形容詞, 形容词 (hêng-iông-sû) :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   (Cantonese) 今日 (gam<sup>1</sup>yat<sup>6</sup>) :: today (today (noun)) (noun)
   今天 (jīntiān) :: today (today (noun)) (noun)
   (Min Nan) 今仔日 (kin-á-ji̍t) :: today (today (noun)) (noun)
@@ -6059,8 +6085,8 @@ Index: EN EN->ZH
   九 (jiǔ) (numeral: 玖) :: nine (cardinal number) (cardinal number)
   (Cantonese) 九 (gau2) :: nine (cardinal number) (cardinal number)
   (Teochew) gao2 :: nine (cardinal number) (cardinal number)
-  (Eastern Hokkien (Min Dong)) 九 (kau) :: nine (cardinal number) (cardinal number)
-  (Northern Hokkien (Min Bei)) 九 (kiu) :: nine (cardinal number) (cardinal number)
+  (Min Dong) 九 (kau) :: nine (cardinal number) (cardinal number)
+  (Min Bei) 九 (kiu) :: nine (cardinal number) (cardinal number)
   (Wu) 九 (jiq) :: nine (cardinal number) (cardinal number)
   十 (shí) (numeral: 拾) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Cantonese) 十 (sap6) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
@@ -6070,7 +6096,7 @@ Index: EN EN->ZH
   (Xiang) 十 (su) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
 ***numeral***
   數詞, 数词 (shùcí), 數字, 数字 (shùzì) :: numeral (word or symbol representing a number) (noun)
-  罗马数字 :: Roman numeral (a numeral represented by letters) (noun)
+  羅馬數字, 罗马数字 (Luómǎ shùzì) :: Roman numeral (a numeral represented by letters) (noun)
   數, 数 (shù), 數字, 数字 (shùzì) :: number (numeral) (noun)
   第二 (dì'èr) :: second (second (numeral)) (adjective)
 ===numeric===
@@ -6115,8 +6141,8 @@ Index: EN EN->ZH
   (Wu) 十 (ze) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
   (Xiang) 十 (su) :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
 ***October***
-  十月 (shíyuè) :: October (tenth month of the Gregorian calendar) (proper noun)
   (Dungan) шийүә :: October (tenth month of the Gregorian calendar) (proper noun)
+  十月 (shíyuè) :: October (tenth month of the Gregorian calendar) (proper noun)
 ***odd***
   奇怪 (qí quài) :: odd (strange) (adjective)
 ===of===
@@ -6242,8 +6268,8 @@ Index: EN EN->ZH
 ***pencil***
   鉛筆, 铅笔 (qiānbǐ) :: pencil (graphite writing-instrument) (noun)
 ===penis===
-  (Cantonese) 屌/𨳒 [⿵門小] (diu2), 𨳊 [⿵門九] (gau1), 𨶙 [⿵門能] (lan2), 𨳍 [⿵門七] (cat6) :: dick (colloquial: penis) (noun)
-  雞巴, 鸡巴 (jība), 屌 (diǎo), (euphemism) 鳥, 鸟 (diǎo) :: dick (colloquial: penis) (noun)
+  屌 (diǎo), 𣬠𣬶 (jība) :: dick (colloquial: penis) (noun)
+  (Cantonese) 屌 (dīu<sup>2</sup>), 㞗 (gau<sup>1</sup>), 𡳞 (lan<sup>2</sup>) :: dick (colloquial: penis) (noun)
 ===people===
   大家 (dàjiā) :: everybody (all people) (pronoun)
   荷蘭的 (荷蘭), 荷兰的 (Hélán-de) (荷兰) :: Dutch (of the Netherlands, people, or language) (adjective)
@@ -6270,7 +6296,7 @@ Index: EN EN->ZH
   (Cantonese) 星期 (singkei) :: week (period of seven days) (noun)
   星期 (xīngqī), 周 (zhōu), 禮拜, 礼拜 (lǐbài) :: week (period of seven days) (noun)
   十年 (shí nián) :: decade (a period of ten years) (noun)
-  两周, 兩周 (liǎngzhōu) :: fortnight (period of two weeks) (noun)
+  两周, 兩周 (liǎngzhōu) :: fortnight (period of two weeks) (adverb)
 ===permission===
   可以 (kěyǐ) :: may (have permission to) (verb)
 ===permitted===
@@ -6369,7 +6395,7 @@ Index: EN EN->ZH
 ===polyhedron===
   骰子 (tóuzi), 色子 (shǎizi) :: die (polyhedron used in games of chance) (noun)
 ***polytheism***
-  多神教 (duōshénjiào) :: polytheism (belief of existence of many gods) (noun)
+  多神教 (duōshénjiào) :: polytheism (belief in the existence of many gods) (noun)
 ***pond***
   池塘 (chítáng), 池 (chí) :: pond (small lake) (noun)
 ***port***
@@ -6402,7 +6428,7 @@ Index: EN EN->ZH
 ===prejudice===
   反猶太主義, 反犹太主义 (fǎn-Yóutài-zhǔyì) :: anti-Semitism (prejudice or hostility against Jews) (noun)
 ===premature===
-  (Traditional Chinese) 中斷 (zhong duan) :: abort (to cause a premature termination) (verb)
+  中斷 (zhong duan) :: abort (to cause a premature termination) (verb)
 ===presentation===
   See Mandarin :: definition (clarity of visual presentation, distinctness of outline or detail) (noun)
   清晰, 清晰 (qīngxī) :: definition (clarity of visual presentation, distinctness of outline or detail) (noun)
@@ -6419,7 +6445,7 @@ Index: EN EN->ZH
 ===pro===
   等價交換, 等价交换 (děngjià jiāohuàn) :: quid pro quo (this for that) (noun)
 ===process===
-  (Traditional Chinese) 中斷, 放棄 :: abort (The function used to abort a process) (noun)
+  中斷, 放棄 :: abort (The function used to abort a process) (noun)
   下定意, 下定意 (xiàdìngyì) :: definition (action or process of defining) (noun)
   出生 (chūshēng) :: birth (process of childbearing) (noun)
 ***product***
@@ -6429,7 +6455,7 @@ Index: EN EN->ZH
   中止, 夭折 :: abort (The product of a miscarriage) (noun)
   定意, 定意 (dìngyì) :: definition (product of defining) (noun)
 ===promotes===
-  药 (yào), 药材 (yàocái), 藥物 (yàowù), 药物 (yàowù), 经方 (jīngfāng) :: medicine (substance which promotes healing) (noun)
+  藥, 药 (yào), 藥材, 药材 (yàocái), 藥物, 药物 (yàowù), 藥物, 药物 (yàowù) :: medicine (substance which promotes healing) (noun)
 ===pronoun===
   (measure words are used), (adjectives with) 的 (de) :: one (impersonal pronoun) (pronoun)
   (subjectless clauses are used), 人人 (rénrén), (when talking about self) 自己 (zìjǐ) :: one (indefinite personal pronoun) (pronoun)
@@ -6446,6 +6472,8 @@ Index: EN EN->ZH
   土狼 (tǔláng) :: aardwolf (the mammal species Proteles cristatus) (noun)
 ***pseudo***
   假的- (jiǎ de-) (假), 虛擬的- (虛擬), 虚拟的- (xūnǐ de-) (虚拟) :: pseudo- (not genuine) (prefix)
+===public===
+  屠宰场 (túzǎichǎng) :: abattoir (public slaughterhouse) (noun)
 ===publication===
   (Dungan) хуадян (huadyan) :: dictionary (publication that explains the meanings of an ordered list of words) (noun)
   字典 (zìdiǎn) (character dictionary); 詞典, 词典 (cídiǎn) :: dictionary (publication that explains the meanings of an ordered list of words) (noun)
@@ -6522,9 +6550,8 @@ Index: EN EN->ZH
   百科全書, 百科全书 (bǎikē quánshū) :: encyclopedia (comprehensive reference with articles on a range of topic) (noun)
   百科全书 (bǎikēquánshū) :: encyclopaedia (reference book) (noun)
 ===referent===
-  (Cantonese) 形容詞 :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   形容詞, 形容词 (xíngróngcí) :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
-  (Min Nan) hêng-iông-sû :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
+  (Min Nan) 形容詞, 形容词 (hêng-iông-sû) :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
 ===refers===
   單數, 单数 (dānshù) :: singular (grammar: form of a word that refers to only one thing) (noun)
 ===refrain===
@@ -6558,7 +6585,7 @@ Index: EN EN->ZH
 ===representation===
   紙娃娃, 纸娃娃 (zhǐwáwá), 頭像, 头像 (tóuxiàng) :: avatar (A digital representation of a person or being) (noun)
 ===represented===
-  罗马数字 :: Roman numeral (a numeral represented by letters) (noun)
+  羅馬數字, 罗马数字 (Luómǎ shùzì) :: Roman numeral (a numeral represented by letters) (noun)
 ===representing===
   數詞, 数词 (shùcí), 數字, 数字 (shùzì) :: numeral (word or symbol representing a number) (noun)
 ===reproduction===
@@ -6587,14 +6614,14 @@ Index: EN EN->ZH
 ===right===
   言論自由, 言论自由 (yánlùnzìyóu) :: freedom of speech (right to speak without fear of harm) (noun)
 ***robot***
-  機器人, 机器人 (jīqì rén), 機械人, 机械人 (jīxièrén) :: robot (intelligent mechanical being) (noun)
+  機器人, 机器人 (jīqìrén), 機械人, 机械人 (jīxièrén) :: robot (intelligent mechanical being) (noun)
 ===rocky===
   行星 (xíngxīng) :: planet (rocky or gaseous spherical bodies orbiting the Sun) (noun)
 ===role===
   任命 (rèn mìng) :: name (to designate for a role) (verb)
   是 (shì), (absent with adjectives) :: be (used to indicate that the subject plays the role of the predicate nominative) (verb)
 ===Roman===
-  罗马数字 :: Roman numeral (a numeral represented by letters) (noun)
+  羅馬數字, 罗马数字 (Luómǎ shùzì) :: Roman numeral (a numeral represented by letters) (noun)
 ===romantic===
   (Cantonese) 我愛你, 我爱你 (ngo5 oi3 nei5, o5 oi3 lei5) (formal, written), 我好鍾意你 (ngo5 hou2 zung1 yi4 nei5) (colloquial) :: I love you (affirmation of romantic feeling) (phrase)
   我愛你, 我爱你 (wǒ ài nǐ) :: I love you (affirmation of romantic feeling) (phrase)
@@ -6676,7 +6703,7 @@ Index: EN EN->ZH
   七月, 7月 (qīyuè) :: July (seventh month of the Gregorian calendar) (proper noun)
 ===several===
   (Hakka) ên-tiâu :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
-  老鷹, 老鹰 (lǎoyīng) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
+  老鷹, 老鹰 (lǎoyīng), 鷹, 鹰 (yīng) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
   (Min Nan) eng-á :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
 ===sexual===
   強奸, 强奸 (qiángjiān) :: rape (act of forcing sexual activity) (noun)
@@ -6760,6 +6787,8 @@ Index: EN EN->ZH
   精液 (jīngyè) :: cum (slang: male semen) (noun)
   潮吹 (cháochuī), 淫水 (yǐnshuǐ), (slang) 出水 (chūshuǐ) :: cum (slang: female ejaculatory discharge) (noun)
   射 (shè), 射精 (shèjīng), (slang) 出水 (chūshuǐ) :: cum (slang: have an orgasm; ejaculate) (verb)
+===slaughterhouse===
+  屠宰场 (túzǎichǎng) :: abattoir (public slaughterhouse) (noun)
 ===small===
   池塘 (chítáng), 池 (chí) :: pond (small lake) (noun)
   手風琴, 手风琴 (shǒufēngqín) :: accordion (A small, portable, keyed wind instrument) (noun)
@@ -6841,9 +6870,9 @@ Index: EN EN->ZH
 ===start===
   誕生 (dànshēng) :: birth (beginning or start; a point of origin) (noun)
 ===state===
-  (Cantonese) 動詞 (dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  (Cantonese) 動詞, 动词 (dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   動詞, 动词 (dòngcí) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
-  (Min Nan) tōng-sû :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  (Min Nan) 動詞, 动词 (tōng-sû) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   反對教會分離主義, 反对教会分离主义 (fǎnduì jiàohuì fēnlí zhǔyì) :: antidisestablishmentarianism (philosophy opposed to separating church and state) (noun)
   減弱, 减弱 (jiǎnruò), 減輕, 减轻 (jiǎnqīng) :: abate (to bring down or reduce to a lower state) (verb)
   能力 (nénglì) :: ability (quality or state of being able) (noun)
@@ -6872,7 +6901,7 @@ Index: EN EN->ZH
 ===study===
   (Gan) 語源學, 语源学 (ngi3 ngion4 hok6) :: etymology (study of the historical development of languages, particularly of individual words) (noun)
   語源學, 语源学 (yǔyuánxué) :: etymology (study of the historical development of languages, particularly of individual words) (noun)
-  醫學, 医学 (yīxué), 方剂学 (fāngjìxué) :: medicine (field of study) (noun)
+  醫學, 医学 (yīxué)方劑學, 方剂学 (fāngjìxué) :: medicine (field of study) (noun)
 ===subject===
   (Cantonese) 是 (si4) (formal and written), 係 (hai6) (vernacular) :: be (used to indicate that the subject and object are the same) (verb)
   (Dungan) сы :: be (used to indicate that the subject and object are the same) (verb)
@@ -6883,7 +6912,7 @@ Index: EN EN->ZH
   (not used) :: be (used to form future tenses, especially the future subjunctive) (verb)
 ===substance===
   酸 (suān) :: acid (a sour substance) (noun)
-  药 (yào), 药材 (yàocái), 藥物 (yàowù), 药物 (yàowù), 经方 (jīngfāng) :: medicine (substance which promotes healing) (noun)
+  藥, 药 (yào), 藥材, 药材 (yàocái), 藥物, 药物 (yàowù), 藥物, 药物 (yàowù) :: medicine (substance which promotes healing) (noun)
 ===suggested===
   含義, 含义 (hànyì) :: connotation (suggested or implied meaning) (noun)
 ***summer***
@@ -6921,7 +6950,7 @@ Index: EN EN->ZH
 ===symbols===
   (Dungan) йүян :: language (system of communication using words or symbols) (noun)
   語言, 语言 (yǔyán) :: language (system of communication using words or symbols) (noun)
-  (Min Nan) gí-giân :: language (system of communication using words or symbols) (noun)
+  (Min Nan) gí-giân Hani :: language (system of communication using words or symbols) (noun)
 ***synonym***
   同義詞, 同义词 (tóngyìcí), 代名詞, 代名词 (dàimíngcí), (near-synonym) 近義詞, 近义词 (jìnyìcí) :: synonym (word with same meaning as another) (noun)
 ===synonyms===
@@ -6931,7 +6960,7 @@ Index: EN EN->ZH
   太陽, 太阳 (tàiyáng), 恒星 (héngxīng), 日 (rì) :: sun (any star, especially when seen as the centre of any single solar system) (noun)
   (Dungan) йүян :: language (system of communication using words or symbols) (noun)
   語言, 语言 (yǔyán) :: language (system of communication using words or symbols) (noun)
-  (Min Nan) gí-giân :: language (system of communication using words or symbols) (noun)
+  (Min Nan) gí-giân Hani :: language (system of communication using words or symbols) (noun)
   鐵路, 铁路 (tiělù), 鐵道, 铁道 (tiědào) :: railway (transport system using these rails) (noun)
 ===take===
   在 (zài), 有 (yǒu) :: be (occur, take place) (verb)
@@ -6942,8 +6971,6 @@ Index: EN EN->ZH
   (Min Nan) 年 (nî) :: year (time it takes for the Earth to complete one revolution of the Sun) (noun)
   日期 (rìqī) :: date (point of time at which a transaction or event takes place) (noun)
   及物 (jíwù) :: transitive (in grammar: of a verb, that takes an object or objects) (adjective)
-***tao***
-  道 (dào) :: tao (noun)
 ===taste===
   酸 (suān) :: acid (sour, sharp, or biting to the taste) (adjective)
 ===temperatures===
@@ -6963,13 +6990,13 @@ Index: EN EN->ZH
   在 (zài), 正在 (zhèngzài); verb + 著 / 着 (zhe) :: be (used to form the continuous forms of various tenses) (verb)
   (not used) :: be (used to form future tenses, especially the future subjunctive) (verb)
 ===tenth===
-  十月 (shíyuè) :: October (tenth month of the Gregorian calendar) (proper noun)
   (Dungan) шийүә :: October (tenth month of the Gregorian calendar) (proper noun)
+  十月 (shíyuè) :: October (tenth month of the Gregorian calendar) (proper noun)
 ===term===
   (Cantonese) 屌你老母 (diu2nei3lo3mo3) :: motherfucker (generic term of abuse) (noun)
   傻屄 (shǎbī), 肏你媽 , 肏你妈 (cào nǐ mā), 幹你娘, 干你娘 (gàn nǐ niang) :: motherfucker (generic term of abuse) (noun)
 ===termination===
-  (Traditional Chinese) 中斷 (zhong duan) :: abort (to cause a premature termination) (verb)
+  中斷 (zhong duan) :: abort (to cause a premature termination) (verb)
 ===text===
   解密 (jiěmì) :: decrypt (to convert to plain text) (verb)
 ===than===
@@ -7067,7 +7094,7 @@ Index: EN EN->ZH
   易裝癖, 易装癖 (yìzhūangpì), 人妖 (rényāo) :: transvestite (cross-dresser) (noun)
   (Min Nan) ah qua / ah kua (Hokkien) :: transvestite (cross-dresser) (noun)
 ===treatment===
-  中医, 中醫 (zhōngyī) :: medicine (treatment or cure) (noun)
+  中醫, 中医 (zhōngyī), 治療, 治疗 (zhìliáo) :: medicine (treatment or cure) (noun)
 ===tree===
   橙树 (chéngshù) :: orange (tree) (noun)
 ===truth===
@@ -7087,7 +7114,7 @@ Index: EN EN->ZH
   (Teochew) ri6, no6 :: two (one plus one) (cardinal number)
   (Wu) 二 (lia) :: two (one plus one) (cardinal number)
   二 (èr) :: two (digit or figure) (noun)
-  两周, 兩周 (liǎngzhōu) :: fortnight (period of two weeks) (noun)
+  两周, 兩周 (liǎngzhōu) :: fortnight (period of two weeks) (adverb)
 ===type===
   餡餅, 馅饼 (xiànbǐng), 排 (pái), 派 (pài) :: pie (type of pastry) (noun)
   畸变 :: aberrant (deviating from the ordinary or natural type; exceptional; abnormal) (adjective)
@@ -7122,7 +7149,7 @@ Index: EN EN->ZH
 ===upper===
   ...上 (...shàng) (上) :: on (positioned at the upper surface of) (preposition)
 ===used===
-  (Traditional Chinese) 中斷, 放棄 :: abort (The function used to abort a process) (noun)
+  中斷, 放棄 :: abort (The function used to abort a process) (noun)
   貨車, 货车 (huòchē) :: van (A (covered) vehicle used for carrying goods) (noun)
   骰子 (tóuzi), 色子 (shǎizi) :: die (polyhedron used in games of chance) (noun)
   容器, 容器 (róng qì) :: can (a container used to carry and dispense water for plants) (noun)
@@ -7156,7 +7183,7 @@ Index: EN EN->ZH
   (Min Nan) 簡體字 (kán-thé-jī), 简体字 :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
   (Dungan) йүян :: language (system of communication using words or symbols) (noun)
   語言, 语言 (yǔyán) :: language (system of communication using words or symbols) (noun)
-  (Min Nan) gí-giân :: language (system of communication using words or symbols) (noun)
+  (Min Nan) gí-giân Hani :: language (system of communication using words or symbols) (noun)
   語言, 语言 (yǔyán) :: language (the ability to communicate using words) (noun)
   鐵路, 铁路 (tiělù), 鐵道, 铁道 (tiědào) :: railway (transport system using these rails) (noun)
 ===values===
@@ -7171,9 +7198,9 @@ Index: EN EN->ZH
 ===vehicle===
   貨車, 货车 (huòchē) :: van (A (covered) vehicle used for carrying goods) (noun)
 ***verb***
-  (Cantonese) 動詞 (dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  (Cantonese) 動詞, 动词 (dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   動詞, 动词 (dòngcí) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
-  (Min Nan) tōng-sû :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  (Min Nan) 動詞, 动词 (tōng-sû) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   及物動詞, 及物动词 (jíwù dòngcí), 他動詞, 他动词 (tādòngcí) :: transitive verb (a verb that is accompanied by a direct object) (noun)
   及物 (jíwù) :: transitive (in grammar: of a verb, that takes an object or objects) (adjective)
 ===verbs===
@@ -7229,7 +7256,7 @@ Index: EN EN->ZH
   星期六 (xīngqīliù), 禮拜六, 礼拜六 (lǐbàiliù), 周六 (zhōuliù) :: Saturday (day of the week) (noun)
   (formal) 星期日 (xīngqīrì), (informal) 星期天 (xīngqītiān), 禮拜日, 礼拜日 (lǐbàirì), (colloquial) 禮拜天, 礼拜天 (lǐbàitiān), 周日 (zhōurì) :: Sunday (day of the week) (noun)
 ===weeks===
-  两周, 兩周 (liǎngzhōu) :: fortnight (period of two weeks) (noun)
+  两周, 兩周 (liǎngzhōu) :: fortnight (period of two weeks) (adverb)
 ***whatever***
   不管怎樣, 不管怎样 (bùguǎn zěnyàng) :: whatever (no matter which; for any) (determiner)
   無論什麼, 无论什么 (wúlùn shénme), 無論何事, 无论何事 (wúlùn héshì) :: whatever (anything) (determiner)
@@ -7249,7 +7276,7 @@ Index: EN EN->ZH
   不管怎樣, 不管怎样 (bùguǎn zěnyàng) :: whatever (no matter which; for any) (determiner)
   行星 (xíngxīng) :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
   (Min Nan) 行星 (hêng-seng) :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
-  药 (yào), 药材 (yàocái), 藥物 (yàowù), 药物 (yàowù), 经方 (jīngfāng) :: medicine (substance which promotes healing) (noun)
+  藥, 药 (yào), 藥材, 药材 (yàocái), 藥物, 药物 (yàowù), 藥物, 药物 (yàowù) :: medicine (substance which promotes healing) (noun)
   (Cantonese) 太陽, 太阳, taai3 joeng4, 日頭, 日头, jat6 tau2, 熱頭, 热头, jit6 tau2 :: sun (the star around which the Earth revolves) (proper noun)
   (Dungan) эрту (ertu), жәту (zhǝtu) :: sun (the star around which the Earth revolves) (proper noun)
   太陽, 太阳 (tàiyáng), 日 (rì) :: sun (the star around which the Earth revolves) (proper noun)
@@ -7278,12 +7305,11 @@ Index: EN EN->ZH
   反義詞, 反义词 (fǎnyìcí) :: antonym (word which has the opposite meaning) (noun)
   同義詞, 同义词 (tóngyìcí), 代名詞, 代名词 (dàimíngcí), (near-synonym) 近義詞, 近义词 (jìnyìcí) :: synonym (word with same meaning as another) (noun)
   詞源, 词源 (cíyuán), 語源, 语源 (yǔyuán), 字源 (zìyuán) :: etymology (account of the origin and historical development of a word) (noun)
-  (Cantonese) 動詞 (dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  (Cantonese) 動詞, 动词 (dung6 ci4) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   動詞, 动词 (dòngcí) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
-  (Min Nan) tōng-sû :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
-  (Cantonese) 形容詞 :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
+  (Min Nan) 動詞, 动词 (tōng-sû) :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   形容詞, 形容词 (xíngróngcí) :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
-  (Min Nan) hêng-iông-sû :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
+  (Min Nan) 形容詞, 形容词 (hêng-iông-sû) :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   名 (míng), 名字 (míngzì) :: name (word or phrase indicating a particular person, place, class or thing) (noun)
   縮寫, 缩写 (suōxiě); 簡寫, 简写 (jiǎnxiě); 略語, 略语 (lüèyǔ) :: abbreviation (shortened or contracted form of a word or phrase) (noun)
   複數, 复数 (fùshù), 眾數, 众数 (zhòngshù) :: plural (word in plural form) (noun)
@@ -7300,7 +7326,7 @@ Index: EN EN->ZH
   語源學, 语源学 (yǔyuánxué) :: etymology (study of the historical development of languages, particularly of individual words) (noun)
   (Dungan) йүян :: language (system of communication using words or symbols) (noun)
   語言, 语言 (yǔyán) :: language (system of communication using words or symbols) (noun)
-  (Min Nan) gí-giân :: language (system of communication using words or symbols) (noun)
+  (Min Nan) gí-giân Hani :: language (system of communication using words or symbols) (noun)
   語言, 语言 (yǔyán) :: language (the ability to communicate using words) (noun)
   語言, 语言 (yǔyán), 用語, 用语 (yòngyǔ), 詞語, 词语 (cíyǔ) :: language (particular words used) (noun)
 ===work===

@@ -1,11 +1,13 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.english 5024
+EntrySource: enwiktionary.english 5179
 
 Index: DE DE->EN
 ===2===
   Zehn {f} (2) :: ten (the number following nine) (noun)
-===Aar===
-  Adler {m}, Aar {m} (poetic) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
+===Aadler===
+  (Low German) Aadler {m}, Arend {m} :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
+***Aar***
+  Adler {m}, (poetic) Aar {m} :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
 ***Aaronisch***
   Aaronisch :: Aaronic (pertaining to Aaron) (adjective)
 ===Aaronsstab===
@@ -125,21 +127,23 @@ Index: DE DE->EN
   abschaffen :: abrogate (to annul by an authoritative act) (verb)
 ***Abschaffung***
   Abschaffung {f} :: abolishment (The act of abolishing) (noun)
-  Abschaffung {f}, Aufhebung {f} :: abolition (act of abolishing)
-  Abschaffung des Sklavenhandels :: abolition (Abolition of slave trade)
-  Abschaffung des Sklavenhandels :: abolition (emancipation of slaves)
+  Abschaffung {f}, Aufhebung {f} :: abolition (act of abolishing) (noun)
+  Abschaffung des Sklavenhandels :: abolition (Abolition of slave trade) (noun)
+  Abschaffung des Sklavenhandels :: abolition (emancipation of slaves) (noun)
 ***abscheu***
   abscheu, ekel :: abhorrence (extreme aversion) (noun)
+***Abscheu***
+  Abscheu {m} :: abomination (the feeling of extreme disgust) (noun)
 ***abscheulich***
   verabscheuungswürdig, verhasst, abscheulich :: abominable (hateful; detestable; loathsome) (adjective)
-===Abscheulichkeit===
-  (die) Abscheulichkeit :: abomination (something abominable) (noun)
+***Abscheulichkeit***
+  Abscheulichkeit {f} :: abomination (something abominable) (noun)
 ***Abschluss***
   Pakt {m}, Abkommen {n}, Abmachung {f}, Abschluss {m} :: deal (agreement, arrangement) (noun)
 ***abschüssig***
   abgerissen, abschüssig :: abruptly (precipitously) (adverb)
 ===abschwören===
-  abschwören (+dative) :: abjure (to renounce with solemnity) (verb)
+  abschwören (with dative) :: abjure (to renounce with solemnity) (verb)
 ***Absolutheit***
   Absolutheit {f} :: absoluteness (the fact of being without qualifications; unconditionality) (noun)
 ***Absolution***
@@ -174,10 +178,26 @@ Index: DE DE->EN
   Äbtissin {f}, Äbtin {f}, Oberin {f} (Reverend Mother) :: abbess (female superior of a nunnery) (noun)
 ***abtreibend***
   abtreibend :: abortive (Causing abortion; as, abortive medicines) (adjective)
+===abtreibende===
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, (euphemistic, backstreet) Engelmacher {m}, (euphemistic, backstreet) Engelmacherin {f} :: abortionist (one who performs an abortion, abortions) (noun)
+===abtreibender===
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, (euphemistic, backstreet) Engelmacher {m}, (euphemistic, backstreet) Engelmacherin {f} :: abortionist (one who performs an abortion, abortions) (noun)
+***Abtreiber***
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, (euphemistic, backstreet) Engelmacher {m}, (euphemistic, backstreet) Engelmacherin {f} :: abortionist (one who performs an abortion, abortions) (noun)
+***Abtreiberin***
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, (euphemistic, backstreet) Engelmacher {m}, (euphemistic, backstreet) Engelmacherin {f} :: abortionist (one who performs an abortion, abortions) (noun)
 ***Abtreibung***
   Abtreibung {f} :: abortion (induced abortion) (noun)
   Abtreibung {f} :: abortion (act of inducing abortion) (noun)
   Abort {m}, Abtreibung {f}, Interruptio {n} :: abortive (That which is born or brought forth prematurely; an abortion) (noun)
+***Abtreibungsarzt***
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, (euphemistic, backstreet) Engelmacher {m}, (euphemistic, backstreet) Engelmacherin {f} :: abortionist (one who performs an abortion, abortions) (noun)
+***Abtreibungsärztin***
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, (euphemistic, backstreet) Engelmacher {m}, (euphemistic, backstreet) Engelmacherin {f} :: abortionist (one who performs an abortion, abortions) (noun)
+***Abtreibungshelfer***
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, (euphemistic, backstreet) Engelmacher {m}, (euphemistic, backstreet) Engelmacherin {f} :: abortionist (one who performs an abortion, abortions) (noun)
+***Abtreibungshelferin***
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, (euphemistic, backstreet) Engelmacher {m}, (euphemistic, backstreet) Engelmacherin {f} :: abortionist (one who performs an abortion, abortions) (noun)
 ***Abtreibungsmittel***
   Abtreibungsmittel {n} :: abortive (A medicine) (noun)
 ***Abtritt***
@@ -189,7 +209,7 @@ Index: DE DE->EN
   Abweichung :: abnormality (state of being abnormal) (noun)
 ***abwesend***
   abwesend :: absent (being away from a place) (adjective)
-  (geistig) abwesend :: absent (inattentive) (adjective)
+  geistig abwesend :: absent (inattentive) (adjective)
 ***Achäne***
   Achäne {f} :: achene (small dry fruit) (noun)
 ***Achillessehne***
@@ -209,12 +229,12 @@ Index: DE DE->EN
   expressed by nominalization when following an adjective :: one (impersonal pronoun) (pronoun)
 ***Adjektiv***
   Adjektiv {n}, Eigenschaftswort {n} :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
-  adjektivisch, Adjektiv- :: adjectival (of or relating to or functioning as an adjective) (adjective)
+  adjektivisch, Adjektiv- (Adjektiv) :: adjectival (of or relating to or functioning as an adjective) (adjective)
 ***adjektivisch***
   adjektivisch :: adjective (functioning as an adjective) (adjective)
-  adjektivisch, Adjektiv- :: adjectival (of or relating to or functioning as an adjective) (adjective)
-===Adler===
-  Adler {m}, Aar {m} (poetic) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
+  adjektivisch, Adjektiv- (Adjektiv) :: adjectival (of or relating to or functioning as an adjective) (adjective)
+***Adler***
+  Adler {m}, (poetic) Aar {m} :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
 ***Adverb***
   Adverb {n}, Umstandswort {n} :: adverb (lexical category) (noun)
 ***Akademiker***
@@ -305,7 +325,7 @@ Index: DE DE->EN
 ***Antisemitismus***
   Antisemitismus {m}, Judenhass {m} :: anti-Semitism (prejudice or hostility against Jews) (noun)
 ***Antonym***
-  Antonym {n} :: antonym (word which has the opposite meaning) (noun)
+  Antonym {n}, Gegenwort {n}, Gegensatzwort {n} :: antonym (word which has the opposite meaning) (noun)
 ***Anzahl***
   Anzahl {f}, Zahl {f} :: number (abstract entity) (noun)
   Anzahl {f} :: number (quantity) (noun)
@@ -325,6 +345,8 @@ Index: DE DE->EN
 ===archaic===
   November {m}, (archaic) Nebelung {m} :: November (eleventh month of the Gregorian calendar) (proper noun)
   Jahrzehnt {n}, (archaic) Dekade {f} :: decade (a period of ten years) (noun)
+===Arend===
+  (Low German) Aadler {m}, Arend {m} :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
 ***Arie***
   Arie {f} :: aria (type of musical piece) (noun)
 ***arn***
@@ -337,6 +359,10 @@ Index: DE DE->EN
   Wichser, Arschloch, Drecksau, Mutterficker (rare) :: motherfucker (generic term of abuse) (noun)
 ***Arznei***
   Arznei {f}, Medizin {f}, Medikament {n} :: medicine (substance which promotes healing) (noun)
+===Arzt===
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, (euphemistic, backstreet) Engelmacher {m}, (euphemistic, backstreet) Engelmacherin {f} :: abortionist (one who performs an abortion, abortions) (noun)
+===Ärztin===
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, (euphemistic, backstreet) Engelmacher {m}, (euphemistic, backstreet) Engelmacherin {f} :: abortionist (one who performs an abortion, abortions) (noun)
 ===assoziatives===
   assoziatives Datenfeld {n} :: dictionary (an associative array) (noun)
 ===auch===
@@ -354,10 +380,10 @@ Index: DE DE->EN
   aufgeben, zurücklassen :: abandon (to leave behind or desert) (verb)
 ***aufgrund***
   wegen, aufgrund :: on (because of, or due to something) (preposition)
-===aufheben===
+***aufheben***
   zunichte machen, aufheben, rückgängig machen :: abrogate (to put an end to) (verb)
 ***Aufhebung***
-  Abschaffung {f}, Aufhebung {f} :: abolition (act of abolishing)
+  Abschaffung {f}, Aufhebung {f} :: abolition (act of abolishing) (noun)
 ***aufhetzen***
   ermutigen, aufhetzen, anstiften :: abet (to assist or encourage in crime) (verb)
 ***aufzeichnen***
@@ -404,6 +430,8 @@ Index: DE DE->EN
   austeilen, verteilen :: deal (give out as one’s portion or share) (verb)
   austeilen, erteilen, zuteilen :: deal (administer in portions) (verb)
   austeilen, geben :: deal (distribute (cards)) (verb)
+***Auszug***
+  Auszug {m}, Kurzfassung {f}, Kurzform {f} :: abridgment (shortened version.) (noun)
 ***Avatar***
   Avatar {m}, Avatara {m}, Herabkunft {f}, Inkarnation {f} :: avatar (The earthly incarnation of a deity, particularly Vishnu) (noun)
   Avatar {m} :: avatar (A digital representation of a person or being) (noun)
@@ -430,7 +458,7 @@ Index: DE DE->EN
   behandeln {f}, umgehen (+ mit) :: deal (handle, manage) (verb)
 ***bei***
   an, bei :: on (touching; hanging from) (preposition)
-===beieinander===
+***beieinander***
   beieinander :: abreast (side by side) (adverb)
 ===Beigeschmack===
   Konnotation, Nebenbedeutung, Beiklang, Beigeschmack :: connotation (suggested or implied meaning) (noun)
@@ -439,6 +467,7 @@ Index: DE DE->EN
 ***Bein***
   Knochen {m}, Gebeine {f|p}, (dated) Bein {n} :: bone (material) (noun)
   (Low German) (east) Bein {n}, (west) Been {n} :: bone (material) (noun)
+  Knochen {m}, Bein {n} :: bone (component of a skeleton) (noun)
 ===bellboy===
   Hotelpage (either bellboy or bellgirl) :: bellgirl (a female bellhop) (noun)
 ===bellgirl===
@@ -483,13 +512,13 @@ Index: DE DE->EN
 ===BIP===
   BIP :: GDP (gross domestic product) ({{initialism}})
 ===Bisschen===
-  Bisschen {n}, Wenig {n}, Stück {n}, Stückchen {n}, Happen {m} (of food) :: bit (small piece) (noun)
+  Bisschen {n}, Wenig {n}, Stück {n}, Stückchen {n}, Happen {m} (of food) :: bit (small amount of something) (noun)
 ***Bit***
   Bit {n} :: bit (binary digit) (noun)
   Bit {n} :: bit (smallest unit of storage) (noun)
   Bit {n} :: bit (datum that may take on one of exactly two values) (noun)
 ***bitter***
-  (Armut) bitter, verächtlich :: abject (Cast down; rejected; low-lying) (adjective)
+  bitter (poverty), verächtlich :: abject (Cast down; rejected; low-lying) (adjective)
 ***Bleibe***
   Bleibe {f}, Wohnung {f} :: abode (slightly dated: residence) (noun)
 ***Bleistift***
@@ -569,7 +598,7 @@ Index: DE DE->EN
   der {m}, die {f}, das {n}, die {p} :: the (with a superlative) (article)
   der {m}, die {f}, das {n}, die {p} :: the (used with the name of a member of a class to refer to all things in that class) (article)
 ***dat***
-  (Low German) dat {n}, de {m|f}, dei {m|f} :: the (article) (article)
+  (Low German) de {m|f}, dat {n}, dei {m|f} :: the (article) (article)
 ***Date***
   Rendezvous {n}, Date {n}, Verabredung {n}, Stelldichein {n} :: date (meeting with a lover or potential lover; a person so met) (noun)
 ***daten***
@@ -578,8 +607,6 @@ Index: DE DE->EN
   assoziatives Datenfeld {n} :: dictionary (an associative array) (noun)
 ***datieren***
   datieren :: date (to determine the age of something) (verb)
-===dative===
-  abschwören (+dative) :: abjure (to renounce with solemnity) (verb)
 ***Dattel***
   Dattel {f} :: date (fruit of the date palm) (noun)
 ***Datum***
@@ -589,7 +616,7 @@ Index: DE DE->EN
   fliehen, fortlaufen, davonmachen :: absquatulate (to leave quickly or in a hurry; to take oneself off; to decamp; to depart) (verb)
   sich davonmachen :: abscond (to depart secretly) (verb)
 ***de***
-  (Low German) dat {n}, de {m|f}, dei {m|f} :: the (article) (article)
+  (Low German) de {m|f}, dat {n}, dei {m|f} :: the (article) (article)
 ***Deal***
   Handel {m}, Deal {m} (Econ.) :: deal (instance of buying or selling) (noun)
 ***dealen***
@@ -605,7 +632,7 @@ Index: DE DE->EN
   Definition {f} :: definition (action or power of describing, explaining, or making definite) (noun)
   Definition {f} :: definition (bodybuilding: the degree to which individual muscles are distinct) (noun)
 ***dei***
-  (Low German) dat {n}, de {m|f}, dei {m|f} :: the (article) (article)
+  (Low German) de {m|f}, dat {n}, dei {m|f} :: the (article) (article)
 ***Deitscha***
   (Alemannic German) Deitscha :: German (the German language) (proper noun)
 ***Dekade***
@@ -632,8 +659,8 @@ Index: DE DE->EN
 ===Der===
   Der Große Teich :: pond (The Atlantic Ocean) (noun)
 ===des===
-  Abschaffung des Sklavenhandels :: abolition (Abolition of slave trade)
-  Abschaffung des Sklavenhandels :: abolition (emancipation of slaves)
+  Abschaffung des Sklavenhandels :: abolition (Abolition of slave trade) (noun)
+  Abschaffung des Sklavenhandels :: abolition (emancipation of slaves) (noun)
 ===desto===
   je + comp., + desto + comp. :: the (the + ～comparative, the + comparative) (adverb)
 ***deutsch***
@@ -669,11 +696,15 @@ Index: DE DE->EN
   der {m}, die {f}, das {n}, die {p} :: the (stressed, indicating that the object in question is the only one worthy of attention) (article)
   der {m}, die {f}, das {n}, die {p} :: the (with a superlative) (article)
   der {m}, die {f}, das {n}, die {p} :: the (used with the name of a member of a class to refer to all things in that class) (article)
+***Diener***
+  Diener {m} :: servant (one who is hired to perform regular household or other duties, and receives compensation) (noun)
 ***Dienstag***
   Dienstag {m} :: Tuesday (day of the week) (noun)
   am Dienstag {m} :: Tuesday (on Tuesday) (adverb)
 ===diethylamid===
   Lysergsäure-diethylamid :: acid (LSD) (noun)
+***Dingwort***
+  Substantiv {n}, Nomen {n}, Dingwort {n}, Gegenstandswort {n} :: noun (grammatical category) (noun)
 ***Direktor***
   Leiter {m}, Leiterin {f}, Rektor {m}, Rektorin {f}, Direktor {m}, Direktorin {f} :: head (headmaster, headmistress) (noun)
 ***Direktorin***
@@ -745,6 +776,7 @@ Index: DE DE->EN
   man, einer :: one (indefinite personal pronoun) (pronoun)
 ***eines***
   {{sense|abstract counting}} eins, {{sense|counting objects}} ein, eine, einen, einem, einer, eines :: one (cardinal number 1) (cardinal number)
+  Lexikograf {m}, Lexikografin {f}, Lexikograph {m}, Lexikographin {f}, Verfasser eines Lexikons {m}, Verfasserin eines Lexikons {f} :: lexicographer (one who writes or compiles a dictionary) (noun)
 ***eingeboren***
   eingeboren, einheimisch :: aboriginal (original; indigenous) (adjective)
 ***einheimisch***
@@ -780,15 +812,25 @@ Index: DE DE->EN
 ***Ekel***
   Ekel {n} :: abhorrence (loathsome person or thing) (noun)
 ***Elefant***
-  Elefant {m}, (female) Elefantin {f} :: elephant (mammal) (noun)
+  Elefant {m}, Elefantenbulle {m}, Elefantin {f}, Elefantenkuh {f}, Elefantenkalb {n} :: elephant (mammal) (noun)
+***Elefantenbulle***
+  Elefant {m}, Elefantenbulle {m}, Elefantin {f}, Elefantenkuh {f}, Elefantenkalb {n} :: elephant (mammal) (noun)
+***Elefantenkalb***
+  Elefant {m}, Elefantenbulle {m}, Elefantin {f}, Elefantenkuh {f}, Elefantenkalb {n} :: elephant (mammal) (noun)
+***Elefantenkuh***
+  Elefant {m}, Elefantenbulle {m}, Elefantin {f}, Elefantenkuh {f}, Elefantenkalb {n} :: elephant (mammal) (noun)
 ***Elefantin***
-  Elefant {m}, (female) Elefantin {f} :: elephant (mammal) (noun)
+  Elefant {m}, Elefantenbulle {m}, Elefantin {f}, Elefantenkuh {f}, Elefantenkalb {n} :: elephant (mammal) (noun)
 ***elend***
   elend, kläglich, jämmerlich :: abject (Sunk to a low condition; down in spirit or hope) (adjective)
 ***empfangen***
   annehmen, empfangen :: accept (to receive officially) (verb)
 ***Ende***
   Ende {n} :: date (assigned end; conclusion) (noun)
+***Engelmacher***
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, (euphemistic, backstreet) Engelmacher {m}, (euphemistic, backstreet) Engelmacherin {f} :: abortionist (one who performs an abortion, abortions) (noun)
+***Engelmacherin***
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, (euphemistic, backstreet) Engelmacher {m}, (euphemistic, backstreet) Engelmacherin {f} :: abortionist (one who performs an abortion, abortions) (noun)
 ***Engländer***
   Engländer {m}, Engländerin {f} :: English (person from England) (proper noun)
 ***Engländerin***
@@ -913,6 +955,22 @@ Index: DE DE->EN
   Sprungfeder {f}, Feder {f} :: spring (device made of flexible material) (noun)
 ***Fehlgeburt***
   Fehlgeburt {f} :: abortion (miscarriage) (noun)
+***Felidae***
+  Katze {f}, Felide {m}, Felide {f}, Feliden {p}, Felidae {p} :: cat (member of the family Felidae) (noun)
+***Felide***
+  Katze {f}, Felide {m}, Felide {f}, Feliden {p}, Felidae {p} :: cat (member of the family Felidae) (noun)
+***Feliden***
+  Katze {f}, Felide {m}, Felide {f}, Feliden {p}, Felidae {p} :: cat (member of the family Felidae) (noun)
+***Feliformia***
+  Katzenartige {m}, Katzenartige {f}, Katzenartigen {p}, Feliformia {p}, Feloidea {p} :: cat (member of the suborder (or superfamily) Feliformia (Feloidea), "cat-like" carnivorans) (noun)
+***Felinae***
+  Kleinkatze {f}, Feline {m}, Feline {f}, Felinen {p}, Felinae {p} :: cat (member of the subfamily Felinae) (noun)
+***Feline***
+  Kleinkatze {f}, Feline {m}, Feline {f}, Felinen {p}, Felinae {p} :: cat (member of the subfamily Felinae) (noun)
+***Felinen***
+  Kleinkatze {f}, Feline {m}, Feline {f}, Felinen {p}, Felinae {p} :: cat (member of the subfamily Felinae) (noun)
+***Feloidea***
+  Katzenartige {m}, Katzenartige {f}, Katzenartigen {p}, Feliformia {p}, Feloidea {p} :: cat (member of the suborder (or superfamily) Feliformia (Feloidea), "cat-like" carnivorans) (noun)
 ***Festmacherleine***
   Festmacherleine {f} :: spring (rope on a boat) (noun)
 ***feuern***
@@ -1020,10 +1078,16 @@ Index: DE DE->EN
 ***Geburt***
   Geburt {f} :: birth (process of childbearing) (noun)
   Geburt {f} :: birth (beginning or start; a point of origin) (noun)
+***Gegensatzwort***
+  Antonym {n}, Gegenwort {n}, Gegensatzwort {n} :: antonym (word which has the opposite meaning) (noun)
+***Gegenstandswort***
+  Substantiv {n}, Nomen {n}, Dingwort {n}, Gegenstandswort {n} :: noun (grammatical category) (noun)
+***Gegenwort***
+  Antonym {n}, Gegenwort {n}, Gegensatzwort {n} :: antonym (word which has the opposite meaning) (noun)
 ===gehen===
   ansteuern, in eine Richtung gehen, auf etwas zusteuern :: head ((intransitive) move in a specified direction) (verb)
 ===geistig===
-  (geistig) abwesend :: absent (inattentive) (adjective)
+  geistig abwesend :: absent (inattentive) (adjective)
 ===genannt===
   oben genannt, oben erwähnt :: above-mentioned (mentioned or named before; aforesaid) (adjective)
 ***genau***
@@ -1080,6 +1144,10 @@ Index: DE DE->EN
   roh, grob :: crude (lacking tact or taste) (adjective)
 ===Große===
   Der Große Teich :: pond (The Atlantic Ocean) (noun)
+***Grosskatze***
+  Großkatze {f}, (Switzerland, Liechtenstein) Grosskatze {f}, Pantherine {m}, Pantherine {f}, Pantherinen {p}, Pantherinae {p} :: cat (member of the subfamily Pantherinae) (noun)
+***Großkatze***
+  Großkatze {f}, (Switzerland, Liechtenstein) Grosskatze {f}, Pantherine {m}, Pantherine {f}, Pantherinen {p}, Pantherinae {p} :: cat (member of the subfamily Pantherinae) (noun)
 ===ha===
   (Swiss German) ich lieb dich, i liäbä di, i ha di gärn, ich han dich gärn :: I love you (affirmation of romantic feeling) (phrase)
 ===hab===
@@ -1093,6 +1161,8 @@ Index: DE DE->EN
   Hafenstadt {f} :: port (town or city with a dock or harbour) (noun)
 ===Haftentlassung===
   bedingte Haftentlassung {f}, Bewährung {f} :: parole (law: a release of (a prisoner)) (noun)
+***Halbinsel***
+  Halbinsel {f}, (obsolete) Peninsula {f}, Landzunge {f} :: point (peninsula) (noun)
 ===halten===
   die Klappe halten, den Mund halten :: can (to shut up) (verb)
 ===han===
@@ -1120,7 +1190,7 @@ Index: DE DE->EN
 ***Handwerker***
   Handwerker :: craft (people who perform a particular kind of skilled work) (noun)
 ===Happen===
-  Bisschen {n}, Wenig {n}, Stück {n}, Stückchen {n}, Happen {m} (of food) :: bit (small piece) (noun)
+  Bisschen {n}, Wenig {n}, Stück {n}, Stückchen {n}, Happen {m} (of food) :: bit (small amount of something) (noun)
 ===harren===
   harren (with genitive) :: abide (to await) (verb)
 ***Haupt***
@@ -1134,6 +1204,8 @@ Index: DE DE->EN
   (Alemannic German) heit, hit, hüt :: today (today (noun)) (noun)
 ***helfen***
   stützen, helfen :: abet (to support, uphold, or aid) (verb)
+***Helfer***
+  Helfer {m} :: servant (one who serves another, providing help in some manner) (noun)
 ***helle***
   (Low German) helle {f} :: hell (where sinners go) (proper noun)
 ***Herabkunft***
@@ -1205,10 +1277,10 @@ Index: DE DE->EN
 ***hund***
   (Middle Low German) hund :: dog (animal) (noun)
 ***Hund***
-  (male or female, sex unspecified) Hund {m}, (adult male of a canine species) Rüde {m}, (female) Hündin {f} :: dog (animal) (noun)
+  (♂♀) Hund {m}, (♂) Hündin {f} :: dog (animal) (noun)
   Hund {m} :: dog (morally reprehensible person, See also scoundrel) (noun)
 ***Hündin***
-  (male or female, sex unspecified) Hund {m}, (adult male of a canine species) Rüde {m}, (female) Hündin {f} :: dog (animal) (noun)
+  (♂♀) Hund {m}, (♂) Hündin {f} :: dog (animal) (noun)
 ***hunt***
   (Middle High German) hunt :: dog (animal) (noun)
   (Old High German) hunt :: dog (animal) (noun)
@@ -1346,18 +1418,24 @@ Index: DE DE->EN
 ***Kapitelldeckplatte***
   Kapitelldeckplatte {f} :: abacus (uppermost member of the capital of a column) (noun)
 ***Kater***
-  Katze {f} , (male) Kater {m}, (female) Kätzin {f} :: cat (domestic species) (noun)
+  (♂♀) Katze {f}, (♂) Kater {m}, (♀) Kätzin {f} :: cat (domestic species) (noun)
 ***Katze***
-  Katze {f} , (male) Kater {m}, (female) Kätzin {f} :: cat (domestic species) (noun)
-  Katze {f} :: cat (member of Felidae) (noun)
+  (♂♀) Katze {f}, (♂) Kater {m}, (♀) Kätzin {f} :: cat (domestic species) (noun)
+  Katze {f}, Felide {m}, Felide {f}, Feliden {p}, Felidae {p} :: cat (member of the family Felidae) (noun)
+***Katzenartige***
+  Katzenartige {m}, Katzenartige {f}, Katzenartigen {p}, Feliformia {p}, Feloidea {p} :: cat (member of the suborder (or superfamily) Feliformia (Feloidea), "cat-like" carnivorans) (noun)
+***Katzenartigen***
+  Katzenartige {m}, Katzenartige {f}, Katzenartigen {p}, Feliformia {p}, Feloidea {p} :: cat (member of the suborder (or superfamily) Feliformia (Feloidea), "cat-like" carnivorans) (noun)
 ***Kätzin***
-  Katze {f} , (male) Kater {m}, (female) Kätzin {f} :: cat (domestic species) (noun)
+  (♂♀) Katze {f}, (♂) Kater {m}, (♀) Kätzin {f} :: cat (domestic species) (noun)
 ***kaufen***
   kaufen :: accept (to agree to pay) (verb)
 ***kläglich***
   elend, kläglich, jämmerlich :: abject (Sunk to a low condition; down in spirit or hope) (adjective)
 ===Klappe===
   die Klappe halten, den Mund halten :: can (to shut up) (verb)
+***Kleinkatze***
+  Kleinkatze {f}, Feline {m}, Feline {f}, Felinen {p}, Felinae {p} :: cat (member of the subfamily Felinae) (noun)
 ***Klo***
   Toilette {f}, WC {n}, Klo {n} :: can (toilet) (noun)
 ***Kloster***
@@ -1366,7 +1444,7 @@ Index: DE DE->EN
   (Low German) Knaken {m} :: bone (component of a skeleton) (noun)
 ***Knochen***
   Knochen {m}, Gebeine {f|p}, (dated) Bein {n} :: bone (material) (noun)
-  Knochen {m} :: bone (component of a skeleton) (noun)
+  Knochen {m}, Bein {n} :: bone (component of a skeleton) (noun)
 ***Koffer***
   Koffer {m} :: portmanteau (case) (noun)
 ***Kofferwort***
@@ -1447,12 +1525,17 @@ Index: DE DE->EN
   verkürzen, kürzen :: abridge (to make shorter) (verb)
 ***Kürzen***
   Abkürzung {f}, Kürzen {n} :: abbreviation (act or result of shortening or reducing) (noun)
+***Kurzfassung***
+  Auszug {m}, Kurzfassung {f}, Kurzform {f} :: abridgment (shortened version.) (noun)
 ***Kurzform***
   Abkürzung {f}, Kurzbezeichnung {f}, Kürzel {n}, Kurzform {f} :: abbreviation (shortened or contracted form of a word or phrase) (noun)
+  Auszug {m}, Kurzfassung {f}, Kurzform {f} :: abridgment (shortened version.) (noun)
 ***Kurzzeichen***
   vereinfachtes Chinesisch {n}, Kurzzeichen {n} :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
 ===Kwartier===
   Stadtteil {m}, Viertel {n}, Kwartier (Cologne) :: quarter (section of a town) (noun)
+***Landzunge***
+  Halbinsel {f}, (obsolete) Peninsula {f}, Landzunge {f} :: point (peninsula) (noun)
 ***Langzeichen***
   traditionelles Chinesisch {n}, Langzeichen {n} :: Traditional Chinese (Chinese written using traditional characters) (proper noun)
 ***Lauf***
@@ -1475,10 +1558,20 @@ Index: DE DE->EN
   Fahrzeug, Lenkfahrzeug :: craft (vehicle designed for navigation) (noun)
 ***Lenz***
   Frühling {m}, Frühjahr {n}, (dated)/(poetic) Lenz {m} :: spring (season) (noun)
+***Lexikograf***
+  Lexikograf {m}, Lexikografin {f}, Lexikograph {m}, Lexikographin {f}, Verfasser eines Lexikons {m}, Verfasserin eines Lexikons {f} :: lexicographer (one who writes or compiles a dictionary) (noun)
+***Lexikografin***
+  Lexikograf {m}, Lexikografin {f}, Lexikograph {m}, Lexikographin {f}, Verfasser eines Lexikons {m}, Verfasserin eines Lexikons {f} :: lexicographer (one who writes or compiles a dictionary) (noun)
+***Lexikograph***
+  Lexikograf {m}, Lexikografin {f}, Lexikograph {m}, Lexikographin {f}, Verfasser eines Lexikons {m}, Verfasserin eines Lexikons {f} :: lexicographer (one who writes or compiles a dictionary) (noun)
 ***Lexikographie***
   Lexikographie {f} :: lexicography (art or craft of writing dictionaries) (noun)
+***Lexikographin***
+  Lexikograf {m}, Lexikografin {f}, Lexikograph {m}, Lexikographin {f}, Verfasser eines Lexikons {m}, Verfasserin eines Lexikons {f} :: lexicographer (one who writes or compiles a dictionary) (noun)
 ***Lexikon***
   Lexikon {n}, Enzyklopädie {f} :: encyclopaedia (reference book) (noun)
+===Lexikons===
+  Lexikograf {m}, Lexikografin {f}, Lexikograph {m}, Lexikographin {f}, Verfasser eines Lexikons {m}, Verfasserin eines Lexikons {f} :: lexicographer (one who writes or compiles a dictionary) (noun)
 ===liäbä===
   (Swiss German) ich lieb dich, i liäbä di, i ha di gärn, ich han dich gärn :: I love you (affirmation of romantic feeling) (phrase)
 ***Libero***
@@ -1513,6 +1606,12 @@ Index: DE DE->EN
   Luft {f}, Himmel {m} :: sky (heaven) (noun)
 ===Lysergsäure===
   Lysergsäure-diethylamid :: acid (LSD) (noun)
+***Machairodontinae***
+  Säbelzahnkatze {f}, Machairodontine {m}, Machairodontine {f}, Machairodontinen {p}, Machairodontinae {p} :: cat (member of the extinct subfamily Machairodontinae) (noun)
+***Machairodontine***
+  Säbelzahnkatze {f}, Machairodontine {m}, Machairodontine {f}, Machairodontinen {p}, Machairodontinae {p} :: cat (member of the extinct subfamily Machairodontinae) (noun)
+***Machairodontinen***
+  Säbelzahnkatze {f}, Machairodontine {m}, Machairodontine {f}, Machairodontinen {p}, Machairodontinae {p} :: cat (member of the extinct subfamily Machairodontinae) (noun)
 ===machen===
   zunichte machen, aufheben, rückgängig machen :: abrogate (to put an end to) (verb)
   springen, einen Satz machen, hüpfen :: leap (to jump from one location to another) (verb)
@@ -1552,8 +1651,8 @@ Index: DE DE->EN
 ***merkwürdig***
   seltsam, merkwürdig, komisch :: odd (strange) (adjective)
 ***Metrik***
-  Metrik {f} :: metric (measure) (noun)
-  Metrik {f} :: metric (mathematics) (noun)
+  Metrik {f} :: metric (measure for something) (noun)
+  Metrik {f} :: metric (notion in mathematics) (noun)
 ***metrisch***
   metrisch :: metric (relating to metric system) (adjective)
 ***Mexiko***
@@ -1662,7 +1761,7 @@ Index: DE DE->EN
   Holland {n}, die Niederlande {n|p} :: Netherlands (country in northwestern Europe) (proper noun)
 ***Niederländer***
   Niederländer, Holländer :: Dutch (people from the Netherlands) (proper noun)
-===niederlandisch===
+***niederlandisch***
   niederlandisch, holländisch :: Netherlands (pertaining to the Netherlands) (adjective)
 ***niederländisch***
   niederländisch, holländisch :: Dutch (of the Netherlands, people, or language) (adjective)
@@ -1677,11 +1776,14 @@ Index: DE DE->EN
   Neger {m}, Nigger {m}, Kaffer {m} :: nigger (negro person) (noun)
 ***Nille***
   Eichel {f}, Nille {f} :: dickhead ((slang) glans penis) (noun)
+***Nomen***
+  Substantiv {n}, Nomen {n}, Dingwort {n}, Gegenstandswort {n} :: noun (grammatical category) (noun)
 ===nominalization===
   expressed by nominalization when following an adjective :: one (impersonal pronoun) (pronoun)
 ===non===
   (non-colored) Bleistift {m}, (colored) Buntstift {m} :: pencil (graphite writing-instrument) (noun)
-===Nonsens===
+***Nonsens***
+  Nonsens {m}, Unsinn {m} :: nonsense (untrue statement) (noun)
   Blödsinn {m}, Nonsens {m}, Quatsch {m} (colloquial), Unsinn {m}, :: nonsense (meaningless words) (noun)
 ***Nordpol***
   Nordpol :: November (N in the ICAO spelling alphabet) (proper noun)
@@ -1765,8 +1867,16 @@ Index: DE DE->EN
   Oxymoron {n} :: oxymoron (figure of speech) (noun)
 ***Pakt***
   Pakt {m}, Abkommen {n}, Abmachung {f}, Abschluss {m} :: deal (agreement, arrangement) (noun)
+***Pantherinae***
+  Großkatze {f}, (Switzerland, Liechtenstein) Grosskatze {f}, Pantherine {m}, Pantherine {f}, Pantherinen {p}, Pantherinae {p} :: cat (member of the subfamily Pantherinae) (noun)
+***Pantherine***
+  Großkatze {f}, (Switzerland, Liechtenstein) Grosskatze {f}, Pantherine {m}, Pantherine {f}, Pantherinen {p}, Pantherinae {p} :: cat (member of the subfamily Pantherinae) (noun)
+***Pantherinen***
+  Großkatze {f}, (Switzerland, Liechtenstein) Grosskatze {f}, Pantherine {m}, Pantherine {f}, Pantherinen {p}, Pantherinae {p} :: cat (member of the subfamily Pantherinae) (noun)
 ***Parade***
   Parade {f} :: march (political rally or parade) (noun)
+***Peninsula***
+  Halbinsel {f}, (obsolete) Peninsula {f}, Landzunge {f} :: point (peninsula) (noun)
 ***Peso***
   Peso {m} :: peso (currency) (noun)
 ***Pfund***
@@ -1792,7 +1902,7 @@ Index: DE DE->EN
 ***Polnisch***
   Polnisch {n} :: Polish (the language of Poland) (proper noun)
 ***Polytheismus***
-  Polytheismus {m} :: polytheism (belief of existence of many gods) (noun)
+  Polytheismus {m} :: polytheism (belief in the existence of many gods) (noun)
 ***polytheistisch***
   polytheistisch :: polytheistic (of or relating to polytheism) (adjective)
 ***Port***
@@ -1801,6 +1911,8 @@ Index: DE DE->EN
   Anteil {m}, Portion {f} :: deal (division, share) (noun)
 ***Portwein***
   Portwein {m} :: port (fortified wine) (noun)
+===poverty===
+  bitter (poverty), verächtlich :: abject (Cast down; rejected; low-lying) (adjective)
 ===präkolumbisch===
   präkolumbisch :: pre-Columbian (before Christopher Columbus) (adjective)
 ***präzis***
@@ -1861,10 +1973,12 @@ Index: DE DE->EN
   Akkordeon {n}, Ziehharmonika {f}, Handharmonika {f}, Handorgel {f}, (regional) Quetsche {f}, (slangy, humorous) Quetschkommode {f}, Schifferklavier {n} :: accordion (A small, portable, keyed wind instrument) (noun)
 ***Quetschkommode***
   Akkordeon {n}, Ziehharmonika {f}, Handharmonika {f}, Handorgel {f}, (regional) Quetsche {f}, (slangy, humorous) Quetschkommode {f}, Schifferklavier {n} :: accordion (A small, portable, keyed wind instrument) (noun)
+***Raav***
+  (Low German) Raav {f}, Roov {f} :: raven (bird) (noun)
 ***Rabe***
   Rabe {m}, Kolkrabe {m} :: raven (bird) (noun)
 ***rabenschwarz***
-  rabenschwarz {n} :: raven (of the color of the raven; jet-black) (adjective)
+  rabenschwarz :: raven (of the color of the raven; jet-black) (adjective)
 ***ranghöher***
   ranghöher, vorgesetzt :: above (higher in rank) (adverb)
 ***rasen***
@@ -1922,13 +2036,14 @@ Index: DE DE->EN
   Rohöl {n}, Erdöl {n} :: crude oil (crude oil) (noun)
 ===römische===
   römische Ziffer {f} :: Roman numeral (a numeral represented by letters) (noun)
+***Roov***
+  (Low German) Raav {f}, Roov {f} :: raven (bird) (noun)
 ===rückgängig===
   zunichte machen, aufheben, rückgängig machen :: abrogate (to put an end to) (verb)
 ***rückwärts***
   rückwärts :: aback (backwards) (adverb)
 ***Rüde***
-  (male or female, sex unspecified) Hund {m}, (adult male of a canine species) Rüde {m}, (female) Hündin {f} :: dog (animal) (noun)
-  Rüde {m} :: dog (male dog) (noun)
+  Rüde {m} :: dog (male canine) (noun)
 ***rudimentär***
   unvollkommen, rudimentär :: abortive (Imperfectly formed or developed; rudimentary; sterile) (adjective)
 ***Ruf***
@@ -1937,6 +2052,8 @@ Index: DE DE->EN
   hochklassig, hochwertig, Qualitäts- :: quality (being of good worth) (adjective)
 ***Sabbat***
   Samstag {m}, Sonnabend {m}, Sabbat {m} :: Saturday (day of the week) (noun)
+***Säbelzahnkatze***
+  Säbelzahnkatze {f}, Machairodontine {m}, Machairodontine {f}, Machairodontinen {p}, Machairodontinae {p} :: cat (member of the extinct subfamily Machairodontinae) (noun)
 ***Sachgruppenwörterbuch***
   Thesaurus {m}, Begriffswörterbuch {n}, Sachgruppenwörterbuch {n} :: thesaurus (book of synonyms) (noun)
 ===Salz===
@@ -2061,8 +2178,8 @@ Index: DE DE->EN
 ***singulär***
   singulär :: singular (linear algebra: of matrix: having no inverse) (adjective)
 ===Sklavenhandels===
-  Abschaffung des Sklavenhandels :: abolition (Abolition of slave trade)
-  Abschaffung des Sklavenhandels :: abolition (emancipation of slaves)
+  Abschaffung des Sklavenhandels :: abolition (Abolition of slave trade) (noun)
+  Abschaffung des Sklavenhandels :: abolition (emancipation of slaves) (noun)
 ===smoking===
   abstinent (mostly when referring to alcohol or smoking), enthaltsam (sexually abstinent, celibate) :: abstinent (refraining from indulgence) (adjective)
 ===sniffer===
@@ -2073,6 +2190,7 @@ Index: DE DE->EN
   Samstag {m}, Sonnabend {m}, Sabbat {m} :: Saturday (day of the week) (noun)
 ***Sonne***
   Sonne {f} :: sun (the star around which the Earth revolves) (proper noun)
+  Sonne {f} :: sun (any star, especially when seen as the centre of any single solar system) (noun)
 ***Sonnenschirm***
   Schirm {m}, Sonnenschirm {m}, Regenschirm {m} :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
 ***Sonntag***
@@ -2143,15 +2261,15 @@ Index: DE DE->EN
 ===Strömen===
   Bindfäden regnen, in Strömen regnen, aus allen Kannen gießen, aus allen Kannen schütten, wie aus Eimern schütten :: rain cats and dogs (to rain very heavily) (verb)
 ===Stück===
-  Bisschen {n}, Wenig {n}, Stück {n}, Stückchen {n}, Happen {m} (of food) :: bit (small piece) (noun)
+  Bisschen {n}, Wenig {n}, Stück {n}, Stückchen {n}, Happen {m} (of food) :: bit (small amount of something) (noun)
 ===Stückchen===
-  Bisschen {n}, Wenig {n}, Stück {n}, Stückchen {n}, Happen {m} (of food) :: bit (small piece) (noun)
+  Bisschen {n}, Wenig {n}, Stück {n}, Stückchen {n}, Happen {m} (of food) :: bit (small amount of something) (noun)
 ***Stunde***
   Stunde {f} :: hour (Time period of sixty minutes) (noun)
 ***stützen***
   stützen, helfen :: abet (to support, uphold, or aid) (verb)
 ***Substantiv***
-  Substantiv {n} :: noun (grammatical category) (noun)
+  Substantiv {n}, Nomen {n}, Dingwort {n}, Gegenstandswort {n} :: noun (grammatical category) (noun)
   (Swiss German) Substantiv {n} :: noun (grammatical category) (noun)
   Substantiv {n} :: substantive ((grammar)) (noun)
 ***sumar***
@@ -2173,7 +2291,7 @@ Index: DE DE->EN
   Tag {m} :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
   Tag {m} :: day (period between sunrise and sunset) (noun)
 ===Tage===
-  vierzehn Tage, zwei Wochen :: fortnight (period of two weeks) (noun)
+  vierzehn Tage, zwei Wochen :: fortnight (period of two weeks) (adverb)
 ***täglich***
   alltäglich wiederkehrend, täglich wiederkehrend :: quotidian (daily) (adjective)
   das Alltägliche, das täglich Wiederkehrende :: quotidian (common, mundane) (adjective)
@@ -2222,6 +2340,8 @@ Index: DE DE->EN
 ***transitiv***
   transitiv :: transitive (in grammar: of a verb, that takes an object or objects) (adjective)
   transitiv :: transitive (in set theory) (adjective)
+===transitives===
+  transitives Verb {n} :: transitive verb (a verb that is accompanied by a direct object) (noun)
 ***Transporter***
   Transporter {m}, Lieferwagen {m} :: van (A (covered) vehicle used for carrying goods) (noun)
 ***Transvestit***
@@ -2296,7 +2416,8 @@ Index: DE DE->EN
   unnormal :: abnormally (In an abnormal manner) (adverb)
 ===unserer===
   n. u. Z. (nach unserer Zeitrechnung) :: CE (Common Era) (initialism)
-===Unsinn===
+***Unsinn***
+  Nonsens {m}, Unsinn {m} :: nonsense (untrue statement) (noun)
   Blödsinn {m}, Nonsens {m}, Quatsch {m} (colloquial), Unsinn {m}, :: nonsense (meaningless words) (noun)
 ***unter***
   unter, in, ((in dem)) im, während :: in (during) (preposition)
@@ -2325,11 +2446,12 @@ Index: DE DE->EN
 ***verabscheuungswürdig***
   verabscheuungswürdig, verhasst, abscheulich :: abominable (hateful; detestable; loathsome) (adjective)
 ***verächtlich***
-  (Armut) bitter, verächtlich :: abject (Cast down; rejected; low-lying) (adjective)
+  bitter (poverty), verächtlich :: abject (Cast down; rejected; low-lying) (adjective)
 ===Veranstaltungen===
   aktuelle Veranstaltungen :: current events (news items) (noun)
 ***Verb***
-  Zeitwort {n}, Verb {n}, Verbum {n} :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  Verb {n}, Verbum {n}, Zeitwort {n} :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  transitives Verb {n} :: transitive verb (a verb that is accompanied by a direct object) (noun)
 ===verbergen===
   verbergen, verheimlichen, verschleiern, verschweigen, verstecken :: conceal (to hide something) (verb)
 ***Verbindlichkeit***
@@ -2337,7 +2459,7 @@ Index: DE DE->EN
   Schulden {f}, Verbindlichkeit {f} :: debt (state or condition of owing something to another) (noun)
   Schulden {f}, Verbindlichkeit {f} :: debt (money that one person or entity owes or is required to pay to another) (noun)
 ***Verbum***
-  Zeitwort {n}, Verb {n}, Verbum {n} :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  Verb {n}, Verbum {n}, Zeitwort {n} :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
 ===verdammte===
   LDVH (Lies das verdammte Handbuch) :: RTFM (Abbreviation of Read the fucking manual) (initialism)
 ***verdunkeln***
@@ -2345,6 +2467,10 @@ Index: DE DE->EN
   verdunkeln, verschleiern :: obfuscate (make confusing) (verb)
 ===vereinfachtes===
   vereinfachtes Chinesisch {n}, Kurzzeichen {n} :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
+===Verfasser===
+  Lexikograf {m}, Lexikografin {f}, Lexikograph {m}, Lexikographin {f}, Verfasser eines Lexikons {m}, Verfasserin eines Lexikons {f} :: lexicographer (one who writes or compiles a dictionary) (noun)
+===Verfasserin===
+  Lexikograf {m}, Lexikografin {f}, Lexikograph {m}, Lexikographin {f}, Verfasser eines Lexikons {m}, Verfasserin eines Lexikons {f} :: lexicographer (one who writes or compiles a dictionary) (noun)
 ***verfinstern***
   verfinstern, verdunkeln :: obfuscate (make dark) (verb)
 ***verfügbar***
@@ -2418,7 +2544,7 @@ Index: DE DE->EN
 ***vierteln***
   vierteln :: quarter (divide into quarters) (verb)
 ===vierzehn===
-  vierzehn Tage, zwei Wochen :: fortnight (period of two weeks) (noun)
+  vierzehn Tage, zwei Wochen :: fortnight (period of two weeks) (adverb)
 ***Vollendung***
   Errungenschaft {f}, Vollendung {f} :: achievement (act of achieving or performing) (noun)
   Errungenschaft {f}, Vollendung {f} :: achievement (great or heroic deed) (noun)
@@ -2445,6 +2571,7 @@ Index: DE DE->EN
   Vorsitzender {m}, Vorsitzende {f} :: chairman (person presiding over a meeting) (noun)
 ***Wachstum***
   Wachstum {n} :: growth (increase in size) (noun)
+  Wachstum {n} :: growth (act of growing) (noun)
 ***Waffe***
   Waffe {f} :: weapon (instrument of attack or defense in combat) (noun)
 ===Wahl===
@@ -2487,7 +2614,7 @@ Index: DE DE->EN
 ***wenig***
   wenig :: few (indefinite, usually small number) (determiner)
 ===Wenig===
-  Bisschen {n}, Wenig {n}, Stück {n}, Stückchen {n}, Happen {m} (of food) :: bit (small piece) (noun)
+  Bisschen {n}, Wenig {n}, Stück {n}, Stückchen {n}, Happen {m} (of food) :: bit (small amount of something) (noun)
 ***werden***
   werden :: be (used to form the passive voice) (verb)
 ***Wettliste***
@@ -2517,13 +2644,11 @@ Index: DE DE->EN
 ***Woche***
   Woche {f} :: week (period of seven days) (noun)
 ===Wochen===
-  vierzehn Tage, zwei Wochen :: fortnight (period of two weeks) (noun)
+  vierzehn Tage, zwei Wochen :: fortnight (period of two weeks) (adverb)
 ***Wohnung***
   Bleibe {f}, Wohnung {f} :: abode (slightly dated: residence) (noun)
 ***Wolf***
-  Wolf {m}, Wölfin {f} :: wolf (animal) (noun)
-***Wölfin***
-  Wolf {m}, Wölfin {f} :: wolf (animal) (noun)
+  Wolf {m} :: wolf (animal) (noun)
 ***wörpel***
   (Low German) terling {m}, wörpelterling {m}, dubbelsten {m}, wörpel {m} :: die (polyhedron used in games of chance) (noun)
 ***wörpelterling***
@@ -2550,18 +2675,20 @@ Index: DE DE->EN
 ***Zahl***
   Anzahl {f}, Zahl {f} :: number (abstract entity) (noun)
   Zahl {f} :: number (mathematical number) (noun)
-  Zahl {f}, Ziffer {f} :: numeral (word or symbol representing a number) (noun)
+  Zahl {f}, Ziffer {f}, Zahlwort {n} :: numeral (word or symbol representing a number) (noun)
 ***zählen***
   zählen :: number (to total; to amount to) (verb)
 ***zahllos***
   unzählig, zahllos :: uncountable (too many to be counted) (adjective)
+***Zahlwort***
+  Zahl {f}, Ziffer {f}, Zahlwort {n} :: numeral (word or symbol representing a number) (noun)
 ===Zeh===
   Finger (finger), Zeh (toe) :: digit (finger or toe) (noun)
 ***zehn***
   zehn :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
-===Zehn===
-  Zehn-Dollar-Note {f} :: eagle (A gold coin with a face value of $10.00) (noun)
+***Zehn***
   Zehn {f} (2) :: ten (the number following nine) (noun)
+  Zehn-Dollar-Note {f} :: eagle (A gold coin with a face value of $10.00) (noun)
 ***zeigen***
   zeigen :: point (to extend finger) (verb)
 ***Zeit***
@@ -2574,7 +2701,7 @@ Index: DE DE->EN
 ===Zeitrechnung===
   n. u. Z. (nach unserer Zeitrechnung) :: CE (Common Era) (initialism)
 ***Zeitwort***
-  Zeitwort {n}, Verb {n}, Verbum {n} :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  Verb {n}, Verbum {n}, Zeitwort {n} :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
 ***Zenturie***
   Zenturie {f} :: century (Roman army type unit) (noun)
 ***zerstreut***
@@ -2585,7 +2712,7 @@ Index: DE DE->EN
   Akkordeon {n}, Ziehharmonika {f}, Handharmonika {f}, Handorgel {f}, (regional) Quetsche {f}, (slangy, humorous) Quetschkommode {f}, Schifferklavier {n} :: accordion (A small, portable, keyed wind instrument) (noun)
 ***Ziffer***
   Ziffer {f} :: digit (numeral) (noun)
-  Zahl {f}, Ziffer {f} :: numeral (word or symbol representing a number) (noun)
+  Zahl {f}, Ziffer {f}, Zahlwort {n} :: numeral (word or symbol representing a number) (noun)
   römische Ziffer {f} :: Roman numeral (a numeral represented by letters) (noun)
 ***Zufall***
   Zufall {m}, Versehen {n} :: accidental (a property which is not essential) (noun)
@@ -2609,7 +2736,7 @@ Index: DE DE->EN
   Zuwachs {m} :: accrual (an increase) (noun)
 ***zwei***
   zwei, zwo :: two (one plus one) (cardinal number)
-  vierzehn Tage, zwei Wochen :: fortnight (period of two weeks) (noun)
+  vierzehn Tage, zwei Wochen :: fortnight (period of two weeks) (adverb)
 ***Zwei***
   Zwei {f} :: two (digit or figure) (noun)
 ===Zweidollarschein===
@@ -2832,9 +2959,9 @@ Index: EN EN->DE
   reizmindernd :: abirritant (acting to diminish irritation) (adjective)
 ***abject***
   elend, kläglich, jämmerlich :: abject (Sunk to a low condition; down in spirit or hope) (adjective)
-  (Armut) bitter, verächtlich :: abject (Cast down; rejected; low-lying) (adjective)
+  bitter (poverty), verächtlich :: abject (Cast down; rejected; low-lying) (adjective)
 ***abjure***
-  abschwören (+dative) :: abjure (to renounce with solemnity) (verb)
+  abschwören (with dative) :: abjure (to renounce with solemnity) (verb)
 ***ablative***
   ablativisch :: ablative (applied to one of the cases of the noun in other language) (adjective)
   Ablativ {m} :: ablative ((grammar) the ablative case) (noun)
@@ -2875,25 +3002,26 @@ Index: EN EN->DE
   vernichten :: abolish (to destroy) (verb)
 ===abolishing===
   Abschaffung {f} :: abolishment (The act of abolishing) (noun)
-  Abschaffung {f}, Aufhebung {f} :: abolition (act of abolishing)
+  Abschaffung {f}, Aufhebung {f} :: abolition (act of abolishing) (noun)
 ***abolishment***
   Abschaffung {f} :: abolishment (The act of abolishing) (noun)
 ***abolition***
-  Abschaffung {f}, Aufhebung {f} :: abolition (act of abolishing)
-  Abschaffung des Sklavenhandels :: abolition (Abolition of slave trade)
-  Abschaffung des Sklavenhandels :: abolition (emancipation of slaves)
+  Abschaffung {f}, Aufhebung {f} :: abolition (act of abolishing) (noun)
+  Abschaffung des Sklavenhandels :: abolition (Abolition of slave trade) (noun)
+  Abschaffung des Sklavenhandels :: abolition (emancipation of slaves) (noun)
 ===Abolition===
-  Abschaffung des Sklavenhandels :: abolition (Abolition of slave trade)
+  Abschaffung des Sklavenhandels :: abolition (Abolition of slave trade) (noun)
 ***abolitionism***
   Abolitionismus :: abolitionism (noun)
 ***abominable***
   verabscheuungswürdig, verhasst, abscheulich :: abominable (hateful; detestable; loathsome) (adjective)
   riesig, monströs :: abominable ((obsolete) excessive; large) (adjective)
-  (die) Abscheulichkeit :: abomination (something abominable) (noun)
+  Abscheulichkeit {f} :: abomination (something abominable) (noun)
 ***abominate***
   verabscheuen :: abominate (to feel disgust towards, to hate in the highest degree) (verb)
 ***abomination***
-  (die) Abscheulichkeit :: abomination (something abominable) (noun)
+  Abscheu {m} :: abomination (the feeling of extreme disgust) (noun)
+  Abscheulichkeit {f} :: abomination (something abominable) (noun)
 ***aboriginal***
   eingeboren, einheimisch :: aboriginal (original; indigenous) (adjective)
 ***abort***
@@ -2904,9 +3032,14 @@ Index: EN EN->DE
   Fehlgeburt {f} :: abortion (miscarriage) (noun)
   Abtreibung {f} :: abortion (induced abortion) (noun)
   Abtreibung {f} :: abortion (act of inducing abortion) (noun)
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, (euphemistic, backstreet) Engelmacher {m}, (euphemistic, backstreet) Engelmacherin {f} :: abortionist (one who performs an abortion, abortions) (noun)
   abgetriebenes :: abortive (Produced by abortion; born prematurely; as, an abortive child.) (adjective)
   abtreibend :: abortive (Causing abortion; as, abortive medicines) (adjective)
   Abort {m}, Abtreibung {f}, Interruptio {n} :: abortive (That which is born or brought forth prematurely; an abortion) (noun)
+***abortionist***
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, (euphemistic, backstreet) Engelmacher {m}, (euphemistic, backstreet) Engelmacherin {f} :: abortionist (one who performs an abortion, abortions) (noun)
+===abortions===
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, (euphemistic, backstreet) Engelmacher {m}, (euphemistic, backstreet) Engelmacherin {f} :: abortionist (one who performs an abortion, abortions) (noun)
 ***abortive***
   abgetriebenes :: abortive (Produced by abortion; born prematurely; as, an abortive child.) (adjective)
   erfolglos, wirkungslos :: abortive (Rendering fruitless or ineffectual) (adjective)
@@ -2954,6 +3087,8 @@ Index: EN EN->DE
 ***abridge***
   verkürzen, kürzen :: abridge (to make shorter) (verb)
   verkürzen :: abridge (to shorten or contract by using fewer words) (verb)
+***abridgment***
+  Auszug {m}, Kurzfassung {f}, Kurzform {f} :: abridgment (shortened version.) (noun)
 ***abroad***
   im Ausland :: abroad (in foreign countries) (adverb)
   Ausland {n} :: abroad (countries or lands abroad) (noun)
@@ -2979,7 +3114,7 @@ Index: EN EN->DE
   sich davonmachen :: abscond (to depart secretly) (verb)
 ***absent***
   abwesend :: absent (being away from a place) (adjective)
-  (geistig) abwesend :: absent (inattentive) (adjective)
+  geistig abwesend :: absent (inattentive) (adjective)
   zerstreut :: absent-minded (absent in mind) (adjective)
 ***absoluteness***
   Absolutheit {f} :: absoluteness (the fact of being without qualifications; unconditionality) (noun)
@@ -3070,7 +3205,8 @@ Index: EN EN->DE
 ===accidentals===
   Sekunde {f} :: second (interval between two adjacent notes in a diatonic scale (with or without extra accidentals)) (noun)
 ===Accipitridae===
-  Adler {m}, Aar {m} (poetic) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
+  Adler {m}, (poetic) Aar {m} :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
+  (Low German) Aadler {m}, Arend {m} :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
   (Middle High German) ar, adelar :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
   (Old High German) arn {m}, aro {m} :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
 ***acclamation***
@@ -3079,6 +3215,8 @@ Index: EN EN->DE
   Akklimatisierung {f} :: acclimature (act of acclimating) (noun)
 ***acclimature***
   Akklimatisierung {f} :: acclimature (act of acclimating) (noun)
+===accompanied===
+  transitives Verb {n} :: transitive verb (a verb that is accompanied by a direct object) (noun)
 ***accord***
   Übereinstimmung {f} :: accord (agreement or concurrence of opinion) (noun)
   Akkord {m} :: accord (harmony of sounds) (noun)
@@ -3133,7 +3271,7 @@ Index: EN EN->DE
   Entführung {f} :: abduction (act of abducing or abducting) (noun)
   Verweilen {n}, Warten {n} :: abode (obsolete: act of waiting) (noun)
   Abschaffung {f} :: abolishment (The act of abolishing) (noun)
-  Abschaffung {f}, Aufhebung {f} :: abolition (act of abolishing)
+  Abschaffung {f}, Aufhebung {f} :: abolition (act of abolishing) (noun)
   Abtreibung {f} :: abortion (act of inducing abortion) (noun)
   Abrasion {f} :: abrasion (act of abrading) (noun)
   abschaffen :: abrogate (to annul by an authoritative act) (verb)
@@ -3141,11 +3279,12 @@ Index: EN EN->DE
   Akklimatisierung {f} :: acclimature (act of acclimating) (noun)
   Begriffserklärung {f}, Definierung {f} :: definition (act of defining) (noun)
   Errungenschaft {f}, Vollendung {f} :: achievement (act of achieving or performing) (noun)
+  Wachstum {n} :: growth (act of growing) (noun)
   Vergewaltigung {f} :: rape (act of forcing sexual activity) (noun)
 ===acting===
   reizmindernd :: abirritant (acting to diminish irritation) (adjective)
 ===action===
-  Zeitwort {n}, Verb {n}, Verbum {n} :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  Verb {n}, Verbum {n}, Zeitwort {n} :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   weiter :: on (continuing an action) (adverb)
   Absurdität {f} :: absurdity (an absurd action) (noun)
   Annahme {f} :: acceptance ((law) An agreeing to the action of another) (noun)
@@ -3167,12 +3306,12 @@ Index: EN EN->DE
 ===adjacent===
   Sekunde {f} :: second (interval between two adjacent notes in a diatonic scale (with or without extra accidentals)) (noun)
 ***adjectival***
-  adjektivisch, Adjektiv- :: adjectival (of or relating to or functioning as an adjective) (adjective)
+  adjektivisch, Adjektiv- (Adjektiv) :: adjectival (of or relating to or functioning as an adjective) (adjective)
 ***adjective***
   adjektivisch :: adjective (functioning as an adjective) (adjective)
   formal :: adjective (methods of enforcement and rules of procedure) (adjective)
   Adjektiv {n}, Eigenschaftswort {n} :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
-  adjektivisch, Adjektiv- :: adjectival (of or relating to or functioning as an adjective) (adjective)
+  adjektivisch, Adjektiv- (Adjektiv) :: adjectival (of or relating to or functioning as an adjective) (adjective)
   sein :: be (used to connect a noun to an adjective that describes it) (verb)
 ===adjectives===
   -ität {f} :: -ity (Used to form nouns from adjectives.) (suffix)
@@ -3259,6 +3398,7 @@ Index: EN EN->DE
   Menge {f} :: deal (large number or amount or extent) (noun)
   zählen :: number (to total; to amount to) (verb)
   Sekunde {f}, Augenblick {m}, Moment {m} :: second (short, indeterminate amount of time) (noun)
+  Bisschen {n}, Wenig {n}, Stück {n}, Stückchen {n}, Happen {m} (of food) :: bit (small amount of something) (noun)
 ===An===
   Akzeptanz {f} :: acceptance ((commerce) An assent and engagement by the person on whom a bill of exchange is drawn) (noun)
   Akzeptanz {f} :: acceptance (An agreeing to terms or proposals) (noun)
@@ -3276,11 +3416,11 @@ Index: EN EN->DE
   Minute {f}, :: minute (unit of angular measure) (noun)
   Sekunde {f} :: second (unit of angular measure) (noun)
 ===animal===
-  (male or female, sex unspecified) Hund {m}, (adult male of a canine species) Rüde {m}, (female) Hündin {f} :: dog (animal) (noun)
+  (♂♀) Hund {m}, (♂) Hündin {f} :: dog (animal) (noun)
   (Middle High German) hunt :: dog (animal) (noun)
   (Middle Low German) hund :: dog (animal) (noun)
   (Old High German) hunt :: dog (animal) (noun)
-  Wolf {m}, Wölfin {f} :: wolf (animal) (noun)
+  Wolf {m} :: wolf (animal) (noun)
   (Low German) Wulf {m} :: wolf (animal) (noun)
   Fleisch {n} :: meat (animal flesh used as food) (noun)
 ===animals===
@@ -3296,6 +3436,7 @@ Index: EN EN->DE
   Synonym {n} :: synonym (word with same meaning as another) (noun)
   Ablaut {m} :: ablaut (substitution of one root vowel for another) (noun)
   springen, einen Satz machen, hüpfen :: leap (to jump from one location to another) (verb)
+  Helfer {m} :: servant (one who serves another, providing help in some manner) (noun)
   Annahme {f} :: acceptance ((law) An agreeing to the action of another) (noun)
   Schuld {f}, Verbindlichkeit {f}, Verpflichtung {f} :: debt (action, state of mind, or object one has an obligation to perform for another) (noun)
   Schulden {f}, Verbindlichkeit {f} :: debt (state or condition of owing something to another) (noun)
@@ -3305,14 +3446,16 @@ Index: EN EN->DE
 ===anti===
   Antisemitismus {m}, Judenhass {m} :: anti-Semitism (prejudice or hostility against Jews) (noun)
 ***antonym***
-  Antonym {n} :: antonym (word which has the opposite meaning) (noun)
+  Antonym {n}, Gegenwort {n}, Gegensatzwort {n} :: antonym (word which has the opposite meaning) (noun)
 ===any===
   Krähe {f} :: crow (any bird of the genus Corvus) (noun)
   Produkt {n} :: product (any tangible output) (noun)
   Tinktur {f} :: color (any of the standard dark tinctures used in a coat of arms) (noun)
   Fleisch {n} :: meat (any sort of flesh) (noun)
+  Sonne {f} :: sun (any star, especially when seen as the centre of any single solar system) (noun)
 ===Any===
-  Adler {m}, Aar {m} (poetic) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
+  Adler {m}, (poetic) Aar {m} :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
+  (Low German) Aadler {m}, Arend {m} :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
   (Middle High German) ar, adelar :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
   (Old High German) arn {m}, aro {m} :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
 ===anything===
@@ -3362,7 +3505,7 @@ Index: EN EN->DE
   Komitologie :: comitology (art of resolving issues by committees) (noun)
 ===article===
   (nominative case) der {m}, (nominative case) die {f}, (nominative case) das {n}, (nominative case) die {p}, ... :: the (article) (article)
-  (Low German) dat {n}, de {m|f}, dei {m|f} :: the (article) (article)
+  (Low German) de {m|f}, dat {n}, dei {m|f} :: the (article) (article)
 ===articles===
   Enzyklopädie {f} :: encyclopedia (comprehensive reference with articles on a range of topic) (noun)
 ===ashamed===
@@ -3501,7 +3644,7 @@ Index: EN EN->DE
 ===Being===
   fremd, fremdartig :: alien (Being unfamiliar with) (adjective)
 ===belief===
-  Polytheismus {m} :: polytheism (belief of existence of many gods) (noun)
+  Polytheismus {m} :: polytheism (belief in the existence of many gods) (noun)
   Monotheismus {m} :: monotheism (The belief in a single God) (noun)
   Doktrin {f} :: doctrine (belief) (noun)
 ===believe===
@@ -3541,8 +3684,10 @@ Index: EN EN->DE
 ===bird===
   Krähe {f} :: crow (any bird of the genus Corvus) (noun)
   Rabe {m}, Kolkrabe {m} :: raven (bird) (noun)
+  (Low German) Raav {f}, Roov {f} :: raven (bird) (noun)
 ===birds===
-  Adler {m}, Aar {m} (poetic) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
+  Adler {m}, (poetic) Aar {m} :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
+  (Low German) Aadler {m}, Arend {m} :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
   (Middle High German) ar, adelar :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
   (Old High German) arn {m}, aro {m} :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
 ***birth***
@@ -3551,14 +3696,14 @@ Index: EN EN->DE
 ***bit***
   Gebiss {n}, Mundstück {n} :: bit (metal in horse's mouth) (noun)
   Bohrer {m} :: bit (rotary cutting tool) (noun)
-  Bisschen {n}, Wenig {n}, Stück {n}, Stückchen {n}, Happen {m} (of food) :: bit (small piece) (noun)
+  Bisschen {n}, Wenig {n}, Stück {n}, Stückchen {n}, Happen {m} (of food) :: bit (small amount of something) (noun)
   Bit {n} :: bit (binary digit) (noun)
   Bit {n} :: bit (smallest unit of storage) (noun)
   Bit {n} :: bit (datum that may take on one of exactly two values) (noun)
 ===biting===
   sauer :: acid (sour, sharp, or biting to the taste) (adjective)
 ===black===
-  rabenschwarz {n} :: raven (of the color of the raven; jet-black) (adjective)
+  rabenschwarz :: raven (of the color of the raven; jet-black) (adjective)
 ===blood===
   erröten :: color (become red through increased blood flow) (verb)
 ===blossom===
@@ -3585,7 +3730,7 @@ Index: EN EN->DE
   Knochen {m}, Gebeine {f|p}, (dated) Bein {n} :: bone (material) (noun)
   (Middle High German) gebeine {n} :: bone (material) (noun)
   (Low German) (east) Bein {n}, (west) Been {n} :: bone (material) (noun)
-  Knochen {m} :: bone (component of a skeleton) (noun)
+  Knochen {m}, Bein {n} :: bone (component of a skeleton) (noun)
   (Low German) Knaken {m} :: bone (component of a skeleton) (noun)
   Gräte {f}, Fischgräte {f} :: bone (fishbone) (noun)
   entbeinen, ausbeinen :: bone (to remove bones) (verb)
@@ -3693,6 +3838,8 @@ Index: EN EN->DE
   abbrechen :: can (to discard) (verb)
   die Klappe halten, den Mund halten :: can (to shut up) (verb)
   kündigen, feuern, rausschmeißen :: can (to fire or dismiss an employee) (verb)
+===canine===
+  Rüde {m} :: dog (male canine) (noun)
 ===canister===
   Dose {f}, Konservendose {f} :: can (a tin-plate canister) (noun)
 ===cannot===
@@ -3726,8 +3873,11 @@ Index: EN EN->DE
   genau, präzis, exakt :: accurate (exact or careful conformity to truth) (adjective)
 ===caring===
   ich mag dich, ich liebe dich, Ich habe dich lieb :: I love you (affirmation of affection or deep caring) (phrase)
+===carnivorans===
+  Katzenartige {m}, Katzenartige {f}, Katzenartigen {p}, Feliformia {p}, Feloidea {p} :: cat (member of the suborder (or superfamily) Feliformia (Feloidea), "cat-like" carnivorans) (noun)
 ===carnivorous===
-  Adler {m}, Aar {m} (poetic) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
+  Adler {m}, (poetic) Aar {m} :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
+  (Low German) Aadler {m}, Arend {m} :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
   (Middle High German) ar, adelar :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
   (Old High German) arn {m}, aro {m} :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
 ===carry===
@@ -3741,13 +3891,17 @@ Index: EN EN->DE
 ===cases===
   ablativisch :: ablative (applied to one of the cases of the noun in other language) (adjective)
 ===Cast===
-  (Armut) bitter, verächtlich :: abject (Cast down; rejected; low-lying) (adjective)
+  bitter (poverty), verächtlich :: abject (Cast down; rejected; low-lying) (adjective)
 ***cat***
   (Alemannic German) Chàtz :: cat (domestic species) (noun)
-  Katze {f} , (male) Kater {m}, (female) Kätzin {f} :: cat (domestic species) (noun)
-  Katze {f} :: cat (member of Felidae) (noun)
+  (♂♀) Katze {f}, (♂) Kater {m}, (♀) Kätzin {f} :: cat (domestic species) (noun)
+  Katzenartige {m}, Katzenartige {f}, Katzenartigen {p}, Feliformia {p}, Feloidea {p} :: cat (member of the suborder (or superfamily) Feliformia (Feloidea), "cat-like" carnivorans) (noun)
+  Katze {f}, Felide {m}, Felide {f}, Feliden {p}, Felidae {p} :: cat (member of the family Felidae) (noun)
+  Kleinkatze {f}, Feline {m}, Feline {f}, Felinen {p}, Felinae {p} :: cat (member of the subfamily Felinae) (noun)
+  Großkatze {f}, (Switzerland, Liechtenstein) Grosskatze {f}, Pantherine {m}, Pantherine {f}, Pantherinen {p}, Pantherinae {p} :: cat (member of the subfamily Pantherinae) (noun)
+  Säbelzahnkatze {f}, Machairodontine {m}, Machairodontine {f}, Machairodontinen {p}, Machairodontinae {p} :: cat (member of the extinct subfamily Machairodontinae) (noun)
 ===category===
-  Substantiv {n} :: noun (grammatical category) (noun)
+  Substantiv {n}, Nomen {n}, Dingwort {n}, Gegenstandswort {n} :: noun (grammatical category) (noun)
   (Swiss German) Substantiv {n} :: noun (grammatical category) (noun)
   Kopf {m} :: head (linguistics: morpheme that determines the category of a compound) (noun)
   Adverb {n}, Umstandswort {n} :: adverb (lexical category) (noun)
@@ -3768,6 +3922,8 @@ Index: EN EN->DE
   Prominenter {m}, Prominente {f}, Promi {m}, Star {m} :: star (celebrity) (noun)
 ===celestial===
   Stern {m} :: star (luminous celestial body) (noun)
+===centre===
+  Sonne {f} :: sun (any star, especially when seen as the centre of any single solar system) (noun)
 ===cents===
   Vierteldollar {m} :: quarter (coin worth 25 cents) (noun)
 ***century***
@@ -3857,7 +4013,7 @@ Index: EN EN->DE
   färben :: color (give something color) (verb)
   ausmalen :: color (draw using crayons) (verb)
   erröten :: color (become red through increased blood flow) (verb)
-  rabenschwarz {n} :: raven (of the color of the raven; jet-black) (adjective)
+  rabenschwarz :: raven (of the color of the raven; jet-black) (adjective)
 ===colour===
   Braun {n} :: brown (colour) (noun)
   (Low German) Brun :: brown (colour) (noun)
@@ -3913,16 +4069,20 @@ Index: EN EN->DE
   Aktie {f} :: stock (finance: capital raised by a company) (noun)
 ===comparative===
   je + comp., + desto + comp. :: the (the + ～comparative, the + comparative) (adverb)
+===compensation===
+  Diener {m} :: servant (one who is hired to perform regular household or other duties, and receives compensation) (noun)
 ===competition===
   Quiz {n}, Ratespiel {n} :: quiz (competition in the answering of questions) (noun)
   Punkt {m} :: point (unit of scoring in a game or competition) (noun)
+===compiles===
+  Lexikograf {m}, Lexikografin {f}, Lexikograph {m}, Lexikographin {f}, Verfasser eines Lexikons {m}, Verfasserin eines Lexikons {f} :: lexicographer (one who writes or compiles a dictionary) (noun)
 ===complete===
   (Alemannic German) Jahr {n} :: year (time it takes for the Earth to complete one revolution of the Sun) (noun)
   Jahr {n} :: year (time it takes for the Earth to complete one revolution of the Sun) (noun)
 ===completion===
   abbrechen :: abort ({{qualifier|computing}} to terminate a process prior to completion) (verb)
 ===component===
-  Knochen {m} :: bone (component of a skeleton) (noun)
+  Knochen {m}, Bein {n} :: bone (component of a skeleton) (noun)
   (Low German) Knaken {m} :: bone (component of a skeleton) (noun)
 ===compose===
   fabulieren :: fable (compose fables) (verb)
@@ -4300,6 +4460,7 @@ Index: EN EN->DE
 ***dictionary***
   Wörterbuch {n} :: dictionary (publication that explains the meanings of an ordered list of words) (noun)
   assoziatives Datenfeld {n} :: dictionary (an associative array) (noun)
+  Lexikograf {m}, Lexikografin {f}, Lexikograph {m}, Lexikographin {f}, Verfasser eines Lexikons {m}, Verfasserin eines Lexikons {f} :: lexicographer (one who writes or compiles a dictionary) (noun)
 ***die***
   sterben, umkommen, versterben :: die (to stop living) (verb)
   Würfel {m} :: die (polyhedron used in games of chance) (noun)
@@ -4332,6 +4493,7 @@ Index: EN EN->DE
   reizmindernd :: abirritant (acting to diminish irritation) (adjective)
 ===direct===
   o :: o (vocative particle to mark direct address) (interjection)
+  transitives Verb {n} :: transitive verb (a verb that is accompanied by a direct object) (noun)
 ===direction===
   ansteuern, in eine Richtung gehen, auf etwas zusteuern :: head ((intransitive) move in a specified direction) (verb)
 ===discard===
@@ -4343,6 +4505,7 @@ Index: EN EN->DE
   Quarzstaublunge {f}, Quarzstaublungenkrankheit {f}, Silikose {f} :: pneumonoultramicroscopicsilicovolcanoconiosis (disease of the lungs) (noun)
 ===disgust===
   verabscheuen :: abominate (to feel disgust towards, to hate in the highest degree) (verb)
+  Abscheu {m} :: abomination (the feeling of extreme disgust) (noun)
 ===disinherit===
   ausstoßen :: abdicate (disinherit) (verb)
 ===dismiss===
@@ -4382,11 +4545,11 @@ Index: EN EN->DE
 ***doctrine***
   Doktrin {f} :: doctrine (belief) (noun)
 ***dog***
-  (male or female, sex unspecified) Hund {m}, (adult male of a canine species) Rüde {m}, (female) Hündin {f} :: dog (animal) (noun)
+  (♂♀) Hund {m}, (♂) Hündin {f} :: dog (animal) (noun)
   (Middle High German) hunt :: dog (animal) (noun)
   (Middle Low German) hund :: dog (animal) (noun)
   (Old High German) hunt :: dog (animal) (noun)
-  Rüde {m} :: dog (male dog) (noun)
+  Rüde {m} :: dog (male canine) (noun)
   Hund {m} :: dog (morally reprehensible person, See also scoundrel) (noun)
 ===dogs===
   Bindfäden regnen, in Strömen regnen, aus allen Kannen gießen, aus allen Kannen schütten, wie aus Eimern schütten :: rain cats and dogs (to rain very heavily) (verb)
@@ -4396,7 +4559,7 @@ Index: EN EN->DE
 ===domestic===
   Inlandsschuld {f}, Inlandsverschuldung {f} :: domestic debt (debt owed to creditors resident in the same country as debtor) (noun)
   (Alemannic German) Chàtz :: cat (domestic species) (noun)
-  Katze {f} , (male) Kater {m}, (female) Kätzin {f} :: cat (domestic species) (noun)
+  (♂♀) Katze {f}, (♂) Kater {m}, (♀) Kätzin {f} :: cat (domestic species) (noun)
   BIP :: GDP (gross domestic product) ({{initialism}})
 ===Domini===
   n. Chr. (nach Christus) :: AD (anno Domini) ({{initialism}})
@@ -4406,7 +4569,7 @@ Index: EN EN->DE
   nachlassen, zurückgehen :: abate (to bring down a person physically or mentally) (verb)
   einstellen :: abate (obsolete: to bring entirely down or put an end to) (verb)
   elend, kläglich, jämmerlich :: abject (Sunk to a low condition; down in spirit or hope) (adjective)
-  (Armut) bitter, verächtlich :: abject (Cast down; rejected; low-lying) (adjective)
+  bitter (poverty), verächtlich :: abject (Cast down; rejected; low-lying) (adjective)
 ===draw===
   ausmalen :: color (draw using crayons) (verb)
 ===drawn===
@@ -4434,12 +4597,15 @@ Index: EN EN->DE
   (Kölsch) Neederländėsch :: Dutch (the Dutch language) (proper noun)
   (Pennsylvania German) Niederlaendische Schprooch :: Dutch (the Dutch language) (proper noun)
   Niederländer, Holländer :: Dutch (people from the Netherlands) (proper noun)
+===duties===
+  Diener {m} :: servant (one who is hired to perform regular household or other duties, and receives compensation) (noun)
 ===dwell===
   weilen :: abide (to dwell) (verb)
 ===each===
   Planet {m}, Wandelstern {m} (old) :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
 ***eagle***
-  Adler {m}, Aar {m} (poetic) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
+  Adler {m}, (poetic) Aar {m} :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
+  (Low German) Aadler {m}, Arend {m} :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
   (Middle High German) ar, adelar :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
   (Old High German) arn {m}, aro {m} :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
   Zehn-Dollar-Note {f} :: eagle (A gold coin with a face value of $10.00) (noun)
@@ -4485,14 +4651,14 @@ Index: EN EN->DE
 ===element===
   Null {f} :: zero (identity element of a monoid) (noun)
 ***elephant***
-  Elefant {m}, (female) Elefantin {f} :: elephant (mammal) (noun)
+  Elefant {m}, Elefantenbulle {m}, Elefantin {f}, Elefantenkuh {f}, Elefantenkalb {n} :: elephant (mammal) (noun)
 ===eleventh===
   November {m}, (archaic) Nebelung {m} :: November (eleventh month of the Gregorian calendar) (proper noun)
   (Low German) November {m}, Novembermaand {m} :: November (eleventh month of the Gregorian calendar) (proper noun)
 ===elliptical===
   sein :: be (elliptical form of "be here", or similar) (verb)
 ===emancipation===
-  Abschaffung des Sklavenhandels :: abolition (emancipation of slaves)
+  Abschaffung des Sklavenhandels :: abolition (emancipation of slaves) (noun)
 ===embarrass===
   beschämen :: abash (to make ashamed, to embarrass) (verb)
 ===embarrassed===
@@ -4563,6 +4729,7 @@ Index: EN EN->DE
 ===especially===
   Schärfe {f}, Präzision {f} :: definition (clarity, especially of musical sound in reproduction) (noun)
   Hautfarbe {f} :: color (human skin tone, especially as an indicator of race or ethnicity) (noun)
+  Sonne {f} :: sun (any star, especially when seen as the centre of any single solar system) (noun)
   sein :: be (used to form future tenses, especially the future subjunctive) (verb)
 ***Esperanto***
   Esperanto {n} :: Esperanto (auxiliary language) (proper noun)
@@ -4577,7 +4744,7 @@ Index: EN EN->DE
 ===Europe===
   Holland {n}, die Niederlande {n|p} :: Netherlands (country in northwestern Europe) (proper noun)
 ===event===
-  Zeitwort {n}, Verb {n}, Verbum {n} :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  Verb {n}, Verbum {n}, Zeitwort {n} :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   Punkt {m}, Zeitpunkt {m} :: point (particular moment in an event or occurrence) (noun)
   Datum {n}, Zeitpunkt {m} :: date (point of time at which a transaction or event takes place) (noun)
 ===events===
@@ -4609,7 +4776,7 @@ Index: EN EN->DE
 ===exist===
   sein :: be (exist) (verb)
 ===existence===
-  Polytheismus {m} :: polytheism (belief of existence of many gods) (noun)
+  Polytheismus {m} :: polytheism (belief in the existence of many gods) (noun)
 ===expectancy===
   Schwebezustand {m}, Unentschiedenheit {f} :: abeyance (expectancy; condition of being undetermined) (noun)
 ===explaining===
@@ -4626,10 +4793,13 @@ Index: EN EN->DE
   zeigen :: point (to extend finger) (verb)
 ===extent===
   Menge {f} :: deal (large number or amount or extent) (noun)
+===extinct===
+  Säbelzahnkatze {f}, Machairodontine {m}, Machairodontine {f}, Machairodontinen {p}, Machairodontinae {p} :: cat (member of the extinct subfamily Machairodontinae) (noun)
 ===extra===
   Sekunde {f} :: second (interval between two adjacent notes in a diatonic scale (with or without extra accidentals)) (noun)
 ===extreme===
   abscheu, ekel :: abhorrence (extreme aversion) (noun)
+  Abscheu {m} :: abomination (the feeling of extreme disgust) (noun)
 ===extremely===
   abrupt, jäh, schroff, steil :: abrupt (extremely steep) (adjective)
   erbärmlich, jämmerlich :: abysmal (extremely bad) (adjective)
@@ -4653,7 +4823,9 @@ Index: EN EN->DE
 ===false===
   falscher Freund {m}, Übersetzungsfalle {f} :: false friend (false friend) (noun)
 ===family===
-  Adler {m}, Aar {m} (poetic) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
+  Katze {f}, Felide {m}, Felide {f}, Feliden {p}, Felidae {p} :: cat (member of the family Felidae) (noun)
+  Adler {m}, (poetic) Aar {m} :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
+  (Low German) Aadler {m}, Arend {m} :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
   (Middle High German) ar, adelar :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
   (Old High German) arn {m}, aro {m} :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
   Linse {f} :: lens (biology: genus of the legume family; its bean) (noun)
@@ -4685,6 +4857,7 @@ Index: EN EN->DE
 ===feel===
   verabscheuen :: abominate (to feel disgust towards, to hate in the highest degree) (verb)
 ===feeling===
+  Abscheu {m} :: abomination (the feeling of extreme disgust) (noun)
   ich liebe dich, ich habe dich gern, ich habe dich lieb, ich liebe euch (plural), ich habe euch gern (plural), ich habe euch lieb (plural), (formal, sg and pl) ich liebe Sie, ich habe Sie gern, ich habe Sie lieb :: I love you (affirmation of romantic feeling) (phrase)
   ((Alsace)) ich hoan dich gear :: I love you (affirmation of romantic feeling) (phrase)
   ((Bavaria)) i mog di narrisch gern :: I love you (affirmation of romantic feeling) (phrase)
@@ -4695,7 +4868,13 @@ Index: EN EN->DE
 ===feelings===
   erniedrigen :: abase (to lower so as to hurt feelings) (verb)
 ===Felidae===
-  Katze {f} :: cat (member of Felidae) (noun)
+  Katze {f}, Felide {m}, Felide {f}, Feliden {p}, Felidae {p} :: cat (member of the family Felidae) (noun)
+===Feliformia===
+  Katzenartige {m}, Katzenartige {f}, Katzenartigen {p}, Feliformia {p}, Feloidea {p} :: cat (member of the suborder (or superfamily) Feliformia (Feloidea), "cat-like" carnivorans) (noun)
+===Felinae===
+  Kleinkatze {f}, Feline {m}, Feline {f}, Felinen {p}, Felinae {p} :: cat (member of the subfamily Felinae) (noun)
+===Feloidea===
+  Katzenartige {m}, Katzenartige {f}, Katzenartigen {p}, Feliformia {p}, Feloidea {p} :: cat (member of the suborder (or superfamily) Feliformia (Feloidea), "cat-like" carnivorans) (noun)
 ===female===
   Äbtissin {f}, Äbtin {f}, Oberin {f} (Reverend Mother) :: abbess (female superior of a nunnery) (noun)
   Fanny :: Fanny (female given name) (proper noun)
@@ -4814,7 +4993,7 @@ Index: EN EN->DE
 ===fortified===
   Portwein {m} :: port (fortified wine) (noun)
 ***fortnight***
-  vierzehn Tage, zwei Wochen :: fortnight (period of two weeks) (noun)
+  vierzehn Tage, zwei Wochen :: fortnight (period of two weeks) (adverb)
 ===forward===
   Fortgang {m}, Lauf {m} :: march (steady forward movement or progression) (noun)
   Sprung {m} :: leap (significant move forward) (noun)
@@ -4872,7 +5051,7 @@ Index: EN EN->DE
   Nullstelle {f} :: zero (value of a function’s independent variables when the value of the function is zero) (noun)
 ===functioning===
   adjektivisch :: adjective (functioning as an adjective) (adjective)
-  adjektivisch, Adjektiv- :: adjectival (of or relating to or functioning as an adjective) (adjective)
+  adjektivisch, Adjektiv- (Adjektiv) :: adjectival (of or relating to or functioning as an adjective) (adjective)
   an :: on (in the state of being active, functioning or operating) (adjective)
 ===further===
   wie dem auch sei :: whatever (indicating the matter is not worthy of further discussion) (interjection)
@@ -4949,7 +5128,7 @@ Index: EN EN->DE
   Wort {n} :: word (the word of God) (noun)
   Monotheismus {m} :: monotheism (The belief in a single God) (noun)
 ===gods===
-  Polytheismus {m} :: polytheism (belief of existence of many gods) (noun)
+  Polytheismus {m} :: polytheism (belief in the existence of many gods) (noun)
 ===gold===
   Zehn-Dollar-Note {f} :: eagle (A gold coin with a face value of $10.00) (noun)
 ===good===
@@ -4967,14 +5146,14 @@ Index: EN EN->DE
 ===grain===
   mit einem Körnchen Salz :: grain of salt (with common sense and skepticism) (noun)
 ===grammar===
-  Zeitwort {n}, Verb {n}, Verbum {n} :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  Verb {n}, Verbum {n}, Zeitwort {n} :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   Adjektiv {n}, Eigenschaftswort {n} :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   Substantiv {n} :: substantive ((grammar)) (noun)
   Ablativ {m} :: ablative ((grammar) the ablative case) (noun)
   transitiv :: transitive (in grammar: of a verb, that takes an object or objects) (adjective)
   Einzahl {f}, Singular {m} :: singular (grammar: form of a word that refers to only one thing) (noun)
 ===grammatical===
-  Substantiv {n} :: noun (grammatical category) (noun)
+  Substantiv {n}, Nomen {n}, Dingwort {n}, Gegenstandswort {n} :: noun (grammatical category) (noun)
   (Swiss German) Substantiv {n} :: noun (grammatical category) (noun)
 ===graphite===
   (non-colored) Bleistift {m}, (colored) Buntstift {m} :: pencil (graphite writing-instrument) (noun)
@@ -5022,8 +5201,11 @@ Index: EN EN->DE
   abelsch, kommutativ :: abelian (math: of a group) (adjective)
   Begriffserklärung {f}, Definition {f} :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
   Staffel {f} :: season (a group of episodes) (noun)
+===growing===
+  Wachstum {n} :: growth (act of growing) (noun)
 ***growth***
   Wachstum {n} :: growth (increase in size) (noun)
+  Wachstum {n} :: growth (act of growing) (noun)
   Geschwulst {f} :: growth (pathology: abnormal mass such as a tumor) (noun)
 ===gun===
   Kolben {m} :: stock (part of gun) (noun)
@@ -5049,7 +5231,7 @@ Index: EN EN->DE
 ===harmony===
   Akkord {m} :: accord (harmony of sounds) (noun)
 ===has===
-  Antonym {n} :: antonym (word which has the opposite meaning) (noun)
+  Antonym {n}, Gegenwort {n}, Gegensatzwort {n} :: antonym (word which has the opposite meaning) (noun)
   Abrakadabra :: abracadabra (used to indicate that a magic trick or other illusion has been performed) (interjection)
   Schuld {f}, Verbindlichkeit {f}, Verpflichtung {f} :: debt (action, state of mind, or object one has an obligation to perform for another) (noun)
   sein :: be (used to indicate that the subject has the qualities described by a noun or noun phrase) (verb)
@@ -5106,6 +5288,8 @@ Index: EN EN->DE
   Hölle {f} :: hell (place of suffering in life) (noun)
 ===Hell===
   Abaddon {m} :: Abaddon (Hell) (proper noun)
+===help===
+  Helfer {m} :: servant (one who serves another, providing help in some manner) (noun)
 ===here===
   sein :: be (elliptical form of "be here", or similar) (verb)
 ===heroic===
@@ -5124,6 +5308,8 @@ Index: EN EN->DE
   verabscheuen :: abominate (to feel disgust towards, to hate in the highest degree) (verb)
 ===hinder===
   abhalten :: abstain (hinder, withhold) (verb)
+===hired===
+  Diener {m} :: servant (one who is hired to perform regular household or other duties, and receives compensation) (noun)
 ===historical===
   Etymologie {f} :: etymology (study of the historical development of languages, particularly of individual words) (noun)
   Etymologie {f} :: etymology (account of the origin and historical development of a word) (noun)
@@ -5147,6 +5333,8 @@ Index: EN EN->DE
   Zeit {f}, Uhr :: hour (the time) (noun)
 ===hours===
   Tag {m} :: day (period of 24 hours) (noun)
+===household===
+  Diener {m} :: servant (one who is hired to perform regular household or other duties, and receives compensation) (noun)
 ===hue===
   Farbton {m} :: color (hue as opposed to achromatic colours) (noun)
 ===human===
@@ -5218,7 +5406,7 @@ Index: EN EN->DE
   unnormal :: abnormally (In an abnormal manner) (adverb)
   logischerweise :: accordingly (In natural sequence; consequently; so) (adverb)
 ===inattentive===
-  (geistig) abwesend :: absent (inattentive) (adjective)
+  geistig abwesend :: absent (inattentive) (adjective)
 ===incapable===
   überabzählbar :: uncountable (mathematics: incapable of being enumerated by natural numbers) (adjective)
 ===incarnation===
@@ -5244,7 +5432,7 @@ Index: EN EN->DE
   sein :: be (used to indicate that the subject has the qualities described by a noun or noun phrase) (verb)
   sein :: be (used to indicate weather, air quality, or the like) (verb)
 ===indicates===
-  Zeitwort {n}, Verb {n}, Verbum {n} :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  Verb {n}, Verbum {n}, Zeitwort {n} :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
 ===indicating===
   Name {m} :: name (word or phrase indicating a particular person, place, class or thing) (noun)
   der {m}, die {f}, das {n}, die {p} :: the (stressed, indicating that the object in question is the only one worthy of attention) (article)
@@ -5351,7 +5539,7 @@ Index: EN EN->DE
 ***Japan***
   Japan :: Japan (A Far East country in Asia) (proper noun)
 ===jet===
-  rabenschwarz {n} :: raven (of the color of the raven; jet-black) (adjective)
+  rabenschwarz :: raven (of the color of the raven; jet-black) (adjective)
 ===Jews===
   Antisemitismus {m}, Judenhass {m} :: anti-Semitism (prejudice or hostility against Jews) (noun)
 ***jiffy***
@@ -5422,7 +5610,8 @@ Index: EN EN->DE
   Etymologie {f} :: etymology (study of the historical development of languages, particularly of individual words) (noun)
 ===large===
   Menge {f} :: deal (large number or amount or extent) (noun)
-  Adler {m}, Aar {m} (poetic) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
+  Adler {m}, (poetic) Aar {m} :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
+  (Low German) Aadler {m}, Arend {m} :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
   (Middle High German) ar, adelar :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
   (Old High German) arn {m}, aro {m} :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
   riesig, monströs :: abominable ((obsolete) excessive; large) (adjective)
@@ -5479,6 +5668,8 @@ Index: EN EN->DE
   Qualität {f} :: quality (level of excellence) (noun)
 ===lexical===
   Adverb {n}, Umstandswort {n} :: adverb (lexical category) (noun)
+***lexicographer***
+  Lexikograf {m}, Lexikografin {f}, Lexikograph {m}, Lexikographin {f}, Verfasser eines Lexikons {m}, Verfasserin eines Lexikons {f} :: lexicographer (one who writes or compiles a dictionary) (noun)
 ***lexicography***
   Lexikographie {f} :: lexicography (art or craft of writing dictionaries) (noun)
 ***libero***
@@ -5496,6 +5687,7 @@ Index: EN EN->DE
 ***lightspeed***
   Lichtgeschwindigkeit {f} :: lightspeed (the speed of light) (noun)
 ===like===
+  Katzenartige {m}, Katzenartige {f}, Katzenartigen {p}, Feliformia {p}, Feloidea {p} :: cat (member of the suborder (or superfamily) Feliformia (Feloidea), "cat-like" carnivorans) (noun)
   sein :: be (used to indicate weather, air quality, or the like) (verb)
 ===limb===
   Abduktion {f} :: abduction (physiology: movement separating limb from axis) (noun)
@@ -5547,7 +5739,7 @@ Index: EN EN->DE
   Rendezvous {n}, Date {n}, Verabredung {n}, Stelldichein {n} :: date (meeting with a lover or potential lover; a person so met) (noun)
 ===low===
   elend, kläglich, jämmerlich :: abject (Sunk to a low condition; down in spirit or hope) (adjective)
-  (Armut) bitter, verächtlich :: abject (Cast down; rejected; low-lying) (adjective)
+  bitter (poverty), verächtlich :: abject (Cast down; rejected; low-lying) (adjective)
 ===lower===
   erniedrigen :: abase (to lower so as to hurt feelings) (verb)
   verringern, mindern :: abate (to bring down or reduce to a lower state) (verb)
@@ -5561,7 +5753,9 @@ Index: EN EN->DE
 ===lungs===
   Quarzstaublunge {f}, Quarzstaublungenkrankheit {f}, Silikose {f} :: pneumonoultramicroscopicsilicovolcanoconiosis (disease of the lungs) (noun)
 ===lying===
-  (Armut) bitter, verächtlich :: abject (Cast down; rejected; low-lying) (adjective)
+  bitter (poverty), verächtlich :: abject (Cast down; rejected; low-lying) (adjective)
+===Machairodontinae===
+  Säbelzahnkatze {f}, Machairodontine {m}, Machairodontine {f}, Machairodontinen {p}, Machairodontinae {p} :: cat (member of the extinct subfamily Machairodontinae) (noun)
 ===made===
   Sprungfeder {f}, Feder {f} :: spring (device made of flexible material) (noun)
   Bier {n} :: beer (alcoholic drink made of malt) (noun)
@@ -5584,7 +5778,7 @@ Index: EN EN->DE
 ===making===
   Definition {f} :: definition (action or power of describing, explaining, or making definite) (noun)
 ===male===
-  Rüde {m} :: dog (male dog) (noun)
+  Rüde {m} :: dog (male canine) (noun)
   Fabian :: Fabian (male given name) (proper noun)
   Mann {m}, Herr {m} :: man (adult male human) (noun)
   Sperma {n}, Wichse {f} :: cum (slang: male semen) (noun)
@@ -5592,7 +5786,7 @@ Index: EN EN->DE
 ===malt===
   Bier {n} :: beer (alcoholic drink made of malt) (noun)
 ===mammal===
-  Elefant {m}, (female) Elefantin {f} :: elephant (mammal) (noun)
+  Elefant {m}, Elefantenbulle {m}, Elefantin {f}, Elefantenkuh {f}, Elefantenkalb {n} :: elephant (mammal) (noun)
   Erdferkel {n} :: aardvark (mammal) (noun)
   Erdwolf {m} :: aardwolf (the mammal species Proteles cristatus) (noun)
 ***man***
@@ -5607,6 +5801,7 @@ Index: EN EN->DE
   unnormal :: abnormally (In an abnormal manner) (adverb)
   einsiblig, wortkarg, kurz angebunden :: abrupt (curt in manner) (adjective)
   abrupt, plötzlich, unerwartet :: abruptly (in an abrupt manner) (adverb)
+  Helfer {m} :: servant (one who serves another, providing help in some manner) (noun)
   reichlich :: abundantly (in an abundant manner) (adverb)
   dementsprechend :: accordingly (Agreeably; correspondingly; suitably; in a manner conformable) (adverb)
 ===manual===
@@ -5614,7 +5809,7 @@ Index: EN EN->DE
 ===manufactured===
   zweite Wahl {f} :: second (manufactured item that fails to meet quality control standards) (noun)
 ===many===
-  Polytheismus {m} :: polytheism (belief of existence of many gods) (noun)
+  Polytheismus {m} :: polytheism (belief in the existence of many gods) (noun)
   unzählig, zahllos :: uncountable (too many to be counted) (adjective)
 ***march***
   Marsch {m} :: march (formal, rhythmic way of walking) (noun)
@@ -5657,7 +5852,7 @@ Index: EN EN->DE
 ===mathematical===
   Zahl {f} :: number (mathematical number) (noun)
 ===mathematics===
-  Metrik {f} :: metric (mathematics) (noun)
+  Metrik {f} :: metric (notion in mathematics) (noun)
   überabzählbar :: uncountable (mathematics: incapable of being enumerated by natural numbers) (adjective)
 ===matrix===
   singulär :: singular (linear algebra: of matrix: having no inverse) (adjective)
@@ -5669,7 +5864,7 @@ Index: EN EN->DE
   können, dürfen :: can (may) (verb)
   Bit {n} :: bit (datum that may take on one of exactly two values) (noun)
 ===meaning===
-  Antonym {n} :: antonym (word which has the opposite meaning) (noun)
+  Antonym {n}, Gegenwort {n}, Gegensatzwort {n} :: antonym (word which has the opposite meaning) (noun)
   Konnotation, Nebenbedeutung, Beiklang, Beigeschmack :: connotation (suggested or implied meaning) (noun)
   Synonym {n} :: synonym (word with same meaning as another) (noun)
   Kofferwort {n} :: portmanteau word (word which combines the meaning of two words) (noun)
@@ -5687,7 +5882,7 @@ Index: EN EN->DE
   Minute {f}, :: minute (unit of angular measure) (noun)
   Sekunde {f} :: second (unit of angular measure) (noun)
   Uhr {f} :: clock (instrument to measure or keep track of time) (noun)
-  Metrik {f} :: metric (measure) (noun)
+  Metrik {f} :: metric (measure for something) (noun)
 ***meat***
   Fleisch {n} :: meat (animal flesh used as food) (noun)
   Fleisch {n} :: meat (type of meat) (noun)
@@ -5713,7 +5908,11 @@ Index: EN EN->DE
   Treffen {n}, Verabredung {f} :: date (pre-arranged social meeting) (noun)
   Rendezvous {n}, Date {n}, Verabredung {n}, Stelldichein {n} :: date (meeting with a lover or potential lover; a person so met) (noun)
 ===member===
-  Katze {f} :: cat (member of Felidae) (noun)
+  Katzenartige {m}, Katzenartige {f}, Katzenartigen {p}, Feliformia {p}, Feloidea {p} :: cat (member of the suborder (or superfamily) Feliformia (Feloidea), "cat-like" carnivorans) (noun)
+  Katze {f}, Felide {m}, Felide {f}, Feliden {p}, Felidae {p} :: cat (member of the family Felidae) (noun)
+  Kleinkatze {f}, Feline {m}, Feline {f}, Felinen {p}, Felinae {p} :: cat (member of the subfamily Felinae) (noun)
+  Großkatze {f}, (Switzerland, Liechtenstein) Grosskatze {f}, Pantherine {m}, Pantherine {f}, Pantherinen {p}, Pantherinae {p} :: cat (member of the subfamily Pantherinae) (noun)
+  Säbelzahnkatze {f}, Machairodontine {m}, Machairodontine {f}, Machairodontinen {p}, Machairodontinae {p} :: cat (member of the extinct subfamily Machairodontinae) (noun)
   Kapitelldeckplatte {f} :: abacus (uppermost member of the capital of a column) (noun)
   der {m}, die {f}, das {n}, die {p} :: the (used with the name of a member of a class to refer to all things in that class) (article)
   Akademiker {m}, Akademikerin {f} :: academian (member of an academy) (noun)
@@ -5740,8 +5939,8 @@ Index: EN EN->DE
   formal :: adjective (methods of enforcement and rules of procedure) (adjective)
 ***metric***
   metrisch :: metric (relating to metric system) (adjective)
-  Metrik {f} :: metric (measure) (noun)
-  Metrik {f} :: metric (mathematics) (noun)
+  Metrik {f} :: metric (measure for something) (noun)
+  Metrik {f} :: metric (notion in mathematics) (noun)
 ***Mexico***
   Mexiko {n} :: Mexico (country) (proper noun)
   (Palatinate German) Mexiko {n} :: Mexico (country) (proper noun)
@@ -5952,6 +6151,7 @@ Index: EN EN->DE
   Null {f} :: zero (nothing, or none) (noun)
 ***nonsense***
   Blödsinn {m}, Nonsens {m}, Quatsch {m} (colloquial), Unsinn {m}, :: nonsense (meaningless words) (noun)
+  Nonsens {m}, Unsinn {m} :: nonsense (untrue statement) (noun)
   Quatsch {m}, Dünnschiß {m} :: poppycock (nonsense) (noun)
 ===nonverbal===
   Sprache {f} :: language (nonverbal communication) (noun)
@@ -5977,8 +6177,10 @@ Index: EN EN->DE
   Null {f} :: zero (nothing, or none) (noun)
 ===notice===
   abrupt, jäh :: abrupt (without notice) (adjective)
+===notion===
+  Metrik {f} :: metric (notion in mathematics) (noun)
 ***noun***
-  Substantiv {n} :: noun (grammatical category) (noun)
+  Substantiv {n}, Nomen {n}, Dingwort {n}, Gegenstandswort {n} :: noun (grammatical category) (noun)
   (Swiss German) Substantiv {n} :: noun (grammatical category) (noun)
   Eigenname {m} :: proper noun (The name of a particular person, place, organization or other individual entity) (noun)
   Adjektiv {n}, Eigenschaftswort {n} :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
@@ -6012,7 +6214,7 @@ Index: EN EN->DE
   sieben :: seven (cardinal number 7) (cardinal number)
   (Old High German) sibun :: seven (cardinal number 7) (cardinal number)
   null, Null {f} :: zero (cardinal number before 1, denoting nothing) (cardinal number)
-  Zahl {f}, Ziffer {f} :: numeral (word or symbol representing a number) (noun)
+  Zahl {f}, Ziffer {f}, Zahlwort {n} :: numeral (word or symbol representing a number) (noun)
   {{sense|abstract counting}} eins, {{sense|counting objects}} ein, eine, einen, einem, einer, eines :: one (cardinal number 1) (cardinal number)
   (Low German) ein :: one (cardinal number 1) (cardinal number)
   (Swiss German) aas, (variant form: oas) :: one (cardinal number 1) (cardinal number)
@@ -6029,7 +6231,7 @@ Index: EN EN->DE
   nummerieren :: number (label with numbers; assign numbers to) (verb)
   überabzählbar :: uncountable (mathematics: incapable of being enumerated by natural numbers) (adjective)
 ***numeral***
-  Zahl {f}, Ziffer {f} :: numeral (word or symbol representing a number) (noun)
+  Zahl {f}, Ziffer {f}, Zahlwort {n} :: numeral (word or symbol representing a number) (noun)
   römische Ziffer {f} :: Roman numeral (a numeral represented by letters) (noun)
   Nummer :: number (numeral) (noun)
   Ziffer {f} :: digit (numeral) (noun)
@@ -6052,6 +6254,7 @@ Index: EN EN->DE
   teleportieren :: teleport (move an object by teleportation) (verb)
   Punkt {m} :: point (geometry: zero-dimensional object) (noun)
   sein :: be (used to indicate that the subject and object are the same) (verb)
+  transitives Verb {n} :: transitive verb (a verb that is accompanied by a direct object) (noun)
   transitiv :: transitive (in grammar: of a verb, that takes an object or objects) (adjective)
 ===objectionable===
   Fotze {n} :: cunt (unpleasant or objectionable person) (noun)
@@ -6153,7 +6356,7 @@ Index: EN EN->DE
 ===opposed===
   Farbton {m} :: color (hue as opposed to achromatic colours) (noun)
 ===opposite===
-  Antonym {n} :: antonym (word which has the opposite meaning) (noun)
+  Antonym {n}, Gegenwort {n}, Gegensatzwort {n} :: antonym (word which has the opposite meaning) (noun)
 ===optics===
   Aberration {f} :: aberration (optics: convergence to different foci) (noun)
 ***orange***
@@ -6201,6 +6404,7 @@ Index: EN EN->DE
   achtern, hintern :: abaft ((nautical) Behind; toward the stern relative to some other object or position; aft of) (preposition)
   ablativisch :: ablative (applied to one of the cases of the noun in other language) (adjective)
   Abrakadabra :: abracadabra (used to indicate that a magic trick or other illusion has been performed) (interjection)
+  Diener {m} :: servant (one who is hired to perform regular household or other duties, and receives compensation) (noun)
   Eigenname {m} :: proper noun (The name of a particular person, place, organization or other individual entity) (noun)
 ===ounces===
   Pfund {n} :: pound (unit of mass (16 ounces avoirdupois)) (noun)
@@ -6233,6 +6437,8 @@ Index: EN EN->DE
   auf :: on (paid for by) (preposition)
 ===palm===
   Dattel {f} :: date (fruit of the date palm) (noun)
+===Pantherinae===
+  Großkatze {f}, (Switzerland, Liechtenstein) Grosskatze {f}, Pantherine {m}, Pantherine {f}, Pantherinen {p}, Pantherinae {p} :: cat (member of the subfamily Pantherinae) (noun)
 ===paper===
   Buch {n} :: book (collection of sheets of paper bound together containing printed or written material) (noun)
   Album {n} :: book (convenient collection of small paper items, such as stamps) (noun)
@@ -6291,6 +6497,8 @@ Index: EN EN->DE
 ***pencil***
   (non-colored) Bleistift {m}, (colored) Buntstift {m} :: pencil (graphite writing-instrument) (noun)
   Griffel {m}, Tafelstift {m} :: pencil (slate writing-instrument) (noun)
+===peninsula===
+  Halbinsel {f}, (obsolete) Peninsula {f}, Landzunge {f} :: point (peninsula) (noun)
 ===penis===
   Schwanz {m} :: dick (colloquial: penis) (noun)
   Eichel {f}, Nille {f} :: dickhead ((slang) glans penis) (noun)
@@ -6309,12 +6517,14 @@ Index: EN EN->DE
   sein :: be ((archaic) used to form the perfect aspect with certain intransitive verbs) (verb)
 ===perform===
   Handwerker :: craft (people who perform a particular kind of skilled work) (noun)
+  Diener {m} :: servant (one who is hired to perform regular household or other duties, and receives compensation) (noun)
   Schuld {f}, Verbindlichkeit {f}, Verpflichtung {f} :: debt (action, state of mind, or object one has an obligation to perform for another) (noun)
 ===performed===
   Abrakadabra :: abracadabra (used to indicate that a magic trick or other illusion has been performed) (interjection)
 ===performing===
   Errungenschaft {f}, Vollendung {f} :: achievement (act of achieving or performing) (noun)
 ===performs===
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, (euphemistic, backstreet) Engelmacher {m}, (euphemistic, backstreet) Engelmacherin {f} :: abortionist (one who performs an abortion, abortions) (noun)
   Musikant {m}, Musiker {m}, Musikerin {f} :: musician (person who performs or writes music) (noun)
 ===period===
   Monat {m} :: month (period into which a year is divided) (noun)
@@ -6330,7 +6540,7 @@ Index: EN EN->DE
   in :: in (after a period of time) (preposition)
   Quartal {n}, Vierteljahr {n} :: quarter (period of three months) (noun)
   Jahrzehnt {n}, (archaic) Dekade {f} :: decade (a period of ten years) (noun)
-  vierzehn Tage, zwei Wochen :: fortnight (period of two weeks) (noun)
+  vierzehn Tage, zwei Wochen :: fortnight (period of two weeks) (adverb)
 ===periodical===
   Aberration {f} :: aberration (astronomy: small periodical change of position of heavenly bodies) (noun)
 ===permission===
@@ -6373,7 +6583,6 @@ Index: EN EN->DE
 ***pie***
   Torte {f} :: pie (type of pastry) (noun)
 ===piece===
-  Bisschen {n}, Wenig {n}, Stück {n}, Stückchen {n}, Happen {m} (of food) :: bit (small piece) (noun)
   Stein {m}, Spielfigur {f} :: man (piece in board games) (noun)
   Arie {f} :: aria (type of musical piece) (noun)
 ***pissed***
@@ -6438,6 +6647,7 @@ Index: EN EN->DE
   Punkt {m} :: point (unit of scoring in a game or competition) (noun)
   Komma {m} :: point (arithmetic: decimal point) (noun)
   Spitze {f} :: point (sharp tip) (noun)
+  Halbinsel {f}, (obsolete) Peninsula {f}, Landzunge {f} :: point (peninsula) (noun)
   zeigen :: point (to extend finger) (verb)
   Geburt {f} :: birth (beginning or start; a point of origin) (noun)
   Himmel {m} :: sky (atmosphere above a point) (noun)
@@ -6458,7 +6668,7 @@ Index: EN EN->DE
 ***polysemic***
   mehrdeutig :: polysemic (having a number of meanings, interpretations or understandings) (adjective)
 ***polytheism***
-  Polytheismus {m} :: polytheism (belief of existence of many gods) (noun)
+  Polytheismus {m} :: polytheism (belief in the existence of many gods) (noun)
   polytheistisch :: polytheistic (of or relating to polytheism) (adjective)
 ***polytheistic***
   polytheistisch :: polytheistic (of or relating to polytheism) (adjective)
@@ -6578,6 +6788,8 @@ Index: EN EN->DE
   Erdwolf {m} :: aardwolf (the mammal species Proteles cristatus) (noun)
 ===provides===
   Schirm {m} :: umbrella (anything that provides protection) (noun)
+===providing===
+  Helfer {m} :: servant (one who serves another, providing help in some manner) (noun)
 ===public===
   Schlachthaus {n}, Schlachthof {m} :: abattoir (public slaughterhouse) (noun)
 ===publication===
@@ -6674,7 +6886,8 @@ Index: EN EN->DE
   qualitativ :: qualitative (of descriptions or distinctions based on some quality rather than on some quantity) (adjective)
 ***raven***
   Rabe {m}, Kolkrabe {m} :: raven (bird) (noun)
-  rabenschwarz {n} :: raven (of the color of the raven; jet-black) (adjective)
+  (Low German) Raav {f}, Roov {f} :: raven (bird) (noun)
+  rabenschwarz :: raven (of the color of the raven; jet-black) (adjective)
 ===reaction===
   Produkt {n}, Reaktionsprodukt {n} :: product (result of chemical reaction) (noun)
 ===Read===
@@ -6695,6 +6908,8 @@ Index: EN EN->DE
 ===receive===
   annehmen, abnehmen :: accept (to receive with consent) (verb)
   annehmen, empfangen :: accept (to receive officially) (verb)
+===receives===
+  Diener {m} :: servant (one who is hired to perform regular household or other duties, and receives compensation) (noun)
 ===receiving===
   Annahme {f} :: acceptance (receiving of something offered) (noun)
 ===record===
@@ -6735,13 +6950,14 @@ Index: EN EN->DE
   Weltraum {m}, All {n}, Weltall {n} :: outer space (region) (noun)
 ===regular===
   marschieren :: march (walk with long, regular strides) (verb)
+  Diener {m} :: servant (one who is hired to perform regular household or other duties, and receives compensation) (noun)
   Weltausstellung {f}, Expo {f} :: World Exposition (a regular international exposition) (noun)
 ===reject===
   verweigern :: abdicate (reject) (verb)
 ===rejected===
-  (Armut) bitter, verächtlich :: abject (Cast down; rejected; low-lying) (adjective)
+  bitter (poverty), verächtlich :: abject (Cast down; rejected; low-lying) (adjective)
 ===relating===
-  adjektivisch, Adjektiv- :: adjectival (of or relating to or functioning as an adjective) (adjective)
+  adjektivisch, Adjektiv- (Adjektiv) :: adjectival (of or relating to or functioning as an adjective) (adjective)
   Kopf- :: head (of, relating to, or intended for the head) (adjective)
   Herbst- (Herbst), herbstlich :: autumn (of or relating to autumn) (adjective)
   polytheistisch :: polytheistic (of or relating to polytheism) (adjective)
@@ -6764,7 +6980,7 @@ Index: EN EN->DE
   erfolglos, wirkungslos :: abortive (Rendering fruitless or ineffectual) (adjective)
 ===renounce===
   abdanken :: abdicate (renounce a throne) (verb)
-  abschwören (+dative) :: abjure (to renounce with solemnity) (verb)
+  abschwören (with dative) :: abjure (to renounce with solemnity) (verb)
 ===renunciation===
   Verzicht, Abdankung {f} :: abdication (the act of abdicating; the renunciation of a high office, dignity, or trust, by its holder) (noun)
 ===reprehensible===
@@ -6774,7 +6990,7 @@ Index: EN EN->DE
 ===represented===
   römische Ziffer {f} :: Roman numeral (a numeral represented by letters) (noun)
 ===representing===
-  Zahl {f}, Ziffer {f} :: numeral (word or symbol representing a number) (noun)
+  Zahl {f}, Ziffer {f}, Zahlwort {n} :: numeral (word or symbol representing a number) (noun)
 ===reproduction===
   Schärfe {f}, Präzision {f} :: definition (clarity, especially of musical sound in reproduction) (noun)
 ===reputation===
@@ -6913,6 +7129,8 @@ Index: EN EN->DE
   Stadtteil {m}, Viertel {n}, Kwartier (Cologne) :: quarter (section of a town) (noun)
 ===See===
   Hund {m} :: dog (morally reprehensible person, See also scoundrel) (noun)
+===seen===
+  Sonne {f} :: sun (any star, especially when seen as the centre of any single solar system) (noun)
 ===sell===
   dealen :: deal (sell (illicit drugs)) (verb)
 ===selling===
@@ -6938,6 +7156,11 @@ Index: EN EN->DE
   Dekade {f} :: decade (a series of ten things) (noun)
   Dekade {f} :: decade (a series of ten Hail Marys in the rosary) (noun)
   ausgehen, daten :: date (to take (someone) on a series of dates) (verb)
+***servant***
+  Helfer {m} :: servant (one who serves another, providing help in some manner) (noun)
+  Diener {m} :: servant (one who is hired to perform regular household or other duties, and receives compensation) (noun)
+===serves===
+  Helfer {m} :: servant (one who serves another, providing help in some manner) (noun)
 ===services===
   tauschen :: barter (exchange goods or services without involving money) (verb)
 ===set===
@@ -6956,7 +7179,8 @@ Index: EN EN->DE
   Juli {m}, Heuert {m} :: July (seventh month of the Gregorian calendar) (proper noun)
   (Low German) Juli {m}, Julimaand {m} :: July (seventh month of the Gregorian calendar) (proper noun)
 ===several===
-  Adler {m}, Aar {m} (poetic) :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
+  Adler {m}, (poetic) Aar {m} :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
+  (Low German) Aadler {m}, Arend {m} :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
   (Middle High German) ar, adelar :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
   (Old High German) arn {m}, aro {m} :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
 ===sexual===
@@ -6988,6 +7212,7 @@ Index: EN EN->DE
 ===shortened===
   abgekürzt :: abbreviated (shortened) (adjective)
   Abkürzung {f}, Kurzbezeichnung {f}, Kürzel {n}, Kurzform {f} :: abbreviation (shortened or contracted form of a word or phrase) (noun)
+  Auszug {m}, Kurzfassung {f}, Kurzform {f} :: abridgment (shortened version.) (noun)
 ===shortening===
   Abkürzung {f}, Kürzen {n} :: abbreviation (act or result of shortening or reducing) (noun)
 ===shorter===
@@ -7026,6 +7251,7 @@ Index: EN EN->DE
 ===sin===
   freisprechen, lossprechen, absolvieren :: absolve (theology: pronounce free or give absolution from sin) (verb)
 ===single===
+  Sonne {f} :: sun (any star, especially when seen as the centre of any single solar system) (noun)
   Monotheismus {m} :: monotheism (The belief in a single God) (noun)
 ***singular***
   einzigartig :: singular (being the only one of a kind) (adjective)
@@ -7051,7 +7277,7 @@ Index: EN EN->DE
 ===size===
   Wachstum {n} :: growth (increase in size) (noun)
 ===skeleton===
-  Knochen {m} :: bone (component of a skeleton) (noun)
+  Knochen {m}, Bein {n} :: bone (component of a skeleton) (noun)
   (Low German) Knaken {m} :: bone (component of a skeleton) (noun)
 ===skepticism===
   mit einem Körnchen Salz :: grain of salt (with common sense and skepticism) (noun)
@@ -7078,9 +7304,9 @@ Index: EN EN->DE
 ===slaughterhouse===
   Schlachthaus {n}, Schlachthof {m} :: abattoir (public slaughterhouse) (noun)
 ===slave===
-  Abschaffung des Sklavenhandels :: abolition (Abolition of slave trade)
+  Abschaffung des Sklavenhandels :: abolition (Abolition of slave trade) (noun)
 ===slaves===
-  Abschaffung des Sklavenhandels :: abolition (emancipation of slaves)
+  Abschaffung des Sklavenhandels :: abolition (emancipation of slaves) (noun)
 ===sleep===
   Tiefschlaf {m} :: deep sleep (state of sleep) (noun)
 ===slightly===
@@ -7093,7 +7319,7 @@ Index: EN EN->DE
   Akkordeon {n}, Ziehharmonika {f}, Handharmonika {f}, Handorgel {f}, (regional) Quetsche {f}, (slangy, humorous) Quetschkommode {f}, Schifferklavier {n} :: accordion (A small, portable, keyed wind instrument) (noun)
   Achäne {f} :: achene (small dry fruit) (noun)
   wenig :: few (indefinite, usually small number) (determiner)
-  Bisschen {n}, Wenig {n}, Stück {n}, Stückchen {n}, Happen {m} (of food) :: bit (small piece) (noun)
+  Bisschen {n}, Wenig {n}, Stück {n}, Stückchen {n}, Happen {m} (of food) :: bit (small amount of something) (noun)
 ===smallest===
   Bit {n} :: bit (smallest unit of storage) (noun)
   Morphem {n} :: morpheme (smallest linguistic unit) (noun)
@@ -7112,11 +7338,14 @@ Index: EN EN->DE
   Planke {f} :: deal (plank of softwood) (noun)
 ===sojourn===
   Aufenthalt {m} :: abode (stay or continuance in a place; sojourn) (noun)
+===solar===
+  Sonne {f} :: sun (any star, especially when seen as the centre of any single solar system) (noun)
 ===solemnity===
-  abschwören (+dative) :: abjure (to renounce with solemnity) (verb)
+  abschwören (with dative) :: abjure (to renounce with solemnity) (verb)
 ===some===
   Fabel {f} :: fable (fictitious narration to enforce some useful truth or precept) (noun)
   achtern, hintern :: abaft ((nautical) Behind; toward the stern relative to some other object or position; aft of) (preposition)
+  Helfer {m} :: servant (one who serves another, providing help in some manner) (noun)
   qualitativ :: qualitative (of descriptions or distinctions based on some quality rather than on some quantity) (adjective)
 ===someone===
   ausgehen, daten :: date (to take (someone) on a series of dates) (verb)
@@ -7146,7 +7375,7 @@ Index: EN EN->DE
   Beobachtungsliste {f} :: watchlist (list for special attention) (noun)
 ===species===
   (Alemannic German) Chàtz :: cat (domestic species) (noun)
-  Katze {f} , (male) Kater {m}, (female) Kätzin {f} :: cat (domestic species) (noun)
+  (♂♀) Katze {f}, (♂) Kater {m}, (♀) Kätzin {f} :: cat (domestic species) (noun)
   Erdwolf {m} :: aardwolf (the mammal species Proteles cristatus) (noun)
 ===specific===
   Unterbegriff {m}, Hyponym {n} :: hyponym (more specific word) (noun)
@@ -7199,12 +7428,13 @@ Index: EN EN->DE
   Planet {m} :: planet (similar body in orbit around a star) (noun)
   Sonne {f} :: sun (the star around which the Earth revolves) (proper noun)
   (Low German) Sünn :: sun (the star around which the Earth revolves) (proper noun)
+  Sonne {f} :: sun (any star, especially when seen as the centre of any single solar system) (noun)
 ===stars===
   Planet {m}, Wandelstern {m} (old) :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
 ===start===
   Geburt {f} :: birth (beginning or start; a point of origin) (noun)
 ===state===
-  Zeitwort {n}, Verb {n}, Verbum {n} :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  Verb {n}, Verbum {n}, Zeitwort {n} :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   verringern, mindern :: abate (to bring down or reduce to a lower state) (verb)
   Abnahme {f} :: abatement (the act of abating or the state of being abated) (noun)
   Abweichung {f} :: aberrance (state of being aberrant; a wandering from the right way; deviation from truth, rectitude) (noun)
@@ -7221,6 +7451,7 @@ Index: EN EN->DE
   roh :: crude (being in a natural state) (adjective)
   Wirklichkeit {f} :: reality (state of being actual or real) (noun)
 ===statement===
+  Nonsens {m}, Unsinn {m} :: nonsense (untrue statement) (noun)
   Begriffserklärung {f}, Definition {f} :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
   Definierung {f}, Definition {f} :: definition (statement expressing the essential nature of something) (noun)
 ===stay===
@@ -7275,6 +7506,10 @@ Index: EN EN->DE
   Informatik {f} :: computer science (study of computers and their architecture) (noun)
 ===stupid===
   Dummkopf {m}, Depp {m}, Schwachkopf {m} :: dickhead ((slang) stupid person) (noun)
+===subfamily===
+  Kleinkatze {f}, Feline {m}, Feline {f}, Felinen {p}, Felinae {p} :: cat (member of the subfamily Felinae) (noun)
+  Großkatze {f}, (Switzerland, Liechtenstein) Grosskatze {f}, Pantherine {m}, Pantherine {f}, Pantherinen {p}, Pantherinae {p} :: cat (member of the subfamily Pantherinae) (noun)
+  Säbelzahnkatze {f}, Machairodontine {m}, Machairodontine {f}, Machairodontinen {p}, Machairodontinae {p} :: cat (member of the extinct subfamily Machairodontinae) (noun)
 ===subject===
   über :: on (dealing with the subject of) (preposition)
   sein :: be (used to indicate that the subject and object are the same) (verb)
@@ -7284,6 +7519,8 @@ Index: EN EN->DE
   Realität {f} :: reality (an individual observer's subjective perception) (noun)
 ===subjunctive===
   sein :: be (used to form future tenses, especially the future subjunctive) (verb)
+===suborder===
+  Katzenartige {m}, Katzenartige {f}, Katzenartigen {p}, Feliformia {p}, Feloidea {p} :: cat (member of the suborder (or superfamily) Feliformia (Feloidea), "cat-like" carnivorans) (noun)
 ===substance===
   Säure {f} :: acid (a sour substance) (noun)
   Arznei {f}, Medizin {f}, Medikament {n} :: medicine (substance which promotes healing) (noun)
@@ -7308,6 +7545,7 @@ Index: EN EN->DE
 ***sun***
   Sonne {f} :: sun (the star around which the Earth revolves) (proper noun)
   (Low German) Sünn :: sun (the star around which the Earth revolves) (proper noun)
+  Sonne {f} :: sun (any star, especially when seen as the centre of any single solar system) (noun)
   Schirm {m}, Sonnenschirm {m}, Regenschirm {m} :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
 ===Sun===
   Planet {m} :: planet (rocky or gaseous spherical bodies orbiting the Sun) (noun)
@@ -7326,6 +7564,8 @@ Index: EN EN->DE
   Billion :: billion (a million million; 1,000,000,000,000; 10<sup>12</sup>) (cardinal number)
   Billion :: trillion (a million million, 10<sup>12</sup>) (cardinal number)
   Trillion :: trillion (a million million million, 10<sup>18</sup>) (cardinal number)
+===superfamily===
+  Katzenartige {m}, Katzenartige {f}, Katzenartigen {p}, Feliformia {p}, Feloidea {p} :: cat (member of the suborder (or superfamily) Feliformia (Feloidea), "cat-like" carnivorans) (noun)
 ===superficial===
   Abrasion {f} :: abrasion (medicine: superficial excoriation) (noun)
 ===superior===
@@ -7356,7 +7596,7 @@ Index: EN EN->DE
 ===symbol===
   Begriffserklärung {f}, Definition {f} :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
   Null {f} :: zero (numeric symbol of zero) (noun)
-  Zahl {f}, Ziffer {f} :: numeral (word or symbol representing a number) (noun)
+  Zahl {f}, Ziffer {f}, Zahlwort {n} :: numeral (word or symbol representing a number) (noun)
 ===symbols===
   Sprache {f} :: language (system of communication using words or symbols) (noun)
   (Old High German) sprāhha (sprahha) :: language (system of communication using words or symbols) (noun)
@@ -7367,6 +7607,7 @@ Index: EN EN->DE
 ===system===
   unnormal, ungewöhnlich :: abnormal (not conforming to rule or system) (adjective)
   Kalender {m} :: calendar (system by which time is divided) (noun)
+  Sonne {f} :: sun (any star, especially when seen as the centre of any single solar system) (noun)
   metrisch :: metric (relating to metric system) (adjective)
   Sprache {f} :: language (system of communication using words or symbols) (noun)
   (Old High German) sprāhha (sprahha) :: language (system of communication using words or symbols) (noun)
@@ -7439,7 +7680,7 @@ Index: EN EN->DE
   Abort {m}, Abtreibung {f}, Interruptio {n} :: abortive (That which is born or brought forth prematurely; an abortion) (noun)
 ***the***
   (nominative case) der {m}, (nominative case) die {f}, (nominative case) das {n}, (nominative case) die {p}, ... :: the (article) (article)
-  (Low German) dat {n}, de {m|f}, dei {m|f} :: the (article) (article)
+  (Low German) de {m|f}, dat {n}, dei {m|f} :: the (article) (article)
   der {m}, die {f}, das {n}, die {p} :: the (stressed, indicating that the object in question is the only one worthy of attention) (article)
   der {m}, die {f}, das {n}, die {p} :: the (with a superlative) (article)
   der {m}, die {f}, das {n}, die {p} :: the (used with the name of a member of a class to refer to all things in that class) (article)
@@ -7555,7 +7796,7 @@ Index: EN EN->DE
   Handwerk {n} :: trade (skilled practice of an occupation) (noun)
   Gewerkschaft {f} :: trade union (organization) (noun)
   handeln :: deal (trade) (verb)
-  Abschaffung des Sklavenhandels :: abolition (Abolition of slave trade)
+  Abschaffung des Sklavenhandels :: abolition (Abolition of slave trade) (noun)
 ===traditional===
   traditionelles Chinesisch {n}, Langzeichen {n} :: Traditional Chinese (Chinese written using traditional characters) (proper noun)
   Akademismus {m} :: academicism (art: traditional or orthodox formalism.) (noun)
@@ -7574,6 +7815,7 @@ Index: EN EN->DE
 ***transitive***
   transitiv :: transitive (in grammar: of a verb, that takes an object or objects) (adjective)
   transitiv :: transitive (in set theory) (adjective)
+  transitives Verb {n} :: transitive verb (a verb that is accompanied by a direct object) (noun)
   führen, leiten :: head ((transitive) be in command of) (verb)
   köpfen :: head ((transitive) to strike with the head) (verb)
 ===transparent===
@@ -7623,7 +7865,7 @@ Index: EN EN->DE
   Kofferwort {n} :: portmanteau word (word which combines the meaning of two words) (noun)
   Abszisse {f} :: abscissa (first of two coordinates) (noun)
   ungerade :: odd (not divisible by two) (adjective)
-  vierzehn Tage, zwei Wochen :: fortnight (period of two weeks) (noun)
+  vierzehn Tage, zwei Wochen :: fortnight (period of two weeks) (adverb)
   Sekunde {f} :: second (interval between two adjacent notes in a diatonic scale (with or without extra accidentals)) (noun)
   Bit {n} :: bit (datum that may take on one of exactly two values) (noun)
 ===type===
@@ -7684,6 +7926,8 @@ Index: EN EN->DE
   Moment {m}, :: minute (short but unspecified period of time) (noun)
 ===unsuccessful===
   erfolglos :: abortive (Coming to naught; failing in its effect; miscarrying; fruitless; unsuccessful) (adjective)
+===untrue===
+  Nonsens {m}, Unsinn {m} :: nonsense (untrue statement) (noun)
 ===uphold===
   stützen, helfen :: abet (to support, uphold, or aid) (verb)
 ===upon===
@@ -7762,10 +8006,13 @@ Index: EN EN->DE
   Fahrzeug, Lenkfahrzeug :: craft (vehicle designed for navigation) (noun)
   Transporter {m}, Lieferwagen {m} :: van (A (covered) vehicle used for carrying goods) (noun)
 ***verb***
-  Zeitwort {n}, Verb {n}, Verbum {n} :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  Verb {n}, Verbum {n}, Zeitwort {n} :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  transitives Verb {n} :: transitive verb (a verb that is accompanied by a direct object) (noun)
   transitiv :: transitive (in grammar: of a verb, that takes an object or objects) (adjective)
 ===verbs===
   sein :: be ((archaic) used to form the perfect aspect with certain intransitive verbs) (verb)
+===version===
+  Auszug {m}, Kurzfassung {f}, Kurzform {f} :: abridgment (shortened version.) (noun)
 ===very===
   frei :: free (software: with very few limitations on distribution or improvement) (adjective)
   rasen :: book (travel very fast) (verb)
@@ -7834,7 +8081,7 @@ Index: EN EN->DE
   Samstag {m}, Sonnabend {m}, Sabbat {m} :: Saturday (day of the week) (noun)
   Sonntag {m} :: Sunday (day of the week) (noun)
 ===weeks===
-  vierzehn Tage, zwei Wochen :: fortnight (period of two weeks) (noun)
+  vierzehn Tage, zwei Wochen :: fortnight (period of two weeks) (adverb)
 ***whatever***
   was immer, was auch immer :: whatever (anything) (determiner)
   wie dem auch sei :: whatever (indicating the matter is not worthy of further discussion) (interjection)
@@ -7842,6 +8089,7 @@ Index: EN EN->DE
 ===when===
   Vertrag {m} :: acceptance ((commerce) The bill itself when accepted.) (noun)
   Nullstelle {f} :: zero (value of a function’s independent variables when the value of the function is zero) (noun)
+  Sonne {f} :: sun (any star, especially when seen as the centre of any single solar system) (noun)
   Verabredung {f} (colloquial, arbitrary gender) :: date (companion when one is partaking in a social occasion) (noun)
 ===where===
   Hölle {f} :: hell (where sinners go) (proper noun)
@@ -7849,7 +8097,7 @@ Index: EN EN->DE
 ===which===
   Monat {m} :: month (period into which a year is divided) (noun)
   Tag {m} :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
-  Antonym {n} :: antonym (word which has the opposite meaning) (noun)
+  Antonym {n}, Gegenwort {n}, Gegensatzwort {n} :: antonym (word which has the opposite meaning) (noun)
   Kofferwort {n} :: portmanteau word (word which combines the meaning of two words) (noun)
   Abort {m}, Abtreibung {f}, Interruptio {n} :: abortive (That which is born or brought forth prematurely; an abortion) (noun)
   Kalender {m} :: calendar (system by which time is divided) (noun)
@@ -7891,7 +8139,7 @@ Index: EN EN->DE
   Absolutheit {f} :: absoluteness (the fact of being without qualifications; unconditionality) (noun)
   Sekunde {f} :: second (interval between two adjacent notes in a diatonic scale (with or without extra accidentals)) (noun)
 ***wolf***
-  Wolf {m}, Wölfin {f} :: wolf (animal) (noun)
+  Wolf {m} :: wolf (animal) (noun)
   (Low German) Wulf {m} :: wolf (animal) (noun)
   herunterschlingen :: wolf (to devour) (verb)
 ===wood===
@@ -7903,17 +8151,17 @@ Index: EN EN->DE
   Ehrenwort {n} :: word (something promised) (noun)
   Wort {n} :: word (the word of God) (noun)
   Kofferwort {n} :: portmanteau word (word which combines the meaning of two words) (noun)
-  Antonym {n} :: antonym (word which has the opposite meaning) (noun)
+  Antonym {n}, Gegenwort {n}, Gegensatzwort {n} :: antonym (word which has the opposite meaning) (noun)
   Synonym {n} :: synonym (word with same meaning as another) (noun)
   Unterbegriff {m}, Hyponym {n} :: hyponym (more specific word) (noun)
   Etymologie {f} :: etymology (account of the origin and historical development of a word) (noun)
-  Zeitwort {n}, Verb {n}, Verbum {n} :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
+  Verb {n}, Verbum {n}, Zeitwort {n} :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   Adjektiv {n}, Eigenschaftswort {n} :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   Name {m} :: name (word or phrase indicating a particular person, place, class or thing) (noun)
   Abkürzung {f}, Kurzbezeichnung {f}, Kürzel {n}, Kurzform {f} :: abbreviation (shortened or contracted form of a word or phrase) (noun)
   Plural {m}, Mehrzahl {f} :: plural (word in plural form) (noun)
   Begriffserklärung {f}, Definition {f} :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
-  Zahl {f}, Ziffer {f} :: numeral (word or symbol representing a number) (noun)
+  Zahl {f}, Ziffer {f}, Zahlwort {n} :: numeral (word or symbol representing a number) (noun)
   Einzahl {f}, Singular {m} :: singular (grammar: form of a word that refers to only one thing) (noun)
 ===words===
   Wörterbuch {n} :: dictionary (publication that explains the meanings of an ordered list of words) (noun)
@@ -7940,6 +8188,7 @@ Index: EN EN->DE
   notieren, schreiben :: book (write down) (verb)
   protokollieren, aufzeichnen, :: minute (to write) (verb)
 ===writes===
+  Lexikograf {m}, Lexikografin {f}, Lexikograph {m}, Lexikographin {f}, Verfasser eines Lexikons {m}, Verfasserin eines Lexikons {f} :: lexicographer (one who writes or compiles a dictionary) (noun)
   Musikant {m}, Musiker {m}, Musikerin {f} :: musician (person who performs or writes music) (noun)
 ===writing===
   Lexikographie {f} :: lexicography (art or craft of writing dictionaries) (noun)

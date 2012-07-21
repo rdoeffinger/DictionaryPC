@@ -1,7 +1,9 @@
 dictInfo=SomeWikiDataTrans2Trans
-EntrySource: wiktionary.de_fr.quickdic 1601
+EntrySource: wiktionary.de_fr.quickdic 1686
 
 Index: DE DE->FR
+***Aar***
+  Adler {m}, Aar {m} :: aigle {m}
 ***Abaka***
   Abaka :: abaca {m}
 ***Abakus***
@@ -81,11 +83,27 @@ Index: DE DE->FR
   Abt {m} :: abbé {m}
 ***Abtei***
   Abtei {f} :: abbaye {f}
+===abtreibende===
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, Engelmacher {m}, Engelmacherin {f} :: médecin avorteur {m}, avorteur {m}, avorteuse {f}, faiseur d'anges {m}, faiseuse d'anges {f}
+===abtreibender===
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, Engelmacher {m}, Engelmacherin {f} :: médecin avorteur {m}, avorteur {m}, avorteuse {f}, faiseur d'anges {m}, faiseuse d'anges {f}
+***Abtreiber***
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, Engelmacher {m}, Engelmacherin {f} :: médecin avorteur {m}, avorteur {m}, avorteuse {f}, faiseur d'anges {m}, faiseuse d'anges {f}
+***Abtreiberin***
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, Engelmacher {m}, Engelmacherin {f} :: médecin avorteur {m}, avorteur {m}, avorteuse {f}, faiseur d'anges {m}, faiseuse d'anges {f}
 ***Abtreibung***
   Abtreibung {f} :: avortement {m}
+***Abtreibungsarzt***
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, Engelmacher {m}, Engelmacherin {f} :: médecin avorteur {m}, avorteur {m}, avorteuse {f}, faiseur d'anges {m}, faiseuse d'anges {f}
+***Abtreibungsärztin***
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, Engelmacher {m}, Engelmacherin {f} :: médecin avorteur {m}, avorteur {m}, avorteuse {f}, faiseur d'anges {m}, faiseuse d'anges {f}
+***Abtreibungshelfer***
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, Engelmacher {m}, Engelmacherin {f} :: médecin avorteur {m}, avorteur {m}, avorteuse {f}, faiseur d'anges {m}, faiseuse d'anges {f}
+***Abtreibungshelferin***
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, Engelmacher {m}, Engelmacherin {f} :: médecin avorteur {m}, avorteur {m}, avorteuse {f}, faiseur d'anges {m}, faiseuse d'anges {f}
 ***Abweichung***
   Abweichung {f} :: aberrance {f}
-  Abweichung :: anomalie, anormalité
+  Abweichung :: anomalie {f}, anormalité {f}
 ***Achäne***
   Achäne {f} :: akène {m}
 ***Achillessehne***
@@ -97,10 +115,12 @@ Index: DE DE->FR
   Acht {f} :: huit {m}
 ***Adjektiv***
   Adjektiv {n}, Eigenschaftswort {n} :: adjectif {m}
-  adjektivisch, Adjektiv :: adjectival
+  adjektivisch, Adjektiv- (Adjektiv) :: adjectival
 ***adjektivisch***
   adjektivisch :: adjectif
-  adjektivisch, Adjektiv :: adjectival
+  adjektivisch, Adjektiv- (Adjektiv) :: adjectival
+***Adler***
+  Adler {m}, Aar {m} :: aigle {m}
 ***Adverb***
   Adverb {n}, Umstandswort {n} :: adverbe {m}
 ***Akademismus***
@@ -152,7 +172,7 @@ Index: DE DE->FR
 ***Antisemitismus***
   Antisemitismus {m}, Judenhass {m} :: anti-sémitisme {m}
 ***Antonym***
-  Antonym {n} :: antonyme {m}
+  Antonym {n}, Gegenwort {n}, Gegensatzwort {n} :: antonyme {m}
 ***Anzahl***
   Anzahl {f}, Zahl {f} :: nombre {m}, numéro {m}
   Anzahl {f} :: nombre {m}
@@ -170,7 +190,11 @@ Index: DE DE->FR
   {{ttbc|de}}, Arsch {m}, Arschloch {m}, Schwanzlutscher :: connard {m}, pédé {m}
   Wichser, Arschloch, Drecksau, Mutterficker :: fils de pute, nique ta mère
 ***Arznei***
-  Arznei {f}, Medizin {f}, Medikament {n} :: médicament {m}
+  Arznei {f}, Medizin {f}, Medikament {n} :: médicament {m}, remède {m}
+===Arzt===
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, Engelmacher {m}, Engelmacherin {f} :: médecin avorteur {m}, avorteur {m}, avorteuse {f}, faiseur d'anges {m}, faiseuse d'anges {f}
+===Ärztin===
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, Engelmacher {m}, Engelmacherin {f} :: médecin avorteur {m}, avorteur {m}, avorteuse {f}, faiseur d'anges {m}, faiseuse d'anges {f}
 ===assoziatives===
   assoziatives Datenfeld {n} :: tableau associatif {m}, dictionnaire {m}, table d'association {f}
 ===auch===
@@ -231,8 +255,11 @@ Index: DE DE->FR
   behandeln {f}, umgehen :: faire face, traiter
 ***bei***
   an, bei :: sur
+***beieinander***
+  beieinander :: côte à côte
 ***Bein***
   Knochen {m}, Gebeine {f|p}, Bein {n} :: os {m}
+  Knochen {m}, Bein {n} :: os {m}
 ***benennen***
   nennen, taufen, bezeichnen, benennen :: nommer, dénommer
   benennen :: identifier, appeler
@@ -338,12 +365,12 @@ Index: DE DE->FR
   der {m}, die {f}, das {n}, die {p} :: le {m}, la {f}, les {|p}
   der {m}, die {f}, das {n}, die {p} :: le {m}, la {f}, les {|p}
   der {m}, die {f}, das {n}, die {p} :: le {m}, la {f}, les {|p}
-***Diener***
-  {{ttbc|de}}, Helfer {m}, Diener {m} :: {{ttbc|fr}}, domestique, serviteur {m}
 ***Dienstag***
   Dienstag {m} :: mardi {m}
 ===diethylamid===
   Lysergsäure-diethylamid :: acide {m|f}
+***Dingwort***
+  Substantiv {n}, Nomen {n}, Dingwort {n}, Gegenstandswort {n} :: nom {m}, substantif {m}
 ***Doktrin***
   Doktrin {f} :: doctrine {f}
 ***Donnerstag***
@@ -408,13 +435,23 @@ Index: DE DE->FR
 ***Eisenbahnlinie***
   Eisenbahnlinie {f}, Gleis {n} :: chemin de fer {m}, réseau ferroviaire {m}
 ***Elefant***
-  Elefant {m}, Elefantin {f} :: éléphant {m}
+  Elefant {m}, Elefantenbulle {m}, Elefantin {f}, Elefantenkuh {f}, Elefantenkalb {n} :: éléphant {m}, éléphante {f}, éléphanteau {m}, éléphantelle {f}
+***Elefantenbulle***
+  Elefant {m}, Elefantenbulle {m}, Elefantin {f}, Elefantenkuh {f}, Elefantenkalb {n} :: éléphant {m}, éléphante {f}, éléphanteau {m}, éléphantelle {f}
+***Elefantenkalb***
+  Elefant {m}, Elefantenbulle {m}, Elefantin {f}, Elefantenkuh {f}, Elefantenkalb {n} :: éléphant {m}, éléphante {f}, éléphanteau {m}, éléphantelle {f}
+***Elefantenkuh***
+  Elefant {m}, Elefantenbulle {m}, Elefantin {f}, Elefantenkuh {f}, Elefantenkalb {n} :: éléphant {m}, éléphante {f}, éléphanteau {m}, éléphantelle {f}
 ***Elefantin***
-  Elefant {m}, Elefantin {f} :: éléphant {m}
+  Elefant {m}, Elefantenbulle {m}, Elefantin {f}, Elefantenkuh {f}, Elefantenkalb {n} :: éléphant {m}, éléphante {f}, éléphanteau {m}, éléphantelle {f}
 ***elend***
   elend, kläglich, jämmerlich :: abject {m}, abjecte {f}, méprisable
 ***empfangen***
   annehmen, empfangen :: accueillir
+***Engelmacher***
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, Engelmacher {m}, Engelmacherin {f} :: médecin avorteur {m}, avorteur {m}, avorteuse {f}, faiseur d'anges {m}, faiseuse d'anges {f}
+***Engelmacherin***
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, Engelmacher {m}, Engelmacherin {f} :: médecin avorteur {m}, avorteur {m}, avorteuse {f}, faiseur d'anges {m}, faiseuse d'anges {f}
 ***Engländer***
   Engländer {m}, Engländerin {f} :: Anglais {m}, Anglaise {f}
 ***Engländerin***
@@ -491,6 +528,22 @@ Index: DE DE->FR
   Sprungfeder {f}, Feder {f} :: ressort {m}
 ***Fehlgeburt***
   Fehlgeburt {f} :: fausse couche {f}
+***Felidae***
+  Katze {f}, Felide {m}, Felide {f}, Feliden {p}, Felidae {p} :: félin {m}, félidé {m}
+***Felide***
+  Katze {f}, Felide {m}, Felide {f}, Feliden {p}, Felidae {p} :: félin {m}, félidé {m}
+***Feliden***
+  Katze {f}, Felide {m}, Felide {f}, Feliden {p}, Felidae {p} :: félin {m}, félidé {m}
+***Feliformia***
+  Katzenartige {m}, Katzenartige {f}, Katzenartigen {p}, Feliformia {p}, Feloidea {p} :: féliforme {m}, féliformes {p}, féloidé {m}, féloidés {p}
+***Felinae***
+  Kleinkatze {f}, Feline {m}, Feline {f}, Felinen {p}, Felinae {p} :: féliné {m}
+***Feline***
+  Kleinkatze {f}, Feline {m}, Feline {f}, Felinen {p}, Felinae {p} :: féliné {m}
+***Felinen***
+  Kleinkatze {f}, Feline {m}, Feline {f}, Felinen {p}, Felinae {p} :: féliné {m}
+***Feloidea***
+  Katzenartige {m}, Katzenartige {f}, Katzenartigen {p}, Feliformia {p}, Feloidea {p} :: féliforme {m}, féliformes {p}, féloidé {m}, féloidés {p}
 ***Festmacherleine***
   Festmacherleine {f} :: garde {f}
 ***Fleisch***
@@ -551,6 +604,12 @@ Index: DE DE->FR
   Gebiss {n}, Mundstück {n} :: mors
 ***Geburt***
   Geburt {f} :: naissance {f}
+***Gegensatzwort***
+  Antonym {n}, Gegenwort {n}, Gegensatzwort {n} :: antonyme {m}
+***Gegenstandswort***
+  Substantiv {n}, Nomen {n}, Dingwort {n}, Gegenstandswort {n} :: nom {m}, substantif {m}
+***Gegenwort***
+  Antonym {n}, Gegenwort {n}, Gegensatzwort {n} :: antonyme {m}
 ===genannt===
   oben genannt, oben erwähnt :: susmentionné, précité {m}, susdit {m}
 ***genau***
@@ -576,6 +635,10 @@ Index: DE DE->FR
   grenzen, angrenzen :: aboutir, abouter
 ***grob***
   roh, grob :: vulgaire {m|f}
+***Grosskatze***
+  Großkatze {f}, Grosskatze {f}, Pantherine {m}, Pantherine {f}, Pantherinen {p}, Pantherinae {p} :: panthériné {m}
+***Großkatze***
+  Großkatze {f}, Grosskatze {f}, Pantherine {m}, Pantherine {f}, Pantherinen {p}, Pantherinae {p} :: panthériné {m}
 ===habe===
   ich liebe dich, Ich habe dich lieb :: je t'aime, je vous aime
   ich liebe Sie, ich habe Sie gern, ich habe Sie lieb :: je t'aime, je vous aime, je t'adore, je vous adore
@@ -585,6 +648,8 @@ Index: DE DE->FR
   Hafenstadt {f} :: port {m}
 ===Haftentlassung===
   bedingte Haftentlassung {f}, Bewährung {f} :: libération conditionnelle {f}
+***Halbinsel***
+  Halbinsel {f}, Peninsula {f}, Landzunge {f} :: péninsule {f}
 ***Handel***
   Handel {m}, Kommerz {f} :: commerce {m}
 ***handeln***
@@ -598,8 +663,6 @@ Index: DE DE->FR
 ***Haupt***
   Kopf {m}, Haupt {n} :: tête {f}
   Oberhaupt {n}, Haupt {n}, Kopf {m} :: chef {m}
-***Helfer***
-  {{ttbc|de}}, Helfer {m}, Diener {m} :: {{ttbc|fr}}, domestique, serviteur {m}
 ***Herabkunft***
   Avatar {m}, Avatara {m}, Herabkunft {f}, Inkarnation  {f} :: avatar {m}, incarnation
 ***Herbst***
@@ -625,11 +688,12 @@ Index: DE DE->FR
 ***höher***
   höher, oben, darüber :: au-dessus
 ***Holland***
-  Holland {n}, Niederlande {n|p} :: Pays-Bas, Hollande
+  Holland {n}, Niederlande {n|p} :: Pays-Bas {m|p}, Hollande {f}
 ***Holländer***
   Niederländer, Holländer :: Néerlandais, Hollandais
 ***holländisch***
   niederländisch, holländisch :: néerlandais, hollandais
+  niederlandisch, holländisch :: néerlandais, hollandais
 ***Holländisch***
   Niederländisch {n}, Holländisch {n} :: néerlandais {m}, hollandais {m}
 ***Hölle***
@@ -640,10 +704,10 @@ Index: DE DE->FR
 ***Hotelpage***
   Hotelpage :: chasseuse
 ***Hund***
-  Hund {m}, Rüde {m}, Hündin {f} :: chien {m}
+  Hund {m}, Hündin {f} :: chien {m}
   Hund {m} :: chien {m}
 ***Hündin***
-  Hund {m}, Rüde {m}, Hündin {f} :: chien {m}
+  Hund {m}, Hündin {f} :: chien {m}
 ***Hyponym***
   Unterbegriff {m}, Hyponym {n} :: hyponyme {m}
 ===ich===
@@ -726,21 +790,27 @@ Index: DE DE->FR
 ***Kapitelldeckplatte***
   Kapitelldeckplatte {f} :: abaque {f}, tailloir {m}
 ***Kater***
-  Katze {f}, Kater {m}, Kätzin {f} :: chat {m}, chatte {f}
+  Katze {f}, Kater {m}, Kätzin {f} :: chat {m}, chatte {f}, chaton {m}, chatonne {f}
 ***Katze***
-  Katze {f}, Kater {m}, Kätzin {f} :: chat {m}, chatte {f}
-  Katze {f} :: félin {m}
+  Katze {f}, Kater {m}, Kätzin {f} :: chat {m}, chatte {f}, chaton {m}, chatonne {f}
+  Katze {f}, Felide {m}, Felide {f}, Feliden {p}, Felidae {p} :: félin {m}, félidé {m}
+***Katzenartige***
+  Katzenartige {m}, Katzenartige {f}, Katzenartigen {p}, Feliformia {p}, Feloidea {p} :: féliforme {m}, féliformes {p}, féloidé {m}, féloidés {p}
+***Katzenartigen***
+  Katzenartige {m}, Katzenartige {f}, Katzenartigen {p}, Feliformia {p}, Feloidea {p} :: féliforme {m}, féliformes {p}, féloidé {m}, féloidés {p}
 ***Kätzin***
-  Katze {f}, Kater {m}, Kätzin {f} :: chat {m}, chatte {f}
+  Katze {f}, Kater {m}, Kätzin {f} :: chat {m}, chatte {f}, chaton {m}, chatonne {f}
 ***kläglich***
   elend, kläglich, jämmerlich :: abject {m}, abjecte {f}, méprisable
+***Kleinkatze***
+  Kleinkatze {f}, Feline {m}, Feline {f}, Felinen {p}, Felinae {p} :: féliné {m}
 ***Klo***
   Toilette {f}, WC {n}, Klo {n} :: WC {m}
 ***Kloster***
   Kloster {n} :: abbaye {f}
 ***Knochen***
   Knochen {m}, Gebeine {f|p}, Bein {n} :: os {m}
-  Knochen {m} :: os {m}
+  Knochen {m}, Bein {n} :: os {m}
 ***Koffer***
   Koffer {m} :: portemanteau {m}, valise {f}, malle {f}
 ***Kofferwort***
@@ -789,6 +859,8 @@ Index: DE DE->FR
   Abkürzung {f}, Kurzbezeichnung {f}, Kürzel {n}, Kurzform {f} :: abréviation {f}
 ***Kurzzeichen***
   vereinfachtes Chinesisch {n}, Kurzzeichen {n} :: chinois simplifié {m}
+***Landzunge***
+  Halbinsel {f}, Peninsula {f}, Landzunge {f} :: péninsule {f}
 ***Langzeichen***
   traditionelles Chinesisch {n}, Langzeichen {n} :: chinois traditionnel {m}
 ***leiten***
@@ -822,6 +894,12 @@ Index: DE DE->FR
   Luft {f}, Himmel {m} :: ciel {m}
 ===Lysergsäure===
   Lysergsäure-diethylamid :: acide {m|f}
+***Machairodontinae***
+  Säbelzahnkatze {f}, Machairodontine {m}, Machairodontine {f}, Machairodontinen {p}, Machairodontinae {p} :: machairodontiné {m}, machairodontinés {p}
+***Machairodontine***
+  Säbelzahnkatze {f}, Machairodontine {m}, Machairodontine {f}, Machairodontinen {p}, Machairodontinae {p} :: machairodontiné {m}, machairodontinés {p}
+***Machairodontinen***
+  Säbelzahnkatze {f}, Machairodontine {m}, Machairodontine {f}, Machairodontinen {p}, Machairodontinae {p} :: machairodontiné {m}, machairodontinés {p}
 ***man***
   man, einer :: on, quelqu’un
 ***Mann***
@@ -834,9 +912,9 @@ Index: DE DE->FR
 ***Marschmusik***
   Marsch {m}, Marschmusik {f} :: marche {f}
 ***Medikament***
-  Arznei {f}, Medizin {f}, Medikament {n} :: médicament {m}
+  Arznei {f}, Medizin {f}, Medikament {n} :: médicament {m}, remède {m}
 ***Medizin***
-  Arznei {f}, Medizin {f}, Medikament {n} :: médicament {m}
+  Arznei {f}, Medizin {f}, Medikament {n} :: médicament {m}, remède {m}
   Medizin {f} :: médecine {f}
 ***Meerohr***
   Abalone {f}, Meerohr {n}, Seeohr {n} :: ormeau {m}, haliotide {f}
@@ -851,8 +929,8 @@ Index: DE DE->FR
 ***merkwürdig***
   seltsam, merkwürdig, komisch :: bizarre, étrange
 ***Metrik***
-  Metrik {f} :: métrique
-  Metrik {f} :: métrique
+  Metrik {f} :: métrique {f}
+  Metrik {f} :: métrique {f}
 ***metrisch***
   metrisch :: métrique
 ***Mexiko***
@@ -917,9 +995,11 @@ Index: DE DE->FR
 ***neun***
   neun :: neuf
 ***Niederlande***
-  Holland {n}, Niederlande {n|p} :: Pays-Bas, Hollande
+  Holland {n}, Niederlande {n|p} :: Pays-Bas {m|p}, Hollande {f}
 ***Niederländer***
   Niederländer, Holländer :: Néerlandais, Hollandais
+***niederlandisch***
+  niederlandisch, holländisch :: néerlandais, hollandais
 ***niederländisch***
   niederländisch, holländisch :: néerlandais, hollandais
 ***Niederländisch***
@@ -928,6 +1008,10 @@ Index: DE DE->FR
   Neger {m}, Nigger {m}, Kaffer {m} :: bougnoule, nègre
 ***Nille***
   Eichel {f}, Nille {f} :: gland {m}
+***Nomen***
+  Substantiv {n}, Nomen {n}, Dingwort {n}, Gegenstandswort {n} :: nom {m}, substantif {m}
+***Nonsens***
+  Nonsens {m}, Unsinn {m} :: sottise {m}
 ***Nordpol***
   Nordpol :: Nicolas
 ***November***
@@ -969,8 +1053,16 @@ Index: DE DE->FR
   Oxymoron {n} :: oxymore {m}, keekeeli {p}
 ***Pakt***
   Pakt {m}, Abkommen {n}, Abmachung {f}, Abschluss {m} :: contrat {m}
+***Pantherinae***
+  Großkatze {f}, Grosskatze {f}, Pantherine {m}, Pantherine {f}, Pantherinen {p}, Pantherinae {p} :: panthériné {m}
+***Pantherine***
+  Großkatze {f}, Grosskatze {f}, Pantherine {m}, Pantherine {f}, Pantherinen {p}, Pantherinae {p} :: panthériné {m}
+***Pantherinen***
+  Großkatze {f}, Grosskatze {f}, Pantherine {m}, Pantherine {f}, Pantherinen {p}, Pantherinae {p} :: panthériné {m}
 ***Parade***
   Parade {f} :: défilé {m}, manifestation {f}
+***Peninsula***
+  Halbinsel {f}, Peninsula {f}, Landzunge {f} :: péninsule {f}
 ***Peso***
   Peso {m} :: peso {m}
 ***Pfund***
@@ -1036,6 +1128,8 @@ Index: DE DE->FR
   Akkordeon {n}, Ziehharmonika {f}, Handharmonika {f}, Handorgel {f}, Quetsche {f}, Quetschkommode {f}, Schifferklavier {n} :: accordéon {m}
 ***Rabe***
   Rabe {m}, Kolkrabe {m} :: corbeau {m}
+***rabenschwarz***
+  rabenschwarz :: noir comme un corbeau
 ***Rasen***
   Rasen {m} :: pelouse {f}, gazon {m}
 ***Ratespiel***
@@ -1066,12 +1160,13 @@ Index: DE DE->FR
 ***rückwärts***
   rückwärts :: en arrière
 ***Rüde***
-  Hund {m}, Rüde {m}, Hündin {f} :: chien {m}
   Rüde {m} :: chien {m}
 ***Ruf***
   Name {m}, Ruf {m} :: nom {m}
 ***Sabbat***
   Samstag {m}, Sonnabend {m}, Sabbat {m} :: samedi {m}
+***Säbelzahnkatze***
+  Säbelzahnkatze {f}, Machairodontine {m}, Machairodontine {f}, Machairodontinen {p}, Machairodontinae {p} :: machairodontiné {m}, machairodontinés {p}
 ***Sachgruppenwörterbuch***
   Thesaurus {m}, Begriffswörterbuch {n}, Sachgruppenwörterbuch {n} :: dictionnaire des synonymes, thésaurus {m}, dictionnaire de notions, dictionnaire par ordre de matières
 ***Samstag***
@@ -1153,6 +1248,7 @@ Index: DE DE->FR
   Samstag {m}, Sonnabend {m}, Sabbat {m} :: samedi {m}
 ***Sonne***
   Sonne {f} :: soleil {m}
+  Sonne {f} :: soleil {m}
 ***Sonnenschirm***
   Schirm {m}, Sonnenschirm {m}, Regenschirm {m} :: parapluie {m}
 ***Sonntag***
@@ -1207,7 +1303,7 @@ Index: DE DE->FR
 ***Stunde***
   Stunde {f} :: heure {f}
 ***Substantiv***
-  Substantiv {n} :: nom {m}, substantif {m}
+  Substantiv {n}, Nomen {n}, Dingwort {n}, Gegenstandswort {n} :: nom {m}, substantif {m}
   Substantiv {n} :: substantif {m}
 ***Synonym***
   Synonym {n} :: synonyme {m}
@@ -1246,6 +1342,8 @@ Index: DE DE->FR
 ***transitiv***
   transitiv :: transitif {m}, transitive {f}
   transitiv :: transitif {m}, transitive {f}
+===transitives===
+  transitives Verb {n} :: verbe transitif {m}
 ***Transporter***
   Transporter {m}, Lieferwagen {m} :: fourgon {m}, fourgonnette {f}
 ***Transvestit***
@@ -1289,9 +1387,11 @@ Index: DE DE->FR
 ***ungerade***
   ungerade :: impair
 ***ungewöhnlich***
-  unnormal, ungewöhnlich :: inhabituel {m}, inhabituelle {f}, hors norme, exceptionnel {m}, exceptionnelle {f}
+  unnormal, ungewöhnlich :: inhabituel, hors norme, exceptionnel
 ***unnormal***
-  unnormal, ungewöhnlich :: inhabituel {m}, inhabituelle {f}, hors norme, exceptionnel {m}, exceptionnelle {f}
+  unnormal, ungewöhnlich :: inhabituel, hors norme, exceptionnel
+***Unsinn***
+  Nonsens {m}, Unsinn {m} :: sottise {m}
 ***unter***
   unter, in, im, während :: dans, en, en, dans
 ***Unterbegriff***
@@ -1312,12 +1412,13 @@ Index: DE DE->FR
 ===Veranstaltungen===
   aktuelle Veranstaltungen :: actualités
 ***Verb***
-  Zeitwort {n}, Verb {n}, Verbum {n} :: verbe {m}
+  Verb {n}, Verbum {n}, Zeitwort {n} :: verbe {m}
+  transitives Verb {n} :: verbe transitif {m}
 ***Verbindlichkeit***
   Schuld {f}, Verbindlichkeit {f}, Verpflichtung {f} :: dette {f}
   Schulden {f}, Verbindlichkeit {f} :: dette {f}
 ***Verbum***
-  Zeitwort {n}, Verb {n}, Verbum {n} :: verbe {m}
+  Verb {n}, Verbum {n}, Zeitwort {n} :: verbe {m}
 ===vereinfachtes===
   vereinfachtes Chinesisch {n}, Kurzzeichen {n} :: chinois simplifié {m}
 ***vergewaltigen***
@@ -1413,9 +1514,7 @@ Index: DE DE->FR
 ***Woche***
   Woche {f} :: semaine {f}
 ***Wolf***
-  Wolf {m}, Wölfin {f} :: loup {m}, louve {f}
-***Wölfin***
-  Wolf {m}, Wölfin {f} :: loup {m}, louve {f}
+  Wolf {m} :: loup {m}
 ***Wort***
   Wort {n} :: mot {m}
   Wort {n} :: parole {f}
@@ -1429,16 +1528,20 @@ Index: DE DE->FR
   würzen :: épicer, assaisonner
 ***Zahl***
   Anzahl {f}, Zahl {f} :: nombre {m}, numéro {m}
-  Zahl {f}, Ziffer {f} :: chiffre {m}
+  Zahl {f}, Ziffer {f}, Zahlwort {n} :: chiffre {m}
+***Zahlwort***
+  Zahl {f}, Ziffer {f}, Zahlwort {n} :: chiffre {m}
 ***zehn***
   zehn :: dix
+***Zehn***
+  Zehn {f} :: dix {m}
 ***zeigen***
   zeigen :: pointer, indiquer
 ***Zeitpunkt***
   Punkt {m}, Zeitpunkt {m} :: point {m}, détail {m}
   Datum {n}, Zeitpunkt {m} :: date {f}
 ***Zeitwort***
-  Zeitwort {n}, Verb {n}, Verbum {n} :: verbe {m}
+  Verb {n}, Verbum {n}, Zeitwort {n} :: verbe {m}
 ***Zenturie***
   Zenturie {f} :: centurie {f}
 ***zerstreut***
@@ -1447,7 +1550,7 @@ Index: DE DE->FR
   Akkordeon {n}, Ziehharmonika {f}, Handharmonika {f}, Handorgel {f}, Quetsche {f}, Quetschkommode {f}, Schifferklavier {n} :: accordéon {m}
 ***Ziffer***
   Ziffer {f} :: chiffre {m}
-  Zahl {f}, Ziffer {f} :: chiffre {m}
+  Zahl {f}, Ziffer {f}, Zahlwort {n} :: chiffre {m}
   römische Ziffer {f} :: chiffre romain {m}
 ***zufällig***
   versehentlich, zufällig :: accidentel
@@ -1466,6 +1569,7 @@ Index: FR FR->DE
   Bindfäden regnen, in Strömen regnen, aus allen Kannen gießen, aus allen Kannen schütten, wie aus Eimern schütten :: pleuvoir des cordes, pleuvoir à verse, pleuvoir des hallebardes, pleuvoir comme vache qui pisse, pleuvoir à boire debout, dracher
   ungefähr :: proche, à côté
   über, von :: au sujet de, à propos de
+  beieinander :: côte à côte
   Ausland :: à l'étranger
 ***abaca***
   Abaka :: abaca {m}
@@ -1581,13 +1685,15 @@ Index: FR FR->DE
   adjektivisch :: adjectif
   Adjektiv {n}, Eigenschaftswort {n} :: adjectif {m}
 ***adjectival***
-  adjektivisch, Adjektiv :: adjectival
+  adjektivisch, Adjektiv- (Adjektiv) :: adjectival
 ===adore===
   ich liebe Sie, ich habe Sie gern, ich habe Sie lieb :: je t'aime, je vous aime, je t'adore, je vous adore
 ***adverbe***
   Adverb {n}, Umstandswort {n} :: adverbe {m}
 ***affranchir***
   befreien, freisetzen :: libérer, dégager, affranchir
+***aigle***
+  Adler {m}, Aar {m} :: aigle {m}
 ***aigre***
   sauer :: aigre, acide {m|f}
 ===aime===
@@ -1620,6 +1726,8 @@ Index: FR FR->DE
   Rendezvous {n}, Date {n}, Verabredung {n}, Stelldichein {n} :: rendez-vous {m}, rendez-vous d'amour {m}
 ***an***
   Jahr {n} :: année {f}, an {m}
+===anges===
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, Engelmacher {m}, Engelmacherin {f} :: médecin avorteur {m}, avorteur {m}, avorteuse {f}, faiseur d'anges {m}, faiseuse d'anges {f}
 ***anglais***
   englisch :: anglais {m}, anglaise {f}
   englisch :: anglais {m}, anglaise {f}
@@ -1637,17 +1745,17 @@ Index: FR FR->DE
 ***année***
   Jahr {n} :: année {f}, an {m}
 ***anomalie***
-  Abweichung :: anomalie, anormalité
+  Abweichung :: anomalie {f}, anormalité {f}
 ***anormal***
   anormal, abnormal :: anormal {m}, anormale {f}
 ***anormale***
   anormal, abnormal :: anormal {m}, anormale {f}
 ***anormalité***
-  Abweichung :: anomalie, anormalité
+  Abweichung :: anomalie {f}, anormalité {f}
 ===anti===
   Antisemitismus {m}, Judenhass {m} :: anti-sémitisme {m}
 ***antonyme***
-  Antonym {n} :: antonyme {m}
+  Antonym {n}, Gegenwort {n}, Gegensatzwort {n} :: antonyme {m}
 ***apophonie***
   Ablaut {m} :: apophonie {f}
 ***appeler***
@@ -1689,6 +1797,10 @@ Index: FR FR->DE
   sein :: avoir
 ***avortement***
   Abtreibung {f} :: avortement {m}
+***avorteur***
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, Engelmacher {m}, Engelmacherin {f} :: médecin avorteur {m}, avorteur {m}, avorteuse {f}, faiseur d'anges {m}, faiseuse d'anges {f}
+***avorteuse***
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, Engelmacher {m}, Engelmacherin {f} :: médecin avorteur {m}, avorteur {m}, avorteuse {f}, faiseur d'anges {m}, faiseuse d'anges {f}
 ***avril***
   April {m}, Ostermond {m} :: avril {m}
 ***baisser***
@@ -1696,7 +1808,7 @@ Index: FR FR->DE
 ***banalité***
   Alltag {m} :: banalité {f}, quotidien {m}
 ===Bas===
-  Holland {n}, Niederlande {n|p} :: Pays-Bas, Hollande
+  Holland {n}, Niederlande {n|p} :: Pays-Bas {m|p}, Hollande {f}
 ***beuh***
   Gras {n} :: herbe {f}, beuh {f}
 ===biche===
@@ -1768,9 +1880,13 @@ Index: FR FR->DE
 ***chasseuse***
   Hotelpage :: chasseuse
 ***chat***
-  Katze {f}, Kater {m}, Kätzin {f} :: chat {m}, chatte {f}
+  Katze {f}, Kater {m}, Kätzin {f} :: chat {m}, chatte {f}, chaton {m}, chatonne {f}
+***chaton***
+  Katze {f}, Kater {m}, Kätzin {f} :: chat {m}, chatte {f}, chaton {m}, chatonne {f}
+***chatonne***
+  Katze {f}, Kater {m}, Kätzin {f} :: chat {m}, chatte {f}, chaton {m}, chatonne {f}
 ***chatte***
-  Katze {f}, Kater {m}, Kätzin {f} :: chat {m}, chatte {f}
+  Katze {f}, Kater {m}, Kätzin {f} :: chat {m}, chatte {f}, chaton {m}, chatonne {f}
   Fotze {f}, Muschi {f}, Möse {f} :: chatte {f}, con {m}
 ***chef***
   Oberhaupt {n}, Haupt {n}, Kopf {m} :: chef {m}
@@ -1778,13 +1894,13 @@ Index: FR FR->DE
   Eisenbahnlinie {f}, Gleis {n} :: chemin de fer {m}, réseau ferroviaire {m}
   Eisenbahn {f}, Bahn {f} :: chemin de fer {m}
 ***chien***
-  Hund {m}, Rüde {m}, Hündin {f} :: chien {m}
+  Hund {m}, Hündin {f} :: chien {m}
   Rüde {m} :: chien {m}
   Hund {m} :: chien {m}
 ***chiffre***
   Nummer :: chiffre {m}
   Ziffer {f} :: chiffre {m}
-  Zahl {f}, Ziffer {f} :: chiffre {m}
+  Zahl {f}, Ziffer {f}, Zahlwort {n} :: chiffre {m}
   römische Ziffer {f} :: chiffre romain {m}
 ***chiffrer***
   verschlüsseln :: coder, chiffrer, crypter
@@ -1813,6 +1929,7 @@ Index: FR FR->DE
   führen, leiten :: commander, diriger, chapeauter
 ===comme===
   Bindfäden regnen, in Strömen regnen, aus allen Kannen gießen, aus allen Kannen schütten, wie aus Eimern schütten :: pleuvoir des cordes, pleuvoir à verse, pleuvoir des hallebardes, pleuvoir comme vache qui pisse, pleuvoir à boire debout, dracher
+  rabenschwarz :: noir comme un corbeau
 ***commerce***
   Handel {m}, Kommerz {f} :: commerce {m}
   handeln :: faire le commerce
@@ -1839,10 +1956,13 @@ Index: FR FR->DE
   Pakt {m}, Abkommen {n}, Abmachung {f}, Abschluss {m} :: contrat {m}
 ***corbeau***
   Rabe {m}, Kolkrabe {m} :: corbeau {m}
+  rabenschwarz :: noir comme un corbeau
 ===cordes===
   Bindfäden regnen, in Strömen regnen, aus allen Kannen gießen, aus allen Kannen schütten, wie aus Eimern schütten :: pleuvoir des cordes, pleuvoir à verse, pleuvoir des hallebardes, pleuvoir comme vache qui pisse, pleuvoir à boire debout, dracher
 ***corneille***
   Krähe {f} :: corneille {f}
+===côte===
+  beieinander :: côte à côte
 ===côté===
   ungefähr :: proche, à côté
 ===couche===
@@ -1869,6 +1989,7 @@ Index: FR FR->DE
 ===d===
   assoziatives Datenfeld {n} :: tableau associatif {m}, dictionnaire {m}, table d'association {f}
   freie Meinungsäußerung {f}, Redefreiheit {f} :: liberté d'expression {f}
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, Engelmacher {m}, Engelmacherin {f} :: médecin avorteur {m}, avorteur {m}, avorteuse {f}, faiseur d'anges {m}, faiseuse d'anges {f}
   abrupt, plötzlich, unerwartet :: abruptement, tout d'un coup
   Achillessehne {f} :: tendon d’Achille {m}
   Sekunde {f} :: seconde {f}, seconde d'angle {f}
@@ -1962,12 +2083,11 @@ Index: FR FR->DE
   austeilen, geben :: distribuer
 ***dix***
   zehn :: dix
+  Zehn {f} :: dix {m}
 ***dizaine***
   Dekade {f} :: dizaine, décade
 ***doctrine***
   Doktrin {f} :: doctrine {f}
-***domestique***
-  {{ttbc|de}}, Helfer {m}, Diener {m} :: {{ttbc|fr}}, domestique, serviteur {m}
 ***dracher***
   Bindfäden regnen, in Strömen regnen, aus allen Kannen gießen, aus allen Kannen schütten, wie aus Eimern schütten :: pleuvoir des cordes, pleuvoir à verse, pleuvoir des hallebardes, pleuvoir comme vache qui pisse, pleuvoir à boire debout, dracher
 ***échouer***
@@ -1977,7 +2097,13 @@ Index: FR FR->DE
 ***éjaculer***
   abspritzen, kommen :: venir, juter, éjaculer, jouir
 ***éléphant***
-  Elefant {m}, Elefantin {f} :: éléphant {m}
+  Elefant {m}, Elefantenbulle {m}, Elefantin {f}, Elefantenkuh {f}, Elefantenkalb {n} :: éléphant {m}, éléphante {f}, éléphanteau {m}, éléphantelle {f}
+***éléphante***
+  Elefant {m}, Elefantenbulle {m}, Elefantin {f}, Elefantenkuh {f}, Elefantenkalb {n} :: éléphant {m}, éléphante {f}, éléphanteau {m}, éléphantelle {f}
+***éléphanteau***
+  Elefant {m}, Elefantenbulle {m}, Elefantin {f}, Elefantenkuh {f}, Elefantenkalb {n} :: éléphant {m}, éléphante {f}, éléphanteau {m}, éléphantelle {f}
+***éléphantelle***
+  Elefant {m}, Elefantenbulle {m}, Elefantin {f}, Elefantenkuh {f}, Elefantenkalb {n} :: éléphant {m}, éléphante {f}, éléphanteau {m}, éléphantelle {f}
 ***élire***
   nennen, wählen :: choisir, élire
 ***emblème***
@@ -2040,9 +2166,7 @@ Index: FR FR->DE
 ***exact***
   genau, präzis, exakt :: précis, exact
 ***exceptionnel***
-  unnormal, ungewöhnlich :: inhabituel {m}, inhabituelle {f}, hors norme, exceptionnel {m}, exceptionnelle {f}
-***exceptionnelle***
-  unnormal, ungewöhnlich :: inhabituel {m}, inhabituelle {f}, hors norme, exceptionnel {m}, exceptionnelle {f}
+  unnormal, ungewöhnlich :: inhabituel, hors norme, exceptionnel
 ***expérimenté***
   fähig, tüchtig :: capable, expérimenté
 ***expirer***
@@ -2069,6 +2193,10 @@ Index: FR FR->DE
   handeln :: faire le commerce
   behandeln {f}, umgehen :: faire face, traiter
   köpfen :: faire une tête
+===faiseur===
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, Engelmacher {m}, Engelmacherin {f} :: médecin avorteur {m}, avorteur {m}, avorteuse {f}, faiseur d'anges {m}, faiseuse d'anges {f}
+===faiseuse===
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, Engelmacher {m}, Engelmacherin {f} :: médecin avorteur {m}, avorteur {m}, avorteuse {f}, faiseur d'anges {m}, faiseuse d'anges {f}
 ***Fanny***
   Fanny :: Fanny
 ***FAQ***
@@ -2080,8 +2208,20 @@ Index: FR FR->DE
   Fehlgeburt {f} :: fausse couche {f}
 ===faux===
   falscher Freund {m}, Übersetzungsfalle {f} :: faux-ami {m}
+***félidé***
+  Katze {f}, Felide {m}, Felide {f}, Feliden {p}, Felidae {p} :: félin {m}, félidé {m}
+***féliforme***
+  Katzenartige {m}, Katzenartige {f}, Katzenartigen {p}, Feliformia {p}, Feloidea {p} :: féliforme {m}, féliformes {p}, féloidé {m}, féloidés {p}
+***féliformes***
+  Katzenartige {m}, Katzenartige {f}, Katzenartigen {p}, Feliformia {p}, Feloidea {p} :: féliforme {m}, féliformes {p}, féloidé {m}, féloidés {p}
 ***félin***
-  Katze {f} :: félin {m}
+  Katze {f}, Felide {m}, Felide {f}, Feliden {p}, Felidae {p} :: félin {m}, félidé {m}
+***féliné***
+  Kleinkatze {f}, Feline {m}, Feline {f}, Felinen {p}, Felinae {p} :: féliné {m}
+***féloidé***
+  Katzenartige {m}, Katzenartige {f}, Katzenartigen {p}, Feliformia {p}, Feloidea {p} :: féliforme {m}, féliformes {p}, féloidé {m}, féloidés {p}
+***féloidés***
+  Katzenartige {m}, Katzenartige {f}, Katzenartigen {p}, Feliformia {p}, Feloidea {p} :: féliforme {m}, féliformes {p}, féloidé {m}, féloidés {p}
 ===fer===
   Eisenbahnlinie {f}, Gleis {n} :: chemin de fer {m}, réseau ferroviaire {m}
   Eisenbahn {f}, Bahn {f} :: chemin de fer {m}
@@ -2141,17 +2281,18 @@ Index: FR FR->DE
 ***hollandais***
   niederländisch, holländisch :: néerlandais, hollandais
   Niederländisch {n}, Holländisch {n} :: néerlandais {m}, hollandais {m}
+  niederlandisch, holländisch :: néerlandais, hollandais
 ***Hollandais***
   Niederländer, Holländer :: Néerlandais, Hollandais
 ***Hollande***
-  Holland {n}, Niederlande {n|p} :: Pays-Bas, Hollande
+  Holland {n}, Niederlande {n|p} :: Pays-Bas {m|p}, Hollande {f}
 ***homme***
   Mensch :: homme {m}
   Mann {m}, Herr {m} :: homme {m}
 ***horloge***
   Uhr {f} :: horloge {f}
 ===hors===
-  unnormal, ungewöhnlich :: inhabituel {m}, inhabituelle {f}, hors norme, exceptionnel {m}, exceptionnelle {f}
+  unnormal, ungewöhnlich :: inhabituel, hors norme, exceptionnel
 ===hui===
   heute :: aujourd'hui
   Heute :: aujourd'hui {m}
@@ -2181,9 +2322,7 @@ Index: FR FR->DE
 ***indiquer***
   zeigen :: pointer, indiquer
 ***inhabituel***
-  unnormal, ungewöhnlich :: inhabituel {m}, inhabituelle {f}, hors norme, exceptionnel {m}, exceptionnelle {f}
-***inhabituelle***
-  unnormal, ungewöhnlich :: inhabituel {m}, inhabituelle {f}, hors norme, exceptionnel {m}, exceptionnelle {f}
+  unnormal, ungewöhnlich :: inhabituel, hors norme, exceptionnel
 ***instant***
   Moment {m} :: minute {f}, moment {m}, instant {m}
   Sekunde {f}, Augenblick {m}, Moment {m} :: seconde {f}, instant {m}
@@ -2296,14 +2435,16 @@ Index: FR FR->DE
   Pfund {n} :: livre {f}
   Pfund {n} :: livre {f}
 ***loup***
-  Wolf {m}, Wölfin {f} :: loup {m}, louve {f}
-***louve***
-  Wolf {m}, Wölfin {f} :: loup {m}, louve {f}
+  Wolf {m} :: loup {m}
 ===lumière===
   Lichtgeschwindigkeit {f} :: vitesse de la lumière {f}
 ***lundi***
   Montag {m} :: lundi {m}
   Montag, am Montag :: lundi
+***machairodontiné***
+  Säbelzahnkatze {f}, Machairodontine {m}, Machairodontine {f}, Machairodontinen {p}, Machairodontinae {p} :: machairodontiné {m}, machairodontinés {p}
+***machairodontinés***
+  Säbelzahnkatze {f}, Machairodontine {m}, Machairodontine {f}, Machairodontinen {p}, Machairodontinae {p} :: machairodontiné {m}, machairodontinés {p}
 ***malle***
   Koffer {m} :: portemanteau {m}, valise {f}, malle {f}
 ***manifestation***
@@ -2324,10 +2465,12 @@ Index: FR FR->DE
   Verkörperung {f} :: avatar {m}, matérialisation, personnification
 ===matières===
   Thesaurus {m}, Begriffswörterbuch {n}, Sachgruppenwörterbuch {n} :: dictionnaire des synonymes, thésaurus {m}, dictionnaire de notions, dictionnaire par ordre de matières
+===médecin===
+  Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, Engelmacher {m}, Engelmacherin {f} :: médecin avorteur {m}, avorteur {m}, avorteuse {f}, faiseur d'anges {m}, faiseuse d'anges {f}
 ***médecine***
   Medizin {f} :: médecine {f}
 ***médicament***
-  Arznei {f}, Medizin {f}, Medikament {n} :: médicament {m}
+  Arznei {f}, Medizin {f}, Medikament {n} :: médicament {m}, remède {m}
 ***méprisable***
   elend, kläglich, jämmerlich :: abject {m}, abjecte {f}, méprisable
 ***mercredi***
@@ -2336,8 +2479,8 @@ Index: FR FR->DE
   Wichser, Arschloch, Drecksau, Mutterficker :: fils de pute, nique ta mère
 ***métrique***
   metrisch :: métrique
-  Metrik {f} :: métrique
-  Metrik {f} :: métrique
+  Metrik {f} :: métrique {f}
+  Metrik {f} :: métrique {f}
 ***Mexique***
   Mexiko {n} :: Mexique {m}
 ***millénaire***
@@ -2387,6 +2530,7 @@ Index: FR FR->DE
 ***néerlandais***
   niederländisch, holländisch :: néerlandais, hollandais
   Niederländisch {n}, Holländisch {n} :: néerlandais {m}, hollandais {m}
+  niederlandisch, holländisch :: néerlandais, hollandais
 ***Néerlandais***
   Niederländer, Holländer :: Néerlandais, Hollandais
 ***nègre***
@@ -2397,8 +2541,10 @@ Index: FR FR->DE
   Nordpol :: Nicolas
 ===nique===
   Wichser, Arschloch, Drecksau, Mutterficker :: fils de pute, nique ta mère
+===noir===
+  rabenschwarz :: noir comme un corbeau
 ***nom***
-  Substantiv {n} :: nom {m}, substantif {m}
+  Substantiv {n}, Nomen {n}, Dingwort {n}, Gegenstandswort {n} :: nom {m}, substantif {m}
   Name {m} :: nom {m}
   Name {m}, Ruf {m} :: nom {m}
   Vorname {m} :: prénom {m}, petit nom {m}
@@ -2410,7 +2556,7 @@ Index: FR FR->DE
   nennen, taufen, bezeichnen, benennen :: nommer, dénommer
   ernennen :: nommer
 ===norme===
-  unnormal, ungewöhnlich :: inhabituel {m}, inhabituelle {f}, hors norme, exceptionnel {m}, exceptionnelle {f}
+  unnormal, ungewöhnlich :: inhabituel, hors norme, exceptionnel
 ===nos===
   heutzutage :: de nos jours, actuellement
 ===notions===
@@ -2448,9 +2594,11 @@ Index: FR FR->DE
   Erdferkel {n} :: oryctérope {m}
 ***os***
   Knochen {m}, Gebeine {f|p}, Bein {n} :: os {m}
-  Knochen {m} :: os {m}
+  Knochen {m}, Bein {n} :: os {m}
 ***oxymore***
   Oxymoron {n} :: oxymore {m}, keekeeli {p}
+***panthériné***
+  Großkatze {f}, Grosskatze {f}, Pantherine {m}, Pantherine {f}, Pantherinen {p}, Pantherinae {p} :: panthériné {m}
 ===par===
   Thesaurus {m}, Begriffswörterbuch {n}, Sachgruppenwörterbuch {n} :: dictionnaire des synonymes, thésaurus {m}, dictionnaire de notions, dictionnaire par ordre de matières
 ***parapluie***
@@ -2465,11 +2613,13 @@ Index: FR FR->DE
 ***patois***
   Dialekt {m}, Mundart :: dialecte {m}, patois {m}
 ===Pays===
-  Holland {n}, Niederlande {n|p} :: Pays-Bas, Hollande
+  Holland {n}, Niederlande {n|p} :: Pays-Bas {m|p}, Hollande {f}
 ***pédé***
   {{ttbc|de}}, Arsch {m}, Arschloch {m}, Schwanzlutscher :: connard {m}, pédé {m}
 ***pelouse***
   Rasen {m} :: pelouse {f}, gazon {m}
+***péninsule***
+  Halbinsel {f}, Peninsula {f}, Landzunge {f} :: péninsule {f}
 ***personnification***
   Verkörperung {f} :: avatar {m}, matérialisation, personnification
 ***peso***
@@ -2606,6 +2756,8 @@ Index: FR FR->DE
   {{ttbc|de}} :: {{ttbc|fr}}, réalité
 ***réduction***
   Abnahme {f} :: réduction {f}
+***remède***
+  Arznei {f}, Medizin {f}, Medikament {n} :: médicament {m}, remède {m}
 ===rendez===
   Treffen {n}, Verabredung {f} :: rendez-vous {m}
   Rendezvous {n}, Date {n}, Verabredung {n}, Stelldichein {n} :: rendez-vous {m}, rendez-vous d'amour {m}
@@ -2656,8 +2808,6 @@ Index: FR FR->DE
   sieben :: sept
 ***septembre***
   September {m}, Scheiding {m} :: septembre {m}
-***serviteur***
-  {{ttbc|de}}, Helfer {m}, Diener {m} :: {{ttbc|fr}}, domestique, serviteur {m}
 ***siècle***
   Jahrhundert {n} :: siècle {m}
 ===simplifié===
@@ -2670,6 +2820,9 @@ Index: FR FR->DE
   Sechs {f} :: six {m}
 ***soleil***
   Sonne {f} :: soleil {m}
+  Sonne {f} :: soleil {m}
+***sottise***
+  Nonsens {m}, Unsinn {m} :: sottise {m}
 ***source***
   Quelle {f} :: source {f}
 ***star***
@@ -2679,7 +2832,7 @@ Index: FR FR->DE
 ***stock***
   Vorrat {m} :: stock {m}
 ***substantif***
-  Substantiv {n} :: nom {m}, substantif {m}
+  Substantiv {n}, Nomen {n}, Dingwort {n}, Gegenstandswort {n} :: nom {m}, substantif {m}
   Substantiv {n} :: substantif {m}
 ===suivi===
   Beobachtungsliste {f} :: liste de suivi {f}
@@ -2740,6 +2893,7 @@ Index: FR FR->DE
 ***transitif***
   transitiv :: transitif {m}, transitive {f}
   transitiv :: transitif {m}, transitive {f}
+  transitives Verb {n} :: verbe transitif {m}
 ***transitive***
   transitiv :: transitif {m}, transitive {f}
   transitiv :: transitif {m}, transitive {f}
@@ -2760,6 +2914,7 @@ Index: FR FR->DE
 ***un***
   eins, ein, eine, einen, einem, einer, eines :: un
   Eins {f} :: un {m}
+  rabenschwarz :: noir comme un corbeau
   abrupt, plötzlich, unerwartet :: abruptement, tout d'un coup
   man, einer :: on, quelqu’un
 ===une===
@@ -2785,7 +2940,8 @@ Index: FR FR->DE
   sein :: aller, venir
   abspritzen, kommen :: venir, juter, éjaculer, jouir
 ***verbe***
-  Zeitwort {n}, Verb {n}, Verbum {n} :: verbe {m}
+  Verb {n}, Verbum {n}, Zeitwort {n} :: verbe {m}
+  transitives Verb {n} :: verbe transitif {m}
 ***verbeux***
   weitschweifig :: prolixe {m|f}, fastidieux, verbeux, phraseur, raseur
 ===verse===

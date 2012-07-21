@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.italian 5184
+EntrySource: enwiktionary.italian 5186
 
 Index: IT IT->EN
 ===1963===
@@ -68,8 +68,10 @@ Index: IT IT->EN
   abominate :: {[[feminine|Feminine]] plural|abominato}
 ===abominato===
   abominate :: {[[feminine|Feminine]] plural|abominato}
-***abortive***
-  abortive {f} :: Feminine plural form of abortivo.
+===abortive===
+  abortive (adjective form) {f|p} :: {feminine plural of|abortivo}
+===abortivo===
+  abortive (adjective form) {f|p} :: {feminine plural of|abortivo}
 ===abrade===
   abrade :: {conjugation of|abradere|3|s|pres|ind}
 ===abradere===
@@ -276,7 +278,7 @@ Index: IT IT->EN
 ===alcove===
   alcove {f} :: {plural of|alcova}
 ***alcuno***
-  alcuno {{it-adj|alcun}} :: {{chiefly|in plural}} some, a few
+  alcuno {{it-adj|alcun}} :: {{chiefly|in the plural}} some, a few
   alcuno {{it-adj|alcun}} :: (in negative phrases) none
 ***Alessandria***
   Alessandria {{it-proper noun|g=f}} :: Alessandria (province)
@@ -288,7 +290,7 @@ Index: IT IT->EN
 ===algebre===
   algebra {f}, algebre {pl} :: algebra
 ***Algeria***
-  Algeria {f} :: Algeria
+  Algeria {{it-proper noun|f}} :: Algeria
 ===alo===
   alo :: {conjugation of|alare|1|s|pres|ind}
 ***alopecia***
@@ -335,7 +337,7 @@ Index: IT IT->EN
 ===andare===
   andante (present participle) :: {present participle of|andare}
 ***Andorra***
-  Andorra {{it-proper noun|g=f}} :: Andorra
+  Andorra {{it-proper noun|f}} :: Andorra
 ===angla===
   angla {f} :: {feminine of|anglo}
 ===angle===
@@ -608,10 +610,6 @@ Index: IT IT->EN
   bestia {f}, bestie {pl} :: beast
 ===bestie===
   bestia {f}, bestie {pl} :: beast
-***bestiola***
-  bestiola {f}, bestiole {pl} :: Little animal or beast, creature
-===bestiole===
-  bestiola {f}, bestiole {pl} :: Little animal or beast, creature
 ***beta***
   beta {f|inv} beta {f}, bete {pl} :: beta (letter of the Greek alphabet)
   beta {f|inv} beta {f}, bete {pl} :: beet (plant of the genus Beta)
@@ -670,7 +668,7 @@ Index: IT IT->EN
 ***boss***
   boss {m} (noun) {inv} :: boss (leader of a business, company or criminal organization)
 ***Botswana***
-  Botswana {m} :: Botswana
+  Botswana {{it-proper noun|m}} :: Botswana
 ***box***
   box {m} (noun) {inv} :: horsebox
   box {m} (noun) {inv} :: garage, lock-up (for a car)
@@ -691,8 +689,8 @@ Index: IT IT->EN
 ===brina===
   brine {f} :: {plural of|brina}
 ***Brindisi***
-  Brindisi :: Brindisi (province)
-  Brindisi :: Brindisi (town)
+  Brindisi {it-proper noun} :: Brindisi (province)
+  Brindisi {it-proper noun} :: Brindisi (town)
 ===brine===
   brine {f} :: {plural of|brina}
 ***brioche***
@@ -956,7 +954,7 @@ Index: IT IT->EN
   cola :: third-person singular present tense of colare
   cola :: second-person singular imperative of colare
 ***Colombia***
-  Colombia (proper noun) {f} :: Colombia
+  Colombia {{it-proper noun|f}} :: Colombia
 ***colon***
   colon {m} (noun) {inv} :: {{context|anatomy}} colon
 ===color===
@@ -1483,7 +1481,7 @@ Index: IT IT->EN
 ***est***
   est {m} (noun) {inv} :: east
 ***Estonia***
-  Estonia {f} (proper noun) :: Estonia
+  Estonia {{it-proper noun|f}} :: Estonia
 ***eta***
   eta (noun) {m|f|inv} :: eta (Greek letter)
 ***euro***
@@ -1601,10 +1599,6 @@ Index: IT IT->EN
   Forli {it-proper noun} :: Forli (town)
 ===Forlì===
   Forlì-Cesena {it-proper noun} :: Forlì-Cesena
-===formal===
-  come :: how
-    Come stai? (informal) :: How are you?
-    Come sta? (formal) :: How are you?
 ***formoso***
   formoso {{it-adj|formos}} :: shapely, curvaceous
 ***formula***
@@ -1666,7 +1660,7 @@ Index: IT IT->EN
   gabardine {m} (noun) {inv} :: The woolen cloth gabardine
   gabardine {m} (noun) {inv} :: An overcoat or raincoat, (originally) of this material
 ***Gabon***
-  Gabon {m} :: Gabon
+  Gabon {{it-proper noun|m}} :: Gabon
 ===gaffa===
   gaffe {f}{f|inv} :: {plural of|gaffa}
 ***gaffe***
@@ -1681,7 +1675,7 @@ Index: IT IT->EN
   gallo {{it-adj|gall}} :: Gallic
   gallo :: {conjugation of|gallare|1|s|pres|ind}
 ***Gambia***
-  Gambia {m} :: Gambia
+  Gambia {{it-proper noun|m}} :: Gambia
 ***gamma***
   gamma {f}, gamme {pl}{m|f|inv} :: range, gamut
   gamma {f}, gamme {pl}{m|f|inv} :: gamma (Greek letter)
@@ -1952,10 +1946,6 @@ Index: IT IT->EN
     Dalla Terra alla Luna :: “From the Earth to the Moon”
 ***info***
   info {m} (noun) {inv} :: {informal} Short form of informazione.
-===informal===
-  come :: how
-    Come stai? (informal) :: How are you?
-    Come sta? (formal) :: How are you?
 ===Ingresso===
   libero {{it-adj|liber}} :: free (that does not have to be paid for)
     Ingresso libero. :: Free admission.
@@ -1991,7 +1981,7 @@ Index: IT IT->EN
 ***Iran***
   Iran {{it-proper noun|g=m}} :: Iran
 ***Iraq***
-  Iraq {m} :: Iraq
+  Iraq {{it-proper noun|m}} :: Iraq
 ***Isernia***
   Isernia {it-proper noun} :: Isernia (province)
   Isernia {it-proper noun} :: Isernia (town)
@@ -2062,17 +2052,17 @@ Index: IT IT->EN
   La Spezia {{it-proper noun|g=f}} :: La Spezia (province)
   La Spezia {{it-proper noun|g=f}} :: La Spezia (town)
 ***lama***
-  lama {f}, lame {pl} :: A blade (of a razor or sword)
-  lama {m}, lami {pl} :: A lama (religious person)
-  lama {m}, lami {pl} :: A llama (animal)
+  lama {f}, lame {pl} :: blade (of a razor or sword)
+  lama {m}, lami {pl} :: lama (religious person)
+  lama {m}, lami {pl} :: llama
 ***lambda***
   lambda (noun) {m|f|inv} (noun){m|inv} :: lambda (Greek letter)
   lambda (noun) {m|f|inv} (noun){m|inv} :: {anatomy} lambda
 ===lame===
-  lama {f}, lame {pl} :: A blade (of a razor or sword)
+  lama {f}, lame {pl} :: blade (of a razor or sword)
 ===lami===
-  lama {m}, lami {pl} :: A lama (religious person)
-  lama {m}, lami {pl} :: A llama (animal)
+  lama {m}, lami {pl} :: lama (religious person)
+  lama {m}, lami {pl} :: llama
 ***lampa***
   lampa {f}, lampe {pl} :: lamp
   lampa {f}, lampe {pl} :: light
@@ -2321,7 +2311,7 @@ Index: IT IT->EN
 ===mal===
   mal {m} (noun) {inv} :: {apocopic form of|male}
 ***Malawi***
-  Malawi {m} :: Malawi
+  Malawi {{it-proper noun|m}} :: Malawi
 ***male***
   male {it-adv} (comparative: peggio; superlative: malissimo) :: badly, wrongly
   male {m}, mali {pl} :: evil, harm
@@ -2390,7 +2380,7 @@ Index: IT IT->EN
   Matera {{it-proper noun|g=f}} :: Matera (province)
   Matera {{it-proper noun|g=f}} :: Matera (town)
 ***Mauritania***
-  Mauritania {f} :: Mauritania
+  Mauritania {{it-proper noun|f}} :: Mauritania
 ***Mauritius***
   Mauritius {{it-proper noun|g=m}} :: Mauritius
 ***me***
@@ -2458,9 +2448,9 @@ Index: IT IT->EN
   mini (verb form) :: {conjugation of|minare|3|s|pres|sub}
   mini (verb form) :: {conjugation of|minare|3|s|imp}
 ===minute===
-  minute {f|p} (adjective form) :: {feminine plural of|minuto} tiny, minute; fine, delicate, detailed
+  minute {f|p} (adjective form) :: {feminine plural of|minuto}
 ===minuto===
-  minute {f|p} (adjective form) :: {feminine plural of|minuto} tiny, minute; fine, delicate, detailed
+  minute {f|p} (adjective form) :: {feminine plural of|minuto}
 ***MM***
   MM :: Marina Militare
 ***mobile***
@@ -2483,8 +2473,8 @@ Index: IT IT->EN
 ***Molise***
   Molise {{it-proper noun|g=m}} :: Molise
 ***Monaco***
-  Monaco {m}{f} :: Monaco
-  Monaco {m}{f} :: Munich (Monaco di Baviera)
+  Monaco {{it-proper noun|m}}{f} :: Monaco
+  Monaco {{it-proper noun|m}}{f} :: Munich (Monaco di Baviera)
 ===Mondo===
   finale {f}, finali {pl} :: {sports} final, finals
     la finale della Coppa del Mondo :: the World Cup final
@@ -2539,9 +2529,9 @@ Index: IT IT->EN
   multi :: {conjugation of|multare|3|s|pres|sub}
   multi :: {conjugation of|multare|3|s|imp}
 ===musa===
-  muse {f} :: {plural of|musa}; Muses
+  muse {f} :: {plural of|musa}
 ===muse===
-  muse {f} :: {plural of|musa}; Muses
+  muse {f} :: {plural of|musa}
 ***musica***
   musica {f}, musiche {pl} :: music
   musica (verb form) :: {conjugation of|musicare|3|s|pres|ind}
@@ -2568,8 +2558,7 @@ Index: IT IT->EN
 ***Nairobi***
   Nairobi {{it-proper noun|g=f}} :: Nairobi
 ***Namibia***
-  Namibia {n} :: Namibia
-  Namibia {f} :: Namibia
+  Namibia {{it-proper noun|f}} :: Namibia
 ***nano***
   nano- (prefix) :: nano-
 ===natura===
@@ -2578,7 +2567,7 @@ Index: IT IT->EN
   nature {inv} :: natural
   nature {f} :: {plural of|natura}
 ***Nauru***
-  Nauru {m} :: Nauru
+  Nauru {{it-proper noun|m}} :: Nauru
 ===navigare===
   navigo :: {conjugation of|navigare|1|s|pres|ind}
 ===navigo===
@@ -2633,14 +2622,14 @@ Index: IT IT->EN
   ni {it-adv} :: {informal} Neither yes nor no (a play on no and si)
   ni (noun) {m|f|inv} :: nu (Greek letter)
 ***Nicaragua***
-  Nicaragua (proper noun) {m} :: Nicaragua
+  Nicaragua {{it-proper noun|f}} :: Nicaragua
 ***Nicosia***
   Nicosia {{it-proper noun|g=f}} :: Nicosia
 ***Niger***
   Niger {{it-proper noun|g=m}} :: Niger (country)
   Niger {{it-proper noun|g=m}} :: Niger (river)
 ***Nigeria***
-  Nigeria (proper noun) {f} :: Nigeria
+  Nigeria {{it-proper noun|f}} :: Nigeria
 ***night***
   night {m} (noun) {inv} :: nightclub
 ===no===
@@ -2797,7 +2786,7 @@ Index: IT IT->EN
 ===panacee===
   panacea {f}, panacee {pl} :: panacea, cure-all
 ***Panama***
-  Panama {f} :: Panama
+  Panama {{it-proper noun|f}} :: Panama
 ***pancreas***
   pancreas {m} (noun) {inv} :: pancreas
 ***panda***
@@ -2850,8 +2839,8 @@ Index: IT IT->EN
 ===pause===
   pause {f} :: {plural of|pausa}
 ***Pavia***
-  Pavia {it-proper noun} :: Pavia (province)
-  Pavia {it-proper noun} :: Pavia (town)
+  Pavia {{it-proper noun|g=f}} :: Pavia (province)
+  Pavia {{it-proper noun|g=f}} :: Pavia (town)
 ===pensi===
   ne (pronoun) :: of it
     Ne ho sentito parlare. :: “I have heard talk of it.”
@@ -3134,7 +3123,7 @@ Index: IT IT->EN
 ===Q===
   q (letter) {m|f|inv} :: {lowercase form|Q}
 ***Qatar***
-  Qatar {f} :: Qatar
+  Qatar {{it-proper noun|f}} :: Qatar
 ***qua***
   qua {it-adv} :: here (relatively close to the speaker)
 ***quadruple***
@@ -3483,8 +3472,8 @@ Index: IT IT->EN
   seme {m}, semi {pl} :: pip
   seme {m}, semi {pl} :: bean (in some cases)
 ***Senegal***
-  Senegal {m} :: Senegal, the country
-  Senegal {m} :: Senegal, the river
+  Senegal {{it-proper noun|m}} :: Senegal (country)
+  Senegal {{it-proper noun|m}} :: Senegal (river)
 ===sentito===
   ne (pronoun) :: of it
     Ne ho sentito parlare. :: “I have heard talk of it.”
@@ -3516,23 +3505,16 @@ Index: IT IT->EN
 ***shuttle***
   shuttle {m} (noun) {inv} :: space shuttle
 ***si***
-  si (pronoun) :: {{context|indefinite}} one, you, we, they, people
-    Note: In this sense, si is often translated using the passive in English. :: --
-    Examples: :: --
+  si (pronoun) :: {{context|indefinite}} one, you, we, they, people. Note: often translated using the passive voice in English.
     Non si deve parlare così (One/You/We/They/People shouldn’t speak like that) :: --
     Si parla italiano qui (Italian is spoken here or One/You/We/They/People speak(s) Italian here) :: --
-  si (pronoun) :: {reflexive} oneself, himself, herself, itself, themselves; (reciprocal) each other, one another.
-    Examples: :: --
+  si (pronoun) :: {reflexive} oneself, himself, herself, itself, themselves; (reciprocal) each other, one another. Note: With some verbs, si is not translated in English.
     Giovanni si è fatto male (Giovanni has hurt himself) :: --
     Carlo e Laura si amano (Carlo and Laura love each other) :: --
-    Note: With some verbs, si is not translated in English. :: --
-    Examples: :: --
     Marco si è rotto il braccio (Marco has broken his arm) :: --
     Si è svegliata alle nove (She woke up at nine) :: --
-  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below)
-    Example: Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
-    Note: In this sense, verb + si is often translated as become or get + past participle in English. :: --
-    Examples: :: --
+  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below). Note: verb + si is often translated as become or get + past participle in English.
+    Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
     Ci vuole un po’ di tempo per abituarsi (It takes a while to become accustomed) :: --
     A Luca piace ubriacarsi (Luca likes to get drunk) :: --
   ni {it-adv} :: {informal} Neither yes nor no (a play on no and si)
@@ -3628,6 +3610,8 @@ Index: IT IT->EN
   spade {f} :: {plural of|spada}
 ===spade===
   spade {f} :: {plural of|spada}
+***spam***
+  spam (noun) {m|inv} :: {Internet} spam
 ***speravi***
   speravi :: second-person singular imperfect tense of sperare
 ===Spezia===
@@ -3696,7 +3680,7 @@ Index: IT IT->EN
 ===sublimato===
   sublimate :: {[[feminine|Feminine]] plural|sublimato}
 ***Sudan***
-  Sudan {m} :: Sudan
+  Sudan {{it-proper noun|m}} :: Sudan
 ===sumere===
   sumo (verb form) :: {conjugation of|sumere|1|s|pres|ind}
 ***sumo***
@@ -3738,7 +3722,7 @@ Index: IT IT->EN
   tanto :: very
   tanto :: after all
 ***Tanzania***
-  Tanzania {f} :: Tanzania
+  Tanzania {{it-proper noun|g=f}} :: Tanzania
 ===tara===
   tare {f} :: {plural of|tara}
 ***Taranto***
@@ -3828,7 +3812,7 @@ Index: IT IT->EN
   la {f|s} (pronoun), plural: le :: it (feminine)
     ...una improvvisa timidezza però la immobilizza... (Pasolini) :: ...a sudden timidity immobilized her though...
 ***Togo***
-  Togo {m} :: Togo
+  Togo {{it-proper noun|g=m}} :: Togo
 ***Tonga***
   Tonga {{it-proper noun|g=f}} :: Tonga
 ===tori===
@@ -3947,7 +3931,7 @@ Index: IT IT->EN
   Udine {{it-proper noun|g=f}} :: Udine (province, town)
   Udine {{it-proper noun|g=f}} :: The letter U in the Italian phonetic alphabet
 ***Uganda***
-  Uganda {f} :: Uganda
+  Uganda {{it-proper noun|g=f}} :: Uganda
 ***ultramarine***
   ultramarine {f} :: Feminine plural form of ultramarino
 ***Umbria***
@@ -4104,8 +4088,7 @@ Index: IT IT->EN
   vita {f} (noun), plural: vite :: life
   vita {f} (noun), plural: vite :: waist
 ***Viterbo***
-  Viterbo {it-proper noun} :: Viterbo (province)
-  Viterbo {it-proper noun} :: Viterbo (town)
+  Viterbo {it-proper noun} :: Viterbo
 ===vocali===
   forte {{it-adj|fort|e|i}} :: {linguistics} stressed
     vocali forti :: stressed vowel
@@ -4179,7 +4162,7 @@ Index: IT IT->EN
 ***yak***
   yak {m} (noun) {inv} :: A yak (bovine)
 ***Yemen***
-  Yemen {m} :: Yemen
+  Yemen {{it-proper noun|m}} :: Yemen
 ***z***
   z (letter) {m|f|inv} :: See under Z
 ===Z===
@@ -4212,7 +4195,7 @@ Index: IT IT->EN
 ***zeta***
   zeta (noun) {m|f|inv} :: zeta; The letter Z/z in the Italian and Greek alphabets
 ***Zimbabwe***
-  Zimbabwe {m} :: Zimbabwe
+  Zimbabwe {{it-proper noun|g=m}} :: Zimbabwe
 ***zoo***
   zoo {m} (noun) {inv} :: zoo
 ***zoom***
@@ -4249,8 +4232,6 @@ Index: EN EN->IT
   abdicate :: second-person plural imperative of abdicare
 ===ablativo===
   ablative {f} :: Feminine plural form of ablativo
-===abortivo===
-  abortive {f} :: Feminine plural form of abortivo.
 ===about===
   ci (pronoun) :: on it, about it, of it
   vi :: it (often not translated); about it, of it, on it
@@ -4375,7 +4356,7 @@ Index: EN EN->IT
 ===algebra===
   algebra {f}, algebre {pl} :: algebra
 ===Algeria===
-  Algeria {f} :: Algeria
+  Algeria {{it-proper noun|f}} :: Algeria
 ===alley===
   calle {f}, calli {pl} :: alley (especially in Venice)
 ===alopecia===
@@ -4395,10 +4376,8 @@ Index: EN EN->IT
   zeta (noun) {m|f|inv} :: zeta; The letter Z/z in the Italian and Greek alphabets
 ===also===
   pure {it-adv} :: too, also, as well
-  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below)
-    Example: Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
-    Note: In this sense, verb + si is often translated as become or get + past participle in English. :: --
-    Examples: :: --
+  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below). Note: verb + si is often translated as become or get + past participle in English.
+    Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
     Ci vuole un po’ di tempo per abituarsi (It takes a while to become accustomed) :: --
     A Luca piace ubriacarsi (Luca likes to get drunk) :: --
 ===altercation===
@@ -4437,21 +4416,15 @@ Index: EN EN->IT
 ===Andalusia===
   Andalusia {{it-proper noun|g=f}} :: Andalusia
 ===Andorra===
-  Andorra {{it-proper noun|g=f}} :: Andorra
+  Andorra {{it-proper noun|f}} :: Andorra
 ===Angola===
   Angola {f} :: Angola
 ===Anguilla===
   Anguilla {it-proper noun} :: Anguilla
-===animal===
-  bestiola {f}, bestiole {pl} :: Little animal or beast, creature
-  lama {m}, lami {pl} :: A llama (animal)
 ===another===
-  si (pronoun) :: {reflexive} oneself, himself, herself, itself, themselves; (reciprocal) each other, one another.
-    Examples: :: --
+  si (pronoun) :: {reflexive} oneself, himself, herself, itself, themselves; (reciprocal) each other, one another. Note: With some verbs, si is not translated in English.
     Giovanni si è fatto male (Giovanni has hurt himself) :: --
     Carlo e Laura si amano (Carlo and Laura love each other) :: --
-    Note: With some verbs, si is not translated in English. :: --
-    Examples: :: --
     Marco si è rotto il braccio (Marco has broken his arm) :: --
     Si è svegliata alle nove (She woke up at nine) :: --
   lingua franca (noun) {f|inv} :: The Mediterranean Lingua Franca, a common language spoken in Mediterranean ports in centuries past (consisting of Italian mixed with French, Spanish, Arabic and some Greek words and used by sailors of different countries to communicate with one another).
@@ -4545,6 +4518,7 @@ Index: EN EN->IT
   milli- :: milli- (multiplying the unit to which it is attached by 10<sup>-3</sup>)
 ===Australia===
   Australia {{it-proper noun|g=f}} :: Australia
+  Sydney {{it-proper noun|g=f}} :: Sydney (in Australia)
 ===Austria===
   Austria {{it-proper noun|g=f}} :: Austria
   Vienna {{it-proper noun|g=f}} :: Vienna (capital of Austria)
@@ -4609,14 +4583,13 @@ Index: EN EN->IT
 ===basketball===
   basket {m} (noun) {inv} :: basketball
 ===Baviera===
-  Monaco {m}{f} :: Munich (Monaco di Baviera)
+  Monaco {{it-proper noun|m}}{f} :: Munich (Monaco di Baviera)
 ===bean===
   seme {m}, semi {pl} :: bean (in some cases)
 ===bear===
   dare {it-verb} :: {transitive} To yield, to bear, to give, to produce, to return.
 ===beast===
   bestia {f}, bestie {pl} :: beast
-  bestiola {f}, bestiole {pl} :: Little animal or beast, creature
 ===beat===
   beat (adjective) {inv} :: beat (50s US literary and 70s UK music scenes)
   beat {m} (noun) {inv} :: beat (rhythm accompanying music)
@@ -4624,6 +4597,11 @@ Index: EN EN->IT
   apollo {m}, apolli {pl} :: A man of great beauty
 ===because===
   grazie {m}, grazie {pl}{f} :: thanks to, because of
+===become===
+  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below). Note: verb + si is often translated as become or get + past participle in English.
+    Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
+    Ci vuole un po’ di tempo per abituarsi (It takes a while to become accustomed) :: --
+    A Luca piace ubriacarsi (Luca likes to get drunk) :: --
 ===bedroom===
   camera {f}, camere {pl} :: bedroom
 ===bee===
@@ -4645,10 +4623,8 @@ Index: EN EN->IT
   Belluno {it-proper noun} :: Belluno (province)
   Belluno {it-proper noun} :: Belluno (town)
 ===below===
-  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below)
-    Example: Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
-    Note: In this sense, verb + si is often translated as become or get + past participle in English. :: --
-    Examples: :: --
+  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below). Note: verb + si is often translated as become or get + past participle in English.
+    Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
     Ci vuole un po’ di tempo per abituarsi (It takes a while to become accustomed) :: --
     A Luca piace ubriacarsi (Luca likes to get drunk) :: --
 ===bene===
@@ -4704,7 +4680,7 @@ Index: EN EN->IT
   negro {m}, negri {pl} :: black, coloured
   apollo {m}, apolli {pl} :: Apollo butterfly (Parnassius apollo, a large swallowtail with black and red spots on white wings)
 ===blade===
-  lama {f}, lame {pl} :: A blade (of a razor or sword)
+  lama {f}, lame {pl} :: blade (of a razor or sword)
 ===block===
   stop {m} (noun) {inv} :: stop (roadsign; bus stop etc; block)
 ===blockage===
@@ -4749,7 +4725,7 @@ Index: EN EN->IT
 ===bot===
   robot {m} (noun) {inv} :: {computing} bot
 ===Botswana===
-  Botswana {m} :: Botswana
+  Botswana {{it-proper noun|m}} :: Botswana
 ===bovine===
   yak {m} (noun) {inv} :: A yak (bovine)
 ===bowling===
@@ -4776,8 +4752,8 @@ Index: EN EN->IT
 ===brief===
   break {m} (noun) {inv} :: break (intermission or brief suspension of activity)
 ===Brindisi===
-  Brindisi :: Brindisi (province)
-  Brindisi :: Brindisi (town)
+  Brindisi {it-proper noun} :: Brindisi (province)
+  Brindisi {it-proper noun} :: Brindisi (town)
 ===Brunei===
   Brunei {m} :: Brunei
 ===Budapest===
@@ -4804,10 +4780,8 @@ Index: EN EN->IT
 ===but===
   card {m} (noun) {inv} :: card (identification, financial, SIM etc (but not playing card))
   casa {f}, case {pl} :: Family, dynasty, descent, extraction, stock, lineage, birth, origin, race (not human “race”, but meaning the preceding words).
-  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below)
-    Example: Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
-    Note: In this sense, verb + si is often translated as become or get + past participle in English. :: --
-    Examples: :: --
+  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below). Note: verb + si is often translated as become or get + past participle in English.
+    Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
     Ci vuole un po’ di tempo per abituarsi (It takes a while to become accustomed) :: --
     A Luca piace ubriacarsi (Luca likes to get drunk) :: --
 ===butter===
@@ -4833,10 +4807,8 @@ Index: EN EN->IT
   California {{it-proper noun|g=f}} :: California
 ===called===
   X {m|f|inv} (letter), lower case: x :: The twenty-fourth letter of the Latin alphabet, called ics in Italian.
-  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below)
-    Example: Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
-    Note: In this sense, verb + si is often translated as become or get + past participle in English. :: --
-    Examples: :: --
+  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below). Note: verb + si is often translated as become or get + past participle in English.
+    Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
     Ci vuole un po’ di tempo per abituarsi (It takes a while to become accustomed) :: --
     A Luca piace ubriacarsi (Luca likes to get drunk) :: --
   bo :: An interjection expressing doubt or indecision.
@@ -5036,7 +5008,7 @@ Index: EN EN->IT
 ===colloid===
   {{wikipedia|Sol (nota)}}sol {m|inv} (noun) :: sol (musical note, colloid)
 ===Colombia===
-  Colombia (proper noun) {f} :: Colombia
+  Colombia {{it-proper noun|f}} :: Colombia
 ===colon===
   colon {m} (noun) {inv} :: {{context|anatomy}} colon
   sigma (noun) {m|f|inv} (noun){m|inv} :: sigmoid colon
@@ -5105,8 +5077,6 @@ Index: EN EN->IT
   tank {m} (noun) {inv} :: tank (military and container)
 ===continuous===
   andante {{it-adj|andant|e|i}} :: continuous, unbroken
-===contraction===
-  dal :: (contraction of da il) from the
 ===conversation===
   chat {f} (noun) {inv} :: chat (informal conversation via computer)
 ===cops===
@@ -5128,7 +5098,8 @@ Index: EN EN->IT
   lingua franca (noun) {f|inv} :: The Mediterranean Lingua Franca, a common language spoken in Mediterranean ports in centuries past (consisting of Italian mixed with French, Spanish, Arabic and some Greek words and used by sailors of different countries to communicate with one another).
 ===country===
   country (noun) {m|inv} :: {music} country music
-  Senegal {m} :: Senegal, the country
+  Niger {{it-proper noun|g=m}} :: Niger (country)
+  Senegal {{it-proper noun|m}} :: Senegal (country)
   Georgia {f} (proper noun) :: Georgia (country)
 ===course===
   secondo {m}, secondi {pl} :: main course (of a meal)
@@ -5145,8 +5116,6 @@ Index: EN EN->IT
 ===creare===
   create :: second-person plural indicative present of creare
   create :: second-person plural imperative of creare
-===creature===
-  bestiola {f}, bestiole {pl} :: Little animal or beast, creature
 ===credit===
   accreditare {it-verb} :: To credit
   evergreen (noun) {m|inv} :: {finance} revolving credit
@@ -5185,6 +5154,8 @@ Index: EN EN->IT
   panacea {f}, panacee {pl} :: panacea, cure-all
 ===curium===
   curio {m}, curi {pl} :: curium
+===currency===
+  euro {m}, euro {pl} :: euro (currency)
 ===current===
   pamphlet {m} (noun) {inv} :: pamphlet (essay on a current topic)
 ===curriculum===
@@ -5260,8 +5231,6 @@ Index: EN EN->IT
 ===delegato===
   AD :: CEO (amministratore delegato)
   delegate {f} :: Feminine plural form of delegato
-===delicate===
-  minute {f|p} (adjective form) :: {feminine plural of|minuto} tiny, minute; fine, delicate, detailed
 ===delineare===
   delineate :: second-person plural present tense and imperative of delineare
 ===delta===
@@ -5291,14 +5260,12 @@ Index: EN EN->IT
   destino {m}, destini {pl} :: destination
 ===destiny===
   destino {m}, destini {pl} :: destiny, fate
-===detailed===
-  minute {f|p} (adjective form) :: {feminine plural of|minuto} tiny, minute; fine, delicate, detailed
 ===device===
   computer {m} (noun) {inv} :: computer (calculating device)
   riga {f}, righe {pl} :: ruler (measuring device)
   antenna {f}, antenne {pl} :: device to receive or transmit radio signals: aerial (UK), antenna (US)
 ===di===
-  Monaco {m}{f} :: Munich (Monaco di Baviera)
+  Monaco {{it-proper noun|m}}{f} :: Munich (Monaco di Baviera)
 ===diesel===
   diesel (noun) {m|inv} :: diesel (engine; vehicle)
 ===different===
@@ -5311,6 +5278,8 @@ Index: EN EN->IT
   dilettante {mf}, dilettanti {pl} :: dilettante
 ===dire===
   dice (verb form), infinitive: dire :: (Third-person singular present tense of dire) Says.
+===direct===
+  la {f|s} (pronoun), plural: le :: her (direct object)
 ===direction===
   maestoso {{it-adj|maestos}} :: {music} A direction to perform a passage or piece of music in a dignified manner.
   a- (prefix) :: ad- (indication direction)
@@ -5388,12 +5357,9 @@ Index: EN EN->IT
 ===E===
   mi (noun) (noun){m|f|inv} :: E (musical note or key)
 ===each===
-  si (pronoun) :: {reflexive} oneself, himself, herself, itself, themselves; (reciprocal) each other, one another.
-    Examples: :: --
+  si (pronoun) :: {reflexive} oneself, himself, herself, itself, themselves; (reciprocal) each other, one another. Note: With some verbs, si is not translated in English.
     Giovanni si è fatto male (Giovanni has hurt himself) :: --
     Carlo e Laura si amano (Carlo and Laura love each other) :: --
-    Note: With some verbs, si is not translated in English. :: --
-    Examples: :: --
     Marco si è rotto il braccio (Marco has broken his arm) :: --
     Si è svegliata alle nove (She woke up at nine) :: --
 ===eagle===
@@ -5464,6 +5430,18 @@ Index: EN EN->IT
 ===English===
   ne (pronoun) :: of them (sometimes not translated in English)
     Ce ne sono due. :: “There are two (of them).”
+  si (pronoun) :: {{context|indefinite}} one, you, we, they, people. Note: often translated using the passive voice in English.
+    Non si deve parlare così (One/You/We/They/People shouldn’t speak like that) :: --
+    Si parla italiano qui (Italian is spoken here or One/You/We/They/People speak(s) Italian here) :: --
+  si (pronoun) :: {reflexive} oneself, himself, herself, itself, themselves; (reciprocal) each other, one another. Note: With some verbs, si is not translated in English.
+    Giovanni si è fatto male (Giovanni has hurt himself) :: --
+    Carlo e Laura si amano (Carlo and Laura love each other) :: --
+    Marco si è rotto il braccio (Marco has broken his arm) :: --
+    Si è svegliata alle nove (She woke up at nine) :: --
+  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below). Note: verb + si is often translated as become or get + past participle in English.
+    Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
+    Ci vuole un po’ di tempo per abituarsi (It takes a while to become accustomed) :: --
+    A Luca piace ubriacarsi (Luca likes to get drunk) :: --
   Alfredo {{it-proper noun|g=m}} :: {{given name|male}}, equivalent to English Alfred.
 ===Enna===
   Enna {it-proper noun} :: Enna (province)
@@ -5503,7 +5481,7 @@ Index: EN EN->IT
 ===essere===
   sei (verb form) :: second-person singular indicative present form of essere
 ===Estonia===
-  Estonia {f} (proper noun) :: Estonia
+  Estonia {{it-proper noun|f}} :: Estonia
 ===eta===
   eta (noun) {m|f|inv} :: eta (Greek letter)
 ===euphony===
@@ -5578,13 +5556,14 @@ Index: EN EN->IT
   curve :: feminine plural of curvo
   none {f|p} (adjective form) :: (feminine plural form of nono) ninth
   none {f|p} :: (feminine plural form of nono) ninth (the one in the ninth position; fraction)
+  la {f|s} (pronoun), plural: le :: it (feminine)
+    ...una improvvisa timidezza però la immobilizza... (Pasolini) :: ...a sudden timidity immobilized her though...
   morose (adjective form) :: feminine plural of moroso
   incarcerate :: feminine plural past participle of incarcerare
   latina f :: feminine of latino
 ===Feminine===
   pie {f} :: Feminine plural form of pio
   ablative {f} :: Feminine plural form of ablativo
-  abortive {f} :: Feminine plural form of abortivo.
   abrasive {f} :: Feminine plural form of abrasivo
   abrogative {f} :: Feminine plural form of abrogativo
   abusive {f} :: Feminine plural form of abusivo
@@ -5633,7 +5612,7 @@ Index: EN EN->IT
   festival (noun) {m|inv} :: festival
   festival (noun) {m|inv} :: worker's festival
 ===few===
-  alcuno {{it-adj|alcun}} :: {{chiefly|in plural}} some, a few
+  alcuno {{it-adj|alcun}} :: {{chiefly|in the plural}} some, a few
 ===field===
   area {f}, aree {pl} :: field, sector
 ===fifteen===
@@ -5671,8 +5650,6 @@ Index: EN EN->IT
 ===find===
   dove (conjunction) :: where
     Lo troverai dove l'hai lasciato. :: You'll find it where you left it.
-===fine===
-  minute {f|p} (adjective form) :: {feminine plural of|minuto} tiny, minute; fine, delicate, detailed
 ===finger===
   indice {m}, indici {pl} :: (finger) index, index finger, forefinger
 ===firm===
@@ -5806,7 +5783,7 @@ Index: EN EN->IT
 ===gabardine===
   gabardine {m} (noun) {inv} :: The woolen cloth gabardine
 ===Gabon===
-  Gabon {m} :: Gabon
+  Gabon {{it-proper noun|m}} :: Gabon
 ===gaffe===
   gaffe {f}{f|inv} :: gaffe, blunder, boob
 ===gallery===
@@ -5814,7 +5791,7 @@ Index: EN EN->IT
 ===Gallic===
   gallo {{it-adj|gall}} :: Gallic
 ===Gambia===
-  Gambia {m} :: Gambia
+  Gambia {{it-proper noun|m}} :: Gambia
 ===game===
   RPG (noun) {m|inv} :: {gaming} RPG; role-playing game
   bridge (noun) {m|inv} :: bridge (card game)
@@ -5849,6 +5826,11 @@ Index: EN EN->IT
 ===Georgia===
   Georgia {f} (proper noun) :: Georgia (country)
   Georgia {f} (proper noun) :: Georgia (US state)
+===get===
+  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below). Note: verb + si is often translated as become or get + past participle in English.
+    Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
+    Ci vuole un po’ di tempo per abituarsi (It takes a while to become accustomed) :: --
+    A Luca piace ubriacarsi (Luca likes to get drunk) :: --
 ===getting===
   uno {m} ({f} una) :: Sono uno a cui piace alzarsi presto - I’m someone who likes getting up early or I’m a person who likes getting up early
 ===Ghana===
@@ -6030,12 +6012,9 @@ Index: EN EN->IT
   vi {it-adv} :: here
   qua {it-adv} :: here (relatively close to the speaker)
 ===herself===
-  si (pronoun) :: {reflexive} oneself, himself, herself, itself, themselves; (reciprocal) each other, one another.
-    Examples: :: --
+  si (pronoun) :: {reflexive} oneself, himself, herself, itself, themselves; (reciprocal) each other, one another. Note: With some verbs, si is not translated in English.
     Giovanni si è fatto male (Giovanni has hurt himself) :: --
     Carlo e Laura si amano (Carlo and Laura love each other) :: --
-    Note: With some verbs, si is not translated in English. :: --
-    Examples: :: --
     Marco si è rotto il braccio (Marco has broken his arm) :: --
     Si è svegliata alle nove (She woke up at nine) :: --
 ===hertz===
@@ -6043,12 +6022,9 @@ Index: EN EN->IT
 ===him===
   lui (pronoun) :: him (indirect form of lui used after a preposition)
 ===himself===
-  si (pronoun) :: {reflexive} oneself, himself, herself, itself, themselves; (reciprocal) each other, one another.
-    Examples: :: --
+  si (pronoun) :: {reflexive} oneself, himself, herself, itself, themselves; (reciprocal) each other, one another. Note: With some verbs, si is not translated in English.
     Giovanni si è fatto male (Giovanni has hurt himself) :: --
     Carlo e Laura si amano (Carlo and Laura love each other) :: --
-    Note: With some verbs, si is not translated in English. :: --
-    Examples: :: --
     Marco si è rotto il braccio (Marco has broken his arm) :: --
     Si è svegliata alle nove (She woke up at nine) :: --
 ===his===
@@ -6253,7 +6229,7 @@ Index: EN EN->IT
 ===Iran===
   Iran {{it-proper noun|g=m}} :: Iran
 ===Iraq===
-  Iraq {m} :: Iraq
+  Iraq {{it-proper noun|m}} :: Iraq
 ===ironic===
   ha! :: ah! (usually ironic or sarcastic)
 ===Is===
@@ -6291,12 +6267,9 @@ Index: EN EN->IT
 ===item===
   mobile {m}, mobili {pl} :: {{context|singular}} item of furniture
 ===itself===
-  si (pronoun) :: {reflexive} oneself, himself, herself, itself, themselves; (reciprocal) each other, one another.
-    Examples: :: --
+  si (pronoun) :: {reflexive} oneself, himself, herself, itself, themselves; (reciprocal) each other, one another. Note: With some verbs, si is not translated in English.
     Giovanni si è fatto male (Giovanni has hurt himself) :: --
     Carlo e Laura si amano (Carlo and Laura love each other) :: --
-    Note: With some verbs, si is not translated in English. :: --
-    Examples: :: --
     Marco si è rotto il braccio (Marco has broken his arm) :: --
     Si è svegliata alle nove (She woke up at nine) :: --
 ===j===
@@ -6327,7 +6300,6 @@ Index: EN EN->IT
   {{wikipedia|Fa (nota)}}fa (noun) {m|inv} :: F (musical note or key)
   mi (noun) (noun){m|f|inv} :: E (musical note or key)
   {{wikipedia|Sol (nota)}}sol {m|inv} (noun) :: G (musical note and key)
-  re {m}, re {pl} :: D (musical note or key)
   {{wikipedia|Do (nota)}}do {m} (noun) :: C (the musical note or key)
   play {m} (noun) {inv} :: play (theatrical performance; start key)
 ===king===
@@ -6365,7 +6337,7 @@ Index: EN EN->IT
 ===lack===
   a- (prefix) :: a- (indicating lack or loss)
 ===lama===
-  lama {m}, lami {pl} :: A lama (religious person)
+  lama {m}, lami {pl} :: lama (religious person)
 ===lambda===
   lambda (noun) {m|f|inv} (noun){m|inv} :: lambda (Greek letter)
   lambda (noun) {m|f|inv} (noun){m|inv} :: {anatomy} lambda
@@ -6508,8 +6480,6 @@ Index: EN EN->IT
   link {m} (noun) {inv} :: {{context|computing}} link (hyperlink)
 ===literary===
   beat (adjective) {inv} :: beat (50s US literary and 70s UK music scenes)
-===Little===
-  bestiola {f}, bestiole {pl} :: Little animal or beast, creature
 ===live===
   live (adjective) {inv} :: Performed or recorded live
 ===Livorno===
@@ -6518,7 +6488,7 @@ Index: EN EN->IT
   dove (conjunction) :: where
     Lo troverai dove l'hai lasciato. :: You'll find it where you left it.
 ===llama===
-  lama {m}, lami {pl} :: A llama (animal)
+  lama {m}, lami {pl} :: llama
 ===lob===
   lob {m} (noun) {inv} :: lob (in ball games)
 ===locativo===
@@ -6599,7 +6569,7 @@ Index: EN EN->IT
   ci (pronoun) :: impersonal reflexive pronoun
     Ci vuole poco a farmi felice. :: It doesn't take much to make me happy.
 ===Malawi===
-  Malawi {m} :: Malawi
+  Malawi {{it-proper noun|m}} :: Malawi
 ===male===
   tigre {f}, tigri {pl} :: tiger (male)
   cane {m}, cani {pl} :: dog in general, male dog
@@ -6668,7 +6638,7 @@ Index: EN EN->IT
 ===matter===
   gas {m} (noun) :: gas (state of matter, petroleum)
 ===Mauritania===
-  Mauritania {f} :: Mauritania
+  Mauritania {{it-proper noun|f}} :: Mauritania
 ===Mauritius===
   Mauritius {{it-proper noun|g=m}} :: Mauritius
 ===me===
@@ -6743,8 +6713,6 @@ Index: EN EN->IT
   mini {f} (noun) {inv} :: miniskirt
 ===minister===
   premier {m|f} (noun) {inv} :: premier, prime minister (or similar title)
-===minute===
-  minute {f|p} (adjective form) :: {feminine plural of|minuto} tiny, minute; fine, delicate, detailed
 ===misspelling===
   té :: Common misspelling of tè.
   da :: Common misspelling of dà
@@ -6764,8 +6732,8 @@ Index: EN EN->IT
 ===Molise===
   Molise {{it-proper noun|g=m}} :: Molise
 ===Monaco===
-  Monaco {m}{f} :: Monaco
-  Monaco {m}{f} :: Munich (Monaco di Baviera)
+  Monaco {{it-proper noun|m}}{f} :: Monaco
+  Monaco {{it-proper noun|m}}{f} :: Munich (Monaco di Baviera)
 ===monarch===
   regina {f}, regine {pl} :: queen (monarch, male homosexual)
 ===monetary===
@@ -6823,9 +6791,7 @@ Index: EN EN->IT
 ===multiplying===
   milli- :: milli- (multiplying the unit to which it is attached by 10<sup>-3</sup>)
 ===Munich===
-  Monaco {m}{f} :: Munich (Monaco di Baviera)
-===Muses===
-  muse {f} :: {plural of|musa}; Muses
+  Monaco {{it-proper noun|m}}{f} :: Munich (Monaco di Baviera)
 ===music===
   country (noun) {m|inv} :: {music} country music
   musica {f}, musiche {pl} :: music
@@ -6845,8 +6811,6 @@ Index: EN EN->IT
   mi (noun) (noun){m|f|inv} :: E (musical note or key)
   {{wikipedia|Sol (nota)}}sol {m|inv} (noun) :: sol (musical note, colloid)
   {{wikipedia|Sol (nota)}}sol {m|inv} (noun) :: G (musical note and key)
-  re {m}, re {pl} :: re (musical note)
-  re {m}, re {pl} :: D (musical note or key)
   {{wikipedia|Do (nota)}}do {m} (noun) :: do, the musical note
   {{wikipedia|Do (nota)}}do {m} (noun) :: C (the musical note or key)
   piano {m}, piani {pl} :: piano (musical instrument)
@@ -6865,14 +6829,13 @@ Index: EN EN->IT
   mu {m|f} (noun) {inv} :: The name of the letter M
   Ragusa {{it-proper noun|g=f}} :: former name, before 1918, of Dubrovnik
 ===Namibia===
-  Namibia {n} :: Namibia
-  Namibia {f} :: Namibia
+  Namibia {{it-proper noun|f}} :: Namibia
 ===nano===
   nano- (prefix) :: nano-
 ===natural===
   nature {inv} :: natural
 ===Nauru===
-  Nauru {m} :: Nauru
+  Nauru {{it-proper noun|m}} :: Nauru
 ===nautical===
   marina {f} (masculine marino) :: sea, marine, nautical, seaside
 ===navy===
@@ -6908,14 +6871,14 @@ Index: EN EN->IT
 ===newton===
   newton {m} (noun) :: newton
 ===Nicaragua===
-  Nicaragua (proper noun) {m} :: Nicaragua
+  Nicaragua {{it-proper noun|f}} :: Nicaragua
 ===Nicosia===
   Nicosia {{it-proper noun|g=f}} :: Nicosia
 ===Niger===
   Niger {{it-proper noun|g=m}} :: Niger (country)
   Niger {{it-proper noun|g=m}} :: Niger (river)
 ===Nigeria===
-  Nigeria (proper noun) {f} :: Nigeria
+  Nigeria {{it-proper noun|f}} :: Nigeria
 ===nightclub===
   night {m} (noun) {inv} :: nightclub
 ===nil===
@@ -6952,6 +6915,11 @@ Index: EN EN->IT
   casa {f}, case {pl} :: Family, dynasty, descent, extraction, stock, lineage, birth, origin, race (not human “race”, but meaning the preceding words).
   ne (pronoun) :: of them (sometimes not translated in English)
     Ce ne sono due. :: “There are two (of them).”
+  si (pronoun) :: {reflexive} oneself, himself, herself, itself, themselves; (reciprocal) each other, one another. Note: With some verbs, si is not translated in English.
+    Giovanni si è fatto male (Giovanni has hurt himself) :: --
+    Carlo e Laura si amano (Carlo and Laura love each other) :: --
+    Marco si è rotto il braccio (Marco has broken his arm) :: --
+    Si è svegliata alle nove (She woke up at nine) :: --
   parole {f|p} (noun) :: {plural of|parola}
     Ci vogliono fatti e non parole. :: Action is needed, not words.
   vero {{it-adj|ver}} :: true
@@ -6965,20 +6933,29 @@ Index: EN EN->IT
   mi (noun) (noun){m|f|inv} :: E (musical note or key)
   {{wikipedia|Sol (nota)}}sol {m|inv} (noun) :: sol (musical note, colloid)
   {{wikipedia|Sol (nota)}}sol {m|inv} (noun) :: G (musical note and key)
-  re {m}, re {pl} :: re (musical note)
-  re {m}, re {pl} :: D (musical note or key)
   {{wikipedia|Do (nota)}}do {m} (noun) :: do, the musical note
   {{wikipedia|Do (nota)}}do {m} (noun) :: C (the musical note or key)
-  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below)
-    Example: Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
-    Note: In this sense, verb + si is often translated as become or get + past participle in English. :: --
-    Examples: :: --
+  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below). Note: verb + si is often translated as become or get + past participle in English.
+    Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
     Ci vuole un po’ di tempo per abituarsi (It takes a while to become accustomed) :: --
     A Luca piace ubriacarsi (Luca likes to get drunk) :: --
   {{wikipedia|Ti (nota)}}ti {{{m|inv}}} (noun) :: {music} ti (note)
   {{wikipedia|Ti (nota)}}ti {{{m|inv}}} (noun) :: {music} B (note and scale)
   {{wikipedia|La (nota)}}la {{{m|inv}}} (noun) :: {music} la (musical note)
   {{wikipedia|La (nota)}}la {{{m|inv}}} (noun) :: {music} A (musical note and scale)
+===Note===
+  si (pronoun) :: {{context|indefinite}} one, you, we, they, people. Note: often translated using the passive voice in English.
+    Non si deve parlare così (One/You/We/They/People shouldn’t speak like that) :: --
+    Si parla italiano qui (Italian is spoken here or One/You/We/They/People speak(s) Italian here) :: --
+  si (pronoun) :: {reflexive} oneself, himself, herself, itself, themselves; (reciprocal) each other, one another. Note: With some verbs, si is not translated in English.
+    Giovanni si è fatto male (Giovanni has hurt himself) :: --
+    Carlo e Laura si amano (Carlo and Laura love each other) :: --
+    Marco si è rotto il braccio (Marco has broken his arm) :: --
+    Si è svegliata alle nove (She woke up at nine) :: --
+  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below). Note: verb + si is often translated as become or get + past participle in English.
+    Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
+    Ci vuole un po’ di tempo per abituarsi (It takes a while to become accustomed) :: --
+    A Luca piace ubriacarsi (Luca likes to get drunk) :: --
 ===notes===
   {Italian definite articles}i {m|p} (article), singular: il :: the (see the usage notes)
 ===noun===
@@ -7019,6 +6996,7 @@ Index: EN EN->IT
 ===object===
   vi :: (second-person personal plural object pronoun): you, to you
     (noi) vi amiamo :: we love you
+  la {f|s} (pronoun), plural: le :: her (direct object)
 ===objection===
   replica {f}, repliche {pl} :: objection
 ===objective===
@@ -7038,6 +7016,13 @@ Index: EN EN->IT
   secondo {m}, secondi {pl} :: second mate, executive officer (in the navy)
 ===often===
   vi :: it (often not translated); about it, of it, on it
+  si (pronoun) :: {{context|indefinite}} one, you, we, they, people. Note: often translated using the passive voice in English.
+    Non si deve parlare così (One/You/We/They/People shouldn’t speak like that) :: --
+    Si parla italiano qui (Italian is spoken here or One/You/We/They/People speak(s) Italian here) :: --
+  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below). Note: verb + si is often translated as become or get + past participle in English.
+    Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
+    Ci vuole un po’ di tempo per abituarsi (It takes a while to become accustomed) :: --
+    A Luca piace ubriacarsi (Luca likes to get drunk) :: --
 ===oh===
   ba (interjection) :: oh well!
 ===Oman===
@@ -7049,12 +7034,9 @@ Index: EN EN->IT
 ===omicron===
   omicron (noun) {m|inv} :: omicron (Greek letter)
 ===oneself===
-  si (pronoun) :: {reflexive} oneself, himself, herself, itself, themselves; (reciprocal) each other, one another.
-    Examples: :: --
+  si (pronoun) :: {reflexive} oneself, himself, herself, itself, themselves; (reciprocal) each other, one another. Note: With some verbs, si is not translated in English.
     Giovanni si è fatto male (Giovanni has hurt himself) :: --
     Carlo e Laura si amano (Carlo and Laura love each other) :: --
-    Note: With some verbs, si is not translated in English. :: --
-    Examples: :: --
     Marco si è rotto il braccio (Marco has broken his arm) :: --
     Si è svegliata alle nove (She woke up at nine) :: --
 ===online===
@@ -7093,12 +7075,9 @@ Index: EN EN->IT
 ===osteo===
   osteo- :: {anatomy} osteo-
 ===other===
-  si (pronoun) :: {reflexive} oneself, himself, herself, itself, themselves; (reciprocal) each other, one another.
-    Examples: :: --
+  si (pronoun) :: {reflexive} oneself, himself, herself, itself, themselves; (reciprocal) each other, one another. Note: With some verbs, si is not translated in English.
     Giovanni si è fatto male (Giovanni has hurt himself) :: --
     Carlo e Laura si amano (Carlo and Laura love each other) :: --
-    Note: With some verbs, si is not translated in English. :: --
-    Examples: :: --
     Marco si è rotto il braccio (Marco has broken his arm) :: --
     Si è svegliata alle nove (She woke up at nine) :: --
   brioche (noun) {f|inv} :: croissant, Danish pastry (or other sweet bun)
@@ -7142,7 +7121,7 @@ Index: EN EN->IT
 ===panacea===
   panacea {f}, panacee {pl} :: panacea, cure-all
 ===Panama===
-  Panama {f} :: Panama
+  Panama {{it-proper noun|f}} :: Panama
 ===pancreas===
   pancreas {m} (noun) {inv} :: pancreas
 ===panda===
@@ -7181,17 +7160,16 @@ Index: EN EN->IT
   appassionato {{it-adj|appassionat}} :: passionate, ardent
   appassionato {{it-adj|appassionat}} :: {music} part or all of a performance as passionate.
 ===passivante===
-  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below)
-    Example: Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
-    Note: In this sense, verb + si is often translated as become or get + past participle in English. :: --
-    Examples: :: --
+  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below). Note: verb + si is often translated as become or get + past participle in English.
+    Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
     Ci vuole un po’ di tempo per abituarsi (It takes a while to become accustomed) :: --
     A Luca piace ubriacarsi (Luca likes to get drunk) :: --
 ===passive===
-  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below)
-    Example: Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
-    Note: In this sense, verb + si is often translated as become or get + past participle in English. :: --
-    Examples: :: --
+  si (pronoun) :: {{context|indefinite}} one, you, we, they, people. Note: often translated using the passive voice in English.
+    Non si deve parlare così (One/You/We/They/People shouldn’t speak like that) :: --
+    Si parla italiano qui (Italian is spoken here or One/You/We/They/People speak(s) Italian here) :: --
+  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below). Note: verb + si is often translated as become or get + past participle in English.
+    Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
     Ci vuole un po’ di tempo per abituarsi (It takes a while to become accustomed) :: --
     A Luca piace ubriacarsi (Luca likes to get drunk) :: --
 ===password===
@@ -7201,8 +7179,8 @@ Index: EN EN->IT
 ===pastry===
   brioche (noun) {f|inv} :: croissant, Danish pastry (or other sweet bun)
 ===Pavia===
-  Pavia {it-proper noun} :: Pavia (province)
-  Pavia {it-proper noun} :: Pavia (town)
+  Pavia {{it-proper noun|g=f}} :: Pavia (province)
+  Pavia {{it-proper noun|g=f}} :: Pavia (town)
 ===PC===
   mouse {m} (noun) {inv} :: {computing} mouse (for a PC)
 ===peach===
@@ -7212,9 +7190,7 @@ Index: EN EN->IT
 ===penultimate===
   piano {{it-adj|pian}} :: penultimate accented
 ===people===
-  si (pronoun) :: {{context|indefinite}} one, you, we, they, people
-    Note: In this sense, si is often translated using the passive in English. :: --
-    Examples: :: --
+  si (pronoun) :: {{context|indefinite}} one, you, we, they, people. Note: often translated using the passive voice in English.
     Non si deve parlare così (One/You/We/They/People shouldn’t speak like that) :: --
     Si parla italiano qui (Italian is spoken here or One/You/We/They/People speak(s) Italian here) :: --
   cast {m|inv} (noun) :: cast (people performing a movie)
@@ -7470,7 +7446,7 @@ Index: EN EN->IT
   Biella {{it-proper noun|g=f}} :: Biella (province)
   Bologna {f} :: Bologna (province, city)
   Bolzano {{it-proper noun|g=f}} :: Bolzano (province)
-  Brindisi :: Brindisi (province)
+  Brindisi {it-proper noun} :: Brindisi (province)
   Cagliari {{it-proper noun|g=f}} :: Cagliari (province)
   Campobasso {it-proper noun} :: Campobasso (province)
   Caserta {{it-proper noun|g=f}} :: Caserta (province)
@@ -7503,7 +7479,7 @@ Index: EN EN->IT
   Modena {{it-proper noun|g=f}} :: Modena (province)
   Nuoro {{it-proper noun|g=f}} :: Nuoro (province)
   Oristano {it-proper noun} :: Oristano (province)
-  Pavia {it-proper noun} :: Pavia (province)
+  Pavia {{it-proper noun|g=f}} :: Pavia (province)
   Perugia {{it-proper noun|g=f}} :: Perugia (province)
   Pescara {{it-proper noun|g=f}} :: Pescara (province)
   Piacenza {it-proper noun} :: Piacenza (province)
@@ -7531,7 +7507,6 @@ Index: EN EN->IT
   Varese {{it-proper noun|g=f}} :: Varese (province)
   Vercelli {it-proper noun} :: Vercelli (province)
   Vicenza {{it-proper noun|g=f}} :: Vicenza (province)
-  Viterbo {it-proper noun} :: Viterbo (province)
 ===pseudo===
   pseudo- (prefix) :: pseudo-
 ===psi===
@@ -7555,7 +7530,7 @@ Index: EN EN->IT
 ===Python===
   Python {{it-proper noun|g=m}} :: Python programming language
 ===Qatar===
-  Qatar {f} :: Qatar
+  Qatar {{it-proper noun|f}} :: Qatar
 ===quadruplo===
   quadruple {f} :: Feminine plural form of quadruplo
 ===qualitativo===
@@ -7613,7 +7588,7 @@ Index: EN EN->IT
   Ravenna {{it-proper noun|g=f}} :: Ravenna (province)
   Ravenna {{it-proper noun|g=f}} :: Ravenna (town)
 ===razor===
-  lama {f}, lame {pl} :: A blade (of a razor or sword)
+  lama {f}, lame {pl} :: blade (of a razor or sword)
 ===re===
   re {m}, re {pl} :: re (musical note)
 ===real===
@@ -7621,12 +7596,9 @@ Index: EN EN->IT
 ===receive===
   antenna {f}, antenne {pl} :: device to receive or transmit radio signals: aerial (UK), antenna (US)
 ===reciprocal===
-  si (pronoun) :: {reflexive} oneself, himself, herself, itself, themselves; (reciprocal) each other, one another.
-    Examples: :: --
+  si (pronoun) :: {reflexive} oneself, himself, herself, itself, themselves; (reciprocal) each other, one another. Note: With some verbs, si is not translated in English.
     Giovanni si è fatto male (Giovanni has hurt himself) :: --
     Carlo e Laura si amano (Carlo and Laura love each other) :: --
-    Note: With some verbs, si is not translated in English. :: --
-    Examples: :: --
     Marco si è rotto il braccio (Marco has broken his arm) :: --
     Si è svegliata alle nove (She woke up at nine) :: --
 ===recorded===
@@ -7655,7 +7627,7 @@ Index: EN EN->IT
 ===relatively===
   qua {it-adv} :: here (relatively close to the speaker)
 ===religious===
-  lama {m}, lami {pl} :: A lama (religious person)
+  lama {m}, lami {pl} :: lama (religious person)
 ===remake===
   remake {m} (noun) :: remake (of a film)
 ===repetition===
@@ -7699,7 +7671,8 @@ Index: EN EN->IT
   Rimini {it-proper noun} :: Rimini (province)
   Rimini {it-proper noun} :: Rimini (town)
 ===river===
-  Senegal {m} :: Senegal, the river
+  Niger {{it-proper noun|g=m}} :: Niger (river)
+  Senegal {{it-proper noun|m}} :: Senegal (river)
 ===roadsign===
   stop {m} (noun) {inv} :: stop (roadsign; bus stop etc; block)
 ===robot===
@@ -7828,10 +7801,8 @@ Index: EN EN->IT
   secure {f} :: Feminine plural form of securo
 ===see===
   {Italian definite articles}i {m|p} (article), singular: il :: the (see the usage notes)
-  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below)
-    Example: Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
-    Note: In this sense, verb + si is often translated as become or get + past participle in English. :: --
-    Examples: :: --
+  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below). Note: verb + si is often translated as become or get + past participle in English.
+    Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
     Ci vuole un po’ di tempo per abituarsi (It takes a while to become accustomed) :: --
     A Luca piace ubriacarsi (Luca likes to get drunk) :: --
 ===See===
@@ -7862,8 +7833,8 @@ Index: EN EN->IT
 ===seguire===
   segue :: third-person singular indicative present of seguire
 ===Senegal===
-  Senegal {m} :: Senegal, the country
-  Senegal {m} :: Senegal, the river
+  Senegal {{it-proper noun|m}} :: Senegal (country)
+  Senegal {{it-proper noun|m}} :: Senegal (river)
 ===sense===
   humour {m} (noun) {inv} :: sense of humour
 ===senses===
@@ -7937,12 +7908,15 @@ Index: EN EN->IT
 ===shuttle===
   shuttle {m} (noun) {inv} :: space shuttle
 ===si===
-  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below)
-    Example: Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
-    Note: In this sense, verb + si is often translated as become or get + past participle in English. :: --
-    Examples: :: --
+  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below). Note: verb + si is often translated as become or get + past participle in English.
+    Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
     Ci vuole un po’ di tempo per abituarsi (It takes a while to become accustomed) :: --
     A Luca piace ubriacarsi (Luca likes to get drunk) :: --
+  si (pronoun) :: {reflexive} oneself, himself, herself, itself, themselves; (reciprocal) each other, one another. Note: With some verbs, si is not translated in English.
+    Giovanni si è fatto male (Giovanni has hurt himself) :: --
+    Carlo e Laura si amano (Carlo and Laura love each other) :: --
+    Marco si è rotto il braccio (Marco has broken his arm) :: --
+    Si è svegliata alle nove (She woke up at nine) :: --
 ===sickness===
   male {m}, mali {pl} :: pain, ache, illness, sickness, disease
 ===sicurezza===
@@ -8017,10 +7991,8 @@ Index: EN EN->IT
   candela {f}, candele {pl} :: {slang} snot
 ===so===
   tanto :: so much
-  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below)
-    Example: Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
-    Note: In this sense, verb + si is often translated as become or get + past participle in English. :: --
-    Examples: :: --
+  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below). Note: verb + si is often translated as become or get + past participle in English.
+    Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
     Ci vuole un po’ di tempo per abituarsi (It takes a while to become accustomed) :: --
     A Luca piace ubriacarsi (Luca likes to get drunk) :: --
 ===social===
@@ -8044,9 +8016,14 @@ Index: EN EN->IT
 ===sombrero===
   sombrero {m}, sombreri {pl} :: sombrero
 ===some===
-  alcuno {{it-adj|alcun}} :: {{chiefly|in plural}} some, a few
+  alcuno {{it-adj|alcun}} :: {{chiefly|in the plural}} some, a few
   seme {m}, semi {pl} :: bean (in some cases)
   lingua franca (noun) {f|inv} :: The Mediterranean Lingua Franca, a common language spoken in Mediterranean ports in centuries past (consisting of Italian mixed with French, Spanish, Arabic and some Greek words and used by sailors of different countries to communicate with one another).
+  si (pronoun) :: {reflexive} oneself, himself, herself, itself, themselves; (reciprocal) each other, one another. Note: With some verbs, si is not translated in English.
+    Giovanni si è fatto male (Giovanni has hurt himself) :: --
+    Carlo e Laura si amano (Carlo and Laura love each other) :: --
+    Marco si è rotto il braccio (Marco has broken his arm) :: --
+    Si è svegliata alle nove (She woke up at nine) :: --
 ===someone===
   uno {m} ({f} una) :: someone, a person
   dare {it-verb} :: {transitive} To give, to transfer the possession/holding of something to someone else.
@@ -8081,6 +8058,8 @@ Index: EN EN->IT
   souvenir {m} (noun) {inv} :: souvenir
 ===space===
   shuttle {m} (noun) {inv} :: space shuttle
+===spam===
+  spam (noun) {m|inv} :: {Internet} spam
 ===Spanish===
   lingua franca (noun) {f|inv} :: The Mediterranean Lingua Franca, a common language spoken in Mediterranean ports in centuries past (consisting of Italian mixed with French, Spanish, Arabic and some Greek words and used by sailors of different countries to communicate with one another).
   Madrid {{it-proper noun|g=f}} :: Madrid, Spanish capital city and province
@@ -8182,7 +8161,7 @@ Index: EN EN->IT
 ===such===
   tanto {{it-adj|tant}} :: such
 ===Sudan===
-  Sudan {m} :: Sudan
+  Sudan {{it-proper noun|m}} :: Sudan
 ===sudden===
   la {f|s} (pronoun), plural: le :: it (feminine)
     ...una improvvisa timidezza però la immobilizza... (Pasolini) :: ...a sudden timidity immobilized her though...
@@ -8217,7 +8196,7 @@ Index: EN EN->IT
 ===swing===
   swing {m} (noun) {inv} :: swing (music and dance style; golf swing)
 ===sword===
-  lama {f}, lame {pl} :: A blade (of a razor or sword)
+  lama {f}, lame {pl} :: blade (of a razor or sword)
 ===Sydney===
   Sydney {{it-proper noun|g=f}} :: Sydney (in Australia)
 ===symbol===
@@ -8247,7 +8226,7 @@ Index: EN EN->IT
 ===tank===
   tank {m} (noun) {inv} :: tank (military and container)
 ===Tanzania===
-  Tanzania {f} :: Tanzania
+  Tanzania {{it-proper noun|g=f}} :: Tanzania
 ===Taranto===
   Taranto {{it-proper noun|g=f}} :: Taranto (province)
   Taranto {{it-proper noun|g=f}} :: Taranto (city)
@@ -8338,12 +8317,9 @@ Index: EN EN->IT
   ne (pronoun) :: of them (sometimes not translated in English)
     Ce ne sono due. :: “There are two (of them).”
 ===themselves===
-  si (pronoun) :: {reflexive} oneself, himself, herself, itself, themselves; (reciprocal) each other, one another.
-    Examples: :: --
+  si (pronoun) :: {reflexive} oneself, himself, herself, itself, themselves; (reciprocal) each other, one another. Note: With some verbs, si is not translated in English.
     Giovanni si è fatto male (Giovanni has hurt himself) :: --
     Carlo e Laura si amano (Carlo and Laura love each other) :: --
-    Note: With some verbs, si is not translated in English. :: --
-    Examples: :: --
     Marco si è rotto il braccio (Marco has broken his arm) :: --
     Si è svegliata alle nove (She woke up at nine) :: --
 ===there===
@@ -8359,9 +8335,7 @@ Index: EN EN->IT
 ===theta===
   theta (noun) {m|f|inv} :: theta (Greek letter)
 ===they===
-  si (pronoun) :: {{context|indefinite}} one, you, we, they, people
-    Note: In this sense, si is often translated using the passive in English. :: --
-    Examples: :: --
+  si (pronoun) :: {{context|indefinite}} one, you, we, they, people. Note: often translated using the passive voice in English.
     Non si deve parlare così (One/You/We/They/People shouldn’t speak like that) :: --
     Si parla italiano qui (Italian is spoken here or One/You/We/They/People speak(s) Italian here) :: --
 ===things===
@@ -8432,8 +8406,6 @@ Index: EN EN->IT
 ===timidity===
   la {f|s} (pronoun), plural: le :: it (feminine)
     ...una improvvisa timidezza però la immobilizza... (Pasolini) :: ...a sudden timidity immobilized her though...
-===tiny===
-  minute {f|p} (adjective form) :: {feminine plural of|minuto} tiny, minute; fine, delicate, detailed
 ===title===
   premier {m|f} (noun) {inv} :: premier, prime minister (or similar title)
   don {m} (noun), inv :: Father (a title given to priests)
@@ -8444,7 +8416,7 @@ Index: EN EN->IT
 ===together===
   con (preposition) :: with or together
 ===Togo===
-  Togo {m} :: Togo
+  Togo {{it-proper noun|g=m}} :: Togo
 ===toilet===
   water (noun) {m|inv} :: {colloquial} water closet, toilet, rest room
 ===Tonga===
@@ -8485,7 +8457,7 @@ Index: EN EN->IT
   Bergamo {{it-proper noun|g=f}} :: Bergamo (town)
   Biella {{it-proper noun|g=f}} :: Biella (town)
   Bolzano {{it-proper noun|g=f}} :: Bolzano (town)
-  Brindisi :: Brindisi (town)
+  Brindisi {it-proper noun} :: Brindisi (town)
   Cagliari {{it-proper noun|g=f}} :: Cagliari (town)
   Campobasso {it-proper noun} :: Campobasso (town)
   Caserta {{it-proper noun|g=f}} :: Caserta (town)
@@ -8517,7 +8489,7 @@ Index: EN EN->IT
   Modena {{it-proper noun|g=f}} :: Modena (town)
   Nuoro {{it-proper noun|g=f}} :: Nuoro (town)
   Oristano {it-proper noun} :: Oristano (town)
-  Pavia {it-proper noun} :: Pavia (town)
+  Pavia {{it-proper noun|g=f}} :: Pavia (town)
   Perugia {{it-proper noun|g=f}} :: Perugia (town)
   Pescara {{it-proper noun|g=f}} :: Pescara (town)
   Piacenza {it-proper noun} :: Piacenza (town)
@@ -8544,7 +8516,6 @@ Index: EN EN->IT
   Varese {{it-proper noun|g=f}} :: Varese (town)
   Vercelli {it-proper noun} :: Vercelli (town)
   Vicenza {{it-proper noun|g=f}} :: Vicenza (town)
-  Viterbo {it-proper noun} :: Viterbo (town)
 ===toy===
   pupa {f}, pupe {pl} :: doll (child's toy)
 ===transfer===
@@ -8555,6 +8526,18 @@ Index: EN EN->IT
   vi :: it (often not translated); about it, of it, on it
   ne (pronoun) :: of them (sometimes not translated in English)
     Ce ne sono due. :: “There are two (of them).”
+  si (pronoun) :: {{context|indefinite}} one, you, we, they, people. Note: often translated using the passive voice in English.
+    Non si deve parlare così (One/You/We/They/People shouldn’t speak like that) :: --
+    Si parla italiano qui (Italian is spoken here or One/You/We/They/People speak(s) Italian here) :: --
+  si (pronoun) :: {reflexive} oneself, himself, herself, itself, themselves; (reciprocal) each other, one another. Note: With some verbs, si is not translated in English.
+    Giovanni si è fatto male (Giovanni has hurt himself) :: --
+    Carlo e Laura si amano (Carlo and Laura love each other) :: --
+    Marco si è rotto il braccio (Marco has broken his arm) :: --
+    Si è svegliata alle nove (She woke up at nine) :: --
+  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below). Note: verb + si is often translated as become or get + past participle in English.
+    Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
+    Ci vuole un po’ di tempo per abituarsi (It takes a while to become accustomed) :: --
+    A Luca piace ubriacarsi (Luca likes to get drunk) :: --
 ===translation===
   da (preposition) :: from
     Giacomino da Verona :: “Giacomino from Verona”
@@ -8644,7 +8627,7 @@ Index: EN EN->IT
 ===Udine===
   Udine {{it-proper noun|g=f}} :: Udine (province, town)
 ===Uganda===
-  Uganda {f} :: Uganda
+  Uganda {{it-proper noun|g=f}} :: Uganda
 ===UK===
   beat (adjective) {inv} :: beat (50s US literary and 70s UK music scenes)
   antenna {f}, antenne {pl} :: device to receive or transmit radio signals: aerial (UK), antenna (US)
@@ -8720,13 +8703,15 @@ Index: EN EN->IT
   dark (adjective) {inv} :: dark (used especially to describe a form of punk music)
   play! :: used to start a game of Tennis
   lui (pronoun) :: him (indirect form of lui used after a preposition)
-  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below)
-    Example: Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
-    Note: In this sense, verb + si is often translated as become or get + past participle in English. :: --
-    Examples: :: --
+  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below). Note: verb + si is often translated as become or get + past participle in English.
+    Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
     Ci vuole un po’ di tempo per abituarsi (It takes a while to become accustomed) :: --
     A Luca piace ubriacarsi (Luca likes to get drunk) :: --
   ed (conjunction) :: and (used before a vowel for euphony, instead of e)
+===using===
+  si (pronoun) :: {{context|indefinite}} one, you, we, they, people. Note: often translated using the passive voice in English.
+    Non si deve parlare così (One/You/We/They/People shouldn’t speak like that) :: --
+    Si parla italiano qui (Italian is spoken here or One/You/We/They/People speak(s) Italian here) :: --
 ===usually===
   ha! :: ah! (usually ironic or sarcastic)
 ===utopia===
@@ -8768,14 +8753,18 @@ Index: EN EN->IT
 ===venturo===
   venturi {m} :: Plural form of venturo
 ===verb===
-  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below)
-    Example: Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
-    Note: In this sense, verb + si is often translated as become or get + past participle in English. :: --
-    Examples: :: --
+  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below). Note: verb + si is often translated as become or get + past participle in English.
+    Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
     Ci vuole un po’ di tempo per abituarsi (It takes a while to become accustomed) :: --
     A Luca piace ubriacarsi (Luca likes to get drunk) :: --
 ===Verbano===
   Verbano-Cusio-Ossola {it-proper noun} :: Verbano-Cusio-Ossola
+===verbs===
+  si (pronoun) :: {reflexive} oneself, himself, herself, itself, themselves; (reciprocal) each other, one another. Note: With some verbs, si is not translated in English.
+    Giovanni si è fatto male (Giovanni has hurt himself) :: --
+    Carlo e Laura si amano (Carlo and Laura love each other) :: --
+    Marco si è rotto il braccio (Marco has broken his arm) :: --
+    Si è svegliata alle nove (She woke up at nine) :: --
 ===Vercelli===
   Vercelli {it-proper noun} :: Vercelli (province)
   Vercelli {it-proper noun} :: Vercelli (town)
@@ -8814,8 +8803,7 @@ Index: EN EN->IT
 ===vitae===
   curriculum (noun) {m} :: curriculum vitae, CV
 ===Viterbo===
-  Viterbo {it-proper noun} :: Viterbo (province)
-  Viterbo {it-proper noun} :: Viterbo (town)
+  Viterbo {it-proper noun} :: Viterbo
 ===vocativo===
   vocative {f} :: Feminine plural form of vocativo
 ===vodka===
@@ -8823,10 +8811,11 @@ Index: EN EN->IT
 ===voi===
   voi :: The second person plural familiar pronoun, voi refers to the persons who are spoken or written to: you.
 ===voice===
-  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below)
-    Example: Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
-    Note: In this sense, verb + si is often translated as become or get + past participle in English. :: --
-    Examples: :: --
+  si (pronoun) :: {{context|indefinite}} one, you, we, they, people. Note: often translated using the passive voice in English.
+    Non si deve parlare così (One/You/We/They/People shouldn’t speak like that) :: --
+    Si parla italiano qui (Italian is spoken here or One/You/We/They/People speak(s) Italian here) :: --
+  si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below). Note: verb + si is often translated as become or get + past participle in English.
+    Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
     Ci vuole un po’ di tempo per abituarsi (It takes a while to become accustomed) :: --
     A Luca piace ubriacarsi (Luca likes to get drunk) :: --
 ===volatile===
@@ -8861,9 +8850,7 @@ Index: EN EN->IT
 ===watt===
   watt (noun) {m|inv} :: watt
 ===we===
-  si (pronoun) :: {{context|indefinite}} one, you, we, they, people
-    Note: In this sense, si is often translated using the passive in English. :: --
-    Examples: :: --
+  si (pronoun) :: {{context|indefinite}} one, you, we, they, people. Note: often translated using the passive voice in English.
     Non si deve parlare così (One/You/We/They/People shouldn’t speak like that) :: --
     Si parla italiano qui (Italian is spoken here or One/You/We/They/People speak(s) Italian here) :: --
   noi :: we; us
@@ -8926,6 +8913,12 @@ Index: EN EN->IT
   wireless (adjective) {inv} :: wireless (computing)
 ===wires===
   wireless {m} (noun) {inv} :: wireless (transmission without wires)
+===With===
+  si (pronoun) :: {reflexive} oneself, himself, herself, itself, themselves; (reciprocal) each other, one another. Note: With some verbs, si is not translated in English.
+    Giovanni si è fatto male (Giovanni has hurt himself) :: --
+    Carlo e Laura si amano (Carlo and Laura love each other) :: --
+    Marco si è rotto il braccio (Marco has broken his arm) :: --
+    Si è svegliata alle nove (She woke up at nine) :: --
 ===without===
   libero {{it-adj|liber}} :: clear, unobstructed (without blockages)
     Il passaggio era libero. :: The passage was clear.
@@ -8975,7 +8968,7 @@ Index: EN EN->IT
 ===year===
   primavera {f}, primavere {pl} :: (plural, familiar) years, winters
 ===Yemen===
-  Yemen {m} :: Yemen
+  Yemen {{it-proper noun|m}} :: Yemen
 ===yes===
   ni {it-adv} :: {informal} Neither yes nor no (a play on no and si)
   sì {it-adv} :: yes
@@ -8986,9 +8979,7 @@ Index: EN EN->IT
   vi :: (second-person personal plural object pronoun): you, to you
     (noi) vi amiamo :: we love you
   grazie (interjection) :: thank you, thanks!
-  si (pronoun) :: {{context|indefinite}} one, you, we, they, people
-    Note: In this sense, si is often translated using the passive in English. :: --
-    Examples: :: --
+  si (pronoun) :: {{context|indefinite}} one, you, we, they, people. Note: often translated using the passive voice in English.
     Non si deve parlare così (One/You/We/They/People shouldn’t speak like that) :: --
     Si parla italiano qui (Italian is spoken here or One/You/We/They/People speak(s) Italian here) :: --
   ti (pronoun) :: {objective|tu}; you
@@ -9037,7 +9028,7 @@ Index: EN EN->IT
 ===zeta===
   zeta (noun) {m|f|inv} :: zeta; The letter Z/z in the Italian and Greek alphabets
 ===Zimbabwe===
-  Zimbabwe {m} :: Zimbabwe
+  Zimbabwe {{it-proper noun|g=m}} :: Zimbabwe
 ===zoo===
   zoo {m} (noun) {inv} :: zoo
 ===zoom===

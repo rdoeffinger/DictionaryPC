@@ -358,9 +358,9 @@ Index: TH TH->EN
   เชือก (chêuak) :: classifier for elephants
   เชือก (chêuak) :: rope, string, cord, thread
 ***เฌอ***
-  เฌอ (chəə) (noun) :: tree
+  เฌอ (chəə) {th-noun} :: tree
 ===chəə===
-  เฌอ (chəə) (noun) :: tree
+  เฌอ (chəə) {th-noun} :: tree
 ===chim===
   ชิม (chim) (verb) :: To taste.
 ***ชิม***
@@ -438,7 +438,7 @@ Index: TH TH->EN
 ***ใจ***
   ใจ (jai) (noun) :: heart, mind, spirit. Commonly used in combination with verbs or with other nouns.
 ***โจร***
-  โจร (jōn) (noun) :: thief
+  โจร (jōn) {th-noun} :: thief
 ***จริง***
   จริง (jing) :: real, true, actual
   จริง (jing) :: authentic, genuine
@@ -477,7 +477,7 @@ Index: TH TH->EN
 ===dee===
   ดี (dee) (adjective) :: good
 ***เดิน***
-  เดิน (dern) (verb) :: to walk
+  เดิน (dern) {th-verb} :: to walk
 ===dek===
   เด็ก (dek) (noun) :: boy
   เด็ก (dek) (noun) :: girl
@@ -493,7 +493,7 @@ Index: TH TH->EN
   เด็ก (dek) (noun) :: children
   เด็ก (dek) (noun) :: adolescent
 ===dern===
-  เดิน (dern) (verb) :: to walk
+  เดิน (dern) {th-verb} :: to walk
 ===deuan===
   เดือน (deuan) (noun) :: month.
   เดือน (deuan) (noun) :: moon.
@@ -635,8 +635,8 @@ Index: TH TH->EN
   ครู (kroo) (noun) :: teacher, schoolteacher, instructor
     ครูคนนี้ให้การบ้านเยอะจัง (kroo kon née hâi gaanbâan yúh jang) :: This teacher gives a lot of homework.
 ===gaang===
-  กงกาง (gong gaang) (noun) :: occupation, business, affair
-  กงกาง (gong gaang) (noun) :: responsibility, duty
+  กงกาง (gong gaang) {th-noun} :: occupation, business, affair
+  กงกาง (gong gaang) {th-noun} :: responsibility, duty
 ===gâao===
   ก้าว (gâao) (noun) :: To move forward
 ===gaeng===
@@ -668,8 +668,8 @@ Index: TH TH->EN
 ===gòk===
   บางกอก (baang-gòk) (proper noun) :: Bangkok
 ===gong===
-  กงกาง (gong gaang) (noun) :: occupation, business, affair
-  กงกาง (gong gaang) (noun) :: responsibility, duty
+  กงกาง (gong gaang) {th-noun} :: occupation, business, affair
+  กงกาง (gong gaang) {th-noun} :: responsibility, duty
 ===gòp===
   กบ (gòp) (noun) :: frog
   ลูกกบ (lôok gòp) (noun) :: tadpole
@@ -685,7 +685,7 @@ Index: TH TH->EN
 ===grom===
   พจนานุกรม (pótjànaanú grom) (noun) :: dictionary
 ===groong===
-  กรุง (groong) (noun) :: city
+  กรุง (groong) {th-noun} :: city
   กรุงเทพ (groong têp) (proper noun) :: Bangkok, Krungthep
 ***ห***
   ห (h; haw hēb) :: The 41st letter of the Thai alphabet
@@ -1005,7 +1005,7 @@ Index: TH TH->EN
 ===jon===
   มิถุนายน (/mɪ.tʰʊ.nɑː.jon/) (proper noun) :: June.
 ===jōn===
-  โจร (jōn) (noun) :: thief
+  โจร (jōn) {th-noun} :: thief
 ===jūb===
   จูบ (jūb) (verb) :: To kiss.
 ***ก***
@@ -1035,7 +1035,7 @@ Index: TH TH->EN
 ***ฅ้อน***
   ฅ้อน (khon) (noun) :: {obsolete}Alternative spelling of ค้อน.
 ===ka===
-  กวี (ka wī) (noun) :: poem
+  กวี (ka wī) {th-noun} :: poem
 ===kâ===
   สวัสดีค่ะ (sàwàtdee kâ) {f} (interjection) :: hello, said by females
 ***กา***
@@ -1162,15 +1162,15 @@ Index: TH TH->EN
   ครู (kroo) (noun) :: teacher, schoolteacher, instructor
     ครูคนนี้ให้การบ้านเยอะจัง (kroo kon née hâi gaanbâan yúh jang) :: This teacher gives a lot of homework.
 ===karīyā===
-  กริยา (karīyā) (noun) :: verb
-  กริยา (karīyā) (noun) :: personality
+  กริยา (karīyā) {th-noun} :: verb
+  กริยา (karīyā) {th-noun} :: personality
 ***การเงิน***
   การเงิน (gaan ngern) (noun) :: finance
   การเงิน (gaan ngern) (noun) :: monetary matters
 ===kased===
   เกษตร (kased) (noun) :: farmland
 ===kau===
-  กรกฎ (kau ra kod) (noun)Category:th:Animals :: crab
+  กรกฎ (kau ra kod) {th-noun} :: crab
 ===kaw===
   ขอ (kaw) (verb) :: To beg.
   ก่อ (kaw) (verb) :: To build.
@@ -1186,7 +1186,7 @@ Index: TH TH->EN
 ***กบ***
   กบ (gòp) (noun) :: frog
 ***กฎ***
-  กฎ (kod) (noun) :: rule
+  กฎ (kod) {th-noun} :: rule
 ***กด***
   กด (kod) (verb) :: To press.
 ***เกา***
@@ -1596,14 +1596,14 @@ Index: TH TH->EN
 ***กลืน***
   กลืน (gleun) (verb) :: To swallow.
 ***กงกาง***
-  กงกาง (gong gaang) (noun) :: occupation, business, affair
-  กงกาง (gong gaang) (noun) :: responsibility, duty
+  กงกาง (gong gaang) {th-noun} :: occupation, business, affair
+  กงกาง (gong gaang) {th-noun} :: responsibility, duty
 ===kō===
   โกหก (kō hok) (verb) :: To give false information intentionally.
 ===kod===
   กด (kod) (verb) :: To press.
-  กฎ (kod) (noun) :: rule
-  กรกฎ (kau ra kod) (noun)Category:th:Animals :: crab
+  กฎ (kod) {th-noun} :: rule
+  กรกฎ (kau ra kod) {th-noun} :: crab
   ปรากฏ (praa kod) (verb) :: To reveal.
 ===koh===
   โคมูตร (koh môot) (noun) :: cow's urine.
@@ -1653,17 +1653,17 @@ Index: TH TH->EN
 ***กรีด***
   กรีด (kleed) (verb) :: To scrape with a sharp object.
 ***กริยา***
-  กริยา (karīyā) (noun) :: verb
-  กริยา (karīyā) (noun) :: personality
+  กริยา (karīyā) {th-noun} :: verb
+  กริยา (karīyā) {th-noun} :: personality
 ***กรกฎ***
-  กรกฎ (kau ra kod) (noun)Category:th:Animals :: crab
+  กรกฎ (kau ra kod) {th-noun} :: crab
 ***กรกฎาคม***
   กรกฎาคม (karakadākhom) (proper noun)Category:th:Animals :: July
 ===kroo===
   ครู (kroo) (noun) :: teacher, schoolteacher, instructor
     ครูคนนี้ให้การบ้านเยอะจัง (kroo kon née hâi gaanbâan yúh jang) :: This teacher gives a lot of homework.
 ***กรุง***
-  กรุง (groong) (noun) :: city
+  กรุง (groong) {th-noun} :: city
 ***กรุงเทพ***
   กรุงเทพ (groong têp) (proper noun) :: Bangkok, Krungthep
 ***กู***
@@ -1725,7 +1725,7 @@ Index: TH TH->EN
 ===kwāng===
   ขว้าง (kwāng) (verb) :: to throw
 ***กวี***
-  กวี (ka wī) (noun) :: poem
+  กวี (ka wī) {th-noun} :: poem
 ***ก่อ***
   ก่อ (kaw) (verb) :: To build.
   ก่อ (kaw) (verb) :: To ignite.
@@ -2806,10 +2806,10 @@ Index: TH TH->EN
   พร (/pʰɔːn/) (proper noun) :: {{given name|female}}.
   พร (porn) (noun) :: A blessing.
 ***พระ***
-  พระ (prá) (noun) :: monk, abbot, priest, minister, cleric
-  พระ (prá) (noun) :: Buddha image, god
-  พระ (prá) (noun) :: (title used with the name of a revered person, place, or object) royal
-  พระ (prá) (noun) :: leading actor, star; hero
+  พระ (prá) {th-noun} :: monk, abbot, priest, minister, cleric
+  พระ (prá) {th-noun} :: Buddha image, god
+  พระ (prá) {th-noun} :: (title used with the name of a revered person, place, or object) royal
+  พระ (prá) {th-noun} :: leading actor, star; hero
   พระ (prá) (prefix) :: used to indicate the name of a planet or moon
     พระจันทร์ (prá-jan) :: the moon
 ***พระบาทสมเด็จพระเจ้าอยู่หัว***
@@ -2873,7 +2873,7 @@ Index: TH TH->EN
 ***พฤกษา***
   พฤกษา (pruek sa) (noun) :: tree
 ***พฤษภ***
-  พฤษภ (prued) (noun) :: A bull.
+  พฤษภ (prued) {th-noun} :: bull
 ***พฤษภาคม***
   พฤษภาคม (prueksaphākhom) (proper noun) :: May.
 ***พฤศจิกายน***
@@ -2966,10 +2966,10 @@ Index: TH TH->EN
 ===pra===
   ประกาศ (pra kād) (verb) :: declare
 ===prá===
-  พระ (prá) (noun) :: monk, abbot, priest, minister, cleric
-  พระ (prá) (noun) :: Buddha image, god
-  พระ (prá) (noun) :: (title used with the name of a revered person, place, or object) royal
-  พระ (prá) (noun) :: leading actor, star; hero
+  พระ (prá) {th-noun} :: monk, abbot, priest, minister, cleric
+  พระ (prá) {th-noun} :: Buddha image, god
+  พระ (prá) {th-noun} :: (title used with the name of a revered person, place, or object) royal
+  พระ (prá) {th-noun} :: leading actor, star; hero
   พระ (prá) (prefix) :: used to indicate the name of a planet or moon
     พระจันทร์ (prá-jan) :: the moon
   พระบาทสมเด็จพระเจ้าอยู่หัว (prábàat sŏmdèt prá jâo yù hŭa) (noun) :: Phrabat Somdej Phra Chao Yu Hua (a title of the King of Thailand)
@@ -3082,7 +3082,7 @@ Index: TH TH->EN
 ===pro===
   เพราะว่า (pro wā) (conjunction) :: for
 ===prued===
-  พฤษภ (prued) (noun) :: A bull.
+  พฤษภ (prued) {th-noun} :: bull
   ราศีพฤษภ (rāsī prued) (proper noun) :: Taurus
 ===pruedsajikāyon===
   พฤศจิกายน (pruedsajikāyon) (proper noun) :: November.
@@ -3114,7 +3114,7 @@ Index: TH TH->EN
   ร (r; raw ruea) :: The 35th letter of the Thai alphabet
 ===ra===
   คารวะ (cā ra wa) (noun) :: respect
-  กรกฎ (kau ra kod) (noun)Category:th:Animals :: crab
+  กรกฎ (kau ra kod) {th-noun} :: crab
   รฦก (ra luenk) (verb) :: {obsolete}Alternative spelling of ระลึก.
 ***รำ***
   รำ (ram) (verb) :: to dance
@@ -3155,9 +3155,9 @@ Index: TH TH->EN
   รัก (rak) (verb) :: to love
     พวกเขารักกันมาก :: They love each other so much.
 ===rakhang===
-  ระฆัง (rakhang) (noun) :: bell
+  ระฆัง (rakhang) {th-noun} :: bell
 ***ระฆัง***
-  ระฆัง (rakhang) (noun) :: bell
+  ระฆัง (rakhang) {th-noun} :: bell
 ***รักษา***
   รักษา (raksa) (verb) :: To heal
   รักษา (raksa) (verb) :: To cure
@@ -3269,7 +3269,7 @@ Index: TH TH->EN
   หรือ (rĕu) (conjunction) :: or
   หรือ (rĕu) (particle) :: final interrogative particle on a yes/no question
 ===reua===
-  เรือ (reua) (noun) :: boat
+  เรือ (reua) {th-noun} :: boat
 ===rêuat===
   เรือด (rêuat) (noun) :: bedbug
 ===reudoo===
@@ -3277,7 +3277,7 @@ Index: TH TH->EN
 ===reuthai===
   ฤทัย (reuthai) (noun) :: A heart .
 ***เรือ***
-  เรือ (reua) (noun) :: boat
+  เรือ (reua) {th-noun} :: boat
 ***เรือด***
   เรือด (rêuat) (noun) :: bedbug
 ***เร็ว***
@@ -4054,7 +4054,7 @@ Index: TH TH->EN
 ===thè===
   เทวะ (thè wa) (noun) :: a deity
 ***เทียน***
-  เทียน (tian) (noun) :: candle
+  เทียน (tian) {th-noun} :: candle
 ===thèp===
   เทพ (thèp) (noun) :: a deity
 ***เทพ***
@@ -4138,11 +4138,11 @@ Index: TH TH->EN
 ***โทรทัศน์***
   โทรทัศน์ (thorāthāt) (noun) :: television (medium), TV
 ***โทษะ***
-  โทษะ (thosa) (noun) :: blame.
-  โทษะ (thosa) (noun) :: mistake.
+  โทษะ (thosa) {th-noun} :: blame
+  โทษะ (thosa) {th-noun} :: mistake
 ===thosa===
-  โทษะ (thosa) (noun) :: blame.
-  โทษะ (thosa) (noun) :: mistake.
+  โทษะ (thosa) {th-noun} :: blame
+  โทษะ (thosa) {th-noun} :: mistake
 ***ทรัพย์***
   ทรัพย์ (sab) (noun) :: A property.
   ทรัพย์ (sab) (noun) :: wealth.
@@ -4220,7 +4220,7 @@ Index: TH TH->EN
   ตี๋ (tī) (noun) :: A Chinese man.
   ตี๋ (tī) (noun) :: A man.
 ===tian===
-  เทียน (tian) (noun) :: candle
+  เทียน (tian) {th-noun} :: candle
 ===tip===
   ทิพย์ (tip) (noun) :: divine
 ***ใต้***
@@ -4435,7 +4435,7 @@ Index: TH TH->EN
 ===wi===
   วิหก (wi hok) (noun) :: bird
 ===wī===
-  กวี (ka wī) (noun) :: poem
+  กวี (ka wī) {th-noun} :: poem
 ===wiaadnnaam===
   ภาษาเวียดนาม (paasăa wiaadnnaam) (proper noun) :: The Vietnamese language.
 ===wian===
@@ -4851,7 +4851,7 @@ Index: EN EN->TH
 ===9===
   ๙ (เก้า, kào) :: 9 (nine)
 ===abbot===
-  พระ (prá) (noun) :: monk, abbot, priest, minister, cleric
+  พระ (prá) {th-noun} :: monk, abbot, priest, minister, cleric
 ===abbreviation===
   ฯลฯ (paiyanyai) (noun) :: abbreviation indicator.
 ===about===
@@ -4861,7 +4861,7 @@ Index: EN EN->TH
 ===act===
   ทำ (tham) (verb) :: To act.
 ===actor===
-  พระ (prá) (noun) :: leading actor, star; hero
+  พระ (prá) {th-noun} :: leading actor, star; hero
 ===actual===
   จริง (jing) :: real, true, actual
 ===adhere===
@@ -4873,7 +4873,7 @@ Index: EN EN->TH
 ===advertisement===
   โฆษณา (khôdsanaa) :: advertisement
 ===affair===
-  กงกาง (gong gaang) (noun) :: occupation, business, affair
+  กงกาง (gong gaang) {th-noun} :: occupation, business, affair
 ===after===
   หลัง (lăng) :: next, after, later, hind
   หลัง (lăng) :: after, past
@@ -5145,7 +5145,7 @@ Index: EN EN->TH
   เชื่อ (chuea) (verb) :: To believe.
 ===bell===
   พริกหยวก (prik yuak) (noun) :: bell pepper
-  ระฆัง (rakhang) (noun) :: bell
+  ระฆัง (rakhang) {th-noun} :: bell
 ===belongings===
   ของ (khawng) (noun) :: A belongings.
 ===beloved===
@@ -5182,7 +5182,7 @@ Index: EN EN->TH
   กาล (kān) (noun) :: black cobra
 ===blame===
   ตำหนิ (tam ni) (verb) :: To blame.
-  โทษะ (thosa) (noun) :: blame.
+  โทษะ (thosa) {th-noun} :: blame
 ===blend===
   ปั่น (pan) (verb) :: To blend something in a blender.
 ===blender===
@@ -5202,7 +5202,7 @@ Index: EN EN->TH
   ฟ้า (fáa) (adjective) :: light blue, sky blue
 ===boat===
   เป็ด (bpèt) (noun) :: duck-shaped boat
-  เรือ (reua) (noun) :: boat
+  เรือ (reua) {th-noun} :: boat
   ลง (long) (verb) :: To disembark from (a bus, a boat, etc.).
 ===body===
   กาย (kāy) (noun) :: body
@@ -5258,7 +5258,7 @@ Index: EN EN->TH
 ===bucket===
   ถัง (tăng) (noun) :: bucket
 ===Buddha===
-  พระ (prá) (noun) :: Buddha image, god
+  พระ (prá) {th-noun} :: Buddha image, god
 ===buddhist===
   วัด (wát) :: a wat: a type of buddhist temple
 ===Buddhist===
@@ -5270,7 +5270,7 @@ Index: EN EN->TH
   สร้าง (sāng) (verb) :: To build.
   ก่อ (kaw) (verb) :: To build.
 ===bull===
-  พฤษภ (prued) (noun) :: A bull.
+  พฤษภ (prued) {th-noun} :: bull
 ===Burma===
   พม่า (pámâa) (proper noun) :: Myanmar, Burma
 ===Burmese===
@@ -5284,7 +5284,7 @@ Index: EN EN->TH
 ===bus===
   ลง (long) (verb) :: To disembark from (a bus, a boat, etc.).
 ===business===
-  กงกาง (gong gaang) (noun) :: occupation, business, affair
+  กงกาง (gong gaang) {th-noun} :: occupation, business, affair
   ธุรกิจ (thurakid) (noun) :: business
   กิจการ (kijakan) (noun) :: business
   เศรษฐกิจ (sethakid) (noun) :: business
@@ -5311,7 +5311,7 @@ Index: EN EN->TH
 ===Cancer===
   ราศีกรกฎ (rāsī karakod) (proper noun) :: Cancer
 ===candle===
-  เทียน (tian) (noun) :: candle
+  เทียน (tian) {th-noun} :: candle
 ===Cantonese===
   ภาษาจีนกวางตุ้ง (paasăa jeen kwaangtung) (proper noun) :: the Cantonese language
 ===capable===
@@ -5414,7 +5414,7 @@ Index: EN EN->TH
 ===city===
   เมือง (meuang) (noun) :: city, town
   นคร (nakorn) (noun) :: city, town
-  กรุง (groong) (noun) :: city
+  กรุง (groong) {th-noun} :: city
 ===classical===
   ฉิ่ง (ching) :: a pair of small cymbals used in the classical and folk music of Thailand
 ===classified===
@@ -5422,7 +5422,7 @@ Index: EN EN->TH
 ===classifier===
   เชือก (chêuak) :: classifier for elephants
 ===cleric===
-  พระ (prá) (noun) :: monk, abbot, priest, minister, cleric
+  พระ (prá) {th-noun} :: monk, abbot, priest, minister, cleric
 ===climb===
   ปีน (peen) (verb) :: To climb.
 ===cling===
@@ -5525,7 +5525,7 @@ Index: EN EN->TH
   เยี่ยววัว (yîeow wua) (noun) :: cow's urine
   วัว (wua) (noun) :: a cow
 ===crab===
-  กรกฎ (kau ra kod) (noun)Category:th:Animals :: crab
+  กรกฎ (kau ra kod) {th-noun} :: crab
 ===crawl===
   คาน (khān) (verb) :: To crawl.
 ===crazy===
@@ -5719,7 +5719,7 @@ Index: EN EN->TH
 ===Dutch===
   ภาษาดัตช์ (paasăa dad) (proper noun) :: The Dutch language.
 ===duty===
-  กงกาง (gong gaang) (noun) :: responsibility, duty
+  กงกาง (gong gaang) {th-noun} :: responsibility, duty
 ===dwell===
   อยู่ (yū) (verb) :: To dwell.
 ===each===
@@ -6041,7 +6041,7 @@ Index: EN EN->TH
 ===goat===
   พริกชี้ฟ้า (prik shē fā) (noun) :: goat pepper
 ===god===
-  พระ (prá) (noun) :: Buddha image, god
+  พระ (prá) {th-noun} :: Buddha image, god
   กาล (kān) (noun) :: the god Siva
 ===goddess===
   เทวี (thèwī) (noun) :: a goddess
@@ -6172,7 +6172,7 @@ Index: EN EN->TH
   ฤษี (rue sī) (noun) :: hermit
   ฤๅษี (rue sī) (noun) :: hermit
 ===hero===
-  พระ (prá) (noun) :: leading actor, star; hero
+  พระ (prá) {th-noun} :: leading actor, star; hero
 ===hesitate===
   ลังเล (lang lē) (verb) :: To hesitate.
 ===hi===
@@ -6239,7 +6239,7 @@ Index: EN EN->TH
 ===ignite===
   ก่อ (kaw) (verb) :: To ignite.
 ===image===
-  พระ (prá) (noun) :: Buddha image, god
+  พระ (prá) {th-noun} :: Buddha image, god
 ===images===
   วิหาร (wíhăan) :: a meeting room or prayer room containing religious images in a Buddhist monastery
 ===imagine===
@@ -6515,7 +6515,7 @@ Index: EN EN->TH
 ===leader===
   นาย (naai) (noun) :: superior, master, head, boss, chief, leader, commander
 ===leading===
-  พระ (prá) (noun) :: leading actor, star; hero
+  พระ (prá) {th-noun} :: leading actor, star; hero
 ===lean===
   พาด (pād) (verb) :: To lean.
 ===learn===
@@ -6772,7 +6772,7 @@ Index: EN EN->TH
   หฤทัย (hareuthai) (noun) :: mind
   ใจ (jai) (noun) :: heart, mind, spirit. Commonly used in combination with verbs or with other nouns.
 ===minister===
-  พระ (prá) (noun) :: monk, abbot, priest, minister, cleric
+  พระ (prá) {th-noun} :: monk, abbot, priest, minister, cleric
 ===ministry===
   กระทรวง (gràsuang) :: ministry
 ===Ministry===
@@ -6780,7 +6780,7 @@ Index: EN EN->TH
 ===minute===
   นาที (nathi) (noun) :: minute
 ===mistake===
-  โทษะ (thosa) (noun) :: mistake.
+  โทษะ (thosa) {th-noun} :: mistake
 ===mister===
   นาย (naai) (noun) :: mister, Mr.
 ===mix===
@@ -6800,7 +6800,7 @@ Index: EN EN->TH
 ===money===
   เงิน (ngern) (noun) :: money
 ===monk===
-  พระ (prá) (noun) :: monk, abbot, priest, minister, cleric
+  พระ (prá) {th-noun} :: monk, abbot, priest, minister, cleric
 ===monkey===
   ลิง (ling) :: monkey
   วานร (vanorn) (noun) :: monkey
@@ -6875,7 +6875,7 @@ Index: EN EN->TH
   นาม (nām) (noun) :: name
   นามสกุล (nām sa kun) (noun) :: last name.
   ณ (nā) (preposition) :: of, from (a kingdom, when used as a part of a Thai noble family name)
-  พระ (prá) (noun) :: (title used with the name of a revered person, place, or object) royal
+  พระ (prá) {th-noun} :: (title used with the name of a revered person, place, or object) royal
   พระ (prá) (prefix) :: used to indicate the name of a planet or moon
     พระจันทร์ (prá-jan) :: the moon
 ===nation===
@@ -6961,11 +6961,11 @@ Index: EN EN->TH
 ===object===
   กรีด (kleed) (verb) :: To scrape with a sharp object.
   หาง (hāng) (noun) :: An object's end
-  พระ (prá) (noun) :: (title used with the name of a revered person, place, or object) royal
+  พระ (prá) {th-noun} :: (title used with the name of a revered person, place, or object) royal
 ===observe===
   ทำ (tham) (verb) :: To observe.
 ===occupation===
-  กงกาง (gong gaang) (noun) :: occupation, business, affair
+  กงกาง (gong gaang) {th-noun} :: occupation, business, affair
   คน (khon) (prefix) :: (agent prefix, person who) -er, -or (designating an occupation)
 ===ocean===
   มหาสมุทร (mahā samud) (noun) :: ocean.
@@ -7098,7 +7098,7 @@ Index: EN EN->TH
   เข้าใจ (khao jai) (verb) :: To perceive.
   รับรู้ (rab rū) (verb) :: To perceive.
 ===personality===
-  กริยา (karīyā) (noun) :: personality
+  กริยา (karīyā) {th-noun} :: personality
 ===pertaining===
   รัสเซีย (rátsia) (adjective) :: pertaining to Russia, Russian, or Russians.
   เหลี่ยม (lìam) (adjective) :: pertaining to edges or sides, -sided, -edged
@@ -7139,7 +7139,7 @@ Index: EN EN->TH
 ===place===
   ไป :: To go (move to another place).
   ณ (nā) (preposition) :: on (a place or date)
-  พระ (prá) (noun) :: (title used with the name of a revered person, place, or object) royal
+  พระ (prá) {th-noun} :: (title used with the name of a revered person, place, or object) royal
 ===planet===
   พระ (prá) (prefix) :: used to indicate the name of a planet or moon
     พระจันทร์ (prá-jan) :: the moon
@@ -7157,7 +7157,7 @@ Index: EN EN->TH
 ===plug===
   เสียบ (siāb) (verb) :: To plug.
 ===poem===
-  กวี (ka wī) (noun) :: poem
+  กวี (ka wī) {th-noun} :: poem
   โคมูตร (koh môot) (noun) :: {{context|typography|chiefly|in poetry}} Thai punctuation mark ๛, marking the end of a story or poem
   เยี่ยววัว (yîeow wua) (noun) :: {{context|typography|chiefly|in poetry}} Thai punctuation mark ๛, marking the end of a story or poem
 ===poison===
@@ -7201,7 +7201,7 @@ Index: EN EN->TH
 ===pretend===
   แกล้ง (klaeng) (verb) :: To pretend.
 ===priest===
-  พระ (prá) (noun) :: monk, abbot, priest, minister, cleric
+  พระ (prá) {th-noun} :: monk, abbot, priest, minister, cleric
 ===prince===
   ราชกุมาร (rachakuman) (noun) :: A prince.
 ===Prince===
@@ -7343,13 +7343,13 @@ Index: EN EN->TH
 ===respond===
   โต้ (tō) (verb) :: To respond.
 ===responsibility===
-  กงกาง (gong gaang) (noun) :: responsibility, duty
+  กงกาง (gong gaang) {th-noun} :: responsibility, duty
 ===rest===
   พัก (pak) (verb) :: To rest.
 ===reveal===
   ปรากฏ (praa kod) (verb) :: To reveal.
 ===revered===
-  พระ (prá) (noun) :: (title used with the name of a revered person, place, or object) royal
+  พระ (prá) {th-noun} :: (title used with the name of a revered person, place, or object) royal
 ===rice===
   ข้าว (khâao) (noun) :: rice
   นา (naa) (noun) :: rice field.
@@ -7374,7 +7374,7 @@ Index: EN EN->TH
 ===row===
   บรรทัด (bantát) :: row
 ===royal===
-  พระ (prá) (noun) :: (title used with the name of a revered person, place, or object) royal
+  พระ (prá) {th-noun} :: (title used with the name of a revered person, place, or object) royal
   หลวง (lŭang) (adjective) :: royal, of the court, of the crown
 ===rub===
   สี (sěe) (verb) :: To rub.
@@ -7388,7 +7388,7 @@ Index: EN EN->TH
 ===ruin===
   วินาศ (winaad) (adjective) :: ruin.
 ===rule===
-  กฎ (kod) (noun) :: rule
+  กฎ (kod) {th-noun} :: rule
 ===ruler===
   บรรทัด (bantát) :: ruler, straightedge (for measuring or drawing straight lines)
 ===rumor===
@@ -7729,7 +7729,7 @@ Index: EN EN->TH
   ยืน (yūen) (verb) :: To stand.
 ===star===
   ดารา (daaraa) (noun) :: A star.
-  พระ (prá) (noun) :: leading actor, star; hero
+  พระ (prá) {th-noun} :: leading actor, star; hero
 ===stare===
   มอง (mawng) (verb) :: To stare.
 ===stars===
@@ -8002,7 +8002,7 @@ Index: EN EN->TH
   รัก (rak) (verb) :: to love
     พวกเขารักกันมาก :: They love each other so much.
 ===thief===
-  โจร (jōn) (noun) :: thief
+  โจร (jōn) {th-noun} :: thief
   ขโมย (khamoi) (noun) :: A thief.
 ===think===
   คิด (khid) (verb) :: to think
@@ -8052,7 +8052,7 @@ Index: EN EN->TH
 ===tire===
   ยาง (yaang) :: tire, rubber
 ===title===
-  พระ (prá) (noun) :: (title used with the name of a revered person, place, or object) royal
+  พระ (prá) {th-noun} :: (title used with the name of a revered person, place, or object) royal
   สมเด็จเจ้าพระยา (sŏmdèt jâao práyaa) (noun) :: Somdej Chao Phraya, Prince (most senior Thai title for males)
   พระบาทสมเด็จพระเจ้าอยู่หัว (prábàat sŏmdèt prá jâo yù hŭa) (noun) :: Phrabat Somdej Phra Chao Yu Hua (a title of the King of Thailand)
 ===tomorrow===
@@ -8078,7 +8078,7 @@ Index: EN EN->TH
 ===tree===
   ต้นไม้ (tònmai) (noun) :: tree
   พฤกษา (pruek sa) (noun) :: tree
-  เฌอ (chəə) (noun) :: tree
+  เฌอ (chəə) {th-noun} :: tree
   ต้นตาล (ton tān) (noun) :: A palm tree
   ตาล (tān) (noun) :: A palm tree.
 ===tricycle===
@@ -8143,7 +8143,7 @@ Index: EN EN->TH
   ณ (nā) (preposition) :: of, from (a kingdom, when used as a part of a Thai noble family name)
   อุทัย (uthai) (verb) :: To rise (used by Sun or stars).
   ยำ (yam) (verb) :: To mix (used to cook salad).
-  พระ (prá) (noun) :: (title used with the name of a revered person, place, or object) royal
+  พระ (prá) {th-noun} :: (title used with the name of a revered person, place, or object) royal
   พระ (prá) (prefix) :: used to indicate the name of a planet or moon
     พระจันทร์ (prá-jan) :: the moon
   ใจ (jai) (noun) :: heart, mind, spirit. Commonly used in combination with verbs or with other nouns.
@@ -8159,7 +8159,7 @@ Index: EN EN->TH
   ตุ๊กตุ๊ก (dtóok-dtóok) :: tuk-tuk (a motorized tricycle, a small 3-wheeled motorised vehicle, very common in Thailand).
   ตุ๊กๆ (dtóok-dtóok) :: tuk-tuk (a motorized tricycle, a small 3-wheeled motorised vehicle, very common in Thailand).
 ===verb===
-  กริยา (karīyā) (noun) :: verb
+  กริยา (karīyā) {th-noun} :: verb
   กาล (kān) (noun) :: {linguistics} verb tense
 ===verbs===
   ใจ (jai) (noun) :: heart, mind, spirit. Commonly used in combination with verbs or with other nouns.
@@ -8204,7 +8204,7 @@ Index: EN EN->TH
 ===Wales===
   เวลส์ (weél) (proper noun) :: Wales
 ===walk===
-  เดิน (dern) (verb) :: to walk
+  เดิน (dern) {th-verb} :: to walk
 ===wall===
   ภิตติ (pid ti) (noun) :: wall
 ===walrus===
