@@ -14,6 +14,7 @@
 
 package com.hughes.android.dictionary.engine;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.LinkedHashMap;
 import java.util.LinkedHashSet;
@@ -31,47 +32,128 @@ public class DictionaryBuilderMain extends TestCase {
   static final String INPUTS = "data/inputs/";
   static final String STOPLISTS = "data/inputs/stoplists/";
   static final String OUTPUTS = "data/outputs/";  
+
+  
+  static final Map<String,String>  isoToDedication = new LinkedHashMap<String, String>();
+  static {
+  isoToDedication.put("AF", "Afrikaans dictionary dedicated to Heiko and Mariëtte Horn.");
+  isoToDedication.put("HR", "Croatian dictionary dedicated to Ines Viskic and Miro Kresonja.");
+  isoToDedication.put("NL", "Dutch dictionary dedicated to Mike LeBeau.");
+  // German handled in file.
+  isoToDedication.put("EL", "Greek dictionary dedicated to Noah Egge.");
+  isoToDedication.put("IT", "Italian dictionary dedicated to Carolina Tropini, my favorite stardust in the whole universe!  Ti amo!");
+  isoToDedication.put("KO", "Korean dictionary dedicated to Ande Elwood--fall fashion und Fernsehturms!");
+  isoToDedication.put("PT", "Portuguese dictionary dedicated to Carlos Melo, one Tough Mudder.");
+  isoToDedication.put("RO", "Romanian dictionary dedicated to Radu Teodorescu.");
+  isoToDedication.put("RU", "Russian dictionary dedicated to Maxim Aronin--best friend always!.");
+  isoToDedication.put("SR", "Serbian dictionary dedicated to Filip Crnogorac--thanks for the honey.");
+  isoToDedication.put("ES", "Spanish dictionary made especially for Carolina Tropini! <3 XoXoXXXXX!");
+  isoToDedication.put("SV", "Swedish dictionary dedicated to Kajsa Palmblad--björn kramar!");
+  }
+  private static String getDedication(String iso) {
+    return isoToDedication.containsKey(iso) ? "\n\n" + isoToDedication.get(iso) : "";
+  }
+  
+  static final Map<String,String>  isoToStoplist = new LinkedHashMap<String, String>();
+  static {
+  isoToStoplist.put("DE", "de.txt");
+  isoToStoplist.put("EN", "en.txt");
+  isoToStoplist.put("ES", "es.txt");
+  isoToStoplist.put("IT", "it.txt");
+  isoToStoplist.put("FR", "fr.txt");
+  }
+  private static String getStoplist(String iso) {
+    return isoToStoplist.containsKey(iso) ? isoToStoplist.get(iso) : "empty.txt";
+  }
+  
+  static List<String> getMainArgs(final String[] pair) {
+    final List<String> result = new ArrayList<String>();
     
+    final String lang1 = pair[0];
+    final String lang2 = pair[1];
+    
+    final String dictFile = String.format("%s/%s-%s.quickdic", 
+        OUTPUTS, lang1, lang2);
+    
+    result.add(String.format("--dictOut=%s", dictFile));
+    result.add(String.format("--lang1Stoplist=%s", STOPLISTS + getStoplist(lang1)));
+    result.add(String.format("--lang2Stoplist=%s", STOPLISTS + getStoplist(lang2)));
+
+    int i = 2;
+    
+    // Deal with the pairs where one is English.
+    if (Arrays.asList(pair).contains("EN")) {
+      final String foreignIso = pair[0].equals("EN") ? pair[1] : pair[0];
+      
+      
+      String foreignRegex = WiktionaryLangs.isoCodeToEnWikiName.get(foreignIso);
+      if (foreignIso.equals("ZH")) {
+        // HACK: The missing "e" prevents a full match, causing "Cantonese" to be appended to the entries.
+        foreignRegex = "Chinese|Mandarin|Cantones";
+      }
+      
+      final int enIndex;
+      if (foreignIso.equals("DE")) {
+        // German-English is a special case since it was the first ever QuickDic!
+        result.add(String.format("--lang1=%s", "DE"));
+        result.add(String.format("--lang2=%s", "EN"));
+        result.add("--dictInfo=@" + INPUTS + "de-en_chemnitz_enwiktionary.info");
+
+        enIndex = 2;
+      } else {
+        result.add(String.format("--lang1=%s", "EN"));
+        result.add(String.format("--lang2=%s",  foreignIso));
+        result.add(String.format("--dictInfo=(EN)Wikitionary-based EN-%s dictionary.%s", foreignIso, getDedication(foreignIso)));
+        enIndex = 1;
+      }
+      
+      result.add(String.format("--input%d=%s/wikiSplit/en/%s.data", i, INPUTS, foreignIso));
+      result.add(String.format("--input%dName=enwiktionary.%s", i, foreignIso)) ;
+      result.add(String.format("--input%dFormat=enwiktionary", i));
+      result.add(String.format("--input%dWiktionaryType=EnForeign", i));
+      result.add(String.format("--input%dLangPattern=%s", i, foreignRegex));
+      result.add(String.format("--input%dLangCodePattern=%s", i, foreignIso.toLowerCase()));
+      result.add(String.format("--input%dEnIndex=%d", i, enIndex));
+      ++i;
+
+      result.add(String.format("--input%d=%swikiSplit/en/EN.data", i, INPUTS));
+      result.add(String.format("--input%dName=enwiktionary.english", i));
+      result.add(String.format("--input%dFormat=enwiktionary", i));
+      result.add(String.format("--input%dWiktionaryType=EnToTranslation", i));
+      result.add(String.format("--input%dLangPattern=%s", i, foreignRegex));
+      result.add(String.format("--input%dLangCodePattern=%s", i, foreignIso.toLowerCase()));
+      result.add(String.format("--input%dEnIndex=%d", i, enIndex));
+      ++i;
+      
+      if (foreignIso.equals("DE")) {
+        result.add(String.format("--input%d=%sde-en_chemnitz.txt", i, INPUTS));
+        result.add(String.format("--input%dName=chemnitz", i));
+        result.add(String.format("--input%dCharset=UTF8", i));
+        result.add(String.format("--input%dFormat=chemnitz", i));
+        ++i;
+      }
+    } else {
+      // Pairs without English.
+      result.add(String.format("--lang1=%s", lang1));
+      result.add(String.format("--lang2=%s", lang2));
+      
+      result.add(String.format("--input%d=%swikiSplit/en/EN.data", i, INPUTS));
+      result.add(String.format("--input%dName=BETA!enwiktionary.%s-%s", i, lang1, lang2));
+      result.add(String.format("--input%dFormat=%s", i, EnTranslationToTranslationParser.NAME));
+      result.add(String.format("--input%dLangPattern1=%s", i, lang1));
+      result.add(String.format("--input%dLangPattern2=%s", i, lang2));
+      ++i;
+    }
+    return result;
+  }
+
   public static void main(final String[] args) throws Exception {
     
-    // Builds all the dictionaries it can, outputs list to a text file.
-    
-    final Map<String,String> isoToWikiName = new LinkedHashMap<String, String>(WiktionaryLangs.isoCodeToWikiName);
-    isoToWikiName.remove("EN");
-    isoToWikiName.remove("DE");
-
-    final Map<String,String>  isoToDedication = new LinkedHashMap<String, String>();
-    isoToDedication.put("AF", "Afrikaans dictionary dedicated to Heiko and Mariëtte Horn.");
-    isoToDedication.put("HR", "Croatian dictionary dedicated to Ines Viskic and Miro Kresonja.");
-    isoToDedication.put("NL", "Dutch dictionary dedicated to Mike LeBeau.");
-    // German handled in file.
-    isoToDedication.put("EL", "Greek dictionary dedicated to Noah Egge.");
-    isoToDedication.put("IT", "Italian dictionary dedicated to Carolina Tropini, my favorite stardust in the whole universe!  Ti amo!");
-    isoToDedication.put("KO", "Korean dictionary dedicated to Ande Elwood--fall fashion und Fernsehturms!");
-    isoToDedication.put("PT", "Portuguese dictionary dedicated to Carlos Melo, one Tough Mudder.");
-    isoToDedication.put("RO", "Romanian dictionary dedicated to Radu Teodorescu.");
-    isoToDedication.put("RU", "Russian dictionary dedicated to Maxim Aronin--best friend always!.");
-    isoToDedication.put("SR", "Serbian dictionary dedicated to Filip Crnogorac--thanks for the honey.");
-    isoToDedication.put("ES", "Spanish dictionary made especially for Carolina Tropini! <3 XoXoXXXXX!");
-    isoToDedication.put("SV", "Swedish dictionary dedicated to Kajsa Palmblad--björn kramar!");
-
-    final Map<String,String>  isoToStoplist = new LinkedHashMap<String, String>();
-    isoToStoplist.put("DE", "de.txt");
-    isoToStoplist.put("EN", "en.txt");
-    isoToStoplist.put("ES", "es.txt");
-    isoToStoplist.put("IT", "it.txt");
-    isoToStoplist.put("FR", "fr.txt");
-
-    final Map<String,String>  isoToRegex = new LinkedHashMap<String, String>();
-    // HACK: The missing "e" prevents a full match, causing "Cantonese" to be appended to the entries.
-    isoToRegex.put("ZH", "Chinese|Mandarin|Cantones");
-    
+    final List<String[]> allPairs = new ArrayList<String[]>();
     
     // Build the non EN ones.
-    
     final String[][] nonEnPairs = new String[][] {
         
-        /*
         {"AR", "DE" },
         {"AR", "ES" },
         {"AR", "FR" },
@@ -148,14 +230,24 @@ public class DictionaryBuilderMain extends TestCase {
         {"PL", "RU" },  // Polish
         {"PL", "HU" },  // Polish
         {"PL", "ES" },  // Polish
-
-        */
         
+        //{"TR", "EL" },  // Turkish, Greek
 
     };
+    allPairs.addAll(Arrays.asList(nonEnPairs));
     
+    // Add all the EN-XX pairs.
+    for (final String isoCode : WiktionaryLangs.isoCodeToEnWikiName.keySet()) {
+      if (isoCode.equals("EN") || isoCode.equals("DE")) {
+        continue;
+      }
+      allPairs.add(new String[] {"EN", isoCode});
+    }
+    allPairs.add(new String[] {"EN", "DE"});
+    
+        
     final Set<List<String>> done = new LinkedHashSet<List<String>>();
-    for (final String[] pair : nonEnPairs) {
+    for (final String[] pair : allPairs) {
       Arrays.sort(pair);
       final List<String> pairList = Arrays.asList(pair);
       if (done.contains(pairList)) {
@@ -163,127 +255,8 @@ public class DictionaryBuilderMain extends TestCase {
       }
       done.add(pairList);
       
-      final String lang1 = pair[0];
-      final String lang2 = pair[1];
-      
-      final String dictFile = String.format("%s/%s-%s_enwiktionary_BETA.quickdic", 
-          OUTPUTS, lang1, lang2);
-      System.out.println("building dictFile: " + dictFile);
-
-      if (!isoToStoplist.containsKey(lang1)) {
-        isoToStoplist.put(lang1, "empty.txt");
-      }
-      if (!isoToStoplist.containsKey(lang2)) {
-        isoToStoplist.put(lang2, "empty.txt");
-      }
-      
-      DictionaryBuilder.main(new String[] {
-          String.format("--dictOut=%s", dictFile),
-          String.format("--lang1=%s", lang1),
-          String.format("--lang2=%s", lang2),
-          String.format("--lang1Stoplist=%s", STOPLISTS + isoToStoplist.get(lang1)),
-          String.format("--lang2Stoplist=%s", STOPLISTS + isoToStoplist.get(lang2)),
-          String.format("--dictInfo=(EN)Wikitionary-based %s-%s dictionary.", lang1, lang2),
-
-          String.format("--input2=%swikiSplit/en/EN.data", INPUTS),
-          String.format("--input2Name=BETA!enwiktionary.%s-%s", lang1, lang2),
-          String.format("--input2Format=%s", EnTranslationToTranslationParser.NAME),
-          String.format("--input2LangPattern1=%s", lang1),
-          String.format("--input2LangPattern2=%s", lang2),
-      });
+      DictionaryBuilder.main(getMainArgs(pair).toArray(new String[0]));
     }
-    if (1==1) {
-      //return;
-    }
-
-
-    // Now build the EN ones.
     
-//    isoToWikiName.keySet().retainAll(Arrays.asList("UK", "HR", "FI"));
-    //isoToWikiName.clear();
-    boolean go = false;
-    for (final String foreignIso : isoToWikiName.keySet()) {
-      if (foreignIso.equals("SL")) {
-        go = true;
-      }
-      if (!go) {
-        continue;
-      }
-
-        final String dictFile = String.format("%s/EN-%s_enwiktionary.quickdic", OUTPUTS, foreignIso);
-        System.out.println("building dictFile: " + dictFile);
-        
-        if (!isoToStoplist.containsKey(foreignIso)) {
-          isoToStoplist.put(foreignIso, "empty.txt");
-        }
-        if (!isoToDedication.containsKey(foreignIso)) {
-          isoToDedication.put(foreignIso, "");
-        }
-        if (!isoToRegex.containsKey(foreignIso)) {
-          isoToRegex.put(foreignIso, isoToWikiName.get(foreignIso));
-        }
-  
-        DictionaryBuilder.main(new String[] {
-            String.format("--dictOut=%s", dictFile),
-            String.format("--lang1=EN"),
-            String.format("--lang2=%s", foreignIso),
-            String.format("--lang1Stoplist=%s", STOPLISTS + isoToStoplist.get("EN")),
-            String.format("--lang2Stoplist=%s", STOPLISTS + isoToStoplist.get(foreignIso)),
-            String.format("--dictInfo=(EN)Wikitionary-based EN-%s dictionary.\n\n%s", foreignIso, isoToDedication.get(foreignIso)),
-
-            "--input2=" + INPUTS + "wikiSplit/en/" + foreignIso + ".data",
-            "--input2Name=enwiktionary." + foreignIso,
-            "--input2Format=enwiktionary",
-            "--input2WiktionaryType=EnForeign",
-            "--input2LangPattern=" + isoToRegex.get(foreignIso),
-            "--input2LangCodePattern=" + foreignIso.toLowerCase(),
-            "--input2EnIndex=1",
-
-            "--input3=" + INPUTS + "wikiSplit/en/EN.data",
-            "--input3Name=enwiktionary.english",
-            "--input3Format=enwiktionary",
-            "--input3WiktionaryType=EnToTranslation",
-            "--input3LangPattern=" + isoToRegex.get(foreignIso),
-            "--input3LangCodePattern=" + foreignIso.toLowerCase(),
-            "--input3EnIndex=1",
-
-        });
-        
-    }  // foreignIso
-
-    // Now special case German-English.
-
-    final String dictFile = String.format("%s/DE-EN_chemnitz_enwiktionary.quickdic", OUTPUTS);
-    DictionaryBuilder.main(new String[] {
-        "--dictOut=" + dictFile,
-        "--lang1=DE",
-        "--lang2=EN",
-        String.format("--lang1Stoplist=%s", STOPLISTS + "de.txt"),
-        String.format("--lang2Stoplist=%s", STOPLISTS + "en.txt"),
-        "--dictInfo=@" + INPUTS + "de-en_chemnitz_enwiktionary.info",
-
-        "--input4=" + INPUTS + "de-en_chemnitz.txt",
-        "--input4Name=chemnitz",
-        "--input4Charset=UTF8",
-        "--input4Format=chemnitz",
-        
-        "--input2=" + INPUTS + "wikiSplit/en/DE.data",
-        "--input2Name=enwiktionary.DE",
-        "--input2Format=enwiktionary",
-        "--input2WiktionaryType=EnForeign",
-        "--input2LangPattern=German",
-        "--input2LangCodePattern=de",
-        "--input2EnIndex=2",
-
-        "--input3=" + INPUTS + "wikiSplit/en/EN.data",
-        "--input3Name=enwiktionary.english",
-        "--input3Format=enwiktionary",
-        "--input3WiktionaryType=EnToTranslation",
-        "--input3LangPattern=German",
-        "--input3LangCodePattern=de",
-        "--input3EnIndex=2",
-    });
-    
-  }
-    
+  }    
 }

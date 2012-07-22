@@ -183,8 +183,8 @@ public class LanguageTest extends TestCase {
 
   
   public void testEnWiktionaryNames() {
-    final Set<String> enLangs = new LinkedHashSet<String>(WiktionaryLangs.isoCodeToWikiName.keySet());
-    for (final String code : WiktionaryLangs.isoCodeToWikiName.keySet()) {
+    final Set<String> enLangs = new LinkedHashSet<String>(WiktionaryLangs.isoCodeToEnWikiName.keySet());
+    for (final String code : WiktionaryLangs.isoCodeToEnWikiName.keySet()) {
       enLangs.add(code.toLowerCase());
     }
     assertEquals(enLangs.toString(), Language.isoCodeToResources.keySet().toString());

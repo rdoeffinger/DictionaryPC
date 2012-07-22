@@ -56,8 +56,8 @@ public class CheckDictionariesMain {
       
       // Find the stats.
       System.out.println("Stats...");
-      final String lang1 = WiktionaryLangs.isoCodeToWikiName.get(dictionaryInfo.indexInfos.get(0).shortName);
-      final String lang2 = WiktionaryLangs.isoCodeToWikiName.get(dictionaryInfo.indexInfos.get(1).shortName);
+      final String lang1 = WiktionaryLangs.isoCodeToEnWikiName.get(dictionaryInfo.indexInfos.get(0).shortName);
+      final String lang2 = WiktionaryLangs.isoCodeToEnWikiName.get(dictionaryInfo.indexInfos.get(1).shortName);
       dictNames.add(String.format("%s-%s\n", lang1, lang2));
       final String row = dictionaryInfo.append(new StringBuilder()).toString();
       if (!zipFile.canRead()) {
