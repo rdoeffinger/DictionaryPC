@@ -87,6 +87,7 @@ public abstract class AbstractWiktionaryParser implements Parser {
       }
     }
     } finally {
+      dis.close();
       LOG.info("***COUNTERS***");
       for (final Map.Entry<String, AtomicInteger> entry : counters.entrySet()) {
         LOG.info(entry.getKey() + ": " + entry.getValue());
@@ -214,17 +215,17 @@ public abstract class AbstractWiktionaryParser implements Parser {
     }
 
     @Override
-    public final void onNewline(WikiTokenizer wikiTokenizer) {
+    public void onNewline(WikiTokenizer wikiTokenizer) {
       assert false;
     }
 
     @Override
-    public final void onHeading(WikiTokenizer wikiTokenizer) {
+    public void onHeading(WikiTokenizer wikiTokenizer) {
       assert false;
     }
 
     @Override
-    public final void onListItem(WikiTokenizer wikiTokenizer) {
+    public void onListItem(WikiTokenizer wikiTokenizer) {
       assert false;
     }
   }

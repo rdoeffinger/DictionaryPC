@@ -233,6 +233,13 @@ public final class WikiTokenizer {
     assert isListItem();
     return wikiText.substring(start, listPrefixEnd);
   }
+  
+  public static String getListTag(char c) {
+    if (c == '#') {
+      return "ol";
+    }
+    return "ul";
+  }
 
   public String listItemWikiText() {
     assert isListItem();

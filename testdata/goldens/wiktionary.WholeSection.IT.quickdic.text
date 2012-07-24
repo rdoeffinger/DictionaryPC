@@ -3,2250 +3,1653 @@ EntrySource: wiktionary.WholeSection.IT.quickdic 100
 
 Index: IT IT->EN
 ***a***
-a-: 
+a-:
 {{wikipedia|a (prefisso)|lang=it}}
-
-===Etymology 1===
+<h3>Etymology 1</h3>
 From {{etyl|la|it}} {{term|ad|ad-|lang=la}}.
-
-====Prefix====
+<h4>Prefix</h4>
 {{head|it|prefix}}
+<ol><li> {{l|en|ad-}} (indication direction)</li>
+</ol>
 
-# {{l|en|ad-}} (indication direction)
-
-====Usage notes====
-The Italian prefix ''a-'' often reduplicates the following consonant ([[:w:en:Syntactic gemination|syntactic gemination]], [[w:it:Raddoppiamento fonosintattico|raddoppiamento fonosintattico]]).
-The actual forms usually will be {{term|ab-|lang=it}} (in {{term|abbracciare|lang=it}}), {{term|ad-|lang=it}} (in {{term|addestrare|lang=it}}), {{term|al-|lang=it}} (in {{term|allargare|lang=it}}) etc.
-
-===Etymology 2===
+<h4>Usage notes</h4>
+The Italian prefix <em>a-</em> often reduplicates the following consonant (syntactic gemination, raddoppiamento fonosintattico).The actual forms usually will be {{term|ab-|lang=it}} (in {{term|abbracciare|lang=it}}), {{term|ad-|lang=it}} (in {{term|addestrare|lang=it}}), {{term|al-|lang=it}} (in {{term|allargare|lang=it}}) etc.
+<h3>Etymology 2</h3>
 Borrowed from {{etyl|grc|it}} {{term|ἀ-|tr=a-|lang=grc}}.
-
-====Prefix====
+<h4>Prefix</h4>
 {{head|it|prefix}}
+<ol><li> a- (indicating lack or loss)</li>
+</ol>
 
-# [[#English|a-]] (indicating lack or loss)
-
-=====Synonyms=====
-* [[an-]]
-
+<h5>Synonyms</h5>
+<ul><li> an-</li>
+</ul>
 ----
-
-
 ***A***
-A: 
+A:
 {{wikipedia|lang=it}}
+<h3>Pronunciation</h3>
+<ul><li> {{qualifier|phoneme; name of letter}} {{IPA|/a/|lang=it}}</li>
+<ul><li> {{homophones|a|ha|lang=it}}</li>
+</ul>
+</ul>
 
-===Pronunciation===
-* {{qualifier|phoneme; name of letter}} {{IPA|/a/|lang=it}}
-*: {{homophones|a|ha|lang=it}}
+<h3>Letter</h3>
+{{head|it|letter|lower case|a|g=m|g2=f|g3=inv}}
+<ol><li> {{Latn-def|it|letter|1|a}}</li>
+</ol>
 
-===Letter===
-{{head|it|letter|g=m|g2=f|g3=inv|lower case|a}}
-
-# {{Latn-def|it|letter|1|a}}
-
-===See also===
-* {{list|it|Latin script letters}}
-* {{pedialite|Italian alphabet}}
-
-[[Category:Italian nouns]]
-
-----
-
-
+<h3>See also</h3>
+<ul><li> {{list|it|Latin script letters}}</li>
+<li> {{pedialite|Italian alphabet}}</li>
+</ul>
+Category:Italian nouns----
 ***abalienate***
-abalienate: 
+abalienate:
 
-===Verb===
-'''abalienate'''
-
-# {{conjugation of|abalienare||2|p|pres|ind|lang=it}}
-# {{conjugation of|abalienare||2|p|imp|lang=it}}
-# {{form of|[[feminine|Feminine]] plural|abalienato}}
-
-[[Category:Italian past participle forms]]
-[[Category:Italian verb forms]]
-
-----
-
-
+<h3>Verb</h3>
+<b>abalienate</b>
+<ol><li> {{conjugation of|abalienare|2|p|pres|ind|lang=it}}</li>
+<li> {{conjugation of|abalienare|2|p|imp|lang=it}}</li>
+<li> {{form of|Feminine plural|abalienato}}</li>
+</ol>
+Category:Italian past participle formsCategory:Italian verb forms----
 ***abate***
-abate: 
+abate:
 
-===Etymology===
-From {{etyl|la|it}} {{term|abbas|abbās, abbātis|lang=la}}, from {{etyl|grc|it}} {{term|ἀββᾶς|tr=abbas|lang=grc|sc=polytonic}}, from {{etyl|arc|it}} {{term|אבא||father|lang=arc|tr=’abbā|sc=Hebr}}.
+<h3>Etymology</h3>
+From {{etyl|la|it}} {{term|abbas|abbās, abbātis|lang=la}}, from {{etyl|grc|it}} {{term|ἀββᾶς|tr=abbas|lang=grc|sc=polytonic}}, from {{etyl|arc|it}} {{term|אבא|father|lang=arc|tr=’abbā|sc=Hebr}}.
+<h3>Pronunciation</h3>
+<ul><li> {{IPA|/a'bate/|lang=it}}</li>
+<li> {{audio|It-abate.ogg|audio}}</li>
+</ul>
 
-===Pronunciation===
-* {{IPA|/a'bate/|lang=it}}
-* {{audio|It-abate.ogg|audio}}
-
-===Noun===
+<h3>Noun</h3>
 {{it-noun|abat|m|e|i}}
+<ol><li> abbot</li>
+</ol>
 
-# [[abbot]]
+<h4>Related terms</h4>
+<ul><li> abbazia</li>
+<li> badia</li>
+<li> badessa</li>
+</ul>
 
-====Related terms====
-* [[abbazia]]
-* [[badia]]
-* [[badessa]]
-
-===Anagrams===
-* [[beata#Italian|beata]]
-
+<h3>Anagrams</h3>
+<ul><li> beata</li>
+</ul>
 ----
-
-
 ***abbreviate***
-abbreviate: 
+abbreviate:
 
-===Verb===
-'''abbreviate'''
+<h3>Verb</h3>
+<b>abbreviate</b>
+<ol><li> second-person plural present tense of abbreviare</li>
+<li> second-person plural imperative of abbreviare</li>
+</ol>
 
-# [[second-person plural]] [[present tense]] of [[abbreviare]]
-# second-person plural [[imperative]] of abbreviare
-
-===Anagrams===
-
-* [[abbeverati#Italian|abbeverati]]
-
-[[Category:Italian verb forms]]
-
-----
-
-
+<h3>Anagrams</h3>
+<ul><li> abbeverati</li>
+</ul>
+Category:Italian verb forms----
 ***abdicate***
-abdicate: 
+abdicate:
 
-===Verb form===
-'''abdicate'''
-
-# [[second-person plural]] [[present tense]] of [[abdicare]]
-# second-person plural [[imperative]] of abdicare
-
-[[Category:Italian verb forms]]
-
-----
-
-
+<h3>Verb form</h3>
+<b>abdicate</b>
+<ol><li> second-person plural present tense of abdicare</li>
+<li> second-person plural imperative of abdicare</li>
+</ol>
+Category:Italian verb forms----
 ***abduce***
-abduce: 
+abduce:
 
-===Verb===
-'''abduce'''
-
-# {{conjugation of|abdurre||3|s|pres|ind|lang=it}}
-
-[[Category:Italian verb forms]]
-
-----
-
-
+<h3>Verb</h3>
+<b>abduce</b>
+<ol><li> {{conjugation of|abdurre|3|s|pres|ind|lang=it}}</li>
+</ol>
+Category:Italian verb forms----
 ***aberrate***
-aberrate: 
+aberrate:
 
-===Verb===
-'''aberrate'''
-
-# {{conjugation of|aberrare||2|p|pres|ind|lang=it}}
-# {{conjugation of|aberrare||2|p|imp|lang=it}}
-# {{form of|[[feminine|Feminine]] plural|aberrato}}
-
-[[Category:Italian past participle forms]]
-[[Category:Italian verb forms]]
-
-----
-
-
+<h3>Verb</h3>
+<b>aberrate</b>
+<ol><li> {{conjugation of|aberrare|2|p|pres|ind|lang=it}}</li>
+<li> {{conjugation of|aberrare|2|p|imp|lang=it}}</li>
+<li> {{form of|Feminine plural|aberrato}}</li>
+</ol>
+Category:Italian past participle formsCategory:Italian verb forms----
 ***ablative***
-ablative: 
+ablative:
 
-===Adjective===
-'''ablative''' {{f}}
-
-# Feminine plural form of [[ablativo]]
-
-[[Category:Italian adjective forms]]
-
-----
-
-
+<h3>Adjective</h3>
+<b>ablative</b> {f}
+<ol><li> Feminine plural form of ablativo</li>
+</ol>
+Category:Italian adjective forms----
 ***abominate***
-abominate: 
+abominate:
 
-===Verb===
-'''abominate'''
-
-# {{conjugation of|abominare||2|p|pres|ind|lang=it}}
-# {{conjugation of|abominare||2|p|imp|lang=it}}
-# {{form of|[[feminine|Feminine]] plural|abominato}}
-
-[[Category:Italian past participle forms]]
-[[Category:Italian verb forms]]
-
-----
-
-
+<h3>Verb</h3>
+<b>abominate</b>
+<ol><li> {{conjugation of|abominare|2|p|pres|ind|lang=it}}</li>
+<li> {{conjugation of|abominare|2|p|imp|lang=it}}</li>
+<li> {{form of|Feminine plural|abominato}}</li>
+</ol>
+Category:Italian past participle formsCategory:Italian verb forms----
 ***abortive***
-abortive: 
+abortive:
 
-===Adjective===
+<h3>Adjective</h3>
 {{head|it|adjective form}} {{f|p}}
+<ol><li> {{feminine plural of|abortivo|lang=it}}</li>
+</ol>
 
-# {{feminine plural of|abortivo|lang=it}}
-
-===Anagrams===
-* [[breviato#Italian|breviato]]
-
+<h3>Anagrams</h3>
+<ul><li> breviato</li>
+</ul>
 ----
-
-
 ***abrade***
-abrade: 
+abrade:
 
-===Verb===
-'''abrade'''
+<h3>Verb</h3>
+<b>abrade</b>
+<ol><li> {{conjugation of|abradere|3|s|pres|ind|lang=it}}</li>
+</ol>
 
-# {{conjugation of|abradere||3|s|pres|ind|lang=it}}
-
-===Anagrams===
-* [[badare#Italian|badare]]
-* [[baderà#Italian|baderà]]
-
-[[Category:Italian verb forms]]
-
-----
-
-
+<h3>Anagrams</h3>
+<ul><li> badare</li>
+<li> baderà</li>
+</ul>
+Category:Italian verb forms----
 ***abrase***
-abrase: 
+abrase:
 
-===Verb===
-'''abrase'''
+<h3>Verb</h3>
+<b>abrase</b>
+<ol><li> {{conjugation of|abradere|3|s|past historic|lang=it}}</li>
+</ol>
+<b>abrase</b> {f}
+<ol><li> Plural of abraso</li>
+</ol>
 
-# {{conjugation of|abradere||3|s|[[past historic]]|lang=it}}
-
-'''abrase''' {{f}}
-
-# [[plural|Plural]] of [[abraso]]
-
-===Anagrams===
-* [[basare#Italian|basare]]
-* [[baserà#Italian|baserà]]
-
-[[Category:Italian past participle forms]]
-[[Category:Italian verb forms]]
-
-----
-
-
+<h3>Anagrams</h3>
+<ul><li> basare</li>
+<li> baserà</li>
+</ul>
+Category:Italian past participle formsCategory:Italian verb forms----
 ***abrasive***
-abrasive: 
+abrasive:
 
-===Adjective===
-'''abrasive''' {{f}}
+<h3>Adjective</h3>
+<b>abrasive</b> {f}
+<ol><li> Feminine plural form of abrasivo</li>
+</ol>
 
-# Feminine plural form of [[abrasivo]]
-
-===Anagrams===
-* [[bavaresi#Italian|bavaresi]]
-* [[sbaverai#Italian|sbaverai]]
-
-[[Category:Italian adjective forms]]
-
-[[am:abrasive]]
-[[ar:abrasive]]
-[[de:abrasive]]
-[[et:abrasive]]
-[[el:abrasive]]
-[[fa:abrasive]]
-[[fr:abrasive]]
-[[ko:abrasive]]
-[[hi:abrasive]]
-[[io:abrasive]]
-[[id:abrasive]]
-[[it:abrasive]]
-[[kn:abrasive]]
-[[hu:abrasive]]
-[[my:abrasive]]
-[[pl:abrasive]]
-[[pt:abrasive]]
-[[ru:abrasive]]
-[[fi:abrasive]]
-[[ta:abrasive]]
-[[tt:abrasive]]
-[[th:abrasive]]
-[[tr:abrasive]]
-[[vi:abrasive]]
-[[zh:abrasive]]
+<h3>Anagrams</h3>
+<ul><li> bavaresi</li>
+<li> sbaverai</li>
+</ul>
+Category:Italian adjective formsam:abrasivear:abrasivede:abrasiveet:abrasiveel:abrasivefa:abrasivefr:abrasiveko:abrasivehi:abrasiveio:abrasiveid:abrasiveit:abrasivekn:abrasivehu:abrasivemy:abrasivepl:abrasivept:abrasiveru:abrasivefi:abrasiveta:abrasivett:abrasiveth:abrasivetr:abrasivevi:abrasivezh:abrasive
 ***abrogate***
-abrogate: 
+abrogate:
 
-===Verb===
-'''abrogate'''
-
-# {{conjugation of|abrogare||2|p|pres|ind|lang=it}}
-# {{conjugation of|abrogare||2|p|imp|lang=it}}
-# {{form of|[[feminine|Feminine]] plural|abrogato}}
-
-[[Category:Italian past participle forms]]
-[[Category:Italian verb forms]]
-
-----
-
-
+<h3>Verb</h3>
+<b>abrogate</b>
+<ol><li> {{conjugation of|abrogare|2|p|pres|ind|lang=it}}</li>
+<li> {{conjugation of|abrogare|2|p|imp|lang=it}}</li>
+<li> {{form of|Feminine plural|abrogato}}</li>
+</ol>
+Category:Italian past participle formsCategory:Italian verb forms----
 ***abrogative***
-abrogative: 
+abrogative:
 
-===Adjective===
-'''abrogative''' {{f}}
-
-# Feminine plural form of [[abrogativo]]
-
-[[Category:Italian adjective forms]]
-
-[[el:abrogative]]
-[[pl:abrogative]]
-[[ru:abrogative]]
-[[ta:abrogative]]
-[[vi:abrogative]]
+<h3>Adjective</h3>
+<b>abrogative</b> {f}
+<ol><li> Feminine plural form of abrogativo</li>
+</ol>
+Category:Italian adjective formsel:abrogativepl:abrogativeru:abrogativeta:abrogativevi:abrogative
 ***abusive***
-abusive: 
+abusive:
 
-===Adjective===
-'''abusive''' {{f}}
-
-# Feminine plural form of [[abusivo]]
-
-[[Category:Italian adjective forms]]
-
-----
-
-
+<h3>Adjective</h3>
+<b>abusive</b> {f}
+<ol><li> Feminine plural form of abusivo</li>
+</ol>
+Category:Italian adjective forms----
 ***acacia***
-acacia: 
+acacia:
 
-===Noun===
+<h3>Noun</h3>
 {{it-noun|acaci|f|a|e}}
-
-# [[#English|acacia]] (tree)
-
+<ol><li> acacia (tree)</li>
+</ol>
 ----
-
-
 ***accidie***
-accidie: 
+accidie:
 
-===Noun===
-'''accidie''' {{f}}
-
-# {{plural of|accidia|lang=it}}
-
-[[fr:accidie]]
+<h3>Noun</h3>
+<b>accidie</b> {f}
+<ol><li> {{plural of|accidia|lang=it}}</li>
+</ol>
+fr:accidie
 ***acclimate***
-acclimate: 
+acclimate:
 
-===Verb===
-'''acclimate'''
+<h3>Verb</h3>
+<b>acclimate</b>
+<ol><li> {{conjugation of|acclimare|2|p|pres|ind|lang=it}}</li>
+<li> {{conjugation of|acclimare|2|p|imp|lang=it}}</li>
+<li> {{form of|Feminine plural|acclimato}}</li>
+</ol>
 
-# {{conjugation of|acclimare||2|p|pres|ind|lang=it}}
-# {{conjugation of|acclimare||2|p|imp|lang=it}}
-# {{form of|[[feminine|Feminine]] plural|[[acclimato]]}}
-
-===Anagrams===
-* [[malaticce#Italian|malaticce]]
-
-[[Category:Italian past participle forms]]
-[[Category:Italian verb forms]]
-
-[[am:acclimate]]
-[[ar:acclimate]]
-[[ca:acclimate]]
-[[et:acclimate]]
-[[el:acclimate]]
-[[fa:acclimate]]
-[[fr:acclimate]]
-[[ko:acclimate]]
-[[io:acclimate]]
-[[id:acclimate]]
-[[it:acclimate]]
-[[my:acclimate]]
-[[ps:acclimate]]
-[[pl:acclimate]]
-[[pt:acclimate]]
-[[ru:acclimate]]
-[[vi:acclimate]]
-[[zh:acclimate]]
+<h3>Anagrams</h3>
+<ul><li> malaticce</li>
+</ul>
+Category:Italian past participle formsCategory:Italian verb formsam:acclimatear:acclimateca:acclimateet:acclimateel:acclimatefa:acclimatefr:acclimateko:acclimateio:acclimateid:acclimateit:acclimatemy:acclimateps:acclimatepl:acclimatept:acclimateru:acclimatevi:acclimatezh:acclimate
 ***acclive***
-acclive: 
+acclive:
 
-===Adjective===
+<h3>Adjective</h3>
 {{it-adj|accliv|e|i}}
+<ol><li> steep</li>
+</ol>
 
-# [[steep]]
+<h4>Derived terms</h4>
+<ul><li> {{l|it|acclività}}</li>
+</ul>
 
-====Derived terms====
-* {{l|it|acclività}}
-
-===Anagrams===
-* [[leccavi#Italian|leccavi]]
-* [[velacci#Italian|velacci]]
-
+<h3>Anagrams</h3>
+<ul><li> leccavi</li>
+<li> velacci</li>
+</ul>
 ----
-
-
 ***accresce***
-accresce: 
+accresce:
 
-===Verb===
-'''accresce'''
-
-# {{conjugation of|accrescere||3|s|pres|ind|lang=it}}
-
-[[Category:Italian verb forms]]
-
-----
-
-
+<h3>Verb</h3>
+<b>accresce</b>
+<ol><li> {{conjugation of|accrescere|3|s|pres|ind|lang=it}}</li>
+</ol>
+Category:Italian verb forms----
 ***accurate***
-accurate: 
+accurate:
 
-===Adjective===
+<h3>Adjective</h3>
 {{head|it|adjective form|g=f|g2=p}}
+<ol><li> {{feminine plural of|accurato}}</li>
+</ol>
 
-# {{feminine plural of|accurato}}
-
-===Anagrams===
-* [[cacature#Italian|cacature]]
-
+<h3>Anagrams</h3>
+<ul><li> cacature</li>
+</ul>
 ----
-
-
 ***AD***
-AD: 
+AD:
 
-===Initialism===
-'''AD'''
+<h3>Initialism</h3>
+<b>AD</b>
+<ol><li> CEO (amministratore delegato)</li>
+</ol>
 
-# [[CEO]] ([[amministratore delegato]])
-
-===Anagrams===
-* [[da#Italian|da]], [[da'#Italian|da']], [[dà#Italian|dà]]
-
-[[Category:Italian initialisms]]
-
-----
-
-
+<h3>Anagrams</h3>
+<ul><li> da, da', dà</li>
+</ul>
+Category:Italian initialisms----
 ***Afghanistan***
-Afghanistan: 
+Afghanistan:
 {{wikipedia|lang=it}}
+<h3>Pronunciation</h3>
+<ul><li> {{audio|It-Afghanistan.ogg|audio}}</li>
+</ul>
 
-===Pronunciation===
-* {{audio|It-Afghanistan.ogg|audio}}
+<h3>Proper noun</h3>
+<b>Afghanistan</b> {m}
+<ol><li> Afghanistan</li>
+</ol>
 
-===Proper noun===
-'''Afghanistan''' {{m}}
+<h4>Alternative forms</h4>
+<ul><li> Afganistan</li>
+</ul>
 
-# [[Afghanistan#English|Afghanistan]]
-
-====Alternative forms====
-* [[Afganistan]]
-
-====Derived terms====
-* [[afgano]], [[afghano]]
-
-[[Category:Italian proper nouns]]
-[[Category:it:Countries]]
-
-----
-
-
+<h4>Derived terms</h4>
+<ul><li> afgano, afghano</li>
+</ul>
+Category:Italian proper nounsCategory:it:Countries----
 ***Albania***
-Albania: 
+Albania:
 {{wikipedia|lang=it}}
+<h3>Pronunciation</h3>
+<ul><li> {{audio|It-Albania.ogg|Audio}}</li>
+</ul>
 
-===Pronunciation===
-* {{audio|It-Albania.ogg|Audio}}
-
-===Proper noun===
+<h3>Proper noun</h3>
 {{it-proper noun|g=f}}
+<ol><li> {{l|en|Albania}}</li>
+</ol>
 
-# {{l|en|Albania}}
-
-====Derived terms====
-* [[albanese]]
-
-[[Category:it:Countries]]
-
-----
-
-
+<h4>Derived terms</h4>
+<ul><li> albanese</li>
+</ul>
+Category:it:Countries----
 ***Algeria***
-Algeria: 
+Algeria:
 {{wikipedia|lang=it}}
+<h3>Pronunciation</h3>
+<ul><li> {{audio|It-Algeria.ogg|Audio}}</li>
+</ul>
 
-===Pronunciation===
-* {{audio|It-Algeria.ogg|Audio}}
-
-===Proper noun===
+<h3>Proper noun</h3>
 {{it-proper noun|f}}
+<ol><li> {{l|en|Algeria}}</li>
+</ol>
 
-# {{l|en|Algeria}}
+<h4>Derived terms</h4>
+<ul><li> algerino</li>
+</ul>
 
-====Derived terms====
-* [[algerino]]
-
-===Anagrams===
-* [[regalai#Italian|regalai]]
-* [[regalia#Italian|regalia]]
-
-[[Category:it:Countries]]
-
-[[zh-min-nan:Algeria]]
-[[cs:Algeria]]
-[[cy:Algeria]]
-[[de:Algeria]]
-[[et:Algeria]]
-[[el:Algeria]]
-[[es:Algeria]]
-[[fa:Algeria]]
-[[fr:Algeria]]
-[[ko:Algeria]]
-[[hy:Algeria]]
-[[hi:Algeria]]
-[[hr:Algeria]]
-[[io:Algeria]]
-[[id:Algeria]]
-[[it:Algeria]]
-[[kn:Algeria]]
-[[sw:Algeria]]
-[[lt:Algeria]]
-[[hu:Algeria]]
-[[mg:Algeria]]
-[[mn:Algeria]]
-[[nl:Algeria]]
-[[no:Algeria]]
-[[nds:Algeria]]
-[[pl:Algeria]]
-[[pt:Algeria]]
-[[ru:Algeria]]
-[[sq:Algeria]]
-[[simple:Algeria]]
-[[fi:Algeria]]
-[[sv:Algeria]]
-[[ta:Algeria]]
-[[tr:Algeria]]
-[[uk:Algeria]]
-[[vi:Algeria]]
-[[zh:Algeria]]
+<h3>Anagrams</h3>
+<ul><li> regalai</li>
+<li> regalia</li>
+</ul>
+Category:it:Countrieszh-min-nan:Algeriacs:Algeriacy:Algeriade:Algeriaet:Algeriael:Algeriaes:Algeriafa:Algeriafr:Algeriako:Algeriahy:Algeriahi:Algeriahr:Algeriaio:Algeriaid:Algeriait:Algeriakn:Algeriasw:Algerialt:Algeriahu:Algeriamg:Algeriamn:Algerianl:Algeriano:Algeriands:Algeriapl:Algeriapt:Algeriaru:Algeriasq:Algeriasimple:Algeriafi:Algeriasv:Algeriata:Algeriatr:Algeriauk:Algeriavi:Algeriazh:Algeria
 ***andante***
-andante: 
+andante:
 
-===Verb===
+<h3>Verb</h3>
 {{head|it|present participle}}
+<ol><li> {{present participle of|andare|lang=it}}</li>
+</ol>
 
-# {{present participle of|andare|lang=it}}
-
-===Adjective===
+<h3>Adjective</h3>
 {{it-adj|andant|e|i}}
+<ol><li> cheap, second-rate</li>
+<li> continuous, unbroken</li>
+</ol>
 
-# [[cheap]], [[second-rate]]
-# [[continuous]], [[unbroken]]
-
-===Anagrams===
-* [[dannate#Italian|dannate]]
-
-[[de:andante]]
-[[et:andante]]
-[[el:andante]]
-[[fr:andante]]
-[[gl:andante]]
-[[ko:andante]]
-[[id:andante]]
-[[it:andante]]
-[[ku:andante]]
-[[hu:andante]]
-[[ja:andante]]
-[[no:andante]]
-[[pl:andante]]
-[[ru:andante]]
-[[sq:andante]]
-[[fi:andante]]
-[[ta:andante]]
-[[tr:andante]]
-[[vi:andante]]
-[[zh:andante]]
+<h3>Anagrams</h3>
+<ul><li> dannate</li>
+</ul>
+de:andanteet:andanteel:andantefr:andantegl:andanteko:andanteid:andanteit:andanteku:andantehu:andanteja:andanteno:andantepl:andanteru:andantesq:andantefi:andanteta:andantetr:andantevi:andantezh:andante
 ***Andorra***
-Andorra: 
+Andorra:
 {{wikipedia|lang=it}}
-
-===Proper noun===
+<h3>Proper noun</h3>
 {{it-proper noun|f}}
+<ol><li> {{l|en|Andorra}}</li>
+</ol>
 
-# {{l|en|Andorra}}
-
-====Derived terms====
-* [[andorrano]]
-
-[[Category:it:Countries]]
-
-----
-
-
+<h4>Derived terms</h4>
+<ul><li> andorrano</li>
+</ul>
+Category:it:Countries----
 ***Angola***
-Angola: 
+Angola:
 {{wikipedia|lang=it}}
+<h3>Pronunciation</h3>
+<ul><li> {{audio|it-Angola.ogg|Audio}}</li>
+</ul>
 
-===Pronunciation===
-* {{audio|it-Angola.ogg|Audio}}
+<h3>Proper noun</h3>
+<b>Angola</b> {f}
+<ol><li> {{l|en|Angola}}</li>
+</ol>
 
-===Proper noun===
-'''Angola''' {{f}}
-
-# {{l|en|Angola}}
-
-====Derived terms====
-* [[angolano]]
-
-[[Category:Italian proper nouns]]
-[[Category:it:Countries]]
-
-----
-
-
+<h4>Derived terms</h4>
+<ul><li> angolano</li>
+</ul>
+Category:Italian proper nounsCategory:it:Countries----
 ***aquila***
-aquila: 
+aquila:
 
-===Etymology===
+<h3>Etymology</h3>
 From the {{etyl|la|it}} {{term|aquila|lang=la}}.
-
-===Noun===
+<h3>Noun</h3>
 {{it-noun|aquil|f|a|e}}
+<ol><li> eagle</li>
+</ol>
 
-# [[eagle]]
-
-====Derived terms====
-{{top2}}
-* [[aquila arpia]]
-* [[aquila del Bonelli]]
-* [[aquila gigante della Nuova Zelanda]]
-* [[aquila di Haast]]
-* [[aquila imperiale]]
-* [[aquila di mare]]
-* [[aquila di mare a coda bianca]]
-{{mid2}}
-* [[aquila di mare di Steller]]
-* [[aquila di mare della testa bianca]]
-* [[aquila pescatrice africana]]
-* [[aquila pescatrice del Madagascar]]
-* [[aquila reale]]
-* [[aquila spiegata]]
-* [[aquila urlatrice]]
-{{bottom}}
-
-[[Category:it:Birds]]
-----
-
-
+<h4>Derived terms</h4>
+{top2}
+<ul><li> aquila arpia</li>
+<li> aquila del Bonelli</li>
+<li> aquila gigante della Nuova Zelanda</li>
+<li> aquila di Haast</li>
+<li> aquila imperiale</li>
+<li> aquila di mare</li>
+<li> aquila di mare a coda bianca</li>
+</ul>
+{mid2}
+<ul><li> aquila di mare di Steller</li>
+<li> aquila di mare della testa bianca</li>
+<li> aquila pescatrice africana</li>
+<li> aquila pescatrice del Madagascar</li>
+<li> aquila reale</li>
+<li> aquila spiegata</li>
+<li> aquila urlatrice</li>
+</ul>
+{bottom}Category:it:Birds----
 ***are***
-are: 
+are:
 
-===Noun===
-'''are''' {{f}} {{p}}
+<h3>Noun</h3>
+<b>are</b> {f} {p}
+<ol><li> {{plural of|ara|lang=it}}</li>
+</ol>
 
-# {{plural of|ara|lang=it}}
-
-===Anagrams===
-* [[era#Italian|era]], [[Era#Italian|Era]]
-* [[rea#Italian|rea]]
-
+<h3>Anagrams</h3>
+<ul><li> era, Era</li>
+<li> rea</li>
+</ul>
 ----
-
-
 ***Argentina***
-Argentina: 
+Argentina:
 
-===Proper noun===
+<h3>Proper noun</h3>
 {{it-proper noun|g=f}}
+<ol><li> Argentina</li>
+</ol>
 
-# Argentina
+<h4>Related terms</h4>
+<ul><li> argentino</li>
+<li> argento</li>
+</ul>
 
-====Related terms====
-* [[argentino]]
-* [[argento]]
-
-===Anagrams===
-* [[arginante#Italian|arginante]]
-* [[inargenta#Italian|inargenta]]
-* [[ingranate#Italian|ingranate]]
-* [[rinnegata#Italian|rinnegata]]
-
-[[Category:it:Countries]]
-
-----
-
-
+<h3>Anagrams</h3>
+<ul><li> arginante</li>
+<li> inargenta</li>
+<li> ingranate</li>
+<li> rinnegata</li>
+</ul>
+Category:it:Countries----
 ***aria***
-aria: 
+aria:
 {{wikipedia|lang=it}}
-
-===Etymology===
-Metathesis from {{etyl|la|it}} {{term|aerem|lang=la}}, accusative of {{term|aer|āēr|lang=la}}, from {{etyl|grc|it}} {{term|ἀήρ||air|tr=aēr|sc=polytonic|lang=grc}}.
-
-===Pronunciation===
-* {{audio|It-l'aria.ogg|Audio}}
-* {{audio|It-aria.ogg|Audio}}
+<h3>Etymology</h3>
+Metathesis from {{etyl|la|it}} {{term|aerem|lang=la}}, accusative of {{term|aer|āēr|lang=la}}, from {{etyl|grc|it}} {{term|ἀήρ|air|tr=aēr|sc=polytonic|lang=grc}}.
+<h3>Pronunciation</h3>
+<ul><li> {{audio|It-l'aria.ogg|Audio}}</li>
+<li> {{audio|It-aria.ogg|Audio}}</li>
+</ul>
 ària, /ˈarja/, /<tt>"arja</tt>/
-
-===Noun===
+<h3>Noun</h3>
 {{it-noun|ari|f|a|e}}
+<ol><li> air</li>
+<li> look, appearance, countenance</li>
+<li> {{context|plurale tantum|lang=it}} airs</li>
+<li> air, wind</li>
+<li> {{context|music|lang=it}}  aria, song</li>
+</ol>
 
-# [[air]]
-# [[look]], [[appearance]], [[countenance]]
-# {{context|plurale tantum|lang=it}} [[airs]]
-# air, [[wind]]
-# {{context|music|lang=it}}  [[aria#English|aria]], [[song]]
+<h4>Related terms</h4>
+<ul><li> aere</li>
+<li> aereo</li>
+<li> aria-acqua</li>
+<li> aria-aria</li>
+<li> aria-terra</li>
+<li> arieggiare</li>
+<li> arioso</li>
+</ul>
 
-====Related terms====
-* [[aere]]
-* [[aereo]]
-* [[aria-acqua]]
-* [[aria-aria]]
-* [[aria-terra]]
-* [[arieggiare]]
-* [[arioso]]
-
-===Anagrams===
-* [[arai#Italian|arai]]
-
+<h3>Anagrams</h3>
+<ul><li> arai</li>
+</ul>
 ----
-
-
 ***arietta***
-arietta: 
+arietta:
 
-===Noun===
+<h3>Noun</h3>
 {{it-noun|ariett|f|a|e}}
+<ol><li> breeze</li>
+<li> {{music|lang=it}} arietta</li>
+</ol>
 
-# [[breeze]]
-# {{music|lang=it}} [[#English|arietta]]
-
-===Anagrams===
-* [[rateati#Italian|rateati]]
-* [[tariate#Italian|tariate]]
-* [[traiate#Italian|traiate]]
-
-[[de:arietta]]
-[[pl:arietta]]
-[[ru:arietta]]
-[[et:arietta]]
-[[fi:arietta]]
-[[vi:arietta]]
-[[tr:arietta]]
+<h3>Anagrams</h3>
+<ul><li> rateati</li>
+<li> tariate</li>
+<li> traiate</li>
+</ul>
+de:ariettapl:ariettaru:ariettaet:ariettafi:ariettavi:ariettatr:arietta
 ***Armenia***
-Armenia: 
+Armenia:
 {{wikipedia|lang=it}}
-
-===Proper noun===
+<h3>Proper noun</h3>
 {{it-proper noun|g=f}}
+<ol><li> {{l|en|Armenia}}</li>
+</ol>
 
-# {{l|en|Armenia}}
+<h4>Derived terms</h4>
+<ul><li> armeno</li>
+</ul>
 
-====Derived terms====
-* [[armeno]]
-
-===Anagrams===
-* [[amareni#Italian|amareni]]
-* [[animare#Italian|animare]]
-* [[animerà#Italian|animerà]]
-* [[maniera#Italian|maniera]]
-* [[mariane#Italian|mariane]]
-
-[[Category:it:Countries]]
-[[Category:it:Exonyms]]
-
-----
-
-
+<h3>Anagrams</h3>
+<ul><li> amareni</li>
+<li> animare</li>
+<li> animerà</li>
+<li> maniera</li>
+<li> mariane</li>
+</ul>
+Category:it:CountriesCategory:it:Exonyms----
 ***Austria***
-Austria: 
+Austria:
 {{wikipedia|lang=it}}
+<h3>Pronunciation</h3>
+<ul><li> {{IPA|/ˈaustrja/|lang=it}}, {{X-SAMPA|/"austrja/|lang=it}}</li>
+</ul>
 
-===Pronunciation===
-* {{IPA|/ˈaustrja/|lang=it}}, {{X-SAMPA|/"austrja/|lang=it}}
-
-===Proper noun===
+<h3>Proper noun</h3>
 {{it-proper noun|g=f}}
+<ol><li> {{l|en|Austria}}</li>
+</ol>
 
-# {{l|en|Austria}}
+<h4>Related terms</h4>
+<ul><li> austriaco</li>
+</ul>
 
-====Related terms====
-* [[austriaco]]
-
-===Anagrams===
-* [[riusata#Italian|riusata]]
-* [[saturai#Italian|saturai]]
-* [[Taurasi#Italian|Taurasi]]
-
-[[Category:it:Countries]]
-[[Category:it:Exonyms]]
-
-----
-
-
+<h3>Anagrams</h3>
+<ul><li> riusata</li>
+<li> saturai</li>
+<li> Taurasi</li>
+</ul>
+Category:it:CountriesCategory:it:Exonyms----
 ***avatar***
-avatar: 
+avatar:
 
-===Noun===
-{{wikipedia|lang=it}}
-{{head|it|noun|g=m}} {{inv}}
+<h3>Noun</h3>
+{{wikipedia|lang=it}}{{head|it|noun|g=m}} {inv}
+<ol><li> avatar (all senses)</li>
+</ol>
 
-# [[#English|avatar]] (all senses)
-
-===Anagrams===
-* [[tarava#Italian|tarava]], [[varata#Italian|varata]]
-
+<h3>Anagrams</h3>
+<ul><li> tarava, varata</li>
+</ul>
 ----
-
-
 ***Bahrain***
-Bahrain: 
+Bahrain:
 {{wikipedia|lang=it}}
-
-===Proper noun===
+<h3>Proper noun</h3>
 {{head|it|proper noun|g=m}}
-
-# {{l|en|Bahrain}}
-
-[[Category:it:Countries]]
-
-----
-
-
+<ol><li> {{l|en|Bahrain}}</li>
+</ol>
+Category:it:Countries----
 ***Bangladesh***
-Bangladesh: 
+Bangladesh:
 {{wikipedia|lang=it}}
-
-===Proper noun===
+<h3>Proper noun</h3>
 {{it-proper noun|g=m}}
+<ol><li> {{l|en|Bangladesh}}</li>
+</ol>
 
-# {{l|en|Bangladesh}}
-
-====See also====
-* [[bengalese]]
-* [[bengali]]
-
-[[Category:it:Countries]]
-
-----
-
-
+<h4>See also</h4>
+<ul><li> bengalese</li>
+<li> bengali</li>
+</ul>
+Category:it:Countries----
 ***BCE***
-BCE: 
+BCE:
 
-===Etymology===
-{{initialism of|Banca Centrale Europea||European Central Bank|lang=it}}
-
-===Proper noun===
-{{it-proper noun}}
-
-# [[ECB]]
-
+<h3>Etymology</h3>
+{{initialism of|Banca Centrale Europea|European Central Bank|lang=it}}
+<h3>Proper noun</h3>
+{it-proper noun}
+<ol><li> ECB</li>
+</ol>
 ----
-
-
 ***big***
-big: 
+big:
 
-===Noun===
-{{head|it|noun|g=m}} {{inv}}
-
-# [[star]] (entertainment)
-# [[big shot]], [[big noise]]
-
+<h3>Noun</h3>
+{{head|it|noun|g=m}} {inv}
+<ol><li> star (entertainment)</li>
+<li> big shot, big noise</li>
+</ol>
 ----
-
-
 ***bone***
-bone: 
+bone:
 
-===Adjective===
-'''bone''' {{f}}
-
-# {{form of|Feminine plural form|[[bono]]}}
-
-[[Category:Italian adjective forms]]
-
-----
-
-
+<h3>Adjective</h3>
+<b>bone</b> {f}
+<ol><li> {{form of|Feminine plural form|bono}}</li>
+</ol>
+Category:Italian adjective forms----
 ***Bulgaria***
-Bulgaria: 
+Bulgaria:
 {{wikipedia|lang=it}}
+<h3>Pronunciation</h3>
+<ul><li> {{IPA|/bulɡaˈri.a/|lang=it}}, {{X-SAMPA|/bulga"ri.a/|lang=it}}</li>
+</ul>
 
-===Pronunciation===
-* {{IPA|/bulɡaˈri.a/|lang=it}}, {{X-SAMPA|/bulga"ri.a/|lang=it}}
-
-===Proper noun===
+<h3>Proper noun</h3>
 {{it-proper noun|g=f}}
+<ol><li> {{l|en|Bulgaria}}</li>
+</ol>
 
-# {{l|en|Bulgaria}}
-
-====Related terms====
-* [[bulgaro]]
-
-[[Category:it:Countries]]
-
-----
-
-
+<h4>Related terms</h4>
+<ul><li> bulgaro</li>
+</ul>
+Category:it:Countries----
 ***Burundi***
-Burundi: 
+Burundi:
 {{wikipedia|lang=it}}
-
-===Proper noun===
+<h3>Proper noun</h3>
 {{it-proper noun|g=m}}
+<ol><li> {{l|en|Burundi}}</li>
+</ol>
 
-# {{l|en|Burundi}}
-
-====Derived terms====
-* [[burundese]]
-
-[[Category:it:Countries]]
-
-----
-
-
+<h4>Derived terms</h4>
+<ul><li> burundese</li>
+</ul>
+Category:it:Countries----
 ***can***
-can: 
+can:
 
-===Noun===
+<h3>Noun</h3>
 {{it-noun|ca|m|n|ni}}
-
-# {{context|poetic|_|and literary form of [[cane#Italian|cane]]|lang=it}} [[dog]]
-
+<ol><li> {{context|poetic|_|and literary form of cane|lang=it}} dog</li>
+</ol>
 ----
-
-
 ***centavo***
-centavo: 
+centavo:
 
-===Noun===
+<h3>Noun</h3>
 {{it-noun|centav|m|o|i}}
+<ol><li> centavo</li>
+</ol>
 
-# [[#English|centavo]]
-
-===Anagrams===
-* [[covante#Italian|covante]]
-* [[vocante#Italian|vocante]]
-
+<h3>Anagrams</h3>
+<ul><li> covante</li>
+<li> vocante</li>
+</ul>
 ----
-
 ***ci***
-ci: 
+ci:
 
-===Etymology===
-<small>For the pronoun</small><br>
-From {{etyl|la|it}} {{term|ecce||look|lang=la}} + {{term|hic||here|lang=la}}
+<h3>Etymology</h3>
+<small>For the pronoun</small><br>From {{etyl|la|it}} {{term|ecce|look|lang=la}} + {{term|hic|here|lang=la}}<small>For the adverb</small><br>{{etyl|la|it}} {{term|ecce|look|lang=la}} + {{term|ibi|there|lang=la}}
+<h3>Pronunciation</h3>
+<ul><li> {{IPA|/tʃi/|lang=it}}, {{X-SAMPA|/tSi/}}</li>
+<li> {{homophones|C|lang=it}} {{qualifier|name of letter}}</li>
+</ul>
 
-<small>For the adverb</small><br>
-{{etyl|la|it}} {{term|ecce||look|lang=la}} + {{term|ibi||there|lang=la}}
-
-===Pronunciation===
-* {{IPA|/tʃi/|lang=it}}, {{X-SAMPA|/tSi/}}
-* {{homophones|C|lang=it}} {{qualifier|name of letter}}
-
-===Pronoun===
+<h3>Pronoun</h3>
 {{head|it|pronoun}}
+<ol><li> us.</li>
+<li> {{reflexive|lang=it}} ourselves</li>
+<li> impersonal reflexive pronoun</li>
+<ul><li> <b><em>Ci</b> vuole poco a farmi felice.</em></li>
+<ul><li> It doesn't take much to make me happy.</li>
+</ul>
+</ul>
+<li> on it, about it, of it</li>
+</ol>
 
-# [[us]].
-# {{reflexive|lang=it}} [[ourselves]]
-# impersonal reflexive pronoun
-#: '''''Ci''' vuole poco a farmi felice.''
-#:: It doesn't take much to make me happy.
-# on it, about it, of it
+<h4>See also</h4>
+<ul><li> noi</li>
+<li> si</li>
+</ul>
 
-====See also====
-* [[noi]]
-* [[si]]
+<h3>Adverb</h3>
+{it-adv}
+<ol><li> here, there</li>
+</ol>
 
-===Adverb===
-{{it-adv}}
-
-# [[here]], [[there]]
-
-====See also====
-* [[ivi]]
-* [[là]]
-* [[qua]]
-* [[qui]]
-
+<h4>See also</h4>
+<ul><li> ivi</li>
+<li> là</li>
+<li> qua</li>
+<li> qui</li>
+</ul>
 ----
-
-
 ***color***
-color: 
+color:
 
-===Noun===
-{{head|it|noun|g=m}} {{inv}}
+<h3>Noun</h3>
+{{head|it|noun|g=m}} {inv}
+<ol><li> {{apocopic form of|colore|lang=it}}</li>
+</ol>
 
-# {{apocopic form of|colore|lang=it}}
-
-===Anagrams===
-* [[cloro#Italian|cloro]]
-
+<h3>Anagrams</h3>
+<ul><li> cloro</li>
+</ul>
 ----
-
-
 ***country***
-country: 
+country:
 
-===Etymology===
+<h3>Etymology</h3>
 From {{etyl|en|it}}
-
-===Noun===
+<h3>Noun</h3>
 {{head|it|noun}} {{m|inv}}
-
-# {{music|lang=it}} [[country music]]
-
-[[af:country]]
-[[ang:country]]
-[[ar:country]]
-[[az:country]]
-[[zh-min-nan:country]]
-[[cs:country]]
-[[cy:country]]
-[[de:country]]
-[[et:country]]
-[[el:country]]
-[[es:country]]
-[[eo:country]]
-[[fa:country]]
-[[fr:country]]
-[[gl:country]]
-[[ko:country]]
-[[hy:country]]
-[[io:country]]
-[[id:country]]
-[[it:country]]
-[[kl:country]]
-[[kn:country]]
-[[ka:country]]
-[[kk:country]]
-[[sw:country]]
-[[ku:country]]
-[[lo:country]]
-[[lb:country]]
-[[lt:country]]
-[[li:country]]
-[[hu:country]]
-[[mg:country]]
-[[ml:country]]
-[[my:country]]
-[[nl:country]]
-[[ja:country]]
-[[pl:country]]
-[[pt:country]]
-[[ro:country]]
-[[ru:country]]
-[[simple:country]]
-[[fi:country]]
-[[sv:country]]
-[[ta:country]]
-[[te:country]]
-[[th:country]]
-[[tr:country]]
-[[uk:country]]
-[[vi:country]]
-[[zh:country]]
+<ol><li> {{music|lang=it}} country music</li>
+</ol>
+af:countryang:countryar:countryaz:countryzh-min-nan:countrycs:countrycy:countryde:countryet:countryel:countryes:countryeo:countryfa:countryfr:countrygl:countryko:countryhy:countryio:countryid:countryit:countrykl:countrykn:countryka:countrykk:countrysw:countryku:countrylo:countrylb:countrylt:countryli:countryhu:countrymg:countryml:countrymy:countrynl:countryja:countrypl:countrypt:countryro:countryru:countrysimple:countryfi:countrysv:countryta:countryte:countryth:countrytr:countryuk:countryvi:countryzh:country
 ***crude***
-crude: 
+crude:
 
-===Adjective===
-'''crude''' ''f plural''
+<h3>Adjective</h3>
+<b>crude</b> <em>f plural</em>
+<ol><li> <em>feminine plural of</em> <b>crudo</b></li>
+</ol>
 
-# ''feminine plural of'' '''[[crudo#Italian|crudo]]'''
-
-===Anagrams===
-* [[curde#Italian|curde]]
-
-[[Category:Italian adjective forms]]
-
-----
-
-
+<h3>Anagrams</h3>
+<ul><li> curde</li>
+</ul>
+Category:Italian adjective forms----
 ***date***
-date: 
+date:
 
-===Noun===
-'''date''' {{f}}
+<h3>Noun</h3>
+<b>date</b> {f}
+<ol><li> {{plural of|data|lang=it}}</li>
+</ol>
 
-# {{plural of|data|lang=it}}
-
-===Verb===
-'''date'''
-
-# [[second-person plural]] [[present tense]] of [[dare#Italian|dare]]
-# second-person plural [[imperative]] of dare
-# feminine plural of [[dato]], [[past participle]] of dare
-
-[[Category:Italian past participle forms]]
-[[Category:Italian verb forms]]
-
-----
-
-
+<h3>Verb</h3>
+<b>date</b>
+<ol><li> second-person plural present tense of dare</li>
+<li> second-person plural imperative of dare</li>
+<li> feminine plural of dato, past participle of dare</li>
+</ol>
+Category:Italian past participle formsCategory:Italian verb forms----
 ***de***
-de: 
+de:
 
-===Contraction===
+<h3>Contraction</h3>
 {{head|it|contraction}}
+<ol><li> {{apocopic form of|del|lang=it}}</li>
+<ul><li> <em>Michael Radford è il regista <b>de</b> "Il postino".</em> &mdash; "Michael Radford is the director of "Il Postino".</li>
+</ul>
+</ol>
 
-# {{apocopic form of|del|lang=it}}
-#: ''Michael Radford è il regista '''de''' "Il postino".'' &mdash; "Michael Radford is the director of "Il Postino".
+<h4>Usage notes</h4>
+{{term|De|lang=it}} is used where {{term|del|lang=it}}, {{term|della|lang=it}}, etc, would ordinarily be used, but cannot be because the article is part of the title of a film, book, etc.
+<h4>See also</h4>
+<ul><li> {{l|it|ne}}</li>
+</ul>
 
-====Usage notes====
-{{term|De|lang=it}} is used where {{term|del|lang=it}}, {{term|della|lang=it}}, etc, would ordinarily be used, but cannot be because the [[article]] is part of the title of a film, book, etc.
-
-====See also====
-* {{l|it|ne}}
-
-===Anagrams===
-* [[ed#Italian|ed]]
-
+<h3>Anagrams</h3>
+<ul><li> ed</li>
+</ul>
 ----
-
-
 ***decade***
-decade: 
+decade:
 
-===Etymology===
+<h3>Etymology</h3>
 {{confix|deca|ade|lang=it}}
-
-===Noun===
+<h3>Noun</h3>
 {{it-noun|decad|f|e|i}}
+<ol><li> A decade, a period of ten days</li>
+</ol>
 
-# A [[#English|decade]], a period of ten [[day]]s
+<h4>Related terms</h4>
+<ul><li> deca-</li>
+<li> decennio (ten years)</li>
+</ul>
 
-====Related terms====
-* [[deca-]]
-* [[decennio]] (ten years)
+<h3>Verb form</h3>
+<b>decade</b>
+<ol><li> <em>third-person singular indicative present of decadere</em></li>
+</ol>
 
-===Verb form===
-'''decade'''
-
-# ''third-person singular indicative present of [[decadere]]''
-
-===Anagrams===
-* [[deceda#Italian|deceda]]
-
-[[Category:Italian verb forms]]
-[[Category:it:Time]]
-
-----
-
-
+<h3>Anagrams</h3>
+<ul><li> deceda</li>
+</ul>
+Category:Italian verb formsCategory:it:Time----
 ***deficit***
-deficit: 
+deficit:
 
-===Etymology===
+<h3>Etymology</h3>
 {{etyl|en|it}}
-
-===Noun===
-{{head|it|noun|g=m}} {{inv}}
-
-# [[#English|deficit]] (financial, medical)
-
+<h3>Noun</h3>
+{{head|it|noun|g=m}} {inv}
+<ol><li> deficit (financial, medical)</li>
+</ol>
 ----
-
-
 ***Esperanto***
-Esperanto: 
+Esperanto:
 
-===Noun===
+<h3>Noun</h3>
 {{head|it|noun|g=m}}
+<ol><li> Esperanto</li>
+</ol>
 
-# [[#English|Esperanto]]
+<h3>See also</h3>
+<ul><li> esperantista</li>
+</ul>
 
-===See also===
-* [[esperantista]]
-
-===Anagrams===
-* [[pensatore#Italian|pensatore]]
-* [[speronate#Italian|speronate]]
-
+<h3>Anagrams</h3>
+<ul><li> pensatore</li>
+<li> speronate</li>
+</ul>
 ----
-
-
 ***Estonia***
-Estonia: 
+Estonia:
 {{wikipedia|lang=it}}
-
-===Proper noun===
+<h3>Proper noun</h3>
 {{it-proper noun|f}}
+<ol><li> {{l|en|Estonia}}</li>
+</ol>
 
-# {{l|en|Estonia}}
+<h4>Related terms</h4>
+<ul><li> estone</li>
+</ul>
 
-====Related terms====
-* [[estone]]
-
-===Anagrams===
-* [[atesino#Italian|atesino]]
-* [[esitano#Italian|esitano]]
-* [[soniate#Italian|soniate]]
-
-[[Category:it:Countries]]
-[[Category:it:Exonyms]]
-
-----
-
-
+<h3>Anagrams</h3>
+<ul><li> atesino</li>
+<li> esitano</li>
+<li> soniate</li>
+</ul>
+Category:it:CountriesCategory:it:Exonyms----
 ***euro***
-euro: 
+euro:
 {{wikipedia|lang=it}}
-
-===Noun===
+<h3>Noun</h3>
 {{it-noun|eur|m|o|o}}
-
-# [[#English|euro]] {{gloss|currency}}
-
-[[Category:it:Currency]]
-
-----
-
-
+<ol><li> euro {{gloss|currency}}</li>
+</ol>
+Category:it:Currency----
 ***f***
-f: 
+f:
 
-===Noun===
+<h3>Noun</h3>
 {{head|it|letter}} {{m|f|inv}}
-
-# See under [[F#Italian|F]]
-
+<ol><li> See under F</li>
+</ol>
 ----
-
-
 ***fa***
-fa: 
+fa:
 
-===Pronunciation===
-* {{IPA|[ˈfa]|lang=it}}, {{X-SAMPA|/"fa/}}
-* {{hyphenation|fà}}
+<h3>Pronunciation</h3>
+<ul><li> {{IPA|[ˈfa]|lang=it}}, {{X-SAMPA|/"fa/}}</li>
+<li> {{hyphenation|fà}}</li>
+</ul>
 
-===Adverb===
-{{it-adv}}
+<h3>Adverb</h3>
+{it-adv}
+<ol><li> ago</li>
+</ol>
 
-# [[ago]]
+<h4>Synonyms</h4>
+<ul><li> prima</li>
+</ul>
 
-====Synonyms====
-* [[prima]]
+<h3>Noun</h3>
+{{wikipedia|Fa (nota)|lang=it}}{{head|it|noun}} {{m|inv}}
+<ol><li> {{music|lang=it}} fa (musical note)</li>
+<li> F (musical note or key)</li>
+</ol>
 
-===Noun===
-{{wikipedia|Fa (nota)|lang=it}}
-{{head|it|noun}} {{m|inv}}
+<h3>Alternative forms</h3>
+<ul><li> (<em>imperative form</em>) {{l|it|fa'}}, {{l|it|fai}}</li>
+</ul>
 
-# {{music|lang=it}} [[#English|fa]] (musical note)
-# [[F]] (musical note or key)
-
-===Alternative forms===
-* (''imperative form'') {{l|it|fa'}}, {{l|it|fai}}
-
-===Verb===
+<h3>Verb</h3>
 {{head|it|verb form}}
-
-# ''Third-person singular indicative present form of'' '''{{l|it|fare}}'''.
-# ''Second-person singular imperative form of'' '''{{l|it|fare}}'''.
-
+<ol><li> <em>Third-person singular indicative present form of</em> <b>{{l|it|fare}}</b>.</li>
+<li> <em>Second-person singular imperative form of</em> <b>{{l|it|fare}}</b>.</li>
+</ol>
 ----
-
-
 ***gratis***
-gratis: 
+gratis:
 
-===Etymology===
+<h3>Etymology</h3>
 From {{etyl|la|it}} {{term|gratis|lang=la}}
-
-===Adverb===
+<h3>Adverb</h3>
 {{head|it|adverb}}
+<ol><li> gratis</li>
+</ol>
 
-# [[gratis#English|gratis]]
+<h4>Synonyms</h4>
+<ul><li> gratuitamente</li>
+</ul>
 
-====Synonyms====
-* [[gratuitamente]]
+<h3>Adjective</h3>
+{{head|it|adjective}} {inv}
+<ol><li> free</li>
+</ol>
 
-===Adjective===
-{{head|it|adjective}} {{inv}}
+<h4>Synonyms</h4>
+<ul><li> gratuito</li>
+</ul>
 
-# [[free]]
-
-====Synonyms====
-* [[gratuito]]
-
-===Anagrams===
-* [[stragi#Italian|stragi]]
-
+<h3>Anagrams</h3>
+<ul><li> stragi</li>
+</ul>
 ----
-
-
 ***guerra***
-guerra: 
+guerra:
 
-===Etymology===
-From {{etyl|roa-oit|it}} {{term|guerra|lang=it}}, from {{etyl|LL.|it}} {{recons|werra|lang=LL.}}, {{recons|guerra|lang=LL.}}, from {{etyl|frk|it}} {{recons|werra|werra|riot, disturbance, quarrel|lang=frk|sc=Latn}} from {{proto|Germanic|werrō|confusion, disarray|lang=it}}, from {{proto|Indo-European|wers-|to mix up, confuse, beat, thresh|lang=it}}. Related to {{etyl|goh|-}} {{term|werra||confusion, strife, quarrel|lang=goh}} ({{etyl|de|-}} {{term|verwirren||to confuse|lang=de}}), {{etyl|osx|-}} {{term|werran||to confuse, perplex|lang=osx}}, {{etyl|nl|-}} {{term|war||confusion, disarray|lang=nl}}, {{etyl|ang|-}} {{term|wyrsa|wyrsa, wiersa||worse|lang=ang}}. More at {{l|en|worse}}, {{l|en|wurst}}.
+<h3>Etymology</h3>
+From {{etyl|roa-oit|it}} {{term|guerra|lang=it}}, from {{etyl|LL.|it}} {{recons|werra|lang=LL.}}, {{recons|guerra|lang=LL.}}, from {{etyl|frk|it}} {{recons|werra|werra|riot, disturbance, quarrel|lang=frk|sc=Latn}} from {{proto|Germanic|werrō|confusion, disarray|lang=it}}, from {{proto|Indo-European|wers-|to mix up, confuse, beat, thresh|lang=it}}. Related to {{etyl|goh|-}} {{term|werra|confusion, strife, quarrel|lang=goh}} ({{etyl|de|-}} {{term|verwirren|to confuse|lang=de}}), {{etyl|osx|-}} {{term|werran|to confuse, perplex|lang=osx}}, {{etyl|nl|-}} {{term|war|confusion, disarray|lang=nl}}, {{etyl|ang|-}} {{term|wyrsa|wyrsa, wiersa|worse|lang=ang}}. More at {{l|en|worse}}, {{l|en|wurst}}.
+<h3>Pronunciation</h3>
+<ul><li> {{IPA|/ˈɡwɛr.ra/|lang=it}}, {{X-SAMPA|/"gwEr.ra/|lang=it}}</li>
+<li> {{audio|It-la guerra.ogg|Audio}}</li>
+<li> {{audio|It-guerra.ogg|Audio}}</li>
+</ul>
 
-===Pronunciation===
-* {{IPA|/ˈɡwɛr.ra/|lang=it}}, {{X-SAMPA|/"gwEr.ra/|lang=it}}
-* {{audio|It-la guerra.ogg|Audio}}
-* {{audio|It-guerra.ogg|Audio}}
-
-===Noun===
+<h3>Noun</h3>
 {{it-noun|guerr|f|a|e}}
+<ol><li> war, warfare</li>
+</ol>
 
-# [[war]], [[warfare]]
+<h4>Related terms</h4>
+<ul><li> dichiarazione di guerra</li>
+<li> guerra civile</li>
+<li> guerra fredda</li>
+<li> guerrafondaio</li>
+<li> guerraiolo</li>
+<li> guerraiuolo</li>
+<li> guerra mondiale</li>
+<li> guerreggiante</li>
+<li> guerreggiare</li>
+<li> guerreggiatore</li>
+<li> guerrescamente</li>
+<li> guerresco</li>
+<li> guerricciola</li>
+<li> guerriera</li>
+<li> guerriero</li>
+<li> guerriglia</li>
+<li> guerrigliera</li>
+<li> guerrigliero</li>
+</ul>
 
-====Related terms====
-* [[dichiarazione di guerra]]
-* [[guerra civile]]
-* [[guerra fredda]]
-* [[guerrafondaio]]
-* [[guerraiolo]]
-* [[guerraiuolo]]
-* [[guerra mondiale]]
-* [[guerreggiante]]
-* [[guerreggiare]]
-* [[guerreggiatore]]
-* [[guerrescamente]]
-* [[guerresco]]
-* [[guerricciola]]
-* [[guerriera]]
-* [[guerriero]]
-* [[guerriglia]]
-* [[guerrigliera]]
-* [[guerrigliero]]
-
-===Anagrams===
-* [[urgerà#Italian|urgerà]]
-
+<h3>Anagrams</h3>
+<ul><li> urgerà</li>
+</ul>
 ----
-
-
 ***i***
-i: 
+i:
 
-===Etymology 1===
-Reduced form of {{term|gli|lang=it}}.<ref>{{reference-book | last = Patota | first = Giuseppe | title = Lineamenti di grammatica storica dell'italiano | year = 2002 | publisher = il Mulino | location = Bologna | language = Italian | id = ISBN 88-15-08638-2 | pages = p. 126 | chapter = }}</ref>
+<h3>Etymology 1</h3>
+Reduced form of {{term|gli|lang=it}}.<ref>{{reference-book| last = Patota | first = Giuseppe | title = Lineamenti di grammatica storica dell'italiano | year = 2002 | publisher = il Mulino | location = Bologna | language = Italian | id = ISBN 88-15-08638-2 | pages = p. 126 | chapter = }}</ref>
+<h4>Article</h4>
+{Italian definite articles}{{head|it|article|singular|il|g=m|g2=p}}
+<ol><li> the (<em>see the usage notes</em>)</li>
+</ol>
 
-====Article====
-{{Italian definite articles}}
-{{head|it|article|g=m|g2=p|singular|il}}
+<h5>Usage notes</h5>
+<ul><li> <b><em>i</b></em> is used before masculine plural words beginning with a single consonant other than <em>x</em> or <em>z</em>, or the plural noun {{term|dei|lang=it}}; <b><em>{{term|gli|lang=it}}</b></em> is used before masculine plural words beginning with a vowel, <em>x</em>, <em>z</em>, <em>gn</em>, or multiple consonants including <em>pn</em>, <em>ps</em>, and <em>s</em>+consonant, and before the plural noun {{term|dei|lang=it}}.</li>
+</ul>
 
-# [[the]] (''see the usage notes'')
+<h4>See also</h4>
+<ul><li> {{l|it|gli}}, {{l|it|la}}, {{l|it|le}}</li>
+</ul>
 
-=====Usage notes=====
-* '''''i''''' is used before masculine plural words beginning with a single consonant other than ''x'' or ''z'', or the plural noun {{term|dei|lang=it}}; '''''{{term|gli|lang=it}}''''' is used before masculine plural words beginning with a vowel, ''x'', ''z'', ''gn'', or multiple consonants including ''pn'', ''ps'', and ''s''+consonant, and before the plural noun {{term|dei|lang=it}}.
+<h3>Etymology 2</h3>
 
-====See also====
-* {{l|it|gli}}, {{l|it|la}}, {{l|it|le}}
+<h4>Noun</h4>
+<b>i</b> {f} <em>or</em> {m} {inv}
+<ol><li> <em>I</em> or <em>i</em>, the letter <em>I</em> or <em>i</em></li>
+</ol>
 
-===Etymology 2===
+<h5>Derived terms</h5>
+<ul><li> i lunga</li>
+</ul>
 
-====Noun====
-'''i''' {{f}} ''or'' {{m}} {{inv}}
-
-# ''[[I]]'' or ''[[#English|i]]'', the letter ''I'' or ''i''
-
-=====Derived terms=====
-* [[i lunga]]
-
-===References===
-<references/>
-
-[[Category:it:Latin letter names]]
-
-----
-
-
+<h3>References</h3>
+<references/>Category:it:Latin letter names----
 ***in***
-in: 
+in:
 
-===Pronunciation===
-* {{IPA|[in]|lang=it}}
+<h3>Pronunciation</h3>
+<ul><li> {{IPA|[in]|lang=it}}</li>
+</ul>
 
-===Preposition===
+<h3>Preposition</h3>
 {{head|it|preposition}}
+<ol><li> in</li>
+<li> to</li>
+<ul><li> <em>Vado nella panetteria</em></li>
+<li> <em>Vado dal panettiere</em></li>
+</ul>
+<li> into</li>
+<li> by</li>
+</ol>
 
-# [[in#English|in]]
-# [[to]]
-#: ''Vado nella panetteria''
-#: ''Vado dal panettiere''
-# [[into]]
-# [[by]]
-
-====Usage notes====
-''When followed by a definite article'', '''in''' ''is combined with the article to give the following combined forms'':
-<table border="1" align="center" cellpadding="5">
-<tr><th>In + article<th>Combined form</tr>
-<tr><td align="center">in + [[il#Italian|il]]<td align="center">[[nel]]</tr>
-<tr><td align="center">in + [[lo#Italian|lo]]<td align="center">[[nello]]</tr>
-<tr><td align="center">in + [[l'#Italian|l']]<td align="center">[[nell']]</tr>
-<tr><td align="center">in + [[i#Italian|i]]<td align="center">[[nei]]</tr>
-<tr><td align="center">in + [[gli]]<td align="center">[[negli]]</tr>
-<tr><td align="center">in + [[la#Italian|la]]<td align="center">[[nella]]</tr>
-<tr><td align="center">in + [[le#Italian|le]]<td align="center">[[nelle]]</tr>
-</table>
-
-===Anagrams===
-* [[ni#Italian|ni]]
-
+<h4>Usage notes</h4>
+<em>When followed by a definite article</em>, <b>in</b> <em>is combined with the article to give the following combined forms</em>:<table border="1" align="center" cellpadding="5"><tr><th>In + article<th>Combined form</tr><tr><td align="center">in + il<td align="center">nel</tr><tr><td align="center">in + lo<td align="center">nello</tr><tr><td align="center">in + l'<td align="center">nell'</tr><tr><td align="center">in + i<td align="center">nei</tr><tr><td align="center">in + gli<td align="center">negli</tr><tr><td align="center">in + la<td align="center">nella</tr><tr><td align="center">in + le<td align="center">nelle</tr></table>
+<h3>Anagrams</h3>
+<ul><li> ni</li>
+</ul>
 ----
-
-
 ***Iraq***
-Iraq: 
+Iraq:
 {{wikipedia|lang=it}}
-
-===Proper noun===
+<h3>Proper noun</h3>
 {{it-proper noun|m}}
+<ol><li> {{l|en|Iraq}}</li>
+</ol>
 
-# {{l|en|Iraq}}
-
-====Derived terms====
-* [[iracheno]]
-
-[[Category:it:Countries]]
-
-----
-
-
+<h4>Derived terms</h4>
+<ul><li> iracheno</li>
+</ul>
+Category:it:Countries----
 ***langue***
-langue: 
+langue:
 
-===Verb===
-'''langue'''
+<h3>Verb</h3>
+<b>langue</b>
+<ol><li> {{conjugation of|languire|3|s|pres|ind|lang=it}}</li>
+</ol>
 
-# {{conjugation of|languire||3|s|pres|ind|lang=it}}
-
-===Anagrams===
-* [[lagune#Italian|lagune]]
-
-[[Category:Italian verb forms]]
-
-----
-
-
+<h3>Anagrams</h3>
+<ul><li> lagune</li>
+</ul>
+Category:Italian verb forms----
 ***lente***
-lente: 
+lente:
 
-===Etymology 1===
+<h3>Etymology 1</h3>
 Inflected form of {{term|lento|lang=it}}.
+<h4>Adjective</h4>
+{{head|it|adjective form}} {f}{p}
+<ol><li> (<em>feminine plural form of lento</em>) slow</li>
+</ol>
 
-====Adjective====
-{{head|it|adjective form}} {{f}}{{p}}
-
-# (''feminine plural form of [[lento#Italian|lento]]'') [[slow]]
-
-===Etymology 2===
-From {{etyl|la|it}} {{term|lens|lēns|lentil|lang=la}}, ''lentis''.
-
-====Noun====
+<h3>Etymology 2</h3>
+From {{etyl|la|it}} {{term|lens|lēns|lentil|lang=la}}, <em>lentis</em>.
+<h4>Noun</h4>
 {{it-noun|lent|f|e|i}}
+<ol><li> lens</li>
+</ol>
 
-# [[lens]]
-
-=====Derived terms=====
-* [[lente a contatto]]
-* [[lente d'ingrandimento]]
-
+<h5>Derived terms</h5>
+<ul><li> lente a contatto</li>
+<li> lente d'ingrandimento</li>
+</ul>
 ----
-
-
 ***libero***
-libero: 
+libero:
 
-===Etymology===
+<h3>Etymology</h3>
 From {{etyl|la|it}} {{term|liber|līber}}
+<h3>Pronunciation</h3>
+<ul><li> {{IPA|/ˈlibero/|lang=it}}</li>
+<li> {{audio|It-libero.ogg|Audio}}</li>
+</ul>
 
-===Pronunciation===
-* {{IPA|/ˈlibero/|lang=it}}
-* {{audio|It-libero.ogg|Audio}}
-
-===Adjective===
+<h3>Adjective</h3>
 {{it-adj|liber}}
+<ol><li> free (<em>not imprisoned or enslaved</em>)</li>
+<ul><li> <em>Un uomo <b>libero</b>.</em></li>
+<ul><li> A <b>free</b> man.</li>
+</ul>
+</ul>
+<li> clear, unobstructed (<em>without blockages</em>)</li>
+<ul><li> <em>Il passaggio era <b>libero</b>.</em></li>
+<ul><li> The passage was <b>clear</b>.</li>
+</ul>
+</ul>
+<li> free (<em>without obligations</em>)</li>
+<ul><li> <em>Tempo <b>libero</b>.</em></li>
+<ul><li> <b>Free</b> time./<b>Leisure</b> time.</li>
+</ul>
+</ul>
+<li> free (<em>that does not have to be paid for</em>)</li>
+<ul><li> <em>Ingresso <b>libero</b>.</em></li>
+<ul><li> <b>Free</b> admission.</li>
+</ul>
+</ul>
+<li> free (<em>as in "free software"</em>)</li>
+<ul><li> <em>Software <b>libero</b>.</em></li>
+<ul><li> <b>Free</b> software.</li>
+</ul>
+</ul>
+</ol>
 
-# [[free]] (''not [[imprisoned]] or [[enslaved]]'')
-#: ''Un [[uomo]] '''libero'''.''
-#:: A '''free''' man.
-# [[clear]], [[unobstructed]] (''without [[blockage]]s'')
-#: ''Il [[passaggio]] era '''libero'''.''
-#:: The passage was '''clear'''.
-# free (''without [[obligation]]s'')
-#: ''[[tempo|Tempo]] '''libero'''.''
-#:: '''Free''' time./'''Leisure''' time.
-# free (''that does not have to be paid for'')
-#: ''[[ingresso|Ingresso]] '''libero'''.''
-#:: '''Free''' admission.
-# free (''as in "free software"'')
-#: ''[[software#Italian|Software]] '''libero'''.''
-#:: '''Free''' software.
+<h4>Related terms</h4>
+<ul><li> liberamente</li>
+<li> liberare</li>
+<li> liberismo</li>
+<li> liberista</li>
+<li> libero professionista</li>
+<li> libertà</li>
+<li> via libera</li>
+</ul>
 
-====Related terms====
-* [[liberamente]]
-* [[liberare]]
-* [[liberismo]]
-* [[liberista]]
-* [[libero professionista]]
-* [[libertà]]
-* [[via libera]]
-
-===Verb===
+<h3>Verb</h3>
 {{head|it|verb form}}
+<ol><li> first-person singular present tense of liberare</li>
+</ol>
 
-# [[first-person singular]] [[present tense]] of [[liberare]]
-
-===Noun===
+<h3>Noun</h3>
 {{it-noun|liber|m|o|i}}
-
-# {{football|lang=it}} [[sweeper]].
-
+<ol><li> {{football|lang=it}} sweeper.</li>
+</ol>
 ----
-
-
 ***libre***
-libre: 
+libre:
 
-===Noun===
-'''libre''' {{f}}
-
-# {{plural of|libra|lang=it}}
-
+<h3>Noun</h3>
+<b>libre</b> {f}
+<ol><li> {{plural of|libra|lang=it}}</li>
+</ol>
 ----
-
-
 ***medicine***
-medicine: 
+medicine:
 
-===Noun===
-'''medicine''' {{f}}
+<h3>Noun</h3>
+<b>medicine</b> {f}
+<ol><li> {{plural of|medicina|lang=it}}</li>
+</ol>
 
-# {{plural of|medicina|lang=it}}
-
-===Anagrams===
-* [[endemici#Italian|endemici]]
-
+<h3>Anagrams</h3>
+<ul><li> endemici</li>
+</ul>
 ----
-
-
 ***minute***
-minute: 
+minute:
 
-===Adjective===
+<h3>Adjective</h3>
 {{head|it|adjective form|g=f|g2=p}}
+<ol><li> {{feminine plural of|minuto|lang=it}}</li>
+</ol>
 
-# {{feminine plural of|minuto|lang=it}}
-
-===Anagrams===
-* [[emunti#Italian|emunti]], [[munite#Italian|munite]]
-
+<h3>Anagrams</h3>
+<ul><li> emunti, munite</li>
+</ul>
 ----
-
-
 ***mobile***
-mobile: 
+mobile:
 
-===Etymology===
-From {{etyl|la|it}} ''[[mobilis]]''.
-
-===Adjective===
+<h3>Etymology</h3>
+From {{etyl|la|it}} <em>mobilis</em>.
+<h3>Adjective</h3>
 {{it-adj|mobil|e|i}}
+<ol><li> movable, mobile</li>
+<li> moving</li>
+</ol>
 
-# [[movable]], [[mobile#English|mobile]]
-# [[moving]]
+<h4>Antonyms</h4>
+<ul><li> immobile</li>
+</ul>
 
-====Antonyms====
-* [[immobile]]
-
-===Noun===
+<h3>Noun</h3>
 {{it-noun|mobil|m|e|i}}
+<ol><li> {{context|singular|lang=it}} item of furniture</li>
+<li> {{context|plural|lang=it}} furniture</li>
+<li> mobile {{gloss|cellular phone}}</li>
+</ol>
 
-# {{context|singular|lang=it}} [[item]] of [[furniture]]
-# {{context|plural|lang=it}} [[furniture]]
-# [[mobile#English|mobile]] {{gloss|cellular phone}}
+<h4>Synonyms</h4>
+<ul><li> {{sense|furniture}} mobilia, mobilio, arredamento</li>
+<li> {{sense|cellular phone}} cellulare, telefonino</li>
+</ul>
 
-====Synonyms====
-* {{sense|furniture}} [[mobilia]], [[mobilio]], [[arredamento]]
-* {{sense|cellular phone}} [[cellulare]], [[telefonino]]
+<h4>Antonyms</h4>
+<ul><li> {{sense|cellular phone}} fisso</li>
+</ul>
 
-====Antonyms====
-* {{sense|cellular phone}} [[fisso]]
+<h3>Related terms</h3>
+<ul><li> mobilia / mobilio</li>
+<li> mobiliare</li>
+<li> mobilificio</li>
+<li> mobilità</li>
+<li> mobilitare</li>
+</ul>
 
-===Related terms===
-* [[mobilia]] / [[mobilio]]
-* [[mobiliare]]
-* [[mobilificio]]
-* [[mobilità]]
-* [[mobilitare]]
-
-===Anagrams===
-* [[emboli#Italian|emboli]]
-
+<h3>Anagrams</h3>
+<ul><li> emboli</li>
+</ul>
 ----
-
-
 ***monetario***
-monetario: 
+monetario:
 
-===Adjective===
+<h3>Adjective</h3>
 {{it-adj|monetar|io|ia|i|ie}}
+<ol><li> monetary</li>
+</ol>
 
-# [[monetary]]
-
-===Anagrams===
-* [[erotomani#Italian|erotomani]]
-
+<h3>Anagrams</h3>
+<ul><li> erotomani</li>
+</ul>
 ----
-
 ***nu***
-nu: 
+nu:
 
-===Noun===
-{{head|it|noun|g=m|g2=f}} {{inv}}
+<h3>Noun</h3>
+{{head|it|noun|g=m|g2=f}} {inv}
+<ol><li> The name of the letter N</li>
+</ol>
 
-# The name of the letter [[N#Italian|N]]
-
-===Anagrams===
-* [[un#Italian|un]], [[un'#Italian|un']]
-
+<h3>Anagrams</h3>
+<ul><li> un, un'</li>
+</ul>
 ----
-
-
 ***o***
-o: 
+o:
 
-===Etymology 1===
+<h3>Etymology 1</h3>
 From {{etyl|la|it}} {{term|aut|lang=la}}.<ref>Angelo Prati, "Vocabolario Etimologico Italiano", Torino, 1951</ref>
+<h4>Alternative forms</h4>
+<ul><li> od {{qualifier|used optionally before words beginning with a vowel}}</li>
+</ul>
 
-====Alternative forms====
-* [[od]] {{qualifier|used optionally before words beginning with a vowel}}
-
-====Conjunction====
+<h4>Conjunction</h4>
 {{head|it|conjunction}}
+<ol><li> or</li>
+</ol>
 
-# [[or]]
+<h3>Etymology 2</h3>
 
-===Etymology 2===
-
-====Verb====
+<h4>Verb</h4>
 {{head|it|verb form}}
+<ol><li> {{misspelling of|ho|lang=it}}</li>
+</ol>
 
-# {{misspelling of|ho|lang=it}}
-
-===References===
-<references/>
-
-----
-
-
+<h3>References</h3>
+<references/>----
 ***OMC***
-OMC: 
+OMC:
 
-==={{initialism|Italian}}===
-'''OMC'''
+<h3>{{initialism|Italian}}</h3>
+<b>OMC</b>
+<ol><li> Organizzazione Mondiale del Commercio, WTO (World Trade Organisation.)</li>
+</ol>
 
-# [[Organizzazione Mondiale del Commercio]], [[WTO]] ([[World Trade Organisation]].)
-
-===Anagrams===
-* [[com'#Italian|com']]
-
+<h3>Anagrams</h3>
+<ul><li> com'</li>
+</ul>
 ----
-
-
 ***osteo***
-osteo-: 
+osteo-:
 
-===Prefix===
-'''osteo-'''
-
-# {{anatomy|lang=it}} [[#English|osteo-]]
-
-[[Category:Italian prefixes]]
-
-[[et:osteo-]]
-[[fr:osteo-]]
-[[ja:osteo-]]
-[[pl:osteo-]]
+<h3>Prefix</h3>
+<b>osteo-</b>
+<ol><li> {{anatomy|lang=it}} osteo-</li>
+</ol>
+Category:Italian prefixeset:osteo-fr:osteo-ja:osteo-pl:osteo-
 ***parole***
-parole: 
+parole:
 
-===Pronunciation===
-* {{IPA|/paɾɔle/|lang=it}}, {{X-SAMPA|/pa4Ole/}}
+<h3>Pronunciation</h3>
+<ul><li> {{IPA|/paɾɔle/|lang=it}}, {{X-SAMPA|/pa4Ole/}}</li>
+</ul>
 
-===Noun===
+<h3>Noun</h3>
 {{head|it|noun|g=f|g2=p}}
+<ol><li> {{plural of|parola|lang=it}}</li>
+<ul><li> <em>Ci vogliono fatti e non <b>parole</b>.</em></li>
+<ul><li> <em>Action is needed, not <b>words</b>.</em></li>
+</ul>
+</ul>
+<li> {{context|of a song}} lyrics, words</li>
+<ul><li> <em>Musica di Paolo, <b>parole</b> di Lorenzo</em></li>
+<ul><li> <em>Music by Paolo, <b>lyrics</b> by Lorenzo.</em></li>
+</ul>
+</ul>
+</ol>
 
-# {{plural of|parola|lang=it}}
-#: ''Ci vogliono fatti e non '''parole'''.''
-#:: ''Action is needed, not '''words'''.''
-# {{context|of a song}} [[lyrics]], [[word]]s
-#: ''Musica di Paolo, '''parole''' di Lorenzo''
-#:: ''Music by Paolo, '''lyrics''' by Lorenzo.''
+<h4>Synonyms</h4>
+<ul><li> {{sense|lyrics}} testo</li>
+</ul>
 
-====Synonyms====
-* {{sense|lyrics}} [[testo]]
-
-===Anagrams===
-* [[palerò#Italian|palerò]], [[polare#Italian|polare]]
-
+<h3>Anagrams</h3>
+<ul><li> palerò, polare</li>
+</ul>
 ----
-
-
 ***peso***
-peso: 
+peso:
 
-===Etymology===
+<h3>Etymology</h3>
 From {{etyl|la|it}} {{term|pensum|lang=la}}.
-
-===Noun===
+<h3>Noun</h3>
 {{it-noun|pes|m|o|i}}
+<ol><li> weight</li>
+</ol>
 
-# [[weight]]
+<h4>Related terms</h4>
+<ul><li> pesalettere</li>
+<li> pesante</li>
+<li> pesare</li>
+<li> pesata</li>
+<li> pesiera</li>
+<li> pesista</li>
+<li> pesistica</li>
+</ul>
 
-====Related terms====
-* [[pesalettere]]
-* [[pesante]]
-* [[pesare]]
-* [[pesata]]
-* [[pesiera]]
-* [[pesista]]
-* [[pesistica]]
+<h3>Verb</h3>
+<b>peso</b>
+<ol><li> {{conjugation of|pesare|1|s|pres|ind|lang=it}}</li>
+</ol>
 
-===Verb===
-'''peso'''
-
-# {{conjugation of|pesare||1|s|pres|ind|lang=it}}
-
-===Anagrams===
-* [[pose#Italian|pose]]
-
-[[Category:Italian verb forms]]
-
-----
-
-
+<h3>Anagrams</h3>
+<ul><li> pose</li>
+</ul>
+Category:Italian verb forms----
 ***pie***
-pie: 
+pie:
 
-===Adjective===
-'''pie''' {{f}}
+<h3>Adjective</h3>
+<b>pie</b> {f}
+<ol><li> Feminine plural form of pio</li>
+</ol>
 
-# Feminine plural form of [[pio]]
-
-===Anagrams===
-* [[pei#Italian|pei]]
-
-[[Category:Italian adjective forms]]
-
-----
-
-
+<h3>Anagrams</h3>
+<ul><li> pei</li>
+</ul>
+Category:Italian adjective forms----
 ***premature***
-premature: 
+premature:
 
-===Adjective===
-'''premature'''
+<h3>Adjective</h3>
+<b>premature</b>
+<ol><li> Feminine plural form of prematuro</li>
+</ol>
 
-# Feminine plural form of [[prematuro]]
-
-===Anagrams===
-* [[premurate#Italian|premurate]]
-
-[[Category:Italian adjective forms]]
-
-[[et:premature]]
-[[es:premature]]
-[[fr:premature]]
-[[ko:premature]]
-[[io:premature]]
-[[id:premature]]
-[[it:premature]]
-[[kn:premature]]
-[[hu:premature]]
-[[mg:premature]]
-[[ml:premature]]
-[[my:premature]]
-[[nl:premature]]
-[[pl:premature]]
-[[fi:premature]]
-[[sv:premature]]
-[[ta:premature]]
-[[te:premature]]
-[[vi:premature]]
-[[zh:premature]]
+<h3>Anagrams</h3>
+<ul><li> premurate</li>
+</ul>
+Category:Italian adjective formset:prematurees:prematurefr:prematureko:prematureio:prematureid:prematureit:prematurekn:prematurehu:prematuremg:prematureml:prematuremy:prematurenl:prematurepl:prematurefi:prematuresv:prematureta:prematurete:prematurevi:prematurezh:premature
 ***pseudo***
-pseudo-: 
+pseudo-:
 
-===Prefix===
+<h3>Prefix</h3>
 {{head|it|prefix}}
-
-# [[#English|pseudo-]]
-
+<ol><li> pseudo-</li>
+</ol>
 ----
-
 ***qualitative***
-qualitative: 
+qualitative:
 
-===Adjective===
-'''qualitative''' {{f}}
-
-# Feminine plural form of [[qualitativo]]
-
-[[Category:Italian adjective forms]]
-
-[[et:qualitative]]
-[[el:qualitative]]
-[[es:qualitative]]
-[[fa:qualitative]]
-[[fr:qualitative]]
-[[io:qualitative]]
-[[hu:qualitative]]
-[[my:qualitative]]
-[[ja:qualitative]]
-[[pl:qualitative]]
-[[pt:qualitative]]
-[[ru:qualitative]]
-[[simple:qualitative]]
-[[fi:qualitative]]
-[[ta:qualitative]]
-[[te:qualitative]]
-[[tr:qualitative]]
-[[vi:qualitative]]
-[[zh:qualitative]]
+<h3>Adjective</h3>
+<b>qualitative</b> {f}
+<ol><li> Feminine plural form of qualitativo</li>
+</ol>
+Category:Italian adjective formset:qualitativeel:qualitativees:qualitativefa:qualitativefr:qualitativeio:qualitativehu:qualitativemy:qualitativeja:qualitativepl:qualitativept:qualitativeru:qualitativesimple:qualitativefi:qualitativeta:qualitativete:qualitativetr:qualitativevi:qualitativezh:qualitative
 ***quiz***
-quiz: 
+quiz:
 
-===Noun===
-{{head|it|noun|g=m}} {{inv}}
+<h3>Noun</h3>
+{{head|it|noun|g=m}} {inv}
+<ol><li> quiz</li>
+</ol>
 
-# [[#English|quiz]]
-
-====Derived terms====
-* [[telequiz]]
-
-[[et:quiz]]
-[[el:quiz]]
-[[fa:quiz]]
-[[fr:quiz]]
-[[ko:quiz]]
-[[id:quiz]]
-[[it:quiz]]
-[[kn:quiz]]
-[[sw:quiz]]
-[[hu:quiz]]
-[[ml:quiz]]
-[[my:quiz]]
-[[nl:quiz]]
-[[ja:quiz]]
-[[pl:quiz]]
-[[pt:quiz]]
-[[ru:quiz]]
-[[simple:quiz]]
-[[fi:quiz]]
-[[sv:quiz]]
-[[ta:quiz]]
-[[te:quiz]]
-[[tr:quiz]]
-[[vi:quiz]]
-[[zh:quiz]]
+<h4>Derived terms</h4>
+<ul><li> telequiz</li>
+</ul>
+et:quizel:quizfa:quizfr:quizko:quizid:quizit:quizkn:quizsw:quizhu:quizml:quizmy:quiznl:quizja:quizpl:quizpt:quizru:quizsimple:quizfi:quizsv:quizta:quizte:quiztr:quizvi:quizzh:quiz
 ***radio***
-radio: 
+radio:
 {{wikipedia|lang=it}}
+<h3>Etymology</h3>
+Borrowed from {{etyl|la|it}} <em>radius</em>.
+<h3>Pronunciation</h3>
+<ul><li> {{enPR|ràdio}}, {{IPA|/ˈradjo/|lang=it}}, {{X-SAMPA|/"radjo/}}</li>
+</ul>
 
-===Etymology===
-Borrowed from {{etyl|la|it}} ''[[radius]]''.
-
-===Pronunciation===
-* {{enPR|ràdio}}, {{IPA|/ˈradjo/|lang=it}}, {{X-SAMPA|/"radjo/}}
-
-===Noun===
+<h3>Noun</h3>
 {{it-noun|rad|m|io|i}}
+<ol><li> {{skeleton|lang=it}} radius</li>
+<li> radium</li>
+<li> Variant of raggio.</li>
+</ol>
 
-# {{skeleton|lang=it}} [[radius]]
-# [[radium]]
-# Variant of [[raggio]].
+<h4>Synonyms</h4>
+<ul><li> {{sense|radius}} radiale, osso radiale</li>
+</ul>
 
-====Synonyms====
-* {{sense|radius}} [[radiale]], [[osso radiale]]
+<h4>Related terms</h4>
+<ul><li> radiale</li>
+</ul>
 
-====Related terms====
-* [[radiale]]
+<h3>Noun</h3>
+{{head|it|noun|g=f}} {inv}
+<ol><li> radio</li>
+</ol>
 
-===Noun===
-{{head|it|noun|g=f}} {{inv}}
-
-# [[#English|radio]]
-
-===Verb===
+<h3>Verb</h3>
 {{head|it|verb form}}
+<ol><li> {{conjugation of|radiare|1|s|pres|ind|lang=it}}</li>
+</ol>
 
-# {{conjugation of|radiare||1|s|pres|ind|lang=it}}
-
-===Anagrams===
-* [[adiro#Italian|adiro]], [[adirò#Italian|adirò]]
-* [[adori#Italian|adori]]
-* [[Adrio#Italian|Adrio]]
-* [[arido#Italian|arido]]
-* [[Dario#Italian|Dario]]
-* [[dorai#Italian|dorai]]
-* [[rioda#Italian|rioda]]
-* [[rodai#Italian|rodai]]
-
-[[Category:Italian nouns with irregular gender]]
-[[Category:it:Chemical elements]]
-
-----
-
-
+<h3>Anagrams</h3>
+<ul><li> adiro, adirò</li>
+<li> adori</li>
+<li> Adrio</li>
+<li> arido</li>
+<li> Dario</li>
+<li> dorai</li>
+<li> rioda</li>
+<li> rodai</li>
+</ul>
+Category:Italian nouns with irregular genderCategory:it:Chemical elements----
 ***rape***
-rape: 
+rape:
 
-===Pronunciation===
-* {{IPA|/ˈrape/|[ˈraː.pe]|lang=it}}, {{X-SAMPA|/"rape/}}
-* {{hyphenation|rà|pe}}
+<h3>Pronunciation</h3>
+<ul><li> {{IPA|/ˈrape/|[ˈraː.pe]|lang=it}}, {{X-SAMPA|/"rape/}}</li>
+<li> {{hyphenation|rà|pe}}</li>
+</ul>
 
-===Noun===
-'''rape''' {{f}}
+<h3>Noun</h3>
+<b>rape</b> {f}
+<ol><li> {{plural of|rapa|lang=it}}</li>
+</ol>
 
-# {{plural of|rapa|lang=it}}
-
-===Anagrams===
-* [[apre#Italian|apre]], [[arpe#Italian|arpe]], [[pare#Italian|pare]], [[pera#Italian|pera]]
-
+<h3>Anagrams</h3>
+<ul><li> apre, arpe, pare, pera</li>
+</ul>
 ----
-
-
 ***relegate***
-relegate: 
+relegate:
 
-===Pronunciation===
-* {{IPA|/re.leˈɡa.te/|lang=it}}
-* {{hyphenation|re|le|gà|te}}
+<h3>Pronunciation</h3>
+<ul><li> {{IPA|/re.leˈɡa.te/|lang=it}}</li>
+<li> {{hyphenation|re|le|gà|te}}</li>
+</ul>
 
-===Verb===
-'''relegate'''
-
-# {{conjugation of|relegare||2|p|pres|ind|lang=it}}
-# {{conjugation of|relegare||2|p|imp|lang=it}}
-# {{form of|[[feminine|Feminine]] plural|relegato}}
-
-[[Category:Italian past participle forms]]
-[[Category:Italian verb forms]]
-
-----
-
-
+<h3>Verb</h3>
+<b>relegate</b>
+<ol><li> {{conjugation of|relegare|2|p|pres|ind|lang=it}}</li>
+<li> {{conjugation of|relegare|2|p|imp|lang=it}}</li>
+<li> {{form of|Feminine plural|relegato}}</li>
+</ol>
+Category:Italian past participle formsCategory:Italian verb forms----
 ***robot***
-robot: 
+robot:
 
-===Noun===
-{{head|it|noun|g=m}} {{inv}}
+<h3>Noun</h3>
+{{head|it|noun|g=m}} {inv}
+<ol><li> {{l|en|robot}}</li>
+<li> {{computing|lang=it}} bot</li>
+</ol>
 
-# {{l|en|robot}}
-# {{computing|lang=it}} [[bot]]
-
-====Derived terms====
-* [[robot da cucina]]
-
+<h4>Derived terms</h4>
+<ul><li> robot da cucina</li>
+</ul>
 ----
-
-
 ***sabato***
-sabato: 
+sabato:
 
-===Pronunciation===
-* {{IPA|/ˈsabato/|[ˈsaː.ba.t̪o]|lang=it}}, {{X-SAMPA|/"sabato/}}
-* {{audio|It-sabato.ogg|audio}}
-* {{hyphenation|sà|ba|to}}
+<h3>Pronunciation</h3>
+<ul><li> {{IPA|/ˈsabato/|[ˈsaː.ba.t̪o]|lang=it}}, {{X-SAMPA|/"sabato/}}</li>
+<li> {{audio|It-sabato.ogg|audio}}</li>
+<li> {{hyphenation|sà|ba|to}}</li>
+</ul>
 
-===Etymology===
-From {{etyl|la|it}} ''[[sabbatum]]'', from {{etyl|grc|it}} {{term|σάββατον||tr=sabbaton|Sabbath|lang=grc|sc=Grek}}, from {{etyl|hbo|it}} {{term|שבת||tr=shabbat|Sabbath|sc=Hebr|lang=he}}; compare English {{term|Sabbath|lang=en}}.
-
-===Noun===
+<h3>Etymology</h3>
+From {{etyl|la|it}} <em>sabbatum</em>, from {{etyl|grc|it}} {{term|σάββατον|Sabbath|tr=sabbaton|lang=grc|sc=Grek}}, from {{etyl|hbo|it}} {{term|שבת|Sabbath|tr=shabbat|sc=Hebr|lang=he}}; compare English {{term|Sabbath|lang=en}}.
+<h3>Noun</h3>
 {{it-noun|sabat|m|o|i}}
+<ol><li> Saturday</li>
+</ol>
 
-# [[Saturday]]
+<h3>See also</h3>
+<ul><li> {{list|it|days of the week}}</li>
+</ul>
 
-===See also===
-* {{list|it|days of the week}}
-
-===Anagrams===
-* [[basato#Italian|basato]], [[sabota#Italian|sabota]]
-[[Category:it:Days of the week]]
-
-[[af:sabato]]
-[[ang:sabato]]
-[[ast:sabato]]
-[[az:sabato]]
-[[br:sabato]]
-[[cs:sabato]]
-[[cy:sabato]]
-[[da:sabato]]
-[[de:sabato]]
-[[et:sabato]]
-[[el:sabato]]
-[[es:sabato]]
-[[eo:sabato]]
-[[eu:sabato]]
-[[fr:sabato]]
-[[gl:sabato]]
-[[ko:sabato]]
-[[hy:sabato]]
-[[io:sabato]]
-[[id:sabato]]
-[[it:sabato]]
-[[lo:sabato]]
-[[lv:sabato]]
-[[lb:sabato]]
-[[lt:sabato]]
-[[hu:sabato]]
-[[mg:sabato]]
-[[nl:sabato]]
-[[ja:sabato]]
-[[no:sabato]]
-[[oc:sabato]]
-[[pl:sabato]]
-[[pt:sabato]]
-[[ro:sabato]]
-[[ru:sabato]]
-[[fi:sabato]]
-[[sv:sabato]]
-[[ta:sabato]]
-[[tr:sabato]]
-[[zh:sabato]]
+<h3>Anagrams</h3>
+<ul><li> basato, sabota</li>
+</ul>
+Category:it:Days of the weekaf:sabatoang:sabatoast:sabatoaz:sabatobr:sabatocs:sabatocy:sabatoda:sabatode:sabatoet:sabatoel:sabatoes:sabatoeo:sabatoeu:sabatofr:sabatogl:sabatoko:sabatohy:sabatoio:sabatoid:sabatoit:sabatolo:sabatolv:sabatolb:sabatolt:sabatohu:sabatomg:sabatonl:sabatoja:sabatono:sabatooc:sabatopl:sabatopt:sabatoro:sabatoru:sabatofi:sabatosv:sabatota:sabatotr:sabatozh:sabato
 ***seme***
-seme: 
+seme:
 {{wikipedia|lang=it}}
+<h3>Pronunciation</h3>
+<ul><li> {{IPA|[ˈseme]|lang=it}}</li>
+<li> {{enPR|séme}}, {{IPA|/ˈseme/|lang=it}}, {{X-SAMPA|/"seme/}}</li>
+</ul>
 
-===Pronunciation===
-* {{IPA|[ˈseme]|lang=it}}
-* {{enPR|séme}}, {{IPA|/ˈseme/|lang=it}}, {{X-SAMPA|/"seme/}}
-
-===Etymology===
-From {{etyl|la|it}} ''[[semen]]''.
-
-===Noun===
+<h3>Etymology</h3>
+From {{etyl|la|it}} <em>semen</em>.
+<h3>Noun</h3>
 {{it-noun|sem|m|e|i}}
+<ol><li> seed</li>
+<li> pip</li>
+<li> bean (in some cases)</li>
+</ol>
 
-# [[seed]]
-# [[pip]]
-# [[bean]] (in some cases)
+<h4>Related terms</h4>
+<ul><li> semaio</li>
+<li> sementa</li>
+<li> semente</li>
+<li> semenza</li>
+<li> semina</li>
+<li> seminare</li>
+</ul>
 
-====Related terms====
-* [[semaio]]
-* [[sementa]]
-* [[semente]]
-* [[semenza]]
-* [[semina]]
-* [[seminare]]
-
-===Anagrams===
-* [[mese#Italian|mese]]
-
+<h3>Anagrams</h3>
+<ul><li> mese</li>
+</ul>
 ----
-
-
 ***SpA***
-SpA: 
+SpA:
 
-===Noun===
+<h3>Noun</h3>
 {{head|it|noun}} {{f|inv}}
+<ol><li> {{abbreviation of|società per azioni|lang=it}} {{gloss|public limited company, PLC}}</li>
+</ol>
 
-# {{abbreviation of|società per azioni|lang=it}} {{gloss|public limited company, PLC}}
+<h4>Coordinate terms</h4>
+<ul><li> società per azioni</li>
+<li> LLC {{qualifier|English}}</li>
+<li> {{sense|Canada}} Ltd. {{qualifier|English}} , Ltée. {{qualifier|French}}</li>
+<li> {{sense|Germany}} GmbH {{qualifier|German}}</li>
+<li> {{sense|Netherlands}} N.V. {{qualifier|Dutch}}</li>
+<li> {{sense|UK}} PLC {{qualifier|English}}</li>
+<li> {{sense|USA}} Inc. {{qualifier|English}}</li>
+</ul>
 
-====Coordinate terms====
-; società per azioni
-* [[LLC]] {{qualifier|English}}
-* {{sense|Canada}} [[Ltd.]] {{qualifier|English}} , [[Ltée.]] {{qualifier|French}}
-* {{sense|Germany}} [[GmbH]] {{qualifier|German}}
-* {{sense|Netherlands}} [[N.V.]] {{qualifier|Dutch}}
-* {{sense|UK}} [[PLC]] {{qualifier|English}}
-* {{sense|USA}} [[Inc.]] {{qualifier|English}}
 ***star***
-star: 
+star:
 
-===Etymology===
+<h3>Etymology</h3>
 From {{etyl|en|it}}
-
-===Noun===
-{{head|it|noun|g=f}} {{inv}}
-
-# [[#English|star]] {{gloss|celebrity}}
-
+<h3>Noun</h3>
+{{head|it|noun|g=f}} {inv}
+<ol><li> star {{gloss|celebrity}}</li>
+</ol>
 ----
-
-
 ***stock***
-stock: 
+stock:
 
-===Etymology===
-From {{etyl|en|it}} [[#English|stock]].
-
-===Noun===
+<h3>Etymology</h3>
+From {{etyl|en|it}} stock.
+<h3>Noun</h3>
 {{head|it|noun}}
-
-# [[#English|stock]], goods in supply, [[inventory]]
-
+<ol><li> stock, goods in supply, inventory</li>
+</ol>
 ----
-
-
 ***te***
-te: 
+te:
 
-===Etymology===
+<h3>Etymology</h3>
 From {{etyl|la|it}} {{term|te|tē|lang=la}}, from {{term|tu|tū|lang=la}}.
-
-===Pronoun===
+<h3>Pronoun</h3>
 {{head|it|pronoun}}
+<ol><li> (<em>emphasised objective of tu</em>) you</li>
+</ol>
 
-# (''emphasised objective of [[tu#Italian|tu]]'') [[you]]
-
-====See also====
-* [[ti#Italian|ti]]
-* [[tè]]
-
+<h4>See also</h4>
+<ul><li> ti</li>
+<li> tè</li>
+</ul>
 ----
-
-
 ***transfinite***
-transfinite: 
+transfinite:
 
-===Adjective===
-'''transfinite''' {{f}}
-
-# Feminine plural form of [[transfinito]]
-
-[[Category:Italian adjective forms]]
-
-[[fr:transfinite]]
-[[ko:transfinite]]
-[[io:transfinite]]
-[[pl:transfinite]]
-[[ru:transfinite]]
-[[vi:transfinite]]
+<h3>Adjective</h3>
+<b>transfinite</b> {f}
+<ol><li> Feminine plural form of transfinito</li>
+</ol>
+Category:Italian adjective formsfr:transfiniteko:transfiniteio:transfinitepl:transfiniteru:transfinitevi:transfinite
 ***transitive***
-transitive: 
+transitive:
 
-===Adjective===
-'''transitive''' {{p}}
+<h3>Adjective</h3>
+<b>transitive</b> {p}
+<ol><li> {{feminine of|transitivo|lang=it}}</li>
+</ol>
 
-# {{feminine of|transitivo|lang=it}}
-
-===Anagrams===
-* {{l|it|intervista}}, {{l|it|intestarvi}}, {{l|it|intraviste}}, {{l|it|rinvestita}}, {{l|it|rinvitaste}}, {{l|it|strinatevi}}, {{l|it|vetrinista}}
-
-[[Category:Italian adjective forms]]
-
-----
-
-
+<h3>Anagrams</h3>
+<ul><li> {{l|it|intervista}}, {{l|it|intestarvi}}, {{l|it|intraviste}}, {{l|it|rinvestita}}, {{l|it|rinvitaste}}, {{l|it|strinatevi}}, {{l|it|vetrinista}}</li>
+</ul>
+Category:Italian adjective forms----
 ***Tunisia***
-Tunisia: 
+Tunisia:
 {{wikipedia|lang=it}}
+<h3>Proper noun</h3>
+<b>Tunisia</b> {f}
+<ol><li> Tunisia</li>
+</ol>
 
-===Proper noun===
-'''Tunisia''' {{f}}
-
-# [[#English|Tunisia]]
-
-====Derived terms====
-* [[tunisino]]
-
-[[Category:Italian proper nouns]]
-[[Category:it:Countries]]
-
-----
-
-
+<h4>Derived terms</h4>
+<ul><li> tunisino</li>
+</ul>
+Category:Italian proper nounsCategory:it:Countries----
 ***wireless***
-wireless: 
+wireless:
 
-===Etymology===
+<h3>Etymology</h3>
 {{etyl|en|it}}
+<h3>Noun</h3>
+{{head|it|noun|g=m}} {inv}
+<ol><li> wireless (transmission without wires)</li>
+</ol>
 
-===Noun===
-{{head|it|noun|g=m}} {{inv}}
-
-# [[#English|wireless]] (transmission without wires)
-
-===Adjective===
-{{head|it|adjective}} {{inv}}
-
-# [[#English|wireless]] (computing)
-
-[[cs:wireless]]
-[[et:wireless]]
-[[el:wireless]]
-[[fa:wireless]]
-[[fr:wireless]]
-[[ko:wireless]]
-[[io:wireless]]
-[[id:wireless]]
-[[kn:wireless]]
-[[hu:wireless]]
-[[ml:wireless]]
-[[fj:wireless]]
-[[nl:wireless]]
-[[pl:wireless]]
-[[pt:wireless]]
-[[fi:wireless]]
-[[sv:wireless]]
-[[ta:wireless]]
-[[tr:wireless]]
-[[vi:wireless]]
-[[zh:wireless]]
+<h3>Adjective</h3>
+{{head|it|adjective}} {inv}
+<ol><li> wireless (computing)</li>
+</ol>
+cs:wirelesset:wirelessel:wirelessfa:wirelessfr:wirelessko:wirelessio:wirelessid:wirelesskn:wirelesshu:wirelessml:wirelessfj:wirelessnl:wirelesspl:wirelesspt:wirelessfi:wirelesssv:wirelessta:wirelesstr:wirelessvi:wirelesszh:wireless
 ***y***
-y: 
+y:
 
-===Noun===
+<h3>Noun</h3>
 {{head|it|letter}} {{m|f|inv}}
-
-# See under [[Y#Italian|Y]]
-
+<ol><li> See under Y</li>
+</ol>
 ----
-
-
 ***zero***
-zero: 
-{{cardinalbox|it||0|1||uno|ord=zeresimo}}
+zero:
+{{cardinalbox|it|0|1|uno|ord=zeresimo}}
+<h3>Pronunciation</h3>
+<ul><li> {{IPA|/ˈdzɛro/|[ˈd̪͡z̪ɛː.ro]|lang=it}}, {{X-SAMPA|/"dzEro/}}</li>
+<li> {{hyphenation|zè|ro}}</li>
+</ul>
 
-===Pronunciation===
-* {{IPA|/ˈdzɛro/|[ˈd̪͡z̪ɛː.ro]|lang=it}}, {{X-SAMPA|/"dzEro/}}
-* {{hyphenation|zè|ro}}
-
-===Adjective===
+<h3>Adjective</h3>
 {{head|it|adjective}} {{m|f|inv}}
+<ol><li> zero</li>
+</ol>
 
-# [[#English|zero]]
-
-===Noun===
+<h3>Noun</h3>
 {{it-noun|zer|m|o|i}}
+<ol><li> zero</li>
+<li> nil (football)</li>
+</ol>
 
-# [[#English|zero]]
-# [[nil]] (football)
+<h4>Derived terms</h4>
+<ul><li> a zero</li>
+<li> zero assoluto</li>
+<li> zero spaccato</li>
+<li> zero zero sette</li>
+<li> l'ora zero</li>
+</ul>
 
-====Derived terms====
-* [[a zero]]
-* [[zero assoluto]]
-* [[zero spaccato]]
-* [[zero zero sette]]
-* l'[[ora zero]]
-
-===See also===
-* [[Appendix:Italian numbers]]
-
-[[Category:Italian cardinal numbers]]
-
-----
-
-
+<h3>See also</h3>
+<ul><li> Appendix:Italian numbers</li>
+</ul>
+Category:Italian cardinal numbers----
 
 Index: EN EN->IT
 
