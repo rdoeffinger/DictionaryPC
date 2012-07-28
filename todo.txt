@@ -1,38 +1,33 @@
+make sure word is sticky when you change dictionaries.
+
 get rid of Appendix:....  sections from EN.data in split.
 
-
+- on small device it would be great to be able to hide the system status bar and the title bar
+- an history list of the searched words per dictionary with the possibility of having a rudimentary flash card game from it to memorise new words
+- space between clear text button and language button is to big (my screen is 320x240, Galaxy Mini)
 
 fix update screen.
 
-download latest wiktionaries
-split
-DictionaryBuilderTest
-rebuild dictionaries.
-zip -9
-rebuild Check
-publish.
+To republish:
+* download latest wiktionaries
+* split
+* DictionaryBuilderTest
+* rebuild dictionaries.
+* zip -9
+* rebuild Check
+* publish.
 
 
 anytime there's a tr= or a head=, make sure to file under that!
 for i in res/raw*/*.html; do echo $i; tidy --input-encoding utf8  --output-file $i $i; done
 
 SpannableText persisted class with a list of spans with span types. (might need its own builder.)
-Choosable flags for: German, Spanish, English, Portuguese, Arabic (with defaults).
-Hide uninstalled dictionaries.
 Update DictionaryBuilder.jar
 For next release:
 flag images
-test/fix return to last-used dictionary
-downloads stability
 history dialog
-random word jump
 italian verbs... (show conjugation, pulled from a linked place....--would lower size a lot!)
 
-Handle other sections:
-  Pronunciation
-  Synonyms
-  Usage notes.
-  Chinese: handle "Compounds" section
 
 handle enwiktionary examples like "asdf (asdf)"
 better example splitting
@@ -45,6 +40,7 @@ check arabic UI fix
 
 
 done:
+Hide uninstalled dictionaries.
 * sorting of entries
 * better Row/Entry classes?
 * wiktionary
@@ -62,7 +58,6 @@ icons inside dictionaries
 
 
 **** PC:
-handle word-info in English.
 {{count page|[[Wiktionary:Page count]]}}
 
 Bad filing: under Arab?
@@ -127,4 +122,11 @@ fix up dictionary manager:
   check over UI.
 * multi word search
 change sorting to put your locale first
+Handle other sections:
+  Pronunciation
+  Synonyms
+  Usage notes.
+  Chinese: handle "Compounds" section
+handle word-info in English.
+random word jump
   

@@ -25,6 +25,7 @@ import java.util.Set;
 import junit.framework.TestCase;
 
 import com.hughes.android.dictionary.parser.wiktionary.EnTranslationToTranslationParser;
+import com.hughes.android.dictionary.parser.wiktionary.WholeSectionToHtmlParser;
 import com.hughes.android.dictionary.parser.wiktionary.WiktionaryLangs;
 
 public class DictionaryBuilderMain extends TestCase {
@@ -108,7 +109,7 @@ public class DictionaryBuilderMain extends TestCase {
       }
       
       result.add(String.format("--input%d=%s/wikiSplit/en/%s.data", i, INPUTS, foreignIso));
-      result.add(String.format("--input%dName=enwiktionary.%s", i, foreignIso)) ;
+      result.add(String.format("--input%dName=ENWiktionary.%s", i, foreignIso)) ;
       result.add(String.format("--input%dFormat=enwiktionary", i));
       result.add(String.format("--input%dWiktionaryType=EnForeign", i));
       result.add(String.format("--input%dLangPattern=%s", i, foreignRegex));
@@ -132,6 +133,13 @@ public class DictionaryBuilderMain extends TestCase {
         result.add(String.format("--input%dFormat=chemnitz", i));
         ++i;
       }
+      
+      result.add(String.format("--input%d=%s/wikiSplit/en/%s.data", i, INPUTS, foreignIso));
+      result.add(String.format("--input%dName=%s", i, "ENWiktionary.WholeSections.%s", foreignIso));
+      result.add(String.format("--input%dFormat=%s", i, WholeSectionToHtmlParser.NAME));
+      result.add(String.format("--input%dTitleIndex=%d", i, 3 - enIndex));
+      ++i;
+
     } else {
       // Pairs without English.
       result.add(String.format("--lang1=%s", lang1));
@@ -254,6 +262,10 @@ public class DictionaryBuilderMain extends TestCase {
         continue;
       }
       done.add(pairList);
+      
+      if (!pairList.contains("IT") || !pairList.contains("EN")) {
+        continue;
+      }
       
       DictionaryBuilder.main(getMainArgs(pair).toArray(new String[0]));
     }

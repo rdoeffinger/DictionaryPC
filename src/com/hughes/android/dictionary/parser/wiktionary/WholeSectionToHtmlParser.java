@@ -5,6 +5,8 @@ import java.util.List;
 import java.util.Map;
 import java.util.regex.Pattern;
 
+import org.apache.commons.lang3.StringEscapeUtils;
+
 import com.hughes.android.dictionary.engine.EntryTypeName;
 import com.hughes.android.dictionary.engine.HtmlEntry;
 import com.hughes.android.dictionary.engine.IndexBuilder;
@@ -48,7 +50,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
 
     @Override
     public void onPlainText(String plainText) {
-      super.onPlainText(plainText);
+      super.onPlainText(StringEscapeUtils.escapeHtml3(plainText));
     }
 
     @Override
@@ -84,9 +86,9 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
         }
         return;
       }
-      onPlainText(String.format("\n<h%d>", depth));
+      builder.append(String.format("\n<h%d>", depth));
       dispatch(headingText, null);
-      onPlainText(String.format("</h%d>\n", depth));
+      builder.append(String.format("</h%d>\n", depth));
     }
 
     final List<Character> listPrefixStack = new ArrayList<Character>();
@@ -97,12 +99,12 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
       }
       final String prefix = wikiTokenizer.listItemPrefix();
       while (listPrefixStack.size() < prefix.length()) {
-        onPlainText(String.format("<%s>", WikiTokenizer.getListTag(prefix.charAt(listPrefixStack.size()))));
+        builder.append(String.format("<%s>", WikiTokenizer.getListTag(prefix.charAt(listPrefixStack.size()))));
         listPrefixStack.add(prefix.charAt(listPrefixStack.size()));
       }
-      onPlainText("<li>");
+      builder.append("<li>");
       dispatch(wikiTokenizer.listItemWikiText(), null);
-      onPlainText("</li>\n");
+      builder.append("</li>\n");
       
       WikiTokenizer nextToken = wikiTokenizer.nextToken();
       boolean returnToLineStart = false;
@@ -121,7 +123,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
       }
       while (listPrefixStack.size() > nextListHeader.length()) {
         final char prefixChar = listPrefixStack.remove(listPrefixStack.size() - 1);
-        onPlainText(String.format("</%s>\n", WikiTokenizer.getListTag(prefixChar)));
+        builder.append(String.format("</%s>\n", WikiTokenizer.getListTag(prefixChar)));
       }
     }
 
@@ -131,16 +133,16 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
     public void onMarkup(WikiTokenizer wikiTokenizer) {
       if ("'''".equals(wikiTokenizer.token())) {
         if (!boldOn) {
-          onPlainText("<b>");
+          builder.append("<b>");
         } else {
-          onPlainText("</b>");
+          builder.append("</b>");
         }
         boldOn = !boldOn;
       } else if ("''".equals(wikiTokenizer.token())) {
         if (!italicOn) {
-          onPlainText("<em>");
+          builder.append("<em>");
         } else {
-          onPlainText("</em>");
+          builder.append("</em>");
         }
         italicOn = !italicOn;
       } else {

@@ -35,6 +35,32 @@ public class DictionaryBuilderTest extends TestCase {
 
   public static final String TEST_OUTPUTS = "testdata/outputs/";
 
+  public void doTestCustomDict(final String name, final String lang1,
+      final String lang2, final String inputFile) throws Exception {
+    final File result = new File(TEST_OUTPUTS + name);
+    System.out.println("Writing to: " + result);
+    DictionaryBuilder.main(new String[] {
+        "--dictOut=" + result.getAbsolutePath(),
+        "--lang1=" + lang1,
+        "--lang2=" + lang2,
+        "--lang1Stoplist=" + STOPLISTS + "empty.txt",
+        "--lang2Stoplist=" + STOPLISTS + "empty.txt",
+        "--dictInfo=bleh.",
+        
+        "--input1=testdata/inputs/" + inputFile,
+        "--input1Name=my_input_" + name,
+        "--input1Charset=ISO-8859-1",
+        "--input1Format=tab_separated",
+
+        "--print=" + result.getPath() + ".text",
+    });
+    
+    checkGolden(name, result); 
+  }
+  
+  public void test_FR_NL() throws Exception {
+    doTestCustomDict("QuickDic-FR-NL.quickdic", "FR", "NL", "QuickDic-FR-NL.txt");
+  }
   
   public void testWiktionary_en_de2fr() throws Exception {
     wiktionaryTestWithEnTrans2Trans("wiktionary.de_fr.quickdic", "DE", "FR");

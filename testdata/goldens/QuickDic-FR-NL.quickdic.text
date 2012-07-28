@@ -1,0 +1,57 @@
+dictInfo=bleh.
+EntrySource: my_input_QuickDic-FR-NL.quickdic 25
+
+Index: FR FR->NL
+===à===
+  à l'entour :: rondom, in het rond
+***abord***
+  abord :: omtrek, directe omgeving, aankomst
+***abordés***
+  abordés :: aanleggen, tot stand brengen, bereiken
+***chêne***
+  chêne :: eikenhout, eik
+***collé***
+  collé :: kleven
+***conçu***
+  conçu :: zie concevoir
+===l'entour===
+  à l'entour :: rondom, in het rond
+
+Index: NL NL->FR
+===aankomst===
+  abord :: omtrek, directe omgeving, aankomst
+===aanleggen===
+  abordés :: aanleggen, tot stand brengen, bereiken
+===bereiken===
+  abordés :: aanleggen, tot stand brengen, bereiken
+===brengen===
+  abordés :: aanleggen, tot stand brengen, bereiken
+===concevoir===
+  conçu :: zie concevoir
+===directe===
+  abord :: omtrek, directe omgeving, aankomst
+===eik===
+  chêne :: eikenhout, eik
+===eikenhout===
+  chêne :: eikenhout, eik
+===het===
+  à l'entour :: rondom, in het rond
+===in===
+  à l'entour :: rondom, in het rond
+***kleven***
+  collé :: kleven
+===omgeving===
+  abord :: omtrek, directe omgeving, aankomst
+===omtrek===
+  abord :: omtrek, directe omgeving, aankomst
+===rond===
+  à l'entour :: rondom, in het rond
+===rondom===
+  à l'entour :: rondom, in het rond
+===stand===
+  abordés :: aanleggen, tot stand brengen, bereiken
+===tot===
+  abordés :: aanleggen, tot stand brengen, bereiken
+===zie===
+  conçu :: zie concevoir
+
