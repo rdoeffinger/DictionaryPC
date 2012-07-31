@@ -1,0 +1,11 @@
+###Title: Frans Nederlands technisch woordenboek
+###Description: Frans Nederlands technisch woordenboek levert Nederlandse vertaling van Franse technische woorden
+###Author: Piet
+###Email: p.konijn@hetnet.nl
+
+à l'entour	rondom, in het rond
+abord	omtrek, directe omgeving, aankomst
+abordés	aanleggen, tot stand brengen, bereiken
+chêne	eikenhout, eik
+collé	kleven
+conçu	zie concevoir
