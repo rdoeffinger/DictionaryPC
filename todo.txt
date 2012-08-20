@@ -1,5 +1,7 @@
 make sure word is sticky when you change dictionaries.
 
+Ok, good to know.  I will put in Dutch-Greek in the next release, and see if I can separate the Ancient Greek from the modern Greek.
+
 get rid of Appendix:....  sections from EN.data in split.
 
 - on small device it would be great to be able to hide the system status bar and the title bar

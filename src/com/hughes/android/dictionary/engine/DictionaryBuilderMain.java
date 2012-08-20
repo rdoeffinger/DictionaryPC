@@ -189,6 +189,7 @@ public class DictionaryBuilderMain extends TestCase {
         {"DE", "SV" },  // Swedish
         {"DE", "TR" },  // Turkish
         {"DE", "ZH" },
+        {"DE", "TA" },  // Tamil
 
         
         {"FR", "BG" },  // Bulgarian
@@ -239,8 +240,7 @@ public class DictionaryBuilderMain extends TestCase {
         {"PL", "HU" },  // Polish
         {"PL", "ES" },  // Polish
         
-        //{"TR", "EL" },  // Turkish, Greek
-
+        {"TR", "EL" },  // Turkish, Greek
     };
     allPairs.addAll(Arrays.asList(nonEnPairs));
     

@@ -81,6 +81,7 @@ public class WiktionaryLangs {
     isoCodeToEnWikiName.put("SV", "Swedish");
     isoCodeToEnWikiName.put("TL", "Tagalog");
     isoCodeToEnWikiName.put("TG", "Tajik");
+    isoCodeToEnWikiName.put("TA", "Tamil");
     isoCodeToEnWikiName.put("TH", "Thai");
     isoCodeToEnWikiName.put("BO", "Tibetan");
     isoCodeToEnWikiName.put("TR", "Turkish");
