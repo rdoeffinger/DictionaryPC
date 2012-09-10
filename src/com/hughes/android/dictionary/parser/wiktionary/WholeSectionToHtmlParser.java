@@ -22,6 +22,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
   
   public  WholeSectionToHtmlParser(final IndexBuilder titleIndexBuilder) {
     this.titleIndexBuilder = titleIndexBuilder;
+    
   }
 
   @Override
@@ -30,6 +31,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
     IndexedEntry indexedEntry = new IndexedEntry(htmlEntry);
 
     final AppendAndIndexWikiCallback<WholeSectionToHtmlParser> callback = new AppendCallback(this);
+    
     callback.builder = new StringBuilder();
     callback.indexedEntry = indexedEntry;
     callback.dispatch(text, null);

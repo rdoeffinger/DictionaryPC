@@ -29,5 +29,4 @@ public interface FunctionCallback<T extends AbstractWiktionaryParser> {
       final Map<String,String> namedArgs,
       final T parser,
       final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback);
-
 }
