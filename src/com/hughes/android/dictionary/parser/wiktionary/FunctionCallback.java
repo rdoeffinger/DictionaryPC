@@ -21,12 +21,12 @@ import com.hughes.android.dictionary.parser.WikiTokenizer;
 import com.hughes.android.dictionary.parser.wiktionary.AbstractWiktionaryParser.AppendAndIndexWikiCallback;
 
 public interface FunctionCallback<T extends AbstractWiktionaryParser> {
-  
-  boolean onWikiFunction(
-      final WikiTokenizer tokenizer, 
-      final String name,
-      final List<String> args, 
-      final Map<String,String> namedArgs,
-      final T parser,
-      final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback);
+
+    boolean onWikiFunction(
+            final WikiTokenizer tokenizer,
+            final String name,
+            final List<String> args,
+            final Map<String, String> namedArgs,
+            final T parser,
+            final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback);
 }
