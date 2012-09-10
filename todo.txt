@@ -1,10 +1,10 @@
-* HtmlEntries
-  - Add them to the dictionary's list.
+HtmlEntry
+  - Add links into the HtmlEntry based on wikilinks.
+  - Build single EN/DE/IT/FR dictionaries based on HtmlEntry.
+  - "See also" link entries for cross-referencing ("form of"--strong, links to token, "mentioned in"--weaker, links to HtmlEntry). 
   - Link to them from the appropriate places: IndexEntry (first), and individual rows (tricker, built at different times).
 
 make sure word is sticky when you change dictionaries.
-
-get rid of Appendix:....  sections from EN.data in split.
 
 - on small device it would be great to be able to hide the system status bar and the title bar
 - an history list of the searched words per dictionary with the possibility of having a rudimentary flash card game from it to memorise new words
@@ -103,4 +103,6 @@ better tokenization?
 publish 2.0 dictionary
 test email
 dict manager
+get rid of Appendix:....  sections from EN.data in split.
+
   

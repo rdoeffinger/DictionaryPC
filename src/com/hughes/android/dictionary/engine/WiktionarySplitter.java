@@ -56,7 +56,7 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
   private WiktionarySplitter() {
     List<Selector> selectors;
     for (final String code : WiktionaryLangs.wikiCodeToIsoCodeToWikiName.keySet()) {
-      //if (!code.equals("fr")) {continue;}
+      //if (code.equals("en") || code.equals("de") || code.equals("fr")) {continue;}
       selectors = new ArrayList<WiktionarySplitter.Selector>();
       pathToSelectors.put(String.format("data/inputs/%swiktionary-pages-articles.xml", code), selectors);
       for (final Map.Entry<String, String> entry : WiktionaryLangs.wikiCodeToIsoCodeToWikiName.get(code).entrySet()) {
@@ -102,6 +102,63 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
     lastPageTitle = title;
     if (++pageCount % 1000 == 0) {
       System.out.println("endPage: " + title + ", count=" + pageCount);
+    }
+    if (title.startsWith("Wiktionary:") || 
+            title.startsWith("Appendix:") || 
+            title.startsWith("Help:") ||
+            title.startsWith("Index:") ||
+            title.startsWith("MediaWiki:") || 
+            title.startsWith("Citations:") || 
+            title.startsWith("Concordance:") || 
+            title.startsWith("Glossary:") || 
+            title.startsWith("Rhymes:") || 
+            title.startsWith("Category:") || 
+            title.startsWith("Wikisaurus:") || 
+            title.startsWith("Unsupported titles/") || 
+            title.startsWith("Transwiki:") || 
+            title.startsWith("File:") || 
+            title.startsWith("Thread:") || 
+            title.startsWith("Template:") ||
+            title.startsWith("Summary:") ||
+            // DE
+            title.startsWith("Datei:") ||
+            title.startsWith("Verzeichnis:") ||
+            title.startsWith("Vorlage:") ||
+            title.startsWith("Thesaurus:") ||
+            title.startsWith("Kategorie:") ||
+            title.startsWith("Hilfe:") ||
+            // FR:
+            title.startsWith("Annexe:") ||
+            title.startsWith("Catégori:") ||
+            title.startsWith("Modèle:") ||
+            title.startsWith("Thésaurus:") ||
+            title.startsWith("Projet:") ||
+            title.startsWith("Aide:") ||
+            title.startsWith("Fichier:") ||
+            title.startsWith("Wiktionnaire:") ||
+            title.startsWith("Catégorie:") ||
+            title.startsWith("Portail:") ||
+            title.startsWith("utiliusateur:") ||
+            title.startsWith("Kategorio:") ||
+            
+            
+
+            // IT
+            title.startsWith("Wikizionario:") ||
+            title.startsWith("Appendice:") ||
+            title.startsWith("Categoria:") ||
+            title.startsWith("Aiuto:") ||
+            title.startsWith("Portail:") ||
+
+            // sentinel
+            false
+            ) {
+        return;
+    }
+    if (title.contains(":")) {
+        if (!title.startsWith("Sign gloss:")) {
+            System.err.println("title with colon: " + title);
+        }
     }
     
     String text = textBuilder.toString();

@@ -14,6 +14,13 @@
 
 package com.hughes.android.dictionary.engine;
 
+import com.hughes.android.dictionary.parser.wiktionary.EnTranslationToTranslationParser;
+import com.hughes.android.dictionary.parser.wiktionary.WholeSectionToHtmlParser;
+import com.hughes.android.dictionary.parser.wiktionary.WiktionaryLangs;
+
+import junit.framework.TestCase;
+
+import java.io.File;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.LinkedHashMap;
@@ -21,12 +28,6 @@ import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
-
-import junit.framework.TestCase;
-
-import com.hughes.android.dictionary.parser.wiktionary.EnTranslationToTranslationParser;
-import com.hughes.android.dictionary.parser.wiktionary.WholeSectionToHtmlParser;
-import com.hughes.android.dictionary.parser.wiktionary.WiktionaryLangs;
 
 public class DictionaryBuilderMain extends TestCase {
   
@@ -67,6 +68,12 @@ public class DictionaryBuilderMain extends TestCase {
     return isoToStoplist.containsKey(iso) ? isoToStoplist.get(iso) : "empty.txt";
   }
   
+  static String getOtherLang(final String[] pair, final String first) {
+      assert Arrays.asList(pair).contains(first);
+      assert pair.length == 2;
+      return pair[0].equals(first) ? pair[1] : pair[0];
+  }
+  
   static List<String> getMainArgs(final String[] pair) {
     final List<String> result = new ArrayList<String>();
     
@@ -80,12 +87,29 @@ public class DictionaryBuilderMain extends TestCase {
     result.add(String.format("--lang1Stoplist=%s", STOPLISTS + getStoplist(lang1)));
     result.add(String.format("--lang2Stoplist=%s", STOPLISTS + getStoplist(lang2)));
 
-    int i = 2;
+    int i = 1;
+    
+    // For a few langs, put the defs of the other language in DE/IT/FR using WholeSection.
+    for (final String wikitionaryLang : Arrays.asList("EN", "DE", "IT", "FR")) {
+        if (!Arrays.asList(pair).contains(wikitionaryLang)) {
+            continue;
+        }
+        final String foreignIso = getOtherLang(pair, wikitionaryLang);
+        final String wikiSplitFile = String.format("%s/wikiSplit/%s/%s.data", INPUTS, wikitionaryLang.toLowerCase(), foreignIso);
+        if (!new File(wikiSplitFile).canRead()) {
+            System.err.println("Can't read file: " + wikiSplitFile);
+            continue;
+        }
+        result.add(String.format("--input%d=%s", i, wikiSplitFile));
+        result.add(String.format("--input%dName=%sWiktionary.WholeSections.%s", i, wikitionaryLang, foreignIso));
+        result.add(String.format("--input%dFormat=%s", i, WholeSectionToHtmlParser.NAME));
+        result.add(String.format("--input%dTitleIndex=%d", i, Arrays.asList(pair).indexOf(foreignIso) + 1));
+        ++i;
+    }
     
     // Deal with the pairs where one is English.
     if (Arrays.asList(pair).contains("EN")) {
-      final String foreignIso = pair[0].equals("EN") ? pair[1] : pair[0];
-      
+      final String foreignIso = getOtherLang(pair, "EN");
       
       String foreignRegex = WiktionaryLangs.isoCodeToEnWikiName.get(foreignIso);
       if (foreignIso.equals("ZH")) {
@@ -93,20 +117,9 @@ public class DictionaryBuilderMain extends TestCase {
         foreignRegex = "Chinese|Mandarin|Cantones";
       }
       
-      final int enIndex;
-      if (foreignIso.equals("DE")) {
-        // German-English is a special case since it was the first ever QuickDic!
-        result.add(String.format("--lang1=%s", "DE"));
-        result.add(String.format("--lang2=%s", "EN"));
-        result.add("--dictInfo=@" + INPUTS + "de-en_chemnitz_enwiktionary.info");
-
-        enIndex = 2;
-      } else {
-        result.add(String.format("--lang1=%s", "EN"));
-        result.add(String.format("--lang2=%s",  foreignIso));
-        result.add(String.format("--dictInfo=(EN)Wikitionary-based EN-%s dictionary.%s", foreignIso, getDedication(foreignIso)));
-        enIndex = 1;
-      }
+      result.add(String.format("--lang1=%s", "EN"));
+      result.add(String.format("--lang2=%s",  foreignIso));
+      result.add(String.format("--dictInfo=(EN)Wikitionary-based EN-%s dictionary.%s", foreignIso, getDedication(foreignIso)));
       
       result.add(String.format("--input%d=%s/wikiSplit/en/%s.data", i, INPUTS, foreignIso));
       result.add(String.format("--input%dName=ENWiktionary.%s", i, foreignIso)) ;
@@ -114,7 +127,7 @@ public class DictionaryBuilderMain extends TestCase {
       result.add(String.format("--input%dWiktionaryType=EnForeign", i));
       result.add(String.format("--input%dLangPattern=%s", i, foreignRegex));
       result.add(String.format("--input%dLangCodePattern=%s", i, foreignIso.toLowerCase()));
-      result.add(String.format("--input%dEnIndex=%d", i, enIndex));
+      result.add(String.format("--input%dEnIndex=%d", i, Arrays.asList(pair).indexOf("EN") + 1));
       ++i;
 
       result.add(String.format("--input%d=%swikiSplit/en/EN.data", i, INPUTS));
@@ -123,7 +136,7 @@ public class DictionaryBuilderMain extends TestCase {
       result.add(String.format("--input%dWiktionaryType=EnToTranslation", i));
       result.add(String.format("--input%dLangPattern=%s", i, foreignRegex));
       result.add(String.format("--input%dLangCodePattern=%s", i, foreignIso.toLowerCase()));
-      result.add(String.format("--input%dEnIndex=%d", i, enIndex));
+      result.add(String.format("--input%dEnIndex=%d", i, Arrays.asList(pair).indexOf("EN") + 1));
       ++i;
       
       if (foreignIso.equals("DE")) {
@@ -134,12 +147,6 @@ public class DictionaryBuilderMain extends TestCase {
         ++i;
       }
       
-      result.add(String.format("--input%d=%s/wikiSplit/en/%s.data", i, INPUTS, foreignIso));
-      result.add(String.format("--input%dName=%s", i, "ENWiktionary.WholeSections.%s", foreignIso));
-      result.add(String.format("--input%dFormat=%s", i, WholeSectionToHtmlParser.NAME));
-      result.add(String.format("--input%dTitleIndex=%d", i, 3 - enIndex));
-      ++i;
-
     } else {
       // Pairs without English.
       result.add(String.format("--lang1=%s", lang1));
@@ -152,6 +159,7 @@ public class DictionaryBuilderMain extends TestCase {
       result.add(String.format("--input%dLangPattern2=%s", i, lang2));
       ++i;
     }
+    
     return result;
   }
 
