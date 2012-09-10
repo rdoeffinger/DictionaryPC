@@ -53,31 +53,32 @@ public class IndexBuilder {
       final int startRow = rows.size();
       
       TokenRow tokenRow = null;
+      if (!tokenData.htmlEntries.isEmpty()) {
+          tokenRow = new TokenRow(indexIndex, rows.size(), index, /* hasMainEntry */ true);
+          rows.add(tokenRow);
+      }
+      
+//    System.out.println("Added TokenRow: " + rows.get(rows.size() - 1));
       
       int numRows = 0;  // off by one--doesn't count the token row!
 //      System.out.println("TOKEN: " + tokenData.token);
       for (final Map.Entry<EntryTypeName, List<IndexedEntry>> typeToIndexedEntries : tokenData.typeToEntries.entrySet()) {
         for (final IndexedEntry indexedEntry : typeToIndexedEntries.getValue()) {
-          
           if (!indexedEntry.isValid) {
             continue;
           }
           
           if (tokenRow == null) {
-//          System.out.println("Added TokenRow: " + rows.get(rows.size() - 1));
-            tokenRow = new TokenRow(indexIndex, rows.size(), index, tokenData.hasMainEntry);
-            rows.add(tokenRow);
-            if (tokenRow.hasMainEntry) {
-              index.mainTokenCount++;
-            }
+              tokenRow = new TokenRow(indexIndex, rows.size(), index, tokenData.hasMainEntry);
+              rows.add(tokenRow);
           }
           
-          if (indexedEntry.index() == -1) {
-            indexedEntry.addToDictionary(dictionaryBuilder.dictionary);
-            assert indexedEntry.index() >= 0;
+          if (indexedEntry.entry.index() == -1) {
+            indexedEntry.entry.addToDictionary(dictionaryBuilder.dictionary);
+            assert indexedEntry.entry.index() >= 0;
           }
           if (tokenIndexedEntries.add(indexedEntry)) {
-            rows.add(indexedEntry.entry.CreateRow(indexedEntry.index(), rows.size(), index));
+            rows.add(indexedEntry.entry.CreateRow(rows.size(), index));
             ++indexedEntry.entry.entrySource.numEntries;
             ++numRows;
             
@@ -87,8 +88,17 @@ public class IndexBuilder {
           }
         }
       }
-      index.sortedIndexEntries.add(new Index.IndexEntry(tokenData.token, index
-          .normalizer().transliterate(tokenData.token), startRow, numRows));
+      
+      if (tokenRow != null) {
+          if (tokenRow.hasMainEntry) {
+              index.mainTokenCount++;
+          }
+          
+          final Index.IndexEntry indexEntry = new Index.IndexEntry(index, tokenData.token, index
+                  .normalizer().transliterate(tokenData.token), startRow, numRows);
+          indexEntry.htmlEntries.addAll(tokenData.htmlEntries);
+          index.sortedIndexEntries.add(indexEntry);
+      }
     }
     
     final List<IndexEntry> entriesSortedByNumRows = new ArrayList<IndexEntry>(index.sortedIndexEntries);
@@ -103,11 +113,13 @@ public class IndexBuilder {
     }
   }
   
-  static class TokenData {
+  public static class TokenData {
     final String token;
         
     final Map<EntryTypeName, List<IndexedEntry>> typeToEntries = new EnumMap<EntryTypeName, List<IndexedEntry>>(EntryTypeName.class);
     boolean hasMainEntry = false;
+    
+    public List<HtmlEntry> htmlEntries = new ArrayList<HtmlEntry>();
     
     TokenData(final String token) {
       assert token.equals(token.trim());
@@ -116,7 +128,7 @@ public class IndexBuilder {
     }
   }
 
-  private TokenData getOrCreateTokenData(final String token) {
+  public TokenData getOrCreateTokenData(final String token) {
     TokenData tokenData = tokenToData.get(token);
     if (tokenData == null) {
       tokenData = new TokenData(token);

@@ -1,6 +1,8 @@
-make sure word is sticky when you change dictionaries.
+* HtmlEntries
+  - Add them to the dictionary's list.
+  - Link to them from the appropriate places: IndexEntry (first), and individual rows (tricker, built at different times).
 
-Ok, good to know.  I will put in Dutch-Greek in the next release, and see if I can separate the Ancient Greek from the modern Greek.
+make sure word is sticky when you change dictionaries.
 
 get rid of Appendix:....  sections from EN.data in split.
 
@@ -30,7 +32,6 @@ flag images
 history dialog
 italian verbs... (show conjugation, pulled from a linked place....--would lower size a lot!)
 
-
 handle enwiktionary examples like "asdf (asdf)"
 better example splitting
 check arabic UI fix
@@ -40,16 +41,7 @@ check arabic UI fix
 * quiz
 * colorize things
 
-
-done:
-Hide uninstalled dictionaries.
-* sorting of entries
-* better Row/Entry classes?
-* wiktionary
-* better tokenization?
-* publish 2.0 dictionary
-* test email
-* dict manager
+Ok, good to know.  I will put in Dutch-Greek in the next release, and see if I can separate the Ancient Greek from the modern Greek.
 
 flashcards
 move dict to top of list when downloaded
@@ -59,34 +51,6 @@ text to speech / audio from wiktionary
 icons inside dictionaries
 
 
-**** PC:
-{{count page|[[Wiktionary:Page count]]}}
-
-Bad filing: under Arab?
-===Arab===
-  جميل {m} (tr. jamiil) (adjective), feminine singular and inanimate plural: {{Arab|[[جميلة]]}}, masculine plural: {{Arab|[[جمال]]}}, feminine plural: {{Arab|[[جميلات]]}} :: beautiful
-  {{Arab|برج}} (tr. burj) (noun), dual: {{Arab|[[برجي]]}} (barjī), plural: {{Arab|[[بروج]]}} (burūj) or {{Arab|[[ابراج]]}} (’abrāj) :: castle
-  {{Arab|برج}} (tr. burj) (noun), dual: {{Arab|[[برجي]]}} (barjī), plural: {{Arab|[[بروج]]}} (burūj) or {{Arab|[[ابراج]]}} (’abrāj) :: citadel
-  {{Arab|برج}} (tr. burj) (noun), dual: {{Arab|[[برجي]]}} (barjī), plural: {{Arab|[[بروج]]}} (burūj) or {{Arab|[[ابراج]]}} (’abrāj) :: tower
-    {{term|w:Burj Khalifa|برج خليفة|tr=Burj Khalifa|Khalifa Tower}} (dialect: borǰ khalīfa), initially named {{term|sc=Arab||برج دبي|lang=ar||Dubai Tower}}. :: --
-  {{Arab|برج}} (tr. burj) (noun), dual: {{Arab|[[برجي]]}} (barjī), plural: {{Arab|[[بروج]]}} (burūj) or {{Arab|[[ابراج]]}} (’abrāj) :: constellation
-  {{Arab|برج}} (tr. burj) (noun), dual: {{Arab|[[برجي]]}} (barjī), plural: {{Arab|[[بروج]]}} (burūj) or {{Arab|[[ابراج]]}} (’abrāj) :: spire
-  {{Arab|برج}} (tr. burj) (noun), dual: {{Arab|[[برجي]]}} (barjī), plural: {{Arab|[[بروج]]}} (burūj) or {{Arab|[[ابراج]]}} (’abrāj) :: asterism
-  {{Arab|برج}} (tr. burj) (noun), dual: {{Arab|[[برجي]]}} (barjī), plural: {{Arab|[[بروج]]}} (burūj) or {{Arab|[[ابراج]]}} (’abrāj) :: zodiac
-  {{Arab|برج}} (tr. burj) (noun), dual: {{Arab|[[برجي]]}} (barjī), plural: {{Arab|[[بروج]]}} (burūj) or {{Arab|[[ابراج]]}} (’abrāj) :: sign of the zodiac
-  هدف {m} (tr. hádaf) (noun), plural: {{Arab|[[اهداف]]}} (’ahdāf) :: target, object, aim, end
-  هدف {m} (tr. hádaf) (noun), plural: {{Arab|[[اهداف]]}} (’ahdāf) :: objective, purpose, design, intention
-  هدف {m} (tr. hádaf) (noun), plural: {{Arab|[[اهداف]]}} (’ahdāf) :: goal
-  صفر {{Arab|صُفْر}} {{IPAchar|(Sufr)}} {p} :: yellow, pale, pallid, wan ({plural of|{{Arab|[[أصفر|أَصْفَر]]}}})
-
-
-=== Bad ordering:
-===do===
-  do {{wikipedia|Do (nota)|lang=it}}{{infl|it|noun|g=m}} :: do, the musical note
-  fare {{it-verb}} {{transitive}} :: To do
-
-
-  
 done:
 {infl}
 better handling of language name in foreign sections (might need to append it if it isn't exact)
@@ -131,4 +95,12 @@ Handle other sections:
   Chinese: handle "Compounds" section
 handle word-info in English.
 random word jump
+Hide uninstalled dictionaries.
+sorting of entries
+better Row/Entry classes?
+wiktionary
+better tokenization?
+publish 2.0 dictionary
+test email
+dict manager
   

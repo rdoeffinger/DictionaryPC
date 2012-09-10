@@ -307,5 +307,18 @@ public class DictionaryTest extends TestCase {
     raf.close();
   }
 
+  public void testNorwegiani() throws IOException {
+      final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "EN-NL_enwiktionary.quickdic", "r");
+      final Dictionary dict = new Dictionary(raf);
+      final Index nlIndex = dict.indices.get(1);
+
+      IndexEntry entry = nlIndex.findInsertionPoint("Xhosa", new AtomicBoolean(false));
+      assertEquals("Xhosa", entry.token);
+
+      entry = nlIndex.findInsertionPoint("Zyne", new AtomicBoolean(false));
+      assertEquals("Zyne", entry.token);
+
+      raf.close();
+  }
 
 }

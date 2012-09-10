@@ -1,17 +1,17 @@
 package com.hughes.android.dictionary.parser.wiktionary;
 
+import com.hughes.android.dictionary.engine.HtmlEntry;
+import com.hughes.android.dictionary.engine.IndexBuilder;
+import com.hughes.android.dictionary.engine.IndexBuilder.TokenData;
+import com.hughes.android.dictionary.engine.IndexedEntry;
+import com.hughes.android.dictionary.parser.WikiTokenizer;
+
+import org.apache.commons.lang3.StringEscapeUtils;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 import java.util.regex.Pattern;
-
-import org.apache.commons.lang3.StringEscapeUtils;
-
-import com.hughes.android.dictionary.engine.EntryTypeName;
-import com.hughes.android.dictionary.engine.HtmlEntry;
-import com.hughes.android.dictionary.engine.IndexBuilder;
-import com.hughes.android.dictionary.engine.IndexedEntry;
-import com.hughes.android.dictionary.parser.WikiTokenizer;
 
 public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
   
@@ -36,7 +36,12 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
 
     htmlEntry.html = callback.builder.toString();
     indexedEntry.isValid = true;
-    titleIndexBuilder.addEntryWithString(indexedEntry, title, EntryTypeName.WIKTIONARY_TITLE_MULTI_DETAIL);
+    
+    final TokenData tokenData = titleIndexBuilder.getOrCreateTokenData(title);
+    
+    htmlEntry.addToDictionary(titleIndexBuilder.index.dict);
+    tokenData.htmlEntries.add(htmlEntry);
+    //titleIndexBuilder.addEntryWithString(indexedEntry, title, EntryTypeName.WIKTIONARY_TITLE_MULTI_DETAIL);
   }
 
   @Override

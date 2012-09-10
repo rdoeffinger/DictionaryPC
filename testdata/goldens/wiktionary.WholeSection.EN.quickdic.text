@@ -1,10 +1,9 @@
 dictInfo=SomeWikiDataWholeSection
-EntrySource: wiktionary.WholeSection.EN.quickdic 130
+EntrySource: wiktionary.WholeSection.EN.quickdic 0
 
 Index: EN EN->EN
 ***A***
-A:
-
+HtmlEntry: A <<<
 <h3>Etymology 1</h3>
 Runic letter {{term|ᚫ|ansuz|tr=a}}, source for Anglo-Saxon Futhorc letters replaced by <em>A</em>From {{etyl|enm}} and {{etyl|ang}} upper case letter {{term|A|lang=enm}} and split of {{etyl|enm}} and {{etyl|ang}} upper case letter {{term|&AElig;|lang=enm}}.
 <ul><ul><li> Anglo-Saxon Futhorc letter {{term|ᚪ|āc|tr=a}} {{etyl|ang}} upper case letter {{term|A|lang=enm}} from 7th century replacement by Latin upper case letter {{term|A|lang=la}} of the Anglo-Saxon Futhorc letter {{term|ᚪ|āc|sc=unicode|tr=a}}, derived from Runic letter {{term|ᚫ|Ansuz|sc=unicode|tr=a}}.</li>
@@ -139,10 +138,9 @@ Runic letter {{term|ᚫ|ansuz|tr=a}}, source for Anglo-Saxon Futhorc letters rep
 <h4>Statistics</h4>
 <ul><li> {{rank|little|now|then|79|A|should|can|made}}</li>
 </ul>
-----
+---->>>
 ***adjectival***
-adjectival:
-
+HtmlEntry: adjectival <<<
 <h3>Etymology</h3>
 From {{suffix|adjective|al}}.
 <h3>Pronunciation</h3>
@@ -163,10 +161,9 @@ From {{suffix|adjective|al}}.
 </ol>
 
 <h3>References</h3>
-&lt;references/&gt;----
+&lt;references/&gt;---->>>
 ***adjective***
-adjective:
-
+HtmlEntry: adjective <<<
 <h3>Etymology</h3>
 From {{etyl|fro}} {{term|adjectif}}, from {{etyl|la}} {{term|adiectivus|adiectīvum|lang=la}}, from {{term|ad|next to|lang=la}} + {{term|iectus|-iect-|lang=la}}, perfect passive participle of {{term|iacio|iaciō|throw|lang=la}} + {{term|-ivus|-īvus|lang=la}}, adjective ending; hence, a word &quot;thrown next to&quot; a noun, modifying it.
 <h3>Pronunciation</h3>
@@ -216,10 +213,9 @@ From {{etyl|fro}} {{term|adjectif}}, from {{etyl|la}} {{term|adiectivus|adiectī
 <h4>Hyponyms</h4>
 <ul><li> See also Wikisaurus:adjective</li>
 </ul>
-
+>>>
 ***alphabetical***
-alphabetical:
-
+HtmlEntry: alphabetical <<<
 <h3>Etymology</h3>
 {{suffix|alphabetic|al}}
 <h3>Pronunciation</h3>
@@ -251,35 +247,9 @@ alphabetical:
 <ul><li> alphabet</li>
 <li> alphabetize</li>
 </ul>
-
-===and===
-rain cats and dogs:
-
-<h3>Etymology</h3>
-Unknown. Perhaps from {{etyl|grc|en}} {{term|κατά|against|lang=grc|tr=cata}} and {{term|δόξα|opinion, expectation|tr=doxa|lang=grc}}, but see Etymology in Citations
-<h3>Verb</h3>
-{{en-verb|rains cats and dogs|raining cats and dogs|rained cats and dogs|head=rain cats and dogs}}
-<ol><li> {idiomatic} To rain very heavily.</li>
-</ol>
-
-<h4>Synonyms</h4>
-<ul><li> {{sense|to rain very heavily}} bucket, bucket down, chuck it down, rain buckets, rain pitchforks, pelt, piss down {{qualifier|coarse slang}}, pour, stream, teem</li>
-</ul>
-
-<h3>Anagrams</h3>
-<ul><li> rain dogs and cats</li>
-</ul>
-cy:rain cats and dogsde:rain cats and dogset:rain cats and dogses:rain cats and dogsfr:rain cats and dogsgl:rain cats and dogsja:rain cats and dogsno:rain cats and dogspl:rain cats and dogspt:rain cats and dogsru:rain cats and dogssv:rain cats and dogszh:rain cats and dogs
-apples and pears:
-
-<h3>Noun</h3>
-{{en-noun|-|sg=apples and pears}}
-<ol><li> {Cockney rhyming slang} stairs</li>
-</ol>
-
+>>>
 ***antidisestablishmentarianism***
-antidisestablishmentarianism:
-{wikipedia}
+HtmlEntry: antidisestablishmentarianism <<<{wikipedia}
 <h3>Etymology</h3>
 From {{confix|anti|disestablishmentarian|ism}}.
 <h3>Pronunciation</h3>
@@ -315,10 +285,9 @@ From {{confix|anti|disestablishmentarian|ism}}.
 <li> pneumonoultramicroscopicsilicovolcanoconiosis</li>
 <li> supercalifragilisticexpialidocious</li>
 </ul>
-Category:English nouns ending in &quot;-ism&quot;Category:Long English wordset:antidisestablishmentarianismfr:antidisestablishmentarianismko:antidisestablishmentarianismpl:antidisestablishmentarianismru:antidisestablishmentarianismsimple:antidisestablishmentarianismta:antidisestablishmentarianismvi:antidisestablishmentarianism
+Category:English nouns ending in &quot;-ism&quot;Category:Long English wordset:antidisestablishmentarianismfr:antidisestablishmentarianismko:antidisestablishmentarianismpl:antidisestablishmentarianismru:antidisestablishmentarianismsimple:antidisestablishmentarianismta:antidisestablishmentarianismvi:antidisestablishmentarianism>>>
 ***antonym***
-antonym:
-
+HtmlEntry: antonym <<<
 <h3>Etymology</h3>
 circa 1870: {{confix|ant|onym}}
 <h3>Pronunciation</h3>
@@ -361,27 +330,24 @@ circa 1870: {{confix|ant|onym}}
 <h3>External links</h3>
 <ul><li> {pedia}</li>
 </ul>
-----
-===Appendix===
-Appendix:English pronunciation:
-The following tables show the IPA, SAMPA and enPR/AHD representations of English pronunciation, in both Received Pronunciation (UK) and General American (US). For vowels in other dialects, see IPA chart for English.
+---->>>
+***Appendix:English pronunciation***
+HtmlEntry: Appendix:English pronunciation <<<The following tables show the IPA, SAMPA and enPR/AHD representations of English pronunciation, in both Received Pronunciation (UK) and General American (US). For vowels in other dialects, see IPA chart for English.
 <h3>Vowels</h3>
 The vowel table lists both monophthongs and diphthongs.{| {wikitable}! rowspan=&quot;2&quot; | enPR&lt;br/&gt;(AHD)! colspan=&quot;2&quot; | IPA! colspan=&quot;2&quot; | SAMPA! rowspan=&quot;2&quot; | Examples|-! RP! GA! RP! GA|-align=&quot;center&quot;| {{enPRchar|ă}}| colspan=&quot;2&quot; | {{IPAchar2|Near-open front unrounded vowel.ogg|&aelig;}}| colspan=&quot;2&quot; | &lt;tt&gt;{&lt;/tt&gt;| b<b>a</b>d, c<b>a</b>t, r<b>a</b>n|-align=&quot;center&quot;| {{enPRchar|ăr}}| colspan=&quot;2&quot; | {{IPAchar|&aelig;ɹ}}| colspan=&quot;2&quot; | &lt;tt&gt;{r\&lt;/tt&gt;| c<b>arr</b>y|-align=&quot;center&quot;| {{enPRchar|ā}}| colspan=&quot;2&quot; | {{IPAchar|eɪ}}| colspan=&quot;2&quot; | &lt;tt&gt;eI&lt;/tt&gt;| b<b>ai</b>t, pl<b>ay</b>, s<b>a</b>me|-align=&quot;center&quot;| {{enPRchar|&auml;}}| {{IPAchar|ɑː}}| {{IPAchar2|Open back unrounded vowel.ogg|ɑ}}| &lt;tt&gt;A:&lt;/tt&gt;| &lt;tt&gt;A&lt;/tt&gt;| f<b>a</b>ther|-align=&quot;center&quot;| {{enPRchar|&auml;r}}| {{IPAchar|ɑː(ɹ)}}| {{IPAchar|ɑɹ}}| &lt;tt&gt;A:&lt;/tt&gt;| &lt;tt&gt;Ar\&lt;/tt&gt;| <b>ar</b>m, b<b>ar</b>d, <b>ar</b>ia|-align=&quot;center&quot;| {{enPRchar|&acirc;r}}| {{IPAchar|ɛə(ɹ)}}| {{IPAchar|ɛɹ}}| &lt;tt&gt;E@&lt;/tt&gt;| &lt;tt&gt;Er\&lt;/tt&gt;| h<b>air</b>, p<b>ear</b>, th<b>ere</b>, sc<b>ar</b>y|-align=&quot;center&quot;| {{enPRchar|ĕ}}| colspan=&quot;2&quot; | {{IPAchar2|Open-mid front unrounded vowel.ogg|ɛ}}| colspan=&quot;2&quot; | &lt;tt&gt;E&lt;/tt&gt;| b<b>e</b>d, b<b>e</b>t, <b>e</b>nd|-align=&quot;center&quot;| {{enPRchar|ĕr}}| colspan=&quot;2&quot; | {{IPAchar|ɛɹ}}| colspan=&quot;2&quot; | &lt;tt&gt;Er\&lt;/tt&gt;| m<b>err</b>y|-align=&quot;center&quot;| {{enPRchar|ē}}| {{IPAchar|iː}}| {{IPAchar2|Close front unrounded vowel.ogg|i}}| &lt;tt&gt;i:&lt;/tt&gt;| &lt;tt&gt;i&lt;/tt&gt;| <b>ea</b>se, s<b>ee</b>|-align=&quot;center&quot;| {{enPRchar|ĭ}}| colspan=&quot;2&quot; | {{IPAchar2|Near-close near-front unrounded vowel.ogg|ɪ}}| colspan=&quot;2&quot; | &lt;tt&gt;I&lt;/tt&gt;| c<b>i</b>ty, b<b>i</b>t|-align=&quot;center&quot;| {{enPRchar|i}}&lt;ref&gt;Not an AHD symbol. Often written as AHD <em>ē</em> in Wiktionary entries.&lt;/ref&gt;| colspan=&quot;2&quot; | {{IPAchar2|Close front unrounded vowel.ogg|i}}| colspan=&quot;2&quot; | &lt;tt&gt;i&lt;/tt&gt;| cit<b>y</b>, ver<b>y</b>, read<b>y</b>|-align=&quot;center&quot;| {{enPRchar|ĭr}}| colspan=&quot;2&quot; | {{IPAchar|ɪɹ}}| colspan=&quot;2&quot; | &lt;tt&gt;Ir\&lt;/tt&gt;| s<b>yr</b>up, S<b>ir</b>ius|-align=&quot;center&quot;| {{enPRchar|ī}}| colspan=&quot;2&quot; | {{IPAchar|aɪ}}| colspan=&quot;2&quot; | &lt;tt&gt;aI&lt;/tt&gt;| m<b>y</b>, r<b>i</b>se|-align=&quot;center&quot;| {{enPRchar|&icirc;r}}| {{IPAchar|ɪə(ɹ)}}| {{IPAchar|ɪɹ}}| &lt;tt&gt;I@&lt;/tt&gt;| &lt;tt&gt;Ir\&lt;/tt&gt;| h<b>ere</b>, n<b>ear</b>, p<b>eer</b>, s<b>er</b>ious|-align=&quot;center&quot;| {{enPRchar|ŏ}}| {{IPAchar2|Open back rounded vowel.ogg|ɒ}}| {{IPAchar2|Open back unrounded vowel.ogg|ɑ}}| &lt;tt&gt;Q&lt;/tt&gt;| &lt;tt&gt;A&lt;/tt&gt;| n<b>o</b>t|-align=&quot;center&quot;| {{enPRchar|ō}}| {{IPAchar|əʊ}}| {{IPAchar|oʊ}}| &lt;tt&gt;@U&lt;/tt&gt;| &lt;tt&gt;oU&lt;/tt&gt;| g<b>o</b>, h<b>o</b>pe, kn<b>ow</b>|-align=&quot;center&quot;| {{enPRchar|ōr}}| {{IPAchar|ɔə(ɹ)}}| {{IPAchar|oɹ, ɔɹ}}| &lt;tt&gt;O@&lt;/tt&gt;| &lt;tt&gt;or\, Or\&lt;/tt&gt;| h<b>oar</b>se, gl<b>or</b>y|-align=&quot;center&quot;| {{enPRchar|&ocirc;}}| {{IPAchar|ɔː}}| {{IPAchar2|Open-mid back rounded vowel.ogg|ɔ}}| &lt;tt&gt;O:&lt;/tt&gt;| &lt;tt&gt;O&lt;/tt&gt;| l<b>aw</b>, c<b>au</b>ght, s<b>aw</b>|-align=&quot;center&quot;| {{enPRchar|&ocirc;r}}| {{IPAchar|ɔː(ɹ)}}| {{IPAchar|ɔɹ}}| &lt;tt&gt;O:&lt;/tt&gt;| &lt;tt&gt;Or\&lt;/tt&gt;| h<b>or</b>se, m<b>ore</b>, l<b>aur</b>eate|-align=&quot;center&quot;| {{enPRchar|oi}}| colspan=&quot;2&quot; | {{IPAchar|ɔɪ}}| colspan=&quot;2&quot; | &lt;tt&gt;OI&lt;/tt&gt;| b<b>oy</b>, n<b>oi</b>se|-align=&quot;center&quot;| {{enPRchar|o͝o, ŏŏ}}| colspan=&quot;2&quot; | {{IPAchar2|Near-close near-back rounded vowel.ogg|ʊ}}| colspan=&quot;2&quot; | &lt;tt&gt;U&lt;/tt&gt;| p<b>u</b>t, f<b>oo</b>t|-align=&quot;center&quot;| {{enPRchar|o͝or, ŏŏr}}| {{IPAchar|ʊə(ɹ)}}| {{IPAchar|ʊɹ}}| &lt;tt&gt;U@&lt;/tt&gt;| &lt;tt&gt;Ur\&lt;/tt&gt;| p<b>oor</b>, t<b>our</b>, t<b>our</b>ism|-align=&quot;center&quot;| {{enPRchar|o͞o, ōō}}| {{IPAchar|uː}}| {{IPAchar2|Close back rounded vowel.ogg|u}}| &lt;tt&gt;u:&lt;/tt&gt;| &lt;tt&gt;u&lt;/tt&gt;| l<b>o</b>se, s<b>oo</b>n, thr<b>ou</b>gh|-align=&quot;center&quot;| {{enPRchar|ou}}| colspan=&quot;2&quot; | {{IPAchar|aʊ}}| colspan=&quot;2&quot; | &lt;tt&gt;aU&lt;/tt&gt;| h<b>ou</b>se, n<b>ow</b>|-align=&quot;center&quot;| {{enPRchar|ŭ}}| colspan=&quot;2&quot; | {{IPAchar2|Open-mid back unrounded vowel.ogg|ʌ}}| colspan=&quot;2&quot; | &lt;tt&gt;V&lt;/tt&gt;| r<b>u</b>n, en<b>ou</b>gh, <b>u</b>p|-align=&quot;center&quot;| {{enPRchar|&ucirc;r}}| {{IPAchar|ɜː(ɹ)}}| {{IPAchar|ɝ}}| &lt;tt&gt;3:&lt;/tt&gt;| &lt;tt&gt;3`&lt;/tt&gt;| f<b>ur</b>, b<b>ir</b>d|-align=&quot;center&quot;| {{enPRchar|ə}}| colspan=&quot;2&quot; | {{IPAchar2|Schwa.ogg|ə}}| colspan=&quot;2&quot; | &lt;tt&gt;@&lt;/tt&gt;| <b>a</b>bout|-align=&quot;center&quot;| {{enPRchar|ər}}| {{IPAchar|ə(ɹ)}}| {{IPAchar|ɚ}}| &lt;tt&gt;@&lt;/tt&gt;| &lt;tt&gt;@`&lt;/tt&gt;| ent<b>er</b>|}&lt;references/&gt;
 <h3>Consonants</h3>
 {| {wikitable}! enPR&lt;br&gt;(AHD)! IPA! SAMPA! Examples|-| {{enPRchar|b}}| {{IPAchar2|Voiced bilabial plosive.ogg|b}}| &lt;tt&gt;b&lt;/tt&gt;| <b>b</b>ut, a<b>b</b>le, ca<b>b</b>, wo<b>bb</b>le, e<b>bb</b>|-| {{enPRchar|ch}}| {{IPAchar2|voiceless palato-alveolar affricate.ogg|tʃ}}&lt;ref name=tiebar&gt;May also be written with a tie bar, thus: {{IPAchar|/t͡ʃ/, /d͡ʒ/}}&lt;/ref&gt;| &lt;tt&gt;tS&lt;/tt&gt;| <b>ch</b>at, tea<b>ch</b>er, in<b>ch</b>, ca<b>tch</b>, na<b>t</b>ure|-| {{enPRchar|d}}| {{IPAchar2|Voiced alveolar plosive.ogg|d}}| &lt;tt&gt;d&lt;/tt&gt;| <b>d</b>ot, i<b>d</b>ea, no<b>d</b>, fo<b>dd</b>er, o<b>dd</b>|-| {{enPRchar|f}}| {{IPAchar2|Voiceless labiodental fricative.ogg|f}}| &lt;tt&gt;f&lt;/tt&gt;| <b>f</b>an, le<b>f</b>t, lea<b>f</b>, enou<b>gh</b>, <b>ph</b>ase, gra<b>ph</b>ic, epita<b>ph</b>|-| {{enPRchar|g}}| {{IPAchar2|Voiced velar plosive.ogg|ɡ}}| &lt;tt&gt;g&lt;/tt&gt;| <b>g</b>et, ma<b>g</b>net, ba<b>g</b>|-| {{enPRchar|h}}|{{IPAchar2|Voiceless glottal fricative.ogg|h}}| &lt;tt&gt;h&lt;/tt&gt;| <b>h</b>am|-| {{enPRchar|hw}}| {{IPAchar2|voiceless labio-velar fricative.ogg|ʍ (hw)}}&lt;ref&gt;Phonologists may deny that {{IPAchar|/ʍ/}} is a distinct phoneme, and instead use {{IPAchar|/hw/}}.&lt;/ref&gt;| &lt;tt&gt;W&lt;/tt&gt;| <b>wh</b>ich|-| {{enPRchar|j}}| {{IPAchar2|voiced palato-alveolar affricate.ogg|dʒ}}&lt;ref name=tiebar /&gt;| &lt;tt&gt;dZ&lt;/tt&gt;| <b>j</b>oy, a<b>j</b>ar, <b>g</b>in, a<b>g</b>ile, a<b>ge</b>, e<b>dge</b>|-| {{enPRchar|k}}| {{IPAchar2|Voiceless velar plosive.ogg|k}}| &lt;tt&gt;k&lt;/tt&gt;| <b>c</b>at, <b>k</b>it, <b>q</b>ueen, pi<b>que</b>, <b>ch</b>oir, a<b>ch</b>e, ta<b>ck</b>|-| {{enPRchar|ᴋʜ}}| {{IPAchar2|voiceless velar fricative.ogg|x}}| &lt;tt&gt;x&lt;/tt&gt;| (<em>Scottish</em>) lo<b>ch</b>|-| {{enPRchar|l}}| {{IPAchar2|Alveolar lateral approximant.ogg|l}}| &lt;tt&gt;l&lt;/tt&gt;| <b>l</b>eft (<em>before vowel of syllable</em>)|-| {{enPRchar|l}}| {{IPAchar|l̩ (əl)}}&lt;ref name=&quot;cons&quot;&gt;Phonologists may deny that {{IPAchar|/l̩, n̩, m̩/}} are distinct phonemes, and instead use {{IPAchar|/əl, ən, əm/}}.&lt;/ref&gt;| &lt;tt&gt;l=&lt;/tt&gt;| litt<b>le</b>|-| {{enPRchar|m}}| {{IPAchar2|Bilabial nasal.ogg|m}}| &lt;tt&gt;m&lt;/tt&gt;| <b>m</b>an, ani<b>m</b>al, hi<b>m</b>|-| {{enPRchar|m}}| {{IPAchar|m̩ (əm)}}&lt;ref name=&quot;cons&quot;/&gt;| &lt;tt&gt;m=&lt;/tt&gt;| spas<b>m</b>, pris<b>m</b>|-| {{enPRchar|n}}| {{IPAchar2|Alveolar nasal.ogg|n}}| &lt;tt&gt;n&lt;/tt&gt;| <b>n</b>ote, a<b>n</b>t, pa<b>n</b>|-| {{enPRchar|n}}| {{IPAchar|n̩ (ən)}}&lt;ref name=&quot;cons&quot;/&gt;| &lt;tt&gt;n=&lt;/tt&gt;| hidd<b>en</b>|-| {{enPRchar|ng}}| {{IPAchar2|Retroflex nasal.ogg|ŋ}}| &lt;tt&gt;N&lt;/tt&gt;| si<b>ng</b>er, ri<b>ng</b>|-| {{enPRchar|p}}| {{IPAchar2|Voiceless bilabial plosive.ogg|p}}| &lt;tt&gt;p&lt;/tt&gt;| <b>p</b>en, s<b>p</b>in, to<b>p</b>, a<b>pp</b>le|-| {{enPRchar|r}}| {{IPAchar2|Alveolar approximant.ogg|ɹ}}&lt;ref&gt;Often conventionally written {{IPAchar|/r/}}, especially in works that cover only English.&lt;/ref&gt;| &lt;tt&gt;r\&lt;/tt&gt;| <b>r</b>un, ve<b>r</b>y|-| {{enPRchar|s}}| {{IPAchar2|Voiceless_alveolar_sibilant.ogg|s}}| &lt;tt&gt;s&lt;/tt&gt;| <b>s</b>et, li<b>s</b>t, pa<b>ss</b>, <b>c</b>ity, i<b>ce</b>|-| {{enPRchar|sh}}| {{IPAchar2|Voiceless_palato-alveolar_sibilant.ogg|ʃ}}| &lt;tt&gt;S&lt;/tt&gt;| <b>sh</b>e, a<b>sh</b>, <b>s</b>ure, ra<b>t</b>ion|-| {{enPRchar|t}}| {{IPAchar2|Voiceless alveolar plosive.ogg|t}}| &lt;tt&gt;t&lt;/tt&gt;| <b>t</b>on, s<b>t</b>ab, ma<b>t</b>, a<b>tt</b>end, bu<b>tt</b>, ou<b>ght</b>|-| {{enPRchar|th}}| {{IPAchar2|Voiceless dental fricative.ogg|θ}}| &lt;tt&gt;T&lt;/tt&gt;| <b>th</b>in, no<b>th</b>ing, mo<b>th</b>|-| {{enPRchar|<em>th</em>}}| {{IPAchar2|voiced dental fricative.ogg|&eth;}}| &lt;tt&gt;D&lt;/tt&gt;| <b>th</b>is, fa<b>th</b>er, clo<b>the</b>|-| {{enPRchar|v}}| {{IPAchar2|Voiced labiodental fricative.ogg|v}}| &lt;tt&gt;v&lt;/tt&gt;| <b>v</b>oice, na<b>v</b>el, sa<b>ve</b>, o<b>f</b>|-| {{enPRchar|w}}| {{IPAchar2|Voiced labio-velar approximant.ogg|w}}| &lt;tt&gt;w&lt;/tt&gt;| <b>w</b>et|-| {{enPRchar|y}}| {{IPAchar2|Palatal approximant.ogg|j}}| &lt;tt&gt;j&lt;/tt&gt;| <b>y</b>es|-| {{enPRchar|z}}| {{IPAchar2|Voiced_alveolar_sibilant.ogg|z}}| &lt;tt&gt;z&lt;/tt&gt;| <b>z</b>oo, qui<b>z</b>, fu<b>zz</b>, ro<b>s</b>e, <b>x</b>ylem|-| {{enPRchar|zh}}| {{IPAchar2|Voiced_palato-alveolar_sibilant.ogg|ʒ}}| &lt;tt&gt;Z&lt;/tt&gt;| vi<b>s</b>ion, trea<b>s</b>ure, bei<b>ge</b>|}&lt;references/&gt;
 <h3>Other symbols</h3>
-A stress mark is placed before the syllable that is stressed in IPA and SAMPA and after it in enPR and AHD. {| {wikitable}! enPR&lt;br&gt;(AHD)! IPA! SAMPA! Indicates|-| {{enPRchar|ʹ}} (a{{enPRchar|ʹ}})| {{IPAchar|ˈ}} ({{IPAchar|ˈ}}a)| &lt;tt&gt;&quot;&lt;/tt&gt; (&lt;tt&gt;&quot;&lt;/tt&gt;a)| primary stress|-| {{enPRchar|'}} (a{{enPRchar|'}})| {{IPAchar|ˌ}} ({{IPAchar|ˌ}}a)| &lt;tt&gt;%&lt;/tt&gt; (&lt;tt&gt;%&lt;/tt&gt;a)| secondary stress, sometimes tertiary stress|-| a{{enPRchar|-}}a| a{{IPAchar|.}}a| a&lt;tt&gt;.&lt;/tt&gt;a| division between syllables|}<b>Note:</b> The EnPR and print AHD marks are formatted slightly differently. Online, AHD writes both {{enPRchar|'}}, though they do not always represent the same phoneme.
-===apples===
-apples and pears:
-
+A stress mark is placed before the syllable that is stressed in IPA and SAMPA and after it in enPR and AHD. {| {wikitable}! enPR&lt;br&gt;(AHD)! IPA! SAMPA! Indicates|-| {{enPRchar|ʹ}} (a{{enPRchar|ʹ}})| {{IPAchar|ˈ}} ({{IPAchar|ˈ}}a)| &lt;tt&gt;&quot;&lt;/tt&gt; (&lt;tt&gt;&quot;&lt;/tt&gt;a)| primary stress|-| {{enPRchar|'}} (a{{enPRchar|'}})| {{IPAchar|ˌ}} ({{IPAchar|ˌ}}a)| &lt;tt&gt;%&lt;/tt&gt; (&lt;tt&gt;%&lt;/tt&gt;a)| secondary stress, sometimes tertiary stress|-| a{{enPRchar|-}}a| a{{IPAchar|.}}a| a&lt;tt&gt;.&lt;/tt&gt;a| division between syllables|}<b>Note:</b> The EnPR and print AHD marks are formatted slightly differently. Online, AHD writes both {{enPRchar|'}}, though they do not always represent the same phoneme.>>>
+***apples and pears***
+HtmlEntry: apples and pears <<<
 <h3>Noun</h3>
 {{en-noun|-|sg=apples and pears}}
 <ol><li> {Cockney rhyming slang} stairs</li>
 </ol>
-
+>>>
 ***April***
-April:
-{wikipedia}
+HtmlEntry: April <<<{wikipedia}
 <h3>Etymology</h3>
 From {{etyl|enm}} {{term|apprile|lang=enm}}, re-Latinized from <em>aueril</em>, from {{etyl|fro}} {{term|avrill|lang=fro}}, from {{etyl|la}} {{term|aprilis|aprīlis|of the month of the goddess Venus|lang=la}}, perhaps based on {{etyl|ett}} {{term|Apru|lang=ett}}, from Ancient Greek {{term|Αφροδίτη|Venus|tr=Afrod&iacute;te|lang=grc}}.
 <h3>Pronunciation</h3>
@@ -440,10 +406,9 @@ From {{etyl|enm}} {{term|apprile|lang=enm}}, re-Latinized from <em>aueril</em>, 
 <h3>Anagrams</h3>
 <ul><li> Pilar</li>
 </ul>
-----
+---->>>
 ***august***
-august:
-
+HtmlEntry: august <<<
 <h3>Pronunciation</h3>
 <ul><li> {{a|RP}} {{IPA|/ɔːˈɡʌst/}}</li>
 <li> {{a|US}} {{IPA|/ɔːˈɡʌst/|/ɑːˈɡʌst/}}</li>
@@ -483,10 +448,9 @@ From August
 <h3>Anagrams</h3>
 <ul><li> Tausug</li>
 </ul>
-----
+---->>>
 ***barter***
-barter:
-{wikipedia}
+HtmlEntry: barter <<<{wikipedia}
 <h3>Pronunciation</h3>
 <ul><li> {{a|RP}} {{IPA|/ˈbɑːtə(ɹ)/}}, {{X-SAMPA|/bA:t@(r)/}}</li>
 <li> {{a|US}} {{enPR|b&auml;rʹ-tər}}, {{IPA|/ˈbɑɹtə˞/}}, {{X-SAMPA|/bArt@`/}}</li>
@@ -519,10 +483,9 @@ From {{etyl|fro}} <em>barater</em>, of uncertain origin (maybe Celtic).
 <li> swop</li>
 <li> trade</li>
 </ul>
-
+>>>
 ***book***
-book:
-{wikipedia}
+HtmlEntry: book <<<{wikipedia}
 <h3>Pronunciation</h3>
 <ul><li> {{enPR|bo͝ok}}, {{IPA|/bʊk/}}, {{X-SAMPA|/bUk/}}</li>
 <li> {{audio|en-us-book.ogg|Audio (US)}} <em>plural</em> {{audio|en-us-books.ogg|Audio (US)}}</li>
@@ -827,19 +790,17 @@ A hard-cover book{en-noun}
 </ul>
 
 <h3>References</h3>
-&lt;references/&gt;Category:1000 English basic wordsCategory:en:Poker----
-book:
-
+&lt;references/&gt;Category:1000 English basic wordsCategory:en:Poker---->>>
+HtmlEntry: book <<<
 <h3>Etymology</h3>
 {{etyl|ang|enm}} {{term|boc|bōc|lang=ang}}
 <h3>Noun</h3>
 {enm-noun}
 <ol><li> {{alternative form of|booke|lang=enm}}</li>
 </ol>
-af:bookar:bookaz:bookzh-min-nan:bookbs:bookca:bookcs:bookcy:bookda:bookde:booket:bookel:bookes:bookeo:bookeu:bookfa:bookfr:bookgl:bookko:bookhy:bookhr:bookio:bookid:bookiu:bookzu:bookit:bookjv:bookkn:bookka:bookkk:booksw:bookku:bookky:booklo:booklv:booklt:bookli:bookhu:bookmk:bookmg:bookml:bookmy:bookfj:booknl:bookja:bookno:bookoc:bookkm:bookpl:bookpt:bookro:bookru:booksq:booksi:booksimple:bookso:booksr:bookfi:booksv:booktl:bookta:bookte:bookth:booktg:bookchr:booktr:bookug:bookuk:bookur:bookvi:bookzh:book
+af:bookar:bookaz:bookzh-min-nan:bookbs:bookca:bookcs:bookcy:bookda:bookde:booket:bookel:bookes:bookeo:bookeu:bookfa:bookfr:bookgl:bookko:bookhy:bookhr:bookio:bookid:bookiu:bookzu:bookit:bookjv:bookkn:bookka:bookkk:booksw:bookku:bookky:booklo:booklv:booklt:bookli:bookhu:bookmk:bookmg:bookml:bookmy:bookfj:booknl:bookja:bookno:bookoc:bookkm:bookpl:bookpt:bookro:bookru:booksq:booksi:booksimple:bookso:booksr:bookfi:booksv:booktl:bookta:bookte:bookth:booktg:bookchr:booktr:bookug:bookuk:bookur:bookvi:bookzh:book>>>
 ***brown***
-brown:
-{wikipedia}Various shades of brown.Brown is a common hair color.A glass of hot chocolate.
+HtmlEntry: brown <<<{wikipedia}Various shades of brown.Brown is a common hair color.A glass of hot chocolate.
 <h3>Etymology</h3>
 {{etyl|enm|en}} {{term|broun|lang=enm}}, from {{etyl|ang|en}} {{term|brun|brūn|lang=ang}} 'dark, shining', from {{proto|Germanic|brūnaz|lang=en}} (compare {{etyl|fy|-}} {{term|br&uacute;n|lang=fy}}, {{etyl|nl|-}} {{term|bruin|lang=nl}}, German {{term|braun|lang=de}}), from {{proto|Indo-European|bʰruhₓnos}} (compare Ancient Greek {{term|phr&yacute;nē}}, {{term|phrŷnos}} ‘toad’), enlargement of {{proto|Indo-European|bʰreu-|shiny, brown|title=}} (compare {{etyl|lt|-}} {{term|beras|bė́ras|lang=lt}} ‘brown’, Sanskrit {{term|babhr&uacute;}} ‘reddish-brown’ {{rfscript|Devanagari|lang=sa}}).
 <h3>Pronunciation</h3>
@@ -939,10 +900,9 @@ brown:
 <ul><li> golding</li>
 <li> Appendix:Colors</li>
 </ul>
-Category:1000 English basic wordsCategory:en:BrownsCategory:en:Colorsang:brownar:brownca:browncs:browncy:brownda:brownde:brownet:brownel:brownes:browneu:brownfa:brownfr:browngl:brownko:brownhy:brownhr:brownio:brownid:brownzu:brownit:brownkl:brownkn:brownkk:brownsw:brownku:brownli:brownhu:brownmg:brownml:brownmy:brownfj:brownnl:brownja:brownpl:brownpt:brownru:brownsimple:brownfi:brownsv:browntl:brownta:brownte:brownth:browntr:brownuk:brownvi:brownzh:brown
-===business===
-business deal:
-
+Category:1000 English basic wordsCategory:en:BrownsCategory:en:Colorsang:brownar:brownca:browncs:browncy:brownda:brownde:brownet:brownel:brownes:browneu:brownfa:brownfr:browngl:brownko:brownhy:brownhr:brownio:brownid:brownzu:brownit:brownkl:brownkn:brownkk:brownsw:brownku:brownli:brownhu:brownmg:brownml:brownmy:brownfj:brownnl:brownja:brownpl:brownpt:brownru:brownsimple:brownfi:brownsv:browntl:brownta:brownte:brownth:browntr:brownuk:brownvi:brownzh:brown>>>
+***business deal***
+HtmlEntry: business deal <<<
 <h3>Noun</h3>
 {{en-noun|sg=business deal}}
 <ol><li> A particular instance of buying or selling</li>
@@ -956,10 +916,9 @@ business deal:
 <ul><li> deal</li>
 <li> trade</li>
 </ul>
-it:business deal
+it:business deal>>>
 ***cat***
-cat:
-{wikipedia}A domestic cat (1)
+HtmlEntry: cat <<<{wikipedia}A domestic cat (1)
 <h3>Pronunciation</h3>
 <ul><li> {{enPR|kăt}}, {{IPA|/k&aelig;t/|[kʲ&aelig;ʔ]}}, {{X-SAMPA|/k{t/}}</li>
 <li> {{audio|en-us-cat.ogg|Audio (US)}}</li>
@@ -1191,28 +1150,9 @@ This usage is common in speech but rarely appears in writing.
 <li> tac, TAC</li>
 <li> TCA</li>
 </ul>
-Category:1000 English basic wordsCategory:English terms with multiple etymologiesCategory:en:CatsCategory:en:Mammals----
-===cats===
-rain cats and dogs:
-
-<h3>Etymology</h3>
-Unknown. Perhaps from {{etyl|grc|en}} {{term|κατά|against|lang=grc|tr=cata}} and {{term|δόξα|opinion, expectation|tr=doxa|lang=grc}}, but see Etymology in Citations
-<h3>Verb</h3>
-{{en-verb|rains cats and dogs|raining cats and dogs|rained cats and dogs|head=rain cats and dogs}}
-<ol><li> {idiomatic} To rain very heavily.</li>
-</ol>
-
-<h4>Synonyms</h4>
-<ul><li> {{sense|to rain very heavily}} bucket, bucket down, chuck it down, rain buckets, rain pitchforks, pelt, piss down {{qualifier|coarse slang}}, pour, stream, teem</li>
-</ul>
-
-<h3>Anagrams</h3>
-<ul><li> rain dogs and cats</li>
-</ul>
-cy:rain cats and dogsde:rain cats and dogset:rain cats and dogses:rain cats and dogsfr:rain cats and dogsgl:rain cats and dogsja:rain cats and dogsno:rain cats and dogspl:rain cats and dogspt:rain cats and dogsru:rain cats and dogssv:rain cats and dogszh:rain cats and dogs
+Category:1000 English basic wordsCategory:English terms with multiple etymologiesCategory:en:CatsCategory:en:Mammals---->>>
 ***connotation***
-connotation:
-
+HtmlEntry: connotation <<<
 <h3>Pronunciation</h3>
 <ul><li> {{rhymes|eɪʃən}}</li>
 </ul>
@@ -1245,10 +1185,9 @@ connotation:
 </ul>
 
 <h4>External links</h4>
-Category:en:Semanticscs:connotationet:connotationel:connotationfa:connotationfr:connotationko:connotationio:connotationid:connotationkn:connotationhu:connotationmy:connotationno:connotationpl:connotationru:connotationsimple:connotationfi:connotationta:connotationtr:connotationvi:connotationzh:connotation
+Category:en:Semanticscs:connotationet:connotationel:connotationfa:connotationfr:connotationko:connotationio:connotationid:connotationkn:connotationhu:connotationmy:connotationno:connotationpl:connotationru:connotationsimple:connotationfi:connotationta:connotationtr:connotationvi:connotationzh:connotation>>>
 ***craft***
-craft:
-{{wikipedia|craft|dab=craft (disambiguation)}}
+HtmlEntry: craft <<<{{wikipedia|craft|dab=craft (disambiguation)}}
 <h3>Etymology</h3>
 From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|cr&aelig;ft|physical strength, might, courage, science, skill, art, ability, talent, virtue, excellence, trade, handicraft, calling, work or product of art, hex, trick, fraud, deceit, machine, instrument|lang=ang}}, from {{proto|Germanic|kraftaz|power|lang=en}}, from {{proto|Indo-European|ger-|to turn, wind|lang=en}}. Cognate with {{etyl|frs|-}} {{term|craft|strength|lang=frs}}, {{etyl|fy|-}} {{term|kr&ecirc;ft|strength|lang=fy}}, {{etyl|nl|-}} {{term|kracht|strength, force, power|lang=nl}}, {{etyl|de|-}} {{term|Kraft|strength, force, power|lang=de}}, {{etyl|sv|-}} {{term|kraft|power, force, drive, energy|lang=sv}}, {{etyl|is|-}} {{term|kraftur|power|lang=is}}.
 <h3>Pronunciation</h3>
@@ -1329,10 +1268,9 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|cr&aelig;ft|physical strength,
 <h3>References</h3>
 <ul><li> Krueger, Dennis (December 1982). &quot;Why On Earth Do They Call It Throwing?&quot; <em>Studio Potter</em> Vol. 11, Number 1.[http://www.studiopotter.org/articles/?art=art0001]</li>
 </ul>
-Category:English invariant nounscs:craftcy:craftet:craftel:crafteo:craftfa:craftfr:craftko:craftio:craftid:craftkn:crafthu:craftmg:craftml:craftmy:craftnl:craftpl:craftru:craftsimple:craftfi:craftsv:craftta:craftte:craftvi:craftzh:craft
+Category:English invariant nounscs:craftcy:craftet:craftel:crafteo:craftfa:craftfr:craftko:craftio:craftid:craftkn:crafthu:craftmg:craftml:craftmy:craftnl:craftpl:craftru:craftsimple:craftfi:craftsv:craftta:craftte:craftvi:craftzh:craft>>>
 ***crow***
-crow:
-A bird; a crow: <em>American crow</em>{wikipedia}
+HtmlEntry: crow <<<A bird; a crow: <em>American crow</em>{wikipedia}
 <h3>Pronunciation</h3>
 <ul><li> {{a|RP}} {{IPA|/kɹəʊ/}}, {{X-SAMPA|/kr@U/}}</li>
 <li> {{a|US}} {{enPR|krō}}, {{IPA|/kroʊ/}}, {{X-SAMPA|/kroU/}}</li>
@@ -1402,10 +1340,9 @@ A bird; a crow: <em>American crow</em>{wikipedia}
 <li> To shout in exultation or defiance; to brag.</li>
 <li> To utter a sound expressive of joy or pleasure.</li>
 </ol>
-
-===current===
-current events:
-
+>>>
+***current events***
+HtmlEntry: current events <<<
 <h3>Noun</h3>
 {{en-plural noun|head=current events|sg=current event}}
 <ol><li> current affairs; those events and issues of interest currently found in the news.</li>
@@ -1414,10 +1351,9 @@ current events:
 <h3>See also</h3>
 <ul><li> current affairs</li>
 </ul>
-am:current eventsang:current eventszh-min-nan:current eventset:current eventsel:current eventsfr:current eventsia:current eventskk:current eventsmg:current eventsru:current eventssd:current eventsst:current eventssu:current eventsta:current eventsth:current eventstt:current events
+am:current eventsang:current eventszh-min-nan:current eventset:current eventsel:current eventsfr:current eventsia:current eventskk:current eventsmg:current eventsru:current eventssd:current eventsst:current eventssu:current eventsta:current eventsth:current eventstt:current events>>>
 ***day***
-day:
-{{wikipedia|Day (disambiguation)}}
+HtmlEntry: day <<<{{wikipedia|Day (disambiguation)}}
 <h3>Alternative forms</h3>
 <ul><li> daie {{qualifier|archaic}}</li>
 </ul>
@@ -1541,9 +1477,8 @@ From {{etyl|enm}} {{term|day|lang=enm}}, from {{etyl|ang}} {{term|d&aelig;g|d&ae
 <ul><li> d'ya</li>
 <li> yad</li>
 </ul>
-Category:200 English basic wordsCategory:en:Time----
-day:
-
+Category:200 English basic wordsCategory:en:Time---->>>
+HtmlEntry: day <<<
 <h3>Etymology</h3>
 {{etyl|ang|enm}} {{term|d&aelig;g|d&aelig;ġ|lang=ang}}
 <h3>Noun</h3>
@@ -1554,10 +1489,9 @@ day:
 <h4>Descendants</h4>
 <ul><li> English: day</li>
 </ul>
-----
+---->>>
 ***deal***
-deal:
-
+HtmlEntry: deal <<<
 <h3>Pronunciation</h3>
 <ul><li> {{enPR|dēl}}, {{IPA|/diːl/}}, {{X-SAMPA|/di:l/}}</li>
 <li> {{audio|en-us-deal.ogg|Audio (US)}}</li>
@@ -1746,26 +1680,9 @@ From {{etyl|enm}} {{term|delen|lang=enm}}, from {{etyl|ang}} {{term|d&aelig;lan|
 <li> lade</li>
 <li> lead</li>
 </ul>
-Category:English irregular verbsCategory:English terms with multiple etymologies----
-business deal:
-
-<h3>Noun</h3>
-{{en-noun|sg=business deal}}
-<ol><li> A particular instance of buying or selling</li>
-<ul><li>&quot;it was a package deal&quot;</li>
-<li>&quot;I had no further trade with him&quot;</li>
-<li>&quot;he's a master of the business deal&quot; </li>
-</ul>
-</ol>
-
-<h4>Synonyms</h4>
-<ul><li> deal</li>
-<li> trade</li>
-</ul>
-it:business deal
+Category:English irregular verbsCategory:English terms with multiple etymologies---->>>
 ***December***
-December:
-
+HtmlEntry: December <<<
 <h3>Alternative forms</h3>
 <ul><li> Decembre {{qualifier|obsolete}}</li>
 </ul>
@@ -1801,10 +1718,9 @@ From {{etyl|enm}} {{term|decembre|lang=emn}}, from {{etyl|fro}} {{term|decembre|
 <ul><li> Undecimber</li>
 <li> {{list|en|Gregorian calendar months}}</li>
 </ul>
-----
+---->>>
 ***denotation***
-denotation:
-{wikipedia}
+HtmlEntry: denotation <<<{wikipedia}
 <h3>Etymology</h3>
 From to denote (from {{etyl|frm}} denoter, from {{etyl|la}} denotare &quot;denote, mark out&quot;, itself from de- &quot;completely&quot; + notare &quot;to mark&quot;) + -ation
 <h3>Pronunciation</h3>
@@ -1840,10 +1756,9 @@ From to denote (from {{etyl|frm}} denoter, from {{etyl|la}} denotare &quot;denot
 <ul><li> detonation</li>
 <li> taeniodont</li>
 </ul>
-pl:denotationpt:denotationru:denotationcs:denotationet:denotationfi:denotationta:denotationvi:denotationtr:denotationzh:denotation
+pl:denotationpt:denotationru:denotationcs:denotationet:denotationfi:denotationta:denotationvi:denotationtr:denotationzh:denotation>>>
 ***dialect***
-dialect:
-{wikipedia}
+HtmlEntry: dialect <<<{wikipedia}
 <h3>Etymology</h3>
 From {{etyl|grc}} {{term|διάλεκτος|conversation, the language of a country or a place or a nation, the local idiom which derives from a dominant language|tr=di&aacute;lektos|sc=polytonic}}, from {{term|διαλέγομαι|I participate in a dialogue|tr=dial&eacute;gomai|sc=polytonic}}, from {{term|διά|inter, through|tr=di&aacute;|sc=polytonic}} + {{term|λέγω|I speak|tr=l&eacute;gō|sc=polytonic}}.
 <h3>Pronunciation</h3>
@@ -1895,10 +1810,9 @@ From {{etyl|grc}} {{term|διάλεκτος|conversation, the language of a coun
 <h3>Anagrams</h3>
 <ul><li> citadel, deltaic, edictal, lactide</li>
 </ul>
-----
+---->>>
 ***dictionary***
-dictionary:
-{{wikipedia|Dictionary|dab=Dictionary (disambiguation)}}A multi-volume Latin dictionary in the University Library of Graz.
+HtmlEntry: dictionary <<<{{wikipedia|Dictionary|dab=Dictionary (disambiguation)}}A multi-volume Latin dictionary in the University Library of Graz.
 <h3>Etymology</h3>
 {{etyl|ML.|en}} {{term|dictionarium|lang=la}}, from {{etyl|la|en}} {{term|dictionarius|lang=la}}, from {{term|dictio|speaking|lang=la}}, from {{term|dictus|lang=la}}, perfect past participle of {{term|dico|dīcō|speak|lang=la}} + {{term|-arium|room, place|lang=la}}.
 <h3>Pronunciation</h3>
@@ -1947,10 +1861,9 @@ Category:en:Reference works
 <li> {transitive} To add to a dictionary</li>
 <li> {intransitive} To appear in a dictionary</li>
 </ol>
-ar:dictionaryaz:dictionaryzh-min-nan:dictionarybg:dictionarybs:dictionarybr:dictionaryca:dictionarycs:dictionarycy:dictionaryda:dictionaryde:dictionaryet:dictionaryel:dictionaryes:dictionaryeo:dictionaryeu:dictionaryfa:dictionaryfr:dictionaryfy:dictionarygl:dictionaryko:dictionaryhy:dictionaryhi:dictionaryio:dictionaryid:dictionaryis:dictionaryit:dictionarykn:dictionaryka:dictionarykk:dictionarysw:dictionaryku:dictionarylo:dictionarylv:dictionarylb:dictionarylt:dictionaryli:dictionaryhu:dictionarymk:dictionarymg:dictionaryml:dictionarymy:dictionarynl:dictionaryja:dictionaryno:dictionaryoc:dictionarykm:dictionarytpi:dictionarypl:dictionarypt:dictionaryro:dictionaryru:dictionarysq:dictionarysimple:dictionarysl:dictionarysr:dictionarysu:dictionaryfi:dictionarysv:dictionarytl:dictionaryta:dictionaryte:dictionaryth:dictionarytg:dictionarytr:dictionaryuk:dictionaryur:dictionaryvi:dictionaryzh:dictionary
+ar:dictionaryaz:dictionaryzh-min-nan:dictionarybg:dictionarybs:dictionarybr:dictionaryca:dictionarycs:dictionarycy:dictionaryda:dictionaryde:dictionaryet:dictionaryel:dictionaryes:dictionaryeo:dictionaryeu:dictionaryfa:dictionaryfr:dictionaryfy:dictionarygl:dictionaryko:dictionaryhy:dictionaryhi:dictionaryio:dictionaryid:dictionaryis:dictionaryit:dictionarykn:dictionaryka:dictionarykk:dictionarysw:dictionaryku:dictionarylo:dictionarylv:dictionarylb:dictionarylt:dictionaryli:dictionaryhu:dictionarymk:dictionarymg:dictionaryml:dictionarymy:dictionarynl:dictionaryja:dictionaryno:dictionaryoc:dictionarykm:dictionarytpi:dictionarypl:dictionarypt:dictionaryro:dictionaryru:dictionarysq:dictionarysimple:dictionarysl:dictionarysr:dictionarysu:dictionaryfi:dictionarysv:dictionarytl:dictionaryta:dictionaryte:dictionaryth:dictionarytg:dictionarytr:dictionaryuk:dictionaryur:dictionaryvi:dictionaryzh:dictionary>>>
 ***dog***
-dog:
-{slim-wikipedia}A dog (a Labrador retriever)
+HtmlEntry: dog <<<{slim-wikipedia}A dog (a Labrador retriever)
 <h3>Alternative forms</h3>
 <ul><li> darg {{qualifier|dialectical}}</li>
 <li> dawg {{qualifier|dialectical}}</li>
@@ -2497,31 +2410,9 @@ From {{etyl|enm}} {{term|dogge|lang=enm}}, from {{etyl|ang}} {{term|docga|hound,
 <h3>Anagrams</h3>
 <ul><li> god, God</li>
 </ul>
-Category:1000 English basic wordsCategory:English three-letter words Category:en:Mammals----
-===dogs===
-rain cats and dogs:
-
-<h3>Etymology</h3>
-Unknown. Perhaps from {{etyl|grc|en}} {{term|κατά|against|lang=grc|tr=cata}} and {{term|δόξα|opinion, expectation|tr=doxa|lang=grc}}, but see Etymology in Citations
-<h3>Verb</h3>
-{{en-verb|rains cats and dogs|raining cats and dogs|rained cats and dogs|head=rain cats and dogs}}
-<ol><li> {idiomatic} To rain very heavily.</li>
-</ol>
-
-<h4>Synonyms</h4>
-<ul><li> {{sense|to rain very heavily}} bucket, bucket down, chuck it down, rain buckets, rain pitchforks, pelt, piss down {{qualifier|coarse slang}}, pour, stream, teem</li>
-</ul>
-
-<h3>Anagrams</h3>
-<ul><li> rain dogs and cats</li>
-</ul>
-cy:rain cats and dogsde:rain cats and dogset:rain cats and dogses:rain cats and dogsfr:rain cats and dogsgl:rain cats and dogsja:rain cats and dogsno:rain cats and dogspl:rain cats and dogspt:rain cats and dogsru:rain cats and dogssv:rain cats and dogszh:rain cats and dogs
-===domain===
-Wiktionary:Public domain sources:
-The first fascicle of the Oxford English Dictionary was published in 1884, and it was published in fascicles until completion in 1928. Oxford English Dictionary is a great source of word history.Some scanned fascicles of Oxford English Dictionary under the title <em>A New English Dictionary on Historical Principles</em> by James A. H. Murray can be found at archive.org, as seen in [http://www.archive.org/search.php?query=creator%3A%22James%20A.%20H.%20Murray%22 works by James A. H. Murray]. They have been scanned by a person whose [http://lists.canonical.org/pipermail/kragen-tol/2005-October/000794.html letter of intent] can be seen, as well as his [http://lists.canonical.org/pipermail/kragen-tol/2006-March/000816.html progress] as of March 16 2006. He is scanning those fascicles published in the US before 1923, maybe because in the UK the copyright is [http://answers.google.com/answers/threadview?id=16644 extended to author's life + 70 years]. There seem to be no plain text files converted using OCR.The volume 1 of OED, 1884, is also avaliable at Fractionary, starting at [http://fraktionary.com/index.php/OED:1_1 OED:1_1], and ending at [http://fraktionary.com/index.php/OED:1_1240 OED:1_1240].
+Category:1000 English basic wordsCategory:English three-letter words Category:en:Mammals---->>>
 ***eagle***
-eagle:
-Golden eagle (bird).
+HtmlEntry: eagle <<<Golden eagle (bird).
 <h3>Etymology</h3>
 {{etyl|enm}} {{term|egle|lang=enm}}, from {{etyl|xno}} {{term|egle|lang=xno}}, from {{etyl|fro}} {{term|aigle|lang=fro}}, from {{etyl|la}} {{term|aquila|lang=la}}. Displaced native Middle English {{term|earn|ern, earn, arn|lang=enm}}, from {{etyl|ang|-}} {{term|earn|lang=ang}}. More at {{term|erne|lang=en}}.
 <h3>Pronunciation</h3>
@@ -2579,10 +2470,9 @@ Golden eagle (bird).
 <h3>Anagrams</h3>
 <ul><li> aglee</li>
 </ul>
-Category:en:Birds*Category:en:Golf----
+Category:en:Birds*Category:en:Golf---->>>
 ***elephant***
-elephant:
-
+HtmlEntry: elephant <<<
 <h3>Etymology</h3>
 {{etyl|enm}} {{term|elefant|lang=enm}}, {{term|elefaunt|lang=enm}}, from {{etyl|frm}} {{term|elephant|lang=frm}}, learned borrowing from {{etyl|la}} {{term|elephantus|lang=la}}, from {{etyl|grc}} {{term|ἐλέφας|sc=polytonic|tr=el&eacute;phās|lang=grc}} (gen. {{term|ἐλέφαντος|tr=el&eacute;phantos|lang=grc}}), compound of Berber {{recons|eḷu|lang=ber}} ‘elephant’ (compare Tamahaq (Tahaggart) {{term|&ecirc;lu|lang=thv}}, (Ghat) {{term|alu|lang=taq}}) and {{etyl|egy}} {{term|𓍋𓃀𓅱𓌟|tr=ȝbw|sc=Egyp}} (<em>ābu</em>) ‘elephant; ivory’. More at {{l|en|ivory}}. Replaced Middle English {{term|olifant|lang=enm}}, which replaced Old English {{term|elpend|lang=la}}, {{term|olfend|lang=ang}}.
 <h3>Pronunciation</h3>
@@ -2740,10 +2630,9 @@ elephant:
 <ul><li> {pedia}</li>
 <li> {{pedia|Elephant (disambiguation)}}</li>
 </ul>
-Category:Paper sizes*----
+Category:Paper sizes*---->>>
 ***encyclopaedia***
-encyclopaedia:
-
+HtmlEntry: encyclopaedia <<<
 <h3>Alternative forms</h3>
 <ul><li> encyclop&aelig;dia (<em>UK</em>)</li>
 <li> encyclopedia (<em>US, Canada</em>)</li>
@@ -2763,10 +2652,9 @@ encyclopaedia:
 <h3>See also</h3>
 <ul><li> Wikipedia</li>
 </ul>
-zh-min-nan:encyclopaediacs:encyclopaediaet:encyclopaediael:encyclopaediaes:encyclopaediafr:encyclopaediaio:encyclopaediaid:encyclopaediait:encyclopaedialo:encyclopaediahu:encyclopaediamy:encyclopaediapl:encyclopaediaro:encyclopaediafi:encyclopaediata:encyclopaediatr:encyclopaediavi:encyclopaediazh:encyclopaedia
+zh-min-nan:encyclopaediacs:encyclopaediaet:encyclopaediael:encyclopaediaes:encyclopaediafr:encyclopaediaio:encyclopaediaid:encyclopaediait:encyclopaedialo:encyclopaediahu:encyclopaediamy:encyclopaediapl:encyclopaediaro:encyclopaediafi:encyclopaediata:encyclopaediatr:encyclopaediavi:encyclopaediazh:encyclopaedia>>>
 ***encyclopedia***
-encyclopedia:
-{wikipedia}
+HtmlEntry: encyclopedia <<<{wikipedia}
 <h3>Alternative forms</h3>
 <ul><li> encyclop&aelig;dia</li>
 <li> {{qualifier|chiefly British}} encyclopaedia</li>
@@ -2809,97 +2697,9 @@ The spelling <em>encyclopedia</em> is standard in American English, preferred in
 <h4>See also</h4>
 <ul><li> dictionary</li>
 </ul>
-
-===English===
-Appendix:English pronunciation:
-The following tables show the IPA, SAMPA and enPR/AHD representations of English pronunciation, in both Received Pronunciation (UK) and General American (US). For vowels in other dialects, see IPA chart for English.
-<h3>Vowels</h3>
-The vowel table lists both monophthongs and diphthongs.{| {wikitable}! rowspan=&quot;2&quot; | enPR&lt;br/&gt;(AHD)! colspan=&quot;2&quot; | IPA! colspan=&quot;2&quot; | SAMPA! rowspan=&quot;2&quot; | Examples|-! RP! GA! RP! GA|-align=&quot;center&quot;| {{enPRchar|ă}}| colspan=&quot;2&quot; | {{IPAchar2|Near-open front unrounded vowel.ogg|&aelig;}}| colspan=&quot;2&quot; | &lt;tt&gt;{&lt;/tt&gt;| b<b>a</b>d, c<b>a</b>t, r<b>a</b>n|-align=&quot;center&quot;| {{enPRchar|ăr}}| colspan=&quot;2&quot; | {{IPAchar|&aelig;ɹ}}| colspan=&quot;2&quot; | &lt;tt&gt;{r\&lt;/tt&gt;| c<b>arr</b>y|-align=&quot;center&quot;| {{enPRchar|ā}}| colspan=&quot;2&quot; | {{IPAchar|eɪ}}| colspan=&quot;2&quot; | &lt;tt&gt;eI&lt;/tt&gt;| b<b>ai</b>t, pl<b>ay</b>, s<b>a</b>me|-align=&quot;center&quot;| {{enPRchar|&auml;}}| {{IPAchar|ɑː}}| {{IPAchar2|Open back unrounded vowel.ogg|ɑ}}| &lt;tt&gt;A:&lt;/tt&gt;| &lt;tt&gt;A&lt;/tt&gt;| f<b>a</b>ther|-align=&quot;center&quot;| {{enPRchar|&auml;r}}| {{IPAchar|ɑː(ɹ)}}| {{IPAchar|ɑɹ}}| &lt;tt&gt;A:&lt;/tt&gt;| &lt;tt&gt;Ar\&lt;/tt&gt;| <b>ar</b>m, b<b>ar</b>d, <b>ar</b>ia|-align=&quot;center&quot;| {{enPRchar|&acirc;r}}| {{IPAchar|ɛə(ɹ)}}| {{IPAchar|ɛɹ}}| &lt;tt&gt;E@&lt;/tt&gt;| &lt;tt&gt;Er\&lt;/tt&gt;| h<b>air</b>, p<b>ear</b>, th<b>ere</b>, sc<b>ar</b>y|-align=&quot;center&quot;| {{enPRchar|ĕ}}| colspan=&quot;2&quot; | {{IPAchar2|Open-mid front unrounded vowel.ogg|ɛ}}| colspan=&quot;2&quot; | &lt;tt&gt;E&lt;/tt&gt;| b<b>e</b>d, b<b>e</b>t, <b>e</b>nd|-align=&quot;center&quot;| {{enPRchar|ĕr}}| colspan=&quot;2&quot; | {{IPAchar|ɛɹ}}| colspan=&quot;2&quot; | &lt;tt&gt;Er\&lt;/tt&gt;| m<b>err</b>y|-align=&quot;center&quot;| {{enPRchar|ē}}| {{IPAchar|iː}}| {{IPAchar2|Close front unrounded vowel.ogg|i}}| &lt;tt&gt;i:&lt;/tt&gt;| &lt;tt&gt;i&lt;/tt&gt;| <b>ea</b>se, s<b>ee</b>|-align=&quot;center&quot;| {{enPRchar|ĭ}}| colspan=&quot;2&quot; | {{IPAchar2|Near-close near-front unrounded vowel.ogg|ɪ}}| colspan=&quot;2&quot; | &lt;tt&gt;I&lt;/tt&gt;| c<b>i</b>ty, b<b>i</b>t|-align=&quot;center&quot;| {{enPRchar|i}}&lt;ref&gt;Not an AHD symbol. Often written as AHD <em>ē</em> in Wiktionary entries.&lt;/ref&gt;| colspan=&quot;2&quot; | {{IPAchar2|Close front unrounded vowel.ogg|i}}| colspan=&quot;2&quot; | &lt;tt&gt;i&lt;/tt&gt;| cit<b>y</b>, ver<b>y</b>, read<b>y</b>|-align=&quot;center&quot;| {{enPRchar|ĭr}}| colspan=&quot;2&quot; | {{IPAchar|ɪɹ}}| colspan=&quot;2&quot; | &lt;tt&gt;Ir\&lt;/tt&gt;| s<b>yr</b>up, S<b>ir</b>ius|-align=&quot;center&quot;| {{enPRchar|ī}}| colspan=&quot;2&quot; | {{IPAchar|aɪ}}| colspan=&quot;2&quot; | &lt;tt&gt;aI&lt;/tt&gt;| m<b>y</b>, r<b>i</b>se|-align=&quot;center&quot;| {{enPRchar|&icirc;r}}| {{IPAchar|ɪə(ɹ)}}| {{IPAchar|ɪɹ}}| &lt;tt&gt;I@&lt;/tt&gt;| &lt;tt&gt;Ir\&lt;/tt&gt;| h<b>ere</b>, n<b>ear</b>, p<b>eer</b>, s<b>er</b>ious|-align=&quot;center&quot;| {{enPRchar|ŏ}}| {{IPAchar2|Open back rounded vowel.ogg|ɒ}}| {{IPAchar2|Open back unrounded vowel.ogg|ɑ}}| &lt;tt&gt;Q&lt;/tt&gt;| &lt;tt&gt;A&lt;/tt&gt;| n<b>o</b>t|-align=&quot;center&quot;| {{enPRchar|ō}}| {{IPAchar|əʊ}}| {{IPAchar|oʊ}}| &lt;tt&gt;@U&lt;/tt&gt;| &lt;tt&gt;oU&lt;/tt&gt;| g<b>o</b>, h<b>o</b>pe, kn<b>ow</b>|-align=&quot;center&quot;| {{enPRchar|ōr}}| {{IPAchar|ɔə(ɹ)}}| {{IPAchar|oɹ, ɔɹ}}| &lt;tt&gt;O@&lt;/tt&gt;| &lt;tt&gt;or\, Or\&lt;/tt&gt;| h<b>oar</b>se, gl<b>or</b>y|-align=&quot;center&quot;| {{enPRchar|&ocirc;}}| {{IPAchar|ɔː}}| {{IPAchar2|Open-mid back rounded vowel.ogg|ɔ}}| &lt;tt&gt;O:&lt;/tt&gt;| &lt;tt&gt;O&lt;/tt&gt;| l<b>aw</b>, c<b>au</b>ght, s<b>aw</b>|-align=&quot;center&quot;| {{enPRchar|&ocirc;r}}| {{IPAchar|ɔː(ɹ)}}| {{IPAchar|ɔɹ}}| &lt;tt&gt;O:&lt;/tt&gt;| &lt;tt&gt;Or\&lt;/tt&gt;| h<b>or</b>se, m<b>ore</b>, l<b>aur</b>eate|-align=&quot;center&quot;| {{enPRchar|oi}}| colspan=&quot;2&quot; | {{IPAchar|ɔɪ}}| colspan=&quot;2&quot; | &lt;tt&gt;OI&lt;/tt&gt;| b<b>oy</b>, n<b>oi</b>se|-align=&quot;center&quot;| {{enPRchar|o͝o, ŏŏ}}| colspan=&quot;2&quot; | {{IPAchar2|Near-close near-back rounded vowel.ogg|ʊ}}| colspan=&quot;2&quot; | &lt;tt&gt;U&lt;/tt&gt;| p<b>u</b>t, f<b>oo</b>t|-align=&quot;center&quot;| {{enPRchar|o͝or, ŏŏr}}| {{IPAchar|ʊə(ɹ)}}| {{IPAchar|ʊɹ}}| &lt;tt&gt;U@&lt;/tt&gt;| &lt;tt&gt;Ur\&lt;/tt&gt;| p<b>oor</b>, t<b>our</b>, t<b>our</b>ism|-align=&quot;center&quot;| {{enPRchar|o͞o, ōō}}| {{IPAchar|uː}}| {{IPAchar2|Close back rounded vowel.ogg|u}}| &lt;tt&gt;u:&lt;/tt&gt;| &lt;tt&gt;u&lt;/tt&gt;| l<b>o</b>se, s<b>oo</b>n, thr<b>ou</b>gh|-align=&quot;center&quot;| {{enPRchar|ou}}| colspan=&quot;2&quot; | {{IPAchar|aʊ}}| colspan=&quot;2&quot; | &lt;tt&gt;aU&lt;/tt&gt;| h<b>ou</b>se, n<b>ow</b>|-align=&quot;center&quot;| {{enPRchar|ŭ}}| colspan=&quot;2&quot; | {{IPAchar2|Open-mid back unrounded vowel.ogg|ʌ}}| colspan=&quot;2&quot; | &lt;tt&gt;V&lt;/tt&gt;| r<b>u</b>n, en<b>ou</b>gh, <b>u</b>p|-align=&quot;center&quot;| {{enPRchar|&ucirc;r}}| {{IPAchar|ɜː(ɹ)}}| {{IPAchar|ɝ}}| &lt;tt&gt;3:&lt;/tt&gt;| &lt;tt&gt;3`&lt;/tt&gt;| f<b>ur</b>, b<b>ir</b>d|-align=&quot;center&quot;| {{enPRchar|ə}}| colspan=&quot;2&quot; | {{IPAchar2|Schwa.ogg|ə}}| colspan=&quot;2&quot; | &lt;tt&gt;@&lt;/tt&gt;| <b>a</b>bout|-align=&quot;center&quot;| {{enPRchar|ər}}| {{IPAchar|ə(ɹ)}}| {{IPAchar|ɚ}}| &lt;tt&gt;@&lt;/tt&gt;| &lt;tt&gt;@`&lt;/tt&gt;| ent<b>er</b>|}&lt;references/&gt;
-<h3>Consonants</h3>
-{| {wikitable}! enPR&lt;br&gt;(AHD)! IPA! SAMPA! Examples|-| {{enPRchar|b}}| {{IPAchar2|Voiced bilabial plosive.ogg|b}}| &lt;tt&gt;b&lt;/tt&gt;| <b>b</b>ut, a<b>b</b>le, ca<b>b</b>, wo<b>bb</b>le, e<b>bb</b>|-| {{enPRchar|ch}}| {{IPAchar2|voiceless palato-alveolar affricate.ogg|tʃ}}&lt;ref name=tiebar&gt;May also be written with a tie bar, thus: {{IPAchar|/t͡ʃ/, /d͡ʒ/}}&lt;/ref&gt;| &lt;tt&gt;tS&lt;/tt&gt;| <b>ch</b>at, tea<b>ch</b>er, in<b>ch</b>, ca<b>tch</b>, na<b>t</b>ure|-| {{enPRchar|d}}| {{IPAchar2|Voiced alveolar plosive.ogg|d}}| &lt;tt&gt;d&lt;/tt&gt;| <b>d</b>ot, i<b>d</b>ea, no<b>d</b>, fo<b>dd</b>er, o<b>dd</b>|-| {{enPRchar|f}}| {{IPAchar2|Voiceless labiodental fricative.ogg|f}}| &lt;tt&gt;f&lt;/tt&gt;| <b>f</b>an, le<b>f</b>t, lea<b>f</b>, enou<b>gh</b>, <b>ph</b>ase, gra<b>ph</b>ic, epita<b>ph</b>|-| {{enPRchar|g}}| {{IPAchar2|Voiced velar plosive.ogg|ɡ}}| &lt;tt&gt;g&lt;/tt&gt;| <b>g</b>et, ma<b>g</b>net, ba<b>g</b>|-| {{enPRchar|h}}|{{IPAchar2|Voiceless glottal fricative.ogg|h}}| &lt;tt&gt;h&lt;/tt&gt;| <b>h</b>am|-| {{enPRchar|hw}}| {{IPAchar2|voiceless labio-velar fricative.ogg|ʍ (hw)}}&lt;ref&gt;Phonologists may deny that {{IPAchar|/ʍ/}} is a distinct phoneme, and instead use {{IPAchar|/hw/}}.&lt;/ref&gt;| &lt;tt&gt;W&lt;/tt&gt;| <b>wh</b>ich|-| {{enPRchar|j}}| {{IPAchar2|voiced palato-alveolar affricate.ogg|dʒ}}&lt;ref name=tiebar /&gt;| &lt;tt&gt;dZ&lt;/tt&gt;| <b>j</b>oy, a<b>j</b>ar, <b>g</b>in, a<b>g</b>ile, a<b>ge</b>, e<b>dge</b>|-| {{enPRchar|k}}| {{IPAchar2|Voiceless velar plosive.ogg|k}}| &lt;tt&gt;k&lt;/tt&gt;| <b>c</b>at, <b>k</b>it, <b>q</b>ueen, pi<b>que</b>, <b>ch</b>oir, a<b>ch</b>e, ta<b>ck</b>|-| {{enPRchar|ᴋʜ}}| {{IPAchar2|voiceless velar fricative.ogg|x}}| &lt;tt&gt;x&lt;/tt&gt;| (<em>Scottish</em>) lo<b>ch</b>|-| {{enPRchar|l}}| {{IPAchar2|Alveolar lateral approximant.ogg|l}}| &lt;tt&gt;l&lt;/tt&gt;| <b>l</b>eft (<em>before vowel of syllable</em>)|-| {{enPRchar|l}}| {{IPAchar|l̩ (əl)}}&lt;ref name=&quot;cons&quot;&gt;Phonologists may deny that {{IPAchar|/l̩, n̩, m̩/}} are distinct phonemes, and instead use {{IPAchar|/əl, ən, əm/}}.&lt;/ref&gt;| &lt;tt&gt;l=&lt;/tt&gt;| litt<b>le</b>|-| {{enPRchar|m}}| {{IPAchar2|Bilabial nasal.ogg|m}}| &lt;tt&gt;m&lt;/tt&gt;| <b>m</b>an, ani<b>m</b>al, hi<b>m</b>|-| {{enPRchar|m}}| {{IPAchar|m̩ (əm)}}&lt;ref name=&quot;cons&quot;/&gt;| &lt;tt&gt;m=&lt;/tt&gt;| spas<b>m</b>, pris<b>m</b>|-| {{enPRchar|n}}| {{IPAchar2|Alveolar nasal.ogg|n}}| &lt;tt&gt;n&lt;/tt&gt;| <b>n</b>ote, a<b>n</b>t, pa<b>n</b>|-| {{enPRchar|n}}| {{IPAchar|n̩ (ən)}}&lt;ref name=&quot;cons&quot;/&gt;| &lt;tt&gt;n=&lt;/tt&gt;| hidd<b>en</b>|-| {{enPRchar|ng}}| {{IPAchar2|Retroflex nasal.ogg|ŋ}}| &lt;tt&gt;N&lt;/tt&gt;| si<b>ng</b>er, ri<b>ng</b>|-| {{enPRchar|p}}| {{IPAchar2|Voiceless bilabial plosive.ogg|p}}| &lt;tt&gt;p&lt;/tt&gt;| <b>p</b>en, s<b>p</b>in, to<b>p</b>, a<b>pp</b>le|-| {{enPRchar|r}}| {{IPAchar2|Alveolar approximant.ogg|ɹ}}&lt;ref&gt;Often conventionally written {{IPAchar|/r/}}, especially in works that cover only English.&lt;/ref&gt;| &lt;tt&gt;r\&lt;/tt&gt;| <b>r</b>un, ve<b>r</b>y|-| {{enPRchar|s}}| {{IPAchar2|Voiceless_alveolar_sibilant.ogg|s}}| &lt;tt&gt;s&lt;/tt&gt;| <b>s</b>et, li<b>s</b>t, pa<b>ss</b>, <b>c</b>ity, i<b>ce</b>|-| {{enPRchar|sh}}| {{IPAchar2|Voiceless_palato-alveolar_sibilant.ogg|ʃ}}| &lt;tt&gt;S&lt;/tt&gt;| <b>sh</b>e, a<b>sh</b>, <b>s</b>ure, ra<b>t</b>ion|-| {{enPRchar|t}}| {{IPAchar2|Voiceless alveolar plosive.ogg|t}}| &lt;tt&gt;t&lt;/tt&gt;| <b>t</b>on, s<b>t</b>ab, ma<b>t</b>, a<b>tt</b>end, bu<b>tt</b>, ou<b>ght</b>|-| {{enPRchar|th}}| {{IPAchar2|Voiceless dental fricative.ogg|θ}}| &lt;tt&gt;T&lt;/tt&gt;| <b>th</b>in, no<b>th</b>ing, mo<b>th</b>|-| {{enPRchar|<em>th</em>}}| {{IPAchar2|voiced dental fricative.ogg|&eth;}}| &lt;tt&gt;D&lt;/tt&gt;| <b>th</b>is, fa<b>th</b>er, clo<b>the</b>|-| {{enPRchar|v}}| {{IPAchar2|Voiced labiodental fricative.ogg|v}}| &lt;tt&gt;v&lt;/tt&gt;| <b>v</b>oice, na<b>v</b>el, sa<b>ve</b>, o<b>f</b>|-| {{enPRchar|w}}| {{IPAchar2|Voiced labio-velar approximant.ogg|w}}| &lt;tt&gt;w&lt;/tt&gt;| <b>w</b>et|-| {{enPRchar|y}}| {{IPAchar2|Palatal approximant.ogg|j}}| &lt;tt&gt;j&lt;/tt&gt;| <b>y</b>es|-| {{enPRchar|z}}| {{IPAchar2|Voiced_alveolar_sibilant.ogg|z}}| &lt;tt&gt;z&lt;/tt&gt;| <b>z</b>oo, qui<b>z</b>, fu<b>zz</b>, ro<b>s</b>e, <b>x</b>ylem|-| {{enPRchar|zh}}| {{IPAchar2|Voiced_palato-alveolar_sibilant.ogg|ʒ}}| &lt;tt&gt;Z&lt;/tt&gt;| vi<b>s</b>ion, trea<b>s</b>ure, bei<b>ge</b>|}&lt;references/&gt;
-<h3>Other symbols</h3>
-A stress mark is placed before the syllable that is stressed in IPA and SAMPA and after it in enPR and AHD. {| {wikitable}! enPR&lt;br&gt;(AHD)! IPA! SAMPA! Indicates|-| {{enPRchar|ʹ}} (a{{enPRchar|ʹ}})| {{IPAchar|ˈ}} ({{IPAchar|ˈ}}a)| &lt;tt&gt;&quot;&lt;/tt&gt; (&lt;tt&gt;&quot;&lt;/tt&gt;a)| primary stress|-| {{enPRchar|'}} (a{{enPRchar|'}})| {{IPAchar|ˌ}} ({{IPAchar|ˌ}}a)| &lt;tt&gt;%&lt;/tt&gt; (&lt;tt&gt;%&lt;/tt&gt;a)| secondary stress, sometimes tertiary stress|-| a{{enPRchar|-}}a| a{{IPAchar|.}}a| a&lt;tt&gt;.&lt;/tt&gt;a| division between syllables|}<b>Note:</b> The EnPR and print AHD marks are formatted slightly differently. Online, AHD writes both {{enPRchar|'}}, though they do not always represent the same phoneme.
-===Entry===
-Wiktionary:Entry layout explained:
-
-<h3>Noun</h3>
-{en-noun}
-<ol><li> A piece of furniture to sleep on.</li>
-</ol>
-
-<h3>References</h3>
-  	 
-<ul><li> <em>The Oxford Paperback Dictionary</em> 	 </li>
-</ul>
-&lt;/pre&gt;
-<h3>Variations for languages other than English</h3>
-Entries for terms in other languages should follow the standard format as closely as possible regardless of the language of the word. However, a translation into English should normally be given instead of a definition, including a gloss to indicate which meaning of the English translation is intended. Also, the translations section should be omitted.Some languages do have characteristics that require variation from the standard format.  For links to these variations see Wiktionary:Language considerations.
-Wiktionary:Entry layout explained:
-
-<h3>Alternative forms</h3>
-
-<h3>Etymology</h3>
-
-<h3>Pronunciation</h3>
-<ul><li> Phonetic transcriptions</li>
-<li> Audio files in any relevant dialects</li>
-<li> Rhymes</li>
-<li> Homophones</li>
-<li> Hyphenation</li>
-</ul>
-
-<h3>Noun</h3>
-Declension
-<ol><li> Meaning 1</li>
-<ul><li> Quotations</li>
-</ul>
-<li> Meaning 2</li>
-<ul><li> Quotations</li>
-</ul>
-</ol>
-     etc.
-<h4>Usage notes</h4>
-
-<h4>Synonyms</h4>
-
-<h4>Antonyms</h4>
-
-<h4>Derived terms</h4>
-
-<h4>Related terms</h4>
-
-<h4>References</h4>
-
-<h4>External links</h4>
-
-<h3>Verb</h3>
-Conjugation
-<ol><li> Meaning 1</li>
-<ul><li> Quotations</li>
-</ul>
-</ol>
-     etc.
-<h4>Usage notes</h4>
-
-<h4>Synonyms</h4>
-
-<h4>Antonyms</h4>
-
-<h4>Derived terms</h4>
-
-<h4>Related terms</h4>
-
-<h4>Descendants</h4>
-
-<h4>References</h4>
-
-<h4>External links</h4>
-
-<h3>Anagrams</h3>
----- (Dividing line between languages)
+>>>
 ***etymology***
-etymology:
-
+HtmlEntry: etymology <<<
 <h3>Etymology</h3>
 From {{etyl|enm}} {{term|etimologie|lang=enm}}, from {{etyl|fro}} {{term|ethimologie|lang=fro}}, from {{etyl|la}} {{term|etymologia|lang=la}}, from {{etyl|grc}} {{term|ἐτυμολογία|sc=polytonic|tr=etumologia|lang=grc}}, from {{term|ἔτυμον|true sense|sc=polytonic|tr=etumon}} and {{term|-λογία|study of|sc=polytonic|tr=-logia}} (from {{term|λόγος|sc=polytonic|tr=logos}}).
 <h3>Pronunciation</h3>
@@ -2940,100 +2740,9 @@ From {{etyl|enm}} {{term|etimologie|lang=enm}}, from {{etyl|fro}} {{term|ethimol
 <li> {{R:Dictionary.com|etymology}}</li>
 <li> {{R:WordNet 2003|etymology}}</li>
 </ul>
-Category:English words suffixed with -ologyCategory:en:Linguisticsar:etymologyast:etymologyca:etymologyco:etymologycy:etymologyet:etymologyel:etymologyes:etymologyeo:etymologyfa:etymologyfr:etymologyko:etymologyio:etymologyid:etymologyit:etymologykn:etymologyli:etymologyhu:etymologymg:etymologyml:etymologymy:etymologynl:etymologyja:etymologyno:etymologyoc:etymologypl:etymologypt:etymologyscn:etymologysimple:etymologyfi:etymologysv:etymologyta:etymologyte:etymologyth:etymologytr:etymologyvi:etymologyzh:etymology
-===events===
-current events:
-
-<h3>Noun</h3>
-{{en-plural noun|head=current events|sg=current event}}
-<ol><li> current affairs; those events and issues of interest currently found in the news.</li>
-</ol>
-
-<h3>See also</h3>
-<ul><li> current affairs</li>
-</ul>
-am:current eventsang:current eventszh-min-nan:current eventset:current eventsel:current eventsfr:current eventsia:current eventskk:current eventsmg:current eventsru:current eventssd:current eventsst:current eventssu:current eventsta:current eventsth:current eventstt:current events
-===explained===
-Wiktionary:Entry layout explained:
-
-<h3>Noun</h3>
-{en-noun}
-<ol><li> A piece of furniture to sleep on.</li>
-</ol>
-
-<h3>References</h3>
-  	 
-<ul><li> <em>The Oxford Paperback Dictionary</em> 	 </li>
-</ul>
-&lt;/pre&gt;
-<h3>Variations for languages other than English</h3>
-Entries for terms in other languages should follow the standard format as closely as possible regardless of the language of the word. However, a translation into English should normally be given instead of a definition, including a gloss to indicate which meaning of the English translation is intended. Also, the translations section should be omitted.Some languages do have characteristics that require variation from the standard format.  For links to these variations see Wiktionary:Language considerations.
-Wiktionary:Entry layout explained:
-
-<h3>Alternative forms</h3>
-
-<h3>Etymology</h3>
-
-<h3>Pronunciation</h3>
-<ul><li> Phonetic transcriptions</li>
-<li> Audio files in any relevant dialects</li>
-<li> Rhymes</li>
-<li> Homophones</li>
-<li> Hyphenation</li>
-</ul>
-
-<h3>Noun</h3>
-Declension
-<ol><li> Meaning 1</li>
-<ul><li> Quotations</li>
-</ul>
-<li> Meaning 2</li>
-<ul><li> Quotations</li>
-</ul>
-</ol>
-     etc.
-<h4>Usage notes</h4>
-
-<h4>Synonyms</h4>
-
-<h4>Antonyms</h4>
-
-<h4>Derived terms</h4>
-
-<h4>Related terms</h4>
-
-<h4>References</h4>
-
-<h4>External links</h4>
-
-<h3>Verb</h3>
-Conjugation
-<ol><li> Meaning 1</li>
-<ul><li> Quotations</li>
-</ul>
-</ol>
-     etc.
-<h4>Usage notes</h4>
-
-<h4>Synonyms</h4>
-
-<h4>Antonyms</h4>
-
-<h4>Derived terms</h4>
-
-<h4>Related terms</h4>
-
-<h4>Descendants</h4>
-
-<h4>References</h4>
-
-<h4>External links</h4>
-
-<h3>Anagrams</h3>
----- (Dividing line between languages)
-===false===
-false friend:
-{{was wotd|2007|May|4}}{wikipedia}
+Category:English words suffixed with -ologyCategory:en:Linguisticsar:etymologyast:etymologyca:etymologyco:etymologycy:etymologyet:etymologyel:etymologyes:etymologyeo:etymologyfa:etymologyfr:etymologyko:etymologyio:etymologyid:etymologyit:etymologykn:etymologyli:etymologyhu:etymologymg:etymologyml:etymologymy:etymologynl:etymologyja:etymologyno:etymologyoc:etymologypl:etymologypt:etymologyscn:etymologysimple:etymologyfi:etymologysv:etymologyta:etymologyte:etymologyth:etymologytr:etymologyvi:etymologyzh:etymology>>>
+***false friend***
+HtmlEntry: false friend <<<{{was wotd|2007|May|4}}{wikipedia}
 <h3>Pronunciation</h3>
 <ul><li> {{a|RP}} {{IPA|/ˌfɒls ˈfrɛnd/|/ˌfɔːls ˈfrɛnd/}}</li>
 <li> {{a|US}} {{IPA|/ˌfɑːls ˈfrɛnd/}}</li>
@@ -3065,35 +2774,9 @@ false friend:
 <ul><li> cognate</li>
 <li> false cognate</li>
 </ul>
-fr:false friendid:false friendpl:false friendsv:false friend
-===FAQ===
-Help:FAQ:
-Q: I see a bunch of articles that have no language specified, but they are clearly written for English terms.  That makes sense.  Should I remove ==English== wherever I see it then?A: No.  It is very much a required heading.The ==English== header is not assumed.  It cannot be, since we aim to include &quot;all words.&quot;  Also, it reminds people that they can enter other languages.
-<ul><li>Some more reasons why &quot;==English==&quot; is required:</li>
-<ol><li> Introduces newcomers to wiki* syntax</li>
-<li> Indicates (by implication) to newcomers that a single entry can have more than one language</li>
-<li> Indicates <em>which</em> parts are English</li>
-<li> It reminds new contributors that they can enter words and definitions of other languages.</li>
-<li> The absence of the English heading is an indication that the person entering it is new, and the article probably needs cleanup.</li>
-</ol>
-</ul>
-<ul><ol><li> The presence of the English heading makes it readily apparent how another language definition can be added to a page.</li>
-<li> The presence of the English heading makes parsing articles by external tools easier.  (The point of Wiktionary is to provide electronic access to everyone, everywhere, provided they extend the same courtesy to their derived works.  There is nothing to say that we should arbitrarily make it more difficult for programs to interpret.)</li>
-<li>The presence of the English heading makes parsing articles by internal &quot;bots&quot; easier/possible.</li>
-</ol>
-</ul>
-
-===FDL===
-GNU FDL:
-{wikipedia}
-<h3>{initialism}</h3>
-<b>GNU FDL</b>
-<ol><li> GNU Free Documentation License</li>
-</ol>
-pl:GNU FDL
+fr:false friendid:false friendpl:false friendsv:false friend>>>
 ***February***
-February:
-
+HtmlEntry: February <<<
 <h3>Etymology</h3>
 Re-Latinized from {{etyl|enm}} {{term|feoverel|lang=enm}}, from {{etyl|fro}} {{term|feverier|lang=fro}}, from {{etyl|la}} {{term|februarius|februārius|lang=la}}, of the month of purification, from <em>februa</em>, the Roman festival of purification, plural of {{term|februum|lang=la}}; perhaps from {{etyl|la}} {{term|febris|fever|lang=la}}, from Proto-Indo-European base *<em>dhegh-</em>, to burn.
 <h3>Pronunciation</h3>
@@ -3133,10 +2816,9 @@ Re-Latinized from {{etyl|enm}} {{term|feoverel|lang=enm}}, from {{etyl|fro}} {{t
 <h4>See also</h4>
 <ul><li> {{list|en|Gregorian calendar months}}</li>
 </ul>
-ast:Februaryaz:Februaryzh-min-nan:Februarybe:Februarycs:Februaryco:Februarycy:Februaryda:Februaryde:Februaryet:Februaryel:Februaryes:Februaryeo:Februaryeu:Februaryfr:Februaryfy:Februaryga:Februarygl:Februaryko:Februaryhy:Februaryhr:Februaryio:Februaryid:Februaryis:Februaryit:Februarykl:Februaryka:Februarycsb:Februarykk:Februaryku:Februarylo:Februaryla:Februarylv:Februarylb:Februarylt:Februaryln:Februaryhu:Februarymk:Februaryml:Februarymy:Februarynl:Februaryja:Februaryno:Februaryoc:Februaryom:Februaryuz:Februarykm:Februarypl:Februarypt:Februaryro:Februaryru:Februaryscn:Februarysimple:Februaryso:Februarysr:Februaryfi:Februarysv:Februaryta:Februaryth:Februaryti:Februarytg:Februarychr:Februarytr:Februarytk:Februaryuk:Februaryvi:Februaryvo:Februaryzh:February
+ast:Februaryaz:Februaryzh-min-nan:Februarybe:Februarycs:Februaryco:Februarycy:Februaryda:Februaryde:Februaryet:Februaryel:Februaryes:Februaryeo:Februaryeu:Februaryfr:Februaryfy:Februaryga:Februarygl:Februaryko:Februaryhy:Februaryhr:Februaryio:Februaryid:Februaryis:Februaryit:Februarykl:Februaryka:Februarycsb:Februarykk:Februaryku:Februarylo:Februaryla:Februarylv:Februarylb:Februarylt:Februaryln:Februaryhu:Februarymk:Februaryml:Februarymy:Februarynl:Februaryja:Februaryno:Februaryoc:Februaryom:Februaryuz:Februarykm:Februarypl:Februarypt:Februaryro:Februaryru:Februaryscn:Februarysimple:Februaryso:Februarysr:Februaryfi:Februarysv:Februaryta:Februaryth:Februaryti:Februarytg:Februarychr:Februarytr:Februarytk:Februaryuk:Februaryvi:Februaryvo:Februaryzh:February>>>
 ***floccinaucinihilipilification***
-floccinaucinihilipilification:
-{wikiquote}
+HtmlEntry: floccinaucinihilipilification <<<{wikiquote}
 <h3>Etymology</h3>
 A jocular coinage, apparently by pupils at Eton, combining a number of roughly synonymous Latin stems.  {{etyl|la}} <em>flocci</em>, from <em>floccus</em>, a wisp or piece of wool + <em>nauci</em>, from <em>naucum</em>, a trifle + <em>nihili</em>, from the {{etyl|la}} pronoun, {{term|nihil|nothing|lang=la}} + <em>pili</em>, from <em>pilus</em>, a hair, something insignificant (all therefore having the sense of &quot;pettiness&quot; or &quot;nothing&quot;) + -fication.  &quot;Flocci non facio&quot; was a Latin expression of indifference, literally &quot;I do not make a straw of...&quot;.
 <h3>Pronunciation</h3>
@@ -3162,10 +2844,9 @@ Often cited as the longest non-technical word in the English language, being one
 <h4>Related terms</h4>
 <ul><li> floccinaucinihilipilificate</li>
 </ul>
-
+>>>
 ***free***
-free:
-{{wikipedia|dab=free}}
+HtmlEntry: free <<<{{wikipedia|dab=free}}
 <h3>Etymology</h3>
 {{etyl|enm}} {{term|fre|lang=enm}}, from {{etyl|ang}} {{term|freo|frēo|lang=ang}}.
 <h3>Pronunciation</h3>
@@ -3330,10 +3011,9 @@ A sign advertising <b>free</b> beer (obtainable without payment).A &quot;buy one
 <ul><li> {{l|en|fere}}</li>
 <li> {{l|en|reef}}</li>
 </ul>
-Category:1000 English basic wordsCategory:Entries which need Hebrew vowelsCategory:en:Moneyaf:freear:freecs:freecy:freeda:freede:freeet:freeel:freees:freeeo:freefa:freefr:freefy:freeko:freehy:freehi:freeio:freeid:freeit:freekn:freeka:freekk:freesw:freeku:freelo:freela:freelt:freeli:freehu:freemg:freeml:freemy:freenl:freeja:freeno:freepl:freept:freeru:freesimple:freesd:freesk:freefi:freesv:freetl:freeta:freete:freeth:freetr:freeuk:freevi:freewa:freezh:free
-===freedom===
-freedom of speech:
-{{wikipedia|Freedom of speech}}{{wikinews|Category:Free speech}}{{commons|Category:Freedom of speech}}{{wikiquote|Freedom of speech}}
+Category:1000 English basic wordsCategory:Entries which need Hebrew vowelsCategory:en:Moneyaf:freear:freecs:freecy:freeda:freede:freeet:freeel:freees:freeeo:freefa:freefr:freefy:freeko:freehy:freehi:freeio:freeid:freeit:freekn:freeka:freekk:freesw:freeku:freelo:freela:freelt:freeli:freehu:freemg:freeml:freemy:freenl:freeja:freeno:freepl:freept:freeru:freesimple:freesd:freesk:freefi:freesv:freetl:freeta:freete:freeth:freetr:freeuk:freevi:freewa:freezh:free>>>
+***freedom of speech***
+HtmlEntry: freedom of speech <<<{{wikipedia|Freedom of speech}}{{wikinews|Category:Free speech}}{{commons|Category:Freedom of speech}}{{wikiquote|Freedom of speech}}
 <h3>Etymology</h3>
 {rfe}
 <h3>Pronunciation</h3>
@@ -3369,10 +3049,9 @@ freedom of speech:
 <h3>See also</h3>
 <ul><li> {pedia}</li>
 </ul>
-Category:en:Freedom of speechde:freedom of speechet:freedom of speechfr:freedom of speechpl:freedom of speechfi:freedom of speechta:freedom of speech
+Category:en:Freedom of speechde:freedom of speechet:freedom of speechfr:freedom of speechpl:freedom of speechfi:freedom of speechta:freedom of speech>>>
 ***Friday***
-Friday:
-
+HtmlEntry: Friday <<<
 <h3>Etymology</h3>
 {{etyl|ang}} {{term|friged&aelig;g|frīġed&aelig;ġ|lang=ang}}. Compound of frīġe and d&aelig;ġ &quot;day&quot;.Old Norse Frigg (genitive Friggjar), Old Saxon Fri, and Old English Frig are derived from Common Germanic Frijjō.[5] Frigg is cognate with Sanskrit prīyā́ which means &quot;wife.&quot;[5] The root also appears in Old Saxon fri which means &quot;beloved lady&quot;, in Swedish as fria (&quot;to propose for marriage&quot;) and in Icelandic as frj&aacute; which means &quot;to love.&quot;A calque of Latin <em>dies Veneris</em>, via an association of the goddess Frigg with the Roman goddess of love Venus.
 <h3>Pronunciation</h3>
@@ -3451,45 +3130,9 @@ Friday:
 <h3>Anagrams</h3>
 <ul><li> fraidy</li>
 </ul>
-af:Fridayast:Fridayaz:Fridaybs:Fridaycs:Fridaycy:Fridayda:Fridayde:Fridayet:Fridayel:Fridayes:Fridayeo:Fridayeu:Fridayfa:Fridayfr:Fridayga:Fridaygl:Fridayko:Fridayhy:Fridayhr:Fridayio:Fridayid:Fridayit:Fridaykl:Fridaykn:Fridayka:Fridaykk:Fridaysw:Fridayku:Fridaylo:Fridayla:Fridaylv:Fridaylb:Fridaylt:Fridayhu:Fridaymk:Fridaymg:Fridayml:Fridaymn:Fridaymy:Fridaynl:Fridayja:Fridayno:Fridaynn:Fridayoc:Fridaykm:Fridaypl:Fridaypt:Fridayro:Fridayru:Fridaysimple:Fridaysd:Fridayfi:Fridaysv:Fridaytl:Fridayta:Fridayte:Fridaytg:Fridaytr:Fridayuk:Fridayvi:Fridayvo:Fridayzh:Friday
-===friend===
-false friend:
-{{was wotd|2007|May|4}}{wikipedia}
-<h3>Pronunciation</h3>
-<ul><li> {{a|RP}} {{IPA|/ˌfɒls ˈfrɛnd/|/ˌfɔːls ˈfrɛnd/}}</li>
-<li> {{a|US}} {{IPA|/ˌfɑːls ˈfrɛnd/}}</li>
-<li> {{audio|en-us-false friend.ogg|Audio (US)}}</li>
-</ul>
-
-<h3>Noun</h3>
-{{en-noun|sg=false friend}}
-<ol><li> {{linguistics|idiomatic}} A word in a foreign language bearing a deceptive resemblance to a word in one's own language.</li>
-</ol>
-
-<h4>Usage notes</h4>
-<ul><li> Examples:</li>
-<ul><li> The French <em>nous demandons</em> means &quot;<em>we ask</em>&quot;, but sounds like &quot;<em>we demand</em>&quot;, which can turn negotiation into confrontation.</li>
-<li> The Spanish word <em>embarazada</em> means &quot;<em>pregnant</em>&quot;, not &quot;<em>embarrassed</em>&quot; &amp;mdash; &quot;<em>Estoy embarazada</em>&quot; means &quot;<em>I am pregnant</em>&quot;, not &quot;<em>I am embarrassed</em>&quot;.</li>
-<li> The German word <em>will</em> (want) is not a future tense marker &amp;mdash; &quot;<em>Ich will gehen</em>&quot; means &quot;<em>I want to go</em>&quot;, not &quot;<em>I will go</em>&quot;.</li>
-<ul><li> Same for Dutch and Afrikaans, &quot;<em>Ik wil gaan</em>&quot; and &quot;<em>Ek wil gaan</em>&quot; mean &quot;<em>I want to go</em>&quot;.</li>
-</ul>
-<li> The Italian word <em>triviale</em> (vulgar) is written almost like <em>trivial</em>, but the two words share only a common Latin root (<em>trivium</em> in Latin means crossroad) and no longer any meaning; &quot;<em>Questo &egrave; triviale</em>&quot; means &quot;<em>This is in bad taste</em>&quot;, not &quot;<em>This is obvious</em>&quot;.</li>
-<li> The Danish word <em>gift</em> does not mean gift as in present, but can mean a verb form of to marry; <em>Han er gift</em> means <em>He is married</em>. The word for gift is gave, which is close to the past tense of the verb giver. If <em>du gav en gave</em>, you gave a gift. Likewise, if <em>du gav en gift</em>, you actually gave poison.</li>
-</ul>
-</ul>
-
-<h4>Hyponyms</h4>
-<ul><li> partial false friend</li>
-</ul>
-
-<h3>See also</h3>
-<ul><li> cognate</li>
-<li> false cognate</li>
-</ul>
-fr:false friendid:false friendpl:false friendsv:false friend
+af:Fridayast:Fridayaz:Fridaybs:Fridaycs:Fridaycy:Fridayda:Fridayde:Fridayet:Fridayel:Fridayes:Fridayeo:Fridayeu:Fridayfa:Fridayfr:Fridayga:Fridaygl:Fridayko:Fridayhy:Fridayhr:Fridayio:Fridayid:Fridayit:Fridaykl:Fridaykn:Fridayka:Fridaykk:Fridaysw:Fridayku:Fridaylo:Fridayla:Fridaylv:Fridaylb:Fridaylt:Fridayhu:Fridaymk:Fridaymg:Fridayml:Fridaymn:Fridaymy:Fridaynl:Fridayja:Fridayno:Fridaynn:Fridayoc:Fridaykm:Fridaypl:Fridaypt:Fridayro:Fridayru:Fridaysimple:Fridaysd:Fridayfi:Fridaysv:Fridaytl:Fridayta:Fridayte:Fridaytg:Fridaytr:Fridayuk:Fridayvi:Fridayvo:Fridayzh:Friday>>>
 ***GDP***
-GDP:
-{{wikipedia|GDP (disambiguation)}}
+HtmlEntry: GDP <<<{{wikipedia|GDP (disambiguation)}}
 <h3>{initialism}</h3>
 <b>GDP</b>
 <ol><li> {economics} gross domestic product</li>
@@ -3504,18 +3147,16 @@ GDP:
 <ul><li> GNP</li>
 <li> GTP</li>
 </ul>
-cs:GDPcy:GDPde:GDPet:GDPel:GDPko:GDPid:GDPhe:GDPkk:GDPlo:GDPhu:GDPmy:GDPja:GDPpl:GDPru:GDPsk:GDPfi:GDPta:GDPtr:GDPvi:GDP
-===GNU===
-GNU FDL:
-{wikipedia}
+cs:GDPcy:GDPde:GDPet:GDPel:GDPko:GDPid:GDPhe:GDPkk:GDPlo:GDPhu:GDPmy:GDPja:GDPpl:GDPru:GDPsk:GDPfi:GDPta:GDPtr:GDPvi:GDP>>>
+***GNU FDL***
+HtmlEntry: GNU FDL <<<{wikipedia}
 <h3>{initialism}</h3>
 <b>GNU FDL</b>
 <ol><li> GNU Free Documentation License</li>
 </ol>
-pl:GNU FDL
-===grain===
-grain of salt:
-{wikipedia}
+pl:GNU FDL>>>
+***grain of salt***
+HtmlEntry: grain of salt <<<{wikipedia}
 <h3>Etymology</h3>
 From Latin {{term|cum grano salis}}, literally <em>with a grain of salt</em>, figuratively <em>with a bit of common sense</em>.
 <h3>Noun</h3>
@@ -3532,10 +3173,9 @@ From Latin {{term|cum grano salis}}, literally <em>with a grain of salt</em>, fi
 <h4>See also</h4>
 <ul><li> face value</li>
 </ul>
-et:grain of saltid:grain of salt
+et:grain of saltid:grain of salt>>>
 ***gratis***
-gratis:
-
+HtmlEntry: gratis <<<
 <h3>Etymology</h3>
 From {{etyl|la}} <em>gratis</em>.
 <h3>Pronunciation</h3>
@@ -3564,18 +3204,9 @@ From {{etyl|la}} <em>gratis</em>.
 <h4>See also</h4>
 <ul><li> libre</li>
 </ul>
-Category:English terms derived from LatinCategory:en:Economics----
-===guide===
-pronunciation guide:
-
-<h3>Noun</h3>
-{{en-noun|sg=pronunciation guide}}
-<ol><li>{countable} A table in a reference work explaining the symbols that it uses to represent the pronunciation of its entries.</li>
-</ol>
-pt:pronunciation guideru:pronunciation guide
+Category:English terms derived from LatinCategory:en:Economics---->>>
 ***head***
-head:
-{{wikipedia|Head|dab=Head (disambiguation)}}{{rfc|still missing some basic dictionary definitions: see talk page}}
+HtmlEntry: head <<<{{wikipedia|Head|dab=Head (disambiguation)}}{{rfc|still missing some basic dictionary definitions: see talk page}}
 <h3>Alternative forms</h3>
 <ul><li> {{l|en|heed}} {{qualifier|obsolete}}, {{l|en|hed}} {{qualifier|obsolete}}</li>
 </ul>
@@ -3883,10 +3514,9 @@ From {{etyl|enm}} {{term|hed|lang=enm}}, {{term|heed|lang=enm}}, {{term|heved|la
 <h3>Anagrams</h3>
 <ul><li> DHEA, hade</li>
 </ul>
-Category:1000 English basic wordsCategory:en:Anatomy----
-===Help===
-Help:FAQ:
-Q: I see a bunch of articles that have no language specified, but they are clearly written for English terms.  That makes sense.  Should I remove ==English== wherever I see it then?A: No.  It is very much a required heading.The ==English== header is not assumed.  It cannot be, since we aim to include &quot;all words.&quot;  Also, it reminds people that they can enter other languages.
+Category:1000 English basic wordsCategory:en:Anatomy---->>>
+***Help:FAQ***
+HtmlEntry: Help:FAQ <<<Q: I see a bunch of articles that have no language specified, but they are clearly written for English terms.  That makes sense.  Should I remove ==English== wherever I see it then?A: No.  It is very much a required heading.The ==English== header is not assumed.  It cannot be, since we aim to include &quot;all words.&quot;  Also, it reminds people that they can enter other languages.
 <ul><li>Some more reasons why &quot;==English==&quot; is required:</li>
 <ol><li> Introduces newcomers to wiki* syntax</li>
 <li> Indicates (by implication) to newcomers that a single entry can have more than one language</li>
@@ -3900,10 +3530,9 @@ Q: I see a bunch of articles that have no language specified, but they are clear
 <li>The presence of the English heading makes parsing articles by internal &quot;bots&quot; easier/possible.</li>
 </ol>
 </ul>
-
+>>>
 ***hour***
-hour:
-
+HtmlEntry: hour <<<
 <h3>Alternative forms</h3>
 <ul><li> hower {{qualifier|archaic}}</li>
 </ul>
@@ -3984,10 +3613,9 @@ hour:
 <h3>Statistics</h3>
 <ul><li> {{rank|thousand|looking|John|366|hour|air|reason|feel}}</li>
 </ul>
-Category:1000 English basic wordsCategory:en:Timeang:hourar:hourzh-min-nan:hourbs:hourca:hourcs:hourcy:hourda:hourde:houret:hourel:houres:houreo:houreu:hourfa:hourfr:hourko:hourhy:hourhr:hourio:hourid:hourit:hourkn:hourkk:hoursw:hourku:hourky:hourlo:hourlt:hourli:hourhu:hourmg:hourml:hourmy:hourfj:hournl:hourja:hourno:houroc:hourpl:hourpt:hourro:hourru:hoursq:hoursimple:hourfi:hoursv:hourta:hourte:hourth:hourtg:hourtr:houruk:hourug:hourvi:hourzh:hour
+Category:1000 English basic wordsCategory:en:Timeang:hourar:hourzh-min-nan:hourbs:hourca:hourcs:hourcy:hourda:hourde:houret:hourel:houres:houreo:houreu:hourfa:hourfr:hourko:hourhy:hourhr:hourio:hourid:hourit:hourkn:hourkk:hoursw:hourku:hourky:hourlo:hourlt:hourli:hourhu:hourmg:hourml:hourmy:hourfj:hournl:hourja:hourno:houroc:hourpl:hourpt:hourro:hourru:hoursq:hoursimple:hourfi:hoursv:hourta:hourte:hourth:hourtg:hourtr:houruk:hourug:hourvi:hourzh:hour>>>
 ***hyponym***
-hyponym:
-
+HtmlEntry: hyponym <<<
 <h3>Etymology</h3>
 {{confix|hypo|onym}}
 <h3>Pronunciation</h3>
@@ -4020,10 +3648,9 @@ hyponym:
 <ul><li> {pedia}</li>
 <li> troponym, the corresponding idea, as applied to verbs.</li>
 </ul>
-----
+---->>>
 ***January***
-January:
-
+HtmlEntry: January <<<
 <h3>Etymology</h3>
 Re-Latinized from {{etyl|enm}} {{term|Ieneuer|lang=enm}}, from {{etyl|xno}} {{term|genever|lang=xno}}, from {{etyl|la}} {{term|ianuarius|iānuārius|(month) of Janus|lang=la}}, perhaps from Proto-Indo-European base *<em>ei-</em>, &quot;to go&quot;.
 <h3>Pronunciation</h3>
@@ -4064,29 +3691,9 @@ Re-Latinized from {{etyl|enm}} {{term|Ieneuer|lang=enm}}, from {{etyl|xno}} {{te
 <h4>See also</h4>
 <ul><li> {{list|en|Gregorian calendar months}}</li>
 </ul>
-Category:English eponymsar:Januaryast:Januaryaz:Januaryzh-min-nan:Januarybe:Januarybr:Januarycs:Januarycy:Januaryda:Januaryde:Januaryet:Januaryel:Januaryes:Januaryeo:Januaryeu:Januaryfa:Januaryfr:Januaryfy:Januaryga:Januarygl:Januaryko:Januaryhy:Januaryhr:Januaryio:Januaryid:Januaryiu:Januaryis:Januaryit:Januarykl:Januaryka:Januarycsb:Januarykk:Januarysw:Januaryku:Januarylo:Januarylv:Januarylb:Januarylt:Januaryln:Januaryhu:Januarymg:Januaryml:Januarymy:Januarynl:Januaryja:Januaryno:Januaryoc:Januaryom:Januaryuz:Januarykm:Januarypl:Januarypt:Januaryro:Januaryru:Januarysimple:Januaryso:Januarysr:Januaryfi:Januarysv:Januaryta:Januaryte:Januarytg:Januarytr:Januaryuk:Januaryvi:Januaryvo:Januaryzh:January
-===Julius===
-Pope Julius:
-
-<h3>Alternative forms</h3>
-<ul><li> Pope July</li>
-<li> Pope Julio</li>
-</ul>
-
-<h3>Etymology</h3>
-Unknown.  Presumably named after Pope Julius II, the Warrior Pope.
-<h3>Proper noun</h3>
-{en-proper noun}
-<ol><li> {obsolete} A sixteenth-century gambling card game about which little is known.</li>
-<ul><li> {{quote-book|year=1525|author=John Skelton|url=http://books.google.com/books?id=H1g1AAAAMAAJ|title=Speke, parrot|passage=Of <b>Pope Julius</b> cardys he ys chefe cardynall.}}</li>
-<li> {{quote-book|year=1532|date=November 30|title=Privy Purse Expences of King Henry VIII<em>, 30 Novembre 1532|passage=Item the laste day delived unto the kings grace whiche his grace lost at <b>pope July</b> game wt my lady marquess and m Weston xvj cor}}</li>
-<li> {{quote-book|year={{circa2|1596}}|author=Sir John Harington|title=A Treatise on Playe|quoted_in=Nugae antiquae|year_published=1804|passage=<b>Pope Julio</b> (if I fail not in the name, and sure I am that there is a game of the cards after his name) was a great and wary player, a great vertue in a man of his profession}}</li>
-</ul>
-</ol>
-Category:en:Card games
+Category:English eponymsar:Januaryast:Januaryaz:Januaryzh-min-nan:Januarybe:Januarybr:Januarycs:Januarycy:Januaryda:Januaryde:Januaryet:Januaryel:Januaryes:Januaryeo:Januaryeu:Januaryfa:Januaryfr:Januaryfy:Januaryga:Januarygl:Januaryko:Januaryhy:Januaryhr:Januaryio:Januaryid:Januaryiu:Januaryis:Januaryit:Januarykl:Januaryka:Januarycsb:Januarykk:Januarysw:Januaryku:Januarylo:Januarylv:Januarylb:Januarylt:Januaryln:Januaryhu:Januarymg:Januaryml:Januarymy:Januarynl:Januaryja:Januaryno:Januaryoc:Januaryom:Januaryuz:Januarykm:Januarypl:Januarypt:Januaryro:Januaryru:Januarysimple:Januaryso:Januarysr:Januaryfi:Januarysv:Januaryta:Januaryte:Januarytg:Januarytr:Januaryuk:Januaryvi:Januaryvo:Januaryzh:January>>>
 ***July***
-July:
-
+HtmlEntry: July <<<
 <h3>Etymology</h3>
 {{etyl|enm}} {{term|iulius|lang=enm}}, from {{etyl|xno}} {{term|julie|lang=xno}}, from {{etyl|fro}} {{term|jule|lang=fro}}, from {{etyl|la}} {{term|iulius|iūlius|lang=la}} (Gaius Julius Caesar's month), perhaps a contraction of *<em>Iovilios</em>, &quot;descended from Jove&quot;, from {{etyl|la}} {{term|Iuppiter|lang=la}}, from Proto-Indo-European *<em>dyeu-pəter-</em>, vocative case of <b>godfather</b>, from Proto-Indo-European *<em>deiw-os</em>, god, + *<em>pəter</em>, father
 <h3>Pronunciation</h3>
@@ -4132,10 +3739,9 @@ July:
 <li> July-flower</li>
 <li> {{list|en|Gregorian calendar months}}</li>
 </ul>
-Category:English eponymsast:Julyaz:Julyzh-min-nan:Julycs:Julycy:Julyda:Julyde:Julyet:Julyel:Julyes:Julyeo:Julyeu:Julyfa:Julyfr:Julyga:Julygl:Julyko:Julyhy:Julyhr:Julyio:Julyid:Julyiu:Julyis:Julyit:Julykl:Julyka:Julycsb:Julykk:Julysw:Julyku:Julylo:Julylv:Julylb:Julylt:Julyhu:Julymg:Julyml:Julymy:Julynl:Julyja:Julyno:Julyoc:Julyom:Julyuz:Julykm:Julypl:Julypt:Julyro:Julyru:Julytn:Julysimple:Julyso:Julysr:Julyfi:Julysv:Julyth:Julytg:Julyuk:Julyvo:Julyzh:July
+Category:English eponymsast:Julyaz:Julyzh-min-nan:Julycs:Julycy:Julyda:Julyde:Julyet:Julyel:Julyes:Julyeo:Julyeu:Julyfa:Julyfr:Julyga:Julygl:Julyko:Julyhy:Julyhr:Julyio:Julyid:Julyiu:Julyis:Julyit:Julykl:Julyka:Julycsb:Julykk:Julysw:Julyku:Julylo:Julylv:Julylb:Julylt:Julyhu:Julymg:Julyml:Julymy:Julynl:Julyja:Julyno:Julyoc:Julyom:Julyuz:Julykm:Julypl:Julypt:Julyro:Julyru:Julytn:Julysimple:Julyso:Julysr:Julyfi:Julysv:Julyth:Julytg:Julyuk:Julyvo:Julyzh:July>>>
 ***June***
-June:
-
+HtmlEntry: June <<<
 <h3>Etymology</h3>
 From {{etyl|enm|en}} {{term|jun|lang=enm}}, {{term|june|lang=enm}}, re-Latinized from {{etyl|enm|en}} {{term|juyng|lang=enm}}, from {{etyl|fro|en}} {{term|juing|lang=fro}}, from {{etyl|la|en}} {{term|iunius|iūnius|lang=la}}, the month of the goddess {{term|Iuno|Juno|lang=la}}, perhaps from {{proto|Indo-European|yuwn̥k&oacute;s|lang=en}}, from {{proto|Indo-European|yew-|vital force, youthful vigor|lang=en|title=}}.
 <h3>Pronunciation</h3>
@@ -4184,88 +3790,9 @@ From {{etyl|enm|en}} {{term|jun|lang=enm}}, {{term|june|lang=enm}}, re-Latinized
 <h4>See also</h4>
 <ul><li> {{list|en|Gregorian calendar months}}</li>
 </ul>
-----
-===layout===
-Wiktionary:Entry layout explained:
-
-<h3>Noun</h3>
-{en-noun}
-<ol><li> A piece of furniture to sleep on.</li>
-</ol>
-
-<h3>References</h3>
-  	 
-<ul><li> <em>The Oxford Paperback Dictionary</em> 	 </li>
-</ul>
-&lt;/pre&gt;
-<h3>Variations for languages other than English</h3>
-Entries for terms in other languages should follow the standard format as closely as possible regardless of the language of the word. However, a translation into English should normally be given instead of a definition, including a gloss to indicate which meaning of the English translation is intended. Also, the translations section should be omitted.Some languages do have characteristics that require variation from the standard format.  For links to these variations see Wiktionary:Language considerations.
-Wiktionary:Entry layout explained:
-
-<h3>Alternative forms</h3>
-
-<h3>Etymology</h3>
-
-<h3>Pronunciation</h3>
-<ul><li> Phonetic transcriptions</li>
-<li> Audio files in any relevant dialects</li>
-<li> Rhymes</li>
-<li> Homophones</li>
-<li> Hyphenation</li>
-</ul>
-
-<h3>Noun</h3>
-Declension
-<ol><li> Meaning 1</li>
-<ul><li> Quotations</li>
-</ul>
-<li> Meaning 2</li>
-<ul><li> Quotations</li>
-</ul>
-</ol>
-     etc.
-<h4>Usage notes</h4>
-
-<h4>Synonyms</h4>
-
-<h4>Antonyms</h4>
-
-<h4>Derived terms</h4>
-
-<h4>Related terms</h4>
-
-<h4>References</h4>
-
-<h4>External links</h4>
-
-<h3>Verb</h3>
-Conjugation
-<ol><li> Meaning 1</li>
-<ul><li> Quotations</li>
-</ul>
-</ol>
-     etc.
-<h4>Usage notes</h4>
-
-<h4>Synonyms</h4>
-
-<h4>Antonyms</h4>
-
-<h4>Derived terms</h4>
-
-<h4>Related terms</h4>
-
-<h4>Descendants</h4>
-
-<h4>References</h4>
-
-<h4>External links</h4>
-
-<h3>Anagrams</h3>
----- (Dividing line between languages)
+---->>>
 ***lexicography***
-lexicography:
-{wikipedia}
+HtmlEntry: lexicography <<<{wikipedia}
 <h3>Etymology</h3>
 {{confix|lexico|graphy}}
 <h3>Noun</h3>
@@ -4279,10 +3806,9 @@ lexicography:
 <li> lexicon</li>
 <li> lexicology</li>
 </ul>
-
+>>>
 ***livre***
-livre:
-{{wikipedia|dab=livre}}
+HtmlEntry: livre <<<{{wikipedia|dab=livre}}
 <h3>Etymology</h3>
 From {{etyl|fr}} {{term|livre|lang=fr}}.
 <h3>Noun</h3>
@@ -4300,10 +3826,9 @@ From {{etyl|fr}} {{term|livre|lang=fr}}.
 <h3>Anagrams</h3>
 <ul><li> liver, rivel, viler</li>
 </ul>
-----
+---->>>
 ***march***
-march:
-
+HtmlEntry: march <<<
 <h3>Pronunciation</h3>
 <ul><li> {{a|UK}} {{IPA|/mɑːtʃ/}}, {{X-SAMPA|/mA:tS/}}</li>
 <li> {{a|US}} {{enPR|m&auml;rch}}, {{IPA|/mɑrtʃ/}}, {{X-SAMPA|/mArtS/}}</li>
@@ -4525,10 +4050,9 @@ From {{etyl|enm}} {{term|marche|tract of land along a country's border|lang=enm}
 <h3>Anagrams</h3>
 <ul><li> charm</li>
 </ul>
-Category:English ergative verbsCategory:English terms with multiple etymologiesCategory:en:Gaits----
+Category:English ergative verbsCategory:English terms with multiple etymologiesCategory:en:Gaits---->>>
 ***may***
-may:
-{{slim-wikipedia|May (disambiguation)}}
+HtmlEntry: may <<<{{slim-wikipedia|May (disambiguation)}}
 <h3>Pronunciation</h3>
 <ul><li> {{enPR|mā}}, {{IPA|/meɪ/}}, {{X-SAMPA|/meI/}}</li>
 <li> {{audio|en-us-May.ogg|Audio (US)}}</li>
@@ -4650,10 +4174,9 @@ may:
 <h3>Anagrams</h3>
 <ul><li> Amy, MYA, Mya, mya, yam</li>
 </ul>
-Category:100 English basic wordsCategory:English auxiliary verbsCategory:English defective verbsCategory:English irregular verbsCategory:English terms with multiple etymologiesCategory:en:Trees----
+Category:100 English basic wordsCategory:English auxiliary verbsCategory:English defective verbsCategory:English irregular verbsCategory:English terms with multiple etymologiesCategory:en:Trees---->>>
 ***merchandise***
-merchandise:
-
+HtmlEntry: merchandise <<<
 <h3>Alternative forms</h3>
 <ul><li> merchandize {{qualifier|non‐standard}}</li>
 <li> merchaundise {{qualifier|obsolete}}</li>
@@ -4703,10 +4226,9 @@ From Anglo‐French <em>marchaundise</em>, from {{term|marchaunt|{{l|en|merchant
 <li> merchant</li>
 <li> merchantable</li>
 </ul>
-----
+---->>>
 ***minute***
-minute:
-{wikipedia}
+HtmlEntry: minute <<<{wikipedia}
 <h3>Etymology 1</h3>
 From {{etyl|fro}} {{term|minute|lang=fro}}, from {{etyl|ML.}} {{term|minuta|minūta|60th of an hour&quot;, &quot;note|lang=la}}
 <h4>Pronunciation</h4>
@@ -4794,10 +4316,9 @@ From {{etyl|la}} {{term|minutus|minūtus|small&quot;, &quot;petty|lang=la}}, per
 <ul><li> minuet</li>
 <li> untime</li>
 </ul>
-Category:1000 English basic wordsCategory:English heteronymsCategory:en:TimeCategory:en:Units of measure----
+Category:1000 English basic wordsCategory:English heteronymsCategory:en:TimeCategory:en:Units of measure---->>>
 ***Monday***
-Monday:
-
+HtmlEntry: Monday <<<
 <h3>Etymology</h3>
 <ul><li> {{etyl|ang}} {{term|monand&aelig;g|mōnand&aelig;ġ|day of the moon|lang=ang}}, from {{term|mona|mōna|moon|lang=ang}} + {{term|d&aelig;g|day|lang=ang}}, a translation of {{etyl|la}} {{term|dies lunae|lang=la}}</li>
 </ul>
@@ -4880,10 +4401,9 @@ Monday:
 <h3>Anagrams</h3>
 <ul><li> dynamo</li>
 </ul>
-af:Mondayast:Mondayaz:Mondayzh-min-nan:Mondaybe:Mondaybs:Mondayca:Mondaycs:Mondaycy:Mondayda:Mondayde:Mondayet:Mondayel:Mondayes:Mondayeo:Mondayeu:Mondayfr:Mondayfy:Mondayga:Mondaygl:Mondayko:Mondayhy:Mondayhr:Mondayio:Mondayid:Mondayit:Mondaykl:Mondaykn:Mondayka:Mondaykk:Mondaysw:Mondayku:Mondaylo:Mondayla:Mondaylv:Mondaylb:Mondaylt:Mondayln:Mondayhu:Mondaymk:Mondaymg:Mondayml:Mondaymn:Mondaymy:Mondaynl:Mondayja:Mondayno:Mondaynn:Mondayoc:Mondaykm:Mondaypl:Mondaypt:Mondayro:Mondayru:Mondaysimple:Mondayfi:Mondaysv:Mondayta:Mondaytg:Mondaytr:Mondayuk:Mondayvi:Mondayvo:Mondayzh:Monday
+af:Mondayast:Mondayaz:Mondayzh-min-nan:Mondaybe:Mondaybs:Mondayca:Mondaycs:Mondaycy:Mondayda:Mondayde:Mondayet:Mondayel:Mondayes:Mondayeo:Mondayeu:Mondayfr:Mondayfy:Mondayga:Mondaygl:Mondayko:Mondayhy:Mondayhr:Mondayio:Mondayid:Mondayit:Mondaykl:Mondaykn:Mondayka:Mondaykk:Mondaysw:Mondayku:Mondaylo:Mondayla:Mondaylv:Mondaylb:Mondaylt:Mondayln:Mondayhu:Mondaymk:Mondaymg:Mondayml:Mondaymn:Mondaymy:Mondaynl:Mondayja:Mondayno:Mondaynn:Mondayoc:Mondaykm:Mondaypl:Mondaypt:Mondayro:Mondayru:Mondaysimple:Mondayfi:Mondaysv:Mondayta:Mondaytg:Mondaytr:Mondayuk:Mondayvi:Mondayvo:Mondayzh:Monday>>>
 ***month***
-month:
-{wikipedia}
+HtmlEntry: month <<<{wikipedia}
 <h3>Alternative forms</h3>
 <ul><li> {{l|en|moneth}} {{qualifier|dialectal}}</li>
 </ul>
@@ -4929,10 +4449,9 @@ From {{etyl|enm}} {{term|month|lang=enm}}, {{term|moneth|lang=enm}}, from {{etyl
 <h3>Statistics</h3>
 <ul><li> {{rank|original|provide|determined|819|month|news|prepared|support}}</li>
 </ul>
-Category:1000 English basic wordsCategory:en:Timeaf:monthar:monthast:monthzh-min-nan:monthca:monthcs:monthco:monthcy:monthda:monthde:monthet:monthel:monthes:montheo:montheu:monthfa:monthfr:monthfy:monthko:monthhy:monthio:monthid:monthik:monthzu:monthit:monthkn:monthkk:monthsw:monthku:monthlo:monthlt:monthli:monthhu:monthmg:monthml:monthmy:monthnah:monthfj:monthnl:monthja:monthno:monthoc:monthpl:monthpt:monthru:monthsq:monthscn:monthsimple:monthfi:monthsv:monthta:monthte:monthth:monthtg:monthtr:monthuk:monthvi:monthwa:monthzh:month
+Category:1000 English basic wordsCategory:en:Timeaf:monthar:monthast:monthzh-min-nan:monthca:monthcs:monthco:monthcy:monthda:monthde:monthet:monthel:monthes:montheo:montheu:monthfa:monthfr:monthfy:monthko:monthhy:monthio:monthid:monthik:monthzu:monthit:monthkn:monthkk:monthsw:monthku:monthlo:monthlt:monthli:monthhu:monthmg:monthml:monthmy:monthnah:monthfj:monthnl:monthja:monthno:monthoc:monthpl:monthpt:monthru:monthsq:monthscn:monthsimple:monthfi:monthsv:monthta:monthte:monthth:monthtg:monthtr:monthuk:monthvi:monthwa:monthzh:month>>>
 ***multiculturalism***
-multiculturalism:
-{{was wotd|2011|April|24}}{wikipedia}
+HtmlEntry: multiculturalism <<<{{was wotd|2011|April|24}}{wikipedia}
 <h3>Etymology</h3>
 From {{suffix|multicultural|ism}}.
 <h3>Pronunciation</h3>
@@ -4963,10 +4482,9 @@ From {{suffix|multicultural|ism}}.
 <h3>See also</h3>
 <ul><li> cosmopolitan</li>
 </ul>
-Category:en:Culturefr:multiculturalismko:multiculturalismid:multiculturalismio:multiculturalismpl:multiculturalismru:multiculturalismfi:multiculturalismta:multiculturalism
+Category:en:Culturefr:multiculturalismko:multiculturalismid:multiculturalismio:multiculturalismpl:multiculturalismru:multiculturalismfi:multiculturalismta:multiculturalism>>>
 ***nonsense***
-nonsense:
-
+HtmlEntry: nonsense <<<
 <h3>Etymology</h3>
 {{prefix|non|sense}}
 <h3>Pronunciation</h3>
@@ -5041,10 +4559,9 @@ nonsense:
 <h4>Synonyms</h4>
 <ul><li> pooh-pooh, rubbish</li>
 </ul>
-ca:nonsenseet:nonsensees:nonsensefr:nonsenseko:nonsenseio:nonsenseid:nonsenseit:nonsensekn:nonsensesw:nonsenseku:nonsensehu:nonsenseml:nonsensemy:nonsensenl:nonsensepl:nonsensesimple:nonsensefi:nonsensesv:nonsenseta:nonsensete:nonsensevi:nonsensezh:nonsense
+ca:nonsenseet:nonsensees:nonsensefr:nonsenseko:nonsenseio:nonsenseid:nonsenseit:nonsensekn:nonsensesw:nonsenseku:nonsensehu:nonsenseml:nonsensemy:nonsensenl:nonsensepl:nonsensesimple:nonsensefi:nonsensesv:nonsenseta:nonsensete:nonsensevi:nonsensezh:nonsense>>>
 ***noun***
-noun:
-{wikipedia}
+HtmlEntry: noun <<<{wikipedia}
 <h3>Etymology</h3>
 From {{etyl|xno}} {{term|noun|lang=xno}}, {{term|non|lang=xno}}, {{term|nom|lang=xno}}, from {{etyl|la}} {{term|nomen|nōmen|name|lang=la}}.
 <h3>Pronunciation</h3>
@@ -5116,10 +4633,9 @@ From {{etyl|xno}} {{term|noun|lang=xno}}, {{term|non|lang=xno}}, {{term|nom|lang
 <h3>Anagrams</h3>
 <ul><li> non-U</li>
 </ul>
-Category:English autological termsCategory:en:Parts of speech----
+Category:English autological termsCategory:en:Parts of speech---->>>
 ***November***
-November:
-
+HtmlEntry: November <<<
 <h3>Alternative forms</h3>
 <ul><li> Novembre {{qualifier|obsolete}}</li>
 </ul>
@@ -5164,10 +4680,9 @@ November:
 <h3>See also</h3>
 <ul><li> {{list|en|Gregorian calendar months}}</li>
 </ul>
-----
+---->>>
 ***October***
-October:
-
+HtmlEntry: October <<<
 <h3>Alternative forms</h3>
 <ul><li> Octobre {{qualifier|obsolete}}</li>
 </ul>
@@ -5209,68 +4724,9 @@ From {{etyl|enm}}, from {{etyl|ang}}, from {{etyl|la}} {{term|october|octōber|e
 <h4>See also</h4>
 <ul><li> {{list|en|Gregorian calendar months}}</li>
 </ul>
-----
-===of===
-grain of salt:
-{wikipedia}
-<h3>Etymology</h3>
-From Latin {{term|cum grano salis}}, literally <em>with a grain of salt</em>, figuratively <em>with a bit of common sense</em>.
-<h3>Noun</h3>
-{{en-noun|-|sg=grain of salt}}
-<ol><li> {idiomatic} A bit of common sense and skepticism.  Generally used in some form of <em>to take with a grain of salt.</em></li>
-<ul><li> <em>I'd take anything I read in that paper with a <b>grain of salt</b>.</em></li>
-</ul>
-</ol>
-
-<h4>Synonyms</h4>
-<ul><li> pinch of salt</li>
-</ul>
-
-<h4>See also</h4>
-<ul><li> face value</li>
-</ul>
-et:grain of saltid:grain of salt
-freedom of speech:
-{{wikipedia|Freedom of speech}}{{wikinews|Category:Free speech}}{{commons|Category:Freedom of speech}}{{wikiquote|Freedom of speech}}
-<h3>Etymology</h3>
-{rfe}
-<h3>Pronunciation</h3>
-<ul><li> {{audio-pron|en-us-freedom_of_speech.ogg|ipa=/fɹiː.dəm.əv.spiːtʃ/|lang=en|country=us|dial=Midland American English.ogg}}</li>
-</ul>
-
-<h3>Noun</h3>
-{{en-noun|-|sg=freedom of speech}}
-<ol><li> The right of citizens to speak, or otherwise communicate, without fear of harm or prosecution.</li>
-<ul><li> {{quote-book|year=1720|author={{w|John Trenchard (writer)|John Trenchard}} and {{w|Thomas Gordon (writer)|Thomas Gordon}}|title={{w|Cato's Letters}}|publisher=|url=|isbn=|page=Letter Number 15, <em>Of Freedom of Speech, That the Same is inseparable from Publick Liberty</em>|passage=All Ministers ... who were Oppressors, or intended to be Oppressors, have been loud in their Complaints against <b>Freedom of Speech</b>, and the License of the Press; and always restrained, or endeavored to restrain, both.}}</li>
-<li> {{quote-book|author={{w|Frank Murphy}}|title={{w|Thornhill v. Alabama}}|publisher={{w|Supreme Court of the United States}}|year=1940|passage=The <b>freedom of speech</b> and of the press, which are secured by the First Amendment against abridgment by the United States, are among the fundamental personal rights and liberties which are secured to all persons by the Fourteenth Amendment against abridgment by a state. The safeguarding of these rights to the ends that men may speak as they think on matters vital to them and that falsehoods may be exposed through the processes of education and discussion is essential to free government. Those who won our independence had confidence in the power of free and fearless reasoning and communication of ideas to discover and spread political and economic truth.|page={{w|Case citation|310 U.S. 88 }}}}</li>
-<li> {{quote-book|year=1969|author={{w|Abe Fortas}}|title={{w|Tinker v. Des Moines Independent Community School District}}|publisher={{w|Supreme Court of the United States}}|url=|isbn=|page={{ussc|393|503|1969}}|passage=First Amendment rights, applied in light of the special characteristics of the school environment, are available to teachers and students. It can hardly be argued that either students or teachers shed their constitutional rights to <b>freedom of speech</b> or expression at the schoolhouse gate.}}</li>
-<li> {{quote-book|year=1997|author={{w|Wendy Grossman}}|title={{w|Net.wars}}|publisher={{w|New York University Press}}|url=|isbn=0814731031|page=90|passage=One question that remains is at what point an individual Net poster has the right to assume prerogatives that have traditionally been only the province of journalists and news-gathering organizations. When the Pentagon Papers landed on the doorstep of <em>The New York Times</em>, the newspaper was able to publish under the First Amendment's guarantees of <b>freedom of speech</b>, and to make a strong argument in court that publication was in the public interest. ... the amplification inherent in the combination of the Net's high-speed communications and the size of the available population has greatly changed the balance of power.}}</li>
-<li> {{quote-book|year=2003|author=Mike Godwin|authorlink=w:Mike Godwin|title={{w|Cyber Rights}}|publisher=The MIT Press|url=|isbn=0262571684|page=2|passage=The term <em>free speech</em>, which appears in this book's subtitle as well as in its text, is used more or less interchangeably with <em>freedom of the press</em>, <b><em>freedom of speech</b></em>, and <em>freedom of expression</em> to refer to all of the expressive rights guaranteed by the forty-five words of the First Amendment, as interpreted by the U.S. courts.}}</li>
-<li> {{quote-book| last =Green  | first =David L.  | title =IQuote: Brilliance and Banter from the Internet Age  | publisher =Globe Pequot  | date =2007  | pages =113  | isbn = 1599211505|passage={{w|Mike Godwin}} (1994): Cyberspace may give <b>freedom of speech</b> more muscle than the First Amendment does. It may already have become literally impossible for a government to shut people up.}}</li>
-</ul>
-<li> {{&lit|freedom|speech}}</li>
-<ul><li> {{quote-book|chapter=Of Simulation and Dissimulation|year=1625|title=The essays, or Counsels, civil &amp; moral, with a table of the colours of good and evil. Whereunto is added The wisdome of the ancients, enlarged by the author|author=Francis Bacon|year_published=1680|passage=For to him that opens himself, Men will hardly shew themselves averse, but will (fair) let him go on, and turn their <b>freedom of speech</b> to freedom of thought. And therefore it is a good shrewd Proverb of the <em>Spaniard, Tell a lye, and find a Troth</em>; as if there were no way of discovery, but by <em>Simulation</em>.|url=http://books.google.com/books?id=xjQCAAAAQAAJ&amp;pg=PA20&amp;dq=%22freedom+of+speech%22&amp;hl=en&amp;sa=X&amp;ei=zTI-T9zcDYnr0gHcx_HOBw&amp;ved=0CNoBEOgBMBo#v=onepage&amp;q=%22freedom%20of%20speech%22&amp;f=false}}</li>
-</ul>
-</ol>
-
-<h4>Quotations</h4>
-{seemoreCites}
-<h4>Related terms</h4>
-<ul><li> free speech</li>
-<li> freedom of expression</li>
-</ul>
-
-<h4>Coordinate terms</h4>
-<ul><li> freedom of movement, freedom of contract, freedom of the press, freedom of religion, freedom of assembly, right to petition, right to privacy, right to keep and bear arms</li>
-</ul>
-
-<h3>See also</h3>
-<ul><li> {pedia}</li>
-</ul>
-Category:en:Freedom of speechde:freedom of speechet:freedom of speechfr:freedom of speechpl:freedom of speechfi:freedom of speechta:freedom of speech
+---->>>
 ***patronage***
-patronage:
-{wikipedia}
+HtmlEntry: patronage <<<{wikipedia}
 <h3>Pronunciation</h3>
 /ˈpeɪtrənɪd͡ʒ/
 <h3>Noun</h3>
@@ -5311,18 +4767,9 @@ patronage:
 </ul>
 </ul>
 </ol>
-----
-===pears===
-apples and pears:
-
-<h3>Noun</h3>
-{{en-noun|-|sg=apples and pears}}
-<ol><li> {Cockney rhyming slang} stairs</li>
-</ol>
-
+---->>>
 ***pie***
-pie:
-{{slim-wikipedia|Pie (disambiguation)}}Unsliced Lemon Meringue Pie - Noun, definition 1
+HtmlEntry: pie <<<{{slim-wikipedia|Pie (disambiguation)}}Unsliced Lemon Meringue Pie - Noun, definition 1
 <h3>Pronunciation</h3>
 <ul><li> {{a|UK}} {{IPA|/pʌɪ/}}</li>
 <li> {{a|US}} {{enPR|pī}}, {{IPA|/paɪ/}}, {{X-SAMPA|/paI/}}</li>
@@ -5418,10 +4865,9 @@ From {{etyl|hi}} {{term|पाई|quarter|tr=pāī}}, from {{etyl|sa}} {{term|�
 <h3>Anagrams</h3>
 <ul><li> EIP, ipe, ip&eacute;, PEI</li>
 </ul>
-Category:English terms with unknown etymologiesCategory:en:CurrencyCategory:en:FoodsCategory:en:Pies----
+Category:English terms with unknown etymologiesCategory:en:CurrencyCategory:en:FoodsCategory:en:Pies---->>>
 ***pies***
-pies:
-
+HtmlEntry: pies <<<
 <h3>Pronunciation</h3>
 <ul><li> {{rhymes|aɪz}}</li>
 </ul>
@@ -5440,10 +4886,9 @@ pies:
 <ul><li> ipes</li>
 <li> sipe</li>
 </ul>
-----
+---->>>
 ***pneumonoultramicroscopicsilicovolcanoconiosis***
-pneumonoultramicroscopicsilicovolcanoconiosis:
-{{wikipedia|pneumonoultramicroscopicsilicovolcanoconiosis|pneumono...}}
+HtmlEntry: pneumonoultramicroscopicsilicovolcanoconiosis <<<{{wikipedia|pneumonoultramicroscopicsilicovolcanoconiosis|pneumono...}}
 <h3>Alternative forms</h3>
 <ul><li> pneumonoultramicroscopicsilicovolcano-coniosis</li>
 <li> pneumonoultramicroscopicsilicovolcanokoniosis</li>
@@ -5508,10 +4953,9 @@ Coined by Everett K Smith, President of the National Puzzlers’ League, at thei
 </ul>
 {rel-bottom}
 <h4>References</h4>
-&lt;references/&gt;Category:Long English wordsCategory:English words suffixed with -osisde:pneumonoultramicroscopicsilicovolcanoconiosisfr:pneumonoultramicroscopicsilicovolcanoconiosisko:pneumonoultramicroscopicsilicovolcanoconiosistl:pneumonoultramicroscopicsilicovolcanoconiosiszh:pneumonoultramicroscopicsilicovolcanoconiosis
+&lt;references/&gt;Category:Long English wordsCategory:English words suffixed with -osisde:pneumonoultramicroscopicsilicovolcanoconiosisfr:pneumonoultramicroscopicsilicovolcanoconiosisko:pneumonoultramicroscopicsilicovolcanoconiosistl:pneumonoultramicroscopicsilicovolcanoconiosiszh:pneumonoultramicroscopicsilicovolcanoconiosis>>>
 ***polysemic***
-polysemic:
-
+HtmlEntry: polysemic <<<
 <h3>Adjective</h3>
 {en-adj}
 <ol><li> {linguistics} Having a number of meanings, interpretations or understandings.</li>
@@ -5530,10 +4974,9 @@ polysemic:
 <ul><li> polyseme</li>
 <li> polysemy</li>
 </ul>
-et:polysemicru:polysemic
+et:polysemicru:polysemic>>>
 ***pond***
-pond:
-{wikipedia}
+HtmlEntry: pond <<<{wikipedia}
 <h3>Pronunciation</h3>
 <ul><li> {{a|UK}} {{enPR|pŏnd}}, {{IPA|/pɒnd/}}, {{X-SAMPA|/pQnd/}}</li>
 <li> {{rhymes|ɒnd}}</li>
@@ -5577,10 +5020,9 @@ A pond{en-noun}
 <h3>Anagrams</h3>
 <ul><li> DNOP</li>
 </ul>
-----
-===Pope===
-Pope Julius:
-
+---->>>
+***Pope Julius***
+HtmlEntry: Pope Julius <<<
 <h3>Alternative forms</h3>
 <ul><li> Pope July</li>
 <li> Pope Julio</li>
@@ -5596,10 +5038,9 @@ Unknown.  Presumably named after Pope Julius II, the Warrior Pope.
 <li> {{quote-book|year={{circa2|1596}}|author=Sir John Harington|title=A Treatise on Playe|quoted_in=Nugae antiquae|year_published=1804|passage=<b>Pope Julio</b> (if I fail not in the name, and sure I am that there is a game of the cards after his name) was a great and wary player, a great vertue in a man of his profession}}</li>
 </ul>
 </ol>
-Category:en:Card games
+Category:en:Card games>>>
 ***portmanteau***
-portmanteau:
-{{was wotd|2007|March|8}}{wikipedia}
+HtmlEntry: portmanteau <<<{{was wotd|2007|March|8}}{wikipedia}
 <h3>Alternative forms</h3>
 <ul><li> {{sense|travelling case}} portmantua</li>
 </ul>
@@ -5659,10 +5100,9 @@ Coined by Lewis Carroll in Through The Looking Glass to describe the words he co
 <ul><li> List of portmanteau words defined in Wiktionary</li>
 <li> Wikipedia article on portmanteaus (cases and words)</li>
 </ul>
-Category:English autological termscs:portmanteaufr:portmanteauko:portmanteauio:portmanteaukn:portmanteaumy:portmanteauno:portmanteaupl:portmanteauru:portmanteausimple:portmanteaufi:portmanteausv:portmanteautl:portmanteaute:portmanteauvi:portmanteauzh:portmanteau
+Category:English autological termscs:portmanteaufr:portmanteauko:portmanteauio:portmanteaukn:portmanteaumy:portmanteauno:portmanteaupl:portmanteauru:portmanteausimple:portmanteaufi:portmanteausv:portmanteautl:portmanteaute:portmanteauvi:portmanteauzh:portmanteau>>>
 ***pound***
-pound:
-
+HtmlEntry: pound <<<
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|/paʊnd/}}</li>
 <li> {{audio|en-us-pound.ogg|Audio (US)}}</li>
@@ -5761,55 +5201,9 @@ From {{etyl|enm}} {{term|pounden|lang=enm}}, alteration of {{term|pounen|lang=en
 {en-noun}
 <ol><li> A hard blow.</li>
 </ol>
-Category:en:CanalsCategory:en:CurrencyCategory:en:Units of measurede:poundet:poundel:poundes:poundfa:poundfr:poundko:poundio:poundit:poundkn:poundku:poundlo:poundli:poundhu:poundmg:poundml:poundmy:poundja:poundpl:poundru:poundsimple:poundfi:poundtl:poundta:poundtt:poundte:poundtr:poundvi:poundzh:pound
-===pro===
-quid pro quo:
-{{was wotd|2009|August|17}}{rfc}
-<h3>Etymology</h3>
-From {{etyl|la|en}} : &quot;what for what&quot; . See quid, pro, and quo
-<h3>Pronunciation</h3>
-<ul><li> {{a|UK}} {{IPA|/ˌkwɪd.pɹəʊˈkwəʊ/}}</li>
-<li> {{a|US}} {{IPA|/ˌkwɪd.pɹoʊˈkwoʊ/}}</li>
-</ul>
-
-<h3>Noun</h3>
-{{en-noun|sg=quid pro quo|pl=quid pro quos|pl2=quae pro quibus|pl3=quid pro quibus|pl4=quid pro quibus}}
-<ol><li> Something understood as another ; an equivocation.</li>
-<ul><li> <b>1844</b>, Arthur Schopenhauer, translated by Richard Burdon Haldane, <em>The World as Will and Representation</em>, 2nd edition, first book, section 13:</li>
-<ul><li> The misunderstanding of the word or the <b>quid pro quo</b> is the unintentional pun, and is related to it exactly as folly is to wit.</li>
-</ul>
-<li> <b>1912</b>, Fyodor Dostoevsky, translated by Constance Garnett, <em>The Brothers Karamazov</em>, part II, book V, chapter 5:</li>
-<ul><li> &amp;ldquo;Is it simply a wild fantasy, or a mistake on the part of the old man &amp;mdash; some impossible <b>quid pro quo</b>?&amp;rdquo;</li>
-</ul>
-</ul>
-<li> {legal} This for that; giving something to receive something else ; something equivalent ; something in return.</li>
-<ul><li> <b>1895</b>, Uchimura Kanzo, <em>The Diary of a Japanese Convert</em>, chapter 1:</li>
-<ul><li> No less weightier was to be the youth's consideration for his master, who was to him no mere school teacher or college professor on <b>quid pro quo</b> principle, but a veritable didaskalos, in whom he could and must completely confide the care of his body and soul.</li>
-</ul>
-<li> <b>2002</b>, Barry G. Silverman, <em>Sklar v. Commissioner of Internal Revenue - Concurrence by Judge Silverman (2002)</em>:</li>
-<ul><li> Section 170 states that <b>quid pro quo</b> donations, for which a taxpayer receives something in return, are not deductible.</li>
-</ul>
-</ul>
-<li> An equal exchange.</li>
-<ul><li> <em>We had no money so we had to live by <b>quid pro quo</b>.</em></li>
-</ul>
-</ol>
-
-<h4>Synonyms</h4>
-<ul><li> {{sense|an equal exchange}} barter, swap, swop, trade</li>
-</ul>
-
-<h4>Related</h4>
-<ul><li> tit for tat</li>
-</ul>
-
-<h3>Anagrams</h3>
-<ul><li> quo pro quid</li>
-</ul>
-Category:English borrowed termsda:quid pro quode:quid pro quoet:quid pro quofr:quid pro quomy:quid pro quopl:quid pro quoru:quid pro quota:quid pro quo
+Category:en:CanalsCategory:en:CurrencyCategory:en:Units of measurede:poundet:poundel:poundes:poundfa:poundfr:poundko:poundio:poundit:poundkn:poundku:poundlo:poundli:poundhu:poundmg:poundml:poundmy:poundja:poundpl:poundru:poundsimple:poundfi:poundtl:poundta:poundtt:poundte:poundtr:poundvi:poundzh:pound>>>
 ***product***
-product:
-
+HtmlEntry: product <<<
 <h3>Etymology</h3>
 {{etyl|la}} {{term|productus|prōductus|lang=la}}, perfect participle of {{term|produco|prōdūcō|lang=la}}, first attested in English in the mathematics sense.
 <h3>Pronunciation</h3>
@@ -5881,29 +5275,16 @@ product:
 <h4>See also</h4>
 <ul><li> multiplication: (multiplier) &times; (multiplicand) = (product)</li>
 </ul>
-----
-===pronunciation===
-Appendix:English pronunciation:
-The following tables show the IPA, SAMPA and enPR/AHD representations of English pronunciation, in both Received Pronunciation (UK) and General American (US). For vowels in other dialects, see IPA chart for English.
-<h3>Vowels</h3>
-The vowel table lists both monophthongs and diphthongs.{| {wikitable}! rowspan=&quot;2&quot; | enPR&lt;br/&gt;(AHD)! colspan=&quot;2&quot; | IPA! colspan=&quot;2&quot; | SAMPA! rowspan=&quot;2&quot; | Examples|-! RP! GA! RP! GA|-align=&quot;center&quot;| {{enPRchar|ă}}| colspan=&quot;2&quot; | {{IPAchar2|Near-open front unrounded vowel.ogg|&aelig;}}| colspan=&quot;2&quot; | &lt;tt&gt;{&lt;/tt&gt;| b<b>a</b>d, c<b>a</b>t, r<b>a</b>n|-align=&quot;center&quot;| {{enPRchar|ăr}}| colspan=&quot;2&quot; | {{IPAchar|&aelig;ɹ}}| colspan=&quot;2&quot; | &lt;tt&gt;{r\&lt;/tt&gt;| c<b>arr</b>y|-align=&quot;center&quot;| {{enPRchar|ā}}| colspan=&quot;2&quot; | {{IPAchar|eɪ}}| colspan=&quot;2&quot; | &lt;tt&gt;eI&lt;/tt&gt;| b<b>ai</b>t, pl<b>ay</b>, s<b>a</b>me|-align=&quot;center&quot;| {{enPRchar|&auml;}}| {{IPAchar|ɑː}}| {{IPAchar2|Open back unrounded vowel.ogg|ɑ}}| &lt;tt&gt;A:&lt;/tt&gt;| &lt;tt&gt;A&lt;/tt&gt;| f<b>a</b>ther|-align=&quot;center&quot;| {{enPRchar|&auml;r}}| {{IPAchar|ɑː(ɹ)}}| {{IPAchar|ɑɹ}}| &lt;tt&gt;A:&lt;/tt&gt;| &lt;tt&gt;Ar\&lt;/tt&gt;| <b>ar</b>m, b<b>ar</b>d, <b>ar</b>ia|-align=&quot;center&quot;| {{enPRchar|&acirc;r}}| {{IPAchar|ɛə(ɹ)}}| {{IPAchar|ɛɹ}}| &lt;tt&gt;E@&lt;/tt&gt;| &lt;tt&gt;Er\&lt;/tt&gt;| h<b>air</b>, p<b>ear</b>, th<b>ere</b>, sc<b>ar</b>y|-align=&quot;center&quot;| {{enPRchar|ĕ}}| colspan=&quot;2&quot; | {{IPAchar2|Open-mid front unrounded vowel.ogg|ɛ}}| colspan=&quot;2&quot; | &lt;tt&gt;E&lt;/tt&gt;| b<b>e</b>d, b<b>e</b>t, <b>e</b>nd|-align=&quot;center&quot;| {{enPRchar|ĕr}}| colspan=&quot;2&quot; | {{IPAchar|ɛɹ}}| colspan=&quot;2&quot; | &lt;tt&gt;Er\&lt;/tt&gt;| m<b>err</b>y|-align=&quot;center&quot;| {{enPRchar|ē}}| {{IPAchar|iː}}| {{IPAchar2|Close front unrounded vowel.ogg|i}}| &lt;tt&gt;i:&lt;/tt&gt;| &lt;tt&gt;i&lt;/tt&gt;| <b>ea</b>se, s<b>ee</b>|-align=&quot;center&quot;| {{enPRchar|ĭ}}| colspan=&quot;2&quot; | {{IPAchar2|Near-close near-front unrounded vowel.ogg|ɪ}}| colspan=&quot;2&quot; | &lt;tt&gt;I&lt;/tt&gt;| c<b>i</b>ty, b<b>i</b>t|-align=&quot;center&quot;| {{enPRchar|i}}&lt;ref&gt;Not an AHD symbol. Often written as AHD <em>ē</em> in Wiktionary entries.&lt;/ref&gt;| colspan=&quot;2&quot; | {{IPAchar2|Close front unrounded vowel.ogg|i}}| colspan=&quot;2&quot; | &lt;tt&gt;i&lt;/tt&gt;| cit<b>y</b>, ver<b>y</b>, read<b>y</b>|-align=&quot;center&quot;| {{enPRchar|ĭr}}| colspan=&quot;2&quot; | {{IPAchar|ɪɹ}}| colspan=&quot;2&quot; | &lt;tt&gt;Ir\&lt;/tt&gt;| s<b>yr</b>up, S<b>ir</b>ius|-align=&quot;center&quot;| {{enPRchar|ī}}| colspan=&quot;2&quot; | {{IPAchar|aɪ}}| colspan=&quot;2&quot; | &lt;tt&gt;aI&lt;/tt&gt;| m<b>y</b>, r<b>i</b>se|-align=&quot;center&quot;| {{enPRchar|&icirc;r}}| {{IPAchar|ɪə(ɹ)}}| {{IPAchar|ɪɹ}}| &lt;tt&gt;I@&lt;/tt&gt;| &lt;tt&gt;Ir\&lt;/tt&gt;| h<b>ere</b>, n<b>ear</b>, p<b>eer</b>, s<b>er</b>ious|-align=&quot;center&quot;| {{enPRchar|ŏ}}| {{IPAchar2|Open back rounded vowel.ogg|ɒ}}| {{IPAchar2|Open back unrounded vowel.ogg|ɑ}}| &lt;tt&gt;Q&lt;/tt&gt;| &lt;tt&gt;A&lt;/tt&gt;| n<b>o</b>t|-align=&quot;center&quot;| {{enPRchar|ō}}| {{IPAchar|əʊ}}| {{IPAchar|oʊ}}| &lt;tt&gt;@U&lt;/tt&gt;| &lt;tt&gt;oU&lt;/tt&gt;| g<b>o</b>, h<b>o</b>pe, kn<b>ow</b>|-align=&quot;center&quot;| {{enPRchar|ōr}}| {{IPAchar|ɔə(ɹ)}}| {{IPAchar|oɹ, ɔɹ}}| &lt;tt&gt;O@&lt;/tt&gt;| &lt;tt&gt;or\, Or\&lt;/tt&gt;| h<b>oar</b>se, gl<b>or</b>y|-align=&quot;center&quot;| {{enPRchar|&ocirc;}}| {{IPAchar|ɔː}}| {{IPAchar2|Open-mid back rounded vowel.ogg|ɔ}}| &lt;tt&gt;O:&lt;/tt&gt;| &lt;tt&gt;O&lt;/tt&gt;| l<b>aw</b>, c<b>au</b>ght, s<b>aw</b>|-align=&quot;center&quot;| {{enPRchar|&ocirc;r}}| {{IPAchar|ɔː(ɹ)}}| {{IPAchar|ɔɹ}}| &lt;tt&gt;O:&lt;/tt&gt;| &lt;tt&gt;Or\&lt;/tt&gt;| h<b>or</b>se, m<b>ore</b>, l<b>aur</b>eate|-align=&quot;center&quot;| {{enPRchar|oi}}| colspan=&quot;2&quot; | {{IPAchar|ɔɪ}}| colspan=&quot;2&quot; | &lt;tt&gt;OI&lt;/tt&gt;| b<b>oy</b>, n<b>oi</b>se|-align=&quot;center&quot;| {{enPRchar|o͝o, ŏŏ}}| colspan=&quot;2&quot; | {{IPAchar2|Near-close near-back rounded vowel.ogg|ʊ}}| colspan=&quot;2&quot; | &lt;tt&gt;U&lt;/tt&gt;| p<b>u</b>t, f<b>oo</b>t|-align=&quot;center&quot;| {{enPRchar|o͝or, ŏŏr}}| {{IPAchar|ʊə(ɹ)}}| {{IPAchar|ʊɹ}}| &lt;tt&gt;U@&lt;/tt&gt;| &lt;tt&gt;Ur\&lt;/tt&gt;| p<b>oor</b>, t<b>our</b>, t<b>our</b>ism|-align=&quot;center&quot;| {{enPRchar|o͞o, ōō}}| {{IPAchar|uː}}| {{IPAchar2|Close back rounded vowel.ogg|u}}| &lt;tt&gt;u:&lt;/tt&gt;| &lt;tt&gt;u&lt;/tt&gt;| l<b>o</b>se, s<b>oo</b>n, thr<b>ou</b>gh|-align=&quot;center&quot;| {{enPRchar|ou}}| colspan=&quot;2&quot; | {{IPAchar|aʊ}}| colspan=&quot;2&quot; | &lt;tt&gt;aU&lt;/tt&gt;| h<b>ou</b>se, n<b>ow</b>|-align=&quot;center&quot;| {{enPRchar|ŭ}}| colspan=&quot;2&quot; | {{IPAchar2|Open-mid back unrounded vowel.ogg|ʌ}}| colspan=&quot;2&quot; | &lt;tt&gt;V&lt;/tt&gt;| r<b>u</b>n, en<b>ou</b>gh, <b>u</b>p|-align=&quot;center&quot;| {{enPRchar|&ucirc;r}}| {{IPAchar|ɜː(ɹ)}}| {{IPAchar|ɝ}}| &lt;tt&gt;3:&lt;/tt&gt;| &lt;tt&gt;3`&lt;/tt&gt;| f<b>ur</b>, b<b>ir</b>d|-align=&quot;center&quot;| {{enPRchar|ə}}| colspan=&quot;2&quot; | {{IPAchar2|Schwa.ogg|ə}}| colspan=&quot;2&quot; | &lt;tt&gt;@&lt;/tt&gt;| <b>a</b>bout|-align=&quot;center&quot;| {{enPRchar|ər}}| {{IPAchar|ə(ɹ)}}| {{IPAchar|ɚ}}| &lt;tt&gt;@&lt;/tt&gt;| &lt;tt&gt;@`&lt;/tt&gt;| ent<b>er</b>|}&lt;references/&gt;
-<h3>Consonants</h3>
-{| {wikitable}! enPR&lt;br&gt;(AHD)! IPA! SAMPA! Examples|-| {{enPRchar|b}}| {{IPAchar2|Voiced bilabial plosive.ogg|b}}| &lt;tt&gt;b&lt;/tt&gt;| <b>b</b>ut, a<b>b</b>le, ca<b>b</b>, wo<b>bb</b>le, e<b>bb</b>|-| {{enPRchar|ch}}| {{IPAchar2|voiceless palato-alveolar affricate.ogg|tʃ}}&lt;ref name=tiebar&gt;May also be written with a tie bar, thus: {{IPAchar|/t͡ʃ/, /d͡ʒ/}}&lt;/ref&gt;| &lt;tt&gt;tS&lt;/tt&gt;| <b>ch</b>at, tea<b>ch</b>er, in<b>ch</b>, ca<b>tch</b>, na<b>t</b>ure|-| {{enPRchar|d}}| {{IPAchar2|Voiced alveolar plosive.ogg|d}}| &lt;tt&gt;d&lt;/tt&gt;| <b>d</b>ot, i<b>d</b>ea, no<b>d</b>, fo<b>dd</b>er, o<b>dd</b>|-| {{enPRchar|f}}| {{IPAchar2|Voiceless labiodental fricative.ogg|f}}| &lt;tt&gt;f&lt;/tt&gt;| <b>f</b>an, le<b>f</b>t, lea<b>f</b>, enou<b>gh</b>, <b>ph</b>ase, gra<b>ph</b>ic, epita<b>ph</b>|-| {{enPRchar|g}}| {{IPAchar2|Voiced velar plosive.ogg|ɡ}}| &lt;tt&gt;g&lt;/tt&gt;| <b>g</b>et, ma<b>g</b>net, ba<b>g</b>|-| {{enPRchar|h}}|{{IPAchar2|Voiceless glottal fricative.ogg|h}}| &lt;tt&gt;h&lt;/tt&gt;| <b>h</b>am|-| {{enPRchar|hw}}| {{IPAchar2|voiceless labio-velar fricative.ogg|ʍ (hw)}}&lt;ref&gt;Phonologists may deny that {{IPAchar|/ʍ/}} is a distinct phoneme, and instead use {{IPAchar|/hw/}}.&lt;/ref&gt;| &lt;tt&gt;W&lt;/tt&gt;| <b>wh</b>ich|-| {{enPRchar|j}}| {{IPAchar2|voiced palato-alveolar affricate.ogg|dʒ}}&lt;ref name=tiebar /&gt;| &lt;tt&gt;dZ&lt;/tt&gt;| <b>j</b>oy, a<b>j</b>ar, <b>g</b>in, a<b>g</b>ile, a<b>ge</b>, e<b>dge</b>|-| {{enPRchar|k}}| {{IPAchar2|Voiceless velar plosive.ogg|k}}| &lt;tt&gt;k&lt;/tt&gt;| <b>c</b>at, <b>k</b>it, <b>q</b>ueen, pi<b>que</b>, <b>ch</b>oir, a<b>ch</b>e, ta<b>ck</b>|-| {{enPRchar|ᴋʜ}}| {{IPAchar2|voiceless velar fricative.ogg|x}}| &lt;tt&gt;x&lt;/tt&gt;| (<em>Scottish</em>) lo<b>ch</b>|-| {{enPRchar|l}}| {{IPAchar2|Alveolar lateral approximant.ogg|l}}| &lt;tt&gt;l&lt;/tt&gt;| <b>l</b>eft (<em>before vowel of syllable</em>)|-| {{enPRchar|l}}| {{IPAchar|l̩ (əl)}}&lt;ref name=&quot;cons&quot;&gt;Phonologists may deny that {{IPAchar|/l̩, n̩, m̩/}} are distinct phonemes, and instead use {{IPAchar|/əl, ən, əm/}}.&lt;/ref&gt;| &lt;tt&gt;l=&lt;/tt&gt;| litt<b>le</b>|-| {{enPRchar|m}}| {{IPAchar2|Bilabial nasal.ogg|m}}| &lt;tt&gt;m&lt;/tt&gt;| <b>m</b>an, ani<b>m</b>al, hi<b>m</b>|-| {{enPRchar|m}}| {{IPAchar|m̩ (əm)}}&lt;ref name=&quot;cons&quot;/&gt;| &lt;tt&gt;m=&lt;/tt&gt;| spas<b>m</b>, pris<b>m</b>|-| {{enPRchar|n}}| {{IPAchar2|Alveolar nasal.ogg|n}}| &lt;tt&gt;n&lt;/tt&gt;| <b>n</b>ote, a<b>n</b>t, pa<b>n</b>|-| {{enPRchar|n}}| {{IPAchar|n̩ (ən)}}&lt;ref name=&quot;cons&quot;/&gt;| &lt;tt&gt;n=&lt;/tt&gt;| hidd<b>en</b>|-| {{enPRchar|ng}}| {{IPAchar2|Retroflex nasal.ogg|ŋ}}| &lt;tt&gt;N&lt;/tt&gt;| si<b>ng</b>er, ri<b>ng</b>|-| {{enPRchar|p}}| {{IPAchar2|Voiceless bilabial plosive.ogg|p}}| &lt;tt&gt;p&lt;/tt&gt;| <b>p</b>en, s<b>p</b>in, to<b>p</b>, a<b>pp</b>le|-| {{enPRchar|r}}| {{IPAchar2|Alveolar approximant.ogg|ɹ}}&lt;ref&gt;Often conventionally written {{IPAchar|/r/}}, especially in works that cover only English.&lt;/ref&gt;| &lt;tt&gt;r\&lt;/tt&gt;| <b>r</b>un, ve<b>r</b>y|-| {{enPRchar|s}}| {{IPAchar2|Voiceless_alveolar_sibilant.ogg|s}}| &lt;tt&gt;s&lt;/tt&gt;| <b>s</b>et, li<b>s</b>t, pa<b>ss</b>, <b>c</b>ity, i<b>ce</b>|-| {{enPRchar|sh}}| {{IPAchar2|Voiceless_palato-alveolar_sibilant.ogg|ʃ}}| &lt;tt&gt;S&lt;/tt&gt;| <b>sh</b>e, a<b>sh</b>, <b>s</b>ure, ra<b>t</b>ion|-| {{enPRchar|t}}| {{IPAchar2|Voiceless alveolar plosive.ogg|t}}| &lt;tt&gt;t&lt;/tt&gt;| <b>t</b>on, s<b>t</b>ab, ma<b>t</b>, a<b>tt</b>end, bu<b>tt</b>, ou<b>ght</b>|-| {{enPRchar|th}}| {{IPAchar2|Voiceless dental fricative.ogg|θ}}| &lt;tt&gt;T&lt;/tt&gt;| <b>th</b>in, no<b>th</b>ing, mo<b>th</b>|-| {{enPRchar|<em>th</em>}}| {{IPAchar2|voiced dental fricative.ogg|&eth;}}| &lt;tt&gt;D&lt;/tt&gt;| <b>th</b>is, fa<b>th</b>er, clo<b>the</b>|-| {{enPRchar|v}}| {{IPAchar2|Voiced labiodental fricative.ogg|v}}| &lt;tt&gt;v&lt;/tt&gt;| <b>v</b>oice, na<b>v</b>el, sa<b>ve</b>, o<b>f</b>|-| {{enPRchar|w}}| {{IPAchar2|Voiced labio-velar approximant.ogg|w}}| &lt;tt&gt;w&lt;/tt&gt;| <b>w</b>et|-| {{enPRchar|y}}| {{IPAchar2|Palatal approximant.ogg|j}}| &lt;tt&gt;j&lt;/tt&gt;| <b>y</b>es|-| {{enPRchar|z}}| {{IPAchar2|Voiced_alveolar_sibilant.ogg|z}}| &lt;tt&gt;z&lt;/tt&gt;| <b>z</b>oo, qui<b>z</b>, fu<b>zz</b>, ro<b>s</b>e, <b>x</b>ylem|-| {{enPRchar|zh}}| {{IPAchar2|Voiced_palato-alveolar_sibilant.ogg|ʒ}}| &lt;tt&gt;Z&lt;/tt&gt;| vi<b>s</b>ion, trea<b>s</b>ure, bei<b>ge</b>|}&lt;references/&gt;
-<h3>Other symbols</h3>
-A stress mark is placed before the syllable that is stressed in IPA and SAMPA and after it in enPR and AHD. {| {wikitable}! enPR&lt;br&gt;(AHD)! IPA! SAMPA! Indicates|-| {{enPRchar|ʹ}} (a{{enPRchar|ʹ}})| {{IPAchar|ˈ}} ({{IPAchar|ˈ}}a)| &lt;tt&gt;&quot;&lt;/tt&gt; (&lt;tt&gt;&quot;&lt;/tt&gt;a)| primary stress|-| {{enPRchar|'}} (a{{enPRchar|'}})| {{IPAchar|ˌ}} ({{IPAchar|ˌ}}a)| &lt;tt&gt;%&lt;/tt&gt; (&lt;tt&gt;%&lt;/tt&gt;a)| secondary stress, sometimes tertiary stress|-| a{{enPRchar|-}}a| a{{IPAchar|.}}a| a&lt;tt&gt;.&lt;/tt&gt;a| division between syllables|}<b>Note:</b> The EnPR and print AHD marks are formatted slightly differently. Online, AHD writes both {{enPRchar|'}}, though they do not always represent the same phoneme.
-pronunciation guide:
-
+---->>>
+***pronunciation guide***
+HtmlEntry: pronunciation guide <<<
 <h3>Noun</h3>
 {{en-noun|sg=pronunciation guide}}
 <ol><li>{countable} A table in a reference work explaining the symbols that it uses to represent the pronunciation of its entries.</li>
 </ol>
-pt:pronunciation guideru:pronunciation guide
-===Public===
-Wiktionary:Public domain sources:
-The first fascicle of the Oxford English Dictionary was published in 1884, and it was published in fascicles until completion in 1928. Oxford English Dictionary is a great source of word history.Some scanned fascicles of Oxford English Dictionary under the title <em>A New English Dictionary on Historical Principles</em> by James A. H. Murray can be found at archive.org, as seen in [http://www.archive.org/search.php?query=creator%3A%22James%20A.%20H.%20Murray%22 works by James A. H. Murray]. They have been scanned by a person whose [http://lists.canonical.org/pipermail/kragen-tol/2005-October/000794.html letter of intent] can be seen, as well as his [http://lists.canonical.org/pipermail/kragen-tol/2006-March/000816.html progress] as of March 16 2006. He is scanning those fascicles published in the US before 1923, maybe because in the UK the copyright is [http://answers.google.com/answers/threadview?id=16644 extended to author's life + 70 years]. There seem to be no plain text files converted using OCR.The volume 1 of OED, 1884, is also avaliable at Fractionary, starting at [http://fraktionary.com/index.php/OED:1_1 OED:1_1], and ending at [http://fraktionary.com/index.php/OED:1_1240 OED:1_1240].
+pt:pronunciation guideru:pronunciation guide>>>
 ***pumpkin***
-pumpkin:
-
+HtmlEntry: pumpkin <<<
 <h3>Alternative forms</h3>
 <ul><li> {{sense|US|term of endearment}} punkin</li>
 </ul>
@@ -5939,10 +5320,9 @@ From {{etyl|frm}} {{term|pompon|lang=frm}}, from {{etyl|la}} {{term|pepo|pepō|l
 <li> marrow</li>
 <li> squash</li>
 </ul>
-Category:en:ColorsCategory:en:Terms of endearmentcs:pumpkinde:pumpkinet:pumpkinel:pumpkineo:pumpkineu:pumpkinfr:pumpkingl:pumpkinko:pumpkinio:pumpkinid:pumpkinzu:pumpkinkn:pumpkinkk:pumpkinlo:pumpkinlt:pumpkinhu:pumpkinmg:pumpkinml:pumpkinmy:pumpkinnl:pumpkinja:pumpkinpl:pumpkinpt:pumpkinru:pumpkinfi:pumpkinsv:pumpkintl:pumpkinta:pumpkintr:pumpkinvi:pumpkinzh:pumpkin
-===quid===
-quid pro quo:
-{{was wotd|2009|August|17}}{rfc}
+Category:en:ColorsCategory:en:Terms of endearmentcs:pumpkinde:pumpkinet:pumpkinel:pumpkineo:pumpkineu:pumpkinfr:pumpkingl:pumpkinko:pumpkinio:pumpkinid:pumpkinzu:pumpkinkn:pumpkinkk:pumpkinlo:pumpkinlt:pumpkinhu:pumpkinmg:pumpkinml:pumpkinmy:pumpkinnl:pumpkinja:pumpkinpl:pumpkinpt:pumpkinru:pumpkinfi:pumpkinsv:pumpkintl:pumpkinta:pumpkintr:pumpkinvi:pumpkinzh:pumpkin>>>
+***quid pro quo***
+HtmlEntry: quid pro quo <<<{{was wotd|2009|August|17}}{rfc}
 <h3>Etymology</h3>
 From {{etyl|la|en}} : &quot;what for what&quot; . See quid, pro, and quo
 <h3>Pronunciation</h3>
@@ -5984,55 +5364,9 @@ From {{etyl|la|en}} : &quot;what for what&quot; . See quid, pro, and quo
 <h3>Anagrams</h3>
 <ul><li> quo pro quid</li>
 </ul>
-Category:English borrowed termsda:quid pro quode:quid pro quoet:quid pro quofr:quid pro quomy:quid pro quopl:quid pro quoru:quid pro quota:quid pro quo
-===quo===
-quid pro quo:
-{{was wotd|2009|August|17}}{rfc}
-<h3>Etymology</h3>
-From {{etyl|la|en}} : &quot;what for what&quot; . See quid, pro, and quo
-<h3>Pronunciation</h3>
-<ul><li> {{a|UK}} {{IPA|/ˌkwɪd.pɹəʊˈkwəʊ/}}</li>
-<li> {{a|US}} {{IPA|/ˌkwɪd.pɹoʊˈkwoʊ/}}</li>
-</ul>
-
-<h3>Noun</h3>
-{{en-noun|sg=quid pro quo|pl=quid pro quos|pl2=quae pro quibus|pl3=quid pro quibus|pl4=quid pro quibus}}
-<ol><li> Something understood as another ; an equivocation.</li>
-<ul><li> <b>1844</b>, Arthur Schopenhauer, translated by Richard Burdon Haldane, <em>The World as Will and Representation</em>, 2nd edition, first book, section 13:</li>
-<ul><li> The misunderstanding of the word or the <b>quid pro quo</b> is the unintentional pun, and is related to it exactly as folly is to wit.</li>
-</ul>
-<li> <b>1912</b>, Fyodor Dostoevsky, translated by Constance Garnett, <em>The Brothers Karamazov</em>, part II, book V, chapter 5:</li>
-<ul><li> &amp;ldquo;Is it simply a wild fantasy, or a mistake on the part of the old man &amp;mdash; some impossible <b>quid pro quo</b>?&amp;rdquo;</li>
-</ul>
-</ul>
-<li> {legal} This for that; giving something to receive something else ; something equivalent ; something in return.</li>
-<ul><li> <b>1895</b>, Uchimura Kanzo, <em>The Diary of a Japanese Convert</em>, chapter 1:</li>
-<ul><li> No less weightier was to be the youth's consideration for his master, who was to him no mere school teacher or college professor on <b>quid pro quo</b> principle, but a veritable didaskalos, in whom he could and must completely confide the care of his body and soul.</li>
-</ul>
-<li> <b>2002</b>, Barry G. Silverman, <em>Sklar v. Commissioner of Internal Revenue - Concurrence by Judge Silverman (2002)</em>:</li>
-<ul><li> Section 170 states that <b>quid pro quo</b> donations, for which a taxpayer receives something in return, are not deductible.</li>
-</ul>
-</ul>
-<li> An equal exchange.</li>
-<ul><li> <em>We had no money so we had to live by <b>quid pro quo</b>.</em></li>
-</ul>
-</ol>
-
-<h4>Synonyms</h4>
-<ul><li> {{sense|an equal exchange}} barter, swap, swop, trade</li>
-</ul>
-
-<h4>Related</h4>
-<ul><li> tit for tat</li>
-</ul>
-
-<h3>Anagrams</h3>
-<ul><li> quo pro quid</li>
-</ul>
-Category:English borrowed termsda:quid pro quode:quid pro quoet:quid pro quofr:quid pro quomy:quid pro quopl:quid pro quoru:quid pro quota:quid pro quo
-===rain===
-rain cats and dogs:
-
+Category:English borrowed termsda:quid pro quode:quid pro quoet:quid pro quofr:quid pro quomy:quid pro quopl:quid pro quoru:quid pro quota:quid pro quo>>>
+***rain cats and dogs***
+HtmlEntry: rain cats and dogs <<<
 <h3>Etymology</h3>
 Unknown. Perhaps from {{etyl|grc|en}} {{term|κατά|against|lang=grc|tr=cata}} and {{term|δόξα|opinion, expectation|tr=doxa|lang=grc}}, but see Etymology in Citations
 <h3>Verb</h3>
@@ -6047,10 +5381,9 @@ Unknown. Perhaps from {{etyl|grc|en}} {{term|κατά|against|lang=grc|tr=cata}}
 <h3>Anagrams</h3>
 <ul><li> rain dogs and cats</li>
 </ul>
-cy:rain cats and dogsde:rain cats and dogset:rain cats and dogses:rain cats and dogsfr:rain cats and dogsgl:rain cats and dogsja:rain cats and dogsno:rain cats and dogspl:rain cats and dogspt:rain cats and dogsru:rain cats and dogssv:rain cats and dogszh:rain cats and dogs
+cy:rain cats and dogsde:rain cats and dogset:rain cats and dogses:rain cats and dogsfr:rain cats and dogsgl:rain cats and dogsja:rain cats and dogsno:rain cats and dogspl:rain cats and dogspt:rain cats and dogsru:rain cats and dogssv:rain cats and dogszh:rain cats and dogs>>>
 ***raven***
-raven:
-{wikipedia}A raven (bird).
+HtmlEntry: raven <<<{wikipedia}A raven (bird).
 <h3>Pronunciation</h3>
 <ul><li> {{enPR|rāʹvən}}, {{IPA|/ˈreɪvən/}}, {{X-SAMPA|/&quot;reIv@n/}}</li>
 <li> {{audio|en-us-raven.ogg|Audio (US)}}</li>
@@ -6124,30 +5457,9 @@ From {{etyl|fro}} {{term|raviner|rush, seize by force|lang=fro}}, itself from {{
 <h3>Anagrams</h3>
 <ul><li> Verna</li>
 </ul>
-Category:English adjectives ending in -enCategory:English heteronymsCategory:en:Birds----
-===salt===
-grain of salt:
-{wikipedia}
-<h3>Etymology</h3>
-From Latin {{term|cum grano salis}}, literally <em>with a grain of salt</em>, figuratively <em>with a bit of common sense</em>.
-<h3>Noun</h3>
-{{en-noun|-|sg=grain of salt}}
-<ol><li> {idiomatic} A bit of common sense and skepticism.  Generally used in some form of <em>to take with a grain of salt.</em></li>
-<ul><li> <em>I'd take anything I read in that paper with a <b>grain of salt</b>.</em></li>
-</ul>
-</ol>
-
-<h4>Synonyms</h4>
-<ul><li> pinch of salt</li>
-</ul>
-
-<h4>See also</h4>
-<ul><li> face value</li>
-</ul>
-et:grain of saltid:grain of salt
+Category:English adjectives ending in -enCategory:English heteronymsCategory:en:Birds---->>>
 ***Saturday***
-Saturday:
-
+HtmlEntry: Saturday <<<
 <h3>Etymology</h3>
 {{etyl|ang}} {{term|s&aelig;ternd&aelig;g|S&aelig;ternesd&aelig;g|day of Saturn}}, from {{term|S&aelig;tern|Saturn}}, from {{etyl|la}} {{term|Saturnus|the god of agriculture}}, possibly from Etruscan, + {{etyl|ang}} {{term|d&aelig;g|day}}; a translation of {{etyl|la}} {{term|dies Saturni}}
 <h3>Pronunciation</h3>
@@ -6197,10 +5509,9 @@ Saturday:
 <h3>See also</h3>
 <ul><li> {{list|en|days of the week}}</li>
 </ul>
-af:Saturdayar:Saturdayast:Saturdayaz:Saturdaycs:Saturdaycy:Saturdayda:Saturdayde:Saturdayet:Saturdayel:Saturdayes:Saturdayeo:Saturdayeu:Saturdayfa:Saturdayfr:Saturdayfy:Saturdayga:Saturdaygl:Saturdayko:Saturdayhy:Saturdayhr:Saturdayio:Saturdayid:Saturdayit:Saturdaykl:Saturdayka:Saturdaykk:Saturdayku:Saturdaylo:Saturdayla:Saturdaylv:Saturdaylt:Saturdayhu:Saturdaymg:Saturdayml:Saturdaymn:Saturdaymy:Saturdaynl:Saturdayja:Saturdayno:Saturdaynn:Saturdayoc:Saturdaykm:Saturdaypl:Saturdaypt:Saturdayro:Saturdayru:Saturdaysimple:Saturdaysk:Saturdaysr:Saturdayfi:Saturdaysv:Saturdayta:Saturdaytg:Saturdaytr:Saturdayuk:Saturdayvi:Saturdayvo:Saturdayzh:Saturday
+af:Saturdayar:Saturdayast:Saturdayaz:Saturdaycs:Saturdaycy:Saturdayda:Saturdayde:Saturdayet:Saturdayel:Saturdayes:Saturdayeo:Saturdayeu:Saturdayfa:Saturdayfr:Saturdayfy:Saturdayga:Saturdaygl:Saturdayko:Saturdayhy:Saturdayhr:Saturdayio:Saturdayid:Saturdayit:Saturdaykl:Saturdayka:Saturdaykk:Saturdayku:Saturdaylo:Saturdayla:Saturdaylv:Saturdaylt:Saturdayhu:Saturdaymg:Saturdayml:Saturdaymn:Saturdaymy:Saturdaynl:Saturdayja:Saturdayno:Saturdaynn:Saturdayoc:Saturdaykm:Saturdaypl:Saturdaypt:Saturdayro:Saturdayru:Saturdaysimple:Saturdaysk:Saturdaysr:Saturdayfi:Saturdaysv:Saturdayta:Saturdaytg:Saturdaytr:Saturdayuk:Saturdayvi:Saturdayvo:Saturdayzh:Saturday>>>
 ***semantics***
-semantics:
-{wikipedia}
+HtmlEntry: semantics <<<{wikipedia}
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|/sɪˈm&aelig;ntɪks/}}</li>
 </ul>
@@ -6251,10 +5562,9 @@ semantics:
 <h4>External links</h4>
 <ul><li> {R:OneLook}</li>
 </ul>
-Category:en:Philosophyet:semanticsel:semanticsfa:semanticsio:semanticsid:semanticskn:semanticshu:semanticsno:semanticspl:semanticspt:semanticssimple:semanticsfi:semanticsta:semanticstr:semanticsvi:semanticszh:semantics
+Category:en:Philosophyet:semanticsel:semanticsfa:semanticsio:semanticsid:semanticskn:semanticshu:semanticsno:semanticspl:semanticspt:semanticssimple:semanticsfi:semanticsta:semanticstr:semanticsvi:semanticszh:semantics>>>
 ***September***
-September:
-
+HtmlEntry: September <<<
 <h3>Alternative forms</h3>
 <ul><li> Septembre {{qualifier|obsolete}}</li>
 </ul>
@@ -6322,10 +5632,9 @@ Late {{etyl|ang}}, {{etyl|la}} {{term|september|seventh month|lang=la}}, from La
 <ul><li> 9/11</li>
 <li> {{list|en|Gregorian calendar months}}</li>
 </ul>
-----
+---->>>
 ***sesquipedalianism***
-sesquipedalianism:
-
+HtmlEntry: sesquipedalianism <<<
 <h3>Etymology</h3>
 Surface form analyzed as {{suffix|sesquipedalian|ism}}, from {{prefix|sesqui|pedalian|t1=one and a half|t2=of the foot}}.From {{etyl|la}} {{term|sesquipedalis|a foot and a half long; in metaphorical use, “of an unnatural length, huge, big”|lang=la}}, from {{term|sesqui|one and a half times as great|lang=la}} + {{term|pedalis|foot|lang=la}}.&lt;ref&gt;From <em>A New and Copious Lexicon of the Latin Language</em>, Compiled Chiefly from the Magnum Totius Latinitatis Lexicon of Facciolati and Forcellini, and the German Works of Scheller and Luenemann<em>, edited by F. P. Leverett, Wilkins, Carter &amp; Co., Boston, 1849.&lt;/ref&gt;
 <h3>Pronunciation</h3>
@@ -6350,52 +5659,9 @@ Surface form analyzed as {{suffix|sesquipedalian|ism}}, from {{prefix|sesqui|ped
 </ul>
 
 <h4>References</h4>
-&lt;references/&gt;et:sesquipedalianism
-===sources===
-Wiktionary:Public domain sources:
-The first fascicle of the Oxford English Dictionary was published in 1884, and it was published in fascicles until completion in 1928. Oxford English Dictionary is a great source of word history.Some scanned fascicles of Oxford English Dictionary under the title <em>A New English Dictionary on Historical Principles</em> by James A. H. Murray can be found at archive.org, as seen in [http://www.archive.org/search.php?query=creator%3A%22James%20A.%20H.%20Murray%22 works by James A. H. Murray]. They have been scanned by a person whose [http://lists.canonical.org/pipermail/kragen-tol/2005-October/000794.html letter of intent] can be seen, as well as his [http://lists.canonical.org/pipermail/kragen-tol/2006-March/000816.html progress] as of March 16 2006. He is scanning those fascicles published in the US before 1923, maybe because in the UK the copyright is [http://answers.google.com/answers/threadview?id=16644 extended to author's life + 70 years]. There seem to be no plain text files converted using OCR.The volume 1 of OED, 1884, is also avaliable at Fractionary, starting at [http://fraktionary.com/index.php/OED:1_1 OED:1_1], and ending at [http://fraktionary.com/index.php/OED:1_1240 OED:1_1240].
-===speech===
-freedom of speech:
-{{wikipedia|Freedom of speech}}{{wikinews|Category:Free speech}}{{commons|Category:Freedom of speech}}{{wikiquote|Freedom of speech}}
-<h3>Etymology</h3>
-{rfe}
-<h3>Pronunciation</h3>
-<ul><li> {{audio-pron|en-us-freedom_of_speech.ogg|ipa=/fɹiː.dəm.əv.spiːtʃ/|lang=en|country=us|dial=Midland American English.ogg}}</li>
-</ul>
-
-<h3>Noun</h3>
-{{en-noun|-|sg=freedom of speech}}
-<ol><li> The right of citizens to speak, or otherwise communicate, without fear of harm or prosecution.</li>
-<ul><li> {{quote-book|year=1720|author={{w|John Trenchard (writer)|John Trenchard}} and {{w|Thomas Gordon (writer)|Thomas Gordon}}|title={{w|Cato's Letters}}|publisher=|url=|isbn=|page=Letter Number 15, <em>Of Freedom of Speech, That the Same is inseparable from Publick Liberty</em>|passage=All Ministers ... who were Oppressors, or intended to be Oppressors, have been loud in their Complaints against <b>Freedom of Speech</b>, and the License of the Press; and always restrained, or endeavored to restrain, both.}}</li>
-<li> {{quote-book|author={{w|Frank Murphy}}|title={{w|Thornhill v. Alabama}}|publisher={{w|Supreme Court of the United States}}|year=1940|passage=The <b>freedom of speech</b> and of the press, which are secured by the First Amendment against abridgment by the United States, are among the fundamental personal rights and liberties which are secured to all persons by the Fourteenth Amendment against abridgment by a state. The safeguarding of these rights to the ends that men may speak as they think on matters vital to them and that falsehoods may be exposed through the processes of education and discussion is essential to free government. Those who won our independence had confidence in the power of free and fearless reasoning and communication of ideas to discover and spread political and economic truth.|page={{w|Case citation|310 U.S. 88 }}}}</li>
-<li> {{quote-book|year=1969|author={{w|Abe Fortas}}|title={{w|Tinker v. Des Moines Independent Community School District}}|publisher={{w|Supreme Court of the United States}}|url=|isbn=|page={{ussc|393|503|1969}}|passage=First Amendment rights, applied in light of the special characteristics of the school environment, are available to teachers and students. It can hardly be argued that either students or teachers shed their constitutional rights to <b>freedom of speech</b> or expression at the schoolhouse gate.}}</li>
-<li> {{quote-book|year=1997|author={{w|Wendy Grossman}}|title={{w|Net.wars}}|publisher={{w|New York University Press}}|url=|isbn=0814731031|page=90|passage=One question that remains is at what point an individual Net poster has the right to assume prerogatives that have traditionally been only the province of journalists and news-gathering organizations. When the Pentagon Papers landed on the doorstep of <em>The New York Times</em>, the newspaper was able to publish under the First Amendment's guarantees of <b>freedom of speech</b>, and to make a strong argument in court that publication was in the public interest. ... the amplification inherent in the combination of the Net's high-speed communications and the size of the available population has greatly changed the balance of power.}}</li>
-<li> {{quote-book|year=2003|author=Mike Godwin|authorlink=w:Mike Godwin|title={{w|Cyber Rights}}|publisher=The MIT Press|url=|isbn=0262571684|page=2|passage=The term <em>free speech</em>, which appears in this book's subtitle as well as in its text, is used more or less interchangeably with <em>freedom of the press</em>, <b><em>freedom of speech</b></em>, and <em>freedom of expression</em> to refer to all of the expressive rights guaranteed by the forty-five words of the First Amendment, as interpreted by the U.S. courts.}}</li>
-<li> {{quote-book| last =Green  | first =David L.  | title =IQuote: Brilliance and Banter from the Internet Age  | publisher =Globe Pequot  | date =2007  | pages =113  | isbn = 1599211505|passage={{w|Mike Godwin}} (1994): Cyberspace may give <b>freedom of speech</b> more muscle than the First Amendment does. It may already have become literally impossible for a government to shut people up.}}</li>
-</ul>
-<li> {{&lit|freedom|speech}}</li>
-<ul><li> {{quote-book|chapter=Of Simulation and Dissimulation|year=1625|title=The essays, or Counsels, civil &amp; moral, with a table of the colours of good and evil. Whereunto is added The wisdome of the ancients, enlarged by the author|author=Francis Bacon|year_published=1680|passage=For to him that opens himself, Men will hardly shew themselves averse, but will (fair) let him go on, and turn their <b>freedom of speech</b> to freedom of thought. And therefore it is a good shrewd Proverb of the <em>Spaniard, Tell a lye, and find a Troth</em>; as if there were no way of discovery, but by <em>Simulation</em>.|url=http://books.google.com/books?id=xjQCAAAAQAAJ&amp;pg=PA20&amp;dq=%22freedom+of+speech%22&amp;hl=en&amp;sa=X&amp;ei=zTI-T9zcDYnr0gHcx_HOBw&amp;ved=0CNoBEOgBMBo#v=onepage&amp;q=%22freedom%20of%20speech%22&amp;f=false}}</li>
-</ul>
-</ol>
-
-<h4>Quotations</h4>
-{seemoreCites}
-<h4>Related terms</h4>
-<ul><li> free speech</li>
-<li> freedom of expression</li>
-</ul>
-
-<h4>Coordinate terms</h4>
-<ul><li> freedom of movement, freedom of contract, freedom of the press, freedom of religion, freedom of assembly, right to petition, right to privacy, right to keep and bear arms</li>
-</ul>
-
-<h3>See also</h3>
-<ul><li> {pedia}</li>
-</ul>
-Category:en:Freedom of speechde:freedom of speechet:freedom of speechfr:freedom of speechpl:freedom of speechfi:freedom of speechta:freedom of speech
+&lt;references/&gt;et:sesquipedalianism>>>
 ***substantive***
-substantive:
-{wikipedia}
+HtmlEntry: substantive <<<{wikipedia}
 <h3>Etymology</h3>
 From {{etyl|fro}} <em>substantif</em>.
 <h3>Adjective</h3>
@@ -6435,10 +5701,9 @@ From {{etyl|fro}} <em>substantif</em>.
 <ul><li> substantivise/substantivize</li>
 <li> substantival</li>
 </ul>
-
+>>>
 ***Sunday***
-Sunday:
-
+HtmlEntry: Sunday <<<
 <h3>Etymology</h3>
 {{etyl|enm}} <em>sunnenday</em> from {{etyl|ang}} {{term|sunnand&aelig;g|day of the sun|lang=ang}}, from {{term|sunne|sun|lang=ang}}, + {{term|d&aelig;g|day|lang=ang}}, as a translation of {{etyl|la}} <em>dies solis</em>; declared the &quot;venerable day of the sun&quot; by Roman Emperor Constantine on March 7, 321 {C.E.}.
 <h3>Pronunciation</h3>
@@ -6593,10 +5858,9 @@ Sunday:
 <h3>See also</h3>
 <ul><li> {{list|en|days of the week}}</li>
 </ul>
-af:Sundayast:Sundayaz:Sundaycs:Sundaycy:Sundayda:Sundayde:Sundayet:Sundayel:Sundayes:Sundayeo:Sundayeu:Sundayfr:Sundayga:Sundaygl:Sundayko:Sundayhy:Sundayhr:Sundayio:Sundayid:Sundayit:Sundaykl:Sundaykn:Sundayka:Sundaykk:Sundayku:Sundaylo:Sundayla:Sundaylv:Sundaylt:Sundayhu:Sundaymg:Sundayml:Sundaymn:Sundaymy:Sundaynl:Sundayja:Sundayno:Sundaynn:Sundayoc:Sundaykm:Sundaypl:Sundaypt:Sundayro:Sundayru:Sundaysimple:Sundaysr:Sundayfi:Sundaysv:Sundayta:Sundayte:Sundaytg:Sundaytr:Sundayuk:Sundayvi:Sundayvo:Sundayzh:Sunday
+af:Sundayast:Sundayaz:Sundaycs:Sundaycy:Sundayda:Sundayde:Sundayet:Sundayel:Sundayes:Sundayeo:Sundayeu:Sundayfr:Sundayga:Sundaygl:Sundayko:Sundayhy:Sundayhr:Sundayio:Sundayid:Sundayit:Sundaykl:Sundaykn:Sundayka:Sundaykk:Sundayku:Sundaylo:Sundayla:Sundaylv:Sundaylt:Sundayhu:Sundaymg:Sundayml:Sundaymn:Sundaymy:Sundaynl:Sundayja:Sundayno:Sundaynn:Sundayoc:Sundaykm:Sundaypl:Sundaypt:Sundayro:Sundayru:Sundaysimple:Sundaysr:Sundayfi:Sundaysv:Sundayta:Sundayte:Sundaytg:Sundaytr:Sundayuk:Sundayvi:Sundayvo:Sundayzh:Sunday>>>
 ***swap***
-swap:
-{wikipedia}
+HtmlEntry: swap <<<{wikipedia}
 <h3>Alternative forms</h3>
 <ul><li> swop {{qualifier|nonstandard}}</li>
 </ul>
@@ -6654,10 +5918,9 @@ Uncertain, probably from imitative origin.
 <li> wasp</li>
 <li> WSPA</li>
 </ul>
-Category:Trading----
+Category:Trading---->>>
 ***swop***
-swop:
-
+HtmlEntry: swop <<<
 <h3>Noun</h3>
 {en-noun}
 <ol><li> {{alternative spelling of|swap}}</li>
@@ -6676,10 +5939,9 @@ swop:
 <ul><li> pows, POWs</li>
 <li> wops</li>
 </ul>
-et:swopfi:swopte:swopvi:swop
+et:swopfi:swopte:swopvi:swop>>>
 ***synonym***
-synonym:
-{wikipedia}
+HtmlEntry: synonym <<<{wikipedia}
 <h3>Etymology</h3>
 From {{etyl|enm}} {{term|sinonyme|lang=enm}}, from {{etyl|la}} {{term|synonymum|synōnymum|lang=la}}, from {{etyl|grc}} {{term|συνώνυμον|tr=sunōnumon|lang=grc}}, neuter singular form of {{term|συνώνυμος|synonymous|tr=sunōnumos|lang=grc}}, from {{term|σύν|with|lang=grc}} + {{term|ὄνομα|name|onoma|lang=grc}}.
 <h3>Pronunciation</h3>
@@ -6726,10 +5988,9 @@ From {{etyl|enm}} {{term|sinonyme|lang=enm}}, from {{etyl|la}} {{term|synonymum|
 <ul><li> homotypic</li>
 <li> heterotypic</li>
 </ul>
-----
+---->>>
 ***thesaurus***
-thesaurus:
-{wikipedia}
+HtmlEntry: thesaurus <<<{wikipedia}
 <h3>Etymology</h3>
 16th century, from {{etyl|la|en}} {{term|thesaurus|thēsaurus|lang=la}}, from {{etyl|grc|en}} {{term|θησαυρός|storehouse, treasure|tr=thēsauros|lang=grc|sc=polytonic}}; its current English usage/meaning was established soon after the publication of Peter Roget's <em>Thesaurus of English Words and Phrases</em> in 1852
 <h3>Pronunciation</h3>
@@ -6765,10 +6026,9 @@ thesaurus:
 <li> {R:Century 1911}</li>
 <li> <em>Roget's Thesaurus can be found at:</em> http://www.bartleby.com/thesauri</li>
 </ul>
-Category:en:Reference works----
+Category:en:Reference works---->>>
 ***Thursday***
-Thursday:
-
+HtmlEntry: Thursday <<<
 <h3>Etymology</h3>
 From {{etyl|enm}}, from {{etyl|ang}} {{term|&thorn;ursd&aelig;g|&thorn;ursd&aelig;ġ|lang=ang}}, {{term|&thorn;urresd&aelig;g|&thorn;urresd&aelig;ġ|Thursday|lang=ang}}, possibly from a contraction of {{etyl|ang}} {{term|&thorn;unresd&aelig;g|&thorn;unresd&aelig;ġ|Thursday|lit=Thor's day|lang=ang}}, but more likely of {{etyl|gmq}} origin, from {{etyl|non}} {{term|&thorn;&oacute;rsdagr|&thorn;ōrsdagr|lang=non}} or Old {{etyl|da}} {{term|&thorn;ursdag|&thorn;ūrsdag|Thursday|lang=da}}; all from {{proto|Germanic|&THORN;unras dagaz|Thor's day|lang=en}}. More at {{l|en|thunder}}, {{l|en|day}}.A calque of Latin <em>dies Iovis (dies Jovis)</em>, via an association of the god Thor with the Roman god of thunder Jove (Jupiter).
 <h3>Pronunciation</h3>
@@ -6828,10 +6088,9 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|&thorn;ursd&aelig;g|&thorn;ursd&aeli
 <h3>See also</h3>
 <ul><li> {{list|en|days of the week}}</li>
 </ul>
-Category:en:Timeaf:Thursdayast:Thursdayaz:Thursdayca:Thursdaycs:Thursdaycy:Thursdayda:Thursdayde:Thursdayet:Thursdayel:Thursdayes:Thursdayeo:Thursdayeu:Thursdayfr:Thursdayga:Thursdaygl:Thursdayko:Thursdayhy:Thursdayhr:Thursdayio:Thursdayid:Thursdayit:Thursdaykl:Thursdaykn:Thursdayka:Thursdaykk:Thursdayku:Thursdaylo:Thursdayla:Thursdaylv:Thursdaylt:Thursdayhu:Thursdaymg:Thursdayml:Thursdaymn:Thursdaymy:Thursdaynl:Thursdayja:Thursdayno:Thursdaynn:Thursdayoc:Thursdaykm:Thursdaypl:Thursdaypt:Thursdayro:Thursdayru:Thursdaysimple:Thursdayfi:Thursdaysv:Thursdayta:Thursdayte:Thursdaytg:Thursdaytr:Thursdayuk:Thursdayvi:Thursdayvo:Thursdayzh:Thursday
+Category:en:Timeaf:Thursdayast:Thursdayaz:Thursdayca:Thursdaycs:Thursdaycy:Thursdayda:Thursdayde:Thursdayet:Thursdayel:Thursdayes:Thursdayeo:Thursdayeu:Thursdayfr:Thursdayga:Thursdaygl:Thursdayko:Thursdayhy:Thursdayhr:Thursdayio:Thursdayid:Thursdayit:Thursdaykl:Thursdaykn:Thursdayka:Thursdaykk:Thursdayku:Thursdaylo:Thursdayla:Thursdaylv:Thursdaylt:Thursdayhu:Thursdaymg:Thursdayml:Thursdaymn:Thursdaymy:Thursdaynl:Thursdayja:Thursdayno:Thursdaynn:Thursdayoc:Thursdaykm:Thursdaypl:Thursdaypt:Thursdayro:Thursdayru:Thursdaysimple:Thursdayfi:Thursdaysv:Thursdayta:Thursdayte:Thursdaytg:Thursdaytr:Thursdayuk:Thursdayvi:Thursdayvo:Thursdayzh:Thursday>>>
 ***trade***
-trade:
-{{wikipedia|trade|dab=trade (disambiguation)}}
+HtmlEntry: trade <<<{{wikipedia|trade|dab=trade (disambiguation)}}
 <h3>Etymology</h3>
 From {{etyl|enm|en}} {{term|trade|path, course of conduct|lang=enm}}, cognate with {{etyl|ang}} {{term|tredan|tread|lang=ang}}; See [http://www.etymonline.com/index.php?search=trade&amp;searchmode=none Online Etymology Dictionary]
 <h3>Pronunciation</h3>
@@ -6995,9 +6254,9 @@ From {{etyl|enm|en}} {{term|trade|path, course of conduct|lang=enm}}, cognate wi
 <h3>Anagrams</h3>
 <ul><li> adret, dater, derat, drate, rated, tared, tread</li>
 </ul>
-Category:1000 English basic words----
-trade wind:
-
+Category:1000 English basic words---->>>
+***trade wind***
+HtmlEntry: trade wind <<<
 <h3>Alternative forms</h3>
 <ul><li> trade-wind</li>
 </ul>
@@ -7020,10 +6279,9 @@ trade wind:
 <h4>Antonyms</h4>
 <ul><li> easterly</li>
 </ul>
-Category:en:Windio:trade windja:trade windro:trade windfi:trade windta:trade windzh:trade wind
+Category:en:Windio:trade windja:trade windro:trade windfi:trade windta:trade windzh:trade wind>>>
 ***Tuesday***
-Tuesday:
-
+HtmlEntry: Tuesday <<<
 <h3>Etymology</h3>
 From {{etyl|enm}} {{term|Tewesday|lang=enm}}, from {{etyl|ang}} {{term|Tiwesd&aelig;g|Tīwesd&aelig;ġ|Tuesday|lang=ang}}, from {{proto|Germanic|Tīwas dagaz|Tuesday|lit=Tiw's Day|lang=en}} (a rendering of {{etyl|la|-}} {{term|dies Martis|lang=la}} (see <em>{{w|interpretatio germanica}}</em>), itself a translation of {{etyl|grc|-}} {{term|tr=Areos hemera|lang=grc}} (see <em>{{w|interpretatio romana}}</em>)), equivalent to {{proto|Germanic|Tīwaz|god of war|lang=en}} (compare {{etyl|non|-}} {{term|Tyr|lang=non}}, {{etyl|goh|-}} {{term|Ziu|lang=goh}}), from {{proto|Indo-European|dyew&oacute;s|god|lang=en}} + {{proto|Germanic|dagaz|day|lang=en}}. Cognate with {{etyl|sco|-}} {{term|Tysday|Tuesday|lang=sco}}, {{etyl|fy|-}} {{term|tiisdei|Tuesday|lang=fy}}, {{etyl|de|-}} dialectal {{term|Ziestag|Tuesday|lang=de}}, {{etyl|da|-}} {{term|tirsdag|Tuesday|lang=da}}, {{etyl|sv|-}} {{term|tisdag|Tuesday|lang=sv}}. More at Zeus, day.A calque of Latin <em>dies Martis</em>, via an association of the god Tiw with the Roman god of war Mars.
 <h3>Pronunciation</h3>
@@ -7077,10 +6335,9 @@ From {{etyl|enm}} {{term|Tewesday|lang=enm}}, from {{etyl|ang}} {{term|Tiwesd&ae
 <h3>See also</h3>
 <ul><li> {{list|en|days of the week}}</li>
 </ul>
-af:Tuesdayast:Tuesdayaz:Tuesdayzh-min-nan:Tuesdaycs:Tuesdaycy:Tuesdayda:Tuesdayde:Tuesdayet:Tuesdayel:Tuesdayes:Tuesdayeo:Tuesdayeu:Tuesdayfr:Tuesdayga:Tuesdaygl:Tuesdayko:Tuesdayhy:Tuesdayhr:Tuesdayio:Tuesdayid:Tuesdayit:Tuesdaykl:Tuesdaykn:Tuesdayka:Tuesdaykk:Tuesdayku:Tuesdaylo:Tuesdayla:Tuesdaylv:Tuesdaylt:Tuesdayhu:Tuesdaymg:Tuesdayml:Tuesdaymn:Tuesdaymy:Tuesdaynl:Tuesdayja:Tuesdayno:Tuesdaynn:Tuesdayoc:Tuesdaykm:Tuesdaypl:Tuesdaypt:Tuesdayro:Tuesdayru:Tuesdaysimple:Tuesdaysr:Tuesdayfi:Tuesdaysv:Tuesdayta:Tuesdaytg:Tuesdaytr:Tuesdayuk:Tuesdayvi:Tuesdayvo:Tuesdayzh:Tuesday
+af:Tuesdayast:Tuesdayaz:Tuesdayzh-min-nan:Tuesdaycs:Tuesdaycy:Tuesdayda:Tuesdayde:Tuesdayet:Tuesdayel:Tuesdayes:Tuesdayeo:Tuesdayeu:Tuesdayfr:Tuesdayga:Tuesdaygl:Tuesdayko:Tuesdayhy:Tuesdayhr:Tuesdayio:Tuesdayid:Tuesdayit:Tuesdaykl:Tuesdaykn:Tuesdayka:Tuesdaykk:Tuesdayku:Tuesdaylo:Tuesdayla:Tuesdaylv:Tuesdaylt:Tuesdayhu:Tuesdaymg:Tuesdayml:Tuesdaymn:Tuesdaymy:Tuesdaynl:Tuesdayja:Tuesdayno:Tuesdaynn:Tuesdayoc:Tuesdaykm:Tuesdaypl:Tuesdaypt:Tuesdayro:Tuesdayru:Tuesdaysimple:Tuesdaysr:Tuesdayfi:Tuesdaysv:Tuesdayta:Tuesdaytg:Tuesdaytr:Tuesdayuk:Tuesdayvi:Tuesdayvo:Tuesdayzh:Tuesday>>>
 ***verb***
-verb:
-{wikipedia}
+HtmlEntry: verb <<<{wikipedia}
 <h3>Etymology</h3>
 From {{etyl|fro|en}} {{term|verbe|lang=fro}}, from {{etyl|la|en}} {{term|verbum|word|lang=la}}, from {{proto|Indo-European|wer-|lang=en}}.
 <h3>Pronunciation</h3>
@@ -7182,10 +6439,9 @@ Verbs compose a fundamental category of words in most languages.  In an English 
 <ul><li> v.</li>
 <li> copula</li>
 </ul>
-Category:English autological termsCategory:en:Parts of speechCategory:en:Verbs----
+Category:English autological termsCategory:en:Parts of speechCategory:en:Verbs---->>>
 ***wares***
-wares:
-
+HtmlEntry: wares <<<
 <h3>Pronunciation</h3>
 <ul><li> {{audio|en-us-wares.ogg|Audio (US)}}</li>
 <li> {{rhymes|ɛə(r)z}}</li>
@@ -7214,10 +6470,9 @@ wares:
 <li> swear</li>
 <li> wears</li>
 </ul>
-Category:English terms with homophonesfr:waresko:waresio:wareskn:wareshu:waresmy:waresnl:waresfi:wares
+Category:English terms with homophonesfr:waresko:waresio:wareskn:wareshu:waresmy:waresnl:waresfi:wares>>>
 ***Wednesday***
-Wednesday:
-{{wikipedia|wednesday|dab=wednesday (disambiguation)}}
+HtmlEntry: Wednesday <<<{{wikipedia|wednesday|dab=wednesday (disambiguation)}}
 <h3>Etymology</h3>
 From {{etyl|enm}} {{term|Wednesdai|lang=enm}}, {{term|Wodnesdei|lang=enm}}, from {{etyl|ang}} {{term|wodnesd&aelig;g|wōdnesd&aelig;ġ|Wednesday|lang=ang}}, from a Germanic calque of {{etyl|la}} {{term|dies|day|lang=la}} {{term|Mercurii|of Mercurii|lang=la}} and Koine {{etyl|grc|-}} {{term|ἡμέρα|day|tr=hemera|lang=grc}} {{term|Ἕρμου|of Hermes|lang=grc|tr=Hermou}}, via an association of the god Odin (Woden) with Mercury and Hermes.{{rel-top|additional etymological information}}
 <ul><li>Cognate with {{etyl|fy|-}} {{term|woansdei|Wednesday|lang=fy}}, {{etyl|nl|-}} {{term|woensdag|Wednesday|lang=nl}}, {{etyl|de|-}} dialectal {{term|Wodenstag|Wednesday|lang=de}}, {{etyl|da|-}} {{term|onsdag|Wednesday|lang=da}}, {{etyl|sv|-}} {{term|onsdag|Wednesday|lang=sv}}.</li>
@@ -7266,12 +6521,9 @@ From {{etyl|enm}} {{term|Wednesdai|lang=enm}}, {{term|Wodnesdei|lang=enm}}, from
 <h3>See also</h3>
 <ul><li> {{list|en|days of the week}}</li>
 </ul>
-af:Wednesdayast:Wednesdayaz:Wednesdaycs:Wednesdaycy:Wednesdayda:Wednesdayde:Wednesdayet:Wednesdayel:Wednesdayes:Wednesdayeo:Wednesdayeu:Wednesdayfr:Wednesdayfy:Wednesdayga:Wednesdaygl:Wednesdayko:Wednesdayhy:Wednesdayhr:Wednesdayio:Wednesdayid:Wednesdayit:Wednesdaykl:Wednesdaykn:Wednesdayka:Wednesdaykk:Wednesdayku:Wednesdaylo:Wednesdayla:Wednesdaylv:Wednesdaylt:Wednesdayhu:Wednesdaymg:Wednesdayml:Wednesdaymn:Wednesdaymy:Wednesdaynl:Wednesdayja:Wednesdayno:Wednesdaynn:Wednesdayoc:Wednesdaykm:Wednesdaypl:Wednesdaypt:Wednesdayro:Wednesdayru:Wednesdaysimple:Wednesdaysr:Wednesdayfi:Wednesdaysv:Wednesdayta:Wednesdayte:Wednesdaytg:Wednesdaytr:Wednesdayuk:Wednesdayvi:Wednesdayvo:Wednesdayzh:Wednesday
-===Wiktionary===
-Wiktionary:Public domain sources:
-The first fascicle of the Oxford English Dictionary was published in 1884, and it was published in fascicles until completion in 1928. Oxford English Dictionary is a great source of word history.Some scanned fascicles of Oxford English Dictionary under the title <em>A New English Dictionary on Historical Principles</em> by James A. H. Murray can be found at archive.org, as seen in [http://www.archive.org/search.php?query=creator%3A%22James%20A.%20H.%20Murray%22 works by James A. H. Murray]. They have been scanned by a person whose [http://lists.canonical.org/pipermail/kragen-tol/2005-October/000794.html letter of intent] can be seen, as well as his [http://lists.canonical.org/pipermail/kragen-tol/2006-March/000816.html progress] as of March 16 2006. He is scanning those fascicles published in the US before 1923, maybe because in the UK the copyright is [http://answers.google.com/answers/threadview?id=16644 extended to author's life + 70 years]. There seem to be no plain text files converted using OCR.The volume 1 of OED, 1884, is also avaliable at Fractionary, starting at [http://fraktionary.com/index.php/OED:1_1 OED:1_1], and ending at [http://fraktionary.com/index.php/OED:1_1240 OED:1_1240].
-Wiktionary:Entry layout explained:
-
+af:Wednesdayast:Wednesdayaz:Wednesdaycs:Wednesdaycy:Wednesdayda:Wednesdayde:Wednesdayet:Wednesdayel:Wednesdayes:Wednesdayeo:Wednesdayeu:Wednesdayfr:Wednesdayfy:Wednesdayga:Wednesdaygl:Wednesdayko:Wednesdayhy:Wednesdayhr:Wednesdayio:Wednesdayid:Wednesdayit:Wednesdaykl:Wednesdaykn:Wednesdayka:Wednesdaykk:Wednesdayku:Wednesdaylo:Wednesdayla:Wednesdaylv:Wednesdaylt:Wednesdayhu:Wednesdaymg:Wednesdayml:Wednesdaymn:Wednesdaymy:Wednesdaynl:Wednesdayja:Wednesdayno:Wednesdaynn:Wednesdayoc:Wednesdaykm:Wednesdaypl:Wednesdaypt:Wednesdayro:Wednesdayru:Wednesdaysimple:Wednesdaysr:Wednesdayfi:Wednesdaysv:Wednesdayta:Wednesdayte:Wednesdaytg:Wednesdaytr:Wednesdayuk:Wednesdayvi:Wednesdayvo:Wednesdayzh:Wednesday>>>
+***Wiktionary:Entry layout explained***
+HtmlEntry: Wiktionary:Entry layout explained <<<
 <h3>Noun</h3>
 {en-noun}
 <ol><li> A piece of furniture to sleep on.</li>
@@ -7283,9 +6535,8 @@ Wiktionary:Entry layout explained:
 </ul>
 &lt;/pre&gt;
 <h3>Variations for languages other than English</h3>
-Entries for terms in other languages should follow the standard format as closely as possible regardless of the language of the word. However, a translation into English should normally be given instead of a definition, including a gloss to indicate which meaning of the English translation is intended. Also, the translations section should be omitted.Some languages do have characteristics that require variation from the standard format.  For links to these variations see Wiktionary:Language considerations.
-Wiktionary:Entry layout explained:
-
+Entries for terms in other languages should follow the standard format as closely as possible regardless of the language of the word. However, a translation into English should normally be given instead of a definition, including a gloss to indicate which meaning of the English translation is intended. Also, the translations section should be omitted.Some languages do have characteristics that require variation from the standard format.  For links to these variations see Wiktionary:Language considerations.>>>
+HtmlEntry: Wiktionary:Entry layout explained <<<
 <h3>Alternative forms</h3>
 
 <h3>Etymology</h3>
@@ -7346,36 +6597,11 @@ Conjugation
 <h4>External links</h4>
 
 <h3>Anagrams</h3>
----- (Dividing line between languages)
-===wind===
-trade wind:
-
-<h3>Alternative forms</h3>
-<ul><li> trade-wind</li>
-</ul>
-
-<h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈtreɪdˑwɪnd/}}</li>
-</ul>
-
-<h3>Noun</h3>
-{{en-noun|sg=trade wind}}
-<ol><li> A steady wind that blows from east to west above and below the equator.</li>
-<ul><li> <em>They rode the <b>trade winds</b> going west.</em></li>
-</ul>
-</ol>
-
-<h4>Synonyms</h4>
-<ul><li> westerly</li>
-</ul>
-
-<h4>Antonyms</h4>
-<ul><li> easterly</li>
-</ul>
-Category:en:Windio:trade windja:trade windro:trade windfi:trade windta:trade windzh:trade wind
+---- (Dividing line between languages)>>>
+***Wiktionary:Public domain sources***
+HtmlEntry: Wiktionary:Public domain sources <<<The first fascicle of the Oxford English Dictionary was published in 1884, and it was published in fascicles until completion in 1928. Oxford English Dictionary is a great source of word history.Some scanned fascicles of Oxford English Dictionary under the title <em>A New English Dictionary on Historical Principles</em> by James A. H. Murray can be found at archive.org, as seen in [http://www.archive.org/search.php?query=creator%3A%22James%20A.%20H.%20Murray%22 works by James A. H. Murray]. They have been scanned by a person whose [http://lists.canonical.org/pipermail/kragen-tol/2005-October/000794.html letter of intent] can be seen, as well as his [http://lists.canonical.org/pipermail/kragen-tol/2006-March/000816.html progress] as of March 16 2006. He is scanning those fascicles published in the US before 1923, maybe because in the UK the copyright is [http://answers.google.com/answers/threadview?id=16644 extended to author's life + 70 years]. There seem to be no plain text files converted using OCR.The volume 1 of OED, 1884, is also avaliable at Fractionary, starting at [http://fraktionary.com/index.php/OED:1_1 OED:1_1], and ending at [http://fraktionary.com/index.php/OED:1_1240 OED:1_1240].>>>
 ***word***
-word:
-{{wikipedia|word|dab=word (disambiguation)}}
+HtmlEntry: word <<<{{wikipedia|word|dab=word (disambiguation)}}
 <h3>Etymology</h3>
 From {{etyl|enm}} {{term|word|lang=enm}}, from {{etyl|ang|en}} {{term|word|word, speech, sentence, statement, command, order, subject of talk, story, news, report, fame, promise, verb|lang=ang}}, from {{proto|Germanic|wurdan|word|lang=en}}, from {{proto|Indo-European|werdʰo-|word|lang=en}}. Cognate with {{etyl|sco|-}} {{term|word|word|lang=sco}}, {{etyl|fy|-}} {{term|wurd|word|lang=fy}}, {{etyl|nl|-}} {{term|woord|word|lang=nl}}, {{etyl|de|-}} {{term|Wort|word|lang=de}}, {{etyl|da|-}}, {{etyl|no|-}} and {{etyl|sv|-}} {{term|ord|word|lang=sv}}, {{etyl|is|-}} {{term|or&eth;|word|lang=is}}, {{etyl|la|-}} {{term|verbum|word|lang=la}}, {{etyl|lt|-}} {{term|vardas|name|lang=lt}}, Albanian {{term|urt&euml;|sage, wise, silent|lang=sq}}.
 <h3>Pronunciation</h3>
@@ -7575,9 +6801,8 @@ From {{etyl|enm}} {{term|word|lang=enm}}, from {{etyl|ang|en}} {{term|word|word,
 <h3>Anagrams</h3>
 <ul><li> drow</li>
 </ul>
-Category:1000 English basic wordsCategory:English autological termsCategory:en:CommunicationCategory:en:Semantics----
-word:
-
+Category:1000 English basic wordsCategory:English autological termsCategory:en:CommunicationCategory:en:Semantics---->>>
+HtmlEntry: word <<<
 <h3>Alternative forms</h3>
 <ul><li> ƿord</li>
 </ul>
@@ -7596,7 +6821,7 @@ From {{proto|Germanic|wurdan|lang=ang}}, from {{proto|Indo-European|werdʰo-|wor
 <li> news, information, rumour</li>
 <li> command, request</li>
 </ol>
-Category:ang:Grammar----
+Category:ang:Grammar---->>>
 
 Index: EN EN->EN
 

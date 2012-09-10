@@ -1,10 +1,9 @@
 dictInfo=SomeWikiDataWholeSection
-EntrySource: wiktionary.WholeSection.DE.quickdic 108
+EntrySource: wiktionary.WholeSection.DE.quickdic 0
 
 Index: DE DE->EN
 ***A***
-A:
-
+HtmlEntry: A <<<
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|/ʔaː/|lang=de}}</li>
 <li> {{audio|De-A.OGG|Audio}}</li>
@@ -26,10 +25,36 @@ A:
 </ul>
 </ul>
 </ol>
-----
+---->>>
 ***ab***
-ab-:
+HtmlEntry: ab <<<
+<h3>Etymology</h3>
+From {{etyl|goh|de}} {{term|ab|lang=goh}}, from {{proto|Germanic|ab|lang=de}}.
+<h3>Pronunciation</h3>
+<ul><li> {{IPA|/ap/|lang=de}}</li>
+</ul>
 
+<h3>Preposition</h3>
+{{head|de|preposition}}
+<ol><li> Beginning at that time or location; from.</li>
+<ul><li> <b><em>ab</b> heute verf&uuml;gbar</em> (available from today on)</li>
+</ul>
+</ol>
+
+<h4>Derived terms</h4>
+<ul><li> ab und zu</li>
+</ul>
+Category:2000 German basic words---->>>
+HtmlEntry: ab <<<
+<h3>Etymology</h3>
+From {{proto|Germanic|ab|lang=goh}}.
+<h3>Preposition</h3>
+{goh-prep}
+<ol><li> of</li>
+</ol>
+---->>>
+***ab-***
+HtmlEntry: ab- <<<
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|[ʔap]|lang=de}}</li>
 </ul>
@@ -96,38 +121,9 @@ ab-:
 <h4>See also</h4>
 <ul><li> ab</li>
 </ul>
-----
-ab:
-
-<h3>Etymology</h3>
-From {{etyl|goh|de}} {{term|ab|lang=goh}}, from {{proto|Germanic|ab|lang=de}}.
-<h3>Pronunciation</h3>
-<ul><li> {{IPA|/ap/|lang=de}}</li>
-</ul>
-
-<h3>Preposition</h3>
-{{head|de|preposition}}
-<ol><li> Beginning at that time or location; from.</li>
-<ul><li> <b><em>ab</b> heute verf&uuml;gbar</em> (available from today on)</li>
-</ul>
-</ol>
-
-<h4>Derived terms</h4>
-<ul><li> ab und zu</li>
-</ul>
-Category:2000 German basic words----
-ab:
-
-<h3>Etymology</h3>
-From {{proto|Germanic|ab|lang=goh}}.
-<h3>Preposition</h3>
-{goh-prep}
-<ol><li> of</li>
-</ol>
-----
+---->>>
 ***aberrant***
-aberrant:
-
+HtmlEntry: aberrant <<<
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-aberrant.ogg|Audio}}</li>
 </ul>
@@ -136,10 +132,9 @@ aberrant:
 {{de-adj|aberranter|aberrantesten}}
 <ol><li> aberrant</li>
 </ol>
-----
+---->>>
 ***abnormal***
-abnormal:
-
+HtmlEntry: abnormal <<<
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-abnormal.ogg|Audio}}</li>
 </ul>
@@ -148,10 +143,9 @@ abnormal:
 {{de-adj|comparative=abnormaler|superlative=abnormalsten}}
 <ol><li> {{l|en|abnormal}}</li>
 </ol>
-am:abnormalar:abnormalbe:abnormalcy:abnormalde:abnormalet:abnormalel:abnormales:abnormalfa:abnormalfr:abnormalgl:abnormalko:abnormalhi:abnormalio:abnormalid:abnormalit:abnormalkn:abnormalku:abnormalhu:abnormalml:abnormalms:abnormalmy:abnormalnl:abnormalja:abnormalno:abnormalps:abnormalpl:abnormalpt:abnormalru:abnormalsimple:abnormalfi:abnormalsv:abnormalta:abnormalte:abnormalth:abnormalchr:abnormaltr:abnormaluk:abnormalvi:abnormalvo:abnormalzh:abnormal
+am:abnormalar:abnormalbe:abnormalcy:abnormalde:abnormalet:abnormalel:abnormales:abnormalfa:abnormalfr:abnormalgl:abnormalko:abnormalhi:abnormalio:abnormalid:abnormalit:abnormalkn:abnormalku:abnormalhu:abnormalml:abnormalms:abnormalmy:abnormalnl:abnormalja:abnormalno:abnormalps:abnormalpl:abnormalpt:abnormalru:abnormalsimple:abnormalfi:abnormalsv:abnormalta:abnormalte:abnormalth:abnormalchr:abnormaltr:abnormaluk:abnormalvi:abnormalvo:abnormalzh:abnormal>>>
 ***abstinent***
-abstinent:
-
+HtmlEntry: abstinent <<<
 <h3>Adjective</h3>
 {{de-adj|comparative=abstinenter|superlative=abstinentesten}}
 <ol><li> abstinent</li>
@@ -161,10 +155,9 @@ abstinent:
 <ul><li> Abstinenz</li>
 <li> Abstinenzler</li>
 </ul>
-----
+---->>>
 ***Afghanistan***
-Afghanistan:
-{{wikipedia|lang=de}}
+HtmlEntry: Afghanistan <<<{{wikipedia|lang=de}}
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-Afghanistan.ogg|audio}}</li>
 </ul>
@@ -177,10 +170,9 @@ Afghanistan:
 <h4>Derived terms</h4>
 <ul><li> Afghane, Afghani, Afghanin, afghanisch</li>
 </ul>
-Category:German proper nounsCategory:de:Countries----
+Category:German proper nounsCategory:de:Countries---->>>
 ***also***
-also:
-
+HtmlEntry: also <<<
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-also.ogg|Audio}}</li>
 </ul>
@@ -195,10 +187,9 @@ also:
 <ol><li> so</li>
 <li> thus</li>
 </ol>
-Category:2000 German basic wordsCategory:German adverbsCategory:German interjections----
+Category:2000 German basic wordsCategory:German adverbsCategory:German interjections---->>>
 ***Andorra***
-Andorra:
-{{wikipedia|lang=de}}
+HtmlEntry: Andorra <<<{{wikipedia|lang=de}}
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-Andorra.ogg|Audio}}</li>
 </ul>
@@ -212,10 +203,9 @@ Andorra:
 <ul><li> Andorraner / Andorranerin</li>
 <li> andorranisch</li>
 </ul>
-Category:de:Countries----
+Category:de:Countries---->>>
 ***Angola***
-Angola:
-
+HtmlEntry: Angola <<<
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-Angola.ogg|Audio}}</li>
 </ul>
@@ -224,10 +214,9 @@ Angola:
 {{head|de|proper noun}}
 <ol><li> {{l|en|Angola}}</li>
 </ol>
-Category:de:Countries----
-===Appendix===
-Appendix:Proto-Germanic/frijaz:
-
+Category:de:Countries---->>>
+***Appendix:Proto-Germanic/frijaz***
+HtmlEntry: Appendix:Proto-Germanic/frijaz <<<
 <h3>Etymology</h3>
 From {{proto|ine-pro|prei-|lang=gem-pro}}, compare {{termx|frijōnan|to be fond of|lang=gem-pro}}. The original meaning was probably something like <em>from the own clan</em>, from which a meaning <em>being a free man, not a serf</em> developed.
 <h3>Pronunciation</h3>
@@ -271,12 +260,11 @@ From {{proto|ine-pro|prei-|lang=gem-pro}}, compare {{termx|frijōnan|to be fond 
 </ul>
 <li> Gothic: {{l|got|𐍆𐍂𐌴𐌹𐍃|tr=freis}}</li>
 </ul>
-
-Appendix:Swadesh lists:
-The words from Swadesh's original 100-word list are designated by an asterisk (*). In the composite list on this page, there are actually 207 words, since seven of the words in the 100-word list (<em>breast</em>, <em>fingernail</em>, <em>full</em>, <em>horn</em>, <em>knee</em>, <em>moon</em>, <em>round</em>) were not in the original 200-word list. {|  align=center class=&quot;wikitable sortable&quot;|  i=No | No!  c=en | English!  c=fr | French!  c=de | German!  c=it | Italian!  c=es | Spanish!  c=nl | Dutch!  c=sw | Swedish!  c=la | Latin|- |  i=No | 1|  c=en | I *|  c=fr | je|  c=de | ich|  c=it | io|  c=es | yo|  c=nl | ik|  c=sw | jag|  c=la | ego|- |  i=No | 2|  c=en | you <em>sing.</em>, thou|  c=fr | tu, vous (formal)|  c=de | du, Sie (formal)|  c=it | tu, Lei (formal)|  c=es | t&uacute;, usted (formal)|  c=nl | jij, je, U (formal)|  c=sw | du|  c=la | tu|- |  i=No | 3|  c=en | he|  c=fr | il|  c=de | er|  c=it | lui, egli|  c=es | &eacute;l|  c=nl | hij|  c=sw | han|  c=la | is, ea|- |  i=No | 4|  c=en | we *|  c=fr | nous|  c=de | wir|  c=it | noi|  c=es | nosotros|  c=nl | wij, we|  c=sw | vi|  c=la | nos|- |  i=No | 5|  c=en | you <em>pl.</em>|  c=fr | vous|  c=de | ihr, Sie (formal)|  c=it | voi|  c=es | vosotros, ustedes (formal)|  c=nl | jullie|  c=sw | ni|  c=la | vos|- |  i=No | 6|  c=en | they|  c=fr | ils, elles|  c=de | sie|  c=it | loro, essi|  c=es | ellos, ellas|  c=nl | zij, ze|  c=sw | de|  c=la | ii, eae|- |  i=No | 7|  c=en | this *|  c=fr | ceci|  c=de | dieses|  c=it | questo|  c=es | este|  c=nl | deze, dit|  c=sw | det h&auml;r|  c=la | hic, is|- |  i=No | 8|  c=en | that *|  c=fr | cela|  c=de | jenes, das|  c=it | quello|  c=es | ese, aquel|  c=nl | die, dat|  c=sw | det d&auml;r|  c=la | ille|- |  i=No | 9|  c=en | here|  c=fr | ici|  c=de | hier|  c=it | qui, qua|  c=es | aqu&iacute;, ac&aacute;|  c=nl | hier|  c=sw | h&auml;r|  c=la | hic|- |  i=No | 10|  c=en | there|  c=fr | l&agrave;|  c=de | dort|  c=it | l&agrave;|  c=es | ah&iacute;, all&iacute;, all&aacute;|  c=nl | daar|  c=sw | d&auml;r|  c=la | ibi|- |  i=No | 11|  c=en | who *|  c=fr | qui|  c=de | wer|  c=it | chi|  c=es | quien|  c=nl | wie|  c=sw | vem|  c=la | quis|- |  i=No | 12|  c=en | what *|  c=fr | quoi|  c=de | was|  c=it | che|  c=es | que|  c=nl | wat|  c=sw | vad|  c=la | quid|- |  i=No | 13|  c=en | where|  c=fr | o&ugrave;|  c=de | wo|  c=it | dove|  c=es | donde|  c=nl | waar|  c=sw | var|  c=la | ubi|- |  i=No | 14|  c=en | when|  c=fr | quand|  c=de | wann|  c=it | quando|  c=es | cuando|  c=nl | wanneer|  c=sw | n&auml;r|  c=la | quando|- |  i=No | 15|  c=en | how|  c=fr | comment|  c=de | wie|  c=it | come|  c=es | como|  c=nl | hoe|  c=sw | hur|  c=la | quam, quomodo|- |  i=No | 16|  c=en | not *|  c=fr | ne...pas|  c=de | nicht|  c=it | non|  c=es | no|  c=nl | niet|  c=sw | inte, ej|  c=la | non|- |  i=No | 17|  c=en | all *|  c=fr | tout|  c=de | alle|  c=it | tutto|  c=es | todo|  c=nl | al, alle|  c=sw | alla|  c=la | omnis|- |  i=No | 18|  c=en | many *|  c=fr | plusieurs|  c=de | viele|  c=it | molti|  c=es | muchos|  c=nl | veel|  c=sw | m&aring;nga|  c=la | multi|- |  i=No | 19|  c=en | some|  c=fr | quelques|  c=de | einige|  c=it | alcuni|  c=es | algunos, unos|  c=nl | enkele, sommige|  c=sw | n&aring;gra, vissa|  c=la | aliqui, aliquot|- |  i=No | 20|  c=en | few|  c=fr | peu|  c=de | wenige|  c=it | pochi|  c=es | poco|  c=nl | weinig|  c=sw | f&aring;|  c=la | pauci|- |  i=No | 21|  c=en | other|  c=fr | autre|  c=de | andere|  c=it | altro|  c=es | otro|  c=nl | ander|  c=sw | annan|  c=la | alter, alius|- |  i=No | 22|  c=en | one *|  c=fr | un|  c=de | eins|  c=it | uno|  c=es | uno|  c=nl | een|  c=sw | ett|  c=la | unus|- |  i=No | 23|  c=en | two *|  c=fr | deux|  c=de | zwei|  c=it | due|  c=es | dos|  c=nl | twee|  c=sw | tv&aring;|  c=la | duo|- |  i=No | 24|  c=en | three|  c=fr | trois|  c=de | drei|  c=it | tre|  c=es | tres|  c=nl | drie|  c=sw | tre|  c=la | tres|- |  i=No | 25|  c=en | four|  c=fr | quatre|  c=de | vier|  c=it | quattro|  c=es | cuatro|  c=nl | vier|  c=sw | fyra|  c=la | quattuor|- |  i=No | 26|  c=en | five|  c=fr | cinq|  c=de | f&uuml;nf|  c=it | cinque|  c=es | cinco|  c=nl | vijf|  c=sw | fem|  c=la | quinque|- |  i=No | 27|  c=en | big *|  c=fr | grand|  c=de | gro&szlig;|  c=it | grande|  c=es | grande|  c=nl | groot|  c=sw | stor|  c=la | magnus, grandis|- |  i=No | 28|  c=en | long *|  c=fr | long|  c=de | lang|  c=it | lungo|  c=es | largo|  c=nl | lang|  c=sw | l&aring;ng|  c=la | longus|- |  i=No | 29|  c=en | wide|  c=fr | large|  c=de | breit, weit|  c=it | largo|  c=es | ancho|  c=nl | breed, wijd|  c=sw | bred, vid|  c=la | latus|- |  i=No | 30|  c=en | thick|  c=fr | &eacute;pais|  c=de | dick|  c=it | spesso|  c=es | grueso|  c=nl | dik|  c=sw | tjock|  c=la | creber|- |  i=No | 31|  c=en | heavy|  c=fr | lourd|  c=de | schwer|  c=it | pesante|  c=es | pesado|  c=nl | zwaar|  c=sw | tung|  c=la | gravis|- |  i=No | 32|  c=en | small *|  c=fr | petit|  c=de | klein|  c=it | piccolo|  c=es | peque&ntilde;o|  c=nl | smal|  c=sw | liten|  c=la | parvus|- |  i=No | 33|  c=en | short|  c=fr | court|  c=de | kurz|  c=it | corto|  c=es | corto|  c=nl | kort|  c=sw | kort|  c=la | brevis|- |  i=No | 34|  c=en | narrow|  c=fr | &eacute;troit|  c=de | eng|  c=it | stretto|  c=es | estrecho, angosto|  c=nl | klein|  c=sw | tr&aring;ng|  c=la | angustus|- |  i=No | 35|  c=en | thin|  c=fr | mince|  c=de | d&uuml;nn|  c=it | sottile|  c=es | delgado, flaco|  c=nl | dun|  c=sw | tunn|  c=la | macer|- |  i=No | 36|  c=en | woman *|  c=fr | femme|  c=de | Frau|  c=it | donna|  c=es | mujer|  c=nl | vrouw|  c=sw | kvinna|  c=la | femina|- |  i=No | 37|  c=en | man (adult male)|  c=fr | homme|  c=de | Mann|  c=it | uomo|  c=es | hombre|  c=nl | man|  c=sw | man|  c=la | vir|- |  i=No | 38|  c=en | man * (human being)|  c=fr | homme|  c=de | Mensch|  c=it | uomo|  c=es | hombre|  c=nl | mens|  c=sw | m&auml;nniska|  c=la | homo|- |  i=No | 39|  c=en | kid|  c=fr | enfant|  c=de | Kind|  c=it | bambino|  c=es | ni&ntilde;o|  c=nl | kind|  c=sw | barn|  c=la | puer|- |  i=No | 40|  c=en | wife|  c=fr | femme, &eacute;pouse|  c=de | Frau, Ehefrau|  c=it | moglie|  c=es | esposa, mujer|  c=nl | vrouw, echtgenote|  c=sw | hustru, maka, fru|  c=la | uxor, mulier|- |  i=No | 41|  c=en | husband|  c=fr | mari, &eacute;poux|  c=de | Mann, Ehemann|  c=it | marito|  c=es | esposo, marido|  c=nl | man, echtgenoot|  c=sw | man, make|  c=la | maritus|- |  i=No | 42|  c=en | mother|  c=fr | m&egrave;re|  c=de | Mutter|  c=it | madre|  c=es | madre|  c=nl | moeder|  c=sw | mamma, mor|  c=la | mater|- |  i=No | 43|  c=en | father|  c=fr | p&egrave;re|  c=de | Vater|  c=it | padre|  c=es | padre|  c=nl | vader|  c=sw | pappa, far|  c=la | pater|- |  i=No | 44|  c=en | animal|  c=fr | animal|  c=de | Tier|  c=it | animale|  c=es | animal|  c=nl | dier|  c=sw | djur|  c=la | animal|- |  i=No | 45|  c=en | fish *|  c=fr | poisson|  c=de | Fisch|  c=it | pesce|  c=es | pez, pescado|  c=nl | vis|  c=sw | fisk|  c=la | piscis|- |  i=No | 46|  c=en | bird *|  c=fr | oiseau|  c=de | Vogel|  c=it | uccello|  c=es | ave, p&aacute;jaro|  c=nl | vogel|  c=sw | f&aring;gel|  c=la | avis|- |  i=No | 47|  c=en | hound *|  c=fr | chien|  c=de | Hund|  c=it | cane|  c=es | perro|  c=nl | hond|  c=sw | hund|  c=la | canis|- |  i=No | 48|  c=en | louse *|  c=fr | pou|  c=de | Laus|  c=it | pidocchio|  c=es | piojo|  c=nl | luis|  c=sw | lus|  c=la | pedis|- |  i=No | 49|  c=en | snake|  c=fr | serpent|  c=de | Schlange|  c=it | serpente|  c=es | serpiente, culebra|  c=nl | slang|  c=sw | orm|  c=la | serpens|- |  i=No | 50|  c=en | worm|  c=fr | ver|  c=de | Wurm|  c=it | verme|  c=es | gusano|  c=nl | worm|  c=sw | mask|  c=la | vermis|- |  i=No | 51|  c=en | beam *|  c=fr | arbre|  c=de | Baum|  c=it | albero|  c=es | &aacute;rbol|  c=nl | boom|  c=sw | tr&auml;d|  c=la | arbor|- |  i=No | 52|  c=en | forest|  c=fr | for&ecirc;t|  c=de | Wald|  c=it | foresta|  c=es | bosque|  c=nl | woud|  c=sw | skog|  c=la | silva|- |  i=No | 53|  c=en | stick|  c=fr | b&acirc;ton|  c=de | Stock|  c=it | bastone|  c=es | palo|  c=nl | stok|  c=sw | pinne|  c=la | fustis|- |  i=No | 54|  c=en | fruit|  c=fr | fruit|  c=de | Frucht|  c=it | frutta|  c=es | fruta|  c=nl | fruit, vrucht|  c=sw | frukt|  c=la | fructus|- |  i=No | 55|  c=en | seed *|  c=fr | graine|  c=de | Samen|  c=it | seme|  c=es | semilla|  c=nl | zaad|  c=sw | fr&ouml;|  c=la | semen|- |  i=No | 56|  c=en | leaf *|  c=fr | feuille|  c=de | Blatt|  c=it | foglia|  c=es | hoja|  c=nl | blad|  c=sw | l&ouml;v, blad|  c=la | folium|- |  i=No | 57|  c=en | root *|  c=fr | racine|  c=de | Wurzel|  c=it | radice|  c=es | ra&iacute;z|  c=nl | root|  c=sw | rot|  c=la | radix|- |  i=No | 58|  c=en | bark * (from tree)|  c=fr | &eacute;corce|  c=de | Rinde|  c=it | corteccia|  c=es | corteza|  c=nl | bark|  c=sw | bark|  c=la | cortex|- |  i=No | 59|  c=en | flower|  c=fr | fleur|  c=de | Blume|  c=it | fiore|  c=es | flor|  c=nl | bloem|  c=sw | blomma|  c=la | flos|- |  i=No | 60|  c=en | grass|  c=fr | herbe|  c=de | Gras|  c=it | erba|  c=es | hierba, pasto|  c=nl | gras|  c=sw | gr&auml;s|  c=la | herba|- |  i=No | 61|  c=en | rope|  c=fr | corde|  c=de | Seil|  c=it | corda|  c=es | cuerda|  c=nl | reep, koord|  c=sw | rep|  c=la | funis|- |  i=No | 62|  c=en | skin *|  c=fr | peau|  c=de | Haut|  c=it | pelle|  c=es | piel|  c=nl | huid|  c=sw | hud|  c=la | cutis|- |  i=No | 63|  c=en | meat|  c=fr | viande|  c=de | Fleisch|  c=it | carne|  c=es | carne|  c=nl | vlees|  c=sw | k&ouml;tt|  c=la | caro|- |  i=No | 64|  c=en | blood *|  c=fr | sang|  c=de | Blut|  c=it | sangue|  c=es | sangre|  c=nl | bloed|  c=sw | blod|  c=la | sanguis|- |  i=No | 65|  c=en | bone *|  c=fr | os|  c=de | Knochen|  c=it | osso|  c=es | hueso|  c=nl | been, bot|  c=sw | ben|  c=la | os|- |  i=No | 66|  c=en | fat * (n.)|  c=fr | graisse|  c=de | Fett|  c=it | grasso|  c=es | grasa|  c=nl | vet|  c=sw | fett|  c=la | adeps|- |  i=No | 67|  c=en | egg *|  c=fr | œuf|  c=de | Ei|  c=it | uovo|  c=es | huevo|  c=nl | ei|  c=sw | &auml;gg|  c=la | ovum|- |  i=No | 68|  c=en | horn *|  c=fr | corne|  c=de | Horn|  c=it | corno|  c=es | cuerno|  c=nl | horn|  c=sw | horn|  c=la | cornu|- |  i=No | 69|  c=en | tail *|  c=fr | queue|  c=de | Schwanz|  c=it | coda|  c=es | cola|  c=nl | staart|  c=sw | svans|  c=la | cauda|- |  i=No | 70|  c=en | feather *|  c=fr | plume|  c=de | Feder|  c=it | piuma|  c=es | pluma|  c=nl | veder|  c=sw | fj&auml;der|  c=la | penna|- |  i=No | 71|  c=en | hair *|  c=fr | cheveu|  c=de | Haar|  c=it | capelli|  c=es | cabello, pelo|  c=nl | haar|  c=sw | h&aring;r|  c=la | capillus, coma, crinis|- |  i=No | 72|  c=en | head *|  c=fr | t&ecirc;te|  c=de | Kopf, Haupt|  c=it | testa|  c=es | cabeza|  c=nl | hoofd, kop|  c=sw | huvud|  c=la | caput|- |  i=No | 73|  c=en | ear *|  c=fr | oreille|  c=de | Ohr|  c=it | orecchio|  c=es | oreja|  c=nl | aar|  c=sw | &ouml;ra|  c=la | auris|- |  i=No | 74|  c=en | eye *|  c=fr | œil|  c=de | Auge|  c=it | occhio|  c=es | ojo|  c=nl | oog|  c=sw | &ouml;ga|  c=la | oculus|- |  i=No | 75|  c=en | nose *|  c=fr | nez|  c=de | Nase|  c=it | naso|  c=es | nariz|  c=nl | neus|  c=sw | n&auml;sa|  c=la | nasus|- |  i=No | 76|  c=en | mouth *|  c=fr | bouche|  c=de | Mund|  c=it | bocca|  c=es | boca|  c=nl | mond|  c=sw | mun|  c=la | os|- |  i=No | 77|  c=en | tooth *|  c=fr | dent|  c=de | Zahn|  c=it | dente|  c=es | diente|  c=nl | tand|  c=sw | tand|  c=la | dens|- |  i=No | 78|  c=en | tongue *|  c=fr | langue|  c=de | Zunge|  c=it | lingua|  c=es | lengua|  c=nl | tong|  c=sw | tunga|  c=la | lingua|- |  i=No | 79|  c=en | fingernail|  c=fr | ongle|  c=de | Fingernagel|  c=it | unghia|  c=es | u&ntilde;a|  c=nl | vingernagel|  c=sw | nagel|  c=la | unguis|- |  i=No | 80|  c=en | foot *|  c=fr | pied|  c=de | Fu&szlig;|  c=it | piede|  c=es | pie|  c=nl | voet|  c=sw | fot|  c=la | pes|- |  i=No | 81|  c=en | leg|  c=fr | jambe|  c=de | Bein|  c=it | gamba|  c=es | pierna|  c=nl | been|  c=sw | ben|  c=la | crus|- |  i=No | 82|  c=en | knee *|  c=fr | genou|  c=de | Knie|  c=it | ginocchio|  c=es | rodilla|  c=nl | knie|  c=sw | kn&auml;|  c=la | genu|- |  i=No | 83|  c=en | hand *|  c=fr | main|  c=de | Hand|  c=it | mano|  c=es | mano|  c=nl | hand|  c=sw | hand|  c=la | manus|- |  i=No | 84|  c=en | wing|  c=fr | aile|  c=de | Fl&uuml;gel|  c=it | ala|  c=es | ala|  c=nl | vleugel|  c=sw | vinge|  c=la | ala|- |  i=No | 85|  c=en | belly *|  c=fr | ventre|  c=de | Bauch|  c=it | pancia|  c=es | barriga, vientre, panza|  c=nl | buik|  c=sw | mage|  c=la | venter|- |  i=No | 86|  c=en | guts|  c=fr | entrailles|  c=de | Eingeweide, Innereien|  c=it | intestino|  c=es | entra&ntilde;as, tripas|  c=nl | ingewanden|  c=sw | in&auml;lvor|  c=la | intestina|- |  i=No | 87|  c=en | neck *|  c=fr | cou|  c=de | Hals|  c=it | collo|  c=es | cuello|  c=nl | nek|  c=sw | hals, nacke|  c=la | collum, cervix|- |  i=No | 88|  c=en | back|  c=fr | dos|  c=de | R&uuml;cken|  c=it | schiena|  c=es | espalda|  c=nl | rug|  c=sw | rygg|  c=la | tergum|- |  i=No | 89|  c=en | breast *|  c=fr | sein, poitrine|  c=de | Brust|  c=it | petto|  c=es | pecho, seno|  c=nl | borst|  c=sw | br&ouml;st|  c=la | pectus, mamma|- |  i=No | 90|  c=en | heart *|  c=fr | cœur|  c=de | Herz|  c=it | cuore|  c=es | coraz&oacute;n|  c=nl | hart|  c=sw | hj&auml;rta|  c=la | cor|- |  i=No | 91|  c=en | liver *|  c=fr | foie|  c=de | Leber|  c=it | fegato|  c=es | h&iacute;gado|  c=nl | lever|  c=sw | lever|  c=la | iecur|- |  i=No | 92|  c=en | drink *|  c=fr | boire|  c=de | trinken|  c=it | bere|  c=es | beber, tomar|  c=nl | drinken|  c=sw | dricka|  c=la | bibere|- |  i=No | 93|  c=en | eat *|  c=fr | manger|  c=de | essen|  c=it | mangiare|  c=es | comer|  c=nl | eten|  c=sw | &auml;ta|  c=la | edere|- |  i=No | 94|  c=en | bite *|  c=fr | mordre|  c=de | bei&szlig;en|  c=it | mordere|  c=es | morder|  c=nl | bijten|  c=sw | bita|  c=la | mordere|- |  i=No | 95|  c=en | suck|  c=fr | sucer|  c=de | saugen|  c=it | succhiare|  c=es | chupar|  c=nl | zuigen|  c=sw | suga|  c=la | sugere|- |  i=No | 96|  c=en | spit|  c=fr | cracher|  c=de | spucken|  c=it | sputare|  c=es | escupir|  c=nl | spugen|  c=sw | spotta|  c=la | sputare|- |  i=No | 97|  c=en | vomit|  c=fr | vomir|  c=de | erbrechen|  c=it | vomitare|  c=es | vomitar|  c=nl | braken, overgeven|  c=sw | kr&auml;kas, spy|  c=la | vomere|- |  i=No | 98|  c=en | blow|  c=fr | souffler|  c=de | blasen|  c=it | soffiare|  c=es | soplar|  c=nl | blazen|  c=sw | bl&aring;sa|  c=la | flare|- |  i=No | 99|  c=en | breathe|  c=fr | respirer|  c=de | atmen|  c=it | respirare|  c=es | respirar|  c=nl | ademen|  c=sw | andas|  c=la | spirare|- |  i=No | 100|  c=en | laugh|  c=fr | rire|  c=de | lachen|  c=it | ridere|  c=es | re&iacute;r|  c=nl | lachen|  c=sw | skratta|  c=la | ridere|- |  i=No | 101|  c=en | see *|  c=fr | voir|  c=de | sehen|  c=it | vedere|  c=es | ver|  c=nl | zien|  c=sw | se|  c=la | videre|- |  i=No | 102|  c=en | hear *|  c=fr | entendre|  c=de | h&ouml;ren|  c=it | udire, sentire|  c=es | o&iacute;r|  c=nl | horen|  c=sw | h&ouml;ra|  c=la | audire|- |  i=No | 103|  c=en | know * (a fact)|  c=fr | savoir|  c=de | wissen|  c=it | sapere|  c=es | saber|  c=nl | kennen|  c=sw | veta|  c=la | scire|- |  i=No | 104|  c=en | think|  c=fr | penser|  c=de | denken|  c=it | pensare|  c=es | pensar|  c=nl | denken|  c=sw | t&auml;nka|  c=la | putare|- |  i=No | 105|  c=en | smell|  c=fr | sentir|  c=de | riechen|  c=it | odorare, annusare|  c=es | oler|  c=nl | smelten|  c=sw | lukta|  c=la | olere|- |  i=No | 106|  c=en | fear|  c=fr | craindre, avoir peur|  c=de | f&uuml;rchten|  c=it | temere|  c=es | temer|  c=nl | vrezen, angst|  c=sw | frukta, r&auml;das|  c=la | timere|- |  i=No | 107|  c=en | sleep *|  c=fr | dormir|  c=de | schlafen|  c=it | dormire|  c=es | dormir|  c=nl | slapen|  c=sw | sova|  c=la | dormire|- |  i=No | 108|  c=en | live|  c=fr | vivre|  c=de | leben|  c=it | vivere|  c=es | vivir|  c=nl | leven|  c=sw | leva|  c=la | vivere|- |  i=No | 109|  c=en | die *|  c=fr | mourir|  c=de | sterben|  c=it | morire|  c=es | morir|  c=nl | doden|  c=sw | d&ouml;|  c=la | mori|- |  i=No | 110|  c=en | kill *|  c=fr | tuer|  c=de | t&ouml;ten|  c=it | uccidere|  c=es | matar|  c=nl | doden|  c=sw | d&ouml;da|  c=la | necare|- |  i=No | 111|  c=en | fight|  c=fr | se battre|  c=de | k&auml;mpfen|  c=it | combattere|  c=es | pelear|  c=nl | vechten|  c=sw | strida|  c=la | pugnare|- |  i=No | 112|  c=en | hunt|  c=fr | chasser|  c=de | jagen|  c=it | cacciare|  c=es | cazar|  c=nl | jagen|  c=sw | jaga|  c=la | venari|- |  i=No | 113|  c=en | hit|  c=fr | frapper|  c=de | schlagen|  c=it | colpire|  c=es | golpear|  c=nl | slaan|  c=sw | sl&aring;|  c=la | pellere|- |  i=No | 114|  c=en | cut|  c=fr | couper|  c=de | schneiden|  c=it | tagliare|  c=es | cortar|  c=nl | snijden|  c=sw | sk&auml;ra|  c=la | secare|- |  i=No | 115|  c=en | split|  c=fr | fendre|  c=de | spalten|  c=it | dividere, separare|  c=es | partir|  c=nl | splijten|  c=sw | dela, klyva|  c=la | scindere, partiri|- |  i=No | 116|  c=en | stab|  c=fr | poignarder|  c=de | stechen|  c=it | pugnalare|  c=es | apu&ntilde;alar|  c=nl | steken|  c=sw | sticka|  c=la | traicere|- |  i=No | 117|  c=en | scratch|  c=fr | gratter|  c=de | kratzen|  c=it | graffiare|  c=es | ara&ntilde;ar, rascar|  c=nl | krabben|  c=sw | klia|  c=la | radere|- |  i=No | 118|  c=en | dig|  c=fr | creuser|  c=de | graben|  c=it | scavare|  c=es | cavar|  c=nl | delven|  c=sw | gr&auml;va|  c=la | fodere|- |  i=No | 119|  c=en | swim *|  c=fr | nager|  c=de | schwimmen|  c=it | nuotare|  c=es | nadar|  c=nl | zwemmen|  c=sw | simma|  c=la | natare|- |  i=No | 120|  c=en | fly * (v.)|  c=fr | voler|  c=de | fliegen|  c=it | volare|  c=es | volar|  c=nl | vliegen|  c=sw | flyga|  c=la | volare|- |  i=No | 121|  c=en | walk *|  c=fr | marcher|  c=de | gehen|  c=it | camminare|  c=es | caminar|  c=nl | lopen, wandelen|  c=sw | g&aring;|  c=la | gradi|- |  i=No | 122|  c=en | come *|  c=fr | venir|  c=de | kommen|  c=it | venire|  c=es | venir|  c=nl | komen|  c=sw | komma|  c=la | venire|- |  i=No | 123|  c=en | lie *|  c=fr | s'&eacute;tendre|  c=de | liegen|  c=it | distendersi|  c=es | echarse, acostarse, tenderse|  c=nl | liegen|  c=sw | ligga|  c=la | iacere|- |  i=No | 124|  c=en | sit *|  c=fr | s'asseoir|  c=de | setzen|  c=it | sedere|  c=es | sentarse|  c=nl | zitten|  c=sw | sitta|  c=la | sedere|- |  i=No | 125|  c=en | stand *|  c=fr | se lever|  c=de | stehen|  c=it | stare in piedi|  c=es | estar de pie|  c=nl | staan|  c=sw | st&aring;|  c=la | stare|- |  i=No | 126|  c=en | turn|  c=fr | tourner|  c=de | drehen|  c=it | girare|  c=es | voltear|  c=nl | draaien|  c=sw | sv&auml;nga|  c=la | vertere|- |  i=No | 127|  c=en | fall|  c=fr | tomber|  c=de | fallen|  c=it | cadere|  c=es | caer|  c=nl | vallen|  c=sw | falla|  c=la | cadere|- |  i=No | 128|  c=en | give *|  c=fr | donner|  c=de | geben|  c=it | dare|  c=es | dar|  c=nl | geven|  c=sw | ge|  c=la | dare|- |  i=No | 129|  c=en | hold|  c=fr | tenir|  c=de | halten|  c=it | tenere|  c=es | sostener|  c=nl | houden|  c=sw | h&aring;lla|  c=la | tenere|- |  i=No | 130|  c=en | squeeze|  c=fr | serrer|  c=de | quetschen|  c=it | spremere|  c=es | apretar|  c=nl | knijpen|  c=sw | kl&auml;mma|  c=la | premere|- |  i=No | 131|  c=en | rub|  c=fr | frotter|  c=de | reiben|  c=it | strofinare|  c=es | frotar, restregar|  c=nl | wrijven|  c=sw | gnida|  c=la | fricare|- |  i=No | 132|  c=en | wash|  c=fr | laver|  c=de | waschen|  c=it | lavare|  c=es | lavar|  c=nl | wassen|  c=sw | tv&auml;tta|  c=la | lavare|- |  i=No | 133|  c=en | wipe|  c=fr | essuyer|  c=de | wischen|  c=it | asciugare|  c=es | limpiar|  c=nl | vegen|  c=sw | rensa|  c=la | tergere|- |  i=No | 134|  c=en | pull|  c=fr | tirer|  c=de | ziehen|  c=it | tirare|  c=es | tirar|  c=nl | trekken|  c=sw | dra|  c=la | trahere|- |  i=No | 135|  c=en | push|  c=fr | pousser|  c=de | dr&uuml;cken|  c=it | spingere|  c=es | empujar|  c=nl | duwen|  c=sw | trycka|  c=la | pellere, urgere|- |  i=No | 136|  c=en | throw|  c=fr | jeter|  c=de | werfen|  c=it | tirare|  c=es | tirar|  c=nl | werpen, gooien|  c=sw | kasta|  c=la | iacere|- |  i=No | 137|  c=en | tie|  c=fr | lier|  c=de | binden|  c=it | legare|  c=es | atar|  c=nl | binden|  c=sw | knyta, binda|  c=la | stringere, ligare|- |  i=No | 138|  c=en | sew|  c=fr | coudre|  c=de | n&auml;hen|  c=it | cucire|  c=es | coser|  c=nl | naaien|  c=sw | sy|  c=la | suere|- |  i=No | 139|  c=en | count|  c=fr | compter|  c=de | z&auml;hlen|  c=it | contare|  c=es | contar|  c=nl | tellen|  c=sw | r&auml;kna|  c=la | numerare|- |  i=No | 140|  c=en | say *|  c=fr | dire|  c=de | sagen|  c=it | dire|  c=es | decir|  c=nl | zeggen|  c=sw | s&auml;ga|  c=la | dicere|- |  i=No | 141|  c=en | sing|  c=fr | chanter|  c=de | singen|  c=it | cantare|  c=es | cantar|  c=nl | zingen|  c=sw | sjunga|  c=la | canere|- |  i=No | 142|  c=en | play|  c=fr | jouer|  c=de | spielen|  c=it | giocare|  c=es | jugar|  c=nl | spelen|  c=sw | leka, spela|  c=la | ludere|- |  i=No | 143|  c=en | float|  c=fr | flotter|  c=de | schweben|  c=it | galleggiare|  c=es | flotar|  c=nl | zweven|  c=sw | flyta|  c=la | fluctuare|- |  i=No | 144|  c=en | flow|  c=fr | couler|  c=de | flie&szlig;en|  c=it | fluire|  c=es | fluir|  c=nl | vloeien|  c=sw | rinna|  c=la | fluere|- |  i=No | 145|  c=en | freeze|  c=fr | geler|  c=de | frieren|  c=it | gelare|  c=es | helar|  c=nl | vriezen|  c=sw | frysa|  c=la | gelare|- |  i=No | 146|  c=en | swell|  c=fr | gonfler|  c=de | schwellen|  c=it | gonfiare|  c=es | hincharse|  c=nl | zwellen|  c=sw | sv&auml;lla|  c=la | inflare|- |  i=No | 147|  c=en | sun *|  c=fr | soleil|  c=de | Sonne|  c=it | sole|  c=es | sol|  c=nl | zon|  c=sw | sol|  c=la | sol|- |  i=No | 148|  c=en | moon *|  c=fr | lune|  c=de | Mond|  c=it | luna|  c=es | luna|  c=nl | maan|  c=sw | m&aring;ne|  c=la | luna|- |  i=No | 149|  c=en | star *|  c=fr | &eacute;toile|  c=de | Stern|  c=it | stella|  c=es | estrella|  c=nl | ster|  c=sw | stj&auml;rna|  c=la | stella|- |  i=No | 150|  c=en | water *|  c=fr | eau|  c=de | Wasser|  c=it | acqua|  c=es | agua|  c=nl | water|  c=sw | vatten|  c=la | aqua|- |  i=No | 151|  c=en | rain *|  c=fr | pluie|  c=de | Regen|  c=it | pioggia|  c=es | lluvia|  c=nl | regen|  c=sw | regn|  c=la | pluvia|- |  i=No | 152|  c=en | river|  c=fr | rivi&egrave;re|  c=de | Flu&szlig;|  c=it | fiume|  c=es | r&iacute;o|  c=nl | rivier|  c=sw | flod|  c=la | fluvius|- |  i=No | 153|  c=en | lake|  c=fr | lac|  c=de | See|  c=it | lago|  c=es | lago|  c=nl | lak|  c=sw | sj&ouml;|  c=la | lacus|- |  i=No | 154|  c=en | sea|  c=fr | mer|  c=de | Meer, See|  c=it | mare|  c=es | mar|  c=nl | zee|  c=sw | hav|  c=la | mare|- |  i=No | 155|  c=en | salt|  c=fr | sel|  c=de | Salz|  c=it | sale|  c=es | sal|  c=nl | zout|  c=sw | salt|  c=la | sal|- |  i=No | 156|  c=en | stone *|  c=fr | pierre|  c=de | Stein|  c=it | pietra|  c=es | piedra|  c=nl | steen|  c=sw | sten|  c=la | lapis, petra|- |  i=No | 157|  c=en | sand *|  c=fr | sable|  c=de | Sand|  c=it | sabbia|  c=es | arena|  c=nl | zand|  c=sw | sand|  c=la | arena|- |  i=No | 158|  c=en | dust|  c=fr | poussi&egrave;re|  c=de | Staub|  c=it | polvere|  c=es | polvo|  c=nl | stof|  c=sw | damm|  c=la | pulvis|- |  i=No | 159|  c=en | earth *|  c=fr | terre|  c=de | Erde|  c=it | terra|  c=es | tierra|  c=nl | aarde|  c=sw | jord|  c=la | terra|- |  i=No | 160|  c=en | cloud *|  c=fr | nuage|  c=de | Wolke|  c=it | nuvola|  c=es | nube|  c=nl | wolk|  c=sw | moln|  c=la | nimbus, nubes|- |  i=No | 161|  c=en | fog|  c=fr | brouillard|  c=de | Nebel|  c=it | nebbia|  c=es | niebla|  c=nl | mist, nevel|  c=sw | dimma|  c=la | caligo, nebula|- |  i=No | 162|  c=en | sky|  c=fr | ciel|  c=de | Himmel|  c=it | cielo|  c=es | cielo|  c=nl | lucht|  c=sw | himmel|  c=la | caelum|- |  i=No | 163|  c=en | wind|  c=fr | vent|  c=de | Wind|  c=it | vento|  c=es | viento|  c=nl | wind|  c=sw | vind|  c=la | ventus|- |  i=No | 164|  c=en | snow|  c=fr | neige|  c=de | Schnee|  c=it | neve|  c=es | nieve|  c=nl | sneeuw|  c=sw | sn&ouml;|  c=la | nix|- |  i=No | 165|  c=en | ice|  c=fr | glace|  c=de | Eis|  c=it | ghiaccio|  c=es | hielo|  c=nl | ijs|  c=sw | is|  c=la | glacies|- |  i=No | 166|  c=en | smoke *|  c=fr | fum&eacute;e|  c=de | Rauch|  c=it | fumo|  c=es | humo|  c=nl | rook|  c=sw | r&ouml;k|  c=la | fumus|- |  i=No | 167|  c=en | fire *|  c=fr | feu|  c=de | Feuer|  c=it | fuoco|  c=es | fuego|  c=nl | vuur|  c=sw | eld|  c=la | ignis|- |  i=No | 168|  c=en | ashes *|  c=fr | cendres|  c=de | Asche|  c=it | ceneri|  c=es | cenizas|  c=nl | as|  c=sw | aska|  c=la | cineres|- |  i=No | 169|  c=en | burn *|  c=fr | br&ucirc;ler|  c=de | brennen|  c=it | bruciare|  c=es | quemar|  c=nl | branden|  c=sw | brinna|  c=la | ardere|- |  i=No | 170|  c=en | road *|  c=fr | route|  c=de | Stra&szlig;e|  c=it | strada|  c=es | camino|  c=nl | weg|  c=sw | v&auml;g|  c=la | via|- |  i=No | 171|  c=en | mountain *|  c=fr | montagne|  c=de | Berg|  c=it | montagna|  c=es | monta&ntilde;a|  c=nl | berg|  c=sw | berg|  c=la | mons|- |  i=No | 172|  c=en | red *|  c=fr | rouge|  c=de | rot|  c=it | rosso|  c=es | rojo|  c=nl | rode|  c=sw | r&ouml;d|  c=la | ruber|- |  i=No | 173|  c=en | green *|  c=fr | vert|  c=de | gr&uuml;n|  c=it | verde|  c=es | verde|  c=nl | groen|  c=sw | gr&ouml;n|  c=la | viridis|- |  i=No | 174|  c=en | yellow *|  c=fr | jaune|  c=de | gelb|  c=it | giallo|  c=es | amarillo|  c=nl | geel|  c=sw | gul|  c=la | flavus|- |  i=No | 175|  c=en | white *|  c=fr | blanc|  c=de | wei&szlig;|  c=it | bianco|  c=es | blanco|  c=nl | witte|  c=sw | vit|  c=la | albus, candidus|- |  i=No | 176|  c=en | black *|  c=fr | noir|  c=de | schwarz|  c=it | nero|  c=es | negro|  c=nl | zwart|  c=sw | svart|  c=la | niger, ater, fuscus|- |  i=No | 177|  c=en | night *|  c=fr | nuit|  c=de | Nacht|  c=it | notte|  c=es | noche|  c=nl | nacht|  c=sw | natt|  c=la | nox|- |  i=No | 178|  c=en | day|  c=fr | jour|  c=de | Tag|  c=it | giorno|  c=es | d&iacute;a|  c=nl | dag|  c=sw | dag|  c=la | dies|- |  i=No | 179|  c=en | year|  c=fr | an, ann&eacute;e|  c=de | Jahr|  c=it | anno|  c=es | a&ntilde;o|  c=nl | jaar|  c=sw | &aring;r|  c=la | annus|- |  i=No | 180|  c=en | warm *|  c=fr | chaud|  c=de | warm|  c=it | caldo|  c=es | c&aacute;lido, tibio|  c=nl | warm|  c=sw | varm|  c=la | calidus|- |  i=No | 181|  c=en | cold *|  c=fr | froid|  c=de | kalt|  c=it | freddo|  c=es | fr&iacute;o|  c=nl | koud|  c=sw | kall|  c=la | frigidus|- |  i=No | 182|  c=en | full *|  c=fr | plein|  c=de | volle|  c=it | pieno|  c=es | lleno|  c=nl | volle|  c=sw | full|  c=la | plenus|- |  i=No | 183|  c=en | new *|  c=fr | nouveau|  c=de | neu|  c=it | nuovo|  c=es | nuevo|  c=nl | nieuw|  c=sw | ny|  c=la | novus|- |  i=No | 184|  c=en | old|  c=fr | vieux|  c=de | alt|  c=it | vecchio|  c=es | viejo|  c=nl | oud|  c=sw | gammal|  c=la | vetus|- |  i=No | 185|  c=en | good *|  c=fr | bon|  c=de | gut|  c=it | buono|  c=es | bueno|  c=nl | goed|  c=sw | bra|  c=la | bonus|- |  i=No | 186|  c=en | bad|  c=fr | mauvais|  c=de | schlecht|  c=it | cattivo|  c=es | malo&lt;br&gt;|  c=nl | slecht|  c=sw | d&aring;lig|  c=la | malus|- |  i=No | 187|  c=en | rotten|  c=fr | pourri|  c=de | verrottet|  c=it | marcio|  c=es | podrido|  c=nl | rotten|  c=sw | rutten|  c=la | puter, putridus|- |  i=No | 188|  c=en | dirty|  c=fr | sale|  c=de | schmutzig|  c=it | sporco|  c=es | sucio|  c=nl | vies|  c=sw | smutsig|  c=la | sordidus|- |  i=No | 189|  c=en | straight|  c=fr | droit|  c=de | gerade|  c=it | diritto|  c=es | recto|  c=nl | recht|  c=sw | rak|  c=la | rectus|- |  i=No | 190|  c=en | round *|  c=fr | rond|  c=de | rund|  c=it | rotondo|  c=es | redondo|  c=nl | rond|  c=sw | rund|  c=la | rotundus|- |  i=No | 191|  c=en | sharp|  c=fr | tranchant, pointu, aigu|  c=de | scharf|  c=it | aguzzo, affilato|  c=es | afilado|  c=nl | scherp|  c=sw | vass|  c=la | acer|- |  i=No | 192|  c=en | dull|  c=fr | &eacute;mouss&eacute;|  c=de | stumpf|  c=it | noioso|  c=es | desafilado|  c=nl | stomp, bot|  c=sw | sl&ouml;|  c=la | hebes|- |  i=No | 193|  c=en | smooth|  c=fr | lisse|  c=de | glatt|  c=it | liscio|  c=es | suave, liso|  c=nl | glad|  c=sw | len, sl&auml;t|  c=la | levis|- |  i=No | 194|  c=en | wet|  c=fr | mouill&eacute;|  c=de | nass, feucht|  c=it | bagnato|  c=es | mojado|  c=nl | nat|  c=sw | v&aring;t, bl&ouml;t|  c=la | umidus|- |  i=No | 195|  c=en | dry *|  c=fr | sec|  c=de | trocken|  c=it | asciutto, secco|  c=es | seco|  c=nl | droog|  c=sw | torr|  c=la | siccus|- |  i=No | 196|  c=en | correct|  c=fr | juste, correct|  c=de | richtig|  c=it | corretto|  c=es | correcto|  c=nl | richting, correct|  c=sw | r&auml;tt, riktig|  c=la | rectus|- |  i=No | 197|  c=en | near|  c=fr | proche|  c=de | nah,&lt;br&gt;nahe|  c=it | vicino|  c=es | cerca|  c=nl | naar|  c=sw | n&auml;ra|  c=la | propinquus|- |  i=No | 198|  c=en | far|  c=fr | loin|  c=de | weit, fern|  c=it | lontano|  c=es | lejos|  c=nl | ver|  c=sw | l&aring;ngt bort, fj&auml;rran|  c=la | longinquus|- |  i=No | 199|  c=en | right|  c=fr | &agrave; droite|  c=de | rechts|  c=it | destra|  c=es | derecha|  c=nl | rechts|  c=sw | h&ouml;ger|  c=la | dexter|- |  i=No | 200|  c=en | left|  c=fr | &agrave; gauche|  c=de | links|  c=it | sinistra|  c=es | izquierda|  c=nl | links|  c=sw | v&auml;nster|  c=la | sinister|- |  i=No | 201|  c=en | at|  c=fr | &agrave;|  c=de | bei, an|  c=it | a|  c=es | a, en, ante|  c=nl | aan, te, bij|  c=sw | hos, vid|  c=la | ad|- |  i=No | 202|  c=en | in|  c=fr | dans|  c=de | in|  c=it | in|  c=es | en|  c=nl | in|  c=sw | i|  c=la | in|- |  i=No | 203|  c=en | with|  c=fr | avec|  c=de | mit|  c=it | con|  c=es | con|  c=nl | met|  c=sw | med|  c=la | cum|- |  i=No | 204|  c=en | and|  c=fr | et|  c=de | und|  c=it | e|  c=es | y|  c=nl | en|  c=sw | och|  c=la | et|- |  i=No | 205|  c=en | if|  c=fr | si|  c=de | wenn, falls, ob|  c=it | se|  c=es | si|  c=nl | als, indien|  c=sw | om|  c=la | si|- |  i=No | 206|  c=en | because|  c=fr | parce que|  c=de | weil|  c=it | perch&eacute;|  c=es | porque|  c=nl | omdat|  c=sw | eftersom, ty|  c=la | quia, quoniam|- |  i=No | 207|  c=en | name *|  c=fr | nom|  c=de | Name|  c=it | nome|  c=es | nombre|  c=nl | naam|  c=sw | namn|  c=la | nomen|}
+>>>
+***Appendix:Swadesh lists***
+HtmlEntry: Appendix:Swadesh lists <<<The words from Swadesh's original 100-word list are designated by an asterisk (*). In the composite list on this page, there are actually 207 words, since seven of the words in the 100-word list (<em>breast</em>, <em>fingernail</em>, <em>full</em>, <em>horn</em>, <em>knee</em>, <em>moon</em>, <em>round</em>) were not in the original 200-word list. {|  align=center class=&quot;wikitable sortable&quot;|  i=No | No!  c=en | English!  c=fr | French!  c=de | German!  c=it | Italian!  c=es | Spanish!  c=nl | Dutch!  c=sw | Swedish!  c=la | Latin|- |  i=No | 1|  c=en | I *|  c=fr | je|  c=de | ich|  c=it | io|  c=es | yo|  c=nl | ik|  c=sw | jag|  c=la | ego|- |  i=No | 2|  c=en | you <em>sing.</em>, thou|  c=fr | tu, vous (formal)|  c=de | du, Sie (formal)|  c=it | tu, Lei (formal)|  c=es | t&uacute;, usted (formal)|  c=nl | jij, je, U (formal)|  c=sw | du|  c=la | tu|- |  i=No | 3|  c=en | he|  c=fr | il|  c=de | er|  c=it | lui, egli|  c=es | &eacute;l|  c=nl | hij|  c=sw | han|  c=la | is, ea|- |  i=No | 4|  c=en | we *|  c=fr | nous|  c=de | wir|  c=it | noi|  c=es | nosotros|  c=nl | wij, we|  c=sw | vi|  c=la | nos|- |  i=No | 5|  c=en | you <em>pl.</em>|  c=fr | vous|  c=de | ihr, Sie (formal)|  c=it | voi|  c=es | vosotros, ustedes (formal)|  c=nl | jullie|  c=sw | ni|  c=la | vos|- |  i=No | 6|  c=en | they|  c=fr | ils, elles|  c=de | sie|  c=it | loro, essi|  c=es | ellos, ellas|  c=nl | zij, ze|  c=sw | de|  c=la | ii, eae|- |  i=No | 7|  c=en | this *|  c=fr | ceci|  c=de | dieses|  c=it | questo|  c=es | este|  c=nl | deze, dit|  c=sw | det h&auml;r|  c=la | hic, is|- |  i=No | 8|  c=en | that *|  c=fr | cela|  c=de | jenes, das|  c=it | quello|  c=es | ese, aquel|  c=nl | die, dat|  c=sw | det d&auml;r|  c=la | ille|- |  i=No | 9|  c=en | here|  c=fr | ici|  c=de | hier|  c=it | qui, qua|  c=es | aqu&iacute;, ac&aacute;|  c=nl | hier|  c=sw | h&auml;r|  c=la | hic|- |  i=No | 10|  c=en | there|  c=fr | l&agrave;|  c=de | dort|  c=it | l&agrave;|  c=es | ah&iacute;, all&iacute;, all&aacute;|  c=nl | daar|  c=sw | d&auml;r|  c=la | ibi|- |  i=No | 11|  c=en | who *|  c=fr | qui|  c=de | wer|  c=it | chi|  c=es | quien|  c=nl | wie|  c=sw | vem|  c=la | quis|- |  i=No | 12|  c=en | what *|  c=fr | quoi|  c=de | was|  c=it | che|  c=es | que|  c=nl | wat|  c=sw | vad|  c=la | quid|- |  i=No | 13|  c=en | where|  c=fr | o&ugrave;|  c=de | wo|  c=it | dove|  c=es | donde|  c=nl | waar|  c=sw | var|  c=la | ubi|- |  i=No | 14|  c=en | when|  c=fr | quand|  c=de | wann|  c=it | quando|  c=es | cuando|  c=nl | wanneer|  c=sw | n&auml;r|  c=la | quando|- |  i=No | 15|  c=en | how|  c=fr | comment|  c=de | wie|  c=it | come|  c=es | como|  c=nl | hoe|  c=sw | hur|  c=la | quam, quomodo|- |  i=No | 16|  c=en | not *|  c=fr | ne...pas|  c=de | nicht|  c=it | non|  c=es | no|  c=nl | niet|  c=sw | inte, ej|  c=la | non|- |  i=No | 17|  c=en | all *|  c=fr | tout|  c=de | alle|  c=it | tutto|  c=es | todo|  c=nl | al, alle|  c=sw | alla|  c=la | omnis|- |  i=No | 18|  c=en | many *|  c=fr | plusieurs|  c=de | viele|  c=it | molti|  c=es | muchos|  c=nl | veel|  c=sw | m&aring;nga|  c=la | multi|- |  i=No | 19|  c=en | some|  c=fr | quelques|  c=de | einige|  c=it | alcuni|  c=es | algunos, unos|  c=nl | enkele, sommige|  c=sw | n&aring;gra, vissa|  c=la | aliqui, aliquot|- |  i=No | 20|  c=en | few|  c=fr | peu|  c=de | wenige|  c=it | pochi|  c=es | poco|  c=nl | weinig|  c=sw | f&aring;|  c=la | pauci|- |  i=No | 21|  c=en | other|  c=fr | autre|  c=de | andere|  c=it | altro|  c=es | otro|  c=nl | ander|  c=sw | annan|  c=la | alter, alius|- |  i=No | 22|  c=en | one *|  c=fr | un|  c=de | eins|  c=it | uno|  c=es | uno|  c=nl | een|  c=sw | ett|  c=la | unus|- |  i=No | 23|  c=en | two *|  c=fr | deux|  c=de | zwei|  c=it | due|  c=es | dos|  c=nl | twee|  c=sw | tv&aring;|  c=la | duo|- |  i=No | 24|  c=en | three|  c=fr | trois|  c=de | drei|  c=it | tre|  c=es | tres|  c=nl | drie|  c=sw | tre|  c=la | tres|- |  i=No | 25|  c=en | four|  c=fr | quatre|  c=de | vier|  c=it | quattro|  c=es | cuatro|  c=nl | vier|  c=sw | fyra|  c=la | quattuor|- |  i=No | 26|  c=en | five|  c=fr | cinq|  c=de | f&uuml;nf|  c=it | cinque|  c=es | cinco|  c=nl | vijf|  c=sw | fem|  c=la | quinque|- |  i=No | 27|  c=en | big *|  c=fr | grand|  c=de | gro&szlig;|  c=it | grande|  c=es | grande|  c=nl | groot|  c=sw | stor|  c=la | magnus, grandis|- |  i=No | 28|  c=en | long *|  c=fr | long|  c=de | lang|  c=it | lungo|  c=es | largo|  c=nl | lang|  c=sw | l&aring;ng|  c=la | longus|- |  i=No | 29|  c=en | wide|  c=fr | large|  c=de | breit, weit|  c=it | largo|  c=es | ancho|  c=nl | breed, wijd|  c=sw | bred, vid|  c=la | latus|- |  i=No | 30|  c=en | thick|  c=fr | &eacute;pais|  c=de | dick|  c=it | spesso|  c=es | grueso|  c=nl | dik|  c=sw | tjock|  c=la | creber|- |  i=No | 31|  c=en | heavy|  c=fr | lourd|  c=de | schwer|  c=it | pesante|  c=es | pesado|  c=nl | zwaar|  c=sw | tung|  c=la | gravis|- |  i=No | 32|  c=en | small *|  c=fr | petit|  c=de | klein|  c=it | piccolo|  c=es | peque&ntilde;o|  c=nl | smal|  c=sw | liten|  c=la | parvus|- |  i=No | 33|  c=en | short|  c=fr | court|  c=de | kurz|  c=it | corto|  c=es | corto|  c=nl | kort|  c=sw | kort|  c=la | brevis|- |  i=No | 34|  c=en | narrow|  c=fr | &eacute;troit|  c=de | eng|  c=it | stretto|  c=es | estrecho, angosto|  c=nl | klein|  c=sw | tr&aring;ng|  c=la | angustus|- |  i=No | 35|  c=en | thin|  c=fr | mince|  c=de | d&uuml;nn|  c=it | sottile|  c=es | delgado, flaco|  c=nl | dun|  c=sw | tunn|  c=la | macer|- |  i=No | 36|  c=en | woman *|  c=fr | femme|  c=de | Frau|  c=it | donna|  c=es | mujer|  c=nl | vrouw|  c=sw | kvinna|  c=la | femina|- |  i=No | 37|  c=en | man (adult male)|  c=fr | homme|  c=de | Mann|  c=it | uomo|  c=es | hombre|  c=nl | man|  c=sw | man|  c=la | vir|- |  i=No | 38|  c=en | man * (human being)|  c=fr | homme|  c=de | Mensch|  c=it | uomo|  c=es | hombre|  c=nl | mens|  c=sw | m&auml;nniska|  c=la | homo|- |  i=No | 39|  c=en | kid|  c=fr | enfant|  c=de | Kind|  c=it | bambino|  c=es | ni&ntilde;o|  c=nl | kind|  c=sw | barn|  c=la | puer|- |  i=No | 40|  c=en | wife|  c=fr | femme, &eacute;pouse|  c=de | Frau, Ehefrau|  c=it | moglie|  c=es | esposa, mujer|  c=nl | vrouw, echtgenote|  c=sw | hustru, maka, fru|  c=la | uxor, mulier|- |  i=No | 41|  c=en | husband|  c=fr | mari, &eacute;poux|  c=de | Mann, Ehemann|  c=it | marito|  c=es | esposo, marido|  c=nl | man, echtgenoot|  c=sw | man, make|  c=la | maritus|- |  i=No | 42|  c=en | mother|  c=fr | m&egrave;re|  c=de | Mutter|  c=it | madre|  c=es | madre|  c=nl | moeder|  c=sw | mamma, mor|  c=la | mater|- |  i=No | 43|  c=en | father|  c=fr | p&egrave;re|  c=de | Vater|  c=it | padre|  c=es | padre|  c=nl | vader|  c=sw | pappa, far|  c=la | pater|- |  i=No | 44|  c=en | animal|  c=fr | animal|  c=de | Tier|  c=it | animale|  c=es | animal|  c=nl | dier|  c=sw | djur|  c=la | animal|- |  i=No | 45|  c=en | fish *|  c=fr | poisson|  c=de | Fisch|  c=it | pesce|  c=es | pez, pescado|  c=nl | vis|  c=sw | fisk|  c=la | piscis|- |  i=No | 46|  c=en | bird *|  c=fr | oiseau|  c=de | Vogel|  c=it | uccello|  c=es | ave, p&aacute;jaro|  c=nl | vogel|  c=sw | f&aring;gel|  c=la | avis|- |  i=No | 47|  c=en | hound *|  c=fr | chien|  c=de | Hund|  c=it | cane|  c=es | perro|  c=nl | hond|  c=sw | hund|  c=la | canis|- |  i=No | 48|  c=en | louse *|  c=fr | pou|  c=de | Laus|  c=it | pidocchio|  c=es | piojo|  c=nl | luis|  c=sw | lus|  c=la | pedis|- |  i=No | 49|  c=en | snake|  c=fr | serpent|  c=de | Schlange|  c=it | serpente|  c=es | serpiente, culebra|  c=nl | slang|  c=sw | orm|  c=la | serpens|- |  i=No | 50|  c=en | worm|  c=fr | ver|  c=de | Wurm|  c=it | verme|  c=es | gusano|  c=nl | worm|  c=sw | mask|  c=la | vermis|- |  i=No | 51|  c=en | beam *|  c=fr | arbre|  c=de | Baum|  c=it | albero|  c=es | &aacute;rbol|  c=nl | boom|  c=sw | tr&auml;d|  c=la | arbor|- |  i=No | 52|  c=en | forest|  c=fr | for&ecirc;t|  c=de | Wald|  c=it | foresta|  c=es | bosque|  c=nl | woud|  c=sw | skog|  c=la | silva|- |  i=No | 53|  c=en | stick|  c=fr | b&acirc;ton|  c=de | Stock|  c=it | bastone|  c=es | palo|  c=nl | stok|  c=sw | pinne|  c=la | fustis|- |  i=No | 54|  c=en | fruit|  c=fr | fruit|  c=de | Frucht|  c=it | frutta|  c=es | fruta|  c=nl | fruit, vrucht|  c=sw | frukt|  c=la | fructus|- |  i=No | 55|  c=en | seed *|  c=fr | graine|  c=de | Samen|  c=it | seme|  c=es | semilla|  c=nl | zaad|  c=sw | fr&ouml;|  c=la | semen|- |  i=No | 56|  c=en | leaf *|  c=fr | feuille|  c=de | Blatt|  c=it | foglia|  c=es | hoja|  c=nl | blad|  c=sw | l&ouml;v, blad|  c=la | folium|- |  i=No | 57|  c=en | root *|  c=fr | racine|  c=de | Wurzel|  c=it | radice|  c=es | ra&iacute;z|  c=nl | root|  c=sw | rot|  c=la | radix|- |  i=No | 58|  c=en | bark * (from tree)|  c=fr | &eacute;corce|  c=de | Rinde|  c=it | corteccia|  c=es | corteza|  c=nl | bark|  c=sw | bark|  c=la | cortex|- |  i=No | 59|  c=en | flower|  c=fr | fleur|  c=de | Blume|  c=it | fiore|  c=es | flor|  c=nl | bloem|  c=sw | blomma|  c=la | flos|- |  i=No | 60|  c=en | grass|  c=fr | herbe|  c=de | Gras|  c=it | erba|  c=es | hierba, pasto|  c=nl | gras|  c=sw | gr&auml;s|  c=la | herba|- |  i=No | 61|  c=en | rope|  c=fr | corde|  c=de | Seil|  c=it | corda|  c=es | cuerda|  c=nl | reep, koord|  c=sw | rep|  c=la | funis|- |  i=No | 62|  c=en | skin *|  c=fr | peau|  c=de | Haut|  c=it | pelle|  c=es | piel|  c=nl | huid|  c=sw | hud|  c=la | cutis|- |  i=No | 63|  c=en | meat|  c=fr | viande|  c=de | Fleisch|  c=it | carne|  c=es | carne|  c=nl | vlees|  c=sw | k&ouml;tt|  c=la | caro|- |  i=No | 64|  c=en | blood *|  c=fr | sang|  c=de | Blut|  c=it | sangue|  c=es | sangre|  c=nl | bloed|  c=sw | blod|  c=la | sanguis|- |  i=No | 65|  c=en | bone *|  c=fr | os|  c=de | Knochen|  c=it | osso|  c=es | hueso|  c=nl | been, bot|  c=sw | ben|  c=la | os|- |  i=No | 66|  c=en | fat * (n.)|  c=fr | graisse|  c=de | Fett|  c=it | grasso|  c=es | grasa|  c=nl | vet|  c=sw | fett|  c=la | adeps|- |  i=No | 67|  c=en | egg *|  c=fr | œuf|  c=de | Ei|  c=it | uovo|  c=es | huevo|  c=nl | ei|  c=sw | &auml;gg|  c=la | ovum|- |  i=No | 68|  c=en | horn *|  c=fr | corne|  c=de | Horn|  c=it | corno|  c=es | cuerno|  c=nl | horn|  c=sw | horn|  c=la | cornu|- |  i=No | 69|  c=en | tail *|  c=fr | queue|  c=de | Schwanz|  c=it | coda|  c=es | cola|  c=nl | staart|  c=sw | svans|  c=la | cauda|- |  i=No | 70|  c=en | feather *|  c=fr | plume|  c=de | Feder|  c=it | piuma|  c=es | pluma|  c=nl | veder|  c=sw | fj&auml;der|  c=la | penna|- |  i=No | 71|  c=en | hair *|  c=fr | cheveu|  c=de | Haar|  c=it | capelli|  c=es | cabello, pelo|  c=nl | haar|  c=sw | h&aring;r|  c=la | capillus, coma, crinis|- |  i=No | 72|  c=en | head *|  c=fr | t&ecirc;te|  c=de | Kopf, Haupt|  c=it | testa|  c=es | cabeza|  c=nl | hoofd, kop|  c=sw | huvud|  c=la | caput|- |  i=No | 73|  c=en | ear *|  c=fr | oreille|  c=de | Ohr|  c=it | orecchio|  c=es | oreja|  c=nl | aar|  c=sw | &ouml;ra|  c=la | auris|- |  i=No | 74|  c=en | eye *|  c=fr | œil|  c=de | Auge|  c=it | occhio|  c=es | ojo|  c=nl | oog|  c=sw | &ouml;ga|  c=la | oculus|- |  i=No | 75|  c=en | nose *|  c=fr | nez|  c=de | Nase|  c=it | naso|  c=es | nariz|  c=nl | neus|  c=sw | n&auml;sa|  c=la | nasus|- |  i=No | 76|  c=en | mouth *|  c=fr | bouche|  c=de | Mund|  c=it | bocca|  c=es | boca|  c=nl | mond|  c=sw | mun|  c=la | os|- |  i=No | 77|  c=en | tooth *|  c=fr | dent|  c=de | Zahn|  c=it | dente|  c=es | diente|  c=nl | tand|  c=sw | tand|  c=la | dens|- |  i=No | 78|  c=en | tongue *|  c=fr | langue|  c=de | Zunge|  c=it | lingua|  c=es | lengua|  c=nl | tong|  c=sw | tunga|  c=la | lingua|- |  i=No | 79|  c=en | fingernail|  c=fr | ongle|  c=de | Fingernagel|  c=it | unghia|  c=es | u&ntilde;a|  c=nl | vingernagel|  c=sw | nagel|  c=la | unguis|- |  i=No | 80|  c=en | foot *|  c=fr | pied|  c=de | Fu&szlig;|  c=it | piede|  c=es | pie|  c=nl | voet|  c=sw | fot|  c=la | pes|- |  i=No | 81|  c=en | leg|  c=fr | jambe|  c=de | Bein|  c=it | gamba|  c=es | pierna|  c=nl | been|  c=sw | ben|  c=la | crus|- |  i=No | 82|  c=en | knee *|  c=fr | genou|  c=de | Knie|  c=it | ginocchio|  c=es | rodilla|  c=nl | knie|  c=sw | kn&auml;|  c=la | genu|- |  i=No | 83|  c=en | hand *|  c=fr | main|  c=de | Hand|  c=it | mano|  c=es | mano|  c=nl | hand|  c=sw | hand|  c=la | manus|- |  i=No | 84|  c=en | wing|  c=fr | aile|  c=de | Fl&uuml;gel|  c=it | ala|  c=es | ala|  c=nl | vleugel|  c=sw | vinge|  c=la | ala|- |  i=No | 85|  c=en | belly *|  c=fr | ventre|  c=de | Bauch|  c=it | pancia|  c=es | barriga, vientre, panza|  c=nl | buik|  c=sw | mage|  c=la | venter|- |  i=No | 86|  c=en | guts|  c=fr | entrailles|  c=de | Eingeweide, Innereien|  c=it | intestino|  c=es | entra&ntilde;as, tripas|  c=nl | ingewanden|  c=sw | in&auml;lvor|  c=la | intestina|- |  i=No | 87|  c=en | neck *|  c=fr | cou|  c=de | Hals|  c=it | collo|  c=es | cuello|  c=nl | nek|  c=sw | hals, nacke|  c=la | collum, cervix|- |  i=No | 88|  c=en | back|  c=fr | dos|  c=de | R&uuml;cken|  c=it | schiena|  c=es | espalda|  c=nl | rug|  c=sw | rygg|  c=la | tergum|- |  i=No | 89|  c=en | breast *|  c=fr | sein, poitrine|  c=de | Brust|  c=it | petto|  c=es | pecho, seno|  c=nl | borst|  c=sw | br&ouml;st|  c=la | pectus, mamma|- |  i=No | 90|  c=en | heart *|  c=fr | cœur|  c=de | Herz|  c=it | cuore|  c=es | coraz&oacute;n|  c=nl | hart|  c=sw | hj&auml;rta|  c=la | cor|- |  i=No | 91|  c=en | liver *|  c=fr | foie|  c=de | Leber|  c=it | fegato|  c=es | h&iacute;gado|  c=nl | lever|  c=sw | lever|  c=la | iecur|- |  i=No | 92|  c=en | drink *|  c=fr | boire|  c=de | trinken|  c=it | bere|  c=es | beber, tomar|  c=nl | drinken|  c=sw | dricka|  c=la | bibere|- |  i=No | 93|  c=en | eat *|  c=fr | manger|  c=de | essen|  c=it | mangiare|  c=es | comer|  c=nl | eten|  c=sw | &auml;ta|  c=la | edere|- |  i=No | 94|  c=en | bite *|  c=fr | mordre|  c=de | bei&szlig;en|  c=it | mordere|  c=es | morder|  c=nl | bijten|  c=sw | bita|  c=la | mordere|- |  i=No | 95|  c=en | suck|  c=fr | sucer|  c=de | saugen|  c=it | succhiare|  c=es | chupar|  c=nl | zuigen|  c=sw | suga|  c=la | sugere|- |  i=No | 96|  c=en | spit|  c=fr | cracher|  c=de | spucken|  c=it | sputare|  c=es | escupir|  c=nl | spugen|  c=sw | spotta|  c=la | sputare|- |  i=No | 97|  c=en | vomit|  c=fr | vomir|  c=de | erbrechen|  c=it | vomitare|  c=es | vomitar|  c=nl | braken, overgeven|  c=sw | kr&auml;kas, spy|  c=la | vomere|- |  i=No | 98|  c=en | blow|  c=fr | souffler|  c=de | blasen|  c=it | soffiare|  c=es | soplar|  c=nl | blazen|  c=sw | bl&aring;sa|  c=la | flare|- |  i=No | 99|  c=en | breathe|  c=fr | respirer|  c=de | atmen|  c=it | respirare|  c=es | respirar|  c=nl | ademen|  c=sw | andas|  c=la | spirare|- |  i=No | 100|  c=en | laugh|  c=fr | rire|  c=de | lachen|  c=it | ridere|  c=es | re&iacute;r|  c=nl | lachen|  c=sw | skratta|  c=la | ridere|- |  i=No | 101|  c=en | see *|  c=fr | voir|  c=de | sehen|  c=it | vedere|  c=es | ver|  c=nl | zien|  c=sw | se|  c=la | videre|- |  i=No | 102|  c=en | hear *|  c=fr | entendre|  c=de | h&ouml;ren|  c=it | udire, sentire|  c=es | o&iacute;r|  c=nl | horen|  c=sw | h&ouml;ra|  c=la | audire|- |  i=No | 103|  c=en | know * (a fact)|  c=fr | savoir|  c=de | wissen|  c=it | sapere|  c=es | saber|  c=nl | kennen|  c=sw | veta|  c=la | scire|- |  i=No | 104|  c=en | think|  c=fr | penser|  c=de | denken|  c=it | pensare|  c=es | pensar|  c=nl | denken|  c=sw | t&auml;nka|  c=la | putare|- |  i=No | 105|  c=en | smell|  c=fr | sentir|  c=de | riechen|  c=it | odorare, annusare|  c=es | oler|  c=nl | smelten|  c=sw | lukta|  c=la | olere|- |  i=No | 106|  c=en | fear|  c=fr | craindre, avoir peur|  c=de | f&uuml;rchten|  c=it | temere|  c=es | temer|  c=nl | vrezen, angst|  c=sw | frukta, r&auml;das|  c=la | timere|- |  i=No | 107|  c=en | sleep *|  c=fr | dormir|  c=de | schlafen|  c=it | dormire|  c=es | dormir|  c=nl | slapen|  c=sw | sova|  c=la | dormire|- |  i=No | 108|  c=en | live|  c=fr | vivre|  c=de | leben|  c=it | vivere|  c=es | vivir|  c=nl | leven|  c=sw | leva|  c=la | vivere|- |  i=No | 109|  c=en | die *|  c=fr | mourir|  c=de | sterben|  c=it | morire|  c=es | morir|  c=nl | doden|  c=sw | d&ouml;|  c=la | mori|- |  i=No | 110|  c=en | kill *|  c=fr | tuer|  c=de | t&ouml;ten|  c=it | uccidere|  c=es | matar|  c=nl | doden|  c=sw | d&ouml;da|  c=la | necare|- |  i=No | 111|  c=en | fight|  c=fr | se battre|  c=de | k&auml;mpfen|  c=it | combattere|  c=es | pelear|  c=nl | vechten|  c=sw | strida|  c=la | pugnare|- |  i=No | 112|  c=en | hunt|  c=fr | chasser|  c=de | jagen|  c=it | cacciare|  c=es | cazar|  c=nl | jagen|  c=sw | jaga|  c=la | venari|- |  i=No | 113|  c=en | hit|  c=fr | frapper|  c=de | schlagen|  c=it | colpire|  c=es | golpear|  c=nl | slaan|  c=sw | sl&aring;|  c=la | pellere|- |  i=No | 114|  c=en | cut|  c=fr | couper|  c=de | schneiden|  c=it | tagliare|  c=es | cortar|  c=nl | snijden|  c=sw | sk&auml;ra|  c=la | secare|- |  i=No | 115|  c=en | split|  c=fr | fendre|  c=de | spalten|  c=it | dividere, separare|  c=es | partir|  c=nl | splijten|  c=sw | dela, klyva|  c=la | scindere, partiri|- |  i=No | 116|  c=en | stab|  c=fr | poignarder|  c=de | stechen|  c=it | pugnalare|  c=es | apu&ntilde;alar|  c=nl | steken|  c=sw | sticka|  c=la | traicere|- |  i=No | 117|  c=en | scratch|  c=fr | gratter|  c=de | kratzen|  c=it | graffiare|  c=es | ara&ntilde;ar, rascar|  c=nl | krabben|  c=sw | klia|  c=la | radere|- |  i=No | 118|  c=en | dig|  c=fr | creuser|  c=de | graben|  c=it | scavare|  c=es | cavar|  c=nl | delven|  c=sw | gr&auml;va|  c=la | fodere|- |  i=No | 119|  c=en | swim *|  c=fr | nager|  c=de | schwimmen|  c=it | nuotare|  c=es | nadar|  c=nl | zwemmen|  c=sw | simma|  c=la | natare|- |  i=No | 120|  c=en | fly * (v.)|  c=fr | voler|  c=de | fliegen|  c=it | volare|  c=es | volar|  c=nl | vliegen|  c=sw | flyga|  c=la | volare|- |  i=No | 121|  c=en | walk *|  c=fr | marcher|  c=de | gehen|  c=it | camminare|  c=es | caminar|  c=nl | lopen, wandelen|  c=sw | g&aring;|  c=la | gradi|- |  i=No | 122|  c=en | come *|  c=fr | venir|  c=de | kommen|  c=it | venire|  c=es | venir|  c=nl | komen|  c=sw | komma|  c=la | venire|- |  i=No | 123|  c=en | lie *|  c=fr | s'&eacute;tendre|  c=de | liegen|  c=it | distendersi|  c=es | echarse, acostarse, tenderse|  c=nl | liegen|  c=sw | ligga|  c=la | iacere|- |  i=No | 124|  c=en | sit *|  c=fr | s'asseoir|  c=de | setzen|  c=it | sedere|  c=es | sentarse|  c=nl | zitten|  c=sw | sitta|  c=la | sedere|- |  i=No | 125|  c=en | stand *|  c=fr | se lever|  c=de | stehen|  c=it | stare in piedi|  c=es | estar de pie|  c=nl | staan|  c=sw | st&aring;|  c=la | stare|- |  i=No | 126|  c=en | turn|  c=fr | tourner|  c=de | drehen|  c=it | girare|  c=es | voltear|  c=nl | draaien|  c=sw | sv&auml;nga|  c=la | vertere|- |  i=No | 127|  c=en | fall|  c=fr | tomber|  c=de | fallen|  c=it | cadere|  c=es | caer|  c=nl | vallen|  c=sw | falla|  c=la | cadere|- |  i=No | 128|  c=en | give *|  c=fr | donner|  c=de | geben|  c=it | dare|  c=es | dar|  c=nl | geven|  c=sw | ge|  c=la | dare|- |  i=No | 129|  c=en | hold|  c=fr | tenir|  c=de | halten|  c=it | tenere|  c=es | sostener|  c=nl | houden|  c=sw | h&aring;lla|  c=la | tenere|- |  i=No | 130|  c=en | squeeze|  c=fr | serrer|  c=de | quetschen|  c=it | spremere|  c=es | apretar|  c=nl | knijpen|  c=sw | kl&auml;mma|  c=la | premere|- |  i=No | 131|  c=en | rub|  c=fr | frotter|  c=de | reiben|  c=it | strofinare|  c=es | frotar, restregar|  c=nl | wrijven|  c=sw | gnida|  c=la | fricare|- |  i=No | 132|  c=en | wash|  c=fr | laver|  c=de | waschen|  c=it | lavare|  c=es | lavar|  c=nl | wassen|  c=sw | tv&auml;tta|  c=la | lavare|- |  i=No | 133|  c=en | wipe|  c=fr | essuyer|  c=de | wischen|  c=it | asciugare|  c=es | limpiar|  c=nl | vegen|  c=sw | rensa|  c=la | tergere|- |  i=No | 134|  c=en | pull|  c=fr | tirer|  c=de | ziehen|  c=it | tirare|  c=es | tirar|  c=nl | trekken|  c=sw | dra|  c=la | trahere|- |  i=No | 135|  c=en | push|  c=fr | pousser|  c=de | dr&uuml;cken|  c=it | spingere|  c=es | empujar|  c=nl | duwen|  c=sw | trycka|  c=la | pellere, urgere|- |  i=No | 136|  c=en | throw|  c=fr | jeter|  c=de | werfen|  c=it | tirare|  c=es | tirar|  c=nl | werpen, gooien|  c=sw | kasta|  c=la | iacere|- |  i=No | 137|  c=en | tie|  c=fr | lier|  c=de | binden|  c=it | legare|  c=es | atar|  c=nl | binden|  c=sw | knyta, binda|  c=la | stringere, ligare|- |  i=No | 138|  c=en | sew|  c=fr | coudre|  c=de | n&auml;hen|  c=it | cucire|  c=es | coser|  c=nl | naaien|  c=sw | sy|  c=la | suere|- |  i=No | 139|  c=en | count|  c=fr | compter|  c=de | z&auml;hlen|  c=it | contare|  c=es | contar|  c=nl | tellen|  c=sw | r&auml;kna|  c=la | numerare|- |  i=No | 140|  c=en | say *|  c=fr | dire|  c=de | sagen|  c=it | dire|  c=es | decir|  c=nl | zeggen|  c=sw | s&auml;ga|  c=la | dicere|- |  i=No | 141|  c=en | sing|  c=fr | chanter|  c=de | singen|  c=it | cantare|  c=es | cantar|  c=nl | zingen|  c=sw | sjunga|  c=la | canere|- |  i=No | 142|  c=en | play|  c=fr | jouer|  c=de | spielen|  c=it | giocare|  c=es | jugar|  c=nl | spelen|  c=sw | leka, spela|  c=la | ludere|- |  i=No | 143|  c=en | float|  c=fr | flotter|  c=de | schweben|  c=it | galleggiare|  c=es | flotar|  c=nl | zweven|  c=sw | flyta|  c=la | fluctuare|- |  i=No | 144|  c=en | flow|  c=fr | couler|  c=de | flie&szlig;en|  c=it | fluire|  c=es | fluir|  c=nl | vloeien|  c=sw | rinna|  c=la | fluere|- |  i=No | 145|  c=en | freeze|  c=fr | geler|  c=de | frieren|  c=it | gelare|  c=es | helar|  c=nl | vriezen|  c=sw | frysa|  c=la | gelare|- |  i=No | 146|  c=en | swell|  c=fr | gonfler|  c=de | schwellen|  c=it | gonfiare|  c=es | hincharse|  c=nl | zwellen|  c=sw | sv&auml;lla|  c=la | inflare|- |  i=No | 147|  c=en | sun *|  c=fr | soleil|  c=de | Sonne|  c=it | sole|  c=es | sol|  c=nl | zon|  c=sw | sol|  c=la | sol|- |  i=No | 148|  c=en | moon *|  c=fr | lune|  c=de | Mond|  c=it | luna|  c=es | luna|  c=nl | maan|  c=sw | m&aring;ne|  c=la | luna|- |  i=No | 149|  c=en | star *|  c=fr | &eacute;toile|  c=de | Stern|  c=it | stella|  c=es | estrella|  c=nl | ster|  c=sw | stj&auml;rna|  c=la | stella|- |  i=No | 150|  c=en | water *|  c=fr | eau|  c=de | Wasser|  c=it | acqua|  c=es | agua|  c=nl | water|  c=sw | vatten|  c=la | aqua|- |  i=No | 151|  c=en | rain *|  c=fr | pluie|  c=de | Regen|  c=it | pioggia|  c=es | lluvia|  c=nl | regen|  c=sw | regn|  c=la | pluvia|- |  i=No | 152|  c=en | river|  c=fr | rivi&egrave;re|  c=de | Flu&szlig;|  c=it | fiume|  c=es | r&iacute;o|  c=nl | rivier|  c=sw | flod|  c=la | fluvius|- |  i=No | 153|  c=en | lake|  c=fr | lac|  c=de | See|  c=it | lago|  c=es | lago|  c=nl | lak|  c=sw | sj&ouml;|  c=la | lacus|- |  i=No | 154|  c=en | sea|  c=fr | mer|  c=de | Meer, See|  c=it | mare|  c=es | mar|  c=nl | zee|  c=sw | hav|  c=la | mare|- |  i=No | 155|  c=en | salt|  c=fr | sel|  c=de | Salz|  c=it | sale|  c=es | sal|  c=nl | zout|  c=sw | salt|  c=la | sal|- |  i=No | 156|  c=en | stone *|  c=fr | pierre|  c=de | Stein|  c=it | pietra|  c=es | piedra|  c=nl | steen|  c=sw | sten|  c=la | lapis, petra|- |  i=No | 157|  c=en | sand *|  c=fr | sable|  c=de | Sand|  c=it | sabbia|  c=es | arena|  c=nl | zand|  c=sw | sand|  c=la | arena|- |  i=No | 158|  c=en | dust|  c=fr | poussi&egrave;re|  c=de | Staub|  c=it | polvere|  c=es | polvo|  c=nl | stof|  c=sw | damm|  c=la | pulvis|- |  i=No | 159|  c=en | earth *|  c=fr | terre|  c=de | Erde|  c=it | terra|  c=es | tierra|  c=nl | aarde|  c=sw | jord|  c=la | terra|- |  i=No | 160|  c=en | cloud *|  c=fr | nuage|  c=de | Wolke|  c=it | nuvola|  c=es | nube|  c=nl | wolk|  c=sw | moln|  c=la | nimbus, nubes|- |  i=No | 161|  c=en | fog|  c=fr | brouillard|  c=de | Nebel|  c=it | nebbia|  c=es | niebla|  c=nl | mist, nevel|  c=sw | dimma|  c=la | caligo, nebula|- |  i=No | 162|  c=en | sky|  c=fr | ciel|  c=de | Himmel|  c=it | cielo|  c=es | cielo|  c=nl | lucht|  c=sw | himmel|  c=la | caelum|- |  i=No | 163|  c=en | wind|  c=fr | vent|  c=de | Wind|  c=it | vento|  c=es | viento|  c=nl | wind|  c=sw | vind|  c=la | ventus|- |  i=No | 164|  c=en | snow|  c=fr | neige|  c=de | Schnee|  c=it | neve|  c=es | nieve|  c=nl | sneeuw|  c=sw | sn&ouml;|  c=la | nix|- |  i=No | 165|  c=en | ice|  c=fr | glace|  c=de | Eis|  c=it | ghiaccio|  c=es | hielo|  c=nl | ijs|  c=sw | is|  c=la | glacies|- |  i=No | 166|  c=en | smoke *|  c=fr | fum&eacute;e|  c=de | Rauch|  c=it | fumo|  c=es | humo|  c=nl | rook|  c=sw | r&ouml;k|  c=la | fumus|- |  i=No | 167|  c=en | fire *|  c=fr | feu|  c=de | Feuer|  c=it | fuoco|  c=es | fuego|  c=nl | vuur|  c=sw | eld|  c=la | ignis|- |  i=No | 168|  c=en | ashes *|  c=fr | cendres|  c=de | Asche|  c=it | ceneri|  c=es | cenizas|  c=nl | as|  c=sw | aska|  c=la | cineres|- |  i=No | 169|  c=en | burn *|  c=fr | br&ucirc;ler|  c=de | brennen|  c=it | bruciare|  c=es | quemar|  c=nl | branden|  c=sw | brinna|  c=la | ardere|- |  i=No | 170|  c=en | road *|  c=fr | route|  c=de | Stra&szlig;e|  c=it | strada|  c=es | camino|  c=nl | weg|  c=sw | v&auml;g|  c=la | via|- |  i=No | 171|  c=en | mountain *|  c=fr | montagne|  c=de | Berg|  c=it | montagna|  c=es | monta&ntilde;a|  c=nl | berg|  c=sw | berg|  c=la | mons|- |  i=No | 172|  c=en | red *|  c=fr | rouge|  c=de | rot|  c=it | rosso|  c=es | rojo|  c=nl | rode|  c=sw | r&ouml;d|  c=la | ruber|- |  i=No | 173|  c=en | green *|  c=fr | vert|  c=de | gr&uuml;n|  c=it | verde|  c=es | verde|  c=nl | groen|  c=sw | gr&ouml;n|  c=la | viridis|- |  i=No | 174|  c=en | yellow *|  c=fr | jaune|  c=de | gelb|  c=it | giallo|  c=es | amarillo|  c=nl | geel|  c=sw | gul|  c=la | flavus|- |  i=No | 175|  c=en | white *|  c=fr | blanc|  c=de | wei&szlig;|  c=it | bianco|  c=es | blanco|  c=nl | witte|  c=sw | vit|  c=la | albus, candidus|- |  i=No | 176|  c=en | black *|  c=fr | noir|  c=de | schwarz|  c=it | nero|  c=es | negro|  c=nl | zwart|  c=sw | svart|  c=la | niger, ater, fuscus|- |  i=No | 177|  c=en | night *|  c=fr | nuit|  c=de | Nacht|  c=it | notte|  c=es | noche|  c=nl | nacht|  c=sw | natt|  c=la | nox|- |  i=No | 178|  c=en | day|  c=fr | jour|  c=de | Tag|  c=it | giorno|  c=es | d&iacute;a|  c=nl | dag|  c=sw | dag|  c=la | dies|- |  i=No | 179|  c=en | year|  c=fr | an, ann&eacute;e|  c=de | Jahr|  c=it | anno|  c=es | a&ntilde;o|  c=nl | jaar|  c=sw | &aring;r|  c=la | annus|- |  i=No | 180|  c=en | warm *|  c=fr | chaud|  c=de | warm|  c=it | caldo|  c=es | c&aacute;lido, tibio|  c=nl | warm|  c=sw | varm|  c=la | calidus|- |  i=No | 181|  c=en | cold *|  c=fr | froid|  c=de | kalt|  c=it | freddo|  c=es | fr&iacute;o|  c=nl | koud|  c=sw | kall|  c=la | frigidus|- |  i=No | 182|  c=en | full *|  c=fr | plein|  c=de | volle|  c=it | pieno|  c=es | lleno|  c=nl | volle|  c=sw | full|  c=la | plenus|- |  i=No | 183|  c=en | new *|  c=fr | nouveau|  c=de | neu|  c=it | nuovo|  c=es | nuevo|  c=nl | nieuw|  c=sw | ny|  c=la | novus|- |  i=No | 184|  c=en | old|  c=fr | vieux|  c=de | alt|  c=it | vecchio|  c=es | viejo|  c=nl | oud|  c=sw | gammal|  c=la | vetus|- |  i=No | 185|  c=en | good *|  c=fr | bon|  c=de | gut|  c=it | buono|  c=es | bueno|  c=nl | goed|  c=sw | bra|  c=la | bonus|- |  i=No | 186|  c=en | bad|  c=fr | mauvais|  c=de | schlecht|  c=it | cattivo|  c=es | malo&lt;br&gt;|  c=nl | slecht|  c=sw | d&aring;lig|  c=la | malus|- |  i=No | 187|  c=en | rotten|  c=fr | pourri|  c=de | verrottet|  c=it | marcio|  c=es | podrido|  c=nl | rotten|  c=sw | rutten|  c=la | puter, putridus|- |  i=No | 188|  c=en | dirty|  c=fr | sale|  c=de | schmutzig|  c=it | sporco|  c=es | sucio|  c=nl | vies|  c=sw | smutsig|  c=la | sordidus|- |  i=No | 189|  c=en | straight|  c=fr | droit|  c=de | gerade|  c=it | diritto|  c=es | recto|  c=nl | recht|  c=sw | rak|  c=la | rectus|- |  i=No | 190|  c=en | round *|  c=fr | rond|  c=de | rund|  c=it | rotondo|  c=es | redondo|  c=nl | rond|  c=sw | rund|  c=la | rotundus|- |  i=No | 191|  c=en | sharp|  c=fr | tranchant, pointu, aigu|  c=de | scharf|  c=it | aguzzo, affilato|  c=es | afilado|  c=nl | scherp|  c=sw | vass|  c=la | acer|- |  i=No | 192|  c=en | dull|  c=fr | &eacute;mouss&eacute;|  c=de | stumpf|  c=it | noioso|  c=es | desafilado|  c=nl | stomp, bot|  c=sw | sl&ouml;|  c=la | hebes|- |  i=No | 193|  c=en | smooth|  c=fr | lisse|  c=de | glatt|  c=it | liscio|  c=es | suave, liso|  c=nl | glad|  c=sw | len, sl&auml;t|  c=la | levis|- |  i=No | 194|  c=en | wet|  c=fr | mouill&eacute;|  c=de | nass, feucht|  c=it | bagnato|  c=es | mojado|  c=nl | nat|  c=sw | v&aring;t, bl&ouml;t|  c=la | umidus|- |  i=No | 195|  c=en | dry *|  c=fr | sec|  c=de | trocken|  c=it | asciutto, secco|  c=es | seco|  c=nl | droog|  c=sw | torr|  c=la | siccus|- |  i=No | 196|  c=en | correct|  c=fr | juste, correct|  c=de | richtig|  c=it | corretto|  c=es | correcto|  c=nl | richting, correct|  c=sw | r&auml;tt, riktig|  c=la | rectus|- |  i=No | 197|  c=en | near|  c=fr | proche|  c=de | nah,&lt;br&gt;nahe|  c=it | vicino|  c=es | cerca|  c=nl | naar|  c=sw | n&auml;ra|  c=la | propinquus|- |  i=No | 198|  c=en | far|  c=fr | loin|  c=de | weit, fern|  c=it | lontano|  c=es | lejos|  c=nl | ver|  c=sw | l&aring;ngt bort, fj&auml;rran|  c=la | longinquus|- |  i=No | 199|  c=en | right|  c=fr | &agrave; droite|  c=de | rechts|  c=it | destra|  c=es | derecha|  c=nl | rechts|  c=sw | h&ouml;ger|  c=la | dexter|- |  i=No | 200|  c=en | left|  c=fr | &agrave; gauche|  c=de | links|  c=it | sinistra|  c=es | izquierda|  c=nl | links|  c=sw | v&auml;nster|  c=la | sinister|- |  i=No | 201|  c=en | at|  c=fr | &agrave;|  c=de | bei, an|  c=it | a|  c=es | a, en, ante|  c=nl | aan, te, bij|  c=sw | hos, vid|  c=la | ad|- |  i=No | 202|  c=en | in|  c=fr | dans|  c=de | in|  c=it | in|  c=es | en|  c=nl | in|  c=sw | i|  c=la | in|- |  i=No | 203|  c=en | with|  c=fr | avec|  c=de | mit|  c=it | con|  c=es | con|  c=nl | met|  c=sw | med|  c=la | cum|- |  i=No | 204|  c=en | and|  c=fr | et|  c=de | und|  c=it | e|  c=es | y|  c=nl | en|  c=sw | och|  c=la | et|- |  i=No | 205|  c=en | if|  c=fr | si|  c=de | wenn, falls, ob|  c=it | se|  c=es | si|  c=nl | als, indien|  c=sw | om|  c=la | si|- |  i=No | 206|  c=en | because|  c=fr | parce que|  c=de | weil|  c=it | perch&eacute;|  c=es | porque|  c=nl | omdat|  c=sw | eftersom, ty|  c=la | quia, quoniam|- |  i=No | 207|  c=en | name *|  c=fr | nom|  c=de | Name|  c=it | nome|  c=es | nombre|  c=nl | naam|  c=sw | namn|  c=la | nomen|}>>>
 ***April***
-April:
-
+HtmlEntry: April <<<
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-April.ogg|audio}}</li>
 </ul>
@@ -285,18 +273,16 @@ April:
 {{head|de|noun|g=m}}
 <ol><li> {{l|en|April}}</li>
 </ol>
-Category:2000 German basic wordsCategory:de:Months----
+Category:2000 German basic wordsCategory:de:Months---->>>
 ***Bahamas***
-Bahamas:
-
+HtmlEntry: Bahamas <<<
 <h3>Proper noun</h3>
 {de-proper noun} {p}
 <ol><li> {{l|en|Bahamas}}</li>
 </ol>
-Category:de:Countries----
+Category:de:Countries---->>>
 ***Bahrain***
-Bahrain:
-
+HtmlEntry: Bahrain <<<
 <h3>Proper noun</h3>
 {{head|de|proper noun}}
 <ol><li> {{l|en|Bahrain}}</li>
@@ -306,18 +292,16 @@ Bahrain:
 <ul><li> {{l|de|Bahrainer}}</li>
 <li> {{l|de|Bahrainerin}}</li>
 </ul>
-Category:de:Countries----
+Category:de:Countries---->>>
 ***Bangladesh***
-Bangladesh:
-
+HtmlEntry: Bangladesh <<<
 <h3>Proper noun</h3>
 {{head|de|proper noun}} <em>no gender</em>
 <ol><li> {{alternative spelling of|Bangladesch|lang=de}}</li>
 </ol>
-Category:de:Countries----
+Category:de:Countries---->>>
 ***Belize***
-Belize:
-{{wikipedia|lang=de}}
+HtmlEntry: Belize <<<{{wikipedia|lang=de}}
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=n}}
 <ol><li> {{l|en|Belize}}</li>
@@ -328,10 +312,9 @@ Belize:
 <li> {{l|de|Belizerin}}</li>
 <li> {{l|de|belizisch}}</li>
 </ul>
-Category:de:Countries----
+Category:de:Countries---->>>
 ***Bhutan***
-Bhutan:
-{{wikipedia|lang=de}}
+HtmlEntry: Bhutan <<<{{wikipedia|lang=de}}
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|/buˈtaːn/|lang=de}}</li>
 <li> {{homophones|Butan|lang=de}}</li>
@@ -347,43 +330,38 @@ Bhutan:
 <li> {{l|de|Bhutaner}}</li>
 <li> {{l|de|Bhutanerin}}</li>
 </ul>
-Category:de:Countries----
+Category:de:Countries---->>>
 ***blood***
-blood:
-
+HtmlEntry: blood <<<
 <h3>Noun</h3>
 {{nds-noun|n}}
 <ol><li> {{form of|uncapitalized form|Blood|lang=nds|nodot=1}} : {{alternative spelling of|Bloot|lang=nds|nocap=1}}</li>
 </ol>
-----
+---->>>
 ***bot***
-bot:
-
+HtmlEntry: bot <<<
 <h3>Verb</h3>
 {{head|de|verb form}}
 <ol><li> {{form of|First-person singular preterite|bieten|lang=de}}</li>
 <li> {{form of|Third-person singular preterite|bieten|lang=de}}</li>
 </ol>
-----
+---->>>
 ***Burundi***
-Burundi:
-{{wikipedia|lang=de}}
+HtmlEntry: Burundi <<<{{wikipedia|lang=de}}
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=n}}
 <ol><li> {{l|en|Burundi}}</li>
 </ol>
-Category:de:Countries----
+Category:de:Countries---->>>
 ***Chile***
-Chile:
-
+HtmlEntry: Chile <<<
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=n}}
 <ol><li> Chile</li>
 </ol>
-Category:de:Countries----
+Category:de:Countries---->>>
 ***China***
-China:
-{{wikipedia|lang=de}}
+HtmlEntry: China <<<{{wikipedia|lang=de}}
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-China.ogg|audio}}</li>
 <li> {{IPA|[ˈ&ccedil;iːnaː]|lang=de}}, colloquially: {{IPAchar|[ˈʃiːnaː]}}</li>
@@ -395,10 +373,9 @@ China:
 {{head|de|proper noun|g=n}}
 <ol><li> {{l|en|China}} {{gloss|country}}</li>
 </ol>
-Category:de:Countries----
+Category:de:Countries---->>>
 ***dat***
-dat:
-
+HtmlEntry: dat <<<
 <h3>Etymology</h3>
 From {{etyl|osx|nds}} {{term|that|lang=osx}}.
 <h3>Pronunciation</h3>
@@ -448,10 +425,9 @@ From {{etyl|osx|nds}} {{term|that|lang=osx}}.
 <h4>Synonyms</h4>
 <ul><li> wat</li>
 </ul>
-----
+---->>>
 ***de***
-de:
-
+HtmlEntry: de <<<
 <h3>Etymology</h3>
 From {{etyl|osx|nds}}.
 <h3>Pronunciation</h3>
@@ -508,10 +484,9 @@ From {{etyl|osx|nds}}.
 <h4>Usage notes</h4>
 <ul><li> The use as a relative pronoun might not be present in all dialects.</li>
 </ul>
-----
+---->>>
 ***Dezember***
-Dezember:
-
+HtmlEntry: Dezember <<<
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|[deˈtsɛmbɐ]|lang=de}}, {{X-SAMPA|[de&quot;tsEmb6]}}</li>
 <li> {{hyphenation|De-zem-ber}}</li>
@@ -522,10 +497,9 @@ Dezember:
 {{head|de|noun}}
 <ol><li> December</li>
 </ol>
-Category:de:Months----
+Category:de:Months---->>>
 ***dick***
-dick:
-
+HtmlEntry: dick <<<
 <h3>Etymology</h3>
 From {{etyl|goh|de}} {{term|dicchi|lang=goh}} akin to {{etyl|osx|-}} {{term|thikki|lang=osx}}
 <h3>Pronunciation</h3>
@@ -544,10 +518,9 @@ From {{etyl|goh|de}} {{term|dicchi|lang=goh}} akin to {{etyl|osx|-}} {{term|thik
 <h4>Derived terms</h4>
 <ul><li> dicklich</li>
 </ul>
-ar:dickcs:dickde:dicket:dickel:dickes:dickeu:dickfa:dickfr:dickko:dickhr:dickio:dickit:dickku:dickhu:dickmg:dicknl:dickja:dickpl:dickpt:dicksimple:dickfi:dicksv:dicktl:dicktr:dickvi:dickzh:dick
+ar:dickcs:dickde:dicket:dickel:dickes:dickeu:dickfa:dickfr:dickko:dickhr:dickio:dickit:dickku:dickhu:dickmg:dicknl:dickja:dickpl:dickpt:dicksimple:dickfi:dicksv:dicktl:dicktr:dickvi:dickzh:dick>>>
 ***die***
-die:
-
+HtmlEntry: die <<<
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|/diː/|lang=de}}</li>
 <li> {{audio|De-die.ogg|audio}}</li>
@@ -585,20 +558,18 @@ The definite article {{term|die}} is the form of {{term|der|the|lang=de}} used w
 <h4>Usage notes</h4>
 In a subordinate clause, {{term|die}} indicates a person or thing referenced in the main clause. It is used with plural or feminine singular antecedents.
 <h4>Declension</h4>
-{de-decl-relative pronoun}----
+{de-decl-relative pronoun}---->>>
 ***dies***
-dies:
-
+HtmlEntry: dies <<<
 <h3>Etymology</h3>
 A shortening of <em>dieses</em>
 <h3>Pronoun</h3>
 <b>dies</b>
 <ol><li> this</li>
 </ol>
-Category:German pronouns----
+Category:German pronouns---->>>
 ***digital***
-digital:
-
+HtmlEntry: digital <<<
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-at-digital.ogg|Audio (Austria)}}</li>
 </ul>
@@ -608,10 +579,9 @@ digital:
 <ol><li> {{computing|lang=de}} digital</li>
 <li> {{medicine|lang=de}} digital</li>
 </ol>
-----
+---->>>
 ***Ecuador***
-Ecuador:
-{{wikipedia|lang=de}}
+HtmlEntry: Ecuador <<<{{wikipedia|lang=de}}
 <h3>Pronunciation</h3>
 <ul><li> {{rhymes|oːɐ̯|lang=de}}</li>
 </ul>
@@ -626,10 +596,9 @@ Ecuador:
 <li> Ecuadorianerin</li>
 <li> ecuadorianisch</li>
 </ul>
-Category:German proper nounsCategory:de:Countries----
+Category:German proper nounsCategory:de:Countries---->>>
 ***een***
-een:
-
+HtmlEntry: een <<<
 <h3>Alternative forms</h3>
 <ul><li> {{qualifier|in other dialects, including Low Prussian}} {{l|nds|en}}</li>
 <li> {{qualifier|in some dialects}} {{l|nds|ein}}</li>
@@ -650,10 +619,9 @@ een:
 {{head|nds|cardinal number}}
 <ol><li> {{context|in some dialects|lang=nds}} {{context|in some dialects|lang=nds}} {{alternative spelling of|en|lang=nds|nodot=1}} : one (1)</li>
 </ol>
-----
+---->>>
 ***en***
-en:
-
+HtmlEntry: en <<<
 <h3>Etymology</h3>
 Cognate to {{etyl|de|-}} ein, {{etyl|en|-}} an.
 <h3>Pronunciation</h3>
@@ -680,10 +648,9 @@ Cognate to {{etyl|de|-}} ein, {{etyl|en|-}} an.
 {{head|nds|cardinal number}}
 <ol><li> {{context|in some dialects, including|_|Low Prussian|lang=nds}} one (1)</li>
 </ol>
-----
+---->>>
 ***Esperanto***
-Esperanto:
-
+HtmlEntry: Esperanto <<<
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-Esperanto.ogg|audio}}</li>
 </ul>
@@ -692,32 +659,23 @@ Esperanto:
 {{head|de|noun|g=n}}
 <ol><li> Esperanto</li>
 </ol>
-Category:de:Languages----
+Category:de:Languages---->>>
 ***Fabian***
-Fabian:
-
+HtmlEntry: Fabian <<<
 <h3>Proper noun</h3>
 {{head|de|proper noun}}
 <ol><li> {{given name|male|lang=de}}</li>
 </ol>
-----
+---->>>
 ***Fanny***
-Fanny:
-
+HtmlEntry: Fanny <<<
 <h3>Proper noun</h3>
 {{head|de|proper noun}}
 <ol><li> {{given name|female|lang=de}} borrowed from English.</li>
 </ol>
-----
-===for===
-Wiktionary:Resources for translators:
-<ul><li> [http://dict.leo.org/ Leo] - German &lt;-&gt; English plus 5 other languages, hosted by Technical University Munich (German interface)</li>
-<li> [http://www.woerterbuch-uebersetzung.de/ W&ouml;rterbuch &Uuml;bersetzung] - German &lt;-&gt; English (German interface)</li>
-</ul>
-
+---->>>
 ***frei***
-frei:
-
+HtmlEntry: frei <<<
 <h3>Etymology</h3>
 {{etyl|goh|de}} {{term|fri|frī|lang=goh}}
 <h3>Pronunciation</h3>
@@ -753,57 +711,9 @@ frei:
 <li> freim&uuml;tig</li>
 <li> Freizeit</li>
 </ul>
-----
-===frijaz===
-Appendix:Proto-Germanic/frijaz:
-
-<h3>Etymology</h3>
-From {{proto|ine-pro|prei-|lang=gem-pro}}, compare {{termx|frijōnan|to be fond of|lang=gem-pro}}. The original meaning was probably something like <em>from the own clan</em>, from which a meaning <em>being a free man, not a serf</em> developed.
-<h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈɸri.jɑz/|lang=gem-pro}}</li>
-</ul>
-
-<h3>Adjective</h3>
-{gem-adj}
-<ol><li> free</li>
-</ol>
-
-<h4>Declension</h4>
-{{gem-decl-adj-a|frij}}
-<h4>Related terms</h4>
-<ul><li> {{lx|gem-pro|frijōnan|frijōną}}</li>
-</ul>
-
-<h4>Descendants</h4>
-<ul><li> Old English: {{l|ang|freo|frēo}}</li>
-<ul><li> English: {{l|en|free}}</li>
-</ul>
-<li> Old Frisian: {{l|ofs|fri|frī}}</li>
-<ul><li> West Frisian: {{l|fy|frij}}</li>
-</ul>
-<li> Old Saxon: {{l|osx|fri|frī}}</li>
-<ul><li> Middle Low German: {{l|gml|vri}}</li>
-<ul><li> Norwegian: {{l|no|fri}}</li>
-<li> Swedish: {{l|sv|fri}}</li>
-<li> Danish: {{l|da|fri}}</li>
-</ul>
-</ul>
-<li> Old Dutch: *frī</li>
-<ul><li> Middle Dutch: {{l|dum|vri}}</li>
-<ul><li> Dutch: {{l|nl|vrij}}</li>
-<ul><li> Afrikaans: {{l|af|vry}}</li>
-</ul>
-</ul>
-</ul>
-<li> Old High German: {{l|goh|fri|frī}}</li>
-<ul><li> German: {{l|de|frei}}</li>
-</ul>
-<li> Gothic: {{l|got|𐍆𐍂𐌴𐌹𐍃|tr=freis}}</li>
-</ul>
-
+---->>>
 ***Gambia***
-Gambia:
-{{wikipedia|lang=de}}
+HtmlEntry: Gambia <<<{{wikipedia|lang=de}}
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=n}}
 <ol><li> {{l|en|Gambia}}</li>
@@ -815,57 +725,9 @@ Gambia:
 <li> gambisch</li>
 <li> Senegambia</li>
 </ul>
-Category:de:Countries----
-===Germanic===
-Appendix:Proto-Germanic/frijaz:
-
-<h3>Etymology</h3>
-From {{proto|ine-pro|prei-|lang=gem-pro}}, compare {{termx|frijōnan|to be fond of|lang=gem-pro}}. The original meaning was probably something like <em>from the own clan</em>, from which a meaning <em>being a free man, not a serf</em> developed.
-<h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈɸri.jɑz/|lang=gem-pro}}</li>
-</ul>
-
-<h3>Adjective</h3>
-{gem-adj}
-<ol><li> free</li>
-</ol>
-
-<h4>Declension</h4>
-{{gem-decl-adj-a|frij}}
-<h4>Related terms</h4>
-<ul><li> {{lx|gem-pro|frijōnan|frijōną}}</li>
-</ul>
-
-<h4>Descendants</h4>
-<ul><li> Old English: {{l|ang|freo|frēo}}</li>
-<ul><li> English: {{l|en|free}}</li>
-</ul>
-<li> Old Frisian: {{l|ofs|fri|frī}}</li>
-<ul><li> West Frisian: {{l|fy|frij}}</li>
-</ul>
-<li> Old Saxon: {{l|osx|fri|frī}}</li>
-<ul><li> Middle Low German: {{l|gml|vri}}</li>
-<ul><li> Norwegian: {{l|no|fri}}</li>
-<li> Swedish: {{l|sv|fri}}</li>
-<li> Danish: {{l|da|fri}}</li>
-</ul>
-</ul>
-<li> Old Dutch: *frī</li>
-<ul><li> Middle Dutch: {{l|dum|vri}}</li>
-<ul><li> Dutch: {{l|nl|vrij}}</li>
-<ul><li> Afrikaans: {{l|af|vry}}</li>
-</ul>
-</ul>
-</ul>
-<li> Old High German: {{l|goh|fri|frī}}</li>
-<ul><li> German: {{l|de|frei}}</li>
-</ul>
-<li> Gothic: {{l|got|𐍆𐍂𐌴𐌹𐍃|tr=freis}}</li>
-</ul>
-
+Category:de:Countries---->>>
 ***Ghana***
-Ghana:
-{{wikipedia|lang=de}}
+HtmlEntry: Ghana <<<{{wikipedia|lang=de}}
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|/ˈgaːna/|lang=de}}</li>
 </ul>
@@ -882,10 +744,9 @@ Ghana:
 <li> Ghanese</li>
 <li> Ghanesin</li>
 </ul>
-Category:de:Countries----
+Category:de:Countries---->>>
 ***global***
-global:
-
+HtmlEntry: global <<<
 <h3>Adjective</h3>
 {{de-adj|-}}
 <ol><li> global {{gloss|worldwide}}</li>
@@ -898,10 +759,9 @@ global:
 <h4>Antonyms</h4>
 <ul><li> {{sense|worldwide}} lokal, regional</li>
 </ul>
-----
+---->>>
 ***google***
-google:
-
+HtmlEntry: google <<<
 <h3>Verb</h3>
 <b>google</b>
 <ol><li> {{de-verb form of|googeln|1|s|g}}</li>
@@ -909,18 +769,16 @@ google:
 <li> {{de-verb form of|googeln|1|s|k1}}</li>
 <li> {{de-verb form of|googeln|3|s|k1}}</li>
 </ol>
-----
+---->>>
 ***gratis***
-gratis:
-
+HtmlEntry: gratis <<<
 <h3>Adverb</h3>
 <b>gratis</b>
 <ol><li> free, without charge</li>
 </ol>
-Category:German adverbs----
+Category:German adverbs---->>>
 ***Guatemala***
-Guatemala:
-
+HtmlEntry: Guatemala <<<
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=n}}
 <ol><li> {{l|en|Guatemala}}</li>
@@ -931,10 +789,9 @@ Guatemala:
 <li> {{l|de|Guatemaltekin}}</li>
 <li> {{l|de|guatemaltekisch}}</li>
 </ul>
-Category:de:Countries----
+Category:de:Countries---->>>
 ***Guyana***
-Guyana:
-{{wikipedia|lang=de}}
+HtmlEntry: Guyana <<<{{wikipedia|lang=de}}
 <h3>Proper noun</h3>
 <b>Guyana</b> {n}
 <ol><li> Guyana</li>
@@ -946,10 +803,9 @@ Guyana:
 <li> Guyanerin</li>
 <li> guyanisch</li>
 </ul>
-Category:German proper nounsCategory:de:Countries----
+Category:German proper nounsCategory:de:Countries---->>>
 ***Haiti***
-Haiti:
-{{wikipedia|lang=de}}
+HtmlEntry: Haiti <<<{{wikipedia|lang=de}}
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|/haˈiːti/|lang=de}}</li>
 </ul>
@@ -964,10 +820,9 @@ Haiti:
 <li> {{l|de|Haitianerin}}</li>
 <li> {{l|de|haitianisch}}</li>
 </ul>
-Category:de:Countries----
+Category:de:Countries---->>>
 ***Haus***
-Haus:
-
+HtmlEntry: Haus <<<
 <h3>Etymology</h3>
 From {{etyl|goh|de}} {{term|hus|hūs|lang=goh}}, from {{proto|Germanic|hūsan|lang=de}}.  Cognate with Dutch <em>huis</em>, English <em>house</em>.
 <h3>Pronunciation</h3>
@@ -989,10 +844,9 @@ From {{etyl|goh|de}} {{term|hus|hūs|lang=goh}}, from {{proto|Germanic|hūsan|la
 <li> Herrenhaus</li>
 <li> Haushalt</li>
 </ul>
-----
+---->>>
 ***hell***
-hell:
-
+HtmlEntry: hell <<<
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|/hɛl/|lang=de}}</li>
 <li> {{audio|De-hell.ogg|audio (Germany)}}</li>
@@ -1003,10 +857,9 @@ hell:
 {{head|de|adjective|comparative|heller|superlative|am hellsten}}
 <ol><li> clear, bright, light</li>
 </ol>
-----
+---->>>
 ***Honduras***
-Honduras:
-{{wikipedia|lang=de}}
+HtmlEntry: Honduras <<<{{wikipedia|lang=de}}
 <h3>Proper noun</h3>
 <b>Honduras</b> {n}
 <ol><li> Honduras</li>
@@ -1018,10 +871,9 @@ Honduras:
 <li> Honduranerin</li>
 <li> honduranisch</li>
 </ul>
-Category:German proper nounsCategory:de:Countries----
+Category:German proper nounsCategory:de:Countries---->>>
 ***ik***
-ik:
-
+HtmlEntry: ik <<<
 <h3>Alternative forms</h3>
 <ul><li> {{qualifier|Low Prussian}} &ouml;ck, eck</li>
 </ul>
@@ -1044,10 +896,9 @@ From {{etyl|osx|nds}} {{term|ik|lang=osx}}, from {{proto|Germanic|ek|lang=nds}},
 <h4>Related terms</h4>
 <ul><li> mien (<em>possessive</em>: my, mine); mi (<em>dative</em> (also generally used in place of the accusative): me); wi (<em>plural</em>: we)</li>
 </ul>
-----
+---->>>
 ***in***
-in:
-
+HtmlEntry: in <<<
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|/ʔɪn/|lang=de}}</li>
 <li> {{audio|DE-in.OGG|audio}}</li>
@@ -1080,26 +931,23 @@ From {{etyl|en|de}} {{term|in|lang=en}}.
 {{de-adj|-}}
 <ol><li> in, popular</li>
 </ol>
-----
-in:
-
+---->>>
+HtmlEntry: in <<<
 <h3>Etymology</h3>
 From {{proto|Germanic|in|lang=goh}}, whence also Old English <em>in</em>, Old Norse <em>&iacute;</em>
 <h3>Preposition</h3>
 {{head|goh|preposition}}
 <ol><li> in</li>
 </ol>
-----
-in:
-
+---->>>
+HtmlEntry: in <<<
 <h3>Preposition</h3>
 {{head|pdc|preposition}}
 <ol><li> in</li>
 </ol>
-----
+---->>>
 ***Iran***
-Iran:
-
+HtmlEntry: Iran <<<
 <h3>Pronunciation</h3>
 <ul><li> {{rhymes|aːn|lang=de}}</li>
 </ul>
@@ -1116,20 +964,18 @@ The article (<em>der</em>) is often used with the name of the country, thus one 
 <li> Persien</li>
 <li> Persisch</li>
 </ul>
-Category:de:Countries----
+Category:de:Countries---->>>
 ***is***
-is:
-
+HtmlEntry: is <<<
 <h3>Etymology</h3>
 From {{proto|Germanic|īsan|lang=goh}}
 <h3>Noun</h3>
 <b>īs</b>
 <ol><li> ice</li>
 </ol>
-Category:Old High German nouns----
+Category:Old High German nouns---->>>
 ***Israel***
-Israel:
-
+HtmlEntry: Israel <<<
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-Israel.ogg|Audio}}</li>
 </ul>
@@ -1146,10 +992,9 @@ Israel:
 <li> Israelitin</li>
 <li> Israeli</li>
 </ul>
-Category:de:Countries----
+Category:de:Countries---->>>
 ***Japan***
-Japan:
-
+HtmlEntry: Japan <<<
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|/ˈjaːpaːn/|lang=de}}</li>
 <li> {{audio|De-Japan.ogg|audio}}</li>
@@ -1166,10 +1011,9 @@ Japan:
 <li> Japanisch</li>
 <li> japanisch</li>
 </ul>
-Category:de:CountriesCategory:de:Exonyms----
+Category:de:CountriesCategory:de:Exonyms---->>>
 ***Kiribati***
-Kiribati:
-{{wikipedia|lang=de}}
+HtmlEntry: Kiribati <<<{{wikipedia|lang=de}}
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=n}}
 <ol><li> {{l|en|Kiribati}}</li>
@@ -1178,10 +1022,9 @@ Kiribati:
 <h4>Derived terms</h4>
 <ul><li> {{l|de|kiribatisch}}</li>
 </ul>
-Category:de:Countries----
+Category:de:Countries---->>>
 ***Kuwait***
-Kuwait:
-{{wikipedia|lang=de}}
+HtmlEntry: Kuwait <<<{{wikipedia|lang=de}}
 <h3>Proper noun</h3>
 {{de-proper noun|g=n}}
 <ol><li> {{l|en|Kuwait}}</li>
@@ -1192,10 +1035,9 @@ Kuwait:
 <li> {{l|de|Kuwaiterin}}</li>
 <li> {{l|de|kuwaitisch}}</li>
 </ul>
-Category:de:Countries----
+Category:de:Countries---->>>
 ***Laos***
-Laos:
-{{wikipedia|lang=de}}
+HtmlEntry: Laos <<<{{wikipedia|lang=de}}
 <h3>Proper noun</h3>
 {{de-proper noun|g=n}}
 <ol><li> {{l|en|Laos}}</li>
@@ -1206,19 +1048,17 @@ Laos:
 <li> Laotin</li>
 <li> laotisch</li>
 </ul>
-Category:de:CountriesCategory:de:Exonyms----
+Category:de:CountriesCategory:de:Exonyms---->>>
 ***last***
-last:
-
+HtmlEntry: last <<<
 <h3>Verb</h3>
 {{head|de}}
 <ol><li> {{de-verb form of|lesen|2|s|v}}</li>
 <li> {{de-verb form of|lesen|2|p|v}}</li>
 </ol>
-----
+---->>>
 ***Liberia***
-Liberia:
-{{wikipedia|lang=de}}
+HtmlEntry: Liberia <<<{{wikipedia|lang=de}}
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|/liˈbeːʁia/|lang=de}}</li>
 </ul>
@@ -1233,10 +1073,9 @@ Liberia:
 <li> {{l|de|Liberianerin}}</li>
 <li> {{l|de|liberianisch}}</li>
 </ul>
-Category:de:Countries----
+Category:de:Countries---->>>
 ***Liechtenstein***
-Liechtenstein:
-{{wikipedia|lang=de}}
+HtmlEntry: Liechtenstein <<<{{wikipedia|lang=de}}
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|/ˈlɪ&ccedil;tn̩ˌʃtaɪ̯n/|lang=de}}</li>
 <li> {{audio|De-Liechtenstein.ogg|Audio}}</li>
@@ -1252,13 +1091,9 @@ Liechtenstein:
 <li> {{l|de|Liechtensteinerin}}</li>
 <li> {{l|de|liechtensteinisch}}</li>
 </ul>
-Category:de:Countries----
-===lists===
-Appendix:Swadesh lists:
-The words from Swadesh's original 100-word list are designated by an asterisk (*). In the composite list on this page, there are actually 207 words, since seven of the words in the 100-word list (<em>breast</em>, <em>fingernail</em>, <em>full</em>, <em>horn</em>, <em>knee</em>, <em>moon</em>, <em>round</em>) were not in the original 200-word list. {|  align=center class=&quot;wikitable sortable&quot;|  i=No | No!  c=en | English!  c=fr | French!  c=de | German!  c=it | Italian!  c=es | Spanish!  c=nl | Dutch!  c=sw | Swedish!  c=la | Latin|- |  i=No | 1|  c=en | I *|  c=fr | je|  c=de | ich|  c=it | io|  c=es | yo|  c=nl | ik|  c=sw | jag|  c=la | ego|- |  i=No | 2|  c=en | you <em>sing.</em>, thou|  c=fr | tu, vous (formal)|  c=de | du, Sie (formal)|  c=it | tu, Lei (formal)|  c=es | t&uacute;, usted (formal)|  c=nl | jij, je, U (formal)|  c=sw | du|  c=la | tu|- |  i=No | 3|  c=en | he|  c=fr | il|  c=de | er|  c=it | lui, egli|  c=es | &eacute;l|  c=nl | hij|  c=sw | han|  c=la | is, ea|- |  i=No | 4|  c=en | we *|  c=fr | nous|  c=de | wir|  c=it | noi|  c=es | nosotros|  c=nl | wij, we|  c=sw | vi|  c=la | nos|- |  i=No | 5|  c=en | you <em>pl.</em>|  c=fr | vous|  c=de | ihr, Sie (formal)|  c=it | voi|  c=es | vosotros, ustedes (formal)|  c=nl | jullie|  c=sw | ni|  c=la | vos|- |  i=No | 6|  c=en | they|  c=fr | ils, elles|  c=de | sie|  c=it | loro, essi|  c=es | ellos, ellas|  c=nl | zij, ze|  c=sw | de|  c=la | ii, eae|- |  i=No | 7|  c=en | this *|  c=fr | ceci|  c=de | dieses|  c=it | questo|  c=es | este|  c=nl | deze, dit|  c=sw | det h&auml;r|  c=la | hic, is|- |  i=No | 8|  c=en | that *|  c=fr | cela|  c=de | jenes, das|  c=it | quello|  c=es | ese, aquel|  c=nl | die, dat|  c=sw | det d&auml;r|  c=la | ille|- |  i=No | 9|  c=en | here|  c=fr | ici|  c=de | hier|  c=it | qui, qua|  c=es | aqu&iacute;, ac&aacute;|  c=nl | hier|  c=sw | h&auml;r|  c=la | hic|- |  i=No | 10|  c=en | there|  c=fr | l&agrave;|  c=de | dort|  c=it | l&agrave;|  c=es | ah&iacute;, all&iacute;, all&aacute;|  c=nl | daar|  c=sw | d&auml;r|  c=la | ibi|- |  i=No | 11|  c=en | who *|  c=fr | qui|  c=de | wer|  c=it | chi|  c=es | quien|  c=nl | wie|  c=sw | vem|  c=la | quis|- |  i=No | 12|  c=en | what *|  c=fr | quoi|  c=de | was|  c=it | che|  c=es | que|  c=nl | wat|  c=sw | vad|  c=la | quid|- |  i=No | 13|  c=en | where|  c=fr | o&ugrave;|  c=de | wo|  c=it | dove|  c=es | donde|  c=nl | waar|  c=sw | var|  c=la | ubi|- |  i=No | 14|  c=en | when|  c=fr | quand|  c=de | wann|  c=it | quando|  c=es | cuando|  c=nl | wanneer|  c=sw | n&auml;r|  c=la | quando|- |  i=No | 15|  c=en | how|  c=fr | comment|  c=de | wie|  c=it | come|  c=es | como|  c=nl | hoe|  c=sw | hur|  c=la | quam, quomodo|- |  i=No | 16|  c=en | not *|  c=fr | ne...pas|  c=de | nicht|  c=it | non|  c=es | no|  c=nl | niet|  c=sw | inte, ej|  c=la | non|- |  i=No | 17|  c=en | all *|  c=fr | tout|  c=de | alle|  c=it | tutto|  c=es | todo|  c=nl | al, alle|  c=sw | alla|  c=la | omnis|- |  i=No | 18|  c=en | many *|  c=fr | plusieurs|  c=de | viele|  c=it | molti|  c=es | muchos|  c=nl | veel|  c=sw | m&aring;nga|  c=la | multi|- |  i=No | 19|  c=en | some|  c=fr | quelques|  c=de | einige|  c=it | alcuni|  c=es | algunos, unos|  c=nl | enkele, sommige|  c=sw | n&aring;gra, vissa|  c=la | aliqui, aliquot|- |  i=No | 20|  c=en | few|  c=fr | peu|  c=de | wenige|  c=it | pochi|  c=es | poco|  c=nl | weinig|  c=sw | f&aring;|  c=la | pauci|- |  i=No | 21|  c=en | other|  c=fr | autre|  c=de | andere|  c=it | altro|  c=es | otro|  c=nl | ander|  c=sw | annan|  c=la | alter, alius|- |  i=No | 22|  c=en | one *|  c=fr | un|  c=de | eins|  c=it | uno|  c=es | uno|  c=nl | een|  c=sw | ett|  c=la | unus|- |  i=No | 23|  c=en | two *|  c=fr | deux|  c=de | zwei|  c=it | due|  c=es | dos|  c=nl | twee|  c=sw | tv&aring;|  c=la | duo|- |  i=No | 24|  c=en | three|  c=fr | trois|  c=de | drei|  c=it | tre|  c=es | tres|  c=nl | drie|  c=sw | tre|  c=la | tres|- |  i=No | 25|  c=en | four|  c=fr | quatre|  c=de | vier|  c=it | quattro|  c=es | cuatro|  c=nl | vier|  c=sw | fyra|  c=la | quattuor|- |  i=No | 26|  c=en | five|  c=fr | cinq|  c=de | f&uuml;nf|  c=it | cinque|  c=es | cinco|  c=nl | vijf|  c=sw | fem|  c=la | quinque|- |  i=No | 27|  c=en | big *|  c=fr | grand|  c=de | gro&szlig;|  c=it | grande|  c=es | grande|  c=nl | groot|  c=sw | stor|  c=la | magnus, grandis|- |  i=No | 28|  c=en | long *|  c=fr | long|  c=de | lang|  c=it | lungo|  c=es | largo|  c=nl | lang|  c=sw | l&aring;ng|  c=la | longus|- |  i=No | 29|  c=en | wide|  c=fr | large|  c=de | breit, weit|  c=it | largo|  c=es | ancho|  c=nl | breed, wijd|  c=sw | bred, vid|  c=la | latus|- |  i=No | 30|  c=en | thick|  c=fr | &eacute;pais|  c=de | dick|  c=it | spesso|  c=es | grueso|  c=nl | dik|  c=sw | tjock|  c=la | creber|- |  i=No | 31|  c=en | heavy|  c=fr | lourd|  c=de | schwer|  c=it | pesante|  c=es | pesado|  c=nl | zwaar|  c=sw | tung|  c=la | gravis|- |  i=No | 32|  c=en | small *|  c=fr | petit|  c=de | klein|  c=it | piccolo|  c=es | peque&ntilde;o|  c=nl | smal|  c=sw | liten|  c=la | parvus|- |  i=No | 33|  c=en | short|  c=fr | court|  c=de | kurz|  c=it | corto|  c=es | corto|  c=nl | kort|  c=sw | kort|  c=la | brevis|- |  i=No | 34|  c=en | narrow|  c=fr | &eacute;troit|  c=de | eng|  c=it | stretto|  c=es | estrecho, angosto|  c=nl | klein|  c=sw | tr&aring;ng|  c=la | angustus|- |  i=No | 35|  c=en | thin|  c=fr | mince|  c=de | d&uuml;nn|  c=it | sottile|  c=es | delgado, flaco|  c=nl | dun|  c=sw | tunn|  c=la | macer|- |  i=No | 36|  c=en | woman *|  c=fr | femme|  c=de | Frau|  c=it | donna|  c=es | mujer|  c=nl | vrouw|  c=sw | kvinna|  c=la | femina|- |  i=No | 37|  c=en | man (adult male)|  c=fr | homme|  c=de | Mann|  c=it | uomo|  c=es | hombre|  c=nl | man|  c=sw | man|  c=la | vir|- |  i=No | 38|  c=en | man * (human being)|  c=fr | homme|  c=de | Mensch|  c=it | uomo|  c=es | hombre|  c=nl | mens|  c=sw | m&auml;nniska|  c=la | homo|- |  i=No | 39|  c=en | kid|  c=fr | enfant|  c=de | Kind|  c=it | bambino|  c=es | ni&ntilde;o|  c=nl | kind|  c=sw | barn|  c=la | puer|- |  i=No | 40|  c=en | wife|  c=fr | femme, &eacute;pouse|  c=de | Frau, Ehefrau|  c=it | moglie|  c=es | esposa, mujer|  c=nl | vrouw, echtgenote|  c=sw | hustru, maka, fru|  c=la | uxor, mulier|- |  i=No | 41|  c=en | husband|  c=fr | mari, &eacute;poux|  c=de | Mann, Ehemann|  c=it | marito|  c=es | esposo, marido|  c=nl | man, echtgenoot|  c=sw | man, make|  c=la | maritus|- |  i=No | 42|  c=en | mother|  c=fr | m&egrave;re|  c=de | Mutter|  c=it | madre|  c=es | madre|  c=nl | moeder|  c=sw | mamma, mor|  c=la | mater|- |  i=No | 43|  c=en | father|  c=fr | p&egrave;re|  c=de | Vater|  c=it | padre|  c=es | padre|  c=nl | vader|  c=sw | pappa, far|  c=la | pater|- |  i=No | 44|  c=en | animal|  c=fr | animal|  c=de | Tier|  c=it | animale|  c=es | animal|  c=nl | dier|  c=sw | djur|  c=la | animal|- |  i=No | 45|  c=en | fish *|  c=fr | poisson|  c=de | Fisch|  c=it | pesce|  c=es | pez, pescado|  c=nl | vis|  c=sw | fisk|  c=la | piscis|- |  i=No | 46|  c=en | bird *|  c=fr | oiseau|  c=de | Vogel|  c=it | uccello|  c=es | ave, p&aacute;jaro|  c=nl | vogel|  c=sw | f&aring;gel|  c=la | avis|- |  i=No | 47|  c=en | hound *|  c=fr | chien|  c=de | Hund|  c=it | cane|  c=es | perro|  c=nl | hond|  c=sw | hund|  c=la | canis|- |  i=No | 48|  c=en | louse *|  c=fr | pou|  c=de | Laus|  c=it | pidocchio|  c=es | piojo|  c=nl | luis|  c=sw | lus|  c=la | pedis|- |  i=No | 49|  c=en | snake|  c=fr | serpent|  c=de | Schlange|  c=it | serpente|  c=es | serpiente, culebra|  c=nl | slang|  c=sw | orm|  c=la | serpens|- |  i=No | 50|  c=en | worm|  c=fr | ver|  c=de | Wurm|  c=it | verme|  c=es | gusano|  c=nl | worm|  c=sw | mask|  c=la | vermis|- |  i=No | 51|  c=en | beam *|  c=fr | arbre|  c=de | Baum|  c=it | albero|  c=es | &aacute;rbol|  c=nl | boom|  c=sw | tr&auml;d|  c=la | arbor|- |  i=No | 52|  c=en | forest|  c=fr | for&ecirc;t|  c=de | Wald|  c=it | foresta|  c=es | bosque|  c=nl | woud|  c=sw | skog|  c=la | silva|- |  i=No | 53|  c=en | stick|  c=fr | b&acirc;ton|  c=de | Stock|  c=it | bastone|  c=es | palo|  c=nl | stok|  c=sw | pinne|  c=la | fustis|- |  i=No | 54|  c=en | fruit|  c=fr | fruit|  c=de | Frucht|  c=it | frutta|  c=es | fruta|  c=nl | fruit, vrucht|  c=sw | frukt|  c=la | fructus|- |  i=No | 55|  c=en | seed *|  c=fr | graine|  c=de | Samen|  c=it | seme|  c=es | semilla|  c=nl | zaad|  c=sw | fr&ouml;|  c=la | semen|- |  i=No | 56|  c=en | leaf *|  c=fr | feuille|  c=de | Blatt|  c=it | foglia|  c=es | hoja|  c=nl | blad|  c=sw | l&ouml;v, blad|  c=la | folium|- |  i=No | 57|  c=en | root *|  c=fr | racine|  c=de | Wurzel|  c=it | radice|  c=es | ra&iacute;z|  c=nl | root|  c=sw | rot|  c=la | radix|- |  i=No | 58|  c=en | bark * (from tree)|  c=fr | &eacute;corce|  c=de | Rinde|  c=it | corteccia|  c=es | corteza|  c=nl | bark|  c=sw | bark|  c=la | cortex|- |  i=No | 59|  c=en | flower|  c=fr | fleur|  c=de | Blume|  c=it | fiore|  c=es | flor|  c=nl | bloem|  c=sw | blomma|  c=la | flos|- |  i=No | 60|  c=en | grass|  c=fr | herbe|  c=de | Gras|  c=it | erba|  c=es | hierba, pasto|  c=nl | gras|  c=sw | gr&auml;s|  c=la | herba|- |  i=No | 61|  c=en | rope|  c=fr | corde|  c=de | Seil|  c=it | corda|  c=es | cuerda|  c=nl | reep, koord|  c=sw | rep|  c=la | funis|- |  i=No | 62|  c=en | skin *|  c=fr | peau|  c=de | Haut|  c=it | pelle|  c=es | piel|  c=nl | huid|  c=sw | hud|  c=la | cutis|- |  i=No | 63|  c=en | meat|  c=fr | viande|  c=de | Fleisch|  c=it | carne|  c=es | carne|  c=nl | vlees|  c=sw | k&ouml;tt|  c=la | caro|- |  i=No | 64|  c=en | blood *|  c=fr | sang|  c=de | Blut|  c=it | sangue|  c=es | sangre|  c=nl | bloed|  c=sw | blod|  c=la | sanguis|- |  i=No | 65|  c=en | bone *|  c=fr | os|  c=de | Knochen|  c=it | osso|  c=es | hueso|  c=nl | been, bot|  c=sw | ben|  c=la | os|- |  i=No | 66|  c=en | fat * (n.)|  c=fr | graisse|  c=de | Fett|  c=it | grasso|  c=es | grasa|  c=nl | vet|  c=sw | fett|  c=la | adeps|- |  i=No | 67|  c=en | egg *|  c=fr | œuf|  c=de | Ei|  c=it | uovo|  c=es | huevo|  c=nl | ei|  c=sw | &auml;gg|  c=la | ovum|- |  i=No | 68|  c=en | horn *|  c=fr | corne|  c=de | Horn|  c=it | corno|  c=es | cuerno|  c=nl | horn|  c=sw | horn|  c=la | cornu|- |  i=No | 69|  c=en | tail *|  c=fr | queue|  c=de | Schwanz|  c=it | coda|  c=es | cola|  c=nl | staart|  c=sw | svans|  c=la | cauda|- |  i=No | 70|  c=en | feather *|  c=fr | plume|  c=de | Feder|  c=it | piuma|  c=es | pluma|  c=nl | veder|  c=sw | fj&auml;der|  c=la | penna|- |  i=No | 71|  c=en | hair *|  c=fr | cheveu|  c=de | Haar|  c=it | capelli|  c=es | cabello, pelo|  c=nl | haar|  c=sw | h&aring;r|  c=la | capillus, coma, crinis|- |  i=No | 72|  c=en | head *|  c=fr | t&ecirc;te|  c=de | Kopf, Haupt|  c=it | testa|  c=es | cabeza|  c=nl | hoofd, kop|  c=sw | huvud|  c=la | caput|- |  i=No | 73|  c=en | ear *|  c=fr | oreille|  c=de | Ohr|  c=it | orecchio|  c=es | oreja|  c=nl | aar|  c=sw | &ouml;ra|  c=la | auris|- |  i=No | 74|  c=en | eye *|  c=fr | œil|  c=de | Auge|  c=it | occhio|  c=es | ojo|  c=nl | oog|  c=sw | &ouml;ga|  c=la | oculus|- |  i=No | 75|  c=en | nose *|  c=fr | nez|  c=de | Nase|  c=it | naso|  c=es | nariz|  c=nl | neus|  c=sw | n&auml;sa|  c=la | nasus|- |  i=No | 76|  c=en | mouth *|  c=fr | bouche|  c=de | Mund|  c=it | bocca|  c=es | boca|  c=nl | mond|  c=sw | mun|  c=la | os|- |  i=No | 77|  c=en | tooth *|  c=fr | dent|  c=de | Zahn|  c=it | dente|  c=es | diente|  c=nl | tand|  c=sw | tand|  c=la | dens|- |  i=No | 78|  c=en | tongue *|  c=fr | langue|  c=de | Zunge|  c=it | lingua|  c=es | lengua|  c=nl | tong|  c=sw | tunga|  c=la | lingua|- |  i=No | 79|  c=en | fingernail|  c=fr | ongle|  c=de | Fingernagel|  c=it | unghia|  c=es | u&ntilde;a|  c=nl | vingernagel|  c=sw | nagel|  c=la | unguis|- |  i=No | 80|  c=en | foot *|  c=fr | pied|  c=de | Fu&szlig;|  c=it | piede|  c=es | pie|  c=nl | voet|  c=sw | fot|  c=la | pes|- |  i=No | 81|  c=en | leg|  c=fr | jambe|  c=de | Bein|  c=it | gamba|  c=es | pierna|  c=nl | been|  c=sw | ben|  c=la | crus|- |  i=No | 82|  c=en | knee *|  c=fr | genou|  c=de | Knie|  c=it | ginocchio|  c=es | rodilla|  c=nl | knie|  c=sw | kn&auml;|  c=la | genu|- |  i=No | 83|  c=en | hand *|  c=fr | main|  c=de | Hand|  c=it | mano|  c=es | mano|  c=nl | hand|  c=sw | hand|  c=la | manus|- |  i=No | 84|  c=en | wing|  c=fr | aile|  c=de | Fl&uuml;gel|  c=it | ala|  c=es | ala|  c=nl | vleugel|  c=sw | vinge|  c=la | ala|- |  i=No | 85|  c=en | belly *|  c=fr | ventre|  c=de | Bauch|  c=it | pancia|  c=es | barriga, vientre, panza|  c=nl | buik|  c=sw | mage|  c=la | venter|- |  i=No | 86|  c=en | guts|  c=fr | entrailles|  c=de | Eingeweide, Innereien|  c=it | intestino|  c=es | entra&ntilde;as, tripas|  c=nl | ingewanden|  c=sw | in&auml;lvor|  c=la | intestina|- |  i=No | 87|  c=en | neck *|  c=fr | cou|  c=de | Hals|  c=it | collo|  c=es | cuello|  c=nl | nek|  c=sw | hals, nacke|  c=la | collum, cervix|- |  i=No | 88|  c=en | back|  c=fr | dos|  c=de | R&uuml;cken|  c=it | schiena|  c=es | espalda|  c=nl | rug|  c=sw | rygg|  c=la | tergum|- |  i=No | 89|  c=en | breast *|  c=fr | sein, poitrine|  c=de | Brust|  c=it | petto|  c=es | pecho, seno|  c=nl | borst|  c=sw | br&ouml;st|  c=la | pectus, mamma|- |  i=No | 90|  c=en | heart *|  c=fr | cœur|  c=de | Herz|  c=it | cuore|  c=es | coraz&oacute;n|  c=nl | hart|  c=sw | hj&auml;rta|  c=la | cor|- |  i=No | 91|  c=en | liver *|  c=fr | foie|  c=de | Leber|  c=it | fegato|  c=es | h&iacute;gado|  c=nl | lever|  c=sw | lever|  c=la | iecur|- |  i=No | 92|  c=en | drink *|  c=fr | boire|  c=de | trinken|  c=it | bere|  c=es | beber, tomar|  c=nl | drinken|  c=sw | dricka|  c=la | bibere|- |  i=No | 93|  c=en | eat *|  c=fr | manger|  c=de | essen|  c=it | mangiare|  c=es | comer|  c=nl | eten|  c=sw | &auml;ta|  c=la | edere|- |  i=No | 94|  c=en | bite *|  c=fr | mordre|  c=de | bei&szlig;en|  c=it | mordere|  c=es | morder|  c=nl | bijten|  c=sw | bita|  c=la | mordere|- |  i=No | 95|  c=en | suck|  c=fr | sucer|  c=de | saugen|  c=it | succhiare|  c=es | chupar|  c=nl | zuigen|  c=sw | suga|  c=la | sugere|- |  i=No | 96|  c=en | spit|  c=fr | cracher|  c=de | spucken|  c=it | sputare|  c=es | escupir|  c=nl | spugen|  c=sw | spotta|  c=la | sputare|- |  i=No | 97|  c=en | vomit|  c=fr | vomir|  c=de | erbrechen|  c=it | vomitare|  c=es | vomitar|  c=nl | braken, overgeven|  c=sw | kr&auml;kas, spy|  c=la | vomere|- |  i=No | 98|  c=en | blow|  c=fr | souffler|  c=de | blasen|  c=it | soffiare|  c=es | soplar|  c=nl | blazen|  c=sw | bl&aring;sa|  c=la | flare|- |  i=No | 99|  c=en | breathe|  c=fr | respirer|  c=de | atmen|  c=it | respirare|  c=es | respirar|  c=nl | ademen|  c=sw | andas|  c=la | spirare|- |  i=No | 100|  c=en | laugh|  c=fr | rire|  c=de | lachen|  c=it | ridere|  c=es | re&iacute;r|  c=nl | lachen|  c=sw | skratta|  c=la | ridere|- |  i=No | 101|  c=en | see *|  c=fr | voir|  c=de | sehen|  c=it | vedere|  c=es | ver|  c=nl | zien|  c=sw | se|  c=la | videre|- |  i=No | 102|  c=en | hear *|  c=fr | entendre|  c=de | h&ouml;ren|  c=it | udire, sentire|  c=es | o&iacute;r|  c=nl | horen|  c=sw | h&ouml;ra|  c=la | audire|- |  i=No | 103|  c=en | know * (a fact)|  c=fr | savoir|  c=de | wissen|  c=it | sapere|  c=es | saber|  c=nl | kennen|  c=sw | veta|  c=la | scire|- |  i=No | 104|  c=en | think|  c=fr | penser|  c=de | denken|  c=it | pensare|  c=es | pensar|  c=nl | denken|  c=sw | t&auml;nka|  c=la | putare|- |  i=No | 105|  c=en | smell|  c=fr | sentir|  c=de | riechen|  c=it | odorare, annusare|  c=es | oler|  c=nl | smelten|  c=sw | lukta|  c=la | olere|- |  i=No | 106|  c=en | fear|  c=fr | craindre, avoir peur|  c=de | f&uuml;rchten|  c=it | temere|  c=es | temer|  c=nl | vrezen, angst|  c=sw | frukta, r&auml;das|  c=la | timere|- |  i=No | 107|  c=en | sleep *|  c=fr | dormir|  c=de | schlafen|  c=it | dormire|  c=es | dormir|  c=nl | slapen|  c=sw | sova|  c=la | dormire|- |  i=No | 108|  c=en | live|  c=fr | vivre|  c=de | leben|  c=it | vivere|  c=es | vivir|  c=nl | leven|  c=sw | leva|  c=la | vivere|- |  i=No | 109|  c=en | die *|  c=fr | mourir|  c=de | sterben|  c=it | morire|  c=es | morir|  c=nl | doden|  c=sw | d&ouml;|  c=la | mori|- |  i=No | 110|  c=en | kill *|  c=fr | tuer|  c=de | t&ouml;ten|  c=it | uccidere|  c=es | matar|  c=nl | doden|  c=sw | d&ouml;da|  c=la | necare|- |  i=No | 111|  c=en | fight|  c=fr | se battre|  c=de | k&auml;mpfen|  c=it | combattere|  c=es | pelear|  c=nl | vechten|  c=sw | strida|  c=la | pugnare|- |  i=No | 112|  c=en | hunt|  c=fr | chasser|  c=de | jagen|  c=it | cacciare|  c=es | cazar|  c=nl | jagen|  c=sw | jaga|  c=la | venari|- |  i=No | 113|  c=en | hit|  c=fr | frapper|  c=de | schlagen|  c=it | colpire|  c=es | golpear|  c=nl | slaan|  c=sw | sl&aring;|  c=la | pellere|- |  i=No | 114|  c=en | cut|  c=fr | couper|  c=de | schneiden|  c=it | tagliare|  c=es | cortar|  c=nl | snijden|  c=sw | sk&auml;ra|  c=la | secare|- |  i=No | 115|  c=en | split|  c=fr | fendre|  c=de | spalten|  c=it | dividere, separare|  c=es | partir|  c=nl | splijten|  c=sw | dela, klyva|  c=la | scindere, partiri|- |  i=No | 116|  c=en | stab|  c=fr | poignarder|  c=de | stechen|  c=it | pugnalare|  c=es | apu&ntilde;alar|  c=nl | steken|  c=sw | sticka|  c=la | traicere|- |  i=No | 117|  c=en | scratch|  c=fr | gratter|  c=de | kratzen|  c=it | graffiare|  c=es | ara&ntilde;ar, rascar|  c=nl | krabben|  c=sw | klia|  c=la | radere|- |  i=No | 118|  c=en | dig|  c=fr | creuser|  c=de | graben|  c=it | scavare|  c=es | cavar|  c=nl | delven|  c=sw | gr&auml;va|  c=la | fodere|- |  i=No | 119|  c=en | swim *|  c=fr | nager|  c=de | schwimmen|  c=it | nuotare|  c=es | nadar|  c=nl | zwemmen|  c=sw | simma|  c=la | natare|- |  i=No | 120|  c=en | fly * (v.)|  c=fr | voler|  c=de | fliegen|  c=it | volare|  c=es | volar|  c=nl | vliegen|  c=sw | flyga|  c=la | volare|- |  i=No | 121|  c=en | walk *|  c=fr | marcher|  c=de | gehen|  c=it | camminare|  c=es | caminar|  c=nl | lopen, wandelen|  c=sw | g&aring;|  c=la | gradi|- |  i=No | 122|  c=en | come *|  c=fr | venir|  c=de | kommen|  c=it | venire|  c=es | venir|  c=nl | komen|  c=sw | komma|  c=la | venire|- |  i=No | 123|  c=en | lie *|  c=fr | s'&eacute;tendre|  c=de | liegen|  c=it | distendersi|  c=es | echarse, acostarse, tenderse|  c=nl | liegen|  c=sw | ligga|  c=la | iacere|- |  i=No | 124|  c=en | sit *|  c=fr | s'asseoir|  c=de | setzen|  c=it | sedere|  c=es | sentarse|  c=nl | zitten|  c=sw | sitta|  c=la | sedere|- |  i=No | 125|  c=en | stand *|  c=fr | se lever|  c=de | stehen|  c=it | stare in piedi|  c=es | estar de pie|  c=nl | staan|  c=sw | st&aring;|  c=la | stare|- |  i=No | 126|  c=en | turn|  c=fr | tourner|  c=de | drehen|  c=it | girare|  c=es | voltear|  c=nl | draaien|  c=sw | sv&auml;nga|  c=la | vertere|- |  i=No | 127|  c=en | fall|  c=fr | tomber|  c=de | fallen|  c=it | cadere|  c=es | caer|  c=nl | vallen|  c=sw | falla|  c=la | cadere|- |  i=No | 128|  c=en | give *|  c=fr | donner|  c=de | geben|  c=it | dare|  c=es | dar|  c=nl | geven|  c=sw | ge|  c=la | dare|- |  i=No | 129|  c=en | hold|  c=fr | tenir|  c=de | halten|  c=it | tenere|  c=es | sostener|  c=nl | houden|  c=sw | h&aring;lla|  c=la | tenere|- |  i=No | 130|  c=en | squeeze|  c=fr | serrer|  c=de | quetschen|  c=it | spremere|  c=es | apretar|  c=nl | knijpen|  c=sw | kl&auml;mma|  c=la | premere|- |  i=No | 131|  c=en | rub|  c=fr | frotter|  c=de | reiben|  c=it | strofinare|  c=es | frotar, restregar|  c=nl | wrijven|  c=sw | gnida|  c=la | fricare|- |  i=No | 132|  c=en | wash|  c=fr | laver|  c=de | waschen|  c=it | lavare|  c=es | lavar|  c=nl | wassen|  c=sw | tv&auml;tta|  c=la | lavare|- |  i=No | 133|  c=en | wipe|  c=fr | essuyer|  c=de | wischen|  c=it | asciugare|  c=es | limpiar|  c=nl | vegen|  c=sw | rensa|  c=la | tergere|- |  i=No | 134|  c=en | pull|  c=fr | tirer|  c=de | ziehen|  c=it | tirare|  c=es | tirar|  c=nl | trekken|  c=sw | dra|  c=la | trahere|- |  i=No | 135|  c=en | push|  c=fr | pousser|  c=de | dr&uuml;cken|  c=it | spingere|  c=es | empujar|  c=nl | duwen|  c=sw | trycka|  c=la | pellere, urgere|- |  i=No | 136|  c=en | throw|  c=fr | jeter|  c=de | werfen|  c=it | tirare|  c=es | tirar|  c=nl | werpen, gooien|  c=sw | kasta|  c=la | iacere|- |  i=No | 137|  c=en | tie|  c=fr | lier|  c=de | binden|  c=it | legare|  c=es | atar|  c=nl | binden|  c=sw | knyta, binda|  c=la | stringere, ligare|- |  i=No | 138|  c=en | sew|  c=fr | coudre|  c=de | n&auml;hen|  c=it | cucire|  c=es | coser|  c=nl | naaien|  c=sw | sy|  c=la | suere|- |  i=No | 139|  c=en | count|  c=fr | compter|  c=de | z&auml;hlen|  c=it | contare|  c=es | contar|  c=nl | tellen|  c=sw | r&auml;kna|  c=la | numerare|- |  i=No | 140|  c=en | say *|  c=fr | dire|  c=de | sagen|  c=it | dire|  c=es | decir|  c=nl | zeggen|  c=sw | s&auml;ga|  c=la | dicere|- |  i=No | 141|  c=en | sing|  c=fr | chanter|  c=de | singen|  c=it | cantare|  c=es | cantar|  c=nl | zingen|  c=sw | sjunga|  c=la | canere|- |  i=No | 142|  c=en | play|  c=fr | jouer|  c=de | spielen|  c=it | giocare|  c=es | jugar|  c=nl | spelen|  c=sw | leka, spela|  c=la | ludere|- |  i=No | 143|  c=en | float|  c=fr | flotter|  c=de | schweben|  c=it | galleggiare|  c=es | flotar|  c=nl | zweven|  c=sw | flyta|  c=la | fluctuare|- |  i=No | 144|  c=en | flow|  c=fr | couler|  c=de | flie&szlig;en|  c=it | fluire|  c=es | fluir|  c=nl | vloeien|  c=sw | rinna|  c=la | fluere|- |  i=No | 145|  c=en | freeze|  c=fr | geler|  c=de | frieren|  c=it | gelare|  c=es | helar|  c=nl | vriezen|  c=sw | frysa|  c=la | gelare|- |  i=No | 146|  c=en | swell|  c=fr | gonfler|  c=de | schwellen|  c=it | gonfiare|  c=es | hincharse|  c=nl | zwellen|  c=sw | sv&auml;lla|  c=la | inflare|- |  i=No | 147|  c=en | sun *|  c=fr | soleil|  c=de | Sonne|  c=it | sole|  c=es | sol|  c=nl | zon|  c=sw | sol|  c=la | sol|- |  i=No | 148|  c=en | moon *|  c=fr | lune|  c=de | Mond|  c=it | luna|  c=es | luna|  c=nl | maan|  c=sw | m&aring;ne|  c=la | luna|- |  i=No | 149|  c=en | star *|  c=fr | &eacute;toile|  c=de | Stern|  c=it | stella|  c=es | estrella|  c=nl | ster|  c=sw | stj&auml;rna|  c=la | stella|- |  i=No | 150|  c=en | water *|  c=fr | eau|  c=de | Wasser|  c=it | acqua|  c=es | agua|  c=nl | water|  c=sw | vatten|  c=la | aqua|- |  i=No | 151|  c=en | rain *|  c=fr | pluie|  c=de | Regen|  c=it | pioggia|  c=es | lluvia|  c=nl | regen|  c=sw | regn|  c=la | pluvia|- |  i=No | 152|  c=en | river|  c=fr | rivi&egrave;re|  c=de | Flu&szlig;|  c=it | fiume|  c=es | r&iacute;o|  c=nl | rivier|  c=sw | flod|  c=la | fluvius|- |  i=No | 153|  c=en | lake|  c=fr | lac|  c=de | See|  c=it | lago|  c=es | lago|  c=nl | lak|  c=sw | sj&ouml;|  c=la | lacus|- |  i=No | 154|  c=en | sea|  c=fr | mer|  c=de | Meer, See|  c=it | mare|  c=es | mar|  c=nl | zee|  c=sw | hav|  c=la | mare|- |  i=No | 155|  c=en | salt|  c=fr | sel|  c=de | Salz|  c=it | sale|  c=es | sal|  c=nl | zout|  c=sw | salt|  c=la | sal|- |  i=No | 156|  c=en | stone *|  c=fr | pierre|  c=de | Stein|  c=it | pietra|  c=es | piedra|  c=nl | steen|  c=sw | sten|  c=la | lapis, petra|- |  i=No | 157|  c=en | sand *|  c=fr | sable|  c=de | Sand|  c=it | sabbia|  c=es | arena|  c=nl | zand|  c=sw | sand|  c=la | arena|- |  i=No | 158|  c=en | dust|  c=fr | poussi&egrave;re|  c=de | Staub|  c=it | polvere|  c=es | polvo|  c=nl | stof|  c=sw | damm|  c=la | pulvis|- |  i=No | 159|  c=en | earth *|  c=fr | terre|  c=de | Erde|  c=it | terra|  c=es | tierra|  c=nl | aarde|  c=sw | jord|  c=la | terra|- |  i=No | 160|  c=en | cloud *|  c=fr | nuage|  c=de | Wolke|  c=it | nuvola|  c=es | nube|  c=nl | wolk|  c=sw | moln|  c=la | nimbus, nubes|- |  i=No | 161|  c=en | fog|  c=fr | brouillard|  c=de | Nebel|  c=it | nebbia|  c=es | niebla|  c=nl | mist, nevel|  c=sw | dimma|  c=la | caligo, nebula|- |  i=No | 162|  c=en | sky|  c=fr | ciel|  c=de | Himmel|  c=it | cielo|  c=es | cielo|  c=nl | lucht|  c=sw | himmel|  c=la | caelum|- |  i=No | 163|  c=en | wind|  c=fr | vent|  c=de | Wind|  c=it | vento|  c=es | viento|  c=nl | wind|  c=sw | vind|  c=la | ventus|- |  i=No | 164|  c=en | snow|  c=fr | neige|  c=de | Schnee|  c=it | neve|  c=es | nieve|  c=nl | sneeuw|  c=sw | sn&ouml;|  c=la | nix|- |  i=No | 165|  c=en | ice|  c=fr | glace|  c=de | Eis|  c=it | ghiaccio|  c=es | hielo|  c=nl | ijs|  c=sw | is|  c=la | glacies|- |  i=No | 166|  c=en | smoke *|  c=fr | fum&eacute;e|  c=de | Rauch|  c=it | fumo|  c=es | humo|  c=nl | rook|  c=sw | r&ouml;k|  c=la | fumus|- |  i=No | 167|  c=en | fire *|  c=fr | feu|  c=de | Feuer|  c=it | fuoco|  c=es | fuego|  c=nl | vuur|  c=sw | eld|  c=la | ignis|- |  i=No | 168|  c=en | ashes *|  c=fr | cendres|  c=de | Asche|  c=it | ceneri|  c=es | cenizas|  c=nl | as|  c=sw | aska|  c=la | cineres|- |  i=No | 169|  c=en | burn *|  c=fr | br&ucirc;ler|  c=de | brennen|  c=it | bruciare|  c=es | quemar|  c=nl | branden|  c=sw | brinna|  c=la | ardere|- |  i=No | 170|  c=en | road *|  c=fr | route|  c=de | Stra&szlig;e|  c=it | strada|  c=es | camino|  c=nl | weg|  c=sw | v&auml;g|  c=la | via|- |  i=No | 171|  c=en | mountain *|  c=fr | montagne|  c=de | Berg|  c=it | montagna|  c=es | monta&ntilde;a|  c=nl | berg|  c=sw | berg|  c=la | mons|- |  i=No | 172|  c=en | red *|  c=fr | rouge|  c=de | rot|  c=it | rosso|  c=es | rojo|  c=nl | rode|  c=sw | r&ouml;d|  c=la | ruber|- |  i=No | 173|  c=en | green *|  c=fr | vert|  c=de | gr&uuml;n|  c=it | verde|  c=es | verde|  c=nl | groen|  c=sw | gr&ouml;n|  c=la | viridis|- |  i=No | 174|  c=en | yellow *|  c=fr | jaune|  c=de | gelb|  c=it | giallo|  c=es | amarillo|  c=nl | geel|  c=sw | gul|  c=la | flavus|- |  i=No | 175|  c=en | white *|  c=fr | blanc|  c=de | wei&szlig;|  c=it | bianco|  c=es | blanco|  c=nl | witte|  c=sw | vit|  c=la | albus, candidus|- |  i=No | 176|  c=en | black *|  c=fr | noir|  c=de | schwarz|  c=it | nero|  c=es | negro|  c=nl | zwart|  c=sw | svart|  c=la | niger, ater, fuscus|- |  i=No | 177|  c=en | night *|  c=fr | nuit|  c=de | Nacht|  c=it | notte|  c=es | noche|  c=nl | nacht|  c=sw | natt|  c=la | nox|- |  i=No | 178|  c=en | day|  c=fr | jour|  c=de | Tag|  c=it | giorno|  c=es | d&iacute;a|  c=nl | dag|  c=sw | dag|  c=la | dies|- |  i=No | 179|  c=en | year|  c=fr | an, ann&eacute;e|  c=de | Jahr|  c=it | anno|  c=es | a&ntilde;o|  c=nl | jaar|  c=sw | &aring;r|  c=la | annus|- |  i=No | 180|  c=en | warm *|  c=fr | chaud|  c=de | warm|  c=it | caldo|  c=es | c&aacute;lido, tibio|  c=nl | warm|  c=sw | varm|  c=la | calidus|- |  i=No | 181|  c=en | cold *|  c=fr | froid|  c=de | kalt|  c=it | freddo|  c=es | fr&iacute;o|  c=nl | koud|  c=sw | kall|  c=la | frigidus|- |  i=No | 182|  c=en | full *|  c=fr | plein|  c=de | volle|  c=it | pieno|  c=es | lleno|  c=nl | volle|  c=sw | full|  c=la | plenus|- |  i=No | 183|  c=en | new *|  c=fr | nouveau|  c=de | neu|  c=it | nuovo|  c=es | nuevo|  c=nl | nieuw|  c=sw | ny|  c=la | novus|- |  i=No | 184|  c=en | old|  c=fr | vieux|  c=de | alt|  c=it | vecchio|  c=es | viejo|  c=nl | oud|  c=sw | gammal|  c=la | vetus|- |  i=No | 185|  c=en | good *|  c=fr | bon|  c=de | gut|  c=it | buono|  c=es | bueno|  c=nl | goed|  c=sw | bra|  c=la | bonus|- |  i=No | 186|  c=en | bad|  c=fr | mauvais|  c=de | schlecht|  c=it | cattivo|  c=es | malo&lt;br&gt;|  c=nl | slecht|  c=sw | d&aring;lig|  c=la | malus|- |  i=No | 187|  c=en | rotten|  c=fr | pourri|  c=de | verrottet|  c=it | marcio|  c=es | podrido|  c=nl | rotten|  c=sw | rutten|  c=la | puter, putridus|- |  i=No | 188|  c=en | dirty|  c=fr | sale|  c=de | schmutzig|  c=it | sporco|  c=es | sucio|  c=nl | vies|  c=sw | smutsig|  c=la | sordidus|- |  i=No | 189|  c=en | straight|  c=fr | droit|  c=de | gerade|  c=it | diritto|  c=es | recto|  c=nl | recht|  c=sw | rak|  c=la | rectus|- |  i=No | 190|  c=en | round *|  c=fr | rond|  c=de | rund|  c=it | rotondo|  c=es | redondo|  c=nl | rond|  c=sw | rund|  c=la | rotundus|- |  i=No | 191|  c=en | sharp|  c=fr | tranchant, pointu, aigu|  c=de | scharf|  c=it | aguzzo, affilato|  c=es | afilado|  c=nl | scherp|  c=sw | vass|  c=la | acer|- |  i=No | 192|  c=en | dull|  c=fr | &eacute;mouss&eacute;|  c=de | stumpf|  c=it | noioso|  c=es | desafilado|  c=nl | stomp, bot|  c=sw | sl&ouml;|  c=la | hebes|- |  i=No | 193|  c=en | smooth|  c=fr | lisse|  c=de | glatt|  c=it | liscio|  c=es | suave, liso|  c=nl | glad|  c=sw | len, sl&auml;t|  c=la | levis|- |  i=No | 194|  c=en | wet|  c=fr | mouill&eacute;|  c=de | nass, feucht|  c=it | bagnato|  c=es | mojado|  c=nl | nat|  c=sw | v&aring;t, bl&ouml;t|  c=la | umidus|- |  i=No | 195|  c=en | dry *|  c=fr | sec|  c=de | trocken|  c=it | asciutto, secco|  c=es | seco|  c=nl | droog|  c=sw | torr|  c=la | siccus|- |  i=No | 196|  c=en | correct|  c=fr | juste, correct|  c=de | richtig|  c=it | corretto|  c=es | correcto|  c=nl | richting, correct|  c=sw | r&auml;tt, riktig|  c=la | rectus|- |  i=No | 197|  c=en | near|  c=fr | proche|  c=de | nah,&lt;br&gt;nahe|  c=it | vicino|  c=es | cerca|  c=nl | naar|  c=sw | n&auml;ra|  c=la | propinquus|- |  i=No | 198|  c=en | far|  c=fr | loin|  c=de | weit, fern|  c=it | lontano|  c=es | lejos|  c=nl | ver|  c=sw | l&aring;ngt bort, fj&auml;rran|  c=la | longinquus|- |  i=No | 199|  c=en | right|  c=fr | &agrave; droite|  c=de | rechts|  c=it | destra|  c=es | derecha|  c=nl | rechts|  c=sw | h&ouml;ger|  c=la | dexter|- |  i=No | 200|  c=en | left|  c=fr | &agrave; gauche|  c=de | links|  c=it | sinistra|  c=es | izquierda|  c=nl | links|  c=sw | v&auml;nster|  c=la | sinister|- |  i=No | 201|  c=en | at|  c=fr | &agrave;|  c=de | bei, an|  c=it | a|  c=es | a, en, ante|  c=nl | aan, te, bij|  c=sw | hos, vid|  c=la | ad|- |  i=No | 202|  c=en | in|  c=fr | dans|  c=de | in|  c=it | in|  c=es | en|  c=nl | in|  c=sw | i|  c=la | in|- |  i=No | 203|  c=en | with|  c=fr | avec|  c=de | mit|  c=it | con|  c=es | con|  c=nl | met|  c=sw | med|  c=la | cum|- |  i=No | 204|  c=en | and|  c=fr | et|  c=de | und|  c=it | e|  c=es | y|  c=nl | en|  c=sw | och|  c=la | et|- |  i=No | 205|  c=en | if|  c=fr | si|  c=de | wenn, falls, ob|  c=it | se|  c=es | si|  c=nl | als, indien|  c=sw | om|  c=la | si|- |  i=No | 206|  c=en | because|  c=fr | parce que|  c=de | weil|  c=it | perch&eacute;|  c=es | porque|  c=nl | omdat|  c=sw | eftersom, ty|  c=la | quia, quoniam|- |  i=No | 207|  c=en | name *|  c=fr | nom|  c=de | Name|  c=it | nome|  c=es | nombre|  c=nl | naam|  c=sw | namn|  c=la | nomen|}
+Category:de:Countries---->>>
 ***Malawi***
-Malawi:
-{{wikipedia|lang=de}}
+HtmlEntry: Malawi <<<{{wikipedia|lang=de}}
 <h3>Proper noun</h3>
 <b>Malawi</b> {n}
 <ol><li> {{l|en|Malawi}}</li>
@@ -1269,18 +1104,16 @@ Malawi:
 <li> Malawierin</li>
 <li> malawisch</li>
 </ul>
-Category:German proper nounsCategory:de:Countries----
+Category:German proper nounsCategory:de:Countries---->>>
 ***Malaysia***
-Malaysia:
-{{wikipedia|lang=de}}
+HtmlEntry: Malaysia <<<{{wikipedia|lang=de}}
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=n}}
 <ol><li> Malaysia</li>
 </ol>
-Category:de:Countries----
+Category:de:Countries---->>>
 ***Mali***
-Mali:
-{{wikipedia|lang=de}}
+HtmlEntry: Mali <<<{{wikipedia|lang=de}}
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-Mali.ogg|Audio}}</li>
 </ul>
@@ -1295,10 +1128,9 @@ Mali:
 <li> Malierin</li>
 <li> malisch</li>
 </ul>
-Category:German proper nounsCategory:de:Countries----
+Category:German proper nounsCategory:de:Countries---->>>
 ***Malta***
-Malta:
-{{wikipedia|lang=de}}
+HtmlEntry: Malta <<<{{wikipedia|lang=de}}
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=n}}
 <ol><li> {{l|en|Malta}}</li>
@@ -1309,10 +1141,9 @@ Malta:
 <li> Malteser</li>
 <li> Malteserin</li>
 </ul>
-Category:de:CountriesCategory:de:Islands----
+Category:de:CountriesCategory:de:Islands---->>>
 ***man***
-man:
-
+HtmlEntry: man <<<
 <h3>Etymology</h3>
 From the same source as <em>Mann</em> (&quot;adult male&quot;).&lt;ref&gt;Theo Stemmler: <em>Wie das Eisbein ins Lexikon kam,</em> page 15, ISBN 978-3-411-72291-4.&lt;/ref&gt;
 <h3>Pronunciation</h3>
@@ -1339,9 +1170,8 @@ From the same source as <em>Mann</em> (&quot;adult male&quot;).&lt;ref&gt;Theo S
 </ul>
 
 <h4>References</h4>
-&lt;references/&gt;----
-man:
-
+&lt;references/&gt;---->>>
+HtmlEntry: man <<<
 <h3>Conjunction</h3>
 {{head|nds|conjunction}}
 <ol><li> {{context|in many dialects, including|_|Low Prussian}} only; but</li>
@@ -1351,19 +1181,17 @@ man:
 <ul><li> {{qualifier|in various dialects}} avers, awer (<em>and many variations thereof; for which, see those entries</em>)</li>
 <li> {{qualifier|in some dialects}} bloots</li>
 </ul>
-----
-man:
-
+---->>>
+HtmlEntry: man <<<
 <h3>Etymology</h3>
 From {{proto|Germanic|mann-|lang=goh}}.
 <h3>Noun</h3>
 {{goh-noun|g=m}}
 <ol><li> man</li>
 </ol>
-----
+---->>>
 ***Mauritius***
-Mauritius:
-{{wikipedia|lang=de}}
+HtmlEntry: Mauritius <<<{{wikipedia|lang=de}}
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=n}}
 <ol><li> {{l|en|Mauritius}}</li>
@@ -1374,28 +1202,25 @@ Mauritius:
 <li> Mauritierin</li>
 <li> mauritisch</li>
 </ul>
-Category:de:Countries----
+Category:de:Countries---->>>
 ***Monaco***
-Monaco:
-
+HtmlEntry: Monaco <<<
 <h3>Proper noun</h3>
 {{head|de|proper noun}}
 <ol><li> {{l|en|Monaco}}</li>
 </ol>
-Category:de:Countries----
+Category:de:Countries---->>>
 ***most***
-most:
-
+HtmlEntry: most <<<
 <h3>Etymology</h3>
 From {{etyl|la|goh}} {{term|mustum|lang=la}}.
 <h3>Noun</h3>
 {{goh-noun|g=m}}
 <ol><li> must</li>
 </ol>
-----
+---->>>
 ***nine***
-nine:
-
+HtmlEntry: nine <<<
 <h3>Alternative forms</h3>
 <ul><li> nin</li>
 </ul>
@@ -1408,10 +1233,9 @@ nine:
 {{head|gsw|cardinal number}}
 <ol><li> {{context|Alsatian|lang=gsw}} {{l|en|nine}}</li>
 </ol>
-----
+---->>>
 ***November***
-November:
-
+HtmlEntry: November <<<
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|/noˈvɛmbɐ/|lang=de}}</li>
 <li> {{audio|De-November.ogg|audio}}</li>
@@ -1421,10 +1245,9 @@ November:
 {{head|de|noun|g=m}}
 <ol><li> {{l|en|November}}</li>
 </ol>
-Category:de:Months----
+Category:de:Months---->>>
 ***nu***
-nu:
-
+HtmlEntry: nu <<<
 <h3>Interjection</h3>
 {{head|de|interjection}}
 <ol><li> well, well now</li>
@@ -1433,17 +1256,15 @@ nu:
 <h4>Synonyms</h4>
 <ul><li> na</li>
 </ul>
-----
+---->>>
 ***o***
-o:
-
+HtmlEntry: o <<<
 <h3>Particle</h3>
 {{head|de|particle}}
 <ol><li> O</li>
 </ol>
-----
-o:
-
+---->>>
+HtmlEntry: o <<<
 <h3>Etymology</h3>
 From {{proto|Germanic|awjō|lang=gml}}. Cognate with {{etyl|non|-}} {{term|ey|lang=non}} ({{etyl|sv|-}} {{term|&ouml;|lang=sv}}, {{etyl|no|-}} {{term|&oslash;y|lang=no}}).
 <h3>Pronunciation</h3>
@@ -1456,10 +1277,9 @@ From {{proto|Germanic|awjō|lang=gml}}. Cognate with {{etyl|non|-}} {{term|ey|la
 </ol>
 
 <h4>Usage notes</h4>
-Since this is actually an Umlaut, some Middle Low German authors will have written this word as io, &oslash;, &ouml; etc. depending on the system of marking the Umlaut. The semi-standard used in the prime of Middle Low German did not mark the Umlaut.----
+Since this is actually an Umlaut, some Middle Low German authors will have written this word as io, &oslash;, &ouml; etc. depending on the system of marking the Umlaut. The semi-standard used in the prime of Middle Low German did not mark the Umlaut.---->>>
 ***on***
-on:
-
+HtmlEntry: on <<<
 <h3>Etymology</h3>
 Ultimately cognate to {{etyl|de|-}} und.
 <h3>Conjunction</h3>
@@ -1470,10 +1290,9 @@ Ultimately cognate to {{etyl|de|-}} und.
 </ul>
 </ul>
 </ol>
-Category:Low German conjunctions----
+Category:Low German conjunctions---->>>
 ***orange***
-orange:
-
+HtmlEntry: orange <<<
 <h3>Etymology</h3>
 From the noun {{term|Orange|lang=de}}
 <h3>Pronunciation</h3>
@@ -1484,18 +1303,16 @@ From the noun {{term|Orange|lang=de}}
 {{de-adj|-}}
 <ol><li> orange-coloured</li>
 </ol>
-Category:de:ColorsCategory:de:Colors of the rainbow----
+Category:de:ColorsCategory:de:Colors of the rainbow---->>>
 ***planet***
-planet:
-
+HtmlEntry: planet <<<
 <h3>Verb</h3>
 {{head|de}}
 <ol><li> {{de-verb form of|planen|2|p|k1}}</li>
 </ol>
-----
+---->>>
 ***PM***
-PM:
-
+HtmlEntry: PM <<<
 <h3>{{initialism|de}}</h3>
 <b>PM</b>
 <ol><li> Pressemitteilung</li>
@@ -1505,63 +1322,9 @@ PM:
 </ul>
 <li> Papiermaschine</li>
 </ol>
-cs:PMet:PMfr:PMhe:PMli:PMhu:PMpl:PMpt:PMfi:PMsv:PMtr:PM
-===Proto===
-Appendix:Proto-Germanic/frijaz:
-
-<h3>Etymology</h3>
-From {{proto|ine-pro|prei-|lang=gem-pro}}, compare {{termx|frijōnan|to be fond of|lang=gem-pro}}. The original meaning was probably something like <em>from the own clan</em>, from which a meaning <em>being a free man, not a serf</em> developed.
-<h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈɸri.jɑz/|lang=gem-pro}}</li>
-</ul>
-
-<h3>Adjective</h3>
-{gem-adj}
-<ol><li> free</li>
-</ol>
-
-<h4>Declension</h4>
-{{gem-decl-adj-a|frij}}
-<h4>Related terms</h4>
-<ul><li> {{lx|gem-pro|frijōnan|frijōną}}</li>
-</ul>
-
-<h4>Descendants</h4>
-<ul><li> Old English: {{l|ang|freo|frēo}}</li>
-<ul><li> English: {{l|en|free}}</li>
-</ul>
-<li> Old Frisian: {{l|ofs|fri|frī}}</li>
-<ul><li> West Frisian: {{l|fy|frij}}</li>
-</ul>
-<li> Old Saxon: {{l|osx|fri|frī}}</li>
-<ul><li> Middle Low German: {{l|gml|vri}}</li>
-<ul><li> Norwegian: {{l|no|fri}}</li>
-<li> Swedish: {{l|sv|fri}}</li>
-<li> Danish: {{l|da|fri}}</li>
-</ul>
-</ul>
-<li> Old Dutch: *frī</li>
-<ul><li> Middle Dutch: {{l|dum|vri}}</li>
-<ul><li> Dutch: {{l|nl|vrij}}</li>
-<ul><li> Afrikaans: {{l|af|vry}}</li>
-</ul>
-</ul>
-</ul>
-<li> Old High German: {{l|goh|fri|frī}}</li>
-<ul><li> German: {{l|de|frei}}</li>
-</ul>
-<li> Gothic: {{l|got|𐍆𐍂𐌴𐌹𐍃|tr=freis}}</li>
-</ul>
-
-===Resources===
-Wiktionary:Resources for translators:
-<ul><li> [http://dict.leo.org/ Leo] - German &lt;-&gt; English plus 5 other languages, hosted by Technical University Munich (German interface)</li>
-<li> [http://www.woerterbuch-uebersetzung.de/ W&ouml;rterbuch &Uuml;bersetzung] - German &lt;-&gt; English (German interface)</li>
-</ul>
-
+cs:PMet:PMfr:PMhe:PMli:PMhu:PMpl:PMpt:PMfi:PMsv:PMtr:PM>>>
 ***September***
-September:
-
+HtmlEntry: September <<<
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|/zɛpˈtɛmbɐ/|lang=de}}</li>
 <li> {{audio|September.ogg|September}}</li>
@@ -1572,20 +1335,18 @@ September:
 {{head|de|noun|g=m}}
 <ol><li> {{l|en|September}}</li>
 </ol>
-Category:de:Months----
+Category:de:Months---->>>
 ***SMS***
-SMS:
-
+HtmlEntry: SMS <<<
 <h3>{{initialism|German}}</h3>
 {{head|de|initialism}}
 <ol><li> {{nautical|military|lang=de}} SMS &amp;mdash; Seiner Majest&auml;t Schiff, <em>His Majesty's Ship</em></li>
 </ol>
 
 <h4>Usage notes</h4>
-Used for naval ships of the Austro-Hungarian Empire and the Second Reich of Imperial Germany, for the Kaiserliche und K&ouml;nigliche Kriegsmarine and Kaiserliche Marine, respectively.Category:de:Ship prefixesde:SMSes:SMSfr:SMSko:SMSit:SMShe:SMSku:SMSpl:SMSpt:SMSru:SMSta:SMStr:SMSzh:SMS
+Used for naval ships of the Austro-Hungarian Empire and the Second Reich of Imperial Germany, for the Kaiserliche und K&ouml;nigliche Kriegsmarine and Kaiserliche Marine, respectively.Category:de:Ship prefixesde:SMSes:SMSfr:SMSko:SMSit:SMShe:SMSku:SMSpl:SMSpt:SMSru:SMSta:SMStr:SMSzh:SMS>>>
 ***spring***
-spring:
-
+HtmlEntry: spring <<<
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|/ʃpʀɪŋ/|lang=de}}</li>
 </ul>
@@ -1595,35 +1356,23 @@ spring:
 <ol><li> {{de-verb form of|springen|i|s}}</li>
 <li> {colloquial} {{de-verb form of|springen|1|s|g}}</li>
 </ol>
-----
-===Swadesh===
-Appendix:Swadesh lists:
-The words from Swadesh's original 100-word list are designated by an asterisk (*). In the composite list on this page, there are actually 207 words, since seven of the words in the 100-word list (<em>breast</em>, <em>fingernail</em>, <em>full</em>, <em>horn</em>, <em>knee</em>, <em>moon</em>, <em>round</em>) were not in the original 200-word list. {|  align=center class=&quot;wikitable sortable&quot;|  i=No | No!  c=en | English!  c=fr | French!  c=de | German!  c=it | Italian!  c=es | Spanish!  c=nl | Dutch!  c=sw | Swedish!  c=la | Latin|- |  i=No | 1|  c=en | I *|  c=fr | je|  c=de | ich|  c=it | io|  c=es | yo|  c=nl | ik|  c=sw | jag|  c=la | ego|- |  i=No | 2|  c=en | you <em>sing.</em>, thou|  c=fr | tu, vous (formal)|  c=de | du, Sie (formal)|  c=it | tu, Lei (formal)|  c=es | t&uacute;, usted (formal)|  c=nl | jij, je, U (formal)|  c=sw | du|  c=la | tu|- |  i=No | 3|  c=en | he|  c=fr | il|  c=de | er|  c=it | lui, egli|  c=es | &eacute;l|  c=nl | hij|  c=sw | han|  c=la | is, ea|- |  i=No | 4|  c=en | we *|  c=fr | nous|  c=de | wir|  c=it | noi|  c=es | nosotros|  c=nl | wij, we|  c=sw | vi|  c=la | nos|- |  i=No | 5|  c=en | you <em>pl.</em>|  c=fr | vous|  c=de | ihr, Sie (formal)|  c=it | voi|  c=es | vosotros, ustedes (formal)|  c=nl | jullie|  c=sw | ni|  c=la | vos|- |  i=No | 6|  c=en | they|  c=fr | ils, elles|  c=de | sie|  c=it | loro, essi|  c=es | ellos, ellas|  c=nl | zij, ze|  c=sw | de|  c=la | ii, eae|- |  i=No | 7|  c=en | this *|  c=fr | ceci|  c=de | dieses|  c=it | questo|  c=es | este|  c=nl | deze, dit|  c=sw | det h&auml;r|  c=la | hic, is|- |  i=No | 8|  c=en | that *|  c=fr | cela|  c=de | jenes, das|  c=it | quello|  c=es | ese, aquel|  c=nl | die, dat|  c=sw | det d&auml;r|  c=la | ille|- |  i=No | 9|  c=en | here|  c=fr | ici|  c=de | hier|  c=it | qui, qua|  c=es | aqu&iacute;, ac&aacute;|  c=nl | hier|  c=sw | h&auml;r|  c=la | hic|- |  i=No | 10|  c=en | there|  c=fr | l&agrave;|  c=de | dort|  c=it | l&agrave;|  c=es | ah&iacute;, all&iacute;, all&aacute;|  c=nl | daar|  c=sw | d&auml;r|  c=la | ibi|- |  i=No | 11|  c=en | who *|  c=fr | qui|  c=de | wer|  c=it | chi|  c=es | quien|  c=nl | wie|  c=sw | vem|  c=la | quis|- |  i=No | 12|  c=en | what *|  c=fr | quoi|  c=de | was|  c=it | che|  c=es | que|  c=nl | wat|  c=sw | vad|  c=la | quid|- |  i=No | 13|  c=en | where|  c=fr | o&ugrave;|  c=de | wo|  c=it | dove|  c=es | donde|  c=nl | waar|  c=sw | var|  c=la | ubi|- |  i=No | 14|  c=en | when|  c=fr | quand|  c=de | wann|  c=it | quando|  c=es | cuando|  c=nl | wanneer|  c=sw | n&auml;r|  c=la | quando|- |  i=No | 15|  c=en | how|  c=fr | comment|  c=de | wie|  c=it | come|  c=es | como|  c=nl | hoe|  c=sw | hur|  c=la | quam, quomodo|- |  i=No | 16|  c=en | not *|  c=fr | ne...pas|  c=de | nicht|  c=it | non|  c=es | no|  c=nl | niet|  c=sw | inte, ej|  c=la | non|- |  i=No | 17|  c=en | all *|  c=fr | tout|  c=de | alle|  c=it | tutto|  c=es | todo|  c=nl | al, alle|  c=sw | alla|  c=la | omnis|- |  i=No | 18|  c=en | many *|  c=fr | plusieurs|  c=de | viele|  c=it | molti|  c=es | muchos|  c=nl | veel|  c=sw | m&aring;nga|  c=la | multi|- |  i=No | 19|  c=en | some|  c=fr | quelques|  c=de | einige|  c=it | alcuni|  c=es | algunos, unos|  c=nl | enkele, sommige|  c=sw | n&aring;gra, vissa|  c=la | aliqui, aliquot|- |  i=No | 20|  c=en | few|  c=fr | peu|  c=de | wenige|  c=it | pochi|  c=es | poco|  c=nl | weinig|  c=sw | f&aring;|  c=la | pauci|- |  i=No | 21|  c=en | other|  c=fr | autre|  c=de | andere|  c=it | altro|  c=es | otro|  c=nl | ander|  c=sw | annan|  c=la | alter, alius|- |  i=No | 22|  c=en | one *|  c=fr | un|  c=de | eins|  c=it | uno|  c=es | uno|  c=nl | een|  c=sw | ett|  c=la | unus|- |  i=No | 23|  c=en | two *|  c=fr | deux|  c=de | zwei|  c=it | due|  c=es | dos|  c=nl | twee|  c=sw | tv&aring;|  c=la | duo|- |  i=No | 24|  c=en | three|  c=fr | trois|  c=de | drei|  c=it | tre|  c=es | tres|  c=nl | drie|  c=sw | tre|  c=la | tres|- |  i=No | 25|  c=en | four|  c=fr | quatre|  c=de | vier|  c=it | quattro|  c=es | cuatro|  c=nl | vier|  c=sw | fyra|  c=la | quattuor|- |  i=No | 26|  c=en | five|  c=fr | cinq|  c=de | f&uuml;nf|  c=it | cinque|  c=es | cinco|  c=nl | vijf|  c=sw | fem|  c=la | quinque|- |  i=No | 27|  c=en | big *|  c=fr | grand|  c=de | gro&szlig;|  c=it | grande|  c=es | grande|  c=nl | groot|  c=sw | stor|  c=la | magnus, grandis|- |  i=No | 28|  c=en | long *|  c=fr | long|  c=de | lang|  c=it | lungo|  c=es | largo|  c=nl | lang|  c=sw | l&aring;ng|  c=la | longus|- |  i=No | 29|  c=en | wide|  c=fr | large|  c=de | breit, weit|  c=it | largo|  c=es | ancho|  c=nl | breed, wijd|  c=sw | bred, vid|  c=la | latus|- |  i=No | 30|  c=en | thick|  c=fr | &eacute;pais|  c=de | dick|  c=it | spesso|  c=es | grueso|  c=nl | dik|  c=sw | tjock|  c=la | creber|- |  i=No | 31|  c=en | heavy|  c=fr | lourd|  c=de | schwer|  c=it | pesante|  c=es | pesado|  c=nl | zwaar|  c=sw | tung|  c=la | gravis|- |  i=No | 32|  c=en | small *|  c=fr | petit|  c=de | klein|  c=it | piccolo|  c=es | peque&ntilde;o|  c=nl | smal|  c=sw | liten|  c=la | parvus|- |  i=No | 33|  c=en | short|  c=fr | court|  c=de | kurz|  c=it | corto|  c=es | corto|  c=nl | kort|  c=sw | kort|  c=la | brevis|- |  i=No | 34|  c=en | narrow|  c=fr | &eacute;troit|  c=de | eng|  c=it | stretto|  c=es | estrecho, angosto|  c=nl | klein|  c=sw | tr&aring;ng|  c=la | angustus|- |  i=No | 35|  c=en | thin|  c=fr | mince|  c=de | d&uuml;nn|  c=it | sottile|  c=es | delgado, flaco|  c=nl | dun|  c=sw | tunn|  c=la | macer|- |  i=No | 36|  c=en | woman *|  c=fr | femme|  c=de | Frau|  c=it | donna|  c=es | mujer|  c=nl | vrouw|  c=sw | kvinna|  c=la | femina|- |  i=No | 37|  c=en | man (adult male)|  c=fr | homme|  c=de | Mann|  c=it | uomo|  c=es | hombre|  c=nl | man|  c=sw | man|  c=la | vir|- |  i=No | 38|  c=en | man * (human being)|  c=fr | homme|  c=de | Mensch|  c=it | uomo|  c=es | hombre|  c=nl | mens|  c=sw | m&auml;nniska|  c=la | homo|- |  i=No | 39|  c=en | kid|  c=fr | enfant|  c=de | Kind|  c=it | bambino|  c=es | ni&ntilde;o|  c=nl | kind|  c=sw | barn|  c=la | puer|- |  i=No | 40|  c=en | wife|  c=fr | femme, &eacute;pouse|  c=de | Frau, Ehefrau|  c=it | moglie|  c=es | esposa, mujer|  c=nl | vrouw, echtgenote|  c=sw | hustru, maka, fru|  c=la | uxor, mulier|- |  i=No | 41|  c=en | husband|  c=fr | mari, &eacute;poux|  c=de | Mann, Ehemann|  c=it | marito|  c=es | esposo, marido|  c=nl | man, echtgenoot|  c=sw | man, make|  c=la | maritus|- |  i=No | 42|  c=en | mother|  c=fr | m&egrave;re|  c=de | Mutter|  c=it | madre|  c=es | madre|  c=nl | moeder|  c=sw | mamma, mor|  c=la | mater|- |  i=No | 43|  c=en | father|  c=fr | p&egrave;re|  c=de | Vater|  c=it | padre|  c=es | padre|  c=nl | vader|  c=sw | pappa, far|  c=la | pater|- |  i=No | 44|  c=en | animal|  c=fr | animal|  c=de | Tier|  c=it | animale|  c=es | animal|  c=nl | dier|  c=sw | djur|  c=la | animal|- |  i=No | 45|  c=en | fish *|  c=fr | poisson|  c=de | Fisch|  c=it | pesce|  c=es | pez, pescado|  c=nl | vis|  c=sw | fisk|  c=la | piscis|- |  i=No | 46|  c=en | bird *|  c=fr | oiseau|  c=de | Vogel|  c=it | uccello|  c=es | ave, p&aacute;jaro|  c=nl | vogel|  c=sw | f&aring;gel|  c=la | avis|- |  i=No | 47|  c=en | hound *|  c=fr | chien|  c=de | Hund|  c=it | cane|  c=es | perro|  c=nl | hond|  c=sw | hund|  c=la | canis|- |  i=No | 48|  c=en | louse *|  c=fr | pou|  c=de | Laus|  c=it | pidocchio|  c=es | piojo|  c=nl | luis|  c=sw | lus|  c=la | pedis|- |  i=No | 49|  c=en | snake|  c=fr | serpent|  c=de | Schlange|  c=it | serpente|  c=es | serpiente, culebra|  c=nl | slang|  c=sw | orm|  c=la | serpens|- |  i=No | 50|  c=en | worm|  c=fr | ver|  c=de | Wurm|  c=it | verme|  c=es | gusano|  c=nl | worm|  c=sw | mask|  c=la | vermis|- |  i=No | 51|  c=en | beam *|  c=fr | arbre|  c=de | Baum|  c=it | albero|  c=es | &aacute;rbol|  c=nl | boom|  c=sw | tr&auml;d|  c=la | arbor|- |  i=No | 52|  c=en | forest|  c=fr | for&ecirc;t|  c=de | Wald|  c=it | foresta|  c=es | bosque|  c=nl | woud|  c=sw | skog|  c=la | silva|- |  i=No | 53|  c=en | stick|  c=fr | b&acirc;ton|  c=de | Stock|  c=it | bastone|  c=es | palo|  c=nl | stok|  c=sw | pinne|  c=la | fustis|- |  i=No | 54|  c=en | fruit|  c=fr | fruit|  c=de | Frucht|  c=it | frutta|  c=es | fruta|  c=nl | fruit, vrucht|  c=sw | frukt|  c=la | fructus|- |  i=No | 55|  c=en | seed *|  c=fr | graine|  c=de | Samen|  c=it | seme|  c=es | semilla|  c=nl | zaad|  c=sw | fr&ouml;|  c=la | semen|- |  i=No | 56|  c=en | leaf *|  c=fr | feuille|  c=de | Blatt|  c=it | foglia|  c=es | hoja|  c=nl | blad|  c=sw | l&ouml;v, blad|  c=la | folium|- |  i=No | 57|  c=en | root *|  c=fr | racine|  c=de | Wurzel|  c=it | radice|  c=es | ra&iacute;z|  c=nl | root|  c=sw | rot|  c=la | radix|- |  i=No | 58|  c=en | bark * (from tree)|  c=fr | &eacute;corce|  c=de | Rinde|  c=it | corteccia|  c=es | corteza|  c=nl | bark|  c=sw | bark|  c=la | cortex|- |  i=No | 59|  c=en | flower|  c=fr | fleur|  c=de | Blume|  c=it | fiore|  c=es | flor|  c=nl | bloem|  c=sw | blomma|  c=la | flos|- |  i=No | 60|  c=en | grass|  c=fr | herbe|  c=de | Gras|  c=it | erba|  c=es | hierba, pasto|  c=nl | gras|  c=sw | gr&auml;s|  c=la | herba|- |  i=No | 61|  c=en | rope|  c=fr | corde|  c=de | Seil|  c=it | corda|  c=es | cuerda|  c=nl | reep, koord|  c=sw | rep|  c=la | funis|- |  i=No | 62|  c=en | skin *|  c=fr | peau|  c=de | Haut|  c=it | pelle|  c=es | piel|  c=nl | huid|  c=sw | hud|  c=la | cutis|- |  i=No | 63|  c=en | meat|  c=fr | viande|  c=de | Fleisch|  c=it | carne|  c=es | carne|  c=nl | vlees|  c=sw | k&ouml;tt|  c=la | caro|- |  i=No | 64|  c=en | blood *|  c=fr | sang|  c=de | Blut|  c=it | sangue|  c=es | sangre|  c=nl | bloed|  c=sw | blod|  c=la | sanguis|- |  i=No | 65|  c=en | bone *|  c=fr | os|  c=de | Knochen|  c=it | osso|  c=es | hueso|  c=nl | been, bot|  c=sw | ben|  c=la | os|- |  i=No | 66|  c=en | fat * (n.)|  c=fr | graisse|  c=de | Fett|  c=it | grasso|  c=es | grasa|  c=nl | vet|  c=sw | fett|  c=la | adeps|- |  i=No | 67|  c=en | egg *|  c=fr | œuf|  c=de | Ei|  c=it | uovo|  c=es | huevo|  c=nl | ei|  c=sw | &auml;gg|  c=la | ovum|- |  i=No | 68|  c=en | horn *|  c=fr | corne|  c=de | Horn|  c=it | corno|  c=es | cuerno|  c=nl | horn|  c=sw | horn|  c=la | cornu|- |  i=No | 69|  c=en | tail *|  c=fr | queue|  c=de | Schwanz|  c=it | coda|  c=es | cola|  c=nl | staart|  c=sw | svans|  c=la | cauda|- |  i=No | 70|  c=en | feather *|  c=fr | plume|  c=de | Feder|  c=it | piuma|  c=es | pluma|  c=nl | veder|  c=sw | fj&auml;der|  c=la | penna|- |  i=No | 71|  c=en | hair *|  c=fr | cheveu|  c=de | Haar|  c=it | capelli|  c=es | cabello, pelo|  c=nl | haar|  c=sw | h&aring;r|  c=la | capillus, coma, crinis|- |  i=No | 72|  c=en | head *|  c=fr | t&ecirc;te|  c=de | Kopf, Haupt|  c=it | testa|  c=es | cabeza|  c=nl | hoofd, kop|  c=sw | huvud|  c=la | caput|- |  i=No | 73|  c=en | ear *|  c=fr | oreille|  c=de | Ohr|  c=it | orecchio|  c=es | oreja|  c=nl | aar|  c=sw | &ouml;ra|  c=la | auris|- |  i=No | 74|  c=en | eye *|  c=fr | œil|  c=de | Auge|  c=it | occhio|  c=es | ojo|  c=nl | oog|  c=sw | &ouml;ga|  c=la | oculus|- |  i=No | 75|  c=en | nose *|  c=fr | nez|  c=de | Nase|  c=it | naso|  c=es | nariz|  c=nl | neus|  c=sw | n&auml;sa|  c=la | nasus|- |  i=No | 76|  c=en | mouth *|  c=fr | bouche|  c=de | Mund|  c=it | bocca|  c=es | boca|  c=nl | mond|  c=sw | mun|  c=la | os|- |  i=No | 77|  c=en | tooth *|  c=fr | dent|  c=de | Zahn|  c=it | dente|  c=es | diente|  c=nl | tand|  c=sw | tand|  c=la | dens|- |  i=No | 78|  c=en | tongue *|  c=fr | langue|  c=de | Zunge|  c=it | lingua|  c=es | lengua|  c=nl | tong|  c=sw | tunga|  c=la | lingua|- |  i=No | 79|  c=en | fingernail|  c=fr | ongle|  c=de | Fingernagel|  c=it | unghia|  c=es | u&ntilde;a|  c=nl | vingernagel|  c=sw | nagel|  c=la | unguis|- |  i=No | 80|  c=en | foot *|  c=fr | pied|  c=de | Fu&szlig;|  c=it | piede|  c=es | pie|  c=nl | voet|  c=sw | fot|  c=la | pes|- |  i=No | 81|  c=en | leg|  c=fr | jambe|  c=de | Bein|  c=it | gamba|  c=es | pierna|  c=nl | been|  c=sw | ben|  c=la | crus|- |  i=No | 82|  c=en | knee *|  c=fr | genou|  c=de | Knie|  c=it | ginocchio|  c=es | rodilla|  c=nl | knie|  c=sw | kn&auml;|  c=la | genu|- |  i=No | 83|  c=en | hand *|  c=fr | main|  c=de | Hand|  c=it | mano|  c=es | mano|  c=nl | hand|  c=sw | hand|  c=la | manus|- |  i=No | 84|  c=en | wing|  c=fr | aile|  c=de | Fl&uuml;gel|  c=it | ala|  c=es | ala|  c=nl | vleugel|  c=sw | vinge|  c=la | ala|- |  i=No | 85|  c=en | belly *|  c=fr | ventre|  c=de | Bauch|  c=it | pancia|  c=es | barriga, vientre, panza|  c=nl | buik|  c=sw | mage|  c=la | venter|- |  i=No | 86|  c=en | guts|  c=fr | entrailles|  c=de | Eingeweide, Innereien|  c=it | intestino|  c=es | entra&ntilde;as, tripas|  c=nl | ingewanden|  c=sw | in&auml;lvor|  c=la | intestina|- |  i=No | 87|  c=en | neck *|  c=fr | cou|  c=de | Hals|  c=it | collo|  c=es | cuello|  c=nl | nek|  c=sw | hals, nacke|  c=la | collum, cervix|- |  i=No | 88|  c=en | back|  c=fr | dos|  c=de | R&uuml;cken|  c=it | schiena|  c=es | espalda|  c=nl | rug|  c=sw | rygg|  c=la | tergum|- |  i=No | 89|  c=en | breast *|  c=fr | sein, poitrine|  c=de | Brust|  c=it | petto|  c=es | pecho, seno|  c=nl | borst|  c=sw | br&ouml;st|  c=la | pectus, mamma|- |  i=No | 90|  c=en | heart *|  c=fr | cœur|  c=de | Herz|  c=it | cuore|  c=es | coraz&oacute;n|  c=nl | hart|  c=sw | hj&auml;rta|  c=la | cor|- |  i=No | 91|  c=en | liver *|  c=fr | foie|  c=de | Leber|  c=it | fegato|  c=es | h&iacute;gado|  c=nl | lever|  c=sw | lever|  c=la | iecur|- |  i=No | 92|  c=en | drink *|  c=fr | boire|  c=de | trinken|  c=it | bere|  c=es | beber, tomar|  c=nl | drinken|  c=sw | dricka|  c=la | bibere|- |  i=No | 93|  c=en | eat *|  c=fr | manger|  c=de | essen|  c=it | mangiare|  c=es | comer|  c=nl | eten|  c=sw | &auml;ta|  c=la | edere|- |  i=No | 94|  c=en | bite *|  c=fr | mordre|  c=de | bei&szlig;en|  c=it | mordere|  c=es | morder|  c=nl | bijten|  c=sw | bita|  c=la | mordere|- |  i=No | 95|  c=en | suck|  c=fr | sucer|  c=de | saugen|  c=it | succhiare|  c=es | chupar|  c=nl | zuigen|  c=sw | suga|  c=la | sugere|- |  i=No | 96|  c=en | spit|  c=fr | cracher|  c=de | spucken|  c=it | sputare|  c=es | escupir|  c=nl | spugen|  c=sw | spotta|  c=la | sputare|- |  i=No | 97|  c=en | vomit|  c=fr | vomir|  c=de | erbrechen|  c=it | vomitare|  c=es | vomitar|  c=nl | braken, overgeven|  c=sw | kr&auml;kas, spy|  c=la | vomere|- |  i=No | 98|  c=en | blow|  c=fr | souffler|  c=de | blasen|  c=it | soffiare|  c=es | soplar|  c=nl | blazen|  c=sw | bl&aring;sa|  c=la | flare|- |  i=No | 99|  c=en | breathe|  c=fr | respirer|  c=de | atmen|  c=it | respirare|  c=es | respirar|  c=nl | ademen|  c=sw | andas|  c=la | spirare|- |  i=No | 100|  c=en | laugh|  c=fr | rire|  c=de | lachen|  c=it | ridere|  c=es | re&iacute;r|  c=nl | lachen|  c=sw | skratta|  c=la | ridere|- |  i=No | 101|  c=en | see *|  c=fr | voir|  c=de | sehen|  c=it | vedere|  c=es | ver|  c=nl | zien|  c=sw | se|  c=la | videre|- |  i=No | 102|  c=en | hear *|  c=fr | entendre|  c=de | h&ouml;ren|  c=it | udire, sentire|  c=es | o&iacute;r|  c=nl | horen|  c=sw | h&ouml;ra|  c=la | audire|- |  i=No | 103|  c=en | know * (a fact)|  c=fr | savoir|  c=de | wissen|  c=it | sapere|  c=es | saber|  c=nl | kennen|  c=sw | veta|  c=la | scire|- |  i=No | 104|  c=en | think|  c=fr | penser|  c=de | denken|  c=it | pensare|  c=es | pensar|  c=nl | denken|  c=sw | t&auml;nka|  c=la | putare|- |  i=No | 105|  c=en | smell|  c=fr | sentir|  c=de | riechen|  c=it | odorare, annusare|  c=es | oler|  c=nl | smelten|  c=sw | lukta|  c=la | olere|- |  i=No | 106|  c=en | fear|  c=fr | craindre, avoir peur|  c=de | f&uuml;rchten|  c=it | temere|  c=es | temer|  c=nl | vrezen, angst|  c=sw | frukta, r&auml;das|  c=la | timere|- |  i=No | 107|  c=en | sleep *|  c=fr | dormir|  c=de | schlafen|  c=it | dormire|  c=es | dormir|  c=nl | slapen|  c=sw | sova|  c=la | dormire|- |  i=No | 108|  c=en | live|  c=fr | vivre|  c=de | leben|  c=it | vivere|  c=es | vivir|  c=nl | leven|  c=sw | leva|  c=la | vivere|- |  i=No | 109|  c=en | die *|  c=fr | mourir|  c=de | sterben|  c=it | morire|  c=es | morir|  c=nl | doden|  c=sw | d&ouml;|  c=la | mori|- |  i=No | 110|  c=en | kill *|  c=fr | tuer|  c=de | t&ouml;ten|  c=it | uccidere|  c=es | matar|  c=nl | doden|  c=sw | d&ouml;da|  c=la | necare|- |  i=No | 111|  c=en | fight|  c=fr | se battre|  c=de | k&auml;mpfen|  c=it | combattere|  c=es | pelear|  c=nl | vechten|  c=sw | strida|  c=la | pugnare|- |  i=No | 112|  c=en | hunt|  c=fr | chasser|  c=de | jagen|  c=it | cacciare|  c=es | cazar|  c=nl | jagen|  c=sw | jaga|  c=la | venari|- |  i=No | 113|  c=en | hit|  c=fr | frapper|  c=de | schlagen|  c=it | colpire|  c=es | golpear|  c=nl | slaan|  c=sw | sl&aring;|  c=la | pellere|- |  i=No | 114|  c=en | cut|  c=fr | couper|  c=de | schneiden|  c=it | tagliare|  c=es | cortar|  c=nl | snijden|  c=sw | sk&auml;ra|  c=la | secare|- |  i=No | 115|  c=en | split|  c=fr | fendre|  c=de | spalten|  c=it | dividere, separare|  c=es | partir|  c=nl | splijten|  c=sw | dela, klyva|  c=la | scindere, partiri|- |  i=No | 116|  c=en | stab|  c=fr | poignarder|  c=de | stechen|  c=it | pugnalare|  c=es | apu&ntilde;alar|  c=nl | steken|  c=sw | sticka|  c=la | traicere|- |  i=No | 117|  c=en | scratch|  c=fr | gratter|  c=de | kratzen|  c=it | graffiare|  c=es | ara&ntilde;ar, rascar|  c=nl | krabben|  c=sw | klia|  c=la | radere|- |  i=No | 118|  c=en | dig|  c=fr | creuser|  c=de | graben|  c=it | scavare|  c=es | cavar|  c=nl | delven|  c=sw | gr&auml;va|  c=la | fodere|- |  i=No | 119|  c=en | swim *|  c=fr | nager|  c=de | schwimmen|  c=it | nuotare|  c=es | nadar|  c=nl | zwemmen|  c=sw | simma|  c=la | natare|- |  i=No | 120|  c=en | fly * (v.)|  c=fr | voler|  c=de | fliegen|  c=it | volare|  c=es | volar|  c=nl | vliegen|  c=sw | flyga|  c=la | volare|- |  i=No | 121|  c=en | walk *|  c=fr | marcher|  c=de | gehen|  c=it | camminare|  c=es | caminar|  c=nl | lopen, wandelen|  c=sw | g&aring;|  c=la | gradi|- |  i=No | 122|  c=en | come *|  c=fr | venir|  c=de | kommen|  c=it | venire|  c=es | venir|  c=nl | komen|  c=sw | komma|  c=la | venire|- |  i=No | 123|  c=en | lie *|  c=fr | s'&eacute;tendre|  c=de | liegen|  c=it | distendersi|  c=es | echarse, acostarse, tenderse|  c=nl | liegen|  c=sw | ligga|  c=la | iacere|- |  i=No | 124|  c=en | sit *|  c=fr | s'asseoir|  c=de | setzen|  c=it | sedere|  c=es | sentarse|  c=nl | zitten|  c=sw | sitta|  c=la | sedere|- |  i=No | 125|  c=en | stand *|  c=fr | se lever|  c=de | stehen|  c=it | stare in piedi|  c=es | estar de pie|  c=nl | staan|  c=sw | st&aring;|  c=la | stare|- |  i=No | 126|  c=en | turn|  c=fr | tourner|  c=de | drehen|  c=it | girare|  c=es | voltear|  c=nl | draaien|  c=sw | sv&auml;nga|  c=la | vertere|- |  i=No | 127|  c=en | fall|  c=fr | tomber|  c=de | fallen|  c=it | cadere|  c=es | caer|  c=nl | vallen|  c=sw | falla|  c=la | cadere|- |  i=No | 128|  c=en | give *|  c=fr | donner|  c=de | geben|  c=it | dare|  c=es | dar|  c=nl | geven|  c=sw | ge|  c=la | dare|- |  i=No | 129|  c=en | hold|  c=fr | tenir|  c=de | halten|  c=it | tenere|  c=es | sostener|  c=nl | houden|  c=sw | h&aring;lla|  c=la | tenere|- |  i=No | 130|  c=en | squeeze|  c=fr | serrer|  c=de | quetschen|  c=it | spremere|  c=es | apretar|  c=nl | knijpen|  c=sw | kl&auml;mma|  c=la | premere|- |  i=No | 131|  c=en | rub|  c=fr | frotter|  c=de | reiben|  c=it | strofinare|  c=es | frotar, restregar|  c=nl | wrijven|  c=sw | gnida|  c=la | fricare|- |  i=No | 132|  c=en | wash|  c=fr | laver|  c=de | waschen|  c=it | lavare|  c=es | lavar|  c=nl | wassen|  c=sw | tv&auml;tta|  c=la | lavare|- |  i=No | 133|  c=en | wipe|  c=fr | essuyer|  c=de | wischen|  c=it | asciugare|  c=es | limpiar|  c=nl | vegen|  c=sw | rensa|  c=la | tergere|- |  i=No | 134|  c=en | pull|  c=fr | tirer|  c=de | ziehen|  c=it | tirare|  c=es | tirar|  c=nl | trekken|  c=sw | dra|  c=la | trahere|- |  i=No | 135|  c=en | push|  c=fr | pousser|  c=de | dr&uuml;cken|  c=it | spingere|  c=es | empujar|  c=nl | duwen|  c=sw | trycka|  c=la | pellere, urgere|- |  i=No | 136|  c=en | throw|  c=fr | jeter|  c=de | werfen|  c=it | tirare|  c=es | tirar|  c=nl | werpen, gooien|  c=sw | kasta|  c=la | iacere|- |  i=No | 137|  c=en | tie|  c=fr | lier|  c=de | binden|  c=it | legare|  c=es | atar|  c=nl | binden|  c=sw | knyta, binda|  c=la | stringere, ligare|- |  i=No | 138|  c=en | sew|  c=fr | coudre|  c=de | n&auml;hen|  c=it | cucire|  c=es | coser|  c=nl | naaien|  c=sw | sy|  c=la | suere|- |  i=No | 139|  c=en | count|  c=fr | compter|  c=de | z&auml;hlen|  c=it | contare|  c=es | contar|  c=nl | tellen|  c=sw | r&auml;kna|  c=la | numerare|- |  i=No | 140|  c=en | say *|  c=fr | dire|  c=de | sagen|  c=it | dire|  c=es | decir|  c=nl | zeggen|  c=sw | s&auml;ga|  c=la | dicere|- |  i=No | 141|  c=en | sing|  c=fr | chanter|  c=de | singen|  c=it | cantare|  c=es | cantar|  c=nl | zingen|  c=sw | sjunga|  c=la | canere|- |  i=No | 142|  c=en | play|  c=fr | jouer|  c=de | spielen|  c=it | giocare|  c=es | jugar|  c=nl | spelen|  c=sw | leka, spela|  c=la | ludere|- |  i=No | 143|  c=en | float|  c=fr | flotter|  c=de | schweben|  c=it | galleggiare|  c=es | flotar|  c=nl | zweven|  c=sw | flyta|  c=la | fluctuare|- |  i=No | 144|  c=en | flow|  c=fr | couler|  c=de | flie&szlig;en|  c=it | fluire|  c=es | fluir|  c=nl | vloeien|  c=sw | rinna|  c=la | fluere|- |  i=No | 145|  c=en | freeze|  c=fr | geler|  c=de | frieren|  c=it | gelare|  c=es | helar|  c=nl | vriezen|  c=sw | frysa|  c=la | gelare|- |  i=No | 146|  c=en | swell|  c=fr | gonfler|  c=de | schwellen|  c=it | gonfiare|  c=es | hincharse|  c=nl | zwellen|  c=sw | sv&auml;lla|  c=la | inflare|- |  i=No | 147|  c=en | sun *|  c=fr | soleil|  c=de | Sonne|  c=it | sole|  c=es | sol|  c=nl | zon|  c=sw | sol|  c=la | sol|- |  i=No | 148|  c=en | moon *|  c=fr | lune|  c=de | Mond|  c=it | luna|  c=es | luna|  c=nl | maan|  c=sw | m&aring;ne|  c=la | luna|- |  i=No | 149|  c=en | star *|  c=fr | &eacute;toile|  c=de | Stern|  c=it | stella|  c=es | estrella|  c=nl | ster|  c=sw | stj&auml;rna|  c=la | stella|- |  i=No | 150|  c=en | water *|  c=fr | eau|  c=de | Wasser|  c=it | acqua|  c=es | agua|  c=nl | water|  c=sw | vatten|  c=la | aqua|- |  i=No | 151|  c=en | rain *|  c=fr | pluie|  c=de | Regen|  c=it | pioggia|  c=es | lluvia|  c=nl | regen|  c=sw | regn|  c=la | pluvia|- |  i=No | 152|  c=en | river|  c=fr | rivi&egrave;re|  c=de | Flu&szlig;|  c=it | fiume|  c=es | r&iacute;o|  c=nl | rivier|  c=sw | flod|  c=la | fluvius|- |  i=No | 153|  c=en | lake|  c=fr | lac|  c=de | See|  c=it | lago|  c=es | lago|  c=nl | lak|  c=sw | sj&ouml;|  c=la | lacus|- |  i=No | 154|  c=en | sea|  c=fr | mer|  c=de | Meer, See|  c=it | mare|  c=es | mar|  c=nl | zee|  c=sw | hav|  c=la | mare|- |  i=No | 155|  c=en | salt|  c=fr | sel|  c=de | Salz|  c=it | sale|  c=es | sal|  c=nl | zout|  c=sw | salt|  c=la | sal|- |  i=No | 156|  c=en | stone *|  c=fr | pierre|  c=de | Stein|  c=it | pietra|  c=es | piedra|  c=nl | steen|  c=sw | sten|  c=la | lapis, petra|- |  i=No | 157|  c=en | sand *|  c=fr | sable|  c=de | Sand|  c=it | sabbia|  c=es | arena|  c=nl | zand|  c=sw | sand|  c=la | arena|- |  i=No | 158|  c=en | dust|  c=fr | poussi&egrave;re|  c=de | Staub|  c=it | polvere|  c=es | polvo|  c=nl | stof|  c=sw | damm|  c=la | pulvis|- |  i=No | 159|  c=en | earth *|  c=fr | terre|  c=de | Erde|  c=it | terra|  c=es | tierra|  c=nl | aarde|  c=sw | jord|  c=la | terra|- |  i=No | 160|  c=en | cloud *|  c=fr | nuage|  c=de | Wolke|  c=it | nuvola|  c=es | nube|  c=nl | wolk|  c=sw | moln|  c=la | nimbus, nubes|- |  i=No | 161|  c=en | fog|  c=fr | brouillard|  c=de | Nebel|  c=it | nebbia|  c=es | niebla|  c=nl | mist, nevel|  c=sw | dimma|  c=la | caligo, nebula|- |  i=No | 162|  c=en | sky|  c=fr | ciel|  c=de | Himmel|  c=it | cielo|  c=es | cielo|  c=nl | lucht|  c=sw | himmel|  c=la | caelum|- |  i=No | 163|  c=en | wind|  c=fr | vent|  c=de | Wind|  c=it | vento|  c=es | viento|  c=nl | wind|  c=sw | vind|  c=la | ventus|- |  i=No | 164|  c=en | snow|  c=fr | neige|  c=de | Schnee|  c=it | neve|  c=es | nieve|  c=nl | sneeuw|  c=sw | sn&ouml;|  c=la | nix|- |  i=No | 165|  c=en | ice|  c=fr | glace|  c=de | Eis|  c=it | ghiaccio|  c=es | hielo|  c=nl | ijs|  c=sw | is|  c=la | glacies|- |  i=No | 166|  c=en | smoke *|  c=fr | fum&eacute;e|  c=de | Rauch|  c=it | fumo|  c=es | humo|  c=nl | rook|  c=sw | r&ouml;k|  c=la | fumus|- |  i=No | 167|  c=en | fire *|  c=fr | feu|  c=de | Feuer|  c=it | fuoco|  c=es | fuego|  c=nl | vuur|  c=sw | eld|  c=la | ignis|- |  i=No | 168|  c=en | ashes *|  c=fr | cendres|  c=de | Asche|  c=it | ceneri|  c=es | cenizas|  c=nl | as|  c=sw | aska|  c=la | cineres|- |  i=No | 169|  c=en | burn *|  c=fr | br&ucirc;ler|  c=de | brennen|  c=it | bruciare|  c=es | quemar|  c=nl | branden|  c=sw | brinna|  c=la | ardere|- |  i=No | 170|  c=en | road *|  c=fr | route|  c=de | Stra&szlig;e|  c=it | strada|  c=es | camino|  c=nl | weg|  c=sw | v&auml;g|  c=la | via|- |  i=No | 171|  c=en | mountain *|  c=fr | montagne|  c=de | Berg|  c=it | montagna|  c=es | monta&ntilde;a|  c=nl | berg|  c=sw | berg|  c=la | mons|- |  i=No | 172|  c=en | red *|  c=fr | rouge|  c=de | rot|  c=it | rosso|  c=es | rojo|  c=nl | rode|  c=sw | r&ouml;d|  c=la | ruber|- |  i=No | 173|  c=en | green *|  c=fr | vert|  c=de | gr&uuml;n|  c=it | verde|  c=es | verde|  c=nl | groen|  c=sw | gr&ouml;n|  c=la | viridis|- |  i=No | 174|  c=en | yellow *|  c=fr | jaune|  c=de | gelb|  c=it | giallo|  c=es | amarillo|  c=nl | geel|  c=sw | gul|  c=la | flavus|- |  i=No | 175|  c=en | white *|  c=fr | blanc|  c=de | wei&szlig;|  c=it | bianco|  c=es | blanco|  c=nl | witte|  c=sw | vit|  c=la | albus, candidus|- |  i=No | 176|  c=en | black *|  c=fr | noir|  c=de | schwarz|  c=it | nero|  c=es | negro|  c=nl | zwart|  c=sw | svart|  c=la | niger, ater, fuscus|- |  i=No | 177|  c=en | night *|  c=fr | nuit|  c=de | Nacht|  c=it | notte|  c=es | noche|  c=nl | nacht|  c=sw | natt|  c=la | nox|- |  i=No | 178|  c=en | day|  c=fr | jour|  c=de | Tag|  c=it | giorno|  c=es | d&iacute;a|  c=nl | dag|  c=sw | dag|  c=la | dies|- |  i=No | 179|  c=en | year|  c=fr | an, ann&eacute;e|  c=de | Jahr|  c=it | anno|  c=es | a&ntilde;o|  c=nl | jaar|  c=sw | &aring;r|  c=la | annus|- |  i=No | 180|  c=en | warm *|  c=fr | chaud|  c=de | warm|  c=it | caldo|  c=es | c&aacute;lido, tibio|  c=nl | warm|  c=sw | varm|  c=la | calidus|- |  i=No | 181|  c=en | cold *|  c=fr | froid|  c=de | kalt|  c=it | freddo|  c=es | fr&iacute;o|  c=nl | koud|  c=sw | kall|  c=la | frigidus|- |  i=No | 182|  c=en | full *|  c=fr | plein|  c=de | volle|  c=it | pieno|  c=es | lleno|  c=nl | volle|  c=sw | full|  c=la | plenus|- |  i=No | 183|  c=en | new *|  c=fr | nouveau|  c=de | neu|  c=it | nuovo|  c=es | nuevo|  c=nl | nieuw|  c=sw | ny|  c=la | novus|- |  i=No | 184|  c=en | old|  c=fr | vieux|  c=de | alt|  c=it | vecchio|  c=es | viejo|  c=nl | oud|  c=sw | gammal|  c=la | vetus|- |  i=No | 185|  c=en | good *|  c=fr | bon|  c=de | gut|  c=it | buono|  c=es | bueno|  c=nl | goed|  c=sw | bra|  c=la | bonus|- |  i=No | 186|  c=en | bad|  c=fr | mauvais|  c=de | schlecht|  c=it | cattivo|  c=es | malo&lt;br&gt;|  c=nl | slecht|  c=sw | d&aring;lig|  c=la | malus|- |  i=No | 187|  c=en | rotten|  c=fr | pourri|  c=de | verrottet|  c=it | marcio|  c=es | podrido|  c=nl | rotten|  c=sw | rutten|  c=la | puter, putridus|- |  i=No | 188|  c=en | dirty|  c=fr | sale|  c=de | schmutzig|  c=it | sporco|  c=es | sucio|  c=nl | vies|  c=sw | smutsig|  c=la | sordidus|- |  i=No | 189|  c=en | straight|  c=fr | droit|  c=de | gerade|  c=it | diritto|  c=es | recto|  c=nl | recht|  c=sw | rak|  c=la | rectus|- |  i=No | 190|  c=en | round *|  c=fr | rond|  c=de | rund|  c=it | rotondo|  c=es | redondo|  c=nl | rond|  c=sw | rund|  c=la | rotundus|- |  i=No | 191|  c=en | sharp|  c=fr | tranchant, pointu, aigu|  c=de | scharf|  c=it | aguzzo, affilato|  c=es | afilado|  c=nl | scherp|  c=sw | vass|  c=la | acer|- |  i=No | 192|  c=en | dull|  c=fr | &eacute;mouss&eacute;|  c=de | stumpf|  c=it | noioso|  c=es | desafilado|  c=nl | stomp, bot|  c=sw | sl&ouml;|  c=la | hebes|- |  i=No | 193|  c=en | smooth|  c=fr | lisse|  c=de | glatt|  c=it | liscio|  c=es | suave, liso|  c=nl | glad|  c=sw | len, sl&auml;t|  c=la | levis|- |  i=No | 194|  c=en | wet|  c=fr | mouill&eacute;|  c=de | nass, feucht|  c=it | bagnato|  c=es | mojado|  c=nl | nat|  c=sw | v&aring;t, bl&ouml;t|  c=la | umidus|- |  i=No | 195|  c=en | dry *|  c=fr | sec|  c=de | trocken|  c=it | asciutto, secco|  c=es | seco|  c=nl | droog|  c=sw | torr|  c=la | siccus|- |  i=No | 196|  c=en | correct|  c=fr | juste, correct|  c=de | richtig|  c=it | corretto|  c=es | correcto|  c=nl | richting, correct|  c=sw | r&auml;tt, riktig|  c=la | rectus|- |  i=No | 197|  c=en | near|  c=fr | proche|  c=de | nah,&lt;br&gt;nahe|  c=it | vicino|  c=es | cerca|  c=nl | naar|  c=sw | n&auml;ra|  c=la | propinquus|- |  i=No | 198|  c=en | far|  c=fr | loin|  c=de | weit, fern|  c=it | lontano|  c=es | lejos|  c=nl | ver|  c=sw | l&aring;ngt bort, fj&auml;rran|  c=la | longinquus|- |  i=No | 199|  c=en | right|  c=fr | &agrave; droite|  c=de | rechts|  c=it | destra|  c=es | derecha|  c=nl | rechts|  c=sw | h&ouml;ger|  c=la | dexter|- |  i=No | 200|  c=en | left|  c=fr | &agrave; gauche|  c=de | links|  c=it | sinistra|  c=es | izquierda|  c=nl | links|  c=sw | v&auml;nster|  c=la | sinister|- |  i=No | 201|  c=en | at|  c=fr | &agrave;|  c=de | bei, an|  c=it | a|  c=es | a, en, ante|  c=nl | aan, te, bij|  c=sw | hos, vid|  c=la | ad|- |  i=No | 202|  c=en | in|  c=fr | dans|  c=de | in|  c=it | in|  c=es | en|  c=nl | in|  c=sw | i|  c=la | in|- |  i=No | 203|  c=en | with|  c=fr | avec|  c=de | mit|  c=it | con|  c=es | con|  c=nl | met|  c=sw | med|  c=la | cum|- |  i=No | 204|  c=en | and|  c=fr | et|  c=de | und|  c=it | e|  c=es | y|  c=nl | en|  c=sw | och|  c=la | et|- |  i=No | 205|  c=en | if|  c=fr | si|  c=de | wenn, falls, ob|  c=it | se|  c=es | si|  c=nl | als, indien|  c=sw | om|  c=la | si|- |  i=No | 206|  c=en | because|  c=fr | parce que|  c=de | weil|  c=it | perch&eacute;|  c=es | porque|  c=nl | omdat|  c=sw | eftersom, ty|  c=la | quia, quoniam|- |  i=No | 207|  c=en | name *|  c=fr | nom|  c=de | Name|  c=it | nome|  c=es | nombre|  c=nl | naam|  c=sw | namn|  c=la | nomen|}
+---->>>
 ***synonym***
-synonym:
-
+HtmlEntry: synonym <<<
 <h3>Adjective</h3>
 {{de-adj|-}}
 <ol><li> synonymous</li>
 </ol>
-Category:de:Semantics----
-===translators===
-Wiktionary:Resources for translators:
-<ul><li> [http://dict.leo.org/ Leo] - German &lt;-&gt; English plus 5 other languages, hosted by Technical University Munich (German interface)</li>
-<li> [http://www.woerterbuch-uebersetzung.de/ W&ouml;rterbuch &Uuml;bersetzung] - German &lt;-&gt; English (German interface)</li>
-</ul>
-
+Category:de:Semantics---->>>
 ***UdSSR***
-UdSSR:
-
+HtmlEntry: UdSSR <<<
 <h3>{{abbreviation|German}}</h3>
 <b>UdSSR</b> {f} (abbreviation of <em>Union der Sozialistischen Sowjet-Republiken</em>)
 <ol><li> USSR</li>
 </ol>
-Category:German abbreviationsde:UdSSRel:UdSSRfr:UdSSRlt:UdSSRhu:UdSSRpl:UdSSRpt:UdSSR
+Category:German abbreviationsde:UdSSRel:UdSSRfr:UdSSRlt:UdSSRhu:UdSSRpl:UdSSRpt:UdSSR>>>
 ***Uhr***
-Uhr:
-
+HtmlEntry: Uhr <<<
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|/ʔuːɐ̯/|lang=de}}</li>
 <li> {{audio|De-Uhr.ogg|audio (Germany)}}</li>
@@ -1649,17 +1398,15 @@ Uhr:
 <li> Uhrmacher</li>
 <li> Uhrwerk</li>
 </ul>
-----
-Uhr:
-
+---->>>
+HtmlEntry: Uhr <<<
 <h3>Noun</h3>
 {nds-noun}
 <ol><li> {{alternative spelling of|Ur|lang=nds}}</li>
 </ol>
-br:Uhrcs:Uhrde:Uhrel:Uhrfr:Uhrko:Uhrhr:Uhrio:Uhrid:Uhrit:Uhrky:Uhrku:Uhrlo:Uhrlt:Uhrhu:Uhrja:Uhrno:Uhroc:Uhrpl:Uhrro:Uhrru:Uhrfi:Uhrsv:Uhrzh:Uhr
+br:Uhrcs:Uhrde:Uhrel:Uhrfr:Uhrko:Uhrhr:Uhrio:Uhrid:Uhrit:Uhrky:Uhrku:Uhrlo:Uhrlt:Uhrhu:Uhrja:Uhrno:Uhroc:Uhrpl:Uhrro:Uhrru:Uhrfi:Uhrsv:Uhrzh:Uhr>>>
 ***um***
-um:
-
+HtmlEntry: um <<<
 <h3>Etymology</h3>
 From {{etyl|goh|de}} {{term|umbi|lang=goh}}, from {{proto|Germanic|umbi|lang=de}}.
 <h3>Pronunciation</h3>
@@ -1689,10 +1436,9 @@ From {{etyl|goh|de}} {{term|umbi|lang=goh}}, from {{proto|Germanic|umbi|lang=de}
 </ul>
 </ul>
 </ol>
-----
+---->>>
 ***umsonst***
-umsonst:
-
+HtmlEntry: umsonst <<<
 <h3>Adverb</h3>
 <b>umsonst</b>
 <ol><li> free of charge, gratis</li>
@@ -1703,10 +1449,9 @@ umsonst:
 <ul><li>frei</li>
 <li>kostenlos</li>
 </ul>
-Category:German adverbsde:umsonstfr:umsonstio:umsonsthu:umsonstpl:umsonstzh:umsonst
+Category:German adverbsde:umsonstfr:umsonstio:umsonsthu:umsonstpl:umsonstzh:umsonst>>>
 ***urban***
-urban:
-
+HtmlEntry: urban <<<
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|/ˈʊɐ̯ban/|lang=de}}</li>
 </ul>
@@ -1719,10 +1464,9 @@ urban:
 <h4>Synonyms</h4>
 <ul><li> st&auml;dtisch</li>
 </ul>
-----
+---->>>
 ***wage***
-wage:
-
+HtmlEntry: wage <<<
 <h3>Verb</h3>
 {{head|de}}
 <ol><li> {{de-verb form of|wagen|1|s|g}}</li>
@@ -1730,10 +1474,9 @@ wage:
 <li> {{de-verb form of|wagen|3|s|k1}}</li>
 <li> {{de-verb form of|wagen|i|s}}</li>
 </ol>
-bg:wagecs:wagede:wageet:wageel:wagees:wagefa:wagefr:wagefy:wageko:wageio:wageid:wageis:wageit:wagekn:wageka:wagesw:wageku:wagelo:wageli:wagehu:wagemg:wageml:wagemy:wagenl:wageja:wageoc:wagepl:wagept:wageru:wagesimple:wagefi:wagesv:wageta:wagete:wagevi:wagezh:wage
+bg:wagecs:wagede:wageet:wageel:wagees:wagefa:wagefr:wagefy:wageko:wageio:wageid:wageis:wageit:wagekn:wageka:wagesw:wageku:wagelo:wageli:wagehu:wagemg:wageml:wagemy:wagenl:wageja:wageoc:wagepl:wagept:wageru:wagesimple:wagefi:wagesv:wageta:wagete:wagevi:wagezh:wage>>>
 ***war***
-war:
-
+HtmlEntry: war <<<
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|/vaːɐ̯/|lang=de}}</li>
 <li> {{audio|De-war.ogg|audio}}</li>
@@ -1757,9 +1500,8 @@ war:
 </ul>
 </ul>
 </ol>
-----
-war:
-
+---->>>
+HtmlEntry: war <<<
 <h3>Alternative forms</h3>
 <ul><li> {{qualifier|Low Prussian}} wahr</li>
 </ul>
@@ -1770,38 +1512,33 @@ Cognate to {{etyl|de|-}} wahr.
 {{head|nds|adjective}}
 <ol><li> {{context|in some dialects|lang=nds}} true</li>
 </ol>
-----
-war:
-
+---->>>
+HtmlEntry: war <<<
 <h3>Adjective</h3>
 <b>wār</b>
 <ol><li> true</li>
 </ol>
-Category:Old High German adjectives----
-===Wiktionary===
-Wiktionary:Resources for translators:
-<ul><li> [http://dict.leo.org/ Leo] - German &lt;-&gt; English plus 5 other languages, hosted by Technical University Munich (German interface)</li>
+Category:Old High German adjectives---->>>
+***Wiktionary:Resources for translators***
+HtmlEntry: Wiktionary:Resources for translators <<<<ul><li> [http://dict.leo.org/ Leo] - German &lt;-&gt; English plus 5 other languages, hosted by Technical University Munich (German interface)</li>
 <li> [http://www.woerterbuch-uebersetzung.de/ W&ouml;rterbuch &Uuml;bersetzung] - German &lt;-&gt; English (German interface)</li>
 </ul>
-
+>>>
 ***wolf***
-wolf:
-
+HtmlEntry: wolf <<<
 <h3>Noun</h3>
 <b>wolf</b> {m}
 <ol><li> wolf</li>
 </ol>
-Category:Middle High German nounsCategory:gmh:Mammals----
+Category:Middle High German nounsCategory:gmh:Mammals---->>>
 ***zwei***
-zwei:
-
+HtmlEntry: zwei <<<
 <h3>Number</h3>
 {{head|gsw|number}}
 <ol><li> {{cardinal|lang=gsw}} two</li>
 </ol>
-----
-zwei:
-{{cardinalbox|de|1|2|3|eins|drei|ord=zweite}}
+---->>>
+HtmlEntry: zwei <<<{{cardinalbox|de|1|2|3|eins|drei|ord=zweite}}
 <h3>Etymology</h3>
 From {{etyl|goh|de}} {{term|zwene|zwēne|lang=goh}}.
 <h3>Pronunciation</h3>
@@ -1822,7 +1559,7 @@ From {{etyl|goh|de}} {{term|zwene|zwēne|lang=goh}}.
 <ul><li> zwanzig</li>
 <li> zw&ouml;lf</li>
 </ul>
-Category:German cardinal numbersast:zweiaz:zweibs:zweibr:zweics:zweicy:zweide:zweiet:zweiel:zweies:zweieo:zweieu:zweifr:zweify:zweiga:zweigl:zweiko:zweihy:zweihr:zweiio:zweiid:zweiis:zweiit:zweika:zweiku:zweilv:zweilb:zweilt:zweihu:zweimg:zweifj:zweinl:zweija:zweino:zweinn:zweipl:zweipt:zweiru:zweifi:zweisv:zweita:zweith:zweitr:zweitk:zweiuk:zweiza:zweivi:zweizh:zwei
+Category:German cardinal numbersast:zweiaz:zweibs:zweibr:zweics:zweicy:zweide:zweiet:zweiel:zweies:zweieo:zweieu:zweifr:zweify:zweiga:zweigl:zweiko:zweihy:zweihr:zweiio:zweiid:zweiis:zweiit:zweika:zweiku:zweilv:zweilb:zweilt:zweihu:zweimg:zweifj:zweinl:zweija:zweino:zweinn:zweipl:zweipt:zweiru:zweifi:zweisv:zweita:zweith:zweitr:zweitk:zweiuk:zweiza:zweivi:zweizh:zwei>>>
 
 Index: EN EN->DE
 
