@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.italian 5186
+EntrySource: enwiktionary.italian 5211
 
 Index: IT IT->EN
 ===1963===
@@ -610,6 +610,10 @@ Index: IT IT->EN
   bestia {f}, bestie {pl} :: beast
 ===bestie===
   bestia {f}, bestie {pl} :: beast
+***bestiola***
+  bestiola {f}, bestiole {pl} :: Little animal or beast, creature
+===bestiole===
+  bestiola {f}, bestiole {pl} :: Little animal or beast, creature
 ***beta***
   beta {f|inv} beta {f}, bete {pl} :: beta (letter of the Greek alphabet)
   beta {f|inv} beta {f}, bete {pl} :: beet (plant of the genus Beta)
@@ -2714,6 +2718,8 @@ Index: IT IT->EN
   once {f|p} :: {plural of|oncia}
 ***online***
   online (adjective) {inv} (Also: on line, on-line) :: online
+***opero***
+  opero :: first-person singular present tense of operare
 ===or===
   or {it-adv} :: {apocopic form of|ora}
 ===ora===
@@ -3487,6 +3493,19 @@ Index: IT IT->EN
   sequoia {f}, sequoie {pl} :: sequoia (tree)
 ===sequoie===
   sequoia {f}, sequoie {pl} :: sequoia (tree)
+***serva***
+  serva {f}, serve {pl} (Masculine: servo) :: servant, maid
+  serva :: {conjugation of|servire|1|s|pres|sub}
+  serva :: {conjugation of|servire|2|s|pres|sub}
+  serva :: {conjugation of|servire|3|s|pres|sub}
+  serva :: {conjugation of|servire|3|s|imp}
+===serve===
+  serva {f}, serve {pl} (Masculine: servo) :: servant, maid
+===servire===
+  serva :: {conjugation of|servire|1|s|pres|sub}
+  serva :: {conjugation of|servire|2|s|pres|sub}
+  serva :: {conjugation of|servire|3|s|pres|sub}
+  serva :: {conjugation of|servire|3|s|imp}
 ***set***
   set {m} (noun) {inv} :: set (group of things, maths, tennis, cinema etc)
 ===setta===
@@ -3848,6 +3867,8 @@ Index: IT IT->EN
     interviste dal libro :: “interviews from the book”
     traduzione dall’“Inferno” di Dante :: “translation from Dante’s ‘Inferno’”
     Dalla Terra alla Luna :: “From the Earth to the Moon”
+***tram***
+  tram {m} (noun) {inv} :: tram, streetcar
 ***transfinite***
   transfinite {f} :: Feminine plural form of transfinito
 ===transitive===
@@ -4421,6 +4442,8 @@ Index: EN EN->IT
   Angola {f} :: Angola
 ===Anguilla===
   Anguilla {it-proper noun} :: Anguilla
+===animal===
+  bestiola {f}, bestiole {pl} :: Little animal or beast, creature
 ===another===
   si (pronoun) :: {reflexive} oneself, himself, herself, itself, themselves; (reciprocal) each other, one another. Note: With some verbs, si is not translated in English.
     Giovanni si è fatto male (Giovanni has hurt himself) :: --
@@ -4590,6 +4613,7 @@ Index: EN EN->IT
   dare {it-verb} :: {transitive} To yield, to bear, to give, to produce, to return.
 ===beast===
   bestia {f}, bestie {pl} :: beast
+  bestiola {f}, bestiole {pl} :: Little animal or beast, creature
 ===beat===
   beat (adjective) {inv} :: beat (50s US literary and 70s UK music scenes)
   beat {m} (noun) {inv} :: beat (rhythm accompanying music)
@@ -5116,6 +5140,8 @@ Index: EN EN->IT
 ===creare===
   create :: second-person plural indicative present of creare
   create :: second-person plural imperative of creare
+===creature===
+  bestiola {f}, bestiole {pl} :: Little animal or beast, creature
 ===credit===
   accreditare {it-verb} :: To credit
   evergreen (noun) {m|inv} :: {finance} revolving credit
@@ -5661,6 +5687,7 @@ Index: EN EN->IT
   destino :: first-person singular present tense of destinare
   progetto :: first-person singular present tense of progettare
   porto (verb form) :: first-person singular present tense of portare
+  opero :: first-person singular present tense of operare
   ami :: first-, second- and third-person singular subjunctive present of amare
   so :: (I) know (first-person singular present tense of sapere)
 ===fish===
@@ -6480,6 +6507,8 @@ Index: EN EN->IT
   link {m} (noun) {inv} :: {{context|computing}} link (hyperlink)
 ===literary===
   beat (adjective) {inv} :: beat (50s US literary and 70s UK music scenes)
+===Little===
+  bestiola {f}, bestiole {pl} :: Little animal or beast, creature
 ===live===
   live (adjective) {inv} :: Performed or recorded live
 ===Livorno===
@@ -6560,6 +6589,8 @@ Index: EN EN->IT
   re {m}, re {pl} :: magnates
 ===magnesia===
   magnesia {f}, magnesie {pl} :: magnesia
+===maid===
+  serva {f}, serve {pl} (Masculine: servo) :: servant, maid
 ===main===
   secondo {m}, secondi {pl} :: main course (of a meal)
 ===majestic===
@@ -7043,6 +7074,8 @@ Index: EN EN->IT
   online (adjective) {inv} (Also: on line, on-line) :: online
 ===only===
   se (conjunction) :: if only
+===operare===
+  opero :: first-person singular present tense of operare
 ===operator===
   lift (noun) {m|inv} :: lift / elevator operator
 ===ordinare===
@@ -7852,6 +7885,8 @@ Index: EN EN->IT
   sequoia {f}, sequoie {pl} :: sequoia (tree)
 ===series===
   round {m} (noun) {inv} :: round (session or series)
+===servant===
+  serva {f}, serve {pl} (Masculine: servo) :: servant, maid
 ===served===
   drink {m} (noun) {inv} :: drink (served beverage and mixed beverage)
 ===serving===
@@ -8132,6 +8167,8 @@ Index: EN EN->IT
     Se non è vero, è ben trovato. :: If it is not true, it is a good story.
 ===strange===
   mania {f}, manie {pl} :: habit (if strange)
+===streetcar===
+  tram {m} (noun) {inv} :: tram, streetcar
 ===stressed===
   forte {{it-adj|fort|e|i}} :: {linguistics} stressed
     vocali forti :: stressed vowel
@@ -8287,6 +8324,7 @@ Index: EN EN->IT
   destino :: first-person singular present tense of destinare
   progetto :: first-person singular present tense of progettare
   porto (verb form) :: first-person singular present tense of portare
+  opero :: first-person singular present tense of operare
   so :: (I) know (first-person singular present tense of sapere)
 ===Teramo===
   Teramo {{it-proper noun|g=f}} :: Teramo (province)
@@ -8518,6 +8556,8 @@ Index: EN EN->IT
   Vicenza {{it-proper noun|g=f}} :: Vicenza (town)
 ===toy===
   pupa {f}, pupe {pl} :: doll (child's toy)
+===tram===
+  tram {m} (noun) {inv} :: tram, streetcar
 ===transfer===
   dare {it-verb} :: {transitive} To give, to transfer the possession/holding of something to someone else.
 ===transfinito===

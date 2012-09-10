@@ -1,18 +1,21 @@
 HtmlEntry
-  - Add links into the HtmlEntry based on wikilinks.
   - Build single EN/DE/IT/FR dictionaries based on HtmlEntry.
-  - "See also" link entries for cross-referencing ("form of"--strong, links to token, "mentioned in"--weaker, links to HtmlEntry). 
+  - Parse Italian verb forms from enwiktionary into something useful.
+  - "See also" link entries for cross-referencing ("form of"--strong, links to token, "mentioned in"--weaker, links to HtmlEntry).
+   Nice:
+  - Add links into the HtmlEntry based on wikilinks.
   - Link to them from the appropriate places: IndexEntry (first), and individual rows (tricker, built at different times).
+
+Hitory of lookups.
 
 make sure word is sticky when you change dictionaries.
 
 - on small device it would be great to be able to hide the system status bar and the title bar
 - an history list of the searched words per dictionary with the possibility of having a rudimentary flash card game from it to memorise new words
-- space between clear text button and language button is to big (my screen is 320x240, Galaxy Mini)
 
-fix update screen.
 
 To republish:
+* what's new screen.
 * download latest wiktionaries
 * split
 * DictionaryBuilderTest

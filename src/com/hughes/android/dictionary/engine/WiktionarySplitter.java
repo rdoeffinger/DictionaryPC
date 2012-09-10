@@ -140,9 +140,6 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
             title.startsWith("Portail:") ||
             title.startsWith("utiliusateur:") ||
             title.startsWith("Kategorio:") ||
-            
-            
-
             // IT
             title.startsWith("Wikizionario:") ||
             title.startsWith("Appendice:") ||

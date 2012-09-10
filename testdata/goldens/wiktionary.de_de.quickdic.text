@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.german 5627
+EntrySource: enwiktionary.german 5702
 
 Index: DE DE->EN
 ===001===
@@ -142,6 +142,12 @@ Index: DE DE->EN
   ah :: an exclamation of contentment
 ***aha***
   aha (interjection) :: aha
+***Akkord***
+  Akkord {{de-noun|g=m|genitive=Akkordes|plural=Akkorde}} :: {{context|music}} chord
+    1931, Arthur Schnitzler, Flucht in die Finsternis, S. Fischer Verlag, page 14: :: --
+    Er begab sich ins Klavierzimmer, griff ein paar Akkorde auf dem verstimmten Flügel, verließ aber bald wieder den Raum, [...] :: --
+    He went to the piano room, stroke a few chords on the out-of-tune grand piano, but soon left the room again, [...] :: --
+  Akkord {{de-noun|g=m|genitive=Akkordes|plural=Akkorde}} :: piecework
 ===Aktienkurse===
   fallen {{de-verb-strong|fällt|fiel|gefallen|class=7|auxiliary=sein}} :: {intransitive} to become lower, to decrease, to decline
     Zur Zeit der Finanzkrise fielen viele Aktienkurse um zahlreiche Prozentpunkte. :: In times of the banking scandal many stock prices decreased about a large percentage.
@@ -172,6 +178,8 @@ Index: DE DE->EN
   albino (adjective) :: albino, albinistic: congenitally lacking melanin pigmentation in the skin, eyes, and hair or feathers (or more rarely only in the eyes); afflicted with albinism
 ***Alexander***
   Alexander (proper noun) :: {{given name|male}}, cognate to English Alexander.
+***Alice***
+  Alice (proper noun) :: {{given name|female}} borrowed from English; cognate to modern German Adelheid.
 ***all***
   all {{de-adj|-}} :: all
   all {{de-adj|-}} :: every
@@ -797,6 +805,9 @@ Index: DE DE->EN
   CD {{de-noun|g=f|pl=CDs}} :: CD (compact disc)
 ***Ces***
   Ces {n} :: C flat
+***Charakter***
+  Charakter {{de-noun|g=m|genitive=Charakters|plural=Charaktere}} :: {{a|form 1}} character; set of personal qualities of a living being or set of features of an object
+  Charakter {{de-noun|g=m|genitive=Charakters|plural=Charaktere}} :: {{a|form 2}} character; personalised figure used in a video game or role-playing game
 ***Chile***
   Chile {n} (proper noun) :: Chile
 ***China***
@@ -998,6 +1009,7 @@ Index: DE DE->EN
   die (article), definite, feminine and plural form of: der :: The; {declined form|der}
     die Frau :: “the woman”
     die Männer :: “the men”
+  Triebleben der Klänge {n} :: Chordal life force.
 ===Der===
   fallen {{de-verb-strong|fällt|fiel|gefallen|class=7|auxiliary=sein}} :: {intransitive} to fall; to drop
     Der Regen fiel wie aus Eimern. :: It rained cats and dogs. (literally: 'The rain fell like out of buckets.')
@@ -1392,6 +1404,8 @@ Index: DE DE->EN
     Zur Zeit der Finanzkrise fielen viele Aktienkurse um zahlreiche Prozentpunkte. :: In times of the banking scandal many stock prices decreased about a large percentage.
   fallen {{de-verb-strong|fällt|fiel|gefallen|class=7|auxiliary=sein}} :: {reflexive} (with zurück) To be alloted to; to be able to change one's fate.
     Und somit fiel die Entscheidung was zu tun ist auf mich zurück. :: And so it falls to me to make this important decision.
+***fang***
+  fang :: {{de-verb form of|fangen|i|s}}
 ***fangen***
   fangen {{de-verb-strong|fängt|fing|gefangen|class=7}} :: {transitive} to catch
 ***Fanny***
@@ -1867,6 +1881,8 @@ Index: DE DE->EN
   herb {{de-adj|herber|herbsten}} :: harsh
 ***Herbst***
   Herbst {{de-noun|g=m|genitive=Herbsts|genitive2=Herbstes|plural=Herbste}} :: autumn, fall
+***herd***
+  (Old High German) herd {{goh-noun|g=m}} :: hearth
 ***herein***
   herein :: in (in the direction of the speaker)
 ===hereingekommen===
@@ -2080,6 +2096,8 @@ Index: DE DE->EN
   (Middle Low German) jacht {f} (noun) :: a hunt
   (Middle Low German) jacht {f} (noun) :: a chase, a pursuit
   (Middle Low German) jacht {f} (noun) :: a fast ship (shortened from jachte/jachtschip)
+***Jacob***
+  Jacob (proper noun) :: {{given name|male}}, equivalent to English Jacob and James.
 ===Jahre===
   er (pronoun) :: {personal} it (when the grammatical gender of the object/article/thing/animal etc., being referred to, is masculine (der)).
     Dies ist mein Hund. Er heißt Waldi. :: This is my dog. Its name is Waldi.
@@ -2230,6 +2248,8 @@ Index: DE DE->EN
     Das Kind überquerte die Straße. :: The child crossed the road.
 ***Kiribati***
   Kiribati {n} (proper noun) :: Kiribati
+===Klänge===
+  Triebleben der Klänge {n} :: Chordal life force.
 ===Klasse===
   rennen {de-verb} :: {{intransitive|auxiliary: “sein”}} to run; to race; to sprint (said of competeting sportsmen, animals etc.)
     So schnell wie Mike rennt niemand in der Klasse. :: In this class, nobody runs as fast as Mike.
@@ -2258,6 +2278,9 @@ Index: DE DE->EN
   Kongo {n} (noun) :: Kongo (a Bantu language)
 ***Korea***
   Korea (proper noun) :: Korea
+***Kraut***
+  Kraut {{de-noun|g=n|genitive=Krauts|genitive2=Krautes|plural=Kräuter}} :: cabbage (vegetable) (no plural)
+  Kraut {{de-noun|g=n|genitive=Krauts|genitive2=Krautes|plural=Kräuter}} :: herb (plant used to flavour food)
 ***Kroatisch***
   Kroatisch {n} (noun) :: Croatian language
 ***Krümel***
@@ -2652,6 +2675,9 @@ Index: DE DE->EN
 ===Möchtest===
   ne :: {colloquial} shorthand of the feminine indefinite article eine (“an; a”)
     Möchtest du ne Flasche Bier? :: “Would you like a bottle of beer?”
+***modern***
+  modern {{de-adj|comparative=moderner|superlative=modernsten}} :: modern
+  modern {de-verb} :: to rot, to molder
 ***Monaco***
   Monaco (proper noun) :: Monaco
 ===Morgen===
@@ -2668,6 +2694,11 @@ Index: DE DE->EN
   (Old High German) most {{goh-noun|g=m}} :: must
 ***müde***
   müde :: tired
+***murre***
+  murre :: {{de-verb form of|murren|1|s|g}}
+  murre :: {{de-verb form of|murren|i|s}}
+  murre :: {{de-verb form of|murren|1|s|k1}}
+  murre :: {{de-verb form of|murren|3|s|k1}}
 ===muss===
   A {{de-noun|A's|A's|g=n}} :: A
     Von A bis Z. :: From A to Z.
@@ -3828,6 +3859,8 @@ Index: DE DE->EN
   Trauben :: {plural of|Traube}; "grapes"
 ===Trauben===
   Trauben :: {plural of|Traube}; "grapes"
+===Triebleben===
+  Triebleben der Klänge {n} :: Chordal life force.
 ***trink***
   trink :: {{de-verb form of|trinken|i|s}}
   trink :: {colloquial} {{de-verb form of|trinken|1|s|g}}
@@ -4160,7 +4193,8 @@ Index: DE DE->EN
 ***weg***
   weg :: away
   (Old High German) weg {{goh-noun|g=m}} :: way
-===Wein===
+***Wein***
+  Wein {{de-noun|g=m|genitive=Weins|genitive2=Weines|plural=Weine}} :: wine
   bei (preposition), + dative :: {{context|with something that has a duration}} during; while; over
     bei der Arbeit :: “during work”
     bei einem Glase Wein :: “over a glass of wine”
@@ -4256,6 +4290,8 @@ Index: DE DE->EN
   wiegen {{de-verb-strong|wiegt|wog|gewogen|class=2}} :: {{intransitive|or|reflexive}} to weigh; to be of a certain weight
   wiegen {{de-verb-weak|wiegt|wiegte|gewiegt}} :: {{transitive|or|reflexive}} to move (something) from side to side; to sway; to shake; to rock
   wiegen {{de-verb-weak|wiegt|wiegte|gewiegt}} :: {transitive} to chop (e.g. herbs); to mince
+***Wien***
+  Wien (proper noun) :: Vienna
 ===Wieso===
   denn {de-adv} :: {{context|in a question}} then; ever; but; used for general emphasis
     Wo ist er denn? :: "Where is he, then?" ("Where ever can he be?")
@@ -4472,6 +4508,8 @@ Index: DE DE->EN
     Und somit fiel die Entscheidung was zu tun ist auf mich zurück. :: And so it falls to me to make this important decision.
 ***zurückbringen***
   zurückbringen {de-verb} :: to bring back, recall, restore.
+***Zusammenklang***
+  Zusammenklang :: "sounding together", a pitch simultaneity, sonority, or a chord in the sense of indpendent entities sounding together.
 ***zusammenkleben***
   zusammenkleben {de-verb} :: {transitive} to glue (together).
   zusammenkleben {de-verb} :: {intransitive} to stick (together).
@@ -4685,6 +4723,8 @@ Index: EN EN->DE
   regen {de-verb} :: {{context|reflexive}} To be active doing something, occupying oneself.
 ===Adam===
   Adam (proper noun) :: {biblical character} Adam.
+===Adelheid===
+  Alice (proper noun) :: {{given name|female}} borrowed from English; cognate to modern German Adelheid.
 ===adequate===
   fair (adjective) :: just, equitable, adequate, honest, in good spirit
     ein faires Spiel :: --
@@ -5358,6 +5398,7 @@ Index: EN EN->DE
   Larissa (proper noun) :: {{given name|female}} borrowed from {{etyl|ru|de}} in the 20th century.
   Malte (proper noun) :: {{given name|male}} borrowed from {{etyl|da|de}} Malte.
   æ (letter), lower case, upper case: Æ :: {obsolete} Vowel borrowed from Latin. Succeeded by ä.
+  Alice (proper noun) :: {{given name|female}} borrowed from English; cognate to modern German Adelheid.
 ===both===
   langsam {{de-adj|comparative=langsamer|superlative=langsamsten}} :: slow, both in the senses of slow physical movement and limited progress
     Das Projekt geht nur langsam voran. :: --
@@ -5477,6 +5518,8 @@ Index: EN EN->DE
   servus :: goodbye, bye
 ===C===
   Ces {n} :: C flat
+===cabbage===
+  Kraut {{de-noun|g=n|genitive=Krauts|genitive2=Krautes|plural=Kräuter}} :: cabbage (vegetable) (no plural)
 ===cable===
   Seele {{de-noun|g=f|genitive=Seele|plural=Seelen}} :: core (of an electric cable)
 ===Caesar===
@@ -5673,6 +5716,9 @@ Index: EN EN->DE
     circa :: --
     cito :: --
     cum :: --
+===character===
+  Charakter {{de-noun|g=m|genitive=Charakters|plural=Charaktere}} :: {{a|form 1}} character; set of personal qualities of a living being or set of features of an object
+  Charakter {{de-noun|g=m|genitive=Charakters|plural=Charaktere}} :: {{a|form 2}} character; personalised figure used in a video game or role-playing game
 ===charge===
   frei {{de-adj|comparative=freier|superlative=freisten}} :: free of charge, gratis
   gratis :: free, without charge
@@ -5715,6 +5761,14 @@ Index: EN EN->DE
   Chinese {{de-noun|g=m|genitive=Chinesen|plural=Chinesen}} :: male person from China
 ===chop===
   wiegen {{de-verb-weak|wiegt|wiegte|gewiegt}} :: {transitive} to chop (e.g. herbs); to mince
+===chord===
+  Akkord {{de-noun|g=m|genitive=Akkordes|plural=Akkorde}} :: {{context|music}} chord
+    1931, Arthur Schnitzler, Flucht in die Finsternis, S. Fischer Verlag, page 14: :: --
+    Er begab sich ins Klavierzimmer, griff ein paar Akkorde auf dem verstimmten Flügel, verließ aber bald wieder den Raum, [...] :: --
+    He went to the piano room, stroke a few chords on the out-of-tune grand piano, but soon left the room again, [...] :: --
+  Zusammenklang :: "sounding together", a pitch simultaneity, sonority, or a chord in the sense of indpendent entities sounding together.
+===Chordal===
+  Triebleben der Klänge {n} :: Chordal life force.
 ===Christ===
   Christus {m} (proper noun) :: Christ (the messiah who was named Jesus)
 ===christian===
@@ -5825,6 +5879,7 @@ Index: EN EN->DE
   Alexander (proper noun) :: {{given name|male}}, cognate to English Alexander.
   Paul (proper noun) :: {{given name|male}}, cognate to English Paul.
   Richard (proper noun) :: {{given name|male}} cognate to Richard.
+  Alice (proper noun) :: {{given name|female}} borrowed from English; cognate to modern German Adelheid.
 ===cold===
   kalt {{de-adj|kälter|kältesten}} :: cold, chilly; the physical perception of something (objects, weather, body etc.) to have a low temperature
   kalt {{de-adj|kälter|kältesten}} :: cold, frigid (especially when referring to emotions)
@@ -6486,6 +6541,8 @@ Index: EN EN->DE
   englische :: accusative singular feminine and neuter form of englisch (English) used after the definite article.
   englische :: accusative singular feminine form of englisch (English) used after the indefinite article.
   Paul (proper noun) :: {{given name|male}}, cognate to English Paul.
+  Alice (proper noun) :: {{given name|female}} borrowed from English; cognate to modern German Adelheid.
+  Jacob (proper noun) :: {{given name|male}}, equivalent to English Jacob and James.
 ===engulfed===
   Nacht {{de-noun|g=f|plural=Nächte}} :: darkness
     Sie wurden von der Nacht verschlungen. :: They were engulfed by the darkness.
@@ -6498,6 +6555,8 @@ Index: EN EN->DE
     Since end of July the monsoon rain has made the rivers overflow their banks in large parts of Pakistan and turned whole provinces into lakes. :: --
 ===entirely===
   ganz :: quite, wholly, entirely, all
+===entities===
+  Zusammenklang :: "sounding together", a pitch simultaneity, sonority, or a chord in the sense of indpendent entities sounding together.
 ===enumerate===
   zählen {de-verb} :: to count (to enumerate the digits of one's numeral system)
 ===environmental===
@@ -6510,6 +6569,7 @@ Index: EN EN->DE
     Es ist nur fair, auch wenn alle gleich schlecht behandelt werden. :: --
 ===equivalent===
   (Low German) was (verb form) :: wash; apocoped form of wasse, singular imperative of wassen; mainly used in the Netherlands, equivalent to other dialekts' wasche/waske
+  Jacob (proper noun) :: {{given name|male}}, equivalent to English Jacob and James.
 ===ere===
   (Low German) er (preposition) :: {{context|in some dialects}} ere, before
     Vertell (or: Tell) mi dit, er ik ga. :: Tell me this, before I go.
@@ -6724,6 +6784,8 @@ Index: EN EN->DE
   Zug {{de-noun|g=m|genitive=Zugs|genitive2=Zuges|plural=Züge}} :: feature, trait
   fast {de-adv} :: almost; nearly
     Fast 60 Spielfilme sind zu sehen. :: “There are almost 60 feature films to see.”
+===features===
+  Charakter {{de-noun|g=m|genitive=Charakters|plural=Charaktere}} :: {{a|form 1}} character; set of personal qualities of a living being or set of features of an object
 ===feed===
   aasen {de-verb} :: to feed on carrion
 ===feeling===
@@ -6759,6 +6821,7 @@ Index: EN EN->DE
 ===figurative===
   Raum {{de-noun|g=m|genitive=Raums|genitive2=Raumes|plural=Räume}} :: scope, opportunity (figurative)
 ===figure===
+  Charakter {{de-noun|g=m|genitive=Charakters|plural=Charaktere}} :: {{a|form 2}} character; personalised figure used in a video game or role-playing game
   Bube {{de-noun|g=m|genitive=Buben|plural=Buben}} :: A playing card marked with the figure of a servant or soldier; a jack.
 ===films===
   fast {de-adv} :: almost; nearly
@@ -6811,6 +6874,8 @@ Index: EN EN->DE
   Ces {n} :: C flat
 ===flatten===
   beschlagen (third-person singular simple present beschlägt, past tense beschlug, past participle beschlagen) :: to stamp, flatten.
+===flavour===
+  Kraut {{de-noun|g=n|genitive=Krauts|genitive2=Krautes|plural=Kräuter}} :: herb (plant used to flavour food)
 ===Flemish===
   Flämisch {n} (noun) :: Flemish (language)
 ===floor===
@@ -6828,6 +6893,7 @@ Index: EN EN->DE
   nebelig :: foggy
 ===food===
   Fisch {{de-noun|g=m|genitive=Fisches|plural=Fische}} :: fish (food)
+  Kraut {{de-noun|g=n|genitive=Krauts|genitive2=Krautes|plural=Kräuter}} :: herb (plant used to flavour food)
 ===fool===
   Narr {{de-noun|g=m|genitive=Narren|plural=Narren}} :: fool, clown, jester
 ===foot===
@@ -6837,6 +6903,7 @@ Index: EN EN->DE
     Mir ist Angst. :: For me there is fear. (“I am afraid.”)
 ===force===
   Zug {{de-noun|g=m|genitive=Zugs|genitive2=Zuges|plural=Züge}} :: pull (force that pulls in a specific direction)
+  Triebleben der Klänge {n} :: Chordal life force.
 ===ford===
   (Old High German) wat {{goh-noun|g=n}} :: ford
 ===fork===
@@ -6956,6 +7023,7 @@ Index: EN EN->DE
 ===Gambia===
   Gambia {n} (proper noun) :: Gambia
 ===game===
+  Charakter {{de-noun|g=m|genitive=Charakters|plural=Charaktere}} :: {{a|form 2}} character; personalised figure used in a video game or role-playing game
   aus {de-adv} :: {{context|with “sein”}} over; finished; ceased; up
     Das Spiel ist aus! :: The jig game is up!
 ===garden===
@@ -7017,6 +7085,7 @@ Index: EN EN->DE
   Hamburg {n} (proper noun) :: Hamburg (German city)
   Rappen m (plural same) :: German for the Swiss centime (1/100 franc).
   Schwyz {de-proper noun} :: {dialectal} the Alemannic (Swiss German) name of Switzerland
+  Alice (proper noun) :: {{given name|female}} borrowed from English; cognate to modern German Adelheid.
   frei {{de-adj|comparative=freier|superlative=freisten}} :: released, unimprisoned, unenslaved
     Stadtluft macht frei. :: City air makes one free. (German serfs who escaped to and lived in cities for a certain period of time were legally freed.)
 ===Germany===
@@ -7354,6 +7423,8 @@ Index: EN EN->DE
   human :: humane (with regard for the health and well-being of another; compassionate)
 ===heart===
   Herz {{de-noun|g=n|genitive=Herzens|plural=Herzen}} :: heart
+===hearth===
+  (Old High German) herd {{goh-noun|g=m}} :: hearth
 ===hearts===
   Herz {{de-noun|g=n|genitive=Herzens|plural=Herzen}} :: {{context|card games}} hearts
 ===Hebrew===
@@ -7388,6 +7459,8 @@ Index: EN EN->DE
 ===Her===
   (Low German) er (pronoun) :: {{context|in some dialects|possessive}} her ({{n-g|possessive of se, sei (she))}}
     Er Ogen sünd blag. :: Her eyes are blue.
+===herb===
+  Kraut {{de-noun|g=n|genitive=Krauts|genitive2=Krautes|plural=Kräuter}} :: herb (plant used to flavour food)
 ===herbs===
   wiegen {{de-verb-weak|wiegt|wiegte|gewiegt}} :: {transitive} to chop (e.g. herbs); to mince
 ===here===
@@ -7614,6 +7687,8 @@ Index: EN EN->DE
   ihr :: {personal} dative of sie, her, to her (indirect object).
 ===individual===
   Schadenfreude {{de-noun|g=f|pl=-}} :: Satisfaction derived when an individual has misfortune for disregarding rules or conventions.
+===indpendent===
+  Zusammenklang :: "sounding together", a pitch simultaneity, sonority, or a chord in the sense of indpendent entities sounding together.
 ===infest===
   befallen {de-verb} :: to infest
 ===infinitive===
@@ -7732,6 +7807,10 @@ Index: EN EN->DE
   (Middle Low German) jacht {f} (noun) :: a fast ship (shortened from jachte/jachtschip)
 ===jack===
   Bube {{de-noun|g=m|genitive=Buben|plural=Buben}} :: A playing card marked with the figure of a servant or soldier; a jack.
+===Jacob===
+  Jacob (proper noun) :: {{given name|male}}, equivalent to English Jacob and James.
+===James===
+  Jacob (proper noun) :: {{given name|male}}, equivalent to English Jacob and James.
 ===Japan===
   Japan {n} (proper noun) :: Japan
   japanisch (adjective) :: Japanese (of or relating to Japan, the Japanese people, or the Japanese language)
@@ -8013,6 +8092,7 @@ Index: EN EN->DE
 ===life===
   bio- (prefix) :: life
   (Old High German) tōd {{goh-noun|g=m}} :: death, cessation of life
+  Triebleben der Klänge {n} :: Chordal life force.
 ===lift===
   Aufzug {{de-noun|g=m|genitive=Aufzugs|genitive2=Aufzuges|plural=Aufzüge}} :: lift, elevator
 ===light===
@@ -8075,6 +8155,7 @@ Index: EN EN->DE
   Leber {{de-noun|g=f|plural=Lebern}} :: liver
 ===living===
   Taiwaner {{de-noun|g=m|genitive=Taiwaners|plural=Taiwaner}} :: Taiwanese; male living in Taiwan, or pertaining to Taiwan
+  Charakter {{de-noun|g=m|genitive=Charakters|plural=Charaktere}} :: {{a|form 1}} character; set of personal qualities of a living being or set of features of an object
 ===loaves===
   backen {{de-verb-strong|backt or bäckt|backte or archaic buk|gebacken or gebackt|class=6}} :: {{transitive|or|intransitive}} to bake; to roast
     Der Bäcker backt jeden Morgen 30 Laib Brot. :: “The baker bakes 30 loaves of bread every morning.”
@@ -8411,7 +8492,11 @@ Index: EN EN->DE
   mobil {{de-adj|comparative=mobiler|superlative=mobilsten}} :: mobile
 ===modern===
   neu (adjective) :: modern, recent, latest
+  modern {{de-adj|comparative=moderner|superlative=modernsten}} :: modern
   Maya :: {{given name|female}} of modern usage, a variant of Maja ( =Maria).
+  Alice (proper noun) :: {{given name|female}} borrowed from English; cognate to modern German Adelheid.
+===molder===
+  modern {de-verb} :: to rot, to molder
 ===moldy===
   beschlagen (third-person singular simple present beschlägt, past tense beschlug, past participle beschlagen) :: to grow moldy or tarnished.
 ===mollusk===
@@ -8694,6 +8779,7 @@ Index: EN EN->DE
     And could I imagine, that this unhappy love would so soon carry away the prudent little Klara? I must endure it now, that my daughter-- :: --
   Liebe {{de-noun|g=f|plural=Lieben}} :: (no plural) lust (sexually or erotically motivated inclination)
   Liebe {{de-noun|g=f|plural=Lieben}} :: (no plural) sexual intercourse (bodily union as a result of lust)
+  Kraut {{de-noun|g=n|genitive=Krauts|genitive2=Krautes|plural=Kräuter}} :: cabbage (vegetable) (no plural)
 ===No===
   glauben {de-verb} :: to believe (to think sb/sth exists = an + acc.; to think sth someone says is correct = dat.)
     Glaubst du an Engel? :: Do you believe in angels?
@@ -8802,6 +8888,7 @@ Index: EN EN->DE
   ihr {m}, ihr {n}, ihre {f}, ihre (pl.) :: {possessive} its (when the owning object/article/thing/animal etc., referred to, is feminine (die)).
   sie {f} :: {personal} it (when the object/article/thing/animal etc., referred to, is feminine (die)).
   wen :: {interrogative} accusative of wer, who(m) (direct object).
+  Charakter {{de-noun|g=m|genitive=Charakters|plural=Charaktere}} :: {{a|form 1}} character; set of personal qualities of a living being or set of features of an object
 ===objects===
   kalt {{de-adj|kälter|kältesten}} :: cold, chilly; the physical perception of something (objects, weather, body etc.) to have a low temperature
   zählen {de-verb} :: to count (to determine the number of objects in a group)
@@ -9084,6 +9171,10 @@ Index: EN EN->DE
     Das Römische Reich fiel auf Grund der Völkerwanderung. :: The Roman Empire was overthrown by the consequences of the Migration period.
 ===periodically===
   pollen {de-verb} :: {computing} to poll, to periodically check the status of a device or variable.
+===personal===
+  Charakter {{de-noun|g=m|genitive=Charakters|plural=Charaktere}} :: {{a|form 1}} character; set of personal qualities of a living being or set of features of an object
+===personalised===
+  Charakter {{de-noun|g=m|genitive=Charakters|plural=Charaktere}} :: {{a|form 2}} character; personalised figure used in a video game or role-playing game
 ===persons===
   sie (pl.) :: {personal} you, used to refer to any number of persons in formal conversations
 ===pertaining===
@@ -9121,6 +9212,8 @@ Index: EN EN->DE
 ===piece===
   backen {{de-verb-strong|backt or bäckt|backte or archaic buk|gebacken or gebackt|class=6}} :: {{transitive|or|intransitive}} to fire (pottery)
     Die Tonfigur muss mindestens zwei Stunden im Ofen backen. :: “The clay piece must be fired in the oven for at least two hours.”
+===piecework===
+  Akkord {{de-noun|g=m|genitive=Akkordes|plural=Akkorde}} :: piecework
 ===Pierre===
   (Alemannic German) hit (adverb) :: (Alsatian) today
     Hit isch dr Jean-Pierre so drüri. :: Jean-Pierre is so sad today.
@@ -9130,6 +9223,8 @@ Index: EN EN->DE
   rosa (adjective) :: pink
 ===pirate===
   Räuber {{de-noun|g=m|gen=Räubers|plural=Räuber}} :: pirate
+===pitch===
+  Zusammenklang :: "sounding together", a pitch simultaneity, sonority, or a chord in the sense of indpendent entities sounding together.
 ===pitchfork===
   Gabel {{de-noun|g=f|plural=Gabeln}} :: pitchfork
 ===pitied===
@@ -9166,6 +9261,7 @@ Index: EN EN->DE
   Pflanze {{de-noun|g=f|plural=Pflanzen}} :: plant
     Der Garten besaß zahlreiche verschiedene Arten von Pflanzen. :: The garden had plenty of different kinds of plants in it.
   pflanzen (verb) :: to plant
+  Kraut {{de-noun|g=n|genitive=Krauts|genitive2=Krautes|plural=Kräuter}} :: herb (plant used to flavour food)
 ===plants===
   Pflanze {{de-noun|g=f|plural=Pflanzen}} :: plant
     Der Garten besaß zahlreiche verschiedene Arten von Pflanzen. :: The garden had plenty of different kinds of plants in it.
@@ -9175,6 +9271,7 @@ Index: EN EN->DE
   Zug {{de-noun|g=m|genitive=Zugs|genitive2=Zuges|plural=Züge}} :: {{context|military}} platoon
 ===playing===
   Bube {{de-noun|g=m|genitive=Buben|plural=Buben}} :: A playing card marked with the figure of a servant or soldier; a jack.
+  Charakter {{de-noun|g=m|genitive=Charakters|plural=Charaktere}} :: {{a|form 2}} character; personalised figure used in a video game or role-playing game
 ===plead===
   bitten {de-verb} :: {{transitive|or|intransitive}} To ask; to beg; to plead; to request.
 ===pleasant===
@@ -9337,6 +9434,7 @@ Index: EN EN->DE
   Python {{de-noun|g=n|pl=-|genitive=Python}} :: Python
 ===qualities===
   schwul (adjective) :: {pejorative} {slang} having effeminate or flamboyant qualities; fruity, queer, swishy
+  Charakter {{de-noun|g=m|genitive=Charakters|plural=Charaktere}} :: {{a|form 1}} character; set of personal qualities of a living being or set of features of an object
 ===quantity===
   Menge {{de-noun|Mengen|g=f}} :: quantity
 ===quartz===
@@ -9586,6 +9684,8 @@ Index: EN EN->DE
   Bube {{de-noun|g=m|genitive=Buben|plural=Buben}} :: rogue
   Schelm m (plural Schelme) :: imp, rogue, prankster
   Schelme (noun) (plural: Schelmen) :: rogue
+===role===
+  Charakter {{de-noun|g=m|genitive=Charakters|plural=Charaktere}} :: {{a|form 2}} character; personalised figure used in a video game or role-playing game
 ===Rom===
   Rom {{de-proper noun|g=m}} :: {{sense|person}} Rom (member of the Roma people), Romany, Gypsy (Gipsy)
 ===Roma===
@@ -9603,6 +9703,8 @@ Index: EN EN->DE
   Schiebedach {n} (plural: Schiebedächer) :: sliding roof
 ===room===
   Raum {{de-noun|g=m|genitive=Raums|genitive2=Raumes|plural=Räume}} :: room, space, chamber
+===rot===
+  modern {de-verb} :: to rot, to molder
 ===rote===
   Johannisbeere {{de-noun|g=f|plural=Johannisbeeren}} :: redcurrant (rote Johannisbeere)
 ===rothaarig===
@@ -9801,6 +9903,7 @@ Index: EN EN->DE
   -er (suffix) :: Forming agent nouns from verbs with the sense of ‘person or thing which does’, suffixed to the first-person singular indicative present form from which the E is dropped.
     arbeiten 'to work'; (ich) arbeit(<u>e</u>) + -er '-er' -> Arbeiter 'worker' :: --
   Wasser {n} (noun), genitive: Wassers, plural: Wasser, plural 2 (depending on sense): Wässer :: An alcoholic beverage, similar to brandy, made from fermented fruit. (In this sense, the plural is Wässer.)
+  Zusammenklang :: "sounding together", a pitch simultaneity, sonority, or a chord in the sense of indpendent entities sounding together.
 ===senses===
   langsam {{de-adj|comparative=langsamer|superlative=langsamsten}} :: slow, both in the senses of slow physical movement and limited progress
     Das Projekt geht nur langsam voran. :: --
@@ -9833,6 +9936,7 @@ Index: EN EN->DE
     Die Eheleute hatten nichts verabredet, so haben sie parallel (zueinander) eingekauft. :: --
 ===set===
   Menge {{de-noun|Mengen|g=f}} :: {mathematics} set
+  Charakter {{de-noun|g=m|genitive=Charakters|plural=Charaktere}} :: {{a|form 1}} character; set of personal qualities of a living being or set of features of an object
 ===seven===
   mal :: times
     sechs mal sieben ist zweiundvierzig :: six times seven is forty-two &mdash; 6 × 7 = 42
@@ -9951,6 +10055,8 @@ Index: EN EN->DE
 ===simple===
   (Low German) was (verb form) :: was; first-person singular simple past tense indicative of węsen (to be).
   (Low German) was (verb form) :: was; Third-person singular simple past tense indicative of węsen (to be).
+===simultaneity===
+  Zusammenklang :: "sounding together", a pitch simultaneity, sonority, or a chord in the sense of indpendent entities sounding together.
 ===since===
   da (conjunction) :: since, as, given that, because
     1931, Arthur Schnitzler, Flucht in die Finsternis, S. Fischer Verlag, page 51: :: --
@@ -10095,6 +10201,8 @@ Index: EN EN->DE
   etwas :: somewhat, slightly
 ===song===
   (Low German) sang {m} (noun), Genitive: sanges :: a chant, a song
+===sonority===
+  Zusammenklang :: "sounding together", a pitch simultaneity, sonority, or a chord in the sense of indpendent entities sounding together.
 ===soon===
   bald (adverb) :: soon
 ===Sophia===
@@ -10108,6 +10216,8 @@ Index: EN EN->DE
   Seele {{de-noun|g=f|genitive=Seele|plural=Seelen}} :: human being, soul
 ===sound===
   Gesundheit {{de-noun|g=f|pl=-}} :: health; soundness (sound being adjectival)
+===sounding===
+  Zusammenklang :: "sounding together", a pitch simultaneity, sonority, or a chord in the sense of indpendent entities sounding together.
 ===soundness===
   Gesundheit {{de-noun|g=f|pl=-}} :: health; soundness (sound being adjectival)
 ===sow===
@@ -10692,6 +10802,7 @@ Index: EN EN->DE
     Der Schnee backte gestern besser. :: --
   zusammenkleben {de-verb} :: {transitive} to glue (together).
   zusammenkleben {de-verb} :: {intransitive} to stick (together).
+  Zusammenklang :: "sounding together", a pitch simultaneity, sonority, or a chord in the sense of indpendent entities sounding together.
 ===Togo===
   Togo {{de-proper noun|g=n}} :: Togo
 ===tone===
@@ -10914,6 +11025,8 @@ Index: EN EN->DE
   englische :: accusative singular feminine and neuter form of englisch (English) used after the definite article.
   englische :: accusative singular feminine form of englisch (English) used after the indefinite article.
   Verbrauchsmusik {{de-noun|g=f|plural=Verbrauchsmusiken}} :: Music without lasting value, written to be used and discarded quickly.
+  Kraut {{de-noun|g=n|genitive=Krauts|genitive2=Krautes|plural=Kräuter}} :: herb (plant used to flavour food)
+  Charakter {{de-noun|g=m|genitive=Charakters|plural=Charaktere}} :: {{a|form 2}} character; personalised figure used in a video game or role-playing game
 ===Used===
   um (preposition) + accusative :: Used as a conjunction of purpose
     um zu :: so as to
@@ -10957,6 +11070,8 @@ Index: EN EN->DE
   Abart {{de-noun|g=f|pl=Abarten}} :: species, kind, variety
 ===vegan===
   vegan (adjective) :: vegan
+===vegetable===
+  Kraut {{de-noun|g=n|genitive=Krauts|genitive2=Krautes|plural=Kräuter}} :: cabbage (vegetable) (no plural)
 ===vehicles===
   Straße {{de-noun|g=f|plural=Straßen}} :: carriageway, the part of the road used by vehicles
   Zug {{de-noun|g=m|genitive=Zugs|genitive2=Zuges|plural=Züge}} :: train (multiple vehicles one behind the other, particularly travelling on rails)
@@ -11011,9 +11126,13 @@ Index: EN EN->DE
     Ik kem, ik seg, ik wünd ({nds}) / Ik keem, ik keek, ik wun ({pdt}) :: I came, I saw, I conquered. (veni, vidi, vici, attributed to w:Julius Caesar.)
 ===Victoria===
   Victoria (proper noun) :: Victoria, the queen
+===video===
+  Charakter {{de-noun|g=m|genitive=Charakters|plural=Charaktere}} :: {{a|form 2}} character; personalised figure used in a video game or role-playing game
 ===vidi===
   (Low German) ik (pronoun) :: {{context|in some dialects}} I {{n-g|(first person singular pronoun)}}
     Ik kem, ik seg, ik wünd ({nds}) / Ik keem, ik keek, ik wun ({pdt}) :: I came, I saw, I conquered. (veni, vidi, vici, attributed to w:Julius Caesar.)
+===Vienna===
+  Wien (proper noun) :: Vienna
 ===Vietnam===
   Vietnam {n} (proper noun) :: Vietnam
   Vietnamese {m} (noun) (plural: Vietnamesen, female: Vietnamesin) :: Inhabitant of Vietnam, person of Vietnamese descent.
@@ -11294,6 +11413,7 @@ Index: EN EN->DE
     So dunkel und schauerlich die Gruft aussah, wenn man durch die blinden, bestaubten Scheibchen der kleinen Fenster hineinblickte, so hell und freundlich war oben die Kirche. :: --
     Just as dark and eerie the crypt looked like, if one looked in it through the cloudy, dusted little panes of the small windows, as bright and friendly was the church above. :: --
 ===wine===
+  Wein {{de-noun|g=m|genitive=Weins|genitive2=Weines|plural=Weine}} :: wine
   bei (preposition), + dative :: {{context|with something that has a duration}} during; while; over
     bei der Arbeit :: “during work”
     bei einem Glase Wein :: “over a glass of wine”

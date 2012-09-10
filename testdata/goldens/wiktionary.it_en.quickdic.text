@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.english 3507
+EntrySource: enwiktionary.english 3545
 
 Index: IT IT->EN
 ===15===
@@ -10,6 +10,8 @@ Index: IT IT->EN
   a collo :: aback (said of sails pressed backward) (adverb)
   piovere a catinelle :: rain cats and dogs (to rain very heavily) (verb)
   a bordo :: aboard (on board) (adverb)
+===A===
+  N.A.T.O. :: NATO (North Atlantic Treaty Organization) (proper noun)
 ***abaca***
   abaca {f} :: abaca (plant) (noun)
 ***abaco***
@@ -164,6 +166,8 @@ Index: IT IT->EN
   acido {m} :: acid (a sour substance) (noun)
   acido {m} :: acid (in chemistry) (noun)
   acido {m}, acido lisergico {m} :: acid (LSD) (noun)
+***acronimo***
+  acronimo {m} :: acronym (word formed by initial letters) (noun)
 ===actually===
   (periodo di) due settimane ; quindicina {f} (actually 15 days) :: fortnight (period of two weeks) (adverb)
 ***addestrare***
@@ -1036,10 +1040,14 @@ Index: IT IT->EN
   morire :: die (to stop living) (verb)
 ***morso***
   morso {m}, freno :: bit (metal in horse's mouth) (noun)
+***musica***
+  musica {f} :: music (sound, organized in time in a melodious way) (noun)
 ***musicista***
   musicista {m|f}, musico {m} :: musician (person who performs or writes music) (noun)
 ***musico***
   musicista {m|f}, musico {m} :: musician (person who performs or writes music) (noun)
+===N===
+  N.A.T.O. :: NATO (North Atlantic Treaty Organization) (proper noun)
 ***nascita***
   nascita {f}, parto {m} :: birth (process of childbearing) (noun)
   nascita {f} :: birth (beginning or start; a point of origin) (noun)
@@ -1084,6 +1092,8 @@ Index: IT IT->EN
   numero {m} :: number (performance) (noun)
   numero {m}, cifra {f} :: numeral (word or symbol representing a number) (noun)
   numero romano {m} :: Roman numeral (a numeral represented by letters) (noun)
+===O===
+  N.A.T.O. :: NATO (North Atlantic Treaty Organization) (proper noun)
 ***odioso***
   ripugnante, disgustoso, odioso :: abhorrent (detesting; showing abhorrence) (adjective)
 ***offuscare***
@@ -1105,6 +1115,8 @@ Index: IT IT->EN
   olandese {m|f}, olandesi {m|f|p} :: Dutch (of the Netherlands, people, or language) (adjective)
 ***ombrello***
   ombrello {m}, parapioggia :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
+===operativo===
+  sistema operativo {m} :: operating system (software which controls computer) (noun)
 ===or===
   due {m} or {p} :: two (digit or figure) (noun)
 ***ora***
@@ -1409,6 +1421,9 @@ Index: IT IT->EN
   secondo {m} :: second (unit of angular measure) (noun)
   secondo {m}, attimo {m}, momento {m} :: second (short, indeterminate amount of time) (noun)
   padrino {m}, secondo {m} :: second (attendant of a duel or boxing match standing in for a contestant) (noun)
+***segreto***
+  segreto {m} :: secret (knowledge that is hidden) (noun)
+  segreto :: secret (being or kept hidden.) (adjective)
 ***sei***
   sei :: six (cardinal number) (cardinal number)
 ***semplice***
@@ -1446,6 +1461,8 @@ Index: IT IT->EN
   dizionario dei sinonimi, tesoro {m} :: thesaurus (book of synonyms) (noun)
 ***sinonimo***
   sinonimo {m} :: synonym (word with same meaning as another) (noun)
+===sistema===
+  sistema operativo {m} :: operating system (software which controls computer) (noun)
 ===software===
   libero, free, libre (software) :: free (software: with very few limitations on distribution or improvement) (adjective)
 ***sole***
@@ -1538,6 +1555,8 @@ Index: IT IT->EN
   suddetto, succitato :: above-mentioned (mentioned or named before; aforesaid) (adjective)
 ***svanito***
   svanito :: absent-minded (absent in mind) (adjective)
+===T===
+  N.A.T.O. :: NATO (North Atlantic Treaty Organization) (proper noun)
 ***tacere***
   tacere, chiudere :: can (to shut up) (verb)
 ***Tanato***
@@ -2016,6 +2035,8 @@ Index: EN EN->IT
   acido {m}, acido lisergico {m} :: acid (LSD) (noun)
 ===acknowledgment===
   riconoscimento {m} :: accolade (A special acknowledgment; an award) (noun)
+***acronym***
+  acronimo {m} :: acronym (word formed by initial letters) (noun)
 ===act===
   abbandono {m} :: abandonment (act of abandoning) (noun)
   riduzione :: abatement (the act of abating or the state of being abated) (noun)
@@ -2201,6 +2222,8 @@ Index: EN EN->IT
   asterisco {m} :: star (asterisk) (noun)
 ===astronomy===
   aberrazione {f} :: aberration (astronomy: small periodical change of position of heavenly bodies) (noun)
+===Atlantic===
+  N.A.T.O. :: NATO (North Atlantic Treaty Organization) (proper noun)
 ===atmosphere===
   cielo {m} :: sky (atmosphere above a point) (noun)
 ===attack===
@@ -2611,6 +2634,7 @@ Index: EN EN->IT
 ===computer===
   informatica {f} :: computer science (study of computers and their architecture) (noun)
   linguaggio {m} :: language (computer language) (noun)
+  sistema operativo {m} :: operating system (software which controls computer) (noun)
 ===computers===
   informatica {f} :: computer science (study of computers and their architecture) (noun)
 ===computing===
@@ -2669,6 +2693,8 @@ Index: EN EN->IT
   contrario, incompatibile, contro :: abhorrent (contrary or repugnant) (adjective)
 ===control===
   seconda scelta {f} :: second (manufactured item that fails to meet quality control standards) (noun)
+===controls===
+  sistema operativo {m} :: operating system (software which controls computer) (noun)
 ===convenient===
   blocchetto {m} :: book (convenient collection of small paper items, such as stamps) (noun)
 ===convergence===
@@ -3243,6 +3269,8 @@ Index: EN EN->IT
   straniero {m}, forestiero {m} :: alien (foreigner) (noun)
 ===formal===
   marcia {f} :: march (formal, rhythmic way of walking) (noun)
+===formed===
+  acronimo {m} :: acronym (word formed by initial letters) (noun)
 ===forms===
   stare :: be (used to form the continuous forms of various tenses) (verb)
 ===forsaken===
@@ -3484,6 +3512,9 @@ Index: EN EN->IT
 ===here===
   intorno :: about (here and there) (adverb)
   andare, venire :: be (elliptical form of "be here", or similar) (verb)
+===hidden===
+  segreto {m} :: secret (knowledge that is hidden) (noun)
+  segreto :: secret (being or kept hidden.) (adjective)
 ===hide===
   nascondere, celare :: conceal (to hide something) (verb)
 ===high===
@@ -3581,6 +3612,8 @@ Index: EN EN->IT
   essere aggiornato, stare al passo (con i tempi, con le notizie), mantenersi al corrente :: abreast (informed) (adverb)
 ===informer===
   spia {f}, delatore {m}, pentito {m}, traditore {m} :: grass (informer) (noun)
+===initial===
+  acronimo {m} :: acronym (word formed by initial letters) (noun)
 ===inscription===
   data {f} :: date (that which specifies the time of writing, inscription etc.) (noun)
 ===instrument===
@@ -3650,10 +3683,14 @@ Index: EN EN->IT
   giugno {m} :: June (sixth month of the Gregorian calendar) (proper noun)
 ===keep===
   orologio {m} :: clock (instrument to measure or keep track of time) (noun)
+===kept===
+  segreto :: secret (being or kept hidden.) (adjective)
 ===keyed===
   fisarmonica {f} :: accordion (A small, portable, keyed wind instrument) (noun)
 ===knighthood===
   ordinazione {f} :: accolade (A salutation marking the conferring of knighthood) (noun)
+===knowledge===
+  segreto {m} :: secret (knowledge that is hidden) (noun)
 ===label===
   numerare :: number (label with numbers; assign numbers to) (verb)
 ===lacking===
@@ -3724,6 +3761,7 @@ Index: EN EN->IT
   alfabetico :: alphabetical (in the sequence of the letters of the alphabet) (adjective)
   alfabeto {m} :: alphabet (an ordered set of letters used in a language) (noun)
   numero romano {m} :: Roman numeral (a numeral represented by letters) (noun)
+  acronimo {m} :: acronym (word formed by initial letters) (noun)
 ===level===
   anno {m} :: year (a level or grade at school or college) (noun)
   qualità {f} :: quality (level of excellence) (noun)
@@ -3905,6 +3943,8 @@ Index: EN EN->IT
   presidente {m} :: chairman (person presiding over a meeting) (noun)
   incontro {m}, appuntamento {m} (the latter also as romantic meeting) :: date (pre-arranged social meeting) (noun)
   appuntamento {m} :: date (meeting with a lover or potential lover; a person so met) (noun)
+===melodious===
+  musica {f} :: music (sound, organized in time in a melodious way) (noun)
 ===member===
   felino {m}, felina {f} :: cat (member of the family Felidae) (noun)
   abaco {m} :: abacus (uppermost member of the capital of a column) (noun)
@@ -4007,7 +4047,8 @@ Index: EN EN->IT
   abduzione {f} :: abduction (physiology: movement separating limb from axis) (noun)
 ===multiplication===
   prodotto {m} :: product (multiplication result) (noun)
-===music===
+***music***
+  musica {f} :: music (sound, organized in time in a melodious way) (noun)
   marcia {f} :: march (song in the genre of music written for marching) (noun)
   abbreviazione :: abbreviation (music: one or more dashes through the stem of a note) (noun)
   musicista {m|f}, musico {m} :: musician (person who performs or writes music) (noun)
@@ -4039,6 +4080,8 @@ Index: EN EN->IT
   suddetto, succitato :: above-mentioned (mentioned or named before; aforesaid) (adjective)
 ===narration===
   fiaba {m} :: fable (fictitious narration to enforce some useful truth or precept) (noun)
+***NATO***
+  N.A.T.O. :: NATO (North Atlantic Treaty Organization) (proper noun)
 ===natural===
   abbandono {m} :: abandon (a giving up to natural impulses) (noun)
   aberrante :: aberrant (deviating from the ordinary or natural type; exceptional; abnormal) (adjective)
@@ -4091,6 +4134,8 @@ Index: EN EN->IT
   aberrazione {f} :: aberration (physiology: deviation from the normal state) (noun)
 ===norms===
   anormale, anomalo :: abnormal (of or pertaining to behaviour that deviates from norms) (adjective)
+===North===
+  N.A.T.O. :: NATO (North Atlantic Treaty Organization) (proper noun)
 ===northwestern===
   Paesi Bassi {m|p}, Olanda {f} :: Netherlands (country in northwestern Europe) (proper noun)
 ===not===
@@ -4215,6 +4260,7 @@ Index: EN EN->IT
   singolare :: singular (grammar: referring to only one thing) (adjective)
   singolare {m} :: singular (grammar: form of a word that refers to only one thing) (noun)
 ===operating===
+  sistema operativo {m} :: operating system (software which controls computer) (noun)
   acceso :: on (in the state of being active, functioning or operating) (adjective)
 ===opinion===
   accordo {m} :: accord (agreement or concurrence of opinion) (noun)
@@ -4241,6 +4287,10 @@ Index: EN EN->IT
 ===organization===
   nome proprio :: proper noun (The name of a particular person, place, organization or other individual entity) (noun)
   sindacato {m} :: trade union (organization) (noun)
+===Organization===
+  N.A.T.O. :: NATO (North Atlantic Treaty Organization) (proper noun)
+===organized===
+  musica {f} :: music (sound, organized in time in a melodious way) (noun)
 ===orgasm===
   venire, eiaculare, sborrare :: cum (slang: have an orgasm; ejaculate) (verb)
 ===origin===
@@ -4804,6 +4854,9 @@ Index: EN EN->IT
   distaccare, comandare :: second (temporary transfer of employment) (verb)
   assecondare, secondare, appoggiare, sostenere :: second (to agree as a second person) (verb)
   padrino {m}, secondo {m} :: second (attendant of a duel or boxing match standing in for a contestant) (noun)
+***secret***
+  segreto {m} :: secret (knowledge that is hidden) (noun)
+  segreto :: secret (being or kept hidden.) (adjective)
 ===sect===
   abecedariano :: abecedarian (member of a 16th-century sect) (noun)
 ===section===
@@ -4955,6 +5008,7 @@ Index: EN EN->IT
   baghetta {f} :: clock (pattern near heel of a sock or stocking) (noun)
 ===software===
   libero, free, libre (software) :: free (software: with very few limitations on distribution or improvement) (adjective)
+  sistema operativo {m} :: operating system (software which controls computer) (noun)
 ===solemnity===
   abiurare :: abjure (to renounce with solemnity) (verb)
 ===solid===
@@ -4969,6 +5023,7 @@ Index: EN EN->IT
   carne {f} :: meat (any sort of flesh) (noun)
 ===sound===
   definizione {f} :: definition (clarity, especially of musical sound in reproduction) (noun)
+  musica {f} :: music (sound, organized in time in a melodious way) (noun)
 ===sour===
   acido {m} :: acid (sour, sharp, or biting to the taste) (adjective)
   acido {m} :: acid (sour-tempered) (adjective)
@@ -5172,6 +5227,7 @@ Index: EN EN->IT
 ===synonyms===
   dizionario dei sinonimi, tesoro {m} :: thesaurus (book of synonyms) (noun)
 ===system===
+  sistema operativo {m} :: operating system (software which controls computer) (noun)
   anormale, anomalo :: abnormal (not conforming to rule or system) (adjective)
   calendario {m} :: calendar (system by which time is divided) (noun)
   metrico :: metric (relating to metric system) (adjective)
@@ -5288,6 +5344,7 @@ Index: EN EN->IT
   data {f} :: date (point in time) (noun)
   datare :: date (to note the time of writing or executing) (verb)
   datare :: date (to note or fix the time of, as of an event) (verb)
+  musica {f} :: music (sound, organized in time in a melodious way) (noun)
 ===Time===
   ora {f} :: hour (Time period of sixty minutes) (noun)
 ===tin===
@@ -5338,6 +5395,8 @@ Index: EN EN->IT
   travestito :: transvestite (cross-dresser) (noun)
 ===travel===
   teletrasportare :: teleport (travel without physically crossing distance) (verb)
+===Treaty===
+  N.A.T.O. :: NATO (North Atlantic Treaty Organization) (proper noun)
 ===tree===
   arancio {m} :: orange (tree) (noun)
 ***trillion***
@@ -5520,6 +5579,7 @@ Index: EN EN->IT
   marcia {f} :: march (formal, rhythmic way of walking) (noun)
   aberrante :: aberrant (wandering; straying from the right way) (adjective)
   accademicamente :: academically (in an academic style or way) (adverb)
+  musica {f} :: music (sound, organized in time in a melodious way) (noun)
 ***weapon***
   arma {f} :: weapon (instrument of attack or defense in combat) (noun)
 ***Wednesday***
@@ -5555,6 +5615,7 @@ Index: EN EN->IT
   non numerabile :: uncountable (linguistics: about a noun which cannot be counted) (adjective)
   data {f} :: date (that which specifies the time of writing, inscription etc.) (noun)
   data {f} :: date (point of time at which a transaction or event takes place) (noun)
+  sistema operativo {m} :: operating system (software which controls computer) (noun)
 ===wind===
   aliseo {m} :: trade wind (steady wind) (noun)
   fisarmonica {f} :: accordion (A small, portable, keyed wind instrument) (noun)
@@ -5594,6 +5655,7 @@ Index: EN EN->IT
   definizione {f} :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
   numero {m}, cifra {f} :: numeral (word or symbol representing a number) (noun)
   singolare {m} :: singular (grammar: form of a word that refers to only one thing) (noun)
+  acronimo {m} :: acronym (word formed by initial letters) (noun)
 ===words===
   dizionario {m} :: dictionary (publication that explains the meanings of an ordered list of words) (noun)
   sciocchezza {f}, senza senso, priva di significato, ridicolaggine {f} :: nonsense (meaningless words) (noun)

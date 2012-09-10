@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.english 5179
+EntrySource: enwiktionary.english 5233
 
 Index: DE DE->EN
 ===2===
@@ -257,6 +257,8 @@ Index: DE DE->EN
   Akkordeonspieler {m}, Akkordeonspielerin {f}, Akkordeonist {m}, Akkordeonistin {f} :: accordionist (player of the accordion) (noun)
 ***Akkordeonspielerin***
   Akkordeonspieler {m}, Akkordeonspielerin {f}, Akkordeonist {m}, Akkordeonistin {f} :: accordionist (player of the accordion) (noun)
+***Akronym***
+  Akronym {n} :: acronym (word formed by initial letters) (noun)
 ***Aktie***
   Aktie {f} :: stock (finance: capital raised by a company) (noun)
 ===aktuelle===
@@ -443,6 +445,8 @@ Index: DE DE->EN
   Bauch {m}, Unterleib {m} :: abdomen (belly) (noun)
 ===bedingte===
   bedingte Haftentlassung {f}, Bewährung {f} :: parole (law: a release of (a prisoner)) (noun)
+***Bedriefsysteem***
+  (Low German) Bedriefsysteem :: operating system (software which controls computer) (noun)
 ***Been***
   (Low German) (east) Bein {n}, (west) Been {n} :: bone (material) (noun)
 ***befreien***
@@ -490,6 +494,8 @@ Index: DE DE->EN
   bestrafen :: book (penalise) (verb)
 ===betreffend===
   abdominal, den Unterleib betreffend :: abdominal (of or pertaining to the abdomen) (adjective)
+***Betriebssystem***
+  Betriebssystem {n} :: operating system (software which controls computer) (noun)
 ***betrunken***
   betrunken, besoffen :: pissed (Drunk) (adjective)
 ===Bett===
@@ -1084,6 +1090,10 @@ Index: DE DE->EN
   Substantiv {n}, Nomen {n}, Dingwort {n}, Gegenstandswort {n} :: noun (grammatical category) (noun)
 ***Gegenwort***
   Antonym {n}, Gegenwort {n}, Gegensatzwort {n} :: antonym (word which has the opposite meaning) (noun)
+***geheim***
+  geheim :: secret (being or kept hidden.) (adjective)
+***Geheimnis***
+  Geheimnis {n} :: secret (knowledge that is hidden) (noun)
 ===gehen===
   ansteuern, in eine Richtung gehen, auf etwas zusteuern :: head ((intransitive) move in a specified direction) (verb)
 ===geistig===
@@ -1714,6 +1724,9 @@ Index: DE DE->EN
   Gebiss {n}, Mundstück {n} :: bit (metal in horse's mouth) (noun)
 ***Muschi***
   Fotze {f}, Muschi {f}, Möse {f} :: cunt (genitalia) (noun)
+***Musik***
+  Musik {f} :: music (sound, organized in time in a melodious way) (noun)
+  (Low German) Musik :: music (sound, organized in time in a melodious way) (noun)
 ***Musikant***
   Musikant {m}, Musiker {m}, Musikerin {f} :: musician (person who performs or writes music) (noun)
 ***Musiker***
@@ -1739,6 +1752,8 @@ Index: DE DE->EN
   ((Bavaria)) i mog di narrisch gern :: I love you (affirmation of romantic feeling) (phrase)
 ***NASA***
   NASA {f} :: NASA (National Aeronautics and Space Administration) ({{acronym}})
+***NATO***
+  NATO {f} :: NATO (North Atlantic Treaty Organization) (proper noun)
 ***Nebelung***
   November {m}, (archaic) Nebelung {m} :: November (eleventh month of the Gregorian calendar) (proper noun)
 ===Nebenbedeutung===
@@ -2378,6 +2393,8 @@ Index: DE DE->EN
   falscher Freund {m}, Übersetzungsfalle {f} :: false friend (false friend) (noun)
 ***übrigens***
   apropos, übrigens :: BTW (by the way) (initialism)
+***UdSSR***
+  UdSSR {f} :: USSR (Union of Soviet Socialist Republics) (proper noun)
 ***Uhr***
   Zeit {f}, Uhr :: hour (the time) (noun)
   Uhr {f} :: clock (instrument to measure or keep track of time) (noun)
@@ -3259,7 +3276,8 @@ Index: EN EN->DE
   Säure {f} :: acid (a sour substance) (noun)
   Säure {f} :: acid (in chemistry) (noun)
   Lysergsäure-diethylamid :: acid (LSD) (noun)
-===acronym===
+***acronym***
+  Akronym {n} :: acronym (word formed by initial letters) (noun)
   FAQ {p} :: FAQ (acronym for Frequently Asked Questions) (noun)
 ===act===
   Geringschätzung {f} :: floccinaucinihilipilification (act or habit of describing or regarding something as unimportant) (noun)
@@ -3533,6 +3551,7 @@ Index: EN EN->DE
   Aberration {f} :: aberration (astronomy: small periodical change of position of heavenly bodies) (noun)
 ===Atlantic===
   Der Große Teich :: pond (The Atlantic Ocean) (noun)
+  NATO {f} :: NATO (North Atlantic Treaty Organization) (proper noun)
 ===atmosphere===
   Himmel {m} :: sky (atmosphere above a point) (noun)
 ===attack===
@@ -4096,6 +4115,8 @@ Index: EN EN->DE
 ===computer===
   Informatik {f} :: computer science (study of computers and their architecture) (noun)
   Sprache {f}, Sprachen {p} :: language (computer language) (noun)
+  Betriebssystem {n} :: operating system (software which controls computer) (noun)
+  (Low German) Bedriefsysteem :: operating system (software which controls computer) (noun)
 ===computers===
   Informatik {f} :: computer science (study of computers and their architecture) (noun)
 ===computing===
@@ -4165,6 +4186,9 @@ Index: EN EN->DE
   Abkürzung {f}, Kurzbezeichnung {f}, Kürzel {n}, Kurzform {f} :: abbreviation (shortened or contracted form of a word or phrase) (noun)
 ===control===
   zweite Wahl {f} :: second (manufactured item that fails to meet quality control standards) (noun)
+===controls===
+  Betriebssystem {n} :: operating system (software which controls computer) (noun)
+  (Low German) Bedriefsysteem :: operating system (software which controls computer) (noun)
 ===convenient===
   Album {n} :: book (convenient collection of small paper items, such as stamps) (noun)
 ===convergence===
@@ -4984,6 +5008,7 @@ Index: EN EN->DE
   Akademismus {m} :: academicism (art: traditional or orthodox formalism.) (noun)
 ===formed===
   unvollkommen, rudimentär :: abortive (Imperfectly formed or developed; rudimentary; sterile) (adjective)
+  Akronym {n} :: acronym (word formed by initial letters) (noun)
 ===forms===
   sein :: be (used to form the continuous forms of various tenses) (verb)
 ===forsaken===
@@ -5294,6 +5319,9 @@ Index: EN EN->DE
   sein :: be (elliptical form of "be here", or similar) (verb)
 ===heroic===
   Errungenschaft {f}, Vollendung {f} :: achievement (great or heroic deed) (noun)
+===hidden===
+  Geheimnis {n} :: secret (knowledge that is hidden) (noun)
+  geheim :: secret (being or kept hidden.) (adjective)
 ===hide===
   sich verstecken :: abscond (to hide) (verb)
   verbergen, verheimlichen, verschleiern, verschweigen, verstecken :: conceal (to hide something) (verb)
@@ -5458,6 +5486,8 @@ Index: EN EN->DE
   verschlüsseln :: encrypt (to conceal information by means of a code or cipher) (verb)
 ===informed===
   auf dem Laufenden :: abreast (informed) (adverb)
+===initial===
+  Akronym {n} :: acronym (word formed by initial letters) (noun)
 ===inscription===
   Datum :: date (that which specifies the time of writing, inscription etc.) (noun)
 ===instance===
@@ -5562,6 +5592,8 @@ Index: EN EN->DE
   Absolution {f} :: absolution (Exercise of priestly jurisdiction in the sacrament of penance, by which Catholics believe the sins of the truly penitent are forgiven) (noun)
 ===keep===
   Uhr {f} :: clock (instrument to measure or keep track of time) (noun)
+===kept===
+  geheim :: secret (being or kept hidden.) (adjective)
 ===keyed===
   Akkordeon {n}, Ziehharmonika {f}, Handharmonika {f}, Handorgel {f}, (regional) Quetsche {f}, (slangy, humorous) Quetschkommode {f}, Schifferklavier {n} :: accordion (A small, portable, keyed wind instrument) (noun)
 ===kick===
@@ -5571,6 +5603,8 @@ Index: EN EN->DE
 ===kind===
   Handwerker :: craft (people who perform a particular kind of skilled work) (noun)
   einzigartig :: singular (being the only one of a kind) (adjective)
+===knowledge===
+  Geheimnis {n} :: secret (knowledge that is hidden) (noun)
 ===label===
   nummerieren :: number (label with numbers; assign numbers to) (verb)
 ===lacking===
@@ -5664,6 +5698,7 @@ Index: EN EN->DE
   alphabetisch :: alphabetical (in the sequence of the letters of the alphabet) (adjective)
   Alphabet {n} :: alphabet (an ordered set of letters used in a language) (noun)
   römische Ziffer {f} :: Roman numeral (a numeral represented by letters) (noun)
+  Akronym {n} :: acronym (word formed by initial letters) (noun)
 ===level===
   Qualität {f} :: quality (level of excellence) (noun)
 ===lexical===
@@ -5907,6 +5942,9 @@ Index: EN EN->DE
   Vorsitzender {m}, Vorsitzende {f} :: chairman (person presiding over a meeting) (noun)
   Treffen {n}, Verabredung {f} :: date (pre-arranged social meeting) (noun)
   Rendezvous {n}, Date {n}, Verabredung {n}, Stelldichein {n} :: date (meeting with a lover or potential lover; a person so met) (noun)
+===melodious===
+  Musik {f} :: music (sound, organized in time in a melodious way) (noun)
+  (Low German) Musik :: music (sound, organized in time in a melodious way) (noun)
 ===member===
   Katzenartige {m}, Katzenartige {f}, Katzenartigen {p}, Feliformia {p}, Feloidea {p} :: cat (member of the suborder (or superfamily) Feliformia (Feloidea), "cat-like" carnivorans) (noun)
   Katze {f}, Felide {m}, Felide {f}, Feliden {p}, Felidae {p} :: cat (member of the family Felidae) (noun)
@@ -6062,7 +6100,9 @@ Index: EN EN->DE
   Abduktor {m} :: abductor (muscle) (noun)
 ===muscles===
   Definition {f} :: definition (bodybuilding: the degree to which individual muscles are distinct) (noun)
-===music===
+***music***
+  Musik {f} :: music (sound, organized in time in a melodious way) (noun)
+  (Low German) Musik :: music (sound, organized in time in a melodious way) (noun)
   Marsch {m}, Marschmusik {f} :: march (song in the genre of music written for marching) (noun)
   Musikant {m}, Musiker {m}, Musikerin {f} :: musician (person who performs or writes music) (noun)
 ===musical===
@@ -6102,6 +6142,8 @@ Index: EN EN->DE
   NASA {f} :: NASA (National Aeronautics and Space Administration) ({{acronym}})
 ===National===
   NASA {f} :: NASA (National Aeronautics and Space Administration) ({{acronym}})
+***NATO***
+  NATO {f} :: NATO (North Atlantic Treaty Organization) (proper noun)
 ===natural===
   Hingabe {f}, Ungezwungenheit {f}, Selbstvergessenheit {f} :: abandon (a giving up to natural impulses) (noun)
   logischerweise :: accordingly (In natural sequence; consequently; so) (adverb)
@@ -6161,6 +6203,8 @@ Index: EN EN->DE
   vorrätig, verfügbar :: stock (normally available for purchase) (adjective)
 ===norms===
   anormal, abnormal :: abnormal (of or pertaining to behaviour that deviates from norms) (adjective)
+===North===
+  NATO {f} :: NATO (North Atlantic Treaty Organization) (proper noun)
 ===northwestern===
   Holland {n}, die Niederlande {n|p} :: Netherlands (country in northwestern Europe) (proper noun)
 ===not===
@@ -6348,6 +6392,8 @@ Index: EN EN->DE
 ===operate===
   bemannen :: man (to take up position in order to operate something) (verb)
 ===operating===
+  Betriebssystem {n} :: operating system (software which controls computer) (noun)
+  (Low German) Bedriefsysteem :: operating system (software which controls computer) (noun)
   an :: on (in the state of being active, functioning or operating) (adjective)
   an :: on (to an operating state) (adverb)
 ===opinion===
@@ -6383,6 +6429,11 @@ Index: EN EN->DE
 ===organization===
   Eigenname {m} :: proper noun (The name of a particular person, place, organization or other individual entity) (noun)
   Gewerkschaft {f} :: trade union (organization) (noun)
+===Organization===
+  NATO {f} :: NATO (North Atlantic Treaty Organization) (proper noun)
+===organized===
+  Musik {f} :: music (sound, organized in time in a melodious way) (noun)
+  (Low German) Musik :: music (sound, organized in time in a melodious way) (noun)
 ===orgasm===
   abspritzen, kommen (informal) :: cum (slang: have an orgasm; ejaculate) (verb)
 ===origin===
@@ -6993,6 +7044,8 @@ Index: EN EN->DE
   Zahl {f}, Ziffer {f}, Zahlwort {n} :: numeral (word or symbol representing a number) (noun)
 ===reproduction===
   Schärfe {f}, Präzision {f} :: definition (clarity, especially of musical sound in reproduction) (noun)
+===Republics===
+  UdSSR {f} :: USSR (Union of Soviet Socialist Republics) (proper noun)
 ===reputation===
   Name {m}, Ruf {m} :: name (reputation) (noun)
 ===required===
@@ -7123,6 +7176,9 @@ Index: EN EN->DE
   Sekunde {f} :: second (unit of angular measure) (noun)
   Sekunde {f}, Augenblick {m}, Moment {m} :: second (short, indeterminate amount of time) (noun)
   Sekundant {m} :: second (attendant of a duel or boxing match standing in for a contestant) (noun)
+***secret***
+  Geheimnis {n} :: secret (knowledge that is hidden) (noun)
+  geheim :: secret (being or kept hidden.) (adjective)
 ===secretly===
   sich davonmachen :: abscond (to depart secretly) (verb)
 ===section===
@@ -7330,10 +7386,14 @@ Index: EN EN->DE
 ===social===
   Treffen {n}, Verabredung {f} :: date (pre-arranged social meeting) (noun)
   Verabredung {f} (colloquial, arbitrary gender) :: date (companion when one is partaking in a social occasion) (noun)
+===Socialist===
+  UdSSR {f} :: USSR (Union of Soviet Socialist Republics) (proper noun)
 ===societal===
   Multikulturalismus {m} :: multiculturalism (societal idea) (noun)
 ===software===
   frei :: free (software: with very few limitations on distribution or improvement) (adjective)
+  Betriebssystem {n} :: operating system (software which controls computer) (noun)
+  (Low German) Bedriefsysteem :: operating system (software which controls computer) (noun)
 ===softwood===
   Planke {f} :: deal (plank of softwood) (noun)
 ===sojourn===
@@ -7357,6 +7417,8 @@ Index: EN EN->DE
   krähen :: crow (To make the sound of a rooster) (verb)
   jauchzen :: crow (To utter a sound of joy) (verb)
   Schärfe {f}, Präzision {f} :: definition (clarity, especially of musical sound in reproduction) (noun)
+  Musik {f} :: music (sound, organized in time in a melodious way) (noun)
+  (Low German) Musik :: music (sound, organized in time in a melodious way) (noun)
 ===sounds===
   Akkord {m} :: accord (harmony of sounds) (noun)
 ===sour===
@@ -7365,6 +7427,8 @@ Index: EN EN->DE
   Säure {f} :: acid (a sour substance) (noun)
 ===source===
   Quelle {f} :: spring (water source) (noun)
+===Soviet===
+  UdSSR {f} :: USSR (Union of Soviet Socialist Republics) (proper noun)
 ===space===
   Weltraum {m}, All {n}, Weltall {n} :: outer space (region) (noun)
 ===Space===
@@ -7605,6 +7669,8 @@ Index: EN EN->DE
 ===synonyms===
   Thesaurus {m}, Begriffswörterbuch {n}, Sachgruppenwörterbuch {n} :: thesaurus (book of synonyms) (noun)
 ===system===
+  Betriebssystem {n} :: operating system (software which controls computer) (noun)
+  (Low German) Bedriefsysteem :: operating system (software which controls computer) (noun)
   unnormal, ungewöhnlich :: abnormal (not conforming to rule or system) (adjective)
   Kalender {m} :: calendar (system by which time is divided) (noun)
   Sonne {f} :: sun (any star, especially when seen as the centre of any single solar system) (noun)
@@ -7741,6 +7807,8 @@ Index: EN EN->DE
   Datum :: date (that which specifies the time of writing, inscription etc.) (noun)
   Datum {n}, Zeitpunkt {m} :: date (point of time at which a transaction or event takes place) (noun)
   Zeitpunkt {m} :: date (point in time) (noun)
+  Musik {f} :: music (sound, organized in time in a melodious way) (noun)
+  (Low German) Musik :: music (sound, organized in time in a melodious way) (noun)
 ===Time===
   Stunde {f} :: hour (Time period of sixty minutes) (noun)
 ===tin===
@@ -7830,6 +7898,8 @@ Index: EN EN->DE
   Sprungweite {f} :: leap (distance traversed by a leap) (noun)
 ===treatment===
   abbrechen :: abortive (Cutting short; as, abortive treatment of typhoid fever.) (adjective)
+===Treaty===
+  NATO {f} :: NATO (North Atlantic Treaty Organization) (proper noun)
 ===tree===
   Apfelsinenbaum {m}, Orangenbaum {m} :: orange (tree) (noun)
   (Low German) Orange {f} :: orange (tree) (noun)
@@ -7903,6 +7973,8 @@ Index: EN EN->DE
   versehentlich :: accidentally (unexpectedly, unintentionally) (adverb)
 ===union===
   Gewerkschaft {f} :: trade union (organization) (noun)
+===Union===
+  UdSSR {f} :: USSR (Union of Soviet Socialist Republics) (proper noun)
 ===unit===
   Wort {n} :: word (unit of language) (noun)
   Pfund {n} :: pound (unit of mass (16 ounces avoirdupois)) (noun)
@@ -7979,6 +8051,8 @@ Index: EN EN->DE
   (Old High German) sprāhha (sprahha) :: language (system of communication using words or symbols) (noun)
   Sprache {f} :: language (the ability to communicate using words) (noun)
   Eisenbahn {f}, Bahn {f} :: railway (transport system using these rails) (noun)
+***USSR***
+  UdSSR {f} :: USSR (Union of Soviet Socialist Republics) (proper noun)
 ===usually===
   Bücher {n|p} :: book (usually in plural: records of the accounts of a business) (noun)
   wenig :: few (indefinite, usually small number) (determiner)
@@ -8062,6 +8136,8 @@ Index: EN EN->DE
   Abweichung {f} :: aberrance (state of being aberrant; a wandering from the right way; deviation from truth, rectitude) (noun)
   aberrante :: aberrant (wandering; straying from the right way) (adjective)
   apropos, übrigens :: BTW (by the way) (initialism)
+  Musik {f} :: music (sound, organized in time in a melodious way) (noun)
+  (Low German) Musik :: music (sound, organized in time in a melodious way) (noun)
 ***weapon***
   Waffe {f} :: weapon (instrument of attack or defense in combat) (noun)
   (Middle Low German) wapen (wâpen) :: weapon (instrument of attack or defense in combat) (noun)
@@ -8115,6 +8191,8 @@ Index: EN EN->DE
   Port {n} :: port (computing: logical or physical construct into and from which data are transferred) (noun)
   Datum :: date (that which specifies the time of writing, inscription etc.) (noun)
   Datum {n}, Zeitpunkt {m} :: date (point of time at which a transaction or event takes place) (noun)
+  Betriebssystem {n} :: operating system (software which controls computer) (noun)
+  (Low German) Bedriefsysteem :: operating system (software which controls computer) (noun)
 ===whole===
   eins :: one (whole, entire) (adjective)
 ===whom===
@@ -8163,6 +8241,7 @@ Index: EN EN->DE
   Begriffserklärung {f}, Definition {f} :: definition (statement of the meaning of a word or word group or a sign or symbol) (noun)
   Zahl {f}, Ziffer {f}, Zahlwort {n} :: numeral (word or symbol representing a number) (noun)
   Einzahl {f}, Singular {m} :: singular (grammar: form of a word that refers to only one thing) (noun)
+  Akronym {n} :: acronym (word formed by initial letters) (noun)
 ===words===
   Wörterbuch {n} :: dictionary (publication that explains the meanings of an ordered list of words) (noun)
   Blödsinn {m}, Nonsens {m}, Quatsch {m} (colloquial), Unsinn {m}, :: nonsense (meaningless words) (noun)

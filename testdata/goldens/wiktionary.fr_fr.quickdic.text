@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.french 6655
+EntrySource: enwiktionary.french 6667
 
 Index: FR FR->EN
 ===00===
@@ -1493,7 +1493,9 @@ Index: FR FR->EN
     Ces choses-ci :: these things
     Je préfère ce gateau-ci à celui-là. :: I prefer this cake to that one.
   (Old French) ci (adverb) :: here (in this place)
-===cinq===
+***cinq***
+  {{cardinalbox|fr|4|5|6|quatre|six|ord=cinquième|wplink=Cinq}}cinq {m|inv} (noun) :: five
+  (Middle French) cinq (noun) {m|inv} :: five
   de {fr-prep} :: from (used to indicate the start of a time or range)
     De 9:00 à 11:00 je ne serai pas libre. :: From 9 to 11 I won't be free.
     Je travaille de huit heures à midi. :: --
@@ -1851,6 +1853,8 @@ Index: FR FR->EN
     In a village of La Mancha, whose name I do not want to remember, lived, not long ago, an hidalgo .... :: --
     Paris est la capitale de la France. :: Paris is the capital of France.
     En 1905, les églises deviennent la propriété de l'État. :: In 1905, churches became the property of the state.
+===devoir===
+  due {f} :: {feminine past participle of|devoir}
 ***dialogue***
   dialogue {{fr-noun|m}} :: dialogue
   dialogue {fr-verb-form} :: {conjugation of|dialoguer|1|s|pres|ind}
@@ -1972,6 +1976,8 @@ Index: FR FR->EN
   ducat {{fr-noun|m}} :: Ducat
 ***ductile***
   ductile {fr-adj-mf} :: ductile (capable of being pulled or stretched into thin wire).
+===due===
+  due {f} :: {feminine past participle of|devoir}
 ***duel***
   duel {{fr-adj|f=duelle}} :: dual (having two components)
   duel {{fr-noun|m}} :: dual (battle)
@@ -4611,7 +4617,9 @@ Index: FR FR->EN
     Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
 ***quarter***
   quarter {{fr-noun|m}} :: quarter (old measure of corn)
-===quatre===
+***quatre***
+  {{cardinalbox|fr|3|4|5|trois|cinq|ord=quatrième|wplink=Quatre}}quatre (cardinal number) :: four
+  (Old French) quatre (cardinal number) :: four
   quatre-vingt {{fr-noun-inv|m}} :: {France} Form of quatre-vingts (eighty) used in compounds (the numbers 81 to 99, larger numbers ending in numbers from 81 to 99, and the ordinal numbers corresponding to any of these numbers).
     {{usex|quatre-vingt-six|translation=eighty-six}} :: --
   quatre vingts {{fr-noun-inv|m}} :: eighty, 80.
@@ -5293,7 +5301,8 @@ Index: FR FR->EN
     C'est en trichant qu'il est devenu champion. :: It was by cheating that he became champion.
 ***trillion***
   trillion (cardinal number) :: 10<sup>18</sup>; a long scale trillion; a short scale quintillion.
-===trois===
+***trois***
+  {{cardinalbox|fr|2|3|4|deux|quatre|ord=troisième|wplink=Trois}}trois (cardinal number) :: three
   de {fr-prep} :: by
     Boire trois tasses par jour réduirait de 20% les risques de contracter une maladie. :: Drinking three glasses a day would reduce the risk of catching an illness by 20%.
   en (pronoun) :: Used as the object of a verb to indicate an indefinite quantity; of it, of them.
@@ -8317,6 +8326,8 @@ Index: EN EN->FR
 ===fist===
   pain {{fr-noun|m}} :: {informal} punch (a hit with the fist)
 ===five===
+  {{cardinalbox|fr|4|5|6|quatre|six|ord=cinquième|wplink=Cinq}}cinq {m|inv} (noun) :: five
+  (Middle French) cinq (noun) {m|inv} :: five
   de {fr-prep} :: from (used to indicate the start of a time or range)
     De 9:00 à 11:00 je ne serai pas libre. :: From 9 to 11 I won't be free.
     Je travaille de huit heures à midi. :: --
@@ -8436,6 +8447,8 @@ Index: EN EN->FR
 ===four===
   quadruple {{fr-adj|f=quadruple}} :: Which is repeated four times.
     Ils sont entrés dans l'histoire du patinage artistique en exécutant un quadruple salto, une première en couple. :: --
+  {{cardinalbox|fr|3|4|5|trois|cinq|ord=quatrième|wplink=Quatre}}quatre (cardinal number) :: four
+  (Old French) quatre (cardinal number) :: four
   quadruple {{fr-adj|f=quadruple}} :: {{chiefly|music}} Which is equal to four times, or the fourth power of another value.
     En musique, une quadruple croche est égale au huitième (½<sup>4</sup>) d'une noire. :: --
     La Quadruple-Alliance de 1834 était une alliance offensive et défensive formée entre le Royaume-Uni, la France, la Belgique et l'Espagne. :: --
@@ -12818,6 +12831,7 @@ Index: EN EN->FR
   fil {{fr-noun|m}} :: thread, wire
     ne tenir qu'a un fil :: to hang by a thread
 ===three===
+  {{cardinalbox|fr|2|3|4|deux|quatre|ord=troisième|wplink=Trois}}trois (cardinal number) :: three
   de {fr-prep} :: by
     Boire trois tasses par jour réduirait de 20% les risques de contracter une maladie. :: Drinking three glasses a day would reduce the risk of catching an illness by 20%.
   en (pronoun) :: Used as the object of a verb to indicate an indefinite quantity; of it, of them.

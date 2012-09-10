@@ -1,5 +1,5 @@
 dictInfo=SomeWikiDataTrans2Trans
-EntrySource: wiktionary.de_fr.quickdic 1686
+EntrySource: wiktionary.de_fr.quickdic 1702
 
 Index: DE DE->FR
 ***Aar***
@@ -135,6 +135,8 @@ Index: DE DE->FR
   Akkordeonspieler {m}, Akkordeonspielerin {f}, Akkordeonist {m}, Akkordeonistin {f} :: accordéoniste {m|f}
 ***Akkordeonspielerin***
   Akkordeonspieler {m}, Akkordeonspielerin {f}, Akkordeonist {m}, Akkordeonistin {f} :: accordéoniste {m|f}
+***Akronym***
+  Akronym {n} :: acronyme {m}
 ***Aktie***
   Aktie {f} :: action {f}
 ===aktuelle===
@@ -267,6 +269,8 @@ Index: DE DE->FR
   Beobachtungsliste {f} :: liste de suivi {f}
 ***beschämen***
   beschämen :: confondre
+***Betriebssystem***
+  Betriebssystem {n} :: système d’exploitation {m}
 ***Bewährung***
   bedingte Haftentlassung {f}, Bewährung {f} :: libération conditionnelle {f}
 ***bezeichnen***
@@ -610,6 +614,10 @@ Index: DE DE->FR
   Substantiv {n}, Nomen {n}, Dingwort {n}, Gegenstandswort {n} :: nom {m}, substantif {m}
 ***Gegenwort***
   Antonym {n}, Gegenwort {n}, Gegensatzwort {n} :: antonyme {m}
+***geheim***
+  geheim :: secret {m}
+***Geheimnis***
+  Geheimnis {n} :: secret {m}
 ===genannt===
   oben genannt, oben erwähnt :: susmentionné, précité {m}, susdit {m}
 ***genau***
@@ -973,6 +981,8 @@ Index: DE DE->FR
   Gebiss {n}, Mundstück {n} :: mors
 ***Muschi***
   Fotze {f}, Muschi {f}, Möse {f} :: chatte {f}, con {m}
+***Musik***
+  Musik {f} :: musique {f}
 ***Musikant***
   Musikant {m}, Musiker {m}, Musikerin {f} :: musicien {m}, musicienne {f}
 ***Musiker***
@@ -984,6 +994,8 @@ Index: DE DE->FR
 ***Name***
   Name {m} :: nom {m}
   Name {m}, Ruf {m} :: nom {m}
+***NATO***
+  NATO {f} :: OTAN {f}
 ***Nebelung***
   November {m}, Nebelung {m} :: novembre {m}
 ***Neger***
@@ -1365,6 +1377,8 @@ Index: DE DE->FR
   Übereinstimmung {f} :: entente {f}
 ***Übersetzungsfalle***
   falscher Freund {m}, Übersetzungsfalle {f} :: faux-ami {m}
+***UdSSR***
+  UdSSR {f} :: URSS {f}
 ***Uhr***
   Uhr {f} :: horloge {f}
 ***umgehen***
@@ -1675,6 +1689,8 @@ Index: FR FR->DE
   Säure {f} :: acide {m}
   Säure {f} :: acide {m}
   Lysergsäure-diethylamid :: acide {m|f}
+***acronyme***
+  Akronym {n} :: acronyme {m}
 ***action***
   Aktie {f} :: action {f}
 ***actualités***
@@ -1994,6 +2010,7 @@ Index: FR FR->DE
   Achillessehne {f} :: tendon d’Achille {m}
   Sekunde {f} :: seconde {f}, seconde d'angle {f}
   Rendezvous {n}, Date {n}, Verabredung {n}, Stelldichein {n} :: rendez-vous {m}, rendez-vous d'amour {m}
+  Betriebssystem {n} :: système d’exploitation {m}
 ***dans***
   in :: dans
   in :: dans, en
@@ -2171,6 +2188,8 @@ Index: FR FR->DE
   fähig, tüchtig :: capable, expérimenté
 ***expirer***
   sterben, umkommen, versterben :: mourir, expirer, trépasser
+===exploitation===
+  Betriebssystem {n} :: système d’exploitation {m}
 ***Expo***
   Weltausstellung {f}, Expo {f} :: Exposition universelle {f}, Expo {f}, Exposition mondiale {f}
 ===Exposition===
@@ -2525,6 +2544,8 @@ Index: FR FR->DE
   Musikant {m}, Musiker {m}, Musikerin {f} :: musicien {m}, musicienne {f}
 ***musicienne***
   Musikant {m}, Musiker {m}, Musikerin {f} :: musicien {m}, musicienne {f}
+***musique***
+  Musik {f} :: musique {f}
 ***naissance***
   Geburt {f} :: naissance {f}
 ***néerlandais***
@@ -2595,6 +2616,8 @@ Index: FR FR->DE
 ***os***
   Knochen {m}, Gebeine {f|p}, Bein {n} :: os {m}
   Knochen {m}, Bein {n} :: os {m}
+***OTAN***
+  NATO {f} :: OTAN {f}
 ***oxymore***
   Oxymoron {n} :: oxymore {m}, keekeeli {p}
 ***panthériné***
@@ -2798,6 +2821,9 @@ Index: FR FR->DE
   Sekunde {f} :: seconde {f}, seconde d'angle {f}
   Sekunde {f}, Augenblick {m}, Moment {m} :: seconde {f}, instant {m}
   Moment {m}, Augenblick {m} :: instant {m}, moment {m}, seconde {f}
+***secret***
+  Geheimnis {n} :: secret {m}
+  geheim :: secret {m}
 ===secrétaire===
   Vorsitzender {m}, Vorsitzende {f} :: secrétaire général, président {m}
 ***semaine***
@@ -2855,6 +2881,8 @@ Index: FR FR->DE
   Synonym {n} :: synonyme {m}
 ===synonymes===
   Thesaurus {m}, Begriffswörterbuch {n}, Sachgruppenwörterbuch {n} :: dictionnaire des synonymes, thésaurus {m}, dictionnaire de notions, dictionnaire par ordre de matières
+===système===
+  Betriebssystem {n} :: système d’exploitation {m}
 ===t===
   ich liebe dich, Ich habe dich lieb :: je t'aime, je vous aime
   ich liebe Sie, ich habe Sie gern, ich habe Sie lieb :: je t'aime, je vous aime, je t'adore, je vous adore
@@ -2921,6 +2949,8 @@ Index: FR FR->DE
   köpfen :: faire une tête
 ===universelle===
   Weltausstellung {f}, Expo {f} :: Exposition universelle {f}, Expo {f}, Exposition mondiale {f}
+***URSS***
+  UdSSR {f} :: URSS {f}
 ***vacance***
   Schwebezustand {m}, Unentschiedenheit {f} :: vacance {f}, vacant
 ***vacant***

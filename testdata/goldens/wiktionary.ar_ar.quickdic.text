@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.arabic 15719
+EntrySource: enwiktionary.arabic 16171
 
 Index: AR AR->EN
 ***٠***
@@ -34,6 +34,9 @@ Index: AR AR->EN
   أ / ‍أ (ʼa) :: Initial interrogative particle that indicates a yes-or-no question, usually precedes a noun or a pronoun, not a verb or an adjective. It’s written together with the following word as all one letter words.
 ***ا***
   ا / ‍ا (’álif)thumb :: Although usually considered to be the first letter of the Arabic alphabet, the small hamza (ء) that sits on top of أ is really the first letter of the Arabic alphabet, and the tall column is its bearer. This entry only deals with the lower part, the bearer, which is called الف (’álif) and, without the hamza, is used to lengthen a preceding vowel, often a. It is followed by ب.
+===أَلَّهَ===
+  أَلَّهَ (’állaha) {{ar-verb|form=2}} :: to deify
+  أَلَّهَ (’állaha) {{ar-verb|form=2}} :: to idolize, to adore
 ***اﷲ***
   اﷲ (allāh) {m} :: Allah, God
 ===أَمَلَ===
@@ -45,6 +48,8 @@ Index: AR AR->EN
   أَمَلَ (ʾámala) {{ar-verb|form=1|impf=يأمل|impfhead=يَأْمِلُ|impftr=yaʾmilu|I=ء}} (ʾámmala) {{ar-verb|form=II|impf=يؤمل|impftr=yuʾammilu|I=ء}}{{ar-verb (old)|V|تأمل|taʾámmala}} :: to meditate, to think over, to ponder, to reflect
 ===أَنْتُمْ===
   أَنْتُمْ (ʾántum) {ar-pron} {p} :: you {p}
+===أَنْتُنَّ===
+  أَنْتُنَّ (ʾantúnna) {ar-pron} {f|p} :: you (feminine, plural)
 ===أَصْفَر===
   صفر صُفْر (ṣufr) {p} :: yellow, pale, pallid, wan ({plural of|أَصْفَر})
 ===أَصْل===
@@ -518,6 +523,10 @@ Index: AR AR->EN
 ===إله===
   لا إله إلا الله محمّد رسول الله (lā ilāhā illā-llāh; muħámmadun rasūlu-llāh) (phrase) :: Literally, There is no god but God; Muhammad is the messenger of God.
     This phrase, called the shahada, or Muslim creed, is the declaration of belief in the oneness of God and in Muhammad as His messenger. Recitation of the shahada is considered one of the five pillars of Islam by Sunni Muslims. By sincerely stating the shahada aloud before two witnesses, one is considered to have converted to Islam. :: --
+***اله***
+  أَلَّهَ (’állaha) {{ar-verb|form=2}} :: to deify
+  أَلَّهَ (’állaha) {{ar-verb|form=2}} :: to idolize, to adore
+  إلٰهٌ (’ilāh) {{ar-noun|g=m}}, آلِهَةٌ (’āliha) {p} :: God, god
 ===الحِجّةِ===
   ذُو الحِجّةِ (ðu l-ħíjja) {{ar-noun|g=m}} :: Dhul Hijjah, the twelfth and last of the twelve months of the Muslim lunar calendar, each beginning with a new moon. Dhul Hijjah means "lord of the pilgrimage" in Arabic, and this is when pilgrims visit Mecca.
 ===الهجاء===
@@ -546,6 +555,8 @@ Index: AR AR->EN
   حرم (ħirm) {m}حرم{m}احرام{p}حرم{p} :: sanctum, sanctuary, sacred precinct
     الحرمان (al-ħaramān) :: the two Holy Places (Mecca and Medina)
     ثالث الحرمين (θāliθ al-ħarmēin) :: the third Holy Place (Jerusalem)
+===إلٰهٌ===
+  إلٰهٌ (’ilāh) {{ar-noun|g=m}}, آلِهَةٌ (’āliha) {p} :: God, god
 ===الحوت===
   فم الحوت (fam al-Huut) {m} (proper noun) :: {star} Fomalhaut (literally, the whale’s mouth)
 ===alifbáː===
@@ -582,6 +593,9 @@ Index: AR AR->EN
   ألا (’allā) {ar-con} :: so as not to
 ===allāh===
   ﷲ (allāh) {m} (noun) :: God, Allah (single-character ligature of الله)
+===állaha===
+  أَلَّهَ (’állaha) {{ar-verb|form=2}} :: to deify
+  أَلَّهَ (’állaha) {{ar-verb|form=2}} :: to idolize, to adore
 ***الله***
   الله (allāh) {m} :: God, Allah
   الله اعلم (Alláhu áʕlam) :: “God only knows” (literally, “God knows best”...a traditional Arabic expression used when responding to a question to which one does not know the answer).
@@ -663,6 +677,8 @@ Index: AR AR->EN
 ***القاعدة***
   القاعدة (al-qāʕida) {f}, قواعد (qawāʕid) {p} :: al-Qaeda (al-Qaida) (a worldwide network of militant Islamic organizations and individuals).
   القاعدة (al-qāʕida) {f}, قواعد (qawāʕid) {p} :: the foundation, the base
+***القبط***
+  القبط (al-qíbṭ, al-qúbṭ) {m}, الاقباط (al-aqbāṭ) {p} :: Copt, the Copts
 ***القدس***
   القُدْس (al-quds) {{ar-proper noun|g=f}} :: Jerusalem
 ***القرآن***
@@ -772,6 +788,8 @@ Index: AR AR->EN
 ===اليهود===
   جمل جَمَل (jamal) {m}, جمال (jimāl) {p} :: chameleon
     جمل اليهود (jámal al-yahūd) :: chameleon
+===اليس===
+  ليس (līs) {{ar-adj|g=p}} :: valiant, brave, courageous ({plural of|اليس})
 ===العام===
   الإسلام (al-ʾislām) {{ar-noun|g=m}} :: piety, religious submission to the monotheistic God
     المعنى العام لكلمة الإسلام هو الاستسلام لله :: The meaning of the word al-ʾislām is 'the submission to God'.
@@ -937,6 +955,8 @@ Index: AR AR->EN
   إنْتِخاب ('intixāb) {{ar-noun|pl=انتخابات|plhead=إنْتِخابات|pltr='intixābāt}} :: election
 ***أنتم***
   أَنْتُمْ (ʾántum) {ar-pron} {p} :: you {p}
+***أنتن***
+  أَنْتُنَّ (ʾantúnna) {ar-pron} {f|p} :: you (feminine, plural)
 ***انتوا***
   (Egyptian Arabic) انتوا (íntu) {p} (pronoun) :: you (subject pronoun)
   (Libyan Arabic) انتوا إنْتُوا (’íntu) {p} :: you
@@ -982,6 +1002,8 @@ Index: AR AR->EN
   أرضٌ (’arD) {f}, أراضٍ (’araaDin) {p}, أرضون (’araDuun) {p} :: earth, Earth
   أرضٌ (’arD) {f}, أراضٍ (’araaDin) {p}, أرضون (’araDuun) {p} :: country
   أرضٌ (’arD) {f}, أراضٍ (’araaDin) {p}, أرضون (’araDuun) {p} :: ground
+***إرهاصات***
+  إرهاصات (irhaṣāt) {p} :: indications, signs
 ***أرمينية***
   أرمينية {f} :: Armenian
   أرمينية {f} :: Armenian (person)
@@ -1004,6 +1026,8 @@ Index: AR AR->EN
 ***اسبانيا***
   اسبانيا ('isbániya) {f} (proper noun) :: Spain
   اسبانيا ('isbániya) {f} (noun) :: Spanish
+***إسبتارية***
+  إسبتارية (isbitārīya) إسبتارية :: The knightly order of the Hospitallers (Knights of St. John or Knights of Rhodes), with whom the Arabs came into close contact at that time.
 ***أسبوع***
   أسبوع (’usbūʕ) {{ar-noun|g=m}}, أسابيع (’asābīʕ) {p} :: week (unit of time)
 ===أسد===
@@ -1257,6 +1281,8 @@ Index: AR AR->EN
 ***بالكاد***
   بالكاد (b-il-kād) :: almost, nearly
   بالكاد (b-il-kād) :: merely
+***باماكو***
+  باماكو (bāmākū) {f} :: Bamako, the capital city of Mali
 ***بان***
   بان بَان (bānin) {m}, بُناة (bunā) {p} :: builder
   بان بَان (bān) (collective) {m}, بَانَة (bāna) (singulative) {f} :: ben tree, horseradish tree (the Moringa oleifera of Arabia and India, which produces oil of ben)
@@ -1275,6 +1301,8 @@ Index: AR AR->EN
   برقع (barqaʿa) {{ar-verb|form=1|impf=يبرقع|impftr=}} :: to conceal
 ***بارود***
   بارود (bārūd) :: gunpowder
+***باريس***
+  باريس (bāris) {f} :: Paris, the capital city of France
 ***بارز***
   بارز (bāriz) :: prominent
   بارز (bāriz) :: eminent
@@ -1721,6 +1749,21 @@ Index: AR AR->EN
   دقيقة (daqīqa) {{ar-noun|g=f|pl=دقائق|pltr=daqā’iq}} :: detail, particular
 ===دار===
   دَوْر (dawr) {{ar-noun|g=m|pl=أدوار|plhead=أَدْوَار|pltr=’adwār}}دُور :: {plural of|دار}
+===dawār===
+  دوار (duwār, dawār) {{ar-noun|g=m}} :: vertigo, dizziness, giddiness
+  دوار (duwār, dawār) {{ar-noun|g=m}} :: seasickness
+===دَوّار===
+  دَوّار (dawwār) {{ar-noun|g=m}} :: wandering, cruising, going about
+  دَوّار (dawwār) {{ar-noun|g=m}} :: traveler, nomad, rover, runabout, wanderer, globetrotter
+  دَوّار (dawwār) {{ar-noun|g=m}} :: explorer
+  دَوّار (dawwār) {{ar-noun|g=m}} :: perambulator, itinerant
+  دَوّار (dawwār) {{ar-noun|g=m}} :: rotor, rotator
+  دَوّار (dawwār) {{ar-noun|g=m}} :: traffic circle
+  دَوّار (dawwār) {{ar-noun|g=m}} :: eddy, whirlpool, vortex
+  دَوّار (dawwār) {{ar-noun|g=m}} :: {{context|Egypt}} farm building, farm
+  دَوّار (dawwār) {ar-adj} :: rotary, gyratory, gyrating, revolving, rotating
+  دَوّار (dawwār) {ar-adj} :: roving, itinerant
+  دَوّار (dawwār) {ar-adj} :: ambulatory, circulating
 ===dawr===
   دَوْر (dawr) {{ar-noun|g=m|pl=أدوار|plhead=أَدْوَار|pltr=’adwār}}دُور :: role
   دَوْر (dawr) {{ar-noun|g=m|pl=أدوار|plhead=أَدْوَار|pltr=’adwār}}دُور :: turn
@@ -1730,6 +1773,18 @@ Index: AR AR->EN
   دَوْر (dawr) {{ar-noun|g=m|pl=أدوار|plhead=أَدْوَار|pltr=’adwār}}دُور :: role
   دَوْر (dawr) {{ar-noun|g=m|pl=أدوار|plhead=أَدْوَار|pltr=’adwār}}دُور :: turn
   دَوْر (dawr) {{ar-noun|g=m|pl=أدوار|plhead=أَدْوَار|pltr=’adwār}}دُور :: {plural of|دار}
+===dawwār===
+  دَوّار (dawwār) {{ar-noun|g=m}} :: wandering, cruising, going about
+  دَوّار (dawwār) {{ar-noun|g=m}} :: traveler, nomad, rover, runabout, wanderer, globetrotter
+  دَوّار (dawwār) {{ar-noun|g=m}} :: explorer
+  دَوّار (dawwār) {{ar-noun|g=m}} :: perambulator, itinerant
+  دَوّار (dawwār) {{ar-noun|g=m}} :: rotor, rotator
+  دَوّار (dawwār) {{ar-noun|g=m}} :: traffic circle
+  دَوّار (dawwār) {{ar-noun|g=m}} :: eddy, whirlpool, vortex
+  دَوّار (dawwār) {{ar-noun|g=m}} :: {{context|Egypt}} farm building, farm
+  دَوّار (dawwār) {ar-adj} :: rotary, gyratory, gyrating, revolving, rotating
+  دَوّار (dawwār) {ar-adj} :: roving, itinerant
+  دَوّار (dawwār) {ar-adj} :: ambulatory, circulating
 ===dáxala===
   دَخَلَ (dáxala) {{ar-verb|form=2|impf=يدخل|impfhead=يَدْخُلُ|impftr=yadxulu}} :: to enter
   دَخَلَ (dáxala) {{ar-verb|form=2|impf=يدخل|impfhead=يَدْخُلُ|impftr=yadxulu}} :: to penetrate, to pierce
@@ -1995,6 +2050,23 @@ Index: AR AR->EN
   دَفّ (daff) {{ar-noun|g=m|pl=دفوف|plhead=دُفُوف|pltr=dufuuf}} (duff, daff) {{ar-noun|g=m|pl=دفوف|plhead=دُفُوف|pltr=dufuuf}} :: {musici} tambourine
 ===duush===
   دوش (duush) {m} (noun) :: shower (bathing)
+===duwār===
+  دوار (duwār, dawār) {{ar-noun|g=m}} :: vertigo, dizziness, giddiness
+  دوار (duwār, dawār) {{ar-noun|g=m}} :: seasickness
+***دوار***
+  دوار (duwār, dawār) {{ar-noun|g=m}} :: vertigo, dizziness, giddiness
+  دوار (duwār, dawār) {{ar-noun|g=m}} :: seasickness
+  دَوّار (dawwār) {{ar-noun|g=m}} :: wandering, cruising, going about
+  دَوّار (dawwār) {{ar-noun|g=m}} :: traveler, nomad, rover, runabout, wanderer, globetrotter
+  دَوّار (dawwār) {{ar-noun|g=m}} :: explorer
+  دَوّار (dawwār) {{ar-noun|g=m}} :: perambulator, itinerant
+  دَوّار (dawwār) {{ar-noun|g=m}} :: rotor, rotator
+  دَوّار (dawwār) {{ar-noun|g=m}} :: traffic circle
+  دَوّار (dawwār) {{ar-noun|g=m}} :: eddy, whirlpool, vortex
+  دَوّار (dawwār) {{ar-noun|g=m}} :: {{context|Egypt}} farm building, farm
+  دَوّار (dawwār) {ar-adj} :: rotary, gyratory, gyrating, revolving, rotating
+  دَوّار (dawwār) {ar-adj} :: roving, itinerant
+  دَوّار (dawwār) {ar-adj} :: ambulatory, circulating
 ===دول===
   (Egyptian Arabic) ده (da) {m} (determiner), f: دي, pl: دول :: this
     قريت الكتاب ده :: I read this book.
@@ -2090,6 +2162,10 @@ Index: AR AR->EN
   فَرَّاش (farrāš) {{ar-noun|g=m}} :: carpet layer, carpet spreader
   فَرَّاش (farrāš) {{ar-noun|g=m}} :: servant, attendant, valet
   فَرَّاش (farrāš) {{ar-noun|g=m}} :: office boy, errand boy
+===faransā===
+  فَرَنْسَا (faransā) {{ar-proper noun|g=f}} :: France
+===فَرَنْسَا===
+  فَرَنْسَا (faransā) {{ar-proper noun|g=f}} :: France
 ===farāš===
   فَرَاش (farāš) {{ar-noun|g=m}} :: mill wheel
 ===faraša===
@@ -2258,6 +2334,8 @@ Index: AR AR->EN
   فراشة (fará:ša) {f} (singulative), فراش (fará:š) {m} (collective) :: butterfly
 ***فردوس***
   فردوس (fírdaus) {{ar-noun|g=f|pl=فراديس}} (farādīs) :: garden, Elysium, Eden, heaven, Heaven, paradise
+***فرنسا***
+  فَرَنْسَا (faransā) {{ar-proper noun|g=f}} :: France
 ***فرنسية***
   فرنسية فَرَنْسِيّة (faransíyya) {f} :: French language
   فرنسية فَرَنْسِيّة (faransíyya) {f} :: French woman, French girl
@@ -2337,11 +2415,16 @@ Index: AR AR->EN
   فعل (fiʕl) {m}, افعال (’afʕāl) {p}, فعال (fiʕāl) {p}فِعْل{m}افعالفعل{m}افاعيل :: exploit, great deed, feat
 ===gaa===
   (Egyptian Arabic) جا (gaa) (verb), ييجي (yiigii) :: to come {l|gloss=To move from further away to nearer to}
+===ġair===
+  غير (ġair) {ar-prep} :: except, other than, different from, unlike
+  غير (ġair) {ar-prep} :: except, save, but
 ===ğaliṭa===
   غَلِطَ (ğaliṭa) {{ar-verb|form=1|impf=يغلط|impftr=yağlaṭu}} :: to err
   غَلِطَ (ğaliṭa) {{ar-verb|form=1|impf=يغلط|impftr=yağlaṭu}} :: to make a mistake
 ===gāmiʿ===
   (Egyptian Arabic) جامع (gāmiʿ) {{arz-noun|m|جوامع|gawāmiʿ}} :: mosque
+===ġayyara===
+  غير (ġayyara) {{ar-verb|form=2|II=ي|impf=يغير|impftr=yuğayyiru}} :: {transitive} to change, to alter
 ===ġazl===
   غزل البنات (ġazl al-banāt) {{ar-noun|g=m}} :: cotton candy, candy floss, fairy floss
 ***غ***
@@ -2358,10 +2441,14 @@ Index: AR AR->EN
 ===غَلِطَ===
   غَلِطَ (ğaliṭa) {{ar-verb|form=1|impf=يغلط|impftr=yağlaṭu}} :: to err
   غَلِطَ (ğaliṭa) {{ar-verb|form=1|impf=يغلط|impftr=yağlaṭu}} :: to make a mistake
+***غائم***
+  غائم (ğā’im) :: cloudy, overcast, clouded
 ***غبي***
   غَبِي (ghábiy) {{ar-noun|g=m|pl=أغبياء|plhead=أغْبِيَاء|pltr=’aghbiyaa’|f=غبية|fhead=غَبِيَّة|ftr=ghabíyya}} :: idiot
   غَبِي (ghábiy) {{ar-adj|g=m|pl=أغبياء|plhead=أغْبِيَاء|pltr=’aghbiyaa’|f=غبية|fhead=غَبِيَّة|ftr=ghabíyya}} :: stupid
   غَبِي (ghábiy) {{ar-adj|g=m|pl=أغبياء|plhead=أغْبِيَاء|pltr=’aghbiyaa’|f=غبية|fhead=غَبِيَّة|ftr=ghabíyya}} :: unwise
+===غِيرْهُم===
+  غِيرْهُم (ġírhum) {ar-prep} :: except them, other than them, different from them, unlike them
 ***غلط***
   غَلِطَ (ğaliṭa) {{ar-verb|form=1|impf=يغلط|impftr=yağlaṭu}} :: to err
   غَلِطَ (ğaliṭa) {{ar-verb|form=1|impf=يغلط|impftr=yağlaṭu}} :: to make a mistake
@@ -2378,8 +2465,23 @@ Index: AR AR->EN
   غول (ğūl) {f}, اغوال (’ağwāl) {p}, غيلان (ğilān) {p} :: alcohol, or alcohol beverages.
   غول (ğūl) {m} :: taking away, snatching, seizing, grabbing
   اغوال (’ağwāl) :: ghouls ({plural of|غول})
+***غير***
+  غير (ġair) {ar-prep} :: except, other than, different from, unlike
+  غير (ġair) {ar-prep} :: except, save, but
+  غير (ġayyara) {{ar-verb|form=2|II=ي|impf=يغير|impftr=yuğayyiru}} :: {transitive} to change, to alter
+  غير (ġúyur) :: {plural of|غيور}
+***غيرهم***
+  غِيرْهُم (ġírhum) {ar-prep} :: except them, other than them, different from them, unlike them
+***غيور***
+  غيور (ğayūr) {m}, غير (ğúyur) {p} :: very jealous
+  غيور (ğayūr) {m}, غير (ğúyur) {p} :: zealous, ardent, fervid, eager
+  غيور (ğayūr) {m}, غير (ğúyur) {p} :: very interested, keen, enthusiastic, very concerned
+  غيور (ğayūr) {m}, غير (ğúyur) {p} :: zealot
+  غير (ġúyur) :: {plural of|غيور}
 ===غزل===
   غزل البنات (ġazl al-banāt) {{ar-noun|g=m}} :: cotton candy, candy floss, fairy floss
+===ġírhum===
+  غِيرْهُم (ġírhum) {ar-prep} :: except them, other than them, different from them, unlike them
 ===gumguma===
   (Egyptian Arabic) جمجمة (gumguma) {f} (noun), جماجم (gamaagim) {p} :: {anatomy} skull
 ===ğumʕatu===
@@ -2813,6 +2915,9 @@ Index: AR AR->EN
   حفظ (ħáfiđ̣a) {{ar-verb|form=1|impf=يحفظ|impftr=yaħfađ̣u}} :: to reserve
   حفظ (ħáffađ̣a) {{ar-verb|form=2|impf=يحفظ|impftr=yuħaffiđ̣u}} :: to have someone memorize
   (Egyptian Arabic) حفظ (ħífiẓ) {{arz-verb|form=1|impf=يحفظ|impftr=yíħfaẓ}} :: to memorize
+===هِيَ===
+  هِيَ (híya) {ar-pron} :: she (subject pronoun).
+  هِيَ (híya) {ar-pron} :: they (subject pronoun, non-human).
 ===ħífiẓ===
   (Egyptian Arabic) حفظ (ħífiẓ) {{arz-verb|form=1|impf=يحفظ|impftr=yíħfaẓ}} :: to memorize
 ===ḥijāb===
@@ -2855,6 +2960,13 @@ Index: AR AR->EN
   حِصان (HiSaan) {m} (noun) ({{IPA|/ħisˤaːn/}}), أَحْصِِنة('aHSina(t)) {p}, حِصانِين(HiSaaniin) {p}, حُصُن(HuSun) {p} :: horse
   حِصان (HiSaan) {m} (noun) ({{IPA|/ħisˤaːn/}}), أَحْصِِنة('aHSina(t)) {p}, حِصانِين(HiSaaniin) {p}, حُصُن(HuSun) {p} :: stallion
   حِصان (HiSaan) {m} (noun) ({{IPA|/ħisˤaːn/}}), أَحْصِِنة('aHSina(t)) {p}, حِصانِين(HiSaaniin) {p}, حُصُن(HuSun) {p} :: knight (in chess) (plural: حصانين)
+===híya===
+  هِيَ (híya) {ar-pron} :: she (subject pronoun).
+  هِيَ (híya) {ar-pron} :: they (subject pronoun, non-human).
+===hiyya===
+  (Tunisian Arabic) هي (hiyya) {f} (pronoun), m: هو, pl: هما :: she (subject pronoun)
+===híyya===
+  (Egyptian Arabic) هي (híyya) {f} (pronoun), m: هو, pl: هم :: she (subject pronoun)
 ***حج***
   حج {{ar-verb (old)|I|حج|Hájja}} :: to overcome, defeat (with arguments, evidence, etc.)
   حج {{ar-verb (old)|I|حج|Hájja}} :: to convince
@@ -2905,6 +3017,14 @@ Index: AR AR->EN
   (Egyptian Arabic) هم (humm) {p} (pronoun) :: they
   (Egyptian Arabic) ـهم (-hum) {p} (suffix) :: them, their
   (Tunisian Arabic) ـهُمْ (-hum) {p} (suffix) :: them, their
+  (Egyptian Arabic) هو (húwwa) {m} (pronoun), f: هي, pl: هم :: he (subject pronoun)
+  (Egyptian Arabic) هي (híyya) {f} (pronoun), m: هو, pl: هم :: she (subject pronoun)
+***هما***
+  هُمَا (humā) {ar-pron} (dual) :: they both, the two of them
+  ـهُما (-humā) {m|dual} (suffix) :: their, them (masculine bound object pronoun).
+  (Tunisian Arabic) هما (humā) {p} (pronoun) :: they
+  (Tunisian Arabic) هو (huwwa) {m} (pronoun), f: هي, pl: هما :: he (subject pronoun)
+  (Tunisian Arabic) هي (hiyya) {f} (pronoun), m: هو, pl: هما :: she (subject pronoun)
 ***حمام***
   حَمَام (Hamaam) {m} (noun) collective, حمامة (Hamaama, singulative), حمامات (Hamaamaat) {p}, حمائم (Hamaa’im) {p}حِمَام (Himaam) {m} (noun)حَمّام (Hammaam) {m} (noun)حمامات{p} :: dove, pigeon
   حَمَام (Hamaam) {m} (noun) collective, حمامة (Hamaama, singulative), حمامات (Hamaamaat) {p}, حمائم (Hamaa’im) {p}حِمَام (Himaam) {m} (noun)حَمّام (Hammaam) {m} (noun)حمامات{p} :: death (as a fate)
@@ -2918,6 +3038,9 @@ Index: AR AR->EN
 ***حماس***
   حَماس (Hamaas) {{ar-noun|g=m}} :: enthusiasm, zeal, excitement
   حماس (Hamaas) :: Hamas
+***هن***
+  هُنّ (húnna) {ar-pron} {f|p} :: they (feminine).
+  هن ـهُنّ (-húnna) or ـهِنّ (-hinna) {f|p} :: their, them (feminine bound object pronoun).
 ***هنا***
   هُنا (hunaa) (adverb) :: here, in this place
   هُنا (hunaa) (adverb) :: there, then, now, by now, at this point
@@ -3112,6 +3235,8 @@ Index: AR AR->EN
   ـهُ (-hu) {m|s} (suffix) or ـهِ (-hi) :: him, his (bound object pronoun)
 ===ـهُ===
   ـهُ (-hu) {m|s} (suffix) or ـهِ (-hi) :: him, his (bound object pronoun)
+===هُوَ===
+  هُوَ (húwa) {ar-pron} :: he (subject pronoun).
 ===hudhud===
   هُدْهُد (hudhud) {{ar-noun|g=m|pl=هداهد|plhead=هَدَاهِد|pltr=hadāhid}} :: hoopoe
 ===هُدْهُد===
@@ -3126,8 +3251,18 @@ Index: AR AR->EN
   (Tunisian Arabic) ـهُمْ (-hum) {p} (suffix) :: them, their
 ===هُمْ===
   هُمْ (hum) {ar-pron} {m|p} :: they
+===humā===
+  هُمَا (humā) {ar-pron} (dual) :: they both, the two of them
+  ـهُما (-humā) {m|dual} (suffix) :: their, them (masculine bound object pronoun).
+  (Tunisian Arabic) هما (humā) {p} (pronoun) :: they
+===ـهُما===
+  ـهُما (-humā) {m|dual} (suffix) :: their, them (masculine bound object pronoun).
+===هُمَا===
+  هُمَا (humā) {ar-pron} (dual) :: they both, the two of them
 ===humm===
   (Egyptian Arabic) هم (humm) {p} (pronoun) :: they
+===هُنّ===
+  هُنّ (húnna) {ar-pron} {f|p} :: they (feminine).
 ===هُنا===
   هُنا (hunaa) (adverb) :: here, in this place
   هُنا (hunaa) (adverb) :: there, then, now, by now, at this point
@@ -3138,6 +3273,8 @@ Index: AR AR->EN
   هُناكَ (hunaaka) (adverb) :: there; there is/there are
 ===هُناكَ===
   هُناكَ (hunaaka) (adverb) :: there; there is/there are
+===húnna===
+  هُنّ (húnna) {ar-pron} {f|p} :: they (feminine).
 ===حُقّ===
   حَقّ (ħaqq) {{ar-noun|g=m|pl=حقوق|plhead=حُقُوق|pltr=ħuqūq}}حُقّ (ħuqq) {{ar-noun|g=m}} :: equity
   حَقّ (ħaqq) {{ar-noun|g=m|pl=حقوق|plhead=حُقُوق|pltr=ħuqūq}}حُقّ (ħuqq) {{ar-noun|g=m}} :: truth
@@ -3185,7 +3322,18 @@ Index: AR AR->EN
   حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: fineness, efficiency, efficacy
 ===Huut===
   فم الحوت (fam al-Huut) {m} (proper noun) :: {star} Fomalhaut (literally, the whale’s mouth)
-===هو===
+===húwa===
+  هُوَ (húwa) {ar-pron} :: he (subject pronoun).
+===huwwa===
+  (Tunisian Arabic) هو (huwwa) {m} (pronoun), f: هي, pl: هما :: he (subject pronoun)
+===húwwa===
+  (Egyptian Arabic) هو (húwwa) {m} (pronoun), f: هي, pl: هم :: he (subject pronoun)
+***هو***
+  هُوَ (húwa) {ar-pron} :: he (subject pronoun).
+  (Egyptian Arabic) هو (húwwa) {m} (pronoun), f: هي, pl: هم :: he (subject pronoun)
+  (Tunisian Arabic) هو (huwwa) {m} (pronoun), f: هي, pl: هما :: he (subject pronoun)
+  (Egyptian Arabic) هي (híyya) {f} (pronoun), m: هو, pl: هم :: she (subject pronoun)
+  (Tunisian Arabic) هي (hiyya) {f} (pronoun), m: هو, pl: هما :: she (subject pronoun)
   الإسلام (al-ʾislām) {{ar-noun|g=m}} :: piety, religious submission to the monotheistic God
     المعنى العام لكلمة الإسلام هو الاستسلام لله :: The meaning of the word al-ʾislām is 'the submission to God'.
 ***حوت***
@@ -3194,6 +3342,13 @@ Index: AR AR->EN
   حوت (ħūt) {m}, حيتان (ħītān) {p}, احوات (’aħwāt) {p} :: whale
   حوت (ħūt) {m}, حيتان (ħītān) {p}, احوات (’aħwāt) {p} :: {{context|normally with the definite article}} Pisces
   (Libyan Arabic) حوت {m} :: fish
+***هي***
+  هِيَ (híya) {ar-pron} :: she (subject pronoun).
+  هِيَ (híya) {ar-pron} :: they (subject pronoun, non-human).
+  (Egyptian Arabic) هي (híyya) {f} (pronoun), m: هو, pl: هم :: she (subject pronoun)
+  (Tunisian Arabic) هي (hiyya) {f} (pronoun), m: هو, pl: هما :: she (subject pronoun)
+  (Egyptian Arabic) هو (húwwa) {m} (pronoun), f: هي, pl: هم :: he (subject pronoun)
+  (Tunisian Arabic) هو (huwwa) {m} (pronoun), f: هي, pl: هما :: he (subject pronoun)
 ***هيام***
   هيام هيَام (huyām, hiyām) {m} :: ardent love, ardent love
   هيام هيَام (huyām, hiyām) {m} :: burning thirst
@@ -3245,6 +3400,8 @@ Index: AR AR->EN
   إلى (ílā) {ar-prep} :: to, towards
   إلى (ílā) {ar-prep} :: till, until
   إلى (ílā) {ar-prep} :: near
+===ilāh===
+  إلٰهٌ (’ilāh) {{ar-noun|g=m}}, آلِهَةٌ (’āliha) {p} :: God, god
 ===ilāhā===
   لا إله إلا الله محمّد رسول الله (lā ilāhā illā-llāh; muħámmadun rasūlu-llāh) (phrase) :: Literally, There is no god but God; Muhammad is the messenger of God.
     This phrase, called the shahada, or Muslim creed, is the declaration of belief in the oneness of God and in Muhammad as His messenger. Recitation of the shahada is considered one of the five pillars of Islam by Sunni Muslims. By sincerely stating the shahada aloud before two witnesses, one is considered to have converted to Islam. :: --
@@ -3291,6 +3448,8 @@ Index: AR AR->EN
 ===isbániya===
   اسبانيا ('isbániya) {f} (proper noun) :: Spain
   اسبانيا ('isbániya) {f} (noun) :: Spanish
+===isbitārīya===
+  إسبتارية (isbitārīya) إسبتارية :: The knightly order of the Hospitallers (Knights of St. John or Knights of Rhodes), with whom the Arabs came into close contact at that time.
 ===isfanj===
   إِسْفَنْج ('isfanj) {ar-noun} :: sponge
 ===ísmi===
@@ -3758,6 +3917,8 @@ Index: AR AR->EN
   (Tunisian Arabic) اِسْمْ (ʾism) {m} (noun) :: title
     مَا خْتَارِشْ اِسْمْ بَاهِي لِكْتَابُو :: mā ḫtāriš ʾism bāhī liktābū
     He didn't choose a good title for his book :: --
+***كحول***
+  كحول (kuħūl) {m} :: alcohol, spirits
 ***خون***
   خون {{ar-verb (old)|II|خون|kháwwana}} :: to regard as faithless, to regard as disloyal, to regard as false, to regard as treacherous, to regard as traitorous, to regard as perfidious, to regard as dishonest, to regard as unreliable
   خون {{ar-verb (old)|II|خون|kháwwana}} :: to call faithless, to call disloyal, to be false, to be treacherous, to be perfidious, to call false, to call treacherous, to call perfidious, to call dishonest, to call unreliable
@@ -3777,6 +3938,8 @@ Index: AR AR->EN
 ***خياط***
   خياط خَيَّاط (khayyāṭ) {m}, خَيَّاطون (khayyāṭūn) {p} :: tailor
   خياط خَيَّاط (khayyāṭ) {m}, خَيَّاطون (khayyāṭūn) {p} :: seamster
+***خيزو***
+  خيزو خيزّو (xizzu) {m} :: (Moroccan) carrot, carrots
 ***خزن***
   خزن خَزَنَ (χázana) (transitive) :: to store, to stock, to lay up, to hoard, to amass, to accumulate
   خزن خَزَنَ (χázana) (transitive) :: to keep secret
@@ -3784,6 +3947,8 @@ Index: AR AR->EN
   خزن خَزَنَ (χázana) (transitive) :: to dam
   خزن خَزْن (χazn) m :: storing, accumulation, hoarding, amassing
   خزن خَزْن (χazn) m :: storage, warehousing
+***خزو***
+  خزو خزّو (xizzu) {m} :: (Moroccan) carrot, carrots
 ===ki===
   ـكِ (-ki) {f} (suffix) :: you, your (bound object pronoun)
     بِكِ (biki) :: to you
@@ -3811,6 +3976,14 @@ Index: AR AR->EN
   كتاب (kitāb) {{ar-noun|g=m|pl=كتب|pltr=kútub}}كُتّاب (kuttāb) {{ar-noun|g=m|pl=كتاتيب|pltr=katātīb}} (kuttāb) {p} (noun form) :: record, document, deed, contract
   كتاب (kitāb) {{ar-noun|g=m|pl=كتب|pltr=kútub}}كُتّاب (kuttāb) {{ar-noun|g=m|pl=كتاتيب|pltr=katātīb}} (kuttāb) {p} (noun form) :: a traditional school for teaching Qur'an
   كتاب (kitāb) {{ar-noun|g=m|pl=كتب|pltr=kútub}}كُتّاب (kuttāb) {{ar-noun|g=m|pl=كتاتيب|pltr=katātīb}} (kuttāb) {p} (noun form) :: {plural of|كاتب} (writer)
+***كلام***
+  كلامٌ (kalām) {m} :: talking, speaking
+  كلامٌ (kalām) {m} :: conversation, speech, talk, language
+  كلامٌ (kalām) {m} :: discussion, debate
+  كلامٌ (kalām) {m} :: dispute, controversy
+  كلامٌ (kalām) {m} :: words, word, saying
+  كلامٌ (kalām) {m} :: statement, remark
+  كلامٌ (kalām) {m} :: sentence, clause, phrase
 ***كلب***
   كلب {{ar-verb (old)|I|كلب|káliba}}{{ar-verb (old)|VI|تكالب|takālaba}}{{ar-verb (old)|X|استكلب|istáklaba}} :: to be seized by hydrophobia, to become rabid
   كلب {{ar-verb (old)|I|كلب|káliba}}{{ar-verb (old)|VI|تكالب|takālaba}}{{ar-verb (old)|X|استكلب|istáklaba}} :: to become mad, to become crazy
@@ -3841,6 +4014,8 @@ Index: AR AR->EN
   كُلّية (kullíyya) {{ar-noun|g=f}} :: integrity
   كُلْيَة (kúlya) {{ar-noun|g=f|pl=كلوة|plhead=كُلْوَة|pltr=kúlwa}} :: {anatomy} kidney
   كُلْيَة (kúlya) {{ar-noun|g=f|pl=كلوة|plhead=كُلْوَة|pltr=kúlwa}} :: waterworks
+***كراكاس***
+  كراكاس (karākās) :: Caracas, the capital of Venezuela.
 ***كراء***
   كراء (kirā’) {m} :: rent, rental, hire, lease
   كراء (kirā’) {m} :: hiring
@@ -3980,6 +4155,12 @@ Index: AR AR->EN
 ===láila===
   لَيْلَة (láila) {{ar-noun|g=f|pl=ليال|plhead=لَيَالٍ|pltr=layālin|pl2=ليائل|pl2head=لَيَائِل|pl2tr=layā’il}} :: night
   لَيْلَة (láila) {{ar-noun|g=f|pl=ليال|plhead=لَيَالٍ|pltr=layālin|pl2=ليائل|pl2head=لَيَائِل|pl2tr=layā’il}} :: evening
+===lama===
+  لما (lama) {{ar-proper noun|g=f}} :: {{given name|female}}
+===لَمّا===
+  لَمّا (lamma) {ar-con} :: when
+===lamma===
+  لَمّا (lamma) {ar-con} :: when
 ===landan===
   لَنْدَن (landan) {{ar-proper noun|g=m}} :: London
 ===لَنْدَن===
@@ -4005,6 +4186,17 @@ Index: AR AR->EN
 ***لغة***
   لُغَةٌ (lúğa) {{ar-noun|g=f|pl=لغات|plhead=لُغَاتٌ|pltr=luğáːt}} :: language
   لغة انجليزية (lúğat al-’ingilizíyya) {f} :: the English language
+***لهم***
+  لهم (láhum) {m|p} :: to them, for them, belonging to them.
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to make swallow
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to inspire
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to gormandize, to gobble, to gorge, to devour, to wolf
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to devour, to gobble, to gormandize, to gorge, to wolf, to swallow up
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to consume, to destroy
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to ask for inspiration, to ask for advice, to try to find out
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to be inspired by
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to pray, to turn to God
+  لهم (láhim) :: greedy, covetous, voracious, gluttonous
 ***لحية***
   لحية لِحْيَة (liHya(t)) {f} :: beard
 ===li===
@@ -4023,6 +4215,10 @@ Index: AR AR->EN
   (Tunisian Arabic) اِسْمْ (ʾism) {m} (noun) :: title
     مَا خْتَارِشْ اِسْمْ بَاهِي لِكْتَابُو :: mā ḫtāriš ʾism bāhī liktābū
     He didn't choose a good title for his book :: --
+===limā===
+  لما (limā) {ar-adv} :: for what, why
+===līs===
+  ليس (līs) {{ar-adj|g=p}} :: valiant, brave, courageous ({plural of|اليس})
 ===lisān===
   لِسَان (lisān) {{ar-noun|g=mf|pl=ألسنة|plhead=أَلْسِنَة|pltr=’álsina|pl2=ألسن|pl2head=أَلْسُن|pl2tr=’álsun}} :: tongue
   لِسَان (lisān) {{ar-noun|g=mf|pl=ألسنة|plhead=أَلْسِنَة|pltr=’álsina|pl2=ألسن|pl2head=أَلْسُن|pl2tr=’álsun}} :: language
@@ -4047,11 +4243,19 @@ Index: AR AR->EN
 ===للبحر===
   ليبيا (lībiya) {f} (proper noun) :: Libya
     ليبيا دولة تقع في شمال أفريقيا على الساحل الجنوبي للبحر الأبيض المتوسط. :: Libya is a country located in Northern Africa on the southern coast of the Mediterranean Sea.
+***للبن***
+  للبن لِلّبَنِ (li-l-lábani) :: for the milk
 ***لله***
   لله (li-llāhi) :: for/to God, for/to Allah
     الحمد لله (al-ħámdu-li-llāh) :: praise God
   الإسلام (al-ʾislām) {{ar-noun|g=m}} :: piety, religious submission to the monotheistic God
     المعنى العام لكلمة الإسلام هو الاستسلام لله :: The meaning of the word al-ʾislām is 'the submission to God'.
+***لم***
+  لم (lima) :: for what, why
+***لما***
+  لما (limā) {ar-adv} :: for what, why
+  لَمّا (lamma) {ar-con} :: when
+  لما (lama) {{ar-proper noun|g=f}} :: {{given name|female}}
 ***لن***
   لن (lan) :: not
   لن (lan) :: Note: لن is used to deny the future. It governs the subjunctive of the verb.
@@ -4102,6 +4306,10 @@ Index: AR AR->EN
 ***ليلة***
   لَيْلَة (láila) {{ar-noun|g=f|pl=ليال|plhead=لَيَالٍ|pltr=layālin|pl2=ليائل|pl2head=لَيَائِل|pl2tr=layā’il}} :: night
   لَيْلَة (láila) {{ar-noun|g=f|pl=ليال|plhead=لَيَالٍ|pltr=layālin|pl2=ليائل|pl2head=لَيَائِل|pl2tr=layā’il}} :: evening
+***ليس***
+  ليس لَيْسَ (láysa) :: it is not
+  ليس {{ar-verb (old)|I|ليس|láyisa}} :: to be valiant, to be brave, to be courageous
+  ليس (līs) {{ar-adj|g=p}} :: valiant, brave, courageous ({plural of|اليس})
 ===ليت===
   شَعر (šaʕr, šáʕar) {m} (collective), شعرة (šáʕra) {f} (singulative), اشعار (’ašʕār) {p}, شعور (šuʕūr) {p}, شعار (šiʕār) {p}شِعْر (šiʕr) {{ar-noun|g=m}}شُعُر(šúʕur){p} :: knowledge
     ليت شعري (léita šiʕrī) :: I wish I knew
@@ -4366,6 +4574,10 @@ Index: AR AR->EN
   مارس (mārasa) {{ar-verb|form=3|impf=يمارس|impftr=yumārisu}} :: to practice (to engage in)
   مَارِس (māris) {{ar-noun|g=m}} :: March (Westernized calendar)
   مَارِس (māris) {{ar-noun|g=m}} :: Mars (God)
+===mārsīlīyā===
+  مارسيليا (mārsīlīyā) {{ar-proper noun|g=f}} :: Marseilles, city in France
+***مارسيليا***
+  مارسيليا (mārsīlīyā) {{ar-proper noun|g=f}} :: Marseilles, city in France
 ===mas===
   مسؤوليّة (mas’ūlíyya) {{ar-noun|g=f}} :: responsibility
 ===mašā===
@@ -4477,6 +4689,8 @@ Index: AR AR->EN
   مثل (máθθala) {{ar-verb|form=2}} :: to compare, to liken
   مثل (máθθala) {{ar-verb|form=2}} :: to punish severely, to treat harshly
   مثل (máθθala) {{ar-verb|form=2}} :: to maim, to mutilate
+***ماطر***
+  ماطر (māʈir) :: rainy
 ===máwqiʕ===
   مَوْقِع (máwqiʕ) {{ar-noun|g=m|pl=مواقع|plhead=مَوَاقِع|pltr=mawāqiʕ}} :: site, position, emplacement, place, spot, scene, locus, locale, locality, location, venue
   مَوْقِع (máwqiʕ) {{ar-noun|g=m|pl=مواقع|plhead=مَوَاقِع|pltr=mawāqiʕ}} :: time, date (on which something falls)
@@ -4556,6 +4770,8 @@ Index: AR AR->EN
   (Egyptian Arabic) عند (ʕand) (preposition) :: expresses possession, to have
     ماعندوش اصحاب. :: Ma 3andush asHaab.
     He doesn't have friends. :: --
+===مبارك===
+  عيدكم مبارك :: pleasant Eid ul-Fitr
 ***مذهب***
   مَذْهَب (máðhab) {{ar-noun|g=m|pl=مذاهب|pltr=maðāhib}} :: going, leaving, departure
   مَذْهَب (máðhab) {{ar-noun|g=m|pl=مذاهب|pltr=maðāhib}} :: way out, escape
@@ -4662,6 +4878,8 @@ Index: AR AR->EN
   مُلْك (mulk) {{ar-noun|g=m}}مِلْك (milk) {{ar-noun|g=m|pl=أملاك|plhead=أَمْلَاك|pltr=’amlāk}}مَلِك (malik) {{ar-noun|g=m|pl=ملوك|plhead=مُلُوك|pltr=mulūk|pl2=أملاك|pl2head=أَمْلَاك|pl2tr=’amlāk}} :: estate
   مُلْك (mulk) {{ar-noun|g=m}}مِلْك (milk) {{ar-noun|g=m|pl=أملاك|plhead=أَمْلَاك|pltr=’amlāk}}مَلِك (malik) {{ar-noun|g=m|pl=ملوك|plhead=مُلُوك|pltr=mulūk|pl2=أملاك|pl2head=أَمْلَاك|pl2tr=’amlāk}} :: real estate , landed property
   مُلْك (mulk) {{ar-noun|g=m}}مِلْك (milk) {{ar-noun|g=m|pl=أملاك|plhead=أَمْلَاك|pltr=’amlāk}}مَلِك (malik) {{ar-noun|g=m|pl=ملوك|plhead=مُلُوك|pltr=mulūk|pl2=أملاك|pl2head=أَمْلَاك|pl2tr=’amlāk}} :: king, sovereign, monarch
+===mimṭára===
+  ممطرة (mimṭára) {{ar-noun|g=f}}, مماطر (mamāṭir) {p} :: raincoat
 ===min===
   مِن (min) {ar-prep} :: of
   مِن (min) {ar-prep} :: some of
@@ -4827,12 +5045,22 @@ Index: AR AR->EN
   مَلَك (málak) {{ar-noun|g=m|pl=ملائكة|plhead=مَلَائِكَة|pltr=malā'ika|pl2=ملائك|pl2head=مَلَائِك|pl2tr=malā'ik}} :: angel
 ***ملكة***
   مَلِكَة (málika) {{ar-noun|g=f}} :: queen
+***مما***
+  مما ممّا (mimmā) :: from what
 ***مملوك***
   مملوك (mamlúk) {m}, مماليك (mamālik) {p} :: owned, in possession, belonging
     غي مملوك &mdash; extra commercium; res extra commercium (Islamic law: that cannot be owned by individuals) :: --
   مملوك (mamlúk) {m}, مماليك (mamālik) {p} :: white slave, mameluke
+***ممن***
+  ممن ممّن (mimmán) :: from whom
 ***ممثلة***
   مُمَثِّلَة (mumaththila(t)) {{ar-noun|g=f}}, feminine form of مُمَثِّل :: actress
+***ممطر***
+  ممطر (mímṭar) {m}, مماطر (mamāṭir) {p} :: raincoat
+  ممطر (múmṭir) {m}, ممطرة (mumṭíra) {f} :: rainy
+***ممطرة***
+  ممطرة (mimṭára) {{ar-noun|g=f}}, مماطر (mamāṭir) {p} :: raincoat
+  ممطرة (mumṭíra) {{ar-adj|g=f}} :: rainy (feminine of ممطر).
 ***من***
   مَنّ (mann) {{ar-noun|g=m}} :: gracious bestowal
   مَنّ (mann) {{ar-noun|g=m}} :: favor
@@ -5181,6 +5409,8 @@ Index: AR AR->EN
   مُمَثِّلَة (mumaththila(t)) {{ar-noun|g=f}}, feminine form of مُمَثِّل :: actress
 ===mumaththila===
   مُمَثِّلَة (mumaththila(t)) {{ar-noun|g=f}}, feminine form of مُمَثِّل :: actress
+===mumṭíra===
+  ممطرة (mumṭíra) {{ar-adj|g=f}} :: rainy (feminine of ممطر).
 ===muqáddas===
   بيت المقدس (beyt al-muqáddas or al-máqdis) (proper noun) :: Jerusalem (the capital of Palestine and Israel)
 ===musállam===
@@ -5379,6 +5609,9 @@ Index: AR AR->EN
 ***ن***
   ن / ن‍ / ‍ن‍ / ‍ن (nūn) :: The twenty-fifth letter of the Arabic alphabet. It is preceded by م and followed by ه.
   ن / ن‍ / ‍ن‍ / ‍ن (nūn) :: The fourteenth letter in traditional abjad order, which is used in place of numerals for list numbering (abjad numerals). It is preceded by م and followed by س.
+===nabīð===
+  نبيذ (nabīð) {ar-adj} :: cast-off, discarded, rejected, disowned
+  نبيذ (nabīð) {{ar-noun|g=m|pl=أنبذة}} (’anbiða) :: wine
 ===nabiy===
   سُنَّة (súnna) {{ar-noun|g=f|pl=سنن|pltr=súnan}} :: {Islam} habitual practice, customary procedure, norm
     سنة النبي (súnnat an-nabiy) :: the Sunna of the Prophet (his sayings and deeds)
@@ -5456,6 +5689,9 @@ Index: AR AR->EN
 ***ناموسية***
   ناموسية (nāmūsiya) {f} :: mosquito net
   ناموسية (nāmūsiya) {f} :: (Morocco) bed
+***نانسي***
+  نانسي (nánsi) :: Nancy, city in France
+  نانسي (nánsi) :: {{given name|female}}
 ***ناقوس***
   ناقوس (naqūs) {m}, نواقيس (nawāqīs) {p} :: gong, bell
   ناقوس (naqūs) {m}, نواقيس (nawāqīs) {p} :: tam-tam
@@ -5569,6 +5805,9 @@ Index: AR AR->EN
   نَعْش (naʿš) {{ar-noun|g=}} :: corpse (human)
 ===نَعْش===
   نَعْش (naʿš) {{ar-noun|g=}} :: corpse (human)
+***نبيذ***
+  نبيذ (nabīð) {ar-adj} :: cast-off, discarded, rejected, disowned
+  نبيذ (nabīð) {{ar-noun|g=m|pl=أنبذة}} (’anbiða) :: wine
 ***نفر***
   نفر {{ar-verb (old)|I|نفر|náfara}}{{ar-verb (old)|II|نفّر|náffara}}{{ar-verb (old)|III|نافر|nāfara}}{{ar-verb (old)|VI|تنافر|tanāfara}}{{ar-verb (old)|X|استنفر|istánfara}} :: to shy, to bolt, to stampede
   نفر {{ar-verb (old)|I|نفر|náfara}}{{ar-verb (old)|II|نفّر|náffara}}{{ar-verb (old)|III|نافر|nāfara}}{{ar-verb (old)|VI|تنافر|tanāfara}}{{ar-verb (old)|X|استنفر|istánfara}} :: to flee, to run away, to turn tail, to scamper, to abscond, to get away, to escape
@@ -5983,6 +6222,9 @@ Index: AR AR->EN
   قَبْر (qabr) {{ar-noun|g=m|pl=قبور|plhead=قُبُور|pltr=qubūr}} :: sepulcher
 ***قبة***
   قُبَّة (qubba) {{ar-noun|pl=قباب|plhead=قِبَاب|pltr=qibāb}} :: dome
+***قبطي***
+  قبطي (qíbṭī, qúbṭī) {ar-adj} :: Coptic
+  قبطي (qíbṭī, qúbṭī) {{ar-noun|g=m}} :: Copt
 ***قضب***
   قَضَبَ (qáḍaba) {{ar-verb|form=I}} :: to cut off, to prune, to lop, to trim.
   قَضَّبَ (qáḍḍaba) {{ar-verb|form=2|impf=يقضب|impfhead=يُقَضِّبُ|impftr=yuqaḍḍibu}} :: to cut off, to prune, to lop, to trim.
@@ -6038,6 +6280,9 @@ Index: AR AR->EN
   قَبْلَ (qábla) {ar-prep}قِبَلَ (qíbala) {ar-prep} :: prior to
   قَبْلَ (qábla) {ar-prep}قِبَلَ (qíbala) {ar-prep} :: in the presence of, before, near
   قَبْلَ (qábla) {ar-prep}قِبَلَ (qíbala) {ar-prep} :: in the direction of, toward
+===qíbṭī===
+  قبطي (qíbṭī, qúbṭī) {ar-adj} :: Coptic
+  قبطي (qíbṭī, qúbṭī) {{ar-noun|g=m}} :: Copt
 ===qidm===
   قِدْم (qidm) {ar-adv}قُدُم (qúdum) {ar-adv} :: time long past, old times
   قِدْم (qidm) {ar-adv}قُدُم (qúdum) {ar-adv} :: straight ahead, forward
@@ -6188,6 +6433,9 @@ Index: AR AR->EN
   قُبَّة (qubba) {{ar-noun|pl=قباب|plhead=قِبَاب|pltr=qibāb}} :: dome
 ===qubba===
   قُبَّة (qubba) {{ar-noun|pl=قباب|plhead=قِبَاب|pltr=qibāb}} :: dome
+===qúbṭī===
+  قبطي (qíbṭī, qúbṭī) {ar-adj} :: Coptic
+  قبطي (qíbṭī, qúbṭī) {{ar-noun|g=m}} :: Copt
 ===quds===
   القُدْس (al-quds) {{ar-proper noun|g=f}} :: Jerusalem
 ===qúdum===
@@ -6508,6 +6756,9 @@ Index: AR AR->EN
   رصيد (raṣīd) {m}, ارصدة (’árṣida) {p} :: capital
 ***رطب***
   رطب (rutb) (collective) :: Ripened dates, used in traditions relating to Muhammad.
+***رطوبة***
+  رطوبة (rutūba) {f} :: humidity
+  رطوبة (rutūba) {f} :: moistness
 ===rúbba===
   رب (rúbba) :: (with a following indefinite genitive) many
     رب رجلٍ (rúbba rájulin) :: many a man
@@ -7297,6 +7548,10 @@ Index: AR AR->EN
 ***شكرا***
   شكرا شُكْرًا (shúkraan) :: thank you
   (Egyptian Arabic) شكرا (shukraan) (interjection) :: thank you
+===شكري===
+  شكرية (šukríyya) {f} :: thanking ({feminine of|شكري})
+===شكرية===
+  شكرية (šukríyya) {f} :: thanking ({feminine of|شكري})
 ***سهل***
   سَهْل (sahl) {{ar-adj|el=أسهل|elhead=أَسْهَل}} :: easy
 ***شمال***
@@ -8539,6 +8794,8 @@ Index: AR AR->EN
     شيئًا فشيئًا (šái’an fa-šái’an) :: step by step
 ***يونيو***
   يُونْيُو (yúnyu) {{ar-noun|g=m}} :: June (Westernized calendar)
+***يعرفه***
+  يعرفه (yaʕrífuhu) :: he knows it/him, he recognizes it/him. (from the verb عرف, ʕárafa)
 ***ز***
   ز / ‍ز (zāyn) :: The eleventh letter of the Arabic alphabet. It is preceded by ر and followed by س.
   ز / ‍ز (zāyn) :: The seventh letter in traditional abjad order, which is used in place of numerals for list numbering (abjad numerals). It is preceded by و and followed by ح.
@@ -8666,6 +8923,10 @@ Index: AR AR->EN
   زرد {{ar-verb (old)|I|زرد|zárada}} :: to choke, to strangle
   زرد {{ar-verb (old)|I|زرد|zárada}} :: to gulp, to swallow, to devour
   زرد (zárad) {m}, زرود (zurūd) {p} :: chainmail, coat of mail
+***زرود***
+  زرود (zurūd) {m|p} :: coats of chainmail (plural of زرد).
+***زرودية***
+  زرودية (zurudíya) {f} :: (Algerian) carrot, carrots
 ===zuḥal===
   زُحَلٌ (zuḥal) {m} (proper noun) :: Saturn (planet)
 ===زُحَلٌ===
@@ -8748,6 +9009,8 @@ Index: AR AR->EN
   (Tunisian Arabic) آنَا (ʾānā) {m|f} (pronoun) :: I
 ===ʾántum===
   أَنْتُمْ (ʾántum) {ar-pron} {p} :: you {p}
+===ʾantúnna===
+  أَنْتُنَّ (ʾantúnna) {ar-pron} {f|p} :: you (feminine, plural)
 ===ʾIbrāhīm===
   إبراهيم (ʾIbrāhīm) {{ar-proper noun|g=m}} :: {{given name|male}}, Ibrahim, Abraham
   إبراهيم (ʾIbrāhīm) {{ar-proper noun|g=m}} :: {biblical} Abraham
@@ -8783,6 +9046,8 @@ Index: AR AR->EN
   رب (rabb) {m}, ارباب (’arbāb) {p} :: master, lord, king, sovereign, potentate, gentleman
     الرب (ar-rább) :: God; Lord
     رب العائلة (rabb al-ʕá’ila) :: paterfamilias
+===ʕádas===
+  عَدَس (ʕádas) {{ar-noun|g=m}} :: lentil
 ===ʕájab===
   عَجَب (ʕájab) {{ar-noun|g=m|pl=عجاب|plhead=عَجَاب|pltr=ʕajāb}} :: wonder, marvel, astonishment, amazement
 ===ʕaks===
@@ -8858,6 +9123,8 @@ Index: AR AR->EN
   عادة (ʿā́da) {{ar-noun|g=f|pl=عادات|pltr=ʿādā́t}} :: law
   عادة (ʿā́da) {{ar-noun|g=f|pl=عادات|pltr=ʿādā́t}} :: manner
   عادة (ʿā́da) {{ar-noun|g=f|pl=عوائد|pltr=ʿawā́ʾid}} :: (in plural) taxes, duties, charges, fees, rates
+===عَدَس===
+  عَدَس (ʕádas) {{ar-noun|g=m}} :: lentil
 ===ʿā́datan===
   عادة (ʿā́datan) {ar-adv}) :: usually, customarily, ordinarily, habitually
 ***عادة***
@@ -8962,6 +9229,8 @@ Index: AR AR->EN
   عبري (ʕibrī) {{ar-noun|g=m}}, عبريون (ʕibriyyūn) {p} :: Hebrew
   عبري (ʕíbrī) {ar-adj}, عبرية (ʕibríyya) {f} :: Hebrew
   عبري (ʕíbrī) {ar-adj}, عبرية (ʕibríyya) {f} :: Hebraic
+***عدس***
+  عَدَس (ʕádas) {{ar-noun|g=m}} :: lentil
 ===عِجْل===
   عِجْل (‘ijl) {{ar-noun|pl=عجول|plhead=عُجُول|pltr=‘ujūl}} :: calf, young cow
 ===عِنْدَ===
@@ -8990,6 +9259,11 @@ Index: AR AR->EN
   عَجَب (ʕájab) {{ar-noun|g=m|pl=عجاب|plhead=عَجَاب|pltr=ʕajāb}} :: wonder, marvel, astonishment, amazement
 ***عجل***
   عِجْل (‘ijl) {{ar-noun|pl=عجول|plhead=عُجُول|pltr=‘ujūl}} :: calf, young cow
+***عجمي***
+  عجمي (ʕájamī) {m}, اعجام (’aʕjām) {p} :: barbarian, non-Arab
+  عجمي (ʕájamī) {m}, اعجام (’aʕjām) {p} :: Persian
+  عجمي (ʕájamī) {m}, اعجام (’aʕjām) {p} :: barbarian, non-Arab
+  عجمي (ʕájamī) {m}, اعجام (’aʕjām) {p} :: Persian
 ***عجوز***
   عَجُوزٌ (ʿajūz) {{ar-noun|g=f|pl=عجائز|pltr=ʿajā’iz|pl2=عجز|pl2tr=ʿújuz}} :: old woman
   عَجُوزٌ (ʿajūz) {{ar-noun|g=f|pl=عجائز|pltr=ʿajā’iz|pl2=عجز|pl2tr=ʿújuz}} :: advanced in years
@@ -9160,6 +9434,8 @@ Index: AR AR->EN
   عيد عِيد (ʕīd) {m}, أعيَاد (’aʕyād) :: gala
   عيد عِيد (ʕīd) {m}, أعيَاد (’aʕyād) :: festivity
   عيد عِيد (ʕīd) {m}, أعيَاد (’aʕyād) :: carnival
+===عيدكم===
+  عيدكم مبارك :: pleasant Eid ul-Fitr
 ***عين***
   عين {{ar-verb (old)|II|عيّن|ʕáyyana}} (transitive) :: to appoint, to nominate
   عين {{ar-verb (old)|II|عيّن|ʕáyyana}} (transitive) :: to define
@@ -9320,6 +9596,7 @@ Index: EN EN->AR
   سَمِعَ (sámiʿa) {{ar-verb|form=I|impf=يسمع|impfhead=يَسْمَعُ|impftr=yasmaʿu}} :: (with ب) to hear of, to hear about
   عَن (ʕan) {ar-prep} :: about, on
   ذهب (ḏáhaba) {{ar-verb|form=1|impf=يذهب|impftr=yaḏhabu}} :: to prepare to, to be about to
+  دَوّار (dawwār) {{ar-noun|g=m}} :: wandering, cruising, going about
 ===above===
   فَوقَ (fawqa) {ar-prep} :: above, on top of
   (Egyptian Arabic) فوق (fooq) (preposition) ({{IPA|/foːʔ/}}) :: above, on top of
@@ -9503,6 +9780,7 @@ Index: EN EN->AR
   عرب {{ar-verb (old)|II|عَرّبَ|{LR}3arraba}}{{ar-verb (old)|IV|أعرب|'á3raba}}{{ar-verb (old)|V|تعرب|ta3árraba}}{{ar-verb (old)|X|استعرب|istá3raba}} :: to assimilate oneself to the Arabs, to become an Arab, to adopt the customs of the Arabs.
 ===adore===
   عشق عَشِقَ (ʕašiqa) :: to adore
+  أَلَّهَ (’állaha) {{ar-verb|form=2}} :: to idolize, to adore
 ===adorn===
   حَسَّنَ (ħássana) {{ar-verb|form=II|impf=يحسن|impftr=yuħassinu}} :: to prettify, to beautify, to adorn, to make attractive
   جمل {{ar-verb (old)|I|جمل|jámala}}{{ar-verb (old)|I|جمل|jámula}}{{ar-verb (old)|II|جمّل|jámmala}}{{ar-verb (old)|III|جامل|jāmala}}{{ar-verb (old)|IV|اجمل|’ájmala}}{{ar-verb (old)|V|تجمل|tajámmala}}{{ar-verb (old)|VI|تجامل|tajāmala}} :: to make beautiful, to beautify, to embellish, to adorn
@@ -9527,6 +9805,7 @@ Index: EN EN->AR
   قِتْل (qitl) {{ar-noun|g=m|pl=أقتال|plhead=أَقْتَال|pltr=ʾaqtāl}} :: enemy, adversary, foe, opponent
 ===advice===
   امر {{ar-verb (old)|I|أمر|’ámara}}{{ar-verb (old)|II|أمر|’ámmara}}{{ar-verb (old)|III|آمر|’āmara}}{{ar-verb (old)|V|تأمر|ta’ámmara}}{{ar-verb (old)|VI|تآمر|ta’āmara}}{{ar-verb (old)|VIII|ائتمر|i’támara}} :: to ask advice of, to seek the opinion of, to consult
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to ask for inspiration, to ask for advice, to try to find out
 ===advise===
   خبر {{ar-verb (old)|I|خبر|xábara}}{{ar-verb (old)|II|خبر|xábbara}}{{ar-verb (old)|III|خابر|xābara}}{{ar-verb (old)|IV|اخبر|’áxbara}}{{ar-verb (old)|V|تخبر|taxábbara}}{{ar-verb (old)|VI|تخابر|taxābara}}{{ar-verb (old)|VIII|اختبر|ixtábara}}{{ar-verb (old)|X|استخبر|istáxbara}} :: to notify, to advise, to apprise, to inform
   خبر {{ar-verb (old)|I|خبر|xábara}}{{ar-verb (old)|II|خبر|xábbara}}{{ar-verb (old)|III|خابر|xābara}}{{ar-verb (old)|IV|اخبر|’áxbara}}{{ar-verb (old)|V|تخبر|taxábbara}}{{ar-verb (old)|VI|تخابر|taxābara}}{{ar-verb (old)|VIII|اختبر|ixtábara}}{{ar-verb (old)|X|استخبر|istáxbara}} :: to notify, to advise, to apprise, to inform
@@ -9653,6 +9932,7 @@ Index: EN EN->AR
   ألبانيا (’albánya) {f} :: Albania
 ===alcohol===
   غول (ğūl) {f}, اغوال (’ağwāl) {p}, غيلان (ğilān) {p} :: alcohol, or alcohol beverages.
+  كحول (kuħūl) {m} :: alcohol, spirits
 ===alcoholic===
   خمر (xamr) {m|f}, خمور (xumūr) {p} :: (plural) alcoholic beverages, liquor, spirits
 ===alexandri===
@@ -9664,6 +9944,8 @@ Index: EN EN->AR
   الجزائر الجَزَائِر (al-jazā’ir) {p} :: Algeria
   الجَزَائِر (al-jazā’ir) {ar-proper noun} :: Algeria
   ثاقبايليث (θāqbāylīθ) {ar-proper noun} :: Kabyle (a Northern Berber language of Algeria).
+===Algerian===
+  زرودية (zurudíya) {f} :: (Algerian) carrot, carrots
 ===Algiers===
   الجزائر الجَزَائِر (al-jazā’ir) {p} :: Algiers
 ===alibi===
@@ -9764,6 +10046,8 @@ Index: EN EN->AR
   مناقيش (manāqīsh) {{ar-noun|g=m}} :: manakish (a Middle-Eastern pastry similar to pizza); also spelt manaeesh or manakeesh in English.
     مناقيش بزعتر (manāqīsh bi-záʕtar) :: thyme manakish
   سِلْك (silk) {{ar-noun|g=m|pl=اسلاك|pltr=aslāk}} :: string (also of a musical instrument)
+===alter===
+  غير (ġayyara) {{ar-verb|form=2|II=ي|impf=يغير|impftr=yuğayyiru}} :: {transitive} to change, to alter
 ===altercate===
   شجر {{ar-verb (old)|I|شَجَرَ|šájara}}{{ar-verb (old)|II|شَجّرَ|šájjara}}{{ar-verb (old)|III|شَاجَرَ|šājara|شاجر}}{{ar-verb (old)|V|تَشَجّرَ|tašájjara|تشجر}}{{ar-verb (old)|VI|تَشَاجَرَ|tašājara|تشاجر}}{{ar-verb (old)|VIII|اِشْتَجَرَ|ištájara|اشتجر}} :: to altercate
   شجر {{ar-verb (old)|I|شَجَرَ|šájara}}{{ar-verb (old)|II|شَجّرَ|šájjara}}{{ar-verb (old)|III|شَاجَرَ|šājara|شاجر}}{{ar-verb (old)|V|تَشَجّرَ|tašájjara|تشجر}}{{ar-verb (old)|VI|تَشَاجَرَ|tašājara|تشاجر}}{{ar-verb (old)|VIII|اِشْتَجَرَ|ištájara|اشتجر}} :: to altercate
@@ -9786,6 +10070,8 @@ Index: EN EN->AR
   عَجَب (ʕájab) {{ar-noun|g=m|pl=عجاب|plhead=عَجَاب|pltr=ʕajāb}} :: wonder, marvel, astonishment, amazement
 ===amazing===
   عجيب عَجِيب ('ajīb) :: amazing
+===ambulatory===
+  دَوّار (dawwār) {ar-adj} :: ambulatory, circulating
 ===ameliorate===
   حَسَّنَ (ħássana) {{ar-verb|form=II|impf=يحسن|impftr=yuħassinu}} :: to improve, to ameliorate, to better, to polish, to embellish
 ===amelioration===
@@ -9978,6 +10264,8 @@ Index: EN EN->AR
   عربية (ʕarabíya) {f}, عربيات (ʕarabiyát) {p} :: Arab woman
   عرب {{ar-verb (old)|II|عَرّبَ|{LR}3arraba}}{{ar-verb (old)|IV|أعرب|'á3raba}}{{ar-verb (old)|V|تعرب|ta3árraba}}{{ar-verb (old)|X|استعرب|istá3raba}} :: to assimilate oneself to the Arabs, to become an Arab, to adopt the customs of the Arabs.
   عرب {{ar-verb (old)|II|عَرّبَ|{LR}3arraba}}{{ar-verb (old)|IV|أعرب|'á3raba}}{{ar-verb (old)|V|تعرب|ta3árraba}}{{ar-verb (old)|X|استعرب|istá3raba}} :: to assimilate oneself to the Arabs, to become an Arab, to adopt the customs of the Arabs.
+  عجمي (ʕájamī) {m}, اعجام (’aʕjām) {p} :: barbarian, non-Arab
+  عجمي (ʕájamī) {m}, اعجام (’aʕjām) {p} :: barbarian, non-Arab
 ===araba===
   عربية (ʕarabíya) {f}, عربيات (ʕarabiyát) {p} :: (Egyptian Arabic) araba, coach
 ===Arabia===
@@ -10067,6 +10355,7 @@ Index: EN EN->AR
 ===Arabs===
   عرب عَرَب ({LR}3arab) {m} (collective), عروب ({LR}3uruub) {p}, عربان ({LR}3urbaan) {p}, اعراب (a3raab) {p} :: Arabs, true Arabs
   اعراب (iʕrāb) {m}اعراب{p} :: Arabs (Plural form of عرب).
+  إسبتارية (isbitārīya) إسبتارية :: The knightly order of the Hospitallers (Knights of St. John or Knights of Rhodes), with whom the Arabs came into close contact at that time.
   صفر صَفَرٌ (ṣáfar) {m}, اصفار (’aṣfār) {p} :: Safar, the second of the twelve months of the Muslim lunar calendar, each beginning with a new moon. Safar means "void" in Arabic, supposedly because pagan Arabs looted during this month and left the houses empty.
   ذُو القَعْدَةِ (ðu l-qáʕda) {{ar-noun|g=m}} :: Dhu al-Qi'dah, the eleventh of the twelve months of the Muslim lunar calendar, each beginning with a new moon. Dhu al-Qi'dah means "master of the truce" in Arabic, and pagan Arabs did not conduct war during this month.
   عرب {{ar-verb (old)|II|عَرّبَ|{LR}3arraba}}{{ar-verb (old)|IV|أعرب|'á3raba}}{{ar-verb (old)|V|تعرب|ta3árraba}}{{ar-verb (old)|X|استعرب|istá3raba}} :: to assimilate oneself to the Arabs, to become an Arab, to adopt the customs of the Arabs.
@@ -10079,6 +10368,7 @@ Index: EN EN->AR
   معمار (miʿmār) :: architect
 ===ardent===
   هيام هيَام (huyām, hiyām) {m} :: ardent love, ardent love
+  غيور (ğayūr) {m}, غير (ğúyur) {p} :: zealous, ardent, fervid, eager
   شغف (šáğafa) {{ar-verb|form=I|impf=يشغف}} :: to infatuate, to enamor, to fill with ardent passion
   شَغْف (šağf) {{ar-noun|g=m}} :: infatuating, enamoring, having ardent passion
 ===are===
@@ -10147,6 +10437,7 @@ Index: EN EN->AR
   امر {{ar-verb (old)|I|أمر|’ámara}}{{ar-verb (old)|II|أمر|’ámmara}}{{ar-verb (old)|III|آمر|’āmara}}{{ar-verb (old)|V|تأمر|ta’ámmara}}{{ar-verb (old)|VI|تآمر|ta’āmara}}{{ar-verb (old)|VIII|ائتمر|i’támara}} :: to ask advice of, to seek the opinion of, to consult
   رحم {{ar-verb (old)|I|رحم|ráHima}}{{ar-verb (old)|II|رحّم|ráHHama}} :: to ask God to have mercy (upon), to plead for God’s mercy
   نفر {{ar-verb (old)|I|نفر|náfara}}{{ar-verb (old)|II|نفّر|náffara}}{{ar-verb (old)|III|نافر|nāfara}}{{ar-verb (old)|VI|تنافر|tanāfara}}{{ar-verb (old)|X|استنفر|istánfara}} :: to be frightened away, to ask someone to fight against, to call someone to go to war
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to ask for inspiration, to ask for advice, to try to find out
 ===aspect===
   نَظَر (náẓar) {{ar-noun|g=m|pl=أنظار|plhead=أنْظَار|pltr=ʾanẓār}} :: aspect
   مَنْظَر (mánẓar) {{ar-noun|g=m|pl=مناظر|plhead=مَنَاظِر|pltr=mánāẓir}} :: looks, appearance, aspect
@@ -10382,6 +10673,8 @@ Index: EN EN->AR
   شرفة (šúrfa) {f}, شرفات (šurfāt, šurufāt) {p}, شرف (šúruf) {p} :: balcony, loge, theater box
 ===ballast===
   صبر {{ar-verb (old)|II|صبر|ṣábbara}} :: {nautical} to ballast
+===Bamako===
+  باماكو (bāmākū) {f} :: Bamako, the capital city of Mali
 ===banana===
   موز مَوْز (mawz) :: banana the fruit
 ===band===
@@ -10395,6 +10688,8 @@ Index: EN EN->AR
   قَلَم (qálam) {{ar-noun|g=m|pl=أقلام|plhead=أقْلاَم}} (’aqlām) :: stripe, streak, line, bar, stria
 ===barbarian===
   بربري بَرْبَريّ (bárbari) {m} :: barbarian, savage
+  عجمي (ʕájamī) {m}, اعجام (’aʕjām) {p} :: barbarian, non-Arab
+  عجمي (ʕájamī) {m}, اعجام (’aʕjām) {p} :: barbarian, non-Arab
 ===barbaric===
   بربري بَرْبَريّ (bárbari) :: ruthless, savage, barbaric, barbarous
 ===barbarous===
@@ -10612,6 +10907,7 @@ Index: EN EN->AR
   أدب (ʾádab) {m} (noun) :: literature, belles-lettres
 ===belonging===
   لِ (li-) {ar-prep} :: A prefix meaning to, for, belonging to.
+  لهم (láhum) {m|p} :: to them, for them, belonging to them.
   مملوك (mamlúk) {m}, مماليك (mamālik) {p} :: owned, in possession, belonging
     غي مملوك &mdash; extra commercium; res extra commercium (Islamic law: that cannot be owned by individuals) :: --
 ===beloved===
@@ -10797,6 +11093,8 @@ Index: EN EN->AR
   صدر (ṣadr) {{ar-noun|g=m|pl=صدور|pltr=ṣudūr}} :: bosom, heart
 ===boss===
   رئيس (ra’īs) {{ar-noun|g=m|pl=رؤساء|pltr=ru’asā’}} :: boss, chief, leader, boss
+===both===
+  هُمَا (humā) {ar-pron} (dual) :: they both, the two of them
 ===bottom===
   آخر (’āxir) {m}, آخرون (’axirūn) {p}, اخرات (’axirāt) {p}, اواخر (’awāxir) {p} :: bottom, foot
 ===bound===
@@ -10816,6 +11114,8 @@ Index: EN EN->AR
   (Egyptian Arabic) ي (-ii) (pronoun) :: me, my (bound object pronoun)
     لي (liyya) :: to me
     كتابي (kitaabi) :: my book
+  هن ـهُنّ (-húnna) or ـهِنّ (-hinna) {f|p} :: their, them (feminine bound object pronoun).
+  ـهُما (-humā) {m|dual} (suffix) :: their, them (masculine bound object pronoun).
 ===bow===
   وتر {{ar-verb (old)|I|وتر|wátara}}{{ar-verb (old)|II|وتر|wáttara}}{{ar-verb (old)|III|واتر|wātara}}{{ar-verb (old)|IV|اوتر|’autara}}{{ar-verb (old)|V|توتر|tawáttara}}{{ar-verb (old)|VI|تواتر|tawātara}} :: to string (as a bow), to provide with a string
   وتر {{ar-verb (old)|I|وتر|wátara}}{{ar-verb (old)|II|وتر|wáttara}}{{ar-verb (old)|III|واتر|wātara}}{{ar-verb (old)|IV|اوتر|’autara}}{{ar-verb (old)|V|توتر|tawáttara}}{{ar-verb (old)|VI|تواتر|tawātara}} :: to string (as a bow), to provide with a string
@@ -10839,6 +11139,9 @@ Index: EN EN->AR
   افنان (afnán) (noun) :: {literally} "Branches with leaves". By extension, a specific place in the heavens, a peaceful setting which is covered in shade and full of fruits.
 ===brass===
   صُفْر (ṣufr) {{ar-noun|g=m}}صَفَر (ṣáfar) {{ar-noun|g=m}} :: brass
+===brave===
+  ليس {{ar-verb (old)|I|ليس|láyisa}} :: to be valiant, to be brave, to be courageous
+  ليس (līs) {{ar-adj|g=p}} :: valiant, brave, courageous ({plural of|اليس})
 ===brawl===
   شجر {{ar-verb (old)|I|شَجَرَ|šájara}}{{ar-verb (old)|II|شَجّرَ|šájjara}}{{ar-verb (old)|III|شَاجَرَ|šājara|شاجر}}{{ar-verb (old)|V|تَشَجّرَ|tašájjara|تشجر}}{{ar-verb (old)|VI|تَشَاجَرَ|tašājara|تشاجر}}{{ar-verb (old)|VIII|اِشْتَجَرَ|ištájara|اشتجر}} :: to brawl
   شجر {{ar-verb (old)|I|شَجَرَ|šájara}}{{ar-verb (old)|II|شَجّرَ|šájjara}}{{ar-verb (old)|III|شَاجَرَ|šājara|شاجر}}{{ar-verb (old)|V|تَشَجّرَ|tašájjara|تشجر}}{{ar-verb (old)|VI|تَشَاجَرَ|tašājara|تشاجر}}{{ar-verb (old)|VIII|اِشْتَجَرَ|ištájara|اشتجر}} :: to brawl
@@ -10928,6 +11231,7 @@ Index: EN EN->AR
   معمار (miʿmār) :: builder
 ===building===
   بيت بَيْتٌ (beyt) {m}, بُيُوتٌ (buyūt) {p}, بيوتات (buyutāt) {p}بَيْتٌ{m}أبْيَاتٌ{p} :: house, building
+  دَوّار (dawwār) {{ar-noun|g=m}} :: {{context|Egypt}} farm building, farm
   (Egyptian Arabic) باب (baab) {{arz-noun|m|أبواب|abwaab}} :: door (portal of entry into a building or room)
   غرفة غُرْفَة (ghurfa) {f}, غرف (ghuraf) {p} :: room (of a building etc.)
 ===bulbul===
@@ -10970,6 +11274,7 @@ Index: EN EN->AR
 ===but===
   إلا (’illā) {ar-prep} :: (after negation) only, but, not until
   أما ('amā) {ar-part} :: but
+  غير (ġair) {ar-prep} :: except, save, but
   لا إله إلا الله محمّد رسول الله (lā ilāhā illā-llāh; muħámmadun rasūlu-llāh) (phrase) :: Literally, There is no god but God; Muhammad is the messenger of God.
     This phrase, called the shahada, or Muslim creed, is the declaration of belief in the oneness of God and in Muhammad as His messenger. Recitation of the shahada is considered one of the five pillars of Islam by Sunni Muslims. By sincerely stating the shahada aloud before two witnesses, one is considered to have converted to Islam. :: --
   ف‍- (fa-) (prefix) :: but then, then however
@@ -11080,6 +11385,8 @@ Index: EN EN->AR
   هدوء هُدُوء (hudū’) {m} :: calm, calmness, quiet, quietness, peace, tranquility, stillness
 ===calmness===
   هدوء هُدُوء (hudū’) {m} :: calm, calmness, quiet, quietness, peace, tranquility, stillness
+===came===
+  إسبتارية (isbitārīya) إسبتارية :: The knightly order of the Hospitallers (Knights of St. John or Knights of Rhodes), with whom the Arabs came into close contact at that time.
 ===camel===
   جمال (jimāl) :: camels ({plural of|جمل})
   جمال (jammāl) {m}, جمالون (jammalūn) {p} :: camel driver
@@ -11127,12 +11434,17 @@ Index: EN EN->AR
   تخت (taxt) {m}, تخوت (tuxūt) {p} :: seat, capital,
   القاهرة (al-qaahira) {f} :: Cairo (capital of Egypt)
   بيت المقدس (beyt al-muqáddas or al-máqdis) (proper noun) :: Jerusalem (the capital of Palestine and Israel)
+  باماكو (bāmākū) {f} :: Bamako, the capital city of Mali
+  باريس (bāris) {f} :: Paris, the capital city of France
+  كراكاس (karākās) :: Caracas, the capital of Venezuela.
 ===captain===
   رئيس (ra’īs) {{ar-noun|g=m|pl=رؤساء|pltr=ru’asā’}} :: {military} captain
 ===car===
   العربية (al-ʕarabíyya) {f} :: {{context|colloquial|Egypt}} car, automobile
   سيارة سيّارةٌ (sayyāra) {f}, سيارات (sayyarāt) {p} :: automobile, car, motorcar
   وقف (wáqqafa) {{ar-verb|form=2|I=و|impf=يوقف|impftr=yuwáqqifu}} :: to park (a car)
+===Caracas===
+  كراكاس (karākās) :: Caracas, the capital of Venezuela.
 ===carcinoma===
   سرطان سَرَطان (saraṭān) {m}, سرطانات (saraṭanāt) {p} :: {disease} cancer, carcinoma
 ===cardinal===
@@ -11159,6 +11471,14 @@ Index: EN EN->AR
   فَرْش (farš) {ar-noun} :: carpet, rug
 ===carriage===
   عربية (ʕarabíya) {f}, عربيات (ʕarabiyát) {p} :: (Egyptian Arabic) carriage, vehicle
+===carrot===
+  خيزو خيزّو (xizzu) {m} :: (Moroccan) carrot, carrots
+  خزو خزّو (xizzu) {m} :: (Moroccan) carrot, carrots
+  زرودية (zurudíya) {f} :: (Algerian) carrot, carrots
+===carrots===
+  خيزو خيزّو (xizzu) {m} :: (Moroccan) carrot, carrots
+  خزو خزّو (xizzu) {m} :: (Moroccan) carrot, carrots
+  زرودية (zurudíya) {f} :: (Algerian) carrot, carrots
 ===carry===
   حق {{ar-verb (old)|I|حق|ħáqqa}}{{ar-verb (old)|II|حق|ħáqqa}}{{ar-verb (old)|III|حاق|ħāqqa}}{{ar-verb (old)|IV|احق|’aħáqqa}}{{ar-verb (old)|X|استحق|istaħáqqa}} :: to realize, to carry out, to effect
   (Egyptian Arabic) شال (shaal) (verb), يشيل (yishiil) :: to carry {l|gloss=to transport by lifting}
@@ -11182,6 +11502,7 @@ Index: EN EN->AR
   ظَهْر (ẓahr) {{ar-noun|g=m}}, ظهور (ẓuhūr) {p}, اظهر (’áẓhur) {p}, ظهورات (ẓuhurāt) {p}ظُهْر (ẓuhr) {{ar-noun|g=m|pl=أظهار|plhead=أظْهَار|pltr=’aẓhār}} :: cast iron
   زهر (zahr) {{ar-coll-noun|g=m|sing=زهرة|singtr=záhra|singg=f|pl=زهور|pltr=zuhūr|pl2=ازهر|pl2tr=’ázhur|pl3=ازهار|pl3tr=’azhār|pl4=ازاهير|pl4tr=’azāhir|pl5=ازاهر|pl5tr=’azāhir}} :: cast iron
   طرح {{ar-verb (old)|I|طرح|ṭáraḥa}}{{ar-verb (old)|II|طرّح|ṭárraḥa}}{{ar-verb (old)|III|طارح|ṭāraḥa}}{{ar-verb (old)|V|تطرح|taṭárraḥa}}{{ar-verb (old)|VI|تطارح|taṭāraḥa}}{{ar-verb (old)|VII|انطرح|inṭáraḥa}}{{ar-verb (old)|VIII|اطرح|iṭṭáraḥa}} :: to throw, to cast, to fling, to toss
+  نبيذ (nabīð) {ar-adj} :: cast-off, discarded, rejected, disowned
 ===castle===
   برج (burj) (noun), dual: برجان (burjān), plural: بروج (burūj) or ابراج (’abrāj) :: castle
   رخ (raxx) {m} (collective), رخة (ráxxa) {f} (singulative)رُخّ (ruxx) {{ar-noun|g=m|pl=رخاخ|plhead=رِخَاخ|pltr=rixāx|pl2=رخخة|pl2head=رِخَخَة|pl2tr=ríxaxa}} :: {chess} castle, rook
@@ -11260,6 +11581,7 @@ Index: EN EN->AR
   شهد {{ar-verb (old)|I|شهد|šahida}}{{ar-verb (old)|III|شاهد|šāhada}}{{ar-verb (old)|IV|اشهد|’ášhada}}{{ar-verb (old)|X|استشهد|’istášhada}} :: to attest, to confirm, to certify
 ===chainmail===
   زرد (zárad) {m}, زرود (zurūd) {p} :: chainmail, coat of mail
+  زرود (zurūd) {m|p} :: coats of chainmail (plural of زرد).
 ===chair===
   رأس (ráʾasa) {{ar-verb|form=1|II=ء|impf=يرأس|impftr=yarʾasu}} :: to be at the head, to be chairman, to chair, to be in charge, to preside
   كرسي كُرْسِيّ (kursiyy) {m}, كراسي (karāsī) {p} :: chair, seat
@@ -11281,6 +11603,7 @@ Index: EN EN->AR
   حال {{ar-verb (old)|I|حال|ḥāla}}{{ar-verb (old)|II|حال|ḥálla}} :: to change, to be transformed
   حال {{ar-verb (old)|I|حال|ḥāla}}{{ar-verb (old)|II|حال|ḥálla}} :: to change, to transform, to convert, to turn, to make
   حال {{ar-verb (old)|I|حال|ḥāla}}{{ar-verb (old)|II|حال|ḥálla}} :: to turn the helm, to change course
+  غير (ġayyara) {{ar-verb|form=2|II=ي|impf=يغير|impftr=yuğayyiru}} :: {transitive} to change, to alter
 ===chapter===
   ب (b. = باب, bāb) :: chapter.
   باب بَاب (baab) {m}, أبْوَاب (’abwaab) {p}, بِيبَان (bibaan) {p} :: chapter, section, column
@@ -11409,8 +11732,11 @@ Index: EN EN->AR
   شفرة (šífra) {f} :: cipher, code
 ===circle===
   نفر (náfar) {m} (verb), انفار (’anfār) {p} :: band, party, group, troop, herd, coterie, collective, cohort, clique, company, association, society, gang, flock, circle, cabal, squad, community, crowd
+  دَوّار (dawwār) {{ar-noun|g=m}} :: traffic circle
   دور {{ar-verb (old)|II|دور|dáwwara}} :: to turn in a circle, to spin, to whirl, to revolve, to rotate
   دور {{ar-verb (old)|II|دور|dáwwara}} :: to turn into a circle, to make round
+===circulating===
+  دَوّار (dawwār) {ar-adj} :: ambulatory, circulating
 ===circumference===
   مُحِيطٌ (muḥīṭ) {{ar-noun|g=m|pl=محيطات|plhead=مُحِيطَات|pltr=muḥīṭāt}} :: circumference
 ===circumstance===
@@ -11442,6 +11768,10 @@ Index: EN EN->AR
   أورشليم (Ūrušalīm) {ar-proper noun} :: Jerusalem (city in the Middle East)
   جدة (jídda) {f}, جدات (jiddāt) {p} :: Jeddah (port city in Saudi Arabia on the Red Sea, purportedly the burial site of Eve)
   بلدية بَلَدِيَّة (baladíyya) {f}, بلديات (baladiyāt) {p} :: district, ward (of a city)
+  باماكو (bāmākū) {f} :: Bamako, the capital city of Mali
+  باريس (bāris) {f} :: Paris, the capital city of France
+  مارسيليا (mārsīlīyā) {{ar-proper noun|g=f}} :: Marseilles, city in France
+  نانسي (nánsi) :: Nancy, city in France
 ===civility===
   أدب (ʾádab) {m} (noun) :: civility
 ===civilization===
@@ -11474,6 +11804,7 @@ Index: EN EN->AR
 ===classify===
   جنس {{ar-verb (old)|II|جنس|jánnasa}}{{ar-verb (old)|III|جانس|jānasa}}{{ar-verb (old)|V|تجنس|tajánnasa}}{{ar-verb (old)|VI|تجانس|tajānasa}} :: to class, to classify, to sort, to categorize
 ===clause===
+  كلامٌ (kalām) {m} :: sentence, clause, phrase
   خَبَر (xábar) {{ar-noun|g=m|pl=أخبار|plhead=أَخْبَار|pltr=’axbār}} :: {grammar} predicate of a nominal clause
 ===claw===
   سلاح سِلاحٌ (silāħ) {m}, اسلحة (’ásliħa) {p} :: steel claw
@@ -11511,6 +11842,7 @@ Index: EN EN->AR
   ساعة (saa3a(t)) {f}, ساعات (sa3aat) {p}, ساع (saa3) {p} :: timepiece, clock, watch
 ===close===
   (Egyptian Arabic) قفل (qafal) (verb), يقبل (yiqfil) :: to close
+  إسبتارية (isbitārīya) إسبتارية :: The knightly order of the Hospitallers (Knights of St. John or Knights of Rhodes), with whom the Arabs came into close contact at that time.
 ===closed===
   مقفول (maqfūl) :: closed
 ===closely===
@@ -11521,6 +11853,10 @@ Index: EN EN->AR
 ===clothes===
   ريش (rīš) {m} (collective), ريشة (rīša) {f} (singulative), رياش (riyāš) {p}, ارياش (aryāš) {p}, ريشات (rišāt) {p} :: clothes, attire
   بذلة (baðla) {f}, بذل (biðal) {p} :: suit (of clothes)
+===clouded===
+  غائم (ğā’im) :: cloudy, overcast, clouded
+===cloudy===
+  غائم (ğā’im) :: cloudy, overcast, clouded
 ===clutch===
   مسك {{ar-verb (old)|I|مَسَكَ|másaka}}{{ar-verb (old)|II|مَسَّكَ|mássaka}}{{ar-verb (old)|IV|أمْسَكَ|’ámsaka}}{{ar-verb (old)|V|تَمَسّكَ|tamássaka}}{{ar-verb (old)|VI|تَمَاسَكَ|tamá:saka}}{{ar-verb (old)|X|اِسْتَمْسَكَ|istámsaka}} :: to grab, grasp, clutch, clasp, seize, take hold
   مسك {{ar-verb (old)|I|مَسَكَ|másaka}}{{ar-verb (old)|II|مَسَّكَ|mássaka}}{{ar-verb (old)|IV|أمْسَكَ|’ámsaka}}{{ar-verb (old)|V|تَمَسّكَ|tamássaka}}{{ar-verb (old)|VI|تَمَاسَكَ|tamá:saka}}{{ar-verb (old)|X|اِسْتَمْسَكَ|istámsaka}} :: to seize, grasp, clutch, grip, hold
@@ -11536,6 +11872,7 @@ Index: EN EN->AR
 ===coat===
   دم {{ar-verb (old)|I|دم|dámma}}{{ar-verb (old)|II|دمم|dámmama}} :: to coat, to smear
   زرد (zárad) {m}, زرود (zurūd) {p} :: chainmail, coat of mail
+  زرود (zurūd) {m|p} :: coats of chainmail (plural of زرد).
 ===code===
   شفرة (šífra) {f} :: cipher, code
 ===coffee===
@@ -11794,6 +12131,7 @@ Index: EN EN->AR
   شُغْل (šuğl) {{ar-noun|g=m}}, اشغال (’ašğāl) {p}, شغول (šuğūl) {p} :: work, job, business, concern
 ===concerned===
   شغل {{ar-verb (old)|I|شغل|šáğala}}{{ar-verb (old)|II|شغل|šáğğala}}{{ar-verb (old)|III|شاغل|šāğala}}{{ar-verb (old)|IV|اشغل|’ášğala}}{{ar-verb (old)|VI|تشاغل|tašāğala}}{{ar-verb (old)|VII|انشغل|inšáğala}}{{ar-verb (old)|VIII|اشتغل|ištáğala}} :: to be preoccupied, to be concerned
+  غيور (ğayūr) {m}, غير (ğúyur) {p} :: very interested, keen, enthusiastic, very concerned
 ===conclusion===
   آخر (’āxir) {m}, آخرون (’axirūn) {p}, اخرات (’axirāt) {p}, اواخر (’awāxir) {p} :: end, conclusion
     الآخر (al-’āxir) &mdash; the hereafter :: --
@@ -11906,6 +12244,8 @@ Index: EN EN->AR
   عامل (ʕāmil) {m}, عوامل (ʕawāmil) {p}عامل{m}عمّال{p} :: factor, constituent, element, causative agent
 ===consult===
   امر {{ar-verb (old)|I|أمر|’ámara}}{{ar-verb (old)|II|أمر|’ámmara}}{{ar-verb (old)|III|آمر|’āmara}}{{ar-verb (old)|V|تأمر|ta’ámmara}}{{ar-verb (old)|VI|تآمر|ta’āmara}}{{ar-verb (old)|VIII|ائتمر|i’támara}} :: to ask advice of, to seek the opinion of, to consult
+===consume===
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to consume, to destroy
 ===consummate===
   دَخَلَ (dáxala) {{ar-verb|form=2|impf=يدخل|impfhead=يَدْخُلُ|impftr=yadxulu}} :: to consummate the marriage, to cohabit, to sleep with
   حق {{ar-verb (old)|I|حق|ħáqqa}}{{ar-verb (old)|II|حق|ħáqqa}}{{ar-verb (old)|III|حاق|ħāqqa}}{{ar-verb (old)|IV|احق|’aħáqqa}}{{ar-verb (old)|X|استحق|istaħáqqa}} :: to fulfill, to consummate, to actualize
@@ -11914,6 +12254,7 @@ Index: EN EN->AR
   مس {{ar-verb (old)|I|مس|mássa}}{{ar-verb (old)|III|ماس|māsasa, māssa}}{{ar-verb (old)|VI|تماس|tamāsasa, tamāssa}} :: to be in touch, to be in contact
   مس {{ar-verb (old)|I|مس|mássa}}{{ar-verb (old)|III|ماس|māsasa, māssa}}{{ar-verb (old)|VI|تماس|tamāsasa, tamāssa}} :: to touch each other, to be in mutual contact
   مس (mass) {{ar-noun|g=m}} :: contact
+  إسبتارية (isbitārīya) إسبتارية :: The knightly order of the Hospitallers (Knights of St. John or Knights of Rhodes), with whom the Arabs came into close contact at that time.
 ===contain===
   رب {{ar-verb (old)|I|رب|rábba}}{{ar-verb (old)|II|ربب|rábbaba}} :: to impact, to comprise, to contain
 ===container===
@@ -11966,8 +12307,12 @@ Index: EN EN->AR
   حافظ (ħāfađ̣a) {{ar-verb|form=3|impf=يحافظ|impftr=yuħāfiđ̣u}} :: to supervise, to control, to watch over, to watch out for
   رب {{ar-verb (old)|I|رب|rábba}}{{ar-verb (old)|II|ربب|rábbaba}} :: to have possession, to gather, to control
   مسك {{ar-verb (old)|I|مَسَكَ|másaka}}{{ar-verb (old)|II|مَسَّكَ|mássaka}}{{ar-verb (old)|IV|أمْسَكَ|’ámsaka}}{{ar-verb (old)|V|تَمَسّكَ|tamássaka}}{{ar-verb (old)|VI|تَمَاسَكَ|tamá:saka}}{{ar-verb (old)|X|اِسْتَمْسَكَ|istámsaka}} :: to take (charge, control, etc.)
+===controversy===
+  كلامٌ (kalām) {m} :: dispute, controversy
 ===controvert===
   جب {{ar-verb (old)|I|جَبّ|jábba}} :: to cancel, to countermand, to controvert, to invalidate, to abrogate, to void, to abort, to rebut
+===conversation===
+  كلامٌ (kalām) {m} :: conversation, speech, talk, language
 ===converse===
   كلم {{ar-verb (old)|II|كلم|kállama}}{{ar-verb (old)|III|كالم|kālama}}{{ar-verb (old)|V|تكلم|takállama}} :: to speak, to talk, to converse
 ===convert===
@@ -11988,6 +12333,11 @@ Index: EN EN->AR
   قَفَص (qáfaṣ) {{ar-noun|g=m|pl=أقفاص|plhead=أَقْفَاص|pltr=aqfāṣ}} :: cage, birdcage, pen, coop
 ===copiously===
   در {{ar-verb (old)|I|دَر{{ar-dia|sha}}|dárra|در}} :: to flow copiously
+===Copt===
+  قبطي (qíbṭī, qúbṭī) {{ar-noun|g=m}} :: Copt
+  القبط (al-qíbṭ, al-qúbṭ) {m}, الاقباط (al-aqbāṭ) {p} :: Copt, the Copts
+===Coptic===
+  قبطي (qíbṭī, qúbṭī) {ar-adj} :: Coptic
 ===copulate===
   جامع (jāmaʿa) {{ar-verb|form=3|impf=يجامع|impftr=yujāmiʿu}} :: to copulate with
 ===copy===
@@ -12067,6 +12417,9 @@ Index: EN EN->AR
   زوج {{ar-verb (old)|II|زوّج|záwwaja}}{{ar-verb (old)|VIII|ازدوج|izdáwaja}} :: to pair, to couple, to join in pairs
   زوج (zawj) {m}, زوجة {f}, ازواج (’azwāj) {p} :: couple, pair
   قطر {{ar-verb (old)|I|قطر|qáṭara}}{{ar-verb (old)|II|قطر|qáṭṭara}}{{ar-verb (old)|V|تقطر|taqáṭṭara}}{{ar-verb (old)|VI|تقاطر|taqāṭara}}{{ar-verb (old)|X|استقطر|istáqṭara}} :: {{vehicles|ships}} to couple, to tow, to tug
+===courageous===
+  ليس {{ar-verb (old)|I|ليس|láyisa}} :: to be valiant, to be brave, to be courageous
+  ليس (līs) {{ar-adj|g=p}} :: valiant, brave, courageous ({plural of|اليس})
 ===course===
   مَذْهَب (máðhab) {{ar-noun|g=m|pl=مذاهب|pltr=maðāhib}} :: course, school
   طريقة (ṭarīqa) {f} (noun), طرائق (ṭarā’iq) {p}, طرق (ṭúruq) {p}طريقة (ṭarīqa) {f} (noun)طريقات{p}طرق{p} :: way, path, method, procedure, course of action
@@ -12095,6 +12448,8 @@ Index: EN EN->AR
   بيت بَيْتٌ (beyt) {m}, بُيُوتٌ (buyūt) {p}, بيوتات (buyutāt) {p}بَيْتٌ{m}أبْيَاتٌ{p} :: box, case, covering, sheath
 ===covet===
   كلب {{ar-verb (old)|I|كلب|káliba}}{{ar-verb (old)|VI|تكالب|takālaba}}{{ar-verb (old)|X|استكلب|istáklaba}} :: to covet greedily
+===covetous===
+  لهم (láhim) :: greedy, covetous, voracious, gluttonous
 ===cow===
   عِجْل (‘ijl) {{ar-noun|pl=عجول|plhead=عُجُول|pltr=‘ujūl}} :: calf, young cow
 ===crab===
@@ -12156,6 +12511,8 @@ Index: EN EN->AR
   قطر {{ar-verb (old)|I|قطر|qáṭara}}{{ar-verb (old)|II|قطر|qáṭṭara}}{{ar-verb (old)|V|تقطر|taqáṭṭara}}{{ar-verb (old)|VI|تقاطر|taqāṭara}}{{ar-verb (old)|X|استقطر|istáqṭara}} :: to come in successive groups, to crowd, to flock, to throng
   ازدحام (izdiħām) {m} :: crowd, rush, jam
   نفر (náfar) {m} (verb), انفار (’anfār) {p} :: band, party, group, troop, herd, coterie, collective, cohort, clique, company, association, society, gang, flock, circle, cabal, squad, community, crowd
+===cruising===
+  دَوّار (dawwār) {{ar-noun|g=m}} :: wandering, cruising, going about
 ===cryptic===
   طلسم طِلّسْم (ṭílasm, ṭíllasm) {m}, طلسمات (ṭilasmāt, ṭillasmāt) {p}, طلاسم (ṭalāsim) {p} :: seal inscribed with cryptic characters or words
   طلسم طِلّسْم (ṭílasm, ṭíllasm) {m}, طلسمات (ṭilasmāt, ṭillasmāt) {p}, طلاسم (ṭalāsim) {p} :: (plural: طلاسم) cryptic characters
@@ -12304,6 +12661,8 @@ Index: EN EN->AR
   مَوْت (mawt) {{ar-noun|g=m}} :: death
   حَمَام (Hamaam) {m} (noun) collective, حمامة (Hamaama, singulative), حمامات (Hamaamaat) {p}, حمائم (Hamaa’im) {p}حِمَام (Himaam) {m} (noun)حَمّام (Hammaam) {m} (noun)حمامات{p} :: death (as a fate)
   بموتي !بموتي (bi-máut-i) :: "by my death!"
+===debate===
+  كلامٌ (kalām) {m} :: discussion, debate
 ===debit===
   حسب {{ar-verb (old)|I|حَسَبَ|Hasaba|حسب|يَحْسَبُ|يحسب}} :: to charge, to debit
   دين (diin) {m} (noun) (dayn) {m} (noun)ديون{p} :: (verbal noun) debt, debit
@@ -12400,6 +12759,7 @@ Index: EN EN->AR
   ما (mā) {ar-adv} :: as far as, to the extent that, to the degree that
 ===deify===
   رب {{ar-verb (old)|I|رب|rábba}}{{ar-verb (old)|II|ربب|rábbaba}} :: to deify, to idolize
+  أَلَّهَ (’állaha) {{ar-verb|form=2}} :: to deify
 ===deism===
   ربوبية رُبُوبِيّة (rububíyya) {f} :: divinity, deity, godhood, divine power, divine nature, Godhead, deism
 ===deity===
@@ -12544,6 +12904,8 @@ Index: EN EN->AR
   كَتَبَ (kátaba) {{ar-verb|form=I|impf=يكتب|impfhead=يَكْتُبُ|impftr=yaktúbu}} :: to foreordain, to destine
 ===destiny===
   قِسْمَة (qísma) {{ar-noun|g=f|pl=قسم|pltr=qísam}} :: lot, destiny, foreordained fate, kismet
+===destroy===
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to consume, to destroy
 ===destroyed===
   ذهب (ḏáhaba) {{ar-verb|form=1|impf=يذهب|impftr=yaḏhabu}} :: to perish, to die, to be destroyed
 ===detached===
@@ -12578,6 +12940,8 @@ Index: EN EN->AR
   إخلاص‎ (’ikhlaaS) {m} (noun) :: sincere devotion, loyal attachment, sincere affection
 ===devour===
   زرد {{ar-verb (old)|I|زرد|zárada}} :: to gulp, to swallow, to devour
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to gormandize, to gobble, to gorge, to devour, to wolf
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to devour, to gobble, to gormandize, to gorge, to wolf, to swallow up
 ===devout===
   دين (dáyyin) {ar-adj} :: religious, pious, godly, God-fearing, devout
 ===devoutness===
@@ -12623,6 +12987,8 @@ Index: EN EN->AR
 ===different===
   مُخْتَلِف (mukhtalif) {ar-adj} :: different
   (Egyptian Arabic) مختلف (mukhtalif) (adjective) :: different
+  غير (ġair) {ar-prep} :: except, other than, different from, unlike
+  غِيرْهُم (ġírhum) {ar-prep} :: except them, other than them, different from them, unlike them
 ===dig===
   فجر (fájara) {{ar-verb|form=I|impf=يفجر}} :: to cleave, to break up, to dig up
 ===dignity===
@@ -12660,6 +13026,8 @@ Index: EN EN->AR
 ===discard===
   طرح {{ar-verb (old)|I|طرح|ṭáraḥa}}{{ar-verb (old)|II|طرّح|ṭárraḥa}}{{ar-verb (old)|III|طارح|ṭāraḥa}}{{ar-verb (old)|V|تطرح|taṭárraḥa}}{{ar-verb (old)|VI|تطارح|taṭāraḥa}}{{ar-verb (old)|VII|انطرح|inṭáraḥa}}{{ar-verb (old)|VIII|اطرح|iṭṭáraḥa}} :: to discard, to throw away, to dump
   طرح {{ar-verb (old)|I|طرح|ṭáraḥa}}{{ar-verb (old)|II|طرّح|ṭárraḥa}}{{ar-verb (old)|III|طارح|ṭāraḥa}}{{ar-verb (old)|V|تطرح|taṭárraḥa}}{{ar-verb (old)|VI|تطارح|taṭāraḥa}}{{ar-verb (old)|VII|انطرح|inṭáraḥa}}{{ar-verb (old)|VIII|اطرح|iṭṭáraḥa}} :: to discard, to throw away
+===discarded===
+  نبيذ (nabīð) {ar-adj} :: cast-off, discarded, rejected, disowned
 ===discern===
   علم {{ar-verb (old)|I|عَلِمَ|ʕálima|علم}}{{ar-verb (old)|II|عَلّمَ|ʕállama|علم}} :: to perceive, to discern, to find out, to learn
 ===discernment===
@@ -12694,6 +13062,7 @@ Index: EN EN->AR
 ===discussion===
   بحث {{ar-verb (old)|I|بحث|báħaθa}}{{ar-verb (old)|III|باحث|bāħaθa}}{{ar-verb (old)|VI|تباحث|tabāħaθa}} :: to have a discussion, to discuss together
   بحث (baħθ) {m}, بحوث (buħūθ) {p}, بحوثات (buħuθāt) {p}, ابحاث (’abħāθ) {p} :: discussion
+  كلامٌ (kalām) {m} :: discussion, debate
 ===disentangle===
   سلك {{ar-verb (old)|I|سلك|sálaka}}{{ar-verb (old)|II|سلك|sállaka}}{{ar-verb (old)|IV|اسلك|’áslaka}} :: to clarify, to unravel, to disentangle
 ===disguise===
@@ -12728,6 +13097,7 @@ Index: EN EN->AR
   طرح {{ar-verb (old)|I|طرح|ṭáraḥa}}{{ar-verb (old)|II|طرّح|ṭárraḥa}}{{ar-verb (old)|III|طارح|ṭāraḥa}}{{ar-verb (old)|V|تطرح|taṭárraḥa}}{{ar-verb (old)|VI|تطارح|taṭāraḥa}}{{ar-verb (old)|VII|انطرح|inṭáraḥa}}{{ar-verb (old)|VIII|اطرح|iṭṭáraḥa}} :: to remove, to expel, to reject, to disown, to repudiate
 ===disowned===
   طرح {{ar-verb (old)|I|طرح|ṭáraḥa}}{{ar-verb (old)|II|طرّح|ṭárraḥa}}{{ar-verb (old)|III|طارح|ṭāraḥa}}{{ar-verb (old)|V|تطرح|taṭárraḥa}}{{ar-verb (old)|VI|تطارح|taṭāraḥa}}{{ar-verb (old)|VII|انطرح|inṭáraḥa}}{{ar-verb (old)|VIII|اطرح|iṭṭáraḥa}} :: to be rejected, to be expelled, to be disowned, to be repudiated
+  نبيذ (nabīð) {ar-adj} :: cast-off, discarded, rejected, disowned
 ===dispatch===
   صدر (ṣáddara) {{ar-verb|form=2|impf=يصدر|impftr=yuṣaddiru}} :: to send, to send off, to dispatch, to forward
   قدم {{ar-verb (old)|II|قَدّمَ|qáddama}} :: to let precede, to make precede, to send ahead, to dispatch
@@ -12743,6 +13113,8 @@ Index: EN EN->AR
   عرق (ʿirq) {{ar-noun|g=m|pl=عروق|pltr=ʿurūq}} :: hereditary disposition
 ===dispossess===
   حرم {{ar-verb (old)|I|حرم|ħáruma}}{{ar-verb (old)|I|حرم|ħárama}}{{ar-verb (old)|II|حرم|ħárrama}}{{ar-verb (old)|IV|احرم|’áħrama}}{{ar-verb (old)|V|تحرم|taħárrama}}{{ar-verb (old)|VIII|تحرم|iħtárama}}{{ar-verb (old)|X|استحرم|istáħrama}} :: to deprive, to dispossess, to divest, to bereave, to withhold, to withdraw, to deny, to refuse
+===dispute===
+  كلامٌ (kalām) {m} :: dispute, controversy
 ===disquiet===
   هم {{ar-verb (old)|I|هم|hámma}}{{ar-verb (old)|IV|أهمّ|’áhamma}}{{ar-verb (old)|VIII|اهتم|ihtámma}} :: to disquiet, to make uneasy, to distress
 ===dissatisfied===
@@ -12814,6 +13186,8 @@ Index: EN EN->AR
 ===divulge===
   شهر {{ar-verb (old)|I|شهر|šáhara}}{{ar-verb (old)|II|شهّر|šáhhara}}{{ar-verb (old)|III|شاهر|šāhara}}{{ar-verb (old)|IV|اشهر|’ášhara}}{{ar-verb (old)|VIII|اشتهر|ištáhara}} :: to spread, to make known, to divulge
   شهر {{ar-verb (old)|I|شهر|šáhara}}{{ar-verb (old)|II|شهّر|šáhhara}}{{ar-verb (old)|III|شاهر|šāhara}}{{ar-verb (old)|IV|اشهر|’ášhara}}{{ar-verb (old)|VIII|اشتهر|ištáhara}} :: to spread, to make known, to divulge
+===dizziness===
+  دوار (duwār, dawār) {{ar-noun|g=m}} :: vertigo, dizziness, giddiness
 ===do===
   بالغ {{ar-verb (old)|III|بالغ|bālağa}} :: to do one’s utmost, to go to the greatest lengths
   عَمِلَ (ʿámila) {{ar-verb|form=I|impf=يعمل|impfhead=يَعْمَلُ|impftr=yáʿmalu}} :: to do {{context|with deliberate thought}}
@@ -13020,6 +13394,8 @@ Index: EN EN->AR
   جُمَادَى الثَانِي (jumá:da l-θá:ni) {{ar-noun|g=m}} :: Jumada II, the sixth of the twelve months of the Muslim lunar calendar, each beginning with a new moon. Jumada II means "second part of parched land" in Arabic.
   خبر {{ar-verb (old)|I|خبر|xábara}}{{ar-verb (old)|II|خبر|xábbara}}{{ar-verb (old)|III|خابر|xābara}}{{ar-verb (old)|IV|اخبر|’áxbara}}{{ar-verb (old)|V|تخبر|taxábbara}}{{ar-verb (old)|VI|تخابر|taxābara}}{{ar-verb (old)|VIII|اختبر|ixtábara}}{{ar-verb (old)|X|استخبر|istáxbara}} :: to write each other, to correspond
   مس {{ar-verb (old)|I|مس|mássa}}{{ar-verb (old)|III|ماس|māsasa, māssa}}{{ar-verb (old)|VI|تماس|tamāsasa, tamāssa}} :: to touch each other, to be in mutual contact
+===eager===
+  غيور (ğayūr) {m}, غير (ğúyur) {p} :: zealous, ardent, fervid, eager
 ===eagle===
   عُقَاب (ʕuqāb) {{ar-noun|g=m|pl=أعقب|plhead=أَعْقُب|pltr=’áʕqub|pl2=عقبان|pl2head=عِقْبَان|pl2tr=ʕiqbān}} :: eagle
   نسر {{ar-verb (old)|V|تنسر|tanássara}}{{ar-verb (old)|X|استنسر|istánsara}} :: to become like an eagle
@@ -13075,6 +13451,8 @@ Index: EN EN->AR
   اِقْتِصاد (iqtiSaad) {{ar-noun|g=m}} :: economy {l|gloss=system of production and distribution}
 ===ed===
   مسك {{ar-verb (old)|I|مَسَكَ|másaka}}{{ar-verb (old)|II|مَسَّكَ|mássaka}}{{ar-verb (old)|IV|أمْسَكَ|’ámsaka}}{{ar-verb (old)|V|تَمَسّكَ|tamássaka}}{{ar-verb (old)|VI|تَمَاسَكَ|tamá:saka}}{{ar-verb (old)|X|اِسْتَمْسَكَ|istámsaka}} :: to hold together, be firmly connected, be interlocked
+===eddy===
+  دَوّار (dawwār) {{ar-noun|g=m}} :: eddy, whirlpool, vortex
 ===Eden===
   فردوس (fírdaus) {{ar-noun|g=f|pl=فراديس}} (farādīs) :: garden, Elysium, Eden, heaven, Heaven, paradise
 ===edge===
@@ -13124,6 +13502,8 @@ Index: EN EN->AR
   مصر {{ar-verb (old)|II|مصر|máSSara}}{{ar-verb (old)|V|تمصر|tamáSSara}} :: to Egyptianize, to become an Egyptian
 ===eid===
   عيد عِيد (ʕīd) {m}, أعيَاد (’aʕyād) :: eid, feast day, festival, holiday
+===Eid===
+  عيدكم مبارك :: pleasant Eid ul-Fitr
 ===eight===
   ٨ (thamánya) :: 8 (eight)
 ===eighteenth===
@@ -13336,6 +13716,8 @@ Index: EN EN->AR
   خمر {{ar-verb (old)|I|خمر|xámara}}{{ar-verb (old)|II|خمّر|xámmara}}{{ar-verb (old)|III|خامر|xāmara}}{{ar-verb (old)|IV|أخمر|’áxmara}}{{ar-verb (old)|V|تخمّر|taxámmara}}{{ar-verb (old)|VI|تخامر|taxāmara}}{{ar-verb (old)|VIII|اختمر|’ixtámara}} :: to harbor, to entertain
 ===enthusiasm===
   حَماس (Hamaas) {{ar-noun|g=m}} :: enthusiasm, zeal, excitement
+===enthusiastic===
+  غيور (ğayūr) {m}, غير (ğúyur) {p} :: very interested, keen, enthusiastic, very concerned
 ===entire===
   تمام (tamām) :: complete, whole, entire, full
 ===entirety===
@@ -13494,6 +13876,9 @@ Index: EN EN->AR
   مثل (máθθala) {{ar-verb|form=2}} :: to quote as example
 ===except===
   إلا (’illā) {ar-prep} :: except, save
+  غِيرْهُم (ġírhum) {ar-prep} :: except them, other than them, different from them, unlike them
+  غير (ġair) {ar-prep} :: except, other than, different from, unlike
+  غير (ġair) {ar-prep} :: except, save, but
   عين (ʕayn) {f}, عَيْنَانِ (ʕeynāni, dual nom.), عَيْنَيْنِ (ʕeynéyni, dual oblique), عُيُون (ʕuyūn, {p}) :: In economics: what has monetary value except money.
 ===exchange===
   طرح {{ar-verb (old)|I|طرح|ṭáraḥa}}{{ar-verb (old)|II|طرّح|ṭárraḥa}}{{ar-verb (old)|III|طارح|ṭāraḥa}}{{ar-verb (old)|V|تطرح|taṭárraḥa}}{{ar-verb (old)|VI|تطارح|taṭāraḥa}}{{ar-verb (old)|VII|انطرح|inṭáraḥa}}{{ar-verb (old)|VIII|اطرح|iṭṭáraḥa}} :: to exchange
@@ -13554,6 +13939,8 @@ Index: EN EN->AR
 ===explore===
   بحث {{ar-verb (old)|I|بحث|báħaθa}}{{ar-verb (old)|III|باحث|bāħaθa}}{{ar-verb (old)|VI|تباحث|tabāħaθa}} :: to investigate, to examine, to study, to explore, to look into
   خبر {{ar-verb (old)|I|خبر|xábara}}{{ar-verb (old)|II|خبر|xábbara}}{{ar-verb (old)|III|خابر|xābara}}{{ar-verb (old)|IV|اخبر|’áxbara}}{{ar-verb (old)|V|تخبر|taxábbara}}{{ar-verb (old)|VI|تخابر|taxābara}}{{ar-verb (old)|VIII|اختبر|ixtábara}}{{ar-verb (old)|X|استخبر|istáxbara}} :: to explore, to search
+===explorer===
+  دَوّار (dawwār) {{ar-noun|g=m}} :: explorer
 ===export===
   صدر (ṣáddara) {{ar-verb|form=2|impf=يصدر|impftr=yuṣaddiru}} :: to export
 ===expose===
@@ -13728,6 +14115,8 @@ Index: EN EN->AR
   طرح {{ar-verb (old)|I|طرح|ṭáraḥa}}{{ar-verb (old)|II|طرّح|ṭárraḥa}}{{ar-verb (old)|III|طارح|ṭāraḥa}}{{ar-verb (old)|V|تطرح|taṭárraḥa}}{{ar-verb (old)|VI|تطارح|taṭāraḥa}}{{ar-verb (old)|VII|انطرح|inṭáraḥa}}{{ar-verb (old)|VIII|اطرح|iṭṭáraḥa}} :: to throw far away, to fling away
 ===farewell===
   مع السلامة (maʕ as-salāma) :: goodbye, farewell (literally, "with safety") (said by the person remaining behind to the one who is leaving)
+===farm===
+  دَوّار (dawwār) {{ar-noun|g=m}} :: {{context|Egypt}} farm building, farm
 ===farriery===
   فروسية (furūsiyya) {f} :: horsemanship, hippology, farriery
 ===Farsi===
@@ -13819,6 +14208,9 @@ Index: EN EN->AR
   الرئيسية (ar-ra’isíyya) {f} :: main, chief, principal, leading, cardinal (definite feminine or definite plural of رئيسي)
     الفضائل الرئيسية — cardinal virtues :: --
     مقالة رئيسية — lead article, editorial :: --
+  ممطرة (mumṭíra) {{ar-adj|g=f}} :: rainy (feminine of ممطر).
+  هُنّ (húnna) {ar-pron} {f|p} :: they (feminine).
+  هن ـهُنّ (-húnna) or ـهِنّ (-hinna) {f|p} :: their, them (feminine bound object pronoun).
 ===feral===
   بربري بَرْبَريّ (bárbari) :: animal, bestial, beastly, brutal, feral
 ===ferment===
@@ -13827,6 +14219,8 @@ Index: EN EN->AR
   خمر {{ar-verb (old)|I|خمر|xámara}}{{ar-verb (old)|II|خمّر|xámmara}}{{ar-verb (old)|III|خامر|xāmara}}{{ar-verb (old)|IV|أخمر|’áxmara}}{{ar-verb (old)|V|تخمّر|taxámmara}}{{ar-verb (old)|VI|تخامر|taxāmara}}{{ar-verb (old)|VIII|اختمر|’ixtámara}} :: to ferment
   خمر {{ar-verb (old)|I|خمر|xámara}}{{ar-verb (old)|II|خمّر|xámmara}}{{ar-verb (old)|III|خامر|xāmara}}{{ar-verb (old)|IV|أخمر|’áxmara}}{{ar-verb (old)|V|تخمّر|taxámmara}}{{ar-verb (old)|VI|تخامر|taxāmara}}{{ar-verb (old)|VIII|اختمر|’ixtámara}} :: to ferment, to rise (of dough)
   خمر {{ar-verb (old)|I|خمر|xámara}}{{ar-verb (old)|II|خمّر|xámmara}}{{ar-verb (old)|III|خامر|xāmara}}{{ar-verb (old)|IV|أخمر|’áxmara}}{{ar-verb (old)|V|تخمّر|taxámmara}}{{ar-verb (old)|VI|تخامر|taxāmara}}{{ar-verb (old)|VIII|اختمر|’ixtámara}} :: to ferment, to rise (of dough)
+===fervid===
+  غيور (ğayūr) {m}, غير (ğúyur) {p} :: zealous, ardent, fervid, eager
 ===festival===
   عيد عِيد (ʕīd) {m}, أعيَاد (’aʕyād) :: eid, feast day, festival, holiday
   موسم مَوْسِم (mawsim) {m}, مواسم (mawāsim) {p} :: festival, holiday
@@ -13902,6 +14296,7 @@ Index: EN EN->AR
   ذنب {{ar-verb (old)|IV|اذنب|’áðnaba}}{{ar-verb (old)|X|استذنب|’istáðnaba}} :: to declare someone guilty, to find someone guilty
   شَعْبَانُ (šaʕbān) {{ar-noun|g=m}} :: Sha'aban, the eighth of the twelve months of the Muslim lunar calendar, each beginning with a new moon. Sha'aban means "scattered" in Arabic, and is the time when ancient people dispersed to find water.
   علم {{ar-verb (old)|I|عَلِمَ|ʕálima|علم}}{{ar-verb (old)|II|عَلّمَ|ʕállama|علم}} :: to perceive, to discern, to find out, to learn
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to ask for inspiration, to ask for advice, to try to find out
 ===fine===
   حَسَن (ħásan) {{ar-adj|g=m|f=حسنة|fhead=حَسَنَة|ftr=ħásana|el=أحسن|elhead=أحْسَن|eltr=ʾaħsan}} :: good, fine, well
   حَسَن (ħásan) {{ar-adj|g=m|f=حسنة|fhead=حَسَنَة|ftr=ħásana|el=أحسن|elhead=أحْسَن|eltr=ʾaħsan}} :: graceful, fine, dainty
@@ -13946,6 +14341,8 @@ Index: EN EN->AR
   (Libyan Arabic) حوت {m} :: fish
 ===fit===
   مس (mass) {{ar-noun|g=m}} :: attack, fit, frenzy
+===Fitr===
+  عيدكم مبارك :: pleasant Eid ul-Fitr
 ===fitting===
   حق {{ar-verb (old)|I|حق|ħáqqa}}{{ar-verb (old)|II|حق|ħáqqa}}{{ar-verb (old)|III|حاق|ħāqqa}}{{ar-verb (old)|IV|احق|’aħáqqa}}{{ar-verb (old)|X|استحق|istaħáqqa}} :: to be adequate, to be suitable, to be appropriate, to be fitting
 ===five===
@@ -14250,6 +14647,11 @@ Index: EN EN->AR
   دقيق (daqīq), دقاق (daqāq), ادقة (adíqqa) :: delicate, fragile, frail
 ===frame===
   مزاج (mazāj) {{ar-noun|g=m|pl=امزجة}} (’ámzija) :: mood, frame of mind, humor
+===France===
+  باريس (bāris) {f} :: Paris, the capital city of France
+  مارسيليا (mārsīlīyā) {{ar-proper noun|g=f}} :: Marseilles, city in France
+  نانسي (nánsi) :: Nancy, city in France
+  فَرَنْسَا (faransā) {{ar-proper noun|g=f}} :: France
 ===frankness===
   إخلاص‎ (’ikhlaaS) {m} (noun) :: sincerity, frankness, candor
 ===fraternal===
@@ -14465,6 +14867,8 @@ Index: EN EN->AR
 ===ghoul===
   اغوال (’ağwāl) :: ghouls ({plural of|غول})
   غول (ğūl) {f}, اغوال (’ağwāl) {p}, غيلان (ğilān) {p} :: ghoul, desert demon
+===giddiness===
+  دوار (duwār, dawār) {{ar-noun|g=m}} :: vertigo, dizziness, giddiness
 ===gift===
   مَنّ (mann) {{ar-noun|g=m}} :: gift, largess
 ===Gilan===
@@ -14532,6 +14936,8 @@ Index: EN EN->AR
 ===glitter===
   برق {{ar-verb (old)|I|برق|báraqa}}{{ar-verb (old)|IV|ابرق|’ábraqa}} :: to shine, to glitter, to sparkle, to flash
   برق {{ar-verb (old)|I|برق|báraqa}}{{ar-verb (old)|IV|ابرق|’ábraqa}} :: to shine, to glitter, to sparkle, to flash
+===globetrotter===
+  دَوّار (dawwār) {{ar-noun|g=m}} :: traveler, nomad, rover, runabout, wanderer, globetrotter
 ===gloomy===
   قطب {{ar-verb (old)|I|قطب|qáṭaba}}{{ar-verb (old)|II|قطب|qáṭṭaba}}{{ar-verb (old)|V|تقطب|taqáṭṭaba}}{{ar-verb (old)|X|استقطب|istáqṭaba}} :: to become gloomy (countenance)
 ===glory===
@@ -14545,6 +14951,8 @@ Index: EN EN->AR
   نور (náur) {m} (collective), نورة (náura) {f} (singulative), أنوار (’anwār) {p}نور{m}نور{m}أنوار{p} :: brightness, gleam, glow
 ===glower===
   قطب {{ar-verb (old)|I|قطب|qáṭaba}}{{ar-verb (old)|II|قطب|qáṭṭaba}}{{ar-verb (old)|V|تقطب|taqáṭṭaba}}{{ar-verb (old)|X|استقطب|istáqṭaba}} :: to scowl, to glower
+===gluttonous===
+  لهم (láhim) :: greedy, covetous, voracious, gluttonous
 ===go===
   ذهب (ḏáhaba) {{ar-verb|form=1|impf=يذهب|impftr=yaḏhabu}} :: to go, to travel
   ذهب (ḏáhaba) {{ar-verb|form=1|impf=يذهب|impftr=yaḏhabu}} :: to go away, to leave, to depart
@@ -14566,9 +14974,13 @@ Index: EN EN->AR
 ===goal===
   هدف {{ar-verb (old)|I|هدف|hádafa}}{{ar-verb (old)|IV|اهدف|’áhdafa}}{{ar-verb (old)|V|تهدف|taháddafa}}{{ar-verb (old)|X|استهدف|istáhdafa}} :: to make one’s goal, to make one’s objective
   هَدَف (hádaf) {{ar-noun|g=m|pl=أهداف|plhead=أَهْدَاف|pltr=’ahdāf}} :: goal
+===gobble===
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to gormandize, to gobble, to gorge, to devour, to wolf
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to devour, to gobble, to gormandize, to gorge, to wolf, to swallow up
 ===goblin===
   غول (ğūl) {f}, اغوال (’ağwāl) {p}, غيلان (ğilān) {p} :: demon, jinn, goblin, sprite
 ===god===
+  إلٰهٌ (’ilāh) {{ar-noun|g=m}}, آلِهَةٌ (’āliha) {p} :: God, god
   لا إله إلا الله محمّد رسول الله (lā ilāhā illā-llāh; muħámmadun rasūlu-llāh) (phrase) :: Literally, There is no god but God; Muhammad is the messenger of God.
     This phrase, called the shahada, or Muslim creed, is the declaration of belief in the oneness of God and in Muhammad as His messenger. Recitation of the shahada is considered one of the five pillars of Islam by Sunni Muslims. By sincerely stating the shahada aloud before two witnesses, one is considered to have converted to Islam. :: --
 ===God===
@@ -14583,6 +14995,7 @@ Index: EN EN->AR
   الله أكبر (’allāhu ’ákbar) :: God is the Greatest
   الرب (ar-rább) {m}, الارباب (al-’arbāb) {p} :: God; Lord
   إن شاء الله (’in šā’ allāh) :: God willing; if it is God’s will, if God wills
+  إلٰهٌ (’ilāh) {{ar-noun|g=m}}, آلِهَةٌ (’āliha) {p} :: God, god
   اسلام إسلام (’islām) {m} :: religious submission to God, piety, Islam
     الإسلام (al-‘islām) — Islam :: --
   سمى {{ar-verb (old)|II|سمى|sámmā}}{{ar-verb (old)|IV|اسمى|’ásmā}}{{ar-verb (old)|V|تسمى|tasámmā}} :: to say بسم الله (in the name of God)
@@ -14596,6 +15009,7 @@ Index: EN EN->AR
   بسم الله (b-ism illāh) :: “in the name of God”
   عبد الله (ʕabd állah) :: {{given name|male}}, Abdullah (literally, servant of God)
   رحم {{ar-verb (old)|I|رحم|ráHima}}{{ar-verb (old)|II|رحّم|ráHHama}} :: to ask God to have mercy (upon), to plead for God’s mercy
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to pray, to turn to God
   رب (rabb) {m}, ارباب (’arbāb) {p} :: master, lord, king, sovereign, potentate, gentleman
     الرب (ar-rább) :: God; Lord
     رب العائلة (rabb al-ʕá’ila) :: paterfamilias
@@ -14611,6 +15025,7 @@ Index: EN EN->AR
   مار (mārr) {{ar-noun|g=m}} :: going on foot
   مَذْهَب (máðhab) {{ar-noun|g=m|pl=مذاهب|pltr=maðāhib}} :: going, leaving, departure
   مار (mārr) {{ar-noun|g=m}} :: going by, walking past, riding past, going across, walking, transient
+  دَوّار (dawwār) {{ar-noun|g=m}} :: wandering, cruising, going about
 ===gold===
   ذهب (ḏáhab) {{ar-noun|g=mf}} :: gold
   ذهب (ḏáhab) {{ar-noun|g=mf}} :: gold coin
@@ -14637,10 +15052,16 @@ Index: EN EN->AR
 ===goods===
   مُلْك (mulk) {{ar-noun|g=m}}مِلْك (milk) {{ar-noun|g=m|pl=أملاك|plhead=أَمْلَاك|pltr=’amlāk}}مَلِك (malik) {{ar-noun|g=m|pl=ملوك|plhead=مُلُوك|pltr=mulūk|pl2=أملاك|pl2head=أَمْلَاك|pl2tr=’amlāk}} :: property, possession, goods and chattels, fortune, wealth
   مال (māl) {{ar-noun|مَال|g=m|pl=أموال|pltr=’amwāl}} :: property, possessions, chattels, goods
+===gorge===
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to gormandize, to gobble, to gorge, to devour, to wolf
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to devour, to gobble, to gormandize, to gorge, to wolf, to swallow up
 ===gorgeous===
   حَسَن (ħásan) {{ar-adj|g=m|f=حسنة|fhead=حَسَنَة|ftr=ħásana|el=أحسن|elhead=أحْسَن|eltr=ʾaħsan}} :: pretty, beautiful, lovely, comely, sightly, shapely, gorgeous, fair
 ===gorgeousness===
   حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: prettiness, beauty, loveliness, shapeliness, comeliness, gorgeousness, pulchritude
+===gormandize===
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to gormandize, to gobble, to gorge, to devour, to wolf
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to devour, to gobble, to gormandize, to gorge, to wolf, to swallow up
 ===gospel===
   الإنجيل (al-’injīl) {m} (noun) :: New Testament (lit., the gospel)
   انجيل إنجيل (’injí:l) {m}, أناجيل (’aná:jil) {p} :: gospel
@@ -14729,6 +15150,7 @@ Index: EN EN->AR
   كلب {{ar-verb (old)|I|كلب|káliba}}{{ar-verb (old)|VI|تكالب|takālaba}}{{ar-verb (old)|X|استكلب|istáklaba}} :: to covet greedily
 ===greedy===
   مُسُك (músuk) {{ar-adj|g=m|pl=مسكة|plhead=مُسَكَة|pltr=músaka}} :: grasping, greedy, avaricious
+  لهم (láhim) :: greedy, covetous, voracious, gluttonous
 ===greet===
   سَلَّمَ (sállama) {{ar-verb|form=2}} :: to greet
 ===greeting===
@@ -14804,6 +15226,10 @@ Index: EN EN->AR
   نفر (náfar) {m} (verb), انفار (’anfār) {p} :: guy, individual, person, gent, persona
 ===Gypsies===
   نور (náur) {m} (collective), نورة (náura) {f} (singulative), أنوار (’anwār) {p}نور{m}نور{m}أنوار{p} :: Gypsies
+===gyrating===
+  دَوّار (dawwār) {ar-adj} :: rotary, gyratory, gyrating, revolving, rotating
+===gyratory===
+  دَوّار (dawwār) {ar-adj} :: rotary, gyratory, gyrating, revolving, rotating
 ===ح===
   ج / ج‍ / ‍ج‍ / ‍ج (jīm) :: The fifth letter of the Arabic alphabet. Its name is جيم (jīm), and is preceded by ث and followed by ح.
   خ / خ‍ / ‍خ‍ / ‍خ (xā’) :: The seventh letter of the Arabic alphabet. It is preceded by ح and followed by د.
@@ -14980,11 +15406,15 @@ Index: EN EN->AR
   عَلَف ('alaf) {ar-noun} :: hay
   حَشيش (Hashiish) {{ar-noun|g=m}} :: grass, hay
 ===he===
+  هُوَ (húwa) {ar-pron} :: he (subject pronoun).
+  (Egyptian Arabic) هو (húwwa) {m} (pronoun), f: هي, pl: هم :: he (subject pronoun)
+  (Tunisian Arabic) هو (huwwa) {m} (pronoun), f: هي, pl: هما :: he (subject pronoun)
   رشد رَشَدَ :: he has gone the right way
   مَن (man) {ar-pron} :: {relative} who, the one who, he who, those who, everyone who
   ياكل (yá:kul) :: (imperfective) he eats, is eating. See آكل (ákala,' 'to eat').
   يكون (yakūn) :: (he) is, that is, which is
   مُتّقُون (muttaqūn) {m|p} (noun) :: The pious believers of Islamic monotheism who fear and love Allah (abstaining from all sin and evil deeds which he has forbidden, while performing all manner of good deeds which he has ordained).
+  يعرفه (yaʕrífuhu) :: he knows it/him, he recognizes it/him. (from the verb عرف, ʕárafa)
 ===head===
   رأس (ráʾasa) {{ar-verb|form=1|II=ء|impf=يرأس|impftr=yarʾasu}} :: to be at the head, to be chairman, to chair, to be in charge, to preside
   رأس (ráʾasa) {{ar-verb|form=1|II=ء|impf=يرأس|impftr=yarʾasu}} :: to head, to lead, to direct, to manage, to run
@@ -15130,6 +15560,7 @@ Index: EN EN->AR
   به (bíhi) :: with him/it, in connection with him/it
   به (bíhi) :: through him/it, by means of him/it
   به (bíhi) :: by him/it
+  يعرفه (yaʕrífuhu) :: he knows it/him, he recognizes it/him. (from the verb عرف, ʕárafa)
 ===hippology===
   فروسية (furūsiyya) {f} :: horsemanship, hippology, farriery
 ===hire===
@@ -15251,6 +15682,8 @@ Index: EN EN->AR
   فروسية (furūsiyya) {f} :: horsemanship, hippology, farriery
 ===horseradish===
   بان بَان (bān) (collective) {m}, بَانَة (bāna) (singulative) {f} :: ben tree, horseradish tree (the Moringa oleifera of Arabia and India, which produces oil of ben)
+===Hospitallers===
+  إسبتارية (isbitārīya) إسبتارية :: The knightly order of the Hospitallers (Knights of St. John or Knights of Rhodes), with whom the Arabs came into close contact at that time.
 ===hot===
   حارّ (ḥārr) :: hot, burning
   (Libyan Arabic) نو نَوّ {m} {f} :: {{context|of the weather}} hot
@@ -15293,6 +15726,9 @@ Index: EN EN->AR
   آدم (ādam) {{ar-noun|g=m}} :: human
   قَلْب (qalb) {{ar-noun|g=m|pl=قلوب|plhead=قُلُوب|pltr=qulūb}} :: heart (the symbolic seat of human emotion)
   نَعْش (naʿš) {{ar-noun|g=}} :: corpse (human)
+  هِيَ (híya) {ar-pron} :: they (subject pronoun, non-human).
+===humidity===
+  رطوبة (rutūba) {f} :: humidity
 ===humor===
   مزاج (mazāj) {{ar-noun|g=m|pl=امزجة}} (’ámzija) :: mood, frame of mind, humor
 ===hurricane===
@@ -15338,6 +15774,7 @@ Index: EN EN->AR
   كَسْلان (kaslaan) {{ar-adj|g=m}}, كسلانة (kaslaana(t)) {f}, كسلى (kaslaa) {f}, كسالى (kasaalaa) {p}, كسلى (kaslaa) {p} :: lazy, idle, slothful, indolent
 ===idolize===
   رب {{ar-verb (old)|I|رب|rábba}}{{ar-verb (old)|II|ربب|rábbaba}} :: to deify, to idolize
+  أَلَّهَ (’állaha) {{ar-verb|form=2}} :: to idolize, to adore
 ===if===
   إلا (’illā) {ar-prep} :: unless, if not
   إن شاء الله (’in šā’ allāh) :: God willing; if it is God’s will, if God wills
@@ -15496,6 +15933,8 @@ Index: EN EN->AR
   أ / ‍أ (ʼa) :: Initial interrogative particle that indicates a yes-or-no question, usually precedes a noun or a pronoun, not a verb or an adjective. It’s written together with the following word as all one letter words.
 ===indicating===
   ذكر :: stating, indicating, naming.
+===indications===
+  إرهاصات (irhaṣāt) {p} :: indications, signs
 ===indigenous===
   بلدي بَلَدِيّ (baladiyy) {m} :: native, indigenous
 ===indirect===
@@ -15612,6 +16051,12 @@ Index: EN EN->AR
   شهد {{ar-verb (old)|I|شهد|šahida}}{{ar-verb (old)|III|شاهد|šāhada}}{{ar-verb (old)|IV|اشهد|’ášhada}}{{ar-verb (old)|X|استشهد|’istášhada}} :: to see (with one’s own eyes), to view, to inspect, to watch, to observe, to witness
 ===inspection===
   نَظَر (náẓar) {{ar-noun|g=m|pl=أنظار|plhead=أنْظَار|pltr=ʾanẓār}} :: inspection, study, perusal
+===inspiration===
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to ask for inspiration, to ask for advice, to try to find out
+===inspire===
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to inspire
+===inspired===
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to be inspired by
 ===installation===
   جهاز (jihāz, jahāz) {{ar-noun|g=m|pl=جهازات|pltr=jihāzāt|pl2=أجهزة|pl2tr=’ájhiza}} :: installation, apparatus
 ===instant===
@@ -15659,6 +16104,8 @@ Index: EN EN->AR
   كعبة (káʕba) {f}, كعبات (kaʕabāt) {p} :: {figuratively} shrine, focus of interest
   هم {{ar-verb (old)|I|هم|hámma}}{{ar-verb (old)|IV|أهمّ|’áhamma}}{{ar-verb (old)|VIII|اهتم|ihtámma}} :: to be of interest
   مشهد (mášhad) {m}, مشاهد (mašāhid) {p} :: scene (of a crime), place of interest, object of interest
+===interested===
+  غيور (ğayūr) {m}, غير (ğúyur) {p} :: very interested, keen, enthusiastic, very concerned
 ===interesting===
   (Egyptian Arabic) مهم (mohimm) (adjective) :: interesting
 ===interfere===
@@ -15703,6 +16150,7 @@ Index: EN EN->AR
   حرم {{ar-verb (old)|I|حرم|ħáruma}}{{ar-verb (old)|I|حرم|ħárama}}{{ar-verb (old)|II|حرم|ħárrama}}{{ar-verb (old)|IV|احرم|’áħrama}}{{ar-verb (old)|V|تحرم|taħárrama}}{{ar-verb (old)|VIII|تحرم|iħtárama}}{{ar-verb (old)|X|استحرم|istáħrama}} :: to enter into the state of ritual consecration (of a pilgrim to Mecca)
   بحث {{ar-verb (old)|I|بحث|báħaθa}}{{ar-verb (old)|III|باحث|bāħaθa}}{{ar-verb (old)|VI|تباحث|tabāħaθa}} :: to investigate, to examine, to study, to explore, to look into
   سلك {{ar-verb (old)|I|سلك|sálaka}}{{ar-verb (old)|II|سلك|sállaka}}{{ar-verb (old)|IV|اسلك|’áslaka}} :: to insert, to stick into
+  إسبتارية (isbitārīya) إسبتارية :: The knightly order of the Hospitallers (Knights of St. John or Knights of Rhodes), with whom the Arabs came into close contact at that time.
 ===intricacy===
   دقيقة (daqīqa) {{ar-noun|g=f|pl=دقائق|pltr=daqā’iq}} :: intricacy
 ===introduce===
@@ -15879,6 +16327,9 @@ Index: EN EN->AR
   إيطالية (’iṭalíyya) {f} :: Italy obsolete
 ===item===
   قَلَم (qálam) {{ar-noun|g=m|pl=أقلام|plhead=أقْلاَم}} (’aqlām) :: (commerce) item, entry
+===itinerant===
+  دَوّار (dawwār) {{ar-noun|g=m}} :: perambulator, itinerant
+  دَوّار (dawwār) {ar-adj} :: roving, itinerant
 ===its===
   ا / ‍ا (’álif)thumb :: Although usually considered to be the first letter of the Arabic alphabet, the small hamza (ء) that sits on top of أ is really the first letter of the Arabic alphabet, and the tall column is its bearer. This entry only deals with the lower part, the bearer, which is called الف (’álif) and, without the hamza, is used to lengthen a preceding vowel, often a. It is followed by ب.
   أ / ‍أ (’álifu hámzatin) :: The first letter of the Arabic alphabet is the small hamza (ء) that sits on top of أ, and the tall column is its bearer. The composite letter is called الف (’álif) and the hamza represents a glottal stop (/ʔ/). (For the pronunciation without hamza, see ا.) It is followed by ب.
@@ -15912,6 +16363,8 @@ Index: EN EN->AR
   اليابان (al-yabān) {ar-proper noun} :: Japan
 ===jaundice===
   صُفْر (ṣufr) {{ar-noun|g=m}}صَفَر (ṣáfar) {{ar-noun|g=m}} :: {medicine} jaundice
+===jealous===
+  غيور (ğayūr) {m}, غير (ğúyur) {p} :: very jealous
 ===Jeddah===
   جدة (jídda) {f}, جدات (jiddāt) {p} :: Jeddah (port city in Saudi Arabia on the Red Sea, purportedly the burial site of Eve)
 ===jenny===
@@ -15946,6 +16399,7 @@ Index: EN EN->AR
   مهمة (mahámma) {f}, مهام (mahámm) {p}مهمة{f}مهمات{p} :: job, task, function, duty
 ===John===
   يوحنا (yūħanna) :: John
+  إسبتارية (isbitārīya) إسبتارية :: The knightly order of the Hospitallers (Knights of St. John or Knights of Rhodes), with whom the Arabs came into close contact at that time.
 ===join===
   عشق عَشَّقَ (ʕaššaqa) :: to join
   زوج {{ar-verb (old)|II|زوّج|záwwaja}}{{ar-verb (old)|VIII|ازدوج|izdáwaja}} :: to pair, to couple, to join in pairs
@@ -16018,6 +16472,8 @@ Index: EN EN->AR
     I was born in a big city. :: --
 ===Kabyle===
   ثاقبايليث (θāqbāylīθ) {ar-proper noun} :: Kabyle (a Northern Berber language of Algeria).
+===keen===
+  غيور (ğayūr) {m}, غير (ğúyur) {p} :: very interested, keen, enthusiastic, very concerned
 ===keep===
   مسك {{ar-verb (old)|I|مَسَكَ|másaka}}{{ar-verb (old)|II|مَسَّكَ|mássaka}}{{ar-verb (old)|IV|أمْسَكَ|’ámsaka}}{{ar-verb (old)|V|تَمَسّكَ|tamássaka}}{{ar-verb (old)|VI|تَمَاسَكَ|tamá:saka}}{{ar-verb (old)|X|اِسْتَمْسَكَ|istámsaka}} :: to keep (the books, accounts, etc.)
   مسك {{ar-verb (old)|I|مَسَكَ|másaka}}{{ar-verb (old)|II|مَسَّكَ|mássaka}}{{ar-verb (old)|IV|أمْسَكَ|’ámsaka}}{{ar-verb (old)|V|تَمَسّكَ|tamássaka}}{{ar-verb (old)|VI|تَمَاسَكَ|tamá:saka}}{{ar-verb (old)|X|اِسْتَمْسَكَ|istámsaka}} :: to hold back, keep, detain, restrain
@@ -16108,6 +16564,10 @@ Index: EN EN->AR
   حِصان (HiSaan) {m} (noun) ({{IPA|/ħisˤaːn/}}), أَحْصِِنة('aHSina(t)) {p}, حِصانِين(HiSaaniin) {p}, حُصُن(HuSun) {p} :: knight (in chess) (plural: حصانين)
 ===knighthood===
   فروسية (furūsiyya) {f} :: chivalry, knighthood
+===knightly===
+  إسبتارية (isbitārīya) إسبتارية :: The knightly order of the Hospitallers (Knights of St. John or Knights of Rhodes), with whom the Arabs came into close contact at that time.
+===Knights===
+  إسبتارية (isbitārīya) إسبتارية :: The knightly order of the Hospitallers (Knights of St. John or Knights of Rhodes), with whom the Arabs came into close contact at that time.
 ===knit===
   قطب {{ar-verb (old)|I|قطب|qáṭaba}}{{ar-verb (old)|II|قطب|qáṭṭaba}}{{ar-verb (old)|V|تقطب|taqáṭṭaba}}{{ar-verb (old)|X|استقطب|istáqṭaba}} :: to knit the eyebrows, to scowl
   قطب {{ar-verb (old)|I|قطب|qáṭaba}}{{ar-verb (old)|II|قطب|qáṭṭaba}}{{ar-verb (old)|V|تقطب|taqáṭṭaba}}{{ar-verb (old)|X|استقطب|istáqṭaba}} :: to knit the brow, to frown
@@ -16121,6 +16581,7 @@ Index: EN EN->AR
   خبر {{ar-verb (old)|I|خبر|xábara}}{{ar-verb (old)|II|خبر|xábbara}}{{ar-verb (old)|III|خابر|xābara}}{{ar-verb (old)|IV|اخبر|’áxbara}}{{ar-verb (old)|V|تخبر|taxábbara}}{{ar-verb (old)|VI|تخابر|taxābara}}{{ar-verb (old)|VIII|اختبر|ixtábara}}{{ar-verb (old)|X|استخبر|istáxbara}} :: to experience, to know by experience, to know well, to know thoroughly
   خبر {{ar-verb (old)|I|خبر|xábara}}{{ar-verb (old)|II|خبر|xábbara}}{{ar-verb (old)|III|خابر|xābara}}{{ar-verb (old)|IV|اخبر|’áxbara}}{{ar-verb (old)|V|تخبر|taxábbara}}{{ar-verb (old)|VI|تخابر|taxābara}}{{ar-verb (old)|VIII|اختبر|ixtábara}}{{ar-verb (old)|X|استخبر|istáxbara}} :: to know well, to know by experience
   قتل (qátala) {{ar-verb|form=1|impf=يقتل|impftr=}} :: to know, to master
+  يعرفه (yaʕrífuhu) :: he knows it/him, he recognizes it/him. (from the verb عرف, ʕárafa)
   الله اعلم (Alláhu áʕlam) :: “God only knows” (literally, “God knows best”...a traditional Arabic expression used when responding to a question to which one does not know the answer).
 ===knowledge===
   أعلم (’áʕlam) :: {{elative of|عالم}}: having more knowledge; more learned.
@@ -16208,6 +16669,7 @@ Index: EN EN->AR
   لِسَان (lisān) {{ar-noun|g=mf|pl=ألسنة|plhead=أَلْسِنَة|pltr=’álsina|pl2=ألسن|pl2head=أَلْسُن|pl2tr=’álsun}} :: language
   ثاقبايليث (θāqbāylīθ) {ar-proper noun} :: Kabyle (a Northern Berber language of Algeria).
   طليق اللسان (ṭalíeq al-lisān) {m} :: vocabulary; fluent language
+  كلامٌ (kalām) {m} :: conversation, speech, talk, language
   إنجليزي إنْجِلِيزِيّ (’ingilīzi) {m}, إنْجِلِيزِيَّةٌ (’ingilizíyya) {f} and {p} :: English language
   العبرية العِبْرِيَّة (al`ibriyyat) :: Hebrew (language)
   (Egyptian Arabic) فارسى (Fārsīyy) {m} (proper noun) :: Persian, Farsi (language)
@@ -16374,6 +16836,8 @@ Index: EN EN->AR
   ا / ‍ا (’álif)thumb :: Although usually considered to be the first letter of the Arabic alphabet, the small hamza (ء) that sits on top of أ is really the first letter of the Arabic alphabet, and the tall column is its bearer. This entry only deals with the lower part, the bearer, which is called الف (’álif) and, without the hamza, is used to lengthen a preceding vowel, often a. It is followed by ب.
 ===lengths===
   بالغ {{ar-verb (old)|III|بالغ|bālağa}} :: to do one’s utmost, to go to the greatest lengths
+===lentil===
+  عَدَس (ʕádas) {{ar-noun|g=m}} :: lentil
 ===Lepidium===
   حرف حُرف (ħurf) {m} :: cress (Lepidium sativum, a garden vegetable)
 ===less===
@@ -16901,6 +17365,7 @@ Index: EN EN->AR
   جب {{ar-verb (old)|I|جَبّ|jábba}} :: to repeal, to abate, to abolish, to frustrate, to make null and void, to call off
   نفر {{ar-verb (old)|I|نفر|náfara}}{{ar-verb (old)|II|نفّر|náffara}}{{ar-verb (old)|III|نافر|nāfara}}{{ar-verb (old)|VI|تنافر|tanāfara}}{{ar-verb (old)|X|استنفر|istánfara}} :: to alienate, to estrange, to deter, to make dissatisfied
   نفر {{ar-verb (old)|I|نفر|náfara}}{{ar-verb (old)|II|نفّر|náffara}}{{ar-verb (old)|III|نافر|nāfara}}{{ar-verb (old)|VI|تنافر|tanāfara}}{{ar-verb (old)|X|استنفر|istánfara}} :: to make averse to, to make disinclined to, to make hateful to, to alienate from, to make someone hate
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to make swallow
 ===maker===
   عامل (ʕāmil) {m}, عوامل (ʕawāmil) {p}عامل{m}عمّال{p} :: maker, producer, manufacturer
 ===makeup===
@@ -16910,6 +17375,8 @@ Index: EN EN->AR
   حَسَن {m} (proper noun) :: Hassan, a male given name.
   جنس (jins) {m}, أجناس (ajnās) {p} :: sex (male or female)
   أحبك (uHíbbuka, uHíbbak) :: I love you (to a male)
+===Mali===
+  باماكو (bāmākū) {f} :: Bamako, the capital city of Mali
 ===mameluke===
   مملوك (mamlúk) {m}, مماليك (mamālik) {p} :: white slave, mameluke
 ===mammalia===
@@ -17006,6 +17473,8 @@ Index: EN EN->AR
   زوج {{ar-verb (old)|II|زوّج|záwwaja}}{{ar-verb (old)|VIII|ازدوج|izdáwaja}} :: to marry off, to give in marriage
 ===Mars===
   مَارِس (māris) {{ar-noun|g=m}} :: Mars (God)
+===Marseilles===
+  مارسيليا (mārsīlīyā) {{ar-proper noun|g=f}} :: Marseilles, city in France
 ===martyr===
   شهيد (šahīd) {m}, شهداء (šuhadā’) {p} :: martyr, someone killed in battle with the infidels.
   شهد {{ar-verb (old)|I|شهد|šahida}}{{ar-verb (old)|III|شاهد|šāhada}}{{ar-verb (old)|IV|اشهد|’ášhada}}{{ar-verb (old)|X|استشهد|’istášhada}} :: (passive, ’úšhida) to be martyred, to die as a martyr
@@ -17021,6 +17490,7 @@ Index: EN EN->AR
   عَجَب (ʕájab) {{ar-noun|g=m|pl=عجاب|plhead=عَجَاب|pltr=ʕajāb}} :: wonder, marvel, astonishment, amazement
 ===masculine===
   ذكر {{ar-verb (old)|I|ذكر|ḏákara}}{{ar-verb (old)|II|ذكّر|ḏákkara}}{{ar-verb (old)|III|ذاكر|ḏākara}}{{ar-verb (old)|IV|أذكر|’áḏkara}}{{ar-verb (old)|V|تذكّر|taḏákkara|تذكر}}{{ar-verb (old)|VI|تذاكر|taḏākara}}{{ar-verb (old)|VIII|اذتكر|iḏḏákara}}{{ar-verb (old)|X|استذكر|istáḏkara}} :: {grammar} to make masculine.
+  ـهُما (-humā) {m|dual} (suffix) :: their, them (masculine bound object pronoun).
 ===mash===
   رب (rubb) {m}, رباب (ribāb) {p}, ربوب (rubūb) {p} :: mash, pulp
 ===Mashghara===
@@ -17243,6 +17713,7 @@ Index: EN EN->AR
 ===milk===
   در دَرّ (darr) {m} :: milk, lactation
   درة (dírra, dárra) {f}, درر (dírar) {p} :: milk
+  للبن لِلّبَنِ (li-l-lábani) :: for the milk
   صرب صَرَبَ :: to leave milk for days in a container until it becomes sour
 ===mill===
   فَرَاش (farāš) {{ar-noun|g=m}} :: mill wheel
@@ -17312,6 +17783,8 @@ Index: EN EN->AR
   فلافل (falaafil) {{ar-noun|g=m}} :: falafel (a dish made of ground broad beans, mixed with various herbs and garlic and deep-fat fried as croquettes)
 ===mixture===
   مزاج (mazāj) {{ar-noun|g=m|pl=امزجة}} (’ámzija) :: mixture, medley, blend
+===ممطر===
+  ممطرة (mumṭíra) {{ar-adj|g=f}} :: rainy (feminine of ممطر).
 ===من===
   سَمِعَ (sámiʿa) {{ar-verb|form=I|impf=يسمع|impfhead=يَسْمَعُ|impftr=yasmaʿu}} :: (with من) to hear from
   سَمِعَ (sámiʿa) {{ar-verb|form=I|impf=يسمع|impfhead=يَسْمَعُ|impftr=yasmaʿu}} :: (with من or ل) to listen to, to pay attention to, to hear someone out
@@ -17336,6 +17809,8 @@ Index: EN EN->AR
   مُحَمَّدٌ (muħámmad) {{ar-proper noun|g=m}} :: {{given name|male}}, variously transliterated as: Muhammad, Mohammed, Mohamed, Muhamed, Mohamet, etc.
 ===Mohammedanism===
   الإسلام (al-ʾislām) {{ar-noun|g=m}} :: Islam, the religious system advocated by Muhammad, Mohammedanism
+===moistness===
+  رطوبة (rutūba) {f} :: moistness
 ===mold===
   سن {{ar-verb (old)|I|سن|sánna}}{{ar-verb (old)|II|سن|sánna}}{{ar-verb (old)|IV|اسن|’ásanna}}{{ar-verb (old)|VIII|استن|istánna}} :: to mold, to shape, to form
   جبل {{ar-verb (old)|I|جبل|jábala}} :: to mold, to form, to shape, to fashion
@@ -17443,6 +17918,8 @@ Index: EN EN->AR
 ===Moroccan===
   (Moroccan Arabic) ڢ / ڢ‍ / ‍ڢ‍ / ‍ڢ (fā’) :: The twentieth letter of the Moroccan Arabic alphabet. It is preceded by غ and followed by ڧ.
   (Moroccan Arabic) ڧ / ڧ‍ / ‍ڧ‍ / ‍ڧ (qāf) :: The twenty-first letter of the Moroccan Arabic alphabet. It is preceded by ڢ and followed by ك.
+  خيزو خيزّو (xizzu) {m} :: (Moroccan) carrot, carrots
+  خزو خزّو (xizzu) {m} :: (Moroccan) carrot, carrots
 ===Morocco===
   المغرب (al-mághrib) {m} :: Morocco
   ملحون (malħūn) :: (Morocco) poetry in colloquial language
@@ -17660,6 +18137,8 @@ Index: EN EN->AR
   سمى سمي (samīy) {m} :: namesake
 ===naming===
   ذكر :: stating, indicating, naming.
+===Nancy===
+  نانسي (nánsi) :: Nancy, city in France
 ===nano===
   قزيمي قُزيمي (quzīmi) :: nano-
 ===narcissism===
@@ -17827,6 +18306,8 @@ Index: EN EN->AR
   اصل {{ar-verb (old)|I|أصل|’áṣula}}{{ar-verb (old)|II|أصل|’áṣṣala}}{{ar-verb (old)|V|تأصل|ta’áṣṣala}}{{ar-verb (old)|X|استأصل|istá’ṣala}} :: to be of noble origin
 ===noisily===
   شجر {{ar-verb (old)|I|شَجَرَ|šájara}}{{ar-verb (old)|II|شَجّرَ|šájjara}}{{ar-verb (old)|III|شَاجَرَ|šājara|شاجر}}{{ar-verb (old)|V|تَشَجّرَ|tašájjara|تشجر}}{{ar-verb (old)|VI|تَشَاجَرَ|tašājara|تشاجر}}{{ar-verb (old)|VIII|اِشْتَجَرَ|ištájara|اشتجر}} :: to argue noisily with
+===nomad===
+  دَوّار (dawwār) {{ar-noun|g=m}} :: traveler, nomad, rover, runabout, wanderer, globetrotter
 ===nominal===
   خَبَر (xábar) {{ar-noun|g=m|pl=أخبار|plhead=أَخْبَار|pltr=’axbār}} :: {grammar} predicate of a nominal clause
 ===nominate===
@@ -17835,6 +18316,10 @@ Index: EN EN->AR
   عين {{ar-verb (old)|II|عيّن|ʕáyyana}} (transitive) :: to appoint, to nominate
 ===nominative===
   حالة الرفع حَالةُ الرّفْع (ħáːlatu al-ráfʕ) {f} :: nominative case
+===non===
+  عجمي (ʕájamī) {m}, اعجام (’aʕjām) {p} :: barbarian, non-Arab
+  عجمي (ʕájamī) {m}, اعجام (’aʕjām) {p} :: barbarian, non-Arab
+  هِيَ (híya) {ar-pron} :: they (subject pronoun, non-human).
 ===noncanonical===
   شاذ (šaðð), شذاذ (šuððāð) {p}, شواذ (šawáðð) {p} :: noncanonical
 ===noon===
@@ -17869,6 +18354,7 @@ Index: EN EN->AR
   لا (lā) {ar-part} :: there is not, there is no
   ما (mā) {ar-part} :: not (dialect only or only for the past tense verb conjugations in Modern Standard Arabic)
   ولا (wa-lā) {ar-con} :: and not
+  ليس لَيْسَ (láysa) :: it is not
   الله اعلم (Alláhu áʕlam) :: “God only knows” (literally, “God knows best”...a traditional Arabic expression used when responding to a question to which one does not know the answer).
   ذُو القَعْدَةِ (ðu l-qáʕda) {{ar-noun|g=m}} :: Dhu al-Qi'dah, the eleventh of the twelve months of the Muslim lunar calendar, each beginning with a new moon. Dhu al-Qi'dah means "master of the truce" in Arabic, and pagan Arabs did not conduct war during this month.
   أ / ‍أ (ʼa) :: Initial interrogative particle that indicates a yes-or-no question, usually precedes a noun or a pronoun, not a verb or an adjective. It’s written together with the following word as all one letter words.
@@ -18065,6 +18551,8 @@ Index: EN EN->AR
     كتابي (kitaabi) :: my book
   حرم (ħirm) {m}حرم{m}احرام{p}حرم{p} :: sacred object, sacred possession
   مشهد (mášhad) {m}, مشاهد (mašāhid) {p} :: scene (of a crime), place of interest, object of interest
+  هن ـهُنّ (-húnna) or ـهِنّ (-hinna) {f|p} :: their, them (feminine bound object pronoun).
+  ـهُما (-humā) {m|dual} (suffix) :: their, them (masculine bound object pronoun).
 ===objective===
   هدف {{ar-verb (old)|I|هدف|hádafa}}{{ar-verb (old)|IV|اهدف|’áhdafa}}{{ar-verb (old)|V|تهدف|taháddafa}}{{ar-verb (old)|X|استهدف|istáhdafa}} :: to make one’s goal, to make one’s objective
   هَدَف (hádaf) {{ar-noun|g=m|pl=أهداف|plhead=أَهْدَاف|pltr=’ahdāf}} :: objective, purpose, design, intention
@@ -18142,6 +18630,7 @@ Index: EN EN->AR
   رحم {{ar-verb (old)|I|رحم|ráHima}}{{ar-verb (old)|II|رحّم|ráHHama}} :: to spare, let off
   جب {{ar-verb (old)|I|جَبّ|jábba}} :: to repeal, to abate, to abolish, to frustrate, to make null and void, to call off
   عَن (ʕan) {ar-prep} :: off, away from
+  نبيذ (nabīð) {ar-adj} :: cast-off, discarded, rejected, disowned
   زوج {{ar-verb (old)|II|زوّج|záwwaja}}{{ar-verb (old)|VIII|ازدوج|izdáwaja}} :: to marry off, to give in marriage
   حرف {{ar-verb (old)|II|حرّف|ħárrafa}}{{ar-verb (old)|V|تحرف|taħárrafa}} :: to turn off, to branch off, to take a turn
   حرف {{ar-verb (old)|II|حرّف|ħárrafa}}{{ar-verb (old)|V|تحرف|taħárrafa}} :: to become bent off, to be distorted, to be perverted
@@ -18290,6 +18779,7 @@ Index: EN EN->AR
   إذن (ʾíđn) {{ar-noun|g=m|pl=اذون|pltr=ʾuđūn|pl2=اذونات|pl2tr=ʾuđunāt}} :: (plural) postal money order
   امر {{ar-verb (old)|I|أمر|’ámara}}{{ar-verb (old)|II|أمر|’ámmara}}{{ar-verb (old)|III|آمر|’āmara}}{{ar-verb (old)|V|تأمر|ta’ámmara}}{{ar-verb (old)|VI|تآمر|ta’āmara}}{{ar-verb (old)|VIII|ائتمر|i’támara}} :: to order, to command, to bid, to instruct
   امر أمر (’amr) {m}, أوامر (’awāmir) {p}أمر{m}أمور{p} :: order, command, instruction
+  إسبتارية (isbitārīya) إسبتارية :: The knightly order of the Hospitallers (Knights of St. John or Knights of Rhodes), with whom the Arabs came into close contact at that time.
   و / ‍و (wāw) :: The sixth letter in traditional abjad order, which is used in place of numerals for list numbering (abjad numerals). It is preceded by ﻫ and followed by ز.
   ر / ‍ر (rā’) :: The twentieth letter in traditional abjad order, which is used in place of numerals for list numbering (abjad numerals). It is preceded by ق and followed by ش.
   ب (number) :: The second letter in traditional abjad order, which is used in place of numerals for list numbering (abjad numerals). It is preceded by أ and followed by ج.
@@ -18361,8 +18851,10 @@ Index: EN EN->AR
   نعامة (naʕāma) {f} (singulative), نعام (naʕām) {m} (collective), نعائم (naʕā’im) {p} :: ostrich
 ===other===
   آخر (’āxar) {m}, اخرى (’úxrā) {f}, اخر (’úxar) {p}, آخرون (’āxarūn) {p}, اخريات (’uxrayāt) {p} :: another, one more, other
+  غير (ġair) {ar-prep} :: except, other than, different from, unlike
   خبر {{ar-verb (old)|I|خبر|xábara}}{{ar-verb (old)|II|خبر|xábbara}}{{ar-verb (old)|III|خابر|xābara}}{{ar-verb (old)|IV|اخبر|’áxbara}}{{ar-verb (old)|V|تخبر|taxábbara}}{{ar-verb (old)|VI|تخابر|taxābara}}{{ar-verb (old)|VIII|اختبر|ixtábara}}{{ar-verb (old)|X|استخبر|istáxbara}} :: to write each other, to correspond
   مس {{ar-verb (old)|I|مس|mássa}}{{ar-verb (old)|III|ماس|māsasa, māssa}}{{ar-verb (old)|VI|تماس|tamāsasa, tamāssa}} :: to touch each other, to be in mutual contact
+  غِيرْهُم (ġírhum) {ar-prep} :: except them, other than them, different from them, unlike them
 ===Ottoman===
   سَر (sar) {{ar-noun|g=m}} :: (in compounds) head, chief
     سردار (sirdār) :: supreme commander; commanding general
@@ -18392,6 +18884,7 @@ Index: EN EN->AR
   اصل {{ar-verb (old)|I|أصل|’áṣula}}{{ar-verb (old)|II|أصل|’áṣṣala}}{{ar-verb (old)|V|تأصل|ta’áṣṣala}}{{ar-verb (old)|X|استأصل|istá’ṣala}} :: to uproot, to root out, to extirpate, to annihilate
   امر {{ar-verb (old)|I|أمر|’ámara}}{{ar-verb (old)|II|أمر|’ámmara}}{{ar-verb (old)|III|آمر|’āmara}}{{ar-verb (old)|V|تأمر|ta’ámmara}}{{ar-verb (old)|VI|تآمر|ta’āmara}}{{ar-verb (old)|VIII|ائتمر|i’támara}} :: to carry out orders
   سَمِعَ (sámiʿa) {{ar-verb|form=I|impf=يسمع|impfhead=يَسْمَعُ|impftr=yasmaʿu}} :: (with من or ل) to listen to, to pay attention to, to hear someone out
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to ask for inspiration, to ask for advice, to try to find out
 ===outer===
   خَارِج (xārij) {ar-adj} :: outer, outside, outward, exterior
     خارجًا (xārijan) — outside, out (adverb) :: --
@@ -18433,6 +18926,8 @@ Index: EN EN->AR
   عندقت (ʕándqet) {ar-proper noun} :: Andket (a Maronite Christian village in northern Lebanon, over 1500 years old.)
 ===overall===
   مُحِيطٌ (muḥīṭ) {{ar-adj|g=m}} :: overall
+===overcast===
+  غائم (ğā’im) :: cloudy, overcast, clouded
 ===overcome===
   ظهر {{ar-verb (old)|I|ظهر|ẓáhara}}{{ar-verb (old)|II|ظهر|ẓáhhara}}{{ar-verb (old)|III|ظاهر|ẓāhara}}{{ar-verb (old)|IV|اظهر|’áẓhara}}{{ar-verb (old)|VI|تظاهر|taẓāhara}}{{ar-verb (old)|X|استظهر|istáẓhara}} :: to overcome, to surmount, to conquer, to vanquish
   حج {{ar-verb (old)|I|حج|Hájja}} :: to overcome, defeat (with arguments, evidence, etc.)
@@ -18531,6 +19026,8 @@ Index: EN EN->AR
 ===pare===
   قط {{ar-verb (old)|I|قط|qáṭṭa}} :: to cut, to trim, to clip, to pare
   قلم {{ar-verb (old)|I|قَلَمَ|qálama}}{{ar-verb (old)|II|قلّم|qállama}} :: to cut, to clip, to pare, to prune, to trim, to lop, to truncate, to snip, to cut back, to cut down
+===Paris===
+  باريس (bāris) {f} :: Paris, the capital city of France
 ===park===
   وقف (wáqqafa) {{ar-verb|form=2|I=و|impf=يوقف|impftr=yuwáqqifu}} :: to park (a car)
 ===parley===
@@ -18698,6 +19195,8 @@ Index: EN EN->AR
     ام الناس :: to lead the people
 ===pepper===
   فِلْفِل (filfil) {{ar-noun|g=m}} :: pepper
+===perambulator===
+  دَوّار (dawwār) {{ar-noun|g=m}} :: perambulator, itinerant
 ===perceive===
   علم {{ar-verb (old)|I|عَلِمَ|ʕálima|علم}}{{ar-verb (old)|II|عَلّمَ|ʕállama|علم}} :: to perceive, to discern, to find out, to learn
   شعر {{ar-verb (old)|I|شعر|šáʕara}}{{ar-verb (old)|IV|اشعر|’ášʕara}}{{ar-verb (old)|X|استشعر|istášʕara}} :: to perceive, to feel, to sense
@@ -18789,6 +19288,8 @@ Index: EN EN->AR
   نَسْتَعْلِيق (nastaʕlīq) {m} (noun) :: Nastaliq, nastaleeq or Nastaʿlīq: A style of Arabic calligraphy or font, most popular for the Urdu and Persian languages.
   فارسي (fársi) {{ar-proper noun|g=m}} :: the Persian language
   فارسي (fársi) {{ar-adj|g=m|f=فارسية|ftr=farsiyya}} :: Persian
+  عجمي (ʕájamī) {m}, اعجام (’aʕjām) {p} :: Persian
+  عجمي (ʕájamī) {m}, اعجام (’aʕjām) {p} :: Persian
 ===persist===
   مسك {{ar-verb (old)|I|مَسَكَ|másaka}}{{ar-verb (old)|II|مَسَّكَ|mássaka}}{{ar-verb (old)|IV|أمْسَكَ|’ámsaka}}{{ar-verb (old)|V|تَمَسّكَ|tamássaka}}{{ar-verb (old)|VI|تَمَاسَكَ|tamá:saka}}{{ar-verb (old)|X|اِسْتَمْسَكَ|istámsaka}} :: to hang on, persist
 ===persona===
@@ -18833,6 +19334,8 @@ Index: EN EN->AR
   فلسفة (fálsafa) {f} :: philosophy
 ===photon===
   فُوتُون (fuutun) {{ar-noun|g=m}} :: photon
+===phrase===
+  كلامٌ (kalām) {m} :: sentence, clause, phrase
 ===physical===
   مزاج (mazāj) {{ar-noun|g=m|pl=امزجة}} (’ámzija) :: physical condition, state of health
   حركة (ḥáraka) {f}, حركات (ḥarakāt) {p} :: physical exercise
@@ -18976,6 +19479,7 @@ Index: EN EN->AR
   رحم {{ar-verb (old)|I|رحم|ráHima}}{{ar-verb (old)|II|رحّم|ráHHama}} :: to ask God to have mercy (upon), to plead for God’s mercy
 ===pleasant===
   حَسَن (ħásan) {{ar-adj|g=m|f=حسنة|fhead=حَسَنَة|ftr=ħásana|el=أحسن|elhead=أحْسَن|eltr=ʾaħsan}} :: agreeable, pleasant, nice, well-favored
+  عيدكم مبارك :: pleasant Eid ul-Fitr
 ===please===
   سر {{ar-verb (old)|I|سر|sárra}}{{ar-verb (old)|II|سرر|sárrara}}{{ar-verb (old)|III|سار|sārra}}{{ar-verb (old)|IV|اسر|’asárra}}{{ar-verb (old)|V|تسرى|tasarrā}}{{ar-verb (old)|X|استسر|istasárra}} :: to give pleasure to, to gratify, to content, to please, to satisfy
 ===pleasure===
@@ -19130,6 +19634,8 @@ Index: EN EN->AR
     الحمد لله (al-ħámdu-li-llāh) :: praise God
 ===praiseworthy===
   محمّد (muħámmad) {ar-adj} :: commendable, laudable, praised, praiseworthy.
+===pray===
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to pray, to turn to God
 ===prayer===
   ظَهْر (ẓahr) {{ar-noun|g=m}}, ظهور (ẓuhūr) {p}, اظهر (’áẓhur) {p}, ظهورات (ẓuhurāt) {p}ظُهْر (ẓuhr) {{ar-noun|g=m|pl=أظهار|plhead=أظْهَار|pltr=’aẓhār}} :: {{context|islam}} midday prayer
   صلاة (ṣalāt) {{ar-noun|g=f|pl=صلوات}} (ṣalawāt) :: prayer
@@ -19398,6 +19904,15 @@ Index: EN EN->AR
   (Egyptian Arabic) ي (-ii) (pronoun) :: me, my (bound object pronoun)
     لي (liyya) :: to me
     كتابي (kitaabi) :: my book
+  هُوَ (húwa) {ar-pron} :: he (subject pronoun).
+  (Egyptian Arabic) هو (húwwa) {m} (pronoun), f: هي, pl: هم :: he (subject pronoun)
+  (Tunisian Arabic) هو (huwwa) {m} (pronoun), f: هي, pl: هما :: he (subject pronoun)
+  هِيَ (híya) {ar-pron} :: she (subject pronoun).
+  هِيَ (híya) {ar-pron} :: they (subject pronoun, non-human).
+  (Egyptian Arabic) هي (híyya) {f} (pronoun), m: هو, pl: هم :: she (subject pronoun)
+  (Tunisian Arabic) هي (hiyya) {f} (pronoun), m: هو, pl: هما :: she (subject pronoun)
+  هن ـهُنّ (-húnna) or ـهِنّ (-hinna) {f|p} :: their, them (feminine bound object pronoun).
+  ـهُما (-humā) {m|dual} (suffix) :: their, them (masculine bound object pronoun).
 ===pronouncement===
   اعراب (iʕrāb) {m}اعراب{p} :: manifestation, declaration, proclamation, pronouncement, utterance
 ===pronunciation===
@@ -19633,6 +20148,13 @@ Index: EN EN->AR
   قطر (qaṭr) {m} (collective), قطرة (qáṭra) {f} (singulative), قطار (qiṫār) {p} :: (plural) drops, dribblets; rain
 ===rainbow===
   قَوس قُزَحَ (qaus qúzaħa) {{ar-noun|g=m|pl=اقواس قزح|pltr=’aqwās qúzaħa}} :: rainbow
+===raincoat===
+  ممطر (mímṭar) {m}, مماطر (mamāṭir) {p} :: raincoat
+  ممطرة (mimṭára) {{ar-noun|g=f}}, مماطر (mamāṭir) {p} :: raincoat
+===rainy===
+  ماطر (māʈir) :: rainy
+  ممطر (múmṭir) {m}, ممطرة (mumṭíra) {f} :: rainy
+  ممطرة (mumṭíra) {{ar-adj|g=f}} :: rainy (feminine of ممطر).
 ===raise===
   وقف (wáqqafa) {{ar-verb|form=2|I=و|impf=يوقف|impftr=yuwáqqifu}} :: to erect, to raise
   رب {{ar-verb (old)|I|رب|rábba}}{{ar-verb (old)|II|ربب|rábbaba}} :: to be raise, to bring up, to rear
@@ -19739,6 +20261,7 @@ Index: EN EN->AR
   حَسْب (ħasb) {{ar-noun|g=m}}حَسَب (ħásab) {{ar-noun|g=m|pl=أحساب|plhead=أَحْسَاب|pltr=’aħsāb}} :: reckoning, calculation, computing
 ===recognize===
   حق {{ar-verb (old)|I|حق|ħáqqa}}{{ar-verb (old)|II|حق|ħáqqa}}{{ar-verb (old)|III|حاق|ħāqqa}}{{ar-verb (old)|IV|احق|’aħáqqa}}{{ar-verb (old)|X|استحق|istaħáqqa}} :: to recognize, to identify
+  يعرفه (yaʕrífuhu) :: he knows it/him, he recognizes it/him. (from the verb عرف, ʕárafa)
 ===recoil===
   نفر {{ar-verb (old)|I|نفر|náfara}}{{ar-verb (old)|II|نفّر|náffara}}{{ar-verb (old)|III|نافر|nāfara}}{{ar-verb (old)|VI|تنافر|tanāfara}}{{ar-verb (old)|X|استنفر|istánfara}} :: to break loose, to recoil, to slip away, to free oneself, to get free, to break away, to free
 ===recollection===
@@ -19814,6 +20337,7 @@ Index: EN EN->AR
   طرح {{ar-verb (old)|I|طرح|ṭáraḥa}}{{ar-verb (old)|II|طرّح|ṭárraḥa}}{{ar-verb (old)|III|طارح|ṭāraḥa}}{{ar-verb (old)|V|تطرح|taṭárraḥa}}{{ar-verb (old)|VI|تطارح|taṭāraḥa}}{{ar-verb (old)|VII|انطرح|inṭáraḥa}}{{ar-verb (old)|VIII|اطرح|iṭṭáraḥa}} :: to remove, to expel, to reject, to disown, to repudiate
 ===rejected===
   طرح {{ar-verb (old)|I|طرح|ṭáraḥa}}{{ar-verb (old)|II|طرّح|ṭárraḥa}}{{ar-verb (old)|III|طارح|ṭāraḥa}}{{ar-verb (old)|V|تطرح|taṭárraḥa}}{{ar-verb (old)|VI|تطارح|taṭāraḥa}}{{ar-verb (old)|VII|انطرح|inṭáraḥa}}{{ar-verb (old)|VIII|اطرح|iṭṭáraḥa}} :: to be rejected, to be expelled, to be disowned, to be repudiated
+  نبيذ (nabīð) {ar-adj} :: cast-off, discarded, rejected, disowned
 ===rejection===
   طَرْح (ṭarḥ) {{ar-noun|g=m}}طِرْح (ṭirḥ) {{ar-noun|g=m}}طُرَح(ṭúraḥ){p} :: expulsion, rejection, repulsion, banishment, repudiation
 ===relate===
@@ -19855,6 +20379,8 @@ Index: EN EN->AR
   رصيد (raṣīd) {m}, ارصدة (’árṣida) {p} :: remainder to be paid at a later date
 ===remaining===
   مع السلامة (maʕ as-salāma) :: goodbye, farewell (literally, "with safety") (said by the person remaining behind to the one who is leaving)
+===remark===
+  كلامٌ (kalām) {m} :: statement, remark
 ===remarkable===
   بارز (bāriz) :: remarkable
 ===remember===
@@ -20031,10 +20557,14 @@ Index: EN EN->AR
   جب {{ar-verb (old)|I|جَبّ|jábba}} :: to nullify, to negate, to rescind, to revoke, to refute, to neutralize
 ===revolve===
   دور {{ar-verb (old)|II|دور|dáwwara}} :: to turn in a circle, to spin, to whirl, to revolve, to rotate
+===revolving===
+  دَوّار (dawwār) {ar-adj} :: rotary, gyratory, gyrating, revolving, rotating
 ===reward===
   جزاء (jazā’) :: reward, recompense, retribution
 ===rhetorical===
   مَعْنَى (máʕnā) {{ar-noun|g=m|pl=معاني}} :: rhetorical expression, figurative expression
+===Rhodes===
+  إسبتارية (isbitārīya) إسبتارية :: The knightly order of the Hospitallers (Knights of St. John or Knights of Rhodes), with whom the Arabs came into close contact at that time.
 ===rial===
   ﷼ (riyāl) {{ar-noun|g=m|pl=ريالات}} :: rial (the symbol for the official currency of Oman and Yemen).
   ريال (riyāl) {{ar-noun|g=m|pl=ريالات|pltr=riyalāt}} :: rial (the official currency of Oman and Yemen).
@@ -20145,10 +20675,22 @@ Index: EN EN->AR
 ===rope===
   سَبَب (sábab) {{ar-noun|g=m|pl=أسباب|plhead=أسْبَاب|pltr=’asbāb}} :: rope
   حبل (ħabl) (noun), m, حبال (ħibāl) {p}, احبل (’áħbul) {p}, حبول (ħubūl) {p}, احبال (’aħbāl) {p} :: rope, cable, hawser
+===rotary===
+  دَوّار (dawwār) {ar-adj} :: rotary, gyratory, gyrating, revolving, rotating
 ===rotate===
   دور {{ar-verb (old)|II|دور|dáwwara}} :: to turn in a circle, to spin, to whirl, to revolve, to rotate
+===rotating===
+  دَوّار (dawwār) {ar-adj} :: rotary, gyratory, gyrating, revolving, rotating
+===rotator===
+  دَوّار (dawwār) {{ar-noun|g=m}} :: rotor, rotator
+===rotor===
+  دَوّار (dawwār) {{ar-noun|g=m}} :: rotor, rotator
 ===round===
   دور {{ar-verb (old)|II|دور|dáwwara}} :: to turn into a circle, to make round
+===rover===
+  دَوّار (dawwār) {{ar-noun|g=m}} :: traveler, nomad, rover, runabout, wanderer, globetrotter
+===roving===
+  دَوّار (dawwār) {ar-adj} :: roving, itinerant
 ===royalty===
   مُلْك (mulk) {{ar-noun|g=m}}مِلْك (milk) {{ar-noun|g=m|pl=أملاك|plhead=أَمْلَاك|pltr=’amlāk}}مَلِك (malik) {{ar-noun|g=m|pl=ملوك|plhead=مُلُوك|pltr=mulūk|pl2=أملاك|pl2head=أَمْلَاك|pl2tr=’amlāk}} :: sovereignty, kingship, royalty
 ===rub===
@@ -20174,6 +20716,8 @@ Index: EN EN->AR
   ابد {{ar-verb (old)|I|ابد|’ábada}}{{ar-verb (old)|II|ابد|’ábbada}}{{ar-verb (old)|V|تأبد|ta’ábbada}} :: to roam in the wilderness, to run wild
   شغل {{ar-verb (old)|I|شغل|šáğala}}{{ar-verb (old)|II|شغل|šáğğala}}{{ar-verb (old)|III|شاغل|šāğala}}{{ar-verb (old)|IV|اشغل|’ášğala}}{{ar-verb (old)|VI|تشاغل|tašāğala}}{{ar-verb (old)|VII|انشغل|inšáğala}}{{ar-verb (old)|VIII|اشتغل|ištáğala}} :: to operate, to run
   نفر {{ar-verb (old)|I|نفر|náfara}}{{ar-verb (old)|II|نفّر|náffara}}{{ar-verb (old)|III|نافر|nāfara}}{{ar-verb (old)|VI|تنافر|tanāfara}}{{ar-verb (old)|X|استنفر|istánfara}} :: to flee, to run away, to turn tail, to scamper, to abscond, to get away, to escape
+===runabout===
+  دَوّار (dawwār) {{ar-noun|g=m}} :: traveler, nomad, rover, runabout, wanderer, globetrotter
 ===rural===
   بلدية بَلَدِيَّة (baladíyya) {f}, بلديات (baladiyāt) {p} :: township, rural community
 ===rush===
@@ -20319,12 +20863,15 @@ Index: EN EN->AR
 ===save===
   إلا (’illā) {ar-prep} :: except, save
   رحم {{ar-verb (old)|I|رحم|ráHima}}{{ar-verb (old)|II|رحّم|ráHHama}} :: to save, relieve
+  غير (ġair) {ar-prep} :: except, save, but
 ===SAW===
   صلى الله عليه وسلم (ṣállā Allāhu ʕaláyhi wa sállam) :: {{Islam|eulogy}} "peace be upon him" (following mention of the Prophet Muhammad); abbreviated as SAW, or (in English) PBUH.
   ﷺ <big>ﷺ</big> (ṣállā Allāhu ʕaláyhi wa sállam) :: {{Islam|eulogy}} "peace be upon him" (following mention of the Prophet Muhammad); abbreviated SAW or, in English, PBUH.
 ===say===
   كلم {{ar-verb (old)|II|كلم|kállama}}{{ar-verb (old)|III|كالم|kālama}}{{ar-verb (old)|V|تكلم|takállama}} :: to utter, to express, to voice, to say
   سمى {{ar-verb (old)|II|سمى|sámmā}}{{ar-verb (old)|IV|اسمى|’ásmā}}{{ar-verb (old)|V|تسمى|tasámmā}} :: to say بسم الله (in the name of God)
+===saying===
+  كلامٌ (kalām) {m} :: words, word, saying
 ===sayings===
   سُنَّة (súnna) {{ar-noun|g=f|pl=سنن|pltr=súnan}} :: {Islam} habitual practice, customary procedure, norm
     سنة النبي (súnnat an-nabiy) :: the Sunna of the Prophet (his sayings and deeds)
@@ -20432,6 +20979,8 @@ Index: EN EN->AR
   بحث {{ar-verb (old)|I|بحث|báħaθa}}{{ar-verb (old)|III|باحث|bāħaθa}}{{ar-verb (old)|VI|تباحث|tabāħaθa}} :: to look for, to search, to seek
   بحث (baħθ) {m}, بحوث (buħūθ) {p}, بحوثات (buħuθāt) {p}, ابحاث (’abħāθ) {p} :: search, quest
   خبر {{ar-verb (old)|I|خبر|xábara}}{{ar-verb (old)|II|خبر|xábbara}}{{ar-verb (old)|III|خابر|xābara}}{{ar-verb (old)|IV|اخبر|’áxbara}}{{ar-verb (old)|V|تخبر|taxábbara}}{{ar-verb (old)|VI|تخابر|taxābara}}{{ar-verb (old)|VIII|اختبر|ixtábara}}{{ar-verb (old)|X|استخبر|istáxbara}} :: to explore, to search
+===seasickness===
+  دوار (duwār, dawār) {{ar-noun|g=m}} :: seasickness
 ===season===
   موسم مَوْسِم (mawsim) {m}, مواسم (mawāsim) {p} :: season
   فَصْل (faṣl) {{ar-noun|g=m|pl=فصول|plhead=فُصُول|pltr=fuṣūl}} :: season
@@ -20545,6 +21094,8 @@ Index: EN EN->AR
   صبح {{ar-verb (old)|I|صَبَحَ|ṣábaḥa}}{{ar-verb (old)|I|صَبُحَ|ṣábuḥa}}{{ar-verb (old)|II|صَبَّحَ|ṣábbaḥa}}{{ar-verb (old)|III|صَابَحَ|ṣābaḥa}}{{ar-verb (old)|IV|أصْبَحَ|’áṣbaḥa}}{{ar-verb (old)|VIII|اصْطَبَحَ|iṣṭábaḥa}}{{ar-verb (old)|X|اسْتَصْبَحَ|istáṣbaḥa}} :: to be in one’s senses
 ===sensitive===
   هدف {{ar-verb (old)|I|هدف|hádafa}}{{ar-verb (old)|IV|اهدف|’áhdafa}}{{ar-verb (old)|V|تهدف|taháddafa}}{{ar-verb (old)|X|استهدف|istáhdafa}} :: to be susceptible, to be sensitive
+===sentence===
+  كلامٌ (kalām) {m} :: sentence, clause, phrase
 ===sentiment===
   عرب {{ar-verb (old)|II|عَرّبَ|{LR}3arraba}}{{ar-verb (old)|IV|أعرب|'á3raba}}{{ar-verb (old)|V|تعرب|ta3árraba}}{{ar-verb (old)|X|استعرب|istá3raba}} :: to give to understand, to give expression to a sentiment.
   اعراب (iʕrāb) {m}اعراب{p} :: expression (of a sentiment)
@@ -20654,6 +21205,9 @@ Index: EN EN->AR
 ===Shawwal===
   شَوّالٌ (šáwwal) {{ar-noun|g=m}} :: Shawwal, the tenth of the twelve months of the Muslim lunar calendar, each beginning with a new moon. Shawwal means raised in Arabic, because the she-camels begin to raise their tails during this time after giving birth.
 ===she===
+  هِيَ (híya) {ar-pron} :: she (subject pronoun).
+  (Egyptian Arabic) هي (híyya) {f} (pronoun), m: هو, pl: هم :: she (subject pronoun)
+  (Tunisian Arabic) هي (hiyya) {f} (pronoun), m: هو, pl: هما :: she (subject pronoun)
   شَوّالٌ (šáwwal) {{ar-noun|g=m}} :: Shawwal, the tenth of the twelve months of the Muslim lunar calendar, each beginning with a new moon. Shawwal means raised in Arabic, because the she-camels begin to raise their tails during this time after giving birth.
   اتان أتُانٌ (’atān) {f}, آتُن (’ātun) {p}, أتُن (’útun, ’utn) {p} :: she ass, female donkey, jenny
 ===sheath===
@@ -20775,6 +21329,8 @@ Index: EN EN->AR
   مُوَقّع (muwáqqiʕ) {{ar-noun|g=m}} :: signing
 ===signpost===
   مُعَلِّم (muʕállim) {{ar-noun|g=m}}, مُعَلّمُون (muʕallimūn) {p}مَعْلَم (máʕlam) {{ar-noun|g=m}}مَعَالِم{p}مُعْلِم (múʕlim) {{ar-noun|g=m}} :: road sign, signpost, guidepost
+===signs===
+  إرهاصات (irhaṣāt) {p} :: indications, signs
 ===silence===
   صَمَّتَ (ṣámmata) {{ar-verb|form=II}} :: to silence
   صَمْت (ṣamt) {{ar-noun|g=m}} :: silence
@@ -21061,6 +21617,8 @@ Index: EN EN->AR
   كلم {{ar-verb (old)|II|كلم|kállama}}{{ar-verb (old)|III|كالم|kālama}}{{ar-verb (old)|V|تكلم|takállama}} :: to speak, to talk, to converse
   كلم {{ar-verb (old)|II|كلم|kállama}}{{ar-verb (old)|III|كالم|kālama}}{{ar-verb (old)|V|تكلم|takállama}} :: to speak, to talk
   ذكر {{ar-verb (old)|I|ذكر|ḏákara}}{{ar-verb (old)|II|ذكّر|ḏákkara}}{{ar-verb (old)|III|ذاكر|ḏākara}}{{ar-verb (old)|IV|أذكر|’áḏkara}}{{ar-verb (old)|V|تذكّر|taḏákkara|تذكر}}{{ar-verb (old)|VI|تذاكر|taḏākara}}{{ar-verb (old)|VIII|اذتكر|iḏḏákara}}{{ar-verb (old)|X|استذكر|istáḏkara}} :: to speak, to talk.
+===speaking===
+  كلامٌ (kalām) {m} :: talking, speaking
 ===special===
   خاصّ (xaṣṣ) {ar-adj} :: special
 ===species===
@@ -21081,6 +21639,8 @@ Index: EN EN->AR
   قمر {{ar-verb (old)|I|قَمَرَ|qámara}}{{ar-verb (old)|I|قَمِرَ|qámira}}{{ar-verb (old)|II|قمّر|qámmara}}{{ar-verb (old)|III|قَامَرَ|qāmara}}{{ar-verb (old)|IV|اقْمَرَ|’áqmara}}{{ar-verb (old)|VI|تَقَامَرَ|taqāmara}} :: to bet on, speculate on
 ===speculum===
   مِنْظار (minẓār) {{ar-noun|g=m|pl=مناظير}} (manāẓir) :: mirror, speculum
+===speech===
+  كلامٌ (kalām) {m} :: conversation, speech, talk, language
 ===spell===
   فقط {{ar-verb (old)|II|فقط|fáqqaṭa}} :: to spell out the numbers on an invoice.
 ===spellbind===
@@ -21108,6 +21668,7 @@ Index: EN EN->AR
   برج (burj) (noun), dual: برجان (burjān), plural: بروج (burūj) or ابراج (’abrāj) :: spire
 ===spirits===
   خمر (xamr) {m|f}, خمور (xumūr) {p} :: (plural) alcoholic beverages, liquor, spirits
+  كحول (kuħūl) {m} :: alcohol, spirits
 ===spiritual===
   شيخ (šeykh) {m}, شيوخ (šuyūkh) {p}, اشياخ (ašyākh) {p}, مشيخة (mašyákha) {p}, مشايخ (mašāyikh) {p}, مشائخ (mašā’ikh) {p} :: (title of professors and spiritual leaders) sheik, Dr., professor
 ===Spiritual===
@@ -21165,6 +21726,8 @@ Index: EN EN->AR
 ===squirrel===
   سنجاب (sinjāb) {{ar-noun|g=m}} :: gray squirrel
   سنجاب (sinjāb) {{ar-noun|g=m}} :: fur of the gray squirrel
+===St===
+  إسبتارية (isbitārīya) إسبتارية :: The knightly order of the Hospitallers (Knights of St. John or Knights of Rhodes), with whom the Arabs came into close contact at that time.
 ===stable===
   ثَابِت (thābit) {ar-adj} :: stable
 ===staff===
@@ -21223,6 +21786,7 @@ Index: EN EN->AR
   حرم {{ar-verb (old)|I|حرم|ħáruma}}{{ar-verb (old)|I|حرم|ħárama}}{{ar-verb (old)|II|حرم|ħárrama}}{{ar-verb (old)|IV|احرم|’áħrama}}{{ar-verb (old)|V|تحرم|taħárrama}}{{ar-verb (old)|VIII|تحرم|iħtárama}}{{ar-verb (old)|X|استحرم|istáħrama}} :: to enter into the state of ritual consecration (of a pilgrim to Mecca)
 ===statement===
   شَهَادَة (šahāda) {{ar-noun|g=f|pl=شهادات|plhead=شَهَادَات|pltr=šahadāt}} :: statement
+  كلامٌ (kalām) {m} :: statement, remark
 ===States===
   الولايات المتحدة (al-wilayāt al-muttáḥida) {ar-proper noun} {f} {p} :: United States
   الولايات المتحدة الأمريكية (al-wilayāt al-muttáḥidat al-ʾamrikíyya) {ar-proper noun} {f}, {p} :: United States of America
@@ -21418,6 +21982,13 @@ Index: EN EN->AR
 ===subject===
   أنَا (ʾána) {ar-pron}ـنِيـِي :: I (subject pronoun).
   (Egyptian Arabic) انتوا (íntu) {p} (pronoun) :: you (subject pronoun)
+  هُوَ (húwa) {ar-pron} :: he (subject pronoun).
+  (Egyptian Arabic) هو (húwwa) {m} (pronoun), f: هي, pl: هم :: he (subject pronoun)
+  (Tunisian Arabic) هو (huwwa) {m} (pronoun), f: هي, pl: هما :: he (subject pronoun)
+  هِيَ (híya) {ar-pron} :: she (subject pronoun).
+  هِيَ (híya) {ar-pron} :: they (subject pronoun, non-human).
+  (Egyptian Arabic) هي (híyya) {f} (pronoun), m: هو, pl: هم :: she (subject pronoun)
+  (Tunisian Arabic) هي (hiyya) {f} (pronoun), m: هو, pl: هما :: she (subject pronoun)
 ===subjunctive===
   لن (lan) :: Note: لن is used to deny the future. It governs the subjunctive of the verb.
     لن يَكْتُبَ (lan yaktúba) &mdash; he will not write :: --
@@ -21550,6 +22121,8 @@ Index: EN EN->AR
 ===swallow===
   بتلع إبتلع ('ibtla`a)Root ب ل عForm VIII افتعل :: to swallow
   زرد {{ar-verb (old)|I|زرد|zárada}} :: to gulp, to swallow, to devour
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to make swallow
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to devour, to gobble, to gormandize, to gorge, to wolf, to swallow up
 ===swarm===
   رجل (rijl) {{ar-noun|g=m|pl=ارجال|pltr=ʾarjāl}} :: swarm (especially, of locusts)
 ===sway===
@@ -21680,9 +22253,12 @@ Index: EN EN->AR
   كلم {{ar-verb (old)|II|كلم|kállama}}{{ar-verb (old)|III|كالم|kālama}}{{ar-verb (old)|V|تكلم|takállama}} :: to speak, to talk, to converse
   كلم {{ar-verb (old)|II|كلم|kállama}}{{ar-verb (old)|III|كالم|kālama}}{{ar-verb (old)|V|تكلم|takállama}} :: to speak, to talk
   ذكر {{ar-verb (old)|I|ذكر|ḏákara}}{{ar-verb (old)|II|ذكّر|ḏákkara}}{{ar-verb (old)|III|ذاكر|ḏākara}}{{ar-verb (old)|IV|أذكر|’áḏkara}}{{ar-verb (old)|V|تذكّر|taḏákkara|تذكر}}{{ar-verb (old)|VI|تذاكر|taḏākara}}{{ar-verb (old)|VIII|اذتكر|iḏḏákara}}{{ar-verb (old)|X|استذكر|istáḏkara}} :: to speak, to talk.
+  كلامٌ (kalām) {m} :: conversation, speech, talk, language
   ذكر {{ar-verb (old)|I|ذكر|ḏákara}}{{ar-verb (old)|II|ذكّر|ḏákkara}}{{ar-verb (old)|III|ذاكر|ḏākara}}{{ar-verb (old)|IV|أذكر|’áḏkara}}{{ar-verb (old)|V|تذكّر|taḏákkara|تذكر}}{{ar-verb (old)|VI|تذاكر|taḏākara}}{{ar-verb (old)|VIII|اذتكر|iḏḏákara}}{{ar-verb (old)|X|استذكر|istáḏkara}} :: to parley, negotiate, to have a talk.
   ذكر {{ar-verb (old)|I|ذكر|ḏákara}}{{ar-verb (old)|II|ذكّر|ḏákkara}}{{ar-verb (old)|III|ذاكر|ḏākara}}{{ar-verb (old)|IV|أذكر|’áḏkara}}{{ar-verb (old)|V|تذكّر|taḏákkara|تذكر}}{{ar-verb (old)|VI|تذاكر|taḏākara}}{{ar-verb (old)|VIII|اذتكر|iḏḏákara}}{{ar-verb (old)|X|استذكر|istáḏkara}} :: to remind one another, to confer together, to have a talk.
   بحث {{ar-verb (old)|I|بحث|báħaθa}}{{ar-verb (old)|III|باحث|bāħaθa}}{{ar-verb (old)|VI|تباحث|tabāħaθa}} :: to confer, to have a talk
+===talking===
+  كلامٌ (kalām) {m} :: talking, speaking
 ===tall===
   ا / ‍ا (’álif)thumb :: Although usually considered to be the first letter of the Arabic alphabet, the small hamza (ء) that sits on top of أ is really the first letter of the Arabic alphabet, and the tall column is its bearer. This entry only deals with the lower part, the bearer, which is called الف (’álif) and, without the hamza, is used to lengthen a preceding vowel, often a. It is followed by ب.
   أ / ‍أ (’álifu hámzatin) :: The first letter of the Arabic alphabet is the small hamza (ء) that sits on top of أ, and the tall column is its bearer. The composite letter is called الف (’álif) and the hamza represents a glottal stop (/ʔ/). (For the pronunciation without hamza, see ا.) It is followed by ب.
@@ -21832,9 +22408,13 @@ Index: EN EN->AR
   تايلاندي (tailándi) {m} (noun) :: Thai language
 ===than===
   مِن (min) {ar-con} :: than (with comparatives)
+  غير (ġair) {ar-prep} :: except, other than, different from, unlike
+  غِيرْهُم (ġírhum) {ar-prep} :: except them, other than them, different from them, unlike them
 ===thank===
   شكرا شُكْرًا (shúkraan) :: thank you
   (Egyptian Arabic) شكرا (shukraan) (interjection) :: thank you
+===thanking===
+  شكرية (šukríyya) {f} :: thanking ({feminine of|شكري})
 ===ثاء===
   ث / ث‍ / ‍ث‍ / ‍ث (θā’) :: The fourth letter of the Arabic alphabet. Its name is ثاء (θā’) and is preceded by ت and followed by ج.
 ===theater===
@@ -21844,12 +22424,19 @@ Index: EN EN->AR
   ـهُمْ (-hum) {m|p} (suffix) or ـهِمْ (-him) :: them, their
   (Egyptian Arabic) ـهم (-hum) {p} (suffix) :: them, their
   (Tunisian Arabic) ـهُمْ (-hum) {p} (suffix) :: them, their
+  هن ـهُنّ (-húnna) or ـهِنّ (-hinna) {f|p} :: their, them (feminine bound object pronoun).
+  ـهُما (-humā) {m|dual} (suffix) :: their, them (masculine bound object pronoun).
   شَوّالٌ (šáwwal) {{ar-noun|g=m}} :: Shawwal, the tenth of the twelve months of the Muslim lunar calendar, each beginning with a new moon. Shawwal means raised in Arabic, because the she-camels begin to raise their tails during this time after giving birth.
   زاهد (zāhid) {m} (noun), زهاد (zuhhād) {p} :: {{context|Sufism}} A popular title bestowed on disciples of Mystic Sufi orders upon their initiation. After initiation the title took the place of the new Spiritual Masters’ given names. A famous bearer of the title Zahed was Sheikh Zahed Gilani of Lahijan in Gilan province of northern Iran.
 ===them===
   ـهُمْ (-hum) {m|p} (suffix) or ـهِمْ (-him) :: them, their
   (Egyptian Arabic) ـهم (-hum) {p} (suffix) :: them, their
   (Tunisian Arabic) ـهُمْ (-hum) {p} (suffix) :: them, their
+  هن ـهُنّ (-húnna) or ـهِنّ (-hinna) {f|p} :: their, them (feminine bound object pronoun).
+  ـهُما (-humā) {m|dual} (suffix) :: their, them (masculine bound object pronoun).
+  غِيرْهُم (ġírhum) {ar-prep} :: except them, other than them, different from them, unlike them
+  لهم (láhum) {m|p} :: to them, for them, belonging to them.
+  هُمَا (humā) {ar-pron} (dual) :: they both, the two of them
 ===then===
   ف‍- (fa-) (prefix) :: then, and then
     يومًا فيومًا (yáuman fa-yáuman) :: day after day
@@ -21876,6 +22463,10 @@ Index: EN EN->AR
 ===they===
   هُمْ (hum) {ar-pron} {m|p} :: they
   (Egyptian Arabic) هم (humm) {p} (pronoun) :: they
+  هِيَ (híya) {ar-pron} :: they (subject pronoun, non-human).
+  هُنّ (húnna) {ar-pron} {f|p} :: they (feminine).
+  هُمَا (humā) {ar-pron} (dual) :: they both, the two of them
+  (Tunisian Arabic) هما (humā) {p} (pronoun) :: they
 ===thicken===
   سمك {{ar-verb (old)|II|سَمَّكَ|sámmaka}} :: to thicken
 ===thickened===
@@ -22023,6 +22614,7 @@ Index: EN EN->AR
   أسبوع (’usbūʕ) {{ar-noun|g=m}}, أسابيع (’asābīʕ) {p} :: week (unit of time)
   وَقّتَ (wáqqata) {{ar-verb|form=2}} :: to set a time, to appoint a time, to fix a time, to schedule.
   وَقْت (waqt) {{ar-noun|m|g=m|pl=أوقات|pltr=’auqāt}} :: period of time, time span
+  إسبتارية (isbitārīya) إسبتارية :: The knightly order of the Hospitallers (Knights of St. John or Knights of Rhodes), with whom the Arabs came into close contact at that time.
   رب (rúbba) :: (with a following indefinite genitive) many
     رب رجلٍ (rúbba rájulin) :: many a man
     رب مرةٍ (rúbba márratin) :: many a time
@@ -22197,6 +22789,8 @@ Index: EN EN->AR
   ﻫ (initial form of ه) (hā’) :: Normally the twenty-sixth letter of the Arabic alphabet, when this letter is used in this initial form as an enumerator, it is interpreted as the fifth letter in traditional abjad order, equivalent to our Roman numeral V or Ⅴ (see abjad numerals). It is preceded by د and followed by و.
 ===traditions===
   رطب (rutb) (collective) :: Ripened dates, used in traditions relating to Muhammad.
+===traffic===
+  دَوّار (dawwār) {{ar-noun|g=m}} :: traffic circle
 ===trailer===
   قَطْر (qaṭr) {{ar-noun|g=m|pl=قطورات|plhead=قُطورات}} :: trailer
 ===train===
@@ -22255,6 +22849,8 @@ Index: EN EN->AR
   رحلة (ríħla) {f}رحلة{f} :: travel, journey
   بحر {{ar-verb (old)|I|بحر|báħira}}{{ar-verb (old)|II|بحر|báħħara}} :: to travel by sea, to make a voyage
   سلك {{ar-verb (old)|I|سلك|sálaka}}{{ar-verb (old)|II|سلك|sállaka}}{{ar-verb (old)|IV|اسلك|’áslaka}} :: to follow a road, to wend, to travel along
+===traveler===
+  دَوّار (dawwār) {{ar-noun|g=m}} :: traveler, nomad, rover, runabout, wanderer, globetrotter
 ===travelogue===
   رحلة (ríħla) {f}رحلة{f} :: travelogue
 ===treacherous===
@@ -22357,6 +22953,7 @@ Index: EN EN->AR
   طَلَبَ (ṭálaba) {{ar-verb|form=I|impf=يطلب|impfhead=يَطْلُبُ|impftr=yaṭlubu}} :: to request, to apply, to seek, to try to obtain
   سر {{ar-verb (old)|I|سر|sárra}}{{ar-verb (old)|II|سرر|sárrara}}{{ar-verb (old)|III|سار|sārra}}{{ar-verb (old)|IV|اسر|’asárra}}{{ar-verb (old)|V|تسرى|tasarrā}}{{ar-verb (old)|X|استسر|istasárra}} :: to try to hide
   نصت {{ar-verb (old)|I|نصت|náṣata}}{{ar-verb (old)|IV|انصت|’ánṣata}}{{ar-verb (old)|V|تنصت|tanáṣṣata}} :: to try to hear
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to ask for inspiration, to ask for advice, to try to find out
 ===Tuesday===
   الثَلاثَاء (aθ-θalaθā’) {{ar-noun|g=m}} :: Tuesday
 ===tug===
@@ -22390,6 +22987,7 @@ Index: EN EN->AR
   صفر {{ar-verb (old)|II|صفّر|ṣáffara}}{{ar-verb (old)|IX|اصفر|iṣfárra}} :: to turn pale, to pale, to become pale
   دور {{ar-verb (old)|II|دور|dáwwara}} :: to turn into a circle, to make round
   وجه {{ar-verb (old)|I|وجه|wájuha}}{{ar-verb (old)|II|وجه|wájjaha}} :: to turn one’s face, to turn
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to pray, to turn to God
 ===turned===
   حَسَن (ħásan) {{ar-adj|g=m|f=حسنة|fhead=حَسَنَة|ftr=ħásana|el=أحسن|elhead=أحْسَن|eltr=ʾaħsan}} :: well-turned
 ===tusk===
@@ -22452,6 +23050,7 @@ Index: EN EN->AR
   مزدوج (muzdáwij) {m}, مزدوجة (muzdáwija) {f} :: double, twofold, two-
   خون {{ar-verb (old)|II|خون|kháwwana}} :: to two-time
   ضِدّ (ḍidd) {{ar-noun|g=m|pl=اضداد|plhead=أضداد}} :: word with two opposite meanings
+  هُمَا (humā) {ar-pron} (dual) :: they both, the two of them
   حرم (ħirm) {m}حرم{m}احرام{p}حرم{p} :: sanctum, sanctuary, sacred precinct
     الحرمان (al-ħaramān) :: the two Holy Places (Mecca and Medina)
     ثالث الحرمين (θāliθ al-ħarmēin) :: the third Holy Place (Jerusalem)
@@ -22477,6 +23076,8 @@ Index: EN EN->AR
   إنكليزي إنْكِلِيزِيّ (’ingilí‎ːzi) {m}, إنْكِلِيزِيّةٌ (’ingilizíyya) {f} and {p} :: Pertaining to England, U.S.A. or Canada
 ===udder===
   درة (dírra, dárra) {f}, درر (dírar) {p} :: teat, udder
+===ul===
+  عيدكم مبارك :: pleasant Eid ul-Fitr
 ===ultimate===
   آخر (’āxir) {m}, آخرون (’axirūn) {p}, اخرات (’axirāt) {p}, اواخر (’awāxir) {p} :: last, ultimate, utmost, extreme
   حقيقة (ħaqīqa) {{ar-noun|g=f|pl=حقائق|pltr=ħaqā’iq}} :: {Islam} the truth or the ultimate way of the Sufis (associated with the shari'a and the tariqa)
@@ -22566,6 +23167,9 @@ Index: EN EN->AR
   ُُمُحَرّمٌ (muħárram) {{ar-noun|g=m}} :: Muharram, the first of the twelve months of the Muslim lunar calendar, each beginning on a new moon. Muharram means "forbidden" in Arabic, and it is unlawful to fight during this month.
 ===unless===
   إلا (’illā) {ar-prep} :: unless, if not
+===unlike===
+  غير (ġair) {ar-prep} :: except, other than, different from, unlike
+  غِيرْهُم (ġírhum) {ar-prep} :: except them, other than them, different from them, unlike them
 ===unmistakably===
   عرب {{ar-verb (old)|II|عَرّبَ|{LR}3arraba}}{{ar-verb (old)|IV|أعرب|'á3raba}}{{ar-verb (old)|V|تعرب|ta3árraba}}{{ar-verb (old)|X|استعرب|istá3raba}} :: to make clear, to make plain, to express unmistakably, to state clearly, to declare.
 ===unravel===
@@ -22704,6 +23308,9 @@ Index: EN EN->AR
   مَهْبِل (máhbil) {{ar-noun|g=m|pl=مهابل}} :: {anatomy} vagina
 ===valet===
   فَرَّاش (farrāš) {{ar-noun|g=m}} :: servant, attendant, valet
+===valiant===
+  ليس {{ar-verb (old)|I|ليس|láyisa}} :: to be valiant, to be brave, to be courageous
+  ليس (līs) {{ar-adj|g=p}} :: valiant, brave, courageous ({plural of|اليس})
 ===valid===
   حَقّ (ħaqq) {ar-adj} :: valid, sound, correct
 ===valor===
@@ -22749,6 +23356,8 @@ Index: EN EN->AR
   حبل (ħabl) (noun), m, حبال (ħibāl) {p}, احبل (’áħbul) {p}, حبول (ħubūl) {p}, احبال (’aħbāl) {p} :: {anatomy} vein
 ===venerate===
   حرم {{ar-verb (old)|I|حرم|ħáruma}}{{ar-verb (old)|I|حرم|ħárama}}{{ar-verb (old)|II|حرم|ħárrama}}{{ar-verb (old)|IV|احرم|’áħrama}}{{ar-verb (old)|V|تحرم|taħárrama}}{{ar-verb (old)|VIII|تحرم|iħtárama}}{{ar-verb (old)|X|استحرم|istáħrama}} :: to honor, to revere, to venerate, to esteem, to respect
+===Venezuela===
+  كراكاس (karākās) :: Caracas, the capital of Venezuela.
 ===vent===
   فم (fam) {m}, فو (fū) (construct state), أفواه (’afwāh) {p} :: orifice, aperture, hole, vent
   (Egyptian Arabic) فم (fumm) {m}, افمام (’afmām) {p} :: orifice, aperture, hole, vent
@@ -22762,6 +23371,7 @@ Index: EN EN->AR
   لن (lan) :: Note: لن is used to deny the future. It governs the subjunctive of the verb.
     لن يَكْتُبَ (lan yaktúba) &mdash; he will not write :: --
   ما (mā) {ar-part} :: not (dialect only or only for the past tense verb conjugations in Modern Standard Arabic)
+  يعرفه (yaʕrífuhu) :: he knows it/him, he recognizes it/him. (from the verb عرف, ʕárafa)
 ===verbal===
   مَصْدَر (máṣdar) {{ar-noun|g=m|pl=مصادر|pltr=maṣādir}} :: {grammar} verbal noun, infinitive, gerund
   دين (diin) {m} (noun) (diin) {m} (noun)أديان{p} :: (verbal noun) conformism, conformance, conformity, God-fearingness, godliness, religiosity, devoutness, fealty, obedience
@@ -22784,8 +23394,12 @@ Index: EN EN->AR
   عَكْس (ʕaks) {ar-prep} :: versus
 ===vertex===
   رَأْس (raʾs) {{ar-noun|g=m|pl=رؤوس|plhead=رُؤُوس|pltr=ruʾūs|pl2=أرؤس|pl2tr=ʾarʾus}} :: vertex, apex
+===vertigo===
+  دوار (duwār, dawār) {{ar-noun|g=m}} :: vertigo, dizziness, giddiness
 ===very===
   جِدًا (jíddan) (adverb) :: very
+  غيور (ğayūr) {m}, غير (ğúyur) {p} :: very jealous
+  غيور (ğayūr) {m}, غير (ğúyur) {p} :: very interested, keen, enthusiastic, very concerned
 ===vex===
   عكس {{ar-verb (old)|I|عَكَسَ|ʕákasa}}{{ar-verb (old)|III|عاكس|ʕākasa}}{{ar-verb (old)|VI|تعاكس|taʕākasa}}{{ar-verb (old)|VII|انعكس|inʕákasa}} :: to molest, to vex, to tease, to harass
 ===vicar===
@@ -22858,6 +23472,10 @@ Index: EN EN->AR
   جب {{ar-verb (old)|I|جَبّ|jábba}} :: to cancel, to countermand, to controvert, to invalidate, to abrogate, to void, to abort, to rebut
   جب {{ar-verb (old)|I|جَبّ|jábba}} :: to repeal, to abate, to abolish, to frustrate, to make null and void, to call off
   صفر صَفَرٌ (ṣáfar) {m}, اصفار (’aṣfār) {p} :: Safar, the second of the twelve months of the Muslim lunar calendar, each beginning with a new moon. Safar means "void" in Arabic, supposedly because pagan Arabs looted during this month and left the houses empty.
+===voracious===
+  لهم (láhim) :: greedy, covetous, voracious, gluttonous
+===vortex===
+  دَوّار (dawwār) {{ar-noun|g=m}} :: eddy, whirlpool, vortex
 ===vote===
   صوت (ṣawwata) {{ar-verb|form=2|II=و|impf=يصوت|imptr=yuṣawwitu}} :: to vote
 ===vowel===
@@ -22894,6 +23512,10 @@ Index: EN EN->AR
   صفر صُفْر (ṣufr) {p} :: yellow, pale, pallid, wan ({plural of|أَصْفَر})
 ===wand===
   قضيب (qaḍīb) {{ar-noun|g=m|pl=قضبان|pltr=quḍbān}} :: stick, rod, wand, staff
+===wanderer===
+  دَوّار (dawwār) {{ar-noun|g=m}} :: traveler, nomad, rover, runabout, wanderer, globetrotter
+===wandering===
+  دَوّار (dawwār) {{ar-noun|g=m}} :: wandering, cruising, going about
 ===want===
   طَلَبَ (ṭálaba) {{ar-verb|form=I|impf=يطلب|impfhead=يَطْلُبُ|impftr=yaṭlubu}} :: to want, to wish
 ===waqf===
@@ -23008,6 +23630,9 @@ Index: EN EN->AR
 ===what===
   ما (mā) {ar-pron} :: {interrogative} what?
   ما (mā) {ar-pron} :: {relative} that which, what
+  لما (limā) {ar-adv} :: for what, why
+  لم (lima) :: for what, why
+  مما ممّا (mimmā) :: from what
   عين (ʕayn) {f}, عَيْنَانِ (ʕeynāni, dual nom.), عَيْنَيْنِ (ʕeynéyni, dual oblique), عُيُون (ʕuyūn, {p}) :: In economics: what has monetary value except money.
 ===whatever===
   ما (mā) {ar-pron} :: {relative} whatever, all that
@@ -23017,6 +23642,7 @@ Index: EN EN->AR
 ===wheel===
   فَرَاش (farāš) {{ar-noun|g=m}} :: mill wheel
 ===when===
+  لَمّا (lamma) {ar-con} :: when
   الله اعلم (Alláhu áʕlam) :: “God only knows” (literally, “God knows best”...a traditional Arabic expression used when responding to a question to which one does not know the answer).
   شَعْبَانُ (šaʕbān) {{ar-noun|g=m}} :: Sha'aban, the eighth of the twelve months of the Muslim lunar calendar, each beginning with a new moon. Sha'aban means "scattered" in Arabic, and is the time when ancient people dispersed to find water.
   ذُو الحِجّةِ (ðu l-ħíjja) {{ar-noun|g=m}} :: Dhul Hijjah, the twelfth and last of the twelve months of the Muslim lunar calendar, each beginning with a new moon. Dhul Hijjah means "lord of the pilgrimage" in Arabic, and this is when pilgrims visit Mecca.
@@ -23081,6 +23707,8 @@ Index: EN EN->AR
   قَزَم (qázam) {{ar-noun|g=m|pl=أقزام|plhead=أَقْزَام|pltr=’aqzām}} :: little fellow, shrimp, hop-o'-my-thumb, whippersnapper
 ===whirl===
   دور {{ar-verb (old)|II|دور|dáwwara}} :: to turn in a circle, to spin, to whirl, to revolve, to rotate
+===whirlpool===
+  دَوّار (dawwār) {{ar-noun|g=m}} :: eddy, whirlpool, vortex
 ===whisper===
   سر {{ar-verb (old)|I|سر|sárra}}{{ar-verb (old)|II|سرر|sárrara}}{{ar-verb (old)|III|سار|sārra}}{{ar-verb (old)|IV|اسر|’asárra}}{{ar-verb (old)|V|تسرى|tasarrā}}{{ar-verb (old)|X|استسر|istasárra}} :: to confide a secret, to whisper in someone’s ear
   سر {{ar-verb (old)|I|سر|sárra}}{{ar-verb (old)|II|سرر|sárrara}}{{ar-verb (old)|III|سار|sārra}}{{ar-verb (old)|IV|اسر|’asárra}}{{ar-verb (old)|V|تسرى|tasarrā}}{{ar-verb (old)|X|استسر|istasárra}} :: to tell under one’s breath, to whisper
@@ -23097,9 +23725,15 @@ Index: EN EN->AR
 ===wholeness===
   تمام (tamām) {m} :: completeness, wholeness, entirety
   كُلّية (kullíyya) {{ar-noun|g=f}} :: completeness, fullness, wholeness
+===whom===
+  ممن ممّن (mimmán) :: from whom
+  إسبتارية (isbitārīya) إسبتارية :: The knightly order of the Hospitallers (Knights of St. John or Knights of Rhodes), with whom the Arabs came into close contact at that time.
 ===whore===
   عاهرة عاهِرَة (ʕāhira) {f}, عاهرات (ʕahirāt) {p}, عواهر (ʕawāhir) {p} :: whore, prostitute, harlot
   شرموطة (sharmuuTa) {f} (noun), plural: شراميط, sharaamiT :: {vulgar} whore, slut, prostitute
+===why===
+  لما (limā) {ar-adv} :: for what, why
+  لم (lima) :: for what, why
 ===widespread===
   شهر {{ar-verb (old)|I|شهر|šáhara}}{{ar-verb (old)|II|شهّر|šáhhara}}{{ar-verb (old)|III|شاهر|šāhara}}{{ar-verb (old)|IV|اشهر|’ášhara}}{{ar-verb (old)|VIII|اشتهر|ištáhara}} :: to be known, to be widespread, to be common
 ===wife===
@@ -23140,6 +23774,7 @@ Index: EN EN->AR
 ===wine===
   شَرَاب (šarāb) {{ar-noun|g=m|pl=اشربة|pltr=’ášriba|plhead=اَشْرِبَة}} :: wine
   خمر (xamr) {m|f}, خمور (xumūr) {p} :: wine
+  نبيذ (nabīð) {{ar-noun|g=m|pl=أنبذة}} (’anbiða) :: wine
 ===wings===
   دف {{ar-verb (old)|I|دَفّ|dáffa|دف}}{{ar-verb (old)|II|دَفّ|dáffa|دف}} :: to flap the wings (of a bird)
 ===wire===
@@ -23196,6 +23831,9 @@ Index: EN EN->AR
   حرم (ħirm) {m}حرم{m}احرام{p}حرم{p} :: {plural of|حريم}; harems, wives, women
 ===wizardry===
   سِحْر (sihr) {ar-noun} :: wizardry
+===wolf===
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to gormandize, to gobble, to gorge, to devour, to wolf
+  لهم {{ar-verb (old)|IV|الهم|’álhama}}{{ar-verb (old)|V|تلهم|taláhhama}}{{ar-verb (old)|VIII|التهم|iltáhama}}{{ar-verb (old)|X|استلهم|istálhama}} :: to devour, to gobble, to gormandize, to gorge, to wolf, to swallow up
 ===woman===
   هم (himm) {m}, اهمة (hímma) {f}, اهمام (’ahmām) {p}, همائم (hamā’im) {p}, همات (himmāt) {f|p} :: old man, old woman
   عَجُوزٌ (ʿajūz) {{ar-noun|g=f|pl=عجائز|pltr=ʿajā’iz|pl2=عجز|pl2tr=ʿújuz}} :: old woman
@@ -23225,6 +23863,7 @@ Index: EN EN->AR
 ===word===
   كَلِمة (kalima) {{ar-noun|g=f|pl=كلمات|plhead=كَلِمات}} :: word
   (Egyptian Arabic) كلمة (kilma) {{arz-noun|f}}, {p} كلام :: word
+  كلامٌ (kalām) {m} :: words, word, saying
   أ / ‍أ (ʼa) :: Initial interrogative particle that indicates a yes-or-no question, usually precedes a noun or a pronoun, not a verb or an adjective. It’s written together with the following word as all one letter words.
   عامل (ʕāmil) {m}, عوامل (ʕawāmil) {p}عامل{m}عمّال{p} :: {grammar} word that governs another word
   ضِدّ (ḍidd) {{ar-noun|g=m|pl=اضداد|plhead=أضداد}} :: word with two opposite meanings
@@ -23352,6 +23991,7 @@ Index: EN EN->AR
   أحبك (uHíbbuki, uHíbbik) :: I love you (to a female)
   كيف حالك؟ (kaifa Haalak) :: how are you?
   أَنْتُمْ (ʾántum) {ar-pron} {p} :: you {p}
+  أَنْتُنَّ (ʾantúnna) {ar-pron} {f|p} :: you (feminine, plural)
 ===young===
   عِجْل (‘ijl) {{ar-noun|pl=عجول|plhead=عُجُول|pltr=‘ujūl}} :: calf, young cow
 ===your===
@@ -23390,6 +24030,10 @@ Index: EN EN->AR
   ذرة ذُرَة (ðóra) {f} (collective) :: maize, durum corn, Indian corn (Zea mays L.)
 ===zeal===
   حَماس (Hamaas) {{ar-noun|g=m}} :: enthusiasm, zeal, excitement
+===zealot===
+  غيور (ğayūr) {m}, غير (ğúyur) {p} :: zealot
+===zealous===
+  غيور (ğayūr) {m}, غير (ğúyur) {p} :: zealous, ardent, fervid, eager
 ===zero===
   صفر صِفر (ṣifr) {m} :: zero
     Eastern Arabic numeral: ٠ :: --
@@ -23407,6 +24051,8 @@ Index: EN EN->AR
 ===zone===
   قُطْر (quṭr) {{ar-noun|g=m|pl=أقطار|pltr=’aqṭār}} :: region, quarter, district, section, zone
   منطقة (mintʿáqa) {{ar-noun|g=f|pl=مناطق|pltr=manātʿiq}} :: zone
+===زرد===
+  زرود (zurūd) {m|p} :: coats of chainmail (plural of زرد).
 ===ʔ===
   أ / ‍أ (’álifu hámzatin) :: The first letter of the Arabic alphabet is the small hamza (ء) that sits on top of أ, and the tall column is its bearer. The composite letter is called الف (’álif) and the hamza represents a glottal stop (/ʔ/). (For the pronunciation without hamza, see ا.) It is followed by ب.
 ===ء===
@@ -23419,6 +24065,8 @@ Index: EN EN->AR
   (Tunisian Arabic) اِسْمْ (ʾism) {m} (noun) :: title
     مَا خْتَارِشْ اِسْمْ بَاهِي لِكْتَابُو :: mā ḫtāriš ʾism bāhī liktābū
     He didn't choose a good title for his book :: --
+===ʕárafa===
+  يعرفه (yaʕrífuhu) :: he knows it/him, he recognizes it/him. (from the verb عرف, ʕárafa)
 ===ع===
   س / س‍ / ‍س‍ / ‍س (sīn) :: The fifteenth letter in traditional abjad order, which is used in place of numerals for list numbering (abjad numerals). It is preceded by ن and followed by ع.
   ظ / ظ‍ / ‍ظ‍ / ‍ظ (ẓā’) :: The seventeenth letter of the Arabic alphabet. It is preceded by ط and followed by ع.
@@ -23433,6 +24081,8 @@ Index: EN EN->AR
   اعراب (iʕrāb) {m}اعراب{p} :: Arabs (Plural form of عرب).
 ===عربي===
   عربية (ʕarabíyya) {f} or {p} :: Arabic (feminine or plural form of عربي)
+===عرف===
+  يعرفه (yaʕrífuhu) :: he knows it/him, he recognizes it/him. (from the verb عرف, ʕárafa)
 ===ڢ===
   (Moroccan Arabic) ڧ / ڧ‍ / ‍ڧ‍ / ‍ڧ (qāf) :: The twenty-first letter of the Moroccan Arabic alphabet. It is preceded by ڢ and followed by ك.
 ===ڧ===

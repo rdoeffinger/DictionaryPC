@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.thai 4939
+EntrySource: enwiktionary.thai 4991
 
 Index: TH TH->EN
 ***ฯลฯ***
@@ -654,6 +654,8 @@ Index: TH TH->EN
   แก้ว (gâew) (adjective) :: beloved, cherished, darling, precious
 ===gampoochaa===
   กัมพูชา (gampoochaa) (proper noun) :: Cambodia, Kampuchea
+===gaoee===
+  เก้าอี้ (gaoee) (noun) :: A chair
 ===gɑ===
   มกราคม (/mog.gɑ.rɑː.kom/) (proper noun) :: January
 ===gìaaw===
@@ -687,6 +689,8 @@ Index: TH TH->EN
 ===groong===
   กรุง (groong) {th-noun} :: city
   กรุงเทพ (groong têp) (proper noun) :: Bangkok, Krungthep
+===guitiao===
+  ก๋วยเตี๋ยว (guitiao) (noun) :: rice noodle
 ***ห***
   ห (h; haw hēb) :: The 41st letter of the Thai alphabet
 ***ฮ***
@@ -1195,6 +1199,8 @@ Index: TH TH->EN
   เกาะ (gòr) (noun) :: island, isle
   เกาะ (gòr) (verb) :: to adhere, to attach, to stick, to bind
   เกาะ (gòr) (verb) :: to hold, to cling, to arrest, to catch, to grab, to take
+***เก้าอี้***
+  เก้าอี้ (gaoee) (noun) :: A chair
 ===keb===
   เก็บ (keb) (verb) :: To keep.
 ***เก็บ***
@@ -1208,6 +1214,8 @@ Index: TH TH->EN
   เกี่ยว (gìaaw) (verb) :: to hook, to seize, to hitch, to link, to hook up
   เกี่ยว (gìaaw) (verb) :: to reap, to harvest, to mow
   เกี่ยว (gìaaw) (adjective) :: (is) entangled with, (is) hugging, (is) embracing
+===kék===
+  เค้ก (kék) (noun) :: cake
 ***เกษตร***
   เกษตร (kased) (noun) :: farmland
 ***ข***
@@ -1360,6 +1368,8 @@ Index: TH TH->EN
   เขียว (khĭeow) (adjective) :: green
   เขียว (khĭeow) (adjective) :: bruised
   เขียว (khĭeow) (adjective) :: angry
+***เค้ก***
+  เค้ก (kék) (noun) :: cake
 ***เขมร***
   เขมร (khàmen) :: Khmer
   เขมร (khàmen) :: {dialectal} Cambodia
@@ -1443,6 +1453,12 @@ Index: TH TH->EN
   คนไทย (khon thai) (noun) :: Thai people
 ===khonangkrit===
   คนอังกฤษ (khonangkrit) (noun) :: British person or people.
+===khong===
+  โขง (khong) (noun) :: rancid
+  โขง (khong) (proper noun) :: Mekong river
+***โขง***
+  โขง (khong) (noun) :: rancid
+  โขง (khong) (proper noun) :: Mekong river
 ===khoo===
   ขู่ (khoo) (verb) :: To intimidate.
   ขู่ (khoo) (verb) :: To threat.
@@ -1726,6 +1742,8 @@ Index: TH TH->EN
   ขว้าง (kwāng) (verb) :: to throw
 ***กวี***
   กวี (ka wī) {th-noun} :: poem
+***ก๋วยเตี๋ยว***
+  ก๋วยเตี๋ยว (guitiao) (noun) :: rice noodle
 ***ก่อ***
   ก่อ (kaw) (verb) :: To build.
   ก่อ (kaw) (verb) :: To ignite.
@@ -1935,10 +1953,21 @@ Index: TH TH->EN
   แม่ (mâe) (noun) :: A mother.
 ***แม่***
   แม่ (mâe) (noun) :: A mother.
+===maekhong===
+  แม่โขง (maekhong) (proper noun) :: Mekong river
+***แม่โขง***
+  แม่โขง (maekhong) (proper noun) :: Mekong river
 ***แม่น้ำ***
   แม่น้ำ (maenam) (noun) :: river
+***แม่นํ้าโขง***
+  แม่นํ้าโขง (maenamkhong) (proper noun) :: Mekong river
+***แม่น้ำโขง***
+  แม่น้ำโขง (maenamkhong) (proper noun) :: Mekong river
 ===maenam===
   แม่น้ำ (maenam) (noun) :: river
+===maenamkhong===
+  แม่น้ำโขง (maenamkhong) (proper noun) :: Mekong river
+  แม่นํ้าโขง (maenamkhong) (proper noun) :: Mekong river
 ***แมนนาที***
   แมนนาที (manatee) (noun) :: A manatee
 ===maew===
@@ -2133,6 +2162,8 @@ Index: TH TH->EN
   มณโฑ (montho) (noun) :: dancer
 ===mŏo===
   หมู (mŏo) (noun) :: piglet
+===móok===
+  มุก (móok) (noun) :: oyster
 ===môot===
   โคมูตร (koh môot) (noun) :: cow's urine.
   โคมูตร (koh môot) (noun) :: {{context|typography|chiefly|in poetry}} Thai punctuation mark ๛, marking the end of a story or poem
@@ -2144,6 +2175,8 @@ Index: TH TH->EN
   มวล (muan) (adjective) :: entire
 ===muk===
   มุกดา (muk dā) (noun) :: pearl
+***มุก***
+  มุก (móok) (noun) :: oyster
 ***มุกดา***
   มุกดา (muk dā) (noun) :: pearl
 ===mun===
@@ -3171,6 +3204,10 @@ Index: TH TH->EN
 ===ram===
   รำ (ram) (verb) :: to dance
   รำไทย (ram tai) (noun) :: Thai dance
+===ránâat===
+  ระนาด (ránâat) (noun) :: {musical instruments} generic term for traditional Thai keyboard percussion instruments (most often xylophones, but also including metallophones and crystallophones)
+***ระนาด***
+  ระนาด (ránâat) (noun) :: {musical instruments} generic term for traditional Thai keyboard percussion instruments (most often xylophones, but also including metallophones and crystallophones)
 ===rao===
   เรา (rao) (pronoun) :: I, me(to equals)
   เรา (rao) (pronoun) :: we, us(to superiors, to equals)
@@ -4454,6 +4491,10 @@ Index: TH TH->EN
   วิหาร (wíhăan) :: a meeting room or prayer room containing religious images in a Buddhist monastery
 ***วิหก***
   วิหก (wi hok) (noun) :: bird
+***วิหค***
+  วิหค (wihok) (noun) :: bird
+===wihok===
+  วิหค (wihok) (noun) :: bird
 ***ไวน์***
   ไวน์ (wai) (noun) :: wine
 ===winaad===
@@ -4960,6 +5001,8 @@ Index: EN EN->TH
   ฦ (l; leu) :: {obsolete}A letter of the Thai alphabet.
   ฦๅ (ḹ; leu) (letter) :: A letter of the Thai alphabet, considered a vowel.
   ฤๅ (ṝ; reu) (letter) :: A letter of the Thai alphabet, considered a vowel.
+===also===
+  ระนาด (ránâat) (noun) :: {musical instruments} generic term for traditional Thai keyboard percussion instruments (most often xylophones, but also including metallophones and crystallophones)
 ===Alternanthera===
   เป็ด (bpèt) (noun) :: {botany} Joseph's coat, joy weed, parrot plant (Alternanthera amoena)
 ===Alternative===
@@ -5171,6 +5214,7 @@ Index: EN EN->TH
 ===bird===
   นก (nok) (noun) :: bird, fowl
   วิหก (wi hok) (noun) :: bird
+  วิหค (wihok) (noun) :: bird
   กา (kaa) (noun) :: crow (bird)
 ===birthday===
   สุขสันต์วันเกิด (sòok-săn wan gèrt) :: happy birthday
@@ -5290,10 +5334,13 @@ Index: EN EN->TH
   เศรษฐกิจ (sethakid) (noun) :: business
 ===but===
   แต่ (tae) (conjunction) :: but
+  ระนาด (ránâat) (noun) :: {musical instruments} generic term for traditional Thai keyboard percussion instruments (most often xylophones, but also including metallophones and crystallophones)
 ===butt===
   ตูด (tūd) (noun) :: {{context|informal}} A butt.
 ===butterfly===
   ผีเสื้อ (pěe sêua) (noun) :: butterfly
+===cake===
+  เค้ก (kék) (noun) :: cake
 ===call===
   เรียก (riak) (verb) :: To call.
 ===calling===
@@ -5357,6 +5404,8 @@ Index: EN EN->TH
   ศูนย์ (sūn) (noun) :: center
 ===chain===
   โซ่ (so) (noun) :: chain
+===chair===
+  เก้าอี้ (gaoee) (noun) :: A chair
 ===chakra===
   จักร (jak) (noun) :: chakra
 ===Chao===
@@ -5544,6 +5593,8 @@ Index: EN EN->TH
 ===crystal===
   แก้ว (gâew) (noun) :: drinking glass, cup, crystal
     เขากำลังใช้แก้วใบนั้นดื่มนม :: She is using that glass to drink milk.
+===crystallophones===
+  ระนาด (ránâat) (noun) :: {musical instruments} generic term for traditional Thai keyboard percussion instruments (most often xylophones, but also including metallophones and crystallophones)
 ===cup===
   แก้ว (gâew) (noun) :: drinking glass, cup, crystal
     เขากำลังใช้แก้วใบนั้นดื่มนม :: She is using that glass to drink milk.
@@ -5998,6 +6049,8 @@ Index: EN EN->TH
   จักร (jak) (noun) :: gear
 ===Gemini===
   ราศีเมถุน (rāsī méthun) (proper noun) :: Gemini
+===generic===
+  ระนาด (ránâat) (noun) :: {musical instruments} generic term for traditional Thai keyboard percussion instruments (most often xylophones, but also including metallophones and crystallophones)
 ===genuine===
   จริง (jing) :: authentic, genuine
 ===ghost===
@@ -6257,6 +6310,8 @@ Index: EN EN->TH
     แผ่นดินใหญ่ (pàen din yài) :: mainland
 ===include===
   มี (mee) {th-verb} :: to contain, to include
+===including===
+  ระนาด (ránâat) (noun) :: {musical instruments} generic term for traditional Thai keyboard percussion instruments (most often xylophones, but also including metallophones and crystallophones)
 ===inclusive===
   เรา (rao) (pronoun) :: {archaic} we/us (inclusive)
 ===indeed===
@@ -6279,6 +6334,8 @@ Index: EN EN->TH
   อาจารย์ (aajaan) :: instructor, senior instructor
   ครู (kroo) (noun) :: teacher, schoolteacher, instructor
     ครูคนนี้ให้การบ้านเยอะจัง (kroo kon née hâi gaanbâan yúh jang) :: This teacher gives a lot of homework.
+===instruments===
+  ระนาด (ránâat) (noun) :: {musical instruments} generic term for traditional Thai keyboard percussion instruments (most often xylophones, but also including metallophones and crystallophones)
 ===intend===
   ตั้งใจ (tangjai) (verb) :: To intend.
 ===intentionally===
@@ -6344,6 +6401,8 @@ Index: EN EN->TH
 ===keep===
   เก็บ (keb) (verb) :: To keep.
   หวาน (wăan) :: to keep turning
+===keyboard===
+  ระนาด (ránâat) (noun) :: {musical instruments} generic term for traditional Thai keyboard percussion instruments (most often xylophones, but also including metallophones and crystallophones)
 ===คํ่า===
   ฅํ่า (kham) (noun) :: {obsolete}Alternative spelling of คํ่า.
 ===ฆ่า===
@@ -6742,6 +6801,11 @@ Index: EN EN->TH
   วิหาร (wíhăan) :: a meeting room or prayer room containing religious images in a Buddhist monastery
 ===Meitei===
   ภาษามณีปุระ (paasăa maniipura) (proper noun) :: The Meitei language.
+===Mekong===
+  แม่น้ำโขง (maenamkhong) (proper noun) :: Mekong river
+  แม่โขง (maekhong) (proper noun) :: Mekong river
+  โขง (khong) (proper noun) :: Mekong river
+  แม่นํ้าโขง (maenamkhong) (proper noun) :: Mekong river
 ===mellifluous===
   หวาน (wăan) :: mellifluous
 ===Meo===
@@ -6758,6 +6822,8 @@ Index: EN EN->TH
 ===metal===
   โลหะ (loha) (noun) :: metal.
   ตาไก่ (taagài) (noun) :: metal eyelet, grommet
+===metallophones===
+  ระนาด (ránâat) (noun) :: {musical instruments} generic term for traditional Thai keyboard percussion instruments (most often xylophones, but also including metallophones and crystallophones)
 ===Miao===
   ม้ง (mong) (noun) :: Hmong, Miao, Meo (an Asian ethnic group whose homeland is in the mountainous regions around Guizhou, southern China, and northern Vietnam, Laos, and Thailand).
   แม้ว (máew) (noun) :: Miao, Hmong, Meo (an Asian ethnic group whose homeland is in the mountainous regions around Guizhou, southern China, and northern Vietnam, Laos, and Thailand).
@@ -6824,6 +6890,7 @@ Index: EN EN->TH
   อรุณ (arun) (noun) :: morning
 ===most===
   สมเด็จเจ้าพระยา (sŏmdèt jâao práyaa) (noun) :: Somdej Chao Phraya, Prince (most senior Thai title for males)
+  ระนาด (ránâat) (noun) :: {musical instruments} generic term for traditional Thai keyboard percussion instruments (most often xylophones, but also including metallophones and crystallophones)
 ===mother===
   แม่ (mâe) (noun) :: A mother.
 ===motorised===
@@ -6921,6 +6988,8 @@ Index: EN EN->TH
   ณ (nā) (preposition) :: of, from (a kingdom, when used as a part of a Thai noble family name)
 ===nobleman===
   ขุน (khun) (noun) :: A nobleman.
+===noodle===
+  ก๋วยเตี๋ยว (guitiao) (noun) :: rice noodle
 ===nor===
   ไม่ (mai) (conjunction) :: nor
 ===northeast===
@@ -6977,6 +7046,8 @@ Index: EN EN->TH
   เย็น (yen) (verb) :: to be cold, to be cool, to chill, to cool off
 ===officers===
   หมื่น (mèun) (number) :: a lower rank in the Thai nobility, usually held by relatively junior officers
+===often===
+  ระนาด (ránâat) (noun) :: {musical instruments} generic term for traditional Thai keyboard percussion instruments (most often xylophones, but also including metallophones and crystallophones)
 ===ogre===
   ยักษ์ (yak) (noun) :: An ogre
 ===oil===
@@ -7010,6 +7081,8 @@ Index: EN EN->TH
   พาด (pād) (verb) :: To drape over.
 ===own===
   มี (mee) {th-verb} :: to have, to own
+===oyster===
+  มุก (móok) (noun) :: oyster
 ===p===
   เย็น (yen) (noun) :: late afternoon, early evening (4:00 p.m. to 6:00 p.m.)
 ===pad===
@@ -7097,6 +7170,8 @@ Index: EN EN->TH
 ===perceive===
   เข้าใจ (khao jai) (verb) :: To perceive.
   รับรู้ (rab rū) (verb) :: To perceive.
+===percussion===
+  ระนาด (ránâat) (noun) :: {musical instruments} generic term for traditional Thai keyboard percussion instruments (most often xylophones, but also including metallophones and crystallophones)
 ===personality===
   กริยา (karīyā) {th-noun} :: personality
 ===pertaining===
@@ -7266,6 +7341,7 @@ Index: EN EN->TH
   องค์จาตุคามรามเทพ (ong jātūkhām rāmatêp) :: Jatukham Rammathep (a popular amulet sold by some Buddhist temples that provides the bearer protection and good fortune)
 ===rancid===
   เขียว (khĭeow) (adjective) :: stinking, rancid, rank, bad smelling, strong smelling
+  โขง (khong) (noun) :: rancid
 ===rank===
   เขียว (khĭeow) (adjective) :: stinking, rancid, rank, bad smelling, strong smelling
   หมื่น (mèun) (number) :: a lower rank in the Thai nobility, usually held by relatively junior officers
@@ -7353,6 +7429,7 @@ Index: EN EN->TH
 ===rice===
   ข้าว (khâao) (noun) :: rice
   นา (naa) (noun) :: rice field.
+  ก๋วยเตี๋ยว (guitiao) (noun) :: rice noodle
 ===right===
   ขวา (khwaa) (noun) :: right side(opposite of left).
   ไหม (măi) (particle) :: final interrogative particle.
@@ -7361,6 +7438,10 @@ Index: EN EN->TH
   อุทัย (uthai) (verb) :: To rise (used by Sun or stars).
 ===river===
   แม่น้ำ (maenam) (noun) :: river
+  แม่น้ำโขง (maenamkhong) (proper noun) :: Mekong river
+  แม่โขง (maekhong) (proper noun) :: Mekong river
+  โขง (khong) (proper noun) :: Mekong river
+  แม่นํ้าโขง (maenamkhong) (proper noun) :: Mekong river
 ===rob===
   ปล้น (plon) (verb) :: To rob.
 ===rock===
@@ -7891,6 +7972,8 @@ Index: EN EN->TH
   กาล (kān) (noun) :: {linguistics} verb tense
 ===tenth===
   ช (ch, sh; chaw cháang) :: The tenth letter of the Thai alphabet.
+===term===
+  ระนาด (ránâat) (noun) :: {musical instruments} generic term for traditional Thai keyboard percussion instruments (most often xylophones, but also including metallophones and crystallophones)
 ===testicle===
   อัณฑะ (antha) (noun) :: testicle
 ===thai===
@@ -7973,6 +8056,7 @@ Index: EN EN->TH
   หมื่น (mèun) (number) :: {cardinal} ten thousand (Thai numerals: ๑๐๐๐๐)
   หมื่น (mèun) (number) :: a lower rank in the Thai nobility, usually held by relatively junior officers
   สมเด็จเจ้าพระยา (sŏmdèt jâao práyaa) (noun) :: Somdej Chao Phraya, Prince (most senior Thai title for males)
+  ระนาด (ránâat) (noun) :: {musical instruments} generic term for traditional Thai keyboard percussion instruments (most often xylophones, but also including metallophones and crystallophones)
 ===Thailand===
   ไทย (Tai) (proper noun) :: Thailand
   ม้ง (mong) (noun) :: Hmong, Miao, Meo (an Asian ethnic group whose homeland is in the mountainous regions around Guizhou, southern China, and northern Vietnam, Laos, and Thailand).
@@ -8073,6 +8157,7 @@ Index: EN EN->TH
   นคร (nakorn) (noun) :: city, town
 ===traditional===
   แคน (këën) (noun) :: khene (traditional free reed mouth organ of Laos and northeast Thailand)
+  ระนาด (ránâat) (noun) :: {musical instruments} generic term for traditional Thai keyboard percussion instruments (most often xylophones, but also including metallophones and crystallophones)
 ===transform===
   แปลง (plaeng) (verb) :: To transform.
 ===tree===
@@ -8295,6 +8380,8 @@ Index: EN EN->TH
 ===write===
   เขียน (kian) (verb) :: To write.
   จด (jod) (verb) :: To write.
+===xylophones===
+  ระนาด (ránâat) (noun) :: {musical instruments} generic term for traditional Thai keyboard percussion instruments (most often xylophones, but also including metallophones and crystallophones)
 ===yarn===
   ด้าย (dâai) :: thread, string, cord, yarn
 ===yell===
