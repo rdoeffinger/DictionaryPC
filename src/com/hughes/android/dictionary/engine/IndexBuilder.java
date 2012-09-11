@@ -54,7 +54,7 @@ public class IndexBuilder {
       
       TokenRow tokenRow = null;
       if (!tokenData.htmlEntries.isEmpty()) {
-          tokenRow = new TokenRow(indexIndex, rows.size(), index, /* hasMainEntry */ true);
+          tokenRow = new TokenRow(indexIndex, rows.size(), index, tokenData.hasMainEntry);
           rows.add(tokenRow);
       }
       

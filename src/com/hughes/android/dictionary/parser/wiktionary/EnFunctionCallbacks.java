@@ -32,7 +32,13 @@ import com.hughes.util.ListUtil;
 class EnFunctionCallbacks {
   
   static final Map<String,FunctionCallback<EnParser>> DEFAULT = new LinkedHashMap<String, FunctionCallback<EnParser>>();
-  
+
+  static final Map<String,FunctionCallback<AbstractWiktionaryParser>> DEFAULT_GENERIC = new LinkedHashMap<String, FunctionCallback<AbstractWiktionaryParser>>();
+  static {
+      FunctionCallback<AbstractWiktionaryParser> callback = new TranslationCallback<AbstractWiktionaryParser>();
+      DEFAULT_GENERIC.put("t", callback);
+  }
+
   static {
     FunctionCallback<EnParser> callback = new TranslationCallback<EnParser>();
     DEFAULT.put("t", callback);
@@ -100,7 +106,7 @@ class EnFunctionCallbacks {
     callback = new AppendName();
     DEFAULT.put("...", callback);
     
-    DEFAULT.put("qualifier", new QualifierCallback());
+    DEFAULT.put("qualifier", new QualifierCallback<EnParser>());
     DEFAULT.put("italbrac", new italbrac());
     DEFAULT.put("gloss", new gloss());
     DEFAULT.put("not used", new not_used());
@@ -173,12 +179,12 @@ class EnFunctionCallbacks {
 
   // ------------------------------------------------------------------
   
-  static final class QualifierCallback implements FunctionCallback<EnParser> {
+  static final class QualifierCallback<T extends AbstractWiktionaryParser> implements FunctionCallback<T> {
     @Override
     public boolean onWikiFunction(final WikiTokenizer wikiTokenizer, final String name, final List<String> args,
         final Map<String, String> namedArgs,
-        final EnParser parser,
-        final AppendAndIndexWikiCallback<EnParser> appendAndIndexWikiCallback) {
+        final T parser,
+        final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
       if (args.size() != 1 || !namedArgs.isEmpty()) {
         EnParser.LOG.warning("weird qualifier: ");
         return false;
@@ -193,12 +199,12 @@ class EnFunctionCallbacks {
 
   // ------------------------------------------------------------------
   
-  static final class EncodingCallback implements FunctionCallback<EnParser> {
+  static final class EncodingCallback<T extends AbstractWiktionaryParser> implements FunctionCallback<T> {
     @Override
     public boolean onWikiFunction(final WikiTokenizer wikiTokenizer, final String name, final List<String> args,
         final Map<String, String> namedArgs,
-        final EnParser parser,
-        final AppendAndIndexWikiCallback<EnParser> appendAndIndexWikiCallback) {
+        final T parser,
+        final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
       if (!namedArgs.isEmpty()) {
         EnParser.LOG.warning("weird encoding: " + wikiTokenizer.token());
       }
@@ -224,12 +230,12 @@ class EnFunctionCallbacks {
 
   // ------------------------------------------------------------------
   
-  static final class Gender implements FunctionCallback<EnParser> {
+  static final class Gender<T extends AbstractWiktionaryParser> implements FunctionCallback<T> {
     @Override
     public boolean onWikiFunction(final WikiTokenizer wikiTokenizer, final String name, final List<String> args,
         final Map<String, String> namedArgs,
-        final EnParser parser,
-        final AppendAndIndexWikiCallback<EnParser> appendAndIndexWikiCallback) {
+        final T parser,
+        final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
       if (!namedArgs.isEmpty()) {
         return false;
       }
@@ -312,7 +318,7 @@ class EnFunctionCallbacks {
 
   // ------------------------------------------------------------------
   
-  static final class AppendArg0 implements FunctionCallback<EnParser> {
+  static final class AppendArg0<T extends AbstractWiktionaryParser> implements FunctionCallback<EnParser> {
     @Override
     public boolean onWikiFunction(final WikiTokenizer wikiTokenizer, final String name, final List<String> args,
         final Map<String, String> namedArgs,
@@ -337,12 +343,12 @@ class EnFunctionCallbacks {
 
   // ------------------------------------------------------------------
   
-  static final class italbrac implements FunctionCallback<EnParser> {
+  static final class italbrac<T extends AbstractWiktionaryParser> implements FunctionCallback<T> {
     @Override
     public boolean onWikiFunction(final WikiTokenizer wikiTokenizer, final String name, final List<String> args,
         final Map<String, String> namedArgs,
-        final EnParser parser,
-        final AppendAndIndexWikiCallback<EnParser> appendAndIndexWikiCallback) {
+        final T parser,
+        final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
       if (args.size() != 1 || !namedArgs.isEmpty()) {
         return false;
       }
@@ -355,12 +361,12 @@ class EnFunctionCallbacks {
 
   // ------------------------------------------------------------------
   
-  static final class gloss implements FunctionCallback<EnParser> {
+  static final class gloss<T extends AbstractWiktionaryParser> implements FunctionCallback<T> {
     @Override
     public boolean onWikiFunction(final WikiTokenizer wikiTokenizer, final String name, final List<String> args,
         final Map<String, String> namedArgs,
-        final EnParser parser,
-        final AppendAndIndexWikiCallback<EnParser> appendAndIndexWikiCallback) {
+        final T parser,
+        final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
       if (args.size() != 1 || !namedArgs.isEmpty()) {
         return false;
       }
@@ -373,24 +379,24 @@ class EnFunctionCallbacks {
   
   // ------------------------------------------------------------------
   
-  static final class Ignore implements FunctionCallback<EnParser> {
+  static final class Ignore<T extends AbstractWiktionaryParser> implements FunctionCallback<T> {
     @Override
     public boolean onWikiFunction(final WikiTokenizer wikiTokenizer, final String name, final List<String> args,
         final Map<String, String> namedArgs,
-        final EnParser parser,
-        final AppendAndIndexWikiCallback<EnParser> appendAndIndexWikiCallback) {
+        final T parser,
+        final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
       return true;
     }
   }
 
   // ------------------------------------------------------------------
   
-  static final class not_used implements FunctionCallback<EnParser> {
+  static final class not_used<T extends AbstractWiktionaryParser> implements FunctionCallback<T> {
     @Override
     public boolean onWikiFunction(final WikiTokenizer wikiTokenizer, final String name, final List<String> args,
         final Map<String, String> namedArgs,
-        final EnParser parser,
-        final AppendAndIndexWikiCallback<EnParser> appendAndIndexWikiCallback) {
+        final T parser,
+        final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
       appendAndIndexWikiCallback.builder.append("(not used)");
       return true;
     }
@@ -399,12 +405,12 @@ class EnFunctionCallbacks {
 
   // ------------------------------------------------------------------
   
-  static final class AppendName implements FunctionCallback<EnParser> {
+  static final class AppendName<T extends AbstractWiktionaryParser> implements FunctionCallback<T> {
     @Override
     public boolean onWikiFunction(final WikiTokenizer wikiTokenizer, final String name, final List<String> args,
         final Map<String, String> namedArgs,
-        final EnParser parser,
-        final AppendAndIndexWikiCallback<EnParser> appendAndIndexWikiCallback) {
+        final T parser,
+        final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
       if (!args.isEmpty() || !namedArgs.isEmpty()) {
         return false;
       }
@@ -460,12 +466,12 @@ class EnFunctionCallbacks {
   // --------------------------------------------------------------------
   // --------------------------------------------------------------------
   
-  static final class wikipedia implements FunctionCallback<EnParser> {
+  static final class wikipedia<T extends AbstractWiktionaryParser> implements FunctionCallback<T> {
     @Override
     public boolean onWikiFunction(final WikiTokenizer wikiTokenizer, final String name, final List<String> args,
         final Map<String, String> namedArgs,
-        final EnParser parser,
-        final AppendAndIndexWikiCallback<EnParser> appendAndIndexWikiCallback) {
+        final T parser,
+        final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
       namedArgs.remove("lang");
       if (args.size() > 1 || !namedArgs.isEmpty()) {
         // Unindexed!
