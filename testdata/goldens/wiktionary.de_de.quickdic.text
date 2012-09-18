@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.german 5702
+EntrySource: enwiktionary.german 5705
 
 Index: DE DE->EN
 ===001===
@@ -574,8 +574,8 @@ Index: DE DE->EN
   ne :: {colloquial} shorthand of the feminine indefinite article eine (“an; a”)
     Möchtest du ne Flasche Bier? :: “Would you like a bottle of beer?”
 ===bieten===
-  bot (verb form) :: {First-person singular [[preterite]]|bieten}
-  bot (verb form) :: {Third-person singular [[preterite]]|bieten}
+  bot (verb form) :: {First-person singular preterite|bieten}
+  bot (verb form) :: {Third-person singular preterite|bieten}
 ===Bild===
   an (preposition), with an accusative or dative case object :: {{context|with a location in the dative case}} on; upon; at; in; against
     Das Bild hängt an der Wand. :: “The picture hangs on the wall.”
@@ -677,8 +677,8 @@ Index: DE DE->EN
   böse {{de-adj|comparative=böser|superlative=bösesten}} :: angry
   böse {{de-adj|comparative=böser|superlative=bösesten}} :: evil
 ===bot===
-  bot (verb form) :: {First-person singular [[preterite]]|bieten}
-  bot (verb form) :: {Third-person singular [[preterite]]|bieten}
+  bot (verb form) :: {First-person singular preterite|bieten}
+  bot (verb form) :: {Third-person singular preterite|bieten}
 ***Bote***
   Bote {{de-noun|g=m|gen=Boten|plural=Boten}} :: messenger
   Bote {{de-noun|g=m|gen=Boten|plural=Boten}} :: postman, letter carrier
@@ -979,7 +979,7 @@ Index: DE DE->EN
   (Low German) de {m} (pronoun), accusative: den :: {relative} which, that
     De Mann, de dår güng. (The man, which walked there.) :: --
     De Mann, den wi hüert häbben. (The man, which we hired.) :: --
-  den (article), definite :: the; {[[accusative]] masculine singular|der}
+  den (article), definite :: the; {accusative masculine singular|der}
   den (article), definite :: the; {dative plural for all genders|der}
   den (pronoun form) :: that; whom; {accusative singular|der}
 ***denn***
@@ -4686,6 +4686,7 @@ Index: EN EN->DE
 ===account===
   ob (+ genitive) :: {dated} on account of
 ===accusative===
+  den (article), definite :: the; {accusative masculine singular|der}
   in (preposition) :: (in + accusative) into
     Er geht ins Haus. :: "He goes into the house."
   meine {f/pl} (pronoun form) :: {possessive} Feminine nominative and accusative singular form of mein.
@@ -9355,6 +9356,9 @@ Index: EN EN->DE
   an- (prefix) :: Separable verb prefix, up
 ===president===
   Präsident {{de-noun|g=m|genitive=Präsidenten|plural=Präsidenten}} :: president, chairman.
+===preterite===
+  bot (verb form) :: {First-person singular preterite|bieten}
+  bot (verb form) :: {Third-person singular preterite|bieten}
 ===pretty===
   schön {{de-adj|schöner|schönsten}} :: beautiful, lovely, pretty, handsome
   breit (adjective) :: {colloquial} drunk or high on marijuana; stoned

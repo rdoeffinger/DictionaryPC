@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.italian 5211
+EntrySource: enwiktionary.italian 5247
 
 Index: IT IT->EN
 ===1963===
@@ -24,9 +24,9 @@ Index: IT IT->EN
 ===abalienate===
   abalienate :: {conjugation of|abalienare|2|p|pres|ind}
   abalienate :: {conjugation of|abalienare|2|p|imp}
-  abalienate :: {[[feminine|Feminine]] plural|abalienato}
+  abalienate :: {Feminine plural|abalienato}
 ===abalienato===
-  abalienate :: {[[feminine|Feminine]] plural|abalienato}
+  abalienate :: {Feminine plural|abalienato}
 ===abalieno===
   abalieno :: {conjugation of|abalienare|1|s|pres|ind}
 ***abate***
@@ -54,9 +54,9 @@ Index: IT IT->EN
 ===aberrate===
   aberrate :: {conjugation of|aberrare|2|p|pres|ind}
   aberrate :: {conjugation of|aberrare|2|p|imp}
-  aberrate :: {[[feminine|Feminine]] plural|aberrato}
+  aberrate :: {Feminine plural|aberrato}
 ===aberrato===
-  aberrate :: {[[feminine|Feminine]] plural|aberrato}
+  aberrate :: {Feminine plural|aberrato}
 ***ablative***
   ablative {f} :: Feminine plural form of ablativo
 ===abominare===
@@ -65,9 +65,9 @@ Index: IT IT->EN
 ===abominate===
   abominate :: {conjugation of|abominare|2|p|pres|ind}
   abominate :: {conjugation of|abominare|2|p|imp}
-  abominate :: {[[feminine|Feminine]] plural|abominato}
+  abominate :: {Feminine plural|abominato}
 ===abominato===
-  abominate :: {[[feminine|Feminine]] plural|abominato}
+  abominate :: {Feminine plural|abominato}
 ===abortive===
   abortive (adjective form) {f|p} :: {feminine plural of|abortivo}
 ===abortivo===
@@ -88,11 +88,11 @@ Index: IT IT->EN
 ===abrogate===
   abrogate :: {conjugation of|abrogare|2|p|pres|ind}
   abrogate :: {conjugation of|abrogare|2|p|imp}
-  abrogate :: {[[feminine|Feminine]] plural|abrogato}
+  abrogate :: {Feminine plural|abrogato}
 ***abrogative***
   abrogative {f} :: Feminine plural form of abrogativo
 ===abrogato===
-  abrogate :: {[[feminine|Feminine]] plural|abrogato}
+  abrogate :: {Feminine plural|abrogato}
 ***abusive***
   abusive {f} :: Feminine plural form of abusivo
 ***acacia***
@@ -124,9 +124,9 @@ Index: IT IT->EN
   accentuate {f} :: Feminine plural form of accentuato
   accentuate :: {conjugation of|accentuare|2|p|pres|ind}
   accentuate :: {conjugation of|accentuare|2|p|imp}
-  accentuate :: {[[feminine|Feminine]] plural|accentuato}
+  accentuate :: {Feminine plural|accentuato}
 ===accentuato===
-  accentuate :: {[[feminine|Feminine]] plural|accentuato}
+  accentuate :: {Feminine plural|accentuato}
 ===accidia===
   accidie {f} :: {plural of|accidia}
 ===accidie===
@@ -137,9 +137,9 @@ Index: IT IT->EN
 ===acclimate===
   acclimate :: {conjugation of|acclimare|2|p|pres|ind}
   acclimate :: {conjugation of|acclimare|2|p|imp}
-  acclimate :: {[[feminine|Feminine]] plural|acclimato}
+  acclimate :: {Feminine plural|acclimato}
 ===acclimato===
-  acclimate :: {[[feminine|Feminine]] plural|acclimato}
+  acclimate :: {Feminine plural|acclimato}
 ***acclive***
   acclive {{it-adj|accliv|e|i}} :: steep
 ***account***
@@ -161,9 +161,9 @@ Index: IT IT->EN
 ===accumulate===
   accumulate :: {conjugation of|accumulare|2|p|pres|ind}
   accumulate :: {conjugation of|accumulare|2|p|imp}
-  accumulate :: {[[feminine|Feminine]] plural|accumulato}
+  accumulate :: {Feminine plural|accumulato}
 ===accumulato===
-  accumulate :: {[[feminine|Feminine]] plural|accumulato}
+  accumulate :: {Feminine plural|accumulato}
 ===accurate===
   accurate {f|p} (adjective form) :: {feminine plural of|accurato}
 ===accurato===
@@ -237,9 +237,9 @@ Index: IT IT->EN
 ===aggregate===
   aggregate :: {conjugation of|aggregare|2|p|pres|ind}
   aggregate :: {conjugation of|aggregare|2|p|imp}
-  aggregate :: {[[feminine|Feminine]] plural|aggregato}
+  aggregate :: {Feminine plural|aggregato}
 ===aggregato===
-  aggregate :: {[[feminine|Feminine]] plural|aggregato}
+  aggregate :: {Feminine plural|aggregato}
 ***agreement***
   agreement {m} (noun) {inv} :: agreement (pact, accord)
 ***agricola***
@@ -777,9 +777,9 @@ Index: IT IT->EN
   candidate {f} :: {plural of|candidata}
   candidate :: {conjugation of|candidare|2|p|pres|ind}
   candidate :: {conjugation of|candidare|2|p|imp}
-  candidate :: {[[feminine|Feminine]] plural|candidato}
+  candidate :: {Feminine plural|candidato}
 ===candidato===
-  candidate :: {[[feminine|Feminine]] plural|candidato}
+  candidate :: {Feminine plural|candidato}
 ***cane***
   cane (adjective) {inv} :: freezing, biting (cold)
     Oggi fa un freddo cane! :: Today is freezing cold!
@@ -1014,9 +1014,9 @@ Index: IT IT->EN
 ===concatenate===
   concatenate :: {conjugation of|concatenare|2|p|pres|ind}
   concatenate :: {conjugation of|concatenare|2|p|imp}
-  concatenate :: {[[feminine|Feminine]] plural|concatenato}
+  concatenate :: {Feminine plural|concatenato}
 ===concatenato===
-  concatenate :: {[[feminine|Feminine]] plural|concatenato}
+  concatenate :: {Feminine plural|concatenato}
 ===concrete===
   concrete {p} :: {feminine of|concreto}
 ===concreto===
@@ -1043,9 +1043,9 @@ Index: IT IT->EN
 ===copulate===
   copulate :: {conjugation of|copulare|2|p|pres|ind}
   copulate :: {conjugation of|copulare|2|p|imp}
-  copulate :: {[[feminine|Feminine]] plural|copulato}
+  copulate :: {Feminine plural|copulato}
 ===copulato===
-  copulate :: {[[feminine|Feminine]] plural|copulato}
+  copulate :: {Feminine plural|copulato}
 ===copule===
   copula {f}, copule {pl} :: copula
   copula {f}, copule {pl} :: conjunction
@@ -1223,9 +1223,9 @@ Index: IT IT->EN
 ***deduce***
   deduce :: Third-person singular indicative present of dedurre.
 ===defenestrare===
-  defenestrate (verb form) :: {[[second-person plural|second-person plural]] [[present tense]] and [[imperative]]|defenestrare}
+  defenestrate (verb form) :: {second-person plural present tense and imperative|defenestrare}
 ===defenestrate===
-  defenestrate (verb form) :: {[[second-person plural|second-person plural]] [[present tense]] and [[imperative]]|defenestrare}
+  defenestrate (verb form) :: {second-person plural present tense and imperative|defenestrare}
 ***deficit***
   deficit {m} (noun) {inv} :: deficit (financial, medical)
 ===dèi===
@@ -1242,9 +1242,9 @@ Index: IT IT->EN
   delegate {f} :: {plural of|delegata}
   delegate :: {conjugation of|delegare|2|p|pres|ind}
   delegate :: {conjugation of|delegare|2|p|imp}
-  delegate :: {[[feminine|Feminine]] plural|delegato}
+  delegate :: {Feminine plural|delegato}
 ===delegato===
-  delegate :: {[[feminine|Feminine]] plural|delegato}
+  delegate :: {Feminine plural|delegato}
 ***delineate***
   delineate :: second-person plural present tense and imperative of delineare
 ***delta***
@@ -1281,9 +1281,9 @@ Index: IT IT->EN
 ===detonate===
   detonate :: {conjugation of|detonare|2|p|pres|ind}
   detonate :: {conjugation of|detonare|2|p|imp}
-  detonate :: {[[feminine|Feminine]] plural|detonato}
+  detonate :: {Feminine plural|detonato}
 ===detonato===
-  detonate :: {[[feminine|Feminine]] plural|detonato}
+  detonate :: {Feminine plural|detonato}
 ***dia***
   dia :: first-person singular, second-person singular and third-person singular present subjunctive of dare
   dia :: third-person singular imperative of dare
@@ -1416,9 +1416,9 @@ Index: IT IT->EN
 ===emulate===
   emulate :: {conjugation of|emulare|2|p|pres|ind}
   emulate :: {conjugation of|emulare|2|p|imp}
-  emulate :: {[[feminine|Feminine]] plural|emulato}
+  emulate :: {Feminine plural|emulato}
 ===emulato===
-  emulate :: {[[feminine|Feminine]] plural|emulato}
+  emulate :: {Feminine plural|emulato}
 ***Enna***
   Enna {it-proper noun} :: Enna (province)
   Enna {it-proper noun} :: Enna (town)
@@ -1428,9 +1428,9 @@ Index: IT IT->EN
 ===enumerate===
   enumerate :: {conjugation of|enumerare|2|p|pres|ind}
   enumerate :: {conjugation of|enumerare|2|p|imp}
-  enumerate :: {[[feminine|Feminine]] plural|enumerato}
+  enumerate :: {Feminine plural|enumerato}
 ===enumerato===
-  enumerate :: {[[feminine|Feminine]] plural|enumerato}
+  enumerate :: {Feminine plural|enumerato}
 ***epsilon***
   epsilon (noun) {m|f|inv} :: epsilon (Greek letter)
 ***era***
@@ -1467,9 +1467,9 @@ Index: IT IT->EN
   erudite {f} :: {plural of|erudita}
   erudite :: {conjugation of|erudire|2|p|pres|ind}
   erudite :: {conjugation of|erudire|2|p|imp}
-  erudite :: {[[feminine|Feminine]] plural|erudito}
+  erudite :: {Feminine plural|erudito}
 ===erudito===
-  erudite :: {[[feminine|Feminine]] plural|erudito}
+  erudite :: {Feminine plural|erudito}
 ===escudi===
   escudo {m}, escudi {pl} :: escudo (all senses)
 ***escudo***
@@ -1496,9 +1496,9 @@ Index: IT IT->EN
 ===evaporate===
   evaporate :: {conjugation of|evaporare|2|p|pres|ind}
   evaporate :: {conjugation of|evaporare|2|p|imp}
-  evaporate :: {[[feminine|Feminine]] plural|evaporato}
+  evaporate :: {Feminine plural|evaporato}
 ===evaporato===
-  evaporate :: {[[feminine|Feminine]] plural|evaporato}
+  evaporate :: {Feminine plural|evaporato}
 ***evergreen***
   evergreen (adjective) {m|f|inv} :: evergreen (always in style)
   evergreen (noun) {m|inv} :: A song or singer that is always in style
@@ -1647,9 +1647,9 @@ Index: IT IT->EN
 ===fulminate===
   fulminate :: {conjugation of|fulminare|2|p|pres|ind}
   fulminate :: {conjugation of|fulminare|2|p|imp}
-  fulminate :: {[[feminine|Feminine]] plural|fulminato}
+  fulminate :: {Feminine plural|fulminato}
 ===fulminato===
-  fulminate :: {[[feminine|Feminine]] plural|fulminato}
+  fulminate :: {Feminine plural|fulminato}
 ***furtive***
   furtive {f} :: Feminine plural form of furtivo
 ===future===
@@ -1745,9 +1745,9 @@ Index: IT IT->EN
 ===graduate===
   graduate :: {conjugation of|graduare|2|p|pres|ind}
   graduate :: {conjugation of|graduare|2|p|imp}
-  graduate :: {[[feminine|Feminine]] plural|graduato}
+  graduate :: {Feminine plural|graduato}
 ===graduato===
-  graduate :: {[[feminine|Feminine]] plural|graduato}
+  graduate :: {Feminine plural|graduato}
 ***graffiti***
   graffiti {m} :: Plural of graffito
   graffiti {m|p} :: {plural of|graffito}
@@ -1910,9 +1910,9 @@ Index: IT IT->EN
 ===incorporate===
   incorporate :: {conjugation of|incorporare|2|p|pres|ind}
   incorporate :: {conjugation of|incorporare|2|p|imp}
-  incorporate :: {[[feminine|Feminine]] plural|incorporato}
+  incorporate :: {Feminine plural|incorporato}
 ===incorporato===
-  incorporate :: {[[feminine|Feminine]] plural|incorporato}
+  incorporate :: {Feminine plural|incorporato}
 ***India***
   India {f} ({plural} Indie) :: India
   India {f} ({plural} Indie) :: {plural}: the Indies
@@ -1976,9 +1976,9 @@ Index: IT IT->EN
 ===investigate===
   investigate :: {conjugation of|investigare|2|p|pres|ind}
   investigate :: {conjugation of|investigare|2|p|imp}
-  investigate :: {[[feminine|Feminine]] plural|investigato}
+  investigate :: {Feminine plural|investigato}
 ===investigato===
-  investigate :: {[[feminine|Feminine]] plural|investigato}
+  investigate :: {Feminine plural|investigato}
 ***iota***
   iota (noun) {m|f|inv} :: iota (Greek letter)
   iota (noun) {m|f|inv} :: the letter j/J
@@ -2120,9 +2120,9 @@ Index: IT IT->EN
 ***laureate***
   laureate {f} :: Feminine plural form of laureato
   laureate {f} :: {plural of|laureata}
-  laureate (verb) :: {[[feminine|Feminine]] plural|laureato}
+  laureate (verb) :: {Feminine plural|laureato}
 ===laureato===
-  laureate (verb) :: {[[feminine|Feminine]] plural|laureato}
+  laureate (verb) :: {Feminine plural|laureato}
 ***lava***
   lava {f}, lave {pl} :: lava
   lava (verb form) :: {conjugation of|lavare|3|s|pres|ind}
@@ -2240,11 +2240,11 @@ Index: IT IT->EN
 ===locate===
   locate :: {conjugation of|locare|2|p|pres|ind}
   locate :: {conjugation of|locare|2|p|imp}
-  locate :: {[[feminine|Feminine]] plural|locato}
+  locate :: {Feminine plural|locato}
 ***locative***
   locative {f} :: Feminine plural form of locativo
 ===locato===
-  locate :: {[[feminine|Feminine]] plural|locato}
+  locate :: {Feminine plural|locato}
 ===lochi===
   loco {m}, lochi {pl} :: A place.
   loco {m}, lochi {pl} :: A written passage.
@@ -2771,9 +2771,9 @@ Index: IT IT->EN
 ===paginate===
   paginate :: {conjugation of|paginare|2|p|pres|ind}
   paginate :: {conjugation of|paginare|2|p|imp}
-  paginate :: {[[feminine|Feminine]] plural|paginato}
+  paginate :: {Feminine plural|paginato}
 ===paginato===
-  paginate :: {[[feminine|Feminine]] plural|paginato}
+  paginate :: {Feminine plural|paginato}
 ***Pakistan***
   Pakistan {m} :: Pakistan
 ===pala===
@@ -2860,9 +2860,9 @@ Index: IT IT->EN
 ===perseverate===
   perseverate :: {conjugation of|perseverare|2|p|pres|ind}
   perseverate :: {conjugation of|perseverare|2|p|imp}
-  perseverate :: {[[feminine|Feminine]] plural|perseverato}
+  perseverate :: {Feminine plural|perseverato}
 ===perseverato===
-  perseverate :: {[[feminine|Feminine]] plural|perseverato}
+  perseverate :: {Feminine plural|perseverato}
 ***Perugia***
   Perugia {{it-proper noun|g=f}} :: Perugia (province)
   Perugia {{it-proper noun|g=f}} :: Perugia (town)
@@ -3006,9 +3006,9 @@ Index: IT IT->EN
 ===postulate===
   postulate :: {conjugation of|postulare|2|p|pres|ind}
   postulate :: {conjugation of|postulare|2|p|imp}
-  postulate :: {[[feminine|Feminine]] plural|postulato}
+  postulate :: {Feminine plural|postulato}
 ===postulato===
-  postulate :: {[[feminine|Feminine]] plural|postulato}
+  postulate :: {Feminine plural|postulato}
 ***potato***
   potato {{it-pp|potat}} :: past participle of potare
 ***Potenza***
@@ -3057,9 +3057,9 @@ Index: IT IT->EN
 ===procrastinate===
   procrastinate :: {conjugation of|procrastinare|2|p|pres|ind}
   procrastinate :: {conjugation of|procrastinare|2|p|imp}
-  procrastinate :: {[[feminine|Feminine]] plural|procrastinato}
+  procrastinate :: {Feminine plural|procrastinato}
 ===procrastinato===
-  procrastinate :: {[[feminine|Feminine]] plural|procrastinato}
+  procrastinate :: {Feminine plural|procrastinato}
 ***produce***
   produce :: third-person singular indicative present of produrre
 ===progetti===
@@ -3218,9 +3218,9 @@ Index: IT IT->EN
 ===recuperate===
   recuperate :: {conjugation of|recuperare|2|p|pres|ind}
   recuperate :: {conjugation of|recuperare|2|p|imp}
-  recuperate :: {[[feminine|Feminine]] plural|recuperato}
+  recuperate :: {Feminine plural|recuperato}
 ===recuperato===
-  recuperate :: {[[feminine|Feminine]] plural|recuperato}
+  recuperate :: {Feminine plural|recuperato}
 ===Reggio===
   Reggio nell'Emilia {it-proper noun} :: Reggio nell'Emilia (province)
   Reggio nell'Emilia {it-proper noun} :: Reggio nell'Emilia (town)
@@ -3245,9 +3245,9 @@ Index: IT IT->EN
 ===relegate===
   relegate :: {conjugation of|relegare|2|p|pres|ind}
   relegate :: {conjugation of|relegare|2|p|imp}
-  relegate :: {[[feminine|Feminine]] plural|relegato}
+  relegate :: {Feminine plural|relegato}
 ===relegato===
-  relegate :: {[[feminine|Feminine]] plural|relegato}
+  relegate :: {Feminine plural|relegato}
 ***remake***
   remake {m} (noun) :: remake (of a film)
 ===remote===
@@ -3282,7 +3282,7 @@ Index: IT IT->EN
 ***ride***
   ride :: third-person singular indicative present of ridere
 ===ridere===
-  rise (verb form) :: {[[third-person]] [[singular]] [[past historic]]|ridere}
+  rise (verb form) :: {third-person singular past historic|ridere}
 ***Rieti***
   Rieti {{it-proper noun|g=f}} :: Rieti (province)
   Rieti {{it-proper noun|g=f}} :: Rieti (town)
@@ -3305,7 +3305,7 @@ Index: IT IT->EN
   Rimini {it-proper noun} :: Rimini (province)
   Rimini {it-proper noun} :: Rimini (town)
 ===rise===
-  rise (verb form) :: {[[third-person]] [[singular]] [[past historic]]|ridere}
+  rise (verb form) :: {third-person singular past historic|ridere}
 ***robot***
   robot {m} (noun) {inv} :: robot
   robot {m} (noun) {inv} :: {computing} bot
@@ -3452,14 +3452,14 @@ Index: IT IT->EN
   seconde {p} :: {feminine of|secondo}
 ***secrete***
   secrete {f} :: Feminine plural form of secreto
-  secrete :: {[[feminine|Feminine]] plural|secreto}
+  secrete :: {Feminine plural|secreto}
 ===secreti===
   secreto {m}, secreti {pl} :: humour, juices, secretion
 ***secreto***
   secreto {{it-adj|secret}} :: {poetic} segreto
   secreto {m}, secreti {pl} :: humour, juices, secretion
   secreto {{it-pp|secret}} :: {past participle of|secernere}
-  secrete :: {[[feminine|Feminine]] plural|secreto}
+  secrete :: {Feminine plural|secreto}
 ***secure***
   secure {f} :: Feminine plural form of securo
 ***segue***
@@ -3558,9 +3558,9 @@ Index: IT IT->EN
   simulate {f} :: Feminine plural form of simulato
   simulate :: {conjugation of|simulare|2|p|pres|ind}
   simulate :: {conjugation of|simulare|2|p|imp}
-  simulate :: {[[feminine|Feminine]] plural|simulato}
+  simulate :: {Feminine plural|simulato}
 ===simulato===
-  simulate :: {[[feminine|Feminine]] plural|simulato}
+  simulate :: {Feminine plural|simulato}
 ***Singapore***
   Singapore {{it-proper noun|g=m}} :: Singapore
 ===slave===
@@ -3695,9 +3695,9 @@ Index: IT IT->EN
 ===sublimate===
   sublimate :: {conjugation of|sublimare|2|p|pres|ind}
   sublimate :: {conjugation of|sublimare|2|p|imp}
-  sublimate :: {[[feminine|Feminine]] plural|sublimato}
+  sublimate :: {Feminine plural|sublimato}
 ===sublimato===
-  sublimate :: {[[feminine|Feminine]] plural|sublimato}
+  sublimate :: {Feminine plural|sublimato}
 ***Sudan***
   Sudan {{it-proper noun|m}} :: Sudan
 ===sumere===
@@ -4121,9 +4121,9 @@ Index: IT IT->EN
 ===vociferate===
   vociferate :: {conjugation of|vociferare|2|p|pres|ind}
   vociferate :: {conjugation of|vociferare|2|p|imp}
-  vociferate :: {[[feminine|Feminine]] plural|vociferato}
+  vociferate :: {Feminine plural|vociferato}
 ===vociferato===
-  vociferate :: {[[feminine|Feminine]] plural|vociferato}
+  vociferate :: {Feminine plural|vociferato}
 ***vodka***
   vodka {f} (noun) {inv} :: vodka
 ===vogliono===
@@ -5588,6 +5588,39 @@ Index: EN EN->IT
   incarcerate :: feminine plural past participle of incarcerare
   latina f :: feminine of latino
 ===Feminine===
+  abalienate :: {Feminine plural|abalienato}
+  aberrate :: {Feminine plural|aberrato}
+  abominate :: {Feminine plural|abominato}
+  abrogate :: {Feminine plural|abrogato}
+  acclimate :: {Feminine plural|acclimato}
+  relegate :: {Feminine plural|relegato}
+  accentuate :: {Feminine plural|accentuato}
+  accumulate :: {Feminine plural|accumulato}
+  copulate :: {Feminine plural|copulato}
+  candidate :: {Feminine plural|candidato}
+  graduate :: {Feminine plural|graduato}
+  emulate :: {Feminine plural|emulato}
+  recuperate :: {Feminine plural|recuperato}
+  simulate :: {Feminine plural|simulato}
+  incorporate :: {Feminine plural|incorporato}
+  sublimate :: {Feminine plural|sublimato}
+  evaporate :: {Feminine plural|evaporato}
+  investigate :: {Feminine plural|investigato}
+  delegate :: {Feminine plural|delegato}
+  vociferate :: {Feminine plural|vociferato}
+  locate :: {Feminine plural|locato}
+  postulate :: {Feminine plural|postulato}
+  perseverate :: {Feminine plural|perseverato}
+  laureate (verb) :: {Feminine plural|laureato}
+  enumerate :: {Feminine plural|enumerato}
+  secrete :: {Feminine plural|secreto}
+  fulminate :: {Feminine plural|fulminato}
+  detonate :: {Feminine plural|detonato}
+  procrastinate :: {Feminine plural|procrastinato}
+  aggregate :: {Feminine plural|aggregato}
+  concatenate :: {Feminine plural|concatenato}
+  erudite :: {Feminine plural|erudito}
+  paginate :: {Feminine plural|paginato}
   pie {f} :: Feminine plural form of pio
   ablative {f} :: Feminine plural form of ablativo
   abrasive {f} :: Feminine plural form of abrasivo
@@ -6058,6 +6091,7 @@ Index: EN EN->IT
   ne (contraction) :: {apocopic form of|nel}
     Massimo Troisi ha vinto un oscar per la sua interpretazione ne "Il postino". :: "Massimo Troisi won an Oscar for his performance in "Il Postino".
 ===historic===
+  rise (verb form) :: {third-person singular past historic|ridere}
   depose :: third-person singular past historic of deporre
   decompose :: third-person singular past historic of decomporre
   compose :: third-person singular past historic of comporre
@@ -8316,6 +8350,7 @@ Index: EN EN->IT
   sale (verb form) :: third-person singular indicative present tense of salire
   denigrate :: second-person plural present tense and imperative of denigrare
   crema :: third-person singular present tense of cremare
+  defenestrate (verb form) :: {second-person plural present tense and imperative|defenestrare}
   idea (verb form) :: third-person singular present tense of ideare
   accusa :: third-person singular present tense of accusare
   dice (verb form), infinitive: dire :: (Third-person singular present tense of dire) Says.
@@ -8386,6 +8421,7 @@ Index: EN EN->IT
   replica :: third-person singular present tense of replicare
   dia :: first-person singular, second-person singular and third-person singular present subjunctive of dare
   dia :: third-person singular imperative of dare
+  rise (verb form) :: {third-person singular past historic|ridere}
   crema :: third-person singular present tense of cremare
   idea (verb form) :: third-person singular present tense of ideare
   depose :: third-person singular past historic of deporre

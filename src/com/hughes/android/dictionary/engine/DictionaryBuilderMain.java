@@ -117,8 +117,8 @@ public class DictionaryBuilderMain extends TestCase {
         foreignRegex = "Chinese|Mandarin|Cantones";
       }
       
-      result.add(String.format("--lang1=%s", "EN"));
-      result.add(String.format("--lang2=%s",  foreignIso));
+      result.add(String.format("--lang1=%s", lang1));
+      result.add(String.format("--lang2=%s",  lang2));
       result.add(String.format("--dictInfo=(EN)Wikitionary-based EN-%s dictionary.%s", foreignIso, getDedication(foreignIso)));
       
       result.add(String.format("--input%d=%s/wikiSplit/en/%s.data", i, INPUTS, foreignIso));
