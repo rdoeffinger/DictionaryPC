@@ -157,7 +157,7 @@ HtmlEntry: abstinent <<<
 </ul>
 ---->>>
 ===Afghanistan===
-HtmlEntry: Afghanistan <<<{wikipedia}
+HtmlEntry: Afghanistan <<<
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-Afghanistan.ogg|audio}}</li>
 </ul>
@@ -189,7 +189,7 @@ HtmlEntry: also <<<
 </ol>
 ---->>>
 ===Andorra===
-HtmlEntry: Andorra <<<{wikipedia}
+HtmlEntry: Andorra <<<
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-Andorra.ogg|Audio}}</li>
 </ul>
@@ -253,7 +253,7 @@ HtmlEntry: Bangladesh <<<
 </ol>
 ---->>>
 ===Belize===
-HtmlEntry: Belize <<<{wikipedia}
+HtmlEntry: Belize <<<
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=n}}
 <ol><li> {{l|en|Belize}}</li>
@@ -266,7 +266,7 @@ HtmlEntry: Belize <<<{wikipedia}
 </ul>
 ---->>>
 ===Bhutan===
-HtmlEntry: Bhutan <<<{wikipedia}
+HtmlEntry: Bhutan <<<
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|/buˈtaːn/}}</li>
 <li> {{homophones|Butan}}</li>
@@ -299,7 +299,7 @@ HtmlEntry: bot <<<
 </ol>
 ---->>>
 ===Burundi===
-HtmlEntry: Burundi <<<{wikipedia}
+HtmlEntry: Burundi <<<
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=n}}
 <ol><li> {{l|en|Burundi}}</li>
@@ -313,17 +313,17 @@ HtmlEntry: Chile <<<
 </ol>
 ---->>>
 ===China===
-HtmlEntry: China <<<{wikipedia}
+HtmlEntry: China <<<
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-China.ogg|audio}}</li>
-<li> {{IPA|[ˈ&ccedil;iːnaː]}}, colloquially: {{IPAchar|[ˈʃiːnaː]}}</li>
-<li> Austria, Switzerland: {{IPAchar|[ˈkiːnaː]}}</li>
+<li> {{IPA|[ˈ&ccedil;iːnaː]}}, colloquially: [ˈʃiːnaː]</li>
+<li> Austria, Switzerland: [ˈkiːnaː]</li>
 <li> {{audio|De-at-China.ogg|Audio (Austria)}}</li>
 </ul>
 
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=n}}
-<ol><li> {{l|en|China}} {{gloss|country}}</li>
+<ol><li> {{l|en|China}} (country)</li>
 </ol>
 ---->>>
 ===dat===
@@ -533,7 +533,7 @@ HtmlEntry: digital <<<
 </ol>
 ---->>>
 ===Ecuador===
-HtmlEntry: Ecuador <<<{wikipedia}
+HtmlEntry: Ecuador <<<
 <h3>Pronunciation</h3>
 <ul><li> {{rhymes|oːɐ̯}}</li>
 </ul>
@@ -552,8 +552,8 @@ HtmlEntry: Ecuador <<<{wikipedia}
 ===een===
 HtmlEntry: een <<<
 <h3>Alternative forms</h3>
-<ul><li> {{qualifier|in other dialects, including Low Prussian}} {{l|nds|en}}</li>
-<li> {{qualifier|in some dialects}} {{l|nds|ein}}</li>
+<ul><li> (in other dialects, including Low Prussian) {{l|nds|en}}</li>
+<li> (in some dialects) {{l|nds|ein}}</li>
 <li> (<em>for others, see <b><a href="en">en</a></b></em>)</li>
 </ul>
 
@@ -581,9 +581,9 @@ Cognate to {{etyl|de|-}} <a href="ein">ein</a>, {{etyl|en|-}} <a href="an">an</a
 </ul>
 
 <h3>Alternative forms</h3>
-<ul><li> {{qualifier|in other dialects, including Low Prussian}} {{l|nds|een}}</li>
-<li> {{qualifier|in some dialects}} {{l|nds|ein}}</li>
-<li> {{qualifier|{pdt}}} <a href="een">een</a>, {{qualifier|cardinal number}} <a href="eent">eent</a></li>
+<ul><li> (in other dialects, including Low Prussian) {{l|nds|een}}</li>
+<li> (in some dialects) {{l|nds|ein}}</li>
+<li> ({pdt}) <a href="een">een</a>, (cardinal number) <a href="eent">eent</a></li>
 </ul>
 
 <h3>Article</h3>
@@ -665,7 +665,7 @@ HtmlEntry: frei <<<
 </ul>
 ---->>>
 ===Gambia===
-HtmlEntry: Gambia <<<{wikipedia}
+HtmlEntry: Gambia <<<
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=n}}
 <ol><li> {{l|en|Gambia}}</li>
@@ -679,7 +679,7 @@ HtmlEntry: Gambia <<<{wikipedia}
 </ul>
 ---->>>
 ===Ghana===
-HtmlEntry: Ghana <<<{wikipedia}
+HtmlEntry: Ghana <<<
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|/ˈgaːna/}}</li>
 </ul>
@@ -701,7 +701,7 @@ HtmlEntry: Ghana <<<{wikipedia}
 HtmlEntry: global <<<
 <h3>Adjective</h3>
 {{de-adj|-}}
-<ol><li> <a href="#English">global</a> {{gloss|worldwide}}</li>
+<ol><li> <a href="#English">global</a> (worldwide)</li>
 </ol>
 
 <h4>Synonyms</h4>
@@ -743,7 +743,7 @@ HtmlEntry: Guatemala <<<
 </ul>
 ---->>>
 ===Guyana===
-HtmlEntry: Guyana <<<{wikipedia}
+HtmlEntry: Guyana <<<
 <h3>Proper noun</h3>
 <b>Guyana</b> {n}
 <ol><li> <a href="#English">Guyana</a></li>
@@ -757,7 +757,7 @@ HtmlEntry: Guyana <<<{wikipedia}
 </ul>
 ---->>>
 ===Haiti===
-HtmlEntry: Haiti <<<{wikipedia}
+HtmlEntry: Haiti <<<
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|/haˈiːti/}}</li>
 </ul>
@@ -811,7 +811,7 @@ HtmlEntry: hell <<<
 </ol>
 ---->>>
 ===Honduras===
-HtmlEntry: Honduras <<<{wikipedia}
+HtmlEntry: Honduras <<<
 <h3>Proper noun</h3>
 <b>Honduras</b> {n}
 <ol><li> <a href="#English">Honduras</a></li>
@@ -827,7 +827,7 @@ HtmlEntry: Honduras <<<{wikipedia}
 ===ik===
 HtmlEntry: ik <<<
 <h3>Alternative forms</h3>
-<ul><li> {{qualifier|Low Prussian}} <a href="öck">&ouml;ck</a>, <a href="eck">eck</a></li>
+<ul><li> (Low Prussian) <a href="öck">&ouml;ck</a>, <a href="eck">eck</a></li>
 </ul>
 
 <h3>Etymology</h3>
@@ -872,7 +872,7 @@ From {{etyl|goh|de}} {{term|in|lang=goh}}, from {{proto|Germanic|in}}.
 <h5>Usage notes</h5>
 The preposition {{term|in}} is used with accusative case if the verb shows movement from one place to another, whereas it is used with dative case if the verb shows location.
 <h5>Derived terms</h5>
-<ul><li> (<b><em>in</b> + dem</em>) <a href="im">im</a> {{m|n}}</li>
+<ul><li> (<b><em>in</b> + dem</em>) <a href="im">im</a> {m|n}</li>
 <li> (<b><em>in</b> + das</em>) <a href="ins">ins</a> {n}</li>
 <li> <a href="in der Zwickmühle stecken">in der Zwickm&uuml;hle stecken</a></li>
 </ul>
@@ -965,7 +965,7 @@ HtmlEntry: Japan <<<
 </ul>
 ---->>>
 ===Kiribati===
-HtmlEntry: Kiribati <<<{wikipedia}
+HtmlEntry: Kiribati <<<
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=n}}
 <ol><li> {{l|en|Kiribati}}</li>
@@ -976,7 +976,7 @@ HtmlEntry: Kiribati <<<{wikipedia}
 </ul>
 ---->>>
 ===Kuwait===
-HtmlEntry: Kuwait <<<{wikipedia}
+HtmlEntry: Kuwait <<<
 <h3>Proper noun</h3>
 {{de-proper noun|g=n}}
 <ol><li> {{l|en|Kuwait}}</li>
@@ -989,7 +989,7 @@ HtmlEntry: Kuwait <<<{wikipedia}
 </ul>
 ---->>>
 ===Laos===
-HtmlEntry: Laos <<<{wikipedia}
+HtmlEntry: Laos <<<
 <h3>Proper noun</h3>
 {{de-proper noun|g=n}}
 <ol><li> {{l|en|Laos}}</li>
@@ -1010,7 +1010,7 @@ HtmlEntry: last <<<
 </ol>
 ---->>>
 ===Liberia===
-HtmlEntry: Liberia <<<{wikipedia}
+HtmlEntry: Liberia <<<
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|/liˈbeːʁia/}}</li>
 </ul>
@@ -1027,7 +1027,7 @@ HtmlEntry: Liberia <<<{wikipedia}
 </ul>
 ---->>>
 ===Liechtenstein===
-HtmlEntry: Liechtenstein <<<{wikipedia}
+HtmlEntry: Liechtenstein <<<
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|/ˈlɪ&ccedil;tn̩ˌʃtaɪ̯n/}}</li>
 <li> {{audio|De-Liechtenstein.ogg|Audio}}</li>
@@ -1045,7 +1045,7 @@ HtmlEntry: Liechtenstein <<<{wikipedia}
 </ul>
 ---->>>
 ===Malawi===
-HtmlEntry: Malawi <<<{wikipedia}
+HtmlEntry: Malawi <<<
 <h3>Proper noun</h3>
 <b>Malawi</b> {n}
 <ol><li> {{l|en|Malawi}}</li>
@@ -1058,14 +1058,14 @@ HtmlEntry: Malawi <<<{wikipedia}
 </ul>
 ---->>>
 ===Malaysia===
-HtmlEntry: Malaysia <<<{wikipedia}
+HtmlEntry: Malaysia <<<
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=n}}
 <ol><li> <a href="#English">Malaysia</a></li>
 </ol>
 ---->>>
 ===Mali===
-HtmlEntry: Mali <<<{wikipedia}
+HtmlEntry: Mali <<<
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-Mali.ogg|Audio}}</li>
 </ul>
@@ -1082,7 +1082,7 @@ HtmlEntry: Mali <<<{wikipedia}
 </ul>
 ---->>>
 ===Malta===
-HtmlEntry: Malta <<<{wikipedia}
+HtmlEntry: Malta <<<
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=n}}
 <ol><li> {{l|en|Malta}}</li>
@@ -1107,7 +1107,7 @@ From the same source as <em><a href="Mann">Mann</a></em> (&quot;adult male&quot;
 
 <h3>Pronoun</h3>
 {{head|de|indefinite pronoun}}
-<ol><li> {indefinite} <a href="one">one</a>, <a href="they">they</a> {{qualifier|indefinite third-person singular pronoun}}</li>
+<ol><li> {indefinite} <a href="one">one</a>, <a href="they">they</a> (indefinite third-person singular pronoun)</li>
 <ul><li> <em>was <b>man</b> sehen kann</em> &amp;mdash; what one can see</li>
 <li> <b>2008</b>, Frank Behmeta, <em>Wenn ich die Augen &ouml;ffne</em>, page 55:</li>
 <ul><li> Kann <b>man</b> es f&uuml;hlen, wenn <b>man</b> schwanger ist?</li>
@@ -1128,8 +1128,8 @@ HtmlEntry: man <<<
 </ol>
 
 <h4>Synonyms</h4>
-<ul><li> {{qualifier|in various dialects}} <a href="avers">avers</a>, <a href="awer">awer</a> (<em>and many variations thereof; for which, see those entries</em>)</li>
-<li> {{qualifier|in some dialects}} <a href="bloots">bloots</a></li>
+<ul><li> (in various dialects) <a href="avers">avers</a>, <a href="awer">awer</a> (<em>and many variations thereof; for which, see those entries</em>)</li>
+<li> (in some dialects) <a href="bloots">bloots</a></li>
 </ul>
 ---->>>
 HtmlEntry: man <<<
@@ -1141,7 +1141,7 @@ From {{proto|Germanic|mann-|lang=goh}}.
 </ol>
 ---->>>
 ===Mauritius===
-HtmlEntry: Mauritius <<<{wikipedia}
+HtmlEntry: Mauritius <<<
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=n}}
 <ol><li> {{l|en|Mauritius}}</li>
@@ -1170,7 +1170,7 @@ From {{etyl|la|goh}} {{term|mustum|lang=la}}.
 </ol>
 ---->>>
 ===Namibia===
-HtmlEntry: Namibia <<<{wikipedia}
+HtmlEntry: Namibia <<<
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|/naˈmiːbia/}}</li>
 </ul>
@@ -1187,11 +1187,11 @@ HtmlEntry: Namibia <<<{wikipedia}
 </ul>
 ---->>>
 ===Niger===
-HtmlEntry: Niger <<<{wikipedia}
+HtmlEntry: Niger <<<
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=m|g2=n}}
-<ol><li> {{l|en|Niger}} {{gloss|country}}</li>
-<li> {{l|en|Niger}} {{gloss|river}}</li>
+<ol><li> {{l|en|Niger}} (country)</li>
+<li> {{l|en|Niger}} (river)</li>
 </ol>
 
 <h4>Derived terms</h4>
@@ -1202,7 +1202,7 @@ HtmlEntry: Niger <<<{wikipedia}
 </ul>
 ---->>>
 ===Nigeria===
-HtmlEntry: Nigeria <<<{wikipedia}
+HtmlEntry: Nigeria <<<
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-Nigeria.ogg|Audio}}</li>
 </ul>
@@ -1502,7 +1502,7 @@ HtmlEntry: war <<<
 ---->>>
 HtmlEntry: war <<<
 <h3>Alternative forms</h3>
-<ul><li> {{qualifier|Low Prussian}} <a href="wahr">wahr</a></li>
+<ul><li> (Low Prussian) <a href="wahr">wahr</a></li>
 </ul>
 
 <h3>Etymology</h3>

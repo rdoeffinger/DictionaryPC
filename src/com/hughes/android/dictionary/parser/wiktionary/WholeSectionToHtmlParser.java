@@ -23,6 +23,8 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
         boolean skipSection(final String name);
         boolean skipWikiLink(final WikiTokenizer wikiTokenizer);
         String adjustWikiLink(String wikiLinkDest);
+        void addFunctionCallbacks(
+                Map<String, FunctionCallback<WholeSectionToHtmlParser>> functionCallbacks);
     }
     static final Map<String,LangConfig> isoToLangConfig = new LinkedHashMap<String,LangConfig>();
     static {
@@ -47,6 +49,12 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
                     return null;
                 }
                 return wikiLinkDest;
+            }
+
+            @Override
+            public void addFunctionCallbacks(
+                    Map<String, FunctionCallback<WholeSectionToHtmlParser>> functionCallbacks) {
+                EnFunctionCallbacks.addGenericCallbacks(functionCallbacks);
             }});
     }
 
@@ -68,6 +76,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
 
         final AppendAndIndexWikiCallback<WholeSectionToHtmlParser> callback = new AppendCallback(
                 this);
+        langConfig.addFunctionCallbacks(callback.functionCallbacks);
 
         callback.builder = new StringBuilder();
         callback.indexedEntry = indexedEntry;

@@ -38,8 +38,50 @@ class EnFunctionCallbacks {
       FunctionCallback<AbstractWiktionaryParser> callback = new TranslationCallback<AbstractWiktionaryParser>();
       DEFAULT_GENERIC.put("t", callback);
   }
+  
+  static <T extends AbstractWiktionaryParser> void addGenericCallbacks(Map<String, FunctionCallback<T>> callbacks) {
+      FunctionCallback<T> callback = new Gender<T>();
+      callbacks.put("m", callback);
+      callbacks.put("f", callback);
+      callbacks.put("n", callback);
+      callbacks.put("p", callback);
+      callbacks.put("g", callback);
+      
+      callback = new EncodingCallback<T>();
+      Set<String> encodings = new LinkedHashSet<String>(Arrays.asList(
+          "zh-ts", "zh-tsp",
+          "sd-Arab", "ku-Arab", "Arab", "unicode", "Laoo", "ur-Arab", "Thai", 
+          "fa-Arab", "Khmr", "Cyrl", "IPAchar", "ug-Arab", "ko-inline", 
+          "Jpan", "Kore", "Hebr", "rfscript", "Beng", "Mong", "Knda", "Cyrs",
+          "yue-tsj", "Mlym", "Tfng", "Grek", "yue-yue-j"));
+      for (final String encoding : encodings) {
+          callbacks.put(encoding, callback);
+      }
+      
+      callback = new Ignore<T>();
+      callbacks.put("trreq", callback);
+      callbacks.put("t-image", callback);
+      callbacks.put("defn", callback);
+      callbacks.put("rfdef", callback);
+      callbacks.put("rfdate", callback);
+      callbacks.put("rfex", callback);
+      callbacks.put("rfquote", callback);
+      callbacks.put("attention", callback);
+      callbacks.put("zh-attention", callback);
+      
+      callback = new AppendName<T>();
+      callbacks.put("...", callback);
+      
+      callbacks.put("qualifier", new QualifierCallback<T>());
+      callbacks.put("italbrac", new italbrac<T>());
+      callbacks.put("gloss", new gloss<T>());
+      callbacks.put("not used", new not_used<T>());
+      callbacks.put("wikipedia", new wikipedia<T>());
+  }
 
   static {
+    addGenericCallbacks(DEFAULT);
+      
     FunctionCallback<EnParser> callback = new TranslationCallback<EnParser>();
     DEFAULT.put("t", callback);
     DEFAULT.put("t+", callback);
@@ -47,41 +89,11 @@ class EnFunctionCallbacks {
     DEFAULT.put("tø", callback);
     DEFAULT.put("apdx-t", callback);
     
-    callback = new EncodingCallback();
-    Set<String> encodings = new LinkedHashSet<String>(Arrays.asList(
-        "zh-ts", "zh-tsp",
-        "sd-Arab", "ku-Arab", "Arab", "unicode", "Laoo", "ur-Arab", "Thai", 
-        "fa-Arab", "Khmr", "Cyrl", "IPAchar", "ug-Arab", "ko-inline", 
-        "Jpan", "Kore", "Hebr", "rfscript", "Beng", "Mong", "Knda", "Cyrs",
-        "yue-tsj", "Mlym", "Tfng", "Grek", "yue-yue-j"));
-    for (final String encoding : encodings) {
-      DEFAULT.put(encoding, callback);
-    }
-    
     callback = new l_term();
     DEFAULT.put("l", callback);
     DEFAULT.put("term", callback);
 
-    callback = new Gender();
-    DEFAULT.put("m", callback);
-    DEFAULT.put("f", callback);
-    DEFAULT.put("n", callback);
-    DEFAULT.put("p", callback);
-    DEFAULT.put("g", callback);
-    
-    callback = new AppendArg0();
-
-    callback = new Ignore();
-    DEFAULT.put("trreq", callback);
-    DEFAULT.put("t-image", callback);
-    DEFAULT.put("defn", callback);
-    DEFAULT.put("rfdef", callback);
-    DEFAULT.put("rfdate", callback);
-    DEFAULT.put("rfex", callback);
-    DEFAULT.put("rfquote", callback);
-    DEFAULT.put("attention", callback);
-    DEFAULT.put("zh-attention", callback);
-
+    //callback = new AppendArg0();
 
     callback = new FormOf();
     DEFAULT.put("form of", callback);
@@ -102,15 +114,6 @@ class EnFunctionCallbacks {
     callback = new InflOrHead();
     DEFAULT.put("infl", callback);
     DEFAULT.put("head", callback);
-    
-    callback = new AppendName();
-    DEFAULT.put("...", callback);
-    
-    DEFAULT.put("qualifier", new QualifierCallback<EnParser>());
-    DEFAULT.put("italbrac", new italbrac());
-    DEFAULT.put("gloss", new gloss());
-    DEFAULT.put("not used", new not_used());
-    DEFAULT.put("wikipedia", new wikipedia());
   }
   
   static final NameAndArgs<EnParser> NAME_AND_ARGS = new NameAndArgs<EnParser>();
