@@ -3,10 +3,10 @@ EntrySource: wiktionary.WholeSection.IT.quickdic 0
 
 Index: IT IT->EN
 ===A===
-HtmlEntry: A <<<{{wikipedia|lang=it}}
+HtmlEntry: A <<<{wikipedia}
 <h3>Pronunciation</h3>
-<ul><li> {{qualifier|phoneme; name of letter}} {{IPA|/a/|lang=it}}</li>
-<ul><li> {{homophones|a|ha|lang=it}}</li>
+<ul><li> {{qualifier|phoneme; name of letter}} {{IPA|/a/}}</li>
+<ul><li> {{homophones|a|ha}}</li>
 </ul>
 </ul>
 
@@ -21,7 +21,7 @@ HtmlEntry: A <<<{{wikipedia|lang=it}}
 </ul>
 ---->>>
 ===a-===
-HtmlEntry: a- <<<{{wikipedia|a (prefisso)|lang=it}}
+HtmlEntry: a- <<<{{wikipedia|a (prefisso)}}
 <h3>Etymology 1</h3>
 From {{etyl|la|it}} {{term|ad|ad-|lang=la}}.
 <h4>Prefix</h4>
@@ -30,7 +30,7 @@ From {{etyl|la|it}} {{term|ad|ad-|lang=la}}.
 </ol>
 
 <h4>Usage notes</h4>
-The Italian prefix <em>a-</em> often reduplicates the following consonant (<a href=":w:en:Syntactic gemination">syntactic gemination</a>, raddoppiamento fonosintattico).The actual forms usually will be {{term|ab-|lang=it}} (in {{term|abbracciare|lang=it}}), {{term|ad-|lang=it}} (in {{term|addestrare|lang=it}}), {{term|al-|lang=it}} (in {{term|allargare|lang=it}}) etc.
+The Italian prefix <em>a-</em> often reduplicates the following consonant (<a href=":w:en:Syntactic gemination">syntactic gemination</a>, raddoppiamento fonosintattico).The actual forms usually will be {{term|ab-}} (in {{term|abbracciare}}), {{term|ad-}} (in {{term|addestrare}}), {{term|al-}} (in {{term|allargare}}) etc.
 <h3>Etymology 2</h3>
 Borrowed from {{etyl|grc|it}} {{term|ἀ-|tr=a-|lang=grc}}.
 <h4>Prefix</h4>
@@ -46,8 +46,8 @@ Borrowed from {{etyl|grc|it}} {{term|ἀ-|tr=a-|lang=grc}}.
 HtmlEntry: abalienate <<<
 <h3>Verb</h3>
 <b>abalienate</b>
-<ol><li> {{conjugation of|abalienare|2|p|pres|ind|lang=it}}</li>
-<li> {{conjugation of|abalienare|2|p|imp|lang=it}}</li>
+<ol><li> {{conjugation of|abalienare|2|p|pres|ind}}</li>
+<li> {{conjugation of|abalienare|2|p|imp}}</li>
 <li> {{form of|<a href="feminine">Feminine</a> plural|abalienato}}</li>
 </ol>
 ---->>>
@@ -56,7 +56,7 @@ HtmlEntry: abate <<<
 <h3>Etymology</h3>
 From {{etyl|la|it}} {{term|abbas|abbās, abbātis|lang=la}}, from {{etyl|grc|it}} {{term|ἀββᾶς|tr=abbas|lang=grc|sc=polytonic}}, from {{etyl|arc|it}} {{term|אבא|father|lang=arc|tr=’abbā|sc=Hebr}}.
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/a'bate/|lang=it}}</li>
+<ul><li> {{IPA|/a'bate/}}</li>
 <li> {{audio|It-abate.ogg|audio}}</li>
 </ul>
 
@@ -91,15 +91,15 @@ HtmlEntry: abdicate <<<
 HtmlEntry: abduce <<<
 <h3>Verb</h3>
 <b>abduce</b>
-<ol><li> {{conjugation of|abdurre|3|s|pres|ind|lang=it}}</li>
+<ol><li> {{conjugation of|abdurre|3|s|pres|ind}}</li>
 </ol>
 ---->>>
 ===aberrate===
 HtmlEntry: aberrate <<<
 <h3>Verb</h3>
 <b>aberrate</b>
-<ol><li> {{conjugation of|aberrare|2|p|pres|ind|lang=it}}</li>
-<li> {{conjugation of|aberrare|2|p|imp|lang=it}}</li>
+<ol><li> {{conjugation of|aberrare|2|p|pres|ind}}</li>
+<li> {{conjugation of|aberrare|2|p|imp}}</li>
 <li> {{form of|<a href="feminine">Feminine</a> plural|aberrato}}</li>
 </ol>
 ---->>>
@@ -114,8 +114,8 @@ HtmlEntry: ablative <<<
 HtmlEntry: abominate <<<
 <h3>Verb</h3>
 <b>abominate</b>
-<ol><li> {{conjugation of|abominare|2|p|pres|ind|lang=it}}</li>
-<li> {{conjugation of|abominare|2|p|imp|lang=it}}</li>
+<ol><li> {{conjugation of|abominare|2|p|pres|ind}}</li>
+<li> {{conjugation of|abominare|2|p|imp}}</li>
 <li> {{form of|<a href="feminine">Feminine</a> plural|abominato}}</li>
 </ol>
 ---->>>
@@ -123,21 +123,21 @@ HtmlEntry: abominate <<<
 HtmlEntry: abortive <<<
 <h3>Adjective</h3>
 {{head|it|adjective form}} {{f|p}}
-<ol><li> {{feminine plural of|abortivo|lang=it}}</li>
+<ol><li> {{feminine plural of|abortivo}}</li>
 </ol>
 >>>
 ===abrade===
 HtmlEntry: abrade <<<
 <h3>Verb</h3>
 <b>abrade</b>
-<ol><li> {{conjugation of|abradere|3|s|pres|ind|lang=it}}</li>
+<ol><li> {{conjugation of|abradere|3|s|pres|ind}}</li>
 </ol>
 >>>
 ===abrase===
 HtmlEntry: abrase <<<
 <h3>Verb</h3>
 <b>abrase</b>
-<ol><li> {{conjugation of|abradere|3|s|<a href="past historic">past historic</a>|lang=it}}</li>
+<ol><li> {{conjugation of|abradere|3|s|<a href="past historic">past historic</a>}}</li>
 </ol>
 <b>abrase</b> {f}
 <ol><li> <a href="plural">Plural</a> of <a href="abraso">abraso</a></li>
@@ -154,8 +154,8 @@ HtmlEntry: abrasive <<<
 HtmlEntry: abrogate <<<
 <h3>Verb</h3>
 <b>abrogate</b>
-<ol><li> {{conjugation of|abrogare|2|p|pres|ind|lang=it}}</li>
-<li> {{conjugation of|abrogare|2|p|imp|lang=it}}</li>
+<ol><li> {{conjugation of|abrogare|2|p|pres|ind}}</li>
+<li> {{conjugation of|abrogare|2|p|imp}}</li>
 <li> {{form of|<a href="feminine">Feminine</a> plural|abrogato}}</li>
 </ol>
 ---->>>
@@ -184,15 +184,15 @@ HtmlEntry: acacia <<<
 HtmlEntry: accidie <<<
 <h3>Noun</h3>
 <b>accidie</b> {f}
-<ol><li> {{plural of|accidia|lang=it}}</li>
+<ol><li> {{plural of|accidia}}</li>
 </ol>
 >>>
 ===acclimate===
 HtmlEntry: acclimate <<<
 <h3>Verb</h3>
 <b>acclimate</b>
-<ol><li> {{conjugation of|acclimare|2|p|pres|ind|lang=it}}</li>
-<li> {{conjugation of|acclimare|2|p|imp|lang=it}}</li>
+<ol><li> {{conjugation of|acclimare|2|p|pres|ind}}</li>
+<li> {{conjugation of|acclimare|2|p|imp}}</li>
 <li> {{form of|<a href="feminine">Feminine</a> plural|<a href="acclimato">acclimato</a>}}</li>
 </ol>
 >>>
@@ -211,7 +211,7 @@ HtmlEntry: acclive <<<
 HtmlEntry: accresce <<<
 <h3>Verb</h3>
 <b>accresce</b>
-<ol><li> {{conjugation of|accrescere|3|s|pres|ind|lang=it}}</li>
+<ol><li> {{conjugation of|accrescere|3|s|pres|ind}}</li>
 </ol>
 ---->>>
 ===accurate===
@@ -229,7 +229,7 @@ HtmlEntry: AD <<<
 </ol>
 >>>
 ===Afghanistan===
-HtmlEntry: Afghanistan <<<{{wikipedia|lang=it}}
+HtmlEntry: Afghanistan <<<{wikipedia}
 <h3>Pronunciation</h3>
 <ul><li> {{audio|It-Afghanistan.ogg|audio}}</li>
 </ul>
@@ -248,7 +248,7 @@ HtmlEntry: Afghanistan <<<{{wikipedia|lang=it}}
 </ul>
 ---->>>
 ===Albania===
-HtmlEntry: Albania <<<{{wikipedia|lang=it}}
+HtmlEntry: Albania <<<{wikipedia}
 <h3>Pronunciation</h3>
 <ul><li> {{audio|It-Albania.ogg|Audio}}</li>
 </ul>
@@ -263,7 +263,7 @@ HtmlEntry: Albania <<<{{wikipedia|lang=it}}
 </ul>
 ---->>>
 ===Algeria===
-HtmlEntry: Algeria <<<{{wikipedia|lang=it}}
+HtmlEntry: Algeria <<<{wikipedia}
 <h3>Pronunciation</h3>
 <ul><li> {{audio|It-Algeria.ogg|Audio}}</li>
 </ul>
@@ -281,7 +281,7 @@ HtmlEntry: Algeria <<<{{wikipedia|lang=it}}
 HtmlEntry: andante <<<
 <h3>Verb</h3>
 {{head|it|present participle}}
-<ol><li> {{present participle of|andare|lang=it}}</li>
+<ol><li> {{present participle of|andare}}</li>
 </ol>
 
 <h3>Adjective</h3>
@@ -291,7 +291,7 @@ HtmlEntry: andante <<<
 </ol>
 >>>
 ===Andorra===
-HtmlEntry: Andorra <<<{{wikipedia|lang=it}}
+HtmlEntry: Andorra <<<{wikipedia}
 <h3>Proper noun</h3>
 {{it-proper noun|f}}
 <ol><li> {{l|en|Andorra}}</li>
@@ -302,7 +302,7 @@ HtmlEntry: Andorra <<<{{wikipedia|lang=it}}
 </ul>
 ---->>>
 ===Angola===
-HtmlEntry: Angola <<<{{wikipedia|lang=it}}
+HtmlEntry: Angola <<<{wikipedia}
 <h3>Pronunciation</h3>
 <ul><li> {{audio|it-Angola.ogg|Audio}}</li>
 </ul>
@@ -349,7 +349,7 @@ From the {{etyl|la|it}} {{term|aquila|lang=la}}.
 HtmlEntry: are <<<
 <h3>Noun</h3>
 <b>are</b> {f} {p}
-<ol><li> {{plural of|ara|lang=it}}</li>
+<ol><li> {{plural of|ara}}</li>
 </ol>
 >>>
 ===Argentina===
@@ -365,7 +365,7 @@ HtmlEntry: Argentina <<<
 </ul>
 >>>
 ===aria===
-HtmlEntry: aria <<<{{wikipedia|lang=it}}
+HtmlEntry: aria <<<{wikipedia}
 <h3>Etymology</h3>
 Metathesis from {{etyl|la|it}} {{term|aerem|lang=la}}, accusative of {{term|aer|āēr|lang=la}}, from {{etyl|grc|it}} {{term|ἀήρ|air|tr=aēr|sc=polytonic|lang=grc}}.
 <h3>Pronunciation</h3>
@@ -377,9 +377,9 @@ Metathesis from {{etyl|la|it}} {{term|aerem|lang=la}}, accusative of {{term|aer|
 {{it-noun|ari|f|a|e}}
 <ol><li> <a href="air">air</a></li>
 <li> <a href="look">look</a>, <a href="appearance">appearance</a>, <a href="countenance">countenance</a></li>
-<li> {{context|plurale tantum|lang=it}} <a href="airs">airs</a></li>
+<li> {{context|plurale tantum}} <a href="airs">airs</a></li>
 <li> air, <a href="wind">wind</a></li>
-<li> {{context|music|lang=it}}  <a href="aria#English">aria</a>, <a href="song">song</a></li>
+<li> {{context|music}}  <a href="aria#English">aria</a>, <a href="song">song</a></li>
 </ol>
 
 <h4>Related terms</h4>
@@ -397,11 +397,11 @@ HtmlEntry: arietta <<<
 <h3>Noun</h3>
 {{it-noun|ariett|f|a|e}}
 <ol><li> <a href="breeze">breeze</a></li>
-<li> {{music|lang=it}} <a href="#English">arietta</a></li>
+<li> {music} <a href="#English">arietta</a></li>
 </ol>
 >>>
 ===Armenia===
-HtmlEntry: Armenia <<<{{wikipedia|lang=it}}
+HtmlEntry: Armenia <<<{wikipedia}
 <h3>Proper noun</h3>
 {{it-proper noun|g=f}}
 <ol><li> {{l|en|Armenia}}</li>
@@ -412,9 +412,9 @@ HtmlEntry: Armenia <<<{{wikipedia|lang=it}}
 </ul>
 >>>
 ===Austria===
-HtmlEntry: Austria <<<{{wikipedia|lang=it}}
+HtmlEntry: Austria <<<{wikipedia}
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈaustrja/|lang=it}}, {{X-SAMPA|/&quot;austrja/|lang=it}}</li>
+<ul><li> {{IPA|/ˈaustrja/}}, {{X-SAMPA|/&quot;austrja/}}</li>
 </ul>
 
 <h3>Proper noun</h3>
@@ -429,19 +429,19 @@ HtmlEntry: Austria <<<{{wikipedia|lang=it}}
 ===avatar===
 HtmlEntry: avatar <<<
 <h3>Noun</h3>
-{{wikipedia|lang=it}}{{head|it|noun|g=m}} {inv}
+{wikipedia}{{head|it|noun|g=m}} {inv}
 <ol><li> <a href="#English">avatar</a> (all senses)</li>
 </ol>
 >>>
 ===Bahrain===
-HtmlEntry: Bahrain <<<{{wikipedia|lang=it}}
+HtmlEntry: Bahrain <<<{wikipedia}
 <h3>Proper noun</h3>
 {{head|it|proper noun|g=m}}
 <ol><li> {{l|en|Bahrain}}</li>
 </ol>
 ---->>>
 ===Bangladesh===
-HtmlEntry: Bangladesh <<<{{wikipedia|lang=it}}
+HtmlEntry: Bangladesh <<<{wikipedia}
 <h3>Proper noun</h3>
 {{it-proper noun|g=m}}
 <ol><li> {{l|en|Bangladesh}}</li>
@@ -455,7 +455,7 @@ HtmlEntry: Bangladesh <<<{{wikipedia|lang=it}}
 ===BCE===
 HtmlEntry: BCE <<<
 <h3>Etymology</h3>
-{{initialism of|Banca Centrale Europea|European Central Bank|lang=it}}
+{{initialism of|Banca Centrale Europea|European Central Bank}}
 <h3>Proper noun</h3>
 {it-proper noun}
 <ol><li> <a href="ECB">ECB</a></li>
@@ -477,9 +477,9 @@ HtmlEntry: bone <<<
 </ol>
 ---->>>
 ===Bulgaria===
-HtmlEntry: Bulgaria <<<{{wikipedia|lang=it}}
+HtmlEntry: Bulgaria <<<{wikipedia}
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/bulɡaˈri.a/|lang=it}}, {{X-SAMPA|/bulga&quot;ri.a/|lang=it}}</li>
+<ul><li> {{IPA|/bulɡaˈri.a/}}, {{X-SAMPA|/bulga&quot;ri.a/}}</li>
 </ul>
 
 <h3>Proper noun</h3>
@@ -492,7 +492,7 @@ HtmlEntry: Bulgaria <<<{{wikipedia|lang=it}}
 </ul>
 ---->>>
 ===Burundi===
-HtmlEntry: Burundi <<<{{wikipedia|lang=it}}
+HtmlEntry: Burundi <<<{wikipedia}
 <h3>Proper noun</h3>
 {{it-proper noun|g=m}}
 <ol><li> {{l|en|Burundi}}</li>
@@ -506,7 +506,7 @@ HtmlEntry: Burundi <<<{{wikipedia|lang=it}}
 HtmlEntry: can <<<
 <h3>Noun</h3>
 {{it-noun|ca|m|n|ni}}
-<ol><li> {{context|poetic|_|and literary form of <a href="cane#Italian">cane</a>|lang=it}} <a href="dog">dog</a></li>
+<ol><li> {{context|poetic|_|and literary form of <a href="cane#Italian">cane</a>}} <a href="dog">dog</a></li>
 </ol>
 ---->>>
 ===centavo===
@@ -521,14 +521,14 @@ HtmlEntry: ci <<<
 <h3>Etymology</h3>
 &lt;small&gt;For the pronoun&lt;/small&gt;&lt;br&gt;From {{etyl|la|it}} {{term|ecce|look|lang=la}} + {{term|hic|here|lang=la}}&lt;small&gt;For the adverb&lt;/small&gt;&lt;br&gt;{{etyl|la|it}} {{term|ecce|look|lang=la}} + {{term|ibi|there|lang=la}}
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/tʃi/|lang=it}}, {{X-SAMPA|/tSi/}}</li>
-<li> {{homophones|C|lang=it}} {{qualifier|name of letter}}</li>
+<ul><li> {{IPA|/tʃi/}}, {{X-SAMPA|/tSi/}}</li>
+<li> {{homophones|C}} {{qualifier|name of letter}}</li>
 </ul>
 
 <h3>Pronoun</h3>
 {{head|it|pronoun}}
 <ol><li> <a href="us">us</a>.</li>
-<li> {{reflexive|lang=it}} <a href="ourselves">ourselves</a></li>
+<li> {reflexive} <a href="ourselves">ourselves</a></li>
 <li> impersonal reflexive pronoun</li>
 <ul><li> <b><em>Ci</b> vuole poco a farmi felice.</em></li>
 <ul><li> It doesn't take much to make me happy.</li>
@@ -558,7 +558,7 @@ HtmlEntry: ci <<<
 HtmlEntry: color <<<
 <h3>Noun</h3>
 {{head|it|noun|g=m}} {inv}
-<ol><li> {{apocopic form of|colore|lang=it}}</li>
+<ol><li> {{apocopic form of|colore}}</li>
 </ol>
 >>>
 ===country===
@@ -567,7 +567,7 @@ HtmlEntry: country <<<
 From {{etyl|en|it}}
 <h3>Noun</h3>
 {{head|it|noun}} {{m|inv}}
-<ol><li> {{music|lang=it}} <a href="country music">country music</a></li>
+<ol><li> {music} <a href="country music">country music</a></li>
 </ol>
 >>>
 ===crude===
@@ -581,7 +581,7 @@ HtmlEntry: crude <<<
 HtmlEntry: date <<<
 <h3>Noun</h3>
 <b>date</b> {f}
-<ol><li> {{plural of|data|lang=it}}</li>
+<ol><li> {{plural of|data}}</li>
 </ol>
 
 <h3>Verb</h3>
@@ -595,13 +595,13 @@ HtmlEntry: date <<<
 HtmlEntry: de <<<
 <h3>Contraction</h3>
 {{head|it|contraction}}
-<ol><li> {{apocopic form of|del|lang=it}}</li>
+<ol><li> {{apocopic form of|del}}</li>
 <ul><li> <em>Michael Radford &egrave; il regista <b>de</b> &quot;Il postino&quot;.</em> &amp;mdash; &quot;Michael Radford is the director of &quot;Il Postino&quot;.</li>
 </ul>
 </ol>
 
 <h4>Usage notes</h4>
-{{term|De|lang=it}} is used where {{term|del|lang=it}}, {{term|della|lang=it}}, etc, would ordinarily be used, but cannot be because the <a href="article">article</a> is part of the title of a film, book, etc.
+{{term|De}} is used where {{term|del}}, {{term|della}}, etc, would ordinarily be used, but cannot be because the <a href="article">article</a> is part of the title of a film, book, etc.
 <h4>See also</h4>
 <ul><li> {{l|it|ne}}</li>
 </ul>
@@ -609,7 +609,7 @@ HtmlEntry: de <<<
 ===decade===
 HtmlEntry: decade <<<
 <h3>Etymology</h3>
-{{confix|deca|ade|lang=it}}
+{{confix|deca|ade}}
 <h3>Noun</h3>
 {{it-noun|decad|f|e|i}}
 <ol><li> A <a href="#English">decade</a>, a period of ten <a href="day">day</a>s</li>
@@ -646,7 +646,7 @@ HtmlEntry: Esperanto <<<
 </ul>
 >>>
 ===Estonia===
-HtmlEntry: Estonia <<<{{wikipedia|lang=it}}
+HtmlEntry: Estonia <<<{wikipedia}
 <h3>Proper noun</h3>
 {{it-proper noun|f}}
 <ol><li> {{l|en|Estonia}}</li>
@@ -657,7 +657,7 @@ HtmlEntry: Estonia <<<{{wikipedia|lang=it}}
 </ul>
 >>>
 ===euro===
-HtmlEntry: euro <<<{{wikipedia|lang=it}}
+HtmlEntry: euro <<<{wikipedia}
 <h3>Noun</h3>
 {{it-noun|eur|m|o|o}}
 <ol><li> <a href="#English">euro</a> {{gloss|currency}}</li>
@@ -673,7 +673,7 @@ HtmlEntry: f <<<
 ===fa===
 HtmlEntry: fa <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[ˈfa]|lang=it}}, {{X-SAMPA|/&quot;fa/}}</li>
+<ul><li> {{IPA|[ˈfa]}}, {{X-SAMPA|/&quot;fa/}}</li>
 <li> {{hyphenation|f&agrave;}}</li>
 </ul>
 
@@ -687,8 +687,8 @@ HtmlEntry: fa <<<
 </ul>
 
 <h3>Noun</h3>
-{{wikipedia|Fa (nota)|lang=it}}{{head|it|noun}} {{m|inv}}
-<ol><li> {{music|lang=it}} <a href="#English">fa</a> (musical note)</li>
+{{wikipedia|Fa (nota)}}{{head|it|noun}} {{m|inv}}
+<ol><li> {music} <a href="#English">fa</a> (musical note)</li>
 <li> <a href="F">F</a> (musical note or key)</li>
 </ol>
 
@@ -727,9 +727,9 @@ From {{etyl|la|it}} {{term|gratis|lang=la}}
 ===guerra===
 HtmlEntry: guerra <<<
 <h3>Etymology</h3>
-From {{etyl|roa-oit|it}} {{term|guerra|lang=it}}, from {{etyl|LL.|it}} {{recons|werra|lang=LL.}}, {{recons|guerra|lang=LL.}}, from {{etyl|frk|it}} {{recons|werra|werra|riot, disturbance, quarrel|lang=frk|sc=Latn}} from {{proto|Germanic|werrō|confusion, disarray|lang=it}}, from {{proto|Indo-European|wers-|to mix up, confuse, beat, thresh|lang=it}}. Related to {{etyl|goh|-}} {{term|werra|confusion, strife, quarrel|lang=goh}} ({{etyl|de|-}} {{term|verwirren|to confuse|lang=de}}), {{etyl|osx|-}} {{term|werran|to confuse, perplex|lang=osx}}, {{etyl|nl|-}} {{term|war|confusion, disarray|lang=nl}}, {{etyl|ang|-}} {{term|wyrsa|wyrsa, wiersa|worse|lang=ang}}. More at {{l|en|worse}}, {{l|en|wurst}}.
+From {{etyl|roa-oit|it}} {{term|guerra}}, from {{etyl|LL.|it}} {{recons|werra|lang=LL.}}, {{recons|guerra|lang=LL.}}, from {{etyl|frk|it}} {{recons|werra|werra|riot, disturbance, quarrel|lang=frk|sc=Latn}} from {{proto|Germanic|werrō|confusion, disarray}}, from {{proto|Indo-European|wers-|to mix up, confuse, beat, thresh}}. Related to {{etyl|goh|-}} {{term|werra|confusion, strife, quarrel|lang=goh}} ({{etyl|de|-}} {{term|verwirren|to confuse|lang=de}}), {{etyl|osx|-}} {{term|werran|to confuse, perplex|lang=osx}}, {{etyl|nl|-}} {{term|war|confusion, disarray|lang=nl}}, {{etyl|ang|-}} {{term|wyrsa|wyrsa, wiersa|worse|lang=ang}}. More at {{l|en|worse}}, {{l|en|wurst}}.
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈɡwɛr.ra/|lang=it}}, {{X-SAMPA|/&quot;gwEr.ra/|lang=it}}</li>
+<ul><li> {{IPA|/ˈɡwɛr.ra/}}, {{X-SAMPA|/&quot;gwEr.ra/}}</li>
 <li> {{audio|It-la guerra.ogg|Audio}}</li>
 <li> {{audio|It-guerra.ogg|Audio}}</li>
 </ul>
@@ -763,14 +763,14 @@ From {{etyl|roa-oit|it}} {{term|guerra|lang=it}}, from {{etyl|LL.|it}} {{recons|
 ===i===
 HtmlEntry: i <<<
 <h3>Etymology 1</h3>
-Reduced form of {{term|gli|lang=it}}.&lt;ref&gt;{{reference-book| last = Patota | first = Giuseppe | title = Lineamenti di grammatica storica dell'italiano | year = 2002 | publisher = il Mulino | location = Bologna | language = Italian | id = ISBN 88-15-08638-2 | pages = p. 126 | chapter = }}&lt;/ref&gt;
+Reduced form of {{term|gli}}.&lt;ref&gt;{{reference-book| last = Patota | first = Giuseppe | title = Lineamenti di grammatica storica dell'italiano | year = 2002 | publisher = il Mulino | location = Bologna | language = Italian | id = ISBN 88-15-08638-2 | pages = p. 126 | chapter = }}&lt;/ref&gt;
 <h4>Article</h4>
 {Italian definite articles}{{head|it|article|singular|il|g=m|g2=p}}
 <ol><li> <a href="the">the</a> (<em>see the usage notes</em>)</li>
 </ol>
 
 <h5>Usage notes</h5>
-<ul><li> <b><em>i</b></em> is used before masculine plural words beginning with a single consonant other than <em>x</em> or <em>z</em>, or the plural noun {{term|dei|lang=it}}; <b><em>{{term|gli|lang=it}}</b></em> is used before masculine plural words beginning with a vowel, <em>x</em>, <em>z</em>, <em>gn</em>, or multiple consonants including <em>pn</em>, <em>ps</em>, and <em>s</em>+consonant, and before the plural noun {{term|dei|lang=it}}.</li>
+<ul><li> <b><em>i</b></em> is used before masculine plural words beginning with a single consonant other than <em>x</em> or <em>z</em>, or the plural noun {{term|dei}}; <b><em>{{term|gli}}</b></em> is used before masculine plural words beginning with a vowel, <em>x</em>, <em>z</em>, <em>gn</em>, or multiple consonants including <em>pn</em>, <em>ps</em>, and <em>s</em>+consonant, and before the plural noun {{term|dei}}.</li>
 </ul>
 
 <h4>See also</h4>
@@ -791,7 +791,7 @@ Reduced form of {{term|gli|lang=it}}.&lt;ref&gt;{{reference-book| last = Patota 
 ===in===
 HtmlEntry: in <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[in]|lang=it}}</li>
+<ul><li> {{IPA|[in]}}</li>
 </ul>
 
 <h3>Preposition</h3>
@@ -808,7 +808,7 @@ HtmlEntry: in <<<
 <h4>Usage notes</h4>
 <em>When followed by a definite article</em>, <b>in</b> <em>is combined with the article to give the following combined forms</em>:&lt;table border=&quot;1&quot; align=&quot;center&quot; cellpadding=&quot;5&quot;&gt;&lt;tr&gt;&lt;th&gt;In + article&lt;th&gt;Combined form&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;in + <a href="il#Italian">il</a>&lt;td align=&quot;center&quot;&gt;<a href="nel">nel</a>&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;in + <a href="lo#Italian">lo</a>&lt;td align=&quot;center&quot;&gt;<a href="nello">nello</a>&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;in + <a href="l'#Italian">l'</a>&lt;td align=&quot;center&quot;&gt;<a href="nell'">nell'</a>&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;in + <a href="i#Italian">i</a>&lt;td align=&quot;center&quot;&gt;<a href="nei">nei</a>&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;in + <a href="gli">gli</a>&lt;td align=&quot;center&quot;&gt;<a href="negli">negli</a>&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;in + <a href="la#Italian">la</a>&lt;td align=&quot;center&quot;&gt;<a href="nella">nella</a>&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;in + <a href="le#Italian">le</a>&lt;td align=&quot;center&quot;&gt;<a href="nelle">nelle</a>&lt;/tr&gt;&lt;/table&gt;>>>
 ===Iraq===
-HtmlEntry: Iraq <<<{{wikipedia|lang=it}}
+HtmlEntry: Iraq <<<{wikipedia}
 <h3>Proper noun</h3>
 {{it-proper noun|m}}
 <ol><li> {{l|en|Iraq}}</li>
@@ -822,13 +822,13 @@ HtmlEntry: Iraq <<<{{wikipedia|lang=it}}
 HtmlEntry: langue <<<
 <h3>Verb</h3>
 <b>langue</b>
-<ol><li> {{conjugation of|languire|3|s|pres|ind|lang=it}}</li>
+<ol><li> {{conjugation of|languire|3|s|pres|ind}}</li>
 </ol>
 >>>
 ===lente===
 HtmlEntry: lente <<<
 <h3>Etymology 1</h3>
-Inflected form of {{term|lento|lang=it}}.
+Inflected form of {{term|lento}}.
 <h4>Adjective</h4>
 {{head|it|adjective form}} {f}{p}
 <ol><li> (<em>feminine plural form of <a href="lento#Italian">lento</a></em>) <a href="slow">slow</a></li>
@@ -851,7 +851,7 @@ HtmlEntry: libero <<<
 <h3>Etymology</h3>
 From {{etyl|la|it}} {{term|liber|līber}}
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈlibero/|lang=it}}</li>
+<ul><li> {{IPA|/ˈlibero/}}</li>
 <li> {{audio|It-libero.ogg|Audio}}</li>
 </ul>
 
@@ -901,28 +901,28 @@ From {{etyl|la|it}} {{term|liber|līber}}
 
 <h3>Noun</h3>
 {{it-noun|liber|m|o|i}}
-<ol><li> {{football|lang=it}} <a href="sweeper">sweeper</a>.</li>
+<ol><li> {football} <a href="sweeper">sweeper</a>.</li>
 </ol>
 ---->>>
 ===libre===
 HtmlEntry: libre <<<
 <h3>Noun</h3>
 <b>libre</b> {f}
-<ol><li> {{plural of|libra|lang=it}}</li>
+<ol><li> {{plural of|libra}}</li>
 </ol>
 ---->>>
 ===medicine===
 HtmlEntry: medicine <<<
 <h3>Noun</h3>
 <b>medicine</b> {f}
-<ol><li> {{plural of|medicina|lang=it}}</li>
+<ol><li> {{plural of|medicina}}</li>
 </ol>
 >>>
 ===minute===
 HtmlEntry: minute <<<
 <h3>Adjective</h3>
 {{head|it|adjective form|g=f|g2=p}}
-<ol><li> {{feminine plural of|minuto|lang=it}}</li>
+<ol><li> {{feminine plural of|minuto}}</li>
 </ol>
 >>>
 ===mobile===
@@ -941,8 +941,8 @@ From {{etyl|la|it}} <em><a href="mobilis">mobilis</a></em>.
 
 <h3>Noun</h3>
 {{it-noun|mobil|m|e|i}}
-<ol><li> {{context|singular|lang=it}} <a href="item">item</a> of <a href="furniture">furniture</a></li>
-<li> {{context|plural|lang=it}} <a href="furniture">furniture</a></li>
+<ol><li> {{context|singular}} <a href="item">item</a> of <a href="furniture">furniture</a></li>
+<li> {{context|plural}} <a href="furniture">furniture</a></li>
 <li> <a href="mobile#English">mobile</a> {{gloss|cellular phone}}</li>
 </ol>
 
@@ -994,7 +994,7 @@ From {{etyl|la|it}} {{term|aut|lang=la}}.&lt;ref&gt;Angelo Prati, &quot;Vocabola
 
 <h4>Verb</h4>
 {{head|it|verb form}}
-<ol><li> {{misspelling of|ho|lang=it}}</li>
+<ol><li> {{misspelling of|ho}}</li>
 </ol>
 >>>
 ===OMC===
@@ -1008,18 +1008,18 @@ HtmlEntry: OMC <<<
 HtmlEntry: osteo- <<<
 <h3>Prefix</h3>
 <b>osteo-</b>
-<ol><li> {{anatomy|lang=it}} <a href="#English">osteo-</a></li>
+<ol><li> {anatomy} <a href="#English">osteo-</a></li>
 </ol>
 >>>
 ===parole===
 HtmlEntry: parole <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/paɾɔle/|lang=it}}, {{X-SAMPA|/pa4Ole/}}</li>
+<ul><li> {{IPA|/paɾɔle/}}, {{X-SAMPA|/pa4Ole/}}</li>
 </ul>
 
 <h3>Noun</h3>
 {{head|it|noun|g=f|g2=p}}
-<ol><li> {{plural of|parola|lang=it}}</li>
+<ol><li> {{plural of|parola}}</li>
 <ul><li> <em>Ci vogliono fatti e non <b>parole</b>.</em></li>
 <ul><li> <em>Action is needed, not <b>words</b>.</em></li>
 </ul>
@@ -1056,7 +1056,7 @@ From {{etyl|la|it}} {{term|pensum|lang=la}}.
 
 <h3>Verb</h3>
 <b>peso</b>
-<ol><li> {{conjugation of|pesare|1|s|pres|ind|lang=it}}</li>
+<ol><li> {{conjugation of|pesare|1|s|pres|ind}}</li>
 </ol>
 >>>
 ===pie===
@@ -1099,16 +1099,16 @@ HtmlEntry: quiz <<<
 </ul>
 >>>
 ===radio===
-HtmlEntry: radio <<<{{wikipedia|lang=it}}
+HtmlEntry: radio <<<{wikipedia}
 <h3>Etymology</h3>
 Borrowed from {{etyl|la|it}} <em><a href="radius">radius</a></em>.
 <h3>Pronunciation</h3>
-<ul><li> {{enPR|r&agrave;dio}}, {{IPA|/ˈradjo/|lang=it}}, {{X-SAMPA|/&quot;radjo/}}</li>
+<ul><li> {{enPR|r&agrave;dio}}, {{IPA|/ˈradjo/}}, {{X-SAMPA|/&quot;radjo/}}</li>
 </ul>
 
 <h3>Noun</h3>
 {{it-noun|rad|m|io|i}}
-<ol><li> {{skeleton|lang=it}} <a href="radius">radius</a></li>
+<ol><li> {skeleton} <a href="radius">radius</a></li>
 <li> <a href="radium">radium</a></li>
 <li> Variant of <a href="raggio">raggio</a>.</li>
 </ol>
@@ -1128,32 +1128,32 @@ Borrowed from {{etyl|la|it}} <em><a href="radius">radius</a></em>.
 
 <h3>Verb</h3>
 {{head|it|verb form}}
-<ol><li> {{conjugation of|radiare|1|s|pres|ind|lang=it}}</li>
+<ol><li> {{conjugation of|radiare|1|s|pres|ind}}</li>
 </ol>
 >>>
 ===rape===
 HtmlEntry: rape <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈrape/|[ˈraː.pe]|lang=it}}, {{X-SAMPA|/&quot;rape/}}</li>
+<ul><li> {{IPA|/ˈrape/|[ˈraː.pe]}}, {{X-SAMPA|/&quot;rape/}}</li>
 <li> {{hyphenation|r&agrave;|pe}}</li>
 </ul>
 
 <h3>Noun</h3>
 <b>rape</b> {f}
-<ol><li> {{plural of|rapa|lang=it}}</li>
+<ol><li> {{plural of|rapa}}</li>
 </ol>
 >>>
 ===relegate===
 HtmlEntry: relegate <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/re.leˈɡa.te/|lang=it}}</li>
+<ul><li> {{IPA|/re.leˈɡa.te/}}</li>
 <li> {{hyphenation|re|le|g&agrave;|te}}</li>
 </ul>
 
 <h3>Verb</h3>
 <b>relegate</b>
-<ol><li> {{conjugation of|relegare|2|p|pres|ind|lang=it}}</li>
-<li> {{conjugation of|relegare|2|p|imp|lang=it}}</li>
+<ol><li> {{conjugation of|relegare|2|p|pres|ind}}</li>
+<li> {{conjugation of|relegare|2|p|imp}}</li>
 <li> {{form of|<a href="feminine">Feminine</a> plural|relegato}}</li>
 </ol>
 ---->>>
@@ -1162,7 +1162,7 @@ HtmlEntry: robot <<<
 <h3>Noun</h3>
 {{head|it|noun|g=m}} {inv}
 <ol><li> {{l|en|robot}}</li>
-<li> {{computing|lang=it}} <a href="bot">bot</a></li>
+<li> {computing} <a href="bot">bot</a></li>
 </ol>
 
 <h4>Derived terms</h4>
@@ -1172,7 +1172,7 @@ HtmlEntry: robot <<<
 ===sabato===
 HtmlEntry: sabato <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈsabato/|[ˈsaː.ba.t̪o]|lang=it}}, {{X-SAMPA|/&quot;sabato/}}</li>
+<ul><li> {{IPA|/ˈsabato/|[ˈsaː.ba.t̪o]}}, {{X-SAMPA|/&quot;sabato/}}</li>
 <li> {{audio|It-sabato.ogg|audio}}</li>
 <li> {{hyphenation|s&agrave;|ba|to}}</li>
 </ul>
@@ -1189,10 +1189,10 @@ From {{etyl|la|it}} <em><a href="sabbatum">sabbatum</a></em>, from {{etyl|grc|it
 </ul>
 >>>
 ===seme===
-HtmlEntry: seme <<<{{wikipedia|lang=it}}
+HtmlEntry: seme <<<{wikipedia}
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[ˈseme]|lang=it}}</li>
-<li> {{enPR|s&eacute;me}}, {{IPA|/ˈseme/|lang=it}}, {{X-SAMPA|/&quot;seme/}}</li>
+<ul><li> {{IPA|[ˈseme]}}</li>
+<li> {{enPR|s&eacute;me}}, {{IPA|/ˈseme/}}, {{X-SAMPA|/&quot;seme/}}</li>
 </ul>
 
 <h3>Etymology</h3>
@@ -1217,7 +1217,7 @@ From {{etyl|la|it}} <em><a href="semen">semen</a></em>.
 HtmlEntry: SpA <<<
 <h3>Noun</h3>
 {{head|it|noun}} {{f|inv}}
-<ol><li> {{abbreviation of|societ&agrave; per azioni|lang=it}} {{gloss|public limited company, PLC}}</li>
+<ol><li> {{abbreviation of|societ&agrave; per azioni}} {{gloss|public limited company, PLC}}</li>
 </ol>
 
 <h4>Coordinate terms</h4>
@@ -1273,11 +1273,11 @@ HtmlEntry: transfinite <<<
 HtmlEntry: transitive <<<
 <h3>Adjective</h3>
 <b>transitive</b> {p}
-<ol><li> {{feminine of|transitivo|lang=it}}</li>
+<ol><li> {{feminine of|transitivo}}</li>
 </ol>
 >>>
 ===Tunisia===
-HtmlEntry: Tunisia <<<{{wikipedia|lang=it}}
+HtmlEntry: Tunisia <<<{wikipedia}
 <h3>Proper noun</h3>
 <b>Tunisia</b> {f}
 <ol><li> <a href="#English">Tunisia</a></li>
@@ -1311,7 +1311,7 @@ HtmlEntry: y <<<
 ===zero===
 HtmlEntry: zero <<<{{cardinalbox|it|0|1|uno|ord=zeresimo}}
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈdzɛro/|[ˈd̪͡z̪ɛː.ro]|lang=it}}, {{X-SAMPA|/&quot;dzEro/}}</li>
+<ul><li> {{IPA|/ˈdzɛro/|[ˈd̪͡z̪ɛː.ro]}}, {{X-SAMPA|/&quot;dzEro/}}</li>
 <li> {{hyphenation|z&egrave;|ro}}</li>
 </ul>
 

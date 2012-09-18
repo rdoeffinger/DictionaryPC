@@ -16,7 +16,9 @@ import java.util.Map;
 import java.util.regex.Pattern;
 
 public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
-    
+
+    public static final String NAME = "WholeSectionToHtmlParser";
+
     interface LangConfig {
         boolean skipSection(final String name);
         boolean skipWikiLink(final WikiTokenizer wikiTokenizer);
@@ -48,15 +50,15 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
             }});
     }
 
-    public static final String NAME = "WholeSectionToHtmlParser";
-
     final IndexBuilder titleIndexBuilder;
+    final String skipLangIso;
     final LangConfig langConfig;
 
-    public WholeSectionToHtmlParser(final IndexBuilder titleIndexBuilder, final String wiktionaryIso) {
+    public WholeSectionToHtmlParser(final IndexBuilder titleIndexBuilder, final String wiktionaryIso, final String skipLangIso) {
         this.titleIndexBuilder = titleIndexBuilder;
         assert isoToLangConfig.containsKey(wiktionaryIso): wiktionaryIso;
         this.langConfig = isoToLangConfig.get(wiktionaryIso);
+        this.skipLangIso = skipLangIso;
     }
 
     @Override
@@ -123,6 +125,9 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
         @Override
         public void onFunction(WikiTokenizer wikiTokenizer, String name,
                 List<String> args, Map<String, String> namedArgs) {
+            if (skipLangIso.equalsIgnoreCase(namedArgs.get("lang"))) {
+                namedArgs.remove("lang");
+            }
             super.onFunction(wikiTokenizer, name, args, namedArgs);
         }
 

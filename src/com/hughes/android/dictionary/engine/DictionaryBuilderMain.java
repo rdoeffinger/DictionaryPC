@@ -104,6 +104,8 @@ public class DictionaryBuilderMain extends TestCase {
         result.add(String.format("--input%dName=%sWiktionary.WholeSections.%s", i, wikitionaryLang, foreignIso));
         result.add(String.format("--input%dFormat=%s", i, WholeSectionToHtmlParser.NAME));
         result.add(String.format("--input%dTitleIndex=%d", i, Arrays.asList(pair).indexOf(foreignIso) + 1));
+        result.add(String.format("--input%dWiktionaryLang=%s", i, wikitionaryLang));
+        result.add(String.format("--input%dSkipLang=%s", i, foreignIso));
         ++i;
     }
     

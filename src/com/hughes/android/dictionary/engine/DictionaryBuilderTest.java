@@ -118,6 +118,7 @@ public class DictionaryBuilderTest extends TestCase {
         "--input4Name=" + name,
         "--input4Format=" + WholeSectionToHtmlParser.NAME,
         "--input4WiktionaryLang=EN",
+        "--input4SkipLang=" + langCode,
         "--input4TitleIndex=" + "1",
         "--input4PageLimit=100",
 

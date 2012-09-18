@@ -5,7 +5,7 @@ Index: DE DE->EN
 ===A===
 HtmlEntry: A <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ʔaː/|lang=de}}</li>
+<ul><li> {{IPA|/ʔaː/}}</li>
 <li> {{audio|De-A.OGG|Audio}}</li>
 </ul>
 
@@ -29,9 +29,9 @@ HtmlEntry: A <<<
 ===ab===
 HtmlEntry: ab <<<
 <h3>Etymology</h3>
-From {{etyl|goh|de}} {{term|ab|lang=goh}}, from {{proto|Germanic|ab|lang=de}}.
+From {{etyl|goh|de}} {{term|ab|lang=goh}}, from {{proto|Germanic|ab}}.
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ap/|lang=de}}</li>
+<ul><li> {{IPA|/ap/}}</li>
 </ul>
 
 <h3>Preposition</h3>
@@ -56,7 +56,7 @@ From {{proto|Germanic|ab|lang=goh}}.
 ===ab-===
 HtmlEntry: ab- <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[ʔap]|lang=de}}</li>
+<ul><li> {{IPA|[ʔap]}}</li>
 </ul>
 
 <h3>Prefix</h3>
@@ -157,7 +157,7 @@ HtmlEntry: abstinent <<<
 </ul>
 ---->>>
 ===Afghanistan===
-HtmlEntry: Afghanistan <<<{{wikipedia|lang=de}}
+HtmlEntry: Afghanistan <<<{wikipedia}
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-Afghanistan.ogg|audio}}</li>
 </ul>
@@ -189,7 +189,7 @@ HtmlEntry: also <<<
 </ol>
 ---->>>
 ===Andorra===
-HtmlEntry: Andorra <<<{{wikipedia|lang=de}}
+HtmlEntry: Andorra <<<{wikipedia}
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-Andorra.ogg|Audio}}</li>
 </ul>
@@ -249,11 +249,11 @@ HtmlEntry: Bahrain <<<
 HtmlEntry: Bangladesh <<<
 <h3>Proper noun</h3>
 {{head|de|proper noun}} <em>no gender</em>
-<ol><li> {{alternative spelling of|Bangladesch|lang=de}}</li>
+<ol><li> {{alternative spelling of|Bangladesch}}</li>
 </ol>
 ---->>>
 ===Belize===
-HtmlEntry: Belize <<<{{wikipedia|lang=de}}
+HtmlEntry: Belize <<<{wikipedia}
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=n}}
 <ol><li> {{l|en|Belize}}</li>
@@ -266,10 +266,10 @@ HtmlEntry: Belize <<<{{wikipedia|lang=de}}
 </ul>
 ---->>>
 ===Bhutan===
-HtmlEntry: Bhutan <<<{{wikipedia|lang=de}}
+HtmlEntry: Bhutan <<<{wikipedia}
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/buˈtaːn/|lang=de}}</li>
-<li> {{homophones|Butan|lang=de}}</li>
+<ul><li> {{IPA|/buˈtaːn/}}</li>
+<li> {{homophones|Butan}}</li>
 </ul>
 
 <h3>Proper noun</h3>
@@ -294,12 +294,12 @@ HtmlEntry: blood <<<
 HtmlEntry: bot <<<
 <h3>Verb</h3>
 {{head|de|verb form}}
-<ol><li> {{form of|First-person singular <a href="preterite">preterite</a>|bieten|lang=de}}</li>
-<li> {{form of|Third-person singular <a href="preterite">preterite</a>|bieten|lang=de}}</li>
+<ol><li> {{form of|First-person singular <a href="preterite">preterite</a>|bieten}}</li>
+<li> {{form of|Third-person singular <a href="preterite">preterite</a>|bieten}}</li>
 </ol>
 ---->>>
 ===Burundi===
-HtmlEntry: Burundi <<<{{wikipedia|lang=de}}
+HtmlEntry: Burundi <<<{wikipedia}
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=n}}
 <ol><li> {{l|en|Burundi}}</li>
@@ -313,10 +313,10 @@ HtmlEntry: Chile <<<
 </ol>
 ---->>>
 ===China===
-HtmlEntry: China <<<{{wikipedia|lang=de}}
+HtmlEntry: China <<<{wikipedia}
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-China.ogg|audio}}</li>
-<li> {{IPA|[ˈ&ccedil;iːnaː]|lang=de}}, colloquially: {{IPAchar|[ˈʃiːnaː]}}</li>
+<li> {{IPA|[ˈ&ccedil;iːnaː]}}, colloquially: {{IPAchar|[ˈʃiːnaː]}}</li>
 <li> Austria, Switzerland: {{IPAchar|[ˈkiːnaː]}}</li>
 <li> {{audio|De-at-China.ogg|Audio (Austria)}}</li>
 </ul>
@@ -440,7 +440,7 @@ From {{etyl|osx|nds}}.
 ===Dezember===
 HtmlEntry: Dezember <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[deˈtsɛmbɐ]|lang=de}}, {{X-SAMPA|[de&quot;tsEmb6]}}</li>
+<ul><li> {{IPA|[deˈtsɛmbɐ]}}, {{X-SAMPA|[de&quot;tsEmb6]}}</li>
 <li> {{hyphenation|De-zem-ber}}</li>
 <li> {{audio|De-Dezember.ogg|audio}}</li>
 </ul>
@@ -455,7 +455,7 @@ HtmlEntry: dick <<<
 <h3>Etymology</h3>
 From {{etyl|goh|de}} {{term|dicchi|lang=goh}} akin to {{etyl|osx|-}} {{term|thikki|lang=osx}}
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/dɪk/|lang=de}}</li>
+<ul><li> {{IPA|/dɪk/}}</li>
 <li> {{audio|De-dick.ogg|audio}}</li>
 </ul>
 
@@ -474,21 +474,21 @@ From {{etyl|goh|de}} {{term|dicchi|lang=goh}} akin to {{etyl|osx|-}} {{term|thik
 ===die===
 HtmlEntry: die <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/diː/|lang=de}}</li>
+<ul><li> {{IPA|/diː/}}</li>
 <li> {{audio|De-die.ogg|audio}}</li>
-<li> {{rhymes|iː|lang=de}}</li>
+<li> {{rhymes|iː}}</li>
 </ul>
 
 <h3>Article</h3>
 {{head|de|article|definite|feminine and plural form of|der}}
-<ol><li> <a href="the">The</a>; {{form of|declined form|der|lang=de}}</li>
+<ol><li> <a href="the">The</a>; {{form of|declined form|der}}</li>
 <ul><li> <b><em>die</b> Frau</em> — “the woman”</li>
 <li> <b><em>die</b> M&auml;nner</em> — “the men”</li>
 </ul>
 </ol>
 
 <h4>Usage notes</h4>
-The <a href="definite article">definite article</a> {{term|die}} is the form of {{term|der|the|lang=de}} used with the following types of noun phrases:
+The <a href="definite article">definite article</a> {{term|die}} is the form of {{term|der|the}} used with the following types of noun phrases:
 <ul><li> nominative singular feminine</li>
 <li> accusative singular feminine</li>
 <li> nominative plural for all genders</li>
@@ -528,14 +528,14 @@ HtmlEntry: digital <<<
 
 <h3>Adjective</h3>
 {{de-adj|-}}
-<ol><li> {{computing|lang=de}} <a href="#English">digital</a></li>
-<li> {{medicine|lang=de}} <a href="#English">digital</a></li>
+<ol><li> {computing} <a href="#English">digital</a></li>
+<li> {medicine} <a href="#English">digital</a></li>
 </ol>
 ---->>>
 ===Ecuador===
-HtmlEntry: Ecuador <<<{{wikipedia|lang=de}}
+HtmlEntry: Ecuador <<<{wikipedia}
 <h3>Pronunciation</h3>
-<ul><li> {{rhymes|oːɐ̯|lang=de}}</li>
+<ul><li> {{rhymes|oːɐ̯}}</li>
 </ul>
 
 <h3>Proper noun</h3>
@@ -616,14 +616,14 @@ HtmlEntry: Esperanto <<<
 HtmlEntry: Fabian <<<
 <h3>Proper noun</h3>
 {{head|de|proper noun}}
-<ol><li> {{given name|male|lang=de}}</li>
+<ol><li> {{given name|male}}</li>
 </ol>
 ---->>>
 ===Fanny===
 HtmlEntry: Fanny <<<
 <h3>Proper noun</h3>
 {{head|de|proper noun}}
-<ol><li> {{given name|female|lang=de}} borrowed from English.</li>
+<ol><li> {{given name|female}} borrowed from English.</li>
 </ol>
 ---->>>
 ===frei===
@@ -631,7 +631,7 @@ HtmlEntry: frei <<<
 <h3>Etymology</h3>
 {{etyl|goh|de}} {{term|fri|frī|lang=goh}}
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/fʁaɪ̯/|lang=de}}</li>
+<ul><li> {{IPA|/fʁaɪ̯/}}</li>
 </ul>
 
 <h3>Adjective</h3>
@@ -665,7 +665,7 @@ HtmlEntry: frei <<<
 </ul>
 ---->>>
 ===Gambia===
-HtmlEntry: Gambia <<<{{wikipedia|lang=de}}
+HtmlEntry: Gambia <<<{wikipedia}
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=n}}
 <ol><li> {{l|en|Gambia}}</li>
@@ -679,9 +679,9 @@ HtmlEntry: Gambia <<<{{wikipedia|lang=de}}
 </ul>
 ---->>>
 ===Ghana===
-HtmlEntry: Ghana <<<{{wikipedia|lang=de}}
+HtmlEntry: Ghana <<<{wikipedia}
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈgaːna/|lang=de}}</li>
+<ul><li> {{IPA|/ˈgaːna/}}</li>
 </ul>
 
 <h3>Proper noun</h3>
@@ -743,7 +743,7 @@ HtmlEntry: Guatemala <<<
 </ul>
 ---->>>
 ===Guyana===
-HtmlEntry: Guyana <<<{{wikipedia|lang=de}}
+HtmlEntry: Guyana <<<{wikipedia}
 <h3>Proper noun</h3>
 <b>Guyana</b> {n}
 <ol><li> <a href="#English">Guyana</a></li>
@@ -757,9 +757,9 @@ HtmlEntry: Guyana <<<{{wikipedia|lang=de}}
 </ul>
 ---->>>
 ===Haiti===
-HtmlEntry: Haiti <<<{{wikipedia|lang=de}}
+HtmlEntry: Haiti <<<{wikipedia}
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/haˈiːti/|lang=de}}</li>
+<ul><li> {{IPA|/haˈiːti/}}</li>
 </ul>
 
 <h3>Proper noun</h3>
@@ -776,9 +776,9 @@ HtmlEntry: Haiti <<<{{wikipedia|lang=de}}
 ===Haus===
 HtmlEntry: Haus <<<
 <h3>Etymology</h3>
-From {{etyl|goh|de}} {{term|hus|hūs|lang=goh}}, from {{proto|Germanic|hūsan|lang=de}}.  Cognate with Dutch <em><a href="huis">huis</a></em>, English <em><a href="house">house</a></em>.
+From {{etyl|goh|de}} {{term|hus|hūs|lang=goh}}, from {{proto|Germanic|hūsan}}.  Cognate with Dutch <em><a href="huis">huis</a></em>, English <em><a href="house">house</a></em>.
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[haʊ̯s]|lang=de}}</li>
+<ul><li> {{IPA|[haʊ̯s]}}</li>
 <li> {{audio|De-Haus.ogg|audio}}</li>
 </ul>
 
@@ -800,7 +800,7 @@ From {{etyl|goh|de}} {{term|hus|hūs|lang=goh}}, from {{proto|Germanic|hūsan|la
 ===hell===
 HtmlEntry: hell <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/hɛl/|lang=de}}</li>
+<ul><li> {{IPA|/hɛl/}}</li>
 <li> {{audio|De-hell.ogg|audio (Germany)}}</li>
 <li> {{audio|De-at-hell.ogg|audio (Austria)}}</li>
 </ul>
@@ -811,7 +811,7 @@ HtmlEntry: hell <<<
 </ol>
 ---->>>
 ===Honduras===
-HtmlEntry: Honduras <<<{{wikipedia|lang=de}}
+HtmlEntry: Honduras <<<{wikipedia}
 <h3>Proper noun</h3>
 <b>Honduras</b> {n}
 <ol><li> <a href="#English">Honduras</a></li>
@@ -852,12 +852,12 @@ From {{etyl|osx|nds}} {{term|ik|lang=osx}}, from {{proto|Germanic|ek|lang=nds}},
 ===in===
 HtmlEntry: in <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ʔɪn/|lang=de}}</li>
+<ul><li> {{IPA|/ʔɪn/}}</li>
 <li> {{audio|DE-in.OGG|audio}}</li>
 </ul>
 
 <h3>Etymology 1</h3>
-From {{etyl|goh|de}} {{term|in|lang=goh}}, from {{proto|Germanic|in|lang=de}}.
+From {{etyl|goh|de}} {{term|in|lang=goh}}, from {{proto|Germanic|in}}.
 <h4>Preposition</h4>
 {{head|de|preposition}}
 <ol><li> (<b>in</b> + <em>dative</em>) <a href="in">in</a>; <a href="within">within</a>; <a href="at">at</a>; contained by</li>
@@ -901,7 +901,7 @@ HtmlEntry: in <<<
 ===Iran===
 HtmlEntry: Iran <<<
 <h3>Pronunciation</h3>
-<ul><li> {{rhymes|aːn|lang=de}}</li>
+<ul><li> {{rhymes|aːn}}</li>
 </ul>
 
 <h3>Proper noun</h3>
@@ -948,7 +948,7 @@ HtmlEntry: Israel <<<
 ===Japan===
 HtmlEntry: Japan <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈjaːpaːn/|lang=de}}</li>
+<ul><li> {{IPA|/ˈjaːpaːn/}}</li>
 <li> {{audio|De-Japan.ogg|audio}}</li>
 </ul>
 
@@ -965,7 +965,7 @@ HtmlEntry: Japan <<<
 </ul>
 ---->>>
 ===Kiribati===
-HtmlEntry: Kiribati <<<{{wikipedia|lang=de}}
+HtmlEntry: Kiribati <<<{wikipedia}
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=n}}
 <ol><li> {{l|en|Kiribati}}</li>
@@ -976,7 +976,7 @@ HtmlEntry: Kiribati <<<{{wikipedia|lang=de}}
 </ul>
 ---->>>
 ===Kuwait===
-HtmlEntry: Kuwait <<<{{wikipedia|lang=de}}
+HtmlEntry: Kuwait <<<{wikipedia}
 <h3>Proper noun</h3>
 {{de-proper noun|g=n}}
 <ol><li> {{l|en|Kuwait}}</li>
@@ -989,7 +989,7 @@ HtmlEntry: Kuwait <<<{{wikipedia|lang=de}}
 </ul>
 ---->>>
 ===Laos===
-HtmlEntry: Laos <<<{{wikipedia|lang=de}}
+HtmlEntry: Laos <<<{wikipedia}
 <h3>Proper noun</h3>
 {{de-proper noun|g=n}}
 <ol><li> {{l|en|Laos}}</li>
@@ -1010,9 +1010,9 @@ HtmlEntry: last <<<
 </ol>
 ---->>>
 ===Liberia===
-HtmlEntry: Liberia <<<{{wikipedia|lang=de}}
+HtmlEntry: Liberia <<<{wikipedia}
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/liˈbeːʁia/|lang=de}}</li>
+<ul><li> {{IPA|/liˈbeːʁia/}}</li>
 </ul>
 
 <h3>Proper noun</h3>
@@ -1027,9 +1027,9 @@ HtmlEntry: Liberia <<<{{wikipedia|lang=de}}
 </ul>
 ---->>>
 ===Liechtenstein===
-HtmlEntry: Liechtenstein <<<{{wikipedia|lang=de}}
+HtmlEntry: Liechtenstein <<<{wikipedia}
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈlɪ&ccedil;tn̩ˌʃtaɪ̯n/|lang=de}}</li>
+<ul><li> {{IPA|/ˈlɪ&ccedil;tn̩ˌʃtaɪ̯n/}}</li>
 <li> {{audio|De-Liechtenstein.ogg|Audio}}</li>
 </ul>
 
@@ -1045,7 +1045,7 @@ HtmlEntry: Liechtenstein <<<{{wikipedia|lang=de}}
 </ul>
 ---->>>
 ===Malawi===
-HtmlEntry: Malawi <<<{{wikipedia|lang=de}}
+HtmlEntry: Malawi <<<{wikipedia}
 <h3>Proper noun</h3>
 <b>Malawi</b> {n}
 <ol><li> {{l|en|Malawi}}</li>
@@ -1058,14 +1058,14 @@ HtmlEntry: Malawi <<<{{wikipedia|lang=de}}
 </ul>
 ---->>>
 ===Malaysia===
-HtmlEntry: Malaysia <<<{{wikipedia|lang=de}}
+HtmlEntry: Malaysia <<<{wikipedia}
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=n}}
 <ol><li> <a href="#English">Malaysia</a></li>
 </ol>
 ---->>>
 ===Mali===
-HtmlEntry: Mali <<<{{wikipedia|lang=de}}
+HtmlEntry: Mali <<<{wikipedia}
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-Mali.ogg|Audio}}</li>
 </ul>
@@ -1082,7 +1082,7 @@ HtmlEntry: Mali <<<{{wikipedia|lang=de}}
 </ul>
 ---->>>
 ===Malta===
-HtmlEntry: Malta <<<{{wikipedia|lang=de}}
+HtmlEntry: Malta <<<{wikipedia}
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=n}}
 <ol><li> {{l|en|Malta}}</li>
@@ -1099,15 +1099,15 @@ HtmlEntry: man <<<
 <h3>Etymology</h3>
 From the same source as <em><a href="Mann">Mann</a></em> (&quot;adult male&quot;).&lt;ref&gt;Theo Stemmler: <em>Wie das Eisbein ins Lexikon kam,</em> page 15, ISBN 978-3-411-72291-4.&lt;/ref&gt;
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[man]|lang=de}}</li>
+<ul><li> {{IPA|[man]}}</li>
 <li> {{audio|De-at-man.ogg|audio (Austria)}}</li>
-<li> {{homophones|Mann|lang=de}}</li>
-<li> {{rhymes|an|lang=de}}</li>
+<li> {{homophones|Mann}}</li>
+<li> {{rhymes|an}}</li>
 </ul>
 
 <h3>Pronoun</h3>
 {{head|de|indefinite pronoun}}
-<ol><li> {{indefinite|lang=de}} <a href="one">one</a>, <a href="they">they</a> {{qualifier|indefinite third-person singular pronoun}}</li>
+<ol><li> {indefinite} <a href="one">one</a>, <a href="they">they</a> {{qualifier|indefinite third-person singular pronoun}}</li>
 <ul><li> <em>was <b>man</b> sehen kann</em> &amp;mdash; what one can see</li>
 <li> <b>2008</b>, Frank Behmeta, <em>Wenn ich die Augen &ouml;ffne</em>, page 55:</li>
 <ul><li> Kann <b>man</b> es f&uuml;hlen, wenn <b>man</b> schwanger ist?</li>
@@ -1141,7 +1141,7 @@ From {{proto|Germanic|mann-|lang=goh}}.
 </ol>
 ---->>>
 ===Mauritius===
-HtmlEntry: Mauritius <<<{{wikipedia|lang=de}}
+HtmlEntry: Mauritius <<<{wikipedia}
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=n}}
 <ol><li> {{l|en|Mauritius}}</li>
@@ -1170,9 +1170,9 @@ From {{etyl|la|goh}} {{term|mustum|lang=la}}.
 </ol>
 ---->>>
 ===Namibia===
-HtmlEntry: Namibia <<<{{wikipedia|lang=de}}
+HtmlEntry: Namibia <<<{wikipedia}
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/naˈmiːbia/|lang=de}}</li>
+<ul><li> {{IPA|/naˈmiːbia/}}</li>
 </ul>
 
 <h3>Proper noun</h3>
@@ -1187,7 +1187,7 @@ HtmlEntry: Namibia <<<{{wikipedia|lang=de}}
 </ul>
 ---->>>
 ===Niger===
-HtmlEntry: Niger <<<{{wikipedia|lang=de}}
+HtmlEntry: Niger <<<{wikipedia}
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=m|g2=n}}
 <ol><li> {{l|en|Niger}} {{gloss|country}}</li>
@@ -1202,7 +1202,7 @@ HtmlEntry: Niger <<<{{wikipedia|lang=de}}
 </ul>
 ---->>>
 ===Nigeria===
-HtmlEntry: Nigeria <<<{{wikipedia|lang=de}}
+HtmlEntry: Nigeria <<<{wikipedia}
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-Nigeria.ogg|Audio}}</li>
 </ul>
@@ -1236,7 +1236,7 @@ HtmlEntry: nine <<<
 ===November===
 HtmlEntry: November <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/noˈvɛmbɐ/|lang=de}}</li>
+<ul><li> {{IPA|/noˈvɛmbɐ/}}</li>
 <li> {{audio|De-November.ogg|audio}}</li>
 </ul>
 
@@ -1293,7 +1293,7 @@ Ultimately cognate to {{etyl|de|-}} <a href="und">und</a>.
 ===orange===
 HtmlEntry: orange <<<
 <h3>Etymology</h3>
-From the noun {{term|Orange|lang=de}}
+From the noun {{term|Orange}}
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-orange.ogg|Audio}}</li>
 </ul>
@@ -1325,7 +1325,7 @@ HtmlEntry: PM <<<
 ===September===
 HtmlEntry: September <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/zɛpˈtɛmbɐ/|lang=de}}</li>
+<ul><li> {{IPA|/zɛpˈtɛmbɐ/}}</li>
 <li> {{audio|September.ogg|September}}</li>
 <li> {{audio|De-September.ogg|Audio}}</li>
 </ul>
@@ -1339,7 +1339,7 @@ HtmlEntry: September <<<
 HtmlEntry: SMS <<<
 <h3>{{initialism|German}}</h3>
 {{head|de|initialism}}
-<ol><li> {{nautical|military|lang=de}} <a href="#English">SMS</a> &amp;mdash; <a href="Seiner Majestät Schiff">Seiner Majest&auml;t Schiff</a>, <em>His Majesty's Ship</em></li>
+<ol><li> {{nautical|military}} <a href="#English">SMS</a> &amp;mdash; <a href="Seiner Majestät Schiff">Seiner Majest&auml;t Schiff</a>, <em>His Majesty's Ship</em></li>
 </ol>
 
 <h4>Usage notes</h4>
@@ -1347,7 +1347,7 @@ Used for naval ships of the <a href="Austro-Hungarian Empire">Austro-Hungarian E
 ===spring===
 HtmlEntry: spring <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ʃpʀɪŋ/|lang=de}}</li>
+<ul><li> {{IPA|/ʃpʀɪŋ/}}</li>
 </ul>
 
 <h3>Verb</h3>
@@ -1373,11 +1373,11 @@ HtmlEntry: UdSSR <<<
 ===Uhr===
 HtmlEntry: Uhr <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ʔuːɐ̯/|lang=de}}</li>
+<ul><li> {{IPA|/ʔuːɐ̯/}}</li>
 <li> {{audio|De-Uhr.ogg|audio (Germany)}}</li>
 <li> {{audio|De-at-Uhr.ogg|audio (Austria)}}</li>
 <li> {{homophones|ur-|Ur}}</li>
-<li> {{rhymes|uːɐ̯|lang=de}}</li>
+<li> {{rhymes|uːɐ̯}}</li>
 </ul>
 
 <h3>Noun</h3>
@@ -1407,9 +1407,9 @@ HtmlEntry: Uhr <<<
 ===um===
 HtmlEntry: um <<<
 <h3>Etymology</h3>
-From {{etyl|goh|de}} {{term|umbi|lang=goh}}, from {{proto|Germanic|umbi|lang=de}}.
+From {{etyl|goh|de}} {{term|umbi|lang=goh}}, from {{proto|Germanic|umbi}}.
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ʊm/|lang=de}}, {{X-SAMPA|/Um/}}</li>
+<ul><li> {{IPA|/ʊm/}}, {{X-SAMPA|/Um/}}</li>
 <li> {{audio|De-um.ogg|audio (Germany)}}</li>
 <li> {{audio|De-at-um.ogg|audio (Austria)}}</li>
 </ul>
@@ -1452,7 +1452,7 @@ HtmlEntry: umsonst <<<
 ===urban===
 HtmlEntry: urban <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈʊɐ̯ban/|lang=de}}</li>
+<ul><li> {{IPA|/ˈʊɐ̯ban/}}</li>
 </ul>
 
 <h3>Adjective</h3>
@@ -1477,9 +1477,9 @@ HtmlEntry: wage <<<
 ===war===
 HtmlEntry: war <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/vaːɐ̯/|lang=de}}</li>
+<ul><li> {{IPA|/vaːɐ̯/}}</li>
 <li> {{audio|De-war.ogg|audio}}</li>
-<li> {{homophones|wahr|lang=de}}</li>
+<li> {{homophones|wahr}}</li>
 </ul>
 
 <h3>Verb</h3>
@@ -1536,7 +1536,7 @@ HtmlEntry: zwei <<<{{cardinalbox|de|1|2|3|eins|drei|ord=zweite}}
 <h3>Etymology</h3>
 From {{etyl|goh|de}} {{term|zwene|zwēne|lang=goh}}.
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/tsvaɪ̯/|lang=de}}</li>
+<ul><li> {{IPA|/tsvaɪ̯/}}</li>
 <li> {{audio|De-zwei.ogg|audio}}</li>
 </ul>
 
