@@ -20,6 +20,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
     interface LangConfig {
         boolean skipSection(final String name);
         boolean skipWikiLink(final WikiTokenizer wikiTokenizer);
+        String adjustWikiLink(String wikiLinkDest);
     }
     static final Map<String,LangConfig> isoToLangConfig = new LinkedHashMap<String,LangConfig>();
     static {
@@ -37,6 +38,13 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
                     return true;
                 }
                 return false;
+            }
+            @Override
+            public String adjustWikiLink(String wikiLinkDest) {
+                if (wikiLinkDest.startsWith("w:") || wikiLinkDest.startsWith("Image:")) {
+                    return null;
+                }
+                return wikiLinkDest;
             }});
     }
 
@@ -97,7 +105,19 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
             if (langConfig.skipWikiLink(wikiTokenizer)) {
                 return;
             }
-            super.onWikiLink(wikiTokenizer);
+            String linkDest;
+            if (wikiTokenizer.wikiLinkDest() != null) {
+                linkDest = langConfig.adjustWikiLink(wikiTokenizer.wikiLinkDest());
+            } else {
+                linkDest = wikiTokenizer.wikiLinkText();
+            }
+            if (linkDest != null) {
+                builder.append(String.format("<a href=\"%s\">", linkDest));
+                super.onWikiLink(wikiTokenizer);
+                builder.append(String.format("</a>"));
+            } else {
+                super.onWikiLink(wikiTokenizer);
+            }
         }
 
         @Override
