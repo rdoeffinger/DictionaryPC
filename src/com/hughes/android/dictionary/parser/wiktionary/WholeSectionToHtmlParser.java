@@ -65,6 +65,10 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
 
         @Override
         public void onWikiLink(WikiTokenizer wikiTokenizer) {
+            if (wikiTokenizer.wikiLinkText().endsWith(":" + title)) {
+                // Skips wikilinks like: [[en::dick]]
+                return;
+            }
             super.onWikiLink(wikiTokenizer);
         }
 
