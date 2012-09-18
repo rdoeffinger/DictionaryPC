@@ -178,7 +178,8 @@ public class DictionaryBuilder {
           new EnTranslationToTranslationParser(dictionaryBuilder.indexBuilders, new Pattern[] {codePattern1, codePattern2}).parse(file, entrySource, pageLimit);
         } else if (WholeSectionToHtmlParser.NAME.equals(inputFormat)) {
           final int titleIndex = Integer.parseInt(keyValueArgs.remove(prefix + "TitleIndex")) - 1;
-          new WholeSectionToHtmlParser(dictionaryBuilder.indexBuilders.get(titleIndex)).parse(file, entrySource, pageLimit);
+          final String wiktionaryLang = keyValueArgs.remove(prefix + "WiktionaryLang");
+          new WholeSectionToHtmlParser(dictionaryBuilder.indexBuilders.get(titleIndex), wiktionaryLang).parse(file, entrySource, pageLimit);
         } else {
           fatalError("Invalid or missing input format: " + inputFormat);
         }

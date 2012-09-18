@@ -29,7 +29,7 @@ import junit.framework.TestCase;
 public class DictionaryBuilderTest extends TestCase {
   
   public static final String TEST_INPUTS = "testdata/inputs/";
-  public static final String WIKISPLIT = "data/inputs/wikiSplit/en/";
+  public static final String WIKISPLIT_EN = "data/inputs/wikiSplit/en/";
   public static final String STOPLISTS = "data/inputs/stoplists/";
   public static final String GOLDENS = "testdata/goldens/";
 
@@ -78,7 +78,7 @@ public class DictionaryBuilderTest extends TestCase {
         "--lang2Stoplist=" + STOPLISTS + "empty.txt",
         "--dictInfo=SomeWikiDataTrans2Trans",
 
-        "--input4=" + WIKISPLIT + "EN.data",
+        "--input4=" + WIKISPLIT_EN + "EN.data",
         "--input4Name=" + name,
         "--input4Format=" + EnTranslationToTranslationParser.NAME,
         "--input4LangPattern1=" + lang1,
@@ -114,9 +114,10 @@ public class DictionaryBuilderTest extends TestCase {
         "--lang2Stoplist=" + STOPLISTS + "empty.txt",
         "--dictInfo=SomeWikiDataWholeSection",
 
-        "--input4=" + WIKISPLIT + langCode + ".data",
+        "--input4=" + WIKISPLIT_EN + langCode + ".data",
         "--input4Name=" + name,
         "--input4Format=" + WholeSectionToHtmlParser.NAME,
+        "--input4WiktionaryLang=EN",
         "--input4TitleIndex=" + "1",
         "--input4PageLimit=100",
 
@@ -194,7 +195,7 @@ public class DictionaryBuilderTest extends TestCase {
         "--lang2Stoplist=" + STOPLISTS + "en.txt",
         "--dictInfo=SomeWikiData",
 
-        "--input4=" + WIKISPLIT + data,
+        "--input4=" + WIKISPLIT_EN + data,
         "--input4Name=" + dictName,
         "--input4Format=enwiktionary",
         "--input4WiktionaryType=" + type,

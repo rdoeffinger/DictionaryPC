@@ -10,20 +10,45 @@ import com.hughes.android.dictionary.parser.WikiTokenizer;
 import org.apache.commons.lang3.StringEscapeUtils;
 
 import java.util.ArrayList;
+import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.regex.Pattern;
 
 public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
+    
+    interface LangConfig {
+        boolean skipSection(final String name);
+        boolean skipWikiLink(final WikiTokenizer wikiTokenizer);
+    }
+    static final Map<String,LangConfig> isoToLangConfig = new LinkedHashMap<String,LangConfig>();
+    static {
+        final Pattern enSkipSections = Pattern.compile(".*Translations.*");
+        isoToLangConfig.put("EN", new LangConfig() {
+            @Override
+            public boolean skipSection(String headingText) {
+                return enSkipSections.matcher(headingText).matches();
+            }
+
+            @Override
+            public boolean skipWikiLink(WikiTokenizer wikiTokenizer) {
+                final String wikiText = wikiTokenizer.wikiLinkText();
+                if (wikiText.startsWith("Category:")) {
+                    return true;
+                }
+                return false;
+            }});
+    }
 
     public static final String NAME = "WholeSectionToHtmlParser";
-    public static final Pattern skipSections = Pattern.compile(".*Translations.*");
 
     final IndexBuilder titleIndexBuilder;
+    final LangConfig langConfig;
 
-    public WholeSectionToHtmlParser(final IndexBuilder titleIndexBuilder) {
+    public WholeSectionToHtmlParser(final IndexBuilder titleIndexBuilder, final String wiktionaryIso) {
         this.titleIndexBuilder = titleIndexBuilder;
-
+        assert isoToLangConfig.containsKey(wiktionaryIso): wiktionaryIso;
+        this.langConfig = isoToLangConfig.get(wiktionaryIso);
     }
 
     @Override
@@ -69,6 +94,9 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
                 // Skips wikilinks like: [[en::dick]]
                 return;
             }
+            if (langConfig.skipWikiLink(wikiTokenizer)) {
+                return;
+            }
             super.onWikiLink(wikiTokenizer);
         }
 
@@ -91,7 +119,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
         public void onHeading(WikiTokenizer wikiTokenizer) {
             final String headingText = wikiTokenizer.headingWikiText();
             final int depth = wikiTokenizer.headingDepth();
-            if (skipSections.matcher(headingText).matches()) {
+            if (langConfig.skipSection(headingText)) {
                 while ((wikiTokenizer = wikiTokenizer.nextToken()) != null) {
                     if (wikiTokenizer.isHeading() && wikiTokenizer.headingDepth() <= depth) {
                         wikiTokenizer.returnToLineStart();
