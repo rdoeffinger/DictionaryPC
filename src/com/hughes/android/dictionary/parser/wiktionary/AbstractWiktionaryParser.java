@@ -239,7 +239,7 @@ public abstract class AbstractWiktionaryParser implements Parser {
         final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
       
       if (name != null) {
-        appendAndIndexWikiCallback.builder.append(name);
+        appendAndIndexWikiCallback.dispatch(name, null);
       }
       for (int i = 0; i < args.size(); ++i) {
         if (args.get(i).length() > 0) {

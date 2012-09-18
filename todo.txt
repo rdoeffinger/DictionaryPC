@@ -1,4 +1,6 @@
 HtmlEntry
+  - text inside functions doesn't get escaped properly.
+  - Skips Uebersetzung section (likewise in other langs), except maybe for the other lange of interest.
   - Build single EN/DE/IT/FR dictionaries based on HtmlEntry.
   - Parse Italian verb forms from enwiktionary into something useful.
   - "See also" link entries for cross-referencing ("form of"--strong, links to token, "mentioned in"--weaker, links to HtmlEntry).

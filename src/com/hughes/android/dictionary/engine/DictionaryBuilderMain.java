@@ -151,7 +151,8 @@ public class DictionaryBuilderMain extends TestCase {
       // Pairs without English.
       result.add(String.format("--lang1=%s", lang1));
       result.add(String.format("--lang2=%s", lang2));
-      
+      result.add(String.format("--dictInfo=Wikitionary-based %s-%s dictionary.", lang1, lang2));
+ 
       result.add(String.format("--input%d=%swikiSplit/en/EN.data", i, INPUTS));
       result.add(String.format("--input%dName=BETA!enwiktionary.%s-%s", i, lang1, lang2));
       result.add(String.format("--input%dFormat=%s", i, EnTranslationToTranslationParser.NAME));
@@ -169,7 +170,13 @@ public class DictionaryBuilderMain extends TestCase {
     
     // Build the non EN ones.
     final String[][] nonEnPairs = new String[][] {
-        
+
+        // The 3 I use most:
+        {"DE", "EN" },
+        {"IT", "EN" },
+        {"DE", "IT" },
+            
+            
         {"AR", "DE" },
         {"AR", "ES" },
         {"AR", "FR" },
@@ -277,7 +284,7 @@ public class DictionaryBuilderMain extends TestCase {
       done.add(pairList);
       
       if (!pairList.contains("IT") || !pairList.contains("EN")) {
-        continue;
+        //continue;
       }
       
       DictionaryBuilder.main(getMainArgs(pair).toArray(new String[0]));
