@@ -92,18 +92,19 @@ public class DictionaryBuilderTest extends TestCase {
   }
 
   public void testWiktionary_WholeSection_DE() throws Exception {
-    wiktionaryTestWithWholeSectionToHtml("wiktionary.WholeSection.DE.quickdic", "DE");
+    wiktionaryTestWithWholeSectionToHtml("wiktionary.WholeSection.DE.quickdic", "DE", 100);
   }
 
   public void testWiktionary_WholeSection_EN() throws Exception {
-    wiktionaryTestWithWholeSectionToHtml("wiktionary.WholeSection.EN.quickdic", "EN");
+    wiktionaryTestWithWholeSectionToHtml("wiktionary.WholeSection.EN.quickdic", "EN", 100);
   }
 
   public void testWiktionary_WholeSection_IT() throws Exception {
-    wiktionaryTestWithWholeSectionToHtml("wiktionary.WholeSection.IT.quickdic", "IT");
+    // Have to run to 800 to get a few verb conjugations (including essere!)
+    wiktionaryTestWithWholeSectionToHtml("wiktionary.WholeSection.IT.quickdic", "IT", 800);
   }
 
-  public void wiktionaryTestWithWholeSectionToHtml(final String name, final String langCode) throws Exception {
+  public void wiktionaryTestWithWholeSectionToHtml(final String name, final String langCode, final int pageLimit) throws Exception {
     final File result = new File(TEST_OUTPUTS + name);
     System.out.println("Writing to: " + result);
     DictionaryBuilder.main(new String[] {
@@ -120,7 +121,7 @@ public class DictionaryBuilderTest extends TestCase {
         "--input4WiktionaryLang=EN",
         "--input4SkipLang=" + langCode,
         "--input4TitleIndex=" + "1",
-        "--input4PageLimit=100",
+        "--input4PageLimit=" + pageLimit,
 
         "--print=" + result.getPath() + ".text",
     });
