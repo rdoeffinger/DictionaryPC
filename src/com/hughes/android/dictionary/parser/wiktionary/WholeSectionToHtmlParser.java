@@ -23,7 +23,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
     }
     static final Map<String,LangConfig> isoToLangConfig = new LinkedHashMap<String,LangConfig>();
     static {
-        final Pattern enSkipSections = Pattern.compile(".*Translations.*");
+        final Pattern enSkipSections = Pattern.compile(".*Translations|Anagrams|References.*");
         isoToLangConfig.put("EN", new LangConfig() {
             @Override
             public boolean skipSection(String headingText) {
