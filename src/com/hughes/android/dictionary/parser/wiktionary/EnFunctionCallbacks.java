@@ -14,6 +14,14 @@
 
 package com.hughes.android.dictionary.parser.wiktionary;
 
+import com.hughes.android.dictionary.engine.EntryTypeName;
+import com.hughes.android.dictionary.engine.IndexBuilder;
+import com.hughes.android.dictionary.parser.WikiTokenizer;
+import com.hughes.android.dictionary.parser.wiktionary.AbstractWiktionaryParser.AppendAndIndexWikiCallback;
+import com.hughes.android.dictionary.parser.wiktionary.AbstractWiktionaryParser.NameAndArgs;
+import com.hughes.util.ListUtil;
+import com.hughes.util.MapUtil;
+
 import java.util.Arrays;
 import java.util.LinkedHashMap;
 import java.util.LinkedHashSet;
@@ -22,23 +30,10 @@ import java.util.Map;
 import java.util.Set;
 import java.util.concurrent.atomic.AtomicInteger;
 
-import com.hughes.android.dictionary.engine.EntryTypeName;
-import com.hughes.android.dictionary.engine.IndexBuilder;
-import com.hughes.android.dictionary.parser.WikiTokenizer;
-import com.hughes.android.dictionary.parser.wiktionary.AbstractWiktionaryParser.AppendAndIndexWikiCallback;
-import com.hughes.android.dictionary.parser.wiktionary.AbstractWiktionaryParser.NameAndArgs;
-import com.hughes.util.ListUtil;
-
 class EnFunctionCallbacks {
   
   static final Map<String,FunctionCallback<EnParser>> DEFAULT = new LinkedHashMap<String, FunctionCallback<EnParser>>();
 
-  static final Map<String,FunctionCallback<AbstractWiktionaryParser>> DEFAULT_GENERIC = new LinkedHashMap<String, FunctionCallback<AbstractWiktionaryParser>>();
-  static {
-      FunctionCallback<AbstractWiktionaryParser> callback = new TranslationCallback<AbstractWiktionaryParser>();
-      DEFAULT_GENERIC.put("t", callback);
-  }
-  
   static <T extends AbstractWiktionaryParser> void addGenericCallbacks(Map<String, FunctionCallback<T>> callbacks) {
       FunctionCallback<T> callback = new Gender<T>();
       callbacks.put("m", callback);
@@ -49,9 +44,10 @@ class EnFunctionCallbacks {
       
       callback = new EncodingCallback<T>();
       Set<String> encodings = new LinkedHashSet<String>(Arrays.asList(
+          "IPA", "IPAchar",  // Not really encodings, but it works.
           "zh-ts", "zh-tsp",
           "sd-Arab", "ku-Arab", "Arab", "unicode", "Laoo", "ur-Arab", "Thai", 
-          "fa-Arab", "Khmr", "Cyrl", "IPAchar", "ug-Arab", "ko-inline", 
+          "fa-Arab", "Khmr", "Cyrl", "ug-Arab", "ko-inline", 
           "Jpan", "Kore", "Hebr", "rfscript", "Beng", "Mong", "Knda", "Cyrs",
           "yue-tsj", "Mlym", "Tfng", "Grek", "yue-yue-j"));
       for (final String encoding : encodings) {
@@ -77,6 +73,18 @@ class EnFunctionCallbacks {
       callbacks.put("gloss", new gloss<T>());
       callbacks.put("not used", new not_used<T>());
       callbacks.put("wikipedia", new wikipedia<T>());
+      
+      final it_conj<T> it_conj_cb = new it_conj<T>();
+      callbacks.put("it-conj", it_conj_cb);
+      callbacks.put("it-conj-are", new it_conj_are<T>(it_conj_cb));
+      callbacks.put("it-conj-care", new it_conj_are<T>(it_conj_cb));
+      callbacks.put("it-conj-iare", new it_conj_are<T>(it_conj_cb));
+      callbacks.put("it-conj-ciare", new it_conj_are<T>(it_conj_cb));
+      callbacks.put("it-conj-ere", new it_conj_ere<T>(it_conj_cb));
+      callbacks.put("it-conj-ire", new it_conj_ire<T>(it_conj_cb));
+      callbacks.put("it-conj-ire-b", new it_conj_ire<T>(it_conj_cb));
+      callbacks.put("it-conj-urre", new it_conj_urre<T>(it_conj_cb));
+      
   }
 
   static {
@@ -210,10 +218,15 @@ class EnFunctionCallbacks {
         final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
       if (!namedArgs.isEmpty()) {
         EnParser.LOG.warning("weird encoding: " + wikiTokenizer.token());
+        return false;
       }
       if (args.size() == 0) {
         // Things like "{{Jpan}}" exist.
         return true;
+      }
+      
+      if (name.equals("IPA")) {
+          appendAndIndexWikiCallback.dispatch("IPA: ", null);
       }
       
       for (int i = 0; i < args.size(); ++i) {
@@ -596,14 +609,14 @@ class EnFunctionCallbacks {
   }
 
   static {
-    DEFAULT.put("it-proper noun", new it_proper_noun());
+    DEFAULT.put("it-proper noun", new it_proper_noun<EnParser>());
   } 
-  static final class it_proper_noun implements FunctionCallback<EnParser> {
+  static final class it_proper_noun<T extends AbstractWiktionaryParser> implements FunctionCallback<T> {
     @Override
     public boolean onWikiFunction(final WikiTokenizer wikiTokenizer, final String name, final List<String> args,
         final Map<String, String> namedArgs,
-        final EnParser parser,
-        final AppendAndIndexWikiCallback<EnParser> appendAndIndexWikiCallback) {
+        final T parser,
+        final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
       return false;
     }
   }
@@ -611,5 +624,376 @@ class EnFunctionCallbacks {
   // -----------------------------------------------------------------------
   // Italian stuff
   // -----------------------------------------------------------------------
-
+  
+  static void passThroughOrFillIn(final Map<String,String> namedArgs, final String key, final String fillIn, final boolean quoteToEmpty) {
+      final String value = namedArgs.get(key);
+      if (quoteToEmpty && "''".equals(value)) {
+          namedArgs.put(key, "");
+          return;
+      }
+      if (value == null || value.equals("")) {
+          namedArgs.put(key, fillIn);
+      }
   }
+  
+  static final List<String> it_number_s_p = Arrays.asList("s", "p");
+  static final List<String> it_person_1_2_3 = Arrays.asList("1", "2", "3");
+  
+  static void it_conj_passMood(final Map<String,String> namedArgs, final String moodName, final boolean quoteToEmpty, final String root, final List<String> suffixes) {
+      assert suffixes.size() == 6;
+      int i = 0;
+      for (final String number : it_number_s_p) {
+          for (final String person : it_person_1_2_3) {
+              passThroughOrFillIn(namedArgs, String.format("%s%s%s", moodName, person, number), root + suffixes.get(i), quoteToEmpty);
+              ++i;
+          }
+      }
+  }
+
+  static final class it_conj_are<T extends AbstractWiktionaryParser> implements FunctionCallback<T> {
+    final it_conj<T> dest;
+    it_conj_are(it_conj<T> dest) {
+      this.dest = dest;
+    }
+    @Override
+      public boolean onWikiFunction(final WikiTokenizer wikiTokenizer, final String name, final List<String> args,
+          final Map<String, String> namedArgs,
+          final T parser,
+          final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
+        final String h = name.equals("it-conj-care") ? "h" : "";
+        final String i = name.equals("it-conj-ciare") ? "i" : "";
+        final String i2 = name.equals("it-conj-iare") ? "" : "i";
+        final String root = args.get(0);
+        passThroughOrFillIn(namedArgs, "inf", root + i + "are", false);
+        namedArgs.put("aux", args.get(1));
+        passThroughOrFillIn(namedArgs, "ger", root + i + "ando", true);
+        passThroughOrFillIn(namedArgs, "presp", root + i + "ante", true);
+        passThroughOrFillIn(namedArgs, "pastp", root + i + "ato", true);
+        it_conj_passMood(namedArgs, "pres", false, root, Arrays.asList(i + "o", h + i2, i + "a", h + i2 + "amo", i + "ate", i + "ano"));
+        it_conj_passMood(namedArgs, "imperf", false, root, Arrays.asList(i + "avo", i + "avi", i + "ava", i + "avamo", i + "avate", i + "avano"));
+        it_conj_passMood(namedArgs, "prem", false, root, Arrays.asList(i + "ai", i + "asti", i + "ò", i + "ammo", i + "aste", i + "arono"));
+        it_conj_passMood(namedArgs, "fut", true, root, Arrays.asList(h + "erò", h + "erai", h + "erà", h + "eremo", h + "erete", h + "eranno"));
+        it_conj_passMood(namedArgs, "cond", true, root, Arrays.asList(h + "erei", h + "eresti", h + "erebbe", h + "eremmo", h + "ereste", h + "erebbero"));
+        
+        passThroughOrFillIn(namedArgs, "sub123s", root + h + i2, false);
+        passThroughOrFillIn(namedArgs, "sub1p", root + h + i2 + "amo", false);
+        passThroughOrFillIn(namedArgs, "sub2p", root + h + i2 + "ate", false);
+        passThroughOrFillIn(namedArgs, "sub3p", root + h + i2 + "no", false);
+
+        passThroughOrFillIn(namedArgs, "impsub12s", root + i + "assi", false);
+        passThroughOrFillIn(namedArgs, "impsub3s", root + i + "asse", false);
+        passThroughOrFillIn(namedArgs, "impsub1p", root + i + "assimo", false);
+        passThroughOrFillIn(namedArgs, "impsub2p", root + i + "aste", false);
+        passThroughOrFillIn(namedArgs, "impsub3p", root + i + "assero", false);
+
+        passThroughOrFillIn(namedArgs, "imp2s", root + i + "a", true);
+        passThroughOrFillIn(namedArgs, "imp3s", root + h + i2, true);
+        passThroughOrFillIn(namedArgs, "imp1p", root + h + i2 + "amo", true);
+        passThroughOrFillIn(namedArgs, "imp2p", root + i + "ate", true);
+        passThroughOrFillIn(namedArgs, "imp3p", root + h + i2 + "no", true);
+
+        return dest.onWikiFunction(wikiTokenizer, name, args, namedArgs, parser, appendAndIndexWikiCallback);
+      }
+    }
+  
+  static final class it_conj_ere<T extends AbstractWiktionaryParser> implements FunctionCallback<T> {
+      final it_conj<T> dest;
+      it_conj_ere(it_conj<T> dest) {
+        this.dest = dest;
+      }
+      @Override
+        public boolean onWikiFunction(final WikiTokenizer wikiTokenizer, final String name, final List<String> args,
+            final Map<String, String> namedArgs,
+            final T parser,
+            final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
+          final String root = args.get(0);
+          passThroughOrFillIn(namedArgs, "inf", root + "ere", false);
+          namedArgs.put("aux", args.get(1));
+          passThroughOrFillIn(namedArgs, "ger", root + "endo", true);
+          passThroughOrFillIn(namedArgs, "presp", root + "ente", true);
+          passThroughOrFillIn(namedArgs, "pastp", root + "uto", true);
+          it_conj_passMood(namedArgs, "pres", false, root, Arrays.asList("o", "i", "e", "iamo", "ete", "ono"));
+          it_conj_passMood(namedArgs, "imperf", false, root, Arrays.asList("evo", "evi", "eva", "evamo", "evate", "evano"));
+          it_conj_passMood(namedArgs, "prem", false, root, Arrays.asList("ei", "esti", "ette", "emmo", "este", "ettero"));
+          // Regular past historic synonyms:
+          passThroughOrFillIn(namedArgs, "prem3s2", root + "é", true);
+          passThroughOrFillIn(namedArgs, "prem3p2", root + "erono", true);
+          it_conj_passMood(namedArgs, "fut", true, root, Arrays.asList("erò", "erai", "erà", "eremo", "erete", "eranno"));
+          it_conj_passMood(namedArgs, "cond", true, root, Arrays.asList("erei", "eresti", "erebbe", "eremmo", "ereste", "erebbero"));
+
+          passThroughOrFillIn(namedArgs, "sub123s", root + "a", false);
+          passThroughOrFillIn(namedArgs, "sub1p", root + "iamo", false);
+          passThroughOrFillIn(namedArgs, "sub2p", root + "iate", false);
+          passThroughOrFillIn(namedArgs, "sub3p", root + "ano", false);
+
+          passThroughOrFillIn(namedArgs, "impsub12s", root + "essi", false);
+          passThroughOrFillIn(namedArgs, "impsub3s", root + "esse", false);
+          passThroughOrFillIn(namedArgs, "impsub1p", root + "essimo", false);
+          passThroughOrFillIn(namedArgs, "impsub2p", root + "este", false);
+          passThroughOrFillIn(namedArgs, "impsub3p", root + "essero", false);
+
+          passThroughOrFillIn(namedArgs, "imp2s", root + "i", true);
+          passThroughOrFillIn(namedArgs, "imp3s", root + "a", true);
+          passThroughOrFillIn(namedArgs, "imp1p", root + "iamo", true);
+          passThroughOrFillIn(namedArgs, "imp2p", root + "ete", true);
+          passThroughOrFillIn(namedArgs, "imp3p", root + "ano", true);
+
+          return dest.onWikiFunction(wikiTokenizer, name, args, namedArgs, parser, appendAndIndexWikiCallback);
+        }
+      }
+
+  static final class it_conj_ire<T extends AbstractWiktionaryParser> implements FunctionCallback<T> {
+      final it_conj<T> dest;
+      it_conj_ire(it_conj<T> dest) {
+        this.dest = dest;
+      }
+      @Override
+        public boolean onWikiFunction(final WikiTokenizer wikiTokenizer, final String name, final List<String> args,
+            final Map<String, String> namedArgs,
+            final T parser,
+            final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
+          final String root = args.get(0);
+          passThroughOrFillIn(namedArgs, "inf", root + "ire", false);
+          namedArgs.put("aux", args.get(1));
+          passThroughOrFillIn(namedArgs, "ger", root + "endo", true);
+          passThroughOrFillIn(namedArgs, "presp", root + "ente", true);
+          passThroughOrFillIn(namedArgs, "pastp", root + "ito", true);
+          if (name.equals("it-conj-ire")) {
+              it_conj_passMood(namedArgs, "pres", false, root, Arrays.asList("o", "i", "e", "iamo", "ite", "ono"));
+          } else if (name.equals("it-conj-ire-b")) {
+              it_conj_passMood(namedArgs, "pres", false, root, Arrays.asList("isco", "isci", "isce", "iamo", "ite", "iscono"));
+          } else {
+              assert false;
+          }
+          it_conj_passMood(namedArgs, "imperf", false, root, Arrays.asList("ivo", "ivi", "iva", "ivamo", "ivate", "ivano"));
+          it_conj_passMood(namedArgs, "prem", false, root, Arrays.asList("ii", "isti", "ì", "immo", "iste", "irono"));
+          // Regular past historic synonyms:
+          passThroughOrFillIn(namedArgs, "prem3s2", root + "é", true);
+          passThroughOrFillIn(namedArgs, "prem3p2", root + "erono", true);
+          it_conj_passMood(namedArgs, "fut", true, root, Arrays.asList("irò", "irai", "irà", "iremo", "irete", "iranno"));
+          it_conj_passMood(namedArgs, "cond", true, root, Arrays.asList("irei", "iresti", "irebbe", "iremmo", "ireste", "irebbero"));
+
+          if (name.equals("it-conj-ire")) {
+              passThroughOrFillIn(namedArgs, "sub123s", root + "a", false);
+              passThroughOrFillIn(namedArgs, "sub3p", root + "ano", false);
+          } else if (name.equals("it-conj-ire-b")) {
+              passThroughOrFillIn(namedArgs, "sub123s", root + "isca", false);
+              passThroughOrFillIn(namedArgs, "sub3p", root + "iscano", false);
+          } else {
+              assert false;
+          }
+          passThroughOrFillIn(namedArgs, "sub1p", root + "iamo", false);
+          passThroughOrFillIn(namedArgs, "sub2p", root + "iate", false);
+
+          passThroughOrFillIn(namedArgs, "impsub12s", root + "issi", false);
+          passThroughOrFillIn(namedArgs, "impsub3s", root + "isse", false);
+          passThroughOrFillIn(namedArgs, "impsub1p", root + "issimo", false);
+          passThroughOrFillIn(namedArgs, "impsub2p", root + "iste", false);
+          passThroughOrFillIn(namedArgs, "impsub3p", root + "issero", false);
+
+          if (name.equals("it-conj-ire")) {
+              passThroughOrFillIn(namedArgs, "imp2s", root + "i", true);
+              passThroughOrFillIn(namedArgs, "imp3s", root + "a", true);
+              passThroughOrFillIn(namedArgs, "imp3p", root + "ano", true);
+          } else if (name.equals("it-conj-ire-b")) {
+              passThroughOrFillIn(namedArgs, "imp2s", root + "isci", true);
+              passThroughOrFillIn(namedArgs, "imp3s", root + "isca", true);
+              passThroughOrFillIn(namedArgs, "imp3p", root + "iscano", true);
+          } else {
+              assert false;
+          }
+          passThroughOrFillIn(namedArgs, "imp1p", root + "iamo", true);
+          passThroughOrFillIn(namedArgs, "imp2p", root + "ite", true);
+
+          return dest.onWikiFunction(wikiTokenizer, name, args, namedArgs, parser, appendAndIndexWikiCallback);
+        }
+      }
+
+  
+  static final class it_conj_urre<T extends AbstractWiktionaryParser> implements FunctionCallback<T> {
+      final it_conj<T> dest;
+      it_conj_urre(it_conj<T> dest) {
+        this.dest = dest;
+      }
+      @Override
+        public boolean onWikiFunction(final WikiTokenizer wikiTokenizer, final String name, final List<String> args,
+            final Map<String, String> namedArgs,
+            final T parser,
+            final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
+          final String root = args.get(0);
+          passThroughOrFillIn(namedArgs, "inf", root + "urre", false);
+          namedArgs.put("aux", args.get(1));
+          passThroughOrFillIn(namedArgs, "ger", root + "ucendo", true);
+          passThroughOrFillIn(namedArgs, "presp", root + "ucente", true);
+          passThroughOrFillIn(namedArgs, "pastp", root + "otto", true);
+          it_conj_passMood(namedArgs, "pres", false, root, Arrays.asList("uco", "uci", "uce", "uciamo", "ucete", "ucono"));
+          it_conj_passMood(namedArgs, "imperf", false, root, Arrays.asList("ucevo", "ucevi", "uceva", "ucevamo", "ucevate", "ucevano"));
+          it_conj_passMood(namedArgs, "prem", false, root, Arrays.asList("ussi", "ucesti", "usse", "ucemmo", "uceste", "ussero"));
+          it_conj_passMood(namedArgs, "fut", true, root, Arrays.asList("urrò", "urrai", "urrà", "urremo", "urrete", "urranno"));
+          it_conj_passMood(namedArgs, "cond", true, root, Arrays.asList("urrei", "urresti", "urrebbe", "urremmo", "urreste", "urrebbero"));
+
+          passThroughOrFillIn(namedArgs, "sub123s", root + "uca", false);
+          passThroughOrFillIn(namedArgs, "sub1p", root + "uciamo", false);
+          passThroughOrFillIn(namedArgs, "sub2p", root + "uciate", false);
+          passThroughOrFillIn(namedArgs, "sub3p", root + "ucano", false);
+
+          passThroughOrFillIn(namedArgs, "impsub12s", root + "ucessi", false);
+          passThroughOrFillIn(namedArgs, "impsub3s", root + "ucesse", false);
+          passThroughOrFillIn(namedArgs, "impsub1p", root + "ucessimo", false);
+          passThroughOrFillIn(namedArgs, "impsub2p", root + "uceste", false);
+          passThroughOrFillIn(namedArgs, "impsub3p", root + "ucessero", false);
+
+          passThroughOrFillIn(namedArgs, "imp2s", root + "uci", true);
+          passThroughOrFillIn(namedArgs, "imp3s", root + "uca", true);
+          passThroughOrFillIn(namedArgs, "imp1p", root + "uciamo", true);
+          passThroughOrFillIn(namedArgs, "imp2p", root + "ucete", true);
+          passThroughOrFillIn(namedArgs, "imp3p", root + "ucano", true);
+
+          return dest.onWikiFunction(wikiTokenizer, name, args, namedArgs, parser, appendAndIndexWikiCallback);
+        }
+      }
+
+  static final Map<String,String> it_indicativePronouns = new LinkedHashMap<String, String>();
+  static {
+      it_indicativePronouns.put("1s", "io");
+      it_indicativePronouns.put("2s", "tu");
+      it_indicativePronouns.put("3s", "lui/lei");
+      it_indicativePronouns.put("1p", "noi");
+      it_indicativePronouns.put("2p", "voi");
+      it_indicativePronouns.put("3p", "essi/esse");
+  }
+
+  static final Map<String,String> it_subjunctivePronouns = new LinkedHashMap<String, String>();
+  static {
+      it_subjunctivePronouns.put("1s", "che io");
+      it_subjunctivePronouns.put("2s", "che tu");
+      it_subjunctivePronouns.put("3s", "che lui/lei");
+      it_subjunctivePronouns.put("1p", "che noi");
+      it_subjunctivePronouns.put("2p", "che voi");
+      it_subjunctivePronouns.put("3p", "che essi/esse");
+  }
+
+  static final Map<String,String> it_imperativePronouns = new LinkedHashMap<String, String>();
+  static {
+      it_imperativePronouns.put("1s", "-");
+      it_imperativePronouns.put("2s", "tu");
+      it_imperativePronouns.put("3s", "lui/lei");
+      it_imperativePronouns.put("1p", "noi");
+      it_imperativePronouns.put("2p", "voi");
+      it_imperativePronouns.put("3p", "essi/esse");
+  }
+
+
+  static final class it_conj<T extends AbstractWiktionaryParser> implements FunctionCallback<T> {
+      @Override
+      public boolean onWikiFunction(final WikiTokenizer wikiTokenizer, final String name, final List<String> args,
+          final Map<String, String> namedArgs,
+          final T parser,
+          final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
+        
+        final StringBuilder builder = appendAndIndexWikiCallback.builder;
+        
+        // TODO: center everything horizontally.
+        builder.append("<table style=\"background:#F0F0F0;border-collapse:separate;border-spacing:2px\">");
+        
+        builder.append("<tr>");
+        builder.append("<th colspan=\"1\" style=\"background:#e2e4c0\">infinitive</th>");
+        builder.append("<td colspan=\"1\">");
+        appendAndIndexWikiCallback.dispatch(MapUtil.safeRemove(namedArgs, "inf", "-"), null);
+        builder.append("</td>");
+        builder.append("</tr>\n");
+
+        builder.append("<tr>");
+        builder.append("<th colspan=\"1\" style=\"background:#e2e4c0\">auxiliary verb</th>");
+        builder.append("<td colspan=\"1\">");
+        appendAndIndexWikiCallback.dispatch(MapUtil.safeRemove(namedArgs, "aux", "-"), null);
+        builder.append("</td>");
+        builder.append("<th colspan=\"1\" style=\"background:#e2e4c0\">gerund</th>");
+        builder.append("<td colspan=\"1\">");
+        appendAndIndexWikiCallback.dispatch(MapUtil.safeRemove(namedArgs, "ger", "-"), null);
+        builder.append("</td>");
+        builder.append("</tr>\n");
+
+        builder.append("<tr>");
+        builder.append("<th colspan=\"1\" style=\"background:#e2e4c0\">present participle</th>");
+        builder.append("<td colspan=\"1\">");
+        appendAndIndexWikiCallback.dispatch(MapUtil.safeRemove(namedArgs, "presp", "-"), null);
+        builder.append("</td>");
+        builder.append("<th colspan=\"1\" style=\"background:#e2e4c0\">past participle</th>");
+        builder.append("<td colspan=\"1\">");
+        appendAndIndexWikiCallback.dispatch(MapUtil.safeRemove(namedArgs, "pastp", "-"), null);
+        builder.append("</td>");
+        builder.append("</tr>\n");
+
+        String style = " style=\"background:#c0cfe4\"";
+        outputDataRow(appendAndIndexWikiCallback, style, "indicative", style, "th", "", new LinkedHashMap<String, String>(it_indicativePronouns));
+        outputDataRow(appendAndIndexWikiCallback, style, "present", "", "td", "pres", namedArgs);
+        outputDataRow(appendAndIndexWikiCallback, style, "imperfect", "", "td", "imperf", namedArgs);
+        outputDataRow(appendAndIndexWikiCallback, style, "past historic", "", "td", "prem", namedArgs);
+        outputDataRow(appendAndIndexWikiCallback, style, "future", "", "td", "fut", namedArgs);
+
+        style = " style=\"background:#c0d8e4\"";
+        outputDataRow(appendAndIndexWikiCallback, style, "conditional", style, "th", "", new LinkedHashMap<String, String>(it_indicativePronouns));
+        outputDataRow(appendAndIndexWikiCallback, style, "present", "", "td", "cond", namedArgs);
+
+        style = " style=\"background:#c0e4c0\"";
+        outputDataRow(appendAndIndexWikiCallback, style, "subjuntive", style, "th", "", new LinkedHashMap<String, String>(it_subjunctivePronouns));
+        namedArgs.put("sub3s2", namedArgs.remove("sub3s"));
+        namedArgs.put("sub1s", namedArgs.get("sub123s"));
+        namedArgs.put("sub2s", namedArgs.get("sub123s"));
+        namedArgs.put("sub3s", namedArgs.remove("sub123s"));
+        namedArgs.put("sub1s2", namedArgs.get("sub123s2"));
+        namedArgs.put("sub2s2", namedArgs.get("sub123s2"));
+        namedArgs.put("sub3s2", namedArgs.remove("sub123s2"));
+        outputDataRow(appendAndIndexWikiCallback, style, "present", "", "td", "sub", namedArgs);
+        namedArgs.put("impsub1s", namedArgs.get("impsub12s"));
+        namedArgs.put("impsub2s", namedArgs.remove("impsub12s"));
+        namedArgs.put("impsub1s2", namedArgs.get("impsub12s2"));
+        namedArgs.put("impsub2s2", namedArgs.remove("impsub12s2"));
+        outputDataRow(appendAndIndexWikiCallback, style, "imperfect", "", "td", "impsub", namedArgs);
+
+        style = " style=\"background:#e4d4c0\"";
+        outputDataRow(appendAndIndexWikiCallback, style, "imperative", style, "th", "", new LinkedHashMap<String, String>(it_imperativePronouns));
+        outputDataRow(appendAndIndexWikiCallback, style, "", "", "td", "imp", namedArgs);
+
+        builder.append("</table>");
+        
+        if (!namedArgs.isEmpty()) {
+            System.err.println("NON-EMPTY namedArgs: " + namedArgs);
+            assert false;
+            return false;
+        }
+
+        return true;
+      }
+
+        private void outputDataRow(AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback,
+                String col1Style, String headerName, 
+                String col2Style, final String type2, 
+                String moodName, Map<String, String> namedArgs) {
+            final StringBuilder builder = appendAndIndexWikiCallback.builder;
+            builder.append("<tr>");
+            builder.append("<th colspan=\"1\"").append(col1Style).append(">").append(headerName).append("</th>");
+            for (final String number : it_number_s_p) {
+                for (final String person : it_person_1_2_3) {
+                    // Output <td> or <th>
+                    builder.append("<").append(type2).append("").append(col2Style).append(">");
+                    final String keyBase = String.format("%s%s%s", moodName, person, number);
+                    for (int suffix = 0; suffix <= 3; ++suffix) {
+                        final String key = suffix == 0 ? keyBase : keyBase + suffix;
+                        final String val = namedArgs.remove(key);
+                        if (val != null) {
+                            if (suffix > 0) {
+                                builder.append(", ");
+                            }
+                            appendAndIndexWikiCallback.dispatch(val, null);
+                        }
+                    }
+                    // Output <td> or <th>
+                    builder.append("</").append(type2).append(">");
+                }
+            }
+            builder.append("</tr>\n");
+        }
+    }
+}

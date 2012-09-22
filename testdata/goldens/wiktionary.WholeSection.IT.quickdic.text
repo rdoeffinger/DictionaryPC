@@ -12,7 +12,7 @@ HtmlEntry: 6 <<<
 ===A===
 HtmlEntry: A <<<
 <h3>Pronunciation</h3>
-<ul><li> (phoneme; name of letter) {{IPA|/a/}}</li>
+<ul><li> (phoneme; name of letter) IPA: /a/</li>
 <ul><li> {{homophones|a|ha}}</li>
 </ul>
 </ul>
@@ -39,7 +39,7 @@ From {{etyl|la|it}} {{term|ad|ad-|lang=la}}.
 <h4>Usage notes</h4>
 The Italian prefix <em>a-</em> often reduplicates the following consonant (<a href=":w:en:Syntactic gemination">syntactic gemination</a>, raddoppiamento fonosintattico).The actual forms usually will be {{term|ab-}} (in {{term|abbracciare}}), {{term|ad-}} (in {{term|addestrare}}), {{term|al-}} (in {{term|allargare}}) etc.
 <h3>Etymology 2</h3>
-Borrowed from {{etyl|grc|it}} {{term|ἀ-|tr=a-|lang=grc}}.
+Borrowed from {{etyl|grc|it}} {{term|&#x1f00;&#x2d;|tr=a-|lang=grc}}.
 <h4>Prefix</h4>
 {{head|it|prefix}}
 <ol><li> <a href="#English">a-</a> (indicating lack or loss)</li>
@@ -52,9 +52,9 @@ Borrowed from {{etyl|grc|it}} {{term|ἀ-|tr=a-|lang=grc}}.
 ===abaco===
 HtmlEntry: abaco <<<
 <h3>Etymology</h3>
-From {{etyl|la|it}} {{term|abacus|counting board|lang=la}}, from {{etyl|grc|it}} {{term|ἄβαξ|board|tr=abax|lang=grc|sc=polytonic}}.
+From {{etyl|la|it}} {{term|abacus|counting board|lang=la}}, from {{etyl|grc|it}} {{term|&#x1f04;&#x3b2;&#x3b1;&#x3be;|board|tr=abax|lang=grc|sc=polytonic}}.
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈabako/}}</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x61;&#x62;&#x61;&#x6b;&#x6f;&#x2f;</li>
 </ul>
 
 <h3>Noun</h3>
@@ -81,9 +81,9 @@ HtmlEntry: abalieno <<<
 ===abate===
 HtmlEntry: abate <<<
 <h3>Etymology</h3>
-From {{etyl|la|it}} {{term|abbas|abbās, abbātis|lang=la}}, from {{etyl|grc|it}} {{term|ἀββᾶς|tr=abbas|lang=grc|sc=polytonic}}, from {{etyl|arc|it}} {{term|אבא|father|lang=arc|tr=’abbā|sc=Hebr}}.
+From {{etyl|la|it}} {{term|abbas|&#x61;&#x62;&#x62;&#x101;&#x73;&#x2c;&#x20;&#x61;&#x62;&#x62;&#x101;&#x74;&#x69;&#x73;|lang=la}}, from {{etyl|grc|it}} {{term|&#x1f00;&#x3b2;&#x3b2;&#x1fb6;&#x3c2;|tr=abbas|lang=grc|sc=polytonic}}, from {{etyl|arc|it}} {{term|&#x5d0;&#x5d1;&#x5d0;|father|lang=arc|tr=&#x2019;&#x61;&#x62;&#x62;&#x101;|sc=Hebr}}.
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/a'bate/}}</li>
+<ul><li> IPA: /a'bate/</li>
 <li> {{audio|It-abate.ogg|audio}}</li>
 </ul>
 
@@ -349,7 +349,22 @@ HtmlEntry: accreditare <<<
 </ul>
 
 <h4>Conjugation</h4>
-{{it-conj-are|accredit|avere}}>>>
+<table style="background:#F0F0F0;border-collapse:separate;border-spacing:2px"><tr><th colspan="1" style="background:#e2e4c0">infinitive</th><td colspan="1">accreditare</td></tr>
+<tr><th colspan="1" style="background:#e2e4c0">auxiliary verb</th><td colspan="1">avere</td><th colspan="1" style="background:#e2e4c0">gerund</th><td colspan="1">accreditando</td></tr>
+<tr><th colspan="1" style="background:#e2e4c0">present participle</th><td colspan="1">accreditante</td><th colspan="1" style="background:#e2e4c0">past participle</th><td colspan="1">accreditato</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">indicative</th><th style="background:#c0cfe4">io</th><th style="background:#c0cfe4">tu</th><th style="background:#c0cfe4">lui/lei</th><th style="background:#c0cfe4">noi</th><th style="background:#c0cfe4">voi</th><th style="background:#c0cfe4">essi/esse</th></tr>
+<tr><th colspan="1" style="background:#c0cfe4">present</th><td>accredito</td><td>accrediti</td><td>accredita</td><td>accreditiamo</td><td>accreditate</td><td>accreditano</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">imperfect</th><td>accreditavo</td><td>accreditavi</td><td>accreditava</td><td>accreditavamo</td><td>accreditavate</td><td>accreditavano</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">past historic</th><td>accreditai</td><td>accreditasti</td><td>accredit&ograve;</td><td>accreditammo</td><td>accreditaste</td><td>accreditarono</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">future</th><td>accrediter&ograve;</td><td>accrediterai</td><td>accrediter&agrave;</td><td>accrediteremo</td><td>accrediterete</td><td>accrediteranno</td></tr>
+<tr><th colspan="1" style="background:#c0d8e4">conditional</th><th style="background:#c0d8e4">io</th><th style="background:#c0d8e4">tu</th><th style="background:#c0d8e4">lui/lei</th><th style="background:#c0d8e4">noi</th><th style="background:#c0d8e4">voi</th><th style="background:#c0d8e4">essi/esse</th></tr>
+<tr><th colspan="1" style="background:#c0d8e4">present</th><td>accrediterei</td><td>accrediteresti</td><td>accrediterebbe</td><td>accrediteremmo</td><td>accreditereste</td><td>accrediterebbero</td></tr>
+<tr><th colspan="1" style="background:#c0e4c0">subjuntive</th><th style="background:#c0e4c0">che io</th><th style="background:#c0e4c0">che tu</th><th style="background:#c0e4c0">che lui/lei</th><th style="background:#c0e4c0">che noi</th><th style="background:#c0e4c0">che voi</th><th style="background:#c0e4c0">che essi/esse</th></tr>
+<tr><th colspan="1" style="background:#c0e4c0">present</th><td>accrediti</td><td>accrediti</td><td>accrediti</td><td>accreditiamo</td><td>accreditiate</td><td>accreditino</td></tr>
+<tr><th colspan="1" style="background:#c0e4c0">imperfect</th><td>accreditassi</td><td>accreditassi</td><td>accreditasse</td><td>accreditassimo</td><td>accreditaste</td><td>accreditassero</td></tr>
+<tr><th colspan="1" style="background:#e4d4c0">imperative</th><th style="background:#e4d4c0">-</th><th style="background:#e4d4c0">tu</th><th style="background:#e4d4c0">lui/lei</th><th style="background:#e4d4c0">noi</th><th style="background:#e4d4c0">voi</th><th style="background:#e4d4c0">essi/esse</th></tr>
+<tr><th colspan="1" style="background:#e4d4c0"></th><td></td><td>accredita</td><td>accrediti</td><td>accreditiamo</td><td>accreditate</td><td>accreditino</td></tr>
+</table>>>>
 ===accresce===
 HtmlEntry: accresce <<<
 <h3>Verb</h3>
@@ -408,7 +423,22 @@ HtmlEntry: accusare <<<
 </ul>
 
 <h4>Conjugation</h4>
-{{it-conj-are|accus|avere}}>>>
+<table style="background:#F0F0F0;border-collapse:separate;border-spacing:2px"><tr><th colspan="1" style="background:#e2e4c0">infinitive</th><td colspan="1">accusare</td></tr>
+<tr><th colspan="1" style="background:#e2e4c0">auxiliary verb</th><td colspan="1">avere</td><th colspan="1" style="background:#e2e4c0">gerund</th><td colspan="1">accusando</td></tr>
+<tr><th colspan="1" style="background:#e2e4c0">present participle</th><td colspan="1">accusante</td><th colspan="1" style="background:#e2e4c0">past participle</th><td colspan="1">accusato</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">indicative</th><th style="background:#c0cfe4">io</th><th style="background:#c0cfe4">tu</th><th style="background:#c0cfe4">lui/lei</th><th style="background:#c0cfe4">noi</th><th style="background:#c0cfe4">voi</th><th style="background:#c0cfe4">essi/esse</th></tr>
+<tr><th colspan="1" style="background:#c0cfe4">present</th><td>accuso</td><td>accusi</td><td>accusa</td><td>accusiamo</td><td>accusate</td><td>accusano</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">imperfect</th><td>accusavo</td><td>accusavi</td><td>accusava</td><td>accusavamo</td><td>accusavate</td><td>accusavano</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">past historic</th><td>accusai</td><td>accusasti</td><td>accus&ograve;</td><td>accusammo</td><td>accusaste</td><td>accusarono</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">future</th><td>accuser&ograve;</td><td>accuserai</td><td>accuser&agrave;</td><td>accuseremo</td><td>accuserete</td><td>accuseranno</td></tr>
+<tr><th colspan="1" style="background:#c0d8e4">conditional</th><th style="background:#c0d8e4">io</th><th style="background:#c0d8e4">tu</th><th style="background:#c0d8e4">lui/lei</th><th style="background:#c0d8e4">noi</th><th style="background:#c0d8e4">voi</th><th style="background:#c0d8e4">essi/esse</th></tr>
+<tr><th colspan="1" style="background:#c0d8e4">present</th><td>accuserei</td><td>accuseresti</td><td>accuserebbe</td><td>accuseremmo</td><td>accusereste</td><td>accuserebbero</td></tr>
+<tr><th colspan="1" style="background:#c0e4c0">subjuntive</th><th style="background:#c0e4c0">che io</th><th style="background:#c0e4c0">che tu</th><th style="background:#c0e4c0">che lui/lei</th><th style="background:#c0e4c0">che noi</th><th style="background:#c0e4c0">che voi</th><th style="background:#c0e4c0">che essi/esse</th></tr>
+<tr><th colspan="1" style="background:#c0e4c0">present</th><td>accusi</td><td>accusi</td><td>accusi</td><td>accusiamo</td><td>accusiate</td><td>accusino</td></tr>
+<tr><th colspan="1" style="background:#c0e4c0">imperfect</th><td>accusassi</td><td>accusassi</td><td>accusasse</td><td>accusassimo</td><td>accusaste</td><td>accusassero</td></tr>
+<tr><th colspan="1" style="background:#e4d4c0">imperative</th><th style="background:#e4d4c0">-</th><th style="background:#e4d4c0">tu</th><th style="background:#e4d4c0">lui/lei</th><th style="background:#e4d4c0">noi</th><th style="background:#e4d4c0">voi</th><th style="background:#e4d4c0">essi/esse</th></tr>
+<tr><th colspan="1" style="background:#e4d4c0"></th><td></td><td>accusa</td><td>accusi</td><td>accusiamo</td><td>accusate</td><td>accusino</td></tr>
+</table>>>>
 ===accusato===
 HtmlEntry: accusato <<<
 <h3>Noun</h3>
@@ -459,7 +489,7 @@ HtmlEntry: acetose <<<
 ===acido===
 HtmlEntry: acido <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[ˈaː.tʃi.d̪o]|/ˈatʃido/}}, {{X-SAMPA|/&quot;atSido/}}</li>
+<ul><li> IPA: &#x5b;&#x2c8;&#x61;&#x2d0;&#x2e;&#x74;&#x283;&#x69;&#x2e;&#x64;&#x32a;&#x6f;&#x5d;, &#x2f;&#x2c8;&#x61;&#x74;&#x283;&#x69;&#x64;&#x6f;&#x2f;, {{X-SAMPA|/&quot;atSido/}}</li>
 <li> {{hyphenation|&agrave;|ci|do}}</li>
 </ul>
 
@@ -585,7 +615,7 @@ HtmlEntry: acido <<<
 ===acre===
 HtmlEntry: acre <<<
 <h3>Etymology</h3>
-From {{etyl|la|it}} {{term|acre|ācre|lang=la}}, neuter nominative singular of {{term|acer|ācer|sharp|lang=la}}.
+From {{etyl|la|it}} {{term|acre|&#x101;&#x63;&#x72;&#x65;|lang=la}}, neuter nominative singular of {{term|acer|&#x101;&#x63;&#x65;&#x72;|sharp|lang=la}}.
 <h3>Adjective</h3>
 {{it-adj|acr|e|i}}
 <ol><li> <a href="sharp">sharp</a>, <a href="sour">sour</a></li>
@@ -600,7 +630,7 @@ From {{etyl|la|it}} {{term|acre|ācre|lang=la}}, neuter nominative singular of {
 ===acute===
 HtmlEntry: acute <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/aˈkuːte/}}</li>
+<ul><li> IPA: &#x2f;&#x61;&#x2c8;&#x6b;&#x75;&#x2d0;&#x74;&#x65;&#x2f;</li>
 </ul>
 
 <h3>Adjective</h3>
@@ -663,7 +693,7 @@ HtmlEntry: Afghanistan <<<
 ===Africa===
 HtmlEntry: Africa <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈafrika/}}, {{X-SAMPA|/&quot;afrika/}}</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x61;&#x66;&#x72;&#x69;&#x6b;&#x61;&#x2f;, {{X-SAMPA|/&quot;afrika/}}</li>
 </ul>
 
 <h3>Proper noun</h3>
@@ -753,7 +783,7 @@ HtmlEntry: albero <<<right
 <h3>Etymology</h3>
 From {{etyl|la|it}} <em><a href="arbor">arbor</a></em>, <em>arboris</em>.
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[ˈalbero]}}</li>
+<ul><li> IPA: &#x5b;&#x2c8;&#x61;&#x6c;&#x62;&#x65;&#x72;&#x6f;&#x5d;</li>
 <li> {{audio|it-albero.ogg|Audio (IT)}}</li>
 </ul>
 
@@ -798,7 +828,7 @@ HtmlEntry: Alberta <<<
 ===alcuno===
 HtmlEntry: alcuno <<<
 <h3>Etymology</h3>
-From {{etyl|VL.|it}} *<em>alicūnum</em>, from Classical Latin {{term|aliquis|aliquem|lang=la}} + {{term|unum|lang=la}}.&lt;ref&gt;{{reference-book| last = Patota | first = Giuseppe | title = Lineamenti di grammatica storica dell'italiano | year = 2002 | publisher = il Mulino | location = Bologna | language = Italian | id = ISBN 88-15-08638-2 | pages = p. 140 | chapter = }}&lt;/ref&gt;Cognate with French {{term|aucun|lang=fr}}, Spanish {{term|alguno|lang=es}}, Galician {{term|alg&uacute;n|lang=gl}}, Portuguese {{term|algum|lang=pt}}.
+From {{etyl|VL.|it}} *<em>&#x61;&#x6c;&#x69;&#x63;&#x16b;&#x6e;&#x75;&#x6d;</em>, from Classical Latin {{term|aliquis|aliquem|lang=la}} + {{term|unum|lang=la}}.&lt;ref&gt;{{reference-book| last = Patota | first = Giuseppe | title = Lineamenti di grammatica storica dell'italiano | year = 2002 | publisher = il Mulino | location = Bologna | language = Italian | id = ISBN 88-15-08638-2 | pages = p. 140 | chapter = }}&lt;/ref&gt;Cognate with French {{term|aucun|lang=fr}}, Spanish {{term|alguno|lang=es}}, Galician {{term|alg&uacute;n|lang=gl}}, Portuguese {{term|algum|lang=pt}}.
 <h3>Adjective</h3>
 {{it-adj|alcun}}
 <ol><li> {{chiefly|in the plural}} <a href="some">some</a>, a <a href="few">few</a></li>
@@ -826,7 +856,7 @@ HtmlEntry: algebra <<<
 <h3>Etymology</h3>
 Same as English <em><a href="#English">algebra</a></em>.
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/al.ʤɛ.ˈbra/}}</li>
+<ul><li> IPA: &#x2f;&#x61;&#x6c;&#x2e;&#x2a4;&#x25b;&#x2e;&#x2c8;&#x62;&#x72;&#x61;&#x2f;</li>
 </ul>
 
 <h3>Noun</h3>
@@ -898,7 +928,7 @@ HtmlEntry: ami <<<
 ===Ancona===
 HtmlEntry: Ancona <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/aŋˈkona/}}</li>
+<ul><li> IPA: &#x2f;&#x61;&#x14b;&#x2c8;&#x6b;&#x6f;&#x6e;&#x61;&#x2f;</li>
 <li> {{audio|It-Ancona.ogg|Audio}}</li>
 <li> {{rhymes|na}}</li>
 </ul>
@@ -1068,7 +1098,7 @@ HtmlEntry: are <<<
 ===area===
 HtmlEntry: area <<<
 <h3>Etymology</h3>
-Borrowed from {{etyl|la|it}} {{term|area|ārea|lang=la}}. Cf. {{term|aia}}.
+Borrowed from {{etyl|la|it}} {{term|area|&#x101;&#x72;&#x65;&#x61;|lang=la}}. Cf. {{term|aia}}.
 <h3>Noun</h3>
 {{it-noun|are|f|a|e}}
 <ol><li> <a href="#English">area</a>, <a href="surface">surface</a></li>
@@ -1132,12 +1162,12 @@ HtmlEntry: argon <<<
 ===aria===
 HtmlEntry: aria <<<
 <h3>Etymology</h3>
-Metathesis from {{etyl|la|it}} {{term|aerem|lang=la}}, accusative of {{term|aer|āēr|lang=la}}, from {{etyl|grc|it}} {{term|ἀήρ|air|tr=aēr|sc=polytonic|lang=grc}}.
+Metathesis from {{etyl|la|it}} {{term|aerem|lang=la}}, accusative of {{term|aer|&#x101;&#x113;&#x72;|lang=la}}, from {{etyl|grc|it}} {{term|&#x1f00;&#x3ae;&#x3c1;|air|tr=&#x61;&#x113;&#x72;|sc=polytonic|lang=grc}}.
 <h3>Pronunciation</h3>
 <ul><li> {{audio|It-l'aria.ogg|Audio}}</li>
 <li> {{audio|It-aria.ogg|Audio}}</li>
 </ul>
-&agrave;ria, /ˈarja/, /&lt;tt&gt;&quot;arja&lt;/tt&gt;/
+&#xe0;&#x72;&#x69;&#x61;&#x2c;&#x20;&#x2f;&#x2c8;&#x61;&#x72;&#x6a;&#x61;&#x2f;&#x2c;&#x20;&#x2f;&#x3c;&#x74;&#x74;&#x3e;&#x22;&#x61;&#x72;&#x6a;&#x61;&#x3c;&#x2f;&#x74;&#x74;&#x3e;&#x2f;
 <h3>Noun</h3>
 {{it-noun|ari|f|a|e}}
 <ol><li> <a href="air">air</a></li>
@@ -1195,7 +1225,7 @@ HtmlEntry: Ascoli Piceno <<<
 ===Asia===
 HtmlEntry: Asia <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈazja/|[ˈaː.zi̯a]}}</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x61;&#x7a;&#x6a;&#x61;&#x2f;, &#x5b;&#x2c8;&#x61;&#x2d0;&#x2e;&#x7a;&#x69;&#x32f;&#x61;&#x5d;</li>
 </ul>
 
 <h3>Proper noun</h3>
@@ -1271,7 +1301,7 @@ HtmlEntry: Australia <<<
 ===Austria===
 HtmlEntry: Austria <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈaustrja/}}, {{X-SAMPA|/&quot;austrja/}}</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x61;&#x75;&#x73;&#x74;&#x72;&#x6a;&#x61;&#x2f;, {{X-SAMPA|/&quot;austrja/}}</li>
 </ul>
 
 <h3>Proper noun</h3>
@@ -1576,7 +1606,7 @@ HtmlEntry: ben <<<
 <h3>Adverb</h3>
 {it-adv}
 <ol><li> Short form of <b><a href="bene">bene</a></b>.</li>
-<ul><li> <b><em>ben</b> fatto</em> — well done</li>
+<ul><li> <b><em>ben</b> fatto</em>&#x20;&#x2014;&#x20;&#x77;&#x65;&#x6c;&#x6c;&#x20;&#x64;&#x6f;&#x6e;&#x65;</li>
 </ul>
 </ol>
 ---->>>
@@ -1657,8 +1687,8 @@ HtmlEntry: Bhutan <<<
 ===bici===
 HtmlEntry: bici <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈbitʃi/}}, {{X-SAMPA|/&quot;bitSi/}}</li>
-<ul><li> {{rhymes|itʃi}}</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x62;&#x69;&#x74;&#x283;&#x69;&#x2f;, {{X-SAMPA|/&quot;bitSi/}}</li>
+<ul><li> {{rhymes|&#x69;&#x74;&#x283;&#x69;}}</li>
 </ul>
 </ul>
 
@@ -1719,8 +1749,8 @@ HtmlEntry: bo <<<
 <h3>Interjection</h3>
 <b>bo</b>
 <ol><li> An interjection expressing doubt or indecision.</li>
-<ul><li> <em>Viene Filomena stasera? <b>Bo</b>, non m’ha richiamato.</em></li>
-<ul><li> Is Filomena coming tonight? I don’t know, she never called me back.</li>
+<ul><li> <em>Viene Filomena stasera? <b>Bo</b>&#x2c;&#x20;&#x6e;&#x6f;&#x6e;&#x20;&#x6d;&#x2019;&#x68;&#x61;&#x20;&#x72;&#x69;&#x63;&#x68;&#x69;&#x61;&#x6d;&#x61;&#x74;&#x6f;&#x2e;</em></li>
+<ul><li>&#x20;&#x49;&#x73;&#x20;&#x46;&#x69;&#x6c;&#x6f;&#x6d;&#x65;&#x6e;&#x61;&#x20;&#x63;&#x6f;&#x6d;&#x69;&#x6e;&#x67;&#x20;&#x74;&#x6f;&#x6e;&#x69;&#x67;&#x68;&#x74;&#x3f;&#x20;&#x49;&#x20;&#x64;&#x6f;&#x6e;&#x2019;&#x74;&#x20;&#x6b;&#x6e;&#x6f;&#x77;&#x2c;&#x20;&#x73;&#x68;&#x65;&#x20;&#x6e;&#x65;&#x76;&#x65;&#x72;&#x20;&#x63;&#x61;&#x6c;&#x6c;&#x65;&#x64;&#x20;&#x6d;&#x65;&#x20;&#x62;&#x61;&#x63;&#x6b;&#x2e;</li>
 </ul>
 </ul>
 </ol>
@@ -1746,7 +1776,7 @@ HtmlEntry: Bolivia <<<
 ===Bologna===
 HtmlEntry: Bologna <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/boˈloɲɲa/}}</li>
+<ul><li> IPA: &#x2f;&#x62;&#x6f;&#x2c8;&#x6c;&#x6f;&#x272;&#x272;&#x61;&#x2f;</li>
 <li> {{audio|It-Bologna.ogg|Audio}}</li>
 </ul>
 
@@ -1915,7 +1945,7 @@ HtmlEntry: Budapest <<<
 ===Bulgaria===
 HtmlEntry: Bulgaria <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/bulɡaˈri.a/}}, {{X-SAMPA|/bulga&quot;ri.a/}}</li>
+<ul><li> IPA: &#x2f;&#x62;&#x75;&#x6c;&#x261;&#x61;&#x2c8;&#x72;&#x69;&#x2e;&#x61;&#x2f;, {{X-SAMPA|/bulga&quot;ri.a/}}</li>
 </ul>
 
 <h3>Proper noun</h3>
@@ -1941,9 +1971,9 @@ HtmlEntry: Burkina Faso <<<
 ===burro===
 HtmlEntry: burro <<<
 <h3>Etymology</h3>
-From {{etyl|la|it}} <em><a href="butyrum">butyrum</a></em> &lt; {{etyl|grc|it}} {{term|βούτυρον|βούτῡρον|lang=grc}}.
+From {{etyl|la|it}} <em><a href="butyrum">butyrum</a></em> &lt; {{etyl|grc|it}} {{term|&#x3b2;&#x3bf;&#x3cd;&#x3c4;&#x3c5;&#x3c1;&#x3bf;&#x3bd;|&#x3b2;&#x3bf;&#x3cd;&#x3c4;&#x1fe1;&#x3c1;&#x3bf;&#x3bd;|lang=grc}}.
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[ˈbur.ro]|/ˈburro/}}, {{X-SAMPA|/&quot;burro/}}</li>
+<ul><li> IPA: &#x5b;&#x2c8;&#x62;&#x75;&#x72;&#x2e;&#x72;&#x6f;&#x5d;, &#x2f;&#x2c8;&#x62;&#x75;&#x72;&#x72;&#x6f;&#x2f;, {{X-SAMPA|/&quot;burro/}}</li>
 <li> {{audio|It-il burro.ogg|Audio}}</li>
 <li> {{hyphenation|b&ugrave;r|ro}}</li>
 </ul>
@@ -1975,7 +2005,7 @@ HtmlEntry: business <<<
 <h3>Etymology</h3>
 From {{etyl|en|it}} {{term|business|lang=en}}.
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈbiznis/}}</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x62;&#x69;&#x7a;&#x6e;&#x69;&#x73;&#x2f;</li>
 </ul>
 
 <h3>Noun</h3>
@@ -2097,7 +2127,7 @@ From {{etyl|la|it}} {{term|camera|lang=la}}.
 ===Campania===
 HtmlEntry: Campania <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[kamˈpaː.nja]|/kamˈpanja/}}, {{X-SAMPA|/kam&quot;panja/}}</li>
+<ul><li> IPA: &#x5b;&#x6b;&#x61;&#x6d;&#x2c8;&#x70;&#x61;&#x2d0;&#x2e;&#x6e;&#x6a;&#x61;&#x5d;, &#x2f;&#x6b;&#x61;&#x6d;&#x2c8;&#x70;&#x61;&#x6e;&#x6a;&#x61;&#x2f;, {{X-SAMPA|/kam&quot;panja/}}</li>
 <li> {{hyphenation|Cam|p&agrave;|nia}}</li>
 </ul>
 
@@ -2166,7 +2196,7 @@ HtmlEntry: cane <<<right
 <h3>Etymology</h3>
 From the {{etyl|la|it}} {{term|canis|lang=la}}
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈkane/}}</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x6b;&#x61;&#x6e;&#x65;&#x2f;</li>
 <li> {{audio|It-cane.ogg|Audio}}</li>
 </ul>
 
@@ -2244,7 +2274,7 @@ HtmlEntry: card <<<
 <h3>Etymology</h3>
 From {{etyl|en|it}}.
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[kard̪]}}, {{X-SAMPA|[kard]}}</li>
+<ul><li> IPA: &#x5b;&#x6b;&#x61;&#x72;&#x64;&#x32a;&#x5d;, {{X-SAMPA|[kard]}}</li>
 </ul>
 
 <h3>Noun</h3>
@@ -2273,7 +2303,7 @@ HtmlEntry: care <<<
 ===carne===
 HtmlEntry: carne <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[ˈkarne]}}</li>
+<ul><li> IPA: &#x5b;&#x2c8;&#x6b;&#x61;&#x72;&#x6e;&#x65;&#x5d;</li>
 <li> {{audio|It-la carne.ogg|Audio}}</li>
 </ul>
 
@@ -2289,7 +2319,7 @@ HtmlEntry: casa <<<rightright
 <h3>Etymology</h3>
 From {{etyl|la|it}} {{term|casa|house|sc=polytonic|lang=la}}.
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈkaza/}}</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x6b;&#x61;&#x7a;&#x61;&#x2f;</li>
 <li> {{audio|It-casa.ogg|audio}}</li>
 </ul>
 
@@ -2299,7 +2329,7 @@ From {{etyl|la|it}} {{term|casa|house|sc=polytonic|lang=la}}.
 <li> <a href="home">home</a></li>
 <li> <a href="shop">shop</a></li>
 <li> {{context|boardgame}} <a href="square">square</a></li>
-<li> <a href="family">Family</a>, <a href="dynasty">dynasty</a>, <a href="descent">descent</a>, <a href="extraction">extraction</a>, <a href="stock">stock</a>, <a href="lineage">lineage</a>, <a href="birth">birth</a>, <a href="origin">origin</a>, <a href="race">race</a> (not human “race”, but meaning the preceding words).</li>
+<li> <a href="family">Family</a>, <a href="dynasty">dynasty</a>, <a href="descent">descent</a>, <a href="extraction">extraction</a>, <a href="stock">stock</a>, <a href="lineage">lineage</a>, <a href="birth">birth</a>, <a href="origin">origin</a>, <a href="race">race</a>&#x20;&#x28;&#x6e;&#x6f;&#x74;&#x20;&#x68;&#x75;&#x6d;&#x61;&#x6e;&#x20;&#x201c;&#x72;&#x61;&#x63;&#x65;&#x201d;&#x2c;&#x20;&#x62;&#x75;&#x74;&#x20;&#x6d;&#x65;&#x61;&#x6e;&#x69;&#x6e;&#x67;&#x20;&#x74;&#x68;&#x65;&#x20;&#x70;&#x72;&#x65;&#x63;&#x65;&#x64;&#x69;&#x6e;&#x67;&#x20;&#x77;&#x6f;&#x72;&#x64;&#x73;&#x29;&#x2e;</li>
 <li> <a href="company">Company</a>, <a href="firm">firm</a>.</li>
 </ol>
 
@@ -2470,7 +2500,7 @@ HtmlEntry: chat <<<
 <h3>Etymology 1</h3>
 From {{etyl|en|it}}.
 <h4>Pronunciation</h4>
-<ul><li> {{IPA|/tʃɛt/|/tʃat/}}, {{X-SAMPA|/tSEt/|/tSat/}}</li>
+<ul><li> IPA: &#x2f;&#x74;&#x283;&#x25b;&#x74;&#x2f;, &#x2f;&#x74;&#x283;&#x61;&#x74;&#x2f;, {{X-SAMPA|/tSEt/|/tSat/}}</li>
 </ul>
 
 <h4>Noun</h4>
@@ -2489,7 +2519,7 @@ From {{etyl|en|it}}.
 <h3>Etymology 2</h3>
 From {{etyl|so|it}}.
 <h4>Pronunciation</h4>
-<ul><li> {{IPA|/kat/}}, {{X-SAMPA|/kat/}}</li>
+<ul><li> IPA: /kat/, {{X-SAMPA|/kat/}}</li>
 </ul>
 
 <h4>Noun</h4>
@@ -2506,7 +2536,7 @@ HtmlEntry: chi <<<
 <h3>Etymology 1</h3>
 From {{etyl|la|it}} <em><a href="quis">quis</a></em>.
 <h4>Pronunciation</h4>
-<ul><li> {{IPA|[ki]}}</li>
+<ul><li> IPA: [ki]</li>
 <li> {{audio|It-chi.ogg|Audio}}</li>
 </ul>
 
@@ -2556,7 +2586,7 @@ HtmlEntry: ci <<<
 <h3>Etymology</h3>
 &lt;small&gt;For the pronoun&lt;/small&gt;&lt;br&gt;From {{etyl|la|it}} {{term|ecce|look|lang=la}} + {{term|hic|here|lang=la}}&lt;small&gt;For the adverb&lt;/small&gt;&lt;br&gt;{{etyl|la|it}} {{term|ecce|look|lang=la}} + {{term|ibi|there|lang=la}}
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/tʃi/}}, {{X-SAMPA|/tSi/}}</li>
+<ul><li> IPA: &#x2f;&#x74;&#x283;&#x69;&#x2f;, {{X-SAMPA|/tSi/}}</li>
 <li> {{homophones|C}} (name of letter)</li>
 </ul>
 
@@ -2592,8 +2622,8 @@ HtmlEntry: ci <<<
 ===cicisbeo===
 HtmlEntry: cicisbeo <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/tʃi.tʃi.ˈzbɛ.o/}}, {{X-SAMPA|/tSi.tSi.&quot;zbE.o/}}</li>
-<li> {{rhymes|ɛo}}</li>
+<ul><li> IPA: &#x2f;&#x74;&#x283;&#x69;&#x2e;&#x74;&#x283;&#x69;&#x2e;&#x2c8;&#x7a;&#x62;&#x25b;&#x2e;&#x6f;&#x2f;, {{X-SAMPA|/tSi.tSi.&quot;zbE.o/}}</li>
+<li> {{rhymes|&#x25b;&#x6f;}}</li>
 <li> {{hyphenation|ci|ci|sb&egrave;|o}}</li>
 </ul>
 
@@ -2605,7 +2635,7 @@ HtmlEntry: cicisbeo <<<
 ===cinque===
 HtmlEntry: cinque <<<{{cardinalbox|it|4|5|6|quattro|sei|ord=quinto|mult=quintuplo}}
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[ˈtʃinkwe]}}</li>
+<ul><li> IPA: &#x5b;&#x2c8;&#x74;&#x283;&#x69;&#x6e;&#x6b;&#x77;&#x65;&#x5d;</li>
 </ul>
 
 <h3>Etymology</h3>
@@ -2651,7 +2681,7 @@ From Vulgar {{etyl|la|it}} <em><a href="cinque">cinque</a></em>, <a href="dissim
 ===cioccolata===
 HtmlEntry: cioccolata <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/tʃok.koˈlaː.ta/}}, {{X-SAMPA|/tSokko&quot;lata/}}</li>
+<ul><li> IPA: &#x2f;&#x74;&#x283;&#x6f;&#x6b;&#x2e;&#x6b;&#x6f;&#x2c8;&#x6c;&#x61;&#x2d0;&#x2e;&#x74;&#x61;&#x2f;, {{X-SAMPA|/tSokko&quot;lata/}}</li>
 </ul>
 
 <h3>Noun</h3>
@@ -2735,7 +2765,7 @@ HtmlEntry: coke <<<
 ===cola===
 HtmlEntry: cola <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈkoː.la/}}, {{X-SAMPA|/&quot;ko:.la/}}</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x6b;&#x6f;&#x2d0;&#x2e;&#x6c;&#x61;&#x2f;, {{X-SAMPA|/&quot;ko:.la/}}</li>
 </ul>
 
 <h3>Verb</h3>
@@ -2787,7 +2817,7 @@ HtmlEntry: colore <<<{{picdic| image=Color circle (hue-sat).png| width=310| labe
 From {{etyl|la|it}} {{term|color|color, coloris|lang=la}}.
 <h3>Pronunciation</h3>
 <ul><li> col&oacute;re</li>
-<li> {{IPA|/koˈlore/}}</li>
+<li> IPA: &#x2f;&#x6b;&#x6f;&#x2c8;&#x6c;&#x6f;&#x72;&#x65;&#x2f;</li>
 </ul>
 
 <h3>Noun</h3>
@@ -2810,7 +2840,7 @@ From {{etyl|la|it}} {{term|color|color, coloris|lang=la}}.
 ===come===
 HtmlEntry: come <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[ˈkome]}}</li>
+<ul><li> IPA: &#x5b;&#x2c8;&#x6b;&#x6f;&#x6d;&#x65;&#x5d;</li>
 <li> {{audio|It-come.ogg|Audio}}</li>
 </ul>
 
@@ -2894,7 +2924,7 @@ HtmlEntry: computer <<<
 <h3>Etymology</h3>
 {{etyl|en|it}}
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/komˈpjuter/}}, {{X-SAMPA|/kom&quot;pjuter/}}</li>
+<ul><li> IPA: &#x2f;&#x6b;&#x6f;&#x6d;&#x2c8;&#x70;&#x6a;&#x75;&#x74;&#x65;&#x72;&#x2f;, {{X-SAMPA|/kom&quot;pjuter/}}</li>
 <li> {{audio|It-un computer.ogg|Audio}}</li>
 <li> {{hyphenation|com|p&ugrave;|ter}}</li>
 </ul>
@@ -2909,7 +2939,7 @@ HtmlEntry: con <<<
 <h3>Etymology</h3>
 From {{etyl|la|it}} {{term|cum|lang=la}}, (&quot;with&quot;).
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/kon/}}, {{X-SAMPA|/kon/}}</li>
+<ul><li> IPA: /kon/, {{X-SAMPA|/kon/}}</li>
 </ul>
 
 <h3>Preposition</h3>
@@ -3202,9 +3232,9 @@ HtmlEntry: dame <<<
 ===dare===
 HtmlEntry: dare <<<
 <h3>Etymology</h3>
-From {{etyl|la|it}} {{term|dare|lang=la}}, present active infinitive of {{term|do|dō|lang=la}}.
+From {{etyl|la|it}} {{term|dare|lang=la}}, present active infinitive of {{term|do|&#x64;&#x14d;|lang=la}}.
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[ˈdare]}}</li>
+<ul><li> IPA: &#x5b;&#x2c8;&#x64;&#x61;&#x72;&#x65;&#x5d;</li>
 <li> {{audio|It-dare.ogg|Audio}}</li>
 </ul>
 
@@ -3215,17 +3245,32 @@ From {{etyl|la|it}} {{term|dare|lang=la}}, present active infinitive of {{term|d
 </ol>
 
 <h4>Conjugation</h4>
-{{it-conj-are|d|avere|pres2s=dai|pres3s=d&agrave;|pres3p=danno|prem1s=diedi|prem1s2=detti|prem2s=desti|prem3s=diede|prem3s2=dette|prem1p=demmo|prem2p=deste|prem3p=diedero|prem3p2=dettero|fut1s=dar&ograve;|fut2s=darai|fut3s=dar&agrave;|fut1p=daremo|fut2p=darete|fut3p=daranno|cond1s=darei|cond2s=daresti|cond3s=darebbe|cond1p=daremmo|cond2p=dareste|cond3p=darebbero|sub123s=dia|sub3p=diano|impsub12s=dessi|impsub3s=desse|impsub1p=dessimo|impsub2p=deste|impsub3p=dessero|imp2s=d&agrave;|imp2s2=dai|imp2s3=da'|imp3s=dia|imp3p=diano}}
+<table style="background:#F0F0F0;border-collapse:separate;border-spacing:2px"><tr><th colspan="1" style="background:#e2e4c0">infinitive</th><td colspan="1">dare</td></tr>
+<tr><th colspan="1" style="background:#e2e4c0">auxiliary verb</th><td colspan="1">avere</td><th colspan="1" style="background:#e2e4c0">gerund</th><td colspan="1">dando</td></tr>
+<tr><th colspan="1" style="background:#e2e4c0">present participle</th><td colspan="1">dante</td><th colspan="1" style="background:#e2e4c0">past participle</th><td colspan="1">dato</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">indicative</th><th style="background:#c0cfe4">io</th><th style="background:#c0cfe4">tu</th><th style="background:#c0cfe4">lui/lei</th><th style="background:#c0cfe4">noi</th><th style="background:#c0cfe4">voi</th><th style="background:#c0cfe4">essi/esse</th></tr>
+<tr><th colspan="1" style="background:#c0cfe4">present</th><td>do</td><td>dai</td><td>d&agrave;</td><td>diamo</td><td>date</td><td>danno</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">imperfect</th><td>davo</td><td>davi</td><td>dava</td><td>davamo</td><td>davate</td><td>davano</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">past historic</th><td>diedi, detti</td><td>desti</td><td>diede, dette</td><td>demmo</td><td>deste</td><td>diedero, dettero</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">future</th><td>dar&ograve;</td><td>darai</td><td>dar&agrave;</td><td>daremo</td><td>darete</td><td>daranno</td></tr>
+<tr><th colspan="1" style="background:#c0d8e4">conditional</th><th style="background:#c0d8e4">io</th><th style="background:#c0d8e4">tu</th><th style="background:#c0d8e4">lui/lei</th><th style="background:#c0d8e4">noi</th><th style="background:#c0d8e4">voi</th><th style="background:#c0d8e4">essi/esse</th></tr>
+<tr><th colspan="1" style="background:#c0d8e4">present</th><td>darei</td><td>daresti</td><td>darebbe</td><td>daremmo</td><td>dareste</td><td>darebbero</td></tr>
+<tr><th colspan="1" style="background:#c0e4c0">subjuntive</th><th style="background:#c0e4c0">che io</th><th style="background:#c0e4c0">che tu</th><th style="background:#c0e4c0">che lui/lei</th><th style="background:#c0e4c0">che noi</th><th style="background:#c0e4c0">che voi</th><th style="background:#c0e4c0">che essi/esse</th></tr>
+<tr><th colspan="1" style="background:#c0e4c0">present</th><td>dia</td><td>dia</td><td>dia</td><td>diamo</td><td>diate</td><td>diano</td></tr>
+<tr><th colspan="1" style="background:#c0e4c0">imperfect</th><td>dessi</td><td>dessi</td><td>desse</td><td>dessimo</td><td>deste</td><td>dessero</td></tr>
+<tr><th colspan="1" style="background:#e4d4c0">imperative</th><th style="background:#e4d4c0">-</th><th style="background:#e4d4c0">tu</th><th style="background:#e4d4c0">lui/lei</th><th style="background:#e4d4c0">noi</th><th style="background:#e4d4c0">voi</th><th style="background:#e4d4c0">essi/esse</th></tr>
+<tr><th colspan="1" style="background:#e4d4c0"></th><td></td><td>d&agrave;, dai, da'</td><td>dia</td><td>diamo</td><td>date</td><td>diano</td></tr>
+</table>
 <h4>Usage notes</h4>
 The imperative forms of the second-person singular are compounded with pronouns as follows:
-<ul><li> {{l|it|da'}} + {{l|it|ci}} → {{l|it|dacci}}</li>
-<li> {{l|it|da'}} + {{l|it|gli}} → {{l|it|dagli}}</li>
-<li> {{l|it|da'}} + {{l|it|gli}} + {{l|it|la}} → {{l|it|dagliela}}</li>
-<li> {{l|it|da'}} + {{l|it|gli}} + {{l|it|le}} → {{l|it|dagliele}}</li>
-<li> {{l|it|da'}} + {{l|it|gli}} + {{l|it|li}} → {{l|it|daglieli}}</li>
-<li> {{l|it|da'}} + {{l|it|gli}} + {{l|it|lo}} → {{l|it|daglielo}}</li>
-<li> {{l|it|da'}} + {{l|it|le}} → {{l|it|dalle}}</li>
-<li> {{l|it|da'}} + {{l|it|mi}} → {{l|it|dammi}}</li>
+<ul><li> {{l|it|da'}} + {{l|it|ci}}&#x20;&#x2192;&#x20;{{l|it|dacci}}</li>
+<li> {{l|it|da'}} + {{l|it|gli}}&#x20;&#x2192;&#x20;{{l|it|dagli}}</li>
+<li> {{l|it|da'}} + {{l|it|gli}} + {{l|it|la}}&#x20;&#x2192;&#x20;{{l|it|dagliela}}</li>
+<li> {{l|it|da'}} + {{l|it|gli}} + {{l|it|le}}&#x20;&#x2192;&#x20;{{l|it|dagliele}}</li>
+<li> {{l|it|da'}} + {{l|it|gli}} + {{l|it|li}}&#x20;&#x2192;&#x20;{{l|it|daglieli}}</li>
+<li> {{l|it|da'}} + {{l|it|gli}} + {{l|it|lo}}&#x20;&#x2192;&#x20;{{l|it|daglielo}}</li>
+<li> {{l|it|da'}} + {{l|it|le}}&#x20;&#x2192;&#x20;{{l|it|dalle}}</li>
+<li> {{l|it|da'}} + {{l|it|mi}}&#x20;&#x2192;&#x20;{{l|it|dammi}}</li>
 </ul>
 
 <h4>Derived terms</h4>
@@ -3497,7 +3542,7 @@ HtmlEntry: dieci <<<{{cardinalbox|it|9|10|11|nove|undici|ord=decimo|mult=decuplo
 <h3>Etymology</h3>
 From {{etyl|la|it}} {{term|decem|lang=la}}.
 <h3>Pronunciation</h3>
-di&egrave;ci, /ˈdjɛtʃi/, /&lt;tt&gt;&quot;djEtSi&lt;/tt&gt;/
+&#x64;&#x69;&#xe8;&#x63;&#x69;&#x2c;&#x20;&#x2f;&#x2c8;&#x64;&#x6a;&#x25b;&#x74;&#x283;&#x69;&#x2f;&#x2c;&#x20;&#x2f;&#x3c;&#x74;&#x74;&#x3e;&#x22;&#x64;&#x6a;&#x45;&#x74;&#x53;&#x69;&#x3c;&#x2f;&#x74;&#x74;&#x3e;&#x2f;
 <h3>Adjective</h3>
 {{head|it|adjective|g=m|g2=f}} {inv}
 <ol><li> <a href="ten">ten</a></li>
@@ -3628,7 +3673,7 @@ HtmlEntry: dodici <<<{{cardinalbox|it|11|12|13|undici|tredici|ord=dodicesimo}}
 <h3>Etymology</h3>
 From {{etyl|la|it}} {{term|duodecim|lang=la}}.
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈdoditʃi/|[ˈd̪oː.d̪i.t͡ʃi]}}, {{X-SAMPA|/&quot;doditSi/}}</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x64;&#x6f;&#x64;&#x69;&#x74;&#x283;&#x69;&#x2f;, &#x5b;&#x2c8;&#x64;&#x32a;&#x6f;&#x2d0;&#x2e;&#x64;&#x32a;&#x69;&#x2e;&#x74;&#x361;&#x283;&#x69;&#x5d;, {{X-SAMPA|/&quot;doditSi/}}</li>
 <li> {{hyphenation|d&oacute;|di|ci}}</li>
 </ul>
 
@@ -3672,7 +3717,7 @@ HtmlEntry: dove <<<
 <h3>Etymology</h3>
 From Italian {{term|de}} + {{term|ove}}.&lt;ref&gt;Angelo Prati, &quot;Vocabolario Etimologico Italiano&quot;, Torino, 1951; headword <em>ove</em>&lt;/ref&gt;
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[ˈdove]}}</li>
+<ul><li> IPA: &#x5b;&#x2c8;&#x64;&#x6f;&#x76;&#x65;&#x5d;</li>
 <li> {{audio|It-dove.ogg|Audio}}</li>
 </ul>
 
@@ -3713,7 +3758,7 @@ From {{etyl|en|it}}
 ===due===
 HtmlEntry: due <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[ˈdue]}}</li>
+<ul><li> IPA: &#x5b;&#x2c8;&#x64;&#x75;&#x65;&#x5d;</li>
 </ul>
 
 <h3>Etymology</h3>
@@ -3761,7 +3806,7 @@ From {{etyl|la|it}} {{term|et|lang=la}}.&lt;ref&gt;Angelo Prati, &quot;Vocabolar
 </ul>
 
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[e]}}</li>
+<ul><li> IPA: [e]</li>
 </ul>
 
 <h3>Conjunction</h3>
@@ -3811,7 +3856,7 @@ HtmlEntry: else <<<
 ===Emilia-Romagna===
 HtmlEntry: Emilia-Romagna <<<
 <h3>Pronunciation</h3>
-<ul><li> Em&igrave;lia-Romagna, {{IPA|/eˈmilja roˈmaɲɲa/}}, {{X-SAMPA|/e&quot;milja ro&quot;maJJa/}}</li>
+<ul><li> Em&igrave;lia-Romagna, IPA: &#x2f;&#x65;&#x2c8;&#x6d;&#x69;&#x6c;&#x6a;&#x61;&#x20;&#x72;&#x6f;&#x2c8;&#x6d;&#x61;&#x272;&#x272;&#x61;&#x2f;, {{X-SAMPA|/e&quot;milja ro&quot;maJJa/}}</li>
 </ul>
 
 <h3>Proper noun</h3>
@@ -3831,7 +3876,7 @@ HtmlEntry: emoticon <<<
 ===empire===
 HtmlEntry: empire <<<
 <h3>Etymology</h3>
-From {{etyl|la|it}} <em><a href="implere">implēre</a></em>, present active infinitive of <em><a href="impleo">impleō</a></em>.
+From {{etyl|la|it}} <em><a href="implere">&#x69;&#x6d;&#x70;&#x6c;&#x113;&#x72;&#x65;</a></em>, present active infinitive of <em><a href="impleo">&#x69;&#x6d;&#x70;&#x6c;&#x65;&#x14d;</a></em>.
 <h3>Verb</h3>
 {it-verb} {transitive}
 <ol><li> {obsolete} to <a href="fill">fill</a>, to <a href="overflow">overflow</a></li>
@@ -3846,7 +3891,22 @@ From {{etyl|la|it}} <em><a href="implere">implēre</a></em>, present active infi
 </ul>
 
 <h4>Conjugation</h4>
-{{it-conj-ire|emp|avere|ger=empiendo|presp=empiendo|pres1s=empio|pres3s=empie|pres3p=empiono|prem1s2=empiei|prem2s2=empiesti|prem3s2=empi&eacute;|prem1p2=empiemmo|prem2p2=empieste|prem3p2=empierono|sub123s=empia|sub3p=empiano|imp3s=empia|imp3p=empiano}}>>>
+<table style="background:#F0F0F0;border-collapse:separate;border-spacing:2px"><tr><th colspan="1" style="background:#e2e4c0">infinitive</th><td colspan="1">empire</td></tr>
+<tr><th colspan="1" style="background:#e2e4c0">auxiliary verb</th><td colspan="1">avere</td><th colspan="1" style="background:#e2e4c0">gerund</th><td colspan="1">empiendo</td></tr>
+<tr><th colspan="1" style="background:#e2e4c0">present participle</th><td colspan="1">empiendo</td><th colspan="1" style="background:#e2e4c0">past participle</th><td colspan="1">empito</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">indicative</th><th style="background:#c0cfe4">io</th><th style="background:#c0cfe4">tu</th><th style="background:#c0cfe4">lui/lei</th><th style="background:#c0cfe4">noi</th><th style="background:#c0cfe4">voi</th><th style="background:#c0cfe4">essi/esse</th></tr>
+<tr><th colspan="1" style="background:#c0cfe4">present</th><td>empio</td><td>empi</td><td>empie</td><td>empiamo</td><td>empite</td><td>empiono</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">imperfect</th><td>empivo</td><td>empivi</td><td>empiva</td><td>empivamo</td><td>empivate</td><td>empivano</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">past historic</th><td>empii, empiei</td><td>empisti, empiesti</td><td>emp&igrave;, empi&eacute;</td><td>empimmo, empiemmo</td><td>empiste, empieste</td><td>empirono, empierono</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">future</th><td>empir&ograve;</td><td>empirai</td><td>empir&agrave;</td><td>empiremo</td><td>empirete</td><td>empiranno</td></tr>
+<tr><th colspan="1" style="background:#c0d8e4">conditional</th><th style="background:#c0d8e4">io</th><th style="background:#c0d8e4">tu</th><th style="background:#c0d8e4">lui/lei</th><th style="background:#c0d8e4">noi</th><th style="background:#c0d8e4">voi</th><th style="background:#c0d8e4">essi/esse</th></tr>
+<tr><th colspan="1" style="background:#c0d8e4">present</th><td>empirei</td><td>empiresti</td><td>empirebbe</td><td>empiremmo</td><td>empireste</td><td>empirebbero</td></tr>
+<tr><th colspan="1" style="background:#c0e4c0">subjuntive</th><th style="background:#c0e4c0">che io</th><th style="background:#c0e4c0">che tu</th><th style="background:#c0e4c0">che lui/lei</th><th style="background:#c0e4c0">che noi</th><th style="background:#c0e4c0">che voi</th><th style="background:#c0e4c0">che essi/esse</th></tr>
+<tr><th colspan="1" style="background:#c0e4c0">present</th><td>empia</td><td>empia</td><td>empia</td><td>empiamo</td><td>empiate</td><td>empiano</td></tr>
+<tr><th colspan="1" style="background:#c0e4c0">imperfect</th><td>empissi</td><td>empissi</td><td>empisse</td><td>empissimo</td><td>empiste</td><td>empissero</td></tr>
+<tr><th colspan="1" style="background:#e4d4c0">imperative</th><th style="background:#e4d4c0">-</th><th style="background:#e4d4c0">tu</th><th style="background:#e4d4c0">lui/lei</th><th style="background:#e4d4c0">noi</th><th style="background:#e4d4c0">voi</th><th style="background:#e4d4c0">essi/esse</th></tr>
+<tr><th colspan="1" style="background:#e4d4c0"></th><td></td><td>empi</td><td>empia</td><td>empiamo</td><td>empite</td><td>empiano</td></tr>
+</table>>>>
 ===emulate===
 HtmlEntry: emulate <<<
 <h3>Verb</h3>
@@ -3943,7 +4003,7 @@ HtmlEntry: essere <<<
 <h3>Etymology</h3>
 From {{etyl|la|it}} <em><a href="esse">esse</a></em>, present active infinitive of {{term|sum|lang=la}}.
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈɛs.se.re/}}, {{X-SAMPA|/&quot;Essere/}}</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x25b;&#x73;&#x2e;&#x73;&#x65;&#x2e;&#x72;&#x65;&#x2f;, {{X-SAMPA|/&quot;Essere/}}</li>
 <li> {{audio|It-essere.ogg|Audio}}</li>
 <li> {{hyphenation|&egrave;s|se|re}}</li>
 </ul>
@@ -3956,7 +4016,22 @@ From {{etyl|la|it}} <em><a href="esse">esse</a></em>, present active infinitive 
 <h4>Conjugation</h4>
 <ul><li> Note: The present participle is very rare, it is usually replaced with stante (present participle of <a href="stare">stare</a>). Similarly the past participle has been totally replaced with the same tense from stare; the archaic form <b>essuto</b> has disappeared[http://dizionari.hoepli.it/Dizionario_Italiano/parola/essuto.aspx?idD=1&amp;Query=essuto&amp;lettera=E].</li>
 </ul>
-{{it-conj|inf=essere|aux=essere|ger=essendo|presp=essente|pastp=stato|pres1s=sono|pres2s=sei|pres3s=&egrave;|pres1p=siamo|pres2p=siete|pres3p=sono|imperf1s=ero|imperf2s=eri|imperf3s=era|imperf1p=eravamo|imperf2p=eravate|imperf3p=erano|prem1s=fui|prem2s=fosti|prem3s=fu|prem1p=fummo|prem2p=foste|prem3p=furono|fut1s=sar&ograve;|fut2s=sarai|fut3s=sar&agrave;|fut1p=saremo|fut2p=sarete|fut3p=saranno|cond1s=sarei|cond2s=saresti|cond3s=sarebbe|cond1p=saremmo|cond2p=sareste|cond3p=sarebbero|sub123s=sia|sub1p=siamo|sub2p=siate|sub3p=siano|impsub12s=fossi|impsub3s=fosse|impsub1p=fossimo|impsub2p=foste|impsub3p=fossero|imp2s=sii|imp3s=sia|imp1p=siamo|imp2p=siate|imp3p=siano}}
+<table style="background:#F0F0F0;border-collapse:separate;border-spacing:2px"><tr><th colspan="1" style="background:#e2e4c0">infinitive</th><td colspan="1">essere</td></tr>
+<tr><th colspan="1" style="background:#e2e4c0">auxiliary verb</th><td colspan="1">essere</td><th colspan="1" style="background:#e2e4c0">gerund</th><td colspan="1">essendo</td></tr>
+<tr><th colspan="1" style="background:#e2e4c0">present participle</th><td colspan="1">essente</td><th colspan="1" style="background:#e2e4c0">past participle</th><td colspan="1">stato</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">indicative</th><th style="background:#c0cfe4">io</th><th style="background:#c0cfe4">tu</th><th style="background:#c0cfe4">lui/lei</th><th style="background:#c0cfe4">noi</th><th style="background:#c0cfe4">voi</th><th style="background:#c0cfe4">essi/esse</th></tr>
+<tr><th colspan="1" style="background:#c0cfe4">present</th><td>sono</td><td>sei</td><td>&egrave;</td><td>siamo</td><td>siete</td><td>sono</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">imperfect</th><td>ero</td><td>eri</td><td>era</td><td>eravamo</td><td>eravate</td><td>erano</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">past historic</th><td>fui</td><td>fosti</td><td>fu</td><td>fummo</td><td>foste</td><td>furono</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">future</th><td>sar&ograve;</td><td>sarai</td><td>sar&agrave;</td><td>saremo</td><td>sarete</td><td>saranno</td></tr>
+<tr><th colspan="1" style="background:#c0d8e4">conditional</th><th style="background:#c0d8e4">io</th><th style="background:#c0d8e4">tu</th><th style="background:#c0d8e4">lui/lei</th><th style="background:#c0d8e4">noi</th><th style="background:#c0d8e4">voi</th><th style="background:#c0d8e4">essi/esse</th></tr>
+<tr><th colspan="1" style="background:#c0d8e4">present</th><td>sarei</td><td>saresti</td><td>sarebbe</td><td>saremmo</td><td>sareste</td><td>sarebbero</td></tr>
+<tr><th colspan="1" style="background:#c0e4c0">subjuntive</th><th style="background:#c0e4c0">che io</th><th style="background:#c0e4c0">che tu</th><th style="background:#c0e4c0">che lui/lei</th><th style="background:#c0e4c0">che noi</th><th style="background:#c0e4c0">che voi</th><th style="background:#c0e4c0">che essi/esse</th></tr>
+<tr><th colspan="1" style="background:#c0e4c0">present</th><td>sia</td><td>sia</td><td>sia</td><td>siamo</td><td>siate</td><td>siano</td></tr>
+<tr><th colspan="1" style="background:#c0e4c0">imperfect</th><td>fossi</td><td>fossi</td><td>fosse</td><td>fossimo</td><td>foste</td><td>fossero</td></tr>
+<tr><th colspan="1" style="background:#e4d4c0">imperative</th><th style="background:#e4d4c0">-</th><th style="background:#e4d4c0">tu</th><th style="background:#e4d4c0">lui/lei</th><th style="background:#e4d4c0">noi</th><th style="background:#e4d4c0">voi</th><th style="background:#e4d4c0">essi/esse</th></tr>
+<tr><th colspan="1" style="background:#e4d4c0"></th><td></td><td>sii</td><td>sia</td><td>siamo</td><td>siate</td><td>siano</td></tr>
+</table>
 <h3>Noun</h3>
 {{it-noun|esser|m|e|i}}
 <ol><li> <a href="being">being</a></li>
@@ -4012,7 +4087,7 @@ HtmlEntry: f <<<
 ===fa===
 HtmlEntry: fa <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[ˈfa]}}, {{X-SAMPA|/&quot;fa/}}</li>
+<ul><li> IPA: &#x5b;&#x2c8;&#x66;&#x61;&#x5d;, {{X-SAMPA|/&quot;fa/}}</li>
 <li> {{hyphenation|f&agrave;}}</li>
 </ul>
 
@@ -4074,7 +4149,7 @@ HtmlEntry: far <<<
 ===fate===
 HtmlEntry: fate <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[ˈfaː.t̪e]|/ˈfate/}}, {{X-SAMPA|/&quot;fate/}}</li>
+<ul><li> IPA: &#x5b;&#x2c8;&#x66;&#x61;&#x2d0;&#x2e;&#x74;&#x32a;&#x65;&#x5d;, &#x2f;&#x2c8;&#x66;&#x61;&#x74;&#x65;&#x2f;, {{X-SAMPA|/&quot;fate/}}</li>
 <li> {{hyphenation|f&agrave;|te}}</li>
 </ul>
 
@@ -4165,8 +4240,8 @@ HtmlEntry: finale <<<
 ===Florida===
 HtmlEntry: Florida <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈflɔ.ri.da/|/flo.ˈri.da/}}</li>
-<li> {{rhymes|ɔrida|ida}}</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x66;&#x6c;&#x254;&#x2e;&#x72;&#x69;&#x2e;&#x64;&#x61;&#x2f;, &#x2f;&#x66;&#x6c;&#x6f;&#x2e;&#x2c8;&#x72;&#x69;&#x2e;&#x64;&#x61;&#x2f;</li>
+<li> {{rhymes|&#x254;&#x72;&#x69;&#x64;&#x61;|ida}}</li>
 <li> {{hyphenation|Fl&ograve;|ri|da, Flo|r&igrave;|da}}</li>
 </ul>
 
@@ -4210,7 +4285,7 @@ HtmlEntry: Forli <<<
 ===fortune===
 HtmlEntry: fortune <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[forˈt̪uː.ne]}}, {{X-SAMPA|/for&quot;tu:.ne/}}</li>
+<ul><li> IPA: &#x5b;&#x66;&#x6f;&#x72;&#x2c8;&#x74;&#x32a;&#x75;&#x2d0;&#x2e;&#x6e;&#x65;&#x5d;, {{X-SAMPA|/for&quot;tu:.ne/}}</li>
 </ul>
 
 <h3>Noun</h3>
@@ -4228,7 +4303,7 @@ HtmlEntry: fricative <<<
 ===Friuli-Venezia Giulia===
 HtmlEntry: Friuli-Venezia Giulia <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈfrjuli veˈnɛttsja ˈdʒulja/}}, {{X-SAMPA|/&quot;frjuli ve&quot;nEtsja &quot;dZulja/}}</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x66;&#x72;&#x6a;&#x75;&#x6c;&#x69;&#x20;&#x76;&#x65;&#x2c8;&#x6e;&#x25b;&#x74;&#x74;&#x73;&#x6a;&#x61;&#x20;&#x2c8;&#x64;&#x292;&#x75;&#x6c;&#x6a;&#x61;&#x2f;, {{X-SAMPA|/&quot;frjuli ve&quot;nEtsja &quot;dZulja/}}</li>
 <li> Fri&ugrave;li-Ven&egrave;zia Gi&ugrave;lia</li>
 </ul>
 
@@ -4445,7 +4520,7 @@ HtmlEntry: giraffe <<<
 ===gnu===
 HtmlEntry: gnu <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈɲu/}}</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x272;&#x75;&#x2f;</li>
 <li> {{rhymes|u}}</li>
 </ul>
 
@@ -4640,9 +4715,9 @@ HtmlEntry: Guernsey <<<
 ===guerra===
 HtmlEntry: guerra <<<
 <h3>Etymology</h3>
-From {{etyl|roa-oit|it}} {{term|guerra}}, from {{etyl|LL.|it}} {{recons|werra|lang=LL.}}, {{recons|guerra|lang=LL.}}, from {{etyl|frk|it}} {{recons|werra|werra|riot, disturbance, quarrel|lang=frk|sc=Latn}} from {{proto|Germanic|werrō|confusion, disarray}}, from {{proto|Indo-European|wers-|to mix up, confuse, beat, thresh}}. Related to {{etyl|goh|-}} {{term|werra|confusion, strife, quarrel|lang=goh}} ({{etyl|de|-}} {{term|verwirren|to confuse|lang=de}}), {{etyl|osx|-}} {{term|werran|to confuse, perplex|lang=osx}}, {{etyl|nl|-}} {{term|war|confusion, disarray|lang=nl}}, {{etyl|ang|-}} {{term|wyrsa|wyrsa, wiersa|worse|lang=ang}}. More at {{l|en|worse}}, {{l|en|wurst}}.
+From {{etyl|roa-oit|it}} {{term|guerra}}, from {{etyl|LL.|it}} {{recons|werra|lang=LL.}}, {{recons|guerra|lang=LL.}}, from {{etyl|frk|it}} {{recons|werra|werra|riot, disturbance, quarrel|lang=frk|sc=Latn}} from {{proto|Germanic|&#x77;&#x65;&#x72;&#x72;&#x14d;|confusion, disarray}}, from {{proto|Indo-European|wers-|to mix up, confuse, beat, thresh}}. Related to {{etyl|goh|-}} {{term|werra|confusion, strife, quarrel|lang=goh}} ({{etyl|de|-}} {{term|verwirren|to confuse|lang=de}}), {{etyl|osx|-}} {{term|werran|to confuse, perplex|lang=osx}}, {{etyl|nl|-}} {{term|war|confusion, disarray|lang=nl}}, {{etyl|ang|-}} {{term|wyrsa|wyrsa, wiersa|worse|lang=ang}}. More at {{l|en|worse}}, {{l|en|wurst}}.
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈɡwɛr.ra/}}, {{X-SAMPA|/&quot;gwEr.ra/}}</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x261;&#x77;&#x25b;&#x72;&#x2e;&#x72;&#x61;&#x2f;, {{X-SAMPA|/&quot;gwEr.ra/}}</li>
 <li> {{audio|It-la guerra.ogg|Audio}}</li>
 <li> {{audio|It-guerra.ogg|Audio}}</li>
 </ul>
@@ -4725,7 +4800,7 @@ HtmlEntry: h <<<
 ===ha===
 HtmlEntry: ha <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/a/}}, {{X-SAMPA|/a/}}</li>
+<ul><li> IPA: /a/, {{X-SAMPA|/a/}}</li>
 <li> {{rhymes|a}}</li>
 </ul>
 
@@ -4776,7 +4851,7 @@ HtmlEntry: harem <<<
 ===Hawaii===
 HtmlEntry: Hawaii <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/a.ˈwai/|/a.ˈvai/}}</li>
+<ul><li> IPA: &#x2f;&#x61;&#x2e;&#x2c8;&#x77;&#x61;&#x69;&#x2f;, &#x2f;&#x61;&#x2e;&#x2c8;&#x76;&#x61;&#x69;&#x2f;</li>
 <li> {{rhymes|ai}}</li>
 <li> {{hyphenation|Ha|waii}}</li>
 </ul>
@@ -4793,7 +4868,7 @@ HtmlEntry: Hawaii <<<
 ===ho===
 HtmlEntry: ho <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ɔ/}}, {{X-SAMPA|/O/}}</li>
+<ul><li> IPA: &#x2f;&#x254;&#x2f;, {{X-SAMPA|/O/}}</li>
 </ul>
 
 <h3>Verb</h3>
@@ -4880,7 +4955,7 @@ HtmlEntry: iceberg <<<
 ===idea===
 HtmlEntry: idea <<<
 <h3>Etymology</h3>
-{{etyl|grc|it}} {{term|ἰδέα|notion, pattern|tr=idea|lang=grc|sc=polytonic}}, from {{term|εἴδω|I see|tr=eidō|lang=grc|sc=polytonic}}.
+{{etyl|grc|it}} {{term|&#x1f30;&#x3b4;&#x3ad;&#x3b1;|notion, pattern|tr=idea|lang=grc|sc=polytonic}}, from {{term|&#x3b5;&#x1f34;&#x3b4;&#x3c9;|I see|tr=&#x65;&#x69;&#x64;&#x14d;|lang=grc|sc=polytonic}}.
 <h3>Noun</h3>
 {{it-noun|ide|f|a|e}}
 <ol><li> <a href="idea#English">idea</a></li>
@@ -4960,7 +5035,7 @@ HtmlEntry: impure <<<
 ===in===
 HtmlEntry: in <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[in]}}</li>
+<ul><li> IPA: [in]</li>
 </ul>
 
 <h3>Preposition</h3>
@@ -5016,7 +5091,7 @@ HtmlEntry: indicative <<<
 ===indice===
 HtmlEntry: indice <<<
 <h3>Etymology</h3>
-From {{etyl|la|it}} {{term|index|sign, indication; index|lang=la}}, from {{term|indico|indicō|point out, indicate, show|lang=la}}.
+From {{etyl|la|it}} {{term|index|sign, indication; index|lang=la}}, from {{term|indico|&#x69;&#x6e;&#x64;&#x69;&#x63;&#x14d;|point out, indicate, show|lang=la}}.
 <h3>Noun</h3>
 {{it-noun|indic|m|e|i}}
 <ol><li> (<em>finger</em>) <a href="index">index</a>, <a href="index finger">index finger</a>, <a href="forefinger">forefinger</a></li>
@@ -5054,7 +5129,7 @@ HtmlEntry: indigo <<<
 ===Indonesia===
 HtmlEntry: Indonesia <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/indoˈnɛzja/}}, {{X-SAMPA|/indo&quot;nEzja/}}</li>
+<ul><li> IPA: &#x2f;&#x69;&#x6e;&#x64;&#x6f;&#x2c8;&#x6e;&#x25b;&#x7a;&#x6a;&#x61;&#x2f;, {{X-SAMPA|/indo&quot;nEzja/}}</li>
 <li> Indon&egrave;&lt;u&gt;s&lt;/u&gt;ia</li>
 </ul>
 
@@ -5100,9 +5175,9 @@ HtmlEntry: investigate <<<
 ===iota===
 HtmlEntry: iota <<<{{wikipedia|Iota (lettera)|Iota}}
 <h3>Etymology</h3>
-From {{etyl|grc|it}} {{term|ἰῶτα|tr=iōta|lang=grc|sc=polytonic}}.
+From {{etyl|grc|it}} {{term|&#x1f30;&#x1ff6;&#x3c4;&#x3b1;|tr=&#x69;&#x14d;&#x74;&#x61;|lang=grc|sc=polytonic}}.
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈjɔːta/}}</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x6a;&#x254;&#x2d0;&#x74;&#x61;&#x2f;</li>
 </ul>
 
 <h3>Noun</h3>
@@ -5185,9 +5260,9 @@ HtmlEntry: kayak <<<
 </ul>
 
 <h3>Etymology</h3>
-{{etyl|ikt|it}} {{term|ᖃᔭᖅ|man's boat|tr=qajaq|lang=ikt|sc=Cans}}.
+{{etyl|ikt|it}} {{term|&#x1583;&#x152d;&#x1585;|man's boat|tr=qajaq|lang=ikt|sc=Cans}}.
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ka.ˈjak/}}, {{X-SAMPA|/ka.'jak/}}</li>
+<ul><li> IPA: &#x2f;&#x6b;&#x61;&#x2e;&#x2c8;&#x6a;&#x61;&#x6b;&#x2f;, {{X-SAMPA|/ka.'jak/}}</li>
 <li> {{hyphenation|ka|y&agrave;k|lang=fr}}</li>
 </ul>
 
@@ -5475,7 +5550,7 @@ Inflected form of {{term|lento}}.
 </ol>
 
 <h3>Etymology 2</h3>
-From {{etyl|la|it}} {{term|lens|lēns|lentil|lang=la}}, <em>lentis</em>.
+From {{etyl|la|it}} {{term|lens|&#x6c;&#x113;&#x6e;&#x73;|lentil|lang=la}}, <em>lentis</em>.
 <h4>Noun</h4>
 {{it-noun|lent|f|e|i}}
 <ol><li> <a href="lens">lens</a></li>
@@ -5529,9 +5604,9 @@ HtmlEntry: Liberia <<<
 ===libero===
 HtmlEntry: libero <<<
 <h3>Etymology</h3>
-From {{etyl|la|it}} {{term|liber|līber}}
+From {{etyl|la|it}} {{term|liber|&#x6c;&#x12b;&#x62;&#x65;&#x72;}}
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈlibero/}}</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x6c;&#x69;&#x62;&#x65;&#x72;&#x6f;&#x2f;</li>
 <li> {{audio|It-libero.ogg|Audio}}</li>
 </ul>
 
@@ -5758,11 +5833,11 @@ HtmlEntry: loco <<<
 ===lui===
 HtmlEntry: lui <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[ˈlui]}}</li>
+<ul><li> IPA: &#x5b;&#x2c8;&#x6c;&#x75;&#x69;&#x5d;</li>
 </ul>
 
 <h3>Etymology</h3>
-From {{etyl|VL.|it}} <em>illūi</em>, which is a Vulgar Latin form of <em><a href="illi">illī</a></em> (dative singular of {{term|ille|lang=la}}). The <em>ūi</em> in <em>illūi</em> is modelled under influence of Vulgar Latin <em>cūi</em> (see Classical Latin {{term|cui|lang=la}}).&lt;ref&gt;{{reference-book| last = Patota | first = Giuseppe | title = Lineamenti di grammatica storica dell'italiano | year = 2002 | publisher = il Mulino | location = Bologna | language = Italian | id = ISBN 88-15-08638-2 | pages = p. 130 | chapter = }}&lt;/ref&gt;
+From {{etyl|VL.|it}} <em>&#x69;&#x6c;&#x6c;&#x16b;&#x69;</em>, which is a Vulgar Latin form of <em><a href="illi">&#x69;&#x6c;&#x6c;&#x12b;</a></em> (dative singular of {{term|ille|lang=la}}). The <em>&#x16b;&#x69;</em> in <em>&#x69;&#x6c;&#x6c;&#x16b;&#x69;</em> is modelled under influence of Vulgar Latin <em>&#x63;&#x16b;&#x69;</em> (see Classical Latin {{term|cui|lang=la}}).&lt;ref&gt;{{reference-book| last = Patota | first = Giuseppe | title = Lineamenti di grammatica storica dell'italiano | year = 2002 | publisher = il Mulino | location = Bologna | language = Italian | id = ISBN 88-15-08638-2 | pages = p. 130 | chapter = }}&lt;/ref&gt;
 <h3>Pronoun</h3>
 {{head|it|pronoun}}
 <ol><li> <a href="he">he</a></li>
@@ -5803,7 +5878,7 @@ HtmlEntry: m <<<
 ===Macedonia===
 HtmlEntry: Macedonia <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/matʃeˈdɔnja/}}, {{X-SAMPA|/matSe&quot;dOnja/}}</li>
+<ul><li> IPA: &#x2f;&#x6d;&#x61;&#x74;&#x283;&#x65;&#x2c8;&#x64;&#x254;&#x6e;&#x6a;&#x61;&#x2f;, {{X-SAMPA|/matSe&quot;dOnja/}}</li>
 </ul>
 
 <h3>Proper noun</h3>
@@ -5833,7 +5908,7 @@ HtmlEntry: Madrid <<<
 <h3>Etymology</h3>
 From {{etyl|es|it}} {{term|Madrid|lang=es}}
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/maˈdrid/}}, {{X-SAMPA|/ma&quot;drid/}}</li>
+<ul><li> IPA: &#x2f;&#x6d;&#x61;&#x2c8;&#x64;&#x72;&#x69;&#x64;&#x2f;, {{X-SAMPA|/ma&quot;drid/}}</li>
 </ul>
 
 <h3>Proper noun</h3>
@@ -5910,7 +5985,7 @@ HtmlEntry: male <<<
 <h3>Etymology</h3>
 From {{etyl|la|it}} {{term|male|lang=la}}.
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[ˈmaː.le]|/ˈmale/}}, {{X-SAMPA|/&quot;ma.le/}}</li>
+<ul><li> IPA: &#x5b;&#x2c8;&#x6d;&#x61;&#x2d0;&#x2e;&#x6c;&#x65;&#x5d;, &#x2f;&#x2c8;&#x6d;&#x61;&#x6c;&#x65;&#x2f;, {{X-SAMPA|/&quot;ma.le/}}</li>
 </ul>
 
 <h3>Adverb</h3>
@@ -5980,7 +6055,7 @@ HtmlEntry: manga <<<
 ===manganese===
 HtmlEntry: manganese <<<
 <h3>Pronunciation</h3>
-<ul><li> {{it-stress|mangan&eacute;se}}, {{IPA|/maŋɡaˈneze/}}, {{X-SAMPA|/maNga&quot;neze/}}</li>
+<ul><li> {{it-stress|mangan&eacute;se}}, IPA: &#x2f;&#x6d;&#x61;&#x14b;&#x261;&#x61;&#x2c8;&#x6e;&#x65;&#x7a;&#x65;&#x2f;, {{X-SAMPA|/maNga&quot;neze/}}</li>
 </ul>
 
 <h3>Noun</h3>
@@ -6034,7 +6109,7 @@ HtmlEntry: mare <<<rightright
 <h3>Etymology</h3>
 From {{etyl|la|it}} {{term|mare|lang=la}}.
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[ˈmare]}}</li>
+<ul><li> IPA: &#x5b;&#x2c8;&#x6d;&#x61;&#x72;&#x65;&#x5d;</li>
 <li> {{audio|It-il mare.ogg|Audio}}</li>
 <li> {{audio|It-mare.ogg|Audio}}</li>
 </ul>
@@ -6109,9 +6184,9 @@ HtmlEntry: Mauritius <<<
 ===me===
 HtmlEntry: me <<<
 <h3>Etymology</h3>
-From {{etyl|la|it}} {{term|me|mē|lang=la}}.
+From {{etyl|la|it}} {{term|me|&#x6d;&#x113;|lang=la}}.
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/mɛ/}}, {{X-SAMPA|/mE/}}</li>
+<ul><li> IPA: &#x2f;&#x6d;&#x25b;&#x2f;, {{X-SAMPA|/mE/}}</li>
 </ul>
 
 <h3>Pronoun</h3>
@@ -6129,7 +6204,7 @@ HtmlEntry: medicine <<<
 ===mela===
 HtmlEntry: mela <<<right
 <h3>Etymology</h3>
-From {{etyl|VL.|it}} *<em>mela</em>, from <em><a href="melum">melum</a></em>, from {{etyl|la|it}} {{term|malum|mālum|lang=la}}.
+From {{etyl|VL.|it}} *<em>mela</em>, from <em><a href="melum">melum</a></em>, from {{etyl|la|it}} {{term|malum|&#x6d;&#x101;&#x6c;&#x75;&#x6d;|lang=la}}.
 <h3>Pronunciation</h3>
 <ul><li> {{audio|It-una mela.ogg|Audio}}</li>
 </ul>
@@ -6404,7 +6479,7 @@ HtmlEntry: Mongolia <<<
 ===moro===
 HtmlEntry: moro <<<
 <h3>Etymology 1</h3>
-From {{etyl|la|it}} {{term|morus|mōrus|lang=la}}.
+From {{etyl|la|it}} {{term|morus|&#x6d;&#x14d;&#x72;&#x75;&#x73;|lang=la}}.
 <h4>Noun</h4>
 {{it-noun|mor|m|o|i}}
 <ol><li> <a href="mulberry">mulberry</a> <a href="tree">tree</a></li>
@@ -6486,7 +6561,7 @@ HtmlEntry: muse <<<
 ===musica===
 HtmlEntry: musica <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[ˈmu.zi.ka]}}</li>
+<ul><li> IPA: &#x5b;&#x2c8;&#x6d;&#x75;&#x2e;&#x7a;&#x69;&#x2e;&#x6b;&#x61;&#x5d;</li>
 <li> {{audio|It-la musica.ogg|Audio (la musica)}}</li>
 </ul>
 
@@ -6549,7 +6624,7 @@ HtmlEntry: nadir <<<
 <h3>Etymology</h3>
 As for the English word.
 <h3>Pronunciation</h3>
-nad&igrave;r, /naˈdir/, /&lt;tt&gt;na&quot;dir&lt;/tt&gt;/
+&#x6e;&#x61;&#x64;&#xec;&#x72;&#x2c;&#x20;&#x2f;&#x6e;&#x61;&#x2c8;&#x64;&#x69;&#x72;&#x2f;&#x2c;&#x20;&#x2f;&#x3c;&#x74;&#x74;&#x3e;&#x6e;&#x61;&#x22;&#x64;&#x69;&#x72;&#x3c;&#x2f;&#x74;&#x74;&#x3e;&#x2f;
 <h3>Noun</h3>
 {{head|it|noun|g=m}}
 <ol><li> {astronomy} <a href="#English">nadir</a></li>
@@ -6601,29 +6676,29 @@ HtmlEntry: ne <<<
 <h3>Adverb</h3>
 {it-adv}
 <ol><li> from <a href="there">there</a></li>
-<ul><li> <b><em>Ne</b> sono venuto.</em> — “I have come from there.”</li>
+<ul><li> <b><em>Ne</b> sono venuto.</em>&#x20;&#x2014;&#x20;&#x201c;&#x49;&#x20;&#x68;&#x61;&#x76;&#x65;&#x20;&#x63;&#x6f;&#x6d;&#x65;&#x20;&#x66;&#x72;&#x6f;&#x6d;&#x20;&#x74;&#x68;&#x65;&#x72;&#x65;&#x2e;&#x201d;</li>
 </ul>
 </ol>
 
 <h4>Usage notes</h4>
 <ul><li> The pronoun <b>ne</b> replaces <em>di l&agrave;</em>.</li>
-<ul><li> <em>Sono di Genova; <b>ne</b> sono venuto stamattina.</em> — “I am from Genova; I came from there this morning.”</li>
+<ul><li> <em>Sono di Genova; <b>ne</b> sono venuto stamattina.</em>&#x20;&#x2014;&#x20;&#x201c;&#x49;&#x20;&#x61;&#x6d;&#x20;&#x66;&#x72;&#x6f;&#x6d;&#x20;&#x47;&#x65;&#x6e;&#x6f;&#x76;&#x61;&#x3b;&#x20;&#x49;&#x20;&#x63;&#x61;&#x6d;&#x65;&#x20;&#x66;&#x72;&#x6f;&#x6d;&#x20;&#x74;&#x68;&#x65;&#x72;&#x65;&#x20;&#x74;&#x68;&#x69;&#x73;&#x20;&#x6d;&#x6f;&#x72;&#x6e;&#x69;&#x6e;&#x67;&#x2e;&#x201d;</li>
 </ul>
 </ul>
 
 <h3>Pronoun</h3>
 {{head|it|pronoun}}
 <ol><li> of it</li>
-<ul><li> <b><em>Ne</b> ho sentito parlare.</em> — “I have heard talk of it.”</li>
-<li> <em>Cosa <b>ne</b> pensi?</em> — “What do you think of it?”</li>
+<ul><li> <b><em>Ne</b> ho sentito parlare.</em>&#x20;&#x2014;&#x20;&#x201c;&#x49;&#x20;&#x68;&#x61;&#x76;&#x65;&#x20;&#x68;&#x65;&#x61;&#x72;&#x64;&#x20;&#x74;&#x61;&#x6c;&#x6b;&#x20;&#x6f;&#x66;&#x20;&#x69;&#x74;&#x2e;&#x201d;</li>
+<li> <em>Cosa <b>ne</b> pensi?</em>&#x20;&#x2014;&#x20;&#x201c;&#x57;&#x68;&#x61;&#x74;&#x20;&#x64;&#x6f;&#x20;&#x79;&#x6f;&#x75;&#x20;&#x74;&#x68;&#x69;&#x6e;&#x6b;&#x20;&#x6f;&#x66;&#x20;&#x69;&#x74;&#x3f;&#x201d;</li>
 </ul>
 <li> of them (<em>sometimes not translated in English</em>)</li>
-<ul><li> <em>Ce <b>ne</b> sono due.</em> — “There are two (of them).”</li>
+<ul><li> <em>Ce <b>ne</b> sono due.</em>&#x20;&#x2014;&#x20;&#x201c;&#x54;&#x68;&#x65;&#x72;&#x65;&#x20;&#x61;&#x72;&#x65;&#x20;&#x74;&#x77;&#x6f;&#x20;&#x28;&#x6f;&#x66;&#x20;&#x74;&#x68;&#x65;&#x6d;&#x29;&#x2e;&#x201d;</li>
 </ul>
 </ol>
 
 <h4>Usage notes</h4>
-<ul><li> The pronoun <b>ne</b> stands for <em>di</em> + [pronoun], and so can be a translation of “[preposition] + it/them” for any preposition that is translated as <em>di</em> in Italian.</li>
+<ul><li> The pronoun <b>ne</b> stands for <em>di</em>&#x20;&#x2b;&#x20;&#x5b;&#x70;&#x72;&#x6f;&#x6e;&#x6f;&#x75;&#x6e;&#x5d;&#x2c;&#x20;&#x61;&#x6e;&#x64;&#x20;&#x73;&#x6f;&#x20;&#x63;&#x61;&#x6e;&#x20;&#x62;&#x65;&#x20;&#x61;&#x20;&#x74;&#x72;&#x61;&#x6e;&#x73;&#x6c;&#x61;&#x74;&#x69;&#x6f;&#x6e;&#x20;&#x6f;&#x66;&#x20;&#x201c;&#x5b;&#x70;&#x72;&#x65;&#x70;&#x6f;&#x73;&#x69;&#x74;&#x69;&#x6f;&#x6e;&#x5d;&#x20;&#x2b;&#x20;&#x69;&#x74;&#x2f;&#x74;&#x68;&#x65;&#x6d;&#x201d;&#x20;&#x66;&#x6f;&#x72;&#x20;&#x61;&#x6e;&#x79;&#x20;&#x70;&#x72;&#x65;&#x70;&#x6f;&#x73;&#x69;&#x74;&#x69;&#x6f;&#x6e;&#x20;&#x74;&#x68;&#x61;&#x74;&#x20;&#x69;&#x73;&#x20;&#x74;&#x72;&#x61;&#x6e;&#x73;&#x6c;&#x61;&#x74;&#x65;&#x64;&#x20;&#x61;&#x73;&#x20;<em>di</em> in Italian.</li>
 </ul>
 
 <h3>Contraction</h3>
@@ -6667,7 +6742,7 @@ From {{etyl|la|it}} <em><a href="niger">niger</a></em>, <em>nigrum</em>.
 ===neon===
 HtmlEntry: neon <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈnɛ.on/}}, {{X-SAMPA|/&quot;nE.on/}}</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x6e;&#x25b;&#x2e;&#x6f;&#x6e;&#x2f;, {{X-SAMPA|/&quot;nE.on/}}</li>
 </ul>
 
 <h3>Noun</h3>
@@ -6757,12 +6832,12 @@ HtmlEntry: night <<<
 ===noi===
 HtmlEntry: noi <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[ˈnoi]}}</li>
+<ul><li> IPA: &#x5b;&#x2c8;&#x6e;&#x6f;&#x69;&#x5d;</li>
 <li> {{audio|It-noi.ogg|Audio}}</li>
 </ul>
 
 <h3>Etymology</h3>
-From {{etyl|la|it}} {{term|nos|nōs|lang=la}}.
+From {{etyl|la|it}} {{term|nos|&#x6e;&#x14d;&#x73;|lang=la}}.
 <h3>Pronoun</h3>
 <b>noi</b>
 <ol><li> <a href="we">we</a>; <a href="us">us</a></li>
@@ -6793,10 +6868,10 @@ HtmlEntry: nomo <<<
 ===non===
 HtmlEntry: non <<<
 <h3>Etymology</h3>
-From {{etyl|la|it}} {{term|non|nōn|lang=la}}.
+From {{etyl|la|it}} {{term|non|&#x6e;&#x14d;&#x6e;|lang=la}}.
 <h3>Pronunciation</h3>
 <ul><li> {{audio|It-non.ogg|audio}}</li>
-<li> {{IPA|[non]}}</li>
+<li> IPA: [non]</li>
 </ul>
 
 <h3>Adverb</h3>
@@ -6935,7 +7010,7 @@ HtmlEntry: obtrusive <<<
 ===Oceania===
 HtmlEntry: Oceania <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/otʃeˈanja/}}, {{X-SAMPA|/otSe&quot;anja/}}</li>
+<ul><li> IPA: &#x2f;&#x6f;&#x74;&#x283;&#x65;&#x2c8;&#x61;&#x6e;&#x6a;&#x61;&#x2f;, {{X-SAMPA|/otSe&quot;anja/}}</li>
 </ul>
 
 <h3>Proper noun</h3>
@@ -7061,8 +7136,8 @@ HtmlEntry: osso <<<
 <h3>Etymology</h3>
 From {{etyl|la|it}} <em><a href="ossum">ossum</a></em>, popular variant of {{term|os|lang=la}}, <em>ossis</em>. Compare Catalan <em><a href="os">os</a></em>, French <em><a href="os">os</a></em>, Interlingua <em>osso</em>, Portuguese <em>osso</em>, Romanian <em><a href="os">os</a></em>, Sardinian <em><a href="ossu">ossu</a></em>, Spanish <em><a href="hueso">hueso</a></em>.
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[ˈɔsso]}}</li>
-<li> &ograve;sso, /ˈɔsso/</li>
+<ul><li> IPA: &#x5b;&#x2c8;&#x254;&#x73;&#x73;&#x6f;&#x5d;</li>
+<li>&#x20;&#xf2;&#x73;&#x73;&#x6f;&#x2c;&#x20;&#x2f;&#x2c8;&#x254;&#x73;&#x73;&#x6f;&#x2f;</li>
 </ul>
 
 <h3>Noun</h3>
@@ -7104,7 +7179,7 @@ HtmlEntry: otto <<<{{cardinalbox|it|7|8|9|sette|nove|ord=ottavo}}
 <h3>Etymology</h3>
 From {{etyl|la|it}} {{term|octo}}.
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈɔt.to/}}, {{X-SAMPA|/&quot;Ot.to/}}</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x254;&#x74;&#x2e;&#x74;&#x6f;&#x2f;, {{X-SAMPA|/&quot;Ot.to/}}</li>
 </ul>
 
 <h3>Cardinal number</h3>
@@ -7234,7 +7309,7 @@ HtmlEntry: Paraguay <<<
 ===Parigi===
 HtmlEntry: Parigi <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/pa.ˈri.dʒi/}}, {{X-SAMPA|/'pa.ri:.dZI/}}</li>
+<ul><li> IPA: &#x2f;&#x70;&#x61;&#x2e;&#x2c8;&#x72;&#x69;&#x2e;&#x64;&#x292;&#x69;&#x2f;, {{X-SAMPA|/'pa.ri:.dZI/}}</li>
 <li> {{hyphenation|Pa|r&igrave;|gi}}</li>
 </ul>
 
@@ -7255,7 +7330,7 @@ HtmlEntry: Parigi <<<
 ===parole===
 HtmlEntry: parole <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/paɾɔle/}}, {{X-SAMPA|/pa4Ole/}}</li>
+<ul><li> IPA: &#x2f;&#x70;&#x61;&#x27e;&#x254;&#x6c;&#x65;&#x2f;, {{X-SAMPA|/pa4Ole/}}</li>
 </ul>
 
 <h3>Noun</h3>
@@ -7315,7 +7390,7 @@ HtmlEntry: pesca <<<Pesca (fruit)Pesca (fishing)
 <h3>Etymology 1</h3>
 {{etyl|la|it}} {{term|persica|peach|lang=la}}.
 <h4>Pronunciation</h4>
-<ul><li> {{enPR|p&egrave;sca}}, {{IPA|/ˈpɛska/}}, {{X-SAMPA|/&quot;pEska/}}</li>
+<ul><li> {{enPR|p&egrave;sca}}, IPA: &#x2f;&#x2c8;&#x70;&#x25b;&#x73;&#x6b;&#x61;&#x2f;, {{X-SAMPA|/&quot;pEska/}}</li>
 <li> {{audio|It-pesca_(frutto).ogg}}</li>
 </ul>
 
@@ -7338,7 +7413,7 @@ HtmlEntry: pesca <<<Pesca (fruit)Pesca (fishing)
 <h3>Etymology 2</h3>
 {{etyl|la|it}} {{term|piscis|fish|lang=la}}.
 <h4>Pronunciation</h4>
-<ul><li> p&eacute;sca, /ˈpeska/, /&lt;tt&gt;&quot;peska&lt;/tt&gt;/ </li>
+<ul><li>&#x20;&#x70;&#xe9;&#x73;&#x63;&#x61;&#x2c;&#x20;&#x2f;&#x2c8;&#x70;&#x65;&#x73;&#x6b;&#x61;&#x2f;&#x2c;&#x20;&#x2f;&#x3c;&#x74;&#x74;&#x3e;&#x22;&#x70;&#x65;&#x73;&#x6b;&#x61;&#x3c;&#x2f;&#x74;&#x74;&#x3e;&#x2f;&#x20;</li>
 <li> {{audio|It-pesca_(sport).ogg|Audio}}</li>
 </ul>
 
@@ -7363,7 +7438,7 @@ HtmlEntry: pesca <<<Pesca (fruit)Pesca (fishing)
 ===pesce===
 HtmlEntry: pesce <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[ˈpeʃʃe]}}</li>
+<ul><li> IPA: &#x5b;&#x2c8;&#x70;&#x65;&#x283;&#x283;&#x65;&#x5d;</li>
 <li> {{audio|It-il pesce.ogg|Audio}}</li>
 <li> {{audio|It-pesce.ogg|Audio}}</li>
 </ul>
@@ -7510,7 +7585,7 @@ HtmlEntry: pipe <<<
 ===pizza===
 HtmlEntry: pizza <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈpit.tsa/}}, {{X-SAMPA|/&quot;pit.tsa/}}</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x70;&#x69;&#x74;&#x2e;&#x74;&#x73;&#x61;&#x2f;, {{X-SAMPA|/&quot;pit.tsa/}}</li>
 </ul>
 
 <h3>Noun</h3>
@@ -7653,7 +7728,7 @@ HtmlEntry: presidente <<<
 ===privacy===
 HtmlEntry: privacy <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈpraivasi/}}</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x70;&#x72;&#x61;&#x69;&#x76;&#x61;&#x73;&#x69;&#x2f;</li>
 </ul>
 
 <h3>Etymology</h3>
@@ -7756,7 +7831,7 @@ HtmlEntry: pure <<<
 </ol>
 
 <h3>Etymology 2</h3>
-From {{etyl|la|it}} {{term|pure|pūrē|lang=la}}, the adverb of {{term|purus|pūrus|lang=la}}.&lt;ref&gt;Angelo Prati, &quot;Vocabolario Etimologico Italiano&quot;, Torino, 1951; headword <em>pure</em>&lt;/ref&gt;
+From {{etyl|la|it}} {{term|pure|&#x70;&#x16b;&#x72;&#x113;|lang=la}}, the adverb of {{term|purus|&#x70;&#x16b;&#x72;&#x75;&#x73;|lang=la}}.&lt;ref&gt;Angelo Prati, &quot;Vocabolario Etimologico Italiano&quot;, Torino, 1951; headword <em>pure</em>&lt;/ref&gt;
 <h4>Adverb</h4>
 {it-adv}
 <ol><li> <a href="too">too</a>, <a href="also">also</a>, <a href="as well">as well</a></li>
@@ -7800,7 +7875,7 @@ HtmlEntry: Qatar <<<
 ===qua===
 HtmlEntry: qua <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/kwa/}}</li>
+<ul><li> IPA: /kwa/</li>
 <li> {{audio|It-qua.ogg|Audio}}</li>
 </ul>
 
@@ -7841,7 +7916,7 @@ HtmlEntry: quattordici <<<{{cardinalbox|it|13|14|15|tredici|quindici|ord=quattor
 <h3>Etymology</h3>
 From {{etyl|la|it}} {{term|quattuordecim|lang=la}}.
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/kwatˈtorditʃi/|[kwat̪ˈt̪or.d̪i.t͡ʃi]}}, {{X-SAMPA|/kwat&quot;torditSi/}}</li>
+<ul><li> IPA: &#x2f;&#x6b;&#x77;&#x61;&#x74;&#x2c8;&#x74;&#x6f;&#x72;&#x64;&#x69;&#x74;&#x283;&#x69;&#x2f;, &#x5b;&#x6b;&#x77;&#x61;&#x74;&#x32a;&#x2c8;&#x74;&#x32a;&#x6f;&#x72;&#x2e;&#x64;&#x32a;&#x69;&#x2e;&#x74;&#x361;&#x283;&#x69;&#x5d;, {{X-SAMPA|/kwat&quot;torditSi/}}</li>
 <li> {{hyphenation|quat|t&oacute;r|di|ci}}</li>
 </ul>
 
@@ -7871,7 +7946,7 @@ HtmlEntry: quattro <<<{{cardinalbox|it|3|4|5|tre|cinque|ord=quarto|mult=quadrupl
 <h3>Etymology</h3>
 From {{etyl|la|it}} <em><a href="quattuor">quattuor</a></em>.
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[ˈkwattro]}}</li>
+<ul><li> IPA: &#x5b;&#x2c8;&#x6b;&#x77;&#x61;&#x74;&#x74;&#x72;&#x6f;&#x5d;</li>
 </ul>
 
 <h3>Adjective</h3>
@@ -7923,9 +7998,9 @@ From {{etyl|la|it}} <em><a href="quattuor">quattuor</a></em>.
 ===quindici===
 HtmlEntry: quindici <<<{{cardinalbox|it|14|15|16|quattordici|sedici|ord=quindicesimo}}
 <h3>Etymology</h3>
-From {{etyl|la|it}} {{term|quindecim|quīndecim|lang=la}}.
+From {{etyl|la|it}} {{term|quindecim|&#x71;&#x75;&#x12b;&#x6e;&#x64;&#x65;&#x63;&#x69;&#x6d;|lang=la}}.
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈkwinditʃi/|[ˈkwin.d̪i.t͡ʃi]}}, {{X-SAMPA|/&quot;kwinditSi/}}</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x6b;&#x77;&#x69;&#x6e;&#x64;&#x69;&#x74;&#x283;&#x69;&#x2f;, &#x5b;&#x2c8;&#x6b;&#x77;&#x69;&#x6e;&#x2e;&#x64;&#x32a;&#x69;&#x2e;&#x74;&#x361;&#x283;&#x69;&#x5d;, {{X-SAMPA|/&quot;kwinditSi/}}</li>
 <li> {{hyphenation|qu&igrave;n|di|ci}}</li>
 </ul>
 
@@ -7994,7 +8069,7 @@ HtmlEntry: radio <<<
 <h3>Etymology</h3>
 Borrowed from {{etyl|la|it}} <em><a href="radius">radius</a></em>.
 <h3>Pronunciation</h3>
-<ul><li> {{enPR|r&agrave;dio}}, {{IPA|/ˈradjo/}}, {{X-SAMPA|/&quot;radjo/}}</li>
+<ul><li> {{enPR|r&agrave;dio}}, IPA: &#x2f;&#x2c8;&#x72;&#x61;&#x64;&#x6a;&#x6f;&#x2f;, {{X-SAMPA|/&quot;radjo/}}</li>
 </ul>
 
 <h3>Noun</h3>
@@ -8032,7 +8107,7 @@ HtmlEntry: radon <<<
 ===rape===
 HtmlEntry: rape <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈrape/|[ˈraː.pe]}}, {{X-SAMPA|/&quot;rape/}}</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x72;&#x61;&#x70;&#x65;&#x2f;, &#x5b;&#x2c8;&#x72;&#x61;&#x2d0;&#x2e;&#x70;&#x65;&#x5d;, {{X-SAMPA|/&quot;rape/}}</li>
 <li> {{hyphenation|r&agrave;|pe}}</li>
 </ul>
 
@@ -8071,7 +8146,7 @@ HtmlEntry: re <<<
 <h3>Etymology 1</h3>
 From {{etyl|la|it}} {{term|rex|lang=la}}
 <h4>Pronunciation</h4>
-<ul><li> r&eacute;, {{IPA|/re/}}, {{X-SAMPA|/re/}}</li>
+<ul><li> r&eacute;, IPA: /re/, {{X-SAMPA|/re/}}</li>
 <li> {{audio|It-il re.ogg|Audio}}</li>
 <li> {{hyphenation|re}}</li>
 </ul>
@@ -8088,7 +8163,7 @@ From {{etyl|la|it}} {{term|rex|lang=la}}
 <h3>Etymology 2</h3>
 {{rfe|probably same as the equivalent English word}}
 <h4>Pronunciation</h4>
-<ul><li> r&egrave;, {{IPA|/rɛ/}}, {{X-SAMPA|/rE/}}</li>
+<ul><li> r&egrave;, IPA: &#x2f;&#x72;&#x25b;&#x2f;, {{X-SAMPA|/rE/}}</li>
 </ul>
 
 <h4>Noun</h4>
@@ -8131,7 +8206,7 @@ Latin <em><a href="regimen">regimen</a>, regiminis</em>
 ===regina===
 HtmlEntry: regina <<<
 <h3>Etymology</h3>
-From {{etyl|la|it}} {{term|regina|rēgīna|lang=la}}; compare Spanish <em><a href="reina">reina</a></em>.
+From {{etyl|la|it}} {{term|regina|&#x72;&#x113;&#x67;&#x12b;&#x6e;&#x61;|lang=la}}; compare Spanish <em><a href="reina">reina</a></em>.
 <h3>Noun</h3>
 {{it-noun|regin|f|a|e}}
 <ol><li> <a href="queen">queen</a> (<em>monarch, male homosexual</em>)</li>
@@ -8146,7 +8221,7 @@ From {{etyl|la|it}} {{term|regina|rēgīna|lang=la}}; compare Spanish <em><a hre
 ===relegate===
 HtmlEntry: relegate <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/re.leˈɡa.te/}}</li>
+<ul><li> IPA: &#x2f;&#x72;&#x65;&#x2e;&#x6c;&#x65;&#x2c8;&#x261;&#x61;&#x2e;&#x74;&#x65;&#x2f;</li>
 <li> {{hyphenation|re|le|g&agrave;|te}}</li>
 </ul>
 
@@ -8167,7 +8242,7 @@ HtmlEntry: remake <<<
 ===remote===
 HtmlEntry: remote <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[reˈmɔː.t̪e]|/reˈmɔte/}}</li>
+<ul><li> IPA: &#x5b;&#x72;&#x65;&#x2c8;&#x6d;&#x254;&#x2d0;&#x2e;&#x74;&#x32a;&#x65;&#x5d;, &#x2f;&#x72;&#x65;&#x2c8;&#x6d;&#x254;&#x74;&#x65;&#x2f;</li>
 </ul>
 
 <h3>Adjective</h3>
@@ -8259,7 +8334,7 @@ HtmlEntry: rode <<<
 ===Romania===
 HtmlEntry: Romania <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/romaˈnia/}}</li>
+<ul><li> IPA: &#x2f;&#x72;&#x6f;&#x6d;&#x61;&#x2c8;&#x6e;&#x69;&#x61;&#x2f;</li>
 </ul>
 
 <h3>Proper noun</h3>
@@ -8330,13 +8405,13 @@ HtmlEntry: s <<<
 ===sabato===
 HtmlEntry: sabato <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈsabato/|[ˈsaː.ba.t̪o]}}, {{X-SAMPA|/&quot;sabato/}}</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x73;&#x61;&#x62;&#x61;&#x74;&#x6f;&#x2f;, &#x5b;&#x2c8;&#x73;&#x61;&#x2d0;&#x2e;&#x62;&#x61;&#x2e;&#x74;&#x32a;&#x6f;&#x5d;, {{X-SAMPA|/&quot;sabato/}}</li>
 <li> {{audio|It-sabato.ogg|audio}}</li>
 <li> {{hyphenation|s&agrave;|ba|to}}</li>
 </ul>
 
 <h3>Etymology</h3>
-From {{etyl|la|it}} <em><a href="sabbatum">sabbatum</a></em>, from {{etyl|grc|it}} {{term|σάββατον|Sabbath|tr=sabbaton|lang=grc|sc=Grek}}, from {{etyl|hbo|it}} {{term|שבת|Sabbath|tr=shabbat|sc=Hebr|lang=he}}; compare English {{term|Sabbath|lang=en}}.
+From {{etyl|la|it}} <em><a href="sabbatum">sabbatum</a></em>, from {{etyl|grc|it}} {{term|&#x3c3;&#x3ac;&#x3b2;&#x3b2;&#x3b1;&#x3c4;&#x3bf;&#x3bd;|Sabbath|tr=sabbaton|lang=grc|sc=Grek}}, from {{etyl|hbo|it}} {{term|&#x5e9;&#x5d1;&#x5ea;|Sabbath|tr=shabbat|sc=Hebr|lang=he}}; compare English {{term|Sabbath|lang=en}}.
 <h3>Noun</h3>
 {{it-noun|sabat|m|o|i}}
 <ol><li> <a href="Saturday">Saturday</a></li>
@@ -8356,7 +8431,7 @@ HtmlEntry: safari <<<
 ===sale===
 HtmlEntry: sale <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈsale/|[ˈsaː.le]}}, {{X-SAMPA|/&quot;sale/}}</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x73;&#x61;&#x6c;&#x65;&#x2f;, &#x5b;&#x2c8;&#x73;&#x61;&#x2d0;&#x2e;&#x6c;&#x65;&#x5d;, {{X-SAMPA|/&quot;sale/}}</li>
 <li> {{hyphenation|s&agrave;|le}}</li>
 </ul>
 
@@ -8408,7 +8483,7 @@ From {{etyl|la|it}} {{term|sal|salt|lang=la}}
 ===salsa===
 HtmlEntry: salsa <<<
 <h3>Etymology</h3>
-From {{etyl|VL.|it}} {{term|salsa|lang=la}}, noun use of the feminine of {{etyl|la|it}} <em><a href="salsus">salsus</a></em> ‘salted’, past participle of {{term|sallere|to salt|lang=la}}, from {{term|sal|lang=la}}.
+From {{etyl|VL.|it}} {{term|salsa|lang=la}}, noun use of the feminine of {{etyl|la|it}} <em><a href="salsus">salsus</a></em>&#x20;&#x2018;&#x73;&#x61;&#x6c;&#x74;&#x65;&#x64;&#x2019;&#x2c;&#x20;&#x70;&#x61;&#x73;&#x74;&#x20;&#x70;&#x61;&#x72;&#x74;&#x69;&#x63;&#x69;&#x70;&#x6c;&#x65;&#x20;&#x6f;&#x66;&#x20;{{term|sallere|to salt|lang=la}}, from {{term|sal|lang=la}}.
 <h3>Noun</h3>
 {{it-noun|sals|f|a|e}}
 <ol><li> <a href="sauce">sauce</a></li>
@@ -8441,7 +8516,7 @@ HtmlEntry: san <<<
 <h4>Noun</h4>
 {{head|it|noun|apocopate}} {m|inv}
 <ol><li> {{context|used before a consonant}} {{apocopic form of|santo}} <a href="saint">saint</a></li>
-<ul><li> <b><em>San</b> Pietro</em> — “Saint Peter”</li>
+<ul><li> <b><em>San</b> Pietro</em>&#x20;&#x2014;&#x20;&#x201c;&#x53;&#x61;&#x69;&#x6e;&#x74;&#x20;&#x50;&#x65;&#x74;&#x65;&#x72;&#x201d;</li>
 </ul>
 </ol>
 
@@ -8483,7 +8558,7 @@ HtmlEntry: scalene <<<
 ===se===
 HtmlEntry: se <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[se]}}</li>
+<ul><li> IPA: [se]</li>
 </ul>
 
 <h3>Etymology 1</h3>
@@ -8526,7 +8601,7 @@ HtmlEntry: seconde <<<
 ===secondo===
 HtmlEntry: secondo <<<{{ordinalbox|it|1st|2nd|3rd|primo|terzo|card=due}}
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/seˈkondo/}}</li>
+<ul><li> IPA: &#x2f;&#x73;&#x65;&#x2c8;&#x6b;&#x6f;&#x6e;&#x64;&#x6f;&#x2f;</li>
 <li> {{audio|It-un secondo.ogg|Audio}}</li>
 </ul>
 
@@ -8604,7 +8679,7 @@ HtmlEntry: segue <<<
 ===sei===
 HtmlEntry: sei <<<{{cardinalbox|it|5|6|7|cinque|sette|ord=sesto|mult=sestuplo}}
 <h3>Pronunciation</h3>
-<ul><li> s&egrave;i, {{IPA|/ˈsɛi/}}, {{X-SAMPA|/&quot;sEi/}}</li>
+<ul><li> s&egrave;i, IPA: &#x2f;&#x2c8;&#x73;&#x25b;&#x69;&#x2f;, {{X-SAMPA|/&quot;sEi/}}</li>
 </ul>
 
 <h3>Etymology</h3>
@@ -8648,8 +8723,8 @@ From {{etyl|la|it}} {{term|sex|lang=la}}.
 ===seme===
 HtmlEntry: seme <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[ˈseme]}}</li>
-<li> {{enPR|s&eacute;me}}, {{IPA|/ˈseme/}}, {{X-SAMPA|/&quot;seme/}}</li>
+<ul><li> IPA: &#x5b;&#x2c8;&#x73;&#x65;&#x6d;&#x65;&#x5d;</li>
+<li> {{enPR|s&eacute;me}}, IPA: &#x2f;&#x2c8;&#x73;&#x65;&#x6d;&#x65;&#x2f;, {{X-SAMPA|/&quot;seme/}}</li>
 </ul>
 
 <h3>Etymology</h3>
@@ -8789,7 +8864,7 @@ HtmlEntry: si <<<
 <h3>Pronoun</h3>
 {{head|it|pronoun}}
 <ol><li> {{context|indefinite}} <a href="one">one</a>, <a href="you">you</a>, <a href="we">we</a>, <a href="they">they</a>, <a href="people">people</a>. Note: often translated using the passive voice in English.</li>
-<ul><li> <em>Non <b>si</b> deve parlare cos&igrave;</em> (One/You/We/They/People shouldn’t speak like that)</li>
+<ul><li> <em>Non <b>si</b> deve parlare cos&igrave;</em>&#x20;&#x28;&#x4f;&#x6e;&#x65;&#x2f;&#x59;&#x6f;&#x75;&#x2f;&#x57;&#x65;&#x2f;&#x54;&#x68;&#x65;&#x79;&#x2f;&#x50;&#x65;&#x6f;&#x70;&#x6c;&#x65;&#x20;&#x73;&#x68;&#x6f;&#x75;&#x6c;&#x64;&#x6e;&#x2019;&#x74;&#x20;&#x73;&#x70;&#x65;&#x61;&#x6b;&#x20;&#x6c;&#x69;&#x6b;&#x65;&#x20;&#x74;&#x68;&#x61;&#x74;&#x29;</li>
 <li> <b><em>Si</b> parla italiano qui</em> (Italian is spoken here <em>or</em> One/You/We/They/People speak(s) Italian here)</li>
 </ul>
 <li> {reflexive} <a href="oneself">oneself</a>, <a href="himself">himself</a>, <a href="herself">herself</a>, <a href="itself">itself</a>, <a href="themselves">themselves</a>; (<em>reciprocal</em>) <a href="each other">each other</a>, <a href="one another">one another</a>. Note: With some verbs, <em>si</em> is not translated in English.</li>
@@ -8800,7 +8875,7 @@ HtmlEntry: si <<<
 </ul>
 <li> (<em>the so-called</em> <b><a href="si passivante">si passivante</a></b>, <em>used to form the passive voice of a verb</em>) <a href="it">it</a> (<em>but also see note below</em>). Note: <em>verb</em> + <em>si</em> is often translated as <em>become</em> or <em>get</em> + <em>past participle</em> in English.</li>
 <ul><li> <b><em>Si</b> dice che Maria voleva uccidere Giovanni</em> (It is said that Maria wanted to kill Giovanni).</li>
-<li> <em>Ci vuole un po’ di tempo per abituarsi</em> (It takes a while to become accustomed)</li>
+<li> <em>&#x43;&#x69;&#x20;&#x76;&#x75;&#x6f;&#x6c;&#x65;&#x20;&#x75;&#x6e;&#x20;&#x70;&#x6f;&#x2019;&#x20;&#x64;&#x69;&#x20;&#x74;&#x65;&#x6d;&#x70;&#x6f;&#x20;&#x70;&#x65;&#x72;&#x20;&#x61;&#x62;&#x69;&#x74;&#x75;&#x61;&#x72;&#x73;&#x69;</em> (It takes a while to become accustomed)</li>
 <li> <em>A Luca piace ubriacarsi</em> (Luca likes to get drunk)</li>
 </ul>
 </ol>
@@ -8905,7 +8980,7 @@ HtmlEntry: slogan <<<
 ===Slovenia===
 HtmlEntry: Slovenia <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/zloˈvɛnja/}}, {{X-SAMPA|/zlo&quot;vEnja/}}</li>
+<ul><li> IPA: &#x2f;&#x7a;&#x6c;&#x6f;&#x2c8;&#x76;&#x25b;&#x6e;&#x6a;&#x61;&#x2f;, {{X-SAMPA|/zlo&quot;vEnja/}}</li>
 </ul>
 
 <h3>Proper noun</h3>
@@ -8947,7 +9022,7 @@ HtmlEntry: sol <<<
 ===sole===
 HtmlEntry: sole <<<rightright
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[ˈsole]}}</li>
+<ul><li> IPA: &#x5b;&#x2c8;&#x73;&#x6f;&#x6c;&#x65;&#x5d;</li>
 </ul>
 
 <h3>Etymology 1</h3>
@@ -9353,7 +9428,7 @@ HtmlEntry: tau <<<
 ===te===
 HtmlEntry: te <<<
 <h3>Etymology</h3>
-From {{etyl|la|it}} {{term|te|tē|lang=la}}, from {{term|tu|tū|lang=la}}.
+From {{etyl|la|it}} {{term|te|&#x74;&#x113;|lang=la}}, from {{term|tu|&#x74;&#x16b;|lang=la}}.
 <h3>Pronoun</h3>
 {{head|it|pronoun}}
 <ol><li> (<em>emphasised objective of <a href="tu#Italian">tu</a></em>) <a href="you">you</a></li>
@@ -9385,7 +9460,7 @@ HtmlEntry: tempo <<<
 <h3>Etymology</h3>
 {{etyl|la|it}} {{term|tempus|lang=la}}
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[ˈtempo]}}</li>
+<ul><li> IPA: &#x5b;&#x2c8;&#x74;&#x65;&#x6d;&#x70;&#x6f;&#x5d;</li>
 <li> {{audio|it-tempo.ogg|Audio}}</li>
 </ul>
 
@@ -9461,7 +9536,7 @@ HtmlEntry: test <<<
 ===testa===
 HtmlEntry: testa <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[ˈtɛsta]}}</li>
+<ul><li> IPA: &#x5b;&#x2c8;&#x74;&#x25b;&#x73;&#x74;&#x61;&#x5d;</li>
 <li> {{audio|It-la testa.ogg|Audio}}</li>
 <li> {{audio|It-testa.ogg|Audio}}</li>
 </ul>
@@ -9509,7 +9584,7 @@ From {{etyl|la|it}} {{term|testa|lang=la}}.
 ===theta===
 HtmlEntry: theta <<<
 <h3>Etymology</h3>
-From the {{etyl|grc|it}} {{term|θῆτα|tr=thēta|lang=grc}}.
+From the {{etyl|grc|it}} {{term|&#x3b8;&#x1fc6;&#x3c4;&#x3b1;|tr=&#x74;&#x68;&#x113;&#x74;&#x61;|lang=grc}}.
 <h3>Noun</h3>
 {{head|it|noun}} {m|f|inv}
 <ol><li> <a href="#English">theta</a> (Greek letter)</li>
@@ -9678,11 +9753,11 @@ HtmlEntry: transitive <<<
 ===tre===
 HtmlEntry: tre <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[tre]}}</li>
+<ul><li> IPA: [tre]</li>
 </ul>
 
 <h3>Etymology</h3>
-From {{etyl|la|it}} {{term|tres|trēs|lang=la}}, from {{proto|Indo-European|tr&eacute;yes}}.{{cardinalbox|it|2|3|4|due|quattro|ord=terzo|mult=triplo}}
+From {{etyl|la|it}} {{term|tres|&#x74;&#x72;&#x113;&#x73;|lang=la}}, from {{proto|Indo-European|tr&eacute;yes}}.{{cardinalbox|it|2|3|4|due|quattro|ord=terzo|mult=triplo}}
 <h3>Adjective</h3>
 {{head|it|adjective|g=m|g2=f}} {inv}
 <ol><li> <a href="three">three</a></li>
@@ -9720,7 +9795,7 @@ HtmlEntry: tredici <<<{{cardinalbox|it|12|13|14|dodici|quattordici|ord=tredicesi
 <h3>Etymology</h3>
 From {{etyl|la|it}} {{term|tredecim|lang=la}}.
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈtreditʃi/|[ˈt̪reː.d̪i.t͡ʃi]}}, {{X-SAMPA|/&quot;treditSi/}}</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x74;&#x72;&#x65;&#x64;&#x69;&#x74;&#x283;&#x69;&#x2f;, &#x5b;&#x2c8;&#x74;&#x32a;&#x72;&#x65;&#x2d0;&#x2e;&#x64;&#x32a;&#x69;&#x2e;&#x74;&#x361;&#x283;&#x69;&#x5d;, {{X-SAMPA|/&quot;treditSi/}}</li>
 <li> {{hyphenation|tr&eacute;|di|ci}}</li>
 </ul>
 
@@ -9772,7 +9847,7 @@ HtmlEntry: tu <<<
 <h3>Etymology</h3>
 From {{etyl|la|it}} {{term|tu|lang=la}}.
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/tu/}}, {{X-SAMPA|/tu/}}</li>
+<ul><li> IPA: /tu/, {{X-SAMPA|/tu/}}</li>
 <li> {{audio|It-tu.ogg|Audio}}</li>
 </ul>
 
@@ -9895,7 +9970,7 @@ HtmlEntry: Umbria <<<
 ===un===
 HtmlEntry: un <<<
 <h3>Etymology</h3>
-From {{term|uno}}, from {{etyl|la|it}} {{term|unus|ūnus|one}}.
+From {{term|uno}}, from {{etyl|la|it}} {{term|unus|&#x16b;&#x6e;&#x75;&#x73;|one}}.
 <h3>Article</h3>
 {{head|it|article|gender=m}} (<em>see</em> <a href="uno">uno</a>)
 <ol><li> <a href="an">an</a>, <a href="a">a</a></li>
@@ -9919,9 +9994,9 @@ From {{term|uno}}, from {{etyl|la|it}} {{term|unus|ūnus|one}}.
 ===undici===
 HtmlEntry: undici <<<{{cardinalbox|it|10|11|12|dieci|dodici|ord=undicesimo}}
 <h3>Etymology</h3>
-From {{etyl|la|it}} {{term|undecim|ūndecim|lang=la}}.
+From {{etyl|la|it}} {{term|undecim|&#x16b;&#x6e;&#x64;&#x65;&#x63;&#x69;&#x6d;|lang=la}}.
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈunditʃi/|[ˈun.d̪i.t͡ʃi]}}, {{X-SAMPA|/&quot;unditSi/}}</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x75;&#x6e;&#x64;&#x69;&#x74;&#x283;&#x69;&#x2f;, &#x5b;&#x2c8;&#x75;&#x6e;&#x2e;&#x64;&#x32a;&#x69;&#x2e;&#x74;&#x361;&#x283;&#x69;&#x5d;, {{X-SAMPA|/&quot;unditSi/}}</li>
 <li> {{hyphenation|un|di|ci}}</li>
 </ul>
 
@@ -9949,9 +10024,9 @@ From {{etyl|la|it}} {{term|undecim|ūndecim|lang=la}}.
 ===uno===
 HtmlEntry: uno <<<
 <h3>Etymology</h3>
-From {{etyl|la|it}} {{term|unus|ūnus|lang=la}}.
+From {{etyl|la|it}} {{term|unus|&#x16b;&#x6e;&#x75;&#x73;|lang=la}}.
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|[ˈuno]}}</li>
+<ul><li> IPA: &#x5b;&#x2c8;&#x75;&#x6e;&#x6f;&#x5d;</li>
 <li> {{audio|it-uno.ogg|Audio (IT)}}</li>
 </ul>
 
@@ -9976,7 +10051,7 @@ From {{etyl|la|it}} {{term|unus|ūnus|lang=la}}.
 <h3>Pronoun</h3>
 <b>uno</b> {m} ({f} <b>una</b>)
 <ol><li> <a href="someone">someone</a>, a <a href="person">person</a></li>
-<li> <em>Sono uno a cui piace alzarsi presto</em> - I’m someone who likes getting up early <em>or</em> I’m a person who likes getting up early</li>
+<li> <em>Sono uno a cui piace alzarsi presto</em>&#x20;&#x2d;&#x20;&#x49;&#x2019;&#x6d;&#x20;&#x73;&#x6f;&#x6d;&#x65;&#x6f;&#x6e;&#x65;&#x20;&#x77;&#x68;&#x6f;&#x20;&#x6c;&#x69;&#x6b;&#x65;&#x73;&#x20;&#x67;&#x65;&#x74;&#x74;&#x69;&#x6e;&#x67;&#x20;&#x75;&#x70;&#x20;&#x65;&#x61;&#x72;&#x6c;&#x79;&#x20;<em>or</em>&#x20;&#x49;&#x2019;&#x6d;&#x20;&#x61;&#x20;&#x70;&#x65;&#x72;&#x73;&#x6f;&#x6e;&#x20;&#x77;&#x68;&#x6f;&#x20;&#x6c;&#x69;&#x6b;&#x65;&#x73;&#x20;&#x67;&#x65;&#x74;&#x74;&#x69;&#x6e;&#x67;&#x20;&#x75;&#x70;&#x20;&#x65;&#x61;&#x72;&#x6c;&#x79;</li>
 </ol>
 
 <h3>Cardinal number</h3>
@@ -10009,9 +10084,9 @@ HtmlEntry: Uruguay <<<
 ===utopia===
 HtmlEntry: utopia <<<
 <h3>Etymology</h3>
-From {{etyl|NL.|it}} {{term|Utopia}}, the name of a fictional island, possessing a seemingly perfect socio-politico-legal system in the book <em>Utopia</em> (1516) by Sir Thomas More. Coined from {{etyl|grc|it}} {{term|οὐ|not, no|tr=ou|lang=grc}} + {{term|τόπος|place, region|tr=topos|lang=grc}}.
+From {{etyl|NL.|it}} {{term|Utopia}}, the name of a fictional island, possessing a seemingly perfect socio-politico-legal system in the book <em>Utopia</em> (1516) by Sir Thomas More. Coined from {{etyl|grc|it}} {{term|&#x3bf;&#x1f50;|not, no|tr=ou|lang=grc}} + {{term|&#x3c4;&#x3cc;&#x3c0;&#x3bf;&#x3c2;|place, region|tr=topos|lang=grc}}.
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/utoːpja/}}, {{X-SAMPA|/uto:pja/}}</li>
+<ul><li> IPA: &#x2f;&#x75;&#x74;&#x6f;&#x2d0;&#x70;&#x6a;&#x61;&#x2f;, {{X-SAMPA|/uto:pja/}}</li>
 <li> {{hyphenation|u|to|p&igrave;|a}}</li>
 </ul>
 
@@ -10036,7 +10111,7 @@ From {{etyl|NL.|it}} {{term|Utopia}}, the name of a fictional island, possessing
 ===uva===
 HtmlEntry: uva <<<right
 <h3>Etymology</h3>
-From {{etyl|la|it}} {{term|uva|ūva|lang=la}}.
+From {{etyl|la|it}} {{term|uva|&#x16b;&#x76;&#x61;|lang=la}}.
 <h3>Pronunciation</h3>
 <ul><li> {{audio|It-l'uva.ogg|Audio}}</li>
 </ul>
@@ -10184,11 +10259,11 @@ HtmlEntry: vermut <<<
 ===vero===
 HtmlEntry: vero <<<
 <h3>Etymology</h3>
-From {{etyl|la|it}} {{term|verus|vērus|true|lang=la}}.
+From {{etyl|la|it}} {{term|verus|&#x76;&#x113;&#x72;&#x75;&#x73;|true|lang=la}}.
 <h3>Pronunciation</h3>
 <ul><li> {{audio|It-vero.ogg|Audio}}</li>
 </ul>
-v&eacute;ro, /ˈvero/, /&lt;tt&gt;&quot;vero&lt;/tt&gt;/
+&#x76;&#xe9;&#x72;&#x6f;&#x2c;&#x20;&#x2f;&#x2c8;&#x76;&#x65;&#x72;&#x6f;&#x2f;&#x2c;&#x20;&#x2f;&#x3c;&#x74;&#x74;&#x3e;&#x22;&#x76;&#x65;&#x72;&#x6f;&#x3c;&#x2f;&#x74;&#x74;&#x3e;&#x2f;
 <h3>Adjective</h3>
 {{it-adj|ver}}
 <ol><li> <a href="true">true</a></li>
@@ -10325,11 +10400,11 @@ HtmlEntry: vodka <<<
 ===voi===
 HtmlEntry: voi <<<
 <h3>Etymology</h3>
-From {{etyl|la|it}} {{term|vos|vōs|lang=la}}.
+From {{etyl|la|it}} {{term|vos|&#x76;&#x14d;&#x73;|lang=la}}.
 <h3>Pronunciation</h3>
 <ul><li> {{audio|It-voi.ogg|Audio}}</li>
 </ul>
-v&oacute;i, /ˈvoi/, /&lt;tt&gt;&quot;voi&lt;/tt&gt;/
+&#x76;&#xf3;&#x69;&#x2c;&#x20;&#x2f;&#x2c8;&#x76;&#x6f;&#x69;&#x2f;&#x2c;&#x20;&#x2f;&#x3c;&#x74;&#x74;&#x3e;&#x22;&#x76;&#x6f;&#x69;&#x3c;&#x2f;&#x74;&#x74;&#x3e;&#x2f;
 <h3>Pronoun</h3>
 <b>voi</b>
 <ol><li> The second person plural familiar pronoun, <b>voi</b> refers to the persons who are spoken or written to: <a href="you">you</a>.</li>
@@ -10404,7 +10479,7 @@ HtmlEntry: w <<<
 ===water===
 HtmlEntry: water <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/'vater/}}, {{X-SAMPA|/'vater/}}</li>
+<ul><li> IPA: /'vater/, {{X-SAMPA|/'vater/}}</li>
 </ul>
 
 <h3>Etymology</h3>
@@ -10453,8 +10528,8 @@ HtmlEntry: wireless <<<
 ===X===
 HtmlEntry: X <<<
 <h3>Pronunciation</h3>
-<ul><li> (name of letter) {{IPA|/iks/}}</li>
-<li> (phonetic realization) {{IPA|[ks]}}</li>
+<ul><li> (name of letter) IPA: /iks/</li>
+<li> (phonetic realization) IPA: [ks]</li>
 </ul>
 
 <h3>Letter</h3>
@@ -10543,7 +10618,7 @@ HtmlEntry: Zambia <<<
 ===Zanzibar===
 HtmlEntry: Zanzibar <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/dzandzibar/}}</li>
+<ul><li> IPA: /dzandzibar/</li>
 </ul>
 
 <h3>Proper noun</h3>
@@ -10562,7 +10637,7 @@ HtmlEntry: zebra <<<
 ===zero===
 HtmlEntry: zero <<<{{cardinalbox|it|0|1|uno|ord=zeresimo}}
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈdzɛro/|[ˈd̪͡z̪ɛː.ro]}}, {{X-SAMPA|/&quot;dzEro/}}</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x64;&#x7a;&#x25b;&#x72;&#x6f;&#x2f;, &#x5b;&#x2c8;&#x64;&#x32a;&#x361;&#x7a;&#x32a;&#x25b;&#x2d0;&#x2e;&#x72;&#x6f;&#x5d;, {{X-SAMPA|/&quot;dzEro/}}</li>
 <li> {{hyphenation|z&egrave;|ro}}</li>
 </ul>
 
@@ -10592,7 +10667,7 @@ HtmlEntry: zero <<<{{cardinalbox|it|0|1|uno|ord=zeresimo}}
 ===zeta===
 HtmlEntry: zeta <<<
 <h3>Etymology</h3>
-From the {{etyl|grc|it}} {{term|ζῆτα|tr=zēta|lang=grc}}.
+From the {{etyl|grc|it}} {{term|&#x3b6;&#x1fc6;&#x3c4;&#x3b1;|tr=&#x7a;&#x113;&#x74;&#x61;|lang=grc}}.
 <h3>Noun</h3>
 {{head|it|noun}} {m|f|inv}
 <ol><li> <a href="#English">zeta</a>; The letter <a href="Z">Z</a>/<a href="z">z</a> in the Italian and Greek alphabets</li>
@@ -10616,7 +10691,7 @@ HtmlEntry: Zimbabwe <<<
 ===zoo===
 HtmlEntry: zoo <<<
 <h3>Pronunciation</h3>
-<ul><li> {{IPA|/ˈdzɔ.o/}}, {{X-SAMPA|/&quot;dzO.o/}}</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x64;&#x7a;&#x254;&#x2e;&#x6f;&#x2f;, {{X-SAMPA|/&quot;dzO.o/}}</li>
 </ul>
 
 <h3>Noun</h3>

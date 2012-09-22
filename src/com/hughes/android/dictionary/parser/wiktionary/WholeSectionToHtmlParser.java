@@ -6,8 +6,10 @@ import com.hughes.android.dictionary.engine.IndexBuilder;
 import com.hughes.android.dictionary.engine.IndexBuilder.TokenData;
 import com.hughes.android.dictionary.engine.IndexedEntry;
 import com.hughes.android.dictionary.parser.WikiTokenizer;
+import com.hughes.util.StringUtil;
 
 import org.apache.commons.lang3.StringEscapeUtils;
+import org.apache.commons.lang3.StringUtils;
 
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
@@ -96,6 +98,8 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
     @Override
     void removeUselessArgs(Map<String, String> namedArgs) {
     }
+    
+    static final Pattern ALL_ASCII = Pattern.compile("[\\p{ASCII}]*");
 
     class AppendCallback extends AppendAndIndexWikiCallback<WholeSectionToHtmlParser> {
         public AppendCallback(WholeSectionToHtmlParser parser) {
@@ -104,7 +108,12 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
 
         @Override
         public void onPlainText(String plainText) {
-            super.onPlainText(StringEscapeUtils.escapeHtml3(plainText));
+            final String htmlEscaped = StringEscapeUtils.escapeHtml3(plainText);
+            if (ALL_ASCII.matcher(htmlEscaped).matches()) {
+                super.onPlainText(htmlEscaped);
+            } else { 
+                super.onPlainText(StringUtil.escapeToPureHtmlUnicode(plainText));
+            }
         }
 
         @Override
