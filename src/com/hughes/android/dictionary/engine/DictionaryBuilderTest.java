@@ -19,6 +19,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.PrintStream;
 import java.io.RandomAccessFile;
+import java.util.Collections;
 
 import com.hughes.android.dictionary.parser.wiktionary.EnTranslationToTranslationParser;
 import com.hughes.android.dictionary.parser.wiktionary.WholeSectionToHtmlParser;
@@ -35,6 +36,46 @@ public class DictionaryBuilderTest extends TestCase {
 
   public static final String TEST_OUTPUTS = "testdata/outputs/";
 
+  public void testItConj() throws Exception {
+      final String toParse = "{{it-conj-are|d|avere|pres2s=dai|pres3s=dà|pres3p=danno|prem1s=diedi|prem1s2=detti|prem2s=desti|prem3s=diede|prem3s2=dette|prem1p=demmo|prem2p=deste|prem3p=diedero|prem3p2=dettero|fut1s=darò|fut2s=darai|fut3s=darà|fut1p=daremo|fut2p=darete|fut3p=daranno|cond1s=darei|cond2s=daresti|cond3s=darebbe|cond1p=daremmo|cond2p=dareste|cond3p=darebbero|sub123s=dia|sub3p=diano|impsub12s=dessi|impsub3s=desse|impsub1p=dessimo|impsub2p=deste|impsub3p=dessero|imp2s=dà|imp2s2=dai|imp2s3=da'|imp3s=dia|imp3p=diano}}\n" +
+              "{{it-conj-are|accus|avere}}\n" +
+              "{{it-conj-care|pag|avere or essere}}\n" +
+              "{{it-conj-iare|studi|avere}}\n" +
+              "{{it-conj-iare-b|avvi|avere}}\n" +
+              "{{it-conj-ciare|pronunc|avere}}\n" +
+              "{{it-conj-ere|sed|essere|pres1s=siedo|pres1s2=seggo|pres2s=siedi|pres3s=siede|pres3p=siedono|pres3p2=seggono|fut1s2=siederò|fut2s2=siederai|fut3s2=siederà|fut1p2=siederemo|fut2p2=siederete|fut3p2=siederanno|cond1s2=siederei|cond2s2=siederesti|cond3s2=siederebbe|cond1p2=siederemmo|cond2p2=siedereste|cond3p2=siederebbero|sub123s=sieda|sub3p=siedano|imp2s=siedi|imp3s=sieda|imp3s2=segga|imp3p=siedano|imp3p2=seggano}}\n" +
+              "{{it-conj-ere|persuad|avere|pastp=persuaso|prem1s=persuasi|prem3s=persuase|prem3s2=''|prem3p=persuasero|prem3p2=''}}\n" +
+              "{{it-conj-ere|abbatt|avere}}\n" +
+              "{{it-conj-ire|copr|avere|pastp=coperto|prem1s2=copersi|prem3s2=coperse|prem3p2=copersero}}\n" +
+              "{{it-conj-ire-b|prefer|avere}}\n" +
+              "{{it-conj-urre|prod|avere}}\n" +
+              "{{it-conj-arsi|lav}}\n" +
+              "{{it-conj-ersi|abbatt}}\n" +
+              "{{it-conj-iarsi|annoi}}\n" +
+              "{{it-conj-carsi|coniug}\n" +
+              "{{it-conj-ciarsi|affacc}\n" +
+              "{{it-conj-irsi|vest}}\n" +
+              "{{it-conj-irsi-b|fer}}\n" +
+              "{{it-conj-ursi|rid|essere}}\n" +
+              "{{it-conj-cire|ricuc|avere}}\n" +
+              "{{it-conj-iarsi-b|riavvi|essere}}" +
+              "{{it-conj-fare|putre|avere}}\n" + 
+              "{{it-conj-cirsi|cuc|essere}}\n"
+              ;
+      final DictionaryBuilder db = new DictionaryBuilder("", Language.en, Language.it,  "", "", Collections.singleton("X"), Collections.singleton("X"));
+      WholeSectionToHtmlParser parser = new WholeSectionToHtmlParser(db.indexBuilders.get(0), "EN", "IT");
+      parser.title = "dummyTitle";
+      parser.parseSection("dummyHeading", toParse);
+      db.build();
+      
+      final String dictName = "testItConj.html";
+      final PrintStream out = new PrintStream(new File(TEST_OUTPUTS, dictName));
+      db.dictionary.print(out);
+      out.close();
+      
+      assertFilesEqual(GOLDENS + dictName, TEST_OUTPUTS + dictName);
+  }
+  
   public void doTestCustomDict(final String name, final String lang1,
       final String lang2, final String inputFile) throws Exception {
     final File result = new File(TEST_OUTPUTS + name);

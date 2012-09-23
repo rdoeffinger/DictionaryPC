@@ -48,7 +48,7 @@ public abstract class AbstractWiktionaryParser implements Parser {
   final Set<String> pairsAdded = new LinkedHashSet<String>();
   
   EntrySource entrySource;
-  String title;
+  public String title;
 
 
   abstract void parseSection(final String heading, final String text);

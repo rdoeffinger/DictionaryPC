@@ -364,7 +364,8 @@ HtmlEntry: accreditare <<<
 <tr><th colspan="1" style="background:#c0e4c0">imperfect</th><td>accreditassi</td><td>accreditassi</td><td>accreditasse</td><td>accreditassimo</td><td>accreditaste</td><td>accreditassero</td></tr>
 <tr><th colspan="1" style="background:#e4d4c0">imperative</th><th style="background:#e4d4c0">-</th><th style="background:#e4d4c0">tu</th><th style="background:#e4d4c0">lui/lei</th><th style="background:#e4d4c0">noi</th><th style="background:#e4d4c0">voi</th><th style="background:#e4d4c0">essi/esse</th></tr>
 <tr><th colspan="1" style="background:#e4d4c0"></th><td></td><td>accredita</td><td>accrediti</td><td>accreditiamo</td><td>accreditate</td><td>accreditino</td></tr>
-</table>>>>
+</table>
+>>>
 ===accresce===
 HtmlEntry: accresce <<<
 <h3>Verb</h3>
@@ -438,7 +439,8 @@ HtmlEntry: accusare <<<
 <tr><th colspan="1" style="background:#c0e4c0">imperfect</th><td>accusassi</td><td>accusassi</td><td>accusasse</td><td>accusassimo</td><td>accusaste</td><td>accusassero</td></tr>
 <tr><th colspan="1" style="background:#e4d4c0">imperative</th><th style="background:#e4d4c0">-</th><th style="background:#e4d4c0">tu</th><th style="background:#e4d4c0">lui/lei</th><th style="background:#e4d4c0">noi</th><th style="background:#e4d4c0">voi</th><th style="background:#e4d4c0">essi/esse</th></tr>
 <tr><th colspan="1" style="background:#e4d4c0"></th><td></td><td>accusa</td><td>accusi</td><td>accusiamo</td><td>accusate</td><td>accusino</td></tr>
-</table>>>>
+</table>
+>>>
 ===accusato===
 HtmlEntry: accusato <<<
 <h3>Noun</h3>
@@ -3261,6 +3263,7 @@ From {{etyl|la|it}} {{term|dare|lang=la}}, present active infinitive of {{term|d
 <tr><th colspan="1" style="background:#e4d4c0">imperative</th><th style="background:#e4d4c0">-</th><th style="background:#e4d4c0">tu</th><th style="background:#e4d4c0">lui/lei</th><th style="background:#e4d4c0">noi</th><th style="background:#e4d4c0">voi</th><th style="background:#e4d4c0">essi/esse</th></tr>
 <tr><th colspan="1" style="background:#e4d4c0"></th><td></td><td>d&agrave;, dai, da'</td><td>dia</td><td>diamo</td><td>date</td><td>diano</td></tr>
 </table>
+
 <h4>Usage notes</h4>
 The imperative forms of the second-person singular are compounded with pronouns as follows:
 <ul><li> {{l|it|da'}} + {{l|it|ci}}&#x20;&#x2192;&#x20;{{l|it|dacci}}</li>
@@ -3906,7 +3909,8 @@ From {{etyl|la|it}} <em><a href="implere">&#x69;&#x6d;&#x70;&#x6c;&#x113;&#x72;&
 <tr><th colspan="1" style="background:#c0e4c0">imperfect</th><td>empissi</td><td>empissi</td><td>empisse</td><td>empissimo</td><td>empiste</td><td>empissero</td></tr>
 <tr><th colspan="1" style="background:#e4d4c0">imperative</th><th style="background:#e4d4c0">-</th><th style="background:#e4d4c0">tu</th><th style="background:#e4d4c0">lui/lei</th><th style="background:#e4d4c0">noi</th><th style="background:#e4d4c0">voi</th><th style="background:#e4d4c0">essi/esse</th></tr>
 <tr><th colspan="1" style="background:#e4d4c0"></th><td></td><td>empi</td><td>empia</td><td>empiamo</td><td>empite</td><td>empiano</td></tr>
-</table>>>>
+</table>
+>>>
 ===emulate===
 HtmlEntry: emulate <<<
 <h3>Verb</h3>
@@ -4032,6 +4036,7 @@ From {{etyl|la|it}} <em><a href="esse">esse</a></em>, present active infinitive 
 <tr><th colspan="1" style="background:#e4d4c0">imperative</th><th style="background:#e4d4c0">-</th><th style="background:#e4d4c0">tu</th><th style="background:#e4d4c0">lui/lei</th><th style="background:#e4d4c0">noi</th><th style="background:#e4d4c0">voi</th><th style="background:#e4d4c0">essi/esse</th></tr>
 <tr><th colspan="1" style="background:#e4d4c0"></th><td></td><td>sii</td><td>sia</td><td>siamo</td><td>siate</td><td>siano</td></tr>
 </table>
+
 <h3>Noun</h3>
 {{it-noun|esser|m|e|i}}
 <ol><li> <a href="being">being</a></li>

@@ -1,0 +1,127 @@
+    <title>Template:it-conj-iare</title>
+    <ns>10</ns>
+    <id>71712</id>
+    <revision>
+      <id>9534766</id>
+      <parentid>9326052</parentid>
+      <timestamp>2010-07-24T23:11:42Z</timestamp>
+      <contributor>
+        <username>Bequw</username>
+        <id>36224</id>
+      </contributor>
+      <comment>+{{documentation}}</comment>
+      <sha1>ekl1e9o2x8hsas9t1xckhkn7b6z5n7l</sha1>
+      <text xml:space="preserve">{{it-conj
+&lt;!-- If a parameter has been specified, pass it on, else generate it here --&gt;
+&lt;!-- The same construction is used for most other forms. --&gt;
+|inf={{#if:{{{inf|}}}|{{{inf}}}|{{{1}}}are}}
+|aux={{{2}}}
+&lt;!-- The following logic is used if a parameter, normally generated here, is to be either modified or nullified --&gt;
+&lt;!-- If parameter is specified --&gt;
+&lt;!--    If specified as '', then nullify it --&gt;
+&lt;!--    else pass it on --&gt;
+&lt;!-- else generate it --&gt;
+|ger={{#if:{{{ger|}}}|{{#ifeq:{{{ger|}}}|''||{{{ger}}}}}|{{{1}}}ando}}
+&lt;!-- If an alternative form has been specified, pass it on. --&gt;
+|ger2={{#if:{{{ger2|}}}|{{{ger2}}}|}}
+&lt;!-- Present participle - same logic as gerund --&gt;
+|presp={{#if:{{{presp|}}}|{{#ifeq:{{{presp|}}}|''||{{{presp}}}}}|{{{1}}}ante}}
+|presp2={{#if:{{{presp2|}}}|{{{presp2}}}|}}
+&lt;!-- Past participle - same logic as gerund --&gt;
+|pastp={{#if:{{{pastp|}}}|{{#ifeq:{{{pastp|}}}|''||{{{pastp}}}}}|{{{1}}}ato}}
+|pastp2={{#if:{{{pastp2|}}}|{{{pastp2}}}|}}
+|pastp3={{#if:{{{pastp3|}}}|{{{pastp3}}}|}}
+|pastp4={{#if:{{{pastp4|}}}|{{{pastp4}}}|}}
+|pres1s={{#if:{{{pres1s|}}}|{{{pres1s}}}|{{{1}}}o}}
+|pres1s2={{#if:{{{pres1s2|}}}|{{{pres1s2}}}|}}
+|pres2s={{#if:{{{pres2s|}}}|{{{pres2s}}}|{{{1}}}}}
+|pres2s2={{#if:{{{pres2s2|}}}|{{{pres2s2}}}|}}
+|pres3s={{#if:{{{pres3s|}}}|{{{pres3s}}}|{{{1}}}a}}
+|pres3s2={{#if:{{{pres3s2|}}}|{{{pres3s2}}}|}}
+|pres1p={{#if:{{{pres1p|}}}|{{{pres1p}}}|{{{1}}}amo}}
+|pres1p2={{#if:{{{pres1p2|}}}|{{{pres1p2}}}|}}
+|pres2p={{#if:{{{pres2p|}}}|{{{pres2p}}}|{{{1}}}ate}}
+|pres2p2={{#if:{{{pres2p2|}}}|{{{pres2p2}}}|}}
+|pres3p={{#if:{{{pres3p|}}}|{{{pres3p}}}|{{{1}}}ano}}
+|pres3p2={{#if:{{{pres3p2|}}}|{{{pres3p2}}}|}}
+|imperf1s={{#if:{{{imperf1s|}}}|{{{imperf1s}}}|{{{1}}}avo}}
+|imperf1s2={{#if:{{{imperf1s2|}}}|{{{imperf1s2}}}|}}
+|imperf2s={{#if:{{{imperf2s|}}}|{{{imperf2s}}}|{{{1}}}avi}}
+|imperf2s2={{#if:{{{imperf2s2|}}}|{{{imperf2s2}}}|}}
+|imperf3s={{#if:{{{imperf3s|}}}|{{{imperf3s}}}|{{{1}}}ava}}
+|imperf3s2={{#if:{{{imperf3s2|}}}|{{{imperf3s2}}}|}}
+|imperf1p={{#if:{{{imperf1p|}}}|{{{imperf1p}}}|{{{1}}}avamo}}
+|imperf1p2={{#if:{{{imperf1p2|}}}|{{{imperf1p2}}}|}}
+|imperf2p={{#if:{{{imperf2p|}}}|{{{imperf2p}}}|{{{1}}}avate}}
+|imperf2p2={{#if:{{{imperf2p2|}}}|{{{imperf2p2}}}|}}
+|imperf3p={{#if:{{{imperf3p|}}}|{{{imperf3p}}}|{{{1}}}avano}}
+|imperf3p2={{#if:{{{imperf2p2|}}}|{{{imperf2p2}}}|}}
+|prem1s={{#if:{{{prem1s|}}}|{{{prem1s}}}|{{{1}}}ai}}
+|prem1s2={{#if:{{{prem1s2|}}}|{{{prem1s2}}}|}}
+|prem1s3={{#if:{{{prem1s3|}}}|{{{prem1s3}}}|}}
+|prem2s={{#if:{{{prem2s|}}}|{{{prem2s}}}|{{{1}}}asti}}
+|prem2s2={{#if:{{{prem2s2|}}}|{{{prem2s2}}}|}}
+|prem3s={{#if:{{{prem3s|}}}|{{{prem3s}}}|{{{1}}}ò}}
+|prem3s2={{#if:{{{prem3s2|}}}|{{{prem3s2}}}|}}
+|prem1p={{#if:{{{prem1p|}}}|{{{prem1p}}}|{{{1}}}ammo}}
+|prem1p2={{#if:{{{prem1p2|}}}|{{{prem1p2}}}|}}
+|prem2p={{#if:{{{prem2p|}}}|{{{prem2p}}}|{{{1}}}aste}}
+|prem2p2={{#if:{{{prem2p2|}}}|{{{prem2p2}}}|}}
+|prem3p={{#if:{{{prem3p|}}}|{{{prem3p}}}|{{{1}}}arono}}
+|prem3p2={{#if:{{{prem3p2|}}}|{{{prem3p2}}}|}}
+|prem3p3={{#if:{{{prem3p3|}}}|{{{prem3p3}}}|}}
+&lt;!-- Future and conditional - same logic as gerund --&gt;
+|fut1s={{#if:{{{fut1s|}}}|{{#ifeq:{{{fut1s|}}}|''||{{{fut1s}}}}}|{{{1}}}erò}}
+|fut1s2={{#if:{{{fut1s2|}}}|{{{fut1s2}}}|}}
+|fut2s={{#if:{{{fut2s|}}}|{{#ifeq:{{{fut2s|}}}|''||{{{fut2s}}}}}|{{{1}}}erai}}
+|fut2s2={{#if:{{{fut2s2|}}}|{{{fut2s2}}}|}}
+|fut3s={{#if:{{{fut3s|}}}|{{#ifeq:{{{fut3s|}}}|''||{{{fut3s}}}}}|{{{1}}}erà}}
+|fut3s2={{#if:{{{fut3s2|}}}|{{{fut3s2}}}|}}
+|fut1p={{#if:{{{fut1p|}}}|{{#ifeq:{{{fut1p|}}}|''||{{{fut1p}}}}}|{{{1}}}eremo}}
+|fut1p2={{#if:{{{fut1p2|}}}|{{{fut1p2}}}|}}
+|fut2p={{#if:{{{fut2p|}}}|{{#ifeq:{{{fut2p|}}}|''||{{{fut2p}}}}}|{{{1}}}erete}}
+|fut2p2={{#if:{{{fut2p2|}}}|{{{fut2p2}}}|}}
+|fut3p={{#if:{{{fut3p|}}}|{{#ifeq:{{{fut3p|}}}|''||{{{fut3p}}}}}|{{{1}}}eranno}}
+|fut3p2={{#if:{{{fut3p2|}}}|{{{fut3p2}}}|}}
+|cond1s={{#if:{{{cond1s|}}}|{{#ifeq:{{{cond1s|}}}|''||{{{cond1s}}}}}|{{{1}}}erei}}
+|cond1s2={{#if:{{{cond1s2|}}}|{{{cond1s2}}}|}}
+|cond2s={{#if:{{{cond2s|}}}|{{#ifeq:{{{cond2s|}}}|''||{{{cond2s}}}}}|{{{1}}}eresti}}|cond2s2={{#if:{{{cond2s2|}}}|{{{cond2s2}}}|}}
+|cond3s={{#if:{{{cond3s|}}}|{{#ifeq:{{{cond3s|}}}|''||{{{cond3s}}}}}|{{{1}}}erebbe}}
+|cond3s2={{#if:{{{cond3s2|}}}|{{{cond3s2}}}|}}
+|cond1p={{#if:{{{cond1p|}}}|{{#ifeq:{{{cond1p|}}}|''||{{{cond1p}}}}}|{{{1}}}eremmo}}
+|cond1p2={{#if:{{{cond1p2|}}}|{{{cond1p2}}}|}}
+|cond2p={{#if:{{{cond2p|}}}|{{#ifeq:{{{cond2p|}}}|''||{{{cond2p}}}}}|{{{1}}}ereste}}
+|cond2p2={{#if:{{{cond2p2|}}}|{{{cond2p2}}}|}}
+|cond3p={{#if:{{{cond3p|}}}|{{#ifeq:{{{cond3p|}}}|''||{{{cond3p}}}}}|{{{1}}}erebbero}}
+|cond3p2={{#if:{{{cond2p2|}}}|{{{cond2p2}}}|}}
+|sub123s={{#if:{{{sub123s|}}}|{{{sub123s}}}|{{{1}}}}}
+|sub123s2={{#if:{{{sub123s2|}}}|{{{sub123s2}}}|}}
+|sub1p={{#if:{{{sub1p|}}}|{{{sub1p}}}|{{{1}}}amo}}
+|sub1p2={{#if:{{{sub1p2|}}}|{{{sub1p2}}}|}}
+|sub2p={{#if:{{{sub2p|}}}|{{{sub2p}}}|{{{1}}}ate}}
+|sub2p2={{#if:{{{sub2p2|}}}|{{{sub2p2}}}|}}
+|sub3p={{#if:{{{sub3p|}}}|{{{sub3p}}}|{{{1}}}no}}
+|sub3p2={{#if:{{{sub3p2|}}}|{{{sub3p2}}}|}}
+|impsub12s={{#if:{{{impsub12s|}}}|{{{impsub12s}}}|{{{1}}}assi}}
+|impsub12s2={{#if:{{{impsub12s2|}}}|{{{impsub12s2}}}|}}
+|impsub3s={{#if:{{{impsub3s|}}}|{{{impsub3s}}}|{{{1}}}asse}}
+|impsub3s2={{#if:{{{impsub3s2|}}}|{{{impsub3s2}}}|}}
+|impsub1p={{#if:{{{impsub1p|}}}|{{{impsub1p}}}|{{{1}}}assimo}}
+|impsub1p2={{#if:{{{impsub1p2|}}}|{{{impsub1p2}}}|}}
+|impsub2p={{#if:{{{impsub2p|}}}|{{{impsub2p}}}|{{{1}}}aste}}
+|impsub2p2={{#if:{{{impsub2p2|}}}|{{{impsub2p2}}}|}}
+|impsub3p={{#if:{{{impsub3p|}}}|{{{impsub3p}}}|{{{1}}}assero}}
+|impsub3p2={{#if:{{{impsub2p2|}}}|{{{impsub2p2}}}|}}
+&lt;!-- Imperatives - same logic as past participle --&gt;
+|imp2s={{#if:{{{imp2s|}}}|{{#ifeq:{{{imp2s|}}}|''||{{{imp2s}}}}}|{{{1}}}a}}
+|imp2s2={{#if:{{{imp2s2|}}}|{{{imp2s2}}}|}}
+|imp2s3={{#if:{{{imp2s3|}}}|{{{imp2s3}}}|}}
+|imp3s={{#if:{{{imp3s|}}}|{{#ifeq:{{{imp3s|}}}|''||{{{imp3s}}}}}|{{{1}}}}}
+|imp3s2={{#if:{{{imp3s2|}}}|{{{imp3s2}}}|}}
+|imp1p={{#if:{{{imp1p|}}}|{{#ifeq:{{{imp1p|}}}|''||{{{imp1p}}}}}|{{{1}}}amo}}
+|imp1p2={{#if:{{{imp1p2|}}}|{{{imp1p2}}}|}}
+|imp2p={{#if:{{{imp2p|}}}|{{#ifeq:{{{imp2p|}}}|''||{{{imp2p}}}}}|{{{1}}}ate}}
+|imp2p2={{#if:{{{imp2p2|}}}|{{{imp2p2}}}|}}
+|imp3p={{#if:{{{imp3p|}}}|{{#ifeq:{{{imp3p|}}}|''||{{{imp3p}}}}}|{{{1}}}no}}
+|imp3p2={{#if:{{{imp3p2|}}}|{{{imp3p2}}}|}}
+}}&lt;noinclude&gt;{{documentation}}&lt;/noinclude&gt;</text>

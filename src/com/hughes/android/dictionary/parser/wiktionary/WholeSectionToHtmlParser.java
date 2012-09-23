@@ -72,7 +72,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
     }
 
     @Override
-    void parseSection(String heading, String text) {
+    public void parseSection(String heading, String text) {
         HtmlEntry htmlEntry = new HtmlEntry(entrySource, StringEscapeUtils.escapeHtml3(title));
         IndexedEntry indexedEntry = new IndexedEntry(htmlEntry);
 
