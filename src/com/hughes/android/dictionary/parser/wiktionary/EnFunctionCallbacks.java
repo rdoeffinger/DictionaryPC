@@ -64,6 +64,9 @@ class EnFunctionCallbacks {
       callbacks.put("rfquote", callback);
       callbacks.put("attention", callback);
       callbacks.put("zh-attention", callback);
+      callbacks.put("top2", callback);
+      callbacks.put("mid2", callback);
+      callbacks.put("bottom", callback);
       
       callback = new AppendName<T>();
       callbacks.put("...", callback);
@@ -623,6 +626,12 @@ class EnFunctionCallbacks {
           appendAndIndexWikiCallback.builder.append(", ");
           appendAndIndexWikiCallback.dispatch(f, null, null);
           appendAndIndexWikiCallback.builder.append(" {f}");
+      }
+      final String m = namedArgs.remove("f");
+      if (m != null) {
+          appendAndIndexWikiCallback.builder.append(", ");
+          appendAndIndexWikiCallback.dispatch(m, null, null);
+          appendAndIndexWikiCallback.builder.append(" {m}");
       }
       parser.wordForms.add(singular);
       parser.wordForms.add(plural);

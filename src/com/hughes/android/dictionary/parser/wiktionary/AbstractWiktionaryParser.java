@@ -110,7 +110,7 @@ public abstract class AbstractWiktionaryParser implements Parser {
   }
   
   public void addLinkToCurrentEntry(final String token, final EntryTypeName entryTypeName) {
-      assert false : token;
+      assert false : token + ", title=" + title;
   }
 
   

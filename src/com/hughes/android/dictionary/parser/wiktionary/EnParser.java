@@ -91,6 +91,12 @@ public abstract class EnParser extends AbstractWiktionaryParser {
   final AppendAndIndexWikiCallback<EnParser> appendAndIndexWikiCallback = new AppendAndIndexCallback(this);
   {
     appendAndIndexWikiCallback.functionCallbacks.putAll(EnFunctionCallbacks.DEFAULT);
+    for (final String key : new ArrayList<String>(appendAndIndexWikiCallback.functionCallbacks.keySet())) {
+        // Don't handle the it-conj functions here.
+        if (key.startsWith("it-conj")) {
+            appendAndIndexWikiCallback.functionCallbacks.remove(key);
+        }
+    }
   }
   
   EnParser(final IndexBuilder enIndexBuilder, final IndexBuilder otherIndexBuilder, final Pattern langPattern, final Pattern langCodePattern, final boolean swap) {
