@@ -1,6 +1,7 @@
 
 package com.hughes.android.dictionary.parser.wiktionary;
 
+import com.hughes.android.dictionary.engine.EntryTypeName;
 import com.hughes.android.dictionary.engine.HtmlEntry;
 import com.hughes.android.dictionary.engine.IndexBuilder;
 import com.hughes.android.dictionary.engine.IndexBuilder.TokenData;
@@ -9,7 +10,6 @@ import com.hughes.android.dictionary.parser.WikiTokenizer;
 import com.hughes.util.StringUtil;
 
 import org.apache.commons.lang3.StringEscapeUtils;
-import org.apache.commons.lang3.StringUtils;
 
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
@@ -70,11 +70,14 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
         this.langConfig = isoToLangConfig.get(wiktionaryIso);
         this.skipLangIso = skipLangIso;
     }
+    
+    IndexedEntry indexedEntry = null;
 
     @Override
     public void parseSection(String heading, String text) {
-        HtmlEntry htmlEntry = new HtmlEntry(entrySource, StringEscapeUtils.escapeHtml3(title));
-        IndexedEntry indexedEntry = new IndexedEntry(htmlEntry);
+        assert entrySource != null;
+        final HtmlEntry htmlEntry = new HtmlEntry(entrySource, StringEscapeUtils.escapeHtml3(title));
+        indexedEntry = new IndexedEntry(htmlEntry);
 
         final AppendAndIndexWikiCallback<WholeSectionToHtmlParser> callback = new AppendCallback(
                 this);
@@ -93,12 +96,21 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
         tokenData.htmlEntries.add(htmlEntry);
         // titleIndexBuilder.addEntryWithString(indexedEntry, title,
         // EntryTypeName.WIKTIONARY_TITLE_MULTI_DETAIL);
+        
+        indexedEntry = null;
     }
 
     @Override
     void removeUselessArgs(Map<String, String> namedArgs) {
     }
     
+    @Override
+    public void addLinkToCurrentEntry(String token, EntryTypeName entryTypeName) {
+        titleIndexBuilder.addEntryWithString(indexedEntry, token, entryTypeName);
+    }
+
+
+
     static final Pattern ALL_ASCII = Pattern.compile("[\\p{ASCII}]*");
 
     class AppendCallback extends AppendAndIndexWikiCallback<WholeSectionToHtmlParser> {

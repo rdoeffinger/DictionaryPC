@@ -52,8 +52,8 @@ public class DictionaryBuilderTest extends TestCase {
               "{{it-conj-arsi|lav}}\n" +
               "{{it-conj-ersi|abbatt}}\n" +
               "{{it-conj-iarsi|annoi}}\n" +
-              "{{it-conj-carsi|coniug}\n" +
-              "{{it-conj-ciarsi|affacc}\n" +
+              "{{it-conj-carsi|coniug}}\n" +
+              "{{it-conj-ciarsi|affacc}}\n" +
               "{{it-conj-irsi|vest}}\n" +
               "{{it-conj-irsi-b|fer}}\n" +
               "{{it-conj-ursi|rid|essere}}\n" +
@@ -65,6 +65,7 @@ public class DictionaryBuilderTest extends TestCase {
       final DictionaryBuilder db = new DictionaryBuilder("", Language.en, Language.it,  "", "", Collections.singleton("X"), Collections.singleton("X"));
       WholeSectionToHtmlParser parser = new WholeSectionToHtmlParser(db.indexBuilders.get(0), "EN", "IT");
       parser.title = "dummyTitle";
+      parser.entrySource = new EntrySource(0, "dummySource", 0);
       parser.parseSection("dummyHeading", toParse);
       db.build();
       

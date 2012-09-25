@@ -47,7 +47,7 @@ public abstract class AbstractWiktionaryParser implements Parser {
   final SortedMap<String, AtomicInteger> counters = new TreeMap<String, AtomicInteger>();
   final Set<String> pairsAdded = new LinkedHashSet<String>();
   
-  EntrySource entrySource;
+  public EntrySource entrySource;
   public String title;
 
 
@@ -107,6 +107,10 @@ public abstract class AbstractWiktionaryParser implements Parser {
       counters.put(string, counter);
     }
     counter.incrementAndGet();
+  }
+  
+  public void addLinkToCurrentEntry(final String token, final EntryTypeName entryTypeName) {
+      assert false;
   }
 
   
@@ -228,6 +232,7 @@ public abstract class AbstractWiktionaryParser implements Parser {
     public void onListItem(WikiTokenizer wikiTokenizer) {
       assert false;
     }
+
   }
   
   // --------------------------------------------------------------------
