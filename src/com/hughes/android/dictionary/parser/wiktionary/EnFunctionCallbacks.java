@@ -234,6 +234,7 @@ class EnFunctionCallbacks {
         final Map<String, String> namedArgs,
         final T parser,
         final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
+      //namedArgs.remove("lang");
       if (!namedArgs.isEmpty()) {
         EnParser.LOG.warning("weird encoding: " + wikiTokenizer.token());
         return false;
@@ -617,6 +618,12 @@ class EnFunctionCallbacks {
       appendAndIndexWikiCallback.builder.append(" {").append(gender).append("}, ");
       appendAndIndexWikiCallback.dispatch(plural, null, null);
       appendAndIndexWikiCallback.builder.append(" {pl}");
+      final String f = namedArgs.remove("f");
+      if (f != null) {
+          appendAndIndexWikiCallback.builder.append(", ");
+          appendAndIndexWikiCallback.dispatch(f, null, null);
+          appendAndIndexWikiCallback.builder.append(" {f}");
+      }
       parser.wordForms.add(singular);
       parser.wordForms.add(plural);
       if (!namedArgs.isEmpty() || args.size() > 4) {
@@ -1060,7 +1067,14 @@ static final class it_conj_are<T extends AbstractWiktionaryParser> implements Fu
         
         if (!namedArgs.isEmpty()) {
             System.err.println("NON-EMPTY namedArgs: " + namedArgs);
-            assert false;
+            if ("muovesse".equals(namedArgs.get("impsib3s2"))) {
+                return false;
+            }
+            if ("percuotesse".equals(namedArgs.get("impsib3s2"))) {
+                return false;
+            }
+            // Too many to deal with:
+            //assert false;
             return false;
         }
 

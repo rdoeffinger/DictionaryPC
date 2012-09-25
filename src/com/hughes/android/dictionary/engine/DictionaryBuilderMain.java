@@ -174,8 +174,8 @@ public class DictionaryBuilderMain extends TestCase {
     final String[][] nonEnPairs = new String[][] {
 
         // The 3 I use most:
-        {"DE", "EN" },
         {"IT", "EN" },
+        {"DE", "EN" },
         {"DE", "IT" },
             
             

@@ -177,9 +177,9 @@ Index: IT IT->EN
   accusare {it-verb} {transitive} :: To accuse, to reproach, to impeach.
   accusato {{it-pp|accusat}} :: {past participle of|accusare}
 ===accusati===
-  accusato {m}, accusati {pl} :: accused person, accused
+  accusato {m}, accusati {pl}, accusata {f} :: accused person, accused
 ***accusato***
-  accusato {m}, accusati {pl} :: accused person, accused
+  accusato {m}, accusati {pl}, accusata {f} :: accused person, accused
   accusato {{it-adj|accusat}} :: accused
   accusato {{it-pp|accusat}} :: {past participle of|accusare}
 ===accuse===
@@ -518,10 +518,10 @@ Index: IT IT->EN
 ===banane===
   banana {f}, banane {pl} :: banana (fruit)
 ===bancari===
-  bancario {m}, bancari {pl} :: Bank employee
+  bancario {m}, bancari {pl}, bancaria {f} :: Bank employee
 ***bancario***
   bancario {{it-adj|bancar|io|ia|i|ie}} :: bank (attributive)
-  bancario {m}, bancari {pl} :: Bank employee
+  bancario {m}, bancari {pl}, bancaria {f} :: Bank employee
 ***Bangkok***
   Bangkok {it-proper noun} :: Bangkok (capital of Thailand)
 ***Bangladesh***
@@ -784,13 +784,13 @@ Index: IT IT->EN
   cane (adjective) {inv} :: freezing, biting (cold)
     Oggi fa un freddo cane! :: Today is freezing cold!
   cane (adjective) {inv} :: terrible, dreadful, awful
-  cane {m}, cani {pl} :: dog in general, male dog
-  cane {m}, cani {pl} :: {{context|firearms}} hammer
+  cane {m}, cani {pl}, cagna {f} :: dog in general, male dog
+  cane {m}, cani {pl}, cagna {f} :: {{context|firearms}} hammer
   can {m}, cani {pl} :: {{context|poetic|_|and literary form of cane}} dog
 ===cani===
   can {m}, cani {pl} :: {{context|poetic|_|and literary form of cane}} dog
-  cane {m}, cani {pl} :: dog in general, male dog
-  cane {m}, cani {pl} :: {{context|firearms}} hammer
+  cane {m}, cani {pl}, cagna {f} :: dog in general, male dog
+  cane {m}, cani {pl}, cagna {f} :: {{context|firearms}} hammer
 ===cannella===
   cannelle {f} :: {plural of|cannella}
 ===cannelle===
@@ -3036,11 +3036,11 @@ Index: IT IT->EN
 ===prepose===
   prepose :: {conjugation of|preporre|3|s|past historic}
 ***presidente***
-  presidente {m}, presidenti {pl} :: chairman, chairperson, chair, chief
-  presidente {m}, presidenti {pl} :: president
+  presidente {m}, presidenti {pl}, presidentessa {f} :: chairman, chairperson, chair, chief
+  presidente {m}, presidenti {pl}, presidentessa {f} :: president
 ===presidenti===
-  presidente {m}, presidenti {pl} :: chairman, chairperson, chair, chief
-  presidente {m}, presidenti {pl} :: president
+  presidente {m}, presidenti {pl}, presidentessa {f} :: chairman, chairperson, chair, chief
+  presidente {m}, presidenti {pl}, presidentessa {f} :: president
 ***primavera***
   primavera {f}, primavere {pl} :: spring, the season
   primavera {f}, primavere {pl} :: (plural, familiar) years, winters
@@ -4302,7 +4302,7 @@ Index: EN EN->IT
 ===accuse===
   accusare {it-verb} {transitive} :: To accuse, to reproach, to impeach.
 ===accused===
-  accusato {m}, accusati {pl} :: accused person, accused
+  accusato {m}, accusati {pl}, accusata {f} :: accused person, accused
   accusato {{it-adj|accusat}} :: accused
 ===acerbity===
   amarezza {f}, amarezze {pl} :: {figuratively} bitterness, acerbity, sadness
@@ -4587,7 +4587,7 @@ Index: EN EN->IT
 ===bank===
   bancario {{it-adj|bancar|io|ia|i|ie}} :: bank (attributive)
 ===Bank===
-  bancario {m}, bancari {pl} :: Bank employee
+  bancario {m}, bancari {pl}, bancaria {f} :: Bank employee
 ===bar===
   bar {m} (noun) {inv} :: bar (place serving drinks)
     C'è un bar qui vicino? :: Is there a bar nearby?
@@ -4916,11 +4916,11 @@ Index: EN EN->IT
 ===chaff===
   pula {f}, pule {pl} :: chaff
 ===chair===
-  presidente {m}, presidenti {pl} :: chairman, chairperson, chair, chief
+  presidente {m}, presidenti {pl}, presidentessa {f} :: chairman, chairperson, chair, chief
 ===chairman===
-  presidente {m}, presidenti {pl} :: chairman, chairperson, chair, chief
+  presidente {m}, presidenti {pl}, presidentessa {f} :: chairman, chairperson, chair, chief
 ===chairperson===
-  presidente {m}, presidenti {pl} :: chairman, chairperson, chair, chief
+  presidente {m}, presidenti {pl}, presidentessa {f} :: chairman, chairperson, chair, chief
 ===chamber===
   camera {f}, camere {pl} :: room, chamber
 ===chance===
@@ -4941,7 +4941,7 @@ Index: EN EN->IT
 ===chicken===
   pollo {m}, polli {pl} :: {{context|meats}} chicken (especially chicken meat)
 ===chief===
-  presidente {m}, presidenti {pl} :: chairman, chairperson, chair, chief
+  presidente {m}, presidenti {pl}, presidentessa {f} :: chairman, chairperson, chair, chief
   generalissimo {m}, generalissimi {pl} :: commander-in-chief
   leader {m|f} (noun) {inv} :: leader (chief; one in front)
 ===Chieti===
@@ -5341,7 +5341,7 @@ Index: EN EN->IT
     Ci vuole poco a farmi felice. :: It doesn't take much to make me happy.
 ===dog===
   can {m}, cani {pl} :: {{context|poetic|_|and literary form of cane}} dog
-  cane {m}, cani {pl} :: dog in general, male dog
+  cane {m}, cani {pl}, cagna {f} :: dog in general, male dog
 ===doll===
   pupa {f}, pupe {pl} :: doll (child's toy)
 ===Dominica===
@@ -5445,7 +5445,7 @@ Index: EN EN->IT
 ===emphasised===
   te (pronoun) :: (emphasised objective of tu) you
 ===employee===
-  bancario {m}, bancari {pl} :: Bank employee
+  bancario {m}, bancari {pl}, bancaria {f} :: Bank employee
 ===end===
   finale {m}, finali {pl} :: end, ending, conclusion
 ===ending===
@@ -5873,7 +5873,7 @@ Index: EN EN->IT
 ===gelded===
   castrato {{it-adj|castrat}} :: castrated, gelded, neutered
 ===general===
-  cane {m}, cani {pl} :: dog in general, male dog
+  cane {m}, cani {pl}, cagna {f} :: dog in general, male dog
 ===generale===
   PG (initialism) :: procuratore generale
   PG (initialism) :: procura generale
@@ -6018,7 +6018,7 @@ Index: EN EN->IT
 ===hamburger===
   hamburger {m} (noun) {inv} :: hamburger
 ===hammer===
-  cane {m}, cani {pl} :: {{context|firearms}} hammer
+  cane {m}, cani {pl}, cagna {f} :: {{context|firearms}} hammer
 ===handicap===
   handicap {m} (noun) {inv} :: handicap (disability; horserace)
 ===hang===
@@ -6637,7 +6637,7 @@ Index: EN EN->IT
   Malawi {{it-proper noun|m}} :: Malawi
 ===male===
   tigre {f}, tigri {pl} :: tiger (male)
-  cane {m}, cani {pl} :: dog in general, male dog
+  cane {m}, cani {pl}, cagna {f} :: dog in general, male dog
   boy {m} (noun), inv :: A male ballet dancer.
   regina {f}, regine {pl} :: queen (monarch, male homosexual)
   poeta {m}, poeti {pl} Feminine poetessa :: poet (male or unspecified sex)
@@ -7457,7 +7457,7 @@ Index: EN EN->IT
 ===preposition===
   lui (pronoun) :: him (indirect form of lui used after a preposition)
 ===president===
-  presidente {m}, presidenti {pl} :: president
+  presidente {m}, presidenti {pl}, presidentessa {f} :: president
 ===presto===
   uno {m} ({f} una) :: Sono uno a cui piace alzarsi presto - I’m someone who likes getting up early or I’m a person who likes getting up early
 ===priests===
