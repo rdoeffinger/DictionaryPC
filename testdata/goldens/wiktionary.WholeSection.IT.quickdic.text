@@ -1,5 +1,5 @@
 dictInfo=SomeWikiDataWholeSection
-EntrySource: wiktionary.WholeSection.IT.quickdic 0
+EntrySource: wiktionary.WholeSection.IT.quickdic 205
 
 Index: IT IT->EN
 ===6===
@@ -326,6 +326,10 @@ HtmlEntry: account <<<
 <ol><li> {computing} <a href="#English">account</a></li>
 </ol>
 >>>
+===accredita===
+HtmlEntry (shortened): accreditare
+===accreditai===
+HtmlEntry (shortened): accreditare
 ===accreditamento===
 HtmlEntry: accreditamento <<<
 <h3>Noun</h3>
@@ -333,6 +337,14 @@ HtmlEntry: accreditamento <<<
 <ol><li> <a href="accreditation">accreditation</a></li>
 </ol>
 >>>
+===accreditammo===
+HtmlEntry (shortened): accreditare
+===accreditando===
+HtmlEntry (shortened): accreditare
+===accreditano===
+HtmlEntry (shortened): accreditare
+===accreditante===
+HtmlEntry (shortened): accreditare
 ===accreditare===
 HtmlEntry: accreditare <<<
 <h3>Verb</h3>
@@ -349,23 +361,89 @@ HtmlEntry: accreditare <<<
 </ul>
 
 <h4>Conjugation</h4>
-<table style="background:#F0F0F0;border-collapse:separate;border-spacing:2px"><tr><th colspan="1" style="background:#e2e4c0">infinitive</th><td colspan="1">accreditare</td></tr>
-<tr><th colspan="1" style="background:#e2e4c0">auxiliary verb</th><td colspan="1">avere</td><th colspan="1" style="background:#e2e4c0">gerund</th><td colspan="1">accreditando</td></tr>
-<tr><th colspan="1" style="background:#e2e4c0">present participle</th><td colspan="1">accreditante</td><th colspan="1" style="background:#e2e4c0">past participle</th><td colspan="1">accreditato</td></tr>
-<tr><th colspan="1" style="background:#c0cfe4">indicative</th><th style="background:#c0cfe4">io</th><th style="background:#c0cfe4">tu</th><th style="background:#c0cfe4">lui/lei</th><th style="background:#c0cfe4">noi</th><th style="background:#c0cfe4">voi</th><th style="background:#c0cfe4">essi/esse</th></tr>
-<tr><th colspan="1" style="background:#c0cfe4">present</th><td>accredito</td><td>accrediti</td><td>accredita</td><td>accreditiamo</td><td>accreditate</td><td>accreditano</td></tr>
-<tr><th colspan="1" style="background:#c0cfe4">imperfect</th><td>accreditavo</td><td>accreditavi</td><td>accreditava</td><td>accreditavamo</td><td>accreditavate</td><td>accreditavano</td></tr>
-<tr><th colspan="1" style="background:#c0cfe4">past historic</th><td>accreditai</td><td>accreditasti</td><td>accredit&ograve;</td><td>accreditammo</td><td>accreditaste</td><td>accreditarono</td></tr>
-<tr><th colspan="1" style="background:#c0cfe4">future</th><td>accrediter&ograve;</td><td>accrediterai</td><td>accrediter&agrave;</td><td>accrediteremo</td><td>accrediterete</td><td>accrediteranno</td></tr>
-<tr><th colspan="1" style="background:#c0d8e4">conditional</th><th style="background:#c0d8e4">io</th><th style="background:#c0d8e4">tu</th><th style="background:#c0d8e4">lui/lei</th><th style="background:#c0d8e4">noi</th><th style="background:#c0d8e4">voi</th><th style="background:#c0d8e4">essi/esse</th></tr>
-<tr><th colspan="1" style="background:#c0d8e4">present</th><td>accrediterei</td><td>accrediteresti</td><td>accrediterebbe</td><td>accrediteremmo</td><td>accreditereste</td><td>accrediterebbero</td></tr>
-<tr><th colspan="1" style="background:#c0e4c0">subjuntive</th><th style="background:#c0e4c0">che io</th><th style="background:#c0e4c0">che tu</th><th style="background:#c0e4c0">che lui/lei</th><th style="background:#c0e4c0">che noi</th><th style="background:#c0e4c0">che voi</th><th style="background:#c0e4c0">che essi/esse</th></tr>
-<tr><th colspan="1" style="background:#c0e4c0">present</th><td>accrediti</td><td>accrediti</td><td>accrediti</td><td>accreditiamo</td><td>accreditiate</td><td>accreditino</td></tr>
-<tr><th colspan="1" style="background:#c0e4c0">imperfect</th><td>accreditassi</td><td>accreditassi</td><td>accreditasse</td><td>accreditassimo</td><td>accreditaste</td><td>accreditassero</td></tr>
-<tr><th colspan="1" style="background:#e4d4c0">imperative</th><th style="background:#e4d4c0">-</th><th style="background:#e4d4c0">tu</th><th style="background:#e4d4c0">lui/lei</th><th style="background:#e4d4c0">noi</th><th style="background:#e4d4c0">voi</th><th style="background:#e4d4c0">essi/esse</th></tr>
+<table style="background:#F0F0F0"><tr><th colspan="1" style="background:#e2e4c0">infinito</th><td colspan="1">accreditare</td></tr>
+<tr><th colspan="1" style="background:#e2e4c0">verbo ausiliare</th><td colspan="1">avere</td><th colspan="1" style="background:#e2e4c0">gerundio</th><td colspan="1">accreditando</td></tr>
+<tr><th colspan="1" style="background:#e2e4c0">participio presente</th><td colspan="1">accreditante</td><th colspan="1" style="background:#e2e4c0">participio passato</th><td colspan="1">accreditato</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">indicativo</th><th style="background:#c0cfe4">io</th><th style="background:#c0cfe4">tu</th><th style="background:#c0cfe4">lui/lei</th><th style="background:#c0cfe4">noi</th><th style="background:#c0cfe4">voi</th><th style="background:#c0cfe4">essi/esse</th></tr>
+<tr><th colspan="1" style="background:#c0cfe4">presente</th><td>accredito</td><td>accrediti</td><td>accredita</td><td>accreditiamo</td><td>accreditate</td><td>accreditano</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">imperfetto</th><td>accreditavo</td><td>accreditavi</td><td>accreditava</td><td>accreditavamo</td><td>accreditavate</td><td>accreditavano</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">passato remoto</th><td>accreditai</td><td>accreditasti</td><td>accredit&ograve;</td><td>accreditammo</td><td>accreditaste</td><td>accreditarono</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">futuro</th><td>accrediter&ograve;</td><td>accrediterai</td><td>accrediter&agrave;</td><td>accrediteremo</td><td>accrediterete</td><td>accrediteranno</td></tr>
+<tr><th colspan="1" style="background:#c0d8e4">condizionale</th><th style="background:#c0d8e4">io</th><th style="background:#c0d8e4">tu</th><th style="background:#c0d8e4">lui/lei</th><th style="background:#c0d8e4">noi</th><th style="background:#c0d8e4">voi</th><th style="background:#c0d8e4">essi/esse</th></tr>
+<tr><th colspan="1" style="background:#c0d8e4">presente</th><td>accrediterei</td><td>accrediteresti</td><td>accrediterebbe</td><td>accrediteremmo</td><td>accreditereste</td><td>accrediterebbero</td></tr>
+<tr><th colspan="1" style="background:#c0e4c0">congiuntivo</th><th style="background:#c0e4c0">che io</th><th style="background:#c0e4c0">che tu</th><th style="background:#c0e4c0">che lui/lei</th><th style="background:#c0e4c0">che noi</th><th style="background:#c0e4c0">che voi</th><th style="background:#c0e4c0">che essi/esse</th></tr>
+<tr><th colspan="1" style="background:#c0e4c0">presente</th><td>accrediti</td><td>accrediti</td><td>accrediti</td><td>accreditiamo</td><td>accreditiate</td><td>accreditino</td></tr>
+<tr><th colspan="1" style="background:#c0e4c0">imperfetto</th><td>accreditassi</td><td>accreditassi</td><td>accreditasse</td><td>accreditassimo</td><td>accreditaste</td><td>accreditassero</td></tr>
+<tr><th colspan="1" style="background:#e4d4c0">imperativo</th><th style="background:#e4d4c0">-</th><th style="background:#e4d4c0">tu</th><th style="background:#e4d4c0">lui/lei</th><th style="background:#e4d4c0">noi</th><th style="background:#e4d4c0">voi</th><th style="background:#e4d4c0">essi/esse</th></tr>
 <tr><th colspan="1" style="background:#e4d4c0"></th><td></td><td>accredita</td><td>accrediti</td><td>accreditiamo</td><td>accreditate</td><td>accreditino</td></tr>
 </table>
 >>>
+===accreditarono===
+HtmlEntry (shortened): accreditare
+===accreditasse===
+HtmlEntry (shortened): accreditare
+===accreditassero===
+HtmlEntry (shortened): accreditare
+===accreditassi===
+HtmlEntry (shortened): accreditare
+===accreditassimo===
+HtmlEntry (shortened): accreditare
+===accreditaste===
+HtmlEntry (shortened): accreditare
+===accreditasti===
+HtmlEntry (shortened): accreditare
+===accreditate===
+HtmlEntry (shortened): accreditare
+===accreditato===
+HtmlEntry (shortened): accreditare
+===accreditava===
+HtmlEntry (shortened): accreditare
+===accreditavamo===
+HtmlEntry (shortened): accreditare
+===accreditavano===
+HtmlEntry (shortened): accreditare
+===accreditavate===
+HtmlEntry (shortened): accreditare
+===accreditavi===
+HtmlEntry (shortened): accreditare
+===accreditavo===
+HtmlEntry (shortened): accreditare
+===accrediterà===
+HtmlEntry (shortened): accreditare
+===accrediterai===
+HtmlEntry (shortened): accreditare
+===accrediteranno===
+HtmlEntry (shortened): accreditare
+===accrediterebbe===
+HtmlEntry (shortened): accreditare
+===accrediterebbero===
+HtmlEntry (shortened): accreditare
+===accrediterei===
+HtmlEntry (shortened): accreditare
+===accrediteremmo===
+HtmlEntry (shortened): accreditare
+===accrediteremo===
+HtmlEntry (shortened): accreditare
+===accreditereste===
+HtmlEntry (shortened): accreditare
+===accrediteresti===
+HtmlEntry (shortened): accreditare
+===accrediterete===
+HtmlEntry (shortened): accreditare
+===accrediterò===
+HtmlEntry (shortened): accreditare
+===accrediti===
+HtmlEntry (shortened): accreditare
+===accreditiamo===
+HtmlEntry (shortened): accreditare
+===accreditiate===
+HtmlEntry (shortened): accreditare
+===accreditino===
+HtmlEntry (shortened): accreditare
+===accredito===
+HtmlEntry (shortened): accreditare
+===accreditò===
+HtmlEntry (shortened): accreditare
 ===accresce===
 HtmlEntry: accresce <<<
 <h3>Verb</h3>
@@ -406,6 +484,17 @@ HtmlEntry: accusa <<<
 <li> <a href="second-person singular">second-person singular</a> <a href="imperative">imperative</a> of accusare</li>
 </ol>
 ---->>>
+HtmlEntry (shortened): accusare
+===accusai===
+HtmlEntry (shortened): accusare
+===accusammo===
+HtmlEntry (shortened): accusare
+===accusando===
+HtmlEntry (shortened): accusare
+===accusano===
+HtmlEntry (shortened): accusare
+===accusante===
+HtmlEntry (shortened): accusare
 ===accusare===
 HtmlEntry: accusare <<<
 <h3>Verb</h3>
@@ -424,23 +513,39 @@ HtmlEntry: accusare <<<
 </ul>
 
 <h4>Conjugation</h4>
-<table style="background:#F0F0F0;border-collapse:separate;border-spacing:2px"><tr><th colspan="1" style="background:#e2e4c0">infinitive</th><td colspan="1">accusare</td></tr>
-<tr><th colspan="1" style="background:#e2e4c0">auxiliary verb</th><td colspan="1">avere</td><th colspan="1" style="background:#e2e4c0">gerund</th><td colspan="1">accusando</td></tr>
-<tr><th colspan="1" style="background:#e2e4c0">present participle</th><td colspan="1">accusante</td><th colspan="1" style="background:#e2e4c0">past participle</th><td colspan="1">accusato</td></tr>
-<tr><th colspan="1" style="background:#c0cfe4">indicative</th><th style="background:#c0cfe4">io</th><th style="background:#c0cfe4">tu</th><th style="background:#c0cfe4">lui/lei</th><th style="background:#c0cfe4">noi</th><th style="background:#c0cfe4">voi</th><th style="background:#c0cfe4">essi/esse</th></tr>
-<tr><th colspan="1" style="background:#c0cfe4">present</th><td>accuso</td><td>accusi</td><td>accusa</td><td>accusiamo</td><td>accusate</td><td>accusano</td></tr>
-<tr><th colspan="1" style="background:#c0cfe4">imperfect</th><td>accusavo</td><td>accusavi</td><td>accusava</td><td>accusavamo</td><td>accusavate</td><td>accusavano</td></tr>
-<tr><th colspan="1" style="background:#c0cfe4">past historic</th><td>accusai</td><td>accusasti</td><td>accus&ograve;</td><td>accusammo</td><td>accusaste</td><td>accusarono</td></tr>
-<tr><th colspan="1" style="background:#c0cfe4">future</th><td>accuser&ograve;</td><td>accuserai</td><td>accuser&agrave;</td><td>accuseremo</td><td>accuserete</td><td>accuseranno</td></tr>
-<tr><th colspan="1" style="background:#c0d8e4">conditional</th><th style="background:#c0d8e4">io</th><th style="background:#c0d8e4">tu</th><th style="background:#c0d8e4">lui/lei</th><th style="background:#c0d8e4">noi</th><th style="background:#c0d8e4">voi</th><th style="background:#c0d8e4">essi/esse</th></tr>
-<tr><th colspan="1" style="background:#c0d8e4">present</th><td>accuserei</td><td>accuseresti</td><td>accuserebbe</td><td>accuseremmo</td><td>accusereste</td><td>accuserebbero</td></tr>
-<tr><th colspan="1" style="background:#c0e4c0">subjuntive</th><th style="background:#c0e4c0">che io</th><th style="background:#c0e4c0">che tu</th><th style="background:#c0e4c0">che lui/lei</th><th style="background:#c0e4c0">che noi</th><th style="background:#c0e4c0">che voi</th><th style="background:#c0e4c0">che essi/esse</th></tr>
-<tr><th colspan="1" style="background:#c0e4c0">present</th><td>accusi</td><td>accusi</td><td>accusi</td><td>accusiamo</td><td>accusiate</td><td>accusino</td></tr>
-<tr><th colspan="1" style="background:#c0e4c0">imperfect</th><td>accusassi</td><td>accusassi</td><td>accusasse</td><td>accusassimo</td><td>accusaste</td><td>accusassero</td></tr>
-<tr><th colspan="1" style="background:#e4d4c0">imperative</th><th style="background:#e4d4c0">-</th><th style="background:#e4d4c0">tu</th><th style="background:#e4d4c0">lui/lei</th><th style="background:#e4d4c0">noi</th><th style="background:#e4d4c0">voi</th><th style="background:#e4d4c0">essi/esse</th></tr>
+<table style="background:#F0F0F0"><tr><th colspan="1" style="background:#e2e4c0">infinito</th><td colspan="1">accusare</td></tr>
+<tr><th colspan="1" style="background:#e2e4c0">verbo ausiliare</th><td colspan="1">avere</td><th colspan="1" style="background:#e2e4c0">gerundio</th><td colspan="1">accusando</td></tr>
+<tr><th colspan="1" style="background:#e2e4c0">participio presente</th><td colspan="1">accusante</td><th colspan="1" style="background:#e2e4c0">participio passato</th><td colspan="1">accusato</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">indicativo</th><th style="background:#c0cfe4">io</th><th style="background:#c0cfe4">tu</th><th style="background:#c0cfe4">lui/lei</th><th style="background:#c0cfe4">noi</th><th style="background:#c0cfe4">voi</th><th style="background:#c0cfe4">essi/esse</th></tr>
+<tr><th colspan="1" style="background:#c0cfe4">presente</th><td>accuso</td><td>accusi</td><td>accusa</td><td>accusiamo</td><td>accusate</td><td>accusano</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">imperfetto</th><td>accusavo</td><td>accusavi</td><td>accusava</td><td>accusavamo</td><td>accusavate</td><td>accusavano</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">passato remoto</th><td>accusai</td><td>accusasti</td><td>accus&ograve;</td><td>accusammo</td><td>accusaste</td><td>accusarono</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">futuro</th><td>accuser&ograve;</td><td>accuserai</td><td>accuser&agrave;</td><td>accuseremo</td><td>accuserete</td><td>accuseranno</td></tr>
+<tr><th colspan="1" style="background:#c0d8e4">condizionale</th><th style="background:#c0d8e4">io</th><th style="background:#c0d8e4">tu</th><th style="background:#c0d8e4">lui/lei</th><th style="background:#c0d8e4">noi</th><th style="background:#c0d8e4">voi</th><th style="background:#c0d8e4">essi/esse</th></tr>
+<tr><th colspan="1" style="background:#c0d8e4">presente</th><td>accuserei</td><td>accuseresti</td><td>accuserebbe</td><td>accuseremmo</td><td>accusereste</td><td>accuserebbero</td></tr>
+<tr><th colspan="1" style="background:#c0e4c0">congiuntivo</th><th style="background:#c0e4c0">che io</th><th style="background:#c0e4c0">che tu</th><th style="background:#c0e4c0">che lui/lei</th><th style="background:#c0e4c0">che noi</th><th style="background:#c0e4c0">che voi</th><th style="background:#c0e4c0">che essi/esse</th></tr>
+<tr><th colspan="1" style="background:#c0e4c0">presente</th><td>accusi</td><td>accusi</td><td>accusi</td><td>accusiamo</td><td>accusiate</td><td>accusino</td></tr>
+<tr><th colspan="1" style="background:#c0e4c0">imperfetto</th><td>accusassi</td><td>accusassi</td><td>accusasse</td><td>accusassimo</td><td>accusaste</td><td>accusassero</td></tr>
+<tr><th colspan="1" style="background:#e4d4c0">imperativo</th><th style="background:#e4d4c0">-</th><th style="background:#e4d4c0">tu</th><th style="background:#e4d4c0">lui/lei</th><th style="background:#e4d4c0">noi</th><th style="background:#e4d4c0">voi</th><th style="background:#e4d4c0">essi/esse</th></tr>
 <tr><th colspan="1" style="background:#e4d4c0"></th><td></td><td>accusa</td><td>accusi</td><td>accusiamo</td><td>accusate</td><td>accusino</td></tr>
 </table>
 >>>
+===accusarono===
+HtmlEntry (shortened): accusare
+===accusasse===
+HtmlEntry (shortened): accusare
+===accusassero===
+HtmlEntry (shortened): accusare
+===accusassi===
+HtmlEntry (shortened): accusare
+===accusassimo===
+HtmlEntry (shortened): accusare
+===accusaste===
+HtmlEntry (shortened): accusare
+===accusasti===
+HtmlEntry (shortened): accusare
+===accusate===
+HtmlEntry (shortened): accusare
 ===accusato===
 HtmlEntry: accusato <<<
 <h3>Noun</h3>
@@ -462,6 +567,19 @@ HtmlEntry: accusato <<<
 <ol><li> <a href="accused">accused</a></li>
 </ol>
 ---->>>
+HtmlEntry (shortened): accusare
+===accusava===
+HtmlEntry (shortened): accusare
+===accusavamo===
+HtmlEntry (shortened): accusare
+===accusavano===
+HtmlEntry (shortened): accusare
+===accusavate===
+HtmlEntry (shortened): accusare
+===accusavi===
+HtmlEntry (shortened): accusare
+===accusavo===
+HtmlEntry (shortened): accusare
 ===accuse===
 HtmlEntry: accuse <<<
 <h3>Noun</h3>
@@ -469,6 +587,42 @@ HtmlEntry: accuse <<<
 <ol><li> {{plural of|accusa}}</li>
 </ol>
 >>>
+===accuserà===
+HtmlEntry (shortened): accusare
+===accuserai===
+HtmlEntry (shortened): accusare
+===accuseranno===
+HtmlEntry (shortened): accusare
+===accuserebbe===
+HtmlEntry (shortened): accusare
+===accuserebbero===
+HtmlEntry (shortened): accusare
+===accuserei===
+HtmlEntry (shortened): accusare
+===accuseremmo===
+HtmlEntry (shortened): accusare
+===accuseremo===
+HtmlEntry (shortened): accusare
+===accusereste===
+HtmlEntry (shortened): accusare
+===accuseresti===
+HtmlEntry (shortened): accusare
+===accuserete===
+HtmlEntry (shortened): accusare
+===accuserò===
+HtmlEntry (shortened): accusare
+===accusi===
+HtmlEntry (shortened): accusare
+===accusiamo===
+HtmlEntry (shortened): accusare
+===accusiate===
+HtmlEntry (shortened): accusare
+===accusino===
+HtmlEntry (shortened): accusare
+===accuso===
+HtmlEntry (shortened): accusare
+===accusò===
+HtmlEntry (shortened): accusare
 ===acetone===
 HtmlEntry: acetone <<<
 <h3>Noun</h3>
@@ -3207,6 +3361,8 @@ HtmlEntry: d <<<
 <ol><li> See under <a href="D#Italian">D</a></li>
 </ol>
 ---->>>
+===dà===
+HtmlEntry (shortened): dare
 ===dada===
 HtmlEntry: dada <<<
 <h3>Noun</h3>
@@ -3214,6 +3370,8 @@ HtmlEntry: dada <<<
 <ol><li> {arts} <a href="Dada">Dada</a></li>
 </ol>
 ---->>>
+===dai===
+HtmlEntry (shortened): dare
 ===dal===
 HtmlEntry: dal <<<
 <h3>Contraction</h3>
@@ -3231,6 +3389,18 @@ HtmlEntry: dame <<<
 <ol><li> {{plural of|dama}}</li>
 </ol>
 ---->>>
+===dando===
+HtmlEntry (shortened): dare
+===danno===
+HtmlEntry (shortened): dare
+===dante===
+HtmlEntry (shortened): dare
+===darà===
+HtmlEntry (shortened): dare
+===darai===
+HtmlEntry (shortened): dare
+===daranno===
+HtmlEntry (shortened): dare
 ===dare===
 HtmlEntry: dare <<<
 <h3>Etymology</h3>
@@ -3247,20 +3417,20 @@ From {{etyl|la|it}} {{term|dare|lang=la}}, present active infinitive of {{term|d
 </ol>
 
 <h4>Conjugation</h4>
-<table style="background:#F0F0F0;border-collapse:separate;border-spacing:2px"><tr><th colspan="1" style="background:#e2e4c0">infinitive</th><td colspan="1">dare</td></tr>
-<tr><th colspan="1" style="background:#e2e4c0">auxiliary verb</th><td colspan="1">avere</td><th colspan="1" style="background:#e2e4c0">gerund</th><td colspan="1">dando</td></tr>
-<tr><th colspan="1" style="background:#e2e4c0">present participle</th><td colspan="1">dante</td><th colspan="1" style="background:#e2e4c0">past participle</th><td colspan="1">dato</td></tr>
-<tr><th colspan="1" style="background:#c0cfe4">indicative</th><th style="background:#c0cfe4">io</th><th style="background:#c0cfe4">tu</th><th style="background:#c0cfe4">lui/lei</th><th style="background:#c0cfe4">noi</th><th style="background:#c0cfe4">voi</th><th style="background:#c0cfe4">essi/esse</th></tr>
-<tr><th colspan="1" style="background:#c0cfe4">present</th><td>do</td><td>dai</td><td>d&agrave;</td><td>diamo</td><td>date</td><td>danno</td></tr>
-<tr><th colspan="1" style="background:#c0cfe4">imperfect</th><td>davo</td><td>davi</td><td>dava</td><td>davamo</td><td>davate</td><td>davano</td></tr>
-<tr><th colspan="1" style="background:#c0cfe4">past historic</th><td>diedi, detti</td><td>desti</td><td>diede, dette</td><td>demmo</td><td>deste</td><td>diedero, dettero</td></tr>
-<tr><th colspan="1" style="background:#c0cfe4">future</th><td>dar&ograve;</td><td>darai</td><td>dar&agrave;</td><td>daremo</td><td>darete</td><td>daranno</td></tr>
-<tr><th colspan="1" style="background:#c0d8e4">conditional</th><th style="background:#c0d8e4">io</th><th style="background:#c0d8e4">tu</th><th style="background:#c0d8e4">lui/lei</th><th style="background:#c0d8e4">noi</th><th style="background:#c0d8e4">voi</th><th style="background:#c0d8e4">essi/esse</th></tr>
-<tr><th colspan="1" style="background:#c0d8e4">present</th><td>darei</td><td>daresti</td><td>darebbe</td><td>daremmo</td><td>dareste</td><td>darebbero</td></tr>
-<tr><th colspan="1" style="background:#c0e4c0">subjuntive</th><th style="background:#c0e4c0">che io</th><th style="background:#c0e4c0">che tu</th><th style="background:#c0e4c0">che lui/lei</th><th style="background:#c0e4c0">che noi</th><th style="background:#c0e4c0">che voi</th><th style="background:#c0e4c0">che essi/esse</th></tr>
-<tr><th colspan="1" style="background:#c0e4c0">present</th><td>dia</td><td>dia</td><td>dia</td><td>diamo</td><td>diate</td><td>diano</td></tr>
-<tr><th colspan="1" style="background:#c0e4c0">imperfect</th><td>dessi</td><td>dessi</td><td>desse</td><td>dessimo</td><td>deste</td><td>dessero</td></tr>
-<tr><th colspan="1" style="background:#e4d4c0">imperative</th><th style="background:#e4d4c0">-</th><th style="background:#e4d4c0">tu</th><th style="background:#e4d4c0">lui/lei</th><th style="background:#e4d4c0">noi</th><th style="background:#e4d4c0">voi</th><th style="background:#e4d4c0">essi/esse</th></tr>
+<table style="background:#F0F0F0"><tr><th colspan="1" style="background:#e2e4c0">infinito</th><td colspan="1">dare</td></tr>
+<tr><th colspan="1" style="background:#e2e4c0">verbo ausiliare</th><td colspan="1">avere</td><th colspan="1" style="background:#e2e4c0">gerundio</th><td colspan="1">dando</td></tr>
+<tr><th colspan="1" style="background:#e2e4c0">participio presente</th><td colspan="1">dante</td><th colspan="1" style="background:#e2e4c0">participio passato</th><td colspan="1">dato</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">indicativo</th><th style="background:#c0cfe4">io</th><th style="background:#c0cfe4">tu</th><th style="background:#c0cfe4">lui/lei</th><th style="background:#c0cfe4">noi</th><th style="background:#c0cfe4">voi</th><th style="background:#c0cfe4">essi/esse</th></tr>
+<tr><th colspan="1" style="background:#c0cfe4">presente</th><td>do</td><td>dai</td><td>d&agrave;</td><td>diamo</td><td>date</td><td>danno</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">imperfetto</th><td>davo</td><td>davi</td><td>dava</td><td>davamo</td><td>davate</td><td>davano</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">passato remoto</th><td>diedi, detti</td><td>desti</td><td>diede, dette</td><td>demmo</td><td>deste</td><td>diedero, dettero</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">futuro</th><td>dar&ograve;</td><td>darai</td><td>dar&agrave;</td><td>daremo</td><td>darete</td><td>daranno</td></tr>
+<tr><th colspan="1" style="background:#c0d8e4">condizionale</th><th style="background:#c0d8e4">io</th><th style="background:#c0d8e4">tu</th><th style="background:#c0d8e4">lui/lei</th><th style="background:#c0d8e4">noi</th><th style="background:#c0d8e4">voi</th><th style="background:#c0d8e4">essi/esse</th></tr>
+<tr><th colspan="1" style="background:#c0d8e4">presente</th><td>darei</td><td>daresti</td><td>darebbe</td><td>daremmo</td><td>dareste</td><td>darebbero</td></tr>
+<tr><th colspan="1" style="background:#c0e4c0">congiuntivo</th><th style="background:#c0e4c0">che io</th><th style="background:#c0e4c0">che tu</th><th style="background:#c0e4c0">che lui/lei</th><th style="background:#c0e4c0">che noi</th><th style="background:#c0e4c0">che voi</th><th style="background:#c0e4c0">che essi/esse</th></tr>
+<tr><th colspan="1" style="background:#c0e4c0">presente</th><td>dia</td><td>dia</td><td>dia</td><td>diamo</td><td>diate</td><td>diano</td></tr>
+<tr><th colspan="1" style="background:#c0e4c0">imperfetto</th><td>dessi</td><td>dessi</td><td>desse</td><td>dessimo</td><td>deste</td><td>dessero</td></tr>
+<tr><th colspan="1" style="background:#e4d4c0">imperativo</th><th style="background:#e4d4c0">-</th><th style="background:#e4d4c0">tu</th><th style="background:#e4d4c0">lui/lei</th><th style="background:#e4d4c0">noi</th><th style="background:#e4d4c0">voi</th><th style="background:#e4d4c0">essi/esse</th></tr>
 <tr><th colspan="1" style="background:#e4d4c0"></th><td></td><td>d&agrave;, dai, da'</td><td>dia</td><td>diamo</td><td>date</td><td>diano</td></tr>
 </table>
 
@@ -3307,6 +3477,22 @@ The imperative forms of the second-person singular are compounded with pronouns 
 <ol><li> <a href="debit">debit</a></li>
 </ol>
 >>>
+===darebbe===
+HtmlEntry (shortened): dare
+===darebbero===
+HtmlEntry (shortened): dare
+===darei===
+HtmlEntry (shortened): dare
+===daremmo===
+HtmlEntry (shortened): dare
+===daremo===
+HtmlEntry (shortened): dare
+===dareste===
+HtmlEntry (shortened): dare
+===daresti===
+HtmlEntry (shortened): dare
+===darete===
+HtmlEntry (shortened): dare
 ===dark===
 HtmlEntry: dark <<<
 <h3>Etymology</h3>
@@ -3316,6 +3502,8 @@ HtmlEntry: dark <<<
 <ol><li> {{l|en|dark}} (used especially to describe a form of punk music)</li>
 </ol>
 >>>
+===darò===
+HtmlEntry (shortened): dare
 ===date===
 HtmlEntry: date <<<
 <h3>Noun</h3>
@@ -3330,6 +3518,7 @@ HtmlEntry: date <<<
 <li> feminine plural of <a href="dato">dato</a>, <a href="past participle">past participle</a> of dare</li>
 </ol>
 ---->>>
+HtmlEntry (shortened): dare
 ===dative===
 HtmlEntry: dative <<<
 <h3>Adjective</h3>
@@ -3337,6 +3526,20 @@ HtmlEntry: dative <<<
 <ol><li> {{form of|Feminine plural|<a href="dativo">dativo</a>}}</li>
 </ol>
 >>>
+===dato===
+HtmlEntry (shortened): dare
+===dava===
+HtmlEntry (shortened): dare
+===davamo===
+HtmlEntry (shortened): dare
+===davano===
+HtmlEntry (shortened): dare
+===davate===
+HtmlEntry (shortened): dare
+===davi===
+HtmlEntry (shortened): dare
+===davo===
+HtmlEntry (shortened): dare
 ===de===
 HtmlEntry: de <<<
 <h3>Contraction</h3>
@@ -3452,6 +3655,8 @@ HtmlEntry: delta <<<{{wikipedia|dab=Delta}}
 <li> <a href="deltaplano">deltaplano</a></li>
 </ul>
 ---->>>
+===demmo===
+HtmlEntry (shortened): dare
 ===denigrate===
 HtmlEntry: denigrate <<<
 <h3>Verb</h3>
@@ -3489,6 +3694,18 @@ HtmlEntry: design <<<
 <ol><li> <a href="#English">design</a> (industrial)</li>
 </ol>
 >>>
+===desse===
+HtmlEntry (shortened): dare
+===dessero===
+HtmlEntry (shortened): dare
+===dessi===
+HtmlEntry (shortened): dare
+===dessimo===
+HtmlEntry (shortened): dare
+===deste===
+HtmlEntry (shortened): dare
+===desti===
+HtmlEntry (shortened): dare
 ===destino===
 HtmlEntry: destino <<<
 <h3>Noun</h3>
@@ -3518,6 +3735,12 @@ HtmlEntry: detonate <<<
 <li> {{form of|<a href="feminine">Feminine</a> plural|detonato}}</li>
 </ol>
 >>>
+===dette===
+HtmlEntry (shortened): dare
+===dettero===
+HtmlEntry (shortened): dare
+===detti===
+HtmlEntry (shortened): dare
 ===dia===
 HtmlEntry: dia <<<
 <h3>Verb form</h3>
@@ -3526,6 +3749,13 @@ HtmlEntry: dia <<<
 <li> <a href="third-person singular">third-person singular</a> <a href="imperative">imperative</a> of dare</li>
 </ol>
 >>>
+HtmlEntry (shortened): dare
+===diamo===
+HtmlEntry (shortened): dare
+===diano===
+HtmlEntry (shortened): dare
+===diate===
+HtmlEntry (shortened): dare
 ===dice===
 HtmlEntry: dice <<<
 <h3>Verb form</h3>
@@ -3583,6 +3813,12 @@ From {{etyl|la|it}} {{term|decem|lang=la}}.
 <ul><li> <a href="Appendix:Italian numbers">Appendix:Italian numbers</a></li>
 </ul>
 >>>
+===diede===
+HtmlEntry (shortened): dare
+===diedero===
+HtmlEntry (shortened): dare
+===diedi===
+HtmlEntry (shortened): dare
 ===diesel===
 HtmlEntry: diesel <<<
 <h3>Noun</h3>
@@ -3671,6 +3907,7 @@ HtmlEntry: do <<<{{rfc|is d&ograve; alternative spelling for both verb and noun?
 <li> <a href="C">C</a> (the musical note or key)</li>
 </ol>
 >>>
+HtmlEntry (shortened): dare
 ===dodici===
 HtmlEntry: dodici <<<{{cardinalbox|it|11|12|13|undici|tredici|ord=dodicesimo}}
 <h3>Etymology</h3>
@@ -3817,6 +4054,8 @@ From {{etyl|la|it}} {{term|et|lang=la}}.&lt;ref&gt;Angelo Prati, &quot;Vocabolar
 <ol><li> <a href="and">and</a></li>
 </ol>
 >>>
+===è===
+HtmlEntry (shortened): essere
 ===Ecuador===
 HtmlEntry: Ecuador <<<
 <h3>Proper noun</h3>
@@ -3876,6 +4115,48 @@ HtmlEntry: emoticon <<<
 <ol><li> <a href="#English">emoticon</a></li>
 </ol>
 >>>
+===empi===
+HtmlEntry (shortened): empire
+===empì===
+HtmlEntry (shortened): empire
+===empia===
+HtmlEntry (shortened): empire
+===empiamo===
+HtmlEntry (shortened): empire
+===empiano===
+HtmlEntry (shortened): empire
+===empiate===
+HtmlEntry (shortened): empire
+===empie===
+HtmlEntry (shortened): empire
+===empié===
+HtmlEntry (shortened): empire
+===empiei===
+HtmlEntry (shortened): empire
+===empiemmo===
+HtmlEntry (shortened): empire
+===empiendo===
+HtmlEntry (shortened): empire
+===empierono===
+HtmlEntry (shortened): empire
+===empieste===
+HtmlEntry (shortened): empire
+===empiesti===
+HtmlEntry (shortened): empire
+===empii===
+HtmlEntry (shortened): empire
+===empimmo===
+HtmlEntry (shortened): empire
+===empio===
+HtmlEntry (shortened): empire
+===empiono===
+HtmlEntry (shortened): empire
+===empirà===
+HtmlEntry (shortened): empire
+===empirai===
+HtmlEntry (shortened): empire
+===empiranno===
+HtmlEntry (shortened): empire
 ===empire===
 HtmlEntry: empire <<<
 <h3>Etymology</h3>
@@ -3894,23 +4175,71 @@ From {{etyl|la|it}} <em><a href="implere">&#x69;&#x6d;&#x70;&#x6c;&#x113;&#x72;&
 </ul>
 
 <h4>Conjugation</h4>
-<table style="background:#F0F0F0;border-collapse:separate;border-spacing:2px"><tr><th colspan="1" style="background:#e2e4c0">infinitive</th><td colspan="1">empire</td></tr>
-<tr><th colspan="1" style="background:#e2e4c0">auxiliary verb</th><td colspan="1">avere</td><th colspan="1" style="background:#e2e4c0">gerund</th><td colspan="1">empiendo</td></tr>
-<tr><th colspan="1" style="background:#e2e4c0">present participle</th><td colspan="1">empiendo</td><th colspan="1" style="background:#e2e4c0">past participle</th><td colspan="1">empito</td></tr>
-<tr><th colspan="1" style="background:#c0cfe4">indicative</th><th style="background:#c0cfe4">io</th><th style="background:#c0cfe4">tu</th><th style="background:#c0cfe4">lui/lei</th><th style="background:#c0cfe4">noi</th><th style="background:#c0cfe4">voi</th><th style="background:#c0cfe4">essi/esse</th></tr>
-<tr><th colspan="1" style="background:#c0cfe4">present</th><td>empio</td><td>empi</td><td>empie</td><td>empiamo</td><td>empite</td><td>empiono</td></tr>
-<tr><th colspan="1" style="background:#c0cfe4">imperfect</th><td>empivo</td><td>empivi</td><td>empiva</td><td>empivamo</td><td>empivate</td><td>empivano</td></tr>
-<tr><th colspan="1" style="background:#c0cfe4">past historic</th><td>empii, empiei</td><td>empisti, empiesti</td><td>emp&igrave;, empi&eacute;</td><td>empimmo, empiemmo</td><td>empiste, empieste</td><td>empirono, empierono</td></tr>
-<tr><th colspan="1" style="background:#c0cfe4">future</th><td>empir&ograve;</td><td>empirai</td><td>empir&agrave;</td><td>empiremo</td><td>empirete</td><td>empiranno</td></tr>
-<tr><th colspan="1" style="background:#c0d8e4">conditional</th><th style="background:#c0d8e4">io</th><th style="background:#c0d8e4">tu</th><th style="background:#c0d8e4">lui/lei</th><th style="background:#c0d8e4">noi</th><th style="background:#c0d8e4">voi</th><th style="background:#c0d8e4">essi/esse</th></tr>
-<tr><th colspan="1" style="background:#c0d8e4">present</th><td>empirei</td><td>empiresti</td><td>empirebbe</td><td>empiremmo</td><td>empireste</td><td>empirebbero</td></tr>
-<tr><th colspan="1" style="background:#c0e4c0">subjuntive</th><th style="background:#c0e4c0">che io</th><th style="background:#c0e4c0">che tu</th><th style="background:#c0e4c0">che lui/lei</th><th style="background:#c0e4c0">che noi</th><th style="background:#c0e4c0">che voi</th><th style="background:#c0e4c0">che essi/esse</th></tr>
-<tr><th colspan="1" style="background:#c0e4c0">present</th><td>empia</td><td>empia</td><td>empia</td><td>empiamo</td><td>empiate</td><td>empiano</td></tr>
-<tr><th colspan="1" style="background:#c0e4c0">imperfect</th><td>empissi</td><td>empissi</td><td>empisse</td><td>empissimo</td><td>empiste</td><td>empissero</td></tr>
-<tr><th colspan="1" style="background:#e4d4c0">imperative</th><th style="background:#e4d4c0">-</th><th style="background:#e4d4c0">tu</th><th style="background:#e4d4c0">lui/lei</th><th style="background:#e4d4c0">noi</th><th style="background:#e4d4c0">voi</th><th style="background:#e4d4c0">essi/esse</th></tr>
+<table style="background:#F0F0F0"><tr><th colspan="1" style="background:#e2e4c0">infinito</th><td colspan="1">empire</td></tr>
+<tr><th colspan="1" style="background:#e2e4c0">verbo ausiliare</th><td colspan="1">avere</td><th colspan="1" style="background:#e2e4c0">gerundio</th><td colspan="1">empiendo</td></tr>
+<tr><th colspan="1" style="background:#e2e4c0">participio presente</th><td colspan="1">empiendo</td><th colspan="1" style="background:#e2e4c0">participio passato</th><td colspan="1">empito</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">indicativo</th><th style="background:#c0cfe4">io</th><th style="background:#c0cfe4">tu</th><th style="background:#c0cfe4">lui/lei</th><th style="background:#c0cfe4">noi</th><th style="background:#c0cfe4">voi</th><th style="background:#c0cfe4">essi/esse</th></tr>
+<tr><th colspan="1" style="background:#c0cfe4">presente</th><td>empio</td><td>empi</td><td>empie</td><td>empiamo</td><td>empite</td><td>empiono</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">imperfetto</th><td>empivo</td><td>empivi</td><td>empiva</td><td>empivamo</td><td>empivate</td><td>empivano</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">passato remoto</th><td>empii, empiei</td><td>empisti, empiesti</td><td>emp&igrave;, empi&eacute;</td><td>empimmo, empiemmo</td><td>empiste, empieste</td><td>empirono, empierono</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">futuro</th><td>empir&ograve;</td><td>empirai</td><td>empir&agrave;</td><td>empiremo</td><td>empirete</td><td>empiranno</td></tr>
+<tr><th colspan="1" style="background:#c0d8e4">condizionale</th><th style="background:#c0d8e4">io</th><th style="background:#c0d8e4">tu</th><th style="background:#c0d8e4">lui/lei</th><th style="background:#c0d8e4">noi</th><th style="background:#c0d8e4">voi</th><th style="background:#c0d8e4">essi/esse</th></tr>
+<tr><th colspan="1" style="background:#c0d8e4">presente</th><td>empirei</td><td>empiresti</td><td>empirebbe</td><td>empiremmo</td><td>empireste</td><td>empirebbero</td></tr>
+<tr><th colspan="1" style="background:#c0e4c0">congiuntivo</th><th style="background:#c0e4c0">che io</th><th style="background:#c0e4c0">che tu</th><th style="background:#c0e4c0">che lui/lei</th><th style="background:#c0e4c0">che noi</th><th style="background:#c0e4c0">che voi</th><th style="background:#c0e4c0">che essi/esse</th></tr>
+<tr><th colspan="1" style="background:#c0e4c0">presente</th><td>empia</td><td>empia</td><td>empia</td><td>empiamo</td><td>empiate</td><td>empiano</td></tr>
+<tr><th colspan="1" style="background:#c0e4c0">imperfetto</th><td>empissi</td><td>empissi</td><td>empisse</td><td>empissimo</td><td>empiste</td><td>empissero</td></tr>
+<tr><th colspan="1" style="background:#e4d4c0">imperativo</th><th style="background:#e4d4c0">-</th><th style="background:#e4d4c0">tu</th><th style="background:#e4d4c0">lui/lei</th><th style="background:#e4d4c0">noi</th><th style="background:#e4d4c0">voi</th><th style="background:#e4d4c0">essi/esse</th></tr>
 <tr><th colspan="1" style="background:#e4d4c0"></th><td></td><td>empi</td><td>empia</td><td>empiamo</td><td>empite</td><td>empiano</td></tr>
 </table>
 >>>
+===empirebbe===
+HtmlEntry (shortened): empire
+===empirebbero===
+HtmlEntry (shortened): empire
+===empirei===
+HtmlEntry (shortened): empire
+===empiremmo===
+HtmlEntry (shortened): empire
+===empiremo===
+HtmlEntry (shortened): empire
+===empireste===
+HtmlEntry (shortened): empire
+===empiresti===
+HtmlEntry (shortened): empire
+===empirete===
+HtmlEntry (shortened): empire
+===empirò===
+HtmlEntry (shortened): empire
+===empirono===
+HtmlEntry (shortened): empire
+===empisse===
+HtmlEntry (shortened): empire
+===empissero===
+HtmlEntry (shortened): empire
+===empissi===
+HtmlEntry (shortened): empire
+===empissimo===
+HtmlEntry (shortened): empire
+===empiste===
+HtmlEntry (shortened): empire
+===empisti===
+HtmlEntry (shortened): empire
+===empite===
+HtmlEntry (shortened): empire
+===empito===
+HtmlEntry (shortened): empire
+===empiva===
+HtmlEntry (shortened): empire
+===empivamo===
+HtmlEntry (shortened): empire
+===empivano===
+HtmlEntry (shortened): empire
+===empivate===
+HtmlEntry (shortened): empire
+===empivi===
+HtmlEntry (shortened): empire
+===empivo===
+HtmlEntry (shortened): empire
 ===emulate===
 HtmlEntry: emulate <<<
 <h3>Verb</h3>
@@ -3966,6 +4295,15 @@ HtmlEntry: era <<<
 <li> <a href="età">et&agrave;</a></li>
 </ul>
 >>>
+HtmlEntry (shortened): essere
+===erano===
+HtmlEntry (shortened): essere
+===eravamo===
+HtmlEntry (shortened): essere
+===eravate===
+HtmlEntry (shortened): essere
+===eri===
+HtmlEntry (shortened): essere
 ===Eritrea===
 HtmlEntry: Eritrea <<<
 <h3>Proper noun</h3>
@@ -3977,6 +4315,8 @@ HtmlEntry: Eritrea <<<
 <ul><li> <a href="eritreo">eritreo</a></li>
 </ul>
 >>>
+===ero===
+HtmlEntry (shortened): essere
 ===errata===
 HtmlEntry: errata <<<
 <h3>Adjective</h3>
@@ -4002,6 +4342,10 @@ HtmlEntry: Esperanto <<<
 <ul><li> <a href="esperantista">esperantista</a></li>
 </ul>
 >>>
+===essendo===
+HtmlEntry (shortened): essere
+===essente===
+HtmlEntry (shortened): essere
 ===essere===
 HtmlEntry: essere <<<
 <h3>Etymology</h3>
@@ -4020,20 +4364,20 @@ From {{etyl|la|it}} <em><a href="esse">esse</a></em>, present active infinitive 
 <h4>Conjugation</h4>
 <ul><li> Note: The present participle is very rare, it is usually replaced with stante (present participle of <a href="stare">stare</a>). Similarly the past participle has been totally replaced with the same tense from stare; the archaic form <b>essuto</b> has disappeared[http://dizionari.hoepli.it/Dizionario_Italiano/parola/essuto.aspx?idD=1&amp;Query=essuto&amp;lettera=E].</li>
 </ul>
-<table style="background:#F0F0F0;border-collapse:separate;border-spacing:2px"><tr><th colspan="1" style="background:#e2e4c0">infinitive</th><td colspan="1">essere</td></tr>
-<tr><th colspan="1" style="background:#e2e4c0">auxiliary verb</th><td colspan="1">essere</td><th colspan="1" style="background:#e2e4c0">gerund</th><td colspan="1">essendo</td></tr>
-<tr><th colspan="1" style="background:#e2e4c0">present participle</th><td colspan="1">essente</td><th colspan="1" style="background:#e2e4c0">past participle</th><td colspan="1">stato</td></tr>
-<tr><th colspan="1" style="background:#c0cfe4">indicative</th><th style="background:#c0cfe4">io</th><th style="background:#c0cfe4">tu</th><th style="background:#c0cfe4">lui/lei</th><th style="background:#c0cfe4">noi</th><th style="background:#c0cfe4">voi</th><th style="background:#c0cfe4">essi/esse</th></tr>
-<tr><th colspan="1" style="background:#c0cfe4">present</th><td>sono</td><td>sei</td><td>&egrave;</td><td>siamo</td><td>siete</td><td>sono</td></tr>
-<tr><th colspan="1" style="background:#c0cfe4">imperfect</th><td>ero</td><td>eri</td><td>era</td><td>eravamo</td><td>eravate</td><td>erano</td></tr>
-<tr><th colspan="1" style="background:#c0cfe4">past historic</th><td>fui</td><td>fosti</td><td>fu</td><td>fummo</td><td>foste</td><td>furono</td></tr>
-<tr><th colspan="1" style="background:#c0cfe4">future</th><td>sar&ograve;</td><td>sarai</td><td>sar&agrave;</td><td>saremo</td><td>sarete</td><td>saranno</td></tr>
-<tr><th colspan="1" style="background:#c0d8e4">conditional</th><th style="background:#c0d8e4">io</th><th style="background:#c0d8e4">tu</th><th style="background:#c0d8e4">lui/lei</th><th style="background:#c0d8e4">noi</th><th style="background:#c0d8e4">voi</th><th style="background:#c0d8e4">essi/esse</th></tr>
-<tr><th colspan="1" style="background:#c0d8e4">present</th><td>sarei</td><td>saresti</td><td>sarebbe</td><td>saremmo</td><td>sareste</td><td>sarebbero</td></tr>
-<tr><th colspan="1" style="background:#c0e4c0">subjuntive</th><th style="background:#c0e4c0">che io</th><th style="background:#c0e4c0">che tu</th><th style="background:#c0e4c0">che lui/lei</th><th style="background:#c0e4c0">che noi</th><th style="background:#c0e4c0">che voi</th><th style="background:#c0e4c0">che essi/esse</th></tr>
-<tr><th colspan="1" style="background:#c0e4c0">present</th><td>sia</td><td>sia</td><td>sia</td><td>siamo</td><td>siate</td><td>siano</td></tr>
-<tr><th colspan="1" style="background:#c0e4c0">imperfect</th><td>fossi</td><td>fossi</td><td>fosse</td><td>fossimo</td><td>foste</td><td>fossero</td></tr>
-<tr><th colspan="1" style="background:#e4d4c0">imperative</th><th style="background:#e4d4c0">-</th><th style="background:#e4d4c0">tu</th><th style="background:#e4d4c0">lui/lei</th><th style="background:#e4d4c0">noi</th><th style="background:#e4d4c0">voi</th><th style="background:#e4d4c0">essi/esse</th></tr>
+<table style="background:#F0F0F0"><tr><th colspan="1" style="background:#e2e4c0">infinito</th><td colspan="1">essere</td></tr>
+<tr><th colspan="1" style="background:#e2e4c0">verbo ausiliare</th><td colspan="1">essere</td><th colspan="1" style="background:#e2e4c0">gerundio</th><td colspan="1">essendo</td></tr>
+<tr><th colspan="1" style="background:#e2e4c0">participio presente</th><td colspan="1">essente</td><th colspan="1" style="background:#e2e4c0">participio passato</th><td colspan="1">stato</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">indicativo</th><th style="background:#c0cfe4">io</th><th style="background:#c0cfe4">tu</th><th style="background:#c0cfe4">lui/lei</th><th style="background:#c0cfe4">noi</th><th style="background:#c0cfe4">voi</th><th style="background:#c0cfe4">essi/esse</th></tr>
+<tr><th colspan="1" style="background:#c0cfe4">presente</th><td>sono</td><td>sei</td><td>&egrave;</td><td>siamo</td><td>siete</td><td>sono</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">imperfetto</th><td>ero</td><td>eri</td><td>era</td><td>eravamo</td><td>eravate</td><td>erano</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">passato remoto</th><td>fui</td><td>fosti</td><td>fu</td><td>fummo</td><td>foste</td><td>furono</td></tr>
+<tr><th colspan="1" style="background:#c0cfe4">futuro</th><td>sar&ograve;</td><td>sarai</td><td>sar&agrave;</td><td>saremo</td><td>sarete</td><td>saranno</td></tr>
+<tr><th colspan="1" style="background:#c0d8e4">condizionale</th><th style="background:#c0d8e4">io</th><th style="background:#c0d8e4">tu</th><th style="background:#c0d8e4">lui/lei</th><th style="background:#c0d8e4">noi</th><th style="background:#c0d8e4">voi</th><th style="background:#c0d8e4">essi/esse</th></tr>
+<tr><th colspan="1" style="background:#c0d8e4">presente</th><td>sarei</td><td>saresti</td><td>sarebbe</td><td>saremmo</td><td>sareste</td><td>sarebbero</td></tr>
+<tr><th colspan="1" style="background:#c0e4c0">congiuntivo</th><th style="background:#c0e4c0">che io</th><th style="background:#c0e4c0">che tu</th><th style="background:#c0e4c0">che lui/lei</th><th style="background:#c0e4c0">che noi</th><th style="background:#c0e4c0">che voi</th><th style="background:#c0e4c0">che essi/esse</th></tr>
+<tr><th colspan="1" style="background:#c0e4c0">presente</th><td>sia</td><td>sia</td><td>sia</td><td>siamo</td><td>siate</td><td>siano</td></tr>
+<tr><th colspan="1" style="background:#c0e4c0">imperfetto</th><td>fossi</td><td>fossi</td><td>fosse</td><td>fossimo</td><td>foste</td><td>fossero</td></tr>
+<tr><th colspan="1" style="background:#e4d4c0">imperativo</th><th style="background:#e4d4c0">-</th><th style="background:#e4d4c0">tu</th><th style="background:#e4d4c0">lui/lei</th><th style="background:#e4d4c0">noi</th><th style="background:#e4d4c0">voi</th><th style="background:#e4d4c0">essi/esse</th></tr>
 <tr><th colspan="1" style="background:#e4d4c0"></th><td></td><td>sii</td><td>sia</td><td>siamo</td><td>siate</td><td>siano</td></tr>
 </table>
 
@@ -4298,6 +4642,18 @@ HtmlEntry: fortune <<<
 <ol><li> {{plural of|fortuna}}</li>
 </ol>
 >>>
+===fosse===
+HtmlEntry (shortened): essere
+===fossero===
+HtmlEntry (shortened): essere
+===fossi===
+HtmlEntry (shortened): essere
+===fossimo===
+HtmlEntry (shortened): essere
+===foste===
+HtmlEntry (shortened): essere
+===fosti===
+HtmlEntry (shortened): essere
 ===fricative===
 HtmlEntry: fricative <<<
 <h3>Adjective</h3>
@@ -4329,6 +4685,10 @@ HtmlEntry: Frosinone <<<
 <li> {{l|en|Frosinone}} (town)</li>
 </ol>
 >>>
+===fu===
+HtmlEntry (shortened): essere
+===fui===
+HtmlEntry (shortened): essere
 ===full===
 HtmlEntry: full <<<
 <h3>Etymology</h3>
@@ -4347,6 +4707,10 @@ HtmlEntry: fulminate <<<
 <li> {{form of|<a href="feminine">Feminine</a> plural|fulminato}}</li>
 </ol>
 >>>
+===fummo===
+HtmlEntry (shortened): essere
+===furono===
+HtmlEntry (shortened): essere
 ===furtive===
 HtmlEntry: furtive <<<
 <h3>Adjective</h3>
@@ -8553,6 +8917,30 @@ HtmlEntry: San Marino <<<
 <ul><li> {{l|it|sammarinese}}</li>
 </ul>
 ---->>>
+===sarà===
+HtmlEntry (shortened): essere
+===sarai===
+HtmlEntry (shortened): essere
+===saranno===
+HtmlEntry (shortened): essere
+===sarebbe===
+HtmlEntry (shortened): essere
+===sarebbero===
+HtmlEntry (shortened): essere
+===sarei===
+HtmlEntry (shortened): essere
+===saremmo===
+HtmlEntry (shortened): essere
+===saremo===
+HtmlEntry (shortened): essere
+===sareste===
+HtmlEntry (shortened): essere
+===saresti===
+HtmlEntry (shortened): essere
+===sarete===
+HtmlEntry (shortened): essere
+===sarò===
+HtmlEntry (shortened): essere
 ===scalene===
 HtmlEntry: scalene <<<
 <h3>Adjective</h3>
@@ -8725,6 +9113,7 @@ From {{etyl|la|it}} {{term|sex|lang=la}}.
 <ul><li> <a href="Appendix:Italian numbers">Appendix:Italian numbers</a></li>
 </ul>
 ---->>>
+HtmlEntry (shortened): essere
 ===seme===
 HtmlEntry: seme <<<
 <h3>Pronunciation</h3>
@@ -8894,6 +9283,14 @@ HtmlEntry: si <<<
 <li> <a href="ci#Italian">ci</a></li>
 </ul>
 ---->>>
+===sia===
+HtmlEntry (shortened): essere
+===siamo===
+HtmlEntry (shortened): essere
+===siano===
+HtmlEntry (shortened): essere
+===siate===
+HtmlEntry (shortened): essere
 ===Sierra Leone===
 HtmlEntry: Sierra Leone <<<
 <h3>Proper noun</h3>
@@ -8901,6 +9298,8 @@ HtmlEntry: Sierra Leone <<<
 <ol><li> <a href="#English">Sierra Leone</a></li>
 </ol>
 ---->>>
+===siete===
+HtmlEntry (shortened): essere
 ===sigma===
 HtmlEntry: sigma <<<
 <h3>Noun</h3>
@@ -9097,6 +9496,8 @@ HtmlEntry: some <<<
 <ol><li> {{plural of|soma#Italian|soma}}</li>
 </ol>
 >>>
+===sono===
+HtmlEntry (shortened): essere
 ===sound===
 HtmlEntry: sound <<<
 <h3>Etymology</h3>
@@ -9212,6 +9613,8 @@ HtmlEntry: state <<<
 <li> {{non-gloss definition|second-person plural <a href="imperative">imperative</a> of {{term|stare}}}}</li>
 </ol>
 >>>
+===stato===
+HtmlEntry (shortened): essere
 ===stock===
 HtmlEntry: stock <<<
 <h3>Etymology</h3>

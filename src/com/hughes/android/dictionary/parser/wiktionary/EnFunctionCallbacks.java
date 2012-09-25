@@ -670,7 +670,7 @@ class EnFunctionCallbacks {
   }
 
   private static <T extends AbstractWiktionaryParser> void outputKeyVariations(AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback,
-        final StringBuilder builder, final String keyBase, Map<String, String> namedArgs) {
+        final StringBuilder builder, final String keyBase, Map<String, String> namedArgs, boolean isForm) {
     for (int suffix = 0; suffix <= 4; ++suffix) {
         final String key = suffix == 0 ? keyBase : keyBase + suffix;
         final String val = namedArgs.remove(key);
@@ -679,7 +679,9 @@ class EnFunctionCallbacks {
                 builder.append(", ");
             }
             appendAndIndexWikiCallback.dispatch(val, null);
-            appendAndIndexWikiCallback.parser.addLinkToCurrentEntry(val, EntryTypeName.WIKTIONARY_IS_FORM_OF_SOMETHING_ELSE);
+            if (isForm) {
+                appendAndIndexWikiCallback.parser.addLinkToCurrentEntry(val, EntryTypeName.WIKTIONARY_INFLECTED_FORM_MULTI);
+            }
         }
     }
   }
@@ -1006,36 +1008,36 @@ static final class it_conj_are<T extends AbstractWiktionaryParser> implements Fu
         builder.append("</td>");
         builder.append("<th colspan=\"1\" style=\"background:#e2e4c0\">gerundio</th>");
         builder.append("<td colspan=\"1\">");
-        outputKeyVariations(appendAndIndexWikiCallback, builder, "ger", namedArgs);
+        outputKeyVariations(appendAndIndexWikiCallback, builder, "ger", namedArgs, true);
         builder.append("</td>");
         builder.append("</tr>\n");
 
         builder.append("<tr>");
         builder.append("<th colspan=\"1\" style=\"background:#e2e4c0\">participio presente</th>");
         builder.append("<td colspan=\"1\">");
-        outputKeyVariations(appendAndIndexWikiCallback, builder, "presp", namedArgs);
+        outputKeyVariations(appendAndIndexWikiCallback, builder, "presp", namedArgs, true);
         builder.append("</td>");
         builder.append("<th colspan=\"1\" style=\"background:#e2e4c0\">participio passato</th>");
         builder.append("<td colspan=\"1\">");
-        outputKeyVariations(appendAndIndexWikiCallback, builder, "pastp", namedArgs);
+        outputKeyVariations(appendAndIndexWikiCallback, builder, "pastp", namedArgs, true);
         builder.append("</td>");
         builder.append("</tr>\n");
         
         final List<String> prefixes = (inf != null && inf.endsWith("si")) ? it_reflexive_pronouns : it_empty; 
 
         String style = " style=\"background:#c0cfe4\"";
-        outputDataRow(appendAndIndexWikiCallback, style, "indicativo", style, "th", "", new LinkedHashMap<String, String>(it_indicativePronouns), it_empty);
-        outputDataRow(appendAndIndexWikiCallback, style, "presente", "", "td", "pres", namedArgs, prefixes);
-        outputDataRow(appendAndIndexWikiCallback, style, "imperfetto", "", "td", "imperf", namedArgs, prefixes);
-        outputDataRow(appendAndIndexWikiCallback, style, "passato remoto", "", "td", "prem", namedArgs, prefixes);
-        outputDataRow(appendAndIndexWikiCallback, style, "futuro", "", "td", "fut", namedArgs, prefixes);
+        outputDataRow(appendAndIndexWikiCallback, style, "indicativo", style, "th", "", new LinkedHashMap<String, String>(it_indicativePronouns), it_empty, false);
+        outputDataRow(appendAndIndexWikiCallback, style, "presente", "", "td", "pres", namedArgs, prefixes, true);
+        outputDataRow(appendAndIndexWikiCallback, style, "imperfetto", "", "td", "imperf", namedArgs, prefixes, true);
+        outputDataRow(appendAndIndexWikiCallback, style, "passato remoto", "", "td", "prem", namedArgs, prefixes, true);
+        outputDataRow(appendAndIndexWikiCallback, style, "futuro", "", "td", "fut", namedArgs, prefixes, true);
 
         style = " style=\"background:#c0d8e4\"";
-        outputDataRow(appendAndIndexWikiCallback, style, "condizionale", style, "th", "", new LinkedHashMap<String, String>(it_indicativePronouns), it_empty);
-        outputDataRow(appendAndIndexWikiCallback, style, "presente", "", "td", "cond", namedArgs, prefixes);
+        outputDataRow(appendAndIndexWikiCallback, style, "condizionale", style, "th", "", new LinkedHashMap<String, String>(it_indicativePronouns), it_empty, false);
+        outputDataRow(appendAndIndexWikiCallback, style, "presente", "", "td", "cond", namedArgs, prefixes, true);
 
         style = " style=\"background:#c0e4c0\"";
-        outputDataRow(appendAndIndexWikiCallback, style, "congiuntivo", style, "th", "", new LinkedHashMap<String, String>(it_subjunctivePronouns), it_empty);
+        outputDataRow(appendAndIndexWikiCallback, style, "congiuntivo", style, "th", "", new LinkedHashMap<String, String>(it_subjunctivePronouns), it_empty, false);
         namedArgs.put("sub3s2", namedArgs.remove("sub3s"));
         namedArgs.put("sub1s", namedArgs.get("sub123s"));
         namedArgs.put("sub2s", namedArgs.get("sub123s"));
@@ -1043,16 +1045,16 @@ static final class it_conj_are<T extends AbstractWiktionaryParser> implements Fu
         namedArgs.put("sub1s2", namedArgs.get("sub123s2"));
         namedArgs.put("sub2s2", namedArgs.get("sub123s2"));
         namedArgs.put("sub3s2", namedArgs.remove("sub123s2"));
-        outputDataRow(appendAndIndexWikiCallback, style, "presente", "", "td", "sub", namedArgs, prefixes);
+        outputDataRow(appendAndIndexWikiCallback, style, "presente", "", "td", "sub", namedArgs, prefixes, true);
         namedArgs.put("impsub1s", namedArgs.get("impsub12s"));
         namedArgs.put("impsub2s", namedArgs.remove("impsub12s"));
         namedArgs.put("impsub1s2", namedArgs.get("impsub12s2"));
         namedArgs.put("impsub2s2", namedArgs.remove("impsub12s2"));
-        outputDataRow(appendAndIndexWikiCallback, style, "imperfetto", "", "td", "impsub", namedArgs, prefixes);
+        outputDataRow(appendAndIndexWikiCallback, style, "imperfetto", "", "td", "impsub", namedArgs, prefixes, true);
 
         style = " style=\"background:#e4d4c0\"";
-        outputDataRow(appendAndIndexWikiCallback, style, "imperativo", style, "th", "", new LinkedHashMap<String, String>(it_imperativePronouns), it_empty);
-        outputDataRow(appendAndIndexWikiCallback, style, "", "", "td", "imp", namedArgs, it_empty);  // these are attached to the stem.
+        outputDataRow(appendAndIndexWikiCallback, style, "imperativo", style, "th", "", new LinkedHashMap<String, String>(it_imperativePronouns), it_empty, false);
+        outputDataRow(appendAndIndexWikiCallback, style, "", "", "td", "imp", namedArgs, it_empty, false);  // these are attached to the stem.
 
         builder.append("</table>\n");
         
@@ -1068,7 +1070,7 @@ static final class it_conj_are<T extends AbstractWiktionaryParser> implements Fu
         private void outputDataRow(AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback,
                 String col1Style, String headerName, 
                 String col2Style, final String type2, 
-                String moodName, Map<String, String> namedArgs, final List<String> prefixes) {
+                String moodName, Map<String, String> namedArgs, final List<String> prefixes, final boolean isForm) {
             final StringBuilder builder = appendAndIndexWikiCallback.builder;
             builder.append("<tr>");
             builder.append("<th colspan=\"1\"").append(col1Style).append(">").append(headerName).append("</th>");
@@ -1079,7 +1081,7 @@ static final class it_conj_are<T extends AbstractWiktionaryParser> implements Fu
                     builder.append("<").append(type2).append("").append(col2Style).append(">");
                     final String keyBase = String.format("%s%s%s", moodName, person, number);
                     appendAndIndexWikiCallback.dispatch(prefixes.get(i++), null);
-                    outputKeyVariations(appendAndIndexWikiCallback, builder, keyBase, namedArgs);
+                    outputKeyVariations(appendAndIndexWikiCallback, builder, keyBase, namedArgs, isForm);
                     // Output <td> or <th>
                     builder.append("</").append(type2).append(">");
                 }

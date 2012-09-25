@@ -173,61 +173,62 @@ public class DictionaryBuilderTest extends TestCase {
   
   public void testWiktionary_IT_EN() throws Exception {
     wiktionaryTestWithLangToEn("wiktionary.it_en.quickdic", "IT", "it.txt",
-        "EN.data", "enwiktionary.english", "Italian", "it");
+        "EN.data", "enwiktionary.english", "Italian", "it", 1000);
   }
 
   public void testWiktionary_ZH_EN() throws Exception {
     wiktionaryTestWithLangToEn("wiktionary.zh_en.quickdic", "ZH", "empty.txt",
         // These missing "e" prevents a complete match, forcing the name to be printed
-        "EN.data", "enwiktionary.english", "Chinese|Mandarin|Cantones", "zh");
+        "EN.data", "enwiktionary.english", "Chinese|Mandarin|Cantones", "zh", 1000);
   }
 
   public void testWiktionary_DE_EN() throws Exception {
     wiktionaryTestWithLangToEn("wiktionary.de_en.quickdic", "DE", "de.txt",
-        "EN.data", "enwiktionary.english", "German", "it");
+        "EN.data", "enwiktionary.english", "German", "de", 1000);
   }
 
   public void testWiktionary_IT_IT() throws Exception {
     wiktionaryTestWithLangToEn("wiktionary.it_it.quickdic", "IT", "it.txt",
-        "IT.data", "enwiktionary.italian", "Italian", "it");
+        "IT.data", "enwiktionary.italian", "Italian", "it", 1000);
   }
 
   // French
   public void testWiktionary_FR_FR() throws Exception {
     wiktionaryTestWithLangToEn("wiktionary.fr_fr.quickdic", "FR", "fr.txt",
-        "FR.data", "enwiktionary.french", "French", "fr");
+        "FR.data", "enwiktionary.french", "French", "fr", 1000);
   }
 
   
   // Arabic
   public void testWiktionary_AR_AR() throws Exception {
+      // Arabic is really big for some reason, use fewer pages.
     wiktionaryTestWithLangToEn("wiktionary.ar_ar.quickdic", "AR", "empty.txt",
-        "AR.data", "enwiktionary.arabic", "Arabic", "ar");
+        "AR.data", "enwiktionary.arabic", "Arabic", "ar", 200);
   }
 
   // Chinese
   public void testWiktionary_ZH_ZH() throws Exception {
     wiktionaryTestWithLangToEn("wiktionary.zh_zh.quickdic", "ZH", "empty.txt",
         // These missing "e" prevents a complete match, forcing the name to be printed.
-        "ZH.data", "enwiktionary.chinese", "Chinese|Mandarin|Cantones", "zh");
+        "ZH.data", "enwiktionary.chinese", "Chinese|Mandarin|Cantones", "zh", 1000);
   }
 
   // German
   public void testWiktionary_DE_DE() throws Exception {
     wiktionaryTestWithLangToEn("wiktionary.de_de.quickdic", "DE", "de.txt",
-        "DE.data", "enwiktionary.german", "German", "it");
+        "DE.data", "enwiktionary.german", "German", "de", 1000);
   }
 
   // Thai
   public void testWiktionary_TH_TH() throws Exception {
     wiktionaryTestWithLangToEn("wiktionary.th_th.quickdic", "TH", "empty.txt",
         // These missing "e" prevents a complete match, forcing the name to be printed.
-        "TH.data", "enwiktionary.thai", "Thai", "th");
+        "TH.data", "enwiktionary.thai", "Thai", "th", 1000);
   }
 
   public void wiktionaryTestWithLangToEn(final String name, final String lang1,
       final String stoplist, final String data, final String dictName,
-      final String langPattern, final String langCode) throws Exception {
+      final String langPattern, final String langCode, int pageLimit) throws Exception {
     final File result = new File(TEST_OUTPUTS + name);
     System.out.println("Writing to: " + result);
     final String type = data.equals("EN.data") ? "EnToTranslation" : "EnForeign";
@@ -246,7 +247,7 @@ public class DictionaryBuilderTest extends TestCase {
         "--input4LangPattern=" + langPattern,
         "--input4LangCodePattern=" + langCode,
         "--input4EnIndex=2",
-        "--input4PageLimit=1000",
+        "--input4PageLimit=" + pageLimit,
 
         "--print=" + result.getPath() + ".text",
     });
