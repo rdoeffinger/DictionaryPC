@@ -1,7 +1,11 @@
 dictInfo=SomeWikiDataWholeSection
-EntrySource: wiktionary.WholeSection.EN.quickdic 0
+EntrySource: wiktionary.WholeSection.EN.quickdic 426
 
 Index: EN EN->EN
+===a===
+HtmlEntry (shortened): crow
+HtmlEntry (shortened): trade
+HtmlEntry (shortened): deal
 ===A===
 HtmlEntry: A <<<
 <h3>Etymology 1</h3>
@@ -139,6 +143,12 @@ Runic letter {{term|&#x16ab;|ansuz|tr=a}}, source for Anglo-Saxon Futhorc letter
 <ul><li> {{rank|little|now|then|79|A|should|can|made}}</li>
 </ul>
 ---->>>
+===Å===
+HtmlEntry (shortened): A
+===account===
+HtmlEntry (shortened): book
+===Acinonyx===
+HtmlEntry (shortened): cat
 ===adjectival===
 HtmlEntry: adjectival <<<
 <h3>Etymology</h3>
@@ -160,6 +170,7 @@ From {{suffix|adjective|al}}.
 <ol><li> An <a href="#adjective">adjectival</a> phrase or clause.</li>
 </ol>
 >>>
+HtmlEntry (shortened): adjective
 ===adjective===
 HtmlEntry: adjective <<<
 <h3>Etymology</h3>
@@ -212,6 +223,21 @@ From {{etyl|fro}} {{term|adjectif}}, from {{etyl|la}} {{term|adiectivus|&#x61;&#
 <ul><li> See also </li>
 </ul>
 >>>
+HtmlEntry (shortened): substantive
+===administer===
+HtmlEntry (shortened): deal
+===advancement===
+HtmlEntry (shortened): march
+===africana===
+HtmlEntry (shortened): elephant
+===after===
+HtmlEntry (shortened): dog
+===alligator===
+HtmlEntry (shortened): elephant
+===allot===
+HtmlEntry (shortened): deal
+===allotment===
+HtmlEntry (shortened): deal
 ===alphabetical===
 HtmlEntry: alphabetical <<<
 <h3>Etymology</h3>
@@ -246,6 +272,10 @@ HtmlEntry: alphabetical <<<
 <li> <a href="alphabetize">alphabetize</a></li>
 </ul>
 >>>
+===amalgamation===
+HtmlEntry (shortened): portmanteau word
+===andiron===
+HtmlEntry (shortened): dog
 ===antidisestablishmentarianism===
 HtmlEntry: antidisestablishmentarianism <<<
 <h3>Etymology</h3>
@@ -329,6 +359,7 @@ circa 1870: {{confix|ant|onym}}
 <ul><li> {pedia}</li>
 </ul>
 ---->>>
+HtmlEntry (shortened): synonym
 ===apples and pears===
 HtmlEntry: apples and pears <<<
 <h3>Noun</h3>
@@ -336,6 +367,10 @@ HtmlEntry: apples and pears <<<
 <ol><li> {Cockney rhyming slang} <a href="stairs">stairs</a></li>
 </ol>
 >>>
+===apportion===
+HtmlEntry (shortened): deal
+===apportionment===
+HtmlEntry (shortened): deal
 ===April===
 HtmlEntry: April <<<
 <h3>Etymology</h3>
@@ -388,11 +423,15 @@ From {{etyl|enm}} {{term|apprile|lang=enm}}, re-<a href="Latinize">Latinize</a>d
 <li> <a href="days of April">days of April</a></li>
 <li> <a href="mid-April">mid-April</a></li>
 </ul>
-{bottom}
+
 <h4>See also</h4>
 <ul><li> {{list|en|Gregorian calendar months}}</li>
 </ul>
 >>>
+===arc===
+HtmlEntry (shortened): minute
+===as===
+HtmlEntry (shortened): gratis
 ===august===
 HtmlEntry: august <<<
 <h3>Pronunciation</h3>
@@ -431,6 +470,12 @@ From <a href="August">August</a>
 <li> To bring to realisation</li>
 </ol>
 >>>
+===balderdash===
+HtmlEntry (shortened): nonsense
+===baloney===
+HtmlEntry (shortened): nonsense
+===bargain===
+HtmlEntry (shortened): deal
 ===barter===
 HtmlEntry: barter <<<
 <h3>Pronunciation</h3>
@@ -466,6 +511,41 @@ From {{etyl|fro}} <em><a href="barater">barater</a></em>, of uncertain origin (m
 <li> <a href="trade">trade</a></li>
 </ul>
 >>>
+HtmlEntry (shortened): swap
+HtmlEntry (shortened): trade
+HtmlEntry (shortened): quid pro quo
+===base===
+HtmlEntry (shortened): head
+===batch===
+HtmlEntry (shortened): deal
+===beer===
+HtmlEntry (shortened): gratis
+===Bible===
+HtmlEntry (shortened): word
+===big===
+HtmlEntry (shortened): minute
+===bitch===
+HtmlEntry (shortened): cat
+===black===
+HtmlEntry (shortened): cat
+===blackguard===
+HtmlEntry (shortened): dog
+===blend===
+HtmlEntry (shortened): portmanteau
+HtmlEntry (shortened): portmanteau word
+===bloke===
+HtmlEntry (shortened): dog
+HtmlEntry (shortened): cat
+===blow===
+HtmlEntry (shortened): head
+===blowjob===
+HtmlEntry (shortened): head
+===bollocks===
+HtmlEntry (shortened): nonsense
+===bomb===
+HtmlEntry (shortened): book
+===bonce===
+HtmlEntry (shortened): head
 ===book===
 HtmlEntry: book <<<
 <h3>Pronunciation</h3>
@@ -770,6 +850,16 @@ HtmlEntry: book <<<
 <ol><li> {{alternative form of|booke|lang=enm}}</li>
 </ol>
 >>>
+===booklet===
+HtmlEntry (shortened): book
+===boss===
+HtmlEntry (shortened): head
+===bottom===
+HtmlEntry (shortened): head
+===bounder===
+HtmlEntry (shortened): dog
+===broadwing===
+HtmlEntry (shortened): eagle
 ===brown===
 HtmlEntry: brown <<<<a href="File:Color icon brown v2.svg">Various shades of brown.</a><a href="File:A child of chappargram.JPG">Brown is a common hair color.</a><a href="File:Hot chocolate in Montsalvat , Melbourne.jpg">A glass of hot chocolate.</a>
 <h3>Etymology</h3>
@@ -872,6 +962,21 @@ HtmlEntry: brown <<<<a href="File:Color icon brown v2.svg">Various shades of bro
 <li> <a href="Appendix:Colors">Appendix:Colors</a></li>
 </ul>
 >>>
+===bucket===
+HtmlEntry (shortened): rain cats and dogs
+===buckets===
+HtmlEntry (shortened): rain cats and dogs
+===bull===
+HtmlEntry (shortened): nonsense
+===bulldust===
+HtmlEntry (shortened): nonsense
+===bullshit===
+HtmlEntry (shortened): nonsense
+===bunk===
+HtmlEntry (shortened): nonsense
+===business===
+HtmlEntry (shortened): trade
+HtmlEntry (shortened): deal
 ===business deal===
 HtmlEntry: business deal <<<
 <h3>Noun</h3>
@@ -888,6 +993,24 @@ HtmlEntry: business deal <<<
 <li> <a href="trade">trade</a></li>
 </ul>
 >>>
+===cad===
+HtmlEntry (shortened): dog
+===can===
+HtmlEntry (shortened): may
+===Caniformia===
+HtmlEntry (shortened): cat
+===canine===
+HtmlEntry (shortened): dog
+===canis===
+HtmlEntry (shortened): dog
+===Canis===
+HtmlEntry (shortened): dog
+===Canoidea===
+HtmlEntry (shortened): cat
+===caput===
+HtmlEntry (shortened): head
+===carnivoran===
+HtmlEntry (shortened): cat
 ===cat===
 HtmlEntry: cat <<<A domestic cat (1)
 <h3>Pronunciation</h3>
@@ -1113,6 +1236,29 @@ Possibly a shortened form of {{term|catastrophic}}.
 
 <h5>Usage notes</h5>
 This usage is common in speech but rarely appears in writing.>>>
+===chap===
+HtmlEntry (shortened): dog
+HtmlEntry (shortened): cat
+===chase===
+HtmlEntry (shortened): dog
+===chief===
+HtmlEntry (shortened): head
+===chuck===
+HtmlEntry (shortened): rain cats and dogs
+===click===
+HtmlEntry (shortened): dog
+===cock===
+HtmlEntry (shortened): crow
+===codswallop===
+HtmlEntry (shortened): nonsense
+===colloquialism===
+HtmlEntry (shortened): nonsense
+===colossal===
+HtmlEntry (shortened): minute
+===commerce===
+HtmlEntry (shortened): trade
+===composure===
+HtmlEntry (shortened): head
 ===connotation===
 HtmlEntry: connotation <<<
 <h3>Pronunciation</h3>
@@ -1144,6 +1290,12 @@ HtmlEntry: connotation <<<
 
 <h4>External links</h4>
 >>>
+===contract===
+HtmlEntry (shortened): deal
+===could===
+HtmlEntry (shortened): may
+===cove===
+HtmlEntry (shortened): cat
 ===craft===
 HtmlEntry: craft <<<{{wikipedia|craft|dab=craft (disambiguation)}}
 <h3>Etymology</h3>
@@ -1192,7 +1344,6 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|cr&aelig;ft|physical strength,
 </ol>
 
 <h4>Derived terms</h4>
-{top2}
 <ul><li> <a href="aircraft">aircraft</a></li>
 <li> <a href="craft beer">craft beer</a>, <a href="craft brewery">craft brewery</a></li>
 <li> <a href="gypsycraft">gypsycraft</a></li>
@@ -1201,14 +1352,13 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|cr&aelig;ft|physical strength,
 <li> <a href="spacecraft">spacecraft</a></li>
 <li> <a href="spellcraft">spellcraft</a></li>
 </ul>
-{mid2}
 <ul><li> <a href="spycraft">spycraft</a></li>
 <li> <a href="statecraft">statecraft</a></li>
 <li> <a href="warcraft">warcraft</a></li>
 <li> <a href="watercraft">watercraft</a></li>
 <li> <a href="witchcraft">witchcraft</a></li>
 </ul>
-{bottom}
+
 <h4>Synonyms</h4>
 <ul><li> {{sense|skill at work}} <a href="craftsmanship">craftsmanship</a>, <a href="workmanship">workmanship</a></li>
 <li> {{sense|nautical sense}}</li>
@@ -1223,6 +1373,15 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|cr&aelig;ft|physical strength,
 <li> To construct, develop something (like a skilled craftsman): &quot;state crafting&quot;, &quot;crafting global policing&quot;.</li>
 </ol>
 >>>
+HtmlEntry (shortened): trade
+===craftiness===
+HtmlEntry (shortened): craft
+===craftsmanship===
+HtmlEntry (shortened): craft
+===crap===
+HtmlEntry (shortened): nonsense
+===creation===
+HtmlEntry (shortened): product
 ===crow===
 HtmlEntry: crow <<<A bird; a crow: <em>American crow</em>
 <h3>Pronunciation</h3>
@@ -1295,6 +1454,10 @@ HtmlEntry: crow <<<A bird; a crow: <em>American crow</em>
 <li> To utter a sound expressive of joy or pleasure.</li>
 </ol>
 >>>
+===crowbar===
+HtmlEntry (shortened): crow
+===cunning===
+HtmlEntry (shortened): craft
 ===current events===
 HtmlEntry: current events <<<
 <h3>Noun</h3>
@@ -1622,6 +1785,8 @@ From {{etyl|enm}} {{term|delen|lang=enm}}, from {{etyl|ang}} {{term|d&aelig;lan|
 <ul><li> {{rank|knows|try|loved|624|deal|distance|thinking|beginning}}</li>
 </ul>
 >>>
+HtmlEntry (shortened): trade
+HtmlEntry (shortened): business deal
 ===December===
 HtmlEntry: December <<<
 <h3>Alternative forms</h3>
@@ -1689,6 +1854,13 @@ From to <a href="denote">denote</a> (from {{etyl|frm}} <a href="denoter">denoter
 <ul><li> <a href="connotation">connotation</a></li>
 </ul>
 >>>
+HtmlEntry (shortened): connotation
+===dependent===
+HtmlEntry (shortened): adjective
+===derivative===
+HtmlEntry (shortened): adjective
+===detent===
+HtmlEntry (shortened): dog
 ===dialect===
 HtmlEntry: dialect <<<
 <h3>Etymology</h3>
@@ -1786,6 +1958,18 @@ HtmlEntry: dictionary <<<{{wikipedia|Dictionary|dab=Dictionary (disambiguation)}
 <li> {intransitive} To appear in a dictionary</li>
 </ol>
 >>>
+===dish===
+HtmlEntry (shortened): deal
+===dispense===
+HtmlEntry (shortened): deal
+===distribute===
+HtmlEntry (shortened): deal
+===distribution===
+HtmlEntry (shortened): deal
+===divvy===
+HtmlEntry (shortened): deal
+===do===
+HtmlEntry (shortened): trade
 ===dog===
 HtmlEntry: dog <<<{slim-wikipedia}A dog (a <a href="Labrador retriever">Labrador retriever</a>)
 <h3>Alternative forms</h3>
@@ -2327,6 +2511,30 @@ From {{etyl|enm}} {{term|dogge|lang=enm}}, from {{etyl|ang}} {{term|docga|hound,
 <li> {{sense|to restrict one's productivity}} <a href="soldier">soldier</a>, <a href="goldbrick">goldbrick</a></li>
 </ul>
 >>>
+===dogiron===
+HtmlEntry (shortened): dog
+===dole===
+HtmlEntry (shortened): deal
+===doling===
+HtmlEntry (shortened): deal
+===domestic===
+HtmlEntry (shortened): dog
+===domesticus===
+HtmlEntry (shortened): dog
+===doo===
+HtmlEntry (shortened): crow
+===doodle===
+HtmlEntry (shortened): crow
+===down===
+HtmlEntry (shortened): book
+HtmlEntry (shortened): rain cats and dogs
+===drink===
+HtmlEntry (shortened): pound
+===drivel===
+HtmlEntry (shortened): nonsense
+===dude===
+HtmlEntry (shortened): dog
+HtmlEntry (shortened): cat
 ===eagle===
 HtmlEntry: eagle <<<Golden eagle (bird).
 <h3>Etymology</h3>
@@ -2383,6 +2591,8 @@ HtmlEntry: eagle <<<Golden eagle (bird).
 <ul><li> {{pedia|Eagle (disambiguation)}}</li>
 </ul>
 >>>
+===easterly===
+HtmlEntry (shortened): trade wind
 ===elephant===
 HtmlEntry: elephant <<<
 <h3>Etymology</h3>
@@ -2543,6 +2753,8 @@ HtmlEntry: elephant <<<
 <li> {{pedia|Elephant (disambiguation)}}</li>
 </ul>
 <a href="Category:en:Elephants">*</a>---->>>
+===Elephas===
+HtmlEntry (shortened): elephant
 ===encyclopaedia===
 HtmlEntry: encyclopaedia <<<
 <h3>Alternative forms</h3>
@@ -2610,6 +2822,16 @@ The spelling <em>encyclopedia</em> is standard in American English, preferred in
 <ul><li> <a href="dictionary">dictionary</a></li>
 </ul>
 >>>
+===enormous===
+HtmlEntry (shortened): minute
+===equivalent===
+HtmlEntry (shortened): synonym
+===erne===
+HtmlEntry (shortened): eagle
+===essence===
+HtmlEntry (shortened): substantive
+===essential===
+HtmlEntry (shortened): substantive
 ===etymology===
 HtmlEntry: etymology <<<
 <h3>Etymology</h3>
@@ -2647,6 +2869,19 @@ From {{etyl|enm}} {{term|etimologie|lang=enm}}, from {{etyl|fro}} {{term|ethimol
 <ul><li> <a href="onomastics">onomastics</a></li>
 </ul>
 >>>
+===exact===
+HtmlEntry (shortened): minute
+===exacting===
+HtmlEntry (shortened): minute
+===exchange===
+HtmlEntry (shortened): swap
+HtmlEntry (shortened): trade
+===excruciating===
+HtmlEntry (shortened): minute
+===express===
+HtmlEntry (shortened): word
+===extinct===
+HtmlEntry (shortened): cat
 ===f===
 HtmlEntry: f <<<
 <h3>Etymology 1</h3>
@@ -2706,6 +2941,8 @@ HtmlEntry: f <<<
 <li> <a href="n">n</a></li>
 </ul>
 ---->>>
+===F===
+HtmlEntry (shortened): f
 ===fa===
 HtmlEntry: fa <<<
 <h3>Alternative forms</h3>
@@ -2725,17 +2962,15 @@ From the first syllable of the Latin word {{term|famuli}}, extracted of the poem
 </ol>
 
 <h3>See also</h3>
-{top2}
 <ul><li> <a href="do">do</a></li>
 <li> <a href="la">la</a></li>
 <li> <a href="mi">mi</a></li>
 </ul>
-{mid2}
 <ul><li> <a href="re">re</a></li>
 <li> <a href="so">so</a></li>
 <li> <a href="ti">ti</a></li>
 </ul>
-{bottom}>>>
+>>>
 ===false friend===
 HtmlEntry: false friend <<<{{was wotd|2007|May|4}}
 <h3>Pronunciation</h3>
@@ -2770,6 +3005,10 @@ HtmlEntry: false friend <<<{{was wotd|2007|May|4}}
 <li> <a href="false cognate">false cognate</a></li>
 </ul>
 >>>
+===familiaris===
+HtmlEntry (shortened): dog
+===family===
+HtmlEntry (shortened): cat
 ===February===
 HtmlEntry: February <<<
 <h3>Etymology</h3>
@@ -2790,19 +3029,17 @@ Re-<a href="Latinize">Latinize</a>d from {{etyl|enm}} {{term|feoverel|lang=enm}}
 </ul>
 
 <h4>Derived terms</h4>
-{top2}
 <ul><li> <a href="February daphne">February daphne</a></li>
 <li> <a href="February fill-dike">February fill-dike</a></li>
 <li> <a href="February Patent">February Patent</a></li>
 <li> <a href="February red">February red</a></li>
 </ul>
-{mid2}
 <ul><li> <a href="February Revolution">February Revolution</a></li>
 <li> <a href="February Strike">February Strike</a></li>
 <li> <a href="February Uprising">February Uprising</a></li>
 <li> <a href="mid-February">mid-February</a></li>
 </ul>
-{bottom}
+
 <h4>Related terms</h4>
 <ul><li> <a href="februate">februate</a></li>
 <li> <a href="februation">februation</a></li>
@@ -2812,6 +3049,35 @@ Re-<a href="Latinize">Latinize</a>d from {{etyl|enm}} {{term|feoverel|lang=enm}}
 <ul><li> {{list|en|Gregorian calendar months}}</li>
 </ul>
 >>>
+===felid===
+HtmlEntry (shortened): cat
+===Felidae===
+HtmlEntry (shortened): cat
+===feliform===
+HtmlEntry (shortened): cat
+===Feliformia===
+HtmlEntry (shortened): cat
+===Felinae===
+HtmlEntry (shortened): cat
+===feline===
+HtmlEntry (shortened): cat
+===Felis===
+HtmlEntry (shortened): cat
+===fella===
+HtmlEntry (shortened): cat
+===fellatio===
+HtmlEntry (shortened): head
+===fellow===
+HtmlEntry (shortened): dog
+HtmlEntry (shortened): cat
+===feloid===
+HtmlEntry (shortened): cat
+===Feloidea===
+HtmlEntry (shortened): cat
+===firedog===
+HtmlEntry (shortened): dog
+===first===
+HtmlEntry (shortened): head
 ===floccinaucinihilipilification===
 HtmlEntry: floccinaucinihilipilification <<<{wikiquote}
 <h3>Etymology</h3>
@@ -2840,6 +3106,17 @@ Often cited as the longest non-technical word in the English language, being one
 <ul><li> <a href="floccinaucinihilipilificate">floccinaucinihilipilificate</a></li>
 </ul>
 >>>
+===flock===
+HtmlEntry (shortened): deal
+===fo===
+HtmlEntry (shortened): f
+===fool===
+HtmlEntry (shortened): dog
+===foxiness===
+HtmlEntry (shortened): craft
+===frankenword===
+HtmlEntry (shortened): portmanteau
+HtmlEntry (shortened): portmanteau word
 ===free===
 HtmlEntry: free <<<{{wikipedia|dab=free}}
 <h3>Etymology</h3>
@@ -3002,6 +3279,7 @@ HtmlEntry: free <<<{{wikipedia|dab=free}}
 <ul><li> {{rank/test|351|en-gut}}</li>
 </ul>
 >>>
+HtmlEntry (shortened): gratis
 ===freedom of speech===
 HtmlEntry: freedom of speech <<<{{wikipedia|Freedom of speech}}{{wikinews|Category:Free speech}}{{commons|Category:Freedom of speech}}{{wikiquote|Freedom of speech}}
 <h3>Etymology</h3>
@@ -3117,6 +3395,8 @@ HtmlEntry: Friday <<<
 <ul><li> {{list|en|days of the week}}</li>
 </ul>
 >>>
+===frontier===
+HtmlEntry (shortened): march
 ===GDP===
 HtmlEntry: GDP <<<{{wikipedia|GDP (disambiguation)}}
 <h3>{initialism}</h3>
@@ -3130,6 +3410,8 @@ HtmlEntry: GDP <<<{{wikipedia|GDP (disambiguation)}}
 <li> <a href="GTP">GTP</a></li>
 </ul>
 >>>
+===gibberish===
+HtmlEntry (shortened): nonsense
 ===GNU FDL===
 HtmlEntry: GNU FDL <<<
 <h3>{initialism}</h3>
@@ -3137,6 +3419,17 @@ HtmlEntry: GNU FDL <<<
 <ol><li> <a href="GNU">GNU</a> <a href="free">Free</a> <a href="documentation">Documentation</a> <a href="license">License</a></li>
 </ol>
 >>>
+===go===
+HtmlEntry (shortened): dog
+===God===
+HtmlEntry (shortened): word
+===goldbrick===
+HtmlEntry (shortened): dog
+===good===
+HtmlEntry (shortened): deal
+===goods===
+HtmlEntry (shortened): wares
+HtmlEntry (shortened): product
 ===grain of salt===
 HtmlEntry: grain of salt <<<
 <h3>Etymology</h3>
@@ -3187,6 +3480,21 @@ From {{etyl|la}} <em><a href="#Latin">gratis</a></em>.
 <ul><li> <a href="libre">libre</a></li>
 </ul>
 ---->>>
+===great===
+HtmlEntry (shortened): deal
+===grimalkin===
+HtmlEntry (shortened): cat
+===guile===
+HtmlEntry (shortened): craft
+===guy===
+HtmlEntry (shortened): dog
+HtmlEntry (shortened): cat
+===hand===
+HtmlEntry (shortened): deal
+===hash===
+HtmlEntry (shortened): pound
+===hatful===
+HtmlEntry (shortened): deal
 ===head===
 HtmlEntry: head <<<{{wikipedia|Head|dab=Head (disambiguation)}}{{rfc|still missing some basic dictionary definitions: see talk page}}
 <h3>Alternative forms</h3>
@@ -3493,6 +3801,30 @@ From {{etyl|enm}} {{term|hed|lang=enm}}, {{term|heed|lang=enm}}, {{term|heved|la
 <ul><li> {{rank|seemed|house|looked|184|head|called|p|Lord}}</li>
 </ul>
 >>>
+===headmaster===
+HtmlEntry (shortened): head
+===headmistress===
+HtmlEntry (shortened): head
+===heap===
+HtmlEntry (shortened): deal
+===heel===
+HtmlEntry (shortened): dog
+===hockey===
+HtmlEntry (shortened): nonsense
+===hogwash===
+HtmlEntry (shortened): nonsense
+===Homotherini===
+HtmlEntry (shortened): cat
+===Homotherium===
+HtmlEntry (shortened): cat
+===hooey===
+HtmlEntry (shortened): nonsense
+===horse===
+HtmlEntry (shortened): nonsense
+===horseshit===
+HtmlEntry (shortened): nonsense
+===hound===
+HtmlEntry (shortened): dog
 ===hour===
 HtmlEntry: hour <<<
 <h3>Alternative forms</h3>
@@ -3576,6 +3908,16 @@ HtmlEntry: hour <<<
 <ul><li> {{rank|thousand|looking|John|366|hour|air|reason|feel}}</li>
 </ul>
 >>>
+===housecat===
+HtmlEntry (shortened): cat
+===huge===
+HtmlEntry (shortened): minute
+===Humpday===
+HtmlEntry (shortened): Wednesday
+===hurtle===
+HtmlEntry (shortened): book
+===hypernym===
+HtmlEntry (shortened): hyponym
 ===hyponym===
 HtmlEntry: hyponym <<<
 <h3>Etymology</h3>
@@ -3611,6 +3953,23 @@ HtmlEntry: hyponym <<<
 <li> <a href="troponym">troponym</a>, the corresponding idea, as applied to verbs.</li>
 </ul>
 ---->>>
+===in===
+HtmlEntry (shortened): gratis
+HtmlEntry (shortened): substantive
+===infinitesimal===
+HtmlEntry (shortened): minute
+===insignificant===
+HtmlEntry (shortened): minute
+===instant===
+HtmlEntry (shortened): minute
+===intension===
+HtmlEntry (shortened): connotation
+===into===
+HtmlEntry (shortened): word
+===it===
+HtmlEntry (shortened): rain cats and dogs
+===jaguar===
+HtmlEntry (shortened): cat
 ===January===
 HtmlEntry: January <<<
 <h3>Etymology</h3>
@@ -3654,6 +4013,10 @@ Re-<a href="Latinize">Latinize</a>d from {{etyl|enm}} {{term|Ieneuer|lang=enm}},
 <ul><li> {{list|en|Gregorian calendar months}}</li>
 </ul>
 >>>
+===jiffy===
+HtmlEntry (shortened): minute
+===job===
+HtmlEntry (shortened): head
 ===July===
 HtmlEntry: July <<<
 <h3>Etymology</h3>
@@ -3753,6 +4116,20 @@ From {{etyl|enm|en}} {{term|jun|lang=enm}}, {{term|june|lang=enm}}, re-<a href="
 <ul><li> {{list|en|Gregorian calendar months}}</li>
 </ul>
 ---->>>
+===kitten===
+HtmlEntry (shortened): cat
+===kitty===
+HtmlEntry (shortened): cat
+===lavatory===
+HtmlEntry (shortened): head
+===lb===
+HtmlEntry (shortened): pound
+===leader===
+HtmlEntry (shortened): head
+===leopard===
+HtmlEntry (shortened): cat
+===Leopardus===
+HtmlEntry (shortened): cat
 ===lexicography===
 HtmlEntry: lexicography <<<
 <h3>Etymology</h3>
@@ -3769,6 +4146,16 @@ HtmlEntry: lexicography <<<
 <li> <a href="lexicology">lexicology</a></li>
 </ul>
 >>>
+===libre===
+HtmlEntry (shortened): gratis
+===libretto===
+HtmlEntry (shortened): book
+===like===
+HtmlEntry (shortened): cat
+===lion===
+HtmlEntry (shortened): cat
+===little===
+HtmlEntry (shortened): deal
 ===livre===
 HtmlEntry: livre <<<{{wikipedia|dab=livre}}
 <h3>Etymology</h3>
@@ -3785,6 +4172,33 @@ From {{etyl|fr}} {{term|livre|lang=fr}}.
 </ul>
 </ol>
 >>>
+===load===
+HtmlEntry (shortened): deal
+===loaf===
+HtmlEntry (shortened): head
+===Logos===
+HtmlEntry (shortened): word
+===lot===
+HtmlEntry (shortened): deal
+===Loxodonta===
+HtmlEntry (shortened): elephant
+===Lynx===
+HtmlEntry (shortened): cat
+===Machairodontinae===
+HtmlEntry (shortened): cat
+===Machairodontini===
+HtmlEntry (shortened): cat
+===make===
+HtmlEntry (shortened): trade
+===malarkey===
+HtmlEntry (shortened): nonsense
+===malkin===
+HtmlEntry (shortened): cat
+===man===
+HtmlEntry (shortened): dog
+HtmlEntry (shortened): cat
+===manure===
+HtmlEntry (shortened): nonsense
 ===march===
 HtmlEntry: march <<<
 <h3>Pronunciation</h3>
@@ -4005,6 +4419,10 @@ From {{etyl|enm}} {{term|marche|tract of land along a country's border|lang=enm}
 <ol><li> {intransitive} To have common <a href="border">border</a>s or <a href="frontier">frontier</a>s</li>
 </ol>
 >>>
+===mass===
+HtmlEntry (shortened): deal
+===maximus===
+HtmlEntry (shortened): elephant
 ===may===
 HtmlEntry: may <<<{{slim-wikipedia|May (disambiguation)}}
 <h3>Pronunciation</h3>
@@ -4125,6 +4543,8 @@ HtmlEntry: may <<<{{slim-wikipedia|May (disambiguation)}}
 <ul><li> {{rank|very|upon|man|70|may|about|its|time}}</li>
 </ul>
 >>>
+===meaty===
+HtmlEntry (shortened): substantive
 ===merchandise===
 HtmlEntry: merchandise <<<
 <h3>Alternative forms</h3>
@@ -4172,6 +4592,26 @@ HtmlEntry: merchandise <<<
 <li> <a href="merchantable">merchantable</a></li>
 </ul>
 ---->>>
+HtmlEntry (shortened): wares
+HtmlEntry (shortened): product
+===mess===
+HtmlEntry (shortened): deal
+===Metailurini===
+HtmlEntry (shortened): cat
+===mete===
+HtmlEntry (shortened): deal
+===meticulous===
+HtmlEntry (shortened): minute
+===mickle===
+HtmlEntry (shortened): deal
+===might===
+HtmlEntry (shortened): may
+===mind===
+HtmlEntry (shortened): head
+===mint===
+HtmlEntry (shortened): deal
+===minuscule===
+HtmlEntry (shortened): minute
 ===minute===
 HtmlEntry: minute <<<
 <h3>Etymology 1</h3>
@@ -4257,6 +4697,12 @@ From {{etyl|la}} {{term|minutus|&#x6d;&#x69;&#x6e;&#x16b;&#x74;&#x75;&#x73;|smal
 <ul><li> <a href="big">big</a>, <a href="enormous">enormous</a>, <a href="colossal">colossal</a>, <a href="huge">huge</a>, <a href="significant">significant</a>, <a href="tremendous">tremendous</a>, <a href="vast">vast</a></li>
 </ul>
 >>>
+===Miomachairodus===
+HtmlEntry (shortened): cat
+===mo===
+HtmlEntry (shortened): minute
+===moment===
+HtmlEntry (shortened): minute
 ===Monday===
 HtmlEntry: Monday <<<
 <h3>Etymology</h3>
@@ -4338,6 +4784,8 @@ HtmlEntry: Monday <<<
 <ul><li> {{list|en|days of the week}}</li>
 </ul>
 >>>
+===monosemous===
+HtmlEntry (shortened): polysemic
 ===month===
 HtmlEntry: month <<<
 <h3>Alternative forms</h3>
@@ -4386,6 +4834,10 @@ From {{etyl|enm}} {{term|month|lang=enm}}, {{term|moneth|lang=enm}}, from {{etyl
 <ul><li> {{rank|original|provide|determined|819|month|news|prepared|support}}</li>
 </ul>
 >>>
+===mouser===
+HtmlEntry (shortened): cat
+===muckle===
+HtmlEntry (shortened): deal
 ===multiculturalism===
 HtmlEntry: multiculturalism <<<{{was wotd|2011|April|24}}
 <h3>Etymology</h3>
@@ -4534,19 +4986,17 @@ From {{etyl|ang}} {{term|nama|lang=ang}}, from {{proto|Germanic|nam&ocirc;}}, fr
 </ul>
 {rel-bottom}
 <h3>See also</h3>
-{top2}
 <ul><li> <a href="christen">christen</a></li>
 <li> <a href="cognomen">cognomen</a></li>
 <li> <a href="epithet">epithet</a></li>
 <li> <a href="moniker">moniker</a></li>
 <li> <a href="nom de guerre">nom de guerre</a></li>
 </ul>
-{mid2}
 <ul><li> <a href="nom de plume">nom de plume</a></li>
 <li> <a href="pseudonym">pseudonym</a></li>
 <li> <a href="sobriquet">sobriquet</a></li>
 </ul>
-{bottom}
+
 <h3>Statistics</h3>
 <ul><li> {{rank|knew|seen|better|208|name|among|done|days}}</li>
 </ul>
@@ -4557,6 +5007,13 @@ HtmlEntry: name <<<
 <ol><li> <a href="#English">name</a></li>
 </ol>
 ---->>>
+HtmlEntry (shortened): noun
+===nameword===
+HtmlEntry (shortened): noun
+===Neofelis===
+HtmlEntry (shortened): cat
+===noggin===
+HtmlEntry (shortened): head
 ===nonsense===
 HtmlEntry: nonsense <<<
 <h3>Etymology</h3>
@@ -4634,6 +5091,10 @@ HtmlEntry: nonsense <<<
 <ul><li> <a href="pooh-pooh">pooh-pooh</a>, <a href="rubbish">rubbish</a></li>
 </ul>
 >>>
+===noodle===
+HtmlEntry (shortened): head
+===note===
+HtmlEntry (shortened): book
 ===noun===
 HtmlEntry: noun <<<
 <h3>Etymology</h3>
@@ -4751,6 +5212,8 @@ HtmlEntry: November <<<
 <ul><li> {{list|en|Gregorian calendar months}}</li>
 </ul>
 ---->>>
+===nut===
+HtmlEntry (shortened): head
 ===October===
 HtmlEntry: October <<<
 <h3>Alternative forms</h3>
@@ -4771,7 +5234,6 @@ From {{etyl|enm}}, from {{etyl|ang}}, from {{etyl|la}} {{term|october|&#x6f;&#x6
 </ol>
 
 <h4>Derived terms</h4>
-{top2}
 <ul><li> {{w|October Revolution|Great October Socialist Revolution}}</li>
 <li> <a href="mid-October">mid-October</a></li>
 <li> <a href="October-bird">October-bird</a></li>
@@ -4781,7 +5243,6 @@ From {{etyl|enm}}, from {{etyl|ang}}, from {{etyl|la}} {{term|october|&#x6f;&#x6
 <li> <a href="Octoberfest">Octoberfest</a></li>
 <li> <a href="Octoberist">Octoberist</a>, <a href="Octobrist">Octobrist</a></li>
 </ul>
-{mid2}
 <ul><li> {{w|October Manifesto}}</li>
 <li> <a href="October Revolution">October Revolution</a></li>
 <li> {{w|October Revolution Island}}</li>
@@ -4790,11 +5251,37 @@ From {{etyl|enm}}, from {{etyl|ang}}, from {{etyl|la}} {{term|october|&#x6f;&#x6
 <li> {{w|October Revolution|Red October}}</li>
 <li> {{w|Third Saturday in October}}</li>
 </ul>
-{bottom}
+
 <h4>See also</h4>
 <ul><li> {{list|en|Gregorian calendar months}}</li>
 </ul>
 ---->>>
+===of===
+HtmlEntry (shortened): word
+HtmlEntry (shortened): grain of salt
+HtmlEntry (shortened): minute
+===opposite===
+HtmlEntry (shortened): synonym
+===oral===
+HtmlEntry (shortened): head
+===out===
+HtmlEntry (shortened): deal
+===output===
+HtmlEntry (shortened): product
+===pact===
+HtmlEntry (shortened): deal
+===panther===
+HtmlEntry (shortened): cat
+===Panthera===
+HtmlEntry (shortened): cat
+===Pantherinae===
+HtmlEntry (shortened): cat
+===pantherine===
+HtmlEntry (shortened): cat
+===parade===
+HtmlEntry (shortened): march
+===parcel===
+HtmlEntry (shortened): deal
 ===patronage===
 HtmlEntry: patronage <<<
 <h3>Pronunciation</h3>
@@ -4838,6 +5325,19 @@ HtmlEntry: patronage <<<
 </ul>
 </ol>
 ---->>>
+HtmlEntry (shortened): trade
+===pawl===
+HtmlEntry (shortened): dog
+===peck===
+HtmlEntry (shortened): deal
+===pelt===
+HtmlEntry (shortened): rain cats and dogs
+===penalise===
+HtmlEntry (shortened): book
+===penalize===
+HtmlEntry (shortened): book
+===phrase===
+HtmlEntry (shortened): word
 ===pie===
 HtmlEntry: pie <<<{{slim-wikipedia|Pie (disambiguation)}}Unsliced Lemon Meringue Pie - Noun, definition 1
 <h3>Pronunciation</h3>
@@ -4948,6 +5448,18 @@ HtmlEntry: pies <<<
 <ol><li> {{third-person singular of|pie}}</li>
 </ol>
 >>>
+===pile===
+HtmlEntry (shortened): deal
+===pinch===
+HtmlEntry (shortened): grain of salt
+===piss===
+HtmlEntry (shortened): rain cats and dogs
+===pitch===
+HtmlEntry (shortened): deal
+===pitchforks===
+HtmlEntry (shortened): rain cats and dogs
+===plenty===
+HtmlEntry (shortened): deal
 ===pneumonoultramicroscopicsilicovolcanoconiosis===
 HtmlEntry: pneumonoultramicroscopicsilicovolcanoconiosis <<<{{wikipedia|pneumonoultramicroscopicsilicovolcanoconiosis|pneumono...}}
 <h3>Alternative forms</h3>
@@ -5013,6 +5525,14 @@ Coined by Everett K Smith, President of the &#x4e;&#x61;&#x74;&#x69;&#x6f;&#x6e;
 <li> <a href="antidisestablishmentarianism">antidisestablishmentarianism</a>&#x20;&#x2014;&#x20;&#x32;&#x38;&#x20;&#x6c;&#x65;&#x74;&#x74;&#x65;&#x72;&#x73;</li>
 </ul>
 {rel-bottom}>>>
+===poecilonym===
+HtmlEntry (shortened): synonym
+===point===
+HtmlEntry (shortened): head
+===poise===
+HtmlEntry (shortened): head
+===polysemantic===
+HtmlEntry (shortened): polysemic
 ===polysemic===
 HtmlEntry: polysemic <<<
 <h3>Adjective</h3>
@@ -5034,6 +5554,8 @@ HtmlEntry: polysemic <<<
 <li> <a href="polysemy">polysemy</a></li>
 </ul>
 >>>
+===polysemous===
+HtmlEntry (shortened): polysemic
 ===pond===
 HtmlEntry: pond <<<
 <h3>Pronunciation</h3>
@@ -5076,6 +5598,8 @@ A pond{en-noun}
 </ul>
 </ol>
 >>>
+===pooh===
+HtmlEntry (shortened): nonsense
 ===Pope Julius===
 HtmlEntry: Pope Julius <<<
 <h3>Alternative forms</h3>
@@ -5094,6 +5618,10 @@ Unknown.  Presumably named after Pope Julius II, the Warrior Pope.
 </ul>
 </ol>
 >>>
+===poppycock===
+HtmlEntry (shortened): nonsense
+===portion===
+HtmlEntry (shortened): deal
 ===portmanteau===
 HtmlEntry: portmanteau <<<{{was wotd|2007|March|8}}
 <h3>Alternative forms</h3>
@@ -5156,6 +5684,7 @@ Coined by Lewis Carroll in <a href="s:Through The Looking Glass (And What Alice 
 <li> Wikipedia article on portmanteaus (cases and words)</li>
 </ul>
 >>>
+HtmlEntry (shortened): portmanteau word
 ===portmanteau word===
 HtmlEntry: portmanteau word <<<
 <h3>Etymology</h3>
@@ -5181,6 +5710,8 @@ Coined by Lewis Carroll in 1872, based on the concept of two words packed togeth
 <li> {{pedia|List of portmanteaus}}</li>
 </ul>
 >>>
+===pot===
+HtmlEntry (shortened): deal
 ===pound===
 HtmlEntry: pound <<<
 <h3>Pronunciation</h3>
@@ -5282,6 +5813,22 @@ From {{etyl|enm}} {{term|pounden|lang=enm}}, alteration of {{term|pounen|lang=en
 <ol><li> A hard blow.</li>
 </ol>
 >>>
+===pour===
+HtmlEntry (shortened): rain cats and dogs
+===prattle===
+HtmlEntry (shortened): nonsense
+===precise===
+HtmlEntry (shortened): minute
+===principal===
+HtmlEntry (shortened): head
+===pro===
+HtmlEntry (shortened): barter
+HtmlEntry (shortened): swap
+===procedural===
+HtmlEntry (shortened): adjective
+HtmlEntry (shortened): substantive
+===process===
+HtmlEntry (shortened): march
 ===product===
 HtmlEntry: product <<<
 <h3>Etymology</h3>
@@ -5356,6 +5903,14 @@ HtmlEntry: product <<<
 <ul><li> <a href="multiplication">multiplication</a>: (<a href="multiplier">multiplier</a>) &times; (<a href="multiplicand">multiplicand</a>) = (<a href="product">product</a>)</li>
 </ul>
 ---->>>
+HtmlEntry (shortened): merchandise
+HtmlEntry (shortened): wares
+===production===
+HtmlEntry (shortened): product
+===progression===
+HtmlEntry (shortened): march
+===promise===
+HtmlEntry (shortened): word
 ===pronunciation guide===
 HtmlEntry: pronunciation guide <<<
 <h3>Noun</h3>
@@ -5363,6 +5918,12 @@ HtmlEntry: pronunciation guide <<<
 <ol><li>{countable} A <a href="table">table</a> in a <a href="reference work">reference work</a> <a href="explain">explain</a>ing the <a href="symbol">symbol</a>s that it uses to represent the pronunciation of its <a href="entry">entries</a>.</li>
 </ol>
 >>>
+===proper===
+HtmlEntry (shortened): name
+===protest===
+HtmlEntry (shortened): march
+===Puma===
+HtmlEntry (shortened): cat
 ===pumpkin===
 HtmlEntry: pumpkin <<<
 <h3>Alternative forms</h3>
@@ -5401,6 +5962,21 @@ From {{etyl|frm}} {{term|pompon|lang=frm}}, from {{etyl|la}} {{term|pepo|&#x70;&
 <li> <a href="squash">squash</a></li>
 </ul>
 >>>
+===punish===
+HtmlEntry (shortened): book
+===punt===
+HtmlEntry (shortened): pound
+===pursue===
+HtmlEntry (shortened): dog
+===puss===
+HtmlEntry (shortened): cat
+===pussy===
+HtmlEntry (shortened): cat
+===put===
+HtmlEntry (shortened): word
+===quid===
+HtmlEntry (shortened): barter
+HtmlEntry (shortened): swap
 ===quid pro quo===
 HtmlEntry: quid pro quo <<<{{was wotd|2009|August|17}}{rfc}
 <h3>Etymology</h3>
@@ -5441,6 +6017,15 @@ From {{etyl|la|en}} : &quot;what for what&quot; . See <a href="quid#Latin">quid<
 <ul><li> <a href="tit for tat">tit for tat</a></li>
 </ul>
 >>>
+===quite===
+HtmlEntry (shortened): deal
+===quo===
+HtmlEntry (shortened): barter
+HtmlEntry (shortened): swap
+===raft===
+HtmlEntry (shortened): deal
+===rain===
+HtmlEntry (shortened): rain cats and dogs
 ===rain cats and dogs===
 HtmlEntry: rain cats and dogs <<<
 <h3>Etymology</h3>
@@ -5454,6 +6039,8 @@ Unknown. Perhaps from {{etyl|grc|en}} {{term|&#x3ba;&#x3b1;&#x3c4;&#x3ac;|agains
 <ul><li> {{sense|to rain very heavily}} <a href="bucket">bucket</a>, <a href="bucket down">bucket down</a>, <a href="chuck it down">chuck it down</a>, <a href="rain buckets">rain buckets</a>, <a href="rain pitchforks">rain pitchforks</a>, <a href="pelt">pelt</a>, <a href="piss down">piss down</a> (coarse slang), <a href="pour">pour</a>, <a href="stream">stream</a>, <a href="teem">teem</a></li>
 </ul>
 >>>
+===rally===
+HtmlEntry (shortened): march
 ===raven===
 HtmlEntry: raven <<<A raven (bird).
 <h3>Pronunciation</h3>
@@ -5521,6 +6108,22 @@ From {{etyl|fro}} {{term|raviner|rush, seize by force|lang=fro}}, itself from {{
 <li> {{pedia|Corvus (genus)}}</li>
 </ul>
 >>>
+===record===
+HtmlEntry (shortened): book
+===reserve===
+HtmlEntry (shortened): book
+===rhubarb===
+HtmlEntry (shortened): nonsense
+===rocket===
+HtmlEntry (shortened): book
+===rubbish===
+HtmlEntry (shortened): nonsense
+===saber===
+HtmlEntry (shortened): cat
+===sale===
+HtmlEntry (shortened): deal
+===salt===
+HtmlEntry (shortened): grain of salt
 ===Saturday===
 HtmlEntry: Saturday <<<
 <h3>Etymology</h3>
@@ -5538,7 +6141,6 @@ HtmlEntry: Saturday <<<
 </ol>
 
 <h4>Derived terms</h4>
-{top2}
 <ul><li> <a href="Black Saturday">Black Saturday</a></li>
 <li> <a href="Dynamite Saturday">Dynamite Saturday</a></li>
 <li> <a href="Easter Saturday">Easter Saturday</a></li>
@@ -5550,7 +6152,6 @@ HtmlEntry: Saturday <<<
 <li> <a href="Pink Saturday">Pink Saturday</a></li>
 <li> <a href="Sat">Sat</a>, <a href="Sat.">Sat.</a></li>
 </ul>
-{mid2}
 <ul><li> <a href="Saturday closing">Saturday closing</a></li>
 <li> <a href="Saturdaying">Saturdaying</a></li>
 <li> <a href="Saturdayite">Saturdayite</a></li>
@@ -5563,7 +6164,7 @@ HtmlEntry: Saturday <<<
 <li> <a href="Saturday-to-Monday">Saturday-to-Monday</a></li>
 <li> Third Saturday in October</li>
 </ul>
-{bottom}
+
 <h3>Adverb</h3>
 {{en-adv|-}}
 <ol><li> on Saturday</li>
@@ -5573,6 +6174,16 @@ HtmlEntry: Saturday <<<
 <ul><li> {{list|en|days of the week}}</li>
 </ul>
 >>>
+===scoundrel===
+HtmlEntry (shortened): dog
+===scrupulous===
+HtmlEntry (shortened): minute
+===sec===
+HtmlEntry (shortened): minute
+===second===
+HtmlEntry (shortened): minute
+===sell===
+HtmlEntry (shortened): deal
 ===semantics===
 HtmlEntry: semantics <<<
 <h3>Pronunciation</h3>
@@ -5684,7 +6295,7 @@ Late {{etyl|ang}}, {{etyl|la}} {{term|september|seventh month|lang=la}}, from La
 <li> <a href="Septembrian">Septembrian</a></li>
 <li> <a href="Septembrist">Septembrist</a></li>
 </ul>
-{bottom}
+
 <h4>Related terms</h4>
 <ul><li> <a href="septembral">septembral</a></li>
 <li> <a href="septembrise">septembrise</a>, <a href="septembrize">septembrize</a></li>
@@ -5721,6 +6332,63 @@ Surface form analyzed as {{suffix|sesquipedalian|ism}}, from {{prefix|sesqui|ped
 <li> <a href="sesquipedalian">sesquipedalian</a></li>
 </ul>
 >>>
+===sex===
+HtmlEntry (shortened): head
+===share===
+HtmlEntry (shortened): deal
+===sharing===
+HtmlEntry (shortened): deal
+===sharp===
+HtmlEntry (shortened): pound
+HtmlEntry (shortened): head
+===shell===
+HtmlEntry (shortened): deal
+===shoot===
+HtmlEntry (shortened): book
+===sight===
+HtmlEntry (shortened): deal
+===significant===
+HtmlEntry (shortened): minute
+===slang===
+HtmlEntry (shortened): nonsense
+===slew===
+HtmlEntry (shortened): deal
+===slyness===
+HtmlEntry (shortened): craft
+===smallage===
+HtmlEntry (shortened): march
+===Smilodon===
+HtmlEntry (shortened): cat
+===Smilodontini===
+HtmlEntry (shortened): cat
+===soldier===
+HtmlEntry (shortened): dog
+===spate===
+HtmlEntry (shortened): deal
+===speech===
+HtmlEntry (shortened): gratis
+===speed===
+HtmlEntry (shortened): book
+===stack===
+HtmlEntry (shortened): deal
+===state===
+HtmlEntry (shortened): word
+===steal===
+HtmlEntry (shortened): deal
+===sterling===
+HtmlEntry (shortened): pound
+===stound===
+HtmlEntry (shortened): hour
+===stream===
+HtmlEntry (shortened): rain cats and dogs
+===subfamily===
+HtmlEntry (shortened): cat
+===suborder===
+HtmlEntry (shortened): cat
+===subordinate===
+HtmlEntry (shortened): head
+===substantial===
+HtmlEntry (shortened): substantive
 ===substantive===
 HtmlEntry: substantive <<<
 <h3>Etymology</h3>
@@ -5763,6 +6431,10 @@ From {{etyl|fro}} <em><a href="substantif">substantif</a></em>.
 <li> <a href="substantival">substantival</a></li>
 </ul>
 >>>
+HtmlEntry (shortened): noun
+HtmlEntry (shortened): adjective
+===sum===
+HtmlEntry (shortened): deal
 ===Sunday===
 HtmlEntry: Sunday <<<
 <h3>Etymology</h3>
@@ -5920,6 +6592,8 @@ HtmlEntry: Sunday <<<
 <ul><li> {{list|en|days of the week}}</li>
 </ul>
 >>>
+===superfamily===
+HtmlEntry (shortened): cat
 ===swap===
 HtmlEntry: swap <<<
 <h3>Alternative forms</h3>
@@ -5974,6 +6648,12 @@ Uncertain, probably from imitative origin.
 <ul><li> {{sense|exchange}} <a href="exchange">exchange</a>, <a href="trade">trade</a>, <a href="switch">switch</a></li>
 </ul>
 >>>
+HtmlEntry (shortened): barter
+HtmlEntry (shortened): trade
+HtmlEntry (shortened): quid pro quo
+===switch===
+HtmlEntry (shortened): swap
+HtmlEntry (shortened): trade
 ===swop===
 HtmlEntry: swop <<<
 <h3>Noun</h3>
@@ -5990,6 +6670,8 @@ HtmlEntry: swop <<<
 </ul>
 </ol>
 >>>
+HtmlEntry (shortened): barter
+HtmlEntry (shortened): quid pro quo
 ===synonym===
 HtmlEntry: synonym <<<
 <h3>Etymology</h3>
@@ -6039,6 +6721,18 @@ From {{etyl|enm}} {{term|sinonyme|lang=enm}}, from {{etyl|la}} {{term|synonymum|
 <li> <a href="heterotypic">heterotypic</a></li>
 </ul>
 ---->>>
+HtmlEntry (shortened): antonym
+===synonymicon===
+HtmlEntry (shortened): thesaurus
+===t===
+HtmlEntry (shortened): pound
+===tag===
+HtmlEntry (shortened): dog
+===tail===
+HtmlEntry (shortened): dog
+HtmlEntry (shortened): head
+===teem===
+HtmlEntry (shortened): rain cats and dogs
 ===thesaurus===
 HtmlEntry: thesaurus <<<
 <h3>Etymology</h3>
@@ -6077,6 +6771,8 @@ HtmlEntry: thesaurus <<<
 <li> <em>Roget's Thesaurus can be found at:</em> http://www.bartleby.com/thesauri</li>
 </ul>
 ---->>>
+===throw===
+HtmlEntry (shortened): deal
 ===Thursday===
 HtmlEntry: Thursday <<<
 <h3>Etymology</h3>
@@ -6129,7 +6825,7 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|&thorn;ursd&aelig;g|&#xfe;&#x75;&#x7
 <li> <a href="Thursdays">Thursdays</a></li>
 <li> <a href="Whit Thursday">Whit Thursday</a></li>
 </ul>
-{bottom}
+
 <h3>Adverb</h3>
 {{en-adv|-}}
 <ol><li> on Thursday</li>
@@ -6139,6 +6835,32 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|&thorn;ursd&aelig;g|&#xfe;&#x75;&#x7
 <ul><li> {{list|en|days of the week}}</li>
 </ul>
 >>>
+===tic===
+HtmlEntry (shortened): minute
+===tidy===
+HtmlEntry (shortened): deal
+===tiger===
+HtmlEntry (shortened): cat
+===tiny===
+HtmlEntry (shortened): minute
+===tip===
+HtmlEntry (shortened): head
+===toilet===
+HtmlEntry (shortened): head
+===tomcat===
+HtmlEntry (shortened): cat
+===tome===
+HtmlEntry (shortened): book
+===tooth===
+HtmlEntry (shortened): cat
+===toothed===
+HtmlEntry (shortened): cat
+===top===
+HtmlEntry (shortened): head
+===trace===
+HtmlEntry (shortened): minute
+===track===
+HtmlEntry (shortened): dog
 ===trade===
 HtmlEntry: trade <<<{{wikipedia|trade|dab=trade (disambiguation)}}
 <h3>Etymology</h3>
@@ -6301,6 +7023,13 @@ From {{etyl|enm|en}} {{term|trade|path, course of conduct|lang=enm}}, cognate wi
 <li> <a href="sell">sell</a></li>
 </ul>
 >>>
+HtmlEntry (shortened): barter
+HtmlEntry (shortened): swap
+HtmlEntry (shortened): quid pro quo
+HtmlEntry (shortened): craft
+HtmlEntry (shortened): deal
+HtmlEntry (shortened): business deal
+HtmlEntry (shortened): merchandise
 ===trade wind===
 HtmlEntry: trade wind <<<
 <h3>Alternative forms</h3>
@@ -6326,6 +7055,12 @@ HtmlEntry: trade wind <<<
 <ul><li> <a href="easterly">easterly</a></li>
 </ul>
 >>>
+===trail===
+HtmlEntry (shortened): dog
+===transaction===
+HtmlEntry (shortened): deal
+===tremendous===
+HtmlEntry (shortened): minute
 ===Tuesday===
 HtmlEntry: Tuesday <<<
 <h3>Etymology</h3>
@@ -6372,7 +7107,7 @@ From {{etyl|enm}} {{term|Tewesday|lang=enm}}, from {{etyl|ang}} {{term|Tiwesd&ae
 <li> <a href="Whitsun Tuesday">Whitsun Tuesday</a></li>
 <li> <a href="Whit Tuesday">Whit Tuesday</a>, <a href="Whit-Tuesday">Whit-Tuesday</a></li>
 </ul>
-{bottom}
+
 <h3>Adverb</h3>
 {{en-adv|-}}
 <ol><li> on Tuesday</li>
@@ -6382,6 +7117,18 @@ From {{etyl|enm}} {{term|Tewesday|lang=enm}}, from {{etyl|ang}} {{term|Tiwesd&ae
 <ul><li> {{list|en|days of the week}}</li>
 </ul>
 >>>
+===twaddle===
+HtmlEntry (shortened): nonsense
+===Uncia===
+HtmlEntry (shortened): cat
+===underling===
+HtmlEntry (shortened): head
+===underside===
+HtmlEntry (shortened): head
+===up===
+HtmlEntry (shortened): deal
+===vast===
+HtmlEntry (shortened): minute
 ===verb===
 HtmlEntry: verb <<<
 <h3>Etymology</h3>
@@ -6486,6 +7233,14 @@ Verbs compose a fundamental category of words in most languages.  In an English 
 <li> <a href="copula">copula</a></li>
 </ul>
 ---->>>
+===verbal===
+HtmlEntry (shortened): substantive
+===vocable===
+HtmlEntry (shortened): word
+===volume===
+HtmlEntry (shortened): book
+===wad===
+HtmlEntry (shortened): deal
 ===wares===
 HtmlEntry: wares <<<
 <h3>Pronunciation</h3>
@@ -6510,6 +7265,8 @@ HtmlEntry: wares <<<
 <ul><li> <a href="warez">warez</a></li>
 </ul>
 >>>
+HtmlEntry (shortened): merchandise
+HtmlEntry (shortened): product
 ===Wednesday===
 HtmlEntry: Wednesday <<<{{wikipedia|wednesday|dab=wednesday (disambiguation)}}
 <h3>Etymology</h3>
@@ -6534,7 +7291,6 @@ From {{etyl|enm}} {{term|Wednesdai|lang=enm}}, {{term|Wodnesdei|lang=enm}}, from
 </ul>
 
 <h4>Derived terms</h4>
-{top2}
 <ul><li> <a href="Ash Wednesday">Ash Wednesday</a></li>
 <li> <a href="Black Wednesday">Black Wednesday</a></li>
 <li> <a href="calendar Wednesday">calendar Wednesday</a></li>
@@ -6543,7 +7299,6 @@ From {{etyl|enm}} {{term|Wednesdai|lang=enm}}, {{term|Wodnesdei|lang=enm}}, from
 <li> Sheffield Wednesday</li>
 <li> <a href="Spy Wednesday">Spy Wednesday</a></li>
 </ul>
-{mid2}
 <ul><li> <a href="Wed">Wed</a>, <a href="Wed.">Wed.</a></li>
 <li> <a href="Wednesday crucifixion theory">Wednesday crucifixion theory</a></li>
 <li> <a href="Wednesdays">Wednesdays</a></li>
@@ -6551,7 +7306,7 @@ From {{etyl|enm}} {{term|Wednesdai|lang=enm}}, {{term|Wodnesdei|lang=enm}}, from
 <li> <a href="White Wednesday">White Wednesday</a></li>
 <li> <a href="Whit Wednesday">Whit Wednesday</a></li>
 </ul>
-{bottom}
+
 <h3>Adverb</h3>
 {{en-adv|-}}
 <ol><li> on Wednesday</li>
@@ -6561,6 +7316,19 @@ From {{etyl|enm}} {{term|Wednesdai|lang=enm}}, {{term|Wodnesdei|lang=enm}}, from
 <ul><li> {{list|en|days of the week}}</li>
 </ul>
 >>>
+===westerly===
+HtmlEntry (shortened): trade wind
+===whiz===
+HtmlEntry (shortened): book
+===whole===
+HtmlEntry (shortened): deal
+===Wikisaurus===
+HtmlEntry (shortened): dog
+HtmlEntry (shortened): cat
+HtmlEntry (shortened): pound
+HtmlEntry (shortened): minute
+===wiliness===
+HtmlEntry (shortened): craft
 ===word===
 HtmlEntry: word <<<{{wikipedia|word|dab=word (disambiguation)}}
 <h3>Etymology</h3>
@@ -6779,6 +7547,13 @@ From {{proto|Germanic|wurdan|lang=ang}}, from {{proto|Indo-European|&#x77;&#x65;
 <li> <a href="command">command</a>, <a href="request">request</a></li>
 </ol>
 ---->>>
+HtmlEntry (shortened): portmanteau
+===words===
+HtmlEntry (shortened): word
+===workmanship===
+HtmlEntry (shortened): craft
+===write===
+HtmlEntry (shortened): book
 
 Index: EN EN->EN
 

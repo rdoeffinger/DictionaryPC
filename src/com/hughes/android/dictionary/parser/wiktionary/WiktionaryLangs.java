@@ -14,6 +14,8 @@
 
 package com.hughes.android.dictionary.parser.wiktionary;
 
+import com.hughes.android.dictionary.engine.Language;
+
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.regex.Pattern;
@@ -106,6 +108,7 @@ public class WiktionaryLangs {
     isoCodeToEnWikiName.put("LB", "Luxembourgish");
     isoCodeToEnWikiName.put("MK", "Macedonian");
     
+    assert isoCodeToEnWikiName.keySet().equals(Language.isoCodeToResources.keySet());
   }
 
   public static final Map<String,Map<String,String>> wikiCodeToIsoCodeToWikiName = new LinkedHashMap<String, Map<String,String>>();

@@ -30,7 +30,7 @@ public abstract class EnParser extends AbstractWiktionaryParser {
 
   // TODO: process {{ttbc}} lines
   
-  static final Pattern partOfSpeechHeader = Pattern.compile(
+  public static final Pattern partOfSpeechHeader = Pattern.compile(
       "Noun|Verb|Adjective|Adverb|Pronoun|Conjunction|Interjection|" +
       "Preposition|Proper noun|Article|Prepositional phrase|Acronym|" +
       "Abbreviation|Initialism|Contraction|Prefix|Suffix|Symbol|Letter|" +

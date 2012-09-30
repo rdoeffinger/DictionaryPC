@@ -23,6 +23,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
 
     interface LangConfig {
         boolean skipSection(final String name);
+        EntryTypeName sectionNameToEntryType(String sectionName);
         boolean skipWikiLink(final WikiTokenizer wikiTokenizer);
         String adjustWikiLink(String wikiLinkDest);
         void addFunctionCallbacks(
@@ -35,6 +36,24 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
             @Override
             public boolean skipSection(String headingText) {
                 return enSkipSections.matcher(headingText).matches();
+            }
+            
+            @Override
+            public EntryTypeName sectionNameToEntryType(String sectionName) {
+                if (sectionName.equalsIgnoreCase("Synonyms")) {
+                    return EntryTypeName.SYNONYM_MULTI;
+                }
+                if (sectionName.equalsIgnoreCase("Antonyms")) {
+                    return EntryTypeName.ANTONYM_MULTI;
+                }
+                if (EnParser.partOfSpeechHeader.matcher(sectionName).matches()) {
+                    // We need to put it in the other index, too.
+                    return null;
+                }
+                if (sectionName.equalsIgnoreCase("Derived Terms")) {
+                    return null;
+                }
+                return null;
             }
 
             @Override
@@ -64,7 +83,10 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
             public boolean skipSection(String headingText) {
                 return false;
             }
-
+            @Override
+            public EntryTypeName sectionNameToEntryType(String sectionName) {
+                return EntryTypeName.WIKTIONARY_MENTIONED;
+            }
             @Override
             public boolean skipWikiLink(WikiTokenizer wikiTokenizer) {
                 final String wikiText = wikiTokenizer.wikiLinkText();
@@ -171,6 +193,10 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
             } else {
                 linkDest = wikiTokenizer.wikiLinkText();
             }
+            if (sectionEntryTypeName != null) {
+                // TODO: inside a definition, this could be the wrong language.
+                titleIndexBuilder.addEntryWithString(indexedEntry, wikiTokenizer.wikiLinkText(), sectionEntryTypeName);
+            }
             if (linkDest != null) {
                 builder.append(String.format("<a href=\"%s\">", linkDest));
                 super.onWikiLink(wikiTokenizer);
@@ -197,10 +223,13 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
         @Override
         public void onNewline(WikiTokenizer wikiTokenizer) {
         }
+        
+        EntryTypeName sectionEntryTypeName;
 
         @Override
         public void onHeading(WikiTokenizer wikiTokenizer) {
             final String headingText = wikiTokenizer.headingWikiText();
+            sectionEntryTypeName = langConfig.sectionNameToEntryType(headingText);
             final int depth = wikiTokenizer.headingDepth();
             if (langConfig.skipSection(headingText)) {
                 while ((wikiTokenizer = wikiTokenizer.nextToken()) != null) {

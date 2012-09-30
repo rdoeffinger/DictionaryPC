@@ -77,7 +77,7 @@ public class IndexBuilder {
             indexedEntry.entry.addToDictionary(dictionaryBuilder.dictionary);
             assert indexedEntry.entry.index() >= 0;
           }
-          if (tokenIndexedEntries.add(indexedEntry)) {
+          if (tokenIndexedEntries.add(indexedEntry) && !tokenData.htmlEntries.contains(indexedEntry.entry)) {
             rows.add(indexedEntry.entry.CreateRow(rows.size(), index));
             ++indexedEntry.entry.entrySource.numEntries;
             ++numRows;

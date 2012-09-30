@@ -1,5 +1,5 @@
 dictInfo=SomeWikiDataWholeSection
-EntrySource: wiktionary.WholeSection.DE.quickdic 0
+EntrySource: wiktionary.WholeSection.DE.quickdic 26
 
 Index: DE DE->EN
 ===A===
@@ -188,6 +188,8 @@ HtmlEntry: also <<<
 <li> <a href="thus">thus</a></li>
 </ol>
 ---->>>
+===an===
+HtmlEntry (shortened): ab-
 ===Andorra===
 HtmlEntry: Andorra <<<
 <h3>Pronunciation</h3>
@@ -226,6 +228,14 @@ HtmlEntry: April <<<
 <ol><li> {{l|en|April}}</li>
 </ol>
 ---->>>
+===auf===
+HtmlEntry (shortened): ab-
+===aus===
+HtmlEntry (shortened): ab-
+===avers===
+HtmlEntry (shortened): man
+===awer===
+HtmlEntry (shortened): man
 ===Bahamas===
 HtmlEntry: Bahamas <<<
 <h3>Proper noun</h3>
@@ -290,6 +300,8 @@ HtmlEntry: blood <<<
 <ol><li> {{form of|uncapitalized form|Blood|lang=nds|nodot=1}} : {{alternative spelling of|Bloot|lang=nds|nocap=1}}</li>
 </ol>
 ---->>>
+===bloots===
+HtmlEntry (shortened): man
 ===bot===
 HtmlEntry: bot <<<
 <h3>Verb</h3>
@@ -664,6 +676,8 @@ HtmlEntry: frei <<<
 <li> <a href="Freizeit">Freizeit</a></li>
 </ul>
 ---->>>
+===freiheitlich===
+HtmlEntry (shortened): frei
 ===Gambia===
 HtmlEntry: Gambia <<<
 <h3>Proper noun</h3>
@@ -810,6 +824,18 @@ HtmlEntry: hell <<<
 <ol><li> <a href="clear">clear</a>, <a href="bright">bright</a>, <a href="light">light</a></li>
 </ol>
 ---->>>
+===herab===
+HtmlEntry (shortened): ab-
+===herauf===
+HtmlEntry (shortened): ab-
+===herunter===
+HtmlEntry (shortened): ab-
+===hinab===
+HtmlEntry (shortened): ab-
+===hinauf===
+HtmlEntry (shortened): ab-
+===hinunter===
+HtmlEntry (shortened): ab-
 ===Honduras===
 HtmlEntry: Honduras <<<
 <h3>Proper noun</h3>
@@ -975,6 +1001,8 @@ HtmlEntry: Kiribati <<<
 <ul><li> {{l|de|kiribatisch}}</li>
 </ul>
 ---->>>
+===kostenlos===
+HtmlEntry (shortened): frei
 ===Kuwait===
 HtmlEntry: Kuwait <<<
 <h3>Proper noun</h3>
@@ -1009,6 +1037,8 @@ HtmlEntry: last <<<
 <li> {{de-verb form of|lesen|2|p|v}}</li>
 </ol>
 ---->>>
+===liberal===
+HtmlEntry (shortened): frei
 ===Liberia===
 HtmlEntry: Liberia <<<
 <h3>Pronunciation</h3>
@@ -1044,6 +1074,8 @@ HtmlEntry: Liechtenstein <<<
 <li> {{l|de|liechtensteinisch}}</li>
 </ul>
 ---->>>
+===lokal===
+HtmlEntry (shortened): global
 ===Malawi===
 HtmlEntry: Malawi <<<
 <h3>Proper noun</h3>
@@ -1169,6 +1201,8 @@ From {{etyl|la|goh}} {{term|mustum|lang=la}}.
 <ol><li> <a href="must">must</a></li>
 </ol>
 ---->>>
+===na===
+HtmlEntry (shortened): nu
 ===Namibia===
 HtmlEntry: Namibia <<<
 <h3>Pronunciation</h3>
@@ -1322,6 +1356,12 @@ HtmlEntry: PM <<<
 <li> <a href="Papiermaschine">Papiermaschine</a></li>
 </ol>
 >>>
+===rauf===
+HtmlEntry (shortened): ab-
+===regional===
+HtmlEntry (shortened): global
+===runter===
+HtmlEntry (shortened): ab-
 ===September===
 HtmlEntry: September <<<
 <h3>Pronunciation</h3>
@@ -1356,6 +1396,8 @@ HtmlEntry: spring <<<
 <li> {colloquial} {{de-verb form of|springen|1|s|g}}</li>
 </ol>
 ---->>>
+===städtisch===
+HtmlEntry (shortened): urban
 ===synonym===
 HtmlEntry: synonym <<<
 <h3>Adjective</h3>
@@ -1449,6 +1491,10 @@ HtmlEntry: umsonst <<<
 <li><a href="kostenlos">kostenlos</a></li>
 </ul>
 >>>
+===ungebunden===
+HtmlEntry (shortened): frei
+===ungezwungen===
+HtmlEntry (shortened): frei
 ===urban===
 HtmlEntry: urban <<<
 <h3>Pronunciation</h3>
@@ -1518,6 +1564,10 @@ HtmlEntry: war <<<
 <ol><li> <a href="true">true</a></li>
 </ol>
 ---->>>
+===wat===
+HtmlEntry (shortened): dat
+===weltweit===
+HtmlEntry (shortened): global
 ===wolf===
 HtmlEntry: wolf <<<
 <h3>Noun</h3>
@@ -1554,6 +1604,8 @@ From {{etyl|goh|de}} {{term|zwene|&#x7a;&#x77;&#x113;&#x6e;&#x65;|lang=goh}}.
 <li> <a href="zwölf">zw&ouml;lf</a></li>
 </ul>
 >>>
+===zwo===
+HtmlEntry (shortened): zwei
 
 Index: EN EN->DE
 

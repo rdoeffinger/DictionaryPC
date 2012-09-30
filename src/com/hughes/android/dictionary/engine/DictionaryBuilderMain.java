@@ -101,7 +101,7 @@ public class DictionaryBuilderMain extends TestCase {
             continue;
         }
         result.add(String.format("--input%d=%s", i, wikiSplitFile));
-        result.add(String.format("--input%dName=%sWiktionary.WholeSections.%s", i, wikitionaryLang, foreignIso));
+        result.add(String.format("--input%dName=%s.wiktionary.org (%s)", i, wikitionaryLang, foreignIso));
         result.add(String.format("--input%dFormat=%s", i, WholeSectionToHtmlParser.NAME));
         result.add(String.format("--input%dTitleIndex=%d", i, Arrays.asList(pair).indexOf(foreignIso) + 1));
         result.add(String.format("--input%dWiktionaryLang=%s", i, wikitionaryLang));
@@ -208,7 +208,8 @@ public class DictionaryBuilderMain extends TestCase {
         {"DE", "TR" },  // Turkish
         {"DE", "ZH" },
         {"DE", "TA" },  // Tamil
-
+        
+        {"ES", "RU" },  // Spanish-Russian
         
         {"FR", "BG" },  // Bulgarian
         {"FR", "CS" },  // Czech
