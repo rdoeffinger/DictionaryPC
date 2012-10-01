@@ -63,7 +63,7 @@ public class DictionaryBuilderTest extends TestCase {
               "{{it-conj-cirsi|cuc|essere}}\n"
               ;
       final DictionaryBuilder db = new DictionaryBuilder("", Language.en, Language.it,  "", "", Collections.singleton("X"), Collections.singleton("X"));
-      WholeSectionToHtmlParser parser = new WholeSectionToHtmlParser(db.indexBuilders.get(0), "EN", "IT");
+      WholeSectionToHtmlParser parser = new WholeSectionToHtmlParser(db.indexBuilders.get(0), null, "EN", "IT");
       parser.title = "dummyTitle";
       parser.entrySource = new EntrySource(0, "dummySource", 0);
       parser.parseSection("dummyHeading", toParse);

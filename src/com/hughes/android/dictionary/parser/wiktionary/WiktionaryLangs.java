@@ -108,7 +108,7 @@ public class WiktionaryLangs {
     isoCodeToEnWikiName.put("LB", "Luxembourgish");
     isoCodeToEnWikiName.put("MK", "Macedonian");
     
-    assert isoCodeToEnWikiName.keySet().equals(Language.isoCodeToResources.keySet());
+    assert Language.isoCodeToResources.keySet().containsAll(isoCodeToEnWikiName.keySet());
   }
 
   public static final Map<String,Map<String,String>> wikiCodeToIsoCodeToWikiName = new LinkedHashMap<String, Map<String,String>>();

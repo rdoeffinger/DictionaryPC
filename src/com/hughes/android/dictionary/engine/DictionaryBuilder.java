@@ -181,7 +181,7 @@ public class DictionaryBuilder {
           final String wiktionaryLang = keyValueArgs.remove(prefix + "WiktionaryLang");
           String skipLang = keyValueArgs.remove(prefix + "SkipLang");
           if (skipLang == null) skipLang = "";
-          new WholeSectionToHtmlParser(dictionaryBuilder.indexBuilders.get(titleIndex), wiktionaryLang, skipLang).parse(file, entrySource, pageLimit);
+          new WholeSectionToHtmlParser(dictionaryBuilder.indexBuilders.get(titleIndex), null, wiktionaryLang, skipLang).parse(file, entrySource, pageLimit);
         } else {
           fatalError("Invalid or missing input format: " + inputFormat);
         }

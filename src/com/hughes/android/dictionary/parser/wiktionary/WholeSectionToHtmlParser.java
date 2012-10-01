@@ -1,6 +1,7 @@
 
 package com.hughes.android.dictionary.parser.wiktionary;
 
+import com.hughes.android.dictionary.HtmlDisplayActivity;
 import com.hughes.android.dictionary.engine.EntryTypeName;
 import com.hughes.android.dictionary.engine.HtmlEntry;
 import com.hughes.android.dictionary.engine.IndexBuilder;
@@ -25,7 +26,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
         boolean skipSection(final String name);
         EntryTypeName sectionNameToEntryType(String sectionName);
         boolean skipWikiLink(final WikiTokenizer wikiTokenizer);
-        String adjustWikiLink(String wikiLinkDest);
+        String adjustWikiLink(String wikiLinkDest, final String wikiLinkText);
         void addFunctionCallbacks(
                 Map<String, FunctionCallback<WholeSectionToHtmlParser>> functionCallbacks);
     }
@@ -55,7 +56,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
                 }
                 return null;
             }
-
+            
             @Override
             public boolean skipWikiLink(WikiTokenizer wikiTokenizer) {
                 final String wikiText = wikiTokenizer.wikiLinkText();
@@ -65,9 +66,16 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
                 return false;
             }
             @Override
-            public String adjustWikiLink(String wikiLinkDest) {
+            public String adjustWikiLink(String wikiLinkDest, String wikiLinkText) {
                 if (wikiLinkDest.startsWith("w:") || wikiLinkDest.startsWith("Image:")) {
                     return null;
+                }
+                final int hashPos = wikiLinkDest.indexOf("#");
+                if (hashPos != -1) {
+                    wikiLinkDest = wikiLinkDest.substring(0, hashPos);
+                    if (wikiLinkDest.isEmpty()) {
+                        wikiLinkDest = wikiLinkText;
+                    }
                 }
                 return wikiLinkDest;
             }
@@ -76,7 +84,8 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
             public void addFunctionCallbacks(
                     Map<String, FunctionCallback<WholeSectionToHtmlParser>> functionCallbacks) {
                 EnFunctionCallbacks.addGenericCallbacks(functionCallbacks);
-            }});
+            }
+        });
         
         final LangConfig basicLangConfig = new LangConfig() {
             @Override
@@ -96,7 +105,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
                 return false;
             }
             @Override
-            public String adjustWikiLink(String wikiLinkDest) {
+            public String adjustWikiLink(String wikiLinkDest, final String wikiLinkText) {
                 return wikiLinkDest;
             }
 
@@ -111,11 +120,14 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
     }
 
     final IndexBuilder titleIndexBuilder;
+    final IndexBuilder defIndexBuilder;
     final String skipLangIso;
     final LangConfig langConfig;
+    
 
-    public WholeSectionToHtmlParser(final IndexBuilder titleIndexBuilder, final String wiktionaryIso, final String skipLangIso) {
+    public WholeSectionToHtmlParser(final IndexBuilder titleIndexBuilder, final IndexBuilder defIndexBuilder, final String wiktionaryIso, final String skipLangIso) {
         this.titleIndexBuilder = titleIndexBuilder;
+        this.defIndexBuilder = defIndexBuilder;
         assert isoToLangConfig.containsKey(wiktionaryIso): wiktionaryIso;
         this.langConfig = isoToLangConfig.get(wiktionaryIso);
         this.skipLangIso = skipLangIso;
@@ -126,7 +138,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
     @Override
     public void parseSection(String heading, String text) {
         assert entrySource != null;
-        final HtmlEntry htmlEntry = new HtmlEntry(entrySource, StringEscapeUtils.escapeHtml3(title));
+        final HtmlEntry htmlEntry = new HtmlEntry(entrySource, title);
         indexedEntry = new IndexedEntry(htmlEntry);
 
         final AppendAndIndexWikiCallback<WholeSectionToHtmlParser> callback = new AppendCallback(
@@ -161,8 +173,6 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
 
 
 
-    static final Pattern ALL_ASCII = Pattern.compile("[\\p{ASCII}]*");
-
     class AppendCallback extends AppendAndIndexWikiCallback<WholeSectionToHtmlParser> {
         public AppendCallback(WholeSectionToHtmlParser parser) {
             super(parser);
@@ -171,7 +181,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
         @Override
         public void onPlainText(String plainText) {
             final String htmlEscaped = StringEscapeUtils.escapeHtml3(plainText);
-            if (ALL_ASCII.matcher(htmlEscaped).matches()) {
+            if (StringUtil.isAscii(htmlEscaped)) {
                 super.onPlainText(htmlEscaped);
             } else { 
                 super.onPlainText(StringUtil.escapeToPureHtmlUnicode(plainText));
@@ -189,7 +199,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
             }
             String linkDest;
             if (wikiTokenizer.wikiLinkDest() != null) {
-                linkDest = langConfig.adjustWikiLink(wikiTokenizer.wikiLinkDest());
+                linkDest = langConfig.adjustWikiLink(wikiTokenizer.wikiLinkDest(), wikiTokenizer.wikiLinkText());
             } else {
                 linkDest = wikiTokenizer.wikiLinkText();
             }
@@ -198,7 +208,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
                 titleIndexBuilder.addEntryWithString(indexedEntry, wikiTokenizer.wikiLinkText(), sectionEntryTypeName);
             }
             if (linkDest != null) {
-                builder.append(String.format("<a href=\"%s\">", linkDest));
+                builder.append(String.format("<a href=\"%s\">", HtmlEntry.formatQuickdicUrl("", linkDest)));
                 super.onWikiLink(wikiTokenizer);
                 builder.append(String.format("</a>"));
             } else {
@@ -225,6 +235,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
         }
         
         EntryTypeName sectionEntryTypeName;
+        IndexBuilder currentIndexBuilder;
 
         @Override
         public void onHeading(WikiTokenizer wikiTokenizer) {
