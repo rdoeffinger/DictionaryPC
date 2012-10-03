@@ -66,7 +66,13 @@ class EnFunctionCallbacks {
       callbacks.put("zh-attention", callback);
       callbacks.put("top2", callback);
       callbacks.put("mid2", callback);
+      callbacks.put("top3", callback);
+      callbacks.put("mid3", callback);
       callbacks.put("bottom", callback);
+      callbacks.put("rel-mid", callback);
+      callbacks.put("rel-mid3", callback);
+      callbacks.put("rel-mid4", callback);
+      callbacks.put("rel-bottom", callback);
       
       callback = new AppendName<T>();
       callbacks.put("...", callback);
@@ -659,49 +665,6 @@ class EnFunctionCallbacks {
   // Italian stuff
   // -----------------------------------------------------------------------
   
-  static void passThroughOrFillIn(final Map<String,String> namedArgs, final String key, final String fillIn, final boolean quoteToEmpty) {
-      final String value = namedArgs.get(key);
-      if (quoteToEmpty && "''".equals(value)) {
-          namedArgs.put(key, "");
-          return;
-      }
-      if (value == null || value.equals("")) {
-          namedArgs.put(key, fillIn);
-      }
-  }
-  
-  static final List<String> it_number_s_p = Arrays.asList("s", "p");
-  static final List<String> it_person_1_2_3 = Arrays.asList("1", "2", "3");
-  static final List<String> it_reflexive_pronouns = Arrays.asList("mi ", "ti ", "si ", "ci ", "vi ", "si ");
-  static final List<String> it_empty = Arrays.asList("", "", "", "", "", "");
-  static void it_conj_passMood(final Map<String,String> namedArgs, final String moodName, final boolean quoteToEmpty, final String root, final List<String> suffixes) {
-      assert suffixes.size() == 6;
-      int i = 0;
-      for (final String number : it_number_s_p) {
-          for (final String person : it_person_1_2_3) {
-              passThroughOrFillIn(namedArgs, String.format("%s%s%s", moodName, person, number), root + suffixes.get(i), quoteToEmpty);
-              ++i;
-          }
-      }
-  }
-
-  private static <T extends AbstractWiktionaryParser> void outputKeyVariations(AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback,
-        final StringBuilder builder, final String keyBase, Map<String, String> namedArgs, boolean isForm) {
-    for (int suffix = 0; suffix <= 4; ++suffix) {
-        final String key = suffix == 0 ? keyBase : keyBase + suffix;
-        final String val = namedArgs.remove(key);
-        if (val != null) {
-            if (suffix > 0) {
-                builder.append(", ");
-            }
-            appendAndIndexWikiCallback.dispatch(val, null);
-            if (isForm) {
-                appendAndIndexWikiCallback.parser.addLinkToCurrentEntry(val, EntryTypeName.WIKTIONARY_INFLECTED_FORM_MULTI);
-            }
-        }
-    }
-  }
-
 static final class it_conj_are<T extends AbstractWiktionaryParser> implements FunctionCallback<T> {
     final it_conj<T> dest;
     it_conj_are(it_conj<T> dest) {
@@ -1112,4 +1075,49 @@ static final class it_conj_are<T extends AbstractWiktionaryParser> implements Fu
             builder.append("</tr>\n");
         }
     }
+  
+  static void passThroughOrFillIn(final Map<String,String> namedArgs, final String key, final String fillIn, final boolean quoteToEmpty) {
+      final String value = namedArgs.get(key);
+      if (quoteToEmpty && "''".equals(value)) {
+          namedArgs.put(key, "");
+          return;
+      }
+      if (value == null || value.equals("")) {
+          namedArgs.put(key, fillIn);
+      }
+  }
+  
+  static final List<String> it_number_s_p = Arrays.asList("s", "p");
+  static final List<String> it_person_1_2_3 = Arrays.asList("1", "2", "3");
+  static final List<String> it_reflexive_pronouns = Arrays.asList("mi ", "ti ", "si ", "ci ", "vi ", "si ");
+  static final List<String> it_empty = Arrays.asList("", "", "", "", "", "");
+  static void it_conj_passMood(final Map<String,String> namedArgs, final String moodName, final boolean quoteToEmpty, final String root, final List<String> suffixes) {
+      assert suffixes.size() == 6;
+      int i = 0;
+      for (final String number : it_number_s_p) {
+          for (final String person : it_person_1_2_3) {
+              passThroughOrFillIn(namedArgs, String.format("%s%s%s", moodName, person, number), root + suffixes.get(i), quoteToEmpty);
+              ++i;
+          }
+      }
+  }
+
+  private static <T extends AbstractWiktionaryParser> void outputKeyVariations(AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback,
+        final StringBuilder builder, final String keyBase, Map<String, String> namedArgs, boolean isForm) {
+    for (int suffix = 0; suffix <= 4; ++suffix) {
+        final String key = suffix == 0 ? keyBase : keyBase + suffix;
+        final String val = namedArgs.remove(key);
+        if (val != null && !val.trim().equals("")) {
+            if (suffix > 0) {
+                builder.append(", ");
+            }
+            appendAndIndexWikiCallback.dispatch(val, null);
+            if (isForm) {
+                appendAndIndexWikiCallback.parser.addLinkToCurrentEntry(val, EntryTypeName.WIKTIONARY_INFLECTED_FORM_MULTI);
+            }
+        }
+    }
+  }
+
+
 }

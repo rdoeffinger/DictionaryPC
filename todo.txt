@@ -1,3 +1,10 @@
+EN dictionaries.
+Spaces in links are done wrong: "perche mai",click "why on earth", see "why%20..."
+De verbs.
+Delete it conjugation of entries.
+
+
+
 delete these entries:
 # {{conjugation of|abalienare||2|p|pres|ind|lang=it}}
 # {{conjugation of|abalienare||2|p|imp|lang=it}}
@@ -115,5 +122,9 @@ publish 2.0 dictionary
 test email
 dict manager
 get rid of Appendix:....  sections from EN.data in split.
-
+Smise, in chart
+long click on see also works to link
+Links in HTML work: mostly, they don't open with the keyboard open
+when edit text loses focus, all highlighted: impossible if it's not focused.
+Web view search works.
   

@@ -46,8 +46,12 @@ public class DictionaryBuilder {
   
   public DictionaryBuilder(final String dictInfoString, final Language lang0, final Language lang1, final String normalizerRules1, final String normalizerRules2, final Set<String> lang1Stoplist, final Set<String> lang2Stoplist) {
     dictionary = new Dictionary(dictInfoString);
-    indexBuilders.add(new IndexBuilder(this, lang0.getIsoCode(), lang0.getIsoCode() + "->" + lang1.getIsoCode(), lang0, normalizerRules1, lang1Stoplist, false));
-    indexBuilders.add(new IndexBuilder(this, lang1.getIsoCode(), lang1.getIsoCode() + "->" + lang0.getIsoCode(), lang1, normalizerRules2, lang2Stoplist, true));
+    if (lang1 != null) {
+        indexBuilders.add(new IndexBuilder(this, lang0.getIsoCode(), lang0.getIsoCode() + "->" + lang1.getIsoCode(), lang0, normalizerRules1, lang1Stoplist, false));
+        indexBuilders.add(new IndexBuilder(this, lang1.getIsoCode(), lang1.getIsoCode() + "->" + lang0.getIsoCode(), lang1, normalizerRules2, lang2Stoplist, true));
+    } else {
+        indexBuilders.add(new IndexBuilder(this, lang0.getIsoCode(), lang0.getIsoCode(), lang0, normalizerRules1, lang1Stoplist, false));
+    }
   }
   
   void build() {
@@ -65,11 +69,16 @@ public class DictionaryBuilder {
     
     final Map<String,String> keyValueArgs = Args.keyValueArgs(args);
     
-    if (!keyValueArgs.containsKey("lang1") || !keyValueArgs.containsKey("lang2")) {
-      fatalError("--lang1= and --lang2= must both be specified.");
+    if (!keyValueArgs.containsKey("lang1")) {
+      fatalError("--lang1= must be specified.");
     }
     final Language lang1 = Language.lookup(keyValueArgs.remove("lang1"));
-    final Language lang2 = Language.lookup(keyValueArgs.remove("lang2"));
+    final Language lang2;
+    if (keyValueArgs.containsKey("lang2")) {
+        lang2 = Language.lookup(keyValueArgs.remove("lang2"));
+    } else {
+        lang2 = null;
+    }
 
     final Set<String> lang1Stoplist = new LinkedHashSet<String>();
     final Set<String> lang2Stoplist = new LinkedHashSet<String>();
@@ -88,7 +97,7 @@ public class DictionaryBuilder {
       normalizerRules1 = lang1.getDefaultNormalizerRules();
     }
     if (normalizerRules2 == null) {
-      normalizerRules2 = lang2.getDefaultNormalizerRules();
+      normalizerRules2 = lang2 == null ? null : lang2.getDefaultNormalizerRules();
     }
     
     final String dictOutFilename = keyValueArgs.remove("dictOut");
@@ -161,8 +170,11 @@ public class DictionaryBuilder {
           } else if ("EnForeign".equals(type)) {
             parser = new EnForeignParser(dictionaryBuilder.indexBuilders.get(enIndex), dictionaryBuilder.indexBuilders.get(1-enIndex),
                 langPattern, langCodePattern, enIndex != 0);
+          } else if ("EnEnglish".equals(type)) {
+              parser = new EnForeignParser(dictionaryBuilder.indexBuilders.get(enIndex), dictionaryBuilder.indexBuilders.get(enIndex),
+                  langPattern, langCodePattern, true);
           } else {
-            fatalError("Invalid WiktionaryType (use EnToTranslation or EnForeign): " + type);
+            fatalError("Invalid WiktionaryType (use EnToTranslation or EnForeign or EnEnglish): " + type);
             return;
           }
           parser.parse(file, entrySource, pageLimit);
@@ -179,9 +191,10 @@ public class DictionaryBuilder {
         } else if (WholeSectionToHtmlParser.NAME.equals(inputFormat)) {
           final int titleIndex = Integer.parseInt(keyValueArgs.remove(prefix + "TitleIndex")) - 1;
           final String wiktionaryLang = keyValueArgs.remove(prefix + "WiktionaryLang");
+          final String webUrlTemplate = keyValueArgs.remove(prefix + "WebUrlTemplate");
           String skipLang = keyValueArgs.remove(prefix + "SkipLang");
           if (skipLang == null) skipLang = "";
-          new WholeSectionToHtmlParser(dictionaryBuilder.indexBuilders.get(titleIndex), null, wiktionaryLang, skipLang).parse(file, entrySource, pageLimit);
+          new WholeSectionToHtmlParser(dictionaryBuilder.indexBuilders.get(titleIndex), null, wiktionaryLang, skipLang, webUrlTemplate).parse(file, entrySource, pageLimit);
         } else {
           fatalError("Invalid or missing input format: " + inputFormat);
         }

@@ -60,10 +60,11 @@ public class DictionaryBuilderTest extends TestCase {
               "{{it-conj-cire|ricuc|avere}}\n" +
               "{{it-conj-iarsi-b|riavvi|essere}}" +
               "{{it-conj-fare|putre|avere}}\n" + 
-              "{{it-conj-cirsi|cuc|essere}}\n"
+              "{{it-conj-cirsi|cuc|essere}}\n" +
+              "{{it-conj-ere|smett|avere|pastp=smesso|prem1s=smisi|prem3s=smise|prem3s2=''|prem3p=smisero|prem3p2=''}}\n"
               ;
       final DictionaryBuilder db = new DictionaryBuilder("", Language.en, Language.it,  "", "", Collections.singleton("X"), Collections.singleton("X"));
-      WholeSectionToHtmlParser parser = new WholeSectionToHtmlParser(db.indexBuilders.get(0), null, "EN", "IT");
+      WholeSectionToHtmlParser parser = new WholeSectionToHtmlParser(db.indexBuilders.get(0), null, "EN", "IT", "http://en.wiktionary.org/wiki/%s");
       parser.title = "dummyTitle";
       parser.entrySource = new EntrySource(0, "dummySource", 0);
       parser.parseSection("dummyHeading", toParse);

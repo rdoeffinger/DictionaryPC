@@ -75,7 +75,48 @@ public class DictionaryBuilderMain extends TestCase {
   }
   
   static List<String> getMainArgs(final String[] pair) {
-    final List<String> result = new ArrayList<String>();
+      final List<String> result = new ArrayList<String>();
+      
+    int i = 1;
+    
+    if (pair.length == 1) {
+        final String lang1 = pair[0];
+        final String dictFile = String.format("%s/%s.quickdic", OUTPUTS, lang1);
+        result.add(String.format("--dictOut=%s", dictFile));
+        result.add(String.format("--lang1=%s", lang1));
+        result.add(String.format("--lang1Stoplist=%s", STOPLISTS + getStoplist(lang1)));
+        result.add(String.format("--dictInfo=Wikitionary-based %s dictionary.", lang1));
+
+        
+        final String wikiSplitFile = String.format("%s/wikiSplit/%s/%s.data", INPUTS, lang1.toLowerCase(), lang1);
+        if (new File(wikiSplitFile).canRead()) {
+            result.add(String.format("--input%d=%s", i, wikiSplitFile));
+            result.add(String.format("--input%dName=%s.wiktionary.org", i, lang1.toLowerCase()));
+            result.add(String.format("--input%dFormat=%s", i, WholeSectionToHtmlParser.NAME));
+            result.add(String.format("--input%dTitleIndex=%d", i, 1));
+            result.add(String.format("--input%dWiktionaryLang=%s", i, lang1));
+            result.add(String.format("--input%dSkipLang=%s", i, lang1));
+            result.add(String.format("--input%dWebUrlTemplate=http://%s.wiktionary.org/wiki/%%s", i, lang1.toLowerCase()));
+            result.add(String.format("--input%dPageLimit=100", i));
+            ++i;
+        } else {
+            System.err.println("Can't read file: " + wikiSplitFile);
+        }
+        
+        if (lang1.equals("EN")) {
+            result.add(String.format("--input%d=%s/wikiSplit/en/%s.data", i, INPUTS, lang1));
+            result.add(String.format("--input%dName=ENWiktionary.%s", i, lang1)) ;
+            result.add(String.format("--input%dFormat=enwiktionary", i));
+            result.add(String.format("--input%dWiktionaryType=EnEnglish", i));
+            result.add(String.format("--input%dLangPattern=%s", i, "English"));
+            result.add(String.format("--input%dLangCodePattern=%s", i, lang1.toLowerCase()));
+            result.add(String.format("--input%dEnIndex=%d", i, 1));
+            result.add(String.format("--input%dPageLimit=100", i));
+            ++i;
+        }
+        
+        return result;
+    }  // Single-lang dictionaries.
     
     final String lang1 = pair[0];
     final String lang2 = pair[1];
@@ -87,8 +128,6 @@ public class DictionaryBuilderMain extends TestCase {
     result.add(String.format("--lang1Stoplist=%s", STOPLISTS + getStoplist(lang1)));
     result.add(String.format("--lang2Stoplist=%s", STOPLISTS + getStoplist(lang2)));
 
-    int i = 1;
-    
     // For a few langs, put the defs of the other language in DE/IT/FR using WholeSection.
     for (final String wikitionaryLang : Arrays.asList("EN", "DE", "IT", "FR")) {
         if (!Arrays.asList(pair).contains(wikitionaryLang)) {
@@ -101,11 +140,12 @@ public class DictionaryBuilderMain extends TestCase {
             continue;
         }
         result.add(String.format("--input%d=%s", i, wikiSplitFile));
-        result.add(String.format("--input%dName=%s.wiktionary.org (%s)", i, wikitionaryLang, foreignIso));
+        result.add(String.format("--input%dName=%s.wiktionary.org", i, wikitionaryLang.toLowerCase()));
         result.add(String.format("--input%dFormat=%s", i, WholeSectionToHtmlParser.NAME));
         result.add(String.format("--input%dTitleIndex=%d", i, Arrays.asList(pair).indexOf(foreignIso) + 1));
         result.add(String.format("--input%dWiktionaryLang=%s", i, wikitionaryLang));
         result.add(String.format("--input%dSkipLang=%s", i, foreignIso));
+        result.add(String.format("--input%dWebUrlTemplate=http://%s.wiktionary.org/wiki/%%s", i, wikitionaryLang.toLowerCase()));
         ++i;
     }
     
@@ -172,7 +212,11 @@ public class DictionaryBuilderMain extends TestCase {
     
     // Build the non EN ones.
     final String[][] nonEnPairs = new String[][] {
-
+        {"EN"},
+        {"DE"},
+        {"IT"},
+        {"FR"},
+            
         // The 3 I use most:
         {"IT", "EN" },
         {"DE", "EN" },

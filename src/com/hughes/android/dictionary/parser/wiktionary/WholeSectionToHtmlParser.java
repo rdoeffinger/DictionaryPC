@@ -1,7 +1,6 @@
 
 package com.hughes.android.dictionary.parser.wiktionary;
 
-import com.hughes.android.dictionary.HtmlDisplayActivity;
 import com.hughes.android.dictionary.engine.EntryTypeName;
 import com.hughes.android.dictionary.engine.HtmlEntry;
 import com.hughes.android.dictionary.engine.IndexBuilder;
@@ -9,6 +8,7 @@ import com.hughes.android.dictionary.engine.IndexBuilder.TokenData;
 import com.hughes.android.dictionary.engine.IndexedEntry;
 import com.hughes.android.dictionary.parser.WikiTokenizer;
 import com.hughes.util.StringUtil;
+import com.sun.xml.internal.rngom.util.Uri;
 
 import org.apache.commons.lang3.StringEscapeUtils;
 
@@ -123,14 +123,17 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
     final IndexBuilder defIndexBuilder;
     final String skipLangIso;
     final LangConfig langConfig;
+    final String webUrlTemplate;
     
 
-    public WholeSectionToHtmlParser(final IndexBuilder titleIndexBuilder, final IndexBuilder defIndexBuilder, final String wiktionaryIso, final String skipLangIso) {
+    public WholeSectionToHtmlParser(final IndexBuilder titleIndexBuilder, final IndexBuilder defIndexBuilder, final String wiktionaryIso, final String skipLangIso,
+            final String webUrlTemplate) {
         this.titleIndexBuilder = titleIndexBuilder;
         this.defIndexBuilder = defIndexBuilder;
         assert isoToLangConfig.containsKey(wiktionaryIso): wiktionaryIso;
         this.langConfig = isoToLangConfig.get(wiktionaryIso);
         this.skipLangIso = skipLangIso;
+        this.webUrlTemplate = webUrlTemplate;
     }
     
     IndexedEntry indexedEntry = null;
@@ -149,6 +152,10 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
         callback.indexedEntry = indexedEntry;
         callback.dispatch(text, null);
 
+        if (webUrlTemplate != null) {
+            final String webUrl = String.format(webUrlTemplate, title);
+            callback.builder.append(String.format("<p> <a href=\"%s\">%s</a>", Uri.escapeDisallowedChars(webUrl), escapeHtmlLiteral(webUrl)));
+        }
         htmlEntry.html = callback.builder.toString();
         indexedEntry.isValid = true;
 
@@ -170,6 +177,16 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
     public void addLinkToCurrentEntry(String token, EntryTypeName entryTypeName) {
         titleIndexBuilder.addEntryWithString(indexedEntry, token, entryTypeName);
     }
+    
+    public static String escapeHtmlLiteral(final String plainText) {
+        final String htmlEscaped = StringEscapeUtils.escapeHtml3(plainText);
+        if (StringUtil.isAscii(htmlEscaped)) {
+            return htmlEscaped;
+        } else { 
+            return StringUtil.escapeToPureHtmlUnicode(plainText);
+        }
+
+    }
 
 
 
@@ -180,12 +197,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
 
         @Override
         public void onPlainText(String plainText) {
-            final String htmlEscaped = StringEscapeUtils.escapeHtml3(plainText);
-            if (StringUtil.isAscii(htmlEscaped)) {
-                super.onPlainText(htmlEscaped);
-            } else { 
-                super.onPlainText(StringUtil.escapeToPureHtmlUnicode(plainText));
-            }
+            super.onPlainText(escapeHtmlLiteral(plainText));
         }
 
         @Override
