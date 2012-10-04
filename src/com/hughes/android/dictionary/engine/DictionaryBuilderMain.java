@@ -34,6 +34,107 @@ public class DictionaryBuilderMain extends TestCase {
   static final String INPUTS = "data/inputs/";
   static final String STOPLISTS = "data/inputs/stoplists/";
   static final String OUTPUTS = "data/outputs/";  
+  
+  // Build the non EN ones.
+  static final String[][] nonEnPairs = new String[][] {
+      {"EN"},
+      {"DE"},
+      {"IT"},
+      {"FR"},
+          
+      // The 3 I use most:
+      {"IT", "EN" },
+      {"DE", "EN" },
+      {"DE", "IT" },
+          
+          
+      {"AR", "DE" },
+      {"AR", "ES" },
+      {"AR", "FR" },
+      {"AR", "HE" },
+      {"AR", "IT" },
+      {"AR", "JA" },
+      {"AR", "RU" },
+      {"AR", "TR" },  // Turkish
+      {"AR", "ZH" },
+      
+      {"DE", "AR" },
+      {"DE", "FR" },
+      {"DE", "CA" },  // Catalan
+      {"DE", "CS" },  // Czech
+      {"DE", "EO" },  // Esperanto
+      {"DE", "ES" },
+      {"DE", "FR" },
+      {"DE", "HE" },
+      {"DE", "HU" },  // Hungarian
+      {"DE", "IT" },
+      {"DE", "JA" },
+      {"DE", "LA" },  // Latin
+      {"DE", "NL" },  // Dutch
+      {"DE", "PL" },  // Polish
+      {"DE", "RU" },
+      {"DE", "SV" },  // Swedish
+      {"DE", "TR" },  // Turkish
+      {"DE", "ZH" },
+      {"DE", "TA" },  // Tamil
+      
+      {"ES", "RU" },  // Spanish-Russian
+      
+      {"FR", "BG" },  // Bulgarian
+      {"FR", "CS" },  // Czech
+      {"FR", "DE" },
+      {"FR", "ES" },
+      {"FR", "IT" },
+      {"FR", "JA" },
+      {"FR", "LA" },
+      {"FR", "NL" },  // Dutch
+      {"FR", "RU" },
+      {"FR", "TR" },  // Turkish
+      {"FR", "ZH" },
+
+      {"IT", "DE" },
+      {"IT", "EL" },  // Greek
+      {"IT", "ES" },
+      {"IT", "FR" },
+      {"IT", "HU" },
+      {"IT", "JA" },
+      {"IT", "LA" },  // Latin
+      {"IT", "LV" },  // Latvian
+      {"IT", "NL" },
+      {"IT", "PL" },
+      {"IT", "RU" },
+      {"IT", "SV" },
+      {"IT", "TR" },  // Turkish
+      {"IT", "ZH" },
+
+      {"JA", "ZH" },
+      {"JA", "AR" },
+      {"JA", "KO" },
+
+      {"ZH", "AR" },
+      {"ZH", "DE" },
+      {"ZH", "ES" },
+      {"ZH", "FR" },
+      {"ZH", "IT" },
+      {"ZH", "KO" },
+
+      
+      {"NO", "SV" },
+      {"NO", "FI" },
+      {"FI", "SV" },
+      
+      {"PL", "FR" },  // Polish
+      {"PL", "RU" },  // Polish
+      {"PL", "HU" },  // Polish
+      {"PL", "ES" },  // Polish
+      
+      {"TR", "EL" },  // Turkish, Greek
+
+      {"FA", "HY" },  // Persian, Armenian, by request.
+      {"FA", "SV" },  // Persian, Swedish, by request.
+
+  };
+
 
   
   static final Map<String,String>  isoToDedication = new LinkedHashMap<String, String>();
@@ -97,7 +198,7 @@ public class DictionaryBuilderMain extends TestCase {
             result.add(String.format("--input%dWiktionaryLang=%s", i, lang1));
             result.add(String.format("--input%dSkipLang=%s", i, lang1));
             result.add(String.format("--input%dWebUrlTemplate=http://%s.wiktionary.org/wiki/%%s", i, lang1.toLowerCase()));
-            result.add(String.format("--input%dPageLimit=100", i));
+            //result.add(String.format("--input%dPageLimit=100", i));
             ++i;
         } else {
             System.err.println("Can't read file: " + wikiSplitFile);
@@ -111,7 +212,7 @@ public class DictionaryBuilderMain extends TestCase {
             result.add(String.format("--input%dLangPattern=%s", i, "English"));
             result.add(String.format("--input%dLangCodePattern=%s", i, lang1.toLowerCase()));
             result.add(String.format("--input%dEnIndex=%d", i, 1));
-            result.add(String.format("--input%dPageLimit=100", i));
+            //result.add(String.format("--input%dPageLimit=100", i));
             ++i;
         }
         
@@ -210,105 +311,6 @@ public class DictionaryBuilderMain extends TestCase {
     
     final List<String[]> allPairs = new ArrayList<String[]>();
     
-    // Build the non EN ones.
-    final String[][] nonEnPairs = new String[][] {
-        {"EN"},
-        {"DE"},
-        {"IT"},
-        {"FR"},
-            
-        // The 3 I use most:
-        {"IT", "EN" },
-        {"DE", "EN" },
-        {"DE", "IT" },
-            
-            
-        {"AR", "DE" },
-        {"AR", "ES" },
-        {"AR", "FR" },
-        {"AR", "HE" },
-        {"AR", "IT" },
-        {"AR", "JA" },
-        {"AR", "RU" },
-        {"AR", "TR" },  // Turkish
-        {"AR", "ZH" },
-        
-        {"DE", "AR" },
-        {"DE", "FR" },
-        {"DE", "CA" },  // Catalan
-        {"DE", "CS" },  // Czech
-        {"DE", "EO" },  // Esperanto
-        {"DE", "ES" },
-        {"DE", "FR" },
-        {"DE", "HE" },
-        {"DE", "HU" },  // Hungarian
-        {"DE", "IT" },
-        {"DE", "JA" },
-        {"DE", "LA" },  // Latin
-        {"DE", "NL" },  // Dutch
-        {"DE", "PL" },  // Polish
-        {"DE", "RU" },
-        {"DE", "SV" },  // Swedish
-        {"DE", "TR" },  // Turkish
-        {"DE", "ZH" },
-        {"DE", "TA" },  // Tamil
-        
-        {"ES", "RU" },  // Spanish-Russian
-        
-        {"FR", "BG" },  // Bulgarian
-        {"FR", "CS" },  // Czech
-        {"FR", "DE" },
-        {"FR", "ES" },
-        {"FR", "IT" },
-        {"FR", "JA" },
-        {"FR", "LA" },
-        {"FR", "NL" },  // Dutch
-        {"FR", "RU" },
-        {"FR", "TR" },  // Turkish
-        {"FR", "ZH" },
-
-        {"IT", "DE" },
-        {"IT", "EL" },  // Greek
-        {"IT", "ES" },
-        {"IT", "FR" },
-        {"IT", "HU" },
-        {"IT", "JA" },
-        {"IT", "LA" },  // Latin
-        {"IT", "LV" },  // Latvian
-        {"IT", "NL" },
-        {"IT", "PL" },
-        {"IT", "RU" },
-        {"IT", "SV" },
-        {"IT", "TR" },  // Turkish
-        {"IT", "ZH" },
-
-        {"JA", "ZH" },
-        {"JA", "AR" },
-        {"JA", "KO" },
-
-        {"ZH", "AR" },
-        {"ZH", "DE" },
-        {"ZH", "ES" },
-        {"ZH", "FR" },
-        {"ZH", "IT" },
-        {"ZH", "KO" },
-
-        
-        {"NO", "SV" },
-        {"NO", "FI" },
-        {"FI", "SV" },
-        
-        {"PL", "FR" },  // Polish
-        {"PL", "RU" },  // Polish
-        {"PL", "HU" },  // Polish
-        {"PL", "ES" },  // Polish
-        
-        {"TR", "EL" },  // Turkish, Greek
-
-        {"FA", "HY" },  // Persian, Armenian, by request.
-        {"FA", "SV" },  // Persian, Swedish, by request.
-
-    };
     allPairs.addAll(Arrays.asList(nonEnPairs));
     
     // Add all the EN-XX pairs.

@@ -1,6 +1,8 @@
-EN dictionaries.
+Compression
+{{de-conj
+{{term
+{{etyl
 Spaces in links are done wrong: "perche mai",click "why on earth", see "why%20..."
-De verbs.
 Delete it conjugation of entries.
 
 
@@ -127,4 +129,5 @@ long click on see also works to link
 Links in HTML work: mostly, they don't open with the keyboard open
 when edit text loses focus, all highlighted: impossible if it's not focused.
 Web view search works.
+EN dictionaries.
   

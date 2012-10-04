@@ -8,8 +8,8 @@ echo "Note that unzipping is slow."
 
 L=en
 echo "Downloading from: http://dumps.wikimedia.org/${L}wiktionary/"
-WIKI=${L}wiktionary-20120714-pages-articles.xml
-curl --remote-name http://dumps.wikimedia.org/${L}wiktionary/20120714/${WIKI}.bz2
+WIKI=${L}wiktionary-20120930-pages-articles.xml
+curl --remote-name http://dumps.wikimedia.org/${L}wiktionary/20120930/${WIKI}.bz2
 bunzip2 ${WIKI}.bz2
 mv ${WIKI} inputs/${L}wiktionary-pages-articles.xml
 
@@ -21,29 +21,29 @@ mv ${CHEMNITZ} inputs/
 
 L=fr
 echo "Downloading from: http://dumps.wikimedia.org/${L}wiktionary/"
-WIKI=${L}wiktionary-20120719-pages-articles.xml
-curl --remote-name http://dumps.wikimedia.org/${L}wiktionary/20120719/${WIKI}.bz2
+WIKI=${L}wiktionary-20120926-pages-articles.xml
+curl --remote-name http://dumps.wikimedia.org/${L}wiktionary/20120926/${WIKI}.bz2
 bunzip2 ${WIKI}.bz2
 mv ${WIKI} inputs/${L}wiktionary-pages-articles.xml
 
 L=it
 echo "Downloading from: http://dumps.wikimedia.org/${L}wiktionary/"
-WIKI=${L}wiktionary-20120720-pages-articles.xml
-curl --remote-name http://dumps.wikimedia.org/${L}wiktionary/20120720/${WIKI}.bz2
+WIKI=${L}wiktionary-20120926-pages-articles.xml
+curl --remote-name http://dumps.wikimedia.org/${L}wiktionary/20120926/${WIKI}.bz2
 bunzip2 ${WIKI}.bz2
 mv ${WIKI} inputs/${L}wiktionary-pages-articles.xml
 
 L=de
 echo "Downloading from: http://dumps.wikimedia.org/${L}wiktionary/"
-WIKI=${L}wiktionary-20120714-pages-articles.xml
-curl --remote-name http://dumps.wikimedia.org/${L}wiktionary/20120714/${WIKI}.bz2
+WIKI=${L}wiktionary-20120928-pages-articles.xml
+curl --remote-name http://dumps.wikimedia.org/${L}wiktionary/20120928/${WIKI}.bz2
 bunzip2 ${WIKI}.bz2
 mv ${WIKI} inputs/${L}wiktionary-pages-articles.xml
 
 L=es
 echo "Downloading from: http://dumps.wikimedia.org/${L}wiktionary/"
-WIKI=${L}wiktionary-20120718-pages-articles.xml
-curl --remote-name http://dumps.wikimedia.org/${L}wiktionary/20120718/${WIKI}.bz2
+WIKI=${L}wiktionary-20120924-pages-articles.xml
+curl --remote-name http://dumps.wikimedia.org/${L}wiktionary/20120924/${WIKI}.bz2
 bunzip2 ${WIKI}.bz2
 mv ${WIKI} inputs/${L}wiktionary-pages-articles.xml
 
