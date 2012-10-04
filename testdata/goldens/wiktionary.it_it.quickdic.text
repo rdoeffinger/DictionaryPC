@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.italian 5247
+EntrySource: enwiktionary.italian 5266
 
 Index: IT IT->EN
 ===1963===
@@ -319,7 +319,7 @@ Index: IT IT->EN
   ami :: first-, second- and third-person singular subjunctive present of amare
   ami :: third-person singular imperative of amare
 ===amiamo===
-  vi :: (second-person personal plural object pronoun): you, to you
+  vi (pronoun) :: (second-person personal plural object pronoun): you, to you
     (noi) vi amiamo :: we love you
 ***ampere***
   ampere {m} (noun) {inv} :: ampere
@@ -1065,7 +1065,7 @@ Index: IT IT->EN
 ===cosine===
   cosine {f} :: {plural of|cosina}
 ===Costa===
-  Costa Rica {m} :: Costa Rica
+  Costa Rica {{it-proper noun|g=f}} :: Costa Rica
 ***coulomb***
   coulomb {m} (noun) {inv} :: coulomb
 ***country***
@@ -1138,7 +1138,7 @@ Index: IT IT->EN
     interviste dal libro :: “interviews from the book”
     traduzione dall’“Inferno” di Dante :: “translation from Dante’s ‘Inferno’”
     Dalla Terra alla Luna :: “From the Earth to the Moon”
-  da (preposition) :: At the house of,since
+  da (preposition) :: At the house of, since
     da Giovanni :: “at Giovanni’s house”
   da :: Common misspelling of dà
 ***dada***
@@ -1290,7 +1290,7 @@ Index: IT IT->EN
 ***dice***
   dice (verb form), infinitive: dire :: (Third-person singular present tense of dire) Says.
 ===dici===
-  dici nove (cardinal number) :: {{alternative spelling of|diciannove}}
+  dici nove (numeral) :: {{alternative spelling of|diciannove}}
 ***dieci***
   dieci {m|f} (adjective) {inv} :: ten
   dieci {m} (noun) {inv}{f|plural} :: ten
@@ -1345,7 +1345,7 @@ Index: IT IT->EN
 ***dodo***
   dodo {m}, dodi {pl} :: dodo
 ***Dominica***
-  Dominica {f} :: Dominica
+  Dominica {{it-proper noun|g=f}} :: Dominica
 ***don***
   don {m} (noun), inv :: Father (a title given to priests)
   don {m} (noun), inv :: A title of respect to a man.
@@ -1452,7 +1452,7 @@ Index: IT IT->EN
 ===eremite===
   eremite {f} :: {plural of|eremita}
 ***Eritrea***
-  Eritrea {f} :: Eritrea
+  Eritrea {{it-proper noun|g=f}} :: Eritrea
 ===errata===
   errata {s} :: {feminine of|errato}
 ===errato===
@@ -1681,11 +1681,11 @@ Index: IT IT->EN
 ***Gambia***
   Gambia {{it-proper noun|m}} :: Gambia
 ***gamma***
-  gamma {f}, gamme {pl}{m|f|inv} :: range, gamut
-  gamma {f}, gamme {pl}{m|f|inv} :: gamma (Greek letter)
+  gamma {f}, gamme {pl} :: range, gamut
+  gamma {f}, gamme {pl} :: gamma (Greek letter)
 ===gamme===
-  gamma {f}, gamme {pl}{m|f|inv} :: range, gamut
-  gamma {f}, gamme {pl}{m|f|inv} :: gamma (Greek letter)
+  gamma {f}, gamme {pl} :: range, gamut
+  gamma {f}, gamme {pl} :: gamma (Greek letter)
 ***gas***
   gas {m} (noun) :: gas (state of matter, petroleum)
   gas {m} (noun) :: petrol
@@ -1706,9 +1706,9 @@ Index: IT IT->EN
 ***Ghana***
   Ghana {f} (proper noun) :: Ghana
 ===ghetti===
-  ghetto {m}, ghetti {pl} :: A ghetto
+  ghetto {m}, ghetti {pl} :: A ghetto.
 ***ghetto***
-  ghetto {m}, ghetti {pl} :: A ghetto
+  ghetto {m}, ghetti {pl} :: A ghetto.
 ===Giacomino===
   da (preposition) :: from
     Giacomino da Verona :: “Giacomino from Verona”
@@ -1718,7 +1718,7 @@ Index: IT IT->EN
 ***giga***
   giga- (prefix) :: giga-
 ===Giovanni===
-  da (preposition) :: At the house of,since
+  da (preposition) :: At the house of, since
     da Giovanni :: “at Giovanni’s house”
 ===giraffa===
   giraffe {f} :: {plural of|giraffa}
@@ -1770,7 +1770,7 @@ Index: IT IT->EN
   grazie {m}, grazie {pl}{f} :: thanks to, because of
   grazie {m}, grazie {pl}{f} :: {plural of|grazia}
 ***Grenada***
-  Grenada {f} :: Grenada
+  Grenada {{it-proper noun|g=f}} :: Grenada
 ***Grosseto***
   Grosseto {{it-proper noun|g=f}} :: Grosseto (province)
   Grosseto {{it-proper noun|g=f}} :: Grosseto (town)
@@ -1787,7 +1787,7 @@ Index: IT IT->EN
 ===guerre===
   guerra {f}, guerre {pl} :: war, warfare
 ***Guinea***
-  Guinea {f} :: Guinea
+  Guinea {{it-proper noun|g=f}} :: Guinea
   Guinea-Bissau {f} :: Guinea-Bissau
 ***Guyana***
   Guyana {f} :: Guyana
@@ -2037,6 +2037,9 @@ Index: IT IT->EN
 ***kiwi***
   kiwi {m} (noun) {inv} :: kiwi fruit
   kiwi {m} (noun) {inv} :: kiwi
+===Kuala===
+  Kuala Lumpur {f} (proper noun) :: Kuala Lumpur (capital of Malaysia)
+  Kuala Lumpur {f} (proper noun) :: Kuala Lumpur (federal territory in Malaysia)
 ***Kuwait***
   Kuwait {{it-proper noun|g=m}} :: Kuwait
 ***l***
@@ -2082,7 +2085,7 @@ Index: IT IT->EN
 ===languire===
   langue :: {conjugation of|languire|3|s|pres|ind}
 ===Lanka===
-  Sri Lanka {m} :: Sri Lanka
+  Sri Lanka {{it-proper noun|g=m}} :: Sri Lanka
 ***Laos***
   Laos {{it-proper noun|g=m}} :: Laos
 ***larva***
@@ -2153,7 +2156,7 @@ Index: IT IT->EN
 ===lento===
   lente (adjective form) {f}{p} :: (feminine plural form of lento) slow
 ===Leone===
-  Sierra Leone {f} :: Sierra Leone
+  Sierra Leone {{it-proper noun|g=f}} :: Sierra Leone
 ***Lesotho***
   Lesotho {{it-proper noun|g=m}} :: Lesotho
 ***li***
@@ -2263,6 +2266,9 @@ Index: IT IT->EN
 ***lui***
   lui (pronoun) :: he
   lui (pronoun) :: him (indirect form of lui used after a preposition)
+===Lumpur===
+  Kuala Lumpur {f} (proper noun) :: Kuala Lumpur (capital of Malaysia)
+  Kuala Lumpur {f} (proper noun) :: Kuala Lumpur (federal territory in Malaysia)
 ===luna===
   lune {f} :: {plural of|luna}
 ===Luna===
@@ -2331,7 +2337,7 @@ Index: IT IT->EN
 ***management***
   management {m} (noun) {inv} :: management
 ***manga***
-  manga {m} (noun) {inv} :: {manga} A manga
+  manga {m} (noun) {inv} :: {manga} manga
 ***manganese***
   manganese {m}, manganesi {pl} :: manganese
 ===manganesi===
@@ -2425,7 +2431,7 @@ Index: IT IT->EN
   de (contraction) :: {apocopic form of|del}
     Michael Radford è il regista de "Il postino". :: "Michael Radford is the director of "Il Postino".
 ***Micronesia***
-  Micronesia {f} :: Micronesia
+  Micronesia {{it-proper noun|g=f}} :: Micronesia
 ***Milan***
   Milan {it-proper noun} :: The AC Milan football team
 ***milione***
@@ -2640,7 +2646,7 @@ Index: IT IT->EN
   ni {it-adv} :: {informal} Neither yes nor no (a play on no and si)
 ***noi***
   noi :: we; us
-  vi :: (second-person personal plural object pronoun): you, to you
+  vi (pronoun) :: (second-person personal plural object pronoun): you, to you
     (noi) vi amiamo :: we love you
 ===nomare===
   nomo (verb form) :: {conjugation of|nomare|1|s|pres|ind}
@@ -2671,7 +2677,7 @@ Index: IT IT->EN
   nove {m|f} (adjective) {inv} :: nine
   nove {m} (noun) {inv}{f|plural} :: nine
   nove {m} (noun) {inv}{f|plural} :: nine o'clock
-  dici nove (cardinal number) :: {{alternative spelling of|diciannove}}
+  dici nove (numeral) :: {{alternative spelling of|diciannove}}
 ***nu***
   nu {m|f} (noun) {inv} :: The name of the letter N
 ***nude***
@@ -2708,6 +2714,8 @@ Index: IT IT->EN
   olive {f} :: {plural of|oliva}
 ***Oman***
   Oman {{it-proper noun|g=m}} :: Oman
+***OMC***
+  OMC {fr-initialism} :: {{initialism of|Organizzazione Mondiale del Commercio}} (WTO (World Trade Organisation))
 ***omega***
   omega (noun) {m|f|inv} :: omega (letter; scientific symbol)
 ***omicron***
@@ -2758,7 +2766,7 @@ Index: IT IT->EN
 ***osteo***
   osteo- :: {anatomy} osteo-
 ***otto***
-  otto (cardinal number) {m|f|inv} :: {cardinal} eight
+  otto (numeral) {m|f|inv} :: {cardinal} eight
   otto (noun) {m|inv}{f|plural} :: eight
   otto (noun) {m|inv}{f|plural} :: eight o'clock
 ***p***
@@ -2847,6 +2855,8 @@ Index: IT IT->EN
 ***Pavia***
   Pavia {{it-proper noun|g=f}} :: Pavia (province)
   Pavia {{it-proper noun|g=f}} :: Pavia (town)
+***PE***
+  PE {it-abbreviation} :: {{abbreviation of|Pescara}} (It is a city in Abruzzo)
 ===pensi===
   ne (pronoun) :: of it
     Ne ho sentito parlare. :: “I have heard talk of it.”
@@ -3275,7 +3285,7 @@ Index: IT IT->EN
 ***rho***
   rho (noun) {m|f|inv} :: rho (Greek letter)
 ===Rica===
-  Costa Rica {m} :: Costa Rica
+  Costa Rica {{it-proper noun|g=f}} :: Costa Rica
 ===richiamato===
   bo :: An interjection expressing doubt or indecision.
     Viene Filomena stasera? Bo, non m’ha richiamato. :: Is Filomena coming tonight? I don’t know, she never called me back.
@@ -3516,7 +3526,7 @@ Index: IT IT->EN
   sette {m} (noun) {inv}{f|plural} :: seven o'clock (a.m. or p.m.)
   sette {m} (noun) {inv}{f|plural} :: {plural of|setta}
 ***Seychelles***
-  Seychelles {f} {p} :: Seychelles
+  Seychelles {{it-proper noun|g=f}} {p} :: Seychelles
 ***shock***
   shock {m} (noun) {inv} :: shock (medical; violent or unexpected event)
 ***short***
@@ -3544,7 +3554,7 @@ Index: IT IT->EN
   Siena {{it-proper noun|g=f}} :: Siena (province)
   Siena {{it-proper noun|g=f}} :: Siena (town)
 ===Sierra===
-  Sierra Leone {f} :: Sierra Leone
+  Sierra Leone {{it-proper noun|g=f}} :: Sierra Leone
 ***sigma***
   sigma (noun) {m|f|inv} (noun){m|inv} :: sigma (Greek letter)
   sigma (noun) {m|f|inv} (noun){m|inv} :: sigmoid colon
@@ -3639,7 +3649,7 @@ Index: IT IT->EN
 ***spider***
   spider {m} (noun) {inv} :: {computing} spider (Internet software)
 ===Sri===
-  Sri Lanka {m} :: Sri Lanka
+  Sri Lanka {{it-proper noun|g=m}} :: Sri Lanka
 ===sta===
   come :: how
     Come stai? (informal) :: How are you?
@@ -3710,7 +3720,7 @@ Index: IT IT->EN
 ===superlativo===
   superlative {f} :: {feminine plural of|superlativo}
 ***Suriname***
-  Suriname {m} :: Suriname
+  Suriname {{it-proper noun|g=m}} :: Suriname
 ***Swaziland***
   Swaziland {{it-proper noun|g=m}} :: Swaziland
 ***swing***
@@ -3722,7 +3732,7 @@ Index: IT IT->EN
 ===T===
   t (letter) {m|f|inv} :: See under T
 ***Taiwan***
-  Taiwan {m} :: Taiwan
+  Taiwan {{it-proper noun|g=m}} :: Taiwan
 ===tali===
   talo {m}, tali {pl} :: {{context|skeleton}} talus, talus bone
 ***talo***
@@ -3867,8 +3877,6 @@ Index: IT IT->EN
     interviste dal libro :: “interviews from the book”
     traduzione dall’“Inferno” di Dante :: “translation from Dante’s ‘Inferno’”
     Dalla Terra alla Luna :: “From the Earth to the Moon”
-***tram***
-  tram {m} (noun) {inv} :: tram, streetcar
 ***transfinite***
   transfinite {f} :: Feminine plural form of transfinito
 ===transitive===
@@ -4073,11 +4081,11 @@ Index: IT IT->EN
 ===vertebre===
   vertebra {f}, vertebre {pl} :: {{context|skeleton}} vertebra
 ***vi***
-  vi :: (second-person personal plural object pronoun): you, to you
+  vi (pronoun) :: (second-person personal plural object pronoun): you, to you
     (noi) vi amiamo :: we love you
-  vi :: (second-person reflexive plural): yourselves
+  vi (pronoun) :: (second-person reflexive plural): yourselves
     (voi) vi ricordate :: --
-  vi :: it (often not translated); about it, of it, on it
+  vi (pronoun) :: it (often not translated); about it, of it, on it
   vi {it-adv} :: there
   vi {it-adv} :: here
 ===Vibo===
@@ -4255,7 +4263,7 @@ Index: EN EN->IT
   ablative {f} :: Feminine plural form of ablativo
 ===about===
   ci (pronoun) :: on it, about it, of it
-  vi :: it (often not translated); about it, of it, on it
+  vi (pronoun) :: it (often not translated); about it, of it, on it
 ===abrasivo===
   abrasive {f} :: Feminine plural form of abrasivo
 ===abraso===
@@ -4263,6 +4271,7 @@ Index: EN EN->IT
 ===abrogativo===
   abrogative {f} :: Feminine plural form of abrogativo
 ===Abruzzo===
+  PE {it-abbreviation} :: {{abbreviation of|Pescara}} (It is a city in Abruzzo)
   CH (abbreviation) :: Chieti (Italian town in Abruzzo)
 ===abusivo===
   abusive {f} :: Feminine plural form of abusivo
@@ -4535,7 +4544,7 @@ Index: EN EN->IT
 ===associativo===
   associative {f} :: Feminine plural form of associativo
 ===At===
-  da (preposition) :: At the house of,since
+  da (preposition) :: At the house of, since
     da Giovanni :: “at Giovanni’s house”
 ===attached===
   milli- :: milli- (multiplying the unit to which it is attached by 10<sup>-3</sup>)
@@ -4858,6 +4867,7 @@ Index: EN EN->IT
   candela {f}, candele {pl} :: candle
 ===capital===
   Brasilia {{it-proper noun|g=f}} :: Brasilia, the capital of Brazil
+  Kuala Lumpur {f} (proper noun) :: Kuala Lumpur (capital of Malaysia)
   Madrid {{it-proper noun|g=f}} :: Madrid, Spanish capital city and province
   Parigi {{it-proper noun|g=f}} :: Paris, the capital city of France.
   Bangkok {it-proper noun} :: Bangkok (capital of Thailand)
@@ -4964,6 +4974,7 @@ Index: EN EN->IT
   ca (abbreviation) :: circa
 ===city===
   city {f} (noun) {inv} :: city (financial district of a city)
+  PE {it-abbreviation} :: {{abbreviation of|Pescara}} (It is a city in Abruzzo)
   Madrid {{it-proper noun|g=f}} :: Madrid, Spanish capital city and province
   Parigi {{it-proper noun|g=f}} :: Paris, the capital city of France.
   Palermo {{it-proper noun|g=f}} :: Palermo (city)
@@ -5113,7 +5124,7 @@ Index: EN EN->IT
   Cosenza {it-proper noun} :: Cosenza (province)
   Cosenza {it-proper noun} :: Cosenza (town)
 ===Costa===
-  Costa Rica {m} :: Costa Rica
+  Costa Rica {{it-proper noun|g=f}} :: Costa Rica
 ===coulomb===
   coulomb {m} (noun) {inv} :: coulomb
 ===countenance===
@@ -5345,7 +5356,7 @@ Index: EN EN->IT
 ===doll===
   pupa {f}, pupe {pl} :: doll (child's toy)
 ===Dominica===
-  Dominica {f} :: Dominica
+  Dominica {{it-proper noun|g=f}} :: Dominica
 ===don===
   bo :: An interjection expressing doubt or indecision.
     Viene Filomena stasera? Bo, non m’ha richiamato. :: Is Filomena coming tonight? I don’t know, she never called me back.
@@ -5417,7 +5428,7 @@ Index: EN EN->IT
 ===editing===
   line {f} (noun) {inv} :: editing (of a TV programme)
 ===eight===
-  otto (cardinal number) {m|f|inv} :: {cardinal} eight
+  otto (numeral) {m|f|inv} :: {cardinal} eight
   otto (noun) {m|inv}{f|plural} :: eight
   otto (noun) {m|inv}{f|plural} :: eight o'clock
 ===Either===
@@ -5490,7 +5501,7 @@ Index: EN EN->IT
 ===eraso===
   erase{f} :: Plural of eraso
 ===Eritrea===
-  Eritrea {f} :: Eritrea
+  Eritrea {{it-proper noun|g=f}} :: Eritrea
 ===erudito===
   erudite {f} :: Feminine plural form of erudito
 ===escudo===
@@ -5566,6 +5577,8 @@ Index: EN EN->IT
   destino {m}, destini {pl} :: destiny, fate
 ===Father===
   don {m} (noun), inv :: Father (a title given to priests)
+===federal===
+  Kuala Lumpur {f} (proper noun) :: Kuala Lumpur (federal territory in Malaysia)
 ===feeler===
   antenna {f}, antenne {pl} :: feeler organ on the head of an insect: antenna
 ===female===
@@ -5860,9 +5873,9 @@ Index: EN EN->IT
 ===games===
   lob {m} (noun) {inv} :: lob (in ball games)
 ===gamma===
-  gamma {f}, gamme {pl}{m|f|inv} :: gamma (Greek letter)
+  gamma {f}, gamme {pl} :: gamma (Greek letter)
 ===gamut===
-  gamma {f}, gamme {pl}{m|f|inv} :: range, gamut
+  gamma {f}, gamme {pl} :: range, gamut
 ===garage===
   box {m} (noun) {inv} :: garage, lock-up (for a car)
 ===gas===
@@ -5896,7 +5909,7 @@ Index: EN EN->IT
 ===Ghana===
   Ghana {f} (proper noun) :: Ghana
 ===ghetto===
-  ghetto {m}, ghetti {pl} :: A ghetto
+  ghetto {m}, ghetti {pl} :: A ghetto.
 ===Giacomino===
   da (preposition) :: from
     Giacomino da Verona :: “Giacomino from Verona”
@@ -5906,7 +5919,7 @@ Index: EN EN->IT
 ===giga===
   giga- (prefix) :: giga-
 ===Giovanni===
-  da (preposition) :: At the house of,since
+  da (preposition) :: At the house of, since
     da Giovanni :: “at Giovanni’s house”
 ===girlfriend===
   ex {m|f} (noun) {inv} :: ex (ex-boyfriend, girlfriend)
@@ -5968,7 +5981,7 @@ Index: EN EN->IT
   san (noun) {m|f|inv} :: san (Greek letter)
   ni (noun) {m|f|inv} :: nu (Greek letter)
   beta {f|inv} beta {f}, bete {pl} :: beta (letter of the Greek alphabet)
-  gamma {f}, gamme {pl}{m|f|inv} :: gamma (Greek letter)
+  gamma {f}, gamme {pl} :: gamma (Greek letter)
   epsilon (noun) {m|f|inv} :: epsilon (Greek letter)
   zeta (noun) {m|f|inv} :: zeta; The letter Z/z in the Italian and Greek alphabets
   digamma (noun) {m|inv} :: digamma (Greek letter)
@@ -5985,7 +5998,7 @@ Index: EN EN->IT
   chi (noun) {m|f|inv} :: chi (Greek letter)
   psi (noun) {m|f|inv} :: psi (Greek letter)
 ===Grenada===
-  Grenada {f} :: Grenada
+  Grenada {{it-proper noun|g=f}} :: Grenada
 ===Grosseto===
   Grosseto {{it-proper noun|g=f}} :: Grosseto (province)
   Grosseto {{it-proper noun|g=f}} :: Grosseto (town)
@@ -6003,7 +6016,7 @@ Index: EN EN->IT
 ===Guernsey===
   Guernsey {it-proper noun} :: Guernsey (island)
 ===Guinea===
-  Guinea {f} :: Guinea
+  Guinea {{it-proper noun|g=f}} :: Guinea
   Guinea-Bissau {f} :: Guinea-Bissau
 ===Guyana===
   Guyana {f} :: Guyana
@@ -6127,7 +6140,7 @@ Index: EN EN->IT
 ===house===
   full {m} (noun) {inv} :: full house (in poker)
   casa {f}, case {pl} :: house
-  da (preposition) :: At the house of,since
+  da (preposition) :: At the house of, since
     da Giovanni :: “at Giovanni’s house”
 ===how===
   come :: how
@@ -6304,6 +6317,7 @@ Index: EN EN->IT
 ===island===
   Guernsey {it-proper noun} :: Guernsey (island)
 ===It===
+  PE {it-abbreviation} :: {{abbreviation of|Pescara}} (It is a city in Abruzzo)
   ci (pronoun) :: impersonal reflexive pronoun
     Ci vuole poco a farmi felice. :: It doesn't take much to make me happy.
 ===Italian===
@@ -6382,6 +6396,9 @@ Index: EN EN->IT
   so :: (I) know (first-person singular present tense of sapere)
   bo :: An interjection expressing doubt or indecision.
     Viene Filomena stasera? Bo, non m’ha richiamato. :: Is Filomena coming tonight? I don’t know, she never called me back.
+===Kuala===
+  Kuala Lumpur {f} (proper noun) :: Kuala Lumpur (capital of Malaysia)
+  Kuala Lumpur {f} (proper noun) :: Kuala Lumpur (federal territory in Malaysia)
 ===Kuwait===
   Kuwait {{it-proper noun|g=m}} :: Kuwait
 ===l===
@@ -6412,7 +6429,7 @@ Index: EN EN->IT
   Python {{it-proper noun|g=m}} :: Python programming language
   italiano {m}, italiani {pl} feminine italiana :: Italian (inhabitant of Italy and language)
 ===Lanka===
-  Sri Lanka {m} :: Sri Lanka
+  Sri Lanka {{it-proper noun|g=m}} :: Sri Lanka
 ===Laos===
   Laos {{it-proper noun|g=m}} :: Laos
 ===large===
@@ -6459,7 +6476,7 @@ Index: EN EN->IT
 ===lens===
   lente {f}, lenti {pl} :: lens
 ===Leone===
-  Sierra Leone {f} :: Sierra Leone
+  Sierra Leone {{it-proper noun|g=f}} :: Sierra Leone
 ===leotard===
   body (noun) {m} :: A leotard.
 ===Lesotho===
@@ -6475,7 +6492,7 @@ Index: EN EN->IT
   il- (prefix) :: Variant of in- before the letter "l"
   ni (noun) {m|f|inv} :: nu (Greek letter)
   beta {f|inv} beta {f}, bete {pl} :: beta (letter of the Greek alphabet)
-  gamma {f}, gamme {pl}{m|f|inv} :: gamma (Greek letter)
+  gamma {f}, gamme {pl} :: gamma (Greek letter)
   epsilon (noun) {m|f|inv} :: epsilon (Greek letter)
   zeta (noun) {m|f|inv} :: zeta; The letter Z/z in the Italian and Greek alphabets
   digamma (noun) {m|inv} :: digamma (Greek letter)
@@ -6576,7 +6593,7 @@ Index: EN EN->IT
   tempo {m}, tempi {pl} :: weather
     tempo da lupi :: lousy weather
 ===love===
-  vi :: (second-person personal plural object pronoun): you, to you
+  vi (pronoun) :: (second-person personal plural object pronoun): you, to you
     (noi) vi amiamo :: we love you
 ===LSD===
   acido {m}, acidi {pl} :: {slang} LSD
@@ -6585,6 +6602,9 @@ Index: EN EN->IT
   Lucca {{it-proper noun|g=f}} :: Lucca (town)
 ===lui===
   lui (pronoun) :: him (indirect form of lui used after a preposition)
+===Lumpur===
+  Kuala Lumpur {f} (proper noun) :: Kuala Lumpur (capital of Malaysia)
+  Kuala Lumpur {f} (proper noun) :: Kuala Lumpur (federal territory in Malaysia)
 ===lupus===
   lupus {m} (noun) {inv} :: {disease} lupus
 ===lyrics===
@@ -6635,6 +6655,9 @@ Index: EN EN->IT
     Ci vuole poco a farmi felice. :: It doesn't take much to make me happy.
 ===Malawi===
   Malawi {{it-proper noun|m}} :: Malawi
+===Malaysia===
+  Kuala Lumpur {f} (proper noun) :: Kuala Lumpur (capital of Malaysia)
+  Kuala Lumpur {f} (proper noun) :: Kuala Lumpur (federal territory in Malaysia)
 ===male===
   tigre {f}, tigri {pl} :: tiger (male)
   cane {m}, cani {pl}, cagna {f} :: dog in general, male dog
@@ -6654,7 +6677,7 @@ Index: EN EN->IT
   line {f} (noun) {inv} :: line management
   management {m} (noun) {inv} :: management
 ===manga===
-  manga {m} (noun) {inv} :: {manga} A manga
+  manga {m} (noun) {inv} :: {manga} manga
 ===manganese===
   manganese {m}, manganesi {pl} :: manganese
 ===mango===
@@ -6752,7 +6775,7 @@ Index: EN EN->IT
   de (contraction) :: {apocopic form of|del}
     Michael Radford è il regista de "Il postino". :: "Michael Radford is the director of "Il Postino".
 ===Micronesia===
-  Micronesia {f} :: Micronesia
+  Micronesia {{it-proper noun|g=f}} :: Micronesia
 ===midday===
   dodici {m} (noun) {inv}{f|plural} :: twelve o'clock (midday or midnight)
 ===Middle===
@@ -6975,7 +6998,7 @@ Index: EN EN->IT
     Un uomo libero. :: A free man.
   libero {{it-adj|liber}} :: free (that does not have to be paid for)
     Ingresso libero. :: Free admission.
-  vi :: it (often not translated); about it, of it, on it
+  vi (pronoun) :: it (often not translated); about it, of it, on it
   card {m} (noun) {inv} :: card (identification, financial, SIM etc (but not playing card))
   casa {f}, case {pl} :: Family, dynasty, descent, extraction, stock, lineage, birth, origin, race (not human “race”, but meaning the preceding words).
   ne (pronoun) :: of them (sometimes not translated in English)
@@ -7059,7 +7082,7 @@ Index: EN EN->IT
   quindici {m} (noun) {inv}{f|plural} :: three o'clock (p.m.)
   dodici {m} (noun) {inv}{f|plural} :: twelve o'clock (midday or midnight)
 ===object===
-  vi :: (second-person personal plural object pronoun): you, to you
+  vi (pronoun) :: (second-person personal plural object pronoun): you, to you
     (noi) vi amiamo :: we love you
   la {f|s} (pronoun), plural: le :: her (direct object)
 ===objection===
@@ -7080,7 +7103,7 @@ Index: EN EN->IT
 ===officer===
   secondo {m}, secondi {pl} :: second mate, executive officer (in the navy)
 ===often===
-  vi :: it (often not translated); about it, of it, on it
+  vi (pronoun) :: it (often not translated); about it, of it, on it
   si (pronoun) :: {{context|indefinite}} one, you, we, they, people. Note: often translated using the passive voice in English.
     Non si deve parlare così (One/You/We/They/People shouldn’t speak like that) :: --
     Si parla italiano qui (Italian is spoken here or One/You/We/They/People speak(s) Italian here) :: --
@@ -7121,6 +7144,8 @@ Index: EN EN->IT
   antenna {f}, antenne {pl} :: feeler organ on the head of an insect: antenna
 ===organic===
   bio {inv} (adjective) :: {informal} {Abbreviation|biologico}; organic, biological
+===Organisation===
+  OMC {fr-initialism} :: {{initialism of|Organizzazione Mondiale del Commercio}} (WTO (World Trade Organisation))
 ===organization===
   boss {m} (noun) {inv} :: boss (leader of a business, company or criminal organization)
 ===origin===
@@ -7282,7 +7307,7 @@ Index: EN EN->IT
   era {f}, ere {pl} :: age, epoch, period
   decade {f}, decadi {pl} :: A decade, a period of ten days
 ===personal===
-  vi :: (second-person personal plural object pronoun): you, to you
+  vi (pronoun) :: (second-person personal plural object pronoun): you, to you
     (noi) vi amiamo :: we love you
 ===persons===
   voi :: The second person plural familiar pronoun, voi refers to the persons who are spoken or written to: you.
@@ -7489,7 +7514,7 @@ Index: EN EN->IT
 ===pronoun===
   ci (pronoun) :: impersonal reflexive pronoun
     Ci vuole poco a farmi felice. :: It doesn't take much to make me happy.
-  vi :: (second-person personal plural object pronoun): you, to you
+  vi (pronoun) :: (second-person personal plural object pronoun): you, to you
     (noi) vi amiamo :: we love you
   voi :: The second person plural familiar pronoun, voi refers to the persons who are spoken or written to: you.
 ===propaganda===
@@ -7641,7 +7666,7 @@ Index: EN EN->IT
 ===raincoat===
   gabardine {m} (noun) {inv} :: An overcoat or raincoat, (originally) of this material
 ===range===
-  gamma {f}, gamme {pl}{m|f|inv} :: range, gamut
+  gamma {f}, gamme {pl} :: range, gamut
 ===rapid===
   boom {m} (noun) {inv} :: A boom, rapid expansion
 ===rapidly===
@@ -7677,7 +7702,7 @@ Index: EN EN->IT
 ===reflexive===
   ci (pronoun) :: impersonal reflexive pronoun
     Ci vuole poco a farmi felice. :: It doesn't take much to make me happy.
-  vi :: (second-person reflexive plural): yourselves
+  vi (pronoun) :: (second-person reflexive plural): yourselves
     (voi) vi ricordate :: --
 ===Reggio===
   Reggio nell'Emilia {it-proper noun} :: Reggio nell'Emilia (province)
@@ -7728,7 +7753,7 @@ Index: EN EN->IT
   tempo {m}, tempi {pl} :: {music} time, tempo, rhythm.
   beat {m} (noun) {inv} :: beat (rhythm accompanying music)
 ===Rica===
-  Costa Rica {m} :: Costa Rica
+  Costa Rica {{it-proper noun|g=f}} :: Costa Rica
 ===ridere===
   ride :: third-person singular indicative present of ridere
 ===Rieti===
@@ -7938,7 +7963,7 @@ Index: EN EN->IT
 ===sex===
   poeta {m}, poeti {pl} Feminine poetessa :: poet (male or unspecified sex)
 ===Seychelles===
-  Seychelles {f} {p} :: Seychelles
+  Seychelles {{it-proper noun|g=f}} {p} :: Seychelles
 ===shadow===
   larva {f}, larve {pl} :: {figuratively} shadow, skeleton
 ===shaft===
@@ -7994,7 +8019,7 @@ Index: EN EN->IT
   Siena {{it-proper noun|g=f}} :: Siena (province)
   Siena {{it-proper noun|g=f}} :: Siena (town)
 ===Sierra===
-  Sierra Leone {f} :: Sierra Leone
+  Sierra Leone {{it-proper noun|g=f}} :: Sierra Leone
 ===sigma===
   sigma (noun) {m|f|inv} (noun){m|inv} :: sigma (Greek letter)
 ===sigmoid===
@@ -8019,7 +8044,7 @@ Index: EN EN->IT
 ===since===
   dal :: since
     dal 1963 :: since 1963
-  da (preposition) :: At the house of,since
+  da (preposition) :: At the house of, since
     da Giovanni :: “at Giovanni’s house”
 ===Singapore===
   Singapore {{it-proper noun|g=m}} :: Singapore
@@ -8159,7 +8184,7 @@ Index: EN EN->IT
 ===square===
   casa {f}, case {pl} :: {{context|boardgame}} square
 ===Sri===
-  Sri Lanka {m} :: Sri Lanka
+  Sri Lanka {{it-proper noun|g=m}} :: Sri Lanka
 ===staff===
   staff (noun) {m|inv} :: staff (people)
 ===stand===
@@ -8201,8 +8226,6 @@ Index: EN EN->IT
     Se non è vero, è ben trovato. :: If it is not true, it is a good story.
 ===strange===
   mania {f}, manie {pl} :: habit (if strange)
-===streetcar===
-  tram {m} (noun) {inv} :: tram, streetcar
 ===stressed===
   forte {{it-adj|fort|e|i}} :: {linguistics} stressed
     vocali forti :: stressed vowel
@@ -8251,7 +8274,7 @@ Index: EN EN->IT
 ===surface===
   area {f}, aree {pl} :: area, surface
 ===Suriname===
-  Suriname {m} :: Suriname
+  Suriname {{it-proper noun|g=m}} :: Suriname
 ===suspension===
   break {m} (noun) {inv} :: break (intermission or brief suspension of activity)
 ===swallowtail===
@@ -8282,7 +8305,7 @@ Index: EN EN->IT
 ===table===
   abaco {m}, abachi {pl} :: abacus, plinth, multiplication-table
 ===Taiwan===
-  Taiwan {m} :: Taiwan
+  Taiwan {{it-proper noun|g=m}} :: Taiwan
 ===take===
   ci (pronoun) :: impersonal reflexive pronoun
     Ci vuole poco a farmi felice. :: It doesn't take much to make me happy.
@@ -8371,6 +8394,8 @@ Index: EN EN->IT
   Terni {{it-proper noun|g=f}} :: Terni (town)
 ===terrible===
   cane (adjective) {inv} :: terrible, dreadful, awful
+===territory===
+  Kuala Lumpur {f} (proper noun) :: Kuala Lumpur (federal territory in Malaysia)
 ===test===
   test {m} (noun) {inv} :: test
 ===Thailand===
@@ -8592,14 +8617,14 @@ Index: EN EN->IT
   Vicenza {{it-proper noun|g=f}} :: Vicenza (town)
 ===toy===
   pupa {f}, pupe {pl} :: doll (child's toy)
-===tram===
-  tram {m} (noun) {inv} :: tram, streetcar
+===Trade===
+  OMC {fr-initialism} :: {{initialism of|Organizzazione Mondiale del Commercio}} (WTO (World Trade Organisation))
 ===transfer===
   dare {it-verb} :: {transitive} To give, to transfer the possession/holding of something to someone else.
 ===transfinito===
   transfinite {f} :: Feminine plural form of transfinito
 ===translated===
-  vi :: it (often not translated); about it, of it, on it
+  vi (pronoun) :: it (often not translated); about it, of it, on it
   ne (pronoun) :: of them (sometimes not translated in English)
     Ce ne sono due. :: “There are two (of them).”
   si (pronoun) :: {{context|indefinite}} one, you, we, they, people. Note: often translated using the passive voice in English.
@@ -8930,7 +8955,7 @@ Index: EN EN->IT
     Non si deve parlare così (One/You/We/They/People shouldn’t speak like that) :: --
     Si parla italiano qui (Italian is spoken here or One/You/We/They/People speak(s) Italian here) :: --
   noi :: we; us
-  vi :: (second-person personal plural object pronoun): you, to you
+  vi (pronoun) :: (second-person personal plural object pronoun): you, to you
     (noi) vi amiamo :: we love you
 ===weather===
   tempo {m}, tempi {pl} :: weather
@@ -9020,6 +9045,7 @@ Index: EN EN->IT
 ===worker===
   festival (noun) {m|inv} :: worker's festival
 ===World===
+  OMC {fr-initialism} :: {{initialism of|Organizzazione Mondiale del Commercio}} (WTO (World Trade Organisation))
   finale {f}, finali {pl} :: {sports} final, finals
     la finale della Coppa del Mondo :: the World Cup final
 ===worn===
@@ -9031,6 +9057,8 @@ Index: EN EN->IT
   voi :: The second person plural familiar pronoun, voi refers to the persons who are spoken or written to: you.
 ===wrongly===
   male {it-adv} (comparative: peggio; superlative: malissimo) :: badly, wrongly
+===WTO===
+  OMC {fr-initialism} :: {{initialism of|Organizzazione Mondiale del Commercio}} (WTO (World Trade Organisation))
 ===xi===
   xi {m|f} (noun) {inv} :: xi (all senses)
 ===Y===
@@ -9052,7 +9080,7 @@ Index: EN EN->IT
   dare {it-verb} :: {transitive} To yield, to bear, to give, to produce, to return.
 ===you===
   te (pronoun) :: (emphasised objective of tu) you
-  vi :: (second-person personal plural object pronoun): you, to you
+  vi (pronoun) :: (second-person personal plural object pronoun): you, to you
     (noi) vi amiamo :: we love you
   grazie (interjection) :: thank you, thanks!
   si (pronoun) :: {{context|indefinite}} one, you, we, they, people. Note: often translated using the passive voice in English.
@@ -9080,7 +9108,7 @@ Index: EN EN->IT
   dove (conjunction) :: where
     Lo troverai dove l'hai lasciato. :: You'll find it where you left it.
 ===yourselves===
-  vi :: (second-person reflexive plural): yourselves
+  vi (pronoun) :: (second-person reflexive plural): yourselves
     (voi) vi ricordate :: --
 ===z===
   zeta (noun) {m|f|inv} :: zeta; The letter Z/z in the Italian and Greek alphabets

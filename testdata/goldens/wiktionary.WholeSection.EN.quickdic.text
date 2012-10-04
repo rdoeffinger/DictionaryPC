@@ -1,5 +1,5 @@
 dictInfo=SomeWikiDataWholeSection
-EntrySource: wiktionary.WholeSection.EN.quickdic 426
+EntrySource: wiktionary.WholeSection.EN.quickdic 384
 
 Index: EN EN->EN
 ===a===
@@ -34,6 +34,9 @@ Runic letter {{term|&#x16ab;|ansuz|tr=a}}, source for Anglo-Saxon Futhorc letter
 {{en-letter|upper=A|lower=a}}
 <ol><li> {{Latn-def|en|letter|1|a}}</li>
 <ul><li> <em>Apple starts with <b>A</b>.</em></li>
+<li> {{RQ:Orwell Animal Farm|3}}</li>
+<ul><li> Boxer could not get beyond the letter D. He would trace out <b>A</b>, B, C, D, in the dust with his great hoof ...</li>
+</ul>
 </ul>
 </ol>
 
@@ -68,13 +71,14 @@ Runic letter {{term|&#x16ab;|ansuz|tr=a}}, source for Anglo-Saxon Futhorc letter
 <li> {{context|education}} The highest <a href="qd::letter grade">letter grade</a> assigned (disregarding plusses and minuses).</li>
 <ul><li> <em>I was so happy to get an <b>A</b> on that test.</em></li>
 </ul>
-<li> {music} A tone three fifths above C in the <a href="qd::cycle of fifths">cycle of fifths</a>; the sixth tone of the C major scale; the reference tone that occurs at exactly 440 Hz.</li>
+<li> {music} A tone three fifths above C in the <a href="qd::cycle of fifths">cycle of fifths</a>; the sixth tone of the C major scale; the first note of the minor scale of A minor; the reference tone that occurs at exactly 440 Hz; the printed or written note A; the <a href="qd::scale">scale</a> with A as its <a href="qd::keynote">keynote</a>.&lt;ref name=SOED/&gt;&lt;ref name=OCD&gt;Lindberg, Christine A., (2007)&lt;/ref&gt;</li>
 <ul><li> <em>Orchestras traditionally tune to a concert <b>A</b>.</em></li>
 </ul>
 <li> {medicine} A <a href="qd::blood type">blood type</a> that has a specific antigen that aggravates the immune response in people with type <a href="qd::B">B</a> antigen in their blood. They may receive blood from type A or type <a href="qd::O">O</a>, but cannot receive blood from <a href="qd::AB">AB</a> or <a href="qd::B">B</a>.</li>
 <ul><li> <em>My blood type is <b>A</b> negative.</em></li>
 </ul>
-<li> {{context|vehicle-distinguishing signs}} <a href="qd::Austria">Austria</a></li>
+<li> {chemistry} <a href="qd::mass number">Mass number</a>.</li>
+<li> {logic}A universal affirmative suggestion.&lt;ref name=SOED&gt;Brown, Lesley (2003)&lt;/ref&gt;</li>
 </ol>
 
 <h5>Derived terms</h5>
@@ -112,20 +116,16 @@ Runic letter {{term|&#x16ab;|ansuz|tr=a}}, source for Anglo-Saxon Futhorc letter
 
 <h4>Abbreviation</h4>
 {en-abbr}
-<ol><li> {{context|Webster 1913}} <a href="qd::adjective">Adjective</a>.</li>
-<li> {{context|&#x6f;&#x66;&#x74;&#x65;&#x6e;&#x20;&#x77;&#x69;&#x74;&#x68;&#x20;&#x2018;&#x51;&#x2019;&#x20;&#x66;&#x6f;&#x72;&#x20;&#x201c;&#x51;&#x75;&#x65;&#x73;&#x74;&#x69;&#x6f;&#x6e;&#x201d;}} <a href="qd::answer">Answer</a></li>
-<li> <a href="qd::Asian">Asian</a></li>
-<li> <a href="qd::admit">Admit</a></li>
-<li> <a href="qd::application">Application</a></li>
-<li> <a href="qd::asynchron">asynchron</a></li>
-<li> <a href="qd::Augsburg">Augsburg</a></li>
-<li> {physics} <a href="qd::angstrom">angstrom</a></li>
-<li> {{context|weaponry}} <a href="qd::atom">atom</a></li>
-<li> {sports} An <a href="qd::assist">assist</a></li>
-<li> {geometry} <a href="qd::area">Area</a></li>
+<ol><li> <a href="qd::ace">Ace</a></li>
 <li> <a href="qd::acre">Acre</a></li>
+<li> <a href="qd::adult">Adult</a>; as used in film rating</li>
 <li> <a href="qd::ammeter">Ammeter</a></li>
-<li> <a href="qd::ace">Ace</a></li>
+<li> {physics} <a href="qd::angstrom">angstrom</a></li>
+<li> <a href="qd::answer">Answer</a></li>
+<li> {geometry} <a href="qd::area">Area</a></li>
+<li> {sports} An <a href="qd::assist">assist</a></li>
+<li> {{context|weaponry}} <a href="qd::atom">atom</a>; <a href="qd::atomic">atomic</a></li>
+<li> {{context|vehicle-distinguishing signs}} <a href="qd::Austria">Austria</a></li>
 </ol>
 
 <h5>Synonyms</h5>
@@ -139,7 +139,9 @@ Runic letter {{term|&#x16ab;|ansuz|tr=a}}, source for Anglo-Saxon Futhorc letter
 <h4>Statistics</h4>
 <ul><li> {{rank|little|now|then|79|A|should|can|made}}</li>
 </ul>
----->>>
+
+<h4>Footnotes</h4>
+&lt;references/&gt;>>>
 ===Å===
 See also HtmlEntry:A
 ===account===
@@ -158,7 +160,7 @@ From {{suffix|adjective|al}}.
 
 <h3>Adjective</h3>
 {en-adj}
-<ol><li> {grammar} Of or relating to or functioning as an adjective; &quot;adjectival syntax&quot;; &quot;an adjective clause&quot; &lt;ref&gt;adjectival. Dictionary.com. WordNet&reg; 3.0. Princeton University. http://dictionary.reference.com/browse/adjectival &lt;/ref&gt;.</li>
+<ol><li> {grammar} Of or relating to or functioning as an adjective; &quot;adjectival syntax&quot;; &quot;an adjective clause&quot; &lt;ref&gt;{R:Dictionary.com}&lt;/ref&gt;.</li>
 <li> {legal} Of or relating to <a href="qd::procedure">procedure</a>, especially to technicalities thereof.</li>
 </ol>
 
@@ -219,7 +221,19 @@ From {{etyl|fro}} {{term|adjectif}}, from {{etyl|la}} {{term|adiectivus|&#x61;&#
 <h4>Hyponyms</h4>
 <ul><li> See also </li>
 </ul>
->>>
+
+<h3>Verb</h3>
+{{en-verb|adjectiv|ed}}
+<ol><li> {transitive} To make an adjective of; to form or convert into an adjective.</li>
+<ul><li> Tooke</li>
+<ul><li> Language has as much occasion to <b>adjective</b> the distinct signification of the verb, and to adjective also the mood, as it has to adjective time. It has ... <b>adjectived</b> all three.</li>
+</ul>
+<li> <b>1832</b>, William Hunter, <em>An Anglo-Saxon grammar, and derivatives</em> (page 46)</li>
+<ul><li> In English, instead of <b>adjectiving</b> our own substantives, we have borrowed, in immense numbers, adjectived signs from other languages...</li>
+</ul>
+</ul>
+</ol>
+---->>>
 See also HtmlEntry:substantive
 ===administer===
 See also HtmlEntry:deal
@@ -227,8 +241,6 @@ See also HtmlEntry:deal
 See also HtmlEntry:march
 ===africana===
 See also HtmlEntry:elephant
-===after===
-See also HtmlEntry:dog
 ===alligator===
 See also HtmlEntry:elephant
 ===allot===
@@ -257,6 +269,11 @@ HtmlEntry: alphabetical <<<
 <li> According to the <a href="qd::sequence">sequence</a> of the letters of the <a href="qd::alphabet">alphabet</a>.</li>
 <ul><li> <em>All names were placed into an <b>alphabetical</b> list.</em></li>
 </ul>
+<li> {obsolete} <a href="qd::literal">literal</a></li>
+<ul><li> Milton</li>
+<ul><li> <b>Alphabetical</b> servility.</li>
+</ul>
+</ul>
 </ol>
 
 <h4>Derived terms</h4>
@@ -271,8 +288,6 @@ HtmlEntry: alphabetical <<<
 >>>
 ===amalgamation===
 See also HtmlEntry:portmanteau word
-===andiron===
-See also HtmlEntry:dog
 ===antidisestablishmentarianism===
 HtmlEntry: antidisestablishmentarianism <<<
 <h3>Etymology</h3>
@@ -471,13 +486,13 @@ See also HtmlEntry:deal
 ===barter===
 HtmlEntry: barter <<<
 <h3>Pronunciation</h3>
-<ul><li> {{a|RP}} IPA: &#x2f;&#x2c8;&#x62;&#x251;&#x2d0;&#x74;&#x259;&#x28;&#x279;&#x29;&#x2f;, {{X-SAMPA|/bA:t@(r)/}}</li>
+<ul><li> {{a|RP}} IPA: &#x2f;&#x2c8;&#x62;&#x251;&#x2d0;&#x74;&#x259;&#x28;&#x279;&#x29;&#x2f;, {{X-SAMPA|/bA:t@(r\)/}}</li>
 <li> {{a|US}} {{enPR|&#x62;&#xe4;&#x72;&#x2b9;&#x2d;&#x74;&#x259;&#x72;}}, IPA: &#x2f;&#x2c8;&#x62;&#x251;&#x279;&#x74;&#x259;&#x2de;&#x2f;, {{X-SAMPA|/bArt@`/}}</li>
-<li> {{rhymes|&#x251;&#x2d0;&#x28;&#x72;&#x29;&#x74;&#x259;&#x28;&#x72;&#x29;}}</li>
+<li> {{rhymes|&#x251;&#x2d0;&#x28;&#x279;&#x29;&#x74;&#x259;&#x28;&#x279;&#x29;}}</li>
 </ul>
 
 <h3>Etymology</h3>
-From {{etyl|fro}} <em><a href="qd::barater">barater</a></em>, of uncertain origin (maybe <a href="qd::Celtic">Celtic</a>).
+From {{etyl|fro}} {{term|barater|lang=fro}}, of uncertain origin (maybe <a href="qd::Celtic">Celtic</a>).
 <h3>Noun</h3>
 {en-noun}
 <ol><li> an <a href="qd::equal">equal</a> <a href="qd::exchange">exchange</a></li>
@@ -520,13 +535,10 @@ See also HtmlEntry:minute
 See also HtmlEntry:cat
 ===black===
 See also HtmlEntry:cat
-===blackguard===
-See also HtmlEntry:dog
 ===blend===
 See also HtmlEntry:portmanteau
 See also HtmlEntry:portmanteau word
 ===bloke===
-See also HtmlEntry:dog
 See also HtmlEntry:cat
 ===blow===
 See also HtmlEntry:head
@@ -548,14 +560,14 @@ HtmlEntry: book <<<
 </ul>
 
 <h3>Etymology 1</h3>
-From {{etyl|enm}} {{term|book|lang=enm}}, from {{etyl|ang}} {{term|boc|&#x62;&#x14d;&#x63;|lang=ang}}, first and third person singular preterite of {{term|bacan|to bake|lang=ang}}. Cognate with {{etyl|sco|-}} {{term|beuk|baked|lang=sco}}, {{etyl|de|-}} {{term|buke|baked|lang=de}} and probably Albanian {{term|buk&euml;|bread, baked dough|lang=sq}}. More at {{l|en|bake}}.
+From {{etyl|enm}} {{term|book|lang=enm}}, from {{etyl|ang}} {{term|boc|&#x62;&#x14d;&#x63;|lang=ang}}, first and third person singular preterite of {{term|bacan|to bake|lang=ang}}. Cognate with {{etyl|sco|-}} {{term|beuk|baked|lang=sco}}, {{etyl|de|-}} {{term|buk|baked|lang=de}} and probably Albanian {{term|buk&euml;|bread, baked dough|lang=sq}}. More at {{l|en|bake}}.
 <h4>Verb</h4>
 {{head|en|verb form}}
 <ol><li> {{context|UK|_|dialectal|Northern England}} {{form of|Alternative simple past|bake}}.</li>
 </ol>
 
 <h3>Etymology 2</h3>
-From {{etyl|enm}} {{term|book|lang=enm}}, from {{etyl|ang}} {{term|boc|&#x62;&#x14d;&#x63;|a book, a document, register, catalog, a legal document, a bill of divorce, a charter, a title deed, conveyance, a volume, literary work, pages, main division of a work|lang=ang}}, from {{proto|Germanic|&#x62;&#x14d;&#x6b;&#x73;|beech, book}}, from {{proto|Indo-European|&#x62;&#x68;&#x65;&#x68;&#x2081;&#x67;&#x311;&#xf3;&#x73;|beech}}. Cognate with {{etyl|sco|-}} {{term|buik|lang=sco}}, {{term|beuk|book|lang=sco}}, {{etyl|fy|-}} {{term|boek|book|lang=fy}}, {{etyl|nl|-}} {{term|boek|book|lang=nl}}, {{etyl|de|-}} {{term|Buch|book|lang=de}}, {{etyl|sv|-}} {{term|bok|book|lang=sv}}. Related also to Latin {{term|fagus|&#x66;&#x101;&#x67;&#x75;&#x73;|beech|lang=la}}, Russian {{term|&#x431;&#x443;&#x43a;|beech|tr=buk|lang=ru}}, Albanian {{term|bung|chestnut, oak|lang=sq}}, Ancient Greek {{term|&#x3c6;&#x3b7;&#x3b3;&#x3cc;&#x3c2;|oak|tr=&#x70;&#x68;&#x113;&#x67;&#xf3;&#x73;|lang=grc}}, Armenian {{term|bown|trunk}}, Kurdish {{term|b&ucirc;z|elm}}. More at <a href="qd::beech">beech</a>, <a href="qd::buckwheat">buckwheat</a>.The sense development of <em>beech</em> to <em>book</em> is explained by the fact that smooth gray beech bark was commonly used as <a href="qd::bookfell">bookfell</a>.&lt;ref&gt;J.P. Mallory, <em>Encyclopedia of Indo-European Culture</em>, s.v. &quot;beech&quot; (London: Fitroy-Dearborn, 1997), 58.&lt;/ref&gt;
+From {{etyl|enm}} {{term|book|lang=enm}}, from {{etyl|ang}} {{term|boc|&#x62;&#x14d;&#x63;|a book, a document, register, catalog, a legal document, a bill of divorce, a charter, a title deed, conveyance, a volume, literary work, pages, main division of a work|lang=ang}}, from {{proto|Germanic|&#x62;&#x14d;&#x6b;&#x73;|beech, book}}, from {{proto|Indo-European|&#x62;&#x68;&#x65;&#x68;&#x2081;&#x67;&#x311;&#xf3;&#x73;|beech}}. Cognate with {{etyl|sco|-}} {{term|buik|lang=sco}}, {{term|beuk|book|lang=sco}}, {{etyl|fy|-}} {{term|boek|book|lang=fy}}, {{etyl|nl|-}} {{term|boek|book|lang=nl}}, {{etyl|de|-}} {{term|Buch|book|lang=de}}, {{etyl|sv|-}} {{term|bok|book|lang=sv}}. Related also to Latin {{term|fagus|&#x66;&#x101;&#x67;&#x75;&#x73;|beech|lang=la}}, Russian {{term|&#x431;&#x443;&#x43a;|beech|tr=buk|lang=ru}}, Albanian {{term|bung|chestnut, oak|lang=sq}}, Ancient Greek {{term|&#x3c6;&#x3b7;&#x3b3;&#x3cc;&#x3c2;|oak|tr=&#x70;&#x68;&#x113;&#x67;&#xf3;&#x73;|lang=grc}}, Armenian {{term|&#x562;&#x578;&#x582;&#x576;|trunk|tr=bun|lang=hy}}, Kurdish {{term|b&ucirc;z|elm}}. More at <a href="qd::beech">beech</a>, <a href="qd::buckwheat">buckwheat</a>.The sense development of <em>beech</em> to <em>book</em> is explained by the fact that smooth gray beech bark was commonly used as <a href="qd::bookfell">bookfell</a>.&lt;ref&gt;J.P. Mallory, <em>Encyclopedia of Indo-European Culture</em>, s.v. &quot;beech&quot; (London: Fitroy-Dearborn, 1997), 58.&lt;/ref&gt;
 <h4>Noun</h4>
 A hard-cover book{en-noun}
 <ol><li> A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc. If initially blank, commonly referred to as a <a href="qd::notebook">notebook</a>.</li>
@@ -580,7 +592,7 @@ A hard-cover book{en-noun}
 <li> {{usually|in the plural}} Records of the accounts of a business.</li>
 <li> A long document stored (as <a href="qd::data">data</a>) that is or will become a book; an <a href="qd::e-book">e-book</a>.</li>
 <li> {{context|legal}} A colloquial reference to a <a href="qd::book award">book award</a>, a recognition for receiving the highest grade in a class (traditionally an actual book, but recently more likely a letter or certificate acknowledging the achievement).</li>
-<li> {{context|poker slang}} <a href="qd::four of a kind">four of a kind</a></li>
+<li> {{context|poker slang}} <a href="qd::four of a kind">four of a kind</a>&lt;ref&gt;Weisenberg, Michael (2000) <em>[http://www.poker1.com/mcu/pokerdictionary/mculib_dictionary_info.asp The Official Dictionary of Poker].</em> MGI/Mike Caro University. ISBN 978-1880069523&lt;/ref&gt;</li>
 <li> {sports} A document, held by the referee, of the incidents happened in the game.</li>
 <li> {{sports|by extension}} A list of all players who have been booked (received a warning) in a game.</li>
 <ul><li> {{quote-news|year=2011|date=March 2|author=Andy Campbell|title=Celtic 1 - 0 Rangers|work=BBC|url=http://news.bbc.co.uk/sport2/hi/football/9409758.stm|page=|passage=Celtic captain Scott Brown joined team-mate Majstorovic in the <b>book</b> and Rangers' John Fleck was also shown a yellow card as an ill-tempered half drew to a close }}</li>
@@ -845,8 +857,6 @@ See also HtmlEntry:book
 See also HtmlEntry:head
 ===bottom===
 See also HtmlEntry:head
-===bounder===
-See also HtmlEntry:dog
 ===broadwing===
 See also HtmlEntry:eagle
 ===brown===
@@ -867,6 +877,7 @@ HtmlEntry: brown <<<<a href="qd::File:Color icon brown v2.svg">Various shades of
 <li> {{color panel|623017}}</li>
 </ul>
 <li> {{context|snooker}} One of the <a href="qd::colour">colour</a> balls used in <a href="qd::snooker">snooker</a> with a value of 4 points.</li>
+<li> <a href="qd::black tar">black tar</a> <a href="qd::heroin">heroin</a></li>
 </ol>
 
 <h3>Adjective</h3>
@@ -965,34 +976,10 @@ See also HtmlEntry:nonsense
 ===business===
 See also HtmlEntry:trade
 See also HtmlEntry:deal
-===business deal===
-HtmlEntry: business deal <<<
-<h3>Noun</h3>
-{{en-noun|sg=<a href="qd::business">business</a> <a href="qd::deal">deal</a>}}
-<ol><li> A <a href="qd::particular">particular</a> <a href="qd::instance">instance</a> of buying or selling</li>
-<ul><li>&quot;it was a package deal&quot;</li>
-<li>&quot;I had no further trade with him&quot;</li>
-<li>&quot;he's a master of the business deal&quot; </li>
-</ul>
-</ol>
-
-<h4>Synonyms</h4>
-<ul><li> <a href="qd::deal">deal</a></li>
-<li> <a href="qd::trade">trade</a></li>
-</ul>
->>>
-===cad===
-See also HtmlEntry:dog
 ===can===
 See also HtmlEntry:may
 ===Caniformia===
 See also HtmlEntry:cat
-===canine===
-See also HtmlEntry:dog
-===canis===
-See also HtmlEntry:dog
-===Canis===
-See also HtmlEntry:dog
 ===Canoidea===
 See also HtmlEntry:cat
 ===caput===
@@ -1002,7 +989,7 @@ See also HtmlEntry:cat
 ===cat===
 HtmlEntry: cat <<<A domestic cat (1)
 <h3>Pronunciation</h3>
-<ul><li> {{enPR|&#x6b;&#x103;&#x74;}}, IPA: /k&aelig;t/, &#x5b;&#x6b;&#x2b2;&#xe6;&#x294;&#x5d;, {{X-SAMPA|/k{t/}}</li>
+<ul><li> {{enPR|&#x6b;&#x103;&#x74;}}, IPA: /k&aelig;t/, &#x5b;&#x6b;&#x2b0;&#xe6;&#x294;&#x5d;, {{X-SAMPA|/k{t/}}</li>
 <li> {{audio|en-us-cat.ogg|Audio (US)}}</li>
 <li> {{audio|en-us-inlandnorth-cat.ogg|Audio (US-Inland North)}}</li>
 <li> {{rhymes|&aelig;t}}</li>
@@ -1012,10 +999,10 @@ HtmlEntry: cat <<<A domestic cat (1)
 From {{etyl|enm}} {{term|cat|lang=enm}}, {{term|catte|lang=enm}}, from {{etyl|ang}} {{term|catt|male cat|lang=ang}} and {{term|catte|female cat|lang=ang}}, from {{etyl|LL.}} {{term|cattus|domestic cat|lang=la}}, from {{etyl|la}} {{term|catta|lang=la}} (c.75 B.C., Martial)&lt;ref&gt;Douglas Harper, <em>Online Etymology Dictionary</em>, s.v. &quot;cat&quot;, [html], retrieved on 29 September 2009: [http://www.etymonline.com/index.php?term=cat].&lt;/ref&gt;, from {{etyl|afa}} (compare <a href="qd::Nubian">Nubian</a> <em><a href="qd::kadís">kad&iacute;s</a></em>, {{etyl|ber|-}} <em><a href="qd::kaddîska">kadd&icirc;ska</a></em> 'wildcat'), from <a href="qd::Late Egyptian">Late Egyptian</a> <em><a href="qd::čaute">&#x10d;&#x61;&#x75;&#x74;&#x65;</a></em>,&lt;ref&gt;Jean-Paul Savignac, <em>Dictionnaire fran&ccedil;ais-gaulois</em>, s.v. &quot;<a href="qd::chat">chat</a>&quot; (Paris: Errance, 2004), 82.&lt;/ref&gt; feminine of <em><a href="qd::čaus">&#x10d;&#x61;&#x75;&#x73;</a></em> 'jungle cat, African wildcat', from earlier {{etyl|egy|-}} <em><a href="qd::tešau">&#x74;&#x65;&#x161;&#x61;&#x75;</a></em> 'female cat'. Cognate with {{etyl|sco|-}} {{term|cat|cat|lang=sco}}, West Frisian {{term|kat|cat|lang=fy}}, {{etyl|frr|-}} {{term|k&aring;t|cat|lang=frr}}, Dutch {{term|kat|cat|lang=nl}}, {{etyl|nds|-}} {{term|katte|cat|lang=nds}}, German {{term|Katze|cat|lang=de}}, Danish {{term|kat|cat|lang=da}}, Swedish {{term|katt|cat|lang=sv}}, {{etyl|is|-}} {{term|k&ouml;ttur|cat|lang=is}}, and also with {{etyl|de|-}} {{term|Kater|tomcat|lang=de}} and Dutch {{term|kater|tomcat|lang=nl}}.
 <h4>Noun</h4>
 {en-noun}
-<ol><li> A domesticated <a href="qd::subspecies">subspecies</a> (<a href="qd::Felis silvestris catus">Felis silvestris catus</a>) of <a href="qd::feline">feline</a> animal, commonly kept as a house <a href="qd::pet">pet</a>. {{defdate|from 8th c.}}</li>
+<ol><li> A domesticated <a href="qd::subspecies">subspecies</a>, {{tritaxon|<a href="qd::Felis silvestris catus">Felis silvestris catus</a>}}, of <a href="qd::feline">feline</a> animal, commonly kept as a house <a href="qd::pet">pet</a>. {{defdate|from 8th c.}}</li>
 <li> Any similar animal of the family <em><a href="qd::Felidae">Felidae</a></em>, which includes <a href="qd::lion">lion</a>s, <a href="qd::tiger">tiger</a>s, etc.</li>
 <li> A <a href="qd::catfish">catfish</a>.</li>
-<li> {derogatory} A spiteful or angry <a href="qd::woman">woman</a>. {{defdate|from earlier 13th c.}}</li>
+<li> {offensive} A spiteful or angry <a href="qd::woman">woman</a>. {{defdate|from earlier 13th c.}}</li>
 <li> An enthusiast or player of <a href="qd::jazz">jazz</a>.</li>
 <li> {slang} A person (usually male).</li>
 <li> {nautical} A strong tackle used to hoist an anchor to the <a href="qd::cathead">cathead</a> of a ship.</li>
@@ -1028,13 +1015,13 @@ From {{etyl|enm}} {{term|cat|lang=enm}}, {{term|catte|lang=enm}}, from {{etyl|an
 <li> {{archaic|uncountable}} The trap of the game of &quot;trap and ball&quot;.</li>
 <li> {slang} <a href="qd::prostitute">Prostitute</a>. {{defdate|from at least early 15th c.}}</li>
 <li> {{slang|vulgar|African American Vernacular English}} A <a href="qd::vagina">vagina</a>; female external genitalia</li>
-<ul><li> 1969. Iceberg Slim. <em>Pimp: The Story of My Life</em>. Holloway House Publishing.</li>
+<ul><li> <b>1969</b>, Iceberg Slim, <em>Pimp: The Story of My Life</em> (Holloway House Publishing):</li>
 <ul><li> &quot;What the hell, so this broad's got a prematurely-gray <b>cat</b>.&quot;<em></li>
 </ul>
-<li> 2005. Carolyn Chambers Sanders. </em>Sins &amp; Secrets<em>. Hachette Digital.</li>
+<li> <b>2005</b>, Carolyn Chambers Sanders, </em>Sins &amp; Secrets<em> (Hachette Digital):</li>
 <ul><li> </em>As she came up, she tried to put her <b>cat</b> in his face for some licking.<em></li>
 </ul>
-<li> 2007. Franklin White. </em>Money for Good<em>. Simon and Schuster. page 64.</li>
+<li> <b>2007</b>, Franklin White, </em>Money for Good<em> (Simon and Schuster), page 64:</li>
 <ul><li> </em>I had a notion to walk over to her, rip her apron off, sling her housecoat open and put my finger inside her <b>cat</b> to see if she was wet or freshly fucked because the dream I had earlier was beginning to really annoy me.<em></li>
 </ul>
 </ul>
@@ -1094,22 +1081,23 @@ From {{etyl|enm}} {{term|cat|lang=enm}}, {{term|catte|lang=enm}}, from {{etyl|an
 <li> <a href="qd::catlike">catlike</a></li>
 <li> <a href="qd::catling">catling</a></li>
 <li> <a href="qd::catloaf">catloaf</a></li>
+<li> <a href="qd::catly">catly</a></li>
 <li> <a href="qd::catmint">catmint</a></li>
 <li> <a href="qd::cat-nap">cat-nap</a>/<a href="qd::cat nap">cat nap</a></li>
 <li> <a href="qd::catnip">catnip</a></li>
-<li> <a href="qd::cat-o'-nine-tails">&#x63;&#x61;&#x74;&#x2d;&#x6f;&#x2019;&#x2d;&#x6e;&#x69;&#x6e;&#x65;&#x2d;&#x74;&#x61;&#x69;&#x6c;&#x73;</a></li>
+<li> <a href="qd::cat-o'-nine-tails">cat-o'-nine-tails</a></li>
 <li> <a href="qd::cat person">cat person</a></li>
-<li> <a href="qd::cat's cradle">&#x63;&#x61;&#x74;&#x2019;&#x73;&#x20;&#x63;&#x72;&#x61;&#x64;&#x6c;&#x65;</a></li>
-<li> <a href="qd::cat's eye">&#x63;&#x61;&#x74;&#x2019;&#x73;&#x20;&#x65;&#x79;&#x65;</a></li>
-<li> <a href="qd::cat's meat">&#x63;&#x61;&#x74;&#x2019;&#x73;&#x20;&#x6d;&#x65;&#x61;&#x74;</a></li>
-<li> <a href="qd::cat's meow">&#x63;&#x61;&#x74;&#x2019;&#x73;&#x20;&#x6d;&#x65;&#x6f;&#x77;</a></li>
-<li> <a href="qd::cat's pajamas">&#x63;&#x61;&#x74;&#x2019;&#x73;&#x20;&#x70;&#x61;&#x6a;&#x61;&#x6d;&#x61;&#x73;</a>, the <a href="qd::cat's pyjamas">&#x63;&#x61;&#x74;&#x2019;&#x73;&#x20;&#x70;&#x79;&#x6a;&#x61;&#x6d;&#x61;&#x73;</a></li>
-<li> <a href="qd::cat's paw">&#x63;&#x61;&#x74;&#x2019;&#x73;&#x20;&#x70;&#x61;&#x77;</a></li>
+<li> <a href="qd::cat's cradle">cat's cradle</a></li>
+<li> <a href="qd::cat's eye">cat's eye</a></li>
+<li> <a href="qd::cat's meat">cat's meat</a></li>
+<li> <a href="qd::cat's meow">cat's meow</a></li>
+<li> <a href="qd::cat's pajamas">cat's pajamas</a>, the <a href="qd::cat's pyjamas">cat's pyjamas</a></li>
+<li> <a href="qd::cat's paw">cat's paw</a></li>
 <li> <a href="qd::cat scratch fever">cat scratch fever</a></li>
 <li> <a href="qd::cat state">cat state</a></li>
-<li> <a href="qd::cat's-tail">&#x63;&#x61;&#x74;&#x2019;&#x73;&#x2d;&#x74;&#x61;&#x69;&#x6c;</a></li>
-<li> <a href="qd::cat's whisker">&#x63;&#x61;&#x74;&#x2019;&#x73;&#x20;&#x77;&#x68;&#x69;&#x73;&#x6b;&#x65;&#x72;</a></li>
-<li> <a href="qd::cat's whiskers">&#x63;&#x61;&#x74;&#x2019;&#x73;&#x20;&#x77;&#x68;&#x69;&#x73;&#x6b;&#x65;&#x72;&#x73;</a></li>
+<li> <a href="qd::cat's-tail">cat's-tail</a></li>
+<li> <a href="qd::cat's whisker">cat's whisker</a></li>
+<li> <a href="qd::cat's whiskers">cat's whiskers</a></li>
 </ul>
 <ul><li> <a href="qd::cattish">cattish</a></li>
 </ul>
@@ -1157,11 +1145,11 @@ From {{etyl|enm}} {{term|cat|lang=enm}}, {{term|catte|lang=enm}}, from {{etyl|an
 <li> <a href="qd::sand cat">sand cat</a></li>
 </ul>
 <ul><li> <a href="qd::scaredy-cat">scaredy-cat</a></li>
-<li> <a href="qd::Schrödinger’s cat">&#x53;&#x63;&#x68;&#x72;&#xf6;&#x64;&#x69;&#x6e;&#x67;&#x65;&#x72;&#x2019;&#x73;&#x20;&#x63;&#x61;&#x74;</a></li>
+<li> <a href="qd::Schrödinger's cat">Schr&ouml;dinger's cat</a></li>
 <li> <a href="qd::Siamese cat">Siamese cat</a>, <a href="qd::Siamese">Siamese</a></li>
 <li> <a href="qd::spokescat">spokescat</a></li>
 <li> <a href="qd::tabby cat">tabby cat</a>, <a href="qd::tabby">tabby</a></li>
-<li> <a href="qd::There's more than one way to skin a cat">There's more than one way to skin a cat</a>, <a href="qd::there is more than one way to skin a cat">there is more than one way to skin a cat</a></li>
+<li> <a href="qd::there's more than one way to skin a cat">there's more than one way to skin a cat</a>, <a href="qd::there is more than one way to skin a cat">there is more than one way to skin a cat</a></li>
 <li> <a href="qd::tom cat">tom cat</a>, <a href="qd::tomcat">tomcat</a></li>
 <li> <a href="qd::wait for the cat to jump">wait for the cat to jump</a></li>
 <li> <a href="qd::wildcat">wildcat</a>, <a href="qd::wild cat">wild cat</a></li>
@@ -1224,16 +1212,11 @@ Possibly a shortened form of {{term|catastrophic}}.
 <h5>Usage notes</h5>
 This usage is common in speech but rarely appears in writing.>>>
 ===chap===
-See also HtmlEntry:dog
 See also HtmlEntry:cat
-===chase===
-See also HtmlEntry:dog
 ===chief===
 See also HtmlEntry:head
 ===chuck===
 See also HtmlEntry:rain cats and dogs
-===click===
-See also HtmlEntry:dog
 ===cock===
 See also HtmlEntry:crow
 ===codswallop===
@@ -1490,8 +1473,11 @@ From {{etyl|enm}} {{term|day|lang=enm}}, from {{etyl|ang}} {{term|d&aelig;g|&#x6
 </ul>
 <li> A specified time or period; time, considered with reference to the existence or prominence of a person or thing; age; time.</li>
 <ul><li> <em>Every dog has its <b>day</b>.</em></li>
+<li> {{RQ:Orwell Animal Farm|6}}</li>
+<ul><li> If they had no more food than they had had in Jones's <b>day</b>, at least they did not have less.</li>
 </ul>
-<li> A period of contention of a day or less.</li>
+</ul>
+<li> A period of <a href="qd::contention">contention</a> of a day or less.</li>
 <ul><li> <em>The <b>day</b> belonged to the Allies.</em></li>
 </ul>
 </ol>
@@ -1589,7 +1575,10 @@ HtmlEntry: day <<<
 ===deal===
 HtmlEntry: deal <<<
 <h3>Pronunciation</h3>
-<ul><li> {{enPR|&#x64;&#x113;&#x6c;}}, IPA: &#x2f;&#x64;&#x69;&#x2d0;&#x6c;&#x2f;, {{X-SAMPA|/di:l/}}</li>
+
+<h3>Pronunciation</h3>
+<ul><li> {{a|UK}} IPA: &#x2f;&#x64;&#x26a;&#x259;&#x26b;&#x2f;</li>
+<li> {{a|US}} {{enPR|&#x64;&#x113;&#x6c;}}, IPA: &#x2f;&#x64;&#x69;&#x2d0;&#x6c;&#x2f;, {{X-SAMPA|/di:l/}}</li>
 <li> {{audio|en-us-deal.ogg|Audio (US)}}</li>
 <li> {{rhymes|&#x69;&#x2d0;&#x6c;}}</li>
 </ul>
@@ -1734,7 +1723,7 @@ From {{etyl|enm}} {{term|delen|lang=enm}}, from {{etyl|ang}} {{term|d&aelig;lan|
 </ul>
 
 <h5>Derived terms</h5>
-{{rel-top3|Terms derived from the noun &quot;deal&quot;}}
+{{rel-top3|Terms derived from </em>deal<em> (noun)}}
 <ul><li> <a href="qd::no deal">no deal</a></li>
 <li> <a href="qd::package deal">package deal</a></li>
 </ul>
@@ -1768,7 +1757,6 @@ From {{etyl|enm}} {{term|delen|lang=enm}}, from {{etyl|ang}} {{term|d&aelig;lan|
 </ul>
 >>>
 See also HtmlEntry:trade
-See also HtmlEntry:business deal
 ===December===
 HtmlEntry: December <<<
 <h3>Alternative forms</h3>
@@ -1778,7 +1766,7 @@ HtmlEntry: December <<<
 <h3>Etymology</h3>
 From {{etyl|enm}} {{term|decembre|lang=emn}}, from {{etyl|fro}} {{term|decembre|lang=fro}}, from {{etyl|la}} {{term|december|tenth month|lang=la}}, from Latin {{term|decem|ten|lang=la}}, from <a href="qd::Proto-Indo-European">Proto-Indo-European</a> *<em>dekm</em>, ten; December was the tenth month in the Roman calendar.
 <h3>Pronunciation</h3>
-<ul><li> {{a|UK}} IPA: &#x2f;&#x64;&#x26a;&#x2c8;&#x73;&#x25b;&#x6d;&#x62;&#x259;&#x2f;, {{X-SAMPA|/dI&quot;sEmb@/}}</li>
+<ul><li> {{a|UK}} IPA: &#x2f;&#x64;&#x26a;&#x2c8;&#x73;&#x25b;&#x6d;&#x62;&#x259;&#x28;&#x279;&#x29;&#x2f;, {{X-SAMPA|/dI&quot;sEmb@/}}</li>
 <li> {{a|US}} {{enPR|&#x64;&#x12d;&#x2d;&#x73;&#x115;&#x6d;&#x2b9;&#x62;&#x259;&#x72;}}, IPA: &#x2f;&#x64;&#x26a;&#x2c8;&#x73;&#x25b;&#x6d;&#x62;&#x259;&#x279;&#x2f;, {{X-SAMPA|/dI&quot;sEmb@r/}}</li>
 <li> {{audio|en-us-December.ogg|Audio (US)}}</li>
 <li> {{rhymes|&#x25b;&#x6d;&#x62;&#x259;&#x28;&#x72;&#x29;}}</li>
@@ -1841,8 +1829,6 @@ See also HtmlEntry:connotation
 See also HtmlEntry:adjective
 ===derivative===
 See also HtmlEntry:adjective
-===detent===
-See also HtmlEntry:dog
 ===dialect===
 HtmlEntry: dialect <<<
 <h3>Etymology</h3>
@@ -1952,555 +1938,10 @@ See also HtmlEntry:deal
 See also HtmlEntry:deal
 ===do===
 See also HtmlEntry:trade
-===dog===
-HtmlEntry: dog <<<{slim-wikipedia}A dog (a <a href="qd::Labrador retriever">Labrador retriever</a>)
-<h3>Alternative forms</h3>
-<ul><li> <a href="qd::darg">darg</a> (dialectical)</li>
-<li> <a href="qd::dawg">dawg</a> (dialectical)</li>
-<li> <a href="qd::doggie">doggie</a> (childish)</li>
-<li> <a href="qd::doggy">doggy</a> (childish)</li>
-</ul>
-
-<h3>Pronunciation</h3>
-<ul><li> {{a|RP}} IPA: &#x2f;&#x64;&#x252;&#x261;&#x2f;, {{X-SAMPA|/dQg/}}</li>
-<li> {{a|US}} IPA: &#x2f;&#x64;&#x254;&#x261;&#x2f;, {{X-SAMPA|/dOg/}}</li>
-<li> {{a|US}} also IPA: &#x2f;&#x64;&#x251;&#x261;&#x2f;, {{X-SAMPA|/dAg/}}</li>
-<li> {{audio|en-us-dog.ogg|Audio (US)}}</li>
-<li> {{audio|En-uk-a dog.ogg|Audio (UK)}}</li>
-<li> {{rhymes|&#x252;&#x261;}}</li>
-</ul>
-
-<h3>Etymology</h3>
-From {{etyl|enm}} {{term|dogge|lang=enm}}, from {{etyl|ang}} {{term|docga|hound, powerful breed of dog|lang=ang}}, a pet-form diminutive of {{etyl|ang|-}} {{recons|docce|docce|muscle|lang=ang}} (found in compound {{term|fingerdocce|finger-muscle|lang=ang}} with suffix {{term|-ga|-ga|lang=ang}} (compare {{term|frocga|frog|lang=ang}}, {{term|picga|pig|lang=ang}}), from {{proto|Germanic|&#x64;&#x75;&#x6b;&#x6b;&#x14d;&#x6e;|power, strength, muscle}}. More at <a href="qd::dock">dock</a>. In the 16th century, it superseded {{etyl|ang|-}} {{term|hund|lang=ang}} and was adopted by many continental European languages.
-<h3>Noun</h3>
-{en-noun}
-<ol><li> An animal, member of the genus <em><a href="qd::Canis">Canis</a></em> (probably descended from the common <a href="qd::wolf">wolf</a>) that has been <a href="qd::domesticated">domesticated</a> for thousands of years; occurs in many breeds. Scientific name: <em><a href="qd::Canis lupus familiaris">Canis lupus familiaris</a></em>.</li>
-<ul><li> <em>The <b>dog</b> barked all night long.</em></li>
-</ul>
-<li> A male dog, <a href="qd::wolf">wolf</a> or <a href="qd::fox">fox</a>, as opposed to a <a href="qd::bitch">bitch</a> (a female dog, wolf or fox).</li>
-<li> {derogatory} A dull, unattractive <a href="qd::girl">girl</a> or <a href="qd::woman">woman</a>.</li>
-<ul><li> <em>&#x53;&#x68;&#x65;&#x2019;&#x73;&#x20;&#x61;&#x20;&#x72;&#x65;&#x61;&#x6c;&#x20;<b>dog</b>.</em></li>
-</ul>
-<li> {slang} A <a href="qd::man">man</a>.</li>
-<ul><li> <em>You lucky <b>dog</b>!</em></li>
-</ul>
-<li> {slang} A <a href="qd::coward">coward</a></li>
-<ul><li> <em>Come back and fight you <b>dogs</b>!</em></li>
-</ul>
-<li> {derogatory} Someone who is morally reprehensible.</li>
-<ul><li> <em>You dirty <b>dog</b>.</em></li>
-<li> <b>1599</b>&#x20;&#x2014;&#x20;&#x52;&#x6f;&#x62;&#x65;&#x72;&#x74;&#x20;&#x47;&#x72;&#x65;&#x65;&#x6e;&#x65;&#x2c;&#x20;<em>Alphonsus, King of Aragon</em> (1599). Act 3.</li>
-<ul><li> Blasphemous <b>dog</b>, I wonder that the earth</li>
-<li> Doth cease from renting vnderneath thy feete,</li>
-<li> To swallow vp those cankred corpes of thine.</li>
-</ul>
-</ul>
-<li> Any of various mechanical devices for holding, gripping, or fastening something, particularly with a tooth-like projection.</li>
-<li> &quot;A click or pallet adapted to engage the teeth of a ratchet-wheel, to restrain the back action; a click or pawl.&quot; (See also: <a href="qd::ratchet">ratchet</a>, <a href="qd::windlass">windlass</a>)</li>
-<ul><li> <b>1897</b> <em>Universal Dictionary of the English Language</em>, Robert Hunter and Charles Morris, eds., v2 p1700.</li>
-</ul>
-<li> A metal support for <a href="qd::log">log</a>s in a fireplace.</li>
-<ul><li> <em>The <b>dogs</b> were too hot to touch.</em></li>
-<li> <b>1902</b>, Arthur Conan Doyle, <em><a href="qd::s:The Hound of the Baskervilles">The Hound of the Baskervilles</a></em></li>
-<ul><li> In the great old-fashioned fireplace behind the high iron <b>dogs</b> a log-fire crackled and snapped.</li>
-</ul>
-</ul>
-<li> A <a href="qd::hot dog">hot dog</a>.</li>
-<li> {{poker|_|slang}} <a href="qd::underdog">Underdog</a></li>
-<li> {{slang|almost always|_|in the plural}} <a href="qd::foot">feet</a>.</li>
-<ul><li> &quot;My <b>dogs</b> are barking!&quot; meaning &quot;My feet hurt!&quot;</li>
-</ul>
-</ol>
-
-<h4>Synonyms</h4>
-<ul><li> {{sense|scientific names of animal}} <em><a href="qd::Canis familiaris">Canis familiaris</a></em>, <em><a href="qd::Canis domesticus">Canis domesticus</a></em>, <em>Canis familiarus domesticus</em>, <em><a href="qd::Canis canis">Canis canis</a></em>, <em>Canis aegyptius</em>, <em>Canis familiarus aegyptius</em>, <em>Canis melitaeus</em>, <em>Canis familiarus melitaeus</em>, <em>Canis molossus</em>, <em>Canis familiarus molossus</em>, <em>Canis saultor</em>, <em>Canis familiaris saultor</em></li>
-<li> {{sense|animal}} See also , <a href="qd::domestic dog">domestic dog</a>, <a href="qd::hound">hound</a>, <a href="qd::canine">canine</a></li>
-<li> {{sense|man}} See also <a href="qd::Wikisaurus:man">Wikisaurus:man</a>, <a href="qd::bloke">bloke</a> (British), <a href="qd::chap">chap</a> (British), <a href="qd::dude">dude</a>, <a href="qd::fellow">fellow</a>, <a href="qd::guy">guy</a>, <a href="qd::man">man</a></li>
-<li> {{sense|morally reprehensible person}} <a href="qd::cad">cad</a>, <a href="qd::bounder">bounder</a>, <a href="qd::blackguard">blackguard</a>, <a href="qd::fool">fool</a>, <a href="qd::hound">hound</a>, <a href="qd::heel">heel</a>, <a href="qd::scoundrel">scoundrel</a></li>
-<li> {{sense|mechanical device}} <a href="qd::click">click</a>, <a href="qd::detent">detent</a>, <a href="qd::pawl">pawl</a></li>
-<li> {{sense|metal support for logs}} <a href="qd::andiron">andiron</a>, <a href="qd::firedog">firedog</a>, <a href="qd::dogiron">dogiron</a></li>
-</ul>
-
-<h4>Coordinate terms</h4>
-<ul><li> {{sense|male adult dog}} <a href="qd::bitch">bitch</a>, <a href="qd::pup">pup</a>, <a href="qd::puppy">puppy</a></li>
-</ul>
-
-<h4>Hyponyms</h4>
-<ul><li> {{sense|animal}} <a href="qd::Afghan hound">Afghan hound</a>, <a href="qd::bloodhound">bloodhound</a>, <a href="qd::chihuahua">chihuahua</a>, <a href="qd::coonhound">coonhound</a>, <a href="qd::dachshund">dachshund</a>, <a href="qd::deerhound">deerhound</a>, <a href="qd::foxhound">foxhound</a>, <a href="qd::gazehound">gazehound</a>, <a href="qd::German shepherd">German shepherd</a>, <a href="qd::greyhound">greyhound</a>, <a href="qd::hound">hound</a>, <a href="qd::Irish Wolfhound">Irish Wolfhound</a>, <a href="qd::Norwegian Elkhound">Norwegian Elkhound</a>, <a href="qd::otterhound">otterhound</a>, <a href="qd::pointer">pointer</a>, <a href="qd::poodle">poodle</a>, <a href="qd::retriever">retriever</a>, <a href="qd::Russian Wolfhound">Russian Wolfhound</a>, <a href="qd::scenthound">scenthound</a>, <a href="qd::setter">setter</a>, <a href="qd::sheepdog">sheepdog</a>, <a href="qd::shepherd">shepherd</a>, <a href="qd::sighthound">sighthound</a>, <a href="qd::spaniel">spaniel</a>, <a href="qd::staghound">staghound</a>, <a href="qd::terrier">terrier</a>, <a href="qd::wolfhound">wolfhound</a></li>
-</ul>
-
-<h4>Hypernyms</h4>
-<ul><li> {{sense|animal}} <a href="qd::canid">canid</a></li>
-</ul>
-
-<h4>Derived terms</h4>
-{{rel-top3|Terms derived from <em>dog</em> (noun)}}
-<ul><li> <a href="qd::a dog's chance">a dog's chance</a></li>
-<li> <a href="qd::a dog's breakfast">a dog's breakfast</a></li>
-<li> <a href="qd::a dog's dinner">a dog's dinner</a></li>
-<li> <a href="qd::a dog's life">a dog's life</a></li>
-<li> <a href="qd::Alsatian dog">Alsatian dog</a></li>
-<li> <a href="qd::as sick as a dog">as sick as a dog</a></li>
-<li> <a href="qd::assistance dog">assistance dog</a></li>
-<li> <a href="qd::attack dog">attack dog</a></li>
-<li> <a href="qd::avalanche dog">avalanche dog</a></li>
-<li> <a href="qd::avalanche rescue dog">avalanche rescue dog</a></li>
-<li> <a href="qd::barking dogs seldom bite">barking dogs seldom bite</a></li>
-<li> <a href="qd::be like a dog with two tails">be like a dog with two tails</a></li>
-<li> <a href="qd::be top dog">be top dog</a></li>
-<li> <a href="qd::be top the dog">be top the dog</a></li>
-<li> <a href="qd::Beware of dog!">Beware of dog!</a></li>
-<li> <a href="qd::Beware of the dog!">Beware of the dog!</a></li>
-<li> <a href="qd::Big Dog">Big Dog</a></li>
-<li> <a href="qd::bird dog">bird dog</a></li>
-<li> <a href="qd::bottom dog">bottom dog</a></li>
-<li> <a href="qd::brace of dogs">brace of dogs</a></li>
-<li> <a href="qd::bulldog">bulldog</a></li>
-<li> <a href="qd::bulldog breeder">bulldog breeder</a></li>
-<li> <a href="qd::cadaver dog">cadaver dog</a></li>
-<li> <a href="qd::Canaan dog">Canaan dog</a></li>
-<li> <a href="qd::cash-sniffing dog">cash-sniffing dog</a></li>
-<li> <a href="qd::cat-and-dog">cat-and-dog</a></li>
-<li> <a href="qd::cattle dog">cattle dog</a></li>
-<li> <a href="qd::clever old dog">clever old dog</a></li>
-<li> <a href="qd::companion dog">companion dog</a></li>
-<li> <a href="qd::corndog">corndog</a></li>
-<li> <a href="qd::cunning dog">cunning dog</a></li>
-<li> <a href="qd::designer dog">designer dog</a></li>
-<li> <a href="qd::diner's dog">diner's dog</a></li>
-<li> <a href="qd::dirty dog">dirty dog</a></li>
-<li> <a href="qd::dog accessories">dog accessories</a></li>
-<li> <a href="qd::dog accessory">dog accessory</a></li>
-<li> <a href="qd::dog act">dog act</a></li>
-<li> <a href="qd::dog and pony show">dog and pony show</a></li>
-<li> <a href="qd::dog-ape">dog-ape</a>, <a href="qd::dog ape">dog ape</a></li>
-<li> <a href="qd::dog ass">dog ass</a></li>
-<li> <a href="qd::dog attack">dog attack</a></li>
-<li> <a href="qd::dog bed">dog bed</a></li>
-<li> <a href="qd::dogbane">dogbane</a></li>
-<li> <a href="qd::dogbane family">dogbane family</a></li>
-<li> <a href="qd::dog basket">dog basket</a></li>
-<li> <a href="qd::dogberry">dogberry</a></li>
-<li> <a href="qd::Dogberry">Dogberry</a></li>
-<li> <a href="qd::dogberryism">dogberryism</a>, <a href="qd::Dogberryism">Dogberryism</a></li>
-<li> <a href="qd::dog biscuit">dog biscuit</a></li>
-<li> <a href="qd::dog-bite">dog-bite</a>, <a href="qd::dog bite">dog bite</a></li>
-<li> <a href="qd::dog-bludgeoner">dog-bludgeoner</a></li>
-<li> <a href="qd::dog book">dog book</a></li>
-<li> <a href="qd::dog bootie">dog bootie</a></li>
-<li> <a href="qd::dog booties">dog booties</a></li>
-<li> <a href="qd::dog bowl">dog bowl</a></li>
-<li> <a href="qd::dog box">dog box</a></li>
-<li> <a href="qd::dog breed">dog breed</a></li>
-<li> <a href="qd::dog breeder">dog breeder</a></li>
-<li> <a href="qd::dog breeding">dog breeding</a></li>
-<li> <a href="qd::dog cadaver">dog cadaver</a></li>
-<li> <a href="qd::dog care">dog care</a></li>
-<li> <a href="qd::dogcart">dogcart</a></li>
-<li> <a href="qd::dogcatcher">dogcatcher</a>, <a href="qd::dog-catcher">dog-catcher</a></li>
-<li> <a href="qd::dogcatching">dogcatching</a></li>
-<li> <a href="qd::dogcheap">dogcheap</a></li>
-<li> <a href="qd::dog claw">dog claw</a></li>
-<li> <a href="qd::dog clothes">dog clothes</a></li>
-<li> <a href="qd::dog clothing">dog clothing</a></li>
-<li> <a href="qd::dog club">dog club</a></li>
-<li> <a href="qd::dog clutch">dog clutch</a></li>
-<li> <a href="qd::dog coat">dog coat</a></li>
-<li> <a href="qd::dog collar">dog collar</a></li>
-<li> <a href="qd::dog coupling">dog coupling</a></li>
-<li> <a href="qd::dog crate">dog crate</a></li>
-<li> <a href="qd::dog curtain">dog curtain</a></li>
-<li> <a href="qd::dog daisy">dog daisy</a></li>
-<li> <a href="qd::dog dander">dog dander</a></li>
-<li> <a href="qd::dog dandruff">dog dandruff</a></li>
-<li> <a href="qd::dog-day cicada">dog-day cicada</a></li>
-<li> <a href="qd::dog days">dog days</a></li>
-<li> <a href="qd::dog diabetes">dog diabetes</a></li>
-<li> <a href="qd::dog dirt">dog dirt</a></li>
-<li> <a href="qd::dogdom">dogdom</a></li>
-<li> <a href="qd::dog-doo">dog-doo</a></li>
-<li> <a href="qd::dog door">dog door</a></li>
-<li> <a href="qd::dog-ear">dog-ear</a>, <a href="qd::dog ear">dog ear</a></li>
-<li> <a href="qd::dog-eared">dog-eared</a></li>
-<li> <a href="qd::dog-eared book">dog-eared book</a></li>
-<li> <a href="qd::dog-eared magazine">dog-eared magazine</a></li>
-<li> <a href="qd::dog eat dog">dog eat dog</a></li>
-<li> <a href="qd::dog-eat-dog">dog-eat-dog</a></li>
-<li> <a href="qd::dog-eat-dog society">dog-eat-dog society</a></li>
-<li> <a href="qd::dog-end">dog-end</a></li>
-<li> <a href="qd::dog excrement">dog excrement</a></li>
-<li> <a href="qd::dogface">dogface</a></li>
-<li> <a href="qd::dog faeces">dog faeces</a></li>
-<li> <a href="qd::dog family">dog family</a></li>
-<li> <a href="qd::dog fancier">dog fancier</a></li>
-<li> <a href="qd::dog fancy">dog fancy</a></li>
-<li> <a href="qd::dog fancying">dog fancying</a></li>
-<li> <a href="qd::dog fashion">dog fashion</a></li>
-<li> <a href="qd::dog feces">dog feces</a></li>
-<li> <a href="qd::dog fennel">dog fennel</a></li>
-<li> <a href="qd::dogfight">dogfight</a></li>
-<li> <a href="qd::dogfish">dogfish</a></li>
-<li> <a href="qd::dog flap">dog flap</a></li>
-<li> <a href="qd::dog flea">dog flea</a></li>
-<li> <a href="qd::dog flu">dog flu</a></li>
-<li> <a href="qd::dogfood">dogfood</a>, <a href="qd::dog-food">dog-food</a>, <a href="qd::dog food">dog food</a></li>
-<li> <a href="qd::dog fox">dog fox</a></li>
-<li> <a href="qd::dogfought">dogfought</a></li>
-<li> <a href="qd::dog-friendly">dog-friendly</a></li>
-<li> <a href="qd::dog eat dog">dog eat dog</a></li>
-<li> <a href="qd::dog figurine">dog figurine</a></li>
-<li> <a href="qd::dog fly">dog fly</a></li>
-<li> <a href="qd::dog fouling">dog fouling</a></li>
-<li> <a href="qd::dogged">dogged</a></li>
-<li> <a href="qd::dogged it">dogged it</a></li>
-<li> <a href="qd::doggedly">doggedly</a></li>
-<li> <a href="qd::doggedness">doggedness</a></li>
-<li> <a href="qd::dogger">dogger</a></li>
-<li> <a href="qd::doggerel">doggerel</a>, <a href="qd::doggrel">doggrel</a>, <a href="qd::dogrel">dogrel</a></li>
-<li> <a href="qd::doggerel rhyme">doggerel rhyme</a></li>
-<li> <a href="qd::doggerel verse">doggerel verse</a></li>
-<li> <a href="qd::doggery">doggery</a></li>
-<li> <a href="qd::doggie">doggie</a></li>
-<li> <a href="qd::doggie do">doggie do</a></li>
-<li> <a href="qd::doggie door">doggie door</a></li>
-<li> <a href="qd::doggie paddle">doggie paddle</a></li>
-<li> <a href="qd::doggie-paddle">doggie-paddle</a></li>
-<li> <a href="qd::doggie position">doggie position</a></li>
-<li> <a href="qd::doggier">doggier</a></li>
-<li> <a href="qd::doggiest">doggiest</a></li>
-<li> <a href="qd::dogging">dogging</a></li>
-<li> <a href="qd::doggish">doggish</a></li>
-<li> <a href="qd::doggishly">doggishly</a></li>
-<li> <a href="qd::doggishness">doggishness</a></li>
-<li> <a href="qd::doggone">doggone</a></li>
-<li> <a href="qd::doggoned">doggoned</a></li>
-</ul>
-<ul><li> <a href="qd::doggonedest">doggonedest</a></li>
-<li> <a href="qd::doggrel">doggrel</a></li>
-<li> <a href="qd::dog groomer">dog groomer</a></li>
-<li> <a href="qd::dog grooming">dog grooming</a></li>
-<li> <a href="qd::doggy">doggy</a></li>
-<li> <a href="qd::doggy bag">doggy bag</a></li>
-<li> <a href="qd::doggy door">doggy door</a></li>
-<li> <a href="qd::doggy paddle">doggy paddle</a></li>
-<li> <a href="qd::doggy-paddle">doggy-paddle</a></li>
-<li> <a href="qd::doggy person">doggy person</a></li>
-<li> <a href="qd::doggystyle">doggystyle</a>, <a href="qd::doggy-style">doggy-style</a></li>
-<li> <a href="qd::doggystyle position">doggystyle position</a></li>
-<li> <a href="qd::dog hair">dog hair</a></li>
-<li> <a href="qd::dog handler">dog handler</a></li>
-<li> <a href="qd::dog harness">dog harness</a></li>
-<li> <a href="qd::doghead">doghead</a></li>
-<li> <a href="qd::dog-headed">dog-headed</a></li>
-<li> <a href="qd::dog hook">dog hook</a></li>
-<li> <a href="qd::doghouse">doghouse</a>, <a href="qd::dog house">dog house</a></li>
-<li> <a href="qd::dog hutch">dog hutch</a></li>
-<li> <a href="qd::dog influenza">dog influenza</a></li>
-<li> <a href="qd::dog in the manger">dog in the manger</a></li>
-<li> <a href="qd::dog-in-the-manger">dog-in-the-manger</a></li>
-<li> <a href="qd::dogiron">dogiron</a></li>
-<li> <a href="qd::dog it">dog it</a></li>
-<li> <a href="qd::dog kennel">dog kennel</a></li>
-<li> <a href="qd::dog killer">dog killer</a> ( = <a href="qd::canicide">canicide</a>)</li>
-<li> <a href="qd::dog Latin">dog Latin</a>, <a href="qd::Dog Latin">Dog Latin</a></li>
-<li> <a href="qd::dog lead">dog lead</a>, <a href="qd::dog-lead">dog-lead</a></li>
-<li> <a href="qd::dog leash">dog leash</a>, <a href="qd::dog-leash">dog-leash</a></li>
-<li> <a href="qd::dogleg">dogleg</a></li>
-<li> <a href="qd::dogleg fence">dogleg fence</a></li>
-<li> <a href="qd::doglegged">doglegged</a></li>
-<li> <a href="qd::dog-legged stair">dog-legged stair</a></li>
-<li> <a href="qd::doglegging">doglegging</a></li>
-<li> <a href="qd::dogleg jack">dogleg jack</a></li>
-<li> <a href="qd::dog-leg stair">dog-leg stair</a></li>
-<li> <a href="qd::dogless">dogless</a></li>
-<li> <a href="qd::dog licence">dog licence</a></li>
-<li> <a href="qd::dog licence disc">dog licence disc</a></li>
-<li> <a href="qd::dog licence fee">dog licence fee</a></li>
-<li> <a href="qd::doglike">doglike</a></li>
-<li> <a href="qd::doglike devotion">doglike devotion</a></li>
-<li> <a href="qd::dogling">dogling</a></li>
-<li> <a href="qd::dogly">dogly</a></li>
-<li> <a href="qd::dog lover">dog lover</a></li>
-<li> <a href="qd::dog magazine">dog magazine</a></li>
-<li> <a href="qd::dog minder">dog minder</a></li>
-<li> <a href="qd::dog minding">dog minding</a></li>
-<li> <a href="qd::dog muzzle">dog muzzle</a></li>
-<li> <a href="qd::dog my cats">dog my cats</a></li>
-<li> <a href="qd::dog nail">dog nail</a></li>
-<li> <a href="qd::dognap">dognap</a></li>
-<li> <a href="qd::dognaped">dognaped</a></li>
-<li> <a href="qd::dognaper">dognaper</a></li>
-<li> <a href="qd::dognaping">dognaping</a></li>
-<li> <a href="qd::dognapped">dognapped</a></li>
-<li> <a href="qd::dognapper">dognapper</a></li>
-<li> <a href="qd::dognapping">dognapping</a></li>
-<li> <a href="qd::dognapping">dognapping</a></li>
-<li> <a href="qd::dognaps">dognaps</a></li>
-<li> <a href="qd::dog owner">dog owner</a></li>
-<li> <a href="qd::dog ownership">dog ownership</a></li>
-<li> <a href="qd::dog pack">dog pack</a></li>
-<li> <a href="qd::dogpaddle">dogpaddle</a></li>
-<li> <a href="qd::dogpaddling">dogpaddling</a></li>
-<li> <a href="qd::dog paddle">dog paddle</a></li>
-<li> <a href="qd::dog park">dog park</a></li>
-<li> <a href="qd::dog parlor">dog parlor</a></li>
-<li> <a href="qd::dog parlour">dog parlour</a></li>
-<li> <a href="qd::dog patrol">dog patrol</a></li>
-<li> <a href="qd::dog pen">dog pen</a></li>
-<li> <a href="qd::dog person">dog person</a></li>
-<li> <a href="qd::dogpile">dogpile</a></li>
-<li> <a href="qd::dog poop">dog poop</a></li>
-<li> <a href="qd::dog pooper scooper">dog pooper scooper</a>, <a href="qd::dog pooper-scooper">dog pooper-scooper</a></li>
-<li> <a href="qd::dog poop scoop">dog poop scoop</a></li>
-<li> <a href="qd::dogpoor">dogpoor</a></li>
-<li> <a href="qd::dog portrait">dog portrait</a></li>
-<li> <a href="qd::dog pound">dog pound</a></li>
-<li> <a href="qd::dog puppy">dog puppy</a></li>
-<li> <a href="qd::dog racing">dog racing</a></li>
-<li> <a href="qd::dogrel">dogrel</a></li>
-<li> <a href="qd::dog robber">dog robber</a></li>
-<li> <a href="qd::dog run">dog run</a></li>
-<li> <a href="qd::dogs">dogs</a></li>
-<li> <a href="qd::dog salmon">dog salmon</a></li>
-<li> <a href="qd::dogsbodied">dogsbodied</a></li>
-<li> <a href="qd::dogsbodies">dogsbodies</a></li>
-<li> <a href="qd::dogsbodying">dogsbodying</a></li>
-<li> <a href="qd::dogsbody">dogsbody</a></li>
-<li> <a href="qd::dog's breakfast">dog's breakfast</a></li>
-<li> <a href="qd::dog screw">dog screw</a></li>
-<li> <a href="qd::dog's dinner">dog's dinner</a></li>
-<li> <a href="qd::dog's dirt">dog's dirt</a></li>
-<li> <a href="qd::dog's disease">dog's disease</a></li>
-<li> <a href="qd::dog's ear">dog's ear</a></li>
-<li> <a href="qd::dogshit">dogshit</a>, <a href="qd::dog shit">dog shit</a></li>
-<li> <a href="qd::dogshore">dogshore</a></li>
-<li> <a href="qd::dog show">dog show</a></li>
-<li> <a href="qd::dog showing">dog showing</a></li>
-<li> <a href="qd::dogsitter">dogsitter</a>, <a href="qd::dog-sitter">dog-sitter</a>, <a href="qd::dog sitter">dog sitter</a></li>
-<li> <a href="qd::dogsitting">dogsitting</a>, <a href="qd::dog-sitting">dog-sitting</a>, <a href="qd::dog sitting">dog sitting</a></li>
-<li> <a href="qd::dog skull">dog skull</a></li>
-<li> <a href="qd::dogsled">dogsled</a>, <a href="qd::dog-sled">dog-sled</a>, <a href="qd::dog sled">dog sled</a></li>
-<li> <a href="qd::dogsledder">dogsledder</a>, <a href="qd::dog-sledder">dog-sledder</a>, <a href="qd::dog sledder">dog sledder</a></li>
-<li> <a href="qd::dogsledding">dogsledding</a>, <a href="qd::dog-sledding">dog-sledding</a>, <a href="qd::dog sledding">dog sledding</a></li>
-<li> <a href="qd::dog sledge">dog sledge</a>, <a href="qd::dog-sledge">dog-sledge</a></li>
-<li> <a href="qd::dog sleigh">dog sleigh</a></li>
-<li> <a href="qd::dog's letter">dog's letter</a></li>
-<li> <a href="qd::dog's life">dog's life</a></li>
-<li> <a href="qd::dog's meat">dog's meat</a></li>
-<li> <a href="qd::dog's mess">dog's mess</a></li>
-<li> <a href="qd::dog's mercury">dog's mercury</a></li>
-<li> <a href="qd::dog's muck">dog's muck</a></li>
-<li> <a href="qd::dog's muzzle">dog's muzzle</a></li>
-<li> <a href="qd::dog's nose">dog's nose</a></li>
-<li> <a href="qd::dog somebody's steps">dog somebody's steps</a></li>
-<li> <a href="qd::dog's paw">dog's paw</a></li>
-<li> <a href="qd::dog speak">dog speak</a></li>
-<li> <a href="qd::dog spike">dog spike</a></li>
-<li> <a href="qd::dog sport">dog sport</a></li>
-<li> <a href="qd::dog's skull">dog's skull</a></li>
-<li> <a href="qd::dog's tail">dog's tail</a></li>
-<li> <a href="qd::dog's-tail">dog's-tail</a></li>
-<li> <a href="qd::Dog Star">Dog Star</a></li>
-<li> <a href="qd::dog's tongue">dog's tongue</a></li>
-<li> <a href="qd::dog's-tongue">dog's-tongue</a></li>
-<li> <a href="qd::dog's-tooth">dog's-tooth</a></li>
-<li> <a href="qd::dog's-tooth check">dog's-tooth check</a></li>
-<li> <a href="qd::dog tag">dog tag</a></li>
-<li> <a href="qd::dog tapeworm">dog tapeworm</a></li>
-<li> <a href="qd::dog tax">dog tax</a></li>
-<li> <a href="qd::dog team">dog team</a> / <a href="qd::team of dogs">team of dogs</a></li>
-<li> <a href="qd::dog tick">dog tick</a></li>
-<li> <a href="qd::dog-tired">dog-tired</a></li>
-<li> <a href="qd::dogtooth">dogtooth</a>, <a href="qd::dog tooth">dog tooth</a></li>
-<li> <a href="qd::dogtooth check">dogtooth check</a></li>
-<li> <a href="qd::dogtooth violet">dogtooth violet</a></li>
-<li> <a href="qd::dog track">dog track</a></li>
-<li> <a href="qd::dog train">dog train</a></li>
-</ul>
-<ul><li> <a href="qd::dog trainer">dog trainer</a></li>
-<li> <a href="qd::dog training">dog training</a></li>
-<li> <a href="qd::dog training school">dog training school</a></li>
-<li> <a href="qd::dog treat">dog treat</a></li>
-<li> <a href="qd::dog treats">dog treats</a></li>
-<li> <a href="qd::dogtrot">dogtrot</a></li>
-<li> <a href="qd::dog tucker">dog tucker</a></li>
-<li> <a href="qd::dog turd">dog turd</a></li>
-<li> <a href="qd::dogvane">dogvane</a></li>
-<li> <a href="qd::dog violet">dog violet</a></li>
-<li> <a href="qd::dog walk">dog walk</a></li>
-<li> <a href="qd::dogwalker">dogwalker</a>, <a href="qd::dog-walker">dog-walker</a>, <a href="qd::dog walker">dog walker</a></li>
-<li> <a href="qd::dogwalking">dogwalking</a>, <a href="qd::dog-walking">dog-walking</a>, <a href="qd::dog walking">dog walking</a></li>
-<li> <a href="qd::dog warden">dog warden</a></li>
-<li> <a href="qd::dogwash">dogwash</a></li>
-<li> <a href="qd::dogwatch">dogwatch</a>, <a href="qd::dog watch">dog watch</a></li>
-<li> <a href="qd::dog whelk">dog whelk</a></li>
-<li> <a href="qd::dogwhip">dogwhip</a>, <a href="qd::dog-whip">dog-whip</a></li>
-<li> <a href="qd::dog whisperer">dog whisperer</a></li>
-<li> <a href="qd::dog whistle">dog whistle</a>, <a href="qd::dog-whistle">dog-whistle</a></li>
-<li> <a href="qd::dogwood">dogwood</a></li>
-<li> <a href="qd::dogwood family">dogwood family</a></li>
-<li> <a href="qd::dogwood winter">dogwood winter</a></li>
-<li> <a href="qd::dog work">dog work</a></li>
-<li> <a href="qd::dog world">dog world</a></li>
-<li> <a href="qd::dog year">dog year</a></li>
-<li> <a href="qd::Dog Years">Dog Years</a></li>
-<li> <a href="qd::domestic dog">domestic dog</a></li>
-<li> <a href="qd::domesticated dog">domesticated dog</a></li>
-<li> <a href="qd::double dog dare">double dog dare</a></li>
-<li> <a href="qd::European dogwood">European dogwood</a></li>
-<li> <a href="qd::every dog has its day">every dog has its day</a></li>
-<li> <a href="qd::feral dog">feral dog</a></li>
-<li> <a href="qd::firedog">firedog</a>, <a href="qd::fire dog">fire dog</a></li>
-<li> <a href="qd::fogdog">fogdog</a></li>
-<li> <a href="qd::four-legged dog">four-legged dog</a></li>
-<li> <a href="qd::give a dog a bad name">give a dog a bad name</a></li>
-<li> <a href="qd::give a dog a bad name and hang him">give a dog a bad name and hang him</a></li>
-<li> <a href="qd::go to the dogs">go to the dogs</a></li>
-<li> <a href="qd::Greater Dog">Greater Dog</a></li>
-<li> <a href="qd::guard dog">guard dog</a></li>
-<li> <a href="qd::guide dog">guide dog</a></li>
-<li> <a href="qd::gun dog">gun dog</a></li>
-<li> <a href="qd::hair of the dog">hair of the dog</a></li>
-<li> <a href="qd::hearing-ear dog">hearing-ear dog</a></li>
-<li> <a href="qd::hotdog">hotdog</a>, <a href="qd::hot dog">hot dog</a></li>
-<li> <a href="qd::hot-dog">hot-dog</a></li>
-<li> <a href="qd::hot-dogged">hot-dogged</a></li>
-<li> <a href="qd::hotdogger">hotdogger</a>, <a href="qd::hot-dogger">hot-dogger</a></li>
-<li> <a href="qd::hot-dogs">hot-dogs</a></li>
-<li> <a href="qd::house dog">house dog</a></li>
-<li> <a href="qd::hunting dog">hunting dog</a></li>
-<li> <a href="qd::in a dog's age">in a dog's age</a></li>
-<li> <a href="qd::in the dog box">in the dog box</a></li>
-<li> <a href="qd::in the doghouse">in the doghouse</a></li>
-<li> <a href="qd::it is easy to find a stick to beat a dog">it is easy to find a stick to beat a dog</a></li>
-<li> <a href="qd::junkyard dog">junkyard dog</a></li>
-<li> <a href="qd::lapdog">lapdog</a>, <a href="qd::lap dog">lap dog</a></li>
-<li> <a href="qd::lazy dog">lazy dog</a></li>
-<li> <a href="qd::lead a dog's life">lead a dog's life</a></li>
-<li> <a href="qd::lead dog">lead dog</a></li>
-<li> <a href="qd::Lesser Dog">Lesser Dog</a></li>
-<li> <a href="qd::let sleeping dogs lie">let sleeping dogs lie</a></li>
-<li> <a href="qd::lie doggo">lie doggo</a></li>
-<li> <a href="qd::like a dog">like a dog</a></li>
-<li> <a href="qd::like a dog in heat">like a dog in heat</a> / <a href="qd::like a dog on heat">like a dog on heat</a></li>
-<li> <a href="qd::like a dog's dinner">like a dog's dinner</a></li>
-<li> <a href="qd::like a dog with a bone">like a dog with a bone</a></li>
-<li> <a href="qd::little dog">little dog</a></li>
-<li> <a href="qd::Little Dog">Little Dog</a></li>
-<li> <a href="qd::lucky dog">lucky dog</a></li>
-<li> <a href="qd::mad dog">mad dog</a></li>
-<li> <a href="qd::mountain dog">mountain dog</a></li>
-<li> <a href="qd::one-legged dog">one-legged dog</a></li>
-<li> <a href="qd::pedigree dog">pedigree dog</a></li>
-<li> <a href="qd::pet dog">pet dog</a></li>
-<li> <a href="qd::pi-dog">pi-dog</a></li>
-<li> <a href="qd::pie-dog">pie-dog</a></li>
-<li> <a href="qd::police dog">police dog</a></li>
-<li> <a href="qd::prairie dog">prairie dog</a></li>
-<li> <a href="qd::puppy dog">puppy dog</a></li>
-<li> <a href="qd::puppy-dog eyes">puppy-dog eyes</a>, <a href="qd::puppy dog eyes">puppy dog eyes</a></li>
-<li> <a href="qd::purebred dog">purebred dog</a></li>
-<li> <a href="qd::purebreed dog">purebreed dog</a></li>
-<li> <a href="qd::put on the dog">put on the dog</a></li>
-<li> <a href="qd::pye-dog">pye-dog</a></li>
-<li> <a href="qd::raccoon dog">raccoon dog</a></li>
-<li> <a href="qd::railroad police dog">railroad police dog</a></li>
-<li> <a href="qd::railway police dog">railway police dog</a></li>
-<li> <a href="qd::rain cats and dogs">rain cats and dogs</a></li>
-<li> <a href="qd::rescue dog">rescue dog</a></li>
-<li> <a href="qd::Saint Bernard dog">Saint Bernard dog</a></li>
-<li> <a href="qd::sausage dog">sausage dog</a></li>
-<li> <a href="qd::seadog">seadog</a></li>
-<li> <a href="qd::see a man about a dog">see a man about a dog</a></li>
-<li> <a href="qd::seeing-eye dog">seeing-eye dog</a></li>
-<li> <a href="qd::service dog">service dog</a></li>
-<li> <a href="qd::sheepdog">sheepdog</a>, <a href="qd::sheepdog">sheepdog</a></li>
-<li> <a href="qd::show dog">show dog</a></li>
-<li> <a href="qd::sick as a dog">sick as a dog</a></li>
-<li> <a href="qd::silk dog">silk dog</a></li>
-<li> <a href="qd::sled dog">sled dog</a></li>
-<li> <a href="qd::sled dog breed">sled dog breed</a></li>
-<li> <a href="qd::sled dog race">sled dog race</a></li>
-<li> <a href="qd::sled dog racer">sled dog racer</a></li>
-<li> <a href="qd::sled dog racing">sled dog racing</a></li>
-<li> <a href="qd::sly dog">sly dog</a></li>
-<li> <a href="qd::smooth dogfish">smooth dogfish</a></li>
-<li> <a href="qd::spiny dogfish">spiny dogfish</a></li>
-<li> <a href="qd::spotted dogfish">spotted dogfish</a></li>
-<li> <a href="qd::stray dog">stray dog</a></li>
-<li> <a href="qd::sundog">sundog</a>, <a href="qd::sun dog">sun dog</a></li>
-<li> <a href="qd::swing dog">swing dog</a></li>
-<li> <a href="qd::the dogs">the dogs</a></li>
-<li> <a href="qd::there's life in the old dog yet">there's life in the old dog yet</a></li>
-<li> <a href="qd::three-legged dog">three-legged dog</a></li>
-<li> <a href="qd::throw it to the dogs">throw it to the dogs</a></li>
-<li> <a href="qd::tinned dog">tinned dog</a></li>
-<li> <a href="qd::top dog">top dog</a></li>
-<li> <a href="qd::top dog behavior">top dog behavior</a></li>
-<li> <a href="qd::top dog behaviour">top dog behaviour</a></li>
-<li> <a href="qd::toy dog">toy dog</a></li>
-<li> <a href="qd::toy dog breed">toy dog breed</a></li>
-<li> <a href="qd::two-legged dog">two-legged dog</a></li>
-<li> <a href="qd::underdog">underdog</a></li>
-<li> <a href="qd::veggie dog">veggie dog</a></li>
-<li> <a href="qd::war dog">war dog</a></li>
-<li> <a href="qd::water dog">water dog</a></li>
-<li> <a href="qd::wiener dog">wiener dog</a></li>
-<li> <a href="qd::wild dog">wild dog</a></li>
-<li> <a href="qd::wise old dog">wise old dog</a></li>
-<li> <a href="qd::working dog">working dog</a></li>
-<li> <a href="qd::yard dog">yard dog</a></li>
-<li> <a href="qd::yellow dog">yellow dog</a></li>
-<li> <a href="qd::you can't teach an old dog new tricks">you can't teach an old dog new tricks</a></li>
-<li> <a href="qd::young dog">young dog</a></li>
-</ul>
-
-<h4>See also</h4>
-<ul><li> {{specieslite|Canis}}</li>
-<li> {{commonslite|Dog}}</li>
-<li> {{topicsee|en|canids}}</li>
-<li> <a href="qd::canine">canine</a></li>
-<li> <a href="qd::cynomorphic">cynomorphic</a></li>
-<li> <a href="qd::cynomorphism">cynomorphism</a></li>
-<li> <a href="qd::flea bag">flea bag</a></li>
-</ul>
-
-<h3>Verb</h3>
-{{en-verb|dog|g|ed}}
-<ol><li> {transitive} To pursue with the intent to catch.</li>
-<li> {transitive} To follow in an annoying way, to constantly be affected by.</li>
-<ul><li> <em>The woman cursed him so that trouble would <b>dog</b> his every step.</em></li>
-<li> {{quote-news|year=2012|date=May 9|author=Jonathan Wilson|title=Europa League: Radamel Falcao's Atl&eacute;tico Madrid rout Athletic Bilbao|work=the Guardian|url=http://www.guardian.co.uk/football/2012/may/09/atletico-madrid-athletic-bilbao-europa-league|page=|passage=&#x42;&#x75;&#x74;&#x20;&#x74;&#x68;&#x69;&#x73;&#x20;&#x69;&#x73;&#x20;&#x6e;&#x6f;&#x74;&#x20;&#x61;&#x6e;&#x20;&#x41;&#x74;&#x68;&#x6c;&#x65;&#x74;&#x69;&#x63;&#x20;&#x74;&#x68;&#x61;&#x74;&#x20;&#x65;&#x76;&#x65;&#x72;&#x20;&#x6c;&#x6f;&#x6f;&#x6b;&#x73;&#x20;&#x63;&#x6f;&#x6d;&#x66;&#x6f;&#x72;&#x74;&#x61;&#x62;&#x6c;&#x65;&#x20;&#x61;&#x74;&#x20;&#x74;&#x68;&#x65;&#x20;&#x62;&#x61;&#x63;&#x6b;&#x20;&#x2013;&#x20;&#x61;&#x20;&#x63;&#x72;&#x69;&#x74;&#x69;&#x63;&#x69;&#x73;&#x6d;&#x20;&#x74;&#x68;&#x61;&#x74;&#x20;&#x68;&#x61;&#x73;&#x20;&#x6f;&#x66;&#x74;&#x65;&#x6e;&#x20;<b>dogged</b> Marcelo Bielsa's sides. }}</li>
-</ul>
-<li> {{transitive|nautical}} To fasten a <a href="qd::hatch">hatch</a> securely.</li>
-<ul><li> <em>It is very important to <b>dog</b> down these hatches...</em></li>
-</ul>
-<li> {{transitive|emerging usage in|_|British}} To watch, or participate, in sexual activity in a public place, on the pretence of <em>walking the dog</em>; see also <a href="qd::dogging">dogging</a>.</li>
-<ul><li> <em>I admit that I like to <b>dog</b> at my local country park.</em></li>
-</ul>
-<li> {{intransitive|transitive}} To intentionally restrict one's productivity as employee; to work at the slowest rate that goes unpunished.</li>
-<ul><li> <em>A surprise inspection of the night shift found that some workers were <b>dogging</b> it.</em></li>
-</ul>
-<li> {{intransitive|with <em>up</em>}} To position oneself on all fours, after the manner of a dog - probably related to <a href="qd::doggy style">doggy style</a>.</li>
-<ul><li> <em>I'd ask why you're dogged up in the middle of the room, but I probably don't want to know...</em></li>
-</ul>
-</ol>
-
-<h4>Synonyms</h4>
-<ul><li> {{sense|to pursue with intent to catch}} <a href="qd::chase">chase</a>, <a href="qd::chase after">chase after</a>, <a href="qd::go after">go after</a>, <a href="qd::pursue">pursue</a>, <a href="qd::tag">tag</a>, <a href="qd::tail">tail</a>, <a href="qd::track">track</a>, <a href="qd::trail">trail</a></li>
-<li> {{sense|to restrict one's productivity}} <a href="qd::soldier">soldier</a>, <a href="qd::goldbrick">goldbrick</a></li>
-</ul>
->>>
-===dogiron===
-See also HtmlEntry:dog
 ===dole===
 See also HtmlEntry:deal
 ===doling===
 See also HtmlEntry:deal
-===domestic===
-See also HtmlEntry:dog
-===domesticus===
-See also HtmlEntry:dog
 ===doo===
 See also HtmlEntry:crow
 ===doodle===
@@ -2513,14 +1954,13 @@ See also HtmlEntry:pound
 ===drivel===
 See also HtmlEntry:nonsense
 ===dude===
-See also HtmlEntry:dog
 See also HtmlEntry:cat
 ===eagle===
 HtmlEntry: eagle <<<Golden eagle (bird).
 <h3>Etymology</h3>
 {{etyl|enm}} {{term|egle|lang=enm}}, from {{etyl|xno}} {{term|egle|lang=xno}}, from {{etyl|fro}} {{term|aigle|lang=fro}}, from {{etyl|la}} {{term|aquila|lang=la}}. Displaced native <a href="qd::Middle English">Middle English</a> {{term|earn|ern, earn, arn|lang=enm}}, from {{etyl|ang|-}} {{term|earn|lang=ang}}. More at {{term|erne}}.
 <h3>Pronunciation</h3>
-<ul><li> IPA: &#x2f;&#x2c8;&#x69;&#x2d0;&#x261;&#x259;&#x6c;&#x2f;</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x69;&#x2d0;&#x261;&#x259;&#x6c;&#x2f;, {{X-SAMPA|/&quot;i:g@l/}}</li>
 <li> {{audio|en-us-eagle.ogg|Audio (US)}}</li>
 <li> {{rhymes|&#x69;&#x2d0;&#x261;&#x259;&#x6c;}}</li>
 </ul>
@@ -2541,9 +1981,10 @@ HtmlEntry: eagle <<<Golden eagle (bird).
 <li> <a href="qd::eaglet">eaglet</a></li>
 <li> <a href="qd::eagle owl">eagle owl</a></li>
 <li> <a href="qd::fish eagle">fish eagle</a></li>
+<li> <a href="qd::golden eagle">golden eagle</a></li>
 </ul>
-<ul><li> <a href="qd::golden eagle">golden eagle</a></li>
-<li> <a href="qd::Haast's eagle">&#x48;&#x61;&#x61;&#x73;&#x74;&#x2019;&#x73;&#x20;&#x65;&#x61;&#x67;&#x6c;&#x65;</a></li>
+<ul><li> <a href="qd::Haast's eagle">Haast's eagle</a></li>
+<li> <a href="qd::Philippine eagle">Philippine eagle</a></li>
 <li> <a href="qd::sea eagle">sea eagle</a></li>
 <li> <a href="qd::spread eagle">spread eagle</a></li>
 <li> <a href="qd::white-tailed eagle">white-tailed eagle</a></li>
@@ -2574,7 +2015,7 @@ See also HtmlEntry:trade wind
 ===elephant===
 HtmlEntry: elephant <<<
 <h3>Etymology</h3>
-{{etyl|enm}} {{term|elefant|lang=enm}}, {{term|elefaunt|lang=enm}}, from {{etyl|frm}} {{term|elephant|lang=frm}}, learned borrowing from {{etyl|la}} {{term|elephantus|lang=la}}, from {{etyl|grc}} {{term|&#x1f10;&#x3bb;&#x3ad;&#x3c6;&#x3b1;&#x3c2;|sc=polytonic|tr=&#x65;&#x6c;&#xe9;&#x70;&#x68;&#x101;&#x73;|lang=grc}} (gen. {{term|&#x1f10;&#x3bb;&#x3ad;&#x3c6;&#x3b1;&#x3bd;&#x3c4;&#x3bf;&#x3c2;|tr=el&eacute;phantos|lang=grc}}), compound of Berber {{recons|&#x65;&#x1e37;&#x75;|lang=ber}}&#x20;&#x2018;&#x65;&#x6c;&#x65;&#x70;&#x68;&#x61;&#x6e;&#x74;&#x2019;&#x20;&#x28;&#x63;&#x6f;&#x6d;&#x70;&#x61;&#x72;&#x65;&#x20;&#x54;&#x61;&#x6d;&#x61;&#x68;&#x61;&#x71;&#x20;&#x28;&#x54;&#x61;&#x68;&#x61;&#x67;&#x67;&#x61;&#x72;&#x74;&#x29;&#x20;{{term|&ecirc;lu|lang=thv}}, (Ghat) {{term|alu|lang=taq}}) and {{etyl|egy}} {{term|&#x1334b;&#xdf4b;&#x130c0;&#xdcc0;|tr=&#x21d;&#x62;&#x77;|sc=Egyp}} (<em>&#x101;&#x62;&#x75;</em>&#x29;&#x20;&#x2018;&#x65;&#x6c;&#x65;&#x70;&#x68;&#x61;&#x6e;&#x74;&#x3b;&#x20;&#x69;&#x76;&#x6f;&#x72;&#x79;&#x2019;&#x2e;&#x20;&#x4d;&#x6f;&#x72;&#x65;&#x20;&#x61;&#x74;&#x20;{{l|en|ivory}}. Replaced Middle English {{term|olifant|lang=enm}}, which replaced Old English {{term|elpend|lang=la}}, {{term|olfend|lang=ang}}.
+{{etyl|enm}} {{term|elefant|lang=enm}}, {{term|elefaunt|lang=enm}}, from {{etyl|frm}} {{term|elephant|lang=frm}}, learned borrowing from {{etyl|la}} {{term|elephantus|lang=la}}, from {{etyl|grc}} {{term|&#x1f10;&#x3bb;&#x3ad;&#x3c6;&#x3b1;&#x3c2;|sc=polytonic|tr=&#x65;&#x6c;&#xe9;&#x70;&#x68;&#x101;&#x73;|lang=grc}} (gen. {{term|&#x1f10;&#x3bb;&#x3ad;&#x3c6;&#x3b1;&#x3bd;&#x3c4;&#x3bf;&#x3c2;|tr=el&eacute;phantos|lang=grc}}), compound of Berber {{recons|&#x65;&#x1e37;&#x75;|elephant|lang=ber}} (compare Tamahaq (Tahaggart) {{term|&ecirc;lu|lang=thv}}, (Ghat) {{term|alu|lang=taq}}) and {{etyl|egy}} {{term|&#x1334b;&#xdf4b;&#x130c0;&#xdcc0;|tr=&#x21d;&#x62;&#x77;|sc=Egyp}} (<em>&#x101;&#x62;&#x75;</em>&#x29;&#x20;&#x2018;&#x65;&#x6c;&#x65;&#x70;&#x68;&#x61;&#x6e;&#x74;&#x3b;&#x20;&#x69;&#x76;&#x6f;&#x72;&#x79;&#x2019;&#x2e;&#x20;&#x4d;&#x6f;&#x72;&#x65;&#x20;&#x61;&#x74;&#x20;{{l|en|ivory}}. Replaced Middle English {{term|olifant|lang=enm}}, which replaced Old English {{term|elpend|lang=la}}, {{term|olfend|lang=ang}}.
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x2c8;&#x25b;&#x6c;&#x259;&#x66;&#x259;&#x6e;&#x74;&#x2f;, &#x2f;&#x2c8;&#x25b;&#x6c;&#x26a;&#x66;&#x259;&#x6e;&#x74;&#x2f;</li>
 <li> {{audio|En-us-elephant.ogg|Audio (US)}}</li>
@@ -2594,7 +2035,7 @@ HtmlEntry: elephant <<<
 <ul><li> {{sense|animal}} <em><a href="qd::Elephas">Elephas</a> <a href="qd::maximus">maximus</a></em>, <em><a href="qd::Loxodonta">Loxodonta</a> <a href="qd::africana">africana</a></em></li>
 <li> {{sense|counting term}} (&lt;I&gt;US&lt;/I&gt;) <em><a href="qd::alligator">alligator</a></em></li>
 </ul>
-
+{-}
 <h4>Derived terms</h4>
 {{rel-top4|Terms derived from the noun <em>elephant</em>}}
 <ul><li> <a href="qd::African bush elephant">African bush elephant</a></li>
@@ -2702,7 +2143,7 @@ HtmlEntry: elephant <<<
 </ul>
 
 <h4>Related terms</h4>
-{rel-top4}
+{{rel-top4|Terms related to the noun <em>elephant</em>}}
 <ul><li> <a href="qd::chryselephantine">chryselephantine</a></li>
 <li> <a href="qd::elephancy">elephancy</a></li>
 <li> <a href="qd::elephanta">elephanta</a></li>
@@ -2728,12 +2169,7 @@ HtmlEntry: elephant <<<
 ===Elephas===
 See also HtmlEntry:elephant
 ===encyclopaedia===
-HtmlEntry: encyclopaedia <<<
-<h3>Alternative forms</h3>
-<ul><li> <a href="qd::encyclopædia">encyclop&aelig;dia</a> (<em>UK</em>)</li>
-<li> <a href="qd::encyclopedia">encyclopedia</a> (<em>US, Canada</em>)</li>
-</ul>
-
+HtmlEntry: encyclopaedia <<<{rfm}
 <h3>Pronunciation</h3>
 <ul><li> {{audio|en-us-encyclopaedia.ogg|Audio (US)}}</li>
 <ul><li> {{rhymes|&#x69;&#x2d0;&#x64;&#x69;&#x259;}}</li>
@@ -2742,24 +2178,20 @@ HtmlEntry: encyclopaedia <<<
 
 <h3>Noun</h3>
 {{en-noun|pl=encyclopaedias|pl2=encyclopaediae}}
-<ol><li> {{chiefly|_|UK}} A reference work (often in several volumes) containing in-depth articles on various topics (often arranged in alphabetical order or by category) dealing with a wide range of subjects or with some particular specialty</li>
+<ol><li> {{chiefly|_|UK}} {{alternative spelling of|encyclopedia}}</li>
 </ol>
-
-<h3>See also</h3>
-<ul><li> <a href="qd::Wikipedia">Wikipedia</a></li>
-</ul>
 >>>
 ===encyclopedia===
-HtmlEntry: encyclopedia <<<
+HtmlEntry: encyclopedia <<<The National Scientific Publishers encyclopedia (Polish)
 <h3>Alternative forms</h3>
-<ul><li> <a href="qd::encyclopædia">encyclop&aelig;dia</a></li>
-<li> (chiefly British) <a href="qd::encyclopaedia">encyclopaedia</a></li>
+<ul><li> (chiefly British) <a href="qd::encyclopaedia">encyclopaedia</a></li>
+<li> (obsolete) <a href="qd::encyclopædia">encyclop&aelig;dia</a></li>
 </ul>
 
 <h3>Etymology</h3>
-From {{etyl|la}} {{term|encyclopaedia|lang=la}}, from {{etyl|grc}} {{term|&#x1f10;&#x3b3;&#x3ba;&#x3cd;&#x3ba;&#x3bb;&#x3b9;&#x3bf;&#x3c2;&#x20;&#x3c0;&#x3b1;&#x3b9;&#x3b4;&#x3b5;&#x3af;&#x3b1;|the circle of arts and sciences, curriculum|lang=grc}}, from {{term|&#x1f10;&#x3b3;&#x3ba;&#x3cd;&#x3ba;&#x3bb;&#x3b9;&#x3bf;&#x3c2;|circular, rounded, round|tr=enkyklios|lang=grc}}, from {{term|&#x3ba;&#x3cd;&#x3ba;&#x3bb;&#x3bf;&#x3c2;|circle|lang=grc|tr=kyklos}} + {{term|&#x3c0;&#x3b1;&#x3b9;&#x3b4;&#x3b5;&#x3af;&#x3b1;|the rearing of a child, education|lang=grc|tr=paideia}}, from {{term|&#x3c0;&#x3b1;&#x3b9;&#x3b4;&#x3af;&#x3bf;&#x3bd;|child|lang=grc|tr=paidion}}.
+From {{etyl|la}} {{term|encyclopaedia|lang=la}}, from {{etyl|grc}} {{term|&#x1f10;&#x3b3;&#x3ba;&#x3cd;&#x3ba;&#x3bb;&#x3b9;&#x3bf;&#x3c2;&#x20;&#x3c0;&#x3b1;&#x3b9;&#x3b4;&#x3b5;&#x3af;&#x3b1;|the circle of arts and sciences, curriculum|tr=enkuklios paideia|lang=grc}}, from {{term|&#x1f10;&#x3b3;&#x3ba;&#x3cd;&#x3ba;&#x3bb;&#x3b9;&#x3bf;&#x3c2;|circular, rounded, round|tr=enkuklios|lang=grc}}, from {{term|&#x3ba;&#x3cd;&#x3ba;&#x3bb;&#x3bf;&#x3c2;|circle|tr=kuklos|lang=grc}} + {{term|&#x3c0;&#x3b1;&#x3b9;&#x3b4;&#x3b5;&#x3af;&#x3b1;|the rearing of a child, education|tr=paideia|lang=grc}}, from {{term|&#x3c0;&#x3b1;&#x3b9;&#x3b4;&#x3af;&#x3bf;&#x3bd;|child|tr=paidion|lang=grc}}.
 <h3>Pronunciation</h3>
-<ul><li> {{a|Canada}} IPA: &#x2f;&#x259;&#x6e;&#x2cc;&#x73;&#x259;&#x26a;&#x6b;&#x6c;&#x259;&#x2c8;&#x70;&#x69;&#x64;&#x69;&#x259;&#x2f;</li>
+<ul><li> {{a|Canada}} IPA: &#x2f;&#x259;&#x6e;&#x2cc;&#x73;&#x259;&#x26a;&#x2e;&#x6b;&#x6c;&#x259;&#x2c8;&#x70;&#x69;&#x2e;&#x64;&#x69;&#x259;&#x2f;</li>
 <li> {{a|UK|US}} IPA: &#x2f;&#x26a;&#x6e;&#x2cc;&#x73;&#x61;&#x26a;&#x2e;&#x6b;&#x6c;&#x259;&#x2c8;&#x70;&#x69;&#x28;&#x2d0;&#x29;&#x2e;&#x64;&#x69;&#x259;&#x2f;</li>
 <li> {{audio|en-ca-synth-encyclopedia.ogg|CA synth}}</li>
 <li> {{audio|en-us-encyclopedia.ogg|Audio (US)}}</li>
@@ -2767,9 +2199,10 @@ From {{etyl|la}} {{term|encyclopaedia|lang=la}}, from {{etyl|grc}} {{term|&#x1f1
 </ul>
 
 <h3>Noun</h3>
-The National Scientific Publishers encyclopedia (Polish){{en-noun|s|pl2=encyclopediae|pl3=encyclopedi&aelig;}}
-<ol><li> A <a href="qd::comprehensive">comprehensive</a> <a href="qd::reference work">reference work</a> with articles on a range of <a href="qd::subjects">subjects</a>.</li>
+{{en-noun|s|pl2=encyclopediae|pl3=encyclopedi&aelig;}}
+<ol><li> A <a href="qd::comprehensive">comprehensive</a> <a href="qd::reference work">reference work</a> (often spanning several printed volumes) with in-depth articles (usually arranged in alphabetical order, or sometimes arranged by category) on a range of <a href="qd::subjects">subjects</a>, sometimes general, sometimes limited to a particular field.</li>
 <ul><li> <em>I only use the library for the <b>encyclopedia</b>&#x2c;&#x20;&#x61;&#x73;&#x20;&#x77;&#x65;&#x2019;&#x76;&#x65;&#x20;&#x67;&#x6f;&#x74;&#x20;&#x6d;&#x6f;&#x73;&#x74;&#x20;&#x6f;&#x74;&#x68;&#x65;&#x72;&#x20;&#x62;&#x6f;&#x6f;&#x6b;&#x73;&#x20;&#x68;&#x65;&#x72;&#x65;&#x2e;</em></li>
+<li> <em>His life's work was a four-volume </em>encyclopedia<em> of aviation topics.</em></li>
 </ul>
 </ol>
 
@@ -2942,6 +2375,26 @@ From the first syllable of the Latin word {{term|famuli}}, extracted of the poem
 <li> <a href="qd::ti">ti</a></li>
 </ul>
 >>>
+===fabaceous===
+HtmlEntry: fabaceous <<<
+<h3>Etymology</h3>
+From {{etyl|la}} <em><a href="qd::fabaceus">fabaceus</a></em>, from <em>faba</em> bean.
+<h3>Pronunciation</h3>
+<ul><li> {{rhymes|&#x65;&#x26a;&#x283;&#x259;&#x73;}}</li>
+</ul>
+
+<h3>Adjective</h3>
+{en-adj}
+<ol><li> Having the nature of a <a href="qd::bean">bean</a>; like a bean.</li>
+</ol>
+>>>
+===fabella===
+HtmlEntry: fabella <<<
+<h3>Noun</h3>
+{{en-noun|fabellae}}
+<ol><li> {anatomy} One of the small <a href="qd::sesamoid">sesamoid</a> <a href="qd::bone">bone</a>s situated behind the <a href="qd::condyles">condyles</a> of the <a href="qd::femur">femur</a>, in some mammals.</li>
+</ol>
+---->>>
 ===false friend===
 HtmlEntry: false friend <<<{{was wotd|2007|May|4}}
 <h3>Pronunciation</h3>
@@ -2976,8 +2429,6 @@ HtmlEntry: false friend <<<{{was wotd|2007|May|4}}
 <li> <a href="qd::false cognate">false cognate</a></li>
 </ul>
 >>>
-===familiaris===
-See also HtmlEntry:dog
 ===family===
 See also HtmlEntry:cat
 ===February===
@@ -2996,7 +2447,8 @@ Re-<a href="qd::Latinize">Latinize</a>d from {{etyl|enm}} {{term|feoverel|lang=e
 </ol>
 
 <h4>Usage notes</h4>
-<ul><li> The pronunciation of the first <em>r</em> as /j/ has come about by <a href="qd::dissimilation">dissimilation</a> and <a href="qd::analogy">analogy</a> with <a href="qd::January">January</a>. Abbreviation: <b><a href="qd::Feb">Feb</a></b> or <b><a href="qd::Feb.">Feb.</a></b></li>
+<ul><li> The pronunciation of the first <em>r</em> as /j/ has come about by <a href="qd::dissimilation">dissimilation</a> and <a href="qd::analogy">analogy</a> with {{term|January}}.</li>
+<li> {{term|February}} is usually abbreviated {{term|Feb.}} or {{term|Feb}}.</li>
 </ul>
 
 <h4>Derived terms</h4>
@@ -3039,14 +2491,11 @@ See also HtmlEntry:cat
 ===fellatio===
 See also HtmlEntry:head
 ===fellow===
-See also HtmlEntry:dog
 See also HtmlEntry:cat
 ===feloid===
 See also HtmlEntry:cat
 ===Feloidea===
 See also HtmlEntry:cat
-===firedog===
-See also HtmlEntry:dog
 ===first===
 See also HtmlEntry:head
 ===floccinaucinihilipilification===
@@ -3081,8 +2530,6 @@ Often cited as the longest non-technical word in the English language, being one
 See also HtmlEntry:deal
 ===fo===
 See also HtmlEntry:f
-===fool===
-See also HtmlEntry:dog
 ===foxiness===
 See also HtmlEntry:craft
 ===frankenword===
@@ -3380,21 +2827,24 @@ HtmlEntry: GDP <<<{{wikipedia|GDP (disambiguation)}}
 See also HtmlEntry:nonsense
 ===GNU FDL===
 HtmlEntry: GNU FDL <<<
-<h3>{initialism}</h3>
-<b>GNU FDL</b>
-<ol><li> <a href="qd::GNU">GNU</a> <a href="qd::free">Free</a> <a href="qd::documentation">Documentation</a> <a href="qd::license">License</a></li>
+<h3>Alternative forms</h3>
+<ul><li> <a href="qd::GFDL">GFDL</a></li>
+</ul>
+
+<h3>Proper noun</h3>
+{en-proper noun}
+<ol><li> {{initialism of|{{pedlink|GNU Free Documentation License}}}}</li>
 </ol>
+
+<h4>External links</h4>
+<ul><li> {pedia}</li>
+</ul>
 >>>
-===go===
-See also HtmlEntry:dog
 ===God===
 See also HtmlEntry:word
-===goldbrick===
-See also HtmlEntry:dog
 ===good===
 See also HtmlEntry:deal
 ===goods===
-See also HtmlEntry:wares
 See also HtmlEntry:product
 ===grain of salt===
 HtmlEntry: grain of salt <<<
@@ -3418,7 +2868,7 @@ From Latin {{term|cum grano salis}}, literally <em>with a grain of salt</em>, fi
 ===gratis===
 HtmlEntry: gratis <<<
 <h3>Etymology</h3>
-From {{etyl|la}} <em><a href="qd::gratis">gratis</a></em>.
+From {{etyl|la}} {{term|gratis|lang=la}}.
 <h3>Pronunciation</h3>
 <ul><li> {{a|UK}} IPA: &#x2f;&#x2c8;&#x261;&#x279;&#x251;&#x2d0;&#x2e;&#x74;&#x26a;&#x73;&#x2f; {{X-SAMPA|/&quot;grA:.tIs/}}</li>
 </ul>
@@ -3453,7 +2903,6 @@ See also HtmlEntry:cat
 ===guile===
 See also HtmlEntry:craft
 ===guy===
-See also HtmlEntry:dog
 See also HtmlEntry:cat
 ===hand===
 See also HtmlEntry:deal
@@ -3771,8 +3220,6 @@ See also HtmlEntry:head
 See also HtmlEntry:head
 ===heap===
 See also HtmlEntry:deal
-===heel===
-See also HtmlEntry:dog
 ===hockey===
 See also HtmlEntry:nonsense
 ===hogwash===
@@ -3787,8 +3234,6 @@ See also HtmlEntry:nonsense
 See also HtmlEntry:nonsense
 ===horseshit===
 See also HtmlEntry:nonsense
-===hound===
-See also HtmlEntry:dog
 ===hour===
 HtmlEntry: hour <<<
 <h3>Alternative forms</h3>
@@ -4155,7 +3600,6 @@ See also HtmlEntry:nonsense
 ===malkin===
 See also HtmlEntry:cat
 ===man===
-See also HtmlEntry:dog
 See also HtmlEntry:cat
 ===manure===
 See also HtmlEntry:nonsense
@@ -4502,20 +3946,18 @@ See also HtmlEntry:substantive
 ===merchandise===
 HtmlEntry: merchandise <<<
 <h3>Alternative forms</h3>
-<ul><li> <a href="qd::merchandize">merchandize</a> (&#x6e;&#x6f;&#x6e;&#x2010;&#x73;&#x74;&#x61;&#x6e;&#x64;&#x61;&#x72;&#x64;)</li>
-<li> <a href="qd::merchaundise">merchaundise</a> (obsolete)</li>
-<li> <a href="qd::merchaundize">merchaundize</a> (obsolete)</li>
+<ul><li> <a href="qd::merchandize">merchandize</a> (&#x6e;&#x6f;&#x6e;&#x2010;&#x73;&#x74;&#x61;&#x6e;&#x64;&#x61;&#x72;&#x64;), <a href="qd::merchaundise">merchaundise</a> (obsolete),<a href="qd::merchaundize">merchaundize</a> (obsolete)</li>
 </ul>
 
 <h3>Etymology</h3>
-&#x46;&#x72;&#x6f;&#x6d;&#x20;&#x41;&#x6e;&#x67;&#x6c;&#x6f;&#x2010;&#x46;&#x72;&#x65;&#x6e;&#x63;&#x68;&#x20;<em><a href="qd::marchaundise">marchaundise</a></em>, from {{term|marchaunt|{{l|en|merchant}}|sc=polytonic}}.
+From {{etyl|xno}} {{term|marchaundise|lang=xno}}, from {{term|marchaunt|merchant|lang=xno}}
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x2c8;&#x6d;&#x25d;&#x2a7;&#x259;&#x6e;&#x2cc;&#x64;&#x61;&#x26a;&#x7a;&#x2f;, {{X-SAMPA|/&quot;m3`tS@n%daIz/}}</li>
 <li> {{audio|en-us-merchandise.ogg|Audio (US)}}</li>
 </ul>
 
 <h3>Noun</h3>
-{en-noun}
+{{en-noun|-|s}}
 <ol><li> {uncountable} <a href="qd::commodity">Commodities</a> offered for <a href="qd::sale">sale</a>.</li>
 <ul><li> <em>good business depends on having good <b>merchandise</b></li>
 </ul>
@@ -4533,20 +3975,25 @@ HtmlEntry: merchandise <<<
 
 <h3>Verb</h3>
 {{en-verb|merchandis|ing}}
-<ol><li> to <a href="qd::engage">engage</a> in the trade of.</li>
-</ol>
-
-<h4>Synonyms</h4>
-<ul><li> <a href="qd::trade">trade</a></li>
+<ol><li> {{intransitive|archaic}} To engage in trade.</li>
+<li> {intransitive} To engage in in-store promotion of the sale of goods, as by display and arrangement of goods.</li>
+<ul><li> </em>He started his career <b>merchandising</b> in a small clothing store chain.<em></li>
 </ul>
+<li> {{transitive|archaic}} To <a href="qd::engage">engage</a> in the trade of.</li>
+<li> {transitive} To engage in in-store promotion of the sale of.</li>
+<ul><li> </em>He got hired to <b>merchandise</b> some new sporting goods lines.<em></li>
+</ul>
+<li> {transitive} To promote as if for sale.</li>
+<ul><li> </em>The record companies don't get as good a return on <b>merchandising</b> artists under contract.<em></li>
+</ul>
+</ol>
 
 <h3>Related terms</h3>
 <ul><li> <a href="qd::mercantile">mercantile</a></li>
 <li> <a href="qd::merchant">merchant</a></li>
 <li> <a href="qd::merchantable">merchantable</a></li>
 </ul>
----->>>
-See also HtmlEntry:wares
+>>>
 See also HtmlEntry:product
 ===mess===
 See also HtmlEntry:deal
@@ -4673,8 +4120,12 @@ HtmlEntry: Monday <<<
 <h3>Noun</h3>
 {en-noun}
 <ol><li> The first day of the <a href="qd::week">week</a> in systems using the ISO 8601 norm and second day of the week in many religious traditions. It follows <a href="qd::Sunday">Sunday</a> and precedes <a href="qd::Tuesday">Tuesday</a>.</li>
-<ul><li> <em>Solomon Grundy,&lt;br&gt;Born on a <b>Monday</b>,&lt;br&gt;Christened on Tuesday,&lt;br&gt;Married on Wednesday&lt;br&gt;ill on Thursday,&lt;br&gt;worse on Friday,&lt;br&gt;Died on Saturday,&lt;br&gt;Buried on Sunday.&lt;br&gt;Such was the life&lt;br&gt;Of Solomon Grundy.</em></li>
+<ul><li> {{RQ:Orwell Animal Farm|6}}</li>
+<ul><li>  Mr. Whymper, a solicitor living in Willingdon, {{...|had agreed to act as intermediary between Animal Farm and the outside world, and}} would visit the farm every <b>Monday</b> morning to receive his instructions.</li>
 </ul>
+<li> <em>Solomon Grundy,&lt;br&gt;Born on a <b>Monday</b>,&lt;br&gt;Christened on Tuesday,&lt;br&gt;Married on Wednesday&lt;br&gt;ill on Thursday,&lt;br&gt;worse on Friday,&lt;br&gt;Died on Saturday,&lt;br&gt;Buried on Sunday.&lt;br&gt;Such was the life&lt;br&gt;Of Solomon Grundy.</em></li>
+</ul>
+<li> {rfv-sense} {{context|Boston|offensive|ethnic slur}} A dark-skinned person.</li>
 </ol>
 
 <h4>Derived terms</h4>
@@ -4744,7 +4195,7 @@ HtmlEntry: month <<<
 </ul>
 
 <h3>Etymology</h3>
-From {{etyl|enm}} {{term|month|lang=enm}}, {{term|moneth|lang=enm}}, from {{etyl|ang}} {{term|mona&thorn;|&#x6d;&#x14d;&#x6e;&#x61;&#xf0;|month|lang=ang}}, from {{proto|Germanic|&#x6d;&#x113;&#x6e;&#x14d;&#xfe;&#x73;|month}}, from {{proto|Indo-European|me(n)ses|moon, month}}, probably from {{proto|Indo-European|m&ecirc;-|to measure}}, referring to the moon's phases as the measure of time, equivalent to {{suffix|moon|th}}. Cognate with {{etyl|sco|-}} {{term|moneth|month|lang=sco}}, {{etyl|frr|-}} {{term|muunt|month|lang=frr}}, {{etyl|nl|-}} {{term|maand|month|lang=nl}}, {{etyl|nds|-}} {{term|maand|month|lang=nds}}, {{etyl|de|-}} {{term|Monat|month|lang=de}}, {{etyl|da|-}} {{term|m&aring;ned|month|lang=da}}, {{etyl|sv|-}} {{term|m&aring;nad|month|lang=sv}}, {{etyl|is|-}} {{term|m&aacute;nu&eth;i|month|lang=is}}, Ancient Greek {{term|&#x3bc;&#x3ae;&#x3bd;|tr=&#x6d;&#x1e17;&#x6e;|lang=grc|sc=polytonic}}, Armenian {{term|&#x561;&#x574;&#x56b;&#x57d;|tr=amis|lang=hy}}, Old Irish {{term|m&iacute;|lang=sga}}, <a href="qd::Old Church Slavonic">Old Church Slavonic</a> {{term|&#x43c;&#x463;&#x441;&#x467;&#x446;&#x44c;|tr=&#x6d;&#x11b;&#x73;&#x119;&#x63;&#x12d;|lang=cu|sc=Glag}}. See also {{l|en|moon}}.
+From {{etyl|enm}} {{term|month|lang=enm}}, {{term|moneth|lang=enm}}, from {{etyl|ang}} {{term|mona&thorn;|&#x6d;&#x14d;&#x6e;&#x61;&#xf0;|month|lang=ang}}, from {{proto|Germanic|&#x6d;&#x113;&#x6e;&#x14d;&#xfe;&#x73;|month}}, from {{proto|Indo-European|&#x6d;&#x1e17;&#x68;&#x2081;&#x6e;&#x325;&#x73;|moon, month}}, probably from {{proto|Indo-European|m&ecirc;-|to measure}}, referring to the moon's phases as the measure of time, equivalent to {{suffix|moon|th}}. Cognate with {{etyl|sco|-}} {{term|moneth|month|lang=sco}}, {{etyl|frr|-}} {{term|muunt|month|lang=frr}}, {{etyl|nl|-}} {{term|maand|month|lang=nl}}, {{etyl|nds|-}} {{term|maand|month|lang=nds}}, {{etyl|de|-}} {{term|Monat|month|lang=de}}, {{etyl|da|-}} {{term|m&aring;ned|month|lang=da}}, {{etyl|sv|-}} {{term|m&aring;nad|month|lang=sv}}, {{etyl|is|-}} {{term|m&aacute;nu&eth;i|month|lang=is}}, Ancient Greek {{term|&#x3bc;&#x3ae;&#x3bd;|tr=&#x6d;&#x1e17;&#x6e;|lang=grc|sc=polytonic}}, Armenian {{term|&#x561;&#x574;&#x56b;&#x57d;|tr=amis|lang=hy}}, Old Irish {{term|m&iacute;|lang=sga}}, <a href="qd::Old Church Slavonic">Old Church Slavonic</a> {{term|&#x43c;&#x463;&#x441;&#x467;&#x446;&#x44c;|tr=&#x6d;&#x11b;&#x73;&#x119;&#x63;&#x12d;|lang=cu|sc=Cyrs}}. See also {{l|en|moon}}.
 <h3>Pronunciation</h3>
 <ul><li> {{enPR|&#x6d;&#x16d;&#x6e;&#x74;&#x68;}}, IPA: &#x2f;&#x6d;&#x28c;&#x6e;&#x3b8;&#x2f;, {{X-SAMPA|/mVnT/}}</li>
 <li> {{audio|en-us-month.ogg|Audio (US)}}</li>
@@ -4798,7 +4249,7 @@ From {{suffix|multicultural|ism}}.
 </ul>
 
 <h3>Noun</h3>
-{en-noun}
+{{en-noun|s|-}}
 <ol><li> The characteristics of a society, city etc. which has many different <a href="qd::ethnic">ethnic</a> or <a href="qd::national">national</a> cultures mingling freely; political or social policies which support or encourage such <a href="qd::coexistence">coexistence</a>. {{defdate|from 20th c.}}</li>
 <ul><li> <b>1991</b>, Barbara Ehrenreich, <em>Time</em>, 8 Apr 1991:</li>
 <ul><li> Something had to replace the threat of communism, and at last a workable substitute is at hand. &quot;<b>Multiculturalism</b>,&quot; as the new menace is known, has been denounced in the media recently as the new McCarthyism, the new fundamentalism, even the new totalitarianism -- take your choice.</li>
@@ -4835,15 +4286,15 @@ From {{etyl|ang}} {{term|nama|lang=ang}}, from {{proto|Germanic|nam&ocirc;}}, fr
 <h3>Noun</h3>
 {en-noun}
 <ol><li> Any <a href="qd::nounal">nounal</a> <a href="qd::word">word</a> or phrase which indicates a <a href="qd::particular">particular</a> <a href="qd::person">person</a>, <a href="qd::place">place</a>, <a href="qd::class">class</a>, or <a href="qd::thing">thing</a>.</li>
-<ul><li> <b>1904,</b> L. Frank Baum, <em>The Marvelous Land of Oz</em></li>
+<ul><li> <b>1904,</b> {{w|L. Frank Baum}}, <em>The Marvelous Land of Oz</em></li>
 <ul><li> So good a man as this must surely have a <b>name</b>.</li>
 </ul>
 </ul>
 <li> <a href="qd::reputation">Reputation</a>.</li>
-<ul><li> <b>1604,</b> William Shakespeare, <em><a href="qd::s:The Tragedy of Othello, The Moor of Venice">Othello</a></em>, <a href="qd::s:The Tragedy of Othello, The Moor of Venice">III-iii</a> ,</li>
+<ul><li> <b>1604,</b> {{w|William Shakespeare}}, <em><a href="qd::s:The Tragedy of Othello, The Moor of Venice">Othello</a></em>, <a href="qd::s:The Tragedy of Othello, The Moor of Venice">III-iii</a> ,</li>
 <ul><li> Good <b>name</b> in man and woman, dear my lord / Is the immediate jewel of their souls.[http://www.bartleby.com/100/138.34.42.html]</li>
 </ul>
-<li> <b>1952,</b> <em>Old Testament, Revised Standard Version</em>, Thomas Nelson &amp; Sons, 2 Samuel 8:13,</li>
+<li> <b>1952,</b> <em>{{w|Old Testament}}, Revised Standard Version</em>, Thomas Nelson &amp; Sons, 2 Samuel 8:13,</li>
 <ul><li> And David won a <b>name</b> for himself.[http://etext.virginia.edu/etcbin/toccer-new2?id=Rsv2Sam.sgm&amp;images=images/modeng&amp;data=/texts/english/modeng/parsed&amp;tag=public&amp;part=8&amp;division=div1]</li>
 </ul>
 </ul>
@@ -4905,7 +4356,7 @@ From {{etyl|ang}} {{term|nama|lang=ang}}, from {{proto|Germanic|nam&ocirc;}}, fr
 <h3>Verb</h3>
 {{en-verb|nam|ing}}
 <ol><li> {transitive} To <a href="qd::give">give</a> a name to.</li>
-<ul><li> <b>1904:</b> L. Frank Baum, <em>The Land of Oz</em>&#x20;&#x2014;&#x20;&#x49;&#x20;&#x77;&#x69;&#x6c;&#x6c;&#x20;<b>name</b> the fellow 'Jack Pumpkinhead!'</li>
+<ul><li> <b>1904:</b> {{w|L. Frank Baum}}, <em>The Land of Oz</em>&#x20;&#x2014;&#x20;&#x49;&#x20;&#x77;&#x69;&#x6c;&#x6c;&#x20;<b>name</b> the fellow 'Jack Pumpkinhead!'</li>
 </ul>
 <li> {transitive} To <a href="qd::mention">mention</a>, <a href="qd::specify">specify</a>.</li>
 <ul><li> <em>He <b>named</b> his demands.</em></li>
@@ -5231,7 +4682,7 @@ HtmlEntry: patronage <<<
 <h3>Pronunciation</h3>
 &#x2f;&#x2c8;&#x70;&#x65;&#x26a;&#x74;&#x72;&#x259;&#x6e;&#x26a;&#x64;&#x361;&#x292;&#x2f;
 <h3>Noun</h3>
-{en-noun}
+{{en-noun|s|-}}
 <ol><li> The act of providing <a href="qd::approval">approval</a> and <a href="qd::support">support</a>; <a href="qd::backing">backing</a>; <a href="qd::championship">championship</a>.</li>
 <ul><li> <em>His vigorous <b>patronage</b> of the conservatives got him in trouble with progressives.</em></li>
 </ul>
@@ -5240,7 +4691,6 @@ HtmlEntry: patronage <<<
 </ul>
 <li> A <a href="qd::communication">communication</a> that indicates lack of <a href="qd::respect">respect</a> by patronizing the <a href="qd::recipient">recipient</a>; <a href="qd::condescension">condescension</a>; <a href="qd::disdain">disdain</a>.</li>
 <li> {politics} Granting <a href="qd::favour">favour</a>s or giving <a href="qd::contract">contract</a>s or making <a href="qd::appointment">appointment</a>s to <a href="qd::office">office</a> in return for <a href="qd::political">political</a> support.</li>
-<li> The people who <a href="qd::ride">ride</a> a form of <a href="qd::transportation">transportation</a>. i.e. The customers or clientele of that form of transportation. <a href="qd::Synonym">Synonym</a> of <a href="qd::ridership">ridership</a>.</li>
 </ol>
 
 <h3>Verb</h3>
@@ -5270,8 +4720,6 @@ HtmlEntry: patronage <<<
 </ol>
 ---->>>
 See also HtmlEntry:trade
-===pawl===
-See also HtmlEntry:dog
 ===peck===
 See also HtmlEntry:deal
 ===pelt===
@@ -5309,6 +4757,14 @@ From {{etyl|enm}}, unknown origin.
 <li> {letterpress} A disorderly mess of spilt <a href="qd::type">type</a>.</li>
 <li> {cricket} An especially badly <a href="qd::bowl">bowl</a>ed ball.</li>
 <li> {pejorative} a <a href="qd::gluttonous">gluttonous</a> person.</li>
+<li> {slang} <a href="qd::vulva">vulva</a></li>
+<ul><li> <b>1981</b>, William Kotzwinkle, <em>Jack in the Box</em></li>
+<ul><li> &quot;Yeah, take it off!&quot; &quot;SHOW US YOUR <b>PIE</b>!&quot; The brunette opened the catch on her G-string and let the sequinned cloth slip down, teasing them with it.</li>
+</ul>
+<li> <b>2010</b>, W. A. Moltinghorne, <em>Magnolia Park</em> (page 238)</li>
+<ul><li> Yeah, some guys like to eat the old hairy <b>pie</b>. Women, too, or so I've heard.</li>
+</ul>
+</ul>
 </ol>
 
 <h5>Derived terms</h5>
@@ -5320,6 +4776,7 @@ From {{etyl|enm}}, unknown origin.
 <li> <a href="qd::cream pie">cream pie</a></li>
 <li> <a href="qd::easy as pie">easy as pie</a></li>
 <li> <a href="qd::have one's fingers in many pies">have one's fingers in many pies</a></li>
+<li> <a href="qd::humble pie">humble pie</a></li>
 <li> <a href="qd::meat pie">meat pie</a></li>
 <li> <a href="qd::mince pie">mince pie</a></li>
 </ul>
@@ -5363,11 +4820,15 @@ From {{etyl|fro|en}} {{term|pie|lang=fro}}, from {{etyl|la|en}} {{term|pica|lang
 <ol><li> {obsolete} <a href="qd::magpie">magpie</a></li>
 </ol>
 
+<h5>Derived terms</h5>
+<ul><li> <a href="qd::piebald">piebald</a></li>
+</ul>
+
 <h3>Etymology 3</h3>
 From {{etyl|hi}} {{term|&#x92a;&#x93e;&#x908;|quarter|tr=&#x70;&#x101;&#x12b;}}, from {{etyl|sa}} {{term|&#x92a;&#x93e;&#x926;&#x93f;&#x915;&#x93e;|tr=&#x70;&#x101;&#x64;&#x69;&#x6b;&#x101;|sc=Deva}}.
 <h4>Noun</h4>
 {{en-noun|pl=pie|pl2=pies}}
-<ol><li> {historical} The smallest unit of currency in South Asia, equivalent to 1/192 of a <a href="qd::Rupee">Rupee</a> or 1/12 of an <a href="qd::anna">anna</a>.</li>
+<ol><li> {historical} The smallest unit of currency in South Asia, equivalent to 1/192 of a <a href="qd::rupee">rupee</a> or 1/12 of an <a href="qd::anna">anna</a>.</li>
 <ul><li> <b>1888</b>&#x2c;&#x20;&#x52;&#x75;&#x64;&#x79;&#x61;&#x72;&#x64;&#x20;&#x4b;&#x69;&#x70;&#x6c;&#x69;&#x6e;&#x67;&#x2c;&#x20;&#x2018;&#x54;&#x68;&#x65;&#x20;&#x53;&#x74;&#x72;&#x61;&#x6e;&#x67;&#x65;&#x20;&#x52;&#x69;&#x64;&#x65;&#x20;&#x6f;&#x66;&#x20;&#x4d;&#x6f;&#x72;&#x72;&#x6f;&#x77;&#x62;&#x69;&#x65;&#x20;&#x4a;&#x75;&#x6b;&#x65;&#x73;&#x2019;&#x2c;&#x20;<em>&#x54;&#x68;&#x65;&#x20;&#x50;&#x68;&#x61;&#x6e;&#x74;&#x6f;&#x6d;&#x20;&#x2019;&#x52;&#x69;&#x63;&#x6b;&#x73;&#x68;&#x61;&#x77;&#x20;&#x61;&#x6e;&#x64;&#x20;&#x4f;&#x74;&#x68;&#x65;&#x72;&#x20;&#x54;&#x61;&#x6c;&#x65;&#x73;</em>, Folio Society 2005, p. 117:</li>
 <ul><li>&#x20;&#x49;&#x20;&#x67;&#x61;&#x76;&#x65;&#x20;&#x68;&#x69;&#x6d;&#x20;&#x61;&#x6c;&#x6c;&#x20;&#x74;&#x68;&#x65;&#x20;&#x6d;&#x6f;&#x6e;&#x65;&#x79;&#x20;&#x69;&#x6e;&#x20;&#x6d;&#x79;&#x20;&#x70;&#x6f;&#x73;&#x73;&#x65;&#x73;&#x73;&#x69;&#x6f;&#x6e;&#x2c;&#x20;&#x52;&#x73;&#x2e;&#x39;&#x2e;&#x38;&#x2e;&#x35;&#x2e;&#x20;&#x2013;&#x20;&#x6e;&#x69;&#x6e;&#x65;&#x20;&#x72;&#x75;&#x70;&#x65;&#x65;&#x73;&#x2c;&#x20;&#x65;&#x69;&#x67;&#x68;&#x74;&#x20;&#x61;&#x6e;&#x6e;&#x61;&#x73;&#x2c;&#x20;&#x61;&#x6e;&#x64;&#x20;&#x66;&#x69;&#x76;&#x65;&#x20;<b>pie</b>&#x20;&#x2013;&#x20;&#x66;&#x6f;&#x72;&#x20;&#x49;&#x20;&#x61;&#x6c;&#x77;&#x61;&#x79;&#x73;&#x20;&#x6b;&#x65;&#x65;&#x70;&#x20;&#x73;&#x6d;&#x61;&#x6c;&#x6c;&#x20;&#x63;&#x68;&#x61;&#x6e;&#x67;&#x65;&#x20;&#x61;&#x73;&#x20;<em>bakshish</em> when I am in camp.</li>
 </ul>
@@ -5538,6 +4999,11 @@ A pond{en-noun}
 <ul><li> The rate of fall of the surface of water <b>ponded</b> over the soil within the ring gives a measure of the infiltration rate for the particular enclosed area.</li>
 </ul>
 </ul>
+<li> {obsolete} To <a href="qd::ponder">ponder</a>.</li>
+<ul><li> Spenser</li>
+<ul><li> Pleaseth you, <b>pond</b> your suppliant's plaint.</li>
+</ul>
+</ul>
 </ol>
 >>>
 ===pooh===
@@ -5578,7 +5044,7 @@ HtmlEntry: portmanteau <<<{{was wotd|2007|March|8}}
 </ul>
 
 <h3>Etymology 1</h3>
-From {{etyl|fr}} {{term|portemanteau|lang=fr}}, literally {{term|porte|carry}} + {{term|manteau|coat|lang=fr}}
+From {{etyl|fr}} {{term|portemanteau|lang=fr}}, literally {{term|porte|carry|lang=fr}} + {{term|manteau|coat|lang=fr}}
 <h4>Noun</h4>
 {{en-noun|pl2=portmanteaux}}
 <ol><li> A large <a href="qd::travel">travel</a>ling <a href="qd::case">case</a> usually made of <a href="qd::leather">leather</a>, and opening into two equal sections.</li>
@@ -5657,7 +5123,7 @@ See also HtmlEntry:deal
 ===pound===
 HtmlEntry: pound <<<
 <h3>Pronunciation</h3>
-<ul><li> IPA: &#x2f;&#x70;&#x61;&#x28a;&#x6e;&#x64;&#x2f;</li>
+<ul><li> IPA: &#x2f;&#x70;&#x61;&#x28a;&#x6e;&#x64;&#x2f;, {{X-SAMPA|/paUnd/}}</li>
 <li> {{audio|en-us-pound.ogg|Audio (US)}}</li>
 <li> {{rhymes|&#x61;&#x28a;&#x6e;&#x64;}}</li>
 </ul>
@@ -5702,17 +5168,22 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|pund|a pound, weight|lang=ang}}, fro
 From {{etyl|enm}} {{term|pounde|lang=enm}}, from {{etyl|ang}} {{term|pyndan|to enclose, impound|lang=ang}}.
 <h4>Noun</h4>
 {en-noun}
-<ol><li> A place for the detention of stray or wandering <a href="qd::animal">animal</a>s.</li>
-<ul><li> <b>2002</b>, 25th Hour, 00:27:30</li>
-<ul><li> (a policemant saying to a dog owner) &quot;He better stay calm or I'll have the <b>pound</b> come get him.&quot; </li>
+<ol><li> A place for the <a href="qd::detention">detention</a> of <a href="qd::stray">stray</a> or <a href="qd::wander">wander</a>ing <a href="qd::animal">animal</a>s.</li>
+<ul><li> <b>2002</b>, {{w|25th Hour}}, 00:27:30:</li>
+<ul><li> (Police officer to a dog owner) &quot;He better stay calm or I'll have the <b>pound</b> come get him.&quot;</li>
 </ul>
 </ul>
-<li> A place for the detention of automobiles that have been illegally parked, abandoned, etc.</li>
+<li> A place for the detention of automobiles that have been <a href="qd::illegal">illegal</a>ly parked, <a href="qd::abandon">abandon</a>ed, etc.</li>
 <li> The part of a <a href="qd::canal">canal</a> between two <a href="qd::lock">lock</a>s, and therefore at the same water level.</li>
 </ol>
 
 <h5>Usage notes</h5>
-<ul><li> Manx English uses this word uncountably.</li>
+<ul><li> {{w|Manx English}} uses this word uncountably.</li>
+</ul>
+
+<h5>Derived terms</h5>
+<ul><li> <a href="qd::dog pound">dog pound</a></li>
+<li> <a href="qd::lobster pound">lobster pound</a></li>
 </ul>
 
 <h3>Etymology 3</h3>
@@ -5846,7 +5317,6 @@ HtmlEntry: product <<<
 </ul>
 ---->>>
 See also HtmlEntry:merchandise
-See also HtmlEntry:wares
 ===production===
 See also HtmlEntry:product
 ===progression===
@@ -5867,7 +5337,7 @@ See also HtmlEntry:march
 ===Puma===
 See also HtmlEntry:cat
 ===pumpkin===
-HtmlEntry: pumpkin <<<
+HtmlEntry: pumpkin <<<pumpkins
 <h3>Alternative forms</h3>
 <ul><li> {{sense|US|term of endearment}} <a href="qd::punkin">punkin</a></li>
 </ul>
@@ -5883,7 +5353,7 @@ From {{etyl|frm}} {{term|pompon|lang=frm}}, from {{etyl|la}} {{term|pepo|&#x70;&
 {en-noun}
 <ol><li> A <a href="qd::domesticated">domesticated</a> <a href="qd::plant">plant</a>, <em>Cucurbita pepo</em> similar in <a href="qd::growth">growth</a> pattern, <a href="qd::foliage">foliage</a>, <a href="qd::flower">flower</a>, and <a href="qd::fruit">fruit</a> to the <a href="qd::squash">squash</a> or <a href="qd::melon">melon</a>.</li>
 <li> The <a href="qd::round">round</a> <a href="qd::yellow">yellow</a> or <a href="qd::orange">orange</a> fruit of this plant.</li>
-<ul><li> <em>The Land of Oz</em>, L. Frank Baum, [http://www.literature.org/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-01.html]:</li>
+<ul><li> <b>1904</b>, L. Frank Baum, <em>The Marvelous Land of Oz</em>, [http://www.literature.org/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-01.html]:</li>
 <ul><li> There were <b>pumpkins</b>&#x20;&#x69;&#x6e;&#x20;&#x4d;&#x6f;&#x6d;&#x62;&#x69;&#x2019;&#x73;&#x20;&#x63;&#x6f;&#x72;&#x6e;&#x2d;&#x66;&#x69;&#x65;&#x6c;&#x64;&#x73;&#x2c;&#x20;&#x6c;&#x79;&#x69;&#x6e;&#x67;&#x20;&#x67;&#x6f;&#x6c;&#x64;&#x65;&#x6e;&#x20;&#x72;&#x65;&#x64;&#x20;&#x61;&#x6d;&#x6f;&#x6e;&#x67;&#x20;&#x74;&#x68;&#x65;&#x20;&#x72;&#x6f;&#x77;&#x73;&#x20;&#x6f;&#x66;&#x20;&#x67;&#x72;&#x65;&#x65;&#x6e;&#x20;&#x73;&#x74;&#x61;&#x6c;&#x6b;&#x73;&#x3b;&#x20;&#x61;&#x6e;&#x64;&#x20;&#x74;&#x68;&#x65;&#x73;&#x65;&#x20;&#x68;&#x61;&#x64;&#x20;&#x62;&#x65;&#x65;&#x6e;&#x20;&#x70;&#x6c;&#x61;&#x6e;&#x74;&#x65;&#x64;&#x20;&#x61;&#x6e;&#x64;&#x20;&#x63;&#x61;&#x72;&#x65;&#x66;&#x75;&#x6c;&#x6c;&#x79;&#x20;&#x74;&#x65;&#x6e;&#x64;&#x65;&#x64;&#x20;&#x74;&#x68;&#x61;&#x74;&#x20;&#x74;&#x68;&#x65;&#x20;&#x66;&#x6f;&#x75;&#x72;&#x2d;&#x68;&#x6f;&#x72;&#x6e;&#x65;&#x64;&#x20;&#x63;&#x6f;&#x77;&#x20;&#x6d;&#x69;&#x67;&#x68;&#x74;&#x20;&#x65;&#x61;&#x74;&#x20;&#x6f;&#x66;&#x20;&#x74;&#x68;&#x65;&#x6d;&#x20;&#x69;&#x6e;&#x20;&#x74;&#x68;&#x65;&#x20;&#x77;&#x69;&#x6e;&#x74;&#x65;&#x72;&#x20;&#x74;&#x69;&#x6d;&#x65;&#x2e;</li>
 </ul>
 </ul>
@@ -5891,8 +5361,10 @@ From {{etyl|frm}} {{term|pompon|lang=frm}}, from {{etyl|la}} {{term|pepo|&#x70;&
 <ul><li> {{color panel|FF7518}}</li>
 </ul>
 <li> {Australia} Any of a number of <a href="qd::cultivar">cultivar</a>s from the genus <em><a href="qd::Cucurbita">Cucurbita</a></em>; <em>known in the US as <a href="qd::winter squash">winter squash</a></em>.</li>
-<li> {US} A <a href="qd::term of endearment">term of endearment</a> for someone <a href="qd::small">small</a> and <a href="qd::cute">cute</a>.</li>
-<ul><li>  John Prine, <em>&#x44;&#x61;&#x64;&#x64;&#x79;&#x2019;&#x73;&#x20;&#x4c;&#x69;&#x74;&#x74;&#x6c;&#x65;&#x20;<b>Pumpkin</b></em>&#x3a;&#x20;&#x59;&#x6f;&#x75;&#x20;&#x6d;&#x75;&#x73;&#x74;&#x20;&#x62;&#x65;&#x20;&#x64;&#x61;&#x64;&#x64;&#x79;&#x2019;&#x73;&#x20;&#x6c;&#x69;&#x74;&#x74;&#x6c;&#x65;&#x20;<b>pumpkin</b>.</li>
+<li> {US} {{non-gloss definition|A <a href="qd::term of endearment">term of endearment</a> for someone <a href="qd::small">small</a> and <a href="qd::cute">cute</a>.}}</li>
+<ul><li> <b>1991</b>, John Prine, Pat McLaughlin, <em>&#x44;&#x61;&#x64;&#x64;&#x79;&#x2019;&#x73;&#x20;&#x4c;&#x69;&#x74;&#x74;&#x6c;&#x65;&#x20;<b>Pumpkin</b></em> (song), <em>The Missing Years (album)</em>:</li>
+<ul><li>&#x20;&#x59;&#x6f;&#x75;&#x20;&#x6d;&#x75;&#x73;&#x74;&#x20;&#x62;&#x65;&#x20;&#x64;&#x61;&#x64;&#x64;&#x79;&#x2019;&#x73;&#x20;&#x6c;&#x69;&#x74;&#x74;&#x6c;&#x65;&#x20;<b>pumpkin</b>.</li>
+</ul>
 </ul>
 </ol>
 
@@ -5908,8 +5380,6 @@ From {{etyl|frm}} {{term|pompon|lang=frm}}, from {{etyl|la}} {{term|pepo|&#x70;&
 See also HtmlEntry:book
 ===punt===
 See also HtmlEntry:pound
-===pursue===
-See also HtmlEntry:dog
 ===puss===
 See also HtmlEntry:cat
 ===pussy===
@@ -5955,8 +5425,9 @@ From {{etyl|la|en}} : &quot;what for what&quot; . See <a href="qd::quid">quid</a
 <ul><li> {{sense|an equal exchange}} <a href="qd::barter">barter</a>, <a href="qd::swap">swap</a>, <a href="qd::swop">swop</a>, <a href="qd::trade">trade</a></li>
 </ul>
 
-<h4>Related</h4>
+<h4>See also</h4>
 <ul><li> <a href="qd::tit for tat">tit for tat</a></li>
+<li> <a href="qd::you scratch my back and I'll scratch yours">you scratch my back and I'll scratch yours</a></li>
 </ul>
 >>>
 ===quite===
@@ -5992,7 +5463,7 @@ HtmlEntry: raven <<<A raven (bird).
 </ul>
 
 <h3>Etymology 1</h3>
-{{etyl|ang}} {{term|hr&aelig;fn|lang=ang}}, from {{proto|Germanic|hrabnaz}} (compare {{etyl|nl|-}} {{term|raaf|lang=nl}}, {{etyl|de|-}} {{term|Rabe|lang=de}}, {{etyl|da|-}} {{term|ravn|lang=da}}), from {{proto|Indo-European|&#x1e31;&#x6f;&#x72;&#x68;&#x2082;&#x2d;}} (compare {{etyl|mga|-}} {{term|cr&uacute;|lang=mga}}, {{etyl|la|-}}  {{term|corvus|lang=la}}, {{etyl|lt|-}} {{term|&#x161;&#xe1;&#x72;&#x6b;&#x61;|lang=lt}}&#x20;&#x2018;&#x6d;&#x61;&#x67;&#x70;&#x69;&#x65;&#x2019;&#x2c;&#x20;&#x53;&#x65;&#x72;&#x62;&#x6f;&#x2d;&#x43;&#x72;&#x6f;&#x61;&#x74;&#x69;&#x61;&#x6e;&#x20;{{term|&#x73;&#x76;&#x72;&#x201;&#x6b;&#x61;}}&#x20;&#x2018;&#x69;&#x64;&#x2e;&#x2019;&#x2c;&#x20;{{etyl|grc|-}} {{term|&#x3ba;&#x3cc;&#x3c1;&#x3b1;&#x3be;|tr=k&oacute;rax|sc=polytonic|lang=grc}}), from {{proto|Indo-European|&#x1e31;&#x65;&#x72;|&#x1e31;&#x6f;&#x72;|title=}} (compare {{etyl|la|-}} {{term|crepare|lang=la}}&#x20;&#x2018;&#x74;&#x6f;&#x20;&#x63;&#x72;&#x65;&#x61;&#x6b;&#x2c;&#x20;&#x63;&#x72;&#x61;&#x63;&#x6b;&#x2019;&#x2c;&#x20;{{etyl|sa|-}} {{term|&#x6b;&#x1e5b;&#x301;&#x70;&#x61;&#x74;&#x113;}}&#x20;&#x2018;&#x68;&#x65;&#x20;&#x6c;&#x61;&#x6d;&#x65;&#x6e;&#x74;&#x73;&#x2c;&#x20;&#x69;&#x6d;&#x70;&#x6c;&#x6f;&#x72;&#x65;&#x73;&#x2019;&#x29;&#x2e;
+{{etyl|ang}} {{term|hr&aelig;fn|lang=ang}}, from {{proto|Germanic|hrabnaz}} (compare {{etyl|nl|-}} {{term|raaf|lang=nl}}, {{etyl|de|-}} {{term|Rabe|lang=de}}, {{etyl|da|-}} {{term|ravn|lang=da}}), from {{proto|Indo-European|&#x1e31;&#x6f;&#x72;&#x68;&#x2082;&#x2d;}} (compare {{etyl|mga|-}} {{term|cr&uacute;|lang=mga}}, {{etyl|la|-}}  {{term|corvus|lang=la}}, {{etyl|lt|-}} {{term|&#x161;&#xe1;&#x72;&#x6b;&#x61;|magpie|lang=lt}}, Serbo-Croatian {{term|&#x73;&#x76;&#x72;&#x201;&#x6b;&#x61;}}&#x20;&#x2018;&#x69;&#x64;&#x2e;&#x2019;&#x2c;&#x20;{{etyl|grc|-}} {{term|&#x3ba;&#x3cc;&#x3c1;&#x3b1;&#x3be;|tr=k&oacute;rax|sc=polytonic|lang=grc}}), from {{proto|Indo-European|&#x1e31;&#x65;&#x72;|&#x1e31;&#x6f;&#x72;|title=}} (compare {{etyl|la|-}} {{term|crepare|lang=la}}&#x20;&#x2018;&#x74;&#x6f;&#x20;&#x63;&#x72;&#x65;&#x61;&#x6b;&#x2c;&#x20;&#x63;&#x72;&#x61;&#x63;&#x6b;&#x2019;&#x2c;&#x20;{{etyl|sa|-}} {{term|&#x6b;&#x1e5b;&#x301;&#x70;&#x61;&#x74;&#x113;|he laments, implores}}).
 <h4>Noun</h4>
 {en-noun}
 <ol><li> A common name for several, generally large and lustrous black species of <a href="qd::bird">bird</a>s in the genus <em><a href="qd::Corvus">Corvus</a></em>, especially the <a href="qd::common raven">common raven</a>, <em>Corvus corax</em>.</li>
@@ -6006,11 +5477,14 @@ HtmlEntry: raven <<<A raven (bird).
 <li> <em>She was a tall, sophisticated, raven-haired beauty.</em></li>
 </ul>
 </ol>
-
+<a href="qd::category:en:Colors">category:en:Colors</a><a href="qd::category:en:Blacks">category:en:Blacks</a>
 <h5>Derived terms</h5>
 <ul><li> <a href="qd::raven-black">raven-black</a></li>
 <li> <a href="qd::raven-haired">raven-haired</a></li>
 <li> <a href="qd::raven standard">raven standard</a></li>
+<li> <a href="qd::ravenous">ravenous</a></li>
+<li> <a href="qd::ravenously">ravenously</a></li>
+<li> <a href="qd::ravenousness">ravenousness</a></li>
 </ul>
 
 <h3>Etymology 2</h3>
@@ -6116,8 +5590,6 @@ HtmlEntry: Saturday <<<
 <ul><li> {{list|en|days of the week}}</li>
 </ul>
 >>>
-===scoundrel===
-See also HtmlEntry:dog
 ===scrupulous===
 See also HtmlEntry:minute
 ===sec===
@@ -6138,8 +5610,8 @@ HtmlEntry: semantics <<<
 <ul><li> <b><em>Semantics</b> is a foundation of lexicography.</em></li>
 </ul>
 <li> The study of the relationship between words and their meanings.</li>
-<ul><li> <b>2006</b>, Patrick Blackburn &middot; Johan Bos &middot; Kristina Striegnitz, <em>[http://www.learnprolognow.org/lpnpage.php?pagetype=html&amp;pageid=lpn-htmlse32 Learn Prolog Now!]</em>, &amp;sect;8.1</li>
-<ul><li> <em>Extra arguments can also be used to build semantic representations. Now, we did not say anything about what the words in our little DCG mean. In fact, nowadays a lot is known about the <a href="qd::semantics">semantics</a> of natural languages, and it is surprisingly easy to build semantic representations which partially capture the meaning of sentences or even entire discourses. Such representations are usually expressions of some formal language (for example first-order logic, discourse representation structures, or a database query language) and they are usually built up compositionally. That is, the meaning of each word is expressed in the formal language; this meaning is given as an extra argument in the DCG entries for the individual words. Then, for each rule in the grammar, an extra argument shows how to combine the meaning of the two subcomponents. For example, to the rule s  --&gt;  np,  vp we would add an extra argument stating how to combine the np meaning and the vp meaning to form the s meaning. Although somewhat more complex, the semantic construction process is quite like the way we built up the parse tree for the sentence from the parse tree of its subparts.&lt;sup&gt;1&lt;/sup&gt;</em></li>
+<ul><li> <b>2006</b>, Patrick Blackburn, Johan Bos, and Kristina Striegnitz, <em>[http://www.learnprolognow.org/lpnpage.php?pagetype=html&amp;pageid=lpn-htmlse32 Learn Prolog Now!]</em>, section 8.1:</li>
+<ul><li> In fact, nowadays a lot is known about the <b>semantics</b> of natural languages, and it is surprisingly easy to build semantic representations which partially capture the meaning of sentences or even entire discourses.</li>
 </ul>
 </ul>
 <li> The individual meanings of words, as opposed to the overall meaning of a passage.</li>
@@ -6252,7 +5724,7 @@ HtmlEntry: sesquipedalianism <<<
 Surface form analyzed as {{suffix|sesquipedalian|ism}}, from {{prefix|sesqui|pedalian|t1=one and a half|t2=of the foot}}.From {{etyl|la}} {{term|sesquipedalis|a foot and a half long; in <a href="qd::metaphorical">metaphorical</a>&#x20;&#x75;&#x73;&#x65;&#x2c;&#x20;&#x201c;&#x6f;&#x66;&#x20;&#x61;&#x6e;&#x20;&#x75;&#x6e;&#x6e;&#x61;&#x74;&#x75;&#x72;&#x61;&#x6c;&#x20;&#x6c;&#x65;&#x6e;&#x67;&#x74;&#x68;&#x2c;&#x20;&#x68;&#x75;&#x67;&#x65;&#x2c;&#x20;&#x62;&#x69;&#x67;&#x201d;|lang=la}}, from {{term|sesqui|one and a half times as great|lang=la}} + {{term|pedalis|foot|lang=la}}.&lt;ref&gt;From <em>A New and Copious Lexicon of the Latin Language</em>, Compiled Chiefly from the Magnum Totius Latinitatis Lexicon of Facciolati and Forcellini, and the German Works of Scheller and Luenemann<em>, edited by F. P. Leverett, Wilkins, Carter &amp; Co., Boston, 1849.&lt;/ref&gt;
 <h3>Pronunciation</h3>
 <ul><li> {{a|UK}} IPA: &#x2f;&#x73;&#x25b;&#x7a;&#x2e;&#x6b;&#x77;&#x26a;&#x2e;&#x70;&#x259;&#x2c8;&#x64;&#x25b;&#x6c;&#x2e;&#x69;&#x2e;&#x259;&#x6e;&#x2e;&#x26a;&#x73;&#x6d;&#x329;&#x2f;, {{X-SAMPA|1=/sEz.kwI.p@&quot;dEk.i.@n.Ism=/}}</li>
-<li> {{a|US}} IPA: &#x2f;&#x2cc;&#x283;&#x25b;&#x73;&#x2e;&#x6b;&#x77;&#x26a;&#x2e;&#x70;&#x25b;&#x2c8;&#x64;&#x251;&#x26b;&#x2e;&#x69;&#x2e;&#x251;&#x6e;&#x2e;&#x26a;&#x73;&#x6d;&#x329;&#x2f;, {{X-SAMPA|[%SEs.kwI.pE.&quot;dA5.i.An.Is'm]}}</li>
+<li> {{a|US}} IPA: &#x2f;&#x2cc;&#x73;&#x25b;&#x73;&#x6b;&#x77;&#x259;&#x70;&#x259;&#x2c8;&#x64;&#x65;&#x26a;&#x6c;&#x69;&#x259;&#x6e;&#x26a;&#x7a;&#x6d;&#x329;&#x2f;, {{X-SAMPA|[%sEs.kw@.p@.&quot;deIl.i.@n.Izm{=}]}}</li>
 <li> {{audio|en-us-sesquipedalianism.ogg|Audio (US)}}</li>
 </ul>
 
@@ -6300,8 +5772,6 @@ See also HtmlEntry:march
 See also HtmlEntry:cat
 ===Smilodontini===
 See also HtmlEntry:cat
-===soldier===
-See also HtmlEntry:dog
 ===spate===
 See also HtmlEntry:deal
 ===speech===
@@ -6382,15 +5852,14 @@ HtmlEntry: Sunday <<<
 <ul><li> {{enPR|&#x73;&#x16d;&#x6e;&#x2b9;&#x64;&#x101;}}, IPA: &#x2f;&#x2c8;&#x73;&#x28c;&#x6e;&#x64;&#x65;&#x26a;&#x2f;, {{X-SAMPA|/&quot;sVndeI/}} <em>or</em> {{enPR|&#x73;&#x16d;&#x6e;&#x2b9;&#x64;&#x113;}}, IPA: &#x2f;&#x2c8;&#x73;&#x28c;&#x6e;&#x64;&#x69;&#x2f;, {{X-SAMPA|/&quot;sVndi/}}</li>
 <li> {{audio|en-us-Sunday.ogg|Audio (US)}}</li>
 <li> {{audio|En-uk-Sunday.ogg|Audio (UK)}}</li>
-<ul><li> {{rhymes|&#x28c;&#x6e;&#x64;&#x65;&#x26a;}}, {{rhymes|&#x28c;&#x6e;&#x64;&#x69;}}</li>
-</ul>
+<li> {{rhymes|&#x28c;&#x6e;&#x64;&#x65;&#x26a;}}, {{rhymes|&#x28c;&#x6e;&#x64;&#x69;}}</li>
 <li> {{homophones|sundae}}</li>
 </ul>
 
 <h3>Noun</h3>
 {{en-noun|Sundays}}
 <ol><li> The seventh day of the week in systems using the ISO 8601 standard, or the first <a href="qd::day">day</a> of the <a href="qd::week">week</a> in many religious traditions. The <a href="qd::Sabbath">Sabbath</a> for most <a href="qd::Christian">Christian</a>s; it follows <a href="qd::Saturday">Saturday</a> and precedes <a href="qd::Monday">Monday</a>.</li>
-<ul><li>{{quote-news|year=2012|date=June 19|author=Phil McNulty|title=England 1-0 Ukraine|work=BBC Sport|url=http://www.bbc.co.uk/sport/0/football/18181971|page=|passage=And after missing a simple header in the first half, the Manchester United striker ensured England topped Group D to set up a quarter-final meeting with Italy in Kiev on <b>Sunday</b>.}}</li>
+<ul><li> {{quote-news|year=2012|date=June 19|author=Phil McNulty|title=England 1-0 Ukraine|work=BBC Sport|url=http://www.bbc.co.uk/sport/0/football/18181971|page=|passage=And after missing a simple header in the first half, the Manchester United striker ensured England topped Group D to set up a quarter-final meeting with Italy in Kiev on <b>Sunday</b>.}}</li>
 </ul>
 </ol>
 
@@ -6662,10 +6131,7 @@ See also HtmlEntry:antonym
 See also HtmlEntry:thesaurus
 ===t===
 See also HtmlEntry:pound
-===tag===
-See also HtmlEntry:dog
 ===tail===
-See also HtmlEntry:dog
 See also HtmlEntry:head
 ===teem===
 See also HtmlEntry:rain cats and dogs
@@ -6792,15 +6258,13 @@ See also HtmlEntry:cat
 See also HtmlEntry:head
 ===trace===
 See also HtmlEntry:minute
-===track===
-See also HtmlEntry:dog
 ===trade===
 HtmlEntry: trade <<<{{wikipedia|trade|dab=trade (disambiguation)}}
 <h3>Etymology</h3>
 From {{etyl|enm|en}} {{term|trade|path, course of conduct|lang=enm}}, cognate with {{etyl|ang}} {{term|tredan|tread|lang=ang}}; See [http://www.etymonline.com/index.php?search=trade&amp;searchmode=none Online Etymology Dictionary]
 <h3>Pronunciation</h3>
 <ul><li> {{audio|En-uk-trade.ogg|Audio (UK)}}</li>
-<li> IPA: &#x2f;&#x74;&#x279;&#x65;&#x26a;&#x64;&#x2f;, {{X-SAMPA|/'treId/}}</li>
+<li> IPA: &#x2f;&#x74;&#x279;&#x65;&#x26a;&#x64;&#x2f;, {{X-SAMPA|/tr`eId/}}</li>
 <li> {{audio|en-us-trade.ogg|Audio (US)}}</li>
 <li> {{rhymes|&#x65;&#x26a;&#x64;}}</li>
 </ul>
@@ -6812,7 +6276,7 @@ From {{etyl|enm|en}} {{term|trade|path, course of conduct|lang=enm}}, cognate wi
 <ul><li> <em>I did no <b>trades</b> with them once the rumors started.</em></li>
 </ul>
 <li> {countable} An instance of <a href="qd::barter">barter</a>ing items in <a href="qd::exchange">exchange</a> for one another.</li>
-<ul><li> <b>1989</b>, Bruce Pandolfini, <em>Chess Openings: Traps and Zaps</em>, ISBN 0671656902, &quot;Glossary&quot; section, page 225&amp;nbsp;[http://books.google.com/books?id=pocVITTr8tMC&amp;pg=PA225&amp;dq=trade]:</li>
+<ul><li> <b>1989</b>, {{w|Bruce Pandolfini}}, <em>Chess Openings: Traps and Zaps</em>, ISBN 0671656902, &quot;Glossary&quot; section, page 225&amp;nbsp;[http://books.google.com/books?id=pocVITTr8tMC&amp;pg=PA225&amp;dq=trade]:</li>
 <ul><li>&#x20;&#x45;&#x58;&#x43;&#x48;&#x41;&#x4e;&#x47;&#x45;&#x20;&#x2014;&#x20;&#x41;&#x20;<b>trade</b> or swap of no material profit to either side.</li>
 </ul>
 <li> <b>2009</b>, Elliott Kalb and Mark Weinstein, <em>The 30 Greatest Sports Conspiracy Theories of All Time</em>, ISBN 9781602396784, page 60&amp;nbsp;[http://books.google.com/books?id=nQd8MHuaXysC&amp;pg=PA60&amp;dq=trade]:</li>
@@ -6958,8 +6422,6 @@ See also HtmlEntry:swap
 See also HtmlEntry:quid pro quo
 See also HtmlEntry:craft
 See also HtmlEntry:deal
-See also HtmlEntry:business deal
-See also HtmlEntry:merchandise
 ===trade wind===
 HtmlEntry: trade wind <<<
 <h3>Alternative forms</h3>
@@ -6985,8 +6447,6 @@ HtmlEntry: trade wind <<<
 <ul><li> <a href="qd::easterly">easterly</a></li>
 </ul>
 >>>
-===trail===
-See also HtmlEntry:dog
 ===transaction===
 See also HtmlEntry:deal
 ===tremendous===
@@ -7059,7 +6519,7 @@ See also HtmlEntry:minute
 ===verb===
 HtmlEntry: verb <<<
 <h3>Etymology</h3>
-From {{etyl|fro|en}} {{term|verbe|lang=fro}}, from {{etyl|la|en}} {{term|verbum|word|lang=la}}, from {{proto|Indo-European|wer-}}.
+From {{etyl|fro}} {{term|verbe|lang=fro}}, from {{etyl|la}} {{term|verbum|word|lang=la}}, from {{proto|Indo-European|wer-}}.
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x76;&#x25c;&#x2d0;&#x28;&#x279;&#x29;&#x62;&#x2f;, {{X-SAMPA|/v3:(r\)b/}}</li>
 <li> {{audio|en-us-verb.ogg|Audio (US)}}</li>
@@ -7177,15 +6637,16 @@ HtmlEntry: wares <<<
 </ul>
 
 <h3>Noun</h3>
-{{head|en|noun}}
+<b>wares</b>
 <ol><li> {{plural of|ware}}</li>
-<li> {in the plural} <a href="qd::item">Items</a> that are for <a href="qd::sale">sale</a>.</li>
+<li> {plural only} <a href="qd::goods">Goods</a> or <a href="qd::service">service</a>s that are for <a href="qd::sale">sale</a>.</li>
 <ul><li> <em>The square was filled with booths, with vendors offering their <b>wares</b>.</em></li>
+<li> {{quote-journal|journal=D&aacute;il &Eacute;ireann|date=October 26|year=2011|title=Report of the Interdepartmental Working Committee on Mortgage Arrears|passage=I call on the Minister to ensure good regulation is applied to moneylenders and so-called independent money advisers, many of whom are former bankers peddling their <b>wares</b>}}</li>
 </ul>
 </ol>
 
-<h4>Synonyms</h4>
-<ul><li> <a href="qd::goods">goods</a>, <a href="qd::merchandise">merchandise</a>, <a href="qd::product">product</a>s</li>
+<h4>Hyponyms</h4>
+<ul><li> {{sense|goods for sale}} <a href="qd::merchandise">merchandise</a>, <a href="qd::product">product</a>s</li>
 </ul>
 
 <h3>See also</h3>
@@ -7198,7 +6659,7 @@ See also HtmlEntry:product
 HtmlEntry: Wednesday <<<{{wikipedia|wednesday|dab=wednesday (disambiguation)}}
 <h3>Etymology</h3>
 From {{etyl|enm}} {{term|Wednesdai|lang=enm}}, {{term|Wodnesdei|lang=enm}}, from {{etyl|ang}} {{term|wodnesd&aelig;g|&#x77;&#x14d;&#x64;&#x6e;&#x65;&#x73;&#x64;&#xe6;&#x121;|Wednesday|lang=ang}}, from a Germanic calque of {{etyl|la}} {{term|dies|day|lang=la}} {{term|Mercurii|of Mercurii|lang=la}} and Koine {{etyl|grc|-}} {{term|&#x1f21;&#x3bc;&#x3ad;&#x3c1;&#x3b1;|day|tr=hemera|lang=grc}} {{term|&#x1f1d;&#x3c1;&#x3bc;&#x3bf;&#x3c5;|of Hermes|lang=grc|tr=Hermou}}, via an association of the god <a href="qd::Odin">Odin</a> (Woden) with <a href="qd::Mercury">Mercury</a> and <a href="qd::Hermes">Hermes</a>.{{rel-top|additional etymological information}}
-<ul><li>Cognate with {{etyl|fy|-}} {{term|woansdei|Wednesday|lang=fy}}, {{etyl|nl|-}} {{term|woensdag|Wednesday|lang=nl}}, {{etyl|de|-}} dialectal {{term|Wodenstag|Wednesday|lang=de}}, {{etyl|da|-}} {{term|onsdag|Wednesday|lang=da}}, {{etyl|sv|-}} {{term|onsdag|Wednesday|lang=sv}}.</li>
+<ul><li> Cognate with {{etyl|fy|-}} {{term|woansdei|Wednesday|lang=fy}}, {{etyl|nl|-}} {{term|woensdag|Wednesday|lang=nl}}, {{etyl|de|-}} dialectal {{term|Wodenstag|Wednesday|lang=de}}, {{etyl|da|-}} {{term|onsdag|Wednesday|lang=da}}, {{etyl|sv|-}} {{term|onsdag|Wednesday|lang=sv}}.</li>
 </ul>
 
 <h3>Pronunciation</h3>
@@ -7250,7 +6711,6 @@ See also HtmlEntry:book
 ===whole===
 See also HtmlEntry:deal
 ===Wikisaurus===
-See also HtmlEntry:dog
 See also HtmlEntry:cat
 See also HtmlEntry:pound
 See also HtmlEntry:minute
@@ -7284,6 +6744,9 @@ From {{etyl|enm}} {{term|word|lang=enm}}, from {{etyl|ang|en}} {{term|word|word,
 <li> <b>1945</b>, Sebastian Haffner, <em>The Observer</em>, 1 Apr 1945:</li>
 <ul><li> &quot;The Kaiser laid down his arms at a quarter to twelve. In me, however, they have an opponent who ceases fighting only at five minutes past twelve,&quot; said Hitler some time ago. He has never spoken a truer <b>word</b>.</li>
 </ul>
+<li><b>2011</b>, {{w|David Bellos}}, <em>Is That a Fish in Your Ear?</em>, Penguin 2012, p. 126:</li>
+<ul><li>Despite appearances to the contrary [...] dragomans stuck rigidly to their brief, which was not to translate the Sultan's words, but his <b>word</b>.</li>
+</ul>
 </ul>
 <li> A <a href="qd::distinct">distinct</a>  <a href="qd::unit ">unit </a> of language (sounds in speech or written letters) with a particular <a href="qd::meaning">meaning</a>, composed of one or more <a href="qd::morpheme">morpheme</a>s, and also of one or more <a href="qd::phoneme">phoneme</a>s that <a href="qd::determine">determine</a> its sound <a href="qd::pattern">pattern</a>. {{defdate|from 10th c.}}</li>
 <ul><li> {RQ:Shakespeare Hamlet}, II.ii</li>
@@ -7301,6 +6764,9 @@ From {{etyl|enm}} {{term|word|lang=enm}}, from {{etyl|ang|en}} {{term|word|word,
 </ul>
 <li> <a href="qd::news">News</a>; <a href="qd::tidings">tidings</a>. {{defdate|from 10th c.}}</li>
 <ul><li> <em>Have you had any <b>word</b> from John yet?</em></li>
+<li> {{RQ:Orwell Animal Farm|1}}</li>
+<ul><li> <b>Word</b> had gone round during the day that old Major, the prize Middle White boar, had had a strange dream on the previous night and wished to communicate it to the other animals.</li>
+</ul>
 </ul>
 <li> An <a href="qd::order">order</a>; a <a href="qd::request">request</a> or <a href="qd::instruction">instruction</a>. {{defdate|from 10th c.}}</li>
 <ul><li> <em>He sent <b>word</b> that we should strike camp before winter.</em></li>
@@ -7388,7 +6854,7 @@ From {{etyl|enm}} {{term|word|lang=enm}}, from {{etyl|ang|en}} {{term|word|word,
 <li> <a href="qd::famous last words">famous last words</a></li>
 <li> <a href="qd::fighting word">fighting word</a> / <a href="qd::fighting words">fighting words</a></li>
 <li> <a href="qd::foreword">foreword</a></li>
-<li> ||frankenword]]</li>
+<li> <a href="qd::frankenword">frankenword</a></li>
 <li> <a href="qd::function word">function word</a></li>
 <li> <a href="qd::hard word">hard word</a></li>
 <li> <a href="qd::have words">have words</a></li>
@@ -7410,9 +6876,9 @@ From {{etyl|enm}} {{term|word|lang=enm}}, from {{etyl|ang|en}} {{term|word|word,
 <li> <a href="qd::watchword">watchword</a></li>
 <li> <a href="qd::word-building">word-building</a></li>
 <li> <a href="qd::word for word">word for word</a></li>
+<li> <a href="qd::word game">word game</a></li>
 </ul>
-<ul><li> <a href="qd::word game">word game</a></li>
-<li> <a href="qd::wordish">wordish</a></li>
+<ul><li> <a href="qd::wordish">wordish</a></li>
 <li> <a href="qd::wordless">wordless</a></li>
 <li> <a href="qd::word order">word order</a></li>
 <li> <a href="qd::word of god">word of god</a></li>
@@ -7426,6 +6892,7 @@ From {{etyl|enm}} {{term|word|lang=enm}}, from {{etyl|ang|en}} {{term|word|word,
 <li> <a href="qd::word-wheeling">word-wheeling</a></li>
 <li> <a href="qd::wordplay">wordplay</a></li>
 <li> <a href="qd::wordpool">wordpool</a></li>
+<li> <a href="qd::words of one syllable">words of one syllable</a></li>
 <li> <a href="qd::wordy">wordy</a></li>
 </ul>
 

@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.chinese 1491
+EntrySource: enwiktionary.chinese 1499
 
 Index: ZH ZH->EN
 ===3===
@@ -415,9 +415,10 @@ Index: ZH ZH->EN
     我被他气得什么似的, 他根本就没有在听我说话. :: --
     I am so indescribably livid with him :: he isn't even listening to what I am saying. (literally: I am angered by him like whatever - he isn't at all listening to my speaking)
 ***假***
-  假 {{cmn-hanzi|pin=jià (jia4)|wg=chia<sup>4</sup>}} :: Compounds:
-    假借 :: --
+  假 {{cmn-hanzi|pin=jiǎ (jia3), jià (jia4)}} :: Compounds:
     暑假 :: --
+    假借 :: --
+    假话 :: --
 ===jiào===
   我又要叫你和女人彼此为仇。你的后裔和女人的后裔也彼此为仇。女人的后裔要伤你的头，你要伤他的脚跟。 :: --
     Wǒ yòu yào jiào nǐ hé nǚrén bǐcǐ wéi chóu . nǐde hòuyì hé nǚrén de hòuyì yĕ bǐcǐ wéi chóu . nǚrén de hòuyì yào shāng nǐde tóu , nǐ yào shāng tāde jiǎogēn . :: And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.
@@ -1437,7 +1438,7 @@ Index: ZH ZH->EN
     我父亲信佛教。 (simp.) :: My father is a Buddhist.
   信 {{cmn-adv|ts|pin=xìn|pint=xin4|rs=人07}} :: at will
     信口雌黃 (xìnkǒucíhuáng) :: --
-  信 {{cmn-adv|ts|pin=xìn|pint=xin4|rs=人07}} :: {{senseid|cmn|truly}}truly; indeed
+  信 {{cmn-adv|ts|pin=xìn|pint=xin4|rs=人07}} :: {{senseid|cmn|truly}} truly; indeed
   信 {{cmn-noun|ts|pin=xìn|pint=xin4|rs=人07}} :: letter
   信 {{cmn-noun|ts|pin=xìn|pint=xin4|rs=人07}} :: information
     信息 (xìnxī) :: --
@@ -1445,6 +1446,30 @@ Index: ZH ZH->EN
     信任 (xìnrèn) :: --
   信 {{cmn-noun|ts|pin=xìn|pint=xin4|rs=人07}} :: evidence
     信物 (xìnwù) :: --
+===xìnkǒucíhuáng===
+  信 {{cmn-adv|ts|pin=xìn|pint=xin4|rs=人07}} :: at will
+    信口雌黃 (xìnkǒucíhuáng) :: --
+===信口雌黃===
+  信 {{cmn-adv|ts|pin=xìn|pint=xin4|rs=人07}} :: at will
+    信口雌黃 (xìnkǒucíhuáng) :: --
+===xìnrèn===
+  信 {{cmn-noun|ts|pin=xìn|pint=xin4|rs=人07}} :: trust
+    信任 (xìnrèn) :: --
+===信任===
+  信 {{cmn-noun|ts|pin=xìn|pint=xin4|rs=人07}} :: trust
+    信任 (xìnrèn) :: --
+===xìnwù===
+  信 {{cmn-noun|ts|pin=xìn|pint=xin4|rs=人07}} :: evidence
+    信物 (xìnwù) :: --
+===信物===
+  信 {{cmn-noun|ts|pin=xìn|pint=xin4|rs=人07}} :: evidence
+    信物 (xìnwù) :: --
+===xìnxī===
+  信 {{cmn-noun|ts|pin=xìn|pint=xin4|rs=人07}} :: information
+    信息 (xìnxī) :: --
+===信息===
+  信 {{cmn-noun|ts|pin=xìn|pint=xin4|rs=人07}} :: information
+    信息 (xìnxī) :: --
 ***丫***
   丫 {{cmn-noun|ts|pin=yā|pint=ya1|rs=丨02}} :: bifurcation
   丫 {{cmn-noun|ts|pin=yā|pint=ya1|rs=丨02}} :: fork
@@ -1488,7 +1513,7 @@ Index: ZH ZH->EN
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
     曹雪琴《紅樓夢》(第一零七回)：“今日我們傳你來，有遵旨問你的事。” :: --
 ***一***
-  一 {{cmn-car-num|ts|pin=yī|pint=yi1|rs=一00}} :: one
+  一 {{cmn-car-num|ts|pin=yī|pint=yi1|rs=一00}} :: {cardinal} one
   一 {{cmn-car-num|ts|pin=yī|pint=yi1|rs=一00}} :: Wubi Xing: ggll
   一 {{cmn-car-num|ts|pin=yī|pint=yi1|rs=一00}} :: Wubi Hua: 1
   一 {{cmn-car-num|ts|pin=yī|pint=yi1|rs=一00}} :: Quwei: 5027
@@ -1613,12 +1638,12 @@ Index: ZH ZH->EN
     樹下, 树下 (shùxià) :: under the tree
     在些個條件下, 在这些条件下 (zài zhèxiē tiáojiàn xià) :: under these conditions
 ***之***
-  之 (pinyin zhī) :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
+  之 {{cmn-particle|ts|pin=zhī|pint=zhi1|rs=丿03}} :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
     [http://wordproject.org/multi/bi_en_cn_py.htm 1John 1.1] :: --
     论到从起初原有的生命之道，就是我们所听见所看见，亲眼看过，亲手摸过的。 :: --
     Lùndào cóng qǐchū yuányǒu de shēngmìng zhī dào, jiù shì wǒmen suǒ tīngjiàn suǒ kànjiàn de, qīnyǎn kànguo, qīnshǒu mōguo de. :: --
     That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life; :: --
-  之 (pinyin zhī) :: it (classical), same as 它 (tā).
+  之 {{cmn-particle|ts|pin=zhī|pint=zhi1|rs=丿03}} :: it (classical), same as 它 (tā).
 ***中***
   中 {{cmn-prep|ts|pin=zhōng|pint=zhong1|rs=丨03}} :: In the middle.
   中 {{cmn-verb|ts|pin=zhòng|pint=zhong4|rs=丨03}} :: To accomplish.
@@ -2028,7 +2053,7 @@ Index: EN EN->ZH
 ===bun===
   倭 {{cmn-adj|ts|pin=wēi|pint=wei1|rs=人08}}{{cmn-adj|ts|pin=wǒ|pint=wo3|rs=人08}} :: {archaic} describes a hairstyle for women that was popular during the Han Dynasty in which the hair was gathered up in a lopsided bun.
 ===but===
-  之 (pinyin zhī) :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
+  之 {{cmn-particle|ts|pin=zhī|pint=zhi1|rs=丿03}} :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
     [http://wordproject.org/multi/bi_en_cn_py.htm 1John 1.1] :: --
     论到从起初原有的生命之道，就是我们所听见所看见，亲眼看过，亲手摸过的。 :: --
     Lùndào cóng qǐchū yuányǒu de shēngmìng zhī dào, jiù shì wǒmen suǒ tīngjiàn suǒ kànjiàn de, qīnyǎn kànguo, qīnshǒu mōguo de. :: --
@@ -2170,7 +2195,7 @@ Index: EN EN->ZH
     下班 (xiàbān) :: to get off work
     下课 (xiàkè) :: to finish class
 ===classical===
-  之 (pinyin zhī) :: it (classical), same as 它 (tā).
+  之 {{cmn-particle|ts|pin=zhī|pint=zhi1|rs=丿03}} :: it (classical), same as 它 (tā).
 ===clear===
   白 {{cmn-adj|ts|pin=bái|pint=bai2|rs=白00}} :: {Beginning Mandarin} clear; pure; plain; blank
 ===cloth===
@@ -2192,7 +2217,7 @@ Index: EN EN->ZH
     耶和华说，谁告诉你赤身露体呢？莫非你吃了我吩咐你不可吃的那树上的果子吗？ :: --
     Yēhéhuá shuō , shuí gàosu nǐ chìshēnlòutǐ ne , mòfēi nǐ chī le wǒ fēnfu nǐ bùkĕ chī de nà shù shàng de guǒzi ma . :: And he said, Who told thee that thou wast naked? Hast thou eaten of the tree, whereof I commanded thee that thou shouldest not eat?
 ===common===
-  之 (pinyin zhī) :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
+  之 {{cmn-particle|ts|pin=zhī|pint=zhi1|rs=丿03}} :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
     [http://wordproject.org/multi/bi_en_cn_py.htm 1John 1.1] :: --
     论到从起初原有的生命之道，就是我们所听见所看见，亲眼看过，亲手摸过的。 :: --
     Lùndào cóng qǐchū yuányǒu de shēngmìng zhī dào, jiù shì wǒmen suǒ tīngjiàn suǒ kànjiàn de, qīnyǎn kànguo, qīnshǒu mōguo de. :: --
@@ -2212,9 +2237,10 @@ Index: EN EN->ZH
     死亡 :: --
   借 {{cmn-hanzi|pin=chāng (chang1), jiè (jie4)|wg=ch'ang<sup>1</sup>, chieh<sup>4</sup>}} :: Compounds:
     假借 :: --
-  假 {{cmn-hanzi|pin=jià (jia4)|wg=chia<sup>4</sup>}} :: Compounds:
-    假借 :: --
+  假 {{cmn-hanzi|pin=jiǎ (jia3), jià (jia4)}} :: Compounds:
     暑假 :: --
+    假借 :: --
+    假话 :: --
 ===conditions===
   下 {{cmn-prep|ts|pin=xià|pint=xià|rs=一02}} :: under
     樹下, 树下 (shùxià) :: under the tree
@@ -2268,13 +2294,13 @@ Index: EN EN->ZH
   似 {{cmn-adj|ts|pin=shì|pint=shi4|rs=人05}} :: usually used at the end of a sentence/subclause along with 的 (de) to show an emphasis on the adjective.; just like
     我被他气得什么似的, 他根本就没有在听我说话. :: --
     I am so indescribably livid with him :: he isn't even listening to what I am saying. (literally: I am angered by him like whatever - he isn't at all listening to my speaking)
-  之 (pinyin zhī) :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
+  之 {{cmn-particle|ts|pin=zhī|pint=zhi1|rs=丿03}} :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
     [http://wordproject.org/multi/bi_en_cn_py.htm 1John 1.1] :: --
     论到从起初原有的生命之道，就是我们所听见所看见，亲眼看过，亲手摸过的。 :: --
     Lùndào cóng qǐchū yuányǒu de shēngmìng zhī dào, jiù shì wǒmen suǒ tīngjiàn suǒ kànjiàn de, qīnyǎn kànguo, qīnshǒu mōguo de. :: --
     That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life; :: --
 ===的===
-  之 (pinyin zhī) :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
+  之 {{cmn-particle|ts|pin=zhī|pint=zhi1|rs=丿03}} :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
     [http://wordproject.org/multi/bi_en_cn_py.htm 1John 1.1] :: --
     论到从起初原有的生命之道，就是我们所听见所看见，亲眼看过，亲手摸过的。 :: --
     Lùndào cóng qǐchū yuányǒu de shēngmìng zhī dào, jiù shì wǒmen suǒ tīngjiàn suǒ kànjiàn de, qīnyǎn kànguo, qīnshǒu mōguo de. :: --
@@ -2485,7 +2511,7 @@ Index: EN EN->ZH
     我被他气得什么似的, 他根本就没有在听我说话. :: --
     I am so indescribably livid with him :: he isn't even listening to what I am saying. (literally: I am angered by him like whatever - he isn't at all listening to my speaking)
 ===English===
-  之 (pinyin zhī) :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
+  之 {{cmn-particle|ts|pin=zhī|pint=zhi1|rs=丿03}} :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
     [http://wordproject.org/multi/bi_en_cn_py.htm 1John 1.1] :: --
     论到从起初原有的生命之道，就是我们所听见所看见，亲眼看过，亲手摸过的。 :: --
     Lùndào cóng qǐchū yuányǒu de shēngmìng zhī dào, jiù shì wǒmen suǒ tīngjiàn suǒ kànjiàn de, qīnyǎn kànguo, qīnshǒu mōguo de. :: --
@@ -2528,7 +2554,7 @@ Index: EN EN->ZH
   下 {{cmn-verb|ts|pin=xià|pint=xià|rs=一02}} :: used after a verb to express the separation of an object
   下 {{cmn-verb|ts|pin=xià|pint=xià|rs=一02}} :: used after a verb to express the end of an action
 ===expressions===
-  之 (pinyin zhī) :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
+  之 {{cmn-particle|ts|pin=zhī|pint=zhi1|rs=丿03}} :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
     [http://wordproject.org/multi/bi_en_cn_py.htm 1John 1.1] :: --
     论到从起初原有的生命之道，就是我们所听见所看见，亲眼看过，亲手摸过的。 :: --
     Lùndào cóng qǐchū yuányǒu de shēngmìng zhī dào, jiù shì wǒmen suǒ tīngjiàn suǒ kànjiàn de, qīnyǎn kànguo, qīnshǒu mōguo de. :: --
@@ -2611,7 +2637,7 @@ Index: EN EN->ZH
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===functions===
-  之 (pinyin zhī) :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
+  之 {{cmn-particle|ts|pin=zhī|pint=zhi1|rs=丿03}} :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
     [http://wordproject.org/multi/bi_en_cn_py.htm 1John 1.1] :: --
     论到从起初原有的生命之道，就是我们所听见所看见，亲眼看过，亲手摸过的。 :: --
     Lùndào cóng qǐchū yuányǒu de shēngmìng zhī dào, jiù shì wǒmen suǒ tīngjiàn suǒ kànjiàn de, qīnyǎn kànguo, qīnshǒu mōguo de. :: --
@@ -2695,7 +2721,7 @@ Index: EN EN->ZH
 ===happy===
   乐 Lè :: happy, cheerful
 ===has===
-  之 (pinyin zhī) :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
+  之 {{cmn-particle|ts|pin=zhī|pint=zhi1|rs=丿03}} :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
     [http://wordproject.org/multi/bi_en_cn_py.htm 1John 1.1] :: --
     论到从起初原有的生命之道，就是我们所听见所看见，亲眼看过，亲手摸过的。 :: --
     Lùndào cóng qǐchū yuányǒu de shēngmìng zhī dào, jiù shì wǒmen suǒ tīngjiàn suǒ kànjiàn de, qīnyǎn kànguo, qīnshǒu mōguo de. :: --
@@ -2848,7 +2874,7 @@ Index: EN EN->ZH
   侍 {{cmn-hanzi|pin=shì (shi4)|wg=shih<sup>4</sup>}} :: 侍候: shihou, to serve in a more respectul way with an implication of waiting (侯).
 ===In===
   中 {{cmn-prep|ts|pin=zhōng|pint=zhong1|rs=丨03}} :: In the middle.
-  之 (pinyin zhī) :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
+  之 {{cmn-particle|ts|pin=zhī|pint=zhi1|rs=丿03}} :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
     [http://wordproject.org/multi/bi_en_cn_py.htm 1John 1.1] :: --
     论到从起初原有的生命之道，就是我们所听见所看见，亲眼看过，亲手摸过的。 :: --
     Lùndào cóng qǐchū yuányǒu de shēngmìng zhī dào, jiù shì wǒmen suǒ tīngjiàn suǒ kànjiàn de, qīnyǎn kànguo, qīnshǒu mōguo de. :: --
@@ -2857,7 +2883,7 @@ Index: EN EN->ZH
   中文 {{cmn-proper noun|ts|pin=Zhōngwén|pint=zhong1wen2|rs=丨03}} :: The Chinese spoken language, including every dialects.
     nǐ shuō zhōngwén ma? (你說中文嗎？) "Do you speak Chinese?" :: --
 ===indeed===
-  信 {{cmn-adv|ts|pin=xìn|pint=xin4|rs=人07}} :: {{senseid|cmn|truly}}truly; indeed
+  信 {{cmn-adv|ts|pin=xìn|pint=xin4|rs=人07}} :: {{senseid|cmn|truly}} truly; indeed
 ===independent===
   氵 {{cmn-hanzi|pin=shuǐ (shui3)|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
 ===indicate===
@@ -2865,7 +2891,7 @@ Index: EN EN->ZH
     耶和华说，谁告诉你赤身露体呢？莫非你吃了我吩咐你不可吃的那树上的果子吗？ :: --
     Yēhéhuá shuō , shuí gàosu nǐ chìshēnlòutǐ ne , mòfēi nǐ chī le wǒ fēnfu nǐ bùkĕ chī de nà shù shàng de guǒzi ma . :: And he said, Who told thee that thou wast naked? Hast thou eaten of the tree, whereof I commanded thee that thou shouldest not eat?
 ===Indicates===
-  之 (pinyin zhī) :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
+  之 {{cmn-particle|ts|pin=zhī|pint=zhi1|rs=丿03}} :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
     [http://wordproject.org/multi/bi_en_cn_py.htm 1John 1.1] :: --
     论到从起初原有的生命之道，就是我们所听见所看见，亲眼看过，亲手摸过的。 :: --
     Lùndào cóng qǐchū yuányǒu de shēngmìng zhī dào, jiù shì wǒmen suǒ tīngjiàn suǒ kànjiàn de, qīnyǎn kànguo, qīnshǒu mōguo de. :: --
@@ -2952,7 +2978,7 @@ Index: EN EN->ZH
     我被他气得什么似的, 他根本就没有在听我说话. :: --
     I am so indescribably livid with him :: he isn't even listening to what I am saying. (literally: I am angered by him like whatever - he isn't at all listening to my speaking)
   丝 {{cmn-noun|s|tra=絲|pin=sī|pint=si1|rs=一04}} :: a thread-like thing
-  之 (pinyin zhī) :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
+  之 {{cmn-particle|ts|pin=zhī|pint=zhi1|rs=丿03}} :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
     [http://wordproject.org/multi/bi_en_cn_py.htm 1John 1.1] :: --
     论到从起初原有的生命之道，就是我们所听见所看见，亲眼看过，亲手摸过的。 :: --
     Lùndào cóng qǐchū yuányǒu de shēngmìng zhī dào, jiù shì wǒmen suǒ tīngjiàn suǒ kànjiàn de, qīnyǎn kànguo, qīnshǒu mōguo de. :: --
@@ -3071,7 +3097,7 @@ Index: EN EN->ZH
   人造 {{cmn-noun|ts|pin=rénzào|pint=ren2zao4|rs=人00}} :: artificial; man-made
   人間 {{cmn-noun|t|pin=rénjīan|pint=ren2jian1|tra=人間|sim=人间|rs=人00}} :: man's world
 ===many===
-  之 (pinyin zhī) :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
+  之 {{cmn-particle|ts|pin=zhī|pint=zhi1|rs=丿03}} :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
     [http://wordproject.org/multi/bi_en_cn_py.htm 1John 1.1] :: --
     论到从起初原有的生命之道，就是我们所听见所看见，亲眼看过，亲手摸过的。 :: --
     Lùndào cóng qǐchū yuányǒu de shēngmìng zhī dào, jiù shì wǒmen suǒ tīngjiàn suǒ kànjiàn de, qīnyǎn kànguo, qīnshǒu mōguo de. :: --
@@ -3139,7 +3165,7 @@ Index: EN EN->ZH
 ===moon===
   月 {{cmn-noun|ts|pin=yuè|pint=yue4|rs=月00}} :: {Beginning Mandarin} moon
 ===more===
-  之 (pinyin zhī) :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
+  之 {{cmn-particle|ts|pin=zhī|pint=zhi1|rs=丿03}} :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
     [http://wordproject.org/multi/bi_en_cn_py.htm 1John 1.1] :: --
     论到从起初原有的生命之道，就是我们所听见所看见，亲眼看过，亲手摸过的。 :: --
     Lùndào cóng qǐchū yuányǒu de shēngmìng zhī dào, jiù shì wǒmen suǒ tīngjiàn suǒ kànjiàn de, qīnyǎn kànguo, qīnshǒu mōguo de. :: --
@@ -3208,7 +3234,7 @@ Index: EN EN->ZH
 ===next===
   下 {{cmn-adj|ts|pin=xià|pint=xià|rs=一02}} :: next
     下次 (xiàcì) :: next time
-  之 (pinyin zhī) :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
+  之 {{cmn-particle|ts|pin=zhī|pint=zhi1|rs=丿03}} :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
     [http://wordproject.org/multi/bi_en_cn_py.htm 1John 1.1] :: --
     论到从起初原有的生命之道，就是我们所听见所看见，亲眼看过，亲手摸过的。 :: --
     Lùndào cóng qǐchū yuányǒu de shēngmìng zhī dào, jiù shì wǒmen suǒ tīngjiàn suǒ kànjiàn de, qīnyǎn kànguo, qīnshǒu mōguo de. :: --
@@ -3384,7 +3410,7 @@ Index: EN EN->ZH
 ===position===
   位置 {{cmn-noun|ts|pin=wèizhi|pint=wei4zhi|rs=人05}} :: location; position; place
   丙 {{cmn-hanzi|pin=bǐng (bing3)|wg=ping<sup>3</sup>}} :: third position, third, number three
-  之 (pinyin zhī) :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
+  之 {{cmn-particle|ts|pin=zhī|pint=zhi1|rs=丿03}} :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
     [http://wordproject.org/multi/bi_en_cn_py.htm 1John 1.1] :: --
     论到从起初原有的生命之道，就是我们所听见所看见，亲眼看过，亲手摸过的。 :: --
     Lùndào cóng qǐchū yuányǒu de shēngmìng zhī dào, jiù shì wǒmen suǒ tīngjiàn suǒ kànjiàn de, qīnyǎn kànguo, qīnshǒu mōguo de. :: --
@@ -3392,19 +3418,19 @@ Index: EN EN->ZH
   似 {{cmn-adv|ts|pin=sì|pint=si4|rs=人05}} :: used in conjunction with another adjective in a comparison that the first object/person is in a better position than the second
     他的点子真多, 一个好似一个. :: He has so many ideas, each one better than the next.
 ===possessee===
-  之 (pinyin zhī) :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
+  之 {{cmn-particle|ts|pin=zhī|pint=zhi1|rs=丿03}} :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
     [http://wordproject.org/multi/bi_en_cn_py.htm 1John 1.1] :: --
     论到从起初原有的生命之道，就是我们所听见所看见，亲眼看过，亲手摸过的。 :: --
     Lùndào cóng qǐchū yuányǒu de shēngmìng zhī dào, jiù shì wǒmen suǒ tīngjiàn suǒ kànjiàn de, qīnyǎn kànguo, qīnshǒu mōguo de. :: --
     That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life; :: --
 ===possession===
-  之 (pinyin zhī) :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
+  之 {{cmn-particle|ts|pin=zhī|pint=zhi1|rs=丿03}} :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
     [http://wordproject.org/multi/bi_en_cn_py.htm 1John 1.1] :: --
     论到从起初原有的生命之道，就是我们所听见所看见，亲眼看过，亲手摸过的。 :: --
     Lùndào cóng qǐchū yuányǒu de shēngmìng zhī dào, jiù shì wǒmen suǒ tīngjiàn suǒ kànjiàn de, qīnyǎn kànguo, qīnshǒu mōguo de. :: --
     That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life; :: --
 ===possessor===
-  之 (pinyin zhī) :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
+  之 {{cmn-particle|ts|pin=zhī|pint=zhi1|rs=丿03}} :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
     [http://wordproject.org/multi/bi_en_cn_py.htm 1John 1.1] :: --
     论到从起初原有的生命之道，就是我们所听见所看见，亲眼看过，亲手摸过的。 :: --
     Lùndào cóng qǐchū yuányǒu de shēngmìng zhī dào, jiù shì wǒmen suǒ tīngjiàn suǒ kànjiàn de, qīnyǎn kànguo, qīnshǒu mōguo de. :: --
@@ -3427,7 +3453,7 @@ Index: EN EN->ZH
     這輛摩托車真NB，載了3個人還開這麼快。 (trad.) :: --
     这辆摩托车真NB，载了3个人还开这么快。 (simp.) :: This motorbike's frigging awesome. Even with three people it still goes pretty fast.
 ===previous===
-  之 (pinyin zhī) :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
+  之 {{cmn-particle|ts|pin=zhī|pint=zhi1|rs=丿03}} :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
     [http://wordproject.org/multi/bi_en_cn_py.htm 1John 1.1] :: --
     论到从起初原有的生命之道，就是我们所听见所看见，亲眼看过，亲手摸过的。 :: --
     Lùndào cóng qǐchū yuányǒu de shēngmìng zhī dào, jiù shì wǒmen suǒ tīngjiàn suǒ kànjiàn de, qīnyǎn kànguo, qīnshǒu mōguo de. :: --
@@ -3559,7 +3585,7 @@ Index: EN EN->ZH
     Yēhéhuá shén duì nǚrén shuō , nǐ zuò de shì shénme shì ne . nǚrén shuō , nà shé yǐnyòu wǒ , wǒ jiù chī le . :: And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
     曹雪琴《紅樓夢》(第一零七回)：“今日我們傳你來，有遵旨問你的事。” :: --
 ===same===
-  之 (pinyin zhī) :: it (classical), same as 它 (tā).
+  之 {{cmn-particle|ts|pin=zhī|pint=zhi1|rs=丿03}} :: it (classical), same as 它 (tā).
 ===sāndiǎnshuǐ===
   氵 {{cmn-hanzi|pin=shuǐ (shui3)|wg=<sup>3</sup>}} :: 三点水 (sāndiǎnshuǐ), a signific particle with no independent meaning, used in the construction of other characters.
 ===三点水===
@@ -3618,7 +3644,7 @@ Index: EN EN->ZH
   侍 {{cmn-hanzi|pin=shì (shi4)|wg=shih<sup>4</sup>}} :: 侍奉: shifeng, to serve.
   侍 {{cmn-hanzi|pin=shì (shi4)|wg=shih<sup>4</sup>}} :: 侍候: shihou, to serve in a more respectul way with an implication of waiting (侯).
 ===set===
-  之 (pinyin zhī) :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
+  之 {{cmn-particle|ts|pin=zhī|pint=zhi1|rs=丿03}} :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
     [http://wordproject.org/multi/bi_en_cn_py.htm 1John 1.1] :: --
     论到从起初原有的生命之道，就是我们所听见所看见，亲眼看过，亲手摸过的。 :: --
     Lùndào cóng qǐchū yuányǒu de shēngmìng zhī dào, jiù shì wǒmen suǒ tīngjiàn suǒ kànjiàn de, qīnyǎn kànguo, qīnshǒu mōguo de. :: --
@@ -3812,7 +3838,7 @@ Index: EN EN->ZH
   丁 {{cmn-noun|ts|pin=dīng|pint=ding1|rs= 一01}} :: a surname
   仝 {{cmn-hanzi|pin=tóng (tong2)|wg=t'ung<sup>2</sup>}} :: a surname
 ===switched===
-  之 (pinyin zhī) :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
+  之 {{cmn-particle|ts|pin=zhī|pint=zhi1|rs=丿03}} :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
     [http://wordproject.org/multi/bi_en_cn_py.htm 1John 1.1] :: --
     论到从起初原有的生命之道，就是我们所听见所看见，亲眼看过，亲手摸过的。 :: --
     Lùndào cóng qǐchū yuányǒu de shēngmìng zhī dào, jiù shì wǒmen suǒ tīngjiàn suǒ kànjiàn de, qīnyǎn kànguo, qīnshǒu mōguo de. :: --
@@ -3841,9 +3867,9 @@ Index: EN EN->ZH
     The same came for a witness, to bear witness of the Light, that all men through him might believe. :: --
     我才不信呢。 :: I don't believe it/you.
 ===tā===
-  之 (pinyin zhī) :: it (classical), same as 它 (tā).
+  之 {{cmn-particle|ts|pin=zhī|pint=zhi1|rs=丿03}} :: it (classical), same as 它 (tā).
 ===它===
-  之 (pinyin zhī) :: it (classical), same as 它 (tā).
+  之 {{cmn-particle|ts|pin=zhī|pint=zhi1|rs=丿03}} :: it (classical), same as 它 (tā).
 ===table===
   乒乓 {{cmn-noun|ts|pin=pīngpang|pint=ping1pang|rs=丿05}} :: table tennis, ping pong
 ===tablet===
@@ -4022,7 +4048,7 @@ Index: EN EN->ZH
     耶和华说，谁告诉你赤身露体呢？莫非你吃了我吩咐你不可吃的那树上的果子吗？ :: --
     Yēhéhuá shuō , shuí gàosu nǐ chìshēnlòutǐ ne , mòfēi nǐ chī le wǒ fēnfu nǐ bùkĕ chī de nà shù shàng de guǒzi ma . :: And he said, Who told thee that thou wast naked? Hast thou eaten of the tree, whereof I commanded thee that thou shouldest not eat?
 ===truly===
-  信 {{cmn-adv|ts|pin=xìn|pint=xin4|rs=人07}} :: {{senseid|cmn|truly}}truly; indeed
+  信 {{cmn-adv|ts|pin=xìn|pint=xin4|rs=人07}} :: {{senseid|cmn|truly}} truly; indeed
 ===trust===
   信 {{cmn-noun|ts|pin=xìn|pint=xin4|rs=人07}} :: trust
     信任 (xìnrèn) :: --
@@ -4074,7 +4100,7 @@ Index: EN EN->ZH
   下 {{cmn-verb|ts|pin=xià|pint=xià|rs=一02}} :: used after a verb to express the end of an action
   並 {{cmn-adv|t|pin=bìng|pint=bing4|tra=並|sim=并|rs=干05}} :: used before a negative for emphasis
     並非 :: --
-  之 (pinyin zhī) :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
+  之 {{cmn-particle|ts|pin=zhī|pint=zhi1|rs=丿03}} :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
     [http://wordproject.org/multi/bi_en_cn_py.htm 1John 1.1] :: --
     论到从起初原有的生命之道，就是我们所听见所看见，亲眼看过，亲手摸过的。 :: --
     Lùndào cóng qǐchū yuányǒu de shēngmìng zhī dào, jiù shì wǒmen suǒ tīngjiàn suǒ kànjiàn de, qīnyǎn kànguo, qīnshǒu mōguo de. :: --
@@ -4227,7 +4253,7 @@ Index: EN EN->ZH
   倭 {{cmn-adj|ts|pin=wēi|pint=wei1|rs=人08}}{{cmn-adj|ts|pin=wǒ|pint=wo3|rs=人08}} :: {archaic} describes a hairstyle for women that was popular during the Han Dynasty in which the hair was gathered up in a lopsided bun.
 ===word===
   马 (noun) :: measure word: 匹
-  之 (pinyin zhī) :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
+  之 {{cmn-particle|ts|pin=zhī|pint=zhi1|rs=丿03}} :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
     [http://wordproject.org/multi/bi_en_cn_py.htm 1John 1.1] :: --
     论到从起初原有的生命之道，就是我们所听见所看见，亲眼看过，亲手摸过的。 :: --
     Lùndào cóng qǐchū yuányǒu de shēngmìng zhī dào, jiù shì wǒmen suǒ tīngjiàn suǒ kànjiàn de, qīnyǎn kànguo, qīnshǒu mōguo de. :: --
@@ -4308,7 +4334,7 @@ Index: EN EN->ZH
 ===zero===
   〇 {{cmn-noun|ts|pin=líng|pint=ling2|rs=〇00}} :: zero
 ===之===
-  之 (pinyin zhī) :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
+  之 {{cmn-particle|ts|pin=zhī|pint=zhi1|rs=丿03}} :: Indicates that the previous word has possession of the next one. In English it functions like 's or like the word "of" but with the position of possessor and possessee switched. 的 (de) is more common but 之 is used in many set expressions.
     [http://wordproject.org/multi/bi_en_cn_py.htm 1John 1.1] :: --
     论到从起初原有的生命之道，就是我们所听见所看见，亲眼看过，亲手摸过的。 :: --
     Lùndào cóng qǐchū yuányǒu de shēngmìng zhī dào, jiù shì wǒmen suǒ tīngjiàn suǒ kànjiàn de, qīnyǎn kànguo, qīnshǒu mōguo de. :: --

@@ -1,5 +1,5 @@
 dictInfo=SomeWikiDataTrans2Trans
-EntrySource: wiktionary.de_fr.quickdic 1702
+EntrySource: wiktionary.de_fr.quickdic 1757
 
 Index: DE DE->FR
 ***Aar***
@@ -24,10 +24,14 @@ Index: DE DE->FR
   Abduktion {f} :: abduction {f}
 ***Abelmoschus***
   Abelmoschus :: ambrette {f}
+===aber===
+  allerdings, aber hallo :: absolument, mets-en
 ***aberrante***
   aberrante :: aberrant {m}
 ***abgerissen***
   abgerissen, abschüssig :: précipitamment
+***Abgrund***
+  Abgrund {m} :: précipice {m}, abysse {m}, abîme {m}, gouffre {m}
 ***Abiogenese***
   Abiogenese {f} :: abiogenèse {f}
 ***Abkommen***
@@ -145,6 +149,8 @@ Index: DE DE->FR
   alle, jedermann, jeder :: tout le monde, chacun
 ===allen===
   Bindfäden regnen, in Strömen regnen, aus allen Kannen gießen, aus allen Kannen schütten, wie aus Eimern schütten :: pleuvoir des cordes, pleuvoir à verse, pleuvoir des hallebardes, pleuvoir comme vache qui pisse, pleuvoir à boire debout, dracher
+***allerdings***
+  allerdings, aber hallo :: absolument, mets-en
 ***Alltag***
   Alltag {m} :: banalité {f}, quotidien {m}
 ***alltäglich***
@@ -206,6 +212,7 @@ Index: DE DE->FR
   auf :: sur
 ***aufgeben***
   aufgeben, verlassen :: abandonner
+  aufgeben, zurücklassen :: abandonner
 ***Aufhebung***
   Abschaffung {f}, Aufhebung {f} :: abolition {f}
 ***aufhetzen***
@@ -215,15 +222,17 @@ Index: DE DE->FR
   Moment {m}, Augenblick {m} :: instant {m}, moment {m}, seconde {f}
 ===aus===
   Bindfäden regnen, in Strömen regnen, aus allen Kannen gießen, aus allen Kannen schütten, wie aus Eimern schütten :: pleuvoir des cordes, pleuvoir à verse, pleuvoir des hallebardes, pleuvoir comme vache qui pisse, pleuvoir à boire debout, dracher
+***ausbeinen***
+  entbeinen, ausbeinen :: désosser
 ***Ausland***
   Ausland :: à l'étranger
   Ausland {n} :: l'étranger {m} (étranger)
 ***Ausländer***
   Fremdling {m}, Fremder {m}, Fremde {f}, Ausländer {m}, Ausländerin {f} :: étranger {m}, étrangère {f}
-  Ausländer {m}, Ausländerin {f} :: étranger {m}, étrangère {f}
+  Fremder {m}, Fremde {f}, Ausländer {m}, Ausländerin {f} :: étranger {m}, étrangère {f}
 ***Ausländerin***
   Fremdling {m}, Fremder {m}, Fremde {f}, Ausländer {m}, Ausländerin {f} :: étranger {m}, étrangère {f}
-  Ausländer {m}, Ausländerin {f} :: étranger {m}, étrangère {f}
+  Fremder {m}, Fremde {f}, Ausländer {m}, Ausländerin {f} :: étranger {m}, étrangère {f}
 ***Auslandsschuld***
   Auslandsschuld {f}, Auslandsverschuldung {f} :: dette extérieure {f}
 ***Auslandsverschuldung***
@@ -237,10 +246,10 @@ Index: DE DE->FR
 ***austeilen***
   austeilen, geben :: distribuer
 ***Avatar***
-  Avatar {m}, Avatara {m}, Herabkunft {f}, Inkarnation  {f} :: avatar {m}, incarnation
+  Avatar {m}, Avatara {m}, Herabkunft {f}, Inkarnation {f} :: avatar {m}, incarnation
   Avatar {m} :: avatar {m}, emblème, symbole
 ***Avatara***
-  Avatar {m}, Avatara {m}, Herabkunft {f}, Inkarnation  {f} :: avatar {m}, incarnation
+  Avatar {m}, Avatara {m}, Herabkunft {f}, Inkarnation {f} :: avatar {m}, incarnation
 ***Bahn***
   Eisenbahn {f}, Bahn {f} :: chemin de fer {m}
 ***Bauch***
@@ -269,6 +278,8 @@ Index: DE DE->FR
   Beobachtungsliste {f} :: liste de suivi {f}
 ***beschämen***
   beschämen :: confondre
+***beschämt***
+  beschämt, verlegen :: confus, décontenancé
 ***Betriebssystem***
   Betriebssystem {n} :: système d’exploitation {m}
 ***Bewährung***
@@ -280,9 +291,11 @@ Index: DE DE->FR
   Bier {n} :: bière {f}
 ***Billion***
   Billion :: billion
-  Billion :: billion, trillion
+  Billion {f} :: billion {m}, trillion {m}
 ===Bindfäden===
   Bindfäden regnen, in Strömen regnen, aus allen Kannen gießen, aus allen Kannen schütten, wie aus Eimern schütten :: pleuvoir des cordes, pleuvoir à verse, pleuvoir des hallebardes, pleuvoir comme vache qui pisse, pleuvoir à boire debout, dracher
+***BIP***
+  BIP :: PIB {m}
 ***Bit***
   Bit {n} :: bit {m}
 ***bitter***
@@ -338,10 +351,12 @@ Index: DE DE->FR
   Begriffserklärung {f}, Definition {f} :: définition {f}
   Definierung {f}, Definition {f} :: définition {f}
 ***Dekade***
+  Jahrzehnt {n}, Dekade {f} :: décennie {f}
   Dekade {f} :: dizaine, décade
 ===dem===
   wie dem auch sei :: bof
 ***denn***
+  weil, denn :: parce que, car
   weil, denn, da :: parce que, car
 ***der***
   der {m}, die {f}, das {n}, die {p} :: le {m}, la {f}, les {|p}
@@ -349,7 +364,7 @@ Index: DE DE->FR
   der {m}, die {f}, das {n}, die {p} :: le {m}, la {f}, les {|p}
   der {m}, die {f}, das {n}, die {p} :: le {m}, la {f}, les {|p}
 ***deutsch***
-  deutsch :: allemand {m}, allemande {m}
+  deutsch :: allemand, allemande
 ***Deutsch***
   Deutsch {n}, Hochdeutsch {n}, deutsche Sprache {f} :: allemand {m}
 ===deutsche===
@@ -461,12 +476,14 @@ Index: DE DE->FR
 ***Engländerin***
   Engländer {m}, Engländerin {f} :: Anglais {m}, Anglaise {f}
 ***englisch***
-  englisch :: anglais {m}, anglaise {f}
+  englisch :: anglais
   englisch :: anglais {m}, anglaise {f}
 ***Englisch***
   Englisch {n}, englische Sprache {f} :: anglais {m}, langue anglaise {f}
 ===englische===
   Englisch {n}, englische Sprache {f} :: anglais {m}, langue anglaise {f}
+***entbeinen***
+  entbeinen, ausbeinen :: désosser
 ***entführen***
   entführen :: enlever, ravir
 ***Entführung***
@@ -475,7 +492,6 @@ Index: DE DE->FR
   entschlüsseln :: décrypter, déchiffrer
 ***Enzyklopädie***
   Enzyklopädie {f} :: encyclopédie {f}
-  Lexikon {n}, Enzyklopädie {f} :: encyclopédie {f}
 ***Erdferkel***
   Erdferkel {n} :: oryctérope {m}
 ***Erdwolf***
@@ -494,6 +510,7 @@ Index: DE DE->FR
   Errungenschaft {f}, Vollendung {f} :: réalisation {f}
 ===erwähnt===
   oben genannt, oben erwähnt :: susmentionné, précité {m}, susdit {m}
+  oben erwähnt :: susmentionné, susdit, susnommé
 ***Esperanto***
   Esperanto {n} :: espéranto {m}
 ***Etymologie***
@@ -550,6 +567,8 @@ Index: DE DE->FR
   Katzenartige {m}, Katzenartige {f}, Katzenartigen {p}, Feliformia {p}, Feloidea {p} :: féliforme {m}, féliformes {p}, féloidé {m}, féloidés {p}
 ***Festmacherleine***
   Festmacherleine {f} :: garde {f}
+***Fischgräte***
+  Gräte {f}, Fischgräte {f} :: arête {f}
 ***Fleisch***
   Fleisch {n} :: viande {f}
   Fleisch {n} :: viande {f}
@@ -565,8 +584,10 @@ Index: DE DE->FR
   frei, ungebunden :: libre {m|f}
   frei :: libre
   frei :: libre
+  frei, unbesetzt :: libre {m|f}, disponible {m|f}
   frei :: libre
   frei :: libre
+  gratis, kostenlos, frei, kostenfrei :: gratuit
 ===freie===
   freie Meinungsäußerung {f}, Redefreiheit {f} :: liberté d'expression {f}
 ***freisetzen***
@@ -575,8 +596,10 @@ Index: DE DE->FR
   Freitag {m} :: vendredi {m}
 ***Fremde***
   Fremdling {m}, Fremder {m}, Fremde {f}, Ausländer {m}, Ausländerin {f} :: étranger {m}, étrangère {f}
+  Fremder {m}, Fremde {f}, Ausländer {m}, Ausländerin {f} :: étranger {m}, étrangère {f}
 ***Fremder***
   Fremdling {m}, Fremder {m}, Fremde {f}, Ausländer {m}, Ausländerin {f} :: étranger {m}, étrangère {f}
+  Fremder {m}, Fremde {f}, Ausländer {m}, Ausländerin {f} :: étranger {m}, étrangère {f}
 ***Fremdling***
   Fremdling {m}, Fremder {m}, Fremde {f}, Ausländer {m}, Ausländerin {f} :: étranger {m}, étrangère {f}
 ===Freund===
@@ -626,6 +649,8 @@ Index: DE DE->FR
   ich liebe Sie, ich habe Sie gern, ich habe Sie lieb :: je t'aime, je vous aime, je t'adore, je vous adore
 ***Geschwulst***
   Geschwulst {f} :: croissance {f}
+***Gewerkschaft***
+  Gewerkschaft {f} :: syndicat {m}, syndicat de métier {m}
 ===gießen===
   Bindfäden regnen, in Strömen regnen, aus allen Kannen gießen, aus allen Kannen schütten, wie aus Eimern schütten :: pleuvoir des cordes, pleuvoir à verse, pleuvoir des hallebardes, pleuvoir comme vache qui pisse, pleuvoir à boire debout, dracher
 ***Gießkanne***
@@ -637,8 +662,11 @@ Index: DE DE->FR
 ***Gras***
   Gras {n} :: herbe {f}
   Gras {n} :: herbe {f}, beuh {f}
+***Gräte***
+  Gräte {f}, Fischgräte {f} :: arête {f}
 ***gratis***
   umsonst, gratis, kostenlos :: gratuit, gratis
+  gratis, kostenlos, frei, kostenfrei :: gratuit
 ***grenzen***
   grenzen, angrenzen :: aboutir, abouter
 ***grob***
@@ -658,6 +686,8 @@ Index: DE DE->FR
   bedingte Haftentlassung {f}, Bewährung {f} :: libération conditionnelle {f}
 ***Halbinsel***
   Halbinsel {f}, Peninsula {f}, Landzunge {f} :: péninsule {f}
+===hallo===
+  allerdings, aber hallo :: absolument, mets-en
 ***Handel***
   Handel {m}, Kommerz {f} :: commerce {m}
 ***handeln***
@@ -672,7 +702,7 @@ Index: DE DE->FR
   Kopf {m}, Haupt {n} :: tête {f}
   Oberhaupt {n}, Haupt {n}, Kopf {m} :: chef {m}
 ***Herabkunft***
-  Avatar {m}, Avatara {m}, Herabkunft {f}, Inkarnation  {f} :: avatar {m}, incarnation
+  Avatar {m}, Avatara {m}, Herabkunft {f}, Inkarnation {f} :: avatar {m}, incarnation
 ***Herbst***
   Herbst {m} :: automne {m}
 ***Herr***
@@ -711,11 +741,6 @@ Index: DE DE->FR
   Februar {m}, Feber, Hornung {m} :: février {m}
 ***Hotelpage***
   Hotelpage :: chasseuse
-***Hund***
-  Hund {m}, Hündin {f} :: chien {m}
-  Hund {m} :: chien {m}
-***Hündin***
-  Hund {m}, Hündin {f} :: chien {m}
 ***Hyponym***
   Unterbegriff {m}, Hyponym {n} :: hyponyme {m}
 ===ich===
@@ -737,7 +762,7 @@ Index: DE DE->FR
   unter, in, im, während :: dans, en, en, dans
   Bindfäden regnen, in Strömen regnen, aus allen Kannen gießen, aus allen Kannen schütten, wie aus Eimern schütten :: pleuvoir des cordes, pleuvoir à verse, pleuvoir des hallebardes, pleuvoir comme vache qui pisse, pleuvoir à boire debout, dracher
 ***Inkarnation***
-  Avatar {m}, Avatara {m}, Herabkunft {f}, Inkarnation  {f} :: avatar {m}, incarnation
+  Avatar {m}, Avatara {m}, Herabkunft {f}, Inkarnation {f} :: avatar {m}, incarnation
 ***irisch***
   irisch, irländisch :: irlandais
 ***Irisch***
@@ -760,6 +785,8 @@ Index: DE DE->FR
   Jahrhundert {n} :: siècle {m}
 ***Jahrtausend***
   Jahrtausend {n}, Millennium {n} :: millénaire {m}
+***Jahrzehnt***
+  Jahrzehnt {n}, Dekade {f} :: décennie {f}
 ***jämmerlich***
   elend, kläglich, jämmerlich :: abject {m}, abjecte {f}, méprisable
 ***Jänner***
@@ -827,6 +854,8 @@ Index: DE DE->FR
   Rabe {m}, Kolkrabe {m} :: corbeau {m}
 ***komisch***
   seltsam, merkwürdig, komisch :: bizarre, étrange
+***Komitologie***
+  Komitologie :: comitologie {f}
 ***Komma***
   Komma {m} :: virgule {f}
 ***kommen***
@@ -847,8 +876,11 @@ Index: DE DE->FR
   Oberhaupt {n}, Haupt {n}, Kopf {m} :: chef {m}
 ***köpfen***
   köpfen :: faire une tête
+***kostenfrei***
+  gratis, kostenlos, frei, kostenfrei :: gratuit
 ***kostenlos***
   umsonst, gratis, kostenlos :: gratuit, gratis
+  gratis, kostenlos, frei, kostenfrei :: gratuit
 ***Krähe***
   Krähe {f} :: corneille {f}
 ***Krähen***
@@ -877,8 +909,6 @@ Index: DE DE->FR
   Frühling {m}, Frühjahr {n}, Lenz {m} :: printemps {m}
 ***Lexikographie***
   Lexikographie {f} :: lexicographie {f}
-***Lexikon***
-  Lexikon {n}, Enzyklopädie {f} :: encyclopédie {f}
 ***Libero***
   Libero {m} :: libero {m}, libéro {m}
   Libero {m} :: libero {m}, libéro {m}
@@ -1046,6 +1076,7 @@ Index: DE DE->FR
 ***oben***
   höher, oben, darüber :: au-dessus
   oben genannt, oben erwähnt :: susmentionné, précité {m}, susdit {m}
+  oben erwähnt :: susmentionné, susdit, susnommé
 ***Oberhaupt***
   Oberhaupt {n}, Haupt {n}, Kopf {m} :: chef {m}
 ***obfuskieren***
@@ -1171,8 +1202,6 @@ Index: DE DE->FR
   römische Ziffer {f} :: chiffre romain {m}
 ***rückwärts***
   rückwärts :: en arrière
-***Rüde***
-  Rüde {m} :: chien {m}
 ***Ruf***
   Name {m}, Ruf {m} :: nom {m}
 ***Sabbat***
@@ -1183,9 +1212,11 @@ Index: DE DE->FR
   Thesaurus {m}, Begriffswörterbuch {n}, Sachgruppenwörterbuch {n} :: dictionnaire des synonymes, thésaurus {m}, dictionnaire de notions, dictionnaire par ordre de matières
 ***Samstag***
   Samstag {m}, Sonnabend {m}, Sabbat {m} :: samedi {m}
+***Satz***
+  Sprung {m}, Satz {m} :: saut {m}, bond {m}
 ***sauer***
-  sauer :: aigre, acide {m|f}
-  sauer :: acide {m|f}
+  sauer :: aigre, acide
+  sauer :: acide
 ***Säure***
   Säure {f} :: acide {m}
   Säure {f} :: acide {m}
@@ -1259,7 +1290,7 @@ Index: DE DE->FR
 ***Sonnabend***
   Samstag {m}, Sonnabend {m}, Sabbat {m} :: samedi {m}
 ***Sonne***
-  Sonne {f} :: soleil {m}
+  Sonne {f} :: soleil {m}, Soleil {m}
   Sonne {f} :: soleil {m}
 ***Sonnenschirm***
   Schirm {m}, Sonnenschirm {m}, Regenschirm {m} :: parapluie {m}
@@ -1285,7 +1316,7 @@ Index: DE DE->FR
 ***springen***
   springen :: sauter
 ***Sprung***
-  Sprung {m} :: saut {m}, bond {m}
+  Sprung {m}, Satz {m} :: saut {m}, bond {m}
 ***Sprungfeder***
   Sprungfeder {f}, Feder {f} :: ressort {m}
 ***Stadtteil***
@@ -1363,7 +1394,7 @@ Index: DE DE->FR
 ***Treffen***
   Treffen {n}, Verabredung {f} :: rendez-vous {m}
 ***Trillion***
-  Trillion :: trillion
+  Trillion {f} :: trillion {m}
 ***tüchtig***
   fähig, tüchtig :: capable, expérimenté
 ***über***
@@ -1389,6 +1420,8 @@ Index: DE DE->FR
   umsonst, gratis, kostenlos :: gratuit, gratis
 ***Umstandswort***
   Adverb {n}, Umstandswort {n} :: adverbe {m}
+***unbesetzt***
+  frei, unbesetzt :: libre {m|f}, disponible {m|f}
 ***Unentschiedenheit***
   Schwebezustand {m}, Unentschiedenheit {f} :: vacance {f}, vacant
 ***unerwartet***
@@ -1418,6 +1451,7 @@ Index: DE DE->FR
   Treffen {n}, Verabredung {f} :: rendez-vous {m}
   Rendezvous {n}, Date {n}, Verabredung {n}, Stelldichein {n} :: rendez-vous {m}, rendez-vous d'amour {m}
 ***verabscheuen***
+  verabscheuen :: détester
   verabscheuen :: détester
 ***verabscheuungswürdig***
   verabscheuungswürdig, verhasst, abscheulich :: abominable
@@ -1449,6 +1483,8 @@ Index: DE DE->FR
 ***verlassen***
   aufgeben, verlassen :: abandonner
   verlassen, herrenlos :: abandonné
+***verlegen***
+  beschämt, verlegen :: confus, décontenancé
 ***vernichten***
   vernichten :: détruire
 ***Verpflichtung***
@@ -1501,9 +1537,12 @@ Index: DE DE->FR
 ***WC***
   Toilette {f}, WC {n}, Klo {n} :: WC {m}
 ***weil***
+  weil, denn :: parce que, car
   weil, denn, da :: parce que, car
 ***weilen***
   weilen :: demeurer
+***Weißdornblüte***
+  Weißdornblüte {f} :: aubépine {f}
 ***weitschweifig***
   weitschweifig :: prolixe {m|f}, fastidieux, verbeux, phraseur, raseur
 ***Weltausstellung***
@@ -1568,8 +1607,14 @@ Index: DE DE->FR
   römische Ziffer {f} :: chiffre romain {m}
 ***zufällig***
   versehentlich, zufällig :: accidentel
+***zurücklassen***
+  aufgeben, zurücklassen :: abandonner
+***Zuruf***
+  Zuruf :: acclamation
 ***zwei***
   zwei, zwo :: deux
+***Zwei***
+  Zwei {f} :: deux {m}
 ***zweiter***
   zweiter {m} :: deuxième {m|f}, second {m}, deux {m|f}
   zweiter {m} :: deuxième {m|f}, second {m}
@@ -1593,6 +1638,7 @@ Index: FR FR->DE
   verlassen, herrenlos :: abandonné
 ***abandonner***
   aufgeben, verlassen :: abandonner
+  aufgeben, zurücklassen :: abandonner
   abbrechen :: interrompre, abandonner, échouer, s'arrêter
 ***abaque***
   Abakus {m}, Rechenbrett {n} :: abaque {m}, boulier {m}, boulier compteur {m}
@@ -1621,6 +1667,8 @@ Index: FR FR->DE
   Abweichung {f} :: aberrance {f}
 ***aberrant***
   aberrante :: aberrant {m}
+***abîme***
+  Abgrund {m} :: précipice {m}, abysse {m}, abîme {m}, gouffre {m}
 ***abiogenèse***
   Abiogenese {f} :: abiogenèse {f}
 ***abject***
@@ -1663,8 +1711,12 @@ Index: FR FR->DE
   abrupt, plötzlich, unerwartet :: abruptement, tout d'un coup
 ***abscisse***
   Abszisse {f} :: abscisse {f}
+***absolument***
+  allerdings, aber hallo :: absolument, mets-en
 ***absoudre***
   absolvieren :: absoudre
+***abysse***
+  Abgrund {m} :: précipice {m}, abysse {m}, abîme {m}, gouffre {m}
 ***académisme***
   Akademismus {m} :: académisme {m}
 ***acceptable***
@@ -1675,6 +1727,8 @@ Index: FR FR->DE
   versehentlich, zufällig :: accidentel
 ***accidentellement***
   versehentlich :: accidentellement
+***acclamation***
+  Zuruf :: acclamation
 ***accordéon***
   Akkordeon {n}, Ziehharmonika {f}, Handharmonika {f}, Handorgel {f}, Quetsche {f}, Quetschkommode {f}, Schifferklavier {n} :: accordéon {m}
 ***accordéoniste***
@@ -1684,8 +1738,8 @@ Index: FR FR->DE
 ===Achille===
   Achillessehne {f} :: tendon d’Achille {m}
 ***acide***
-  sauer :: aigre, acide {m|f}
-  sauer :: acide {m|f}
+  sauer :: aigre, acide
+  sauer :: acide
   Säure {f} :: acide {m}
   Säure {f} :: acide {m}
   Lysergsäure-diethylamid :: acide {m|f}
@@ -1711,7 +1765,7 @@ Index: FR FR->DE
 ***aigle***
   Adler {m}, Aar {m} :: aigle {m}
 ***aigre***
-  sauer :: aigre, acide {m|f}
+  sauer :: aigre, acide
 ===aime===
   ich liebe dich, Ich habe dich lieb :: je t'aime, je vous aime
   ich liebe Sie, ich habe Sie gern, ich habe Sie lieb :: je t'aime, je vous aime, je t'adore, je vous adore
@@ -1719,11 +1773,11 @@ Index: FR FR->DE
   Achäne {f} :: akène {m}
 ***allemand***
   Deutsch {n}, Hochdeutsch {n}, deutsche Sprache {f} :: allemand {m}
-  deutsch :: allemand {m}, allemande {m}
+  deutsch :: allemand, allemande
 ***Allemand***
   Deutscher {m}, Deutsche {f} :: Allemand {m}, Allemande {f}
 ***allemande***
-  deutsch :: allemand {m}, allemande {m}
+  deutsch :: allemand, allemande
 ***Allemande***
   Deutscher {m}, Deutsche {f} :: Allemand {m}, Allemande {f}
 ***aller***
@@ -1745,13 +1799,12 @@ Index: FR FR->DE
 ===anges===
   Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, Engelmacher {m}, Engelmacherin {f} :: médecin avorteur {m}, avorteur {m}, avorteuse {f}, faiseur d'anges {m}, faiseuse d'anges {f}
 ***anglais***
-  englisch :: anglais {m}, anglaise {f}
+  englisch :: anglais
   englisch :: anglais {m}, anglaise {f}
   Englisch {n}, englische Sprache {f} :: anglais {m}, langue anglaise {f}
 ***Anglais***
   Engländer {m}, Engländerin {f} :: Anglais {m}, Anglaise {f}
 ***anglaise***
-  englisch :: anglais {m}, anglaise {f}
   englisch :: anglais {m}, anglaise {f}
   Englisch {n}, englische Sprache {f} :: anglais {m}, langue anglaise {f}
 ***Anglaise***
@@ -1776,6 +1829,8 @@ Index: FR FR->DE
   Ablaut {m} :: apophonie {f}
 ***appeler***
   benennen :: identifier, appeler
+***arête***
+  Gräte {f}, Fischgräte {f} :: arête {f}
 ***aria***
   Arie {f} :: aria {f}
 ***arme***
@@ -1798,13 +1853,15 @@ Index: FR FR->DE
   über, von :: au sujet de, à propos de
   über :: au-dessus de
   höher, oben, darüber :: au-dessus
+***aubépine***
+  Weißdornblüte {f} :: aubépine {f}
 ===aujourd===
   heute :: aujourd'hui
   Heute :: aujourd'hui {m}
 ***automne***
   Herbst {m} :: automne {m}
 ***avatar***
-  Avatar {m}, Avatara {m}, Herabkunft {f}, Inkarnation  {f} :: avatar {m}, incarnation
+  Avatar {m}, Avatara {m}, Herabkunft {f}, Inkarnation {f} :: avatar {m}, incarnation
   Verkörperung {f} :: avatar {m}, matérialisation, personnification
   Avatar {m} :: avatar {m}, emblème, symbole
 ***avis***
@@ -1837,7 +1894,7 @@ Index: FR FR->DE
 ***billion***
   Milliarde {f} :: milliard {m}, billion {m}
   Billion :: billion
-  Billion :: billion, trillion
+  Billion {f} :: billion {m}, trillion {m}
 ***bit***
   Bit {n} :: bit {m}
 ***bite***
@@ -1853,7 +1910,7 @@ Index: FR FR->DE
 ===boîte===
   Dose {f}, Konservendose {f} :: boîte de conserve {f}
 ***bond***
-  Sprung {m} :: saut {m}, bond {m}
+  Sprung {m}, Satz {m} :: saut {m}, bond {m}
 ***bougnoule***
   Neger {m}, Nigger {m}, Kaffer {m} :: bougnoule, nègre
 ***boulier***
@@ -1880,6 +1937,7 @@ Index: FR FR->DE
 ***capacité***
   Fähigkeit {f} :: capacité {f}, pouvoir {m}
 ***car***
+  weil, denn :: parce que, car
   weil, denn, da :: parce que, car
 ***caractère***
   Buchstabe {m} :: lettre {f}, caractère {m}
@@ -1909,10 +1967,6 @@ Index: FR FR->DE
 ===chemin===
   Eisenbahnlinie {f}, Gleis {n} :: chemin de fer {m}, réseau ferroviaire {m}
   Eisenbahn {f}, Bahn {f} :: chemin de fer {m}
-***chien***
-  Hund {m}, Hündin {f} :: chien {m}
-  Rüde {m} :: chien {m}
-  Hund {m} :: chien {m}
 ***chiffre***
   Nummer :: chiffre {m}
   Ziffer {f} :: chiffre {m}
@@ -1941,6 +1995,8 @@ Index: FR FR->DE
   färben :: colorer, teinter
 ***colorier***
   ausmalen :: colorier
+***comitologie***
+  Komitologie :: comitologie {f}
 ***commander***
   führen, leiten :: commander, diriger, chapeauter
 ===comme===
@@ -1959,6 +2015,8 @@ Index: FR FR->DE
   bedingte Haftentlassung {f}, Bewährung {f} :: libération conditionnelle {f}
 ***confondre***
   beschämen :: confondre
+***confus***
+  beschämt, verlegen :: confus, décontenancé
 ***connard***
   Fotze {n} :: con {m}, salaud {m}, connard
   {{ttbc|de}}, Arsch {m}, Arschloch {m}, Schwanzlutscher :: connard {m}, pédé {m}
@@ -2035,6 +2093,7 @@ Index: FR FR->DE
   Dose {f}, Konservendose {f} :: boîte de conserve {f}
   Lichtgeschwindigkeit {f} :: vitesse de la lumière {f}
   Tacho {m}, Tachometer :: indicateur de vitesse {m}, compteur de vitesse {m}
+  Gewerkschaft {f} :: syndicat {m}, syndicat de métier {m}
   Punkt {m}, Standpunkt {m} :: point de vue {m}, avis {m}, opinion {f}
   Wichser, Arschloch, Drecksau, Mutterficker :: fils de pute, nique ta mère
   Eisenbahnlinie {f}, Gleis {n} :: chemin de fer {m}, réseau ferroviaire {m}
@@ -2047,8 +2106,12 @@ Index: FR FR->DE
   Dekade {f} :: dizaine, décade
 ***décembre***
   Dezember {m}, Julmond {m} :: décembre {m}
+***décennie***
+  Jahrzehnt {n}, Dekade {f} :: décennie {f}
 ***déchiffrer***
   entschlüsseln :: décrypter, déchiffrer
+***décontenancé***
+  beschämt, verlegen :: confus, décontenancé
 ***décrypter***
   entschlüsseln :: décrypter, déchiffrer
 ***défilé***
@@ -2065,12 +2128,15 @@ Index: FR FR->DE
 ===des===
   Thesaurus {m}, Begriffswörterbuch {n}, Sachgruppenwörterbuch {n} :: dictionnaire des synonymes, thésaurus {m}, dictionnaire de notions, dictionnaire par ordre de matières
   Bindfäden regnen, in Strömen regnen, aus allen Kannen gießen, aus allen Kannen schütten, wie aus Eimern schütten :: pleuvoir des cordes, pleuvoir à verse, pleuvoir des hallebardes, pleuvoir comme vache qui pisse, pleuvoir à boire debout, dracher
+***désosser***
+  entbeinen, ausbeinen :: désosser
 ===dessus===
   über :: au-dessus de
   höher, oben, darüber :: au-dessus
 ***détail***
   Punkt {m}, Zeitpunkt {m} :: point {m}, détail {m}
 ***détester***
+  verabscheuen :: détester
   verabscheuen :: détester
 ***détruire***
   vernichten :: détruire
@@ -2080,6 +2146,7 @@ Index: FR FR->DE
   Auslandsschuld {f}, Auslandsverschuldung {f} :: dette extérieure {f}
 ***deux***
   zwei, zwo :: deux
+  Zwei {f} :: deux {m}
   zweiter {m} :: deuxième {m|f}, second {m}, deux {m|f}
 ***deuxième***
   zweiter {m} :: deuxième {m|f}, second {m}, deux {m|f}
@@ -2094,6 +2161,8 @@ Index: FR FR->DE
   Sonntag {m} :: dimanche {m}
 ***diriger***
   führen, leiten :: commander, diriger, chapeauter
+***disponible***
+  frei, unbesetzt :: libre {m|f}, disponible {m|f}
 ***distrait***
   zerstreut :: distrait
 ***distribuer***
@@ -2129,11 +2198,11 @@ Index: FR FR->DE
   in :: dans, en
   unter, in, im, während :: dans, en, en, dans
   rückwärts :: en arrière
+  allerdings, aber hallo :: absolument, mets-en
 ***encourager***
   ermutigen, aufhetzen, anstiften :: encourager
 ***encyclopédie***
   Enzyklopädie {f} :: encyclopédie {f}
-  Lexikon {n}, Enzyklopädie {f} :: encyclopédie {f}
 ***enfer***
   Hölle {f} :: enfer {m}
   Hölle {f} :: enfer {m}
@@ -2163,11 +2232,11 @@ Index: FR FR->DE
 ***étranger***
   Ausland {n} :: l'étranger {m} (étranger)
   Fremdling {m}, Fremder {m}, Fremde {f}, Ausländer {m}, Ausländerin {f} :: étranger {m}, étrangère {f}
-  Ausländer {m}, Ausländerin {f} :: étranger {m}, étrangère {f}
+  Fremder {m}, Fremde {f}, Ausländer {m}, Ausländerin {f} :: étranger {m}, étrangère {f}
   Ausland :: à l'étranger
 ***étrangère***
   Fremdling {m}, Fremder {m}, Fremde {f}, Ausländer {m}, Ausländerin {f} :: étranger {m}, étrangère {f}
-  Ausländer {m}, Ausländerin {f} :: étranger {m}, étrangère {f}
+  Fremder {m}, Fremde {f}, Ausländer {m}, Ausländerin {f} :: étranger {m}, étrangère {f}
 ***être***
   sein :: être
   stattfinden :: être
@@ -2278,10 +2347,13 @@ Index: FR FR->DE
   Eichel {f}, Nille {f} :: gland {m}
 ***gnose***
   Gnosis {f} :: gnose {f}
+***gouffre***
+  Abgrund {m} :: précipice {m}, abysse {m}, abîme {m}, gouffre {m}
 ***gratis***
   umsonst, gratis, kostenlos :: gratuit, gratis
 ***gratuit***
   umsonst, gratis, kostenlos :: gratuit, gratis
+  gratis, kostenlos, frei, kostenfrei :: gratuit
 ***habilement***
   fähig :: habilement
 ***habilité***
@@ -2330,7 +2402,7 @@ Index: FR FR->DE
 ***impair***
   ungerade :: impair
 ***incarnation***
-  Avatar {m}, Avatara {m}, Herabkunft {f}, Inkarnation  {f} :: avatar {m}, incarnation
+  Avatar {m}, Avatara {m}, Herabkunft {f}, Inkarnation {f} :: avatar {m}, incarnation
 ***indénombrable***
   überabzählbar :: indénombrable {m|f}
   unzählbar :: indénombrable {m|f}
@@ -2445,6 +2517,7 @@ Index: FR FR->DE
   frei, ungebunden :: libre {m|f}
   frei :: libre
   frei :: libre
+  frei, unbesetzt :: libre {m|f}, disponible {m|f}
   frei :: libre
   frei :: libre
 ===liste===
@@ -2496,10 +2569,14 @@ Index: FR FR->DE
   Mittwoch {m}, Wotanstag {m} :: mercredi {m}
 ===mère===
   Wichser, Arschloch, Drecksau, Mutterficker :: fils de pute, nique ta mère
+===métier===
+  Gewerkschaft {f} :: syndicat {m}, syndicat de métier {m}
 ***métrique***
   metrisch :: métrique
   Metrik {f} :: métrique {f}
   Metrik {f} :: métrique {f}
+===mets===
+  allerdings, aber hallo :: absolument, mets-en
 ***Mexique***
   Mexiko {n} :: Mexique {m}
 ***millénaire***
@@ -2627,6 +2704,7 @@ Index: FR FR->DE
 ***parapluie***
   Schirm {m}, Sonnenschirm {m}, Regenschirm {m} :: parapluie {m}
 ===parce===
+  weil, denn :: parce que, car
   weil, denn, da :: parce que, car
 ***parole***
   Ehrenwort {n} :: parole {f}
@@ -2658,6 +2736,8 @@ Index: FR FR->DE
   wenig :: peu
 ***phraseur***
   weitschweifig :: prolixe {m|f}, fastidieux, verbeux, phraseur, raseur
+***PIB***
+  BIP :: PIB {m}
 ===pied===
   Brecheisen {n} :: pied-de-biche {m}
 ***pion***
@@ -2701,6 +2781,8 @@ Index: FR FR->DE
   Fähigkeit {f} :: capacité {f}, pouvoir {m}
   können :: pouvoir
   können, dürfen :: pouvoir
+***précipice***
+  Abgrund {m} :: précipice {m}, abysse {m}, abîme {m}, gouffre {m}
 ***précipitamment***
   abgerissen, abschüssig :: précipitamment
 ***precipité***
@@ -2751,6 +2833,7 @@ Index: FR FR->DE
   vier :: quatre {m}
 ===que===
   was immer, was auch immer :: quoi que
+  weil, denn :: parce que, car
   weil, denn, da :: parce que, car
 ===quelqu===
   man, einer :: on, quelqu’un
@@ -2810,7 +2893,7 @@ Index: FR FR->DE
 ***samedi***
   Samstag {m}, Sonnabend {m}, Sabbat {m} :: samedi {m}
 ***saut***
-  Sprung {m} :: saut {m}, bond {m}
+  Sprung {m}, Satz {m} :: saut {m}, bond {m}
 ***sauter***
   springen :: sauter
 ***second***
@@ -2845,8 +2928,10 @@ Index: FR FR->DE
   sechs :: six
   Sechs {f} :: six {m}
 ***soleil***
+  Sonne {f} :: soleil {m}, Soleil {m}
   Sonne {f} :: soleil {m}
-  Sonne {f} :: soleil {m}
+***Soleil***
+  Sonne {f} :: soleil {m}, Soleil {m}
 ***sottise***
   Nonsens {m}, Unsinn {m} :: sottise {m}
 ***source***
@@ -2873,10 +2958,16 @@ Index: FR FR->DE
   an, bei :: sur
 ***susdit***
   oben genannt, oben erwähnt :: susmentionné, précité {m}, susdit {m}
+  oben erwähnt :: susmentionné, susdit, susnommé
 ***susmentionné***
   oben genannt, oben erwähnt :: susmentionné, précité {m}, susdit {m}
+  oben erwähnt :: susmentionné, susdit, susnommé
+***susnommé***
+  oben erwähnt :: susmentionné, susdit, susnommé
 ***symbole***
   Avatar {m} :: avatar {m}, emblème, symbole
+***syndicat***
+  Gewerkschaft {f} :: syndicat {m}, syndicat de métier {m}
 ***synonyme***
   Synonym {n} :: synonyme {m}
 ===synonymes===
@@ -2930,8 +3021,8 @@ Index: FR FR->DE
 ***trépasser***
   sterben, umkommen, versterben :: mourir, expirer, trépasser
 ***trillion***
-  Billion :: billion, trillion
-  Trillion :: trillion
+  Billion {f} :: billion {m}, trillion {m}
+  Trillion {f} :: trillion {m}
 ***trimestre***
   Quartal {n}, Vierteljahr {n} :: trimestre {m}
 ***trois***

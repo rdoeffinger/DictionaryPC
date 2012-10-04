@@ -1,30 +1,46 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.arabic 2885
+EntrySource: enwiktionary.arabic 2993
 
 Index: AR AR->EN
+===ˈwæħdæ===
+  (Egyptian Arabic) واحد ({{IPA|ˈwɛːħɪd}}) {m} (numeral) ( ({{IPA|ˈwæħdæ}}) واحدة {l|g=f}) :: {cardinal} one
+    Eastern Arabic numeral: ١ :: --
+===ˈwɛːħɪd===
+  (Egyptian Arabic) واحد ({{IPA|ˈwɛːħɪd}}) {m} (numeral) ( ({{IPA|ˈwæħdæ}}) واحدة {l|g=f}) :: {cardinal} one
+    Eastern Arabic numeral: ١ :: --
 ***١***
   ١ (wáħid) :: 1 (one)
 ===a===
   مرأة (már’a) {{ar-noun|g=f|pl=نساء}} (nisā’) :: {{alternative spelling of|امرأة}}
 ***ا***
   ا / ‍ا (’álif)thumb :: Although usually considered to be the first letter of the Arabic alphabet, the small hamza (ء) that sits on top of أ is really the first letter of the Arabic alphabet, and the tall column is its bearer. This entry only deals with the lower part, the bearer, which is called الف (’álif) and, without the hamza, is used to lengthen a preceding vowel, often a. It is followed by ب.
+===أَبْجَدِيَّة===
+  أَبْجَدِيَّة (’abjadíyya) {{ar-noun|g=f}} :: alphabet
 ===ab===
-  أبٌ (’ab) {m} (noun), آبَاءٌ (’ābā’) {p} :: father
-  أبٌ (’ab) {m} (noun), آبَاءٌ (’ābā’) {p} :: ancestor, forefather
+  أبٌ (’ab) {{ar-noun|g=m|pl=آباء|plhead=آبَاءٌ|pltr=’ābā’}} :: father
+  أبٌ (’ab) {{ar-noun|g=m|pl=آباء|plhead=آبَاءٌ|pltr=’ābā’}} :: ancestor, forefather
 ***اب***
-  أبٌ (’ab) {m} (noun), آبَاءٌ (’ābā’) {p} :: father
-  أبٌ (’ab) {m} (noun), آبَاءٌ (’ābā’) {p} :: ancestor, forefather
+  أبٌ (’ab) {{ar-noun|g=m|pl=آباء|plhead=آبَاءٌ|pltr=’ābā’}} :: father
+  أبٌ (’ab) {{ar-noun|g=m|pl=آباء|plhead=آبَاءٌ|pltr=’ābā’}} :: ancestor, forefather
   اب آب (’Āb) {m} :: August (month name used in Syria, Lebanon, Jordan, and Iraq)
   اب آب (’āba) :: to return, to come back
-***ابجدي***
-  ابجدي أبجَدِيّ (’abjádi) {m}, أبجَدِيّةٌ (’abjadíyya) f and pl :: alphabetical
+===abīb===
+  تل أبيب (tálli ’abīb) {ar-proper noun} :: Tel Aviv
+===abjádi===
+  أبجَدِيّ (’abjádi) {{ar-adj|g=m|f=أبجدية|fhead=أبجَدِيّةٌ|fpl=’abjadíyya|pl=أبجدية|pltr=’abjadíyya}} :: alphabetical
+===أبجَدِيّ===
+  أبجَدِيّ (’abjádi) {{ar-adj|g=m|f=أبجدية|fhead=أبجَدِيّةٌ|fpl=’abjadíyya|pl=أبجدية|pltr=’abjadíyya}} :: alphabetical
+===abjadíyya===
+  أَبْجَدِيَّة (’abjadíyya) {{ar-noun|g=f}} :: alphabet
+***أبجدي***
+  أبجَدِيّ (’abjádi) {{ar-adj|g=m|f=أبجدية|fhead=أبجَدِيّةٌ|fpl=’abjadíyya|pl=أبجدية|pltr=’abjadíyya}} :: alphabetical
 ***أبجدية***
-  أبجدية أَبْجَدِيَّة (’abjadíyya) {f} :: alphabet
+  أَبْجَدِيَّة (’abjadíyya) {{ar-noun|g=f}} :: alphabet
 ===أبٌ===
-  أبٌ (’ab) {m} (noun), آبَاءٌ (’ābā’) {p} :: father
-  أبٌ (’ab) {m} (noun), آبَاءٌ (’ābā’) {p} :: ancestor, forefather
+  أبٌ (’ab) {{ar-noun|g=m|pl=آباء|plhead=آبَاءٌ|pltr=’ābā’}} :: father
+  أبٌ (’ab) {{ar-noun|g=m|pl=آباء|plhead=آبَاءٌ|pltr=’ābā’}} :: ancestor, forefather
 ===أبيب===
-  تل أبيب (tálli ’abīb) :: Tel Aviv
+  تل أبيب (tálli ’abīb) {ar-proper noun} :: Tel Aviv
 ***أفريقانية***
   أفريقانية (’afriqaníyya) {f} :: the Afrikaans language
 ===áħad===
@@ -40,25 +56,34 @@ Index: AR AR->EN
     مَا خْتَارِشْ اِسْمْ بَاهِي لِكْتَابُو :: mā ḫtāriš ʾism bāhī liktābū
     He didn't choose a good title for his book :: --
   (Tunisian Arabic) اِسْمْ (ʾism) {m} (noun) :: first name
+===إِيرَان===
+  إِيرَان ('īrān) {ar-proper noun} :: Iran
 ***أخطبوط***
   أخطبوط (’uxṭubūṭ) {{ar-noun|g=m}} :: octopus
 ***إكسينون***
   إكسينون (’iksīnon) {{ar-noun|g=m}} :: xenon
 ===al===
+  المغرب (al-mághrib) {{ar-proper noun|g=m}} :: Morocco
   اليابان (al-yabān) {ar-proper noun} :: Japan
   الأردن (al-’úrdunn) {{ar-proper noun|g=m}} :: Jordan (river and country)
   الصين (al-ṣīn) {{ar-proper noun|g=f}} :: China
   الصين (al-ṣīn) {{ar-noun|g=m}} :: iron
   الكويت (al-kuwayt) {{ar-proper noun|g=f}} :: Kuwait
+  الجَزَائِر (al-jazā’ir) {ar-proper noun} {p} :: Algiers
+  الجَزَائِر (al-jazā’ir) {ar-proper noun} {p} :: Algeria
+  السعودية (al-sa3ūdíyya) {{ar-proper noun|g=f}} :: Saudi Arabia
+  الرياض (al-riyāḍ) {{ar-proper noun|g=m}} :: Riyadh
+  القاهرة (al-qāhira) {{ar-proper noun|g=f}} :: Cairo (capital of Egypt)
   القُدْس (al-quds) {{ar-proper noun|g=f}} :: Jerusalem
   بيت المقدس (beyt al-muqáddas or al-máqdis) (proper noun) :: Jerusalem (the capital of Palestine and Israel)
+  الشرق الأوسط (aš-šarq al-áwsaṭ) {{ar-proper noun|g=m}} :: The Middle East
   الجَزَائِر (al-jazā’ir) {ar-proper noun} :: Algeria
   الأحَد (al-’áħad) {{ar-noun|g=m}} :: Sunday
   العراق (al-ʿIrāq) {{ar-proper noun|g=m}} :: Iraq
   الألِفْبَاء (al-’alifbáː’) {ar-noun} :: alphabet
   غزل البنات (ġazl al-banāt) {{ar-noun|g=m}} :: cotton candy, candy floss, fairy floss
-  ال... (al-, el-) (article) :: the
-  أنثى أنْثَى (’únθā) {f}, إناث (’ināθ) {p}, اناثى (’anāθā) {p} :: female (of animals)
+  الـ (al-, el-) (article) :: the
+  أنْثَى (’únθā) {{ar-noun|g=f|pl=إناث|pltr=’ināθ|pl2=أناثى|pl2tr=’anāθā}} :: female (of animals)
     الانثيان (al-’unθayān) :: the testicles
   مسجد مَسْجِدٌ (masjid) {m}, مسجدان (masjidān) dual, مساجد (masājid) {p} :: mosque
     مسجد جامع (masjid jāmiʕ) :: central mosque, great mosque
@@ -66,10 +91,13 @@ Index: AR AR->EN
     المسجد الاقصى (al-masjid al-’aqṣā) :: Al-Aqsa Mosque (in Jerusalem’s Temple Square)
     المسجدان (al-masjidān) :: the Two Mosques (of Mecca and Medina)
 ***ال***
-  ال... (al-, el-) (article) :: the
+  الـ (al-, el-) (article) :: the
   ال (ill) {{ar-noun|g=m}} :: pact, covenant
   ال (ill) {{ar-noun|g=m}} :: consanguinity, blood relationship
-  (Egyptian Arabic) ال... (el-) (article) :: the
+  (Egyptian Arabic) الـ (el-) (article) :: the
+===الـ===
+  الـ (al-, el-) (article) :: the
+  (Egyptian Arabic) الـ (el-) (article) :: the
 ===الأحَد===
   الأحَد (al-’áħad) {{ar-noun|g=m}} :: Sunday
 ***الأحد***
@@ -79,7 +107,7 @@ Index: AR AR->EN
 ===الألِفْبَاء===
   الألِفْبَاء (al-’alifbáː’) {ar-noun} :: alphabet
 ===الانثيان===
-  أنثى أنْثَى (’únθā) {f}, إناث (’ināθ) {p}, اناثى (’anāθā) {p} :: female (of animals)
+  أنْثَى (’únθā) {{ar-noun|g=f|pl=إناث|pltr=’ināθ|pl2=أناثى|pl2tr=’anāθā}} :: female (of animals)
     الانثيان (al-’unθayān) :: the testicles
 ===الاقصى===
   مسجد مَسْجِدٌ (masjid) {m}, مسجدان (masjidān) dual, مساجد (masājid) {p} :: mosque
@@ -89,8 +117,10 @@ Index: AR AR->EN
     المسجدان (al-masjidān) :: the Two Mosques (of Mecca and Medina)
 ***الأردن***
   الأردن (al-’úrdunn) {{ar-proper noun|g=m}} :: Jordan (river and country)
+===الأوسط===
+  الشرق الأوسط (aš-šarq al-áwsaṭ) {{ar-proper noun|g=m}} :: The Middle East
 ===الاوسط===
-  الشرق الاوسط الشرق الأوسط (aš-šarq al-áwsaṭ) {m} :: The Middle East
+  الشرق الأوسط (aš-šarq al-áwsaṭ) {{ar-proper noun|g=m}} :: The Middle East
 ===البنات===
   غزل البنات (ġazl al-banāt) {{ar-noun|g=m}} :: cotton candy, candy floss, fairy floss
 ===البترول===
@@ -112,20 +142,26 @@ Index: AR AR->EN
 ===alifbáː===
   الألِفْبَاء (al-’alifbáː’) {ar-noun} :: alphabet
 ===الجَزَائِر===
+  الجَزَائِر (al-jazā’ir) {ar-proper noun} {p} :: Algiers
+  الجَزَائِر (al-jazā’ir) {ar-proper noun} {p} :: Algeria
   الجَزَائِر (al-jazā’ir) {ar-proper noun} :: Algeria
 ***الجزائر***
-  الجزائر الجَزَائِر (al-jazā’ir) {p} :: Algiers
-  الجزائر الجَزَائِر (al-jazā’ir) {p} :: Algeria
+  الجَزَائِر (al-jazā’ir) {ar-proper noun} {p} :: Algiers
+  الجَزَائِر (al-jazā’ir) {ar-proper noun} {p} :: Algeria
 ***الجزاير***
   الجَزَائِر (al-jazā’ir) {ar-proper noun} :: Algeria
 ***الكويت***
   الكويت (al-kuwayt) {{ar-proper noun|g=f}} :: Kuwait
 ***الله***
   الله (allāh) {m} :: God, Allah
+===almānya===
+  ألْمَانْيَا (’almānya) {{ar-proper noun|g=f}} :: Germany
 ***ألمانيا***
-  ألمانيا ألْمَانْيَا (’almānya) {f} :: Germany
+  ألْمَانْيَا (’almānya) {{ar-proper noun|g=f}} :: Germany
+===ألْمَانْيَا===
+  ألْمَانْيَا (’almānya) {{ar-proper noun|g=f}} :: Germany
 ***المغرب***
-  المغرب (al-mághrib) {m} :: Morocco
+  المغرب (al-mághrib) {{ar-proper noun|g=m}} :: Morocco
 ===المقدس===
   بيت المقدس (beyt al-muqáddas or al-máqdis) (proper noun) :: Jerusalem (the capital of Palestine and Israel)
 ===المسجد===
@@ -151,7 +187,7 @@ Index: AR AR->EN
 ===النهر===
   مَا وَرَاءَ النَهْر (maa waraa3a n-nahr) (proper noun) :: Transoxiana, "beyond the river" (an old name for the land in Central Asia north of the Amu Darya River).
 ***القاهرة***
-  القاهرة (al-qaahira) {f} :: Cairo (capital of Egypt)
+  القاهرة (al-qāhira) {{ar-proper noun|g=f}} :: Cairo (capital of Egypt)
 ***القدس***
   القُدْس (al-quds) {{ar-proper noun|g=f}} :: Jerusalem
 ===القُدْس===
@@ -159,16 +195,16 @@ Index: AR AR->EN
 ===القوم===
   علية القوم عِلْيَةُ القَوْم (ʕílyatu-l-qáum) {f} :: upper class, elite, prominent people, VIP‏s.
 ***الرياض***
-  الرياض (al-riyaaD) {m} :: Riyadh
+  الرياض (al-riyāḍ) {{ar-proper noun|g=m}} :: Riyadh
 ===الشرق===
-  الشرق الاوسط الشرق الأوسط (aš-šarq al-áwsaṭ) {m} :: The Middle East
+  الشرق الأوسط (aš-šarq al-áwsaṭ) {{ar-proper noun|g=m}} :: The Middle East
 ===السلطة===
   السلطة الوطنية الفلسطينية (as-súlṭaṭ al-waṭaníyya al-filaṣṭiníyya) {f} :: Palestine National Authority
 ***الصين***
   الصين (al-ṣīn) {{ar-proper noun|g=f}} :: China
   الصين (al-ṣīn) {{ar-noun|g=m}} :: iron
 ***السعودية***
-  السعودية (al-sa3uudíyya) {f} :: Saudi Arabia
+  السعودية (al-sa3ūdíyya) {{ar-proper noun|g=f}} :: Saudi Arabia
 ===التحرير===
   منظمة التحرير الفلسطينية (munáẓẓamaṭ aṭ-ṭaħrīr al-filaṣṭiníyya) {f} (abbreviation: م.ت.ف) :: Palestine Liberation Organization
 ===الوطنية===
@@ -259,10 +295,15 @@ Index: AR AR->EN
   انت (pronoun) :: {{alternative spelling of|1=أنت}}
   (Egyptian Arabic) انت (inta) {m} (pronoun), انتي (inti) {f}, انتوا (intu) {p} :: you
   (Tunisian Arabic) اِنْتِ (ʾinti) {m|f} (pronoun) :: you
+===أنْثَى===
+  أنْثَى (’únθā) {{ar-adj|g=f|pl=إناث|pltr=’ināθ|pl2=أناثى|pl2tr=’anāθā}} :: feminine
+  أنْثَى (’únθā) {{ar-noun|g=f|pl=إناث|pltr=’ināθ|pl2=أناثى|pl2tr=’anāθā}} :: female
+  أنْثَى (’únθā) {{ar-noun|g=f|pl=إناث|pltr=’ināθ|pl2=أناثى|pl2tr=’anāθā}} :: female (of animals)
+    الانثيان (al-’unθayān) :: the testicles
 ***أنثى***
-  أنثى أنْثَى (’únθā) {f}, إناث (’ināθ) {p}, اناثى (’anāθā) {p} :: feminine
-  أنثى أنْثَى (’únθā) {f}, إناث (’ināθ) {p}, اناثى (’anāθā) {p} :: female
-  أنثى أنْثَى (’únθā) {f}, إناث (’ināθ) {p}, اناثى (’anāθā) {p} :: female (of animals)
+  أنْثَى (’únθā) {{ar-adj|g=f|pl=إناث|pltr=’ināθ|pl2=أناثى|pl2tr=’anāθā}} :: feminine
+  أنْثَى (’únθā) {{ar-noun|g=f|pl=إناث|pltr=’ināθ|pl2=أناثى|pl2tr=’anāθā}} :: female
+  أنْثَى (’únθā) {{ar-noun|g=f|pl=إناث|pltr=’ināθ|pl2=أناثى|pl2tr=’anāθā}} :: female (of animals)
     الانثيان (al-’unθayān) :: the testicles
 ***انتوا***
   (Egyptian Arabic) انتوا (íntu) {p} (pronoun) :: you (subject pronoun)
@@ -275,11 +316,23 @@ Index: AR AR->EN
     المسجد الحرام (al-masjid al-ħarām) :: the Holy Mosque in Mecca
     المسجد الاقصى (al-masjid al-’aqṣā) :: Al-Aqsa Mosque (in Jerusalem’s Temple Square)
     المسجدان (al-masjidān) :: the Two Mosques (of Mecca and Medina)
+===arḍ===
+  أرضٌ (’arḍ) {{ar-noun|g=f|pl=أراض|plhead=أراضٍ|pltr=’arāḍin|pl2=أرضون|pl2tr=’araḍūn}} :: land
+  أرضٌ (’arḍ) {{ar-noun|g=f|pl=أراض|plhead=أراضٍ|pltr=’arāḍin|pl2=أرضون|pl2tr=’araḍūn}} :: earth, Earth
+  أرضٌ (’arḍ) {{ar-noun|g=f|pl=أراض|plhead=أراضٍ|pltr=’arāḍin|pl2=أرضون|pl2tr=’araḍūn}} :: country
+  أرضٌ (’arḍ) {{ar-noun|g=f|pl=أراض|plhead=أراضٍ|pltr=’arāḍin|pl2=أرضون|pl2tr=’araḍūn}} :: ground
 ***أرض***
-  أرضٌ (’arD) {f}, أراضٍ (’araaDin) {p}, أرضون (’araDuun) {p} :: land
-  أرضٌ (’arD) {f}, أراضٍ (’araaDin) {p}, أرضون (’araDuun) {p} :: earth, Earth
-  أرضٌ (’arD) {f}, أراضٍ (’araaDin) {p}, أرضون (’araDuun) {p} :: country
-  أرضٌ (’arD) {f}, أراضٍ (’araaDin) {p}, أرضون (’araDuun) {p} :: ground
+  أرضٌ (’arḍ) {{ar-noun|g=f|pl=أراض|plhead=أراضٍ|pltr=’arāḍin|pl2=أرضون|pl2tr=’araḍūn}} :: land
+  أرضٌ (’arḍ) {{ar-noun|g=f|pl=أراض|plhead=أراضٍ|pltr=’arāḍin|pl2=أرضون|pl2tr=’araḍūn}} :: earth, Earth
+  أرضٌ (’arḍ) {{ar-noun|g=f|pl=أراض|plhead=أراضٍ|pltr=’arāḍin|pl2=أرضون|pl2tr=’araḍūn}} :: country
+  أرضٌ (’arḍ) {{ar-noun|g=f|pl=أراض|plhead=أراضٍ|pltr=’arāḍin|pl2=أرضون|pl2tr=’araḍūn}} :: ground
+===أرضٌ===
+  أرضٌ (’arḍ) {{ar-noun|g=f|pl=أراض|plhead=أراضٍ|pltr=’arāḍin|pl2=أرضون|pl2tr=’araḍūn}} :: land
+  أرضٌ (’arḍ) {{ar-noun|g=f|pl=أراض|plhead=أراضٍ|pltr=’arāḍin|pl2=أرضون|pl2tr=’araḍūn}} :: earth, Earth
+  أرضٌ (’arḍ) {{ar-noun|g=f|pl=أراض|plhead=أراضٍ|pltr=’arāḍin|pl2=أرضون|pl2tr=’araḍūn}} :: country
+  أرضٌ (’arḍ) {{ar-noun|g=f|pl=أراض|plhead=أراضٍ|pltr=’arāḍin|pl2=أرضون|pl2tr=’araḍūn}} :: ground
+===aš===
+  الشرق الأوسط (aš-šarq al-áwsaṭ) {{ar-proper noun|g=m}} :: The Middle East
 ***اسلام***
   اسلام إسلام (’islām) {m} :: submission, resignation, reconciliation
   اسلام إسلام (’islām) {m} :: religious submission to God, piety, Islam
@@ -288,9 +341,9 @@ Index: AR AR->EN
   اسم اِسْم (’ism) {m}, اسماء (’asmā’) {p}, اسام (’asāmin) {p} :: name
     بسم الله (b-ism illāh) — in the name of God :: --
     بسم الله الرحمن الرحيم (b-ism-illāh ir-raħmān ir-raħīm) — in the name of God, the Merciful, the Compassionate :: --
-  اسم اِسْم (’ism) {m}, اسماء (’asmā’) {p}, اسام (’asāmin) {p} :: noun
   اسم اِسْم (’ism) {m}, اسماء (’asmā’) {p}, اسام (’asāmin) {p} :: appellation
   اسم اِسْم (’ism) {m}, اسماء (’asmā’) {p}, اسام (’asāmin) {p} :: reputation, prestige
+  اسم اِسْم (’ism) {m}, اسماء (’asmā’) {p}, اسام (’asāmin) {p} :: {grammar} noun
   (Tunisian Arabic) اِسْمْ (ʾism) {m} (noun) :: name
     شِسْمِكْ ؟ :: šismik
     What's your name? :: --
@@ -302,18 +355,23 @@ Index: AR AR->EN
 ***إسرائيل***
   إسرائيل (ʾisraʾīl) {{ar-proper noun|g=f}} :: Israel
 ***إسرائيلي***
-  إسرائيليّ (’isra’īliyy) :: Israeli
-  إسرائيليّ (’isra’īliyy) :: Israelite, Israeli
+  إسرائيليّ (’isra’īliyy) {ar-adj} :: Israeli
+  إسرائيليّ (’isra’īliyy) {ar-noun} :: Israelite, Israeli
+===إسرائيليّ===
+  إسرائيليّ (’isra’īliyy) {ar-adj} :: Israeli
+  إسرائيليّ (’isra’īliyy) {ar-noun} :: Israelite, Israeli
 ***اثنان***
   اثنان (iθnān) :: two
     Eastern Arabic numeral: ٢ :: --
 ***أورشليم***
   أورشليم (Ūrušalīm) {ar-proper noun} :: Jerusalem (city in the Middle East)
+===áwsaṭ===
+  الشرق الأوسط (aš-šarq al-áwsaṭ) {{ar-proper noun|g=m}} :: The Middle East
 ***ايفاء***
   ايفاء إيفاء (’īfā’) {m} :: fulfillment, discharge
   ايفاء إيفاء (’īfā’) {m} :: payment
 ***إيران***
-  إيران إِيرَان (īrān) :: Iran
+  إِيرَان ('īrān) {ar-proper noun} :: Iran
 ***إيطالية***
   إيطالية (’iṭalíyya) {f} :: Italy obsolete
   إيطالية (’iṭalíyya) {f} :: Italian
@@ -335,26 +393,46 @@ Index: AR AR->EN
     نْحِبْ قَهْوَة بِالْحْلِيبْ (nḥib qahwa bilḥlīb) — I like coffee with milk :: --
     تُرْعُشْ بِالْخُوفْ (turʿuš bilḫūf) - She is shaking with fear :: --
 ===baab===
-  (Egyptian Arabic) باب (baab) {{arz-noun|m|أبواب|abwaab}} :: door (portal of entry into a building or room)
+  (Egyptian Arabic) باب (baab) {{arz-noun|m|بيبان|bibaan}} :: door (portal of entry into a building or room)
+===bāb===
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: door
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: gate
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: opening, gateway
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: entrance
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: chapter, section, column
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: group, class, category
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: {figurative} domain, field
 ***باب***
-  باب بَاب (baab) {m}, أبْوَاب (’abwaab) {p}, بِيبَان (bibaan) {p} :: door
-  باب بَاب (baab) {m}, أبْوَاب (’abwaab) {p}, بِيبَان (bibaan) {p} :: gate
-  باب بَاب (baab) {m}, أبْوَاب (’abwaab) {p}, بِيبَان (bibaan) {p} :: opening, gateway
-  باب بَاب (baab) {m}, أبْوَاب (’abwaab) {p}, بِيبَان (bibaan) {p} :: entrance
-  باب بَاب (baab) {m}, أبْوَاب (’abwaab) {p}, بِيبَان (bibaan) {p} :: chapter, section, column
-  باب بَاب (baab) {m}, أبْوَاب (’abwaab) {p}, بِيبَان (bibaan) {p} :: group, class, category
-  باب بَاب (baab) {m}, أبْوَاب (’abwaab) {p}, بِيبَان (bibaan) {p} :: domain, field (figurative)
-  (Egyptian Arabic) باب (baab) {{arz-noun|m|أبواب|abwaab}} :: door (portal of entry into a building or room)
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: door
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: gate
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: opening, gateway
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: entrance
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: chapter, section, column
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: group, class, category
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: {figurative} domain, field
+  (Egyptian Arabic) باب (baab) {{arz-noun|m|بيبان|bibaan}} :: door (portal of entry into a building or room)
+===بَاب===
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: door
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: gate
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: opening, gateway
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: entrance
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: chapter, section, column
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: group, class, category
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: {figurative} domain, field
 ===بَاهِي===
   (Tunisian Arabic) اِسْمْ (ʾism) {m} (noun) :: title
     مَا خْتَارِشْ اِسْمْ بَاهِي لِكْتَابُو :: mā ḫtāriš ʾism bāhī liktābū
     He didn't choose a good title for his book :: --
 ***بان***
-  بان بَان (bānin) {m}, بُناة (bunā) {p} :: builder
+  بَانٍ (bānin) {{ar-noun|g=m|pl=بناة|pltr=bunā}} :: builder
   بان بَان (bān) (collective) {m}, بَانَة (bāna) (singulative) {f} :: ben tree, horseradish tree (the Moringa oleifera of Arabia and India, which produces oil of ben)
   بان بَان (bān) (collective) {m}, بَانَة (bāna) (singulative) {f} :: Egyptian willow (Salix aegyptiaca L.)
 ===banāt===
   غزل البنات (ġazl al-banāt) {{ar-noun|g=m}} :: cotton candy, candy floss, fairy floss
+===bānin===
+  بَانٍ (bānin) {{ar-noun|g=m|pl=بناة|pltr=bunā}} :: builder
+===بَانٍ===
+  بَانٍ (bānin) {{ar-noun|g=m|pl=بناة|pltr=bunā}} :: builder
 ***بات***
   بات (batt) {ar-adj} :: definite, definitive
   بات (batt) {ar-adj} :: categorical
@@ -383,6 +461,14 @@ Index: AR AR->EN
   بِنْت (bint) {{ar-noun|g=f|pl=بنات|pltr=banāt}} :: girl
   بِنْت (bint) {{ar-noun|g=f|pl=بنات|pltr=banāt}} :: descendant
   بِنْت (bint) {{ar-noun|g=f|pl=بنات|pltr=banāt}} :: queen
+===بِرِيطَانِيّ===
+  بِرِيطَانِيّ (biriṭāniy) {{ar-noun|g=m}} :: Englishman, Briton, Brit
+  بِرِيطَانِيّ (biriṭāniy) {{ar-adj|g=m}} :: British
+  بِرِيطَانِيّ (biriṭāniy) {{ar-adj|g=m}} :: Britannic
+===biriṭāniy===
+  بِرِيطَانِيّ (biriṭāniy) {{ar-noun|g=m}} :: Englishman, Briton, Brit
+  بِرِيطَانِيّ (biriṭāniy) {{ar-adj|g=m}} :: British
+  بِرِيطَانِيّ (biriṭāniy) {{ar-adj|g=m}} :: Britannic
 ***بنت***
   بِنْت (bint) {{ar-noun|g=f|pl=بنات|pltr=banāt}} :: daughter
   بِنْت (bint) {{ar-noun|g=f|pl=بنات|pltr=banāt}} :: girl
@@ -395,11 +481,13 @@ Index: AR AR->EN
   (Tunisian Arabic) و (u) (conjunction) :: and
     حَاجْتِي بْقْلَمْ وكَرّاسَة (ḥājtī bqlam u karrāsa) :: I need a pencil and a copy-book
 ***بريطاني***
-  بريطاني بِرِيطَانِيّ (biriṭāniy) {m} :: Englishman, Briton, Brit
-  بريطاني بِرِيطَانِيّ (biriṭāniy) {m} :: British
-  بريطاني بِرِيطَانِيّ (biriṭāniy) {m} :: Britannic
+  بِرِيطَانِيّ (biriṭāniy) {{ar-noun|g=m}} :: Englishman, Briton, Brit
+  بِرِيطَانِيّ (biriṭāniy) {{ar-adj|g=m}} :: British
+  بِرِيطَانِيّ (biriṭāniy) {{ar-adj|g=m}} :: Britannic
+===butásyum===
+  بوتاسيوم (butásyum) {{ar-noun|g=m}} :: potassium
 ***بوتاسيوم***
-  بوتاسيوم (butásyum) {m} :: potassium
+  بوتاسيوم (butásyum) {{ar-noun|g=m}} :: potassium
 ===بيت===
   بيت المقدس (beyt al-muqáddas or al-máqdis) (proper noun) :: Jerusalem (the capital of Palestine and Israel)
 ===ḏáhab===
@@ -452,11 +540,13 @@ Index: AR AR->EN
   دَم (dam) {{ar-noun|g=m|pl=دماء}} :: ointment, salve, unguent, liniment
   دَم (dam) {{ar-noun|g=m|pl=دماء}} :: paint
   دَم (dam) {{ar-noun|g=m|pl=دماء}} :: pigment, dye
+===dni===
+  سيدني (sí:dni) {{ar-proper noun|g=m}} :: Sydney (Australian city)
 ***دولار***
   دولار (dōlār) {m}, دولارات (dōlarāt) {p} :: dollar
 ===el===
-  (Egyptian Arabic) ال... (el-) (article) :: the
-  ال... (al-, el-) (article) :: the
+  (Egyptian Arabic) الـ (el-) (article) :: the
+  الـ (al-, el-) (article) :: the
 ===fársi===
   فارسي (fársi) {{ar-proper noun|g=m}} :: the Persian language
   فارسي (fársi) {{ar-adj|g=m|f=فارسية|ftr=farsiyya}} :: Persian
@@ -476,13 +566,15 @@ Index: AR AR->EN
 ===فَتْوى===
   فَتْوى (fatwā) {{ar-noun|g=f|pl=فتاو|plhead=فَتَاوٍ|pltr=fatāwin|pl2=فتاوى|pl2head=فَتَاوى|pl2tr=fatāwā}} :: fatwa, formal legal opinion
 ===fīl===
-  فِيل (fīl) {{ar-noun|g=m}}, فيلة (fiyala) {p}, فيول (fuyú:l) {p}, افيال (’afyá:l) {p}, فيلين (filīn) {p} :: elephant
-  فِيل (fīl) {{ar-noun|g=m}}, فيلة (fiyala) {p}, فيول (fuyú:l) {p}, افيال (’afyá:l) {p}, فيلين (filīn) {p} :: bishop (chess) (plural: فيلين)
+  فِيل (fīl) {{ar-noun|g=m}}, فيلة (fiyala) {p}, فيول (fuyú:l) {p}, افيال (’afyá:l) {p}, فيلين (filīn) dual :: elephant
+  فِيل (fīl) {{ar-noun|g=m}}, فيلة (fiyala) {p}, فيول (fuyú:l) {p}, افيال (’afyá:l) {p}, فيلين (filīn) dual :: bishop (chess) (plural: فيلين)
 ===فِيل===
-  فِيل (fīl) {{ar-noun|g=m}}, فيلة (fiyala) {p}, فيول (fuyú:l) {p}, افيال (’afyá:l) {p}, فيلين (filīn) {p} :: elephant
-  فِيل (fīl) {{ar-noun|g=m}}, فيلة (fiyala) {p}, فيول (fuyú:l) {p}, افيال (’afyá:l) {p}, فيلين (filīn) {p} :: bishop (chess) (plural: فيلين)
+  فِيل (fīl) {{ar-noun|g=m}}, فيلة (fiyala) {p}, فيول (fuyú:l) {p}, افيال (’afyá:l) {p}, فيلين (filīn) dual :: elephant
+  فِيل (fīl) {{ar-noun|g=m}}, فيلة (fiyala) {p}, فيول (fuyú:l) {p}, افيال (’afyá:l) {p}, فيلين (filīn) dual :: bishop (chess) (plural: فيلين)
+===filasṭīn===
+  فلسطين (filasṭīn) {ar-proper noun} :: Palestine
 ***فلسطين***
-  فلسطين (filasṭīn) :: Palestine
+  فلسطين (filasṭīn) {ar-proper noun} :: Palestine
 ***فرنسية***
   فرنسية فَرَنْسِيّة (faransíyya) {f} :: French language
   فرنسية فَرَنْسِيّة (faransíyya) {f} :: French woman, French girl
@@ -493,8 +585,8 @@ Index: AR AR->EN
     ولدت في مدينة كبيرة. (passive voice) :: wulidtu fi madīna(tin) kabīra.
     I was born in a big city. :: --
 ***فيل***
-  فِيل (fīl) {{ar-noun|g=m}}, فيلة (fiyala) {p}, فيول (fuyú:l) {p}, افيال (’afyá:l) {p}, فيلين (filīn) {p} :: elephant
-  فِيل (fīl) {{ar-noun|g=m}}, فيلة (fiyala) {p}, فيول (fuyú:l) {p}, افيال (’afyá:l) {p}, فيلين (filīn) {p} :: bishop (chess) (plural: فيلين)
+  فِيل (fīl) {{ar-noun|g=m}}, فيلة (fiyala) {p}, فيول (fuyú:l) {p}, افيال (’afyá:l) {p}, فيلين (filīn) dual :: elephant
+  فِيل (fīl) {{ar-noun|g=m}}, فيلة (fiyala) {p}, فيول (fuyú:l) {p}, افيال (’afyá:l) {p}, فيلين (filīn) dual :: bishop (chess) (plural: فيلين)
 ***فيلم***
   فيلم فيلْم (film) {m}, افلام (’aflām) {p} :: film, motion picture
 ***فيلسوف***
@@ -525,6 +617,16 @@ Index: AR AR->EN
   هَل (hal) {ar-part} :: initial interrogative particle that indicates a yes-or-no question.
 ===هَل===
   هَل (hal) {ar-part} :: initial interrogative particle that indicates a yes-or-no question.
+===ḥalāl===
+  حَلال (ḥalāl) {ar-adj} :: halal, that which is permitted
+  حَلال (ḥalāl) {ar-adj} :: allowed, permitted, allowable, admissible, permissible
+  حَلال (ḥalāl) {ar-adj} :: lawful, legal, licit, legitimate
+  حَلال (ḥalāl) {{ar-noun|g=m}} :: lawful possession
+===حَلال===
+  حَلال (ḥalāl) {ar-adj} :: halal, that which is permitted
+  حَلال (ḥalāl) {ar-adj} :: allowed, permitted, allowable, admissible, permissible
+  حَلال (ḥalāl) {ar-adj} :: lawful, legal, licit, legitimate
+  حَلال (ḥalāl) {{ar-noun|g=m}} :: lawful possession
 ===Hamaas===
   حَماس (Hamaas) {{ar-noun|g=m}} :: enthusiasm, zeal, excitement
 ===حَماس===
@@ -549,7 +651,7 @@ Index: AR AR->EN
   حَسَن (ħásan) {{ar-adj|g=m|f=حسنة|fhead=حَسَنَة|ftr=ħásana|el=أحسن|elhead=أحْسَن|eltr=ʾaħsan}} :: radiant, glad, charming
   حَسَن (ħásan) {{ar-adj|g=m|f=حسنة|fhead=حَسَنَة|ftr=ħásana|el=أحسن|elhead=أحْسَن|eltr=ʾaħsan}} :: graceful, fine, dainty
   حَسَن (ħásan) {{ar-adj|g=m|f=حسنة|fhead=حَسَنَة|ftr=ħásana|el=أحسن|elhead=أحْسَن|eltr=ʾaħsan}} :: okay, all right
-  حَسَن {m} (proper noun) :: Hassan, a male given name.
+  حَسَن {{ar-proper noun|g=m}} :: {{given name|male}}; Hassan
 ===ħásan===
   حَسَن (ħásan) {{ar-adj|g=m|f=حسنة|fhead=حَسَنَة|ftr=ħásana|el=أحسن|elhead=أحْسَن|eltr=ʾaħsan}} :: good, fine, well
   حَسَن (ħásan) {{ar-adj|g=m|f=حسنة|fhead=حَسَنَة|ftr=ħásana|el=أحسن|elhead=أحْسَن|eltr=ʾaħsan}} :: agreeable, pleasant, nice, well-favored
@@ -603,10 +705,10 @@ Index: AR AR->EN
 ***هل***
   هَل (hal) {ar-part} :: initial interrogative particle that indicates a yes-or-no question.
 ***حلال***
-  حلال حَلال (ḥalāl) :: halal, that which is permitted
-  حلال حَلال (ḥalāl) :: allowed, permitted, allowable, admissible, permissible
-  حلال حَلال (ḥalāl) :: lawful, legal, licit, legitimate
-  حلال (ḥalāl) {m} :: lawful possession
+  حَلال (ḥalāl) {ar-adj} :: halal, that which is permitted
+  حَلال (ḥalāl) {ar-adj} :: allowed, permitted, allowable, admissible, permissible
+  حَلال (ḥalāl) {ar-adj} :: lawful, legal, licit, legitimate
+  حَلال (ḥalāl) {{ar-noun|g=m}} :: lawful possession
 ***حمار***
   حمار حِمار (Himaar) {m}, حَمير (Hamiir) {p} :: donkey.
   حمار حِمار (Himaar) {m}, حَمير (Hamiir) {p} :: {colloquial} fool, idiot.
@@ -654,13 +756,13 @@ Index: AR AR->EN
   حَسَّنَ (ħássana) {{ar-verb|form=II|impf=يحسن|impftr=yuħassinu}} :: to apply cosmetics, to put on makeup
   حَسَّنَ (ħássana) {{ar-verb|form=II|impf=يحسن|impftr=yuħassinu}} :: to amend
   حَسَّنَ (ħássana) {{ar-verb|form=II|impf=يحسن|impftr=yuħassinu}} :: to fake
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: goodness
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: prettiness, beauty, loveliness, shapeliness, comeliness, gorgeousness, pulchritude
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: handsomeness
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: charm, charms, glamor
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: glory
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: nicety, fineness, grace, gracefulness, foppery
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: fineness, efficiency, efficacy
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: goodness
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: prettiness, beauty, loveliness, shapeliness, comeliness, gorgeousness, pulchritude
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: handsomeness
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: charm, charms, glamor
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: glory
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: nicety, fineness, grace, gracefulness, foppery
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: fineness, efficiency, efficacy
   حَسَن (ħásan) {{ar-adj|g=m|f=حسنة|fhead=حَسَنَة|ftr=ħásana|el=أحسن|elhead=أحْسَن|eltr=ʾaħsan}} :: good, fine, well
   حَسَن (ħásan) {{ar-adj|g=m|f=حسنة|fhead=حَسَنَة|ftr=ħásana|el=أحسن|elhead=أحْسَن|eltr=ʾaħsan}} :: agreeable, pleasant, nice, well-favored
   حَسَن (ħásan) {{ar-adj|g=m|f=حسنة|fhead=حَسَنَة|ftr=ħásana|el=أحسن|elhead=أحْسَن|eltr=ʾaħsan}} :: pretty, beautiful, lovely, comely, sightly, shapely, gorgeous, fair
@@ -669,28 +771,31 @@ Index: AR AR->EN
   حَسَن (ħásan) {{ar-adj|g=m|f=حسنة|fhead=حَسَنَة|ftr=ħásana|el=أحسن|elhead=أحْسَن|eltr=ʾaħsan}} :: radiant, glad, charming
   حَسَن (ħásan) {{ar-adj|g=m|f=حسنة|fhead=حَسَنَة|ftr=ħásana|el=أحسن|elhead=أحْسَن|eltr=ʾaħsan}} :: graceful, fine, dainty
   حَسَن (ħásan) {{ar-adj|g=m|f=حسنة|fhead=حَسَنَة|ftr=ħásana|el=أحسن|elhead=أحْسَن|eltr=ʾaħsan}} :: okay, all right
-  حَسَن {m} (proper noun) :: Hassan, a male given name.
+  حَسَن {{ar-proper noun|g=m}} :: {{given name|male}}; Hassan
 ===حُسْن===
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: goodness
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: prettiness, beauty, loveliness, shapeliness, comeliness, gorgeousness, pulchritude
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: handsomeness
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: charm, charms, glamor
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: glory
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: nicety, fineness, grace, gracefulness, foppery
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: fineness, efficiency, efficacy
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: goodness
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: prettiness, beauty, loveliness, shapeliness, comeliness, gorgeousness, pulchritude
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: handsomeness
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: charm, charms, glamor
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: glory
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: nicety, fineness, grace, gracefulness, foppery
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: fineness, efficiency, efficacy
 ===ħúsn===
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: goodness
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: prettiness, beauty, loveliness, shapeliness, comeliness, gorgeousness, pulchritude
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: handsomeness
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: charm, charms, glamor
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: glory
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: nicety, fineness, grace, gracefulness, foppery
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: fineness, efficiency, efficacy
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: goodness
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: prettiness, beauty, loveliness, shapeliness, comeliness, gorgeousness, pulchritude
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: handsomeness
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: charm, charms, glamor
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: glory
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: nicety, fineness, grace, gracefulness, foppery
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: fineness, efficiency, efficacy
 ***هيام***
   هيام هيَام (huyām, hiyām) {m} :: ardent love, ardent love
   هيام هيَام (huyām, hiyām) {m} :: burning thirst
 ===iksīnon===
   إكسينون (’iksīnon) {{ar-noun|g=m}} :: xenon
+===īliyy===
+  إسرائيليّ (’isra’īliyy) {ar-adj} :: Israeli
+  إسرائيليّ (’isra’īliyy) {ar-noun} :: Israelite, Israeli
 ===ill===
   ال (ill) {{ar-noun|g=m}} :: pact, covenant
   ال (ill) {{ar-noun|g=m}} :: consanguinity, blood relationship
@@ -702,8 +807,18 @@ Index: AR AR->EN
   (Egyptian Arabic) انت (inta) {m} (pronoun), انتي (inti) {f}, انتوا (intu) {p} :: you
 ===íntu===
   (Egyptian Arabic) انتوا (íntu) {p} (pronoun) :: you (subject pronoun)
+===IPA===
+  (Egyptian Arabic) واحد ({{IPA|ˈwɛːħɪd}}) {m} (numeral) ( ({{IPA|ˈwæħdæ}}) واحدة {l|g=f}) :: {cardinal} one
+    Eastern Arabic numeral: ١ :: --
 ===ir===
+  الجَزَائِر (al-jazā’ir) {ar-proper noun} {p} :: Algiers
+  الجَزَائِر (al-jazā’ir) {ar-proper noun} {p} :: Algeria
   الجَزَائِر (al-jazā’ir) {ar-proper noun} :: Algeria
+===īrān===
+  إِيرَان ('īrān) {ar-proper noun} :: Iran
+===isra===
+  إسرائيليّ (’isra’īliyy) {ar-adj} :: Israeli
+  إسرائيليّ (’isra’īliyy) {ar-noun} :: Israelite, Israeli
 ===jāmiʕ===
   مسجد مَسْجِدٌ (masjid) {m}, مسجدان (masjidān) dual, مساجد (masājid) {p} :: mosque
     مسجد جامع (masjid jāmiʕ) :: central mosque, great mosque
@@ -717,6 +832,8 @@ Index: AR AR->EN
     المسجد الاقصى (al-masjid al-’aqṣā) :: Al-Aqsa Mosque (in Jerusalem’s Temple Square)
     المسجدان (al-masjidān) :: the Two Mosques (of Mecca and Medina)
 ===jazā===
+  الجَزَائِر (al-jazā’ir) {ar-proper noun} {p} :: Algiers
+  الجَزَائِر (al-jazā’ir) {ar-proper noun} {p} :: Algeria
   الجَزَائِر (al-jazā’ir) {ar-proper noun} :: Algeria
 ***جدا***
   جِدًا (jíddan) (adverb) :: very
@@ -861,6 +978,8 @@ Index: AR AR->EN
     He didn't choose a good title for his book :: --
 ===maa===
   مَا وَرَاءَ النَهْر (maa waraa3a n-nahr) (proper noun) :: Transoxiana, "beyond the river" (an old name for the land in Central Asia north of the Amu Darya River).
+===mághrib===
+  المغرب (al-mághrib) {{ar-proper noun|g=m}} :: Morocco
 ===málika===
   مَلِكَة (málika) {{ar-noun|g=f}} :: queen
 ===مَلِكَة===
@@ -920,6 +1039,10 @@ Index: AR AR->EN
 ===مَسْك===
   مَسْك (mask) {{ar-noun|g=m}} :: seizure, grip, hold
   مَسْك (mask) {{ar-noun|g=m}} :: keeping (bookkeeping, etc.)
+===maṣr===
+  مصر (miṣr, maṣr) {{ar-noun|g=m|pl=أمصار|plhead=أَمْصَار|pltr=’amṣār}} :: big city, metropolis, capital
+  مصر (miṣr, maṣr) {{ar-proper noun|g=f}} :: Egypt or Masr (in this sense, a feminine noun)
+  مصر (miṣr, maṣr) {{ar-proper noun|g=f}} :: Cairo (colloquial, in this sense, a feminine noun)
 ===mazāj===
   مزاج (mazāj) {{ar-noun|g=m|pl=امزجة}} (’ámzija) :: mixture, medley, blend
   مزاج (mazāj) {{ar-noun|g=m|pl=امزجة}} (’ámzija) :: temperament, temper, nature, disposition
@@ -967,6 +1090,10 @@ Index: AR AR->EN
   مِسْك (misk) {{ar-noun|g=m|g2=f}} :: musk
 ===مِسْك===
   مِسْك (misk) {{ar-noun|g=m|g2=f}} :: musk
+===miṣr===
+  مصر (miṣr, maṣr) {{ar-noun|g=m|pl=أمصار|plhead=أَمْصَار|pltr=’amṣār}} :: big city, metropolis, capital
+  مصر (miṣr, maṣr) {{ar-proper noun|g=f}} :: Egypt or Masr (in this sense, a feminine noun)
+  مصر (miṣr, maṣr) {{ar-proper noun|g=f}} :: Cairo (colloquial, in this sense, a feminine noun)
 ***مخاط***
   مخاط مُخاط :: mucus
 ***مخازن***
@@ -1063,13 +1190,13 @@ Index: AR AR->EN
   مسلم (musállam) {ar-adj} :: unimpaired, intact, unblemished, flawless
   مسلم (musállam) {ar-adj} :: accepted, uncontested, incontestable, indisputable, incontrovertible
 ***مصر***
-  مصر (miSr, maSr) {m}, امصار (’amSaar) {p} :: big city, metropolis, capital
-  مصر (miSr, maSr) {f} :: Egypt or Masr (in this sense, a feminine noun)
-  مصر (miSr, maSr) {f} :: Cairo (colloquial, in this sense, a feminine noun)
-  مصر مُصِرّ (muSírr) {m} :: insistent
-  مصر {{ar-verb (old)|II|مصر|máSSara}}{{ar-verb (old)|V|تمصر|tamáSSara}} :: to found, to build, to settle, to civilize, to colonize
-  مصر {{ar-verb (old)|II|مصر|máSSara}}{{ar-verb (old)|V|تمصر|tamáSSara}} :: to become a populated area, to become a big city, to become a metropolis
-  مصر {{ar-verb (old)|II|مصر|máSSara}}{{ar-verb (old)|V|تمصر|tamáSSara}} :: to Egyptianize, to become an Egyptian
+  مصر (miṣr, maṣr) {{ar-noun|g=m|pl=أمصار|plhead=أَمْصَار|pltr=’amṣār}} :: big city, metropolis, capital
+  مصر (miṣr, maṣr) {{ar-proper noun|g=f}} :: Egypt or Masr (in this sense, a feminine noun)
+  مصر (miṣr, maṣr) {{ar-proper noun|g=f}} :: Cairo (colloquial, in this sense, a feminine noun)
+  مُصِرّ (muṣírr) {{ar-adj|g=m}} :: insistent
+  مصر {{ar-verb (old)|II|مصر|máṣṣara}}{{ar-verb (old)|V|تمصر|tamáṣṣara}} :: to found, to build, to settle, to civilize, to colonize
+  مصر {{ar-verb (old)|II|مصر|máṣṣara}}{{ar-verb (old)|V|تمصر|tamáṣṣara}} :: to become a populated area, to become a big city, to become a metropolis
+  مصر {{ar-verb (old)|II|مصر|máṣṣara}}{{ar-verb (old)|V|تمصر|tamáṣṣara}} :: to Egyptianize, to become an Egyptian
 ***مترجم***
   مُترجِمٌ (mutárjim) {ar-noun} :: translator
   مُترجِمٌ (mutárjim) {ar-noun} :: interpreter
@@ -1083,6 +1210,12 @@ Index: AR AR->EN
 ===musállam===
   مسلم (musállam) {ar-adj} :: unimpaired, intact, unblemished, flawless
   مسلم (musállam) {ar-adj} :: accepted, uncontested, incontestable, indisputable, incontrovertible
+===músiqa===
+  موسيقى (músiqa) {{ar-noun|g=f}} :: music
+===مُصِرّ===
+  مُصِرّ (muṣírr) {{ar-adj|g=m}} :: insistent
+===muṣírr===
+  مُصِرّ (muṣírr) {{ar-adj|g=m}} :: insistent
 ===múslim===
   مُسْلِمٌ (múslim) {{ar-noun|g=m|pl=مسلمون|pltr=muslimūn}}, مسلمة (múslima) {f} :: Muslim
 ===مُسْلِمٌ===
@@ -1112,7 +1245,7 @@ Index: AR AR->EN
 ***مؤذن***
   مؤَذِّن (muʾáḏḏin) {{ar-noun|g=m|pl=مؤذنون|plhead=مؤَذِّنون|pltr=muʾaḏḏinūn}} :: muezzin, announcer of the hour of prayer
 ***موسيقى***
-  موسيقى (músiqa) {f} :: music
+  موسيقى (músiqa) {{ar-noun|g=f}} :: music
 ***مزاج***
   مزاج (mazāj) {{ar-noun|g=m|pl=امزجة}} (’ámzija) :: mixture, medley, blend
   مزاج (mazāj) {{ar-noun|g=m|pl=امزجة}} (’ámzija) :: temperament, temper, nature, disposition
@@ -1220,6 +1353,8 @@ Index: AR AR->EN
   ولد (wálada) {{ar-verb|form=1|I=و|impf=يلد|impftr=yalidu}} :: to bear, to give birth, to beget
     ولدت في مدينة كبيرة. (passive voice) :: wulidtu fi madīna(tin) kabīra.
     I was born in a big city. :: --
+===qāhira===
+  القاهرة (al-qāhira) {{ar-proper noun|g=f}} :: Cairo (capital of Egypt)
 ===qámar===
   قَمَرٌ (qámar) {{ar-noun|g=m|pl=أقمار|plhead=أقْمَار|pltr=’aqmār}} :: moon
   قَمَرٌ (qámar) {{ar-noun|g=m|pl=أقمار|plhead=أقْمَار|pltr=’aqmār}} :: satellite
@@ -1345,6 +1480,8 @@ Index: AR AR->EN
   رجل (rijl) {{ar-noun|g=f|pl=ارجل|pltr=ʾárjul}} :: {anatomy} leg, foot
   رجل (rijl) {{ar-noun|g=m|pl=ارجال|pltr=ʾarjāl}} :: swarm (especially, of locusts)
   رجل (rijl) {{ar-noun|g=m|pl=ارجال|pltr=ʾarjāl}} :: purslane (Portulaca oleracea L.)
+===riyāḍ===
+  الرياض (al-riyāḍ) {{ar-proper noun|g=m}} :: Riyadh
 ***رجل***
   رجل (rájila) {{ar-verb|form=1|impf=يرجل}} :: to go on foot, to walk
   رجل (rájjala) {{ar-verb|form=2|impf=يرجل}} :: to comb (the hair)
@@ -1364,6 +1501,8 @@ Index: AR AR->EN
 ***روسية***
   روسية رُوسِيّة (rusíyya) f :: Russian
     الرُوسِيّة (ar-rusíyya) — the Russian language :: --
+===sa3ūdíyya===
+  السعودية (al-sa3ūdíyya) {{ar-proper noun|g=f}} :: Saudi Arabia
 ===ṣádara===
   صدر (ṣádara) {{ar-verb|form=1}} :: to go out, to step out, to leave
   صدر (ṣádara) {{ar-verb|form=1}} :: to proceed, to emanate, to arise, to originate, to stem
@@ -1396,6 +1535,8 @@ Index: AR AR->EN
   شَغِف (šáğif) {ar-adj} :: madly in love, infatuated with, enamored of, fascinated by
 ===šají===
   شَجِر (šají:r) {ar-adj} :: woody, wooded
+===salām===
+  سلام (salām) {{ar-noun|g=m}} :: peace
 ===سَلَّمَ===
   سَلَّمَ (sállama) {{ar-verb|form=2}} :: to greet
   سَلَّمَ (sállama) {{ar-verb|form=2}} :: to make safe, to protect
@@ -1447,10 +1588,14 @@ Index: AR AR->EN
 ===šārib===
   شارب (šārib) {{ar-noun|g=m|pl=شاربون|pltr=šāribun|pl2=شرب|pl2tr=šarb|pl3=شروب|pl3tr=šurūb}} :: drinking
   شارب (šārib) {{ar-noun|g=m|pl=شاربون|pltr=šāribun|pl2=شرب|pl2tr=šarb|pl3=شروب|pl3tr=šurūb}} :: drinker
+===šarq===
+  الشرق الأوسط (aš-šarq al-áwsaṭ) {{ar-proper noun|g=m}} :: The Middle East
 ===šárrafa===
   شَرَْفَ (šárrafa) {{ar-verb|form=2|impf=يشرف|impfhead=يُشَرِّفُ|impftr=yušárrifu}} :: to make noble, to ennoble, to make illustrious, to make eminent, to elevate, to exalt, to honor
 ===šárufa===
   شَرُفَ (šárufa) {{ar-verb|form=1}} :: to be noble, to be highborn, to be illustrious, to be eminent, to be distinguished, to be high-ranking
+===sayyāra===
+  سيّارةٌ (sayyāra) {{ar-noun|g=f|pl=سيارات|pltr=sayyarāt}} :: automobile, car, motorcar
 ***صدر***
   صدر (ṣádara) {{ar-verb|form=1}} :: to go out, to step out, to leave
   صدر (ṣádara) {{ar-verb|form=1}} :: to proceed, to emanate, to arise, to originate, to stem
@@ -1579,6 +1724,8 @@ Index: AR AR->EN
   شيخ (šeykh) {m}, شيوخ (šuyūkh) {p}, اشياخ (ašyākh) {p}, مشيخة (mašyákha) {p}, مشايخ (mašāyikh) {p}, مشائخ (mašā’ikh) {p} :: senator
   شيخ (šeykh) {m}, شيوخ (šuyūkh) {p}, اشياخ (ašyākh) {p}, مشيخة (mašyákha) {p}, مشايخ (mašāyikh) {p}, مشائخ (mašā’ikh) {p} :: (title of professors and spiritual leaders) sheik, Dr., professor
   شيخ (šeykh) {m}, شيوخ (šuyūkh) {p}, اشياخ (ašyākh) {p}, مشيخة (mašyákha) {p}, مشايخ (mašāyikh) {p}, مشائخ (mašā’ikh) {p} :: (title of address) sir
+===sí===
+  سيدني (sí:dni) {{ar-proper noun|g=m}} :: Sydney (Australian city)
 ===sillim===
   (Egyptian Arabic) سلّم (sillim) (noun), {p} سلالم (salaalim) :: stairs
 ===silm===
@@ -1589,7 +1736,7 @@ Index: AR AR->EN
   الصين (al-ṣīn) {{ar-proper noun|g=f}} :: China
   الصين (al-ṣīn) {{ar-noun|g=m}} :: iron
 ***سلام***
-  سلام (salām) {m} :: peace
+  سلام (salām) {{ar-noun|g=m}} :: peace
 ***سلم***
   سِلْم (silm) {{ar-noun|g=m}} :: peace
   سُلّم (sullám) {{ar-noun|g=m|plhead=سَلَالِم|pl=سلالم|pltr=sálālim}} :: ladder, stairs
@@ -1655,12 +1802,16 @@ Index: AR AR->EN
 ===súnnat===
   سُنَّة (súnna) {{ar-noun|g=f|pl=سنن|pltr=súnan}} :: {Islam} habitual practice, customary procedure, norm
     سنة النبي (súnnat an-nabiy) :: the Sunna of the Prophet (his sayings and deeds)
+===sūrya===
+  سوريا (sūrya) {{ar-proper noun|g=f}} :: Syria
 ***سوريا***
-  سوريا (suurya) {f} :: Syria
+  سوريا (sūrya) {{ar-proper noun|g=f}} :: Syria
 ***سيارة***
-  سيارة سيّارةٌ (sayyāra) {f}, سيارات (sayyarāt) {p} :: automobile, car, motorcar
+  سيّارةٌ (sayyāra) {{ar-noun|g=f|pl=سيارات|pltr=sayyarāt}} :: automobile, car, motorcar
+===سيّارةٌ===
+  سيّارةٌ (sayyāra) {{ar-noun|g=f|pl=سيارات|pltr=sayyarāt}} :: automobile, car, motorcar
 ***سيدني***
-  سيدني (sí:dni) {m} :: Sydney (Australian city)
+  سيدني (sí:dni) {{ar-proper noun|g=m}} :: Sydney (Australian city)
 ***صينية***
   صينية (ṣiníyya) {f} :: Chinese language
   صينية (ṣiníyya) {f} :: Chinese
@@ -1672,6 +1823,8 @@ Index: AR AR->EN
 ===tailándi===
   تايلاندي (tailándi) {ar-adj} :: Thai
   تايلاندي (tailándi) {m} (noun) :: Thai language
+===tálli===
+  تل أبيب (tálli ’abīb) {ar-proper noun} :: Tel Aviv
 ===tárjama===
   تَرْجَمة (tárjama) {{ar-noun|g=f}}, plural: تَراجِم (taraajim), تَرْجَمَات (tarjamaat) :: translation
     الترجمة السبعينية (at-tárjamat as-sabʕiníya) — the Septuagint :: --
@@ -1702,7 +1855,7 @@ Index: AR AR->EN
 ***ثعلب***
   ثعلب (thá3lab) {m} (noun), ثعلبة (θáʕlaba) {f}, ثعالب (θaʕālib) {p} :: fox
 ===تل===
-  تل أبيب (tálli ’abīb) :: Tel Aviv
+  تل أبيب (tálli ’abīb) {ar-proper noun} :: Tel Aviv
 ***ترجمة***
   تَرْجَمة (tárjama) {{ar-noun|g=f}}, plural: تَراجِم (taraajim), تَرْجَمَات (tarjamaat) :: translation
     الترجمة السبعينية (at-tárjamat as-sabʕiníya) — the Septuagint :: --
@@ -1724,8 +1877,13 @@ Index: AR AR->EN
   أمّ (umm) {{ar-noun|g=f|plhead=أمّهات|pl=امهات}} :: mother
   أمّ (umm) {{ar-noun|g=f|plhead=أمّهات|pl=امهات}} :: origin
   أمّ (umm) {{ar-noun|g=f|plhead=أمّهات|pl=امهات}} :: source
+===únθā===
+  أنْثَى (’únθā) {{ar-adj|g=f|pl=إناث|pltr=’ināθ|pl2=أناثى|pl2tr=’anāθā}} :: feminine
+  أنْثَى (’únθā) {{ar-noun|g=f|pl=إناث|pltr=’ināθ|pl2=أناثى|pl2tr=’anāθā}} :: female
+  أنْثَى (’únθā) {{ar-noun|g=f|pl=إناث|pltr=’ināθ|pl2=أناثى|pl2tr=’anāθā}} :: female (of animals)
+    الانثيان (al-’unθayān) :: the testicles
 ===unθayān===
-  أنثى أنْثَى (’únθā) {f}, إناث (’ināθ) {p}, اناثى (’anāθā) {p} :: female (of animals)
+  أنْثَى (’únθā) {{ar-noun|g=f|pl=إناث|pltr=’ināθ|pl2=أناثى|pl2tr=’anāθā}} :: female (of animals)
     الانثيان (al-’unθayān) :: the testicles
 ===úrdunn===
   الأردن (al-’úrdunn) {{ar-proper noun|g=m}} :: Jordan (river and country)
@@ -1746,9 +1904,15 @@ Index: AR AR->EN
 ===wa===
   و (wa-, u-) {ar-con} :: and
 ***واحد***
-  واحد (wāħid) {m}, واحدة (wāħda) {f} :: one
+  واحد (wāħid) {m} (numeral) ( (wāħda) واحدة {l|g=f}) :: {cardinal} one
     Eastern Arabic numeral: ١ :: --
-  (Egyptian Arabic) واحد ({{IPA|ˈwɛːħɪd}}) {m}, واحدة ({{IPA|ˈwæħdæ}}) {f} :: one
+  (Egyptian Arabic) واحد ({{IPA|ˈwɛːħɪd}}) {m} (numeral) ( ({{IPA|ˈwæħdæ}}) واحدة {l|g=f}) :: {cardinal} one
+    Eastern Arabic numeral: ١ :: --
+===wāħda===
+  واحد (wāħid) {m} (numeral) ( (wāħda) واحدة {l|g=f}) :: {cardinal} one
+    Eastern Arabic numeral: ١ :: --
+===wāħid===
+  واحد (wāħid) {m} (numeral) ( (wāħda) واحدة {l|g=f}) :: {cardinal} one
     Eastern Arabic numeral: ١ :: --
 ===wálad===
   ولد (wálad) {{ar-noun|g=m|pl=أولاد|pltr=ʾawlād}} :: boy
@@ -1800,14 +1964,22 @@ Index: AR AR->EN
 ***يوم***
   يَوْمٌ (yawm) {{ar-noun|g=m|pl=أيام|plhead=أَيَّام|pltr='ayyaam}} :: day
   يَوْمٌ (yawm) {{ar-noun|g=m|pl=أيام|plhead=أَيَّام|pltr='ayyaam}} :: age, era, time, period, epoch
+===zawj===
+  زَوْج (zawj) {{ar-noun|g=m|f=زوجة|pl=أزواج|plhead=أَزْوَاج|pltr=’azwāj}} :: one of a pair
+  زَوْج (zawj) {{ar-noun|g=m|f=زوجة|pl=أزواج|plhead=أَزْوَاج|pltr=’azwāj}} :: husband, wife, mate, partner
+  زَوْج (zawj) {{ar-noun|g=m|f=زوجة|pl=أزواج|plhead=أَزْوَاج|pltr=’azwāj}} :: couple, pair
+===زَوْج===
+  زَوْج (zawj) {{ar-noun|g=m|f=زوجة|pl=أزواج|plhead=أَزْوَاج|pltr=’azwāj}} :: one of a pair
+  زَوْج (zawj) {{ar-noun|g=m|f=زوجة|pl=أزواج|plhead=أَزْوَاج|pltr=’azwāj}} :: husband, wife, mate, partner
+  زَوْج (zawj) {{ar-noun|g=m|f=زوجة|pl=أزواج|plhead=أَزْوَاج|pltr=’azwāj}} :: couple, pair
 ***زوج***
   زوج {{ar-verb (old)|II|زوّج|záwwaja}}{{ar-verb (old)|VIII|ازدوج|izdáwaja}} :: to pair, to couple, to join in pairs
   زوج {{ar-verb (old)|II|زوّج|záwwaja}}{{ar-verb (old)|VIII|ازدوج|izdáwaja}} :: to double, to geminate
   زوج {{ar-verb (old)|II|زوّج|záwwaja}}{{ar-verb (old)|VIII|ازدوج|izdáwaja}} :: to marry off, to give in marriage
   زوج {{ar-verb (old)|II|زوّج|záwwaja}}{{ar-verb (old)|VIII|ازدوج|izdáwaja}} :: to be in pairs, to be doubled, to appear twice
-  زوج (zawj) {m}, زوجة {f}, ازواج (’azwāj) {p} :: one of a pair
-  زوج (zawj) {m}, زوجة {f}, ازواج (’azwāj) {p} :: husband, wife, mate, partner
-  زوج (zawj) {m}, زوجة {f}, ازواج (’azwāj) {p} :: couple, pair
+  زَوْج (zawj) {{ar-noun|g=m|f=زوجة|pl=أزواج|plhead=أَزْوَاج|pltr=’azwāj}} :: one of a pair
+  زَوْج (zawj) {{ar-noun|g=m|f=زوجة|pl=أزواج|plhead=أَزْوَاج|pltr=’azwāj}} :: husband, wife, mate, partner
+  زَوْج (zawj) {{ar-noun|g=m|f=زوجة|pl=أزواج|plhead=أَزْوَاج|pltr=’azwāj}} :: couple, pair
 ===ʾána===
   أنَا (ʾána) {ar-pron}ـنِيـِي :: I (subject pronoun).
   أنَا (ʾána) {ar-pron}ـنِيـِي :: me (enclitic object pronoun).
@@ -1844,7 +2016,7 @@ Index: AR AR->EN
   عين {{ar-verb (old)|II|عيّن|ʕáyyana}} (transitive) :: to appoint, to nominate
   عين {{ar-verb (old)|II|عيّن|ʕáyyana}} (transitive) :: to define
   عين {{ar-verb (old)|II|عيّن|ʕáyyana}} (transitive) :: to designate, to specify
-  عين (ʕayn) {f}, عَيْنَانِ (ʕeynāni, dual nom.), عَيْنَيْنِ (ʕeynéyni, dual oblique), عُيُون (ʕuyūn, {p}) :: eye
+  عين (ʕayn) {f}, عَيْنَانِ (ʕeynāni, dual nom.), عَيْنَيْنِ (ʕeynéyni, dual oblique), عُيُون (ʕuyūn, {p}) :: {anatomy} eye (organ)
     عَيْنَاىَ (ʕeynāya, dual nom.) &mdash; my two eyes :: --
     عَيْنَاكَ (ʕeynāka, dual nom.) &mdash; your (m/sg) two eyes :: --
   عين (ʕayn) {f}, عَيْنَانِ (ʕeynāni, dual nom.), عَيْنَيْنِ (ʕeynéyni, dual oblique), عُيُون (ʕuyūn, {p}) :: spring (of water)
@@ -1912,7 +2084,7 @@ Index: EN EN->AR
   مسك {{ar-verb (old)|I|مَسَكَ|másaka}}{{ar-verb (old)|II|مَسَّكَ|mássaka}}{{ar-verb (old)|IV|أمْسَكَ|’ámsaka}}{{ar-verb (old)|V|تَمَسّكَ|tamássaka}}{{ar-verb (old)|VI|تَمَاسَكَ|tamá:saka}}{{ar-verb (old)|X|اِسْتَمْسَكَ|istámsaka}} :: to stick, cling, adhere, hang on
   مسك {{ar-verb (old)|I|مَسَكَ|másaka}}{{ar-verb (old)|II|مَسَّكَ|mássaka}}{{ar-verb (old)|IV|أمْسَكَ|’ámsaka}}{{ar-verb (old)|V|تَمَسّكَ|tamássaka}}{{ar-verb (old)|VI|تَمَاسَكَ|tamá:saka}}{{ar-verb (old)|X|اِسْتَمْسَكَ|istámsaka}} :: to keep, stick, cling, adhere
 ===admissible===
-  حلال حَلال (ḥalāl) :: allowed, permitted, allowable, admissible, permissible
+  حَلال (ḥalāl) {ar-adj} :: allowed, permitted, allowable, admissible, permissible
 ===adorn===
   حَسَّنَ (ħássana) {{ar-verb|form=II|impf=يحسن|impftr=yuħassinu}} :: to prettify, to beautify, to adorn, to make attractive
 ===aegyptiaca===
@@ -1944,10 +2116,10 @@ Index: EN EN->AR
 ===الف===
   ا / ‍ا (’álif)thumb :: Although usually considered to be the first letter of the Arabic alphabet, the small hamza (ء) that sits on top of أ is really the first letter of the Arabic alphabet, and the tall column is its bearer. This entry only deals with the lower part, the bearer, which is called الف (’álif) and, without the hamza, is used to lengthen a preceding vowel, often a. It is followed by ب.
 ===Algeria===
-  الجزائر الجَزَائِر (al-jazā’ir) {p} :: Algeria
+  الجَزَائِر (al-jazā’ir) {ar-proper noun} {p} :: Algeria
   الجَزَائِر (al-jazā’ir) {ar-proper noun} :: Algeria
 ===Algiers===
-  الجزائر الجَزَائِر (al-jazā’ir) {p} :: Algiers
+  الجَزَائِر (al-jazā’ir) {ar-proper noun} {p} :: Algiers
 ===álif===
   ا / ‍ا (’álif)thumb :: Although usually considered to be the first letter of the Arabic alphabet, the small hamza (ء) that sits on top of أ is really the first letter of the Arabic alphabet, and the tall column is its bearer. This entry only deals with the lower part, the bearer, which is called الف (’álif) and, without the hamza, is used to lengthen a preceding vowel, often a. It is followed by ب.
 ===Allah===
@@ -1955,15 +2127,15 @@ Index: EN EN->AR
 ===الله===
   سمى {{ar-verb (old)|II|سمى|sámmā}}{{ar-verb (old)|IV|اسمى|’ásmā}}{{ar-verb (old)|V|تسمى|tasámmā}} :: to say بسم الله (in the name of God)
 ===allowable===
-  حلال حَلال (ḥalāl) :: allowed, permitted, allowable, admissible, permissible
+  حَلال (ḥalāl) {ar-adj} :: allowed, permitted, allowable, admissible, permissible
 ===allowed===
-  حلال حَلال (ḥalāl) :: allowed, permitted, allowable, admissible, permissible
+  حَلال (ḥalāl) {ar-adj} :: allowed, permitted, allowable, admissible, permissible
 ===alone===
   شاذ (šaðð), شذاذ (šuððāð) {p}, شواذ (šawáðð) {p} :: isolated, separate, detached, alone
 ===along===
   ذهب (ḏáhaba) {{ar-verb|form=1|impf=يذهب|impftr=yaḏhabu}} :: to lead someone, to conduct someone, to take someone along
 ===alphabet===
-  أبجدية أَبْجَدِيَّة (’abjadíyya) {f} :: alphabet
+  أَبْجَدِيَّة (’abjadíyya) {{ar-noun|g=f}} :: alphabet
   حروف الهجاء حُرُوف الهِجَاء (ħurúːf al-hijáː’) m/pl :: alphabet
   الألِفْبَاء (al-’alifbáː’) {ar-noun} :: alphabet
   و / ‍و (wāw) :: The twenty-seventh letter of the Arabic alphabet. It is preceded by ه and followed by ى.
@@ -1975,7 +2147,7 @@ Index: EN EN->AR
   حرف حَرف (ħarf) {m}, حروف (ħurūf) {p}, أحرف (’áħruf) {p} :: letter (of the alphabet), piece of type
     حرفًا بحرفٍ (ħárfan bi-ħárfin) — word for word :: --
 ===alphabetical===
-  ابجدي أبجَدِيّ (’abjádi) {m}, أبجَدِيّةٌ (’abjadíyya) f and pl :: alphabetical
+  أبجَدِيّ (’abjádi) {{ar-adj|g=m|f=أبجدية|fhead=أبجَدِيّةٌ|fpl=’abjadíyya|pl=أبجدية|pltr=’abjadíyya}} :: alphabetical
   الفبائي ألِفْبَائِيّ (’alifbá’i) {m}, ألِفْبَائِيّة (’alifba’íyya) f and pl :: alphabetical
 ===altercate===
   شجر {{ar-verb (old)|I|شَجَرَ|šájara}}{{ar-verb (old)|II|شَجّرَ|šájjara}}{{ar-verb (old)|III|شَاجَرَ|šājara|شاجر}}{{ar-verb (old)|V|تَشَجّرَ|tašájjara|تشجر}}{{ar-verb (old)|VI|تَشَاجَرَ|tašājara|تشاجر}}{{ar-verb (old)|VIII|اِشْتَجَرَ|ištájara|اشتجر}} :: to altercate
@@ -1993,9 +2165,9 @@ Index: EN EN->AR
 ===Amu===
   مَا وَرَاءَ النَهْر (maa waraa3a n-nahr) (proper noun) :: Transoxiana, "beyond the river" (an old name for the land in Central Asia north of the Amu Darya River).
 ===ancestor===
-  أبٌ (’ab) {m} (noun), آبَاءٌ (’ābā’) {p} :: ancestor, forefather
+  أبٌ (’ab) {{ar-noun|g=m|pl=آباء|plhead=آبَاءٌ|pltr=’ābā’}} :: ancestor, forefather
 ===animals===
-  أنثى أنْثَى (’únθā) {f}, إناث (’ināθ) {p}, اناثى (’anāθā) {p} :: female (of animals)
+  أنْثَى (’únθā) {{ar-noun|g=f|pl=إناث|pltr=’ināθ|pl2=أناثى|pl2tr=’anāθā}} :: female (of animals)
     الانثيان (al-’unθayān) :: the testicles
 ===annihilate===
   ذهب (ḏáhaba) {{ar-verb|form=1|impf=يذهب|impftr=yaḏhabu}} :: to abduct, to steal, to sweep away, to annihilate
@@ -2031,7 +2203,7 @@ Index: EN EN->AR
   عربي (ʕárabi) {m}, عربية (ʕarabíyya) {f}, {p} :: Arab
   عربي (ʕárabi), عربية (ʕarabíyya) {f}, {p} :: Arab
 ===Arabia===
-  السعودية (al-sa3uudíyya) {f} :: Saudi Arabia
+  السعودية (al-sa3ūdíyya) {{ar-proper noun|g=f}} :: Saudi Arabia
   بان بَان (bān) (collective) {m}, بَانَة (bāna) (singulative) {f} :: ben tree, horseradish tree (the Moringa oleifera of Arabia and India, which produces oil of ben)
 ===Arabian===
   عربي (ʕárabi) {m}, عربية (ʕarabíyya) {f}, {p} :: Arabian
@@ -2053,7 +2225,7 @@ Index: EN EN->AR
   شغف (šáğafa) {{ar-verb|form=I|impf=يشغف}} :: to infatuate, to enamor, to fill with ardent passion
   شَغْف (šağf) {{ar-noun|g=m}} :: infatuating, enamoring, having ardent passion
 ===area===
-  مصر {{ar-verb (old)|II|مصر|máSSara}}{{ar-verb (old)|V|تمصر|tamáSSara}} :: to become a populated area, to become a big city, to become a metropolis
+  مصر {{ar-verb (old)|II|مصر|máṣṣara}}{{ar-verb (old)|V|تمصر|tamáṣṣara}} :: to become a populated area, to become a big city, to become a metropolis
 ===argue===
   شجر {{ar-verb (old)|I|شَجَرَ|šájara}}{{ar-verb (old)|II|شَجّرَ|šájjara}}{{ar-verb (old)|III|شَاجَرَ|šājara|شاجر}}{{ar-verb (old)|V|تَشَجّرَ|tašájjara|تشجر}}{{ar-verb (old)|VI|تَشَاجَرَ|tašājara|تشاجر}}{{ar-verb (old)|VIII|اِشْتَجَرَ|ištájara|اشتجر}} :: to argue noisily with
 ===arise===
@@ -2076,16 +2248,16 @@ Index: EN EN->AR
 ===August===
   اب آب (’Āb) {m} :: August (month name used in Syria, Lebanon, Jordan, and Iraq)
 ===Australian===
-  سيدني (sí:dni) {m} :: Sydney (Australian city)
+  سيدني (sí:dni) {{ar-proper noun|g=m}} :: Sydney (Australian city)
 ===Authority===
   السلطة الوطنية الفلسطينية (as-súlṭaṭ al-waṭaníyya al-filaṣṭiníyya) {f} :: Palestine National Authority
 ===automobile===
   العربية (al-ʕarabíyya) {f} :: {{context|colloquial|Egypt}} car, automobile
-  سيارة سيّارةٌ (sayyāra) {f}, سيارات (sayyarāt) {p} :: automobile, car, motorcar
+  سيّارةٌ (sayyāra) {{ar-noun|g=f|pl=سيارات|pltr=sayyarāt}} :: automobile, car, motorcar
 ===avaricious===
   مُسُك (músuk) {{ar-adj|g=m|pl=مسكة|plhead=مُسَكَة|pltr=músaka}} :: grasping, greedy, avaricious
 ===Aviv===
-  تل أبيب (tálli ’abīb) :: Tel Aviv
+  تل أبيب (tálli ’abīb) {ar-proper noun} :: Tel Aviv
 ===avoid===
   حرف {{ar-verb (old)|II|حرّف|ħárrafa}}{{ar-verb (old)|V|تحرف|taħárrafa}} :: to avoid
 ===away===
@@ -2127,15 +2299,15 @@ Index: EN EN->AR
 ===beautify===
   حَسَّنَ (ħássana) {{ar-verb|form=II|impf=يحسن|impftr=yuħassinu}} :: to prettify, to beautify, to adorn, to make attractive
 ===beauty===
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: prettiness, beauty, loveliness, shapeliness, comeliness, gorgeousness, pulchritude
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: prettiness, beauty, loveliness, shapeliness, comeliness, gorgeousness, pulchritude
   جمال جَمال (jamāl) :: beauty
 ===become===
   بات {{ar-verb (old)|I|بات|bāta}}{{ar-verb (old)|II|بات|bátta}} :: to become
   حَسُنَ (ħásuna) {{ar-verb|form=I|impf=يحسن}} :: to become good
   كلب {{ar-verb (old)|I|كلب|káliba}}{{ar-verb (old)|VI|تكالب|takālaba}}{{ar-verb (old)|X|استكلب|istáklaba}} :: to be seized by hydrophobia, to become rabid
   كلب {{ar-verb (old)|I|كلب|káliba}}{{ar-verb (old)|VI|تكالب|takālaba}}{{ar-verb (old)|X|استكلب|istáklaba}} :: to become mad, to become crazy
-  مصر {{ar-verb (old)|II|مصر|máSSara}}{{ar-verb (old)|V|تمصر|tamáSSara}} :: to become a populated area, to become a big city, to become a metropolis
-  مصر {{ar-verb (old)|II|مصر|máSSara}}{{ar-verb (old)|V|تمصر|tamáSSara}} :: to Egyptianize, to become an Egyptian
+  مصر {{ar-verb (old)|II|مصر|máṣṣara}}{{ar-verb (old)|V|تمصر|tamáṣṣara}} :: to become a populated area, to become a big city, to become a metropolis
+  مصر {{ar-verb (old)|II|مصر|máṣṣara}}{{ar-verb (old)|V|تمصر|tamáṣṣara}} :: to Egyptianize, to become an Egyptian
   حرف {{ar-verb (old)|II|حرّف|ħárrafa}}{{ar-verb (old)|V|تحرف|taħárrafa}} :: to become bent off, to be distorted, to be perverted
   ام {{ar-verb (old)|I|أمّ|’ámma|ام}}{{ar-verb (old)|II|أمّم|’ámmama|امم}}{{ar-verb (old)|V|تَأمّمَ|ta’ámmama|تأمم}}{{ar-verb (old)|VIII|اِئْتَمّ|i’támma|ائتم}} :: to become a mother
 ===becomes===
@@ -2180,8 +2352,8 @@ Index: EN EN->AR
 ===bicker===
   شجر {{ar-verb (old)|I|شَجَرَ|šájara}}{{ar-verb (old)|II|شَجّرَ|šájjara}}{{ar-verb (old)|III|شَاجَرَ|šājara|شاجر}}{{ar-verb (old)|V|تَشَجّرَ|tašájjara|تشجر}}{{ar-verb (old)|VI|تَشَاجَرَ|tašājara|تشاجر}}{{ar-verb (old)|VIII|اِشْتَجَرَ|ištájara|اشتجر}} :: to bicker
 ===big===
-  مصر (miSr, maSr) {m}, امصار (’amSaar) {p} :: big city, metropolis, capital
-  مصر {{ar-verb (old)|II|مصر|máSSara}}{{ar-verb (old)|V|تمصر|tamáSSara}} :: to become a populated area, to become a big city, to become a metropolis
+  مصر (miṣr, maṣr) {{ar-noun|g=m|pl=أمصار|plhead=أَمْصَار|pltr=’amṣār}} :: big city, metropolis, capital
+  مصر {{ar-verb (old)|II|مصر|máṣṣara}}{{ar-verb (old)|V|تمصر|tamáṣṣara}} :: to become a populated area, to become a big city, to become a metropolis
 ===biographer===
   مُترجِمٌ (mutárjim) {ar-noun} :: biographer
 ===biography===
@@ -2191,7 +2363,7 @@ Index: EN EN->AR
     ولدت في مدينة كبيرة. (passive voice) :: wulidtu fi madīna(tin) kabīra.
     I was born in a big city. :: --
 ===bishop===
-  فِيل (fīl) {{ar-noun|g=m}}, فيلة (fiyala) {p}, فيول (fuyú:l) {p}, افيال (’afyá:l) {p}, فيلين (filīn) {p} :: bishop (chess) (plural: فيلين)
+  فِيل (fīl) {{ar-noun|g=m}}, فيلة (fiyala) {p}, فيول (fuyú:l) {p}, افيال (’afyá:l) {p}, فيلين (filīn) dual :: bishop (chess) (plural: فيلين)
 ===blatant===
   صري :: blatant
 ===blend===
@@ -2237,23 +2409,23 @@ Index: EN EN->AR
 ===brink===
   حرف حَرف (ħarf) {m}, حِرَف (ħíraf) {p} :: border, brink, edge, rim
 ===Brit===
-  بريطاني بِرِيطَانِيّ (biriṭāniy) {m} :: Englishman, Briton, Brit
+  بِرِيطَانِيّ (biriṭāniy) {{ar-noun|g=m}} :: Englishman, Briton, Brit
 ===Britannic===
-  بريطاني بِرِيطَانِيّ (biriṭāniy) {m} :: Britannic
+  بِرِيطَانِيّ (biriṭāniy) {{ar-adj|g=m}} :: Britannic
 ===British===
-  بريطاني بِرِيطَانِيّ (biriṭāniy) {m} :: British
+  بِرِيطَانِيّ (biriṭāniy) {{ar-adj|g=m}} :: British
 ===Briton===
-  بريطاني بِرِيطَانِيّ (biriṭāniy) {m} :: Englishman, Briton, Brit
+  بِرِيطَانِيّ (biriṭāniy) {{ar-noun|g=m}} :: Englishman, Briton, Brit
 ===brood===
   بات {{ar-verb (old)|I|بات|bāta}}{{ar-verb (old)|II|بات|bátta}} :: to brood
 ===بسم===
   سمى {{ar-verb (old)|II|سمى|sámmā}}{{ar-verb (old)|IV|اسمى|’ásmā}}{{ar-verb (old)|V|تسمى|tasámmā}} :: to say بسم الله (in the name of God)
 ===build===
-  مصر {{ar-verb (old)|II|مصر|máSSara}}{{ar-verb (old)|V|تمصر|tamáSSara}} :: to found, to build, to settle, to civilize, to colonize
+  مصر {{ar-verb (old)|II|مصر|máṣṣara}}{{ar-verb (old)|V|تمصر|tamáṣṣara}} :: to found, to build, to settle, to civilize, to colonize
 ===builder===
-  بان بَان (bānin) {m}, بُناة (bunā) {p} :: builder
+  بَانٍ (bānin) {{ar-noun|g=m|pl=بناة|pltr=bunā}} :: builder
 ===building===
-  (Egyptian Arabic) باب (baab) {{arz-noun|m|أبواب|abwaab}} :: door (portal of entry into a building or room)
+  (Egyptian Arabic) باب (baab) {{arz-noun|m|بيبان|bibaan}} :: door (portal of entry into a building or room)
 ===burning===
   هيام هيَام (huyām, hiyām) {m} :: burning thirst
 ===bush===
@@ -2263,8 +2435,8 @@ Index: EN EN->AR
 ===cabinetmaker===
   نَجَّار (najjār) {{ar-noun|g=m|pl=نجارون|plhead=نَجَّارُون|pltr=najjarūn}}نُجَار (nujār) {{ar-noun|g=m}} :: cabinetmaker
 ===Cairo===
-  مصر (miSr, maSr) {f} :: Cairo (colloquial, in this sense, a feminine noun)
-  القاهرة (al-qaahira) {f} :: Cairo (capital of Egypt)
+  مصر (miṣr, maṣr) {{ar-proper noun|g=f}} :: Cairo (colloquial, in this sense, a feminine noun)
+  القاهرة (al-qāhira) {{ar-proper noun|g=f}} :: Cairo (capital of Egypt)
 ===caliph===
   خليفة (xalīfa) {m}, خلفاء (xulafā’) {p}, خلائف (xalā’if) {p} :: caliph
 ===call===
@@ -2296,12 +2468,12 @@ Index: EN EN->AR
 ===cape===
   رَأْس (raʾs) {{ar-noun|g=m|pl=رؤوس|plhead=رُؤُوس|pltr=ruʾūs|pl2=أرؤس|pl2tr=ʾarʾus}} :: promontory, headland, cape
 ===capital===
-  مصر (miSr, maSr) {m}, امصار (’amSaar) {p} :: big city, metropolis, capital
-  القاهرة (al-qaahira) {f} :: Cairo (capital of Egypt)
+  مصر (miṣr, maṣr) {{ar-noun|g=m|pl=أمصار|plhead=أَمْصَار|pltr=’amṣār}} :: big city, metropolis, capital
+  القاهرة (al-qāhira) {{ar-proper noun|g=f}} :: Cairo (capital of Egypt)
   بيت المقدس (beyt al-muqáddas or al-máqdis) (proper noun) :: Jerusalem (the capital of Palestine and Israel)
 ===car===
   العربية (al-ʕarabíyya) {f} :: {{context|colloquial|Egypt}} car, automobile
-  سيارة سيّارةٌ (sayyāra) {f}, سيارات (sayyarāt) {p} :: automobile, car, motorcar
+  سيّارةٌ (sayyāra) {{ar-noun|g=f|pl=سيارات|pltr=sayyarāt}} :: automobile, car, motorcar
 ===carpenter===
   نَجَّار (najjār) {{ar-noun|g=m|pl=نجارون|plhead=نَجَّارُون|pltr=najjarūn}}نُجَار (nujār) {{ar-noun|g=m}} :: carpenter
 ===carve===
@@ -2313,7 +2485,7 @@ Index: EN EN->AR
   بات (batt) {ar-adj} :: categorical
     مَنع بات :: categorical interdiction
 ===category===
-  باب بَاب (baab) {m}, أبْوَاب (’abwaab) {p}, بِيبَان (bibaan) {p} :: group, class, category
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: group, class, category
 ===cattle===
   رَأْس (raʾs) {{ar-noun|g=m|pl=رؤوس|plhead=رُؤُوس|pltr=ruʾūs|pl2=أرؤس|pl2tr=ʾarʾus}} :: head (enumerator for cattle)
 ===cease===
@@ -2338,22 +2510,22 @@ Index: EN EN->AR
   رأس (ráʾasa) {{ar-verb|form=1|II=ء|impf=يرأس|impftr=yarʾasu}} :: to be at the head, to be chairman, to chair, to be in charge, to preside
 ===chapter===
   ب (b. = باب, bāb) :: chapter.
-  باب بَاب (baab) {m}, أبْوَاب (’abwaab) {p}, بِيبَان (bibaan) {p} :: chapter, section, column
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: chapter, section, column
 ===characteristic===
   نَسْخ (naskh) {{ar-noun|g=m}} :: Naskh, a cursive style of Arabic calligraphy or font, the one most popular for and characteristic of the Arabic language itself.
 ===charge===
   رأس (ráʾasa) {{ar-verb|form=1|II=ء|impf=يرأس|impftr=yarʾasu}} :: to be at the head, to be chairman, to chair, to be in charge, to preside
   مسك {{ar-verb (old)|I|مَسَكَ|másaka}}{{ar-verb (old)|II|مَسَّكَ|mássaka}}{{ar-verb (old)|IV|أمْسَكَ|’ámsaka}}{{ar-verb (old)|V|تَمَسّكَ|tamássaka}}{{ar-verb (old)|VI|تَمَاسَكَ|tamá:saka}}{{ar-verb (old)|X|اِسْتَمْسَكَ|istámsaka}} :: to take (charge, control, etc.)
 ===charm===
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: charm, charms, glamor
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: charm, charms, glamor
 ===charming===
   حَسَن (ħásan) {{ar-adj|g=m|f=حسنة|fhead=حَسَنَة|ftr=ħásana|el=أحسن|elhead=أحْسَن|eltr=ʾaħsan}} :: radiant, glad, charming
 ===charms===
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: charm, charms, glamor
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: charm, charms, glamor
 ===chassis===
   قواعد (qawaa3id) {p} (singular: قاعدة, qaa3ida) :: chassis, undercarriages
 ===chess===
-  فِيل (fīl) {{ar-noun|g=m}}, فيلة (fiyala) {p}, فيول (fuyú:l) {p}, افيال (’afyá:l) {p}, فيلين (filīn) {p} :: bishop (chess) (plural: فيلين)
+  فِيل (fīl) {{ar-noun|g=m}}, فيلة (fiyala) {p}, فيول (fuyú:l) {p}, افيال (’afyá:l) {p}, فيلين (filīn) dual :: bishop (chess) (plural: فيلين)
 ===chest===
   صدر (ṣadr) {{ar-noun|g=m|pl=صدور|pltr=ṣudūr}} :: chest, breast, bust
 ===chief===
@@ -2372,17 +2544,17 @@ Index: EN EN->AR
 ===chocolate===
   شوكولاتة shukulata {f} :: chocolate
 ===city===
-  مصر (miSr, maSr) {m}, امصار (’amSaar) {p} :: big city, metropolis, capital
-  سيدني (sí:dni) {m} :: Sydney (Australian city)
-  مصر {{ar-verb (old)|II|مصر|máSSara}}{{ar-verb (old)|V|تمصر|tamáSSara}} :: to become a populated area, to become a big city, to become a metropolis
+  مصر (miṣr, maṣr) {{ar-noun|g=m|pl=أمصار|plhead=أَمْصَار|pltr=’amṣār}} :: big city, metropolis, capital
+  سيدني (sí:dni) {{ar-proper noun|g=m}} :: Sydney (Australian city)
+  مصر {{ar-verb (old)|II|مصر|máṣṣara}}{{ar-verb (old)|V|تمصر|tamáṣṣara}} :: to become a populated area, to become a big city, to become a metropolis
   أورشليم (Ūrušalīm) {ar-proper noun} :: Jerusalem (city in the Middle East)
 ===civilize===
-  مصر {{ar-verb (old)|II|مصر|máSSara}}{{ar-verb (old)|V|تمصر|tamáSSara}} :: to found, to build, to settle, to civilize, to colonize
+  مصر {{ar-verb (old)|II|مصر|máṣṣara}}{{ar-verb (old)|V|تمصر|tamáṣṣara}} :: to found, to build, to settle, to civilize, to colonize
 ===clasp===
   مسك {{ar-verb (old)|I|مَسَكَ|másaka}}{{ar-verb (old)|II|مَسَّكَ|mássaka}}{{ar-verb (old)|IV|أمْسَكَ|’ámsaka}}{{ar-verb (old)|V|تَمَسّكَ|tamássaka}}{{ar-verb (old)|VI|تَمَاسَكَ|tamá:saka}}{{ar-verb (old)|X|اِسْتَمْسَكَ|istámsaka}} :: to grab, grasp, clutch, clasp, seize, take hold
 ===class===
   علية القوم عِلْيَةُ القَوْم (ʕílyatu-l-qáum) {f} :: upper class, elite, prominent people, VIP‏s.
-  باب بَاب (baab) {m}, أبْوَاب (’abwaab) {p}, بِيبَان (bibaan) {p} :: group, class, category
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: group, class, category
 ===cleave===
   مسك {{ar-verb (old)|I|مَسَكَ|másaka}}{{ar-verb (old)|II|مَسَّكَ|mássaka}}{{ar-verb (old)|IV|أمْسَكَ|’ámsaka}}{{ar-verb (old)|V|تَمَسّكَ|tamássaka}}{{ar-verb (old)|VI|تَمَاسَكَ|tamá:saka}}{{ar-verb (old)|X|اِسْتَمْسَكَ|istámsaka}} :: to stick, cling, cleave
 ===cling===
@@ -2400,11 +2572,11 @@ Index: EN EN->AR
 ===coin===
   ذهب (ḏáhab) {{ar-noun|g=mf}} :: gold coin
 ===colloquial===
-  مصر (miSr, maSr) {f} :: Cairo (colloquial, in this sense, a feminine noun)
+  مصر (miṣr, maṣr) {{ar-proper noun|g=f}} :: Cairo (colloquial, in this sense, a feminine noun)
 ===colonize===
-  مصر {{ar-verb (old)|II|مصر|máSSara}}{{ar-verb (old)|V|تمصر|tamáSSara}} :: to found, to build, to settle, to civilize, to colonize
+  مصر {{ar-verb (old)|II|مصر|máṣṣara}}{{ar-verb (old)|V|تمصر|tamáṣṣara}} :: to found, to build, to settle, to civilize, to colonize
 ===column===
-  باب بَاب (baab) {m}, أبْوَاب (’abwaab) {p}, بِيبَان (bibaan) {p} :: chapter, section, column
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: chapter, section, column
   ا / ‍ا (’álif)thumb :: Although usually considered to be the first letter of the Arabic alphabet, the small hamza (ء) that sits on top of أ is really the first letter of the Arabic alphabet, and the tall column is its bearer. This entry only deals with the lower part, the bearer, which is called الف (’álif) and, without the hamza, is used to lengthen a preceding vowel, often a. It is followed by ب.
 ===comb===
   رجل (rájjala) {{ar-verb|form=2|impf=يرجل}} :: to comb (the hair)
@@ -2413,7 +2585,7 @@ Index: EN EN->AR
   صدر (ṣádara) {{ar-verb|form=1}} :: to come out, to be issued, to be promulgated
   صدر (ṣádara) {{ar-verb|form=1}} :: to happen, to occur, to come to pass
 ===comeliness===
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: prettiness, beauty, loveliness, shapeliness, comeliness, gorgeousness, pulchritude
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: prettiness, beauty, loveliness, shapeliness, comeliness, gorgeousness, pulchritude
 ===comely===
   حَسَن (ħásan) {{ar-adj|g=m|f=حسنة|fhead=حَسَنَة|ftr=ħásana|el=أحسن|elhead=أحْسَن|eltr=ʾaħsan}} :: pretty, beautiful, lovely, comely, sightly, shapely, gorgeous, fair
 ===commander===
@@ -2472,11 +2644,11 @@ Index: EN EN->AR
 ===cotton===
   غزل البنات (ġazl al-banāt) {{ar-noun|g=m}} :: cotton candy, candy floss, fairy floss
 ===country===
-  أرضٌ (’arD) {f}, أراضٍ (’araaDin) {p}, أرضون (’araDuun) {p} :: country
+  أرضٌ (’arḍ) {{ar-noun|g=f|pl=أراض|plhead=أراضٍ|pltr=’arāḍin|pl2=أرضون|pl2tr=’araḍūn}} :: country
   الأردن (al-’úrdunn) {{ar-proper noun|g=m}} :: Jordan (river and country)
 ===couple===
   زوج {{ar-verb (old)|II|زوّج|záwwaja}}{{ar-verb (old)|VIII|ازدوج|izdáwaja}} :: to pair, to couple, to join in pairs
-  زوج (zawj) {m}, زوجة {f}, ازواج (’azwāj) {p} :: couple, pair
+  زَوْج (zawj) {{ar-noun|g=m|f=زوجة|pl=أزواج|plhead=أَزْوَاج|pltr=’azwāj}} :: couple, pair
 ===covenant===
   ال (ill) {{ar-noun|g=m}} :: pact, covenant
 ===covet===
@@ -2628,12 +2800,12 @@ Index: EN EN->AR
 ===dollar===
   دولار (dōlār) {m}, دولارات (dōlarāt) {p} :: dollar
 ===domain===
-  باب بَاب (baab) {m}, أبْوَاب (’abwaab) {p}, بِيبَان (bibaan) {p} :: domain, field (figurative)
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: {figurative} domain, field
 ===donkey===
   حمار حِمار (Himaar) {m}, حَمير (Hamiir) {p} :: donkey.
 ===door===
-  باب بَاب (baab) {m}, أبْوَاب (’abwaab) {p}, بِيبَان (bibaan) {p} :: door
-  (Egyptian Arabic) باب (baab) {{arz-noun|m|أبواب|abwaab}} :: door (portal of entry into a building or room)
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: door
+  (Egyptian Arabic) باب (baab) {{arz-noun|m|بيبان|bibaan}} :: door (portal of entry into a building or room)
 ===double===
   زوج {{ar-verb (old)|II|زوّج|záwwaja}}{{ar-verb (old)|VIII|ازدوج|izdáwaja}} :: to double, to geminate
 ===doubled===
@@ -2666,11 +2838,11 @@ Index: EN EN->AR
 ===early===
   صدر (ṣadr) {{ar-noun|g=m|pl=صدور|pltr=ṣudūr}} :: early period, dawn, beginnings
 ===earth===
-  أرضٌ (’arD) {f}, أراضٍ (’araaDin) {p}, أرضون (’araDuun) {p} :: earth, Earth
+  أرضٌ (’arḍ) {{ar-noun|g=f|pl=أراض|plhead=أراضٍ|pltr=’arāḍin|pl2=أرضون|pl2tr=’araḍūn}} :: earth, Earth
 ===Earth===
-  أرضٌ (’arD) {f}, أراضٍ (’araaDin) {p}, أرضون (’araDuun) {p} :: earth, Earth
+  أرضٌ (’arḍ) {{ar-noun|g=f|pl=أراض|plhead=أراضٍ|pltr=’arāḍin|pl2=أرضون|pl2tr=’araḍūn}} :: earth, Earth
 ===East===
-  الشرق الاوسط الشرق الأوسط (aš-šarq al-áwsaṭ) {m} :: The Middle East
+  الشرق الأوسط (aš-šarq al-áwsaṭ) {{ar-proper noun|g=m}} :: The Middle East
   أورشليم (Ūrušalīm) {ar-proper noun} :: Jerusalem (city in the Middle East)
 ===eccentric===
   شاذ (šaðð), شذاذ (šuððāð) {p}, شواذ (šawáðð) {p} :: irregular, anomalous, atypical, abnormal, unusual, aberrant, eccentric, extraordinary, singular, offbeat, curious, odd, peculiar, strange, weird
@@ -2684,23 +2856,23 @@ Index: EN EN->AR
 ===education===
   ثقافة ثَقَافَةٌ (θaqáːfa) {f} :: culture, education, literacy
 ===efficacy===
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: fineness, efficiency, efficacy
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: fineness, efficiency, efficacy
 ===efficiency===
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: fineness, efficiency, efficacy
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: fineness, efficiency, efficacy
 ===Egypt===
-  مصر (miSr, maSr) {f} :: Egypt or Masr (in this sense, a feminine noun)
-  القاهرة (al-qaahira) {f} :: Cairo (capital of Egypt)
+  مصر (miṣr, maṣr) {{ar-proper noun|g=f}} :: Egypt or Masr (in this sense, a feminine noun)
+  القاهرة (al-qāhira) {{ar-proper noun|g=f}} :: Cairo (capital of Egypt)
 ===Egyptian===
-  مصر {{ar-verb (old)|II|مصر|máSSara}}{{ar-verb (old)|V|تمصر|tamáSSara}} :: to Egyptianize, to become an Egyptian
+  مصر {{ar-verb (old)|II|مصر|máṣṣara}}{{ar-verb (old)|V|تمصر|tamáṣṣara}} :: to Egyptianize, to become an Egyptian
   بان بَان (bān) (collective) {m}, بَانَة (bāna) (singulative) {f} :: Egyptian willow (Salix aegyptiaca L.)
 ===Egyptianize===
-  مصر {{ar-verb (old)|II|مصر|máSSara}}{{ar-verb (old)|V|تمصر|tamáSSara}} :: to Egyptianize, to become an Egyptian
+  مصر {{ar-verb (old)|II|مصر|máṣṣara}}{{ar-verb (old)|V|تمصر|tamáṣṣara}} :: to Egyptianize, to become an Egyptian
 ===elder===
   شيخ (šeykh) {m}, شيوخ (šuyūkh) {p}, اشياخ (ašyākh) {p}, مشيخة (mašyákha) {p}, مشايخ (mašāyikh) {p}, مشائخ (mašā’ikh) {p} :: elderly gentleman, elder
 ===elderly===
   شيخ (šeykh) {m}, شيوخ (šuyūkh) {p}, اشياخ (ašyākh) {p}, مشيخة (mašyákha) {p}, مشايخ (mašāyikh) {p}, مشائخ (mašā’ikh) {p} :: elderly gentleman, elder
 ===elephant===
-  فِيل (fīl) {{ar-noun|g=m}}, فيلة (fiyala) {p}, فيول (fuyú:l) {p}, افيال (’afyá:l) {p}, فيلين (filīn) {p} :: elephant
+  فِيل (fīl) {{ar-noun|g=m}}, فيلة (fiyala) {p}, فيول (fuyú:l) {p}, افيال (’afyá:l) {p}, فيلين (filīn) dual :: elephant
 ===elevate===
   شَرَْفَ (šárrafa) {{ar-verb|form=2|impf=يشرف|impfhead=يُشَرِّفُ|impftr=yušárrifu}} :: to make noble, to ennoble, to make illustrious, to make eminent, to elevate, to exalt, to honor
 ===elevated===
@@ -2740,7 +2912,7 @@ Index: EN EN->AR
   ت / ت‍ / ‍ت‍ / ‍ت (tā’) :: The third letter of the Arabic alphabet. Its name is تاء (tā’) and it has the sound of English t. It is preceded by ب and followed by ث.
 ===Englishman===
   إنجليزي إنْجِلِيزِيّ (’ingilīzi) {m}, إنْجِلِيزِيَّةٌ (’ingilizíyya) {f}, إنْجِلِيزِيِّن (’ingiliziyyīn) {p} :: Englishman, Englishwoman, Englishmen
-  بريطاني بِرِيطَانِيّ (biriṭāniy) {m} :: Englishman, Briton, Brit
+  بِرِيطَانِيّ (biriṭāniy) {{ar-noun|g=m}} :: Englishman, Briton, Brit
   إنكليزي إنْكِلِيزِيّ (’ingilí‎ːzi) {m}, إنْكِلِيزِيّةٌ (’ingilizíyya) {f}, إنْكِلِيزِيِّن (’ingiliziyyíːn) {p} :: Englishman, Englishwoman, Englishmen
 ===Englishwoman===
   إنجليزي إنْجِلِيزِيّ (’ingilīzi) {m}, إنْجِلِيزِيَّةٌ (’ingilizíyya) {f}, إنْجِلِيزِيِّن (’ingiliziyyīn) {p} :: Englishman, Englishwoman, Englishmen
@@ -2754,10 +2926,10 @@ Index: EN EN->AR
   سمى {{ar-verb (old)|II|سمى|sámmā}}{{ar-verb (old)|IV|اسمى|’ásmā}}{{ar-verb (old)|V|تسمى|tasámmā}} :: to title, to entitle
   (Tunisian Arabic) سَمَّا (sammā) (verb) :: to title, to entitle
 ===entrance===
-  باب بَاب (baab) {m}, أبْوَاب (’abwaab) {p}, بِيبَان (bibaan) {p} :: entrance
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: entrance
 ===entry===
   ا / ‍ا (’álif)thumb :: Although usually considered to be the first letter of the Arabic alphabet, the small hamza (ء) that sits on top of أ is really the first letter of the Arabic alphabet, and the tall column is its bearer. This entry only deals with the lower part, the bearer, which is called الف (’álif) and, without the hamza, is used to lengthen a preceding vowel, often a. It is followed by ب.
-  (Egyptian Arabic) باب (baab) {{arz-noun|m|أبواب|abwaab}} :: door (portal of entry into a building or room)
+  (Egyptian Arabic) باب (baab) {{arz-noun|m|بيبان|bibaan}} :: door (portal of entry into a building or room)
 ===enumerator===
   رَأْس (raʾs) {{ar-noun|g=m|pl=رؤوس|plhead=رُؤُوس|pltr=ruʾūs|pl2=أرؤس|pl2tr=ʾarʾus}} :: head (enumerator for cattle)
 ===envy===
@@ -2804,7 +2976,7 @@ Index: EN EN->AR
 ===extremity===
   رَأْس (raʾs) {{ar-noun|g=m|pl=رؤوس|plhead=رُؤُوس|pltr=ruʾūs|pl2=أرؤس|pl2tr=ʾarʾus}} :: extremity, end
 ===eye===
-  عين (ʕayn) {f}, عَيْنَانِ (ʕeynāni, dual nom.), عَيْنَيْنِ (ʕeynéyni, dual oblique), عُيُون (ʕuyūn, {p}) :: eye
+  عين (ʕayn) {f}, عَيْنَانِ (ʕeynāni, dual nom.), عَيْنَيْنِ (ʕeynéyni, dual oblique), عُيُون (ʕuyūn, {p}) :: {anatomy} eye (organ)
     عَيْنَاىَ (ʕeynāya, dual nom.) &mdash; my two eyes :: --
     عَيْنَاكَ (ʕeynāka, dual nom.) &mdash; your (m/sg) two eyes :: --
 ===fact===
@@ -2830,7 +3002,7 @@ Index: EN EN->AR
   مسك {{ar-verb (old)|I|مَسَكَ|másaka}}{{ar-verb (old)|II|مَسَّكَ|mássaka}}{{ar-verb (old)|IV|أمْسَكَ|’ámsaka}}{{ar-verb (old)|V|تَمَسّكَ|tamássaka}}{{ar-verb (old)|VI|تَمَاسَكَ|tamá:saka}}{{ar-verb (old)|X|اِسْتَمْسَكَ|istámsaka}} :: to hold fast, grab
   مسك {{ar-verb (old)|I|مَسَكَ|másaka}}{{ar-verb (old)|II|مَسَّكَ|mássaka}}{{ar-verb (old)|IV|أمْسَكَ|’ámsaka}}{{ar-verb (old)|V|تَمَسّكَ|tamássaka}}{{ar-verb (old)|VI|تَمَاسَكَ|tamá:saka}}{{ar-verb (old)|X|اِسْتَمْسَكَ|istámsaka}} :: to hold on, hold fast, clutch
 ===father===
-  أبٌ (’ab) {m} (noun), آبَاءٌ (’ābā’) {p} :: father
+  أبٌ (’ab) {{ar-noun|g=m|pl=آباء|plhead=آبَاءٌ|pltr=’ābā’}} :: father
 ===fatwa===
   فَتْوى (fatwā) {{ar-noun|g=f|pl=فتاو|plhead=فَتَاوٍ|pltr=fatāwin|pl2=فتاوى|pl2head=فَتَاوى|pl2tr=fatāwā}} :: fatwa, formal legal opinion
 ===favor===
@@ -2838,13 +3010,13 @@ Index: EN EN->AR
 ===favored===
   حَسَن (ħásan) {{ar-adj|g=m|f=حسنة|fhead=حَسَنَة|ftr=ħásana|el=أحسن|elhead=أحْسَن|eltr=ʾaħsan}} :: agreeable, pleasant, nice, well-favored
 ===female===
-  أنثى أنْثَى (’únθā) {f}, إناث (’ināθ) {p}, اناثى (’anāθā) {p} :: female
-  أنثى أنْثَى (’únθā) {f}, إناث (’ināθ) {p}, اناثى (’anāθā) {p} :: female (of animals)
+  أنْثَى (’únθā) {{ar-noun|g=f|pl=إناث|pltr=’ināθ|pl2=أناثى|pl2tr=’anāθā}} :: female
+  أنْثَى (’únθā) {{ar-noun|g=f|pl=إناث|pltr=’ināθ|pl2=أناثى|pl2tr=’anāθā}} :: female (of animals)
     الانثيان (al-’unθayān) :: the testicles
 ===feminine===
-  أنثى أنْثَى (’únθā) {f}, إناث (’ināθ) {p}, اناثى (’anāθā) {p} :: feminine
-  مصر (miSr, maSr) {f} :: Egypt or Masr (in this sense, a feminine noun)
-  مصر (miSr, maSr) {f} :: Cairo (colloquial, in this sense, a feminine noun)
+  أنْثَى (’únθā) {{ar-adj|g=f|pl=إناث|pltr=’ināθ|pl2=أناثى|pl2tr=’anāθā}} :: feminine
+  مصر (miṣr, maṣr) {{ar-proper noun|g=f}} :: Egypt or Masr (in this sense, a feminine noun)
+  مصر (miṣr, maṣr) {{ar-proper noun|g=f}} :: Cairo (colloquial, in this sense, a feminine noun)
 ===Fez===
   فاس {ar-proper noun} :: Fez
 ===fi===
@@ -2852,13 +3024,11 @@ Index: EN EN->AR
     ولدت في مدينة كبيرة. (passive voice) :: wulidtu fi madīna(tin) kabīra.
     I was born in a big city. :: --
 ===field===
-  باب بَاب (baab) {m}, أبْوَاب (’abwaab) {p}, بِيبَان (bibaan) {p} :: domain, field (figurative)
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: {figurative} domain, field
 ===fight===
   شجر {{ar-verb (old)|I|شَجَرَ|šájara}}{{ar-verb (old)|II|شَجّرَ|šájjara}}{{ar-verb (old)|III|شَاجَرَ|šājara|شاجر}}{{ar-verb (old)|V|تَشَجّرَ|tašájjara|تشجر}}{{ar-verb (old)|VI|تَشَاجَرَ|tašājara|تشاجر}}{{ar-verb (old)|VIII|اِشْتَجَرَ|ištájara|اشتجر}} :: to fight
   شجر {{ar-verb (old)|I|شَجَرَ|šájara}}{{ar-verb (old)|II|شَجّرَ|šájjara}}{{ar-verb (old)|III|شَاجَرَ|šājara|شاجر}}{{ar-verb (old)|V|تَشَجّرَ|tašájjara|تشجر}}{{ar-verb (old)|VI|تَشَاجَرَ|tašājara|تشاجر}}{{ar-verb (old)|VIII|اِشْتَجَرَ|ištájara|اشتجر}} :: to fight
   شجر {{ar-verb (old)|I|شَجَرَ|šájara}}{{ar-verb (old)|II|شَجّرَ|šájjara}}{{ar-verb (old)|III|شَاجَرَ|šājara|شاجر}}{{ar-verb (old)|V|تَشَجّرَ|tašájjara|تشجر}}{{ar-verb (old)|VI|تَشَاجَرَ|tašājara|تشاجر}}{{ar-verb (old)|VIII|اِشْتَجَرَ|ištájara|اشتجر}} :: to fight
-===figurative===
-  باب بَاب (baab) {m}, أبْوَاب (’abwaab) {p}, بِيبَان (bibaan) {p} :: domain, field (figurative)
 ===fill===
   شغف (šáğafa) {{ar-verb|form=I|impf=يشغف}} :: to infatuate, to enamor, to fill with ardent passion
 ===film===
@@ -2867,8 +3037,8 @@ Index: EN EN->AR
   حَسَن (ħásan) {{ar-adj|g=m|f=حسنة|fhead=حَسَنَة|ftr=ħásana|el=أحسن|elhead=أحْسَن|eltr=ʾaħsan}} :: good, fine, well
   حَسَن (ħásan) {{ar-adj|g=m|f=حسنة|fhead=حَسَنَة|ftr=ħásana|el=أحسن|elhead=أحْسَن|eltr=ʾaħsan}} :: graceful, fine, dainty
 ===fineness===
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: nicety, fineness, grace, gracefulness, foppery
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: fineness, efficiency, efficacy
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: nicety, fineness, grace, gracefulness, foppery
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: fineness, efficiency, efficacy
 ===firm===
   مسك {{ar-verb (old)|I|مَسَكَ|másaka}}{{ar-verb (old)|II|مَسَّكَ|mássaka}}{{ar-verb (old)|IV|أمْسَكَ|’ámsaka}}{{ar-verb (old)|V|تَمَسّكَ|tamássaka}}{{ar-verb (old)|VI|تَمَاسَكَ|tamá:saka}}{{ar-verb (old)|X|اِسْتَمْسَكَ|istámsaka}} :: to rise, harden, firm up
 ===firmly===
@@ -2903,9 +3073,9 @@ Index: EN EN->AR
   رجل (rijl) {{ar-noun|g=f|pl=ارجل|pltr=ʾárjul}} :: {anatomy} leg, foot
   رجل (rájila) {{ar-verb|form=1|impf=يرجل}} :: to go on foot, to walk
 ===foppery===
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: nicety, fineness, grace, gracefulness, foppery
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: nicety, fineness, grace, gracefulness, foppery
 ===forefather===
-  أبٌ (’ab) {m} (noun), آبَاءٌ (’ābā’) {p} :: ancestor, forefather
+  أبٌ (’ab) {{ar-noun|g=m|pl=آباء|plhead=آبَاءٌ|pltr=’ābā’}} :: ancestor, forefather
 ===foreword===
   تَرْجَمة (tárjama) {{ar-noun|g=f}}, plural: تَراجِم (taraajim), تَرْجَمَات (tarjamaat) :: introduction, preface, foreword
 ===forget===
@@ -2920,7 +3090,7 @@ Index: EN EN->AR
 ===forward===
   صدر (ṣáddara) {{ar-verb|form=2|impf=يصدر|impftr=yuṣaddiru}} :: to send, to send off, to dispatch, to forward
 ===found===
-  مصر {{ar-verb (old)|II|مصر|máSSara}}{{ar-verb (old)|V|تمصر|tamáSSara}} :: to found, to build, to settle, to civilize, to colonize
+  مصر {{ar-verb (old)|II|مصر|máṣṣara}}{{ar-verb (old)|V|تمصر|tamáṣṣara}} :: to found, to build, to settle, to civilize, to colonize
 ===foundation===
   قواعد (qawaa3id) {p} (singular: قاعدة, qaa3ida) :: foundations
 ===fox===
@@ -2942,7 +3112,7 @@ Index: EN EN->AR
 ===furious===
   كلب {{ar-verb (old)|I|كلب|káliba}}{{ar-verb (old)|VI|تكالب|takālaba}}{{ar-verb (old)|X|استكلب|istáklaba}} :: to be raging, to be raving, to be furious, to be mad, to be frenzied, to be possessed
 ===فيلين===
-  فِيل (fīl) {{ar-noun|g=m}}, فيلة (fiyala) {p}, فيول (fuyú:l) {p}, افيال (’afyá:l) {p}, فيلين (filīn) {p} :: bishop (chess) (plural: فيلين)
+  فِيل (fīl) {{ar-noun|g=m}}, فيلة (fiyala) {p}, فيول (fuyú:l) {p}, افيال (’afyá:l) {p}, فيلين (filīn) dual :: bishop (chess) (plural: فيلين)
 ===gamble===
   قمر {{ar-verb (old)|I|قَمَرَ|qámara}}{{ar-verb (old)|I|قَمِرَ|qámira}}{{ar-verb (old)|II|قمّر|qámmara}}{{ar-verb (old)|III|قَامَرَ|qāmara}}{{ar-verb (old)|IV|اقْمَرَ|’áqmara}}{{ar-verb (old)|VI|تَقَامَرَ|taqāmara}} :: to gamble
   قمر {{ar-verb (old)|I|قَمَرَ|qámara}}{{ar-verb (old)|I|قَمِرَ|qámira}}{{ar-verb (old)|II|قمّر|qámmara}}{{ar-verb (old)|III|قَامَرَ|qāmara}}{{ar-verb (old)|IV|اقْمَرَ|’áqmara}}{{ar-verb (old)|VI|تَقَامَرَ|taqāmara}} :: to gamble (with someone)
@@ -2954,15 +3124,15 @@ Index: EN EN->AR
 ===garnish===
   حَسَّنَ (ħássana) {{ar-verb|form=II|impf=يحسن|impftr=yuħassinu}} :: to bedeck, to ornament, to decorate, to deck out, to garnish
 ===gate===
-  باب بَاب (baab) {m}, أبْوَاب (’abwaab) {p}, بِيبَان (bibaan) {p} :: gate
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: gate
 ===gateway===
-  باب بَاب (baab) {m}, أبْوَاب (’abwaab) {p}, بِيبَان (bibaan) {p} :: opening, gateway
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: opening, gateway
 ===geminate===
   زوج {{ar-verb (old)|II|زوّج|záwwaja}}{{ar-verb (old)|VIII|ازدوج|izdáwaja}} :: to double, to geminate
 ===gentleman===
   شيخ (šeykh) {m}, شيوخ (šuyūkh) {p}, اشياخ (ašyākh) {p}, مشيخة (mašyákha) {p}, مشايخ (mašāyikh) {p}, مشائخ (mašā’ikh) {p} :: elderly gentleman, elder
 ===Germany===
-  ألمانيا ألْمَانْيَا (’almānya) {f} :: Germany
+  ألْمَانْيَا (’almānya) {{ar-proper noun|g=f}} :: Germany
 ===gift===
   مَنّ (mann) {{ar-noun|g=m}} :: gift, largess
 ===gild===
@@ -2975,17 +3145,15 @@ Index: EN EN->AR
   ولد (wálada) {{ar-verb|form=1|I=و|impf=يلد|impftr=yalidu}} :: to bear, to give birth, to beget
     ولدت في مدينة كبيرة. (passive voice) :: wulidtu fi madīna(tin) kabīra.
     I was born in a big city. :: --
-===given===
-  حَسَن {m} (proper noun) :: Hassan, a male given name.
 ===glad===
   حَسَن (ħásan) {{ar-adj|g=m|f=حسنة|fhead=حَسَنَة|ftr=ħásana|el=أحسن|elhead=أحْسَن|eltr=ʾaħsan}} :: radiant, glad, charming
 ===glamor===
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: charm, charms, glamor
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: charm, charms, glamor
 ===glass===
   مِنْظار (minẓār) {{ar-noun|g=m|pl=مناظير}} (manāẓir) :: magnifying glass
 ===glory===
   شَرَف (šáraf) {{ar-noun|g=m}} :: honor, glory
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: glory
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: glory
 ===go===
   ذهب (ḏáhaba) {{ar-verb|form=1|impf=يذهب|impftr=yaḏhabu}} :: to go, to travel
   ذهب (ḏáhaba) {{ar-verb|form=1|impf=يذهب|impftr=yaḏhabu}} :: to go away, to leave, to depart
@@ -3014,21 +3182,21 @@ Index: EN EN->AR
   حَسَن (ħásan) {{ar-adj|g=m|f=حسنة|fhead=حَسَنَة|ftr=ħásana|el=أحسن|elhead=أحْسَن|eltr=ʾaħsan}} :: good, fine, well
   حَسَن (ħásan) {{ar-adj|g=m|f=حسنة|fhead=حَسَنَة|ftr=ħásana|el=أحسن|elhead=أحْسَن|eltr=ʾaħsan}} :: handsome, good-looking, magnificent
 ===goodness===
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: goodness
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: goodness
 ===gorgeous===
   حَسَن (ħásan) {{ar-adj|g=m|f=حسنة|fhead=حَسَنَة|ftr=ħásana|el=أحسن|elhead=أحْسَن|eltr=ʾaħsan}} :: pretty, beautiful, lovely, comely, sightly, shapely, gorgeous, fair
 ===gorgeousness===
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: prettiness, beauty, loveliness, shapeliness, comeliness, gorgeousness, pulchritude
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: prettiness, beauty, loveliness, shapeliness, comeliness, gorgeousness, pulchritude
 ===grab===
   مسك {{ar-verb (old)|I|مَسَكَ|másaka}}{{ar-verb (old)|II|مَسَّكَ|mássaka}}{{ar-verb (old)|IV|أمْسَكَ|’ámsaka}}{{ar-verb (old)|V|تَمَسّكَ|tamássaka}}{{ar-verb (old)|VI|تَمَاسَكَ|tamá:saka}}{{ar-verb (old)|X|اِسْتَمْسَكَ|istámsaka}} :: to grab, grasp, clutch, clasp, seize, take hold
   مسك {{ar-verb (old)|I|مَسَكَ|másaka}}{{ar-verb (old)|II|مَسَّكَ|mássaka}}{{ar-verb (old)|IV|أمْسَكَ|’ámsaka}}{{ar-verb (old)|V|تَمَسّكَ|tamássaka}}{{ar-verb (old)|VI|تَمَاسَكَ|tamá:saka}}{{ar-verb (old)|X|اِسْتَمْسَكَ|istámsaka}} :: to hold fast, grab
   مسك {{ar-verb (old)|I|مَسَكَ|másaka}}{{ar-verb (old)|II|مَسَّكَ|mássaka}}{{ar-verb (old)|IV|أمْسَكَ|’ámsaka}}{{ar-verb (old)|V|تَمَسّكَ|tamássaka}}{{ar-verb (old)|VI|تَمَاسَكَ|tamá:saka}}{{ar-verb (old)|X|اِسْتَمْسَكَ|istámsaka}} :: to grab, seize
 ===grace===
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: nicety, fineness, grace, gracefulness, foppery
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: nicety, fineness, grace, gracefulness, foppery
 ===graceful===
   حَسَن (ħásan) {{ar-adj|g=m|f=حسنة|fhead=حَسَنَة|ftr=ħásana|el=أحسن|elhead=أحْسَن|eltr=ʾaħsan}} :: graceful, fine, dainty
 ===gracefulness===
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: nicety, fineness, grace, gracefulness, foppery
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: nicety, fineness, grace, gracefulness, foppery
 ===gracious===
   مَنّ (mann) {{ar-noun|g=m}} :: gracious bestowal
   مَنَّ (mánna) {{ar-verb|form=1}} :: to be kind, kindly, benign, gracious, benevolent
@@ -3063,9 +3231,9 @@ Index: EN EN->AR
   مسك {{ar-verb (old)|I|مَسَكَ|másaka}}{{ar-verb (old)|II|مَسَّكَ|mássaka}}{{ar-verb (old)|IV|أمْسَكَ|’ámsaka}}{{ar-verb (old)|V|تَمَسّكَ|tamássaka}}{{ar-verb (old)|VI|تَمَاسَكَ|tamá:saka}}{{ar-verb (old)|X|اِسْتَمْسَكَ|istámsaka}} :: to seize, grasp, clutch, grip, hold
   مَسْك (mask) {{ar-noun|g=m}} :: seizure, grip, hold
 ===ground===
-  أرضٌ (’arD) {f}, أراضٍ (’araaDin) {p}, أرضون (’araDuun) {p} :: ground
+  أرضٌ (’arḍ) {{ar-noun|g=f|pl=أراض|plhead=أراضٍ|pltr=’arāḍin|pl2=أرضون|pl2tr=’araḍūn}} :: ground
 ===group===
-  باب بَاب (baab) {m}, أبْوَاب (’abwaab) {p}, بِيبَان (bibaan) {p} :: group, class, category
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: group, class, category
 ===guideline===
   {{wikipedia|إمام}}إمَام (’imām) {{ar-noun|g=m|pl=ائمة|plhead=ائِمّة|pltr=a’imma}} :: guideline
 ===ه===
@@ -3080,7 +3248,7 @@ Index: EN EN->AR
   رجل (rájjala) {{ar-verb|form=2|impf=يرجل}} :: to comb (the hair)
   رجل (rájjala) {{ar-verb|form=2|impf=يرجل}} :: to let down (the hair)
 ===halal===
-  حلال حَلال (ḥalāl) :: halal, that which is permitted
+  حَلال (ḥalāl) {ar-adj} :: halal, that which is permitted
 ===Hamas===
   حماس (Hamaas) :: Hamas
 ===hamza===
@@ -3090,7 +3258,7 @@ Index: EN EN->AR
 ===handsome===
   حَسَن (ħásan) {{ar-adj|g=m|f=حسنة|fhead=حَسَنَة|ftr=ħásana|el=أحسن|elhead=أحْسَن|eltr=ʾaħsan}} :: handsome, good-looking, magnificent
 ===handsomeness===
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: handsomeness
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: handsomeness
 ===hang===
   مسك {{ar-verb (old)|I|مَسَكَ|másaka}}{{ar-verb (old)|II|مَسَّكَ|mássaka}}{{ar-verb (old)|IV|أمْسَكَ|’ámsaka}}{{ar-verb (old)|V|تَمَسّكَ|tamássaka}}{{ar-verb (old)|VI|تَمَاسَكَ|tamá:saka}}{{ar-verb (old)|X|اِسْتَمْسَكَ|istámsaka}} :: to stick, cling, adhere, hang on
   مسك {{ar-verb (old)|I|مَسَكَ|másaka}}{{ar-verb (old)|II|مَسَّكَ|mássaka}}{{ar-verb (old)|IV|أمْسَكَ|’ámsaka}}{{ar-verb (old)|V|تَمَسّكَ|tamássaka}}{{ar-verb (old)|VI|تَمَاسَكَ|tamá:saka}}{{ar-verb (old)|X|اِسْتَمْسَكَ|istámsaka}} :: to hang on, persist
@@ -3106,7 +3274,7 @@ Index: EN EN->AR
   ب ﺏ / ﺑ / ﺒ / ﺐ (bā’) :: The second letter of the Arabic alphabet. Its name is باء (bā’) and it has the sound of English b. It is preceded by أ and followed by ت.
   ت / ت‍ / ‍ت‍ / ‍ت (tā’) :: The third letter of the Arabic alphabet. Its name is تاء (tā’) and it has the sound of English t. It is preceded by ب and followed by ث.
 ===Hassan===
-  حَسَن {m} (proper noun) :: Hassan, a male given name.
+  حَسَن {{ar-proper noun|g=m}} :: {{given name|male}}; Hassan
 ===hassle===
   شجر {{ar-verb (old)|I|شَجَرَ|šájara}}{{ar-verb (old)|II|شَجّرَ|šájjara}}{{ar-verb (old)|III|شَاجَرَ|šājara|شاجر}}{{ar-verb (old)|V|تَشَجّرَ|tašájjara|تشجر}}{{ar-verb (old)|VI|تَشَاجَرَ|tašājara|تشاجر}}{{ar-verb (old)|VIII|اِشْتَجَرَ|ištájara|اشتجر}} :: to hassle
 ===hatch===
@@ -3188,7 +3356,7 @@ Index: EN EN->AR
 ===humor===
   مزاج (mazāj) {{ar-noun|g=m|pl=امزجة}} (’ámzija) :: mood, frame of mind, humor
 ===husband===
-  زوج (zawj) {m}, زوجة {f}, ازواج (’azwāj) {p} :: husband, wife, mate, partner
+  زَوْج (zawj) {{ar-noun|g=m|f=زوجة|pl=أزواج|plhead=أَزْوَاج|pltr=’azwāj}} :: husband, wife, mate, partner
 ===hydrophobia===
   كلب {{ar-verb (old)|I|كلب|káliba}}{{ar-verb (old)|VI|تكالب|takālaba}}{{ar-verb (old)|X|استكلب|istáklaba}} :: to be seized by hydrophobia, to become rabid
 ===idiot===
@@ -3233,7 +3401,7 @@ Index: EN EN->AR
 ===initial===
   هَل (hal) {ar-part} :: initial interrogative particle that indicates a yes-or-no question.
 ===insistent===
-  مصر مُصِرّ (muSírr) {m} :: insistent
+  مُصِرّ (muṣírr) {{ar-adj|g=m}} :: insistent
 ===intact===
   مسلم (musállam) {ar-adj} :: unimpaired, intact, unblemished, flawless
 ===intelligence===
@@ -3252,7 +3420,7 @@ Index: EN EN->AR
 ===interrogative===
   هَل (hal) {ar-part} :: initial interrogative particle that indicates a yes-or-no question.
 ===into===
-  (Egyptian Arabic) باب (baab) {{arz-noun|m|أبواب|abwaab}} :: door (portal of entry into a building or room)
+  (Egyptian Arabic) باب (baab) {{arz-noun|m|بيبان|bibaan}} :: door (portal of entry into a building or room)
 ===introduce===
   صدر (ṣáddara) {{ar-verb|form=2|impf=يصدر|impftr=yuṣaddiru}} :: to introduce, to commence
 ===introduction===
@@ -3262,7 +3430,7 @@ Index: EN EN->AR
 ===invalidation===
   نَسْخ (naskh) {{ar-noun|g=m}} :: abolition, abolishment, abrogation, cancellation, invalidation
 ===Iran===
-  إيران إِيرَان (īrān) :: Iran
+  إِيرَان ('īrān) {ar-proper noun} :: Iran
 ===Iraq===
   العراق (al-ʿIrāq) {{ar-proper noun|g=m}} :: Iraq
   اب آب (’Āb) {m} :: August (month name used in Syria, Lebanon, Jordan, and Iraq)
@@ -3279,10 +3447,10 @@ Index: EN EN->AR
   إسرائيل (ʾisraʾīl) {{ar-proper noun|g=f}} :: Israel
   بيت المقدس (beyt al-muqáddas or al-máqdis) (proper noun) :: Jerusalem (the capital of Palestine and Israel)
 ===Israeli===
-  إسرائيليّ (’isra’īliyy) :: Israeli
-  إسرائيليّ (’isra’īliyy) :: Israelite, Israeli
+  إسرائيليّ (’isra’īliyy) {ar-adj} :: Israeli
+  إسرائيليّ (’isra’īliyy) {ar-noun} :: Israelite, Israeli
 ===Israelite===
-  إسرائيليّ (’isra’īliyy) :: Israelite, Israeli
+  إسرائيليّ (’isra’īliyy) {ar-noun} :: Israelite, Israeli
 ===issued===
   صدر (ṣádara) {{ar-verb|form=1}} :: to come out, to be issued, to be promulgated
 ===It===
@@ -3358,7 +3526,7 @@ Index: EN EN->AR
 ===ladder===
   سُلّم (sullám) {{ar-noun|g=m|plhead=سَلَالِم|pl=سلالم|pltr=sálālim}} :: ladder, stairs
 ===land===
-  أرضٌ (’arD) {f}, أراضٍ (’araaDin) {p}, أرضون (’araDuun) {p} :: land
+  أرضٌ (’arḍ) {{ar-noun|g=f|pl=أراض|plhead=أراضٍ|pltr=’arāḍin|pl2=أرضون|pl2tr=’araḍūn}} :: land
   مَا وَرَاءَ النَهْر (maa waraa3a n-nahr) (proper noun) :: Transoxiana, "beyond the river" (an old name for the land in Central Asia north of the Amu Darya River).
 ===language===
   العربية (al-ʕarabíyya) {f} :: the Arabic language
@@ -3385,8 +3553,8 @@ Index: EN EN->AR
 ===law===
   عين (ʕayn) {f}, عَيْنَانِ (ʕeynāni, dual nom.), عَيْنَيْنِ (ʕeynéyni, dual oblique), عُيُون (ʕuyūn, {p}) :: In law: money or whatever is the equivalent of money.
 ===lawful===
-  حلال حَلال (ḥalāl) :: lawful, legal, licit, legitimate
-  حلال (ḥalāl) {m} :: lawful possession
+  حَلال (ḥalāl) {ar-adj} :: lawful, legal, licit, legitimate
+  حَلال (ḥalāl) {{ar-noun|g=m}} :: lawful possession
 ===lay===
   خزن خَزَنَ (χázana) (transitive) :: to store, to stock, to lay up, to hoard, to amass, to accumulate
 ===lead===
@@ -3410,10 +3578,10 @@ Index: EN EN->AR
 ===leg===
   رجل (rijl) {{ar-noun|g=f|pl=ارجل|pltr=ʾárjul}} :: {anatomy} leg, foot
 ===legal===
-  حلال حَلال (ḥalāl) :: lawful, legal, licit, legitimate
+  حَلال (ḥalāl) {ar-adj} :: lawful, legal, licit, legitimate
   فَتْوى (fatwā) {{ar-noun|g=f|pl=فتاو|plhead=فَتَاوٍ|pltr=fatāwin|pl2=فتاوى|pl2head=فَتَاوى|pl2tr=fatāwā}} :: fatwa, formal legal opinion
 ===legitimate===
-  حلال حَلال (ḥalāl) :: lawful, legal, licit, legitimate
+  حَلال (ḥalāl) {ar-adj} :: lawful, legal, licit, legitimate
 ===lengthen===
   ا / ‍ا (’álif)thumb :: Although usually considered to be the first letter of the Arabic alphabet, the small hamza (ء) that sits on top of أ is really the first letter of the Arabic alphabet, and the tall column is its bearer. This entry only deals with the lower part, the bearer, which is called الف (’álif) and, without the hamza, is used to lengthen a preceding vowel, often a. It is followed by ب.
 ===Lepidium===
@@ -3440,7 +3608,7 @@ Index: EN EN->AR
 ===Liberation===
   منظمة التحرير الفلسطينية (munáẓẓamaṭ aṭ-ṭaħrīr al-filaṣṭiníyya) {f} (abbreviation: م.ت.ف) :: Palestine Liberation Organization
 ===licit===
-  حلال حَلال (ḥalāl) :: lawful, legal, licit, legitimate
+  حَلال (ḥalāl) {ar-adj} :: lawful, legal, licit, legitimate
 ===like===
   مِن (min) {ar-con} :: as, like (in comparisons)
 ===liktābū===
@@ -3478,7 +3646,7 @@ Index: EN EN->AR
   شَغِف (šáğif) {ar-adj} :: madly in love, infatuated with, enamored of, fascinated by
   هيام هيَام (huyām, hiyām) {m} :: ardent love, ardent love
 ===loveliness===
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: prettiness, beauty, loveliness, shapeliness, comeliness, gorgeousness, pulchritude
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: prettiness, beauty, loveliness, shapeliness, comeliness, gorgeousness, pulchritude
 ===lovely===
   حَسَن (ħásan) {{ar-adj|g=m|f=حسنة|fhead=حَسَنَة|ftr=ħásana|el=أحسن|elhead=أحْسَن|eltr=ʾaħsan}} :: pretty, beautiful, lovely, comely, sightly, shapely, gorgeous, fair
 ===lower===
@@ -3508,8 +3676,6 @@ Index: EN EN->AR
   حَسَّنَ (ħássana) {{ar-verb|form=II|impf=يحسن|impftr=yuħassinu}} :: to prettify, to beautify, to adorn, to make attractive
 ===makeup===
   حَسَّنَ (ħássana) {{ar-verb|form=II|impf=يحسن|impftr=yuħassinu}} :: to apply cosmetics, to put on makeup
-===male===
-  حَسَن {m} (proper noun) :: Hassan, a male given name.
 ===man===
   رجل (rájul) {{ar-noun|g=m|pl=رجال|pltr=rijāl}} :: man
 ===manage===
@@ -3523,11 +3689,11 @@ Index: EN EN->AR
 ===marry===
   زوج {{ar-verb (old)|II|زوّج|záwwaja}}{{ar-verb (old)|VIII|ازدوج|izdáwaja}} :: to marry off, to give in marriage
 ===Masr===
-  مصر (miSr, maSr) {f} :: Egypt or Masr (in this sense, a feminine noun)
+  مصر (miṣr, maṣr) {{ar-proper noun|g=f}} :: Egypt or Masr (in this sense, a feminine noun)
 ===master===
   شيخ (šeykh) {m}, شيوخ (šuyūkh) {p}, اشياخ (ašyākh) {p}, مشيخة (mašyákha) {p}, مشايخ (mašāyikh) {p}, مشائخ (mašā’ikh) {p} :: master
 ===mate===
-  زوج (zawj) {m}, زوجة {f}, ازواج (’azwāj) {p} :: husband, wife, mate, partner
+  زَوْج (zawj) {{ar-noun|g=m|f=زوجة|pl=أزواج|plhead=أَزْوَاج|pltr=’azwāj}} :: husband, wife, mate, partner
 ===maund===
   مَنّ (mann) {{ar-noun|g=m}} :: (unit of mass) maund (plural: امنان (’amnān))
 ===me===
@@ -3557,10 +3723,10 @@ Index: EN EN->AR
 ===method===
   قواعد (qawaa3id) {p} (singular: قاعدة, qaa3ida) :: methods, manners
 ===metropolis===
-  مصر (miSr, maSr) {m}, امصار (’amSaar) {p} :: big city, metropolis, capital
-  مصر {{ar-verb (old)|II|مصر|máSSara}}{{ar-verb (old)|V|تمصر|tamáSSara}} :: to become a populated area, to become a big city, to become a metropolis
+  مصر (miṣr, maṣr) {{ar-noun|g=m|pl=أمصار|plhead=أَمْصَار|pltr=’amṣār}} :: big city, metropolis, capital
+  مصر {{ar-verb (old)|II|مصر|máṣṣara}}{{ar-verb (old)|V|تمصر|tamáṣṣara}} :: to become a populated area, to become a big city, to become a metropolis
 ===Middle===
-  الشرق الاوسط الشرق الأوسط (aš-šarq al-áwsaṭ) {m} :: The Middle East
+  الشرق الأوسط (aš-šarq al-áwsaṭ) {{ar-proper noun|g=m}} :: The Middle East
   أورشليم (Ūrušalīm) {ar-proper noun} :: Jerusalem (city in the Middle East)
 ===midwife===
   ولّد (wállada) {{ar-verb|form=2|I=و|impf=يولد|impfhead=يولّد|impftr=yuwállidu}} :: to assist in childbirth (as a midwife)
@@ -3598,7 +3764,7 @@ Index: EN EN->AR
 ===Moringa===
   بان بَان (bān) (collective) {m}, بَانَة (bāna) (singulative) {f} :: ben tree, horseradish tree (the Moringa oleifera of Arabia and India, which produces oil of ben)
 ===Morocco===
-  المغرب (al-mághrib) {m} :: Morocco
+  المغرب (al-mághrib) {{ar-proper noun|g=m}} :: Morocco
 ===mosque===
   مسجد مَسْجِدٌ (masjid) {m}, مسجدان (masjidān) dual, مساجد (masājid) {p} :: mosque
     مسجد جامع (masjid jāmiʕ) :: central mosque, great mosque
@@ -3626,7 +3792,7 @@ Index: EN EN->AR
 ===motion===
   فيلم فيلْم (film) {m}, افلام (’aflām) {p} :: film, motion picture
 ===motorcar===
-  سيارة سيّارةٌ (sayyāra) {f}, سيارات (sayyarāt) {p} :: automobile, car, motorcar
+  سيّارةٌ (sayyāra) {{ar-noun|g=f|pl=سيارات|pltr=sayyarāt}} :: automobile, car, motorcar
 ===moustache===
   شارب شارِب (šārib) {m}, شاربان (šarbān) dual, شوارب (šawārib) {p} :: moustache
 ===mucus===
@@ -3638,7 +3804,7 @@ Index: EN EN->AR
 ===mullah===
   ملا (mullaa) {{ar-noun|g=m}} :: mullah, mollah, mulla, moolah
 ===music===
-  موسيقى (músiqa) {f} :: music
+  موسيقى (músiqa) {{ar-noun|g=f}} :: music
 ===musk===
   مسك {{ar-verb (old)|I|مَسَكَ|másaka}}{{ar-verb (old)|II|مَسَّكَ|mássaka}}{{ar-verb (old)|IV|أمْسَكَ|’ámsaka}}{{ar-verb (old)|V|تَمَسّكَ|tamássaka}}{{ar-verb (old)|VI|تَمَاسَكَ|tamá:saka}}{{ar-verb (old)|X|اِسْتَمْسَكَ|istámsaka}} :: to scent with musk
   مِسْك (misk) {{ar-noun|g=m|g2=f}} :: musk
@@ -3659,7 +3825,6 @@ Index: EN EN->AR
     What's your name? :: --
   (Tunisian Arabic) اِسْمْ (ʾism) {m} (noun) :: first name
   اب آب (’Āb) {m} :: August (month name used in Syria, Lebanon, Jordan, and Iraq)
-  حَسَن {m} (proper noun) :: Hassan, a male given name.
   سمى {{ar-verb (old)|II|سمى|sámmā}}{{ar-verb (old)|IV|اسمى|’ásmā}}{{ar-verb (old)|V|تسمى|tasámmā}} :: to say بسم الله (in the name of God)
   عين (ʕayn) {f}, عَيْنَانِ (ʕeynāni, dual nom.), عَيْنَيْنِ (ʕeynéyni, dual oblique), عُيُون (ʕuyūn, {p}) :: name of the 13th letter of the Arabic alphabet.
   ب ﺏ / ﺑ / ﺒ / ﺐ (bā’) :: The second letter of the Arabic alphabet. Its name is باء (bā’) and it has the sound of English b. It is preceded by أ and followed by ت.
@@ -3704,7 +3869,7 @@ Index: EN EN->AR
 ===nice===
   حَسَن (ħásan) {{ar-adj|g=m|f=حسنة|fhead=حَسَنَة|ftr=ħásana|el=أحسن|elhead=أحْسَن|eltr=ʾaħsan}} :: agreeable, pleasant, nice, well-favored
 ===nicety===
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: nicety, fineness, grace, gracefulness, foppery
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: nicety, fineness, grace, gracefulness, foppery
 ===night===
   بات {{ar-verb (old)|I|بات|bāta}}{{ar-verb (old)|II|بات|bátta}} :: to spend the night, to stay overnight
   ليل (layl) {{ar-noun|g=m|pl=ليالي|plhead=لَيَالِي|pltr=layālī}}ليلة{f}ليال{p}ليائل{p} :: night
@@ -3733,10 +3898,10 @@ Index: EN EN->AR
 ===note===
   كتاب (kitāb) {{ar-noun|g=m|pl=كتب|pltr=kútub}}كُتّاب (kuttāb) {{ar-noun|g=m|pl=كتاتيب|pltr=katātīb}} (kuttāb) {p} (noun form) :: letter, note, paper, piece of writing, message
 ===noun===
-  اسم اِسْم (’ism) {m}, اسماء (’asmā’) {p}, اسام (’asāmin) {p} :: noun
+  اسم اِسْم (’ism) {m}, اسماء (’asmā’) {p}, اسام (’asāmin) {p} :: {grammar} noun
   (Tunisian Arabic) اِسْمْ (ʾism) {m} (noun) :: noun
-  مصر (miSr, maSr) {f} :: Egypt or Masr (in this sense, a feminine noun)
-  مصر (miSr, maSr) {f} :: Cairo (colloquial, in this sense, a feminine noun)
+  مصر (miṣr, maṣr) {{ar-proper noun|g=f}} :: Egypt or Masr (in this sense, a feminine noun)
+  مصر (miṣr, maṣr) {{ar-proper noun|g=f}} :: Cairo (colloquial, in this sense, a feminine noun)
 ===numb===
   نَامَ (nāma) {{ar-verb|form=I|impfhead=يَنامُ|impf=ينام|impftr=yanāmu|II=و}} :: to be numb
 ===numbering===
@@ -3794,7 +3959,7 @@ Index: EN EN->AR
 ===only===
   ا / ‍ا (’álif)thumb :: Although usually considered to be the first letter of the Arabic alphabet, the small hamza (ء) that sits on top of أ is really the first letter of the Arabic alphabet, and the tall column is its bearer. This entry only deals with the lower part, the bearer, which is called الف (’álif) and, without the hamza, is used to lengthen a preceding vowel, often a. It is followed by ب.
 ===opening===
-  باب بَاب (baab) {m}, أبْوَاب (’abwaab) {p}, بِيبَان (bibaan) {p} :: opening, gateway
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: opening, gateway
 ===operating===
   نظام تشغيل (niẓām tašğīl) {m} :: operating system
 ===opinion===
@@ -3808,6 +3973,10 @@ Index: EN EN->AR
   ر / ‍ر (rā’) :: The twentieth letter in traditional abjad order, which is used in place of numerals for list numbering (abjad numerals). It is preceded by ق and followed by ش.
   ب (number) :: The second letter in traditional abjad order, which is used in place of numerals for list numbering (abjad numerals). It is preceded by أ and followed by ج.
   ت / ت‍ / ‍ت‍ / ‍ت (tā’) :: The twenty-second letter in traditional abjad order, which is used in place of numerals for list numbering (abjad numerals). It is preceded by ش and followed by ث.
+===organ===
+  عين (ʕayn) {f}, عَيْنَانِ (ʕeynāni, dual nom.), عَيْنَيْنِ (ʕeynéyni, dual oblique), عُيُون (ʕuyūn, {p}) :: {anatomy} eye (organ)
+    عَيْنَاىَ (ʕeynāya, dual nom.) &mdash; my two eyes :: --
+    عَيْنَاكَ (ʕeynāka, dual nom.) &mdash; your (m/sg) two eyes :: --
 ===Organization===
   منظمة التحرير الفلسطينية (munáẓẓamaṭ aṭ-ṭaħrīr al-filaṣṭiníyya) {f} (abbreviation: م.ت.ف) :: Palestine Liberation Organization
 ===origin===
@@ -3840,12 +4009,12 @@ Index: EN EN->AR
 ===pair===
   زوج {{ar-verb (old)|II|زوّج|záwwaja}}{{ar-verb (old)|VIII|ازدوج|izdáwaja}} :: to pair, to couple, to join in pairs
   زوج {{ar-verb (old)|II|زوّج|záwwaja}}{{ar-verb (old)|VIII|ازدوج|izdáwaja}} :: to be in pairs, to be doubled, to appear twice
-  زوج (zawj) {m}, زوجة {f}, ازواج (’azwāj) {p} :: couple, pair
-  زوج (zawj) {m}, زوجة {f}, ازواج (’azwāj) {p} :: one of a pair
+  زَوْج (zawj) {{ar-noun|g=m|f=زوجة|pl=أزواج|plhead=أَزْوَاج|pltr=’azwāj}} :: couple, pair
+  زَوْج (zawj) {{ar-noun|g=m|f=زوجة|pl=أزواج|plhead=أَزْوَاج|pltr=’azwāj}} :: one of a pair
 ===pairs===
   زوج {{ar-verb (old)|II|زوّج|záwwaja}}{{ar-verb (old)|VIII|ازدوج|izdáwaja}} :: to pair, to couple, to join in pairs
 ===Palestine===
-  فلسطين (filasṭīn) :: Palestine
+  فلسطين (filasṭīn) {ar-proper noun} :: Palestine
   السلطة الوطنية الفلسطينية (as-súlṭaṭ al-waṭaníyya al-filaṣṭiníyya) {f} :: Palestine National Authority
   بيت المقدس (beyt al-muqáddas or al-máqdis) (proper noun) :: Jerusalem (the capital of Palestine and Israel)
   منظمة التحرير الفلسطينية (munáẓẓamaṭ aṭ-ṭaħrīr al-filaṣṭiníyya) {f} (abbreviation: م.ت.ف) :: Palestine Liberation Organization
@@ -3863,7 +4032,7 @@ Index: EN EN->AR
   حرف حَرف (ħarf) {m}, حروف (ħurūf) {p}, أحرف (’áħruf) {p} :: grammatical particle
   هَل (hal) {ar-part} :: initial interrogative particle that indicates a yes-or-no question.
 ===partner===
-  زوج (zawj) {m}, زوجة {f}, ازواج (’azwāj) {p} :: husband, wife, mate, partner
+  زَوْج (zawj) {{ar-noun|g=m|f=زوجة|pl=أزواج|plhead=أَزْوَاج|pltr=’azwāj}} :: husband, wife, mate, partner
 ===pass===
   صدر (ṣádara) {{ar-verb|form=1}} :: to happen, to occur, to come to pass
 ===passion===
@@ -3877,7 +4046,7 @@ Index: EN EN->AR
   ايفاء إيفاء (’īfā’) {m} :: payment
 ===peace===
   سِلْم (silm) {{ar-noun|g=m}} :: peace
-  سلام (salām) {m} :: peace
+  سلام (salām) {{ar-noun|g=m}} :: peace
 ===peak===
   رَأْس (raʾs) {{ar-noun|g=m|pl=رؤوس|plhead=رُؤُوس|pltr=ruʾūs|pl2=أرؤس|pl2tr=ʾarʾus}} :: tip, top, summit, peak, upper part
 ===peculiar===
@@ -3905,10 +4074,10 @@ Index: EN EN->AR
 ===perish===
   ذهب (ḏáhaba) {{ar-verb|form=1|impf=يذهب|impftr=yaḏhabu}} :: to perish, to die, to be destroyed
 ===permissible===
-  حلال حَلال (ḥalāl) :: allowed, permitted, allowable, admissible, permissible
+  حَلال (ḥalāl) {ar-adj} :: allowed, permitted, allowable, admissible, permissible
 ===permitted===
-  حلال حَلال (ḥalāl) :: allowed, permitted, allowable, admissible, permissible
-  حلال حَلال (ḥalāl) :: halal, that which is permitted
+  حَلال (ḥalāl) {ar-adj} :: allowed, permitted, allowable, admissible, permissible
+  حَلال (ḥalāl) {ar-adj} :: halal, that which is permitted
 ===Persian===
   (Egyptian Arabic) فارسى (Fārsīyy) {m} (proper noun) :: Persian, Farsi (language)
   (Egyptian Arabic) فارسى (Fārsīyy) {{arz-adj|f=فارسيه|ftr=Fārseyya}} :: Persian, Farsi
@@ -3964,9 +4133,9 @@ Index: EN EN->AR
   نَسْخ (naskh) {{ar-noun|g=m}} :: Naskh, a cursive style of Arabic calligraphy or font, the one most popular for and characteristic of the Arabic language itself.
   نَسْتَعْلِيق (nastaʕlīq) {m} (noun) :: Nastaliq, nastaleeq or Nastaʿlīq: A style of Arabic calligraphy or font, most popular for the Urdu and Persian languages.
 ===populated===
-  مصر {{ar-verb (old)|II|مصر|máSSara}}{{ar-verb (old)|V|تمصر|tamáSSara}} :: to become a populated area, to become a big city, to become a metropolis
+  مصر {{ar-verb (old)|II|مصر|máṣṣara}}{{ar-verb (old)|V|تمصر|tamáṣṣara}} :: to become a populated area, to become a big city, to become a metropolis
 ===portal===
-  (Egyptian Arabic) باب (baab) {{arz-noun|m|أبواب|abwaab}} :: door (portal of entry into a building or room)
+  (Egyptian Arabic) باب (baab) {{arz-noun|m|بيبان|bibaan}} :: door (portal of entry into a building or room)
 ===portion===
   صدر (ṣadr) {{ar-noun|g=m|pl=صدور|pltr=ṣudūr}} :: part, portion
 ===Portulaca===
@@ -3974,11 +4143,11 @@ Index: EN EN->AR
 ===possessed===
   كلب {{ar-verb (old)|I|كلب|káliba}}{{ar-verb (old)|VI|تكالب|takālaba}}{{ar-verb (old)|X|استكلب|istáklaba}} :: to be raging, to be raving, to be furious, to be mad, to be frenzied, to be possessed
 ===possession===
-  حلال (ḥalāl) {m} :: lawful possession
+  حَلال (ḥalāl) {{ar-noun|g=m}} :: lawful possession
 ===possessive===
   أنَا (ʾána) {ar-pron}ـنِيـِي :: my (enclitic possessive pronoun).
 ===potassium===
-  بوتاسيوم (butásyum) {m} :: potassium
+  بوتاسيوم (butásyum) {{ar-noun|g=m}} :: potassium
 ===pounce===
   كلب {{ar-verb (old)|I|كلب|káliba}}{{ar-verb (old)|VI|تكالب|takālaba}}{{ar-verb (old)|X|استكلب|istáklaba}} :: to fall on, to pounce, to rush in on, to assail
 ===practice===
@@ -4016,7 +4185,7 @@ Index: EN EN->AR
 ===prettify===
   حَسَّنَ (ħássana) {{ar-verb|form=II|impf=يحسن|impftr=yuħassinu}} :: to prettify, to beautify, to adorn, to make attractive
 ===prettiness===
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: prettiness, beauty, loveliness, shapeliness, comeliness, gorgeousness, pulchritude
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: prettiness, beauty, loveliness, shapeliness, comeliness, gorgeousness, pulchritude
 ===pretty===
   حَسَن (ħásan) {{ar-adj|g=m|f=حسنة|fhead=حَسَنَة|ftr=ħásana|el=أحسن|elhead=أحْسَن|eltr=ʾaħsan}} :: pretty, beautiful, lovely, comely, sightly, shapely, gorgeous, fair
 ===principle===
@@ -4055,7 +4224,7 @@ Index: EN EN->AR
 ===published===
   صدر (ṣádara) {{ar-verb|form=1}} :: to appear, to be published
 ===pulchritude===
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: prettiness, beauty, loveliness, shapeliness, comeliness, gorgeousness, pulchritude
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: prettiness, beauty, loveliness, shapeliness, comeliness, gorgeousness, pulchritude
 ===pull===
   مسك {{ar-verb (old)|I|مَسَكَ|másaka}}{{ar-verb (old)|II|مَسَّكَ|mássaka}}{{ar-verb (old)|IV|أمْسَكَ|’ámsaka}}{{ar-verb (old)|V|تَمَسّكَ|tamássaka}}{{ar-verb (old)|VI|تَمَاسَكَ|tamá:saka}}{{ar-verb (old)|X|اِسْتَمْسَكَ|istámsaka}} :: to compose oneself, to pull oneself together
 ===purslane===
@@ -4159,12 +4328,12 @@ Index: EN EN->AR
 ===River===
   مَا وَرَاءَ النَهْر (maa waraa3a n-nahr) (proper noun) :: Transoxiana, "beyond the river" (an old name for the land in Central Asia north of the Amu Darya River).
 ===Riyadh===
-  الرياض (al-riyaaD) {m} :: Riyadh
+  الرياض (al-riyāḍ) {{ar-proper noun|g=m}} :: Riyadh
 ===roof===
   سُمْك (sumk) {{ar-noun|g=m}}سَمْك (samk) {{ar-noun|g=m}} :: roof, ceiling
 ===room===
   مخزن مَخْزَنٌ (máχzan) {m} (plural: مَخَازن) :: stockroom, storage room
-  (Egyptian Arabic) باب (baab) {{arz-noun|m|أبواب|abwaab}} :: door (portal of entry into a building or room)
+  (Egyptian Arabic) باب (baab) {{arz-noun|m|بيبان|bibaan}} :: door (portal of entry into a building or room)
 ===rooms===
   مخازن مَخَازن (maχáːzin) (plural of مَخْزَن) :: stockrooms, storage rooms
 ===root===
@@ -4200,7 +4369,7 @@ Index: EN EN->AR
 ===sativum===
   حرف حُرف (ħurf) {m} :: cress (Lepidium sativum, a garden vegetable)
 ===Saudi===
-  السعودية (al-sa3uudíyya) {f} :: Saudi Arabia
+  السعودية (al-sa3ūdíyya) {{ar-proper noun|g=f}} :: Saudi Arabia
 ===say===
   كلم {{ar-verb (old)|II|كلم|kállama}}{{ar-verb (old)|III|كالم|kālama}}{{ar-verb (old)|V|تكلم|takállama}} :: to utter, to express, to voice, to say
   سمى {{ar-verb (old)|II|سمى|sámmā}}{{ar-verb (old)|IV|اسمى|’ásmā}}{{ar-verb (old)|V|تسمى|tasámmā}} :: to say بسم الله (in the name of God)
@@ -4230,7 +4399,7 @@ Index: EN EN->AR
 ===secret===
   خزن خَزَنَ (χázana) (transitive) :: to keep secret
 ===section===
-  باب بَاب (baab) {m}, أبْوَاب (’abwaab) {p}, بِيبَان (bibaan) {p} :: chapter, section, column
+  بَاب (bāb) {{ar-noun|g=m|pl=أبواب|plhead=أبْوَاب|pltr=’abwāb|pl2=بيبان|pl2head=بِيبَان|pl2tr=bibān}} :: chapter, section, column
 ===see===
   ام {{ar-verb (old)|I|أمّ|’ámma|ام}}{{ar-verb (old)|II|أمّم|’ámmama|امم}}{{ar-verb (old)|V|تَأمّمَ|ta’ámmama|تأمم}}{{ar-verb (old)|VIII|اِئْتَمّ|i’támma|ائتم}} :: to go to see
   ام {{ar-verb (old)|I|أمّ|’ámma|ام}}{{ar-verb (old)|II|أمّم|’ámmama|امم}}{{ar-verb (old)|V|تَأمّمَ|ta’ámmama|تأمم}}{{ar-verb (old)|VIII|اِئْتَمّ|i’támma|ائتم}} :: to go to see
@@ -4249,19 +4418,19 @@ Index: EN EN->AR
   صدر (ṣáddara) {{ar-verb|form=2|impf=يصدر|impftr=yuṣaddiru}} :: to send, to send off, to dispatch, to forward
 ===sense===
   حقيقة (ħaqīqa) {{ar-noun|g=f|pl=حقائق|pltr=ħaqā’iq}} :: essence, nature, real meaning, true sense
-  مصر (miSr, maSr) {f} :: Egypt or Masr (in this sense, a feminine noun)
-  مصر (miSr, maSr) {f} :: Cairo (colloquial, in this sense, a feminine noun)
+  مصر (miṣr, maṣr) {{ar-proper noun|g=f}} :: Egypt or Masr (in this sense, a feminine noun)
+  مصر (miṣr, maṣr) {{ar-proper noun|g=f}} :: Cairo (colloquial, in this sense, a feminine noun)
 ===separate===
   شاذ (šaðð), شذاذ (šuððāð) {p}, شواذ (šawáðð) {p} :: isolated, separate, detached, alone
 ===settle===
-  مصر {{ar-verb (old)|II|مصر|máSSara}}{{ar-verb (old)|V|تمصر|tamáSSara}} :: to found, to build, to settle, to civilize, to colonize
+  مصر {{ar-verb (old)|II|مصر|máṣṣara}}{{ar-verb (old)|V|تمصر|tamáṣṣara}} :: to found, to build, to settle, to civilize, to colonize
 ===seventh===
   و / ‍و (wāw) :: The twenty-seventh letter of the Arabic alphabet. It is preceded by ه and followed by ى.
 ===ش===
   ر / ‍ر (rā’) :: The twentieth letter in traditional abjad order, which is used in place of numerals for list numbering (abjad numerals). It is preceded by ق and followed by ش.
   ت / ت‍ / ‍ت‍ / ‍ت (tā’) :: The twenty-second letter in traditional abjad order, which is used in place of numerals for list numbering (abjad numerals). It is preceded by ش and followed by ث.
 ===shapeliness===
-  حُسْن (ħúsn) {{ar-noun|g=m}}, حُسْنَاء (ħusnáʾ) {f} :: prettiness, beauty, loveliness, shapeliness, comeliness, gorgeousness, pulchritude
+  حُسْن (ħúsn) {{ar-noun|g=m|f=حسناء|fhead=حُسْنَاء|ftr=ħusnáʾ}} :: prettiness, beauty, loveliness, shapeliness, comeliness, gorgeousness, pulchritude
 ===shapely===
   حَسَن (ħásan) {{ar-adj|g=m|f=حسنة|fhead=حَسَنَة|ftr=ħásana|el=أحسن|elhead=أحْسَن|eltr=ʾaħsan}} :: pretty, beautiful, lovely, comely, sightly, shapely, gorgeous, fair
 ===shari===
@@ -4476,11 +4645,11 @@ Index: EN EN->AR
 ===sweep===
   ذهب (ḏáhaba) {{ar-verb|form=1|impf=يذهب|impftr=yaḏhabu}} :: to abduct, to steal, to sweep away, to annihilate
 ===Sydney===
-  سيدني (sí:dni) {m} :: Sydney (Australian city)
+  سيدني (sí:dni) {{ar-proper noun|g=m}} :: Sydney (Australian city)
 ===synchronized===
   مُترجَم (mutárjam) {ar-adj} :: {film} synchronized
 ===Syria===
-  سوريا (suurya) {f} :: Syria
+  سوريا (sūrya) {{ar-proper noun|g=f}} :: Syria
   اب آب (’Āb) {m} :: August (month name used in Syria, Lebanon, Jordan, and Iraq)
 ===system===
   نظام تشغيل (niẓām tašğīl) {m} :: operating system
@@ -4508,7 +4677,7 @@ Index: EN EN->AR
 ===teaching===
   كتاب (kitāb) {{ar-noun|g=m|pl=كتب|pltr=kútub}}كُتّاب (kuttāb) {{ar-noun|g=m|pl=كتاتيب|pltr=katātīb}} (kuttāb) {p} (noun form) :: a traditional school for teaching Qur'an
 ===Tel===
-  تل أبيب (tálli ’abīb) :: Tel Aviv
+  تل أبيب (tálli ’abīb) {ar-proper noun} :: Tel Aviv
 ===telescope===
   مِنْظار (minẓār) {{ar-noun|g=m|pl=مناظير}} (manāẓir) :: telescope
 ===temper===
@@ -4524,7 +4693,7 @@ Index: EN EN->AR
 ===tenth===
   ر / ‍ر (rā’) :: The tenth letter of the Arabic alphabet. It is preceded by ذ and followed by ز.
 ===testicles===
-  أنثى أنْثَى (’únθā) {f}, إناث (’ināθ) {p}, اناثى (’anāθā) {p} :: female (of animals)
+  أنْثَى (’únθā) {{ar-noun|g=f|pl=إناث|pltr=’ināθ|pl2=أناثى|pl2tr=’anāθā}} :: female (of animals)
     الانثيان (al-’unθayān) :: the testicles
 ===ث===
   ت / ت‍ / ‍ت‍ / ‍ت (tā’) :: The third letter of the Arabic alphabet. Its name is تاء (tā’) and it has the sound of English t. It is preceded by ب and followed by ث.
@@ -4547,8 +4716,8 @@ Index: EN EN->AR
 ===thirst===
   هيام هيَام (huyām, hiyām) {m} :: burning thirst
 ===this===
-  مصر (miSr, maSr) {f} :: Egypt or Masr (in this sense, a feminine noun)
-  مصر (miSr, maSr) {f} :: Cairo (colloquial, in this sense, a feminine noun)
+  مصر (miṣr, maṣr) {{ar-proper noun|g=f}} :: Egypt or Masr (in this sense, a feminine noun)
+  مصر (miṣr, maṣr) {{ar-proper noun|g=f}} :: Cairo (colloquial, in this sense, a feminine noun)
 ===This===
   ا / ‍ا (’álif)thumb :: Although usually considered to be the first letter of the Arabic alphabet, the small hamza (ء) that sits on top of أ is really the first letter of the Arabic alphabet, and the tall column is its bearer. This entry only deals with the lower part, the bearer, which is called الف (’álif) and, without the hamza, is used to lengthen a preceding vowel, often a. It is followed by ب.
 ===those===
@@ -4753,7 +4922,7 @@ Index: EN EN->AR
   عين (ʕayn) {f}, عَيْنَانِ (ʕeynāni, dual nom.), عَيْنَيْنِ (ʕeynéyni, dual oblique), عُيُون (ʕuyūn, {p}) :: In law: money or whatever is the equivalent of money.
 ===which===
   مَن (man) {ar-pron} :: {interrogative} which?, which one?
-  حلال حَلال (ḥalāl) :: halal, that which is permitted
+  حَلال (ḥalāl) {ar-adj} :: halal, that which is permitted
   و / ‍و (wāw) :: The sixth letter in traditional abjad order, which is used in place of numerals for list numbering (abjad numerals). It is preceded by ﻫ and followed by ز.
   ر / ‍ر (rā’) :: The twentieth letter in traditional abjad order, which is used in place of numerals for list numbering (abjad numerals). It is preceded by ق and followed by ش.
   ب (number) :: The second letter in traditional abjad order, which is used in place of numerals for list numbering (abjad numerals). It is preceded by أ and followed by ج.
@@ -4761,7 +4930,7 @@ Index: EN EN->AR
   ت / ت‍ / ‍ت‍ / ‍ت (tā’) :: The twenty-second letter in traditional abjad order, which is used in place of numerals for list numbering (abjad numerals). It is preceded by ش and followed by ث.
   بان بَان (bān) (collective) {m}, بَانَة (bāna) (singulative) {f} :: ben tree, horseradish tree (the Moringa oleifera of Arabia and India, which produces oil of ben)
 ===wife===
-  زوج (zawj) {m}, زوجة {f}, ازواج (’azwāj) {p} :: husband, wife, mate, partner
+  زَوْج (zawj) {{ar-noun|g=m|f=زوجة|pl=أزواج|plhead=أَزْوَاج|pltr=’azwāj}} :: husband, wife, mate, partner
 ===wiki===
   وِيكِي (wíki) {ar-noun} :: wiki
 ===willing===

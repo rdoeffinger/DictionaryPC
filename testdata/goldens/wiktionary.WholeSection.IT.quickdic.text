@@ -1,5 +1,5 @@
 dictInfo=SomeWikiDataWholeSection
-EntrySource: wiktionary.WholeSection.IT.quickdic 287
+EntrySource: wiktionary.WholeSection.IT.quickdic 286
 
 Index: IT IT->EN
 ===6===
@@ -873,7 +873,7 @@ HtmlEntry: Africa <<<
 <h3>See also</h3>
 <ul><li> {{list|it|continents}}</li>
 </ul>
-<a href="qd::Category:it:Africa">*</a>---->>>
+---->>>
 ===agreement===
 HtmlEntry: agreement <<<
 <h3>Etymology</h3>
@@ -1312,17 +1312,15 @@ HtmlEntry: argentine <<<
 <ol><li> {{plural of|argentina}}</li>
 </ol>
 >>>
-===argo===
-See also HtmlEntry:argon
 ===argon===
 HtmlEntry: argon <<<
 <h3>Noun</h3>
 {{head|it|noun|g=m}}
-<ol><li> <a href="qd::argon">argon</a></li>
+<ol><li> {{l|en|argon}}</li>
 </ol>
 
 <h4>Synonyms</h4>
-<ul><li> <a href="qd::argo">argo</a></li>
+<ul><li> {{l|it|argo}}</li>
 </ul>
 >>>
 ===aria===
@@ -1330,10 +1328,11 @@ HtmlEntry: aria <<<
 <h3>Etymology</h3>
 Metathesis from {{etyl|la|it}} {{term|aerem|lang=la}}, accusative of {{term|aer|&#x101;&#x113;&#x72;|lang=la}}, from {{etyl|grc|it}} {{term|&#x1f00;&#x3ae;&#x3c1;|air|tr=&#x61;&#x113;&#x72;|sc=polytonic|lang=grc}}.
 <h3>Pronunciation</h3>
-<ul><li> {{audio|It-l'aria.ogg|Audio}}</li>
+<ul><li> {{audio|It-l'aria.ogg|Audio (l'aria)}}</li>
 <li> {{audio|It-aria.ogg|Audio}}</li>
+<li> IPA: &#x2f;&#x2c8;&#x61;&#x72;&#x6a;&#x61;&#x2f;, {{X-SAMPA|/&quot;arja/}}</li>
 </ul>
-&#xe0;&#x72;&#x69;&#x61;&#x2c;&#x20;&#x2f;&#x2c8;&#x61;&#x72;&#x6a;&#x61;&#x2f;&#x2c;&#x20;&#x2f;&#x3c;&#x74;&#x74;&#x3e;&#x22;&#x61;&#x72;&#x6a;&#x61;&#x3c;&#x2f;&#x74;&#x74;&#x3e;&#x2f;
+
 <h3>Noun</h3>
 {{it-noun|ari|f|a|e}}
 <ol><li> <a href="qd::air">air</a></li>
@@ -1461,7 +1460,7 @@ HtmlEntry: attributive <<<
 HtmlEntry: Australia <<<
 <h3>Proper noun</h3>
 {{it-proper noun|g=f}}
-<ol><li> <a href="qd::Australia">Australia</a></li>
+<ol><li> {{l|en|Australia}}</li>
 </ol>
 
 <h4>Derived terms</h4>
@@ -1663,7 +1662,7 @@ HtmlEntry: barato <<<
 HtmlEntry: Barbados <<<
 <h3>Proper noun</h3>
 {{it-proper noun|g=f}}
-<ol><li> <a href="qd::Barbados">Barbados</a></li>
+<ol><li> {{l|en|Barbados}}</li>
 </ol>
 ---->>>
 ===bari===
@@ -1811,7 +1810,7 @@ HtmlEntry: Benevento <<<
 HtmlEntry: Benin <<<
 <h3>Proper noun</h3>
 {{it-proper noun|g=m}}
-<ol><li> <a href="qd::Benin">Benin</a></li>
+<ol><li> {{l|en|Benin}}</li>
 </ol>
 
 <h4>Derived terms</h4>
@@ -3234,8 +3233,8 @@ HtmlEntry: cosine <<<
 ===Costa Rica===
 HtmlEntry: Costa Rica <<<
 <h3>Proper noun</h3>
-<b>Costa Rica</b> {m}
-<ol><li> <a href="qd::Costa Rica">Costa Rica</a></li>
+{{it-proper noun|g=f}}
+<ol><li> {{l|en|Costa Rica}}</li>
 </ol>
 
 <h4>Derived terms</h4>
@@ -3380,6 +3379,8 @@ HtmlEntry: curve <<<
 ---->>>
 ===cute===
 HtmlEntry: cute <<<
+<h3>Etymology</h3>
+From {{etyl|la|it}} {{term|cutis|lang=la}}.
 <h3>Noun</h3>
 {{it-noun|cut|f|e|i}}
 <ol><li> {{context|anatomy}} <a href="qd::cutis">Cutis</a>, <a href="qd::skin">skin</a> (of a person)</li>
@@ -3605,7 +3606,7 @@ HtmlEntry: decade <<<
 <li> <a href="qd::decennio">decennio</a> (ten years)</li>
 </ul>
 
-<h3>Verb form</h3>
+<h3>Verb</h3>
 <b>decade</b>
 <ol><li> <em>third-person singular indicative present of <a href="qd::decadere">decadere</a></em></li>
 </ol>
@@ -3803,8 +3804,8 @@ HtmlEntry: dice <<<
 >>>
 ===dici nove===
 HtmlEntry: dici nove <<<
-<h3>Number</h3>
-{{head|it|cardinal number}}
+<h3>Numeral</h3>
+{{head|it|numeral}}
 <ol><li> {{alternative spelling of|diciannove}}</li>
 </ol>
 >>>
@@ -4002,7 +4003,7 @@ HtmlEntry: dodo <<<
 ===Dominica===
 HtmlEntry: Dominica <<<
 <h3>Proper noun</h3>
-<b>Dominica</b> {f}
+{{it-proper noun|g=f}}
 <ol><li> {{l|en|Dominica}}</li>
 </ol>
 >>>
@@ -4361,8 +4362,8 @@ See also HtmlEntry:essere
 ===Eritrea===
 HtmlEntry: Eritrea <<<
 <h3>Proper noun</h3>
-<b>Eritrea</b> {f}
-<ol><li> <a href="qd::Eritrea">Eritrea</a></li>
+{{it-proper noun|g=f}}
+<ol><li> {{l|en|Eritrea}}</li>
 </ol>
 
 <h4>Related terms</h4>
@@ -4806,7 +4807,7 @@ HtmlEntry: Gabon <<<
 ===gaffe===
 HtmlEntry: gaffe <<<
 <h3>Noun</h3>
-<b>gaffe</b> {f}
+{{head|it}} {f}
 <ol><li> {{plural of|gaffa}}</li>
 </ol>
 <b>gaffe</b> {f|inv}
@@ -4863,9 +4864,7 @@ HtmlEntry: gamma <<<
 <h3>Noun</h3>
 {{it-noun|gamm|f|a|e}}
 <ol><li> <a href="qd::range">range</a>, <a href="qd::gamut">gamut</a></li>
-</ol>
-<b>gamma</b> {m|f|inv}
-<ol><li> <a href="qd::gamma">gamma</a> (Greek letter)</li>
+<li> {{l|en|gamma}} (Greek letter)</li>
 </ol>
 
 <h4>Derived terms</h4>
@@ -4962,7 +4961,7 @@ HtmlEntry: gnu <<<
 HtmlEntry: go <<<
 <h3>Noun</h3>
 {{head|it|noun|g=m}}
-<ol><li> {board games} <a href="qd::go">go</a></li>
+<ol><li> {board games} {{l|en|go}}</li>
 </ol>
 ---->>>
 ===GO===
@@ -5098,8 +5097,8 @@ Plural of {{term|grazia}}, from {{etyl|la|it}} {{term|gratia}}, as used in the p
 ===Grenada===
 HtmlEntry: Grenada <<<
 <h3>Proper noun</h3>
-<b>Grenada</b> {f}
-<ol><li> <a href="qd::Grenada">Grenada</a></li>
+{{it-proper noun|g=f}}
+<ol><li> {{l|en|Grenada}}</li>
 </ol>
 
 <h4>Derived terms</h4>
@@ -5186,8 +5185,8 @@ From {{etyl|roa-oit|it}} {{term|guerra}}, from {{etyl|LL.|it}} {{recons|werra|la
 ===Guinea===
 HtmlEntry: Guinea <<<
 <h3>Proper noun</h3>
-<b>Guinea</b> {f}
-<ol><li> <a href="qd::Guinea">Guinea</a></li>
+{{it-proper noun|g=f}}
+<ol><li> {{l|en|Guinea}}</li>
 </ol>
 
 <h4>Related terms</h4>
@@ -5423,7 +5422,7 @@ See also HtmlEntry:mobile
 ===impala===
 HtmlEntry: impala <<<
 <h3>Etymology</h3>
-From {{etyl|zu|it}}
+From {{etyl|zu|it}} {{term|impala|lang=zu}}.
 <h3>Noun</h3>
 {{head|it|noun|g=m}} {inv}
 <ol><li> <a href="qd::impala">impala</a></li>
@@ -5441,21 +5440,6 @@ HtmlEntry: imperative <<<
 <b>imperative</b> {p}
 <ol><li> {{feminine of|imperativo#Adjective|imperativo}}</li>
 </ol>
->>>
-===Imperia===
-HtmlEntry: Imperia <<<
-<h3>Pronunciation</h3>
-<ul><li> {{audio|It-Imperia.ogg|Audio}}</li>
-</ul>
-
-<h3>Proper noun</h3>
-{it-proper noun}
-<ol><li> A town and associated province on the coast of <a href="qd::Liguria">Liguria</a></li>
-</ol>
-
-<h4>Derived terms</h4>
-<ul><li> <a href="qd::imperiese">imperiese</a></li>
-</ul>
 >>>
 ===impose===
 HtmlEntry: impose <<<
@@ -5758,6 +5742,16 @@ HtmlEntry: kiwi <<<
 ---->>>
 ===ksi===
 See also HtmlEntry:xi
+===Kuala Lumpur===
+HtmlEntry: Kuala Lumpur <<<
+<h3>Etymology</h3>
+From {{etyl|ms|it}} {{term|Kuala Lumpur|lang=ms}}.
+<h3>Proper noun</h3>
+{{head|it|proper noun|g=f}}
+<ol><li> {{l|en|Kuala Lumpur}} (capital of Malaysia)</li>
+<li> {{l|en|Kuala Lumpur}} (federal territory in Malaysia)</li>
+</ol>
+---->>>
 ===Kuwait===
 HtmlEntry: Kuwait <<<
 <h3>Proper noun</h3>
@@ -6338,7 +6332,7 @@ HtmlEntry: Macedonia <<<
 
 <h3>Proper noun</h3>
 {{it-proper noun|g=f}}
-<ol><li> <a href="qd::Macedonia">Macedonia</a></li>
+<ol><li> {{l|en|Macedonia}}</li>
 </ol>
 
 <h4>Related terms</h4>
@@ -6504,7 +6498,7 @@ HtmlEntry: Malta <<<
 HtmlEntry: manga <<<
 <h3>Noun</h3>
 {{head|it|noun|g=m}} {inv}
-<ol><li> {manga} A <a href="qd::manga">manga</a></li>
+<ol><li> {manga} {{l|en|manga}}</li>
 </ol>
 >>>
 ===manganese===
@@ -6756,8 +6750,8 @@ HtmlEntry: MI <<<
 ===Micronesia===
 HtmlEntry: Micronesia <<<
 <h3>Proper noun</h3>
-<b>Micronesia</b> {f}
-<ol><li> <a href="qd::Micronesia">Micronesia</a></li>
+{{it-proper noun|g=f}}
+<ol><li> {{l|en|Micronesia}}</li>
 </ol>
 
 <h4>Derived terms</h4>
@@ -7480,7 +7474,7 @@ HtmlEntry: Oceania <<<
 
 <h3>Proper noun</h3>
 {{it-proper noun|g=f}}
-<ol><li> <a href="qd::Oceania">Oceania</a></li>
+<ol><li> {{l|en|Oceania}}</li>
 </ol>
 
 <h4>Related terms</h4>
@@ -7511,9 +7505,9 @@ HtmlEntry: Oman <<<
 >>>
 ===OMC===
 HtmlEntry: OMC <<<
-<h3>{{initialism|Italian}}</h3>
-<b>OMC</b>
-<ol><li> <a href="qd::Organizzazione Mondiale del Commercio">Organizzazione Mondiale del Commercio</a>, <a href="qd::WTO">WTO</a> (<a href="qd::World Trade Organisation">World Trade Organisation</a>.)</li>
+<h3>Initialism</h3>
+{fr-initialism}
+<ol><li> {{initialism of|Organizzazione Mondiale del Commercio}} (<a href="qd::WTO">WTO</a> (<a href="qd::World Trade Organisation">World Trade Organisation</a>))</li>
 </ol>
 >>>
 ===omega===
@@ -7648,8 +7642,8 @@ From {{etyl|la|it}} {{term|octo}}.
 <ul><li> IPA: &#x2f;&#x2c8;&#x254;&#x74;&#x2e;&#x74;&#x6f;&#x2f;, {{X-SAMPA|/&quot;Ot.to/}}</li>
 </ul>
 
-<h3>Cardinal number</h3>
-{{head|it|cardinal number}} {m|f|inv}
+<h3>Numeral</h3>
+{{head|it|numeral}} {m|f|inv}
 <ol><li> {cardinal} <a href="qd::eight">eight</a></li>
 </ol>
 
@@ -7703,7 +7697,7 @@ HtmlEntry: Pakistan <<<
 HtmlEntry: Palau <<<
 <h3>Proper noun</h3>
 {{it-proper noun|g=m}}
-<ol><li> <a href="qd::Palau">Palau</a></li>
+<ol><li> {{l|en|Palau}}</li>
 </ol>
 
 <h4>Derived terms</h4>
@@ -7754,7 +7748,7 @@ HtmlEntry: Panama <<<
 HtmlEntry: pancreas <<<
 <h3>Noun</h3>
 {{head|it|noun|g=m}} {inv}
-<ol><li> pancreas</li>
+<ol><li> {{l|en|pancreas}}</li>
 </ol>
 
 <h4>Derived terms</h4>
@@ -7839,9 +7833,9 @@ HtmlEntry: password <<<
 >>>
 ===PE===
 HtmlEntry: PE <<<
-<h3>{{abbreviation|Italian}}</h3>
-<b>PE</b>
-<ol><li> <a href="qd::Pescara">Pescara</a> (A city in Abruzzo)</li>
+<h3>Abbreviation</h3>
+{it-abbreviation}
+<ol><li> {{abbreviation of|Pescara}} (It is a city in Abruzzo)</li>
 </ol>
 ---->>>
 ===pelle===
@@ -7860,9 +7854,9 @@ See also HtmlEntry:caracal
 ===pesca===
 HtmlEntry: pesca <<<Pesca (fruit)Pesca (fishing)
 <h3>Etymology 1</h3>
-{{etyl|la|it}} {{term|persica|peach|lang=la}}.
+From {{etyl|LL.|it}} {{term|persica|peach|lang=la}} &lt; {{etyl|la|it}} {{term|persicum|lang=la}}.
 <h4>Pronunciation</h4>
-<ul><li> {{enPR|p&egrave;sca}}, IPA: &#x2f;&#x2c8;&#x70;&#x25b;&#x73;&#x6b;&#x61;&#x2f;, {{X-SAMPA|/&quot;pEska/}}</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x70;&#x25b;&#x73;&#x6b;&#x61;&#x2f;, {{X-SAMPA|/&quot;pEska/}}</li>
 <li> {{audio|It-pesca_(frutto).ogg}}</li>
 </ul>
 
@@ -7885,7 +7879,7 @@ HtmlEntry: pesca <<<Pesca (fruit)Pesca (fishing)
 <h3>Etymology 2</h3>
 {{etyl|la|it}} {{term|piscis|fish|lang=la}}.
 <h4>Pronunciation</h4>
-<ul><li>&#x20;&#x70;&#xe9;&#x73;&#x63;&#x61;&#x2c;&#x20;&#x2f;&#x2c8;&#x70;&#x65;&#x73;&#x6b;&#x61;&#x2f;&#x2c;&#x20;&#x2f;&#x3c;&#x74;&#x74;&#x3e;&#x22;&#x70;&#x65;&#x73;&#x6b;&#x61;&#x3c;&#x2f;&#x74;&#x74;&#x3e;&#x2f;&#x20;</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x70;&#x65;&#x73;&#x6b;&#x61;&#x2f;, {{X-SAMPA|/&quot;peska/}}</li>
 <li> {{audio|It-pesca_(sport).ogg|Audio}}</li>
 </ul>
 
@@ -8056,6 +8050,8 @@ HtmlEntry: pipe <<<
 >>>
 ===pizza===
 HtmlEntry: pizza <<<
+<h3>Etymology</h3>
+Of uncertain origin, perhaps from {{etyl|gkm|it}} {{term|&#x3c0;&#x3af;&#x3c4;&#x3c4;&#x3b1;|cake, pie|tr=pitta|lang=grc|sc=polytonic}}, from {{etyl|grc|it}} {{term|&#x3c0;&#x3af;&#x3c3;&#x3c3;&#x3b1;|pitch|tr=pissa|lang=grc|sc=polytonic}}, <a href="qd::Attic">Attic</a> {{term|&#x3c0;&#x3af;&#x3c4;&#x3c4;&#x3b1;|tr=pitta|lang=grc|sc=polytonic}}, from {{term|&#x3c0;&#x3b5;&#x3c0;&#x3c4;&#x3cc;&#x3c2;|cooked|tr=peptos|lang=grc|sc=polytonic}} or from Langobardic <em>pizza</em> (&quot;bit, bite&quot;), or from {{etyl|la|it}}{{term|pinso|I beat, pound|lang=la}}.
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x2c8;&#x70;&#x69;&#x74;&#x2e;&#x74;&#x73;&#x61;&#x2f;, {{X-SAMPA|/&quot;pit.tsa/}}</li>
 </ul>
@@ -8519,7 +8515,7 @@ From {{etyl|la|it}} {{term|quindecim|&#x71;&#x75;&#x12b;&#x6e;&#x64;&#x65;&#x63;
 HtmlEntry: quiz <<<
 <h3>Noun</h3>
 {{head|it|noun|g=m}} {inv}
-<ol><li> <a href="qd::quiz">quiz</a></li>
+<ol><li> {{l|en|quiz}}</li>
 </ol>
 
 <h4>Derived terms</h4>
@@ -8680,7 +8676,7 @@ HtmlEntry: recuperate <<<
 ===regime===
 HtmlEntry: regime <<<
 <h3>Etymology</h3>
-Latin <em><a href="qd::regimen">regimen</a>, regiminis</em>
+Probably borrowed from {{etyl|la|it}} <em><a href="qd::regimen">regimen</a>, regiminis</em>.
 <h3>Noun</h3>
 {{it-noun|regim|m|e|i}}
 <ol><li> regime, <a href="qd::régime">r&eacute;gime</a></li>
@@ -8987,7 +8983,7 @@ From {{etyl|VL.|it}} {{term|salsa|lang=la}}, noun use of the feminine of {{etyl|
 HtmlEntry: Samoa <<<
 <h3>Proper noun</h3>
 {{it-proper noun|g=f}}
-<ol><li> <a href="qd::Samoa">Samoa</a></li>
+<ol><li> {{l|en|Samoa}}</li>
 </ol>
 
 <h4>Derived terms</h4>
@@ -9345,8 +9341,8 @@ See also HtmlEntry:weekend
 ===Seychelles===
 HtmlEntry: Seychelles <<<
 <h3>Proper noun</h3>
-<b>Seychelles</b> {f} {p}
-<ol><li> <a href="qd::Seychelles ">Seychelles </a></li>
+{{it-proper noun|g=f}} {p}
+<ol><li> {{l|en|Seychelles}}</li>
 </ol>
 ---->>>
 ===shock===
@@ -9423,8 +9419,8 @@ See also HtmlEntry:essere
 ===Sierra Leone===
 HtmlEntry: Sierra Leone <<<
 <h3>Proper noun</h3>
-<b>Sierra Leone</b> {f}
-<ol><li> <a href="qd::Sierra Leone">Sierra Leone</a></li>
+{{it-proper noun|g=f}}
+<ol><li> {{l|en|Sierra Leone}}</li>
 </ol>
 ---->>>
 ===siete===
@@ -9606,7 +9602,7 @@ Inflected forms
 HtmlEntry: Somalia <<<
 <h3>Proper noun</h3>
 {{it-proper noun|g=f}}
-<ol><li> <a href="qd::Somalia">Somalia</a></li>
+<ol><li> {{l|en|Somalia}}</li>
 </ol>
 
 <h4>Derived terms</h4>
@@ -9683,8 +9679,8 @@ HtmlEntry: spider <<<
 ===Sri Lanka===
 HtmlEntry: Sri Lanka <<<
 <h3>Proper noun</h3>
-<b>Sri Lanka</b> {m}
-<ol><li> <a href="qd::Sri Lanka">Sri Lanka</a></li>
+{{it-proper noun|g=m}}
+<ol><li> {{l|en|Sri Lanka}}</li>
 </ol>
 
 <h4>See also</h4>
@@ -9824,8 +9820,8 @@ HtmlEntry: superlative <<<
 ===Suriname===
 HtmlEntry: Suriname <<<
 <h3>Proper noun</h3>
-<b>Suriname</b> {m}
-<ol><li> <a href="qd::Suriname">Suriname</a></li>
+{{it-proper noun|g=m}}
+<ol><li> {{l|en|Suriname}}</li>
 </ol>
 
 <h4>Derived terms</h4>
@@ -9852,7 +9848,7 @@ HtmlEntry: swing <<<
 HtmlEntry: Sydney <<<
 <h3>Proper noun</h3>
 {{it-proper noun|g=f}}
-<ol><li> <a href="qd::Sydney">Sydney</a> (in Australia)</li>
+<ol><li> {{l|en|Sydney}} (in Australia)</li>
 </ol>
 >>>
 ===t===
@@ -9865,8 +9861,8 @@ HtmlEntry: t <<<
 ===Taiwan===
 HtmlEntry: Taiwan <<<
 <h3>Proper noun</h3>
-<b>Taiwan</b> {m}
-<ol><li> <a href="qd::Taiwan">Taiwan</a></li>
+{{it-proper noun|g=m}}
+<ol><li> {{l|en|Taiwan}}</li>
 </ol>
 
 <h4>Derived terms</h4>
@@ -10891,7 +10887,7 @@ HtmlEntry: vertebrate <<<
 ===vi===
 HtmlEntry: vi <<<
 <h3>Pronoun</h3>
-<b>vi</b>
+{{head|it|pronoun}}
 <ol><li> (<em>second-person personal plural object pronoun</em>): <a href="qd::you">you</a>, to you</li>
 <ul><li> (<a href="qd::noi">noi</a>) <b>vi</b> amiamo - we love you</li>
 </ul>
@@ -11050,9 +11046,11 @@ Shortened form of {{etyl|en|it}} <a href="qd::water closet">water closet</a> (W.
 ---->>>
 ===weekend===
 HtmlEntry: weekend <<<
+<h3>Etymology</h3>
+From {{etyl|en|it}}.
 <h3>Noun</h3>
 {{head|it|noun|g=m}} {inv}
-<ol><li> <a href="qd::weekend">weekend</a></li>
+<ol><li> {{l|en|weekend}}</li>
 </ol>
 
 <h4>Alternative forms</h4>
@@ -11189,7 +11187,7 @@ HtmlEntry: Zanzibar <<<
 HtmlEntry: zebra <<<
 <h3>Noun</h3>
 {{it-noun|zebr|f|a|e}}
-<ol><li> <a href="qd::zebra">zebra</a></li>
+<ol><li> {{l|en|zebra}}</li>
 <li> {{in the plural|informal}} <a href="qd::zebra crossing">zebra crossing</a></li>
 </ol>
 ---->>>

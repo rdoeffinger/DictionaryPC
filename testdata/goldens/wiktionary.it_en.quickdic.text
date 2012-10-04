@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.english 3545
+EntrySource: enwiktionary.english 3563
 
 Index: IT IT->EN
 ===15===
@@ -66,8 +66,6 @@ Index: IT IT->EN
 ***abduzione***
   abduzione {f} :: abduction (physiology: movement separating limb from axis) (noun)
   abduzione {f} :: abduction (logic: syllogism) (noun)
-***abecedariano***
-  abecedariano :: abecedarian (member of a 16th-century sect) (noun)
 ***abelmosco***
   abelmosco {m} :: abelmosk (evergreen shrub) (noun)
 ***aberrante***
@@ -81,11 +79,14 @@ Index: IT IT->EN
   aberrazione {f} :: aberration (physiology: deviation from the normal state) (noun)
   aberrazione {f} :: aberration (zoology, botany: atypical development or structure) (noun)
 ***abietico***
-  abietico (all senses) :: abietic (adjective)
+  abietico :: abietic (related to fir trees) (adjective)
+  abietico :: abietic (related to abietic acid or its deratives) (adjective)
 ***abilità***
   abilità {f} :: ability (quality or state of being able) (noun)
 ***abilmente***
   abilmente :: ably (with great ability) (adverb)
+***abisso***
+  abisso {m} :: abime (a bottomless or unfathomed depth)
 ***abitare***
   vivere, abitare, risiedere, dimorare :: abide (to dwell) (verb)
 ***abiurare***
@@ -95,7 +96,7 @@ Index: IT IT->EN
   ablativo {m} :: ablative (applied to one of the cases of the noun in other language) (adjective)
   ablativo {m} :: ablative ((grammar) the ablative case) (noun)
 ***ablegazione***
-  ablegazione {f} :: ablegation (noun)
+  ablegazione {f} :: ablegation (expulsion, banishment) (noun)
 ***abluzione***
   abluzione {f} :: ablution (the act of washing or cleansing) (noun)
 ***abnegazione***
@@ -129,7 +130,7 @@ Index: IT IT->EN
   accessibile :: accessible (easy of access or approach) (adjective)
   accessibile :: accessible (easily understood) (adjective)
 ***accessibilità***
-  accessibilità {f} :: accessibility (the quality of being accessible, or of admitting approach; receptibility) (noun)
+  accessibilità {f} :: accessibility (the quality of being accessible, or of admitting approach) (noun)
 ***accettabile***
   accettabile :: acceptable (capable, worthy or sure of being accepted) (adjective)
 ***accettare***
@@ -160,8 +161,8 @@ Index: IT IT->EN
 ===Achille===
   tendine di Achille {m} :: Achilles tendon (strong tendon in the calf of the leg) (noun)
 ***acido***
-  acido {m} :: acid (sour, sharp, or biting to the taste) (adjective)
-  acido {m} :: acid (sour-tempered) (adjective)
+  acido :: acid (sour, sharp, or biting to the taste) (adjective)
+  acido :: acid (sour-tempered) (adjective)
   acido :: acid (of or pertaining to an acid) (adjective)
   acido {m} :: acid (a sour substance) (noun)
   acido {m} :: acid (in chemistry) (noun)
@@ -201,8 +202,6 @@ Index: IT IT->EN
   all'estero :: abroad (in foreign countries) (adverb)
 ***allenare***
   addestrare, allenare, acclimatare :: season (to make fit for any use by time or habit) (verb)
-===also===
-  incontro {m}, appuntamento {m} (the latter also as romantic meeting) :: date (pre-arranged social meeting) (noun)
 ===amico===
   falso amico {m} :: false friend (false friend) (noun)
 ***ammettere***
@@ -210,7 +209,7 @@ Index: IT IT->EN
 ***ammonire***
   ammonire :: book (penalise) (verb)
 ***ammontare***
-  ammontare :: number (to total; to amount to) (verb)
+  ammontare :: number (to total; to amount to)
 ===amo===
   ti amo (informal singular), vi amo (plural or formal) :: I love you (affirmation of romantic feeling) (phrase)
 ***andare***
@@ -239,7 +238,7 @@ Index: IT IT->EN
 ***appoggiare***
   assecondare, secondare, appoggiare, sostenere :: second (to agree as a second person) (verb)
 ***appuntamento***
-  incontro {m}, appuntamento {m} (the latter also as romantic meeting) :: date (pre-arranged social meeting) (noun)
+  incontro {m}, appuntamento {m} (also romantic meeting) :: date (pre-arranged social meeting) (noun)
   appuntamento {m} :: date (meeting with a lover or potential lover; a person so met) (noun)
 ***aprile***
   aprile {m} :: April (fourth month of the Gregorian calendar) (proper noun)
@@ -261,8 +260,6 @@ Index: IT IT->EN
   arma {f} :: weapon (instrument of attack or defense in combat) (noun)
 ***arrossire***
   arrossire, colorire :: color (become red through increased blood flow) (verb)
-===as===
-  incontro {m}, appuntamento {m} (the latter also as romantic meeting) :: date (pre-arranged social meeting) (noun)
 ***ascesso***
   ascesso {m} :: abscess (cavity filled with pus) (noun)
 ***ascissa***
@@ -275,6 +272,7 @@ Index: IT IT->EN
   assente :: absent (being away from a place) (adjective)
   assente :: absent (not existing) (adjective)
   assente :: absent (inattentive) (adjective)
+  assente :: absentee (A person who is absent) (noun)
 ***assolutamente***
   assolutamente :: absolutely (in an absolute manner) (adverb)
   assolutamente :: absolutely (yes; certainly) (interjection)
@@ -287,10 +285,8 @@ Index: IT IT->EN
   assolvere :: absolve (obsolete: finish, accomplish) (verb)
 ***assorbibile***
   assorbibile :: absorbable (capable of being absorbed) (adjective)
-***astemia***
-  astemio {m}, astemia {f} :: abstemious (abstaining from wine) (adjective)
 ***astemio***
-  astemio {m}, astemia {f} :: abstemious (abstaining from wine) (adjective)
+  astemio :: abstemious (abstaining from wine) (adjective)
 ***astenersi***
   astenersi :: abstain (refrain from) (verb)
   astenersi :: abstain (refrain from voting) (verb)
@@ -395,10 +391,6 @@ Index: IT IT->EN
   calendario {m} :: calendar (system by which time is divided) (noun)
   calendario {m} :: calendar (means to determine the date) (noun)
   calendario {m} :: calendar (a list of planned events) (noun)
-***cane***
-  cane {m} :: dog (animal) (noun)
-  cane {m} :: dog (male canine) (noun)
-  cane {m} :: dog (morally reprehensible person, See also scoundrel) (noun)
 ***canile***
   canile {m}, recinto :: pound (place for the detention of stray animals) (noun)
 ===capace===
@@ -456,10 +448,10 @@ Index: IT IT->EN
   numero {m}, cifra {f} :: number (numeral) (noun)
   numero {m}, cifra {f} :: numeral (word or symbol representing a number) (noun)
 ===cinese===
-  cinese tradizionale :: Traditional Chinese (Chinese written using traditional characters) (proper noun)
+  cinese tradizionale {m|f} :: Traditional Chinese (Chinese written using traditional characters) (proper noun)
   cinese semplificato {m} :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
 ***cinque***
-  cinque :: five (five (5)) (cardinal number)
+  cinque :: five (five (5)) (numeral)
 ***circa***
   circa :: about (around) (preposition)
 ===città===
@@ -591,7 +583,7 @@ Index: IT IT->EN
 ***dicembre***
   dicembre {m} :: December (twelfth month of the Gregorian calendar) (proper noun)
 ***dieci***
-  dieci :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
+  dieci :: ten (the cardinal number occurring after 9 and before 11) (numeral)
   dieci {m} (1,2,3) :: ten (the number following nine) (noun)
   moneta di dieci dollari :: eagle (A gold coin with a face value of $10.00) (noun)
 ***dietro***
@@ -606,7 +598,7 @@ Index: IT IT->EN
   ripugnante, disgustoso, odioso :: abhorrent (detesting; showing abhorrence) (adjective)
 ***disossare***
   disossare :: bone (to remove bones) (verb)
-===dispari===
+***dispari***
   dispari :: odd (not divisible by two) (adjective)
 ***distaccare***
   distaccare, comandare :: second (temporary transfer of employment) (verb)
@@ -628,10 +620,12 @@ Index: IT IT->EN
   dottrina {f} :: doctrine (belief) (noun)
   dottrina {f} :: doctrine (body of beliefs or teachings) (noun)
 ***due***
-  due :: two (one plus one) (cardinal number)
+  due :: two (one plus one) (numeral)
   due {m} or {p} :: two (digit or figure) (noun)
   (periodo di) due settimane ; quindicina {f} (actually 15 days) :: fortnight (period of two weeks) (adverb)
   biglietto da due dollari {m}, bancanota da due dollari {f} :: two (two-dollar bill) (noun)
+***duraturo***
+  duraturo, persistente :: abiding (continue) (adjective)
 ***è***
   è, sta :: is (verb)
 ***Edoardo***
@@ -650,7 +644,6 @@ Index: IT IT->EN
   avatar {m}, emblema, simbolo :: avatar (A digital representation of a person or being) (noun)
 ***enciclopedia***
   enciclopedia {f} :: encyclopedia (comprehensive reference with articles on a range of topic) (noun)
-  enciclopedia {f} :: encyclopaedia (reference book) (noun)
 ***enne***
   enne {f} :: en (name of the letter N, n) (noun)
 ***erba***
@@ -715,6 +708,10 @@ Index: IT IT->EN
   ferrovia {f} :: railway (transport system using these rails) (noun)
 ***fiaba***
   fiaba {m} :: fable (fictitious narration to enforce some useful truth or precept) (noun)
+===fiamme===
+  in fiamme, fiammeggiante :: ablaze (on fire) (adjective)
+***fiammeggiante***
+  in fiamme, fiammeggiante :: ablaze (on fire) (adjective)
 ***fica***
   fica {f}, figa {f}, fregna {f} :: cunt (genitalia) (noun)
 ***figa***
@@ -834,14 +831,17 @@ Index: IT IT->EN
   improvvisamente :: abruptly (precipitously) (adverb)
 ***in***
   in :: in (contained by) (preposition)
+  in fiamme, fiammeggiante :: ablaze (on fire) (adjective)
 ***incalcolabile***
   innumerevole, incalcolabile :: uncountable (too many to be counted) (adjective)
 ***incarnazione***
   avatar {m}, incarnazione :: avatar (The earthly incarnation of a deity, particularly Vishnu) (noun)
+***incazzato***
+  incazzato {m} :: pissed (Annoyed, angry) (adjective)
 ***incompatibile***
   contrario, incompatibile, contro :: abhorrent (contrary or repugnant) (adjective)
 ***incontro***
-  incontro {m}, appuntamento {m} (the latter also as romantic meeting) :: date (pre-arranged social meeting) (noun)
+  incontro {m}, appuntamento {m} (also romantic meeting) :: date (pre-arranged social meeting) (noun)
 ***incoraggiare***
   favoreggiare, incoraggiare, istigare :: abet (to assist or encourage in crime) (verb)
 ===indietro===
@@ -887,8 +887,6 @@ Index: IT IT->EN
   il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used with the name of a member of a class to refer to all things in that class) (article)
 ***latrina***
   cesso {m}, latrina {f} :: can (toilet) (noun)
-===latter===
-  incontro {m}, appuntamento {m} (the latter also as romantic meeting) :: date (pre-arranged social meeting) (noun)
 ***lattina***
   lattina {f} :: can (a more or less cylindrical vessel for liquids) (noun)
 ***le***
@@ -957,6 +955,8 @@ Index: IT IT->EN
   lupo {m} :: wolf (animal) (noun)
 ===lying===
   forse, può essere che + subjunctive; He may be lying — Forse sta mentendo, Può essere che stia mentendo :: may (possibly, but not certainly) (verb)
+===maggioranza===
+  la maggioranza di, di più :: most ( majority of ) (determiner)
 ===mantenersi===
   essere aggiornato, stare al passo (con i tempi, con le notizie), mantenersi al corrente :: abreast (informed) (adverb)
 ***marca***
@@ -979,14 +979,12 @@ Index: IT IT->EN
 ***matrice***
   matrice {f} :: die (device for cutting into a specified shape) (noun)
 ***mattatoio***
-  mattatoio :: abattoir (public slaughterhouse) (noun)
+  mattatoio {m} :: abattoir (public slaughterhouse) (noun)
 ===may===
   forse, può essere che + subjunctive; He may be lying — Forse sta mentendo, Può essere che stia mentendo :: may (possibly, but not certainly) (verb)
 ***medicina***
   medicina {f} :: medicine (substance which promotes healing) (noun)
   medicina {f}, clinica {f} :: medicine (field of study) (noun)
-===meeting===
-  incontro {m}, appuntamento {m} (the latter also as romantic meeting) :: date (pre-arranged social meeting) (noun)
 ===mentendo===
   forse, può essere che + subjunctive; He may be lying — Forse sta mentendo, Può essere che stia mentendo :: may (possibly, but not certainly) (verb)
 ***mercoledì***
@@ -1011,7 +1009,7 @@ Index: IT IT->EN
 ***micio***
   gatto {m}, gatta {f}, micio {m}, micia {f} :: cat (domestic species) (noun)
 ***miliardo***
-  miliardo :: billion (a thousand million; 1,000,000,000; 10<sup>9</sup>; a milliard) (cardinal number)
+  miliardo :: billion (a thousand million; 1,000,000,000; 10<sup>9</sup>; a milliard) (noun)
 ***millennio***
   millennio {m} :: millennium (thousand-year period) (noun)
 ***millisecondo***
@@ -1072,16 +1070,16 @@ Index: IT IT->EN
 ===notizie===
   essere aggiornato, stare al passo (con i tempi, con le notizie), mantenersi al corrente :: abreast (informed) (adverb)
 ***nove***
-  nove :: nine (cardinal number) (cardinal number)
+  nove :: nine (cardinal number) (numeral)
 ***novembre***
   novembre {m} :: November (eleventh month of the Gregorian calendar) (proper noun)
 ===nu===
-  uno; nu (Pugliese) :: one (cardinal number 1) (cardinal number)
+  uno; nu (Pugliese) :: one (cardinal number 1) (numeral)
 ===numerabile===
   non numerabile :: uncountable (mathematics: incapable of being enumerated by natural numbers) (adjective)
   non numerabile :: uncountable (linguistics: about a noun which cannot be counted) (adjective)
 ***numerare***
-  numerare :: number (label with numbers; assign numbers to) (verb)
+  numerare :: number (label with numbers; assign numbers to)
 ***numero***
   numero {m} :: number (abstract entity) (noun)
   numero {m}, cifra {f} :: number (numeral) (noun)
@@ -1108,11 +1106,9 @@ Index: IT IT->EN
 ***Olanda***
   Paesi Bassi {m|p}, Olanda {f} :: Netherlands (country in northwestern Europe) (proper noun)
 ***olandese***
-  olandese {m|f}, olandesi {m|f|p} :: Dutch (of the Netherlands, people, or language) (adjective)
+  olandese :: Dutch (of the Netherlands, people, or language) (adjective)
   nederlandese, olandese :: Dutch (the Dutch language) (proper noun)
   olandese :: Netherlands (pertaining to the Netherlands) (adjective)
-***olandesi***
-  olandese {m|f}, olandesi {m|f|p} :: Dutch (of the Netherlands, people, or language) (adjective)
 ***ombrello***
   ombrello {m}, parapioggia :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
 ===operativo===
@@ -1140,7 +1136,7 @@ Index: IT IT->EN
   ottenebrare, offuscare :: obfuscate (make dark) (verb)
   offuscare, ottenebrare :: obfuscate (make confusing) (verb)
 ***otto***
-  otto :: eight (cardinal number 8) (cardinal number)
+  otto :: eight (cardinal number 8) (numeral)
 ***ottobre***
   ottobre {m} :: October (tenth month of the Gregorian calendar) (proper noun)
 ***ovvio***
@@ -1186,6 +1182,8 @@ Index: IT IT->EN
   perché :: because (by or for the cause that; on this account that; for the reason that) (conjunction)
 ===periodo===
   (periodo di) due settimane ; quindicina {f} (actually 15 days) :: fortnight (period of two weeks) (adverb)
+***persistente***
+  duraturo, persistente :: abiding (continue) (adjective)
 ***peto***
   scoreggia {f}, peto {m} :: fart (an emission of flatulent gases) (noun)
   scoreggiare, fare un peto :: fart (to emit flatulent gases) (verb)
@@ -1211,6 +1209,9 @@ Index: IT IT->EN
   piovere a catinelle :: rain cats and dogs (to rain very heavily) (verb)
 ***pisello***
   pisello {m}, cazzo {m}, uccello {m}, minchia {f} :: dick (colloquial: penis) (noun)
+===più===
+  la maggioranza di, di più :: most ( majority of ) (determiner)
+  il più :: most (adverb forming superlative) (adverb)
 ***plinto***
   plinto {m} :: die (cubical part of a pedestral) (noun)
 ===plural===
@@ -1281,7 +1282,7 @@ Index: IT IT->EN
 ***protele***
   protele :: aardwolf (the mammal species Proteles cristatus) (noun)
 ===Pugliese===
-  uno; nu (Pugliese) :: one (cardinal number 1) (cardinal number)
+  uno; nu (Pugliese) :: one (cardinal number 1) (numeral)
 ***punto***
   punto {m} :: point (location or place) (noun)
   punto {m} :: point (geometry: zero-dimensional object) (noun)
@@ -1311,7 +1312,7 @@ Index: IT IT->EN
 ***quarto***
   quarto {m} :: quarter (one of four equal parts) (noun)
 ***quattro***
-  quattro {m} :: four (the cardinal number 4) (cardinal number)
+  quattro {m} :: four (the cardinal number 4) (numeral)
 ***quindicina***
   (periodo di) due settimane ; quindicina {f} (actually 15 days) :: fortnight (period of two weeks) (adverb)
 ***quiz***
@@ -1330,6 +1331,8 @@ Index: IT IT->EN
   canile {m}, recinto :: pound (place for the detention of stray animals) (noun)
 ***retrocedere***
   retrocedere :: resile (to spring back; rebound) (verb)
+***riassunto***
+  riassunto {m} :: abbreviation (abridged version of a document) (noun)
 ***riconoscimento***
   riconoscimento {m} :: accolade (A special acknowledgment; an award) (noun)
 ***ridicolaggine***
@@ -1360,8 +1363,6 @@ Index: IT IT->EN
   robot {m} :: robot (intelligent mechanical being) (noun)
 ===romano===
   numero romano {m} :: Roman numeral (a numeral represented by letters) (noun)
-===romantic===
-  incontro {m}, appuntamento {m} (the latter also as romantic meeting) :: date (pre-arranged social meeting) (noun)
 ***rosolare***
   rosolare :: brown (to cook until brown) (verb)
 ***rotaia***
@@ -1381,6 +1382,8 @@ Index: IT IT->EN
   sborra {f} :: cum (slang: male semen) (noun)
 ***sborrare***
   venire, eiaculare, sborrare :: cum (slang: have an orgasm; ejaculate) (verb)
+***scambiare***
+  scambiare :: swap (exchange or give (something) in exchange for) (verb)
 ***scartare***
   scartare :: can (to discard) (verb)
 ***scatoletta***
@@ -1405,7 +1408,7 @@ Index: IT IT->EN
   fottere, scopare :: bone (slang: have sexual intercourse with) (verb)
 ***scoreggia***
   scoreggia {f}, peto {m} :: fart (an emission of flatulent gases) (noun)
-===scoreggiare===
+***scoreggiare***
   scoreggiare, fare un peto :: fart (to emit flatulent gases) (verb)
 ***secolo***
   secolo {m} :: century (100 years) (noun)
@@ -1425,13 +1428,11 @@ Index: IT IT->EN
   segreto {m} :: secret (knowledge that is hidden) (noun)
   segreto :: secret (being or kept hidden.) (adjective)
 ***sei***
-  sei :: six (cardinal number) (cardinal number)
+  sei :: six (cardinal number) (numeral)
 ***semplice***
   volgare {m|f}, crudo, semplice, grezzo :: crude (lacking tact or taste) (adjective)
 ===semplificato===
   cinese semplificato {m} :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
-===senses===
-  abietico (all senses) :: abietic (adjective)
 ===senso===
   sciocchezza {f}, senza senso, priva di significato, ridicolaggine {f} :: nonsense (meaningless words) (noun)
 ===senza===
@@ -1439,7 +1440,7 @@ Index: IT IT->EN
 ***sequestrare***
   sottrarre, sequestrare, rapire (people) :: abduct (to take away) (verb)
 ***sette***
-  sette :: seven (cardinal number 7) (cardinal number)
+  sette :: seven (cardinal number 7) (numeral)
 ***settembre***
   settembre {m} :: September (ninth month of the Gregorian calendar) (proper noun)
 ***settimana***
@@ -1546,6 +1547,7 @@ Index: IT IT->EN
 ***su***
   riguardando, su :: about (in concern with) (preposition)
   su :: on (positioned at the upper surface of) (preposition)
+  su :: on (covering) (preposition)
 ===subjunctive===
   forse, può essere che + subjunctive; He may be lying — Forse sta mentendo, Può essere che stia mentendo :: may (possibly, but not certainly) (verb)
   use subjunctive of potere :: may (subjunctive) (verb)
@@ -1564,15 +1566,13 @@ Index: IT IT->EN
 ***tedesco***
   tedesco {m} :: German (German person) (noun)
   tedesco {m} :: German (the German language) (proper noun)
-  tedesco {m} :: German (of or relating to the country of Germany) (adjective)
+  tedesco :: German (of or relating to the country of Germany) (adjective)
 ***teletrasportare***
   teletrasportare :: teleport (travel without physically crossing distance) (verb)
 ===tempi===
   essere aggiornato, stare al passo (con i tempi, con le notizie), mantenersi al corrente :: abreast (informed) (adverb)
 ===tendine===
   tendine di Achille {m} :: Achilles tendon (strong tendon in the calf of the leg) (noun)
-***terminato***
-  terminato :: aborted (adjective)
 ***termine***
   parola {f}, vocabolo {m}, termine {m} :: word (unit of language) (noun)
 ***tesoro***
@@ -1596,7 +1596,7 @@ Index: IT IT->EN
 ***traditore***
   spia {f}, delatore {m}, pentito {m}, traditore {m} :: grass (informer) (noun)
 ===tradizionale===
-  cinese tradizionale :: Traditional Chinese (Chinese written using traditional characters) (proper noun)
+  cinese tradizionale {m|f} :: Traditional Chinese (Chinese written using traditional characters) (proper noun)
 ***transitiva***
   transitivo {m}, transitiva {f} :: transitive (in grammar: of a verb, that takes an object or objects) (adjective)
 ***transitivo***
@@ -1606,9 +1606,9 @@ Index: IT IT->EN
 ***travestito***
   travestito :: transvestite (cross-dresser) (noun)
 ***tre***
-  tre :: three (cardinal number 3) (cardinal number)
-===trilione===
-  trilione :: trillion (a million million, 10<sup>12</sup>) (cardinal number)
+  tre :: three (cardinal number 3) (numeral)
+***trilione***
+  trilione {f} :: trillion (a million million, 10<sup>12</sup>)
 ***trimestre***
   trimestre {m} :: quarter (period of three months) (noun)
 ***tritare***
@@ -1620,7 +1620,7 @@ Index: IT IT->EN
 ===uguale===
   essere uguale :: be (used to indicate that the values on either side of an equation are the same) (verb)
 ***uno***
-  uno; nu (Pugliese) :: one (cardinal number 1) (cardinal number)
+  uno; nu (Pugliese) :: one (cardinal number 1) (numeral)
   uno {m} :: one (digit or figure) (noun)
 ***uomo***
   uomo :: man (human) (noun)
@@ -1673,7 +1673,7 @@ Index: IT IT->EN
 ***word***
   word {m} :: word (computing: fixed-size group of bits handled as a unit) (noun)
 ***zero***
-  zero {m} :: zero (cardinal number before 1, denoting nothing) (cardinal number)
+  zero {m} :: zero (cardinal number before 1, denoting nothing) (numeral)
   zero {m} :: zero (point of origin on a scale) (noun)
 ***zucca***
   zucca {f} :: pumpkin (fruit of this plant) (noun)
@@ -1682,42 +1682,40 @@ Index: EN EN->IT
 ===00===
   moneta di dieci dollari :: eagle (A gold coin with a face value of $10.00) (noun)
 ===000===
-  miliardo :: billion (a thousand million; 1,000,000,000; 10<sup>9</sup>; a milliard) (cardinal number)
+  miliardo :: billion (a thousand million; 1,000,000,000; 10<sup>9</sup>; a milliard) (noun)
 ===1===
-  zero {m} :: zero (cardinal number before 1, denoting nothing) (cardinal number)
-  uno; nu (Pugliese) :: one (cardinal number 1) (cardinal number)
-  miliardo :: billion (a thousand million; 1,000,000,000; 10<sup>9</sup>; a milliard) (cardinal number)
+  zero {m} :: zero (cardinal number before 1, denoting nothing) (numeral)
+  uno; nu (Pugliese) :: one (cardinal number 1) (numeral)
+  miliardo :: billion (a thousand million; 1,000,000,000; 10<sup>9</sup>; a milliard) (noun)
 ===10===
   moneta di dieci dollari :: eagle (A gold coin with a face value of $10.00) (noun)
-  miliardo :: billion (a thousand million; 1,000,000,000; 10<sup>9</sup>; a milliard) (cardinal number)
-  trilione :: trillion (a million million, 10<sup>12</sup>) (cardinal number)
+  miliardo :: billion (a thousand million; 1,000,000,000; 10<sup>9</sup>; a milliard) (noun)
+  trilione {f} :: trillion (a million million, 10<sup>12</sup>)
 ===100===
   secolo {m} :: century (100 years) (noun)
 ===11===
-  dieci :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
+  dieci :: ten (the cardinal number occurring after 9 and before 11) (numeral)
 ===12===
-  trilione :: trillion (a million million, 10<sup>12</sup>) (cardinal number)
+  trilione {f} :: trillion (a million million, 10<sup>12</sup>)
 ===16===
   libbra {f} :: pound (unit of mass (16 ounces avoirdupois)) (noun)
-===16th===
-  abecedariano :: abecedarian (member of a 16th-century sect) (noun)
 ===24===
   giorno {m} :: day (period of 24 hours) (noun)
 ===25===
   moneta di venticinque centesimi :: quarter (coin worth 25 cents) (noun)
 ===3===
-  tre :: three (cardinal number 3) (cardinal number)
+  tre :: three (cardinal number 3) (numeral)
 ===4===
-  quattro {m} :: four (the cardinal number 4) (cardinal number)
+  quattro {m} :: four (the cardinal number 4) (numeral)
 ===5===
-  cinque :: five (five (5)) (cardinal number)
+  cinque :: five (five (5)) (numeral)
 ===7===
-  sette :: seven (cardinal number 7) (cardinal number)
+  sette :: seven (cardinal number 7) (numeral)
 ===8===
-  otto :: eight (cardinal number 8) (cardinal number)
+  otto :: eight (cardinal number 8) (numeral)
 ===9===
-  miliardo :: billion (a thousand million; 1,000,000,000; 10<sup>9</sup>; a milliard) (cardinal number)
-  dieci :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
+  miliardo :: billion (a thousand million; 1,000,000,000; 10<sup>9</sup>; a milliard) (noun)
+  dieci :: ten (the cardinal number occurring after 9 and before 11) (numeral)
 ***aardvark***
   oritteropo {m} :: aardvark (mammal) (noun)
 ***aardwolf***
@@ -1757,7 +1755,7 @@ Index: EN EN->IT
 ===abating===
   riduzione :: abatement (the act of abating or the state of being abated) (noun)
 ***abattoir***
-  mattatoio :: abattoir (public slaughterhouse) (noun)
+  mattatoio {m} :: abattoir (public slaughterhouse) (noun)
 ***abbess***
   badessa :: abbess (female superior of a nunnery) (noun)
 ***abbey***
@@ -1773,6 +1771,7 @@ Index: EN EN->IT
   abbreviato :: abbreviated (shortened) (adjective)
 ***abbreviation***
   abbreviazione {f} :: abbreviation (shortened or contracted form of a word or phrase) (noun)
+  riassunto {m} :: abbreviation (abridged version of a document) (noun)
   abbreviazione :: abbreviation (act or result of shortening or reducing) (noun)
   abbreviazione :: abbreviation (music: one or more dashes through the stem of a note) (noun)
 ***abdicate***
@@ -1801,8 +1800,6 @@ Index: EN EN->IT
   abduzione {f} :: abduction (physiology: movement separating limb from axis) (noun)
   rapimento {m} :: abduction (law: carrying off of a human being) (noun)
   abduzione {f} :: abduction (logic: syllogism) (noun)
-***abecedarian***
-  abecedariano :: abecedarian (member of a 16th-century sect) (noun)
 ***abelmosk***
   abelmosco {m} :: abelmosk (evergreen shrub) (noun)
 ***aberrant***
@@ -1829,12 +1826,17 @@ Index: EN EN->IT
   aspettare, attendere :: abide (to await) (verb)
   sopportare, tollerare :: abide (to endure) (verb)
   sopportare, tollerare :: abide (to tolerate) (verb)
+***abiding***
+  duraturo, persistente :: abiding (continue) (adjective)
 ***abietic***
-  abietico (all senses) :: abietic (adjective)
+  abietico :: abietic (related to fir trees) (adjective)
+  abietico :: abietic (related to abietic acid or its deratives) (adjective)
 ***ability***
   abilità {f} :: ability (quality or state of being able) (noun)
   capacità {f} :: ability (a skill or competence) (noun)
   abilmente :: ably (with great ability) (adverb)
+***abime***
+  abisso {m} :: abime (a bottomless or unfathomed depth)
 ***abject***
   abbietto :: abject (Sunk to a low condition; down in spirit or hope) (adjective)
   abbietto :: abject (A person in the lowest and most despicable condition) (noun)
@@ -1844,11 +1846,13 @@ Index: EN EN->IT
 ***ablative***
   ablativo {m} :: ablative (applied to one of the cases of the noun in other language) (adjective)
   ablativo {m} :: ablative ((grammar) the ablative case) (noun)
+***ablaze***
+  in fiamme, fiammeggiante :: ablaze (on fire) (adjective)
 ===able===
   abilità {f} :: ability (quality or state of being able) (noun)
   sapere, riuscire, essere capace, potere :: can (to be able) (verb)
 ***ablegation***
-  ablegazione {f} :: ablegation (noun)
+  ablegazione {f} :: ablegation (expulsion, banishment) (noun)
 ***ablution***
   abluzione {f} :: ablution (the act of washing or cleansing) (noun)
 ***ably***
@@ -1880,8 +1884,6 @@ Index: EN EN->IT
   abortire, fallire :: abort (to miscarry) (verb)
   abortire, interrompere :: abort (to cause a premature termination) (verb)
   interrompere, fermare :: abort ({{qualifier|computing}} to terminate a process prior to completion) (verb)
-***aborted***
-  terminato :: aborted (adjective)
 ***abortion***
   aborto {m} :: abortion (miscarriage) (noun)
   aborto {m} :: abortion (induced abortion) (noun)
@@ -1913,6 +1915,8 @@ Index: EN EN->IT
   accorciare, abbreviare, ridurre :: abridge (to make shorter) (verb)
   abbreviare :: abridge (to shorten or contract by using fewer words) (verb)
   privare, limitare :: abridge (to deprive) (verb)
+===abridged===
+  riassunto {m} :: abbreviation (abridged version of a document) (noun)
 ***abroad***
   all'estero :: abroad (in foreign countries) (adverb)
 ***abrupt***
@@ -1930,6 +1934,9 @@ Index: EN EN->IT
   assente :: absent (not existing) (adjective)
   assente :: absent (inattentive) (adjective)
   svanito :: absent-minded (absent in mind) (adjective)
+  assente :: absentee (A person who is absent) (noun)
+***absentee***
+  assente :: absentee (A person who is absent) (noun)
 ===absolute===
   assolutamente :: absolutely (in an absolute manner) (adverb)
 ***absolutely***
@@ -1953,9 +1960,9 @@ Index: EN EN->IT
   astenersi :: abstain (refrain from) (verb)
   astenersi :: abstain (refrain from voting) (verb)
 ===abstaining===
-  astemio {m}, astemia {f} :: abstemious (abstaining from wine) (adjective)
+  astemio :: abstemious (abstaining from wine) (adjective)
 ***abstemious***
-  astemio {m}, astemia {f} :: abstemious (abstaining from wine) (adjective)
+  astemio :: abstemious (abstaining from wine) (adjective)
 ===abstract===
   numero {m} :: number (abstract entity) (noun)
 ***abstruse***
@@ -1988,11 +1995,11 @@ Index: EN EN->IT
 ===access===
   accessibile :: accessible (easy of access or approach) (adjective)
 ***accessibility***
-  accessibilità {f} :: accessibility (the quality of being accessible, or of admitting approach; receptibility) (noun)
+  accessibilità {f} :: accessibility (the quality of being accessible, or of admitting approach) (noun)
 ***accessible***
   accessibile :: accessible (easy of access or approach) (adjective)
   accessibile :: accessible (easily understood) (adjective)
-  accessibilità {f} :: accessibility (the quality of being accessible, or of admitting approach; receptibility) (noun)
+  accessibilità {f} :: accessibility (the quality of being accessible, or of admitting approach) (noun)
 ***accidental***
   accidentale :: accidental (happening by chance) (adjective)
 ***accidentally***
@@ -2027,12 +2034,13 @@ Index: EN EN->IT
 ===Achilles===
   tendine di Achille {m} :: Achilles tendon (strong tendon in the calf of the leg) (noun)
 ***acid***
-  acido {m} :: acid (sour, sharp, or biting to the taste) (adjective)
-  acido {m} :: acid (sour-tempered) (adjective)
+  acido :: acid (sour, sharp, or biting to the taste) (adjective)
+  acido :: acid (sour-tempered) (adjective)
   acido :: acid (of or pertaining to an acid) (adjective)
   acido {m} :: acid (a sour substance) (noun)
   acido {m} :: acid (in chemistry) (noun)
   acido {m}, acido lisergico {m} :: acid (LSD) (noun)
+  abietico :: abietic (related to abietic acid or its deratives) (adjective)
 ===acknowledgment===
   riconoscimento {m} :: accolade (A special acknowledgment; an award) (noun)
 ***acronym***
@@ -2072,11 +2080,12 @@ Index: EN EN->IT
 ===adjectives===
   -ità {f} :: -ity (Used to form nouns from adjectives.) (suffix)
 ===admitting===
-  accessibilità {f} :: accessibility (the quality of being accessible, or of admitting approach; receptibility) (noun)
+  accessibilità {f} :: accessibility (the quality of being accessible, or of admitting approach) (noun)
 ===adult===
   uomo {m} :: man (adult male human) (noun)
 ***adverb***
   avverbio {m} :: adverb (lexical category) (noun)
+  il più :: most (adverb forming superlative) (adverb)
 ===affected===
   flatulente :: flatulent (affected by gas in the intestine) (adjective)
 ===affection===
@@ -2088,7 +2097,7 @@ Index: EN EN->IT
   suddetto, succitato :: above-mentioned (mentioned or named before; aforesaid) (adjective)
 ===after===
   secondo {m} :: second (that which comes after the first) (adjective)
-  dieci :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
+  dieci :: ten (the cardinal number occurring after 9 and before 11) (numeral)
 ===against===
   al traverso :: abreast (nautical: side by side; also, opposite; over against; on a line with the vessel's beam) (adverb)
   ombrello {m}, parapioggia :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
@@ -2118,14 +2127,13 @@ Index: EN EN->IT
 ***alphabetical***
   alfabetico :: alphabetical (in the sequence of the letters of the alphabet) (adjective)
 ===also===
-  cane {m} :: dog (morally reprehensible person, See also scoundrel) (noun)
   al traverso :: abreast (nautical: side by side; also, opposite; over against; on a line with the vessel's beam) (adverb)
 ===alternative===
   il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used as an alternative to a possessive pronoun before body parts) (article)
 ===amount===
   dose {f} :: deal (large number or amount or extent) (noun)
   prodotto {m} :: product (amount created by a process) (noun)
-  ammontare :: number (to total; to amount to) (verb)
+  ammontare :: number (to total; to amount to)
   secondo {m}, attimo {m}, momento {m} :: second (short, indeterminate amount of time) (noun)
   poco {m}, poca {f} :: bit (small amount of something) (noun)
 ===An===
@@ -2134,16 +2142,19 @@ Index: EN EN->IT
   caponare :: cat (raise anchor to cathead) (verb)
 ===and===
   piovere a catinelle :: rain cats and dogs (to rain very heavily) (verb)
+===angry===
+  incazzato {m} :: pissed (Annoyed, angry) (adjective)
 ===angular===
   secondo {m} :: second (unit of angular measure) (noun)
 ===animal===
-  cane {m} :: dog (animal) (noun)
   lupo {m} :: wolf (animal) (noun)
   carne {f} :: meat (animal flesh used as food) (noun)
 ===animals===
   canile {m}, recinto :: pound (place for the detention of stray animals) (noun)
 ===anno===
   d.C. (dopo Cristo) :: AD (anno Domini) ({{initialism}})
+===Annoyed===
+  incazzato {m} :: pissed (Annoyed, angry) (adjective)
 ===another===
   sinonimo {m} :: synonym (word with same meaning as another) (noun)
   saltare :: leap (to jump from one location to another) (verb)
@@ -2174,7 +2185,7 @@ Index: EN EN->IT
 ===applied===
   ablativo {m} :: ablative (applied to one of the cases of the noun in other language) (adjective)
 ===approach===
-  accessibilità {f} :: accessibility (the quality of being accessible, or of admitting approach; receptibility) (noun)
+  accessibilità {f} :: accessibility (the quality of being accessible, or of admitting approach) (noun)
   accessibile :: accessible (easy of access or approach) (adjective)
 ===approval===
   elogio {m} :: accolade (An expression of approval; praise) (noun)
@@ -2202,7 +2213,7 @@ Index: EN EN->IT
   anno {m} :: year (time it takes for any planetary body to make one revolution around another body) (noun)
   sole {m} :: sun (the star around which the Earth revolves) (proper noun)
 ===arranged===
-  incontro {m}, appuntamento {m} (the latter also as romantic meeting) :: date (pre-arranged social meeting) (noun)
+  incontro {m}, appuntamento {m} (also romantic meeting) :: date (pre-arranged social meeting) (noun)
 ===arrangement===
   contratto {m} :: deal (agreement, arrangement) (noun)
 ===art===
@@ -2215,7 +2226,7 @@ Index: EN EN->IT
 ===Asia===
   Giappone {m} :: Japan (A Far East country in Asia) (proper noun)
 ===assign===
-  numerare :: number (label with numbers; assign numbers to) (verb)
+  numerare :: number (label with numbers; assign numbers to)
 ===assist===
   favoreggiare, incoraggiare, istigare :: abet (to assist or encourage in crime) (verb)
 ===asterisk===
@@ -2264,6 +2275,8 @@ Index: EN EN->IT
   a collo :: aback (said of sails pressed backward) (adverb)
 ===backwards===
   all'indietro :: aback (backwards) (adverb)
+===banishment===
+  ablegazione {f} :: ablegation (expulsion, banishment) (noun)
 ===banner===
   stendardo {m}, bandiera {f} :: color (standard or banner (colours)) (noun)
 ===bar===
@@ -2300,10 +2313,10 @@ Index: EN EN->IT
 ===before===
   suddetto, succitato :: above-mentioned (mentioned or named before; aforesaid) (adjective)
   il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used as an alternative to a possessive pronoun before body parts) (article)
-  zero {m} :: zero (cardinal number before 1, denoting nothing) (cardinal number)
+  zero {m} :: zero (cardinal number before 1, denoting nothing) (numeral)
   precolombiano :: pre-Columbian (before Christopher Columbus) (adjective)
   a.C. (avanti Cristo) :: BC (before Christ) ({{initialism}})
-  dieci :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
+  dieci :: ten (the cardinal number occurring after 9 and before 11) (numeral)
 ===beginning===
   nascita {f} :: birth (beginning or start; a point of origin) (noun)
 ===behaviour===
@@ -2324,7 +2337,7 @@ Index: EN EN->IT
   biglietto {m} di un dollaro {m} :: one (dollar bill) (noun)
   biglietto da due dollari {m}, bancanota da due dollari {f} :: two (two-dollar bill) (noun)
 ***billion***
-  miliardo :: billion (a thousand million; 1,000,000,000; 10<sup>9</sup>; a milliard) (cardinal number)
+  miliardo :: billion (a thousand million; 1,000,000,000; 10<sup>9</sup>; a milliard) (noun)
 ===biology===
   lenticchia {f} :: lens (biology: genus of the legume family; its bean) (noun)
 ===bird===
@@ -2341,7 +2354,7 @@ Index: EN EN->IT
   morso {m}, freno :: bit (metal in horse's mouth) (noun)
   poco {m}, poca {f} :: bit (small amount of something) (noun)
 ===biting===
-  acido {m} :: acid (sour, sharp, or biting to the taste) (adjective)
+  acido :: acid (sour, sharp, or biting to the taste) (adjective)
 ===bits===
   word {m} :: word (computing: fixed-size group of bits handled as a unit) (noun)
 ===black===
@@ -2381,11 +2394,12 @@ Index: EN EN->IT
   prenotare, riservare :: book (reserve) (verb)
   ammonire :: book (penalise) (verb)
   dizionario dei sinonimi, tesoro {m} :: thesaurus (book of synonyms) (noun)
-  enciclopedia {f} :: encyclopaedia (reference book) (noun)
 ===border===
   marca {f} :: march (obsolete: border region) (noun)
 ===botany===
   aberrazione {f} :: aberration (zoology, botany: atypical development or structure) (noun)
+===bottomless===
+  abisso {m} :: abime (a bottomless or unfathomed depth)
 ===bound===
   libro {m} :: book (collection of sheets of paper bound together containing printed or written material) (noun)
 ===boxing===
@@ -2434,8 +2448,6 @@ Index: EN EN->IT
   licenziare :: can (to fire or dismiss an employee) (verb)
 ===canal===
   bacino idrico :: pound (part of canal) (noun)
-===canine===
-  cane {m} :: dog (male canine) (noun)
 ===canister===
   scatoletta {f} :: can (a tin-plate canister) (noun)
 ===cannot===
@@ -2451,15 +2463,15 @@ Index: EN EN->IT
 ***Carborundum***
   carborundo :: Carborundum (crystals of silicon carbide used as an abrasive) (noun)
 ===cardinal===
-  sette :: seven (cardinal number 7) (cardinal number)
-  zero {m} :: zero (cardinal number before 1, denoting nothing) (cardinal number)
-  uno; nu (Pugliese) :: one (cardinal number 1) (cardinal number)
-  tre :: three (cardinal number 3) (cardinal number)
-  quattro {m} :: four (the cardinal number 4) (cardinal number)
-  sei :: six (cardinal number) (cardinal number)
-  otto :: eight (cardinal number 8) (cardinal number)
-  nove :: nine (cardinal number) (cardinal number)
-  dieci :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
+  sette :: seven (cardinal number 7) (numeral)
+  zero {m} :: zero (cardinal number before 1, denoting nothing) (numeral)
+  uno; nu (Pugliese) :: one (cardinal number 1) (numeral)
+  tre :: three (cardinal number 3) (numeral)
+  quattro {m} :: four (the cardinal number 4) (numeral)
+  sei :: six (cardinal number) (numeral)
+  otto :: eight (cardinal number 8) (numeral)
+  nove :: nine (cardinal number) (numeral)
+  dieci :: ten (the cardinal number occurring after 9 and before 11) (numeral)
 ===careless===
   abbandono {m}, abnegazione {m} :: abandonment (careless freedom) (noun)
 ===caring===
@@ -2503,7 +2515,6 @@ Index: EN EN->IT
   secolo {m} :: century (100 years) (noun)
   centuria {f} :: century (Roman army type unit) (noun)
   centuria {f} :: century (political division of Rome) (noun)
-  abecedariano :: abecedarian (member of a 16th-century sect) (noun)
 ===certainly===
   forse, può essere che + subjunctive; He may be lying — Forse sta mentendo, Può essere che stia mentendo :: may (possibly, but not certainly) (verb)
   assolutamente :: absolutely (yes; certainly) (interjection)
@@ -2520,7 +2531,7 @@ Index: EN EN->IT
 ===characterized===
   rustico, raffazzonato :: crude (characterized by simplicity) (adjective)
 ===characters===
-  cinese tradizionale :: Traditional Chinese (Chinese written using traditional characters) (proper noun)
+  cinese tradizionale {m|f} :: Traditional Chinese (Chinese written using traditional characters) (proper noun)
   cinese semplificato {m} :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
 ===charge===
   gratis :: gratis (free, without charge) (adjective)
@@ -2533,7 +2544,7 @@ Index: EN EN->IT
 ===childbearing===
   nascita {f}, parto {m} :: birth (process of childbearing) (noun)
 ===Chinese===
-  cinese tradizionale :: Traditional Chinese (Chinese written using traditional characters) (proper noun)
+  cinese tradizionale {m|f} :: Traditional Chinese (Chinese written using traditional characters) (proper noun)
   cinese semplificato {m} :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
 ===chosen===
   nome {m} :: first name (name chosen by parents) (noun)
@@ -2683,6 +2694,8 @@ Index: EN EN->IT
   coglione :: dick (highly contemptible person) (noun)
 ===contestant===
   padrino {m}, secondo {m} :: second (attendant of a duel or boxing match standing in for a contestant) (noun)
+===continue===
+  duraturo, persistente :: abiding (continue) (adjective)
 ===continuous===
   stare :: be (used to form the continuous forms of various tenses) (verb)
 ===contract===
@@ -2713,7 +2726,7 @@ Index: EN EN->IT
 ===countries===
   all'estero :: abroad (in foreign countries) (adverb)
 ===country===
-  tedesco {m} :: German (of or relating to the country of Germany) (adjective)
+  tedesco :: German (of or relating to the country of Germany) (adjective)
   Messico {m} :: Mexico (country) (proper noun)
   Giappone {m} :: Japan (A Far East country in Asia) (proper noun)
   Paesi Bassi {m|p}, Olanda {f} :: Netherlands (country in northwestern Europe) (proper noun)
@@ -2722,6 +2735,8 @@ Index: EN EN->IT
 ===covered===
   furgone {m} :: van (A (covered) vehicle used for carrying goods) (noun)
   ombrello {m}, parapioggia :: umbrella (cloth-covered frame used for protection against rain or sun) (noun)
+===covering===
+  su :: on (covering) (preposition)
 ===craft===
   lessicografia {f} :: lexicography (art or craft of writing dictionaries) (noun)
 ***crap***
@@ -2784,7 +2799,7 @@ Index: EN EN->IT
   data {f} :: date (that which specifies the time of writing, inscription etc.) (noun)
   data {f} :: date (point of time at which a transaction or event takes place) (noun)
   data {f} :: date (point in time) (noun)
-  incontro {m}, appuntamento {m} (the latter also as romantic meeting) :: date (pre-arranged social meeting) (noun)
+  incontro {m}, appuntamento {m} (also romantic meeting) :: date (pre-arranged social meeting) (noun)
   appuntamento {m} :: date (meeting with a lover or potential lover; a person so met) (noun)
   datare :: date (to note the time of writing or executing) (verb)
   datare :: date (to note or fix the time of, as of an event) (verb)
@@ -2858,9 +2873,13 @@ Index: EN EN->IT
 ===denial===
   abnegazione {f} :: abnegation (denial; renunciation) (noun)
 ===denoting===
-  zero {m} :: zero (cardinal number before 1, denoting nothing) (cardinal number)
+  zero {m} :: zero (cardinal number before 1, denoting nothing) (numeral)
 ===deprive===
   privare, limitare :: abridge (to deprive) (verb)
+===depth===
+  abisso {m} :: abime (a bottomless or unfathomed depth)
+===deratives===
+  abietico :: abietic (related to abietic acid or its deratives) (adjective)
 ===described===
   essere :: be (used to indicate that the subject has the qualities described by a noun or noun phrase) (verb)
 ===describes===
@@ -2976,10 +2995,8 @@ Index: EN EN->IT
 ***doctrine***
   dottrina {f} :: doctrine (belief) (noun)
   dottrina {f} :: doctrine (body of beliefs or teachings) (noun)
-***dog***
-  cane {m} :: dog (animal) (noun)
-  cane {m} :: dog (male canine) (noun)
-  cane {m} :: dog (morally reprehensible person, See also scoundrel) (noun)
+===document===
+  riassunto {m} :: abbreviation (abridged version of a document) (noun)
 ===dogs===
   piovere a catinelle :: rain cats and dogs (to rain very heavily) (verb)
 ===dollar===
@@ -3015,7 +3032,7 @@ Index: EN EN->IT
 ===during===
   (not translated) :: on (sometime during the day of) (preposition)
 ***Dutch***
-  olandese {m|f}, olandesi {m|f|p} :: Dutch (of the Netherlands, people, or language) (adjective)
+  olandese :: Dutch (of the Netherlands, people, or language) (adjective)
   nederlandese, olandese :: Dutch (the Dutch language) (proper noun)
 ===dwell===
   vivere, abitare, risiedere, dimorare :: abide (to dwell) (verb)
@@ -3046,7 +3063,7 @@ Index: EN EN->IT
 ===efforts===
   frutto {m} :: product (consequence of efforts) (noun)
 ***eight***
-  otto :: eight (cardinal number 8) (cardinal number)
+  otto :: eight (cardinal number 8) (numeral)
 ===either===
   essere uguale :: be (used to indicate that the values on either side of an equation are the same) (verb)
 ===ejaculate===
@@ -3075,8 +3092,6 @@ Index: EN EN->IT
   enne {f} :: en (name of the letter N, n) (noun)
 ===encourage===
   favoreggiare, incoraggiare, istigare :: abet (to assist or encourage in crime) (verb)
-***encyclopaedia***
-  enciclopedia {f} :: encyclopaedia (reference book) (noun)
 ***encyclopedia***
   enciclopedia {f} :: encyclopedia (comprehensive reference with articles on a range of topic) (noun)
 ===endure===
@@ -3133,6 +3148,7 @@ Index: EN EN->IT
 ===exchange===
   baratto {m} :: barter (an equal exchange) (noun)
   barattare :: barter (exchange goods or services without involving money) (verb)
+  scambiare :: swap (exchange or give (something) in exchange for) (verb)
 ===excrement===
   schifezza, escrementi {p}, merda, cacca {f} :: crap (excrement) (noun)
 ===executing===
@@ -3152,6 +3168,8 @@ Index: EN EN->IT
 ===expression===
   elogio {m} :: accolade (An expression of approval; praise) (noun)
   Ti voglio bene (singular informal), Vi voglio bene (plural or formal) :: I love you (platonic expression of inclination or liking) (phrase)
+===expulsion===
+  ablegazione {f} :: ablegation (expulsion, banishment) (noun)
 ===extent===
   dose {f} :: deal (large number or amount or extent) (noun)
 ===extremely===
@@ -3213,7 +3231,10 @@ Index: EN EN->IT
   azione {f} :: stock (finance: capital raised by a company) (noun)
 ===finish===
   assolvere :: absolve (obsolete: finish, accomplish) (verb)
+===fir===
+  abietico :: abietic (related to fir trees) (adjective)
 ===fire===
+  in fiamme, fiammeggiante :: ablaze (on fire) (adjective)
   licenziare :: can (to fire or dismiss an employee) (verb)
 ===first===
   nome {m} :: first name (name chosen by parents) (noun)
@@ -3226,7 +3247,7 @@ Index: EN EN->IT
 ===fit===
   addestrare, allenare, acclimatare :: season (to make fit for any use by time or habit) (verb)
 ***five***
-  cinque :: five (five (5)) (cardinal number)
+  cinque :: five (five (5)) (numeral)
 ===fix===
   datare :: date (to note or fix the time of, as of an event) (verb)
 ===fixed===
@@ -3271,6 +3292,8 @@ Index: EN EN->IT
   marcia {f} :: march (formal, rhythmic way of walking) (noun)
 ===formed===
   acronimo {m} :: acronym (word formed by initial letters) (noun)
+===forming===
+  il più :: most (adverb forming superlative) (adverb)
 ===forms===
   stare :: be (used to form the continuous forms of various tenses) (verb)
 ===forsaken===
@@ -3282,7 +3305,7 @@ Index: EN EN->IT
 ===forward===
   marcia {f} :: march (steady forward movement or progression) (noun)
 ***four***
-  quattro {m} :: four (the cardinal number 4) (cardinal number)
+  quattro {m} :: four (the cardinal number 4) (numeral)
   quarto {m} :: quarter (one of four equal parts) (noun)
 ===fourth===
   aprile {m} :: April (fourth month of the Gregorian calendar) (proper noun)
@@ -3361,10 +3384,11 @@ Index: EN EN->IT
 ***German***
   tedesco {m} :: German (German person) (noun)
   tedesco {m} :: German (the German language) (proper noun)
-  tedesco {m} :: German (of or relating to the country of Germany) (adjective)
+  tedesco :: German (of or relating to the country of Germany) (adjective)
 ===Germany===
-  tedesco {m} :: German (of or relating to the country of Germany) (adjective)
+  tedesco :: German (of or relating to the country of Germany) (adjective)
 ===give===
+  scambiare :: swap (exchange or give (something) in exchange for) (verb)
   nomare :: name (to give a name to) (verb)
   abbandonare :: abandon (to give up) (verb)
   assolvere :: absolve (pronounce free or give absolution) (verb)
@@ -3465,8 +3489,8 @@ Index: EN EN->IT
   porto {m} :: port (dock or harbour) (noun)
   città portuale {f} :: port (town or city with a dock or harbour) (noun)
 ===hard===
-  botta, colpo forte, tonfo, martellio :: pound (hard blow) (noun)
   battere :: pound (to strike hard repeatedly) (verb)
+  botta, colpo forte, tonfo, martellio :: pound (hard blow) (noun)
 ===hardening===
   stagionare :: season (to prepare by drying or hardening) (verb)
 ===harm===
@@ -3659,6 +3683,7 @@ Index: EN EN->IT
   biancospino {m} :: may (the hawthorn bush or its blossom) (noun)
   abdicazione {f} :: abdication (the act of abdicating; the renunciation of a high office, dignity, or trust, by its holder) (noun)
   abdurre :: abduct (to draw away from its ordinary position) (verb)
+  abietico :: abietic (related to abietic acid or its deratives) (adjective)
   lenticchia {f} :: lens (biology: genus of the legume family; its bean) (noun)
   polacco :: Polish (of Poland or its language) (adjective)
   greggio {m}, grezzo {m} :: crude (any substance in its natural state) (noun)
@@ -3692,7 +3717,7 @@ Index: EN EN->IT
 ===knowledge===
   segreto {m} :: secret (knowledge that is hidden) (noun)
 ===label===
-  numerare :: number (label with numbers; assign numbers to) (verb)
+  numerare :: number (label with numbers; assign numbers to)
 ===lacking===
   ovvio, crudo :: crude (lacking concealing elements) (adjective)
   volgare {m|f}, crudo, semplice, grezzo :: crude (lacking tact or taste) (adjective)
@@ -3716,7 +3741,7 @@ Index: EN EN->IT
   irlandese {m}, gaelico {m} :: Irish (the language) (proper noun)
   irlandese :: Irish (pertaining to the language) (adjective)
   esperanto :: Esperanto (auxiliary language) (proper noun)
-  olandese {m|f}, olandesi {m|f|p} :: Dutch (of the Netherlands, people, or language) (adjective)
+  olandese :: Dutch (of the Netherlands, people, or language) (adjective)
   nederlandese, olandese :: Dutch (the Dutch language) (proper noun)
 ===languages===
   etimologia {f} :: etymology (study of the historical development of languages, particularly of individual words) (noun)
@@ -3831,6 +3856,8 @@ Index: EN EN->IT
   pasticcio {m} :: pie (other, nonpastry dishes that maintain the general concept of a shell with a filling) (noun)
 ===major===
   pianeta {m} :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
+===majority===
+  la maggioranza di, di più :: most ( majority of ) (determiner)
 ===make===
   liberare :: free (make free) (verb)
   abbreviare :: abbreviate (to make shorter) (verb)
@@ -3842,7 +3869,6 @@ Index: EN EN->IT
 ===making===
   livello di definizione :: definition (action or power of describing, explaining, or making definite) (noun)
 ===male===
-  cane {m} :: dog (male canine) (noun)
   Fabiano :: Fabian (male given name) (proper noun)
   uomo {m} :: man (adult male human) (noun)
   sborra {f} :: cum (slang: male semen) (noun)
@@ -3941,14 +3967,13 @@ Index: EN EN->IT
   seconda scelta {f} :: second (manufactured item that fails to meet quality control standards) (noun)
 ===meeting===
   presidente {m} :: chairman (person presiding over a meeting) (noun)
-  incontro {m}, appuntamento {m} (the latter also as romantic meeting) :: date (pre-arranged social meeting) (noun)
+  incontro {m}, appuntamento {m} (also romantic meeting) :: date (pre-arranged social meeting) (noun)
   appuntamento {m} :: date (meeting with a lover or potential lover; a person so met) (noun)
 ===melodious===
   musica {f} :: music (sound, organized in time in a melodious way) (noun)
 ===member===
   felino {m}, felina {f} :: cat (member of the family Felidae) (noun)
   abaco {m} :: abacus (uppermost member of the capital of a column) (noun)
-  abecedariano :: abecedarian (member of a 16th-century sect) (noun)
   il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used with the name of a member of a class to refer to all things in that class) (article)
   accademico {m} :: academian (member of an academy) (noun)
 ===mention===
@@ -3975,10 +4000,10 @@ Index: EN EN->IT
 ***millennium***
   millennio {m} :: millennium (thousand-year period) (noun)
 ===milliard===
-  miliardo :: billion (a thousand million; 1,000,000,000; 10<sup>9</sup>; a milliard) (cardinal number)
+  miliardo :: billion (a thousand million; 1,000,000,000; 10<sup>9</sup>; a milliard) (noun)
 ===million===
-  miliardo :: billion (a thousand million; 1,000,000,000; 10<sup>9</sup>; a milliard) (cardinal number)
-  trilione :: trillion (a million million, 10<sup>12</sup>) (cardinal number)
+  miliardo :: billion (a thousand million; 1,000,000,000; 10<sup>9</sup>; a milliard) (noun)
+  trilione {f} :: trillion (a million million, 10<sup>12</sup>)
 ***millisecond***
   millisecondo {m} :: millisecond (one one-thousandth of a second) (noun)
 ===mind===
@@ -4025,8 +4050,6 @@ Index: EN EN->IT
   trimestre {m} :: quarter (period of three months) (noun)
 ===morality===
   aberrante :: aberrant (deviating from morality) (adjective)
-===morally===
-  cane {m} :: dog (morally reprehensible person, See also scoundrel) (noun)
 ===more===
   iponimo {m} :: hyponym (more specific word) (noun)
   abbreviazione :: abbreviation (music: one or more dashes through the stem of a note) (noun)
@@ -4034,7 +4057,9 @@ Index: EN EN->IT
   lattina {f} :: can (a more or less cylindrical vessel for liquids) (noun)
 ***morpheme***
   morfema {m} :: morpheme (smallest linguistic unit) (noun)
-===most===
+***most***
+  la maggioranza di, di più :: most ( majority of ) (determiner)
+  il più :: most (adverb forming superlative) (adverb)
   abbietto :: abject (A person in the lowest and most despicable condition) (noun)
 ***motherfucker***
   figlio di puttana (son of a bitch), pezzo di merda (piece of shit) :: motherfucker (generic term of abuse) (noun)
@@ -4104,7 +4129,7 @@ Index: EN EN->IT
 ***Netherlands***
   Paesi Bassi {m|p}, Olanda {f} :: Netherlands (country in northwestern Europe) (proper noun)
   olandese :: Netherlands (pertaining to the Netherlands) (adjective)
-  olandese {m|f}, olandesi {m|f|p} :: Dutch (of the Netherlands, people, or language) (adjective)
+  olandese :: Dutch (of the Netherlands, people, or language) (adjective)
 ===next===
   discontinuo, discontinua, sconnesso, sconnessa :: abrupt (having sudden transitions from one state to next) (adjective)
 ***nigger***
@@ -4112,7 +4137,7 @@ Index: EN EN->IT
 ===night===
   pianeta {m} :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
 ***nine***
-  nove :: nine (cardinal number) (cardinal number)
+  nove :: nine (cardinal number) (numeral)
   dieci {m} (1,2,3) :: ten (the number following nine) (noun)
 ===ninth===
   settembre {m} :: September (ninth month of the Gregorian calendar) (proper noun)
@@ -4150,7 +4175,7 @@ Index: EN EN->IT
   datare :: date (to note the time of writing or executing) (verb)
   datare :: date (to note or fix the time of, as of an event) (verb)
 ===nothing===
-  zero {m} :: zero (cardinal number before 1, denoting nothing) (cardinal number)
+  zero {m} :: zero (cardinal number before 1, denoting nothing) (numeral)
 ===notice===
   brusco, brusca :: abrupt (without notice) (adjective)
 ===notion===
@@ -4179,24 +4204,24 @@ Index: EN EN->IT
   numero {m}, quantità {f} :: number (quantity) (noun)
   numero {m} :: number (grammar: state of being singular, dual or plural) (noun)
   numero {m} :: number (performance) (noun)
-  numerare :: number (label with numbers; assign numbers to) (verb)
-  ammontare :: number (to total; to amount to) (verb)
+  numerare :: number (label with numbers; assign numbers to)
+  ammontare :: number (to total; to amount to)
   dose {f} :: deal (large number or amount or extent) (noun)
-  sette :: seven (cardinal number 7) (cardinal number)
-  zero {m} :: zero (cardinal number before 1, denoting nothing) (cardinal number)
+  sette :: seven (cardinal number 7) (numeral)
+  zero {m} :: zero (cardinal number before 1, denoting nothing) (numeral)
   numero {m}, cifra {f} :: numeral (word or symbol representing a number) (noun)
-  uno; nu (Pugliese) :: one (cardinal number 1) (cardinal number)
-  tre :: three (cardinal number 3) (cardinal number)
-  quattro {m} :: four (the cardinal number 4) (cardinal number)
+  uno; nu (Pugliese) :: one (cardinal number 1) (numeral)
+  tre :: three (cardinal number 3) (numeral)
+  quattro {m} :: four (the cardinal number 4) (numeral)
   poco :: few (indefinite, usually small number) (determiner)
   pochi :: few (small number) (determiner)
-  sei :: six (cardinal number) (cardinal number)
-  otto :: eight (cardinal number 8) (cardinal number)
-  nove :: nine (cardinal number) (cardinal number)
-  dieci :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
+  sei :: six (cardinal number) (numeral)
+  otto :: eight (cardinal number 8) (numeral)
+  nove :: nine (cardinal number) (numeral)
+  dieci :: ten (the cardinal number occurring after 9 and before 11) (numeral)
   dieci {m} (1,2,3) :: ten (the number following nine) (noun)
 ===numbers===
-  numerare :: number (label with numbers; assign numbers to) (verb)
+  numerare :: number (label with numbers; assign numbers to)
   non numerabile :: uncountable (mathematics: incapable of being enumerated by natural numbers) (adjective)
 ***numeral***
   numero {m}, cifra {f} :: numeral (word or symbol representing a number) (noun)
@@ -4234,7 +4259,7 @@ Index: EN EN->IT
 ===occur===
   essere :: be (occur, take place) (verb)
 ===occurring===
-  dieci :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
+  dieci :: ten (the cardinal number occurring after 9 and before 11) (numeral)
 ***October***
   ottobre {m} :: October (tenth month of the Gregorian calendar) (proper noun)
 ***odd***
@@ -4251,9 +4276,10 @@ Index: EN EN->IT
 ***on***
   acceso :: on (in the state of being active, functioning or operating) (adjective)
   su :: on (positioned at the upper surface of) (preposition)
+  su :: on (covering) (preposition)
   (not translated) :: on (sometime during the day of) (preposition)
 ***one***
-  uno; nu (Pugliese) :: one (cardinal number 1) (cardinal number)
+  uno; nu (Pugliese) :: one (cardinal number 1) (numeral)
   uno {m} :: one (digit or figure) (noun)
   biglietto {m} di un dollaro {m} :: one (dollar bill) (noun)
 ===only===
@@ -4387,7 +4413,7 @@ Index: EN EN->IT
 ===people===
   i {m|p}, gli {m|p}, le {f|p} :: the (with an adjectival noun, as in “the hungry” to mean “hungry people”) (article)
   ciascuno :: everybody (all people) (pronoun)
-  olandese {m|f}, olandesi {m|f|p} :: Dutch (of the Netherlands, people, or language) (adjective)
+  olandese :: Dutch (of the Netherlands, people, or language) (adjective)
 ===perform===
   debito {m} :: debt (action, state of mind, or object one has an obligation to perform for another) (noun)
 ===performance===
@@ -4438,6 +4464,8 @@ Index: EN EN->IT
   aria {f} :: aria (type of musical piece) (noun)
 ===pieces===
   frantumare, tritare, triturare, polverizzare :: pound (crush to pieces) (verb)
+***pissed***
+  incazzato {m} :: pissed (Annoyed, angry) (adjective)
 ===place===
   canile {m}, recinto :: pound (place for the detention of stray animals) (noun)
   autoparco, deposito auto :: pound (place for detention of automobiles) (noun)
@@ -4479,7 +4507,7 @@ Index: EN EN->IT
   plurale :: plural (more than one) (adjective)
   plurale {m} :: plural (word in plural form) (noun)
 ===plus===
-  due :: two (one plus one) (cardinal number)
+  due :: two (one plus one) (numeral)
 ***point***
   punto {m} :: point (location or place) (noun)
   punto {m} :: point (geometry: zero-dimensional object) (noun)
@@ -4533,18 +4561,18 @@ Index: EN EN->IT
   lira {f}, lira sterlina, sterlina :: pound (unit of currency) (noun)
   canile {m}, recinto :: pound (place for the detention of stray animals) (noun)
   autoparco, deposito auto :: pound (place for detention of automobiles) (noun)
-  botta, colpo forte, tonfo, martellio :: pound (hard blow) (noun)
   bacino idrico :: pound (part of canal) (noun)
   battere :: pound (to strike hard repeatedly) (verb)
   frantumare, tritare, triturare, polverizzare :: pound (crush to pieces) (verb)
   ingurgitare :: pound (slang: eat or drink quickly) (verb)
+  botta, colpo forte, tonfo, martellio :: pound (hard blow) (noun)
 ===power===
   livello di definizione :: definition (action or power of describing, explaining, or making definite) (noun)
 ===praise===
   elogio {m} :: accolade (An expression of approval; praise) (noun)
 ===pre===
   precolombiano :: pre-Columbian (before Christopher Columbus) (adjective)
-  incontro {m}, appuntamento {m} (the latter also as romantic meeting) :: date (pre-arranged social meeting) (noun)
+  incontro {m}, appuntamento {m} (also romantic meeting) :: date (pre-arranged social meeting) (noun)
 ===precept===
   fiaba {m} :: fable (fictitious narration to enforce some useful truth or precept) (noun)
 ===precipitously===
@@ -4612,7 +4640,7 @@ Index: EN EN->IT
 ===Proteles===
   protele :: aardwolf (the mammal species Proteles cristatus) (noun)
 ===public===
-  mattatoio :: abattoir (public slaughterhouse) (noun)
+  mattatoio {m} :: abattoir (public slaughterhouse) (noun)
 ===publication===
   dizionario {m} :: dictionary (publication that explains the meanings of an ordered list of words) (noun)
 ===publicly===
@@ -4633,7 +4661,7 @@ Index: EN EN->IT
   qualità {f} :: quality (archaic: social position) (noun)
   di qualità, pregiato {m} :: quality (being of good worth) (adjective)
   abilità {f} :: ability (quality or state of being able) (noun)
-  accessibilità {f} :: accessibility (the quality of being accessible, or of admitting approach; receptibility) (noun)
+  accessibilità {f} :: accessibility (the quality of being accessible, or of admitting approach) (noun)
   stella {f} :: star (quality rating symbol) (noun)
   seconda scelta {f} :: second (manufactured item that fails to meet quality control standards) (noun)
   schifezza {f}, porcheria {f}, cesso {m} :: crap (something of poor quality) (noun)
@@ -4674,8 +4702,8 @@ Index: EN EN->IT
 ===rank===
   numero {m} :: number (used to show the rank of something in a list or sequence) (noun)
 ***rape***
-  stupro {m}, violento {m} :: rape (act of forcing sexual activity) (noun)
   stuprare, violentare, violare :: rape (force sexual intercourse) (verb)
+  stupro {m}, violento {m} :: rape (act of forcing sexual activity) (noun)
 ===rating===
   stella {f} :: star (quality rating symbol) (noun)
 ***raven***
@@ -4696,8 +4724,6 @@ Index: EN EN->IT
   rinuncia {f} :: abandonment (refusal to receive freight) (noun)
   accettare :: accept (to receive with consent) (verb)
   accettare :: accept (to receive officially) (verb)
-===receptibility===
-  accessibilità {f} :: accessibility (the quality of being accessible, or of admitting approach; receptibility) (noun)
 ===red===
   arrossire, colorire :: color (become red through increased blood flow) (verb)
 ===reducing===
@@ -4706,7 +4732,6 @@ Index: EN EN->IT
   il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used with the name of a member of a class to refer to all things in that class) (article)
 ===reference===
   enciclopedia {f} :: encyclopedia (comprehensive reference with articles on a range of topic) (noun)
-  enciclopedia {f} :: encyclopaedia (reference book) (noun)
 ===referent===
   aggettivo {m} :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
 ===referring===
@@ -4725,9 +4750,12 @@ Index: EN EN->IT
   marciare :: march (walk with long, regular strides) (verb)
 ===reject===
   abdicare :: abdicate (reject) (verb)
+===related===
+  abietico :: abietic (related to fir trees) (adjective)
+  abietico :: abietic (related to abietic acid or its deratives) (adjective)
 ===relating===
   di testa :: head (of, relating to, or intended for the head) (adjective)
-  tedesco {m} :: German (of or relating to the country of Germany) (adjective)
+  tedesco :: German (of or relating to the country of Germany) (adjective)
   metrico :: metric (relating to metric system) (adjective)
   metrico :: metric (relating to musical meter) (adjective)
 ===relative===
@@ -4748,8 +4776,6 @@ Index: EN EN->IT
   abnegazione {f} :: abnegation (denial; renunciation) (noun)
 ===repeatedly===
   battere :: pound (to strike hard repeatedly) (verb)
-===reprehensible===
-  cane {m} :: dog (morally reprehensible person, See also scoundrel) (noun)
 ===representation===
   avatar {m}, emblema, simbolo :: avatar (A digital representation of a person or being) (noun)
 ===represented===
@@ -4828,8 +4854,6 @@ Index: EN EN->IT
   informatica {f} :: computer science (study of computers and their architecture) (noun)
 ===scoring===
   punto {m} :: point (unit of scoring in a game or competition) (noun)
-===scoundrel===
-  cane {m} :: dog (morally reprehensible person, See also scoundrel) (noun)
 ===search===
   gugolata {f}, gugulata {f} :: google (search using Google) (noun)
   googlare, guglare :: google (to search for on the Internet) (verb)
@@ -4857,12 +4881,8 @@ Index: EN EN->IT
 ***secret***
   segreto {m} :: secret (knowledge that is hidden) (noun)
   segreto :: secret (being or kept hidden.) (adjective)
-===sect===
-  abecedariano :: abecedarian (member of a 16th-century sect) (noun)
 ===section===
   quartiere {m} :: quarter (section of a town) (noun)
-===See===
-  cane {m} :: dog (morally reprehensible person, See also scoundrel) (noun)
 ===selling===
   commercio {m} :: trade (buying and selling) (noun)
 ===semen===
@@ -4887,7 +4907,7 @@ Index: EN EN->IT
   alfabeto {m} :: alphabet (an ordered set of letters used in a language) (noun)
   anno {m} :: year (a period between set dates that mark a year) (noun)
 ***seven***
-  sette :: seven (cardinal number 7) (cardinal number)
+  sette :: seven (cardinal number 7) (numeral)
   settimana {f} :: week (period of seven days) (noun)
   pianeta {m} :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
 ===seventh===
@@ -4896,15 +4916,15 @@ Index: EN EN->IT
   aquila {f} :: eagle (Any of several large carnivorous birds in the family Accipitridae) (noun)
 ===sexual===
   fottere, scopare :: bone (slang: have sexual intercourse with) (verb)
-  stupro {m}, violento {m} :: rape (act of forcing sexual activity) (noun)
   stuprare, violentare, violare :: rape (force sexual intercourse) (verb)
+  stupro {m}, violento {m} :: rape (act of forcing sexual activity) (noun)
 ===shape===
   matrice {f} :: die (device for cutting into a specified shape) (noun)
 ===share===
   parte, porzione {f} :: deal (division, share) (noun)
 ===sharp===
   definitezza {f} :: definition (sharp demarcation of outlines or limits) (noun)
-  acido {m} :: acid (sour, sharp, or biting to the taste) (adjective)
+  acido :: acid (sour, sharp, or biting to the taste) (adjective)
 ===sheets===
   libro {m} :: book (collection of sheets of paper bound together containing printed or written material) (noun)
 ===shell===
@@ -4961,7 +4981,7 @@ Index: EN EN->IT
 ===sinners===
   inferno {m} :: hell (where sinners go) (proper noun)
 ***six***
-  sei :: six (cardinal number) (cardinal number)
+  sei :: six (cardinal number) (numeral)
 ===sixth===
   giugno {m} :: June (sixth month of the Gregorian calendar) (proper noun)
 ===sixty===
@@ -4986,7 +5006,7 @@ Index: EN EN->IT
   sborra {f} :: cum (slang: male semen) (noun)
   venire, eiaculare, sborrare :: cum (slang: have an orgasm; ejaculate) (verb)
 ===slaughterhouse===
-  mattatoio :: abattoir (public slaughterhouse) (noun)
+  mattatoio {m} :: abattoir (public slaughterhouse) (noun)
 ===small===
   blocchetto {m} :: book (convenient collection of small paper items, such as stamps) (noun)
   stagno {m} :: pond (small lake) (noun)
@@ -5003,7 +5023,7 @@ Index: EN EN->IT
   appuntamento {m} :: date (meeting with a lover or potential lover; a person so met) (noun)
 ===social===
   qualità {f} :: quality (archaic: social position) (noun)
-  incontro {m}, appuntamento {m} (the latter also as romantic meeting) :: date (pre-arranged social meeting) (noun)
+  incontro {m}, appuntamento {m} (also romantic meeting) :: date (pre-arranged social meeting) (noun)
 ===sock===
   baghetta {f} :: clock (pattern near heel of a sock or stocking) (noun)
 ===software===
@@ -5025,8 +5045,8 @@ Index: EN EN->IT
   definizione {f} :: definition (clarity, especially of musical sound in reproduction) (noun)
   musica {f} :: music (sound, organized in time in a melodious way) (noun)
 ===sour===
-  acido {m} :: acid (sour, sharp, or biting to the taste) (adjective)
-  acido {m} :: acid (sour-tempered) (adjective)
+  acido :: acid (sour, sharp, or biting to the taste) (adjective)
+  acido :: acid (sour-tempered) (adjective)
   acido {m} :: acid (a sour substance) (noun)
 ===source===
   fonte {f}, sorgente {f} :: spring (water source) (noun)
@@ -5195,13 +5215,14 @@ Index: EN EN->IT
 ===sunset===
   di :: day (period between sunrise and sunset) (noun)
 ===sup===
-  miliardo :: billion (a thousand million; 1,000,000,000; 10<sup>9</sup>; a milliard) (cardinal number)
-  trilione :: trillion (a million million, 10<sup>12</sup>) (cardinal number)
+  miliardo :: billion (a thousand million; 1,000,000,000; 10<sup>9</sup>; a milliard) (noun)
+  trilione {f} :: trillion (a million million, 10<sup>12</sup>)
 ===superior===
   badessa :: abbess (female superior of a nunnery) (noun)
   abate :: abbot (superior or head of an abbey or monastery) (noun)
 ===superlative===
   il {m}, lo {m}, la {f}; i {m|p}, gli {m|p}, le {f|p} :: the (with a superlative) (article)
+  il più :: most (adverb forming superlative) (adverb)
 ===supplied===
   abbondare, essere abbondante :: abound (to be copiously supplied) (verb)
 ===supply===
@@ -5214,6 +5235,8 @@ Index: EN EN->IT
   su :: on (positioned at the upper surface of) (preposition)
 ===surrender===
   abdicare :: abdicate (surrender or relinquish) (verb)
+***swap***
+  scambiare :: swap (exchange or give (something) in exchange for) (verb)
 ===syllogism===
   abduzione {f} :: abduction (logic: syllogism) (noun)
 ===symbol===
@@ -5248,7 +5271,7 @@ Index: EN EN->IT
 ===tangible===
   prodotto {m}, frutto {m} :: product (any tangible output) (noun)
 ===taste===
-  acido {m} :: acid (sour, sharp, or biting to the taste) (adjective)
+  acido :: acid (sour, sharp, or biting to the taste) (adjective)
   volgare {m|f}, crudo, semplice, grezzo :: crude (lacking tact or taste) (adjective)
 ===teachings===
   dottrina {f} :: doctrine (body of beliefs or teachings) (noun)
@@ -5259,11 +5282,11 @@ Index: EN EN->IT
 ===temperatures===
   inverno {m} :: winter (fourth season, marked by short days and lowest temperatures) (noun)
 ===tempered===
-  acido {m} :: acid (sour-tempered) (adjective)
+  acido :: acid (sour-tempered) (adjective)
 ===temporary===
   distaccare, comandare :: second (temporary transfer of employment) (verb)
 ***ten***
-  dieci :: ten (the cardinal number occurring after 9 and before 11) (cardinal number)
+  dieci :: ten (the cardinal number occurring after 9 and before 11) (numeral)
   dieci {m} (1,2,3) :: ten (the number following nine) (noun)
   decennio {m}, decade {f} :: decade (a period of ten years) (noun)
   decina {f} :: decade (a series of ten things) (noun)
@@ -5313,11 +5336,11 @@ Index: EN EN->IT
   perché :: because (by or for the cause that; on this account that; for the reason that) (conjunction)
 ===thousand===
   millennio {m} :: millennium (thousand-year period) (noun)
-  miliardo :: billion (a thousand million; 1,000,000,000; 10<sup>9</sup>; a milliard) (cardinal number)
+  miliardo :: billion (a thousand million; 1,000,000,000; 10<sup>9</sup>; a milliard) (noun)
 ===thousandth===
   millisecondo {m} :: millisecond (one one-thousandth of a second) (noun)
 ***three***
-  tre :: three (cardinal number 3) (cardinal number)
+  tre :: three (cardinal number 3) (numeral)
   trimestre {m} :: quarter (period of three months) (noun)
 ===throne===
   abdicare :: abdicate (renounce a throne) (verb)
@@ -5364,7 +5387,7 @@ Index: EN EN->IT
 ===topic===
   enciclopedia {f} :: encyclopedia (comprehensive reference with articles on a range of topic) (noun)
 ===total===
-  ammontare :: number (to total; to amount to) (verb)
+  ammontare :: number (to total; to amount to)
 ===towards===
   abominare :: abominate (to feel disgust towards, to hate in the highest degree) (verb)
 ===town===
@@ -5378,9 +5401,9 @@ Index: EN EN->IT
   aliseo {m} :: trade wind (steady wind) (noun)
   sindacato {m} :: trade union (organization) (noun)
 ===traditional===
-  cinese tradizionale :: Traditional Chinese (Chinese written using traditional characters) (proper noun)
+  cinese tradizionale {m|f} :: Traditional Chinese (Chinese written using traditional characters) (proper noun)
 ===Traditional===
-  cinese tradizionale :: Traditional Chinese (Chinese written using traditional characters) (proper noun)
+  cinese tradizionale {m|f} :: Traditional Chinese (Chinese written using traditional characters) (proper noun)
 ===transaction===
   data {f} :: date (point of time at which a transaction or event takes place) (noun)
 ===transfer===
@@ -5399,8 +5422,10 @@ Index: EN EN->IT
   N.A.T.O. :: NATO (North Atlantic Treaty Organization) (proper noun)
 ===tree===
   arancio {m} :: orange (tree) (noun)
+===trees===
+  abietico :: abietic (related to fir trees) (adjective)
 ***trillion***
-  trilione :: trillion (a million million, 10<sup>12</sup>) (cardinal number)
+  trilione {f} :: trillion (a million million, 10<sup>12</sup>)
 ===trust===
   abdicazione {f} :: abdication (the act of abdicating; the renunciation of a high office, dignity, or trust, by its holder) (noun)
 ===truth===
@@ -5410,7 +5435,7 @@ Index: EN EN->IT
 ===twelfth===
   dicembre {m} :: December (twelfth month of the Gregorian calendar) (proper noun)
 ***two***
-  due :: two (one plus one) (cardinal number)
+  due :: two (one plus one) (numeral)
   due {m} or {p} :: two (digit or figure) (noun)
   biglietto da due dollari {m}, bancanota da due dollari {f} :: two (two-dollar bill) (noun)
   ascissa {f} :: abscissa (first of two coordinates) (noun)
@@ -5445,6 +5470,8 @@ Index: EN EN->IT
   rinuncia {m} :: abandonment (maritime law: relinquishment of a property to underwriters) (noun)
 ===unexpectedly===
   casualmente, accidentalmente :: accidentally (unexpectedly, unintentionally) (adverb)
+===unfathomed===
+  abisso {m} :: abime (a bottomless or unfathomed depth)
 ===unintentionally===
   casualmente, accidentalmente :: accidentally (unexpectedly, unintentionally) (adverb)
 ===union===
@@ -5514,7 +5541,7 @@ Index: EN EN->IT
   fiaba {m} :: fable (fictitious narration to enforce some useful truth or precept) (noun)
 ===using===
   abbreviare :: abridge (to shorten or contract by using fewer words) (verb)
-  cinese tradizionale :: Traditional Chinese (Chinese written using traditional characters) (proper noun)
+  cinese tradizionale {m|f} :: Traditional Chinese (Chinese written using traditional characters) (proper noun)
   cinese semplificato {m} :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
   colorare :: color (draw using crayons) (verb)
   gugolata {f}, gugulata {f} :: google (search using Google) (noun)
@@ -5539,6 +5566,8 @@ Index: EN EN->IT
   transitivo {m}, transitiva {f} :: transitive (in grammar: of a verb, that takes an object or objects) (adjective)
 ===verge===
   stare per :: about (on the point or verge of) (preposition)
+===version===
+  riassunto {m} :: abbreviation (abridged version of a document) (noun)
 ===very===
   libero, free, libre (software) :: free (software: with very few limitations on distribution or improvement) (adjective)
   piovere a catinelle :: rain cats and dogs (to rain very heavily) (verb)
@@ -5620,7 +5649,7 @@ Index: EN EN->IT
   aliseo {m} :: trade wind (steady wind) (noun)
   fisarmonica {f} :: accordion (A small, portable, keyed wind instrument) (noun)
 ===wine===
-  astemio {m}, astemia {f} :: abstemious (abstaining from wine) (adjective)
+  astemio :: abstemious (abstaining from wine) (adjective)
   porto {m} :: port (fortified wine) (noun)
 ***winter***
   inverno {m} :: winter (fourth season, marked by short days and lowest temperatures) (noun)
@@ -5679,7 +5708,7 @@ Index: EN EN->IT
 ===written===
   libro {m} :: book (collection of sheets of paper bound together containing printed or written material) (noun)
   marcia {f} :: march (song in the genre of music written for marching) (noun)
-  cinese tradizionale :: Traditional Chinese (Chinese written using traditional characters) (proper noun)
+  cinese tradizionale {m|f} :: Traditional Chinese (Chinese written using traditional characters) (proper noun)
   cinese semplificato {m} :: Simplified Chinese (Chinese written using simplified characters) (proper noun)
   lettera {f} :: letter (written message) (noun)
 ***year***
@@ -5703,7 +5732,7 @@ Index: EN EN->IT
   ti amo (informal singular), vi amo (plural or formal) :: I love you (affirmation of romantic feeling) (phrase)
   Ti voglio bene (singular informal), Vi voglio bene (plural or formal) :: I love you (platonic expression of inclination or liking) (phrase)
 ***zero***
-  zero {m} :: zero (cardinal number before 1, denoting nothing) (cardinal number)
+  zero {m} :: zero (cardinal number before 1, denoting nothing) (numeral)
   zero {m} :: zero (point of origin on a scale) (noun)
   azzerare :: zero (to set to zero) (verb)
   punto {m} :: point (geometry: zero-dimensional object) (noun)

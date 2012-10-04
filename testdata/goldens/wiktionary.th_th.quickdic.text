@@ -1,9 +1,9 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.thai 4991
+EntrySource: enwiktionary.thai 5002
 
 Index: TH TH->EN
 ***ฯลฯ***
-  ฯลฯ (paiyanyai) (noun) :: abbreviation indicator.
+  ฯลฯ (abbreviation) :: et cetera
 ***๐***
   ๐ (ศูนย์, súún) :: 0 (zero)
 ***๑***
@@ -302,8 +302,12 @@ Index: TH TH->EN
     คุณเป็นนักท่องเที่ยวใช่ไหม? (koon bpen náktôngtîeow châi măi?) :: You’re a tourist, is that right?
 ===chaiyo===
   ไชโย (chaiyo) (interjection) :: cheers!
+===chăn===
+  ฉัน (chăn) (pronoun) :: I; me (for female speakers)
+  ฉัน (chăn) (pronoun) :: {colloquial} I; me (for both sexes)
 ***ฉัน***
-  ฉัน :: I; me (for female speakers)
+  ฉัน (chăn) (pronoun) :: I; me (for female speakers)
+  ฉัน (chăn) (pronoun) :: {colloquial} I; me (for both sexes)
 ===chana===
   ชนะ (chana) (verb) :: To win.
 ***ช้าง***
@@ -502,10 +506,10 @@ Index: TH TH->EN
   เดือน (deuan) (noun) :: moon.
 ***ดี***
   ดี (dee) (adjective) :: good
-===dichan===
-  ดิฉัน (dichan) (pronoun) :: (said by female only) me
+===dìchăn===
+  ดิฉัน (dìchăn) (pronoun) :: (said by female only) I, me
 ***ดิฉัน***
-  ดิฉัน (dichan) (pronoun) :: (said by female only) me
+  ดิฉัน (dìchăn) (pronoun) :: (said by female only) I, me
 ===din===
   ใหญ่ (yài) (adjective) :: important, main
     ถนนใหญ่ (tànŏn yài) :: main street, boulevard
@@ -602,7 +606,7 @@ Index: TH TH->EN
 ===fàràngsèt===
   ประเทศฝรั่งเศส (bpràtêt fàràngsèt) (proper noun) :: France
 ===fawng===
-  ฟอง (fawng) (noun) :: {formal} egg
+  ฟอง (fawng) {th-noun} :: {formal} egg
 ***เฝ้า***
   เฝ้า (fao) (verb) :: To watch.
 ***ไฟ***
@@ -624,7 +628,7 @@ Index: TH TH->EN
 ***ฝืน***
   ฝืน (fūen) (verb) :: To disobey.
 ***ฟอง***
-  ฟอง (fawng) (noun) :: {formal} egg
+  ฟอง (fawng) {th-noun} :: {formal} egg
 ***ฟองมัน***
   ฟองมัน (fongman) (noun) :: {{context|typography|chiefly|in old script}} Thai punctuation mark ๏, marking the beginning of a new paragraph
   ฟองมัน (fongman) (noun) :: greasy egg
@@ -789,9 +793,9 @@ Index: TH TH->EN
     คุณเป็นนักท่องเที่ยวใช่ไหม? (koon bpen náktôngtîeow châi măi?) :: You’re a tourist, is that right?
   ไหม (mãi) (noun) :: silk
 ===hima===
-  หิมะ (hima) (noun) :: snow.
+  หิมะ (hima) {th-noun} :: snow
 ***หิมะ***
-  หิมะ (hima) (noun) :: snow.
+  หิมะ (hima) {th-noun} :: snow
 ===hindee===
   ภาษาฮินดี (phaasăa hindee) (proper noun) :: The Hindi language.
 ***ให้***
@@ -847,7 +851,7 @@ Index: TH TH->EN
 ***หมุนเวียน***
   หมุนเวียน (mun wian) (verb) :: To circulate.
 ***หมวก***
-  หมวก (muak) (noun) :: hat
+  หมวก (muak) {th-noun} :: hat
 ===หน้า===
   เหลี่ยม (lìam) (adjective) :: angled, angular, square
     หน้าเหลี่ยม (nâa lìam) :: square face
@@ -1153,6 +1157,10 @@ Index: TH TH->EN
   เข้า (kao) (verb) :: To enter
   เกา (kao) (verb) :: To scratch.
   ภาษาเกาหลี (phaasăa kao lee) (proper noun) :: The Korean language.
+===kăo===
+  เขา (kăo) (pronoun) :: he, him; she, her
+  เขา (kăo) (pronoun) :: they / them
+  เขา (kăo) (noun) :: A mountain.
 ===kaolee===
   ประเทศเกาหลี (prathed kaolee) (proper noun) :: Korea
   ประเทศเกาหลีใต้ (prathed kaolee tai) (proper noun) :: South Korea
@@ -1275,7 +1283,7 @@ Index: TH TH->EN
 ***แขวนบนเส้นด้าย***
   แขวนบนเส้นด้าย (phrase) :: {idiomatic} to be in danger, calling for precise caution. To be in a precarious situation. To hang by a thread
 ===khai===
-  ไข่ (khai) (noun) :: An egg.
+  ไข่ (khai) {th-noun} :: egg
 ===khāi===
   คาย (khāi) (verb) :: To emit.
 ===kham===
@@ -1305,10 +1313,6 @@ Index: TH TH->EN
   เข้าใจ (khao jai) (verb) :: To perceive.
   ภูเฃา (puu khao) (noun) :: {obsolete}Alternative spelling of ภูเขา.
   ภูเขา (puu khao) (noun) :: A mountain.
-===kʰao===
-  เขา (kʰao) (pronoun) :: he, she
-  เขา (kʰao) (pronoun) :: they/them
-  เขา (kʰao) (noun) :: A mountain.
 ***คารวะ***
   คารวะ (cā ra wa) (noun) :: respect
 ===khaw===
@@ -1340,9 +1344,9 @@ Index: TH TH->EN
 ===khē===
   พริกขี้หนู (prik khē nū) (noun) :: guinea-pepper
 ***เขา***
-  เขา (kʰao) (pronoun) :: he, she
-  เขา (kʰao) (pronoun) :: they/them
-  เขา (kʰao) (noun) :: A mountain.
+  เขา (kăo) (pronoun) :: he, him; she, her
+  เขา (kăo) (pronoun) :: they / them
+  เขา (kăo) (noun) :: A mountain.
 ***เข้า***
   เข้า (kao) (verb) :: To enter
 ***เข๋า***
@@ -1378,7 +1382,7 @@ Index: TH TH->EN
 ***เขย่า***
   เขย่า (kha yao) (verb) :: To shake.
 ***ไข่***
-  ไข่ (khai) (noun) :: An egg.
+  ไข่ (khai) {th-noun} :: egg
 ===khian===
   เฃียน (khian) (noun) :: {obsolete}Alternative spelling of เขียน.
 ===khid===
@@ -1498,7 +1502,6 @@ Index: TH TH->EN
 ===khum===
   ฅุ๋ม (khum) (noun) :: {obsolete}Alternative spelling of คุ้ม.
 ===khun===
-  คุณ (khun) (particle) :: (particle used to formalize second and third person pronouns)
   ฃุน (khun) (noun) :: {obsolete}Alternative spelling of ขุน.
   ขุน (khun) (noun) :: A nobleman.
   ขุน (khun) (noun) :: An aristocrat.
@@ -1510,8 +1513,8 @@ Index: TH TH->EN
 ***ฃุน***
   ฃุน (khun) (noun) :: {obsolete}Alternative spelling of ขุน.
 ***คุณ***
-  คุณ (khun) (particle) :: (particle used to formalize second and third person pronouns)
-  คุณ :: You.
+  คุณ (kun) (particle) :: (particle used to formalize second and third person pronouns)
+  คุณ (kun) (pronoun) :: you
 ===คุณเป็นนักท่องเที่ยวใช่ไหม===
   ไหม (măi) (particle) :: final interrogative particle.
     คุณเป็นนักท่องเที่ยวใช่ไหม? (koon bpen náktôngtîeow châi măi?) :: You’re a tourist, is that right?
@@ -1707,6 +1710,8 @@ Index: TH TH->EN
 ***กุมภาพันธ์***
   กุมภาพันธ์ (kumphāphan) (proper noun) :: February.
 ===kun===
+  คุณ (kun) (particle) :: (particle used to formalize second and third person pronouns)
+  คุณ (kun) (pronoun) :: you
   คุณภาพ (kun na pāb) (noun) :: quality
   นามสกุล (nām sa kun) (noun) :: last name.
 ***กุศล***
@@ -1867,10 +1872,10 @@ Index: TH TH->EN
   โลก (lōk) (noun) :: world
   โลก (lōk) (noun) :: Earth
 ===loma===
-  โลมา (loma) (noun) :: dolphin
-  ปลาโลมา (pla loma) (noun) :: dolphin
+  โลมา (loma) {th-noun} :: dolphin
+  ปลาโลมา (pla loma) {th-noun} :: dolphin
 ***โลมา***
-  โลมา (loma) (noun) :: dolphin
+  โลมา (loma) {th-noun} :: dolphin
 ===long===
   หลง (long) (verb) :: To lose one's way.
   ลง (long) (verb) :: To lower.
@@ -2083,8 +2088,8 @@ Index: TH TH->EN
 ===mêua===
   เมื่อ (mêua) (conjunction) :: when
 ===meuang===
-  เมือง (meuang) (noun) :: city, town
-  เมือง (meuang) (noun) :: country
+  เมือง (meuang) {th-noun} :: city, town
+  เมือง (meuang) {th-noun} :: country
   เมืองไทย (meuang thai) (proper noun) :: Thailand
 ===mèuk===
   หมึก (mèuk) (noun) :: ink
@@ -2094,8 +2099,8 @@ Index: TH TH->EN
 ***เมื่อ***
   เมื่อ (mêua) (conjunction) :: when
 ***เมือง***
-  เมือง (meuang) (noun) :: city, town
-  เมือง (meuang) (noun) :: country
+  เมือง (meuang) {th-noun} :: city, town
+  เมือง (meuang) {th-noun} :: country
 ***เมืองไทย***
   เมืองไทย (meuang thai) (proper noun) :: Thailand
 ***มหาสมุทร***
@@ -2170,7 +2175,7 @@ Index: TH TH->EN
 ***มรณะ***
   มรณะ (mawrana) (noun) :: death
 ===muak===
-  หมวก (muak) (noun) :: hat
+  หมวก (muak) {th-noun} :: hat
 ===muan===
   มวล (muan) (adjective) :: entire
 ===muk===
@@ -2244,7 +2249,7 @@ Index: TH TH->EN
 ***นักบุญ***
   นักบุญ (nag-boon) (noun) :: saint
 ===nakorn===
-  นคร (nakorn) (noun) :: city, town
+  นคร (nakorn) {th-noun} :: city, town
 ===náktôngtîeow===
   ไหม (măi) (particle) :: final interrogative particle.
     คุณเป็นนักท่องเที่ยวใช่ไหม? (koon bpen náktôngtîeow châi măi?) :: You’re a tourist, is that right?
@@ -2380,7 +2385,7 @@ Index: TH TH->EN
   แก้ว (gâew) (noun) :: parrot
     นกแก้วตัวนี้พูดเก่ง :: This parrot is talkative
 ***นคร***
-  นคร (nakorn) (noun) :: city, town
+  นคร (nakorn) {th-noun} :: city, town
 ***นกแก้ว***
   นกแก้ว (nók gâew) :: parrot
 ===nok===
@@ -2503,10 +2508,8 @@ Index: TH TH->EN
     หนังใหญ่ (năng yài) :: grand shadow play
     แผ่นดินใหญ่ (pàen din yài) :: mainland
 ===pai===
-  ภัย (pai) (noun) :: danger
+  ภัย (pai) {th-noun} :: danger
   ไพศาล (pai sān) (adjective) :: Large.
-===paiyanyai===
-  ฯลฯ (paiyanyai) (noun) :: abbreviation indicator.
 ===pak===
   พัก (pak) (verb) :: To rest.
 ===pāk===
@@ -2742,7 +2745,7 @@ Index: TH TH->EN
 ***ภาษิต***
   ภาษิต (pasit) (noun) :: proverb
 ***ภัย***
-  ภัย (pai) (noun) :: danger
+  ภัย (pai) {th-noun} :: danger
 ***พายุ***
   พายุ (phaayu) (noun) :: A storm
 ===phayun===
@@ -2813,8 +2816,8 @@ Index: TH TH->EN
 ***ผลาญ***
   ผลาญ (plān) (verb) :: To waste.
 ***ผม***
-  ผม :: I; me. For male speakers.
-  ผม (/pʰom˨˩˧/) (noun) :: hair
+  ผม (pŏm) (pronoun) :: I; me. For male speakers.
+  ผม (pŏm) (noun) :: hair
 ***พม่า***
   พม่า (pámâa) (proper noun) :: Myanmar, Burma
 ===ผมจะไป===
@@ -2828,8 +2831,6 @@ Index: TH TH->EN
   โภชนะ (pōchana) (noun) :: nutrition
 ***โภชนา***
   โภชนา (pōchanā) (noun) :: nutrition
-===pʰom===
-  ผม (/pʰom˨˩˧/) (noun) :: hair
 ===pʰon===
   พล (pʰon) (proper noun) :: {{given name|male}}.
   พล (pʰon) (noun) :: strength.
@@ -2942,14 +2943,14 @@ Index: TH TH->EN
 ===piu===
   คอมพิวเตอร์ (khom piu toe) (noun) :: computer
 ===pla===
-  ปลาโลมา (pla loma) (noun) :: dolphin
+  ปลาโลมา (pla loma) {th-noun} :: dolphin
   ปลาวาฬ (pla wan) (noun) :: whale
 ***ปลา***
   ปลา (bplaa) :: fish
 ===plaeng===
   แปลง (plaeng) (verb) :: To transform.
 ***ปลาโลมา***
-  ปลาโลมา (pla loma) (noun) :: dolphin
+  ปลาโลมา (pla loma) {th-noun} :: dolphin
 ===plān===
   ผลาญ (plān) (verb) :: To waste.
 ===plapayun===
@@ -2982,6 +2983,9 @@ Index: TH TH->EN
   พรหมจารี (pom ma jā rī) (noun) :: virginity
   พรหมจรรย์ (pom ma jan) (noun) :: Brahmacharya
   พรหมจรรย์ (pom ma jan) (noun) :: virginity
+===pŏm===
+  ผม (pŏm) (pronoun) :: I; me. For male speakers.
+  ผม (pŏm) (noun) :: hair
 ===pon===
   ผล (pon) (noun) :: profit
   ผล (pon) (noun) :: fruit
@@ -3977,6 +3981,9 @@ Index: TH TH->EN
   เต้น (ten) (verb) :: To dance.
 ===têp===
   กรุงเทพ (groong têp) (proper noun) :: Bangkok, Krungthep
+===ter===
+  เธอ (ter) (pronoun) :: you
+  เธอ (ter) (pronoun) :: she
 ***ฐ***
   ฐ (th; thaw thān) :: The 16th letter of the Thai alphabet
 ***ฑ***
@@ -4102,9 +4109,6 @@ Index: TH TH->EN
 ===thèpī===
   เทพี (thèpī) (noun) :: a female deity
   เทพี (thèpī) (noun) :: a goddess
-===tʰer===
-  เธอ (tʰer) (pronoun) :: you
-  เธอ (tʰer) (pronoun) :: she
 ***เทศนา***
   เทศนา (têt-sà-naa) :: to preach
   เทศนา (têt-sà-naa) :: to give a sermon
@@ -4119,8 +4123,8 @@ Index: TH TH->EN
   เทวี (thèwī) (noun) :: a female deity
   เทวี (thèwī) (noun) :: a goddess
 ***เธอ***
-  เธอ (tʰer) (pronoun) :: you
-  เธอ (tʰer) (pronoun) :: she
+  เธอ (ter) (pronoun) :: you
+  เธอ (ter) (pronoun) :: she
 ***ทหาร***
   ทหาร (thahan) (noun) :: soldier
 ===thī===
@@ -4144,7 +4148,7 @@ Index: TH TH->EN
   ธนาคาร (thanaakhaan) (noun) :: bank
     ผมจะไปธนาคารพรุ่งนี้ :: I will go to the bank tomorrow.
 ***ธง***
-  ธง (thong) (noun) :: flag
+  ธง (thong) {th-noun} :: flag
 ===ถนนใหญ่===
   ใหญ่ (yài) (adjective) :: important, main
     ถนนใหญ่ (tànŏn yài) :: main street, boulevard
@@ -4162,7 +4166,7 @@ Index: TH TH->EN
   ถ่ม (thom) (verb) :: to spit
   ทำนาย (thom nāy) (verb) :: To prognosticate.
 ===thong===
-  ธง (thong) (noun) :: flag
+  ธง (thong) {th-noun} :: flag
 ===thoo===
   ถู (thoo) (verb) :: To mop.
   ถู (thoo) (verb) :: To rub.
@@ -4333,7 +4337,7 @@ Index: TH TH->EN
 ===uuduu===
   ภาษาอูรดู (paasăa uuduu) (proper noun) :: The Urdu language.
 ***ฤ***
-  ฤ (r; reu) :: A letter of the Thai alphabet.
+  ฤ (r; reu) :: A letter of the Thai alphabet; it is usually regarded as a vowel.
 ===vanorn===
   วานร (vanorn) (noun) :: monkey
 ***ฤดู***
@@ -4407,7 +4411,7 @@ Index: TH TH->EN
   วลี (wálee) (proper noun) :: {{given name|female}}.
   วลี (wálee) (noun) :: phrase
 ===walrus===
-  วอลรัส (walrus) (noun) :: A walrus
+  วอลรัส (walrus) {th-noun} :: walrus
 ===wan===
   วันพุธ (wan pút) (noun) :: Wednesday
   วันอาทิตย์ (wan aathít) (noun) :: Sunday
@@ -4522,7 +4526,7 @@ Index: TH TH->EN
   เยี่ยววัว (yîeow wua) (noun) :: cow's urine
   เยี่ยววัว (yîeow wua) (noun) :: {{context|typography|chiefly|in poetry}} Thai punctuation mark ๛, marking the end of a story or poem
 ***วอลรัส***
-  วอลรัส (walrus) (noun) :: A walrus
+  วอลรัส (walrus) {th-noun} :: walrus
 ***อ***
   อ (a; āw āng) :: The 43rd letter of the Thai alphabet
 ***อา***
@@ -4893,8 +4897,6 @@ Index: EN EN->TH
   ๙ (เก้า, kào) :: 9 (nine)
 ===abbot===
   พระ (prá) {th-noun} :: monk, abbot, priest, minister, cleric
-===abbreviation===
-  ฯลฯ (paiyanyai) (noun) :: abbreviation indicator.
 ===about===
   เกี่ยว (gìaaw) (verb) :: to concern, to be concerned with, to be related to, to be about
 ===above===
@@ -4997,7 +4999,7 @@ Index: EN EN->TH
   ฬ (l; law ju lā) :: The 42nd letter of the Thai alphabet
   อ (a; āw āng) :: The 43rd letter of the Thai alphabet
   ฮ (h; haw nok hūk) :: The 44th letter of the Thai alphabet
-  ฤ (r; reu) :: A letter of the Thai alphabet.
+  ฤ (r; reu) :: A letter of the Thai alphabet; it is usually regarded as a vowel.
   ฦ (l; leu) :: {obsolete}A letter of the Thai alphabet.
   ฦๅ (ḹ; leu) (letter) :: A letter of the Thai alphabet, considered a vowel.
   ฤๅ (ṝ; reu) (letter) :: A letter of the Thai alphabet, considered a vowel.
@@ -5046,7 +5048,6 @@ Index: EN EN->TH
 ===amulet===
   องค์จาตุคามรามเทพ (ong jātūkhām rāmatêp) :: Jatukham Rammathep (a popular amulet sold by some Buddhist temples that provides the bearer protection and good fortune)
 ===An===
-  ไข่ (khai) (noun) :: An egg.
   ศุภลักษณ์ (sub pha lak) (noun) :: An auspicious appearance.
   แมวศุภลักษณ์ (maew sub pha lak) (noun) :: An auspicious appearance.
   ขุน (khun) (noun) :: An aristocrat.
@@ -5258,6 +5259,8 @@ Index: EN EN->TH
   บ้อง (bong) (noun) :: A bong.
 ===boss===
   นาย (naai) (noun) :: superior, master, head, boss, chief, leader, commander
+===both===
+  ฉัน (chăn) (pronoun) :: {colloquial} I; me (for both sexes)
 ===bottle===
   ขวด (khuad) (noun) :: A bottle.
 ===boulevard===
@@ -5402,6 +5405,8 @@ Index: EN EN->TH
   สุสาน (sùsǎan) (noun) :: cemetery, graveyard
 ===center===
   ศูนย์ (sūn) (noun) :: center
+===cetera===
+  ฯลฯ (abbreviation) :: et cetera
 ===chain===
   โซ่ (so) (noun) :: chain
 ===chair===
@@ -5461,8 +5466,8 @@ Index: EN EN->TH
 ===circulate===
   หมุนเวียน (mun wian) (verb) :: To circulate.
 ===city===
-  เมือง (meuang) (noun) :: city, town
-  นคร (nakorn) (noun) :: city, town
+  เมือง (meuang) {th-noun} :: city, town
+  นคร (nakorn) {th-noun} :: city, town
   กรุง (groong) {th-noun} :: city
 ===classical===
   ฉิ่ง (ching) :: a pair of small cymbals used in the classical and folk music of Thailand
@@ -5562,7 +5567,7 @@ Index: EN EN->TH
 ===counter===
   โต้ (tō) (verb) :: To counter.
 ===country===
-  เมือง (meuang) (noun) :: country
+  เมือง (meuang) {th-noun} :: country
   ประเทศ (prathet) (noun) :: country
 ===courageous===
   แก้ว (gâew) (adjective) :: brave, courageous
@@ -5624,7 +5629,7 @@ Index: EN EN->TH
   มณโฑ (montho) (noun) :: dancer
 ===danger===
   แขวนบนเส้นด้าย (phrase) :: {idiomatic} to be in danger, calling for precise caution. To be in a precarious situation. To hang by a thread
-  ภัย (pai) (noun) :: danger
+  ภัย (pai) {th-noun} :: danger
 ===dark===
   กาล (kān) (noun) :: the color dark blue
 ===darling===
@@ -5718,8 +5723,8 @@ Index: EN EN->TH
 ===Dogri===
   ภาษาโฑครี (paasăa thookhrii) (proper noun) :: The Dogri language.
 ===dolphin===
-  ปลาโลมา (pla loma) (noun) :: dolphin
-  โลมา (loma) (noun) :: dolphin
+  ปลาโลมา (pla loma) {th-noun} :: dolphin
+  โลมา (loma) {th-noun} :: dolphin
 ===don===
   ใส่ (sài) (verb) :: To don.
   อย่า (yàa) (contraction) :: don't
@@ -5803,8 +5808,8 @@ Index: EN EN->TH
 ===effortless===
   หวาน (wăan) :: effortlessly
 ===egg===
-  ฟอง (fawng) (noun) :: {formal} egg
-  ไข่ (khai) (noun) :: An egg.
+  ฟอง (fawng) {th-noun} :: {formal} egg
+  ไข่ (khai) {th-noun} :: egg
   ฟองมัน (fongman) (noun) :: greasy egg
 ===egret===
   ยาง (yaang) :: egret, bittern
@@ -5873,6 +5878,8 @@ Index: EN EN->TH
   หนี (nī) (verb) :: To escape.
 ===eschew===
   ลบ (lob) (verb) :: To eschew.
+===et===
+  ฯลฯ (abbreviation) :: et cetera
 ===ethnic===
   ม้ง (mong) (noun) :: Hmong, Miao, Meo (an Asian ethnic group whose homeland is in the mountainous regions around Guizhou, southern China, and northern Vietnam, Laos, and Thailand).
   แม้ว (máew) (noun) :: Miao, Hmong, Meo (an Asian ethnic group whose homeland is in the mountainous regions around Guizhou, southern China, and northern Vietnam, Laos, and Thailand).
@@ -5944,8 +5951,8 @@ Index: EN EN->TH
   เทวี (thèwī) (noun) :: a female deity
   เทพี (thèpī) (noun) :: a female deity
   หญิง (ying) (noun) :: female
-  ฉัน :: I; me (for female speakers)
-  ดิฉัน (dichan) (pronoun) :: (said by female only) me
+  ฉัน (chăn) (pronoun) :: I; me (for female speakers)
+  ดิฉัน (dìchăn) (pronoun) :: (said by female only) I, me
 ===females===
   แก้ว (gâew) (proper noun) :: A common Thai nickname for males and females
   สวัสดีค่ะ (sàwàtdee kâ) {f} (interjection) :: hello, said by females
@@ -5975,7 +5982,7 @@ Index: EN EN->TH
   ห้า (hâa) (adjective) :: five
 ===flag===
   ธวัช (thavad) (noun) :: flag
-  ธง (thong) (noun) :: flag
+  ธง (thong) {th-noun} :: flag
 ===flower===
   ดอก (dààwk) (noun) :: flower
   บุษบา (budsabā) (noun) :: A flower
@@ -5990,7 +5997,7 @@ Index: EN EN->TH
 ===food===
   อาหาร (aa-hăan) (noun) :: food
 ===For===
-  ผม :: I; me. For male speakers.
+  ผม (pŏm) (pronoun) :: I; me. For male speakers.
 ===force===
   บังคับ (bang kab) (verb) :: to force
 ===foreigner===
@@ -6002,7 +6009,7 @@ Index: EN EN->TH
 ===fork===
   ส้อม (noun) :: fork.
 ===formalize===
-  คุณ (khun) (particle) :: (particle used to formalize second and third person pronouns)
+  คุณ (kun) (particle) :: (particle used to formalize second and third person pronouns)
 ===fortune===
   องค์จาตุคามรามเทพ (ong jātūkhām rāmatêp) :: Jatukham Rammathep (a popular amulet sold by some Buddhist temples that provides the bearer protection and good fortune)
 ===forward===
@@ -6167,7 +6174,7 @@ Index: EN EN->TH
 ===habitation===
   บ้าน (bâan) {th-noun} :: habitation
 ===hair===
-  ผม (/pʰom˨˩˧/) (noun) :: hair
+  ผม (pŏm) (noun) :: hair
 ===hammer===
   ค้อน (khon) (noun) :: A hammer.
 ===hammock===
@@ -6179,7 +6186,7 @@ Index: EN EN->TH
 ===harvest===
   เกี่ยว (gìaaw) (verb) :: to reap, to harvest, to mow
 ===hat===
-  หมวก (muak) (noun) :: hat
+  หมวก (muak) {th-noun} :: hat
 ===Hathai===
   หฤทัย (hareuthai) (proper noun) :: {{given name|female}}, Hathai
 ===have===
@@ -6187,7 +6194,7 @@ Index: EN EN->TH
 ===he===
   ธ (tha) (pronoun) :: {archaic} he, she
   เพื่อน (phuean) (pronoun) :: he, she, they
-  เขา (kʰao) (pronoun) :: he, she
+  เขา (kăo) (pronoun) :: he, him; she, her
 ===head===
   นาย (naai) (noun) :: superior, master, head, boss, chief, leader, commander
 ===headdress===
@@ -6219,6 +6226,8 @@ Index: EN EN->TH
   สวัสดี (sàwàtdee) :: hello, hi
 ===help===
   ช่วย (chuey) (verb) :: to help
+===her===
+  เขา (kăo) (pronoun) :: he, him; she, her
 ===herb===
   สมุนไพร (samunprai) (noun) :: herb
 ===hermit===
@@ -6232,6 +6241,8 @@ Index: EN EN->TH
   สวัสดี (sàwàtdee) :: hello, hi
 ===hide===
   ซ่อน (sawn) (verb) :: To hide.
+===him===
+  เขา (kăo) (pronoun) :: he, him; she, her
 ===hind===
   หลัง (lăng) :: next, after, later, hind
 ===Hindi===
@@ -6319,8 +6330,6 @@ Index: EN EN->TH
 ===indicate===
   พระ (prá) (prefix) :: used to indicate the name of a planet or moon
     พระจันทร์ (prá-jan) :: the moon
-===indicator===
-  ฯลฯ (paiyanyai) (noun) :: abbreviation indicator.
 ===inebriate===
   เมา (mao) (verb) :: To inebriate.
 ===information===
@@ -6635,7 +6644,7 @@ Index: EN EN->TH
   ฬ (l; law ju lā) :: The 42nd letter of the Thai alphabet
   อ (a; āw āng) :: The 43rd letter of the Thai alphabet
   ฮ (h; haw nok hūk) :: The 44th letter of the Thai alphabet
-  ฤ (r; reu) :: A letter of the Thai alphabet.
+  ฤ (r; reu) :: A letter of the Thai alphabet; it is usually regarded as a vowel.
   ฤๅ (ṝ; reu) (letter) :: A letter of the Thai alphabet, considered a vowel.
   ฦ (l; leu) :: {obsolete}A letter of the Thai alphabet.
   ฦๅ (ḹ; leu) (letter) :: A letter of the Thai alphabet, considered a vowel.
@@ -6734,7 +6743,7 @@ Index: EN EN->TH
 ===male===
   เพศชาย (ped-chai) (noun) :: male
   ชาย (chaai) (noun) :: male
-  ผม :: I; me. For male speakers.
+  ผม (pŏm) (pronoun) :: I; me. For male speakers.
   เทวดา (teewádaa) {th-noun} :: deity, male angel
 ===males===
   แก้ว (gâew) (proper noun) :: A common Thai nickname for males and females
@@ -6781,11 +6790,12 @@ Index: EN EN->TH
 ===May===
   พฤษภาคม (prueksaphākhom) (proper noun) :: May.
 ===me===
-  ผม :: I; me. For male speakers.
-  ฉัน :: I; me (for female speakers)
+  ผม (pŏm) (pronoun) :: I; me. For male speakers.
+  ฉัน (chăn) (pronoun) :: I; me (for female speakers)
+  ฉัน (chăn) (pronoun) :: {colloquial} I; me (for both sexes)
   กู (kuu) (pronoun) :: {informal} I/me
   กู (kuu) (pronoun) :: {archaic} I/me
-  ดิฉัน (dichan) (pronoun) :: (said by female only) me
+  ดิฉัน (dìchăn) (pronoun) :: (said by female only) I, me
   เรา (rao) (pronoun) :: I, me(to equals)
 ===measure===
   วัด (wát) (verb) :: to measure
@@ -6901,7 +6911,7 @@ Index: EN EN->TH
   ตุ๊กๆ (dtóok-dtóok) :: tuk-tuk (a motorized tricycle, a small 3-wheeled motorised vehicle, very common in Thailand).
 ===mountain===
   ภูเขา (puu khao) (noun) :: A mountain.
-  เขา (kʰao) (noun) :: A mountain.
+  เขา (kăo) (noun) :: A mountain.
 ===mountainous===
   ม้ง (mong) (noun) :: Hmong, Miao, Meo (an Asian ethnic group whose homeland is in the mountainous regions around Guizhou, southern China, and northern Vietnam, Laos, and Thailand).
   แม้ว (máew) (noun) :: Miao, Hmong, Meo (an Asian ethnic group whose homeland is in the mountainous regions around Guizhou, southern China, and northern Vietnam, Laos, and Thailand).
@@ -7060,7 +7070,7 @@ Index: EN EN->TH
 ===once===
   ใหม่ (mài) :: again, once more
 ===only===
-  ดิฉัน (dichan) (pronoun) :: (said by female only) me
+  ดิฉัน (dìchăn) (pronoun) :: (said by female only) I, me
 ===open===
   เปิด (/pɜːd/) (verb) :: To open.
   งัด (ngad) (verb) :: To pry open.
@@ -7123,7 +7133,7 @@ Index: EN EN->TH
 ===particle===
   ไหม (măi) (particle) :: final interrogative particle.
     คุณเป็นนักท่องเที่ยวใช่ไหม? (koon bpen náktôngtîeow châi măi?) :: You’re a tourist, is that right?
-  คุณ (khun) (particle) :: (particle used to formalize second and third person pronouns)
+  คุณ (kun) (particle) :: (particle used to formalize second and third person pronouns)
   วะ (wá) :: ending particle (impolite)
   ว่ะ (wâ) :: ending particle (impolite)
   ฤๅ (reu) (particle) :: question particle
@@ -7288,7 +7298,7 @@ Index: EN EN->TH
 ===prognosticate===
   ทำนาย (thom nāy) (verb) :: To prognosticate.
 ===pronouns===
-  คุณ (khun) (particle) :: (particle used to formalize second and third person pronouns)
+  คุณ (kun) (particle) :: (particle used to formalize second and third person pronouns)
 ===property===
   ของ (khawng) (noun) :: A property.
   ทรัพย์ (sab) (noun) :: A property.
@@ -7382,6 +7392,8 @@ Index: EN EN->TH
 ===reed===
   ลิ้น (lín) (noun) :: tongue, reed
   แคน (këën) (noun) :: khene (traditional free reed mouth organ of Laos and northeast Thailand)
+===regarded===
+  ฤ (r; reu) :: A letter of the Thai alphabet; it is usually regarded as a vowel.
 ===regions===
   ม้ง (mong) (noun) :: Hmong, Miao, Meo (an Asian ethnic group whose homeland is in the mountainous regions around Guizhou, southern China, and northern Vietnam, Laos, and Thailand).
   แม้ว (máew) (noun) :: Miao, Hmong, Meo (an Asian ethnic group whose homeland is in the mountainous regions around Guizhou, southern China, and northern Vietnam, Laos, and Thailand).
@@ -7495,7 +7507,7 @@ Index: EN EN->TH
 ===said===
   สวัสดีครับ (sàwàtdee kráp) {m} (interjection) :: hello, said by males
   สวัสดีค่ะ (sàwàtdee kâ) {f} (interjection) :: hello, said by females
-  ดิฉัน (dichan) (pronoun) :: (said by female only) me
+  ดิฉัน (dìchăn) (pronoun) :: (said by female only) I, me
 ===saint===
   นักบุญ (nag-boon) (noun) :: saint
 ===salad===
@@ -7592,6 +7604,8 @@ Index: EN EN->TH
   ๗ (เจ็ด, jèt) :: 7 (seven)
 ===seventh===
   ง (ng; ngaw nguu) :: The seventh letter of the Thai alphabet.
+===sexes===
+  ฉัน (chăn) (pronoun) :: {colloquial} I; me (for both sexes)
 ===shadow===
   ใหญ่ (yài) (adjective) :: important, main
     ถนนใหญ่ (tànŏn yài) :: main street, boulevard
@@ -7606,8 +7620,8 @@ Index: EN EN->TH
 ===she===
   ธ (tha) (pronoun) :: {archaic} he, she
   เพื่อน (phuean) (pronoun) :: he, she, they
-  เธอ (tʰer) (pronoun) :: she
-  เขา (kʰao) (pronoun) :: he, she
+  เธอ (ter) (pronoun) :: she
+  เขา (kăo) (pronoun) :: he, him; she, her
 ===She===
   แก้ว (gâew) (noun) :: drinking glass, cup, crystal
     เขากำลังใช้แก้วใบนั้นดื่มนม :: She is using that glass to drink milk.
@@ -7693,7 +7707,7 @@ Index: EN EN->TH
 ===sneeze===
   จาม (jām) (verb) :: to sneeze
 ===snow===
-  หิมะ (hima) (noun) :: snow.
+  หิมะ (hima) {th-noun} :: snow
 ===snuff===
   สูด (sood) (verb) :: To snuff.
 ===so===
@@ -7733,8 +7747,8 @@ Index: EN EN->TH
 ===speak===
   พูด (pôot) (verb) :: to speak
 ===speakers===
-  ผม :: I; me. For male speakers.
-  ฉัน :: I; me (for female speakers)
+  ผม (pŏm) (pronoun) :: I; me. For male speakers.
+  ฉัน (chăn) (pronoun) :: I; me (for female speakers)
 ===spear===
   ปฏัก (patak) (noun) :: spear
 ===speech===
@@ -8031,7 +8045,7 @@ Index: EN EN->TH
   ฬ (l; law ju lā) :: The 42nd letter of the Thai alphabet
   อ (a; āw āng) :: The 43rd letter of the Thai alphabet
   ฮ (h; haw nok hūk) :: The 44th letter of the Thai alphabet
-  ฤ (r; reu) :: A letter of the Thai alphabet.
+  ฤ (r; reu) :: A letter of the Thai alphabet; it is usually regarded as a vowel.
   ฤๅ (ṝ; reu) (letter) :: A letter of the Thai alphabet, considered a vowel.
   ฦ (l; leu) :: {obsolete}A letter of the Thai alphabet.
   ฦๅ (ḹ; leu) (letter) :: A letter of the Thai alphabet, considered a vowel.
@@ -8074,14 +8088,14 @@ Index: EN EN->TH
 ===than===
   อา (aa) (noun) :: An paternal aunt who is younger than one's father.
 ===them===
-  เขา (kʰao) (pronoun) :: they/them
+  เขา (kăo) (pronoun) :: they / them
 ===there===
   มี (mee) {th-verb} :: there is, there are
     ฉันมีหมวกหนึ่งใบ :: --
     I have a hat :: --
 ===they===
   เพื่อน (phuean) (pronoun) :: he, she, they
-  เขา (kʰao) (pronoun) :: they/them
+  เขา (kăo) (pronoun) :: they / them
 ===They===
   รัก (rak) (verb) :: to love
     พวกเขารักกันมาก :: They love each other so much.
@@ -8092,7 +8106,7 @@ Index: EN EN->TH
   คิด (khid) (verb) :: to think
   นึก (nuek) (verb) :: To think.
 ===third===
-  คุณ (khun) (particle) :: (particle used to formalize second and third person pronouns)
+  คุณ (kun) (particle) :: (particle used to formalize second and third person pronouns)
   ฃ (kh; khǎw khùad) :: {obsolete}The third letter of the Thai alphabet.
 ===thirteen===
   สิบสาม (sìp săam) (noun) :: thirteen
@@ -8153,8 +8167,8 @@ Index: EN EN->TH
   ไหม (măi) (particle) :: final interrogative particle.
     คุณเป็นนักท่องเที่ยวใช่ไหม? (koon bpen náktôngtîeow châi măi?) :: You’re a tourist, is that right?
 ===town===
-  เมือง (meuang) (noun) :: city, town
-  นคร (nakorn) (noun) :: city, town
+  เมือง (meuang) {th-noun} :: city, town
+  นคร (nakorn) {th-noun} :: city, town
 ===traditional===
   แคน (këën) (noun) :: khene (traditional free reed mouth organ of Laos and northeast Thailand)
   ระนาด (ránâat) (noun) :: {musical instruments} generic term for traditional Thai keyboard percussion instruments (most often xylophones, but also including metallophones and crystallophones)
@@ -8223,7 +8237,7 @@ Index: EN EN->TH
   วัด (wát) (verb) :: to use
   ใช้ (chai) (verb) :: to use
 ===used===
-  คุณ (khun) (particle) :: (particle used to formalize second and third person pronouns)
+  คุณ (kun) (particle) :: (particle used to formalize second and third person pronouns)
   ฉิ่ง (ching) :: a pair of small cymbals used in the classical and folk music of Thailand
   ณ (nā) (preposition) :: of, from (a kingdom, when used as a part of a Thai noble family name)
   อุทัย (uthai) (verb) :: To rise (used by Sun or stars).
@@ -8236,6 +8250,7 @@ Index: EN EN->TH
   แก้ว (gâew) (noun) :: drinking glass, cup, crystal
     เขากำลังใช้แก้วใบนั้นดื่มนม :: She is using that glass to drink milk.
 ===usually===
+  ฤ (r; reu) :: A letter of the Thai alphabet; it is usually regarded as a vowel.
   หมื่น (mèun) (number) :: a lower rank in the Thai nobility, usually held by relatively junior officers
 ===variety===
   ประการ (prakān) (noun) :: variety
@@ -8280,6 +8295,7 @@ Index: EN EN->TH
 ===volleyball===
   ตะกร้อ (noun) {{IPA|/ta krɔː/}} :: sepak takraw, rattan ball, kick volleyball
 ===vowel===
+  ฤ (r; reu) :: A letter of the Thai alphabet; it is usually regarded as a vowel.
   ฤๅ (ṝ; reu) (letter) :: A letter of the Thai alphabet, considered a vowel.
   ฦๅ (ḹ; leu) (letter) :: A letter of the Thai alphabet, considered a vowel.
 ===wait===
@@ -8293,7 +8309,7 @@ Index: EN EN->TH
 ===wall===
   ภิตติ (pid ti) (noun) :: wall
 ===walrus===
-  วอลรัส (walrus) (noun) :: A walrus
+  วอลรัส (walrus) {th-noun} :: walrus
 ===want===
   อยาก (/jɑːg/) (verb) :: To want.
 ===wart===
@@ -8394,9 +8410,9 @@ Index: EN EN->TH
 ===yet===
   ถึงอย่างนั้น (thueng yāng nan) (conjunction) :: yet
 ===you===
-  เธอ (tʰer) (pronoun) :: you
+  คุณ (kun) (pronoun) :: you
+  เธอ (ter) (pronoun) :: you
 ===You===
-  คุณ :: You.
   ท่าน :: You.
   ไหม (măi) (particle) :: final interrogative particle.
     คุณเป็นนักท่องเที่ยวใช่ไหม? (koon bpen náktôngtîeow châi măi?) :: You’re a tourist, is that right?

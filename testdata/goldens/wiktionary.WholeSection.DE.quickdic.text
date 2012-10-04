@@ -55,6 +55,8 @@ From {{proto|Germanic|ab|lang=goh}}.
 ---->>>
 ===ab-===
 HtmlEntry: ab- <<<
+<h3>Etymology</h3>
+From {{etyl|goh|de}} {{term|ab|lang=goh}}, from {{proto|Germanic|ab}}.
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x5b;&#x294;&#x61;&#x70;&#x5d;</li>
 </ul>
@@ -130,9 +132,11 @@ HtmlEntry: aberrant <<<
 
 <h3>Adjective</h3>
 {{de-adj|aberranter|aberrantesten}}
-<ol><li> <a href="qd::aberrant">aberrant</a></li>
+<ol><li> {{l|en|aberrant}}</li>
 </ol>
----->>>
+
+<h4>Declension</h4>
+{{de-decl-adj|aberrant|aberranter|aberrantest}}---->>>
 ===abnormal===
 HtmlEntry: abnormal <<<
 <h3>Pronunciation</h3>
@@ -178,14 +182,21 @@ HtmlEntry: also <<<
 </ul>
 
 <h3>Interjection</h3>
-<b>also!</b>
-<ol><li> <a href="qd::so">so</a>!</li>
+{{head|de|interjection|head=also!}}
+<ol><li> <a href="qd::so">so</a>!; <a href="qd::all right">all right</a>!; used as a lead-in or to start a new topic.</li>
 </ol>
 
 <h3>Adverb</h3>
-<b>also</b>
+{{head|de|adverb}}
 <ol><li> <a href="qd::so">so</a></li>
 <li> <a href="qd::thus">thus</a></li>
+</ol>
+---->>>
+===AM===
+HtmlEntry: AM <<<
+<h3>Acronym</h3>
+{{de-acronym|g=n}}
+<ol><li> {{software|development}} {{acronym of|w:de:Anwendungsmanagement|Anwendungsmanagement}}</li>
 </ol>
 ---->>>
 ===an===
@@ -221,10 +232,11 @@ HtmlEntry: Angola <<<
 HtmlEntry: April <<<
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-April.ogg|audio}}</li>
+<li> IPA: &#x2f;&#x61;&#x27;&#x70;&#x281;&#x26a;&#x6c;&#x2f;</li>
 </ul>
 
 <h3>Noun</h3>
-{{head|de|noun|g=m}}
+{{de-noun|g=m|pl=Aprile}}
 <ol><li> {{l|en|April}}</li>
 </ol>
 ---->>>
@@ -258,7 +270,7 @@ HtmlEntry: Bahrain <<<
 ===Bangladesh===
 HtmlEntry: Bangladesh <<<
 <h3>Proper noun</h3>
-{{head|de|proper noun}} <em>no gender</em>
+{{head|de|proper noun|n}} 
 <ol><li> {{alternative spelling of|Bangladesch}}</li>
 </ol>
 ---->>>
@@ -579,8 +591,8 @@ HtmlEntry: een <<<
 <ol><li> {{context|in some dialects, including|_|Low Prussian|lang=nds}} {{context|in some dialects|lang=nds}} {{alternative spelling of|en|lang=nds|nodot=1}} : <a href="qd::a">a</a>, <a href="qd::an">an</a></li>
 </ol>
 
-<h3>Cardinal number</h3>
-{{head|nds|cardinal number}}
+<h3>Numeral</h3>
+{{head|nds|numeral}}
 <ol><li> {{context|in some dialects|lang=nds}} {{context|in some dialects|lang=nds}} {{alternative spelling of|en|lang=nds|nodot=1}} : <a href="qd::one">one</a> (1)</li>
 </ol>
 ---->>>
@@ -608,8 +620,8 @@ Cognate to {{etyl|de|-}} <a href="qd::ein">ein</a>, {{etyl|en|-}} <a href="qd::a
 <ol><li> {{context|in some dialects|lang=nds}} <a href="qd::a">a</a>, <a href="qd::an">an</a></li>
 </ol>
 
-<h3>Cardinal number</h3>
-{{head|nds|cardinal number}}
+<h3>Numeral</h3>
+{{head|nds|numeral}}
 <ol><li> {{context|in some dialects, including|_|Low Prussian|lang=nds}} <a href="qd::one">one</a> (1)</li>
 </ol>
 ---->>>
@@ -626,6 +638,12 @@ HtmlEntry: Esperanto <<<
 ---->>>
 ===Fabian===
 HtmlEntry: Fabian <<<
+<h3>Etymology</h3>
+Borrowed from {{etyl|la|de}} {{term|Fabianus|belonging to Fabius|lang=la}}.
+<h3>Pronunciation</h3>
+<ul><li> IPA: &#x2f;&#x2c8;&#x66;&#x61;&#x2d0;&#x62;&#x69;&#x61;&#x6e;&#x2f;</li>
+</ul>
+
 <h3>Proper noun</h3>
 {{head|de|proper noun}}
 <ol><li> {{given name|male}}</li>
@@ -738,10 +756,20 @@ HtmlEntry: google <<<
 ---->>>
 ===gratis===
 HtmlEntry: gratis <<<
+<h3>Pronunciation</h3>
+<ul><li> IPA: &#x2f;&#x2c8;&#x67;&#x281;&#x61;&#x2d0;&#x74;&#x26a;&#x73;&#x2f;</li>
+</ul>
+
 <h3>Adverb</h3>
-<b>gratis</b>
+{de-adv}
 <ol><li> <a href="qd::free">free</a>, without <a href="qd::charge">charge</a></li>
 </ol>
+
+<h4>Synonyms</h4>
+<ul><li> {{l|de|umsonst}}</li>
+<li> {{l|de|kostenlos}}</li>
+<li> {{l|de|kostenfrei}}</li>
+</ul>
 ---->>>
 ===Guatemala===
 HtmlEntry: Guatemala <<<
@@ -794,6 +822,7 @@ From {{etyl|goh|de}} {{term|hus|&#x68;&#x16b;&#x73;|lang=goh}}, from {{proto|Ger
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x5b;&#x68;&#x61;&#x28a;&#x32f;&#x73;&#x5d;</li>
 <li> {{audio|De-Haus.ogg|audio}}</li>
+<li> {{rhymes|&#x61;&#x28a;&#x32f;&#x73;}}</li>
 </ul>
 
 <h3>Noun</h3>
@@ -864,9 +893,9 @@ From {{etyl|osx|nds}} {{term|ik|lang=osx}}, from {{proto|Germanic|ek|lang=nds}},
 
 <h3>Pronoun</h3>
 {{head|nds|pronoun}}
-<ol><li> {{context|in some dialects|lang=nds}} <a href="qd::I">I</a> {{n-g|(first person singular pronoun)}}</li>
+<ol><li> {{context|in some dialects|lang=nds}} <a href="qd::I">I</a> {{non-gloss definition|(first person singular pronoun)}}</li>
 <ul><li> <em>Ik kem, ik seg, ik w&uuml;nd</em> ({nds}) / <em>Ik keem, ik keek, ik wun</em> ({pdt})</li>
-<ul><li> I came, I saw, I conquered. (<em>veni, vidi, vici</em>, attributed to <a href="qd::w:Julius Caesar">w:Julius Caesar</a>.)</li>
+<ul><li> I came, I saw, I conquered. (<em>veni, vidi, vici</em>, attributed to {{w|Julius Caesar}}.)</li>
 </ul>
 </ul>
 </ol>
@@ -948,7 +977,7 @@ HtmlEntry: is <<<
 <h3>Etymology</h3>
 From {{proto|Germanic|&#x12b;&#x73;&#x61;&#x6e;|lang=goh}}
 <h3>Noun</h3>
-<b>&#x12b;&#x73;</b>
+{{head|goh|noun|head=&#x12b;&#x73;}}
 <ol><li> <a href="qd::ice">ice</a></li>
 </ol>
 ---->>>
@@ -973,6 +1002,8 @@ HtmlEntry: Israel <<<
 ---->>>
 ===Japan===
 HtmlEntry: Japan <<<
+<h3>Etymology</h3>
+From {{etyl|nl|de}} {{term|Japan|lang=nl}} or {{etyl|pt|de}} {{term|Jap&atilde;o|lang=pt}}, from {{etyl|ms|de}} {{term|Jepang|lang=ms}}, from {{term|Jepun|lang=ms}}, from {{etyl|nan|de}} {{term|&#x65e5;&#x672c;|tr=&#x4a;&#x69;&#x30d;&#x74;&#x2d;&#x70;&#xfa;&#x6e;|lang=nan}}.
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x2c8;&#x6a;&#x61;&#x2d0;&#x70;&#x61;&#x2d0;&#x6e;&#x2f;</li>
 <li> {{audio|De-Japan.ogg|audio}}</li>
@@ -1235,23 +1266,6 @@ HtmlEntry: Niger <<<
 <li> <a href="qd::nigrisch">nigrisch</a></li>
 </ul>
 ---->>>
-===Nigeria===
-HtmlEntry: Nigeria <<<
-<h3>Pronunciation</h3>
-<ul><li> {{audio|De-Nigeria.ogg|Audio}}</li>
-</ul>
-
-<h3>Proper noun</h3>
-{{head|de|proper noun}} {n}
-<ol><li> {{l|en|Nigeria}}</li>
-</ol>
-
-<h4>Derived terms</h4>
-<ul><li> <a href="qd::Nigerianer">Nigerianer</a></li>
-<li> <a href="qd::Nigerianerin">Nigerianerin</a></li>
-<li> <a href="qd::nigerianisch">nigerianisch</a></li>
-</ul>
----->>>
 ===nine===
 HtmlEntry: nine <<<
 <h3>Alternative forms</h3>
@@ -1262,8 +1276,8 @@ HtmlEntry: nine <<<
 <ul><li> {{IPA|&#x2f;&#x2c8;&#x6e;&#x69;&#x6e;&#x259;&#x2f;|lang=gsw}}</li>
 </ul>
 
-<h3>Cardinal number</h3>
-{{head|gsw|cardinal number}}
+<h3>Numeral</h3>
+{{head|gsw|numeral}}
 <ol><li> {{context|Alsatian|lang=gsw}} {{l|en|nine}}</li>
 </ol>
 ---->>>
@@ -1275,7 +1289,7 @@ HtmlEntry: November <<<
 </ul>
 
 <h3>Noun</h3>
-{{head|de|noun|g=m}}
+{{de-noun|g=m|pl=November}}
 <ol><li> {{l|en|November}}</li>
 </ol>
 ---->>>
@@ -1355,7 +1369,7 @@ HtmlEntry: PM <<<
 </ul>
 <li> <a href="qd::Papiermaschine">Papiermaschine</a></li>
 </ol>
->>>
+---->>>
 ===rauf===
 See also HtmlEntry:ab-
 ===regional===
@@ -1480,15 +1494,21 @@ From {{etyl|goh|de}} {{term|umbi|lang=goh}}, from {{proto|Germanic|umbi}}.
 ---->>>
 ===umsonst===
 HtmlEntry: umsonst <<<
+<h3>Pronunciation</h3>
+<ul><li> IPA: &#x2f;&#x28a;&#x6d;&#x2c8;&#x7a;&#x254;&#x6e;&#x73;&#x74;&#x2f;</li>
+</ul>
+
 <h3>Adverb</h3>
-<b>umsonst</b>
+{{head|de|adverb}}
 <ol><li> <a href="qd::free">free</a> of charge, <a href="qd::gratis">gratis</a></li>
 <li> having done something <a href="qd::without">without</a> <a href="qd::success">success</a></li>
 </ol>
 
-<h3>See also</h3>
-<ul><li><a href="qd::frei">frei</a></li>
-<li><a href="qd::kostenlos">kostenlos</a></li>
+<h4>Synonyms</h4>
+<ul><li> {{sense|free of charge, gratis}} {{l|de|gratis}}</li>
+<li> {{sense|free of charge, gratis}} {{l|de|kostenlos}}</li>
+<li> {{sense|free of charge, gratis}} {{l|de|kostenfrei}}</li>
+<li> {{sense|without success}} {{l|de|erfolglos}}</li>
 </ul>
 >>>
 ===ungebunden===
@@ -1498,7 +1518,7 @@ See also HtmlEntry:frei
 ===urban===
 HtmlEntry: urban <<<
 <h3>Pronunciation</h3>
-<ul><li> IPA: &#x2f;&#x2c8;&#x28a;&#x250;&#x32f;&#x62;&#x61;&#x6e;&#x2f;</li>
+<ul><li> IPA: &#x2f;&#x28a;&#x281;&#x2c8;&#x62;&#x61;&#x2d0;&#x6e;&#x2f;, &#x5b;&#x28a;&#x250;&#x32f;&#x2c8;&#x62;&#x61;&#x2d0;&#x6e;&#x5d;</li>
 </ul>
 
 <h3>Adjective</h3>
