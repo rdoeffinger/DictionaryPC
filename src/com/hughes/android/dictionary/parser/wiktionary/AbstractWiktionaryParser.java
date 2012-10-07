@@ -109,7 +109,7 @@ public abstract class AbstractWiktionaryParser implements Parser {
     counter.incrementAndGet();
   }
   
-  public void addLinkToCurrentEntry(final String token, final EntryTypeName entryTypeName) {
+  public void addLinkToCurrentEntry(final String token, final String lang, final EntryTypeName entryTypeName) {
       assert false : token + ", title=" + title;
   }
 

@@ -1,12 +1,12 @@
-Compression
-{{de-conj
 {{term
 {{etyl
+{{l
+{{de-conj
 Spaces in links are done wrong: "perche mai",click "why on earth", see "why%20..."
 Delete it conjugation of entries.
 
 
-
+Compression for PairEntries!
 delete these entries:
 # {{conjugation of|abalienare||2|p|pres|ind|lang=it}}
 # {{conjugation of|abalienare||2|p|imp|lang=it}}
@@ -130,4 +130,5 @@ Links in HTML work: mostly, they don't open with the keyboard open
 when edit text loses focus, all highlighted: impossible if it's not focused.
 Web view search works.
 EN dictionaries.
+Compression
   

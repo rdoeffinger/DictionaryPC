@@ -21,7 +21,9 @@ import com.hughes.android.dictionary.parser.wiktionary.AbstractWiktionaryParser.
 import com.hughes.android.dictionary.parser.wiktionary.AbstractWiktionaryParser.NameAndArgs;
 import com.hughes.util.ListUtil;
 import com.hughes.util.MapUtil;
+import com.hughes.util.StringUtil;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.LinkedHashMap;
 import java.util.LinkedHashSet;
@@ -41,6 +43,9 @@ class EnFunctionCallbacks {
       callbacks.put("n", callback);
       callbacks.put("p", callback);
       callbacks.put("g", callback);
+      
+      callbacks.put("etyl", new etyl<T>());
+      callbacks.put("term", new term<T>());
       
       callback = new EncodingCallback<T>();
       Set<String> encodings = new LinkedHashSet<String>(Arrays.asList(
@@ -607,6 +612,99 @@ class EnFunctionCallbacks {
     }
   }
   
+  static final class etyl<T extends AbstractWiktionaryParser> implements FunctionCallback<T> {
+      @Override
+      public boolean onWikiFunction(final WikiTokenizer wikiTokenizer, final String name, final List<String> args,
+          final Map<String, String> namedArgs,
+          final T parser,
+          final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
+        final String langCode = ListUtil.get(args, 0);
+        if (langCode == null) {
+            return false;
+        }
+        String langName = WiktionaryLangs.getEnglishName(langCode);
+        if (langName != null) {
+            appendAndIndexWikiCallback.dispatch(langName, null);
+        } else {
+            appendAndIndexWikiCallback.dispatch("lang:" + langCode, null);
+        }
+        return true;
+      }
+  }
+
+  static final class term<T extends AbstractWiktionaryParser> implements FunctionCallback<T> {
+      @Override
+      public boolean onWikiFunction(final WikiTokenizer wikiTokenizer, final String name, final List<String> args,
+          final Map<String, String> namedArgs,
+          final T parser,
+          final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
+        namedArgs.remove("sc");
+        
+        // Main text.
+        final String lang = namedArgs.remove("lang");
+        String head = ListUtil.get(args, 0);
+        String display = ListUtil.get(args, 1);
+        if (StringUtil.isNullOrEmpty(head) && StringUtil.isNullOrEmpty(display)) {
+            head = display = parser.title;
+        }
+        if (StringUtil.isNullOrEmpty(head)) {
+            // Dispatches formatted wiki text.
+            appendAndIndexWikiCallback.dispatch(display, null);
+        } else {
+            if (StringUtil.isNullOrEmpty(display)) {
+                display = head;
+            }
+            appendAndIndexWikiCallback.dispatch(String.format("[[%s|%s]]", display, head), null);
+        }
+        
+        // Stuff in ()s.
+        final String tr = namedArgs.remove("tr");
+        final String pos = namedArgs.remove("pos");
+        String gloss = ListUtil.get(args, 2);
+        String literally = namedArgs.remove("lit");
+        if (!StringUtil.isNullOrEmpty(gloss)) {
+            gloss = String.format("\"%s\"", gloss);
+        }
+        if (!StringUtil.isNullOrEmpty(literally)) {
+            literally = String.format("literally %s", literally);
+        }
+        final List<String> inParens = new ArrayList<String>(Arrays.asList(tr, pos, gloss, literally));
+        cleanList(inParens);
+        appendCommaSeparatedList(appendAndIndexWikiCallback, inParens);
+        
+        if (tr != null) {
+            parser.addLinkToCurrentEntry(tr, lang, EntryTypeName.WIKTIONARY_MENTIONED);
+        }
+        return namedArgs.isEmpty();
+      }
+
+    private void appendCommaSeparatedList(
+            final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback,
+            final List<String> inParens) {
+        if (!inParens.isEmpty()) {
+            appendAndIndexWikiCallback.dispatch(" (", null);
+            for (int i = 0; i < inParens.size(); ++i) {
+                if (i > 0) {
+                    appendAndIndexWikiCallback.dispatch(", ", null);
+                }
+                appendAndIndexWikiCallback.dispatch(inParens.get(i), null);
+            }
+            appendAndIndexWikiCallback.dispatch(")", null);
+        }
+    }
+
+  }
+
+  private static void cleanList(List<String> asList) {
+      int pos;
+      while ((pos = asList.indexOf("")) != -1) {
+          asList.remove(pos);
+      }
+      while ((pos = asList.indexOf(null)) != -1) {
+          asList.remove(pos);
+      }
+  }
+
 
   static {
     DEFAULT.put("it-noun", new it_noun());
@@ -1113,7 +1211,7 @@ static final class it_conj_are<T extends AbstractWiktionaryParser> implements Fu
             }
             appendAndIndexWikiCallback.dispatch(val, null);
             if (isForm) {
-                appendAndIndexWikiCallback.parser.addLinkToCurrentEntry(val, EntryTypeName.WIKTIONARY_INFLECTED_FORM_MULTI);
+                appendAndIndexWikiCallback.parser.addLinkToCurrentEntry(val, null, EntryTypeName.WIKTIONARY_INFLECTED_FORM_MULTI);
             }
         }
     }

@@ -174,5 +174,18 @@ public class WiktionaryLangs {
     isoCodeToWikiName.put("SV", Pattern.quote("{{-sv-}}"));
 
   }
+  public static String getEnglishName(String langCode) {
+      String name = isoCodeToEnWikiName.get(langCode);
+      if (name == null) {
+          name = isoCodeToEnWikiName.get(langCode.toUpperCase());
+      }
+      if (name == null) {
+          return null;
+      }
+      if (name.indexOf('|') != -1) {
+          return name.substring(name.indexOf('|'));
+      }
+      return name;  // can be null.
+  }
   
 }

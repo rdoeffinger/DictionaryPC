@@ -117,7 +117,7 @@ public class IndexBuilder {
     final String token;
         
     final Map<EntryTypeName, List<IndexedEntry>> typeToEntries = new EnumMap<EntryTypeName, List<IndexedEntry>>(EntryTypeName.class);
-    boolean hasMainEntry = false;
+    public boolean hasMainEntry = false;
     
     public List<HtmlEntry> htmlEntries = new ArrayList<HtmlEntry>();
     

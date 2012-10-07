@@ -32,7 +32,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
     }
     static final Map<String,LangConfig> isoToLangConfig = new LinkedHashMap<String,LangConfig>();
     static {
-        final Pattern enSkipSections = Pattern.compile(".*Translations|Anagrams|References.*");
+        final Pattern enSkipSections = Pattern.compile(".*(Translations|Anagrams|References).*");
         isoToLangConfig.put("EN", new LangConfig() {
             @Override
             public boolean skipSection(String headingText) {
@@ -48,7 +48,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
                     return EntryTypeName.ANTONYM_MULTI;
                 }
                 if (EnParser.partOfSpeechHeader.matcher(sectionName).matches()) {
-                    // We need to put it in the other index, too.
+                    // We need to put it in the other index, too (probably)
                     return null;
                 }
                 if (sectionName.equalsIgnoreCase("Derived Terms")) {
@@ -87,6 +87,104 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
             }
         });
         
+        final Pattern deSkipSections = Pattern.compile(".*(Übersetzungen|Referenzen|Quellen).*");
+        isoToLangConfig.put("DE", new LangConfig() {
+            @Override
+            public boolean skipSection(String headingText) {
+                return deSkipSections.matcher(headingText).matches();
+            }
+            
+            @Override
+            public EntryTypeName sectionNameToEntryType(String sectionName) {
+                if (sectionName.equalsIgnoreCase("Synonyme")) {
+                    return EntryTypeName.SYNONYM_MULTI;
+                }
+                if (sectionName.equalsIgnoreCase("Gegenwörter")) {
+                    return EntryTypeName.ANTONYM_MULTI;
+                }
+                return null;
+            }
+            
+            @Override
+            public boolean skipWikiLink(WikiTokenizer wikiTokenizer) {
+                final String wikiText = wikiTokenizer.wikiLinkText();
+                if (wikiText.startsWith("???Category:")) {
+                    return true;
+                }
+                return false;
+            }
+            @Override
+            public String adjustWikiLink(String wikiLinkDest, String wikiLinkText) {
+                if (wikiLinkDest.startsWith("w:") || wikiLinkDest.startsWith("Image:")) {
+                    return null;
+                }
+                final int hashPos = wikiLinkDest.indexOf("#");
+                if (hashPos != -1) {
+                    wikiLinkDest = wikiLinkDest.substring(0, hashPos);
+                    if (wikiLinkDest.isEmpty()) {
+                        wikiLinkDest = wikiLinkText;
+                    }
+                }
+                return wikiLinkDest;
+            }
+
+            @Override
+            public void addFunctionCallbacks(
+                    Map<String, FunctionCallback<WholeSectionToHtmlParser>> functionCallbacks) {
+                DeFunctionCallbacks.addGenericCallbacks(functionCallbacks);
+            }
+        });
+        
+        final Pattern itSkipSections = Pattern.compile(".*(Traduzione|Note / Riferimenti).*");
+        isoToLangConfig.put("IT", new LangConfig() {
+            @Override
+            public boolean skipSection(String headingText) {
+                return itSkipSections.matcher(headingText).matches();
+            }
+            
+            @Override
+            public EntryTypeName sectionNameToEntryType(String sectionName) {
+                if (sectionName.equalsIgnoreCase("Sinonimi")) {
+                    return EntryTypeName.SYNONYM_MULTI;
+                }
+                if (sectionName.equalsIgnoreCase("Antonimi/Contrari")) {
+                    return EntryTypeName.ANTONYM_MULTI;
+                }
+                return null;
+            }
+            
+            @Override
+            public boolean skipWikiLink(WikiTokenizer wikiTokenizer) {
+                final String wikiText = wikiTokenizer.wikiLinkText();
+                if (wikiText.startsWith("???Category:")) {
+                    return true;
+                }
+                return false;
+            }
+            @Override
+            public String adjustWikiLink(String wikiLinkDest, String wikiLinkText) {
+                if (wikiLinkDest.startsWith("w:") || wikiLinkDest.startsWith("Image:")) {
+                    return null;
+                }
+                final int hashPos = wikiLinkDest.indexOf("#");
+                if (hashPos != -1) {
+                    wikiLinkDest = wikiLinkDest.substring(0, hashPos);
+                    if (wikiLinkDest.isEmpty()) {
+                        wikiLinkDest = wikiLinkText;
+                    }
+                }
+                return wikiLinkDest;
+            }
+
+            @Override
+            public void addFunctionCallbacks(
+                    Map<String, FunctionCallback<WholeSectionToHtmlParser>> functionCallbacks) {
+                ItFunctionCallbacks.addGenericCallbacks(functionCallbacks);
+            }
+        });
+
+
+        
         final LangConfig basicLangConfig = new LangConfig() {
             @Override
             public boolean skipSection(String headingText) {
@@ -115,8 +213,6 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
             }
         };
         isoToLangConfig.put("FR", basicLangConfig);
-        isoToLangConfig.put("DE", basicLangConfig);
-        isoToLangConfig.put("IT", basicLangConfig);
     }
 
     final IndexBuilder titleIndexBuilder;
@@ -160,6 +256,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
         indexedEntry.isValid = true;
 
         final TokenData tokenData = titleIndexBuilder.getOrCreateTokenData(title);
+        tokenData.hasMainEntry = true;
 
         htmlEntry.addToDictionary(titleIndexBuilder.index.dict);
         tokenData.htmlEntries.add(htmlEntry);
@@ -174,8 +271,10 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
     }
     
     @Override
-    public void addLinkToCurrentEntry(String token, EntryTypeName entryTypeName) {
-        titleIndexBuilder.addEntryWithString(indexedEntry, token, entryTypeName);
+    public void addLinkToCurrentEntry(String token, final String lang, EntryTypeName entryTypeName) {
+        if (lang == null || lang.equals(skipLangIso)) {
+            titleIndexBuilder.addEntryWithString(indexedEntry, token, entryTypeName);
+        }
     }
     
     public static String escapeHtmlLiteral(final String plainText) {
@@ -219,7 +318,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
                 // TODO: inside a definition, this could be the wrong language.
                 titleIndexBuilder.addEntryWithString(indexedEntry, wikiTokenizer.wikiLinkText(), sectionEntryTypeName);
             }
-            if (linkDest != null) {
+            if (!StringUtil.isNullOrEmpty(linkDest)) {
                 builder.append(String.format("<a href=\"%s\">", HtmlEntry.formatQuickdicUrl("", linkDest)));
                 super.onWikiLink(wikiTokenizer);
                 builder.append(String.format("</a>"));

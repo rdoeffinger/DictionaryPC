@@ -2,7 +2,7 @@ dictInfo=SomeWikiDataWholeSection
 EntrySource: wiktionary.WholeSection.DE.quickdic 26
 
 Index: DE DE->EN
-===A===
+***A***
 HtmlEntry: A <<<
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x294;&#x61;&#x2d0;&#x2f;</li>
@@ -26,10 +26,10 @@ HtmlEntry: A <<<
 </ul>
 </ol>
 ---->>>
-===ab===
+***ab***
 HtmlEntry: ab <<<
 <h3>Etymology</h3>
-From {{etyl|goh|de}} {{term|ab|lang=goh}}, from {{proto|Germanic|ab}}.
+From lang:goh <a href="qd::ab">ab</a>, from {{proto|Germanic|ab}}.
 <h3>Pronunciation</h3>
 <ul><li> IPA: /ap/</li>
 </ul>
@@ -53,10 +53,10 @@ From {{proto|Germanic|ab|lang=goh}}.
 <ol><li> <a href="qd::of">of</a></li>
 </ol>
 ---->>>
-===ab-===
+***ab-***
 HtmlEntry: ab- <<<
 <h3>Etymology</h3>
-From {{etyl|goh|de}} {{term|ab|lang=goh}}, from {{proto|Germanic|ab}}.
+From lang:goh <a href="qd::ab">ab</a>, from {{proto|Germanic|ab}}.
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x5b;&#x294;&#x61;&#x70;&#x5d;</li>
 </ul>
@@ -124,7 +124,7 @@ From {{etyl|goh|de}} {{term|ab|lang=goh}}, from {{proto|Germanic|ab}}.
 <ul><li> <a href="qd::ab">ab</a></li>
 </ul>
 ---->>>
-===aberrant===
+***aberrant***
 HtmlEntry: aberrant <<<
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-aberrant.ogg|Audio}}</li>
@@ -137,7 +137,7 @@ HtmlEntry: aberrant <<<
 
 <h4>Declension</h4>
 {{de-decl-adj|aberrant|aberranter|aberrantest}}---->>>
-===abnormal===
+***abnormal***
 HtmlEntry: abnormal <<<
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-abnormal.ogg|Audio}}</li>
@@ -148,7 +148,7 @@ HtmlEntry: abnormal <<<
 <ol><li> {{l|en|abnormal}}</li>
 </ol>
 >>>
-===abstinent===
+***abstinent***
 HtmlEntry: abstinent <<<
 <h3>Adjective</h3>
 {{de-adj|comparative=abstinenter|superlative=abstinentesten}}
@@ -160,7 +160,7 @@ HtmlEntry: abstinent <<<
 <li> <a href="qd::Abstinenzler">Abstinenzler</a></li>
 </ul>
 ---->>>
-===Afghanistan===
+***Afghanistan***
 HtmlEntry: Afghanistan <<<
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-Afghanistan.ogg|audio}}</li>
@@ -175,7 +175,7 @@ HtmlEntry: Afghanistan <<<
 <ul><li> <a href="qd::Afghane">Afghane</a>, <a href="qd::Afghani">Afghani</a>, <a href="qd::Afghanin">Afghanin</a>, <a href="qd::afghanisch">afghanisch</a></li>
 </ul>
 ---->>>
-===also===
+***also***
 HtmlEntry: also <<<
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-also.ogg|Audio}}</li>
@@ -192,7 +192,7 @@ HtmlEntry: also <<<
 <li> <a href="qd::thus">thus</a></li>
 </ol>
 ---->>>
-===AM===
+***AM***
 HtmlEntry: AM <<<
 <h3>Acronym</h3>
 {{de-acronym|g=n}}
@@ -201,7 +201,7 @@ HtmlEntry: AM <<<
 ---->>>
 ===an===
 See also HtmlEntry:ab-
-===Andorra===
+***Andorra***
 HtmlEntry: Andorra <<<
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-Andorra.ogg|Audio}}</li>
@@ -217,7 +217,7 @@ HtmlEntry: Andorra <<<
 <li> <a href="qd::andorranisch">andorranisch</a></li>
 </ul>
 ---->>>
-===Angola===
+***Angola***
 HtmlEntry: Angola <<<
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-Angola.ogg|Audio}}</li>
@@ -228,7 +228,7 @@ HtmlEntry: Angola <<<
 <ol><li> {{l|en|Angola}}</li>
 </ol>
 ---->>>
-===April===
+***April***
 HtmlEntry: April <<<
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-April.ogg|audio}}</li>
@@ -248,14 +248,14 @@ See also HtmlEntry:ab-
 See also HtmlEntry:man
 ===awer===
 See also HtmlEntry:man
-===Bahamas===
+***Bahamas***
 HtmlEntry: Bahamas <<<
 <h3>Proper noun</h3>
 {de-proper noun} {p}
 <ol><li> {{l|en|Bahamas}}</li>
 </ol>
 ---->>>
-===Bahrain===
+***Bahrain***
 HtmlEntry: Bahrain <<<
 <h3>Proper noun</h3>
 {{head|de|proper noun}}
@@ -267,14 +267,14 @@ HtmlEntry: Bahrain <<<
 <li> {{l|de|Bahrainerin}}</li>
 </ul>
 ---->>>
-===Bangladesh===
+***Bangladesh***
 HtmlEntry: Bangladesh <<<
 <h3>Proper noun</h3>
 {{head|de|proper noun|n}} 
 <ol><li> {{alternative spelling of|Bangladesch}}</li>
 </ol>
 ---->>>
-===Belize===
+***Belize***
 HtmlEntry: Belize <<<
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=n}}
@@ -287,7 +287,7 @@ HtmlEntry: Belize <<<
 <li> {{l|de|belizisch}}</li>
 </ul>
 ---->>>
-===Bhutan===
+***Bhutan***
 HtmlEntry: Bhutan <<<
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x62;&#x75;&#x2c8;&#x74;&#x61;&#x2d0;&#x6e;&#x2f;</li>
@@ -305,7 +305,7 @@ HtmlEntry: Bhutan <<<
 <li> {{l|de|Bhutanerin}}</li>
 </ul>
 ---->>>
-===blood===
+***blood***
 HtmlEntry: blood <<<
 <h3>Noun</h3>
 {{nds-noun|n}}
@@ -314,7 +314,7 @@ HtmlEntry: blood <<<
 ---->>>
 ===bloots===
 See also HtmlEntry:man
-===bot===
+***bot***
 HtmlEntry: bot <<<
 <h3>Verb</h3>
 {{head|de|verb form}}
@@ -322,21 +322,21 @@ HtmlEntry: bot <<<
 <li> {{form of|Third-person singular <a href="qd::preterite">preterite</a>|bieten}}</li>
 </ol>
 ---->>>
-===Burundi===
+***Burundi***
 HtmlEntry: Burundi <<<
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=n}}
 <ol><li> {{l|en|Burundi}}</li>
 </ol>
 ---->>>
-===Chile===
+***Chile***
 HtmlEntry: Chile <<<
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=n}}
 <ol><li> <a href="qd::Chile">Chile</a></li>
 </ol>
 ---->>>
-===China===
+***China***
 HtmlEntry: China <<<
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-China.ogg|audio}}</li>
@@ -350,10 +350,10 @@ HtmlEntry: China <<<
 <ol><li> {{l|en|China}} (country)</li>
 </ol>
 ---->>>
-===dat===
+***dat***
 HtmlEntry: dat <<<
 <h3>Etymology</h3>
-From {{etyl|osx|nds}} {{term|that|lang=osx}}.
+From lang:osx <a href="qd::that">that</a>.
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|&#x2f;&#x64;&#x251;&#x74;&#x2f;|lang=nds}}</li>
 </ul>
@@ -402,10 +402,10 @@ From {{etyl|osx|nds}} {{term|that|lang=osx}}.
 <ul><li> <a href="qd::wat">wat</a></li>
 </ul>
 ---->>>
-===de===
+***de***
 HtmlEntry: de <<<
 <h3>Etymology</h3>
-From {{etyl|osx|nds}}.
+From lang:osx.
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|&#x2f;&#x64;&#x25b;&#x26a;&#x32f;&#x2f;|lang=nds}}</li>
 </ul>
@@ -461,7 +461,7 @@ From {{etyl|osx|nds}}.
 <ul><li> The use as a relative pronoun might not be present in all dialects.</li>
 </ul>
 ---->>>
-===Dezember===
+***Dezember***
 HtmlEntry: Dezember <<<
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x5b;&#x64;&#x65;&#x2c8;&#x74;&#x73;&#x25b;&#x6d;&#x62;&#x250;&#x5d;, {{X-SAMPA|[de&quot;tsEmb6]}}</li>
@@ -474,10 +474,10 @@ HtmlEntry: Dezember <<<
 <ol><li> <a href="qd::December">December</a></li>
 </ol>
 ---->>>
-===dick===
+***dick***
 HtmlEntry: dick <<<
 <h3>Etymology</h3>
-From {{etyl|goh|de}} {{term|dicchi|lang=goh}} akin to {{etyl|osx|-}} {{term|thikki|lang=osx}}
+From lang:goh <a href="qd::dicchi">dicchi</a> akin to lang:osx <a href="qd::thikki">thikki</a>
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x64;&#x26a;&#x6b;&#x2f;</li>
 <li> {{audio|De-dick.ogg|audio}}</li>
@@ -495,7 +495,7 @@ From {{etyl|goh|de}} {{term|dicchi|lang=goh}} akin to {{etyl|osx|-}} {{term|thik
 <ul><li> <a href="qd::dicklich">dicklich</a></li>
 </ul>
 >>>
-===die===
+***die***
 HtmlEntry: die <<<
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x64;&#x69;&#x2d0;&#x2f;</li>
@@ -512,7 +512,7 @@ HtmlEntry: die <<<
 </ol>
 
 <h4>Usage notes</h4>
-The <a href="qd::definite article">definite article</a> {{term|die}} is the form of {{term|der|the}} used with the following types of noun phrases:
+The <a href="qd::definite article">definite article</a> <a href="qd::die">die</a> is the form of <a href="qd::der">der</a> (&quot;the&quot;) used with the following types of noun phrases:
 <ul><li> nominative singular feminine</li>
 <li> accusative singular feminine</li>
 <li> nominative plural for all genders</li>
@@ -532,10 +532,10 @@ The <a href="qd::definite article">definite article</a> {{term|die}} is the form
 </ol>
 
 <h4>Usage notes</h4>
-In a subordinate clause, {{term|die}} indicates a person or thing referenced in the main clause. It is used with plural or feminine singular antecedents.
+In a subordinate clause, <a href="qd::die">die</a> indicates a person or thing referenced in the main clause. It is used with plural or feminine singular antecedents.
 <h4>Declension</h4>
 {de-decl-relative pronoun}---->>>
-===dies===
+***dies***
 HtmlEntry: dies <<<
 <h3>Etymology</h3>
 A shortening of <em><a href="qd::dieses">dieses</a></em>
@@ -544,7 +544,7 @@ A shortening of <em><a href="qd::dieses">dieses</a></em>
 <ol><li> <a href="qd::this">this</a></li>
 </ol>
 ---->>>
-===digital===
+***digital***
 HtmlEntry: digital <<<
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-at-digital.ogg|Audio (Austria)}}</li>
@@ -556,7 +556,7 @@ HtmlEntry: digital <<<
 <li> {medicine} <a href="qd::digital">digital</a></li>
 </ol>
 ---->>>
-===Ecuador===
+***Ecuador***
 HtmlEntry: Ecuador <<<
 <h3>Pronunciation</h3>
 <ul><li> {{rhymes|&#x6f;&#x2d0;&#x250;&#x32f;}}</li>
@@ -573,7 +573,7 @@ HtmlEntry: Ecuador <<<
 <li> <a href="qd::ecuadorianisch">ecuadorianisch</a></li>
 </ul>
 ---->>>
-===een===
+***een***
 HtmlEntry: een <<<
 <h3>Alternative forms</h3>
 <ul><li> (in other dialects, including Low Prussian) {{l|nds|en}}</li>
@@ -596,10 +596,10 @@ HtmlEntry: een <<<
 <ol><li> {{context|in some dialects|lang=nds}} {{context|in some dialects|lang=nds}} {{alternative spelling of|en|lang=nds|nodot=1}} : <a href="qd::one">one</a> (1)</li>
 </ol>
 ---->>>
-===en===
+***en***
 HtmlEntry: en <<<
 <h3>Etymology</h3>
-Cognate to {{etyl|de|-}} <a href="qd::ein">ein</a>, {{etyl|en|-}} <a href="qd::an">an</a>.
+Cognate to German <a href="qd::ein">ein</a>, English <a href="qd::an">an</a>.
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|&#x2f;&#x2c8;&#x25b;&#x26a;&#x32f;&#x6e;&#x2f;|lang=nds}}</li>
 </ul>
@@ -625,7 +625,7 @@ Cognate to {{etyl|de|-}} <a href="qd::ein">ein</a>, {{etyl|en|-}} <a href="qd::a
 <ol><li> {{context|in some dialects, including|_|Low Prussian|lang=nds}} <a href="qd::one">one</a> (1)</li>
 </ol>
 ---->>>
-===Esperanto===
+***Esperanto***
 HtmlEntry: Esperanto <<<
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-Esperanto.ogg|audio}}</li>
@@ -636,10 +636,10 @@ HtmlEntry: Esperanto <<<
 <ol><li> <a href="qd::Esperanto">Esperanto</a></li>
 </ol>
 ---->>>
-===Fabian===
+***Fabian***
 HtmlEntry: Fabian <<<
 <h3>Etymology</h3>
-Borrowed from {{etyl|la|de}} {{term|Fabianus|belonging to Fabius|lang=la}}.
+Borrowed from Latin <a href="qd::Fabianus">Fabianus</a> (&quot;belonging to Fabius&quot;).
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x2c8;&#x66;&#x61;&#x2d0;&#x62;&#x69;&#x61;&#x6e;&#x2f;</li>
 </ul>
@@ -649,17 +649,17 @@ Borrowed from {{etyl|la|de}} {{term|Fabianus|belonging to Fabius|lang=la}}.
 <ol><li> {{given name|male}}</li>
 </ol>
 ---->>>
-===Fanny===
+***Fanny***
 HtmlEntry: Fanny <<<
 <h3>Proper noun</h3>
 {{head|de|proper noun}}
 <ol><li> {{given name|female}} borrowed from English.</li>
 </ol>
 ---->>>
-===frei===
+***frei***
 HtmlEntry: frei <<<
 <h3>Etymology</h3>
-{{etyl|goh|de}} {{term|fri|&#x66;&#x72;&#x12b;|lang=goh}}
+lang:goh <a href="qd::frī">fri</a>
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x66;&#x281;&#x61;&#x26a;&#x32f;&#x2f;</li>
 </ul>
@@ -696,7 +696,7 @@ HtmlEntry: frei <<<
 ---->>>
 ===freiheitlich===
 See also HtmlEntry:frei
-===Gambia===
+***Gambia***
 HtmlEntry: Gambia <<<
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=n}}
@@ -710,7 +710,7 @@ HtmlEntry: Gambia <<<
 <li> <a href="qd::Senegambia">Senegambia</a></li>
 </ul>
 ---->>>
-===Ghana===
+***Ghana***
 HtmlEntry: Ghana <<<
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x2c8;&#x67;&#x61;&#x2d0;&#x6e;&#x61;&#x2f;</li>
@@ -729,7 +729,7 @@ HtmlEntry: Ghana <<<
 <li> <a href="qd::Ghanesin">Ghanesin</a></li>
 </ul>
 ---->>>
-===global===
+***global***
 HtmlEntry: global <<<
 <h3>Adjective</h3>
 {{de-adj|-}}
@@ -744,7 +744,7 @@ HtmlEntry: global <<<
 <ul><li> {{sense|worldwide}} <a href="qd::lokal">lokal</a>, <a href="qd::regional">regional</a></li>
 </ul>
 ---->>>
-===google===
+***google***
 HtmlEntry: google <<<
 <h3>Verb</h3>
 <b>google</b>
@@ -754,7 +754,7 @@ HtmlEntry: google <<<
 <li> {{de-verb form of|googeln|3|s|k1}}</li>
 </ol>
 ---->>>
-===gratis===
+***gratis***
 HtmlEntry: gratis <<<
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x2c8;&#x67;&#x281;&#x61;&#x2d0;&#x74;&#x26a;&#x73;&#x2f;</li>
@@ -771,7 +771,7 @@ HtmlEntry: gratis <<<
 <li> {{l|de|kostenfrei}}</li>
 </ul>
 ---->>>
-===Guatemala===
+***Guatemala***
 HtmlEntry: Guatemala <<<
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=n}}
@@ -784,7 +784,7 @@ HtmlEntry: Guatemala <<<
 <li> {{l|de|guatemaltekisch}}</li>
 </ul>
 ---->>>
-===Guyana===
+***Guyana***
 HtmlEntry: Guyana <<<
 <h3>Proper noun</h3>
 <b>Guyana</b> {n}
@@ -798,7 +798,7 @@ HtmlEntry: Guyana <<<
 <li> <a href="qd::guyanisch">guyanisch</a></li>
 </ul>
 ---->>>
-===Haiti===
+***Haiti***
 HtmlEntry: Haiti <<<
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x68;&#x61;&#x2c8;&#x69;&#x2d0;&#x74;&#x69;&#x2f;</li>
@@ -815,10 +815,10 @@ HtmlEntry: Haiti <<<
 <li> {{l|de|haitianisch}}</li>
 </ul>
 ---->>>
-===Haus===
+***Haus***
 HtmlEntry: Haus <<<
 <h3>Etymology</h3>
-From {{etyl|goh|de}} {{term|hus|&#x68;&#x16b;&#x73;|lang=goh}}, from {{proto|Germanic|&#x68;&#x16b;&#x73;&#x61;&#x6e;}}.  Cognate with Dutch <em><a href="qd::huis">huis</a></em>, English <em><a href="qd::house">house</a></em>.
+From lang:goh <a href="qd::hūs">hus</a>, from {{proto|Germanic|&#x68;&#x16b;&#x73;&#x61;&#x6e;}}.  Cognate with Dutch <em><a href="qd::huis">huis</a></em>, English <em><a href="qd::house">house</a></em>.
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x5b;&#x68;&#x61;&#x28a;&#x32f;&#x73;&#x5d;</li>
 <li> {{audio|De-Haus.ogg|audio}}</li>
@@ -840,7 +840,7 @@ From {{etyl|goh|de}} {{term|hus|&#x68;&#x16b;&#x73;|lang=goh}}, from {{proto|Ger
 <li> <a href="qd::Haushalt">Haushalt</a></li>
 </ul>
 ---->>>
-===hell===
+***hell***
 HtmlEntry: hell <<<
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x68;&#x25b;&#x6c;&#x2f;</li>
@@ -865,7 +865,7 @@ See also HtmlEntry:ab-
 See also HtmlEntry:ab-
 ===hinunter===
 See also HtmlEntry:ab-
-===Honduras===
+***Honduras***
 HtmlEntry: Honduras <<<
 <h3>Proper noun</h3>
 <b>Honduras</b> {n}
@@ -879,14 +879,14 @@ HtmlEntry: Honduras <<<
 <li> <a href="qd::honduranisch">honduranisch</a></li>
 </ul>
 ---->>>
-===ik===
+***ik***
 HtmlEntry: ik <<<
 <h3>Alternative forms</h3>
 <ul><li> (Low Prussian) <a href="qd::öck">&ouml;ck</a>, <a href="qd::eck">eck</a></li>
 </ul>
 
 <h3>Etymology</h3>
-From {{etyl|osx|nds}} {{term|ik|lang=osx}}, from {{proto|Germanic|ek|lang=nds}}, from {{proto|Indo-European|&#xe9;&#x1f5;&#x68;&#x2082;|lang=nds}}.
+From lang:osx <a href="qd::ik">ik</a>, from {{proto|Germanic|ek|lang=nds}}, from {{proto|Indo-European|&#xe9;&#x1f5;&#x68;&#x2082;|lang=nds}}.
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|/ik/|lang=nds}}</li>
 </ul>
@@ -904,7 +904,7 @@ From {{etyl|osx|nds}} {{term|ik|lang=osx}}, from {{proto|Germanic|ek|lang=nds}},
 <ul><li> <a href="qd::mien">mien</a> (<em>possessive</em>: my, mine); <a href="qd::mi">mi</a> (<em>dative</em> (also generally used in place of the accusative): me); <a href="qd::wi">wi</a> (<em>plural</em>: we)</li>
 </ul>
 ---->>>
-===in===
+***in***
 HtmlEntry: in <<<
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x294;&#x26a;&#x6e;&#x2f;</li>
@@ -912,7 +912,7 @@ HtmlEntry: in <<<
 </ul>
 
 <h3>Etymology 1</h3>
-From {{etyl|goh|de}} {{term|in|lang=goh}}, from {{proto|Germanic|in}}.
+From lang:goh <a href="qd::in">in</a>, from {{proto|Germanic|in}}.
 <h4>Preposition</h4>
 {{head|de|preposition}}
 <ol><li> (<b>in</b> + <em>dative</em>) <a href="qd::in">in</a>; <a href="qd::within">within</a>; <a href="qd::at">at</a>; contained by</li>
@@ -925,7 +925,7 @@ From {{etyl|goh|de}} {{term|in|lang=goh}}, from {{proto|Germanic|in}}.
 </ol>
 
 <h5>Usage notes</h5>
-The preposition {{term|in}} is used with accusative case if the verb shows movement from one place to another, whereas it is used with dative case if the verb shows location.
+The preposition <a href="qd::in">in</a> is used with accusative case if the verb shows movement from one place to another, whereas it is used with dative case if the verb shows location.
 <h5>Derived terms</h5>
 <ul><li> (<b><em>in</b> + dem</em>) <a href="qd::im">im</a> {m|n}</li>
 <li> (<b><em>in</b> + das</em>) <a href="qd::ins">ins</a> {n}</li>
@@ -933,7 +933,7 @@ The preposition {{term|in}} is used with accusative case if the verb shows movem
 </ul>
 
 <h3>Etymology 2</h3>
-From {{etyl|en|de}} {{term|in|lang=en}}.
+From English <a href="qd::in">in</a>.
 <h4>Adjective</h4>
 {{de-adj|-}}
 <ol><li> <a href="qd::in">in</a>, <a href="qd::popular">popular</a></li>
@@ -953,7 +953,7 @@ HtmlEntry: in <<<
 <ol><li> <a href="qd::in">in</a></li>
 </ol>
 ---->>>
-===Iran===
+***Iran***
 HtmlEntry: Iran <<<
 <h3>Pronunciation</h3>
 <ul><li> {{rhymes|&#x61;&#x2d0;&#x6e;}}</li>
@@ -972,7 +972,7 @@ The article (<em><a href="qd::der">der</a></em>) is often used with the name of 
 <li> <a href="qd::Persisch">Persisch</a></li>
 </ul>
 ---->>>
-===is===
+***is***
 HtmlEntry: is <<<
 <h3>Etymology</h3>
 From {{proto|Germanic|&#x12b;&#x73;&#x61;&#x6e;|lang=goh}}
@@ -981,7 +981,7 @@ From {{proto|Germanic|&#x12b;&#x73;&#x61;&#x6e;|lang=goh}}
 <ol><li> <a href="qd::ice">ice</a></li>
 </ol>
 ---->>>
-===Israel===
+***Israel***
 HtmlEntry: Israel <<<
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-Israel.ogg|Audio}}</li>
@@ -1000,10 +1000,10 @@ HtmlEntry: Israel <<<
 <li> <a href="qd::Israeli">Israeli</a></li>
 </ul>
 ---->>>
-===Japan===
+***Japan***
 HtmlEntry: Japan <<<
 <h3>Etymology</h3>
-From {{etyl|nl|de}} {{term|Japan|lang=nl}} or {{etyl|pt|de}} {{term|Jap&atilde;o|lang=pt}}, from {{etyl|ms|de}} {{term|Jepang|lang=ms}}, from {{term|Jepun|lang=ms}}, from {{etyl|nan|de}} {{term|&#x65e5;&#x672c;|tr=&#x4a;&#x69;&#x30d;&#x74;&#x2d;&#x70;&#xfa;&#x6e;|lang=nan}}.
+From Dutch <a href="qd::Japan">Japan</a> or Portuguese <a href="qd::Japão">Jap&atilde;o</a>, from Malay <a href="qd::Jepang">Jepang</a>, from <a href="qd::Jepun">Jepun</a>, from lang:nan <a href="qd::日本">&#x65e5;&#x672c;</a> (&#x4a;&#x69;&#x30d;&#x74;&#x2d;&#x70;&#xfa;&#x6e;).
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x2c8;&#x6a;&#x61;&#x2d0;&#x70;&#x61;&#x2d0;&#x6e;&#x2f;</li>
 <li> {{audio|De-Japan.ogg|audio}}</li>
@@ -1021,7 +1021,7 @@ From {{etyl|nl|de}} {{term|Japan|lang=nl}} or {{etyl|pt|de}} {{term|Jap&atilde;o
 <li> <a href="qd::japanisch">japanisch</a></li>
 </ul>
 ---->>>
-===Kiribati===
+***Kiribati***
 HtmlEntry: Kiribati <<<
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=n}}
@@ -1034,7 +1034,7 @@ HtmlEntry: Kiribati <<<
 ---->>>
 ===kostenlos===
 See also HtmlEntry:frei
-===Kuwait===
+***Kuwait***
 HtmlEntry: Kuwait <<<
 <h3>Proper noun</h3>
 {{de-proper noun|g=n}}
@@ -1047,7 +1047,7 @@ HtmlEntry: Kuwait <<<
 <li> {{l|de|kuwaitisch}}</li>
 </ul>
 ---->>>
-===Laos===
+***Laos***
 HtmlEntry: Laos <<<
 <h3>Proper noun</h3>
 {{de-proper noun|g=n}}
@@ -1060,7 +1060,7 @@ HtmlEntry: Laos <<<
 <li> <a href="qd::laotisch">laotisch</a></li>
 </ul>
 ---->>>
-===last===
+***last***
 HtmlEntry: last <<<
 <h3>Verb</h3>
 {{head|de}}
@@ -1070,7 +1070,7 @@ HtmlEntry: last <<<
 ---->>>
 ===liberal===
 See also HtmlEntry:frei
-===Liberia===
+***Liberia***
 HtmlEntry: Liberia <<<
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x6c;&#x69;&#x2c8;&#x62;&#x65;&#x2d0;&#x281;&#x69;&#x61;&#x2f;</li>
@@ -1087,7 +1087,7 @@ HtmlEntry: Liberia <<<
 <li> {{l|de|liberianisch}}</li>
 </ul>
 ---->>>
-===Liechtenstein===
+***Liechtenstein***
 HtmlEntry: Liechtenstein <<<
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x2c8;&#x6c;&#x26a;&#xe7;&#x74;&#x6e;&#x329;&#x2cc;&#x283;&#x74;&#x61;&#x26a;&#x32f;&#x6e;&#x2f;</li>
@@ -1107,7 +1107,7 @@ HtmlEntry: Liechtenstein <<<
 ---->>>
 ===lokal===
 See also HtmlEntry:global
-===Malawi===
+***Malawi***
 HtmlEntry: Malawi <<<
 <h3>Proper noun</h3>
 <b>Malawi</b> {n}
@@ -1120,14 +1120,14 @@ HtmlEntry: Malawi <<<
 <li> <a href="qd::malawisch">malawisch</a></li>
 </ul>
 ---->>>
-===Malaysia===
+***Malaysia***
 HtmlEntry: Malaysia <<<
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=n}}
 <ol><li> <a href="qd::Malaysia">Malaysia</a></li>
 </ol>
 ---->>>
-===Mali===
+***Mali***
 HtmlEntry: Mali <<<
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-Mali.ogg|Audio}}</li>
@@ -1144,7 +1144,7 @@ HtmlEntry: Mali <<<
 <li> <a href="qd::malisch">malisch</a></li>
 </ul>
 ---->>>
-===Malta===
+***Malta***
 HtmlEntry: Malta <<<
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=n}}
@@ -1157,7 +1157,7 @@ HtmlEntry: Malta <<<
 <li> <a href="qd::Malteserin">Malteserin</a></li>
 </ul>
 ---->>>
-===man===
+***man***
 HtmlEntry: man <<<
 <h3>Etymology</h3>
 From the same source as <em><a href="qd::Mann">Mann</a></em> (&quot;adult male&quot;).&lt;ref&gt;Theo Stemmler: <em>Wie das Eisbein ins Lexikon kam,</em> page 15, ISBN 978-3-411-72291-4.&lt;/ref&gt;
@@ -1203,7 +1203,7 @@ From {{proto|Germanic|mann-|lang=goh}}.
 <ol><li> <a href="qd::man">man</a></li>
 </ol>
 ---->>>
-===Mauritius===
+***Mauritius***
 HtmlEntry: Mauritius <<<
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=n}}
@@ -1216,17 +1216,17 @@ HtmlEntry: Mauritius <<<
 <li> <a href="qd::mauritisch">mauritisch</a></li>
 </ul>
 ---->>>
-===Monaco===
+***Monaco***
 HtmlEntry: Monaco <<<
 <h3>Proper noun</h3>
 {{head|de|proper noun}}
 <ol><li> {{l|en|Monaco}}</li>
 </ol>
 ---->>>
-===most===
+***most***
 HtmlEntry: most <<<
 <h3>Etymology</h3>
-From {{etyl|la|goh}} {{term|mustum|lang=la}}.
+From Latin <a href="qd::mustum">mustum</a>.
 <h3>Noun</h3>
 {{goh-noun|g=m}}
 <ol><li> <a href="qd::must">must</a></li>
@@ -1234,7 +1234,7 @@ From {{etyl|la|goh}} {{term|mustum|lang=la}}.
 ---->>>
 ===na===
 See also HtmlEntry:nu
-===Namibia===
+***Namibia***
 HtmlEntry: Namibia <<<
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x6e;&#x61;&#x2c8;&#x6d;&#x69;&#x2d0;&#x62;&#x69;&#x61;&#x2f;</li>
@@ -1251,7 +1251,7 @@ HtmlEntry: Namibia <<<
 <li> {{l|de|namibisch}}</li>
 </ul>
 ---->>>
-===Niger===
+***Niger***
 HtmlEntry: Niger <<<
 <h3>Proper noun</h3>
 {{head|de|proper noun|g=m|g2=n}}
@@ -1266,7 +1266,7 @@ HtmlEntry: Niger <<<
 <li> <a href="qd::nigrisch">nigrisch</a></li>
 </ul>
 ---->>>
-===nine===
+***nine***
 HtmlEntry: nine <<<
 <h3>Alternative forms</h3>
 <ul><li> <a href="qd::nin">nin</a></li>
@@ -1281,7 +1281,7 @@ HtmlEntry: nine <<<
 <ol><li> {{context|Alsatian|lang=gsw}} {{l|en|nine}}</li>
 </ol>
 ---->>>
-===November===
+***November***
 HtmlEntry: November <<<
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x6e;&#x6f;&#x2c8;&#x76;&#x25b;&#x6d;&#x62;&#x250;&#x2f;</li>
@@ -1293,7 +1293,7 @@ HtmlEntry: November <<<
 <ol><li> {{l|en|November}}</li>
 </ol>
 ---->>>
-===nu===
+***nu***
 HtmlEntry: nu <<<
 <h3>Interjection</h3>
 {{head|de|interjection}}
@@ -1304,7 +1304,7 @@ HtmlEntry: nu <<<
 <ul><li> <a href="qd::na">na</a></li>
 </ul>
 ---->>>
-===o===
+***o***
 HtmlEntry: o <<<
 <h3>Particle</h3>
 {{head|de|particle}}
@@ -1313,7 +1313,7 @@ HtmlEntry: o <<<
 ---->>>
 HtmlEntry: o <<<
 <h3>Etymology</h3>
-From {{proto|Germanic|&#x61;&#x77;&#x6a;&#x14d;|lang=gml}}. Cognate with {{etyl|non|-}} {{term|ey|lang=non}} ({{etyl|sv|-}} {{term|&ouml;|lang=sv}}, {{etyl|no|-}} {{term|&oslash;y|lang=no}}).
+From {{proto|Germanic|&#x61;&#x77;&#x6a;&#x14d;|lang=gml}}. Cognate with lang:non <a href="qd::ey">ey</a> (Swedish <a href="qd::ö">&ouml;</a>, Norwegian <a href="qd::øy">&oslash;y</a>).
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|&#x2f;&#xf8;&#x2d0;&#x2f;|lang=gml}}</li>
 </ul>
@@ -1325,10 +1325,10 @@ From {{proto|Germanic|&#x61;&#x77;&#x6a;&#x14d;|lang=gml}}. Cognate with {{etyl|
 
 <h4>Usage notes</h4>
 Since this is actually an Umlaut, some Middle Low German authors will have written this word as io, &oslash;, &ouml; etc. depending on the system of marking the Umlaut. The semi-standard used in the prime of Middle Low German did not mark the Umlaut.---->>>
-===on===
+***on***
 HtmlEntry: on <<<
 <h3>Etymology</h3>
-Ultimately cognate to {{etyl|de|-}} <a href="qd::und">und</a>.
+Ultimately cognate to German <a href="qd::und">und</a>.
 <h3>Conjunction</h3>
 <b>und</b>
 <ol><li> {{context|in several dialects, including|_|Low Prussian|coordinating|lang=nds}} <a href="qd::and">and</a></li>
@@ -1338,10 +1338,10 @@ Ultimately cognate to {{etyl|de|-}} <a href="qd::und">und</a>.
 </ul>
 </ol>
 ---->>>
-===orange===
+***orange***
 HtmlEntry: orange <<<
 <h3>Etymology</h3>
-From the noun {{term|Orange}}
+From the noun <a href="qd::Orange">Orange</a>
 <h3>Pronunciation</h3>
 <ul><li> {{audio|De-orange.ogg|Audio}}</li>
 </ul>
@@ -1351,14 +1351,14 @@ From the noun {{term|Orange}}
 <ol><li> <a href="qd::orange-coloured">orange-coloured</a></li>
 </ol>
 ---->>>
-===planet===
+***planet***
 HtmlEntry: planet <<<
 <h3>Verb</h3>
 {{head|de}}
 <ol><li> {{de-verb form of|planen|2|p|k1}}</li>
 </ol>
 ---->>>
-===PM===
+***PM***
 HtmlEntry: PM <<<
 <h3>{{initialism|de}}</h3>
 <b>PM</b>
@@ -1376,7 +1376,7 @@ See also HtmlEntry:ab-
 See also HtmlEntry:global
 ===runter===
 See also HtmlEntry:ab-
-===September===
+***September***
 HtmlEntry: September <<<
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x7a;&#x25b;&#x70;&#x2c8;&#x74;&#x25b;&#x6d;&#x62;&#x250;&#x2f;</li>
@@ -1389,7 +1389,7 @@ HtmlEntry: September <<<
 <ol><li> {{l|en|September}}</li>
 </ol>
 ---->>>
-===SMS===
+***SMS***
 HtmlEntry: SMS <<<
 <h3>{{initialism|German}}</h3>
 {{head|de|initialism}}
@@ -1398,7 +1398,7 @@ HtmlEntry: SMS <<<
 
 <h4>Usage notes</h4>
 Used for naval ships of the <a href="qd::Austro-Hungarian Empire">Austro-Hungarian Empire</a> and the <a href="qd::Second Reich">Second Reich</a> of <a href="qd::Imperial Germany">Imperial Germany</a>, for the <a href="qd::Kaiserliche und Königliche Kriegsmarine">Kaiserliche und K&ouml;nigliche Kriegsmarine</a> and <a href="qd::Kaiserliche Marine">Kaiserliche Marine</a>, respectively.>>>
-===spring===
+***spring***
 HtmlEntry: spring <<<
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x283;&#x70;&#x280;&#x26a;&#x14b;&#x2f;</li>
@@ -1412,21 +1412,21 @@ HtmlEntry: spring <<<
 ---->>>
 ===städtisch===
 See also HtmlEntry:urban
-===synonym===
+***synonym***
 HtmlEntry: synonym <<<
 <h3>Adjective</h3>
 {{de-adj|-}}
 <ol><li> <a href="qd::synonymous">synonymous</a></li>
 </ol>
 ---->>>
-===UdSSR===
+***UdSSR***
 HtmlEntry: UdSSR <<<
 <h3>{{abbreviation|German}}</h3>
 <b>UdSSR</b> {f} (abbreviation of <em><a href="qd::Union der Sozialistischen Sowjet-Republiken">Union der Sozialistischen Sowjet-Republiken</a></em>)
 <ol><li> <a href="qd::USSR">USSR</a></li>
 </ol>
 >>>
-===Uhr===
+***Uhr***
 HtmlEntry: Uhr <<<
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x294;&#x75;&#x2d0;&#x250;&#x32f;&#x2f;</li>
@@ -1460,10 +1460,10 @@ HtmlEntry: Uhr <<<
 <ol><li> {{alternative spelling of|Ur|lang=nds}}</li>
 </ol>
 >>>
-===um===
+***um***
 HtmlEntry: um <<<
 <h3>Etymology</h3>
-From {{etyl|goh|de}} {{term|umbi|lang=goh}}, from {{proto|Germanic|umbi}}.
+From lang:goh <a href="qd::umbi">umbi</a>, from {{proto|Germanic|umbi}}.
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x28a;&#x6d;&#x2f;, {{X-SAMPA|/Um/}}</li>
 <li> {{audio|De-um.ogg|audio (Germany)}}</li>
@@ -1492,7 +1492,7 @@ From {{etyl|goh|de}} {{term|umbi|lang=goh}}, from {{proto|Germanic|umbi}}.
 </ul>
 </ol>
 ---->>>
-===umsonst===
+***umsonst***
 HtmlEntry: umsonst <<<
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x28a;&#x6d;&#x2c8;&#x7a;&#x254;&#x6e;&#x73;&#x74;&#x2f;</li>
@@ -1515,7 +1515,7 @@ HtmlEntry: umsonst <<<
 See also HtmlEntry:frei
 ===ungezwungen===
 See also HtmlEntry:frei
-===urban===
+***urban***
 HtmlEntry: urban <<<
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x28a;&#x281;&#x2c8;&#x62;&#x61;&#x2d0;&#x6e;&#x2f;, &#x5b;&#x28a;&#x250;&#x32f;&#x2c8;&#x62;&#x61;&#x2d0;&#x6e;&#x5d;</li>
@@ -1530,7 +1530,7 @@ HtmlEntry: urban <<<
 <ul><li> <a href="qd::städtisch">st&auml;dtisch</a></li>
 </ul>
 ---->>>
-===wage===
+***wage***
 HtmlEntry: wage <<<
 <h3>Verb</h3>
 {{head|de}}
@@ -1540,7 +1540,7 @@ HtmlEntry: wage <<<
 <li> {{de-verb form of|wagen|i|s}}</li>
 </ol>
 >>>
-===war===
+***war***
 HtmlEntry: war <<<
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x76;&#x61;&#x2d0;&#x250;&#x32f;&#x2f;</li>
@@ -1572,7 +1572,7 @@ HtmlEntry: war <<<
 </ul>
 
 <h3>Etymology</h3>
-Cognate to {{etyl|de|-}} <a href="qd::wahr">wahr</a>.
+Cognate to German <a href="qd::wahr">wahr</a>.
 <h3>Adjective</h3>
 {{head|nds|adjective}}
 <ol><li> {{context|in some dialects|lang=nds}} <a href="qd::true">true</a></li>
@@ -1588,14 +1588,14 @@ HtmlEntry: war <<<
 See also HtmlEntry:dat
 ===weltweit===
 See also HtmlEntry:global
-===wolf===
+***wolf***
 HtmlEntry: wolf <<<
 <h3>Noun</h3>
 <b>wolf</b> {m}
 <ol><li> <a href="qd::wolf">wolf</a></li>
 </ol>
 ---->>>
-===zwei===
+***zwei***
 HtmlEntry: zwei <<<
 <h3>Number</h3>
 {{head|gsw|number}}
@@ -1604,7 +1604,7 @@ HtmlEntry: zwei <<<
 ---->>>
 HtmlEntry: zwei <<<{{cardinalbox|de|1|2|3|eins|drei|ord=zweite}}
 <h3>Etymology</h3>
-From {{etyl|goh|de}} {{term|zwene|&#x7a;&#x77;&#x113;&#x6e;&#x65;|lang=goh}}.
+From lang:goh <a href="qd::zwēne">zwene</a>.
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x74;&#x73;&#x76;&#x61;&#x26a;&#x32f;&#x2f;</li>
 <li> {{audio|De-zwei.ogg|audio}}</li>

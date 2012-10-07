@@ -1,7 +1,7 @@
 dictInfo=SomeWikiDataWholeSection
-EntrySource: wiktionary.WholeSection.EN.quickdic 400
+EntrySource: SingleLang_EN.quickdic 400
 
-Index: EN EN->EN
+Index: EN EN
 ===a===
 See also HtmlEntry:crow
 See also HtmlEntry:trade
@@ -6977,6 +6977,4 @@ See also HtmlEntry:craft
 See also HtmlEntry:book
 ===ȝbw===
 See also HtmlEntry:elephant
-
-Index: EN EN->EN
 

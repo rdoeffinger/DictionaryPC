@@ -30,6 +30,7 @@ import junit.framework.TestCase;
 public class DictionaryBuilderTest extends TestCase {
   
   public static final String TEST_INPUTS = "testdata/inputs/";
+  public static final String WIKISPLIT = "data/inputs/wikiSplit/";
   public static final String WIKISPLIT_EN = "data/inputs/wikiSplit/en/";
   public static final String STOPLISTS = "data/inputs/stoplists/";
   public static final String GOLDENS = "testdata/goldens/";
@@ -61,7 +62,10 @@ public class DictionaryBuilderTest extends TestCase {
               "{{it-conj-iarsi-b|riavvi|essere}}" +
               "{{it-conj-fare|putre|avere}}\n" + 
               "{{it-conj-cirsi|cuc|essere}}\n" +
-              "{{it-conj-ere|smett|avere|pastp=smesso|prem1s=smisi|prem3s=smise|prem3s2=''|prem3p=smisero|prem3p2=''}}\n"
+              "{{it-conj-ere|smett|avere|pastp=smesso|prem1s=smisi|prem3s=smise|prem3s2=''|prem3p=smisero|prem3p2=''}}\n" +
+              "{{term||[[cor#Latin|Cor]] [[Carolus#Latin|Carolī]]|Charles' heart}}\n" +
+              "{{term|sc=Grek|λόγος|tr=lógos||word}}\n" +
+              "{{term|verbo|verbō|for the word}}\n"
               ;
       final DictionaryBuilder db = new DictionaryBuilder("", Language.en, Language.it,  "", "", Collections.singleton("X"), Collections.singleton("X"));
       WholeSectionToHtmlParser parser = new WholeSectionToHtmlParser(db.indexBuilders.get(0), null, "EN", "IT", "http://en.wiktionary.org/wiki/%s");
@@ -170,8 +174,43 @@ public class DictionaryBuilderTest extends TestCase {
     });
     checkGolden(name, result); 
   }
-
   
+  //-----------------------------------------------------------------
+
+  public void testSingleLang_EN() throws Exception {
+      wiktionaryTestSingleLang("SingleLang_EN.quickdic", "EN", 100);
+  }
+
+  public void testSingleLang_DE() throws Exception {
+      wiktionaryTestSingleLang("SingleLang_DE.quickdic", "DE", 100);
+  }
+
+  public void testSingleLang_IT() throws Exception {
+      wiktionaryTestSingleLang("SingleLang_IT.quickdic", "IT", 100);
+  }
+
+  public void wiktionaryTestSingleLang(final String name, final String langCode, final int pageLimit) throws Exception {
+      final File result = new File(TEST_OUTPUTS + name);
+      System.out.println("Writing to: " + result);
+      DictionaryBuilder.main(new String[] {
+          "--dictOut=" + result.getAbsolutePath(),
+          "--lang1=" + langCode,
+          "--lang1Stoplist=" + STOPLISTS + "empty.txt",
+          "--dictInfo=SomeWikiDataWholeSection",
+          "--input4=" + WIKISPLIT + langCode.toLowerCase() + "/" + langCode + ".data",
+          "--input4Name=" + name,
+          "--input4Format=" + WholeSectionToHtmlParser.NAME,
+          "--input4WiktionaryLang=" + langCode,
+          "--input4SkipLang=" + langCode,
+          "--input4TitleIndex=" + "1",
+          "--input4PageLimit=" + pageLimit,
+          "--print=" + result.getPath() + ".text",
+      });
+      checkGolden(name, result); 
+    }
+
+  //-----------------------------------------------------------------
+
   public void testWiktionary_IT_EN() throws Exception {
     wiktionaryTestWithLangToEn("wiktionary.it_en.quickdic", "IT", "it.txt",
         "EN.data", "enwiktionary.english", "Italian", "it", 1000);
