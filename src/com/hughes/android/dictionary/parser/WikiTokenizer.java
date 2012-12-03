@@ -121,8 +121,10 @@ public final class WikiTokenizer {
     this(wikiText, true);
   }
 
-  public WikiTokenizer(final String wikiText, final boolean isNewline) {
-    this.wikiText = wikiText.replaceAll("\u2028", "\n");
+  public WikiTokenizer(String wikiText, final boolean isNewline) {
+    wikiText = wikiText.replaceAll("\u2028", "\n");
+    wikiText = wikiText.replaceAll("\u0085", "\n");
+    this.wikiText = wikiText;
     this.matcher = wikiTokenEvent.matcher(wikiText);
     justReturnedNewline = isNewline;
   }

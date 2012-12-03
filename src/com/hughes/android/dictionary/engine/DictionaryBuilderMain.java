@@ -37,6 +37,7 @@ public class DictionaryBuilderMain extends TestCase {
   
   // Build the non EN ones.
   static final String[][] nonEnPairs = new String[][] {
+      /*
       {"EN"},
       {"DE"},
       {"IT"},
@@ -46,7 +47,6 @@ public class DictionaryBuilderMain extends TestCase {
       {"IT", "EN" },
       {"DE", "EN" },
       {"DE", "IT" },
-          
           
       {"AR", "DE" },
       {"AR", "ES" },
@@ -91,6 +91,7 @@ public class DictionaryBuilderMain extends TestCase {
       {"FR", "RU" },
       {"FR", "TR" },  // Turkish
       {"FR", "ZH" },
+      {"FR", "EL" },  
 
       {"IT", "DE" },
       {"IT", "EL" },  // Greek
@@ -132,6 +133,9 @@ public class DictionaryBuilderMain extends TestCase {
 
       {"FA", "HY" },  // Persian, Armenian, by request.
       {"FA", "SV" },  // Persian, Swedish, by request.
+      {"NL", "PL" },  // Dutch, Polish, by request.
+      
+      */
 
   };
 
@@ -312,15 +316,10 @@ public class DictionaryBuilderMain extends TestCase {
     final List<String[]> allPairs = new ArrayList<String[]>();
     
     allPairs.addAll(Arrays.asList(nonEnPairs));
-    
     // Add all the EN-XX pairs.
     for (final String isoCode : WiktionaryLangs.isoCodeToEnWikiName.keySet()) {
-      if (isoCode.equals("EN") || isoCode.equals("DE")) {
-        continue;
-      }
       allPairs.add(new String[] {"EN", isoCode});
     }
-    allPairs.add(new String[] {"EN", "DE"});
     
         
     final Set<List<String>> done = new LinkedHashSet<List<String>>();
@@ -332,7 +331,7 @@ public class DictionaryBuilderMain extends TestCase {
       }
       done.add(pairList);
       
-      if (!pairList.contains("IT") || !pairList.contains("EN")) {
+      if (!pairList.contains("EN") && !pairList.contains("EL")) {
         //continue;
       }
       

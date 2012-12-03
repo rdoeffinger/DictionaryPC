@@ -14,7 +14,9 @@
 
 package com.hughes.android.dictionary.parser.wiktionary;
 
+import com.hughes.android.dictionary.R;
 import com.hughes.android.dictionary.engine.Language;
+import com.hughes.android.dictionary.engine.Language.LanguageResources;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
@@ -107,7 +109,8 @@ public class WiktionaryLangs {
     isoCodeToEnWikiName.put("HT", "Haitian Creole");
     isoCodeToEnWikiName.put("LB", "Luxembourgish");
     isoCodeToEnWikiName.put("MK", "Macedonian");
-    
+
+
     assert Language.isoCodeToResources.keySet().containsAll(isoCodeToEnWikiName.keySet());
   }
 
