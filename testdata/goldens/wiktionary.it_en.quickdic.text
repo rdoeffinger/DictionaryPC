@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.english 3563
+EntrySource: enwiktionary.english 3618
 
 Index: IT IT->EN
 ===15===
@@ -20,7 +20,7 @@ Index: IT IT->EN
 ***abalone***
   abalone :: abalone (edible univalve mollusc) (noun)
 ***abate***
-  abate :: abbot (superior or head of an abbey or monastery) (noun)
+  abate {m} :: abbot (superior or head of an abbey or monastery) (noun)
 ***abbandonare***
   abbandonare :: abandon (to give up) (verb)
   abbandonare :: abandon (to leave behind or desert) (verb)
@@ -52,8 +52,8 @@ Index: IT IT->EN
   abbreviato :: abbreviated (shortened) (adjective)
 ***abbreviazione***
   abbreviazione {f} :: abbreviation (shortened or contracted form of a word or phrase) (noun)
-  abbreviazione :: abbreviation (act or result of shortening or reducing) (noun)
-  abbreviazione :: abbreviation (music: one or more dashes through the stem of a note) (noun)
+  abbreviazione {f} :: abbreviation (act or result of shortening or reducing) (noun)
+  abbreviazione {f} :: abbreviation (music: one or more dashes through the stem of a note) (noun)
 ***abdicare***
   abdicare :: abdicate (surrender or relinquish) (verb)
   abdicare :: abdicate (reject) (verb)
@@ -81,12 +81,14 @@ Index: IT IT->EN
 ***abietico***
   abietico :: abietic (related to fir trees) (adjective)
   abietico :: abietic (related to abietic acid or its deratives) (adjective)
+***abile***
+  abile :: able (skillful) (adjective)
 ***abilità***
   abilità {f} :: ability (quality or state of being able) (noun)
 ***abilmente***
   abilmente :: ably (with great ability) (adverb)
 ***abisso***
-  abisso {m} :: abime (a bottomless or unfathomed depth)
+  abisso {m} :: abime (a bottomless or unfathomed depth) (noun)
 ***abitare***
   vivere, abitare, risiedere, dimorare :: abide (to dwell) (verb)
 ***abiurare***
@@ -299,7 +301,7 @@ Index: IT IT->EN
 ***attendere***
   aspettare, attendere :: abide (to await) (verb)
 ***attimo***
-  attimo {m}, momento {m}, :: minute (short but unspecified period of time) (noun)
+  attimo {m}, momento {m} :: minute (short but unspecified period of time) (noun)
   secondo {m}, attimo {m}, momento {m} :: second (short, indeterminate amount of time) (noun)
   attimo {m}, baleno {m} :: jiffy (short length of time) (noun)
 ***attualmente***
@@ -324,7 +326,7 @@ Index: IT IT->EN
 ===bacino===
   bacino idrico :: pound (part of canal) (noun)
 ***badessa***
-  badessa :: abbess (female superior of a nunnery) (noun)
+  badessa {f} :: abbess (female superior of a nunnery) (noun)
 ***baggianata***
   balla {f}, fandonia {f}, scemenza {f}, fola {f}, baggianata {f} :: nonsense (untrue statement) (noun)
 ***baghetta***
@@ -345,7 +347,7 @@ Index: IT IT->EN
   baratto {m} :: barter (an equal exchange) (noun)
 ===Bassi===
   Paesi Bassi {m|p}, Olanda {f} :: Netherlands (country in northwestern Europe) (proper noun)
-===bastardo===
+***bastardo***
   stronza {f} stronzo {m}, bastardo {m} :: cunt (unpleasant or objectionable person) (noun)
 ***battere***
   battere :: pound (to strike hard repeatedly) (verb)
@@ -393,7 +395,8 @@ Index: IT IT->EN
   calendario {m} :: calendar (a list of planned events) (noun)
 ***canile***
   canile {m}, recinto :: pound (place for the detention of stray animals) (noun)
-===capace===
+***capace***
+  capace :: able (permitted to) (adjective)
   sapere, riuscire, essere capace, potere :: can (to be able) (verb)
 ***capacità***
   capacità {f} :: ability (a skill or competence) (noun)
@@ -565,13 +568,17 @@ Index: IT IT->EN
   spia {f}, delatore {m}, pentito {m}, traditore {m} :: grass (informer) (noun)
 ===della===
   velocità della luce {f} :: lightspeed (the speed of light) (noun)
+***denominare***
+  denominare :: name (to give a name to) (verb)
+***dentro***
+  in, dentro :: in (contained by) (preposition)
 ***deposito***
   negozio {m}, deposito {m} :: stock (store of goods for sale) (noun)
   autoparco, deposito auto :: pound (place for detention of automobiles) (noun)
 ***deviazione***
   aberrazione {f}, deviazione {f} :: aberration (deviation) (noun)
 ***di***
-  di :: day (period between sunrise and sunset) (noun)
+  di, giorno {m} :: day (period between sunrise and sunset) (noun)
   dietro, di dietro :: aback (in the rear) (adverb)
   sciocchezza {f}, senza senso, priva di significato, ridicolaggine {f} :: nonsense (meaningless words) (noun)
   piede di porco :: crow (bar of iron) (noun)
@@ -602,6 +609,8 @@ Index: IT IT->EN
   dispari :: odd (not divisible by two) (adjective)
 ***distaccare***
   distaccare, comandare :: second (temporary transfer of employment) (verb)
+***divorare***
+  divorare :: wolf (to devour) (verb)
 ***dizionario***
   dizionario {m} :: dictionary (publication that explains the meanings of an ordered list of words) (noun)
   dizionario dei sinonimi, tesoro {m} :: thesaurus (book of synonyms) (noun)
@@ -636,8 +645,6 @@ Index: IT IT->EN
   venire, eiaculare, sborrare :: cum (slang: have an orgasm; ejaculate) (verb)
 ***elefante***
   elefante {m} :: elephant (mammal) (noun)
-***eleggere***
-  scegliere, eleggere :: name (to mention, specify) (verb)
 ***elogio***
   elogio {m} :: accolade (An expression of approval; praise) (noun)
 ***emblema***
@@ -758,7 +765,7 @@ Index: IT IT->EN
 ***furgone***
   furgone {m} :: van (A (covered) vehicle used for carrying goods) (noun)
 ***futurismo***
-  futurismo :: futurism (noun)
+  futurismo :: futurism (art movement) (noun)
 ***gaelico***
   irlandese {m}, gaelico {m} :: Irish (the language) (proper noun)
 ***gatta***
@@ -767,10 +774,16 @@ Index: IT IT->EN
   gatto {m}, gatta {f}, micio {m}, micia {f} :: cat (domestic species) (noun)
 ***gennaio***
   gennaio {m} :: January (first month of the Gregorian calendar) (proper noun)
+***germano***
+  germano {m} :: German (member of a Germanic tribe) (noun)
 ***Giappone***
   Giappone {m} :: Japan (A Far East country in Asia) (proper noun)
 ***giorno***
   giorno {m} :: day (period of 24 hours) (noun)
+  giorno {m} :: day (period from midnight to the following midnight) (noun)
+  giorno {m} :: day (rotational period of a planet) (noun)
+  giorno {m} :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
+  di, giorno {m} :: day (period between sunrise and sunset) (noun)
 ***giovedì***
   giovedì {m} :: Thursday (day of the week) (noun)
 ***giugno***
@@ -830,7 +843,7 @@ Index: IT IT->EN
 ***improvvisamente***
   improvvisamente :: abruptly (precipitously) (adverb)
 ***in***
-  in :: in (contained by) (preposition)
+  in, dentro :: in (contained by) (preposition)
   in fiamme, fiammeggiante :: ablaze (on fire) (adjective)
 ***incalcolabile***
   innumerevole, incalcolabile :: uncountable (too many to be counted) (adjective)
@@ -879,7 +892,7 @@ Index: IT IT->EN
 ***istigare***
   favoreggiare, incoraggiare, istigare :: abet (to assist or encourage in crime) (verb)
 ***ità***
-  -ità {f} :: -ity (Used to form nouns from adjectives.) (suffix)
+  -ità {f}, -tà {f} :: -ity (Used to form nouns from adjectives.) (suffix)
 ***la***
   il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (article) (article)
   il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used as an alternative to a possessive pronoun before body parts) (article)
@@ -961,6 +974,7 @@ Index: IT IT->EN
   essere aggiornato, stare al passo (con i tempi, con le notizie), mantenersi al corrente :: abreast (informed) (adverb)
 ***marca***
   marca {f} :: march (obsolete: border region) (noun)
+  marca {f} :: march (region at a frontier governed by a marquess) (noun)
 ***marcia***
   marcia {f} :: march (formal, rhythmic way of walking) (noun)
   marcia {f} :: march (political rally or parade) (noun)
@@ -1016,10 +1030,8 @@ Index: IT IT->EN
   millisecondo {m} :: millisecond (one one-thousandth of a second) (noun)
 ***minchia***
   pisello {m}, cazzo {m}, uccello {m}, minchia {f} :: dick (colloquial: penis) (noun)
-***minuscola***
-  minuscolo {m}, minuscola {f}, piccolissimo {m}, piccolissima {f} :: minute (very small) (adjective)
 ***minuscolo***
-  minuscolo {m}, minuscola {f}, piccolissimo {m}, piccolissima {f} :: minute (very small) (adjective)
+  minuscolo, piccolissimo :: minute (very small) (adjective)
 ***minuto***
   minuto {m} :: minute (unit of time) (noun)
 ***minuziosamente***
@@ -1027,7 +1039,7 @@ Index: IT IT->EN
 ***molla***
   molla {f} :: spring (device made of flexible material) (noun)
 ***momento***
-  attimo {m}, momento {m}, :: minute (short but unspecified period of time) (noun)
+  attimo {m}, momento {m} :: minute (short but unspecified period of time) (noun)
   secondo {m}, attimo {m}, momento {m} :: second (short, indeterminate amount of time) (noun)
 ===moneta===
   moneta di dieci dollari :: eagle (A gold coin with a face value of $10.00) (noun)
@@ -1058,14 +1070,13 @@ Index: IT IT->EN
   negozio {m}, deposito {m} :: stock (store of goods for sale) (noun)
 ***negro***
   negro :: nigger (negro person) (noun)
-***nomare***
-  nomare :: name (to give a name to) (verb)
 ***nome***
   sostantivo {m}, nome {m} :: noun (grammatical category) (noun)
   nome {m} :: name (word or phrase indicating a particular person, place, class or thing) (noun)
   nome {m} :: first name (name chosen by parents) (noun)
   nome proprio :: proper noun (The name of a particular person, place, organization or other individual entity) (noun)
 ***nominare***
+  nominare :: name (to mention, specify) (verb)
   nominare :: name (to designate for a role) (verb)
 ===notizie===
   essere aggiornato, stare al passo (con i tempi, con le notizie), mantenersi al corrente :: abreast (informed) (adverb)
@@ -1195,10 +1206,8 @@ Index: IT IT->EN
   pianeta {m} :: planet (similar body in orbit around a star) (noun)
 ***piastrina***
   piastrina {f} :: die (fragment of a completed integrated circuit wafer) (noun)
-***piccolissima***
-  minuscolo {m}, minuscola {f}, piccolissimo {m}, piccolissima {f} :: minute (very small) (adjective)
 ***piccolissimo***
-  minuscolo {m}, minuscola {f}, piccolissimo {m}, piccolissima {f} :: minute (very small) (adjective)
+  minuscolo, piccolissimo :: minute (very small) (adjective)
 ===piece===
   figlio di puttana (son of a bitch), pezzo di merda (piece of shit) :: motherfucker (generic term of abuse) (noun)
 ===piede===
@@ -1213,7 +1222,7 @@ Index: IT IT->EN
   la maggioranza di, di più :: most ( majority of ) (determiner)
   il più :: most (adverb forming superlative) (adverb)
 ***plinto***
-  plinto {m} :: die (cubical part of a pedestral) (noun)
+  plinto {m} :: die (cubical part of a pedestal) (noun)
 ===plural===
   osso {m} (plural: ossa {f}) :: bone (component of a skeleton) (noun)
 ***plurale***
@@ -1388,8 +1397,6 @@ Index: IT IT->EN
   scartare :: can (to discard) (verb)
 ***scatoletta***
   scatoletta {f} :: can (a tin-plate canister) (noun)
-***scegliere***
-  scegliere, eleggere :: name (to mention, specify) (verb)
 ===scelta===
   seconda scelta {f} :: second (manufactured item that fails to meet quality control standards) (noun)
 ***scemenza***
@@ -1479,7 +1486,7 @@ Index: IT IT->EN
   fonte {f}, sorgente {f} :: spring (water source) (noun)
 ***sostantivo***
   sostantivo {m}, nome {m} :: noun (grammatical category) (noun)
-  sostantivo {m} :: substantive ((grammar)) (noun)
+  sostantivo {m} :: substantive (grammar) (noun)
 ***sostenere***
   sostenere, :: abet (to support, uphold, or aid) (verb)
   assecondare, secondare, appoggiare, sostenere :: second (to agree as a second person) (verb)
@@ -1534,7 +1541,9 @@ Index: IT IT->EN
   straniero {m}, forestiero {m} :: alien (foreigner) (noun)
 ***strano***
   strano, strambo :: odd (strange) (adjective)
-===stronza===
+***stringere***
+  stringere :: tighten (to make tighter) (verb)
+***stronza***
   stronza {f} stronzo {m}, bastardo {m} :: cunt (unpleasant or objectionable person) (noun)
 ***stronzata***
   sciocchezza {f}, cagata {f}, stronzata {f}, cazzata {f}, cacata {f} :: crap (nonsense) (noun)
@@ -1557,14 +1566,20 @@ Index: IT IT->EN
   suddetto, succitato :: above-mentioned (mentioned or named before; aforesaid) (adjective)
 ***svanito***
   svanito :: absent-minded (absent in mind) (adjective)
+***svernare***
+  svernare :: winter (spend the winter, as in a particular place on holiday) (verb)
 ===T===
   N.A.T.O. :: NATO (North Atlantic Treaty Organization) (proper noun)
+***tà***
+  -ità {f}, -tà {f} :: -ity (Used to form nouns from adjectives.) (suffix)
 ***tacere***
   tacere, chiudere :: can (to shut up) (verb)
 ***Tanato***
   Tanato {m} :: Thanatos (Thanatos, the god of death) (noun)
+***tedesca***
+  tedesco {m}, tedesca {f} :: German (German person) (noun)
 ***tedesco***
-  tedesco {m} :: German (German person) (noun)
+  tedesco {m}, tedesca {f} :: German (German person) (noun)
   tedesco {m} :: German (the German language) (proper noun)
   tedesco :: German (of or relating to the country of Germany) (adjective)
 ***teletrasportare***
@@ -1579,6 +1594,7 @@ Index: IT IT->EN
   dizionario dei sinonimi, tesoro {m} :: thesaurus (book of synonyms) (noun)
 ***testa***
   testa {f}, capo {m} :: head (part of the body) (noun)
+  testa {f} :: head (mental aptitude or skill) (noun)
   di testa :: head (of, relating to, or intended for the head) (adjective)
   testa di cazzo {f} :: dickhead ((slang) stupid person) (noun)
 ===ti===
@@ -1597,10 +1613,8 @@ Index: IT IT->EN
   spia {f}, delatore {m}, pentito {m}, traditore {m} :: grass (informer) (noun)
 ===tradizionale===
   cinese tradizionale {m|f} :: Traditional Chinese (Chinese written using traditional characters) (proper noun)
-***transitiva***
-  transitivo {m}, transitiva {f} :: transitive (in grammar: of a verb, that takes an object or objects) (adjective)
 ***transitivo***
-  transitivo {m}, transitiva {f} :: transitive (in grammar: of a verb, that takes an object or objects) (adjective)
+  transitivo :: transitive (grammar, of a verb: taking an object or objects) (adjective)
 ===traverso===
   al traverso :: abreast (nautical: side by side; also, opposite; over against; on a line with the vessel's beam) (adverb)
 ***travestito***
@@ -1623,7 +1637,7 @@ Index: IT IT->EN
   uno; nu (Pugliese) :: one (cardinal number 1) (numeral)
   uno {m} :: one (digit or figure) (noun)
 ***uomo***
-  uomo :: man (human) (noun)
+  uomo {m} :: man (human) (noun)
   uomo {m} :: man (adult male human) (noun)
 ===use===
   use subjunctive of potere :: may (subjunctive) (verb)
@@ -1757,13 +1771,13 @@ Index: EN EN->IT
 ***abattoir***
   mattatoio {m} :: abattoir (public slaughterhouse) (noun)
 ***abbess***
-  badessa :: abbess (female superior of a nunnery) (noun)
+  badessa {f} :: abbess (female superior of a nunnery) (noun)
 ***abbey***
   abbazia {f} :: abbey (monastery headed by an abbot) (noun)
   abbazia {f} :: abbey (church of a monastery) (noun)
-  abate :: abbot (superior or head of an abbey or monastery) (noun)
+  abate {m} :: abbot (superior or head of an abbey or monastery) (noun)
 ***abbot***
-  abate :: abbot (superior or head of an abbey or monastery) (noun)
+  abate {m} :: abbot (superior or head of an abbey or monastery) (noun)
   abbazia {f} :: abbey (monastery headed by an abbot) (noun)
 ***abbreviate***
   abbreviare :: abbreviate (to make shorter) (verb)
@@ -1772,8 +1786,8 @@ Index: EN EN->IT
 ***abbreviation***
   abbreviazione {f} :: abbreviation (shortened or contracted form of a word or phrase) (noun)
   riassunto {m} :: abbreviation (abridged version of a document) (noun)
-  abbreviazione :: abbreviation (act or result of shortening or reducing) (noun)
-  abbreviazione :: abbreviation (music: one or more dashes through the stem of a note) (noun)
+  abbreviazione {f} :: abbreviation (act or result of shortening or reducing) (noun)
+  abbreviazione {f} :: abbreviation (music: one or more dashes through the stem of a note) (noun)
 ***abdicate***
   abdicare :: abdicate (surrender or relinquish) (verb)
   abdicare :: abdicate (reject) (verb)
@@ -1836,7 +1850,7 @@ Index: EN EN->IT
   capacità {f} :: ability (a skill or competence) (noun)
   abilmente :: ably (with great ability) (adverb)
 ***abime***
-  abisso {m} :: abime (a bottomless or unfathomed depth)
+  abisso {m} :: abime (a bottomless or unfathomed depth) (noun)
 ***abject***
   abbietto :: abject (Sunk to a low condition; down in spirit or hope) (adjective)
   abbietto :: abject (A person in the lowest and most despicable condition) (noun)
@@ -1848,7 +1862,9 @@ Index: EN EN->IT
   ablativo {m} :: ablative ((grammar) the ablative case) (noun)
 ***ablaze***
   in fiamme, fiammeggiante :: ablaze (on fire) (adjective)
-===able===
+***able***
+  capace :: able (permitted to) (adjective)
+  abile :: able (skillful) (adjective)
   abilità {f} :: ability (quality or state of being able) (noun)
   sapere, riuscire, essere capace, potere :: can (to be able) (verb)
 ***ablegation***
@@ -2048,7 +2064,7 @@ Index: EN EN->IT
 ===act===
   abbandono {m} :: abandonment (act of abandoning) (noun)
   riduzione :: abatement (the act of abating or the state of being abated) (noun)
-  abbreviazione :: abbreviation (act or result of shortening or reducing) (noun)
+  abbreviazione {f} :: abbreviation (act or result of shortening or reducing) (noun)
   abdicazione {f} :: abdication (the act of abdicating; the renunciation of a high office, dignity, or trust, by its holder) (noun)
   rapimento {m} :: abduction (act of abducing or abducting) (noun)
   abluzione {f} :: ablution (the act of washing or cleansing) (noun)
@@ -2078,7 +2094,7 @@ Index: EN EN->IT
   aggettivo {m} :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
   essere :: be (used to connect a noun to an adjective that describes it) (verb)
 ===adjectives===
-  -ità {f} :: -ity (Used to form nouns from adjectives.) (suffix)
+  -ità {f}, -tà {f} :: -ity (Used to form nouns from adjectives.) (suffix)
 ===admitting===
   accessibilità {f} :: accessibility (the quality of being accessible, or of admitting approach) (noun)
 ===adult===
@@ -2191,6 +2207,8 @@ Index: EN EN->IT
   elogio {m} :: accolade (An expression of approval; praise) (noun)
 ***April***
   aprile {m} :: April (fourth month of the Gregorian calendar) (proper noun)
+===aptitude===
+  testa {f} :: head (mental aptitude or skill) (noun)
 ===archaic===
   qualità {f} :: quality (archaic: social position) (noun)
 ===architecture===
@@ -2218,6 +2236,7 @@ Index: EN EN->IT
   contratto {m} :: deal (agreement, arrangement) (noun)
 ===art===
   lessicografia {f} :: lexicography (art or craft of writing dictionaries) (noun)
+  futurismo :: futurism (art movement) (noun)
   comitologia {f} :: comitology (art of resolving issues by committees) (noun)
 ===article===
   il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (article) (article)
@@ -2331,7 +2350,7 @@ Index: EN EN->IT
 ===belly===
   addome {m} :: abdomen (belly) (noun)
 ===between===
-  di :: day (period between sunrise and sunset) (noun)
+  di, giorno {m} :: day (period between sunrise and sunset) (noun)
   anno {m} :: year (a period between set dates that mark a year) (noun)
 ===bill===
   biglietto {m} di un dollaro {m} :: one (dollar bill) (noun)
@@ -2399,7 +2418,7 @@ Index: EN EN->IT
 ===botany===
   aberrazione {f} :: aberration (zoology, botany: atypical development or structure) (noun)
 ===bottomless===
-  abisso {m} :: abime (a bottomless or unfathomed depth)
+  abisso {m} :: abime (a bottomless or unfathomed depth) (noun)
 ===bound===
   libro {m} :: book (collection of sheets of paper bound together containing printed or written material) (noun)
 ===boxing===
@@ -2411,7 +2430,7 @@ Index: EN EN->IT
   biancospino {m} :: may (the hawthorn bush or its blossom) (noun)
 ===but===
   forse, può essere che + subjunctive; He may be lying — Forse sta mentendo, Può essere che stia mentendo :: may (possibly, but not certainly) (verb)
-  attimo {m}, momento {m}, :: minute (short but unspecified period of time) (noun)
+  attimo {m}, momento {m} :: minute (short but unspecified period of time) (noun)
 ===buttocks===
   chiappe {f} :: can (buttocks) (noun)
 ===buying===
@@ -2685,7 +2704,7 @@ Index: EN EN->IT
 ===consisting===
   binario {m}, rotaia {f}, strada ferrata {f}, ferrovia {f} :: railway (track, consisting of parallel rails) (noun)
 ===contained===
-  in :: in (contained by) (preposition)
+  in, dentro :: in (contained by) (preposition)
 ===container===
   annaffiatoio {m} :: can (a container used to carry and dispense water for plants) (noun)
 ===containing===
@@ -2772,7 +2791,7 @@ Index: EN EN->IT
 ===crystals===
   carborundo :: Carborundum (crystals of silicon carbide used as an abrasive) (noun)
 ===cubical===
-  plinto {m} :: die (cubical part of a pedestral) (noun)
+  plinto {m} :: die (cubical part of a pedestal) (noun)
 ***cum***
   sborra {f} :: cum (slang: male semen) (noun)
   venire, eiaculare, sborrare :: cum (slang: have an orgasm; ejaculate) (verb)
@@ -2793,7 +2812,7 @@ Index: EN EN->IT
 ===dark===
   ottenebrare, offuscare :: obfuscate (make dark) (verb)
 ===dashes===
-  abbreviazione :: abbreviation (music: one or more dashes through the stem of a note) (noun)
+  abbreviazione {f} :: abbreviation (music: one or more dashes through the stem of a note) (noun)
 ***date***
   dattero {m} :: date (fruit of the date palm) (noun)
   data {f} :: date (that which specifies the time of writing, inscription etc.) (noun)
@@ -2809,7 +2828,10 @@ Index: EN EN->IT
   anno {m} :: year (a period between set dates that mark a year) (noun)
 ***day***
   giorno {m} :: day (period of 24 hours) (noun)
-  di :: day (period between sunrise and sunset) (noun)
+  giorno {m} :: day (period from midnight to the following midnight) (noun)
+  giorno {m} :: day (rotational period of a planet) (noun)
+  giorno {m} :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
+  di, giorno {m} :: day (period between sunrise and sunset) (noun)
   lunedì {m} :: Monday (day of the week) (noun)
   martedì {m} :: Tuesday (day of the week) (noun)
   mercoledì {m} :: Wednesday (day of the week) (noun)
@@ -2877,7 +2899,7 @@ Index: EN EN->IT
 ===deprive===
   privare, limitare :: abridge (to deprive) (verb)
 ===depth===
-  abisso {m} :: abime (a bottomless or unfathomed depth)
+  abisso {m} :: abime (a bottomless or unfathomed depth) (noun)
 ===deratives===
   abietico :: abietic (related to abietic acid or its deratives) (adjective)
 ===described===
@@ -2923,6 +2945,8 @@ Index: EN EN->IT
   molla {f} :: spring (device made of flexible material) (noun)
   matrice {f} :: die (device for cutting into a specified shape) (noun)
   conio {m} :: die (embossed device used in stamping) (noun)
+===devour===
+  divorare :: wolf (to devour) (verb)
 ***dialect***
   dialetto {m} :: dialect (variety of a language) (noun)
 ***dick***
@@ -2938,7 +2962,7 @@ Index: EN EN->IT
 ***die***
   morire :: die (to stop living) (verb)
   dado {m} :: die (polyhedron used in games of chance) (noun)
-  plinto {m} :: die (cubical part of a pedestral) (noun)
+  plinto {m} :: die (cubical part of a pedestal) (noun)
   matrice {f} :: die (device for cutting into a specified shape) (noun)
   conio {m} :: die (embossed device used in stamping) (noun)
   piastrina {f} :: die (fragment of a completed integrated circuit wafer) (noun)
@@ -3207,7 +3231,7 @@ Index: EN EN->IT
 ===Felidae===
   felino {m}, felina {f} :: cat (member of the family Felidae) (noun)
 ===female===
-  badessa :: abbess (female superior of a nunnery) (noun)
+  badessa {f} :: abbess (female superior of a nunnery) (noun)
 ***few***
   poco :: few (indefinite, usually small number) (determiner)
   pochi :: few (small number) (determiner)
@@ -3276,6 +3300,7 @@ Index: EN EN->IT
 ===focusing===
   lentille {f}, lente {f} :: lens (object focusing or defocusing the light passing through it) (noun)
 ===following===
+  giorno {m} :: day (period from midnight to the following midnight) (noun)
   dieci {m} (1,2,3) :: ten (the number following nine) (noun)
 ===food===
   condire, insaporire :: season (to flavour food) (verb)
@@ -3337,6 +3362,8 @@ Index: EN EN->IT
   venerdì {m} :: Friday (day of the week) (noun)
 ===friend===
   falso amico {m} :: false friend (false friend) (noun)
+===frontier===
+  marca {f} :: march (region at a frontier governed by a marquess) (noun)
 ===fruit===
   zucca {f} :: pumpkin (fruit of this plant) (noun)
   achenio {m} :: achene (small dry fruit) (noun)
@@ -3350,7 +3377,7 @@ Index: EN EN->IT
 ===further===
   vabbè :: whatever (indicating the matter is not worthy of further discussion) (interjection)
 ***futurism***
-  futurismo :: futurism (noun)
+  futurismo :: futurism (art movement) (noun)
 ===Gadidae===
   merluzzo {m} :: cod (marine fish of the family Gadidae) (noun)
 ===game===
@@ -3382,14 +3409,17 @@ Index: EN EN->IT
 ===geometry===
   punto {m} :: point (geometry: zero-dimensional object) (noun)
 ***German***
-  tedesco {m} :: German (German person) (noun)
+  tedesco {m}, tedesca {f} :: German (German person) (noun)
+  germano {m} :: German (member of a Germanic tribe) (noun)
   tedesco {m} :: German (the German language) (proper noun)
   tedesco :: German (of or relating to the country of Germany) (adjective)
+===Germanic===
+  germano {m} :: German (member of a Germanic tribe) (noun)
 ===Germany===
   tedesco :: German (of or relating to the country of Germany) (adjective)
 ===give===
   scambiare :: swap (exchange or give (something) in exchange for) (verb)
-  nomare :: name (to give a name to) (verb)
+  denominare :: name (to give a name to) (verb)
   abbandonare :: abandon (to give up) (verb)
   assolvere :: absolve (pronounce free or give absolution) (verb)
   assolvere :: absolve (theology: pronounce free or give absolution from sin) (verb)
@@ -3424,6 +3454,8 @@ Index: EN EN->IT
   googlare, guglare :: google (to search for on the Internet) (verb)
 ===Google===
   gugolata {f}, gugulata {f} :: google (search using Google) (noun)
+===governed===
+  marca {f} :: march (region at a frontier governed by a marquess) (noun)
 ===grade===
   anno {m} :: year (a level or grade at school or college) (noun)
 ===grain===
@@ -3431,10 +3463,10 @@ Index: EN EN->IT
 ===grammar===
   verbo {m} :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
   aggettivo {m} :: adjective ((grammar) a word that modifies a noun or describes a noun’s referent) (noun)
-  sostantivo {m} :: substantive ((grammar)) (noun)
+  sostantivo {m} :: substantive (grammar) (noun)
   ablativo {m} :: ablative ((grammar) the ablative case) (noun)
   numero {m} :: number (grammar: state of being singular, dual or plural) (noun)
-  transitivo {m}, transitiva {f} :: transitive (in grammar: of a verb, that takes an object or objects) (adjective)
+  transitivo :: transitive (grammar, of a verb: taking an object or objects) (adjective)
   singolare :: singular (grammar: referring to only one thing) (adjective)
   singolare {m} :: singular (grammar: form of a word that refers to only one thing) (noun)
 ===grammatical===
@@ -3515,9 +3547,10 @@ Index: EN EN->IT
   biancospino {m} :: may (the hawthorn bush or its blossom) (noun)
 ***head***
   testa {f}, capo {m} :: head (part of the body) (noun)
+  testa {f} :: head (mental aptitude or skill) (noun)
   capo {m} :: head (leader or chief) (noun)
   di testa :: head (of, relating to, or intended for the head) (adjective)
-  abate :: abbot (superior or head of an abbey or monastery) (noun)
+  abate {m} :: abbot (superior or head of an abbey or monastery) (noun)
 ===headed===
   abbazia {f} :: abbey (monastery headed by an abbot) (noun)
 ===healing===
@@ -3554,6 +3587,8 @@ Index: EN EN->IT
   etimologia {f} :: etymology (account of the origin and historical development of a word) (noun)
 ===holder===
   abdicazione {f} :: abdication (the act of abdicating; the renunciation of a high office, dignity, or trust, by its holder) (noun)
+===holiday===
+  svernare :: winter (spend the winter, as in a particular place on holiday) (verb)
 ===hope===
   abbietto :: abject (Sunk to a low condition; down in spirit or hope) (adjective)
 ===horse===
@@ -3566,7 +3601,7 @@ Index: EN EN->IT
   giorno {m} :: day (period of 24 hours) (noun)
 ===human===
   rapimento {m} :: abduction (law: carrying off of a human being) (noun)
-  uomo :: man (human) (noun)
+  uomo {m} :: man (human) (noun)
   uomo {m} :: man (adult male human) (noun)
 ===hungry===
   i {m|p}, gli {m|p}, le {f|p} :: the (with an adjectival noun, as in “the hungry” to mean “hungry people”) (article)
@@ -3594,7 +3629,7 @@ Index: EN EN->IT
 ===impulses===
   abbandono {m} :: abandon (a giving up to natural impulses) (noun)
 ***in***
-  in :: in (contained by) (preposition)
+  in, dentro :: in (contained by) (preposition)
 ===In===
   anormalmente :: abnormally (In an abnormal manner) (adverb)
 ===inattentive===
@@ -3688,7 +3723,7 @@ Index: EN EN->IT
   polacco :: Polish (of Poland or its language) (adjective)
   greggio {m}, grezzo {m} :: crude (any substance in its natural state) (noun)
 ***ity***
-  -ità {f} :: -ity (Used to form nouns from adjectives.) (suffix)
+  -ità {f}, -tà {f} :: -ity (Used to form nouns from adjectives.) (suffix)
 ***January***
   gennaio {m} :: January (first month of the Gregorian calendar) (proper noun)
 ***Japan***
@@ -3697,6 +3732,8 @@ Index: EN EN->IT
   corvino :: raven (of the color of the raven; jet-black) (adjective)
 ***jiffy***
   attimo {m}, baleno {m} :: jiffy (short length of time) (noun)
+===job===
+  giorno {m} :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
 ===Julian===
   anno {m} :: year (a Julian year) (noun)
 ***July***
@@ -3866,6 +3903,7 @@ Index: EN EN->IT
   ottenebrare, offuscare :: obfuscate (make dark) (verb)
   offuscare, ottenebrare :: obfuscate (make confusing) (verb)
   anno {m} :: year (time it takes for any planetary body to make one revolution around another body) (noun)
+  stringere :: tighten (to make tighter) (verb)
 ===making===
   livello di definizione :: definition (action or power of describing, explaining, or making definite) (noun)
 ===male===
@@ -3880,7 +3918,7 @@ Index: EN EN->IT
   oritteropo {m} :: aardvark (mammal) (noun)
   protele :: aardwolf (the mammal species Proteles cristatus) (noun)
 ***man***
-  uomo :: man (human) (noun)
+  uomo {m} :: man (human) (noun)
   uomo {m} :: man (adult male human) (noun)
   pedina {f} :: man (piece in board games) (noun)
 ===manner===
@@ -3898,6 +3936,7 @@ Index: EN EN->IT
   marcia {f} :: march (steady forward movement or progression) (noun)
   marciare :: march (walk with long, regular strides) (verb)
   marca {f} :: march (obsolete: border region) (noun)
+  marca {f} :: march (region at a frontier governed by a marquess) (noun)
 ===marching===
   marcia {f} :: march (song in the genre of music written for marching) (noun)
 ===marijuana===
@@ -3912,6 +3951,8 @@ Index: EN EN->IT
   inverno {m} :: winter (fourth season, marked by short days and lowest temperatures) (noun)
 ===marking===
   ordinazione {f} :: accolade (A salutation marking the conferring of knighthood) (noun)
+===marquess===
+  marca {f} :: march (region at a frontier governed by a marquess) (noun)
 ===Marys===
   decina {f} :: decade (a series of ten Hail Marys in the rosary) (noun)
 ===mass===
@@ -3976,8 +4017,11 @@ Index: EN EN->IT
   abaco {m} :: abacus (uppermost member of the capital of a column) (noun)
   il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used with the name of a member of a class to refer to all things in that class) (article)
   accademico {m} :: academian (member of an academy) (noun)
+  germano {m} :: German (member of a Germanic tribe) (noun)
+===mental===
+  testa {f} :: head (mental aptitude or skill) (noun)
 ===mention===
-  scegliere, eleggere :: name (to mention, specify) (verb)
+  nominare :: name (to mention, specify) (verb)
 ===mentioned===
   suddetto, succitato :: above-mentioned (mentioned or named before; aforesaid) (adjective)
 ===mess===
@@ -3997,6 +4041,8 @@ Index: EN EN->IT
   metrica {f} :: metric (notion in mathematics) (noun)
 ***Mexico***
   Messico {m} :: Mexico (country) (proper noun)
+===midnight===
+  giorno {m} :: day (period from midnight to the following midnight) (noun)
 ***millennium***
   millennio {m} :: millennium (thousand-year period) (noun)
 ===milliard===
@@ -4013,8 +4059,8 @@ Index: EN EN->IT
   svanito :: absent-minded (absent in mind) (adjective)
 ***minute***
   minuto {m} :: minute (unit of time) (noun)
-  attimo {m}, momento {m}, :: minute (short but unspecified period of time) (noun)
-  minuscolo {m}, minuscola {f}, piccolissimo {m}, piccolissima {f} :: minute (very small) (adjective)
+  attimo {m}, momento {m} :: minute (short but unspecified period of time) (noun)
+  minuscolo, piccolissimo :: minute (very small) (adjective)
 ===minutes===
   ora {f} :: hour (Time period of sixty minutes) (noun)
 ===miscarriage===
@@ -4028,7 +4074,7 @@ Index: EN EN->IT
 ===monastery===
   abbazia {f} :: abbey (monastery headed by an abbot) (noun)
   abbazia {f} :: abbey (church of a monastery) (noun)
-  abate :: abbot (superior or head of an abbey or monastery) (noun)
+  abate {m} :: abbot (superior or head of an abbey or monastery) (noun)
 ***Monday***
   lunedì {m} :: Monday (day of the week) (noun)
   lunedì :: Monday (on Monday) (adverb)
@@ -4052,7 +4098,7 @@ Index: EN EN->IT
   aberrante :: aberrant (deviating from morality) (adjective)
 ===more===
   iponimo {m} :: hyponym (more specific word) (noun)
-  abbreviazione :: abbreviation (music: one or more dashes through the stem of a note) (noun)
+  abbreviazione {f} :: abbreviation (music: one or more dashes through the stem of a note) (noun)
   plurale :: plural (more than one) (adjective)
   lattina {f} :: can (a more or less cylindrical vessel for liquids) (noun)
 ***morpheme***
@@ -4070,12 +4116,13 @@ Index: EN EN->IT
 ===movement===
   marcia {f} :: march (steady forward movement or progression) (noun)
   abduzione {f} :: abduction (physiology: movement separating limb from axis) (noun)
+  futurismo :: futurism (art movement) (noun)
 ===multiplication===
   prodotto {m} :: product (multiplication result) (noun)
 ***music***
   musica {f} :: music (sound, organized in time in a melodious way) (noun)
   marcia {f} :: march (song in the genre of music written for marching) (noun)
-  abbreviazione :: abbreviation (music: one or more dashes through the stem of a note) (noun)
+  abbreviazione {f} :: abbreviation (music: one or more dashes through the stem of a note) (noun)
   musicista {m|f}, musico {m} :: musician (person who performs or writes music) (noun)
 ===musical===
   definizione {f} :: definition (clarity, especially of musical sound in reproduction) (noun)
@@ -4090,8 +4137,8 @@ Index: EN EN->IT
 ***name***
   nome {m} :: name (word or phrase indicating a particular person, place, class or thing) (noun)
   fama {f}, riputazione {f} :: name (reputation) (noun)
-  nomare :: name (to give a name to) (verb)
-  scegliere, eleggere :: name (to mention, specify) (verb)
+  denominare :: name (to give a name to) (verb)
+  nominare :: name (to mention, specify) (verb)
   specificare :: name (to identify, define, specify) (verb)
   identificare :: name (to publicly implicate) (verb)
   nominare :: name (to designate for a role) (verb)
@@ -4171,7 +4218,7 @@ Index: EN EN->IT
   assente :: absent (not existing) (adjective)
   vabbè :: whatever (indicating the matter is not worthy of further discussion) (interjection)
 ===note===
-  abbreviazione :: abbreviation (music: one or more dashes through the stem of a note) (noun)
+  abbreviazione {f} :: abbreviation (music: one or more dashes through the stem of a note) (noun)
   datare :: date (to note the time of writing or executing) (verb)
   datare :: date (to note or fix the time of, as of an event) (verb)
 ===nothing===
@@ -4191,7 +4238,7 @@ Index: EN EN->IT
   essere :: be (used to indicate that the subject has the qualities described by a noun or noun phrase) (verb)
   non numerabile :: uncountable (linguistics: about a noun which cannot be counted) (adjective)
 ===nouns===
-  -ità {f} :: -ity (Used to form nouns from adjectives.) (suffix)
+  -ità {f}, -tà {f} :: -ity (Used to form nouns from adjectives.) (suffix)
 ***November***
   novembre {m} :: November (eleventh month of the Gregorian calendar) (proper noun)
 ===nowadays===
@@ -4229,7 +4276,7 @@ Index: EN EN->IT
   numero {m}, cifra {f} :: number (numeral) (noun)
   secondo {m} :: second (second (numeral)) (adjective)
 ===nunnery===
-  badessa :: abbess (female superior of a nunnery) (noun)
+  badessa {f} :: abbess (female superior of a nunnery) (noun)
 ===oath===
   abiurare :: abjure (to renounce upon oath) (verb)
 ***obfuscate***
@@ -4240,11 +4287,11 @@ Index: EN EN->IT
   debito {m} :: debt (action, state of mind, or object one has an obligation to perform for another) (noun)
   punto {m} :: point (geometry: zero-dimensional object) (noun)
   essere :: be (used to indicate that the subject and object are the same) (verb)
-  transitivo {m}, transitiva {f} :: transitive (in grammar: of a verb, that takes an object or objects) (adjective)
+  transitivo :: transitive (grammar, of a verb: taking an object or objects) (adjective)
 ===objectionable===
   stronza {f} stronzo {m}, bastardo {m} :: cunt (unpleasant or objectionable person) (noun)
 ===objects===
-  transitivo {m}, transitiva {f} :: transitive (in grammar: of a verb, that takes an object or objects) (adjective)
+  transitivo :: transitive (grammar, of a verb: taking an object or objects) (adjective)
 ===obligation===
   debito {m} :: debt (action, state of mind, or object one has an obligation to perform for another) (noun)
 ===obligations===
@@ -4366,9 +4413,10 @@ Index: EN EN->IT
   nome {m} :: first name (name chosen by parents) (noun)
 ===part===
   bacino idrico :: pound (part of canal) (noun)
+  giorno {m} :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
   testa {f}, capo {m} :: head (part of the body) (noun)
   stagione {f} :: season (part of year with something special) (noun)
-  plinto {m} :: die (cubical part of a pedestral) (noun)
+  plinto {m} :: die (cubical part of a pedestal) (noun)
   anno {m} :: year (a scheduled part of a calendar year spent in a specific activity) (noun)
   polpa :: meat (solid edible part of a plant) (noun)
   affusto {m} :: stock (part of gun) (noun)
@@ -4376,6 +4424,7 @@ Index: EN EN->IT
   alienazione {f} :: aberration (partial alienation of reason) (noun)
 ===particular===
   nome {m} :: name (word or phrase indicating a particular person, place, class or thing) (noun)
+  svernare :: winter (spend the winter, as in a particular place on holiday) (verb)
   nome proprio :: proper noun (The name of a particular person, place, organization or other individual entity) (noun)
   linguaggio {m} :: language (vocabulary of a particular field) (noun)
   linguaggio {m} :: language (particular words used) (noun)
@@ -4401,8 +4450,8 @@ Index: EN EN->IT
   debito {m} :: debt (money that one person or entity owes or is required to pay to another) (noun)
 ===payment===
   gratuito, gratis :: free (obtainable without payment) (adjective)
-===pedestral===
-  plinto {m} :: die (cubical part of a pedestral) (noun)
+===pedestal===
+  plinto {m} :: die (cubical part of a pedestal) (noun)
 ===penalise===
   ammonire :: book (penalise) (verb)
 ***pencil***
@@ -4423,9 +4472,12 @@ Index: EN EN->IT
 ===period===
   mese {m} :: month (period into which a year is divided) (noun)
   giorno {m} :: day (period of 24 hours) (noun)
-  di :: day (period between sunrise and sunset) (noun)
+  giorno {m} :: day (period from midnight to the following midnight) (noun)
+  giorno {m} :: day (rotational period of a planet) (noun)
+  giorno {m} :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
+  di, giorno {m} :: day (period between sunrise and sunset) (noun)
   ora {f} :: hour (Time period of sixty minutes) (noun)
-  attimo {m}, momento {m}, :: minute (short but unspecified period of time) (noun)
+  attimo {m}, momento {m} :: minute (short but unspecified period of time) (noun)
   millennio {m} :: millennium (thousand-year period) (noun)
   settimana {f} :: week (period of seven days) (noun)
   trimestre {m} :: quarter (period of three months) (noun)
@@ -4436,6 +4488,8 @@ Index: EN EN->IT
   aberrazione {f} :: aberration (astronomy: small periodical change of position of heavenly bodies) (noun)
 ===permission===
   potere :: may (have permission to) (verb)
+===permitted===
+  capace :: able (permitted to) (adjective)
 ===perspective===
   accademicamente :: academically (from an academic perspective) (adverb)
 ===pertaining===
@@ -4471,6 +4525,7 @@ Index: EN EN->IT
   autoparco, deposito auto :: pound (place for detention of automobiles) (noun)
   nome {m} :: name (word or phrase indicating a particular person, place, class or thing) (noun)
   sopra :: above (in or to a higher place) (preposition)
+  svernare :: winter (spend the winter, as in a particular place on holiday) (verb)
   assente :: absent (being away from a place) (adjective)
   nome proprio :: proper noun (The name of a particular person, place, organization or other individual entity) (noun)
   punto {m} :: point (location or place) (noun)
@@ -4482,6 +4537,7 @@ Index: EN EN->IT
   pianeta {m} :: planet (each of the seven major bodies which move relative to the fixed stars in the night sky) (noun)
   pianeta {m} :: planet (rocky or gaseous spherical bodies orbiting the Sun) (noun)
   pianeta {m} :: planet (similar body in orbit around a star) (noun)
+  giorno {m} :: day (rotational period of a planet) (noun)
 ===planetary===
   anno {m} :: year (time it takes for any planetary body to make one revolution around another body) (noun)
 ===planned===
@@ -4727,7 +4783,7 @@ Index: EN EN->IT
 ===red===
   arrossire, colorire :: color (become red through increased blood flow) (verb)
 ===reducing===
-  abbreviazione :: abbreviation (act or result of shortening or reducing) (noun)
+  abbreviazione {f} :: abbreviation (act or result of shortening or reducing) (noun)
 ===refer===
   il {m}, lo {m}, la {f}, i {m|p}, gli {m|p}, le {f|p} :: the (used with the name of a member of a class to refer to all things in that class) (article)
 ===reference===
@@ -4745,6 +4801,7 @@ Index: EN EN->IT
   rinuncia {f} :: abandonment (refusal to receive freight) (noun)
 ===region===
   marca {f} :: march (obsolete: border region) (noun)
+  marca {f} :: march (region at a frontier governed by a marquess) (noun)
   spazio cosmico {m}, cosmo {m} :: outer space (region) (noun)
 ===regular===
   marciare :: march (walk with long, regular strides) (verb)
@@ -4799,7 +4856,7 @@ Index: EN EN->IT
 ===result===
   prodotto {m} :: product (result of chemical reaction) (noun)
   prodotto {m} :: product (multiplication result) (noun)
-  abbreviazione :: abbreviation (act or result of shortening or reducing) (noun)
+  abbreviazione {f} :: abbreviation (act or result of shortening or reducing) (noun)
 ===revolution===
   anno {m} :: year (time it takes for the Earth to complete one revolution of the Sun) (noun)
   anno {m} :: year (time it takes for any planetary body to make one revolution around another body) (noun)
@@ -4827,6 +4884,8 @@ Index: EN EN->IT
   centuria {f} :: century (political division of Rome) (noun)
 ===rosary===
   decina {f} :: decade (a series of ten Hail Marys in the rosary) (noun)
+===rotational===
+  giorno {m} :: day (rotational period of a planet) (noun)
 ===rule===
   anormale, anomalo :: abnormal (not conforming to rule or system) (adjective)
 ===said===
@@ -4849,6 +4908,7 @@ Index: EN EN->IT
 ===scheduled===
   anno {m} :: year (a scheduled part of a calendar year spent in a specific activity) (noun)
 ===school===
+  giorno {m} :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
   anno {m} :: year (a level or grade at school or college) (noun)
 ===science===
   informatica {f} :: computer science (study of computers and their architecture) (noun)
@@ -4930,7 +4990,7 @@ Index: EN EN->IT
 ===shell===
   pasticcio {m} :: pie (other, nonpastry dishes that maintain the general concept of a shell with a filling) (noun)
 ===short===
-  attimo {m}, momento {m}, :: minute (short but unspecified period of time) (noun)
+  attimo {m}, momento {m} :: minute (short but unspecified period of time) (noun)
   inverno {m} :: winter (fourth season, marked by short days and lowest temperatures) (noun)
   secondo {m}, attimo {m}, momento {m} :: second (short, indeterminate amount of time) (noun)
   attimo {m}, baleno {m} :: jiffy (short length of time) (noun)
@@ -4940,7 +5000,7 @@ Index: EN EN->IT
   abbreviato :: abbreviated (shortened) (adjective)
   abbreviazione {f} :: abbreviation (shortened or contracted form of a word or phrase) (noun)
 ===shortening===
-  abbreviazione :: abbreviation (act or result of shortening or reducing) (noun)
+  abbreviazione {f} :: abbreviation (act or result of shortening or reducing) (noun)
 ===shorter===
   abbreviare :: abbreviate (to make shorter) (verb)
   accorciare, abbreviare, ridurre :: abridge (to make shorter) (verb)
@@ -4992,7 +5052,10 @@ Index: EN EN->IT
 ===skeleton===
   osso {m} (plural: ossa {f}) :: bone (component of a skeleton) (noun)
 ===skill===
+  testa {f} :: head (mental aptitude or skill) (noun)
   capacità {f} :: ability (a skill or competence) (noun)
+===skillful===
+  abile :: able (skillful) (adjective)
 ***sky***
   cielo {m} :: sky (atmosphere above a point) (noun)
   firmamento {m} :: sky (specific view, condition) (noun)
@@ -5010,7 +5073,7 @@ Index: EN EN->IT
 ===small===
   blocchetto {m} :: book (convenient collection of small paper items, such as stamps) (noun)
   stagno {m} :: pond (small lake) (noun)
-  minuscolo {m}, minuscola {f}, piccolissimo {m}, piccolissima {f} :: minute (very small) (adjective)
+  minuscolo, piccolissimo :: minute (very small) (adjective)
   aberrazione {f} :: aberration (astronomy: small periodical change of position of heavenly bodies) (noun)
   fisarmonica {f} :: accordion (A small, portable, keyed wind instrument) (noun)
   achenio {m} :: achene (small dry fruit) (noun)
@@ -5069,7 +5132,7 @@ Index: EN EN->IT
 ===specifies===
   data {f} :: date (that which specifies the time of writing, inscription etc.) (noun)
 ===specify===
-  scegliere, eleggere :: name (to mention, specify) (verb)
+  nominare :: name (to mention, specify) (verb)
   specificare :: name (to identify, define, specify) (verb)
 ===spectral===
   colore {m} :: color (spectral composition of visible light) (noun)
@@ -5078,6 +5141,10 @@ Index: EN EN->IT
   ossimoro {m} :: oxymoron (figure of speech) (noun)
 ===speed===
   velocità della luce {f} :: lightspeed (the speed of light) (noun)
+===spend===
+  svernare :: winter (spend the winter, as in a particular place on holiday) (verb)
+===spends===
+  giorno {m} :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
 ===spent===
   anno {m} :: year (a scheduled part of a calendar year spent in a specific activity) (noun)
 ===spherical===
@@ -5145,7 +5212,7 @@ Index: EN EN->IT
 ***steganography***
   steganografia {f} :: steganography (steganography) (noun)
 ===stem===
-  abbreviazione :: abbreviation (music: one or more dashes through the stem of a note) (noun)
+  abbreviazione {f} :: abbreviation (music: one or more dashes through the stem of a note) (noun)
 ***stock***
   negozio {m}, deposito {m} :: stock (store of goods for sale) (noun)
   stock {m}, partita {f} :: stock (supply of anything ready for use) (noun)
@@ -5191,7 +5258,7 @@ Index: EN EN->IT
   greggio {m}, grezzo {m} :: crude (any substance in its natural state) (noun)
   medicina {f} :: medicine (substance which promotes healing) (noun)
 ***substantive***
-  sostantivo {m} :: substantive ((grammar)) (noun)
+  sostantivo {m} :: substantive (grammar) (noun)
 ===such===
   blocchetto {m} :: book (convenient collection of small paper items, such as stamps) (noun)
 ===sudden===
@@ -5211,15 +5278,15 @@ Index: EN EN->IT
 ===Sunk===
   abbietto :: abject (Sunk to a low condition; down in spirit or hope) (adjective)
 ===sunrise===
-  di :: day (period between sunrise and sunset) (noun)
+  di, giorno {m} :: day (period between sunrise and sunset) (noun)
 ===sunset===
-  di :: day (period between sunrise and sunset) (noun)
+  di, giorno {m} :: day (period between sunrise and sunset) (noun)
 ===sup===
   miliardo :: billion (a thousand million; 1,000,000,000; 10<sup>9</sup>; a milliard) (noun)
   trilione {f} :: trillion (a million million, 10<sup>12</sup>)
 ===superior===
-  badessa :: abbess (female superior of a nunnery) (noun)
-  abate :: abbot (superior or head of an abbey or monastery) (noun)
+  badessa {f} :: abbess (female superior of a nunnery) (noun)
+  abate {m} :: abbot (superior or head of an abbey or monastery) (noun)
 ===superlative===
   il {m}, lo {m}, la {f}; i {m|p}, gli {m|p}, le {f|p} :: the (with a superlative) (article)
   il più :: most (adverb forming superlative) (adverb)
@@ -5265,7 +5332,8 @@ Index: EN EN->IT
   anno {m} :: year (time it takes for the Earth to complete one revolution of the Sun) (noun)
   anno {m} :: year (time it takes for any planetary body to make one revolution around another body) (noun)
   data {f} :: date (point of time at which a transaction or event takes place) (noun)
-  transitivo {m}, transitiva {f} :: transitive (in grammar: of a verb, that takes an object or objects) (adjective)
+===taking===
+  transitivo :: transitive (grammar, of a verb: taking an object or objects) (adjective)
 ===talented===
   stella {f} :: star (talented person) (noun)
 ===tangible===
@@ -5345,14 +5413,18 @@ Index: EN EN->IT
 ===throne===
   abdicare :: abdicate (renounce a throne) (verb)
 ===through===
-  abbreviazione :: abbreviation (music: one or more dashes through the stem of a note) (noun)
+  abbreviazione {f} :: abbreviation (music: one or more dashes through the stem of a note) (noun)
   arrossire, colorire :: color (become red through increased blood flow) (verb)
   lentille {f}, lente {f} :: lens (object focusing or defocusing the light passing through it) (noun)
 ***Thursday***
   giovedì {m} :: Thursday (day of the week) (noun)
+***tighten***
+  stringere :: tighten (to make tighter) (verb)
+===tighter===
+  stringere :: tighten (to make tighter) (verb)
 ===time===
   minuto {m} :: minute (unit of time) (noun)
-  attimo {m}, momento {m}, :: minute (short but unspecified period of time) (noun)
+  attimo {m}, momento {m} :: minute (short but unspecified period of time) (noun)
   calendario {m} :: calendar (system by which time is divided) (noun)
   addestrare, allenare, acclimatare :: season (to make fit for any use by time or habit) (verb)
   anno {m} :: year (time it takes for the Earth to complete one revolution of the Sun) (noun)
@@ -5411,7 +5483,7 @@ Index: EN EN->IT
 ===transitions===
   discontinuo, discontinua, sconnesso, sconnessa :: abrupt (having sudden transitions from one state to next) (adjective)
 ***transitive***
-  transitivo {m}, transitiva {f} :: transitive (in grammar: of a verb, that takes an object or objects) (adjective)
+  transitivo :: transitive (grammar, of a verb: taking an object or objects) (adjective)
 ===transport===
   ferrovia {f} :: railway (transport system using these rails) (noun)
 ***transvestite***
@@ -5424,6 +5496,8 @@ Index: EN EN->IT
   arancio {m} :: orange (tree) (noun)
 ===trees===
   abietico :: abietic (related to fir trees) (adjective)
+===tribe===
+  germano {m} :: German (member of a Germanic tribe) (noun)
 ***trillion***
   trilione {f} :: trillion (a million million, 10<sup>12</sup>)
 ===trust===
@@ -5471,7 +5545,7 @@ Index: EN EN->IT
 ===unexpectedly===
   casualmente, accidentalmente :: accidentally (unexpectedly, unintentionally) (adverb)
 ===unfathomed===
-  abisso {m} :: abime (a bottomless or unfathomed depth)
+  abisso {m} :: abime (a bottomless or unfathomed depth) (noun)
 ===unintentionally===
   casualmente, accidentalmente :: accidentally (unexpectedly, unintentionally) (adverb)
 ===union===
@@ -5497,7 +5571,7 @@ Index: EN EN->IT
 ===unripe===
   acerbo :: crude (immature or unripe) (adjective)
 ===unspecified===
-  attimo {m}, momento {m}, :: minute (short but unspecified period of time) (noun)
+  attimo {m}, momento {m} :: minute (short but unspecified period of time) (noun)
 ===until===
   rosolare :: brown (to cook until brown) (verb)
 ===untimely===
@@ -5536,7 +5610,7 @@ Index: EN EN->IT
   linguaggio {m} :: language (particular words used) (noun)
   carborundo :: Carborundum (crystals of silicon carbide used as an abrasive) (noun)
 ===Used===
-  -ità {f} :: -ity (Used to form nouns from adjectives.) (suffix)
+  -ità {f}, -tà {f} :: -ity (Used to form nouns from adjectives.) (suffix)
 ===useful===
   fiaba {m} :: fable (fictitious narration to enforce some useful truth or precept) (noun)
 ===using===
@@ -5563,7 +5637,7 @@ Index: EN EN->IT
   furgone {m} :: van (A (covered) vehicle used for carrying goods) (noun)
 ***verb***
   verbo {m} :: verb ((grammar) a word that indicates an action, event, or a state) (noun)
-  transitivo {m}, transitiva {f} :: transitive (in grammar: of a verb, that takes an object or objects) (adjective)
+  transitivo :: transitive (grammar, of a verb: taking an object or objects) (adjective)
 ===verge===
   stare per :: about (on the point or verge of) (preposition)
 ===version===
@@ -5571,7 +5645,7 @@ Index: EN EN->IT
 ===very===
   libero, free, libre (software) :: free (software: with very few limitations on distribution or improvement) (adjective)
   piovere a catinelle :: rain cats and dogs (to rain very heavily) (verb)
-  minuscolo {m}, minuscola {f}, piccolissimo {m}, piccolissima {f} :: minute (very small) (adjective)
+  minuscolo, piccolissimo :: minute (very small) (adjective)
 ===vessel===
   al traverso :: abreast (nautical: side by side; also, opposite; over against; on a line with the vessel's beam) (adverb)
   lattina {f} :: can (a more or less cylindrical vessel for liquids) (noun)
@@ -5634,6 +5708,7 @@ Index: EN EN->IT
   inferno {m} :: hell (where sinners go) (proper noun)
 ===which===
   mese {m} :: month (period into which a year is divided) (noun)
+  giorno {m} :: day (part of a day period which one spends at one’s job, school, etc.) (noun)
   antonimo {m} :: antonym (word which has the opposite meaning) (noun)
   calendario {m} :: calendar (system by which time is divided) (noun)
   qualunque, qualsiasi, qualsivoglia :: whatever (no matter which; for any) (determiner)
@@ -5653,6 +5728,7 @@ Index: EN EN->IT
   porto {m} :: port (fortified wine) (noun)
 ***winter***
   inverno {m} :: winter (fourth season, marked by short days and lowest temperatures) (noun)
+  svernare :: winter (spend the winter, as in a particular place on holiday) (verb)
 ===without===
   gratuito, gratis :: free (obtainable without payment) (adjective)
   libero :: free (without obligations) (adjective)
@@ -5665,6 +5741,7 @@ Index: EN EN->IT
   teletrasportare :: teleport (travel without physically crossing distance) (verb)
 ***wolf***
   lupo {m} :: wolf (animal) (noun)
+  divorare :: wolf (to devour) (verb)
 ===woodwind===
   flauto {m} :: flute (woodwind instrument) (noun)
 ***word***

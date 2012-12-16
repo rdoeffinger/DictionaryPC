@@ -29,7 +29,7 @@ HtmlEntry: A <<<
 ***ab***
 HtmlEntry: ab <<<
 <h3>Etymology</h3>
-From lang:goh <a href="qd::ab">ab</a>, from {{proto|Germanic|ab}}.
+From lang:goh <a href="qd::ab">ab</a>, from lang:gem-pro {{recons|ab|lang=gem-pro}}.
 <h3>Pronunciation</h3>
 <ul><li> IPA: /ap/</li>
 </ul>
@@ -47,7 +47,7 @@ From lang:goh <a href="qd::ab">ab</a>, from {{proto|Germanic|ab}}.
 ---->>>
 HtmlEntry: ab <<<
 <h3>Etymology</h3>
-From {{proto|Germanic|ab|lang=goh}}.
+From lang:gem-pro {{recons|ab|lang=gem-pro}}.
 <h3>Preposition</h3>
 {goh-prep}
 <ol><li> <a href="qd::of">of</a></li>
@@ -56,7 +56,7 @@ From {{proto|Germanic|ab|lang=goh}}.
 ***ab-***
 HtmlEntry: ab- <<<
 <h3>Etymology</h3>
-From lang:goh <a href="qd::ab">ab</a>, from {{proto|Germanic|ab}}.
+From lang:goh <a href="qd::ab">ab</a>, from lang:gem-pro {{recons|ab|lang=gem-pro}}.
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x5b;&#x294;&#x61;&#x70;&#x5d;</li>
 </ul>
@@ -84,7 +84,6 @@ From lang:goh <a href="qd::ab">ab</a>, from {{proto|Germanic|ab}}.
 </ul>
 
 <h4>Derived terms</h4>
-{der-top}
 <ul><li> <a href="qd::ab%C3%A4ndern">ab&auml;ndern</a></li>
 <li> <a href="qd::abarbeiten">abarbeiten</a></li>
 <li> <a href="qd::abbauen">abbauen</a></li>
@@ -102,7 +101,6 @@ From lang:goh <a href="qd::ab">ab</a>, from {{proto|Germanic|ab}}.
 <li> <a href="qd::ableiten">ableiten</a></li>
 <li> <a href="qd::ablesen">ablesen</a></li>
 </ul>
-{der-mid}
 <ul><li> <a href="qd::abnehmen">abnehmen</a></li>
 <li> <a href="qd::abschalten">abschalten</a></li>
 <li> <a href="qd::abschlagen">abschlagen</a></li>
@@ -119,7 +117,7 @@ From lang:goh <a href="qd::ab">ab</a>, from {{proto|Germanic|ab}}.
 <li> <a href="qd::abwerfen">abwerfen</a></li>
 <li> <a href="qd::abzielen">abzielen</a></li>
 </ul>
-{der-bottom}
+
 <h4>See also</h4>
 <ul><li> <a href="qd::ab">ab</a></li>
 </ul>
@@ -353,6 +351,19 @@ HtmlEntry: China <<<
 ***dat***
 HtmlEntry: dat <<<
 <h3>Etymology</h3>
+From lang:nds-de <a href="qd::dat">dat</a> (also widespread in Central German dialects).
+<h3>Pronoun</h3>
+{de-pron}
+<ol><li> {{colloquial|nonstandard}} {{alternative form of|das}}</li>
+<ul><li> <b><em>Dat</b> wei&szlig; ich nich'.</em></li>
+<ul><li> <em>I don't know <b>that</b>.</em></li>
+</ul>
+</ul>
+<li> {{colloquial|nonstandard}} {{alternative form of|dass}}</li>
+</ol>
+---->>>
+HtmlEntry: dat <<<
+<h3>Etymology</h3>
 From lang:osx <a href="qd::that">that</a>.
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|&#x2f;&#x64;&#x251;&#x74;&#x2f;|lang=nds}}</li>
@@ -539,6 +550,10 @@ In a subordinate clause, <a href="qd::die">die</a> indicates a person or thing r
 HtmlEntry: dies <<<
 <h3>Etymology</h3>
 A shortening of <em><a href="qd::dieses">dieses</a></em>
+<h3>Pronunciation</h3>
+<ul><li> {{rhymes|&#x69;&#x2d0;&#x73;}}</li>
+</ul>
+
 <h3>Pronoun</h3>
 <b>dies</b>
 <ol><li> <a href="qd::this">this</a></li>
@@ -599,7 +614,7 @@ HtmlEntry: een <<<
 ***en***
 HtmlEntry: en <<<
 <h3>Etymology</h3>
-Cognate to German <a href="qd::ein">ein</a>, English <a href="qd::an">an</a>.
+From lang:osx 
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|&#x2f;&#x2c8;&#x25b;&#x26a;&#x32f;&#x6e;&#x2f;|lang=nds}}</li>
 </ul>
@@ -686,6 +701,10 @@ lang:goh <a href="qd::fr%C4%AB">fri</a>
 <li> (<em>free of charge</em>): <a href="qd::kostenlos">kostenlos</a></li>
 </ul>
 
+<h4>Antonyms</h4>
+<ul><li> {{l|de|unfrei}}</li>
+</ul>
+
 <h4>Derived terms</h4>
 <ul><li> <a href="qd::befreien">befreien</a>, <a href="qd::Befreiung">Befreiung</a></li>
 <li> <a href="qd::bleifrei">bleifrei</a></li>
@@ -717,8 +736,8 @@ HtmlEntry: Ghana <<<
 </ul>
 
 <h3>Proper noun</h3>
-{{head|de|proper noun|g=n}}
-<ol><li> <a href="qd::Ghana">Ghana</a></li>
+{{de-proper noun|g=n}}
+<ol><li> {{l|en|Ghana}}</li>
 </ol>
 
 <h4>Derived terms</h4>
@@ -818,7 +837,7 @@ HtmlEntry: Haiti <<<
 ***Haus***
 HtmlEntry: Haus <<<
 <h3>Etymology</h3>
-From lang:goh <a href="qd::h%C5%ABs">hus</a>, from {{proto|Germanic|&#x68;&#x16b;&#x73;&#x61;&#x6e;}}.  Cognate with Dutch <em><a href="qd::huis">huis</a></em>, English <em><a href="qd::house">house</a></em>.
+From lang:goh <a href="qd::h%C5%ABs">hus</a>, from lang:gem-pro {{recons|&#x68;&#x16b;&#x73;&#x61;&#x6e;|lang=gem-pro}}.  Cognate with Dutch <em><a href="qd::huis">huis</a></em>, English <em><a href="qd::house">house</a></em>.
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x5b;&#x68;&#x61;&#x28a;&#x32f;&#x73;&#x5d;</li>
 <li> {{audio|De-Haus.ogg|audio}}</li>
@@ -886,7 +905,7 @@ HtmlEntry: ik <<<
 </ul>
 
 <h3>Etymology</h3>
-From lang:osx <a href="qd::ik">ik</a>, from {{proto|Germanic|ek|lang=nds}}, from {{proto|Indo-European|&#xe9;&#x1f5;&#x68;&#x2082;|lang=nds}}.
+From lang:osx <a href="qd::ik">ik</a>, from lang:gem-pro {{recons|ek|lang=gem-pro}}, from lang:ine-pro {{recons|&#xe9;&#x1f5;&#x68;&#x2082;|lang=ine-pro}}.
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|/ik/|lang=nds}}</li>
 </ul>
@@ -912,7 +931,7 @@ HtmlEntry: in <<<
 </ul>
 
 <h3>Etymology 1</h3>
-From lang:goh <a href="qd::in">in</a>, from {{proto|Germanic|in}}.
+From lang:goh <a href="qd::in">in</a>, from lang:gem-pro {{recons|in|lang=gem-pro}}, from lang:ine-pro {{recons|en|lang=ine-pro}}.
 <h4>Preposition</h4>
 {{head|de|preposition}}
 <ol><li> (<b>in</b> + <em>dative</em>) <a href="qd::in">in</a>; <a href="qd::within">within</a>; <a href="qd::at">at</a>; contained by</li>
@@ -941,11 +960,15 @@ From English <a href="qd::in">in</a>.
 ---->>>
 HtmlEntry: in <<<
 <h3>Etymology</h3>
-From {{proto|Germanic|in|lang=goh}}, whence also Old English <em>in</em>, Old Norse <em><a href="qd::%C3%AD">&iacute;</a></em>
+From lang:gem-pro {{recons|in|lang=gem-pro}}, whence also Old English <em>in</em>, Old Norse <em><a href="qd::%C3%AD">&iacute;</a></em>. Ultimately from lang:ine-pro {{recons|en|lang=ine-pro}}.
 <h3>Preposition</h3>
 {{head|goh|preposition}}
 <ol><li> in</li>
 </ol>
+
+<h4>Descendants</h4>
+<ul><li> German: {{l|de|in}}</li>
+</ul>
 ---->>>
 HtmlEntry: in <<<
 <h3>Preposition</h3>
@@ -975,7 +998,7 @@ The article (<em><a href="qd::der">der</a></em>) is often used with the name of 
 ***is***
 HtmlEntry: is <<<
 <h3>Etymology</h3>
-From {{proto|Germanic|&#x12b;&#x73;&#x61;&#x6e;|lang=goh}}
+From lang:gem-pro {{recons|&#x12b;&#x73;&#x61;&#x6e;|lang=gem-pro}}
 <h3>Noun</h3>
 {{head|goh|noun|head=&#x12b;&#x73;}}
 <ol><li> <a href="qd::ice">ice</a></li>
@@ -1134,8 +1157,8 @@ HtmlEntry: Mali <<<
 </ul>
 
 <h3>Proper noun</h3>
-<b>Mali</b> {n}
-<ol><li> <a href="qd::Mali">Mali</a></li>
+{{de-proper noun|g=n}}
+<ol><li> {{l|en|Mali}}</li>
 </ol>
 
 <h4>Derived terms</h4>
@@ -1160,7 +1183,7 @@ HtmlEntry: Malta <<<
 ***man***
 HtmlEntry: man <<<
 <h3>Etymology</h3>
-From the same source as <em><a href="qd::Mann">Mann</a></em> (&quot;adult male&quot;).&lt;ref&gt;Theo Stemmler: <em>Wie das Eisbein ins Lexikon kam,</em> page 15, ISBN 978-3-411-72291-4.&lt;/ref&gt;
+From the same source as <a href="qd::Mann">Mann</a> (&quot;adult male&quot;).&lt;ref&gt;Theo Stemmler: <em>Wie das Eisbein ins Lexikon kam,</em> page 15, ISBN 978-3-411-72291-4.&lt;/ref&gt;
 <h3>Pronunciation</h3>
 <ul><li> IPA: [man]</li>
 <li> {{audio|De-at-man.ogg|audio (Austria)}}</li>
@@ -1181,10 +1204,12 @@ From the same source as <em><a href="qd::Mann">Mann</a></em> (&quot;adult male&q
 </ol>
 
 <h4>Usage notes</h4>
-<ul><li> Because <em>man</em> derives from the word for a &quot;man&quot; (an adult male), its use, especially when writing about women, is considered sexist by some. Feminists have proposed alternating <em>man</em> and <em><a href="qd::frau">frau</a></em>. Compare the use of <em><a href="qd::she">she</a></em> vs <em><a href="qd::he">he</a></em> in English to refer to someone whose gender is unknown.</li>
+<ul><li> Because <em>man</em>&#x20;&#x64;&#x65;&#x72;&#x69;&#x76;&#x65;&#x73;&#x20;&#x66;&#x72;&#x6f;&#x6d;&#x20;&#x74;&#x68;&#x65;&#x20;&#x77;&#x6f;&#x72;&#x64;&#x20;&#x66;&#x6f;&#x72;&#x20;&#x61;&#x20;&#x201c;&#x6d;&#x61;&#x6e;&#x201d;&#x20;&#x28;&#x61;&#x6e;&#x20;&#x61;&#x64;&#x75;&#x6c;&#x74;&#x20;&#x6d;&#x61;&#x6c;&#x65;&#x29;&#x2c;&#x20;&#x69;&#x74;&#x73;&#x20;&#x75;&#x73;&#x65;&#x2c;&#x20;&#x65;&#x73;&#x70;&#x65;&#x63;&#x69;&#x61;&#x6c;&#x6c;&#x79;&#x20;&#x77;&#x68;&#x65;&#x6e;&#x20;&#x77;&#x72;&#x69;&#x74;&#x69;&#x6e;&#x67;&#x20;&#x61;&#x62;&#x6f;&#x75;&#x74;&#x20;&#x77;&#x6f;&#x6d;&#x65;&#x6e;&#x2c;&#x20;&#x69;&#x73;&#x20;&#x63;&#x6f;&#x6e;&#x73;&#x69;&#x64;&#x65;&#x72;&#x65;&#x64;&#x20;&#x73;&#x65;&#x78;&#x69;&#x73;&#x74;&#x20;&#x62;&#x79;&#x20;&#x73;&#x6f;&#x6d;&#x65;&#x2e;&#x20;&#x46;&#x65;&#x6d;&#x69;&#x6e;&#x69;&#x73;&#x74;&#x73;&#x20;&#x68;&#x61;&#x76;&#x65;&#x20;&#x70;&#x72;&#x6f;&#x70;&#x6f;&#x73;&#x65;&#x64;&#x20;&#x61;&#x6c;&#x74;&#x65;&#x72;&#x6e;&#x61;&#x74;&#x69;&#x6e;&#x67;&#x20;<em>man</em> and <em><a href="qd::frau">frau</a></em>. Compare the use of <em><a href="qd::she">she</a></em> vs <em><a href="qd::he">he</a></em> in English to refer to someone whose gender is unknown.</li>
 </ul>
 >>>
 HtmlEntry: man <<<
+<h3>Etymology</h3>
+From lang:osx <a href="qd::man">man</a>, from lang:gem-pro {{recons|mann-|lang=gem-pro}}.
 <h3>Conjunction</h3>
 {{head|nds|conjunction}}
 <ol><li> {{context|in many dialects, including|_|Low Prussian}} <a href="qd::only">only</a>; <a href="qd::but">but</a></li>
@@ -1197,11 +1222,15 @@ HtmlEntry: man <<<
 ---->>>
 HtmlEntry: man <<<
 <h3>Etymology</h3>
-From {{proto|Germanic|mann-|lang=goh}}.
+From lang:gem-pro {{recons|mann-|lang=gem-pro}}.
 <h3>Noun</h3>
 {{goh-noun|g=m}}
 <ol><li> <a href="qd::man">man</a></li>
 </ol>
+
+<h4>Descendants</h4>
+<ul><li> German: {{l|de|Mann}}</li>
+</ul>
 ---->>>
 ***Mauritius***
 HtmlEntry: Mauritius <<<
@@ -1251,21 +1280,6 @@ HtmlEntry: Namibia <<<
 <li> {{l|de|namibisch}}</li>
 </ul>
 ---->>>
-***Niger***
-HtmlEntry: Niger <<<
-<h3>Proper noun</h3>
-{{head|de|proper noun|g=m|g2=n}}
-<ol><li> {{l|en|Niger}} (country)</li>
-<li> {{l|en|Niger}} (river)</li>
-</ol>
-
-<h4>Derived terms</h4>
-<ul><li> <a href="qd::Nigeria">Nigeria</a></li>
-<li> <a href="qd::Nigrer">Nigrer</a></li>
-<li> <a href="qd::Nigrerin">Nigrerin</a></li>
-<li> <a href="qd::nigrisch">nigrisch</a></li>
-</ul>
----->>>
 ***nine***
 HtmlEntry: nine <<<
 <h3>Alternative forms</h3>
@@ -1313,7 +1327,7 @@ HtmlEntry: o <<<
 ---->>>
 HtmlEntry: o <<<
 <h3>Etymology</h3>
-From {{proto|Germanic|&#x61;&#x77;&#x6a;&#x14d;|lang=gml}}. Cognate with lang:non <a href="qd::ey">ey</a> (Swedish <a href="qd::%C3%B6">&ouml;</a>, Norwegian <a href="qd::%C3%B8y">&oslash;y</a>).
+From lang:gem-pro {{recons|&#x61;&#x77;&#x6a;&#x14d;|lang=gem-pro}}. Cognate with lang:non <a href="qd::ey">ey</a> (Swedish <a href="qd::%C3%B6">&ouml;</a>, Norwegian <a href="qd::%C3%B8y">&oslash;y</a>).
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|&#x2f;&#xf8;&#x2d0;&#x2f;|lang=gml}}</li>
 </ul>
@@ -1391,13 +1405,20 @@ HtmlEntry: September <<<
 ---->>>
 ***SMS***
 HtmlEntry: SMS <<<
-<h3>{{initialism|German}}</h3>
+<h3>Initialism</h3>
 {{head|de|initialism}}
 <ol><li> {{nautical|military}} <a href="qd::SMS">SMS</a> &amp;mdash; <a href="qd::Seiner+Majest%C3%A4t+Schiff">Seiner Majest&auml;t Schiff</a>, <em>His Majesty's Ship</em></li>
 </ol>
 
 <h4>Usage notes</h4>
-Used for naval ships of the <a href="qd::Austro-Hungarian+Empire">Austro-Hungarian Empire</a> and the <a href="qd::Second+Reich">Second Reich</a> of <a href="qd::Imperial+Germany">Imperial Germany</a>, for the <a href="qd::Kaiserliche+und+K%C3%B6nigliche+Kriegsmarine">Kaiserliche und K&ouml;nigliche Kriegsmarine</a> and <a href="qd::Kaiserliche+Marine">Kaiserliche Marine</a>, respectively.>>>
+Used for naval ships of the <a href="qd::Austro-Hungarian+Empire">Austro-Hungarian Empire</a> and the <a href="qd::Second+Reich">Second Reich</a> of <a href="qd::Imperial+Germany">Imperial Germany</a>, for the <a href="qd::Kaiserliche+und+K%C3%B6nigliche+Kriegsmarine">Kaiserliche und K&ouml;nigliche Kriegsmarine</a> and <a href="qd::Kaiserliche+Marine">Kaiserliche Marine</a>, respectively.
+<h3>Noun</h3>
+{{de-noun|SMS|SMS|g={f|n}}}
+<ol><li> <a href="qd::SMS">SMS</a> (text message)</li>
+</ol>
+
+<h4>Usage notes</h4>
+This noun is <a href="qd::neuter">neuter</a> gender in <a href="qd::Switzerland">Switzerland</a> and <a href="qd::Austria">Austria</a> and <a href="qd::feminine">feminine</a> gender everywhere else.>>>
 ***spring***
 HtmlEntry: spring <<<
 <h3>Pronunciation</h3>
@@ -1463,7 +1484,7 @@ HtmlEntry: Uhr <<<
 ***um***
 HtmlEntry: um <<<
 <h3>Etymology</h3>
-From lang:goh <a href="qd::umbi">umbi</a>, from {{proto|Germanic|umbi}}.
+From lang:goh <a href="qd::umbi">umbi</a>, from lang:gem-pro {{recons|umbi|lang=gem-pro}}.
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x28a;&#x6d;&#x2f;, {{X-SAMPA|/Um/}}</li>
 <li> {{audio|De-um.ogg|audio (Germany)}}</li>
@@ -1604,7 +1625,7 @@ HtmlEntry: zwei <<<
 ---->>>
 HtmlEntry: zwei <<<{{cardinalbox|de|1|2|3|eins|drei|ord=zweite}}
 <h3>Etymology</h3>
-From lang:goh <a href="qd::zw%C4%93ne">zwene</a>.
+From lang:goh <a href="qd::zw%C4%93ne">zwene</a>, from lang:gem-pro {{recons|twai|lang=gem-pro}}, from lang:ine-pro {{recons|&#x64;&#x77;&#xf3;&#x68;&#x2081;|lang=ine-pro}}. Compare Dutch <a href="qd::twee">twee</a>, English <em><a href="qd::twain">twain</a></em>.
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x74;&#x73;&#x76;&#x61;&#x26a;&#x32f;&#x2f;</li>
 <li> {{audio|De-zwei.ogg|audio}}</li>
@@ -1615,6 +1636,8 @@ From lang:goh <a href="qd::zw%C4%93ne">zwene</a>.
 <ol><li> <a href="qd::two">two</a></li>
 </ol>
 
+<h4>Declension</h4>
+<em>Zwei</em> has a genitive form <b>zweier</b>, e.g. <em>der Vater zweier Kinder</em> &quot;the father of two children&quot;.Only when used as a noun, the dative form is <b>zweien</b>: <em>Ich tanzte mit zwei M&auml;nnern</em> &quot;I danced with two men&quot;, but: <em>Ich tanzte mit zweien</em> &quot;I danced with two.&quot; This declension is often neglected in colloquial speech, and sometimes also in the standard language.
 <h4>Synonyms</h4>
 <ul><li> <a href="qd::zwo">zwo</a></li>
 </ul>

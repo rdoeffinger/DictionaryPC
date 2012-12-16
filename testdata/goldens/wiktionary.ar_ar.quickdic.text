@@ -364,7 +364,7 @@ Index: AR AR->EN
   اثنان (iθnān) :: two
     Eastern Arabic numeral: ٢ :: --
 ***أورشليم***
-  أورشليم (Ūrušalīm) {ar-proper noun} :: Jerusalem (city in the Middle East)
+  أورشليم (ʾŪrušalīm) {ar-proper noun} :: Jerusalem (city in the Middle East)
 ===áwsaṭ===
   الشرق الأوسط (aš-šarq al-áwsaṭ) {{ar-proper noun|g=m}} :: The Middle East
 ***ايفاء***
@@ -1887,8 +1887,6 @@ Index: AR AR->EN
     الانثيان (al-’unθayān) :: the testicles
 ===úrdunn===
   الأردن (al-’úrdunn) {{ar-proper noun|g=m}} :: Jordan (river and country)
-===Ūrušalīm===
-  أورشليم (Ūrušalīm) {ar-proper noun} :: Jerusalem (city in the Middle East)
 ===uxṭubūṭ===
   أخطبوط (’uxṭubūṭ) {{ar-noun|g=m}} :: octopus
 ===voice===
@@ -1999,6 +1997,8 @@ Index: AR AR->EN
   (Tunisian Arabic) اِسْمْ (ʾism) {m} (noun) :: first name
 ===ʾisraʾīl===
   إسرائيل (ʾisraʾīl) {{ar-proper noun|g=f}} :: Israel
+===ʾŪrušalīm===
+  أورشليم (ʾŪrušalīm) {ar-proper noun} :: Jerusalem (city in the Middle East)
 ===ʿankabūt===
   عنكبوت (ʿankabūt) {{ar-noun|g=m|pl=عناكب|pltr=ʿanākib}} :: spider
 ===ʿIrāq===
@@ -2547,7 +2547,7 @@ Index: EN EN->AR
   مصر (miṣr, maṣr) {{ar-noun|g=m|pl=أمصار|plhead=أَمْصَار|pltr=’amṣār}} :: big city, metropolis, capital
   سيدني (sí:dni) {{ar-proper noun|g=m}} :: Sydney (Australian city)
   مصر {{ar-verb (old)|II|مصر|máṣṣara}}{{ar-verb (old)|V|تمصر|tamáṣṣara}} :: to become a populated area, to become a big city, to become a metropolis
-  أورشليم (Ūrušalīm) {ar-proper noun} :: Jerusalem (city in the Middle East)
+  أورشليم (ʾŪrušalīm) {ar-proper noun} :: Jerusalem (city in the Middle East)
 ===civilize===
   مصر {{ar-verb (old)|II|مصر|máṣṣara}}{{ar-verb (old)|V|تمصر|tamáṣṣara}} :: to found, to build, to settle, to civilize, to colonize
 ===clasp===
@@ -2843,7 +2843,7 @@ Index: EN EN->AR
   أرضٌ (’arḍ) {{ar-noun|g=f|pl=أراض|plhead=أراضٍ|pltr=’arāḍin|pl2=أرضون|pl2tr=’araḍūn}} :: earth, Earth
 ===East===
   الشرق الأوسط (aš-šarq al-áwsaṭ) {{ar-proper noun|g=m}} :: The Middle East
-  أورشليم (Ūrušalīm) {ar-proper noun} :: Jerusalem (city in the Middle East)
+  أورشليم (ʾŪrušalīm) {ar-proper noun} :: Jerusalem (city in the Middle East)
 ===eccentric===
   شاذ (šaðð), شذاذ (šuððāð) {p}, شواذ (šawáðð) {p} :: irregular, anomalous, atypical, abnormal, unusual, aberrant, eccentric, extraordinary, singular, offbeat, curious, odd, peculiar, strange, weird
 ===economics===
@@ -3484,7 +3484,7 @@ Index: EN EN->AR
 ===Japan===
   اليابان (al-yabān) {ar-proper noun} :: Japan
 ===Jerusalem===
-  أورشليم (Ūrušalīm) {ar-proper noun} :: Jerusalem (city in the Middle East)
+  أورشليم (ʾŪrušalīm) {ar-proper noun} :: Jerusalem (city in the Middle East)
   القُدْس (al-quds) {{ar-proper noun|g=f}} :: Jerusalem
   بيت المقدس (beyt al-muqáddas or al-máqdis) (proper noun) :: Jerusalem (the capital of Palestine and Israel)
   مسجد مَسْجِدٌ (masjid) {m}, مسجدان (masjidān) dual, مساجد (masājid) {p} :: mosque
@@ -3727,7 +3727,7 @@ Index: EN EN->AR
   مصر {{ar-verb (old)|II|مصر|máṣṣara}}{{ar-verb (old)|V|تمصر|tamáṣṣara}} :: to become a populated area, to become a big city, to become a metropolis
 ===Middle===
   الشرق الأوسط (aš-šarq al-áwsaṭ) {{ar-proper noun|g=m}} :: The Middle East
-  أورشليم (Ūrušalīm) {ar-proper noun} :: Jerusalem (city in the Middle East)
+  أورشليم (ʾŪrušalīm) {ar-proper noun} :: Jerusalem (city in the Middle East)
 ===midwife===
   ولّد (wállada) {{ar-verb|form=2|I=و|impf=يولد|impfhead=يولّد|impftr=yuwállidu}} :: to assist in childbirth (as a midwife)
 ===milk===

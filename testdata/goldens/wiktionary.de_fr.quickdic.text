@@ -1,5 +1,5 @@
 dictInfo=SomeWikiDataTrans2Trans
-EntrySource: wiktionary.de_fr.quickdic 1757
+EntrySource: wiktionary.de_fr.quickdic 1813
 
 Index: DE DE->FR
 ***Aar***
@@ -24,6 +24,8 @@ Index: DE DE->FR
   Abduktion {f} :: abduction {f}
 ***Abelmoschus***
   Abelmoschus :: ambrette {f}
+***abelsch***
+  abelsch, kommutativ :: abélien {m}, abélienne {f}, commutatif {m}, commutative {f}
 ===aber===
   allerdings, aber hallo :: absolument, mets-en
 ***aberrante***
@@ -77,6 +79,8 @@ Index: DE DE->FR
   Pakt {m}, Abkommen {n}, Abmachung {f}, Abschluss {m} :: contrat {m}
 ***abschüssig***
   abgerissen, abschüssig :: précipitamment
+***Absolutismus***
+  Absolutismus {m} :: absolutisme
 ***absolvieren***
   absolvieren :: absoudre
 ***abspritzen***
@@ -196,7 +200,7 @@ Index: DE DE->FR
   {{ttbc|de}}, Arsch {m}, Arschloch {m}, Schwanzlutscher :: connard {m}, pédé {m}
 ***Arschloch***
   {{ttbc|de}}, Arsch {m}, Arschloch {m}, Schwanzlutscher :: connard {m}, pédé {m}
-  Wichser, Arschloch, Drecksau, Mutterficker :: fils de pute, nique ta mère
+  Wichser, Arschloch, Drecksau, Mutterficker :: fils de pute, enculé de ta mère
 ***Arznei***
   Arznei {f}, Medizin {f}, Medikament {n} :: médicament {m}, remède {m}
 ===Arzt===
@@ -243,6 +247,8 @@ Index: DE DE->FR
   Außerirdischer {m}, Außerirdische {f} :: extraterrestre, gamien {m}
 ***Außerirdischer***
   Außerirdischer {m}, Außerirdische {f} :: extraterrestre, gamien {m}
+***austauschen***
+  tauschen, austauschen, vertauschen, wechseln :: échanger
 ***austeilen***
   austeilen, geben :: distribuer
 ***Avatar***
@@ -296,6 +302,8 @@ Index: DE DE->FR
   Bindfäden regnen, in Strömen regnen, aus allen Kannen gießen, aus allen Kannen schütten, wie aus Eimern schütten :: pleuvoir des cordes, pleuvoir à verse, pleuvoir des hallebardes, pleuvoir comme vache qui pisse, pleuvoir à boire debout, dracher
 ***BIP***
   BIP :: PIB {m}
+***Bisschen***
+  Bisschen {n}, Wenig {n}, Stück {n}, Stückchen {n}, Happen {m} :: petit morceau {m}, peu {m}
 ***Bit***
   Bit {n} :: bit {m}
 ***bitter***
@@ -355,8 +363,10 @@ Index: DE DE->FR
   Dekade {f} :: dizaine, décade
 ===dem===
   wie dem auch sei :: bof
+===den===
+  die Klappe halten, den Mund halten :: se taire (taire)
 ***denn***
-  weil, denn :: parce que, car
+  weil, denn :: à cause de
   weil, denn, da :: parce que, car
 ***der***
   der {m}, die {f}, das {n}, die {p} :: le {m}, la {f}, les {|p}
@@ -384,6 +394,7 @@ Index: DE DE->FR
   der {m}, die {f}, das {n}, die {p} :: le {m}, la {f}, les {|p}
   der {m}, die {f}, das {n}, die {p} :: le {m}, la {f}, les {|p}
   der {m}, die {f}, das {n}, die {p} :: le {m}, la {f}, les {|p}
+  die Klappe halten, den Mund halten :: se taire (taire)
 ***Dienstag***
   Dienstag {m} :: mardi {m}
 ===diethylamid===
@@ -400,7 +411,7 @@ Index: DE DE->FR
   Dose {f}, Kanister {m} :: bidon {m}, canette {f}
   Dose {f}, Konservendose {f} :: boîte de conserve {f}
 ***Drecksau***
-  Wichser, Arschloch, Drecksau, Mutterficker :: fils de pute, nique ta mère
+  Wichser, Arschloch, Drecksau, Mutterficker :: fils de pute, enculé de ta mère
 ***drei***
   drei :: trois
 ***Drei***
@@ -452,7 +463,7 @@ Index: DE DE->FR
 ***Eisenbahn***
   Eisenbahn {f}, Bahn {f} :: chemin de fer {m}
 ***Eisenbahnlinie***
-  Eisenbahnlinie {f}, Gleis {n} :: chemin de fer {m}, réseau ferroviaire {m}
+  Eisenbahnlinie {f}, Gleis {n} :: chemin de fer {m}, réseau ferroviaire {m}, voie ferrée {f}
 ***Elefant***
   Elefant {m}, Elefantenbulle {m}, Elefantin {f}, Elefantenkuh {f}, Elefantenkalb {n} :: éléphant {m}, éléphante {f}, éléphanteau {m}, éléphantelle {f}
 ***Elefantenbulle***
@@ -488,8 +499,10 @@ Index: DE DE->FR
   entführen :: enlever, ravir
 ***Entführung***
   Entführung {f} :: rapt {m}, enlèvement {m}
+===enthalten===
+  sich enthalten :: s'abstenir
 ***entschlüsseln***
-  entschlüsseln :: décrypter, déchiffrer
+  entschlüsseln :: déchiffrer
 ***Enzyklopädie***
   Enzyklopädie {f} :: encyclopédie {f}
 ***Erdferkel***
@@ -508,6 +521,7 @@ Index: DE DE->FR
   erröten :: rougir
 ***Errungenschaft***
   Errungenschaft {f}, Vollendung {f} :: réalisation {f}
+  Errungenschaft {f}, Vollendung {f} :: haut fait {m}
 ===erwähnt===
   oben genannt, oben erwähnt :: susmentionné, précité {m}, susdit {m}
   oben erwähnt :: susmentionné, susdit, susnommé
@@ -582,10 +596,10 @@ Index: DE DE->FR
   Fotze {n} :: con {m}, salaud {m}, connard
 ***frei***
   frei, ungebunden :: libre {m|f}
-  frei :: libre
+  frei, ungebunden :: libre
   frei :: libre
   frei, unbesetzt :: libre {m|f}, disponible {m|f}
-  frei :: libre
+  frei, ungebunden :: libre
   frei :: libre
   gratis, kostenlos, frei, kostenfrei :: gratuit
 ===freie===
@@ -656,7 +670,7 @@ Index: DE DE->FR
 ***Gießkanne***
   Gießkanne {f} :: arrosoir {m}
 ***Gleis***
-  Eisenbahnlinie {f}, Gleis {n} :: chemin de fer {m}, réseau ferroviaire {m}
+  Eisenbahnlinie {f}, Gleis {n} :: chemin de fer {m}, réseau ferroviaire {m}, voie ferrée {f}
 ***Gnosis***
   Gnosis {f} :: gnose {f}
 ***Gras***
@@ -688,6 +702,8 @@ Index: DE DE->FR
   Halbinsel {f}, Peninsula {f}, Landzunge {f} :: péninsule {f}
 ===hallo===
   allerdings, aber hallo :: absolument, mets-en
+===halten===
+  die Klappe halten, den Mund halten :: se taire (taire)
 ***Handel***
   Handel {m}, Kommerz {f} :: commerce {m}
 ***handeln***
@@ -696,6 +712,8 @@ Index: DE DE->FR
   Akkordeon {n}, Ziehharmonika {f}, Handharmonika {f}, Handorgel {f}, Quetsche {f}, Quetschkommode {f}, Schifferklavier {n} :: accordéon {m}
 ***Handorgel***
   Akkordeon {n}, Ziehharmonika {f}, Handharmonika {f}, Handorgel {f}, Quetsche {f}, Quetschkommode {f}, Schifferklavier {n} :: accordéon {m}
+***Happen***
+  Bisschen {n}, Wenig {n}, Stück {n}, Stückchen {n}, Happen {m} :: petit morceau {m}, peu {m}
 ***Hartung***
   Januar {m}, Jänner, Hartung {m} :: janvier {m}
 ***Haupt***
@@ -761,6 +779,8 @@ Index: DE DE->FR
   in :: dans
   unter, in, im, während :: dans, en, en, dans
   Bindfäden regnen, in Strömen regnen, aus allen Kannen gießen, aus allen Kannen schütten, wie aus Eimern schütten :: pleuvoir des cordes, pleuvoir à verse, pleuvoir des hallebardes, pleuvoir comme vache qui pisse, pleuvoir à boire debout, dracher
+***Informatik***
+  Informatik {f} :: informatique {f}
 ***Inkarnation***
   Avatar {m}, Avatara {m}, Herabkunft {f}, Inkarnation {f} :: avatar {m}, incarnation
 ***irisch***
@@ -773,7 +793,7 @@ Index: DE DE->FR
 ***ist***
   ist :: est
 ***ität***
-  -ität {f} :: -ité {f}
+  -ität {f} :: -ité {f}, -té {f}
 ***jäh***
   abrupt, jäh, schroff, steil :: abrupt
   abrupt, jäh :: brusque, precipité
@@ -814,7 +834,7 @@ Index: DE DE->FR
 ***Kacke***
   Scheiße, Kacke {f} :: crotte {f}
 ***Kaffer***
-  Neger {m}, Nigger {m}, Kaffer {m} :: bougnoule, nègre
+  Neger {m}, Nigger {m}, Kaffer {m} :: bougnoule, nègre, négro {m|f}
 ***Kalender***
   Kalender {m} :: calendrier
   Kalender {m} :: calendrier {m}
@@ -837,6 +857,8 @@ Index: DE DE->FR
   Katze {f}, Kater {m}, Kätzin {f} :: chat {m}, chatte {f}, chaton {m}, chatonne {f}
 ***kläglich***
   elend, kläglich, jämmerlich :: abject {m}, abjecte {f}, méprisable
+===Klappe===
+  die Klappe halten, den Mund halten :: se taire (taire)
 ***Kleinkatze***
   Kleinkatze {f}, Feline {m}, Feline {f}, Felinen {p}, Felinae {p} :: féliné {m}
 ***Klo***
@@ -862,6 +884,8 @@ Index: DE DE->FR
   abspritzen, kommen :: venir, juter, éjaculer, jouir
 ***Kommerz***
   Handel {m}, Kommerz {f} :: commerce {m}
+***kommutativ***
+  abelsch, kommutativ :: abélien {m}, abélienne {f}, commutatif {m}, commutative {f}
 ***kompetent***
   kompetent :: habilité
 ***können***
@@ -942,6 +966,8 @@ Index: DE DE->FR
   man, einer :: on, quelqu’un
 ***Mann***
   Mann {m}, Herr {m} :: homme {m}
+***Mark***
+  Mark {f} :: marche {f}
 ***Marsch***
   Marsch {m} :: marche {f}
   Marsch {m}, Marschmusik {f} :: marche {f}
@@ -1005,6 +1031,8 @@ Index: DE DE->FR
   Mösenfurz {m} :: pet vaginal {m}
 ***Multikulturalismus***
   Multikulturalismus {m} :: multiculturalisme {m}
+===Mund===
+  die Klappe halten, den Mund halten :: se taire (taire)
 ***Mundart***
   Dialekt {m}, Mundart :: dialecte {m}, patois {m}
 ***Mundstück***
@@ -1020,7 +1048,7 @@ Index: DE DE->FR
 ***Musikerin***
   Musikant {m}, Musiker {m}, Musikerin {f} :: musicien {m}, musicienne {f}
 ***Mutterficker***
-  Wichser, Arschloch, Drecksau, Mutterficker :: fils de pute, nique ta mère
+  Wichser, Arschloch, Drecksau, Mutterficker :: fils de pute, enculé de ta mère
 ***Name***
   Name {m} :: nom {m}
   Name {m}, Ruf {m} :: nom {m}
@@ -1029,10 +1057,10 @@ Index: DE DE->FR
 ***Nebelung***
   November {m}, Nebelung {m} :: novembre {m}
 ***Neger***
-  Neger {m}, Nigger {m}, Kaffer {m} :: bougnoule, nègre
+  Neger {m}, Nigger {m}, Kaffer {m} :: bougnoule, nègre, négro {m|f}
 ***nennen***
   nennen, taufen, bezeichnen, benennen :: nommer, dénommer
-  nennen, wählen :: choisir, élire
+  nennen :: choisir, élire
   nennen :: préciser
 ***neun***
   neun :: neuf
@@ -1047,15 +1075,18 @@ Index: DE DE->FR
 ***Niederländisch***
   Niederländisch {n}, Holländisch {n} :: néerlandais {m}, hollandais {m}
 ***Nigger***
-  Neger {m}, Nigger {m}, Kaffer {m} :: bougnoule, nègre
+  Neger {m}, Nigger {m}, Kaffer {m} :: bougnoule, nègre, négro {m|f}
 ***Nille***
   Eichel {f}, Nille {f} :: gland {m}
 ***Nomen***
   Substantiv {n}, Nomen {n}, Dingwort {n}, Gegenstandswort {n} :: nom {m}, substantif {m}
+  zählbares Nomen {n} :: nom dénombrable {m}, nom comptable {m}
 ***Nonsens***
   Nonsens {m}, Unsinn {m} :: sottise {m}
 ***Nordpol***
   Nordpol :: Nicolas
+***Noten***
+  Noten {f|p} :: partition {f}
 ***November***
   November {m}, Nebelung {m} :: novembre {m}
 ***null***
@@ -1230,6 +1261,8 @@ Index: DE DE->FR
   Akkordeon {n}, Ziehharmonika {f}, Handharmonika {f}, Handorgel {f}, Quetsche {f}, Quetschkommode {f}, Schifferklavier {n} :: accordéon {m}
 ***Schirm***
   Schirm {m}, Sonnenschirm {m}, Regenschirm {m} :: parapluie {m}
+***schirmherrschaft***
+  schirmherrschaft {f} :: soutien {m}
 ***Schlachthaus***
   Schlachthaus {n}, Schlachthof {m} :: abattoir {m}
 ***Schlachthof***
@@ -1275,8 +1308,12 @@ Index: DE DE->FR
   Sekunde {f}, Augenblick {m}, Moment {m} :: seconde {f}, instant {m}
 ***seltsam***
   seltsam, merkwürdig, komisch :: bizarre, étrange
+***Semantik***
+  Semantik {f} :: sémantique {f}
 ***September***
   September {m}, Scheiding {m} :: septembre {m}
+===sich===
+  sich enthalten :: s'abstenir
 ===Sie===
   ich liebe Sie, ich habe Sie gern, ich habe Sie lieb :: je t'aime, je vous aime, je t'adore, je vous adore
 ***sieben***
@@ -1343,6 +1380,10 @@ Index: DE DE->FR
   Stern {m} :: étoile {f}, astre
 ===Strömen===
   Bindfäden regnen, in Strömen regnen, aus allen Kannen gießen, aus allen Kannen schütten, wie aus Eimern schütten :: pleuvoir des cordes, pleuvoir à verse, pleuvoir des hallebardes, pleuvoir comme vache qui pisse, pleuvoir à boire debout, dracher
+***Stück***
+  Bisschen {n}, Wenig {n}, Stück {n}, Stückchen {n}, Happen {m} :: petit morceau {m}, peu {m}
+***Stückchen***
+  Bisschen {n}, Wenig {n}, Stück {n}, Stückchen {n}, Happen {m} :: petit morceau {m}, peu {m}
 ***Stunde***
   Stunde {f} :: heure {f}
 ***Substantiv***
@@ -1366,6 +1407,9 @@ Index: DE DE->FR
   nennen, taufen, bezeichnen, benennen :: nommer, dénommer
 ***tauschen***
   tauschen :: troquer
+  tauschen, austauschen, vertauschen, wechseln :: échanger
+***Tauschhandel***
+  Tauschhandel {m} :: troc {m}
 ***Teich***
   Teich {m} :: étang {m}, mare {f}
 ***Thanatos***
@@ -1383,8 +1427,8 @@ Index: DE DE->FR
 ***transfinit***
   transfinit :: transfini
 ***transitiv***
-  transitiv :: transitif {m}, transitive {f}
-  transitiv :: transitif {m}, transitive {f}
+  transitiv :: transitif
+  transitiv :: transitif
 ===transitives===
   transitives Verb {n} :: verbe transitif {m}
 ***Transporter***
@@ -1428,6 +1472,8 @@ Index: DE DE->FR
   abrupt, plötzlich, unerwartet :: abruptement, tout d'un coup
 ***ungebunden***
   frei, ungebunden :: libre {m|f}
+  frei, ungebunden :: libre
+  frei, ungebunden :: libre
 ***ungefähr***
   ungefähr :: proche, à côté
   ungefähr :: environ
@@ -1451,7 +1497,7 @@ Index: DE DE->FR
   Treffen {n}, Verabredung {f} :: rendez-vous {m}
   Rendezvous {n}, Date {n}, Verabredung {n}, Stelldichein {n} :: rendez-vous {m}, rendez-vous d'amour {m}
 ***verabscheuen***
-  verabscheuen :: détester
+  verabscheuen :: détester, abhorrer
   verabscheuen :: détester
 ***verabscheuungswürdig***
   verabscheuungswürdig, verhasst, abscheulich :: abominable
@@ -1496,6 +1542,8 @@ Index: DE DE->FR
   versehentlich :: accidentellement
 ***versterben***
   sterben, umkommen, versterben :: mourir, expirer, trépasser
+***vertauschen***
+  tauschen, austauschen, vertauschen, wechseln :: échanger
 ***Verwahrstelle***
   Verwahrstelle {f} :: fourrière {f}
 ***Verzicht***
@@ -1511,6 +1559,7 @@ Index: DE DE->FR
   Quartal {n}, Vierteljahr {n} :: trimestre {m}
 ***Vollendung***
   Errungenschaft {f}, Vollendung {f} :: réalisation {f}
+  Errungenschaft {f}, Vollendung {f} :: haut fait {m}
 ***von***
   über, von :: au sujet de, à propos de
 ***Vorname***
@@ -1526,8 +1575,6 @@ Index: DE DE->FR
   Wachstum {n} :: croissance {f}
 ***Waffe***
   Waffe {f} :: arme {f}
-***wählen***
-  nennen, wählen :: choisir, élire
 ***während***
   unter, in, im, während :: dans, en, en, dans
 ***Wandelstern***
@@ -1536,8 +1583,10 @@ Index: DE DE->FR
   was immer, was auch immer :: quoi que
 ***WC***
   Toilette {f}, WC {n}, Klo {n} :: WC {m}
+***wechseln***
+  tauschen, austauschen, vertauschen, wechseln :: échanger
 ***weil***
-  weil, denn :: parce que, car
+  weil, denn :: à cause de
   weil, denn, da :: parce que, car
 ***weilen***
   weilen :: demeurer
@@ -1549,12 +1598,14 @@ Index: DE DE->FR
   Weltausstellung {f}, Expo {f} :: Exposition universelle {f}, Expo {f}, Exposition mondiale {f}
 ***wenig***
   wenig :: peu
+***Wenig***
+  Bisschen {n}, Wenig {n}, Stück {n}, Stückchen {n}, Happen {m} :: petit morceau {m}, peu {m}
 ***werden***
   werden :: être
 ***Wichse***
   Sperma {n}, Wichse {f} :: foutre {m}, jute {f}
 ***Wichser***
-  Wichser, Arschloch, Drecksau, Mutterficker :: fils de pute, nique ta mère
+  Wichser, Arschloch, Drecksau, Mutterficker :: fils de pute, enculé de ta mère
 ===wie===
   Bindfäden regnen, in Strömen regnen, aus allen Kannen gießen, aus allen Kannen schütten, wie aus Eimern schütten :: pleuvoir des cordes, pleuvoir à verse, pleuvoir des hallebardes, pleuvoir comme vache qui pisse, pleuvoir à boire debout, dracher
   wie dem auch sei :: bof
@@ -1582,6 +1633,8 @@ Index: DE DE->FR
 ***Zahl***
   Anzahl {f}, Zahl {f} :: nombre {m}, numéro {m}
   Zahl {f}, Ziffer {f}, Zahlwort {n} :: chiffre {m}
+===zählbares===
+  zählbares Nomen {n} :: nom dénombrable {m}, nom comptable {m}
 ***Zahlwort***
   Zahl {f}, Ziffer {f}, Zahlwort {n} :: chiffre {m}
 ***zehn***
@@ -1630,6 +1683,7 @@ Index: FR FR->DE
   über, von :: au sujet de, à propos de
   beieinander :: côte à côte
   Ausland :: à l'étranger
+  weil, denn :: à cause de
 ***abaca***
   Abaka :: abaca {m}
 ***abaisser***
@@ -1663,10 +1717,16 @@ Index: FR FR->DE
   Abduktion {f} :: abduction {f}
 ***abécédaire***
   alphabetisch :: alphabétique, abécédaire
+***abélien***
+  abelsch, kommutativ :: abélien {m}, abélienne {f}, commutatif {m}, commutative {f}
+***abélienne***
+  abelsch, kommutativ :: abélien {m}, abélienne {f}, commutatif {m}, commutative {f}
 ***aberrance***
   Abweichung {f} :: aberrance {f}
 ***aberrant***
   aberrante :: aberrant {m}
+***abhorrer***
+  verabscheuen :: détester, abhorrer
 ***abîme***
   Abgrund {m} :: précipice {m}, abysse {m}, abîme {m}, gouffre {m}
 ***abiogenèse***
@@ -1713,8 +1773,12 @@ Index: FR FR->DE
   Abszisse {f} :: abscisse {f}
 ***absolument***
   allerdings, aber hallo :: absolument, mets-en
+***absolutisme***
+  Absolutismus {m} :: absolutisme
 ***absoudre***
   absolvieren :: absoudre
+===abstenir===
+  sich enthalten :: s'abstenir
 ***abysse***
   Abgrund {m} :: précipice {m}, abysse {m}, abîme {m}, gouffre {m}
 ***académisme***
@@ -1912,7 +1976,7 @@ Index: FR FR->DE
 ***bond***
   Sprung {m}, Satz {m} :: saut {m}, bond {m}
 ***bougnoule***
-  Neger {m}, Nigger {m}, Kaffer {m} :: bougnoule, nègre
+  Neger {m}, Nigger {m}, Kaffer {m} :: bougnoule, nègre, négro {m|f}
 ***boulier***
   Abakus {m}, Rechenbrett {n} :: abaque {m}, boulier {m}, boulier compteur {m}
 ***bouquin***
@@ -1937,10 +2001,11 @@ Index: FR FR->DE
 ***capacité***
   Fähigkeit {f} :: capacité {f}, pouvoir {m}
 ***car***
-  weil, denn :: parce que, car
   weil, denn, da :: parce que, car
 ***caractère***
   Buchstabe {m} :: lettre {f}, caractère {m}
+===cause===
+  weil, denn :: à cause de
 ***centurie***
   Zenturie {f} :: centurie {f}
 ***cesser***
@@ -1965,7 +2030,7 @@ Index: FR FR->DE
 ***chef***
   Oberhaupt {n}, Haupt {n}, Kopf {m} :: chef {m}
 ===chemin===
-  Eisenbahnlinie {f}, Gleis {n} :: chemin de fer {m}, réseau ferroviaire {m}
+  Eisenbahnlinie {f}, Gleis {n} :: chemin de fer {m}, réseau ferroviaire {m}, voie ferrée {f}
   Eisenbahn {f}, Bahn {f} :: chemin de fer {m}
 ***chiffre***
   Nummer :: chiffre {m}
@@ -1978,7 +2043,7 @@ Index: FR FR->DE
   traditionelles Chinesisch {n}, Langzeichen {n} :: chinois traditionnel {m}
   vereinfachtes Chinesisch {n}, Kurzzeichen {n} :: chinois simplifié {m}
 ***choisir***
-  nennen, wählen :: choisir, élire
+  nennen :: choisir, élire
 ***ciel***
   Himmel {m} :: ciel {m}
   Luft {f}, Himmel {m} :: ciel {m}
@@ -2005,6 +2070,12 @@ Index: FR FR->DE
 ***commerce***
   Handel {m}, Kommerz {f} :: commerce {m}
   handeln :: faire le commerce
+***commutatif***
+  abelsch, kommutativ :: abélien {m}, abélienne {f}, commutatif {m}, commutative {f}
+***commutative***
+  abelsch, kommutativ :: abélien {m}, abélienne {f}, commutatif {m}, commutative {f}
+===comptable===
+  zählbares Nomen {n} :: nom dénombrable {m}, nom comptable {m}
 ===compteur===
   Abakus {m}, Rechenbrett {n} :: abaque {m}, boulier {m}, boulier compteur {m}
   Tacho {m}, Tachometer :: indicateur de vitesse {m}, compteur de vitesse {m}
@@ -2095,8 +2166,9 @@ Index: FR FR->DE
   Tacho {m}, Tachometer :: indicateur de vitesse {m}, compteur de vitesse {m}
   Gewerkschaft {f} :: syndicat {m}, syndicat de métier {m}
   Punkt {m}, Standpunkt {m} :: point de vue {m}, avis {m}, opinion {f}
-  Wichser, Arschloch, Drecksau, Mutterficker :: fils de pute, nique ta mère
-  Eisenbahnlinie {f}, Gleis {n} :: chemin de fer {m}, réseau ferroviaire {m}
+  Wichser, Arschloch, Drecksau, Mutterficker :: fils de pute, enculé de ta mère
+  weil, denn :: à cause de
+  Eisenbahnlinie {f}, Gleis {n} :: chemin de fer {m}, réseau ferroviaire {m}, voie ferrée {f}
   Eisenbahn {f}, Bahn {f} :: chemin de fer {m}
 ***dé***
   Würfel {m} :: dé {m}
@@ -2109,11 +2181,9 @@ Index: FR FR->DE
 ***décennie***
   Jahrzehnt {n}, Dekade {f} :: décennie {f}
 ***déchiffrer***
-  entschlüsseln :: décrypter, déchiffrer
+  entschlüsseln :: déchiffrer
 ***décontenancé***
   beschämt, verlegen :: confus, décontenancé
-***décrypter***
-  entschlüsseln :: décrypter, déchiffrer
 ***défilé***
   Parade {f} :: défilé {m}, manifestation {f}
 ***définition***
@@ -2123,6 +2193,8 @@ Index: FR FR->DE
   befreien, freisetzen :: libérer, dégager, affranchir
 ***demeurer***
   weilen :: demeurer
+===dénombrable===
+  zählbares Nomen {n} :: nom dénombrable {m}, nom comptable {m}
 ***dénommer***
   nennen, taufen, bezeichnen, benennen :: nommer, dénommer
 ===des===
@@ -2136,7 +2208,7 @@ Index: FR FR->DE
 ***détail***
   Punkt {m}, Zeitpunkt {m} :: point {m}, détail {m}
 ***détester***
-  verabscheuen :: détester
+  verabscheuen :: détester, abhorrer
   verabscheuen :: détester
 ***détruire***
   vernichten :: détruire
@@ -2176,6 +2248,8 @@ Index: FR FR->DE
   Doktrin {f} :: doctrine {f}
 ***dracher***
   Bindfäden regnen, in Strömen regnen, aus allen Kannen gießen, aus allen Kannen schütten, wie aus Eimern schütten :: pleuvoir des cordes, pleuvoir à verse, pleuvoir des hallebardes, pleuvoir comme vache qui pisse, pleuvoir à boire debout, dracher
+***échanger***
+  tauschen, austauschen, vertauschen, wechseln :: échanger
 ***échouer***
   abbrechen :: interrompre, abandonner, échouer, s'arrêter
 ***Édouard***
@@ -2191,7 +2265,7 @@ Index: FR FR->DE
 ***éléphantelle***
   Elefant {m}, Elefantenbulle {m}, Elefantin {f}, Elefantenkuh {f}, Elefantenkalb {n} :: éléphant {m}, éléphante {f}, éléphanteau {m}, éléphantelle {f}
 ***élire***
-  nennen, wählen :: choisir, élire
+  nennen :: choisir, élire
 ***emblème***
   Avatar {m} :: avatar {m}, emblème, symbole
 ***en***
@@ -2201,6 +2275,8 @@ Index: FR FR->DE
   allerdings, aber hallo :: absolument, mets-en
 ***encourager***
   ermutigen, aufhetzen, anstiften :: encourager
+===enculé===
+  Wichser, Arschloch, Drecksau, Mutterficker :: fils de pute, enculé de ta mère
 ***encyclopédie***
   Enzyklopädie {f} :: encyclopédie {f}
 ***enfer***
@@ -2285,6 +2361,8 @@ Index: FR FR->DE
   Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, Engelmacher {m}, Engelmacherin {f} :: médecin avorteur {m}, avorteur {m}, avorteuse {f}, faiseur d'anges {m}, faiseuse d'anges {f}
 ===faiseuse===
   Abtreiber {m}, Abtreiberin {f}, Abtreibungsarzt {m}, Abtreibungsärztin {f}, abtreibender Arzt {m}, abtreibende Ärztin {f}, Abtreibungshelfer {m}, Abtreibungshelferin {f}, Engelmacher {m}, Engelmacherin {f} :: médecin avorteur {m}, avorteur {m}, avorteuse {f}, faiseur d'anges {m}, faiseuse d'anges {f}
+===fait===
+  Errungenschaft {f}, Vollendung {f} :: haut fait {m}
 ***Fanny***
   Fanny :: Fanny
 ***FAQ***
@@ -2311,14 +2389,16 @@ Index: FR FR->DE
 ***féloidés***
   Katzenartige {m}, Katzenartige {f}, Katzenartigen {p}, Feliformia {p}, Feloidea {p} :: féliforme {m}, féliformes {p}, féloidé {m}, féloidés {p}
 ===fer===
-  Eisenbahnlinie {f}, Gleis {n} :: chemin de fer {m}, réseau ferroviaire {m}
+  Eisenbahnlinie {f}, Gleis {n} :: chemin de fer {m}, réseau ferroviaire {m}, voie ferrée {f}
   Eisenbahn {f}, Bahn {f} :: chemin de fer {m}
+===ferrée===
+  Eisenbahnlinie {f}, Gleis {n} :: chemin de fer {m}, réseau ferroviaire {m}, voie ferrée {f}
 ===ferroviaire===
-  Eisenbahnlinie {f}, Gleis {n} :: chemin de fer {m}, réseau ferroviaire {m}
+  Eisenbahnlinie {f}, Gleis {n} :: chemin de fer {m}, réseau ferroviaire {m}, voie ferrée {f}
 ***février***
   Februar {m}, Feber, Hornung {m} :: février {m}
 ===fils===
-  Wichser, Arschloch, Drecksau, Mutterficker :: fils de pute, nique ta mère
+  Wichser, Arschloch, Drecksau, Mutterficker :: fils de pute, enculé de ta mère
 ***flûte***
   Flöte {f}, Querflöte {f} :: flûte {f}
 ***fourgon***
@@ -2362,6 +2442,8 @@ Index: FR FR->DE
   Abalone {f}, Meerohr {n}, Seeohr {n} :: ormeau {m}, haliotide {f}
 ===hallebardes===
   Bindfäden regnen, in Strömen regnen, aus allen Kannen gießen, aus allen Kannen schütten, wie aus Eimern schütten :: pleuvoir des cordes, pleuvoir à verse, pleuvoir des hallebardes, pleuvoir comme vache qui pisse, pleuvoir à boire debout, dracher
+===haut===
+  Errungenschaft {f}, Vollendung {f} :: haut fait {m}
 ***herbe***
   Gras {n} :: herbe {f}
   Gras {n} :: herbe {f}, beuh {f}
@@ -2412,6 +2494,8 @@ Index: FR FR->DE
   eingeboren, einheimisch :: indigène
 ***indiquer***
   zeigen :: pointer, indiquer
+***informatique***
+  Informatik {f} :: informatique {f}
 ***inhabituel***
   unnormal, ungewöhnlich :: inhabituel, hors norme, exceptionnel
 ***instant***
@@ -2425,7 +2509,7 @@ Index: FR FR->DE
   irisch, irländisch :: irlandais
   Irisch {n} :: irlandais, gaélique
 ***ité***
-  -ität {f} :: -ité {f}
+  -ität {f} :: -ité {f}, -té {f}
 ***janvier***
   Januar {m}, Jänner, Hartung {m} :: janvier {m}
 ***Japon***
@@ -2515,10 +2599,10 @@ Index: FR FR->DE
   freie Meinungsäußerung {f}, Redefreiheit {f} :: liberté d'expression {f}
 ***libre***
   frei, ungebunden :: libre {m|f}
-  frei :: libre
+  frei, ungebunden :: libre
   frei :: libre
   frei, unbesetzt :: libre {m|f}, disponible {m|f}
-  frei :: libre
+  frei, ungebunden :: libre
   frei :: libre
 ===liste===
   Beobachtungsliste {f} :: liste de suivi {f}
@@ -2544,6 +2628,7 @@ Index: FR FR->DE
 ***marche***
   Marsch {m} :: marche {f}
   Marsch {m}, Marschmusik {f} :: marche {f}
+  Mark {f} :: marche {f}
 ***marcher***
   marschieren :: marcher
 ***mardi***
@@ -2568,7 +2653,7 @@ Index: FR FR->DE
 ***mercredi***
   Mittwoch {m}, Wotanstag {m} :: mercredi {m}
 ===mère===
-  Wichser, Arschloch, Drecksau, Mutterficker :: fils de pute, nique ta mère
+  Wichser, Arschloch, Drecksau, Mutterficker :: fils de pute, enculé de ta mère
 ===métier===
   Gewerkschaft {f} :: syndicat {m}, syndicat de métier {m}
 ***métrique***
@@ -2604,6 +2689,8 @@ Index: FR FR->DE
   Weltausstellung {f}, Expo {f} :: Exposition universelle {f}, Expo {f}, Exposition mondiale {f}
 ***monothéisme***
   Monotheismus {m} :: monothéisme {m}
+===morceau===
+  Bisschen {n}, Wenig {n}, Stück {n}, Stückchen {n}, Happen {m} :: petit morceau {m}, peu {m}
 ***morphème***
   Morphem {n} :: morphème {m}
 ***mors***
@@ -2632,13 +2719,13 @@ Index: FR FR->DE
 ***Néerlandais***
   Niederländer, Holländer :: Néerlandais, Hollandais
 ***nègre***
-  Neger {m}, Nigger {m}, Kaffer {m} :: bougnoule, nègre
+  Neger {m}, Nigger {m}, Kaffer {m} :: bougnoule, nègre, négro {m|f}
+***négro***
+  Neger {m}, Nigger {m}, Kaffer {m} :: bougnoule, nègre, négro {m|f}
 ***neuf***
   neun :: neuf
 ***Nicolas***
   Nordpol :: Nicolas
-===nique===
-  Wichser, Arschloch, Drecksau, Mutterficker :: fils de pute, nique ta mère
 ===noir===
   rabenschwarz :: noir comme un corbeau
 ***nom***
@@ -2646,6 +2733,7 @@ Index: FR FR->DE
   Name {m} :: nom {m}
   Name {m}, Ruf {m} :: nom {m}
   Vorname {m} :: prénom {m}, petit nom {m}
+  zählbares Nomen {n} :: nom dénombrable {m}, nom comptable {m}
   Eigenname {m} :: nom propre
 ***nombre***
   Anzahl {f}, Zahl {f} :: nombre {m}, numéro {m}
@@ -2704,13 +2792,14 @@ Index: FR FR->DE
 ***parapluie***
   Schirm {m}, Sonnenschirm {m}, Regenschirm {m} :: parapluie {m}
 ===parce===
-  weil, denn :: parce que, car
   weil, denn, da :: parce que, car
 ***parole***
   Ehrenwort {n} :: parole {f}
   Wort {n} :: parole {f}
 ***part***
   Anteil {m}, Portion {f} :: part
+***partition***
+  Noten {f|p} :: partition {f}
 ***patois***
   Dialekt {m}, Mundart :: dialecte {m}, patois {m}
 ===Pays===
@@ -2732,8 +2821,10 @@ Index: FR FR->DE
   furzen, pupsen :: péter
 ===petit===
   Vorname {m} :: prénom {m}, petit nom {m}
+  Bisschen {n}, Wenig {n}, Stück {n}, Stückchen {n}, Happen {m} :: petit morceau {m}, peu {m}
 ***peu***
   wenig :: peu
+  Bisschen {n}, Wenig {n}, Stück {n}, Stückchen {n}, Happen {m} :: petit morceau {m}, peu {m}
 ***phraseur***
   weitschweifig :: prolixe {m|f}, fastidieux, verbeux, phraseur, raseur
 ***PIB***
@@ -2818,7 +2909,7 @@ Index: FR FR->DE
 ***protèle***
   Erdwolf {m} :: protèle {m}
 ===pute===
-  Wichser, Arschloch, Drecksau, Mutterficker :: fils de pute, nique ta mère
+  Wichser, Arschloch, Drecksau, Mutterficker :: fils de pute, enculé de ta mère
 ***qualité***
   Qualität {f} :: qualité {f}
   Qualität {f}, Eigenschaft {f} :: qualité {f}
@@ -2833,7 +2924,6 @@ Index: FR FR->DE
   vier :: quatre {m}
 ===que===
   was immer, was auch immer :: quoi que
-  weil, denn :: parce que, car
   weil, denn, da :: parce que, car
 ===quelqu===
   man, einer :: on, quelqu’un
@@ -2870,7 +2960,7 @@ Index: FR FR->DE
 ***répugnant***
   {{ttbc|de}} :: {{ttbc|fr}}, répugnant
 ===réseau===
-  Eisenbahnlinie {f}, Gleis {n} :: chemin de fer {m}, réseau ferroviaire {m}
+  Eisenbahnlinie {f}, Gleis {n} :: chemin de fer {m}, réseau ferroviaire {m}, voie ferrée {f}
 ***réserve***
   Vorrat {m} :: réserve {f}
 ***réserver***
@@ -2885,6 +2975,7 @@ Index: FR FR->DE
   erröten :: rougir
 ===s===
   abbrechen :: interrompre, abandonner, échouer, s'arrêter
+  sich enthalten :: s'abstenir
 ***saison***
   Jahreszeit {f} :: saison {f}
   Staffel {f} :: saison
@@ -2896,6 +2987,8 @@ Index: FR FR->DE
   Sprung {m}, Satz {m} :: saut {m}, bond {m}
 ***sauter***
   springen :: sauter
+===se===
+  die Klappe halten, den Mund halten :: se taire (taire)
 ***second***
   zweiter {m} :: deuxième {m|f}, second {m}, deux {m|f}
   zweiter {m} :: deuxième {m|f}, second {m}
@@ -2911,6 +3004,8 @@ Index: FR FR->DE
   Vorsitzender {m}, Vorsitzende {f} :: secrétaire général, président {m}
 ***semaine***
   Woche {f} :: semaine {f}
+***sémantique***
+  Semantik {f} :: sémantique {f}
 ===sémitisme===
   Antisemitismus {m}, Judenhass {m} :: anti-sémitisme {m}
 ***sept***
@@ -2936,6 +3031,8 @@ Index: FR FR->DE
   Nonsens {m}, Unsinn {m} :: sottise {m}
 ***source***
   Quelle {f} :: source {f}
+***soutien***
+  schirmherrschaft {f} :: soutien {m}
 ***star***
   Prominenter {m}, Prominente {f}, Promi {m}, Star {m} :: étoile {f}, vedette {f}, star {m|f}
 ***stéganographie***
@@ -2978,15 +3075,19 @@ Index: FR FR->DE
   ich liebe dich, Ich habe dich lieb :: je t'aime, je vous aime
   ich liebe Sie, ich habe Sie gern, ich habe Sie lieb :: je t'aime, je vous aime, je t'adore, je vous adore
 ===ta===
-  Wichser, Arschloch, Drecksau, Mutterficker :: fils de pute, nique ta mère
+  Wichser, Arschloch, Drecksau, Mutterficker :: fils de pute, enculé de ta mère
 ===table===
   assoziatives Datenfeld {n} :: tableau associatif {m}, dictionnaire {m}, table d'association {f}
 ===tableau===
   assoziatives Datenfeld {n} :: tableau associatif {m}, dictionnaire {m}, table d'association {f}
 ***tailloir***
   Kapitelldeckplatte {f} :: abaque {f}, tailloir {m}
+***taire***
+  die Klappe halten, den Mund halten :: se taire (taire)
 ***tarte***
   Torte {f} :: tarte {f}
+***té***
+  -ität {f} :: -ité {f}, -té {f}
 ***teinter***
   färben :: colorer, teinter
 ===tendon===
@@ -3010,12 +3111,9 @@ Index: FR FR->DE
 ***transfini***
   transfinit :: transfini
 ***transitif***
-  transitiv :: transitif {m}, transitive {f}
-  transitiv :: transitif {m}, transitive {f}
+  transitiv :: transitif
+  transitiv :: transitif
   transitives Verb {n} :: verbe transitif {m}
-***transitive***
-  transitiv :: transitif {m}, transitive {f}
-  transitiv :: transitif {m}, transitive {f}
 ***travesti***
   Transvestit :: travesti
 ***trépasser***
@@ -3025,6 +3123,8 @@ Index: FR FR->DE
   Trillion {f} :: trillion {m}
 ***trimestre***
   Quartal {n}, Vierteljahr {n} :: trimestre {m}
+***troc***
+  Tauschhandel {m} :: troc {m}
 ***trois***
   drei :: trois
   Drei {f} :: trois {m}
@@ -3080,6 +3180,8 @@ Index: FR FR->DE
 ===vitesse===
   Lichtgeschwindigkeit {f} :: vitesse de la lumière {f}
   Tacho {m}, Tachometer :: indicateur de vitesse {m}, compteur de vitesse {m}
+===voie===
+  Eisenbahnlinie {f}, Gleis {n} :: chemin de fer {m}, réseau ferroviaire {m}, voie ferrée {f}
 ===vous===
   ich liebe dich, Ich habe dich lieb :: je t'aime, je vous aime
   ich liebe Sie, ich habe Sie gern, ich habe Sie lieb :: je t'aime, je vous aime, je t'adore, je vous adore

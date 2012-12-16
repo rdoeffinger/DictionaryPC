@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.italian 5266
+EntrySource: enwiktionary.italian 5260
 
 Index: IT IT->EN
 ===1963===
@@ -93,6 +93,8 @@ Index: IT IT->EN
   abrogative {f} :: Feminine plural form of abrogativo
 ===abrogato===
   abrogate :: {Feminine plural|abrogato}
+***Abruzzo***
+  Abruzzo {it-proper noun} :: Abruzzo (region)
 ***abusive***
   abusive {f} :: Feminine plural form of abusivo
 ***acacia***
@@ -346,7 +348,7 @@ Index: IT IT->EN
   angla {f} :: {feminine of|anglo}
   angle {f} (adjective form) :: {feminine plural|anglo}
 ***Angola***
-  Angola {f} :: Angola
+  Angola {{it-proper noun|g=f}} :: Angola
 ***Anguilla***
   Anguilla {it-proper noun} :: Anguilla
 ===ani===
@@ -518,10 +520,10 @@ Index: IT IT->EN
 ===banane===
   banana {f}, banane {pl} :: banana (fruit)
 ===bancari===
-  bancario {m}, bancari {pl}, bancaria {f} :: Bank employee
+  bancario {m}, bancari {pl}, bancaria {f} :: bank employee
 ***bancario***
   bancario {{it-adj|bancar|io|ia|i|ie}} :: bank (attributive)
-  bancario {m}, bancari {pl}, bancaria {f} :: Bank employee
+  bancario {m}, bancari {pl}, bancaria {f} :: bank employee
 ***Bangkok***
   Bangkok {it-proper noun} :: Bangkok (capital of Thailand)
 ***Bangladesh***
@@ -604,8 +606,8 @@ Index: IT IT->EN
 ***Benin***
   Benin {{it-proper noun|g=m}} :: Benin
 ***Bergamo***
-  Bergamo {{it-proper noun|g=f}} :: Bergamo (province)
-  Bergamo {{it-proper noun|g=f}} :: Bergamo (town)
+  Bergamo {{it-proper noun|g=f}} :: Bergamo, province of Lombardy, Italy.
+  Bergamo {{it-proper noun|g=f}} :: Bergamo, town and capital of the province Bergamo.
 ***bestia***
   bestia {f}, bestie {pl} :: beast
 ===bestie===
@@ -689,7 +691,7 @@ Index: IT IT->EN
 ***Brescia***
   Brescia {{it-proper noun|g=f}} :: Brescia
 ***bridge***
-  bridge (noun) {m|inv} :: bridge (card game)
+  bridge (noun) {m|inv} :: {card games} bridge (card game)
 ===brina===
   brine {f} :: {plural of|brina}
 ***Brindisi***
@@ -700,13 +702,13 @@ Index: IT IT->EN
 ***brioche***
   brioche (noun) {f|inv} :: croissant, Danish pastry (or other sweet bun)
 ***Brunei***
-  Brunei {m} :: Brunei
+  Brunei {{it-proper noun|g=m}} :: Brunei
 ***Budapest***
   Budapest {{it-proper noun|g=f}} :: Budapest
 ***Bulgaria***
   Bulgaria {{it-proper noun|g=f}} :: Bulgaria
 ===Burkina===
-  Burkina Faso {m} :: Burkina Faso
+  Burkina Faso {{it-proper noun|g=m}} :: Burkina Faso
 ===burri===
   burro {m}, burri {pl} :: butter
 ***burro***
@@ -727,8 +729,7 @@ Index: IT IT->EN
   cadi :: second-person singular present tense of cadere
   cadi :: second-person singular imperative of cadere
 ***Cagliari***
-  Cagliari {{it-proper noun|g=f}} :: Cagliari (province)
-  Cagliari {{it-proper noun|g=f}} :: Cagliari (town)
+  Cagliari {{it-proper noun|g=f}} :: Cagliari (both meanings)
 ***California***
   California {{it-proper noun|g=f}} :: California
 ***calle***
@@ -1100,7 +1101,7 @@ Index: IT IT->EN
 ===crudo===
   crude f plural :: feminine plural of crudo
 ***Cuba***
-  Cuba {f} :: Cuba
+  Cuba {{it-proper noun|g=f}} :: Cuba
 ***cube***
   cube {f} (adjective form) :: Feminine plural form of cubo
 ***Cuneo***
@@ -1140,6 +1141,7 @@ Index: IT IT->EN
     Dalla Terra alla Luna :: “From the Earth to the Moon”
   da (preposition) :: At the house of, since
     da Giovanni :: “at Giovanni’s house”
+  da (preposition) :: to (implying necessity)
   da :: Common misspelling of dà
 ***dada***
   dada (noun) {m} :: {arts} Dada
@@ -1288,7 +1290,7 @@ Index: IT IT->EN
   dia :: first-person singular, second-person singular and third-person singular present subjunctive of dare
   dia :: third-person singular imperative of dare
 ***dice***
-  dice (verb form), infinitive: dire :: (Third-person singular present tense of dire) Says.
+  dice (verb form), infinitive: dire :: (Third-person singular present tense of dire)
 ===dici===
   dici nove (numeral) :: {{alternative spelling of|diciannove}}
 ***dieci***
@@ -1317,7 +1319,7 @@ Index: IT IT->EN
 ***dio***
   dio {m}, dèi {pl} (Feminine: dèa) :: god
 ===dire===
-  dice (verb form), infinitive: dire :: (Third-person singular present tense of dire) Says.
+  dice (verb form), infinitive: dire :: (Third-person singular present tense of dire)
 ===discrete===
   discrete {f} (adjective form) :: {feminine plural of|discreto}
 ===discreto===
@@ -1394,6 +1396,7 @@ Index: IT IT->EN
   Ecuador {m} :: Ecuador
 ***ed***
   ed (conjunction) :: and (used before a vowel for euphony, instead of e)
+  & (conjunction) :: ed
 ===El===
   El Salvador {{it-proper noun|g=m}} :: El Salvador
 ***elegantemente***
@@ -1486,6 +1489,8 @@ Index: IT IT->EN
   est {m} (noun) {inv} :: east
 ***Estonia***
   Estonia {{it-proper noun|f}} :: Estonia
+===et===
+  et (conjunction) :: {{archaic|poetic}} {alternative form of|e}
 ***eta***
   eta (noun) {m|f|inv} :: eta (Greek letter)
 ***euro***
@@ -1532,8 +1537,10 @@ Index: IT IT->EN
 ***farad***
   farad (noun) {m|inv} :: farad
 ***fare***
-  fare {it-verb} {transitive} :: To do
-  fare {it-verb} {transitive} :: To make
+  fare {it-verb} {transitive} :: to do
+  fare {it-verb} {transitive} :: to make
+  fare {it-verb} {transitive} :: to act
+  fare {it-verb} {transitive} :: to get someone to be something
   fa (verb form) :: Third-person singular indicative present form of fare.
   fa (verb form) :: Second-person singular imperative form of fare.
   face (verb form) :: {archaic} third-person singular indicative present of fare.
@@ -1544,7 +1551,7 @@ Index: IT IT->EN
   ci (pronoun) :: impersonal reflexive pronoun
     Ci vuole poco a farmi felice. :: It doesn't take much to make me happy.
 ===Faso===
-  Burkina Faso {m} :: Burkina Faso
+  Burkina Faso {{it-proper noun|g=m}} :: Burkina Faso
 ===fata===
   fate {f} :: {plural of|fata}
 ===fate===
@@ -1704,7 +1711,7 @@ Index: IT IT->EN
   Georgia {f} (proper noun) :: Georgia (country)
   Georgia {f} (proper noun) :: Georgia (US state)
 ***Ghana***
-  Ghana {f} (proper noun) :: Ghana
+  Ghana {{it-proper noun|g=f}} :: Ghana
 ===ghetti===
   ghetto {m}, ghetti {pl} :: A ghetto.
 ***ghetto***
@@ -1967,9 +1974,9 @@ Index: IT IT->EN
 ===intuitivo===
   intuitive {f|p} :: {feminine plural of|intuitivo}
 ===invertebrate===
-  invertebrate {p} :: {feminine of|invertebrato}
+  invertebrate {f|p} :: {feminine of|invertebrato}
 ===invertebrato===
-  invertebrate {p} :: {feminine of|invertebrato}
+  invertebrate {f|p} :: {feminine of|invertebrato}
 ===investigare===
   investigate :: {conjugation of|investigare|2|p|pres|ind}
   investigate :: {conjugation of|investigare|2|p|imp}
@@ -2149,12 +2156,12 @@ Index: IT IT->EN
   Lecco {it-proper noun} :: Lecco (province)
   Lecco {it-proper noun} :: Lecco (town)
 ***lente***
-  lente (adjective form) {f}{p} :: (feminine plural form of lento) slow
+  lente (adjective form) {f}{p} :: {{context|feminine plural form of lento}} slow
   lente {f}, lenti {pl} :: lens
 ===lenti===
   lente {f}, lenti {pl} :: lens
 ===lento===
-  lente (adjective form) {f}{p} :: (feminine plural form of lento) slow
+  lente (adjective form) {f}{p} :: {{context|feminine plural form of lento}} slow
 ===Leone===
   Sierra Leone {{it-proper noun|g=f}} :: Sierra Leone
 ***Lesotho***
@@ -2331,7 +2338,7 @@ Index: IT IT->EN
   male {m}, mali {pl} :: evil, harm
   male {m}, mali {pl} :: pain, ache, illness, sickness, disease
 ***Mali***
-  Mali {m} :: Mali
+  Mali {{it-proper noun|g=m}} :: Mali
 ***Malta***
   Malta {{it-proper noun|g=f}} :: Malta
 ***management***
@@ -2655,8 +2662,8 @@ Index: IT IT->EN
 ===nomo===
   nomo (verb form) :: {conjugation of|nomare|1|s|pres|ind}
 ***non***
-  non :: not
-  non :: un-
+  non {it-adv} :: not
+  non {it-adv} :: un-
 ***none***
   none {f|p} (adjective form) :: (feminine plural form of nono) ninth
   none {f|p} :: (feminine plural form of nono) ninth (the one in the ninth position; fraction)
@@ -2726,8 +2733,6 @@ Index: IT IT->EN
   once {f|p} :: {plural of|oncia}
 ***online***
   online (adjective) {inv} (Also: on line, on-line) :: online
-***opero***
-  opero :: first-person singular present tense of operare
 ===or===
   or {it-adv} :: {apocopic form of|ora}
 ===ora===
@@ -3241,10 +3246,12 @@ Index: IT IT->EN
   regime {m}, regimi {pl} :: regime, régime
   regime {m}, regimi {pl} :: regimen
 ***regina***
-  regina {f}, regine {pl} :: queen (monarch, male homosexual)
+  regina {f}, regine {pl} :: queen (monarch)
+  regina {f}, regine {pl} :: queen (male homosexual)
   regina {f}, regine {pl} :: {chess} queen
 ===regine===
-  regina {f}, regine {pl} :: queen (monarch, male homosexual)
+  regina {f}, regine {pl} :: queen (monarch)
+  regina {f}, regine {pl} :: queen (male homosexual)
   regina {f}, regine {pl} :: {chess} queen
 ===regista===
   de (contraction) :: {apocopic form of|del}
@@ -3503,19 +3510,6 @@ Index: IT IT->EN
   sequoia {f}, sequoie {pl} :: sequoia (tree)
 ===sequoie===
   sequoia {f}, sequoie {pl} :: sequoia (tree)
-***serva***
-  serva {f}, serve {pl} (Masculine: servo) :: servant, maid
-  serva :: {conjugation of|servire|1|s|pres|sub}
-  serva :: {conjugation of|servire|2|s|pres|sub}
-  serva :: {conjugation of|servire|3|s|pres|sub}
-  serva :: {conjugation of|servire|3|s|imp}
-===serve===
-  serva {f}, serve {pl} (Masculine: servo) :: servant, maid
-===servire===
-  serva :: {conjugation of|servire|1|s|pres|sub}
-  serva :: {conjugation of|servire|2|s|pres|sub}
-  serva :: {conjugation of|servire|3|s|pres|sub}
-  serva :: {conjugation of|servire|3|s|imp}
 ***set***
   set {m} (noun) {inv} :: set (group of things, maths, tennis, cinema etc)
 ===setta===
@@ -3964,7 +3958,7 @@ Index: IT IT->EN
 ***ultramarine***
   ultramarine {f} :: Feminine plural form of ultramarino
 ***Umbria***
-  Umbria f :: Umbria
+  Umbria {f} (proper noun) :: Umbria
 ***un***
   un {m} (article) (see uno) :: an, a
   un {m} (noun) (see uno) :: one
@@ -4106,7 +4100,7 @@ Index: IT IT->EN
 ***Vienna***
   Vienna {{it-proper noun|g=f}} :: Vienna (capital of Austria)
 ***Vietnam***
-  Vietnam {m} :: Vietnam
+  Vietnam {{it-proper noun|g=m}} :: Vietnam
 ===vinto===
   ne (contraction) :: {apocopic form of|nel}
     Massimo Troisi ha vinto un oscar per la sua interpretazione ne "Il postino". :: "Massimo Troisi won an Oscar for his performance in "Il Postino".
@@ -4162,8 +4156,6 @@ Index: IT IT->EN
   w (letter) {m|f|inv} :: See under W
 ===W===
   w (letter) {m|f|inv} :: See under W
-***water***
-  water (noun) {m|inv} :: {colloquial} water closet, toilet, rest room
 ***watt***
   watt (noun) {m|inv} :: watt
 ***weber***
@@ -4271,6 +4263,7 @@ Index: EN EN->IT
 ===abrogativo===
   abrogative {f} :: Feminine plural form of abrogativo
 ===Abruzzo===
+  Abruzzo {it-proper noun} :: Abruzzo (region)
   PE {it-abbreviation} :: {{abbreviation of|Pescara}} (It is a city in Abruzzo)
   CH (abbreviation) :: Chieti (Italian town in Abruzzo)
 ===abusivo===
@@ -4324,6 +4317,8 @@ Index: EN EN->IT
 ===acid===
   acido {m}, acidi {pl} :: {{context|chemistry}} acid
   acido {{it-adj|acid}} :: acid
+===act===
+  fare {it-verb} {transitive} :: to act
 ===action===
   azione {f}, azioni {pl} :: action
 ===Action===
@@ -4448,7 +4443,7 @@ Index: EN EN->IT
 ===Andorra===
   Andorra {{it-proper noun|f}} :: Andorra
 ===Angola===
-  Angola {f} :: Angola
+  Angola {{it-proper noun|g=f}} :: Angola
 ===Anguilla===
   Anguilla {it-proper noun} :: Anguilla
 ===animal===
@@ -4595,8 +4590,7 @@ Index: EN EN->IT
   banjo (noun) {m|inv} :: {musical instruments} banjo
 ===bank===
   bancario {{it-adj|bancar|io|ia|i|ie}} :: bank (attributive)
-===Bank===
-  bancario {m}, bancari {pl}, bancaria {f} :: Bank employee
+  bancario {m}, bancari {pl}, bancaria {f} :: bank employee
 ===bar===
   bar {m} (noun) {inv} :: bar (place serving drinks)
     C'è un bar qui vicino? :: Is there a bar nearby?
@@ -4671,8 +4665,8 @@ Index: EN EN->IT
 ===Benin===
   Benin {{it-proper noun|g=m}} :: Benin
 ===Bergamo===
-  Bergamo {{it-proper noun|g=f}} :: Bergamo (province)
-  Bergamo {{it-proper noun|g=f}} :: Bergamo (town)
+  Bergamo {{it-proper noun|g=f}} :: Bergamo, province of Lombardy, Italy.
+  Bergamo {{it-proper noun|g=f}} :: Bergamo, town and capital of the province Bergamo.
 ===beta===
   beta {f|inv} beta {f}, bete {pl} :: beta (letter of the Greek alphabet)
   beta {f|inv} beta {f}, bete {pl} :: {computing} beta (software version)
@@ -4757,6 +4751,8 @@ Index: EN EN->IT
   boss {m} (noun) {inv} :: boss (leader of a business, company or criminal organization)
 ===bot===
   robot {m} (noun) {inv} :: {computing} bot
+===both===
+  Cagliari {{it-proper noun|g=f}} :: Cagliari (both meanings)
 ===Botswana===
   Botswana {{it-proper noun|m}} :: Botswana
 ===bovine===
@@ -4781,14 +4777,14 @@ Index: EN EN->IT
 ===Brescia===
   Brescia {{it-proper noun|g=f}} :: Brescia
 ===bridge===
-  bridge (noun) {m|inv} :: bridge (card game)
+  bridge (noun) {m|inv} :: {card games} bridge (card game)
 ===brief===
   break {m} (noun) {inv} :: break (intermission or brief suspension of activity)
 ===Brindisi===
   Brindisi {it-proper noun} :: Brindisi (province)
   Brindisi {it-proper noun} :: Brindisi (town)
 ===Brunei===
-  Brunei {m} :: Brunei
+  Brunei {{it-proper noun|g=m}} :: Brunei
 ===Budapest===
   Budapest {{it-proper noun|g=f}} :: Budapest
 ===bug===
@@ -4802,7 +4798,7 @@ Index: EN EN->IT
 ===bun===
   brioche (noun) {f|inv} :: croissant, Danish pastry (or other sweet bun)
 ===Burkina===
-  Burkina Faso {m} :: Burkina Faso
+  Burkina Faso {{it-proper noun|g=m}} :: Burkina Faso
 ===Burundi===
   Burundi {{it-proper noun|g=m}} :: Burundi
 ===bus===
@@ -4830,8 +4826,7 @@ Index: EN EN->IT
 ===café===
   bar {m} (noun) {inv} :: café
 ===Cagliari===
-  Cagliari {{it-proper noun|g=f}} :: Cagliari (province)
-  Cagliari {{it-proper noun|g=f}} :: Cagliari (town)
+  Cagliari {{it-proper noun|g=f}} :: Cagliari (both meanings)
 ===cake===
   torta {f}, torte {pl} :: pie, tart, cake or similar
 ===calculating===
@@ -4872,6 +4867,7 @@ Index: EN EN->IT
   Parigi {{it-proper noun|g=f}} :: Paris, the capital city of France.
   Bangkok {it-proper noun} :: Bangkok (capital of Thailand)
   Vienna {{it-proper noun|g=f}} :: Vienna (capital of Austria)
+  Bergamo {{it-proper noun|g=f}} :: Bergamo, town and capital of the province Bergamo.
 ===car===
   box {m} (noun) {inv} :: garage, lock-up (for a car)
   PG (initialism) :: {dated} Perugia (on car number plates)
@@ -4879,7 +4875,7 @@ Index: EN EN->IT
   caracal (noun) {m|inv} :: caracal
 ===card===
   card {m} (noun) {inv} :: card (identification, financial, SIM etc (but not playing card))
-  bridge (noun) {m|inv} :: bridge (card game)
+  bridge (noun) {m|inv} :: {card games} bridge (card game)
   poker {m} (noun) {inv} :: poker (card game)
 ===carefully===
   piano (adverb) :: carefully
@@ -5010,8 +5006,6 @@ Index: EN EN->IT
   dodici {m} (noun) {inv}{f|plural} :: twelve o'clock (midday or midnight)
 ===close===
   qua {it-adv} :: here (relatively close to the speaker)
-===closet===
-  water (noun) {m|inv} :: {colloquial} water closet, toilet, rest room
 ===cloth===
   gabardine {m} (noun) {inv} :: The woolen cloth gabardine
 ===cloud===
@@ -5176,7 +5170,7 @@ Index: EN EN->IT
   Crotone {it-proper noun} :: Crotone (province)
   Crotone {it-proper noun} :: Crotone (town)
 ===Cuba===
-  Cuba {f} :: Cuba
+  Cuba {{it-proper noun|g=f}} :: Cuba
 ===cubo===
   cube {f} (adjective form) :: Feminine plural form of cubo
 ===cui===
@@ -5314,7 +5308,7 @@ Index: EN EN->IT
 ===dilettante===
   dilettante {mf}, dilettanti {pl} :: dilettante
 ===dire===
-  dice (verb form), infinitive: dire :: (Third-person singular present tense of dire) Says.
+  dice (verb form), infinitive: dire :: (Third-person singular present tense of dire)
 ===direct===
   la {f|s} (pronoun), plural: le :: her (direct object)
 ===direction===
@@ -5338,7 +5332,7 @@ Index: EN EN->IT
   city {f} (noun) {inv} :: city (financial district of a city)
 ===do===
   {{wikipedia|Do (nota)}}do {m} (noun) :: do, the musical note
-  fare {it-verb} {transitive} :: To do
+  fare {it-verb} {transitive} :: to do
   ne (pronoun) :: of it
     Ne ho sentito parlare. :: “I have heard talk of it.”
     Cosa ne pensi? :: “What do you think of it?”
@@ -5456,7 +5450,7 @@ Index: EN EN->IT
 ===emphasised===
   te (pronoun) :: (emphasised objective of tu) you
 ===employee===
-  bancario {m}, bancari {pl}, bancaria {f} :: Bank employee
+  bancario {m}, bancari {pl}, bancaria {f} :: bank employee
 ===end===
   finale {m}, finali {pl} :: end, ending, conclusion
 ===ending===
@@ -5572,7 +5566,7 @@ Index: EN EN->IT
 ===farmer===
   agricola {m}, agricole {pl} :: farmer
 ===Faso===
-  Burkina Faso {m} :: Burkina Faso
+  Burkina Faso {{it-proper noun|g=m}} :: Burkina Faso
 ===fate===
   destino {m}, destini {pl} :: destiny, fate
 ===Father===
@@ -5584,7 +5578,6 @@ Index: EN EN->IT
 ===female===
   tigre {f}, tigri {pl} :: tigress (female)
 ===feminine===
-  lente (adjective form) {f}{p} :: (feminine plural form of lento) slow
   crude f plural :: feminine plural of crudo
   date :: feminine plural of dato, past participle of dare
   accelerate :: feminine plural past participle of accelerare
@@ -5733,7 +5726,6 @@ Index: EN EN->IT
   destino :: first-person singular present tense of destinare
   progetto :: first-person singular present tense of progettare
   porto (verb form) :: first-person singular present tense of portare
-  opero :: first-person singular present tense of operare
   ami :: first-, second- and third-person singular subjunctive present of amare
   so :: (I) know (first-person singular present tense of sapere)
 ===fish===
@@ -5867,7 +5859,7 @@ Index: EN EN->IT
   Gambia {{it-proper noun|m}} :: Gambia
 ===game===
   RPG (noun) {m|inv} :: {gaming} RPG; role-playing game
-  bridge (noun) {m|inv} :: bridge (card game)
+  bridge (noun) {m|inv} :: {card games} bridge (card game)
   play! :: used to start a game of Tennis
   poker {m} (noun) {inv} :: poker (card game)
 ===games===
@@ -5900,6 +5892,7 @@ Index: EN EN->IT
   Georgia {f} (proper noun) :: Georgia (country)
   Georgia {f} (proper noun) :: Georgia (US state)
 ===get===
+  fare {it-verb} {transitive} :: to get someone to be something
   si (pronoun) :: (the so-called si passivante, used to form the passive voice of a verb) it (but also see note below). Note: verb + si is often translated as become or get + past participle in English.
     Si dice che Maria voleva uccidere Giovanni (It is said that Maria wanted to kill Giovanni). :: --
     Ci vuole un po’ di tempo per abituarsi (It takes a while to become accustomed) :: --
@@ -5907,7 +5900,7 @@ Index: EN EN->IT
 ===getting===
   uno {m} ({f} una) :: Sono uno a cui piace alzarsi presto - I’m someone who likes getting up early or I’m a person who likes getting up early
 ===Ghana===
-  Ghana {f} (proper noun) :: Ghana
+  Ghana {{it-proper noun|g=f}} :: Ghana
 ===ghetto===
   ghetto {m}, ghetti {pl} :: A ghetto.
 ===Giacomino===
@@ -6121,7 +6114,7 @@ Index: EN EN->IT
   home {f} (noun) {inv} :: home (initial position of various computing objects)
   casa {f}, case {pl} :: home
 ===homosexual===
-  regina {f}, regine {pl} :: queen (monarch, male homosexual)
+  regina {f}, regine {pl} :: queen (male homosexual)
 ===Honduras===
   Honduras {m} :: Honduras
 ===honeybee===
@@ -6204,6 +6197,8 @@ Index: EN EN->IT
     Ci vuole poco a farmi felice. :: It doesn't take much to make me happy.
 ===implement===
   club {m} (noun) {inv} :: club (association; golf implement)
+===implying===
+  da (preposition) :: to (implying necessity)
 ===important===
   gossip {m} (noun), inv :: gossip (especially concerning famous or important people)
 ===imprisoned===
@@ -6338,6 +6333,7 @@ Index: EN EN->IT
   PS (abbreviation) :: Pesaro (Italian town in Marche)
   zeta (noun) {m|f|inv} :: zeta; The letter Z/z in the Italian and Greek alphabets
 ===Italy===
+  Bergamo {{it-proper noun|g=f}} :: Bergamo, province of Lombardy, Italy.
   italiano {m}, italiani {pl} feminine italiana :: Italian (inhabitant of Italy and language)
 ===item===
   mobile {m}, mobili {pl} :: {{context|singular}} item of furniture
@@ -6579,6 +6575,8 @@ Index: EN EN->IT
   Lodi {it-proper noun} :: Lodi
 ===Lombardia===
   CO (abbreviation) :: Como (Italian town in Lombardia)
+===Lombardy===
+  Bergamo {{it-proper noun|g=f}} :: Bergamo, province of Lombardy, Italy.
 ===look===
   aria {f}, arie {pl} :: look, appearance, countenance
 ===Lorenzo===
@@ -6643,14 +6641,12 @@ Index: EN EN->IT
   re {m}, re {pl} :: magnates
 ===magnesia===
   magnesia {f}, magnesie {pl} :: magnesia
-===maid===
-  serva {f}, serve {pl} (Masculine: servo) :: servant, maid
 ===main===
   secondo {m}, secondi {pl} :: main course (of a meal)
 ===majestic===
   maestoso {{it-adj|maestos}} :: majestic
 ===make===
-  fare {it-verb} {transitive} :: To make
+  fare {it-verb} {transitive} :: to make
   ci (pronoun) :: impersonal reflexive pronoun
     Ci vuole poco a farmi felice. :: It doesn't take much to make me happy.
 ===Malawi===
@@ -6662,10 +6658,10 @@ Index: EN EN->IT
   tigre {f}, tigri {pl} :: tiger (male)
   cane {m}, cani {pl}, cagna {f} :: dog in general, male dog
   boy {m} (noun), inv :: A male ballet dancer.
-  regina {f}, regine {pl} :: queen (monarch, male homosexual)
+  regina {f}, regine {pl} :: queen (male homosexual)
   poeta {m}, poeti {pl} Feminine poetessa :: poet (male or unspecified sex)
 ===Mali===
-  Mali {m} :: Mali
+  Mali {{it-proper noun|g=m}} :: Mali
 ===Malta===
   Malta {{it-proper noun|g=f}} :: Malta
 ===man===
@@ -6740,6 +6736,8 @@ Index: EN EN->IT
   secondo {m}, secondi {pl} :: main course (of a meal)
 ===meaning===
   casa {f}, case {pl} :: Family, dynasty, descent, extraction, stock, lineage, birth, origin, race (not human “race”, but meaning the preceding words).
+===meanings===
+  Cagliari {{it-proper noun|g=f}} :: Cagliari (both meanings)
 ===means===
   pure {it-adv} :: please, by all means
 ===measuring===
@@ -6823,7 +6821,7 @@ Index: EN EN->IT
   Monaco {{it-proper noun|m}}{f} :: Monaco
   Monaco {{it-proper noun|m}}{f} :: Munich (Monaco di Baviera)
 ===monarch===
-  regina {f}, regine {pl} :: queen (monarch, male homosexual)
+  regina {f}, regine {pl} :: queen (monarch)
 ===monetary===
   monetario {{it-adj|monetar|io|ia|i|ie}} :: monetary
 ===Mongolia===
@@ -6935,6 +6933,8 @@ Index: EN EN->IT
 ===nebula===
   nebula {f}, nebule {pl} :: nebula
   nebulosa {f}, nebulose {pl} :: nebula
+===necessity===
+  da (preposition) :: to (implying necessity)
 ===needed===
   parole {f|p} (noun) :: {plural of|parola}
     Ci vogliono fatti e non parole. :: Action is needed, not words.
@@ -6993,7 +6993,7 @@ Index: EN EN->IT
 ===North===
   chat {m} (noun) {inv} :: chat (leaf chewed by people in North Africa and the Middle East)
 ===not===
-  non :: not
+  non {it-adv} :: not
   libero {{it-adj|liber}} :: free (not imprisoned or enslaved)
     Un uomo libero. :: A free man.
   libero {{it-adj|liber}} :: free (that does not have to be paid for)
@@ -7131,8 +7131,6 @@ Index: EN EN->IT
   online (adjective) {inv} (Also: on line, on-line) :: online
 ===only===
   se (conjunction) :: if only
-===operare===
-  opero :: first-person singular present tense of operare
 ===operator===
   lift (noun) {m|inv} :: lift / elevator operator
 ===ordinare===
@@ -7534,12 +7532,12 @@ Index: EN EN->IT
   Avellino {it-proper noun} :: Avellino (province)
   Belluno {it-proper noun} :: Belluno (province)
   Benevento {{it-proper noun|g=f}} :: Benevento (province)
-  Bergamo {{it-proper noun|g=f}} :: Bergamo (province)
+  Bergamo {{it-proper noun|g=f}} :: Bergamo, province of Lombardy, Italy.
+  Bergamo {{it-proper noun|g=f}} :: Bergamo, town and capital of the province Bergamo.
   Biella {{it-proper noun|g=f}} :: Biella (province)
   Bologna {f} :: Bologna (province, city)
   Bolzano {{it-proper noun|g=f}} :: Bolzano (province)
   Brindisi {it-proper noun} :: Brindisi (province)
-  Cagliari {{it-proper noun|g=f}} :: Cagliari (province)
   Campobasso {it-proper noun} :: Campobasso (province)
   Caserta {{it-proper noun|g=f}} :: Caserta (province)
   Catania {{it-proper noun|g=f}} :: Catania (province)
@@ -7632,7 +7630,8 @@ Index: EN EN->IT
 ===quarter===
   quattro {m} (noun) {inv} {f} (noun){inv}{f|plural} :: Either of the quarter hours after midnight and noon
 ===queen===
-  regina {f}, regine {pl} :: queen (monarch, male homosexual)
+  regina {f}, regine {pl} :: queen (monarch)
+  regina {f}, regine {pl} :: queen (male homosexual)
   regina {f}, regine {pl} :: {chess} queen
 ===quickly===
   rapidamente :: quickly, rapidly
@@ -7714,6 +7713,7 @@ Index: EN EN->IT
 ===regimen===
   regime {m}, regimi {pl} :: regimen
 ===region===
+  Abruzzo {it-proper noun} :: Abruzzo (region)
   Valle d'Aosta {{it-proper noun|g=f}} :: Valle d'Aosta (region)
   Marche {f|p} (proper noun) :: Marche (region)
 ===relatively===
@@ -7737,8 +7737,6 @@ Index: EN EN->IT
   requiem (noun) {m|inv} :: requiem
 ===respect===
   don {m} (noun), inv :: A title of respect to a man.
-===rest===
-  water (noun) {m|inv} :: {colloquial} water closet, toilet, rest room
 ===retrovirus===
   retrovirus (noun) {m|inv} :: retrovirus
 ===return===
@@ -7784,7 +7782,6 @@ Index: EN EN->IT
 ===romantic===
   rosa {inv} (adjective) :: romantic (of movies, books, etc)
 ===room===
-  water (noun) {m|inv} :: {colloquial} water closet, toilet, rest room
   camera {f}, camere {pl} :: room, chamber
 ===rooster===
   gallo {m}, galli {pl} (feminine: gallina) :: rooster, cock
@@ -7849,8 +7846,6 @@ Index: EN EN->IT
   salsa {f}, salse {pl} :: sauce
 ===Savona===
   Savona {{it-proper noun|g=f}} :: Savona (province, town)
-===Says===
-  dice (verb form), infinitive: dire :: (Third-person singular present tense of dire) Says.
 ===scale===
   {{wikipedia|Ti (nota)}}ti {{{m|inv}}} (noun) :: {music} B (note and scale)
   {{wikipedia|La (nota)}}la {{{m|inv}}} (noun) :: {music} A (musical note and scale)
@@ -7944,8 +7939,6 @@ Index: EN EN->IT
   sequoia {f}, sequoie {pl} :: sequoia (tree)
 ===series===
   round {m} (noun) {inv} :: round (session or series)
-===servant===
-  serva {f}, serve {pl} (Masculine: servo) :: servant, maid
 ===served===
   drink {m} (noun) {inv} :: drink (served beverage and mixed beverage)
 ===serving===
@@ -8074,7 +8067,7 @@ Index: EN EN->IT
 ===Slovenia===
   Slovenia {{it-proper noun|g=f}} :: Slovenia
 ===slow===
-  lente (adjective form) {f}{p} :: (feminine plural form of lento) slow
+  lente (adjective form) {f}{p} :: {{context|feminine plural form of lento}} slow
 ===slowly===
   piano (adverb) :: slowly
 ===small===
@@ -8122,6 +8115,7 @@ Index: EN EN->IT
   uno {m} ({f} una) :: someone, a person
   dare {it-verb} :: {transitive} To give, to transfer the possession/holding of something to someone else.
   uno {m} ({f} una) :: Sono uno a cui piace alzarsi presto - I’m someone who likes getting up early or I’m a person who likes getting up early
+  fare {it-verb} {transitive} :: to get someone to be something
 ===sometimes===
   ne (pronoun) :: of them (sometimes not translated in English)
     Ce ne sono due. :: “There are two (of them).”
@@ -8376,13 +8370,12 @@ Index: EN EN->IT
   defenestrate (verb form) :: {second-person plural present tense and imperative|defenestrare}
   idea (verb form) :: third-person singular present tense of ideare
   accusa :: third-person singular present tense of accusare
-  dice (verb form), infinitive: dire :: (Third-person singular present tense of dire) Says.
+  dice (verb form), infinitive: dire :: (Third-person singular present tense of dire)
   incarcerate :: second-person plural present tense of incarcerare
   cola :: third-person singular present tense of colare
   destino :: first-person singular present tense of destinare
   progetto :: first-person singular present tense of progettare
   porto (verb form) :: first-person singular present tense of portare
-  opero :: first-person singular present tense of operare
   so :: (I) know (first-person singular present tense of sapere)
 ===Teramo===
   Teramo {{it-proper noun|g=f}} :: Teramo (province)
@@ -8469,7 +8462,7 @@ Index: EN EN->IT
   pare :: third-person singular indicative present of parere
   include (verb form) :: third-person singular indicative present of includere
 ===Third===
-  dice (verb form), infinitive: dire :: (Third-person singular present tense of dire) Says.
+  dice (verb form), infinitive: dire :: (Third-person singular present tense of dire)
   fa (verb form) :: Third-person singular indicative present form of fare.
   deduce :: Third-person singular indicative present of dedurre.
 ===thirteen===
@@ -8516,8 +8509,6 @@ Index: EN EN->IT
   con (preposition) :: with or together
 ===Togo===
   Togo {{it-proper noun|g=m}} :: Togo
-===toilet===
-  water (noun) {m|inv} :: {colloquial} water closet, toilet, rest room
 ===Tonga===
   Tonga {{it-proper noun|g=f}} :: Tonga
 ===tonight===
@@ -8553,11 +8544,10 @@ Index: EN EN->IT
   Avellino {it-proper noun} :: Avellino (town)
   Belluno {it-proper noun} :: Belluno (town)
   Benevento {{it-proper noun|g=f}} :: Benevento (town)
-  Bergamo {{it-proper noun|g=f}} :: Bergamo (town)
+  Bergamo {{it-proper noun|g=f}} :: Bergamo, town and capital of the province Bergamo.
   Biella {{it-proper noun|g=f}} :: Biella (town)
   Bolzano {{it-proper noun|g=f}} :: Bolzano (town)
   Brindisi {it-proper noun} :: Brindisi (town)
-  Cagliari {{it-proper noun|g=f}} :: Cagliari (town)
   Campobasso {it-proper noun} :: Campobasso (town)
   Caserta {{it-proper noun|g=f}} :: Caserta (town)
   Catania {{it-proper noun|g=f}} :: Catania (town)
@@ -8735,9 +8725,9 @@ Index: EN EN->IT
 ===ultramarino===
   ultramarine {f} :: Feminine plural form of ultramarino
 ===Umbria===
-  Umbria f :: Umbria
+  Umbria {f} (proper noun) :: Umbria
 ===un===
-  non :: un-
+  non {it-adv} :: un-
 ===unbroken===
   andante {{it-adj|andant|e|i}} :: continuous, unbroken
 ===under===
@@ -8898,7 +8888,7 @@ Index: EN EN->IT
 ===Vienna===
   Vienna {{it-proper noun|g=f}} :: Vienna (capital of Austria)
 ===Vietnam===
-  Vietnam {m} :: Vietnam
+  Vietnam {{it-proper noun|g=m}} :: Vietnam
 ===violent===
   shock {m} (noun) {inv} :: shock (medical; violent or unexpected event)
 ===vitae===
@@ -8946,8 +8936,6 @@ Index: EN EN->IT
 ===was===
   libero {{it-adj|liber}} :: clear, unobstructed (without blockages)
     Il passaggio era libero. :: The passage was clear.
-===water===
-  water (noun) {m|inv} :: {colloquial} water closet, toilet, rest room
 ===watt===
   watt (noun) {m|inv} :: watt
 ===we===

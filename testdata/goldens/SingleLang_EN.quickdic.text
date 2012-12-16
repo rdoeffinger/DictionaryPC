@@ -1,5 +1,5 @@
 dictInfo=SomeWikiDataWholeSection
-EntrySource: SingleLang_EN.quickdic 400
+EntrySource: SingleLang_EN.quickdic 416
 
 Index: EN EN
 ===a===
@@ -72,14 +72,16 @@ Runic letter &#x16ab; (a, &quot;ansuz&quot;), source for Anglo-Saxon Futhorc let
 <li> {{context|education}} The highest <a href="qd::letter+grade">letter grade</a> assigned (disregarding plusses and minuses).</li>
 <ul><li> <em>I was so happy to get an <b>A</b> on that test.</em></li>
 </ul>
-<li> {music} A tone three fifths above C in the <a href="qd::cycle+of+fifths">cycle of fifths</a>; the sixth tone of the C major scale; the first note of the minor scale of A minor; the reference tone that occurs at exactly 440 Hz; the printed or written note A; the <a href="qd::scale">scale</a> with A as its <a href="qd::keynote">keynote</a>.&lt;ref name=SOED/&gt;&lt;ref name=OCD&gt;Lindberg, Christine A., (2007)&lt;/ref&gt;</li>
-<ul><li> <em>Orchestras traditionally tune to a concert <b>A</b>.</em></li>
+<li> {music} A tone three fifths above C in the <a href="qd::cycle+of+fifths">cycle of fifths</a>; the sixth tone of the C major scale; the first note of the minor scale of A minor; the reference tone that occurs at exactly 440 Hz; the printed or written note A; the <a href="qd::scale">scale</a> with A as its <a href="qd::keynote">keynote</a>.&lt;ref name=SOED/&gt;&lt;ref name=OCD&gt;{{reference-book| last =| first = | authorlink =  | coauthors =  | editor =Lindberg, Christine A.    | others =  | title = The Oxford College Dictionary | origdate =  | origyear = 2002| origmonth =  | url =  | format =  | accessdate =  | accessyear =  | accessmonth =  | edition = 2nd | date =  | year =2007| month =  | publisher =Spark Publishing.  | location =New York, NY | language =  | id =  | doi = | isbn =978-1-4114-0500-4 | lccn = | ol = | pages =1| chapter =  | chapterurl =  | quote =}}</li>
+</ol>
+&lt;/ref&gt;
+<ol><ul><li> <em>Orchestras traditionally tune to a concert <b>A</b>.</em></li>
 </ul>
 <li> {medicine} A <a href="qd::blood+type">blood type</a> that has a specific antigen that aggravates the immune response in people with type <a href="qd::B">B</a> antigen in their blood. They may receive blood from type A or type <a href="qd::O">O</a>, but cannot receive blood from <a href="qd::AB">AB</a> or <a href="qd::B">B</a>.</li>
 <ul><li> <em>My blood type is <b>A</b> negative.</em></li>
 </ul>
 <li> {chemistry} <a href="qd::mass+number">Mass number</a>.</li>
-<li> {logic}A universal affirmative suggestion.&lt;ref name=SOED&gt;Brown, Lesley (2003)&lt;/ref&gt;</li>
+<li> {logic}A universal affirmative suggestion.&lt;ref name=SOED&gt;{{reference-book| last =| first = | authorlink =  | coauthors =  | editor =Brown, Lesley.    | others =  | title = The Shorter Oxford English Dictionary | origdate =  | origyear = 1933| origmonth =  | url =  | format =  | accessdate =  | accessyear =  | accessmonth =  | edition = 5th | date =  | year =2003| month =  | publisher =Oxford University Press  | location =Oxford, UK | language =  | id =  | doi = | isbn =978-0-19-860575-7 | lccn = | ol = | pages =1| chapter =  | chapterurl =  | quote =}}&lt;/ref&gt;</li>
 </ol>
 
 <h5>Derived terms</h5>
@@ -123,10 +125,8 @@ Runic letter &#x16ab; (a, &quot;ansuz&quot;), source for Anglo-Saxon Futhorc let
 <li> <a href="qd::ammeter">Ammeter</a></li>
 <li> {physics} <a href="qd::angstrom">angstrom</a></li>
 <li> <a href="qd::answer">Answer</a></li>
-<li> {geometry} <a href="qd::area">Area</a></li>
 <li> {sports} An <a href="qd::assist">assist</a></li>
 <li> {{context|weaponry}} <a href="qd::atom">atom</a>; <a href="qd::atomic">atomic</a></li>
-<li> {{context|vehicle-distinguishing signs}} <a href="qd::Austria">Austria</a></li>
 </ol>
 
 <h5>Synonyms</h5>
@@ -140,9 +140,7 @@ Runic letter &#x16ab; (a, &quot;ansuz&quot;), source for Anglo-Saxon Futhorc let
 <h4>Statistics</h4>
 <ul><li> {{rank|little|now|then|79|A|should|can|made}}</li>
 </ul>
-
-<h4>Footnotes</h4>
-&lt;references/&gt;>>>
+>>>
 ===Å===
 See also HtmlEntry:A
 ===account===
@@ -257,8 +255,7 @@ HtmlEntry: alphabetical <<<
 <h3>Pronunciation</h3>
 <ul><li> {{a|UK}} IPA: &#x2f;&#x2cc;&#xe6;&#x6c;&#x66;&#x2e;&#x259;&#x2c8;&#x62;&#x25b;&#x74;&#x2e;&#x26a;&#x6b;&#x2e;&#x259;&#x6c;&#x2f;, {{X-SAMPA|/%{lf.@&quot;bEt.Ik.@l/}}</li>
 <li> {{a|GenAM}} IPA: &#x2f;&#x2cc;&#xe6;&#x6c;&#x66;&#x259;&#x2c8;&#x62;&#x25b;&#x64;&#x26a;&#x6b;&#x259;&#x6c;&#x2f;, {{X-SAMPA|/%{lf@&quot;bEdIk@l/}}</li>
-<ul><li> {{audio|en-us-alphabetical.ogg|Audio (US)}}</li>
-</ul>
+<li> {{audio|en-us-alphabetical.ogg|Audio (US)}}</li>
 <li> {{hyphenation|al|pha|bet|ic|al}}</li>
 </ul>
 
@@ -376,7 +373,7 @@ See also HtmlEntry:synonym
 ***apples and pears***
 HtmlEntry: apples and pears <<<
 <h3>Noun</h3>
-{{en-noun|-|sg=<a href="qd::apples">apples</a> and <a href="qd::pears">pears</a>}}
+{{en-noun|-|head=<a href="qd::apples">apples</a> and <a href="qd::pears">pears</a>}}
 <ol><li> {Cockney rhyming slang} <a href="qd::stairs">stairs</a></li>
 </ol>
 >>>
@@ -504,10 +501,10 @@ From lang:fro <a href="qd::barater">barater</a>, of uncertain origin (maybe <a h
 </ol>
 
 <h4>Synonyms</h4>
-<ul><li> <a href="qd::swap">swap</a></li>
+<ul><li> <a href="qd::quid+pro+quo">quid pro quo</a></li>
+<li> <a href="qd::swap">swap</a></li>
 <li> <a href="qd::swop">swop</a></li>
 <li> <a href="qd::trade">trade</a></li>
-<li> <a href="qd::quid+pro+quo">quid pro quo</a></li>
 </ul>
 
 <h3>Verb</h3>
@@ -541,6 +538,8 @@ See also HtmlEntry:cat
 ===blend===
 See also HtmlEntry:portmanteau
 See also HtmlEntry:portmanteau word
+===blocked===
+See also HtmlEntry:free
 ===bloke===
 See also HtmlEntry:cat
 ===blow===
@@ -563,14 +562,14 @@ HtmlEntry: book <<<
 </ul>
 
 <h3>Etymology 1</h3>
-From lang:enm <a href="qd::book">book</a>, from lang:ang <a href="qd::b%C5%8Dc">boc</a>, first and third person singular preterite of <a href="qd::bacan">bacan</a> (&quot;to bake&quot;). Cognate with lang:sco <a href="qd::beuk">beuk</a> (&quot;baked&quot;), German <a href="qd::buk">buk</a> (&quot;baked&quot;) and probably Albanian <a href="qd::buk%C3%AB">buk&euml;</a> (&quot;bread, baked dough&quot;). More at {{l|en|bake}}.
+From lang:enm <a href="qd::book">book</a>, from lang:ang <a href="qd::b%C5%8Dc">boc</a>, first and third person singular preterite of <a href="qd::bacan">bacan</a> (&quot;to bake&quot;). Cognate with lang:sco <a href="qd::beuk">beuk</a> (&quot;baked&quot;), German <a href="qd::buk">buk</a> (&quot;baked&quot;) and probably Albanian <a href="qd::buk%C3%AB">buk&euml;</a> (&quot;bread, baked dough&quot;). More at <a href="qd::bake">bake</a>
 <h4>Verb</h4>
-{{head|en|verb form}}
-<ol><li> {{context|UK|_|dialectal|Northern England}} {{form of|Alternative simple past|bake}}.</li>
+<b>book</b>
+<ol><li> {{UK|_|dialectal|Northern England}} {{form of|Alternative simple past|bake}}.</li>
 </ol>
 
 <h3>Etymology 2</h3>
-From lang:enm <a href="qd::book">book</a>, from lang:ang <a href="qd::b%C5%8Dc">boc</a> (&quot;a book, a document, register, catalog, a legal document, a bill of divorce, a charter, a title deed, conveyance, a volume, literary work, pages, main division of a work&quot;), from {{proto|Germanic|&#x62;&#x14d;&#x6b;&#x73;|beech, book}}, from {{proto|Indo-European|&#x62;&#x68;&#x65;&#x68;&#x2081;&#x67;&#x311;&#xf3;&#x73;|beech}}. Cognate with lang:sco <a href="qd::buik">buik</a>, <a href="qd::beuk">beuk</a> (&quot;book&quot;), lang:fy <a href="qd::boek">boek</a> (&quot;book&quot;), Dutch <a href="qd::boek">boek</a> (&quot;book&quot;), German <a href="qd::Buch">Buch</a> (&quot;book&quot;), Swedish <a href="qd::bok">bok</a> (&quot;book&quot;). Related also to Latin <a href="qd::f%C4%81gus">fagus</a> (&quot;beech&quot;), Russian <a href="qd::%D0%B1%D1%83%D0%BA">&#x431;&#x443;&#x43a;</a> (buk, &quot;beech&quot;), Albanian <a href="qd::bung">bung</a> (&quot;chestnut, oak&quot;), Ancient Greek <a href="qd::%CF%86%CE%B7%CE%B3%CF%8C%CF%82">&#x3c6;&#x3b7;&#x3b3;&#x3cc;&#x3c2;</a> (&#x70;&#x68;&#x113;&#x67;&#xf3;&#x73;, &quot;oak&quot;), Armenian <a href="qd::%D5%A2%D5%B8%D6%82%D5%B6">&#x562;&#x578;&#x582;&#x576;</a> (bun, &quot;trunk&quot;), Kurdish <a href="qd::b%C3%BBz">b&ucirc;z</a> (&quot;elm&quot;). More at <a href="qd::beech">beech</a>, <a href="qd::buckwheat">buckwheat</a>.The sense development of <em>beech</em> to <em>book</em> is explained by the fact that smooth gray beech bark was commonly used as <a href="qd::bookfell">bookfell</a>.&lt;ref&gt;J.P. Mallory, <em>Encyclopedia of Indo-European Culture</em>, s.v. &quot;beech&quot; (London: Fitroy-Dearborn, 1997), 58.&lt;/ref&gt;
+From lang:enm <a href="qd::book">book</a>, from lang:ang <a href="qd::b%C5%8Dc">boc</a> (&quot;a book, a document, register, catalog, a legal document, a bill of divorce, a charter, a title deed, conveyance, a volume, literary work, pages, main division of a work&quot;), from lang:gem-pro {{recons|&#x62;&#x14d;&#x6b;&#x73;|beech, book|lang=gem-pro}}, from lang:ine-pro {{recons|&#x62;&#x68;&#x65;&#x68;&#x2081;&#x67;&#x311;&#xf3;&#x73;|beech|lang=ine-pro}}. Cognate with lang:sco <a href="qd::buik">buik</a>, <a href="qd::beuk">beuk</a> (&quot;book&quot;), lang:fy <a href="qd::boek">boek</a> (&quot;book&quot;), Dutch <a href="qd::boek">boek</a> (&quot;book&quot;), German <a href="qd::Buch">Buch</a> (&quot;book&quot;), Swedish <a href="qd::bok">bok</a> (&quot;book&quot;). Related also to Latin <a href="qd::f%C4%81gus">fagus</a> (&quot;beech&quot;), Russian <a href="qd::%D0%B1%D1%83%D0%BA">&#x431;&#x443;&#x43a;</a> (buk, &quot;beech&quot;), Albanian <a href="qd::bung">bung</a> (&quot;chestnut, oak&quot;), Ancient Greek <a href="qd::%CF%86%CE%B7%CE%B3%CF%8C%CF%82">&#x3c6;&#x3b7;&#x3b3;&#x3cc;&#x3c2;</a> (&#x70;&#x68;&#x113;&#x67;&#xf3;&#x73;, &quot;oak&quot;), Armenian <a href="qd::%D5%A2%D5%B8%D6%82%D5%B6">&#x562;&#x578;&#x582;&#x576;</a> (bun, &quot;trunk&quot;), Kurdish <a href="qd::b%C3%BBz">b&ucirc;z</a> (&quot;elm&quot;). More at <a href="qd::beech">beech</a>, <a href="qd::buckwheat">buckwheat</a>.The sense development of <em>beech</em> to <em>book</em> is explained by the fact that smooth gray beech bark was commonly used as <a href="qd::bookfell">bookfell</a>.&lt;ref&gt;J.P. Mallory, <em>Encyclopedia of Indo-European Culture</em>, s.v. &quot;beech&quot; (London: Fitroy-Dearborn, 1997), 58.&lt;/ref&gt;
 <h4>Noun</h4>
 A hard-cover book{en-noun}
 <ol><li> A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc. If initially blank, commonly referred to as a <a href="qd::notebook">notebook</a>.</li>
@@ -598,7 +597,7 @@ A hard-cover book{en-noun}
 <li> {{context|poker slang}} <a href="qd::four+of+a+kind">four of a kind</a>&lt;ref&gt;Weisenberg, Michael (2000) <em>[http://www.poker1.com/mcu/pokerdictionary/mculib_dictionary_info.asp The Official Dictionary of Poker].</em> MGI/Mike Caro University. ISBN 978-1880069523&lt;/ref&gt;</li>
 <li> {sports} A document, held by the referee, of the incidents happened in the game.</li>
 <li> {{sports|by extension}} A list of all players who have been booked (received a warning) in a game.</li>
-<ul><li> {{quote-news|year=2011|date=March 2|author=Andy Campbell|title=Celtic 1 - 0 Rangers|work=BBC|url=http://news.bbc.co.uk/sport2/hi/football/9409758.stm|page=|passage=Celtic captain Scott Brown joined team-mate Majstorovic in the <b>book</b> and Rangers' John Fleck was also shown a yellow card as an ill-tempered half drew to a close }}</li>
+<ul><li> {{quote-news|year=2011|date=March 2|author=Andy Campbell|title=Celtic 1 - 0 Rangers|work=BBC|url=http://news.bbc.co.uk/sport2/hi/football/9409758.stm|page=|passage=Celtic captain Scott Brown joined team-mate Majstorovic in the <b>book</b> and Rangers' John Fleck was also shown a yellow card as an ill-tempered half drew to a close.}}</li>
 </ul>
 </ol>
 
@@ -860,14 +859,16 @@ See also HtmlEntry:book
 See also HtmlEntry:head
 ===bottom===
 See also HtmlEntry:head
+===bound===
+See also HtmlEntry:free
 ===broadwing===
 See also HtmlEntry:eagle
 ***brown***
-HtmlEntry: brown <<<<a href="qd::File%3AColor+icon+brown+v2.svg">Various shades of brown.</a><a href="qd::File%3AA+child+of+chappargram.JPG">Brown is a common hair color.</a><a href="qd::File%3AHot+chocolate+in+Montsalvat+%2C+Melbourne.jpg">A glass of hot chocolate.</a>
+HtmlEntry: brown <<<<a href="qd::File%3AColor+icon+brown+v2.svg">Various shades of brown.</a><a href="qd::File%3AA+child+of+chappargram.JPG">Brown is a common hair color.</a><a href="qd::File%3AHot+chocolate+in+Montsalvat%2C+Melbourne.jpg">A glass of hot chocolate.</a>
 <h3>Etymology</h3>
-lang:enm <a href="qd::broun">broun</a>, from lang:ang <a href="qd::br%C5%ABn">brun</a> 'dark, shining', from {{proto|Germanic|&#x62;&#x72;&#x16b;&#x6e;&#x61;&#x7a;}} (compare lang:fy <a href="qd::br%C3%BAn">br&uacute;n</a>, Dutch <a href="qd::bruin">bruin</a>, German <a href="qd::braun">braun</a>), from {{proto|Indo-European|&#x62;&#x2b0;&#x72;&#x75;&#x68;&#x2093;&#x6e;&#x6f;&#x73;}} (compare Ancient Greek &#x70;&#x68;&#x72;&#xfd;&#x6e;&#x113;, &#x70;&#x68;&#x72;&#x177;&#x6e;&#x6f;&#x73;&#x20;&#x2018;&#x74;&#x6f;&#x61;&#x64;&#x2019;&#x29;&#x2c;&#x20;&#x65;&#x6e;&#x6c;&#x61;&#x72;&#x67;&#x65;&#x6d;&#x65;&#x6e;&#x74;&#x20;&#x6f;&#x66;&#x20;{{proto|Indo-European|&#x62;&#x2b0;&#x72;&#x65;&#x75;&#x2d;|shiny, brown|title=}} (compare Lithuanian <a href="qd::b%C4%97%CC%81ras">beras</a>&#x20;&#x2018;&#x62;&#x72;&#x6f;&#x77;&#x6e;&#x2019;&#x2c;&#x20;&#x53;&#x61;&#x6e;&#x73;&#x6b;&#x72;&#x69;&#x74;&#x20;babhr&uacute;&#x20;&#x2018;&#x72;&#x65;&#x64;&#x64;&#x69;&#x73;&#x68;&#x2d;&#x62;&#x72;&#x6f;&#x77;&#x6e;&#x2019;&#x20;{{rfscript|Devanagari|lang=sa}}).
+From lang:enm <a href="qd::broun">broun</a>, from lang:ang <a href="qd::br%C5%ABn">brun</a> (&quot;dark, shining&quot;), from lang:gem-pro {{recons|&#x62;&#x72;&#x16b;&#x6e;&#x61;&#x7a;|lang=gem-pro}} (compare lang:fy <a href="qd::br%C3%BAn">br&uacute;n</a>, Dutch <a href="qd::bruin">bruin</a>, German <a href="qd::braun">braun</a>), from lang:ine-pro {{recons|&#x62;&#x2b0;&#x72;&#x75;&#x48;&#x6e;&#x6f;&#x73;|lang=ine-pro}} (compare Ancient Greek <a href="qd::brown">brown</a> (&#x70;&#x68;&#x72;&#xfd;&#x6e;&#x113;), <a href="qd::brown">brown</a> (&#x70;&#x68;&#x72;&#x177;&#x6e;&#x6f;&#x73;, &quot;toad&quot;)), enlargement of {{recons|&#x62;&#x2b0;&#x72;&#x65;&#x77;&#x2d;|shiny, brown|lang=ine-pro}} (compare Lithuanian <a href="qd::b%C4%97%CC%81ras">beras</a> (&quot;brown&quot;), Sanskrit <a href="qd::brown">brown</a> (babhr&uacute;, &quot;reddish-brown&quot;) {{rfscript|Devanagari|lang=sa}}).
 <h3>Pronunciation</h3>
-<ul><li> IPA: &#x2f;&#x62;&#x72;&#x61;&#x28a;&#x6e;&#x2f;</li>
+<ul><li> IPA: &#x2f;&#x62;&#x72;&#x61;&#x28a;&#x6e;&#x2f;, {{X-SAMPA|/braUn/}}</li>
 <li> {{audio|en-us-brown.ogg|Audio (US)}}</li>
 <li> {{audio|En-uk-brown.ogg|Audio (UK)}}</li>
 <li> {{rhymes|&#x61;&#x28a;&#x6e;}}</li>
@@ -880,12 +881,13 @@ lang:enm <a href="qd::broun">broun</a>, from lang:ang <a href="qd::br%C5%ABn">br
 <li> {{color panel|623017}}</li>
 </ul>
 <li> {{context|snooker}} One of the <a href="qd::colour">colour</a> balls used in <a href="qd::snooker">snooker</a> with a value of 4 points.</li>
-<li> <a href="qd::black+tar">black tar</a> <a href="qd::heroin">heroin</a></li>
+<li> <a href="qd::black+tar">Black tar</a> <a href="qd::heroin">heroin</a>.</li>
 </ol>
 
 <h3>Adjective</h3>
 {{en-adj|er|more}}
 <ol><li> Having a brown <a href="qd::colour">colour</a>.</li>
+<li> {obsolete} <a href="qd::gloomy">Gloomy</a>.</li>
 </ol>
 
 <h4>Descendants</h4>
@@ -983,8 +985,6 @@ See also HtmlEntry:deal
 See also HtmlEntry:may
 ===Caniformia===
 See also HtmlEntry:cat
-===Canoidea===
-See also HtmlEntry:cat
 ===caput===
 See also HtmlEntry:head
 ===carnivoran===
@@ -999,12 +999,16 @@ HtmlEntry: cat <<<A domestic cat (1)
 </ul>
 
 <h3>Etymology 1</h3>
-From lang:enm <a href="qd::cat">cat</a>, <a href="qd::catte">catte</a>, from lang:ang <a href="qd::catt">catt</a> (&quot;male cat&quot;) and <a href="qd::catte">catte</a> (&quot;female cat&quot;), from lang:LL. <a href="qd::cattus">cattus</a> (&quot;domestic cat&quot;), from Latin catta (c.75 B.C., Martial)&lt;ref&gt;Douglas Harper, <em>Online Etymology Dictionary</em>, s.v. &quot;cat&quot;, [html], retrieved on 29 September 2009: [http://www.etymonline.com/index.php?term=cat].&lt;/ref&gt;, from lang:afa (compare <a href="qd::Nubian">Nubian</a> <em><a href="qd::kad%C3%ADs">kad&iacute;s</a></em>, lang:ber <em><a href="qd::kadd%C3%AEska">kadd&icirc;ska</a></em> 'wildcat'), from <a href="qd::Late+Egyptian">Late Egyptian</a> <em><a href="qd::%C4%8Daute">&#x10d;&#x61;&#x75;&#x74;&#x65;</a></em>,&lt;ref&gt;Jean-Paul Savignac, <em>Dictionnaire fran&ccedil;ais-gaulois</em>, s.v. &quot;<a href="qd::chat">chat</a>&quot; (Paris: Errance, 2004), 82.&lt;/ref&gt; feminine of <em><a href="qd::%C4%8Daus">&#x10d;&#x61;&#x75;&#x73;</a></em> 'jungle cat, African wildcat', from earlier lang:egy <em><a href="qd::te%C5%A1au">&#x74;&#x65;&#x161;&#x61;&#x75;</a></em> 'female cat'. Cognate with lang:sco <a href="qd::cat">cat</a> (&quot;cat&quot;), West Frisian <a href="qd::kat">kat</a> (&quot;cat&quot;), lang:frr <a href="qd::k%C3%A5t">k&aring;t</a> (&quot;cat&quot;), Dutch <a href="qd::kat">kat</a> (&quot;cat&quot;), lang:nds <a href="qd::katte">katte</a> (&quot;cat&quot;), German <a href="qd::Katze">Katze</a> (&quot;cat&quot;), Danish <a href="qd::kat">kat</a> (&quot;cat&quot;), Swedish <a href="qd::katt">katt</a> (&quot;cat&quot;), Icelandic <a href="qd::k%C3%B6ttur">k&ouml;ttur</a> (&quot;cat&quot;), and also with German <a href="qd::Kater">Kater</a> (&quot;tomcat&quot;) and Dutch <a href="qd::kater">kater</a> (&quot;tomcat&quot;).
+From lang:enm <a href="qd::cat">cat</a>, <a href="qd::catte">catte</a>, from lang:ang <a href="qd::catt">catt</a> (&quot;male cat&quot;) and <a href="qd::catte">catte</a> (&quot;female cat&quot;), from lang:LL. <a href="qd::cattus">cattus</a> (&quot;domestic cat&quot;), from Latin catta (c.75 B.C., Martial)&lt;ref&gt;Douglas Harper, <em>Online Etymology Dictionary</em>, s.v. &quot;cat&quot;, [html], retrieved on 29 September 2009: [http://www.etymonline.com/index.php?term=cat].&lt;/ref&gt;, from lang:afa (compare <a href="qd::Nubian">Nubian</a> <em><a href="qd::kad%C3%ADs">kad&iacute;s</a></em>, lang:ber <em><a href="qd::kadd%C3%AEska">kadd&icirc;ska</a></em> 'wildcat'), from <a href="qd::Late+Egyptian">Late Egyptian</a> <em><a href="qd::%C4%8Daute">&#x10d;&#x61;&#x75;&#x74;&#x65;</a></em>,&lt;ref&gt;Jean-Paul Savignac, <em>Dictionnaire fran&ccedil;ais-gaulois</em>, s.v. &quot;<a href="qd::chat">chat</a>&quot; (Paris: Errance, 2004), 82.&lt;/ref&gt; feminine of <em><a href="qd::%C4%8Daus">&#x10d;&#x61;&#x75;&#x73;</a></em> 'jungle cat, African wildcat', from earlier lang:egy <em><a href="qd::te%C5%A1au">&#x74;&#x65;&#x161;&#x61;&#x75;</a></em> 'female cat'. Cognate with lang:sco <a href="qd::cat">cat</a> (&quot;cat&quot;), West Frisian <a href="qd::kat">kat</a> (&quot;cat&quot;), lang:frr <a href="qd::k%C3%A5t">k&aring;t</a> (&quot;cat&quot;), Dutch <a href="qd::kat">kat</a> (&quot;cat&quot;), lang:nds <a href="qd::Katt%2C+Katte">Katt</a> (&quot;cat&quot;), German <a href="qd::Katze">Katze</a> (&quot;cat&quot;), Danish <a href="qd::kat">kat</a> (&quot;cat&quot;), Swedish <a href="qd::katt">katt</a> (&quot;cat&quot;), Icelandic <a href="qd::k%C3%B6ttur">k&ouml;ttur</a> (&quot;cat&quot;), and also with German <a href="qd::Kater">Kater</a> (&quot;tomcat&quot;) and Dutch <a href="qd::kater">kater</a> (&quot;tomcat&quot;).
 <h4>Noun</h4>
 {en-noun}
-<ol><li> A domesticated <a href="qd::subspecies">subspecies</a>, {{tritaxon|<a href="qd::Felis+silvestris+catus">Felis silvestris catus</a>}}, of <a href="qd::feline">feline</a> animal, commonly kept as a house <a href="qd::pet">pet</a>. {{defdate|from 8th c.}}</li>
-<li> Any similar animal of the family <em><a href="qd::Felidae">Felidae</a></em>, which includes <a href="qd::lion">lion</a>s, <a href="qd::tiger">tiger</a>s, etc.</li>
+<ol><li> A domesticated <a href="qd::subspecies">subspecies</a>, <em><a href="qd::Felis+silvestris+catus">Felis silvestris catus</a></em>, of <a href="qd::feline">feline</a> animal, commonly kept as a house <a href="qd::pet">pet</a>. {{defdate|from 8th c.}}</li>
+<li> Any similar animal of the family <a href="qd::Felidae">Felidae</a>, which includes <a href="qd::lion">lion</a>s, <a href="qd::tiger">tiger</a>s, etc.</li>
 <li> A <a href="qd::catfish">catfish</a>.</li>
+<ul><li><b>1913</b>, Willa Cather, <em><a href="qd::s%3AO+Pioneers%21">O Pioneers!</a></em>, <a href="qd::s%3AO+Pioneers%21%2FThe+Wild+Land%2C+II">chapter 2</a></li>
+<ul><li>She missed the fish diet of her own country, and twice every summer she sent the boys to the river, twenty miles to the southward, to fish for channel <b>cat</b>. </li>
+</ul>
+</ul>
 <li> {offensive} A spiteful or angry <a href="qd::woman">woman</a>. {{defdate|from earlier 13th c.}}</li>
 <li> An enthusiast or player of <a href="qd::jazz">jazz</a>.</li>
 <li> {slang} A person (usually male).</li>
@@ -1031,12 +1035,12 @@ From lang:enm <a href="qd::cat">cat</a>, <a href="qd::catte">catte</a>, from lan
 </ol>
 
 <h5>Synonyms</h5>
-<ul><li> {{sense|any member of the <a href="qd::suborder">suborder</a> (sometimes <a href="qd::superfamily">superfamily</a>) <a href="qd::Feliformia">Feliformia</a> or <a href="qd::Feloidea">Feloidea</a>}} <a href="qd::feliform">feliform</a> (&quot;<a href="qd::cat-like">cat-like</a>&quot; <a href="qd::carnivoran">carnivoran</a>), <a href="qd::feloid">feloid</a> (cf. <a href="qd::Caniformia">Caniformia</a>, <a href="qd::Canoidea">Canoidea</a>)</li>
+<ul><li> {{sense|any member of the <a href="qd::suborder">suborder</a> (sometimes <a href="qd::superfamily">superfamily</a>) <a href="qd::Feliformia">Feliformia</a> or {{taxlink|Feloidea|suborder}}}} <a href="qd::feliform">feliform</a> (&quot;<a href="qd::cat-like">cat-like</a>&quot; <a href="qd::carnivoran">carnivoran</a>), <a href="qd::feloid">feloid</a> (compare <a href="qd::Caniformia">Caniformia</a>, </em>{{taxlink|Canoidea|superfamily}}<em>)</li>
 <li> {{sense|any member of the <a href="qd::family">family</a> <a href="qd::Felidae">Felidae</a>}} <a href="qd::felid">felid</a></li>
-<li> {{sense|any member of the <a href="qd::subfamily">subfamily</a> <a href="qd::Felinae">Felinae</a>, genera <a href="qd::Puma">Puma</a>, <a href="qd::Acinonyx">Acinonyx</a>, <a href="qd::Lynx">Lynx</a>, <a href="qd::Leopardus">Leopardus</a>, and <a href="qd::Felis">Felis</a>)}} <a href="qd::feline+cat">feline cat</a>, a <a href="qd::feline">feline</a></li>
-<li> {{sense|any member of the subfamily <a href="qd::Pantherinae">Pantherinae</a>, genera <a href="qd::Panthera">Panthera</a>, <a href="qd::Uncia">Uncia</a> and <a href="qd::Neofelis">Neofelis</a>}} <a href="qd::pantherine+cat">pantherine cat</a>, a <a href="qd::pantherine">pantherine</a></li>
-<li> {{sense|technically, all members of the genus Panthera}} <a href="qd::panther">panther</a> (i.e. <a href="qd::tiger">tiger</a>, <a href="qd::lion">lion</a>, <a href="qd::jaguar">jaguar</a>, <a href="qd::leopard">leopard</a>), (narrow sense) <a href="qd::panther">panther</a> (i.e. <a href="qd::black+panther">black panther</a>)</li>
-<li> {{sense|any member of the <a href="qd::extinct">extinct</a> subfamily <a href="qd::Machairodontinae">Machairodontinae</a>, genera <a href="qd::Smilodon">Smilodon</a>, <a href="qd::Homotherium">Homotherium</a>, <a href="qd::Miomachairodus">Miomachairodus</a>, etc.}} <a href="qd::Smilodontini">Smilodontini</a>, <a href="qd::Machairodontini">Machairodontini</a> (<a href="qd::Homotherini">Homotherini</a>), <a href="qd::Metailurini">Metailurini</a>, &quot;<a href="qd::saber-toothed+cat">saber-toothed cat</a>&quot; (<a href="qd::saber-tooth">saber-tooth</a>)</li>
+<li> {{sense|any member of the <a href="qd::subfamily">subfamily</a> <a href="qd::Felinae">Felinae</a>, genera </em><a href="qd::Puma">Puma</a><em>, </em><a href="qd::Acinonyx">Acinonyx</a><em>, </em><a href="qd::Lynx">Lynx</a><em>, </em><a href="qd::Leopardus">Leopardus</a><em>, and </em><a href="qd::Felis">Felis</a><em>)}} <a href="qd::feline+cat">feline cat</a>, a <a href="qd::feline">feline</a></li>
+<li> {{sense|any member of the subfamily <a href="qd::Pantherinae">Pantherinae</a>, genera </em><a href="qd::Panthera">Panthera</a>, <a href="qd::Uncia">Uncia</a><em> and </em><a href="qd::Neofelis">Neofelis</a><em>}} <a href="qd::pantherine+cat">pantherine cat</a>, a <a href="qd::pantherine">pantherine</a></li>
+<li> {{sense|technically, all members of the genus </em>Panthera<em>}} <a href="qd::panther">panther</a> (i.e. <a href="qd::tiger">tiger</a>, <a href="qd::lion">lion</a>, <a href="qd::jaguar">jaguar</a>, <a href="qd::leopard">leopard</a>), (narrow sense) <a href="qd::panther">panther</a> (i.e. <a href="qd::black+panther">black panther</a>)</li>
+<li> {{sense|any member of the <a href="qd::extinct">extinct</a> subfamily </em>{{taxlink|Machairodontinae|subfamily}}<em>, genera {{taxlink|Smilodon|genus}}, {{taxlink|Homotherium|genus}}, {{taxlink|Miomachairodus|genus}}, etc.}} </em>{{taxlink|Smilodontini|tribe}}<em>, </em>{{taxlink|Machairodontini|tribe}}<em> </em>({{taxlink|Homotherini|tribe}}<em>), </em>{{taxlink|Metailurini|tribe}}<em>, &quot;<a href="qd::saber-toothed+cat">saber-toothed cat</a>&quot; (<a href="qd::saber-tooth">saber-tooth</a>)</li>
 <li> {{sense|domestic species}} <a href="qd::housecat">housecat</a>, <a href="qd::puss">puss</a>, <a href="qd::pussy">pussy</a>, <a href="qd::malkin">malkin</a>, <a href="qd::kitten">kitten</a>, <a href="qd::kitty">kitty</a>, <a href="qd::pussy-cat">pussy-cat</a>, <a href="qd::mouser">mouser</a>, <a href="qd::tomcat">tomcat</a>, <a href="qd::grimalkin">grimalkin</a></li>
 <li> {{sense|man}} <a href="qd::bloke">bloke</a> (UK), <a href="qd::chap">chap</a> (British), <a href="qd::cove">cove</a> (UK), <a href="qd::dude">dude</a>, <a href="qd::fellow">fellow</a>, <a href="qd::fella">fella</a>, <a href="qd::guy">guy</a></li>
 <li> {{sense|spiteful woman}} <a href="qd::bitch">bitch</a></li>
@@ -1106,6 +1110,7 @@ From lang:enm <a href="qd::cat">cat</a>, <a href="qd::catte">catte</a>, from lan
 </ul>
 <ul><li> <a href="qd::cat-trap">cat-trap</a></li>
 <li> <a href="qd::catty">catty</a></li>
+<li> <a href="qd::Caturday">Caturday</a></li>
 <li> <a href="qd::catwalk">catwalk</a>, <a href="qd::cat-walk">cat-walk</a></li>
 <li> <a href="qd::cat-witted">cat-witted</a></li>
 <li> <a href="qd::Chinese+desert+cat">Chinese desert cat</a></li>
@@ -1213,15 +1218,26 @@ Possibly a shortened form of <a href="qd::catastrophic">catastrophic</a>.
 </ol>
 
 <h5>Usage notes</h5>
-This usage is common in speech but rarely appears in writing.>>>
+This usage is common in speech but rarely appears in writing.
+<h3>Etymology 5</h3>
+Shortened from <a href="qd::methcathinone">methcathinone</a>.
+<h4>Noun</h4>
+{{en-noun|-}}
+<ol><li> {{n-g|A street name of the drug <a href="qd::methcathinone">methcathinone</a>.}}</li>
+</ol>
+>>>
 ===chap===
 See also HtmlEntry:cat
+===charge===
+See also HtmlEntry:free
 ===chief===
 See also HtmlEntry:head
 ===chuck===
 See also HtmlEntry:rain cats and dogs
 ===cja===
 See also HtmlEntry:word
+===clear===
+See also HtmlEntry:free
 ===cock===
 See also HtmlEntry:crow
 ===codswallop===
@@ -1265,6 +1281,8 @@ HtmlEntry: connotation <<<
 
 <h4>External links</h4>
 >>>
+===constrained===
+See also HtmlEntry:free
 ===contract===
 See also HtmlEntry:deal
 ===could===
@@ -1274,7 +1292,7 @@ See also HtmlEntry:cat
 ***craft***
 HtmlEntry: craft <<<{{wikipedia|craft|dab=craft (disambiguation)}}
 <h3>Etymology</h3>
-From lang:enm, from lang:ang <a href="qd::cr%C3%A6ft">cr&aelig;ft</a> (&quot;physical strength, might, courage, science, skill, art, ability, talent, virtue, excellence, trade, handicraft, calling, work or product of art, hex, trick, fraud, deceit, machine, instrument&quot;), from {{proto|Germanic|kraftaz|power}}, from {{proto|Indo-European|ger-|to turn, wind}}. Cognate with lang:frs <a href="qd::craft">craft</a> (&quot;strength&quot;), lang:fy <a href="qd::kr%C3%AAft">kr&ecirc;ft</a> (&quot;strength&quot;), Dutch <a href="qd::kracht">kracht</a> (&quot;strength, force, power&quot;), German <a href="qd::Kraft">Kraft</a> (&quot;strength, force, power&quot;), Swedish <a href="qd::kraft">kraft</a> (&quot;power, force, drive, energy&quot;), Icelandic <a href="qd::kraftur">kraftur</a> (&quot;power&quot;).
+From lang:enm, from lang:ang <a href="qd::cr%C3%A6ft">cr&aelig;ft</a> (&quot;physical strength, might, courage, science, skill, art, ability, talent, virtue, excellence, trade, handicraft, calling, work or product of art, hex, trick, fraud, deceit, machine, instrument&quot;), from lang:gem-pro {{recons|kraftaz|power|lang=gem-pro}}, from lang:ine-pro {{recons|ger-|to turn, wind|lang=ine-pro}}. Cognate with lang:frs <a href="qd::craft">craft</a> (&quot;strength&quot;), lang:fy <a href="qd::kr%C3%AAft">kr&ecirc;ft</a> (&quot;strength&quot;), Dutch <a href="qd::kracht">kracht</a> (&quot;strength, force, power&quot;), German <a href="qd::Kraft">Kraft</a> (&quot;strength, force, power&quot;), Swedish <a href="qd::kraft">kraft</a> (&quot;power, force, drive, energy&quot;), Icelandic <a href="qd::kraftur">kraftur</a> (&quot;power&quot;).
 <h3>Pronunciation</h3>
 <ul><li> {{a|RP}} IPA: &#x2f;&#x6b;&#x279;&#x251;&#x2d0;&#x66;&#x74;&#x2f;</li>
 <ul><li> {{rhymes|&#x251;&#x2d0;&#x66;&#x74;}}</li>
@@ -1367,7 +1385,7 @@ HtmlEntry: crow <<<A bird; a crow: <em>American crow</em>
 </ul>
 
 <h3>Etymology 1</h3>
-lang:enm <a href="qd::crowe">crowe</a>, from lang:ang <a href="qd::cr%C4%81we">crawe</a>, from {{proto|Germanic|&#x6b;&#x72;&#x101;&#x77;&#x14d;}} (compare lang:fy <a href="qd::krie">krie</a>, Dutch <a href="qd::kraai">kraai</a>, German <a href="qd::Kr%C3%A4he">Kr&auml;he</a>), from {{proto|Germanic|&#x6b;&#x72;&#x101;&#x68;&#x61;&#x6e;&#x61;&#x6e;|title=}}&#x20;&#x2018;&#x74;&#x6f;&#x20;&#x63;&#x72;&#x6f;&#x77;&#x2019;&#x2e;&#x20;&#x53;&#x65;&#x65;&#x20;&#x62;&#x65;&#x6c;&#x6f;&#x77;&#x2e;
+lang:enm <a href="qd::crowe">crowe</a>, from lang:ang <a href="qd::cr%C4%81we">crawe</a>, from lang:gem-pro {{recons|&#x6b;&#x72;&#x101;&#x77;&#x14d;|lang=gem-pro}} (compare lang:fy <a href="qd::krie">krie</a>, Dutch <a href="qd::kraai">kraai</a>, German <a href="qd::Kr%C3%A4he">Kr&auml;he</a>), from {{recons|&#x6b;&#x72;&#x101;&#x68;&#x61;&#x6e;&#x61;&#x6e;|lang=gem-pro}}&#x20;&#x2018;&#x74;&#x6f;&#x20;&#x63;&#x72;&#x6f;&#x77;&#x2019;&#x2e;&#x20;&#x53;&#x65;&#x65;&#x20;&#x62;&#x65;&#x6c;&#x6f;&#x77;&#x2e;
 <h4>Noun</h4>
 {en-noun}
 <ol><li> A <a href="qd::bird">bird</a>, usually black, of the genus <em><a href="qd::Corvus">Corvus</a></em>, having a strong conical beak, with projecting bristles; it has a harsh, croaking call.</li>
@@ -1413,7 +1431,7 @@ lang:enm <a href="qd::crowe">crowe</a>, from lang:ang <a href="qd::cr%C4%81we">c
 </ul>
 
 <h3>Etymology 2</h3>
-lang:enm <a href="qd::crowen">crowen</a>, from lang:ang <a href="qd::cr%C4%81wan">crawan</a>, from {{proto|Germanic|&#x6b;&#x72;&#x101;&#x68;&#x61;&#x6e;&#x61;&#x6e;}} (compare Dutch <a href="qd::kraaien">kraaien</a>, German <a href="qd::kr%C3%A4hen">kr&auml;hen</a>), from {{proto|Indo-European|&#x67;&#x72;&#x65;&#x68;&#x2082;&#x2d;}}&#x20;&#x2018;&#x74;&#x6f;&#x20;&#x63;&#x61;&#x77;&#x2c;&#x20;&#x63;&#x72;&#x6f;&#x61;&#x6b;&#x2019;&#x20;&#x28;&#x63;&#x6f;&#x6d;&#x70;&#x61;&#x72;&#x65;&#x20;&#x4c;&#x69;&#x74;&#x68;&#x75;&#x61;&#x6e;&#x69;&#x61;&#x6e;&#x20;<a href="qd::gr%C3%B3ti">gr&oacute;ti</a>, Russian <a href="qd::%D0%B3%D1%80%D0%B0%D1%8F%D1%82%D1%8C">&#x433;&#x440;&#x430;&#x44f;&#x442;&#x44c;</a> (gr&aacute;jat')). Related to {{l|en|croak}}.
+lang:enm <a href="qd::crowen">crowen</a>, from lang:ang <a href="qd::cr%C4%81wan">crawan</a>, from lang:gem-pro {{recons|&#x6b;&#x72;&#x101;&#x68;&#x61;&#x6e;&#x61;&#x6e;|lang=gem-pro}} (compare Dutch <a href="qd::kraaien">kraaien</a>, German <a href="qd::kr%C3%A4hen">kr&auml;hen</a>), from lang:ine-pro {{recons|&#x67;&#x72;&#x65;&#x68;&#x2082;&#x2d;|lang=ine-pro}}&#x20;&#x2018;&#x74;&#x6f;&#x20;&#x63;&#x61;&#x77;&#x2c;&#x20;&#x63;&#x72;&#x6f;&#x61;&#x6b;&#x2019;&#x20;&#x28;&#x63;&#x6f;&#x6d;&#x70;&#x61;&#x72;&#x65;&#x20;&#x4c;&#x69;&#x74;&#x68;&#x75;&#x61;&#x6e;&#x69;&#x61;&#x6e;&#x20;<a href="qd::gr%C3%B3ti">gr&oacute;ti</a>, Russian <a href="qd::%D0%B3%D1%80%D0%B0%D1%8F%D1%82%D1%8C">&#x433;&#x440;&#x430;&#x44f;&#x442;&#x44c;</a> (gr&aacute;jat')). Related to <em><a href="qd::croak">croak</a></em>.
 <h4>Verb</h4>
 {{en-verb|crows|crowing|<b><a href="qd::crowed">crowed</a></b> or <b><a href="qd::crew">crew</a></b> (Br. Eng. sense 1 only)|crowed}}
 <ol><li> To make the <a href="qd::shrill">shrill</a> <a href="qd::sound">sound</a> characteristic of a rooster; to make a sound in this manner, either in joy, gaiety, or defiance.</li>
@@ -1450,7 +1468,7 @@ HtmlEntry: day <<<{{wikipedia|Day (disambiguation)}}
 </ul>
 
 <h3>Etymology</h3>
-From lang:enm <a href="qd::day">day</a>, from lang:ang <a href="qd::d%C3%A6%C4%A1">d&aelig;g</a> (&quot;day&quot;), from {{proto|Germanic|dagaz|day}}, from {{proto|Indo-European|&#x64;&#x2b0;&#x65;&#x67;&#x2b0;&#x2d;|to burn}}. Cognate with lang:fy <a href="qd::dei">dei</a> (&quot;day&quot;), Dutch <a href="qd::dag">dag</a> (&quot;day&quot;), German <a href="qd::Tag">Tag</a> (&quot;day&quot;), Swedish <a href="qd::dag">dag</a> (&quot;day&quot;), Icelandic <a href="qd::dagur">dagur</a> (&quot;day&quot;). Compare Albanian <a href="qd::djeg">djeg</a> (&quot;to burn&quot;), Lithuanian <a href="qd::degti">degti</a> (&quot;to burn&quot;), Sanskrit <a href="qd::day">day</a> (&#x64;&#x101;&#x68;&#x61;&#x73;, &quot;heat&quot;).Not related to Latin <a href="qd::dies">dies</a> (from {{proto|Indo-European|dyeu-|to shine}}).
+From lang:enm <a href="qd::day">day</a>, from lang:ang <a href="qd::d%C3%A6%C4%A1">d&aelig;g</a> (&quot;day&quot;), from lang:gem-pro {{recons|dagaz|day|lang=gem-pro}}, from lang:ine-pro {{recons|&#x64;&#x2b0;&#x65;&#x67;&#x2b0;&#x2d;|to burn|lang=ine-pro}}. Cognate with lang:fy <a href="qd::dei">dei</a> (&quot;day&quot;), Dutch <a href="qd::dag">dag</a> (&quot;day&quot;), German <a href="qd::Tag">Tag</a> (&quot;day&quot;), Swedish <a href="qd::dag">dag</a> (&quot;day&quot;), Icelandic <a href="qd::dagur">dagur</a> (&quot;day&quot;). Compare Albanian <a href="qd::djeg">djeg</a> (&quot;to burn&quot;), Lithuanian <a href="qd::degti">degti</a> (&quot;to burn&quot;), Sanskrit <a href="qd::day">day</a> (&#x64;&#x101;&#x68;&#x61;&#x73;, &quot;heat&quot;).Not related to Latin <a href="qd::dies">dies</a> (from lang:ine-pro {{recons|dyeu-|to shine|lang=ine-pro}}).
 <h3>Pronunciation</h3>
 <ul><li> {{enPR|&#x64;&#x101;}}, IPA: &#x2f;&#x64;&#x65;&#x26a;&#x2f;, {{X-SAMPA|/deI/}}</li>
 <li> {{audio|en-us-day.ogg|Audio (US)}}</li>
@@ -1580,8 +1598,6 @@ lang:ang <a href="qd::d%C3%A6%C4%A1">d&aelig;g</a>
 ***deal***
 HtmlEntry: deal <<<
 <h3>Pronunciation</h3>
-
-<h3>Pronunciation</h3>
 <ul><li> {{a|UK}} IPA: &#x2f;&#x64;&#x26a;&#x259;&#x26b;&#x2f;</li>
 <li> {{a|US}} {{enPR|&#x64;&#x113;&#x6c;}}, IPA: &#x2f;&#x64;&#x69;&#x2d0;&#x6c;&#x2f;, {{X-SAMPA|/di:l/}}</li>
 <li> {{audio|en-us-deal.ogg|Audio (US)}}</li>
@@ -1589,7 +1605,7 @@ HtmlEntry: deal <<<
 </ul>
 
 <h3>Etymology 1</h3>
-From lang:enm <a href="qd::dele">dele</a>, from lang:ang <a href="qd::d%C7%A3l">d&aelig;l</a> (&quot;part, share, portion&quot;), from {{proto|Germanic|dailiz|part, deal}}, from {{proto|Indo-European|dhAil-|part, watershed}}. Cognate with lang:sco <a href="qd::dele">dele</a> (&quot;part, portion&quot;), lang:fy <a href="qd::diel">diel</a> (&quot;part, share&quot;), Dutch <a href="qd::deel">deel</a> (&quot;part, share, portion&quot;), German <a href="qd::Teil">Teil</a> (&quot;part, portion, section&quot;), Danish <a href="qd::del">del</a> (&quot;part&quot;), Icelandic <a href="qd::deila">deila</a> (&quot;division, contention&quot;), lang:got <a href="qd::%F0%90%8C%B3%F0%90%8C%B0%F0%90%8C%B9%F0%90%8C%BB%F0%90%8D%83">&#x10333;&#xdf33;&#x10330;&#xdf30;&#x10339;</a> (dails, &quot;portion&quot;). Related to lang:ang <a href="qd::d%C4%81l">dal</a> (&quot;portion&quot;). More at {{l|en|dole}}.
+From lang:enm <a href="qd::dele">dele</a>, from lang:ang <a href="qd::d%C7%A3l">d&aelig;l</a> (&quot;part, share, portion&quot;), from lang:gem-pro {{recons|dailiz|part, deal|lang=gem-pro}}, from lang:ine-pro {{recons|dhAil-|part, watershed|lang=ine-pro}}. Cognate with lang:sco <a href="qd::dele">dele</a> (&quot;part, portion&quot;), lang:fy <a href="qd::diel">diel</a> (&quot;part, share&quot;), Dutch <a href="qd::deel">deel</a> (&quot;part, share, portion&quot;), German <a href="qd::Teil">Teil</a> (&quot;part, portion, section&quot;), Danish <a href="qd::del">del</a> (&quot;part&quot;), Icelandic <a href="qd::deila">deila</a> (&quot;division, contention&quot;), lang:got <a href="qd::%F0%90%8C%B3%F0%90%8C%B0%F0%90%8C%B9%F0%90%8C%BB%F0%90%8D%83">&#x10333;&#xdf33;&#x10330;&#xdf30;&#x10339;</a> (dails, &quot;portion&quot;). Related to lang:ang <a href="qd::d%C4%81l">dal</a> (&quot;portion&quot;). More at <a href="qd::dole">dole</a>.
 <h4>Noun</h4>
 {en-noun}
 <ol><li> {obsolete} A <a href="qd::division">division</a>, a <a href="qd::portion">portion</a>, a <a href="qd::share">share</a>.</li>
@@ -1618,7 +1634,7 @@ From lang:enm <a href="qd::dele">dele</a>, from lang:ang <a href="qd::d%C7%A3l">
 </ul>
 
 <h3>Etymology 2</h3>
-From lang:enm <a href="qd::delen">delen</a>, from lang:ang <a href="qd::d%C7%A3lan">d&aelig;lan</a> (&quot;to divide, part&quot;), from {{proto|Germanic|dailijanan|to divide, part, deal}}, from {{proto|Indo-European|&#x64;&#x2b0;&#x61;&#x69;&#x6c;&#x2d;|part, watershed}}. Cognate with lang:fy <a href="qd::diele">diele</a> (&quot;to divide, separate&quot;), Dutch <a href="qd::delen">delen</a>, German <a href="qd::teilen">teilen</a>, Swedish <a href="qd::dela">dela</a>; and with Lithuanian <a href="qd::dalinti">dalinti</a> (&quot;divide&quot;), Russian <a href="qd::%D0%B4%D0%B5%D0%BB%D0%B8%D1%82%D1%8C">&#x434;&#x435;&#x43b;&#x438;&#x442;&#x44c;</a>.
+From lang:enm <a href="qd::delen">delen</a>, from lang:ang <a href="qd::d%C7%A3lan">d&aelig;lan</a> (&quot;to divide, part&quot;), from lang:gem-pro {{recons|dailijanan|to divide, part, deal|lang=gem-pro}}, from lang:ine-pro {{recons|&#x64;&#x2b0;&#x61;&#x69;&#x6c;&#x2d;|part, watershed|lang=ine-pro}}. Cognate with lang:fy <a href="qd::diele">diele</a> (&quot;to divide, separate&quot;), Dutch <a href="qd::delen">delen</a>, German <a href="qd::teilen">teilen</a>, Swedish <a href="qd::dela">dela</a>; and with Lithuanian <a href="qd::dalinti">dalinti</a> (&quot;divide&quot;), Russian <a href="qd::%D0%B4%D0%B5%D0%BB%D0%B8%D1%82%D1%8C">&#x434;&#x435;&#x43b;&#x438;&#x442;&#x44c;</a>.
 <h4>Verb</h4>
 {{en-verb|deals|dealing|dealt}}
 <ol><li> {transitive} To <a href="qd::distribute">distribute</a> among a number of <a href="qd::recipient">recipient</a>&#x73;&#x2c;&#x20;&#x74;&#x6f;&#x20;&#x67;&#x69;&#x76;&#x65;&#x20;&#x6f;&#x75;&#x74;&#x20;&#x61;&#x73;&#x20;&#x6f;&#x6e;&#x65;&#x2019;&#x73;&#x20;&#x70;&#x6f;&#x72;&#x74;&#x69;&#x6f;&#x6e;&#x20;&#x6f;&#x72;&#x20;&#x73;&#x68;&#x61;&#x72;&#x65;&#x2e;</li>
@@ -1754,6 +1770,9 @@ lang:gml <a href="qd::dele">dele</a>, cognate with Old English <a href="qd::%C3%
 {{en-adj|-}}
 <ol><li> Made of deal.</li>
 <ul><li> </em>A plain <b>deal</b> table<em></li>
+<li> <b>1919</b>, W. Somerset Maugham, </em>The Moon and Sixpence<em>, <a href="qd::s%3AThe+Moon+and+Sixpence%2FChapter+XLVII">chapter 47</a></li>
+<ul><li>Through the open door you see a red-tiled floor, a large wooden bed, and on a <b>deal</b> table a ewer and a basin.</li>
+</ul>
 </ul>
 </ol>
 
@@ -1910,7 +1929,7 @@ lang:ML. <a href="qd::dictionarium">dictionarium</a>, from Latin <a href="qd::di
 </ul>
 
 <h4>Synonyms</h4>
-<ul><li> {{l|en|wordbook}}</li>
+<ul><li> <a href="qd::wordbook">wordbook</a></li>
 </ul>
 
 <h4>Derived terms</h4>
@@ -1978,7 +1997,7 @@ lang:enm <a href="qd::egle">egle</a>, from lang:xno <a href="qd::egle">egle</a>,
 
 <h3>Noun</h3>
 {en-noun}
-<ol><li> Any of several large carnivorous and <a href="qd::carrion">carrion</a>-eating <a href="qd::bird">bird</a>s in the family <em><a href="qd::Accipitridae">Accipitridae</a></em>, having a powerful <a href="qd::hooked">hooked</a> <a href="qd::bill">bill</a> and <a href="qd::keen">keen</a> <a href="qd::vision">vision</a>.</li>
+<ol><li> Any of several large carnivorous and <a href="qd::carrion">carrion</a>-eating <a href="qd::bird">bird</a>s in the family <a href="qd::Accipitridae">Accipitridae</a>, having a powerful <a href="qd::hooked">hooked</a> <a href="qd::bill">bill</a> and <a href="qd::keen">keen</a> <a href="qd::vision">vision</a>.</li>
 <li> A <a href="qd::representation">representation</a> of such a bird carried as an <a href="qd::emblem">emblem</a></li>
 <li> {{US|currency}} A <a href="qd::gold+coin">gold coin</a> with a face value of $10.00 formerly used in the United States.</li>
 <li> {golf} A score of <a href="qd::two">two</a> <a href="qd::under+par">under par</a> for a <a href="qd::hole">hole</a>.</li>
@@ -2028,7 +2047,7 @@ See also HtmlEntry:word
 ***elephant***
 HtmlEntry: elephant <<<
 <h3>Etymology</h3>
-lang:enm <a href="qd::elefant">elefant</a>, <a href="qd::elefaunt">elefaunt</a>, from lang:frm <a href="qd::elephant">elephant</a>, learned borrowing from Latin <a href="qd::elephantus">elephantus</a>, from Ancient Greek <a href="qd::%E1%BC%90%CE%BB%CE%AD%CF%86%CE%B1%CF%82">&#x1f10;&#x3bb;&#x3ad;&#x3c6;&#x3b1;&#x3c2;</a> (&#x65;&#x6c;&#xe9;&#x70;&#x68;&#x101;&#x73;) (gen. <a href="qd::%E1%BC%90%CE%BB%CE%AD%CF%86%CE%B1%CE%BD%CF%84%CE%BF%CF%82">&#x1f10;&#x3bb;&#x3ad;&#x3c6;&#x3b1;&#x3bd;&#x3c4;&#x3bf;&#x3c2;</a> (el&eacute;phantos)), compound of Berber {{recons|&#x65;&#x1e37;&#x75;|elephant|lang=ber}} (compare Tamahaq (Tahaggart) <a href="qd::%C3%AAlu">&ecirc;lu</a>, (Ghat) <a href="qd::alu">alu</a>) and lang:egy <a href="qd::%F0%93%8D%8B%F0%93%83%80%F0%93%85%B1%F0%93%8C%9F">&#x1334b;&#xdf4b;&#x130c0;&#xdcc0;</a> (&#x21d;&#x62;&#x77;) (<em>&#x101;&#x62;&#x75;</em>&#x29;&#x20;&#x2018;&#x65;&#x6c;&#x65;&#x70;&#x68;&#x61;&#x6e;&#x74;&#x3b;&#x20;&#x69;&#x76;&#x6f;&#x72;&#x79;&#x2019;&#x2e;&#x20;&#x4d;&#x6f;&#x72;&#x65;&#x20;&#x61;&#x74;&#x20;{{l|en|ivory}}. Replaced Middle English <a href="qd::olifant">olifant</a>, which replaced Old English <a href="qd::elpend">elpend</a>, <a href="qd::olfend">olfend</a>.
+lang:enm <a href="qd::elefant">elefant</a>, <a href="qd::elefaunt">elefaunt</a>, from lang:frm <a href="qd::elephant">elephant</a>, learned borrowing from Latin <a href="qd::elephantus">elephantus</a>, from Ancient Greek <a href="qd::%E1%BC%90%CE%BB%CE%AD%CF%86%CE%B1%CF%82">&#x1f10;&#x3bb;&#x3ad;&#x3c6;&#x3b1;&#x3c2;</a> (&#x65;&#x6c;&#xe9;&#x70;&#x68;&#x101;&#x73;) (gen. <a href="qd::%E1%BC%90%CE%BB%CE%AD%CF%86%CE%B1%CE%BD%CF%84%CE%BF%CF%82">&#x1f10;&#x3bb;&#x3ad;&#x3c6;&#x3b1;&#x3bd;&#x3c4;&#x3bf;&#x3c2;</a> (el&eacute;phantos)), compound of Berber {{recons|&#x65;&#x1e37;&#x75;|elephant|lang=ber}} (compare Tamahaq (Tahaggart) <a href="qd::%C3%AAlu">&ecirc;lu</a>, (Ghat) <a href="qd::alu">alu</a>) and lang:egy <a href="qd::%F0%93%8D%8B%F0%93%83%80%F0%93%85%B1%F0%93%8C%9F">&#x1334b;&#xdf4b;&#x130c0;&#xdcc0;</a> (&#x21d;&#x62;&#x77;) (<em>&#x101;&#x62;&#x75;</em>&#x29;&#x20;&#x2018;&#x65;&#x6c;&#x65;&#x70;&#x68;&#x61;&#x6e;&#x74;&#x3b;&#x20;&#x69;&#x76;&#x6f;&#x72;&#x79;&#x2019;&#x2e;&#x20;&#x4d;&#x6f;&#x72;&#x65;&#x20;&#x61;&#x74;&#x20;<a href="qd::ivory">ivory</a>. Replaced Middle English <a href="qd::olifant">olifant</a>, which replaced Old English <a href="qd::elpend">elpend</a>, <a href="qd::olfend">olfend</a>.
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x2c8;&#x25b;&#x6c;&#x259;&#x66;&#x259;&#x6e;&#x74;&#x2f;, &#x2f;&#x2c8;&#x25b;&#x6c;&#x26a;&#x66;&#x259;&#x6e;&#x74;&#x2f;</li>
 <li> {{audio|En-us-elephant.ogg|Audio (US)}}</li>
@@ -2046,9 +2065,13 @@ lang:enm <a href="qd::elefant">elefant</a>, <a href="qd::elefaunt">elefaunt</a>,
 
 <h4>Synonyms</h4>
 <ul><li> {{sense|animal}} <em><a href="qd::Elephas">Elephas</a> <a href="qd::maximus">maximus</a></em>, <em><a href="qd::Loxodonta">Loxodonta</a> <a href="qd::africana">africana</a></em></li>
-<li> {{sense|counting term}} (&lt;I&gt;US&lt;/I&gt;) <em><a href="qd::alligator">alligator</a></em></li>
+<li> {{sense|counting term}} <em><a href="qd::alligator">alligator</a></em> (US)</li>
 </ul>
-{-}
+
+<h4>Hyponyms</h4>
+<ul><li> {{sense|animal}} <a href="qd::African+bush+elephant">African bush elephant</a>, <a href="qd::African+forest+elephant">African forest elephant</a>, <a href="qd::Indian+elephant">Indian elephant</a>, <a href="qd::African+elephant">African elephant</a></li>
+</ul>
+
 <h4>Derived terms</h4>
 {{rel-top4|Terms derived from the noun <em>elephant</em>}}
 <ul><li> <a href="qd::African+bush+elephant">African bush elephant</a></li>
@@ -2182,11 +2205,10 @@ lang:enm <a href="qd::elefant">elefant</a>, <a href="qd::elefaunt">elefaunt</a>,
 ===Elephas===
 See also HtmlEntry:elephant
 ***encyclopaedia***
-HtmlEntry: encyclopaedia <<<{rfm}
+HtmlEntry: encyclopaedia <<<
 <h3>Pronunciation</h3>
 <ul><li> {{audio|en-us-encyclopaedia.ogg|Audio (US)}}</li>
-<ul><li> {{rhymes|&#x69;&#x2d0;&#x64;&#x69;&#x259;}}</li>
-</ul>
+<li> {{rhymes|&#x69;&#x2d0;&#x64;&#x69;&#x259;}}</li>
 </ul>
 
 <h3>Noun</h3>
@@ -2241,6 +2263,8 @@ The spelling <em>encyclopedia</em> is standard in American English, preferred in
 >>>
 ===enormous===
 See also HtmlEntry:minute
+===enslaved===
+See also HtmlEntry:free
 ===equivalent===
 See also HtmlEntry:synonym
 ===erne===
@@ -2419,7 +2443,7 @@ HtmlEntry: false friend <<<{{was wotd|2007|May|4}}
 </ul>
 
 <h3>Noun</h3>
-{{en-noun|sg=<a href="qd::false">false</a> <a href="qd::friend">friend</a>}}
+{{en-noun|head=<a href="qd::false">false</a> <a href="qd::friend">friend</a>}}
 <ol><li> {{linguistics|idiomatic}} A <a href="qd::word">word</a> in a foreign language bearing a <a href="qd::deceptive">deceptive</a> resemblance to a word in one's own language.</li>
 </ol>
 
@@ -2509,14 +2533,12 @@ See also HtmlEntry:head
 See also HtmlEntry:cat
 ===feloid===
 See also HtmlEntry:cat
-===Feloidea===
-See also HtmlEntry:cat
 ===first===
 See also HtmlEntry:head
 ***floccinaucinihilipilification***
 HtmlEntry: floccinaucinihilipilification <<<{wikiquote}
 <h3>Etymology</h3>
-A jocular coinage, apparently by pupils at Eton, combining a number of roughly synonymous Latin stems.  Latin <em>flocci</em>, from <em><a href="qd::floccus">floccus</a></em>, a wisp or piece of wool + <em>nauci</em>, from <em><a href="qd::naucum">naucum</a></em>, a trifle + <em>nihili</em>, from the Latin pronoun, <a href="qd::nihil">nihil</a> (&quot;nothing&quot;) + <em>pili</em>, from <em><a href="qd::pilus">pilus</a></em>, a hair, something insignificant (all therefore having the sense of &quot;pettiness&quot; or &quot;nothing&quot;) + <a href="qd::-fication">-fication</a>.  &quot;Flocci non facio&quot; was a Latin expression of indifference, literally &quot;I do not make a straw of...&quot;.
+A jocular coinage, apparently by pupils at Eton, combining a number of roughly synonymous Latin stems. The word was inspired by a line in the <em>Eton Latin Grammar</em> that listed verbs that govern a genitive noun: &quot;Flocci, nauci, nihili, pili, assis, hujus, teruncii, his verbis, aestimo, pendo, facio, peculiariter adduntur.&quot;&lt;ref&gt;<em>The Spectator</em>: 11 June 2011&lt;/ref&gt;  Latin <em>flocci</em>, from <em><a href="qd::floccus">floccus</a></em>, a wisp or piece of wool + <em>nauci</em>, from <em><a href="qd::naucum">naucum</a></em>, a trifle + <em>nihili</em>, from the Latin pronoun, <a href="qd::nihil">nihil</a> (&quot;nothing&quot;) + <em>pili</em>, from <em><a href="qd::pilus">pilus</a></em>, a hair, something insignificant (all therefore having the sense of &quot;pettiness&quot; or &quot;nothing&quot;) + <a href="qd::-fication">-fication</a>.
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x2cc;&#x66;&#x6c;&#x252;&#x6b;&#x73;&#x26a;&#x2cc;&#x6e;&#x252;&#x73;&#x26a;&#x2cc;&#x6e;&#x26a;&#x68;&#x26a;&#x6c;&#x26a;&#x2cc;&#x70;&#x26a;&#x6c;&#x26a;&#x66;&#x26a;&#x2c8;&#x6b;&#x65;&#x26a;&#x283;&#x259;&#x6e;&#x2f;, &#x2f;&#x2cc;&#x66;&#x6c;&#x252;&#x6b;&#x73;&#x26a;&#x2cc;&#x6e;&#x254;&#x2d0;&#x73;&#x26a;&#x2cc;&#x6e;&#x61;&#x26a;&#x26a;&#x6c;&#x26a;&#x2cc;&#x70;&#x26a;&#x6c;&#x26a;&#x66;&#x26a;&#x2c8;&#x6b;&#x65;&#x26a;&#x283;&#x259;&#x6e;&#x2f;, {{X-SAMPA|/%flQksI%nQsI&amp;nIhIlI%pIlIfI&quot;keIS@n/|/%flQksI%nO:sI%naIIlI%pIlIfI&quot;keIS@n/}}</li>
 <li> {{audio|en-us-floccinaucinihilipilification.ogg|Audio (US)}}</li>
@@ -2545,6 +2567,8 @@ Often cited as the longest non-technical word in the English language, being one
 See also HtmlEntry:deal
 ===fo===
 See also HtmlEntry:f
+===for===
+See also HtmlEntry:free
 ===foxiness===
 See also HtmlEntry:craft
 ===frankenword===
@@ -2563,144 +2587,145 @@ lang:enm <a href="qd::fre">fre</a>, from lang:ang <a href="qd::fr%C4%93o">freo</
 <a href="qd::File%3AFree+Beer.jpg">A sign advertising <b>free</b> beer (obtainable without payment).</a><a href="qd::File%3ABuy+one%2C+get+one+free+%5E+-+geograph.org.uk+-+153952.jpg">A &quot;buy one get one <b>free</b>&quot; sign at a flower stand (obtainable without additional payment).</a><a href="qd::File%3ABerkeley+Farms+Fat-Free+Half+%26+Half.jpg">This food product is labelled &quot;fat <b>free</b>&quot;, meaning it contains no fat.</a>
 <h3>Adjective</h3>
 {{en-adj|freer|freest}}
-<ol><li> Not {{l|en|imprisoned}} or {{l|en|enslaved}}.</li>
+<ol><li> Not <a href="qd::imprisoned">imprisoned</a> or <a href="qd::enslaved">enslaved</a>.</li>
 <ul><li> <em>a <b>free</b> man</em></li>
 </ul>
-<li> Obtainable without any {{l|en|payment}}.</li>
+<li> Obtainable without any <a href="qd::payment">payment</a>.</li>
 <ul><li> <em>The government provides <b>free</b> health care.</em></li>
 </ul>
 <li> {{by extension|chiefly|advertising slang}} Obtainable without additional payment, as a bonus given when paying for something else.</li>
 <ul><li> <em>Buy a TV to get a <b>free</b> DVD player!</em></li>
 </ul>
-<li> {{l|en|unconstrained|Unconstrained}}.</li>
+<li> <a href="qd::unconstrained">Unconstrained</a>.</li>
 <ul><li> <em>He was given <b>free</b> rein to do whatever he wanted</em> </li>
 </ul>
-<li> {mathematics} Unconstrained by {{l|en|relator}}s.</li>
+<li> {mathematics} Unconstrained by <a href="qd::relator">relator</a>s.</li>
 <ul><li> <em>The <b>free</b> group on three generators</em></li>
 </ul>
-<li> {{mathematics|logic}} Unconstrained by {{l|en|quantifier}}s.</li>
+<li> {{mathematics|logic}} Unconstrained by <a href="qd::quantifier">quantifier</a>s.</li>
 <ul><li> z<em> is the <b>free</b> variable in &quot;&lt;math&gt;\forall x\exists y:xy=z&lt;/math&gt;&quot;.</em></li>
 </ul>
-<li> Unobstructed, without {{l|en|blockage}}s.</li>
+<li> Unobstructed, without <a href="qd::blockage">blockage</a>s.</li>
 <ul><li> <em>The drain was <b>free</b>.</em></li>
 </ul>
 <li> Not in use</li>
-<ul><li> <em>Go sit on this chair, it's <b>free</b>.</em></li>
+<ul><li> <em>You can sit on this chair; it's <b>free</b>.</em></li>
 </ul>
-<li> Without {{l|en|obligation}}s.</li>
+<li> Without <a href="qd::obligation">obligation</a>s.</li>
 <ul><li> <b><em>free</b> time</em></li>
 </ul>
-<li> {software} With very few {{l|en|limitations}} on distribution or improvement.</li>
-<ul><li> <em>OpenOffice is {{l|en|free software|<b>free</b> software}}.</em></li>
+<li> {software} With very few <a href="qd::limitation">limitation</a> on distribution or improvement.</li>
+<ul><li> <em>OpenOffice is <a href="qd::free+software"><b>free</b> software</a>.</em></li>
 </ul>
 <li> Without; not containing (what is specified).</li>
-<ul><li> <em>We had a wholesome, filling meal, <b>free</b> of meat</em></li>
+<ul><li> <em>We had a wholesome, filling meal, <b>free</b> of meat.</em></li>
+<li> <em>I would like to live <b>free</b> from care in the mountains.</em></li>
 </ul>
-<li> {programming} Of {{l|en|identifier}}s, not {{l|en|bound}}.</li>
-<li> {{botany|mycology}} Not {{l|en|attached}}; {{l|en|loose}}.</li>
+<li> {programming} Of <a href="qd::identifier">identifier</a>s, not <a href="qd::bound">bound</a>.</li>
+<li> {{botany|mycology}} Not <a href="qd::attached">attached</a>; <a href="qd::loose">loose</a>.</li>
 <ul><li> <em>In this group of mushrooms, the gills are <b>free</b>.</em></li>
 <li> {{RQ:Schuster Hepaticae V|7}}</li>
 <ul><li> Furthermore, the <b>free</b> anterior margin of the lobule is arched toward the lobe and is often involute...</li>
 </ul>
 </ul>
-<li> {{of a|morpheme}} That can be used by itself, {{l|en|unattached}} to another {{l|en|morpheme}}.</li>
-<li> {software} Intended for {{l|en|release}}, as opposed to a {{l|en|checked}} version.</li>
+<li> {{of a|morpheme}} That can be used by itself, <a href="qd::unattached">unattached</a> to another <a href="qd::morpheme">morpheme</a>.</li>
+<li> {software} Intended for <a href="qd::release">release</a>, as opposed to a <a href="qd::checked">checked</a> version.</li>
 </ol>
 
 <h4>Synonyms</h4>
-<ul><li> {{sense|obtainable without payment}} {{l|en|free of charge}}, {{l|en|gratis}}</li>
-<li> {{sense|unconstrained}} {{l|en|unconstrained}}, {{l|en|unfettered}}, {{l|en|unhindered}}</li>
-<li> {{sense|unobstructed}} {{l|en|clear}}, {{l|en|unobstructed}}</li>
-<li> {{sense|software: with very few limitations on distribution or improvement}} {{l|en|libre}}</li>
-<li> {{sense|without}} {{l|en|without}}</li>
-<li> {{sense|programming: not bound}} {{l|en|unbound}}</li>
+<ul><li> {{sense|obtainable without payment}} <a href="qd::free+of+charge">free of charge</a>, <a href="qd::gratis">gratis</a></li>
+<li> {{sense|unconstrained}} <a href="qd::unconstrained">unconstrained</a>, <a href="qd::unfettered">unfettered</a>, <a href="qd::unhindered">unhindered</a></li>
+<li> {{sense|unobstructed}} <a href="qd::clear">clear</a>, <a href="qd::unobstructed">unobstructed</a></li>
+<li> {{sense|software: with very few limitations on distribution or improvement}} <a href="qd::libre">libre</a></li>
+<li> {{sense|without}} <a href="qd::without">without</a></li>
+<li> {{sense|programming: not bound}} <a href="qd::unbound">unbound</a></li>
 </ul>
 
 <h4>Antonyms</h4>
-<ul><li> {{sense|not imprisoned or enslaved}} {{l|en|bound}}, {{l|en|enslaved}}, {{l|en|imprisoned}}</li>
-<li> {{sense|unconstrained}} {{l|en|constrained}}, {{l|en|restricted}}</li>
-<li> {{sense|logic: unconstrained by quantifiers}} {{l|en|bound}}</li>
-<li> {{sense|unobstructed}} {{l|en|blocked}}, {{l|en|obstructed}}</li>
-<li> {{sense|of identifiers, not bound}} {{l|en|bound}}</li>
-<li> {{sense|software: with very few limitations on distribution or improvement}} {{l|en|proprietary|proprietary software}}</li>
+<ul><li> {{sense|not imprisoned or enslaved}} <a href="qd::bound">bound</a>, <a href="qd::enslaved">enslaved</a>, <a href="qd::imprisoned">imprisoned</a></li>
+<li> {{sense|unconstrained}} <a href="qd::constrained">constrained</a>, <a href="qd::restricted">restricted</a></li>
+<li> {{sense|logic: unconstrained by quantifiers}} <a href="qd::bound">bound</a></li>
+<li> {{sense|unobstructed}} <a href="qd::blocked">blocked</a>, <a href="qd::obstructed">obstructed</a></li>
+<li> {{sense|of identifiers, not bound}} <a href="qd::bound">bound</a></li>
+<li> {{sense|software: with very few limitations on distribution or improvement}} <a href="qd::proprietary">proprietary software</a></li>
 </ul>
 
 <h4>Derived terms</h4>
 {{rel-top3|Terms derived from <em>free</em>}}
-<ul><li> {{l|en|-free}}</li>
-<li> {{l|en|free Abelian group}}, {{l|en|free abelian group}}</li>
-<li> {{l|en|free algebra}}</li>
-<li> {{l|en|free as a bird}}</li>
-<li> {{l|en|freeball}}</li>
-<li> {{l|en|freebooter}}</li>
-<li> {{l|en|free fall}}</li>
-<li> {{l|en|free group}}</li>
-<li> {{l|en|freelance}}</li>
-<li> {{l|en|freeloader}}</li>
-<li> {{l|en|free lunch}}</li>
+<ul><li> <a href="qd::-free">-free</a></li>
+<li> <a href="qd::free+Abelian+group">free Abelian group</a>, <a href="qd::free+abelian+group">free abelian group</a></li>
+<li> <a href="qd::free+algebra">free algebra</a></li>
+<li> <a href="qd::free+as+a+bird">free as a bird</a></li>
+<li> <a href="qd::freeball">freeball</a></li>
+<li> <a href="qd::freebooter">freebooter</a></li>
+<li> <a href="qd::free+fall">free fall</a></li>
+<li> <a href="qd::free+group">free group</a></li>
+<li> <a href="qd::freelance">freelance</a></li>
+<li> <a href="qd::freeloader">freeloader</a></li>
+<li> <a href="qd::free+lunch">free lunch</a></li>
 </ul>
-<ul><li> {{l|en|freely}}</li>
-<li> {{l|en|free market}}</li>
-<li> {{l|en|free marketeer}}</li>
-<li> {{l|en|Freemason}}</li>
-<li> {{l|en|free module}}</li>
-<li> {{l|en|free object}}</li>
-<li> {{l|en|free of charge}}</li>
-<li> {{l|en|free rein}}</li>
-<li> {{l|en|free ride}}</li>
-<li> {{l|en|free rider}}</li>
-<li> {{l|en|free semigroup}}</li>
+<ul><li> <a href="qd::freely">freely</a></li>
+<li> <a href="qd::free+market">free market</a></li>
+<li> <a href="qd::free+marketeer">free marketeer</a></li>
+<li> <a href="qd::Freemason">Freemason</a></li>
+<li> <a href="qd::free+module">free module</a></li>
+<li> <a href="qd::free+object">free object</a></li>
+<li> <a href="qd::free+of+charge">free of charge</a></li>
+<li> <a href="qd::free+rein">free rein</a></li>
+<li> <a href="qd::free+ride">free ride</a></li>
+<li> <a href="qd::free+rider">free rider</a></li>
+<li> <a href="qd::free+semigroup">free semigroup</a></li>
 </ul>
-<ul><li> {{l|en|free spirit}}</li>
-<li> {{l|en|free-thinker}}</li>
-<li> {{l|en|free time}}</li>
-<li> {{l|en|free variable}}</li>
-<li> {{l|en|free vote}}</li>
-<li> {{l|en|freeware}}</li>
-<li> {{l|en|freeway}}</li>
-<li> {{l|en|freewheel}}</li>
-<li> {{l|en|free will}}</li>
-<li> {{l|en|unfree}}</li>
+<ul><li> <a href="qd::free+spirit">free spirit</a></li>
+<li> <a href="qd::free-thinker">free-thinker</a></li>
+<li> <a href="qd::free+time">free time</a></li>
+<li> <a href="qd::free+variable">free variable</a></li>
+<li> <a href="qd::free+vote">free vote</a></li>
+<li> <a href="qd::freeware">freeware</a></li>
+<li> <a href="qd::freeway">freeway</a></li>
+<li> <a href="qd::freewheel">freewheel</a></li>
+<li> <a href="qd::free+will">free will</a></li>
+<li> <a href="qd::unfree">unfree</a></li>
 </ul>
 
 <h4>Related terms</h4>
-<ul><li> {{l|en|freedom}}</li>
-<li> {{l|en|friend}}</li>
+<ul><li> <a href="qd::freedom">freedom</a></li>
+<li> <a href="qd::friend">friend</a></li>
 </ul>
 
 <h3>Adverb</h3>
 {en-adv}
-<ol><li> Without needing to {{l|en|pay}}.</li>
+<ol><li> Without needing to <a href="qd::pay">pay</a>.</li>
 <ul><li> <em>I got this bike <b>free</b>.</em></li>
 </ul>
 </ol>
 
 <h4>Synonyms</h4>
-<ul><li> {{sense|informal, without needing to pay}} {{l|en|for free}}, {{l|en|for nothing}}</li>
+<ul><li> {{sense|informal, without needing to pay}} <a href="qd::for+free">for free</a>, <a href="qd::for+nothing">for nothing</a></li>
 </ul>
 
 <h3>Verb</h3>
 {{en-verb|free|d}}
-<ol><li> {transitive} To make free; set at {{l|en|liberty}}; {{l|en|release}}; rid of that which confines, limits, embarrasses, or oppresses.</li>
+<ol><li> {transitive} To make free; set at <a href="qd::liberty">liberty</a>; <a href="qd::release">release</a>; rid of that which confines, limits, embarrasses, or oppresses.</li>
 </ol>
 
 <h4>Hyponyms</h4>
-<ul><li> {{l|en|emancipate}}</li>
-<li> {{l|en|liberate}}</li>
-<li> {{l|en|manumit}}</li>
-<li> {{l|en|release}}</li>
-<li> {{l|en|unchain}}</li>
-<li> {{l|en|unfetter}}</li>
+<ul><li> <a href="qd::emancipate">emancipate</a></li>
+<li> <a href="qd::liberate">liberate</a></li>
+<li> <a href="qd::manumit">manumit</a></li>
+<li> <a href="qd::release">release</a></li>
+<li> <a href="qd::unchain">unchain</a></li>
+<li> <a href="qd::unfetter">unfetter</a></li>
 </ul>
 
 <h3>Noun</h3>
 {en-noun}
-<ol><li> {{Australian rules football|Gaelic football}} Abbreviation of {{l|en|free kick}}.</li>
+<ol><li> {{Australian rules football|Gaelic football}} Abbreviation of <a href="qd::free+kick">free kick</a>.</li>
 <ul><li> <b>2006</b>, [http://footballlegends.org/daryn_cresswell.htm]:</li>
 <ul><li> Whether deserved or not, the <b>free</b> gave Cresswell the chance to cover himself in glory with a shot on goal after the siren. </li>
 </ul>
 </ul>
-<li> {{l|en|free transfer}}</li>
+<li> <a href="qd::free+transfer">free transfer</a></li>
 <ul><li> {{quote-news|year=2011|date=September 21|author=Sam Lyon|title=Man City 2 - 0 Birmingham|work=BBC Sport|url=http://news.bbc.co.uk/sport2/hi/football/14910208.stm|page=|passage=Hargreaves, who left Manchester United on a <b>free</b> during the summer, drilled a 22-yard beauty to open the scoring.}}</li>
 </ul>
 <li> {hurling} The usual means of restarting play after a foul is committed, where the non-offending team restarts from where the foul was committed.</li>
@@ -2720,7 +2745,7 @@ HtmlEntry: freedom of speech <<<{{wikipedia|Freedom of speech}}{{wikinews|Catego
 </ul>
 
 <h3>Noun</h3>
-{{en-noun|-|sg=<a href="qd::freedom">freedom</a> <a href="qd::of">of</a> <a href="qd::speech">speech</a>}}
+{{en-noun|-|head=<a href="qd::freedom">freedom</a> <a href="qd::of">of</a> <a href="qd::speech">speech</a>}}
 <ol><li> The <a href="qd::right">right</a> of <a href="qd::citizen">citizen</a>s to <a href="qd::speak">speak</a>, or otherwise <a href="qd::communicate">communicate</a>, without fear of harm or <a href="qd::prosecution">prosecution</a>.</li>
 <ul><li> {{quote-book|year=1720|author={{w|John Trenchard (writer)|John Trenchard}} and {{w|Thomas Gordon (writer)|Thomas Gordon}}|title={{w|Cato's Letters}}|publisher=|url=|isbn=|page=Letter Number 15, <em>Of Freedom of Speech, That the Same is inseparable from Publick Liberty</em>|passage=All Ministers ... who were Oppressors, or intended to be Oppressors, have been loud in their Complaints against <b>Freedom of Speech</b>, and the License of the Press; and always restrained, or endeavored to restrain, both.}}</li>
 <li> {{quote-book|author={{w|Frank Murphy}}|title={{w|Thornhill v. Alabama}}|publisher={{w|Supreme Court of the United States}}|year=1940|passage=The <b>freedom of speech</b> and of the press, which are secured by the First Amendment against abridgment by the United States, are among the fundamental personal rights and liberties which are secured to all persons by the Fourteenth Amendment against abridgment by a state. The safeguarding of these rights to the ends that men may speak as they think on matters vital to them and that falsehoods may be exposed through the processes of education and discussion is essential to free government. Those who won our independence had confidence in the power of free and fearless reasoning and communication of ideas to discover and spread political and economic truth.|page={{w|Case citation|310 U.S. 88 }}}}</li>
@@ -2752,7 +2777,7 @@ HtmlEntry: freedom of speech <<<{{wikipedia|Freedom of speech}}{{wikinews|Catego
 ***Friday***
 HtmlEntry: Friday <<<
 <h3>Etymology</h3>
-lang:ang <a href="qd::fr%C4%AB%C4%A1ed%C3%A6%C4%A1">friged&aelig;g</a>&#x2e;&#x20;&#x43;&#x6f;&#x6d;&#x70;&#x6f;&#x75;&#x6e;&#x64;&#x20;&#x6f;&#x66;&#x20;&#x66;&#x72;&#x12b;&#x121;&#x65;&#x20;&#x61;&#x6e;&#x64;&#x20;&#x64;&#xe6;&#x121;&#x20;&#x22;&#x64;&#x61;&#x79;&#x22;&#x2e;&#x4f;&#x6c;&#x64;&#x20;&#x4e;&#x6f;&#x72;&#x73;&#x65;&#x20;&#x46;&#x72;&#x69;&#x67;&#x67;&#x20;&#x28;&#x67;&#x65;&#x6e;&#x69;&#x74;&#x69;&#x76;&#x65;&#x20;&#x46;&#x72;&#x69;&#x67;&#x67;&#x6a;&#x61;&#x72;&#x29;&#x2c;&#x20;&#x4f;&#x6c;&#x64;&#x20;&#x53;&#x61;&#x78;&#x6f;&#x6e;&#x20;&#x46;&#x72;&#x69;&#x2c;&#x20;&#x61;&#x6e;&#x64;&#x20;&#x4f;&#x6c;&#x64;&#x20;&#x45;&#x6e;&#x67;&#x6c;&#x69;&#x73;&#x68;&#x20;&#x46;&#x72;&#x69;&#x67;&#x20;&#x61;&#x72;&#x65;&#x20;&#x64;&#x65;&#x72;&#x69;&#x76;&#x65;&#x64;&#x20;&#x66;&#x72;&#x6f;&#x6d;&#x20;&#x43;&#x6f;&#x6d;&#x6d;&#x6f;&#x6e;&#x20;&#x47;&#x65;&#x72;&#x6d;&#x61;&#x6e;&#x69;&#x63;&#x20;&#x46;&#x72;&#x69;&#x6a;&#x6a;&#x14d;&#x2e;&#x5b;&#x35;&#x5d;&#x20;&#x46;&#x72;&#x69;&#x67;&#x67;&#x20;&#x69;&#x73;&#x20;&#x63;&#x6f;&#x67;&#x6e;&#x61;&#x74;&#x65;&#x20;&#x77;&#x69;&#x74;&#x68;&#x20;&#x53;&#x61;&#x6e;&#x73;&#x6b;&#x72;&#x69;&#x74;&#x20;&#x70;&#x72;&#x12b;&#x79;&#x101;&#x301;&#x20;&#x77;&#x68;&#x69;&#x63;&#x68;&#x20;&#x6d;&#x65;&#x61;&#x6e;&#x73;&#x20;&#x22;&#x77;&#x69;&#x66;&#x65;&#x2e;&#x22;&#x5b;&#x35;&#x5d;&#x20;&#x54;&#x68;&#x65;&#x20;&#x72;&#x6f;&#x6f;&#x74;&#x20;&#x61;&#x6c;&#x73;&#x6f;&#x20;&#x61;&#x70;&#x70;&#x65;&#x61;&#x72;&#x73;&#x20;&#x69;&#x6e;&#x20;&#x4f;&#x6c;&#x64;&#x20;&#x53;&#x61;&#x78;&#x6f;&#x6e;&#x20;&#x66;&#x72;&#x69;&#x20;&#x77;&#x68;&#x69;&#x63;&#x68;&#x20;&#x6d;&#x65;&#x61;&#x6e;&#x73;&#x20;&#x22;&#x62;&#x65;&#x6c;&#x6f;&#x76;&#x65;&#x64;&#x20;&#x6c;&#x61;&#x64;&#x79;&#x22;&#x2c;&#x20;&#x69;&#x6e;&#x20;&#x53;&#x77;&#x65;&#x64;&#x69;&#x73;&#x68;&#x20;&#x61;&#x73;&#x20;&#x66;&#x72;&#x69;&#x61;&#x20;&#x28;&#x22;&#x74;&#x6f;&#x20;&#x70;&#x72;&#x6f;&#x70;&#x6f;&#x73;&#x65;&#x20;&#x66;&#x6f;&#x72;&#x20;&#x6d;&#x61;&#x72;&#x72;&#x69;&#x61;&#x67;&#x65;&#x22;&#x29;&#x20;&#x61;&#x6e;&#x64;&#x20;&#x69;&#x6e;&#x20;&#x49;&#x63;&#x65;&#x6c;&#x61;&#x6e;&#x64;&#x69;&#x63;&#x20;&#x61;&#x73;&#x20;&#x66;&#x72;&#x6a;&#xe1;&#x20;&#x77;&#x68;&#x69;&#x63;&#x68;&#x20;&#x6d;&#x65;&#x61;&#x6e;&#x73;&#x20;&#x22;&#x74;&#x6f;&#x20;&#x6c;&#x6f;&#x76;&#x65;&#x2e;&#x22;A calque of Latin <em><a href="qd::dies+Veneris">dies Veneris</a></em>, via an association of the goddess <a href="qd::Frigg">Frigg</a> with the Roman goddess of love <a href="qd::Venus">Venus</a>.
+From lang:ang <a href="qd::fr%C4%AB%C4%A1ed%C3%A6%C4%A1">friged&aelig;g</a>&#x2e;&#x20;&#x43;&#x6f;&#x6d;&#x70;&#x6f;&#x75;&#x6e;&#x64;&#x20;&#x6f;&#x66;&#x20;&#x66;&#x72;&#x12b;&#x121;&#x65;&#x20;&#x61;&#x6e;&#x64;&#x20;&#x64;&#xe6;&#x121;&#x20;&#x22;&#x64;&#x61;&#x79;&#x22;&#x2c;&#x20;&#x63;&#x6f;&#x72;&#x72;&#x65;&#x73;&#x70;&#x6f;&#x6e;&#x64;&#x69;&#x6e;&#x67;&#x20;&#x74;&#x6f;&#x20;&#x6c;&#x61;&#x74;&#x65;&#x20;lang:gem-pro {{recons|&#x46;&#x72;&#x69;&#x6a;&#x6a;&#x14d;&#x7a;&#x20;&#x64;&#x61;&#x67;&#x61;&#x7a;|day of Frigg|lang=gem-pro}}. Compare West Frisian <a href="qd::freed">freed</a>, Dutch <a href="qd::vrijdag">vrijdag</a>, German <a href="qd::Freitag">Freitag</a>, Danish <a href="qd::fredag">fredag</a>.&#x4f;&#x6c;&#x64;&#x20;&#x4e;&#x6f;&#x72;&#x73;&#x65;&#x20;&#x46;&#x72;&#x69;&#x67;&#x67;&#x20;&#x28;&#x67;&#x65;&#x6e;&#x69;&#x74;&#x69;&#x76;&#x65;&#x20;&#x46;&#x72;&#x69;&#x67;&#x67;&#x6a;&#x61;&#x72;&#x29;&#x2c;&#x20;&#x4f;&#x6c;&#x64;&#x20;&#x53;&#x61;&#x78;&#x6f;&#x6e;&#x20;&#x46;&#x72;&#x69;&#x2c;&#x20;&#x61;&#x6e;&#x64;&#x20;&#x4f;&#x6c;&#x64;&#x20;&#x45;&#x6e;&#x67;&#x6c;&#x69;&#x73;&#x68;&#x20;&#x46;&#x72;&#x69;&#x67;&#x20;&#x61;&#x72;&#x65;&#x20;&#x64;&#x65;&#x72;&#x69;&#x76;&#x65;&#x64;&#x20;&#x66;&#x72;&#x6f;&#x6d;&#x20;&#x43;&#x6f;&#x6d;&#x6d;&#x6f;&#x6e;&#x20;&#x47;&#x65;&#x72;&#x6d;&#x61;&#x6e;&#x69;&#x63;&#x20;&#x46;&#x72;&#x69;&#x6a;&#x6a;&#x14d;&#x2e;&#x5b;&#x35;&#x5d;&#x20;&#x46;&#x72;&#x69;&#x67;&#x67;&#x20;&#x69;&#x73;&#x20;&#x63;&#x6f;&#x67;&#x6e;&#x61;&#x74;&#x65;&#x20;&#x77;&#x69;&#x74;&#x68;&#x20;&#x53;&#x61;&#x6e;&#x73;&#x6b;&#x72;&#x69;&#x74;&#x20;&#x70;&#x72;&#x12b;&#x79;&#x101;&#x301;&#x20;&#x77;&#x68;&#x69;&#x63;&#x68;&#x20;&#x6d;&#x65;&#x61;&#x6e;&#x73;&#x20;&#x22;&#x77;&#x69;&#x66;&#x65;&#x2e;&#x22;&#x5b;&#x35;&#x5d;&#x20;&#x54;&#x68;&#x65;&#x20;&#x72;&#x6f;&#x6f;&#x74;&#x20;&#x61;&#x6c;&#x73;&#x6f;&#x20;&#x61;&#x70;&#x70;&#x65;&#x61;&#x72;&#x73;&#x20;&#x69;&#x6e;&#x20;&#x4f;&#x6c;&#x64;&#x20;&#x53;&#x61;&#x78;&#x6f;&#x6e;&#x20;&#x66;&#x72;&#x69;&#x20;&#x77;&#x68;&#x69;&#x63;&#x68;&#x20;&#x6d;&#x65;&#x61;&#x6e;&#x73;&#x20;&#x22;&#x62;&#x65;&#x6c;&#x6f;&#x76;&#x65;&#x64;&#x20;&#x6c;&#x61;&#x64;&#x79;&#x22;&#x2c;&#x20;&#x69;&#x6e;&#x20;&#x53;&#x77;&#x65;&#x64;&#x69;&#x73;&#x68;&#x20;&#x61;&#x73;&#x20;&#x66;&#x72;&#x69;&#x61;&#x20;&#x28;&#x22;&#x74;&#x6f;&#x20;&#x70;&#x72;&#x6f;&#x70;&#x6f;&#x73;&#x65;&#x20;&#x66;&#x6f;&#x72;&#x20;&#x6d;&#x61;&#x72;&#x72;&#x69;&#x61;&#x67;&#x65;&#x22;&#x29;&#x20;&#x61;&#x6e;&#x64;&#x20;&#x69;&#x6e;&#x20;&#x49;&#x63;&#x65;&#x6c;&#x61;&#x6e;&#x64;&#x69;&#x63;&#x20;&#x61;&#x73;&#x20;&#x66;&#x72;&#x6a;&#xe1;&#x20;&#x77;&#x68;&#x69;&#x63;&#x68;&#x20;&#x6d;&#x65;&#x61;&#x6e;&#x73;&#x20;&#x22;&#x74;&#x6f;&#x20;&#x6c;&#x6f;&#x76;&#x65;&#x2e;&#x22;A calque of Latin <em><a href="qd::dies+Veneris">dies Veneris</a></em>, via an association of the goddess <a href="qd::Frigg">Frigg</a> with the Roman goddess of love <a href="qd::Venus">Venus</a>.
 <h3>Pronunciation</h3>
 <ul><li> {{enPR|&#x66;&#x72;&#x12b;&#x2b9;&#x64;&#x101;|&#x66;&#x72;&#x12b;&#x2b9;&#x64;&#x113;}}; IPA: &#x2f;&#x2c8;&#x66;&#x279;&#x61;&#x26a;&#x64;&#x65;&#x26a;&#x2f;, &#x2f;&#x2c8;&#x66;&#x72;&#x61;&#x26a;&#x64;&#x69;&#x2f;; {{X-SAMPA|/&quot;fraIdeI/|/&quot;fraIdi/}}</li>
 <li> {{audio|en-us-Friday.ogg|Audio (US)}}</li>
@@ -2825,6 +2850,8 @@ lang:ang <a href="qd::fr%C4%AB%C4%A1ed%C3%A6%C4%A1">friged&aelig;g</a>&#x2e;&#x2
 >>>
 ===frontier===
 See also HtmlEntry:march
+===GBP===
+See also HtmlEntry:pound
 ***GDP***
 HtmlEntry: GDP <<<{{wikipedia|GDP (disambiguation)}}
 <h3>{initialism}</h3>
@@ -2866,7 +2893,7 @@ HtmlEntry: grain of salt <<<
 <h3>Etymology</h3>
 From Latin <a href="qd::cum+grano+salis">cum grano salis</a>, literally <em>with a grain of salt</em>, figuratively <em>with a bit of common sense</em>.
 <h3>Noun</h3>
-{{en-noun|-|sg=<a href="qd::grain">grain</a> of <a href="qd::salt">salt</a>}}
+{{en-noun|-|head=<a href="qd::grain">grain</a> of <a href="qd::salt">salt</a>}}
 <ol><li> {idiomatic} A bit of <a href="qd::common+sense">common sense</a> and <a href="qd::skepticism">skepticism</a>.  Generally used in some form of <em>to take with a grain of salt.</em></li>
 <ul><li> <em>I'd take anything I read in that paper with a <b>grain of salt</b>.</em></li>
 </ul>
@@ -2911,6 +2938,7 @@ From Latin <a href="qd::gratis">gratis</a>.
 <ul><li> <a href="qd::libre">libre</a></li>
 </ul>
 ---->>>
+See also HtmlEntry:free
 ===great===
 See also HtmlEntry:deal
 ===grimalkin===
@@ -2928,11 +2956,11 @@ See also HtmlEntry:deal
 ***head***
 HtmlEntry: head <<<{{wikipedia|Head|dab=Head (disambiguation)}}{{rfc|still missing some basic dictionary definitions: see talk page}}
 <h3>Alternative forms</h3>
-<ul><li> {{l|en|heed}} (obsolete), {{l|en|hed}} (obsolete)</li>
+<ul><li> <a href="qd::heed">heed</a> (obsolete), <a href="qd::hed">hed</a> (obsolete)</li>
 </ul>
 
 <h3>Etymology</h3>
-From lang:enm <a href="qd::hed">hed</a>, <a href="qd::heed">heed</a>, <a href="qd::heved">heved</a>, <a href="qd::heaved">heaved</a>, from lang:ang <a href="qd::h%C4%93afod">heafod</a> (&quot;head; top; source, origin; chief, leader; capital&quot;), from {{proto|Germanic|haubudan|head}}, from {{proto|Indo-European|k&aacute;put|head}}, a variant of {{proto|Indo-European|&#x6b;&#x61;&#x70;&#x14d;&#x6c;&#x6f;|head, bowl|title=}}. Cognate with lang:sco <a href="qd::heid">heid</a>, <a href="qd::hede">hede</a>, <a href="qd::hevid">hevid</a>, <a href="qd::heved">heved</a> (&quot;head&quot;), lang:ang <a href="qd::hafola">hafola</a> (&quot;head&quot;), lang:frr <a href="qd::hood">hood</a> (&quot;head&quot;), Dutch <a href="qd::hoofd">hoofd</a> (&quot;head&quot;), German <a href="qd::Haupt">Haupt</a> (&quot;head&quot;), Swedish <a href="qd::huvud">huvud</a> (&quot;head&quot;), Icelandic <a href="qd::h%C3%B6fu%C3%B0">h&ouml;fu&eth;</a> (&quot;head&quot;), Latin <a href="qd::caput">caput</a> (&quot;head&quot;), Sanskrit <a href="qd::%E0%A4%95%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%83">&#x915;&#x92a;&#x93e;&#x932;</a> (&#x6b;&#x61;&#x70;&#x101;&#x6c;&#x61;, &quot;cup, bowl, skull&quot;), Hindi <a href="qd::%E0%A4%95%E0%A4%AA%E0%A4%BE%E0%A4%B2">&#x915;&#x92a;&#x93e;&#x932;</a> (&#x6b;&#x61;&#x70;&#x101;&#x6c;, &quot;skull&quot;), and (through borrowing from Sanskrit) Japanese <a href="qd::%E9%AA%A8">&#x9aa8;</a> (kawara, &quot;a covering bone: kneecap, skull&quot;), <a href="qd::%E7%93%A6">&#x74e6;</a> (kawara, &quot;a roof tile&quot;).
+From lang:enm <a href="qd::hed">hed</a>, <a href="qd::heed">heed</a>, <a href="qd::heved">heved</a>, <a href="qd::heaved">heaved</a>, from lang:ang <a href="qd::h%C4%93afod">heafod</a> (&quot;head; top; source, origin; chief, leader; capital&quot;), from lang:gem-pro {{recons|haubudan|head|lang=gem-pro}}, from lang:ine-pro {{recons|k&aacute;put|head|lang=ine-pro}}, a variant of {{recons|&#x6b;&#x61;&#x70;&#x14d;&#x6c;&#x6f;|head, bowl|lang=ine-pro}}. Cognate with lang:sco <a href="qd::heid">heid</a>, <a href="qd::hede">hede</a>, <a href="qd::hevid">hevid</a>, <a href="qd::heved">heved</a> (&quot;head&quot;), lang:ang <a href="qd::hafola">hafola</a> (&quot;head&quot;), lang:frr <a href="qd::hood">hood</a> (&quot;head&quot;), Dutch <a href="qd::hoofd">hoofd</a> (&quot;head&quot;), German <a href="qd::Haupt">Haupt</a> (&quot;head&quot;), Swedish <a href="qd::huvud">huvud</a> (&quot;head&quot;), Icelandic <a href="qd::h%C3%B6fu%C3%B0">h&ouml;fu&eth;</a> (&quot;head&quot;), Latin <a href="qd::caput">caput</a> (&quot;head&quot;), Sanskrit <a href="qd::%E0%A4%95%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%83">&#x915;&#x92a;&#x93e;&#x932;</a> (&#x6b;&#x61;&#x70;&#x101;&#x6c;&#x61;, &quot;cup, bowl, skull&quot;), Hindi <a href="qd::%E0%A4%95%E0%A4%AA%E0%A4%BE%E0%A4%B2">&#x915;&#x92a;&#x93e;&#x932;</a> (&#x6b;&#x61;&#x70;&#x101;&#x6c;, &quot;skull&quot;), and (through borrowing from Sanskrit) Japanese <a href="qd::%E9%AA%A8">&#x9aa8;</a> (kawara, &quot;a covering bone: kneecap, skull&quot;), <a href="qd::%E7%93%A6">&#x74e6;</a> (kawara, &quot;a roof tile&quot;).
 <h3>Pronunciation</h3>
 <ul><li> {{enPR|&#x68;&#x115;&#x64;}}, IPA: &#x2f;&#x68;&#x25b;&#x64;&#x2f;, {{X-SAMPA|/hEd/}}</li>
 <li> {{audio|en-us-head.ogg|Audio (US)}}</li>
@@ -3048,7 +3076,7 @@ From lang:enm <a href="qd::hed">hed</a>, <a href="qd::heed">heed</a>, <a href="q
 <ul><li> <b>1936</b>, Lee Duncan, <em>Over The Wall</em>, Dutton</li>
 <ul><li>&#x20;&#x54;&#x68;&#x65;&#x6e;&#x20;&#x49;&#x20;&#x73;&#x61;&#x77;&#x20;&#x74;&#x68;&#x65;&#x20;&#x6d;&#x6f;&#x72;&#x65;&#x20;&#x61;&#x64;&#x76;&#x61;&#x6e;&#x63;&#x65;&#x64;&#x20;&#x6e;&#x61;&#x72;&#x63;&#x6f;&#x74;&#x69;&#x63;&#x20;&#x61;&#x64;&#x64;&#x69;&#x63;&#x74;&#x73;&#x2c;&#x20;&#x77;&#x68;&#x6f;&#x20;&#x73;&#x68;&#x6f;&#x74;&#x20;&#x75;&#x6e;&#x62;&#x65;&#x6c;&#x69;&#x65;&#x76;&#x61;&#x62;&#x6c;&#x65;&#x20;&#x64;&#x6f;&#x73;&#x65;&#x73;&#x20;&#x6f;&#x66;&#x20;&#x70;&#x6f;&#x77;&#x65;&#x72;&#x66;&#x75;&#x6c;&#x20;&#x68;&#x65;&#x72;&#x6f;&#x69;&#x6e;&#x20;&#x69;&#x6e;&#x20;&#x74;&#x68;&#x65;&#x20;&#x6d;&#x61;&#x69;&#x6e;&#x20;&#x6c;&#x69;&#x6e;&#x65;&#x20;&#x2013;&#x20;&#x74;&#x68;&#x65;&#x20;&#x76;&#x65;&#x69;&#x6e;&#x20;&#x6f;&#x66;&#x20;&#x74;&#x68;&#x65;&#x69;&#x72;&#x20;&#x61;&#x72;&#x6d;&#x73;&#x3b;&#x20;&#x74;&#x68;&#x65;&#x20;&#x68;&#x79;&#x73;&#x69;&#x65;&#x6e;&#x20;&#x75;&#x73;&#x65;&#x72;&#x73;&#x3b;&#x20;&#x63;&#x68;&#x6c;&#x6f;&#x72;&#x6f;&#x66;&#x6f;&#x72;&#x6d;&#x20;&#x73;&#x6e;&#x69;&#x66;&#x66;&#x65;&#x72;&#x73;&#x2c;&#x20;&#x77;&#x68;&#x6f;&#x20;&#x62;&#x65;&#x6c;&#x6f;&#x6e;&#x67;&#x65;&#x64;&#x20;&#x74;&#x6f;&#x20;&#x74;&#x68;&#x65;&#x20;&#x72;&#x69;&#x66;&#x66;&#x2d;&#x72;&#x61;&#x66;&#x66;&#x20;&#x65;&#x6c;&#x65;&#x6d;&#x65;&#x6e;&#x74;&#x20;&#x6f;&#x66;&#x20;&#x74;&#x68;&#x65;&#x20;&#x64;&#x6f;&#x70;&#x65;&#x20;&#x63;&#x68;&#x69;&#x70;&#x70;&#x65;&#x79;&#x73;&#x2c;&#x20;&#x77;&#x68;&#x6f;&#x20;&#x6d;&#x69;&#x6e;&#x67;&#x6c;&#x65;&#x64;&#x20;&#x66;&#x72;&#x65;&#x65;&#x6c;&#x79;&#x20;&#x77;&#x69;&#x74;&#x68;&#x20;&#x6f;&#x74;&#x68;&#x65;&#x72;&#x73;&#x20;&#x6f;&#x66;&#x20;&#x74;&#x68;&#x65;&#x69;&#x72;&#x20;&#x6b;&#x69;&#x6e;&#x64;&#x3b;&#x20;&#x63;&#x61;&#x6e;&#x6e;&#x65;&#x64;&#x20;&#x68;&#x65;&#x61;&#x74;&#x20;&#x73;&#x74;&#x69;&#x66;&#x66;&#x73;&#x2c;&#x20;&#x70;&#x61;&#x72;&#x61;&#x67;&#x6f;&#x72;&#x69;&#x63;&#x20;&#x68;&#x6f;&#x75;&#x6e;&#x64;&#x73;&#x2c;&#x20;&#x6c;&#x61;&#x75;&#x64;&#x61;&#x6e;&#x75;&#x6d;&#x20;&#x66;&#x69;&#x65;&#x6e;&#x64;&#x73;&#x2c;&#x20;&#x61;&#x6e;&#x64;&#x20;&#x6c;&#x61;&#x73;&#x74;&#x20;&#x62;&#x75;&#x74;&#x20;&#x6e;&#x6f;&#x74;&#x20;&#x6c;&#x65;&#x61;&#x73;&#x74;&#x2c;&#x20;&#x74;&#x68;&#x65;&#x20;&#x76;&#x65;&#x72;&#x6f;&#x6e;&#x61;&#x6c;&#x20;<b>heads</b>.</li>
 </ul>
-<li> {{quote-journal| year = 1968     | first = Fred     | last = Davis     | coauthors = Laura Munoz     | title = Heads and freaks: patterns and meanings of drug use among hippies     | journal = Journal of Health and Social Behavior     | volume = 9     | issue = 2     | url =    | page = 156-64     | passage = The term, &quot;<b>head</b>&#x2c;&#x22;&#x20;&#x69;&#x73;&#x2c;&#x20;&#x6f;&#x66;&#x20;&#x63;&#x6f;&#x75;&#x72;&#x73;&#x65;&#x2c;&#x20;&#x6e;&#x6f;&#x74;&#x20;&#x6e;&#x65;&#x77;&#x20;&#x77;&#x69;&#x74;&#x68;&#x20;&#x68;&#x69;&#x70;&#x70;&#x69;&#x65;&#x73;&#x2e;&#x20;&#x49;&#x74;&#x20;&#x68;&#x61;&#x73;&#x20;&#x61;&#x20;&#x6c;&#x6f;&#x6e;&#x67;&#x20;&#x68;&#x69;&#x73;&#x74;&#x6f;&#x72;&#x79;&#x20;&#x61;&#x6d;&#x6f;&#x6e;&#x67;&#x20;&#x64;&#x72;&#x75;&#x67;&#x20;&#x75;&#x73;&#x65;&#x72;&#x73;&#x20;&#x67;&#x65;&#x6e;&#x65;&#x72;&#x61;&#x6c;&#x6c;&#x79;&#x2c;&#x20;&#x66;&#x6f;&#x72;&#x20;&#x77;&#x68;&#x6f;&#x6d;&#x20;&#x69;&#x74;&#x20;&#x73;&#x69;&#x67;&#x6e;&#x69;&#x66;&#x69;&#x65;&#x64;&#x20;&#x61;&#x20;&#x72;&#x65;&#x67;&#x75;&#x6c;&#x61;&#x72;&#x2c;&#x20;&#x65;&#x78;&#x70;&#x65;&#x72;&#x69;&#x65;&#x6e;&#x63;&#x65;&#x64;&#x20;&#x75;&#x73;&#x65;&#x72;&#x20;&#x6f;&#x66;&#x20;&#x61;&#x6e;&#x79;&#x20;&#x69;&#x6c;&#x6c;&#x65;&#x67;&#x61;&#x6c;&#x20;&#x64;&#x72;&#x75;&#x67;&#x2014;&#x65;&#x2e;&#x67;&#x2e;&#x2c;&#x20;&#x70;&#x6f;&#x74;&#x20;&#x22;&#x68;&#x65;&#x61;&#x64;&#x2c;&#x22;&#x20;&#x6d;&#x65;&#x74;&#x68;&#x20;&#x22;&#x68;&#x65;&#x61;&#x64;&#x2c;&#x22;&#x20;&#x73;&#x6d;&#x61;&#x63;&#x6b;&#x20;&#x28;&#x68;&#x65;&#x72;&#x6f;&#x69;&#x6e;&#x29;&#x20;&#x22;&#x68;&#x65;&#x61;&#x64;&#x2e;&#x22;}}</li>
+<li> {{quote-journal| year = 1968   | first = Fred   | last = Davis   | coauthors = Laura Munoz   | title = Heads and freaks: patterns and meanings of drug use among hippies   | journal = Journal of Health and Social Behavior   | volume = 9   | issue = 2   | url =  | page = 156-64   | passage = The term, &quot;<b>head</b>&#x2c;&#x22;&#x20;&#x69;&#x73;&#x2c;&#x20;&#x6f;&#x66;&#x20;&#x63;&#x6f;&#x75;&#x72;&#x73;&#x65;&#x2c;&#x20;&#x6e;&#x6f;&#x74;&#x20;&#x6e;&#x65;&#x77;&#x20;&#x77;&#x69;&#x74;&#x68;&#x20;&#x68;&#x69;&#x70;&#x70;&#x69;&#x65;&#x73;&#x2e;&#x20;&#x49;&#x74;&#x20;&#x68;&#x61;&#x73;&#x20;&#x61;&#x20;&#x6c;&#x6f;&#x6e;&#x67;&#x20;&#x68;&#x69;&#x73;&#x74;&#x6f;&#x72;&#x79;&#x20;&#x61;&#x6d;&#x6f;&#x6e;&#x67;&#x20;&#x64;&#x72;&#x75;&#x67;&#x20;&#x75;&#x73;&#x65;&#x72;&#x73;&#x20;&#x67;&#x65;&#x6e;&#x65;&#x72;&#x61;&#x6c;&#x6c;&#x79;&#x2c;&#x20;&#x66;&#x6f;&#x72;&#x20;&#x77;&#x68;&#x6f;&#x6d;&#x20;&#x69;&#x74;&#x20;&#x73;&#x69;&#x67;&#x6e;&#x69;&#x66;&#x69;&#x65;&#x64;&#x20;&#x61;&#x20;&#x72;&#x65;&#x67;&#x75;&#x6c;&#x61;&#x72;&#x2c;&#x20;&#x65;&#x78;&#x70;&#x65;&#x72;&#x69;&#x65;&#x6e;&#x63;&#x65;&#x64;&#x20;&#x75;&#x73;&#x65;&#x72;&#x20;&#x6f;&#x66;&#x20;&#x61;&#x6e;&#x79;&#x20;&#x69;&#x6c;&#x6c;&#x65;&#x67;&#x61;&#x6c;&#x20;&#x64;&#x72;&#x75;&#x67;&#x2014;&#x65;&#x2e;&#x67;&#x2e;&#x2c;&#x20;&#x70;&#x6f;&#x74;&#x20;&#x22;&#x68;&#x65;&#x61;&#x64;&#x2c;&#x22;&#x20;&#x6d;&#x65;&#x74;&#x68;&#x20;&#x22;&#x68;&#x65;&#x61;&#x64;&#x2c;&#x22;&#x20;&#x73;&#x6d;&#x61;&#x63;&#x6b;&#x20;&#x28;&#x68;&#x65;&#x72;&#x6f;&#x69;&#x6e;&#x29;&#x20;&#x22;&#x68;&#x65;&#x61;&#x64;&#x2e;&#x22;}}</li>
 <li> <b>2005</b>, Martin Torgoff, <em>Can't Find My Way Home</em>, Simon &amp; Schuster, page 177,</li>
 <ul><li>&#x20;&#x54;&#x68;&#x65;&#x20;&#x68;&#x75;&#x74;&#x63;&#x68;&#x20;&#x6e;&#x6f;&#x77;&#x20;&#x6c;&#x6f;&#x6f;&#x6b;&#x73;&#x20;&#x6c;&#x69;&#x6b;&#x65;&#x20;&#x61;&#x20;&#x201c;&#x54;&#x75;&#x72;&#x6b;&#x69;&#x73;&#x68;&#x20;&#x62;&#x61;&#x74;&#x68;&#x2c;&#x201d;&#x20;&#x61;&#x6e;&#x64;&#x20;&#x74;&#x68;&#x65;&#x20;<b>heads</b>&#x20;&#x68;&#x61;&#x76;&#x65;&#x20;&#x74;&#x68;&#x65;&#x69;&#x72;&#x20;&#x61;&#x72;&#x6d;&#x73;&#x20;&#x61;&#x72;&#x6f;&#x75;&#x6e;&#x64;&#x20;&#x6f;&#x6e;&#x65;&#x20;&#x61;&#x6e;&#x6f;&#x74;&#x68;&#x65;&#x72;&#x2c;&#x20;&#x70;&#x61;&#x73;&#x73;&#x69;&#x6e;&#x67;&#x20;&#x74;&#x68;&#x65;&#x20;&#x70;&#x69;&#x70;&#x65;&#x20;&#x61;&#x6e;&#x64;&#x20;&#x73;&#x6e;&#x61;&#x70;&#x70;&#x69;&#x6e;&#x67;&#x20;&#x74;&#x68;&#x65;&#x69;&#x72;&#x20;&#x66;&#x69;&#x6e;&#x67;&#x65;&#x72;&#x73;&#x20;&#x61;&#x73;&#x20;&#x74;&#x68;&#x65;&#x79;&#x20;&#x73;&#x69;&#x6e;&#x67;&#x20;&#x53;&#x6d;&#x6f;&#x6b;&#x65;&#x79;&#x20;&#x52;&#x6f;&#x62;&#x69;&#x6e;&#x73;&#x6f;&#x6e;&#x27;&#x73;&#x20;&#x201c;&#x54;&#x72;&#x61;&#x63;&#x6b;&#x73;&#x20;&#x6f;&#x66;&#x20;&#x4d;&#x79;&#x20;&#x54;&#x65;&#x61;&#x72;&#x73;&#x201d;&#x20;&#x69;&#x6e;&#x74;&#x6f;&#x20;&#x74;&#x68;&#x65;&#x20;&#x6e;&#x69;&#x67;&#x68;&#x74;&#x2e;</li>
 </ul>
@@ -3239,10 +3267,6 @@ See also HtmlEntry:deal
 See also HtmlEntry:nonsense
 ===hogwash===
 See also HtmlEntry:nonsense
-===Homotherini===
-See also HtmlEntry:cat
-===Homotherium===
-See also HtmlEntry:cat
 ===hooey===
 See also HtmlEntry:nonsense
 ===horse===
@@ -3256,7 +3280,7 @@ HtmlEntry: hour <<<
 </ul>
 
 <h3>Etymology</h3>
-lang:enm <a href="qd::houre%2C+oure">houre</a>, from lang:xno <a href="qd::houre">houre</a>, from lang:fro <a href="qd::houre%2C+%28h%29ore">houre</a>, from Latin <a href="qd::h%C5%8Dra">hora</a> (&quot;hour&quot;), from Ancient Greek <a href="qd::%E1%BD%A5%CF%81%CE%B1">&#x1f65;&#x3c1;&#x3b1;</a> (&#x68;&#x14d;&#x72;&#x101;, &quot;any time or period, whether of the year, month, or day&quot;), from {{proto|Indo-European|yer-|yor-|year, season}}. Akin to {ang} <a href="qd::%C4%A1%C4%93ar">gear</a> (&quot;year&quot;). Displaced native {enm} <a href="qd::stunde%2C+stound">stound</a> (&quot;hour, moment, stound&quot;) (from {ang} <a href="qd::stund">stund</a> (&quot;hour, time, moment&quot;)), {enm} <a href="qd::%C8%9Detid%2C+tid">itid</a> (&quot;hour, time&quot;) (from {ang} *<em>&#x121;&#x65;&#x74;&#x12b;&#x64;</em>, compare lang:osx <em><a href="qd::getid">&#x67;&#x65;&#x74;&#x12b;&#x64;</a></em> &quot;hour, time&quot;).
+lang:enm <a href="qd::houre%2C+oure">houre</a>, from lang:xno <a href="qd::houre">houre</a>, from lang:fro <a href="qd::houre%2C+%28h%29ore">houre</a>, from Latin <a href="qd::h%C5%8Dra">hora</a> (&quot;hour&quot;), from Ancient Greek <a href="qd::%E1%BD%A5%CF%81%CE%B1">&#x1f65;&#x3c1;&#x3b1;</a> (&#x68;&#x14d;&#x72;&#x101;, &quot;any time or period, whether of the year, month, or day&quot;), from lang:ine-pro {{recons|yer-|lang=ine-pro}}, {{recons|yor-|year, season|lang=ine-pro}}. Akin to {ang} <a href="qd::%C4%A1%C4%93ar">gear</a> (&quot;year&quot;). Displaced native {enm} <a href="qd::stunde%2C+stound">stound</a> (&quot;hour, moment, stound&quot;) (from {ang} <a href="qd::stund">stund</a> (&quot;hour, time, moment&quot;)), {enm} <a href="qd::%C8%9Detid%2C+tid">itid</a> (&quot;hour, time&quot;) (from {ang} *<em>&#x121;&#x65;&#x74;&#x12b;&#x64;</em>, compare lang:osx <a href="qd::get%C4%ABd">getid</a> (&quot;hour, time&quot;).
 <h3>Pronunciation</h3>
 <ul><li> {{a|RP|Australia}} {{enPR|&#x6f;&#x77;&#x2b9;&#x259;&#x72;}}, IPA: &#x2f;&#x2c8;&#x61;&#x28a;&#x259;&#x28;&#x279;&#x29;&#x2f;, {{X-SAMPA|/&quot;aU@(r)/}}</li>
 <li> {{a|US|Canada}} {{enPR|owr}}, IPA: &#x2f;&#x2c8;&#x61;&#x28a;&#x25a;&#x2f;, {{X-SAMPA|/&quot;aU@`/}}</li>
@@ -3282,7 +3306,7 @@ lang:enm <a href="qd::houre%2C+oure">houre</a>, from lang:xno <a href="qd::houre
 <li> {poetic} The <a href="qd::time">time</a>.</li>
 <ul><li> <em>The <b>hour</b> grows late and I must go home.</em></li>
 </ul>
-<li> {military} {in the plural} Used after a two-digit hour and a two-digit minute to indicate time.</li>
+<li> {{military|in the plural}} Used after a two-digit hour and a two-digit minute to indicate time.</li>
 <ul><li> T. C. G. James and Sebastian Cox, <em>The Battle of Britain</em>:</li>
 <ul><li> By 1300 <b>hours</b> the position was fairly clear.</li>
 </ul>
@@ -3376,6 +3400,8 @@ HtmlEntry: hyponym <<<
 <li> <a href="qd::troponym">troponym</a>, the corresponding idea, as applied to verbs.</li>
 </ul>
 ---->>>
+===imprisoned===
+See also HtmlEntry:free
 ===in===
 See also HtmlEntry:gratis
 See also HtmlEntry:substantive
@@ -3398,8 +3424,8 @@ HtmlEntry: January <<<
 <h3>Etymology</h3>
 Re-<a href="qd::Latinize">Latinize</a>d from lang:enm <a href="qd::Ieneuer">Ieneuer</a>, from lang:xno <a href="qd::genever">genever</a>, from Latin <a href="qd::i%C4%81nu%C4%81rius">ianuarius</a> (&quot;(month) of <a href="qd::Janus">Janus</a>&quot;), perhaps from <a href="qd::Proto-Indo-European">Proto-Indo-European</a> base *<em>ei-</em>, &quot;to go&quot;.
 <h3>Pronunciation</h3>
-<ul><li> {{a|UK}} IPA: &#x2f;&#x2c8;&#x64;&#x292;&#xe6;&#x6e;&#x6a;&#x28a;&#x259;&#x279;&#x69;&#x2f;, {{X-SAMPA|/&quot;dZ{nju@ri/}} <em>or as US</em></li>
-<li> {{a|US}} {{enPR|&#x6a;&#x103;&#x6e;&#x2b9;&#x79;&#x6f;&#x35e;&#x6f;&#x2d;&#x115;&#x72;&#x27;&#x113;}}, IPA: &#x2f;&#x2c8;&#x64;&#x292;&#xe6;&#x6e;&#x6a;&#x75;&#x2cc;&#x25b;&#x279;&#x69;&#x2f;, &#x2f;&#x2c8;&#x64;&#x292;&#xe6;&#x6e;&#x6a;&#x75;&#x2cc;&#xe6;&#x279;&#x69;&#x2f;, {{X-SAMPA|/&quot;dZ{nju%Eri/}}</li>
+<ul><li> {{a|UK}} IPA: &#x2f;&#x2c8;&#x64;&#x361;&#x292;&#xe6;&#x6e;&#x6a;&#x28a;&#x259;&#x279;&#x69;&#x2f;, {{X-SAMPA|/&quot;dZ{nju@ri/}} <em>or as US</em></li>
+<li> {{a|US}} {{enPR|&#x6a;&#x103;&#x6e;&#x2b9;&#x79;&#x6f;&#x35e;&#x6f;&#x2d;&#x115;&#x72;&#x27;&#x113;}}, IPA: &#x2f;&#x2c8;&#x64;&#x361;&#x292;&#xe6;&#x6e;&#x6a;&#x75;&#x2cc;&#x25b;&#x279;&#x69;&#x2f;, &#x2f;&#x2c8;&#x64;&#x361;&#x292;&#xe6;&#x6e;&#x6a;&#x75;&#x2cc;&#xe6;&#x279;&#x69;&#x2f;, {{X-SAMPA|/&quot;dZ{nju%Eri/}}</li>
 <li> {{audio|en-us-January.ogg|Audio (US)}}</li>
 </ul>
 
@@ -3444,7 +3470,7 @@ HtmlEntry: July <<<
 <h3>Etymology</h3>
 lang:enm <a href="qd::iulius">iulius</a>, from lang:xno <a href="qd::julie">julie</a>, from lang:fro <a href="qd::jule">jule</a>, from Latin <a href="qd::i%C5%ABlius">iulius</a> (<a href="qd::Gaius+Julius+Caesar">Gaius Julius Caesar</a>'s month), perhaps a contraction of *<em>Iovilios</em>, &quot;descended from <a href="qd::Jove">Jove</a>&quot;, from Latin <a href="qd::Iuppiter">Iuppiter</a>, from <a href="qd::Proto-Indo-European">Proto-Indo-European</a> *<em>&#x64;&#x79;&#x65;&#x75;&#x2d;&#x70;&#x259;&#x74;&#x65;&#x72;&#x2d;</em>, vocative case of <b><a href="qd::godfather">godfather</a></b>, from Proto-Indo-European *<em>deiw-os</em>, god, + *<em>&#x70;&#x259;&#x74;&#x65;&#x72;</em>, father
 <h3>Pronunciation</h3>
-<ul><li> {{enPR|&#x6a;&#x6f;&#x35d;&#x6f;&#x2d;&#x6c;&#x12b;&#x2b9;}}, IPA: &#x2f;&#x64;&#x292;&#x28a;&#x2c8;&#x6c;&#x61;&#x26a;&#x2f;, {{X-SAMPA|/dZU&quot;laI/}}</li>
+<ul><li> {{enPR|&#x6a;&#x6f;&#x35d;&#x6f;&#x2d;&#x6c;&#x12b;&#x2b9;}}, IPA: &#x2f;&#x64;&#x361;&#x292;&#x28a;&#x2c8;&#x6c;&#x61;&#x26a;&#x2f;, {{X-SAMPA|/dZU&quot;laI/}}</li>
 <li> {{audio|en-us-July.ogg|Audio (US)}}</li>
 <li> {{rhymes|&#x61;&#x26a;}}</li>
 </ul>
@@ -3455,7 +3481,6 @@ lang:enm <a href="qd::iulius">iulius</a>, from lang:xno <a href="qd::julie">juli
 </ol>
 
 <h4>Derived terms</h4>
-{der-top}
 <ul><li> <a href="qd::Black+July">Black July</a></li>
 <li> <a href="qd::Christmas+in+July">Christmas in July</a></li>
 <li> <a href="qd::Fourth+of+July">Fourth of July</a></li>
@@ -3466,7 +3491,6 @@ lang:enm <a href="qd::iulius">iulius</a>, from lang:xno <a href="qd::julie">juli
 <li> {{w|July Column}}</li>
 <li> <a href="qd::July+Cup">July Cup</a></li>
 </ul>
-{der-mid}
 <ul><li> <a href="qd::July+Days">July Days</a></li>
 <li> <a href="qd::July+Monarchy">July Monarchy</a></li>
 <li> <a href="qd::July+Morning">July Morning</a></li>
@@ -3476,7 +3500,7 @@ lang:enm <a href="qd::iulius">iulius</a>, from lang:xno <a href="qd::julie">juli
 <li> <a href="qd::July+Ultimatum">July Ultimatum</a></li>
 <li> <a href="qd::mid-July">mid-July</a></li>
 </ul>
-{der-bottom}
+
 <h4>Related terms</h4>
 <ul><li> {{l|en|Julius}}</li>
 </ul>
@@ -3490,9 +3514,9 @@ lang:enm <a href="qd::iulius">iulius</a>, from lang:xno <a href="qd::julie">juli
 ***June***
 HtmlEntry: June <<<
 <h3>Etymology</h3>
-From lang:enm <a href="qd::jun">jun</a>, <a href="qd::june">june</a>, re-<a href="qd::Latinize">Latinize</a>d from lang:enm <a href="qd::juyng">juyng</a>, from lang:fro <a href="qd::juing">juing</a>, from Latin <a href="qd::i%C5%ABnius">iunius</a>, the month of the goddess <a href="qd::Iuno">Iuno</a> (&quot;Juno&quot;), perhaps from {{proto|Indo-European|&#x79;&#x75;&#x77;&#x6e;&#x325;&#x6b;&#xf3;&#x73;}}, from {{proto|Indo-European|yew-|vital force, youthful vigor|title=}}.
+From lang:enm <a href="qd::jun">jun</a>, <a href="qd::june">june</a>, re-<a href="qd::Latinize">Latinize</a>d from lang:enm <a href="qd::juyng">juyng</a>, from lang:fro <a href="qd::juing">juing</a>, from Latin <a href="qd::i%C5%ABnius">iunius</a>, the month of the goddess <a href="qd::Iuno">Iuno</a> (&quot;Juno&quot;), perhaps from lang:ine-pro {{recons|&#x79;&#x75;&#x77;&#x6e;&#x325;&#x6b;&#xf3;&#x73;|lang=ine-pro}}, from {{recons|yew-|vital force, youthful vigor|lang=ine-pro}}.
 <h3>Pronunciation</h3>
-<ul><li> {{enPR|&#x6a;&#x6f;&#x35e;&#x6f;&#x6e;}}, IPA: &#x2f;&#x64;&#x292;&#x75;&#x2d0;&#x6e;&#x2f;, &#x2f;&#x64;&#x292;&#x6a;&#x75;&#x2d0;&#x6e;&#x2f;, {{X-SAMPA|/dZu:n/}}</li>
+<ul><li> {{enPR|&#x6a;&#x6f;&#x35e;&#x6f;&#x6e;}}, IPA: &#x2f;&#x64;&#x361;&#x292;&#x75;&#x2d0;&#x6e;&#x2f;, &#x2f;&#x64;&#x361;&#x292;&#x6a;&#x75;&#x2d0;&#x6e;&#x2f;, {{X-SAMPA|/dZu:n/}}</li>
 <li> {{audio|en-us-June.ogg|Audio (US)}}</li>
 <li> {{rhymes|&#x75;&#x2d0;&#x6e;}}</li>
 </ul>
@@ -3569,6 +3593,7 @@ HtmlEntry: lexicography <<<
 </ul>
 >>>
 ===libre===
+See also HtmlEntry:free
 See also HtmlEntry:gratis
 ===libretto===
 See also HtmlEntry:book
@@ -3610,10 +3635,6 @@ See also HtmlEntry:deal
 See also HtmlEntry:elephant
 ===Lynx===
 See also HtmlEntry:cat
-===Machairodontinae===
-See also HtmlEntry:cat
-===Machairodontini===
-See also HtmlEntry:cat
 ===make===
 See also HtmlEntry:trade
 ===malarkey===
@@ -3628,13 +3649,13 @@ See also HtmlEntry:nonsense
 HtmlEntry: march <<<
 <h3>Pronunciation</h3>
 <ul><li> {{a|UK}} IPA: &#x2f;&#x6d;&#x251;&#x2d0;&#x74;&#x283;&#x2f;, {{X-SAMPA|/mA:tS/}}</li>
-<li> {{a|US}} {{enPR|m&auml;rch}}, IPA: &#x2f;&#x6d;&#x251;&#x72;&#x74;&#x283;&#x2f;, {{X-SAMPA|/mArtS/}}</li>
+<li> {{a|US}} {{enPR|m&auml;rch}}, IPA: &#x2f;&#x6d;&#x251;&#x279;&#x74;&#x283;&#x2f;, {{X-SAMPA|/mAr\tS/}}</li>
 <li> {{audio|en-us-March.ogg|Audio (US)}}</li>
-<li> {{rhymes|&#x251;&#x2d0;&#x28;&#x72;&#x29;&#x74;&#x283;}}</li>
+<li> {{rhymes|&#x251;&#x2d0;&#x28;&#x279;&#x29;&#x74;&#x283;}}</li>
 </ul>
 
 <h3>Etymology 1</h3>
-lang:enm <em>marchen</em> from lang:frm <a href="qd::marcher">marcher</a> (&quot;to march, to walk&quot;), from lang:fro <a href="qd::marchier">marchier</a> (&quot;to stride, to march, to trample&quot;), of lang:gem origin, from lang:frk {{recons|&#x6d;&#x61;&#x72;&#x6b;&#x14d;&#x6e;|to mark, mark out, to press with the foot}}, from {{proto|Germanic|&#x6d;&#x61;&#x72;&#x6b;&#x14d;}}, from {{proto|Indo-European|mereg-|edge, boundary}}. Akin to lang:ang <em><a href="qd::mearc">mearc</a></em>, <em><a href="qd::gemearc">&#x121;&#x65;&#x6d;&#x65;&#x61;&#x72;&#x63;</a></em> &quot;mark, boundary&quot;
+lang:enm <em>marchen</em> from lang:frm <a href="qd::marcher">marcher</a> (&quot;to march, to walk&quot;), from lang:fro <a href="qd::marchier">marchier</a> (&quot;to stride, to march, to trample&quot;), from lang:frk {{recons|&#x6d;&#x61;&#x72;&#x6b;&#x14d;&#x6e;|to mark, mark out, to press with the foot}}, from lang:gem-pro {{recons|&#x6d;&#x61;&#x72;&#x6b;&#x14d;|lang=gem-pro}}, from lang:ine-pro {{recons|mereg-|edge, boundary|lang=ine-pro}}. Akin to lang:ang <em><a href="qd::mearc">mearc</a></em>, <em><a href="qd::gemearc">&#x121;&#x65;&#x6d;&#x65;&#x61;&#x72;&#x63;</a></em> &quot;mark, boundary&quot;.
 <h4>Noun</h4>
 {{en-noun|es}}
 <ol><li> A <a href="qd::formal">formal</a>, <a href="qd::rhythmic">rhythmic</a> way of <a href="qd::walk">walk</a>ing, used especially by <a href="qd::soldier">soldier</a>s, <a href="qd::band">band</a>s and in <a href="qd::ceremony">ceremonies</a>.</li>
@@ -3708,9 +3729,9 @@ lang:enm <em>marchen</em> from lang:frm <a href="qd::marcher">marcher</a> (&quot
 <li> March of Remembrance and Hope</li>
 <li> March of the Living</li>
 <li> March of the Soviet Tankmen</li>
-<li> The March of the Volunteers</li>
 </ul>
-<ul><li> <a href="qd::march-on">march-on</a></li>
+<ul><li> The March of the Volunteers</li>
+<li> <a href="qd::march-on">march-on</a></li>
 <li> March on Rome</li>
 <li> March on Washington for Jobs and Freedom</li>
 <li> <a href="qd::march-order">march-order</a></li>
@@ -3790,7 +3811,7 @@ lang:enm <em>marchen</em> from lang:frm <a href="qd::marcher">marcher</a> (&quot
 </ul>
 
 <h3>Etymology 2</h3>
-From lang:enm <a href="qd::marche">marche</a> (&quot;tract of land along a country's border&quot;), from lang:fro <a href="qd::marche">marche</a> (&quot;boundary, frontier&quot;), from lang:frk {{recons|marka}}, from {{proto|Germanic|&#x6d;&#x61;&#x72;&#x6b;&#x14d;}}, from {{proto|Indo-European|mereg-|edge, boundary}}.
+From lang:enm <a href="qd::marche">marche</a> (&quot;tract of land along a country's border&quot;), from lang:fro <a href="qd::marche">marche</a> (&quot;boundary, frontier&quot;), from lang:frk {{recons|marka}}, from lang:gem-pro {{recons|&#x6d;&#x61;&#x72;&#x6b;&#x14d;|lang=gem-pro}}, from lang:ine-pro {{recons|mereg-|edge, boundary|lang=ine-pro}}.
 <h4>Noun</h4>
 {{en-noun|es}}
 <ol><li> {{context|now|_|archaic|historical}} A border region, especially one originally set up to defend a <a href="qd::boundary">boundary</a>.</li>
@@ -3853,7 +3874,7 @@ HtmlEntry: may <<<{{slim-wikipedia|May (disambiguation)}}
 </ul>
 
 <h3>Etymology 1</h3>
-lang:ang <a href="qd::magan">magan</a>, from Germanic.  Cognate with Dutch <a href="qd::mogen">mogen</a>, Low German <a href="qd::m%C3%A6gen">m&aelig;gen</a>, German <a href="qd::m%C3%B6gen">m&ouml;gen</a>, Icelandic <a href="qd::megum">megum</a>.
+From lang:ang <a href="qd::magan">magan</a>, from lang:gem-pro {{recons|maganan|lang=gem-pro}}, from lang:ine-pro. Cognate with Dutch <a href="qd::mogen">mogen</a>, Low German <a href="qd::m%C3%A6gen">m&aelig;gen</a>, German <a href="qd::m%C3%B6gen">m&ouml;gen</a>, Icelandic <a href="qd::megum">megum</a>.
 <h4>Verb</h4>
 {{en-verb|may|-|might|-|head=-}}
 <ol><li> {{obsolete|intransitive}} To be <a href="qd::strong">strong</a>; to have power (over). {{defdate|8th-17th c.}}</li>
@@ -3973,7 +3994,8 @@ HtmlEntry: merchandise <<<
 <h3>Etymology</h3>
 From lang:xno <a href="qd::marchaundise">marchaundise</a>, from <a href="qd::marchaunt">marchaunt</a> (&quot;merchant&quot;)
 <h3>Pronunciation</h3>
-<ul><li> IPA: &#x2f;&#x2c8;&#x6d;&#x25d;&#x2a7;&#x259;&#x6e;&#x2cc;&#x64;&#x61;&#x26a;&#x7a;&#x2f;, {{X-SAMPA|/&quot;m3`tS@n%daIz/}}</li>
+<ul><li> (noun) IPA: &#x2f;&#x2c8;&#x6d;&#x25d;&#x74;&#x283;&#x259;&#x6e;&#x2cc;&#x64;&#x61;&#x26a;&#x73;&#x2f;, &#x2f;&#x2c8;&#x6d;&#x25d;&#x74;&#x283;&#x259;&#x6e;&#x2cc;&#x64;&#x61;&#x26a;&#x7a;&#x2f;, {{X-SAMPA|/&quot;m3`tS@n%daIs/|/&quot;m3`tS@n%daIz/}}</li>
+<li> (verb) IPA: &#x2f;&#x2c8;&#x6d;&#x25d;&#x74;&#x283;&#x259;&#x6e;&#x2cc;&#x64;&#x61;&#x26a;&#x7a;&#x2f;, {{X-SAMPA|/&quot;m3`tS@n%daIz/}}</li>
 <li> {{audio|en-us-merchandise.ogg|Audio (US)}}</li>
 </ul>
 
@@ -4018,8 +4040,6 @@ From lang:xno <a href="qd::marchaundise">marchaundise</a>, from <a href="qd::mar
 See also HtmlEntry:product
 ===mess===
 See also HtmlEntry:deal
-===Metailurini===
-See also HtmlEntry:cat
 ===mete===
 See also HtmlEntry:deal
 ===meticulous===
@@ -4103,7 +4123,7 @@ From Latin <a href="qd::min%C5%ABtus">minutus</a> (&quot;small&quot;, &quot;pett
 <ol><li> Very <a href="qd::small">small</a>.</li>
 <ul><li> <em>They found only <b>minute</b> quantities of chemical residue on his clothing.</em></li>
 </ul>
-<li> very <a href="qd::careful">careful</a> and <a href="qd::exact">exact</a>, giving small <a href="qd::detail">detail</a>s.</li>
+<li> Very <a href="qd::careful">careful</a> and <a href="qd::exact">exact</a>, giving small <a href="qd::detail">detail</a>s.</li>
 </ol>
 
 <h5>Synonyms</h5>
@@ -4119,8 +4139,6 @@ From Latin <a href="qd::min%C5%ABtus">minutus</a> (&quot;small&quot;, &quot;pett
 <ul><li> <a href="qd::big">big</a>, <a href="qd::enormous">enormous</a>, <a href="qd::colossal">colossal</a>, <a href="qd::huge">huge</a>, <a href="qd::significant">significant</a>, <a href="qd::tremendous">tremendous</a>, <a href="qd::vast">vast</a></li>
 </ul>
 >>>
-===Miomachairodus===
-See also HtmlEntry:cat
 ===mo===
 See also HtmlEntry:minute
 ===moment===
@@ -4128,9 +4146,7 @@ See also HtmlEntry:minute
 ***Monday***
 HtmlEntry: Monday <<<
 <h3>Etymology</h3>
-<ul><li> lang:ang <a href="qd::m%C5%8Dnand%C3%A6%C4%A1">monand&aelig;g</a> (&quot;day of the moon&quot;), from <a href="qd::m%C5%8Dna">mona</a> (&quot;moon&quot;) + <a href="qd::d%C3%A6g">d&aelig;g</a> (&quot;day&quot;), a translation of Latin <a href="qd::dies+lunae">dies lunae</a></li>
-</ul>
-
+From lang:ang <a href="qd::m%C5%8Dnand%C3%A6%C4%A1">monand&aelig;g</a> (&quot;day of the moon&quot;), from <a href="qd::m%C5%8Dna">mona</a> (&quot;moon&quot;) + <a href="qd::d%C3%A6g">d&aelig;g</a> (&quot;day&quot;), late lang:gem-pro {{recons|&#x6d;&#x113;&#x6e;&#x69;&#x6e;&#x69;&#x7a;&#x20;&#x64;&#x61;&#x67;&#x61;&#x7a;|lang=gem-pro}}, a translation of Latin <a href="qd::dies+lunae">dies lunae</a>. Compare West Frisian <a href="qd::moandei">moandei</a>, Dutch <a href="qd::maandag">maandag</a>, German <a href="qd::Montag">Montag</a>, Danish <a href="qd::mandag">mandag</a>.
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x2c8;&#x6d;&#x28c;&#x6e;&#x2e;&#x64;&#x65;&#x26a;&#x2f;, &#x2f;&#x2c8;&#x6d;&#x28c;&#x6e;&#x2e;&#x64;&#x69;&#x2f;, {{X-SAMPA|/&quot;mVn.deI/|/&quot;mVn.di/}}</li>
 <li> {{audio|en-us-Monday.ogg|Audio (US)}}</li>
@@ -4146,7 +4162,6 @@ HtmlEntry: Monday <<<
 </ul>
 <li> <em>Solomon Grundy,&lt;br&gt;Born on a <b>Monday</b>,&lt;br&gt;Christened on Tuesday,&lt;br&gt;Married on Wednesday&lt;br&gt;ill on Thursday,&lt;br&gt;worse on Friday,&lt;br&gt;Died on Saturday,&lt;br&gt;Buried on Sunday.&lt;br&gt;Such was the life&lt;br&gt;Of Solomon Grundy.</em></li>
 </ul>
-<li> {rfv-sense} {{context|Boston|offensive|ethnic slur}} A dark-skinned person.</li>
 </ol>
 
 <h4>Derived terms</h4>
@@ -4212,15 +4227,16 @@ See also HtmlEntry:polysemic
 ***month***
 HtmlEntry: month <<<
 <h3>Alternative forms</h3>
-<ul><li> {{l|en|moneth}} (dialectal)</li>
+<ul><li> <a href="qd::moneth">moneth</a> (dialectal)</li>
 </ul>
 
 <h3>Etymology</h3>
-From lang:enm <a href="qd::month">month</a>, <a href="qd::moneth">moneth</a>, from lang:ang <a href="qd::m%C5%8Dna%C3%B0">mona&thorn;</a> (&quot;month&quot;), from {{proto|Germanic|&#x6d;&#x113;&#x6e;&#x14d;&#xfe;&#x73;|month}}, from {{proto|Indo-European|&#x6d;&#x1e17;&#x68;&#x2081;&#x6e;&#x325;&#x73;|moon, month}}, probably from {{proto|Indo-European|m&ecirc;-|to measure}}, referring to the moon's phases as the measure of time, equivalent to {{suffix|moon|th}}. Cognate with lang:sco <a href="qd::moneth">moneth</a> (&quot;month&quot;), lang:frr <a href="qd::muunt">muunt</a> (&quot;month&quot;), Dutch <a href="qd::maand">maand</a> (&quot;month&quot;), lang:nds <a href="qd::maand">maand</a> (&quot;month&quot;), German <a href="qd::Monat">Monat</a> (&quot;month&quot;), Danish <a href="qd::m%C3%A5ned">m&aring;ned</a> (&quot;month&quot;), Swedish <a href="qd::m%C3%A5nad">m&aring;nad</a> (&quot;month&quot;), Icelandic <a href="qd::m%C3%A1nu%C3%B0i">m&aacute;nu&eth;i</a> (&quot;month&quot;), Ancient Greek <a href="qd::%CE%BC%CE%AE%CE%BD">&#x3bc;&#x3ae;&#x3bd;</a> (&#x6d;&#x1e17;&#x6e;), Armenian <a href="qd::%D5%A1%D5%B4%D5%AB%D5%BD">&#x561;&#x574;&#x56b;&#x57d;</a> (amis), Old Irish <a href="qd::m%C3%AD">m&iacute;</a>, <a href="qd::Old+Church+Slavonic">Old Church Slavonic</a> <a href="qd::%D0%BC%D1%A3%D1%81%D1%A7%D1%86%D1%8C">&#x43c;&#x463;&#x441;&#x467;&#x446;&#x44c;</a> (&#x6d;&#x11b;&#x73;&#x119;&#x63;&#x12d;). See also {{l|en|moon}}.
+From lang:enm <a href="qd::month">month</a>, <a href="qd::moneth">moneth</a>, from lang:ang <a href="qd::m%C5%8Dna%C3%B0">mona&thorn;</a> (&quot;month&quot;), from lang:gem-pro {{recons|&#x6d;&#x113;&#x6e;&#x14d;&#xfe;&#x73;|month|lang=gem-pro}}, from lang:ine-pro {{recons|&#x6d;&#x1e17;&#x68;&#x2081;&#x6e;&#x325;&#x73;|moon, month|lang=ine-pro}}, probably from lang:ine-pro {{recons|m&ecirc;-|to measure|lang=ine-pro}}, referring to the moon's phases as the measure of time, equivalent to {{suffix|moon|th}}. Cognate with lang:sco <a href="qd::moneth">moneth</a> (&quot;month&quot;); lang:frr <a href="qd::muunt">muunt</a> (&quot;month&quot;); Dutch <a href="qd::maand">maand</a> (&quot;month&quot;); lang:nds <a href="qd::Maand">Maand</a>, <a href="qd::Monat">Monat</a> (&quot;month&quot;); German <a href="qd::Monat">Monat</a> (&quot;month&quot;); Danish <a href="qd::m%C3%A5ned">m&aring;ned</a> (&quot;month&quot;); Swedish <a href="qd::m%C3%A5nad">m&aring;nad</a> (&quot;month&quot;); Icelandic <a href="qd::m%C3%A1nu%C3%B0i">m&aacute;nu&eth;i</a> (&quot;month&quot;); Ancient Greek <a href="qd::%CE%BC%CE%AE%CE%BD">&#x3bc;&#x3ae;&#x3bd;</a> (&#x6d;&#x1e17;&#x6e;); Armenian <a href="qd::%D5%A1%D5%B4%D5%AB%D5%BD">&#x561;&#x574;&#x56b;&#x57d;</a> (amis); Old Irish <a href="qd::m%C3%AD">m&iacute;</a>; lang:cu <a href="qd::%D0%BC%D1%A3%D1%81%D1%A7%D1%86%D1%8C">&#x43c;&#x463;&#x441;&#x467;&#x446;&#x44c;</a> (&#x6d;&#x11b;&#x73;&#x119;&#x63;&#x12d;). See also <a href="qd::moon">moon</a>.
 <h3>Pronunciation</h3>
-<ul><li> {{enPR|&#x6d;&#x16d;&#x6e;&#x74;&#x68;}}, IPA: &#x2f;&#x6d;&#x28c;&#x6e;&#x3b8;&#x2f;, {{X-SAMPA|/mVnT/}}</li>
-<li> {{audio|en-us-month.ogg|Audio (US)}}</li>
+<ul><li> {{a|UK}} IPA: &#x2f;&#x6d;&#x28c;&#x6e;&#x3b8;&#x2f;, &#x5b;&#x6d;&#x250;&#x6e;&#x32a;&#x3b8;&#x5d;, {{enPR|&#x6d;&#x16d;&#x6e;&#x74;&#x68;}}, {{X-SAMPA|/mVnT/|[m6n_dT]}}</li>
 <li> {{audio|En-uk-a month.ogg|Audio (UK)}}</li>
+<li> IPA: &#x2f;&#x6d;&#x28c;&#x6e;&#x3b8;&#x2f;, &#x5b;&#x6d;&#x28c;&#x6e;&#x32a;&#x3b8;&#x5d;, {{enPR|&#x6d;&#x16d;&#x6e;&#x74;&#x68;}}, {{X-SAMPA|/mVnT/|[mVn_dT]}}</li>
+<li> {{audio|en-us-month.ogg|Audio (US)}}</li>
 <li> {{rhymes|&#x28c;&#x6e;&#x3b8;}}</li>
 </ul>
 
@@ -4297,7 +4313,7 @@ From {{suffix|multicultural|ism}}.
 ***name***
 HtmlEntry: name <<<{{was wotd|2006|May|6}}{{wikipedia|name|dab=name (disambiguation)}}
 <h3>Etymology</h3>
-From lang:ang <a href="qd::nama">nama</a>, from {{proto|Germanic|nam&ocirc;}}, from {{proto|Indo-European|&#x68;&#x2081;&#x6e;&#x1e17;&#x68;&#x2083;&#x6d;&#x6e;&#x325;|name}}.
+From lang:ang <a href="qd::nama">nama</a>, from lang:gem-pro {{recons|nam&ocirc;|lang=gem-pro}}, from lang:ine-pro {{recons|&#x68;&#x2081;&#x6e;&#x1e17;&#x68;&#x2083;&#x6d;&#x6e;&#x325;|name|lang=ine-pro}}.
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x6e;&#x65;&#x26a;&#x6d;&#x2f;, {{X-SAMPA|/neIm/}}</li>
 <li> {{audio|en-us-name.ogg|Audio (US)}}</li>
@@ -4431,6 +4447,8 @@ See also HtmlEntry:noun
 See also HtmlEntry:noun
 ===Neofelis===
 See also HtmlEntry:cat
+===nicker===
+See also HtmlEntry:pound
 ===noggin===
 See also HtmlEntry:head
 ***nonsense***
@@ -4512,6 +4530,8 @@ HtmlEntry: nonsense <<<
 See also HtmlEntry:head
 ===note===
 See also HtmlEntry:book
+===nothing===
+See also HtmlEntry:free
 ***noun***
 HtmlEntry: noun <<<
 <h3>Etymology</h3>
@@ -4588,7 +4608,7 @@ HtmlEntry: November <<<
 </ul>
 
 <h3>Etymology</h3>
-lang:enm, from lang:fro <a href="qd::novembre">novembre</a>, from Latin <a href="qd::november">november</a> (&quot;ninth month&quot;), from Latin <a href="qd::novem">novem</a>, from {{proto|Indo-European|&#x68;&#x2081;&#x6e;&#xe9;&#x77;&#x6e;&#x325;|nine}}; + Latin <a href="qd::-ber">-ber</a>, from adjectival suffix <a href="qd::-bris">-bris</a>; November was the ninth month in the Roman calendar
+lang:enm, from lang:fro <a href="qd::novembre">novembre</a>, from Latin <a href="qd::november">november</a> (&quot;ninth month&quot;), from Latin <a href="qd::novem">novem</a>, from lang:ine-pro {{recons|&#x68;&#x2081;&#x6e;&#xe9;&#x77;&#x6e;&#x325;|nine|lang=ine-pro}}; + Latin <a href="qd::-ber">-ber</a>, from adjectival suffix <a href="qd::-bris">-bris</a>; November was the ninth month in the Roman calendar
 <h3>Pronunciation</h3>
 <ul><li> {{a|UK}} IPA: &#x2f;&#x6e;&#x259;&#x28a;&#x2c8;&#x76;&#x25b;&#x6d;&#x62;&#x259;&#x2f;, {{X-SAMPA|/n@U&quot;vEmb@/}}</li>
 <li> {{a|US}} {{enPR|&#x6e;&#x14d;&#x2d;&#x76;&#x115;&#x6d;&#x2b9;&#x62;&#x259;&#x72;}}, IPA: &#x2f;&#x6e;&#x6f;&#x28a;&#x2c8;&#x76;&#x25b;&#x6d;&#x62;&#x259;&#x279;&#x2f;, {{X-SAMPA|/noU&quot;vEmb@r/}}</li>
@@ -4604,7 +4624,6 @@ lang:enm, from lang:fro <a href="qd::novembre">novembre</a>, from Latin <a href=
 </ol>
 
 <h4>Derived terms</h4>
-{{der-top|Derived terms}}
 <ul><li> Communist Party of Albania 8 November</li>
 <li> <a href="qd::mid-November">mid-November</a></li>
 <li> November 17</li>
@@ -4614,7 +4633,6 @@ lang:enm, from lang:fro <a href="qd::novembre">novembre</a>, from Latin <a href=
 <li> <a href="qd::November+Eve">November Eve</a></li>
 <li> November Group</li>
 </ul>
-{der-mid}
 <ul><li> <a href="qd::Novemberish">Novemberish</a></li>
 <li> <a href="qd::November+moth">November moth</a></li>
 <li> <a href="qd::November+Revolution">November Revolution</a></li>
@@ -4623,13 +4641,15 @@ lang:enm, from lang:fro <a href="qd::novembre">novembre</a>, from Latin <a href=
 <li> Revolutionary Organization 17 November</li>
 <li> <a href="qd::Witch+of+November">Witch of November</a></li>
 </ul>
-{der-bottom}
+
 <h3>See also</h3>
 <ul><li> {{list|en|Gregorian calendar months}}</li>
 </ul>
 ---->>>
 ===nut===
 See also HtmlEntry:head
+===obstructed===
+See also HtmlEntry:free
 ***October***
 HtmlEntry: October <<<
 <h3>Alternative forms</h3>
@@ -4637,7 +4657,7 @@ HtmlEntry: October <<<
 </ul>
 
 <h3>Etymology</h3>
-From lang:enm, from lang:ang, from Latin <a href="qd::oct%C5%8Dber">october</a> (&quot;eighth month&quot;), from Latin <a href="qd::oct%C5%8D">octo</a> (&quot;eight&quot;), from {{proto|Indo-European|&#x6f;&#x1e31;&#x74;&#x1e53;&#x77;|twice four}}. October was the eighth month in the Roman calendar.
+From lang:enm, from lang:ang, from Latin <a href="qd::oct%C5%8Dber">october</a> (&quot;eighth month&quot;), from Latin <a href="qd::oct%C5%8D">octo</a> (&quot;eight&quot;), from lang:ine-pro {{recons|&#x6f;&#x1e31;&#x74;&#x1e53;&#x77;|twice four|lang=ine-pro}}. October was the eighth month in the Roman calendar.
 <h3>Pronunciation</h3>
 <ul><li> {{a|UK}} IPA: &#x2f;&#x252;&#x6b;&#x2c8;&#x74;&#x259;&#x28a;&#x62;&#x259;&#x2f;, {{X-SAMPA|/Qk&quot;t@Ub@/}}</li>
 <li> {{a|US}} {{enPR|&#xe4;&#x6b;&#x2d;&#x74;&#x14d;&#x2b9;&#x62;&#x259;&#x72;}}, IPA: &#x2f;&#x251;&#x6b;&#x2c8;&#x74;&#x6f;&#x28a;&#x62;&#x259;&#x279;&#x2f;, {{X-SAMPA|/Ak&quot;toUb@r/}}</li>
@@ -4673,6 +4693,7 @@ From lang:enm, from lang:ang, from Latin <a href="qd::oct%C5%8Dber">october</a> 
 </ul>
 ---->>>
 ===of===
+See also HtmlEntry:free
 See also HtmlEntry:word
 See also HtmlEntry:grain of salt
 See also HtmlEntry:minute
@@ -4797,25 +4818,25 @@ From lang:enm, unknown origin.
 <ul><li> <a href="qd::apple+pie">apple pie</a></li>
 <li> <a href="qd::chicken+pie">chicken pie</a></li>
 <li> <a href="qd::cottage+pie">cottage pie</a></li>
-<li> <a href="qd::cutie+pie">cutie pie</a></li>
 <li> <a href="qd::cream+pie">cream pie</a></li>
+<li> <a href="qd::cutie+pie">cutie pie</a></li>
 <li> <a href="qd::easy+as+pie">easy as pie</a></li>
 <li> <a href="qd::have+one%27s+fingers+in+many+pies">have one's fingers in many pies</a></li>
 <li> <a href="qd::humble+pie">humble pie</a></li>
 <li> <a href="qd::meat+pie">meat pie</a></li>
-<li> <a href="qd::mince+pie">mince pie</a></li>
 </ul>
-<ul><li> <a href="qd::mud+pie">mud pie</a></li>
+<ul><li> <a href="qd::mince+pie">mince pie</a></li>
+<li> <a href="qd::mud+pie">mud pie</a></li>
+<li> <a href="qd::party+pie">party pie</a></li>
 <li> <a href="qd::pie+chart">pie chart</a></li>
+<li> <a href="qd::pie+floater">pie floater</a></li>
+<li> <a href="qd::pie+in+the+sky">pie in the sky</a></li>
 <li> <a href="qd::pie-eater">pie-eater</a></li>
 <li> <a href="qd::pie-eyed">pie-eyed</a></li>
 <li> <a href="qd::pie-faced">pie-faced</a></li>
-<li> <a href="qd::pie+floater">pie floater</a></li>
-<li> <a href="qd::piehole">piehole</a></li>
-<li> <a href="qd::pie+in+the+sky">pie in the sky</a></li>
 </ul>
-<ul><li> <a href="qd::pieing">pieing</a></li>
-<li> <a href="qd::party+pie">party pie</a></li>
+<ul><li> <a href="qd::piehole">piehole</a></li>
+<li> <a href="qd::pieing">pieing</a></li>
 <li> <a href="qd::piemaker">piemaker</a></li>
 <li> <a href="qd::piet">piet</a></li>
 <li> <a href="qd::pork+pie">pork pie</a></li>
@@ -4978,7 +4999,8 @@ HtmlEntry: polysemic <<<
 </ul>
 
 <h4>Related terms</h4>
-<ul><li> <a href="qd::polyseme">polyseme</a></li>
+<ul><li> <a href="qd::oligosemic">oligosemic</a></li>
+<li> <a href="qd::polyseme">polyseme</a></li>
 <li> <a href="qd::polysemy">polysemy</a></li>
 </ul>
 >>>
@@ -5004,17 +5026,12 @@ A pond{en-noun}
 </ul>
 </ol>
 
-<h4>Synonyms</h4>
-<ul><li> {{l|en|polynya}}</li>
-<li> {{l|en|tarn}}</li>
-</ul>
-
 <h4>Derived terms</h4>
-<ul><li> {{l|en|across the pond}}</li>
-<li> {{l|en|ducks on the pond}}</li>
-<li> {{l|en|Leftpondia}}</li>
-<li> {{l|en|pondian}}</li>
-<li> {{l|en|Rightpondia}}</li>
+<ul><li> <a href="qd::across+the+pond">across the pond</a></li>
+<li> <a href="qd::ducks+on+the+pond">ducks on the pond</a></li>
+<li> <a href="qd::Leftpondia">Leftpondia</a></li>
+<li> <a href="qd::pondian">pondian</a></li>
+<li> <a href="qd::Rightpondia">Rightpondia</a></li>
 </ul>
 
 <h3>Verb</h3>
@@ -5063,7 +5080,7 @@ HtmlEntry: portmanteau <<<{{was wotd|2007|March|8}}
 
 <h3>Pronunciation</h3>
 <ul><li> {{a|RP}} IPA: &#x2f;&#x70;&#x254;&#x2d0;&#x74;&#x2c8;&#x6d;&#xe6;&#x6e;&#x2e;&#x74;&#x259;&#x28a;&#x2f;, {{X-SAMPA|/pO:t&quot;m{nt@U/}}</li>
-<li> {{a|US}} {{enPR|&#x70;&#xf4;&#x72;&#x74;&#x27;&#x6d;&#x103;&#x6e;&#x74;&#x14d;}}, IPA: &#x2f;&#x70;&#x254;&#x2d0;&#x72;&#x74;&#x2c8;&#x6d;&#xe6;&#x6e;&#x74;&#x6f;&#x28a;&#x2f;, {{X-SAMPA|/pO:rt&quot;m{ntou/}}</li>
+<li> {{a|US}} {{enPR|&#x70;&#xf4;&#x72;&#x74;&#x6d;&#x103;&#x27;&#x6e;&#x74;&#x14d;}}, IPA: &#x2f;&#x70;&#x254;&#x72;&#x74;&#x2c8;&#x6d;&#xe6;&#x6e;&#x74;&#x6f;&#x28a;&#x2f;, {{X-SAMPA|/pOrt&quot;m{ntou/}}; {{enPR|&#x70;&#xf4;&#x27;&#x72;&#x74;&#x6d;&#x103;&#x6e;&#x74;&#x14d;&#x2b9;}}, IPA: &#x2f;&#x2cc;&#x70;&#x254;&#x72;&#x74;&#x6d;&#xe6;&#x6e;&#x2c8;&#x74;&#x6f;&#x28a;&#x2f;, {{X-SAMPA|/%pOrtm{n&quot;tou/}}</li>
 <li> {{audio|en-us-portmanteau-1.ogg|Audio 1 (US)}}</li>
 <li> {{audio|en-us-portmanteau-2.ogg|Audio 2 (US)}}</li>
 </ul>
@@ -5097,7 +5114,7 @@ Coined by Lewis Carroll in <a href="qd::s%3AThrough+The+Looking+Glass+%28And+Wha
 
 <h4>Adjective</h4>
 {{en-adj|-}}
-<ol><li> {{context|used only before a noun|of a word, story, etc.}} Made by combining two words, stories, etc., in the manner of a linguistic portmanteau.</li>
+<ol><li> {{context|used only before a noun|of a word, story, etc.}} Made by combining two (or more) words, stories, etc., in the manner of a linguistic portmanteau.</li>
 <ul><li> <b>2002</b>, Nicholas Lezard, <em>Spooky tales by the master and friends</em> in <em>The Guardian</em> (London) (December 14, 2002) page 30:</li>
 <ul><li> The overall narrator of this <b>portmanteau</b> story - for Dickens co-wrote it with five collaborators on his weekly periodical, <em>All the Year Round</em> - expresses deep, rational scepticism about the whole business of haunting.</li>
 </ul>
@@ -5126,7 +5143,7 @@ Coined by Lewis Carroll in 1872, based on the concept of two words packed togeth
 </ul>
 <em><a href="qd::s%3AThrough+The+Looking+Glass+%28And+What+Alice+Found+There%29">Through The Looking Glass</a></em> (<a href="qd::s%3AThrough+the+Looking+Glass+%28And+What+Alice+Found+There%29%2FChapter+VI">Chapter VI. Humpty Dumpty</a>)
 <h3>Noun</h3>
-{{en-noun|sg=<a href="qd::portmanteau">portmanteau</a> <a href="qd::word">word</a>}}
+{{en-noun|head=<a href="qd::portmanteau">portmanteau</a> <a href="qd::word">word</a>}}
 <ol><li> {linguistics} A word which combines the meaning of two words (or, rarely, more than two words), formed by combining the words, usually, but not always, by adjoining the first part of one word and the last part of the other, the adjoining parts often having a common vowel; for example, <em><a href="qd::smog">smog</a></em>, formed from <em><a href="qd::smoke">smoke</a></em> and <em><a href="qd::fog">fog</a></em>.</li>
 </ol>
 
@@ -5154,39 +5171,78 @@ HtmlEntry: pound <<<
 </ul>
 
 <h3>Etymology 1</h3>
-From lang:enm, from lang:ang <a href="qd::pund">pund</a> (&quot;a pound, weight&quot;), from {{proto|Germanic|pundan|pound, weight}}, an early borrowing from Latin <a href="qd::pond%C5%8D">pondo</a> (&quot;by weight&quot;), ablative form of <a href="qd::pondus">pondus</a> (&quot;weight&quot;), from {{proto|Indo-European|pend-|spend-|to pull, stretch}}. Cognate with Dutch <a href="qd::pond">pond</a>, German <a href="qd::Pfund">Pfund</a>, Swedish <a href="qd::pund">pund</a>.
+From lang:enm, from lang:ang <a href="qd::pund">pund</a> (&quot;a pound, weight&quot;), from lang:gem-pro {{recons|pundan|pound, weight|lang=gem-pro}}, an early borrowing from Latin <a href="qd::pond%C5%8D">pondo</a> (&quot;by weight&quot;), ablative form of <a href="qd::pondus">pondus</a> (&quot;weight&quot;), from lang:ine-pro {{recons|pend-|lang=ine-pro}}, {{recons|spend-|to pull, stretch|lang=ine-pro}}. Cognate with Dutch <a href="qd::pond">pond</a>, German <a href="qd::Pfund">Pfund</a>, Swedish <a href="qd::pund">pund</a>.
 <h4>Noun</h4>
-{en-noun}
+{en-noun} (sometimes <b>pound</b> after numerals)
 <ol><li> Short for <a href="qd::pound-force">pound-force</a>, a unit of force/weight.</li>
-<li> A <a href="qd::unit">unit</a> of <a href="qd::mass">mass</a> equal to 16 <a href="qd::avoirdupois">avoirdupois</a> ounces (= 453.592 37 g)</li>
-<li> A unit of <a href="qd::mass">mass</a> equal to 12 <a href="qd::troy+weight">troy ounce</a>&#x73;&#x20;&#x28;&#x2248;&#x20;&#x33;&#x37;&#x33;&#x2e;&#x32;&#x34;&#x32;&#x20;&#x67;&#x29;&#x2e;</li>
+<li> A <a href="qd::unit">unit</a> of <a href="qd::mass">mass</a> equal to 16 <a href="qd::avoirdupois">avoirdupois</a> ounces (= 453.592 37 g). Today this value is the most common meaning of &quot;pound&quot; as a unit of weight.</li>
+<ul><li> <b>28 July 2010</b>, Rachel Williams in The Guardian, <em>Mothers who lose weight before further pregnancy 'reduce risks<b>[http://www.guardian.co.uk/lifeandstyle/2010/jul/28/mothers-lose-weight-reduce-risks?INTCMP=SRCH]</li>
+<ul><li>Research shows that retaining even one or two </b>pounds<b> after giving birth can make problems more likely in a subsequent pregnancy, experts said, with women who have several children facing a &quot;slippery slope&quot; if they continue to gain weight each time.</li>
+</ul>
+</ul>
+<li> A unit of <a href="qd::mass">mass</a> equal to 12 <a href="qd::troy+weight">troy ounce</a>&#x73;&#x20;&#x28;&#x2248;&#x20;&#x33;&#x37;&#x33;&#x2e;&#x32;&#x34;&#x32;&#x20;&#x67;&#x29;&#x2e;&#x20;&#x54;&#x6f;&#x64;&#x61;&#x79;&#x2c;&#x20;&#x74;&#x68;&#x69;&#x73;&#x20;&#x69;&#x73;&#x20;&#x61;&#x20;&#x63;&#x6f;&#x6d;&#x6d;&#x6f;&#x6e;&#x20;&#x75;&#x6e;&#x69;&#x74;&#x20;&#x6f;&#x66;&#x20;&#x77;&#x65;&#x69;&#x67;&#x68;&#x74;&#x20;&#x77;&#x68;&#x65;&#x6e;&#x20;&#x6d;&#x65;&#x61;&#x73;&#x75;&#x72;&#x69;&#x6e;&#x67;&#x20;&#x70;&#x72;&#x65;&#x63;&#x69;&#x6f;&#x75;&#x73;&#x20;&#x6d;&#x65;&#x74;&#x61;&#x6c;&#x73;&#x2c;&#x20;&#x61;&#x6e;&#x64;&#x20;&#x69;&#x73;&#x20;&#x6c;&#x69;&#x74;&#x74;&#x6c;&#x65;&#x20;&#x75;&#x73;&#x65;&#x64;&#x20;&#x65;&#x6c;&#x73;&#x65;&#x77;&#x68;&#x65;&#x72;&#x65;&#x2e;</li>
 <li> {US} The symbol {{unsupported|#}} (<a href="qd::octothorpe">octothorpe</a>, <a href="qd::hash">hash</a>) </li>
-<li> The unit of currency of used in the United Kingdom and its <a href="qd::dependency">dependencies</a>.</li>
+<li> The unit of currency used in the United Kingdom and its <a href="qd::dependency">dependencies</a>. It is divided into 100 <a href="qd::pence">pence</a>.</li>
+<ul><li> </b>November 11 2012<b>, Carole Cadwalladr in the Observer, </em>Do online courses spell the end for the traditional university?<em>[http://www.guardian.co.uk/education/2012/nov/11/online-free-learning-end-of-university?INTCMP=SRCH]</li>
+<ul><li>For students in developing countries who can't get it any other way, or for students in the first world, who can but may choose not to. Pay thousands of pounds a year for your education? Or get it free online?</li>
+</ul>
+<li> </b>1860<b>, {{w|George Eliot}}, </em>The Mill on the Floss<em>, Book 5, Chapter 6</li>
+<ul><li>&quot;Only a hundred and ninety-three </b>pound<b>,&quot; said Mr. Tulliver. &quot;You've brought less o' late; but young fellows like to have their own way with their money. Though I didn't do as I liked before I was of age.&quot; He spoke with rather timid discontent.</li>
+</ul>
+</ul>
 <li> Any of various units of <a href="qd::currency">currency</a> used in Cyprus, Egypt, Lebanon, and formerly in the Republic of Ireland and Israel.</li>
+<ul><li> {RQ:Joyce Ulysses} Episode 4</li>
+<ul><li>He glanced back through what he had read and, while feeling his water flow quietly, he envied kindly Mr Beaufoy who had written it and received payment of three </b>pounds<b>, thirteen and six.</li>
+</ul>
+</ul>
+<li> {{plural of|pound|nodot=1}} (unit of currency)</li>
+<ul><li>{{quote-book|year=2010|author=Steven Field|title=Dusty's Fort|publisher=|url=|isbn=1445292416|page=33|passage=He knocked out cans of warm cola at two </b>pound<b> fifty a time.}}</li>
+</ul>
 </ol>
 
 <h5>Usage notes</h5>
-<ul><li> Internationally, the &quot;pound&quot; has most commonly referred to the UK pound (Pound Sterling). The other currencies were usually distinguished in some way, e.g., the &quot;Irish pound&quot; or the &quot;punt&quot;.</li>
-<li> In the vicinity of each other country calling its currency the pound among English speakers the local currency would be the &quot;pound&quot;, with all others distinguished, e.g., the &quot;British pound&quot;.</li>
+<ul><li> Internationally, the &quot;pound&quot; has most commonly referred to the UK pound, &pound;, (pound sterling). The other currencies were usually distinguished in some way, e.g., the &quot;Irish pound&quot; or the &quot;punt&quot;.</li>
+<li> In the vicinity of each other country calling its currency the pound among English speakers the local currency would be the &quot;pound&quot;, with all others distinguished, e.g., the &quot;British pound&quot;, the &quot;Egyptian pound&quot; etc.</li>
+<li> The general plural of &quot;pound&quot; has usually been &quot;pounds&quot; (at least since Chaucer), but the continuing use of the Old English genitive or neuter &quot;pound&quot; as the plural after numerals (for both currency and weight) is common in some regions.  It can be considered correct, or colloquial, depending on region.</li>
 </ul>
-
+{seecites}
 <h5>Synonyms</h5>
 <ul><li> {{sense|16 avoirdupois ounces}} <a href="qd::lb">lb</a></li>
 <li> {{sense|12 troy ounces}} <a href="qd::lb+t">lb t</a></li>
-<li> {{sense|UK unit of currency}} &lt;big&gt;<a href="qd::%C2%A3">&pound;</a>&lt;/big&gt;, <a href="qd::pound+sterling">pound sterling</a></li>
+<li> {{sense|UK unit of currency}} &lt;big&gt;<a href="qd::%C2%A3">&pound;</a>&lt;/big&gt;, <a href="qd::pound+sterling">pound sterling</a>, <a href="qd::GBP">GBP</a>, <a href="qd::quid">quid</a> (colloquial), <a href="qd::nicker">nicker</a> (slang)</li>
 <li> {{sense|Other units of currency}} <a href="qd::punt">punt</a> (the former Irish currency)</li>
 <li> {{sense|# symbol}} <a href="qd::hash">hash</a> (UK), <a href="qd::sharp">sharp</a></li>
 </ul>
 
 <h5>Derived terms</h5>
-<ul><li> <a href="qd::pack+on+the+pounds">pack on the pounds</a></li>
+<ul><li> <a href="qd::-pounder">-pounder</a></li>
+<li> <a href="qd::800-pound+gorilla">800-pound gorilla</a></li>
+<li> <a href="qd::Amsterdam+pound">Amsterdam pound</a></li>
+<li> <a href="qd::avoirdupois+pound">avoirdupois pound</a></li>
+<li> <a href="qd::foot-pound">foot-pound</a></li>
+<li> <a href="qd::foot-pound-second">foot-pound-second</a></li>
+<li> <a href="qd::in+for+a+penny%2C+in+for+a+pound">in for a penny, in for a pound</a></li>
+<li> <a href="qd::metric+pound">metric pound</a></li>
+<li> <a href="qd::pack+on+the+pounds">pack on the pounds</a></li>
+<li> <a href="qd::pink+pound">pink pound</a></li>
+<li> <a href="qd::pound+cake">pound cake</a></li>
+</ul>
+<ul><li> <a href="qd::pound-foolish">pound-foolish</a></li>
+<li> <a href="qd::pound-force">pound-force</a></li>
+<li> <a href="qd::pound-for-pound">pound-for-pound</a></li>
+<li> <a href="qd::pound+of+flesh">pound of flesh</a></li>
+<li> <a href="qd::pound+shop">pound shop</a></li>
+<li> <a href="qd::pound+sign">pound sign</a></li>
 <li> <a href="qd::take+care+of+the+pennies+and+the+pounds+will+take+care+of+themselves">take care of the pennies and the pounds will take care of themselves</a></li>
+<li> <a href="qd::ten+pound+pom">ten pound pom</a></li>
+<li> <a href="qd::ten+pound+tourist">ten pound tourist</a></li>
+<li> <a href="qd::troy+pound">troy pound</a></li>
 </ul>
 
 <h5>See also</h5>
 <ul><li> {{pedia|Pound (mass)|Pound (the unit of mass)}}</li>
 <li> {{pedia|Pound_Sterling|Pound (the UK unit of currency)}}</li>
-<li> {{sense|UK unit of currency}} <a href="qd::sterling">sterling</a></li>
+<li> {{sense|UK unit of currency}} <a href="qd::crown">crown</a>, <a href="qd::farthing">farthing</a>, <a href="qd::florin">florin</a>, <a href="qd::guinea">guinea</a>, <a href="qd::penny">penny</a>, <a href="qd::pence">pence</a>, <a href="qd::shilling">shilling</a>, <a href="qd::sovereign">sovereign</a>, <a href="qd::sterling">sterling</a></li>
 </ul>
 
 <h3>Etymology 2</h3>
@@ -5194,8 +5250,8 @@ From lang:enm <a href="qd::pounde">pounde</a>, from lang:ang <a href="qd::pyndan
 <h4>Noun</h4>
 {en-noun}
 <ol><li> A place for the <a href="qd::detention">detention</a> of <a href="qd::stray">stray</a> or <a href="qd::wander">wander</a>ing <a href="qd::animal">animal</a>s.</li>
-<ul><li> <b>2002</b>, {{w|25th Hour}}, 00:27:30:</li>
-<ul><li> (Police officer to a dog owner) &quot;He better stay calm or I'll have the <b>pound</b> come get him.&quot;</li>
+<ul><li> </b>2002<b>, {{w|25th Hour}}, 00:27:30:</li>
+<ul><li> (Police officer to a dog owner) &quot;He better stay calm or I'll have the </b>pound<b> come get him.&quot;</li>
 </ul>
 </ul>
 <li> A place for the detention of automobiles that have been <a href="qd::illegal">illegal</a>ly parked, <a href="qd::abandon">abandon</a>ed, etc.</li>
@@ -5208,24 +5264,25 @@ From lang:enm <a href="qd::pounde">pounde</a>, from lang:ang <a href="qd::pyndan
 
 <h5>Derived terms</h5>
 <ul><li> <a href="qd::dog+pound">dog pound</a></li>
+<li> <a href="qd::impound">impound</a></li>
 <li> <a href="qd::lobster+pound">lobster pound</a></li>
 </ul>
 
 <h3>Etymology 3</h3>
-From lang:enm <a href="qd::pounden">pounden</a>, alteration of <a href="qd::pounen">pounen</a>, from lang:ang <a href="qd::p%C5%ABnian">punian</a>. Likely influenced by <b>Etymology 2</b> lang:enm <a href="qd::pounde">pounde</a>, from lang:ang <a href="qd::pyndan">pyndan</a> (&quot;to enclose, impound&quot;), in relation to the hollow <a href="qd::mortar">mortar</a> for pounding with the <a href="qd::pestle">pestle</a>.
+From lang:enm <a href="qd::pounden">pounden</a>, alteration of <a href="qd::pounen">pounen</a>, from lang:ang <a href="qd::p%C5%ABnian">punian</a>. Likely influenced by </b>Etymology 2<b> lang:enm <a href="qd::pounde">pounde</a>, from lang:ang <a href="qd::pyndan">pyndan</a> (&quot;to enclose, impound&quot;), in relation to the hollow <a href="qd::mortar">mortar</a> for pounding with the <a href="qd::pestle">pestle</a>.
 <h4>Verb</h4>
 {en-verb}
 <ol><li> {transitive} To strike hard, usually repeatedly.</li>
 <li> {transitive} To <a href="qd::crush">crush</a> to pieces; to <a href="qd::pulverize">pulverize</a>.</li>
 <li> {{transitive|slang}} To eat or drink very quickly.</li>
-<ul><li> <em>You really <b>pounded</b> that beer!</em></li>
+<ul><li> </em>You really </b>pounded<b> that beer!<em></li>
 </ul>
 <li> {{transitive|baseball|slang}} To <a href="qd::pitch">pitch</a> consistently to a certain location.</li>
-<ul><li> <em>The pitcher has been <b>pounding</b> the outside corner all night.</em></li>
+<ul><li> </em>The pitcher has been </b>pounding<b> the outside corner all night.<em></li>
 </ul>
 <li> {{intransitive|of a body part, generally heart, blood, or head}} To <a href="qd::beat">beat</a> strongly or <a href="qd::throb">throb</a>.</li>
-<ul><li> <em>As I tiptoed past the sleeping dog, my heart was <b>pounding</b> but I remained silent.</em></li>
-<li> <em>My head was <b>pounding</b>.</em></li>
+<ul><li> </em>As I tiptoed past the sleeping dog, my heart was </b>pounding<b> but I remained silent.<em></li>
+<li> </em>My head was </b>pounding<b>.<em></li>
 </ul>
 <li> {{transitive|slang}} To vigorously sexually <a href="qd::penetrate">penetrate</a>.</li>
 </ol>
@@ -5237,8 +5294,10 @@ From lang:enm <a href="qd::pounden">pounden</a>, alteration of <a href="qd::poun
 <h5>Derived terms</h5>
 <ul><li> <a href="qd::pounding">pounding</a></li>
 <li> <a href="qd::pound+down">pound down</a></li>
+<li> <a href="qd::pound+the+pavement">pound the pavement</a></li>
 <li> <a href="qd::pound+the+table">pound the table</a></li>
 <li> <a href="qd::pound+sand">pound sand</a></li>
+<li> <a href="qd::pound+town">pound town</a></li>
 <li> <a href="qd::pound+up">pound up</a></li>
 </ul>
 
@@ -5338,7 +5397,10 @@ Latin <a href="qd::pr%C5%8Dductus">productus</a>, perfect participle of <a href=
 </ul>
 
 <h4>See also</h4>
-<ul><li> <a href="qd::multiplication">multiplication</a>: (<a href="qd::multiplier">multiplier</a>) &times; (<a href="qd::multiplicand">multiplicand</a>) = (<a href="qd::product">product</a>)</li>
+<ul><li> <a href="qd::addition">addition</a>, <a href="qd::summation">summation</a>: (<a href="qd::augend">augend</a>) + (<a href="qd::addend">addend</a>) = (<a href="qd::summand">summand</a>) &times; (<a href="qd::summand">summand</a>) = (<a href="qd::sum">sum</a>, <a href="qd::total">total</a>)</li>
+<li> <a href="qd::subtraction">subtraction</a>: (<a href="qd::minuend">minuend</a>&#x29;&#x20;&#x2212;&#x20;&#x28;<a href="qd::subtrahend">subtrahend</a>) = (<a href="qd::difference">difference</a>)</li>
+<li> <a href="qd::multiplication">multiplication</a>: (<a href="qd::multiplier">multiplier</a>) &times; (<a href="qd::multiplicand">multiplicand</a>) = (<a href="qd::factor">factor</a>) &times; (<a href="qd::factor">factor</a>) = (<a href="qd::product">product</a>)</li>
+<li> <a href="qd::division">division</a>: (<a href="qd::dividend">dividend</a>) &divide; (<a href="qd::divisor">divisor</a>) = (<a href="qd::quotient">quotient</a>), <a href="qd::remainder">remainder</a> left over if divisor does not divide dividend</li>
 </ul>
 ---->>>
 See also HtmlEntry:merchandise
@@ -5351,12 +5413,14 @@ See also HtmlEntry:word
 ***pronunciation guide***
 HtmlEntry: pronunciation guide <<<
 <h3>Noun</h3>
-{{en-noun|sg=<a href="qd::pronunciation">pronunciation</a> <a href="qd::guide">guide</a>}}
+{{en-noun|head=<a href="qd::pronunciation">pronunciation</a> <a href="qd::guide">guide</a>}}
 <ol><li>{countable} A <a href="qd::table">table</a> in a <a href="qd::reference+work">reference work</a> <a href="qd::explain">explain</a>ing the <a href="qd::symbol">symbol</a>s that it uses to represent the pronunciation of its <a href="qd::entry">entries</a>.</li>
 </ol>
 >>>
 ===proper===
 See also HtmlEntry:name
+===proprietary===
+See also HtmlEntry:free
 ===protest===
 See also HtmlEntry:march
 ===Puma===
@@ -5376,9 +5440,9 @@ From lang:frm <a href="qd::pompon">pompon</a>, from Latin <a href="qd::pep%C5%8D
 
 <h3>Noun</h3>
 {en-noun}
-<ol><li> A <a href="qd::domesticated">domesticated</a> <a href="qd::plant">plant</a>, <em>Cucurbita pepo</em> similar in <a href="qd::growth">growth</a> pattern, <a href="qd::foliage">foliage</a>, <a href="qd::flower">flower</a>, and <a href="qd::fruit">fruit</a> to the <a href="qd::squash">squash</a> or <a href="qd::melon">melon</a>.</li>
+<ol><li> A <a href="qd::domesticated">domesticated</a> <a href="qd::plant">plant</a>, {{taxlink|Cucurbita pepo|species}}, similar in <a href="qd::growth">growth</a> pattern, <a href="qd::foliage">foliage</a>, <a href="qd::flower">flower</a>, and <a href="qd::fruit">fruit</a> to the <a href="qd::squash">squash</a> or <a href="qd::melon">melon</a>.</li>
 <li> The <a href="qd::round">round</a> <a href="qd::yellow">yellow</a> or <a href="qd::orange">orange</a> fruit of this plant.</li>
-<ul><li> <b>1904</b>, L. Frank Baum, <em>The Marvelous Land of Oz</em>, [http://www.literature.org/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-01.html]:</li>
+<ul><li> <b>1904</b>, {{w|L. Frank Baum}}, <em>The Marvelous Land of Oz</em>, [http://www.literature.org/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-01.html]:</li>
 <ul><li> There were <b>pumpkins</b>&#x20;&#x69;&#x6e;&#x20;&#x4d;&#x6f;&#x6d;&#x62;&#x69;&#x2019;&#x73;&#x20;&#x63;&#x6f;&#x72;&#x6e;&#x2d;&#x66;&#x69;&#x65;&#x6c;&#x64;&#x73;&#x2c;&#x20;&#x6c;&#x79;&#x69;&#x6e;&#x67;&#x20;&#x67;&#x6f;&#x6c;&#x64;&#x65;&#x6e;&#x20;&#x72;&#x65;&#x64;&#x20;&#x61;&#x6d;&#x6f;&#x6e;&#x67;&#x20;&#x74;&#x68;&#x65;&#x20;&#x72;&#x6f;&#x77;&#x73;&#x20;&#x6f;&#x66;&#x20;&#x67;&#x72;&#x65;&#x65;&#x6e;&#x20;&#x73;&#x74;&#x61;&#x6c;&#x6b;&#x73;&#x3b;&#x20;&#x61;&#x6e;&#x64;&#x20;&#x74;&#x68;&#x65;&#x73;&#x65;&#x20;&#x68;&#x61;&#x64;&#x20;&#x62;&#x65;&#x65;&#x6e;&#x20;&#x70;&#x6c;&#x61;&#x6e;&#x74;&#x65;&#x64;&#x20;&#x61;&#x6e;&#x64;&#x20;&#x63;&#x61;&#x72;&#x65;&#x66;&#x75;&#x6c;&#x6c;&#x79;&#x20;&#x74;&#x65;&#x6e;&#x64;&#x65;&#x64;&#x20;&#x74;&#x68;&#x61;&#x74;&#x20;&#x74;&#x68;&#x65;&#x20;&#x66;&#x6f;&#x75;&#x72;&#x2d;&#x68;&#x6f;&#x72;&#x6e;&#x65;&#x64;&#x20;&#x63;&#x6f;&#x77;&#x20;&#x6d;&#x69;&#x67;&#x68;&#x74;&#x20;&#x65;&#x61;&#x74;&#x20;&#x6f;&#x66;&#x20;&#x74;&#x68;&#x65;&#x6d;&#x20;&#x69;&#x6e;&#x20;&#x74;&#x68;&#x65;&#x20;&#x77;&#x69;&#x6e;&#x74;&#x65;&#x72;&#x20;&#x74;&#x69;&#x6d;&#x65;&#x2e;</li>
 </ul>
 </ul>
@@ -5387,7 +5451,7 @@ From lang:frm <a href="qd::pompon">pompon</a>, from Latin <a href="qd::pep%C5%8D
 </ul>
 <li> {Australia} Any of a number of <a href="qd::cultivar">cultivar</a>s from the genus <em><a href="qd::Cucurbita">Cucurbita</a></em>; <em>known in the US as <a href="qd::winter+squash">winter squash</a></em>.</li>
 <li> {US} {{non-gloss definition|A <a href="qd::term+of+endearment">term of endearment</a> for someone <a href="qd::small">small</a> and <a href="qd::cute">cute</a>.}}</li>
-<ul><li> <b>1991</b>, John Prine, Pat McLaughlin, <em>&#x44;&#x61;&#x64;&#x64;&#x79;&#x2019;&#x73;&#x20;&#x4c;&#x69;&#x74;&#x74;&#x6c;&#x65;&#x20;<b>Pumpkin</b></em> (song), <em>The Missing Years (album)</em>:</li>
+<ul><li> <b>1991</b>, {{w|John Prine}}, Pat McLaughlin, <em>&#x44;&#x61;&#x64;&#x64;&#x79;&#x2019;&#x73;&#x20;&#x4c;&#x69;&#x74;&#x74;&#x6c;&#x65;&#x20;<b>Pumpkin</b></em> (song), <em>{{w|The Missing Years (album)}}</em>:</li>
 <ul><li>&#x20;&#x59;&#x6f;&#x75;&#x20;&#x6d;&#x75;&#x73;&#x74;&#x20;&#x62;&#x65;&#x20;&#x64;&#x61;&#x64;&#x64;&#x79;&#x2019;&#x73;&#x20;&#x6c;&#x69;&#x74;&#x74;&#x6c;&#x65;&#x20;<b>pumpkin</b>.</li>
 </ul>
 </ul>
@@ -5412,6 +5476,7 @@ See also HtmlEntry:cat
 ===put===
 See also HtmlEntry:word
 ===quid===
+See also HtmlEntry:pound
 See also HtmlEntry:barter
 See also HtmlEntry:swap
 ***quid pro quo***
@@ -5424,7 +5489,7 @@ From Latin : &quot;what for what&quot; . See <a href="qd::quid">quid</a>, <a hre
 </ul>
 
 <h3>Noun</h3>
-{{en-noun|sg=<a href="qd::quid">quid</a> <a href="qd::pro">pro</a> <a href="qd::quo">quo</a>|pl=quid pro quos|pl2=quae pro quibus|pl3=quid pro quibus|pl4=quid pro quibus}}
+{{en-noun|head=<a href="qd::quid">quid</a> <a href="qd::pro">pro</a> <a href="qd::quo">quo</a>|pl=quid pro quos|pl2=quae pro quibus|pl3=quid pro quibus|pl4=quid pro quibus}}
 <ol><li> Something understood as another ; an <a href="qd::equivocation">equivocation</a>.</li>
 <ul><li> <b>1844</b>, Arthur Schopenhauer, translated by <a href="qd::s%3AAuthor%3ARichard+Burdon+Haldane">Richard Burdon Haldane</a>, <a href="qd::s%3AThe+World+as+Will+and+Representation%2FFirst+Book"><em>The World as Will and Representation</em>, 2nd edition, first book</a>, section 13:</li>
 <ul><li> The misunderstanding of the word or the <b>quid pro quo</b> is the unintentional pun, and is related to it exactly as folly is to wit.</li>
@@ -5488,10 +5553,10 @@ HtmlEntry: raven <<<A raven (bird).
 </ul>
 
 <h3>Etymology 1</h3>
-lang:ang <a href="qd::hr%C3%A6fn">hr&aelig;fn</a>, from {{proto|Germanic|hrabnaz}} (compare Dutch <a href="qd::raaf">raaf</a>, German <a href="qd::Rabe">Rabe</a>, Danish <a href="qd::ravn">ravn</a>), from {{proto|Indo-European|&#x1e31;&#x6f;&#x72;&#x68;&#x2082;&#x2d;}} (compare lang:mga <a href="qd::cr%C3%BA">cr&uacute;</a>, Latin  <a href="qd::corvus">corvus</a>, Lithuanian <a href="qd::%C5%A1%C3%A1rka">&#x161;&#xe1;&#x72;&#x6b;&#x61;</a> (&quot;magpie&quot;), Serbo-Croatian &#x73;&#x76;&#x72;&#x201;&#x6b;&#x61;&#x20;&#x2018;&#x69;&#x64;&#x2e;&#x2019;&#x2c;&#x20;Ancient Greek <a href="qd::%CE%BA%CF%8C%CF%81%CE%B1%CE%BE">&#x3ba;&#x3cc;&#x3c1;&#x3b1;&#x3be;</a> (k&oacute;rax)), from {{proto|Indo-European|&#x1e31;&#x65;&#x72;|&#x1e31;&#x6f;&#x72;|title=}} (compare Latin <a href="qd::crepare">crepare</a>&#x20;&#x2018;&#x74;&#x6f;&#x20;&#x63;&#x72;&#x65;&#x61;&#x6b;&#x2c;&#x20;&#x63;&#x72;&#x61;&#x63;&#x6b;&#x2019;&#x2c;&#x20;Sanskrit &#x6b;&#x1e5b;&#x301;&#x70;&#x61;&#x74;&#x113;).
+lang:ang <a href="qd::hr%C3%A6fn">hr&aelig;fn</a>, from lang:gem-pro {{recons|hrabnaz|lang=gem-pro}} (compare Dutch <a href="qd::raaf">raaf</a>, German <a href="qd::Rabe">Rabe</a>, Danish <a href="qd::ravn">ravn</a>), from lang:ine-pro {{recons|&#x1e31;&#x6f;&#x72;&#x68;&#x2082;&#x2d;|lang=ine-pro}} (compare lang:mga <a href="qd::cr%C3%BA">cr&uacute;</a>, Latin <a href="qd::corvus">corvus</a>, Lithuanian <a href="qd::%C5%A1%C3%A1rka">&#x161;&#xe1;&#x72;&#x6b;&#x61;</a> (&quot;magpie&quot;), Serbo-Croatian &#x73;&#x76;&#x72;&#x201;&#x6b;&#x61;&#x20;&#x2018;&#x69;&#x64;&#x2e;&#x2019;&#x2c;&#x20;Ancient Greek <a href="qd::%CE%BA%CF%8C%CF%81%CE%B1%CE%BE">&#x3ba;&#x3cc;&#x3c1;&#x3b1;&#x3be;</a> (k&oacute;rax)), from {{recons|&#x1e31;&#x65;&#x72;|lang=ine-pro}}, {{recons|&#x1e31;&#x6f;&#x72;|lang=ine-pro}} (compare Latin <a href="qd::crepare">crepare</a>&#x20;&#x2018;&#x74;&#x6f;&#x20;&#x63;&#x72;&#x65;&#x61;&#x6b;&#x2c;&#x20;&#x63;&#x72;&#x61;&#x63;&#x6b;&#x2019;&#x2c;&#x20;Sanskrit &#x6b;&#x1e5b;&#x301;&#x70;&#x61;&#x74;&#x113;).
 <h4>Noun</h4>
 {en-noun}
-<ol><li> A common name for several, generally large and lustrous black species of <a href="qd::bird">bird</a>s in the genus <em><a href="qd::Corvus">Corvus</a></em>, especially the <a href="qd::common+raven">common raven</a>, <em>Corvus corax</em>.</li>
+<ol><li> A common name for several, generally large and lustrous black species of <a href="qd::bird">bird</a>s in the genus <em><a href="qd::Corvus">Corvus</a></em>, especially the <a href="qd::common+raven">common raven</a>, {{taxlink|Corvus corax|species}}.</li>
 </ol>
 
 <h4>Adjective</h4>
@@ -5502,7 +5567,7 @@ lang:ang <a href="qd::hr%C3%A6fn">hr&aelig;fn</a>, from {{proto|Germanic|hrabnaz
 <li> <em>She was a tall, sophisticated, raven-haired beauty.</em></li>
 </ul>
 </ol>
-<a href="qd::category%3Aen%3AColors">category:en:Colors</a><a href="qd::category%3Aen%3ABlacks">category:en:Blacks</a>
+
 <h5>Derived terms</h5>
 <ul><li> <a href="qd::raven-black">raven-black</a></li>
 <li> <a href="qd::raven-haired">raven-haired</a></li>
@@ -5553,6 +5618,8 @@ From lang:fro <a href="qd::raviner">raviner</a> (&quot;rush, seize by force&quot
 See also HtmlEntry:book
 ===reserve===
 See also HtmlEntry:book
+===restricted===
+See also HtmlEntry:free
 ===rhubarb===
 See also HtmlEntry:nonsense
 ===rocket===
@@ -5570,7 +5637,7 @@ See also HtmlEntry:grain of salt
 ***Saturday***
 HtmlEntry: Saturday <<<
 <h3>Etymology</h3>
-lang:ang <a href="qd::S%C3%A6ternesd%C3%A6g">s&aelig;ternd&aelig;g</a> (&quot;day of Saturn&quot;), from <a href="qd::S%C3%A6tern">S&aelig;tern</a> (&quot;Saturn&quot;), from Latin <a href="qd::Saturnus">Saturnus</a> (&quot;the god of agriculture&quot;), possibly from Etruscan, + lang:ang <a href="qd::d%C3%A6g">d&aelig;g</a> (&quot;day&quot;); a translation of Latin <a href="qd::dies+Saturni">dies Saturni</a>
+From lang:ang <a href="qd::S%C3%A6ternesd%C3%A6g">s&aelig;ternd&aelig;g</a> (&quot;day of Saturn&quot;), from <a href="qd::S%C3%A6tern">S&aelig;tern</a> (&quot;Saturn&quot;), from Latin <a href="qd::Saturnus">Saturnus</a> (&quot;the god of agriculture&quot;), possibly from Etruscan, + lang:ang <a href="qd::d%C3%A6g">d&aelig;g</a> (&quot;day&quot;); a translation of Latin <a href="qd::dies+Saturni">dies Saturni</a>. Compare West Frisian <a href="qd::saterdei">saterdei</a>, Dutch <a href="qd::zaterdag">zaterdag</a>.
 <h3>Pronunciation</h3>
 <ul><li> {{a|UK}} IPA: &#x2f;&#x2c8;&#x73;&#xe6;&#x74;&#x259;&#x64;&#x65;&#x26a;&#x2f;, {{X-SAMPA|/&quot;s{t@deI/}} <em>or</em> IPA: &#x2f;&#x2c8;&#x73;&#xe6;&#x74;&#x259;&#x64;&#x69;&#x2f;, {{X-SAMPA|/&quot;s{t@di/}}</li>
 <li> {{a|US}} {{enPR|&#x73;&#x103;&#x2b9;&#x74;&#x259;&#x72;&#x2d;&#x64;&#x101;}}, IPA: &#x2f;&#x2c8;&#x73;&#xe6;&#x74;&#x25a;&#x64;&#x65;&#x26a;&#x2f;, {{X-SAMPA|/&quot;s{t@`deI/}} <em>or</em> {{enPR|&#x73;&#x103;&#x2b9;&#x74;&#x259;&#x72;&#x2d;&#x64;&#x69;}}, IPA: &#x2f;&#x2c8;&#x73;&#xe6;&#x74;&#x25a;&#x64;&#x69;&#x2f;, {{X-SAMPA|/&quot;s{t@`di/}}</li>
@@ -5647,6 +5714,13 @@ HtmlEntry: semantics <<<
 </ul>
 </ol>
 
+<h4>Etymology</h4>
+<ul><li><em>&quot;science of meaning in language,&quot;</em> </li>
+<li>1893, from <em>Fr. s&eacute;mantique</em> (1883); </li>
+<li>Replaced semasiology (1847), from <em>Ger. Semasiologie</em> (1829),</li>
+<li>from <em>Gk. semasia</em> <b>&quot;signification, meaning.&quot;</b></li>
+</ul>
+
 <h4>Derived terms</h4>
 <ul><li> <a href="qd::algebraic+semantics">algebraic semantics</a></li>
 <li> <a href="qd::axiomatic+semantics">axiomatic semantics</a></li>
@@ -5685,7 +5759,7 @@ HtmlEntry: September <<<
 </ul>
 
 <h3>Etymology</h3>
-Late lang:ang, Latin <a href="qd::september">september</a> (&quot;seventh month&quot;), from Latin <a href="qd::septem">septem</a> (&quot;seven&quot;), from {{proto|Indo-European|&#x73;&#x65;&#x70;&#x74;&#x1e3f;&#x325;|seven}}; September was the seventh month in the Roman calendar.
+Late lang:ang, Latin <a href="qd::september">september</a> (&quot;seventh month&quot;), from Latin <a href="qd::septem">septem</a> (&quot;seven&quot;), from lang:ine-pro {{recons|&#x73;&#x65;&#x70;&#x74;&#x1e3f;&#x325;|seven|lang=ine-pro}}; September was the seventh month in the Roman calendar.
 <h3>Pronunciation</h3>
 <ul><li> {{a|UK}} IPA: &#x2f;&#x73;&#x25b;&#x70;&#x2c8;&#x74;&#x25b;&#x6d;&#x62;&#x259;&#x2f;, {{X-SAMPA|/sEp&quot;tEmb@/}}</li>
 <li> {{a|US}} {{enPR|&#x73;&#x115;&#x70;&#x2d;&#x74;&#x115;&#x6d;&#x2b9;&#x62;&#x259;&#x72;}} IPA: &#x2f;&#x73;&#x25b;&#x70;&#x2c8;&#x74;&#x25b;&#x6d;&#x62;&#x259;&#x279;&#x2f;, {{X-SAMPA|/sEp&quot;tEmb@r/}}</li>
@@ -5795,10 +5869,8 @@ See also HtmlEntry:deal
 See also HtmlEntry:craft
 ===smallage===
 See also HtmlEntry:march
-===Smilodon===
-See also HtmlEntry:cat
-===Smilodontini===
-See also HtmlEntry:cat
+===software===
+See also HtmlEntry:free
 ===spate===
 See also HtmlEntry:deal
 ===speech===
@@ -5832,6 +5904,10 @@ From lang:fro <em><a href="qd::substantif">substantif</a></em>.
 <h3>Adjective</h3>
 {en-adj}
 <ol><li> Of the essence or essential element of a thing; as, &quot;substantive information&quot;.</li>
+<ul><li><b>2012</b>, The Economist, 06 Oct 2012 issue; <em>[http://www.economist.com/node/21564222 The first presidential debate: Back in the centre, back in the game]</em></li>
+<ul><li>In one sense the first debate achieved the worst of all worlds: it managed to be technical, even dull, without being <b>substantive</b> or especially honest.</li>
+</ul>
+</ul>
 <li> Having <a href="qd::substance">substance</a> and prompting thought.</li>
 <li> {legal} Applying to essential legal principles and rules of right; as, &quot;substantive law&quot;.</li>
 <li> {chemistry} Of a <a href="qd::dye">dye</a> that does not need the use of a <a href="qd::mordant">mordant</a> to be made <a href="qd::fast">fast</a> to that which is being dyed.</li>
@@ -5874,7 +5950,7 @@ See also HtmlEntry:deal
 ***Sunday***
 HtmlEntry: Sunday <<<
 <h3>Etymology</h3>
-lang:enm <em><a href="qd::sunnenday">sunnenday</a></em> from lang:ang <a href="qd::sunnand%C3%A6g">sunnand&aelig;g</a> (&quot;day of the sun&quot;), from <a href="qd::sunne">sunne</a> (&quot;sun&quot;), + <a href="qd::d%C3%A6g">d&aelig;g</a> (&quot;day&quot;), as a translation of Latin <em><a href="qd::dies+solis">dies solis</a></em>; declared the &quot;venerable day of the sun&quot; by Roman Emperor Constantine on March 7, 321 {C.E.}.
+From lang:enm <em><a href="qd::sunnenday">sunnenday</a></em> from lang:ang <a href="qd::sunnand%C3%A6g">sunnand&aelig;g</a> (&quot;day of the sun&quot;), from <a href="qd::sunne">sunne</a> (&quot;sun&quot;), + <a href="qd::d%C3%A6g">d&aelig;g</a> (&quot;day&quot;), late lang:gem-pro {{recons|&#x73;&#x75;&#x6e;&#x6e;&#x14d;&#x6e;&#x69;&#x7a;&#x20;&#x64;&#x61;&#x67;&#x61;&#x7a;|lang=gem-pro}}, as a translation of Latin <em><a href="qd::dies+solis">dies solis</a></em>; declared the &quot;venerable day of the sun&quot; by Roman Emperor Constantine on March 7, 321 {C.E.}. Compare Dutch <a href="qd::zondag">zondag</a>, West Frisian <a href="qd::snein">snein</a>, German <a href="qd::Sonntag">Sonntag</a>, Danish <a href="qd::s%C3%B8ndag">s&oslash;ndag</a>.
 <h3>Pronunciation</h3>
 <ul><li> {{enPR|&#x73;&#x16d;&#x6e;&#x2b9;&#x64;&#x101;}}, IPA: &#x2f;&#x2c8;&#x73;&#x28c;&#x6e;&#x64;&#x65;&#x26a;&#x2f;, {{X-SAMPA|/&quot;sVndeI/}} <em>or</em> {{enPR|&#x73;&#x16d;&#x6e;&#x2b9;&#x64;&#x113;}}, IPA: &#x2f;&#x2c8;&#x73;&#x28c;&#x6e;&#x64;&#x69;&#x2f;, {{X-SAMPA|/&quot;sVndi/}}</li>
 <li> {{audio|en-us-Sunday.ogg|Audio (US)}}</li>
@@ -6205,7 +6281,7 @@ See also HtmlEntry:deal
 ***Thursday***
 HtmlEntry: Thursday <<<
 <h3>Etymology</h3>
-From lang:enm, from lang:ang <a href="qd::%C3%BEursd%C3%A6%C4%A1">&thorn;ursd&aelig;g</a>, <a href="qd::%C3%BEurresd%C3%A6%C4%A1">&thorn;urresd&aelig;g</a> (&quot;Thursday&quot;), possibly from a contraction of lang:ang <a href="qd::%C3%BEunresd%C3%A6%C4%A1">&thorn;unresd&aelig;g</a> (&quot;Thursday&quot;, literally <a href="qd::Thor">Thor</a>'s day), but more likely of lang:gmq origin, from lang:non <a href="qd::%C3%BE%C5%8Drsdagr">&thorn;&oacute;rsdagr</a> or Old Danish <a href="qd::%C3%BE%C5%ABrsdag">&thorn;ursdag</a> (&quot;Thursday&quot;); all from {{proto|Germanic|&THORN;unras dagaz|Thor's day}}. More at {{l|en|thunder}}, {{l|en|day}}.A calque of Latin <em><a href="qd::dies+Iovis">dies Iovis</a> (dies Jovis)</em>, via an association of the god <a href="qd::Thor">Thor</a> with the Roman god of thunder <a href="qd::Jove">Jove</a> (Jupiter).
+From lang:enm, from lang:ang <a href="qd::%C3%BEursd%C3%A6%C4%A1">&thorn;ursd&aelig;g</a>, <a href="qd::%C3%BEurresd%C3%A6%C4%A1">&thorn;urresd&aelig;g</a> (&quot;Thursday&quot;), possibly from a contraction of lang:ang <a href="qd::%C3%BEunresd%C3%A6%C4%A1">&thorn;unresd&aelig;g</a> (&quot;Thursday&quot;, literally <a href="qd::Thor">Thor</a>'s day), but more likely of lang:gmq origin, from lang:non <a href="qd::%C3%BE%C5%8Drsdagr">&thorn;&oacute;rsdagr</a> or Old Danish <a href="qd::%C3%BE%C5%ABrsdag">&thorn;ursdag</a> (&quot;Thursday&quot;); all from lang:gem-pro {{recons|&THORN;unras dagaz|Thor's day|lang=gem-pro}}. Compare West Frisian <a href="qd::tongersdei">tongersdei</a>, Dutch <a href="qd::donderdag">donderdag</a>, German <a href="qd::Donnerstag">Donnerstag</a>, Danish <a href="qd::torsdag">torsdag</a>. More at {{l|en|thunder}}, {{l|en|day}}.A calque of Latin <em><a href="qd::dies+Iovis">dies Iovis</a> (dies Jovis)</em>, via an association of the god <a href="qd::Thor">Thor</a> with the Roman god of thunder <a href="qd::Jove">Jove</a> (Jupiter).
 <h3>Pronunciation</h3>
 <ul><li> {{a|UK}} IPA: &#x2f;&#x2c8;&#x3b8;&#x25c;&#x2d0;&#x7a;&#x64;&#x65;&#x26a;&#x2f;, {{X-SAMPA|/&quot;T3:zdeI/}} <em>or</em> IPA: &#x2f;&#x2c8;&#x3b8;&#x25c;&#x2d0;&#x7a;&#x64;&#x69;&#x2f;, {{X-SAMPA|/&quot;T3:zdi/}}</li>
 <li> {{a|US}} IPA: &#x2f;&#x2c8;&#x3b8;&#x25d;&#x7a;&#x64;&#x65;&#x26a;&#x2f;, {{X-SAMPA|/&quot;T3`zdeI/}} <em>or</em> IPA: &#x2f;&#x2c8;&#x3b8;&#x25d;&#x7a;&#x64;&#x69;&#x2f;, {{X-SAMPA|/&quot;T3`zdi/}}</li>
@@ -6286,7 +6362,7 @@ See also HtmlEntry:head
 ===trace===
 See also HtmlEntry:minute
 ***trade***
-HtmlEntry: trade <<<{{wikipedia|trade|dab=trade (disambiguation)}}
+HtmlEntry: trade <<<{pedia}
 <h3>Etymology</h3>
 From lang:enm <a href="qd::trade">trade</a> (&quot;path, course of conduct&quot;), cognate with lang:ang <a href="qd::tredan">tredan</a> (&quot;tread&quot;); See [http://www.etymonline.com/index.php?search=trade&amp;searchmode=none Online Etymology Dictionary]
 <h3>Pronunciation</h3>
@@ -6318,6 +6394,7 @@ From lang:enm <a href="qd::trade">trade</a> (&quot;path, course of conduct&quot;
 </ul>
 <li> {countable} The skilled practice of a practical <a href="qd::occupation">occupation</a>.</li>
 <ul><li> <em>He learned his <b>trade</b> as an <a href="qd::apprentice">apprentice</a>.</em></li>
+<li>{{quote-book|year=2006|author=Edwin Black|title=Internal Combustion|chapter=2|url=http://openlibrary.org/works/OL4103950W|passage=But through the oligopoly, charcoal fuel proliferated throughout London's <b>trades</b> and industries.&amp;nbsp; By the 1200s, brewers and bakers, tilemakers, glassblowers, pottery producers, and a range of other craftsmen all became hour-to-hour consumers of charcoal.}}</li>
 </ul>
 <li> {{uncountable|UK}} The <a href="qd::business">business</a> given to a <a href="qd::commercial">commercial</a> <a href="qd::establishment">establishment</a> by its customers.</li>
 <ul><li> <em>Even before noon there was considerable <b>trade</b>.</em></li>
@@ -6460,7 +6537,7 @@ HtmlEntry: trade wind <<<
 </ul>
 
 <h3>Noun</h3>
-{{en-noun|sg=<a href="qd::trade">trade</a> <a href="qd::wind">wind</a>}}
+{{en-noun|head=<a href="qd::trade">trade</a> <a href="qd::wind">wind</a>}}
 <ol><li> A steady wind that blows from east to west above and below the equator.</li>
 <ul><li> <em>They rode the <b>trade winds</b> going west.</em></li>
 </ul>
@@ -6479,9 +6556,9 @@ See also HtmlEntry:deal
 ===tremendous===
 See also HtmlEntry:minute
 ***Tuesday***
-HtmlEntry: Tuesday <<<
+HtmlEntry: Tuesday <<<{{wikipedia|tuesday|dab=tuesday (disambiguation)}}{{wikipedia|Week-day names}}
 <h3>Etymology</h3>
-From lang:enm <a href="qd::Tewesday">Tewesday</a>, from lang:ang <a href="qd::T%C4%ABwesd%C3%A6%C4%A1">Tiwesd&aelig;g</a> (&quot;Tuesday&quot;), from {{proto|Germanic|&#x54;&#x12b;&#x77;&#x61;&#x73;&#x20;&#x64;&#x61;&#x67;&#x61;&#x7a;|Tuesday|lit=Tiw's Day}} (a rendering of Latin <a href="qd::dies+Martis">dies Martis</a> (see <em>{{w|interpretatio germanica}}</em>), itself a translation of Ancient Greek <a href="qd::Tuesday">Tuesday</a> (Areos hemera) (see <em>{{w|interpretatio romana}}</em>)), equivalent to {{proto|Germanic|&#x54;&#x12b;&#x77;&#x61;&#x7a;|god of war}} (compare lang:non <a href="qd::Tyr">Tyr</a>, lang:goh <a href="qd::Ziu">Ziu</a>), from {{proto|Indo-European|dyew&oacute;s|god}} + {{proto|Germanic|dagaz|day}}. Cognate with lang:sco <a href="qd::Tysday">Tysday</a> (&quot;Tuesday&quot;), lang:fy <a href="qd::tiisdei">tiisdei</a> (&quot;Tuesday&quot;), German dialectal <a href="qd::Ziestag">Ziestag</a> (&quot;Tuesday&quot;), Danish <a href="qd::tirsdag">tirsdag</a> (&quot;Tuesday&quot;), Swedish <a href="qd::tisdag">tisdag</a> (&quot;Tuesday&quot;). More at <a href="qd::Zeus">Zeus</a>, <a href="qd::day">day</a>.A calque of Latin <em><a href="qd::dies+Martis">dies Martis</a></em>, via an association of the god <a href="qd::Tiw">Tiw</a> with the Roman god of war <a href="qd::Mars">Mars</a>.
+From lang:enm <a href="qd::Tewesday">Tewesday</a>, from lang:ang <a href="qd::T%C4%ABwesd%C3%A6%C4%A1">Tiwesd&aelig;g</a> (&quot;Tuesday&quot;), from lang:gem-pro {{recons|&#x54;&#x12b;&#x77;&#x61;&#x73;&#x20;&#x64;&#x61;&#x67;&#x61;&#x7a;|Tuesday|lit=Tiw's Day|lang=gem-pro}}, from {{recons|&#x54;&#x12b;&#x77;&#x61;&#x7a;|Tyr, god of war|lang=gem-pro}} + {{recons|dagaz|day|lang=gem-pro}}. This was a Germanic rendering of Latin <a href="qd::dies+Martis">dies Martis</a> in {{w|interpretatio germanica}}, itself a translation of Ancient Greek <a href="qd::Tuesday">Tuesday</a> (Areos hemera) ({{w|interpretatio romana}}). Cognate with lang:sco <a href="qd::Tysday">Tysday</a> (&quot;Tuesday&quot;), lang:fy <a href="qd::tiisdei">tiisdei</a> (&quot;Tuesday&quot;), German dialectal <a href="qd::Ziestag">Ziestag</a> (&quot;Tuesday&quot;), Danish <a href="qd::tirsdag">tirsdag</a> (&quot;Tuesday&quot;), Swedish <a href="qd::tisdag">tisdag</a> (&quot;Tuesday&quot;). More at <a href="qd::Tyr">Tyr</a>, <a href="qd::day">day</a>.
 <h3>Pronunciation</h3>
 <ul><li> {{a|RP}} IPA: &#x2f;&#x2c8;&#x74;&#x6a;&#x75;&#x2d0;&#x7a;&#x64;&#x65;&#x26a;&#x2f;, {{X-SAMPA|/&quot;tju:zdeI/}} <em>or</em> IPA: &#x2f;&#x2c8;&#x74;&#x6a;&#x75;&#x2d0;&#x7a;&#x64;&#x26a;&#x2f;, {{X-SAMPA|/&quot;tju:zdI/}}</li>
 <li> {{a|US}} {{enPR|&#x74;&#x6f;&#x35e;&#x6f;&#x7a;&#x2b9;&#x64;&#x101;}}, IPA: &#x2f;&#x2c8;&#x74;&#x75;&#x2d0;&#x7a;&#x64;&#x65;&#x26a;&#x2f;, {{X-SAMPA|/&quot;tu:zdeI/}}</li>
@@ -6533,12 +6610,22 @@ From lang:enm <a href="qd::Tewesday">Tewesday</a>, from lang:ang <a href="qd::T%
 >>>
 ===twaddle===
 See also HtmlEntry:nonsense
+===unbound===
+See also HtmlEntry:free
 ===Uncia===
 See also HtmlEntry:cat
+===unconstrained===
+See also HtmlEntry:free
 ===underling===
 See also HtmlEntry:head
 ===underside===
 See also HtmlEntry:head
+===unfettered===
+See also HtmlEntry:free
+===unhindered===
+See also HtmlEntry:free
+===unobstructed===
+See also HtmlEntry:free
 ===up===
 See also HtmlEntry:deal
 ===vast===
@@ -6546,7 +6633,7 @@ See also HtmlEntry:minute
 ***verb***
 HtmlEntry: verb <<<
 <h3>Etymology</h3>
-From lang:fro <a href="qd::verbe">verbe</a>, from Latin <a href="qd::verbum">verbum</a> (&quot;word&quot;), from {{proto|Indo-European|wer-}}.
+From lang:fro <a href="qd::verbe">verbe</a>, from Latin <a href="qd::verbum">verbum</a> (&quot;word&quot;), from lang:ine-pro {{recons|&#x77;&#x65;&#x72;&#x64;&#x2b0;&#x6f;&#x2d;|lang=ine-pro}}. Etymological twin of <a href="qd::word">word</a>.
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x76;&#x25c;&#x2d0;&#x28;&#x279;&#x29;&#x62;&#x2f;, {{X-SAMPA|/v3:(r\)b/}}</li>
 <li> {{audio|en-us-verb.ogg|Audio (US)}}</li>
@@ -6561,10 +6648,10 @@ From lang:fro <a href="qd::verbe">verbe</a>, from Latin <a href="qd::verbum">ver
 </ol>
 
 <h4>Usage notes</h4>
-Verbs compose a fundamental category of words in most languages.  In an English clause, a verb forms the <a href="qd::head">head</a> of the <a href="qd::predicate">predicate</a> of the clause.  In many languages, verbs uniquely <a href="qd::conjugate">conjugate</a> for <a href="qd::tense">tense</a> and <a href="qd::aspect">aspect</a>.
+Verbs compose a fundamental category of words in most languages. In an English clause, a verb forms the <a href="qd::head">head</a> of the <a href="qd::predicate">predicate</a> of the clause. In many languages, verbs uniquely <a href="qd::conjugate">conjugate</a> for <a href="qd::tense">tense</a> and <a href="qd::aspect">aspect</a>.
 <h4>Quotations</h4>
 <ul><li> <b>2001</b>&#x20;&#x2014;&#x20;Eoin Colfer, <em>Artemis Fowl</em>, p 221</li>
-<ul><li> Then you could say that the doorway exploded.  But the particular <b>verb</b> doesn't do the action justice.  Rather, it shattered into infinitesimal pieces.</li>
+<ul><li> Then you could say that the doorway exploded. But the particular <b>verb</b> doesn't do the action justice. Rather, it shattered into infinitesimal pieces.</li>
 </ul>
 </ul>
 
@@ -6573,7 +6660,6 @@ Verbs compose a fundamental category of words in most languages.  In an English 
 </ul>
 
 <h4>Derived terms</h4>
-{der-top}
 <ul><li> <a href="qd::adverb">adverb</a></li>
 <li> <a href="qd::anomalous+verb">anomalous verb</a></li>
 <li> <a href="qd::auxiliary+verb">auxiliary verb</a></li>
@@ -6586,7 +6672,6 @@ Verbs compose a fundamental category of words in most languages.  In an English 
 <li> <a href="qd::full+verb">full verb</a></li>
 <li> <a href="qd::helping+verb">helping verb</a></li>
 </ul>
-{der-mid3}
 <ul><li> <a href="qd::impersonal+verb">impersonal verb</a></li>
 <li> <a href="qd::intransitive+verb">intransitive verb</a></li>
 <li> <a href="qd::irregular+verb">irregular verb</a></li>
@@ -6599,7 +6684,6 @@ Verbs compose a fundamental category of words in most languages.  In an English 
 <li> <a href="qd::serial+verb">serial verb</a></li>
 <li> <a href="qd::stative+verb">stative verb</a></li>
 </ul>
-{der-mid3}
 <ul><li> <a href="qd::subject-verb+agreement">subject-verb agreement</a></li>
 <li> <a href="qd::transitive+verb">transitive verb</a></li>
 <li> <a href="qd::verb+inflection">verb inflection</a></li>
@@ -6611,7 +6695,7 @@ Verbs compose a fundamental category of words in most languages.  In an English 
 <li> <a href="qd::verbal+regency">verbal regency</a></li>
 <li> <a href="qd::verbless+clause">verbless clause</a></li>
 </ul>
-{der-bottom}
+
 <h3>Verb</h3>
 {en-verb}
 <ol><li> {{transitive|nonstandard|colloquial}} To use any word that is not a verb (especially a noun) as if it were a verb.</li>
@@ -6687,7 +6771,7 @@ See also HtmlEntry:word
 ***Wednesday***
 HtmlEntry: Wednesday <<<{{wikipedia|wednesday|dab=wednesday (disambiguation)}}
 <h3>Etymology</h3>
-From lang:enm <a href="qd::Wednesdai">Wednesdai</a>, <a href="qd::Wodnesdei">Wodnesdei</a>, from lang:ang <a href="qd::w%C5%8Ddnesd%C3%A6%C4%A1">wodnesd&aelig;g</a> (&quot;Wednesday&quot;), from a Germanic calque of Latin <a href="qd::dies">dies</a> (&quot;day&quot;) <a href="qd::Mercurii">Mercurii</a> (&quot;of Mercurii&quot;) and Koine Ancient Greek <a href="qd::%E1%BC%A1%CE%BC%CE%AD%CF%81%CE%B1">&#x1f21;&#x3bc;&#x3ad;&#x3c1;&#x3b1;</a> (hemera, &quot;day&quot;) <a href="qd::%E1%BC%9D%CF%81%CE%BC%CE%BF%CF%85">&#x1f1d;&#x3c1;&#x3bc;&#x3bf;&#x3c5;</a> (Hermou, &quot;of Hermes&quot;), via an association of the god <a href="qd::Odin">Odin</a> (Woden) with <a href="qd::Mercury">Mercury</a> and <a href="qd::Hermes">Hermes</a>.{{rel-top|additional etymological information}}
+From lang:enm <a href="qd::Wednesdai">Wednesdai</a>, <a href="qd::Wodnesdei">Wodnesdei</a>, from lang:ang <a href="qd::w%C5%8Ddnesd%C3%A6%C4%A1">wodnesd&aelig;g</a> (&quot;Wednesday&quot;), from a Germanic (cf. lang:gem-pro {{recons|&#x57;&#x14d;&#x64;&#x61;&#x6e;&#x61;&#x73;&#x20;&#x64;&#x61;&#x67;&#x61;&#x7a;|lang=gem-pro}}) calque of Latin <a href="qd::dies">dies</a> (&quot;day&quot;) <a href="qd::Mercurii">Mercurii</a> (&quot;of Mercurii&quot;) and Koine Ancient Greek <a href="qd::%E1%BC%A1%CE%BC%CE%AD%CF%81%CE%B1">&#x1f21;&#x3bc;&#x3ad;&#x3c1;&#x3b1;</a> (hemera, &quot;day&quot;) <a href="qd::%E1%BC%9D%CF%81%CE%BC%CE%BF%CF%85">&#x1f1d;&#x3c1;&#x3bc;&#x3bf;&#x3c5;</a> (Hermou, &quot;of Hermes&quot;), via an association of the god <a href="qd::Odin">Odin</a> (Woden) with <a href="qd::Mercury">Mercury</a> and <a href="qd::Hermes">Hermes</a>.{{rel-top|additional etymological information}}
 <ul><li> Cognate with lang:fy <a href="qd::woansdei">woansdei</a> (&quot;Wednesday&quot;), Dutch <a href="qd::woensdag">woensdag</a> (&quot;Wednesday&quot;), German dialectal <a href="qd::Wodenstag">Wodenstag</a> (&quot;Wednesday&quot;), Danish <a href="qd::onsdag">onsdag</a> (&quot;Wednesday&quot;), Swedish <a href="qd::onsdag">onsdag</a> (&quot;Wednesday&quot;).</li>
 </ul>
 
@@ -6745,10 +6829,12 @@ See also HtmlEntry:pound
 See also HtmlEntry:minute
 ===wiliness===
 See also HtmlEntry:craft
+===without===
+See also HtmlEntry:free
 ***word***
 HtmlEntry: word <<<{{wikipedia|word|dab=word (disambiguation)}}
 <h3>Etymology</h3>
-From lang:enm <a href="qd::word">word</a>, from lang:ang <a href="qd::word">word</a> (&quot;word, speech, sentence, statement, command, order, subject of talk, story, news, report, fame, promise, verb&quot;), from {{proto|Germanic|wurdan|word}}, from {{proto|Indo-European|&#x77;&#x65;&#x72;&#x64;&#x2b0;&#x6f;&#x2d;|word}}. Cognate with lang:sco <a href="qd::word">word</a> (&quot;word&quot;), lang:fy <a href="qd::wurd">wurd</a> (&quot;word&quot;), Dutch <a href="qd::woord">woord</a> (&quot;word&quot;), German <a href="qd::Wort">Wort</a> (&quot;word&quot;), Danish, Norwegian and Swedish <a href="qd::ord">ord</a> (&quot;word&quot;), Icelandic <a href="qd::or%C3%B0">or&eth;</a> (&quot;word&quot;), Latin <a href="qd::verbum">verbum</a> (&quot;word&quot;), Lithuanian <a href="qd::vardas">vardas</a> (&quot;name&quot;), Albanian <a href="qd::urt%C3%AB">urt&euml;</a> (&quot;sage, wise, silent&quot;).
+From lang:enm <a href="qd::word">word</a>, from lang:ang <a href="qd::word">word</a> (&quot;word, speech, sentence, statement, command, order, subject of talk, story, news, report, fame, promise, verb&quot;), from lang:gem-pro {{recons|wurdan|word|lang=gem-pro}}, from lang:ine-pro {{recons|&#x77;&#x65;&#x72;&#x64;&#x2b0;&#x6f;&#x2d;|word|lang=ine-pro}}. Cognate with lang:sco <a href="qd::word">word</a> (&quot;word&quot;), lang:fy <a href="qd::wurd">wurd</a> (&quot;word&quot;), Dutch <a href="qd::woord">woord</a> (&quot;word&quot;), German <a href="qd::Wort">Wort</a> (&quot;word&quot;), Danish, Norwegian and Swedish <a href="qd::ord">ord</a> (&quot;word&quot;), Icelandic <a href="qd::or%C3%B0">or&eth;</a> (&quot;word&quot;), Latin <a href="qd::verbum">verbum</a> (&quot;word&quot;), Lithuanian <a href="qd::vardas">vardas</a> (&quot;name&quot;), Albanian <a href="qd::urt%C3%AB">urt&euml;</a> (&quot;sage, wise, silent&quot;). Etymological twin of <a href="qd::verb">verb</a>.
 <h3>Pronunciation</h3>
 <ul><li> {{a|UK}} IPA: &#x2f;&#x77;&#x25c;&#x2d0;&#x28;&#x279;&#x29;&#x64;&#x2f;</li>
 <li> {{a|US}} {{enPR|w&ucirc;rd}}, IPA: &#x2f;&#x77;&#x25d;&#x64;&#x2f;, {{X-SAMPA|/w3`d/}}</li>
@@ -6767,14 +6853,17 @@ From lang:enm <a href="qd::word">word</a>, from lang:ang <a href="qd::word">word
 </ul>
 </ul>
 <li> {{context|now|_|rare|except in phrases}} Something which has been said; a <a href="qd::comment">comment</a>, <a href="qd::utterance">utterance</a>; <a href="qd::speech">speech</a>. {{defdate|from 10th c.}}</li>
-<ul><li> <b>1611</b>, <em>Bible</em>, Authorized Version, Matthew XXVI.75:</li>
+<ul><li> <b>1499</b>, {{w|John Skelton}}, <em>The Bowge of Court</em>:</li>
+<ul><li> Among all other was wrytten in her trone / In golde letters, this <b>worde</b>, whiche I dyde rede: / <em>Garder le fortune que est mauelz et bone</em>.</li>
+</ul>
+<li> <b>1611</b>, <em>Bible</em>, Authorized Version, Matthew XXVI.75:</li>
 <ul><li> And Peter remembered the <b>word</b> of Jesus, which said unto him, Before the cock crow, thou shalt deny me thrice.</li>
 </ul>
 <li> <b>1945</b>, Sebastian Haffner, <em>The Observer</em>, 1 Apr 1945:</li>
 <ul><li> &quot;The Kaiser laid down his arms at a quarter to twelve. In me, however, they have an opponent who ceases fighting only at five minutes past twelve,&quot; said Hitler some time ago. He has never spoken a truer <b>word</b>.</li>
 </ul>
-<li><b>2011</b>, {{w|David Bellos}}, <em>Is That a Fish in Your Ear?</em>, Penguin 2012, p. 126:</li>
-<ul><li>Despite appearances to the contrary [...] dragomans stuck rigidly to their brief, which was not to translate the Sultan's words, but his <b>word</b>.</li>
+<li> <b>2011</b>, {{w|David Bellos}}, <em>Is That a Fish in Your Ear?</em>, Penguin 2012, p. 126:</li>
+<ul><li> Despite appearances to the contrary [...] dragomans stuck rigidly to their brief, which was not to translate the Sultan's words, but his <b>word</b>.</li>
 </ul>
 </ul>
 <li> A <a href="qd::distinct">distinct</a>  <a href="qd::unit+">unit </a> of language (sounds in speech or written letters) with a particular <a href="qd::meaning">meaning</a>, composed of one or more <a href="qd::morpheme">morpheme</a>s, and also of one or more <a href="qd::phoneme">phoneme</a>s that <a href="qd::determine">determine</a> its sound <a href="qd::pattern">pattern</a>. {{defdate|from 10th c.}}</li>
@@ -6954,7 +7043,7 @@ HtmlEntry: word <<<
 </ul>
 
 <h3>Etymology</h3>
-From {{proto|Germanic|wurdan|lang=ang}}, from {{proto|Indo-European|&#x77;&#x65;&#x72;&#x64;&#x2b0;&#x6f;&#x2d;|word|lang=ang}}, from {{proto|Indo-European|wer-|speak|lang=ang}}; cognate with Old Frisian word, Old Saxon word (Dutch <a href="qd::woord">woord</a>), Old High German <a href="qd::wort">wort</a> (German <a href="qd::Wort">Wort</a>), Old Norse <a href="qd::or%C3%B0">or&eth;</a> (Icelandic <a href="qd::or%C3%B0">or&eth;</a>, Swedish <a href="qd::ord">ord</a>), Gothic <a href="qd::%F0%90%8D%85%F0%90%8C%B0%F0%90%8C%BF%F0%90%8D%82%F0%90%8C%B3">&#x10345;&#xdf45;&#x10330;&#xdf30;&#x1033f;</a> (waurd). The Proto-Indo-European root is also the source of Latin <a href="qd::verbum">verbum</a>, Lithuanian <a href="qd::vardas">vardas</a>, and, more distantly, of Ancient Greek <a href="qd::%CE%B5%E1%BC%B4%CF%81%CF%89">&#x3b5;&#x1f34;&#x3c1;&#x3c9;</a> (&#x65;&#x69;&#x72;&#x14d;, &quot;I say&quot;) and Old Slavonic &#x72;&#x6f;&#x74;&#x69;&#x74;&#x69;&#x20;&#x73;&#x119; (&quot;to swear&quot;) (Russian <a href="qd::%D1%80%D0%BE%D1%82%D0%B8%D1%82%D1%8C%D1%81%D1%8F">&#x440;&#x43e;&#x442;&#x438;&#x442;&#x44c;&#x441;&#x44f;</a> (&#x72;&#x6f;&#x74;&#x69;&#x74;&#x2019;&#x63;&#x6a;&#x61;, &quot;to vow&quot;)).
+From lang:gem-pro {{recons|wurdan|lang=gem-pro}}, from lang:ine-pro {{recons|&#x77;&#x65;&#x72;&#x64;&#x2b0;&#x6f;&#x2d;|word|lang=ine-pro}}, from lang:ine-pro {{recons|wer-|speak|lang=ine-pro}}; cognate with Old Frisian word, Old Saxon word (Dutch <a href="qd::woord">woord</a>), Old High German <a href="qd::wort">wort</a> (German <a href="qd::Wort">Wort</a>), Old Norse <a href="qd::or%C3%B0">or&eth;</a> (Icelandic <a href="qd::or%C3%B0">or&eth;</a>, Swedish <a href="qd::ord">ord</a>), Gothic <a href="qd::%F0%90%8D%85%F0%90%8C%B0%F0%90%8C%BF%F0%90%8D%82%F0%90%8C%B3">&#x10345;&#xdf45;&#x10330;&#xdf30;&#x1033f;</a> (waurd). The Proto-Indo-European root is also the source of Latin <a href="qd::verbum">verbum</a>, Lithuanian <a href="qd::vardas">vardas</a>, and, more distantly, of Ancient Greek <a href="qd::%CE%B5%E1%BC%B4%CF%81%CF%89">&#x3b5;&#x1f34;&#x3c1;&#x3c9;</a> (&#x65;&#x69;&#x72;&#x14d;, &quot;I say&quot;) and Old Slavonic &#x72;&#x6f;&#x74;&#x69;&#x74;&#x69;&#x20;&#x73;&#x119; (&quot;to swear&quot;) (Russian <a href="qd::%D1%80%D0%BE%D1%82%D0%B8%D1%82%D1%8C%D1%81%D1%8F">&#x440;&#x43e;&#x442;&#x438;&#x442;&#x44c;&#x441;&#x44f;</a> (&#x72;&#x6f;&#x74;&#x69;&#x74;&#x2019;&#x63;&#x6a;&#x61;, &quot;to vow&quot;)).
 <h3>Pronunciation</h3>
 <ul><li> {{IPA|/word/|lang=ang}}</li>
 </ul>
@@ -6969,6 +7058,8 @@ From {{proto|Germanic|wurdan|lang=ang}}, from {{proto|Indo-European|&#x77;&#x65;
 </ol>
 ---->>>
 See also HtmlEntry:portmanteau
+===wordbook===
+See also HtmlEntry:dictionary
 ===words===
 See also HtmlEntry:word
 ===workmanship===

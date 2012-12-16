@@ -268,13 +268,10 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
       }
     }
     
-
     public void parse(final File file) throws ParserConfigurationException,
         SAXException, IOException {
       final SAXParser parser = SAXParserFactoryImpl.newInstance().newSAXParser();
       parser.parse(file, this);
     }
-
-    
     
 }

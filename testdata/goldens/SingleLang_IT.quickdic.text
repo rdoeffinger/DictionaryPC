@@ -454,9 +454,9 @@ dal {la} <em><a href="qd::casa">casa</a></em>, ossia <a href="qd::capanna">capan
 <li> <em>tornare a <b>casa</b></em>: usato anche con significato pi&ugrave; ampio, come tornare in patria o nella propria citt&agrave;</li>
 <li> <em>donne per <b>casa</b>, una in figura, l'altra in pittura</em>: se si vuole la pace in casa deve esserci una sola donna</li>
 <li> <em>grosso come una <b>casa</b></em>: qualcosa di notevole, molto evidente</li>
-<ul><li> <em>ha commesso un fallo grosso come una casa</em></li>
+<li> <em>ha commesso un fallo grosso come una casa</em></li>
 <li> <em>gli ha fatto un regalo grosso come una casa</em></li>
-</ul>
+<li><em>Due noci in un sacco e due donne in {pn} fanno un bel fracasso</em></li>
 </ul>
 {{map|ca=casa|cs=&#x64;&#x16f;&#x6d;|it=casa|en=house|london=house|fr=maison|de=Haus|es=casa|fi=koti|hr=&#x6b;&#x75;&#x107;&#x61;|lt=n&atilde;mas|lv=&#x6d;&#x101;&#x6a;&#x61;&#x73;|nl=huis|pl=dom|pt=casa|ru=&#x434;&#x43e;&#x43c;|sr=&#x6b;&#x75;&#x107;&#x61;|sv=hem|tr=ev|bg=&#x43a;&#x44a;&#x449;&#x430;|cy=annedd|da=hus|hu=h&aacute;z|is=h&iacute;b&yacute;li|no=hus|oc=ostal|ro=&#x63;&#x61;&#x73;&#x103;|sk=dom|sl=&#x68;&#x69;&#x161;&#x61;|sq=sht&euml;pi|uk=&#x414;&#x456;&#x43c;|be=&#x414;&#x43e;&#x43c;|et=kodu|el=&#x3c3;&#x3c0;&#x3af;&#x3c4;&#x3b9;|ga=teach}}>>>
 ***cavallo***
@@ -496,7 +496,7 @@ HtmlEntry: cavallo <<<{{-noun-|it}}{{pn| w}} <em>m sing</em> {{tabs|cavallo|cava
 <h4> Etimologia / Derivazione </h4>
 dal <a href="qd::latino">latino</a> <em><a href="qd::caballum">caballum</a></em>
 <h4> Sinonimi </h4>
-<ul><li><em>(est)</em> {{term|eufemismo|it}} <a href="qd::pene">pene</a></li>
+<ul><li>{est} {{term|eufemismo|it}} <a href="qd::pene">pene</a></li>
 </ul>
 
 <h4> Parole derivate </h4>
@@ -587,11 +587,11 @@ HtmlEntry: ceco <<<{{-agg-|it}}{{pn|w}} <em>m sing</em> {{tabs|ceco|cechi|ceca|c
 ***chiudere***
 HtmlEntry: chiudere <<<{{-verb-|it}}{{trans|it}}{{pn|c}} 
 <ol><li> <a href="qd::impedire">impedire</a> un passaggio, <a href="qd::ostruire">ostruire</a> un'entrata</li>
-<li> porre fine a  </li>
+<li> porre fine a qualcosa </li>
 <ul><li><em>{pn} la riunione</em></li>
 </ul>
 </ol>
-{{intr|it}}{pn} 
+{{intr|it}}{{pn|c}} 
 <ol><li>concludere un'<a href="qd::attivit%C3%A0">attivit&agrave;</a></li>
 </ol>
 
@@ -619,7 +619,7 @@ HtmlEntry: chiudere <<<{{-verb-|it}}{{trans|it}}{{pn|c}}
 </ul>
 
 <h4> Parole derivate </h4>
-<ul><li><a href="qd::chiudimento">chiudimento</a></li>
+<ul><li><a href="qd::chiudimento">chiudimento</a>, <a href="qd::socchiudere">socchiudere</a></li>
 </ul>
 <ul><li>{{fonte|trec}}</li>
 <li>{{fonte|gar}}</li>
@@ -830,7 +830,7 @@ HtmlEntry: elettronegatività <<<{{-noun-|it}}{{pn|w}} <em>f inv</em>
 >>>
 ***febbraio***
 HtmlEntry: febbraio <<<{{-noun-|it}}{{pn|w}} <em>m sing</em> <em>(raro)</em> {{linkp|febbrai}}
-<ol><li> secondo mese dell'<a href="qd::anno">anno</a> nel <a href="qd::calendario">calendario</a>  giuliano e in quello gregoriano. Segue <a href="qd::gennaio">gennaio</a> e precede <a href="qd::marzo">marzo</a>. Consta di 28 giorni, o di 29 se l'anno &egrave; <a href="qd::bisestile">bisestile</a></li>
+<ol><li> secondo mese dell'<a href="qd::anno">anno</a> (dapprima nel <a href="qd::calendario">calendario</a>  giuliano e poi quello gregoriano) che segue <a href="qd::gennaio">gennaio</a> e precede <a href="qd::marzo">marzo</a> e che si contraddistingue perch&eacute; &egrave; il pi&ugrave; breve ( 28 giorni, o  29 se l'anno &egrave; <a href="qd::bisestile">bisestile</a>) di tutti gli altri </li>
 </ol>
 
 <h4> Sillabazione </h4>
@@ -840,17 +840,18 @@ HtmlEntry: febbraio <<<{{-noun-|it}}{{pn|w}} <em>m sing</em> <em>(raro)</em> {{l
 <h4> Pronuncia </h4>
 {{IPA|/feb'brajo/}}
 <h4> Etimologia / Derivazione </h4>
-derivante dal <a href="qd::latino">latino</a> <em><a href="qd::Februarius">Februarius</a></em>, derivato da <em><a href="qd::februus">februus</a></em>, <a href="qd::purificante">purificante</a>, dato che presso i Romani era destinato alla <a href="qd::purificazione">purificazione</a>
+derivante dal <a href="qd::latino">latino</a> <em><a href="qd::Februarius">Februarius</a></em>, derivato da <em><a href="qd::februus">februus</a></em> cio&egrave; &quot;<a href="qd::purificante">purificante</a>&quot;, dato che presso i Romani era destinato alla <a href="qd::purificazione">purificazione</a>
 <h4> Termini correlati </h4>
 <ul><li> <a href="qd::anno">anno</a>, <a href="qd::mese">mese</a>, <a href="qd::settimana">settimana</a>, <a href="qd::giorno">giorno</a>, <a href="qd::gennaio">gennaio</a>, <a href="qd::marzo">marzo</a>, <a href="qd::aprile">aprile</a>, <a href="qd::maggio">maggio</a>, <a href="qd::giugno">giugno</a>, <a href="qd::luglio">luglio</a>, <a href="qd::agosto">agosto</a>, <a href="qd::settembre">settembre</a>,<a href="qd::ottobre">ottobre</a>, <a href="qd::novembre">novembre</a>, <a href="qd::dicembre">dicembre</a></li>
 </ul>
 
 <h4> Varianti </h4>
-<ul><li><em>(antico)</em> <em>(regionale)</em> <a href="qd::febbraro">febbraro</a></li>
+<ul><li>{{term|antico}}, {{term|regionale}} <a href="qd::febbraro">febbraro</a></li>
 </ul>
 <ul><li>{{fonte|dizit}}</li>
 <li>{{fonte|hoep}}</li>
 <li>{{fonte|trec}}</li>
+<li>Enciclopedia [http://www.treccani.it/enciclopedia/ricerca/Febbraio/ Treccani]</li>
 <li>{{fonte|eti}}</li>
 <li>{{fonte|sabco}}</li>
 <li>{{fonte|sape}}</li>
@@ -859,7 +860,7 @@ derivante dal <a href="qd::latino">latino</a> <em><a href="qd::Februarius">Febru
 <li>{{fonte|itfd}}</li>
 <li>{{fonte|hoen}}</li>
 </ul>
->>>
+{{map|bg=&#x444;&#x435;&#x432;&#x440;&#x443;&#x430;&#x440;&#x438;|br=c'hwevrer|ca=febrer|cs=&uacute;nor|da=februar|de=Februar|el=&#x3a6;&#x3b5;&#x3b2;&#x3c1;&#x3bf;&#x3c5;&#x3ac;&#x3c1;&#x3b9;&#x3bf;&#x3c2;|en=February|es=febrero|et=veebruar|eu=otsail|fi=helmikuu|fr=f&eacute;vrier|fy=febrewaris|ga=Feabhra|hr=&#x76;&#x65;&#x6c;&#x6a;&#x61;&#x10d;&#x61;|hu=febru&aacute;r|is=febr&uacute;ar|it=febbraio|nap=frevaro|nl=februari|no=februar|oc=febri&egrave;r|pl=luty|pt=fevereiro|ro=februarie|ru=&#x444;&#x435;&#x432;&#x440;&#x430;&#x43b;&#x44c;|scn=frivaru|sk=febru&aacute;r|sq=shkurt|sr=februar|sv=februari|tr=&#x15f;&#x75;&#x62;&#x61;&#x74;}}>>>
 ***gallo***
 HtmlEntry: gallo <<<{{-agg-|it}}{pn} <em>m</em>  {{tabs|gallo|galli|galla|galle}}
 <ol><li> {{term|raro|it}} variante, di <a href="qd::gallico">gallico</a></li>
@@ -867,7 +868,7 @@ HtmlEntry: gallo <<<{{-agg-|it}}{pn} <em>m</em>  {{tabs|gallo|galli|galla|galle}
 <li> {{term|letterario|it}} <a href="qd::francese">francese</a></li>
 </ol>
 {{-noun-|it}}{pn} <em>m</em> {{tabs|gallo|galli|gallina|galline}}
-<ol><li>{{term|zoologia|it}} esemplare maschio della specie <em>Gallus gallus</em>;</li>
+<ol><li>{{term|zoologia|it}} {{term|ornitologia|it}} esemplare maschio della specie <em>Gallus gallus</em>;</li>
 <li>{fig} persona <a href="qd::vanitoso">vanitosa</a> che ama mettersi in mostra, convinta di essere migliore degli altri; <a href="qd::sbruffone">sbruffone</a>;</li>
 </ol>
 {pn} <em>m</em> {{tabs|gallo|galli|galla|galle}}
@@ -888,7 +889,7 @@ dal {la} <em><a href="qd::gallus">gallu(m)</a></em>
 </ul>
 
 <h4> Parole derivate </h4>
-<ul><li><a href="qd::galletticio">galletticio</a>, <a href="qd::Galli">Galli</a>, <a href="qd::gallicinio">gallicinio</a>, <a href="qd::gallina">gallina</a></li>
+<ul><li><a href="qd::galletticio">galletticio</a>, <a href="qd::Galli">Galli</a>, <a href="qd::gallicinio">gallicinio</a>, <a href="qd::gallina">gallina</a>, <a href="qd::gallinaceo">gallinaceo</a>, <a href="qd::gallismo">gallismo</a>, <a href="qd::gallo-romano">gallo-romano</a>, <a href="qd::gallofilia">gallofilia</a></li>
 </ul>
 
 <h4> Termini correlati </h4>
@@ -987,25 +988,22 @@ derivante dal <a href="qd::latino">latino</a> <em>mensis <a href="qd::Januarius"
 <h4> Varianti </h4>
 <ul><li><em>(antico)</em> <a href="qd::gennaro">gennaro</a></li>
 </ul>
-<ul><li>italiano</li>
 <ul><li>{{fonte|trec}}</li>
+<li>Enciclopedia [http://www.treccani.it/enciclopedia/ricerca/Gennaio/ Treccani]</li>
 <li>{{fonte|hoep}}</li>
 <li>{{fonte|dizit}}</li>
 <li>{{fonte|eti}}</li>
 <li>{{Fonte|sabco}}</li>
 <li>{{fonte|sape}}</li>
 <li>{{fonte|gar}}</li>
-</ul>
-<li>inglese</li>
-<ul><li>{{fonte|writen}}</li>
+<li>{{fonte|writen}}</li>
 <li>{{fonte|itfd}}</li>
-<li> {{Fonte|1=Fernando Picchi|2=http://dizionari.hoepli.it/Dizionario_Italiano-Inglese/parola/gennaio.aspx?idD=2&amp;Query=gennaio|3=dizionario italiano-inglese, edizione online}}</li>
-</ul>
+<li>{{fonte|hoen}} </li>
 </ul>
 >>>
 ***giallo***
 HtmlEntry: giallo <<<{{-adjc-|it}}{pn} <em>m sing</em> {{tabs|giallo|gialli|gialla|gialle}}
-<ol><li> di colore intermedio tra il <a href="qd::verde">verde</a>, e l'<a href="qd::arancione">arancione</a></li>
+<ol><li> di colore intermedio tra il <a href="qd::verde">verde</a> e l'<a href="qd::arancione">arancione</a></li>
 <li>{{term| uso letterario}}  appartenente al genere <a href="qd::letterario">letterario</a> detto <em>giallo</em></li>
 </ol>
 {{-noun-|it}}{{pn|w}} <em>m sing</em> {{linkp|gialli}}
@@ -1128,7 +1126,7 @@ dal <a href="qd::latino">latino</a> <em><a href="qd::Iovis+dies">Iovis dies</a><
 <li> {{Fonte|eti}}</li>
 <li> {{Fonte|hoep}}</li>
 <li>{{fonte|trec}}</li>
-<li>{{fonte|sabco}}</li>
+<li>[http://dizionari.corriere.it/dizionario_italiano/G/giovedi.shtml]</li>
 <li>{{fonte|dizit}}</li>
 <li>{{fonte|sape}}</li>
 <li>{{fonte|gar}}</li>
@@ -1255,6 +1253,10 @@ dal <a href="qd::germanico">germanico</a> </em><a href="qd::gr%C4%ABs">&#x67;&#x
 <h4> Sinonimi </h4>
 <ul><li><a href="qd::bigio">bigio</a></li>
 </ul>
+
+<h4> Parole derivate </h4>
+<ul><li><a href="qd::grigio-cemento">grigio-cemento</a></li>
+</ul>
 {-iperon-}
 <ul><li><a href="qd::colore">colore</a></li>
 </ul>
@@ -1353,6 +1355,7 @@ dal <a href="qd::latino">latino</a> <em><a href="qd::Ind%C4%ADcum">&#x49;&#x6e;&
 <li>{{ColoreN|#800080}}</li>
 </ul>
 <ul><li>{{fonte|trec}}</li>
+<li>Enciclopedia [http://www.treccani.it/enciclopedia/ricerca/Indaco/ Treccani]</li>
 <li>{{fonte|eti}}</li>
 <li>{{fonte|hofr}}</li>
 <li>{{fonte|hoes}}</li>
@@ -1362,7 +1365,7 @@ dal <a href="qd::latino">latino</a> <em><a href="qd::Ind%C4%ADcum">&#x49;&#x6e;&
 HtmlEntry: informatica <<<{{-noun-|it}}{{pn|w}} <em>f</em>
 <ol><li>{{term|informatica|it}} <a href="qd::scienza">scienza</a> e <a href="qd::tecnica">tecnica</a> che studia l'<a href="qd::elaborazione">elaborazione</a> automatica di <a href="qd::dati">dati</a> e <a href="qd::calcoli">calcoli</a></li>
 <ul><li><em>Visto il costo contenuto di un personal computer, oggi l'informatica &egrave; entrata in quasi tutte le case</em></li>
-<li><b>ingegneria informatica</b>: ramo dell'<a href="qd::ingegneria">ingegneria</a> che si occupa di progettare e realizzare apparecchi per creare, conservare e scambiare dati</li>
+<li><b>ingegneria informatica</b>: ramo dell'<a href="qd::ingegneria">ingegneria</a> che <a href="qd::progetta">progetta</a> e <a href="qd::realizza">realizza</a> <a href="qd::prodotti">prodotti</a> <a href="qd::elettronici">elettronici</a> per <a href="qd::creare">creare</a>, <a href="qd::conservare">conservare</a> e <a href="qd::scambiare">scambiare</a> dati</li>
 </ul>
 </ol>
 {{-noun form-|it}}{{pn|w}} <em>f</em>
@@ -1400,7 +1403,7 @@ HtmlEntry: inglese <<<{{-adjc-|it}}{pn} <em>m</em> e <em>f sing</em> {{linkp|ing
 dal <a href="qd::francese">francese</a> <a href="qd::antico">antico</a> <em><a href="qd::angleis">angleis</a></em> 
 <h4> Sinonimi </h4>
 <ul><li><a href="qd::anglico">anglico</a>. <a href="qd::britannico">britannico</a>, <a href="qd::britanno">britanno</a></li>
-<li><em>(letterario)</em> <a href="qd::albionico">albionico</a> <a href="qd::britanno">britanno</a> </li>
+<li>{{term|uso letterario}} <a href="qd::albionico">albionico</a> <a href="qd::britanno">britanno</a> </li>
 </ul>
 
 <h4> Varianti </h4>
@@ -1472,7 +1475,7 @@ HtmlEntry: leone <<<{{-noun-|it}}{{pn|w}} <em>m sing</em> {{linkp|leoni}}
 <ol><li> {{term|zoologia|it}} grande <a href="qd::mammifero">mammifero</a> <a href="qd::carnivoro">carnivoro</a> appartenente alla famiglia dei <a href="qd::Felidi">Felidi</a>, con <a href="qd::dimensioni">dimensioni</a> variabili da 170 a 250 cm e <a href="qd::peso">peso</a> variabile da 150 a 225 kg, con <a href="qd::pelliccia">pelliccia</a> di <a href="qd::colore">colore</a> variabile tra il <a href="qd::giallo">giallo</a>, il <a href="qd::rossiccio">rossiccio</a> e l'<a href="qd::ocra">ocra</a>. La <a href="qd::criniera">criniera</a> (che lo distingue dalla <a href="qd::femmina">femmina</a> della specie, la <a href="qd::leonessa">leonessa</a>) varia invece dal <a href="qd::biondo">biondo</a> al <a href="qd::marrone">marrone</a> <a href="qd::scuro">scuro</a>, ed il <a href="qd::ciuffo">ciuffo</a> al termine della <a href="qd::coda">coda</a> &egrave; <a href="qd::nero">nero</a></li>
 <ul><li><em>{{taxon|Panthera leo}}</em></li>
 </ul>
-<li> <a href="qd::simbolo">simbolo</a> di <a href="qd::coraggio">coraggio</a> e <a href="qd::forza">forza</a></li>
+<li> {fig} <a href="qd::simbolo">simbolo</a> di <a href="qd::coraggio">coraggio</a> e <a href="qd::forza">forza</a></li>
 <li> {{term|zoologia|it}} <em>{pn} d'America</em>: il <a href="qd::puma">puma</a></li>
 <li> {{term|zoologia|it}} <em>{pn} marino</em>: nome comune di alcune <a href="qd::specie">specie</a> di <a href="qd::mammiferi">mammiferi</a> appartenenti alla <a href="qd::famiglia">famiglia</a> degli <a href="qd::Otaridi">Otaridi</a></li>
 <li> {{term|zoologia|it}} <em>{pn} marsupiale</em>: genere di <a href="qd::marsupiali">marsupiali</a> oramai estinti</li>
@@ -1519,10 +1522,10 @@ dal <a href="qd::latino">latino</a> <em><a href="qd::leonem">leonem</a></em>
 </ul>
 
 <h4> Varianti </h4>
-<ul><li> <em>(antico), (poetico)</em> <a href="qd::lione">lione</a></li>
+<ul><li>{{term|antico}}, {{term|poesia|it}}  <a href="qd::lione">lione</a></li>
 </ul>
 {-alter-}
-<ul><li> {dim} <a href="qd::leoncello">leoncello</a>, <a href="qd::leoncino">leoncino</a> : il piccolo del leone</li>
+<ul><li>{{term|diminutivo|it}}  <a href="qd::leoncello">leoncello</a>, <a href="qd::leoncino">leoncino</a> : il piccolo del leone</li>
 </ul>
 
 <h4> Proverbi e modi di dire </h4>
@@ -1598,11 +1601,11 @@ HtmlEntry: libero <<<{{-adjc-|it}}{{it-decl-agg4|liber}}{{pn|w}} <em>m sing</em>
 <h4> Etimologia / Derivazione </h4>
 derivato dal latino </em><a href="qd::liber">liber</a><em>
 <h4> Sinonimi </h4>
-<ul><li></em>((chim.)<em> <a href="qd::puro">puro</a></li>
+<ul><li>{{term|chimica|it}} <a href="qd::puro">puro</a></li>
 </ul>
 
 <h4> Antonimi/Contrari </h4>
-<ul><li></em>((chim.)<em> <a href="qd::combinato">combinato</a></li>
+<ul><li>{{term|chimica|it}} <a href="qd::combinato">combinato</a></li>
 </ul>
 
 <h4> Termini correlati </h4>
@@ -1661,7 +1664,22 @@ derivante dal <a href="qd::latino">latino</a> <em><a href="qd::Iulius">Iulius</a
 <h4> Termini correlati </h4>
 <ul><li> <a href="qd::anno">anno</a>, <a href="qd::gennaio">gennaio</a>, <a href="qd::febbraio">febbraio</a>, <a href="qd::marzo">marzo</a>, <a href="qd::aprile">aprile</a>, <a href="qd::maggio">maggio</a>, <a href="qd::giugno">giugno</a>, <a href="qd::agosto">agosto</a>, <a href="qd::settembre">settembre</a>, <a href="qd::ottobre">ottobre</a>, <a href="qd::novembre">novembre</a>, <a href="qd::dicembre">dicembre</a></li>
 </ul>
->>>
+<ul><li>{{fonte|eti}}</li>
+<li>{{fonte|trec}}</li>
+<li>Enciclopedia [http://www.treccani.it/enciclopedia/ricerca/Luglio/ Treccani]</li>
+<li>{{fonte|dizit}}</li>
+<li>{{fonte|hoep}}</li>
+<li>{{fonte|gar}}</li>
+<li>{{fonte|sape}}</li>
+<li>{{Fonte|sabco}}</li>
+<li>{{fonte|zin|991|1997}}</li>
+<li>AA.VV.,<em>Dizionario etimologico</em>, edizione 2004, ristampa 2008, RusconiLibri, p. 586</li>
+<li>Devoto/Oli, <em> Il dizionario della lingua italiana</em>, edizione cartacea 2000-2001, Le Monnier,  p. 1179</li>
+<li>{{fonte|writen}}</li>
+<li>{{fonte|itfd}}</li>
+<li>{{fonte|hoen}} </li>
+</ul>
+{{map|de=Juli|cy=Gorffennaf|en=July|es=julio|fr=juillet|it=luglio|pl=lipiec|pt=julho|ru=&#x438;&#x44e;&#x43b;&#x44c;|be=&#x43b;&#x456;&#x43f;&#x435;&#x43d;&#x44c;|bg=&#x44e;&#x43b;&#x438;|ca=juliol|cs=&#x10d;&#x65;&#x72;&#x76;&#x65;&#x6e;&#x65;&#x63;|da=juli|el=&#x3b9;&#x3bf;&#x3cd;&#x3bb;&#x3b9;&#x3bf;&#x3c2;|fo=juli|fy=haaimoanne|ga=I&uacute;il|hr=srpanj|hu=j&uacute;lius|is=j&uacute;l&iacute;|lb=juli|lt=liepa|lv=&#x6a;&#x16b;&#x6c;&#x69;&#x6a;&#x73;|no=juli|rm=l&uuml;gl|fur=lui|ro=iulie|sc=triulas|scn=giugnettu|sco=Julie|sk=j&uacute;l|sl=julij|sr=juli|sv=juli|tr=temmuz|wa=djulete}}>>>
 ***lunedì***
 HtmlEntry: lunedì <<<{{-noun-|it}}{{pn|w}} <em>m inv</em>
 <ol><li> {{term|giorno|it}} primo <a href="qd::giorno">giorno</a> della <a href="qd::settimana">settimana</a>; segue la <a href="qd::domenica">domenica</a> e precede il <a href="qd::marted%C3%AC">marted&igrave;</a></li>
@@ -1683,7 +1701,7 @@ HtmlEntry: lunedì <<<{{-noun-|it}}{{pn|w}} <em>m inv</em>
 <li>{{fonte|dizit}}</li>
 <li>{{fonte|eti}}</li>
 <li>{{fonte|trec}}</li>
-<li>{{fonte|sabco}}</li>
+<li>[http://dizionari.corriere.it/dizionario_italiano/L/lunedi.shtml]</li>
 <li>{{fonte|writen}}</li>
 <li>{{fonte|itfd}}</li>
 </ul>
@@ -1840,7 +1858,7 @@ HtmlEntry: Marte <<<{{-name-|it}}{{pn|w}} <em>m</em>
 </ul>
 <li> <a href="qd::pianeta">pianeta</a> del <a href="qd::sistema+solare">sistema solare</a>, quarto per distanza dal sole</li>
 </ol>
-{top}
+{-trans-}{top}
 <ul><ul><li>{als}: <a href="qd::Mars">Mars</a></li>
 <li>{nds}: <a href="qd::Mars">Mars</a></li>
 <li>{bg}: <a href="qd::Mapc">Mapc</a></li>
@@ -1913,19 +1931,16 @@ dal {la} <em><a href="qd::Martis+dies">Martis dies</a></em>, giorno di Marte
 <li>{{fonte|sape}}</li>
 <li>{{fonte|eti}}</li>
 <li>{{fonte|trec}}</li>
-<li>{{Fonte|sabco}}</li>
-</ul>
-</ul>
-<ul><li>inglese</li>
-<ul><li>{{fonte|writen}}</li>
+<li>[http://dizionari.corriere.it/dizionario_italiano/M/martedi.shtml]</li>
+<li>{{fonte|writen}}</li>
 <li>{{fonte|itfd}}</li>
 </ul>
 </ul>
-<ul><li> Lombardo</li>
+<ul><li>lombardo</li>
 <ul><li>{{noref|lmo}}</li>
 </ul>
 </ul>
-<a href="qd::Categoria%3AGiorni+della+settimana">Categoria:Giorni della settimana</a>>>>
+{{mappa|bg=&#x432;&#x442;&#x43e;&#x440;&#x43d;&#x438;&#x43a;|br=Meurzh|ca=dimarts|cs=&uacute;ter&yacute;|da=tirsdag|de=Dienstag|el=&#x3a4;&#x3c1;&#x3af;&#x3c4;&#x3b7;|en=Tuesday|es=martes|et=teisip&auml;ev|eu=astearte|fi=tiistai|fo=t&yacute;sdagur|fr=mardi|fy=tiisdei|ga=m&aacute;irt|hr=utorak|hu=kedd|is=&thorn;ri&eth;judagur|it=marted&igrave;|lt=antradienis|lv=otrdiena|nap=marter&igrave;|nl=dinsdag|no=tirsdag|pl=wtorek|pt=ter&ccedil;a-feira|ro=&#x6d;&#x61;&#x72;&#x163;&#x69;|ru=&#x432;&#x442;&#x43e;&#x440;&#x43d;&#x438;&#x43a;|scn=marti|sk=utorok|sl=torek|sq=e mart&euml;|sr=&#x443;&#x442;&#x43e;&#x440;&#x430;&#x43a;|sv=tisdag|tr=&#x73;&#x61;&#x6c;&#x131;}}<a href="qd::Categoria%3AGiorni+della+settimana">Categoria:Giorni della settimana</a>>>>
 ***marzo***
 HtmlEntry: marzo <<<{{-noun-|it}}{{pn|w}} <em>m sing</em>
 <ol><li>il terzo mese dell'<a href="qd::anno">anno</a> nel <a href="qd::calendario">calendario</a>  giuliano e in quello gregoriano; segue <a href="qd::febbraio">febbraio</a> e precede <a href="qd::aprile">aprile</a>; consta di 31 giorni</li>
@@ -1970,7 +1985,7 @@ dal {la} <em><a href="qd::Mercurii+dies">Mercurii dies</a></em>, giorno di Mercu
 <li>{{fonte|trec}}</li>
 <li>{{fonte|gar}}</li>
 <li>{{fonte|sape}}</li>
-<li>{{fonte|sabco}}</li>
+<li>[http://dizionari.corriere.it/dizionario_italiano/M/mercoledi.shtml]</li>
 <li>{{fonte|writen}}</li>
 </ul>
 >>>
@@ -2477,7 +2492,7 @@ HtmlEntry: rosa <<<{{-adj-|it}}{pn}
 <ul><li>{{ColoreN|#FFC0CB|#FFB6C1|#FFC0CB|#FF69b4|#FF1493}}</li>
 </ul>
 </ol>
-<a href="qd::File%3ARosa_chinensis.jpg">Rosa chinensis</a><a href="qd::File%3ARosa_Shinsetsu_1.jpg">Rosa &quot;Shinsetsu&quot;</a><a href="qd::File%3AHeraldique+Rose.svg">(araldica) rosa di <a href="qd::rosso">rosso</a>, <a href="qd::bottonato">bottonata</a> d'<a href="qd::oro">oro</a> e <a href="qd::punteggiato">punteggiata</a> di <a href="qd::verde">verde</a> </a>{{-noun-|it}}{{pn|w|Rosa (botanica)}}&lt;sup&gt;1&lt;/sup&gt; <em>f</em> {{linkp|rose}}
+<a href="qd::File%3ADonna+Mills.jpg">una donna vestita di {pn}</a><a href="qd::File%3ARosa_chinensis.jpg">Rosa chinensis</a><a href="qd::File%3ARosa_Shinsetsu_1.jpg">Rosa &quot;Shinsetsu&quot;</a><a href="qd::File%3AHeraldique+Rose.svg">(araldica) rosa di <a href="qd::rosso">rosso</a>, <a href="qd::bottonato">bottonata</a> d'<a href="qd::oro">oro</a> e <a href="qd::punteggiato">punteggiata</a> di <a href="qd::verde">verde</a> </a>{{-noun-|it}}{{pn|w|Rosa (botanica)}}&lt;sup&gt;1&lt;/sup&gt; <em>f</em> {{linkp|rose}}
 <ol><li>{{term|botanica|it}} <a href="qd::pianta">pianta</a> della <a href="qd::famiglia">famiglia</a> delle <a href="qd::rosacee">rosacee</a></li>
 <li>{{term|botanica|it}} il <a href="qd::fiore">fiore</a> della suddetta pianta</li>
 <li> {fig} <a href="qd::elenco">elenco</a> di <a href="qd::giocatori">giocatori</a> di una <a href="qd::squadra">squadra</a></li>
@@ -2497,7 +2512,7 @@ HtmlEntry: rosa <<<{{-adj-|it}}{pn}
 </ul>
 (<em>voce verbale</em>) <b>r&oacute; | sa</b> 
 <h4> Etimologia / Derivazione </h4>
-<ul><li><em>(aggettivo e sostantivo)</em> dal {la} <em>rosa</em></li>
+<ul><li><em>(aggettivo e sostantivo)</em> dal {la} <em><a href="qd::rosa">rosa</a></em></li>
 <li><em>(voce verbale)</em> da <a href="qd::rodere">rodere</a></li>
 </ul>
 {-iperon-}
@@ -2622,10 +2637,10 @@ HtmlEntry: Saturno <<<{{-name-|it}}{{pn|w}} <em>m</em>
 </ul>
 
 <h4> Etimologia / Derivazione </h4>
-dal  {la} &quot;<a href="qd::sat%C3%BArnus">sat&uacute;rnus</a>&quot;, participio passato di &quot;<a href="qd::serere">serere</a>&quot; cio&egrave;  <a href="qd::seminare">seminare</a>>>>
+dal  {la} <em><a href="qd::Sat%C3%BArnus">Sat&uacute;rnus</a></em>, participio passato di <em><a href="qd::serere">serere</a></em> cio&egrave;  &quot;<a href="qd::seminare">seminare</a>&quot;>>>
 ***scimmia***
 HtmlEntry: scimmia <<<{{-noun-|it}}{{pn|w|Simiiformes}} <em>f sing</em> {{linkp|scimmie}} 
-<ol><li>{{term|zoologia|it}} mammifero dall'aspetto simile a quello dell'uomo, <a href="qd::primate">primate</a></li>
+<ol><li>{{term|zoologia|it}} mammifero dall'aspetto simile a quello dell'uomo</li>
 <li>{fig} persona che imita comportamenti e azioni degli altri</li>
 <li>{{term|gergale|it}} <a href="qd::sbronza">sbronza</a>, <a href="qd::ubriacatura">ubriacatura</a></li>
 <li>{{term|gergale|it}} <a href="qd::tossicodipendenza">tossicodipendenza</a></li>
@@ -2646,9 +2661,14 @@ derivato dal {la} <em><a href="qd::simia">simia</a></em>, derivato di <em><a hre
 <h4> Parole derivate </h4>
 <ul><li><a href="qd::scimmiottare">scimmiottare</a></li>
 </ul>
+
+<h4> Termini correlati </h4>
+<ul><li><a href="qd::primate">primate</a></li>
+</ul>
 {-alter-}
 <ul><li>{{term|diminutivo|it}} <a href="qd::scimmietta">scimmietta</a>, <a href="qd::scimmiettina">scimmiettina</a></li>
-<li>{acr} <a href="qd::scimmiotto">scimmiotto</a> <em>m</em>, <a href="qd::scimmione">scimmione</a> <em>m</em></li>
+<li>{{term|vezzeggiativo|it}} <a href="qd::scimmiotto">scimmiotto</a></li>
+<li>{{term|accrescitivo|it}} <a href="qd::scimmione">scimmione</a> </li>
 </ul>
 <ul><li>{{fonte|gar}}</li>
 <li>{{fonte|trec}}</li>
@@ -2676,7 +2696,7 @@ HtmlEntry: serpente <<<{{-noun-|it}}{{pn|w}} <em>m sing</em> {{linkp|serpenti}}
 <h4> Pronuncia </h4>
 {{IPA|&#x2f;&#x73;&#x65;&#x72;&#x27;&#x70;&#x25b;&#x6e;&#x74;&#x65;&#x2f;}}{{sound|it-serpente.ogg}}
 <h4> Etimologia / Derivazione </h4>
-dal {la} <em><a href="qd::serpens">serpens</a></em> - <em><a href="qd::serpentis">serpentis</a></em>
+dal {la} <em><a href="qd::serpens">serpens</a></em>  participio presente di <em><a href="qd::serp%C4%95re">&#x73;&#x65;&#x72;&#x70;&#x115;&#x72;&#x65;</a></em> cio&egrave; &quot;<a href="qd::strisciare">strisciare</a>&quot;
 <h4> Sinonimi </h4>
 <ul><li> {{term|zoologia|it}} {{term|erpetologia|it}} <a href="qd::rettile">rettile</a>, <a href="qd::serpe">serpe</a>, <a href="qd::angue">angue</a>, <a href="qd::colubro">colubro</a>, <a href="qd::ofide">ofide</a> </li>
 <li> {fig} <a href="qd::ipocrita">ipocrita</a>, <a href="qd::maligno">maligno</a>, <a href="qd::malvagio">malvagio</a>, <a href="qd::infido">infido</a>, <a href="qd::subdolo">subdolo</a>, <a href="qd::biscia">biscia</a>, rettile, serpe, <a href="qd::vipera">vipera</a>, <a href="qd::aspide">aspide</a> </li>
@@ -2714,7 +2734,6 @@ dal {la} <em><a href="qd::serpens">serpens</a></em> - <em><a href="qd::serpentis
 <li>{{fonte|demsc}}</li>
 <li>{{fonte|trec}}</li>
 <li>{{fonte|dizit}}</li>
-<li>{{fonte|wmf|Serpente|4=w}}</li>
 <li> {{term|araldica|it}} <em>Dizionario araldico, di Piero Guelfi Camajani - edito a Milano nel 1940</em></li>
 <li>{{fonte|dizla}}</li>
 <li>{{fonte|writen}}</li>
@@ -2743,19 +2762,15 @@ dal {la} <em><a href="qd::september">september</a></em>, da <em><a href="qd::sep
 <h4> Termini correlati </h4>
 <ul><li> <a href="qd::anno">anno</a>, <a href="qd::giorno">giorno</a>, <a href="qd::gennaio">gennaio</a>, <a href="qd::febbraio">febbraio</a>, <a href="qd::marzo">marzo</a>, <a href="qd::aprile">aprile</a>, <a href="qd::maggio">maggio</a>, <a href="qd::giugno">giugno</a>, <a href="qd::luglio">luglio</a>, <a href="qd::agosto">agosto</a>, <a href="qd::ottobre">ottobre</a>, <a href="qd::novembre">novembre</a>, <a href="qd::dicembre">dicembre</a>, <a href="qd::settimana">settimana</a></li>
 </ul>
-<ul><li>italiano</li>
 <ul><li>{{Fonte|sabco}}</li>
 <li>{{fonte|trec}}</li>
 <li>{{fonte|eti}}</li>
 <li>{{fonte|sape}}</li>
 <li>{{fonte|gar}}</li>
 <li>{{fonte|dizit}}</li>
-</ul>
-<li>inglese</li>
-<ul><li>{{fonte|writen}}</li>
+<li>{{fonte|writen}}</li>
 <li>{{fonte|itfd}}</li>
-<li> {{Fonte|1=Fernando Picchi|2=http://dizionari.hoepli.it/Dizionario_Italiano-Inglese/parola/settembre.aspx?idD=2&amp;Query=settembre|3=dizionario italiano-inglese, edizione online}}</li>
-</ul>
+<li> {{fonte|hoen}}}</li>
 </ul>
 >>>
 ***slovacco***
@@ -2827,6 +2842,7 @@ dal {la} medievale <em><a href="qd::theodiscus">theodiscus</a></em> derivato dal
 </ul>
      
 <ul><li> {{fonte|trec}}</li>
+<li>Enciclopedia [http://www.treccani.it/enciclopedia/ricerca/Tedesco/ Treccani]</li>
 <li>Devoto/Oli, <em> Il dizionario della lingua italiana</em> , edizione cartacea, edizione 2000-2001, Le Monnier, p. 2115</li>
 </ul>
 >>>
@@ -2989,7 +3005,7 @@ dal {la} <em><a href="qd::Veneris+dies">&#x56;&#x65;&#x6e;&#x115;&#x72;&#x69;&#x
 <li>{{fonte|trec}}</li>
 <li>{{fonte|sape}}</li>
 <li>{{fonte|gar}}</li>
-<li>{{Fonte|sabco}}</li>
+<li>[http://dizionari.corriere.it/dizionario_italiano/V/venerdi.shtml]</li>
 <li>{{fonte|desan|V}}</li>
 <li>{{fonte|eti}}</li>
 <li>{{fonte|dizit}}</li>
@@ -3057,8 +3073,14 @@ dal <a href="qd::latino">latino</a> </em><a href="qd::+v%C4%ADr%C4%ADdis">&#x20;
 </ul>
 >>>
 ***vicino***
-HtmlEntry: vicino <<<{{-adjc-|it}}{{pn|q}} <em>m sing</em> {{tabs|vicino|vicina|vicini|vicine}}
+HtmlEntry: vicino <<<{{-adjc-|it}}{{pn|q}} <em>m sing</em> {{tabs|vicino|vicini|vicina|vicine}}
 <ol><li> che &egrave; <a href="qd::poco">poco</a> <a href="qd::distante">distante</a> da un <a href="qd::luogo">luogo</a> o da un <a href="qd::avvenimento">avvenimento</a> </li>
+</ol>
+{{-noun-|it}}{{pn|q}} <em>m sing</em> {{linkp|vicini}}
+<ol><li>colui che abita <a href="qd::accanto">accanto</a>.</li>
+</ol>
+{{-adv-|it}}{pn} 
+<ol><li>a poca <a href="qd::lunghezza">lunghezza</a></li>
 </ol>
 
 <h4> Sillabazione </h4>
@@ -3068,7 +3090,7 @@ HtmlEntry: vicino <<<{{-adjc-|it}}{{pn|q}} <em>m sing</em> {{tabs|vicino|vicina|
 <h4> Pronuncia </h4>
 {{IPA|&#x2f;&#x76;&#x69;&#x27;&#x2a7;&#x69;&#x6e;&#x6f;&#x2f;}}
 <h4> Etimologia / Derivazione </h4>
-dal latino <em><a href="qd::vic%C4%ABnus">&#x76;&#x69;&#x63;&#x12b;&#x6e;&#x75;&#x73;</a></em> (derivazione di <em><a href="qd::vicus">vicus</a></em>) ossia <a href="qd::dello">dello</a> <a href="qd::stesso">stesso</a> <a href="qd::borgo">borgo</a>
+dal latino <em><a href="qd::vic%C4%ABnus">&#x76;&#x69;&#x63;&#x12b;&#x6e;&#x75;&#x73;</a></em> (derivazione di <em><a href="qd::vicus">vicus</a></em>) ossia &quot;<a href="qd::dello">dello</a> <a href="qd::stesso">stesso</a> <a href="qd::borgo">borgo</a>&quot;
 <h4> Sinonimi </h4>
 <ul><li><a href="qd::prossimo">prossimo</a></li>
 </ul>
@@ -3076,24 +3098,13 @@ dal latino <em><a href="qd::vic%C4%ABnus">&#x76;&#x69;&#x63;&#x12b;&#x6e;&#x75;&
 <h4> Antonimi/Contrari </h4>
 <ul><li><a href="qd::lontano">lontano</a></li>
 </ul>
-{{-adv-|it}}{pn} (<em>invariabile</em>)
+
 <h4> Sinonimi </h4>
 <ul><li><a href="qd::accanto">accanto</a>, <a href="qd::a+piccola+distanza">a piccola distanza</a></li>
 </ul>
 
 <h4> Antonimi/Contrari </h4>
 <ul><li><a href="qd::lontano">lontano</a></li>
-</ul>
-{{-noun-|it}}{{pn|q}} <em>m sing</em> {{tabs|vicino|vicina|vicini|vicine}}
-<ol><li>Colui che abita <a href="qd::accanto">accanto</a>.</li>
-</ol>
-
-<h4> Sinonimi </h4>
-<ul><li><a href="qd::accanto+a">accanto a</a></li>
-</ul>
-
-<h4> Termini correlati </h4>
-<ul><li><a href="qd::vicinanza">vicinanza</a>,<a href="qd::vicinato">vicinato</a></li>
 </ul>
 <ul><li>italiano</li>
 <ul><li>{{fonte|sape}}</li>
@@ -3198,30 +3209,23 @@ HtmlEntry: violetto <<<{{-noun-|it}}{pn} <em>m</em> {{term|<a href="qd::colore">
 </ul>
 {)}{{Noetim|it}}>>>
 ***vitalizio***
-HtmlEntry: vitalizio <<<{{-noun-|it}}{pn} <em>m</em> {{linkp|vitalizi}}
-<ol><li> <a href="qd::somma">somma</a> di <a href="qd::denaro">denaro</a> <a href="qd::erogata">erogata</a> <a href="qd::periodicamente">periodicamente</a> a una <a href="qd::persona">persona</a> per l'<a href="qd::intera">intera</a> sua <a href="qd::esistenza">esistenza</a></li>
+HtmlEntry: vitalizio <<<{{-adjc-|it}}{pn} <em> m sing</em>{{tabs|vitalizio|vitalizi|vitalizia|vitalizie}}
+<ol><li>che dura per tutta la vita</li>
+<ul><li><em> carica vitalizia</em></li>
+<li><em> rendita vitalizia</em></li>
+</ul>
+</ol>
+{{-noun-|it}}{pn} <em>m sing</em> {{linkp|vitalizi}}
+<ol><li>{{term|diritto|it}} contratto che rende una persona beneficiaria di una rendita per tutta la vita</li>
 </ol>
 
 <h4> Sillabazione </h4>
 <ul><li> vi | ta | l&igrave; | zio</li>
 </ul>
 
-<h4> Pronuncia </h4>
-{{IPA|/vita'litsjo/}}
 <h4> Etimologia / Derivazione </h4>
-dal {la} <a href="qd::medievale">medievale</a> <em><a href="qd::+vitalicius"> vitalicius</a></em>
-<ul><li>italiano</li>
-<ul><li>{{fonte|dem}}</li>
-<li>{{fonte|dizit}}</li>
-<li>{{fonte|trec}}</li>
-<li>{{fonte|hoep}}</li>
-<li>{{fonte|sape}}</li>
-<li>{{fonte|gar}}</li>
-<li>{{Fonte|sabco}}</li>
-</ul>
-<li>inglese</li>
-<ul><li>{{fonte|writen}}</li>
-</ul>
+{{noetim|it}} 
+<ul><li>{{fonte|sabco}}</li>
 </ul>
 >>>
 ***zebra***

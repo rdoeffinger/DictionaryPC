@@ -209,6 +209,23 @@ HtmlEntry: abrogative <<<
 <ol><li> Feminine plural form of <a href="qd::abrogativo">abrogativo</a></li>
 </ol>
 >>>
+***Abruzzo***
+HtmlEntry: Abruzzo <<<
+<h3>Etymology</h3>
+From the Late or Medieval Latin name of the location, <a href="qd::Aprutium">Aprutium</a>, possibly from <em><a href="qd::Praetutium">Praetutium</a></em>, from the name of the people <em><a href="qd::Praetuti">Praetuti</a></em>.
+<h3>Pronunciation</h3>
+<ul><li> {{rhymes|udzzo}}</li>
+</ul>
+
+<h3>Proper noun</h3>
+{it-proper noun}
+<ol><li> {{l|en|Abruzzo}} (<em>region</em>)</li>
+</ol>
+
+<h4>Related terms</h4>
+<ul><li> {{l|it|Abruzzi}}</li>
+</ul>
+>>>
 ***abusive***
 HtmlEntry: abusive <<<
 <h3>Adjective</h3>
@@ -1016,12 +1033,12 @@ HtmlEntry: algebra <<<
 <h3>Etymology</h3>
 Same as English <em><a href="qd::algebra">algebra</a></em>.
 <h3>Pronunciation</h3>
-<ul><li> IPA: &#x2f;&#x61;&#x6c;&#x2e;&#x2a4;&#x25b;&#x2e;&#x2c8;&#x62;&#x72;&#x61;&#x2f;</li>
+<ul><li> IPA: &#x2f;&#x61;&#x6c;&#x2e;&#x64;&#x361;&#x292;&#x25b;&#x2e;&#x2c8;&#x62;&#x72;&#x61;&#x2f;</li>
 </ul>
 
 <h3>Noun</h3>
 {{it-noun|algebr|f|a|e}}
-<ol><li> <a href="qd::algebra">algebra</a></li>
+<ol><li> {{l|en|algebra}}</li>
 </ol>
 
 <h4>Related terms</h4>
@@ -1154,7 +1171,7 @@ HtmlEntry: Angola <<<
 </ul>
 
 <h3>Proper noun</h3>
-<b>Angola</b> {f}
+{{it-proper noun|g=f}}
 <ol><li> {{l|en|Angola}}</li>
 </ol>
 
@@ -1166,7 +1183,7 @@ HtmlEntry: Angola <<<
 HtmlEntry: Anguilla <<<
 <h3>Proper noun</h3>
 {it-proper noun}
-<ol><li> <a href="qd::Anguilla">Anguilla</a></li>
+<ol><li> {{l|en|Anguilla}}</li>
 </ol>
 >>>
 ***anime***
@@ -1187,6 +1204,8 @@ From Latin <a href="qd::anus">anus</a>.
 ---->>>
 ***Aosta***
 HtmlEntry: Aosta <<<
+<h3>Etymology</h3>
+Ultimately from the Latin name of the location, <a href="qd::Augusta+Praetoria+Salassorum">Augusta Praetoria</a>.
 <h3>Pronunciation</h3>
 <ul><li> {{audio|It-Aosta.ogg|Audio}}</li>
 </ul>
@@ -1375,6 +1394,8 @@ HtmlEntry: Armenia <<<
 See also HtmlEntry:mobile
 ***Ascoli Piceno***
 HtmlEntry: Ascoli Piceno <<<
+<h3>Etymology</h3>
+From Latin <a href="qd::Asculum">Asculum</a>, <a href="qd::Asculum+Picenum">Asculum Picenum</a>.
 <h3>Pronunciation</h3>
 <ul><li> {{audio|It-Ascoli Piceno.ogg|Audio}}</li>
 </ul>
@@ -1464,7 +1485,7 @@ HtmlEntry: Australia <<<
 </ol>
 
 <h4>Derived terms</h4>
-<ul><li> <a href="qd::australiano">australiano</a></li>
+<ul><li> {{l|it|australiano}}</li>
 </ul>
 >>>
 ***Austria***
@@ -1491,6 +1512,8 @@ HtmlEntry: avatar <<<
 >>>
 ***Avellino***
 HtmlEntry: Avellino <<<
+<h3>Etymology</h3>
+From Latin <a href="qd::Abellinum">Abellinum</a>.
 <h3>Pronunciation</h3>
 <ul><li> {{audio|It-Avellino.ogg|Audio}}</li>
 </ul>
@@ -1613,7 +1636,7 @@ HtmlEntry: bancario <<<
 
 <h3>Noun</h3>
 {{it-noun|bancar|m|io|i|f=bancaria}}
-<ol><li> Bank employee</li>
+<ol><li> bank employee</li>
 </ol>
 >>>
 ***Bangkok***
@@ -1792,6 +1815,8 @@ English
 ---->>>
 ***Benevento***
 HtmlEntry: Benevento <<<
+<h3>Etymology</h3>
+From Latin <a href="qd::Beneventum">Beneventum</a>.
 <h3>Pronunciation</h3>
 <ul><li> {{audio|It-Benevento.ogg|Audio}}</li>
 </ul>
@@ -1820,15 +1845,17 @@ HtmlEntry: Benin <<<
 ===benzina===
 See also HtmlEntry:gas
 ***Bergamo***
-HtmlEntry: Bergamo <<<
+HtmlEntry: Bergamo <<<<a href="qd::File%3ABergamo%2C+Lombardy%2C+Italy+-+old+town%2C+citta+alta%2C+centre.jpg">Bergamo</a>
+<h3>Etymology</h3>
+From Latin <a href="qd::Bergomum">Bergomum</a>.
 <h3>Pronunciation</h3>
 <ul><li> {{audio|It-Bergamo.ogg|Audio}}</li>
 </ul>
 
 <h3>Proper noun</h3>
 {{it-proper noun|g=f}}
-<ol><li> {{l|en|Bergamo}} (province)</li>
-<li> {{l|en|Bergamo}} (town)</li>
+<ol><li> <a href="qd::Bergamo">Bergamo</a>, province of Lombardy, Italy.</li>
+<li> Bergamo, town and capital of the province Bergamo.</li>
 </ol>
 
 <h4>Derived terms</h4>
@@ -1874,6 +1901,8 @@ HtmlEntry: bici <<<
 >>>
 ***Biella***
 HtmlEntry: Biella <<<
+<h3>Etymology</h3>
+First appears as <a href="qd::Bugella">Bugella</a> in lang:ML. during the early 9th century.
 <h3>Pronunciation</h3>
 <ul><li> {{audio|It-Biella.ogg|Audio}}</li>
 </ul>
@@ -1950,6 +1979,8 @@ HtmlEntry: Bolivia <<<
 >>>
 ***Bologna***
 HtmlEntry: Bologna <<<
+<h3>Etymology</h3>
+From Latin <a href="qd::Bononia">Bononia</a>.
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x62;&#x6f;&#x2c8;&#x6c;&#x6f;&#x272;&#x272;&#x61;&#x2f;</li>
 <li> {{audio|It-Bologna.ogg|Audio}}</li>
@@ -1967,6 +1998,8 @@ HtmlEntry: Bologna <<<
 >>>
 ***Bolzano***
 HtmlEntry: Bolzano <<<
+<h3>Etymology</h3>
+From Latin <a href="qd::Bauzanum">Bauzanum</a>.
 <h3>Pronunciation</h3>
 <ul><li> {{audio|It-Bolzano.ogg|Audio}}</li>
 </ul>
@@ -2061,11 +2094,12 @@ English
 </ol>
 >>>
 ***Brescia***
-HtmlEntry: Brescia <<<
+HtmlEntry: Brescia <<<<a href="qd::File%3ABrescia_piazzaLoggia.jpg">Brescia</a>
 <h3>Etymology</h3>
-From lang:lmo <a href="qd::Br%C3%A8sa">Br&egrave;sa</a>.
+From lang:lmo <a href="qd::Br%C3%A8sa">Br&egrave;sa</a>, Latin <a href="qd::Brixia">Brixia</a>.
 <h3>Pronunciation</h3>
-<ul><li> {{audio|It-Brescia.ogg|Audio}}</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x62;&#x72;&#x65;&#x283;&#x2d0;&#x61;&#x2f;</li>
+<li> {{audio|It-Brescia.ogg|Audio}}</li>
 </ul>
 
 <h3>Proper noun</h3>
@@ -2076,14 +2110,14 @@ From lang:lmo <a href="qd::Br%C3%A8sa">Br&egrave;sa</a>.
 <h4>Derived terms</h4>
 <ul><li> <a href="qd::bresciano">bresciano</a></li>
 </ul>
->>>
+---->>>
 ***bridge***
 HtmlEntry: bridge <<<
 <h3>Etymology</h3>
 {{borrowing|en|bridge}}.
 <h3>Noun</h3>
 {{head|it|noun}} {m|inv}
-<ol><li> <a href="qd::bridge">bridge</a> (card game)</li>
+<ol><li> {card games} <a href="qd::bridge">bridge</a> (card game)</li>
 </ol>
 
 <h4>Related terms</h4>
@@ -2093,6 +2127,8 @@ HtmlEntry: bridge <<<
 ---->>>
 ***Brindisi***
 HtmlEntry: Brindisi <<<
+<h3>Etymology</h3>
+From Latin <a href="qd::Brundisium">Brundisium</a> &lt; Ancient Greek <a href="qd::Brentesion">Brentesion</a>, from a Messapian <em>Brention</em> (&quot;head of deer&quot;), possibly based on the shape of the port.
 <h3>Pronunciation</h3>
 <ul><li> {{audio|It-Brindisi.ogg|Audio}}</li>
 </ul>
@@ -2108,7 +2144,7 @@ See also HtmlEntry:larva
 ***Brunei***
 HtmlEntry: Brunei <<<
 <h3>Proper noun</h3>
-<b>Brunei</b> {m}
+{{it-proper noun|g=m}}
 <ol><li> {{l|en|Brunei}}</li>
 </ol>
 >>>
@@ -2125,6 +2161,7 @@ See also HtmlEntry:yak
 HtmlEntry: Bulgaria <<<
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x62;&#x75;&#x6c;&#x261;&#x61;&#x2c8;&#x72;&#x69;&#x2e;&#x61;&#x2f;, {{X-SAMPA|/bulga&quot;ri.a/}}</li>
+<li> {{audio|It-Bulgaria.ogg|Audio}}</li>
 </ul>
 
 <h3>Proper noun</h3>
@@ -2139,8 +2176,8 @@ HtmlEntry: Bulgaria <<<
 ***Burkina Faso***
 HtmlEntry: Burkina Faso <<<
 <h3>Proper noun</h3>
-<b><a href="qd::Burkina">Burkina</a> <a href="qd::Faso">Faso</a></b> {m}
-<ol><li> <a href="qd::Burkina+Faso">Burkina Faso</a></li>
+{{it-proper noun|g=m}}
+<ol><li> {{l|en|Burkina Faso}}</li>
 </ol>
 
 <h4>Related terms</h4>
@@ -2226,26 +2263,27 @@ HtmlEntry: cadi <<<
 </ol>
 >>>
 ***Cagliari***
-HtmlEntry: Cagliari <<<
+HtmlEntry: Cagliari <<<<a href="qd::File%3ACagliari_Porto_Zona_Est.jpg">Cagliari</a>
+<h3>Etymology</h3>
+From Latin <a href="qd::Caralis">Caralis</a>, ultimately of lang:phn origin.
 <h3>Pronunciation</h3>
 <ul><li> {{audio|It-Cagliari.ogg|Audio}}</li>
 </ul>
 
 <h3>Proper noun</h3>
 {{it-proper noun|g=f}}
-<ol><li> {{l|en|Cagliari}} (province)</li>
-<li> {{l|en|Cagliari}} (town)</li>
+<ol><li> {{l|en|Cagliari}} (both meanings)</li>
 </ol>
 
 <h4>Derived terms</h4>
 <ul><li> <a href="qd::cagliaritano">cagliaritano</a></li>
 </ul>
->>>
+---->>>
 ***California***
 HtmlEntry: California <<<
 <h3>Proper noun</h3>
 {{it-proper noun|g=f}}
-<ol><li> California</li>
+<ol><li> {{l|en|California}}</li>
 </ol>
 ---->>>
 ***calle***
@@ -2321,6 +2359,8 @@ HtmlEntry: Campania <<<
 >>>
 ***Campobasso***
 HtmlEntry: Campobasso <<<
+<h3>Etymology</h3>
+The original name in lang:ML. was <a href="qd::Campus+Vassorum">Campus Vassorum</a>, indicating the city was a seat of vassals. It later changed to its current form, meaning &quot;low field&quot; (<a href="qd::campo">campo</a> + <a href="qd::basso">basso</a>).
 <h3>Pronunciation</h3>
 <ul><li> {{audio|It-Campobasso.ogg|Audio}}</li>
 </ul>
@@ -2501,7 +2541,7 @@ HtmlEntry: casa <<<rightright
 <h3>Etymology</h3>
 From Latin <a href="qd::casa">casa</a> (&quot;house&quot;).
 <h3>Pronunciation</h3>
-<ul><li> IPA: &#x2f;&#x2c8;&#x6b;&#x61;&#x7a;&#x61;&#x2f;</li>
+<ul><li> IPA: &#x2f;&#x2c8;&#x6b;&#x61;&#x73;&#x61;&#x2f;, &#x2f;&#x2c8;&#x6b;&#x61;&#x7a;&#x61;&#x2f;</li>
 <li> {{audio|It-casa.ogg|audio}}</li>
 </ul>
 
@@ -2601,6 +2641,8 @@ HtmlEntry: cast <<<
 ---->>>
 ***Catania***
 HtmlEntry: Catania <<<
+<h3>Etymology</h3>
+Unknown.
 <h3>Pronunciation</h3>
 <ul><li> {{audio|It-Catania.ogg|Audio}}</li>
 </ul>
@@ -2617,6 +2659,8 @@ HtmlEntry: Catania <<<
 ---->>>
 ***Catanzaro***
 HtmlEntry: Catanzaro <<<
+<h3>Etymology</h3>
+From Latin <a href="qd::Catanciarium">Catanciarium</a>, from the earlier <a href="qd::Catacium">Catacium</a>.
 <h3>Pronunciation</h3>
 <ul><li> {{audio|It-Catanzaro.ogg|Audio}}</li>
 </ul>
@@ -2768,7 +2812,7 @@ HtmlEntry: Chieti <<<
 ***ci***
 HtmlEntry: ci <<<
 <h3>Etymology</h3>
-&lt;small&gt;For the pronoun&lt;/small&gt;&lt;br&gt;From Latin <a href="qd::ecce">ecce</a> (&quot;look&quot;) + <a href="qd::hic">hic</a> (&quot;here&quot;)&lt;small&gt;For the adverb&lt;/small&gt;&lt;br&gt;Latin <a href="qd::ecce">ecce</a> (&quot;look&quot;) + <a href="qd::ibi">ibi</a> (&quot;there&quot;)
+From Latin <a href="qd::ecce">ecce</a> (&quot;look&quot;) + <a href="qd::hic">hic</a> (&quot;here&quot;)
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x74;&#x283;&#x69;&#x2f;, {{X-SAMPA|/tSi/}}</li>
 <li> {{homophones|C}} (name of letter)</li>
@@ -2791,6 +2835,8 @@ HtmlEntry: ci <<<
 <li> <a href="qd::si">si</a></li>
 </ul>
 
+<h3>Etymology 2</h3>
+Latin <a href="qd::ecce">ecce</a> (&quot;look&quot;) + <a href="qd::ibi">ibi</a> (&quot;there&quot;)
 <h3>Adverb</h3>
 {it-adv}
 <ol><li> <a href="qd::here">here</a>, <a href="qd::there">there</a></li>
@@ -2825,7 +2871,7 @@ HtmlEntry: cinque <<<{{cardinalbox|it|4|5|6|quattro|sei|ord=quinto|mult=quintupl
 </ul>
 
 <h3>Etymology</h3>
-From Vulgar Latin <em><a href="qd::cinque">cinque</a></em>, <a href="qd::dissimilation">dissimilation</a> of  Classical Latin <em><a href="qd::quinque">quinque</a></em> &quot;five&quot;.
+From lang:VL. <em>cinque</em>, <a href="qd::dissimilation">dissimilation</a> of  Classical Latin <em><a href="qd::quinque">quinque</a></em> &quot;five&quot;, ultimately from lang:ine-pro {{recons|&#x70;&#xe9;&#x6e;&#x6b;&#x2b7;&#x65;|lang=ine-pro}}.
 <h3>Adjective</h3>
 {{head|it|adjective|g=m|g2=f}} {inv}
 <ol><li> <a href="qd::five">five</a></li>
@@ -3008,6 +3054,7 @@ From Latin <a href="qd::color%2C+coloris">color</a>.
 <h3>Pronunciation</h3>
 <ul><li> col&oacute;re</li>
 <li> IPA: &#x2f;&#x6b;&#x6f;&#x2c8;&#x6c;&#x6f;&#x72;&#x65;&#x2f;</li>
+<li> {{rhymes|ore}}</li>
 </ul>
 
 <h3>Noun</h3>
@@ -3081,6 +3128,8 @@ HtmlEntry: commutative <<<
 >>>
 ***Como***
 HtmlEntry: Como <<<
+<h3>Etymology</h3>
+From Latin <a href="qd::Comum">Comum</a> &lt; <a href="qd::Novum+Comum">Novum Comum</a>.
 <h3>Pronunciation</h3>
 <ul><li> {{audio|It-Como.ogg|Audio}}</li>
 </ul>
@@ -3213,6 +3262,8 @@ HtmlEntry: corrigenda <<<
 ---->>>
 ***Cosenza***
 HtmlEntry: Cosenza <<<
+<h3>Etymology</h3>
+From Latin <a href="qd::Consentia">Consentia</a>, <a href="qd::Cosentia">Cosentia</a>, from <a href="qd::consentia">consentia</a>.
 <h3>Pronunciation</h3>
 <ul><li> {{audio|It-Cosenza.ogg|Audio}}</li>
 </ul>
@@ -3311,6 +3362,8 @@ From English
 >>>
 ***Crotone***
 HtmlEntry: Crotone <<<
+<h3>Etymology</h3>
+Known as <a href="qd::Cotrone">Cotrone</a> from the Middle Ages until 1928, when the name was changed back to one closer to the original Latin name for the town, <a href="qd::Croton">Croton</a> or <a href="qd::Croto">Croto</a>, (genitive <em>Crotonis</em>), ultimately from Ancient Greek <a href="qd::%CE%9A%CF%81%CF%8C%CF%84%CF%89%CE%BD">&#x39a;&#x3c1;&#x3cc;&#x3c4;&#x3c9;&#x3bd;</a> (<em>Kroton</em>). It is still called <a href="qd::Cutroni">Cutroni</a> in the local Sicilian dialect.
 <h3>Pronunciation</h3>
 <ul><li> {{audio|It-Crotone.ogg|Audio}}</li>
 </ul>
@@ -3332,13 +3385,17 @@ HtmlEntry: crude <<<
 See also HtmlEntry:xi
 ***Cuba***
 HtmlEntry: Cuba <<<
+<h3>Pronunciation</h3>
+<ul><li> {{rhymes|uba}}</li>
+</ul>
+
 <h3>Proper noun</h3>
-<b>Cuba</b> {f}
-<ol><li> <a href="qd::Cuba">Cuba</a></li>
+{{it-proper noun|g=f}}
+<ol><li> {{l|en|Cuba}}</li>
 </ol>
 
 <h4>Derived terms</h4>
-<ul><li> <a href="qd::cubano">cubano</a></li>
+<ul><li> {{l|it|cubano}}</li>
 </ul>
 >>>
 ***cube***
@@ -3448,6 +3505,7 @@ From Latin <a href="qd::dare">dare</a>, present active infinitive of <a href="qd
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x5b;&#x2c8;&#x64;&#x61;&#x72;&#x65;&#x5d;</li>
 <li> {{audio|It-dare.ogg|Audio}}</li>
+<li> {{rhymes|are}}</li>
 </ul>
 
 <h3>Verb</h3>
@@ -3796,10 +3854,10 @@ See also HtmlEntry:dare
 ===diate===
 See also HtmlEntry:dare
 ***dice***
-HtmlEntry: dice <<<
+HtmlEntry: dice <<<{rfc}
 <h3>Verb form</h3>
 {{head|it|verb form|infinitive|dire}}
-<ol><li> (<a href="qd::third-person+singular">Third-person singular</a> <a href="qd::present+tense">present tense</a> of <a href="qd::dire">dire</a>) <a href="qd::says">Says</a>.</li>
+<ol><li> (<a href="qd::third-person+singular">Third-person singular</a> <a href="qd::present+tense">present tense</a> of <a href="qd::dire">dire</a>)</li>
 </ol>
 >>>
 ***dici nove***
@@ -3812,7 +3870,7 @@ HtmlEntry: dici nove <<<
 ***dieci***
 HtmlEntry: dieci <<<{{cardinalbox|it|9|10|11|nove|undici|ord=decimo|mult=decuplo}}
 <h3>Etymology</h3>
-From Latin <a href="qd::decem">decem</a>.
+From Latin <a href="qd::decem">decem</a>, ultimately from lang:ine-pro {{recons|&#x64;&#xe9;&#x1e31;&#x6d;&#x325;&#x74;|ten|lang=ine-pro}}.
 <h3>Pronunciation</h3>
 &#x64;&#x69;&#xe8;&#x63;&#x69;&#x2c;&#x20;&#x2f;&#x2c8;&#x64;&#x6a;&#x25b;&#x74;&#x283;&#x69;&#x2f;&#x2c;&#x20;&#x2f;&#x3c;&#x74;&#x74;&#x3e;&#x22;&#x64;&#x6a;&#x45;&#x74;&#x53;&#x69;&#x3c;&#x2f;&#x74;&#x74;&#x3e;&#x2f;
 <h3>Adjective</h3>
@@ -3951,6 +4009,10 @@ HtmlEntry: do <<<{{rfc|is d&ograve; alternative spelling for both verb and noun?
 <ul><li> <a href="qd::d%C3%B2">d&ograve;</a></li>
 </ul>
 
+<h3>Pronunciation</h3>
+<ul><li> {{rhymes|&#x254;}}</li>
+</ul>
+
 <h3>Verb</h3>
 {{head|it|verb form}}
 <ol><li> {{form of|first-person singular indicative present tense|dare}}</li>
@@ -4057,7 +4119,7 @@ HtmlEntry: due <<<
 </ul>
 
 <h3>Etymology</h3>
-From Latin <em><a href="qd::duo">duo</a></em>.{{cardinalbox|it|1|2|3|uno|tre|ord=secondo|mult=doppio}}
+From Latin <em><a href="qd::duo">duo</a></em>, ultimately from lang:ine-pro {{recons|&#x64;&#x77;&#xf3;&#x68;&#x2081;|lang=ine-pro}}.{{cardinalbox|it|1|2|3|uno|tre|ord=secondo|mult=doppio}}
 <h3>Adjective</h3>
 {{head|it|adjective|g=m|g2=f}} {inv}
 <ol><li> <a href="qd::two">two</a></li>
@@ -4152,6 +4214,8 @@ HtmlEntry: else <<<
 >>>
 ***Emilia-Romagna***
 HtmlEntry: Emilia-Romagna <<<
+<h3>Etymology</h3>
+From the former regions <a href="qd::Emilia">Emilia</a> and <a href="qd::Romagna">Romagna</a>, from Latin <a href="qd::%28via%29+Aemilia">Aemilia</a>, the Roman road connecting Rome to northern Italy, named after the consul Marcus Aemilius Lepidus, and Romania, the name of the Eastern Roman Empire applied to Ravenna by the Lombards after the fall of the Western Empire and in the days when Ravenna was a city of the east.
 <h3>Pronunciation</h3>
 <ul><li> Em&igrave;lia-Romagna, IPA: &#x2f;&#x65;&#x2c8;&#x6d;&#x69;&#x6c;&#x6a;&#x61;&#x20;&#x72;&#x6f;&#x2c8;&#x6d;&#x61;&#x272;&#x272;&#x61;&#x2f;, {{X-SAMPA|/e&quot;milja ro&quot;maJJa/}}</li>
 </ul>
@@ -4306,6 +4370,8 @@ HtmlEntry: emulate <<<
 >>>
 ***Enna***
 HtmlEntry: Enna <<<
+<h3>Etymology</h3>
+From Latin <a href="qd::Henna">Henna</a> or <a href="qd::Haenna">Haenna</a>, of obscure origin. Originally known as <a href="qd::Castro+Giovanni">Castro Giovanni</a> from the local Sicilian <a href="qd::Castrugiuvanni">Castrugiuvanni</a>, from the Arabic name for it, <em>Qas'r Ianni</em> (&quot;Fort of John&quot;), actually a corruption of Latin <em><a href="qd::castrum">castrum</a></em> (&quot;fort&quot;) and <em>Henna</em>. The name was changed in 1927 under Mussolini.
 <h3>Pronunciation</h3>
 <ul><li> {{audio|It-Enna.ogg|Audio}}</li>
 </ul>
@@ -4381,6 +4447,10 @@ HtmlEntry: errata <<<
 >>>
 ***escudo***
 HtmlEntry: escudo <<<
+<h3>Pronunciation</h3>
+<ul><li> {{rhymes|udo}}</li>
+</ul>
+
 <h3>Noun</h3>
 {{it-noun|escud|m|o|i}}
 <ol><li> <a href="qd::escudo">escudo</a> (all senses)</li>
@@ -4458,6 +4528,15 @@ HtmlEntry: Estonia <<<
 <ul><li> <a href="qd::estone">estone</a></li>
 </ul>
 >>>
+***et***
+HtmlEntry: et <<<
+<h3>Etymology</h3>
+From Latin <a href="qd::et">et</a> (&quot;and; plus&quot;).
+<h3>Conjunction</h3>
+{{head|it|conjunction}}
+<ol><li> {{archaic|poetic}} {{alternative form of|e}}</li>
+</ol>
+---->>>
 ***eta***
 HtmlEntry: eta <<<
 <h3>Noun</h3>
@@ -4493,6 +4572,7 @@ HtmlEntry: fa <<<
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x5b;&#x2c8;&#x66;&#x61;&#x5d;, {{X-SAMPA|/&quot;fa/}}</li>
 <li> {{hyphenation|f&agrave;}}</li>
+<li> {{rhymes|a}}</li>
 </ul>
 
 <h3>Adverb</h3>
@@ -4662,6 +4742,8 @@ HtmlEntry: Florida <<<
 ---->>>
 ***Foggia***
 HtmlEntry: Foggia <<<
+<h3>Etymology</h3>
+From Latin <a href="qd::Fodia">Fodia</a>, later form of <a href="qd::Fovea">Fovea</a>.
 <h3>Pronunciation</h3>
 <ul><li> {{audio|It-Foggia.ogg|Audio}}</li>
 </ul>
@@ -4767,7 +4849,7 @@ HtmlEntry: fulminate <<<
 <li> {{conjugation of|fulminare|2|p|imp}}</li>
 <li> {{form of|<a href="qd::feminine">Feminine</a> plural|fulminato}}</li>
 </ol>
->>>
+---->>>
 ===fummo===
 See also HtmlEntry:essere
 ===furono===
@@ -4818,6 +4900,10 @@ HtmlEntry: gaffe <<<
 HtmlEntry: gallo <<<
 <h3>Etymology</h3>
 From Latin <em><a href="qd::gallus">gallus</a></em>, &quot;rooster&quot;
+<h3>Pronunciation</h3>
+<ul><li> {{rhymes|allo}}</li>
+</ul>
+
 <h3>Noun</h3>
 {{it-noun|gall|m|o|i}} (<em>feminine</em>: <a href="qd::gallina">gallina</a>)
 <ol><li> <a href="qd::rooster">rooster</a>, <a href="qd::cock">cock</a></li>
@@ -4930,8 +5016,8 @@ HtmlEntry: Georgia <<<
 ***Ghana***
 HtmlEntry: Ghana <<<
 <h3>Proper noun</h3>
-{{head|it|proper noun|g=f}}
-<ol><li> <a href="qd::Ghana">Ghana</a></li>
+{{it-proper noun|g=f}}
+<ol><li> {{l|en|Ghana}}</li>
 </ol>
 
 <h4>Derived terms</h4>
@@ -5105,22 +5191,6 @@ HtmlEntry: Grenada <<<
 <ul><li> <a href="qd::grenadino">grenadino</a></li>
 </ul>
 >>>
-***Grosseto***
-HtmlEntry: Grosseto <<<
-<h3>Pronunciation</h3>
-<ul><li> {{audio|It-Grosseto.ogg|Audio}}</li>
-</ul>
-
-<h3>Proper noun</h3>
-{{it-proper noun|g=f}}
-<ol><li> <a href="qd::Grosseto">Grosseto</a> (<em>province</em>)</li>
-<li> <a href="qd::Grosseto">Grosseto</a> (<em>town</em>)</li>
-</ol>
-
-<h4>Derived terms</h4>
-<ul><li> <a href="qd::grossetano">grossetano</a></li>
-</ul>
->>>
 ***guanaco***
 HtmlEntry: guanaco <<<
 <h3>Noun</h3>
@@ -5149,7 +5219,7 @@ HtmlEntry: Guernsey <<<
 ***guerra***
 HtmlEntry: guerra <<<
 <h3>Etymology</h3>
-From lang:roa-oit <a href="qd::guerra">guerra</a>, from lang:LL. {{recons|werra|lang=LL.}}, {{recons|guerra|lang=LL.}}, from lang:frk {{recons|werra|werra|riot, disturbance, quarrel|lang=frk|sc=Latn}} from {{proto|Germanic|&#x77;&#x65;&#x72;&#x72;&#x14d;|confusion, disarray}}, from {{proto|Indo-European|wers-|to mix up, confuse, beat, thresh}}. Related to lang:goh <a href="qd::werra">werra</a> (&quot;confusion, strife, quarrel&quot;) (German <a href="qd::verwirren">verwirren</a> (&quot;to confuse&quot;)), lang:osx <a href="qd::werran">werran</a> (&quot;to confuse, perplex&quot;), Dutch <a href="qd::war">war</a> (&quot;confusion, disarray&quot;), lang:ang <a href="qd::wyrsa%2C+wiersa">wyrsa</a>. More at {{l|en|worse}}, {{l|en|wurst}}.
+From lang:roa-oit <a href="qd::guerra">guerra</a>, from lang:LL. {{recons|werra|lang=LL.}}, {{recons|guerra|lang=LL.}}, from lang:frk {{recons|werra|werra|riot, disturbance, quarrel|lang=frk|sc=Latn}} from lang:gem-pro {{recons|&#x77;&#x65;&#x72;&#x72;&#x14d;|confusion, disarray|lang=gem-pro}}, from lang:ine-pro {{recons|wers-|to mix up, confuse, beat, thresh|lang=ine-pro}}. Related to lang:goh <a href="qd::werra">werra</a> (&quot;confusion, strife, quarrel&quot;) (German <a href="qd::verwirren">verwirren</a> (&quot;to confuse&quot;)), lang:osx <a href="qd::werran">werran</a> (&quot;to confuse, perplex&quot;), Dutch <a href="qd::war">war</a> (&quot;confusion, disarray&quot;), lang:ang <a href="qd::wyrsa%2C+wiersa">wyrsa</a>. More at {{l|en|worse}}, {{l|en|wurst}}.
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x2c8;&#x261;&#x77;&#x25b;&#x72;&#x2e;&#x72;&#x61;&#x2f;, {{X-SAMPA|/&quot;gwEr.ra/}}</li>
 <li> {{audio|It-la guerra.ogg|Audio}}</li>
@@ -5305,6 +5375,7 @@ See also HtmlEntry:metal
 HtmlEntry: ho <<<
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x254;&#x2f;, {{X-SAMPA|/O/}}</li>
+<li> {{rhymes|&#x254;}}</li>
 </ul>
 
 <h3>Verb</h3>
@@ -5588,8 +5659,8 @@ HtmlEntry: intuitive <<<
 ***invertebrate***
 HtmlEntry: invertebrate <<<
 <h3>Adjective</h3>
-<b>invertebrate</b> {p}
-<ol><li> {{feminine of|invertebrato#Adjective|invertebrato}}</li>
+<b>invertebrate</b> {f|p}
+<ol><li> {{feminine of|invertebrato}}</li>
 </ol>
 >>>
 ***investigate***
@@ -5756,7 +5827,7 @@ From Malay <a href="qd::Kuala+Lumpur">Kuala Lumpur</a>.
 HtmlEntry: Kuwait <<<
 <h3>Proper noun</h3>
 {{it-proper noun|g=m}}
-<ol><li> <a href="qd::Kuwait">Kuwait</a></li>
+<ol><li> {{l|en|Kuwait}}</li>
 </ol>
 
 <h4>Derived terms</h4>
@@ -5772,6 +5843,10 @@ HtmlEntry: l <<<
 ---->>>
 ***la***
 HtmlEntry: la <<<
+<h3>Pronunciation</h3>
+<ul><li> {{rhymes|a}}</li>
+</ul>
+
 <h3>Etymology 1</h3>
 From Latin <em><a href="qd::illa">illa</a></em>, female form of <a href="qd::ille">ille</a>.&lt;ref&gt;{{reference-book| last = Patota | first = Giuseppe | title = Lineamenti di grammatica storica dell'italiano | year = 2002 | publisher = il Mulino | location = Bologna | language = Italian | id = ISBN 88-15-08638-2 | pages = p. 127 | chapter = }}&lt;/ref&gt;
 <h4>Article</h4>
@@ -5991,7 +6066,7 @@ HtmlEntry: lente <<<
 Inflected form of <a href="qd::lento">lento</a>.
 <h4>Adjective</h4>
 {{head|it|adjective form}} {f}{p}
-<ol><li> (<em>feminine plural form of <a href="qd::lento">lento</a></em>) <a href="qd::slow">slow</a></li>
+<ol><li> {{context|feminine plural form of <a href="qd::lento">lento</a>}} <a href="qd::slow">slow</a></li>
 </ol>
 
 <h3>Etymology 2</h3>
@@ -6167,7 +6242,7 @@ HtmlEntry: Liguria <<<
 {{it-proper noun|g=f}}
 <ol><li> {{l|en|Liguria}}</li>
 </ol>
->>>
+---->>>
 ***limo***
 HtmlEntry: limo <<<
 <h3>Etymology</h3>
@@ -6475,8 +6550,8 @@ From Latin <a href="qd::male">male</a>.
 ***Mali***
 HtmlEntry: Mali <<<
 <h3>Proper noun</h3>
-<b>Mali</b> {m}
-<ol><li> <a href="qd::Mali">Mali</a></li>
+{{it-proper noun|g=m}}
+<ol><li> {{l|en|Mali}}</li>
 </ol>
 
 <h4>Derived terms</h4>
@@ -6539,7 +6614,7 @@ From Latin <a href="qd::mania">mania</a>.
 HtmlEntry: Manila <<<
 <h3>Proper noun</h3>
 {{it-proper noun|g=f}}
-<ol><li> Manila</li>
+<ol><li> {{l|en|Manila}}</li>
 </ol>
 >>>
 ***Marche***
@@ -6561,6 +6636,7 @@ From Latin <a href="qd::mare">mare</a>.
 <ul><li> IPA: &#x5b;&#x2c8;&#x6d;&#x61;&#x72;&#x65;&#x5d;</li>
 <li> {{audio|It-il mare.ogg|Audio}}</li>
 <li> {{audio|It-mare.ogg|Audio}}</li>
+<li> {{rhymes|are}}</li>
 </ul>
 
 <h3>Noun</h3>
@@ -6636,6 +6712,7 @@ HtmlEntry: me <<<
 From Latin <a href="qd::m%C4%93">me</a>.
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x6d;&#x25b;&#x2f;, {{X-SAMPA|/mE/}}</li>
+<li> {{rhymes|e}}</li>
 </ul>
 
 <h3>Pronoun</h3>
@@ -6690,6 +6767,10 @@ HtmlEntry: men <<<
 ---->>>
 ***menu***
 HtmlEntry: menu <<<
+<h3>Pronunciation</h3>
+<ul><li> {{rhymes|u}}</li>
+</ul>
+
 <h3>Noun</h3>
 {{head|it|noun|g=m}} {inv}
 <ol><li> {{l|en|menu}}</li>
@@ -6990,6 +7071,10 @@ HtmlEntry: mozzarella <<<
 >>>
 ***mu***
 HtmlEntry: mu <<<
+<h3>Pronunciation</h3>
+<ul><li> {{rhymes|u}}</li>
+</ul>
+
 <h3>Noun</h3>
 {{head|it|noun|g=m|g2=f}} {inv}
 <ol><li> The name of the letter <a href="qd::M">M</a></li>
@@ -7128,6 +7213,10 @@ HtmlEntry: Nauru <<<
 ---->>>
 ***ne***
 HtmlEntry: ne <<<
+<h3>Pronunciation</h3>
+<ul><li> {{rhymes|e}}</li>
+</ul>
+
 <h3>Adverb</h3>
 {it-adv}
 <ol><li> from <a href="qd::there">there</a></li>
@@ -7293,6 +7382,7 @@ HtmlEntry: noi <<<
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x5b;&#x2c8;&#x6e;&#x6f;&#x69;&#x5d;</li>
 <li> {{audio|It-noi.ogg|Audio}}</li>
+<li> {{rhymes|oi}}</li>
 </ul>
 
 <h3>Etymology</h3>
@@ -7334,7 +7424,7 @@ From Latin <a href="qd::n%C5%8Dn">non</a>.
 </ul>
 
 <h3>Adverb</h3>
-<b>non</b>
+{it-adv}
 <ol><li> <a href="qd::not">not</a></li>
 <li> <a href="qd::un-">un-</a></li>
 </ol>
@@ -7365,6 +7455,8 @@ HtmlEntry: note <<<
 >>>
 ***Novara***
 HtmlEntry: Novara <<<
+<h3>Etymology</h3>
+From Latin <a href="qd::Novaria">Novaria</a>.
 <h3>Pronunciation</h3>
 <ul><li> {{audio|It-Novara.ogg|Audio}}</li>
 </ul>
@@ -7378,7 +7470,7 @@ HtmlEntry: Novara <<<
 ***nove***
 HtmlEntry: nove <<<{{cardinalbox|it|8|9|10|otto|dieci|ord=nono}}
 <h3>Etymology</h3>
-From Latin <em><a href="qd::novem">novem</a></em>.
+From Latin <em><a href="qd::novem">novem</a></em>, ultimately from lang:ine-pro {{recons|&#x68;&#x2081;&#x6e;&#xe9;&#x77;&#x6e;&#x325;|lang=ine-pro}}.
 <h3>Adjective</h3>
 {{head|it|adjective|g=m|g2=f}} {inv}
 <ol><li> <a href="qd::nine">nine</a></li>
@@ -7408,6 +7500,10 @@ From Latin <em><a href="qd::novem">novem</a></em>.
 ---->>>
 ***nu***
 HtmlEntry: nu <<<
+<h3>Pronunciation</h3>
+<ul><li> {{rhymes|u}}</li>
+</ul>
+
 <h3>Noun</h3>
 {{head|it|noun|g=m|g2=f}} {inv}
 <ol><li> The name of the letter <a href="qd::N">N</a></li>
@@ -7637,7 +7733,7 @@ HtmlEntry: osteo- <<<
 ***otto***
 HtmlEntry: otto <<<{{cardinalbox|it|7|8|9|sette|nove|ord=ottavo}}
 <h3>Etymology</h3>
-From Latin <a href="qd::octo">octo</a>.
+From Latin <a href="qd::oct%C5%8D">octo</a>, from lang:ine-pro {{recons|&#x6f;&#x1e31;&#x74;&#x1e53;&#x77;|lang=ine-pro}}.
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x2f;&#x2c8;&#x254;&#x74;&#x2e;&#x74;&#x6f;&#x2f;, {{X-SAMPA|/&quot;Ot.to/}}</li>
 </ul>
@@ -7706,6 +7802,8 @@ HtmlEntry: Palau <<<
 ---->>>
 ***Palermo***
 HtmlEntry: Palermo <<<
+<h3>Etymology</h3>
+Ultimately from Ancient Greek <a href="qd::%CE%A0%CE%AC%CE%BD%CE%BF%CF%81%CE%BC%CE%BF%CF%82">&#x3a0;&#x3ac;&#x3bd;&#x3bf;&#x3c1;&#x3bc;&#x3bf;&#x3c2;</a> (<em>Panormos</em>) &gt; Latin <a href="qd::Panormus">Panormus</a>. Cf. the Arabic name for it, <a href="qd::%D8%A8%D9%8E%D9%84%D9%8E%D8%B1%D9%92%D9%85%E2%80%8E">&#x628;&#x64e;&#x644;&#x64e;&#x631;&#x652;&#x645;&#x200e;</a> (<em>Balarm</em>).
 <h3>Pronunciation</h3>
 <ul><li> {{audio|It-Palermo.ogg|Audio}}</li>
 </ul>
@@ -7910,7 +8008,7 @@ HtmlEntry: pesce <<<
 </ul>
 
 <h3>Etymology</h3>
-From Latin <em><a href="qd::piscis">piscis</a></em>, <em>piscem</em>.
+From Latin <a href="qd::piscis">piscis</a>, <a href="qd::piscem">piscem</a>.
 <h3>Noun</h3>
 {{it-noun|pesc|m|e|i}}
 <ol><li> <a href="qd::fish">fish</a></li>
@@ -7943,7 +8041,7 @@ From Latin <em><a href="qd::piscis">piscis</a></em>, <em>piscem</em>.
 <li> <a href="qd::ittico">ittico</a></li>
 <li> <a href="qd::ittio-">ittio-</a></li>
 </ul>
-<a href="qd::Category%3Ait%3AFish">*</a>>>>
+<a href="qd::Category%3Ait%3AFish">*</a>---->>>
 ***peso***
 HtmlEntry: peso <<<
 <h3>Etymology</h3>
@@ -8301,6 +8399,8 @@ HtmlEntry: pula <<<
 >>>
 ***pupa***
 HtmlEntry: pupa <<<
+<h3>Etymology</h3>
+From Latin <a href="qd::pupa">pupa</a>.
 <h3>Noun</h3>
 {{it-noun|pup|f|a|e}}
 <ol><li> <a href="qd::doll">doll</a> (child's toy)</li>
@@ -8363,6 +8463,7 @@ HtmlEntry: qua <<<
 <h3>Pronunciation</h3>
 <ul><li> IPA: /kwa/</li>
 <li> {{audio|It-qua.ogg|Audio}}</li>
+<li> {{rhymes|a}}</li>
 </ul>
 
 <h3>Adverb</h3>
@@ -8430,7 +8531,7 @@ From Latin <a href="qd::quattuordecim">quattuordecim</a>.
 ***quattro***
 HtmlEntry: quattro <<<{{cardinalbox|it|3|4|5|tre|cinque|ord=quarto|mult=quadruplo}}
 <h3>Etymology</h3>
-From Latin <em><a href="qd::quattuor">quattuor</a></em>.
+From Latin <em><a href="qd::quattuor">quattuor</a></em>, from lang:ine-pro {{recons|&#x6b;&#x2b7;&#x65;&#x74;&#x77;&#xf3;&#x72;&#x65;&#x73;|lang=ine-pro}}.
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x5b;&#x2c8;&#x6b;&#x77;&#x61;&#x74;&#x74;&#x72;&#x6f;&#x5d;</li>
 </ul>
@@ -8632,11 +8733,12 @@ HtmlEntry: rate <<<
 ***re***
 HtmlEntry: re <<<
 <h3>Etymology 1</h3>
-From Latin <a href="qd::rex">rex</a>
+From Latin <a href="qd::r%C4%93x">rex</a>, <em>regem</em>, from lang:ine-pro {{recons|&#x68;&#x2083;&#x72;&#x1e17;&#x1f5;&#x73;|lang=ine-pro}}.
 <h4>Pronunciation</h4>
 <ul><li> r&eacute;, IPA: /re/, {{X-SAMPA|/re/}}</li>
 <li> {{audio|It-il re.ogg|Audio}}</li>
 <li> {{hyphenation|re}}</li>
+<li> {{rhymes|e}}</li>
 </ul>
 
 <h4>Noun</h4>
@@ -8676,7 +8778,7 @@ HtmlEntry: recuperate <<<
 ***regime***
 HtmlEntry: regime <<<
 <h3>Etymology</h3>
-Probably borrowed from Latin <em><a href="qd::regimen">regimen</a>, regiminis</em>.
+From Latin <a href="qd::regimen">regimen</a>.
 <h3>Noun</h3>
 {{it-noun|regim|m|e|i}}
 <ol><li> regime, <a href="qd::r%C3%A9gime">r&eacute;gime</a></li>
@@ -8697,7 +8799,8 @@ HtmlEntry: regina <<<
 From Latin <a href="qd::r%C4%93g%C4%ABna">regina</a>; compare Spanish <em><a href="qd::reina">reina</a></em>.
 <h3>Noun</h3>
 {{it-noun|regin|f|a|e}}
-<ol><li> <a href="qd::queen">queen</a> (<em>monarch, male homosexual</em>)</li>
+<ol><li> <a href="qd::queen">queen</a> (monarch)</li>
+<li> <a href="qd::queen">queen</a> (male homosexual)</li>
 <li> {chess} <a href="qd::queen">queen</a></li>
 </ol>
 
@@ -8926,7 +9029,7 @@ HtmlEntry: sale <<<
 </ul>
 
 <h3>Etymology 1</h3>
-From Latin <a href="qd::sal">sal</a> (&quot;salt&quot;)
+From Latin <a href="qd::s%C4%81l%2C+salem">sal</a> (&quot;salt&quot;), ultimately from lang:ine-pro {{recons|&#x73;&#x65;&#x68;&#x2082;&#x6c;&#x2d;|lang=ine-pro}}.
 <h4>Noun</h4>
 {{it-noun|sal|m|e|i}}
 <ol><li> <a href="qd::salt">salt</a>, <a href="qd::sal">sal</a></li>
@@ -9073,6 +9176,7 @@ HtmlEntry: scalene <<<
 HtmlEntry: se <<<
 <h3>Pronunciation</h3>
 <ul><li> IPA: [se]</li>
+<li> {{rhymes|e}}</li>
 </ul>
 
 <h3>Etymology 1</h3>
@@ -9197,7 +9301,7 @@ HtmlEntry: sei <<<{{cardinalbox|it|5|6|7|cinque|sette|ord=sesto|mult=sestuplo}}
 </ul>
 
 <h3>Etymology</h3>
-From Latin <a href="qd::sex">sex</a>.
+From Latin <a href="qd::sex">sex</a>, from lang:ine-pro {{recons|&#x73;&#x77;&#xe9;&#x1e31;&#x73;|lang=ine-pro}}.
 <h3>Adjective</h3>
 {{head|it|adjective|g=m|g2=f}} {inv}
 <ol><li> <a href="qd::six">six</a></li>
@@ -9301,7 +9405,7 @@ English
 ***sette***
 HtmlEntry: sette <<<{{cardinalbox|it|6|7|8|sei|otto|ord=settimo|mult=settuplo}}
 <h3>Etymology</h3>
-From Latin <em><a href="qd::septem">septem</a></em>.
+From Latin <em><a href="qd::septem">septem</a></em>, from lang:ine-pro {{recons|&#x73;&#x65;&#x70;&#x74;&#x1e3f;&#x325;|lang=ine-pro}}.
 <h3>Adjective</h3>
 {{head|it|adjective|g=m|g2=f}} {inv}
 <ol><li> <a href="qd::seven">seven</a></li>
@@ -9525,6 +9629,10 @@ HtmlEntry: Slovenia <<<
 >>>
 ***so***
 HtmlEntry: so <<<
+<h3>Pronunciation</h3>
+<ul><li> {{rhymes|&#x254;}}</li>
+</ul>
+
 <h3>Verb</h3>
 <b>so</b>
 <ol><li> (I) <a href="qd::know">know</a> (<em>first-person singular present tense of <a href="qd::sapere">sapere</a></em>)</li>
@@ -9557,7 +9665,7 @@ HtmlEntry: sole <<<rightright
 </ul>
 
 <h3>Etymology 1</h3>
-Latin <a href="qd::sol">sol</a>, <em>solem</em>.
+From Latin <a href="qd::s%C5%8Dl">sol</a>, <em>solem</em>, ultimately from lang:ine-pro {{recons|&#x73;&#xf3;&#x68;&#x2082;&#x77;&#x6c;&#x325;|lang=ine-pro}}.
 <h4>Noun</h4>
 {{it-noun|sol|m|e|i}}
 <ol><li> <a href="qd::sun">sun</a></li>
@@ -9850,7 +9958,7 @@ HtmlEntry: Sydney <<<
 {{it-proper noun|g=f}}
 <ol><li> {{l|en|Sydney}} (in Australia)</li>
 </ol>
->>>
+---->>>
 ***t***
 HtmlEntry: t <<<
 <h3>Noun</h3>
@@ -9970,6 +10078,10 @@ HtmlEntry: tau <<<
 HtmlEntry: te <<<
 <h3>Etymology</h3>
 From Latin <a href="qd::t%C4%93">te</a>, from <a href="qd::t%C5%AB">tu</a>.
+<h3>Pronunciation</h3>
+<ul><li> {{rhymes|e}}</li>
+</ul>
+
 <h3>Pronoun</h3>
 {{head|it|pronoun}}
 <ol><li> (<em>emphasised objective of <a href="qd::tu">tu</a></em>) <a href="qd::you">you</a></li>
@@ -10221,7 +10333,7 @@ From Latin <a href="qd::taurus">taurus</a>.
 ***torta***
 HtmlEntry: torta <<<
 <h3>Etymology 1</h3>
-From lang:VL. *<em>torta</em>, from the expression <em><a href="qd::torta">torta</a></em> <em><a href="qd::panis">panis</a></em>, from feminine of Latin <em><a href="qd::tortus">tortus</a></em>.
+From lang:VL. *<em>torta</em>, from the expression <a href="qd::torta">torta</a> <em><a href="qd::panis">panis</a></em>, from feminine of Latin <em><a href="qd::tortus">tortus</a></em>.
 <h4>Noun</h4>
 {{it-noun|tort|f|a|e}}
 <ol><li> <a href="qd::pie">pie</a>, <a href="qd::tart">tart</a>, <a href="qd::cake">cake</a> or similar</li>
@@ -10300,11 +10412,12 @@ HtmlEntry: transitive <<<
 ***tre***
 HtmlEntry: tre <<<
 <h3>Pronunciation</h3>
-<ul><li> IPA: [tre]</li>
+<ul><li> IPA: &#x5b;&#x74;&#x32a;&#x72;&#x65;&#x5d;</li>
+<li> {{rhymes|e}}</li>
 </ul>
 
 <h3>Etymology</h3>
-From Latin <a href="qd::tr%C4%93s">tres</a>, from {{proto|Indo-European|tr&eacute;yes}}.{{cardinalbox|it|2|3|4|due|quattro|ord=terzo|mult=triplo}}
+From Latin <a href="qd::tr%C4%93s">tres</a>, from lang:ine-pro {{recons|tr&eacute;yes|lang=ine-pro}}.{{cardinalbox|it|2|3|4|due|quattro|ord=terzo|mult=triplo}}
 <h3>Adjective</h3>
 {{head|it|adjective|g=m|g2=f}} {inv}
 <ol><li> <a href="qd::three">three</a></li>
@@ -10392,10 +10505,11 @@ HtmlEntry: trite <<<
 ***tu***
 HtmlEntry: tu <<<
 <h3>Etymology</h3>
-From Latin <a href="qd::tu">tu</a>.
+From Latin <a href="qd::tu">tu</a>, from lang:ine-pro {{recons|&#x74;&#xfa;&#x68;&#x2082;|lang=ine-pro}}.
 <h3>Pronunciation</h3>
 <ul><li> IPA: /tu/, {{X-SAMPA|/tu/}}</li>
 <li> {{audio|It-tu.ogg|Audio}}</li>
+<li> {{rhymes|u}}</li>
 </ul>
 
 <h3>Pronoun</h3>
@@ -10413,6 +10527,10 @@ From Latin <a href="qd::tu">tu</a>.
 ---->>>
 ***tuba***
 HtmlEntry: tuba <<<
+<h3>Pronunciation</h3>
+<ul><li> {{rhymes|uba}}</li>
+</ul>
+
 <h3>Noun</h3>
 {{it-noun|tub|f|a|e}}
 <ol><li> {{context|musical instruments}} <a href="qd::tuba">tuba</a></li>
@@ -10510,8 +10628,8 @@ HtmlEntry: ultramarine <<<
 ***Umbria***
 HtmlEntry: Umbria <<<
 <h3>Proper noun</h3>
-<b>Umbria</b> <em>f</em>
-<ol><li> Umbria</li>
+{{head|it|proper noun|g=f}}
+<ol><li> <a href="qd::Umbria">Umbria</a></li>
 </ol>
 
 <h4>Related terms</h4>
@@ -10575,7 +10693,7 @@ From Latin <a href="qd::%C5%ABndecim">undecim</a>.
 ***uno***
 HtmlEntry: uno <<<
 <h3>Etymology</h3>
-From Latin <a href="qd::%C5%ABnus">unus</a>.
+From Latin <a href="qd::%C5%ABnus">unus</a>, from lang:OL. <a href="qd::oinos">oinos</a>, ultimately from lang:ine-pro {{recons|&oacute;ynos|lang=ine-pro}}.
 <h3>Pronunciation</h3>
 <ul><li> IPA: &#x5b;&#x2c8;&#x75;&#x6e;&#x6f;&#x5d;</li>
 <li> {{audio|it-uno.ogg|Audio (IT)}}</li>
@@ -10917,8 +11035,8 @@ HtmlEntry: Vienna <<<
 ***Vietnam***
 HtmlEntry: Vietnam <<<
 <h3>Proper noun</h3>
-<b>Vietnam</b> {m}
-<ol><li> <a href="qd::Vietnam">Vietnam</a></li>
+{{it-proper noun|g=m}}
+<ol><li> {{l|en|Vietnam}}</li>
 </ol>
 
 <h4>Derived terms</h4>
@@ -10954,6 +11072,7 @@ HtmlEntry: voi <<<
 From Latin <a href="qd::v%C5%8Ds">vos</a>.
 <h3>Pronunciation</h3>
 <ul><li> {{audio|It-voi.ogg|Audio}}</li>
+<li> {{rhymes|oi}}</li>
 </ul>
 &#x76;&#xf3;&#x69;&#x2c;&#x20;&#x2f;&#x2c8;&#x76;&#x6f;&#x69;&#x2f;&#x2c;&#x20;&#x2f;&#x3c;&#x74;&#x74;&#x3e;&#x22;&#x76;&#x6f;&#x69;&#x3c;&#x2f;&#x74;&#x74;&#x3e;&#x2f;
 <h3>Pronoun</h3>
@@ -11029,19 +11148,6 @@ HtmlEntry: w <<<
 <h3>Noun</h3>
 {{head|it|letter}} {m|f|inv}
 <ol><li> See under <a href="qd::W">W</a></li>
-</ol>
----->>>
-***water***
-HtmlEntry: water <<<
-<h3>Pronunciation</h3>
-<ul><li> IPA: /'vater/, {{X-SAMPA|/'vater/}}</li>
-</ul>
-
-<h3>Etymology</h3>
-Shortened form of English <a href="qd::water+closet">water closet</a> (W.C.)
-<h3>Noun</h3>
-{{head|it|noun}} {m|inv}
-<ol><li> {colloquial} <a href="qd::water+closet">water closet</a>, <a href="qd::toilet">toilet</a>, <a href="qd::rest+room">rest room</a></li>
 </ol>
 ---->>>
 ***weekend***
@@ -11131,7 +11237,7 @@ English
 <ol><li> {{l|en|yacht}}</li>
 <li> The letter <a href="qd::Y">Y</a> in the <a href="qd::Appendix%3AItalian+phonetic+alphabet">Italian phonetic alphabet</a></li>
 </ol>
->>>
+---->>>
 ***yak***
 HtmlEntry: yak <<<
 <h3>Noun</h3>

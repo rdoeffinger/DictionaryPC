@@ -9,22 +9,22 @@ echo "Note that unzipping is slow."
 L=en
 echo "Downloading from: http://dumps.wikimedia.org/${L}wiktionary/"
 WIKI=${L}wiktionary-20121208-pages-articles.xml
-#curl --remote-name http://dumps.wikimedia.org/${L}wiktionary/20121208/${WIKI}.bz2
-#bunzip2 ${WIKI}.bz2
-#mv ${WIKI} inputs/${L}wiktionary-pages-articles.xml
+curl --remote-name http://dumps.wikimedia.org/${L}wiktionary/20121208/${WIKI}.bz2
+bunzip2 ${WIKI}.bz2
+mv ${WIKI} inputs/${L}wiktionary-pages-articles.xml
 
 echo "Downloading from: http://ftp.tu-chemnitz.de/pub/Local/urz/ding/de-en-devel/"
 CHEMNITZ=de-en.txt
-#curl --remote-name http://ftp.tu-chemnitz.de/pub/Local/urz/ding/de-en-devel/${CHEMNITZ}.gz
-#gunzip ${CHEMNITZ}.gz
-#mv ${CHEMNITZ} inputs/
+curl --remote-name http://ftp.tu-chemnitz.de/pub/Local/urz/ding/de-en-devel/${CHEMNITZ}.gz
+gunzip ${CHEMNITZ}.gz
+mv ${CHEMNITZ} inputs/
 
 L=fr
 echo "Downloading from: http://dumps.wikimedia.org/${L}wiktionary/"
 WIKI=${L}wiktionary-20121204-pages-articles.xml
-#curl --remote-name http://dumps.wikimedia.org/${L}wiktionary/20121204/${WIKI}.bz2
-#bunzip2 ${WIKI}.bz2
-#mv ${WIKI} inputs/${L}wiktionary-pages-articles.xml
+curl --remote-name http://dumps.wikimedia.org/${L}wiktionary/20121204/${WIKI}.bz2
+bunzip2 --force ${WIKI}.bz2
+mv ${WIKI} inputs/${L}wiktionary-pages-articles.xml
 
 L=it
 echo "Downloading from: http://dumps.wikimedia.org/${L}wiktionary/"

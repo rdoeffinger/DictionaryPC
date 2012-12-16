@@ -1,5 +1,5 @@
 dictInfo=SomeWikiData
-EntrySource: enwiktionary.french 6700
+EntrySource: enwiktionary.french 6561
 
 Index: FR FR->EN
 ===00===
@@ -32,9 +32,6 @@ Index: FR FR->EN
     circa 1170, {{w|Chrétien de Troyes}}, Érec et Énide: :: quel haste avez,<br />Qui a tel ore vos levez?
     What haste do you have :: --
     That wakes up at this time of day? :: --
-===19===
-  avoir {{fr-verb|type=auxiliary}} :: to be; to be aged (speaking of age)
-    Elle a 19 ans. :: She is 19 years old.
 ===1905===
   de {fr-prep} :: of (expresses belonging)
     1837 Louis Viardot, L’Ingénieux Hidalgo Don Quichotte de la Manche<sup>fr.Wikisource</sup>, translation of El ingenioso hidalgo Don Quijote de la Mancha by Miguel de Cervantes Saavedra, Chapter I: :: --
@@ -50,8 +47,6 @@ Index: FR FR->EN
 ===20===
   de {fr-prep} :: by
     Boire trois tasses par jour réduirait de 20% les risques de contracter une maladie. :: Drinking three glasses a day would reduce the risk of catching an illness by 20%.
-  avoir {{fr-verb|type=auxiliary}} :: {transitive} to have (to own)
-    J'aimerais avoir 20 dollars. :: I would like to have 20 dollars.
 ===2001===
   en {fr-prep} :: in (during the following time (used for months and years))
     en 1993 :: in 1993
@@ -439,11 +434,11 @@ Index: FR FR->EN
 ===accordant===
   accordant :: {present participle of|accorder}
 ***accorder***
-  accorder {fr-verb} :: {transitive} To grant (something to someone)
-  accorder {fr-verb} :: To link to, to be related to
-  accorder {fr-verb} :: {grammar} To make agree
-  accorder {fr-verb} :: {music} To tune, to tune up
-  accorder {fr-verb} :: {sports} To award (a freek kick)
+  accorder {fr-verb} :: {transitive} To grant (something to someone).
+  accorder {fr-verb} :: To link to, to be related to.
+  accorder {fr-verb} :: {grammar} To make agree.
+  accorder {fr-verb} :: {music} To tune, to tune up.
+  accorder {fr-verb} :: {sports} To award (a free kick).
   accordant :: {present participle of|accorder}
 ***accumulation***
   accumulation {{fr-noun|f}} :: accumulation (action of accumulating)
@@ -543,7 +538,7 @@ Index: FR FR->EN
   car (conjunction) :: as, since, because, for
     J’ai ouvert mon parapluie car il pleuvait. :: I opened my umbrella because it was raining.
   bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
+    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big cock.
   short {{fr-noun|m}} :: shorts, short trousers (UK)
     Avec un pantalon, j'ai moins froid aux jambes qu'avec un short. :: “With trousers on, my legs are not as cold as with shorts on.”
   pour {fr-prep} :: for
@@ -552,21 +547,13 @@ Index: FR FR->EN
     Je lui ai donné le livre. :: I gave the book to him/her.
   avoir faim (phrase) :: to be hungry
     J'ai faim. :: I'm hungry.
-  avoir {{fr-verb|type=auxiliary}} :: {{context|auxiliary}} to have (auxiliary verb to form compound past tenses of most verbs)
-    J'ai parlé. :: I have spoken.
-  avoir {{fr-verb|type=auxiliary}} :: to be (speaking of condition)
-    J'ai faim. :: I'm hungry.
-    J'ai froid. :: I'm cold.
 ***ail***
-  ail {{fr-noun|m}} (or, rarely, aulx) :: garlic
+  ail {{fr-noun|m|pl2=aulx}} :: garlic
 ===aime===
   son {m} (adjective), singular :: {possessive} His, her, its (used to qualify masculine nouns).
     Elle a perdu son chapeau. :: She lost her hat.
     Il a perdu son chapeau. :: He lost his hat.
     J'aime son amie. :: I like her/his girlfriend.
-===aimerais===
-  avoir {{fr-verb|type=auxiliary}} :: {transitive} to have (to own)
-    J'aimerais avoir 20 dollars. :: I would like to have 20 dollars.
 ***air***
   air {{fr-noun|m}} :: air (gases of the atmosphere)
   air {{fr-noun|m}} :: tune, aria
@@ -591,9 +578,6 @@ Index: FR FR->EN
 ***alien***
   (Old French) alien {m} (adjective) :: alien; foreign; non-native
   (Old French) alien {{fro-noun|m}} :: alien (a non-native)
-===allé===
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} Used to form the perfect and pluperfect tense of certain verbs (including all reflexive verbs)
-    Après être allé au yoga, je suis rentré chez moi. :: After having gone to yoga, I came back home.
 ***allemand***
   allemand A text in German ('''allemand''') written by Goethe.{{fr-proper noun|m}} :: German (The German language)
     L’allemand est une langue germanique. :: --
@@ -703,8 +687,6 @@ Index: FR FR->EN
   annotation {{fr-noun|f}} :: annotation
 ===ans===
   ans {m|p} :: {plural of|an}
-  avoir {{fr-verb|type=auxiliary}} :: to be; to be aged (speaking of age)
-    Elle a 19 ans. :: She is 19 years old.
 ***apostrophe***
   apostrophe {{fr-noun|f}} :: {orthography} apostrophe
   apostrophe {{fr-noun|f}} :: {rhetoric} apostrophe
@@ -719,9 +701,6 @@ Index: FR FR->EN
   apostrophe {fr-verb-form} :: {conjugation of|apostropher|1|s|pres|sub}
   apostrophe {fr-verb-form} :: {conjugation of|apostropher|1|s|pres|sub}
   apostrophe {fr-verb-form} :: {conjugation of|apostropher|2|s|imp}
-===Après===
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} Used to form the perfect and pluperfect tense of certain verbs (including all reflexive verbs)
-    Après être allé au yoga, je suis rentré chez moi. :: After having gone to yoga, I came back home.
 ***arcane***
   arcane {fr-adj-mf} :: arcane, secret, mysterious
   arcane {{fr-noun|m}} :: {{especially|in the plural}} mysteries, arcanum
@@ -744,6 +723,7 @@ Index: FR FR->EN
   arrogant {fr-adj} :: arrogant
 ***art***
   art {{fr-noun|m}} :: art (something pleasing to the mind)
+  (Middle French) art {{frm-noun|m|pl=ars}} :: art
   arts {m|p} :: {plural of|art}
 ***article***
   article {{fr-noun|m}} :: article
@@ -783,8 +763,6 @@ Index: FR FR->EN
     Nous allons au Mexique. Nous y allons. :: “We are going to Mexico. We are going there.”
   hand {{fr-noun|m|pl=-}} :: handball
     On va jouer au hand, tu veux venir ? :: We're going to play handball, you want to come?
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} Used to form the perfect and pluperfect tense of certain verbs (including all reflexive verbs)
-    Après être allé au yoga, je suis rentré chez moi. :: After having gone to yoga, I came back home.
 ***augment***
   augment {{fr-noun|m}} :: (mediaeval law) part of the estates which the widow could inherit
     Est aussi conclud et accordé qu'au lieu de douaire dont l'on a accoustumé d'user en France, ladite dame Elisabeth aura pour augment le dot dudit mariage selon l'usage des pais du roy d'Espagne, 166,666 escus d'or sol deux tiers. (marriage contract of the prince of Spain and Ms Elisabeth of France) note: this quote is in Middle French. :: --
@@ -820,34 +798,7 @@ Index: FR FR->EN
   anglais {{fr-adj|mp=anglais}} :: English
     Il est anglais :: He is English.
     Ceci n'est pas un avion anglais. :: This is not an English airplane
-***avoir***
-  avoir {{fr-noun|m}} :: asset, possession
-  avoir {{fr-verb|type=auxiliary}} :: {transitive} to have (to own)
-    J'aimerais avoir 20 dollars. :: I would like to have 20 dollars.
-  avoir {{fr-verb|type=auxiliary}} :: {intransitive} to have to
-    Il va avoir à faire les courses. :: He will have to do the shopping.
-  avoir {{fr-verb|type=auxiliary}} :: {{context|auxiliary}} to have (auxiliary verb to form compound past tenses of most verbs)
-    J'ai parlé. :: I have spoken.
-  avoir {{fr-verb|type=auxiliary}} :: to be; to be aged (speaking of age)
-    Elle a 19 ans. :: She is 19 years old.
-  avoir {{fr-verb|type=auxiliary}} :: to be (speaking of condition)
-    J'ai faim. :: I'm hungry.
-    J'ai froid. :: I'm cold.
-  avoir {{fr-verb|type=auxiliary}} :: to be, measure (speaking of measurements)
-    Le mur semble avoir plus de deux mètres de haut. :: The wall seems to be higher than two metres.
-  avoir {{fr-verb|type=auxiliary}} :: to have (to trick)
-    Tu t'es fait avoir. :: You've been had.
-  (Middle French) avoir (verb) :: to have
-  (Middle French) avoir (verb) :: {{context|auxiliary verb}} to have (verb used to form the perfect tense)
-  (Old French) avoir (verb) :: to have
-  (Old French) avoir (verb) :: {{context|auxiliary verb}} to have (verb used to form the perfect tense)
-  (Old French) avoir (verb) :: to exist (there is/there are)
-    {{quote-book|year=c. 1200|author=Author unknown|title=Les quatres sohais Saint Martin|passage=Un vilain ot en Normendie|translation=There was a peasant in Normandy}} :: --
-  (Old French) avoir {{fro-noun|m}} :: possession; good
-    circa 1170, {{w|Chrétien de Troyes}}, Érec et Énide: :: --
-    C'est mes avoirs, c'est mes tresorz. :: --
-    It is my possession, it is my treasure. :: --
-    {{quote-book|circa 1250|title=Ci encoumence la vie de Sainte Marie l'Egypcienne|author=Rutebeuf|passage=Robes, deniers ne autre avoir<br>Ne voloit de l'autrui avoir.|translation=Not clothing, nor money, nor other possessions<br>Did she want to have from others.}} :: --
+===avoir===
   avoir faim (phrase) :: to be hungry
     J'ai faim. :: I'm hungry.
   as {fr-verb-form} :: {conjugation of|avoir|2|s|pres|ind}
@@ -856,8 +807,8 @@ Index: FR FR->EN
     J'ai un chien. :: --
     I have a dog. :: --
 ***axe***
-  axe {{fr-noun|m}} :: Straight line that crosses the center of a body and around which it turns; axis.
-  axe {{fr-noun|m}} :: Rod on which a wheel revolves; axle
+  axe {{fr-noun|m}} :: axis
+  axe {{fr-noun|m}} :: axle
 ***baby***
   baby {{fr-noun|m}} :: table soccer, table football
   baby {{fr-noun|m}} :: baby, darling, sweetheart
@@ -921,9 +872,6 @@ Index: FR FR->EN
   bat {fr-verb-form} :: {third-person singular indicative present|battre}
 ===battre===
   bat {fr-verb-form} :: {third-person singular indicative present|battre}
-===battu===
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} to be (Used to form the passive voice)
-    Il peut être battu ce soir. :: He could be beaten this evening.
 ***BCE***
   BCE {fr-proper noun} :: ECB
 ===beau===
@@ -997,7 +945,7 @@ Index: FR FR->EN
   bit {{fr-noun|m}} :: {computing} bit
 ***bite***
   bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
+    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big cock.
 ***black***
   black {{fr-noun|mf}} :: black person
 ===blanc===
@@ -1273,11 +1221,11 @@ Index: FR FR->EN
   capture {{fr-noun|f}} :: capture
   capture {{fr-noun|f}} :: a catch, a take
 ***car***
+  car (conjunction) :: as, since, because, for
+    J’ai ouvert mon parapluie car il pleuvait. :: I opened my umbrella because it was raining.
   car {{fr-noun|m}} :: car
   car {{fr-noun|m}} :: coach
     Les élèves vont à l’école en car. :: The pupils go to school by coach.
-  car (conjunction) :: as, since, because, for
-    J’ai ouvert mon parapluie car il pleuvait. :: I opened my umbrella because it was raining.
 ***cardinal***
   cardinal {{fr-adj|mp=cardinaux}} :: important, paramount
   cardinal {{fr-adj|mp=cardinaux}} :: {mathematics} cardinal
@@ -1347,8 +1295,6 @@ Index: FR FR->EN
     cet homme-ci :: this man
     Ces choses-ci :: these things
     Je préfère ce gateau-ci à celui-là. :: I prefer this cake to that one.
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} to be (Used to form the passive voice)
-    Il peut être battu ce soir. :: He could be beaten this evening.
 ===Ce===
   de {fr-prep} :: from (used to indicate origin)
     Elle vient de (la) France. :: She comes from France.
@@ -1397,6 +1343,9 @@ Index: FR FR->EN
     cet homme-ci :: this man
     Ces choses-ci :: these things
     Je préfère ce gateau-ci à celui-là. :: I prefer this cake to that one.
+===Cet===
+  charade {{fr-noun|f}} :: Something bizarre or hard to understand.
+    Cet ouvrage est une vraie charade. :: This book is really hard to understand, to follow.
 ===cette===
   franc {{fr-adj|feminine=franche}} :: free
     Il a fait cette action de sa pure et franche volonté. :: His action was performed out of his free will
@@ -1445,6 +1394,10 @@ Index: FR FR->EN
     Elle a perdu son chapeau. :: She lost her hat.
     Il a perdu son chapeau. :: He lost his hat.
     J'aime son amie. :: I like her/his girlfriend.
+***charade***
+  charade {{fr-noun|f}} :: charade (kind of riddle)
+  charade {{fr-noun|f}} :: Something bizarre or hard to understand.
+    Cet ouvrage est une vraie charade. :: This book is really hard to understand, to follow.
 ***charlatan***
   charlatan {{fr-noun|m|f=charlatane}} :: charlatan
 ***chartreuse***
@@ -1474,9 +1427,6 @@ Index: FR FR->EN
     circa 1170, {{w|Chrétien de Troyes}}, Érec et Énide: :: --
     EREC de son cheval desçant[.] :: --
     -Erec got down from his horse. :: --
-===chez===
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} Used to form the perfect and pluperfect tense of certain verbs (including all reflexive verbs)
-    Après être allé au yoga, je suis rentré chez moi. :: After having gone to yoga, I came back home.
 ***chien***
   chien {{fr-noun|m|s|chienne}} :: dog
   chien {{fr-noun|m|s|chienne}} :: cock, hammer (of a firearm)
@@ -1557,9 +1507,6 @@ Index: FR FR->EN
   civil {{fr-noun|m}} :: civilian
 ***civilisation***
   civilisation {{fr-noun|f}} :: civilization
-===clairs===
-  être {{fr-verb|type=auxiliary}} :: to be
-    Vous devez être plus clairs. :: You must be clearer.
 ***clapper***
   clapper {fr-verb} :: to click (the tongue)
 ***claque***
@@ -1695,9 +1642,6 @@ Index: FR FR->EN
   country {{fr-noun-unc|m}} :: country music
 ***courage***
   courage {{fr-noun|m}} :: courage
-===courses===
-  avoir {{fr-verb|type=auxiliary}} :: {intransitive} to have to
-    Il va avoir à faire les courses. :: He will have to do the shopping.
 ***cousin***
   cousin {{fr-noun|m|f=cousine}} :: cousin (male)
   cousin {{fr-noun|m}} :: crane fly
@@ -1728,7 +1672,7 @@ Index: FR FR->EN
   cube {{fr-noun|m}} :: cube
 ===cuisses===
   bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
+    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big cock.
 ===culpa===
   mea culpa (interjection) :: mea culpa
 ===cum===
@@ -1870,17 +1814,12 @@ Index: FR FR->EN
     Martin a trois sandwichs, mais j'en ai seulement deux. :: Martin has three sandwiches, but I have only two (of them).
     Il y en a combien ? :: How many of them are there?
     Je bois de l'alcool parce que j'en ai besoin :: I drink alcohol because I need (of) it.
-  avoir {{fr-verb|type=auxiliary}} :: to be, measure (speaking of measurements)
-    Le mur semble avoir plus de deux mètres de haut. :: The wall seems to be higher than two metres.
 ===devenu===
   en {fr-prep} :: {{context|as a gerund, followed by a present participle}} while
     C'est en trichant qu'il est devenu champion. :: It was by cheating that he became champion.
 ===devenue===
   star {{fr-noun|f}} :: star (celebrity)
     Elle est devenue star. :: she's become a star.
-===devez===
-  être {{fr-verb|type=auxiliary}} :: to be
-    Vous devez être plus clairs. :: You must be clearer.
 ===deviennent===
   de {fr-prep} :: of (expresses belonging)
     1837 Louis Viardot, L’Ingénieux Hidalgo Don Quichotte de la Manche<sup>fr.Wikisource</sup>, translation of El ingenioso hidalgo Don Quijote de la Mancha by Miguel de Cervantes Saavedra, Chapter I: :: --
@@ -1976,9 +1915,6 @@ Index: FR FR->EN
   dojo {{fr-noun|m}} :: {martial arts} dojo
 ***dollar***
   dollar {{fr-noun|m}} :: dollar
-===dollars===
-  avoir {{fr-verb|type=auxiliary}} :: {transitive} to have (to own)
-    J'aimerais avoir 20 dollars. :: I would like to have 20 dollars.
 ===donné===
   lui {fr-pron} :: Him, her; the third-person singular personal pronoun used as an indirect object.
     Je lui ai donné le livre. :: I gave the book to him/her.
@@ -2021,7 +1957,8 @@ Index: FR FR->EN
   homme du monde (noun) :: man of the world, a worldly man
   pays du Soleil Levant :: Japan, literally the Land of the Rising Sun.
 ***ducat***
-  ducat {{fr-noun|m}} :: Ducat
+  ducat {{fr-noun|m}} :: ducat
+  (Old French) ducat {{fro-noun|m|ducatz|ducatz}} :: ducat (historical coin)
 ***ductile***
   ductile {fr-adj-mf} :: ductile (capable of being pulled or stretched into thin wire).
 ***duel***
@@ -2102,8 +2039,8 @@ Index: FR FR->EN
     Elle a perdu son chapeau. :: She lost her hat.
     Il a perdu son chapeau. :: He lost his hat.
     J'aime son amie. :: I like her/his girlfriend.
-  avoir {{fr-verb|type=auxiliary}} :: to be; to be aged (speaking of age)
-    Elle a 19 ans. :: She is 19 years old.
+===elles===
+  y {fr-pron} :: {{Quebec|colloquial}} They: {alternative form of|elles|cap=a}
 ***eloquence***
   (Middle French) eloquence {{frm-noun|f|-}} :: eloquence (quality of being eloquent)
 ===embêter===
@@ -2161,7 +2098,7 @@ Index: FR FR->EN
     en bonne humeur :: in a good mood
   (Old French) en (preposition) :: in; inside
   (Old French) en (preposition) :: on; upon
-    {{quote-book|year=12<sup>th</sup> Century|title=Raoul de Cambrai|author=Unknown|passage=qi en la crois fu mis|translation=[He] who was put on the cross}} :: --
+    {{quote-book|year=12th Century|title=Raoul de Cambrai|author=Unknown|passage=qi en la crois fu mis|translation=[He] who was put on the cross}} :: --
 ===En===
   de {fr-prep} :: of (expresses belonging)
     1837 Louis Viardot, L’Ingénieux Hidalgo Don Quichotte de la Manche<sup>fr.Wikisource</sup>, translation of El ingenioso hidalgo Don Quijote de la Mancha by Miguel de Cervantes Saavedra, Chapter I: :: --
@@ -2194,7 +2131,7 @@ Index: FR FR->EN
   bien entendu {fr-adv} :: of course, obviously
 ===entre===
   bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
+    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big cock.
 ===épicentre===
   provenance {{fr-noun|f}} :: provenance, origin
     La violence continue en provenance de Homs, l'épicentre de contestation. :: Voilence continues in Homs, the epicentre of the protests.
@@ -2224,9 +2161,6 @@ Index: FR FR->EN
 ***ermine***
   (Old French) ermine {{fro-noun|f}} :: ermine (fabric)
     circa 1170, {{w|Chrétien de Troyes}}, Érec et Énide: :: La pane fu de blanc ermine
-===es===
-  avoir {{fr-verb|type=auxiliary}} :: to have (to trick)
-    Tu t'es fait avoir. :: You've been had.
 ===Espagne===
   de {fr-prep} :: from (used to indicate origin)
     Elle vient de (la) France. :: She comes from France.
@@ -2269,6 +2203,8 @@ Index: FR FR->EN
     Il est certain qu'il viendra. :: It is certain that he will arrive.
   important {fr-adj} :: important
     Il est important de se brosser les dents. :: It is important to brush your teeth.
+  charade {{fr-noun|f}} :: Something bizarre or hard to understand.
+    Cet ouvrage est une vraie charade. :: This book is really hard to understand, to follow.
   lui {fr-pron} :: him, he; the third-person masculine singular personal pronoun used after a preposition, or as the predicate of a linking verb, or when disjoined from a sentence, or as a stressed subject.
     J'habitais avec lui. :: I was living with him.
     C'est lui qui a dit cela. :: It's he who said that.
@@ -2298,7 +2234,7 @@ Index: FR FR->EN
   en {fr-prep} :: in (used to describe color)
     une photo en noir et blanc :: a photo in black and white
   bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
+    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big cock.
   (Old French) face {{fro-noun|f}} :: {anatomy} face
     circa 1170, {{w|Chrétien de Troyes}}, Érec et Énide: :: Le chief li desarme et la face.
     He exposed his head and his face. :: --
@@ -2339,14 +2275,7 @@ Index: FR FR->EN
     Ce fromage vient d'Espagne. :: This cheese is from Spain.
     C'est de l'ouest de la France. :: It's from the west of France.
     Le train va de Paris à Bordeaux. :: The train goes from Paris to Bordeaux.
-***être***
-  être {{fr-verb|type=auxiliary}} :: to be
-    Vous devez être plus clairs. :: You must be clearer.
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} Used to form the perfect and pluperfect tense of certain verbs (including all reflexive verbs)
-    Après être allé au yoga, je suis rentré chez moi. :: After having gone to yoga, I came back home.
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} to be (Used to form the passive voice)
-    Il peut être battu ce soir. :: He could be beaten this evening.
-  être {{fr-noun|m}} :: being, creature
+===être===
   cool (adjective) {m|f} :: cool (only its informal senses, mainly fashionable)
     Les jeunes sont cool. :: Young people are cool.
     Les jeunes boivent de l'alcool pour être cool. :: Young people drink alcohol to be cool.
@@ -2400,9 +2329,6 @@ Index: FR FR->EN
 ===faim===
   avoir faim (phrase) :: to be hungry
     J'ai faim. :: I'm hungry.
-  avoir {{fr-verb|type=auxiliary}} :: to be (speaking of condition)
-    J'ai faim. :: I'm hungry.
-    J'ai froid. :: I'm cold.
 ===faire===
   laissez faire {{fr-noun-unc|m}} :: {rare} {dated form of|laisser-faire}
   laissez faire {fr-verb-form} :: {Second-person plural indicative present form|laisser faire}
@@ -2417,8 +2343,6 @@ Index: FR FR->EN
     Tu veux faire dodo? :: Do you want to go to sleep?
   pour {fr-prep} :: to
     Je veux chanter pour te faire revenir. :: I want to sing to make you come back.
-  avoir {{fr-verb|type=auxiliary}} :: {intransitive} to have to
-    Il va avoir à faire les courses. :: He will have to do the shopping.
   (Old French) fere (verb) :: {alternative form of|faire}
     {{quote-book|year=circa 1180,|title=Perceval ou le conte du Graal|author=Chrétien de Troyes|passage=Sire, vostre prisoniers sui<br />por fere ce que vos voldroiz|translation=Sire, I am your prisoner<br />To do what you desire}} :: --
 ===fait===
@@ -2426,8 +2350,6 @@ Index: FR FR->EN
     Il fait froid; je vais mettre mon pull :: It's cold; I'm going to put on my pullover
   franc {{fr-adj|feminine=franche}} :: free
     Il a fait cette action de sa pure et franche volonté. :: His action was performed out of his free will
-  avoir {{fr-verb|type=auxiliary}} :: to have (to trick)
-    Tu t'es fait avoir. :: You've been had.
 ***famine***
   famine {{fr-noun|f}} :: famine
 ***Fanny***
@@ -2620,9 +2542,6 @@ Index: FR FR->EN
     Avec un pantalon, j'ai moins froid aux jambes qu'avec un short. :: “With trousers on, my legs are not as cold as with shorts on.”
   pull {{fr-noun|m}} :: pullover
     Il fait froid; je vais mettre mon pull :: It's cold; I'm going to put on my pullover
-  avoir {{fr-verb|type=auxiliary}} :: to be (speaking of condition)
-    J'ai faim. :: I'm hungry.
-    J'ai froid. :: I'm cold.
 ===fromage===
   de {fr-prep} :: from (used to indicate origin)
     Elle vient de (la) France. :: She comes from France.
@@ -2632,7 +2551,7 @@ Index: FR FR->EN
     Le train va de Paris à Bordeaux. :: The train goes from Paris to Bordeaux.
 ===frotter===
   bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
+    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big cock.
 ***fruit***
   fruit {{fr-noun|m}} :: fruit
   (Old French) fruit {{fro-noun|m|fruiz|fruiz}} :: fruit
@@ -2744,7 +2663,7 @@ Index: FR FR->EN
     Macy Gray a traversé bien des épreuves. :: Macy Gray got through a lot of ordeals.
 ===grosse===
   bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
+    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big cock.
 ===groupe===
   de {fr-prep} :: from (used to indicate the start of a time or range)
     De 9:00 à 11:00 je ne serai pas libre. :: From 9 to 11 I won't be free.
@@ -2794,9 +2713,10 @@ Index: FR FR->EN
   hardware {{fr-noun-unc|m}} :: {computing} hardware
 ***hart***
   hart {{fr-noun|f}} :: {archaic} cord, rope; halter (hangman's rope)
-===haut===
-  avoir {{fr-verb|type=auxiliary}} :: to be, measure (speaking of measurements)
-    Le mur semble avoir plus de deux mètres de haut. :: The wall seems to be higher than two metres.
+===hay===
+  (Middle French) hay (verb form) :: {conjugation of|hayr|1|s|pres|ind}
+===hayr===
+  (Middle French) hay (verb form) :: {conjugation of|hayr|1|s|pres|ind}
 ===Heckel===
   able {{fr-noun|m}} :: A vernacular name of the moderlieschen, also called able de Heckel.
 ***henry***
@@ -2914,6 +2834,7 @@ Index: FR FR->EN
     1873, Alphonse Daudet, “La Dernière Classe”, in Contes du Lundi :: --
     Je crois aussi que je n'avais jamais si bien écouté, et que lui non plus n'avait jamais mis autant de patience à ses explications. :: --
     I believe also that I had never listened so well, and that neither had he ever put so much patience into his explanations. :: --
+  y {fr-pron} :: {{Quebec|France|colloquial}} He: {alternative form of|il|cap=a}
 ===Il===
   y (pronoun), adverbial :: there (at a place)
     Il est dans la maison. Il y est. :: “He is in the house. He is there.”
@@ -2941,7 +2862,7 @@ Index: FR FR->EN
     Il a perdu son chapeau. :: He lost his hat.
     J'aime son amie. :: I like her/his girlfriend.
   bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
+    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big cock.
   lit {{fr-noun|m}} :: bed
     Où est-il? Il dort dans son lit. :: Where is he? He's sleeping in his bed.
   certain {fr-adj} :: certain (sure, positive)
@@ -2959,10 +2880,10 @@ Index: FR FR->EN
   anglais {{fr-adj|mp=anglais}} :: English
     Il est anglais :: He is English.
     Ceci n'est pas un avion anglais. :: This is not an English airplane
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} to be (Used to form the passive voice)
-    Il peut être battu ce soir. :: He could be beaten this evening.
-  avoir {{fr-verb|type=auxiliary}} :: {intransitive} to have to
-    Il va avoir à faire les courses. :: He will have to do the shopping.
+***ile***
+  ile {{fr-noun|f}} :: {{alternative spelling of|île}}
+===ils===
+  y {fr-pron} :: {{Quebec|colloquial}} They: {alternative form of|ils|cap=a}
 ***image***
   image {{fr-noun|f}} :: picture, image
   image {{fr-noun|f}} :: {{context|TV|film}} frame
@@ -2985,9 +2906,6 @@ Index: FR FR->EN
   impact {{fr-noun|m}} :: {{context|literally or figuratively}} impact
 ***impala***
   impala {{fr-noun|m}} :: impala
-***impassible***
-  impassible {fr-adj-mf} :: {theology} impassible
-  impassible {fr-adj-mf} :: impassive
 ***important***
   important {fr-adj} :: important
     Il est important de se brosser les dents. :: It is important to brush your teeth.
@@ -3011,8 +2929,6 @@ Index: FR FR->EN
   impose {fr-verb-form} :: {conjugation of|imposer|1|s|pres|sub}
   impose {fr-verb-form} :: {conjugation of|imposer|3|s|pres|sub}
   impose {fr-verb-form} :: {conjugation of|imposer|2|s|imp}
-***impudence***
-  impudence {{fr-noun|f}} :: impudence
 ***incorrigible***
   incorrigible {fr-adj-mf} :: incorrigible
   incorrigible {{fr-noun|m}} :: An incorrigible
@@ -3082,7 +2998,7 @@ Index: FR FR->EN
     Il y en a combien ? :: How many of them are there?
     Je bois de l'alcool parce que j'en ai besoin :: I drink alcohol because I need (of) it.
   bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
+    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big cock.
   short {{fr-noun|m}} :: shorts, short trousers (UK)
     Avec un pantalon, j'ai moins froid aux jambes qu'avec un short. :: “With trousers on, my legs are not as cold as with shorts on.”
 ===J===
@@ -3111,13 +3027,6 @@ Index: FR FR->EN
     I believe also that I had never listened so well, and that neither had he ever put so much patience into his explanations. :: --
   avoir faim (phrase) :: to be hungry
     J'ai faim. :: I'm hungry.
-  avoir {{fr-verb|type=auxiliary}} :: {transitive} to have (to own)
-    J'aimerais avoir 20 dollars. :: I would like to have 20 dollars.
-  avoir {{fr-verb|type=auxiliary}} :: {{context|auxiliary}} to have (auxiliary verb to form compound past tenses of most verbs)
-    J'ai parlé. :: I have spoken.
-  avoir {{fr-verb|type=auxiliary}} :: to be (speaking of condition)
-    J'ai faim. :: I'm hungry.
-    J'ai froid. :: I'm cold.
 ===jambes===
   short {{fr-noun|m}} :: shorts, short trousers (UK)
     Avec un pantalon, j'ai moins froid aux jambes qu'avec un short. :: “With trousers on, my legs are not as cold as with shorts on.”
@@ -3153,11 +3062,9 @@ Index: FR FR->EN
     Je travaille de huit heures à midi. :: --
     un groupe de cinq à huit personnes :: a group of [from] five to eight people
   bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
+    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big cock.
   pull {{fr-noun|m}} :: pullover
     Il fait froid; je vais mettre mon pull :: It's cold; I'm going to put on my pullover
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} Used to form the perfect and pluperfect tense of certain verbs (including all reflexive verbs)
-    Après être allé au yoga, je suis rentré chez moi. :: After having gone to yoga, I came back home.
 ===Je===
   de {fr-prep} :: {{non-gloss definition|used after certain verbs before an infinitive, often translating into English as a gerund or an infinitive}}
     Je me suis arrêté de fumer. :: I stopped smoking.
@@ -3339,8 +3246,6 @@ Index: FR FR->EN
     Le train va de Paris à Bordeaux. :: The train goes from Paris to Bordeaux.
   parole {{fr-noun|f}} :: floor; the right to speak in a legislative assembly
     Le député a la parole :: the member has the floor
-  avoir {{fr-verb|type=auxiliary}} :: to be, measure (speaking of measurements)
-    Le mur semble avoir plus de deux mètres de haut. :: The wall seems to be higher than two metres.
 ***leader***
   leader {{fr-noun|m}} :: leader
 ***lent***
@@ -3362,8 +3267,6 @@ Index: FR FR->EN
     dépasser les bornes :: cross the mark
   important {fr-adj} :: important
     Il est important de se brosser les dents. :: It is important to brush your teeth.
-  avoir {{fr-verb|type=auxiliary}} :: {intransitive} to have to
-    Il va avoir à faire les courses. :: He will have to do the shopping.
 ===Les===
   orange {m|f|inv} (adjective) :: orange
     Les premiers TGV atlantiques étaient orange. :: The first Atlantic TGV trains were orange.
@@ -3531,7 +3434,7 @@ Index: FR FR->EN
     Macy Gray a traversé bien des épreuves. :: Macy Gray got through a lot of ordeals.
 ===main===
   bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
+    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big cock.
 ===mais===
   en {fr-pron} :: Used as the object of a verb to indicate an indefinite quantity; of it, of them.
     Tu as combien de livres ? J'en ai trois. :: How many books do you have? I have three (of them).
@@ -3550,6 +3453,11 @@ Index: FR FR->EN
   mal {{fr-noun|m|pl=maux}} :: evil
   mal {fr-adv} :: badly
     C'est mal fait. (“It's done badly.”) :: --
+  mal (adjective) :: {{context|in set phrases and limited constructions}} bad
+    bon an, mal an :: --
+    bon gré, mal gré :: --
+    Il est mal de [infinitive] :: --
+    C'est mal de [infinitive] :: --
   (Old French) mal (adverb) :: evilly
   (Old French) mal (adverb) :: badly; poorly
   (Old French) mal {{fro-noun|m|maus|maus|mal}} :: evil
@@ -3565,6 +3473,7 @@ Index: FR FR->EN
   mandat {{fr-noun|m}} :: postal order, money order
   mandat {{fr-noun|m}} :: {legal} power of attorney, proxy
   mandat {{fr-noun|m}} :: (police) warrant
+  mandat {{fr-noun|m}} :: term in office
 ***manga***
   manga {{fr-noun|m}} :: A manga (a Japanese comic )
 ***Manitoba***
@@ -3643,11 +3552,11 @@ Index: FR FR->EN
   (Middle French) masturbation {f} (noun), plural not attested :: masturbation
     {{quote-book|passage=La premiere façon est parmy nous abominable, la nature reclamant en apparence contre cette deception de nerfs, appellée masturbation.|page=114|URL=http://books.google.fr/books?id=He9IAAAAcAAJ&pg=PA114&lpg=PA114&dq=masturbation&source=bl&ots=zdf4Dp7OP0&sig=bbpfHN9Ty0UTXXbNIoT7-5T9q58&hl=fr&sa=X&ei=lnxDUNyKMOaj0QXWrIDIDw&ved=0CDwQ6AEwAQ#v=onepage&q=masturbation&f=false|author=François de La Mothe Le Vaye|title=Quatre Dialogues Faits A L'Imitation Des Anciens|year=1506}} :: --
 ***matador***
-  matador {{fr-noun|m}} :: matador
+  matador {{fr-noun|m}} :: {bullfighting} matador
 ***matelot***
   matelot {{fr-noun|m}} :: seaman
 ***matter***
-  matter {fr-verb}{{fr-conj-er|matt}} :: {{alternative spelling of|mater}}
+  matter {fr-verb} :: {{alternative spelling of|mater}}
 ***mauve***
   mauve {{fr-noun|f}} :: mallow
   mauve {{fr-noun|m}} :: mauve
@@ -3666,7 +3575,7 @@ Index: FR FR->EN
   en {fr-prep} :: as
     Il me traite en ami. :: He treats me as a friend.
   bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
+    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big cock.
 ===mea===
   mea culpa (interjection) :: mea culpa
 ***medicine***
@@ -3713,9 +3622,6 @@ Index: FR FR->EN
   en {fr-prep} :: of, made of (used to describe composition)
     une chaise en hêtre :: a chair made of beech/a beech chair
     une fourchette en métal :: a fork made of metal/a metal fork
-===mètres===
-  avoir {{fr-verb|type=auxiliary}} :: to be, measure (speaking of measurements)
-    Le mur semble avoir plus de deux mètres de haut. :: The wall seems to be higher than two metres.
 ===mettre===
   pull {{fr-noun|m}} :: pullover
     Il fait froid; je vais mettre mon pull :: It's cold; I'm going to put on my pullover
@@ -3785,7 +3691,7 @@ Index: FR FR->EN
   minute {fr-verb form} :: {conjugation of|minuter|2|s|imp}
 ===mis===
   bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
+    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big cock.
 ***mobile***
   mobile {fr-adj-mf} :: mobile
   mobile {fr-adj-mf} :: moving
@@ -3796,9 +3702,6 @@ Index: FR FR->EN
   mobile {{fr-noun|m}} :: mobile phone
 ***modem***
   modem {{fr-noun|m}} :: modem
-===moi===
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} Used to form the perfect and pluperfect tense of certain verbs (including all reflexive verbs)
-    Après être allé au yoga, je suis rentré chez moi. :: After having gone to yoga, I came back home.
 ===moins===
   short {{fr-noun|m}} :: shorts, short trousers (UK)
     Avec un pantalon, j'ai moins froid aux jambes qu'avec un short. :: “With trousers on, my legs are not as cold as with shorts on.”
@@ -3822,9 +3725,6 @@ Index: FR FR->EN
   Serbie-et-Monténégro (proper noun) :: Serbia and Montenegro
 ***mouflon***
   mouflon {{fr-noun|m}} :: mouflon
-===mur===
-  avoir {{fr-verb|type=auxiliary}} :: to be, measure (speaking of measurements)
-    Le mur semble avoir plus de deux mètres de haut. :: The wall seems to be higher than two metres.
 ***musical***
   musical {{fr-adj|mp=musicaux}} :: musical
 ===musique===
@@ -3965,9 +3865,6 @@ Index: FR FR->EN
   nu {{fr-noun-inv|m}} :: nu (Greek letter)
   (Old French) nu {m} (adjective), feminine: nue :: naked
   (Old French) nu {m} (adverb), feminine: nue :: naked
-***nuance***
-  nuance {{fr-noun|f}} :: nuance
-  nuance {{fr-noun|f}} :: gradation of colors
 ===nue===
   (Old French) nu {m} (adjective), feminine: nue :: naked
   (Old French) nu {m} (adverb), feminine: nue :: naked
@@ -4021,9 +3918,9 @@ Index: FR FR->EN
   ochre {fr-verb-form} :: {conjugation of|ochrer|1|s|pres|sub}
   ochre {fr-verb-form} :: {conjugation of|ochrer|2|s|imp}
 ***œil***
-  œil {{fr-noun|m|pl=yeux}} :: eye, organ that is sensitive to light, helping organisms to see
-  œil {{fr-noun|m|pl=yeux}} :: glyph, rendering of a single character
-  œil {{fr-noun|m|pl=yeux}} :: eye (of a needle), plural œils
+  œil {{fr-noun|m|pl=yeux|pl2=œils}} :: eye, organ that is sensitive to light, helping organisms to see (plural yeux)
+  œil {{fr-noun|m|pl=yeux|pl2=œils}} :: glyph, rendering of a single character (plural yeux)
+  œil {{fr-noun|m|pl=yeux|pl2=œils}} :: eye (of a needle) (plural œils)
   (Middle French) œil {{frm-noun|m|pl=yeulx}} :: {{anatomy|skey=oeil}} eye
 ===Œuvres===
   de {fr-prep} :: 's (used to express property or association)
@@ -4088,8 +3985,6 @@ Index: FR FR->EN
   orange {{fr-noun|m}} :: orange (color)
   orange {m|f|inv} (adjective) :: orange
     Les premiers TGV atlantiques étaient orange. :: The first Atlantic TGV trains were orange.
-***ordinal***
-  ordinal {{fr-adj|mp=ordinaux}} :: ordinal
 ***ore***
   (Old French) ore (adverb) :: now
   (Old French) ore {{fro-noun|f}} :: time, period of the day (period of time)
@@ -4135,6 +4030,9 @@ Index: FR FR->EN
 ===ouvert===
   car (conjunction) :: as, since, because, for
     J’ai ouvert mon parapluie car il pleuvait. :: I opened my umbrella because it was raining.
+===ouvrage===
+  charade {{fr-noun|f}} :: Something bizarre or hard to understand.
+    Cet ouvrage est une vraie charade. :: This book is really hard to understand, to follow.
 ***pain***
   pain {{fr-noun|m}} :: bread
   pain {{fr-noun|m}} :: piece of bread
@@ -4216,9 +4114,6 @@ Index: FR FR->EN
 ===parle===
   anglais {{fr-noun-unc|m}} :: English language
     Il parle anglais :: He speaks English
-===parlé===
-  avoir {{fr-verb|type=auxiliary}} :: {{context|auxiliary}} to have (auxiliary verb to form compound past tenses of most verbs)
-    J'ai parlé. :: I have spoken.
 ===parler===
   langue {{fr-noun|f}} :: {linguistics} language (system of communication using written or spoken words)
     la langue maternelle :: --
@@ -4361,8 +4256,6 @@ Index: FR FR->EN
     Quand on cherche l'amour... :: --
     When one searches for love... :: --
     On ne peut pas pêcher ici :: You can't fish here
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} to be (Used to form the passive voice)
-    Il peut être battu ce soir. :: He could be beaten this evening.
 ***Philippines***
   Philippines {fr-proper noun} {f|p} :: The Philippines.
 ===photo===
@@ -4373,6 +4266,7 @@ Index: FR FR->EN
 ***pi***
   pi {{fr-noun-inv|m}} :: pi (Greek letter)
   pi {{fr-noun-inv|m}} :: {mathematics} pi
+  pi (conjunction) :: {{Quebec|colloquial}} {{alternative spelling of|pis|dot=:}} and.
 ***piano***
   piano {{fr-noun|m}} :: piano
 ***pie***
@@ -4429,11 +4323,6 @@ Index: FR FR->EN
   pleuvoir {{fr-verb|type=impersonal}} :: to rain
 ***plural***
   plural {{fr-adj|sf=plurale|mp=pluraux|pf=plurales}} :: plural, large
-===plus===
-  être {{fr-verb|type=auxiliary}} :: to be
-    Vous devez être plus clairs. :: You must be clearer.
-  avoir {{fr-verb|type=auxiliary}} :: to be, measure (speaking of measurements)
-    Le mur semble avoir plus de deux mètres de haut. :: The wall seems to be higher than two metres.
 ===poindre===
   point {fr-past participle} :: {past participle of|poindre}
   point {fr-past participle} :: {conjugation of|poindre|3|s|pres|ind}
@@ -4528,6 +4417,8 @@ Index: FR FR->EN
   cool (adjective) {m|f} :: cool (only its informal senses, mainly fashionable)
     Les jeunes sont cool. :: Young people are cool.
     Les jeunes boivent de l'alcool pour être cool. :: Young people drink alcohol to be cool.
+===pouvoir===
+  put {fr-verb-form} :: {conjugation of|pouvoir|3|s|past historic}
 ===préfère===
   ci (adverb)Contracts ici or ceci :: this
     cet homme-ci :: this man
@@ -4536,6 +4427,8 @@ Index: FR FR->EN
 ===premiers===
   orange {m|f|inv} (adjective) :: orange
     Les premiers TGV atlantiques étaient orange. :: The first Atlantic TGV trains were orange.
+***president***
+  (Middle French) president {{frm-noun|m|pl=presidens}} :: president (leader of an organization)
 ===pressa===
   orange {{fr-noun|f}} :: orange (fruit)
     Il pressa l’orange afin d’en extraire du jus. :: He squeezed the orange to extract juice from it.
@@ -4583,8 +4476,6 @@ Index: FR FR->EN
 ***provenance***
   provenance {{fr-noun|f}} :: provenance, origin
     La violence continue en provenance de Homs, l'épicentre de contestation. :: Voilence continues in Homs, the epicentre of the protests.
-***PS***
-  PS {m} :: Parti Socialiste; a socialist political party of either France, Belgium or Switzerland.
 ***pseudo***
   pseudo- (prefix) :: pseudo-
     pseudo-langue :: fake language
@@ -4602,8 +4493,8 @@ Index: FR FR->EN
 ===pure===
   franc {{fr-adj|feminine=franche}} :: free
     Il a fait cette action de sa pure et franche volonté. :: His action was performed out of his free will
-***put***
-  put (verb form) :: third-person singular past historic of pouvoir.
+===put===
+  put {fr-verb-form} :: {conjugation of|pouvoir|3|s|past historic}
 ***putter***
   putter {{fr-noun|m}} :: putter (golf club)
   putter {fr-verb} :: {golf} to putt
@@ -4660,13 +4551,13 @@ Index: FR FR->EN
   qualitative {fr-adj-form} {f} :: {feminine|qualitatif}
 ===quand===
   bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
+    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big cock.
 ***quarter***
   quarter {{fr-noun|m}} :: quarter (old measure of corn)
 ===quatre===
   quatre-vingt {{fr-noun-inv|m}} :: {France} Form of quatre-vingts (eighty) used in compounds (the numbers 81 to 99, larger numbers ending in numbers from 81 to 99, and the ordinal numbers corresponding to any of these numbers).
     {{usex|quatre-vingt-six|translation=eighty-six}} :: --
-  quatre vingts {{fr-noun-inv|m}} :: eighty, 80.
+  quatre-vingts {{fr-noun-inv|m}} :: eighty, 80.
 ===que===
   en {fr-pron} :: Used as the object of a verb to indicate an indefinite quantity; of it, of them.
     Tu as combien de livres ? J'en ai trois. :: How many books do you have? I have three (of them).
@@ -4756,9 +4647,6 @@ Index: FR FR->EN
   remonta {fr-verb-form} :: {conjugation of|remonter|3|s|past historic}
 ===renifleur===
   avion renifleur {m} (noun) :: sniffer plane
-===rentré===
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} Used to form the perfect and pluperfect tense of certain verbs (including all reflexive verbs)
-    Après être allé au yoga, je suis rentré chez moi. :: After having gone to yoga, I came back home.
 ***représentant***
   représentant {{fr-noun|m|f=représentante}} :: representative
   représentant (present participle) :: {present participle of|représenter}
@@ -4826,8 +4714,8 @@ Index: FR FR->EN
 ***river***
   river {fr-verb} :: to drive/set a rivet
 ***robin***
-  robin {{fr-noun|m}} :: {{obsolete| lang=fr}} sheep, calf
-  robin {{fr-noun|m}} :: {{archaic|pejorative| lang=fr}} lawyer
+  robin {{fr-noun|m}} :: {obsolete} sheep, calf
+  robin {{fr-noun|m}} :: {{archaic|pejorative}} lawyer
 ***robot***
   robot {{fr-noun|m}} :: robot
 ===rode===
@@ -4882,7 +4770,7 @@ Index: FR FR->EN
 ===sa===
   (Old French) son {m} (possessive pronoun), feminine: sa, plural: ses :: his/hers/its (third-person singular possessive pronoun)
   bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
+    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big cock.
   franc {{fr-adj|feminine=franche}} :: free
     Il a fait cette action de sa pure et franche volonté. :: His action was performed out of his free will
 ===sait===
@@ -4958,7 +4846,7 @@ Index: FR FR->EN
   second {fr-adj} :: second
     « Chiquita! Chiquita! » À la seconde appellation, une fillette maigre et hâve (...) s'avança vers Agostin. (Gautier, Fracasse, 1863) :: --
     une seconde possibilité :: a second possibility, another possibility
-  second {{fr-noun|m}} :: assistant
+  second {{fr-noun|m}} :: assistant, first mate
     Je m'attachai aux pas de miss Harriet et lui servis de second dans le classement du linge. (Gobineau, Pléiades, 1874) :: --
 ===seconde===
   second {fr-adj} :: second
@@ -4970,9 +4858,6 @@ Index: FR FR->EN
   (Middle French) secret {frm-adj} :: secret
 ===seigneur===
   droit de seigneur {m} (noun) :: the right of the lord. (The right of the first night ius primae noctis i.e. the right of the feudal lord to deflower the maiden bride of one of his vassals).
-===semble===
-  avoir {{fr-verb|type=auxiliary}} :: to be, measure (speaking of measurements)
-    Le mur semble avoir plus de deux mètres de haut. :: The wall seems to be higher than two metres.
 ===sens===
   (Old French) san {{fro-noun|m}} :: {alternative form of|sens}
 ===sent===
@@ -5006,7 +4891,7 @@ Index: FR FR->EN
 ===ses===
   (Old French) son {m} (possessive pronoun), feminine: sa, plural: ses :: his/hers/its (third-person singular possessive pronoun)
   bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
+    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big cock.
 ***set***
   set {{fr-noun|m}} :: {tennis} set
   (Old French) set (numeral) :: seven
@@ -5019,7 +4904,7 @@ Index: FR FR->EN
     Il y en a combien ? :: How many of them are there?
     Je bois de l'alcool parce que j'en ai besoin :: I drink alcohol because I need (of) it.
 ***shit***
-  shit {{fr-noun-unc|m}} :: {slang} hash (cannabis)
+  shit {{fr-noun-unc|m}} :: {slang} cannabis
 ***shogun***
   shogun {{fr-noun|m}} :: shogun
 ***short***
@@ -5061,9 +4946,6 @@ Index: FR FR->EN
   sodium {{fr-noun-unc|m}} :: sodium
 ***sofa***
   sofa {{fr-noun|m}} :: couch; sofa
-===soir===
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} to be (Used to form the passive voice)
-    Il peut être battu ce soir. :: He could be beaten this evening.
 ***sol***
   sol {{fr-noun|m}} :: soil, earth
   sol {{fr-noun|m}} :: ground
@@ -5098,7 +4980,7 @@ Index: FR FR->EN
   sot {{fr-noun|m|f=sotte}} :: imbecile, fool
 ===souri===
   bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
+    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big cock.
 ===souvent===
   lit {fr-verb-form} :: {conjugation of|lire|3|s|pres|ind}
     Jean lit très souvent. :: Jean reads very often.
@@ -5135,6 +5017,8 @@ Index: FR FR->EN
     Elle est devenue star. :: she's become a star.
 ***stock***
   stock {{fr-noun|m}} :: stock, goods in supply
+***stone***
+  stone {{rfc-level|Adjective at L4+ not in L3 Ety section}}{fr-adj-mf} :: stoned (high on drugs)
 ***stop***
   stop {{fr-noun-unc|m}} :: stop sign
   stop {{fr-noun-unc|m}} :: hitchhiking
@@ -5167,9 +5051,7 @@ Index: FR FR->EN
     Elle m'a dit de venir. :: She told me to come.
     Nous vous proposons de venir. :: We suggest you come.
   bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} Used to form the perfect and pluperfect tense of certain verbs (including all reflexive verbs)
-    Après être allé au yoga, je suis rentré chez moi. :: After having gone to yoga, I came back home.
+    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big cock.
 ===Suisse===
   de {fr-prep} :: from (used to indicate origin)
     Elle vient de (la) France. :: She comes from France.
@@ -5202,8 +5084,6 @@ Index: FR FR->EN
     Martin a trois sandwichs, mais j'en ai seulement deux. :: Martin has three sandwiches, but I have only two (of them).
     Il y en a combien ? :: How many of them are there?
     Je bois de l'alcool parce que j'en ai besoin :: I drink alcohol because I need (of) it.
-  avoir {{fr-verb|type=auxiliary}} :: to have (to trick)
-    Tu t'es fait avoir. :: You've been had.
 ===table===
   tables (plural) {f|p} :: {plural of|table}
 ===tabler===
@@ -5237,6 +5117,8 @@ Index: FR FR->EN
 ===té===
   (Louisiana Creole French) to (pronoun) :: you (singular), thou
     To té paʼlé gra. / To te pale gra. :: You spoke with an accent. (literally: "You had spoken thick.")
+***temperature***
+  (Middle French) temperature {{frm-noun|f}} :: disposition; habitual state; temperament
 ===temps===
   de (article) :: {negative} a, an, any
     Elle n'a pas de mère. :: She hasn't got a mother.
@@ -5391,8 +5273,6 @@ Index: FR FR->EN
     Tu vois que tu avais tort ? :: Do you see that you were wrong?
   dodo {{fr-noun|m}} :: {{context|child language}} Sleep, kip.
     Tu veux faire dodo? :: Do you want to go to sleep?
-  avoir {{fr-verb|type=auxiliary}} :: to have (to trick)
-    Tu t'es fait avoir. :: You've been had.
 ***tuba***
   tuba {{fr-noun|m}} :: tuba
   tuba {{fr-noun|m}} :: snorkel
@@ -5442,6 +5322,8 @@ Index: FR FR->EN
   fortune {{fr-noun|f}} :: fortune
     faire une fortune :: make a fortune
     faire fortune :: make a fortune
+  charade {{fr-noun|f}} :: Something bizarre or hard to understand.
+    Cet ouvrage est une vraie charade. :: This book is really hard to understand, to follow.
 ===Une===
   de {fr-prep} :: of (indicates an amount)
     5 kilos de pommes. :: 5 kilograms of apples.
@@ -5498,8 +5380,6 @@ Index: FR FR->EN
     On va jouer au hand, tu veux venir ? :: We're going to play handball, you want to come?
   look {{fr-noun|m}} :: style; appearance; look
     Je trouve que son nouveau look ne lui va pas du tout. :: I think his new look doesn't suit him at all
-  avoir {{fr-verb|type=auxiliary}} :: {intransitive} to have to
-    Il va avoir à faire les courses. :: He will have to do the shopping.
 ***VA***
   VA (initialism) :: {initialism} {film} "version anglais" — English-language version (EV); a film dubbed in English.
 ***vacuum***
@@ -5640,7 +5520,7 @@ Index: FR FR->EN
   quatre-vingt {{fr-noun-inv|m}} :: {France} Form of quatre-vingts (eighty) used in compounds (the numbers 81 to 99, larger numbers ending in numbers from 81 to 99, and the ordinal numbers corresponding to any of these numbers).
     {{usex|quatre-vingt-six|translation=eighty-six}} :: --
 ===vingts===
-  quatre vingts {{fr-noun-inv|m}} :: eighty, 80.
+  quatre-vingts {{fr-noun-inv|m}} :: eighty, 80.
   quatre-vingt {{fr-noun-inv|m}} :: {France} Form of quatre-vingts (eighty) used in compounds (the numbers 81 to 99, larger numbers ending in numbers from 81 to 99, and the ordinal numbers corresponding to any of these numbers).
     {{usex|quatre-vingt-six|translation=eighty-six}} :: --
 ===violence===
@@ -5716,7 +5596,7 @@ Index: FR FR->EN
   car {{fr-noun|m}} :: coach
     Les élèves vont à l’école en car. :: The pupils go to school by coach.
 ***vote***
-  vote {{fr-noun|m}} :: Vote
+  vote {{fr-noun|m}} :: vote
   vote {fr-verb-form} :: {conjugation of|voter|1|s|pres|ind}
   vote {fr-verb-form} :: {conjugation of|voter|3|s|pres|ind}
   vote {fr-verb-form} :: {conjugation of|voter|1|s|pres|sub}
@@ -5753,12 +5633,15 @@ Index: FR FR->EN
     Ce fromage vient d'Espagne. :: This cheese is from Spain.
     C'est de l'ouest de la France. :: It's from the west of France.
     Le train va de Paris à Bordeaux. :: The train goes from Paris to Bordeaux.
-  être {{fr-verb|type=auxiliary}} :: to be
-    Vous devez être plus clairs. :: You must be clearer.
+===vraie===
+  charade {{fr-noun|f}} :: Something bizarre or hard to understand.
+    Cet ouvrage est une vraie charade. :: This book is really hard to understand, to follow.
 ***w***
   w (letter), uppercase: W :: w
 ===W===
   w (letter), uppercase: W :: w
+***weekend***
+  weekend {{fr-noun|m}} :: weekend
 ***wiki***
   wiki {{fr-noun|m}} :: wiki
 ***wombat***
@@ -5772,6 +5655,8 @@ Index: FR FR->EN
     1862, {{w|Victor Hugo}}, Les Misérables, I.3.i: :: --
     La duchesse de Duras lisait à trois ou quatre amis, dans son boudoir meublé d’X en satin bleu ciel [...]. :: --
     The Duchess de Duras was reading to two or three friends, in a boudoir furnished with X-frame stools in sky-blue satin. :: --
+***XHTML***
+  XHTML {fr-initialism} :: XHTML
 ***xylophone***
   xylophone {{fr-noun|m|s}} :: Xylophone.
 ***y***
@@ -5781,6 +5666,9 @@ Index: FR FR->EN
   y (pronoun), adverbial :: there (to there)
     Nous allons au Mexique. Nous y allons. :: “We are going to Mexico. We are going there.”
   y (pronoun), adverbial :: Used as a pronoun to replace à followed by an indirect object. See Appendix:French verbs followed by à for verbs which use this structure.
+  y {fr-pron} :: {{Quebec|France|colloquial}} He: {alternative form of|il|cap=a}
+  y {fr-pron} :: {{Quebec|colloquial}} They: {alternative form of|ils|cap=a}
+  y {fr-pron} :: {{Quebec|colloquial}} They: {alternative form of|elles|cap=a}
   de (article) :: {indefinite} some; any (in questions or negatives)
     Je voudrais de la viande. :: I'd like some meat.
     Est-ce qu'il y a de la bonne musique ? :: Is there any good music?
@@ -5802,9 +5690,6 @@ Index: FR FR->EN
   yacht {{fr-noun|m}} :: Yacht.
 ***yak***
   yak {{fr-noun|m}} :: alternative spelling of yack, meaning the bovine yak
-===yoga===
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} Used to form the perfect and pluperfect tense of certain verbs (including all reflexive verbs)
-    Après être allé au yoga, je suis rentré chez moi. :: After having gone to yoga, I came back home.
 ***ypréau***
   ypréau {{fr-noun|m|plural=ypréaux}} :: broad-leaved elm
 ***Zaïre***
@@ -5833,9 +5718,6 @@ Index: EN EN->FR
   billion (numeral) :: 10<sup>12</sup>; a long scale billion; a short scale trillion.
 ===18===
   trillion (numeral) :: 10<sup>18</sup>; a long scale trillion; a short scale quintillion.
-===19===
-  avoir {{fr-verb|type=auxiliary}} :: to be; to be aged (speaking of age)
-    Elle a 19 ans. :: She is 19 years old.
 ===1905===
   de {fr-prep} :: of (expresses belonging)
     1837 Louis Viardot, L’Ingénieux Hidalgo Don Quichotte de la Manche<sup>fr.Wikisource</sup>, translation of El ingenioso hidalgo Don Quijote de la Mancha by Miguel de Cervantes Saavedra, Chapter I: :: --
@@ -5851,8 +5733,6 @@ Index: EN EN->FR
 ===20===
   de {fr-prep} :: by
     Boire trois tasses par jour réduirait de 20% les risques de contracter une maladie. :: Drinking three glasses a day would reduce the risk of catching an illness by 20%.
-  avoir {{fr-verb|type=auxiliary}} :: {transitive} to have (to own)
-    J'aimerais avoir 20 dollars. :: I would like to have 20 dollars.
 ===2001===
   en {fr-prep} :: in (during the following time (used for months and years))
     en 1993 :: in 1993
@@ -5875,7 +5755,7 @@ Index: EN EN->FR
   million (numeral) :: million, 10<sup>6</sup>.
   (Middle French) million {{frm-noun|m}} :: {cardinal} million, 10<sup>6</sup>.
 ===80===
-  quatre vingts {{fr-noun-inv|m}} :: eighty, 80.
+  quatre-vingts {{fr-noun-inv|m}} :: eighty, 80.
 ===81===
   quatre-vingt {{fr-noun-inv|m}} :: {France} Form of quatre-vingts (eighty) used in compounds (the numbers 81 to 99, larger numbers ending in numbers from 81 to 99, and the ordinal numbers corresponding to any of these numbers).
     {{usex|quatre-vingt-six|translation=eighty-six}} :: --
@@ -6200,22 +6080,13 @@ Index: EN EN->FR
     Je crois aussi que je n'avais jamais si bien écouté, et que lui non plus n'avait jamais mis autant de patience à ses explications. :: --
     I believe also that I had never listened so well, and that neither had he ever put so much patience into his explanations. :: --
   file {{fr-noun|f}} :: A line of objects placed one after the other.
-===After===
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} Used to form the perfect and pluperfect tense of certain verbs (including all reflexive verbs)
-    Après être allé au yoga, je suis rentré chez moi. :: After having gone to yoga, I came back home.
 ===again===
   qui a bu boira (phrase) :: who has drunk will drink again
-===age===
-  avoir {{fr-verb|type=auxiliary}} :: to be; to be aged (speaking of age)
-    Elle a 19 ans. :: She is 19 years old.
-===aged===
-  avoir {{fr-verb|type=auxiliary}} :: to be; to be aged (speaking of age)
-    Elle a 19 ans. :: She is 19 years old.
 ===agent===
   taupe {{fr-noun|f}} :: mole (undercover agent)
   commission {{fr-noun|f}} :: Commission (fee charged by an agent or broker for carrying out a transaction).
 ===agree===
-  accorder {fr-verb} :: {grammar} To make agree
+  accorder {fr-verb} :: {grammar} To make agree.
 ===agreement===
   accord {{fr-noun|m}} :: agreement
 ===ai===
@@ -6466,8 +6337,6 @@ Index: EN EN->FR
   arcane {{fr-noun|m}} :: {{especially|in the plural}} mysteries, arcanum
 ===are===
   are {{fr-noun|m}} :: An are.
-  (Old French) avoir (verb) :: to exist (there is/there are)
-    {{quote-book|year=c. 1200|author=Author unknown|title=Les quatres sohais Saint Martin|passage=Un vilain ot en Normendie|translation=There was a peasant in Normandy}} :: --
   y (pronoun), adverbial :: there (to there)
     Nous allons au Mexique. Nous y allons. :: “We are going to Mexico. We are going there.”
   en {fr-pron} :: Used as the object of a verb to indicate an indefinite quantity; of it, of them.
@@ -6514,7 +6383,6 @@ Index: EN EN->FR
   rang {{fr-noun|m}} :: {{military|uncountable}} The non-officers of an army, taken as a group.
 ===around===
   vers {fr-prep} :: around, circa (with a date)
-  axe {{fr-noun|m}} :: Straight line that crosses the center of a body and around which it turns; axis.
 ===arrangement===
   distribution {{fr-noun|f}} :: A physical arrangement, spacing
 ===array===
@@ -6529,6 +6397,7 @@ Index: EN EN->FR
 ===arrogant===
   arrogant {fr-adj} :: arrogant
 ===art===
+  (Middle French) art {{frm-noun|m|pl=ars}} :: art
   art {{fr-noun|m}} :: art (something pleasing to the mind)
   bronze {{fr-noun|m}} :: bronze (metal, work of art)
 ===Artemisia===
@@ -6550,10 +6419,8 @@ Index: EN EN->FR
 ===assembly===
   parole {{fr-noun|f}} :: floor; the right to speak in a legislative assembly
     Le député a la parole :: the member has the floor
-===asset===
-  avoir {{fr-noun|m}} :: asset, possession
 ===assistant===
-  second {{fr-noun|m}} :: assistant
+  second {{fr-noun|m}} :: assistant, first mate
     Je m'attachai aux pas de miss Harriet et lui servis de second dans le classement du linge. (Gobineau, Pléiades, 1874) :: --
 ===assisted===
   accession {{fr-noun|f}} :: {legal} accession
@@ -6602,9 +6469,6 @@ Index: EN EN->FR
   borne {{fr-noun|f}} :: A bollard such as those used to restrict automobiles off a pedestrian area.
 ===aux===
   FAQ {{fr-noun-inv|f}} :: FAQ (foire aux questions)
-===auxiliary===
-  avoir {{fr-verb|type=auxiliary}} :: {{context|auxiliary}} to have (auxiliary verb to form compound past tenses of most verbs)
-    J'ai parlé. :: I have spoken.
 ===available===
   accessible {fr-adj-mf} :: {{context|of a place, information, etc.}} accessible, attainable, obtainable, available.
 ===avatar===
@@ -6620,16 +6484,16 @@ Index: EN EN->FR
 ===avoid===
   abrupt {fr-adj} :: Done or said forwardly and without caution to avoid shocking.
 ===award===
-  accorder {fr-verb} :: {sports} To award (a freek kick)
+  accorder {fr-verb} :: {sports} To award (a free kick).
 ===away===
   livrer {fr-verb} :: to give away (a secret etc.); to confide, reveal, drop (a hint)
   tout de suite {{fr-adv|sg=tout de suite}} :: {idiomatic} immediately, right away
   en {fr-pron} :: Adverbial preposition indicating movement away from a place already mentioned. En replaces the partitive article (du, de la, etc.)
     Est-ce qu'elle vient de Barcelone ? Oui, elle en vient. :: Does she come from Barcelona? Yes, she does.
 ===axis===
-  axe {{fr-noun|m}} :: Straight line that crosses the center of a body and around which it turns; axis.
+  axe {{fr-noun|m}} :: axis
 ===axle===
-  axe {{fr-noun|m}} :: Rod on which a wheel revolves; axle
+  axe {{fr-noun|m}} :: axle
 ===B===
   o (abbreviation) :: {computing} octet (B (byte))
 ===baby===
@@ -6638,12 +6502,15 @@ Index: EN EN->FR
   brassière {{fr-noun|f}} :: The use of this word, notably in Quebec French, in the sense of the English brassiere is an anglicism, and a back-formed false friend.
   pour {fr-prep} :: to
     Je veux chanter pour te faire revenir. :: I want to sing to make you come back.
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} Used to form the perfect and pluperfect tense of certain verbs (including all reflexive verbs)
-    Après être allé au yoga, je suis rentré chez moi. :: After having gone to yoga, I came back home.
 ===backbone===
   cadre {{fr-noun|m}} :: The backbone of an organization.
 ===bad===
   abominable {fr-adj-mf} :: Exceedingly bad or ugly; abominable.
+  mal (adjective) :: {{context|in set phrases and limited constructions}} bad
+    bon an, mal an :: --
+    bon gré, mal gré :: --
+    Il est mal de [infinitive] :: --
+    C'est mal de [infinitive] :: --
   carne {{fr-noun|f}} :: {informal} meat (usually of bad quality)
 ===badge===
   badger {fr-verb} :: to use an identity badge
@@ -6713,9 +6580,6 @@ Index: EN EN->FR
 ===bear===
   ours {{fr-noun|m|pl=ours|f=ourse}} :: bear (animal)
   (Middle French) ours {{frm-noun|m|pl=ours|f=ourse}} :: bear (mammal)
-===beaten===
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} to be (Used to form the passive voice)
-    Il peut être battu ce soir. :: He could be beaten this evening.
 ===became===
   de {fr-prep} :: of (expresses belonging)
     1837 Louis Viardot, L’Ingénieux Hidalgo Don Quichotte de la Manche<sup>fr.Wikisource</sup>, translation of El ingenioso hidalgo Don Quijote de la Mancha by Miguel de Cervantes Saavedra, Chapter I: :: --
@@ -6751,8 +6615,6 @@ Index: EN EN->FR
   abattis {{fr-noun|m|plural=abattis}} :: A mass of things that have been subjected to abattage.
   abattis {{fr-noun|m|plural=abattis}} :: {Canada} An area that has been cleared of trees, but not yet of their stumps.
   dupe {{fr-noun|f}} :: A person who has been deceived, see dupe.
-  avoir {{fr-verb|type=auxiliary}} :: to have (to trick)
-    Tu t'es fait avoir. :: You've been had.
 ===beer===
   blonde {{fr-noun|f}} :: light beer
 ===before===
@@ -6769,8 +6631,6 @@ Index: EN EN->FR
     circa 1170, {{w|Chrétien de Troyes}}, Érec et Énide: :: ... que la soe amie<br>Est la plus bele de la sale[.]
     -... The his wife :: --
     Is the most beautiful in the room :: --
-===Belgium===
-  PS {m} :: Parti Socialiste; a socialist political party of either France, Belgium or Switzerland.
 ===belief===
   abjurer {fr-verb} :: {ambitransitive} {religion} To formally renounce one's religious belief; to apostatise.
   base {{fr-noun|f}} :: base, basis (fundamental belief)
@@ -6789,7 +6649,7 @@ Index: EN EN->FR
     faire parler la langue française :: Bertrand Barère
 ===between===
   bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
+    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big cock.
 ===bi===
   bi {{fr-noun|mf}} :: bi, bisexual person
   bi (adjective) {m|f|inv} :: bi, bisexual
@@ -6801,7 +6661,7 @@ Index: EN EN->FR
   cadre {{fr-noun|m}} :: frame (of a bicycle)
 ===big===
   bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
+    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big cock.
 ===bigger===
   pain {{fr-noun|m}} :: Same kind of bread as a baguette, but bigger in size.
 ===bill===
@@ -6833,6 +6693,9 @@ Index: EN EN->FR
   bribe {{fr-noun|f}} :: scrap, bit
 ===bits===
   cake {{fr-noun|m}} :: quick bread (a smallish loaf-shaped baked good which may be sweet like an English cake or salty and with bits of meat. See insert).
+===bizarre===
+  charade {{fr-noun|f}} :: Something bizarre or hard to understand.
+    Cet ouvrage est une vraie charade. :: This book is really hard to understand, to follow.
 ===black===
   black {{fr-noun|mf}} :: black person
   en {fr-prep} :: in (used to describe color)
@@ -6883,7 +6746,6 @@ Index: EN EN->FR
   passage {{fr-noun|m}} :: A trip or travel, especially by boat.
 ===body===
   mobile {{fr-noun|m}} :: {physics} moving body
-  axe {{fr-noun|m}} :: Straight line that crosses the center of a body and around which it turns; axis.
 ===bollard===
   borne {{fr-noun|f}} :: A bollard such as those used to restrict automobiles off a pedestrian area.
 ===bombasine===
@@ -6897,6 +6759,8 @@ Index: EN EN->FR
   (Old French) os {{fro-noun|m|os|os}} :: bone
 ===book===
   livre {{fr-noun|m}} :: book
+  charade {{fr-noun|f}} :: Something bizarre or hard to understand.
+    Cet ouvrage est une vraie charade. :: This book is really hard to understand, to follow.
   lui {fr-pron} :: Him, her; the third-person singular personal pronoun used as an indirect object.
     Je lui ai donné le livre. :: I gave the book to him/her.
 ===booklet===
@@ -7089,13 +6953,10 @@ Index: EN EN->FR
     Ces choses-ci :: these things
     Je préfère ce gateau-ci à celui-là. :: I prefer this cake to that one.
 ===calf===
-  robin {{fr-noun|m}} :: {{obsolete| lang=fr}} sheep, calf
+  robin {{fr-noun|m}} :: {obsolete} sheep, calf
 ===called===
   able {{fr-noun|m}} :: A vernacular name of the common bleak (usually called ablette).
   able {{fr-noun|m}} :: A vernacular name of the moderlieschen, also called able de Heckel.
-===came===
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} Used to form the perfect and pluperfect tense of certain verbs (including all reflexive verbs)
-    Après être allé au yoga, je suis rentré chez moi. :: After having gone to yoga, I came back home.
 ===campaign===
   action {{fr-noun|f}} :: campaign
     une action promotionnelle :: a promotional campaign
@@ -7117,7 +6978,7 @@ Index: EN EN->FR
 ===canal===
   canal {{fr-noun|m|plural=canaux}} :: canal
 ===cannabis===
-  shit {{fr-noun-unc|m}} :: {slang} hash (cannabis)
+  shit {{fr-noun-unc|m}} :: {slang} cannabis
 ===capable===
   (Old French) able {m|f} (adjective) :: able; capable
   absorbable {fr-adj-mf} :: capable of being absorbed
@@ -7217,8 +7078,6 @@ Index: EN EN->FR
     Oscar Dufresne is a celebrity who is anti-celebrity, a powerless macho man, an intellectual who says nothing intelligent, a fake sadist and a fake masochist, an anti-autobiographer. :: --
   star {{fr-noun|f}} :: star (celebrity)
     Elle est devenue star. :: she's become a star.
-===center===
-  axe {{fr-noun|m}} :: Straight line that crosses the center of a body and around which it turns; axis.
 ===central===
   central {{fr-adj|mp=centraux}} :: central
 ===Central===
@@ -7230,8 +7089,6 @@ Index: EN EN->FR
   certain {fr-adj} :: certain (specified, particular)
   certain {{fr-noun|m}} :: certain; certainty
   (Old French) certain (adjective) :: certain; sure
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} Used to form the perfect and pluperfect tense of certain verbs (including all reflexive verbs)
-    Après être allé au yoga, je suis rentré chez moi. :: After having gone to yoga, I came back home.
   mikado {{fr-noun|m}} :: {history} mikado, a former title of the emperors of Japan during a certain period
   former {fr-verb} :: to shape (to make into a certain shape)
 ===certainty===
@@ -7251,9 +7108,11 @@ Index: EN EN->FR
 ===channel===
   canal {{fr-noun|m|plural=canaux}} :: channel (broadcasting: specific radio frequency or band of frequencies)
 ===character===
-  œil {{fr-noun|m|pl=yeux}} :: glyph, rendering of a single character
+  œil {{fr-noun|m|pl=yeux|pl2=œils}} :: glyph, rendering of a single character (plural yeux)
 ===Character===
   aberrance {{fr-noun|f}} :: {statistics} Character of what is aberrant.
+===charade===
+  charade {{fr-noun|f}} :: charade (kind of riddle)
 ===charge===
   gratuit {fr-adj} :: free of charge
 ===charged===
@@ -7346,9 +7205,6 @@ Index: EN EN->FR
   libre {fr-adj-mf} :: clear, free, vacant
     La voie est libre. :: The way is clear.
   abattis {{fr-noun|m|plural=abattis}} :: {Canada} An area that has been cleared of trees, but not yet of their stumps.
-===clearer===
-  être {{fr-verb|type=auxiliary}} :: to be
-    Vous devez être plus clairs. :: You must be clearer.
 ===cleft===
   bien fendu (adjective) :: {idiomatic} well cleft, (or long-legged)
 ===cliché===
@@ -7384,7 +7240,7 @@ Index: EN EN->FR
 ===cock===
   chien {{fr-noun|m|s|chienne}} :: cock, hammer (of a firearm)
   bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
+    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big cock.
   gaffe {{fr-noun|f}} :: gaffe, blunder, goof-up (North American), cock-up (British)
 ===cognate===
   Jordan {fr-proper noun} :: {{given name|male}}, cognate to English Jordan.
@@ -7395,14 +7251,12 @@ Index: EN EN->FR
   sol {{fr-noun|m}} :: A Spanish-American gold or silver coin, now the main currency unit of Peru (also new sol), or a coin of this value.
   sol {{fr-noun|m}} :: {archaic} sou, the feudal era coin.
   face {{fr-noun|f}} :: head (of a coin)
+  (Old French) ducat {{fro-noun|m|ducatz|ducatz}} :: ducat (historical coin)
 ===cold===
   short {{fr-noun|m}} :: shorts, short trousers (UK)
     Avec un pantalon, j'ai moins froid aux jambes qu'avec un short. :: “With trousers on, my legs are not as cold as with shorts on.”
   pull {{fr-noun|m}} :: pullover
     Il fait froid; je vais mettre mon pull :: It's cold; I'm going to put on my pullover
-  avoir {{fr-verb|type=auxiliary}} :: to be (speaking of condition)
-    J'ai faim. :: I'm hungry.
-    J'ai froid. :: I'm cold.
 ===collect===
   poire {{fr-noun|f}} :: A bulb, usually pear-shaped, used to collect gases or liquids, such as that of a dropper.
 ===collection===
@@ -7433,8 +7287,6 @@ Index: EN EN->FR
   turquoise (adjective) {inv} :: turquoise-colored
 ===coloring===
   pigment {{fr-noun|m}} :: pigment, coloring substance
-===colors===
-  nuance {{fr-noun|f}} :: gradation of colors
 ===colour===
   (Old French) color {{fro-noun|f}} :: color, colour
   violet (noun) :: purple (colour)
@@ -7493,9 +7345,6 @@ Index: EN EN->FR
   en {fr-prep} :: of, made of (used to describe composition)
     une chaise en hêtre :: a chair made of beech/a beech chair
     une fourchette en métal :: a fork made of metal/a metal fork
-===compound===
-  avoir {{fr-verb|type=auxiliary}} :: {{context|auxiliary}} to have (auxiliary verb to form compound past tenses of most verbs)
-    J'ai parlé. :: I have spoken.
 ===compounds===
   quatre-vingt {{fr-noun-inv|m}} :: {France} Form of quatre-vingts (eighty) used in compounds (the numbers 81 to 99, larger numbers ending in numbers from 81 to 99, and the ordinal numbers corresponding to any of these numbers).
     {{usex|quatre-vingt-six|translation=eighty-six}} :: --
@@ -7515,9 +7364,6 @@ Index: EN EN->FR
   condition {{fr-noun|f}} :: condition
     en bonne condition :: In good condition
   (Middle French) condition {{frm-noun|f}} :: condition (state, quality)
-  avoir {{fr-verb|type=auxiliary}} :: to be (speaking of condition)
-    J'ai faim. :: I'm hungry.
-    J'ai froid. :: I'm cold.
 ===cone===
   cornet {{fr-noun|m}} :: (paper) cone
   cornet {{fr-noun|m}} :: (pastry) horn; (ice-cream) cone
@@ -7595,8 +7441,6 @@ Index: EN EN->FR
 ===could===
   augment {{fr-noun|m}} :: (mediaeval law) part of the estates which the widow could inherit
     Est aussi conclud et accordé qu'au lieu de douaire dont l'on a accoustumé d'user en France, ladite dame Elisabeth aura pour augment le dot dudit mariage selon l'usage des pais du roy d'Espagne, 166,666 escus d'or sol deux tiers. (marriage contract of the prince of Spain and Ms Elisabeth of France) note: this quote is in Middle French. :: --
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} to be (Used to form the passive voice)
-    Il peut être battu ce soir. :: He could be beaten this evening.
 ===country===
   country {{fr-noun-unc|m}} :: country music
   France {{fr-proper noun|f}} :: France (country)
@@ -7624,14 +7468,11 @@ Index: EN EN->FR
   cousin {{fr-noun|m}} :: crane fly
 ===cream===
   cornet {{fr-noun|m}} :: (pastry) horn; (ice-cream) cone
-===creature===
-  être {{fr-noun|m}} :: being, creature
 ===crime===
   crime {{fr-noun|m}} :: crime
     Le crime ne paie pas. :: --
   mobile {{fr-noun|m}} :: motive (for an action, for a crime)
 ===cross===
-  axe {{fr-noun|m}} :: Straight line that crosses the center of a body and around which it turns; axis.
   borne {{fr-noun|f}} :: mark
     dépasser les bornes :: cross the mark
 ===crosses===
@@ -7807,7 +7648,7 @@ Index: EN EN->FR
   dialogue {{fr-noun|m}} :: dialogue
 ===dick===
   bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
+    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big cock.
 ===dictionary===
   dictionnaire {{fr-noun|m}} :: dictionary: a list of words, usually alphabetically, usually with definitions or translations
   dictionnaire {{fr-noun|m}} :: {computing} dictionary, an associative array
@@ -7844,6 +7685,8 @@ Index: EN EN->FR
     I believe also that I had never listened so well, and that neither had he ever put so much patience into his explanations. :: --
 ===disk===
   (Old French) plate {{fro-noun|f}} :: a flat metal disk
+===disposition===
+  (Middle French) temperature {{frm-noun|f}} :: disposition; habitual state; temperament
 ===distance===
   distance {{fr-noun|f}} :: distance
 ===distinct===
@@ -7867,8 +7710,6 @@ Index: EN EN->FR
     Martin a trois sandwichs, mais j'en ai seulement deux. :: Martin has three sandwiches, but I have only two (of them).
     Il y en a combien ? :: How many of them are there?
     Je bois de l'alcool parce que j'en ai besoin :: I drink alcohol because I need (of) it.
-  avoir {{fr-verb|type=auxiliary}} :: {intransitive} to have to
-    Il va avoir à faire les courses. :: He will have to do the shopping.
 ===Do===
   voir {fr-verb} :: to see (to understand)
     Tu vois que tu avais tort ? :: Do you see that you were wrong?
@@ -7911,9 +7752,6 @@ Index: EN EN->FR
   dojo {{fr-noun|m}} :: {martial arts} dojo
 ===dollar===
   dollar {{fr-noun|m}} :: dollar
-===dollars===
-  avoir {{fr-verb|type=auxiliary}} :: {transitive} to have (to own)
-    J'aimerais avoir 20 dollars. :: I would like to have 20 dollars.
 ===donate===
   donner {fr-verb} :: To donate
 ===done===
@@ -7963,6 +7801,8 @@ Index: EN EN->FR
   balance {{fr-noun|f}} :: {fishing} drop-net
 ===dropper===
   poire {{fr-noun|f}} :: A bulb, usually pear-shaped, used to collect gases or liquids, such as that of a dropper.
+===drugs===
+  stone {{rfc-level|Adjective at L4+ not in L3 Ety section}}{fr-adj-mf} :: stoned (high on drugs)
 ===drunk===
   qui a bu boira (phrase) :: who has drunk will drink again
 ===du===
@@ -7979,8 +7819,9 @@ Index: EN EN->FR
   trail {{fr-noun|f}} :: Dual-sport motorcycle
 ===dubbed===
   VA (initialism) :: {initialism} {film} "version anglais" — English-language version (EV); a film dubbed in English.
-===Ducat===
-  ducat {{fr-noun|m}} :: Ducat
+===ducat===
+  ducat {{fr-noun|m}} :: ducat
+  (Old French) ducat {{fro-noun|m|ducatz|ducatz}} :: ducat (historical coin)
 ===Duchy===
   Luxembourg {{fr-proper noun|m}} :: Luxembourg (Grand Duchy)
 ===duck===
@@ -8032,11 +7873,9 @@ Index: EN EN->FR
     Je travaille de huit heures à midi. :: --
     un groupe de cinq à huit personnes :: a group of [from] five to eight people
 ===eighty===
-  quatre vingts {{fr-noun-inv|m}} :: eighty, 80.
+  quatre-vingts {{fr-noun-inv|m}} :: eighty, 80.
   quatre-vingt {{fr-noun-inv|m}} :: {France} Form of quatre-vingts (eighty) used in compounds (the numbers 81 to 99, larger numbers ending in numbers from 81 to 99, and the ordinal numbers corresponding to any of these numbers).
     {{usex|quatre-vingt-six|translation=eighty-six}} :: --
-===either===
-  PS {m} :: Parti Socialiste; a socialist political party of either France, Belgium or Switzerland.
 ===El===
   El Salvador {fr-proper noun} :: El Salvador
   Salvador {fr-proper noun} :: El Salvador (country in Central America)
@@ -8121,8 +7960,6 @@ Index: EN EN->FR
     circa 1170, {{w|Chrétien de Troyes}}, Érec et Énide: :: La pane fu de blanc ermine
 ===erotic===
   rose {fr-adj-mf} :: {colloquial} erotic, blue
-===es===
-  axe {{fr-noun|m}} :: Straight line that crosses the center of a body and around which it turns; axis.
 ===especially===
   ablution {{fr-noun|f}} :: {rare} A washing, especially ritual.
   abord {{fr-noun|m}} :: {literary} The manner with which one acts in the presence of another person or persons, especially in a first encounter.
@@ -8166,8 +8003,6 @@ Index: EN EN->FR
   VA (initialism) :: {initialism} {film} "version anglais" — English-language version (EV); a film dubbed in English.
 ===evening===
   habit {{fr-noun|m}} :: article of clothing, garment, dress-coat, evening dress, tails, full dress
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} to be (Used to form the passive voice)
-    Il peut être battu ce soir. :: He could be beaten this evening.
 ===event===
   passage {{fr-noun|m}} :: The act of going through a place or event.
 ===everything===
@@ -8191,9 +8026,6 @@ Index: EN EN->FR
   cadre {{fr-noun|m}} :: An executive.
 ===exercising===
   (Middle French) continent {{frm-adj|mp=continens}} :: continent (exercising restraint)
-===exist===
-  (Old French) avoir (verb) :: to exist (there is/there are)
-    {{quote-book|year=c. 1200|author=Author unknown|title=Les quatres sohais Saint Martin|passage=Un vilain ot en Normendie|translation=There was a peasant in Normandy}} :: --
 ===existence===
   existence {{fr-noun|f}} :: existence
   (Old French) substance {{fro-noun|f}} :: existence
@@ -8232,8 +8064,8 @@ Index: EN EN->FR
 ===extremity===
   about {{fr-noun|m}} :: {{context|technical}} The extremity of a metallic or wooden element or piece.
 ===eye===
-  œil {{fr-noun|m|pl=yeux}} :: eye, organ that is sensitive to light, helping organisms to see
-  œil {{fr-noun|m|pl=yeux}} :: eye (of a needle), plural œils
+  œil {{fr-noun|m|pl=yeux|pl2=œils}} :: eye, organ that is sensitive to light, helping organisms to see (plural yeux)
+  œil {{fr-noun|m|pl=yeux|pl2=œils}} :: eye (of a needle) (plural œils)
   (Middle French) œil {{frm-noun|m|pl=yeulx}} :: {{anatomy|skey=oeil}} eye
 ===fa===
   sol {{fr-noun|m}} :: {music} sol, the fifth step in the solfège scale of C, preceded by fa and followed by la.
@@ -8367,6 +8199,8 @@ Index: EN EN->FR
 ===firm===
   business {{fr-noun-inv|m}} :: business, firm, company
 ===first===
+  second {{fr-noun|m}} :: assistant, first mate
+    Je m'attachai aux pas de miss Harriet et lui servis de second dans le classement du linge. (Gobineau, Pléiades, 1874) :: --
   abord {{fr-noun|m}} :: {literary} The manner with which one acts in the presence of another person or persons, especially in a first encounter.
   droit de seigneur {m} (noun) :: the right of the lord. (The right of the first night ius primae noctis i.e. the right of the feudal lord to deflower the maiden bride of one of his vassals).
   rate {fr-verb-form} :: first-person singular indicative present form of rater
@@ -8428,6 +8262,9 @@ Index: EN EN->FR
   volatile {fr-adj-mf} :: flying, volant
 ===foire===
   FAQ {{fr-noun-inv|f}} :: FAQ (foire aux questions)
+===follow===
+  charade {{fr-noun|f}} :: Something bizarre or hard to understand.
+    Cet ouvrage est une vraie charade. :: This book is really hard to understand, to follow.
 ===followed===
   y (pronoun), adverbial :: Used as a pronoun to replace à followed by an indirect object. See Appendix:French verbs followed by à for verbs which use this structure.
   sol {{fr-noun|m}} :: {music} sol, the fifth step in the solfège scale of C, preceded by fa and followed by la.
@@ -8535,7 +8372,6 @@ Index: EN EN->FR
   (Middle French) France {f} (proper noun) :: France (country of the Europe)
   (Old French) France {{fro-proper noun|f}} :: France (country)
   Condé-sur-Sarthe :: Small town near Alençon in France
-  PS {m} :: Parti Socialiste; a socialist political party of either France, Belgium or Switzerland.
   de {fr-prep} :: of (expresses belonging)
     1837 Louis Viardot, L’Ingénieux Hidalgo Don Quichotte de la Manche<sup>fr.Wikisource</sup>, translation of El ingenioso hidalgo Don Quijote de la Mancha by Miguel de Cervantes Saavedra, Chapter I: :: --
     Dans une bourgade de la Manche, dont je ne veux pas me rappeler le nom, vivait, il n’y a pas longtemps, un hidalgo .... :: --
@@ -8569,6 +8405,7 @@ Index: EN EN->FR
     Il a fait cette action de sa pure et franche volonté. :: His action was performed out of his free will
   franc {{fr-adj|feminine=franche}} :: tax-free
     Port franc :: Free port
+  accorder {fr-verb} :: {sports} To award (a free kick).
   de {fr-prep} :: from (used to indicate the start of a time or range)
     De 9:00 à 11:00 je ne serai pas libre. :: From 9 to 11 I won't be free.
     Je travaille de huit heures à midi. :: --
@@ -8578,8 +8415,6 @@ Index: EN EN->FR
     Temps libre. :: Free time.
   franc {{fr-adj|feminine=franche}} :: tax-free
     Port franc :: Free port
-===freek===
-  accorder {fr-verb} :: {sports} To award (a freek kick)
 ===french===
   pommes frites {f} (noun), :: french fries; chips
 ===French===
@@ -8682,7 +8517,7 @@ Index: EN EN->FR
   square {{fr-noun|m}} :: small public garden in the middle of a square
     Le square de la tour Saint-Jacques. :: --
 ===garlic===
-  ail {{fr-noun|m}} (or, rarely, aulx) :: garlic
+  ail {{fr-noun|m|pl2=aulx}} :: garlic
 ===garment===
   habit {{fr-noun|m}} :: article of clothing, garment, dress-coat, evening dress, tails, full dress
 ===gas===
@@ -8789,7 +8624,7 @@ Index: EN EN->FR
 ===glycoprotéine===
   gp (abbreviation) :: glycoprotéine
 ===glyph===
-  œil {{fr-noun|m|pl=yeux}} :: glyph, rendering of a single character
+  œil {{fr-noun|m|pl=yeux|pl2=œils}} :: glyph, rendering of a single character (plural yeux)
 ===go===
   go {{fr-noun-inv|m}} :: go
   voir {fr-verb} :: to see (to visit, to go and see)
@@ -8844,18 +8679,10 @@ Index: EN EN->FR
   blond {{fr-noun|m|f=blonde}} :: the colour blond; a golden-brown
 ===golf===
   putter {{fr-noun|m}} :: putter (golf club)
-===gone===
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} Used to form the perfect and pluperfect tense of certain verbs (including all reflexive verbs)
-    Après être allé au yoga, je suis rentré chez moi. :: After having gone to yoga, I came back home.
 ===good===
   bien {{fr-noun|m}} :: good as opposed to evil
   bien {{fr-noun|m}} :: a commodity, a good
   (Old French) bien {{fro-noun|m}} :: good (as opposed to evil)
-  (Old French) avoir {{fro-noun|m}} :: possession; good
-    circa 1170, {{w|Chrétien de Troyes}}, Érec et Énide: :: --
-    C'est mes avoirs, c'est mes tresorz. :: --
-    It is my possession, it is my treasure. :: --
-    {{quote-book|circa 1250|title=Ci encoumence la vie de Sainte Marie l'Egypcienne|author=Rutebeuf|passage=Robes, deniers ne autre avoir<br>Ne voloit de l'autrui avoir.|translation=Not clothing, nor money, nor other possessions<br>Did she want to have from others.}} :: --
   baste pour cela :: Enough of that, all well and good, so be it.
   cake {{fr-noun|m}} :: quick bread (a smallish loaf-shaped baked good which may be sweet like an English cake or salty and with bits of meat. See insert).
   de (article) :: {indefinite} some; any (in questions or negatives)
@@ -8887,8 +8714,6 @@ Index: EN EN->FR
 ===gracier===
   gracias :: second-person singular past historic of gracier
   gracia :: third-person singular past historic of gracier
-===gradation===
-  nuance {{fr-noun|f}} :: gradation of colors
 ===grade===
   note {{fr-noun|f}} :: mark (UK), grade (US)
 ===Graduation===
@@ -8901,7 +8726,7 @@ Index: EN EN->FR
 ===Grand===
   Luxembourg {{fr-proper noun|m}} :: Luxembourg (Grand Duchy)
 ===grant===
-  accorder {fr-verb} :: {transitive} To grant (something to someone)
+  accorder {fr-verb} :: {transitive} To grant (something to someone).
 ===gratuitous===
   gratuit {fr-adj} :: gratuitous, for no reason
     méchanceté gratuite :: --
@@ -8958,11 +8783,11 @@ Index: EN EN->FR
   cheval {{fr-noun|m|plural=chevaux}} :: {slang} horse, H (narcotic)
 ===habitat===
   habitat {{fr-noun|m}} :: habitat
+===habitual===
+  (Middle French) temperature {{frm-noun|f}} :: disposition; habitual state; temperament
 ===had===
   on {fr-pron} :: {informal} We.
     On s'est amusé :: We had fun
-  avoir {{fr-verb|type=auxiliary}} :: to have (to trick)
-    Tu t'es fait avoir. :: You've been had.
 ===hair===
   blond {fr-adj} :: pale golden-brown in colour, usually said of hair
   blond {{fr-noun|m|f=blonde}} :: someone with blond hair
@@ -8980,7 +8805,7 @@ Index: EN EN->FR
   passage {{fr-noun|m}} :: the act of handing something to someone.
   ablution {{fr-noun|f}} :: {{context|Western|_|Christianity}} Ritual rinsing of the priest's hand; ablution.
   bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
+    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big cock.
 ===handball===
   hand {{fr-noun|m|pl=-}} :: handball
     On va jouer au hand, tu veux venir ? :: We're going to play handball, you want to come?
@@ -9000,6 +8825,8 @@ Index: EN EN->FR
   port {m} (noun) :: port, harbour city
 ===hard===
   cruel {{fr-adj|f=cruelle}} :: hard, painful
+  charade {{fr-noun|f}} :: Something bizarre or hard to understand.
+    Cet ouvrage est une vraie charade. :: This book is really hard to understand, to follow.
 ===hardcore===
   hard {fr-adj-mf} :: {{context|of pornography}} hardcore
     {{usex|Des photos hards.}} :: --
@@ -9021,8 +8848,6 @@ Index: EN EN->FR
     Je bois de l'alcool parce que j'en ai besoin :: I drink alcohol because I need (of) it.
   parole {{fr-noun|f}} :: floor; the right to speak in a legislative assembly
     Le député a la parole :: the member has the floor
-===hash===
-  shit {{fr-noun-unc|m}} :: {slang} hash (cannabis)
 ===hasn===
   de (article) :: {negative} a, an, any
     Elle n'a pas de mère. :: She hasn't got a mother.
@@ -9041,19 +8866,7 @@ Index: EN EN->FR
     Il a perdu son chapeau. :: He lost his hat.
     J'aime son amie. :: I like her/his girlfriend.
 ===have===
-  avoir {{fr-verb|type=auxiliary}} :: {transitive} to have (to own)
-    J'aimerais avoir 20 dollars. :: I would like to have 20 dollars.
-  avoir {{fr-verb|type=auxiliary}} :: {intransitive} to have to
-    Il va avoir à faire les courses. :: He will have to do the shopping.
-  avoir {{fr-verb|type=auxiliary}} :: to have (to trick)
-    Tu t'es fait avoir. :: You've been had.
-  (Middle French) avoir (verb) :: to have
-  (Old French) avoir (verb) :: to have
   abattis {{fr-noun|m|plural=abattis}} :: A mass of things that have been subjected to abattage.
-  avoir {{fr-verb|type=auxiliary}} :: {{context|auxiliary}} to have (auxiliary verb to form compound past tenses of most verbs)
-    J'ai parlé. :: I have spoken.
-  (Middle French) avoir (verb) :: {{context|auxiliary verb}} to have (verb used to form the perfect tense)
-  (Old French) avoir (verb) :: {{context|auxiliary verb}} to have (verb used to form the perfect tense)
   en {fr-pron} :: Used as the object of a verb to indicate an indefinite quantity; of it, of them.
     Tu as combien de livres ? J'en ai trois. :: How many books do you have? I have three (of them).
     Y a-t-il beaucoup de pièces ? Oui. Il y en a beaucoup. :: Are there many rooms? Yes, there are many (of them).
@@ -9069,8 +8882,6 @@ Index: EN EN->FR
     Je n'ai pas de temps. :: I haven't got any time.
 ===having===
   duel {{fr-adj|f=duelle}} :: dual (having two components)
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} Used to form the perfect and pluperfect tense of certain verbs (including all reflexive verbs)
-    Après être allé au yoga, je suis rentré chez moi. :: After having gone to yoga, I came back home.
 ===he===
   lui {fr-pron} :: him, he; the third-person masculine singular personal pronoun used after a preposition, or as the predicate of a linking verb, or when disjoined from a sentence, or as a stressed subject.
     J'habitais avec lui. :: I was living with him.
@@ -9095,6 +8906,7 @@ Index: EN EN->FR
   massacrer {fr-verb} :: {figuratively} to do something badly
     Il a massacré cette chanson :: he sung that song really badly (lit. "he massacred that song")
 ===He===
+  y {fr-pron} :: {{Quebec|France|colloquial}} He: {alternative form of|il|cap=a}
   y (pronoun), adverbial :: there (at a place)
     Il est dans la maison. Il y est. :: “He is in the house. He is there.”
   de {fr-prep} :: {{non-gloss definition|used after certain verbs before an infinitive, often translating into English as a gerund or an infinitive}}
@@ -9115,7 +8927,7 @@ Index: EN EN->FR
     Il a perdu son chapeau. :: He lost his hat.
     J'aime son amie. :: I like her/his girlfriend.
   bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
+    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big cock.
   lit {{fr-noun|m}} :: bed
     Où est-il? Il dort dans son lit. :: Where is he? He's sleeping in his bed.
   lui {fr-pron} :: him, he; the third-person masculine singular personal pronoun used after a preposition, or as the predicate of a linking verb, or when disjoined from a sentence, or as a stressed subject.
@@ -9130,10 +8942,6 @@ Index: EN EN->FR
   anglais {{fr-adj|mp=anglais}} :: English
     Il est anglais :: He is English.
     Ceci n'est pas un avion anglais. :: This is not an English airplane
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} to be (Used to form the passive voice)
-    Il peut être battu ce soir. :: He could be beaten this evening.
-  avoir {{fr-verb|type=auxiliary}} :: {intransitive} to have to
-    Il va avoir à faire les courses. :: He will have to do the shopping.
 ===head===
   face {{fr-noun|f}} :: head (of a coin)
 ===heap===
@@ -9146,7 +8954,7 @@ Index: EN EN->FR
 ===Hell===
   abime {{fr-noun|m}} :: {literary} Hell.
 ===helping===
-  œil {{fr-noun|m|pl=yeux}} :: eye, organ that is sensitive to light, helping organisms to see
+  œil {{fr-noun|m|pl=yeux|pl2=œils}} :: eye, organ that is sensitive to light, helping organisms to see (plural yeux)
 ===hemp===
   abaca {{fr-noun|m}} :: Manilla hemp.
 ===hence===
@@ -9181,9 +8989,8 @@ Index: EN EN->FR
     il abscond :: he hides
 ===hierarchy===
   rang {{fr-noun|m}} :: A rank or position in a series or hierarchy.
-===higher===
-  avoir {{fr-verb|type=auxiliary}} :: to be, measure (speaking of measurements)
-    Le mur semble avoir plus de deux mètres de haut. :: The wall seems to be higher than two metres.
+===high===
+  stone {{rfc-level|Adjective at L4+ not in L3 Ety section}}{fr-adj-mf} :: stoned (high on drugs)
 ===him===
   lui {fr-pron} :: him, he; the third-person masculine singular personal pronoun used after a preposition, or as the predicate of a linking verb, or when disjoined from a sentence, or as a stressed subject.
     J'habitais avec lui. :: I was living with him.
@@ -9212,7 +9019,7 @@ Index: EN EN->FR
     Il a perdu son chapeau. :: He lost his hat.
     J'aime son amie. :: I like her/his girlfriend.
   bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
+    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big cock.
   look {{fr-noun|m}} :: style; appearance; look
     Je trouve que son nouveau look ne lui va pas du tout. :: I think his new look doesn't suit him at all
   lit {{fr-noun|m}} :: bed
@@ -9230,9 +9037,10 @@ Index: EN EN->FR
   gracias :: second-person singular past historic of gracier
   gracia :: third-person singular past historic of gracier
   rata :: third-person singular past historic form of rater
-  put (verb form) :: third-person singular past historic of pouvoir.
   vomit :: third-person singular past historic form of vomir
   fit {fr-verb-form} :: third-person singular indicative past historic of faire
+===historical===
+  (Old French) ducat {{fro-noun|m|ducatz|ducatz}} :: ducat (historical coin)
 ===history===
   en {fr-prep} :: at (used to describe an ability)
     fort en histoire :: good at history
@@ -9257,8 +9065,6 @@ Index: EN EN->FR
     accession sociale à la propriété :: assisted home-ownership scheme
   natal {{fr-adj|mpl=nataux|fpl=natales}} :: native
     ville natale&nbsp; :: home town
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} Used to form the perfect and pluperfect tense of certain verbs (including all reflexive verbs)
-    Après être allé au yoga, je suis rentré chez moi. :: After having gone to yoga, I came back home.
 ===homicide===
   crime {{fr-noun|m}} :: murder, homicide
 ===homophone===
@@ -9334,9 +9140,6 @@ Index: EN EN->FR
 ===hungry===
   avoir faim (phrase) :: to be hungry
     J'ai faim. :: I'm hungry.
-  avoir {{fr-verb|type=auxiliary}} :: to be (speaking of condition)
-    J'ai faim. :: I'm hungry.
-    J'ai froid. :: I'm cold.
 ===husband===
   (Old French) baron {{fro-noun|m|barons|ber|baron}} :: {by extension} husband
 ===hut===
@@ -9379,10 +9182,6 @@ Index: EN EN->FR
   impact {{fr-noun|m}} :: {{context|literally or figuratively}} impact
 ===impala===
   impala {{fr-noun|m}} :: impala
-===impassible===
-  impassible {fr-adj-mf} :: {theology} impassible
-===impassive===
-  impassible {fr-adj-mf} :: impassive
 ===important===
   important {fr-adj} :: important
     Il est important de se brosser les dents. :: It is important to brush your teeth.
@@ -9395,8 +9194,6 @@ Index: EN EN->FR
   cadre {{fr-noun|m}} :: An imprinted box on a page.
 ===improperly===
   abuser {fr-verb} :: to abuse (use improperly)
-===impudence===
-  impudence {{fr-noun|f}} :: impudence
 ===In===
   panier {{fr-noun|m}} :: In an online store, the shopping basket where a shopper reserves or collects items for purchase
   de {fr-prep} :: of (expresses belonging)
@@ -9407,9 +9204,6 @@ Index: EN EN->FR
     En 1905, les églises deviennent la propriété de l'État. :: In 1905, churches became the property of the state.
   condition {{fr-noun|f}} :: condition
     en bonne condition :: In good condition
-===including===
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} Used to form the perfect and pluperfect tense of certain verbs (including all reflexive verbs)
-    Après être allé au yoga, je suis rentré chez moi. :: After having gone to yoga, I came back home.
 ===incorrigible===
   incorrigible {fr-adj-mf} :: incorrigible
   incorrigible {{fr-noun|m}} :: An incorrigible
@@ -9692,7 +9486,7 @@ Index: EN EN->FR
   KGB (proper noun), m :: KGB (the former Soviet State Security Committee)
 ===kick===
   penalty {{fr-noun|m|pl=penalties}} :: {sports} penalty, penalty kick
-  accorder {fr-verb} :: {sports} To award (a freek kick)
+  accorder {fr-verb} :: {sports} To award (a free kick).
 ===kid===
   gone {{fr-noun|m}} :: {{context|Lyon|_|dialect}} kid (child)
   marmot {{fr-noun|m}} :: {colloquial} kid, brat
@@ -9708,6 +9502,7 @@ Index: EN EN->FR
 ===kind===
   race {{fr-noun|f}} :: kind
   pain {{fr-noun|m}} :: Same kind of bread as a baguette, but bigger in size.
+  charade {{fr-noun|f}} :: charade (kind of riddle)
 ===kip===
   dodo {{fr-noun|m}} :: {{context|child language}} Sleep, kip.
     Tu veux faire dodo? :: Do you want to go to sleep?
@@ -9721,7 +9516,7 @@ Index: EN EN->FR
   rang {{fr-noun|m}} :: {{context|knitting}} A knitting course.
 ===knob===
   bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
+    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big cock.
 ===know===
   lui {fr-pron} :: him, he; the third-person masculine singular personal pronoun used after a preposition, or as the predicate of a linking verb, or when disjoined from a sentence, or as a stressed subject.
     J'habitais avec lui. :: I was living with him.
@@ -9833,7 +9628,7 @@ Index: EN EN->FR
 ===law===
   article {{fr-noun|m}} :: {Canada} section (of a law)
 ===lawyer===
-  robin {{fr-noun|m}} :: {{archaic|pejorative| lang=fr}} lawyer
+  robin {{fr-noun|m}} :: {{archaic|pejorative}} lawyer
 ===lay===
   civil {fr-adj} :: {politics} lay
 ===Le===
@@ -9844,6 +9639,7 @@ Index: EN EN->FR
   mine {{fr-noun|f}} :: pencil lead
 ===leader===
   leader {{fr-noun|m}} :: leader
+  (Middle French) president {{frm-noun|m|pl=presidens}} :: president (leader of an organization)
 ===leave===
   absenter {{fr-verb|sg=s'absenter}} :: {reflexive} to leave; to absent oneself
   en {fr-prep} :: by (used to indicate means)
@@ -9912,7 +9708,7 @@ Index: EN EN->FR
 ===light===
   jour {{fr-noun|m}} :: daylight, light
   blonde {{fr-noun|f}} :: light beer
-  œil {{fr-noun|m|pl=yeux}} :: eye, organ that is sensitive to light, helping organisms to see
+  œil {{fr-noun|m|pl=yeux|pl2=œils}} :: eye, organ that is sensitive to light, helping organisms to see (plural yeux)
   flash {{fr-noun|m}} :: flash (burst of light)
 ===like===
   cake {{fr-noun|m}} :: quick bread (a smallish loaf-shaped baked good which may be sweet like an English cake or salty and with bits of meat. See insert).
@@ -9924,8 +9720,6 @@ Index: EN EN->FR
     Elle a perdu son chapeau. :: She lost her hat.
     Il a perdu son chapeau. :: He lost his hat.
     J'aime son amie. :: I like her/his girlfriend.
-  avoir {{fr-verb|type=auxiliary}} :: {transitive} to have (to own)
-    J'aimerais avoir 20 dollars. :: I would like to have 20 dollars.
 ===likeness===
   (Old French) image {{fro-noun|f}} :: image (likeness)
 ===limb===
@@ -9933,13 +9727,12 @@ Index: EN EN->FR
 ===limits===
   passage {{fr-noun|m}} :: An alley or alleyway off-limits to cars.
 ===line===
-  axe {{fr-noun|m}} :: Straight line that crosses the center of a body and around which it turns; axis.
   ride {{fr-noun|f}} :: wrinkle, line (on face etc.)
   rang {{fr-noun|m}} :: A row or line of things placed side-by-side.
   file {{fr-noun|f}} :: A line of objects placed one after the other.
   tracer {fr-verb} :: {transitive} to rule (a line)
 ===link===
-  accorder {fr-verb} :: To link to, to be related to
+  accorder {fr-verb} :: To link to, to be related to.
   t (prefix) :: A prefix used for a third-person singular pronoun in an interrogative sentence to link the verb that ends in a vowel.
     Y a-t-il un endroit instead of Y a il un endroit :: --
 ===linking===
@@ -10064,9 +9857,6 @@ Index: EN EN->FR
     Il fait froid; je vais mettre mon pull :: It's cold; I'm going to put on my pullover
   avoir faim (phrase) :: to be hungry
     J'ai faim. :: I'm hungry.
-  avoir {{fr-verb|type=auxiliary}} :: to be (speaking of condition)
-    J'ai faim. :: I'm hungry.
-    J'ai froid. :: I'm cold.
 ===machine===
   machine {{fr-noun|f}} :: machine {{gloss-stub|French}}
   massicot {m} (noun) :: guillotine, a machine for cutting paper and sheet metal.
@@ -10100,7 +9890,7 @@ Index: EN EN->FR
 ===mairie===
   cadastre {{fr-noun|m}} :: A registrar from a mairie (mayor's office)
 ===make===
-  accorder {fr-verb} :: {grammar} To make agree
+  accorder {fr-verb} :: {grammar} To make agree.
   former {fr-verb} :: to shape (to make into a certain shape)
   gaffer {fr-verb} :: to make a gaffe; to mess up; botch up
   fortune {{fr-noun|f}} :: fortune
@@ -10226,7 +10016,10 @@ Index: EN EN->FR
   (Middle French) masturbation {f} (noun), plural not attested :: masturbation
     {{quote-book|passage=La premiere façon est parmy nous abominable, la nature reclamant en apparence contre cette deception de nerfs, appellée masturbation.|page=114|URL=http://books.google.fr/books?id=He9IAAAAcAAJ&pg=PA114&lpg=PA114&dq=masturbation&source=bl&ots=zdf4Dp7OP0&sig=bbpfHN9Ty0UTXXbNIoT7-5T9q58&hl=fr&sa=X&ei=lnxDUNyKMOaj0QXWrIDIDw&ved=0CDwQ6AEwAQ#v=onepage&q=masturbation&f=false|author=François de La Mothe Le Vaye|title=Quatre Dialogues Faits A L'Imitation Des Anciens|year=1506}} :: --
 ===matador===
-  matador {{fr-noun|m}} :: matador
+  matador {{fr-noun|m}} :: {bullfighting} matador
+===mate===
+  second {{fr-noun|m}} :: assistant, first mate
+    Je m'attachai aux pas de miss Harriet et lui servis de second dans le classement du linge. (Gobineau, Pléiades, 1874) :: --
 ===material===
   (Old French) metal {{fro-noun|m|metaus|metaus}} :: metal (material)
 ===matter===
@@ -10264,12 +10057,7 @@ Index: EN EN->FR
     aller en bus :: go by bus
     partir en voiture :: leave by car
 ===measure===
-  avoir {{fr-verb|type=auxiliary}} :: to be, measure (speaking of measurements)
-    Le mur semble avoir plus de deux mètres de haut. :: The wall seems to be higher than two metres.
   quarter {{fr-noun|m}} :: quarter (old measure of corn)
-===measurements===
-  avoir {{fr-verb|type=auxiliary}} :: to be, measure (speaking of measurements)
-    Le mur semble avoir plus de deux mètres de haut. :: The wall seems to be higher than two metres.
 ===meat===
   carne {{fr-noun|f}} :: {informal} meat (usually of bad quality)
   cake {{fr-noun|m}} :: quick bread (a smallish loaf-shaped baked good which may be sweet like an English cake or salty and with bits of meat. See insert).
@@ -10329,9 +10117,6 @@ Index: EN EN->FR
     une fourchette en métal :: a fork made of metal/a metal fork
 ===metallic===
   about {{fr-noun|m}} :: {{context|technical}} The extremity of a metallic or wooden element or piece.
-===metres===
-  avoir {{fr-verb|type=auxiliary}} :: to be, measure (speaking of measurements)
-    Le mur semble avoir plus de deux mètres de haut. :: The wall seems to be higher than two metres.
 ===mettre===
   met (verb form) :: third-person singular indicative present of "mettre", puts
 ===mew===
@@ -10445,8 +10230,6 @@ Index: EN EN->FR
   laid {fr-adj} :: morally corrupt
 ===most===
   (Old French) substance {{fro-noun|f}} :: most essential; substantial part
-  avoir {{fr-verb|type=auxiliary}} :: {{context|auxiliary}} to have (auxiliary verb to form compound past tenses of most verbs)
-    J'ai parlé. :: I have spoken.
 ===mostly===
   (Old French) lie {{fro-noun|f}} :: dregs; mostly solid, undesirable leftovers of a drink
 ===mother===
@@ -10507,9 +10290,6 @@ Index: EN EN->FR
 ===musical===
   musical {{fr-adj|mp=musicaux}} :: musical
   do {{fr-noun|m}} :: do, the musical note
-===must===
-  être {{fr-verb|type=auxiliary}} :: to be
-    Vous devez être plus clairs. :: You must be clearer.
 ===mutation===
   aberration {{fr-noun|f}} :: {physiology} An aberration or mutation.
 ===my===
@@ -10520,7 +10300,7 @@ Index: EN EN->FR
   car (conjunction) :: as, since, because, for
     J’ai ouvert mon parapluie car il pleuvait. :: I opened my umbrella because it was raining.
   bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
+    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big cock.
   voir {fr-verb} :: to see (visually)
     Je vois ma mère là :: I see my mother over there.
   short {{fr-noun|m}} :: shorts, short trousers (UK)
@@ -10578,7 +10358,7 @@ Index: EN EN->FR
     Il y en a combien ? :: How many of them are there?
     Je bois de l'alcool parce que j'en ai besoin :: I drink alcohol because I need (of) it.
 ===needle===
-  œil {{fr-noun|m|pl=yeux}} :: eye (of a needle), plural œils
+  œil {{fr-noun|m|pl=yeux|pl2=œils}} :: eye (of a needle) (plural œils)
 ===negation===
   (Old French) point (adverb) :: {{context|with ne}} not (indicates negation)
 ===negative===
@@ -10692,8 +10472,6 @@ Index: EN EN->FR
   sol {{fr-noun|m}} :: A Spanish-American gold or silver coin, now the main currency unit of Peru (also new sol), or a coin of this value.
 ===nu===
   nu {{fr-noun-inv|m}} :: nu (Greek letter)
-===nuance===
-  nuance {{fr-noun|f}} :: nuance
 ===nude===
   nu {fr-adj} :: {{sense|person}} naked, nude
 ===number===
@@ -10766,8 +10544,6 @@ Index: EN EN->FR
   passage {{fr-noun|m}} :: The time when such an act occurs.
 ===octet===
   o (abbreviation) :: {computing} octet (B (byte))
-===œils===
-  œil {{fr-noun|m|pl=yeux}} :: eye (of a needle), plural œils
 ===Of===
   abject {fr-adj} :: {{literary|obsolete}} Of the lowest social position.
 ===off===
@@ -10780,6 +10556,7 @@ Index: EN EN->FR
     je vais accepter votre offre :: I'm going to accept your offer
     il accepte de s'arrêter :: he accepted to stop
 ===office===
+  mandat {{fr-noun|m}} :: term in office
   cadastre {{fr-noun|m}} :: A registrar from a mairie (mayor's office)
   (Middle French) election {{frm-noun|f}} :: election (act or process of being elected to an office)
 ===officer===
@@ -10794,8 +10571,6 @@ Index: EN EN->FR
 ===old===
   quarter {{fr-noun|m}} :: quarter (old measure of corn)
   carne {{fr-noun|f}} :: nag (old useless horse)
-  avoir {{fr-verb|type=auxiliary}} :: to be; to be aged (speaking of age)
-    Elle a 19 ans. :: She is 19 years old.
 ===olive===
   olive {{fr-noun|f}} :: olive
   (Old French) olive {m|f} (noun) :: olive tree
@@ -10861,7 +10636,6 @@ Index: EN EN->FR
 ===order===
   mandat {{fr-noun|m}} :: postal order, money order
 ===ordinal===
-  ordinal {{fr-adj|mp=ordinaux}} :: ordinal
   quatre-vingt {{fr-noun-inv|m}} :: {France} Form of quatre-vingts (eighty) used in compounds (the numbers 81 to 99, larger numbers ending in numbers from 81 to 99, and the ordinal numbers corresponding to any of these numbers).
     {{usex|quatre-vingt-six|translation=eighty-six}} :: --
 ===ore===
@@ -10870,7 +10644,7 @@ Index: EN EN->FR
     What haste do you have :: --
     That wakes up at this time of day? :: --
 ===organ===
-  œil {{fr-noun|m|pl=yeux}} :: eye, organ that is sensitive to light, helping organisms to see
+  œil {{fr-noun|m|pl=yeux|pl2=œils}} :: eye, organ that is sensitive to light, helping organisms to see (plural yeux)
   cornet {{fr-noun|m}} :: {musical instruments} cornet; cornet stop (on organ)
 ===organic===
   bio {{fr-adj|inv=yes}} :: {ecology} organic
@@ -10879,8 +10653,9 @@ Index: EN EN->FR
 ===Organisation===
   OMC {fr-initialism} :: {{initialism of|Organisation mondiale du commerce}} (WTO (World Trade Organisation))
 ===organisms===
-  œil {{fr-noun|m|pl=yeux}} :: eye, organ that is sensitive to light, helping organisms to see
+  œil {{fr-noun|m|pl=yeux|pl2=œils}} :: eye, organ that is sensitive to light, helping organisms to see (plural yeux)
 ===organization===
+  (Middle French) president {{frm-noun|m|pl=presidens}} :: president (leader of an organization)
   cadre {{fr-noun|m}} :: The backbone of an organization.
 ===origin===
   provenance {{fr-noun|f}} :: provenance, origin
@@ -10930,9 +10705,6 @@ Index: EN EN->FR
     Je vois ma mère là :: I see my mother over there.
 ===overshoe===
   claque {{fr-noun|f}} :: {Quebec} overshoe
-===own===
-  avoir {{fr-verb|type=auxiliary}} :: {transitive} to have (to own)
-    J'aimerais avoir 20 dollars. :: I would like to have 20 dollars.
 ===ownership===
   accession {{fr-noun|f}} :: {legal} accession
     accession sociale à la propriété :: assisted home-ownership scheme
@@ -11022,8 +10794,6 @@ Index: EN EN->FR
     {{quote-book|year=circa 1180|title=Lancelot ou le Chevalier de la charrette|author=Chrétien de Troyes|passage=Volez que je vos die gierres<br />Del passage com il est max ?|translation=Do you want me to tell you<br />Of the passage, how bad it is?}} :: --
   important {fr-adj} :: significant
     Une partie importante des votes :: A significant part of the votes.
-===Parti===
-  PS {m} :: Parti Socialiste; a socialist political party of either France, Belgium or Switzerland.
 ===partiaire===
   colon {{fr-noun|m}} :: sharecropper in the system of colonat partiaire
 ===partial===
@@ -11039,13 +10809,9 @@ Index: EN EN->FR
   bal {{fr-noun|m}} :: dance party, ball.
   party {m|f} (noun), plural: parties, or: partys :: {Canada} party (social gathering)
   drink {{fr-noun|m}} :: A reception or after party where alcohol is served.
-  PS {m} :: Parti Socialiste; a socialist political party of either France, Belgium or Switzerland.
 ===passage===
   (Old French) passage {{fro-noun|m}} :: passage (part of a route or journey)
     {{quote-book|year=circa 1180|title=Lancelot ou le Chevalier de la charrette|author=Chrétien de Troyes|passage=Volez que je vos die gierres<br />Del passage com il est max ?|translation=Do you want me to tell you<br />Of the passage, how bad it is?}} :: --
-===passive===
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} to be (Used to form the passive voice)
-    Il peut être battu ce soir. :: He could be beaten this evening.
 ===pastry===
   cornet {{fr-noun|m}} :: (pastry) horn; (ice-cream) cone
 ===Patronage===
@@ -11105,10 +10871,6 @@ Index: EN EN->FR
   triangle {{fr-noun|m}} :: triangle (percussion instrument)
 ===perfect===
   nickel {{fr-adj|inv=yes}} :: {slang} perfect, bang on
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} Used to form the perfect and pluperfect tense of certain verbs (including all reflexive verbs)
-    Après être allé au yoga, je suis rentré chez moi. :: After having gone to yoga, I came back home.
-  (Middle French) avoir (verb) :: {{context|auxiliary verb}} to have (verb used to form the perfect tense)
-  (Old French) avoir (verb) :: {{context|auxiliary verb}} to have (verb used to form the perfect tense)
 ===performed===
   franc {{fr-adj|feminine=franche}} :: free
     Il a fait cette action de sa pure et franche volonté. :: His action was performed out of his free will
@@ -11253,9 +11015,6 @@ Index: EN EN->FR
   tracer {fr-verb} :: {transitive} to draw or plot (a diagram), to trace out
 ===plots===
   rang {{fr-noun|m}} :: {{Canada|geography}} The road serving such a series of plots.
-===pluperfect===
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} Used to form the perfect and pluperfect tense of certain verbs (including all reflexive verbs)
-    Après être allé au yoga, je suis rentré chez moi. :: After having gone to yoga, I came back home.
 ===plus===
   (Old French) sale {{fro-noun|f}} :: room (subsection of a building)
     circa 1170, {{w|Chrétien de Troyes}}, Érec et Énide: :: ... que la soe amie<br>Est la plus bele de la sale[.]
@@ -11274,8 +11033,6 @@ Index: EN EN->FR
   mandat {{fr-noun|m}} :: (police) warrant
 ===polite===
   civil {fr-adj} :: {literary} civil, courteous, polite
-===political===
-  PS {m} :: Parti Socialiste; a socialist political party of either France, Belgium or Switzerland.
 ===pollution===
   pollution {{fr-noun|f}} :: pollution
   nuisance {{fr-noun|f}} :: pollution
@@ -11319,12 +11076,6 @@ Index: EN EN->FR
 ===possession===
   bien {{fr-noun|m}} :: a possession
   (Old French) bien {{fro-noun|m}} :: possession; object of value
-  avoir {{fr-noun|m}} :: asset, possession
-  (Old French) avoir {{fro-noun|m}} :: possession; good
-    circa 1170, {{w|Chrétien de Troyes}}, Érec et Énide: :: --
-    C'est mes avoirs, c'est mes tresorz. :: --
-    It is my possession, it is my treasure. :: --
-    {{quote-book|circa 1250|title=Ci encoumence la vie de Sainte Marie l'Egypcienne|author=Rutebeuf|passage=Robes, deniers ne autre avoir<br>Ne voloit de l'autrui avoir.|translation=Not clothing, nor money, nor other possessions<br>Did she want to have from others.}} :: --
   donner {fr-verb} :: To give, to transfer the possession/holding of something to someone else.
 ===possessive===
   (Old French) son {m} (possessive pronoun), feminine: sa, plural: ses :: his/hers/its (third-person singular possessive pronoun)
@@ -11356,8 +11107,6 @@ Index: EN EN->FR
 ===pound===
   livre {{fr-noun|f}} :: pound (unit of weight)
   livre {{fr-noun|f}} :: pound (unit of currency)
-===pouvoir===
-  put (verb form) :: third-person singular past historic of pouvoir.
 ===power===
   mandat {{fr-noun|m}} :: {legal} power of attorney, proxy
   quadruple {{fr-adj|f=quadruple}} :: {{chiefly|music}} Which is equal to four times, or the fourth power of another value.
@@ -11406,6 +11155,8 @@ Index: EN EN->FR
   exposé {{fr-noun|m}} :: presentation
 ===presently===
   or {fr-adv} :: {obsolete} now, presently
+===president===
+  (Middle French) president {{frm-noun|m|pl=presidens}} :: president (leader of an organization)
 ===pretense===
   (Old French) simple {m|f} (adjective), plural: simples :: honest; without pretense
 ===pretension===
@@ -11418,8 +11169,8 @@ Index: EN EN->FR
 ===primae===
   droit de seigneur {m} (noun) :: the right of the lord. (The right of the first night ius primae noctis i.e. the right of the feudal lord to deflower the maiden bride of one of his vassals).
 ===prince===
-  (Old French) prince {{fro-noun|m}} :: prince
   prince {{fr-noun|m}} :: prince
+  (Old French) prince {{fro-noun|m}} :: prince
 ===principality===
   Monaco {{fr-proper noun|m}} :: Monaco (principality)
 ===prized===
@@ -11529,7 +11280,7 @@ Index: EN EN->FR
 ===put===
   met (verb form) :: third-person singular indicative present of "mettre", puts
   bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
+    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big cock.
   pull {{fr-noun|m}} :: pullover
     Il fait froid; je vais mettre mon pull :: It's cold; I'm going to put on my pullover
 ===putt===
@@ -11642,6 +11393,8 @@ Index: EN EN->FR
   lit {fr-verb-form} :: {conjugation of|lire|3|s|pres|ind}
     Jean lit très souvent. :: Jean reads very often.
 ===really===
+  charade {{fr-noun|f}} :: Something bizarre or hard to understand.
+    Cet ouvrage est une vraie charade. :: This book is really hard to understand, to follow.
   massacrer {fr-verb} :: {figuratively} to do something badly
     Il a massacré cette chanson :: he sung that song really badly (lit. "he massacred that song")
 ===reason===
@@ -11654,9 +11407,6 @@ Index: EN EN->FR
 ===reduce===
   de {fr-prep} :: by
     Boire trois tasses par jour réduirait de 20% les risques de contracter une maladie. :: Drinking three glasses a day would reduce the risk of catching an illness by 20%.
-===reflexive===
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} Used to form the perfect and pluperfect tense of certain verbs (including all reflexive verbs)
-    Après être allé au yoga, je suis rentré chez moi. :: After having gone to yoga, I came back home.
 ===refuge===
   port {m} (noun) :: refuge
 ===registrar===
@@ -11665,7 +11415,7 @@ Index: EN EN->FR
   abjurer {fr-verb} :: {obsolete} To reject by oath someone's authority.
 ===related===
   able {{fr-noun|m}} :: {rare} A vernacular name of some other related fishes in the genus Alburnus (Cyprinidae).
-  accorder {fr-verb} :: To link to, to be related to
+  accorder {fr-verb} :: To link to, to be related to.
   vocal {{fr-adj|mp=vocaux}} :: vocal, related to the voice
   allemand {fr-adj} :: German (related to or originating from Germany)
     J’ai acheté une voiture allemande. :: --
@@ -11706,7 +11456,7 @@ Index: EN EN->FR
     2008 April 25, Martine Chouinard, "[http://www.ledevoir.com/2008/04/25/186742.html Brebis égarée]", Le Devoir: :: --
     ... se contentant d'annoncer que l'ablation des nouvelles permettra de voguer vers «la production d'émissions culturelles et de divertissement de qualité». — merely announcing that the elimination of news programming [on tv channel TQS] will allow it to focus on "the production of quality entertainment and cultural programming" :: --
 ===rendering===
-  œil {{fr-noun|m|pl=yeux}} :: glyph, rendering of a single character
+  œil {{fr-noun|m|pl=yeux|pl2=œils}} :: glyph, rendering of a single character (plural yeux)
 ===renounce===
   abjurer {fr-verb} :: {ambitransitive} {{very|formal}} To renounce or abandon solemnly; to abjure.
   abjurer {fr-verb} :: {ambitransitive} {religion} To formally renounce one's religious belief; to apostatise.
@@ -11735,8 +11485,6 @@ Index: EN EN->FR
   livrer {fr-verb} :: {reflexive} (with à) to practise (a sport); be engaged in (a job, research); set up (an enquiry)
 ===reserves===
   panier {{fr-noun|m}} :: In an online store, the shopping basket where a shopper reserves or collects items for purchase
-===restaurant===
-  addition {{fr-noun|f}} :: bill (UK), check (US) (in a restaurant, etc)
 ===restraint===
   (Middle French) continent {{frm-adj|mp=continens}} :: continent (exercising restraint)
 ===restrict===
@@ -11750,12 +11498,12 @@ Index: EN EN->FR
   la Réunion {f} (proper noun) :: Réunion
 ===reveal===
   livrer {fr-verb} :: to give away (a secret etc.); to confide, reveal, drop (a hint)
-===revolves===
-  axe {{fr-noun|m}} :: Rod on which a wheel revolves; axle
 ===Revulsion===
   abomination {{fr-noun|f}} :: {{chiefly|religion}} Revulsion, abomination, disgust.
 ===Rica===
   Costa Rica {f} (proper noun) :: Costa Rica
+===riddle===
+  charade {{fr-noun|f}} :: charade (kind of riddle)
 ===ridge===
   ride {{fr-noun|f}} :: ripple, ridge
 ===rifle===
@@ -11795,8 +11543,6 @@ Index: EN EN->FR
   borne {{fr-noun|f}} :: A milestone such as those alongside a roadway.
 ===robot===
   robot {{fr-noun|m}} :: robot
-===Rod===
-  axe {{fr-noun|m}} :: Rod on which a wheel revolves; axle
 ===rodent===
   (Old French) rat {{fro-noun|m}} :: rat (rodent)
 ===role===
@@ -11830,7 +11576,7 @@ Index: EN EN->FR
   rang {{fr-noun|m}} :: A row or line of things placed side-by-side.
 ===rub===
   bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
+    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big cock.
 ===rubbish===
   c :: {text messaging} {Informal spelling|c'est}
     C nul ici sans George :: It's rubbish here without George
@@ -11956,15 +11702,12 @@ Index: EN EN->FR
   voir {fr-verb} :: to see (to understand)
     Tu vois que tu avais tort ? :: Do you see that you were wrong?
   voir {fr-verb} :: to see (to visit, to go and see)
-  œil {{fr-noun|m|pl=yeux}} :: eye, organ that is sensitive to light, helping organisms to see
+  œil {{fr-noun|m|pl=yeux|pl2=œils}} :: eye, organ that is sensitive to light, helping organisms to see (plural yeux)
   dupe {{fr-noun|f}} :: A person who has been deceived, see dupe.
 ===See===
   y (pronoun), adverbial :: Used as a pronoun to replace à followed by an indirect object. See Appendix:French verbs followed by à for verbs which use this structure.
   absinthe {fr-verb-form} :: See absinther
   cake {{fr-noun|m}} :: quick bread (a smallish loaf-shaped baked good which may be sweet like an English cake or salty and with bits of meat. See insert).
-===seems===
-  avoir {{fr-verb|type=auxiliary}} :: to be, measure (speaking of measurements)
-    Le mur semble avoir plus de deux mètres de haut. :: The wall seems to be higher than two metres.
 ===sees===
   (Old French) image {{fro-noun|f}} :: sight (something which one sees)
 ===sense===
@@ -11978,7 +11721,7 @@ Index: EN EN->FR
     Les jeunes boivent de l'alcool pour être cool. :: Young people drink alcohol to be cool.
   Ontario {{fr-proper noun|m}} :: Ontario (all senses)
 ===sensitive===
-  œil {{fr-noun|m|pl=yeux}} :: eye, organ that is sensitive to light, helping organisms to see
+  œil {{fr-noun|m|pl=yeux|pl2=œils}} :: eye, organ that is sensitive to light, helping organisms to see (plural yeux)
 ===sentence===
   phrase {{fr-noun|f}} :: (false friend) sentence
   (Middle French) sentence {{frm-noun|f}} :: sentence (judgement; verdict)
@@ -12079,10 +11822,8 @@ Index: EN EN->FR
     Elle a perdu son chapeau. :: She lost her hat.
     Il a perdu son chapeau. :: He lost his hat.
     J'aime son amie. :: I like her/his girlfriend.
-  avoir {{fr-verb|type=auxiliary}} :: to be; to be aged (speaking of age)
-    Elle a 19 ans. :: She is 19 years old.
 ===sheep===
-  robin {{fr-noun|m}} :: {{obsolete| lang=fr}} sheep, calf
+  robin {{fr-noun|m}} :: {obsolete} sheep, calf
 ===sheet===
   massicot {m} (noun) :: guillotine, a machine for cutting paper and sheet metal.
 ===sherbet===
@@ -12097,8 +11838,6 @@ Index: EN EN->FR
   panier {{fr-noun|m}} :: In an online store, the shopping basket where a shopper reserves or collects items for purchase
 ===shopping===
   panier {{fr-noun|m}} :: In an online store, the shopping basket where a shopper reserves or collects items for purchase
-  avoir {{fr-verb|type=auxiliary}} :: {intransitive} to have to
-    Il va avoir à faire les courses. :: He will have to do the shopping.
 ===short===
   billion (numeral) :: 10<sup>12</sup>; a long scale billion; a short scale trillion.
   trillion (numeral) :: 10<sup>18</sup>; a long scale trillion; a short scale quintillion.
@@ -12152,7 +11891,7 @@ Index: EN EN->FR
     Je veux chanter pour te faire revenir. :: I want to sing to make you come back.
 ===single===
   simple {{fr-noun|m}} :: {baseball} single
-  œil {{fr-noun|m|pl=yeux}} :: glyph, rendering of a single character
+  œil {{fr-noun|m|pl=yeux|pl2=œils}} :: glyph, rendering of a single character (plural yeux)
 ===sins===
   absolution {{fr-noun|f}} :: absolution (from sins or wrongs)
 ===site===
@@ -12213,7 +11952,7 @@ Index: EN EN->FR
   gourmet {{fr-noun|m}} :: {{context|of wines}} A wine expert, especially one who is adept at determining the label, date, and sundry other qualities solely by smatch.
 ===smiled===
   bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
+    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big cock.
 ===smoking===
   de {fr-prep} :: {{non-gloss definition|used after certain verbs before an infinitive, often translating into English as a gerund or an infinitive}}
     Je me suis arrêté de fumer. :: I stopped smoking.
@@ -12245,10 +11984,6 @@ Index: EN EN->FR
 ===social===
   abject {fr-adj} :: {{literary|obsolete}} Of the lowest social position.
   party {m|f} (noun), plural: parties, or: partys :: {Canada} party (social gathering)
-===socialist===
-  PS {m} :: Parti Socialiste; a socialist political party of either France, Belgium or Switzerland.
-===Socialiste===
-  PS {m} :: Parti Socialiste; a socialist political party of either France, Belgium or Switzerland.
 ===socialistes===
   URSS (abbreviation) {f} :: Union des républiques socialistes soviétiques
 ===society===
@@ -12290,7 +12025,7 @@ Index: EN EN->FR
     When one searches for love... :: --
     On ne peut pas pêcher ici :: You can't fish here
   abjurer {fr-verb} :: {obsolete} To reject by oath someone's authority.
-  accorder {fr-verb} :: {transitive} To grant (something to someone)
+  accorder {fr-verb} :: {transitive} To grant (something to someone).
   livrer {fr-verb} :: to hand over, deliver (someone to an enemy, police, etc.)
   donner {fr-verb} :: To give, to transfer the possession/holding of something to someone else.
   blond {{fr-noun|m|f=blonde}} :: someone with blond hair
@@ -12305,6 +12040,8 @@ Index: EN EN->FR
   abomination {{fr-noun|f}} :: Something vile and abominable; an abomination.
   quadruple {{fr-noun|m}} :: Something that is equal to four times something else.
     Je veux le quadruple de la prime normale. :: --
+  charade {{fr-noun|f}} :: Something bizarre or hard to understand.
+    Cet ouvrage est une vraie charade. :: This book is really hard to understand, to follow.
 ===son===
   (Old French) fil {{fro-noun|m|fiz|fiz|fil}} :: son (male child)
 ===song===
@@ -12350,14 +12087,6 @@ Index: EN EN->FR
   (Old French) parole {{fro-noun|f}} :: {{by extension|figuratively}} the right to speak
   parole {{fr-noun|f}} :: floor; the right to speak in a legislative assembly
     Le député a la parole :: the member has the floor
-===speaking===
-  avoir {{fr-verb|type=auxiliary}} :: to be; to be aged (speaking of age)
-    Elle a 19 ans. :: She is 19 years old.
-  avoir {{fr-verb|type=auxiliary}} :: to be (speaking of condition)
-    J'ai faim. :: I'm hungry.
-    J'ai froid. :: I'm cold.
-  avoir {{fr-verb|type=auxiliary}} :: to be, measure (speaking of measurements)
-    Le mur semble avoir plus de deux mètres de haut. :: The wall seems to be higher than two metres.
 ===speaks===
   anglais {{fr-noun-unc|m}} :: English language
     Il parle anglais :: He speaks English
@@ -12391,8 +12120,6 @@ Index: EN EN->FR
     la langue maternelle :: --
     faire parler la langue française :: Bertrand Barère
   note {{fr-noun|f}} :: note (written or spoken)
-  avoir {{fr-verb|type=auxiliary}} :: {{context|auxiliary}} to have (auxiliary verb to form compound past tenses of most verbs)
-    J'ai parlé. :: I have spoken.
 ===sport===
   trail {{fr-noun|f}} :: Dual-sport motorcycle
   livrer {fr-verb} :: {reflexive} (with à) to practise (a sport); be engaged in (a job, research); set up (an enquiry)
@@ -12451,12 +12178,13 @@ Index: EN EN->FR
     un groupe de cinq à huit personnes :: a group of [from] five to eight people
 ===started===
   bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
+    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big cock.
 ===starting===
   bel {fr-adj-form} :: Form of beau to be used before masculine nouns starting with a vowel.
 ===state===
   aberration {{fr-noun|f}} :: The state of being aberrant.
   absence {{fr-noun|f}} :: absence (state of being absent or withdrawn).
+  (Middle French) temperature {{frm-noun|f}} :: disposition; habitual state; temperament
   (Middle French) condition {{frm-noun|f}} :: condition (state, quality)
   passage {{fr-noun|m}} :: The act of going from a state to another.
   de {fr-prep} :: of (expresses belonging)
@@ -12486,9 +12214,6 @@ Index: EN EN->FR
 ===stereotype===
   cliché {{fr-noun|m}} :: {printing} A stereotype.
     La reproduction dans la presse de dessins et de photographies se fait au moyen de clichés typographiques. :: --
-===stick===
-  bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
 ===sting===
   (Old French) point {{fro-noun|m|poins|poins}} :: a sting; a prick
 ===stock===
@@ -12497,6 +12222,8 @@ Index: EN EN->FR
     une action de capitalisation :: a capitalisation share
 ===stomach===
   hara-kiri {{fr-noun|m}} :: hara-kiri (suicide by ripping open the stomach)
+===stoned===
+  stone {{rfc-level|Adjective at L4+ not in L3 Ety section}}{fr-adj-mf} :: stoned (high on drugs)
 ===stool===
   X {{fr-noun-inv|mf}} :: X-frame stool
     1862, {{w|Victor Hugo}}, Les Misérables, I.3.i: :: --
@@ -12527,8 +12254,6 @@ Index: EN EN->FR
   poire {{fr-noun|f}} :: {informal} mush, face
     en pleine poire :: "straight in the face"
     se payer la poire de qqun :: "to pull someone's leg"
-===Straight===
-  axe {{fr-noun|m}} :: Straight line that crosses the center of a body and around which it turns; axis.
 ===strain===
   accent {{fr-noun|m}} :: {music} strain, section
 ===street===
@@ -12678,7 +12403,6 @@ Index: EN EN->FR
 ===switch===
   poire {{fr-noun|f}} :: A pear-shaped switch.
 ===Switzerland===
-  PS {m} :: Parti Socialiste; a socialist political party of either France, Belgium or Switzerland.
   de {fr-prep} :: from (used to indicate origin)
     Elle vient de (la) France. :: She comes from France.
     Vous êtes de (la) Suisse ? :: Are you from Switzerland?
@@ -12757,16 +12481,12 @@ Index: EN EN->FR
     That wakes up at this time of day? :: --
 ===Television===
   pub {{fr-noun|f}} :: Television ad or advert.
+===temperament===
+  (Middle French) temperature {{frm-noun|f}} :: disposition; habitual state; temperament
 ===tennis===
   tennis {{fr-noun|m|pl=tennis}} :: {{context|usually|_|uncountable}} tennis
-===tense===
-  (Middle French) avoir (verb) :: {{context|auxiliary verb}} to have (verb used to form the perfect tense)
-  (Old French) avoir (verb) :: {{context|auxiliary verb}} to have (verb used to form the perfect tense)
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} Used to form the perfect and pluperfect tense of certain verbs (including all reflexive verbs)
-    Après être allé au yoga, je suis rentré chez moi. :: After having gone to yoga, I came back home.
-===tenses===
-  avoir {{fr-verb|type=auxiliary}} :: {{context|auxiliary}} to have (auxiliary verb to form compound past tenses of most verbs)
-    J'ai parlé. :: I have spoken.
+===term===
+  mandat {{fr-noun|m}} :: term in office
 ===territorial===
   borne {{fr-noun|f}} :: A territorial boundary marker.
   borne {{fr-noun|f}} :: A territorial or geographical border.
@@ -12782,8 +12502,6 @@ Index: EN EN->FR
     Les premiers TGV atlantiques étaient orange. :: The first Atlantic TGV trains were orange.
 ===than===
   rang {{fr-noun|m}} :: {{Canada|geography}} A series of land plots narrower than deep, running perpendicular to a river or road.
-  avoir {{fr-verb|type=auxiliary}} :: to be, measure (speaking of measurements)
-    Le mur semble avoir plus de deux mètres de haut. :: The wall seems to be higher than two metres.
 ===That===
   bien perdu bien connu :: That which is well lost is well known, or what once was lost is prized.
 ===their===
@@ -12802,8 +12520,6 @@ Index: EN EN->FR
   y (pronoun), adverbial :: there (to there)
     Nous allons au Mexique. Nous y allons. :: “We are going to Mexico. We are going there.”
   (Old French) i (adverb) :: there
-  (Old French) avoir (verb) :: to exist (there is/there are)
-    {{quote-book|year=c. 1200|author=Author unknown|title=Les quatres sohais Saint Martin|passage=Un vilain ot en Normendie|translation=There was a peasant in Normandy}} :: --
   de (article) :: {indefinite} some; any (in questions or negatives)
     Je voudrais de la viande. :: I'd like some meat.
     Est-ce qu'il y a de la bonne musique ? :: Is there any good music?
@@ -12823,9 +12539,12 @@ Index: EN EN->FR
     cet homme-ci :: this man
     Ces choses-ci :: these things
     Je préfère ce gateau-ci à celui-là. :: I prefer this cake to that one.
+===They===
+  y {fr-pron} :: {{Quebec|colloquial}} They: {alternative form of|ils|cap=a}
+  y {fr-pron} :: {{Quebec|colloquial}} They: {alternative form of|elles|cap=a}
 ===thighs===
   bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
+    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big cock.
 ===thin===
   ductile {fr-adj-mf} :: ductile (capable of being pulled or stretched into thin wire).
 ===thing===
@@ -12846,7 +12565,6 @@ Index: EN EN->FR
 ===third===
   gracia :: third-person singular past historic of gracier
   rata :: third-person singular past historic form of rater
-  put (verb form) :: third-person singular past historic of pouvoir.
   vomit :: third-person singular present indicative form of vomir
   vomit :: third-person singular past historic form of vomir
   suit :: third-person singular present indicative form of suivre
@@ -12886,8 +12604,6 @@ Index: EN EN->FR
     Un verre en cristal. :: --
     its content :: --
     On va boire un verre ? :: --
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} to be (Used to form the passive voice)
-    Il peut être battu ce soir. :: He could be beaten this evening.
 ===This===
   de {fr-prep} :: from (used to indicate origin)
     Elle vient de (la) France. :: She comes from France.
@@ -12897,6 +12613,8 @@ Index: EN EN->FR
     Le train va de Paris à Bordeaux. :: The train goes from Paris to Bordeaux.
   son {{fr-noun|m}} :: bran
     Ceci est du pain de son. :: This bread is done with bran.
+  charade {{fr-noun|f}} :: Something bizarre or hard to understand.
+    Cet ouvrage est une vraie charade. :: This book is really hard to understand, to follow.
   anglais {{fr-adj|mp=anglais}} :: English
     Il est anglais :: He is English.
     Ceci n'est pas un avion anglais. :: This is not an English airplane
@@ -13092,9 +12810,6 @@ Index: EN EN->FR
 ===triangle===
   triangle {{fr-noun|m}} :: triangle (polygon)
   triangle {{fr-noun|m}} :: triangle (percussion instrument)
-===trick===
-  avoir {{fr-verb|type=auxiliary}} :: to have (to trick)
-    Tu t'es fait avoir. :: You've been had.
 ===trifling===
   menu {fr-adj} :: minor, trifling
 ===trillion===
@@ -13114,14 +12829,12 @@ Index: EN EN->FR
 ===tuba===
   tuba {{fr-noun|m}} :: tuba
 ===tune===
-  accorder {fr-verb} :: {music} To tune, to tune up
+  accorder {fr-verb} :: {music} To tune, to tune up.
   air {{fr-noun|m}} :: tune, aria
 ===tuner===
   radio {{fr-noun|f}} :: radio, tuner
 ===tunneler===
   taupe {{fr-noun|f}} :: tunneler
-===turn===
-  axe {{fr-noun|m}} :: Straight line that crosses the center of a body and around which it turns; axis.
 ===turquoise===
   turquoise {{fr-noun|f}} :: turquoise (gemstone)
   turquoise {{fr-noun|m}} :: turquoise (colour)
@@ -13141,8 +12854,6 @@ Index: EN EN->FR
     Martin a trois sandwichs, mais j'en ai seulement deux. :: Martin has three sandwiches, but I have only two (of them).
     Il y en a combien ? :: How many of them are there?
     Je bois de l'alcool parce que j'en ai besoin :: I drink alcohol because I need (of) it.
-  avoir {{fr-verb|type=auxiliary}} :: to be, measure (speaking of measurements)
-    Le mur semble avoir plus de deux mètres de haut. :: The wall seems to be higher than two metres.
 ===type===
   jargon {{fr-noun|m}} :: A jargon, zircon type
   brick {{fr-noun|m}} :: {nautical} A brig, a two-masted vessel type.
@@ -13168,6 +12879,8 @@ Index: EN EN->FR
 ===understand===
   voir {fr-verb} :: to see (to understand)
     Tu vois que tu avais tort ? :: Do you see that you were wrong?
+  charade {{fr-noun|f}} :: Something bizarre or hard to understand.
+    Cet ouvrage est une vraie charade. :: This book is really hard to understand, to follow.
 ===understood===
   bien entendu {fr-adv} :: well understood
 ===undesirable===
@@ -13208,7 +12921,7 @@ Index: EN EN->FR
   original {{fr-noun|m}} {m} :: An unusual or eccentric person
 ===upon===
   (Old French) en (preposition) :: on; upon
-    {{quote-book|year=12<sup>th</sup> Century|title=Raoul de Cambrai|author=Unknown|passage=qi en la crois fu mis|translation=[He] who was put on the cross}} :: --
+    {{quote-book|year=12th Century|title=Raoul de Cambrai|author=Unknown|passage=qi en la crois fu mis|translation=[He] who was put on the cross}} :: --
 ===Uruguay===
   Uruguay {{fr-proper noun|m}} :: Uruguay
 ===US===
@@ -13281,8 +12994,6 @@ Index: EN EN->FR
   poire {{fr-noun|f}} :: A bulb, usually pear-shaped, used to collect gases or liquids, such as that of a dropper.
   quatre-vingt {{fr-noun-inv|m}} :: {France} Form of quatre-vingts (eighty) used in compounds (the numbers 81 to 99, larger numbers ending in numbers from 81 to 99, and the ordinal numbers corresponding to any of these numbers).
     {{usex|quatre-vingt-six|translation=eighty-six}} :: --
-  (Middle French) avoir (verb) :: {{context|auxiliary verb}} to have (verb used to form the perfect tense)
-  (Old French) avoir (verb) :: {{context|auxiliary verb}} to have (verb used to form the perfect tense)
 ===Used===
   y (pronoun), adverbial :: Used as a pronoun to replace à followed by an indirect object. See Appendix:French verbs followed by à for verbs which use this structure.
   en {fr-pron} :: Used as the object of a verb to indicate an indefinite quantity; of it, of them.
@@ -13291,10 +13002,6 @@ Index: EN EN->FR
     Martin a trois sandwichs, mais j'en ai seulement deux. :: Martin has three sandwiches, but I have only two (of them).
     Il y en a combien ? :: How many of them are there?
     Je bois de l'alcool parce que j'en ai besoin :: I drink alcohol because I need (of) it.
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} Used to form the perfect and pluperfect tense of certain verbs (including all reflexive verbs)
-    Après être allé au yoga, je suis rentré chez moi. :: After having gone to yoga, I came back home.
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} to be (Used to form the passive voice)
-    Il peut être battu ce soir. :: He could be beaten this evening.
 ===useless===
   carne {{fr-noun|f}} :: nag (old useless horse)
 ===using===
@@ -13340,8 +13047,6 @@ Index: EN EN->FR
 ===ve===
   pour {fr-prep} :: for
     J'ai un cadeau pour toi. :: I've got a gift for you.
-  avoir {{fr-verb|type=auxiliary}} :: to have (to trick)
-    Tu t'es fait avoir. :: You've been had.
 ===Venezuela===
   Venezuela {{fr-proper noun|m}} :: Venezuela
 ===ventripotent===
@@ -13363,18 +13068,10 @@ Index: EN EN->FR
     1873, Alphonse Daudet, “La Dernière Classe”, in Contes du Lundi :: --
     Je crois aussi que je n'avais jamais si bien écouté, et que lui non plus n'avait jamais mis autant de patience à ses explications. :: --
     I believe also that I had never listened so well, and that neither had he ever put so much patience into his explanations. :: --
-  avoir {{fr-verb|type=auxiliary}} :: {{context|auxiliary}} to have (auxiliary verb to form compound past tenses of most verbs)
-    J'ai parlé. :: I have spoken.
-  (Middle French) avoir (verb) :: {{context|auxiliary verb}} to have (verb used to form the perfect tense)
-  (Old French) avoir (verb) :: {{context|auxiliary verb}} to have (verb used to form the perfect tense)
 ===verbal===
   verbal {{fr-adj-al|verb}} :: verbal
 ===verbs===
   y (pronoun), adverbial :: Used as a pronoun to replace à followed by an indirect object. See Appendix:French verbs followed by à for verbs which use this structure.
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} Used to form the perfect and pluperfect tense of certain verbs (including all reflexive verbs)
-    Après être allé au yoga, je suis rentré chez moi. :: After having gone to yoga, I came back home.
-  avoir {{fr-verb|type=auxiliary}} :: {{context|auxiliary}} to have (auxiliary verb to form compound past tenses of most verbs)
-    J'ai parlé. :: I have spoken.
 ===verdict===
   (Middle French) sentence {{frm-noun|f}} :: sentence (judgement; verdict)
     {{quote-book|year=1532|title=Pantagruel|author=François Rabelais|passage=... puis retourna s'asseoir et commença pronuncer la sentence comme s'ensuyt :|translation=... then went back and sat down and started to give the verdict as follows:}} :: --
@@ -13434,8 +13131,6 @@ Index: EN EN->FR
 ===voice===
   parole {{fr-noun|f}} :: voice, spoken word
   vocal {{fr-adj|mp=vocaux}} :: vocal, related to the voice
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} to be (Used to form the passive voice)
-    Il peut être battu ce soir. :: He could be beaten this evening.
   (Old French) vocal {m} (adjective) :: vocal (relating to a voice or voices)
 ===voices===
   (Old French) vocal {m} (adjective) :: vocal (relating to a voice or voices)
@@ -13454,8 +13149,8 @@ Index: EN EN->FR
     circa 1170, {{w|Chrétien de Troyes}}, Érec et Énide: :: quel haste avez,<br />Qui a tel ore vos levez?
     What haste do you have :: --
     That wakes up at this time of day? :: --
-===Vote===
-  vote {{fr-noun|m}} :: Vote
+===vote===
+  vote {{fr-noun|m}} :: vote
 ===votes===
   important {fr-adj} :: significant
     Une partie importante des votes :: A significant part of the votes.
@@ -13469,9 +13164,6 @@ Index: EN EN->FR
   break {{fr-noun|mf}} :: estate car, station wagon
 ===wait===
   minute {fr-intj} :: wait a sec!
-===wall===
-  avoir {{fr-verb|type=auxiliary}} :: to be, measure (speaking of measurements)
-    Le mur semble avoir plus de deux mètres de haut. :: The wall seems to be higher than two metres.
 ===waltz===
   slow {{fr-noun|m}} :: slow waltz
 ===want===
@@ -13560,6 +13252,8 @@ Index: EN EN->FR
   coin {{fr-noun|m}} :: wedge, cornerpiece
 ===week===
   jeudi {{fr-noun|m}} :: Thursday (day of the week).
+===weekend===
+  weekend {{fr-noun|m}} :: weekend
 ===weight===
   livre {{fr-noun|f}} :: pound (unit of weight)
 ===welcome===
@@ -13592,8 +13286,6 @@ Index: EN EN->FR
 ===what===
   aberrance {{fr-noun|f}} :: {statistics} Character of what is aberrant.
   bien perdu bien connu :: That which is well lost is well known, or what once was lost is prized.
-===wheel===
-  axe {{fr-noun|m}} :: Rod on which a wheel revolves; axle
 ===when===
   lui {fr-pron} :: him, he; the third-person masculine singular personal pronoun used after a preposition, or as the predicate of a linking verb, or when disjoined from a sentence, or as a stressed subject.
     J'habitais avec lui. :: I was living with him.
@@ -13605,7 +13297,7 @@ Index: EN EN->FR
   passage {{fr-noun|m}} :: The time when such an act occurs.
   passage {{fr-noun|m}} :: {astronomy} Moment when a star or planet occults another,or crosses a meridian.
   bite {{fr-noun|f}} :: {{slang|vulgar}} knob, cock, dick
-    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big stick.
+    Il a souri quand j'ai mis la main entre ses cuisses et je me suis mis à frotter sa grosse bite. :: He smiled when I put my hand between his thighs and started to rub his big cock.
 ===where===
   drink {{fr-noun|m}} :: A reception or after party where alcohol is served.
   quadruple {{fr-noun|m}} :: {{context|Scrabble}} The area on the board where such a move is possible.
@@ -13617,8 +13309,6 @@ Index: EN EN->FR
 ===which===
   abord {{fr-noun|m}} :: {literary} The manner with which one acts in the presence of another person or persons, especially in a first encounter.
   y (pronoun), adverbial :: Used as a pronoun to replace à followed by an indirect object. See Appendix:French verbs followed by à for verbs which use this structure.
-  axe {{fr-noun|m}} :: Straight line that crosses the center of a body and around which it turns; axis.
-  axe {{fr-noun|m}} :: Rod on which a wheel revolves; axle
   bien perdu bien connu :: That which is well lost is well known, or what once was lost is prized.
   cake {{fr-noun|m}} :: quick bread (a smallish loaf-shaped baked good which may be sweet like an English cake or salty and with bits of meat. See insert).
   augment {{fr-noun|m}} :: (mediaeval law) part of the estates which the widow could inherit
@@ -13666,8 +13356,6 @@ Index: EN EN->FR
     Il est certain qu'il viendra. :: It is certain that he will arrive.
   franc {{fr-adj|feminine=franche}} :: free
     Il a fait cette action de sa pure et franche volonté. :: His action was performed out of his free will
-  avoir {{fr-verb|type=auxiliary}} :: {intransitive} to have to
-    Il va avoir à faire les courses. :: He will have to do the shopping.
 ===window===
   rose {{fr-noun|f}} :: rose window
 ===wine===
@@ -13772,8 +13460,6 @@ Index: EN EN->FR
 ===would===
   de {fr-prep} :: by
     Boire trois tasses par jour réduirait de 20% les risques de contracter une maladie. :: Drinking three glasses a day would reduce the risk of catching an illness by 20%.
-  avoir {{fr-verb|type=auxiliary}} :: {transitive} to have (to own)
-    J'aimerais avoir 20 dollars. :: I would like to have 20 dollars.
 ===wrestling===
   catch {{fr-noun-unc|m}} :: wrestling; professional wrestling
 ===wrinkle===
@@ -13801,6 +13487,8 @@ Index: EN EN->FR
     1862, {{w|Victor Hugo}}, Les Misérables, I.3.i: :: --
     La duchesse de Duras lisait à trois ou quatre amis, dans son boudoir meublé d’X en satin bleu ciel [...]. :: --
     The Duchess de Duras was reading to two or three friends, in a boudoir furnished with X-frame stools in sky-blue satin. :: --
+===XHTML===
+  XHTML {fr-initialism} :: XHTML
 ===Xylophone===
   xylophone {{fr-noun|m|s}} :: Xylophone.
 ===Yacht===
@@ -13817,8 +13505,6 @@ Index: EN EN->FR
     en 1993 :: in 1993
     en janvier :: in January
     en septembre 2001 :: in September 2001
-  avoir {{fr-verb|type=auxiliary}} :: to be; to be aged (speaking of age)
-    Elle a 19 ans. :: She is 19 years old.
 ===yellow===
   jaune {fr-adj-mf} :: yellow
     {{usex|Le citron est un fruit jaune.|translation=Lemon is a yellow fruit.}} :: --
@@ -13845,9 +13531,6 @@ Index: EN EN->FR
   if {{fr-noun|m}} :: yew
 ===yield===
   gain {{fr-noun|m}} :: {finance} gain, yield
-===yoga===
-  être {{fr-verb|type=auxiliary}} :: {auxiliary} Used to form the perfect and pluperfect tense of certain verbs (including all reflexive verbs)
-    Après être allé au yoga, je suis rentré chez moi. :: After having gone to yoga, I came back home.
 ===yolk===
   jaune {{fr-noun|m}} :: yolk (of egg)
 ===you===
@@ -13899,10 +13582,6 @@ Index: EN EN->FR
     To té paʼlé gra. / To te pale gra. :: You spoke with an accent. (literally: "You had spoken thick.")
   as {fr-verb-form} :: {conjugation of|avoir|2|s|pres|ind}
     Tu as un chien. :: You have a dog.
-  être {{fr-verb|type=auxiliary}} :: to be
-    Vous devez être plus clairs. :: You must be clearer.
-  avoir {{fr-verb|type=auxiliary}} :: to have (to trick)
-    Tu t'es fait avoir. :: You've been had.
 ===Young===
   cool (adjective) {m|f} :: cool (only its informal senses, mainly fashionable)
     Les jeunes sont cool. :: Young people are cool.

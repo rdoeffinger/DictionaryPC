@@ -78,6 +78,10 @@ class EnFunctionCallbacks {
       callbacks.put("rel-mid3", callback);
       callbacks.put("rel-mid4", callback);
       callbacks.put("rel-bottom", callback);
+      callbacks.put("der-top", callback);
+      callbacks.put("der-mid", callback);
+      callbacks.put("der-mid3", callback);
+      callbacks.put("der-bottom", callback);
       
       callback = new AppendName<T>();
       callbacks.put("...", callback);
