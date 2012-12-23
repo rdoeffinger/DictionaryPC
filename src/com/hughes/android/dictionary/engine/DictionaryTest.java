@@ -44,12 +44,22 @@ public class DictionaryTest extends TestCase {
   }
 
   public void testEnItWiktionary() throws IOException {
-    final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "EN-IT_enwiktionary.quickdic", "r");
+    final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "EN-IT.quickdic", "r");
     final Dictionary dict = new Dictionary(raf);
     final Index enIndex = dict.indices.get(0);
     
     final RowBase row = enIndex.rows.get(4);
-    assertEquals("The numeral 00\tzeranta (noun) {m|f|inv}", row.getRawText(false));
+    assertEquals("-ical", row.getRawText(false));
+    
+    final Index itIndex = dict.indices.get(1);
+    {
+    final List<RowBase> rows = itIndex.multiWordSearch("come mai", Arrays.asList("come", "mai"), new AtomicBoolean(false));
+    System.out.println(CollectionUtil.join(rows, "\n  "));
+    assertTrue(rows.toString(), rows.size() > 0);
+    assertTrue(rows.get(0).toString().startsWith("come mai@"));
+    assertTrue(rows.get(0) instanceof TokenRow);
+    assertTrue(!((TokenRow)rows.get(0)).getIndexEntry().htmlEntries.isEmpty());
+    }
 
     raf.close();
   }
@@ -170,7 +180,7 @@ public class DictionaryTest extends TestCase {
     final Index deIndex = dict.indices.get(0);
 
     {
-    final List<RowBase> rows = deIndex.multiWordSearch(Arrays.asList("aaa", "aaab"), new AtomicBoolean(false));
+    final List<RowBase> rows = deIndex.multiWordSearch("aaa aaab", Arrays.asList("aaa", "aaab"), new AtomicBoolean(false));
     System.out.println(CollectionUtil.join(rows, "\n  "));
     assertTrue(rows.toString(), rows.size() > 0);
     }
@@ -179,34 +189,34 @@ public class DictionaryTest extends TestCase {
   }
 
   public void testMultiSearchBig() throws IOException {
-    final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "DE-EN_chemnitz_enwiktionary.quickdic", "r");
+    final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "DE-EN.quickdic", "r");
     final Dictionary dict = new Dictionary(raf);
     final Index enIndex = dict.indices.get(1);
 
     {
-    final List<RowBase> rows = enIndex.multiWordSearch(Arrays.asList("train", "station"), new AtomicBoolean(false));
+    final List<RowBase> rows = enIndex.multiWordSearch("train station", Arrays.asList("train", "station"), new AtomicBoolean(false));
     System.out.println(CollectionUtil.join(rows, "\n  "));
     assertTrue(rows.toString(), rows.size() > 0);
-    assertEquals("Bahnhof {{de-noun|g=m|genitive=Bahnhofs|genitive2=Bahnhofes|plural=Bahnhöfe}}\ttrain station", rows.get(0).toString());
+    assertTrue(rows.get(0).toString().startsWith("train station@"));
     }
 
     {
-    final List<RowBase> rows = enIndex.multiWordSearch(Arrays.asList("a", "train", "station"), new AtomicBoolean(false));
+    final List<RowBase> rows = enIndex.multiWordSearch("a train station", Arrays.asList("a", "train", "station"), new AtomicBoolean(false));
     System.out.println(CollectionUtil.join(rows, "\n  "));
     assertTrue(rows.toString(), rows.size() > 0);
     assertEquals("Bahnhofsuhr {{de-noun|g=f|plural=Bahnhofsuhren}}\tstation clock (at a train station)", rows.get(0).toString());
     }
 
     {
-    final List<RowBase> rows = enIndex.multiWordSearch(Arrays.asList("a", "station"), new AtomicBoolean(false));
+    final List<RowBase> rows = enIndex.multiWordSearch("a station", Arrays.asList("a", "station"), new AtomicBoolean(false));
     System.out.println(CollectionUtil.join(rows, "\n  "));
     assertTrue(rows.toString(), rows.size() > 0);
-    assertEquals("Kraftwerk {n}\tpower plant (a station built for the production of electric power) (noun)", rows.get(0).toString());
+    assertEquals("Abfahrthalle {en-noun}\tDeparture room of a station.", rows.get(0).toString());
     }
 
     {
     // Should print: Giving up, too many words with prefix: p
-    final List<RowBase> rows = enIndex.multiWordSearch(Arrays.asList("p", "eat"), new AtomicBoolean(false));
+    final List<RowBase> rows = enIndex.multiWordSearch("p eat", Arrays.asList("p", "eat"), new AtomicBoolean(false));
     System.out.println(CollectionUtil.join(rows, "\n  "));
     assertTrue(rows.toString(), rows.size() > 0);
     assertTrue(rows.toString().contains("verschlingen; verputzen\tto dispatch (eat)"));
@@ -214,25 +224,25 @@ public class DictionaryTest extends TestCase {
 
     {
     // Should print: Giving up, too many words with prefix: p
-    final List<RowBase> rows = enIndex.multiWordSearch(Arrays.asList("p", "p"), new AtomicBoolean(false));
+    final List<RowBase> rows = enIndex.multiWordSearch("p p", Arrays.asList("p", "p"), new AtomicBoolean(false));
     assertTrue(rows.size() >= 1000);
     }
 
     {
     // Should print: Giving up, too many words with prefix: a
-    final List<RowBase> rows = enIndex.multiWordSearch(Arrays.asList("a", "a"), new AtomicBoolean(false));
+    final List<RowBase> rows = enIndex.multiWordSearch("a a", Arrays.asList("a", "a"), new AtomicBoolean(false));
     assertTrue(rows.size() >= 1000);
     }
 
     {
     // Should print: Giving up, too many words with prefix: a
-    final List<RowBase> rows = enIndex.multiWordSearch(Arrays.asList("b", "ba"), new AtomicBoolean(false));
+    final List<RowBase> rows = enIndex.multiWordSearch("b ba", Arrays.asList("b", "ba"), new AtomicBoolean(false));
     assertTrue(rows.size() >= 1000);
     }
 
     {
     // Should print: Giving up, too many words with prefix: a
-    final List<RowBase> rows = enIndex.multiWordSearch(Arrays.asList("b", "ba"), new AtomicBoolean(false));
+    final List<RowBase> rows = enIndex.multiWordSearch("b ba", Arrays.asList("b", "ba"), new AtomicBoolean(false));
     assertTrue(rows.size() >= 1000);
     }
 
@@ -240,33 +250,33 @@ public class DictionaryTest extends TestCase {
   }
 
   public void testMultiSearchBigAF() throws IOException {
-    final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "EN-AF_enwiktionary.quickdic", "r");
+    final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "EN-AF.quickdic", "r");
     final Dictionary dict = new Dictionary(raf);
     final Index enIndex = dict.indices.get(0);
 
     {
-    final List<RowBase> rows = enIndex.multiWordSearch(Arrays.asList("pig", "eats"), new AtomicBoolean(false));
+    final List<RowBase> rows = enIndex.multiWordSearch("pig eats", Arrays.asList("pig", "eats"), new AtomicBoolean(false));
     System.out.println(CollectionUtil.join(rows, "\n  "));
     assertTrue(rows.toString(), rows.size() > 0);
     assertEquals("pig (someone who overeats or eats rapidly) (noun)\tvark", rows.get(0).toString());
     }
 
     {
-    final List<RowBase> rows = enIndex.multiWordSearch(Arrays.asList("pig", "eat"), new AtomicBoolean(false));
+    final List<RowBase> rows = enIndex.multiWordSearch("pig eat", Arrays.asList("pig", "eat"), new AtomicBoolean(false));
     System.out.println(CollectionUtil.join(rows, "\n  "));
     assertTrue(rows.toString(), rows.size() > 0);
     assertEquals("pig (someone who overeats or eats rapidly) (noun)\tvark", rows.get(0).toString());
     }
 
     {
-    final List<RowBase> rows = enIndex.multiWordSearch(Arrays.asList("pi", "ea"), new AtomicBoolean(false));
+    final List<RowBase> rows = enIndex.multiWordSearch("pi ea", Arrays.asList("pi", "ea"), new AtomicBoolean(false));
     System.out.println(CollectionUtil.join(rows, "\n  "));
     assertTrue(rows.toString(), rows.size() > 0);
     assertTrue(rows.toString().contains("pig (someone who overeats or eats rapidly) (noun)\tvark"));
     }
 
     {
-    final List<RowBase> rows = enIndex.multiWordSearch(Arrays.asList("p", "eat"), new AtomicBoolean(false));
+    final List<RowBase> rows = enIndex.multiWordSearch("p eat", Arrays.asList("p", "eat"), new AtomicBoolean(false));
     System.out.println(CollectionUtil.join(rows, "\n  "));
     assertTrue(rows.toString(), rows.size() > 0);
     assertTrue(rows.toString().contains("pig (someone who overeats or eats rapidly) (noun)\tvark"));
@@ -278,7 +288,7 @@ public class DictionaryTest extends TestCase {
 
 
   public void testExactSearch() throws IOException {
-    final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "EN-ZH_enwiktionary.quickdic", "r");
+    final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "EN-ZH.quickdic", "r");
     final Dictionary dict = new Dictionary(raf);
     final Index zhIndex = dict.indices.get(1);
 
@@ -297,7 +307,7 @@ public class DictionaryTest extends TestCase {
   }
 
   public void testThai() throws IOException {
-    final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "EN-TH_enwiktionary.quickdic", "r");
+    final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "EN-TH.quickdic", "r");
     final Dictionary dict = new Dictionary(raf);
     final Index thIndex = dict.indices.get(1);
 
@@ -307,8 +317,8 @@ public class DictionaryTest extends TestCase {
     raf.close();
   }
 
-  public void testNorwegiani() throws IOException {
-      final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "EN-NL_enwiktionary.quickdic", "r");
+  public void testNorwegian() throws IOException {
+      final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "EN-NL.quickdic", "r");
       final Dictionary dict = new Dictionary(raf);
       final Index nlIndex = dict.indices.get(1);
 
