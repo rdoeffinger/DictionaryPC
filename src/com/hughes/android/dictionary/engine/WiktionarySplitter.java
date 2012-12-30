@@ -56,7 +56,7 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
   private WiktionarySplitter() {
     List<Selector> selectors;
     for (final String code : WiktionaryLangs.wikiCodeToIsoCodeToWikiName.keySet()) {
-      //if (code.equals("en") || code.equals("de") || code.equals("fr")) {continue;}
+      //if (!code.equals("fr")) {continue;}
       selectors = new ArrayList<WiktionarySplitter.Selector>();
       pathToSelectors.put(String.format("data/inputs/%swiktionary-pages-articles.xml", code), selectors);
       for (final Map.Entry<String, String> entry : WiktionaryLangs.wikiCodeToIsoCodeToWikiName.get(code).entrySet()) {

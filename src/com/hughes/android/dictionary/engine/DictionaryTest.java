@@ -42,6 +42,9 @@ public class DictionaryTest extends TestCase {
       }
     }
   }
+  
+  public void testURLFormatting() {
+  }
 
   public void testEnItWiktionary() throws IOException {
     final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "EN-IT.quickdic", "r");
@@ -61,8 +64,31 @@ public class DictionaryTest extends TestCase {
     assertTrue(!((TokenRow)rows.get(0)).getIndexEntry().htmlEntries.isEmpty());
     }
 
+    {
+        final IndexEntry searchResult = itIndex.findInsertionPoint("azzurro", new AtomicBoolean(
+                false));
+        HtmlEntry htmlEntry = searchResult.htmlEntries.get(0);
+        System.out.println("azzurro:\n" + htmlEntry.getHtml());
+    }
+
     raf.close();
   }
+
+  public void testDeEnWiktionary() throws IOException {
+      final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "DE-EN.quickdic", "r");
+      final Dictionary dict = new Dictionary(raf);
+            
+      final Index deIndex = dict.indices.get(0);
+
+      {
+          final IndexEntry searchResult = deIndex.findInsertionPoint("rot", new AtomicBoolean(
+                  false));
+          HtmlEntry htmlEntry = searchResult.htmlEntries.get(0);
+          System.out.println("rot:\n" + htmlEntry.getHtml());
+      }
+
+      raf.close();
+    }
 
   public void testGermanMetadata() throws IOException {
     final RandomAccessFile raf = new RandomAccessFile(TEST_OUTPUTS + "de-en.quickdic", "r");
@@ -170,7 +196,7 @@ public class DictionaryTest extends TestCase {
     
     assertSearchResult("Höschen", "Hos", deIndex.findInsertionPoint("Hos", new AtomicBoolean(false)));
     assertSearchResult("Höschen", "hos", deIndex.findInsertionPoint("hos", new AtomicBoolean(false)));
-
+    
     raf.close();
   }
 

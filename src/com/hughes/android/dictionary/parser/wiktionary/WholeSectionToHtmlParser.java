@@ -184,35 +184,46 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
         });
 
 
-        
-        final LangConfig basicLangConfig = new LangConfig() {
+        final Pattern frSkipSections = Pattern.compile(".*(Traductions).*");
+        isoToLangConfig.put("FR", new LangConfig() {
             @Override
             public boolean skipSection(String headingText) {
-                return false;
+                return frSkipSections.matcher(headingText).matches();
             }
+            
             @Override
             public EntryTypeName sectionNameToEntryType(String sectionName) {
-                return EntryTypeName.WIKTIONARY_MENTIONED;
+                if (sectionName.equalsIgnoreCase("Synonymes")) {
+                    return EntryTypeName.SYNONYM_MULTI;
+                }
+                return null;
             }
+            
             @Override
             public boolean skipWikiLink(WikiTokenizer wikiTokenizer) {
-                final String wikiText = wikiTokenizer.wikiLinkText();
-                if (wikiText.startsWith("Category:")) {
-                    return true;
-                }
                 return false;
             }
             @Override
-            public String adjustWikiLink(String wikiLinkDest, final String wikiLinkText) {
+            public String adjustWikiLink(String wikiLinkDest, String wikiLinkText) {
+                if (wikiLinkDest.startsWith("w:") || wikiLinkDest.startsWith("Image:")) {
+                    return null;
+                }
+                final int hashPos = wikiLinkDest.indexOf("#");
+                if (hashPos != -1) {
+                    wikiLinkDest = wikiLinkDest.substring(0, hashPos);
+                    if (wikiLinkDest.isEmpty()) {
+                        wikiLinkDest = wikiLinkText;
+                    }
+                }
                 return wikiLinkDest;
             }
 
             @Override
             public void addFunctionCallbacks(
                     Map<String, FunctionCallback<WholeSectionToHtmlParser>> functionCallbacks) {
+                FrFunctionCallbacks.addGenericCallbacks(functionCallbacks);
             }
-        };
-        isoToLangConfig.put("FR", basicLangConfig);
+        });
     }
 
     final IndexBuilder titleIndexBuilder;
@@ -282,7 +293,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
         if (StringUtil.isAscii(htmlEscaped)) {
             return htmlEscaped;
         } else { 
-            return StringUtil.escapeToPureHtmlUnicode(plainText);
+            return StringUtil.escapeUnicodeToPureHtml(plainText);
         }
 
     }
@@ -354,10 +365,14 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
             sectionEntryTypeName = langConfig.sectionNameToEntryType(headingText);
             final int depth = wikiTokenizer.headingDepth();
             if (langConfig.skipSection(headingText)) {
+                System.out.println("Skipping section:" + headingText);
                 while ((wikiTokenizer = wikiTokenizer.nextToken()) != null) {
                     if (wikiTokenizer.isHeading() && wikiTokenizer.headingDepth() <= depth) {
+                        System.out.println("Resume on: " + wikiTokenizer.token());
                         wikiTokenizer.returnToLineStart();
                         return;
+                    } else {
+                        System.out.println("Skipped: " + wikiTokenizer.token());
                     }
                 }
                 return;

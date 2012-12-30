@@ -47,8 +47,6 @@ public class DictionaryBuilderMain extends TestCase {
       {"DE", "EN" },
       {"DE", "IT" },
 
-      /*
-
       {"AR", "DE" },
       {"AR", "ES" },
       {"AR", "FR" },
@@ -136,8 +134,6 @@ public class DictionaryBuilderMain extends TestCase {
       {"FA", "SV" },  // Persian, Swedish, by request.
       {"NL", "PL" },  // Dutch, Polish, by request.
       
-      */
-
   };
 
 
@@ -319,7 +315,9 @@ public class DictionaryBuilderMain extends TestCase {
     allPairs.addAll(Arrays.asList(nonEnPairs));
     // Add all the EN-XX pairs.
     for (final String isoCode : WiktionaryLangs.isoCodeToEnWikiName.keySet()) {
-      allPairs.add(new String[] {"EN", isoCode});
+      if (!isoCode.equals("EN")) {
+          allPairs.add(new String[] {"EN", isoCode});
+      }
     }
     
         

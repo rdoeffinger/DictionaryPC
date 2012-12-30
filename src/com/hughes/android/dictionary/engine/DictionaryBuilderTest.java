@@ -189,6 +189,10 @@ public class DictionaryBuilderTest extends TestCase {
       wiktionaryTestSingleLang("SingleLang_IT.quickdic", "IT", 100);
   }
 
+  public void testSingleLang_FR() throws Exception {
+      wiktionaryTestSingleLang("SingleLang_FR.quickdic", "FR", 100);
+  }
+
   public void wiktionaryTestSingleLang(final String name, final String langCode, final int pageLimit) throws Exception {
       final File result = new File(TEST_OUTPUTS + name);
       System.out.println("Writing to: " + result);

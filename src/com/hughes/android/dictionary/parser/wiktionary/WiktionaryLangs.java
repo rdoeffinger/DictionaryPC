@@ -14,9 +14,7 @@
 
 package com.hughes.android.dictionary.parser.wiktionary;
 
-import com.hughes.android.dictionary.R;
 import com.hughes.android.dictionary.engine.Language;
-import com.hughes.android.dictionary.engine.Language.LanguageResources;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
@@ -140,24 +138,24 @@ public class WiktionaryLangs {
     // egrep -o '\{\{=[a-zA-Z]+=\}\}' frwiktionary-pages-articles.xml | sort | uniq -c | sort -nr
     isoCodeToWikiName = new LinkedHashMap<String, String>();
     wikiCodeToIsoCodeToWikiName.put("fr", isoCodeToWikiName);
-    isoCodeToWikiName.put("FR", Pattern.quote("{{=fr=}}"));
-    isoCodeToWikiName.put("RU", Pattern.quote("{{=ru=}}"));
-    isoCodeToWikiName.put("BG", Pattern.quote("{{=bg=}}"));  // Bulgarian
-    isoCodeToWikiName.put("EN", Pattern.quote("{{=en=}}"));
-    //isoCodeToWikiName.put("", Pattern.quote("{{=sl=}}"));
-    isoCodeToWikiName.put("LA", Pattern.quote("{{=la=}}"));
-    isoCodeToWikiName.put("IT", Pattern.quote("{{=it=}}"));
-    isoCodeToWikiName.put("EO", Pattern.quote("{{=eo=}}"));
-    isoCodeToWikiName.put("CS", Pattern.quote("{{=cs=}}"));  // Czech
-    isoCodeToWikiName.put("NL", Pattern.quote("{{=nl=}}"));  // Dutch
-    //isoCodeToWikiName.put("", Pattern.quote("{{=mg=}}"));
-    //isoCodeToWikiName.put("", Pattern.quote("{{=hsb=}}"));
-    isoCodeToWikiName.put("ZH", Pattern.quote("{{=zh=}}"));
-    isoCodeToWikiName.put("JA", Pattern.quote("{{=ja=}}"));
-    isoCodeToWikiName.put("DE", Pattern.quote("{{=de=}}"));
-    isoCodeToWikiName.put("IS", Pattern.quote("{{=is=}}"));  // Icelandic
-    isoCodeToWikiName.put("ES", Pattern.quote("{{=es=}}"));
-    isoCodeToWikiName.put("UK", Pattern.quote("{{=uk=}}"));
+    isoCodeToWikiName.put("FR", Pattern.quote("{{langue|fr}}"));
+    isoCodeToWikiName.put("RU", Pattern.quote("{{langue|ru}}"));
+    isoCodeToWikiName.put("BG", Pattern.quote("{{langue|bg}}"));  // Bulgarian
+    isoCodeToWikiName.put("EN", Pattern.quote("{{langue|en}}"));
+    //isoCodeToWikiName.put("", Pattern.quote("{{langue|sl}}"));
+    isoCodeToWikiName.put("LA", Pattern.quote("{{langue|la}}"));
+    isoCodeToWikiName.put("IT", Pattern.quote("{{langue|it}}"));
+    isoCodeToWikiName.put("EO", Pattern.quote("{{langue|eo}}"));
+    isoCodeToWikiName.put("CS", Pattern.quote("{{langue|cs}}"));  // Czech
+    isoCodeToWikiName.put("NL", Pattern.quote("{{langue|nl}}"));  // Dutch
+    //isoCodeToWikiName.put("", Pattern.quote("{{langue|mg}}"));
+    //isoCodeToWikiName.put("", Pattern.quote("{{langue|hsb}}"));
+    isoCodeToWikiName.put("ZH", Pattern.quote("{{langue|zh}}"));
+    isoCodeToWikiName.put("JA", Pattern.quote("{{langue|ja}}"));
+    isoCodeToWikiName.put("DE", Pattern.quote("{{langue|de}}"));
+    isoCodeToWikiName.put("IS", Pattern.quote("{{langue|is}}"));  // Icelandic
+    isoCodeToWikiName.put("ES", Pattern.quote("{{langue|es}}"));
+    isoCodeToWikiName.put("UK", Pattern.quote("{{langue|uk}}"));
 
     // egrep -o '= *\{\{-[a-z]+-\}\} *=' itwiktionary-pages-articles.xml | sort | uniq -c | sort -n
     isoCodeToWikiName = new LinkedHashMap<String, String>();
