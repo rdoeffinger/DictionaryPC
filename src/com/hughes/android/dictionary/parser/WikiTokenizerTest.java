@@ -302,4 +302,31 @@ public class WikiTokenizerTest extends TestCase {
     assertEquals(Arrays.asList(expectedTokens), actualTokens);
   }
   
+  public void testHtml() {
+      String wikiText;
+
+      {
+      wikiText = " zz <pre> asdf </pre> ZZ <math> 1234 </math> XX ";
+      final WikiTokenizer tokenizer = new WikiTokenizer(wikiText);
+      assertEquals(" zz ", tokenizer.nextToken().token());
+      assertEquals("<pre> asdf </pre>", tokenizer.nextToken().token());
+      assertEquals(" ZZ ", tokenizer.nextToken().token());
+      assertEquals("<math> 1234 </math>", tokenizer.nextToken().token());
+      assertEquals(" XX ", tokenizer.nextToken().token());
+      }
+      {
+      wikiText = "\n<math> 1234 </math>";
+      final WikiTokenizer tokenizer = new WikiTokenizer(wikiText);
+      assertEquals("<math> 1234 </math>", tokenizer.nextToken().nextToken().token());
+      }
+
+      {
+      wikiText = "# z'' is the '''free''' variable in \"<math>\\forall x\\exists y:xy=z</math>\".''";
+      final WikiTokenizer tokenizer = new WikiTokenizer(wikiText);
+      assertEquals(wikiText, tokenizer.nextToken().token());
+      }
+
+      
+  }
+  
 }

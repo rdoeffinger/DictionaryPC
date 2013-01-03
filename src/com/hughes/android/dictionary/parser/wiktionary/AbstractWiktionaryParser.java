@@ -204,6 +204,10 @@ public abstract class AbstractWiktionaryParser implements Parser {
     
     @Override
     public void onHtml(WikiTokenizer wikiTokenizer) {
+      if (wikiTokenizer.token().startsWith("<ref>")) {
+          // Do nothing.
+          return;
+      }
       // Unindexed for now.
       builder.append(wikiTokenizer.token());
     }

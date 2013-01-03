@@ -84,6 +84,9 @@ public final class WikiTokenizer {
         "=|" +  // Need the = because we might have to find unescaped =
   		"<!--|" +
   		"''|" +
+        "<pre>|" +
+        "<math>|" +
+        "<ref>|" +
   		"$)", Pattern.MULTILINE);
   private static final String listChars = "*#:;";
   
@@ -155,6 +158,9 @@ public final class WikiTokenizer {
       "\\[\\[|" +
       "<!--|" +
       "''|" +
+      "<pre>|" +
+      "<math>|" +
+      "<ref>|" +
       "[\n]"
       );
 
@@ -338,7 +344,7 @@ public final class WikiTokenizer {
       return this;
     }
     
-    if (justReturnedNewline) {    
+    if (justReturnedNewline) {   
       justReturnedNewline = false;
 
       final char firstChar = wikiText.charAt(end);
@@ -405,6 +411,12 @@ public final class WikiTokenizer {
       isHtml = true;
       return this;
     }
+
+    if (wikiText.startsWith("<ref>", start)) {
+        end = safeIndexOf(wikiText, start, "</ref>", "\n");
+        isHtml = true;
+        return this;
+      }
 
     if (wikiText.startsWith("<math>", start)) {
       end = safeIndexOf(wikiText, start, "</math>", "\n");
@@ -519,7 +531,7 @@ public final class WikiTokenizer {
             errors.add("Unmatched <!-- error: " + wikiText.substring(start));
             return safeIndexOf(wikiText, start, "\n", "\n");
           }
-        } else if (matchText.equals("''")) {
+        } else if (matchText.equals("''") || (matchText.startsWith("<") && matchText.endsWith(">"))) {
           // Don't care.
         } else {
           assert false : "Match text='" + matchText + "'";
