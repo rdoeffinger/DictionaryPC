@@ -1,5 +1,11 @@
 package com.hughes.android.dictionary.engine;
 
+import com.hughes.android.dictionary.DictionaryInfo;
+import com.hughes.android.dictionary.DictionaryInfo.IndexInfo;
+import com.hughes.android.dictionary.parser.wiktionary.WiktionaryLangs;
+import com.hughes.util.CollectionUtil;
+import com.hughes.util.StringUtil;
+
 import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -8,9 +14,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
-
-import com.hughes.android.dictionary.DictionaryInfo;
-import com.hughes.android.dictionary.parser.wiktionary.WiktionaryLangs;
 
 public class CheckDictionariesMain {
   
@@ -56,9 +59,11 @@ public class CheckDictionariesMain {
       
       // Find the stats.
       System.out.println("Stats...");
-      final String lang1 = WiktionaryLangs.isoCodeToEnWikiName.get(dictionaryInfo.indexInfos.get(0).shortName);
-      final String lang2 = WiktionaryLangs.isoCodeToEnWikiName.get(dictionaryInfo.indexInfos.get(1).shortName);
-      dictNames.add(String.format("%s-%s\n", lang1, lang2));
+      final List<String> indexNames = new ArrayList<String>();
+      for (final IndexInfo indexInfo : dictionaryInfo.indexInfos) {
+          indexNames.add(indexInfo.shortName);
+      }
+      dictNames.add(CollectionUtil.join(indexNames, "-") + "\n");
       final String row = dictionaryInfo.append(new StringBuilder()).toString();
       if (!zipFile.canRead()) {
         System.err.println("Couldn't read zipfile: " + zipFile);

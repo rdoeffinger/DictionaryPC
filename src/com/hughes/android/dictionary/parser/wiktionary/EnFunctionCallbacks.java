@@ -232,13 +232,17 @@ class EnFunctionCallbacks {
         final Map<String, String> namedArgs,
         final T parser,
         final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
-      if (args.size() != 1 || !namedArgs.isEmpty()) {
-        EnParser.LOG.warning("weird qualifier: ");
+      if (!namedArgs.isEmpty()) {
+        EnParser.LOG.warning("weird qualifier: " + wikiTokenizer.token());
         return false;
       }
-      String qualifier = args.get(0);
       appendAndIndexWikiCallback.builder.append("(");
-      appendAndIndexWikiCallback.dispatch(qualifier, null);
+      for (int i = 0; i < args.size(); ++i) {
+          appendAndIndexWikiCallback.dispatch(args.get(i), null);
+          if (i > 0) {
+              appendAndIndexWikiCallback.builder.append(", ");
+          }
+      }
       appendAndIndexWikiCallback.builder.append(")");
       return true;
     }
@@ -252,7 +256,7 @@ class EnFunctionCallbacks {
         final Map<String, String> namedArgs,
         final T parser,
         final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
-      //namedArgs.remove("lang");
+      namedArgs.remove("lang");
       if (!namedArgs.isEmpty()) {
         EnParser.LOG.warning("weird encoding: " + wikiTokenizer.token());
         return false;

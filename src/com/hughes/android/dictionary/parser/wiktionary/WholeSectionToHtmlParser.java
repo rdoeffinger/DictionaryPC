@@ -365,14 +365,14 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
             sectionEntryTypeName = langConfig.sectionNameToEntryType(headingText);
             final int depth = wikiTokenizer.headingDepth();
             if (langConfig.skipSection(headingText)) {
-                System.out.println("Skipping section:" + headingText);
+                //System.out.println("Skipping section:" + headingText);
                 while ((wikiTokenizer = wikiTokenizer.nextToken()) != null) {
                     if (wikiTokenizer.isHeading() && wikiTokenizer.headingDepth() <= depth) {
-                        System.out.println("Resume on: " + wikiTokenizer.token());
+                        // System.out.println("Resume on: " + wikiTokenizer.token());
                         wikiTokenizer.returnToLineStart();
                         return;
                     } else {
-                        System.out.println("Skipped: " + wikiTokenizer.token());
+                        // System.out.println("Skipped: " + wikiTokenizer.token());
                     }
                 }
                 return;

@@ -74,6 +74,20 @@ public class DictionaryTest extends TestCase {
     raf.close();
   }
 
+  public void testFr() throws IOException {
+      final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "FR.quickdic", "r");
+      final Dictionary dict = new Dictionary(raf);
+      final Index frIndex = dict.indices.get(0);
+      
+      // Now they're all cached, we shouldn't have to search.
+      for (final IndexEntry indexEntry : frIndex.sortedIndexEntries) {
+          System.out.println(indexEntry.token);
+      }
+
+      raf.close();
+  }
+
+  
   public void testDeEnWiktionary() throws IOException {
       final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "DE-EN.quickdic", "r");
       final Dictionary dict = new Dictionary(raf);
@@ -314,16 +328,16 @@ public class DictionaryTest extends TestCase {
 
 
   public void testExactSearch() throws IOException {
-    final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "EN-ZH.quickdic", "r");
+    final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "EN-cmn.quickdic", "r");
     final Dictionary dict = new Dictionary(raf);
-    final Index zhIndex = dict.indices.get(1);
+    final Index cmnIndex = dict.indices.get(1);
 
     final Random random = new Random(10);
     
     for (int i = 0; i < 1000; ++i) {
-      final int ii = random.nextInt(zhIndex.sortedIndexEntries.size());
-      final IndexEntry indexEntry = zhIndex.sortedIndexEntries.get(ii);
-      final IndexEntry found = zhIndex.findExact(indexEntry.token);
+      final int ii = random.nextInt(cmnIndex.sortedIndexEntries.size());
+      final IndexEntry indexEntry = cmnIndex.sortedIndexEntries.get(ii);
+      final IndexEntry found = cmnIndex.findExact(indexEntry.token);
       assertNotNull(found);
       assertEquals(indexEntry.token, found.token);
       assertEquals(indexEntry, found);  // Test of caching....

@@ -141,8 +141,8 @@ public class LanguageTest extends TestCase {
 
   
   public void testChinese() {
-    final Language zh = Language.lookup("zh");
-    final Transliterator transliterator = Transliterator.createFromRules("", zh.getDefaultNormalizerRules(), Transliterator.FORWARD);
+    final Language cmn = Language.lookup("cmn");
+    final Transliterator transliterator = Transliterator.createFromRules("", cmn.getDefaultNormalizerRules(), Transliterator.FORWARD);
     
     assertEquals("xiexie", transliterator.transliterate("謝謝"));
     assertEquals("xiexie", transliterator.transliterate("谢谢"));

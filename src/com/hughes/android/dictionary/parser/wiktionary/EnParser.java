@@ -44,7 +44,6 @@ public abstract class EnParser extends AbstractWiktionaryParser {
       "Particle|Interjection|Pronominal adverb" +
       "Han character|Hanzi|Hanja|Kanji|Katakana character|Syllable");
   
-  // Might only want to remove "lang" if it's equal to "zh", for example.
   static final Set<String> USELESS_WIKI_ARGS = new LinkedHashSet<String>(
       Arrays.asList(
           "lang",

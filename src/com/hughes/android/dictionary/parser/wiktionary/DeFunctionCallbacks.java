@@ -41,6 +41,7 @@ class DeFunctionCallbacks {
       callbacks.put("Übersetzungen", callback);
       callbacks.put("Referenzen", callback);
       callbacks.put("Grammatische Merkmale", callback);
+      callbacks.put("Abkürzungen", callback);
   }
 
   

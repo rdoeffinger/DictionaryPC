@@ -40,7 +40,8 @@ public class DictionaryBuilderMain extends TestCase {
       {"EN"},
       {"DE"},
       {"IT"},
-      {"FR"},
+      // This one takes a really long time:
+      // {"FR"},
           
       // The 3 I use most:
       {"IT", "EN" },
@@ -55,7 +56,7 @@ public class DictionaryBuilderMain extends TestCase {
       {"AR", "JA" },
       {"AR", "RU" },
       {"AR", "TR" },  // Turkish
-      {"AR", "ZH" },
+      {"AR", "cmn" },
       
       {"DE", "AR" },
       {"DE", "FR" },
@@ -74,7 +75,7 @@ public class DictionaryBuilderMain extends TestCase {
       {"DE", "RU" },
       {"DE", "SV" },  // Swedish
       {"DE", "TR" },  // Turkish
-      {"DE", "ZH" },
+      {"DE", "cmn" },
       {"DE", "TA" },  // Tamil
       
       {"ES", "RU" },  // Spanish-Russian
@@ -89,7 +90,7 @@ public class DictionaryBuilderMain extends TestCase {
       {"FR", "NL" },  // Dutch
       {"FR", "RU" },
       {"FR", "TR" },  // Turkish
-      {"FR", "ZH" },
+      {"FR", "cmn" },
       {"FR", "EL" },  
 
       {"IT", "DE" },
@@ -105,18 +106,18 @@ public class DictionaryBuilderMain extends TestCase {
       {"IT", "RU" },
       {"IT", "SV" },
       {"IT", "TR" },  // Turkish
-      {"IT", "ZH" },
+      {"IT", "cmn" },
 
-      {"JA", "ZH" },
+      {"JA", "cmn" },
       {"JA", "AR" },
       {"JA", "KO" },
 
-      {"ZH", "AR" },
-      {"ZH", "DE" },
-      {"ZH", "ES" },
-      {"ZH", "FR" },
-      {"ZH", "IT" },
-      {"ZH", "KO" },
+      {"cmn", "AR" },
+      {"cmn", "DE" },
+      {"cmn", "ES" },
+      {"cmn", "FR" },
+      {"cmn", "IT" },
+      {"cmn", "KO" },
 
       
       {"NO", "SV" },
@@ -133,7 +134,6 @@ public class DictionaryBuilderMain extends TestCase {
       {"FA", "HY" },  // Persian, Armenian, by request.
       {"FA", "SV" },  // Persian, Swedish, by request.
       {"NL", "PL" },  // Dutch, Polish, by request.
-      
   };
 
 
@@ -205,7 +205,9 @@ public class DictionaryBuilderMain extends TestCase {
             System.err.println("Can't read file: " + wikiSplitFile);
         }
         
-        if (lang1.equals("EN")) {
+        if (lang1.equals("EN") && !lang1.equals("EN")) {
+            // Add a parser that tries to use the definitions.  This is
+            // not very pretty yet.
             result.add(String.format("--input%d=%s/wikiSplit/en/%s.data", i, INPUTS, lang1));
             result.add(String.format("--input%dName=ENWiktionary.%s", i, lang1)) ;
             result.add(String.format("--input%dFormat=enwiktionary", i));
@@ -238,7 +240,7 @@ public class DictionaryBuilderMain extends TestCase {
         final String foreignIso = getOtherLang(pair, wikitionaryLang);
         final String wikiSplitFile = String.format("%s/wikiSplit/%s/%s.data", INPUTS, wikitionaryLang.toLowerCase(), foreignIso);
         if (!new File(wikiSplitFile).canRead()) {
-            System.err.println("Can't read file: " + wikiSplitFile);
+            System.err.println("WARNING: Can't read file: " + wikiSplitFile);
             continue;
         }
         result.add(String.format("--input%d=%s", i, wikiSplitFile));
@@ -254,17 +256,13 @@ public class DictionaryBuilderMain extends TestCase {
     // Deal with the pairs where one is English.
     if (Arrays.asList(pair).contains("EN")) {
       final String foreignIso = getOtherLang(pair, "EN");
-      
       String foreignRegex = WiktionaryLangs.isoCodeToEnWikiName.get(foreignIso);
-      if (foreignIso.equals("ZH")) {
-        // HACK: The missing "e" prevents a full match, causing "Cantonese" to be appended to the entries.
-        foreignRegex = "Chinese|Mandarin|Cantones";
-      }
       
       result.add(String.format("--lang1=%s", lang1));
       result.add(String.format("--lang2=%s",  lang2));
       result.add(String.format("--dictInfo=(EN)Wikitionary-based EN-%s dictionary.%s", foreignIso, getDedication(foreignIso)));
       
+      // Foreign section.
       result.add(String.format("--input%d=%s/wikiSplit/en/%s.data", i, INPUTS, foreignIso));
       result.add(String.format("--input%dName=ENWiktionary.%s", i, foreignIso)) ;
       result.add(String.format("--input%dFormat=enwiktionary", i));
@@ -274,6 +272,7 @@ public class DictionaryBuilderMain extends TestCase {
       result.add(String.format("--input%dEnIndex=%d", i, Arrays.asList(pair).indexOf("EN") + 1));
       ++i;
 
+      // Translation section.
       result.add(String.format("--input%d=%swikiSplit/en/EN.data", i, INPUTS));
       result.add(String.format("--input%dName=enwiktionary.english", i));
       result.add(String.format("--input%dFormat=enwiktionary", i));
@@ -303,6 +302,8 @@ public class DictionaryBuilderMain extends TestCase {
       result.add(String.format("--input%dLangPattern1=%s", i, lang1));
       result.add(String.format("--input%dLangPattern2=%s", i, lang2));
       ++i;
+      
+      // TODO: Could use FR translation section here too.
     }
     
     return result;

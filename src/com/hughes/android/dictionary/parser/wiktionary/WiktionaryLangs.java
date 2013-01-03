@@ -17,7 +17,9 @@ package com.hughes.android.dictionary.parser.wiktionary;
 import com.hughes.android.dictionary.engine.Language;
 
 import java.util.LinkedHashMap;
+import java.util.LinkedHashSet;
 import java.util.Map;
+import java.util.Set;
 import java.util.regex.Pattern;
 
 public class WiktionaryLangs {
@@ -30,14 +32,15 @@ public class WiktionaryLangs {
     isoCodeToEnWikiName.put("HY", "Armenian");
     isoCodeToEnWikiName.put("BE", "Belarusian");
     isoCodeToEnWikiName.put("BN", "Bengali");
-    isoCodeToEnWikiName.put("BS", "Bosnian");
     isoCodeToEnWikiName.put("BG", "Bulgarian");
     isoCodeToEnWikiName.put("MY", "Burmese");
-    isoCodeToEnWikiName.put("yue", "Cantonese");
     isoCodeToEnWikiName.put("CA", "Catalan");
+    isoCodeToEnWikiName.put("SH", "Serbo-Croatian");
     isoCodeToEnWikiName.put("HR", "Croatian");
     isoCodeToEnWikiName.put("CS", "Czech");
-    isoCodeToEnWikiName.put("ZH", "Chinese|Mandarin");
+    isoCodeToEnWikiName.put("ZH", "Chinese");
+    isoCodeToEnWikiName.put("cmn", "Mandarin");
+    isoCodeToEnWikiName.put("yue", "Cantonese");
     isoCodeToEnWikiName.put("DA", "Danish");
     isoCodeToEnWikiName.put("NL", "Dutch");
     isoCodeToEnWikiName.put("EN", "English");
@@ -77,7 +80,6 @@ public class WiktionaryLangs {
     isoCodeToEnWikiName.put("RO", "Romanian");
     isoCodeToEnWikiName.put("RU", "Russian");
     isoCodeToEnWikiName.put("SA", "Sanskrit");
-    isoCodeToEnWikiName.put("SR", "Serbian");
     isoCodeToEnWikiName.put("SK", "Slovak");
     isoCodeToEnWikiName.put("SL", "Slovene|Slovenian");
     isoCodeToEnWikiName.put("SO", "Somali");
@@ -96,7 +98,6 @@ public class WiktionaryLangs {
     isoCodeToEnWikiName.put("CI", "Welsh");
     isoCodeToEnWikiName.put("YI", "Yiddish");
     isoCodeToEnWikiName.put("ZU", "Zulu");
-    
     isoCodeToEnWikiName.put("AZ", "Azeri");
     isoCodeToEnWikiName.put("EU", "Basque");
     isoCodeToEnWikiName.put("BR", "Breton");
@@ -107,8 +108,16 @@ public class WiktionaryLangs {
     isoCodeToEnWikiName.put("HT", "Haitian Creole");
     isoCodeToEnWikiName.put("LB", "Luxembourgish");
     isoCodeToEnWikiName.put("MK", "Macedonian");
+    
+    // No longer exists in EN:
+    // isoCodeToEnWikiName.put("BS", "Bosnian");
+    // isoCodeToEnWikiName.put("SR", "Serbian");
 
-
+    {
+        Set<String> missing = new LinkedHashSet<String>(isoCodeToEnWikiName.keySet());
+        missing.removeAll(Language.isoCodeToResources.keySet());
+        //System.out.println(missing);
+    }
     assert Language.isoCodeToResources.keySet().containsAll(isoCodeToEnWikiName.keySet());
   }
 
@@ -151,6 +160,8 @@ public class WiktionaryLangs {
     //isoCodeToWikiName.put("", Pattern.quote("{{langue|mg}}"));
     //isoCodeToWikiName.put("", Pattern.quote("{{langue|hsb}}"));
     isoCodeToWikiName.put("ZH", Pattern.quote("{{langue|zh}}"));
+    isoCodeToWikiName.put("cmn", Pattern.quote("{{langue|cmn}}"));
+    isoCodeToWikiName.put("yue", Pattern.quote("{{langue|yue}}"));
     isoCodeToWikiName.put("JA", Pattern.quote("{{langue|ja}}"));
     isoCodeToWikiName.put("DE", Pattern.quote("{{langue|de}}"));
     isoCodeToWikiName.put("IS", Pattern.quote("{{langue|is}}"));  // Icelandic
