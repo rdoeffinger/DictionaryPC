@@ -32,13 +32,13 @@ class ItFunctionCallbacks {
         callbacks.put("-ant-", new Redispatch<T>("\n==== Antonimi/Contrari ====\n"));
         callbacks.put("-drv-", new Redispatch<T>("\n==== Parole derivate ====\n"));
         callbacks.put("-prov-", new Redispatch<T>("\n==== Proverbi e modi di dire ====\n"));
-        callbacks.put("-rel-", new Redispatch<T>("\n==== Termini correlati ====\n"));
         callbacks.put("-ref-", new Redispatch<T>("\n==== Note / Riferimenti ====\n"));
+        callbacks.put("-rel-", new Redispatch<T>("\n==== Termini correlati ====\n"));
         callbacks.put("-var-", new Redispatch<T>("\n==== Varianti ====\n"));
 
         callbacks.put("-trans1-", new SkipSection<T>());
         callbacks.put("-trans2-", new SkipSection<T>());
-
+        callbacks.put("-ref-", new SkipSection<T>());
     }
 
     static final NameAndArgs<EnParser> NAME_AND_ARGS = new NameAndArgs<EnParser>();

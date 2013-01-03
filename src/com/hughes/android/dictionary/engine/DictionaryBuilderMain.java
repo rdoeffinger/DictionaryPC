@@ -37,9 +37,10 @@ public class DictionaryBuilderMain extends TestCase {
   
   // Build the non EN ones.
   static final String[][] nonEnPairs = new String[][] {
+      /*
       {"EN"},
       {"DE"},
-      {"IT"},
+      {"IT"}, */
       // This one takes a really long time:
       // {"FR"},
           
@@ -119,7 +120,6 @@ public class DictionaryBuilderMain extends TestCase {
       {"cmn", "IT" },
       {"cmn", "KO" },
 
-      
       {"NO", "SV" },
       {"NO", "FI" },
       {"FI", "SV" },

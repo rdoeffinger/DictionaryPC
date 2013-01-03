@@ -80,9 +80,9 @@ public class DictionaryTest extends TestCase {
       final Index frIndex = dict.indices.get(0);
       
       // Now they're all cached, we shouldn't have to search.
-      for (final IndexEntry indexEntry : frIndex.sortedIndexEntries) {
-          System.out.println(indexEntry.token);
-      }
+//      for (final IndexEntry indexEntry : frIndex.sortedIndexEntries) {
+//          System.out.println(indexEntry.token);
+//      }
 
       raf.close();
   }
@@ -227,8 +227,22 @@ public class DictionaryTest extends TestCase {
     
     raf.close();
   }
+  
+  public void testMultiSearchIt() throws IOException {
+      final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "IT.quickdic", "r");
+      final Dictionary dict = new Dictionary(raf);
+      final Index index = dict.indices.get(0);
 
-  public void testMultiSearchBig() throws IOException {
+      {
+      final List<RowBase> rows = index.multiWordSearch("fare centro", 
+              Arrays.asList("fare", "centro"), new AtomicBoolean(false));
+      System.out.println(CollectionUtil.join(rows, "\n  "));
+      assertTrue(rows.toString(), rows.size() > 0);
+      assertTrue(rows.get(0).toString().startsWith("fare centro@"));
+      }
+  }
+
+  public void testMultiSearchDeBig() throws IOException {
     final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "DE-EN.quickdic", "r");
     final Dictionary dict = new Dictionary(raf);
     final Index enIndex = dict.indices.get(1);

@@ -42,6 +42,11 @@ class DeFunctionCallbacks {
       callbacks.put("Referenzen", callback);
       callbacks.put("Grammatische Merkmale", callback);
       callbacks.put("Abkürzungen", callback);
+      
+      // TODO:
+      // {{Anmerkung}}
+      // {{Anmerkungen}}
+      // {{Anmerkung|zum Gebrauch}}
   }
 
   

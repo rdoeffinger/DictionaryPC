@@ -139,19 +139,19 @@ public class DictionaryBuilderTest extends TestCase {
   }
 
   public void testWiktionary_WholeSection_DE() throws Exception {
-    wiktionaryTestWithWholeSectionToHtml("wiktionary.WholeSection.DE.quickdic", "DE", 100);
+    enWiktionaryTestWithWholeSectionToHtml("enwiktionary.WholeSection.DE.quickdic", "DE", 100);
   }
 
   public void testWiktionary_WholeSection_EN() throws Exception {
-    wiktionaryTestWithWholeSectionToHtml("wiktionary.WholeSection.EN.quickdic", "EN", 100);
+    enWiktionaryTestWithWholeSectionToHtml("enwiktionary.WholeSection.EN.quickdic", "EN", 100);
   }
 
   public void testWiktionary_WholeSection_IT() throws Exception {
     // Have to run to 800 to get a few verb conjugations (including essere!)
-    wiktionaryTestWithWholeSectionToHtml("wiktionary.WholeSection.IT.quickdic", "IT", 800);
+    enWiktionaryTestWithWholeSectionToHtml("enwiktionary.WholeSection.IT.quickdic", "IT", 800);
   }
 
-  public void wiktionaryTestWithWholeSectionToHtml(final String name, final String langCode, final int pageLimit) throws Exception {
+  public void enWiktionaryTestWithWholeSectionToHtml(final String name, final String langCode, final int pageLimit) throws Exception {
     final File result = new File(TEST_OUTPUTS + name);
     System.out.println("Writing to: " + result);
     DictionaryBuilder.main(new String[] {
