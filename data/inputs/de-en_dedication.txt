@@ -2,7 +2,7 @@ German-English dictionary dedicated to my parents Bob and Judy Hughes, my German
 
 German-English dictionary contains information from:
 de-en.txt - a German-English dictionary
-Version: devel 2011-06-21
+Version: devel 2012-12-11
 Source: http://dict.tu-chemnitz.de/
 Thanks to Frank Richter.
 And from:

@@ -332,11 +332,11 @@ public class DictionaryBuilderMain extends TestCase {
       }
       done.add(pairList);
       
-//      if (pairList.contains("EN") && pairList.contains("DE")) {
-//          go = true;
-//      } else {
-//          go = false;
-//      }
+      if (pairList.contains("EN") && pairList.contains("DE")) {
+          go = true;
+      } else {
+          go = false;
+      }
       
       if (!go) {
           continue;
