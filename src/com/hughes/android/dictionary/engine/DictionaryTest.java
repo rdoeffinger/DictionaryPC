@@ -74,18 +74,18 @@ public class DictionaryTest extends TestCase {
     raf.close();
   }
 
-  public void testFr() throws IOException {
-      final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "FR.quickdic", "r");
-      final Dictionary dict = new Dictionary(raf);
-      final Index frIndex = dict.indices.get(0);
-      
-      // Now they're all cached, we shouldn't have to search.
+//  public void testFr() throws IOException {
+//      final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "FR.quickdic", "r");
+//      final Dictionary dict = new Dictionary(raf);
+//      final Index frIndex = dict.indices.get(0);
+//      
+//      // Now they're all cached, we shouldn't have to search.
 //      for (final IndexEntry indexEntry : frIndex.sortedIndexEntries) {
 //          System.out.println(indexEntry.token);
 //      }
-
-      raf.close();
-  }
+//
+//      raf.close();
+//  }
 
   
   public void testDeEnWiktionary() throws IOException {
@@ -304,36 +304,36 @@ public class DictionaryTest extends TestCase {
   }
 
   public void testMultiSearchBigAF() throws IOException {
-    final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "EN-AF.quickdic", "r");
+    final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "AF-EN.quickdic", "r");
     final Dictionary dict = new Dictionary(raf);
-    final Index enIndex = dict.indices.get(0);
+    final Index enIndex = dict.indices.get(1);
 
     {
     final List<RowBase> rows = enIndex.multiWordSearch("pig eats", Arrays.asList("pig", "eats"), new AtomicBoolean(false));
     System.out.println(CollectionUtil.join(rows, "\n  "));
     assertTrue(rows.toString(), rows.size() > 0);
-    assertEquals("pig (someone who overeats or eats rapidly) (noun)\tvark", rows.get(0).toString());
+    assertEquals("vark\tpig (someone who overeats or eats rapidly) (noun)", rows.get(0).toString());
     }
 
     {
     final List<RowBase> rows = enIndex.multiWordSearch("pig eat", Arrays.asList("pig", "eat"), new AtomicBoolean(false));
     System.out.println(CollectionUtil.join(rows, "\n  "));
     assertTrue(rows.toString(), rows.size() > 0);
-    assertEquals("pig (someone who overeats or eats rapidly) (noun)\tvark", rows.get(0).toString());
+    assertEquals("vark\tpig (someone who overeats or eats rapidly) (noun)", rows.get(0).toString());
     }
 
     {
     final List<RowBase> rows = enIndex.multiWordSearch("pi ea", Arrays.asList("pi", "ea"), new AtomicBoolean(false));
     System.out.println(CollectionUtil.join(rows, "\n  "));
     assertTrue(rows.toString(), rows.size() > 0);
-    assertTrue(rows.toString().contains("pig (someone who overeats or eats rapidly) (noun)\tvark"));
+    assertTrue(rows.toString().contains("vark\tpig (someone who overeats or eats rapidly) (noun)"));
     }
 
     {
     final List<RowBase> rows = enIndex.multiWordSearch("p eat", Arrays.asList("p", "eat"), new AtomicBoolean(false));
     System.out.println(CollectionUtil.join(rows, "\n  "));
     assertTrue(rows.toString(), rows.size() > 0);
-    assertTrue(rows.toString().contains("pig (someone who overeats or eats rapidly) (noun)\tvark"));
+    assertTrue(rows.toString().contains("vark\tpig (someone who overeats or eats rapidly) (noun)"));
     }
 
     
