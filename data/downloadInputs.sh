@@ -17,7 +17,7 @@ echo "Downloading from: http://ftp.tu-chemnitz.de/pub/Local/urz/ding/de-en-devel
 CHEMNITZ=de-en.txt
 curl --remote-name http://ftp.tu-chemnitz.de/pub/Local/urz/ding/de-en-devel/${CHEMNITZ}.gz
 gunzip ${CHEMNITZ}.gz
-mv ${CHEMNITZ} inputs/
+mv ${CHEMNITZ} inputs/de-en_chemnitz.txt
 
 L=fr
 echo "Downloading from: http://dumps.wikimedia.org/${L}wiktionary/"
