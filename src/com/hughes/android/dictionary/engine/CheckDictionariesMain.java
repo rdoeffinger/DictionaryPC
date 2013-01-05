@@ -2,9 +2,7 @@ package com.hughes.android.dictionary.engine;
 
 import com.hughes.android.dictionary.DictionaryInfo;
 import com.hughes.android.dictionary.DictionaryInfo.IndexInfo;
-import com.hughes.android.dictionary.parser.wiktionary.WiktionaryLangs;
 import com.hughes.util.CollectionUtil;
-import com.hughes.util.StringUtil;
 
 import java.io.File;
 import java.io.IOException;
@@ -18,7 +16,7 @@ import java.util.List;
 public class CheckDictionariesMain {
   
   static final String BASE_URL = "http://quickdic-dictionary.googlecode.com/files/";
-  static final String VERSION_CODE = "v005";
+  static final String VERSION_CODE = "v006";
 
   public static void main(String[] args) throws IOException {
     final File dictDir = new File(DictionaryBuilderMain.OUTPUTS);

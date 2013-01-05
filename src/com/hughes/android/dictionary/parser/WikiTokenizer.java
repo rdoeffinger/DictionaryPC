@@ -175,7 +175,7 @@ public final class WikiTokenizer {
           callback.onPlainText(tokenizer.token());
         } else if (tokenizer.isMarkup()) {
           callback.onMarkup(tokenizer);
-        } else if (tokenizer.isWikiLink) {
+        } else if (tokenizer.isWikiLink()) {
           callback.onWikiLink(tokenizer);
         } else if (tokenizer.isNewline()) {
           callback.onNewline(tokenizer);
@@ -264,7 +264,8 @@ public final class WikiTokenizer {
     if (firstUnescapedPipePos != -1) {
       return trimNewlines(wikiText.substring(start + 2, firstUnescapedPipePos).trim());
     }
-    return trimNewlines(wikiText.substring(start + 2, end - 2).trim());
+    final int safeEnd = Math.max(start + 2, end - 2);
+    return trimNewlines(wikiText.substring(start + 2, safeEnd).trim());
   }
   
   public List<String> functionPositionArgs() {

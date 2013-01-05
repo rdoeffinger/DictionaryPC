@@ -177,8 +177,13 @@ public final class EnForeignParser extends EnParser {
         } else if (wikiTokenizer.isPlainText()) {
           // Unindexed!
           foreignBuilder.append(wikiTokenizer.token());
-          
-        } else if (wikiTokenizer.isMarkup() || wikiTokenizer.isNewline() || wikiTokenizer.isComment()) {
+        } else if (wikiTokenizer.isHtml()) {
+            if (!wikiTokenizer.token().startsWith("<ref>")) {
+                foreignBuilder.append(wikiTokenizer.token());
+            }
+        } else if (wikiTokenizer.isMarkup() || 
+                wikiTokenizer.isNewline() || 
+                wikiTokenizer.isComment()) {
           // Do nothing.
         } else {
           LOG.warning("Unexpected token: " + wikiTokenizer.token());

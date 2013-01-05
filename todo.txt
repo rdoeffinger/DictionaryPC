@@ -1,34 +1,18 @@
+Handle wiki tables {| ..  |-|  .. |}
 de-conj
 why does presso not show up?
-Afferrare in it, italics don't end.
 {{L
-start new intent for web link.
-
-
 {{term
 {{etyl
 {{l
 {{de-conj
-Spaces in links are done wrong: "perche mai",click "why on earth", see "why%20..."
 Delete it conjugation of entries.
-
 
 Compression for PairEntries!
 delete these entries:
 # {{conjugation of|abalienare||2|p|pres|ind|lang=it}}
 # {{conjugation of|abalienare||2|p|imp|lang=it}}
 # {{form of|[[feminine|Feminine]] plural|abalienato}}
-
-
-HtmlEntry
-  - text inside functions doesn't get escaped properly.
-  - Skips Uebersetzung section (likewise in other langs), except maybe for the other lange of interest.
-  - Build single EN/DE/IT/FR dictionaries based on HtmlEntry.
-  - Parse Italian verb forms from enwiktionary into something useful.
-  - "See also" link entries for cross-referencing ("form of"--strong, links to token, "mentioned in"--weaker, links to HtmlEntry).
-   Nice:
-  - Add links into the HtmlEntry based on wikilinks.
-  - Link to them from the appropriate places: IndexEntry (first), and individual rows (tricker, built at different times).
 
 Hitory of lookups.
 

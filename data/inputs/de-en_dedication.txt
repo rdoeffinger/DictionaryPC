@@ -6,4 +6,4 @@ Version: devel 2011-06-21
 Source: http://dict.tu-chemnitz.de/
 Thanks to Frank Richter.
 And from:
-(EN)Wiktionary
+Wiktionary

@@ -21,7 +21,7 @@ import java.util.List;
 import junit.framework.TestCase;
 
 public class WikiTokenizerTest extends TestCase {
-
+    
   public void testWikiLink() {
     String wikiText;
     
@@ -72,7 +72,16 @@ public class WikiTokenizerTest extends TestCase {
   
   public void testFunction() {
     String wikiText;
-    
+
+    {
+    WikiTokenizer wt = new WikiTokenizer("'''Προστατευόμενη Ονομασία Προέλευσης''', \"Protected Designation of Origin\" {{");
+        while (wt.nextToken() != null) {
+            if (wt.isFunction()) {
+                assertEquals("", wt.functionName());
+            }
+        }
+    }
+
     wikiText = "{{abc}}";
     assertEquals(wikiText, new WikiTokenizer(wikiText).nextToken().token());
     assertTrue(new WikiTokenizer(wikiText).nextToken().isFunction());

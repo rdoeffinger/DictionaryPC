@@ -232,6 +232,7 @@ class EnFunctionCallbacks {
         final Map<String, String> namedArgs,
         final T parser,
         final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
+      namedArgs.remove("lang");
       if (!namedArgs.isEmpty()) {
         EnParser.LOG.warning("weird qualifier: " + wikiTokenizer.token());
         return false;

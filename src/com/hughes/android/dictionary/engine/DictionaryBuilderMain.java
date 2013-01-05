@@ -37,12 +37,11 @@ public class DictionaryBuilderMain extends TestCase {
   
   // Build the non EN ones.
   static final String[][] nonEnPairs = new String[][] {
-      /*
       {"EN"},
       {"DE"},
-      {"IT"}, */
-      // This one takes a really long time:
-      // {"FR"},
+      {"IT"},
+      // This one takes a really long time, and the result is too big for code.google.com
+      //{"FR"},
           
       // The 3 I use most:
       {"IT", "EN" },
@@ -134,28 +133,29 @@ public class DictionaryBuilderMain extends TestCase {
       {"FA", "HY" },  // Persian, Armenian, by request.
       {"FA", "SV" },  // Persian, Swedish, by request.
       {"NL", "PL" },  // Dutch, Polish, by request.
+      
   };
 
 
   
   static final Map<String,String>  isoToDedication = new LinkedHashMap<String, String>();
   static {
-  isoToDedication.put("AF", "Afrikaans dictionary dedicated to Heiko and Mariëtte Horn.");
-  isoToDedication.put("HR", "Croatian dictionary dedicated to Ines Viskic and Miro Kresonja.");
-  isoToDedication.put("NL", "Dutch dictionary dedicated to Mike LeBeau.");
-  // German handled in file.
-  isoToDedication.put("EL", "Greek dictionary dedicated to Noah Egge.");
-  isoToDedication.put("IT", "Italian dictionary dedicated to Carolina Tropini, my favorite stardust in the whole universe!  Ti amo!");
-  isoToDedication.put("KO", "Korean dictionary dedicated to Ande Elwood--fall fashion und Fernsehturms!");
-  isoToDedication.put("PT", "Portuguese dictionary dedicated to Carlos Melo, one Tough Mudder.");
-  isoToDedication.put("RO", "Romanian dictionary dedicated to Radu Teodorescu.");
-  isoToDedication.put("RU", "Russian dictionary dedicated to Maxim Aronin--best friend always!.");
-  isoToDedication.put("SR", "Serbian dictionary dedicated to Filip Crnogorac--thanks for the honey.");
-  isoToDedication.put("ES", "Spanish dictionary made especially for Carolina Tropini! <3 XoXoXXXXX!");
-  isoToDedication.put("SV", "Swedish dictionary dedicated to Kajsa Palmblad--björn kramar!");
+  isoToDedication.put("AF", "Wiktionary-based Afrikaans dictionary dedicated to Heiko and Mariëtte Horn.");
+  isoToDedication.put("HR", "Wiktionary-based Croatian dictionary dedicated to Ines Viskic and Miro Kresonja.");
+  isoToDedication.put("NL", "Wiktionary-based Dutch dictionary dedicated to Mike LeBeau.");
+  isoToDedication.put("DE", "@data/inputs/de-en_dedication.txt");
+  isoToDedication.put("EL", "Wiktionary-based Greek dictionary dedicated to Noah Egge.");
+  isoToDedication.put("IT", "Wiktionary-based Italian dictionary dedicated to Carolina Tropini, my favorite stardust in the whole universe!  Ti amo!");
+  isoToDedication.put("KO", "Wiktionary-based Korean dictionary dedicated to Ande Elwood--fall fashion und Fernsehturms!");
+  isoToDedication.put("PT", "Wiktionary-based Portuguese dictionary dedicated to Carlos Melo, one Tough Mudder.");
+  isoToDedication.put("RO", "Wiktionary-based Romanian dictionary dedicated to Radu Teodorescu.");
+  isoToDedication.put("RU", "Wiktionary-based Russian dictionary dedicated to Maxim Aronin--best friend always!.");
+  isoToDedication.put("SR", "Wiktionary-based Serbian dictionary dedicated to Filip Crnogorac--thanks for the honey.");
+  isoToDedication.put("ES", "Wiktionary-based Spanish dictionary made especially for Carolina Tropini! <3 XoXoXXXXX!");
+  isoToDedication.put("SV", "Wiktionary-based Swedish dictionary dedicated to Kajsa Palmblad--björn kramar!");
   }
-  private static String getDedication(String iso) {
-    return isoToDedication.containsKey(iso) ? "\n\n" + isoToDedication.get(iso) : "";
+  private static String getEnDictionaryInfo(String iso) {
+    return isoToDedication.containsKey(iso) ? isoToDedication.get(iso) : String.format("Wiktionary-based %s dictionary.", iso);
   }
   
   static final Map<String,String>  isoToStoplist = new LinkedHashMap<String, String>();
@@ -260,7 +260,7 @@ public class DictionaryBuilderMain extends TestCase {
       
       result.add(String.format("--lang1=%s", lang1));
       result.add(String.format("--lang2=%s",  lang2));
-      result.add(String.format("--dictInfo=(EN)Wikitionary-based EN-%s dictionary.%s", foreignIso, getDedication(foreignIso)));
+      result.add(String.format("--dictInfo=%s", getEnDictionaryInfo(foreignIso)));
       
       // Foreign section.
       result.add(String.format("--input%d=%s/wikiSplit/en/%s.data", i, INPUTS, foreignIso));
@@ -323,6 +323,7 @@ public class DictionaryBuilderMain extends TestCase {
     
         
     final Set<List<String>> done = new LinkedHashSet<List<String>>();
+    boolean go = true;
     for (final String[] pair : allPairs) {
       Arrays.sort(pair);
       final List<String> pairList = Arrays.asList(pair);
@@ -331,8 +332,14 @@ public class DictionaryBuilderMain extends TestCase {
       }
       done.add(pairList);
       
-      if (!pairList.contains("EN") && !pairList.contains("EL")) {
-        //continue;
+//      if (pairList.contains("EN") && pairList.contains("DE")) {
+//          go = true;
+//      } else {
+//          go = false;
+//      }
+      
+      if (!go) {
+          continue;
       }
       
       DictionaryBuilder.main(getMainArgs(pair).toArray(new String[0]));

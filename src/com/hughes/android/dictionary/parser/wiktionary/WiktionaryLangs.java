@@ -33,7 +33,6 @@ public class WiktionaryLangs {
     isoCodeToEnWikiName.put("BE", "Belarusian");
     isoCodeToEnWikiName.put("BN", "Bengali");
     isoCodeToEnWikiName.put("BG", "Bulgarian");
-    isoCodeToEnWikiName.put("MY", "Burmese");
     isoCodeToEnWikiName.put("CA", "Catalan");
     isoCodeToEnWikiName.put("SH", "Serbo-Croatian");
     isoCodeToEnWikiName.put("HR", "Croatian");
@@ -112,6 +111,10 @@ public class WiktionaryLangs {
     // No longer exists in EN:
     // isoCodeToEnWikiName.put("BS", "Bosnian");
     // isoCodeToEnWikiName.put("SR", "Serbian");
+    
+    // Font doesn't work:
+    //isoCodeToEnWikiName.put("MY", "Burmese");
+
 
     {
         Set<String> missing = new LinkedHashSet<String>(isoCodeToEnWikiName.keySet());
