@@ -66,7 +66,7 @@ public class WiktionaryLangs {
     isoCodeToEnWikiName.put("KO", "Korean");
     isoCodeToEnWikiName.put("KU", "Kurdish");
     isoCodeToEnWikiName.put("LO", "Lao");
-    isoCodeToEnWikiName.put("MS", "Malay");
+    isoCodeToEnWikiName.put("MS", "Malay$");
     isoCodeToEnWikiName.put("ML", "Malayalam");
     isoCodeToEnWikiName.put("MI", "Maori");
     isoCodeToEnWikiName.put("MN", "Mongolian");

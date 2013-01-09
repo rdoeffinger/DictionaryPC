@@ -65,6 +65,15 @@ public class DictionaryTest extends TestCase {
     }
 
     {
+    final List<RowBase> rows = itIndex.multiWordSearch("buon g", Arrays.asList("buon", "g"), new AtomicBoolean(false));
+    System.out.println(CollectionUtil.join(rows, "\n  "));
+    assertTrue(rows.toString(), rows.size() > 0);
+    assertTrue(rows.get(0).toString().startsWith("buon giorno@"));
+    assertTrue(rows.get(0) instanceof TokenRow);
+    assertTrue(!((TokenRow)rows.get(0)).getIndexEntry().htmlEntries.isEmpty());
+    }
+
+    {
         final IndexEntry searchResult = itIndex.findInsertionPoint("azzurro", new AtomicBoolean(
                 false));
         HtmlEntry htmlEntry = searchResult.htmlEntries.get(0);
