@@ -112,7 +112,8 @@ public class DictFileParser implements Parser {
       return;
     }
     final String[] fields = fieldSplit.split(line);
-    if (fields.length != 2) {
+    // dictcc now has a part of speech field as field #3.
+    if (fields.length < 2 || fields.length > 3) {
       logger.warning("Malformed line: " + line);
       return;
     }
@@ -137,7 +138,7 @@ public class DictFileParser implements Parser {
       subfields[0] = new String[] { fields[0] };
       subfields[1] = new String[] { fields[1] };
     }
-    
+        
     final PairEntry pairEntry = new PairEntry(entrySource);
     for (int i = 0; i < subfields[0].length; ++i) {
       subfields[0][i] = subfields[0][i].trim();

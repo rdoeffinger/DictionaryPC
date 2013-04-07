@@ -325,6 +325,27 @@ public class DictionaryBuilderTest extends TestCase {
     checkGolden(name, result); 
   }
 
+  public void testItalianTurkish() throws Exception {
+      final String name = "it-tr_dictcc.quickdic";
+      final File result = new File(TEST_OUTPUTS + name);
+      System.out.println("Writing to: " + result);
+      DictionaryBuilder.main(new String[] {
+          "--dictOut=" + result.getAbsolutePath(),
+          "--lang1=IT",
+          "--lang2=TR",
+          "--dictInfo=it-tr_dictcc_simulated",
+
+          "--input1=" + TEST_INPUTS + "it-tr_dictcc_simulated.txt",
+          "--input1Name=dictcc",
+          "--input1Charset=UTF8",
+          "--input1Format=tab_separated",
+
+          "--print=" + result.getPath() + ".text",
+      });
+      
+      checkGolden(name, result); 
+    }
+
   private void checkGolden(final String dictName, final File dictFile)
       throws IOException, FileNotFoundException {
     // Check it once:
