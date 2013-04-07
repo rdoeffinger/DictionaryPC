@@ -1,0 +1,198 @@
+dictInfo=it-tr_dictcc_simulated
+EntrySource: dictcc 101
+
+Index: IT IT->TR
+***abbastanza***
+  abbastanza :: kâfi
+***abile***
+  abile :: usta
+***abilità***
+  abilità :: ustalık
+***abito***
+  abito :: giysi
+***accettare***
+  accettare :: almak
+***acciaio***
+  acciaio :: çelik
+***accodarsi***
+  accodarsi :: izlemek
+***accomodamento***
+  accomodamento :: uzlaştırma
+***accordo***
+  accordo :: kontrat
+  accordo :: pazarlık
+***accrescere***
+  accrescere :: yükseltmek
+***accrescersi***
+  accrescersi :: yükselmek
+***accusa***
+  accusa :: suçlama
+***acido***
+  acido :: asit
+***acme***
+  acme :: doruk
+***acqua***
+  acqua :: su
+***acquistare***
+  acquistare :: satın almak
+***acuto***
+  acuto :: akıllı
+***adagio***
+  adagio :: yavaşça
+***addestramento***
+  addestramento :: antrenman
+***addizionare***
+  addizionare :: toplamak
+***addizione***
+  addizione :: toplama
+***adiacente***
+  adiacente :: bitişik
+***aerodromo***
+  aerodromo :: hava meydanı
+***aeroplano***
+  aeroplano :: uçak
+===Ceca===
+  Repubblica Ceca :: Çek Cumhuriyeti
+***Cina***
+  Cina :: Çin
+===di===
+  Regno di Spagna :: İspanya Krallığı
+  Repubblica federale di Germania :: Almanya Federal Cumhuriyeti
+===federale===
+  Repubblica federale di Germania :: Almanya Federal Cumhuriyeti
+===francese===
+  Repubblica francese :: Fransa Cumhuriyeti
+===Germania===
+  Repubblica federale di Germania :: Almanya Federal Cumhuriyeti
+***Giappone***
+  Giappone :: Japonya
+***Giovedì***
+  Giovedì :: perşembe
+===Indiana===
+  Unione Indiana :: Hindistan Cumhuriyeti
+***Italia***
+  Italia :: İtalya
+***Lunedì***
+  Lunedì :: Pazartesi
+===Regno===
+  Regno Unito :: Birleşik Krallık
+  Regno di Spagna :: İspanya Krallığı
+===Repubblica===
+  Repubblica Ceca :: Çek Cumhuriyeti
+  Repubblica francese :: Fransa Cumhuriyeti
+  Repubblica federale di Germania :: Almanya Federal Cumhuriyeti
+===Spagna===
+  Regno di Spagna :: İspanya Krallığı
+===Stati===
+  Stati Uniti :: Amerika Birleşik Devletleri
+===Unione===
+  Unione Indiana :: Hindistan Cumhuriyeti
+===Uniti===
+  Stati Uniti :: Amerika Birleşik Devletleri
+===Unito===
+  Regno Unito :: Birleşik Krallık
+***Venerdì***
+  Venerdì :: Cuma
+***zucchero***
+  zucchero :: sevgili
+  zucchero :: şeker
+
+Index: TR TR->IT
+***akıllı***
+  acuto :: akıllı
+***almak***
+  accettare :: almak
+  acquistare :: satın almak
+===Almanya===
+  Repubblica federale di Germania :: Almanya Federal Cumhuriyeti
+===Amerika===
+  Stati Uniti :: Amerika Birleşik Devletleri
+***antrenman***
+  addestramento :: antrenman
+***asit***
+  acido :: asit
+===Birleşik===
+  Regno Unito :: Birleşik Krallık
+  Stati Uniti :: Amerika Birleşik Devletleri
+***bitişik***
+  adiacente :: bitişik
+===Çek===
+  Repubblica Ceca :: Çek Cumhuriyeti
+***çelik***
+  acciaio :: çelik
+***Çin***
+  Cina :: Çin
+***Cuma***
+  Venerdì :: Cuma
+===Cumhuriyeti===
+  Repubblica Ceca :: Çek Cumhuriyeti
+  Repubblica francese :: Fransa Cumhuriyeti
+  Unione Indiana :: Hindistan Cumhuriyeti
+  Repubblica federale di Germania :: Almanya Federal Cumhuriyeti
+===Devletleri===
+  Stati Uniti :: Amerika Birleşik Devletleri
+***doruk***
+  acme :: doruk
+===Federal===
+  Repubblica federale di Germania :: Almanya Federal Cumhuriyeti
+===Fransa===
+  Repubblica francese :: Fransa Cumhuriyeti
+***giysi***
+  abito :: giysi
+===hava===
+  aerodromo :: hava meydanı
+===Hindistan===
+  Unione Indiana :: Hindistan Cumhuriyeti
+===İspanya===
+  Regno di Spagna :: İspanya Krallığı
+***İtalya***
+  Italia :: İtalya
+***izlemek***
+  accodarsi :: izlemek
+***Japonya***
+  Giappone :: Japonya
+***kâfi***
+  abbastanza :: kâfi
+***kontrat***
+  accordo :: kontrat
+===Krallığı===
+  Regno di Spagna :: İspanya Krallığı
+===Krallık===
+  Regno Unito :: Birleşik Krallık
+===meydanı===
+  aerodromo :: hava meydanı
+***pazarlık***
+  accordo :: pazarlık
+***Pazartesi***
+  Lunedì :: Pazartesi
+***perşembe***
+  Giovedì :: perşembe
+===satın===
+  acquistare :: satın almak
+***şeker***
+  zucchero :: şeker
+***sevgili***
+  zucchero :: sevgili
+***su***
+  acqua :: su
+***suçlama***
+  accusa :: suçlama
+***toplama***
+  addizione :: toplama
+***toplamak***
+  addizionare :: toplamak
+***uçak***
+  aeroplano :: uçak
+***usta***
+  abile :: usta
+***ustalık***
+  abilità :: ustalık
+***uzlaştırma***
+  accomodamento :: uzlaştırma
+***yavaşça***
+  adagio :: yavaşça
+***yükselmek***
+  accrescersi :: yükselmek
+***yükseltmek***
+  accrescere :: yükseltmek
+

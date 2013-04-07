@@ -1,0 +1,41 @@
+# This is a comment.
+ Cina 	 Çin 	 country 
+ Giappone 	 Japonya 	 country 
+ Giovedì 	 perşembe 	 time 
+ Italia 	 İtalya 	 country 
+ Lunedì 	 Pazartesi 	 time 
+ Regno Unito 	 Birleşik Krallık 	 country 
+ Regno di Spagna 	 İspanya Krallığı 	 country 
+ Repubblica Ceca 	 Çek Cumhuriyeti 	 country 
+ Repubblica federale di Germania 	 Almanya Federal Cumhuriyeti 	 country 
+ Repubblica francese 	 Fransa Cumhuriyeti 	 country 
+ Stati Uniti 	 Amerika Birleşik Devletleri 	 country 
+ Unione Indiana 	 Hindistan Cumhuriyeti 	 country 
+ Venerdì 	 Cuma 	 time 
+ abbastanza 	 kâfi 	 adverb 
+ abile 	 usta 	 adjective 
+ abilità 	 ustalık	 sports 
+ abito 	 giysi 	 clothes 
+ accettare 	 almak 	 verb 
+ acciaio 	 çelik 	 material 
+ accodarsi 	 izlemek 	 verb 
+ accomodamento 	 uzlaştırma 	 business 
+ accordo 	 kontrat 	 business 
+ accordo 	 pazarlık	 business 
+ accrescere 	 yükseltmek 	 verb 
+ accrescersi 	 yükselmek 	 verb 
+ accusa 	 suçlama	 society 
+ acido 	 asit 	 material 
+ acme 	 doruk	 abstract 
+ acqua 	 su 	 material 
+ acquistare 	 satın almak 	 verb 
+ acuto 	 akıllı 	 adjective 
+ adagio 	 yavaşça	 adverb 
+ addestramento 	 antrenman	 abstract 
+ addizionare 	 toplamak 	 verb 
+ addizione 	 toplama 	 mathematics 
+ adiacente 	 bitişik	 adjective 
+ aerodromo 	 hava meydanı 	 city 
+ aeroplano 	 uçak 	 object 
+ zucchero 	 sevgili 	 relations 
+ zucchero 	 şeker 	 food 
