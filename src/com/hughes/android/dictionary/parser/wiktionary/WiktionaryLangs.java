@@ -58,6 +58,7 @@ public class WiktionaryLangs {
     isoCodeToEnWikiName.put("ID", "Indonesian");
     isoCodeToEnWikiName.put("GA", "Irish");
     isoCodeToEnWikiName.put("GD", "Gaelic");
+    isoCodeToEnWikiName.put("GV", "Manx");
     isoCodeToEnWikiName.put("IT", "Italian");
     isoCodeToEnWikiName.put("LA", "Latin");
     isoCodeToEnWikiName.put("LV", "Latvian");
