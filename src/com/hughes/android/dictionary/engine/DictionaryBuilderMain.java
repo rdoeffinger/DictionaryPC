@@ -150,7 +150,7 @@ public class DictionaryBuilderMain extends TestCase {
   isoToDedication.put("PT", "Wiktionary-based Portuguese dictionary dedicated to Carlos Melo, one Tough Mudder.");
   isoToDedication.put("RO", "Wiktionary-based Romanian dictionary dedicated to Radu Teodorescu.");
   isoToDedication.put("RU", "Wiktionary-based Russian dictionary dedicated to Maxim Aronin--best friend always!.");
-  isoToDedication.put("SR", "Wiktionary-based Serbian dictionary dedicated to Filip Crnogorac--thanks for the honey.");
+  isoToDedication.put("SR", "Wiktionary-based Serbian dictionary dedicated to Filip Crnogorac--thanks for the honey!");
   isoToDedication.put("ES", "Wiktionary-based Spanish dictionary made especially for Carolina Tropini! <3 XoXoXXXXX!");
   isoToDedication.put("SV", "Wiktionary-based Swedish dictionary dedicated to Kajsa Palmblad--björn kramar!");
   }

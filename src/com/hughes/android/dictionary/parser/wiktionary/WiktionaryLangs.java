@@ -101,13 +101,14 @@ public class WiktionaryLangs {
     isoCodeToEnWikiName.put("AZ", "Azeri");
     isoCodeToEnWikiName.put("EU", "Basque");
     isoCodeToEnWikiName.put("BR", "Breton");
-    isoCodeToEnWikiName.put("MR", "Burmese");
+    isoCodeToEnWikiName.put("MR", "Marathi");
     isoCodeToEnWikiName.put("FO", "Faroese");
     isoCodeToEnWikiName.put("GL", "Galician");
     isoCodeToEnWikiName.put("KA", "Georgian");
     isoCodeToEnWikiName.put("HT", "Haitian Creole");
     isoCodeToEnWikiName.put("LB", "Luxembourgish");
     isoCodeToEnWikiName.put("MK", "Macedonian");
+    isoCodeToEnWikiName.put("GV", "Manx");
     
     // No longer exists in EN:
     // isoCodeToEnWikiName.put("BS", "Bosnian");
@@ -199,7 +200,10 @@ public class WiktionaryLangs {
           return null;
       }
       if (name.indexOf('|') != -1) {
-          return name.substring(name.indexOf('|'));
+          return name.substring(0, name.indexOf('|'));
+      }
+      if (name.indexOf('$') != -1) {
+          return name.substring(0, name.indexOf('$'));
       }
       return name;  // can be null.
   }
