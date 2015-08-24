@@ -15,7 +15,7 @@ import java.util.List;
 
 public class CheckDictionariesMain {
   
-  static final String BASE_URL = "http://quickdic-dictionary.googlecode.com/files/";
+  static final String BASE_URL = "http://github.com/rdoeffinger/Dictionary/releases/download/v0.0-dictionaries/";
   static final String VERSION_CODE = "v006";
 
   public static void main(String[] args) throws IOException {
