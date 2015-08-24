@@ -8,10 +8,10 @@ import com.hughes.android.dictionary.engine.IndexBuilder.TokenData;
 import com.hughes.android.dictionary.engine.IndexedEntry;
 import com.hughes.android.dictionary.parser.WikiTokenizer;
 import com.hughes.util.StringUtil;
-import com.sun.xml.internal.rngom.util.Uri;
 
 import org.apache.commons.lang3.StringEscapeUtils;
 
+import java.net.URI;
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
 import java.util.List;
@@ -261,7 +261,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
 
         if (webUrlTemplate != null) {
             final String webUrl = String.format(webUrlTemplate, title);
-            callback.builder.append(String.format("<p> <a href=\"%s\">%s</a>", Uri.escapeDisallowedChars(webUrl), escapeHtmlLiteral(webUrl)));
+            callback.builder.append(String.format("<p> <a href=\"%s\">%s</a>", URI.create(webUrl).toString(), escapeHtmlLiteral(webUrl)));
         }
         htmlEntry.html = callback.builder.toString();
         indexedEntry.isValid = true;
