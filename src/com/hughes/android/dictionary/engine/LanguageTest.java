@@ -192,7 +192,6 @@ public class LanguageTest extends TestCase {
     Collections.sort(names);
     System.out.println(names);
     //assertEquals(enLangs, Language.isoCodeToResources.keySet());
-    assertEquals(enLangs, Language.isoCodeToResources.keySet());
   }
 
 }

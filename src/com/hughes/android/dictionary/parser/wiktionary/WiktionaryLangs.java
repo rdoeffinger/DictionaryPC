@@ -119,11 +119,11 @@ public class WiktionaryLangs {
 
 
     {
-        Set<String> missing = new LinkedHashSet<String>(isoCodeToEnWikiName.keySet());
-        missing.removeAll(Language.isoCodeToResources.keySet());
+        //Set<String> missing = new LinkedHashSet<String>(isoCodeToEnWikiName.keySet());
+        //missing.removeAll(Language.isoCodeToResources.keySet());
         //System.out.println(missing);
     }
-    assert Language.isoCodeToResources.keySet().containsAll(isoCodeToEnWikiName.keySet());
+    //assert Language.isoCodeToResources.keySet().containsAll(isoCodeToEnWikiName.keySet());
   }
 
   public static final Map<String,Map<String,String>> wikiCodeToIsoCodeToWikiName = new LinkedHashMap<String, Map<String,String>>();
