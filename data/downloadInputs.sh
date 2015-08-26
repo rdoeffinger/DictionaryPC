@@ -47,6 +47,6 @@ curl --remote-name http://dumps.wikimedia.org/${L}wiktionary/latest/${WIKI}.bz2
 bunzip2 ${WIKI}.bz2
 mv ${WIKI} inputs/${L}wiktionary-pages-articles.xml
 
-echo "Done.  Now run WiktionarySplitter to spit apart enwiktionary."
+echo "Done.  Now run WiktionarySplitter to split apart enwiktionary."
 
 cd $OLD_DIR
