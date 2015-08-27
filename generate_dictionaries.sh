@@ -1,4 +1,5 @@
 #./run.sh --lang1=EN --dictOut=test --dictInfo=test --input0=data/inputs/wikiSplit/en/EN.data  --input0Name=enwikitionary --input0Format=enwiktionary --input0LangPattern=English --input0LangCodePattern=en --input0EnIndex=1 --input0WiktionaryType=EnEnglish
+# Note: using input1 seems to hang for ZH currently!
 while read langcode langname ; do
 lang=$(echo $langcode | tr '[a-z]' '[A-Z]')
 test "$lang" = "CY" && lang=CI
