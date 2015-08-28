@@ -551,8 +551,8 @@ public final class WikiTokenizer {
       // We were looking for the end, we got it.
       return end;
     }
+    errors.add("Couldn't find: " + toFind + ", "+ wikiText.substring(start));
     if (firstNewline != -1) {
-      errors.add("Couldn't find: " + toFind + ", "+ wikiText.substring(start));
       return firstNewline;
     }
     return end;
