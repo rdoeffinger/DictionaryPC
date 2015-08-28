@@ -233,7 +233,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
         });
 
 
-        final Pattern frSkipSections = Pattern.compile(".*(Traductions).*");
+        final Pattern frSkipSections = Pattern.compile(".*(Traductions|[Aa]nagrammes).*");
         isoToLangConfig.put("FR", new LangConfig() {
             @Override
             public boolean skipSection(String headingText) {
