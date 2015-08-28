@@ -193,7 +193,7 @@ public class WiktionaryLangs {
     // There seems to be no consistent pattern and few foreign language entries anyway
     isoCodeToWikiName = new LinkedHashMap<String, String>();
     wikiCodeToIsoCodeToWikiName.put("es", isoCodeToWikiName);
-    isoCodeToWikiName.put("ES", Pattern.quote("{{ES}}"));
+    isoCodeToWikiName.put("ES", Pattern.quote("{{ES"));
   }
   public static String getEnglishName(String langCode) {
       String name = isoCodeToEnWikiName.get(langCode);
