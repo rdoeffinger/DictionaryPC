@@ -14,3 +14,4 @@ rm data/outputs/EN-${lang}.quickdic.v006.zip
 7z a -mx=9 data/outputs/EN-${lang}.quickdic.v006.zip ./data/outputs/EN-${lang}.quickdic
 done < EN-foreign-dictlist.txt
 ./run.sh --lang1=EN --lang1Stoplist=data/inputs/stoplists/en.txt --dictOut=data/outputs/EN.quickdic --dictInfo="Wiktionary-based EN dictionary." --input0=data/inputs/wikiSplit/en/EN.data  --input0Name=enwikitionary --input0Format=enwiktionary --input0LangPattern=English --input0LangCodePattern=en --input0EnIndex=1 --input0WiktionaryType=EnEnglish
+7z a -mx=9 data/outputs/EN.quickdic.v006.zip ./data/outputs/EN.quickdic
