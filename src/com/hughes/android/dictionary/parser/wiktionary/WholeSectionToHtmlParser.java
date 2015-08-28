@@ -261,7 +261,11 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
 
         if (webUrlTemplate != null) {
             final String webUrl = String.format(webUrlTemplate, title);
+	    // URI.create can raise an exception e.g. if webUrl contains %, just ignore those cases.
+	    try {
             callback.builder.append(String.format("<p> <a href=\"%s\">%s</a>", URI.create(webUrl).toString(), escapeHtmlLiteral(webUrl)));
+	    } catch (Exception e)
+	    {}
         }
         htmlEntry.html = callback.builder.toString();
         indexedEntry.isValid = true;
