@@ -39,8 +39,9 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
 
   // The matches the whole line, otherwise regexes don't work well on French:
   // {{=uk=}}
-  // Spanish has no initial headings, so also detect {{ES as such...
-  static final Pattern headingStart = Pattern.compile("^(\\{\\{ES|(=+)[^=]).*$", Pattern.MULTILINE);
+  // Spanish has no initial headings, tried to also detect {{ES as such
+  // with "^(\\{\\{ES|(=+)[^=]).*$" but that broke English.
+  static final Pattern headingStart = Pattern.compile("^(=+)[^=].*$", Pattern.MULTILINE);
   
   final Map<String,List<Selector>> pathToSelectors = new LinkedHashMap<String, List<Selector>>();
   List<Selector> currentSelectors = null;
