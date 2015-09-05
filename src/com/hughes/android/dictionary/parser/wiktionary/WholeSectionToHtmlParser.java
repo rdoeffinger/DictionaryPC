@@ -132,7 +132,6 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
             public void addFunctionCallbacks(
                     Map<String, FunctionCallback<WholeSectionToHtmlParser>> functionCallbacks) {
                 // TODO: need Spanish variant
-                EnFunctionCallbacks.addGenericCallbacks(functionCallbacks);
             }
         });
 
