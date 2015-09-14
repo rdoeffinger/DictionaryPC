@@ -1,0 +1,12 @@
+bg bulgare
+cs tchèque
+eo espéranto
+es espangol
+is islandais
+it italien
+ja japonais
+la latin
+nl néerlandais
+ru russe
+uk ukrainien
+zh chinois
