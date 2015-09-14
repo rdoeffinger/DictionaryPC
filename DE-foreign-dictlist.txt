@@ -1,0 +1,10 @@
+ca Katalanisch
+cs Tschechisch
+eo Esperanto
+es Spanisch
+fr Französisch
+hu Ungarisch
+it Italienisch
+la Latein
+pl Polnisch
+sv Schwedisch
