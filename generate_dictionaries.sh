@@ -18,6 +18,7 @@ if $EN_DICTS; then
 while read langcode langname ; do
 lang=$(echo $langcode | tr '[a-z]' '[A-Z]')
 test "$lang" = "CY" && lang=CI
+test "$lang" = "CMN" && lang=cmn
 
 reverse_dicts=""
 if test "$lang" = "DE" -o "$lang" = "FR" -o "$lang" = "IT" ; then
