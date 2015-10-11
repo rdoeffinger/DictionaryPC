@@ -19,6 +19,7 @@ while read langcode langname ; do
 lang=$(echo $langcode | tr '[a-z]' '[A-Z]')
 test "$lang" = "CY" && lang=CI
 test "$lang" = "CMN" && lang=cmn
+test "$lang" = "GRC" && lang=grc
 
 reverse_dicts=""
 if test "$lang" = "DE" -o "$lang" = "FR" -o "$lang" = "IT" ; then
