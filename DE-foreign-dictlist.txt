@@ -5,6 +5,8 @@ es Spanisch
 fr Französisch
 hu Ungarisch
 it Italienisch
+ja Japanisch
 la Latein
 pl Polnisch
+ru Russisch
 sv Schwedisch
