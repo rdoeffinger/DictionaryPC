@@ -16,7 +16,8 @@ import java.util.List;
 public class CheckDictionariesMain {
   
   static final String BASE_URL = "http://github.com/rdoeffinger/Dictionary/releases/download/v0.2-dictionaries/";
-  static final String VERSION_CODE = "v006";
+  static final String VERSION_CODE_OLD = "v006";
+  static final String VERSION_CODE = "v007";
 
   public static void main(String[] args) throws IOException {
     final File dictDir = new File(DictionaryBuilderMain.OUTPUTS);
@@ -39,11 +40,16 @@ public class CheckDictionariesMain {
 
       final DictionaryInfo dictionaryInfo = dict.getDictionaryInfo();
 
+      String version_code = VERSION_CODE;
+      File zipFile = new File(dictFile.getPath() + "." + version_code + ".zip");
+      if (!zipFile.canRead()) {
+          version_code = VERSION_CODE_OLD;
+          zipFile = new File(dictFile.getPath() + "." + version_code + ".zip");
+      }
       dictionaryInfo.uncompressedFilename = dictFile.getName();
-      dictionaryInfo.downloadUrl = BASE_URL + dictFile.getName() + "." + VERSION_CODE + ".zip";
+      dictionaryInfo.downloadUrl = BASE_URL + dictFile.getName() + "." + version_code + ".zip";
       // TODO: zip it right here....
       dictionaryInfo.uncompressedBytes = dictFile.length();
-      final File zipFile = new File(dictFile.getPath() + "." + VERSION_CODE + ".zip");
       dictionaryInfo.zipBytes = zipFile.canRead() ? zipFile.length() : -1;
 
       // Print it.
