@@ -122,6 +122,7 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
             title.startsWith("Thread:") || 
             title.startsWith("Template:") ||
             title.startsWith("Summary:") ||
+            title.startsWith("Module:") ||
             // DE
             title.startsWith("Datei:") ||
             title.startsWith("Verzeichnis:") ||
@@ -129,6 +130,7 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
             title.startsWith("Thesaurus:") ||
             title.startsWith("Kategorie:") ||
             title.startsWith("Hilfe:") ||
+            title.startsWith("Reim:") ||
             // FR:
             title.startsWith("Annexe:") ||
             title.startsWith("Catégori:") ||
@@ -193,7 +195,16 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
             end = text.length();
           }
           
-          final String sectionText = text.substring(0, end);
+          String sectionText = text.substring(0, end);
+          // Hack to remove empty dummy section from French
+          if (sectionText.startsWith("\n=== {{S|étymologie}} ===\n: {{ébauche-étym"))
+          {
+              int dummy_end = sectionText.indexOf("}}", 41) + 2;
+              while (dummy_end + 1 < sectionText.length() &&
+                     sectionText.charAt(dummy_end) == '\n' &&
+                     sectionText.charAt(dummy_end + 1) == '\n') ++dummy_end;
+              sectionText = sectionText.substring(dummy_end);
+          }
           final Section section = new Section(title, heading, sectionText);
           
           try {

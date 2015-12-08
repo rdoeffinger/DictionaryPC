@@ -156,7 +156,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
             @Override
             public boolean skipWikiLink(WikiTokenizer wikiTokenizer) {
                 final String wikiText = wikiTokenizer.wikiLinkText();
-                if (wikiText.startsWith("???Category:")) {
+                if (wikiText.startsWith("Kategorie:")) {
                     return true;
                 }
                 return false;
@@ -204,7 +204,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
             @Override
             public boolean skipWikiLink(WikiTokenizer wikiTokenizer) {
                 final String wikiText = wikiTokenizer.wikiLinkText();
-                if (wikiText.startsWith("???Category:")) {
+                if (wikiText.startsWith("Categoria:")) {
                     return true;
                 }
                 return false;
@@ -244,11 +244,18 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
                 if (sectionName.equalsIgnoreCase("Synonymes")) {
                     return EntryTypeName.SYNONYM_MULTI;
                 }
+                if (sectionName.equalsIgnoreCase("Antonymes")) {
+                    return EntryTypeName.ANTONYM_MULTI;
+                }
                 return null;
             }
             
             @Override
             public boolean skipWikiLink(WikiTokenizer wikiTokenizer) {
+                final String wikiText = wikiTokenizer.wikiLinkText();
+                if (wikiText.startsWith("Catégorie:")) {
+                    return true;
+                }
                 return false;
             }
             @Override
