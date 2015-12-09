@@ -318,7 +318,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
             final String webUrl = String.format(webUrlTemplate, title);
 	    // URI.create can raise an exception e.g. if webUrl contains %, just ignore those cases.
 	    try {
-            callback.builder.append(String.format("<p> <a href=\"%s\">%s</a>", URI.create(webUrl).toString(), escapeHtmlLiteral(webUrl)));
+            callback.builder.append(String.format("<p> <a href=\"%s\">%s</a>", URI.create(webUrl).toASCIIString(), escapeHtmlLiteral(webUrl)));
 	    } catch (Exception e)
 	    {}
         }
