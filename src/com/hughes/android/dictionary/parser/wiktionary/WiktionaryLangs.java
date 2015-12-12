@@ -143,7 +143,7 @@ public class WiktionaryLangs {
     isoCodeToWikiName.put("FR", "Französisch");
     isoCodeToWikiName.put("EO", "Esperanto");
     isoCodeToWikiName.put("CA", "Katalanisch");
-    isoCodeToWikiName.put("LA", "Lateinisch");
+    isoCodeToWikiName.put("LA", "Latein");
     isoCodeToWikiName.put("CS", "Tschechisch");
     isoCodeToWikiName.put("HU", "Ungarisch");
     isoCodeToWikiName.put("SV", "Schwedisch");
