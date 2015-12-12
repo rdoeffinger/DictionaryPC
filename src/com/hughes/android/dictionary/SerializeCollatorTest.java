@@ -16,6 +16,7 @@ package com.hughes.android.dictionary;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.Comparator;
 
 import com.hughes.android.dictionary.engine.Language;
 import com.ibm.icu.text.Collator;
@@ -28,7 +29,7 @@ public class SerializeCollatorTest {
    */
   public static void main(String[] args) throws IOException {
     File temp = File.createTempFile("temp", null);
-    final Collator c = Language.de.getCollator();
+    final Comparator c = Language.de.getCollator();
     //FileUtil.writeObject(c, temp);
   }
 
