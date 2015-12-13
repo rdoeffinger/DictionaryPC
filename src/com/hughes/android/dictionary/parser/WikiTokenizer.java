@@ -483,7 +483,7 @@ public final class WikiTokenizer {
         final String matchText = matcher.group();
         final int matchStart = matcher.start();
         
-        assert matcher.end() > end || matchText.length() == 0: "Group=" + matcher.group();
+        assert matcher.end() > end || matchText.length() == 0: "Group=" + matchText;
         if (matchText.length() == 0) {
           assert matchStart == wikiText.length() || wikiText.charAt(matchStart) == '\n' : wikiText + ", " + matchStart;
           if (firstNewline == -1) {
@@ -504,10 +504,10 @@ public final class WikiTokenizer {
         } else if (matchText.equals("]]") || matchText.equals("}}")) {
           if (tokenStack.size() > 0) {
             final String removed = tokenStack.remove(tokenStack.size() - 1);
-            if (removed.equals("{{") && !matcher.group().equals("}}")) {
+            if (removed.equals("{{") && !matchText.equals("}}")) {
               errors.add("Unmatched {{ error: " + wikiText.substring(start));
               return safeIndexOf(wikiText, start, "\n", "\n");
-            } else if (removed.equals("[[") && !matcher.group().equals("]]")) {
+            } else if (removed.equals("[[") && !matchText.equals("]]")) {
               errors.add("Unmatched [[ error: " + wikiText.substring(start));
               return safeIndexOf(wikiText, start, "\n", "\n");
             }
