@@ -19,7 +19,7 @@ import java.io.IOException;
 import java.util.Comparator;
 
 import com.hughes.android.dictionary.engine.Language;
-import com.ibm.icu.text.Collator;
+import java.text.Collator;
 
 public class SerializeCollatorTest {
 
