@@ -40,7 +40,7 @@ public final class EnForeignParser extends EnParser {
       if (isIgnorableTitle(title)) {
         return;
       }
-      final String lang = heading.replaceAll("=", "").trim();
+      final String lang = heading.replace("=", "").trim();
       if (!langPattern.matcher(lang).find()){
         return;
       }

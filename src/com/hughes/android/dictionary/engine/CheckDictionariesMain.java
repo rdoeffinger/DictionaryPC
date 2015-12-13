@@ -82,7 +82,7 @@ public class CheckDictionariesMain {
     }
     
     Collections.sort(dictNames);
-    System.out.println(dictNames.toString().replaceAll(",", "  *"));
+    System.out.println(dictNames.toString().replace(",", "  *"));
     
     dictionaryInfoOut.close();
   }

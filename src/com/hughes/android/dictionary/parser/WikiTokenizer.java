@@ -125,8 +125,8 @@ public final class WikiTokenizer {
   }
 
   public WikiTokenizer(String wikiText, final boolean isNewline) {
-    wikiText = wikiText.replaceAll("\u2028", "\n");
-    wikiText = wikiText.replaceAll("\u0085", "\n");
+    wikiText = wikiText.replace('\u2028', '\n');
+    wikiText = wikiText.replace('\u0085', '\n');
     this.wikiText = wikiText;
     this.matcher = wikiTokenEvent.matcher(wikiText);
     justReturnedNewline = isNewline;
@@ -512,7 +512,7 @@ public final class WikiTokenizer {
               return safeIndexOf(wikiText, start, "\n", "\n");
             }
           } else {
-            errors.add("Pop too many error: " + wikiText.substring(start).replaceAll("\n", "\\\\n"));
+            errors.add("Pop too many error: " + wikiText.substring(start).replace("\n", "\\\\n"));
             // If we were looking for a newline
             return safeIndexOf(wikiText, start, "\n", "\n");
           }
@@ -581,7 +581,7 @@ public final class WikiTokenizer {
     while (s.endsWith("\n")) {
       s = s.substring(0, s.length() - 1);
     }
-    return s.replaceAll("\n", " ");
+    return s.replace('\n', ' ');
   }
 
   static int safeIndexOf(final String s, final int start, final String target, final String backup) {

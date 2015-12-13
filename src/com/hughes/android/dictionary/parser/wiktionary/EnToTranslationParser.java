@@ -37,7 +37,7 @@ public final class EnToTranslationParser extends EnParser {
       if (isIgnorableTitle(title)) {
         return;
       }
-      heading = heading.replaceAll("=", "").trim(); 
+      heading = heading.replace("=", "").trim();
       if (!heading.contains("English")) {
         return;
       }
