@@ -205,6 +205,8 @@ public class DictionaryBuilder {
     }
    
     dictionaryBuilder.build();
+    // Drop indexBuilders to free RAM
+    dictionaryBuilder.indexBuilders.clear();
     
     if (printFile != null) {
       final PrintStream out = new PrintStream(new File(printFile));
