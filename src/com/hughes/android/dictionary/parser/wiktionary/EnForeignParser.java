@@ -212,7 +212,7 @@ public final class EnForeignParser extends EnParser {
       final String prefix = listSection.firstPrefix;
       if (prefix.length() > 1) {
         // Could just get looser and say that any prefix longer than first is a sublist.
-        LOG.warning("Prefix too long: " + listSection);
+        LOG.warning("Prefix '" + prefix + "' too long: " + listSection);
         incrementCount("WARNING: Prefix too long");
         return;
       }
@@ -241,7 +241,7 @@ public final class EnForeignParser extends EnParser {
       String lastForeign = null;
       for (int i = 0; i < listSection.nextPrefixes.size(); ++i) {
         final String nextPrefix = listSection.nextPrefixes.get(i);
-        final String nextLine = listSection.nextLines.get(i);
+        String nextLine = listSection.nextLines.get(i);
 
         // TODO: This splitting is not sensitive to wiki code.
         int dash = nextLine.indexOf("&mdash;");
@@ -271,6 +271,14 @@ public final class EnForeignParser extends EnParser {
           }
         } else if (nextPrefix.equals("#::") || nextPrefix.equals("#**")) {
           if (lastForeign != null && pairEntry.pairs.size() > 0) {
+            if (i + 1 < listSection.nextPrefixes.size()) {
+              // Chinese has sometimes multiple foreign lines
+              final String nextNextPrefix = listSection.nextPrefixes.get(i + 1);
+              if (nextNextPrefix.equals("#::") || nextNextPrefix.equals("#**")) {
+                ++i;
+                nextLine += "\n" + listSection.nextLines.get(i);
+              }
+            }
             pairEntry.pairs.remove(pairEntry.pairs.size() - 1);
             final Pair pair = new Pair(formatAndIndexExampleString(nextLine, enIndexBuilder, indexedEntry), formatAndIndexExampleString(lastForeign, foreignIndexBuilder, indexedEntry), swap);
             if (pair.lang1 != "--" || pair.lang2 != "--") {
