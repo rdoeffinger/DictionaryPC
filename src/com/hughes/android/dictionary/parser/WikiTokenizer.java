@@ -471,6 +471,7 @@ public final class WikiTokenizer {
     return token;
   }
   
+  final static String[] patterns = { "\n", "{{", "}}", "[[", "]]", "|", "=", "<!--" };
   private int escapedFindEnd(final int start, final String toFind) {
     assert tokenStack.isEmpty();
     
@@ -478,16 +479,37 @@ public final class WikiTokenizer {
     
     int end = start;
     int firstNewline = -1;
+    int[] nextMatch = new int[8];
+    for (int i = 0; i < 8; ++i) {
+        nextMatch[i] = wikiText.indexOf(patterns[i], start);
+        if (nextMatch[i] == -1) nextMatch[i] = i > 0 ? 0x7fffffff : wikiText.length();
+    }
     while (end < wikiText.length()) {
-      if (matcher.find(end)) {
-        final String matchText = matcher.group();
-        final int matchStart = matcher.start();
-        
-        assert matcher.end() > end || matchText.length() == 0: "Group=" + matchText;
+        // Manual replacement for matcher.find(end),
+        // because Java regexp is a ridiculously slow implementation.
+        // Initialize to always match the end.
+        int matchIdx = 0;
+        for (int i = 1; i < 8; ++i) {
+            if (nextMatch[i] < nextMatch[matchIdx]) {
+                matchIdx = i;
+            }
+        }
+
+        int matchStart = nextMatch[matchIdx];
+        String matchText = patterns[matchIdx];
+        int matchEnd = matchStart + matchText.length();
+        nextMatch[matchIdx] = wikiText.indexOf(patterns[matchIdx], matchEnd);
+        if (nextMatch[matchIdx] == -1) nextMatch[matchIdx] = matchIdx > 0 ? 0x7fffffff : wikiText.length();
+        if (matchIdx == 0) {
+            matchText = "";
+            matchEnd = matchStart;
+        }
+
+        assert matchEnd > end || matchText.length() == 0: "Group=" + matchText;
         if (matchText.length() == 0) {
           assert matchStart == wikiText.length() || wikiText.charAt(matchStart) == '\n' : wikiText + ", " + matchStart;
           if (firstNewline == -1) {
-            firstNewline = matcher.end();
+            firstNewline = matchEnd;
           }
           if (tokenStack.isEmpty() && toFind.equals("\n")) {
             return matchStart;
@@ -498,7 +520,7 @@ public final class WikiTokenizer {
           if (insideFunction) {
             addFunctionArg(insideFunction, matchStart);
           }
-          return matcher.end();
+          return matchEnd;
         } else if (matchText.equals("[[") || matchText.equals("{{")) {
           tokenStack.add(matchText);
         } else if (matchText.equals("]]") || matchText.equals("}}")) {
@@ -538,14 +560,9 @@ public final class WikiTokenizer {
           assert false : "Match text='" + matchText + "'";
           throw new IllegalStateException();
         }
-      } else {
-        // Hmmm, we didn't find the closing symbol we were looking for...
-        errors.add("Couldn't find: " + toFind + ", "+ wikiText.substring(start));
-        return safeIndexOf(wikiText, start, "\n", "\n");
-      }
-      
+
       // Inside the while loop.  Just go forward.
-      end = Math.max(end, matcher.end());
+      end = Math.max(end, matchEnd);
     }
     if (toFind.equals("\n") && tokenStack.isEmpty()) {
       // We were looking for the end, we got it.
