@@ -35,7 +35,6 @@ public class WiktionaryLangs {
     isoCodeToEnWikiName.put("BG", "Bulgarian");
     isoCodeToEnWikiName.put("CA", "Catalan");
     isoCodeToEnWikiName.put("SH", "Serbo-Croatian");
-    isoCodeToEnWikiName.put("HR", "Croatian");
     isoCodeToEnWikiName.put("CS", "Czech");
     isoCodeToEnWikiName.put("ZH", "Chinese");
     isoCodeToEnWikiName.put("cmn", "Mandarin");
@@ -113,6 +112,7 @@ public class WiktionaryLangs {
     // No longer exists in EN:
     // isoCodeToEnWikiName.put("BS", "Bosnian");
     // isoCodeToEnWikiName.put("SR", "Serbian");
+    // isoCodeToEnWikiName.put("HR", "Croatian");
     
     // Font doesn't work:
     //isoCodeToEnWikiName.put("MY", "Burmese");

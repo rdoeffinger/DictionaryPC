@@ -170,6 +170,7 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
     }
     
     String text = textBuilder.toString();
+    String translingual = "";
     
     while (text.length() > 0) {
       // Find start.
@@ -181,6 +182,19 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
       
       final String heading = startMatcher.group();
       for (final Selector selector : currentSelectors) {
+        if (heading.indexOf("Translingual") != -1) {
+          // Find end.
+          final int depth = startMatcher.group(1).length();
+          final Pattern endPattern = Pattern.compile(String.format("^={1,%d}[^=].*$", depth), Pattern.MULTILINE);
+
+          final Matcher endMatcher = endPattern.matcher(text);
+          if (endMatcher.find()) {
+            int end = endMatcher.start();
+            translingual = text.substring(0, endMatcher.start());
+            text = text.substring(end);
+            break;
+          }
+        }
         if (selector.pattern.matcher(heading).find()) {
           
           // Find end.
@@ -205,6 +219,7 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
                      sectionText.charAt(dummy_end + 1) == '\n') ++dummy_end;
               sectionText = sectionText.substring(dummy_end);
           }
+          if (heading.indexOf("Japanese") == -1) sectionText += translingual;
           final Section section = new Section(title, heading, sectionText);
           
           try {
