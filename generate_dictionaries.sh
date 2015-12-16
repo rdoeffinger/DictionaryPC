@@ -22,6 +22,8 @@ lang=$(echo $langcode | tr '[a-z]' '[A-Z]')
 test "$lang" = "CY" && lang=CI
 test "$lang" = "CMN" && lang=cmn
 test "$lang" = "GRC" && lang=grc
+test "$lang" = "HAW" && lang=haw
+test "$lang" = "YUE" && lang=yue
 
 reverse_dicts=""
 if test "$lang" = "DE" -o "$lang" = "FR" -o "$lang" = "IT" ; then

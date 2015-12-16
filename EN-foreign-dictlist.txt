@@ -46,6 +46,7 @@ mk Macedonian
 ml Malayalam
 mn Mongolian
 mr Marathi
+ms Malay
 ne Nepali
 nl Dutch
 no Norwegian
@@ -75,3 +76,5 @@ zh Chinese
 zu Zulu
 cmn Mandarin
 grc Ancient Greek
+haw Hawaiian
+yue Cantonese
