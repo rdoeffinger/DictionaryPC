@@ -218,6 +218,7 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
           }
           
           text = text.substring(end);
+          break;
         }
       }
     }
