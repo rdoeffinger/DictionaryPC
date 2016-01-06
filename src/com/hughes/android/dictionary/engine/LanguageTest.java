@@ -63,7 +63,7 @@ public class LanguageTest extends TestCase {
         "Hüllen",
         "Hum"
         );
-    final NormalizeComparator comparator = new NormalizeComparator(normalizer, Language.de.getCollator());
+    final NormalizeComparator comparator = new NormalizeComparator(normalizer, Language.de.getCollator(), 7);
     assertEquals(1, comparator.compare("hülle", "huelle"));
     assertEquals(-1, comparator.compare("huelle", "hülle"));
     
@@ -93,7 +93,7 @@ public class LanguageTest extends TestCase {
         "preprocess");
     
     final List<String> sorted = new ArrayList<String>(words);
-    final NormalizeComparator comparator = new NormalizeComparator(normalizer, Language.en.getCollator());
+    final NormalizeComparator comparator = new NormalizeComparator(normalizer, Language.en.getCollator(), 7);
     Collections.sort(sorted, comparator);
     for (int i = 0; i < words.size(); ++i) {
       if (i > 0) {
