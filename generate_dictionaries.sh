@@ -7,6 +7,8 @@ FR_DICTS=true
 #FR_DICTS=false
 IT_DICTS=true
 #IT_DICTS=false
+EN_TRANS_DICTS=true
+#EN_TRANS_DICTS=false
 # Spanish is unfortunately not yet working
 SINGLE_DICTS="en de fr it"
 #SINGLE_DICTS=""
@@ -106,4 +108,18 @@ rm -f data/outputs/IT-${lang}.quickdic.${VERSION}.zip
 7z a -mx=9 data/outputs/IT-${lang}.quickdic.${VERSION}.zip ./data/outputs/IT-${lang}.quickdic
 
 done < IT-foreign-dictlist.txt
+fi
+
+if $EN_TRANS_DICTS; then
+while read langcode1 langname1 langcode2 langname2 ; do
+lang1=$(echo $langcode1 | tr '[a-z]' '[A-Z]')
+lang2=$(echo $langcode2 | tr '[a-z]' '[A-Z]')
+stoplist1=""
+stoplist2=""
+test -e data/inputs/stoplists/${langcode1}.txt && stoplist1="--lang1Stoplist=data/inputs/stoplists/${langcode1}.txt"
+test -e data/inputs/stoplists/${langcode2}.txt && stoplist1="--lang2Stoplist=data/inputs/stoplists/${langcode2}.txt"
+./run.sh --lang1=$lang1 --lang2=$lang2 $stoplist1 $stoplist2 --dictOut=data/outputs/${lang1}-${lang2}.quickdic --dictInfo="(EN)Wiktionary-based ${lang1}-${lang2} dictionary." --input1=data/inputs/wikiSplit/en/EN.data --input1Name=enwikitionary --input1Format=EnTranslationToTranslation --input1LangPattern1=${langcode1} --input1LangPattern2=${langcode2}
+rm -f data/outputs/${lang1}-${lang2}.quickdic.${VERSION}.zip
+7z a -mx=9 data/outputs/${lang1}-${lang2}.quickdic.${VERSION}.zip ./data/outputs/${lang1}-${lang2}.quickdic
+done < EN-trans-dictlist.txt
 fi
