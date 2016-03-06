@@ -7,6 +7,8 @@ hu Ungarisch
 it Italienisch
 ja Japanisch
 la Latein
+nl Niederländisch
 pl Polnisch
+pt Portugiesisch
 ru Russisch
 sv Schwedisch
