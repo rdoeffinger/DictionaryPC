@@ -65,7 +65,9 @@ fi
 
 stoplist=""
 test -e data/inputs/stoplists/${langcode}.txt && stoplist="--lang2Stoplist=data/inputs/stoplists/${langcode}.txt"
+input0=""
 test -e data/inputs/wikiSplit/de/${lang}.data && input0="--input0=data/inputs/wikiSplit/de/${lang}.data --input0Name=dewikitionary --input0Format=enwiktionary --input0LangPattern=${langname} --input0LangCodePattern=${langcode} --input0EnIndex=1 --input0WiktionaryType=EnForeign"
+input2=""
 test -e data/inputs/wikiSplit/de/${lang}.data && input2="--input2=data/inputs/wikiSplit/de/${lang}.data --input2Format=WholeSectionToHtmlParser --input2Name=dewikitionary --input2WiktionaryLang=DE --input2TitleIndex=2 --input2WebUrlTemplate=http://de.wiktionary.org/wiki/%s"
 ./run.sh --lang1=DE --lang2=$lang --lang1Stoplist=data/inputs/stoplists/de.txt $stoplist --dictOut=data/outputs/DE-${lang}.quickdic --dictInfo="(DE)Wiktionary-based DE-$lang dictionary." $input0 --input1=data/inputs/wikiSplit/en/EN.data --input1Name=enwikitionary --input1Format=EnTranslationToTranslation --input1LangPattern1=de --input1LangPattern2=${langcode} $input2 $reverse_dicts
 rm -f data/outputs/DE-${lang}.quickdic.${VERSION}.zip
@@ -117,7 +119,7 @@ lang2=$(echo $langcode2 | tr '[a-z]' '[A-Z]')
 stoplist1=""
 stoplist2=""
 test -e data/inputs/stoplists/${langcode1}.txt && stoplist1="--lang1Stoplist=data/inputs/stoplists/${langcode1}.txt"
-test -e data/inputs/stoplists/${langcode2}.txt && stoplist1="--lang2Stoplist=data/inputs/stoplists/${langcode2}.txt"
+test -e data/inputs/stoplists/${langcode2}.txt && stoplist2="--lang2Stoplist=data/inputs/stoplists/${langcode2}.txt"
 ./run.sh --lang1=$lang1 --lang2=$lang2 $stoplist1 $stoplist2 --dictOut=data/outputs/${lang1}-${lang2}.quickdic --dictInfo="(EN)Wiktionary-based ${lang1}-${lang2} dictionary." --input1=data/inputs/wikiSplit/en/EN.data --input1Name=enwikitionary --input1Format=EnTranslationToTranslation --input1LangPattern1=${langcode1} --input1LangPattern2=${langcode2}
 rm -f data/outputs/${lang1}-${lang2}.quickdic.${VERSION}.zip
 7z a -mx=9 data/outputs/${lang1}-${lang2}.quickdic.${VERSION}.zip ./data/outputs/${lang1}-${lang2}.quickdic
