@@ -41,7 +41,7 @@ public abstract class EnParser extends AbstractWiktionaryParser {
       "Verb phrase|Transitive verb|Intransitive verb|Reflexive verb|" +
       // These are extras I found:
       "Determiner|Numeral|Number|Cardinal number|Ordinal number|Proverb|" +
-      "Particle|Interjection|Pronominal adverb" +
+      "Particle|Interjection|Pronominal adverb|" +
       "Han character|Hanzi|Hanja|Kanji|Katakana character|Syllable");
   
   static final Set<String> USELESS_WIKI_ARGS = new LinkedHashSet<String>(
