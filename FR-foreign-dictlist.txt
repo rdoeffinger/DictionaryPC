@@ -1,3 +1,4 @@
+ar arabe
 bg bulgare
 cs tchèque
 eo espéranto
