@@ -57,6 +57,11 @@ done
 if $DE_DICTS; then
 while read langcode langname ; do
 lang=$(echo $langcode | tr '[a-z]' '[A-Z]')
+test "$lang" = "CY" && lang=CI
+test "$lang" = "CMN" && lang=cmn
+test "$lang" = "GRC" && lang=grc
+test "$lang" = "HAW" && lang=haw
+test "$lang" = "YUE" && lang=yue
 
 reverse_dicts=""
 if test "$lang" = "FR" -o "$lang" = "IT" ; then
@@ -79,6 +84,11 @@ fi
 if $FR_DICTS; then
 while read langcode langname ; do
 lang=$(echo $langcode | tr '[a-z]' '[A-Z]')
+test "$lang" = "CY" && lang=CI
+test "$lang" = "CMN" && lang=cmn
+test "$lang" = "GRC" && lang=grc
+test "$lang" = "HAW" && lang=haw
+test "$lang" = "YUE" && lang=yue
 
 reverse_dicts=""
 if test "$lang" = "DE" -o "$lang" = "IT" ; then
@@ -97,6 +107,11 @@ fi
 if $IT_DICTS; then
 while read langcode langname ; do
 lang=$(echo $langcode | tr '[a-z]' '[A-Z]')
+test "$lang" = "CY" && lang=CI
+test "$lang" = "CMN" && lang=cmn
+test "$lang" = "GRC" && lang=grc
+test "$lang" = "HAW" && lang=haw
+test "$lang" = "YUE" && lang=yue
 
 reverse_dicts=""
 if test "$lang" = "FR" -o "$lang" = "DE" ; then
@@ -116,6 +131,16 @@ if $EN_TRANS_DICTS; then
 while read langcode1 langname1 langcode2 langname2 ; do
 lang1=$(echo $langcode1 | tr '[a-z]' '[A-Z]')
 lang2=$(echo $langcode2 | tr '[a-z]' '[A-Z]')
+test "$lang1" = "CY" && lang1=CI
+test "$lang1" = "CMN" && lang1=cmn
+test "$lang1" = "GRC" && lang1=grc
+test "$lang1" = "HAW" && lang1=haw
+test "$lang1" = "YUE" && lang1=yue
+test "$lang2" = "CY" && lang2=CI
+test "$lang2" = "CMN" && lang2=cmn
+test "$lang2" = "GRC" && lang2=grc
+test "$lang2" = "HAW" && lang2=haw
+test "$lang2" = "YUE" && lang2=yue
 stoplist1=""
 stoplist2=""
 test -e data/inputs/stoplists/${langcode1}.txt && stoplist1="--lang1Stoplist=data/inputs/stoplists/${langcode1}.txt"
