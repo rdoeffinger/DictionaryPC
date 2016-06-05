@@ -12,3 +12,4 @@ pl Polnisch
 pt Portugiesisch
 ru Russisch
 sv Schwedisch
+cmn Mandarin
