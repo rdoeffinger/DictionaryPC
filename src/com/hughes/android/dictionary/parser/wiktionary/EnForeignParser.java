@@ -54,6 +54,13 @@ public final class EnForeignParser extends EnParser {
             incrementCount("WARNING: Translations not in English section");
           } else if (headingName.equals("Pronunciation")) {
             //doPronunciation(wikiLineReader);
+          } else if (headingName.startsWith(" {{S|")) {
+            // HACK to support parsing frwiktionary
+            String[] parts = headingName.split("\\|");
+            if (parts.length > 2 && langCodePattern.matcher(parts[2]).find() &&
+                (parts.length < 4 || !parts[3].startsWith("flexion"))) {
+                doForeignPartOfSpeech(lang, headingName, wikiTokenizer.headingDepth(), wikiTokenizer);
+            }
           } else if (partOfSpeechHeader.matcher(headingName).matches()) {
             doForeignPartOfSpeech(lang, headingName, wikiTokenizer.headingDepth(), wikiTokenizer);
           }
@@ -263,13 +270,14 @@ public final class EnForeignParser extends EnParser {
             pairEntry.pairs.add(pair);
           }
           lastForeign = null;
-        } else if (nextPrefix.equals("#:") || nextPrefix.equals("##:")){
+        // TODO: make #* and #*: work
+        } else if (nextPrefix.equals("#:") || nextPrefix.equals("##:")/* || nextPrefix.equals("#*")*/){
           final Pair pair = new Pair("--", formatAndIndexExampleString(nextLine, null, indexedEntry), swap);
           lastForeign = nextLine;
           if (pair.lang1 != "--" && pair.lang1 != "--") {
             pairEntry.pairs.add(pair);
           }
-        } else if (nextPrefix.equals("#::") || nextPrefix.equals("#**")) {
+        } else if (nextPrefix.equals("#::") || nextPrefix.equals("#**")/* || nextPrefix.equals("#*:")*/) {
           if (lastForeign != null && pairEntry.pairs.size() > 0) {
             if (i + 1 < listSection.nextPrefixes.size()) {
               // Chinese has sometimes multiple foreign lines
