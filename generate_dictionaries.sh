@@ -19,7 +19,7 @@ VERSION=v007
 
 if $EN_DICTS; then
 # Note: using input1 seems to hang for ZH currently!
-while read langcode langname ; do
+while read langcode langname enlangname ; do
 lang=$(echo $langcode | tr '[a-z]' '[A-Z]')
 test "$lang" = "CY" && lang=CI
 test "$lang" = "CMN" && lang=cmn
@@ -30,6 +30,7 @@ test "$lang" = "YUE" && lang=yue
 reverse_dicts=""
 if test "$lang" = "DE" -o "$lang" = "FR" -o "$lang" = "IT" ; then
 reverse_dicts="--input3=data/inputs/wikiSplit/$langcode/EN.data --input3Format=WholeSectionToHtmlParser --input3Name=${langcode}wikitionary --input3WiktionaryLang=$lang --input3TitleIndex=1 --input3WebUrlTemplate=http://${langcode}.wiktionary.org/wiki/%s"
+#reverse_dicts="$reverse_dicts --input4=data/inputs/wikiSplit/$langcode/EN.data --input4Name=${langcode}wikitionary --input4Format=enwiktionary --input4LangPattern=${enlangname} --input4LangCodePattern=en --input4EnIndex=1 --input4WiktionaryType=EnForeign"
 fi
 
 stoplist=""
