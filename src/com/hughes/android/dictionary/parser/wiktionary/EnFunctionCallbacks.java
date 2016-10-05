@@ -740,7 +740,7 @@ class EnFunctionCallbacks {
           appendAndIndexWikiCallback.dispatch(f, null, null);
           appendAndIndexWikiCallback.builder.append(" {f}");
       }
-      final String m = namedArgs.remove("f");
+      final String m = namedArgs.remove("m");
       if (m != null) {
           appendAndIndexWikiCallback.builder.append(", ");
           appendAndIndexWikiCallback.dispatch(m, null, null);
