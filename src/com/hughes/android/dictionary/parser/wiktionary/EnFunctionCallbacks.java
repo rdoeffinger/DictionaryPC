@@ -725,15 +725,17 @@ class EnFunctionCallbacks {
         final EnParser parser,
         final AppendAndIndexWikiCallback<EnParser> appendAndIndexWikiCallback) {
       parser.titleAppended = true;
-      final String base = ListUtil.get(args, 0);
-      final String gender = ListUtil.get(args, 1);
-      final String singular = base + ListUtil.get(args, 2, null);
-      final String plural = base + ListUtil.get(args, 3, null);
+      final String gender = ListUtil.get(args, 0);
+      final String singular = parser.title;
+      final String plural = ListUtil.get(args, 1, null);
       appendAndIndexWikiCallback.builder.append(" ");
       appendAndIndexWikiCallback.dispatch(singular, null, null);
       appendAndIndexWikiCallback.builder.append(" {").append(gender).append("}, ");
-      appendAndIndexWikiCallback.dispatch(plural, null, null);
-      appendAndIndexWikiCallback.builder.append(" {pl}");
+      if (plural != null) {
+        appendAndIndexWikiCallback.dispatch(plural, null, null);
+        appendAndIndexWikiCallback.builder.append(" {pl}");
+        parser.wordForms.add(plural);
+      }
       final String f = namedArgs.remove("f");
       if (f != null) {
           appendAndIndexWikiCallback.builder.append(", ");
@@ -747,7 +749,6 @@ class EnFunctionCallbacks {
           appendAndIndexWikiCallback.builder.append(" {m}");
       }
       parser.wordForms.add(singular);
-      parser.wordForms.add(plural);
       if (!namedArgs.isEmpty() || args.size() > 4) {
         EnParser.LOG.warning("Invalid it-noun: " + wikiTokenizer.token());
       }
