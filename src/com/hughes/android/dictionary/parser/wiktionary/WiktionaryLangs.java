@@ -190,6 +190,7 @@ public class WiktionaryLangs {
     isoCodeToWikiName.put("HU", Pattern.quote("{{-hu-}}"));
     isoCodeToWikiName.put("EL", Pattern.quote("{{-grc-}}"));
     isoCodeToWikiName.put("SV", Pattern.quote("{{-sv-}}"));
+    isoCodeToWikiName.put("RU", Pattern.quote("{{-ru-}}"));
 
     // There seems to be no consistent pattern and few foreign language entries anyway
     isoCodeToWikiName = new LinkedHashMap<String, String>();

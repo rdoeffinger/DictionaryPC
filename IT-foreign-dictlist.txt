@@ -6,4 +6,5 @@ la latino
 lv lettone
 nl nederlandese
 pl polacco
+ru russo
 sv svedese
