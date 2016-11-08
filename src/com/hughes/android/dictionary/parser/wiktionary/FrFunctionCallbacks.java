@@ -23,50 +23,50 @@ import java.util.List;
 import java.util.Map;
 
 class FrFunctionCallbacks {
-  
-  static <T extends AbstractWiktionaryParser> void addGenericCallbacks(Map<String, FunctionCallback<T>> callbacks) {
-      callbacks.put("-étym-", new Redispatch<T>("\n==== Étymologie ====\n"));
-      callbacks.put("-pron-", new Redispatch<T>("\n==== Prononciation ====\n"));
-      callbacks.put("-voir-", new Redispatch<T>("\n==== Voir aussi ====\n"));
-      callbacks.put("-drv-", new Redispatch<T>("\n==== Dérivés ====\n"));
-      callbacks.put("-syn-", new Redispatch<T>("\n==== Synonymes ====\n"));
 
-      callbacks.put("-apr-", new Redispatch<T>("\n==== Apparentés étymologiques ====\n"));
-      callbacks.put("-hyper-", new Redispatch<T>("\n==== Hyperonymes ====\n"));
-      callbacks.put("-hypo-", new Redispatch<T>("\n==== Hyponymes ====\n"));
-      callbacks.put("-réf-", new Redispatch<T>("\n==== Références ====\n"));
-      callbacks.put("-homo-", new Redispatch<T>("\n==== Homophones ====\n"));
-      callbacks.put("-anagr-", new Redispatch<T>("\n==== Anagrammes ====\n"));
-      callbacks.put("-voc-", new Redispatch<T>("\n==== Vocabulaire apparenté par le sens ====\n"));
-      callbacks.put("-exp-", new Redispatch<T>("\n==== Expressions ====\n"));
-      callbacks.put("-note-", new Redispatch<T>("\n==== Note ====\n"));
+    static <T extends AbstractWiktionaryParser> void addGenericCallbacks(Map<String, FunctionCallback<T>> callbacks) {
+        callbacks.put("-étym-", new Redispatch<T>("\n==== Étymologie ====\n"));
+        callbacks.put("-pron-", new Redispatch<T>("\n==== Prononciation ====\n"));
+        callbacks.put("-voir-", new Redispatch<T>("\n==== Voir aussi ====\n"));
+        callbacks.put("-drv-", new Redispatch<T>("\n==== Dérivés ====\n"));
+        callbacks.put("-syn-", new Redispatch<T>("\n==== Synonymes ====\n"));
 
-      callbacks.put("-trad-", new ItFunctionCallbacks.SkipSection<T>());
-  }
+        callbacks.put("-apr-", new Redispatch<T>("\n==== Apparentés étymologiques ====\n"));
+        callbacks.put("-hyper-", new Redispatch<T>("\n==== Hyperonymes ====\n"));
+        callbacks.put("-hypo-", new Redispatch<T>("\n==== Hyponymes ====\n"));
+        callbacks.put("-réf-", new Redispatch<T>("\n==== Références ====\n"));
+        callbacks.put("-homo-", new Redispatch<T>("\n==== Homophones ====\n"));
+        callbacks.put("-anagr-", new Redispatch<T>("\n==== Anagrammes ====\n"));
+        callbacks.put("-voc-", new Redispatch<T>("\n==== Vocabulaire apparenté par le sens ====\n"));
+        callbacks.put("-exp-", new Redispatch<T>("\n==== Expressions ====\n"));
+        callbacks.put("-note-", new Redispatch<T>("\n==== Note ====\n"));
 
-  
-  static final NameAndArgs<EnParser> NAME_AND_ARGS = new NameAndArgs<EnParser>();
-
-  
-  static final class MakeHeadingFromName<T extends AbstractWiktionaryParser> implements FunctionCallback<T> {
-    final String header;
-    public MakeHeadingFromName(String header) {
-        this.header = header;
+        callbacks.put("-trad-", new ItFunctionCallbacks.SkipSection<T>());
     }
 
-    @Override
-      public boolean onWikiFunction(final WikiTokenizer wikiTokenizer, final String name, final List<String> args,
-          final Map<String, String> namedArgs,
-          final T parser,
-          final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
-        if (!namedArgs.isEmpty() || args.size() != 0) {
-            return false;
+
+    static final NameAndArgs<EnParser> NAME_AND_ARGS = new NameAndArgs<EnParser>();
+
+
+    static final class MakeHeadingFromName<T extends AbstractWiktionaryParser> implements FunctionCallback<T> {
+        final String header;
+        public MakeHeadingFromName(String header) {
+            this.header = header;
         }
-        //appendAndIndexWikiCallback.builder.append(String.format("<%s>", header));
-        appendAndIndexWikiCallback.dispatch("\n" + header + name + header, null);
-        //appendAndIndexWikiCallback.builder.append(String.format("</%s>\n", header));
-        return true;
-      }
+
+        @Override
+        public boolean onWikiFunction(final WikiTokenizer wikiTokenizer, final String name, final List<String> args,
+                                      final Map<String, String> namedArgs,
+                                      final T parser,
+                                      final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
+            if (!namedArgs.isEmpty() || args.size() != 0) {
+                return false;
+            }
+            //appendAndIndexWikiCallback.builder.append(String.format("<%s>", header));
+            appendAndIndexWikiCallback.dispatch("\n" + header + name + header, null);
+            //appendAndIndexWikiCallback.builder.append(String.format("</%s>\n", header));
+            return true;
+        }
     }
 
 

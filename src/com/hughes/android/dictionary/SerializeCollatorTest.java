@@ -23,14 +23,14 @@ import java.text.Collator;
 
 public class SerializeCollatorTest {
 
-  /**
-   * @param args
-   * @throws IOException 
-   */
-  public static void main(String[] args) throws IOException {
-    File temp = File.createTempFile("temp", null);
-    final Comparator c = Language.de.getCollator();
-    //FileUtil.writeObject(c, temp);
-  }
+    /**
+     * @param args
+     * @throws IOException
+     */
+    public static void main(String[] args) throws IOException {
+        File temp = File.createTempFile("temp", null);
+        final Comparator c = Language.de.getCollator();
+        //FileUtil.writeObject(c, temp);
+    }
 
 }

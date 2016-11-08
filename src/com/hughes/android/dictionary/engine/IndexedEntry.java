@@ -16,10 +16,10 @@ package com.hughes.android.dictionary.engine;
 
 
 public class IndexedEntry {
-  AbstractEntry entry;
-  public boolean isValid = false;
-  
-  public IndexedEntry(final AbstractEntry entry) {
-    this.entry = entry;
-  }
+    AbstractEntry entry;
+    public boolean isValid = false;
+
+    public IndexedEntry(final AbstractEntry entry) {
+        this.entry = entry;
+    }
 }

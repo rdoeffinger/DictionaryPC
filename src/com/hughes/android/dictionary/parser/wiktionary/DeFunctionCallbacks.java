@@ -22,56 +22,56 @@ import java.util.List;
 import java.util.Map;
 
 class DeFunctionCallbacks {
-  
-  static <T extends AbstractWiktionaryParser> void addGenericCallbacks(Map<String, FunctionCallback<T>> callbacks) {
-      FunctionCallback<T> callback = new MakeHeadingFromName<T>("====");
-      callbacks.put("Aussprache", callback);
-      callbacks.put("Worttrennung", callback);
-      callbacks.put("Bedeutungen", callback);
-      callbacks.put("Herkunft", callback);
-      callbacks.put("Synonyme", callback);
-      callbacks.put("Gegenwörter", callback);
-      callbacks.put("Verkleinerungsformen", callback);
-      callbacks.put("Oberbegriffe", callback);
-      callbacks.put("Unterbegriffe", callback);
-      callbacks.put("Beispiele", callback);
-      callbacks.put("Redewendungen", callback);
-      callbacks.put("Charakteristische Wortkombinationen", callback);
-      callbacks.put("Abgeleitete Begriffe", callback);
-      callbacks.put("Übersetzungen", callback);
-      callbacks.put("Referenzen", callback);
-      callbacks.put("Grammatische Merkmale", callback);
-      callbacks.put("Abkürzungen", callback);
-      
-      // TODO:
-      // {{Anmerkung}}
-      // {{Anmerkungen}}
-      // {{Anmerkung|zum Gebrauch}}
-  }
 
-  
-  static final NameAndArgs<EnParser> NAME_AND_ARGS = new NameAndArgs<EnParser>();
+    static <T extends AbstractWiktionaryParser> void addGenericCallbacks(Map<String, FunctionCallback<T>> callbacks) {
+        FunctionCallback<T> callback = new MakeHeadingFromName<T>("====");
+        callbacks.put("Aussprache", callback);
+        callbacks.put("Worttrennung", callback);
+        callbacks.put("Bedeutungen", callback);
+        callbacks.put("Herkunft", callback);
+        callbacks.put("Synonyme", callback);
+        callbacks.put("Gegenwörter", callback);
+        callbacks.put("Verkleinerungsformen", callback);
+        callbacks.put("Oberbegriffe", callback);
+        callbacks.put("Unterbegriffe", callback);
+        callbacks.put("Beispiele", callback);
+        callbacks.put("Redewendungen", callback);
+        callbacks.put("Charakteristische Wortkombinationen", callback);
+        callbacks.put("Abgeleitete Begriffe", callback);
+        callbacks.put("Übersetzungen", callback);
+        callbacks.put("Referenzen", callback);
+        callbacks.put("Grammatische Merkmale", callback);
+        callbacks.put("Abkürzungen", callback);
 
-  
-  static final class MakeHeadingFromName<T extends AbstractWiktionaryParser> implements FunctionCallback<T> {
-    final String header;
-    public MakeHeadingFromName(String header) {
-        this.header = header;
+        // TODO:
+        // {{Anmerkung}}
+        // {{Anmerkungen}}
+        // {{Anmerkung|zum Gebrauch}}
     }
 
-    @Override
-      public boolean onWikiFunction(final WikiTokenizer wikiTokenizer, final String name, final List<String> args,
-          final Map<String, String> namedArgs,
-          final T parser,
-          final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
-        if (!namedArgs.isEmpty() || args.size() != 0) {
-            return false;
+
+    static final NameAndArgs<EnParser> NAME_AND_ARGS = new NameAndArgs<EnParser>();
+
+
+    static final class MakeHeadingFromName<T extends AbstractWiktionaryParser> implements FunctionCallback<T> {
+        final String header;
+        public MakeHeadingFromName(String header) {
+            this.header = header;
         }
-        //appendAndIndexWikiCallback.builder.append(String.format("<%s>", header));
-        appendAndIndexWikiCallback.dispatch("\n" + header + name + header, null);
-        //appendAndIndexWikiCallback.builder.append(String.format("</%s>\n", header));
-        return true;
-      }
+
+        @Override
+        public boolean onWikiFunction(final WikiTokenizer wikiTokenizer, final String name, final List<String> args,
+                                      final Map<String, String> namedArgs,
+                                      final T parser,
+                                      final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
+            if (!namedArgs.isEmpty() || args.size() != 0) {
+                return false;
+            }
+            //appendAndIndexWikiCallback.builder.append(String.format("<%s>", header));
+            appendAndIndexWikiCallback.dispatch("\n" + header + name + header, null);
+            //appendAndIndexWikiCallback.builder.append(String.format("</%s>\n", header));
+            return true;
+        }
     }
 
 

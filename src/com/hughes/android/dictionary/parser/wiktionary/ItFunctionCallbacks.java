@@ -24,7 +24,7 @@ import java.util.Map;
 class ItFunctionCallbacks {
 
     static <T extends AbstractWiktionaryParser> void addGenericCallbacks(
-            Map<String, FunctionCallback<T>> callbacks) {
+        Map<String, FunctionCallback<T>> callbacks) {
         callbacks.put("-hyph-", new Redispatch<T>("\n==== Sillabazione ====\n"));
         callbacks.put("-pron-", new Redispatch<T>("\n==== Pronuncia ====\n"));
         callbacks.put("-etim-", new Redispatch<T>("\n==== Etimologia / Derivazione ====\n"));
@@ -44,7 +44,7 @@ class ItFunctionCallbacks {
     static final NameAndArgs<EnParser> NAME_AND_ARGS = new NameAndArgs<EnParser>();
 
     static final class Redispatch<T extends AbstractWiktionaryParser> implements
-            FunctionCallback<T> {
+        FunctionCallback<T> {
         final String newText;
 
         public Redispatch(String newText) {
@@ -53,10 +53,10 @@ class ItFunctionCallbacks {
 
         @Override
         public boolean onWikiFunction(final WikiTokenizer wikiTokenizer, final String name,
-                final List<String> args,
-                final Map<String, String> namedArgs,
-                final T parser,
-                final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
+                                      final List<String> args,
+                                      final Map<String, String> namedArgs,
+                                      final T parser,
+                                      final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
             if (!namedArgs.isEmpty() || args.size() != 0) {
                 return false;
             }
@@ -66,18 +66,18 @@ class ItFunctionCallbacks {
     }
 
     static final class SkipSection<T extends AbstractWiktionaryParser> implements
-            FunctionCallback<T> {
+        FunctionCallback<T> {
         public SkipSection() {
         }
 
         @Override
         public boolean onWikiFunction(final WikiTokenizer wikiTokenizer, final String name,
-                final List<String> args,
-                final Map<String, String> namedArgs,
-                final T parser,
-                final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
+                                      final List<String> args,
+                                      final Map<String, String> namedArgs,
+                                      final T parser,
+                                      final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
             while (wikiTokenizer.nextToken() != null) {
-                if (wikiTokenizer.isFunction() 
+                if (wikiTokenizer.isFunction()
                         && wikiTokenizer.functionName().startsWith("-")
                         && wikiTokenizer.functionName().endsWith("-")
                         // Hack to prevent infinite-looping, would be better to check that this func was at the start of the line.

@@ -23,10 +23,10 @@ import com.hughes.android.dictionary.parser.wiktionary.AbstractWiktionaryParser.
 public interface FunctionCallback<T extends AbstractWiktionaryParser> {
 
     boolean onWikiFunction(
-            final WikiTokenizer tokenizer,
-            final String name,
-            final List<String> args,
-            final Map<String, String> namedArgs,
-            final T parser,
-            final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback);
+        final WikiTokenizer tokenizer,
+        final String name,
+        final List<String> args,
+        final Map<String, String> namedArgs,
+        final T parser,
+        final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback);
 }

@@ -29,149 +29,150 @@ import com.hughes.android.dictionary.engine.Index.IndexEntry;
 import com.hughes.android.dictionary.parser.DictFileParser;
 
 public class IndexBuilder {
-  
-  final DictionaryBuilder dictionaryBuilder;
-  public final Index index;
-  final Set<String> stoplist;
 
-  final SortedMap<String, TokenData> tokenToData;
+    final DictionaryBuilder dictionaryBuilder;
+    public final Index index;
+    final Set<String> stoplist;
 
-  IndexBuilder(final DictionaryBuilder dictionaryBuilder, final String shortName, final String longName, final Language language, final String normalizerRules, final Set<String> stoplist, final boolean swapPairEntries) {
-    this.dictionaryBuilder = dictionaryBuilder;
-    index = new Index(dictionaryBuilder.dictionary, shortName, longName, language, normalizerRules, swapPairEntries, stoplist);
-    tokenToData = new TreeMap<String, TokenData>(index.getSortComparator());
-    this.stoplist = stoplist;
-  }
-  
-  public void build() {
-    final Set<IndexedEntry> tokenIndexedEntries = new HashSet<IndexedEntry>();
-    final List<RowBase> rows = index.rows;
-    index.mainTokenCount = 0;
-    for (final TokenData tokenData : tokenToData.values()) {
-      tokenIndexedEntries.clear();
-      final int indexIndex = index.sortedIndexEntries.size();
-      final int startRow = rows.size();
-      
-      TokenRow tokenRow = null;
-      if (!tokenData.htmlEntries.isEmpty()) {
-          tokenRow = new TokenRow(indexIndex, rows.size(), index, tokenData.hasMainEntry);
-          rows.add(tokenRow);
-      }
-      
+    final SortedMap<String, TokenData> tokenToData;
+
+    IndexBuilder(final DictionaryBuilder dictionaryBuilder, final String shortName, final String longName, final Language language, final String normalizerRules, final Set<String> stoplist, final boolean swapPairEntries) {
+        this.dictionaryBuilder = dictionaryBuilder;
+        index = new Index(dictionaryBuilder.dictionary, shortName, longName, language, normalizerRules, swapPairEntries, stoplist);
+        tokenToData = new TreeMap<String, TokenData>(index.getSortComparator());
+        this.stoplist = stoplist;
+    }
+
+    public void build() {
+        final Set<IndexedEntry> tokenIndexedEntries = new HashSet<IndexedEntry>();
+        final List<RowBase> rows = index.rows;
+        index.mainTokenCount = 0;
+        for (final TokenData tokenData : tokenToData.values()) {
+            tokenIndexedEntries.clear();
+            final int indexIndex = index.sortedIndexEntries.size();
+            final int startRow = rows.size();
+
+            TokenRow tokenRow = null;
+            if (!tokenData.htmlEntries.isEmpty()) {
+                tokenRow = new TokenRow(indexIndex, rows.size(), index, tokenData.hasMainEntry);
+                rows.add(tokenRow);
+            }
+
 //    System.out.println("Added TokenRow: " + rows.get(rows.size() - 1));
-      
-      int numRows = 0;  // off by one--doesn't count the token row!
+
+            int numRows = 0;  // off by one--doesn't count the token row!
 //      System.out.println("TOKEN: " + tokenData.token);
-      for (final Map.Entry<EntryTypeName, List<IndexedEntry>> typeToIndexedEntries : tokenData.typeToEntries.entrySet()) {
-        for (final IndexedEntry indexedEntry : typeToIndexedEntries.getValue()) {
-          if (!indexedEntry.isValid) {
-            continue;
-          }
-          
-          if (tokenRow == null) {
-              tokenRow = new TokenRow(indexIndex, rows.size(), index, tokenData.hasMainEntry);
-              rows.add(tokenRow);
-          }
-          
-          if (indexedEntry.entry.index() == -1) {
-            indexedEntry.entry.addToDictionary(dictionaryBuilder.dictionary);
-            assert indexedEntry.entry.index() >= 0;
-          }
-          if (tokenIndexedEntries.add(indexedEntry) && !tokenData.htmlEntries.contains(indexedEntry.entry)) {
-            rows.add(indexedEntry.entry.CreateRow(rows.size(), index));
-            ++indexedEntry.entry.entrySource.numEntries;
-            ++numRows;
-            
+            for (final Map.Entry<EntryTypeName, List<IndexedEntry>> typeToIndexedEntries : tokenData.typeToEntries.entrySet()) {
+                for (final IndexedEntry indexedEntry : typeToIndexedEntries.getValue()) {
+                    if (!indexedEntry.isValid) {
+                        continue;
+                    }
+
+                    if (tokenRow == null) {
+                        tokenRow = new TokenRow(indexIndex, rows.size(), index, tokenData.hasMainEntry);
+                        rows.add(tokenRow);
+                    }
+
+                    if (indexedEntry.entry.index() == -1) {
+                        indexedEntry.entry.addToDictionary(dictionaryBuilder.dictionary);
+                        assert indexedEntry.entry.index() >= 0;
+                    }
+                    if (tokenIndexedEntries.add(indexedEntry) && !tokenData.htmlEntries.contains(indexedEntry.entry)) {
+                        rows.add(indexedEntry.entry.CreateRow(rows.size(), index));
+                        ++indexedEntry.entry.entrySource.numEntries;
+                        ++numRows;
+
 //            System.out.print("  " + typeToEntry.getKey() + ": ");
-  //          rows.get(rows.size() - 1).print(System.out);
+                        //          rows.get(rows.size() - 1).print(System.out);
 //            System.out.println();
-          }
+                    }
+                }
+            }
+
+            if (tokenRow != null) {
+                if (tokenRow.hasMainEntry) {
+                    index.mainTokenCount++;
+                }
+
+                final Index.IndexEntry indexEntry = new Index.IndexEntry(index, tokenData.token, index
+                        .normalizer().transliterate(tokenData.token), startRow, numRows);
+                indexEntry.htmlEntries.addAll(tokenData.htmlEntries);
+                index.sortedIndexEntries.add(indexEntry);
+            }
         }
-      }
-      
-      if (tokenRow != null) {
-          if (tokenRow.hasMainEntry) {
-              index.mainTokenCount++;
-          }
-          
-          final Index.IndexEntry indexEntry = new Index.IndexEntry(index, tokenData.token, index
-                  .normalizer().transliterate(tokenData.token), startRow, numRows);
-          indexEntry.htmlEntries.addAll(tokenData.htmlEntries);
-          index.sortedIndexEntries.add(indexEntry);
-      }
-    }
-    
-    final List<IndexEntry> entriesSortedByNumRows = new ArrayList<IndexEntry>(index.sortedIndexEntries);
-    Collections.sort(entriesSortedByNumRows, new Comparator<IndexEntry>() {
-      @Override
-      public int compare(IndexEntry object1, IndexEntry object2) {
-        return object2.numRows - object1.numRows;
-      }});
-    System.out.println("Most common tokens:");
-    for (int i = 0; i < 50 && i < entriesSortedByNumRows.size(); ++i) {
-      System.out.println("  " + entriesSortedByNumRows.get(i));
-    }
-  }
-  
-  public static class TokenData {
-    final String token;
-        
-    final Map<EntryTypeName, List<IndexedEntry>> typeToEntries = new EnumMap<EntryTypeName, List<IndexedEntry>>(EntryTypeName.class);
-    public boolean hasMainEntry = false;
-    
-    public List<HtmlEntry> htmlEntries = new ArrayList<HtmlEntry>();
-    
-    TokenData(final String token) {
-      assert token.equals(token.trim());
-      assert token.length() > 0;
-      this.token = token;
-    }
-  }
 
-  public TokenData getOrCreateTokenData(final String token) {
-    TokenData tokenData = tokenToData.get(token);
-    if (tokenData == null) {
-      tokenData = new TokenData(token);
-      tokenToData.put(token, tokenData);
+        final List<IndexEntry> entriesSortedByNumRows = new ArrayList<IndexEntry>(index.sortedIndexEntries);
+        Collections.sort(entriesSortedByNumRows, new Comparator<IndexEntry>() {
+            @Override
+            public int compare(IndexEntry object1, IndexEntry object2) {
+                return object2.numRows - object1.numRows;
+            }
+        });
+        System.out.println("Most common tokens:");
+        for (int i = 0; i < 50 && i < entriesSortedByNumRows.size(); ++i) {
+            System.out.println("  " + entriesSortedByNumRows.get(i));
+        }
     }
-    return tokenData;
-  }
 
-  private List<IndexedEntry> getOrCreateEntries(final String token, final EntryTypeName entryTypeName) {
-    final TokenData tokenData = getOrCreateTokenData(token);
-    List<IndexedEntry> entries = tokenData.typeToEntries.get(entryTypeName);
-    if (entryTypeName.mainWord) {
-      tokenData.hasMainEntry = true;
+    public static class TokenData {
+        final String token;
+
+        final Map<EntryTypeName, List<IndexedEntry>> typeToEntries = new EnumMap<EntryTypeName, List<IndexedEntry>>(EntryTypeName.class);
+        public boolean hasMainEntry = false;
+
+        public List<HtmlEntry> htmlEntries = new ArrayList<HtmlEntry>();
+
+        TokenData(final String token) {
+            assert token.equals(token.trim());
+            assert token.length() > 0;
+            this.token = token;
+        }
     }
-    if (entries == null) {
-      entries = new ArrayList<IndexedEntry>();
-      tokenData.typeToEntries.put(entryTypeName, entries);
+
+    public TokenData getOrCreateTokenData(final String token) {
+        TokenData tokenData = tokenToData.get(token);
+        if (tokenData == null) {
+            tokenData = new TokenData(token);
+            tokenToData.put(token, tokenData);
+        }
+        return tokenData;
     }
-    return entries;
-  }
 
-  public void addEntryWithTokens(final IndexedEntry indexedEntry, final Set<String> tokens,
-      final EntryTypeName entryTypeName) {
-    if (indexedEntry == null) {
-      System.out.println("asdfasdf");
+    private List<IndexedEntry> getOrCreateEntries(final String token, final EntryTypeName entryTypeName) {
+        final TokenData tokenData = getOrCreateTokenData(token);
+        List<IndexedEntry> entries = tokenData.typeToEntries.get(entryTypeName);
+        if (entryTypeName.mainWord) {
+            tokenData.hasMainEntry = true;
+        }
+        if (entries == null) {
+            entries = new ArrayList<IndexedEntry>();
+            tokenData.typeToEntries.put(entryTypeName, entries);
+        }
+        return entries;
     }
-    assert indexedEntry != null;
-    for (final String token : tokens) {
-      if (entryTypeName.overridesStopList || !stoplist.contains(token)) {
-        getOrCreateEntries(token, entryTypeName).add(indexedEntry);
-      }
-    }    
-  }
 
-  public void addEntryWithString(final IndexedEntry indexedEntry, final String untokenizedString,
-      final EntryTypeName entryTypeName) {
-    final Set<String> tokens = DictFileParser.tokenize(untokenizedString, DictFileParser.NON_CHAR);
-    addEntryWithTokens(indexedEntry, tokens, tokens.size() == 1 ? entryTypeName.singleWordInstance : entryTypeName);
-  }
+    public void addEntryWithTokens(final IndexedEntry indexedEntry, final Set<String> tokens,
+                                   final EntryTypeName entryTypeName) {
+        if (indexedEntry == null) {
+            System.out.println("asdfasdf");
+        }
+        assert indexedEntry != null;
+        for (final String token : tokens) {
+            if (entryTypeName.overridesStopList || !stoplist.contains(token)) {
+                getOrCreateEntries(token, entryTypeName).add(indexedEntry);
+            }
+        }
+    }
 
-  public void addEntryWithStringNoSingle(final IndexedEntry indexedEntry, final String untokenizedString,
-      final EntryTypeName entryTypeName) {
-    final Set<String> tokens = DictFileParser.tokenize(untokenizedString, DictFileParser.NON_CHAR);
-    addEntryWithTokens(indexedEntry, tokens, entryTypeName);
-  }
+    public void addEntryWithString(final IndexedEntry indexedEntry, final String untokenizedString,
+                                   final EntryTypeName entryTypeName) {
+        final Set<String> tokens = DictFileParser.tokenize(untokenizedString, DictFileParser.NON_CHAR);
+        addEntryWithTokens(indexedEntry, tokens, tokens.size() == 1 ? entryTypeName.singleWordInstance : entryTypeName);
+    }
+
+    public void addEntryWithStringNoSingle(final IndexedEntry indexedEntry, final String untokenizedString,
+                                           final EntryTypeName entryTypeName) {
+        final Set<String> tokens = DictFileParser.tokenize(untokenizedString, DictFileParser.NON_CHAR);
+        addEntryWithTokens(indexedEntry, tokens, entryTypeName);
+    }
 }

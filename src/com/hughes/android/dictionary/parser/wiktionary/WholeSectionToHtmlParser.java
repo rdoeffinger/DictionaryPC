@@ -28,7 +28,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
         boolean skipWikiLink(final WikiTokenizer wikiTokenizer);
         String adjustWikiLink(String wikiLinkDest, final String wikiLinkText);
         void addFunctionCallbacks(
-                Map<String, FunctionCallback<WholeSectionToHtmlParser>> functionCallbacks);
+            Map<String, FunctionCallback<WholeSectionToHtmlParser>> functionCallbacks);
     }
     static final Map<String,LangConfig> isoToLangConfig = new LinkedHashMap<String,LangConfig>();
     static {
@@ -38,7 +38,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
             public boolean skipSection(String headingText) {
                 return enSkipSections.matcher(headingText).matches();
             }
-            
+
             @Override
             public EntryTypeName sectionNameToEntryType(String sectionName) {
                 if (sectionName.equalsIgnoreCase("Synonyms")) {
@@ -56,7 +56,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
                 }
                 return null;
             }
-            
+
             @Override
             public boolean skipWikiLink(WikiTokenizer wikiTokenizer) {
                 final String wikiText = wikiTokenizer.wikiLinkText();
@@ -82,11 +82,11 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
 
             @Override
             public void addFunctionCallbacks(
-                    Map<String, FunctionCallback<WholeSectionToHtmlParser>> functionCallbacks) {
+                Map<String, FunctionCallback<WholeSectionToHtmlParser>> functionCallbacks) {
                 EnFunctionCallbacks.addGenericCallbacks(functionCallbacks);
             }
         });
-        
+
         final Pattern esSkipSections = Pattern.compile(".*(Traducciones|Locuciones).*");
         isoToLangConfig.put("ES", new LangConfig() {
             @Override
@@ -130,7 +130,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
 
             @Override
             public void addFunctionCallbacks(
-                    Map<String, FunctionCallback<WholeSectionToHtmlParser>> functionCallbacks) {
+                Map<String, FunctionCallback<WholeSectionToHtmlParser>> functionCallbacks) {
                 // TODO: need Spanish variant
             }
         });
@@ -141,7 +141,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
             public boolean skipSection(String headingText) {
                 return deSkipSections.matcher(headingText).matches();
             }
-            
+
             @Override
             public EntryTypeName sectionNameToEntryType(String sectionName) {
                 if (sectionName.equalsIgnoreCase("Synonyme")) {
@@ -152,7 +152,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
                 }
                 return null;
             }
-            
+
             @Override
             public boolean skipWikiLink(WikiTokenizer wikiTokenizer) {
                 final String wikiText = wikiTokenizer.wikiLinkText();
@@ -178,18 +178,18 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
 
             @Override
             public void addFunctionCallbacks(
-                    Map<String, FunctionCallback<WholeSectionToHtmlParser>> functionCallbacks) {
+                Map<String, FunctionCallback<WholeSectionToHtmlParser>> functionCallbacks) {
                 DeFunctionCallbacks.addGenericCallbacks(functionCallbacks);
             }
         });
-        
+
         final Pattern itSkipSections = Pattern.compile(".*(Traduzione|Note / Riferimenti).*");
         isoToLangConfig.put("IT", new LangConfig() {
             @Override
             public boolean skipSection(String headingText) {
                 return itSkipSections.matcher(headingText).matches();
             }
-            
+
             @Override
             public EntryTypeName sectionNameToEntryType(String sectionName) {
                 if (sectionName.equalsIgnoreCase("Sinonimi")) {
@@ -200,7 +200,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
                 }
                 return null;
             }
-            
+
             @Override
             public boolean skipWikiLink(WikiTokenizer wikiTokenizer) {
                 final String wikiText = wikiTokenizer.wikiLinkText();
@@ -226,7 +226,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
 
             @Override
             public void addFunctionCallbacks(
-                    Map<String, FunctionCallback<WholeSectionToHtmlParser>> functionCallbacks) {
+                Map<String, FunctionCallback<WholeSectionToHtmlParser>> functionCallbacks) {
                 ItFunctionCallbacks.addGenericCallbacks(functionCallbacks);
             }
         });
@@ -238,7 +238,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
             public boolean skipSection(String headingText) {
                 return frSkipSections.matcher(headingText).matches();
             }
-            
+
             @Override
             public EntryTypeName sectionNameToEntryType(String sectionName) {
                 if (sectionName.equalsIgnoreCase("Synonymes")) {
@@ -249,7 +249,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
                 }
                 return null;
             }
-            
+
             @Override
             public boolean skipWikiLink(WikiTokenizer wikiTokenizer) {
                 final String wikiText = wikiTokenizer.wikiLinkText();
@@ -275,7 +275,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
 
             @Override
             public void addFunctionCallbacks(
-                    Map<String, FunctionCallback<WholeSectionToHtmlParser>> functionCallbacks) {
+                Map<String, FunctionCallback<WholeSectionToHtmlParser>> functionCallbacks) {
                 FrFunctionCallbacks.addGenericCallbacks(functionCallbacks);
             }
         });
@@ -286,10 +286,10 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
     final String skipLangIso;
     final LangConfig langConfig;
     final String webUrlTemplate;
-    
+
 
     public WholeSectionToHtmlParser(final IndexBuilder titleIndexBuilder, final IndexBuilder defIndexBuilder, final String wiktionaryIso, final String skipLangIso,
-            final String webUrlTemplate) {
+                                    final String webUrlTemplate) {
         this.titleIndexBuilder = titleIndexBuilder;
         this.defIndexBuilder = defIndexBuilder;
         assert isoToLangConfig.containsKey(wiktionaryIso): wiktionaryIso;
@@ -297,7 +297,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
         this.skipLangIso = skipLangIso;
         this.webUrlTemplate = webUrlTemplate;
     }
-    
+
     IndexedEntry indexedEntry = null;
 
     @Override
@@ -307,7 +307,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
         indexedEntry = new IndexedEntry(htmlEntry);
 
         final AppendAndIndexWikiCallback<WholeSectionToHtmlParser> callback = new AppendCallback(
-                this);
+            this);
         langConfig.addFunctionCallbacks(callback.functionCallbacks);
 
         callback.builder = new StringBuilder();
@@ -316,11 +316,11 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
 
         if (webUrlTemplate != null) {
             final String webUrl = String.format(webUrlTemplate, title);
-	    // URI.create can raise an exception e.g. if webUrl contains %, just ignore those cases.
-	    try {
-            callback.builder.append(String.format("<p> <a href=\"%s\">%s</a>", URI.create(webUrl).toASCIIString(), escapeHtmlLiteral(webUrl)));
-	    } catch (Exception e)
-	    {}
+            // URI.create can raise an exception e.g. if webUrl contains %, just ignore those cases.
+            try {
+                callback.builder.append(String.format("<p> <a href=\"%s\">%s</a>", URI.create(webUrl).toASCIIString(), escapeHtmlLiteral(webUrl)));
+            } catch (Exception e) {
+            }
         }
         htmlEntry.html = callback.builder.toString();
         indexedEntry.isValid = true;
@@ -332,26 +332,26 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
         tokenData.htmlEntries.add(htmlEntry);
         // titleIndexBuilder.addEntryWithString(indexedEntry, title,
         // EntryTypeName.WIKTIONARY_TITLE_MULTI_DETAIL);
-        
+
         indexedEntry = null;
     }
 
     @Override
     void removeUselessArgs(Map<String, String> namedArgs) {
     }
-    
+
     @Override
     public void addLinkToCurrentEntry(String token, final String lang, EntryTypeName entryTypeName) {
         if (lang == null || lang.equals(skipLangIso)) {
             titleIndexBuilder.addEntryWithString(indexedEntry, token, entryTypeName);
         }
     }
-    
+
     public static String escapeHtmlLiteral(final String plainText) {
         final String htmlEscaped = StringEscapeUtils.escapeHtml3(plainText);
         if (StringUtil.isAscii(htmlEscaped)) {
             return htmlEscaped;
-        } else { 
+        } else {
             return StringUtil.escapeUnicodeToPureHtml(plainText);
         }
 
@@ -399,7 +399,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
 
         @Override
         public void onFunction(WikiTokenizer wikiTokenizer, String name,
-                List<String> args, Map<String, String> namedArgs) {
+                               List<String> args, Map<String, String> namedArgs) {
             if (skipLangIso.equalsIgnoreCase(namedArgs.get("lang"))) {
                 namedArgs.remove("lang");
             }
@@ -414,7 +414,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
         @Override
         public void onNewline(WikiTokenizer wikiTokenizer) {
         }
-        
+
         EntryTypeName sectionEntryTypeName;
         IndexBuilder currentIndexBuilder;
 
@@ -451,7 +451,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
             final String prefix = wikiTokenizer.listItemPrefix();
             while (listPrefixStack.size() < prefix.length()) {
                 builder.append(String.format("<%s>",
-                        WikiTokenizer.getListTag(prefix.charAt(listPrefixStack.size()))));
+                                             WikiTokenizer.getListTag(prefix.charAt(listPrefixStack.size()))));
                 listPrefixStack.add(prefix.charAt(listPrefixStack.size()));
             }
             builder.append("<li>");
