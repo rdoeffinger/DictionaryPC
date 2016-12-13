@@ -8,6 +8,7 @@ it italien
 ja japonais
 la latin
 nl néerlandais
+pt portugais
 ru russe
 uk ukrainien
 zh chinois
