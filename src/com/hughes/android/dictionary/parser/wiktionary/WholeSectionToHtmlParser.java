@@ -135,6 +135,54 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
             }
         });
 
+        final Pattern ptSkipSections = Pattern.compile(".*Tradução.*");
+        isoToLangConfig.put("PT", new LangConfig() {
+            @Override
+            public boolean skipSection(String headingText) {
+                return esSkipSections.matcher(headingText).matches();
+            }
+
+            @Override
+            public EntryTypeName sectionNameToEntryType(String sectionName) {
+                if (sectionName.equalsIgnoreCase("Sinônimo") || sectionName.equalsIgnoreCase("Sinônimos")) {
+                    return EntryTypeName.SYNONYM_MULTI;
+                }
+                if (sectionName.equalsIgnoreCase("Antônimo") || sectionName.equalsIgnoreCase("Antônimos")) {
+                    return EntryTypeName.ANTONYM_MULTI;
+                }
+                return null;
+            }
+
+            @Override
+            public boolean skipWikiLink(WikiTokenizer wikiTokenizer) {
+                final String wikiText = wikiTokenizer.wikiLinkText();
+                if (wikiText.startsWith("Categoría:")) {
+                    return true;
+                }
+                return false;
+            }
+            @Override
+            public String adjustWikiLink(String wikiLinkDest, String wikiLinkText) {
+                if (wikiLinkDest.startsWith("w:") || wikiLinkDest.startsWith("Image:")) {
+                    return null;
+                }
+                final int hashPos = wikiLinkDest.indexOf("#");
+                if (hashPos != -1) {
+                    wikiLinkDest = wikiLinkDest.substring(0, hashPos);
+                    if (wikiLinkDest.isEmpty()) {
+                        wikiLinkDest = wikiLinkText;
+                    }
+                }
+                return wikiLinkDest;
+            }
+
+            @Override
+            public void addFunctionCallbacks(
+                Map<String, FunctionCallback<WholeSectionToHtmlParser>> functionCallbacks) {
+                // TODO: need Portuguese variant
+            }
+        });
+
         final Pattern deSkipSections = Pattern.compile(".*(Übersetzungen|Referenzen|Quellen).*");
         isoToLangConfig.put("DE", new LangConfig() {
             @Override
