@@ -10,7 +10,7 @@ IT_DICTS=true
 EN_TRANS_DICTS=true
 #EN_TRANS_DICTS=false
 # Spanish is unfortunately not yet working
-SINGLE_DICTS="en de fr it"
+SINGLE_DICTS="en de fr it es pt"
 #SINGLE_DICTS=""
 
 VERSION=v007
