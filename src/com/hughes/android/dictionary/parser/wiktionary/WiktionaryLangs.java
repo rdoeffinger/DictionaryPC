@@ -193,10 +193,20 @@ public class WiktionaryLangs {
         isoCodeToWikiName.put("SV", Pattern.quote("{{-sv-}}"));
         isoCodeToWikiName.put("RU", Pattern.quote("{{-ru-}}"));
 
-        // There seems to be no consistent pattern and few foreign language entries anyway
+        // egrep -o '== *\{\{lengua\|[a-zA-Z]+\}\} *==' frwiktionary-pages-articles.xml | sort | uniq -c | sort -nr
         isoCodeToWikiName = new LinkedHashMap<String, String>();
         wikiCodeToIsoCodeToWikiName.put("es", isoCodeToWikiName);
-        isoCodeToWikiName.put("ES", Pattern.quote("{{ES"));
+        isoCodeToWikiName.put("ES", Pattern.quote("{{lengua|es}}"));
+        isoCodeToWikiName.put("EN", Pattern.quote("{{lengua|en}}"));
+        isoCodeToWikiName.put("FR", Pattern.quote("{{lengua|fr}}"));
+        isoCodeToWikiName.put("IT", Pattern.quote("{{lengua|it}}"));
+
+        // Pattern seems to match Italian one
+        isoCodeToWikiName = new LinkedHashMap<String, String>();
+        wikiCodeToIsoCodeToWikiName.put("pt", isoCodeToWikiName);
+        isoCodeToWikiName.put("PT", Pattern.quote("{{-pt-}}"));
+        isoCodeToWikiName.put("EN", Pattern.quote("{{-en-}}"));
+        isoCodeToWikiName.put("ES", Pattern.quote("{{-es-}}"));
     }
     public static String getEnglishName(String langCode) {
         String name = isoCodeToEnWikiName.get(langCode);
