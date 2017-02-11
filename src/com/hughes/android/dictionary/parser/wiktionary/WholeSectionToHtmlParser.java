@@ -156,7 +156,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
             @Override
             public boolean skipWikiLink(WikiTokenizer wikiTokenizer) {
                 final String wikiText = wikiTokenizer.wikiLinkText();
-                if (wikiText.startsWith("Categoría:")) {
+                if (wikiText.startsWith("Categoria:")) {
                     return true;
                 }
                 return false;
