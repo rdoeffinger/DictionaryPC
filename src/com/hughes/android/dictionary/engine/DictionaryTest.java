@@ -34,7 +34,7 @@ public class DictionaryTest extends TestCase {
 
     @Override
     protected void setUp() {
-        while (!TransliteratorManager.init(null)) {
+        while (!TransliteratorManager.init(null, null)) {
             try {
                 Thread.sleep(10);
             } catch (InterruptedException e) {
