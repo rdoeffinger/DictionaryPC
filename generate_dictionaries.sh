@@ -9,7 +9,6 @@ IT_DICTS=true
 #IT_DICTS=false
 EN_TRANS_DICTS=true
 #EN_TRANS_DICTS=false
-# Spanish is unfortunately not yet working
 SINGLE_DICTS="en de fr it es pt"
 #SINGLE_DICTS=""
 
@@ -25,6 +24,7 @@ test "$lang" = "CY" && lang=CI
 test "$lang" = "CMN" && lang=cmn
 test "$lang" = "GRC" && lang=grc
 test "$lang" = "HAW" && lang=haw
+test "$lang" = "SCN" && lang=scn
 test "$lang" = "YUE" && lang=yue
 
 reverse_dicts=""
