@@ -579,7 +579,7 @@ public final class WikiTokenizer {
             // We were looking for the end, we got it.
             return end;
         }
-        errors.add("Couldn't find: " + toFind + ", "+ wikiText.substring(start));
+        errors.add("Couldn't find: " + (toFind.equals("\n") ? "newline" : toFind) + ", "+ wikiText.substring(start));
         if (firstNewline != -1) {
             return firstNewline;
         }
