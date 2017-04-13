@@ -471,7 +471,7 @@ public final class WikiTokenizer {
         return token;
     }
 
-    final static String[] patterns = { "\n", "{{", "}}", "[[", "]]", "|", "=", "<!--" };
+    final static String[] patterns = { "\n", "{{", "}}", "[[", "]]", "[", "]", "|", "=", "<!--" };
     private int escapedFindEnd(final int start, final String toFind) {
         assert tokenStack.isEmpty();
 
@@ -479,16 +479,17 @@ public final class WikiTokenizer {
 
         int end = start;
         int firstNewline = -1;
-        int[] nextMatch = new int[8];
-        for (int i = 0; i < 8; ++i) {
+        int[] nextMatch = new int[patterns.length];
+        for (int i = 0; i < nextMatch.length; ++i) {
             nextMatch[i] = -2;
         }
+        int singleBrackets = 0;
         while (end < wikiText.length()) {
             // Manual replacement for matcher.find(end),
             // because Java regexp is a ridiculously slow implementation.
             // Initialize to always match the end.
             int matchIdx = 0;
-            for (int i = 0; i < 8; ++i) {
+            for (int i = 0; i < nextMatch.length; ++i) {
                 if (nextMatch[i] <= end) {
                     nextMatch[i] = wikiText.indexOf(patterns[i], end);
                     if (nextMatch[i] == -1) nextMatch[i] = i > 0 ? 0x7fffffff : wikiText.length();
@@ -522,14 +523,23 @@ public final class WikiTokenizer {
                     addFunctionArg(insideFunction, matchStart);
                 }
                 return matchEnd;
+            } else if (matchText.equals("[")) {
+                singleBrackets++;
+            } else if (matchText.equals("]")) {
+                if (singleBrackets > 0) singleBrackets--;
             } else if (matchText.equals("[[") || matchText.equals("{{")) {
                 tokenStack.add(matchText);
             } else if (matchText.equals("]]") || matchText.equals("}}")) {
                 if (tokenStack.size() > 0) {
                     final String removed = tokenStack.remove(tokenStack.size() - 1);
                     if (removed.equals("{{") && !matchText.equals("}}")) {
-                        errors.add("Unmatched {{ error: " + wikiText.substring(start, matchEnd));
-                        return safeIndexOf(wikiText, start, "\n", "\n");
+                        if (singleBrackets >= 2) { // assume this is really two closing single ]
+                            singleBrackets -= 2;
+                            tokenStack.add(removed);
+                        } else {
+                            errors.add("Unmatched {{ error: " + wikiText.substring(start, matchEnd));
+                            return safeIndexOf(wikiText, start, "\n", "\n");
+                        }
                     } else if (removed.equals("[[") && !matchText.equals("]]")) {
                         errors.add("Unmatched [[ error: " + wikiText.substring(start, matchEnd));
                         return safeIndexOf(wikiText, start, "\n", "\n");
