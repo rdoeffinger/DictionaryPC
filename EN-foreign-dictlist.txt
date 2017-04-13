@@ -79,3 +79,5 @@ grc Ancient Greek
 haw Hawaiian
 scn Sicilian
 yue Cantonese
+cu Old Church Slavonic
+pdc Pennsylvania German
