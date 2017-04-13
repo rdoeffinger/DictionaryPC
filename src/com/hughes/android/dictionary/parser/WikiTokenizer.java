@@ -481,15 +481,18 @@ public final class WikiTokenizer {
         int firstNewline = -1;
         int[] nextMatch = new int[8];
         for (int i = 0; i < 8; ++i) {
-            nextMatch[i] = wikiText.indexOf(patterns[i], start);
-            if (nextMatch[i] == -1) nextMatch[i] = i > 0 ? 0x7fffffff : wikiText.length();
+            nextMatch[i] = -2;
         }
         while (end < wikiText.length()) {
             // Manual replacement for matcher.find(end),
             // because Java regexp is a ridiculously slow implementation.
             // Initialize to always match the end.
             int matchIdx = 0;
-            for (int i = 1; i < 8; ++i) {
+            for (int i = 0; i < 8; ++i) {
+                if (nextMatch[i] <= end) {
+                    nextMatch[i] = wikiText.indexOf(patterns[i], end);
+                    if (nextMatch[i] == -1) nextMatch[i] = i > 0 ? 0x7fffffff : wikiText.length();
+                }
                 if (nextMatch[i] < nextMatch[matchIdx]) {
                     matchIdx = i;
                 }
@@ -498,8 +501,6 @@ public final class WikiTokenizer {
             int matchStart = nextMatch[matchIdx];
             String matchText = patterns[matchIdx];
             int matchEnd = matchStart + matchText.length();
-            nextMatch[matchIdx] = wikiText.indexOf(patterns[matchIdx], matchEnd);
-            if (nextMatch[matchIdx] == -1) nextMatch[matchIdx] = matchIdx > 0 ? 0x7fffffff : wikiText.length();
             if (matchIdx == 0) {
                 matchText = "";
                 matchEnd = matchStart;
