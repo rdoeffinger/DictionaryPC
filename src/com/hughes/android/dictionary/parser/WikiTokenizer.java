@@ -527,14 +527,14 @@ public final class WikiTokenizer {
                 if (tokenStack.size() > 0) {
                     final String removed = tokenStack.remove(tokenStack.size() - 1);
                     if (removed.equals("{{") && !matchText.equals("}}")) {
-                        errors.add("Unmatched {{ error: " + wikiText.substring(start));
+                        errors.add("Unmatched {{ error: " + wikiText.substring(start, matchEnd));
                         return safeIndexOf(wikiText, start, "\n", "\n");
                     } else if (removed.equals("[[") && !matchText.equals("]]")) {
-                        errors.add("Unmatched [[ error: " + wikiText.substring(start));
+                        errors.add("Unmatched [[ error: " + wikiText.substring(start, matchEnd));
                         return safeIndexOf(wikiText, start, "\n", "\n");
                     }
                 } else {
-                    errors.add("Pop too many error: " + wikiText.substring(start).replace("\n", "\\\\n"));
+                    errors.add("Pop too many " + matchText + " error: " + wikiText.substring(start, matchEnd).replace("\n", "\\\\n"));
                     // If we were looking for a newline
                     return safeIndexOf(wikiText, start, "\n", "\n");
                 }
@@ -549,7 +549,7 @@ public final class WikiTokenizer {
                 // Do nothing.  These can match spuriously, and if it's not the thing
                 // we're looking for, keep on going.
             } else if (matchText.equals("<!--")) {
-                end = wikiText.indexOf("-->");
+                end = wikiText.indexOf("-->", matchStart);
                 if (end == -1) {
                     errors.add("Unmatched <!-- error: " + wikiText.substring(start));
                     return safeIndexOf(wikiText, start, "\n", "\n");
