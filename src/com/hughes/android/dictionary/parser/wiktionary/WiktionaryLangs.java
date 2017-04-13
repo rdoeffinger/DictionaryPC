@@ -46,6 +46,9 @@ public class WiktionaryLangs {
         isoCodeToEnWikiName.put("ET", "Estonian");
         isoCodeToEnWikiName.put("FI", "Finnish");
         isoCodeToEnWikiName.put("FR", "French");
+        // Note: must be before German since matcher
+        // simply takes first match instead of best.
+        isoCodeToEnWikiName.put("pdc", "Pennsylvania German");
         isoCodeToEnWikiName.put("DE", "German");
         isoCodeToEnWikiName.put("grc", "Ancient Greek");
         isoCodeToEnWikiName.put("EL", "Greek");
@@ -110,7 +113,6 @@ public class WiktionaryLangs {
         isoCodeToEnWikiName.put("GV", "Manx");
         isoCodeToEnWikiName.put("scn", "Sicilian");
         isoCodeToEnWikiName.put("cu", "Old Church Slavonic");
-        isoCodeToEnWikiName.put("pdc", "Pennsylvania German");
 
         // No longer exists in EN:
         // isoCodeToEnWikiName.put("BS", "Bosnian");
