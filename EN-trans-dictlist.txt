@@ -1,2 +1,3 @@
+ar Arabic tr Turkish
 es Spanish ca Catalan
 es Spanish pt Portuguese
