@@ -19,6 +19,7 @@ import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
+import java.util.HashSet;
 import java.util.regex.Pattern;
 
 import com.hughes.android.dictionary.engine.IndexBuilder;
@@ -37,6 +38,7 @@ public final class EnTranslationToTranslationParser extends AbstractWiktionaryPa
     PairEntry pairEntry = null;
     IndexedEntry indexedEntry = null;
     StringBuilder[] builders = null;
+    HashSet<Pair> allPairs = new HashSet<Pair>();
 
     public static final String NAME = "EnTranslationToTranslation";
 
@@ -143,8 +145,14 @@ public final class EnTranslationToTranslationParser extends AbstractWiktionaryPa
         final String lang1 = builders[0].toString();
         final String lang2 = builders[1].toString();
         if (lang1.length() > 0 && lang2.length() > 0) {
-            pairEntry.pairs.add(new Pair(lang1, lang2));
-            indexedEntry.isValid = true;
+            final Pair newPair = new Pair(lang1, lang2);
+            // brute-force approach to prevent adding duplicates
+            if (!allPairs.contains(newPair))
+            {
+                allPairs.add(newPair);
+                pairEntry.pairs.add(new Pair(lang1, lang2));
+                indexedEntry.isValid = true;
+            }
         }
 
         pairEntry = null;
