@@ -27,6 +27,7 @@ test "$lang" = "HAW" && lang=haw
 test "$lang" = "SCN" && lang=scn
 test "$lang" = "YUE" && lang=yue
 test "$lang" = "PDC" && lang=pdc
+test "$lang" = "NDS" && lang=nds
 test "$lang" = "CU" && lang=cu
 
 reverse_dicts=""

@@ -48,6 +48,7 @@ public class WiktionaryLangs {
         isoCodeToEnWikiName.put("FR", "French");
         // Note: must be before German since matcher
         // simply takes first match instead of best.
+        isoCodeToEnWikiName.put("nds", "Low German");
         isoCodeToEnWikiName.put("pdc", "Pennsylvania German");
         isoCodeToEnWikiName.put("DE", "German");
         isoCodeToEnWikiName.put("grc", "Ancient Greek");
@@ -141,6 +142,7 @@ public class WiktionaryLangs {
         // egrep -o '\{\{Wortart[^}]+\}\}' dewiktionary-pages-articles.xml | cut -d \| -f3 | sort | uniq -c | sort -nr
         isoCodeToWikiName = new LinkedHashMap<String, String>();
         wikiCodeToIsoCodeToWikiName.put("de", isoCodeToWikiName);
+        isoCodeToWikiName.put("nds", "Niederdeutsch");
         isoCodeToWikiName.put("DE", "Deutsch");
         isoCodeToWikiName.put("EN", "Englisch");
         isoCodeToWikiName.put("IT", "Italienisch");
