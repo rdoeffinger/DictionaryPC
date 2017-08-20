@@ -6,8 +6,8 @@ XERCES=/usr/share/java/xercesImpl.jar
 test -r "$XERCES" || XERCES=/usr/share/xerces-2/lib/xercesImpl.jar
 COMMONS=/usr/share/java/commons-lang3.jar
 test -r "$COMMONS" || COMMONS=/usr/share/commons-lang-3.3/lib/commons-lang.jar
-if [ ! -x ../Util -o ! -x ../Dictionary ] ; then
-    echo "You need to clone Util and Dictionary repositories into .."
+if [ ! -x ../Dictionary ] ; then
+    echo "You need to clone the Dictionary repository (including subprojects) into .."
     exit 1
 fi
 if [ ! -r "$ICU4J" ] ; then
@@ -26,4 +26,4 @@ if [ ! -r "$COMMONS" ] ; then
     echo "commons-lang needs to be installed"
     exit 1;
 fi
-javac -g ../Util/src/com/hughes/util/*.java ../Util/src/com/hughes/util/raf/*.java ../Dictionary/src/com/hughes/android/dictionary/DictionaryInfo.java ../Dictionary/src/com/hughes/android/dictionary/engine/*.java ../Dictionary/src/com/hughes/android/dictionary/C.java src/com/hughes/android/dictionary/*.java src/com/hughes/android/dictionary/*/*.java src/com/hughes/android/dictionary/*/*/*.java -classpath "$ICU4J:$JUNIT:$XERCES:$COMMONS"
+javac -g ../Dictionary/Util/src/com/hughes/util/*.java ../Dictionary/Util/src/com/hughes/util/raf/*.java ../Dictionary/src/com/hughes/android/dictionary/DictionaryInfo.java ../Dictionary/src/com/hughes/android/dictionary/engine/*.java ../Dictionary/src/com/hughes/android/dictionary/C.java src/com/hughes/android/dictionary/*.java src/com/hughes/android/dictionary/*/*.java src/com/hughes/android/dictionary/*/*/*.java -classpath "$ICU4J:$JUNIT:$XERCES:$COMMONS"

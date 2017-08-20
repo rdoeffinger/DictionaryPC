@@ -352,7 +352,7 @@ public class DictionaryBuilderTest extends TestCase {
         assertFilesEqual(GOLDENS + dictName + ".text", dictFile.getPath() + ".text");
 
         // Check it again.
-        final Dictionary dict = new Dictionary(new RandomAccessFile(dictFile.getAbsolutePath(), "r"));
+        final Dictionary dict = new Dictionary(new RandomAccessFile(dictFile.getAbsolutePath(), "r").getChannel());
         final PrintStream out = new PrintStream(new File(dictFile.getPath() + ".text"));
         dict.print(out);
         out.close();

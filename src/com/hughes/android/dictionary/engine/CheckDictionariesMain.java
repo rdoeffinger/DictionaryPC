@@ -36,7 +36,7 @@ public class CheckDictionariesMain {
 
 
             final RandomAccessFile raf = new RandomAccessFile(dictFile, "r");
-            final Dictionary dict = new Dictionary(raf);
+            final Dictionary dict = new Dictionary(raf.getChannel());
 
             final DictionaryInfo dictionaryInfo = dict.getDictionaryInfo();
 

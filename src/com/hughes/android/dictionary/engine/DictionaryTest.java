@@ -48,7 +48,7 @@ public class DictionaryTest extends TestCase {
 
     public void testEnItWiktionary() throws IOException {
         final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "EN-IT.quickdic", "r");
-        final Dictionary dict = new Dictionary(raf);
+        final Dictionary dict = new Dictionary(raf.getChannel());
         final Index enIndex = dict.indices.get(0);
 
         final RowBase row = enIndex.rows.get(4);
@@ -99,7 +99,7 @@ public class DictionaryTest extends TestCase {
 
     public void testDeEnWiktionary() throws IOException {
         final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "DE-EN.quickdic", "r");
-        final Dictionary dict = new Dictionary(raf);
+        final Dictionary dict = new Dictionary(raf.getChannel());
 
         final Index deIndex = dict.indices.get(0);
 
@@ -115,7 +115,7 @@ public class DictionaryTest extends TestCase {
 
     public void testGermanMetadata() throws IOException {
         final RandomAccessFile raf = new RandomAccessFile(TEST_OUTPUTS + "de-en.quickdic", "r");
-        final Dictionary dict = new Dictionary(raf);
+        final Dictionary dict = new Dictionary(raf.getChannel());
         final Index deIndex = dict.indices.get(0);
 
         assertEquals("DE", deIndex.shortName);
@@ -133,7 +133,7 @@ public class DictionaryTest extends TestCase {
 
     public void testGermanIndex() throws IOException {
         final RandomAccessFile raf = new RandomAccessFile(TEST_OUTPUTS + "de-en.quickdic", "r");
-        final Dictionary dict = new Dictionary(raf);
+        final Dictionary dict = new Dictionary(raf.getChannel());
         final Index deIndex = dict.indices.get(0);
 
         for (final Index.IndexEntry indexEntry : deIndex.sortedIndexEntries) {
@@ -183,7 +183,7 @@ public class DictionaryTest extends TestCase {
 
     public void testGermanTokenRows() throws IOException {
         final RandomAccessFile raf = new RandomAccessFile(TEST_OUTPUTS + "de-en.quickdic", "r");
-        final Dictionary dict = new Dictionary(raf);
+        final Dictionary dict = new Dictionary(raf.getChannel());
         final Index deIndex = dict.indices.get(0);
 
         // Pre-cache a few of these, just to make sure that's working.
@@ -214,7 +214,7 @@ public class DictionaryTest extends TestCase {
 
     public void testChemnitz() throws IOException {
         final RandomAccessFile raf = new RandomAccessFile(TEST_OUTPUTS + "de-en.quickdic", "r");
-        final Dictionary dict = new Dictionary(raf);
+        final Dictionary dict = new Dictionary(raf.getChannel());
         final Index deIndex = dict.indices.get(0);
 
         assertSearchResult("Höschen", "Hos", deIndex.findInsertionPoint("Hos", new AtomicBoolean(false)));
@@ -225,7 +225,7 @@ public class DictionaryTest extends TestCase {
 
     public void testMultiSearch() throws IOException {
         final RandomAccessFile raf = new RandomAccessFile(TEST_OUTPUTS + "de-en.quickdic", "r");
-        final Dictionary dict = new Dictionary(raf);
+        final Dictionary dict = new Dictionary(raf.getChannel());
         final Index deIndex = dict.indices.get(0);
 
         {
@@ -239,7 +239,7 @@ public class DictionaryTest extends TestCase {
 
     public void testMultiSearchIt() throws IOException {
         final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "IT.quickdic", "r");
-        final Dictionary dict = new Dictionary(raf);
+        final Dictionary dict = new Dictionary(raf.getChannel());
         final Index index = dict.indices.get(0);
 
         {
@@ -253,7 +253,7 @@ public class DictionaryTest extends TestCase {
 
     public void testMultiSearchDeBig() throws IOException {
         final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "DE-EN.quickdic", "r");
-        final Dictionary dict = new Dictionary(raf);
+        final Dictionary dict = new Dictionary(raf.getChannel());
         final Index enIndex = dict.indices.get(1);
 
         {
@@ -314,7 +314,7 @@ public class DictionaryTest extends TestCase {
 
     public void testMultiSearchBigAF() throws IOException {
         final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "AF-EN.quickdic", "r");
-        final Dictionary dict = new Dictionary(raf);
+        final Dictionary dict = new Dictionary(raf.getChannel());
         final Index enIndex = dict.indices.get(1);
 
         {
@@ -352,7 +352,7 @@ public class DictionaryTest extends TestCase {
 
     public void testExactSearch() throws IOException {
         final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "EN-cmn.quickdic", "r");
-        final Dictionary dict = new Dictionary(raf);
+        final Dictionary dict = new Dictionary(raf.getChannel());
         final Index cmnIndex = dict.indices.get(1);
 
         final Random random = new Random(10);
@@ -371,7 +371,7 @@ public class DictionaryTest extends TestCase {
 
     public void testThai() throws IOException {
         final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "EN-TH.quickdic", "r");
-        final Dictionary dict = new Dictionary(raf);
+        final Dictionary dict = new Dictionary(raf.getChannel());
         final Index thIndex = dict.indices.get(1);
 
         final IndexEntry entry = thIndex.findInsertionPoint("ดี", new AtomicBoolean(false));
@@ -382,7 +382,7 @@ public class DictionaryTest extends TestCase {
 
     public void testNorwegian() throws IOException {
         final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "EN-NL.quickdic", "r");
-        final Dictionary dict = new Dictionary(raf);
+        final Dictionary dict = new Dictionary(raf.getChannel());
         final Index nlIndex = dict.indices.get(1);
 
         IndexEntry entry = nlIndex.findInsertionPoint("Xhosa", new AtomicBoolean(false));
