@@ -10,6 +10,7 @@ la Latein
 nl Niederländisch
 pl Polnisch
 pt Portugiesisch
+ro Rumänisch
 ru Russisch
 sv Schwedisch
 cmn Mandarin

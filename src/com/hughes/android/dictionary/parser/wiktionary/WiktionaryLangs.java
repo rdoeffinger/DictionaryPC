@@ -155,6 +155,7 @@ public class WiktionaryLangs {
         isoCodeToWikiName.put("HU", "Ungarisch");
         isoCodeToWikiName.put("SV", "Schwedisch");
         isoCodeToWikiName.put("ES", "Spanisch");
+        isoCodeToWikiName.put("RO", "Rumänisch");
 
         // egrep -o '== *\{\{langue\|[a-zA-Z]+\}\} *==' frwiktionary-pages-articles.xml | sort | uniq -c | sort -nr
         isoCodeToWikiName = new LinkedHashMap<String, String>();
