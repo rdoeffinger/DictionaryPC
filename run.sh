@@ -7,4 +7,4 @@ COMMONS=/usr/share/java/commons-lang3.jar
 test -r "$COMMONS" || COMMONS=/usr/share/commons-lang-3.3/lib/commons-lang.jar
 JAVA=/usr/lib/jvm/java-8-openjdk-amd64/jre/bin/java
 test -x "$JAVA" || JAVA=java
-"$JAVA" -Djava.util.logging.config.file="logging.properties" -Xmx4096m -classpath src:../Util/src/:../Dictionary/src/:"$ICU4J":"$XERCES":"$COMMONS" com.hughes.android.dictionary.engine.DictionaryBuilder "$@"
+"$JAVA" -Djava.util.logging.config.file="logging.properties" -Xmx4096m -classpath src:../Dictionary/Util/src/:../Dictionary/src/:"$ICU4J":"$XERCES":"$COMMONS" com.hughes.android.dictionary.engine.DictionaryBuilder "$@"
