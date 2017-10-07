@@ -14,10 +14,13 @@
 
 package com.hughes.android.dictionary.engine;
 
+import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
 import java.io.DataOutputStream;
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileOutputStream;
+import java.io.InputStream;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
@@ -30,6 +33,7 @@ import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.parsers.SAXParser;
 
 import org.apache.xerces.jaxp.SAXParserFactoryImpl;
+import org.apache.commons.compress.compressors.CompressorStreamFactory;
 import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 
@@ -83,7 +87,17 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
 
             // Do it.
             try {
-                parser.parse(new File(pathToSelectorsEntry.getKey()), this);
+                File input = new File(pathToSelectorsEntry.getKey() + ".bz2");
+                if (!input.exists()) input = new File(pathToSelectorsEntry.getKey() + ".gz");
+                if (!input.exists()) input = new File(pathToSelectorsEntry.getKey() + ".xz");
+                if (!input.exists()) {
+                    // Fallback to uncompressed file
+                    parser.parse(new File(pathToSelectorsEntry.getKey()), this);
+                } else {
+                    InputStream compressedIn = new BufferedInputStream(new FileInputStream(input));
+                    InputStream in = new CompressorStreamFactory().createCompressorInputStream(compressedIn);
+                    parser.parse(new BufferedInputStream(in), this);
+                }
             } catch (Exception e) {
                 System.err.println("Exception during parse, lastPageTitle=" + lastPageTitle + ", titleBuilder=" + titleBuilder.toString());
                 throw e;
