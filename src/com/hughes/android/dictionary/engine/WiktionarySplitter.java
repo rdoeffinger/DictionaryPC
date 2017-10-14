@@ -96,6 +96,7 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
                 } else {
                     InputStream compressedIn = new BufferedInputStream(new FileInputStream(input));
                     InputStream in = new CompressorStreamFactory().createCompressorInputStream(compressedIn);
+                    in = new ReadAheadBuffer(in, 20 * 1024 * 1024);
                     parser.parse(new BufferedInputStream(in), this);
                 }
             } catch (Exception e) {
