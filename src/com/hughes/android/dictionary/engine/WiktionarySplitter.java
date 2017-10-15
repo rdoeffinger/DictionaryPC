@@ -22,6 +22,7 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.InputStream;
 import java.io.IOException;
+import java.io.OutputStream;
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
 import java.util.List;
@@ -82,7 +83,9 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
             currentSelectors = pathToSelectorsEntry.getValue();
 
             for (final Selector selector : currentSelectors) {
-                selector.out = new DataOutputStream(new BufferedOutputStream(new FileOutputStream(selector.outFilename)));
+                OutputStream tmp = new FileOutputStream(selector.outFilename);
+                tmp = new WriteBuffer(tmp, 20 * 1024 * 1024);
+                selector.out = new DataOutputStream(tmp);
             }
 
             // Do it.
