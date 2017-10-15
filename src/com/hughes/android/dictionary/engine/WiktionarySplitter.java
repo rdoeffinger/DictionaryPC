@@ -130,10 +130,12 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
     private void endPage() {
         final String title = titleBuilder.toString();
         lastPageTitle = title;
-        if (++pageCount % 1000 == 0) {
+        if (++pageCount % 100000 == 0) {
             System.out.println("endPage: " + title + ", count=" + pageCount);
         }
-        if (title.startsWith("Wiktionary:") ||
+        if (title.startsWith("Unsupported titles/")) return;
+        if (title.contains(":")) {
+            if (title.startsWith("Wiktionary:") ||
                 title.startsWith("Appendix:") ||
                 title.startsWith("Help:") ||
                 title.startsWith("Index:") ||
@@ -144,7 +146,6 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
                 title.startsWith("Rhymes:") ||
                 title.startsWith("Category:") ||
                 title.startsWith("Wikisaurus:") ||
-                title.startsWith("Unsupported titles/") ||
                 title.startsWith("Transwiki:") ||
                 title.startsWith("File:") ||
                 title.startsWith("Thread:") ||
@@ -188,10 +189,7 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
 
                 // sentinel
                 false
-           ) {
-            return;
-        }
-        if (title.contains(":")) {
+               ) return;
             if (!title.startsWith("Sign gloss:")) {
                 System.err.println("title with colon: " + title);
             }
