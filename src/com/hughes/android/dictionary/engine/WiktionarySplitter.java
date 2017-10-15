@@ -199,14 +199,15 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
 
         String text = textBuilder.toString();
         String translingual = "";
+        int start = 0;
+        final Matcher startMatcher = headingStart.matcher(text);
 
-        while (text.length() > 0) {
+        while (start < text.length()) {
             // Find start.
-            final Matcher startMatcher = headingStart.matcher(text);
-            if (!startMatcher.find()) {
+            if (!startMatcher.find(start)) {
                 return;
             }
-            text = text.substring(startMatcher.end());
+            start = startMatcher.end();
 
             final String heading = startMatcher.group();
 
@@ -218,10 +219,10 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
                 final Pattern endPattern = getEndPattern(depth);
 
                 final Matcher endMatcher = endPattern.matcher(text);
-                if (endMatcher.find()) {
+                if (endMatcher.find(start)) {
                     int end = endMatcher.start();
-                    translingual = text.substring(0, endMatcher.start());
-                    text = text.substring(end);
+                    translingual = text.substring(start, end);
+                    start = end;
                     continue;
                 }
             }
@@ -234,13 +235,13 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
 
                     final Matcher endMatcher = endPattern.matcher(text);
                     final int end;
-                    if (endMatcher.find()) {
+                    if (endMatcher.find(start)) {
                         end = endMatcher.start();
                     } else {
                         end = text.length();
                     }
 
-                    String sectionText = text.substring(0, end);
+                    String sectionText = text.substring(start, end);
                     // Hack to remove empty dummy section from French
                     if (sectionText.startsWith("\n=== {{S|étymologie}} ===\n: {{ébauche-étym")) {
                         int dummy_end = sectionText.indexOf("}}", 41) + 2;
@@ -262,7 +263,7 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
                         throw new RuntimeException(e);
                     }
 
-                    text = text.substring(end);
+                    start = end;
                     break;
                 }
             }
