@@ -114,6 +114,14 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
 
     String lastPageTitle = null;
     int pageCount = 0;
+    Pattern endPatterns[] = new Pattern[100];
+
+    private Pattern getEndPattern(int depth) {
+        if (endPatterns[depth] == null)
+            endPatterns[depth] = Pattern.compile(String.format("^={1,%d}[^=].*$", depth), Pattern.MULTILINE);
+        return endPatterns[depth];
+    }
+
     private void endPage() {
         final String title = titleBuilder.toString();
         lastPageTitle = title;
@@ -200,7 +208,7 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
                 if (heading.indexOf("Translingual") != -1) {
                     // Find end.
                     final int depth = startMatcher.group(1).length();
-                    final Pattern endPattern = Pattern.compile(String.format("^={1,%d}[^=].*$", depth), Pattern.MULTILINE);
+                    final Pattern endPattern = getEndPattern(depth);
 
                     final Matcher endMatcher = endPattern.matcher(text);
                     if (endMatcher.find()) {
@@ -214,7 +222,7 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
 
                     // Find end.
                     final int depth = startMatcher.group(1).length();
-                    final Pattern endPattern = Pattern.compile(String.format("^={1,%d}[^=].*$", depth), Pattern.MULTILINE);
+                    final Pattern endPattern = getEndPattern(depth);
 
                     final Matcher endMatcher = endPattern.matcher(text);
                     final int end;
