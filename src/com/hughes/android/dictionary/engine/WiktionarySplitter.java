@@ -209,22 +209,25 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
             text = text.substring(startMatcher.end());
 
             final String heading = startMatcher.group();
-            for (final Selector selector : currentSelectors) {
-                if (heading.indexOf("Translingual") != -1) {
-                    // Find end.
-                    final int depth = startMatcher.group(1).length();
-                    final Pattern endPattern = getEndPattern(depth);
 
-                    final Matcher endMatcher = endPattern.matcher(text);
-                    if (endMatcher.find()) {
-                        int end = endMatcher.start();
-                        translingual = text.substring(0, endMatcher.start());
-                        text = text.substring(end);
-                        break;
-                    }
+            // For Translingual entries just store the text for later
+            // use in the per-language sections
+            if (heading.indexOf("Translingual") != -1) {
+                // Find end.
+                final int depth = startMatcher.group(1).length();
+                final Pattern endPattern = getEndPattern(depth);
+
+                final Matcher endMatcher = endPattern.matcher(text);
+                if (endMatcher.find()) {
+                    int end = endMatcher.start();
+                    translingual = text.substring(0, endMatcher.start());
+                    text = text.substring(end);
+                    continue;
                 }
-                if (selector.pattern.matcher(heading).find()) {
+            }
 
+            for (final Selector selector : currentSelectors) {
+                if (selector.pattern.matcher(heading).find()) {
                     // Find end.
                     final int depth = startMatcher.group(1).length();
                     final Pattern endPattern = getEndPattern(depth);
