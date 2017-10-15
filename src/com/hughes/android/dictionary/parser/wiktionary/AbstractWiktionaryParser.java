@@ -19,6 +19,7 @@ import java.io.DataInputStream;
 import java.io.EOFException;
 import java.io.File;
 import java.io.FileInputStream;
+import java.io.InputStream;
 import java.io.IOException;
 import java.util.LinkedHashMap;
 import java.util.LinkedHashSet;
@@ -32,10 +33,14 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.regex.Pattern;
 
+import org.apache.commons.compress.compressors.CompressorStreamFactory;
+import org.apache.commons.compress.compressors.CompressorException;
+
 import com.hughes.android.dictionary.engine.EntrySource;
 import com.hughes.android.dictionary.engine.EntryTypeName;
 import com.hughes.android.dictionary.engine.IndexBuilder;
 import com.hughes.android.dictionary.engine.IndexedEntry;
+import com.hughes.android.dictionary.engine.ReadAheadBuffer;
 import com.hughes.android.dictionary.parser.Parser;
 import com.hughes.android.dictionary.parser.WikiTokenizer;
 import com.hughes.util.EnumUtil;
@@ -59,7 +64,23 @@ public abstract class AbstractWiktionaryParser implements Parser {
     public void parse(final File file, final EntrySource entrySource, final int pageLimit) throws IOException {
         this.entrySource = entrySource;
         int pageCount = 0;
-        final DataInputStream dis = new DataInputStream(new BufferedInputStream(new FileInputStream(file)));
+        File input = new File(file.getPath() + ".bz2");
+        if (!input.exists()) input = new File(file.getPath() + ".gz");
+        if (!input.exists()) input = new File(file.getPath() + ".xz");
+	DataInputStream dis;
+        if (!input.exists()) {
+            // Fallback to uncompressed file
+            dis = new DataInputStream(new BufferedInputStream(new FileInputStream(file)));
+        } else {
+            InputStream compressedIn = new BufferedInputStream(new FileInputStream(input));
+            try {
+                InputStream in = new CompressorStreamFactory().createCompressorInputStream(compressedIn);
+                in = new ReadAheadBuffer(in, 20 * 1024 * 1024);
+                dis = new DataInputStream(in);
+            } catch (CompressorException e) {
+                throw new IOException(e);
+            }
+        }
         try {
             while (true) {
                 if (pageLimit >= 0 && pageCount >= pageLimit) {
