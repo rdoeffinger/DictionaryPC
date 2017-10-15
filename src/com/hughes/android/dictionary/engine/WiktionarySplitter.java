@@ -83,7 +83,9 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
             currentSelectors = pathToSelectorsEntry.getValue();
 
             for (final Selector selector : currentSelectors) {
-                OutputStream tmp = new FileOutputStream(selector.outFilename);
+                OutputStream tmp = new FileOutputStream(selector.outFilename + ".gz");
+                tmp = new BufferedOutputStream(tmp);
+                tmp = new CompressorStreamFactory().createCompressorOutputStream(CompressorStreamFactory.GZIP, tmp);
                 tmp = new WriteBuffer(tmp, 20 * 1024 * 1024);
                 selector.out = new DataOutputStream(tmp);
             }
