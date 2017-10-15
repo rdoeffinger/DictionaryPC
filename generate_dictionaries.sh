@@ -1,16 +1,16 @@
 #!/bin/sh
 DE_DICTS=true
-DE_DICTS=false
+#DE_DICTS=false
 EN_DICTS=true
-EN_DICTS=false
+#EN_DICTS=false
 FR_DICTS=true
-FR_DICTS=false
+#FR_DICTS=false
 IT_DICTS=true
-IT_DICTS=false
+#IT_DICTS=false
 EN_TRANS_DICTS=true
-EN_TRANS_DICTS=false
+#EN_TRANS_DICTS=false
 SINGLE_DICTS="en de fr it es pt"
-SINGLE_DICTS="en"
+#SINGLE_DICTS=""
 
 VERSION=v007
 
