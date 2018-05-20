@@ -204,6 +204,7 @@ public class WiktionaryLangs {
         // egrep -o '== *\{\{lengua\|[a-zA-Z]+\}\} *==' frwiktionary-pages-articles.xml | sort | uniq -c | sort -nr
         isoCodeToWikiName = new LinkedHashMap<String, String>();
         wikiCodeToIsoCodeToWikiName.put("es", isoCodeToWikiName);
+        isoCodeToWikiName.put("AR", Pattern.quote("{{lengua|ar}}"));
         isoCodeToWikiName.put("ES", Pattern.quote("{{lengua|es}}"));
         isoCodeToWikiName.put("EN", Pattern.quote("{{lengua|en}}"));
         isoCodeToWikiName.put("FR", Pattern.quote("{{lengua|fr}}"));
