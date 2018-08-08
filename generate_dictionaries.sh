@@ -29,6 +29,7 @@ test "$lang" = "YUE" && lang=yue
 test "$lang" = "PDC" && lang=pdc
 test "$lang" = "NDS" && lang=nds
 test "$lang" = "CU" && lang=cu
+test "$lang" = "ROM" && lang=rom
 
 reverse_dicts=""
 if test "$lang" = "DE" -o "$lang" = "FR" -o "$lang" = "IT" ; then

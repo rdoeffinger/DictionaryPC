@@ -114,6 +114,7 @@ public class WiktionaryLangs {
         isoCodeToEnWikiName.put("GV", "Manx");
         isoCodeToEnWikiName.put("scn", "Sicilian");
         isoCodeToEnWikiName.put("cu", "Old Church Slavonic");
+        isoCodeToEnWikiName.put("rom", "Romani");
 
         // No longer exists in EN:
         // isoCodeToEnWikiName.put("BS", "Bosnian");

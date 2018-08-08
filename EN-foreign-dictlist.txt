@@ -54,6 +54,7 @@ pa Punjabi
 pl Polish
 pt Portuguese
 ro Romanian
+rom Romani
 ru Russian
 sa Sanskrit
 sh Serbo-Croatian

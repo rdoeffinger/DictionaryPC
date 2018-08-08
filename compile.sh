@@ -6,7 +6,7 @@ XERCES=/usr/share/java/xercesImpl.jar
 test -r "$XERCES" || XERCES=/usr/share/xerces-2/lib/xercesImpl.jar
 COMMONS=/usr/share/java/commons-lang3.jar
 test -r "$COMMONS" || COMMONS=/usr/share/commons-lang-3.3/lib/commons-lang.jar
-COMMONS_COMPRESS=/usr/share/java/commons-compress-1.13.jar
+COMMONS_COMPRESS=/usr/share/java/commons-compress.jar
 if [ ! -x ../Dictionary ] ; then
     echo "You need to clone the Dictionary repository (including subprojects) into .."
     exit 1
