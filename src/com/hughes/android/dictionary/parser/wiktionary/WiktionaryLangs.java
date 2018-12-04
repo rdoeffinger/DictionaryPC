@@ -165,6 +165,7 @@ public class WiktionaryLangs {
         isoCodeToWikiName.put("RU", Pattern.quote("{{langue|ru}}"));
         isoCodeToWikiName.put("AR", Pattern.quote("{{langue|ar}}"));  // Arabic
         isoCodeToWikiName.put("BG", Pattern.quote("{{langue|bg}}"));  // Bulgarian
+        isoCodeToWikiName.put("EL", Pattern.quote("{{langue|el}}"));
         isoCodeToWikiName.put("EN", Pattern.quote("{{langue|en}}"));
         //isoCodeToWikiName.put("", Pattern.quote("{{langue|sl}}"));
         isoCodeToWikiName.put("LA", Pattern.quote("{{langue|la}}"));

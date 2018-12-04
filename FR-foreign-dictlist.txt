@@ -1,6 +1,7 @@
 ar arabe
 bg bulgare
 cs tchèque
+el grec
 eo espéranto
 es espangol
 is islandais

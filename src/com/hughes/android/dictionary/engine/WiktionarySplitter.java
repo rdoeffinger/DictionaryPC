@@ -105,7 +105,7 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
                     parser.parse(new BufferedInputStream(in), this);
                 }
             } catch (Exception e) {
-                System.err.println("Exception during parse, lastPageTitle=" + lastPageTitle + ", titleBuilder=" + titleBuilder.toString());
+                System.err.println("Exception during parse, lastPageTitle=" + lastPageTitle + ", titleBuilder=" + titleBuilder.toString() + " of file " + pathToSelectorsEntry.getKey());
                 throw e;
             }
 
