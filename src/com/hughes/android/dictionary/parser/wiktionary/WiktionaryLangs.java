@@ -135,10 +135,10 @@ public class WiktionaryLangs {
 
     public static final Map<String,Map<String,String>> wikiCodeToIsoCodeToWikiName = new LinkedHashMap<String, Map<String,String>>();
     static {
+        Map<String,String> isoCodeToWikiName;
+
         // en
         wikiCodeToIsoCodeToWikiName.put("en", isoCodeToEnWikiName);
-
-        Map<String,String> isoCodeToWikiName;
 
         // egrep -o '\{\{Wortart[^}]+\}\}' dewiktionary-pages-articles.xml | cut -d \| -f3 | sort | uniq -c | sort -nr
         isoCodeToWikiName = new LinkedHashMap<String, String>();

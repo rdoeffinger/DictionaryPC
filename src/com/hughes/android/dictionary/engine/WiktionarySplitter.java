@@ -205,8 +205,8 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
         }
 
         String text = textBuilder.toString();
-        // Workaround for Spanish wiktionary {{ES}} pattern
-        text = text.replace("{{ES}}", "== {{lengua|es}} ==");
+        // Workaround for Spanish wiktionary {{ES}} and {{ES|word}} patterns
+        text = text.replaceAll("\\{\\{ES(\\|[^{}=]*)?}}", "== {{lengua|es}} ==");
         String translingual = "";
         int start = 0;
         final Matcher startMatcher = headingStart.matcher(text);
