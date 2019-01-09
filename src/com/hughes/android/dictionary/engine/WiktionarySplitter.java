@@ -187,6 +187,15 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
                 title.startsWith("Plantilla:") ||
                 title.startsWith("Wikcionario:") ||
 
+                // PT
+                title.startsWith("Ajuda:") ||
+                title.startsWith("Apêndice:") ||
+                title.startsWith("Citações:") ||
+                title.startsWith("Portal:") ||
+                title.startsWith("Predefinição:") ||
+                title.startsWith("Vocabulário:") ||
+                title.startsWith("Wikcionário:") ||
+
                 // sentinel
                 false
                ) return;
@@ -196,6 +205,8 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
         }
 
         String text = textBuilder.toString();
+        // Workaround for Spanish wiktionary {{ES}} pattern
+        text = text.replace("{{ES}}", "== {{lengua|es}} ==");
         String translingual = "";
         int start = 0;
         final Matcher startMatcher = headingStart.matcher(text);
