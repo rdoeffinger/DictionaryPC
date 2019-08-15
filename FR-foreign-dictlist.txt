@@ -11,5 +11,6 @@ la latin
 nl néerlandais
 pt portugais
 ru russe
+sv suédois
 uk ukrainien
 zh chinois
