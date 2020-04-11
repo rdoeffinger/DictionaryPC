@@ -31,4 +31,6 @@ if [ ! -r "$COMMONS_COMPRESS" ] ; then
     echo "commons-compress needs to be installed"
     exit 1;
 fi
-javac -g ../Dictionary/Util/src/com/hughes/util/*.java ../Dictionary/Util/src/com/hughes/util/raf/*.java ../Dictionary/src/com/hughes/android/dictionary/DictionaryInfo.java ../Dictionary/src/com/hughes/android/dictionary/engine/*.java ../Dictionary/src/com/hughes/android/dictionary/C.java src/com/hughes/util/*.java src/com/hughes/android/dictionary/*.java src/com/hughes/android/dictionary/*/*.java src/com/hughes/android/dictionary/*/*/*.java -classpath "$ICU4J:$JUNIT:$XERCES:$COMMONS:$COMMONS_COMPRESS"
+# -encoding is just a work around for user that still run systems
+# with non-UTF8 locales
+javac -encoding UTF-8 -g ../Dictionary/Util/src/com/hughes/util/*.java ../Dictionary/Util/src/com/hughes/util/raf/*.java ../Dictionary/src/com/hughes/android/dictionary/DictionaryInfo.java ../Dictionary/src/com/hughes/android/dictionary/engine/*.java ../Dictionary/src/com/hughes/android/dictionary/C.java src/com/hughes/util/*.java src/com/hughes/android/dictionary/*.java src/com/hughes/android/dictionary/*/*.java src/com/hughes/android/dictionary/*/*/*.java -classpath "$ICU4J:$JUNIT:$XERCES:$COMMONS:$COMMONS_COMPRESS"
