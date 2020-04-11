@@ -152,6 +152,7 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
                 title.startsWith("Template:") ||
                 title.startsWith("Summary:") ||
                 title.startsWith("Module:") ||
+                title.startsWith("Reconstruction:") ||
                 // DE
                 title.startsWith("Datei:") ||
                 title.startsWith("Verzeichnis:") ||
@@ -160,6 +161,7 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
                 title.startsWith("Kategorie:") ||
                 title.startsWith("Hilfe:") ||
                 title.startsWith("Reim:") ||
+                title.startsWith("Modul:") ||
                 // FR:
                 title.startsWith("Annexe:") ||
                 title.startsWith("Catégori:") ||
@@ -169,16 +171,20 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
                 title.startsWith("Aide:") ||
                 title.startsWith("Fichier:") ||
                 title.startsWith("Wiktionnaire:") ||
+                title.startsWith("Translations:Wiktionnaire:") ||
+                title.startsWith("Translations:Projet:") ||
                 title.startsWith("Catégorie:") ||
                 title.startsWith("Portail:") ||
                 title.startsWith("utiliusateur:") ||
                 title.startsWith("Kategorio:") ||
+                title.startsWith("Tutoriel:") ||
                 // IT
                 title.startsWith("Wikizionario:") ||
                 title.startsWith("Appendice:") ||
                 title.startsWith("Categoria:") ||
                 title.startsWith("Aiuto:") ||
                 title.startsWith("Portail:") ||
+                title.startsWith("Modulo:") ||
                 // ES
                 title.startsWith("Apéndice:") ||
                 title.startsWith("Archivo:") ||
@@ -195,11 +201,13 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
                 title.startsWith("Predefinição:") ||
                 title.startsWith("Vocabulário:") ||
                 title.startsWith("Wikcionário:") ||
+                title.startsWith("Módulo:") ||
 
                 // sentinel
                 false
                ) return;
-            if (!title.startsWith("Sign gloss:")) {
+            // leave the Flexion: pages in for now and do not warn about them
+            if (!title.startsWith("Sign gloss:") && !title.startsWith("Flexion:")) {
                 System.err.println("title with colon: " + title);
             }
         }
