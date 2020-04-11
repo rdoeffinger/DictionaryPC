@@ -9,7 +9,7 @@ import com.hughes.android.dictionary.engine.IndexedEntry;
 import com.hughes.android.dictionary.parser.WikiTokenizer;
 import com.hughes.util.StringUtil;
 
-import org.apache.commons.lang3.StringEscapeUtils;
+import org.apache.commons.text.StringEscapeUtils;
 
 import java.net.URI;
 import java.util.ArrayList;
