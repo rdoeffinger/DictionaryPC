@@ -31,6 +31,7 @@ import java.util.TreeMap;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import org.apache.commons.compress.compressors.CompressorStreamFactory;
@@ -49,6 +50,8 @@ public abstract class AbstractWiktionaryParser implements Parser {
 
     static final Logger LOG = Logger.getLogger("WiktionaryParser");
 
+    private static final Pattern SUPERSCRIPT = Pattern.compile("<sup>[0-9]*</sup>");
+
     final SortedMap<String, AtomicInteger> counters = new TreeMap<String, AtomicInteger>();
     final Set<String> pairsAdded = new LinkedHashSet<String>();
 
@@ -60,6 +63,34 @@ public abstract class AbstractWiktionaryParser implements Parser {
 
     abstract void removeUselessArgs(final Map<String, String> namedArgs);
 
+    private static String replaceSuperscript(String in) {
+        Matcher matcher;
+        while ((matcher = SUPERSCRIPT.matcher(in)).find()) {
+            String replace = "";
+            String orig = matcher.group();
+            for (int i = 5; i < orig.length() - 6; i++)
+            {
+                char c = 0;
+                switch (orig.charAt(i)) {
+                case '0': c = '\u2070'; break;
+                case '1': c = '\u00b9'; break;
+                case '2': c = '\u00b2'; break;
+                case '3': c = '\u00b3'; break;
+                case '4': c = '\u2074'; break;
+                case '5': c = '\u2075'; break;
+                case '6': c = '\u2076'; break;
+                case '7': c = '\u2077'; break;
+                case '8': c = '\u2078'; break;
+                case '9': c = '\u2079'; break;
+                }
+                if (c == 0) throw new RuntimeException();
+                replace += c;
+            }
+            in = matcher.replaceFirst(replace);
+        }
+        return in;
+    }
+
     @Override
     public void parse(final File file, final EntrySource entrySource, final int pageLimit) throws IOException {
         this.entrySource = entrySource;
@@ -67,7 +98,7 @@ public abstract class AbstractWiktionaryParser implements Parser {
         File input = new File(file.getPath() + ".bz2");
         if (!input.exists()) input = new File(file.getPath() + ".gz");
         if (!input.exists()) input = new File(file.getPath() + ".xz");
-	DataInputStream dis;
+        DataInputStream dis;
         if (!input.exists()) {
             // Fallback to uncompressed file
             dis = new DataInputStream(new BufferedInputStream(new FileInputStream(file)));
@@ -100,7 +131,7 @@ public abstract class AbstractWiktionaryParser implements Parser {
                 dis.readFully(bytes);
                 final String text = new String(bytes, "UTF8");
 
-                parseSection(heading, text);
+                parseSection(heading, replaceSuperscript(text));
 
                 ++pageCount;
                 if (pageCount % 1000 == 0) {
