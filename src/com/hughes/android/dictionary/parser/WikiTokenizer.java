@@ -338,7 +338,7 @@ public final class WikiTokenizer {
             }
 
             // Eat a newline if we're looking at one:
-            final boolean atNewline = wikiText.charAt(end) == '\n' || wikiText.charAt(end) == '\u2028';
+            final boolean atNewline = wikiText.charAt(end) == '\n' || wikiText.charAt(end) == '\u2028' || wikiText.charAt(end) == '\u2029';
             if (atNewline) {
                 justReturnedNewline = true;
                 ++end;
@@ -448,8 +448,11 @@ public final class WikiTokenizer {
                 end = this.matcher.start(1);
                 isPlainText = true;
                 if (end == start) {
-                    errors.add("Empty group: " + this.matcher.group());
+                    // stumbled over a new type of newline?
+                    // Or matcher is out of sync with checks above
+                    errors.add("Empty group: " + this.matcher.group() + " char: " + (int)wikiText.charAt(end));
                     assert false;
+                    throw new RuntimeException("matcher not in sync with code, or new type of newline, errors :" + errors);
                 }
                 return this;
             }
