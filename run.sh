@@ -7,4 +7,4 @@ COMMONS=/usr/share/java/commons-text.jar
 COMMONS_COMPRESS=/usr/share/java/commons-compress.jar
 JAVA=/usr/lib/jvm/java-8-openjdk-amd64/jre/bin/java
 test -x "$JAVA" || JAVA=java
-"$JAVA" -Djava.util.logging.config.file="logging.properties" -Xmx4096m -classpath src:../Dictionary/Util/src/:../Dictionary/src/:"$ICU4J":"$XERCES":"$COMMONS":"$COMMONS_COMPRESS" com.hughes.android.dictionary.engine.DictionaryBuilder "$@"
+"$JAVA" -Djava.util.logging.config.file="logging.properties" -Xmx4096m -classpath bin/:"$ICU4J":"$XERCES":"$COMMONS":"$COMMONS_COMPRESS" com.hughes.android.dictionary.engine.DictionaryBuilder "$@"

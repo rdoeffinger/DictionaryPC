@@ -1,5 +1,5 @@
-dictInputs
-dictOutputs/
+data/inputs/
+data/outputs/
 bin
 wikiSplit
 wikiSplit_2011
@@ -7,4 +7,3 @@ wikiSplit_201106
 wikiSplit_201111
 .project
 .settings/
-*.class
