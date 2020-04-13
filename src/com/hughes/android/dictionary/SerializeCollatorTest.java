@@ -28,7 +28,7 @@ public class SerializeCollatorTest {
      */
     public static void main(String[] args) throws IOException {
         File temp = File.createTempFile("temp", null);
-        final Comparator c = Language.de.getCollator();
+        final Comparator<Object> c = Language.de.getCollator();
         //FileUtil.writeObject(c, temp);
     }
 
