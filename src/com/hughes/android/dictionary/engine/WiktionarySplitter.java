@@ -32,9 +32,9 @@ import java.util.regex.Pattern;
 
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.parsers.SAXParser;
+import javax.xml.parsers.SAXParserFactory;
 
 import org.apache.commons.compress.compressors.CompressorStreamFactory;
-import org.apache.xerces.jaxp.SAXParserFactoryImpl;
 import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 
@@ -75,7 +75,7 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
     }
 
     private void go() throws Exception {
-        final SAXParser parser = SAXParserFactoryImpl.newInstance().newSAXParser();
+        final SAXParser parser = SAXParserFactory.newInstance().newSAXParser();
 
         // Configure things.
         for (final Map.Entry<String, List<Selector>> pathToSelectorsEntry : pathToSelectors.entrySet()) {
@@ -354,7 +354,7 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
 
     public void parse(final File file) throws ParserConfigurationException,
         SAXException, IOException {
-        final SAXParser parser = SAXParserFactoryImpl.newInstance().newSAXParser();
+        final SAXParser parser = SAXParserFactory.newInstance().newSAXParser();
         parser.parse(file, this);
     }
 
