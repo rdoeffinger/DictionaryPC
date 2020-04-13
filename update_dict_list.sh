@@ -3,4 +3,4 @@
 CLASS=CheckDictionariesMain
 JAVA=/usr/lib/jvm/java-8-openjdk-amd64/jre/bin/java
 test -x "$JAVA" || JAVA=java
-$JAVA -classpath bin/:/usr/share/java/com.ibm.icu.jar:/usr/share/java/xercesImpl.jar com.hughes.android.dictionary.engine.$CLASS "$@"
+$JAVA -classpath bin/:/usr/share/java/com.ibm.icu.jar com.hughes.android.dictionary.engine.$CLASS "$@"

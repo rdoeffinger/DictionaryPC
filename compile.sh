@@ -2,8 +2,6 @@ ICU4J=/usr/share/java/icu4j-49.1.jar
 test -r "$ICU4J" || ICU4J=/usr/share/icu4j-55/lib/icu4j.jar
 JUNIT=/usr/share/java/junit.jar
 test -r "$JUNIT" || JUNIT=/usr/share/junit/lib/junit.jar
-XERCES=/usr/share/java/xercesImpl.jar
-test -r "$XERCES" || XERCES=/usr/share/xerces-2/lib/xercesImpl.jar
 COMMONS=/usr/share/java/commons-text.jar
 COMMONS_COMPRESS=/usr/share/java/commons-compress.jar
 if [ ! -x ../Dictionary ] ; then
@@ -16,10 +14,6 @@ if [ ! -r "$ICU4J" ] ; then
 fi
 if [ ! -r "$JUNIT" ] ; then
     echo "Junit needs to be installed"
-    exit 1;
-fi
-if [ ! -r "$XERCES" ] ; then
-    echo "Xerces needs to be installed"
     exit 1;
 fi
 if [ ! -r "$COMMONS" ] ; then
