@@ -68,7 +68,7 @@ public class ConvertToV6 {
             System.out.println("Output file '" + outname + "' already exists, aborting!");
             return;
         }
-        dictionary.writev6(out, skipHtml);
+        new DictionaryV6Writer(dictionary).writev6(out, skipHtml);
         out.close();
         in.close();
     }
