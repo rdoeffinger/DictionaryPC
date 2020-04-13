@@ -1,6 +1,15 @@
 
 package com.hughes.android.dictionary.parser.wiktionary;
 
+import java.net.URI;
+import java.util.ArrayList;
+import java.util.LinkedHashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.regex.Pattern;
+
+import org.apache.commons.text.StringEscapeUtils;
+
 import com.hughes.android.dictionary.engine.EntryTypeName;
 import com.hughes.android.dictionary.engine.HtmlEntry;
 import com.hughes.android.dictionary.engine.IndexBuilder;
@@ -8,15 +17,6 @@ import com.hughes.android.dictionary.engine.IndexBuilder.TokenData;
 import com.hughes.android.dictionary.engine.IndexedEntry;
 import com.hughes.android.dictionary.parser.WikiTokenizer;
 import com.hughes.util.StringUtil;
-
-import org.apache.commons.text.StringEscapeUtils;
-
-import java.net.URI;
-import java.util.ArrayList;
-import java.util.LinkedHashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.regex.Pattern;
 
 public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
 

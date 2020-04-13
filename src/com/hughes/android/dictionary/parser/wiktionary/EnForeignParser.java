@@ -24,7 +24,6 @@ import com.hughes.android.dictionary.engine.EntryTypeName;
 import com.hughes.android.dictionary.engine.IndexBuilder;
 import com.hughes.android.dictionary.engine.IndexedEntry;
 import com.hughes.android.dictionary.engine.PairEntry;
-import com.hughes.android.dictionary.engine.PairEntry.Pair;
 import com.hughes.android.dictionary.parser.WikiTokenizer;
 
 public final class EnForeignParser extends EnParser {
@@ -236,7 +235,7 @@ public final class EnForeignParser extends EnParser {
 
         final String english = trim(englishBuilder.toString());
         if (english.length() > 0) {
-            final Pair pair = new Pair(english, trim(foreignText), this.swap);
+            final PairEntry.Pair pair = new PairEntry.Pair(english, trim(foreignText), this.swap);
             pairEntry.pairs.add(pair);
             foreignIndexBuilder.addEntryWithString(indexedEntry, title, entryIsFormOfSomething ? EntryTypeName.WIKTIONARY_IS_FORM_OF_SOMETHING_ELSE : EntryTypeName.WIKTIONARY_TITLE_MULTI);
             for (final String form : forms) {
@@ -265,14 +264,14 @@ public final class EnForeignParser extends EnParser {
             if ((nextPrefix.equals("#:") || nextPrefix.equals("##:")) && dash != -1) {
                 final String foreignEx = nextLine.substring(0, dash);
                 final String englishEx = nextLine.substring(dash + mdashLen);
-                final Pair pair = new Pair(formatAndIndexExampleString(englishEx, enIndexBuilder, indexedEntry), formatAndIndexExampleString(foreignEx, foreignIndexBuilder, indexedEntry), swap);
+                final PairEntry.Pair pair = new PairEntry.Pair(formatAndIndexExampleString(englishEx, enIndexBuilder, indexedEntry), formatAndIndexExampleString(foreignEx, foreignIndexBuilder, indexedEntry), swap);
                 if (pair.lang1 != "--" && pair.lang1 != "--") {
                     pairEntry.pairs.add(pair);
                 }
                 lastForeign = null;
                 // TODO: make #* and #*: work
             } else if (nextPrefix.equals("#:") || nextPrefix.equals("##:")/* || nextPrefix.equals("#*")*/) {
-                final Pair pair = new Pair("--", formatAndIndexExampleString(nextLine, null, indexedEntry), swap);
+                final PairEntry.Pair pair = new PairEntry.Pair("--", formatAndIndexExampleString(nextLine, null, indexedEntry), swap);
                 lastForeign = nextLine;
                 if (pair.lang1 != "--" && pair.lang1 != "--") {
                     pairEntry.pairs.add(pair);
@@ -288,27 +287,27 @@ public final class EnForeignParser extends EnParser {
                         }
                     }
                     pairEntry.pairs.remove(pairEntry.pairs.size() - 1);
-                    final Pair pair = new Pair(formatAndIndexExampleString(nextLine, enIndexBuilder, indexedEntry), formatAndIndexExampleString(lastForeign, foreignIndexBuilder, indexedEntry), swap);
+                    final PairEntry.Pair pair = new PairEntry.Pair(formatAndIndexExampleString(nextLine, enIndexBuilder, indexedEntry), formatAndIndexExampleString(lastForeign, foreignIndexBuilder, indexedEntry), swap);
                     if (pair.lang1 != "--" || pair.lang2 != "--") {
                         pairEntry.pairs.add(pair);
                     }
                     lastForeign = null;
                 } else {
                     LOG.warning("TODO: English example with no foreign: " + title + ", " + nextLine);
-                    final Pair pair = new Pair("--", formatAndIndexExampleString(nextLine, null, indexedEntry), swap);
+                    final PairEntry.Pair pair = new PairEntry.Pair("--", formatAndIndexExampleString(nextLine, null, indexedEntry), swap);
                     if (pair.lang1 != "--" || pair.lang2 != "--") {
                         pairEntry.pairs.add(pair);
                     }
                 }
             } else if (nextPrefix.equals("#*")) {
                 // Can't really index these.
-                final Pair pair = new Pair("--", formatAndIndexExampleString(nextLine, null, indexedEntry), swap);
+                final PairEntry.Pair pair = new PairEntry.Pair("--", formatAndIndexExampleString(nextLine, null, indexedEntry), swap);
                 lastForeign = nextLine;
                 if (pair.lang1 != "--" || pair.lang2 != "--") {
                     pairEntry.pairs.add(pair);
                 }
             } else if (nextPrefix.equals("#::*") || nextPrefix.equals("##") || nextPrefix.equals("#*:") || nextPrefix.equals("#:*") || true) {
-                final Pair pair = new Pair("--", formatAndIndexExampleString(nextLine, null, indexedEntry), swap);
+                final PairEntry.Pair pair = new PairEntry.Pair("--", formatAndIndexExampleString(nextLine, null, indexedEntry), swap);
                 if (pair.lang1 != "--" || pair.lang2 != "--") {
                     pairEntry.pairs.add(pair);
                 }

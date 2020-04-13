@@ -1,9 +1,5 @@
 package com.hughes.android.dictionary.engine;
 
-import com.hughes.android.dictionary.DictionaryInfo;
-import com.hughes.android.dictionary.DictionaryInfo.IndexInfo;
-import com.hughes.util.CollectionUtil;
-
 import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -12,6 +8,10 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
+
+import com.hughes.android.dictionary.DictionaryInfo;
+import com.hughes.android.dictionary.DictionaryInfo.IndexInfo;
+import com.hughes.util.CollectionUtil;
 
 public class CheckDictionariesMain {
 

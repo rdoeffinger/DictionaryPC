@@ -21,11 +21,11 @@ import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Set;
 
-import junit.framework.TestCase;
-
 import com.hughes.android.dictionary.parser.DictFileParser;
 import com.hughes.android.dictionary.parser.wiktionary.WiktionaryLangs;
 import com.ibm.icu.text.Transliterator;
+
+import junit.framework.TestCase;
 
 public class LanguageTest extends TestCase {
 

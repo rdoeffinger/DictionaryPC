@@ -15,17 +15,16 @@
 package com.hughes.android.dictionary.parser.wiktionary;
 
 import java.util.Arrays;
+import java.util.HashSet;
 import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
-import java.util.HashSet;
 import java.util.regex.Pattern;
 
 import com.hughes.android.dictionary.engine.IndexBuilder;
 import com.hughes.android.dictionary.engine.IndexedEntry;
 import com.hughes.android.dictionary.engine.PairEntry;
-import com.hughes.android.dictionary.engine.PairEntry.Pair;
 import com.hughes.android.dictionary.parser.WikiTokenizer;
 import com.hughes.android.dictionary.parser.wiktionary.EnFunctionCallbacks.TranslationCallback;
 import com.hughes.util.ListUtil;
@@ -38,7 +37,7 @@ public final class EnTranslationToTranslationParser extends AbstractWiktionaryPa
     PairEntry pairEntry = null;
     IndexedEntry indexedEntry = null;
     StringBuilder[] builders = null;
-    HashSet<Pair> allPairs = new HashSet<Pair>();
+    HashSet<PairEntry.Pair> allPairs = new HashSet<>();
 
     public static final String NAME = "EnTranslationToTranslation";
 
@@ -145,12 +144,12 @@ public final class EnTranslationToTranslationParser extends AbstractWiktionaryPa
         final String lang1 = builders[0].toString();
         final String lang2 = builders[1].toString();
         if (lang1.length() > 0 && lang2.length() > 0) {
-            final Pair newPair = new Pair(lang1, lang2);
+            final PairEntry.Pair newPair = new PairEntry.Pair(lang1, lang2);
             // brute-force approach to prevent adding duplicates
             if (!allPairs.contains(newPair))
             {
                 allPairs.add(newPair);
-                pairEntry.pairs.add(new Pair(lang1, lang2));
+                pairEntry.pairs.add(new PairEntry.Pair(lang1, lang2));
                 indexedEntry.isValid = true;
             }
         }

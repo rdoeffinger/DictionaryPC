@@ -21,10 +21,10 @@ import java.util.List;
 import java.util.Random;
 import java.util.concurrent.atomic.AtomicBoolean;
 
-import junit.framework.TestCase;
-
 import com.hughes.android.dictionary.engine.Index.IndexEntry;
 import com.hughes.util.CollectionUtil;
+
+import junit.framework.TestCase;
 
 
 public class DictionaryTest extends TestCase {

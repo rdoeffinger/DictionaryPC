@@ -23,7 +23,6 @@ import java.nio.charset.Charset;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.LinkedHashSet;
-import java.util.List;
 import java.util.Set;
 import java.util.logging.Logger;
 import java.util.regex.Matcher;
@@ -31,12 +30,11 @@ import java.util.regex.Pattern;
 
 import com.hughes.android.dictionary.engine.DictionaryBuilder;
 import com.hughes.android.dictionary.engine.EntrySource;
-import com.hughes.android.dictionary.engine.IndexedEntry;
 import com.hughes.android.dictionary.engine.EntryTypeName;
 import com.hughes.android.dictionary.engine.IndexBuilder;
+import com.hughes.android.dictionary.engine.IndexedEntry;
 import com.hughes.android.dictionary.engine.Language;
 import com.hughes.android.dictionary.engine.PairEntry;
-import com.hughes.android.dictionary.engine.PairEntry.Pair;
 
 public class DictFileParser implements Parser {
 
@@ -153,7 +151,7 @@ public class DictFileParser implements Parser {
             if (subfields[1][i].length() == 0) {
                 subfields[1][i] = "__";
             }
-            pairEntry.pairs.add(new Pair(subfields[0][i], subfields[1][i]));
+            pairEntry.pairs.add(new PairEntry.Pair(subfields[0][i], subfields[1][i]));
         }
         final IndexedEntry entryData = new IndexedEntry(pairEntry);
         entryData.isValid = true;

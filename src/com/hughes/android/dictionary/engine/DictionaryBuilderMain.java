@@ -14,12 +14,6 @@
 
 package com.hughes.android.dictionary.engine;
 
-import com.hughes.android.dictionary.parser.wiktionary.EnTranslationToTranslationParser;
-import com.hughes.android.dictionary.parser.wiktionary.WholeSectionToHtmlParser;
-import com.hughes.android.dictionary.parser.wiktionary.WiktionaryLangs;
-
-import junit.framework.TestCase;
-
 import java.io.File;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -28,6 +22,12 @@ import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
+
+import com.hughes.android.dictionary.parser.wiktionary.EnTranslationToTranslationParser;
+import com.hughes.android.dictionary.parser.wiktionary.WholeSectionToHtmlParser;
+import com.hughes.android.dictionary.parser.wiktionary.WiktionaryLangs;
+
+import junit.framework.TestCase;
 
 public class DictionaryBuilderMain extends TestCase {
 

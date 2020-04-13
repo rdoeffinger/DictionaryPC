@@ -14,15 +14,6 @@
 
 package com.hughes.android.dictionary.parser.wiktionary;
 
-import com.hughes.android.dictionary.engine.EntryTypeName;
-import com.hughes.android.dictionary.engine.IndexBuilder;
-import com.hughes.android.dictionary.parser.WikiTokenizer;
-import com.hughes.android.dictionary.parser.wiktionary.AbstractWiktionaryParser.AppendAndIndexWikiCallback;
-import com.hughes.android.dictionary.parser.wiktionary.AbstractWiktionaryParser.NameAndArgs;
-import com.hughes.util.ListUtil;
-import com.hughes.util.MapUtil;
-import com.hughes.util.StringUtil;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.LinkedHashMap;
@@ -31,6 +22,15 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 import java.util.concurrent.atomic.AtomicInteger;
+
+import com.hughes.android.dictionary.engine.EntryTypeName;
+import com.hughes.android.dictionary.engine.IndexBuilder;
+import com.hughes.android.dictionary.parser.WikiTokenizer;
+import com.hughes.android.dictionary.parser.wiktionary.AbstractWiktionaryParser.AppendAndIndexWikiCallback;
+import com.hughes.android.dictionary.parser.wiktionary.AbstractWiktionaryParser.NameAndArgs;
+import com.hughes.util.ListUtil;
+import com.hughes.util.MapUtil;
+import com.hughes.util.StringUtil;
 
 class EnFunctionCallbacks {
 

@@ -14,12 +14,12 @@
 
 package com.hughes.android.dictionary.parser.wiktionary;
 
+import java.util.List;
+import java.util.Map;
+
 import com.hughes.android.dictionary.parser.WikiTokenizer;
 import com.hughes.android.dictionary.parser.wiktionary.AbstractWiktionaryParser.AppendAndIndexWikiCallback;
 import com.hughes.android.dictionary.parser.wiktionary.AbstractWiktionaryParser.NameAndArgs;
-
-import java.util.List;
-import java.util.Map;
 
 class ItFunctionCallbacks {
 

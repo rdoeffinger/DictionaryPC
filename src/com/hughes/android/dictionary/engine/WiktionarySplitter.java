@@ -20,8 +20,8 @@ import java.io.DataOutputStream;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
-import java.io.InputStream;
 import java.io.IOException;
+import java.io.InputStream;
 import java.io.OutputStream;
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
@@ -33,8 +33,8 @@ import java.util.regex.Pattern;
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.parsers.SAXParser;
 
-import org.apache.xerces.jaxp.SAXParserFactoryImpl;
 import org.apache.commons.compress.compressors.CompressorStreamFactory;
+import org.apache.xerces.jaxp.SAXParserFactoryImpl;
 import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 

@@ -14,8 +14,8 @@
 
 package com.hughes.android.dictionary.engine;
 
-import java.io.OutputStream;
 import java.io.IOException;
+import java.io.OutputStream;
 import java.io.PipedInputStream;
 import java.io.PipedOutputStream;
 
