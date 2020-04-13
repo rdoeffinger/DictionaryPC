@@ -14,8 +14,8 @@
 
 package com.hughes.android.dictionary.engine;
 
-import java.io.InputStream;
 import java.io.IOException;
+import java.io.InputStream;
 import java.io.PipedInputStream;
 import java.io.PipedOutputStream;
 
@@ -24,29 +24,26 @@ public class ReadAheadBuffer extends PipedInputStream {
     public ReadAheadBuffer(InputStream in, int size) {
         super(size);
         assert size >= 2 * BLOCK_SIZE;
-        this.in = in;
         try {
             pipe = new PipedOutputStream(this);
-            buffer = new byte[BLOCK_SIZE];
-            new Thread(new Runnable() {
-                public void run() {
-                    int read;
-                    try {
-                        while ((read = in.read(buffer)) > 0)
-                        {
-                            pipe.write(buffer, 0, read);
-                            pipe.flush();
-                        }
-                    } catch (IOException e) {}
-                    try {
-                        pipe.close();
-                    } catch (IOException e) {}
-                }
-            }).start();
         } catch (IOException e) {}
+        new Thread(new Runnable() {
+            public void run() {
+                try {
+                    int read;
+                    final byte buffer[] = new byte[BLOCK_SIZE];
+                    while ((read = in.read(buffer)) > 0)
+                    {
+                        pipe.write(buffer, 0, read);
+                        pipe.flush();
+                    }
+                } catch (IOException e) {}
+                try {
+                    pipe.close();
+                } catch (IOException e) {}
+            }
+        }).start();
     }
 
-    InputStream in;
     PipedOutputStream pipe;
-    byte buffer[];
 }
