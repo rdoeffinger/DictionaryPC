@@ -34,12 +34,12 @@ public class IndexBuilder {
     public final Index index;
     final Set<String> stoplist;
 
-    final SortedMap<String, TokenData> tokenToData;
+    final SortedMap<FastCompareString, TokenData> tokenToData;
 
     IndexBuilder(final DictionaryBuilder dictionaryBuilder, final String shortName, final String longName, final Language language, final String normalizerRules, final Set<String> stoplist, final boolean swapPairEntries) {
         this.dictionaryBuilder = dictionaryBuilder;
         index = new Index(dictionaryBuilder.dictionary, shortName, longName, language, normalizerRules, swapPairEntries, stoplist);
-        tokenToData = new TreeMap<>(index.getSortComparator());
+        tokenToData = new TreeMap<>(new FastNormalizeComparator(index.getSortComparator()));
         this.stoplist = stoplist;
     }
 
@@ -125,10 +125,11 @@ public class IndexBuilder {
     }
 
     public TokenData getOrCreateTokenData(final String token) {
-        TokenData tokenData = tokenToData.get(token);
+        final FastCompareString c = new FastCompareString(token);
+        TokenData tokenData = tokenToData.get(c);
         if (tokenData == null) {
             tokenData = new TokenData(token);
-            tokenToData.put(token, tokenData);
+            tokenToData.put(c, tokenData);
         }
         return tokenData;
     }
