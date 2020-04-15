@@ -46,7 +46,8 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
     // {{=uk=}}
     // Spanish has no initial headings, tried to also detect {{ES as such
     // with "^(\\{\\{ES|(=+)[^=]).*$" but that broke English.
-    static final Pattern headingStart = Pattern.compile("^(=+)[^=].*$", Pattern.MULTILINE);
+    static final Matcher headingStart = Pattern.compile("^(=+)[^=].*$", Pattern.MULTILINE).matcher("");
+    static final Matcher startSpanish = Pattern.compile("\\{\\{ES(\\|[^{}=]*)?}}").matcher("");
 
     final Map<String,List<Selector>> pathToSelectors = new LinkedHashMap<String, List<Selector>>();
     List<Selector> currentSelectors = null;
@@ -119,11 +120,11 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
 
     String lastPageTitle = null;
     int pageCount = 0;
-    Pattern endPatterns[] = new Pattern[100];
+    Matcher endPatterns[] = new Matcher[100];
 
-    private Pattern getEndPattern(int depth) {
+    private Matcher getEndPattern(int depth) {
         if (endPatterns[depth] == null)
-            endPatterns[depth] = Pattern.compile(String.format("^={1,%d}[^=].*$", depth), Pattern.MULTILINE);
+            endPatterns[depth] = Pattern.compile(String.format("^={1,%d}[^=].*$", depth), Pattern.MULTILINE).matcher("");
         return endPatterns[depth];
     }
 
@@ -214,28 +215,27 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
 
         String text = textBuilder.toString();
         // Workaround for Spanish wiktionary {{ES}} and {{ES|word}} patterns
-        text = text.replaceAll("\\{\\{ES(\\|[^{}=]*)?}}", "== {{lengua|es}} ==");
+        text = startSpanish.reset(text).replaceAll("== {{lengua|es}} ==");
         String translingual = "";
         int start = 0;
-        final Matcher startMatcher = headingStart.matcher(text);
+        headingStart.reset(text);
 
         while (start < text.length()) {
             // Find start.
-            if (!startMatcher.find(start)) {
+            if (!headingStart.find(start)) {
                 return;
             }
-            start = startMatcher.end();
+            start = headingStart.end();
 
-            final String heading = startMatcher.group();
+            final String heading = headingStart.group();
 
             // For Translingual entries just store the text for later
             // use in the per-language sections
             if (heading.indexOf("Translingual") != -1) {
                 // Find end.
-                final int depth = startMatcher.group(1).length();
-                final Pattern endPattern = getEndPattern(depth);
+                final int depth = headingStart.group(1).length();
+                final Matcher endMatcher = getEndPattern(depth).reset(text);
 
-                final Matcher endMatcher = endPattern.matcher(text);
                 if (endMatcher.find(start)) {
                     int end = endMatcher.start();
                     translingual = text.substring(start, end);
@@ -245,12 +245,11 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
             }
 
             for (final Selector selector : currentSelectors) {
-                if (selector.pattern.matcher(heading).find()) {
+                if (selector.pattern.reset(heading).find()) {
                     // Find end.
-                    final int depth = startMatcher.group(1).length();
-                    final Pattern endPattern = getEndPattern(depth);
+                    final int depth = headingStart.group(1).length();
+                    final Matcher endMatcher = getEndPattern(depth).reset(text);
 
-                    final Matcher endMatcher = endPattern.matcher(text);
                     final int end;
                     if (endMatcher.find(start)) {
                         end = endMatcher.start();
@@ -308,13 +307,13 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
 
     static class Selector {
         final String outFilename;
-        final Pattern pattern;
+        final Matcher pattern;
 
         DataOutputStream out;
 
         public Selector(final String filename, final String pattern) {
             this.outFilename = filename;
-            this.pattern = Pattern.compile(pattern, Pattern.CASE_INSENSITIVE);
+            this.pattern = Pattern.compile(pattern, Pattern.CASE_INSENSITIVE).matcher("");
         }
     }
 
