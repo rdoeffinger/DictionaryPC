@@ -26,8 +26,6 @@ import java.util.Collections;
 import java.util.List;
 import java.util.zip.GZIPOutputStream;
 
-import com.hughes.android.dictionary.engine.Dictionary;
-
 public class DictionaryV6Writer {
     private final Dictionary d;
 
@@ -204,7 +202,7 @@ public class DictionaryV6Writer {
             outb.writeBoolean(hasNormalizedForm);
             if (hasNormalizedForm) outb.writeUTF(e.normalizedToken());
             writev6HtmlIndices(outb, dataPos + outb.size(),
-                               prunedRowIdx == null ? e.htmlEntries : Collections.<HtmlEntry>emptyList());
+                               prunedRowIdx == null ? e.htmlEntries : Collections.emptyList());
         }
         dataPos += outb.size();
         outb.flush();

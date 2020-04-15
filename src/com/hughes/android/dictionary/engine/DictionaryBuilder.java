@@ -42,7 +42,7 @@ import com.hughes.util.FileUtil;
 public class DictionaryBuilder {
 
     public final Dictionary dictionary;
-    public final List<IndexBuilder> indexBuilders = new ArrayList<IndexBuilder>();
+    public final List<IndexBuilder> indexBuilders = new ArrayList<>();
 
     public DictionaryBuilder(final String dictInfoString, final Language lang0, final Language lang1, final String normalizerRules1, final String normalizerRules2, final Set<String> lang1Stoplist, final Set<String> lang2Stoplist) {
         dictionary = new Dictionary(dictInfoString);
@@ -61,7 +61,7 @@ public class DictionaryBuilder {
         }
     }
 
-    public static void main(final String[] args) throws IOException, ParserConfigurationException, SAXException {
+    public static void main(final String[] args) throws IOException {
         System.out.println("Running with arguments:");
         for (final String arg : args) {
             System.out.println(arg);
@@ -80,8 +80,8 @@ public class DictionaryBuilder {
             lang2 = null;
         }
 
-        final Set<String> lang1Stoplist = new LinkedHashSet<String>();
-        final Set<String> lang2Stoplist = new LinkedHashSet<String>();
+        final Set<String> lang1Stoplist = new LinkedHashSet<>();
+        final Set<String> lang2Stoplist = new LinkedHashSet<>();
         final String lang1StoplistFile = keyValueArgs.remove("lang1Stoplist");
         final String lang2StoplistFile = keyValueArgs.remove("lang2Stoplist");
         if (lang1StoplistFile != null) {
@@ -145,7 +145,7 @@ public class DictionaryBuilder {
                 final int pageLimit = Integer.parseInt(pageLimitString);
 
                 final EntrySource entrySource = new EntrySource(dictionaryBuilder.dictionary.sources.size(), inputName, 0);
-                System.out.println("");
+                System.out.println();
 
                 String inputFormat = keyValueArgs.remove(prefix + "Format");
                 if ("tab_separated".equals(inputFormat)) {

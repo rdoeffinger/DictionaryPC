@@ -36,7 +36,7 @@ public class DictionaryBuilderMain extends TestCase {
     static final String OUTPUTS = "data/outputs/";
 
     // Build the non EN ones.
-    static final String[][] nonEnPairs = new String[][] {
+    static final String[][] nonEnPairs = {
         {"EN"},
         {"DE"},
         {"IT"},
@@ -138,7 +138,7 @@ public class DictionaryBuilderMain extends TestCase {
 
 
 
-    static final Map<String,String>  isoToDedication = new LinkedHashMap<String, String>();
+    static final Map<String,String>  isoToDedication = new LinkedHashMap<>();
     static {
         isoToDedication.put("AF", "Wiktionary-based Afrikaans dictionary dedicated to Heiko and Mariëtte Horn.");
         isoToDedication.put("HR", "Wiktionary-based Croatian dictionary dedicated to Ines Viskic and Miro Kresonja.");
@@ -158,7 +158,7 @@ public class DictionaryBuilderMain extends TestCase {
         return isoToDedication.containsKey(iso) ? isoToDedication.get(iso) : String.format("Wiktionary-based %s dictionary.", iso);
     }
 
-    static final Map<String,String>  isoToStoplist = new LinkedHashMap<String, String>();
+    static final Map<String,String>  isoToStoplist = new LinkedHashMap<>();
     static {
         isoToStoplist.put("DE", "de.txt");
         isoToStoplist.put("EN", "en.txt");
@@ -167,7 +167,7 @@ public class DictionaryBuilderMain extends TestCase {
         isoToStoplist.put("FR", "fr.txt");
     }
     private static String getStoplist(String iso) {
-        return isoToStoplist.containsKey(iso) ? isoToStoplist.get(iso) : "empty.txt";
+        return isoToStoplist.getOrDefault(iso, "empty.txt");
     }
 
     static String getOtherLang(final String[] pair, final String first) {
@@ -177,7 +177,7 @@ public class DictionaryBuilderMain extends TestCase {
     }
 
     static List<String> getMainArgs(final String[] pair) {
-        final List<String> result = new ArrayList<String>();
+        final List<String> result = new ArrayList<>();
 
         int i = 1;
 
@@ -311,9 +311,7 @@ public class DictionaryBuilderMain extends TestCase {
 
     public static void main(final String[] args) throws Exception {
 
-        final List<String[]> allPairs = new ArrayList<String[]>();
-
-        allPairs.addAll(Arrays.asList(nonEnPairs));
+        final List<String[]> allPairs = new ArrayList<>(Arrays.asList(nonEnPairs));
         // Add all the EN-XX pairs.
         for (final String isoCode : WiktionaryLangs.isoCodeToEnWikiName.keySet()) {
             if (!isoCode.equals("EN")) {
@@ -322,7 +320,7 @@ public class DictionaryBuilderMain extends TestCase {
         }
 
 
-        final Set<List<String>> done = new LinkedHashSet<List<String>>();
+        final Set<List<String>> done = new LinkedHashSet<>();
         boolean go = true;
         for (final String[] pair : allPairs) {
             Arrays.sort(pair);
@@ -332,11 +330,7 @@ public class DictionaryBuilderMain extends TestCase {
             }
             done.add(pairList);
 
-            if (pairList.contains("EN") && pairList.contains("DE")) {
-                go = true;
-            } else {
-                go = false;
-            }
+            go = pairList.contains("EN") && pairList.contains("DE");
 
             if (!go) {
                 continue;

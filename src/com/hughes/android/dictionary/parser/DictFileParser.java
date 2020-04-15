@@ -293,9 +293,9 @@ public class DictFileParser implements Parser {
         return field;
     }
 
-    public static final Set<String> tokenize(final String text, final Pattern pattern) {
+    public static Set<String> tokenize(final String text, final Pattern pattern) {
         final String[] split = pattern.split(text);
-        final Set<String> result = new LinkedHashSet<String>(Arrays.asList(split));
+        final Set<String> result = new LinkedHashSet<>(Arrays.asList(split));
         result.remove("");
         return result;
     }

@@ -37,11 +37,11 @@ public final class EnTranslationToTranslationParser extends AbstractWiktionaryPa
     PairEntry pairEntry = null;
     IndexedEntry indexedEntry = null;
     StringBuilder[] builders = null;
-    HashSet<PairEntry.Pair> allPairs = new HashSet<>();
+    final HashSet<PairEntry.Pair> allPairs = new HashSet<>();
 
     public static final String NAME = "EnTranslationToTranslation";
 
-    final Set<String> Ts = new LinkedHashSet<String>(Arrays.asList("t", "t+",
+    final Set<String> Ts = new LinkedHashSet<>(Arrays.asList("t", "t+",
             "t-", "tø", "apdx-t", "ttbc"));
 
     public EnTranslationToTranslationParser(final List<IndexBuilder> indexBuilders,
@@ -88,10 +88,10 @@ public final class EnTranslationToTranslationParser extends AbstractWiktionaryPa
         }
     }
 
-    final TranslationCallback<EnTranslationToTranslationParser> translationCallback = new TranslationCallback<EnTranslationToTranslationParser>();
+    final TranslationCallback<EnTranslationToTranslationParser> translationCallback = new TranslationCallback<>();
 
-    final AppendAndIndexWikiCallback<EnTranslationToTranslationParser> appendAndIndexWikiCallback = new AppendAndIndexWikiCallback<EnTranslationToTranslationParser>(
-        this);
+    final AppendAndIndexWikiCallback<EnTranslationToTranslationParser> appendAndIndexWikiCallback = new AppendAndIndexWikiCallback<>(
+            this);
     {
         for (final String t : Ts) {
             appendAndIndexWikiCallback.functionCallbacks.put(t, translationCallback);

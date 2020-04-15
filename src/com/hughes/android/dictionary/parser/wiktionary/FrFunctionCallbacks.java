@@ -25,27 +25,27 @@ import com.hughes.android.dictionary.parser.wiktionary.ItFunctionCallbacks.Redis
 class FrFunctionCallbacks {
 
     static <T extends AbstractWiktionaryParser> void addGenericCallbacks(Map<String, FunctionCallback<T>> callbacks) {
-        callbacks.put("-étym-", new Redispatch<T>("\n==== Étymologie ====\n"));
-        callbacks.put("-pron-", new Redispatch<T>("\n==== Prononciation ====\n"));
-        callbacks.put("-voir-", new Redispatch<T>("\n==== Voir aussi ====\n"));
-        callbacks.put("-drv-", new Redispatch<T>("\n==== Dérivés ====\n"));
-        callbacks.put("-syn-", new Redispatch<T>("\n==== Synonymes ====\n"));
+        callbacks.put("-étym-", new Redispatch<>("\n==== Étymologie ====\n"));
+        callbacks.put("-pron-", new Redispatch<>("\n==== Prononciation ====\n"));
+        callbacks.put("-voir-", new Redispatch<>("\n==== Voir aussi ====\n"));
+        callbacks.put("-drv-", new Redispatch<>("\n==== Dérivés ====\n"));
+        callbacks.put("-syn-", new Redispatch<>("\n==== Synonymes ====\n"));
 
-        callbacks.put("-apr-", new Redispatch<T>("\n==== Apparentés étymologiques ====\n"));
-        callbacks.put("-hyper-", new Redispatch<T>("\n==== Hyperonymes ====\n"));
-        callbacks.put("-hypo-", new Redispatch<T>("\n==== Hyponymes ====\n"));
-        callbacks.put("-réf-", new Redispatch<T>("\n==== Références ====\n"));
-        callbacks.put("-homo-", new Redispatch<T>("\n==== Homophones ====\n"));
-        callbacks.put("-anagr-", new Redispatch<T>("\n==== Anagrammes ====\n"));
-        callbacks.put("-voc-", new Redispatch<T>("\n==== Vocabulaire apparenté par le sens ====\n"));
-        callbacks.put("-exp-", new Redispatch<T>("\n==== Expressions ====\n"));
-        callbacks.put("-note-", new Redispatch<T>("\n==== Note ====\n"));
+        callbacks.put("-apr-", new Redispatch<>("\n==== Apparentés étymologiques ====\n"));
+        callbacks.put("-hyper-", new Redispatch<>("\n==== Hyperonymes ====\n"));
+        callbacks.put("-hypo-", new Redispatch<>("\n==== Hyponymes ====\n"));
+        callbacks.put("-réf-", new Redispatch<>("\n==== Références ====\n"));
+        callbacks.put("-homo-", new Redispatch<>("\n==== Homophones ====\n"));
+        callbacks.put("-anagr-", new Redispatch<>("\n==== Anagrammes ====\n"));
+        callbacks.put("-voc-", new Redispatch<>("\n==== Vocabulaire apparenté par le sens ====\n"));
+        callbacks.put("-exp-", new Redispatch<>("\n==== Expressions ====\n"));
+        callbacks.put("-note-", new Redispatch<>("\n==== Note ====\n"));
 
-        callbacks.put("-trad-", new ItFunctionCallbacks.SkipSection<T>());
+        callbacks.put("-trad-", new ItFunctionCallbacks.SkipSection<>());
     }
 
 
-    static final NameAndArgs<EnParser> NAME_AND_ARGS = new NameAndArgs<EnParser>();
+    static final NameAndArgs<EnParser> NAME_AND_ARGS = new NameAndArgs<>();
 
 
     static final class MakeHeadingFromName<T extends AbstractWiktionaryParser> implements FunctionCallback<T> {

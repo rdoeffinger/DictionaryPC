@@ -27,21 +27,19 @@ public class ReadAheadBuffer extends PipedInputStream {
         try {
             pipe = new PipedOutputStream(this);
         } catch (IOException e) {}
-        new Thread(new Runnable() {
-            public void run() {
-                try {
-                    int read;
-                    final byte buffer[] = new byte[BLOCK_SIZE];
-                    while ((read = in.read(buffer)) > 0)
-                    {
-                        pipe.write(buffer, 0, read);
-                        pipe.flush();
-                    }
-                } catch (IOException e) {}
-                try {
-                    pipe.close();
-                } catch (IOException e) {}
-            }
+        new Thread(() -> {
+            try {
+                int read;
+                final byte[] buffer = new byte[BLOCK_SIZE];
+                while ((read = in.read(buffer)) > 0)
+                {
+                    pipe.write(buffer, 0, read);
+                    pipe.flush();
+                }
+            } catch (IOException e) {}
+            try {
+                pipe.close();
+            } catch (IOException e) {}
         }).start();
     }
 

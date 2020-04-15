@@ -23,6 +23,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
+import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
 import java.util.List;
@@ -49,7 +50,7 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
     static final Matcher headingStart = Pattern.compile("^(=+)[^=].*$", Pattern.MULTILINE).matcher("");
     static final Matcher startSpanish = Pattern.compile("\\{\\{ES(\\|[^{}=]*)?}}").matcher("");
 
-    final Map<String,List<Selector>> pathToSelectors = new LinkedHashMap<String, List<Selector>>();
+    final Map<String,List<Selector>> pathToSelectors = new LinkedHashMap<>();
     List<Selector> currentSelectors = null;
 
     StringBuilder titleBuilder;
@@ -65,7 +66,7 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
         List<Selector> selectors;
         for (final String code : WiktionaryLangs.wikiCodeToIsoCodeToWikiName.keySet()) {
             //if (!code.equals("fr")) {continue;}
-            selectors = new ArrayList<WiktionarySplitter.Selector>();
+            selectors = new ArrayList<>();
             pathToSelectors.put(String.format("data/inputs/%swiktionary-pages-articles.xml", code), selectors);
             for (final Map.Entry<String, String> entry : WiktionaryLangs.wikiCodeToIsoCodeToWikiName.get(code).entrySet()) {
                 final String dir = String.format("data/inputs/wikiSplit/%s", code);
@@ -106,7 +107,7 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
                     parser.parse(new BufferedInputStream(in), this);
                 }
             } catch (Exception e) {
-                System.err.println("Exception during parse, lastPageTitle=" + lastPageTitle + ", titleBuilder=" + titleBuilder.toString() + " of file " + pathToSelectorsEntry.getKey());
+                System.err.println("Exception during parse, lastPageTitle=" + lastPageTitle + ", titleBuilder=" + titleBuilder + " of file " + pathToSelectorsEntry.getKey());
                 throw e;
             }
 
@@ -120,7 +121,7 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
 
     String lastPageTitle = null;
     int pageCount = 0;
-    Matcher endPatterns[] = new Matcher[100];
+    final Matcher[] endPatterns = new Matcher[100];
 
     private Matcher getEndPattern(int depth) {
         if (endPatterns[depth] == null)
@@ -231,7 +232,7 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
 
             // For Translingual entries just store the text for later
             // use in the per-language sections
-            if (heading.indexOf("Translingual") != -1) {
+            if (heading.contains("Translingual")) {
                 // Find end.
                 final int depth = headingStart.group(1).length();
                 final Matcher endMatcher = getEndPattern(depth).reset(text);
@@ -266,13 +267,13 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
                                 sectionText.charAt(dummy_end + 1) == '\n') ++dummy_end;
                         sectionText = sectionText.substring(dummy_end);
                     }
-                    if (heading.indexOf("Japanese") == -1) sectionText += translingual;
+                    if (!heading.contains("Japanese")) sectionText += translingual;
                     final Section section = new Section(title, heading, sectionText);
 
                     try {
                         selector.out.writeUTF(section.title);
                         selector.out.writeUTF(section.heading);
-                        final byte[] bytes = section.text.getBytes("UTF8");
+                        final byte[] bytes = section.text.getBytes(StandardCharsets.UTF_8);
                         selector.out.writeInt(bytes.length);
                         selector.out.write(bytes);
                     } catch (IOException e) {
@@ -336,15 +337,14 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
     }
 
     @Override
-    public void characters(char[] ch, int start, int length) throws SAXException {
+    public void characters(char[] ch, int start, int length) {
         if (currentBuilder != null) {
             currentBuilder.append(ch, start, length);
         }
     }
 
     @Override
-    public void endElement(String uri, String localName, String qName)
-    throws SAXException {
+    public void endElement(String uri, String localName, String qName) {
         currentBuilder = null;
         if ("page".equals(qName)) {
             endPage();

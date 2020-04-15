@@ -26,7 +26,7 @@ public class Args {
             int equalsIndex;
             if (arg.startsWith("--") && (equalsIndex = arg.indexOf("=")) >= 0) {
                 final String key = arg.substring(2, equalsIndex);
-                final String value = arg.substring(equalsIndex + 1, arg.length());
+                final String value = arg.substring(equalsIndex + 1);
                 dest.put(key, value);
             }
         }

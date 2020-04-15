@@ -44,15 +44,15 @@ public abstract class EnParser extends AbstractWiktionaryParser {
                 "Particle|Interjection|Pronominal adverb|" +
                 "Han character|Hanzi|Hanja|Kanji|Katakana character|Syllable");
 
-    static final Set<String> USELESS_WIKI_ARGS = new LinkedHashSet<String>(
-        Arrays.asList(
-            "lang",
-            "sc",
-            "sort",
-            "cat",
-            "cat2",
-            "xs",
-            "nodot"));
+    static final Set<String> USELESS_WIKI_ARGS = new LinkedHashSet<>(
+            Arrays.asList(
+                    "lang",
+                    "sc",
+                    "sort",
+                    "cat",
+                    "cat2",
+                    "xs",
+                    "nodot"));
 
     static boolean isIgnorableTitle(final String title) {
         return title.startsWith("Wiktionary:") ||
@@ -83,14 +83,14 @@ public abstract class EnParser extends AbstractWiktionaryParser {
     State state = null;
 
     public boolean entryIsFormOfSomething = false;
-    final Collection<String> wordForms = new ArrayList<String>();
+    final Collection<String> wordForms = new ArrayList<>();
     boolean titleAppended = false;
 
 
     final AppendAndIndexWikiCallback<EnParser> appendAndIndexWikiCallback = new AppendAndIndexCallback(this);
     {
         appendAndIndexWikiCallback.functionCallbacks.putAll(EnFunctionCallbacks.DEFAULT);
-        for (final String key : new ArrayList<String>(appendAndIndexWikiCallback.functionCallbacks.keySet())) {
+        for (final String key : new ArrayList<>(appendAndIndexWikiCallback.functionCallbacks.keySet())) {
             // Don't handle the it-conj functions here.
             if (key.startsWith("it-conj")) {
                 appendAndIndexWikiCallback.functionCallbacks.remove(key);

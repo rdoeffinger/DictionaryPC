@@ -20,7 +20,7 @@ import java.util.regex.Pattern;
 
 public class WiktionaryLangs {
 
-    public static final Map<String,String> isoCodeToEnWikiName = new LinkedHashMap<String,String>();
+    public static final Map<String,String> isoCodeToEnWikiName = new LinkedHashMap<>();
     static {
         isoCodeToEnWikiName.put("AF", "Afrikaans");
         isoCodeToEnWikiName.put("SQ", "Albanian");
@@ -107,7 +107,6 @@ public class WiktionaryLangs {
         isoCodeToEnWikiName.put("HT", "Haitian Creole");
         isoCodeToEnWikiName.put("LB", "Luxembourgish");
         isoCodeToEnWikiName.put("MK", "Macedonian");
-        isoCodeToEnWikiName.put("GV", "Manx");
         isoCodeToEnWikiName.put("scn", "Sicilian");
         isoCodeToEnWikiName.put("cu", "Old Church Slavonic");
         isoCodeToEnWikiName.put("rom", "Romani");
@@ -129,7 +128,7 @@ public class WiktionaryLangs {
         //assert Language.isoCodeToResources.keySet().containsAll(isoCodeToEnWikiName.keySet());
     }
 
-    public static final Map<String,Map<String,String>> wikiCodeToIsoCodeToWikiName = new LinkedHashMap<String, Map<String,String>>();
+    public static final Map<String,Map<String,String>> wikiCodeToIsoCodeToWikiName = new LinkedHashMap<>();
     static {
         Map<String,String> isoCodeToWikiName;
 
@@ -137,7 +136,7 @@ public class WiktionaryLangs {
         wikiCodeToIsoCodeToWikiName.put("en", isoCodeToEnWikiName);
 
         // egrep -o '\{\{Wortart[^}]+\}\}' dewiktionary-pages-articles.xml | cut -d \| -f3 | sort | uniq -c | sort -nr
-        isoCodeToWikiName = new LinkedHashMap<String, String>();
+        isoCodeToWikiName = new LinkedHashMap<>();
         wikiCodeToIsoCodeToWikiName.put("de", isoCodeToWikiName);
         isoCodeToWikiName.put("nds", "Niederdeutsch");
         isoCodeToWikiName.put("DE", "Deutsch");
@@ -155,7 +154,7 @@ public class WiktionaryLangs {
         isoCodeToWikiName.put("RO", "Rumänisch");
 
         // egrep -o '== *\{\{langue\|[a-zA-Z]+\}\} *==' frwiktionary-pages-articles.xml | sort | uniq -c | sort -nr
-        isoCodeToWikiName = new LinkedHashMap<String, String>();
+        isoCodeToWikiName = new LinkedHashMap<>();
         wikiCodeToIsoCodeToWikiName.put("fr", isoCodeToWikiName);
         isoCodeToWikiName.put("FR", Pattern.quote("{{langue|fr}}"));
         isoCodeToWikiName.put("RU", Pattern.quote("{{langue|ru}}"));
@@ -182,7 +181,7 @@ public class WiktionaryLangs {
         isoCodeToWikiName.put("PT", Pattern.quote("{{langue|pt}}"));
 
         // egrep -o '= *\{\{-[a-z]+-\}\} *=' itwiktionary-pages-articles.xml | sort | uniq -c | sort -n
-        isoCodeToWikiName = new LinkedHashMap<String, String>();
+        isoCodeToWikiName = new LinkedHashMap<>();
         wikiCodeToIsoCodeToWikiName.put("it", isoCodeToWikiName);
         isoCodeToWikiName.put("IT", "\\{\\{-(it|scn|nap|cal|lmo)-\\}\\}");  // scn, nap, cal, lmo
         isoCodeToWikiName.put("EN", Pattern.quote("{{-en-}}"));
@@ -200,7 +199,7 @@ public class WiktionaryLangs {
         isoCodeToWikiName.put("RU", Pattern.quote("{{-ru-}}"));
 
         // egrep -o '== *\{\{lengua\|[a-zA-Z]+\}\} *==' frwiktionary-pages-articles.xml | sort | uniq -c | sort -nr
-        isoCodeToWikiName = new LinkedHashMap<String, String>();
+        isoCodeToWikiName = new LinkedHashMap<>();
         wikiCodeToIsoCodeToWikiName.put("es", isoCodeToWikiName);
         isoCodeToWikiName.put("AR", Pattern.quote("{{lengua|ar}}"));
         isoCodeToWikiName.put("ES", Pattern.quote("{{lengua|es}}"));
@@ -209,7 +208,7 @@ public class WiktionaryLangs {
         isoCodeToWikiName.put("IT", Pattern.quote("{{lengua|it}}"));
 
         // Pattern seems to match Italian one
-        isoCodeToWikiName = new LinkedHashMap<String, String>();
+        isoCodeToWikiName = new LinkedHashMap<>();
         wikiCodeToIsoCodeToWikiName.put("pt", isoCodeToWikiName);
         isoCodeToWikiName.put("PT", Pattern.quote("{{-pt-}}"));
         isoCodeToWikiName.put("EN", Pattern.quote("{{-en-}}"));

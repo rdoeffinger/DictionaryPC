@@ -14,16 +14,13 @@
 
 package com.hughes.android.dictionary.parser;
 
-import java.util.ArrayList;
-import java.util.LinkedHashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public final class WikiTokenizer {
 
-    public static interface Callback {
+    public interface Callback {
         void onPlainText(final String text);
         void onMarkup(WikiTokenizer wikiTokenizer);
         void onWikiLink(WikiTokenizer wikiTokenizer);
@@ -99,8 +96,8 @@ public final class WikiTokenizer {
     int end = 0;
     int start = -1;
 
-    final List<String> errors = new ArrayList<String>();
-    final List<String> tokenStack = new ArrayList<String>();
+    final List<String> errors = new ArrayList<>();
+    final List<String> tokenStack = new ArrayList<>();
 
 
     private String headingWikiText;
@@ -116,8 +113,8 @@ public final class WikiTokenizer {
 
     private int lastUnescapedPipePos;
     private int lastUnescapedEqualsPos;
-    private final List<String> positionArgs = new ArrayList<String>();
-    private final Map<String,String> namedArgs = new LinkedHashMap<String,String>();
+    private final List<String> positionArgs = new ArrayList<>();
+    private final Map<String,String> namedArgs = new LinkedHashMap<>();
 
 
     public WikiTokenizer(final String wikiText) {
@@ -474,7 +471,7 @@ public final class WikiTokenizer {
         return token;
     }
 
-    final static String[] patterns = { "\n", "{{", "}}", "[[", "]]", "[", "]", "|", "=", "<!--" };
+    static final String[] patterns = { "\n", "{{", "}}", "[[", "]]", "[", "]", "|", "=", "<!--" };
     private int escapedFindEnd(final int start, final String toFind) {
         assert tokenStack.isEmpty();
 
@@ -483,9 +480,7 @@ public final class WikiTokenizer {
         int end = start;
         int firstNewline = -1;
         int[] nextMatch = new int[patterns.length];
-        for (int i = 0; i < nextMatch.length; ++i) {
-            nextMatch[i] = -2;
-        }
+        Arrays.fill(nextMatch, -2);
         int singleBrackets = 0;
         while (end < wikiText.length()) {
             // Manual replacement for matcher.find(end),
@@ -605,7 +600,7 @@ public final class WikiTokenizer {
         lastUnescapedPipePos = matchStart;
     }
 
-    static final String trimNewlines(String s) {
+    static String trimNewlines(String s) {
         while (s.startsWith("\n")) {
             s = s.substring(1);
         }

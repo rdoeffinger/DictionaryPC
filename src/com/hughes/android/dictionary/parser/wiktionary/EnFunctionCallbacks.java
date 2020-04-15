@@ -34,32 +34,32 @@ import com.hughes.util.StringUtil;
 
 class EnFunctionCallbacks {
 
-    static final Map<String,FunctionCallback<EnParser>> DEFAULT = new LinkedHashMap<String, FunctionCallback<EnParser>>();
+    static final Map<String,FunctionCallback<EnParser>> DEFAULT = new LinkedHashMap<>();
 
     static <T extends AbstractWiktionaryParser> void addGenericCallbacks(Map<String, FunctionCallback<T>> callbacks) {
-        FunctionCallback<T> callback = new Gender<T>();
+        FunctionCallback<T> callback = new Gender<>();
         callbacks.put("m", callback);
         callbacks.put("f", callback);
         callbacks.put("n", callback);
         callbacks.put("p", callback);
         callbacks.put("g", callback);
 
-        callbacks.put("etyl", new etyl<T>());
-        callbacks.put("term", new term<T>());
+        callbacks.put("etyl", new etyl<>());
+        callbacks.put("term", new term<>());
 
-        callback = new EncodingCallback<T>();
-        Set<String> encodings = new LinkedHashSet<String>(Arrays.asList(
-                    "IPA", "IPAchar",  // Not really encodings, but it works.
-                    "zh-ts", "zh-tsp",
-                    "sd-Arab", "ku-Arab", "Arab", "unicode", "Laoo", "ur-Arab", "Thai",
-                    "fa-Arab", "Khmr", "Cyrl", "ug-Arab", "ko-inline",
-                    "Jpan", "Kore", "Hebr", "rfscript", "Beng", "Mong", "Knda", "Cyrs",
-                    "yue-tsj", "Mlym", "Tfng", "Grek", "yue-yue-j"));
+        callback = new EncodingCallback<>();
+        Set<String> encodings = new LinkedHashSet<>(Arrays.asList(
+                "IPA", "IPAchar",  // Not really encodings, but it works.
+                "zh-ts", "zh-tsp",
+                "sd-Arab", "ku-Arab", "Arab", "unicode", "Laoo", "ur-Arab", "Thai",
+                "fa-Arab", "Khmr", "Cyrl", "ug-Arab", "ko-inline",
+                "Jpan", "Kore", "Hebr", "rfscript", "Beng", "Mong", "Knda", "Cyrs",
+                "yue-tsj", "Mlym", "Tfng", "Grek", "yue-yue-j"));
         for (final String encoding : encodings) {
             callbacks.put(encoding, callback);
         }
 
-        callback = new Ignore<T>();
+        callback = new Ignore<>();
         callbacks.put("trreq", callback);
         callbacks.put("t-image", callback);
         callbacks.put("defn", callback);
@@ -83,39 +83,39 @@ class EnFunctionCallbacks {
         callbacks.put("der-mid3", callback);
         callbacks.put("der-bottom", callback);
 
-        callback = new AppendName<T>();
+        callback = new AppendName<>();
         callbacks.put("...", callback);
 
-        callbacks.put("qualifier", new QualifierCallback<T>());
-        callbacks.put("italbrac", new italbrac<T>());
-        callbacks.put("gloss", new gloss<T>());
-        callbacks.put("not used", new not_used<T>());
-        callbacks.put("wikipedia", new wikipedia<T>());
+        callbacks.put("qualifier", new QualifierCallback<>());
+        callbacks.put("italbrac", new italbrac<>());
+        callbacks.put("gloss", new gloss<>());
+        callbacks.put("not used", new not_used<>());
+        callbacks.put("wikipedia", new wikipedia<>());
 
-        final it_conj<T> it_conj_cb = new it_conj<T>();
+        final it_conj<T> it_conj_cb = new it_conj<>();
         callbacks.put("it-conj", it_conj_cb);
-        callbacks.put("it-conj-are", new it_conj_are<T>(it_conj_cb));
-        callbacks.put("it-conj-arsi", new it_conj_are<T>(it_conj_cb));
-        callbacks.put("it-conj-care", new it_conj_are<T>(it_conj_cb));
-        callbacks.put("it-conj-carsi", new it_conj_are<T>(it_conj_cb));
-        callbacks.put("it-conj-ciare", new it_conj_are<T>(it_conj_cb));
-        callbacks.put("it-conj-ciarsi", new it_conj_are<T>(it_conj_cb));
-        callbacks.put("it-conj-iare", new it_conj_are<T>(it_conj_cb));
-        callbacks.put("it-conj-iarsi", new it_conj_are<T>(it_conj_cb));
-        callbacks.put("it-conj-iare-b", new it_conj_are<T>(it_conj_cb));
-        callbacks.put("it-conj-iarsi-b", new it_conj_are<T>(it_conj_cb));
-        callbacks.put("it-conj-ire", new it_conj_ire<T>(it_conj_cb));
-        callbacks.put("it-conj-irsi", new it_conj_ire<T>(it_conj_cb));
-        callbacks.put("it-conj-ire-b", new it_conj_ire<T>(it_conj_cb));
-        callbacks.put("it-conj-irsi-b", new it_conj_ire<T>(it_conj_cb));
-        callbacks.put("it-conj-cire", new it_conj_ire<T>(it_conj_cb));
-        callbacks.put("it-conj-cirsi", new it_conj_ire<T>(it_conj_cb));
-        callbacks.put("it-conj-ire", new it_conj_ire<T>(it_conj_cb));
-        callbacks.put("it-conj-ere", new it_conj_ere<T>(it_conj_cb));
-        callbacks.put("it-conj-ersi", new it_conj_ere<T>(it_conj_cb));
-        callbacks.put("it-conj-urre", new it_conj_urre<T>(it_conj_cb));
-        callbacks.put("it-conj-ursi", new it_conj_urre<T>(it_conj_cb));
-        callbacks.put("it-conj-fare", new it_conj_fare<T>(it_conj_cb));
+        callbacks.put("it-conj-are", new it_conj_are<>(it_conj_cb));
+        callbacks.put("it-conj-arsi", new it_conj_are<>(it_conj_cb));
+        callbacks.put("it-conj-care", new it_conj_are<>(it_conj_cb));
+        callbacks.put("it-conj-carsi", new it_conj_are<>(it_conj_cb));
+        callbacks.put("it-conj-ciare", new it_conj_are<>(it_conj_cb));
+        callbacks.put("it-conj-ciarsi", new it_conj_are<>(it_conj_cb));
+        callbacks.put("it-conj-iare", new it_conj_are<>(it_conj_cb));
+        callbacks.put("it-conj-iarsi", new it_conj_are<>(it_conj_cb));
+        callbacks.put("it-conj-iare-b", new it_conj_are<>(it_conj_cb));
+        callbacks.put("it-conj-iarsi-b", new it_conj_are<>(it_conj_cb));
+        callbacks.put("it-conj-ire", new it_conj_ire<>(it_conj_cb));
+        callbacks.put("it-conj-irsi", new it_conj_ire<>(it_conj_cb));
+        callbacks.put("it-conj-ire-b", new it_conj_ire<>(it_conj_cb));
+        callbacks.put("it-conj-irsi-b", new it_conj_ire<>(it_conj_cb));
+        callbacks.put("it-conj-cire", new it_conj_ire<>(it_conj_cb));
+        callbacks.put("it-conj-cirsi", new it_conj_ire<>(it_conj_cb));
+        callbacks.put("it-conj-ire", new it_conj_ire<>(it_conj_cb));
+        callbacks.put("it-conj-ere", new it_conj_ere<>(it_conj_cb));
+        callbacks.put("it-conj-ersi", new it_conj_ere<>(it_conj_cb));
+        callbacks.put("it-conj-urre", new it_conj_urre<>(it_conj_cb));
+        callbacks.put("it-conj-ursi", new it_conj_urre<>(it_conj_cb));
+        callbacks.put("it-conj-fare", new it_conj_fare<>(it_conj_cb));
 
 
         //"{{it-conj-fare|putre|avere}}\n" +
@@ -126,7 +126,7 @@ class EnFunctionCallbacks {
     static {
         addGenericCallbacks(DEFAULT);
 
-        FunctionCallback<EnParser> callback = new TranslationCallback<EnParser>();
+        FunctionCallback<EnParser> callback = new TranslationCallback<>();
         DEFAULT.put("t", callback);
         DEFAULT.put("t+", callback);
         DEFAULT.put("t-", callback);
@@ -160,7 +160,7 @@ class EnFunctionCallbacks {
         DEFAULT.put("head", callback);
     }
 
-    static final NameAndArgs<EnParser> NAME_AND_ARGS = new NameAndArgs<EnParser>();
+    static final NameAndArgs<EnParser> NAME_AND_ARGS = new NameAndArgs<>();
 
     // ------------------------------------------------------------------
 
@@ -175,7 +175,7 @@ class EnFunctionCallbacks {
             namedArgs.keySet().removeAll(EnParser.USELESS_WIKI_ARGS);
             if (args.size() < 2) {
                 if (!name.equals("ttbc")) {
-                    EnParser.LOG.warning("{{t...}} with wrong args: title=" + parser.title + ", " + wikiTokenizer.token());
+                    AbstractWiktionaryParser.LOG.warning("{{t...}} with wrong args: title=" + parser.title + ", " + wikiTokenizer.token());
                 }
                 return false;
             }
@@ -216,7 +216,7 @@ class EnFunctionCallbacks {
             // Catch-all for anything else...
             if (!namedArgs.isEmpty()) {
                 appendAndIndexWikiCallback.builder.append(" {");
-                EnParser.appendNamedArgs(namedArgs, appendAndIndexWikiCallback);
+                AbstractWiktionaryParser.appendNamedArgs(namedArgs, appendAndIndexWikiCallback);
                 appendAndIndexWikiCallback.builder.append("}");
             }
 
@@ -234,7 +234,7 @@ class EnFunctionCallbacks {
                                       final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
             namedArgs.remove("lang");
             if (!namedArgs.isEmpty()) {
-                EnParser.LOG.warning("weird qualifier: " + wikiTokenizer.token());
+                AbstractWiktionaryParser.LOG.warning("weird qualifier: " + wikiTokenizer.token());
                 return false;
             }
             appendAndIndexWikiCallback.builder.append("(");
@@ -259,7 +259,7 @@ class EnFunctionCallbacks {
                                       final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
             namedArgs.remove("lang");
             if (!namedArgs.isEmpty()) {
-                EnParser.LOG.warning("weird encoding: " + wikiTokenizer.token());
+                AbstractWiktionaryParser.LOG.warning("weird encoding: " + wikiTokenizer.token());
                 return false;
             }
             if (args.size() == 0) {
@@ -299,8 +299,8 @@ class EnFunctionCallbacks {
             }
             appendAndIndexWikiCallback.builder.append("{");
             appendAndIndexWikiCallback.builder.append(name);
-            for (int i = 0; i < args.size(); ++i) {
-                appendAndIndexWikiCallback.builder.append("|").append(args.get(i));
+            for (String arg : args) {
+                appendAndIndexWikiCallback.builder.append("|").append(arg);
             }
             appendAndIndexWikiCallback.builder.append("}");
             return true;
@@ -351,7 +351,7 @@ class EnFunctionCallbacks {
             if (displayText != null) {
                 appendAndIndexWikiCallback.dispatch(displayText, indexBuilder, entryTypeName);
             } else {
-                EnParser.LOG.warning("no display text: " + wikiTokenizer.token());
+                AbstractWiktionaryParser.LOG.warning("no display text: " + wikiTokenizer.token());
             }
 
             final String tr = namedArgs.remove("tr");
@@ -371,7 +371,7 @@ class EnFunctionCallbacks {
             namedArgs.keySet().removeAll(EnParser.USELESS_WIKI_ARGS);
             if (!namedArgs.isEmpty()) {
                 appendAndIndexWikiCallback.builder.append(" {").append(name);
-                EnParser.appendNamedArgs(namedArgs, appendAndIndexWikiCallback);
+                AbstractWiktionaryParser.appendNamedArgs(namedArgs, appendAndIndexWikiCallback);
                 appendAndIndexWikiCallback.builder.append("}");
             }
 
@@ -498,7 +498,7 @@ class EnFunctionCallbacks {
                 formName = ListUtil.remove(args, 0, null);
             }
             if (formName == null) {
-                EnParser.LOG.warning("Missing form name: " + parser.title);
+                AbstractWiktionaryParser.LOG.warning("Missing form name: " + parser.title);
                 formName = "form of";
             }
             String baseForm = ListUtil.get(args, 1, "");
@@ -517,7 +517,7 @@ class EnFunctionCallbacks {
                 parser.foreignIndexBuilder.addEntryWithString(appendAndIndexWikiCallback.indexedEntry, baseForm, EntryTypeName.WIKTIONARY_BASE_FORM_MULTI);
             } else {
                 // null baseForm happens in Danish.
-                EnParser.LOG.warning("Null baseform: " + parser.title);
+                AbstractWiktionaryParser.LOG.warning("Null baseform: " + parser.title);
             }
             return true;
         }
@@ -539,11 +539,7 @@ class EnFunctionCallbacks {
             if (args.size() > 1 || !namedArgs.isEmpty()) {
                 // Unindexed!
                 return false;
-            } else if (args.size() == 1) {
-                return false;
-            } else {
-                return true;
-            }
+            } else return args.size() != 1;
         }
     }
 
@@ -637,11 +633,7 @@ class EnFunctionCallbacks {
                 return false;
             }
             String langName = WiktionaryLangs.getEnglishName(langCode);
-            if (langName != null) {
-                appendAndIndexWikiCallback.dispatch(langName, null);
-            } else {
-                appendAndIndexWikiCallback.dispatch("lang:" + langCode, null);
-            }
+            appendAndIndexWikiCallback.dispatch(langName == null ? "lang:" + langCode : langName, null);
             return true;
         }
     }
@@ -682,7 +674,7 @@ class EnFunctionCallbacks {
             if (!StringUtil.isNullOrEmpty(literally)) {
                 literally = String.format("literally %s", literally);
             }
-            final List<String> inParens = new ArrayList<String>(Arrays.asList(tr, pos, gloss, literally));
+            final List<String> inParens = new ArrayList<>(Arrays.asList(tr, pos, gloss, literally));
             cleanList(inParens);
             appendCommaSeparatedList(appendAndIndexWikiCallback, inParens);
 
@@ -755,14 +747,14 @@ class EnFunctionCallbacks {
             }
             parser.wordForms.add(singular);
             if (!namedArgs.isEmpty() || args.size() > 4) {
-                EnParser.LOG.warning("Invalid it-noun: " + wikiTokenizer.token());
+                AbstractWiktionaryParser.LOG.warning("Invalid it-noun: " + wikiTokenizer.token());
             }
             return true;
         }
     }
 
     static {
-        DEFAULT.put("it-proper noun", new it_proper_noun<EnParser>());
+        DEFAULT.put("it-proper noun", new it_proper_noun<>());
     }
     static final class it_proper_noun<T extends AbstractWiktionaryParser> implements FunctionCallback<T> {
         @Override
@@ -1041,7 +1033,7 @@ class EnFunctionCallbacks {
         }
     }
 
-    static final Map<String,String> it_indicativePronouns = new LinkedHashMap<String, String>();
+    static final Map<String,String> it_indicativePronouns = new LinkedHashMap<>();
     static {
         it_indicativePronouns.put("1s", "io");
         it_indicativePronouns.put("2s", "tu");
@@ -1051,7 +1043,7 @@ class EnFunctionCallbacks {
         it_indicativePronouns.put("3p", "essi/esse");
     }
 
-    static final Map<String,String> it_subjunctivePronouns = new LinkedHashMap<String, String>();
+    static final Map<String,String> it_subjunctivePronouns = new LinkedHashMap<>();
     static {
         it_subjunctivePronouns.put("1s", "che io");
         it_subjunctivePronouns.put("2s", "che tu");
@@ -1061,7 +1053,7 @@ class EnFunctionCallbacks {
         it_subjunctivePronouns.put("3p", "che essi/esse");
     }
 
-    static final Map<String,String> it_imperativePronouns = new LinkedHashMap<String, String>();
+    static final Map<String,String> it_imperativePronouns = new LinkedHashMap<>();
     static {
         it_imperativePronouns.put("1s", "-");
         it_imperativePronouns.put("2s", "tu");
@@ -1118,18 +1110,18 @@ class EnFunctionCallbacks {
             final List<String> prefixes = (inf != null && inf.endsWith("si")) ? it_reflexive_pronouns : it_empty;
 
             String style = " style=\"background:#c0cfe4\"";
-            outputDataRow(appendAndIndexWikiCallback, style, "indicativo", style, "th", "", new LinkedHashMap<String, String>(it_indicativePronouns), it_empty, false);
+            outputDataRow(appendAndIndexWikiCallback, style, "indicativo", style, "th", "", new LinkedHashMap<>(it_indicativePronouns), it_empty, false);
             outputDataRow(appendAndIndexWikiCallback, style, "presente", "", "td", "pres", namedArgs, prefixes, true);
             outputDataRow(appendAndIndexWikiCallback, style, "imperfetto", "", "td", "imperf", namedArgs, prefixes, true);
             outputDataRow(appendAndIndexWikiCallback, style, "passato remoto", "", "td", "prem", namedArgs, prefixes, true);
             outputDataRow(appendAndIndexWikiCallback, style, "futuro", "", "td", "fut", namedArgs, prefixes, true);
 
             style = " style=\"background:#c0d8e4\"";
-            outputDataRow(appendAndIndexWikiCallback, style, "condizionale", style, "th", "", new LinkedHashMap<String, String>(it_indicativePronouns), it_empty, false);
+            outputDataRow(appendAndIndexWikiCallback, style, "condizionale", style, "th", "", new LinkedHashMap<>(it_indicativePronouns), it_empty, false);
             outputDataRow(appendAndIndexWikiCallback, style, "presente", "", "td", "cond", namedArgs, prefixes, true);
 
             style = " style=\"background:#c0e4c0\"";
-            outputDataRow(appendAndIndexWikiCallback, style, "congiuntivo", style, "th", "", new LinkedHashMap<String, String>(it_subjunctivePronouns), it_empty, false);
+            outputDataRow(appendAndIndexWikiCallback, style, "congiuntivo", style, "th", "", new LinkedHashMap<>(it_subjunctivePronouns), it_empty, false);
             namedArgs.put("sub3s2", namedArgs.remove("sub3s"));
             namedArgs.put("sub1s", namedArgs.get("sub123s"));
             namedArgs.put("sub2s", namedArgs.get("sub123s"));
@@ -1145,7 +1137,7 @@ class EnFunctionCallbacks {
             outputDataRow(appendAndIndexWikiCallback, style, "imperfetto", "", "td", "impsub", namedArgs, prefixes, true);
 
             style = " style=\"background:#e4d4c0\"";
-            outputDataRow(appendAndIndexWikiCallback, style, "imperativo", style, "th", "", new LinkedHashMap<String, String>(it_imperativePronouns), it_empty, false);
+            outputDataRow(appendAndIndexWikiCallback, style, "imperativo", style, "th", "", new LinkedHashMap<>(it_imperativePronouns), it_empty, false);
             outputDataRow(appendAndIndexWikiCallback, style, "", "", "td", "imp", namedArgs, it_empty, false);  // these are attached to the stem.
 
             builder.append("</table>\n");
@@ -1177,7 +1169,7 @@ class EnFunctionCallbacks {
             for (final String number : it_number_s_p) {
                 for (final String person : it_person_1_2_3) {
                     // Output <td> or <th>
-                    builder.append("<").append(type2).append("").append(col2Style).append(">");
+                    builder.append("<").append(type2).append(col2Style).append(">");
                     final String keyBase = String.format("%s%s%s", moodName, person, number);
                     appendAndIndexWikiCallback.dispatch(prefixes.get(i++), null);
                     outputKeyVariations(appendAndIndexWikiCallback, builder, keyBase, namedArgs, isForm);

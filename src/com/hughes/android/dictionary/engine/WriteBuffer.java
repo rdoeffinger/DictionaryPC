@@ -27,22 +27,20 @@ public class WriteBuffer extends PipedOutputStream {
         try {
             pipe = new PipedInputStream(this, size);
             buffer = new byte[BLOCK_SIZE];
-            writeThread = new Thread(new Runnable() {
-                public void run() {
-                    int read;
-                    try {
-                        while ((read = pipe.read(buffer)) > 0)
-                        {
-                            out.write(buffer, 0, read);
-                            out.flush();
-                        }
-                    } catch (IOException e) {
-                        System.out.println("Error writing to file " + e);
+            writeThread = new Thread(() -> {
+                int read;
+                try {
+                    while ((read = pipe.read(buffer)) > 0)
+                    {
+                        out.write(buffer, 0, read);
+                        out.flush();
                     }
-                    try {
-                        out.close();
-                    } catch (IOException e) {}
+                } catch (IOException e) {
+                    System.out.println("Error writing to file " + e);
                 }
+                try {
+                    out.close();
+                } catch (IOException e) {}
             });
             writeThread.start();
         } catch (IOException e) {}
@@ -61,5 +59,5 @@ public class WriteBuffer extends PipedOutputStream {
     Thread writeThread;
     OutputStream out;
     PipedInputStream pipe;
-    byte buffer[];
+    byte[] buffer;
 }

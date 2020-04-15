@@ -15,7 +15,6 @@
 package com.hughes.android.dictionary.engine;
 
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.PrintStream;
 import java.io.RandomAccessFile;
@@ -347,7 +346,7 @@ public class DictionaryBuilderTest extends TestCase {
     }
 
     private void checkGolden(final String dictName, final File dictFile)
-    throws IOException, FileNotFoundException {
+    throws IOException {
         // Check it once:
         assertFilesEqual(GOLDENS + dictName + ".text", dictFile.getPath() + ".text");
 

@@ -73,10 +73,10 @@ public class LanguageTest extends TestCase {
         assertEquals("hulle", normalizer.transform("Hulle"));
 
 
-        final List<String> sorted = new ArrayList<String>(words);
+        final List<String> sorted = new ArrayList<>(words);
 //    Collections.shuffle(shuffled, new Random(0));
-        Collections.sort(sorted, comparator);
-        System.out.println(sorted.toString());
+        sorted.sort(comparator);
+        System.out.println(sorted);
         for (int i = 0; i < words.size(); ++i) {
             System.out.println(words.get(i) + "\t" + sorted.get(i));
             assertEquals(words.get(i), sorted.get(i));
@@ -92,9 +92,9 @@ public class LanguageTest extends TestCase {
                                        "preppy",
                                        "preprocess");
 
-        final List<String> sorted = new ArrayList<String>(words);
+        final List<String> sorted = new ArrayList<>(words);
         final NormalizeComparator comparator = new NormalizeComparator(normalizer, Language.en.getCollator(), 7);
-        Collections.sort(sorted, comparator);
+        sorted.sort(comparator);
         for (int i = 0; i < words.size(); ++i) {
             if (i > 0) {
                 assertTrue(comparator.compare(words.get(i-1), words.get(i)) < 0);
@@ -183,8 +183,8 @@ public class LanguageTest extends TestCase {
 
 
     public void testEnWiktionaryNames() {
-        final Set<String> enLangs = new LinkedHashSet<String>(WiktionaryLangs.isoCodeToEnWikiName.keySet());
-        final List<String> names = new ArrayList<String>();
+        final Set<String> enLangs = new LinkedHashSet<>(WiktionaryLangs.isoCodeToEnWikiName.keySet());
+        final List<String> names = new ArrayList<>();
         for (final String code : WiktionaryLangs.isoCodeToEnWikiName.keySet()) {
             names.add(WiktionaryLangs.isoCodeToEnWikiName.get(code));
             enLangs.add(code.toLowerCase());

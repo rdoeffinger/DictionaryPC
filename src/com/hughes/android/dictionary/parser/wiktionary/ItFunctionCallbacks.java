@@ -25,23 +25,23 @@ class ItFunctionCallbacks {
 
     static <T extends AbstractWiktionaryParser> void addGenericCallbacks(
         Map<String, FunctionCallback<T>> callbacks) {
-        callbacks.put("-hyph-", new Redispatch<T>("\n==== Sillabazione ====\n"));
-        callbacks.put("-pron-", new Redispatch<T>("\n==== Pronuncia ====\n"));
-        callbacks.put("-etim-", new Redispatch<T>("\n==== Etimologia / Derivazione ====\n"));
-        callbacks.put("-syn-", new Redispatch<T>("\n==== Sinonimi ====\n"));
-        callbacks.put("-ant-", new Redispatch<T>("\n==== Antonimi/Contrari ====\n"));
-        callbacks.put("-drv-", new Redispatch<T>("\n==== Parole derivate ====\n"));
-        callbacks.put("-prov-", new Redispatch<T>("\n==== Proverbi e modi di dire ====\n"));
-        callbacks.put("-ref-", new Redispatch<T>("\n==== Note / Riferimenti ====\n"));
-        callbacks.put("-rel-", new Redispatch<T>("\n==== Termini correlati ====\n"));
-        callbacks.put("-var-", new Redispatch<T>("\n==== Varianti ====\n"));
+        callbacks.put("-hyph-", new Redispatch<>("\n==== Sillabazione ====\n"));
+        callbacks.put("-pron-", new Redispatch<>("\n==== Pronuncia ====\n"));
+        callbacks.put("-etim-", new Redispatch<>("\n==== Etimologia / Derivazione ====\n"));
+        callbacks.put("-syn-", new Redispatch<>("\n==== Sinonimi ====\n"));
+        callbacks.put("-ant-", new Redispatch<>("\n==== Antonimi/Contrari ====\n"));
+        callbacks.put("-drv-", new Redispatch<>("\n==== Parole derivate ====\n"));
+        callbacks.put("-prov-", new Redispatch<>("\n==== Proverbi e modi di dire ====\n"));
+        callbacks.put("-ref-", new Redispatch<>("\n==== Note / Riferimenti ====\n"));
+        callbacks.put("-rel-", new Redispatch<>("\n==== Termini correlati ====\n"));
+        callbacks.put("-var-", new Redispatch<>("\n==== Varianti ====\n"));
 
-        callbacks.put("-trans1-", new SkipSection<T>());
-        callbacks.put("-trans2-", new SkipSection<T>());
-        callbacks.put("-ref-", new SkipSection<T>());
+        callbacks.put("-trans1-", new SkipSection<>());
+        callbacks.put("-trans2-", new SkipSection<>());
+        callbacks.put("-ref-", new SkipSection<>());
     }
 
-    static final NameAndArgs<EnParser> NAME_AND_ARGS = new NameAndArgs<EnParser>();
+    static final NameAndArgs<EnParser> NAME_AND_ARGS = new NameAndArgs<>();
 
     static final class Redispatch<T extends AbstractWiktionaryParser> implements
         FunctionCallback<T> {

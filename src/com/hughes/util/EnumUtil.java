@@ -18,7 +18,7 @@ package com.hughes.util;
 @SuppressWarnings("WeakerAccess")
 public final class EnumUtil {
 
-    public static final <T extends Enum<T>> T min(final T e1, final T e2) {
+    public static <T extends Enum<T>> T min(final T e1, final T e2) {
         if (e1 == null) {
             return e2;
         }

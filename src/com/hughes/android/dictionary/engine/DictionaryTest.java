@@ -61,7 +61,7 @@ public class DictionaryTest extends TestCase {
             assertTrue(rows.toString(), rows.size() > 0);
             assertTrue(rows.get(0).toString().startsWith("come mai@"));
             assertTrue(rows.get(0) instanceof TokenRow);
-            assertTrue(!((TokenRow)rows.get(0)).getIndexEntry().htmlEntries.isEmpty());
+            assertFalse(((TokenRow) rows.get(0)).getIndexEntry().htmlEntries.isEmpty());
         }
 
         {
@@ -70,7 +70,7 @@ public class DictionaryTest extends TestCase {
             assertTrue(rows.toString(), rows.size() > 0);
             assertTrue(rows.get(0).toString().startsWith("buon giorno@"));
             assertTrue(rows.get(0) instanceof TokenRow);
-            assertTrue(!((TokenRow)rows.get(0)).getIndexEntry().htmlEntries.isEmpty());
+            assertFalse(((TokenRow) rows.get(0)).getIndexEntry().htmlEntries.isEmpty());
         }
 
         {
@@ -171,7 +171,7 @@ public class DictionaryTest extends TestCase {
 
         // Check that search in lowercase works.
         assertSearchResult("Alibi", "Alibi", deIndex.findInsertionPoint("alib", new AtomicBoolean(false)));
-        System.out.println(deIndex.findInsertionPoint("alib", new AtomicBoolean(false)).toString());
+        System.out.println(deIndex.findInsertionPoint("alib", new AtomicBoolean(false)));
 
         raf.close();
     }

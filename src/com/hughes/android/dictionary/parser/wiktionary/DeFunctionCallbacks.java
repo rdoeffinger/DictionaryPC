@@ -24,7 +24,7 @@ import com.hughes.android.dictionary.parser.wiktionary.AbstractWiktionaryParser.
 class DeFunctionCallbacks {
 
     static <T extends AbstractWiktionaryParser> void addGenericCallbacks(Map<String, FunctionCallback<T>> callbacks) {
-        FunctionCallback<T> callback = new MakeHeadingFromName<T>("====");
+        FunctionCallback<T> callback = new MakeHeadingFromName<>("====");
         callbacks.put("Aussprache", callback);
         callbacks.put("Worttrennung", callback);
         callbacks.put("Bedeutungen", callback);
@@ -50,7 +50,7 @@ class DeFunctionCallbacks {
     }
 
 
-    static final NameAndArgs<EnParser> NAME_AND_ARGS = new NameAndArgs<EnParser>();
+    static final NameAndArgs<EnParser> NAME_AND_ARGS = new NameAndArgs<>();
 
 
     static final class MakeHeadingFromName<T extends AbstractWiktionaryParser> implements FunctionCallback<T> {

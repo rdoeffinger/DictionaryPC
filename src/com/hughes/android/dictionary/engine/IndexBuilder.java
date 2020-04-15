@@ -39,12 +39,12 @@ public class IndexBuilder {
     IndexBuilder(final DictionaryBuilder dictionaryBuilder, final String shortName, final String longName, final Language language, final String normalizerRules, final Set<String> stoplist, final boolean swapPairEntries) {
         this.dictionaryBuilder = dictionaryBuilder;
         index = new Index(dictionaryBuilder.dictionary, shortName, longName, language, normalizerRules, swapPairEntries, stoplist);
-        tokenToData = new TreeMap<String, TokenData>(index.getSortComparator());
+        tokenToData = new TreeMap<>(index.getSortComparator());
         this.stoplist = stoplist;
     }
 
     public void build() {
-        final Set<IndexedEntry> tokenIndexedEntries = new HashSet<IndexedEntry>();
+        final Set<IndexedEntry> tokenIndexedEntries = new HashSet<>();
         final List<RowBase> rows = index.rows;
         index.mainTokenCount = 0;
         for (final TokenData tokenData : tokenToData.values()) {
@@ -101,13 +101,8 @@ public class IndexBuilder {
             }
         }
 
-        final List<IndexEntry> entriesSortedByNumRows = new ArrayList<IndexEntry>(index.sortedIndexEntries);
-        Collections.sort(entriesSortedByNumRows, new Comparator<IndexEntry>() {
-            @Override
-            public int compare(IndexEntry object1, IndexEntry object2) {
-                return object2.numRows - object1.numRows;
-            }
-        });
+        final List<IndexEntry> entriesSortedByNumRows = new ArrayList<>(index.sortedIndexEntries);
+        entriesSortedByNumRows.sort((object1, object2) -> object2.numRows - object1.numRows);
         System.out.println("Most common tokens:");
         for (int i = 0; i < 50 && i < entriesSortedByNumRows.size(); ++i) {
             System.out.println("  " + entriesSortedByNumRows.get(i));
@@ -117,10 +112,10 @@ public class IndexBuilder {
     public static class TokenData {
         final String token;
 
-        final Map<EntryTypeName, List<IndexedEntry>> typeToEntries = new EnumMap<EntryTypeName, List<IndexedEntry>>(EntryTypeName.class);
+        final Map<EntryTypeName, List<IndexedEntry>> typeToEntries = new EnumMap<>(EntryTypeName.class);
         public boolean hasMainEntry = false;
 
-        public List<HtmlEntry> htmlEntries = new ArrayList<HtmlEntry>();
+        public final List<HtmlEntry> htmlEntries = new ArrayList<>();
 
         TokenData(final String token) {
             assert token.equals(token.trim());
@@ -145,7 +140,7 @@ public class IndexBuilder {
             tokenData.hasMainEntry = true;
         }
         if (entries == null) {
-            entries = new ArrayList<IndexedEntry>();
+            entries = new ArrayList<>();
             tokenData.typeToEntries.put(entryTypeName, entries);
         }
         return entries;

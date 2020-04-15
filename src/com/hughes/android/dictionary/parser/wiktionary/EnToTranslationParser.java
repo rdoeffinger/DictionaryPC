@@ -224,7 +224,7 @@ public final class EnToTranslationParser extends EnParser {
         final Pair pair = new Pair(trim(englishText.toString()), trim(foreignText.toString()), swap);
         pairEntry.pairs.add(pair);
         if (!pairsAdded.add(pair.toString())) {
-            LOG.warning("Duplicate pair: " + pair.toString());
+            LOG.warning("Duplicate pair: " + pair);
             incrementCount("WARNING: Duplicate pair" );
         }
     }

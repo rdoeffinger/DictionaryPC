@@ -26,7 +26,7 @@ public class CheckDictionariesMain {
 //    dictionaryInfoOut.println("# LANG_1\t%LANG_2\tFILENAME\tVERSION_CODE\tFILESIZE\tNUM_MAIN_WORDS_1\tNUM_MAIN_WORDS_2\tNUM_ALL_WORDS_1\tNUM_ALL_WORDS_2");
 
         final File[] files = dictDir.listFiles();
-        final List<String> dictNames = new ArrayList<String>();
+        final List<String> dictNames = new ArrayList<>();
         Arrays.sort(files);
         for (final File dictFile : files) {
             if (!dictFile.getName().endsWith("quickdic")) {
@@ -63,7 +63,7 @@ public class CheckDictionariesMain {
 
             // Find the stats.
             System.out.println("Stats...");
-            final List<String> indexNames = new ArrayList<String>();
+            final List<String> indexNames = new ArrayList<>();
             for (final IndexInfo indexInfo : dictionaryInfo.indexInfos) {
                 indexNames.add(indexInfo.shortName);
             }

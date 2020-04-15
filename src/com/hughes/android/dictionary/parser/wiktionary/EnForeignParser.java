@@ -73,8 +73,8 @@ public final class EnForeignParser extends EnParser {
     static final class ListSection {
         final String firstPrefix;
         final String firstLine;
-        final List<String> nextPrefixes = new ArrayList<String>();
-        final List<String> nextLines = new ArrayList<String>();
+        final List<String> nextPrefixes = new ArrayList<>();
+        final List<String> nextLines = new ArrayList<>();
 
         public ListSection(String firstPrefix, String firstLine) {
             this.firstPrefix = firstPrefix;
@@ -97,7 +97,7 @@ public final class EnForeignParser extends EnParser {
         }
 
         final StringBuilder foreignBuilder = new StringBuilder();
-        final List<EnForeignParser.ListSection> listSections = new ArrayList<EnForeignParser.ListSection>();
+        final List<EnForeignParser.ListSection> listSections = new ArrayList<>();
 
         appendAndIndexWikiCallback.reset(foreignBuilder, null);
         this.state = State.ENGLISH_DEF_OF_FOREIGN;  // TODO: this is wrong, need new category....

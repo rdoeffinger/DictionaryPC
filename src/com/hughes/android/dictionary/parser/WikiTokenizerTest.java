@@ -16,6 +16,7 @@ package com.hughes.android.dictionary.parser;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.List;
 
 import junit.framework.TestCase;
@@ -29,7 +30,7 @@ public class WikiTokenizerTest extends TestCase {
         assertEquals(wikiText, new WikiTokenizer(wikiText).nextToken().token());
         assertTrue(new WikiTokenizer(wikiText).nextToken().isWikiLink());
         assertEquals("abc", new WikiTokenizer(wikiText).nextToken().wikiLinkText());
-        assertEquals(null, new WikiTokenizer(wikiText).nextToken().wikiLinkDest());
+        assertNull(new WikiTokenizer(wikiText).nextToken().wikiLinkDest());
 
         wikiText = "[[abc|def]]";
         assertEquals(wikiText, new WikiTokenizer(wikiText).nextToken().token());
@@ -93,7 +94,7 @@ public class WikiTokenizerTest extends TestCase {
         assertEquals(wikiText, new WikiTokenizer(wikiText).nextToken().token());
         assertTrue(new WikiTokenizer(wikiText).nextToken().isFunction());
         assertEquals("abc", new WikiTokenizer(wikiText).nextToken().functionName());
-        assertEquals(Arrays.asList("def"), new WikiTokenizer(wikiText).nextToken().functionPositionArgs());
+        assertEquals(Collections.singletonList("def"), new WikiTokenizer(wikiText).nextToken().functionPositionArgs());
         assertEquals(0, new WikiTokenizer(wikiText).nextToken().functionNamedArgs().size());
 
         wikiText = "{{abc|d[[|]]ef|ghi}}";
@@ -153,10 +154,10 @@ public class WikiTokenizerTest extends TestCase {
         assertEquals("\n", tokenizer.nextToken().token());
 
         assertEquals("hello2", tokenizer.nextToken().token());
-        assertEquals(null, tokenizer.nextToken());
+        assertNull(tokenizer.nextToken());
         tokenizer.returnToLineStart();
         assertEquals("hello2", tokenizer.nextToken().token());
-        assertEquals(null, tokenizer.nextToken());
+        assertNull(tokenizer.nextToken());
 
 
     }
@@ -233,7 +234,7 @@ public class WikiTokenizerTest extends TestCase {
             "[extraterminated]]" + "\n" +
             "=== {{header-template}} ===" + "\n";
 
-        final String[] expectedTokens = new String[] {
+        final String[] expectedTokens = {
             "Hi",
             "\n",
             "Hello ",
@@ -298,7 +299,7 @@ public class WikiTokenizerTest extends TestCase {
             "\n",
         };
 
-        final List<String> actualTokens = new ArrayList<String>();
+        final List<String> actualTokens = new ArrayList<>();
 
         final WikiTokenizer wikiTokenizer = new WikiTokenizer(wikiText);
         WikiTokenizer token;

@@ -21,6 +21,7 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
+import java.nio.charset.StandardCharsets;
 import java.util.LinkedHashMap;
 import java.util.LinkedHashSet;
 import java.util.List;
@@ -52,8 +53,8 @@ public abstract class AbstractWiktionaryParser implements Parser {
 
     private static final Pattern SUPERSCRIPT = Pattern.compile("<sup>[0-9]*</sup>");
 
-    final SortedMap<String, AtomicInteger> counters = new TreeMap<String, AtomicInteger>();
-    final Set<String> pairsAdded = new LinkedHashSet<String>();
+    final SortedMap<String, AtomicInteger> counters = new TreeMap<>();
+    final Set<String> pairsAdded = new LinkedHashSet<>();
 
     public EntrySource entrySource;
     public String title;
@@ -129,7 +130,7 @@ public abstract class AbstractWiktionaryParser implements Parser {
                 final int bytesLength = dis.readInt();
                 final byte[] bytes = new byte[bytesLength];
                 dis.readFully(bytes);
-                final String text = new String(bytes, "UTF8");
+                final String text = new String(bytes, StandardCharsets.UTF_8);
 
                 parseSection(heading, replaceSuperscript(text));
 
@@ -174,14 +175,14 @@ public abstract class AbstractWiktionaryParser implements Parser {
         StringBuilder builder;
         IndexedEntry indexedEntry;
         IndexBuilder indexBuilder;
-        final Map<String,FunctionCallback<T>> functionCallbacks = new LinkedHashMap<String, FunctionCallback<T>>();
+        final Map<String,FunctionCallback<T>> functionCallbacks = new LinkedHashMap<>();
 
         boolean entryTypeNameSticks = false;
         EntryTypeName entryTypeName = null;
 
-        final Map<String,AtomicInteger> langCodeToTCount = new LinkedHashMap<String, AtomicInteger>();
+        final Map<String,AtomicInteger> langCodeToTCount = new LinkedHashMap<>();
 
-        final NameAndArgs<T> nameAndArgs = new NameAndArgs<T>();
+        final NameAndArgs<T> nameAndArgs = new NameAndArgs<>();
 
         public AppendAndIndexWikiCallback(final T parser) {
             this.parser = parser;
@@ -302,17 +303,17 @@ public abstract class AbstractWiktionaryParser implements Parser {
             if (name != null) {
                 appendAndIndexWikiCallback.dispatch(name, null);
             }
-            for (int i = 0; i < args.size(); ++i) {
-                if (args.get(i).length() > 0) {
+            for (String arg : args) {
+                if (arg.length() > 0) {
                     appendAndIndexWikiCallback.builder.append("|");
-                    appendAndIndexWikiCallback.dispatch(args.get(i), null, null);
+                    appendAndIndexWikiCallback.dispatch(arg, null, null);
                 }
             }
             appendNamedArgs(namedArgs, appendAndIndexWikiCallback);
             return true;
         }
     }
-    static NameAndArgs<AbstractWiktionaryParser> NAME_AND_ARGS = new NameAndArgs<AbstractWiktionaryParser>();
+    static NameAndArgs<AbstractWiktionaryParser> NAME_AND_ARGS = new NameAndArgs<>();
 
     static void appendNamedArgs(final Map<String, String> namedArgs,
                                 final AppendAndIndexWikiCallback<?> appendAndIndexWikiCallback) {

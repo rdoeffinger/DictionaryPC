@@ -30,7 +30,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
         void addFunctionCallbacks(
             Map<String, FunctionCallback<WholeSectionToHtmlParser>> functionCallbacks);
     }
-    static final Map<String,LangConfig> isoToLangConfig = new LinkedHashMap<String,LangConfig>();
+    static final Map<String,LangConfig> isoToLangConfig = new LinkedHashMap<>();
     static {
         final Pattern enSkipSections = Pattern.compile(".*(Translations|Anagrams|References).*");
         isoToLangConfig.put("EN", new LangConfig() {
@@ -47,23 +47,18 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
                 if (sectionName.equalsIgnoreCase("Antonyms")) {
                     return EntryTypeName.ANTONYM_MULTI;
                 }
-                if (EnParser.partOfSpeechHeader.matcher(sectionName).matches()) {
-                    // We need to put it in the other index, too (probably)
-                    return null;
-                }
-                if (sectionName.equalsIgnoreCase("Derived Terms")) {
-                    return null;
-                }
+                // We need to put it in the other index, too (probably) ?
+                // EnParser.partOfSpeechHeader.matcher(sectionName).matches()
+
+                // Needs special handling?
+                // sectionName.equalsIgnoreCase("Derived Terms")
                 return null;
             }
 
             @Override
             public boolean skipWikiLink(WikiTokenizer wikiTokenizer) {
                 final String wikiText = wikiTokenizer.wikiLinkText();
-                if (wikiText.startsWith("Category:")) {
-                    return true;
-                }
-                return false;
+                return wikiText.startsWith("Category:");
             }
             @Override
             public String adjustWikiLink(String wikiLinkDest, String wikiLinkText) {
@@ -108,10 +103,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
             @Override
             public boolean skipWikiLink(WikiTokenizer wikiTokenizer) {
                 final String wikiText = wikiTokenizer.wikiLinkText();
-                if (wikiText.startsWith("Categoría:")) {
-                    return true;
-                }
-                return false;
+                return wikiText.startsWith("Categoría:");
             }
             @Override
             public String adjustWikiLink(String wikiLinkDest, String wikiLinkText) {
@@ -156,10 +148,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
             @Override
             public boolean skipWikiLink(WikiTokenizer wikiTokenizer) {
                 final String wikiText = wikiTokenizer.wikiLinkText();
-                if (wikiText.startsWith("Categoria:")) {
-                    return true;
-                }
-                return false;
+                return wikiText.startsWith("Categoria:");
             }
             @Override
             public String adjustWikiLink(String wikiLinkDest, String wikiLinkText) {
@@ -204,10 +193,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
             @Override
             public boolean skipWikiLink(WikiTokenizer wikiTokenizer) {
                 final String wikiText = wikiTokenizer.wikiLinkText();
-                if (wikiText.startsWith("Kategorie:")) {
-                    return true;
-                }
-                return false;
+                return wikiText.startsWith("Kategorie:");
             }
             @Override
             public String adjustWikiLink(String wikiLinkDest, String wikiLinkText) {
@@ -252,10 +238,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
             @Override
             public boolean skipWikiLink(WikiTokenizer wikiTokenizer) {
                 final String wikiText = wikiTokenizer.wikiLinkText();
-                if (wikiText.startsWith("Categoria:")) {
-                    return true;
-                }
-                return false;
+                return wikiText.startsWith("Categoria:");
             }
             @Override
             public String adjustWikiLink(String wikiLinkDest, String wikiLinkText) {
@@ -301,10 +284,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
             @Override
             public boolean skipWikiLink(WikiTokenizer wikiTokenizer) {
                 final String wikiText = wikiTokenizer.wikiLinkText();
-                if (wikiText.startsWith("Catégorie:")) {
-                    return true;
-                }
-                return false;
+                return wikiText.startsWith("Catégorie:");
             }
             @Override
             public String adjustWikiLink(String wikiLinkDest, String wikiLinkText) {
@@ -439,7 +419,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
             if (!StringUtil.isNullOrEmpty(linkDest)) {
                 builder.append(String.format("<a href=\"%s\">", HtmlEntry.formatQuickdicUrl("", linkDest)));
                 super.onWikiLink(wikiTokenizer);
-                builder.append(String.format("</a>"));
+                builder.append("</a>");
             } else {
                 super.onWikiLink(wikiTokenizer);
             }
@@ -489,7 +469,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
             builder.append(String.format("</h%d>\n", depth));
         }
 
-        final List<Character> listPrefixStack = new ArrayList<Character>();
+        final List<Character> listPrefixStack = new ArrayList<>();
 
         @Override
         public void onListItem(WikiTokenizer wikiTokenizer) {
