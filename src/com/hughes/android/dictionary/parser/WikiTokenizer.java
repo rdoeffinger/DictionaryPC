@@ -97,7 +97,7 @@ public final class WikiTokenizer {
     int start = -1;
 
     final List<String> errors = new ArrayList<>();
-    final List<String> tokenStack = new ArrayList<>();
+    final List<TokenDelim> tokenStack = new ArrayList<>();
 
 
     private String headingWikiText;
@@ -377,7 +377,7 @@ public final class WikiTokenizer {
                     // Skip non-=...
                     if (end < len) {
                         final int nextNewline = safeIndexOf(wikiText, end, "\n", "\n");
-                        final int closingEquals = escapedFindEnd(end, "=");
+                        final int closingEquals = escapedFindEnd(end, TokenDelim.EQUALS);
                         if (wikiText.charAt(closingEquals - 1) == '=') {
                             end = closingEquals - 1;
                         } else {
@@ -397,7 +397,7 @@ public final class WikiTokenizer {
                 if (listChars.indexOf(firstChar) != -1) {
                     while (++end < len && listChars.indexOf(wikiText.charAt(end)) != -1) {}
                     listPrefixEnd = end;
-                    end = escapedFindEnd(start, "\n");
+                    end = escapedFindEnd(start, TokenDelim.NEWLINE);
                     return this;
                 }
             }
@@ -415,13 +415,13 @@ public final class WikiTokenizer {
             }
 
             if (wikiText.startsWith("[[", start)) {
-                end = escapedFindEnd(start + 2, "]]");
+                end = escapedFindEnd(start + 2, TokenDelim.DBRACKET_CLOSE);
                 isWikiLink = errors.isEmpty();
                 return this;
             }
 
             if (wikiText.startsWith("{{", start)) {
-                end = escapedFindEnd(start + 2, "}}");
+                end = escapedFindEnd(start + 2, TokenDelim.BRACE_CLOSE);
                 isFunction = errors.isEmpty();
                 return this;
             }
@@ -501,66 +501,90 @@ public final class WikiTokenizer {
         return token;
     }
 
+    enum TokenDelim { NEWLINE, BRACE_OPEN, BRACE_CLOSE, DBRACKET_OPEN, DBRACKET_CLOSE, BRACKET_OPEN, BRACKET_CLOSE, PIPE, EQUALS, COMMENT }
+
+    private int tokenDelimLen(TokenDelim d) {
+        switch (d) {
+            case NEWLINE:
+            case BRACKET_OPEN:
+            case BRACKET_CLOSE:
+            case PIPE:
+            case EQUALS:
+                return 1;
+            case BRACE_OPEN:
+            case BRACE_CLOSE:
+            case DBRACKET_OPEN:
+            case DBRACKET_CLOSE:
+                return 2;
+            case COMMENT:
+                return 4;
+            default:
+                throw new RuntimeException();
+        }
+    }
+
     static final String[] patterns = { "\n", "{{", "}}", "[[", "]]", "[", "]", "|", "=", "<!--" };
-    private int escapedFindEnd(final int start, final String toFind) {
+    private int escapedFindEnd(final int start, final TokenDelim toFind) {
         assert tokenStack.isEmpty();
 
-        final boolean insideFunction = toFind.equals("}}");
+        final boolean insideFunction = toFind == TokenDelim.BRACE_CLOSE;
 
         int end = start;
         int firstNewline = -1;
-        int[] nextMatch = new int[patterns.length];
-        Arrays.fill(nextMatch, -2);
         int singleBrackets = 0;
         while (end < wikiText.length()) {
             // Manual replacement for matcher.find(end),
             // because Java regexp is a ridiculously slow implementation.
             // Initialize to always match the end.
-            int matchIdx = 0;
-            for (int i = 0; i < nextMatch.length; ++i) {
-                if (nextMatch[i] <= end) {
-                    nextMatch[i] = wikiText.indexOf(patterns[i], end);
-                    if (nextMatch[i] == -1) nextMatch[i] = i > 0 ? 0x7fffffff : wikiText.length();
-                }
-                if (nextMatch[i] < nextMatch[matchIdx]) {
-                    matchIdx = i;
-                }
+            TokenDelim match = TokenDelim.NEWLINE;
+            int matchStart = end;
+            for (; matchStart < wikiText.length(); matchStart++) {
+                int i = matchStart;
+                int c = wikiText.charAt(i);
+                if (c == '\n') break;
+                if (c == '{' && wikiText.startsWith("{{", i)) { match = TokenDelim.BRACE_OPEN; break; }
+                if (c == '}' && wikiText.startsWith("}}", i)) { match = TokenDelim.BRACE_CLOSE; break; }
+                if (c == '[') { match = wikiText.startsWith("[[", i) ? TokenDelim.DBRACKET_OPEN : TokenDelim.BRACKET_OPEN ; break; }
+                if (c == ']') { match = wikiText.startsWith("]]", i) ? TokenDelim.DBRACKET_CLOSE : TokenDelim.BRACKET_CLOSE ; break; }
+                if (c == '|') { match = TokenDelim.PIPE; break; }
+                if (c == '=') { match = TokenDelim.EQUALS; break; }
+                if (c == '<' && wikiText.startsWith("<!--", i)) { match = TokenDelim.COMMENT; break; }
             }
 
-            int matchStart = nextMatch[matchIdx];
-            String matchText = patterns[matchIdx];
-            int matchEnd = matchStart + matchText.length();
-            if (matchIdx == 0) {
-                matchText = "";
-                matchEnd = matchStart;
-            }
-
-            assert matchEnd > end || matchText.length() == 0: "Group=" + matchText;
-            if (matchText.length() == 0) {
-                assert matchStart == wikiText.length() || wikiText.charAt(matchStart) == '\n' : wikiText + ", " + matchStart;
-                if (firstNewline == -1) {
-                    firstNewline = matchEnd;
-                }
-                if (tokenStack.isEmpty() && toFind.equals("\n")) {
-                    return matchStart;
-                }
-                ++end;
-            } else if (tokenStack.isEmpty() && matchText.equals(toFind)) {
+            int matchEnd = matchStart + (match == TokenDelim.NEWLINE ? 0 : tokenDelimLen(match));
+            if (match != TokenDelim.NEWLINE && tokenStack.isEmpty() && match == toFind) {
                 // The normal return....
                 if (insideFunction) {
                     addFunctionArg(insideFunction, matchStart);
                 }
                 return matchEnd;
-            } else if (matchText.equals("[")) {
+            }
+            switch (match) {
+                case NEWLINE:
+                assert matchStart == wikiText.length() || wikiText.charAt(matchStart) == '\n' : wikiText + ", " + matchStart;
+                if (firstNewline == -1) {
+                    firstNewline = matchEnd;
+                }
+                if (tokenStack.isEmpty() && toFind == TokenDelim.NEWLINE) {
+                    return matchStart;
+                }
+                ++end;
+                break;
+                case BRACKET_OPEN:
                 singleBrackets++;
-            } else if (matchText.equals("]")) {
+                break;
+                case BRACKET_CLOSE:
                 if (singleBrackets > 0) singleBrackets--;
-            } else if (matchText.equals("[[") || matchText.equals("{{")) {
-                tokenStack.add(matchText);
-            } else if (matchText.equals("]]") || matchText.equals("}}")) {
-                if (tokenStack.size() > 0) {
-                    final String removed = tokenStack.remove(tokenStack.size() - 1);
-                    if (removed.equals("{{") && !matchText.equals("}}")) {
+                break;
+                case DBRACKET_OPEN:
+                case BRACE_OPEN:
+                tokenStack.add(match);
+                break;
+                case DBRACKET_CLOSE:
+                case BRACE_CLOSE:
+                if (!tokenStack.isEmpty()) {
+                    final TokenDelim removed = tokenStack.remove(tokenStack.size() - 1);
+                    if (removed == TokenDelim.BRACE_OPEN && match != TokenDelim.BRACE_CLOSE) {
                         if (singleBrackets >= 2) { // assume this is really two closing single ]
                             singleBrackets -= 2;
                             tokenStack.add(removed);
@@ -568,46 +592,47 @@ public final class WikiTokenizer {
                             errors.add("Unmatched {{ error: " + wikiText.substring(start, matchEnd));
                             return safeIndexOf(wikiText, start, "\n", "\n");
                         }
-                    } else if (removed.equals("[[") && !matchText.equals("]]")) {
+                    } else if (removed == TokenDelim.DBRACKET_OPEN && match != TokenDelim.DBRACKET_CLOSE) {
                         errors.add("Unmatched [[ error: " + wikiText.substring(start, matchEnd));
                         return safeIndexOf(wikiText, start, "\n", "\n");
                     }
                 } else {
-                    errors.add("Pop too many " + matchText + " error: " + wikiText.substring(start, matchEnd).replace("\n", "\\\\n"));
+                    errors.add("Pop too many " + wikiText.substring(matchStart, matchEnd) + " error: " + wikiText.substring(start, matchEnd).replace("\n", "\\\\n"));
                     // If we were looking for a newline
                     return safeIndexOf(wikiText, start, "\n", "\n");
                 }
-            } else if (matchText.equals("|")) {
+                break;
+                case PIPE:
                 if (tokenStack.isEmpty()) {
                     addFunctionArg(insideFunction, matchStart);
                 }
-            } else if (matchText.equals("=")) {
+                break;
+                case EQUALS:
                 if (tokenStack.isEmpty()) {
                     lastUnescapedEqualsPos = matchStart;
                 }
                 // Do nothing.  These can match spuriously, and if it's not the thing
                 // we're looking for, keep on going.
-            } else if (matchText.equals("<!--")) {
+                break;
+                case COMMENT:
                 end = wikiText.indexOf("-->", matchStart);
                 if (end == -1) {
                     errors.add("Unmatched <!-- error: " + wikiText.substring(start));
                     return safeIndexOf(wikiText, start, "\n", "\n");
                 }
-            } else if (matchText.equals("''") || (matchText.startsWith("<") && matchText.endsWith(">"))) {
-                // Don't care.
-            } else {
-                assert false : "Match text='" + matchText + "'";
-                throw new IllegalStateException();
+                break;
+                default:
+                    throw new RuntimeException();
             }
 
             // Inside the while loop.  Just go forward.
             end = Math.max(end, matchEnd);
         }
-        if (toFind.equals("\n") && tokenStack.isEmpty()) {
+        if (toFind == TokenDelim.NEWLINE && tokenStack.isEmpty()) {
             // We were looking for the end, we got it.
             return end;
         }
-        errors.add("Couldn't find: " + (toFind.equals("\n") ? "newline" : toFind) + ", "+ wikiText.substring(start));
+        errors.add("Couldn't find: " + toFind + ", "+ wikiText.substring(start));
         if (firstNewline != -1) {
             return firstNewline;
         }
