@@ -150,7 +150,7 @@ public final class WikiTokenizer {
         namedArgs.clear();
     }
 
-    private static final Pattern POSSIBLE_WIKI_TEXT = Pattern.compile(
+    private static final Matcher POSSIBLE_WIKI_TEXT = Pattern.compile(
                 "\\{\\{|" +
                 "\\[\\[|" +
                 "<!--|" +
@@ -159,11 +159,32 @@ public final class WikiTokenizer {
                 "<math>|" +
                 "<ref>|" +
                 "[\n]"
-            );
+            ).matcher("");
 
     public static void dispatch(final String wikiText, final boolean isNewline, final Callback callback) {
-        // Optimization...
-        if (!POSSIBLE_WIKI_TEXT.matcher(wikiText).find()) {
+        // Statistical background, from EN-DE dictionary generation:
+        // out of 12083000 calls, 9697686 can be skipped via the test
+        // for ', \n and ((c - 0x3b) & 0xff9f) < 2 (which covers among others
+        // <, { and [).
+        // This increased to 10006466 checking for <, { and [ specifically,
+        // and is minimally faster overall.
+        // A even more precise one using regex and checking for {{, [[, <!--, '',
+        // <pre>, <math>, <ref> and \n increased that to 10032846.
+        // Regex thus seems far too costly for a measly increase from 80%/82% to 83% rejection rate
+        // However completely removing it changes output (likely a bug), so leave it in for now
+        // but at least run it only on the 18% not caught by the faster logic.
+        // Original runtime: 1m29.708s
+        // Optimized: 1m19.170s
+        // Regex removed: 1m20.314s (not statistically significant)
+        boolean matched = false;
+        for (int i = 0; i < wikiText.length(); i++) {
+            int c = wikiText.charAt(i);
+            if (c == '\'' || c == '\n' || c == '<' || c == '[' || c == '{') {
+                matched = true;
+                break;
+            }
+        }
+        if (!matched || !POSSIBLE_WIKI_TEXT.reset(wikiText).find()) {
             callback.onPlainText(wikiText);
         } else {
             final WikiTokenizer tokenizer = new WikiTokenizer(wikiText, isNewline);
