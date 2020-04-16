@@ -74,7 +74,7 @@ public final class WikiTokenizer {
     }
 
     //private static final Pattern wikiTokenEvent = Pattern.compile("($)", Pattern.MULTILINE);
-    private static final Pattern wikiTokenEvent = Pattern.compile("(" +
+    private static final Pattern wikiTokenEvent = Pattern.compile(
             "\\{\\{|\\}\\}|" +
             "\\[\\[|\\]\\]|" +
             "\\||" +  // Need the | because we might have to find unescaped pipes
@@ -84,7 +84,7 @@ public final class WikiTokenizer {
             "<pre>|" +
             "<math>|" +
             "<ref>|" +
-            "$)", Pattern.MULTILINE);
+            "\n", Pattern.MULTILINE);
     private static final String listChars = "*#:;";
 
 
@@ -123,6 +123,7 @@ public final class WikiTokenizer {
 
     public WikiTokenizer(String wikiText, final boolean isNewline) {
         wikiText = wikiText.replace('\u2028', '\n');
+        wikiText = wikiText.replace('\u2029', '\n');
         wikiText = wikiText.replace('\u0085', '\n');
         this.wikiText = wikiText;
         this.matcher = wikiTokenEvent.matcher(wikiText);
@@ -158,7 +159,7 @@ public final class WikiTokenizer {
                 "<pre>|" +
                 "<math>|" +
                 "<ref>|" +
-                "[\n]"
+                "\n"
             ).matcher("");
 
     public static void dispatch(final String wikiText, final boolean isNewline, final Callback callback) {
@@ -356,7 +357,7 @@ public final class WikiTokenizer {
             }
 
             // Eat a newline if we're looking at one:
-            final boolean atNewline = wikiText.charAt(end) == '\n' || wikiText.charAt(end) == '\u2028' || wikiText.charAt(end) == '\u2029';
+            final boolean atNewline = wikiText.charAt(end) == '\n';
             if (atNewline) {
                 justReturnedNewline = true;
                 ++end;
@@ -463,19 +464,21 @@ public final class WikiTokenizer {
 
 
             if (this.matcher.find(start)) {
-                end = this.matcher.start(1);
+                end = this.matcher.start();
                 isPlainText = true;
                 if (end == start) {
                     // stumbled over a new type of newline?
                     // Or matcher is out of sync with checks above
                     errors.add("Empty group: " + this.matcher.group() + " char: " + (int)wikiText.charAt(end));
                     assert false;
+                    // Note: all newlines should be normalize to \n before calling this function
                     throw new RuntimeException("matcher not in sync with code, or new type of newline, errors :" + errors);
                 }
                 return this;
             }
 
             end = wikiText.length();
+            isPlainText = true;
             return this;
 
         } finally {
