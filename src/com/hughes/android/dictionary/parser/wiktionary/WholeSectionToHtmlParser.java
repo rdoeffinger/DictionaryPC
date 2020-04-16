@@ -344,14 +344,13 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
 
         if (webUrlTemplate != null) {
             final String webUrl = String.format(webUrlTemplate, title);
-            boolean success = true;
+            String asciiWebUrl = null;
             // URI.create can raise an exception e.g. if webUrl contains %, just ignore those cases.
             try {
-                String asciiWebUrl = URI.create(webUrl).toASCIIString();
+                asciiWebUrl = URI.create(webUrl).toASCIIString();
             } catch (Exception e) {
-                success = false;
             }
-            if (success) {
+            if (asciiWebUrl != null) {
                 callback.builder.append("<p> <a href=\"");
                 callback.builder.append(asciiWebUrl);
                 callback.builder.append("\">");
