@@ -344,10 +344,19 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
 
         if (webUrlTemplate != null) {
             final String webUrl = String.format(webUrlTemplate, title);
+            boolean success = true;
             // URI.create can raise an exception e.g. if webUrl contains %, just ignore those cases.
             try {
-                callback.builder.append(String.format("<p> <a href=\"%s\">%s</a>", URI.create(webUrl).toASCIIString(), escapeHtmlLiteral(webUrl)));
+                String asciiWebUrl = URI.create(webUrl).toASCIIString();
             } catch (Exception e) {
+                success = false;
+            }
+            if (success) {
+                callback.builder.append("<p> <a href=\"");
+                callback.builder.append(asciiWebUrl);
+                callback.builder.append("\">");
+                callback.builder.append(escapeHtmlLiteral(webUrl));
+                callback.builder.append("</a>");
             }
         }
         htmlEntry.html = callback.builder.toString();
@@ -417,7 +426,9 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
                 titleIndexBuilder.addEntryWithString(indexedEntry, wikiTokenizer.wikiLinkText(), sectionEntryTypeName);
             }
             if (!StringUtil.isNullOrEmpty(linkDest)) {
-                builder.append(String.format("<a href=\"%s\">", HtmlEntry.formatQuickdicUrl("", linkDest)));
+                builder.append("<a href=\"");
+                builder.append(HtmlEntry.formatQuickdicUrl("", linkDest));
+                builder.append("\">");
                 super.onWikiLink(wikiTokenizer);
                 builder.append("</a>");
             } else {
@@ -464,9 +475,13 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
                 }
                 return;
             }
-            builder.append(String.format("\n<h%d>", depth));
+            builder.append("\n<h");
+            builder.append(depth);
+            builder.append('>');
             dispatch(headingText, null);
-            builder.append(String.format("</h%d>\n", depth));
+            builder.append("</h");
+            builder.append(depth);
+            builder.append(">\n");
         }
 
         final List<Character> listPrefixStack = new ArrayList<>();
@@ -478,8 +493,9 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
             }
             final String prefix = wikiTokenizer.listItemPrefix();
             while (listPrefixStack.size() < prefix.length()) {
-                builder.append(String.format("<%s>",
-                                             WikiTokenizer.getListTag(prefix.charAt(listPrefixStack.size()))));
+                builder.append('<');
+                builder.append(WikiTokenizer.getListTag(prefix.charAt(listPrefixStack.size())));
+                builder.append('>');
                 listPrefixStack.add(prefix.charAt(listPrefixStack.size()));
             }
             builder.append("<li>");
@@ -503,7 +519,9 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
             }
             while (listPrefixStack.size() > nextListHeader.length()) {
                 final char prefixChar = listPrefixStack.remove(listPrefixStack.size() - 1);
-                builder.append(String.format("</%s>\n", WikiTokenizer.getListTag(prefixChar)));
+                builder.append("</");
+                builder.append(WikiTokenizer.getListTag(prefixChar));
+                builder.append(">\n");
             }
         }
 
