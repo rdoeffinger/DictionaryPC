@@ -14,16 +14,7 @@
 
 package com.hughes.android.dictionary.engine;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.EnumMap;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Map;
-import java.util.Set;
-import java.util.SortedMap;
-import java.util.TreeMap;
+import java.util.*;
 
 import com.hughes.android.dictionary.engine.Index.IndexEntry;
 import com.hughes.android.dictionary.parser.DictFileParser;
@@ -34,12 +25,14 @@ public class IndexBuilder {
     public final Index index;
     final Set<String> stoplist;
 
+    final Map<String, TokenData> fastTokenToData;
     final SortedMap<FastCompareString, TokenData> tokenToData;
 
     IndexBuilder(final DictionaryBuilder dictionaryBuilder, final String shortName, final String longName, final Language language, final String normalizerRules, final Set<String> stoplist, final boolean swapPairEntries) {
         this.dictionaryBuilder = dictionaryBuilder;
         index = new Index(dictionaryBuilder.dictionary, shortName, longName, language, normalizerRules, swapPairEntries, stoplist);
         tokenToData = new TreeMap<>(new FastNormalizeComparator(index.getSortComparator()));
+        fastTokenToData = new HashMap<>();
         this.stoplist = stoplist;
     }
 
@@ -125,12 +118,16 @@ public class IndexBuilder {
     }
 
     public TokenData getOrCreateTokenData(final String token) {
+        TokenData tokenData = fastTokenToData.get(token);
+        if (tokenData != null) return tokenData;
+        tokenData = new TokenData(token);
         final FastCompareString c = new FastCompareString(token);
-        TokenData tokenData = tokenToData.get(c);
-        if (tokenData == null) {
-            tokenData = new TokenData(token);
-            tokenToData.put(c, tokenData);
+        if (tokenToData.put(c, tokenData) != null) {
+            // The parallel HashMap assumes that the TreeMap Comparator
+            // is compatible with the equals it uses to compare.
+            throw new RuntimeException("TokenData TreeMap and HashMap out of sync, Comparator may be broken?");
         }
+        fastTokenToData.put(token, tokenData);
         return tokenData;
     }
 
