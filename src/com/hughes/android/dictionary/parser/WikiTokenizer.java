@@ -463,8 +463,15 @@ public final class WikiTokenizer {
             }
 
 
-            if (this.matcher.find(start)) {
-                end = this.matcher.start();
+            while (end < wikiText.length()) {
+                int c = wikiText.charAt(end);
+                if (c == '\n' || c == '\'' || ((c - 0x1b) & 0xff9f) < 3) {
+                    matcher.region(end, wikiText.length());
+                    if (matcher.lookingAt()) break;
+                }
+                end++;
+            }
+            if (end != wikiText.length()) {
                 isPlainText = true;
                 if (end == start) {
                     // stumbled over a new type of newline?
@@ -477,7 +484,6 @@ public final class WikiTokenizer {
                 return this;
             }
 
-            end = wikiText.length();
             isPlainText = true;
             return this;
 
