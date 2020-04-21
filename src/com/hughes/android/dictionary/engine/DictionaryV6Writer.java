@@ -248,16 +248,41 @@ public class DictionaryV6Writer {
             writev6IndexEntries(out, idx.sortedIndexEntries, prunedRowIdx);
 
             // write stoplist, serializing the whole Set *shudder*
-            final ByteArrayOutputStream baos = new ByteArrayOutputStream();
-            final ObjectOutputStream oos = new ObjectOutputStream(baos);
-            oos.writeObject(idx.stoplist);
-            oos.close();
-            final byte[] bytes = baos.toByteArray();
-
+            // Actually just emulate ObjectOutputStream serialization
+            final byte[] hashSetSerialized = {
+                (byte)0xac, (byte)0xed, // magic
+                0x00, 0x05, // version
+                0x73, // object
+                0x72, // class
+                // "java.util.HashSet"
+                0x00, 0x11, 0x6a, 0x61, 0x76, 0x61, 0x2e, 0x75, 0x74, 0x69,
+                0x6c, 0x2e, 0x48, 0x61, 0x73, 0x68, 0x53, 0x65, 0x74,
+                // serialization ID
+                (byte)0xba, 0x44, (byte)0x85, (byte)0x95, (byte)0x96, (byte)0xb8, (byte)0xb7, 0x34,
+                0x03, // flags: serialized, custom serialization function
+                0x00, 0x00, // fields count
+                0x78, // blockdata end
+                0x70, // null (superclass)
+                0x77, 0x0c // blockdata short, 0xc bytes
+            };
+            int stoplistlen = hashSetSerialized.length;
+            stoplistlen += 12; // block data: capacity (int), load factor (float), size (int)
+            for (String s : idx.stoplist) {
+                stoplistlen += 3 + s.length();
+            }
+            stoplistlen++;
 
             DataOutputStream outb = new DataOutputStream(new BufferedOutputStream(new FileOutputStream(out.getFD())));
-            outb.writeInt(bytes.length);
-            outb.write(bytes);
+            outb.writeInt(stoplistlen);
+            outb.write(hashSetSerialized);
+            outb.writeInt(idx.stoplist.size()); // capacity
+            outb.writeFloat(0.75f); // load factor
+            outb.writeInt(idx.stoplist.size()); // size
+            for (String s : idx.stoplist) {
+                outb.writeByte(0x74); // String type
+                outb.writeUTF(s);
+            }
+            outb.writeByte(0x78); // blockdata end
 
             outb.writeInt(skipHtml ? prunedSize : idx.rows.size());
             outb.writeInt(5);
