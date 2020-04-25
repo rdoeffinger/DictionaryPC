@@ -20,7 +20,7 @@ import java.io.PipedInputStream;
 import java.io.PipedOutputStream;
 
 public class WriteBuffer extends PipedOutputStream {
-    static int BLOCK_SIZE = 1024 * 1024;
+    static int BLOCK_SIZE = 256 * 1024;
     public WriteBuffer(OutputStream out, int size) {
         assert size >= 2 * BLOCK_SIZE;
         this.out = out;

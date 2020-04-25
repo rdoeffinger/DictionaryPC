@@ -28,6 +28,8 @@ import java.util.ArrayList;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -41,16 +43,16 @@ import org.xml.sax.SAXException;
 
 import com.hughes.android.dictionary.parser.wiktionary.WiktionaryLangs;
 
-public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
+public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler implements Runnable {
 
     // The matches the whole line, otherwise regexes don't work well on French:
     // {{=uk=}}
     // Spanish has no initial headings, tried to also detect {{ES as such
     // with "^(\\{\\{ES|(=+)[^=]).*$" but that broke English.
-    static final Matcher headingStart = Pattern.compile("^(=+)[^=].*$", Pattern.MULTILINE).matcher("");
-    static final Matcher startSpanish = Pattern.compile("\\{\\{ES(\\|[^{}=]*)?}}").matcher("");
+    static final Pattern headingStartPattern = Pattern.compile("^(=+)[^=].*$", Pattern.MULTILINE);
+    static final Pattern startSpanish = Pattern.compile("\\{\\{ES(\\|[^{}=]*)?}}");
 
-    final Map<String,List<Selector>> pathToSelectors = new LinkedHashMap<>();
+    final Map.Entry<String, List<Selector>> pathToSelectorsEntry;
     List<Selector> currentSelectors = null;
 
     StringBuilder titleBuilder;
@@ -58,11 +60,24 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
     StringBuilder currentBuilder = null;
 
     public static void main(final String[] args) throws Exception {
-        final WiktionarySplitter wiktionarySplitter = new WiktionarySplitter();
-        wiktionarySplitter.go();
+        boolean parallel = args.length > 0 && args[0].equals("parallel");
+        final ExecutorService e = Executors.newCachedThreadPool();
+        final Map<String,List<Selector>> pathToSelectors = createSelectorsMap();
+        for (final Map.Entry<String, List<Selector>> pathToSelectorsEntry : pathToSelectors.entrySet()) {
+            final WiktionarySplitter wiktionarySplitter = new WiktionarySplitter(pathToSelectorsEntry);
+            if (parallel) {
+                e.submit(wiktionarySplitter);
+            } else wiktionarySplitter.go();
+        }
+        e.shutdown();
     }
 
-    private WiktionarySplitter() {
+    private WiktionarySplitter(final Map.Entry<String, List<Selector>> pathToSelectorsEntry) {
+        this.pathToSelectorsEntry = pathToSelectorsEntry;
+    }
+
+    private static Map<String,List<Selector>> createSelectorsMap() {
+        final Map<String,List<Selector>> pathToSelectors = new LinkedHashMap<>();
         List<Selector> selectors;
         for (final String code : WiktionaryLangs.wikiCodeToIsoCodeToWikiName.keySet()) {
             //if (!code.equals("fr")) {continue;}
@@ -74,13 +89,22 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
                 selectors.add(new Selector(String.format("%s/%s.data", dir, entry.getKey()), entry.getValue()));
             }
         }
+        return pathToSelectors;
+    }
+
+    @Override
+    public void run() {
+        try {
+            go();
+        } catch (Exception e) {
+            throw new RuntimeException(e);
+        }
     }
 
     private void go() throws Exception {
         final SAXParser parser = SAXParserFactory.newInstance().newSAXParser();
 
         // Configure things.
-        for (final Map.Entry<String, List<Selector>> pathToSelectorsEntry : pathToSelectors.entrySet()) {
 
             currentSelectors = pathToSelectorsEntry.getValue();
 
@@ -88,7 +112,7 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
                 OutputStream tmp = new FileOutputStream(selector.outFilename + ".gz");
                 tmp = new BufferedOutputStream(tmp);
                 tmp = new CompressorStreamFactory().createCompressorOutputStream(CompressorStreamFactory.GZIP, tmp);
-                tmp = new WriteBuffer(tmp, 20 * 1024 * 1024);
+                tmp = new WriteBuffer(tmp, 1024 * 1024);
                 selector.out = new DataOutputStream(tmp);
             }
 
@@ -115,8 +139,6 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
             for (final Selector selector : currentSelectors) {
                 selector.out.close();
             }
-
-        }
     }
 
     String lastPageTitle = null;
@@ -216,10 +238,10 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler {
 
         String text = textBuilder.toString();
         // Workaround for Spanish wiktionary {{ES}} and {{ES|word}} patterns
-        text = startSpanish.reset(text).replaceAll("== {{lengua|es}} ==");
+        text = startSpanish.matcher(text).replaceAll("== {{lengua|es}} ==");
         String translingual = "";
         int start = 0;
-        headingStart.reset(text);
+        Matcher headingStart = headingStartPattern.matcher(text);
 
         while (start < text.length()) {
             // Find start.
