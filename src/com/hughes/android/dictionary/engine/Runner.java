@@ -29,8 +29,10 @@ public class Runner {
             DictionaryBuilder.main(newargs);
         } else if (args[0].equals("ConvertToV6")) {
             ConvertToV6.main(newargs);
+        } else if (args[0].equals("CheckDictionariesMain")) {
+            CheckDictionariesMain.main(newargs);
         } else {
-            System.out.println("Unknown command '" + args[0] + "'. Use one of WiktionarySplitter, DictionaryBuilder or ConvertToV6 instead.");
+            System.out.println("Unknown command '" + args[0] + "'. Use one of WiktionarySplitter, DictionaryBuilder, ConvertToV6 or CheckDictionariesMain instead.");
         }
     }
 }
