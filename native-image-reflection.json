@@ -1,0 +1,8 @@
+[
+  {
+    "name": "com.ibm.icu.text.CollatorServiceShim",
+    "methods": [
+      { "name": "<init>", "parameterTypes": [] }
+    ]
+  }
+]
