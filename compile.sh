@@ -27,4 +27,5 @@ fi
 mkdir -p bin
 # -encoding is just a work around for user that still run systems
 # with non-UTF8 locales
-javac --limit-modules java.xml,java.logging -Xlint:all -encoding UTF-8 -g -d bin/ ../Dictionary/Util/src/com/hughes/util/*.java ../Dictionary/Util/src/com/hughes/util/raf/*.java ../Dictionary/src/com/hughes/android/dictionary/DictionaryInfo.java ../Dictionary/src/com/hughes/android/dictionary/engine/*.java ../Dictionary/src/com/hughes/android/dictionary/C.java src/com/hughes/util/*.java src/com/hughes/android/dictionary/*.java src/com/hughes/android/dictionary/*/*.java src/com/hughes/android/dictionary/*/*/*.java -classpath "$ICU4J:$JUNIT:$COMMONS:$COMMONS_COMPRESS"
+# Limit to Java 11 for compatibility with native-image
+javac --source 11 --target 11 --limit-modules java.xml,java.logging -Xlint:all -encoding UTF-8 -g -d bin/ ../Dictionary/Util/src/com/hughes/util/*.java ../Dictionary/Util/src/com/hughes/util/raf/*.java ../Dictionary/src/com/hughes/android/dictionary/DictionaryInfo.java ../Dictionary/src/com/hughes/android/dictionary/engine/*.java ../Dictionary/src/com/hughes/android/dictionary/C.java src/com/hughes/util/*.java src/com/hughes/android/dictionary/*.java src/com/hughes/android/dictionary/*/*.java src/com/hughes/android/dictionary/*/*/*.java -classpath "$ICU4J:$JUNIT:$COMMONS:$COMMONS_COMPRESS"
