@@ -179,6 +179,7 @@ public class WiktionaryLangs {
         isoCodeToWikiName.put("ES", Pattern.quote("{{langue|es}}"));
         isoCodeToWikiName.put("UK", Pattern.quote("{{langue|uk}}"));
         isoCodeToWikiName.put("PT", Pattern.quote("{{langue|pt}}"));
+        isoCodeToWikiName.put("SV", Pattern.quote("{{langue|sv}}"));
 
         // egrep -o '= *\{\{-[a-z]+-\}\} *=' itwiktionary-pages-articles.xml | sort | uniq -c | sort -n
         isoCodeToWikiName = new LinkedHashMap<>();
