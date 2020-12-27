@@ -100,7 +100,7 @@ public class DictFileParser implements Parser {
     }
 
     private void parseLine(final String line) {
-        if (line.startsWith("#") || line.length() == 0) {
+        if (line.startsWith("#") || line.isEmpty()) {
             logger.info("Skipping comment line: " + line);
             return;
         }
@@ -135,14 +135,14 @@ public class DictFileParser implements Parser {
         for (int i = 0; i < subfields[0].length; ++i) {
             subfields[0][i] = subfields[0][i].trim();
             subfields[1][i] = subfields[1][i].trim();
-            if (subfields[0][i].length() == 0 && subfields[1][i].length() == 0) {
+            if (subfields[0][i].isEmpty() && subfields[1][i].isEmpty()) {
                 logger.warning("Empty pair: " + line);
                 continue;
             }
-            if (subfields[0][i].length() == 0) {
+            if (subfields[0][i].isEmpty()) {
                 subfields[0][i] = "__";
             }
-            if (subfields[1][i].length() == 0) {
+            if (subfields[1][i].isEmpty()) {
                 subfields[1][i] = "__";
             }
             pairEntry.pairs.add(new PairEntry.Pair(subfields[0][i], subfields[1][i]));
@@ -172,18 +172,29 @@ public class DictFileParser implements Parser {
         final StringBuilder bracketed = new StringBuilder();
         final StringBuilder parenthesized = new StringBuilder();
 
-        Matcher matcher;
-        while ((matcher = BRACKETED.matcher(field)).find()) {
-            bracketed.append(matcher.group(1)).append(" ");
-            field = matcher.replaceFirst(" ");
+        if (field.indexOf('[') != -1) {
+            StringBuilder stripped = new StringBuilder(field.length());
+            Matcher matcher = BRACKETED.matcher(field);
+            while (matcher.find()) {
+                bracketed.append(matcher.group(1)).append(" ");
+                matcher.appendReplacement(stripped, " ");
+            }
+            stripped = matcher.appendTail(stripped);
+            field = stripped.toString();
         }
 
-        while ((matcher = PARENTHESIZED.matcher(field)).find()) {
-            parenthesized.append(matcher.group(1)).append(" ");
-            field = matcher.replaceFirst(" ");
+        if (field.indexOf('(') != -1) {
+            StringBuilder stripped = new StringBuilder(field.length());
+            Matcher matcher = PARENTHESIZED.matcher(field);
+            while (matcher.find()) {
+                parenthesized.append(matcher.group(1)).append(" ");
+                matcher.appendReplacement(stripped, " ");
+            }
+            stripped = matcher.appendTail(stripped);
+            field = stripped.toString();
         }
 
-        field = SPACES.matcher(field).replaceAll(" ").trim();
+        field = field.trim();
 
         // split words on non -A-z0-9, do them.
         final String[] tokens = NON_CHAR_DASH.split(field);
@@ -222,15 +233,15 @@ public class DictFileParser implements Parser {
 
         for (String token : tokens) {
             token = TRIM_PUNC.matcher(token).replaceAll("");
-            if (/*!alreadyDone.contains(token) && */token.length() > 0) {
+            if (/*!alreadyDone.contains(token) && */!token.isEmpty()) {
                 indexBuilder.addEntryWithTokens(entryData, Collections.singleton(token), entryTypeName);
                 // alreadyDone.add(token);
 
                 // also split words on dashes, do them, too.
-                if (token.contains("-")) {
+                if (token.indexOf('-') != -1) {
                     final String[] dashed = token.split("-");
                     for (final String dashedToken : dashed) {
-                        if (/*!alreadyDone.contains(dashedToken) && */dashedToken.length() > 0) {
+                        if (/*!alreadyDone.contains(dashedToken) && */!dashedToken.isEmpty()) {
                             indexBuilder.addEntryWithTokens(entryData, Collections.singleton(dashedToken), EntryTypeName.PART_OF_HYPHENATED);
                         }
                     }
@@ -240,20 +251,24 @@ public class DictFileParser implements Parser {
         }  // for (final String token : tokens) {
 
         // process bracketed stuff (split on spaces and dashes always)
-        final String[] bracketedTokens = NON_CHAR.split(bracketed.toString());
-        for (final String token : bracketedTokens) {
-            assert !token.contains("-");
-            if (/*!alreadyDone.contains(token) && */token.length() > 0) {
-                indexBuilder.addEntryWithTokens(entryData, Collections.singleton(token), EntryTypeName.BRACKETED);
+        if (bracketed.length() > 0) {
+            final String[] bracketedTokens = NON_CHAR.split(bracketed.toString());
+            for (final String token : bracketedTokens) {
+                assert token.indexOf("-") == -1;
+                if (/*!alreadyDone.contains(token) && */!token.isEmpty()) {
+                    indexBuilder.addEntryWithTokens(entryData, Collections.singleton(token), EntryTypeName.BRACKETED);
+                }
             }
         }
 
         // process paren stuff
-        final String[] parenTokens = NON_CHAR.split(parenthesized.toString());
-        for (final String token : parenTokens) {
-            assert !token.contains("-");
-            if (/*!alreadyDone.contains(token) && */token.length() > 0) {
-                indexBuilder.addEntryWithTokens(entryData, Collections.singleton(token), EntryTypeName.PARENTHESIZED);
+        if (parenthesized.length() > 0) {
+            final String[] parenTokens = NON_CHAR.split(parenthesized.toString());
+            for (final String token : parenTokens) {
+                assert token.indexOf("-") == -1;
+                if (/*!alreadyDone.contains(token) && */!token.isEmpty()) {
+                    indexBuilder.addEntryWithTokens(entryData, Collections.singleton(token), EntryTypeName.PARENTHESIZED);
+                }
             }
         }
 
