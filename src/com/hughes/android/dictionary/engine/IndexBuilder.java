@@ -88,8 +88,7 @@ public class IndexBuilder {
                 }
 
                 final Index.IndexEntry indexEntry = new Index.IndexEntry(index, tokenData.token, index
-                        .normalizer().transliterate(tokenData.token), startRow, numRows);
-                indexEntry.htmlEntries.addAll(tokenData.htmlEntries);
+                        .normalizer().transliterate(tokenData.token), startRow, numRows, tokenData.htmlEntries);
                 index.sortedIndexEntries.add(indexEntry);
             }
         }
