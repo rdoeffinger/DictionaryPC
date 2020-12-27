@@ -150,10 +150,10 @@ public class DictionaryBuilder {
                 String inputFormat = keyValueArgs.remove(prefix + "Format");
                 if ("tab_separated".equals(inputFormat)) {
                     final boolean flipColumns = "true".equals(keyValueArgs.remove(prefix + "FlipColumns"));
-                    new DictFileParser(charset, flipColumns, DictFileParser.TAB, null, dictionaryBuilder, dictionaryBuilder.indexBuilders.toArray(new IndexBuilder[0]), null).parse(file, entrySource, pageLimit);
+                    new DictFileParser(charset, flipColumns, DictFileParser.TAB, null, dictionaryBuilder).parse(file, entrySource, pageLimit);
                 } else if ("chemnitz".equals(inputFormat)) {
                     final boolean flipColumns = "true".equals(keyValueArgs.remove(prefix + "FlipColumns"));
-                    new DictFileParser(charset, flipColumns, DictFileParser.DOUBLE_COLON, DictFileParser.PIPE, dictionaryBuilder, dictionaryBuilder.indexBuilders.toArray(new IndexBuilder[0]), null).parse(file, entrySource, pageLimit);
+                    new DictFileParser(charset, flipColumns, DictFileParser.DOUBLE_COLON, DictFileParser.PIPE, dictionaryBuilder).parse(file, entrySource, pageLimit);
                 } else if ("enwiktionary".equals(inputFormat)) {
                     final String type = keyValueArgs.remove(prefix + "WiktionaryType");
                     final Pattern langPattern = Pattern.compile(keyValueArgs.remove(prefix + "LangPattern"), Pattern.CASE_INSENSITIVE);

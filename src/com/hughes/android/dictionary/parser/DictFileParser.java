@@ -66,8 +66,6 @@ public class DictFileParser implements Parser {
     final Pattern subfieldSplit;
 
     final DictionaryBuilder dictBuilder;
-    final IndexBuilder[] langIndexBuilders;
-    final IndexBuilder bothIndexBuilder;
 
     EntrySource entrySource;
 
@@ -75,15 +73,12 @@ public class DictFileParser implements Parser {
 
     public DictFileParser(final Charset charset, boolean flipCols,
                           final Pattern fieldSplit, final Pattern subfieldSplit,
-                          final DictionaryBuilder dictBuilder, final IndexBuilder[] langIndexBuilders,
-                          final IndexBuilder bothIndexBuilder) {
+                          final DictionaryBuilder dictBuilder) {
         this.charset = charset;
         this.flipCols = flipCols;
         this.fieldSplit = fieldSplit;
         this.subfieldSplit = subfieldSplit;
         this.dictBuilder = dictBuilder;
-        this.langIndexBuilders = langIndexBuilders;
-        this.bothIndexBuilder = bothIndexBuilder;
     }
 
     @Override
@@ -158,9 +153,9 @@ public class DictFileParser implements Parser {
         for (int l = 0; l < 2; ++l) {
             // alreadyDone.clear();
 
+            final IndexBuilder indexBuilder = dictBuilder.indexBuilders.get(l);
             for (int j = 0; j < subfields[l].length; ++j) {
                 String subfield = subfields[l][j];
-                final IndexBuilder indexBuilder = langIndexBuilders[l];
                 if (indexBuilder.index.sortLanguage == Language.de) {
                     subfield = parseField_DE(indexBuilder, subfield, entryData, j);
                 } else if (indexBuilder.index.sortLanguage == Language.en) {
