@@ -35,22 +35,21 @@ import com.hughes.android.dictionary.engine.IndexBuilder;
 import com.hughes.android.dictionary.engine.IndexedEntry;
 import com.hughes.android.dictionary.engine.Language;
 import com.hughes.android.dictionary.engine.PairEntry;
+import com.hughes.util.StringUtil;
 
 public class DictFileParser implements Parser {
 
     static final Logger logger = Logger.getLogger(DictFileParser.class.getName());
 
     // Dictcc
-    public static final Pattern TAB = Pattern.compile("\\t");
+    public static final String TAB = "\t";
 
     // Chemnitz
-    public static final Pattern DOUBLE_COLON = Pattern.compile(" :: ");
-    public static final Pattern PIPE = Pattern.compile("\\|");
+    public static final String DOUBLE_COLON = " :: ";
+    public static final String PIPE = "|";
 
     static final Pattern SPACES = Pattern.compile("\\s+");
 
-    static final Pattern BRACKETED = Pattern.compile("\\[([^]]+)\\]");
-    static final Pattern PARENTHESIZED = Pattern.compile("\\(([^)]+)\\)");
     static final Pattern CURLY_BRACED = Pattern.compile("\\{([^}]+)\\}");
 
     // http://www.regular-expressions.info/unicode.html
@@ -62,8 +61,8 @@ public class DictFileParser implements Parser {
     final Charset charset;
     final boolean flipCols;
 
-    final Pattern fieldSplit;
-    final Pattern subfieldSplit;
+    final String fieldSplit;
+    final String subfieldSplit;
 
     final DictionaryBuilder dictBuilder;
 
@@ -72,7 +71,7 @@ public class DictFileParser implements Parser {
     // final Set<String> alreadyDone = new HashSet<String>();
 
     public DictFileParser(final Charset charset, boolean flipCols,
-                          final Pattern fieldSplit, final Pattern subfieldSplit,
+                          final String fieldSplit, final String subfieldSplit,
                           final DictionaryBuilder dictBuilder) {
         this.charset = charset;
         this.flipCols = flipCols;
@@ -104,7 +103,7 @@ public class DictFileParser implements Parser {
             logger.info("Skipping comment line: " + line);
             return;
         }
-        final String[] fields = fieldSplit.split(line);
+        final String[] fields = StringUtil.split(line, fieldSplit);
         if (fields.length < 2 || fields.length > 4) {
             logger.warning("Malformed line, expected 3 or 4 fields, got " + fields.length + ": " + line);
             return;
@@ -120,8 +119,8 @@ public class DictFileParser implements Parser {
 
         final String[][] subfields = new String[2][];
         if (subfieldSplit != null) {
-            subfields[0] = subfieldSplit.split(fields[0]);
-            subfields[1] = subfieldSplit.split(fields[1]);
+            subfields[0] = StringUtil.split(fields[0], subfieldSplit);
+            subfields[1] = StringUtil.split(fields[1], subfieldSplit);
             if (subfields[0].length != subfields[1].length) {
                 logger.warning("Number of subfields doesn't match: " + line);
                 return;
@@ -166,35 +165,27 @@ public class DictFileParser implements Parser {
         }
     }
 
+    private StringBuilder extractParenthesized(StringBuilder in, String startChar, String endChar) {
+        StringBuilder res = new StringBuilder();
+        int pos = 0;
+        while ((pos = in.indexOf(startChar, pos)) != -1) {
+            int end = in.indexOf(endChar, pos + 1);
+            if (end == -1) break;
+            res.append(in, pos + 1, end).append(" ");
+            in.replace(pos, end + 1, " ");
+            pos++; // skip the just appended space
+        }
+        return res;
+    }
+
     private void parseFieldGeneric(final IndexBuilder indexBuilder, String field,
                                    final IndexedEntry entryData, final int subfieldIdx, final int numSubFields) {
+        final StringBuilder fieldsb = new StringBuilder(field);
         // remove bracketed and parenthesized stuff.
-        final StringBuilder bracketed = new StringBuilder();
-        final StringBuilder parenthesized = new StringBuilder();
+        final StringBuilder bracketed = extractParenthesized(fieldsb, "[", "]");
+        final StringBuilder parenthesized = extractParenthesized(fieldsb, "(", ")");
 
-        if (field.indexOf('[') != -1) {
-            StringBuilder stripped = new StringBuilder(field.length());
-            Matcher matcher = BRACKETED.matcher(field);
-            while (matcher.find()) {
-                bracketed.append(matcher.group(1)).append(" ");
-                matcher.appendReplacement(stripped, " ");
-            }
-            stripped = matcher.appendTail(stripped);
-            field = stripped.toString();
-        }
-
-        if (field.indexOf('(') != -1) {
-            StringBuilder stripped = new StringBuilder(field.length());
-            Matcher matcher = PARENTHESIZED.matcher(field);
-            while (matcher.find()) {
-                parenthesized.append(matcher.group(1)).append(" ");
-                matcher.appendReplacement(stripped, " ");
-            }
-            stripped = matcher.appendTail(stripped);
-            field = stripped.toString();
-        }
-
-        field = field.trim();
+        field = fieldsb.toString().trim();
 
         // split words on non -A-z0-9, do them.
         final String[] tokens = NON_CHAR_DASH.split(field);
@@ -239,7 +230,7 @@ public class DictFileParser implements Parser {
 
                 // also split words on dashes, do them, too.
                 if (token.indexOf('-') != -1) {
-                    final String[] dashed = token.split("-");
+                    final String[] dashed = StringUtil.split(token, "-");
                     for (final String dashedToken : dashed) {
                         if (/*!alreadyDone.contains(dashedToken) && */!dashedToken.isEmpty()) {
                             indexBuilder.addEntryWithTokens(entryData, Collections.singleton(dashedToken), EntryTypeName.PART_OF_HYPHENATED);
@@ -287,6 +278,8 @@ public class DictFileParser implements Parser {
 //        entries.add(entryData);
 //      }
 //    }
+
+        if (field.indexOf('{') == -1) return field;
 
         // In English, curly braces are used for different tenses.
         field = CURLY_BRACED.matcher(field).replaceAll(" ");
