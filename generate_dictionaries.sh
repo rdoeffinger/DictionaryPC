@@ -30,6 +30,7 @@ test "$lang" = "PDC" && lang=pdc
 test "$lang" = "NDS" && lang=nds
 test "$lang" = "CU" && lang=cu
 test "$lang" = "ROM" && lang=rom
+test "$lang" = "MWW" && lang=mww
 
 reverse_dicts=""
 if test "$lang" = "DE" -o "$lang" = "FR" -o "$lang" = "IT" ; then
@@ -67,6 +68,7 @@ test "$lang" = "CMN" && lang=cmn
 test "$lang" = "GRC" && lang=grc
 test "$lang" = "HAW" && lang=haw
 test "$lang" = "YUE" && lang=yue
+test "$lang" = "MWW" && lang=mww
 
 reverse_dicts=""
 if test "$lang" = "FR" -o "$lang" = "IT" ; then
@@ -94,6 +96,7 @@ test "$lang" = "CMN" && lang=cmn
 test "$lang" = "GRC" && lang=grc
 test "$lang" = "HAW" && lang=haw
 test "$lang" = "YUE" && lang=yue
+test "$lang" = "MWW" && lang=mww
 
 reverse_dicts=""
 if test "$lang" = "DE" -o "$lang" = "IT" ; then
@@ -117,6 +120,7 @@ test "$lang" = "CMN" && lang=cmn
 test "$lang" = "GRC" && lang=grc
 test "$lang" = "HAW" && lang=haw
 test "$lang" = "YUE" && lang=yue
+test "$lang" = "MWW" && lang=mww
 
 reverse_dicts=""
 if test "$lang" = "FR" -o "$lang" = "DE" ; then
@@ -141,11 +145,13 @@ test "$lang1" = "CMN" && lang1=cmn
 test "$lang1" = "GRC" && lang1=grc
 test "$lang1" = "HAW" && lang1=haw
 test "$lang1" = "YUE" && lang1=yue
+test "$lang1" = "MWW" && lang1=mww
 test "$lang2" = "CY" && lang2=CI
 test "$lang2" = "CMN" && lang2=cmn
 test "$lang2" = "GRC" && lang2=grc
 test "$lang2" = "HAW" && lang2=haw
 test "$lang2" = "YUE" && lang2=yue
+test "$lang2" = "MWW" && lang2=mww
 stoplist1=""
 stoplist2=""
 test -e data/inputs/stoplists/${langcode1}.txt && stoplist1="--lang1Stoplist=data/inputs/stoplists/${langcode1}.txt"

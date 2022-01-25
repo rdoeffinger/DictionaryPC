@@ -47,6 +47,7 @@ ml Malayalam
 mn Mongolian
 mr Marathi
 ms Malay
+mww White Hmong
 ne Nepali
 nl Dutch
 no Norwegian
