@@ -1,0 +1,30 @@
+This is a very quick write-up of how to add a new language
+wiktionary to the inputs.
+This is primarily for the single-language dictionaries,
+though it can also be used to improve the quality of
+translation dictionaries.
+This is all from memory, so there are likely steps missing,
+please send a pull request to improve it!
+
+- edit data/downloadInputs.sh:
+  - copy/modify one of the sections, only changing the L=en part to
+    match the language, e.g. L=nl for Dutch
+- run that script to download the data
+
+- in src/com/hughes/android/dictionary/parser/wiktionary/WiktionaryLangs.java extend wikiCodeToIsoCodeToWikiName
+  - something like:
+        isoCodeToWikiName = new LinkedHashMap<>();
+        wikiCodeToIsoCodeToWikiName.put("nl", isoCodeToWikiName); // language code of newly added language
+        isoCodeToWikiName.put("code", "Pattern"); // if "Pattern" is found that signals an entry for language "code"
+
+- in src/com/hughes/android/dictionary/engine/WiktionarySplitter.java
+  - in endPage function extend the list of sections to ignore/filter out
+  - check that headingStartPattern regex works for the language
+
+- run ./compile.sh to compile the code
+- run ./WiktionarySplitter.sh to parse and split the downloaded files
+- you should get files matching the new language like data/inputs/wikiSplit/nl/NL.data
+
+- edit generate_dictionaries.sh to generate the new dictionaries.
+  - e.g. add nl to the SINGLE_DICTS=... list
+  - to speed up testing, you can disable generating all other dictionaries
