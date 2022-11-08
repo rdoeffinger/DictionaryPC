@@ -5,7 +5,7 @@ test -r "$JUNIT" || JUNIT=/usr/share/junit/lib/junit.jar
 COMMONS=/usr/share/java/commons-text.jar
 COMMONS_COMPRESS=/usr/share/java/commons-compress.jar
 if [ ! -x ../Dictionary ] ; then
-    echo "You need to clone the Dictionary repository (including subprojects) into .."
+    echo "You need to clone the Dictionary repository (including subprojects) into .., alongside this DictionaryPC clone"
     exit 1
 fi
 if [ ! -x ../Dictionary/Util ] ; then
