@@ -8,6 +8,10 @@ if [ ! -x ../Dictionary ] ; then
     echo "You need to clone the Dictionary repository (including subprojects) into .."
     exit 1
 fi
+if [ ! -x ../Dictionary/Util ] ; then
+    echo "Dictionary/Util directory is missing, did you clone the Dictionary repository without --recursive?"
+    exit 1
+fi
 if [ ! -r "$ICU4J" ] ; then
     echo "ICU4J needs to be installed"
     exit 1;
