@@ -9,8 +9,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-import com.hughes.android.dictionary.DictionaryInfo;
-import com.hughes.android.dictionary.DictionaryInfo.IndexInfo;
+import com.hughes.android.dictionary.engine.DictionaryInfo.IndexInfo;
 import com.hughes.util.CollectionUtil;
 
 public class CheckDictionariesMain {

@@ -36,10 +36,13 @@ if [ ! -r "$COMMONS_COMPRESS" ] ; then
     echo "Download from https://repo1.maven.org/maven2/org/apache/commons/commons-compress/1.27.1/commons-compress-1.27.1.jar"
     exit 1;
 fi
+# https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.18.0/commons-lang3-3.18.0.jar
+# https://repo1.maven.org/maven2/org/tukaani/xz/1.10/xz-1.10.jar
+# https://repo1.maven.org/maven2/com/github/luben/zstd-jni/1.5.7-4/zstd-jni-1.5.7-4.jar
 mkdir -p bin
 # -encoding is just a work around for user that still run systems
 # with non-UTF8 locales
-javac --source 21 --target 21 --limit-modules java.xml,java.logging -Xlint:all -encoding UTF-8 -g -d bin/ ../Dictionary/Util/src/com/hughes/util/*.java ../Dictionary/Util/src/com/hughes/util/raf/*.java ../Dictionary/src/com/hughes/android/dictionary/DictionaryInfo.java ../Dictionary/src/com/hughes/android/dictionary/engine/*.java ../Dictionary/src/com/hughes/android/dictionary/C.java src/com/hughes/util/*.java src/com/hughes/android/dictionary/*.java src/com/hughes/android/dictionary/*/*.java src/com/hughes/android/dictionary/*/*/*.java -classpath "$ICU4J:$JUNIT:$COMMONS:$COMMONS_COMPRESS"
+javac --source 21 --target 21 --limit-modules java.xml,java.logging -Xlint:all -encoding UTF-8 -g -d bin/ ../Dictionary/Util/src/com/hughes/util/*.java ../Dictionary/Util/src/com/hughes/util/raf/*.java ../Dictionary/src/com/hughes/android/dictionary/engine/*.java src/com/hughes/util/*.java src/com/hughes/android/dictionary/*.java src/com/hughes/android/dictionary/*/*.java src/com/hughes/android/dictionary/*/*/*.java -classpath "$ICU4J:$JUNIT:$COMMONS:$COMMONS_COMPRESS"
 if [ "$?" != "0" ] ; then
     echo "compilation failed, check output above for errors!"
     exit 1;
