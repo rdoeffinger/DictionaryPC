@@ -68,14 +68,27 @@ public class CheckDictionariesMain {
                 indexNames.add(indexInfo.shortName);
             }
             dictNames.add(CollectionUtil.join(indexNames, "-") + "\n");
-            final String row = dictionaryInfo.append(new StringBuilder()).toString();
+            StringBuilder row = new StringBuilder();
+            row.append(dictionaryInfo.uncompressedFilename);
+            row.append("\t").append(dictionaryInfo.downloadUrl);
+            row.append("\t").append(dictionaryInfo.creationMillis);
+            row.append("\t").append(dictionaryInfo.uncompressedBytes);
+            row.append("\t").append(dictionaryInfo.zipBytes);
+            row.append("\t").append(dictionaryInfo.indexInfos.size());
+            for (final IndexInfo indexInfo : dictionaryInfo.indexInfos) {
+                row.append("\t").append(indexInfo.shortName);
+                row.append("\t").append(indexInfo.allTokenCount);
+                row.append("\t").append(indexInfo.mainTokenCount);
+            }
+            row.append("\t").append(dictionaryInfo.dictInfo.replace("\n", "\\\\n"));
+
             if (!zipFile.canRead()) {
                 System.err.println("Couldn't read zipfile: " + zipFile);
             }
-            System.out.println(row + "\n");
+            System.out.println(row.toString() + "\n");
 
 
-            dictionaryInfoOut.println(row);
+            dictionaryInfoOut.println(row.toString());
             dictionaryInfoOut.flush();
 
             raf.close();
