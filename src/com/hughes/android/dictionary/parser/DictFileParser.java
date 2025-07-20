@@ -25,7 +25,6 @@ import java.util.Collections;
 import java.util.LinkedHashSet;
 import java.util.Set;
 import java.util.logging.Logger;
-import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import com.hughes.android.dictionary.engine.DictionaryBuilder;
@@ -242,7 +241,7 @@ public class DictFileParser implements Parser {
         }  // for (final String token : tokens) {
 
         // process bracketed stuff (split on spaces and dashes always)
-        if (bracketed.length() > 0) {
+        if (!bracketed.isEmpty()) {
             final String[] bracketedTokens = NON_CHAR.split(bracketed.toString());
             for (final String token : bracketedTokens) {
                 assert token.indexOf("-") == -1;
@@ -253,7 +252,7 @@ public class DictFileParser implements Parser {
         }
 
         // process paren stuff
-        if (parenthesized.length() > 0) {
+        if (!parenthesized.isEmpty()) {
             final String[] parenTokens = NON_CHAR.split(parenthesized.toString());
             for (final String token : parenTokens) {
                 assert token.indexOf("-") == -1;

@@ -304,7 +304,7 @@ public abstract class AbstractWiktionaryParser implements Parser {
                 appendAndIndexWikiCallback.dispatch(name, null);
             }
             for (String arg : args) {
-                if (arg.length() > 0) {
+                if (!arg.isEmpty()) {
                     appendAndIndexWikiCallback.builder.append("|");
                     appendAndIndexWikiCallback.dispatch(arg, null, null);
                 }

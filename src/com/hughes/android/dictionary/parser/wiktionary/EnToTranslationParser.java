@@ -103,7 +103,7 @@ public final class EnToTranslationParser extends EnParser {
 
                 if (functionName.equals("trans-top")) {
                     sense = null;
-                    if (wikiTokenizer.functionPositionArgs().size() >= 1) {
+                    if (!wikiTokenizer.functionPositionArgs().isEmpty()) {
                         sense = positionArgs.get(0);
                         sense = WikiTokenizer.toPlainText(sense);
                         //LOG.info("Sense: " + sense);
@@ -159,7 +159,7 @@ public final class EnToTranslationParser extends EnParser {
                 }
 
                 String rest = line.substring(colonIndex + 1).trim();
-                if (rest.length() > 0) {
+                if (!rest.isEmpty()) {
                     doTranslationLine(line, appendLang ? lang : null, pos, sense, rest);
                 }
 
@@ -199,7 +199,7 @@ public final class EnToTranslationParser extends EnParser {
         appendAndIndexWikiCallback.reset(foreignText, indexedEntry);
         appendAndIndexWikiCallback.dispatch(rest, foreignIndexBuilder, EntryTypeName.WIKTIONARY_TRANSLATION_OTHER_TEXT);
 
-        if (foreignText.length() == 0) {
+        if (foreignText.isEmpty()) {
             LOG.warning("Empty foreignText: " + line);
             incrementCount("WARNING: Empty foreignText" );
             return;

@@ -58,7 +58,7 @@ public class DictionaryTest extends TestCase {
         {
             final List<RowBase> rows = itIndex.multiWordSearch("come mai", Arrays.asList("come", "mai"), new AtomicBoolean(false));
             System.out.println(CollectionUtil.join(rows, "\n  "));
-            assertTrue(rows.toString(), rows.size() > 0);
+            assertTrue(rows.toString(), !rows.isEmpty());
             assertTrue(rows.get(0).toString().startsWith("come mai@"));
             assertTrue(rows.get(0) instanceof TokenRow);
             assertFalse(((TokenRow) rows.get(0)).getIndexEntry().htmlEntries.isEmpty());
@@ -67,7 +67,7 @@ public class DictionaryTest extends TestCase {
         {
             final List<RowBase> rows = itIndex.multiWordSearch("buon g", Arrays.asList("buon", "g"), new AtomicBoolean(false));
             System.out.println(CollectionUtil.join(rows, "\n  "));
-            assertTrue(rows.toString(), rows.size() > 0);
+            assertTrue(rows.toString(), !rows.isEmpty());
             assertTrue(rows.get(0).toString().startsWith("buon giorno@"));
             assertTrue(rows.get(0) instanceof TokenRow);
             assertFalse(((TokenRow) rows.get(0)).getIndexEntry().htmlEntries.isEmpty());
@@ -231,7 +231,7 @@ public class DictionaryTest extends TestCase {
         {
             final List<RowBase> rows = deIndex.multiWordSearch("aaa aaab", Arrays.asList("aaa", "aaab"), new AtomicBoolean(false));
             System.out.println(CollectionUtil.join(rows, "\n  "));
-            assertTrue(rows.toString(), rows.size() > 0);
+            assertTrue(rows.toString(), !rows.isEmpty());
         }
 
         raf.close();
@@ -246,7 +246,7 @@ public class DictionaryTest extends TestCase {
             final List<RowBase> rows = index.multiWordSearch("fare centro",
                                        Arrays.asList("fare", "centro"), new AtomicBoolean(false));
             System.out.println(CollectionUtil.join(rows, "\n  "));
-            assertTrue(rows.toString(), rows.size() > 0);
+            assertTrue(rows.toString(), !rows.isEmpty());
             assertTrue(rows.get(0).toString().startsWith("fare centro@"));
         }
     }
@@ -259,21 +259,21 @@ public class DictionaryTest extends TestCase {
         {
             final List<RowBase> rows = enIndex.multiWordSearch("train station", Arrays.asList("train", "station"), new AtomicBoolean(false));
             System.out.println(CollectionUtil.join(rows, "\n  "));
-            assertTrue(rows.toString(), rows.size() > 0);
+            assertTrue(rows.toString(), !rows.isEmpty());
             assertTrue(rows.get(0).toString().startsWith("train station@"));
         }
 
         {
             final List<RowBase> rows = enIndex.multiWordSearch("a train station", Arrays.asList("a", "train", "station"), new AtomicBoolean(false));
             System.out.println(CollectionUtil.join(rows, "\n  "));
-            assertTrue(rows.toString(), rows.size() > 0);
+            assertTrue(rows.toString(), !rows.isEmpty());
             assertEquals("Bahnhofsuhr {{de-noun|g=f|plural=Bahnhofsuhren}}\tstation clock (at a train station)", rows.get(0).toString());
         }
 
         {
             final List<RowBase> rows = enIndex.multiWordSearch("a station", Arrays.asList("a", "station"), new AtomicBoolean(false));
             System.out.println(CollectionUtil.join(rows, "\n  "));
-            assertTrue(rows.toString(), rows.size() > 0);
+            assertTrue(rows.toString(), !rows.isEmpty());
             assertEquals("Abfahrthalle {en-noun}\tDeparture room of a station.", rows.get(0).toString());
         }
 
@@ -281,7 +281,7 @@ public class DictionaryTest extends TestCase {
             // Should print: Giving up, too many words with prefix: p
             final List<RowBase> rows = enIndex.multiWordSearch("p eat", Arrays.asList("p", "eat"), new AtomicBoolean(false));
             System.out.println(CollectionUtil.join(rows, "\n  "));
-            assertTrue(rows.toString(), rows.size() > 0);
+            assertTrue(rows.toString(), !rows.isEmpty());
             assertTrue(rows.toString().contains("verschlingen; verputzen\tto dispatch (eat)"));
         }
 
@@ -320,28 +320,28 @@ public class DictionaryTest extends TestCase {
         {
             final List<RowBase> rows = enIndex.multiWordSearch("pig eats", Arrays.asList("pig", "eats"), new AtomicBoolean(false));
             System.out.println(CollectionUtil.join(rows, "\n  "));
-            assertTrue(rows.toString(), rows.size() > 0);
+            assertTrue(rows.toString(), !rows.isEmpty());
             assertEquals("vark\tpig (someone who overeats or eats rapidly) (noun)", rows.get(0).toString());
         }
 
         {
             final List<RowBase> rows = enIndex.multiWordSearch("pig eat", Arrays.asList("pig", "eat"), new AtomicBoolean(false));
             System.out.println(CollectionUtil.join(rows, "\n  "));
-            assertTrue(rows.toString(), rows.size() > 0);
+            assertTrue(rows.toString(), !rows.isEmpty());
             assertEquals("vark\tpig (someone who overeats or eats rapidly) (noun)", rows.get(0).toString());
         }
 
         {
             final List<RowBase> rows = enIndex.multiWordSearch("pi ea", Arrays.asList("pi", "ea"), new AtomicBoolean(false));
             System.out.println(CollectionUtil.join(rows, "\n  "));
-            assertTrue(rows.toString(), rows.size() > 0);
+            assertTrue(rows.toString(), !rows.isEmpty());
             assertTrue(rows.toString().contains("vark\tpig (someone who overeats or eats rapidly) (noun)"));
         }
 
         {
             final List<RowBase> rows = enIndex.multiWordSearch("p eat", Arrays.asList("p", "eat"), new AtomicBoolean(false));
             System.out.println(CollectionUtil.join(rows, "\n  "));
-            assertTrue(rows.toString(), rows.size() > 0);
+            assertTrue(rows.toString(), !rows.isEmpty());
             assertTrue(rows.toString().contains("vark\tpig (someone who overeats or eats rapidly) (noun)"));
         }
 

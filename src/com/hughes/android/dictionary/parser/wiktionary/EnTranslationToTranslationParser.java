@@ -113,7 +113,7 @@ public final class EnTranslationToTranslationParser extends AbstractWiktionaryPa
         for (int p = 0; p < 2; ++p) {
             if (langCodePatterns[p].matcher(langCode).matches()) {
                 appendAndIndexWikiCallback.builder = builders[p];
-                if (appendAndIndexWikiCallback.builder.length() > 0) {
+                if (!appendAndIndexWikiCallback.builder.isEmpty()) {
                     appendAndIndexWikiCallback.builder.append(", ");
                 }
                 appendAndIndexWikiCallback.indexBuilder = indexBuilders.get(p);
@@ -143,7 +143,7 @@ public final class EnTranslationToTranslationParser extends AbstractWiktionaryPa
         }
         final String lang1 = builders[0].toString();
         final String lang2 = builders[1].toString();
-        if (lang1.length() > 0 && lang2.length() > 0) {
+        if (!lang1.isEmpty() && !lang2.isEmpty()) {
             final PairEntry.Pair newPair = new PairEntry.Pair(lang1, lang2);
             // brute-force approach to prevent adding duplicates
             if (!allPairs.contains(newPair))

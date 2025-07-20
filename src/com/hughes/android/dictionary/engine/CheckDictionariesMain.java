@@ -21,7 +21,7 @@ public class CheckDictionariesMain {
     public static void main(String[] args) throws IOException {
         final File dictDir = new File(DictionaryBuilderMain.OUTPUTS);
 
-        final PrintWriter dictionaryInfoOut = new PrintWriter(new File("../Dictionary/res/raw/dictionary_info.txt"));
+        final PrintWriter dictionaryInfoOut = new PrintWriter("../Dictionary/res/raw/dictionary_info.txt");
 //    dictionaryInfoOut.println("# LANG_1\t%LANG_2\tFILENAME\tVERSION_CODE\tFILESIZE\tNUM_MAIN_WORDS_1\tNUM_MAIN_WORDS_2\tNUM_ALL_WORDS_1\tNUM_ALL_WORDS_2");
 
         final File[] files = dictDir.listFiles();
@@ -84,10 +84,10 @@ public class CheckDictionariesMain {
             if (!zipFile.canRead()) {
                 System.err.println("Couldn't read zipfile: " + zipFile);
             }
-            System.out.println(row.toString() + "\n");
+            System.out.println(row + "\n");
 
 
-            dictionaryInfoOut.println(row.toString());
+            dictionaryInfoOut.println(row);
             dictionaryInfoOut.flush();
 
             raf.close();

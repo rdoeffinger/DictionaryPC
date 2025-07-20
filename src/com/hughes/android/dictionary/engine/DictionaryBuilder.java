@@ -26,10 +26,6 @@ import java.util.Map;
 import java.util.Set;
 import java.util.regex.Pattern;
 
-import javax.xml.parsers.ParserConfigurationException;
-
-import org.xml.sax.SAXException;
-
 import com.hughes.android.dictionary.parser.DictFileParser;
 import com.hughes.android.dictionary.parser.Parser;
 import com.hughes.android.dictionary.parser.wiktionary.EnForeignParser;
@@ -209,7 +205,7 @@ public class DictionaryBuilder {
         dictionaryBuilder.indexBuilders.clear();
 
         if (printFile != null) {
-            final PrintStream out = new PrintStream(new File(printFile));
+            final PrintStream out = new PrintStream(printFile);
             dictionaryBuilder.dictionary.print(out);
             out.close();
         }

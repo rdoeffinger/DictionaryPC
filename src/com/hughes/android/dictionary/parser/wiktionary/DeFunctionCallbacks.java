@@ -64,7 +64,7 @@ class DeFunctionCallbacks {
                                       final Map<String, String> namedArgs,
                                       final T parser,
                                       final AppendAndIndexWikiCallback<T> appendAndIndexWikiCallback) {
-            if (!namedArgs.isEmpty() || args.size() != 0) {
+            if (!namedArgs.isEmpty() || !args.isEmpty()) {
                 return false;
             }
             //appendAndIndexWikiCallback.builder.append(String.format("<%s>", header));

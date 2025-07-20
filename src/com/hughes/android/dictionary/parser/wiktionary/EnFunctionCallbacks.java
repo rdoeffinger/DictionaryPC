@@ -104,7 +104,6 @@ class EnFunctionCallbacks {
         callbacks.put("it-conj-iarsi", new it_conj_are<>(it_conj_cb));
         callbacks.put("it-conj-iare-b", new it_conj_are<>(it_conj_cb));
         callbacks.put("it-conj-iarsi-b", new it_conj_are<>(it_conj_cb));
-        callbacks.put("it-conj-ire", new it_conj_ire<>(it_conj_cb));
         callbacks.put("it-conj-irsi", new it_conj_ire<>(it_conj_cb));
         callbacks.put("it-conj-ire-b", new it_conj_ire<>(it_conj_cb));
         callbacks.put("it-conj-irsi-b", new it_conj_ire<>(it_conj_cb));
@@ -262,7 +261,7 @@ class EnFunctionCallbacks {
                 AbstractWiktionaryParser.LOG.warning("weird encoding: " + wikiTokenizer.token());
                 return false;
             }
-            if (args.size() == 0) {
+            if (args.isEmpty()) {
                 // Things like "{{Jpan}}" exist.
                 return true;
             }
@@ -344,7 +343,7 @@ class EnFunctionCallbacks {
             }
 
             String displayText = ListUtil.get(args, 2, "");
-            if (displayText.equals("")) {
+            if (displayText.isEmpty()) {
                 displayText = ListUtil.get(args, 1, null);
             }
 
@@ -362,7 +361,7 @@ class EnFunctionCallbacks {
             }
 
             final String gloss = ListUtil.get(args, 3, "");
-            if (!gloss.equals("")) {
+            if (!gloss.isEmpty()) {
                 appendAndIndexWikiCallback.builder.append(" (");
                 appendAndIndexWikiCallback.dispatch(gloss, parser.enIndexBuilder, EntryTypeName.WIKTIONARY_ENGLISH_DEF);
                 appendAndIndexWikiCallback.builder.append(")");
@@ -604,7 +603,7 @@ class EnFunctionCallbacks {
                 final String inflValue = ListUtil.get(args, i + 1);
                 appendAndIndexWikiCallback.builder.append(", ");
                 appendAndIndexWikiCallback.dispatch(inflName, null, null);
-                if (inflValue != null && inflValue.length() > 0) {
+                if (inflValue != null && !inflValue.isEmpty()) {
                     appendAndIndexWikiCallback.builder.append(": ");
                     appendAndIndexWikiCallback.dispatch(inflValue, null, null);
                     parser.wordForms.add(inflValue);
@@ -1187,7 +1186,7 @@ class EnFunctionCallbacks {
             namedArgs.put(key, "");
             return;
         }
-        if (value == null || value.equals("")) {
+        if (value == null || value.isEmpty()) {
             namedArgs.put(key, fillIn);
         }
     }
@@ -1212,7 +1211,7 @@ class EnFunctionCallbacks {
         for (int suffix = 0; suffix <= 4; ++suffix) {
             final String key = suffix == 0 ? keyBase : keyBase + suffix;
             final String val = namedArgs.remove(key);
-            if (val != null && !val.trim().equals("")) {
+            if (val != null && !val.trim().isEmpty()) {
                 if (suffix > 0) {
                     builder.append(", ");
                 }

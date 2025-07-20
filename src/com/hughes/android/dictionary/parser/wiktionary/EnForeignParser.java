@@ -234,7 +234,7 @@ public final class EnForeignParser extends EnParser {
         appendAndIndexWikiCallback.dispatch(mainLine, enIndexBuilder, EntryTypeName.WIKTIONARY_ENGLISH_DEF);
 
         final String english = trim(englishBuilder.toString());
-        if (english.length() > 0) {
+        if (!english.isEmpty()) {
             final PairEntry.Pair pair = new PairEntry.Pair(english, trim(foreignText), this.swap);
             pairEntry.pairs.add(pair);
             foreignIndexBuilder.addEntryWithString(indexedEntry, title, entryIsFormOfSomething ? EntryTypeName.WIKTIONARY_IS_FORM_OF_SOMETHING_ELSE : EntryTypeName.WIKTIONARY_TITLE_MULTI);
@@ -277,7 +277,7 @@ public final class EnForeignParser extends EnParser {
                     pairEntry.pairs.add(pair);
                 }
             } else if (nextPrefix.equals("#::") || nextPrefix.equals("#**")/* || nextPrefix.equals("#*:")*/) {
-                if (lastForeign != null && pairEntry.pairs.size() > 0) {
+                if (lastForeign != null && !pairEntry.pairs.isEmpty()) {
                     if (i + 1 < listSection.nextPrefixes.size()) {
                         // Chinese has sometimes multiple foreign lines
                         final String nextNextPrefix = listSection.nextPrefixes.get(i + 1);
@@ -333,7 +333,7 @@ public final class EnForeignParser extends EnParser {
             return "--";
         }
         final String result = trim(builder.toString());
-        return result.length() > 0 ? result : "--";
+        return !result.isEmpty() ? result : "--";
     }
 
 

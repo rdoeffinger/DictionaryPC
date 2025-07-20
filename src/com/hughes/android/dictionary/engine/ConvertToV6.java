@@ -52,7 +52,7 @@ public class ConvertToV6 {
             System.out.println("Input dictionary is already v6 or older!");
             return;
         }
-        if (skipHtmlOpt && dictionary.htmlEntries.size() == 0) {
+        if (skipHtmlOpt && dictionary.htmlEntries.isEmpty()) {
             System.exit(3);
         }
         RandomAccessFile out;

@@ -487,7 +487,7 @@ public class WholeSectionToHtmlParser extends AbstractWiktionaryParser {
 
         @Override
         public void onListItem(WikiTokenizer wikiTokenizer) {
-            if (builder.length() != 0 && builder.charAt(builder.length() - 1) != '\n') {
+            if (!builder.isEmpty() && builder.charAt(builder.length() - 1) != '\n') {
                 builder.append("\n");
             }
             final String prefix = wikiTokenizer.listItemPrefix();

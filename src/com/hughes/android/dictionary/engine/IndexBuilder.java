@@ -111,7 +111,7 @@ public class IndexBuilder {
 
         TokenData(final String token) {
             assert token.equals(token.trim());
-            assert token.length() > 0;
+            assert !token.isEmpty();
             this.token = token;
         }
     }
