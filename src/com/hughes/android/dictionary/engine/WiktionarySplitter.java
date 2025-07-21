@@ -290,12 +290,10 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler imple
                         sectionText = sectionText.substring(dummy_end);
                     }
                     if (!heading.contains("Japanese")) sectionText += translingual;
-                    final Section section = new Section(title, heading, sectionText);
-
                     try {
-                        selector.out.writeUTF(section.title);
-                        selector.out.writeUTF(section.heading);
-                        final byte[] bytes = section.text.getBytes(StandardCharsets.UTF_8);
+                        selector.out.writeUTF(title);
+                        selector.out.writeUTF(heading);
+                        final byte[] bytes = sectionText.getBytes(StandardCharsets.UTF_8);
                         selector.out.writeInt(bytes.length);
                         selector.out.write(bytes);
                     } catch (IOException e) {
@@ -308,24 +306,6 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler imple
             }
         }
 
-    }
-
-    // -----------------------------------------------------------------------
-
-    static class Section implements java.io.Serializable {
-        private static final long serialVersionUID = -7676549898325856822L;
-
-        final String title;
-        final String heading;
-        final String text;
-
-        public Section(final String title, final String heading, final String text) {
-            this.title = title;
-            this.heading = heading;
-            this.text = text;
-
-            //System.out.printf("TITLE:%s\nHEADING:%s\nTEXT:%s\n\n\n\n\n\n", title, heading, text);
-        }
     }
 
     static class Selector {
