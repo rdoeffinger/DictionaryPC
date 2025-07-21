@@ -117,14 +117,15 @@ public class WikiTokenizerTest extends TestCase {
         wikiText = "{{gloss|asdf}\nAsdf\n\n";
         assertEquals("{{gloss|asdf}", new WikiTokenizer(wikiText).nextToken().token());
 
-        wikiText = "#*{{quote-book|year=1960|author={{w|P. G. Wodehouse}}\n" +
-                   "|title={{w|Jeeves in the Offing}}\n" +
-                   "|section=chapter XI\n" +
-                   "|passage=“I'm sorely beset, Jeeves. Do you recall telling me once about someone who told somebody he could tell him something which would make him think a bit? Knitted socks and porcu\n" +
-                   "pines entered into it, I remember.” “I think you may be referring to the ghost of the father of Hamlet, Prince of Denmark, sir. Addressing his son, he said ‘I could a tale unfold whos\n" +
-                   "e lightest word would harrow up thy soul, freeze thy young blood, make thy two eyes, like stars, start from their spheres, thy knotted and combined locks to part and each particular h\n" +
-                   "air to stand on end like quills upon the fretful '''porpentine'''.’&nbsp;” “That's right. Locks, of course, not socks. Odd that he should have said '''porpentine''' when he meant porc\n" +
-                   "upine. Slip of the tongue, no doubt, as so often happens with ghosts.”}}";
+        wikiText = """
+                #*{{quote-book|year=1960|author={{w|P. G. Wodehouse}}
+                |title={{w|Jeeves in the Offing}}
+                |section=chapter XI
+                |passage=“I'm sorely beset, Jeeves. Do you recall telling me once about someone who told somebody he could tell him something which would make him think a bit? Knitted socks and porcu
+                pines entered into it, I remember.” “I think you may be referring to the ghost of the father of Hamlet, Prince of Denmark, sir. Addressing his son, he said ‘I could a tale unfold whos
+                e lightest word would harrow up thy soul, freeze thy young blood, make thy two eyes, like stars, start from their spheres, thy knotted and combined locks to part and each particular h
+                air to stand on end like quills upon the fretful '''porpentine'''.’&nbsp;” “That's right. Locks, of course, not socks. Odd that he should have said '''porpentine''' when he meant porc
+                upine. Slip of the tongue, no doubt, as so often happens with ghosts.”}}""";
         assertEquals(wikiText, new WikiTokenizer(wikiText).nextToken().token());
 
 
