@@ -244,7 +244,7 @@ public class DictFileParser implements Parser {
         if (!bracketed.isEmpty()) {
             final String[] bracketedTokens = NON_CHAR.split(bracketed.toString());
             for (final String token : bracketedTokens) {
-                assert token.indexOf("-") == -1;
+                assert !token.contains("-");
                 if (/*!alreadyDone.contains(token) && */!token.isEmpty()) {
                     indexBuilder.addEntryWithTokens(entryData, Collections.singleton(token), EntryTypeName.BRACKETED);
                 }
@@ -255,7 +255,7 @@ public class DictFileParser implements Parser {
         if (!parenthesized.isEmpty()) {
             final String[] parenTokens = NON_CHAR.split(parenthesized.toString());
             for (final String token : parenTokens) {
-                assert token.indexOf("-") == -1;
+                assert !token.contains("-");
                 if (/*!alreadyDone.contains(token) && */!token.isEmpty()) {
                     indexBuilder.addEntryWithTokens(entryData, Collections.singleton(token), EntryTypeName.PARENTHESIZED);
                 }

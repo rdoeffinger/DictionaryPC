@@ -504,23 +504,12 @@ public final class WikiTokenizer {
     enum TokenDelim { NEWLINE, BRACE_OPEN, BRACE_CLOSE, DBRACKET_OPEN, DBRACKET_CLOSE, BRACKET_OPEN, BRACKET_CLOSE, PIPE, EQUALS, COMMENT }
 
     private int tokenDelimLen(TokenDelim d) {
-        switch (d) {
-            case NEWLINE:
-            case BRACKET_OPEN:
-            case BRACKET_CLOSE:
-            case PIPE:
-            case EQUALS:
-                return 1;
-            case BRACE_OPEN:
-            case BRACE_CLOSE:
-            case DBRACKET_OPEN:
-            case DBRACKET_CLOSE:
-                return 2;
-            case COMMENT:
-                return 4;
-            default:
-                throw new RuntimeException();
-        }
+        return switch (d) {
+            case NEWLINE, BRACKET_OPEN, BRACKET_CLOSE, PIPE, EQUALS -> 1;
+            case BRACE_OPEN, BRACE_CLOSE, DBRACKET_OPEN, DBRACKET_CLOSE -> 2;
+            case COMMENT -> 4;
+            default -> throw new RuntimeException();
+        };
     }
 
     static final String[] patterns = { "\n", "{{", "}}", "[[", "]]", "[", "]", "|", "=", "<!--" };

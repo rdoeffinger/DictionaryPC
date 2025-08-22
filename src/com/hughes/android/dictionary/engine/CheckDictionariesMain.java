@@ -10,7 +10,6 @@ import java.util.Collections;
 import java.util.List;
 
 import com.hughes.android.dictionary.engine.DictionaryInfo.IndexInfo;
-import com.hughes.util.CollectionUtil;
 
 public class CheckDictionariesMain {
 
@@ -66,7 +65,7 @@ public class CheckDictionariesMain {
             for (final IndexInfo indexInfo : dictionaryInfo.indexInfos) {
                 indexNames.add(indexInfo.shortName);
             }
-            dictNames.add(CollectionUtil.join(indexNames, "-") + "\n");
+            dictNames.add(String.join("-", indexNames) + "\n");
             StringBuilder row = new StringBuilder();
             row.append(dictionaryInfo.uncompressedFilename);
             row.append("\t").append(dictionaryInfo.downloadUrl);

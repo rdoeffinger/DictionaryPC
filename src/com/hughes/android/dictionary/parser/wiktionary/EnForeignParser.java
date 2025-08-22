@@ -265,7 +265,7 @@ public final class EnForeignParser extends EnParser {
                 final String foreignEx = nextLine.substring(0, dash);
                 final String englishEx = nextLine.substring(dash + mdashLen);
                 final PairEntry.Pair pair = new PairEntry.Pair(formatAndIndexExampleString(englishEx, enIndexBuilder, indexedEntry), formatAndIndexExampleString(foreignEx, foreignIndexBuilder, indexedEntry), swap);
-                if (pair.lang1 != "--" && pair.lang1 != "--") {
+                if (!pair.lang1.equals("--") && !pair.lang2.equals("--")) {
                     pairEntry.pairs.add(pair);
                 }
                 lastForeign = null;
@@ -273,7 +273,7 @@ public final class EnForeignParser extends EnParser {
             } else if (nextPrefix.equals("#:") || nextPrefix.equals("##:")/* || nextPrefix.equals("#*")*/) {
                 final PairEntry.Pair pair = new PairEntry.Pair("--", formatAndIndexExampleString(nextLine, null, indexedEntry), swap);
                 lastForeign = nextLine;
-                if (pair.lang1 != "--" && pair.lang1 != "--") {
+                if (!pair.lang1.equals("--") && !pair.lang2.equals("--")) {
                     pairEntry.pairs.add(pair);
                 }
             } else if (nextPrefix.equals("#::") || nextPrefix.equals("#**")/* || nextPrefix.equals("#*:")*/) {
@@ -288,14 +288,14 @@ public final class EnForeignParser extends EnParser {
                     }
                     pairEntry.pairs.remove(pairEntry.pairs.size() - 1);
                     final PairEntry.Pair pair = new PairEntry.Pair(formatAndIndexExampleString(nextLine, enIndexBuilder, indexedEntry), formatAndIndexExampleString(lastForeign, foreignIndexBuilder, indexedEntry), swap);
-                    if (pair.lang1 != "--" || pair.lang2 != "--") {
+                    if (!pair.lang1.equals("--") || !pair.lang2.equals("--")) {
                         pairEntry.pairs.add(pair);
                     }
                     lastForeign = null;
                 } else {
                     LOG.warning("TODO: English example with no foreign: " + title + ", " + nextLine);
                     final PairEntry.Pair pair = new PairEntry.Pair("--", formatAndIndexExampleString(nextLine, null, indexedEntry), swap);
-                    if (pair.lang1 != "--" || pair.lang2 != "--") {
+                    if (!pair.lang1.equals("--") || !pair.lang2.equals("--")) {
                         pairEntry.pairs.add(pair);
                     }
                 }
@@ -303,12 +303,12 @@ public final class EnForeignParser extends EnParser {
                 // Can't really index these.
                 final PairEntry.Pair pair = new PairEntry.Pair("--", formatAndIndexExampleString(nextLine, null, indexedEntry), swap);
                 lastForeign = nextLine;
-                if (pair.lang1 != "--" || pair.lang2 != "--") {
+                if (!pair.lang1.equals("--") || !pair.lang2.equals("--")) {
                     pairEntry.pairs.add(pair);
                 }
             } else if (nextPrefix.equals("#::*") || nextPrefix.equals("##") || nextPrefix.equals("#*:") || nextPrefix.equals("#:*") || true) {
                 final PairEntry.Pair pair = new PairEntry.Pair("--", formatAndIndexExampleString(nextLine, null, indexedEntry), swap);
-                if (pair.lang1 != "--" || pair.lang2 != "--") {
+                if (!pair.lang1.equals("--") || !pair.lang2.equals("--")) {
                     pairEntry.pairs.add(pair);
                 }
 //        } else {

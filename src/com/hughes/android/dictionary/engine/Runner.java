@@ -23,16 +23,13 @@ public class Runner {
             return;
         }
         String[] newargs = Arrays.copyOfRange(args, 1, args.length);
-        if (args[0].equals("WiktionarySplitter")) {
-            WiktionarySplitter.main(newargs);
-        } else if (args[0].equals("DictionaryBuilder")) {
-            DictionaryBuilder.main(newargs);
-        } else if (args[0].equals("ConvertToV6")) {
-            ConvertToV6.main(newargs);
-        } else if (args[0].equals("CheckDictionariesMain")) {
-            CheckDictionariesMain.main(newargs);
-        } else {
-            System.out.println("Unknown command '" + args[0] + "'. Use one of WiktionarySplitter, DictionaryBuilder, ConvertToV6 or CheckDictionariesMain instead.");
+        switch (args[0]) {
+            case "WiktionarySplitter" -> WiktionarySplitter.main(newargs);
+            case "DictionaryBuilder" -> DictionaryBuilder.main(newargs);
+            case "ConvertToV6" -> ConvertToV6.main(newargs);
+            case "CheckDictionariesMain" -> CheckDictionariesMain.main(newargs);
+            default ->
+                    System.out.println("Unknown command '" + args[0] + "'. Use one of WiktionarySplitter, DictionaryBuilder, ConvertToV6 or CheckDictionariesMain instead.");
         }
     }
 }

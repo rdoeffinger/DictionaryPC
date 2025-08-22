@@ -71,20 +71,19 @@ public abstract class AbstractWiktionaryParser implements Parser {
             String orig = matcher.group();
             for (int i = 5; i < orig.length() - 6; i++)
             {
-                char c = 0;
-                switch (orig.charAt(i)) {
-                case '0': c = '\u2070'; break;
-                case '1': c = '\u00b9'; break;
-                case '2': c = '\u00b2'; break;
-                case '3': c = '\u00b3'; break;
-                case '4': c = '\u2074'; break;
-                case '5': c = '\u2075'; break;
-                case '6': c = '\u2076'; break;
-                case '7': c = '\u2077'; break;
-                case '8': c = '\u2078'; break;
-                case '9': c = '\u2079'; break;
-                }
-                if (c == 0) throw new RuntimeException();
+                char c = switch (orig.charAt(i)) {
+                    case '0' -> '\u2070';
+                    case '1' -> '\u00b9';
+                    case '2' -> '\u00b2';
+                    case '3' -> '\u00b3';
+                    case '4' -> '\u2074';
+                    case '5' -> '\u2075';
+                    case '6' -> '\u2076';
+                    case '7' -> '\u2077';
+                    case '8' -> '\u2078';
+                    case '9' -> '\u2079';
+                    default -> throw new RuntimeException();
+                };
                 replace += c;
             }
             in = matcher.replaceFirst(replace);

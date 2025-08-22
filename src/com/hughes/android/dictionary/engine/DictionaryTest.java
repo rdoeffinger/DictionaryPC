@@ -20,9 +20,9 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
 import java.util.concurrent.atomic.AtomicBoolean;
+import java.util.stream.Collectors;
 
 import com.hughes.android.dictionary.engine.Index.IndexEntry;
-import com.hughes.util.CollectionUtil;
 
 import junit.framework.TestCase;
 
@@ -46,6 +46,10 @@ public class DictionaryTest extends TestCase {
     public void testURLFormatting() {
     }
 
+    private void printRows(List<RowBase> r) {
+        System.out.println(r.stream().map(e -> e.toString()).collect(Collectors.joining("\n  ")));
+    }
+
     public void testEnItWiktionary() throws IOException {
         final RandomAccessFile raf = new RandomAccessFile(OUTPUTS + "EN-IT.quickdic", "r");
         final Dictionary dict = new Dictionary(raf.getChannel());
@@ -57,7 +61,7 @@ public class DictionaryTest extends TestCase {
         final Index itIndex = dict.indices.get(1);
         {
             final List<RowBase> rows = itIndex.multiWordSearch("come mai", Arrays.asList("come", "mai"), new AtomicBoolean(false));
-            System.out.println(CollectionUtil.join(rows, "\n  "));
+            printRows(rows);
             assertTrue(rows.toString(), !rows.isEmpty());
             assertTrue(rows.get(0).toString().startsWith("come mai@"));
             assertTrue(rows.get(0) instanceof TokenRow);
@@ -66,7 +70,7 @@ public class DictionaryTest extends TestCase {
 
         {
             final List<RowBase> rows = itIndex.multiWordSearch("buon g", Arrays.asList("buon", "g"), new AtomicBoolean(false));
-            System.out.println(CollectionUtil.join(rows, "\n  "));
+            printRows(rows);
             assertTrue(rows.toString(), !rows.isEmpty());
             assertTrue(rows.get(0).toString().startsWith("buon giorno@"));
             assertTrue(rows.get(0) instanceof TokenRow);
@@ -138,40 +142,39 @@ public class DictionaryTest extends TestCase {
 
         for (final Index.IndexEntry indexEntry : deIndex.sortedIndexEntries) {
             System.out.println("testing: " + indexEntry.token);
-            final IndexEntry searchResult = deIndex.findInsertionPoint(indexEntry.token, new AtomicBoolean(
-                                                false));
+            final IndexEntry searchResult = deIndex.findInsertionPoint(indexEntry.token);
             assertEquals("Looked up: " + indexEntry.token, indexEntry.token.toLowerCase(), searchResult.token.toLowerCase());
         }
 
         // TODO: maybe if user types capitalization, use it.
-        assertSearchResult("aaac", "aaac", deIndex.findInsertionPoint("aaac", new AtomicBoolean(false)));
-        assertSearchResult("aaac", "aaac", deIndex.findInsertionPoint("AAAC", new AtomicBoolean(false)));
-        assertSearchResult("aaac", "aaac", deIndex.findInsertionPoint("AAAc", new AtomicBoolean(false)));
-        assertSearchResult("aaac", "aaac", deIndex.findInsertionPoint("aAac", new AtomicBoolean(false)));
+        assertSearchResult("aaac", "aaac", deIndex.findInsertionPoint("aaac"));
+        assertSearchResult("aaac", "aaac", deIndex.findInsertionPoint("AAAC"));
+        assertSearchResult("aaac", "aaac", deIndex.findInsertionPoint("AAAc"));
+        assertSearchResult("aaac", "aaac", deIndex.findInsertionPoint("aAac"));
 
         // Before the beginning.
-        assertSearchResult("40", "40" /* special case */, deIndex.findInsertionPoint("", new AtomicBoolean(false)));
-        assertSearchResult("40", "40" /* special case */, deIndex.findInsertionPoint("__", new AtomicBoolean(false)));
+        assertSearchResult("40", "40" /* special case */, deIndex.findInsertionPoint(""));
+        assertSearchResult("40", "40" /* special case */, deIndex.findInsertionPoint("__"));
 
         // After the end.
-        assertSearchResult("Zweckorientiertheit", "zählen", deIndex.findInsertionPoint("ZZZZZ", new AtomicBoolean(false)));
+        assertSearchResult("Zweckorientiertheit", "zählen", deIndex.findInsertionPoint("ZZZZZ"));
 
-        assertSearchResult("ab", "aaac", deIndex.findInsertionPoint("aaaca", new AtomicBoolean(false)));
-        assertSearchResult("machen", "machen", deIndex.findInsertionPoint("m", new AtomicBoolean(false)));
-        assertSearchResult("machen", "machen", deIndex.findInsertionPoint("macdddd", new AtomicBoolean(false)));
+        assertSearchResult("ab", "aaac", deIndex.findInsertionPoint("aaaca"));
+        assertSearchResult("machen", "machen", deIndex.findInsertionPoint("m"));
+        assertSearchResult("machen", "machen", deIndex.findInsertionPoint("macdddd"));
 
 
-        assertSearchResult("überprüfe", "überprüfe", deIndex.findInsertionPoint("ueberprüfe", new AtomicBoolean(false)));
-        assertSearchResult("überprüfe", "überprüfe", deIndex.findInsertionPoint("ueberpruefe", new AtomicBoolean(false)));
+        assertSearchResult("überprüfe", "überprüfe", deIndex.findInsertionPoint("ueberprüfe"));
+        assertSearchResult("überprüfe", "überprüfe", deIndex.findInsertionPoint("ueberpruefe"));
 
-        assertSearchResult("überprüfe", "überprüfe", deIndex.findInsertionPoint("ueberpBLEH", new AtomicBoolean(false)));
-        assertSearchResult("überprüfe", "überprüfe", deIndex.findInsertionPoint("überprBLEH", new AtomicBoolean(false)));
+        assertSearchResult("überprüfe", "überprüfe", deIndex.findInsertionPoint("ueberpBLEH"));
+        assertSearchResult("überprüfe", "überprüfe", deIndex.findInsertionPoint("überprBLEH"));
 
-        assertSearchResult("überprüfen", "überprüfe", deIndex.findInsertionPoint("überprüfeBLEH", new AtomicBoolean(false)));
+        assertSearchResult("überprüfen", "überprüfe", deIndex.findInsertionPoint("überprüfeBLEH"));
 
         // Check that search in lowercase works.
-        assertSearchResult("Alibi", "Alibi", deIndex.findInsertionPoint("alib", new AtomicBoolean(false)));
-        System.out.println(deIndex.findInsertionPoint("alib", new AtomicBoolean(false)));
+        assertSearchResult("Alibi", "Alibi", deIndex.findInsertionPoint("alib"));
+        System.out.println(deIndex.findInsertionPoint("alib"));
 
         raf.close();
     }
@@ -217,8 +220,8 @@ public class DictionaryTest extends TestCase {
         final Dictionary dict = new Dictionary(raf.getChannel());
         final Index deIndex = dict.indices.get(0);
 
-        assertSearchResult("Höschen", "Hos", deIndex.findInsertionPoint("Hos", new AtomicBoolean(false)));
-        assertSearchResult("Höschen", "hos", deIndex.findInsertionPoint("hos", new AtomicBoolean(false)));
+        assertSearchResult("Höschen", "Hos", deIndex.findInsertionPoint("Hos"));
+        assertSearchResult("Höschen", "hos", deIndex.findInsertionPoint("hos"));
 
         raf.close();
     }
@@ -230,7 +233,7 @@ public class DictionaryTest extends TestCase {
 
         {
             final List<RowBase> rows = deIndex.multiWordSearch("aaa aaab", Arrays.asList("aaa", "aaab"), new AtomicBoolean(false));
-            System.out.println(CollectionUtil.join(rows, "\n  "));
+            printRows(rows);
             assertTrue(rows.toString(), !rows.isEmpty());
         }
 
@@ -245,7 +248,7 @@ public class DictionaryTest extends TestCase {
         {
             final List<RowBase> rows = index.multiWordSearch("fare centro",
                                        Arrays.asList("fare", "centro"), new AtomicBoolean(false));
-            System.out.println(CollectionUtil.join(rows, "\n  "));
+            printRows(rows);
             assertTrue(rows.toString(), !rows.isEmpty());
             assertTrue(rows.get(0).toString().startsWith("fare centro@"));
         }
@@ -258,21 +261,21 @@ public class DictionaryTest extends TestCase {
 
         {
             final List<RowBase> rows = enIndex.multiWordSearch("train station", Arrays.asList("train", "station"), new AtomicBoolean(false));
-            System.out.println(CollectionUtil.join(rows, "\n  "));
+            printRows(rows);
             assertTrue(rows.toString(), !rows.isEmpty());
             assertTrue(rows.get(0).toString().startsWith("train station@"));
         }
 
         {
             final List<RowBase> rows = enIndex.multiWordSearch("a train station", Arrays.asList("a", "train", "station"), new AtomicBoolean(false));
-            System.out.println(CollectionUtil.join(rows, "\n  "));
+            printRows(rows);
             assertTrue(rows.toString(), !rows.isEmpty());
             assertEquals("Bahnhofsuhr {{de-noun|g=f|plural=Bahnhofsuhren}}\tstation clock (at a train station)", rows.get(0).toString());
         }
 
         {
             final List<RowBase> rows = enIndex.multiWordSearch("a station", Arrays.asList("a", "station"), new AtomicBoolean(false));
-            System.out.println(CollectionUtil.join(rows, "\n  "));
+            printRows(rows);
             assertTrue(rows.toString(), !rows.isEmpty());
             assertEquals("Abfahrthalle {en-noun}\tDeparture room of a station.", rows.get(0).toString());
         }
@@ -280,7 +283,7 @@ public class DictionaryTest extends TestCase {
         {
             // Should print: Giving up, too many words with prefix: p
             final List<RowBase> rows = enIndex.multiWordSearch("p eat", Arrays.asList("p", "eat"), new AtomicBoolean(false));
-            System.out.println(CollectionUtil.join(rows, "\n  "));
+            printRows(rows);
             assertTrue(rows.toString(), !rows.isEmpty());
             assertTrue(rows.toString().contains("verschlingen; verputzen\tto dispatch (eat)"));
         }
@@ -319,28 +322,28 @@ public class DictionaryTest extends TestCase {
 
         {
             final List<RowBase> rows = enIndex.multiWordSearch("pig eats", Arrays.asList("pig", "eats"), new AtomicBoolean(false));
-            System.out.println(CollectionUtil.join(rows, "\n  "));
+            printRows(rows);
             assertTrue(rows.toString(), !rows.isEmpty());
             assertEquals("vark\tpig (someone who overeats or eats rapidly) (noun)", rows.get(0).toString());
         }
 
         {
             final List<RowBase> rows = enIndex.multiWordSearch("pig eat", Arrays.asList("pig", "eat"), new AtomicBoolean(false));
-            System.out.println(CollectionUtil.join(rows, "\n  "));
+            printRows(rows);
             assertTrue(rows.toString(), !rows.isEmpty());
             assertEquals("vark\tpig (someone who overeats or eats rapidly) (noun)", rows.get(0).toString());
         }
 
         {
             final List<RowBase> rows = enIndex.multiWordSearch("pi ea", Arrays.asList("pi", "ea"), new AtomicBoolean(false));
-            System.out.println(CollectionUtil.join(rows, "\n  "));
+            printRows(rows);
             assertTrue(rows.toString(), !rows.isEmpty());
             assertTrue(rows.toString().contains("vark\tpig (someone who overeats or eats rapidly) (noun)"));
         }
 
         {
             final List<RowBase> rows = enIndex.multiWordSearch("p eat", Arrays.asList("p", "eat"), new AtomicBoolean(false));
-            System.out.println(CollectionUtil.join(rows, "\n  "));
+            printRows(rows);
             assertTrue(rows.toString(), !rows.isEmpty());
             assertTrue(rows.toString().contains("vark\tpig (someone who overeats or eats rapidly) (noun)"));
         }
@@ -374,7 +377,7 @@ public class DictionaryTest extends TestCase {
         final Dictionary dict = new Dictionary(raf.getChannel());
         final Index thIndex = dict.indices.get(1);
 
-        final IndexEntry entry = thIndex.findInsertionPoint("ดี", new AtomicBoolean(false));
+        final IndexEntry entry = thIndex.findInsertionPoint("ดี");
         assertEquals("di", entry.token);
 
         raf.close();
@@ -385,10 +388,10 @@ public class DictionaryTest extends TestCase {
         final Dictionary dict = new Dictionary(raf.getChannel());
         final Index nlIndex = dict.indices.get(1);
 
-        IndexEntry entry = nlIndex.findInsertionPoint("Xhosa", new AtomicBoolean(false));
+        IndexEntry entry = nlIndex.findInsertionPoint("Xhosa");
         assertEquals("Xhosa", entry.token);
 
-        entry = nlIndex.findInsertionPoint("Zyne", new AtomicBoolean(false));
+        entry = nlIndex.findInsertionPoint("Zyne");
         assertEquals("Zyne", entry.token);
 
         raf.close();

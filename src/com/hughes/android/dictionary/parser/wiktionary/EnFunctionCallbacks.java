@@ -320,17 +320,11 @@ class EnFunctionCallbacks {
                 args.add(0, "");
             }
 
-            final EntryTypeName entryTypeName;
-            switch (parser.state) {
-            case TRANSLATION_LINE:
-                entryTypeName = EntryTypeName.WIKTIONARY_TRANSLATION_OTHER_TEXT;
-                break;
-            case ENGLISH_DEF_OF_FOREIGN:
-                entryTypeName = EntryTypeName.WIKTIONARY_ENGLISH_DEF_WIKI_LINK;
-                break;
-            default:
-                throw new IllegalStateException("Invalid enum value: " + parser.state);
-            }
+            final EntryTypeName entryTypeName = switch (parser.state) {
+                case TRANSLATION_LINE -> EntryTypeName.WIKTIONARY_TRANSLATION_OTHER_TEXT;
+                case ENGLISH_DEF_OF_FOREIGN -> EntryTypeName.WIKTIONARY_ENGLISH_DEF_WIKI_LINK;
+                default -> throw new IllegalStateException("Invalid enum value: " + parser.state);
+            };
 
             final String langCode = args.get(0);
             final IndexBuilder indexBuilder;

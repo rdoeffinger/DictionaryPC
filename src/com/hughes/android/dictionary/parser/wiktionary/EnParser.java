@@ -134,17 +134,11 @@ public abstract class EnParser extends AbstractWiktionaryParser {
                 }
             } else {
                 // link == null
-                final EntryTypeName entryTypeName;
-                switch (parser.state) {
-                case TRANSLATION_LINE:
-                    entryTypeName = EntryTypeName.WIKTIONARY_TRANSLATION_WIKI_TEXT;
-                    break;
-                case ENGLISH_DEF_OF_FOREIGN:
-                    entryTypeName = EntryTypeName.WIKTIONARY_ENGLISH_DEF_WIKI_LINK;
-                    break;
-                default:
-                    throw new IllegalStateException("Invalid enum value: " + parser.state);
-                }
+                final EntryTypeName entryTypeName = switch (parser.state) {
+                    case TRANSLATION_LINE -> EntryTypeName.WIKTIONARY_TRANSLATION_WIKI_TEXT;
+                    case ENGLISH_DEF_OF_FOREIGN -> EntryTypeName.WIKTIONARY_ENGLISH_DEF_WIKI_LINK;
+                    default -> throw new IllegalStateException("Invalid enum value: " + parser.state);
+                };
                 dispatch(text, entryTypeName);
             }
         }

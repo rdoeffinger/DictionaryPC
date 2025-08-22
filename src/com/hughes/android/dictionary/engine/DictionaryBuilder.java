@@ -144,55 +144,61 @@ public class DictionaryBuilder {
                 System.out.println();
 
                 String inputFormat = keyValueArgs.remove(prefix + "Format");
-                if ("tab_separated".equals(inputFormat)) {
-                    final boolean flipColumns = "true".equals(keyValueArgs.remove(prefix + "FlipColumns"));
-                    new DictFileParser(charset, flipColumns, DictFileParser.TAB, null, dictionaryBuilder).parse(file, entrySource, pageLimit);
-                } else if ("chemnitz".equals(inputFormat)) {
-                    final boolean flipColumns = "true".equals(keyValueArgs.remove(prefix + "FlipColumns"));
-                    new DictFileParser(charset, flipColumns, DictFileParser.DOUBLE_COLON, DictFileParser.PIPE, dictionaryBuilder).parse(file, entrySource, pageLimit);
-                } else if ("enwiktionary".equals(inputFormat)) {
-                    final String type = keyValueArgs.remove(prefix + "WiktionaryType");
-                    final Pattern langPattern = Pattern.compile(keyValueArgs.remove(prefix + "LangPattern"), Pattern.CASE_INSENSITIVE);
-                    final Pattern langCodePattern = Pattern.compile(keyValueArgs.remove(prefix + "LangCodePattern"));
-                    final int enIndex = Integer.parseInt(keyValueArgs.remove(prefix + "EnIndex")) - 1;
+                switch (inputFormat) {
+                    case "tab_separated" -> {
+                        final boolean flipColumns = "true".equals(keyValueArgs.remove(prefix + "FlipColumns"));
+                        new DictFileParser(charset, flipColumns, DictFileParser.TAB, null, dictionaryBuilder).parse(file, entrySource, pageLimit);
+                    }
+                    case "chemnitz" -> {
+                        final boolean flipColumns = "true".equals(keyValueArgs.remove(prefix + "FlipColumns"));
+                        new DictFileParser(charset, flipColumns, DictFileParser.DOUBLE_COLON, DictFileParser.PIPE, dictionaryBuilder).parse(file, entrySource, pageLimit);
+                    }
+                    case "enwiktionary" -> {
+                        final String type = keyValueArgs.remove(prefix + "WiktionaryType");
+                        final Pattern langPattern = Pattern.compile(keyValueArgs.remove(prefix + "LangPattern"), Pattern.CASE_INSENSITIVE);
+                        final Pattern langCodePattern = Pattern.compile(keyValueArgs.remove(prefix + "LangCodePattern"));
+                        final int enIndex = Integer.parseInt(keyValueArgs.remove(prefix + "EnIndex")) - 1;
 
-                    if (enIndex < 0 || enIndex >= 2) {
-                        fatalError("Must be 1 or 2: " + prefix + "EnIndex");
+                        if (enIndex < 0 || enIndex >= 2) {
+                            fatalError("Must be 1 or 2: " + prefix + "EnIndex");
+                        }
+                        final Parser parser = switch (type) {
+                            case "EnToTranslation" ->
+                                    new EnToTranslationParser(dictionaryBuilder.indexBuilders.get(enIndex), dictionaryBuilder.indexBuilders.get(1 - enIndex),
+                                            langPattern, langCodePattern, enIndex != 0);
+                            case "EnForeign" ->
+                                    new EnForeignParser(dictionaryBuilder.indexBuilders.get(enIndex), dictionaryBuilder.indexBuilders.get(1 - enIndex),
+                                            langPattern, langCodePattern, enIndex != 0);
+                            case "EnEnglish" ->
+                                    new EnForeignParser(dictionaryBuilder.indexBuilders.get(enIndex), dictionaryBuilder.indexBuilders.get(enIndex),
+                                            langPattern, langCodePattern, true);
+                            case null, default -> {
+                                fatalError("Invalid WiktionaryType (use EnToTranslation or EnForeign or EnEnglish): " + type);
+                                yield null;
+                            }
+                        };
+                        parser.parse(file, entrySource, pageLimit);
                     }
-                    final Parser parser;
-                    if ("EnToTranslation".equals(type)) {
-                        parser = new EnToTranslationParser(dictionaryBuilder.indexBuilders.get(enIndex), dictionaryBuilder.indexBuilders.get(1-enIndex),
-                                                           langPattern, langCodePattern, enIndex != 0);
-                    } else if ("EnForeign".equals(type)) {
-                        parser = new EnForeignParser(dictionaryBuilder.indexBuilders.get(enIndex), dictionaryBuilder.indexBuilders.get(1-enIndex),
-                                                     langPattern, langCodePattern, enIndex != 0);
-                    } else if ("EnEnglish".equals(type)) {
-                        parser = new EnForeignParser(dictionaryBuilder.indexBuilders.get(enIndex), dictionaryBuilder.indexBuilders.get(enIndex),
-                                                     langPattern, langCodePattern, true);
-                    } else {
-                        fatalError("Invalid WiktionaryType (use EnToTranslation or EnForeign or EnEnglish): " + type);
-                        return;
+                    case EnTranslationToTranslationParser.NAME -> {
+                        final String code1 = keyValueArgs.remove(prefix + "LangPattern1");
+                        final String code2 = keyValueArgs.remove(prefix + "LangPattern2");
+                        if (code1 == null || code2 == null) {
+                            fatalError("Must specify LangPattern1 and LangPattern2.");
+                            return;
+                        }
+                        final Pattern codePattern1 = Pattern.compile(code1, Pattern.CASE_INSENSITIVE);
+                        final Pattern codePattern2 = Pattern.compile(code2, Pattern.CASE_INSENSITIVE);
+                        new EnTranslationToTranslationParser(dictionaryBuilder.indexBuilders, new Pattern[]{codePattern1, codePattern2}).parse(file, entrySource, pageLimit);
                     }
-                    parser.parse(file, entrySource, pageLimit);
-                } else if (EnTranslationToTranslationParser.NAME.equals(inputFormat)) {
-                    final String code1 = keyValueArgs.remove(prefix + "LangPattern1");
-                    final String code2 = keyValueArgs.remove(prefix + "LangPattern2");
-                    if (code1 == null || code2 == null) {
-                        fatalError("Must specify LangPattern1 and LangPattern2.");
-                        return;
+                    case WholeSectionToHtmlParser.NAME -> {
+                        final int titleIndex = Integer.parseInt(keyValueArgs.remove(prefix + "TitleIndex")) - 1;
+                        final String wiktionaryLang = keyValueArgs.remove(prefix + "WiktionaryLang");
+                        final String webUrlTemplate = keyValueArgs.remove(prefix + "WebUrlTemplate");
+                        String skipLang = keyValueArgs.remove(prefix + "SkipLang");
+                        if (skipLang == null) skipLang = "";
+                        new WholeSectionToHtmlParser(dictionaryBuilder.indexBuilders.get(titleIndex), null, wiktionaryLang, skipLang, webUrlTemplate).parse(file, entrySource, pageLimit);
                     }
-                    final Pattern codePattern1 = Pattern.compile(code1, Pattern.CASE_INSENSITIVE);
-                    final Pattern codePattern2 = Pattern.compile(code2, Pattern.CASE_INSENSITIVE);
-                    new EnTranslationToTranslationParser(dictionaryBuilder.indexBuilders, new Pattern[] {codePattern1, codePattern2}).parse(file, entrySource, pageLimit);
-                } else if (WholeSectionToHtmlParser.NAME.equals(inputFormat)) {
-                    final int titleIndex = Integer.parseInt(keyValueArgs.remove(prefix + "TitleIndex")) - 1;
-                    final String wiktionaryLang = keyValueArgs.remove(prefix + "WiktionaryLang");
-                    final String webUrlTemplate = keyValueArgs.remove(prefix + "WebUrlTemplate");
-                    String skipLang = keyValueArgs.remove(prefix + "SkipLang");
-                    if (skipLang == null) skipLang = "";
-                    new WholeSectionToHtmlParser(dictionaryBuilder.indexBuilders.get(titleIndex), null, wiktionaryLang, skipLang, webUrlTemplate).parse(file, entrySource, pageLimit);
-                } else {
-                    fatalError("Invalid or missing input format: " + inputFormat);
+                    case null, default -> fatalError("Invalid or missing input format: " + inputFormat);
                 }
 
                 dictionaryBuilder.dictionary.sources.add(entrySource);

@@ -287,18 +287,15 @@ public class DictionaryV6Writer {
             outb.writeInt(5);
             for (RowBase r : idx.rows) {
                 int type = 0;
-                if (r instanceof PairEntry.Row) {
-                    type = 0;
-                } else if (r instanceof TokenRow) {
-                    final TokenRow tokenRow = (TokenRow)r;
-                    type = tokenRow.hasMainEntry ? 1 : 3;
-                } else if (r instanceof TextEntry.Row) {
-                    type = 2;
-                } else if (r instanceof HtmlEntry.Row) {
-                    type = 4;
-                    if (skipHtml) continue;
-                } else {
-                    throw new RuntimeException("Row type not supported for v6");
+                switch (r) {
+                    case PairEntry.Row row -> type = 0;
+                    case TokenRow tokenRow -> type = tokenRow.hasMainEntry ? 1 : 3;
+                    case TextEntry.Row row -> type = 2;
+                    case HtmlEntry.Row row -> {
+                        type = 4;
+                        if (skipHtml) continue;
+                    }
+                    case null, default -> throw new RuntimeException("Row type not supported for v6");
                 }
                 outb.writeByte(type);
                 outb.writeInt(r.referenceIndex);
