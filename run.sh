@@ -7,8 +7,9 @@ if ! test -x "$RUNNER" ; then
   test -r "$COMMONS_LANG3" || COMMONS_LANG3=/usr/share/commons-lang-3.3/lib/commons-lang.jar
   COMMONS_TEXT=/usr/share/java/commons-text.jar
   COMMONS_COMPRESS=/usr/share/java/commons-compress.jar
+  COMMONS_IO=/usr/share/java/commons-io.jar
   JAVA=/usr/lib/jvm/java-8-openjdk-amd64/jre/bin/java
   test -x "$JAVA" || JAVA=java
-  RUNNER="$JAVA -Djava.util.logging.config.file=logging.properties -Xmx4096m -classpath bin/:$ICU4J:$COMMONS_LANG3:$COMMONS_TEXT:$COMMONS_COMPRESS com.hughes.android.dictionary.engine.Runner"
+  RUNNER="$JAVA -Djava.util.logging.config.file=logging.properties -Xmx4096m -classpath bin/:$ICU4J:$COMMONS_LANG3:$COMMONS_TEXT:$COMMONS_COMPRESS:$COMMONS_IO com.hughes.android.dictionary.engine.Runner"
 fi
 $RUNNER DictionaryBuilder "$@"
