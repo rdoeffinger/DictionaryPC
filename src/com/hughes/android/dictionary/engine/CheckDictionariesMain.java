@@ -13,7 +13,7 @@ import com.hughes.android.dictionary.engine.DictionaryInfo.IndexInfo;
 
 public class CheckDictionariesMain {
 
-    static final String BASE_URL = "https://github.com/rdoeffinger/Dictionary/releases/download/v0.3-dictionaries/";
+    static final String BASE_URL = "https://github.com/rdoeffinger/Dictionary/releases/download/v0.4-dictionaries/";
     static final String VERSION_CODE_OLD = "v006";
     static final String VERSION_CODE = "v007";
 
