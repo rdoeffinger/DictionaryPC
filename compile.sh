@@ -42,7 +42,7 @@ fi
 mkdir -p bin
 # -encoding is just a work around for user that still run systems
 # with non-UTF8 locales
-javac --source 21 --target 21 --limit-modules java.xml,java.logging -Xlint:all -encoding UTF-8 -g -d bin/ ../Dictionary/Util/src/com/hughes/util/*.java ../Dictionary/Util/src/com/hughes/util/raf/*.java ../Dictionary/src/com/hughes/android/dictionary/engine/*.java src/com/hughes/util/*.java src/com/hughes/android/dictionary/*.java src/com/hughes/android/dictionary/*/*.java src/com/hughes/android/dictionary/*/*/*.java -classpath "$ICU4J:$JUNIT:$COMMONS:$COMMONS_COMPRESS"
+javac --release 21 --limit-modules java.xml,java.logging -Xlint:all -encoding UTF-8 -g -d bin/ ../Dictionary/Util/src/com/hughes/util/*.java ../Dictionary/Util/src/com/hughes/util/raf/*.java ../Dictionary/src/com/hughes/android/dictionary/engine/*.java src/com/hughes/util/*.java src/com/hughes/android/dictionary/*.java src/com/hughes/android/dictionary/*/*.java src/com/hughes/android/dictionary/*/*/*.java -classpath "$ICU4J:$JUNIT:$COMMONS:$COMMONS_COMPRESS"
 if [ "$?" != "0" ] ; then
     echo "compilation failed, check output above for errors!"
     exit 1;
