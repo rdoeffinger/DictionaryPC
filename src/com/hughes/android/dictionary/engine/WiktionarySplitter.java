@@ -60,7 +60,9 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler imple
     StringBuilder currentBuilder = null;
 
     public static void main(final String[] args) throws Exception {
+        System.setProperty("jdk.xml.totalEntitySizeLimit", "0");
         boolean parallel = args.length > 0 && args[0].equals("parallel");
+        if (!parallel) System.out.println("Consider using 'parallel' argument to speed up processing by running in parallel - needs more memory");
         final ExecutorService e = Executors.newCachedThreadPool();
         final Map<String,List<Selector>> pathToSelectors = createSelectorsMap();
         for (final Map.Entry<String, List<Selector>> pathToSelectorsEntry : pathToSelectors.entrySet()) {
@@ -185,20 +187,25 @@ public class WiktionarySplitter extends org.xml.sax.helpers.DefaultHandler imple
                 title.startsWith("Kategorie:") ||
                 title.startsWith("Hilfe:") ||
                 title.startsWith("Reim:") ||
+                title.startsWith("Rekonstruktion:") ||
                 title.startsWith("Modul:") ||
                 // FR:
                 title.startsWith("Annexe:") ||
                 title.startsWith("Catégori:") ||
+                title.startsWith("Conjugaison:") ||
+                title.startsWith("Convention:") ||
                 title.startsWith("Modèle:") ||
                 title.startsWith("Thésaurus:") ||
                 title.startsWith("Projet:") ||
                 title.startsWith("Aide:") ||
                 title.startsWith("Fichier:") ||
                 title.startsWith("Wiktionnaire:") ||
+                title.startsWith("Translations:Aide:") ||
                 title.startsWith("Translations:Wiktionnaire:") ||
                 title.startsWith("Translations:Projet:") ||
                 title.startsWith("Catégorie:") ||
                 title.startsWith("Portail:") ||
+                title.startsWith("Racine:") ||
                 title.startsWith("utiliusateur:") ||
                 title.startsWith("Kategorio:") ||
                 title.startsWith("Tutoriel:") ||
