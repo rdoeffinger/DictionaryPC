@@ -110,6 +110,7 @@ public class WiktionaryLangs {
         isoCodeToEnWikiName.put("scn", "Sicilian");
         isoCodeToEnWikiName.put("cu", "Old Church Slavonic");
         isoCodeToEnWikiName.put("rom", "Romani");
+        isoCodeToEnWikiName.put("mww", "White Hmong");
 
         // No longer exists in EN:
         // isoCodeToEnWikiName.put("BS", "Bosnian");
@@ -180,6 +181,7 @@ public class WiktionaryLangs {
         isoCodeToWikiName.put("UK", Pattern.quote("{{langue|uk}}"));
         isoCodeToWikiName.put("PT", Pattern.quote("{{langue|pt}}"));
         isoCodeToWikiName.put("SV", Pattern.quote("{{langue|sv}}"));
+        isoCodeToWikiName.put("mww", Pattern.quote("{{langue|mww}}"));
 
         // egrep -o '= *\{\{-[a-z]+-\}\} *=' itwiktionary-pages-articles.xml | sort | uniq -c | sort -n
         isoCodeToWikiName = new LinkedHashMap<>();
