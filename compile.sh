@@ -1,8 +1,10 @@
 ICU4J=/usr/share/java/icu4j-49.1.jar
 test -r "$ICU4J" || ICU4J=/usr/share/icu4j-55/lib/icu4j.jar
+test -r "$ICU4J" || ICU4J=/usr/share/java/icu4j-60.2.jar
 test -r "$ICU4J" || ICU4J=$(pwd)/icu4j-55.2.jar
 JUNIT=/usr/share/java/junit.jar
 test -r "$JUNIT" || JUNIT=/usr/share/junit/lib/junit.jar
+test -r "$JUNIT" || JUNIT=/usr/share/java/junit4-4.13.2.jar
 test -r "$JUNIT" || JUNIT=$(pwd)/junit-4.13.2.jar
 COMMONS=/usr/share/java/commons-text.jar
 test -r "$COMMONS" || COMMONS=$(pwd)/commons-text-1.13.1.jar

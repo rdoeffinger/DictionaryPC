@@ -3,6 +3,8 @@ if ! test -x "$RUNNER" ; then
   # -agentlib:hprof=heap=sites,depth=20
   ICU4J=/usr/share/java/icu4j-49.1.jar
   test -r "$ICU4J" || ICU4J=/usr/share/icu4j-55/lib/icu4j.jar
+  test -r "$ICU4J" || ICU4J=/usr/share/java/icu4j-60.2.jar
+  test -r "$ICU4J" || ICU4J=$(pwd)/icu4j-55.2.jar
   COMMONS_LANG3=/usr/share/java/commons-lang3.jar
   test -r "$COMMONS_LANG3" || COMMONS_LANG3=/usr/share/commons-lang-3.3/lib/commons-lang.jar
   COMMONS_TEXT=/usr/share/java/commons-text.jar
