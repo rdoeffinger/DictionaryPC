@@ -8,6 +8,6 @@ if ! test -x "$RUNNER" ; then
   COMMONS_IO=/usr/share/java/commons-io.jar
   JAVA=/usr/lib/jvm/java-8-openjdk-amd64/jre/bin/java
   test -x "$JAVA" || JAVA=java
-  RUNNER="$JAVA -Xmx4096m -classpath bin/:$ICU4J:$COMMONS_COMPRESS:$COMMONS_IO com.hughes.android.dictionary.engine.Runner"
+  RUNNER="$JAVA -Xmx4096m -Djdk.xml.maxGeneralEntitySizeLimit=0 -classpath bin/:$ICU4J:$COMMONS_COMPRESS:$COMMONS_IO com.hughes.android.dictionary.engine.Runner"
 fi
 $RUNNER WiktionarySplitter "$@"
