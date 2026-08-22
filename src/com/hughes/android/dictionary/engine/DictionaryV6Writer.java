@@ -268,6 +268,13 @@ public class DictionaryV6Writer {
             stoplistlen += 12; // block data: capacity (int), load factor (float), size (int)
             for (String s : idx.stoplist) {
                 stoplistlen += 3 + s.length();
+                // take into account characters that need more than 1 byte
+                for (int i = 0; i < s.length(); i++) {
+                    int c = s.charAt(i);
+                    assert c > 0;
+                    if (c >= 0x80) stoplistlen++;
+                    if (c >= 0x800) stoplistlen++;
+                }
             }
             stoplistlen++;
 
