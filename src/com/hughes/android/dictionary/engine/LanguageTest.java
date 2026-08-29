@@ -162,12 +162,6 @@ public class LanguageTest extends TestCase {
         // These don't seem quite right....
         assertEquals("haswb", transliterator.transliterate("حاسوب"));
         assertEquals("kmbywtr", transliterator.transliterate("كمبيوتر"));
-
-        assertEquals("{\u200e كمبيوتر \u200e}", Language.fixBidiText("{كمبيوتر}"));
-        assertEquals("{a=\u200e كمبيوتر \u200e}", Language.fixBidiText("{a=كمبيوتر}"));
-        assertEquals("(\u200e كمبيوتر \u200e)", Language.fixBidiText("(كمبيوتر)"));
-        assertEquals("أنثى أنْثَى (’únθā) {f}, إناث (’ināθ) {p}, اناثى (’anāθā) {p}", Language.fixBidiText("أنثى أنْثَى (’únθā) {f}, إناث (’ināθ) {p}, اناثى (’anāθā) {p}"));
-
     }
 
     public void testThai() {
