@@ -70,6 +70,7 @@ public class WiktionaryLangs {
         isoCodeToEnWikiName.put("MS", "Malay");
         isoCodeToEnWikiName.put("MI", "Maori");
         isoCodeToEnWikiName.put("MN", "Mongolian");
+        isoCodeToEnWikiName.put("nci", "Classical Nahuatl");
         isoCodeToEnWikiName.put("NE", "Nepali");
         isoCodeToEnWikiName.put("NO", "Norwegian");
         isoCodeToEnWikiName.put("FA", "Persian");
@@ -207,6 +208,7 @@ public class WiktionaryLangs {
         isoCodeToWikiName.put("EN", Pattern.quote("{{lengua|en}}"));
         isoCodeToWikiName.put("FR", Pattern.quote("{{lengua|fr}}"));
         isoCodeToWikiName.put("IT", Pattern.quote("{{lengua|it}}"));
+        isoCodeToWikiName.put("nci", Pattern.quote("{{lengua|nci}}"));
 
         // Pattern seems to match Italian one
         isoCodeToWikiName = new LinkedHashMap<>();

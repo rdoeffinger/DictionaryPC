@@ -3,3 +3,4 @@ ar Arabic tr Turkish
 de German th Thai
 es Spanish ca Catalan
 es Spanish pt Portuguese
+es Spanish nci Classical Nahuatl
